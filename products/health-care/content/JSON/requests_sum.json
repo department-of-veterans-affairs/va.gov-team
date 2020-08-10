@@ -1,0 +1,109 @@
+
+{
+  "data": [
+    {
+      "id": "8a4886886e4c8e22016e6613216d001g",
+      "attributes": {
+        "dataIdentifier": {
+          "uniqueId": "8a4886886e4c8e22016e6613216d001g",
+          "systemId": "var"
+        },
+        "patientIdentifier": {
+          "uniqueId": "1012845331V153043",
+          "assigningAuthority": "ICN"
+        },
+        "surrogateIdentifier": {},
+        "lastUpdatedDate": "11/13/2019 11:42:40",
+        "optionDate1": "09/21/2020",
+        "optionTime1": "AM",
+        "optionDate2": "No Date Selected",
+        "optionTime2": "No Time Selected",
+        "optionDate3": "No Date Selected",
+        "optionTime3": "No Time Selected",
+        "status": "Submitted",
+        "appointmentType": "Primary Care",
+        "visitType": "Video Conference",
+        "facility": {
+          "name": "CHYSHR-CHEYENNE VAMC",
+          "type": "M&ROC",
+          "facilityCode": "983",
+          "state": "WY",
+          "city": "CHEYENNE",
+          "address": "2360 EAST PERSHING BLVD",
+          "parentSiteCode": "983",
+          "objectType": "Facility",
+          "link": []
+        },
+        "email": "Vilasini.reddy@va.gov",
+        "textMessagingAllowed": false,
+        "phoneNumber": "(555) 555-5555",
+        "purposeOfVisit": "Other",
+        "providerId": "0",
+        "secondRequest": false,
+        "secondRequestSubmitted": false,
+        "patient": {
+          "displayName": "MORRISON, JUDY",
+          "firstName": "JUDY",
+          "lastName": "MORRISON",
+          "dateOfBirth": "Apr 01, 1953",
+          "patientIdentifier": {
+            "uniqueId": "1259897978"
+          },
+          "ssn": "796061976",
+          "inpatient": false,
+          "textMessagingAllowed": false,
+          "id": "1259897978",
+          "objectType": "Patient",
+          "link": []
+        },
+        "bestTimetoCall": ["Afternoon", "Evening", "Morning"],
+        "appointmentRequestDetailCode": [],
+        "hasVeteranNewMessage": false,
+        "hasProviderNewMessage": false,
+        "providerSeenAppointmentRequest": false,
+        "requestedPhoneCall": false,
+        "typeOfCareId": "323",
+        "friendlyLocationName": "CHYSHR-Cheyenne VA Medical Center- RR",
+        "patientId": "1259897978",
+        "date": "2019-11-13T11:42:40.033+0000",
+        "assigningAuthority": "ICN",
+        "systemId": "var",
+        "selfUri": "/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/1012845331V153043/appointments/system/var/id/8a4886886e4c8e22016e6613216d001f",
+        "selfLink": {
+          "rel": "self",
+          "href": "/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/1012845331V153043/appointments/system/var/id/8a4886886e4c8e22016e6613216d001f",
+          "objectType": "AtomLink"
+        },
+        "objectType": "VARAppointmentRequest",
+        "link": [
+          {
+            "rel": "self",
+            "href": "/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/1012845331V153043/appointments/system/var/id/8a4886886e4c8e22016e6613216d001f",
+            "objectType": "AtomLink"
+          },
+          {
+            "rel": "related",
+            "title": "appointment-request-messages",
+            "href": "/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/1012845331V153043/appointment-requests/system/var/id/8a4886886e4c8e22016e6613216d001f/messages",
+            "objectType": "AtomLink"
+          },
+          {
+            "rel": "related",
+            "title": "appointment-request-new-message-flag",
+            "href": "/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/1012845331V153043/appointment-requests/system/var/id/8a4886886e4c8e22016e6613216d001f/messages/read",
+            "objectType": "AtomLink"
+          },
+          {
+            "rel": "related",
+            "title": "appointment-request-provider-seen-flag",
+            "href": "/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/1012845331V153043/appointment-requests/system/var/id/8a4886886e4c8e22016e6613216d001f/appointment/provider-read",
+            "objectType": "AtomLink"
+          }
+        ],
+        "createdDate": "11/13/2019 11:42:40"
+      }
+    },
+    ...
+    
+    ]
+  }
