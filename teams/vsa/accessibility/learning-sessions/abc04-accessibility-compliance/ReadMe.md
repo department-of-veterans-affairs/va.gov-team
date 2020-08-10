@@ -1,9 +1,4 @@
 
-```diff
-! Draft In-progress
-```
-
-
 Accessibility Beyond Compliance (ABC)
 # Accessibility Compliance
 Friday, July 24, 2020, at noon ET, Accessibility Beyond Compliance (ABC) Learning Sessions Series
@@ -12,8 +7,8 @@ Friday, July 24, 2020, at noon ET, Accessibility Beyond Compliance (ABC) Learnin
 
 Additional formats to access content. Video available in mp4, for those with access to the VSA Team Google Drive.
 
-* [PDF]()
-* [PPTX]()
+* [PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc04-accessibility-compliance/2020-03-ABC-Compliance.pdf)
+* [PPTX](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc04-accessibility-compliance/2020-03-ABC-Compliance.pptx)
 * [Video](https://drive.google.com/file/d/1nd_kw-B17TZ6eogwzP78crB8Ldzh9ynG/view?usp=sharing) - Available for VSA Team in our Google Drive
 
 
@@ -215,3 +210,4 @@ Find the rubric in the [va.gov-team repo](https://github.com/department-of-veter
 - #vetsgov-accessibility Slack channel
 - Elissa Olinsky’s [Accessibility Beyond Compliance blogpost](https://adhoc.team/2020/02/07/accessibility-beyond-compliance/), also available in the [VSA accessibility repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/accessibility-beyond-compliance.md)
 - Accessibility review tool for design and development [Google Sheet](https://docs.google.com/spreadsheets/d/1xHwdyQAwbsAnD5pTHGaMxpS9XfdbBVcVVTvulgWI7dw/edit#gid=2089055656)
+- [WUHCAG Checklist](https://www.wuhcag.com/wcag-checklist/)
