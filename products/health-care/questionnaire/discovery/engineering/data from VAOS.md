@@ -21,6 +21,8 @@ http://staging.va.gov/vaos/v0/appointments?start_date=2020-08-04T04:00:00.000Z&e
 <!---- 'confirmed_va.json' on frontend mocks ---->
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/confirmed_va.json)
 
+[Summarized](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/confirmed_va_sum.json)
+
 ---
 
 ```
@@ -28,6 +30,8 @@ http://staging.va.gov/vaos/v0/appointments?start_date=2020-08-04&end_date=2021-0
 ```
 <!---- confirmed_cc.json' on frontend mocks --->
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/confirmed_cc.json)
+
+[Summarized]([Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/confirmed_cc_sum.json)
 
 ---
 
