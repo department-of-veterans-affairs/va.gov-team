@@ -250,7 +250,8 @@ A GET call to /v0/appointments returns confirmed appoinments.
   - an attributes.address field
 - The following fields apply to the "va_appointments" type
   - there is a attributes.facilityId field  
-  - There is a vvsAppointments array that contains the appointment data. A sample of this data is shown below
+  - There is a vvsAppointments array that contains the appointment data. A sample of this data is shown below. It contains
+    - multiple provider and patient records, as well as a type and status
   
 ```
 "vvsAppointments": [
