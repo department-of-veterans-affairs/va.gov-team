@@ -74,9 +74,9 @@ How might we replicate the warm, high touch caring in person experience Veterans
 
 ### Additional Findings
 
- *  Interviewees identified future functionality that likely should be out of scope for this release of IRIS, but should be included in a backlog for consideration post official first release.
-(TBD if including - could also just upload transcripts to Github rather than details these in detail).  Need to see if interview transcripts are up there for Chatbot
-   * Texting with medical facilities, or online chat will be helpful.  Better than calling. - P1
-   * One other thing you might want to look  into.  Its called DocuSign to have documents signed for back & forth, etc.Those kind of things would be awesome to have at VA, it  makes things  a lot quicker. - P1
+Interviewees identified future functionality that likely should be out of scope for this release of IRIS, but should be included in a backlog for consideration post official first release.  These findings included:
 
-Additional findings may go into the product backlog
+* Texting with medical facilities, or online chat will be helpful.  Better than calling. - P1
+* One other thing you might want to look  into. It's called DocuSign to have documents signed for back & forth, etc.Those kind of things would be awesome to have at VA, it makes things  a lot quicker. - P1
+
+Full details of interviews are available upon request.
