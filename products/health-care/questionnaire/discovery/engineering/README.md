@@ -350,6 +350,20 @@ After the initial demo, we have found a list questions that need to be answered.
 
 ---
 
+## VEText Integration
+
+VETText is a push notification system used for reminding veterans of upcoming appointments. Currently this is text format.  Eventually this will be integrated with the [mobile app](#mobile-experience-findings), but for now its currently texted message based.  
+
+Currently this system is still in the early stages.  There is no decision tree, not replying and centered around a more robust delivery system. 
+
+This system could be a strong integration once we get our proof of concepts running. For the team to send a message, with a custom text, link and/or data there is an API available that will send a message to the vet at that time. This means we can schedule messages to go out, if we build our own reminder service. 
+
+Currently, VEText is listening and sending 10, 7, 3 and 1 days out and if we wanted to integrate with that existing system, the team is open to collaboration. 
+
+Their current data integration is via VistALink. They have a direct link into the VistA systems via each thing. After chatting with Shane Elliot, their could be a way to create a Appointment event system. The way their system works is that, using VistALink, they are checking every day (pulling data) for new appointments and creating reminders based on that. 
+
+When more concrete use cases start to form, the team can reach out to Shane for further answers
+
 ## VA Gov research using vets-web frontend
 
 The vets-web front end mocks some of the data, that is it has
