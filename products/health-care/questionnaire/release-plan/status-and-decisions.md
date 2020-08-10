@@ -6,6 +6,47 @@
 > [Roadmap Release Plan Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/README.md)
 
 
+<details> <summary> August 2020</summary>
+
+## Status - August 28th, 2020
+
+## Status - August 21st, 2020
+
+## Status - August 14th, 2020
+
+## Status - August 7th, 2020
+
+**Product**
+- Product drafted [MVP Initiatives for remaining Q3 sprints](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/visit-intro.md)
+	- [Feature - This Visit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/visit-intro.md)
+	- [Workflow Diagram](https://app.mural.co/t/vsa8243/m/vsa8243/1596561661701/0afd94dfc8598b105524e87c8828b10dba98bbf2)
+- [TOT Aug 4th](https://drive.google.com/file/d/1wa0av_riHEbdGTBo4ya6-2XDpPx4_XAz/view?usp=sharing)
+
+**Research and Design**
+- Design mockup of demographics and this visit for veteran feedback sessions. 
+	- [Usability Testing Prep Questionnaires MVP Priorities #11838](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11838)
+	- [Card Sort](https://lh6.googleusercontent.com/C0-kJQU4_O8ftCXMNqCJLor3gzrT8_Tc6uvgWJYmr2MEhTo7NO_xx0nflHFnafWmxU2_N3DRYbrwHVSBv0rDnMb12MF96qAxs92i81XouXApk8-KqFUUELoc5bA0B-AIVYUnmbMU)
+- User Testing Started on Friday 7th. 
+
+**Engineering**
+- VAOS/CPRS tech investigation and recommendations continue
+- Engineering to continue research API/interface feeds into EHR's, MPI, CMS
+
+**Next Step/Followup**
+- prep stories for first coding sprint 28
+-  complete Veteran feedback on mockup and priorities 
+	
+**Decisions:**
+- Not a decision but a major technical finding - Determined that no Patient Generated Data goes into CPRS today and now team needs to determine what other clinician facing solution can view PGD database. 
+
+**Blockers:**
+- Received 6 of 15 VA forms for current state documents to use for standardized questions, will review and determine if we need more for next phase of development.
+- No changes in status from previous week for blocker [Stakeholder Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
+
+
+</details>
+
+
 <details> <summary> July 2020</summary>
 
 ## Status - July 31st, 2020
