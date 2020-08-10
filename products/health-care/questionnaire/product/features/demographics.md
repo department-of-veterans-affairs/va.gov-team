@@ -22,10 +22,10 @@
 ---
 
 Display from Profile or MPI?? Need to determine the differences and where to pull from.
-read only for now.
-Name, DOB, Gender
-contact (phone)
-address
+- read only for now.
+- Name, DOB, Gender
+- vcontact (phone)
+- address
 
 
 ## Out of scope 
