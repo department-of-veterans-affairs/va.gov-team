@@ -94,3 +94,19 @@ WCAG 2.0 AA uses:
 
 Key words for use in Request for Comments (RFC) to indicate requirement levels, from Harvard University, provided by Deque: https://tools.ietf.org/html/rfc2119 
 
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc04-accessibility-compliance/RFC-req-levels.png" alt="Harvard University's explanation of the different requirement levels" />
+
+### Accessibility Feedback Framework
+
+ **Must** — required for compliance
+**Should** — best practice, industry recommendations, and should be implemented for compliance
+**Consider** — suggestions, enhancements, inclusive design, questions/items to consider
+
+### VA Accessibility Defect Severity Rubric
+
+The framework aligns to the severity rubric. Each issue ticket has a label indicating the severity or impact of the issue that links to the rubric level documentation. 
+- Must: 508-defect-0, 1, 2
+- Should: 508-defect-3
+- Consider: 508-defect-4
+Find the [rubric in the va.gov-team repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md). This appears at the top of each ticket, with the defect rating, linked to its defect description.
+
