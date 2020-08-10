@@ -116,3 +116,5 @@ Find the [rubric in the va.gov-team repo](https://github.com/department-of-veter
 
 ### What does it look like in practice?
 
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc04-accessibility-compliance/feedback-in-practice.png" alt="feedback in issue tickets, review comments" />
+
