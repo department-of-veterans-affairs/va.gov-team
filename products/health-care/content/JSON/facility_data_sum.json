@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "id": "vha_442",
+      "type": "va_facilities",
+      "attributes": {
+        "uniqueId": "442",
+        "name": "Cheyenne VA Medical Center",
+        "facilityType": "va_health_facility",
+        "classification": "VA Medical Center (VAMC)",
+        "website": "http://www.cheyenne.va.gov",
+        "lat": 41.1457280000001,
+        "long": -104.7895949,
+        "address": {
+          "mailing": {},
+          "physical": {
+            "zip": "82001-5356",
+            "city": "Cheyenne",
+            "state": "WY",
+            "address1": "2360 East Pershing Boulevard",
+            "address2": null,
+            "address3": null
+          }
+        },
+        "phone": {
+          "fax": "307-778-7381",
+          "main": "307-778-7550",
+          "pharmacy": "866-420-6337",
+          "afterHours": "307-778-7550",
+          "patientAdvocate": "307-778-7550 x7517",
+          "mentalHealthClinic": "307-778-7349",
+          "enrollmentCoordinator": "307-778-7550 x7579"
+        },
+        "hours": {
+          "friday": "24/7",
+          "monday": "24/7",
+          "sunday": "24/7",
+          "tuesday": "24/7",
+          "saturday": "24/7",
+          "thursday": "24/7",
+          "wednesday": "24/7"
+        },
+        "services": {
+          "other": [],
+          "health": [
+            { "sl1": ["EmergencyCare"], "sl2": [] },
+            { "sl1": ["PrimaryCare"], "sl2": [] },
+            { "sl1": ["MentalHealthCare"], "sl2": [] },
+            { "sl1": ["WomensHealth"], "sl2": [] },
+            { "sl1": ["Audiology"], "sl2": [] },
+            { "sl1": ["Cardiology"], "sl2": [] },
+            { "sl1": ["Dermatology"], "sl2": [] },
+            { "sl1": ["Gastroenterology"], "sl2": [] },
+            { "sl1": ["Gynecology"], "sl2": [] },
+            { "sl1": ["Ophthalmology"], "sl2": [] },
+            { "sl1": ["Optometry"], "sl2": [] },
+            { "sl1": ["Orthopedics"], "sl2": [] },
+            { "sl1": ["Urology"], "sl2": [] },
+            { "sl1": ["SpecialtyCare"], "sl2": [] },
+            { "sl1": ["DentalServices"], "sl2": [] }
+          ],
+          "lastUpdated": "2019-11-04"
+        },
+        "feedback": {
+          "health": {
+            "effectiveDate": "2019-06-20",
+            "primaryCareUrgent": 0.68,
+            "primaryCareRoutine": 0.81,
+            "specialtyCareUrgent": 0.68,
+            "specialtyCareRoutine": 0.85
+          }
+        },
+        "access": {
+          "health": {
+            "urology": { "new": 24.382352, "established": 11.85 },
+            "audiology": { "new": 10.971153, "established": 3.642857 },
+            "optometry": { "new": 34.876712, "established": 7.920096 },
+            "cardiology": { "new": 20.727272, "established": 7.604651 },
+            "gynecology": { "new": 16.625, "established": 6.573529 },
+            "dermatology": { "new": 14.0, "established": null },
+            "orthopedics": { "new": 23.2125, "established": 5.181069 },
+            "primaryCare": { "new": 13.964912, "established": 4.762917 },
+            "ophthalmology": { "new": 3.0, "established": 1.072289 },
+            "womensHealth": { "new": 16.625, "established": 6.573529 },
+            "effectiveDate": "2019-11-04",
+            "specialtyCare": { "new": 15.125356, "established": 3.850275 },
+            "gastroenterology": { "new": 12.8, "established": 9.76923 },
+            "mentalHealthCare": { "new": 13.5, "established": 4.145183 }
+          }
+        }
+      }
+    },
+    ...
+   ]
+ }
