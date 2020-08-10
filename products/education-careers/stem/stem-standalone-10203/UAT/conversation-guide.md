@@ -20,11 +20,15 @@
 
 Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about [description of your project]. 
 
+First of all thank you for your willingness to participate in this session. Your participation allows us to ensure that other veterans who will be using this form in the future will have a good experience. The form you’ll be completing is an application for the Edith Nourse Rogers STEM Scholarship that provides up to nine months of additional Post-9/11 GI Bill benefits (to a maximum of $30,000) to qualifying Veterans and Fry Scholars seeking an undergraduate STEM degree or who have earned a STEM degree and are seeking a teaching certification.
+
+For today’s session we’d like to have you submit your own STEM Scholarship application by walk through the application process yourself. There are no right or wrong answers or ways of completing the application. We also encourage you to think out loud so we can better understand your perspective.
+
 Before we start, a few things I want to mention:
 
+- **There are a few other individuals on the line observing.** They are watching for any errors that arise in the application system during the application process. 
 - **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **In this session, we want to hear your honest opinions.** I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
@@ -41,8 +45,12 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## First Task: [TASK NAME] - X minutes
 
-- Step 1
-- Step 2
+Getting Started
+[ Facilitator shares their screen while STEM application intro page and grants the veteran access to control their screen]
+
+https://staging.va.gov/education/apply-for-education-benefits/application/10203/introduction
+
+Upon conclusion, remind the veteran to log out of the application. 
 
 ### Things to watch for:
 
@@ -80,12 +88,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Thank-You and Closing - X minutes
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
-
-Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
-    If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
-
-Great, well thank you so much again, and enjoy the rest of your day!
+Well we really appreciate you taking the time to do this today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for other Veterans.
 
 ## Sample Conversation Guides _(note: these links point to resources in the va.gov-team GitHub repo)_
 
