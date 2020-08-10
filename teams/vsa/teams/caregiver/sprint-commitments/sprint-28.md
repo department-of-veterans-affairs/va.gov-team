@@ -16,7 +16,7 @@
 
 ## Design
 - [ ] Generate designs for address work for 10-10EZ
-        - [ ] Authenticated vs. unauthenticated
+        - Authenticated vs. unauthenticated
 - [ ] Continue discovery into 10-10EZ
 - [ ] Prep for staging review
 - [ ] Post-staging review tickets
