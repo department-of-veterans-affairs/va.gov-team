@@ -3,7 +3,7 @@
 
 - Collaboration Cycle [Project Kickoff](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116450) held on Friday, August 7th with Liz, Mickin, Leah, Luke, Jason and Matt.   
 - Meeting highlights:
-  - All agreed that each Wizard (Education, Disability, HLR and Personal Career Counseling) should separately go the collab cycle
+  - All agreed that each Wizard (Education, Disability, HLR and Personal Career Counseling) should separately go through the collab cycle
   - For Education, which is fully developed and feature flagged in staging, all agreed to the following cycle touchpoints, with Leah Keeler taking the lead:
       - IA (Mikki), with recommended changes for linking and content anticipated
       - Content (Peggy), additional content changes are possible to support the new location of the Wizard with Public Websites team involved
