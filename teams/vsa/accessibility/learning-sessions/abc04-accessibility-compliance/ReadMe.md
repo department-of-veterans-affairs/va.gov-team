@@ -118,3 +118,5 @@ Find the [rubric in the va.gov-team repo](https://github.com/department-of-veter
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc04-accessibility-compliance/feedback-in-practice.png" alt="feedback in issue tickets, review comments" />
 
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc04-accessibility-compliance/feedback-in-prs.png" alt="feedback in PRs" />
+
