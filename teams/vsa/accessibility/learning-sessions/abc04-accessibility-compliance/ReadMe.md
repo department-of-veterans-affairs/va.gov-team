@@ -148,3 +148,32 @@ Accessibility is included in the following collaboration points:
 
 ## Contractual obligations
 
+### What is 508 Compliance? 
+
+Section 508, an amendment to the United States Workforce Rehabilitation Act of 1973, is a federal law mandating that all electronic and information technology developed, procured, maintained, or used by the federal government be accessible to people with disabilities. Since June 2001 the law has required all content created using federal money to be 508 compliant. 
+
+This law requires that all website content be accessible to people with disabilities, including government hosted or contractor hosted websites and intranet sites, both public- and government-facing. 
+
+This applies to Web applications, Web pages, and all attached files on the Intranet and the Internet,  including website content, emails, computer software, gaming systems, and PDF versions of traditionally printed assets. PDFs may require 508 remediation as they are not accessible by screen readers. 
+
+### Section 508 uses WCAG standards
+
+Pronounced “Wuh cag,” WCAG is a rule called the Web Content Accessibility Guidelines (WCAG) created by a group at the W3C. This ruleset explains how to make the web work better for people with disabilities. 
+
+In January 2017, Section 508 underwent a refresh that was many years in the making. A significant change is that the WCAG 2.0 Level A and AA guidelines are now incorporated by reference and required by Section 508. Prior to the refresh, Section 508 included its own list of requirements, which were a modified subset of WCAG 1.0 (not the current version of WCAG).
+
+To be Section 508 compliant, WCAG 2.0, Level A and AA, is the standard. 
+
+We use a series of automated and manual success criteria for ensuring electronic content and web apps are accessible for the largest group of users.
+
+### WCAG 2.0, possibly soon to be 2.1?
+
+Remember that previously mentioned “ambiguity”?
+- Section 508 is based on WCAG 2.0 success criteria.
+- WCAG 2.1 was released on June 5, 2018.
+- Section 508 is rumoured to adopt WCAG 2.1 “soon,” although the Access Board indicated they may choose to wait for WCAG 3.0 (Silver / Ag).
+- We aim to future-proof in our work.
+- Section 508 is based on WCAG 2.0, and was not created with mobile in mind, so the criteria is insufficient to address mobile design use cases.
+- WCAG 2.1 prioritizes mobile success criteria, and improves the quality of mobile UX.
+
+<blockquote>What do you think makes sense for us to support on VA.gov?</blockquote>
