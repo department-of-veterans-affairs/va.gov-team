@@ -1,5 +1,4 @@
 # Clipboard Technical Discovery [WIP]
-
 - [Clipboard Technical Discovery [WIP]](#clipboard-technical-discovery-wip)
   - [Problem Statement](#problem-statement)
   - [Introduction](#introduction)
@@ -17,6 +16,7 @@
   - [CMS Integration](#cms-integration)
   - [VA Online Scheduler (VAOS)](#va-online-scheduler-vaos)
   - [VEText Integration](#vetext-integration)
+  - [Analytics Investigation](#analytics-investigation)
   - [VA Gov research using vets-web frontend](#va-gov-research-using-vets-web-frontend)
 
 ## Problem Statement
