@@ -177,3 +177,5 @@ Remember that previously mentioned “ambiguity”?
 - WCAG 2.1 prioritizes mobile success criteria, and improves the quality of mobile UX.
 
 <blockquote>What do you think makes sense for us to support on VA.gov?</blockquote>
+
+
