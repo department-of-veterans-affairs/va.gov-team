@@ -62,7 +62,7 @@ A. We try to do pull request reviews quickly, but if you need a review faster, e
 
 Q. What do I do if my pull request receives a _warning_ that it is too large?
 
-A. Review your code and decide if you can make two or more smaller, focused pull requests. Feel free to reach out to #vfs-platform-support for help about reducing the size or coordinating a larger review. Expect that reviewing the pull request will take additional time.
+A. Review your code and decide if you can make two or more smaller, focused pull requests. Feel free to reach out to [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) for help about reducing the size or coordinating a larger review. Expect that reviewing the pull request will take additional time.
 
 Q. What do I do if my pull request was *rejected* because it is too large?
 
