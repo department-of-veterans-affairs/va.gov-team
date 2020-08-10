@@ -13,9 +13,15 @@ That's what this Release Plan Template is for!
 ### Planning:
 Moderated testing will occur with both Veterans and other eligible beneficiaries as well as School Certifying Officials. 
 - Desired date range or test duration: 08/03/2020-08/14/2020
-- Desired number of users: 12 (6 of each)
-- How you'll recruit the right production test users: TBD
-- How you'll conduct the testing: TBD
+- Desired number of users:
+   - Eligible Veterans: at least 3 eligible (based on entitlement remaining, benefit utilized, program), 
+   - Ineligible Veterans: at least 3 ineligible (at least 1 due to too much entitlement, 1 due to benefit, 1 due to program)
+   - SCOs: 3 (note SCO testing is separate from Veteran testing and will occur on staging only). Note, on Production we will work with EDU to reach out to SCOs who've received emails from our Veteran participants to confirm that they've received the emails. 
+- How you'll recruit the right production test users: 
+  - SCO: SCOs have been recruited through our EDU partners
+  - Veterans: Through BAH network and with assistance from EDU
+- How you'll conduct the testing:
+  - SCOs: 
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: TBD
 
 ### Results:
@@ -77,7 +83,7 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 #### Planning
 
 - Length of time: 2 days?
-- Percentage of Users (and roughly how many users do you expect this to be): x% (500 users) (_Recommendation: select a percentage that targets ~500 users, or at most 10%_) TBD
+- Percentage of Users (and roughly how many users do you expect this to be): 5% (_Recommendation: select a percentage that targets ~500 users, or at most 10%_) 
 
 #### Results:
 - Number of unique users: x
@@ -92,7 +98,7 @@ _Test a larger population of users to make sure there are no issues exposed by l
 
 #### Planning
 
-- Length of time: 4 days?
+- Length of time: 3 days?
 - Percentage of Users (and roughly how many users do you expect this to be): 25% (x users)
 
 #### Results:
