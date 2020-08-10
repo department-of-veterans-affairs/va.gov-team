@@ -33,7 +33,6 @@
 ## Sprint 28 - Visit Into Design & Dev Start
 8/12/2020 - 8/25/2020
 - [Milestone 288](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/288)
-- [Sprint 28 Priorities #11301](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11301)
 - Status and Decisions - [Aug 14th](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/status-and-decisions.md#aug-14th-2020) & [August 21st](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/status-and-decisions.md#august-21st-2020) 
 - [Retrospective August 24th](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/sprint-28.md) 
 
@@ -41,10 +40,10 @@
 |-|:-:|:-:|
 | Stakeholder Interviews & Paper 	 	| -- |  #11037	|
 | Card Sort and Visit Intro research complete	 	| -- | #11936 | 
-| [UI] Demographics and This Visit mocks complete   	| -- | #12259 &|
-| FE/BE Authentication		| -- | | 
-| BE Data Interfaces | -- | |
-| FE This Visit UI  | -- | |
+| [UI] Demographics and This Visit mocks complete   	| -- | #12259 & #12280|
+| [FE/BE] Tech Spike - Unauth and Auth Pros and Cons		| -- | #12291 | 
+| [BE] Reason for Visit data Integration | -- | #12285 |
+| [FE] This Visit Questions and Demographics| -- | #12281 & #12257|
 
 
 
