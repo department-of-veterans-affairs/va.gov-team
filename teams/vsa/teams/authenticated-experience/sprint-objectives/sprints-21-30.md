@@ -297,8 +297,6 @@ If sprint 27 tickets are done, and if Tressa/Cassandra have a good understanding
 
 - Plan for LOA3 use cases #10162
 - Plan for LOA1 use case #10164
-- Plan for how to work with the platform team #10516
-- Plan for how/when to conduct user testing #10518
 
 Dev
 
@@ -329,7 +327,9 @@ PM
 - Start documenting staging users scenarios
 
 Design
-- Initial iterations
+- Initial iterations/explorations
+- Plan for how to work with the platform team #10516
+- Plan for how/when to conduct user testing #10518
 
 ## Sprint 30 (9/9 – 9/22)
 
