@@ -110,3 +110,9 @@ The framework aligns to the severity rubric. Each issue ticket has a label indic
 - Consider: 508-defect-4
 Find the [rubric in the va.gov-team repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md). This appears at the top of each ticket, with the defect rating, linked to its defect description.
 
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc04-accessibility-compliance/severity-01.png" alt="Feedback framework plus 508 defect severity at the top of a ticket" />
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc04-accessibility-compliance/severity-02.png" alt="508 defect severity Github page" />
+
+### What does it look like in practice?
+
