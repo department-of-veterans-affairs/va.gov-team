@@ -31,7 +31,7 @@ http://staging.va.gov/vaos/v0/appointments?start_date=2020-08-04&end_date=2021-0
 <!---- confirmed_cc.json' on frontend mocks --->
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/confirmed_cc.json)
 
-[Summarized Returned JSON]([Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/confirmed_cc_sum.json)
+[Summarized Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/confirmed_cc_sum.json)
 
 ---
 
