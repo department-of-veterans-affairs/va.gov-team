@@ -19,7 +19,7 @@
 
 - There is a GetCare app that also works with PGD through VAMF
 - GetCare is mobile app used for all encompassing VHA appointments. It is used for senior appointments showing pre visit agenda, entering family history, senior prescriptions
-- GetCare is a resource for investigation to how it accesses PGD and to consider avoiding duplication if that applies. GetCare writes FHIR Questionnaire and QuestionnaireResponse records to VAMF.
+- GetCare is a resource for investigation to how it accesses PGD and to consider avoiding duplication if that applies. GetCare writes Questionnaire and QuestionnaireResponse text to VAMF (not as FHIR based records). It would appear that in this case, if VAMF writes that to PGD as a FHIR based Questionnaire, then it handles those details.
 
 Questionanaire writes through VAMF from GetCare are of this form: 
 ```
