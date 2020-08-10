@@ -48,7 +48,6 @@ These are the links from the existing homepage.
 
 **Records**
 
-- Records
 - Get Veteran ID cards
 - Get your VA medical records
 - Download your benefit letters
