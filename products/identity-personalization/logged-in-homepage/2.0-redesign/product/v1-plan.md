@@ -75,5 +75,5 @@ These are some things it might be cool to add in the future, if possible. Don't 
 - GI Bill benefit information.
 - Recent payments from the VA (instead of just linking to them).
 - Recent medical orders (eg. hearing aids, prosthetic socks, etc).
-- The ability to do interact with a feature right from the dashboard instead of having to click into it (eg. uploading evidence to a claim right from the homepage).
+- The ability to interact with a feature right from the dashboard instead of having to click into it (eg. uploading evidence to a claim right from the homepage).
 - Showing new data, or data in a different way (eg. could we show where a prescription is en route?).
