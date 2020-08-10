@@ -349,6 +349,8 @@ After the initial demo, we have found a list questions that need to be answered.
 
 > For upcoming appointments screen, what would it take to integrate a form link there?
 
+[VAOS details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/vaos.md)
+
 [VAOS data fields returned](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/data%20from%20VAOS.md)
 
 [Status indicators and states of an appointment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/data%20from%20VAOS.md#status-indicators-and-states-of-appointment)
