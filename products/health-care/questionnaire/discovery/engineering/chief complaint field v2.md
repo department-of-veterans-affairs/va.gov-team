@@ -22,6 +22,12 @@
 - GetCare is used for senior appointments showing pre visit agenda, entering family history, senior prescriptions
 - GetCare is a resource for investigation to how it accesses PGD and to consider avoiding duplication if that applies
 
+#### Authenticated and Unathenticated data
+
+ The forms library documentation explains the best approach regarding authenticated and unathenticated data. Unauthenticated data can be saved locally, when the user logs in, if that data does not exist on the system then it can be populated into the system or save in progress form at that time.
+
+[Authenticated and Unathenticated data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/forms.md#what-was-built)
+
 
 ## Screen shots
 
