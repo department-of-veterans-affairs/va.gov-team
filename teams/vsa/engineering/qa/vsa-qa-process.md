@@ -12,13 +12,15 @@ VSA-QA's **current capacity** can only accommodate **manual-UI testing on Stagin
 
 For now, we're relying on the Product/Feature's **existing, automated unit- and e2e-tests** developed & maintained by Product-Team Engineers.
 
-## Manual-UI testing on Staging
+## Manual-UI testing on Staging \[for VSP Staging Review]
 
 Both Product Team & QA will collaborate & coordinate test planning and test-case development.
 
 Ideally, once Test Plan and Test Cases are mature, VSA-QA will handle actual Test Runs.  In the event that QA capacity/scheduling cannot acoommodate Test Runs in time for any Product/Feature's Staging Review, Product-Team members may need to conduct Test Runs themselves.
 
 ### Process Flow
+
+![Flowchart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/images/VSA-QA-Process-Flow.png)
 
 The required steps of the VSA-QA Process are as follows:
 
