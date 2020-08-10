@@ -278,10 +278,9 @@ Design & Dev: High priority staging review updates
 
 Note: Some of these might be done before the sprint starts.
 
-- [FE] The link from the direct deposit page should take the user directly to the profile/direct-deposit #12032
 - Profile 2.0 - Direct Deposit - Fraud Note copy does not match design prototype #11489
-- 508-defect-2 [SCREENREADER, MOBILE DESIGN] Page MUST contain a level-one heading#11888
-- 508-defect-1 ❗ Launchblocker [SCREENREADER]: On page load, focus MUST be set on the h1#11907
+- 508-defect-2 [SCREENREADER, MOBILE DESIGN] Page MUST contain a level-one heading #11888
+- 508-defect-1 ❗ Launchblocker [SCREENREADER]: On page load, focus MUST be set on the h1 #11907
 
 These are platform related, but we need to make sure they are completed so we can move forward.
 
