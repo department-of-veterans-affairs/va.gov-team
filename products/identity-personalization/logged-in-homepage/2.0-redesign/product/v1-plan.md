@@ -19,7 +19,7 @@ This document lists what Samara would like to see on version 1 of the new logged
 
 ### Links on the homepage we need to include
 
-We basically need to include all of the links in the top 20 tasks on the homepage, **but** we'll show them conditionally if we have the ability to do so. This will make this  So, if someone already has health care, we won't show the link to apply for health care, but if they don't have health care, we will show that link (but not links to prescription, messaging, or appointment info).
+We basically need to include all of the links in the top 20 tasks on the homepage, **but** we'll show them conditionally if we have the ability to do so. So, if someone already has health care, we won't show the link to apply for health care, but if they don't have health care, we will show that link (but not links to prescription, messaging, or appointment info).
 
 These are the links from the existing homepage.
 
