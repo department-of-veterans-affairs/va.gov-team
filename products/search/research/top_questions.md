@@ -21,7 +21,7 @@ For the analysis, the following tools were used:
 ## On-Site Search
 ### Top Questions/Answers
 
-***1. How important is on-site search as a discoverability tool for VA.gov users?***
+***1. How important is on-site search as a discoverability tool for VA.gov users?  In other words, How often is search used by site visitors? ***
 - Since the launch of the modernized VA.gov in November 2018, the average number of searches conducted monthly has grown to more than 550,000
   - the average number of searches conducted daily over the past year is about 25,000, with a sharp decline on the weekends.
   - (Question: Has search activity grown or stalled over the past year?)
@@ -72,10 +72,10 @@ Users are searching for general health and benefit information, forms, and some 
   
 </details>
 
-***3. How effective is VA.gov's search tool at providing the information users/veterans are seeking?***
+***3. How effective is VA.gov's search tool at providing the information users/veterans are seeking? In other words, how many pages of results does a user view after executing a search? Ideally the result they want is in the first page or two of results.***
 
 - While click-through tracking has not been available as part of VA.gov's implementation of the Search.gov utility, there are indicators that site search is not as effective as it needs to be.  According to [two years of Google Analytics data (July 2018-July 2020)](https://analytics.google.com/analytics/web/#/report/content-site-search-overview/a50123418w177519031p184624291/_u.date00=20180726&_u.date01=20200726):
-  - **Exits (Bounces):** The number of exits from VA.gov site that occurred following a result from an internal search: 48%
+  - **Exits (Bounces):** The number of exits from VA.gov site that occurred following a result from an internal search: 48% (This is the percent of searches where the user left without clicking through any result.)
   - **Paging:** The average number of pages a user viewed after conducting a search: 3.36 (viewing 1 page is considered optimal)
   - **Average Search Depth** While the average search depth (e.g., The number of pages visitors viewed after getting results for the search term) is 1.50, some of VA.gov's most popular search terms show a far more significant search depth.
 
@@ -162,7 +162,10 @@ According to [Google Search Console, 22.8% (May 2019-August 2020)](https://searc
 ***5. What are engagement metrics for search-referred visitors -- e.g. pages per session, session duration and bounce rate?***
 
 
+
+
 ***6. How highly ranked are VA.gov's landing pages (or Top Tasks)?*** 
+
 
 
 ***7. What's the bounce rate for VA.gov's landing pages***
@@ -172,18 +175,9 @@ According to [Google Analytics/Search Console](https://analytics.google.com/anal
 ***8. How highly does VA.gov rank/rate for Domain Authority or Authority Score*** 
 (Note: SEMRush describes Authority Score as Authority Score is our compound domain score that grades the overall quality of a website. The higher the score, the more assumed weight a domain’s or webpage’s backlinks could have)
 
+## Background & Resources
 
-https://chartio.com/learn/product-analytics/how-to-measure-performance-of-your-site-search-in-google-analytics/
+**On-Site Search**
 
-% Sessions with Search: How often search is used by site visitors
-
-Results Pageviews / Search: How many pages of results a user views after executing a search. Ideally the result they want is in the first page or two of results
-
-% Search Exits: The percent of searches where the user left without clicking through any result. This is analogous to a bounce rate
-
-Average Search Depth: How many pageviews users had after executing a search
-
-Time after Search: How much time users spend on the site after the search
-
-
-https://searchengineland.com/12-most-important-seo-metrics-to-monitor-285190
+**Off-Site Search**
+- Article: [The 12 Most Important SEO Metrics to Monitor](https://searchengineland.com/12-most-important-seo-metrics-to-monitor-285190)
