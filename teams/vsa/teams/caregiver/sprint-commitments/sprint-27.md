@@ -11,13 +11,13 @@
 - [ ] [508-defect-2 AXE-CORE: Heading levels SHOULD increase by one](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/8556)
 
 ## Back end
-- Send CARMA the claim's guid [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11204)
-- Allow the user to print the PDF [ZenHub](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12088) [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12088)
-- GA event for failures [ZenHub](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12089) [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12089)
-- Backend toggles [ZenHub](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11835) [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11835)
-- Signature field on the PDF [ZenHub](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11536) [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11536)
-- Name of the facility PDF generation [ZenHub](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11429) [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11429)
-- Salesforce downtime ( + talk to Ranga) [ZenHub](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11774) [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11774)
+- [x] Send CARMA the claim's guid [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11204)
+- [x] Allow the user to print the PDF [ZenHub](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12088) [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12088)
+- [] GA event for failures [ZenHub](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12089) [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12089)
+- [] Backend toggles [ZenHub](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11835) [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11835)
+- [x] Signature field on the PDF [ZenHub](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11536) [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11536)
+- [x] Name of the facility PDF generation [ZenHub](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11429) [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11429)
+- [] Salesforce downtime ( + talk to Ranga) [ZenHub](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11774) [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11774)
 
 ## Design
 - [Look into 10-10EZ address field work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11939)
