@@ -31,7 +31,8 @@ Replacement of the veteran and other beneficiary facing side of this system will
 A list of metrics is being worked on and will be added in the coming weeks
 
 
-**Pending decisions and outstanding questions**
+
+## Pending decisions and outstanding questions
 
 - Consolidated interface for raising inquiries across IRIS, GI Bill and MHV
 - Replacement solution for IRIS FAQ and GI Bill FAQ
