@@ -168,6 +168,8 @@ v0/preferences
 ```
 /v0/appointment_requests/${req.id}
 ```
+[Sent JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/send/put_requests.yml.json)
+
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/put_request.yml.json)
 
 ---
