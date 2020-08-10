@@ -11,7 +11,7 @@
 - [ ] Backend toggles (dependent on launch strategy)
 - [ ] Toogle implementation plan
 - [ ] Salesforce downtime
-- [ ] eMIS error
+- [ ] Resolve eMIS error
 - [ ] Generate staging user list to trigger successful submission
 
 ## Design
