@@ -1,5 +1,5 @@
 # Background: Top Tasks Framework
-** Source: ["Top Tasks: A How-To Guide" by Gerry McGovern](https://www.amazon.com/Top-Tasks-How-Gerry-McGovern-ebook/dp/B07JJKZNZ6/ref=sr_1_1?dchild=1&keywords=Gerry+McGovern+Top+Tasks&qid=1597071302&sr=8-1)
+** Source: ["Top Tasks: A How-To Guide" by Gerry McGovern](https://www.amazon.com/Top-Tasks-How-Gerry-McGovern-ebook/dp/B07JJKZNZ6/ref=sr_1_1?dchild=1&keywords=Gerry+McGovern+Top+Tasks&qid=1597071302&sr=8-1).   Fun video introduction [here](https://vimeo.com/197935311).
 
 ## Description
 
