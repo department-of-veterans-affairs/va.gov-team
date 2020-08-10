@@ -32,5 +32,3 @@ Thank you again,
 [Team member name]
 
 Contractor, Department of Veterans Affairs Booz Allen Hamilton
-
-© 2020 GitHub, Inc.
