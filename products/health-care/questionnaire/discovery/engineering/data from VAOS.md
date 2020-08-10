@@ -1,7 +1,7 @@
 
 ## Data Fields from VAOS
 
- The Data here represents sample data for some typical responses. It was obtained from mock data used by vets-website and vets-api
+ The Data here represents sample data for some typical responses. It was obtained from mock data used by vets-website and vets-api. In some cases a summarized returned JSON has been provided as the resulting JSON can be long in some cases.
 
 #### Appointment page in VAOS
 
@@ -95,8 +95,6 @@ This page makes this request to the backend
 http://staging.va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/va-facility
 ```
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/sites-supporting-var.json)
-
-[Summarized Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/sites-supporting-var_sum.json)
 
 ---
 
