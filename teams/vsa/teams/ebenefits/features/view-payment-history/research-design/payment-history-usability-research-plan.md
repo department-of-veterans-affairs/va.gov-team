@@ -15,14 +15,16 @@ In its current implementation, VPH is a pair of filtered tables that show VA Com
 We're moving the View Payment History feature (VPH) from eBenefits to VA.gov. Our primary goal is to maintain exisitng functionality of the VPH feature as we 'translate' it into the VA.gov system. We're conducting usability testing of the feature as developed in staging to determine if the new VPH is intuitive and functional for users needing to review their VA payment.
 
 ### Research questions
-- How do participants expect to find their payment history?
+- Where and how (what links/navigation) do participants expect to find their payment history?
 - Do participants find the information in the VPH feature useful and complete?
-- What other information do participants expect to see?
-- Is the information presented optimally?
-- Is VPH functional in a mobile format (small viewport)?
+- What, if any, other information do participants expect to see?
+- What changes are needed to beter present the information?
+- What changes would help viewing data in mobile formats (small viewport)?
 
 ### Hypotheses
---Content TBD--
+During discovery, the users we talked to said they usually used their own bank apps to check VA payments, and they were satisfied with the desktop and mobile presentations. We did not talk to anyone without a bank checking account. The presentation of View Payment History was designed to align with commercial banking apps. 
+
+Our hypothesis is that View Payment History will present most of the information Veterans expect in a generally accptaple manner. Some users will want more advanced search and filter options; some may want additional columns.
 
 #### Success
 --Content TBD--
