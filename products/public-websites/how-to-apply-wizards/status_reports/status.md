@@ -1,7 +1,15 @@
+
 ### 8/3 Update
 
-- Collaboration Cycle [Project Kickoff](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116450) will be scheduled on Friday, August 7th with Leah, Luke, Jason and Matt in attendance (Liz, Mickin and Ryan T. as optional).
-
+- Collaboration Cycle [Project Kickoff](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116450) held on Friday, August 7th with Liz, Mickin, Leah, Luke, Jason and Matt.   
+- Meeting highlights:
+  - All agreed that each Wizard (Education, Disability, HLR and Personal Career Counseling) should separately go the collab cycle
+  - For Education, which is fully developed and feature flagged in staging, all agreed to the following cycle touchpoints:
+      - IA (Mikki), with recommended changes for linking and content anticipated
+      - Content (Peggy), additional content changes are possible to support the new location of the Wizard with Public Websites team involved
+      - Analytics (Jon/Brian), will want to determine if the product funnel analysis will need to be refined
+      - Q-A (Tze), will conduct testing
+      
 ### 7/31 Status Meeting with Wizard Product/Development Leads
 ** Participants:
 - John Hashimoto (Public Websites)
