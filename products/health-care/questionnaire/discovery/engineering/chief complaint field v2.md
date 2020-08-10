@@ -6,12 +6,12 @@
 #### Using FHIR Questionnaire/VAMF into PGD
 
 - Lighthouse is planning to implement an API to work with PGD, however the project is fairly far out in time so this probably won't be an option
-- The best approach currently to investigate is to write to PGD using VAMF and a proxy. The proxy is needed to write data on behalf of a veteran
-- PGD is FHIR based, which means that you can not just add fields but have to use the definitions in FHIR.
+- The best approach currently to investigate is to write to PGD using VAMF and a proxy. The proxy is needed to write data on behalf of a veteran PGD is FHIR based, which means that you can not just add fields but have to use the definitions in FHIR.
 - VAMF uses an interface to PGD refered to as smart-pdf-fhir
 - FHIR has a Questionnaire and QuestionnaireResponse resources which would probably be what would be used.
+- We also need to understand how Questionnaire records are related to other patient records.
 - The Ruby fhir_client gem can parse and generate the appropriate fhir json
-- The way VAOS uses VAMF is perported to be slated to be made more reusable
+- The way VAOS uses VAMF is perported to be slated to be made more reusable and is to be done by Kam Karshenas
 - Any user data that came from when the user was not authenticated could be put into PGD as long as it fits into a FHIR resource
 
 
