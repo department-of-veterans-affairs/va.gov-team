@@ -17,7 +17,7 @@ Top Tasks is designed to be an ongoing management model for managing the custome
 
 In sum, Top Tasks management allows you to:
 
-- Clearly identify the top and tiny tasks your customers are seeking to complete (via search, navigation, etc.)
+- Clearly identify the top and tiny tasks your customers are seeking to complete (via their mental model, their search behaviors, how they navigate the sight, how they pick through content, etc.)
 - Design an intuitive classification for your customers
 - Accurately measure completion rates and times for top tasks (VA.gov tracks a slice of this now via the Monthly Product Health MVP reports)
 - Identify the causes of task failure and slow completion times
