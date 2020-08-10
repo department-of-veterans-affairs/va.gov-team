@@ -21,7 +21,7 @@
 - GetCare is mobile app used for all encompassing VHA appointments. It is used for senior appointments showing pre visit agenda, entering family history, senior prescriptions
 - GetCare is a resource for investigation to how it accesses PGD and to consider avoiding duplication if that applies. GetCare writes FHIR Questionnaire and QuestionnaireResponse records to VAMF.
 
-Questionanaire writes from GetCare are of this form: 
+Questionanaire writes through VAMF from GetCare are of this form: 
 ```
 POST /patients/{patient-icn}/appointments/{appointment-id}/pre-visit-agendas header: {JWT} body: { firstName, lastName, status, start, practitionerId, question [{ text, answer } ], encounterId, questionnaireResponseId }
 
