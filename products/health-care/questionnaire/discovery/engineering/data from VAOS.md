@@ -238,4 +238,15 @@ It is returned data that includes a "reason for visit field". Keep in mind that 
    }
 ```
 
+## Status Indicators and States of Appointment
+
+A GET call to /v0/appointments returns confirmed appoinments. 
+
+- These records have a hexidecimal ID field
+- a type field which is either "va_appointments" or "cc_appointments"
+- an attributes.facilityId field in the case of "va_appointments" type
+- The following fields apply to the "cc_appointments" type
+  - an appointmentTime and timeZone field
+  - an instructionsToVeteran text field
+  - an attributes.address field
 
