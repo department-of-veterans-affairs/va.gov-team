@@ -75,7 +75,7 @@ cy.visit('health-care/apply/application');
 ### Interacting with page elements <a name="interacting-with-page-elements"></a>
 Cypress has a [comprehensive API](https://docs.cypress.io/api/api/table-of-contents.html) that allows for easy interaction with elements.
 
-As much as possible, the [Cypress Testing Library](https://testing-library.com/docs/cypress-testing-library/intro) queries should be preferred over `cy.get()` or `cy.contains()` for selecting elements. Only the `findBy*` and `findAllBy*` variants are available from the [DOM Testing Library](https://testing-library.com/docs/dom-testing-library/api-queries) queries. Note that the queries are in descending order of recommendation (e.g., prefer `findByLabelText` over `findByRole` over `findByTestId`).
+As much as possible, the [Cypress Testing Library](https://testing-library.com/docs/cypress-testing-library/intro) queries should be preferred over `cy.get()` or `cy.contains()` for selecting elements. Only the `findBy*` and `findAllBy*` variants are available from the [DOM Testing Library](https://testing-library.com/docs/dom-testing-library/api-queries) queries. Note that the [queries are in descending order of recommendation](https://testing-library.com/docs/guide-which-query) (e.g., prefer `findByLabelText` over `findByRole` over `findByTestId`).
 
 ```
 findByLabelText        findAllByLabelText
