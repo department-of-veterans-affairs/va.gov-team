@@ -16,36 +16,47 @@
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research?
 
-   - What are people searching for on VA.gov? (From top questions)
-   - How effective is VA.gov's search tool at providing the information people are seeking? (From top questions)
+   - What are people searching for on VA.gov? 
+   - How effective is VA.gov's search tool at providing the information people are seeking?
+   - At what point in their visit do Veterans use site search?
+   - How can search results be improved to improve scanning behavior?
    - How do Veterans scan search results?
    - Is there a cognitive disconnect and/or issues for folks that the search results use such a tiny font compared to the rest of the site?
    - Do people understand the difference between “top recommendations” and the rest of the results and what are their thoughts on that?
+   - Do people utilize or see “More VA search tools”? (get some data on the right rail)
+   - How is the search experience different for Veterans across benefit hubs?
+   - How do Veterans perceive of the search experience on VA.gov?
    - What, if any, pain points do Veterans experience when using search?
    - How do those painpoints differ from mobile to desktop?
    - What, if any, advanced search features do Veterans expect? (refinements, type ahead, etc)
-   - Do people utilize or see “More VA search tools”? (get some data on the right rail)
-   - How can search results be improved to improve scanning behavior?
    - Where do Veterans look for information if they don't find it via VA.gov search?
-   - At what point in their visit do Veterans use site search?
+   - How do you see VA.gov search separate from google?
 
 4. Hypothesis: What is your hypothesis for this research?
 
-   - Search inquiries will align with top tasks
+   - Search inquiries will align with top tasks.
 
-   - Veterans will have the sentiment that VA.gov's search tool is ineffective because: 
+   - Veterans will experience the following pain points: 
 
-     - they'll have too many results to sort through
-     - The information they're looking for will not be immediately apparent
-     - They won't have a way to refine their results
+     - Too many results to sort through.
+     - The information they're looking for will not be immediately apparent from the search titles and descriptions.
+     - Not having a way to refine search results.
 
-   - Pain points will align with ^
+   - The above pain points will lead to Veterans perceiving our site search to be ineffective.
 
-   - Veterans will expect filtering functionality on search results
+   - Veterans will expect filtering functionality on search results.
 
-   - Veterans will go to a search engine or decide to engage with a person if they don't find what they're looking for via site search
+   - Veterans will go to a search engine or decide to engage with a person if they don't find what they're looking for via site search.
 
    - Veterans will use site search immediately when coming to VA.gov with task in mind, especially if they have not completed that task recently (or ever).
+
+   - Veterans use Google and online groups (such as Facebook or Reddit) for broader queries, and they come to VA.gov with more specific information in mind found through those other avenues.
+
+   - Veterans likely won't pay attention to the label `Top Recommendations`; if they do, they won't understand it means.
+
+   - Benefits that have a clear associated task, such as, disability (filing a claim) are easier to navigate via search than education or another benefit that has multiple, or less clear, outcomes.
+
+   - The way our search engine works is not up to people's expectations.
 
      
 
