@@ -107,20 +107,20 @@ Users are searching for general health and benefit information, forms, and some 
 
 The total number of times a refinement (transition) occurs between internal search keywords within a session is 30.55% 
 
-***7.What is the average amount of time/duration users spend on VA.gov after performing a search.*** 
+***7. What is the average amount of time/duration users spend on VA.gov after performing a search.*** 
 
 (Note: This is calculated as Sum of all search_duration across all searches / (search_transitions + 1)***
 
-***8.What is the average number of search exits during a session on VA.gov*** 
+***8. What is the average number of search exits during a session on VA.gov*** 
 
 (Note: The number of searches made immediately before leaving the site.)
 
-***9.What is the Percentage of Search Exits on VA.gov*** 
+***9. What is the Percentage of Search Exits on VA.gov*** 
 
 (Note: Calculated as Search Exits / Total Unique Searches)
 
 
-***10.How easy is it to find the Top Tasks via on-site search?***
+***10. How easy is it to find the Top Tasks via on-site search?***
 
 (Note: This is the Big Question, and we need to align on what are the Top Tasks for VA.gov users -- e.g. the most important thing to a user when they are online and is the task they want to complete.   More about the Top Task framework -- and how to build alignment around it -- [is here](https://medium.com/@gerrymcgovern/identifying-customer-top-tasks-ee228206b6ed).   This framework goes beyond the tasks highlighted in the summary analytics report recently assembled by our [IA team here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy+planning/analytics/top-task-analytics.md). )
 
@@ -172,7 +172,7 @@ According to [Google Search Console, 22.8% (May 2019-August 2020)](https://searc
 
 (Explainer: Exit pages are the last pages that people visit before they leave your site. It’s important that you track the top exit pages. Why? Because those pages are probably your “problem children.”  They’re pages that cause people to lose interest in your site and go elsewhere -- or, alternatively -- they are effective at providing the answers that users are seeking.)
 
-***9.How do the top keywords for VA.gov perform via organic search?***
+***9. How do the top keywords for VA.gov perform via organic search?***
 
 
 
