@@ -64,4 +64,19 @@ This is [Accessibility Beyond Compliance](https://github.com/department-of-veter
 
 ## Obligated versus what to “reach for”
 
+<blockquote>If everything&rsquo;s !important, 
+then nothing is.</blockquote>
+
+### Feedback framework
+
+We have a structure to help understand what is contractually obligated versus what you can “reach for”: the Must/Should/Consider feedback framework.
+
+- **❗️ Must** for if the feedback must be applied 
+- **⚠️Should** if the feedback is best practice 
+- **✔️ Consider** for suggestions/enhancements 
+
+### Must/Should/Consider started from this feedback framework
+
+
+
 
