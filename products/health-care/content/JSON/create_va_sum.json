@@ -1,0 +1,80 @@
+{
+  "data": [
+    "id": "05760f00c80ae60ce49879cf37a05fc8",
+      "type": "va_appointments",
+      "attributes": {
+        "startDate": "2020-11-25T15:17:00Z",
+        "clinicId": null,
+        "clinicFriendlyName": null,
+        "facilityId": "983",
+        "communityCare": false,
+        "vdsAppointments": [],
+        "vvsAppointments": [
+          {
+            "id": "8a74bdfa-0e66-4848-87f5-0d9bb413ae6d",
+            "appointmentKind": "ADHOC",
+            "sourceSystem": "SM",
+            "dateTime": "2020-11-25T15:17:00Z",
+            "duration": 20,
+            "status": { "description": "F", "code": "FUTURE" },
+            "schedulingRequestType": "NEXT_AVAILABLE_APPT",
+            "type": "REGULAR",
+            "bookingNotes": "T+90 Testing",
+            "instructionsOther": false,
+            "instructionsTitle": "Video Visit Preparation",
+            "patients": [
+              {
+                "name": { "firstName": "JUDY", "lastName": "MORRISON" },
+                "contactInformation": {
+                  "mobile": "7036520000",
+                  "preferredEmail": "marcy.nadeau@va.gov"
+                },
+                "location": {
+                  "type": "NonVA",
+                  "facility": {
+                    "name": "CHEYENNE VAMC",
+                    "siteCode": "983",
+                    "timeZone": "10"
+                  }
+                },
+                "patientAppointment": true,
+                "virtualMeetingRoom": {
+                  "conference": "VVC8275247",
+                  "pin": "3242949390#",
+                  "url": "https://care2.evn.va.gov/vvc-app/?join=1&media=1&escalate=1&conference=VVC8275247@care2.evn.va.gov&pin=3242949390#"
+                }
+              }
+            ],
+            "providers": [
+              {
+                "name": { "firstName": "Test T+90", "lastName": "Test" },
+                "contactInformation": {
+                  "mobile": "8888888888",
+                  "preferredEmail": "marcy.nadeau@va.gov",
+                  "timeZone": "10"
+                },
+                "location": {
+                  "type": "VA",
+                  "facility": {
+                    "name": "CHEYENNE VAMC",
+                    "siteCode": "983",
+                    "timeZone": "10"
+                  }
+                },
+                "virtualMeetingRoom": {
+                  "conference": "VVC8275247",
+                  "pin": "7172705#",
+                  "url": "https://care2.evn.va.gov/vvc-app/?name=Test%2CTest+T%2B90&join=1&media=1&escalate=1&conference=VVC8275247@care2.evn.va.gov&pin=7172705#"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    
+    ...
+    ...
+  ]
+}  
+    
