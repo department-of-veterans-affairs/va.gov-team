@@ -138,7 +138,7 @@ Code Path for the `check-broken-links` Metalsmith plugin
 
 ![screenshot of code path for check-broken-links Metalsmith plugin](https://user-images.githubusercontent.com/6130520/87714554-8849ef00-c771-11ea-8f20-ed52af7fcd3a.png)
 
-If there are broken links, the `glean-broken-links` script the build log, and create a file of broken links in a Comma-Separated Value (CSV) format. If broken links are found on the `master` branch, then an exception is thrown during the Jenkins job to block the deploy.
+If there are broken links, the `glean-broken-links` script parses the build log and creates a file that lists the broken links in a Comma-Separated Value (CSV) format. If broken links are found on the `master` branch, an exception is thrown during the Jenkins job to block the deploy. 
 
 ###### The `glean-broken-links` script
 
