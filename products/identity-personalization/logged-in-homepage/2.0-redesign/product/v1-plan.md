@@ -54,6 +54,7 @@ These are the links from the existing homepage.
 - Download your benefit letters
 - Change your address
 - Request your military records (DD214)
+- Change your direct deposit information (note: this is not currently on the homepage now, but there's enough evidence that we should add it.)
 
 ## Other expectations for version 1
 
@@ -67,3 +68,13 @@ These are the links from the existing homepage.
 -	Incorporating any new data or integrations that do not already exist on VA.gov.
 -	Any main navigation work.
 -	Any "notification center" work.
+
+## Potential future phases
+
+These are some things it might be cool to add in the future, if possible. Don't get too caught up on these — this is not our focus.
+
+- GI Bill benefit information.
+- Recent payments from the VA (instead of just linking to them).
+- Recent medical orders (eg. hearing aids, prosthetic socks, etc).
+- The ability to do interact with a feature right from the dashboard instead of having to click into it (eg. uploading evidence to a claim right from the homepage).
+- Showing new data, or data in a different way (eg. could we show where a prescription is en route?).
