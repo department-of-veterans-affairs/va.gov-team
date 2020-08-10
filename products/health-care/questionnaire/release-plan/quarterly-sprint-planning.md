@@ -39,17 +39,12 @@
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
-| Stakeholder Interviews & Paper - Current State Workflows 	 	| -- |  #11037 & #10219	|
-| Card Sort and Visit Intro research and UX complete	 	| -- |  | 
-| 	  	| -- | |
-| 	 	| -- | | 
-|  | -- | |
-
-
-
-
-
-
+| Stakeholder Interviews & Paper 	 	| -- |  #11037	|
+| Card Sort and Visit Intro research complete	 	| -- | #11936 | 
+| [UI] Demographics and This Visit mocks complete   	| -- | #12259 &|
+| FE/BE Authentication		| -- | | 
+| BE Data Interfaces | -- | |
+| FE This Visit UI  | -- | |
 
 
 
