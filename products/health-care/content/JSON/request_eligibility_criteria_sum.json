@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": "983",
+      "type": "request_eligibility_criteria",
+      "attributes": {
+        "id": "983",
+        "requestSettings": [],
+        "customRequestSettings": [
+          {
+            "id": "CR1",
+            "typeOfCare": "Express Care",
+            "submittedRequestLimit": 2,
+            "enterpriseSubmittedRequestLimit": 2,
+            "supported": true,
+            "schedulingDays": [
+              {
+                "day": "MONDAY",
+                "canSchedule": true,
+                "startTime": "07:16",
+                "endTime": "23:16"
+              },
+              {
+                "day": "TUESDAY",
+                "canSchedule": false
+              },
+              {
+                "day": "WEDNESDAY",
+                "canSchedule": true,
+                "startTime": "07:16",
+                "endTime": "23:16"
+              },
+              {
+                "day": "THURSDAY",
+                "canSchedule": true,
+                "startTime": "07:16",
+                "endTime": "23:16"
+              },
+              {
+                "day": "FRIDAY",
+                "canSchedule": false,
+                "startTime": "08:58",
+                "endTime": "23:59"
+              },
+              {
+                "day": "SATURDAY",
+                "canSchedule": false
+              },
+              {
+                "day": "SUNDAY",
+                "canSchedule": false
+              }
+            ]
+          }
+        ]
+      }
+    },
+    ...
+   ]
+ }
