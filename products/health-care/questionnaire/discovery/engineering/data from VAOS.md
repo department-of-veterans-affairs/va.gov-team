@@ -250,9 +250,20 @@ A GET call to /v0/appointments returns confirmed appoinments.
   - an attributes.address field
 - The following fields apply to the "va_appointments" type
   - there is a attributes.facilityId field  
-  - There is a vvsAppointments array that contains the appointment data. A sample of this data is shown below. It contains
-    - multiple provider and patient records, as well as a type and status
-  
+  - There is a vvsAppointments array that may exist that contains the appointment data with the following fields
+    - multiple patient records
+    - multiple provider records
+    - a type field with values such as "SERVICE CONNECTED", "REGULAR", "ORGAN DONORS", "COMPENSATION & PENSION"    
+    - a status field with values such as: "status": { "description": "F", "code": "FUTURE" }
+    - an appointmentKind field with values such as "ADHOC", "MOBILE_GFE"
+    - a dateTime field
+    - a duration field
+  - There is a vdsAppointments array that may exist that contains appointment data with the following fields
+    - a type field with values similar to those in vvsAppointments array type field
+    - an appointmentTime field
+    - an appointmentLength field
+  a sample of vdsAppointments and vvsAppointments lists is shown below
+ 
 ```
 "vvsAppointments": [
           {
@@ -319,5 +330,22 @@ A GET call to /v0/appointments returns confirmed appoinments.
             ...
           ]
              
+```
+
+```
+ "vdsAppointments": [
+          {
+            "bookingNote": null,
+            "appointmentLength": "30",
+            "appointmentTime": "2020-11-20T17:00:00Z",
+            "clinic": {
+              "name": "CHY VISUAL FIELD",
+              "askForCheckIn": false,
+              "facilityCode": "983"
+            },
+            "type": "REGULAR",
+            "currentStatus": "FUTURE"
+          }
+        ],
 ```
 
