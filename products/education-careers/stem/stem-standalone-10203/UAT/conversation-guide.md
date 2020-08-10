@@ -13,8 +13,7 @@
 
 ### Project-specific setup
 
-- [ ] Step 1
-- [ ] Step 2
+- Ensure that the participant has signed a consent form: https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Templates/va-consent-form-generic.docx
 
 ## Intro - 5 minutes
 
