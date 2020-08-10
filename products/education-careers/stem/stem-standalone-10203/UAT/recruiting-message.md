@@ -16,14 +16,13 @@ Thank you!
 ## Messaging around specific criteria 
 The VA is currently developing a new application for the Edith Nourse Rogers STEM Scholarship application on VA.gov. As part of this effort, we are seeking Veterans who are interested in applying for this program as we initiate beta testing of the new application. The scholarship extends benefits for individuals who are pursuing a bachelor’s degree program for science, technology, engineering, or math (STEM), or have already earned a STEM bachelor’s degree and are pursuing a teaching certification. 
 
-This program allows Veterans to enroll in courses that are outside the traditional definition of higher education to obtain skillsets highly desired by employers.
-
 To participate in this program, the following must be true:
 
-You are interested in enrolling in courses outside the traditional definition of higher education to obtain skillsets highly desired by employers in the high tech industry
-You are eligible for any education benefit and have remaining entitlement (benefits remaining)
-You are not on active duty and do not expect to be on active duty while receiving this benefit
-If you meet the above requirements and you’re interested in participating in beta testing, respond to [BAH team member email address] with your phone number and your availability to participate in a 5-10 minute call to cover some basic questions so we can make sure you are eligible to participate. We anticipate these sessions will begin on February 19, 2019.
+- You are pursuing a bachelors degree in science, technology, engineering, or math (STEM) or have already earned a STEM bachelor's degree and are pursing a teaching certification
+- You have less than 6 months of education benefits remaining at the time of application submission
+- You are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits
+
+If you meet the above requirements and you’re interested in participating in beta testing, respond to [BAH team member email address] with your phone number and your availability to participate in a 5-10 minute call to cover some basic questions so we can make sure you are eligible to participate. We anticipate these sessions will begin on [ insert date ].
 
 Please feel free to share this information with others you know who might be interested in participating.
 
