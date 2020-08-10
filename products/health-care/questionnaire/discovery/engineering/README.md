@@ -365,6 +365,17 @@ Their current data integration is via VistALink. They have a direct link into th
 
 When more concrete use cases start to form, the team can reach out to Shane for further answers
 
+## Analytics Investigation
+
+From a technical perspective, we can tie in to Google Analytics(GA) to record data. This data includes 2 fields, `payload`, and a `key`. The key is a unique identifier to what happened. For example, `CLIPBOARD_STARTED` would be a key to an event in our system.A `payload` is a JSON object that can contain unstructured data into what we are tracking. This is flexible and up to us. 
+
+
+Technically, there are utilities already found in `src/platform/monitoring` to help aid in faster development. A good example is located at `src/applications/disability-benefits/all-claims/content/incidentDate.jsx`
+
+When the team is ready to track data points in GA, we need to reach out to the analytics team, headed by Joanne Esteban to get more details specifics. 
+
+As far as post appointment survey. There is currently no unified system that does this. Certain clinics are doing there own surveys. These surveys are not through the va.gov, but a different system. This could also be a good form to start with, using the form system, because this could tie into the notification system and other systems that we are looking at.    
+
 ## VA Gov research using vets-web frontend
 
 The vets-web front end mocks some of the data, that is it has
