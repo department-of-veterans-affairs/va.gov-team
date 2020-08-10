@@ -177,8 +177,12 @@ According to [Google Search Console, 22.8% (May 2019-August 2020)](https://searc
 
 
 ***10. What's the average click through rate for VA.gov's top keywords?***
+(Explainer:  This is the average percentage of people who click on one of your links after seeing it in the search results. It’s a stat you should pay attention to because it tells you more than just how well your pages rank in the SERPs. It also tells you how much the content appeals to people.)
 
-(Explainer:  This is the average percentage of people who click on one of your links after seeing it in the search results. It’s a stat you should pay attention to because it tells you more than just how well your pages rank in the SERPs. It also tells you how much the content appeals to people.
+  - By Landing Page (Explainer: Examining CTR by landing page will show you your most important pages from an SEO perspective. Those are the pages that get the most attention from the search results. You should also look at the pages with the lowest CTRs and optimize them.)
+
+  - By Top Keywords (Explainer: If you see that a term is getting you a lot of clicks, you should determine which pages are ranking for those keywords and ensure that your page content accurately reflects searcher intent. It might be a good idea to test conversion optimization elements on these pages.)
+
 
 ***11. How highly does VA.gov rank/rate for Domain Authority or Authority Score*** 
 (Note: SEMRush describes Authority Score as Authority Score is our compound domain score that grades the overall quality of a website. The higher the score, the more assumed weight a domain’s or webpage’s backlinks could have)
