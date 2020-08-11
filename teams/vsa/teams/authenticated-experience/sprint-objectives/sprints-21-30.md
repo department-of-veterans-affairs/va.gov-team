@@ -304,6 +304,10 @@ If all profile work is done and all LIH ticket from sprint 27:
 
 - Determine level of effort for integrating with BGS CH33 DDEFT Services #11545
 
+### My VA Rx issue
+
+- Conduct regression testing on prescription refills widget on My VA dashboard in staging #11836
+
 ## Sprint 29 (8/26 – 9/8)
 
 **Profile 2.0**
