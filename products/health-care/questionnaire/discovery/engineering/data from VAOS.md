@@ -24,6 +24,11 @@ http://staging.va.gov/vaos/v0/appointments?start_date=2020-08-04T04:00:00.000Z&e
 <!---- 'confirmed_va.json' on frontend mocks ---->
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/confirmed_va.json)
 
+Request to VAMF similar to:
+```
+https://veteran.apps.va.gov/appointments/v1/patients/1012845331V153043/appointments?endDate=2020-08-04T08:00:00Z&pageSize=0&startDate=2020-09-04T07:00:00Z&useCache=false
+```
+
 [Summarized Returned nonserialized JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/confirmed_va_sum.json)
 
 ---
@@ -34,9 +39,9 @@ http://staging.va.gov/vaos/v0/appointments?start_date=2020-08-04&end_date=2021-0
 <!---- confirmed_cc.json' on frontend mocks --->
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/confirmed_cc.json)
 
-Request to VAMF:
+Request to VAMF similar to:
 ```
-https://veteran.apps.va.gov/appointments/v1/patients/1012845331V153043/appointments?endDate=2020-07-02T08:00:00Z&pageSize=0&startDate=2020-06-02T07:00:00Z&useCache=false
+https://veteran.apps.va.gov/appointments/v1/patients/1012845331V153043/appointments?endDate=2020-08-04T08:00:00Z&pageSize=0&startDate=2020-09-04T07:00:00Z&useCache=false
 ```
 
 [Summarized Returned nonserialized JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/confirmed_cc_sum.json)
@@ -49,7 +54,7 @@ http://staging.va.gov/vaos/v0/appointment_requests?start_date=2020-07-05&end_dat
 <!--- requests.json --->
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/requests.json)
 
-request to VAMF:
+request to VAMF similiar to:
 ```
 https://veteran.apps.va.gov/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/1000123456V123456/appointments?endDate=08/22/2020&startDate=08/20/2019
 ```
