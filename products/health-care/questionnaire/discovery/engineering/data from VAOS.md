@@ -34,6 +34,11 @@ http://staging.va.gov/vaos/v0/appointments?start_date=2020-08-04&end_date=2021-0
 <!---- confirmed_cc.json' on frontend mocks --->
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/confirmed_cc.json)
 
+Request to VAMF:
+```
+https://veteran.apps.va.gov/appointments/v1/patients/1012845331V153043/appointments?endDate=2020-07-02T08:00:00Z&pageSize=0&startDate=2020-06-02T07:00:00Z&useCache=false
+```
+
 [Summarized Returned nonserialized JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/confirmed_cc_sum.json)
 
 ---
@@ -44,8 +49,12 @@ http://staging.va.gov/vaos/v0/appointment_requests?start_date=2020-07-05&end_dat
 <!--- requests.json --->
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/requests.json)
 
-[Summarized Returned nonserialized JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/requests_sum.json)
+request to VAMF:
+```
+https://veteran.apps.va.gov/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/1000123456V123456/appointments?endDate=08/22/2020&startDate=08/20/2019
+```
 
+[Summarized Returned nonserialized JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/requests_sum.json)
 
 The returned JSON will be a series of records, each having a reason for visit field
 
@@ -408,3 +417,22 @@ PUT /v0/appointment_requests/${req.id}
 There is JSON that can be plugged into swagger though it is not complete
 
 [https://staging-api.va.gov/vaos/v0/apidocs](https://staging-api.va.gov/vaos/v0/apidocs)
+
+
+## Distinction between appointments and appointment_requests
+
+ It was tempting to think an appointment_request was perhaps a request for an appointment but below Jeff Balboni provides some information
+
+What are some of the other distinctions between appointments and appointment_requests ? 
+
+Jeff Balboni:
+
+They’re stored in two completely different backend systems and the data between the two is generally very different. We get office appointments and video appointments through MAS, which is a VAMF service. Generally, you get the date and time, status, the facility, and the VistA clinic for those appointments and not much else. Video appointments have a little more info, like the provider name and contact info. (edited) 
+
+Requests have more info because they’re stored in a database owned by the backend VAOS team and try to capture all the info that a scheduler needs to create an appointment.
+
+It’s very confusing and complicated because of all the different types of appointments and requests and the limitations of the VistA hospital system.
+
+There’s work going on now to consolidate all this into one, FHIR-based api in VAMF, but it’ll be a while before that’s live. 
+
+
