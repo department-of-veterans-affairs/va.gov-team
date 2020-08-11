@@ -44,7 +44,7 @@ Important Dates:
 ## Go Live!
 
  - Go/no go meeting 8/24
- - 8/121 Go live with 100% of traffic on va.gov 
+ - 8/26 Go live with 100% of traffic on va.gov 
 
 ### Planning:
 - Desired date: mm/dd/yy
