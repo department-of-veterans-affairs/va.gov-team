@@ -450,6 +450,12 @@ A GET call to /v0/appointments returns confirmed appointments.
         ],
 ```
 
+#### Type Field from vvsAppointments (above)
+
+Service connected  means the appointment is related to a service connected condition, 
+Regular is a regular appointment, 
+COMPENSATION & PENSION is an appointment scheduled by VBA related to a claim they have filed.
+
 #### Contact Info Saved to VAOS
 
 These calls will result in patient data as shown below being sent to VAOS along with other data
