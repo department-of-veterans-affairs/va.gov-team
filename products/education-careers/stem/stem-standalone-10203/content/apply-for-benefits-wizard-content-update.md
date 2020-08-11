@@ -11,7 +11,7 @@
 
 { eligibility criteria displays when STEM radio button is selected - this is the content that is changing }
 
-**To be eligible for the [Edith Nourse Rogers STEM Scholarship](https://benefits.va.gov/gibill/fgib/stem.asp), you must meet all the requirements below.** { content is **semi-bold** }   
+**To be eligible for the [Edith Nourse Rogers STEM Scholarship](https://benefits.va.gov/gibill/fgib/stem.asp), you must meet all the requirements below.** { content is **bold** }   
 
 * **Education benefit:** You're using or recently used Post-9/11 GI Bill or Fry Scholarship benefits.  
 
