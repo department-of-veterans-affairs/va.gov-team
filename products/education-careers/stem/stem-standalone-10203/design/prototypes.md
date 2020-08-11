@@ -1,6 +1,6 @@
 # InVision Prototypes for the new STEM VA Form 22-10203 (May 2020)  
 
-[Education Wizard update for STEM](https://bahdigital.invisionapp.com/share/KGIAEOQA39H)  
+[Education Wizard update for STEM v0.0](https://bahdigital.invisionapp.com/share/KGIAEOQA39H)  
 
 [STEM Form 10203 v0.4 - Desktop](https://bahdigital.invisionapp.com/share/YFIAEHK8U2W)
 
