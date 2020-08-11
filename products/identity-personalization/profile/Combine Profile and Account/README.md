@@ -1,6 +1,6 @@
 # Product Outline: Combine Profile and Account (Profile 2.0)
 
-Last Updated July 13, 2020
+Last Updated August 11, 2020
 
 ## Communications
 
