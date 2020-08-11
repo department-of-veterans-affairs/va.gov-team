@@ -2,6 +2,8 @@
 ## Data Fields from VAOS
 
  The Data here represents sample data for some typical responses. It was obtained from mock data used by vets-website and vets-api. In some cases a summarized returned JSON has been provided as the resulting JSON can be long in some cases.
+ 
+ VAOS calls VAMF and passes the data back and acts as a pass thru. There is some data normalization and flattening of data that occurs mostly in serializers. 
 
 #### Appointment page in VAOS
 
