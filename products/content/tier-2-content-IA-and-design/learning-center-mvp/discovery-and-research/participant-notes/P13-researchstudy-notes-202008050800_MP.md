@@ -131,12 +131,29 @@ Probably right here, mousing over “Medical and public health professionals” 
 
 **What would you expect to find if you click on that?**
 
-I wd expect to find some information for a health professional or someone else I'm trying to help. I work with disabled Veterans, I'd hope to find some information with stuff that
+I would expect to find information for a health professional or someone else I'm trying to help. I work with disabled Veterans not at the VA but a different job, I'd hope to find some information with stuff that could help them.
 
-*How does this line up w/what you expect?* 
+*Moderator sends agent orange link*
 
-> He is on the page that lists everything you could have been exposed to…
-> “What about the current thing everybody’s signing up now, the burn pit registry?”
+**How does this line up w/what you expect?** 
+
+*On the page that lists everything you could have been exposed to…*
+
+What about the current thing everybody’s signing up now, the burn pit registry?
+
+**I'm not sure if that's on a different page in the site, or if it needs to be added here.**
+
+To me, I would think it would need to be here. It's a big thing that everyone is trying to get everybody to sign up for. We were all exposed to burn pits.
+
+My dad, Agent Orange, that would work for him *points to heading*
+
+*continues to read through items on page*
+
+**Other than the missing burn pit info, how does this line up with your expectation coming from the previous page?**
+
+Uh, it's got a lot of stuff. You know, you could add more.
+
+**Okay, well go ahead and see if you can find the info about compensation for Veteran exposed to agent orange**
 
 > I wd think it wd need to be here — “we were all exposed to burn pits.” 
 
@@ -165,95 +182,115 @@ I wd expect to find some information for a health professional or someone else I
 
 > As he was checking criteria, he mentioned checking off the “list” ^. 
 
-*Click on learn how to find a disability claim. Let’s say you didn’t know about going to a VSO or VA. How line up with your expects?*
+**Click on learn how to find a disability claim. Let’s say you didn’t know about going to a VSO or VA. How line up with your expectations?**
+
+*Reads content on page under `What evidence will I need to provide my claim?` `Can I file my claim online`*
 
 > Reading 3rd bullet about supporting statements. “That’s good, I guess. Yeah.”
 
 > Reading thru the content: Can I file my claim online. ..You can file it by mail. I wd not do that (mail). Reading thru getting the help of a trained professional. This page should have links to VSOs, certified groups that can help you. VFW. American Legion. 
 
-> VA has a fiduciary responsibility to not give out money. 
+I think there should be more links to VSOs. The VA in and of itself has a fiduciary responsibility not to give away any money that they don't think they should, so they fight your claim. They have a responsibility to save money where they can, so they always make it as hard as they can to get your benefits. So having you go to someone who isn't related to the VA but is authorized to work with the VA, for you, on your behalf, and accredited through the VA to process claims, an outside VSO, in my opinion would be way better.
 
-> “They always make it as hard as they can to get your benefits,” 
+Those of us who use the VA, we already feel like the VA thinks of us as a number and they will just save money when we die. 
 
-> “The VA thinks of us as a number and they will save money when we die.”
+They're going to give us as little care as they have to, and then when we die they save money, so they're happy.
 
- *How find articles of interest to same group of readers?* 
+ **How find articles of interest to same group of readers?** 
 
 > Right here. “On this page” links. (still on Agent Orange LC page)
 
-*So you understand things in plus signs to be articles?* 
+**So you understand things in plus signs to be articles?** 
 
-> I do. 
+> I do. But I am 37 yrs old. Used computer most of my life. But my dad wd not go online. (Dad is a Vietnam Vet.)
 
-> I am 37 yrs old. Used computer most of my life. But my dad wd not go online. (Dad is a Vietnam Vet.)
+### Task 6: Review tag results
 
+*Still on Agent Orange LC page…* 
+**Did you notice the audience and topic tags?**
 
-*Task 6: Review tag results*
+I did.
 
-Still on Agent Orange LC page… 
-*Did you notice the audience and topic tags?*
+**What would you expect to happen if you clicked on one?**
 
-> Yes. 
->
-> Vietnam Vets link (tag) wd give me broader list of things Vietnam Vets have dealt with, like shrapnel. I wd assume it wd have more stuff for Vietnam Vets, and benes that wd be targeted to them. Yes, it lines up.
+Well, I think for Vietnam Vets link (tag) wd give me broader list of things Vietnam Vets have dealt with, like shrapnel and the wounds that they've dealt with. 
 
-> Way it’s laid out is very similar to Google search. Whether it’s helpful depends on your target audience, whether they use computers. 
+I would assume it would have more stuff for Vietnam Vets, and benefits that would be targeted to them. 
 
-*Notice any articles that cd be the same?* 
+*clicks tag*
 
-> Blue Water Navy Vets. 
+**How does this line up with what you expected to happen?**
 
-*What are the differences?* 
+For sure, it lines up.
+
+**And what do you think about how this information is organized?**
+
+I mean, it's very similar to Google search the way it's laid out. Again, whether it’s helpful depends on your target audience, their age groups. How familiar they are with computers and electronics. 
+
+**Notice any articles that cd be the same?** 
+
+*scrolls*
+
+These two. Blue Water Navy Veterans Law, and BMWV Act. 
+
+**What are the differences?** 
 
 > One is Q&A. One its FAQ.
 
-*These are exactly the same? What is the difference?* 
+These two are exactly the same, the FAQ and the video (*points to titles*).  1 is probably print, and 1 is videos. 
 
-> 1 is print, the other is video. 
+### Post-Task Interview
 
-*Post-Task Interview *
 *From this screen, talk me through how you would apply for a benefit you don’t already have - education, home loan, something like that.*
 
-> I wd have to go back. Went back to Agent Orange exposure, then hit back button again to go to LC home. Went to pension block. 
+*On Vietnam Vet results page*
 
-> I wd say “Are you 65?” Or “Is it time for your pension to start?”
+I would have to go back *uses back button* to actually this page 
 
-> Again, depends on the person as to how helpful this page is. 
+*(LC Homepage), goes to topics section of page*
 
-> Dad was in Vietnam. He is in his late 70s. He wd ask me, ‘What am I supposed to do with this?”
+**Something else we haven't talked about yet, up at the top here. We haven't discussed search at all, it hasn't come up.**
 
-*From what you’ve seen today, can you describe how the learning center is different from overall site search?*
+*participant mouses over search in navigation* Right here?
 
-> “I have used the search bar, and almost exclusively you’ll get articles telling you to go somewhere else to do what you want to do.”
+**Yes, but there is also a search bar below. Had you noticed that?**
 
-*Do you prefer to find links instead of search?* 
+I have, but unless you've made some really serious changes to how the search bar typically works with the VA...I have used the search bar, and almost exclusively you’ll get articles telling you to go somewhere else to do what you're trying to do.
 
-> Yes, bc the next time I wd have to click back in 
+**Do you prefer to find links instead of search?** 
 
-> LC wd just give you info and articles., maybe point of contact at end of article. VA. gov wd give you ability to apply. 
+Yes, because normally it doesn't show me the link, it'll show me an article which opens up a new website, which means next time I view the article I have to log back in on a new page.
 
-> Search bar at top — “my understanding is they are basically the same.” 
+**What do you understand the differences to be between the two options?**
 
-*We don’t know what to call the product you reviewed yet. Now that you have a better idea of the type of information that’s here, what you think of the name Learning Center?*
+The learning center would just give you information, the search VA.gov would give you access to make a decision, application, or find a point of contact. Vs the LC gives you articles, and maybe a POC at the end of the article. But generally speaking, any of the contact information you find on here is a general number. Not to anyone specifically.
 
-> “I wd say ‘Information Center.’ “ If I have Agent Orange exposure and you send me to an article, I already know I have it. I am trying to figure out how to get treatment for it. 
+**How do you understand this search bar vs navigation?**
 
-*Say you went to VA.gov today and knew we had launched this product. How would you find it on the website?*
+My understanding is they are basically the same.
 
-> Which product? How find on VA.gov? I assume it wd be under benes and healthcare. Or About VA. From the navigation. 
+**We don’t know what to call the product you reviewed yet. Now that you have a better idea of the type of information that’s here, what you think of the name Learning Center?**
 
-*Overall, what, if anything, do you find valuable or not helpful about this learning center concept as a whole?*
+I wd say ‘Information Center.’ Because, if I have Agent Orange exposure and I click on a search here, and you send me to an article, I already know what's going on with AO exposure. I'm not trying to learn more about that. I am trying to figure out how to get treatment for it. 
 
-> “Valuable, yes. It seems like you have more info than the VA has, readily available.” 
+**Say you went to VA.gov today and knew we had launched this product. How would you find it on the website?**
 
-> “There should be an option to have something sent to your house, a print version.” My parents have 3 computers and have no idea how to use them. I cd give print to my dad, he could fill out and earmark, give back to me.  
+I actually don't know. I'm assuming from home it would be under benes and healthcare. Or About VA. From the navigation. 
 
-*What do you think could be improved about what we’ve reviewed today?*
+**Overall, what, if anything, do you find valuable or not helpful about this learning center concept as a whole?**
 
-> Yes, point of contact. If I am logged in and it has my address, my city. The contact number here (mousing over footer) should populate with the number for my VA. 
+Valuable, yes. It seems like you have more info than the VA currently has, readily available. I don't know if your target demographic for some of this stuff, again with people being older, and younger people applying for benefits. You have both, and you'll have to have a happy medium. 
 
-> The 800 number in the footer — he noticed the typo. 
+There should be an option to have something sent to your house, a print version. My parents have 3 computers and have no idea how to use them. It does them no good to have a website they don't know how to use. I could give print to my dad, he could fill out and earmark, give back to me, and we can find it online together.
 
-*Any questions for me?*
+**Anything else you think could be improved about what we’ve reviewed today?**
 
-> Burial benefits… “Is there a section that says how benefits work? Who’s entitled to what, where, and why.”
+Yes, point of contact. If I am logged in and it has my address, my city. The contact number here (mousing over footer) should populate with the number for my local VA. 
+
+*Also - The 800 number in the footer — he noticed the typo.* 
+
+**Any questions for me?**
+
+No, I guess I'm good. I appreciate the opportunity.
+
+Oh, let me see. I saw burial benefits. “Is there a section that says how benefits work? Who’s entitled to what, where, and why?”
