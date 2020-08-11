@@ -54,13 +54,12 @@ Note: These will shift in the new Infra.
 ## Who we are
 
 ### Team Members:
-- Team lead Ops Engineer - Wyatt Walter
-- Senior Ops Engineer - Nathan Hruby
-- Senior Ops Engineer - Taylor Skinner
-- Senior Ops Engineer - Demian Ginther 
-- Ops Engineer - Bennie Mosher
+- Team lead Ops Engineer - Demian Ginther
+- Ops Engineer - Taylor Skinner
+- Ops Engineer - William Ryan
 - Ops Engineer - Jeremy Britt
 - Ops Engineer - Julian Severino
+- Ops Engineer - Stevan Arychuk
 - ATO SME - Faith Owusu
 - Product Manager - TJ Rice
 
@@ -78,7 +77,7 @@ Check in on people and product progress
 
 - Monday/Wedesday/Friday @ 12:00pm EST
 - 15 min
-- 3 Question Format: What I did yesterday? What will I do today? Any impediments?
+- Then Parking lot.
 
 #### Retro
 Review accomplishments from prior sprint, what went well, what can be improvemed, what questions people have, and any action items
@@ -137,12 +136,12 @@ Assess and update workload for remainder of sprint
 
 
 #### Issue Etiquette
-For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
+For an issue to go into the Current Sprint column, it must have the following (created using the “Ops Issue Template”):
 
 - Estimate
 - Title that explains task
 - Description with Background and Acceptance Criteria
-- Labels: Operations
+- Labels: Operations,  and Needs Grooming (if applicable)
 - User Story (if applicable), Goal, and Acceptance Criteria
 - Nested in an Epic
    - If an Epic is created a super epic is assigned.
@@ -170,6 +169,7 @@ Points: Complexity Estimate
 - We are flexible, but intentional in the way we work
 - Let’s have fun and do great work!
 - Don't over use @here and @channel in slack, only use in a time sensitive situation. 
+- Do meaningful PR reviews
 
 #### Team Knowledge
 - Engineer
@@ -181,10 +181,7 @@ Points: Complexity Estimate
   - CMS build overview (ping TJ for recording)
   - VA overview (ping TJ for recording)
   - Rev and Fwd Proxy deep dive (ping TJ for recording)
-  - Infra Recommit Demo (ping TJ for recording)
   - Review instance how to (ping TJ for recording)
-  - Infra Recommit Local Dev (ping TJ for recording)
-  - Infra Recommit Playground (ping TJ for recordings)
 - Zenhub (if you would want to go over ZH more ping TJ)
   - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_onboarding.pdf
  - Access to Tools and AWS
