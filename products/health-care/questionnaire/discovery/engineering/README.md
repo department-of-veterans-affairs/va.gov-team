@@ -355,6 +355,8 @@ After the initial demo, we have found a list questions that need to be answered.
 
 [Status indicators and states of an appointment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/data%20from%20VAOS.md#status-indicators-and-states-of-appointment)
 
+[Contact Info saved to VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/data%20from%20VAOS.md#contact-info-saved-to-vaos)
+
 ---
 
 ## VEText Integration
