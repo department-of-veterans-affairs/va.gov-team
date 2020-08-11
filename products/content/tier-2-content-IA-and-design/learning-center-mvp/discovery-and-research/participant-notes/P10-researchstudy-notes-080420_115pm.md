@@ -177,4 +177,3 @@ I think you lose users on websites if you can't keep them entertained.
 I think this is a good idea and most of the information can be compressed under menus and drop downs.
 
 I can honestly say the only time I come to VA.gov is by mistake, like those other sites leading me here.
-
