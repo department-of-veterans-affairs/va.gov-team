@@ -19,10 +19,12 @@
 Hi [participant name}, my name is Ryan. 
 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. None of your comments will be attributed to you directly. During the session I will ask you to share your phone screen with me.
-  - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
+- If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
+
+  *Start recording.*
+
 - **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?** 
 
-*Start recording.*
 
 - First I want to make sure your technology is ready to go for this session. Can you confirm for me what type of device you're using to join today? 
   - Great, that helps me troubleshoot with you if we run into any problems. 
