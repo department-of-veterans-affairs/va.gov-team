@@ -3,12 +3,12 @@
 **Prepared by:** Aricka Lewis (aricka@adhocteam.us)<br>
 August 2020
 
-### Goal
+## Goal
 Goal of research and
 - Link to research plan
 - Link to convo guide
 
-### Methodology
+## Methodology
 - Link to mockups
 - Link to card sort findings
 
