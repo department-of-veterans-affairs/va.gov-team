@@ -365,6 +365,8 @@ After the initial demo, we have found a list questions that need to be answered.
 
 [See here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/chief%20complaint%20field%20v2.md)
 
+## [When is an Encounter and ID created](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/data%20from%20VAOS.md#an-encounter-with-an-id-is-created-in-vista-here)
+
 ---
 
 ## VEText Integration
