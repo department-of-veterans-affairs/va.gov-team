@@ -1,5 +1,10 @@
 # Agenda/Notes from meetings
 
+<details>
+ <summary> **Parking Lot Topics** </summary>
+ -  LC go-to-market strategy: how will users find the Learning Center?
+</details>
+
 ## Tuesday August 11
 
 1. MVP Taxonomy [#2542](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2542)
