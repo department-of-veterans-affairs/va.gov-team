@@ -359,6 +359,12 @@ After the initial demo, we have found a list questions that need to be answered.
 
 ---
 
+## Putting Chief Complaint into Patient Generated Data
+
+[See here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/chief%20complaint%20field%20v2.md)
+
+---
+
 ## VEText Integration
 
 VETText is a push notification system used for reminding veterans of upcoming appointments. Currently this is text format.  Eventually this will be integrated with the [mobile app](#mobile-experience-findings), but for now its currently texted message based.  
