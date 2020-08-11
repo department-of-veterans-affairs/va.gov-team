@@ -1,6 +1,6 @@
 # **Platform Newsletter**
 
-This is a monthly newsletter publicizing DEPO platform improvements to ensure VFS teams and stakeholders are aware of them and can easily access relevant documentation.
+This is monthly newsletter keeps you informed of DEPO platform updates and changes that could impact your work. 
 
 ------
 
