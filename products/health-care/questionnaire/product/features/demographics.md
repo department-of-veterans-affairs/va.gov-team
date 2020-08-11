@@ -58,7 +58,7 @@ Seamless Journey
 | ---------------------------------------------------| ---------- | -------------   | ---------    | ---------      | ---------       | --------- | ----- | 
 |[Visit Intro Initiative (Proof of Concept)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/visit-intro.md)| [#12102](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12102) | D  |  U   | A | Q |Q3 2020| N |
 |[Frontend] Display Demographics | [#12257](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12257) | D  |  U   | A | Q |Q3 2020| N |
-|[BE] Interface for Demographics | [#12262](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12262) | D  |  U   | A | Q |Q3 2020| N |
+|[BE] Interface for Demographics | [#12262](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12262) | D  |  U   | A | Q |Q3 2020|  ON HOLD MIGHT NOT BE NEEDED |
 |[UI] UX Design Demographics | [#12259](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12259) | D  |  U   | A | Q |Q3 2020| N |
 * Instructions to access in Staging
 _Note: credentials should be stored in sensitive repos only_
