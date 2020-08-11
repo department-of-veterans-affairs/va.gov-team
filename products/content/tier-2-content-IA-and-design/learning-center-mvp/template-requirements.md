@@ -7,7 +7,7 @@ This is WIP and may evolve based on user research and technical findings.
 
 - **Required: Breadcrumb** –  pulled from H1, cannot manually customize
 - **Required: Search bar** - learning center search or  VA.gov (If user selects VA.gov search, user is taken to the normal site search results where results from all of VA.gov are pulled.)
-- **TBD: Content type label:** (- tbd -) Article vs. Video (or Media?) or more detailed label like “About,”     “FAQ,” “Step-by-step,” etc. ***first test with no label on pages(but include on the results listing)
+- ~**TBD: Content type label:** (- tbd -) Article vs. Video (or Media?) or more detailed label like “About,”     “FAQ,” “Step-by-step,” etc. ***first test with no label on pages(but include on the results listing)~
 - **Required: H1** – new H1 limit for LC pages – 70 max characters including spaces, rigid in AX
 - **Required: [Topic tags](#topic-tags)** 
 - **Required: [Audience tags](#audience-tags)** 
@@ -18,11 +18,11 @@ This is WIP and may evolve based on user research and technical findings.
 - [**Required: Body - content type template**](#specific-lc-content-template-types) (FAQ single, FAQs multiple, Checklist, Step-by-step, About, Image/Video, etc.)
 - **Optional: Repeat same CTA button(s)** – Example: User can omit repeat if page is short as in a single FAQ page
 - **Required: Need more help** - Email (optional, customizable) + Phone (default pulled from the benefit hub “Ask questions” right rail) + Chatbot link(TBD)
-- **Required: Was this helpful** - Backend functionality is still TBD and may not go out with October/Nov MVP.
-- **Required: Related information**  (minimum 1 benefit cross-link required which  is dynamically generated based on the benefit topic tag; pulled from the hub teaser text component used on the homepage. An additional 4 links can be custom added, for a max of 5 total.)
+- **Required: Was this helpful** - Backend functionality is still TBD and may not go out with October/Nov MVP. The user action could get collected to Google Analytics - possibly other ideas.
+- **Required: Related information**  (minimum 1 benefit hub cross-link required which is dynamically generated based on the primary benefit topic tag; pulled from the hub teaser text component used on the homepage. An additional 4 links can be custom added, to related LC content or benefit hub content, for a max of 5 total.)
 - **Back to top links - ~required if TOC links are enabled:~** ~displays at the end of each H2 section~ Per accessibility feedback, we will create Back to top feature at the FE that's based on page height. 
-- **Required: Meta title** - `H1 | Veterans Affairs` format; no character limit, no initial caps. The 70-character-max H1 should automatically be used to generate the meta title. 
-- **Meta description** -- TBD I don't think we need to have meta description for LC, but want to confirm this with engineers and John Hashimoto on what's needed for the kind of structured LC search results display we want. 
+- **Required: Meta title** - `H1 | Veterans Affairs` format; no character limit, ~no initial caps~. The 70-character-max H1 should automatically be used to generate the meta title. Note: Can we add initial capping logic va the FE template? 
+- **Meta description** -- TBD I don't think we need to have meta description for LC, but want to confirm this with engineers and John Hashimoto on what's needed for the kind of structured LC search results display we want. My thinking is we're fine pulling search results display text from the intro text, up to... [TBD] characters max and truncate with ellipses or with "Read more." 
 
 
 [Visual examples - Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1588167553516/2773c854e8ff3a725a5e3ee03272b78e8519f78b)
@@ -48,7 +48,7 @@ At minimum - 1 primary topic tag will be required. This will also drive the minu
 4. Disability
 5. Education and training
 6. Health care
-7. Housing assistance
+7. Housing assistance and home loans
 8. Life insurance
 9. Pension
 10. Records
@@ -87,18 +87,18 @@ For example:
 Up to 3 can be selected, but only 1 from the Veterans list.
 
 - Veterans - Content author can select the broad category "Veterans" or one of the sub-Veteran tags:
-  - Elderly Veterans
+  - Elderly Veterans [TBD card sort variation test: Senior and aging Veterans / Veterans aged 65+] 
   - Former prisoners of war
   - Gulf War Veterans
   - Incarcerated Veterans
   - Korean War Veterans
-  - LGBTQ Veterans
+  - LGBTQ+ Veterans
   - Minority Veterans
   - Native American Veterans
   - Vietnam War Veterans
   - Women Veterans
   - World War II Veterans
-- Family members and caregivers
+- Family members ~and caregivers~
 - Service members
 
 
@@ -146,15 +146,15 @@ This template is for 1 question and answer.
 
 Specs- not including the basic requirements on all LC pages:
 
-- This template is simply the H1(in the form of a question) + the wysiwig intro rich text field (as the answer).
+- This template is simply the H1 (in the form of a question) + the wysiwig intro rich text field (as the answer).
 
 - Alert (can be enabled below intro text; only 1 max allowed on this template)
 
 - Q/A should be trackable in the reusable, COPE FAQs space
 
-- TBD - Does the author create a new single FAQ in the COPE FAQs interface or as a 'page'?
+- ~TBD - Does the author create a new single FAQ in the COPE FAQs interface or as a 'page'?~ The question and answer text are created in the COPE FAQs library. But the author creates the single Q/A template page here, by pulling/referencing the question data in the FAQs library (like reusable alerts).
 
-- No images, videos, tables, subway maps, number callouts, etc.
+- No images, videos, tables, subway maps, number callouts, etc. 
 
 
 See FAQs COPE ticket: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/6708  
@@ -166,11 +166,11 @@ This template is for multiple question-and-answers.
 
 Specs- not including the basic requirements on all LC pages:
 
-- Section headers (H2s, H3s, etc.)
+- Section headers (H2s, ~H3s, etc.~)
 - Wysiwyg answer block 
 - Alert (can be enabled below intro text; and on body content)
 - React widget
-- TBD - Does the author create in the COPE FAQs interface, then pull into a 'page template' or create as a 'page'?
+- ~TBD - Does the author create in the COPE FAQs interface, then pull into a 'page template' or create as a 'page'?~ The question and answer texts are created in the COPE FAQs library. But the author creates the multiple FAQs page here from the template, like pulling in reusable alerts but q/a's from the FAQs library.
 - No images, videos, tables, subway maps, number callouts, etc.
 
 See FAQs COPE ticket: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/6708
@@ -199,8 +199,8 @@ This template modifies the existing 'subway map' component to allow screenshots 
 Specs - not including the basic requirements on all LC pages:
 
 - Everything that current subway maps allow, plus screenshots 
-- Section headers (H2s, H3s, etc.)
-- Alert (can be enabled below intro text, within steps) - this is in addition to the alert that can be enabled as part of the 'shell' below intro block.
+- Section headers (H2s, H3s, etc.) - But the first section header after intro must be an H2 (don't allow H1 to jump to H3, etc.)
+- Alert (can be enabled below intro text, and within steps) - this is in addition to the alert that can be enabled as part of the 'shell' below intro block.
 - Can include multiple 'subway maps' with section headers. 
 - No videos, no tables, no callouts, etc.
 
@@ -215,9 +215,9 @@ This template is for visually-rich information such as images or videos.
 **A.** Video template specs - not including the basic requirements on all LC pages:
 
 - There's no customizable text on this page except the intro text and section headers. 
-- Section headers (H2s, H3s, etc.)
+- Section headers (H2s, H3s, etc.) But the first section header after intro must be an H2 (don't allow H1 to jump to H3, etc.)
 - Video title, description, video length, date/time publication stamp should all get pulled from the YouTube source. 
-- Max up to 5 videos. 
+- Max up to 5 videos.
 - FE progressive enhancement display/loading for low-bandwidth and mobile users. 
 - Video time (duration) info should get pulled into search results listing. 
 
@@ -225,7 +225,7 @@ This template is for visually-rich information such as images or videos.
 
 **B.** Image template specs - not including the basic requirements on all LC pages:
 
-- Section headers (H2s, H3s, etc.)
+- Section headers (H2s, H3s, etc.) But the first section header after intro must be an H2 (don't allow H1 to jump to H3, etc.)
 - Image file (min requirements/size limit - use same as those in VAMC and Outreach products)
 - Image ~filename~ title field - 70 characters max including spaces
 - Image description field - short optional description, max 300 characters incl spaces
@@ -240,6 +240,6 @@ This template is for list content that Veterans (or non-beneficiaries) can use t
 
 Specs - not including the basic requirements on all LC pages:
 
-- Section headers (H2s, H3s, etc.)
+- Section headers (H2s, H3s, etc.) But the first section header after intro must be an H2 (don't allow H1 to jump to H3, etc.)
 - Alert (can be enabled below intro text or within body content; not stackable)
 - Checkbox text field, max 300 characters including spaces
