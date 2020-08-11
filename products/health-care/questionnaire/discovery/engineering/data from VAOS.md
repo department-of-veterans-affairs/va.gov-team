@@ -242,6 +242,9 @@ It is returned data that includes a "reason for visit field". Keep in mind that 
 
 ## Status Indicators and States of Appointment
 
+This spreadsheet listing appointment statuses was obtained from Jeff Balboni.
+[Spreadsheet of appointment statuses](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/Appointment%20Statuses.xlsx)
+
 A GET call to /v0/appointments returns confirmed appointments. 
 
 - These records have a hexidecimal ID field
