@@ -284,8 +284,7 @@ Note: Some of these might be done before the sprint starts.
 
 These are platform related, but we need to make sure they are completed so we can move forward.
 
-- 508-defect-1 ❗ Launchblocker [SCREENREADER]: role="alert" MUST not be applied on non-urgent information #11910
-- 508-defect-1 ❗ Launchblocker [SCREENREADER]: role="alert" MUST not be used for a note #11909
+- 508-defect-1 ❗ Launchblocker [SCREENREADER]: role="alert" MUST not be applied on non-urgent information #11910 
 
 ### Logged-in homepage
 
