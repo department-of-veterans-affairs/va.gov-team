@@ -363,12 +363,36 @@ PUT /v0/appointment_requests/${req.id}
 ```
 
 ```
-"patient":
-  { "displayName":"Morrison,
-    Judy","firstName":"Judy","lastName":"Morrison","dateOfBirth":"Apr 01, 1953",
-    "patientIdentifier":{"uniqueId":"1259897978"},"ssn":"796061976","inpatient":false,"textMessagingAllowed":false,
-    "id":"1259897978","objectType":"Patient"},"bestTimetoCall":["Morning"],
-    "appointmentRequestDetailCode": [{"userId":"1012845331V153043","detailCode":{"code":"DETCODE8"}}],
-    "patientIdentifier":{"assigningAuthority":"ICN","patientIdentifier":"1012845331V153043"}
-  }
+  "patient":{
+   "displayName":"Morrison,
+    Judy",
+   "firstName":"Judy",
+   "lastName":"Morrison",
+   "dateOfBirth":"Apr 01, 1953",
+   "patientIdentifier":{
+      "uniqueId":"1259897978"
+   },
+   "ssn":"796061976",
+   "inpatient":false,
+   "textMessagingAllowed":false,
+   "id":"1259897978",
+   "objectType":"Patient"
+},
+"bestTimetoCall":[
+   "Morning"
+],
+"appointmentRequestDetailCode":[
+   {
+      "userId":"1012845331V153043",
+      "detailCode":{
+         "code":"DETCODE8"
+      }
+   }
+],
+"patientIdentifier":{
+   "assigningAuthority":"ICN",
+   "patientIdentifier":"1012845331V153043"
+}
+}
+  
 ```    
