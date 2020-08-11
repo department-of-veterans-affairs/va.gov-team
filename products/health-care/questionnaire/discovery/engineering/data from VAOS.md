@@ -3,7 +3,7 @@
 
  The Data here represents sample data for some typical responses. It was obtained from mock data used by vets-website and vets-api. In some cases a summarized returned JSON has been provided as the resulting JSON can be long in some cases.
  
- VAOS calls VAMF and passes the data back and acts as a pass thru. There is some data normalization and flattening of data that occurs mostly in serializers. 
+ VAOS calls VAMF and passes the data back and acts as a pass thru. There is some data normalization and flattening of data that occurs in serializers. Where nonserialized JSON is referenced this indicates that normalization has not occured
  
 
 #### Appointment page in VAOS
@@ -119,7 +119,7 @@ http://staging.va.gov/vaos/v0/appointment_requests?type=va
 
 [Sent JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/send/post_appointment_req.yml.json)
 
-[Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/app_req_post.yml.json)
+[Returned nonserialized JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/app_req_post.yml.json)
 
 [Contact Info Saved to VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/data%20from%20VAOS.md#contact-info-saved-to-vaos)
 ---
@@ -128,20 +128,20 @@ http://staging.va.gov/vaos/v0/appointment_requests?type=va
 ```
 /v0/appointment_requests/${requestId}/messages
 ```
-[Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/get_messages_yml.json)
+[Returned nonserialized JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/get_messages_yml.json)
 
 ---
 
 ```
 /v0/community_care/eligibility/${typeOfCare}
 ```
-[Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/get_eligibility.yml.json)
+[Returned nonserialized JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/get_eligibility.yml.json)
 
 ---
 
 v0/preferences
 
-[Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/preferences.yml.json)
+[Returned nonserialized JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/preferences.yml.json)
 
 ---
 
@@ -164,7 +164,7 @@ v0/preferences
 ```
 [Sent JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/send/put_requests.yml.json)
 
-[Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/put_preferences.yml.json)
+[Returned nonserialized JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/put_preferences.yml.json)
 
 ---
 
@@ -173,7 +173,7 @@ v0/preferences
 ```
 [Sent JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/send/put_requests.yml.json)
 
-[Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/put_request.yml.json)
+[Returned nonserialized JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/put_request.yml.json)
 
 ---
 
@@ -191,7 +191,7 @@ Status OK returned
 ```
 [Sent JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/send/post_appointment.yml.json)
 
-[Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/post_appointment.yml.json)
+[Returned nonserialized JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/post_appointment.yml.json)
 
 ---
 ```
@@ -199,7 +199,7 @@ Status OK returned
 ```
 [Sent JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/send/appoint_req_msg.yml.json)
 
-[Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/appoin_req_msg_post.yml.json)
+[Returned nonserialized JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/appoin_req_msg_post.yml.json)
 
 ---
 
