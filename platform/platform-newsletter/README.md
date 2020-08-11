@@ -1,6 +1,6 @@
 # **Platform Newsletter**
 
-This is monthly newsletter keeps you informed of DEPO platform updates and changes that could impact your work. 
+This monthly newsletter keeps you informed of DEPO platform updates and changes that could impact your work. 
 
 ------
 
