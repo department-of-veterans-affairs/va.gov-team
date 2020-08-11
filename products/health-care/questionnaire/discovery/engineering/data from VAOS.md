@@ -242,7 +242,7 @@ It is returned data that includes a "reason for visit field". Keep in mind that 
 
 ## Status Indicators and States of Appointment
 
-A GET call to /v0/appointments returns confirmed appoinments. 
+A GET call to /v0/appointments returns confirmed appointments. 
 
 - These records have a hexidecimal ID field
 - They containt a type field which is either "va_appointments" or "cc_appointments"
