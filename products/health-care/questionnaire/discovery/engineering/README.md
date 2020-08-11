@@ -1,4 +1,5 @@
 # Clipboard Technical Discovery [WIP]
+
 - [Clipboard Technical Discovery [WIP]](#clipboard-technical-discovery-wip)
   - [Problem Statement](#problem-statement)
   - [Introduction](#introduction)
@@ -15,10 +16,11 @@
   - [Creating an API Wrapper in the VA API](#creating-an-api-wrapper-in-the-va-api)
   - [CMS Integration](#cms-integration)
   - [VA Online Scheduler (VAOS)](#va-online-scheduler-vaos)
+  - [Putting Chief Complaint into Patient Generated Data](#putting-chief-complaint-into-patient-generated-data)
   - [VEText Integration](#vetext-integration)
   - [Analytics Investigation](#analytics-investigation)
+  - [User Whitelist](#user-whitelist)
   - [VA Gov research using vets-web frontend](#va-gov-research-using-vets-web-frontend)
-
 ## Problem Statement
 
 Veterans are unable to consistently share and update current health status and medical history that is leveraged in their care across the VA and community providers
@@ -390,6 +392,18 @@ When the team is ready to track data points in GA, we need to reach out to the a
 
 As far as post appointment survey. There is currently no unified system that does this. Certain clinics are doing there own surveys. These surveys are not through the va.gov, but a different system. This could also be a good form to start with, using the form system, because this could tie into the notification system and other systems that we are looking at.    
 
+
+## User Whitelist 
+
+
+Using Flipper, the feature toggle system currently place in the Vets API, we can restrict features using a 4 different ideas. 
+
+1. Just a cross cutting on/off toggle. This toggle will turn the feature in questions on and off completely 
+2. Whitelist users; This list allows us to set a list of users that we want the feature to show for only those users
+3. `% of time`; This would allow us to set how often a feature is enable. For example, setting a value of `25%`, means the feature will be available `25%` to all users
+4. `% of users`; This allows to set a percentage of users that will see the feature. This acts as a whitelist that is based on the number of users. 
+
+Configure looks simple - just using the flipper admin panels in staging and production. The system already has feature toggles set ups and this is already integrated. We get this for almost free. The only work required here is on the front end to wrap the features in the appropriate feature flags. 
 
 
 ## VA Gov research using vets-web frontend
