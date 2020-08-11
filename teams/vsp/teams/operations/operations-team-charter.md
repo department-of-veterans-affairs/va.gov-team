@@ -63,9 +63,6 @@ Note: These will shift in the new Infra.
 - ATO SME - Faith Owusu
 - Product Manager - TJ Rice
 
-Other Member that contribute to our Team's mission
-- DevOps Engineer - William Ryan
-
 ---
 
 ## How we work
