@@ -118,6 +118,8 @@ http://staging.va.gov/vaos/v0/appointment_requests?type=va
 
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/app_req_post.yml.json)
 
+[Contact Info Saved to VAOS]()
+
 
 ---
 
@@ -351,3 +353,17 @@ A GET call to /v0/appointments returns confirmed appoinments.
         ],
 ```
 
+#### Contact Info Saved to VAOS
+
+These calls will result in patient data as shown below being sent to VAOS along with other data
+
+```
+
+```
+
+```
+"patient":{"displayName":"Morrison,
+        Judy","firstName":"Judy","lastName":"Morrison","dateOfBirth":"Apr 01, 1953","patientIdentifier":{"uniqueId":"1259897978"},"ssn":"796061976","inpatient":false,"textMessagingAllowed":false,"id":"1259897978","objectType":"Patient"},"bestTimetoCall":["Morning"],"appointmentRequestDetailCode":
+[{"userId":"1012845331V153043","detailCode":{"code":"DETCODE8"}}],"patientIdentifier":{"assigningAuthority":"ICN","patientIdentifier":"1012845331V153043"}}'
+    headers:
+```    
