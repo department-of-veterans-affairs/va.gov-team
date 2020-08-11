@@ -2,9 +2,11 @@
 
 ## Tuesday August 11
 
+1. MVP Taxonomy [#2542](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2542)
+1. Related information component
+1. Media lists
 1. Training plan for PW team and LC stakeholders / SMEs
-3. Content reusability accross products - review concept prototype
-4. Related information component
+1. Content reusability accross products - review concept prototype
 
 ## Action items
 
