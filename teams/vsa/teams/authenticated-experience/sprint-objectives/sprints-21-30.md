@@ -282,10 +282,6 @@ Note: Some of these might be done before the sprint starts.
 - 508-defect-2 [SCREENREADER, MOBILE DESIGN] Page MUST contain a level-one heading #11888
 - 508-defect-1 ❗ Launchblocker [SCREENREADER]: On page load, focus MUST be set on the h1 #11907
 
-These are platform related, but we need to make sure they are completed so we can move forward.
-
-- 508-defect-1 ❗ Launchblocker [SCREENREADER]: role="alert" MUST not be applied on non-urgent information #11910 
-
 ### Logged-in homepage
 
 If time — profile work is top priority.
