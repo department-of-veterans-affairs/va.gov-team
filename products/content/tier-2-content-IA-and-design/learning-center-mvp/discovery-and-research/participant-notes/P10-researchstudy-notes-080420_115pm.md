@@ -1,4 +1,5 @@
 # Learning Center MVP Research Study Session Notes
+
 ## Participant 10, 8/4/2020, 1:15pm EST
 
 **Can you remember a time you had a question about your benefits or account?**
@@ -9,7 +10,7 @@ Yes I've had questions in the last 1-2 days about my benefits and the status of 
 
 No, my appeals, but that's another thing. Finding my prescriptions, it seems like all of these sites, they're all split up.  You're gonna have a site that's for your healthcare, maybe your benefits should be there. But that's just my opinion, You have to go to 2-3 different sites, remember the passwords. Not all of these Veterans have a CAC card and it's hard to remember all of that.
 
-**First step you took to get questions answers?**
+**First step you took to get Q answers?**
 
 Went to e-benefits first. But then I had to confirm my password, so it sends me to MHV, you have to confirm your ID on another website, and then go back to that site. 
 
@@ -47,41 +48,55 @@ Participant: this is what I hate, it reminds me of the VA
 
 **Moderator: tell me what this page is for and what you think you can do here**
 
-Participant: first of all I don’t like the (font?) on this. It’s just too much on the page, I don’t know maybe you all should consider like drop down menus for here… if I’m really trying to find something and I’m in a hurry, going all the way down here, that’s just too much. Maybe you all should do this in dropdowns. If you’re looking for something and you’re already not finding it, you’re just overhwhelmed.
+Participant: first of all I don’t like the font on this. *[reads audience types aloud and scrolls length of page]* 
+
+It’s just too much on the page, I don’t know maybe you all should consider like drop down menus for here… if I’m really trying to find something and I’m in a hurry, going all the way down here, that’s just too much. Maybe you all should do this in dropdowns. If you’re looking for something and you’re already not finding it, you’re just going to get frustrated.
+
+*suggested to put topics in dropdowns, in header*
 
 I would just start Googling stuff I’d leave the site. Then most likely it would bring me back.
 
-I do like the breakdown… some of these titles are a little too long. “Housing” and “Housing assistance” can be combined somehow…. 
+I do like the breakdown… some of these titles are a little too long. “Housing” and “Housing assistance” can be combined somehow…. It's too many titles and stuff that should all fall under the same thing.
 
 Disability, if it’s not related to a veteran’s disability that name should be changed… it should link back to eBenefits it should explain to them that’s where they need to know. I noticed you all like leading people back and forth. 
 
 If I’m looking for something, for instance, the nearest VA. Have you already tried looking up the nearest VA on this site? It’s like peeling a freaking onion. Find VA locations, then you have to scroll down and there is a map. You have to make 4 or 5 clicks before you actually make it. Maybe don’t put the map there, just break it down…. I don’t think nobody’s told them that because it’s been like that for years.
 
-I would rather go to Google
-
-When you have all these links… there’s a bunch of clutter here that means nothing to me
+I would rather go to Google that struggle and crawl through that site. This sort of looks like it, when you have all these links… and you log into it, to get answers, there’s a bunch of clutter here that means nothing to me.
 
 **Moderator: imagine you recently moved, from here what would you normally do**
 
 Participant: first think I would look for was a link that said registration or something… profile information and creating accounts.. I figure something over here (Your VA account) and something here that says profile or update profile… but it’s peeling the onion… there should be something that summarizes “your profile information or update your information”
 
-I was going to see if that search thing works but it doesn’t… I would go up to search and I would enter profile or login… most of the time you have to login just to get in there. Something on profile or status or update or something. Usually when you login, you can go to the profile with some man shaped icon and it has all your profile information. That’s where I would normally go. 
+I was going to see if that search thing works but it doesn’t… I would go up to search learning center, or search VA gov and I would enter a keyword, profile or login. Most of the time you have to login just to get in there. Something on profile or status or update or something. Usually when you login, you can go to the profile with some man shaped icon and it has all your profile information. That’s where I would normally go. 
 
 **Moderator: click on “view all” what do you think**
 
-Once again the text throws me off, it just looks jumbled.. it gives me dread because I know I’m on VA site, I’m not going to find what I want… that topic means nothing to me. Maybe those tags should be hidden… that means nothing to me
+Once again the text throws me off, it just looks jumbled. That black and white, it gives me dread because I know I’m on VA site, I’m not going to find what I want.
 
-Change your address for VA benefits… ok so that’s there… why are there so many “Change your address” and “How to change your VA address.”
+And then, okay, you have stuff in boxes - topic - that means nothing to me. Maybe those tags should be hidden so when they do look up the keyword it'll populate… but that means nothing to me. Especially for older Veterans. What the hell is a topic? I don't know what I'm looking for. Audience? Of course, I'm a Veteran! I am the audience!
 
-One’s a step by step and one’s an about… that means the same thing… an About page that’s just a summary. And a step by step I’m going to walk you through.. step 1 login, step 2 select your profile… as far as an about, there shouldn’t be an about page. Nice try though.
+Change your address for VA benefits… ok so that’s there… but, okay, there's more than one way? I don't know if you need that many. Maybe they should all be under one. 
 
-I wouldn’t go to about, I would click on how to change your VA address online… I would click on sign in… and then it’s going to be taking me to those 3 magical sites just to get on one site… I don’t know if I’ve ever seen this part where it verifies your identity…
+**do you notice any differences between those?**
+
+One’s a step by step and one’s an about. 
+
+**And what does that mean to you?**
+
+That means the same thing to me! an About page that’s just a summary. And a step by step, okay I’m going to walk you through.. step 1 login, step 2 select your profile… that's what I was talking about earlier, where that's what I see on most of those sites.  As far as an about, there shouldn’t be an about page. Nice try though.
+
+I wouldn’t go to about, I would click on `how to change your VA address online`… what I'm hoping for is that someone was smart enough to put a link in there, and OK I would click on sign in… and then it’s going to be taking me to those 3 magical sites just to get on one site… And I go to click on that, and then it's going to take me back, and then I'll go and look for information and it'll take me back to VA.gov anyhow. 
+
+I don’t know if I’ve ever seen this part where it verifies your identity…because it took me about 6 years just to get my password correct. They don't send you nothing like that. You don't know your password? You're SOL.
 
 **Moderator: does this page answer your question?**
 
-Not really… normally when you go to a VA page you want to find answers something that has to do with your health or something that’s a benefit.
+Not really… not if its taking me out. This is what I was talking about right here. *mouses over screenshot with profile dropdown.*
 
-Moderator: from here let’s say you thought one of the other articles was better how would you get back?
+*normally* when you go to a VA page you want to find answers something that has to do with your health or something that’s a benefit.
+
+**Moderator: from here let’s say you thought one of the other articles was better how would you get back?**
 
 I would basically just hit back (on the browser).
 
@@ -95,13 +110,15 @@ OK well is it going to provide me with some instructional way of filling out pap
 
 There is too much blue on the page! It’s like blue ink and this dreaded text. Use something happier!
 
-Did you think the topic label was clickable?
+**Did you think the topic label was clickable?**
 
-No I just like rectangles
+No I thought you guys just like rectangles. [reads content on page, content is what he expected]
 
 **What would you do next?**
 
-I would read it… this is just a quick summary of it… and then everything else goes down… what I’m most interested in is how I file a disability claim.. maybe this should go inside (the CTA buttons). I think this is actually helpful. I would click file a disability claim. I know I have to file a claim. Maybe if I didn't, if I had no disabilities and I'm new to this, then lets Learn how to file a claim.
+I would read it… this is just a quick summary of it… and then everything else goes down… what I’m most interested in is how I file a disability claim.. maybe this should go inside (the CTA buttons). 
+
+I think this is actually helpful. I would click file a disability claim. I know I have to file a claim. Maybe if I didn't, if I had no disabilities and I'm new to this, then lets Learn how to file a claim.
 
 *clicks to benefit hub page*
 
