@@ -156,6 +156,7 @@ http://staging.va.gov/health-care/schedule-view-va-appointments/appointments/new
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/content/images/new-express-care-appointment.png?raw=true" width="30%" heigh="30%"/>
 
+#### Create an Encounter with an ID in VistA
 
 Clicking submit will POST to:
 ```
