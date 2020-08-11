@@ -15,7 +15,7 @@ Fill out name of individual and *Description* section below.
    > Janet Doe
 - Please provide the name of their team, their role on that team, expected last day, and the name of the company they work for.
    > this adds context
-- Please provide any type of access they may have. 
+- Please provide any type of access they may have and their GitHub username. 
   > ex: SOCKS, Pagerduty, Google analytics, ect.
   
  
