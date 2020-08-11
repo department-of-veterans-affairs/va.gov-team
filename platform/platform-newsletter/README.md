@@ -6,7 +6,7 @@ This is a monthly newsletter publicizing DEPO platform improvements to ensure VF
 
 ## Documentation
 
-* Newsletter archive - view past newsletters.
+* Newsletter archive - [view past issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/platform-newsletter/archive.md)
 
 ------
 
