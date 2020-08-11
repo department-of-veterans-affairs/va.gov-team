@@ -4,6 +4,7 @@
  The Data here represents sample data for some typical responses. It was obtained from mock data used by vets-website and vets-api. In some cases a summarized returned JSON has been provided as the resulting JSON can be long in some cases.
  
  VAOS calls VAMF and passes the data back and acts as a pass thru. There is some data normalization and flattening of data that occurs mostly in serializers. 
+ 
 
 #### Appointment page in VAOS
 
@@ -401,3 +402,9 @@ PUT /v0/appointment_requests/${req.id}
 }
   
 ```    
+
+## VAOS Swagger JSON
+
+There is JSON that can be plugged into swagger though it is not complete
+
+[https://staging-api.va.gov/vaos/v0/apidocs](https://staging-api.va.gov/vaos/v0/apidocs)
