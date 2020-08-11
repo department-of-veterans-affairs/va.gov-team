@@ -18,6 +18,8 @@ http://staging.va.gov/health-care/schedule-view-va-appointments/appointments/
 This page makes these requests to the backend and recieves the results shown:
 
 
+#### Request from frontend
+
 ```
 http://staging.va.gov/vaos/v0/appointments?start_date=2020-08-04T04:00:00.000Z&end_date=2021-09-04T04:00:00.000Z&type=va
 ```
@@ -33,6 +35,8 @@ https://veteran.apps.va.gov/appointments/v1/patients/1012845331V153043/appointme
 
 ---
 
+#### Request from frontend
+
 ```
 http://staging.va.gov/vaos/v0/appointments?start_date=2020-08-04&end_date=2021-09-04&type=cc
 ```
@@ -47,6 +51,8 @@ https://veteran.apps.va.gov/appointments/v1/patients/1012845331V153043/appointme
 [Summarized Returned nonserialized JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/confirmed_cc_sum.json)
 
 ---
+
+#### Request from frontend
 
 ```
 http://staging.va.gov/vaos/v0/appointment_requests?start_date=2020-07-05&end_date=2020-08-04
@@ -67,15 +73,24 @@ The returned JSON will be a series of records, each having a reason for visit fi
 
 ---
 
+#### Request from frontend
+
 ```
 http://staging.va.gov/vaos/v0/facilities?facility_codes[]=553
 ```
 <!--- facilities.json ---->
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/facilities.json)
 
+Request to VAMF similar to:
+```
+https://veteran.apps.va.gov/var/VeteranAppointmentRequestService/v4/rest/direct-scheduling/parent-sites?facility-code=688
+```
+
 [Summarized Returned nonserialized JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/facilities_sum.json)
 
 ---
+
+#### Request from frontend
 
 ```
 http://staging.va.gov/vaos/v0/request_eligibility_criteria?parent_sites[]=648
@@ -83,9 +98,17 @@ http://staging.va.gov/vaos/v0/request_eligibility_criteria?parent_sites[]=648
 <!----- /request_eligibility_criteria.json ---->
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/request_eligibility_criteria.json)
 
+Request to VAMF similar to:
+```
+https://veteran.apps.va.gov/facilities/v1/request-eligibility-criteria
+```
+
 [Summarized Returned nonserialized JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/request_eligibility_criteria_sum.json)
 
 ---
+#### Request from frontend
+
+This is not a VAOS request
 
 ```
 http://staging.va.gov/v1/facilities/va?ids=vha_442,vha_442GC,vha_552,vha_442GB,vha_442HK
@@ -106,7 +129,7 @@ https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/ne
 ```
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/content/images/facilities-for-new-appointment.png?raw=true" width="30%" heigh="30%" />
 
-This page makes this request to the backend
+This page makes this request to the backend which is not a VAOS request
 
 ```
 http://staging.va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/va-facility
@@ -133,6 +156,11 @@ http://staging.va.gov/vaos/v0/appointment_requests?type=va
 
 [Sent JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/send/post_appointment_req.yml.json)
 
+POST request sent to VAMF similar to:
+```
+https://veteran.apps.va.gov/var/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/983/patient/ICN/1012845331V153043/booked-appointments
+```  
+  
 [Returned nonserialized JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/app_req_post.yml.json)
 
 [Contact Info Saved to VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/data%20from%20VAOS.md#contact-info-saved-to-vaos)
@@ -142,6 +170,11 @@ http://staging.va.gov/vaos/v0/appointment_requests?type=va
 ```
 /v0/appointment_requests/${requestId}/messages
 ```
+Request to VAMF similar to: 
+```
+https://veteran.apps.va.gov/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/1012845331V153043/appointment-requests/system/var/id/8a4886886e4c8e22016e5bee49c30007/messages
+```  
+  
 [Returned nonserialized JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/get_messages_yml.json)
 
 ---
