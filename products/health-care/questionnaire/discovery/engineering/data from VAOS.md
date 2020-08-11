@@ -354,7 +354,7 @@ A GET call to /v0/appointments returns confirmed appointments.
   - There is a vvsAppointments array that may exist that contains the appointment data with the following fields
     - multiple patient records
     - multiple provider records
-    - a type field with values such as "SERVICE CONNECTED", "REGULAR", "ORGAN DONORS", "COMPENSATION & PENSION"    
+    - a type field with values such as "SERVICE CONNECTED", "REGULAR", "ORGAN DONORS", "COMPENSATION & PENSION" [more here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/data%20from%20VAOS.md#type-field-from-vvsappointments-above)    
     - a status field with values such as: "status": { "description": "F", "code": "FUTURE" }
     - an appointmentKind field with values such as "ADHOC", "MOBILE_GFE"
     - a dateTime field
