@@ -1,6 +1,6 @@
 # IA Review and Recommendations
 
-**STATUS: DRAFT COMPLETE**  Can be viewed here: https://app.moqups.com/Rnc4BDEKrA/view/page/a1803040d
+**STATUS: DRAFT**  
 
 **Team:** Benefits & Memorials 2
 
@@ -18,18 +18,26 @@ Content request: https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements. *
 
 **IA/Content Strategy Approach:**
-- This initial phase will include a static content page and a single tool for viewing/downloading debt letters from VA - we are not aiming to bring over the full Debt Management site into the benefit hub experience.  Links to that additional content will be provided where applicable within static content and the tool.  A future phase will be needed to review and plan for migration of any additional content and tools that support a user's ability to manage and pay their debt.  
+- This initial phase will include a static content page and a tool for viewing/downloading debt letters from VA - we are not aiming to bring over the full Debt Management site into the benefit hub experience.  Links to that additional content will be provided where applicable within static content and the tool.  A future phase will be needed to review and plan for migration of any additional content and tools that support a user's ability to manage and pay their debt.  
 - Corresponding content approach is documented here: https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/10315
-
+- There are 4 "pages" associated with this experience:
+  - Manage your debt static landing page
+  - View your debt authenticated tool that shows your list of current debts
+  - Debt details authenticated tool page that is a drill down page of the list and provides details on a specific debt
+  - Debt letters page that allows user to view a list all debt letters sent to them and download individual letters in pdf format
+  
+ ![image](https://user-images.githubusercontent.com/20994159/89955947-bfd57b00-dbf9-11ea-8f7c-21ef43537ac7.png) 
 
 **User Flow:**
 - The standard flow for authenticated tools, is to bypass the static content page when users are already authenticated. **However**, because this static content page will eventually house multiple tools and/or additional content pages, the main static content page must always be accessible to users through the breadcrumb or other direct link. 
 - Unauthenticated users can link directly to the static content page
-- If an unauthenticated user attempts to link directly to the authenticated tool, they will be redirected to the static page where they must first sign in and will then be sent to the tool
-- Authenticated users will be able to link to the static page, deep link directly to the summary level of the tool, or navigate to the tool through the static page.  
-- If an authenticated user attempts to deep link to the detail level of the tool, they will be redirected back to the summary level instead.  This is due to the fact that the individual debts do not have unique ids, so a user attempting to direct link to specific debt may end up with a 404 or the incorrect debt. 
+- If an unauthenticated user attempts to link directly to any page/level of the authenticated tool, they will be redirected to the static page where they must first sign in.  After signing in, they would be directed to their originally requested page. 
+- Authenticated users will be able to link/navigate to the static page, deep link/navigate to the top level of the tool.  
+- If an authenticated user attempts to deep link to a debt detail page, they will be redirected back to the summary level instead.  This is due to the fact that the individual debts do not have unique ids, so a user attempting to direct link to specific debt may end up with a 404 or the incorrect debt. 
+- If an authenticated user attempts to deep link to the debt letters page, they will be taken directly to it.
 
-![image](https://user-images.githubusercontent.com/20994159/88335015-42080900-ccf8-11ea-8aa7-42892ca86632.png)
+
+![image](https://user-images.githubusercontent.com/20994159/89955882-97e61780-dbf9-11ea-8183-c65a207f83cd.png)
 
 
 
@@ -39,10 +47,10 @@ _Please confirm actual breadcrumb labeling and casing with your writer._
 
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
-Static page: Manage your VA Debt | wwww.va.gov/manage-va-debt/ | Home > Manage your VA debt | This is a new static content page. 
-Tool: Debt list  | wwww.va.gov/manage-va-debt/your-debt/ | Home > Manage your VA debt > VA debt list | This is the top level of the authenticated tool for viewing/downloading debt. 
-Tool: Debt detail  | wwww.va.gov/manage-va-debt/your-debt/debt-detail/ | Home > Manage your VA debt > Your VA debt | This is the detail level of the authenticated tool that shows the detail for a specific debt
-Tool: Debt letters  | wwww.va.gov/manage-va-debt/your-debt/debt-detail/ | Home > Manage your VA debt >  | This is the detail level of the authenticated tool that shows the detail for a specific debt
+Static page: Manage your VA Debt | wwww.va.gov/manage-va-debt/ | Home > Manage your VA debt | This is a new static content page to be built in Drupal. 
+Auth Tool: Current debt list  | wwww.va.gov/manage-va-debt/your-debt/ | Home > Manage your VA debt > Your VA debt | This is the top level of the authenticated tool. This page will include inks to the detail pages for individual debt and the debt letter list page.  
+Auth Tool: Debt detail pages | wwww.va.gov/manage-va-debt/your-debt/debt-detail/ | Home > Manage your VA debt > Your VA debt > Details | This is the detail level of the authenticated tool that shows the detail for a specific debt. The URL may include parameters to identify the debt being viewed. 
+Auth Tool: Debt letters list  | wwww.va.gov/manage-va-debt/your-debt/debt-letters/ | Home > Manage your VA debt > Your VA debt > Download Debt letters  | This is a child level of the authenticated tool that shows a list of all debt letters for the user and allows them to download the letters in pdf form.  
 
 
 <hr>
@@ -52,18 +60,21 @@ Tool: Debt letters  | wwww.va.gov/manage-va-debt/your-debt/debt-detail/ | Home >
 
 Priority | Placement | Label | Description
 --- | --- | --- | ---
+tbd | [Records hub page](https://www.va.gov/records/) |  TBD | Placed as 8th link, just below "View your VA payment history". <br> Link and teaser text to be provided by PW team.
+tbd | Records hub left nav menu | Manage your VA debt | Placed as 9th link, just below "View VA payment history".
 
 
-
-
-The above linking opportunities rated "medium" or "low" are purely recommendations and can be utilized at your team's discretion.
+***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
 <hr>
 
 ### Redirects <br>
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
-For redirects, please submit a Redirect Request at least 2 weeks in advance per the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).
+- 
+
+Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
+*For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
 
 <hr>
 
