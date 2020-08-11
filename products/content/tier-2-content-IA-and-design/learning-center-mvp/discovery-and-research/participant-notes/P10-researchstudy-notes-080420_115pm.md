@@ -9,7 +9,7 @@ Yes I've had questions in the last 1-2 days about my benefits and the status of 
 
 No, my appeals, but that's another thing. Finding my prescriptions, it seems like all of these sites, they're all split up.  You're gonna have a site that's for your healthcare, maybe your benefits should be there. But that's just my opinion, You have to go to 2-3 different sites, remember the passwords. Not all of these Veterans have a CAC card and it's hard to remember all of that.
 
-**First tap you took to get Q answers?**
+**First step you took to get questions answers?**
 
 Went to e-benefits first. But then I had to confirm my password, so it sends me to MHV, you have to confirm your ID on another website, and then go back to that site. 
 
