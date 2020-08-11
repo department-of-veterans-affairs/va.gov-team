@@ -23,7 +23,7 @@ Hi [participant name}, my name is Ryan.
 
   *Start recording.*
 
-- **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?** 
+- **I have started recording. I'd like to confirm: Are you comfortable if I record my screen and audio as we talk today?** 
 
 
 - First I want to make sure your technology is ready to go for this session. Can you confirm for me what type of device you're using to join today? 
