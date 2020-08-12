@@ -43,9 +43,15 @@ OR
 
 ## What to expect from accessibility specialists during staging review
 
-After you request a staging review, the accessibility specialist reviews your work and documents any defects in ZenHub tickets. Issues with a 508 defect rating of “0” or “1” are launch blockers. Others can be fixed post-launch.  
+After you request a staging review, the accessibility specialist reviews your work and documents any defects in ZenHub tickets. **Issues with a 508 defect rating of “0” or “1” are launch blockers.** Issues with severity raings of "2, 3, or 4" should be fixed according to the following schedule:
 
-The accessibility specialist attaches the tickets to a single ZenHub epic and assigns the epic to the person who requested the staging review. During the staging review meeting, you and your team can ask questions about any of the issues identified. 
+* **508-defect-2** issues should be fixed in 1-2 sprints post-launch
+* **508-defect-3** issues should be fixed in 1-3 sprints
+* **508-defect-4** issues should be considered for fixes or exploration in 2-4 sprints
+
+The accessibility specialist attaches the tickets to a single ZenHub epic and assigns the epic to the person who requested the staging review. During the staging review meeting, you and your team can ask questions about any of the issues identified. Applications are not considered Section 508 compliant until all severity 0, 1, 2, and 3 issues are remediated. Severity 4 issues are treated as enhancements and research.
+
+All defect severities can be reviewed in detail in the [defect severity rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md).
 
 
 ## Tips to avoid accessibility-related project delays in staging review
