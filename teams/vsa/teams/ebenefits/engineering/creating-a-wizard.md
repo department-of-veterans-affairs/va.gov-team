@@ -39,4 +39,37 @@ export default function createSomeWidget(
 
 ```
 
-- Call the startup function for your widget in `src/applications/static-pages/static-pages-entry.js` - This will be the function that 
+- Add your `data-widget-type` to src/applications/static-pages/widgetTypes.js - In order for you to use your mounting point you will need to add the `data-widget-type` that you put in your mounting point in your static file to the object inside widgetTypes.js.
+
+- Call the startup function for your widget in `src/applications/static-pages/static-pages-entry.js` - Now we need to call your startup function and pass in the `data-widget-type` we added inside widgetTypes.js so that our widget will get created and added to the page. Inside `static-pages-entry.js` import and call your startup function and use your `data-widget-type` like this - 
+
+```javascript
+
+createSomeWidget(store, widgetTypes.YOUR_DATA_WIDGET_TYPE);
+```
+
+- Add our widget code - Now at this point you will probably notice that we haven't actually created a React component for our widget, now we need to do that. You will notice in our startup function we have this line that is inside an if statement- 
+
+```javascript
+import(/* webpackChunkName: "createSomeWidget" */
+    './SomeWidget.jsx').then(module => {
+      const { ApplicationStatus, Wizard, pages } = module.default;
+      ReactDOM.render(
+        <SomeWidget />,
+        root,
+      )
+```
+We need to create that `./SomeWidget.jsx` file and export our component from it. Here is just an example component -
+
+```javascript
+import React from 'react'
+
+const SomeWidget = () => {
+  return <p>Hey There</p>;
+}
+
+export default SomeWidget;
+```
+
+Now if you run `yarn watch` in `vets-website` and load up your static page you should see your widget there.
+
