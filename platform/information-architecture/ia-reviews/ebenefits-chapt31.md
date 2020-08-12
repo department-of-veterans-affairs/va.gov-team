@@ -1,15 +1,15 @@
 # IA Review and Recommendations
-**STATUS: NOT STARTED**
+**STATUS: IN PROGRESS**
 
 **Team:** eBenefits
 
 **Product/Featue:** Chapt 31/Veteran Readiness and Employment (formerly Voc Rehab)
 
-**Background/Context:**
+**Background/Context:** Migrating the ability to apply for chapter 31 benefits from eBenefits to va.gov
 
 **IA Completed Date:** 
 
-**IA Request:** 
+**IA Request:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/9086
 
 <hr>
 
@@ -18,14 +18,19 @@
 
 **Approach:**
 
-- 
+- This work effort includes the addition of an online application.  Static content for this benefit already exists, the new online application will replace the existing link to eBenefits. 
+- In addition to the launch of this application, the VR&E program has changed names.  The name change will be implemented by the time the form goes live.  In discussions with stakeholders it was agreed upon to leave the URLs at "/vocation-rehabilitation". This decision is based on guidelines for using keywords, descriptive words and non-branded terminology for URLs.  A vanity URL will be established for a shortened URL and use of the acronym "VRE". 
+
+
+![image](https://user-images.githubusercontent.com/20994159/90056935-472bf880-dca5-11ea-8c73-7f2c56cf3e85.png)
 
 
 Page | URL | Breadcrumb
 --- | --- | ---
+VR&E Static content page | https://www.va.gov/careers-employment/vocational-rehabilitation/ | Home > Careers and employment > Veteran Readiness and Employment | This is an existing content page.  The program name is changing, resulting in a change to the breadcrumb, but the existing URL will remain the same. 
+Application | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-0588/  | Home > Careers and employment > Veteran Readiness and Employment > Apply for VR&E form 28-0588
 
-**General Details**
-- Please connect with your writer/editor on the proper verbiage and capitalization of the last element of the breadcrumb
+
 
 <hr>
 
@@ -35,6 +40,7 @@ Page | URL | Breadcrumb
 Priority | Placement | Description
 --- | --- | ---
 
+
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
 <hr>
@@ -42,7 +48,7 @@ Priority | Placement | Description
 ### Redirects <br>
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
-- 
+- The eBenefits team will coordinate the redirect of the eBenefits version of the application with that technical team.  VSP will not be handling any redirects from eBenefits. 
 
 Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
 *For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
