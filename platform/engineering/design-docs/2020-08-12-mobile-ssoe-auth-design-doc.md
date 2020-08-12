@@ -1,43 +1,42 @@
-# Design Doc Template
+# Mobile SSOe Auth Design Doc
 
 _Replace the previous line with the the title of your project or component and replace the following lines with your name(s), email and the date._  
-**Author(s):** Albert J. Wong  
-**Last Updated:** January 24, 2020  
+**Author(s):** Alastair Dawson, Jonathan Julian  
+**Last Updated:** August 12th, 2020  
 **Status:** **Draft** | In Review | Approved  
-**Approvers:** _Person A_ \[ \], _Person B_ \[ \], ...  
-_Replace the previous line with 2-4 people, all of whom must explicitly approve your design proposal. An important part of the design doc is building consensus with key stakeholders, technical implementers who you'll work with, and technical contacts for other systems that this proposal affects or is affected by._
-
-_For the rest of the document, replace all the italicized text. The document is designed to guide your thinking through a general design process. Not all sections are always applicable. If a section is not applicable, just say so._
-
-_You should complete the Overview section first. If your design is elaborate, you may want to pause after this section to wait for review comments before investing time into planning details that may get changed in the review._
-
-_Remember, a design document introduces a system or component to a fellow engineer. It should be written before implementing the system to aid in planning and to facilitate discussions about design decisions. After implementation, the design doc will serve as a reference for users, maintainers, and anyone else interested in the system (and for that reason it is still useful to write design docs for systems that have already been written)._
-
-_A design document is not a press release, a vision statement, a research report, or a business plan._
-
-_The intended audience for this document is software engineers, but it should make sense to anyone familiar with software development._
-
+**Approvers:** Andrew Gunsch, John Paul Ashenfelter, Michael Fleet 
 
 ## Overview
-_Nothing goes here; all the content belongs in the subsections._
 
 ### Objective
-_In the objective section you should include a succinct 1-3 sentence statement of the objective of your project. It is also useful to state non-goals. Bulleted lists are great. Finally, state who the intended audience for the document is._
+Allow VA Mobile App users, authenticated via the IAM SSOe identity provider, to consume endpoints in api.va.gov
 
 ### Background
-_The background section should contain information the reader needs to know to understand the problem being solved. This can be a combination of text and links to other documents._
+A flagship mobile app for the VA is being developed to augment services available on va.gov with unique mobile features 
+such as notifications and biometric sign-in. The VA’s Identity and Access Management System (IAM) maintains a Single Sign On 
+identity provider/service for external apps (SSOe). Web clients can currently establish VA.gov sessions from SAML, Okta, 
+and across vites via SSO. To enable the mobile app to consume api.va.gov endpoints we’ll allow mobile SSOe signed requests 
+to also create VA.gov sessions.
 
-_Do **NOT** describe the solution here. That goes in High Level Design._
+Currently in vets-api all web client session (from va.gov) logic is managed in the `AuthenticationAndSSOConcerns` concern 
+that is mixed in to the main `ApplicationController`.  API sessions (from lighthouse) are managed in the `OpenidApplicationController`.
+
+The main difference between the two are that session extension/expiration for web requests are handled in the app while API 
+session ttl is part of the token payload.
 
 ### High Level Design
-_A high-level description of the system. This is the most valuable section of the document and will probably receive the most attention. You should explain, at a high level, how your system will work. Don't get bogged down with details; those belong later in the document._
+- Users login via the app which triggers a call to IAM’s SSOe authorize service which returns an access token
+- All requests to vets-api from the mobile app will include the access token in the header
+- Vets-api will then query redis for a session stored under that access token
+- If a session is not found; vets-api call’s IAM’s introspect endpoint to:
+- Validate that the access token is valid
+- Return a set of user traits, including MVI’s ICN and other correlation ids
+- Vets-api will then instantiate a profile from the user traits and store a session in redis using the access token as a key.
+- Subsequent requests using the access token will use the cached session object and profile to authorize upstream API calls to services such as claims.
 
-_A diagram showing how the major components communicate is very useful and a great way to start this section. If this system is intended to be a component in a larger system, a diagram showing how it fits in to the larger system will also be appreciated by your readers._
-
-_Most diagrams will need to be updated over time as the design evolves, so please create your diagrams with a program that is easily (and freely) available and attach the diagram source to the document to make it easy for a future maintainer (who could be you) to update the diagrams along with the document._
+![auth_sequence_diagram](images/mobile-ssoe-auth/mobile_ssoe_auth_sequence.png)
 
 ## Specifics
-_Nothing goes here; all the content belongs in the subsections._
 
 ### Detailed Design
 _Designs that are too detailed for the above High Level Design section belong here. Anything that will require a day or more of work to implement should be described here._
