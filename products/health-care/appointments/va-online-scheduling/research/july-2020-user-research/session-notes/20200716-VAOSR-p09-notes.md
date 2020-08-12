@@ -1,17 +1,19 @@
 # VAOSR MVP Conversation Guide: July 2020 - Participant 09
+
 ## Moderator logistics
 
 *Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
 
-*Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel).*
+*Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-
+team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).*
 
-*In the Attendees section, make sure everyone except the participant is on mute.*
+*In the Attendees section, make sure everyone except the participant is on mute*
 
-*In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked.*
+*In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked*
 
-*Check your [screensharing setup].*
+*Check your [screensharing setup]*
 
-*When the participant is ready, begin the session with the following intro.*
+*When the participant is ready, begin the session with the following intro*
 
 # Intro - 5 minutes
 Thanks for joining us today! My name is Melissa and I also have some colleagues on the line observing and taking notes. Today we're going to talk about scheduling VA medical appointments online. I am going to ask you a series of questions, then we'll take a look at VA.gov's online scheduling tool and a prototype to help my team understand how to make this process easier for Veterans.
