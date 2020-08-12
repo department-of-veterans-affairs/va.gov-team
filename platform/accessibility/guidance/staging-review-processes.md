@@ -3,7 +3,7 @@
 
 Teams must conduct their own accessibility testing **before** scheduling a VSP Collaboration Cycle [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review). 
 
-Staging reviews test the [happy path](https://en.wikipedia.org/wiki/Happy_path) through the application or content page(s). This may not catch all accessibility issues, but will ensure basic functionality is accessible. (Accessibility specialists conduct a [more thorough pre-launch audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md) when an application is relatively code-stable in production.)
+Staging reviews test the [happy path](https://en.wikipedia.org/wiki/Happy_path) through the application or content page(s). This may not catch all accessibility issues, but will ensure basic functionality is accessible. (Accessibility specialists conduct a [more thorough post-launch audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/post-launch-audit-processes.md) when an application is relatively code-stable in production.)
 
 
 ## Required accessibility tests
