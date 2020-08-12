@@ -6,7 +6,7 @@
   - Analytics implementation and Q-A [#12317](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12317)
   - Accessibility will occur during Staging Review when all work is done [#12449](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12249)
 
-*(Note: Minor content changes are being implemented to the [STEM scholarship portion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12307) of the Education Wizard to more strongly articulate the stringent requirements for eligibility.  About 90% of applications received for the scholarship are from Veterans who do not meet the requirements.)*
+*(Note: Minor content changes are being implemented to the [STEM scholarship portion](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/stem/stem-standalone-10203/10203_product_outline.md) of the Education Wizard to more strongly articulate the stringent requirements for eligibility.  About 90% of applications received for the scholarship are from Veterans who do not meet the requirements.)*
   
 - Disabilty & HLR (BAM 1/Luke W.) is in sprint planning this week.
 
