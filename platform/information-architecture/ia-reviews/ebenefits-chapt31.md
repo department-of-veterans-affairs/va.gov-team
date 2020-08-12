@@ -21,7 +21,8 @@
 - This work effort includes the addition of an online application.  Static content for this benefit already exists, the new online application will replace the existing link to eBenefits. 
 
 
-![image](https://user-images.githubusercontent.com/20994159/90072372-f45e3b00-dcbc-11ea-832d-955bc1a29b96.png)
+![image](https://user-images.githubusercontent.com/20994159/90073835-8f581480-dcbf-11ea-9efc-a7937057f375.png)
+
 
 
 
