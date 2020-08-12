@@ -26,7 +26,7 @@ Staging reviews test the [happy path](https://en.wikipedia.org/wiki/Happy_path) 
 
 1. Choose one of these 2 options: 
 
-    * **(preferred)** Use the [TestRail VSP low-level accessibility testing checklist](https://dsvavsp.testrail.io/index.php?/projects/overview/13). The accessibility test cases template is available in TestRail for you to copy into your test plan and includes all the required accessibility checks.   \
+    * **(preferred)** Use the [TestRail VSP foundational accessibility testing checklist](https://dsvavsp.testrail.io/index.php?/projects/overview/13). The accessibility test cases template is available in TestRail for you to copy into your test plan and includes all the required accessibility checks.   \
 OR
     *   Copy the required and recommended checklists from this doc into a doc in your product folder. _Note that this artifact can be used for the Collaboration Cycle staging review._
 
