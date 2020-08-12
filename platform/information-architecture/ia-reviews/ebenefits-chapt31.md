@@ -19,16 +19,15 @@
 **Approach:**
 
 - This work effort includes the addition of an online application.  Static content for this benefit already exists, the new online application will replace the existing link to eBenefits. 
-- In addition to the launch of this application, the VR&E program has changed names.  The name change will be implemented by the time the form goes live.  In discussions with stakeholders it was agreed upon to leave the URLs at "/vocation-rehabilitation". This decision is based on guidelines for using keywords, descriptive words and non-branded terminology for URLs.  A vanity URL will be established for a shortened URL and use of the acronym "VRE". 
 
 
-![image](https://user-images.githubusercontent.com/20994159/90056935-472bf880-dca5-11ea-8c73-7f2c56cf3e85.png)
+![image](https://user-images.githubusercontent.com/20994159/90072372-f45e3b00-dcbc-11ea-832d-955bc1a29b96.png)
+
 
 
 Page | URL | Breadcrumb
 --- | --- | ---
-VR&E Static content page | https://www.va.gov/careers-employment/vocational-rehabilitation/ | Home > Careers and employment > Veteran Readiness and Employment | This is an existing content page.  The program name is changing, resulting in a change to the breadcrumb, but the existing URL will remain the same. 
-Application | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-0588/  | Home > Careers and employment > Veteran Readiness and Employment > Apply for VR&E form 28-0588
+Application | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/  | Home > Careers and employment > Veteran Readiness and Employment > Apply for VR&E form 28-1900
 
 
 
@@ -37,8 +36,16 @@ Application | https://www.va.gov/careers-employment/vocational-rehabilitation/ap
 ### Navigation Changes and Entry and Exit Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
-Priority | Placement | Description
+Priority | Placement | Link to | Description
 --- | --- | ---
+tbd | Top nav > Careers and employment > Get employment benefits | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/  | Apply now for VR&E link as last option in Get benefits column
+tbd | [Careers and employment hub page](https://www.va.gov/careers-employment/) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply now link with teaser text
+tbd | Careers and employment hub left nav | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply for VRE link
+tbd | [Veteran readiness and employment page](https://www.va.gov/careers-employment/vocational-rehabilitation/) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply now link with teaser text
+tbd | [VRE how to apply page](https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply now CTA button
+tbd | [PCPG content page](https://www.va.gov/careers-employment/education-and-career-counseling/) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ | Add link and possibly content to page
+
+
 
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
