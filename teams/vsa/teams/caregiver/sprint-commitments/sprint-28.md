@@ -12,7 +12,7 @@
 - [ ] Toogle implementation plan
 - [ ] Salesforce downtime
 - [ ] Resolve eMIS error
-- [ ] Generate staging user list to trigger successful submission
+- [x] Generate staging user list to trigger successful submission
 
 ## Design
 - [ ] Generate designs for address work for 10-10EZ
