@@ -36,16 +36,28 @@ session ttl is part of the token payload.
 
 <img src="images/mobile-ssoe-auth/mobile_ssoe_auth_sequence.png" alt="mobile auth sequence diagram" width="700"/>
 
+Mobile sessions are a hybrid of web sessions and api sessions. Like web sessions they are first class citizens. 
+i.e. they do not have restrictions on which endpoints they can call. However they will have their TTL managed 
+externally by the IAM auth service.
+
+Because of this hybrid nature mobile session management needs to live in the main application controller. To not 
+require conditional logic everywhere web and mobile sessions are differentiated they should share the same interface 
+and apply the correct logic where applicable (strategy pattern).
+
+The proposed solution is to move the current session logic dealing with sessions in `AuthenticationAndSSOConcerns` 
+to a `WebSessionMananger` class. Then create a sibling `MobileSessionManager` class that implements the same interface 
+with mobile specific logic.
+
 ## Specifics
 
 ### Detailed Design
-_Designs that are too detailed for the above High Level Design section belong here. Anything that will require a day or more of work to implement should be described here._
+As the `AuthenticationAndSSOConcerns` module is mixed in to the `ApplicationController` it has information about the 
+incoming request. When a request originates from a web client the concern can instantiate a `WebSessionManager`. 
+Likewise when it originates from a mobile client it can instantiate a `MobileSessionMananger`. As both managers implement 
+the same interface we won’t need to sprinkle web or mobile conditional logic throughout the concern. The request determines 
+which state it’s in and chooses the appropriate manager.
 
-_This is a great place to put APIs, communication protocols, file formats, and the like._
-
-_It is important to include assumptions about what external systems will provide. For example if this system has a method that takes a user id as input, will your implementation assume that the user id is valid? Or if a method has a string parameter, does it assume that the parameter has been sanitized against injection attacks? Having such assumptions explicitly spelled out here before you start implementing increases the chances that misunderstandings will be caught by a reviewer before they lead to bugs or vulnerabilities. Please reference the external system's documentation to justify your assumption whenever possible (and if such documentation doesn't exist, ask the external system's author to document the behavior or at least confirm it in an email)._
-
-_Here's an easy rule of thumb for deciding what to write here: Think of anything that would be a pain to change if you were requested to do so in a code review. If you put that implementation detail in here, you'll be less likely to be asked to change it once you've written all the code._
+<img src="images/mobile-ssoe-auth/mobile_ssoe_auth_class.png" alt="mobile auth sequence diagram" width="700"/>
 
 ### Code Location
 _The path of the source code in the repository._
