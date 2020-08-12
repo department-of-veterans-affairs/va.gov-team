@@ -1,3 +1,20 @@
+# 20200812
+
+## Agenda 
+- norms 
+- Q4 planning 
+  - happening in 2 weeks 
+  - what people want to do next quarter? 
+  - get a list of ideas to the team (Rian F) 
+  - maybe use the [idea board](https://trello.com/b/QtMNMuOP/idea-board)
+- "micro frontend" 
+  - design system problem
+  - one page multiple apps [definition](https://martinfowler.com/articles/micro-frontends.html#Build-timeIntegration)
+  - multi front ends
+  - monorepo vs multirepo problem? multi deployment pipeline? 
+
+## Notes
+
 # 20200729
 
 ## Agenda
