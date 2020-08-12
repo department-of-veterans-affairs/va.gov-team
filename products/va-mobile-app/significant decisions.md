@@ -257,12 +257,12 @@ See initial set of options [here](https://github.com/department-of-veterans-affa
 
 ## What was the deciding factor for your decision?
 1. **Mobile-specific:** OAuth is a standard authentication method for mobile apps that is flexible, whereas SAML was not created with modern mobile apps in mind and lacks flexibility.
-2. **Cost:** Okta has a cost per user, population of users who will use the app will (hopefully!) be large and therefore the cost will be high.
-3. **UX of login and consent screens:** Neither Okta or SSOe have great UX and though Okta's screens have been improved; however, because both have their own UX issues, this ultimately was not a deciding factor 
-- **VA trends and momentum:** Year long effort to migrate VA.gov to SSOe for authentication and the mobile app aligns more with VA.gov than it does with third-party consumers such as Apple Health.
+2. **Cost:** Okta has a cost per user and given we expect the population of users who will use the app will be large (more akin to the number of users that use VA.gov than the number of users that connect VA.gov to third-party apps), we also expect the cost could be high.
+3. **UX of login and consent screens:** Neither Okta or SSOe have great UX and though Okta's screens have been improved, because both have their own UX issues, this ultimately was not a deciding factor. 
+- **VA trends and momentum:** There has been a year-long effort to migrate VA.gov to SSOe for authentication and given the mobile app aligns most closely with VA.gov (rather than third-party consumers such as Apple Health), SSOe seemed like the appropriate direction for the mobile to go in too.
 
 ## When, or under what conditions, would you recommend revisiting this design decision? E.g., after usability testing, after launch when metrics or analytics equal X, etc.
-- If VA.gov changes their authentication provider, the mobile will most likely need to change as well
+- If VA.gov changes their authentication provider, the mobile will most likely need to change as well.
 - If VA wanted login to work across its suite of mobile apps (including VHA apps like RX refill), it would be worth exploring whether there are better ways to do this beyond OAuth.
 
 # Provide a brief background of the problem.
