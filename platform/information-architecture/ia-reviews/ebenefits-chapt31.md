@@ -51,8 +51,6 @@ tbd | [VRE programs > Rapid acces to employment page](https://www.va.gov/careers
 tbd | [VRE programs > Self-employment page](https://www.va.gov/careers-employment/vocational-rehabilitation/programs/self-employment) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply for VRE link
 tbd | [VRE programs > Long-term services page](https://www.va.gov/careers-employment/vocational-rehabilitation/programs/long-term-services) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply for VRE link
 tbd | [VRE programs > Independent living page](https://www.va.gov/careers-employment/vocational-rehabilitation/programs/independent-living) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply for VRE link
-
-
 tbd | [PCPG content page](https://www.va.gov/careers-employment/education-and-career-counseling/) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ | Add link and possibly content to page
 
 
