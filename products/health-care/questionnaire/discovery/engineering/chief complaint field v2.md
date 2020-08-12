@@ -4,7 +4,7 @@
 - Previous research into putting this field into VistA/CPRS concluded that PGD was the best place instead 
 - Lighthouse is planning to implement an API to work with PGD, however the project is fairly far out in time so this probably won't be an option.
 - the current best solution is to use smart-fhir-pgd through VAMF, much of the other items here document the details we went through to arrive at this.
-[Current best solution]()
+- [Current best solution](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/chief%20complaint%20field%20v2.md#using-smart-fhir-pgd-directly)
 
 #### VAMF services into PGD
 - VAMF exposes various services, but they are not intended for external applications.
