@@ -19,8 +19,8 @@
 - [x] Name of the facility PDF generation [ZenHub](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11429) [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11429)
 - [ ] Salesforce downtime ( + talk to Ranga) [ZenHub](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11774) [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11774)
 ### Additional Scope
-- [ ] Research eMIS error (Not able to get a veteran verification on veterans
-- [ ] Created a Form 10-10CG Dashboard in Grafana
+- [x] Research eMIS error (Not able to get a veteran verification on veterans
+- [x] Created a Form 10-10CG Dashboard in Grafana
 - [ ] Update our staging user list with icns, edip, and veteran statuses
 
 ## Design
