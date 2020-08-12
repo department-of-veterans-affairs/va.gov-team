@@ -22,7 +22,7 @@
 
 ## Phase II: Move to Wider Release (Production)
 ### Planning:
-- Desired date range: **Week of August 3, 2020**
+- Desired date range: **Week of August 24, 2020**
 - Desired number of unique users: **100 or 10%, whichever occurs first**
 - How you'll make the product available in production while limiting the # of users who can find/access it: **Use Flipper with monitoring**
 - "Success" criteria (by the numbers): 
