@@ -7,7 +7,7 @@
 - [ ] Post-staging review tickets
 
 ## Back end
-- [ ] GA event for failures
+- [ ] GA event for failures [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12089)
 - [ ] Backend toggles (dependent on launch strategy) / Toogle implementation plan [needs-grooming]
 - [ ] Salesforce downtime
 - [ ] Resolve eMIS error (allow a submission to go through with valid vet status) [needs-grooming]
