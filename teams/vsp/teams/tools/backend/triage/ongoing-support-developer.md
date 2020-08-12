@@ -96,6 +96,32 @@ For quick reference these are also pinned in the [#vsp-backend-utility-dev] chan
 
 - add pull request to the [Code Review Epic][Super Epics] for the current sprint
 
+#### Overriding Jumbo Pull Requests
+
+When a pull request is large enough, the `Danger-bot` status check will fail. 
+
+![image](https://user-images.githubusercontent.com/3077884/90051737-257f4100-dca6-11ea-9e7a-dd0cb6b1c178.png)
+
+When the pull request is not cognitively complex and cannot be easily broken up into smaller pull requests, it is appropriate to override this status check. 
+
+**Prerequisites**
+
+1. Ensure you are a repo admin
+
+![image](https://user-images.githubusercontent.com/3077884/90051558-da652e00-dca5-11ea-88f5-75d39d0453c7.png)
+
+**Steps**
+
+1. Navigate to `master` branch protection rules
+
+![image](https://user-images.githubusercontent.com/3077884/90052019-9161a980-dca6-11ea-87c4-2000aab5ca13.png)
+
+2. Disable `danger/danger` status check
+
+![image](https://user-images.githubusercontent.com/3077884/90052234-d84f9f00-dca6-11ea-87cd-dffb10c73051.png)
+
+3. You should now be able to merge the pull request despite the failing status check
+
 #### VSP Pull Requests
 
 As currently configured, on the first of the month Dependabot will open PRs until it has 15 active open PRs. These are lower priority, but should be worked through as time permits. See open Dependabot PRs with [this filter](https://github.com/department-of-veterans-affairs/vets-api/pulls/app%2Fdependabot-preview).
