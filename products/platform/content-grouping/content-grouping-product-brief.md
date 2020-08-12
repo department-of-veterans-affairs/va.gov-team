@@ -1,4 +1,4 @@
-# Google Analytics Content Grouping Product Brief
+# Google Analytics Content Grouping
 
 ## What is it?
 Content groups are custom buckets within Google Analytics that allow you to more easily compare your user metrics by page title. The current functionality allows you to segment by va.gov benefit hub.
