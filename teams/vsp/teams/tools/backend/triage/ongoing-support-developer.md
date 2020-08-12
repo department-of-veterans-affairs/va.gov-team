@@ -121,6 +121,7 @@ When the pull request is not cognitively complex and cannot be easily broken up 
 ![image](https://user-images.githubusercontent.com/3077884/90052234-d84f9f00-dca6-11ea-87cd-dffb10c73051.png)
 
 3. You should now be able to merge the pull request despite the failing status check
+4. :warning: **Re-enable status check!** :warning:
 
 #### VSP Pull Requests
 
