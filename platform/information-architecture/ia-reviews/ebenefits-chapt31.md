@@ -19,6 +19,7 @@
 **Approach:**
 
 - This work effort includes the addition of an online application.  Static content for this benefit already exists, the new online application will replace the existing link to eBenefits. 
+- Parallel to this work, a separate content effort is also happening to update the program name to "Veteran Readiness and Employment".  The existing URLs, which are not intended to be a branded program name, will continue to utilize "/vocational-rehabilitation". This is the same approach taken with the rebranding of the career counseling program (now PCPG). 
 
 
 ![image](https://user-images.githubusercontent.com/20994159/90073835-8f581480-dcbf-11ea-9efc-a7937057f375.png)
