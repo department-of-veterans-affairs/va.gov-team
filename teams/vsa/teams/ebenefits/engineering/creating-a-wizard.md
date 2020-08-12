@@ -76,13 +76,22 @@ Now if you run `yarn watch` in `vets-website` and load up your static page you s
 
 ## Step 2 - Add a wizard to your widget
 
-- Import the Wizard component - Once you have a widget you can import the `<Wizard />` component from `src/applications/static-pages/wizard and begin filling it with pages -
+- Import and add the Wizard component - Once you have a widget you can import the `<Wizard />` component from `src/applications/static-pages/wizard and begin filling it with pages -
 
 ```javascript
+import React from 'react';
 import Wizard from '../../../static-pages/wizard/index';
+import pages from './pages/index';
+
+const SomeCoolWizard = () => {
+  return <Wizard pages={pages} expander buttonText="Let's get started" />;
+};
+
+export default SomeCoolWizard;
+
 ```
 
-- Create a pages file that will import all of your page components and export them inside an array -  When you are ready to start adding pages you will need to create each page as a React component. These React components will need to be imported into a file and then exported in an array like this -
+- Create a pages file that will import all of your page components and export them inside an array - You can see when we imported the wizard we also imported and used `pages`. When you are ready to start adding pages you will need to create each page as a React component. These React components will need to be imported into a file and then exported in an array like this -
 
 ```javascript
 import page1 from './page1.jsx';
@@ -104,4 +113,26 @@ export const myPages = {
 
 - Add pages to your wizard - Each form field is treated as a 'page' in the wizard component, it is reccomended that you create a `/pages` folder in your folder structure for your wizard and put your page files in there - 
 
+```javascript
+import React from 'react';
+import {
+  myPages,
+} from './pageList';
 
+
+const page1 = ({ setPageState, state = {} }) => (
+  <div className="feature">
+    <p>
+      here is some content
+    </p>
+  </div>
+);
+
+export default {
+  name: myPages.page1,
+  component: page1,
+};
+
+
+```
+That should add a page to our wizard component
