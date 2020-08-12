@@ -55,3 +55,14 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 
 ### Meetings Notes and Background Info
 
+8/7/2020 - Kick-off
+- Wizards currently on the How to apply and Eligibility pages are being moved to the /introduction page of the applications
+- Impacts:  Education, Disability, Higher level review
+- Additional wizard currently in flight on Ch31 and Ch36 work - reviews and collab cycle for this effort will continue with that team
+- Each team moving a wizard will go through collab cycle - IA, content, accessibility and QA are all needed...along with analytics
+- Moving wizard impacts
+  - static content pages
+  - /introduction pages of all applications impacted
+  - all entry points to "Apply now" across the site (home, top nav, left nav, hub pages, search, etc)
+  - review all user flows/scenarios for additional content needs and CTAs
+- BAM2 has education wizard in staging on education form, will need to catch up on all needed collab cycle steps
