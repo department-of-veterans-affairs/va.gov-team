@@ -12,10 +12,10 @@ Health care Exp | Questionnaires | NOT STARTED | Kick-off held 7/29 <br> https:/
 BAH | GIBCT Search & Filters | IN PROGRESS | Usability prep 8/4 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-gibct-search-filter
 BAH | School ratings | NOT STARTED | Design Intent held 7/16<br>https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-school-ratings.md
 Public Websites | Learning Center | NOT STARTED | No kick-off, Design intent collab held 7/10 (was not able to attend) 
-eBenefits | VRE/Chapt 31 | IN PROGRESS | Kick-off 5/8 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-chapt31.md
-eBenefits | PCPG/Chapt 36 Career Counseling | IN PROGRESS | Kick-off held 4/10 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-chapt36.md
+eBenefits | VRE/Chapt 31 | DRAFT COMPLETE | Kick-off 5/8 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-chapt31.md
+eBenefits | PCPG/Chapt 36 Career Counseling | DRAFT COMPLETE | Kick-off held 4/10 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-chapt36.md
 eBenefits | Representatives/POA | NOT STARTED | Kick-off held 3/24 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-representative.md
-BAM 2 | Debt Letters | IN PROGRESS | IA for initial phase complete, will need review for second phase <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-debt-letters.md
+BAM 2 | Debt Letters | DRAFT COMPLETE | IA for initial phase complete, will need review for second phase <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-debt-letters.md
 
 
 <br>
