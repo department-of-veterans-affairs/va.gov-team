@@ -14,6 +14,9 @@ When Veterans are looking for schools within the Comparison tool, they want to k
   - Remote moderated usability testing	
   	
 2.	Why this method? How does this methodology help you answer your research questions? 	
+
+Researchers need to be able to see how users react and interact with school ratings.  We need to be able to ask about their impressions and expectations of those ratings to determine if the current design is meeting their needs.  We also need to identify any points of confusion and whether this feature will be valuable to Veterans.
+
 3.	Where are you planning to do your research? 
 
  - Online using Zoom
@@ -49,14 +52,13 @@ Please list your participant criteria in two categories-
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
+- Moderator:	Amy Knox; 301.254.0907; knox_amy@bah.com
+- Research guide writing and task development (usually but not always same as moderator):	Booz Allen UX team
+- Participant recruiting & screening:	Perigean Technologies
+- Project point of contact:	Amy Knox
 - Participant(s) for pilot test:	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
+- Note-takers:	Cindy Cruz cruz_cindy@bah.com; Jen Jones jones_jennifer2@bah.com
+- Observers:	Brian Grubb brian.grubb@va.gov; Desiree Turner turner_desiree@bah.com; Joe Preisser joseph.preisser@va.gov; Joe Welton joseph.welton@va.gov; Will McCormack mccormack_will@bah.com; Lauren Anderson lauren.alexanderson@va.gov; Lacey Higley lacey.higley@va.gov; Matt Self matthew.self2@va.gov; Dan Shawkey shawkey_daniel@bah.com; Darla VanNieukerk darla.vannieukerk@va.gov; Tammy Hurley tammy.hurley1@va.gov; Darrell Neel neel_darrell@bah.com;Luke Tickner Lucas.Tickner@va.gov	
 ## Resources	
 - Project Brief: 	
 *Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
