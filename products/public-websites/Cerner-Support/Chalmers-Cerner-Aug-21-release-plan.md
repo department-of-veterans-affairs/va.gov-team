@@ -16,13 +16,13 @@ Feature toggles don't work for this use case, we will request an exception from 
 
 Ex – roll back picture:
 
-- 1.   Columbus user signs in on public page
+1.   Columbus user signs in on public page
 
-- 2.   Lands on auth page
+2.   Lands on auth page
 
-- 3.   Does NOT see button or content for Cerner scheduling option.
+3.   Does NOT see button or content for Cerner scheduling option.
 
-- 4.   We will need an error state mssg for this roll back scenario, telling the user to call their facility to make an appointment.
+4.   We will need an error state mssg for this roll back scenario, telling the user to call their facility to make an appointment.
 
 
 **Types of errors to log:**
