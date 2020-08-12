@@ -1,4 +1,4 @@
-# Research Plan for [Team, Product, Date]
+# Research Plan for School Ratings
 As a designer I need to create a research plan to share with my team.	 	
 ## Goals	
 1. What product & team are you doing this research for?	
