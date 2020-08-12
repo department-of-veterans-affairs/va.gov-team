@@ -1,12 +1,15 @@
 # VA Form 22-10203: Edith Nourse Rogers STEM Scholarship Application 
 
-Tablet/desktop:  
-**NEW Breadcrumb** (updated 8/5/2020): [Home]() > [Education and training]() > [How to apply]() > Apply for the Edith Nourse STEM Scholarship
+Interim Tablet/Desktop breadcrumb (Use until static STEM info page is launched on 8/26):  
+[Home]() > [Education and training]() > [How to apply]() > Apply for the Edith Nourse Rogers STEM Scholarship  
 
-OLD BREADCRUMB: [Home]() > [Education and training]() > [Other VA education benefits]() > [Edith Nourse Rogers STEM Scholarship]() > Apply for the Edith Nourse Rogers STEM Scholarship
+Interim mobile breadcrumb:  
+< [How to apply]() 
 
+Final Tablet/Desktop breadcrumb (Use after static STEM content page is launched on 8/26):    
+[Home]() > [Education and training]() > [Other VA education benefits]() > [Edith Nourse Rogers STEM Scholarship]() > Apply for the Rogers STEM Scholarship  
 
-Mobile breadcrumbs show only the title of the previous page linked: < [Edith Nourse Rogers STEM Scholarship]() 
+Final mobile breadcrumb: < [Edith Nourse Rogers STEM Scholarship]()   
 
 ## Form Title: Apply for the Rogers STEM Scholarship 
 
@@ -49,15 +52,18 @@ If you apply and you're not eligible, your application will be denied.
 
 { subway map }  
 
-#### 1. Determine eligibility  
+#### 1. Determine your eligibility  
 
 **To be eligible for the [Edith Nourse Rogers STEM Scholarship](https://benefits.va.gov/gibill/fgib/stem.asp), you must meet all the requirements below.**  
 
 * **Education benefit:** You're using or recently used Post-9/11 GI Bill or Fry Scholarship benefits.  
 
-* **STEM degree:** You're enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** have already earned a STEM bachelor’s degree and are pursuing a teaching certification. [See eligible programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  
+* **STEM degree:** 
+  * You're enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** 
+  * You've already earned a STEM bachelor’s degree and are pursuing a teaching certification.   
+  [See eligible degree programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  
 
-* **Remaining entitlement:** You've used all of your education benefits or are within 6 months of doing so when you submit your application. [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)   
+* **Remaining entitlement:** You've used all of your education benefits or are within 6 months of using all your benefits when you submit your application. [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)   
 
 
 #### 2. Prepare  
@@ -233,8 +239,8 @@ About how much of your education benefit do you have left? (*Required)
 [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/) { radio buttons }  
 
 - More than 6 months
-- Less than 6 months
-- None. I've used all of my education benefit
+- 6 months or less
+- None. I've used all of my education benefit.
 
 { if "Less than 6 months" or "None. I've used all of my education benefit", display a checkmark for the "Have used all of your education benefits..." bullet on STEM eligibility summary page }  
 
@@ -267,14 +273,13 @@ Form 22-10203
 { display :heavy_multiplication_x: if user indicated "No", :heavy_check_mark: if they indicated "Yes" }   
 
 __Your responses:__  
-:heavy_check_mark:  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits   
-:heavy_check_mark:  Are enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** have already earned a STEM bachelor’s degree and are pursuing a teaching certification   
-:heavy_check_mark:  Have used all of your education benefits or are within 6 months of doing so when you submit your application   
+:heavy_check_mark:  **Yes to:** Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits   
+:heavy_check_mark:  **Yes to:** Are enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** have already earned a STEM bachelor’s degree and are pursuing a teaching certification   
+:heavy_check_mark:  **Yes to:** Have used all of your education benefits or are within 6 months of doing so when you submit your application   
   
-:heavy_multiplication_x:  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits  
-:heavy_multiplication_x:  Are enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** have already earned a STEM bachelor’s degree and are pursuing a teaching certification   
-:heavy_multiplication_x:  Have used all of your education benefits or are within 6 months of doing so when you submit your application  
-
+:heavy_multiplication_x:  **No to:** Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits  
+:heavy_multiplication_x:  **No to:** Are enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** have already earned a STEM bachelor’s degree and are pursuing a teaching certification   
+:heavy_multiplication_x:  **No to:** Have used all of your education benefits or are within 6 months of using all your benefits when you submit your application    
 { Entitlement check for Ch33 users. If user has more than 6 months of benefits remaining, display yellow warning alert: }
 
 **Your remaining education benefits**  
@@ -406,7 +411,7 @@ Form 22-10203
 
 #### Direct deposit { sub-head }  
 
-VA makes payments only through direct deposit, also called electronic funds transfer (EFT). If you’re approved for the Rogers STEM Scholarship, we’ll need to know where to deposit the funds.  
+We make payments only through direct deposit, also called electronic funds transfer (EFT). If you’re approved for the Rogers STEM Scholarship, we’ll need to know where to deposit the funds.  
 
 { visual aid of check }  
 
@@ -434,9 +439,9 @@ The Department of the Treasury requires all federal benefit payments be made by 
 If you don’t have a bank account, or don’t wish to provide your bank account information, you must receive your payment through Direct Express Debit MasterCard. To request a Direct Express Debit MasterCard:  
 
 * Apply at [www.usdirectexpress.com](www.usdirectexpress.com) **or**  
-* Call [1-800-333-1795]()  
+* Call [800-333-1795]()  
 
-If you choose not to enroll, you’ll need to call the Department of the Treasury at [1-888-224-2950]() and speak to a representative handling waiver requests. They’ll encourage you to participate in EFT and address any questions or concerns you have.  
+If you choose not to enroll, you’ll need to call the Department of the Treasury at [888-224-2950]() and speak to a representative handling waiver requests. They’ll encourage you to participate in EFT and address any questions or concerns you have.  
 
 { end additional info component }
 
