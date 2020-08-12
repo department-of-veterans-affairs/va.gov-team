@@ -1,4 +1,4 @@
-# IA Review and Recommendations
+# IA Design and  Recommendations
 **STATUS: IN PROGRESS**
 
 **Team:** eBenefits
@@ -7,9 +7,9 @@
 
 **Background/Context:** Migrating the ability to apply for chapter 31 benefits from eBenefits to va.gov
 
-**IA Completed Date:** 
-
 **IA Request:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/9086
+
+**IA Completed Date:** 
 
 <hr>
 
