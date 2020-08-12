@@ -244,8 +244,28 @@ We opted not to include them because of their (1) technical complexity and (2) t
 - If the timeline for the MVP is extended and we are able to build additional health features
 - If usability testing demonstrates that users simply will not adopt an MVP that does not include health features
 
+# Decision 4: Use SSOe OAuth for authentication 
 
-Provide a brief background of the problem.
+## What did you decide on?
+The VA mobile app will use SSOe OAuth to authenticate users into the app.
+ 
+## What other options did you consider?
+- Okta OAuth
+- VA.gov / SAML approach 
+
+See initial set of options [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/tech-research/20200319%20Login%20Recommendations.md)
+
+## What was the deciding factor for your decision?
+1. **Mobile-specific:** OAuth is a standard authentication method for mobile apps that is flexible, whereas SAML was not created with modern mobile apps in mind and lacks flexibility.
+2. **Cost:** Okta has a cost per user, population of users who will use the app will (hopefully!) be large and therefore the cost will be high.
+3. **UX of login and consent screens:** Neither Okta or SSOe have great UX and though Okta's screens have been improved; however, because both have their own UX issues, this ultimately was not a deciding factor 
+- **VA trends and momentum:** Year long effort to migrate VA.gov to SSOe for authentication and the mobile app aligns more with VA.gov than it does with third-party consumers such as Apple Health.
+
+## When, or under what conditions, would you recommend revisiting this design decision? E.g., after usability testing, after launch when metrics or analytics equal X, etc.
+- If VA.gov changes their authentication provider, the mobile will most likely need to change as well
+- If VA wanted login to work across its suite of mobile apps (including VHA apps like RX refill), it would be worth exploring whether there are better ways to do this beyond OAuth.
+
+# Provide a brief background of the problem.
 Describe the problem this decision is trying to solve.
 Describe any design, technology, and/or policy constraints that impact the problem and/or its possible solutions.
 Describe the design decision you made.
@@ -259,6 +279,5 @@ When, or under what conditions, would you recommend revisiting this design decis
 
 # Decisions we will want to add once they are made:
 - APIs will be accessed via… vets-api
-- Login will use OAuth via...SSO
 - Push notifications will be managed by [home-grown service] or [SaaS PN provider]
 - New mobile-only endpoints will be built into [vets-api]
