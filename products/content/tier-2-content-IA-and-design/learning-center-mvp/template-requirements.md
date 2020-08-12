@@ -154,7 +154,8 @@ Specs- not including the basic requirements on all LC pages:
 
 - ~TBD - Does the author create a new single FAQ in the COPE FAQs interface or as a 'page'?~ The question and answer text are created in the COPE FAQs library. But the author creates the single Q/A template page here, by pulling/referencing the question data in the FAQs library (like reusable alerts).
 
-- No images, videos, tables, subway maps, number callouts, etc. 
+- No images, videos, tables, subway maps, number callouts, etc.
+- The content type label in searches should be "Question and answer"
 
 
 See FAQs COPE ticket: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/6708  
@@ -172,6 +173,7 @@ Specs- not including the basic requirements on all LC pages:
 - React widget
 - ~TBD - Does the author create in the COPE FAQs interface, then pull into a 'page template' or create as a 'page'?~ The question and answer texts are created in the COPE FAQs library. But the author creates the multiple FAQs page here from the template, like pulling in reusable alerts but q/a's from the FAQs library.
 - No images, videos, tables, subway maps, number callouts, etc.
+- The content type label in searches should be "Frequently Asked Questions"
 
 See FAQs COPE ticket: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/6708
 
@@ -189,6 +191,7 @@ Specs - not including the basic requirements on all LC pages:
 - Alert (can be enabled below intro text or within body content; not stackable)
 - Table
 - No images, videos, subway maps, number callouts, etc.
+- The content type label in searches should be "About"
 
 
 
@@ -203,6 +206,7 @@ Specs - not including the basic requirements on all LC pages:
 - Alert (can be enabled below intro text, and within steps) - this is in addition to the alert that can be enabled as part of the 'shell' below intro block.
 - Can include multiple 'subway maps' with section headers. 
 - No videos, no tables, no callouts, etc.
+- The content type label in searches should be "Step-by-step"
 
 
 
@@ -219,7 +223,8 @@ This template is for visually-rich information such as images or videos.
 - Video title, description, video length, date/time publication stamp should all get pulled from the YouTube source. 
 - Max up to 5 videos.
 - FE progressive enhancement display/loading for low-bandwidth and mobile users. 
-- Video time (duration) info should get pulled into search results listing. 
+- Video time (duration) and published date info should get pulled into search results listing. If there are multiple videos on the page, the search results should pull in the video time+published info of just the first video on the page.
+- The content type label in searches should be "Videos"
 
 
 
@@ -231,6 +236,7 @@ This template is for visually-rich information such as images or videos.
 - Image description field - short optional description, max 300 characters incl spaces
 - Show up to 10 images per page; standard pagination if multiple pages; max up to [TBD] images.
 - Current wireframe shows an image search by file/image name. For MVP, we will not include this feature. 
+- The content type label in searches should be "Images"
 
 
 
@@ -243,3 +249,4 @@ Specs - not including the basic requirements on all LC pages:
 - Section headers (H2s, H3s, etc.) But the first section header after intro must be an H2 (don't allow H1 to jump to H3, etc.)
 - Alert (can be enabled below intro text or within body content; not stackable)
 - Checkbox text field, max 300 characters including spaces
+- The content type label in searches should be "Checklist"
