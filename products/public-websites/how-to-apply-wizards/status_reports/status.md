@@ -2,9 +2,9 @@
 
 - Education Wizard (BAM 2/Leah K.) is now going through the agreed upon steps in Collab Cycle process, including:
   - IA Review [#12244](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12244)
-  - Content Review [#12243](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12243)
+  - Content Review [#12243](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12243) & [#12448](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12248)
   - Analytics implementation and Q-A [#12317](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12317)
-  - Accessibility will occur during Staging Review when all work is done
+  - Accessibility will occur during Staging Review when all work is done [#12449](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12249)
 
 *(Note: Some minor content changes will be implemented to the STEM scholarship portion of the Education Wizard to more strongly articulate the stringent requirements for eligibility.  About 90% of applications received for the scholarship are from Veterans who do not meet the requirements.)*
   
