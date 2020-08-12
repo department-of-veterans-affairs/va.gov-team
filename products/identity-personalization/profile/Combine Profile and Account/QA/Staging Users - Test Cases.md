@@ -49,7 +49,7 @@ You can use the local hack (setting `PROFILE_VERSION` to `1` in Local Storage) t
 |----|----|----|
 |LOA1 user|LOA1 users should not be able to access the user profile|vets.gov.user+350@gmail.com|
 |LOA3 user| User is eligible for comp & pen direct deposit and has 2FA enabled. User should see all Direct Deposit info|vets.gov.user+226@gmail.com|
-|LOA3 user who is eligible for comp & pen direct deposit and has 2FA enabled but has not set up direct deposit|User should see prompt to add bank information|vets.gov.user+201@gmail.com|
+|LOA3 user who is eligible for comp & pen direct deposit and has 2FA enabled but has not set up direct deposit|User should see prompt to add bank information|vets.gov.user+202@gmail.com|
 |LOA3 user who receives comp & pen direct deposit who does not have 2FA enabled|This user should see the direct deposit functionality but they should see a gate to add 2FA first|TBD as of 8.11.20|
 |An error occurred while retrieving the data|The user should see an error message|Test locally|
 |LOA3 user is eligible for comp & pen direct deposit and has 2FA enabled but account is flagged for fraud|The user should be able to see the direct deposit functionality as normal but submitting the form should fail with a special error message|vets.gov.user+27@gmail.com|
