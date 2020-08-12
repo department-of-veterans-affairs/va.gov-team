@@ -39,11 +39,20 @@ Application | https://www.va.gov/careers-employment/vocational-rehabilitation/ap
 
 Priority | Placement | Link to | Description
 --- | --- | --- | ---
-tbd | Top nav > Careers and employment > Get employment benefits | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/  | Apply now for VR&E link as last option in Get benefits column
+tbd | Top nav <br> VA Benefits and health care > Careers and employment > Get employment benefits | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/  | Apply now for VR&E link as last option in Get benefits column
 tbd | [Careers and employment hub page](https://www.va.gov/careers-employment/) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply now link with teaser text
 tbd | Careers and employment hub left nav | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply for VRE link
 tbd | [Veteran readiness and employment page](https://www.va.gov/careers-employment/vocational-rehabilitation/) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply now link with teaser text
+tbd | [VRE Eligibility page](https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ | Apply now CTA button under "How do I apply"
 tbd | [VRE how to apply page](https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply now CTA button
+tbd | [VRE programs page](https://www.va.gov/careers-employment/vocational-rehabilitation/programs/) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply for VRE link
+tbd | [VRE programs > Remployment page](https://www.va.gov/careers-employment/vocational-rehabilitation/programs/reemployment) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply for VRE link
+tbd | [VRE programs > Rapid acces to employment page](https://www.va.gov/careers-employment/vocational-rehabilitation/programs/rapid-access-to-employment) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply for VRE link
+tbd | [VRE programs > Self-employment page](https://www.va.gov/careers-employment/vocational-rehabilitation/programs/self-employment) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply for VRE link
+tbd | [VRE programs > Long-term services page](https://www.va.gov/careers-employment/vocational-rehabilitation/programs/long-term-services) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply for VRE link
+tbd | [VRE programs > Independent living page](https://www.va.gov/careers-employment/vocational-rehabilitation/programs/independent-living) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply for VRE link
+
+
 tbd | [PCPG content page](https://www.va.gov/careers-employment/education-and-career-counseling/) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ | Add link and possibly content to page
 
 
