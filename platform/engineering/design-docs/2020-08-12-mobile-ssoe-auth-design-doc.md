@@ -34,7 +34,7 @@ session ttl is part of the token payload.
 - Vets-api will then instantiate a profile from the user traits and store a session in redis using the access token as a key.
 - Subsequent requests using the access token will use the cached session object and profile to authorize upstream API calls to services such as claims.
 
-![auth_sequence_diagram](images/mobile-ssoe-auth/mobile_ssoe_auth_sequence.png)
+<img src="images/mobile-ssoe-auth/mobile_ssoe_auth_sequence.png" alt="mobile auth sequence diagram" width="700"/>
 
 ## Specifics
 
