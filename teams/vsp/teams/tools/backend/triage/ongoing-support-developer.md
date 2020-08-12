@@ -116,12 +116,12 @@ When the pull request is not cognitively complex and cannot be easily broken up 
 
 ![image](https://user-images.githubusercontent.com/3077884/90052019-9161a980-dca6-11ea-87c4-2000aab5ca13.png)
 
-2. Disable `danger/danger` status check
+2. Disable `danger/danger` status check - :warning: This is global! Be sure to put it back after the desired PR is merged! :warning:
 
 ![image](https://user-images.githubusercontent.com/3077884/90052234-d84f9f00-dca6-11ea-87cd-dffb10c73051.png)
 
 3. You should now be able to merge the pull request despite the failing status check
-4. :warning: **Re-enable status check!** :warning:
+4. **Re-enable status check!**
 
 #### VSP Pull Requests
 
