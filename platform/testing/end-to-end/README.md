@@ -1,4 +1,4 @@
-# End-to-end testing
+# End-to-end testing (Frontend)
 
 End-to-end (e2e) testing on VA.gov is accomplished using browser tests written with Cypress.
 
@@ -20,6 +20,8 @@ Frontend developers building products on VA.gov write Cypress tests alongside th
 
 For support with Cypress, please reach out to the frontend support developer in Slack. You can find out who's on support by viewing the channel description.
 
+For other questions, contact the [VSP FE Tools team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/tools/frontend/fe-tools-team-charter.md).
+
 * Slack: [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support).
 
 ------
@@ -37,3 +39,5 @@ For support with Cypress, please reach out to the frontend support developer in 
 Beginning 8/1/20, VSP is requiring that all teams building on VA.gov use Cypress for newly written functional tests. We are encouraging — but not requiring — teams to migrate legacy tests from Nightwatch into Cypress.
 
 ------
+
+_This document is intended for use by VFS teams. For VSP documentation about Cypress, including product management artifacts, see [cypress_e2e_testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/cypress_e2e_testing)._
