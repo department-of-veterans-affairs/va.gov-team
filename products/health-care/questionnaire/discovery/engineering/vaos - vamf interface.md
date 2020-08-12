@@ -4,6 +4,8 @@
 VAOS makes various requests to VAMF. Below is a list of URI endpoints obtained from the vcr_cassette yaml files.
 
 
+#### Summarized
+
 ```
 uri: https://veteran.apps.va.gov/appointments/v1
 
@@ -26,6 +28,7 @@ uri: https://veteran.apps.va.gov/vsp/v1/Patient
 uri: https://veteran.apps.va.gov/vsp/v1/Slot
 ```
 
+#### Complete list
 
 ```
 uri: https://veteran.apps.va.gov/appointments/v1/patients/1012845331V153043/appointments?endDate=2020-07-02T08:00:00Z&pageSize=0&startDate=2020-06-02T07:00:00Z&useCache=false
