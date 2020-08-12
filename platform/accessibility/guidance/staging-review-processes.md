@@ -6,20 +6,20 @@ Teams must conduct their own accessibility testing **before** scheduling a VSP C
 Staging reviews test the [happy path](https://en.wikipedia.org/wiki/Happy_path) through the application or content page(s). This may not catch all accessibility issues, but will ensure basic functionality is accessible. (Accessibility specialists conduct a [more thorough pre-launch audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md) when an application is relatively code-stable in production.)
 
 
-## Required accessibility checklist for staging review
+## Required accessibility tests
 
-- [ ] [Axe scans in daily development](#axe-scans-in-daily-development)
-- [ ] [Axe scans included in end-to-end tests](#axe-scans-in-end-to-end-tests)
-- [ ] [Color tests for proper contrast and colorblindness](#color-tests)
-- [ ] [Content zoomed to 200%, 300%, 400%](#content-resize-check)
-- [ ] [Keyboard navigation check](#keyboard-navigation-check)
-- [ ] [Screen reader tests (VoiceOver + Safari or NVDA + Firefox)](#screen-reader-tests)
+- [ ] Axe scans in daily development - [read more about the axe browser plugin](#axe-scans-in-daily-development)
+- [ ] Axe scans included in end-to-end (e2e) tests - [read more about e2e tests with axe checks](#axe-scans-in-end-to-end-tests)
+- [ ] Color tests for proper contrast and colorblindness - [read more about contrast and colorblindness](#color-tests)
+- [ ] Content zoomed to 200%, 300%, 400% - [read more about zoomed layouts](#content-resize-check)
+- [ ] Keyboard navigation - [read more about navigating with the keyboard](#keyboard-navigation-check)
+- [ ] Screen reader tests (VoiceOver + Safari or NVDA + Firefox) - [read more about getting started with screen readers](#screen-reader-tests)
 
-## Recommended accessibility checklist for staging review
+## Recommended accessibility tests
 
-- [ ] [Keyboard end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/testing/508-automated-testing.md) - These tests are currently written in Nightwatch.js, and will be ported to Cypress.io in the future
-- [ ] [Axe-coconut scans in daily development](https://www.deque.com/blog/test-leading-edge-accessibility-axe-coconut-axe-core-3-0/)
-- [ ] [WAVE tool spot checks](https://wave.webaim.org/)
+- [ ] Keyboard end-to-end tests. These tests are currently written in Nightwatch.js, and will be ported to Cypress.io in the future. [Read more about the legacy Nightwatch tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/testing/508-automated-testing.md)
+- [ ] Axe-coconut scans in daily development - [read more about the axe-coconut experimental plugin](https://www.deque.com/blog/test-leading-edge-accessibility-axe-coconut-axe-core-3-0/)
+- [ ] WAVE tool spot checks - [read more about the WebAIM WAVE tool](https://wave.webaim.org/)
 
 
 ## How to document that your team has completed the checklist
