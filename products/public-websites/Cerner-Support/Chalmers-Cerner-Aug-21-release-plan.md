@@ -7,7 +7,7 @@ Feature toggles don't work for this use case, we will request an exception from 
 
 \### Planning:
 
-- Desired date: **ETA mid- to late-August TBD ETA mid- to late-August TBD**
+- Desired date: **ETA Aug 21**
 
 
 
