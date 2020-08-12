@@ -34,20 +34,20 @@
 - [Team](#team)
 
 # Priorities (Updated 8/3/2020)
-Original Claims Post Launch Analyis and Technical 
+- Original Claims Post Launch Analyis and Technical 
   - Reducing Original Claims and 526 errors plus adding better logging (differentiating between original, supplemental, new claims)
   - This should not be starved out in any sprint but it does not mean it will always be higher than anything else
-Launch BDD
+- Launch BDD
   - BDD is approaching a 8/20 release from EVSS
   - We have to complete our integration testing (and any minor front end fixes)
   - Expected to be a higher priority than Original Claims on occasion as we get closer to the launch date
-Claims and Appeals Status
+- Claims and Appeals Status
   - This has high visibility and therefore some work on this has to keep moving forward
   - Expected to focus one group of engineers HLR and one group in CST as we continue to move forward over the next few weeks
-Higher Level Review
+- Higher Level Review
   - Has been bouncing around for months due to COVID and then due to BDD and Original Claims
   - Will likely be a higher priority shortly but waiting to see what AMO says
-Veteran Support
+- Veteran Support
   - This will never be zero and we need to find time for at least two engagements a week
   - Should be factored into our planning - it was not for sprint 27 
 
