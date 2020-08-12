@@ -38,7 +38,7 @@ Application | https://www.va.gov/careers-employment/vocational-rehabilitation/ap
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
 Priority | Placement | Link to | Description
---- | --- | ---
+--- | --- | --- | ---
 tbd | Top nav > Careers and employment > Get employment benefits | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/  | Apply now for VR&E link as last option in Get benefits column
 tbd | [Careers and employment hub page](https://www.va.gov/careers-employment/) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply now link with teaser text
 tbd | Careers and employment hub left nav | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply for VRE link
