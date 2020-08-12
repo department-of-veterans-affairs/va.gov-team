@@ -55,6 +55,12 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 
 ### Meetings Notes and Background Info
 
+8/6/2020 - Usability testing prep
+- no major IA feedback at this time
+- Need to review user flows that are mapped out
+- testing prep feedback documented here: https://github.com/department-of-veterans-affairs/va.gov-team/issues/11838#issue-668134201
+
+
 7/29/2020 - Kick-off
 - how does a Veteran complete pre- and post-appointment questionaires and screeners
 - discovery research revealed Veterans are doing a lot of docs on paper and normally not doing it ahead of time, lots of repetitive questions asked
