@@ -19,6 +19,7 @@
 Hi [participant name}, my name is Ryan. 
 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. None of your comments will be attributed to you directly. During the session I will ask you to share your phone screen with me.
+
 - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
   *Start recording.*
@@ -33,10 +34,6 @@ Hi [participant name}, my name is Ryan.
 
 - First I'd like you to share your screen with me. Tap on the arrow that says "Share content" and hit "share screen". Select that button. You should be prompted with an option to share "Zoom" and then "Screen". Then select "Start Broadcast". If you see any additional prompts please read them aloud and I will help. 
 - Ok, tap anywhere on the screen to go back to the Zoom application. 
-
-(Copy and paste the link to the prototype: https://staging.va.gov/alt-covid-research-lp/ / form in the chat of zoom.) 
-
-- Now — I have pasted a link in the chat window. Can you open that up for me? (Remember - tap on the 3 dots on the right to go to chat.)
 
 - Great, now I can see your phone screen!  We are going to use this prototype in our session today. I'm going to begin now if that's ok with you. We will return to this in a few moments. 
 
@@ -70,6 +67,10 @@ Before we look at the tool, let’s start with a few warm-up questions.
 - How have things changed for you personally since the start of COVID-19?
 - Do you receive any VA benefits at this time?
 - How has your relationship with the VA changed since the start of COVID-19? 
+
+(Copy and paste the link to the prototype: https://staging.va.gov/alt-covid-research-lp/ / form in the chat of zoom.) 
+
+- Now — I have pasted a link in the chat window. Can you open that up for me? (Remember - tap on the 3 dots on the right to go to chat.)
 
 
 ## First Task: Complete intake form - 5 minutes
