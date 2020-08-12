@@ -8,11 +8,10 @@
 
 ## Back end
 - [ ] GA event for failures
-- [ ] Backend toggles (dependent on launch strategy)
-- [ ] Toogle implementation plan
+- [ ] Backend toggles (dependent on launch strategy) / Toogle implementation plan [needs-grooming]
 - [ ] Salesforce downtime
-- [ ] Resolve eMIS error
-- [x] Generate staging user list to trigger successful submission
+- [ ] Resolve eMIS error (allow a submission to go through with valid vet status) [needs-grooming]
+- [x] Update our staging user list with icns, edip, and veteran statuses
 
 ## Design
 - [ ] Generate designs for address work for 10-10EZ
