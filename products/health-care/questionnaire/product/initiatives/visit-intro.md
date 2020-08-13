@@ -41,10 +41,13 @@ Start with open-ended question “How can I help you today?” brings focus to t
 
 > **Visit Reason (5G)**
 > As a Veteran, I want to provide my care team with the reason for my visit so that they know why Im coming in for care and so I can prepare in advance if tests should be completed, noted stressors/triggers/concerns, or an acute concern should change my appointment date.
+
 > **Whats Important to Me (5D)** 
 > As a Veteran, I want to provide my story and whats important to me so that I am able to collaborate and parter with my care team in my health goals
+
 > **Continuity of Care (5A)** 
 > As a Veteran, I want to provide my current health status and updates to my medical history so that I do not have to feel I have to repeat the information to my nurse and provider in the same and subsequent visits.
+
 1.  [Reason for Visit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/this-visit.md)  - pre-populated unauth (based on info we get with the trigger/link) and auth from CPRS/VAOS.
 2.  [Health Conditions, Concerns or Important Information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/this-visit.md) - Provide ability to document the main areas of important health and social factors that are impacting everyday life so that the care team can prioritize what to discuss for the visit
 3.  [Questions I have for the visit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/this-visit.md).- provide abiltiy to add additional questions the veteran would like to discuss with the care team during the visit. 
