@@ -12,7 +12,20 @@ The ruby FHIR client is usefull for exploring FHIR types of resources such as Qu
 - A FHIR client is a high level approach that is able to create objects by having only access to the FHIR server. You don't need to figure out all the endpoints, it does that for you.
 ```
 client = FHIR::Client.new(url)
+patient = client.read(FHIR::Patient, "SMART-1272431").resource
+puts patient.name.inspect
+[#<FHIR::HumanName:0x00007fbbf4051808 @id=nil, @extension=[], @use="official", @text=nil, @family="Graham", @given=["Stephan", "P."], @prefix=[], @suffix=[], @period=nil>]
+puts patient.id
+SMART-1272431
 ```
+Has search capability
+```
+reply = client.search(FHIR::Patient, search: {parameters: {name: 'P'}
+patient = bundle.entry.first.resource
+puts patient.name.inspect
+[#<FHIR::HumanName:0x00007fbbeff11668 @id=nil, @extension=[], @use="official", @text=nil, @family="Graham", @given=["Stephan", "P."], @prefix=[], @suffix=[], @period=nil>]
+```
+
 
 <details>
   <summary>JSON FHIR definition</summary>
