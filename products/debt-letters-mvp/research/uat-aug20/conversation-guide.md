@@ -4,7 +4,7 @@
 
 - Sign in to Zoom.
 - We will be having users share their screens and testing the new profile. When the participant is ready, have them share their screen.
-- When their screen is shared, send the link https://www.va.gov/manage-your-va-debt/ or have them go to www.va.gov. 
+- When their screen is shared, send the link https://www.va.gov/manage-va-debt/ or have them go to www.va.gov. 
 - **Note: We will not be recording these sessions**.
 
 
@@ -46,7 +46,7 @@ Alright, let’s get started!
 
 I’m going to paste a link in the Zoom chat. This link will be the way we access the tool today. Please open the link in a new tab in your browser. 
 
-https://www.va.gov/manage-your-va-debt/ (URL may be updated prior to testing)
+https://www.va.gov/manage-va-debt/ (URL may be updated prior to testing)
 
 Under the alert that reads, “Please sign in to manage your VA debt”, select the button “Sign in or create an account” 
 - Please sign in with your DS Logon, MyHealtheVet, or ID.me account. 
