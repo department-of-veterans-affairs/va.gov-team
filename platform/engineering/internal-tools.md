@@ -65,7 +65,7 @@ To create and use SSH keypairs on Windows, complete the following steps:
    
    `ssh-keygen -f ~/.ssh/id_rsa_vagov` 
    
-1. Enter a passphrase to encrypt your key and then confirm the passphrase when prompted. You will see a "randomart" picture in your terminal if all previous steps have been successful (example below).
+1. Enter a passphrase to encrypt your key and then confirm the passphrase when prompted. ****Warning**** the lines for entering a passphrase will not show your keystrokes or input, so make sure you write this down and repeat it exactly. This is highly recommended to be set and remembered. You will see a "randomart" picture in your terminal if all previous steps have been successful (example below).
 
    ```
    jbritt@BattleStation1 MINGW64 ~
@@ -138,7 +138,32 @@ If you don't already have an SSH public key, or you're not sure if you do, compl
    
    `ssh-keygen -f id_rsa_vagov`
    
-   When prompted for a passphrase, you should enter a secure passphrase to protect your private key.
+Enter a passphrase to encrypt your key and then confirm the passphrase when prompted. ****Warning**** the lines for entering a passphrase will not show your keystrokes or input, so make sure you write this down and repeat it exactly. This is highly recommended to be set and remembered. You will see a "randomart" picture in your terminal if all previous steps have been successful (example below).
+
+   ```
+   jbritt@BattleStation1 ~
+   $ ssh-keygen -f ~/.ssh/id_rsa_vagov
+   Generating public/private rsa key pair.
+   Created directory '~/jbritt/.ssh'.
+   Enter passphrase (empty for no passphrase):
+   Enter same passphrase again:
+   Your identification has been saved in ~/jbritt/.ssh/id_rsa_vagov
+   Your public key has been saved in ~/jbritt/.ssh/id_rsa_vagov.pub
+   The key fingerprint is:
+   SHA256:ogRzhqYldgUky8tCCTx9aE76PT6JB3KQa+oZSZFjGLA jbritt@BattleStation1
+   The key's randomart image is:
+   +---[RSA 2048]----+
+   |*.ooo.           |
+   |+==*..           |
+   |E@&.+            |
+   |=O=*             |
+   |o++ o . S        |
+   |o+.= + .         |
+   |ooo = o          |
+   |. o. =           |
+   |.o  . .          |
+   +----[SHA256]-----+
+   ```
 
 4. Run `ls ~/.ssh` and confirm that you see `id_rsa_vagov` and `id_rsa_vagov.pub`. It's normal to see several other files, as well. Seeing `id_rsa_vagov` and `id_rsa_vagov.pub` means you now have your private and public (the one with the `.pub` extension) keys! Your private key should never leave your computer, and it's unnecessary and inadvisable to share it with anybody.
 
