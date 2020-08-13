@@ -35,7 +35,7 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today? 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions - X minutes
 
 Before we look at the website, can you tell me a little about yourself? What part of the country do you live in? What branch did you serve?
 
