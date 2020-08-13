@@ -16,11 +16,11 @@
 
 ### Project-specific setup
 
-- [ ] Make sure you have the mobile research guidelines and are prepared to walk someone through how to install zoom on their phones if they don't have it, or the laptop hugging technique
+- [ ] Make sure you have the mobile research guidelines and are prepared to walk someone through how to install zoom on their phones if they don't have it, or the laptop hugging technique - FIND LINK
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to have you take a look at VA.gov on your phone and explore what's working and not working about that experience.
+Thanks for joining us today! My name is Shawna/Liz and I also have some colleagues on the line observing and taking notes. Today we're going to have you take a look at VA.gov on your phone and explore what's working and not working about that experience.
 
 Before we start, a few things I want to mention:
 
@@ -37,12 +37,12 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions - X minutes
 
-Before we look at the website, can you tell me a little about yourself? What part of the country do you live in? What branch did you serve?
+- Before we look at the website, can you tell me a little about yourself? What part of the country do you live in? What branch did you serve?
+- What type of phone do you use? How do you typically use it? Breakdown of phone versus desktop?
 
 ## Logistics: figure out how to share your screen
 
-- Step 1
-- Step 2
+- Let's start by making sure you can figure out how to share your screen on Zoom. 
 
 
 ## First Task: VA.gov navigation and content - X minutes
@@ -52,6 +52,7 @@ Before we look at the website, can you tell me a little about yourself? What par
 ### Things to watch for:
 
 - Do they use search or browse?
+- If they search, what is that like? What about browsing?
 - How do they interact with the header if at all?
 - How do they interact with navigation if at all?
 - If they don't get to the "hub page" show this to them https://www.va.gov/education/
@@ -78,7 +79,7 @@ Before we look at the website, can you tell me a little about yourself? What par
 
 - How do they use our tool? what trips them up?
 - What are their expectations regarding the map and list views?
-- What do they think about geolocation? and popluting a full address? What would they do to change it?
+- What do they think about geolocation and popluting a full address? What would they do to change it?
 
 ## Fourth Task: Claims Status Tool - X minutes
 
