@@ -1,6 +1,13 @@
 
 The ruby FHIR client is usefull for exploring FHIR types of resources such as Questionnaires and QuestionnairResponses. It could be used initially to help create Question types of resources in JSON and validating them etc.
 
+#### Authorization
+
+- The client supports OAuth2
+- There is some documentation that says the method set_oauth2_auth actually sets it to use open Id connect. This looks like an important layer for smart fhir and the same authorization that lighthouse uses. https://www.rubydoc.info/gems/fhir_client/FHIR/Client#set_oauth2_auth-instance_method Some details of smart on fhir and open ID connect are mentioned here https://smilecdr.com/docs/security/smart_on_fhir_introduction.html. 
+- It may be that the client helps to make authorization transparent but it is also possible that it means a login sequence occurs when we don't want that but our own login oauth sequence
+
+
 #### Downsides of using a FHIR client
 
 - Everything in vets-api seems to be based on services that you create using a rails generator. So doing something different may possibly create the impression among some that it's novel or something else to figure out. 
@@ -8,7 +15,7 @@ The ruby FHIR client is usefull for exploring FHIR types of resources such as Qu
 - The VAOS team said that to use a FHIR Client the client you have to deserialize to create the object and then serialize it again when the services are mostly pass thru with some data normalization.
 
 #### Upsides of using a FHIR Client
-
+- The client supports STU3, DSTU2, and R4
 - A FHIR client is a high level approach that is able to create objects by having only access to the FHIR server. You don't need to figure out all the endpoints, it does that for you.
 ```
 client = FHIR::Client.new(url)
@@ -25,9 +32,7 @@ patient = bundle.entry.first.resource
 puts patient.name.inspect
 [#<FHIR::HumanName:0x00007fbbeff11668 @id=nil, @extension=[], @use="official", @text=nil, @family="Graham", @given=["Stephan", "P."], @prefix=[], @suffix=[], @period=nil>]
 ```
-- According to the ruby toolbox, the use of this client has been greatly increasing over the past year. It looks like there is a total of about 86,526 downloads. 
-
-https://www.ruby-toolbox.com/projects/fhir_client
+- According to the ruby toolbox, the use of this client has been greatly increasing over the past year. It looks like there is a total of about 86,526 downloads. https://www.ruby-toolbox.com/projects/fhir_client
 
 - It's not clear that the cost of serialization/deserialization is enough to cause any performance bottleneck
 
