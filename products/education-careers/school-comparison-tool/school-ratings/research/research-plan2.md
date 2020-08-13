@@ -8,7 +8,24 @@ As a designer I need to create a research plan to share with my team.
 When Veterans are looking for schools within the Comparison tool, they want to know about the experiences of other Veterans to form a better understanding of what their personal experience at the school would be like. Ratings enable Veterans to quickly assess the suitability of a school (both pro and con), bolstering their confidence and level of comfort in deciding if a particular school is right for them.
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
-4. Hypothesis: What is your hypothesis for this research? 	
+
+- What do users think of the star ratings?
+- Who do users think are providing the ratings?
+- How does the number of ratings weigh into a user's perception of a particular school?
+- Are users interested in the different rating categories or just the overall score?
+- Which categories are valuable to users?  Are there any categories that aren't valuable?  Are there any additional categories they would like to see?
+- What do users think the different categories mean?
+- How do users think the rating scores are determined (average of submitted scores, calculated value, etc.)?
+- Would ratings affect the school selection process?
+- Do users think the ratings are useful?
+- How do users think ratings are collected?
+- How trustworthy are the ratings?
+- What level of privacy do users expect if they would provide a rating?
+
+4. Hypothesis: What is your hypothesis for this research? 
+
+We believe that Veterans will understand the rating categories and find the ratings useful, especially in determining the Veteran experience at a particular school.
+
 ## Method	
 1.	What method of research are you planning? 	
   - Remote moderated usability testing	
