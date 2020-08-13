@@ -1,5 +1,5 @@
 # Launch Events - VRE CH31
-`eBenefits | August-September`
+`eBenefits | August-September 2020`
 
 ## Considerations
 Set a date and walk back the various steps.  This achieves a few things:
