@@ -79,45 +79,45 @@ _Note: ~credentials should be stored in sensitive repos only~ All CMS content li
   - You must be on VA network to access the CMS preview page: 
 
 ## Batch 1 - top 40 forms for QA
-1.	https://prod.cms.va.gov/find-forms/about-form-21-4138 \[[preview-node 5966](http://preview-prod.vfs.va.gov/preview?nodeId=5966)]
-2.	https://prod.cms.va.gov/find-forms/about-form-22-1995 \[[5977](http://preview-prod.vfs.va.gov/preview?nodeId=5977)]
-3.	https://prod.cms.va.gov/find-forms/about-form-21-526ez \[[6119](http://preview-prod.vfs.va.gov/preview?nodeId=6119)]
-4.	https://prod.cms.va.gov/find-forms/about-form-21-2680 \[[5846](http://preview-prod.vfs.va.gov/preview?nodeId=5846)]
-5.	https://prod.cms.va.gov/find-forms/about-form-10-7959c Related forms for Spanish version missing in Drupal. Workaround per Slack comment (https://dsva.slack.com/archives/CUB5X5MGF/p1594238881403100?thread_ts=1594226787.398600&cid=CUB5X5MGF)
-6.	https://prod.cms.va.gov/find-forms/about-form-10-10d : Cannot link Spanish version of 10-7959c bc it doesn’t exist in Drupal. Implemented workaround per Slack comment linked above.
-7.	https://prod.cms.va.gov/find-forms/about-form-21-22
-8.	https://prod.cms.va.gov/find-forms/about-form-10-5345
-9.	https://prod.cms.va.gov/find-forms/about-form-20-0995
-10.	https://prod.cms.va.gov/find-forms/about-form-21-686c : __Online tool not live yet__
-11.	https://prod.cms.va.gov/find-forms/about-form-10-0137 : __This form is still 404ing. Form owner has been notified. If form is still erroring during QA, we will pull it out and not publish node.__
-12.	https://prod.cms.va.gov/find-forms/about-form-21-0781 
-13.	https://prod.cms.va.gov/find-forms/about-form-21-0966 
-14.	https://prod.cms.va.gov/find-forms/about-form-21-0845
-15.	https://prod.cms.va.gov/find-forms/about-form-22-5490
-16.	https://prod.cms.va.gov/find-forms/about-form-26-1880
-17.	https://prod.cms.va.gov/find-forms/about-form-10-2850c
-18.	https://prod.cms.va.gov/find-forms/about-form-21-4142 :
-19.	https://prod.cms.va.gov/find-forms/about-form-21p-0969
-20.	https://prod.cms.va.gov/find-forms/about-form-21p-534ez
-21.	https://prod.cms.va.gov/find-forms/about-form-10-10ez-pdf
-22.	https://prod.cms.va.gov/find-forms/about-form-10-3542
-23.	https://prod.cms.va.gov/find-forms/about-form-22-1990e
-24.	https://prod.cms.va.gov/find-forms/about-form-22-1990n
-25.	https://prod.cms.va.gov/find-forms/about-form-22-1990
-26.	https://prod.cms.va.gov/find-forms/about-form-22-5495
-27.	https://prod.cms.va.gov/find-forms/about-form-va40-10007
-28.	https://prod.cms.va.gov/find-forms/about-form-21p-530
-29.	https://prod.cms.va.gov/find-forms/about-form-21p-527ez
-30.	https://prod.cms.va.gov/find-forms/about-form-10-10cg : __Online tool still hasn’t launched__
-31.	https://prod.cms.va.gov/find-forms/about-form-21-22a
-32.	https://prod.cms.va.gov/find-forms/about-form-21-674 
-33.	https://prod.cms.va.gov/find-forms/about-form-21p-509 
-34.	https://prod.cms.va.gov/find-forms/about-form-10-0137-espanol
-35.	https://prod.cms.va.gov/find-forms/about-form-10-0137a 
-36.	https://prod.cms.va.gov/find-forms/about-form-21-0781a 
-37.	https://prod.cms.va.gov/find-forms/about-form-21p-527   
-38.	https://prod.cms.va.gov/find-forms/about-form-21p-534 
-39.	https://prod.cms.va.gov/find-forms/about-form-10-10ez (esp)
-40.	https://prod.cms.va.gov/find-forms/about-form-10-10ezr  
-41.	https://prod.cms.va.gov/find-forms/about-form-21-0779 
+1.	https://prod.cms.va.gov/find-forms/about-form-21-4138 \[[preview-node 5966](http://preview-prod.vfs.va.gov/preview?nodeId=5966)] (in-between Use Cases A & B)
+2.	https://prod.cms.va.gov/find-forms/about-form-22-1995 \[[5977](http://preview-prod.vfs.va.gov/preview?nodeId=5977)] (in-between)
+3.	https://prod.cms.va.gov/find-forms/about-form-21-526ez \[[6119](http://preview-prod.vfs.va.gov/preview?nodeId=6119)] (in-between)
+4.	https://prod.cms.va.gov/find-forms/about-form-21-2680 \[[5846](http://preview-prod.vfs.va.gov/preview?nodeId=5846)] (Use Case B)
+5.	https://prod.cms.va.gov/find-forms/about-form-10-7959c \[[5709](http://preview-prod.vfs.va.gov/preview?nodeId=5709)] (B) Related forms for Spanish version missing in Drupal. Workaround per Slack comment (https://dsva.slack.com/archives/CUB5X5MGF/p1594238881403100?thread_ts=1594226787.398600&cid=CUB5X5MGF)
+6.	https://prod.cms.va.gov/find-forms/about-form-10-10d \[[6046](http://preview-prod.vfs.va.gov/preview?nodeId=6046)] (B): Cannot link Spanish version of 10-7959c bc it doesn’t exist in Drupal. Implemented workaround per Slack comment linked above.
+7.	https://prod.cms.va.gov/find-forms/about-form-21-22 \[[5958](http://preview-prod.vfs.va.gov/preview?nodeId=5958)] (B)
+8.	https://prod.cms.va.gov/find-forms/about-form-10-5345 \[[5763](http://preview-prod.vfs.va.gov/preview?nodeId=5763)] (in-between)
+9.	https://prod.cms.va.gov/find-forms/about-form-20-0995 \[[5703](http://preview-prod.vfs.va.gov/preview?nodeId=5703)] (in-between)
+10.	https://prod.cms.va.gov/find-forms/about-form-21-686c \[[6131](http://preview-prod.vfs.va.gov/preview?nodeId=6131)] (in-between): __Online tool not live yet__
+11.	https://prod.cms.va.gov/find-forms/about-form-10-0137 \[[5722](http://preview-prod.vfs.va.gov/preview?nodeId=5722)] (B): __This form is still 404ing. Form owner has been notified. If form is still erroring during QA, we will pull it out and not publish node.__
+12.	https://prod.cms.va.gov/find-forms/about-form-21-0781 \[[6022](http://preview-prod.vfs.va.gov/preview?nodeId=6022)] (B)
+13.	https://prod.cms.va.gov/find-forms/about-form-21-0966 \[[6088](http://preview-prod.vfs.va.gov/preview?nodeId=6088)] (in-between)
+14.	https://prod.cms.va.gov/find-forms/about-form-21-0845 \[[5872](http://preview-prod.vfs.va.gov/preview?nodeId=5872)] (in-between)
+15.	https://prod.cms.va.gov/find-forms/about-form-22-5490 \[[5978](http://preview-prod.vfs.va.gov/preview?nodeId=5978)] (in-between)
+16.	https://prod.cms.va.gov/find-forms/about-form-26-1880 \[[6016](http://preview-prod.vfs.va.gov/preview?nodeId=6016)] (in-between)
+17.	https://prod.cms.va.gov/find-forms/about-form-10-2850c \[[6110](http://preview-prod.vfs.va.gov/preview?nodeId=6110)] (in-between)
+18.	https://prod.cms.va.gov/find-forms/about-form-21-4142 \[[[5967](http://preview-prod.vfs.va.gov/preview?nodeId=5967)] (in-between)
+19.	https://prod.cms.va.gov/find-forms/about-form-21p-0969 \[[5779](http://preview-prod.vfs.va.gov/preview?nodeId=5779)] (B)
+20.	https://prod.cms.va.gov/find-forms/about-form-21p-534ez \[[5820](http://preview-prod.vfs.va.gov/preview?nodeId=5820)] (B)
+21.	https://prod.cms.va.gov/find-forms/about-form-10-10ez-pdf \[[5776](http://preview-prod.vfs.va.gov/preview?nodeId=5776)] (B)
+22.	https://prod.cms.va.gov/find-forms/about-form-10-3542 \[[5949](http://preview-prod.vfs.va.gov/preview?nodeId=5949)] (in-between)
+23.	https://prod.cms.va.gov/find-forms/about-form-22-1990e \[[5863](http://preview-prod.vfs.va.gov/preview?nodeId=5863)] (in-between)
+24.	https://prod.cms.va.gov/find-forms/about-form-22-1990n \[[6122](http://preview-prod.vfs.va.gov/preview?nodeId=6122)] (in-between)
+25.	https://prod.cms.va.gov/find-forms/about-form-22-1990 \[[6118](http://preview-prod.vfs.va.gov/preview?nodeId=6118)] (B)
+26.	https://prod.cms.va.gov/find-forms/about-form-22-5495 \[[5979](http://preview-prod.vfs.va.gov/preview?nodeId=5979)] (in-between)
+27.	https://prod.cms.va.gov/find-forms/about-form-va40-10007 \[[6053](http://preview-prod.vfs.va.gov/preview?nodeId=6053)] (in-between)
+28.	https://prod.cms.va.gov/find-forms/about-form-21p-530 \[[5961](http://preview-prod.vfs.va.gov/preview?nodeId=5961)] (in-between)
+29.	https://prod.cms.va.gov/find-forms/about-form-21p-527ez \[[5961](http://preview-prod.vfs.va.gov/preview?nodeId=5961)] (B)
+30.	https://prod.cms.va.gov/find-forms/about-form-10-10cg  \[[5804](http://preview-prod.vfs.va.gov/preview?nodeId=5804)] (B): __Online tool still hasn’t launched__
+31.	https://prod.cms.va.gov/find-forms/about-form-21-22a \[[5736](http://preview-prod.vfs.va.gov/preview?nodeId=5736)] (in-between)
+32.	https://prod.cms.va.gov/find-forms/about-form-21-674 \[[5964](http://preview-prod.vfs.va.gov/preview?nodeId=5964)] (in-between)
+33.	https://prod.cms.va.gov/find-forms/about-form-21p-509 \[[6141](http://preview-prod.vfs.va.gov/preview?nodeId=6141)] (in-between)
+34.	https://prod.cms.va.gov/find-forms/about-form-10-0137-espanol \[[6113](http://preview-prod.vfs.va.gov/preview?nodeId=6113)] (in-between)
+35.	https://prod.cms.va.gov/find-forms/about-form-10-0137a \[[5983](http://preview-prod.vfs.va.gov/preview?nodeId=5983)] (B)
+36.	https://prod.cms.va.gov/find-forms/about-form-21-0781a \[[5740](http://preview-prod.vfs.va.gov/preview?nodeId=5740)] (B)
+37.	https://prod.cms.va.gov/find-forms/about-form-21p-527 \[[6031](http://preview-prod.vfs.va.gov/preview?nodeId=6031)] (B)
+38.	https://prod.cms.va.gov/find-forms/about-form-21p-534 \[[6145](http://preview-prod.vfs.va.gov/preview?nodeId=6145)] (B)
+39.	https://prod.cms.va.gov/find-forms/about-form-10-10ez (esp) \[[5745](http://preview-prod.vfs.va.gov/preview?nodeId=5745)] (B)
+40.	https://prod.cms.va.gov/find-forms/about-form-10-10ezr \[[6107](http://preview-prod.vfs.va.gov/preview?nodeId=6107)] (in-between)
+41.	https://prod.cms.va.gov/find-forms/about-form-21-0779 \[[6065](http://preview-prod.vfs.va.gov/preview?nodeId=6065)] (B)
 
