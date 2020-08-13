@@ -37,42 +37,56 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions (Optional) - X minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
+Before we look at the website, can you tell me a little about yourself? What part of the country do you live in? What branch did you serve?
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
-
-## First Task: [TASK NAME] - X minutes
+## Logistics: figure out how to share your screen
 
 - Step 1
 - Step 2
 
-### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+## First Task: VA.gov navigation and content - X minutes
 
-## Second Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
+- I'd like you to go to VA.gov on your device. Now imagine you're interested in going back to school and you've heard there are benefits that can help you with that. How would you look for these benefits?  
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Do they use search or browse?
+- How do they interact with the header if at all?
+- How do they interact with navigation if at all?
+- If they don't get to the "hub page" show this to them https://www.va.gov/education/
 
-## Third Task: [TASK NAME] - X minutes
+## Second Task: Form - X minutes
 
-- Step 1
-- Step 2
+- You've decided to apply for the GI bill and other related education benefits. What would you do?
+- If they can't find it, lead them here: https://www.va.gov/education/how-to-apply/
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- How do they find the application?
+- What is it like navigating through the Wizard for them?
+- How long does it take to load the form / their thoughts?
+- Do they see they can apply not logged in?
+- How do they interact with the form? https://www.va.gov/education/apply-for-education-benefits/application/1990/applicant/information
+
+
+## Third Task: Facility Locator - X minutes
+
+- Now let's say you need to get a COVID test and heard they run these at VA urgent care facilities. How would you find an urgent care facility close to you?  
+
+### Things to watch for:
+
+- How do they use our tool? what trips them up?
+- What are their expectations regarding the map and list views?
+
+## Fourth Task: Claims Status Tool - X minutes
+
+- OK now I'm going to share a different URL with you (staging URL). Let's say you want to see the status of one of your claims, what would you do?  
+
+### Things to watch for:
+
+- X
+
 
 ## Post-Task Interview - X minutes
 
