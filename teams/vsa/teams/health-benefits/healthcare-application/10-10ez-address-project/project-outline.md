@@ -10,6 +10,13 @@ There should be a way for the HEC to distinguish between mailing and residential
 
 How might we encourage Veterans to provide both mailing and residental addresses on their application so that the HEC can best provide healthcare benefits?
 
+## Assumptions/Questions
+1. Why do we need both addresses?
+1. What about users that have more than one residential address?
+1. Why do we collect address on the HCA at all (can we pull it from other sources?)
+1. What happens downstream with these addresses?
+1. What are other methods of communication to use to communicate with Veterans?
+
 ## Desired User Outcomes
 
 - Veteran can enter both a mailing address and home address on the online healthcare application.
