@@ -1,0 +1,108 @@
+# Research Plan for Benefits Delivery at Discharge
+
+## Goals
+1. **What product & team are you doing this research for?**
+
+This UAT will be conducted with service members requesting their first disability claim before they are discharged from the miltary using the BDD tool built into the 526 flow.
+
+2. **Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?**
+
+Service members who are separating and plan to file for disability can file their claim before separation. This is done through the Veterans Affairs (VA) Benefits Delivery at Discharge (BDD) program. This program allows Service members to apply for VA disability compensation benefits prior to separation. Claims must be filed between 180 to 90 days prior to separation.  In addition to testing 90-180 days before separation, although 1-89 days before separation is not a BDD eligible claims submission, it will still be accepted by VSA and EVSS will treat it with a different EP code that is similar to "quickstart".
+
+3. **Research questions: What question(s) do you hope to be able to answer after completing this research?** 
+
+- Can service members within 90-180 days of separation submit a claim on VA.gov?
+- Can service members within 1-89 days of separation submit a claim on VA.gov? 
+
+
+4. **Hypothesis: What is your hypothesis for this research?** 
+
+- Both categories of service members will be able to submit claims and EVSS will accept them.
+
+## Method
+1.	**What method of research are you planning?**
+  
+  - Moderated UAT.
+  
+2.	**Why this method? How does this methodology help you answer your research questions?** 
+
+- We have already done integration testing with EVSS and have completed rounds of usabilty with new designs.  This testing is to determine a go/no go decision with rolling out BDD to 25%.
+
+3.	**Where are you planning to do your research?**
+
+- VA.gov
+
+4.	**What will you be testing?**
+
+- BDD functionality and the wizard that directs them to the BDD version of 526.
+
+## Participants and Recruitment
+
+1.	**Participant criteria: What are you looking for in a participant?**
+
+We would like **3** participants who must meet the following criteria:
+
+- Participants must have a DS Logon account.
+- Participants must be separating from the miltary between 90-180 days from now.
+- Participants will be claiming at least one disability.
+- Participants should be able to use Zoom and not have to use a screen reader.
+
+We would like **3** participants who must meet the following criteria:
+
+- Participants must have a DS Logon account.
+- Participants must be separating from the miltary between 1-89 days from now.
+- Participants will be claiming at least one disability.
+- Participants should be able to use Zoom and not have to use a screen reader.
+
+2.	**What is your recruitment strategy?**
+
+We will work with Perigean to recruit for this study.
+
+## When? 
+
+1.	**Timeline: What dates do you plan to do research?**
+
+We are looking to start sessions **Monday, August 24, 2020**.
+
+2.	**Prepare: When will the thing you are testing be ready?**
+
+BDD should be live on production with EVSS on or about August 20, 2020.
+
+3. **Length of Sessions: How long do you estimate each session will be?**
+
+We expect sessions to only be 30-45 minutes. **Please schedule sessions for 60 minutes with a 30 minute buffer between sessions**.
+
+4.	**Availability: If applicable, when would you like sessions scheduled?**
+
+No major scheduling conflicts or needs.
+
+5.	**Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
+
+Not sure what this is - Christian?
+
+## Team Roles
+**Please list the people who will be serving in each role.**
+
+- **Moderator**: Christian Valla (cvalla@governmentcio.com)
+- **Research guide writing and task development**: Christian Valla
+- **Participant recruiting & screening**: Perigean
+- **Project point of contact**: Christian Valla and Luke Majewski
+- **Participant(s) for pilot test**: TBD
+- **Note-takers**: Kevin Stachura
+- **Observers**: Luke Majewski, Anna Carey, Robin Garrison, Nick Sprinkle, Barry Cooper, Tze Lei
+
+**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
+
+- Luke Majewski (lmajewski@governmentcio.com)
+- Christian Valla (cvalla@governmentcio.com)
+- Kevin Stachura (kstachura@governmentcio.com)
+- Robin Garrison (robin.garrison@adhocteam.us)
+- Anna Carey (anna@adhocteam.us)
+- Nick Sprinkle (nick.sprinkle@oddball.io)
+- Tze Lei (tze@adhocteam.us)
+- Barry Cooper (Barrett.Cooper@va.gov)
+
+## Resources
+- [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/disability-compensation-claim/bdd)
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/disability-compensation-claim/bdd/BDD%20Research/UAT-August-2020)
+- Notes
