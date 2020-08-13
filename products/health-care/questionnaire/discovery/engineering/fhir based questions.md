@@ -88,6 +88,10 @@ require 'fhir_client'
 
 Using the JSON FHIR defition above and the FHIR Ruby Client, we can build an object from the JSON and examine it
 
+```
+@ques1 = FHIR::Questionnaire.new(@lifelines_question)
+```
+
 We can see that the Question has 3 items, we inspect the first one
 ```
 @ques1.item.length
