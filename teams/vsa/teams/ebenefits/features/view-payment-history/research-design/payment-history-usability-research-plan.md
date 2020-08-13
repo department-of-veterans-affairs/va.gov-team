@@ -14,6 +14,7 @@ In its current implementation, VPH is a pair of filtered tables that show VA Com
 #### Research questions
 - Where and how (what links/navigation) do participants expect to find their payment history?
 - Do participants find the information in the VPH feature useful and complete?
+- Can participants find the answers to their questions in the right-hand rail? 
 - What, if any, other information do participants expect to see?
 - What changes are needed to beter present the information?
 - What changes would help viewing data in mobile formats (small viewports only)?
@@ -24,7 +25,7 @@ During discovery, the users we talked to said they usually used their own bank a
 Our hypothesis is that View Payment History will present most of the information Veterans expect in a generally accptaple manner. Some users will want more advanced search and filter options; some may want additional columns.
 
 ### Method
-We will engage in moderated usability testing conducted remotely using Zoom. Remote testing is curently to only viable option, but the metod should yield acceptable observations on which to base findings. Participants who receive VA payments will be recruited using Perigean. These users will login to VA staging using test accounts and review the feature. The sessions will be recorded, and observers and notetakers may be in attendance.
+We will engage in moderated usability testing conducted remotely using Zoom. These users will login to VA staging using test accounts and review the feature. The sessions will be recorded, and observers and notetakers may be in attendance.
 
 ### Participants and recruitment
 
