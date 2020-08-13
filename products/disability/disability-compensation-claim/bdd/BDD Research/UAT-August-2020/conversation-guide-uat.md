@@ -48,6 +48,12 @@ OK, please share your screen, and then we will get started.
 - Now we would like to go ahead and help guide you through entering in some of your personal information and validating that the information we already know about you is correct.
   - [ ] **UAT TASK:** Confirm their personal data is correct.
   - [ ] **UAT TASK:** Confirm their miltary history is correct.
+  - [ ] **UAT TASK:**
+  - [ ] **UAT TASK:** 
+  - [ ] **UAT TASK:**
+  - [ ] **UAT TASK:**  
+  - [ ] **UAT TASK:**
+  - [ ] **UAT TASK:** 
   
   ** NEED MORE HERE CHRISTIAN **
 
