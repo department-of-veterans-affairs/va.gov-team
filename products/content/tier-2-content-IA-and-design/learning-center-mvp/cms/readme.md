@@ -5,8 +5,33 @@
  -  LC go-to-market strategy: how will users find the Learning Center?
 </details>
 
+## Tuesday August 18
+
+### Agenda
+
+1. LC Governance
+1. Content reusability accross products - review concept prototype
+1. Training plan for PW team and LC stakeholders / SMEs
+
+### Action items
+
+1. 
+
+## Friday August 14
+
+### Agenda
+
+1. MVP Taxonomy [#2542](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2542)
+   1. discussion on tag design iteration and creative workaround ideas
+
+### Action items
+
+1. 
+
 
 ## Tuesday August 11
+
+### Agenda
 
 1. MVP Taxonomy [#2542](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2542)
 1. Related information component
@@ -14,7 +39,7 @@
 1. Training plan for PW team and LC stakeholders / SMEs
 1. Content reusability accross products - review concept prototype
 
-## Action items
+### Action items
 
 1. Implement Topics taxonomy with two starter tags: "VA Account and Profile" , "General" (pending discussion on Friday 8/14)
 1. Implement Audience taxonomy with "Beneficiary" portion of the taxonomy.
@@ -22,13 +47,13 @@
 
 ## Tuesday August 4
 
-## Agenda
+### Agenda
 
 1. Review LC backlog
 2. Blockers
 5. CRM news
 
-## Action items
+### Action items
 
 1. Jen/Randi create Draft content on prod for the following content types: Q&A, FAQ - Multiple Q&As, Step-by-step ([2561](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2561))
 2. The CMS team support DevShop env for FE development ([2561](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2561))
