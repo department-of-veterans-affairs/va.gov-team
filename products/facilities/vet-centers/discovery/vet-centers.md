@@ -3,10 +3,11 @@
 ## Foundational discovery
 
 ### What constitutes a Vet Center?
+
 - 300 stand-alone (not integrated into VAMC health care systems) Vet Centers, the VHA runs
-~ 18 outstations (small physical locations, like Vet Centers)
-~ 1000 community access points (donated space at community partners
-~ 83 Mobile Vet Centers (MVC) which are used for outreach and community disasters
+- 18 outstations (small physical locations, like Vet Centers)
+- approx 1000 community access points (donated space at community partners
+- approx 83 Mobile Vet Centers (MVC) which are used for outreach and community disasters
 
 ### What services do Vet Centers offer?
 
