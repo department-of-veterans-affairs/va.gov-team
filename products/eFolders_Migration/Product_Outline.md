@@ -93,6 +93,7 @@ Discovery
 ## Screenshots
 
 ### Before
+![My Documents List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/eFolders_Migration/artifacts/Screen%20Shot%202020-08-13%20at%201.12.29%20PM.png)
 
 ![eFolders 
 ](https://docs.google.com/document/d/1wEe2b67Y9rx9Bbvq9Vb-0lHe9Po6Dujlvm8KUk185fc/edit?usp=sharing)
