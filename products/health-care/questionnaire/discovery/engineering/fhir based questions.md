@@ -18,14 +18,20 @@ puts patient.name.inspect
 puts patient.id
 SMART-1272431
 ```
-Has search capability
+- The Client has various functionality baked in such as search capability
 ```
 reply = client.search(FHIR::Patient, search: {parameters: {name: 'P'}
 patient = bundle.entry.first.resource
 puts patient.name.inspect
 [#<FHIR::HumanName:0x00007fbbeff11668 @id=nil, @extension=[], @use="official", @text=nil, @family="Graham", @given=["Stephan", "P."], @prefix=[], @suffix=[], @period=nil>]
 ```
+- According to the ruby toolbox, the use of this client has been greatly increasing over the past year. It looks like there is a total of about 86,526 downloads. 
 
+https://www.ruby-toolbox.com/projects/fhir_client
+
+- It's not clear that the cost of serialization/deserialization is enough to cause any performance bottleneck
+
+- The client can be used to manipulate or create objects from json or create json from the objects
 
 <details>
   <summary>JSON FHIR definition</summary>
