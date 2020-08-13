@@ -14,7 +14,7 @@ Set a date and walk back the various steps.  This achieves a few things:
 **Number of sprints:** 3    
 ## Events
 ### Sprint 28
-August 12 - 25
+`August 12 - 25`
 - Unit tests ✔
 - URL disentanglement ✔ then,
   - Internal 508/QA (Jason)
@@ -26,8 +26,9 @@ August 12 - 25
 - Develop UAT/Release Plan
 - Create Controller + Model to connect FE + BE
 ### Sprint 29
-August 26 - September 8
+`August 26 - September 8`
 - Finish Flipper Component
+- Create Sidekiq job  
 - Take url from BE to finish FE + BE connection
 - E2E tests
 - Develop Research Plan/Conversation Guide for usability session
@@ -37,7 +38,7 @@ August 26 - September 8
 - PD: Stakeholder review/ demo
 - PD: Coordinate with VA comms
 ### Sprint 30
-September 9 - 22
+`September 9 - 22`
 - UAT/ UAT outcome PRs
 - Launch to n% of users 🚀
 - Launch to 100% of users
@@ -45,8 +46,8 @@ September 9 - 22
 - Coordinate page redirects
 - Code hardening/bug fixes
 --------------------------------------------------------
-  ### Sprint 31
-  September 23 - October 6
+### Sprint 31
+`September 23 - October 6`
 - Deprecate feature
 - Optimization/ongoing bug fixes
 - [Post Launch Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#post-launch-check-in) 🌀
