@@ -9,7 +9,7 @@ Team | Project | IA Work Status | Status Notes
 BAM2 | eFolders migration | NOT STARTED | Kick-off held 8/13 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-efolders.md
 Orchid | IRIS Migration | NOT STARTED | Kick-off held 8/12 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/orchid-iris.md
 BAM2 | Apply Wizards | NOT STARTED | Kick-off held 8/7 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-apply-wizard.md
-CTO | COVID-19 Research/Trials | IN PROGRESS  | Design intent held 8/4 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/cto-covid-trials.md
+CTO | COVID-19 Research/Trials | DRAFT COMPLETE  | IA Request not created yet <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/cto-covid-trials.md
 Health care Exp | Questionnaires | NOT STARTED | Usability testing prep held 8/6 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/healthcare-questionaires.md
 BAH | GIBCT Search & Filters | IN PROGRESS | Usability prep 8/4 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-gibct-search-filter
 BAH | School ratings | NOT STARTED | Design Intent held 7/16<br>https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-school-ratings.md
