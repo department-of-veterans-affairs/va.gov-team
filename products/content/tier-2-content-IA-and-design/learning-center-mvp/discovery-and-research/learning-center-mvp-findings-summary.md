@@ -230,9 +230,9 @@ Veterans would expect to find a link to a product link the learning center promi
 
 ## Additional Insights
 
-### **Multiple participants who identified as having cognitive or functional disabilities did not think the titles on the [Agent Orange hub page](https://vsateams.invisionapp.com/share/FCYB790TDRM) were clickable**
+### **Multiple participants did not think the titles on the [Agent Orange hub page](https://vsateams.invisionapp.com/share/FCYB790TDRM) were clickable.**
 
-The blue text wasn't sufficient enough to signify to them that the headings were interactive.
+The blue text wasn't sufficient enough to signify to them that the headings were interactive. All of the participants who struggled with this identified as having cognitive or functional impairments.
 
 **Implication**
 
@@ -284,6 +284,8 @@ Another participant who expected to find all benefit information in the learning
  
 
 ## Next Steps
+
+- TBD with team
 
 ### Future Research Studies
 
