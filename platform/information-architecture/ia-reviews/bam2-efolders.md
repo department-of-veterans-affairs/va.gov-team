@@ -55,3 +55,18 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 
 ### Meetings Notes and Background Info
 
+**8/13/20 - Kick-off**
+- My documents versus eFolders
+- Will this live in profile?  currently asking in debt letters research to see where users might look for general documents?  people are totally expecting to find it in profile because they don't necessarily know about profile, more expecting to look within the specific benefit (i.e. if related to disability)
+- Suggested talking with authenticated experience team - logged in home page research, many Veterans placed their documents on their logged in home page - profile is very geared towards profile info. 
+- where will the literal documents/files will live? Need to document where the actual files will go for accessibility compliance 
+- size of eFolders greatly varies from 0 - 100,000, team is asking for a general average.  Documents can be versioned not replaced, new queries to get docs are supposedly quicker but we may need to optimize
+- some documents are not visible - i.e. sensitive topics like ptsd/suicide risk - the doc is there but marked not visible for veteran
+- this is lift and shift/parity with eBenefits
+- what goes here?  applications will end up eventually in eFolders but may not be in My documents feature
+- My documents is entry point into feature, lives under My Profile in eBenefits
+- primarily just a list of documents that are sortable, clicking on document just opens new tab with pdf/other file type
+
+![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/f9a44300-95e9-4beb-8e0c-6fccbe053500)
+
+
