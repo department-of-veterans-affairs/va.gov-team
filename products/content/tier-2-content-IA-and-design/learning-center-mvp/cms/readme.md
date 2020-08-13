@@ -5,6 +5,7 @@
  -  LC go-to-market strategy: how will users find the Learning Center?
 </details>
 
+
 ## Tuesday August 11
 
 1. MVP Taxonomy [#2542](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2542)
@@ -15,7 +16,9 @@
 
 ## Action items
 
-1. 
+1. Implement Topics taxonomy with two starter tags: "VA Account and Profile" , "General" (pending discussion on Friday 8/14)
+1. Implement Audience taxonomy with "Beneficiary" portion of the taxonomy.
+1. Implement a separate field that defines the relation of LC page to a Benefit Hub.
 
 ## Tuesday August 4
 
