@@ -16,6 +16,7 @@ How might we encourage Veterans to provide both mailing and residental addresses
 1. Why do we collect address on the HCA at all (can we pull it from other sources?)
 1. What happens downstream with these addresses?
 1. What are other methods of communication to use to communicate with Veterans?
+1. How should the experience differ between authenticated and unauthenticated?
 
 ## Desired User Outcomes
 
