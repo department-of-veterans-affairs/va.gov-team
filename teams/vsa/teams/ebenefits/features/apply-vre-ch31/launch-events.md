@@ -9,9 +9,9 @@ Set a date and walk back the various steps.  This achieves a few things:
 4. Should assist in ticket creation
 
 ## Assumptions
-**Launch day:** September 29, 2020
-**Number of days:** 47  
-**Number of sprints:** 3   
+**Launch day:** September 29, 2020  
+**Number of days:** 47   
+**Number of sprints:** 3    
 ## Events
 ### Sprint 28
 August 12 - 25
@@ -38,7 +38,7 @@ August 26 - September 8
 - PD: Coordinate with VA comms
 ### Sprint 30
 September 9 - 22
-- UAT/ UAT outcome PRs, email whitelist
+- UAT/ UAT outcome PRs
 - Launch to n% of users 🚀
 - Launch to 100% of users
 - Create eBenefits user redirect messaging
