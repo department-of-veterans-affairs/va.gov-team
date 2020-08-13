@@ -55,12 +55,25 @@ OK, please share your screen, and then we will get started.
   - [ ] **UAT TASK:** Choose: Do you have any new conditions you want to add to your claim? Yes. Add: Two or more Disabilities. Check: What if I don’t know the name of my condition? link. 
   - [ ] **UAT TASK:** Choose: What caused this service-connected disability? Check one by one, add description. (for all disabilities). 
   - [ ] **UAT TASK:** Choose: Have you ever been a POW? Add: dates. Choose: Which of your new conditions was caused or affected by your POW experience?
-  - [ ] **UAT TASK:** Choose: Would you like to learn more about additional benefits? Yes. Choose: Do you need help buying or modifying your home? Yes. Choose: Do you need help buying or modifying your car? Yes. Choose: Have you ever been granted an automobile allowance? Yes
-
-
+  - [ ] **UAT TASK:** Choose: Would you like to learn more about additional benefits? Yes. Choose: Do you need help buying or modifying your home? Yes. Choose: Do you need help buying or modifying your car? Yes. Choose: Have you ever been granted an automobile allowance? No.  
+  - [ ] **UAT TASK:** Choose: Are you confined to your home or need help with everyday activities? Yes. 
+  - [ ] **UAT TASK:** Choose: Does your disability prevent you from holding down a job that you could otherwise do? (This doesn’t include being retired.) No.
+  - [ ] **UAT TASK:** Choose: Please tell us what you would like to do.(*Required)
+  - [ ] **UAT TASK:** Review: Based on what you told us, you may be eligible for these additional disability benefits.
+  - [ ] **UAT TASK:** Review: Summary of disabilities
+  - [ ] **UAT TASK:** Choose: Is there any evidence you’d like us to review as part of your claim? Yes. VA Medical Records. Private Medical Records. Supporting statements or other evidence. Review: Which evidence type should I choose?
+  - [ ] **UAT TASK:** Input: Please tell us where VA treated you for your disability.
+  - [ ] **UAT TASK:** Choose: Do you want to upload your private medical records? No. Review: Which should I choose? Check Patient Acknowledgement. Review: Read the full text.
+  - [ ] **UAT TASK:** Input: Supporting evidence. 
+  - [ ] **UAT TASK:** Upload evidence. (A random screenshot). Choose: Photographs. 
+  - [ ] **UAT TASK:** Review Supporting Evidence. 
+  - [ ] **UAT TASK:** Review Contect Information.
+  - [ ] **UAT TASK:** Input: Bank Info (use 1-9 for Account and Routing number. Use Test for bank name. 
+  - [ ] **UAT TASK:** Choose: Are you homeless or at risk of becoming homeless? Im currently homeless. InpPlease describe your current living situation. Choose: Do you need to quickly leave your current living situation? Input: Please provide the name of a person or place we can call if we need to get in touch with you. 
 
   - [ ] **UAT TASK:** 
   - [ ] **UAT TASK:** 
+              
   ** NEED MORE HERE CHRISTIAN **
 
 ## Post-Task Interview - 1 minutes
