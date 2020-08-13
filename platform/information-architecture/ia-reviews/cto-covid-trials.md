@@ -1,11 +1,11 @@
 # IA Review and Recommendations
-**STATUS:**
+**STATUS: IN PROGRESS**
 
-**Team:** 
+**Team:**  CTO COVID Vaccine Trials 
 
-**Product/Featue:** 
+**Product/Featue:** Research volunteer sign-up
 
-**Background/Context:**
+**Background/Context:**  Deliver a successful COVID-19 vaccine trial experience for Veterans, with a priority focus on encouraging participation from communities that are historically underrepresented in government-run clinical trials
 
 **IA Request:** 
 
@@ -16,22 +16,27 @@
 
 **Approach:**
 
-- 
+- This work effort includes a static landing page to describe the research and provide supporting information on eligibility and how to volunteer, as well as FAQs
+- The volunteer sign-up form is not intended to be indexed by search engines and all traffic will be referred through the static landing page to ensure visitors understand what they are signing up for
 
 
-Page | URL | Breadcrumb
---- | --- | ---
+Page | URL | Breadcrumb | Notes
+--- | --- | --- | ---
+Research static page | www.va.gov/coronavirus-research/ | Home > Participating in Coronavirus research at VA | 
+Sign up page | www.va.gov/coronavirus-research/volunteer/ | Home > Participating in Coronavirus research at VA | 
 
-**General Details**
-- Please connect with your writer/editor on the proper verbiage and capitalization of the last element of the breadcrumb
 
 <hr>
 
 ### Navigation Changes and Entry and Exit Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
-Priority | Placement | Description
---- | --- | ---
+Priority | Placement | Link to | Description
+--- | --- | --- | ---
+tbd | [Coronavirus FAQ page](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/) | www.va.gov/coronavirus-research/ | 
+
+
+
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
@@ -40,7 +45,7 @@ Priority | Placement | Description
 ### Redirects <br>
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
-- 
+- None known at this time
 
 Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
 *For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
