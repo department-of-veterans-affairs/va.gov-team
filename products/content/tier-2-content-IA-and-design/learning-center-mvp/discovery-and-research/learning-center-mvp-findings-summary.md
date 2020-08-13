@@ -56,7 +56,7 @@ We spoke to 8 Veterans.
 ## Key Findings
 
 1. The design of the learning center pages makes it easy to navigate and find information for most people. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md#the-design-of-the-learning-center-pages-makes-it-easy-to-navigate-and-find-information-for-most-people)
-2. The categorization of information throughout the learning center pages reviewed made sense. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md#the-categorization-of-information-throughout-the-learning-center-pages-reviewed-makes-sense)
+2. The taxonomy seemed to match the mental models of our participants. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md#the-taxonomy-seemed-to-match-the-mental-models-of-our-participants)
 3. Veterans are frustrated by having to go through multiple resources to get answers to their questions. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md#veterans-are-frustrated-by-having-to-go-through-multiple-resources-to-get-answers-to-their-questions)
 4. People perceived that all benefit information would be available in the learning center, and experienced no confusion when going to the benefit hub. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md#people-perceived-that-all-benefit-information-would-be-available-in-the-learning-center-and-experienced-no-confusion-when-going-to-the-benefit-hub)
 5. 3 of 8 participants expected the audience and topic tags to be clickable. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md#3-of-8-participants-expected-the-audience-and-topic-tags-to-be-clickable)
@@ -98,7 +98,7 @@ The h1 and intro text helped most participants understand the purpose of the lea
 
   2. That content will fill the viewport on smaller screens. Depending on scroll position and how we handle page changes with React, it has the potential to make people feel like nothing happened after they click on something.
 
-### The categorization of information throughout the learning center pages reviewed makes sense.
+### The taxonomy seemed to match the mental models of our participants.
 
 The audience and topics categorization on the homepage gave people an easy-to-understand overview of the content in the learning center. When scanning the page, most people read links under the Articles by Audience, and then lingered in the Topics section the rest of the time on the page. 
 
