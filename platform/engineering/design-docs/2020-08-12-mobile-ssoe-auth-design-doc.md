@@ -51,6 +51,8 @@ with mobile specific logic.
 ## Specifics
 
 ### Detailed Design
+A base `SessionManager` will be created for the shared logic that both the `WebSessionMananger` and `MobileSessionMananger` use.
+It will also declare an interface by defining a set of methods that must be overrriden by its su
 As the `AuthenticationAndSSOConcerns` module is mixed in to the `ApplicationController` it has information about the 
 incoming request. When a request originates from a web client the concern can instantiate a `WebSessionManager`. 
 Likewise when it originates from a mobile client it can instantiate a `MobileSessionMananger`. As both managers implement 
@@ -58,6 +60,103 @@ the same interface we won’t need to sprinkle web or mobile conditional logic t
 which state it’s in and chooses the appropriate manager.
 
 <img src="images/mobile-ssoe-auth/mobile_ssoe_auth_class.png" alt="mobile auth sequence diagram" width="700"/>
+
+Should another form of session manager be needed in the future it can implement the same interface. The design also makes testing easier as the logic to determine if each type of session manager is correct can be tested in isolation.
+
+#### Example Code Changes
+
+A new base `SessionManager` class is created for the shared logic and to mark methods that should be implemented:
+
+```ruby 
+class SessionManager
+  def load_user
+    @session_object = Session.find(session[:token])
+    @current_user = User.find(@session_object.uuid) if @session_object
+  end
+  
+  def validate_session
+    raise NotImplementedError, 'SessionManager subclasses must implement the validate_session method'
+  end
+end
+```
+
+The authenticate callback with the session_mananger instance based on request origin:
+
+```ruby
+module AuthenticationAndSSOConcerns
+
+MOBILE_TOKEN_REGEX = /Bearer /.freeze
+
+# ...
+
+protected
+
+def authenticate
+  session_mananger.validate_session || render_unauthorized
+end
+
+def session_mananger
+   web_request? ? WebSessionMananger.new : MobileSessionManager.new(request.authorization)
+end
+
+def web_request?
+  request.authorization.to_s[MOBILE_TOKEN_REGEX].nil?
+end
+
+```
+
+The current `validate_session` logic moves to the `WebSessionManager`:
+
+```ruby
+class WebSessionMananger < SessionManager
+  def initialize(session_object, current_user)
+    @session_object = session_object
+    @current_user = current_user
+  end
+  
+  def validate_session
+    load_user
+
+    if @session_object.nil?
+      Rails.logger.debug('SSO: INVALID SESSION', sso_logging_info)
+      clear_session
+      return false
+    end
+
+    if should_signout_sso?
+      Rails.logger.info('SSO: MHV INITIATED SIGNOUT', sso_logging_info)
+      reset_session
+    else
+      extend_session!
+    end
+
+    @current_user.present?
+  end
+end
+```
+
+The new `MobileSessionManager` has it's own version of `validate_session`:
+
+```ruby
+class MobileSessionMananger < SessionManager
+  def initialize(authorization)
+    @token = token_from_authorization(authorization)
+  end
+  
+  def validate_session
+    load_user
+    return true if @session_object.present? && @current_user.present?
+    introspect_response = IamSsoeAuth::Service.new.post_introspect(@token)
+    build_session(introspect_response)
+  end
+  
+  def build_session(introspect_response)
+    # build session, user, and profile objects and...
+    persits_session
+  end
+end
+```
+
 
 ### Code Location
 _The path of the source code in the repository._
