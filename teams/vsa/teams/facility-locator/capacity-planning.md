@@ -36,9 +36,11 @@
     - Labor Day observed: Monday, September 7 (GCIO, VA, Ad Hoc, CivicActions)
 
 ### Additional out of office
+    - Lance September 1-3
 
 ## August 2020
 ### Additional out of office
+    - Lance August 28
     
 ## July 2020
 ### Holidays
