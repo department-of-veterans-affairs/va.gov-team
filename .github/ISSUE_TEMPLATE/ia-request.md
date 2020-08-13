@@ -3,7 +3,7 @@ name: IA Request
 about: Finalize the IA of your product for VA.gov
 title: IA Request [Feature-Name]
 labels: product support, content-ia-team, collaboration-cycle
-assignees: andreahewitt-odd, meganhkelley, mnorthuis
+assignees: mnorthuis
 
 ---
 
@@ -22,23 +22,17 @@ When to use this: After completion of usability/protyping, prior to moving to de
 
 Provide the following information, as available, to support the final information architecture of your product.
 
-**SEO Keywords**
-- Enter a list of keywords used by your target audience when they talk about or search for your content
+**SEO Keywords** - Provide a list of keywords used by your target audience when they talk about or search for your content
 
-**Proposed site map/page structure** (if more than one page)
-- Provide link or image of proposed page structure
+**Proposed site map/page structure** - Provide link or image of proposed page structure (if more than one page)
 
-**Suggested URL(s)**
-- Provide suggested URLs and any background or rationale
+**Suggested URL(s)** - Provide suggested URLs and any background or rationale
 
-**Suggested entry points**
-- What is the primary entry point for users to find your new content/tool - consider benefit hub pages, top nav, left nav, footer, profile/account, home page, etc.
+**Suggested entry points** - What is the primary entry point for users to find your new content/tool - consider benefit hub pages, top nav, left nav, footer, profile/account, home page, etc.
 
-**Crosslinking opportunities**
-- What additional related areas of the site would links to your content/tool be helpful?
+**Crosslinking opportunities** - What additional related areas of the site would links to your content/tool be helpful?
 
-**Redirects/canonical tags**
-- Will existing pages/tools need to be redirected or canonicalized?
+**Redirects/canonical tags** - Will existing pages/tools need to be redirected or canonicalized?
 
 ## Definition of Done
 - [ ] Issue is created, tagged and assigned to Content and IA team
