@@ -43,13 +43,14 @@ Start with open-ended question “How can I help you today?” brings focus to t
 > As a Veteran, I want to provide my care team with the reason for my visit so that they know why Im coming in for care and so I can prepare in advance if tests should be completed, noted stressors/triggers/concerns, or an acute concern should change my appointment date.
 
  1. [Reason for Visit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/this-visit.md) - can we pre-populated unauth (based on info we get with the trigger/link) and auth from CPRS/VAOS.  
+ 
 
 **Whats Important to Me (5D)**
 
 > As a Veteran, I want to provide my story and whats important to me so that I am able to collaborate and parter with my care team in my health goals
 
  2. [Health Conditions, Concerns or Important Information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/this-visit.md)
- 5. [Questions I have for the visit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/this-visit.md).
+ 3. [Questions I have for the visit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/this-visit.md).
 
 **Continuity of Care (5A)**
 
@@ -64,14 +65,17 @@ Start with open-ended question “How can I help you today?” brings focus to t
 
 > As a Veteran, I use MHV and VA.gov to access all my health and benefits information with the VA, and want to be able to access my health questionnaires in a similar way,  so the workflow is consistent and convenient to my current experience.
 
- 6. Questionnaire Trigger - VAOS/CPRS - association of facility/encounter to trigger questionnaire that applies.
- 7. Landing page - for explaining/Get Started which should include login.
- 8.  Review and Confirm Page-** show the completed form has been saved successfully and sent to clinic 
- 9. Print PDF - of completed questionnaire 
- 10. Forms List - Completed forms page to show the form that was completed and others that have not been
+ 6. Appointment details from scheduling solution so we can show the veteran appt. date, time, facility, and any other details about the visit the questionniare is associated with.  Current strategy is looking into VAMF to read Vista scheduling tables and writing our own backend service to retrieve.
+ 7. Questionnaire Trigger - VAOS/CPRS - association of facility/encounter to trigger questionnaire that applies.
+ 8. Landing page - for explaining/Get Started which should include login.
+ 9. Review and Confirm Page-** show the completed form has been saved successfully and sent to clinic 
+ 10. Print PDF - of completed questionnaire  
+ 11. Forms List - Completed forms page to show the form that was completed and others that have not been
     completed or in progress 
- 11. Save in Progress - Ability to save and come back later to submit the form 
- 12. Canceled Appointment - Automatically remove the questionnaire from the form list 
+ 12. Save in Progress - Ability to save and come back later to submit the form 
+ 13. Confirmation page showing the veteran they have sumbitted the questionnaire successfully
+ 14. Canceled Appointment - Automatically remove the questionnaire from the form list and consider all other status of appointments if additional workflows need considered.
+ 15. Creat Feature flags to show and hide questionnaires workflow on va.gov
 
 **Do not require a Login  (4B)**
 
@@ -84,14 +88,14 @@ Start with open-ended question “How can I help you today?” brings focus to t
 
 > As a Veteran, I want to be notified in advance of my health care visit that a questionnaire is needed to be completed, so that I don't have to fill it out in the waiting room and can complete when convenient and relevant for me.
 
- 13. VAOS Appointment List - link for Veteran to select to launch the questionnaire for that encounter.
- 14. Email Appointment Confirmation -  VAOS/CPRS - sends an email confirmation of appointment booked - show link to clipboard that is due for the visit.
+ 18. VAOS Appointment List - link for Veteran to select to launch the questionnaire for that encounter.
+ 19. Email Appointment Confirmation -  VAOS/CPRS - sends an email confirmation of appointment booked - show link to clipboard that is due for the visit.
 
 **Notifications (4D)**
 
 > As a Veteran, I want to be  notified in a similar or the same appointment reminder that I receive today, so that the questionnaire is in context of the visit I am planning to attend.
 
- 15. Text Appointment Reminder - VeText - show link to clipboard that is due for the visit
+ 20. Text Appointment Reminder - VeText - show link to clipboard that is due for the visit
 
 
 ---
