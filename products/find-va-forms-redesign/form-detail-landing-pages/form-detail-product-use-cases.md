@@ -6,18 +6,6 @@ _The purpose of this document is for designers, PMs, and engineers to align earl
 
 Link to product outline: [Form Detail Landing Page product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/form-detail-landing-pages/form-detail-product-outline.md)
 
-## Contents
-<details>
-<summary>There are 2 versions of the form detail landing page template, based on whether a particular form has all, some, or no custom data fields in Drupal.</summary>
-  
-- [Use Case A - Minimum custom form data](#use-case-a) 
-- [Use Case B - Maximum custom form data](#use-case-b)
-- [Use Case C - Invalid PDF Urls](#use-case-c)
-- [Use Case D - Deleted Forms](#use-case-d)
-- [Batch 1 - top 40 forms for QA](#batch-1-top-40-forms-for-qa)
-
-</details>
-
 ## Use Case A 
 ### Minimum custom form data
 
@@ -53,8 +41,22 @@ Link to product outline: [Form Detail Landing Page product outline](https://gith
 * **Instructions to access in ~Staging~ on prod.cms.va.gov** 
 _Note: ~credentials should be stored in sensitive repos only~ All CMS content lives on prod and can be viewed as unpublished previews_
   - You must be on VA network to access the CMS preview page: http://preview-prod.vfs.va.gov/preview?nodeId=5776  <--This form page includes all the custom data fields. 
+  
+## Use Case C
+### No custom form data
 
-## Use Case C 
+* **Description:** 
+  - When a form page has **NO** custom data added in Drupal. Mockup shows the basic version of a form detail landing page with:
+    - data that's coming from the source VA forms database
+   
+* **Link to designs:** 
+  - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/form-detail-landing-pages/WIP-design-files/form-detail-FE-minimum-content-072820.pdf
+  
+* **Instructions to access in ~Staging~ on prod.cms.va.gov** (_Note: ~credentials should be stored in sensitive repos only~ All CMS content lives on prod and can be viewed as unpublished previews_)
+  - You must be on VA network to access the CMS preview page: 
+  
+
+## Use Case D
 ### Invalid PDF Urls
 
 * **Description:** 
@@ -66,7 +68,7 @@ _Note: ~credentials should be stored in sensitive repos only~ All CMS content li
 * **Instructions to access in ~Staging~ on prod.cms.va.gov** (_Note: ~credentials should be stored in sensitive repos only~ All CMS content lives on prod and can be viewed as unpublished previews_)
   - You must be on VA network to access the CMS preview page: 
   
-## Use Case D
+## Use Case E
 ### Deleted Forms
 
 * **Description:** 
