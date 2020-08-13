@@ -24,8 +24,6 @@ We will be attempting to answer some (not all) of the below research questions, 
 
 * What usability issues do Veterans encounter when using site search and looking for information on a content page?
 
-* What usability issues to Veterans encounter when viewing tables on a content page?
-
 * What usability issues do Veterans encounter when attempting to complete a multi-page form? 
 
 * How much do Veterans struggle to find content in the right rail?
