@@ -39,78 +39,66 @@ Start with open-ended question “How can I help you today?” brings focus to t
  [Mural Workflow Diagram](https://app.mural.co/t/vsa8243/m/vsa8243/1596561661701/0afd94dfc8598b105524e87c8828b10dba98bbf2)
 ### Avoid having to repeat health history across the continuum of care
 
-**Visit Reason (5G)**
+> **Visit Reason (5G)**
 > As a Veteran, I want to provide my care team with the reason for my visit so that they know why Im coming in for care and so I can prepare in advance if tests should be completed, noted stressors/triggers/concerns, or an acute concern should change my appointment date.
-
- 1. [Reason for Visit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/this-visit.md) - can we pre-populated unauth (based on info we get with the trigger/link) and auth from CPRS/VAOS.  
- 
-
-**Whats Important to Me (5D)**
-
+> **Whats Important to Me (5D)** 
 > As a Veteran, I want to provide my story and whats important to me so that I am able to collaborate and parter with my care team in my health goals
+>
+1.  [Reason for Visit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/this-visit.md)  - pre-populated unauth (based on info we get with the trigger/link) and auth from CPRS/VAOS.
+2.  [Health Conditions, Concerns or Important Information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/this-visit.md) - Provide ability to document the main areas of important health and social factors that are impacting everyday life so that the care team can prioritize what to discuss for the visit
+3.  [Questions I have for the visit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/this-visit.md).- provide abiltiy to add additional questions the veteran would like to discuss with the care team during the visit. 
 
- 2. [Health Conditions, Concerns or Important Information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/this-visit.md)
- 3. [Questions I have for the visit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/this-visit.md).
 
-**Continuity of Care (5A)**
-
+> **Continuity of Care (5A)** 
 > As a Veteran, I want to provide my current health status and updates to my medical history so that I do not have to feel I have to repeat the information to my nurse and provider in the same and subsequent visits.
 
- 4. Demographics - Show patient demographics that is visible to the clinical care team. Is the va.gov Profile or MPI ?
- 5. Clinical Note - Questionnaire is saved as a clinical note into appropriate folder in patient/encounter in CPRS.
+4.  [Demographics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/demographics.md) - Show patient demographics that is visible to the clinical care team. Is the va.gov Profile or MPI ?
+5.  [Patient Generated Data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/pgd.md) - Questionnaire is saved as a clinical note or discrete data into appropriate folder in patient/encounter in CPRS.
 
 
 ### Do similar things the same way with seamless next steps
-**Digital Front Door (4A)**
 
+
+> **Digital Front Door (4A)**
 > As a Veteran, I use MHV and VA.gov to access all my health and benefits information with the VA, and want to be able to access my health questionnaires in a similar way,  so the workflow is consistent and convenient to my current experience.
 
- 6. Appointment details from scheduling solution so we can show the veteran appt. date, time, facility, and any other details about the visit the questionniare is associated with.  Current strategy is looking into VAMF to read Vista scheduling tables and writing our own backend service to retrieve.
- 7. Questionnaire Trigger - VAOS/CPRS - association of facility/encounter to trigger questionnaire that applies.
- 8. Landing page - for explaining/Get Started which should include login.
- 9. Review and Confirm Page-** show the completed form has been saved successfully and sent to clinic 
- 10. Print PDF - of completed questionnaire  
- 11. Forms List - Completed forms page to show the form that was completed and others that have not been
-    completed or in progress 
- 12. Save in Progress - Ability to save and come back later to submit the form 
- 13. Confirmation page showing the veteran they have sumbitted the questionnaire successfully
- 14. Canceled Appointment - Automatically remove the questionnaire from the form list and consider all other status of appointments if additional workflows need considered.
- 15. Creat Feature flags to show and hide questionnaires workflow on va.gov
+ 6.  [Appointment details from scheduling](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/vaos-appt-details.md) solution so we can show the veteran appt. date, time, facility, and any other details about the visit the questionnaire is associated with. Current strategy is looking into VAMF to read Vista scheduling tables and writing our own backend service to retrieve.
+7.  [Questionnaire Trigger](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/vaos-appt-details.md) - VAOS/CPRS - association of facility/encounter to trigger questionnaire that applies.
+8.  [Landing page -](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/questionnaires-list.md) for explaining/Get Started which should include login.
+9.  [Review and Confirm Page-](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/questionnaires-list.md)** show the completed form has been saved successfully and sent to clinic
+10.  [Print PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/questionnaires-list.md) - of completed questionnaire
+11.  [Forms List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/questionnaires-list.md) - Completed forms page to show the form that was completed and others that have not been completed or in progress
+12.  [Save in Progress -](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/questionnaires-list.md) Ability to save and come back later to submit the form
+13.  [Confirmation page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/questionnaires-list.md) showing the veteran they have submitted the questionnaire successfully
+14.  [Canceled Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/vaos-appt-details.md) - Automatically remove the questionnaire from the form list and consider all other status of appointments if additional workflows need considered.
+15.  [Create Feature flags](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/this-visit.md) to show and hide questionnaires workflow on va.gov
 
-**Do not require a Login  (4B)**
 
+> **Do not require a Login  (4B)**
 > As a Veteran, I want to have an easy and seamless experience in filling out questionnaires that do not require me to login as I often do not have access to my medical information given the current authentication process to verify my identity.
 
- 16. Unauthenticated - No pre-populating - what CPRS data can we tie to the questionnaire link and then based on that information where can it go back in CPRS once quest. is submitted. ie. patient context at person or encounter level?
- 17. Authenticated - Are we showing all 2 IDP or just ID.me?  Need to integrate with questionnaire flow to authorize for showing RFV and Demographics?
-
-**Notifications (4C)** 
-
+ 16. [Unauthenticated](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/authentication.md) - No pre-populating - what CPRS data can we tie to the questionnaire link and then based on that information where can it go back in CPRS once quest. is submitted. ie. patient context at person or encounter level?
+ 17. [Authenticated -](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/authentication.md) Are we showing all 2 IDP or just ID.me?  Need to integrate with questionnaire flow to authorize for showing RFV and Demographics?
+> **Notifications (4C & 4D)** 
 > As a Veteran, I want to be notified in advance of my health care visit that a questionnaire is needed to be completed, so that I don't have to fill it out in the waiting room and can complete when convenient and relevant for me.
+>  As a Veteran, I want to be  notified in a similar or the same appointment reminder that I receive today, so that the questionnaire is in context of the visit I am planning to attend.
 
- 18. VAOS Appointment List - link for Veteran to select to launch the questionnaire for that encounter.
- 19. Email Appointment Confirmation -  VAOS/CPRS - sends an email confirmation of appointment booked - show link to clipboard that is due for the visit.
-
-**Notifications (4D)**
-
-> As a Veteran, I want to be  notified in a similar or the same appointment reminder that I receive today, so that the questionnaire is in context of the visit I am planning to attend.
-
- 20. Text Appointment Reminder - VeText - show link to clipboard that is due for the visit
+ 18.  [VAOS Appointment List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/vaos-appt-list.md) - link for Veteran to select to launch the questionnaire for that encounter.
+19.  [Email Appointment Confirmation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/notifications.md) - VAOS/CPRS - sends an email confirmation of appointment booked - show link to clipboard that is due for the visit.
+20. [Text Appointment Reminder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/notifications.md) - VeText - show link to clipboard that is due for the visit
 
 
 ---
 ## Issue Tracking 
 
-| Initiative/Feature Name | Issue # | Design     | User Testing | Accessibility  | QA - Test Case  | Launch    | Notes 
-| ---------------------------------------------------| ---------- | -------------   | ---------    | ---------      | ---------       | --------- | ----- | 
-|[Visit Intro Initiative (Proof of Concept)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/visit-intro.md)| [#12102](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12102) | D  |  U   | A | Q |Q3 2020| N |
-| [Feature: This Visit Questions ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/this-visit.md)   |   [#12110](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12110) | D  |  U   | A | Q |Q3 2020| N |
-| [Feature: Authentication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/authentication.md)                             |      [#12114](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12114)  | D  |  U   | A | Q |Q3 2020| N |
-| [Feature: Notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/notifications.md)    |    [#12165](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12165) | D  |  U   | A | Q |Q3 2020| N |
-| [Feature: VAOS- Appt Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/vaos-appt-details.md)   |      [#12169](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12169) | D  |  U   | A | Q |Q3 2020| N |
-| [Feature: VAOS- Appt List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/vaos-appt-list.md)                         |      [#12171](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12171)           | D  |  U   | A | Q |Q3 2020| N |
-| [Feature: Veteran Demographic Information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/demographics.md)                          |   [#12170](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12170)             | D  |  U   | A | Q |Q3 2020| N |
-| [Feature: Questionnaires List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/questionnaires-list.md)                         |          [#12115](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12114)      | D  |  U   | A | Q |Q3 2020| N |
-| [Feature: PGD Data Integration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/pgd.md)                             |    [#12172](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12172)             | D  |  U   | A | Q |Q3 2020| N |
-
-
+| Initiative/Feature Name | Issue #  | Launch    | Notes 
+| ---------------------------------------------------| ---------- | -------------   | ---------    | 
+|[Visit Intro Initiative (Proof of Concept)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/visit-intro.md)| [#12102](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12102)  |Q3 2020| -- |
+| [Feature: This Visit Questions ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/this-visit.md)   |   [#12110](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12110) | Q3 2020| --|
+| [Feature: Authentication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/authentication.md)                             |      [#12114](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12114)  | Q3 2020| -- |
+| [Feature: Notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/notifications.md)    |    [#12165](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12165) |Q3 2020| --|
+| [Feature: Appt Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/vaos-appt-details.md)   |      [#12169](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12169) |Q3 2020| -- |
+| [Feature: VAOS- Appt List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/vaos-appt-list.md)                         |      [#12171](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12171)         |TBD| -- |
+| [Feature: Veteran Demographic Information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/demographics.md)                          |   [#12170](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12170)             |Q3 2020| -- |
+| [Feature: Questionnaires List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/questionnaires-list.md)                         |          [#12115](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12114)     |Q3 2020| --|
+| [Feature: PGD Data Integration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/pgd.md)                             |    [#12172](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12172)             |Q3 2020| -- |
