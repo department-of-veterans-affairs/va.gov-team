@@ -35,17 +35,17 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today? 
 
-## Warm-up Questions - X minutes
+## Warm-up Questions - 5 minutes
 
 - Before we look at the website, can you tell me a little about yourself? What part of the country do you live in? What branch did you serve?
 - What type of phone do you use? How do you typically use it? Breakdown of phone versus desktop?
 
-## Logistics: figure out how to share your screen
+## Logistics: figure out how to share your screen - 5 minutes
 
 - Let's start by making sure you can figure out how to share your screen on Zoom. 
 
 
-## First Task: VA.gov navigation and content - X minutes
+## First Task: VA.gov navigation and content - 7 minutes
 
 - I'd like you to go to VA.gov on your device. Now imagine you're interested in going back to school and you've heard there are benefits that can help you with that. How would you look for these benefits?  
 
@@ -57,7 +57,7 @@ Before we start, a few things I want to mention:
 - How do they interact with navigation if at all?
 - If they don't get to the "hub page" show this to them https://www.va.gov/education/
 
-## Second Task: Form - X minutes
+## Second Task: Form - 8 minutes
 
 - You've decided to apply for the GI bill and other related education benefits. What would you do?
 - If they can't find it, lead them here: https://www.va.gov/education/how-to-apply/
@@ -71,7 +71,7 @@ Before we start, a few things I want to mention:
 - How do they interact with the form? https://www.va.gov/education/apply-for-education-benefits/application/1990/applicant/information
 
 
-## Third Task: Facility Locator - X minutes
+## Third Task: Facility Locator - 10 minutes
 
 - Now let's say you need to get a COVID test and heard they run these at VA urgent care facilities. How would you find an urgent care facility close to you?  
 
@@ -81,7 +81,7 @@ Before we start, a few things I want to mention:
 - What are their expectations regarding the map and list views?
 - What do they think about geolocation and popluting a full address? What would they do to change it?
 
-## Fourth Task: Claims Status Tool - X minutes
+## Fourth Task: Claims Status Tool - 10 minutes
 
 - OK now I'm going to share a different URL with you (staging URL). Let's say you want to see the status of one of your claims, what would you do?  
 
@@ -89,19 +89,9 @@ Before we start, a few things I want to mention:
 
 - X
 
-
-## Post-Task Interview - X minutes
-
-- Question 1
-- Question 2
-- Any questions for me? 
-
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 2 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
-
-Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
-    If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
 
 Great, well thank you so much again, and enjoy the rest of your day!
 
