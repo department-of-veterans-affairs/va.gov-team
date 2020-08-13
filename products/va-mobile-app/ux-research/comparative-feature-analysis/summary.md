@@ -9,6 +9,7 @@ We undertook an audit of native mobile apps of all kinds to answer the following
 
 ## Analysis Summary
 
+![Image Chase and NYT](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/comparative-feature-analysis/screenshots/Auth-Unauth-Features.png)
 | **VA feature applicability** | Combination of auth + unauth features | 
 |:---|:---|
 | Apps we looked at | Chase Bank, The New York Times | 
