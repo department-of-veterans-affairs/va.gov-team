@@ -21,12 +21,12 @@ This study aimed to get feedback from Veterans on the Learning Center MVP concep
 We conducted 45-60 minute remote sessions using Zoom. 
 
 - Each session included a moderator and one participant, and started with a brief warm-up interview.
-- Participants used InVision to review a [clickable prototype](https://vsateams.invisionapp.com/share/YJXZTKC6CN4) that contained the Learning Center homepage, a few articles, a few search results pages, and a benefit hub page.
+- Participants used InVision to review a [clickable prototype](https://vsateams.invisionapp.com/share/YJXZTKC6CN4) that contained the learning center homepage, a few articles, a few search results pages, and a benefit hub page.
 
 Participants were asked to review the content under 2 scenarios:
 
 1. Imagine you had recently moved and had to make sure the VA had your new address. How would you do that?
-2. Imagine you need to find out how to get compensation for a Veteran who has been exposed to Agent Orange. How would you do that from here (an unrelated Learning Center article page)?
+2. Imagine you need to find out how to get compensation for a Veteran who has been exposed to Agent Orange. How would you do that from here (an unrelated learning center article page)?
 
 ### Who we talked to
 
@@ -60,9 +60,9 @@ We spoke to 8 Veterans.
 3. Veterans are frustrated by having to go through multiple resources to get answers to their questions. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md#veterans-are-frustrated-by-having-to-go-through-multiple-resources-to-get-answers-to-their-questions)
 4. People perceived that all benefit information would be available in the learning center, and experienced no confusion when going to the benefit hub. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md#people-perceived-that-all-benefit-information-would-be-available-in-the-learning-center-and-experienced-no-confusion-when-going-to-the-benefit-hub)
 5. 3 of 8 participants expected the audience and topic tags to be clickable. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md#3-of-8-participants-expected-the-audience-and-topic-tags-to-be-clickable)
-6. Template labels were helpful for most people when reviewing a list of articles, but there was ambiguity about what some labels meant. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md#template-labels-were-helpful-for-most-people-when-reviewing-a-list-of-articles-but-there-was-ambiguity-about-what-some-labels-meant)
-7. People browsed links rather than use search. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md#people-browsed-links-rather-than-use-search)
-8. People understood the search functionality, but the various search options caused confusion for some. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md#people-understood-the-search-functionality-but-the-various-search-options-caused-confusion-for-some)
+6. Template labels were helpful for most people when reviewing a list of articles. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md#template-labels-were-helpful-for-most-people-when-reviewing-a-list-of-articles-but-there-was-ambiguity-about-what-some-labels-meant)
+7. People browsed Articles by Topic links rather than use search. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md#people-browsed-articles-by-topic-links-rather-than-use-search)
+8. People understood the search functionality, but the various search options caused some confusion. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md#people-understood-the-search-functionality-but-the-various-search-options-caused-some-confusion)
 9. Most people expect to find a link to the learning center prominently featured on VA.gov. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md#most-people-expect-to-find-a-link-to-the-learning-center-prominently-featured-on-vagov)
 
 
@@ -78,13 +78,13 @@ No one got confused when landing on an "articles tagged" page; some people even 
 
 > "It's not quite what I expected - It's cleaner. I"m used to seeing a jumble of links that's hard to understand."
 
-The h1 and intro text helped most participants understand the purpose of the learning center when they initially landed on the homepage, but they quickly scrolled past this section (including search) as the sessions went on. One person commented that the header and intro made it seem like they didn't go to the right place when landing on [Topics Tagged: Vietnam War Veterans](https://vsateams.invisionapp.com/share/2SYENAW6VKT):
+The h1 and intro text helped most participants understand the purpose of the learning center when they initially landed on the homepage, but they quickly scrolled past this section (including search) as the sessions went on. One person commented that the header and intro made it seem like they didn't go to the right place when landing on Articles Tagged: Vietnam War Veterans:
 
 > First off, this thing at the top (*mouses over header and intro text*), you don't even need that. It doesn't even seem like it went where I need to be when I clicked.
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/images/learning-center-h1-intro.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/images/articles-tagged-vietnam-vets.png)
 
-*Learning center h1, intro text, and search remain static on all pages in the prototype.*
+*Learning center h1, and intro text remain static on all pages in the prototype.*
 
 **Implications**
 
@@ -116,7 +116,7 @@ On tag results pages (e.g. [Topics Tagged: Vietnam War Veterans](https://vsateam
 
 6 of the 8 people didn't mention the topic and audience tags as something helpful in determining which article to choose on a search results page. The template labels on then results set an expectation of the article format, although there was uncertainty about what a few of them meant ([details on those labels below](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md#template-labels-were-helpful-for-most-people-when-reviewing-a-list-of-articles-but-there-was-ambiguity-about-what-some-labels-meant)).
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/images/template-audience-tags.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/images/template-label-and-tags.png)
 
 *Example of template labels and tags.*
 
@@ -152,7 +152,7 @@ We included articles with similar or identical titles on the search results page
 At multiple times during the session, participants were asked where they would find content that is classified as `Tier 1` by DSVA, such as a benefit application or benefit eligibility information. 7 of 8 participants said they would look in the learning center for this information:
 
 - By returning to the home page and browsing links by topic, or 
-- By searching with the `Search Learning Center` radio button selected.
+- By searching with the `Search learning center` radio button selected.
 
 When asked "How would you apply for a benefit you don't already have?" on a learning center article page, 4 of 8 participants expected to find the application via a `View all articles` link in a topic section, and 2 of the 8 participants would use search with the learning center option selected. 
 
@@ -163,7 +163,7 @@ None of the participants experienced confusion, or noticed a change, when going 
 **Implications**
 
 - Veterans don't differentiate between the two areas of the site. What matters most is getting their question answered.
-- The study suggests that as long as we make it easy for Veterans to find what they're looking for, it won't matter if it lives in the learning center or benefit hub. However,  this should be re-evaluated when we have a live product or more robust prototype that allows people to look for information like they normally would.
+- The study suggests that as long as we make it easy for Veterans to find what they're looking for, it won't matter if it lives in the learning center or benefit hub. However,  this should be re-evaluated when we have a live environment that allows people to look for information like they normally would.
 
 ### 3 of 8 participants expected the audience and topic tags to be clickable.
 
@@ -173,14 +173,14 @@ Most people didn't comment on the audience and topics tags on the search results
 
 > "Are those viable links? What are you trying to get across with that? How are you trying to guide us?" 
 
- Once they realized they were clickable, and clicked through, 6 of 8 participants felt it aligned with their expectations. 2 participants expected the tags to behave as a layer on top of the Agent Orange content they were viewing.
+Once they realized they were clickable, and clicked through, 6 of 8 participants felt it aligned with their expectations. 2 participants expected the tags to behave as a layer on top of the Agent Orange content they were viewing.
 
 **Implications**
 
-- We should revisit the design of the tags to ensure they communicate interactivity.
-- Layering tags to refine results may be useful to Veterans; we should explore this with both design and research for future iterations of the Learning Center.
+- We should revisit the design of the tags to make sure people know they're clickable.
+- Layering tags to refine results may be useful to people; the question of whether or not the tags were layered has come up with team members during design reviews as well. We should explore this for future iterations of the learning center.
 
-### Template labels were helpful for most people when reviewing a list of articles, but there was ambiguity about what some labels meant.
+### Template labels were helpful for most people when reviewing a list of articles.
 
 7 of 8 participants noticed the template labels right away when reviewing the search result pages. The labels helped them understand there was a difference between similar sounding articles, and set an expectation for what they might find once they clicked. 
 
@@ -192,13 +192,13 @@ Most people didn't comment on the audience and topics tags on the search results
 
 **Implications**
 
-- Template labels are a helpful to Veterans looking at search results.
+- Template labels are helpful to Veterans looking at search results.
 - We should consider clarifying or combining `Question and answer` and `FAQs` .
-- Filtering by template type to refine results may be useful to Veterans; we should consider exploring this in future versions of the Learning Center.
+- Filtering by template type to refine results may be useful to Veterans; we should consider exploring this in future versions of the learning center.
 
-### People browsed links rather than use search.
+### People browsed Articles by Topic links rather than use search.
 
-We gave people 3 opportunities to find information throughout the session, and across all sessions, people returned to the learning center homepage `Articles by Topic` section almost every time. 5 of 8 people didn't mention the search functionality at all until prompted at the end of the session.
+We asked people  to find information 3 times, and across all sessions, people returned to the learning center homepage `Articles by Topic` section almost every time. 5 of 8 people didn't mention or try to use the search functionality at all until prompted at the end of the session.
 
 - 4 people were confident they'd find the information through the topics section if they could click. 
 - 3 said they would first look under topics, and only use search if they didn't find what they were looking for there.
@@ -207,17 +207,19 @@ We gave people 3 opportunities to find information throughout the session, and a
 
 - The organization of the Articles by Topic section resonated with Veterans, and was perceived as a comprehensive source of information.
 - People skipped over the h1 and intro text; it's possible that most ignored the search functionality because it got lumped into the content that remained static on every page.
-- Because the tasks weren't search focused, and the prototype wasn't wired for search, the study didn't thoroughly evaluate the learning center search design. We should retest search functionality in a live environment or with a more robust prototype to more accurately evaluate people's search behaviors and expectations.
+- Because the tasks weren't search focused, and the prototype wasn't wired for search, the study didn't thoroughly evaluate the learning center search design. We should retest search functionality in a live environment to better evaluate people's search behaviors and expectations.
 
-### People understood the search functionality, but the various search options caused confusion for some.
+### People understood the search functionality, but the various search options caused some confusion.
 
-The search function [in our prototype](https://vsateams.invisionapp.com/share/94YERLV2XHY) had two radio buttons above the input: `Search learning center` and `Search VA.gov `. The `Search Learning Center` input was selected. The input was not clickable and people had to talk through what they would do to provide feedback.
+The search function had two radio buttons above the input: `Search learning center` and `Search VA.gov `. The `Search learning center` input was selected. The input was not clickable and people had to talk through what they would do to provide feedback.
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/images/search.png)
 
 Everyone understood that the search functionality was keyword based, and expected the `search learning center` radio option would search within the learning center. 
 
-There was less clarity on what would happen if you changed the radio option to `search VA.gov` . 7 of 8 participants expected that it would conduct a broader search beyond the learning center content (like global site search), but the type of content returned in that broader search varied across participants. 
+They were less confident about what would happen if they changed the radio option to `search VA.gov` . 7 of 8 participants expected it to conduct a broader search beyond the learning center content (like global site search), but the type of content returned in that broader search varied across participants. 
 
-- 4 people's expectations aligned with the intended design. It is not clear whether or not they expected to be taken out of the learning center upon conducting the search.
+- 4 people's expectations aligned with the intended design. It wasn't clear whether or not they expected to be taken out of the learning center upon conducting the search.
 
 - 3 people expected they could find **any** benefit related information with `Search learning center` selected.
 
@@ -227,8 +229,8 @@ There was less clarity on what would happen if you changed the radio option to `
 
 **Implications**
 
-- The `Search Learning Center` option is clear to people. `Search VA.gov` is less clear to people, and having both options requires more cognitive load for people to determine which is the right to use for their query.
-- We should retest search functionality in a live environment or with a more robust prototype to more accurately evaluate the value of having two search options.
+- The `Search learning center` option is clear to people. `Search VA.gov` is less clear, and having both options requires more cognitive load for people to determine which is the right to use for their query.
+- We should retest search functionality in a live environment to  accurately evaluate the UX of two search options.
 
 ### Most people expect to find a link to the learning center prominently featured on VA.gov.
 
@@ -244,34 +246,37 @@ Veterans would expect to find a link to a product link the learning center promi
 
 ## Additional Insights
 
-### **Multiple participants did not think the titles on the [Agent Orange hub page](https://vsateams.invisionapp.com/share/FCYB790TDRM) were clickable.**
+### **Multiple participants did not think the titles on the hub page were clickable.**
 
 The blue text wasn't sufficient enough to signify to them that the headings were interactive. All of the participants who struggled with this identified as having cognitive or functional impairments.
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/images/hub-headings.png)
 
 **Implication**
 
 We should consider updating this pattern to make it more clear that the headings are interactive, or move the link to the description under the heading.
 
-### 4 of 8 participants didn't think the name "Learning Center" felt right after reviewing the prototype.
+### The name "learning center" resonated with half of the participants after reviewing the prototype.
 
-Before seeing the prototype, participants had varied expectations about what would be contained in the learning center. 4 of 8 people said they thought it would be benefit-focused. Expectations from the other half ranged from educational content such as "how to use the VA website" to a personalized center where they could learn everything they had established with the VA (e.g. claim status and prescriptions).
+Before seeing the prototype, participants had varied expectations about what would be contained in the learning center. 4 of 8 people said they thought it would be benefit-focused. Expectations from the other half ranged from educational content such as "how to use the VA website" to a personalized center where they could "learn about" everything they had established with the VA (e.g. status of their claims and prescription refills).
 
-After seeing the prototype, half of the participants felt strongly that the name wasn't appropriate. A participant with TBI and PTSD stated:
+After seeing the prototype, half of the participants felt that the name "learning center" wasn't appropriate. A participant with TBI and PTSD stated:
 
-> The thing will be getting Veterans that deal with short term [memory loss] like I do. You need something that drives us *toward* the learning center, because I wouldn't automatically go there to find these answers. "Learning Center", we're thinking what kind of baloney is this? How's this going to answer my question?
+> The thing will be getting Veterans that deal with short term [memory loss] like I do. You need something that drives us *toward* the learning center, because I wouldn't automatically go there to find these answers. "Learning center"?  We're thinking, 'What kind of baloney is this'? How's this going to answer my question?'.
 
-Another participant who expected to find all benefit information in the learning center commented:
+Another participant who expected to find benefit information in the learning center felt the name didn't fit because they were there to *find* rather than *learn about* something:
 
 > "If I'm dealing with Agent Orange, and I come here - I don't need to **learn** about it. I live with it every day. I need to figure out how to file a claim"
 
-**Implication**
+**Implications**
 
-- We should explore and test other names for this concept.
-- We'll need to ensure we are clearly setting the expectations about the kind of information available in the learning center, either through the name of the center itself, or the contextual language driving people to it. 
+- We should explore and test other names that would set better expectations for the content contained in the learning center.
+
+- It will also be critical that the contextual language driving people to the learning center sets the right expectations. 
 
 ### **Content specific feedback**
 
-- About half of the participants expected to find information about changing their address under the topic area for the benefits they have.
+- About half of the participants expected to find information about changing their address under the topic area for the benefits they have, rather than under VA account and profile.
 
 - Language like "you **may** be eligible" is frustrating to some Veterans. 
 
@@ -279,35 +284,42 @@ Another participant who expected to find all benefit information in the learning
 
 - Multiple Veterans were unsure about what calling 311 does; recommend adding more context around this on the website.
 
-- Multiple Veterans expected to see information about the burn pit registry on the Exposure to chemicals and hazardous materials page.
+- Multiple Veterans expected to see information about the burn pit registry on the `Exposure to chemicals and hazardous materials` page.
 
-- Multiple participants wanted to see information for a specific Veteran group. Specific groups, many related to Veterans in distress, that were individually mentioned in the sessions (but not by multiple people) are listed below. If a particular Veteran group doesn't seem themselves listed in a long list of audiences, they may feel frustrated, angry, or confused as to why they're left out.
+- Multiple participants wanted to see information for a specific Veteran group. These are specific groups mentioned by individuals: 
 
-  - Suicide information for Veterans at risk, and family members who thought a Veteran in their family may be at risk
+  - Veterans at risk for suicide, and their family members.
 
     > "If you are experiencing depression or something, that should be a top link."
 
-  - Resources for homeless Veterans
+  - Homeless Veterans, so they can find resources and learn about [stand down events](https://www.va.gov/homeless/events.asp).
 
-  - Help for Veterans who are overseas
+  - Veterans who are overseas, so they can get assistance.
 
-  - PTSD assistance
+  - Veterans with PTSD, so they can get assistance.
 
-  - Veterans who use service animals
+  - Veterans who use service animals. 2 participants stated this information is very hard to find online.
 
- 
+- Multiple participants were happy to see an audience type that they identified with.  One commented immediately:
+
+  > "I like that I see Women's Veterans here, because there's never anything for us, ever."
+
+  If a particular Veteran group doesn't seem themselves listed in a long list of audiences, they may feel frustrated, angry, or confused as to why they're left out.
 
 ## Next Steps
 
 - TBD with team
+- [Card sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort-research-plan.md) to further evaluate audience and topic tags
+- Mobile iterations
 
 ### Future Research Studies
 
-- Evaluating search and navigability was limited in this study since we were evaluating a prototype and had to pose specific scenarios that people may not go through naturally, on their own. Once we have the learning center available in a live environment, we should:
-  - Re-evaluate the ease of navigating between the learning center and benefit hub, and 
-  - Include tasks that encourage users to use the learning center search functionality so we can confirm that it is easy to use, and more accurately evaluate how they understand the difference between LC search and site search.
+- Evaluating search and navigability was limited in this study since we were evaluating a prototype and had to pose specific scenarios. Once we have a live environment, we should:
+  - Re-evaluate the ease of navigating between the learning center and benefit hub
+  - Include tasks that encourage users to use the learning center search functionality so we evaluate the ease-of-use and cognitive load needed to search when there are radio buttons.
+  - Include tasks to allow us to evaluate how they understand the difference between learning center search and global site search.
 - We weren't able to recruit participants under 34 for this study. To get a better understanding of the needs of younger Veterans, future studies should include the full spectrum of ages in our participant pool.
-- To ensure we are meeting the needs of Veterans using non-laptop or desktop devices, we should test mobile versions of our designs. Once we have a product on staging (since prototyping tools are typically not great for testing with assistive tech), we should ensure to include users using assistive technology in research studies.
+- To ensure we are meeting the needs of Veterans using non-laptop or desktop devices, we should test mobile versions of our designs. Once we have a product in a live environment, we should ensure to include users using mobile and assistive technology in research studies.
 
 ## Appendix
 
