@@ -35,12 +35,12 @@ Eligibility is based on
 - Expeditionary medal
 
 ### How do services get accessed?
-● Are Veterans assigned a Vet Center? Can they choose?
-● Can they have relationships with multiple Vet Centers?
-● Are services underutilized?
+- Are Veterans assigned a Vet Center? Can they choose?
+- Can they have relationships with multiple Vet Centers?
+- Are services underutilized?
 
 ### Data Collection
-● Who does this work?
-● How is it done today? i.e. what does the process look like?
-● How often is this updated?
-● What tech tools and applications are used by Vet Center employees?
+- Who does this work?
+- How is it done today? i.e. what does the process look like?
+- How often is this updated?
+- What tech tools and applications are used by Vet Center employees?
