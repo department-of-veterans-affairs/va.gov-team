@@ -88,7 +88,7 @@ We'd like to have 5 fulfilled sessions - please recruit 10 veterans to make sure
 
 -   At least one person who uses assistive technology (AT); screenreader, specialized keyboards, switches, and hearing aids are examples of AT that may be generally included
 
-* What is your recruitment strategy?* 
+*What is your recruitment strategy?* 
 
 We'll leverage Perigean to recruit participants.
 
