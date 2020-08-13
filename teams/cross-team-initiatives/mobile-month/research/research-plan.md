@@ -104,7 +104,7 @@ August 14 - we will be testing the current site so will not have any prepared ar
 
 *Length of Sessions:* 
 
-45 minutes
+45 minutes, with 15 minutes in between each session
 
 *Pilot:* 
 
