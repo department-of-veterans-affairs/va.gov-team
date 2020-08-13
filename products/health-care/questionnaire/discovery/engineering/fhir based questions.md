@@ -18,6 +18,8 @@ The ruby FHIR client is usefull for exploring FHIR types of resources such as Qu
 - A FHIR client is a high level approach that is able to create objects by having only access to the FHIR server. You don't need to figure out all the endpoints, it does that for you. It can be set up to use any sandbox for experimentation as shown here.
 
 ```
+# public sandbox
+url = 'https://api.logicahealth.org/STU301withSynthea/open'
 client = FHIR::Client.new(url)
 patient = client.read(FHIR::Patient, "SMART-1272431").resource
 puts patient.name.inspect
