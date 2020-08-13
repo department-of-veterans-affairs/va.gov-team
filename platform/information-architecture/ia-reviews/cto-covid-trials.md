@@ -22,8 +22,8 @@
 
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
-Research static page | www.va.gov/coronavirus-research/ | Home > Participating in Coronavirus research at VA | 
-Sign up page | www.va.gov/coronavirus-research/volunteer/ | Home > Participating in Coronavirus research at VA | 
+Research static page | www.va.gov/coronavirus-research/ | Home > Participating in Coronavirus research at VA | Need to review breadcrumb.
+Sign up page | www.va.gov/coronavirus-research/volunteer/ | Home > Participating in Coronavirus research at VA > Sign up to volunteer | noindex?  Need to review breadcrumb. 
 
 
 <hr>
@@ -34,7 +34,7 @@ Sign up page | www.va.gov/coronavirus-research/volunteer/ | Home > Participating
 Priority | Placement | Link to | Description
 --- | --- | --- | ---
 tbd | [Coronavirus FAQ page](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/) | www.va.gov/coronavirus-research/ | 
-
+tbd | [Office of Research & Development COVID page](https://www.research.va.gov/covid-19.cfm) | | Need to discuss relationship to this page.  Will sign up be for all of this research or just vaccine?
 
 
 
