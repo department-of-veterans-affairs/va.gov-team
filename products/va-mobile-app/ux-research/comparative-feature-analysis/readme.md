@@ -13,15 +13,16 @@ We undertook an audit of native mobile apps of all kinds to answer the following
 | **VA feature applicability** | Combination of auth + unauth features | 
 |:---|:---|
 | Apps we looked at | Chase Bank, The New York Times | 
-| What we learned | In the **Chase** app, since a majority of features are sensitive things like bank balances, the home screen is biometric sign in & users need to log in even to use Location Finder. In the **NYT app**, the aunauth state affords readers mostly the same experience. Because being signed in isn’t as central to the UX, things aren’t hidden behind it. Users hit a paywall only when they've consumed a certain amount of articles. | 
+| What we learned | In the **Chase** app, since a majority of features are sensitive things like bank balances, the home screen is biometric sign in & users need to log in even to use features that don't require auth, like location finder. In the **NYT app**, the aunauth state affords readers mostly the same experience. Because being signed in isn’t as central to the UX, things aren’t hidden behind it. Users hit a paywall only when they've consumed a certain amount of articles. | 
 | Takeaway | Because our app is focused on Veterans who are already engaged with VA and our features are focused on delivering them personalized information, we should require authentication to use the app while making VCL and Facility Locator accessible from the sign in page. |
 
 ![Image GruhbHub and Doordash](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/comparative-feature-analysis/screenshots/Tracking-Status.png)
 | **VA feature applicability** | Tracking a status | 
 |:---|:---|
-| Apps we looked at | GrubHub, Door Dash | 
-| What we learned | Both apps prioritize a visual display of what progress need to happen for the task to be completed, include a title of the current step in the process, provide an ETA for task completion, and an action button to get in contact with a person who can help. | 
-| Takeaway | We should maintain the experience of VA.gov for the app of offering three tabs of information: Status, Files, and Details. We should display Status first and include a clear visual element.  |
+| Apps we looked at | GrubHub, Door Dash, Amazon | 
+| What we learned | Food delivery apps prioritize a visual display of what progress need to happen for the task to be completed, include a title of the current step in the process, provide an ETA for task completion, and an action button to get in contact with a person who can help. | 
+| Takeaway | We have most of the information we need in the CST design already. We should maintain the experience of VA.gov for the app of offering three tabs of information: Status, Files, and Details. We should display Status first and include a clear visual element on that tab.  |
+| Other | The [status tracking audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/April-2020-dicovery-concept-usability/Comparative%20analysis_%20Status%20tracking.pdf) performed by the Claim Status Tool team is helpful to review as well.  |
 
 ![Image Documents 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/comparative-feature-analysis/screenshots/Documents-To-Consumer.png)
 | **VA feature applicability** | Documents (app to user) | 
