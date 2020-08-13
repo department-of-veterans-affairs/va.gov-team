@@ -96,7 +96,7 @@ _Note: ~credentials should be stored in sensitive repos only~ All CMS content li
 15.	https://prod.cms.va.gov/find-forms/about-form-22-5490 \[[5978](http://preview-prod.vfs.va.gov/preview?nodeId=5978)] (in-between)
 16.	https://prod.cms.va.gov/find-forms/about-form-26-1880 \[[6016](http://preview-prod.vfs.va.gov/preview?nodeId=6016)] (in-between)
 17.	https://prod.cms.va.gov/find-forms/about-form-10-2850c \[[6110](http://preview-prod.vfs.va.gov/preview?nodeId=6110)] (in-between)
-18.	https://prod.cms.va.gov/find-forms/about-form-21-4142 \[[[5967](http://preview-prod.vfs.va.gov/preview?nodeId=5967)] (in-between)
+18.	https://prod.cms.va.gov/find-forms/about-form-21-4142 \[[5967](http://preview-prod.vfs.va.gov/preview?nodeId=5967)] (in-between)
 19.	https://prod.cms.va.gov/find-forms/about-form-21p-0969 \[[5779](http://preview-prod.vfs.va.gov/preview?nodeId=5779)] (B)
 20.	https://prod.cms.va.gov/find-forms/about-form-21p-534ez \[[5820](http://preview-prod.vfs.va.gov/preview?nodeId=5820)] (B)
 21.	https://prod.cms.va.gov/find-forms/about-form-10-10ez-pdf \[[5776](http://preview-prod.vfs.va.gov/preview?nodeId=5776)] (B)
