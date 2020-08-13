@@ -1,12 +1,14 @@
 
-```
-@lifelines_question = 
-```
+The ruby FHIR client is usefull for exploring FHIR types of resources such as Questionnaires and QuestionnairResponses. It could be used initially to help create Question types of resources in JSON and validating them etc
 
 <details>
   <summary>JSON FHIR definition</summary>
   
 ```
+require 'fhir_client'
+
+@lifelines_question = 
+
 # https://www.hl7.org/fhir/questionnaire-example-f201-lifelines.json.html
 
 {
@@ -83,3 +85,161 @@
 }
 ```
 </details>
+
+Using the JSON FHIR defition above and the FHIR Ruby Client, we can build an object from the JSON and examine it
+
+We can see that the Question has 3 items, we inspect the first one
+```
+@ques1.item.length
+=> 3
+irb(main):032:0> @ques1.item[0]
+=> #<FHIR::Questionnaire::Item:0x00007fddc879fb00 @id=nil, @extension=[], @modifierExtension=[], @linkId="1", @definition=nil, @code=[], @prefix=nil, @text="Do you have allergies?", @type="boolean", @enableWhen=[], @enableBehavior=nil, @required=nil, @repeats=nil, @readOnly=nil, @maxLength=nil, @answerValueSet=nil, @answerOption=[], @initial=[], @item=[]>
+```
+
+We see that the first item is a question, the others may have sub items
+```
+@ques1.item.map(&:text)
+=> ["Do you have allergies?", "General questions", "Intoxications"]
+```
+
+We see that the second item has a series of 4 questions under it
+```
+@ques1.item[1].item.map(&:text)
+=> ["What is your gender?", "What is your date of birth?", "What is your country of birth?", "What is your marital status?"]
+```
+
+Show JSON for Question
+```
+puts @ques1.item.map(&:to_json)
+{
+  "linkId": "1",
+  "text": "Do you have allergies?",
+  "type": "boolean"
+}
+{
+  "linkId": "2",
+  "text": "General questions",
+  "type": "group",
+  "item": [
+    {
+      "linkId": "2.1",
+      "text": "What is your gender?",
+      "type": "string"
+    },
+    {
+      "linkId": "2.2",
+      "text": "What is your date of birth?",
+      "type": "date"
+    },
+    {
+      "linkId": "2.3",
+      "text": "What is your country of birth?",
+      "type": "string"
+    },
+    {
+      "linkId": "2.4",
+      "text": "What is your marital status?",
+      "type": "string"
+    }
+  ]
+}
+{
+  "linkId": "3",
+  "text": "Intoxications",
+  "type": "group",
+  "item": [
+    {
+      "linkId": "3.1",
+      "text": "Do you smoke?",
+      "type": "boolean"
+    },
+    {
+      "linkId": "3.2",
+      "text": "Do you drink alchohol?",
+      "type": "boolean"
+    }
+  ]
+}
+```
+
+
+We create another Questionnaire intending to use as a new sub question
+```
+@subq = FHIR::Questionnaire.new({
+  "resourceType": "Questionnaire",
+  "id": "f2012",
+  "item": [
+    {
+      "linkId": 4,
+      "text": "Do you have high blood pressue ?",
+      "type": "boolean"
+    }
+  ]
+})  
+```
+
+Append the subquestion and print the new Questionnaire
+```
+@ques1.item << @subq.item[0]
+
+puts @ques1.item.map(&:to_json)
+{
+  "linkId": "1",
+  "text": "Do you have allergies?",
+  "type": "boolean"
+}
+{
+  "linkId": "2",
+  "text": "General questions",
+  "type": "group",
+  "item": [
+    {
+      "linkId": "2.1",
+      "text": "What is your gender?",
+      "type": "string"
+    },
+    {
+      "linkId": "2.2",
+      "text": "What is your date of birth?",
+      "type": "date"
+    },
+    {
+      "linkId": "2.3",
+      "text": "What is your country of birth?",
+      "type": "string"
+    },
+    {
+      "linkId": "2.4",
+      "text": "What is your marital status?",
+      "type": "string"
+    }
+  ]
+}
+{
+  "linkId": "3",
+  "text": "Intoxications",
+  "type": "group",
+  "item": [
+    {
+      "linkId": "3.1",
+      "text": "Do you smoke?",
+      "type": "boolean"
+    },
+    {
+      "linkId": "3.2",
+      "text": "Do you drink alchohol?",
+      "type": "boolean"
+    }
+  ]
+}
+{
+  "linkId": 4,
+  "text": "Do you have high blood pressue ?",
+  "type": "boolean"
+}
+
+```
+
+
+
+
