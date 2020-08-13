@@ -26,7 +26,7 @@ Set a date and walk back the various steps.  This achieves a few things:
   - Build PDF from dummy data [#12463](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12463) ✔
 - Start Flipper component for [landing page](https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/)
 - Develop UAT/Release Plan
-- Create Controller + Model to connect FE + BE
+- Create Controller + Model to connect FE + BE [#12473](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12473)
 ### Sprint 29
 `August 26 - September 8`
 - Finish Flipper Component
