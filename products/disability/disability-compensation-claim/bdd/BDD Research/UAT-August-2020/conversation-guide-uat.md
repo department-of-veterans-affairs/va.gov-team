@@ -47,14 +47,15 @@ OK, please share your screen, and then we will get started.
   - [ ] **UAT TASK:** Confirm when they login, they are presented with the first page of the BDD flow.
 - Now we would like to go ahead and help guide you through entering in some of your personal information and validating that the information we already know about you is correct.
   - [ ] **UAT TASK:** Confirm their personal data is correct.
-  - [ ] **UAT TASK:** Confirm their miltary history is correct. (Or fill in Military history). Add another service period.
+  - [ ] **UAT TASK:** Input your miltary history is correct. Add another service period.
+  - [ ] **UAT TASK:** Input: Separation location. 
   - [ ] **UAT TASK:** Choose type of claim. A New Condition. + One or more of my conditions have gotten worse. 
   - [ ] **UAT TASK:** Choose Did you serve in a combat zone after Sept. 11, 2001? Yes. Add: Reserves and National Guard Info.
   - [ ] **UAT TASK:** Choose: Are you currently activated on federal orders in the Reserves or the National Guard? Add dates. 
   - [ ] **UAT TASK:** Choose Rated Disbilities. 
   - [ ] **UAT TASK:** Choose: Do you have any new conditions you want to add to your claim? Yes. Add: Two or more Disabilities. Check: What if I don’t know the name of my condition? link. 
   - [ ] **UAT TASK:** Choose: What caused this service-connected disability? Check one by one, add description. (for all disabilities). 
-  - [ ] **UAT TASK:** Choose: Have you ever been a POW? Add: dates. Choose: Which of your new conditions was caused or affected by your POW experience?
+  - [ ] **UAT TASK:** Choose: Have you ever been a POW? Yes or No. Add: dates. Choose: Which of your new conditions was caused or affected by your POW experience?
   - [ ] **UAT TASK:** Choose: Would you like to learn more about additional benefits? Yes. Choose: Do you need help buying or modifying your home? Yes. Choose: Do you need help buying or modifying your car? Yes. Choose: Have you ever been granted an automobile allowance? No.  
   - [ ] **UAT TASK:** Choose: Are you confined to your home or need help with everyday activities? Yes. 
   - [ ] **UAT TASK:** Choose: Does your disability prevent you from holding down a job that you could otherwise do? (This doesn’t include being retired.) No.
@@ -69,12 +70,14 @@ OK, please share your screen, and then we will get started.
   - [ ] **UAT TASK:** Review Supporting Evidence. 
   - [ ] **UAT TASK:** Review Contect Information.
   - [ ] **UAT TASK:** Input: Bank Info (use 1-9 for Account and Routing number. Use Test for bank name. 
-  - [ ] **UAT TASK:** Choose: Are you homeless or at risk of becoming homeless? Im currently homeless. InpPlease describe your current living situation. Choose: Do you need to quickly leave your current living situation? Input: Please provide the name of a person or place we can call if we need to get in touch with you. 
-
-  - [ ] **UAT TASK:** 
-  - [ ] **UAT TASK:** 
-              
-  ** NEED MORE HERE CHRISTIAN **
+  - [ ] **UAT TASK:** Choose: Are you homeless or at risk of becoming homeless? No.
+  - [ ] **UAT TASK:** Choose: Are you terminally ill? No 
+  - [ ] **UAT TASK:** Choose: Are you currently a VA employee? No
+  - [ ] **UAT TASK:** Chose: Do you want to apply using the Fully Developed Claim program? No.
+  - [ ] **UAT TASK:** Review: Review Application. Accept privacy Policy. 
+  - [ ] **UAT TASK:** Review: Review Submission Page
+           
+6 users 
 
 ## Post-Task Interview - 1 minutes
 
