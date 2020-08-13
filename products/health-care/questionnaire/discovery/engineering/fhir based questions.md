@@ -1,5 +1,18 @@
 
-The ruby FHIR client is usefull for exploring FHIR types of resources such as Questionnaires and QuestionnairResponses. It could be used initially to help create Question types of resources in JSON and validating them etc
+The ruby FHIR client is usefull for exploring FHIR types of resources such as Questionnaires and QuestionnairResponses. It could be used initially to help create Question types of resources in JSON and validating them etc.
+
+#### Downsides of using a FHIR client
+
+- Everything in vets-api seems to be based on services that you create using a rails generator. So doing something different may possibly create the impression among some that it's novel or something else to figure out. 
+- It's something that is supported externally since it's a Ruby GEM
+- The VAOS team said that to use a FHIR Client the client you have to deserialize to create the object and then serialize it again when the services are mostly pass thru with some data normalization.
+
+#### Upsides of using a FHIR Client
+
+- A FHIR client is a high level approach that is able to create objects by having only access to the FHIR server. You don't need to figure out all the endpoints, it does that for you.
+```
+client = FHIR::Client.new(url)
+```
 
 <details>
   <summary>JSON FHIR definition</summary>
