@@ -23,8 +23,10 @@ Set a date and walk back the various steps.  This achieves a few things:
   - Build PDF from dummy data
 - Start Flipper component for [landing page](https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/)
 - Develop UAT/Release Plan
+- Create Controller + Model to connect FE + BE
 ### Sprint 29 | August 26 - September 8
 - Finish Flipper Component
+- Take url from BE to finish FE + BE connection
 - E2E tests
 - Develop Research Plan/Conversation Guide for usability session
 - [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review) 🌀
@@ -38,7 +40,7 @@ Set a date and walk back the various steps.  This achieves a few things:
 - Create eBenefits user redirect messaging
 - Coordinate page redirects
 - Code hardening/bug fixes
-  
+--------------------------------------------------------
   ### Sprint 31 | September 23 - October 6
 - Deprecate feature
 - Optimization/ongoing bug fixes
