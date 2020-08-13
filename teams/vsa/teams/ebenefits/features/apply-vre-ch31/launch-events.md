@@ -13,6 +13,7 @@ Set a date and walk back the various steps.  This achieves a few things:
 **Number of days:** 47   
 **Number of sprints:** 3    
 ✔ - in progress/done
+🌀 - Collaboration Cycle
 
 ## Events
 ### Sprint 28
