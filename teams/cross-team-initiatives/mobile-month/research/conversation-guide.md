@@ -60,7 +60,7 @@ Before we start, a few things I want to mention:
 ## Second Task: Form - 8 minutes
 
 - You've decided to apply for the GI bill and other related education benefits. What would you do?
-- If they can't find it, lead them here: https://www.va.gov/education/how-to-apply/
+- If they can't find it, lead them here: https://www.va.gov/education/how-to-apply/ (they don't have to go through the whole thing)
 
 ### Things to watch for:
 
