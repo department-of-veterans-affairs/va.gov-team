@@ -47,14 +47,20 @@ OK, please share your screen, and then we will get started.
   - [ ] **UAT TASK:** Confirm when they login, they are presented with the first page of the BDD flow.
 - Now we would like to go ahead and help guide you through entering in some of your personal information and validating that the information we already know about you is correct.
   - [ ] **UAT TASK:** Confirm their personal data is correct.
-  - [ ] **UAT TASK:** Confirm their miltary history is correct.
-  - [ ] **UAT TASK:**
+  - [ ] **UAT TASK:** Confirm their miltary history is correct. (Or fill in Military history). Add another service period.
+  - [ ] **UAT TASK:** Choose type of claim. A New Condition. + One or more of my conditions have gotten worse. 
+  - [ ] **UAT TASK:** Choose Did you serve in a combat zone after Sept. 11, 2001? Yes. Add: Reserves and National Guard Info.
+  - [ ] **UAT TASK:** Choose: Are you currently activated on federal orders in the Reserves or the National Guard? Add dates. 
+  - [ ] **UAT TASK:** Choose Rated Disbilities. 
+  - [ ] **UAT TASK:** Choose: Do you have any new conditions you want to add to your claim? Yes. Add: Two or more Disabilities. Check: What if I don’t know the name of my condition? link. 
+  - [ ] **UAT TASK:** Choose: What caused this service-connected disability? Check one by one, add description. (for all disabilities). 
+  - [ ] **UAT TASK:** Choose: Have you ever been a POW? Add: dates. Choose: Which of your new conditions was caused or affected by your POW experience?
+  - [ ] **UAT TASK:** Choose: Would you like to learn more about additional benefits? Yes. Choose: Do you need help buying or modifying your home? Yes. Choose: Do you need help buying or modifying your car? Yes. Choose: Have you ever been granted an automobile allowance? Yes
+
+
+
   - [ ] **UAT TASK:** 
-  - [ ] **UAT TASK:**
-  - [ ] **UAT TASK:**  
-  - [ ] **UAT TASK:**
   - [ ] **UAT TASK:** 
-  
   ** NEED MORE HERE CHRISTIAN **
 
 ## Post-Task Interview - 1 minutes
