@@ -4,21 +4,27 @@
 August 2020
 
 ## Goal
-Goal of research and
-- Link to research plan
-- Link to convo guide
+The purpose of this study was to gain Veteran input on which healthcare questionnaires to prioritize for our team. 
+
+### Research questions and answers
+**What topics/questions would Veterans find useful to answer ahead of an appointment?**
+- Answer
+
+**What topics/questions do Veterans find most beneficial to their healthcare experience?**
+
+**How do Veteran sorted priorities align with what we have learned from clinicians?**
+
 
 ## Methodology
 - Link to mockups
 - Link to card sort findings
 
 ## High level findings
-
-- Finding
 - 7 out of 8 Veterans sorted the "Top concerns/goal for visit" card into the "fill out ahead of time" category.
 - There are XX main Veteran assumptions for filling out forms ahead of appointments. 
-- Veterans used the "unsure/not applicable" category in XX different ways.
+- Veterans used the "unsure/not applicable" category when questions didn't apply to them or when they assumed the VA would already have the information.
 - Veterans see a benefit in completing forms online before their appointments.
+- Veterans assume that the VA has their background information centralized.
 
 ## Details of findings
 
@@ -31,7 +37,8 @@ Goal of research and
   - Veteran bio
  
 - Explore a logged-in medical profile experience
-  - Include
+  - How might we centralize all known Veteran health information?
+  - Editable information that gets sent to provider
   
 - Consider time-sensitive experiences for sensitive questions
   - Day of updates for suicide/depression
