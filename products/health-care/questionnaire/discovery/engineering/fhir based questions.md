@@ -5,11 +5,10 @@ The ruby FHIR client is usefull for exploring FHIR types of resources such as Qu
 
 - The client supports OAuth2
 - There is some documentation that says the method set_oauth2_auth actually sets it to use open Id connect. This looks like an important layer for smart fhir and the same authorization that lighthouse uses. https://www.rubydoc.info/gems/fhir_client/FHIR/Client#set_oauth2_auth-instance_method Some details of smart on fhir and open ID connect are mentioned here https://smilecdr.com/docs/security/smart_on_fhir_introduction.html. 
-- It may be that the client helps to make authorization transparent but it is also possible that it means a login sequence occurs when we don't want that but our own login oauth sequence
-
 
 #### Downsides of using a FHIR client
 
+- It may be that the client helps to make authorization transparent but it is also possible that it means a login sequence occurs when we don't want that but our own login oauth sequence
 - Everything in vets-api seems to be based on services that you create using a rails generator. So doing something different may possibly create the impression among some that it's novel or something else to figure out. 
 - It's something that is supported externally since it's a Ruby GEM
 - The VAOS team said that to use a FHIR Client the client you have to deserialize to create the object and then serialize it again when the services are mostly pass thru with some data normalization.
