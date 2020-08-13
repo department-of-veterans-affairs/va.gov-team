@@ -21,7 +21,8 @@ Link to product outline: [Form Detail Landing Page product outline](https://gith
 * **Instructions to access in ~Staging~ on prod.cms.va.gov** (_Note: ~credentials should be stored in sensitive repos only~ All CMS content lives on prod and can be viewed as unpublished previews_)
   - You must be on VA network to access the CMS preview page: http://preview-prod.vfs.va.gov/preview?nodeId=5891
 
-
+* **Link to TestRail Test Case**
+  - C858 https://dsvavsp.testrail.io/index.php?/cases/view/858 \[Request TR login credentials from @mickinsahni]
 
 ## Use Case B 
 ### Maximum custom form data
@@ -41,7 +42,10 @@ Link to product outline: [Form Detail Landing Page product outline](https://gith
 * **Instructions to access in ~Staging~ on prod.cms.va.gov** 
 _Note: ~credentials should be stored in sensitive repos only~ All CMS content lives on prod and can be viewed as unpublished previews_
   - You must be on VA network to access the CMS preview page: http://preview-prod.vfs.va.gov/preview?nodeId=5776  <--This form page includes all the custom data fields. 
-  
+
+* **Link to TestRail Test Case**
+  - C859 https://dsvavsp.testrail.io/index.php?/cases/view/859 \[Request TR login credentials from @mickinsahni]
+
 ## Use Case C
 ### No custom form data
 
@@ -55,6 +59,9 @@ _Note: ~credentials should be stored in sensitive repos only~ All CMS content li
 * **Instructions to access in ~Staging~ on prod.cms.va.gov** (_Note: ~credentials should be stored in sensitive repos only~ All CMS content lives on prod and can be viewed as unpublished previews_)
   - You must be on VA network to access the CMS preview page: 
   
+* **Link to TestRail Test Case** (in case we do find any examples for this edge case)
+  - C909 https://dsvavsp.testrail.io/index.php?/cases/view/909 \[Request TR login credentials from @mickinsahni]
+
 
 ## Use Case D
 ### Invalid PDF Urls
@@ -63,11 +70,15 @@ _Note: ~credentials should be stored in sensitive repos only~ All CMS content li
   - When the url to download a particular form PDF is not available (e.g. 404), the form detail page should remain published. But, an error message on the form page indicates the form url is invalid.
 
 * **Link to designs:** 
-  - 
+  - Min-custom-data: https://vsateams.invisionapp.com/share/D8YF92DRX3V#/screens
+  - Max-custom-data: https://vsateams.invisionapp.com/share/G2YF5AJC845#/screens/428497810_detail_Page_With_All_Components_-_With_Error
 
 * **Instructions to access in ~Staging~ on prod.cms.va.gov** (_Note: ~credentials should be stored in sensitive repos only~ All CMS content lives on prod and can be viewed as unpublished previews_)
   - You must be on VA network to access the CMS preview page: 
-  
+    
+* **Link to TestRail Test Case** (in case we do find any examples for this edge case)
+  - C860 https://dsvavsp.testrail.io/index.php?/cases/view/860 \[Request TR login credentials from @mickinsahni]
+
 ## Use Case E
 ### Deleted Forms
 
@@ -79,6 +90,9 @@ _Note: ~credentials should be stored in sensitive repos only~ All CMS content li
 
 * **Instructions to access in ~Staging~ on prod.cms.va.gov** (_Note: ~credentials should be stored in sensitive repos only~ All CMS content lives on prod and can be viewed as unpublished previews_)
   - You must be on VA network to access the CMS preview page: 
+  
+* \[No TestRail test-case]
+  - This will be in the Search experience; out-of-scope for Details-Page QA.
 
 ## Batch 1 - top 40 forms for QA
 1.	https://prod.cms.va.gov/find-forms/about-form-21-4138 \[[preview-node 5966](http://preview-prod.vfs.va.gov/preview?nodeId=5966)] (Use Cases A)
