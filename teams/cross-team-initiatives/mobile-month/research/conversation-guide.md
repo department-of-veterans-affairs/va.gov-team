@@ -78,6 +78,7 @@ Before we look at the website, can you tell me a little about yourself? What par
 
 - How do they use our tool? what trips them up?
 - What are their expectations regarding the map and list views?
+- What do they think about geolocation? and popluting a full address? What would they do to change it?
 
 ## Fourth Task: Claims Status Tool - X minutes
 
