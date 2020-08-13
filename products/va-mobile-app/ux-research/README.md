@@ -32,6 +32,8 @@ To evaluate this bet, there are a series of exploration questions that we wil be
 ## Activites and Output
 | Activites                  | Output        |  
 | -------------              |-------------|
-|Heuristic Analysis | Gap Analysis
-Quant Analysis | Gap Analysis
-User Interviews | Love/Breakup Letter; Scenario Development
+| Heuristic Analysis | Gap Analysis |
+| Quant Analysis | Gap Analysis |
+| User Interviews | MVP feature set (Roadmap), high-fi interactive prototype |
+| SME interviews | Service Blueprint |
+| Comparative app audit | Findings fed into high-fi prototype and UI design |
