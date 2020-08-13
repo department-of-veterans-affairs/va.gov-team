@@ -9,12 +9,13 @@ How might we use the current Vet Center detail pages within the VA.gov Facility 
 ### Project Team
 * Product Owner: Dave Conlon
 * Product Manager: Michelle Middaugh
-* Designer: Aricka Lewis
+* Designer: Leyda Hughes
 
 ### Stakeholders
 * VA business owner: Jessica Schiefer
 * Stakeholders who will be involved or interviewed:
-  - Danielle Theirry (VA, taxonomy)
+  - Meg Peters (VA, taxonomy)
+  - Aptiv, 3rd party vendor
 
 ## DISCOVERY PLANNING
 
