@@ -1,14 +1,14 @@
 
+```
+@lifelines_question = 
+```
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>JSON FHIR definition</summary>
   
 ```
-require 'fhir_client'
-
 # https://www.hl7.org/fhir/questionnaire-example-f201-lifelines.json.html
 
-@lifelines_question = 
 {
   "resourceType": "Questionnaire",
   "id": "f201",
