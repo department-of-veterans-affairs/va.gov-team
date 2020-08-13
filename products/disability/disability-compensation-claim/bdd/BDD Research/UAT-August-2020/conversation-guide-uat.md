@@ -33,7 +33,7 @@ OK,let's get started.
   - If needed: I'm asking this question because sometimes the type of computer can affect your experience with the tools. Knowing which one you are using will help our developers make adjustments if needed. 
 7. Can you tell me which web browser you are using?
 8. Today we are going to observe you interacting with the new tools on your computer. Would you feel comfortable sharing your screen with me at this time?  
-  - If no: Explain this is necesary for testing. If they are still unwilling, end the call.
+  - If no: Explain this is necessary for testing. If they are still unwilling, end the call.
 
 **(Pass presenter rights).**
 
@@ -41,7 +41,7 @@ OK, please share your screen, and then we will get started.
 
 ## Testing BDD - 25-45 minutes
 
-- I'd like you to open a new tab in your browswer, and go to https://www.va.gov/disability/how-to-file-claim/ and scroll down to filing a claim.
+- I'd like you to open a new tab in your browser, and go to https://www.va.gov/disability/how-to-file-claim/ and scroll down to filing a claim.
   - [ ] **UAT TASK:** They are able to see the wizard and select information for BDD claim which includes NOT separating from service yet and a date within the expected time window.
   - [ ] **UAT TASK:** Confirm they can login.  
   - [ ] **UAT TASK:** Confirm when they login, they are presented with the first page of the BDD flow.
