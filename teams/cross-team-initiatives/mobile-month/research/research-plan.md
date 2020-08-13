@@ -125,7 +125,7 @@ Please list the people who will be serving in each role. Include the primary pho
 
 -   Participant(s) for pilot test: TBD
 
--   Note-takers: Liz Lantz, Shawna Hein, and members of VSA UX team (2 per session)
+-   Note-takers: Liz Lantz, Shawna Hein, and members of VSA UX team
 
 -   Observers: 
 
