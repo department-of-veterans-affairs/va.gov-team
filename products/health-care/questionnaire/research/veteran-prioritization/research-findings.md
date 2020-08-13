@@ -36,7 +36,7 @@ The purpose of this study was to gain Veteran input on which healthcare question
 
 ## Resources
 
-- Research plan
-- Conversation guide
-- Card sort results
-- Session analysis spreadsheet
+- [Research plan]()
+- [Conversation guide]()
+- [Card sort results](https://app.optimalworkshop.com/optimalsort/adhoc/j2b7m7j5/shared-results/x21jzunipdyzwymg6ge3538j7s1k7qs6)
+- [Session analysis spreadsheet]()
