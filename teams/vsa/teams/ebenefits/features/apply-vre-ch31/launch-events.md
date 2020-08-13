@@ -13,7 +13,8 @@ Set a date and walk back the various steps.  This achieves a few things:
 **Number of days:** 47  
 **Number of sprints:** 3   
 ## Events
-### Sprint 28 | August 12 - 25
+### Sprint 28
+August 12 - 25
 - Unit tests ✔
 - URL disentanglement ✔ then,
   - Internal 508/QA (Jason)
@@ -24,16 +25,19 @@ Set a date and walk back the various steps.  This achieves a few things:
 - Start Flipper component for [landing page](https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/)
 - Develop UAT/Release Plan
 - Create Controller + Model to connect FE + BE
-### Sprint 29 | August 26 - September 8
+### Sprint 29
+August 26 - September 8
 - Finish Flipper Component
 - Take url from BE to finish FE + BE connection
 - E2E tests
 - Develop Research Plan/Conversation Guide for usability session
+- Conduct Usability Sessions
 - [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review) 🌀
 - [Privacy and Security Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review) 🌀
 - PD: Stakeholder review/ demo
 - PD: Coordinate with VA comms
-### Sprint 30 | September 9 - 22
+### Sprint 30
+September 9 - 22
 - UAT/ UAT outcome PRs, email whitelist
 - Launch to n% of users 🚀
 - Launch to 100% of users
@@ -41,7 +45,8 @@ Set a date and walk back the various steps.  This achieves a few things:
 - Coordinate page redirects
 - Code hardening/bug fixes
 --------------------------------------------------------
-  ### Sprint 31 | September 23 - October 6
+  ### Sprint 31
+  September 23 - October 6
 - Deprecate feature
 - Optimization/ongoing bug fixes
 - [Post Launch Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#post-launch-check-in) 🌀
