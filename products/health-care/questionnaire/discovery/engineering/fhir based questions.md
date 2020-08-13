@@ -8,7 +8,8 @@ The ruby FHIR client is usefull for exploring FHIR types of resources such as Qu
 
 #### Downsides of using a FHIR client
 
-- It may be that the client helps to make authorization transparent but it is also possible that it means a login sequence occurs when we don't want that but our own login oauth sequence
+- It may be that the client helps to make authorization transparent but it is also possible that it means a login sequence occurs when we don't want that but our own login oauth sequence.
+- It may be that we have authorized access to a fhir based service but getting the client to work with that could be something different.
 - Everything in vets-api seems to be based on services that you create using a rails generator. So doing something different may possibly create the impression among some that it's novel or something else to figure out. 
 - It's something that is supported externally since it's a Ruby GEM
 - The VAOS team said that to use a FHIR Client the client you have to deserialize to create the object and then serialize it again when the services are mostly pass thru with some data normalization.
