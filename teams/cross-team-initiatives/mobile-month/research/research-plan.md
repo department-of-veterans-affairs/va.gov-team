@@ -98,7 +98,7 @@ When?
 *Timeline: What dates do you plan to do research?*
 
 * August 19th: 1:00 - 4:30pm Eastern
-* August 20th: noon - 8pm Eastern
+* August 20th: noon - 9pm Eastern
 
 *Prepare: When will the thing you are testing be ready?* 
 
