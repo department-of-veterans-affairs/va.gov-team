@@ -174,11 +174,11 @@ Most people didn't comment on the audience and topics tags on the search results
 
 - `Step by Step` was clear to all participants.
 - 3 participants were unsure about the difference between `Question and answer` vs `FAQs` .
-- 1 participant wanted to be able to filter results by template labels so they could find only checklists and step-by-step articles
+- 1 participant wanted to be able to filter results by template labels so they could find only checklists and step-by-step articles.
 
 **Implications**
 
-- Template labels are a helpful to Veterans looking at search results
+- Template labels are a helpful to Veterans looking at search results.
 - We should consider clarifying or combining `Question and answer` and `FAQs` .
 - Filtering by template type to refine results may be useful to Veterans; we should consider exploring this in future versions of the Learning Center.
 
@@ -305,4 +305,4 @@ Another participant who expected to find all benefit information in the learning
 
 - [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/participant-notes)
 
-- [Synthesis spreadsheet](
+- [Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-usability-synthesis.xlsx)
