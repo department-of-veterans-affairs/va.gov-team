@@ -20,6 +20,7 @@ We conducted 8 moderated card sort sessions with Veterans. After the sort, we sh
 - Veterans assume that the VA has their background information.
 
 ## Details of findings
+**7 out of 8 Veterans sorted the "Top concerns/goal for visit" card into the "fill out ahead of time" category.**
 
 > Quote
 
