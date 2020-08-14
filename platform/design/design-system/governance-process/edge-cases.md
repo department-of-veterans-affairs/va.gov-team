@@ -1,4 +1,6 @@
-In the majority of cases, this is the flow for a VFS team who wants to create a new pattern or adjust an existing pattern for their solution to better meet the needs of its users:
+# Handling Edge Cases in the Design System Governance Process
+
+Most of the time, this is the happy path flow for a VFS team who wants to create a new pattern or adjust an existing pattern for their solution to better meet the needs of their users:
 
 1. Draft new/adjusted pattern
 1. Get new/adjusted pattern approved through design reviews in the collaboration cycle
