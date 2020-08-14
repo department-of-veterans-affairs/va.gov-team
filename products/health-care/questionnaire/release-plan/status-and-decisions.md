@@ -14,6 +14,34 @@
 
 ## Status - August 14th, 2020
 
+## August 7th, 2020
+
+**Product**
+- [Visit Intro updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/visit-intro.md)
+- [Feature- Demographics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/demographics.mdhttps://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/demographics.mdhttps://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/demographics.md)
+ - [TOT Aug 11th](https://drive.google.com/file/d/1fpk_SdsZ_t-2L94p_ew2GVb93v1GKtzX/view?usp=sharing)
+ - [Sprint 27 Demo Slides](https://docs.google.com/presentation/d/1RjYUMhgYkSvWF2zLnnOvrk7K-M5pvwiNXb1PrG7Ou1g/edit#slide=id.g865f6d892d_0_0) 
+<img src="https://lh4.googleusercontent.com/qm5rd8x4R1NSjHBzVhOm0Mp1qUNWbILYNo5d4F0r9esYMGJoTvseUgOMu0-tDHKGoKKohb5TIUC9hN_NeDTuXeKoWMR4oCSI6PsupJwnCzELCpQlA2R5RHGB3fvj6BfbnyGMKm_o" width="300">
+
+**Research and Design**
+- Drafting research findings from card sort and mockup user testing. 
+
+**Engineering**
+- Sprint 27 demo of Health API's 
+- Research continues for FHIR/authentication gaps and API's for PGD data
+
+**Next Step/Followup**
+- Review research findings and mockups/prototype for visit intro release. 
+- Review drafts of all Visit into feature outlines 
+- Need decisions on Lighthouse Open Connect ID for vets .api
+	
+**Decisions:**
+- Aricka last week on the team is Aug. 21st. Shauna will be filling in until a new research/designer is identified. 
+
+**Blockers:**
+- No changes in status from previous week for blocker [Stakeholder Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
+- Need update from Lighthouse team FHIR gap with authentication Open Connect ID is not compatible with vets api [VA.gov and Lighhouse oAuth Strategies - #11669](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11669)
+
 ## Status - August 7th, 2020
 
 **Product**
