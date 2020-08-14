@@ -19,17 +19,23 @@ Understand our stakeholder's mental model of our service offering.
 
 ## Goals	
 **1. What product & team are you doing this research for?** for the platform product and team overall, ideally to inform things like our external-facing roadmap, newsletter, documentation site, and other external-facing communications.
+
 **2. Background:** we don't have a common way to name or categorize our platform offerings today. We have some scrapy external communications, like a newsletter, and documentation in github, and we do have a word list to start to get to a canonical place wrt terminology, but there's no common categorization or model for what our platform offers across all of our communications. 
+
 **3. Research questions:**
   - What is our customer's mental model around the services we offer them?
   - Where does our language for our offering not make sense?
   - What features/services are we missing?
+
 **4. Hypothesis:** if we know the customer's mental model of our service offering, we can more clearly and consistently help them navigate through this platform world by applying that IA/taxonomy/language/categorization across our communications and documentation.
 
 ## Method	
 **1.	What method of research are you planning?** Remote unmoderated hybrid card sort w/one pre-populated category for "I don't know what this is," and a temporary public Slack channel for ppl to communicate what features/services are missing from the list and/or ask questions.
+
 **2.	Why this method?** x 	
+
 **3.	Where are you planning to do your research?** announcing and sharing the Optimal Workshop link at Team of Teams, at a DEPO meeting, and in the appropriate Slack channels.
+
 **4.	What will you be testing?** the scrappy/draft list of platform features we have been putting together the past few months
 
 ## When? 	
