@@ -7,7 +7,7 @@
    - *On 2020-07-29 the conversation guide was updated to include more general questions in Section 0 about users mental model about scheduling appointments*
    - *On 2020-07-21 the conversation guide was update to reflect changes made to the Express Care prototype* 
 - [Session notes](../july-2020-user-research/session-notes)
-- [Research report - WIP]()
+- [Research report - WIP](../july-2020-user-research/2020-july-VAOSR-EC-research-report.md)
 - [Participants](#participants)
 - [Top takeaways](#top-takeaways)
 - [Background](#background)
