@@ -43,6 +43,11 @@ Opoprtunity: create visual separation between the two boxes to better illustrate
 ![](https://user-images.githubusercontent.com/54509359/89787071-82ca9500-dae2-11ea-964a-a6c98cda988e.png)
 
 ## Actionable Recommendations
+
+- Continue foward with Reason for visit questionnaire
+  - Prioritize questionnaires for topics that were sorted highly in the "fill out ahead of time" category
+  - E.g. Medications, Allergies 
+  
 - Consider pre-populating known background information on forms<br> Examples:
   - Family medical history
   - Tobacco and alcohol use
