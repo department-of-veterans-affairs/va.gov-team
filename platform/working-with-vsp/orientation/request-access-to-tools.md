@@ -18,12 +18,12 @@ To work on the Veteran-facing Services Platform, each team member needs to use t
 ## GitHub
 
 ### Getting access to the VA GitHub Organization
-1.  Work with your Program Manager and have them submit this [ticket](https://github.com/department-of-veterans-affairs/github-user-requests/issues/new?assignees=moschette%2C+AprilPrimous%2C+KennethC19%2C+michelecmiller&labels=add-user-to-org%2C+new-user%2C+user-created&template=add-user-to-the-va-organization.md&title=ADD+USER+TO+ORG+-+%5BUSERNAME%5D) in Github with the GitHub user request team. This ticket will need to be approved by your COR, before being added to the VA GitHub Organization. Note: The may take a few days to process. 
+1.  Work with your Program Manager and have them submit an [Add User to the VA Organization ticket](https://github.com/department-of-veterans-affairs/github-user-requests/issues/new/choose) in Github with the VA GitHub admins. This ticket will need to be approved by your COR, before being added to the VA GitHub Organization. Note: The may take a few days to process. 
 
-1. Once your ticket is processed, check your email for an invitation to the Department of Veterans Affairs GitHub Organization, and join! If you have not received an invitation (and do not already have a va.gov email), please reach out to your Program Manager. If you already possess a va.gov email and have not received an invitation, please visit [this site](https://vaww.oit.va.gov/services/github/) (will only work on VA network, CAG, or GFE/VPN) and fill out a request to be added.
+1. Once your ticket is processed, check your email for an invitation to the VA GitHub Organization, and join! If you have not received an invitation (and do not already have a va.gov email), please reach out to your Program Manager. If you already possess a va.gov email and have not received an invitation, please visit [this site](https://vaww.oit.va.gov/services/github/) (will only work on VA network, CAG, or GFE/VPN) and fill out a request to be added.
 
 ### Getting Repo Access 
-1. Once you are in the VA GitHub Organization, attend orientation with the Product Support  in order to be added to the vets.gov-write team, which will provide you access to many repos including va.gov-team. 
+1. Once you are in the VA GitHub Organization, attend Orientation with the Product Support team. After Orientation, you'll be added to the `vets.gov-write` team, which will provide you access to the repositories needed for working on VA.gov.
 
 1. Add information to your Github profile:
     * Organization: ```Your company name```
