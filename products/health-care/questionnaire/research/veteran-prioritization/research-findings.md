@@ -40,6 +40,7 @@ Opportunities:
 **Veterans assumed that the text fields on the mockup were related.** The intention of the second text box was to give Veterans the opportunity to document what other isues or life events may be affecting them, regardless of what they listed in the first box. Most Veterans assumed that the second text box was meant to be a space to elaborate on the reason listed in the first box.  
 
 Opoprtunity: create visual separation between the two boxes to better illustrate their intention
+![](https://user-images.githubusercontent.com/54509359/89787071-82ca9500-dae2-11ea-964a-a6c98cda988e.png)
 
 ## Actionable Recommendations
 - Consider pre-populating known background information on forms<br> Examples:
@@ -58,8 +59,8 @@ Opoprtunity: create visual separation between the two boxes to better illustrate
 
 ## Resources
 
-- [Research plan]()
-- [Conversation guide]()
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/veteran-prioritization/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/veteran-prioritization/conversation-guide.md)
 - [Card sort results](https://app.optimalworkshop.com/optimalsort/adhoc/j2b7m7j5/shared-results/x21jzunipdyzwymg6ge3538j7s1k7qs6)
-- [Session analysis spreadsheet]()
+- [Session analysis spreadsheet](https://docs.google.com/spreadsheets/d/1HQErLCeXZVPD9qAausAezUiPiAwd9rAJSo3imxrcMns/edit?usp=sharing)
 - [Mockups]()
