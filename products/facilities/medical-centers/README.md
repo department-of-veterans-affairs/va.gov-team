@@ -6,13 +6,14 @@ This product folder contains all research, design, engineering, and product docu
 
 **Supporting product owner:** Dave Conlon (David.Conlon@va.gov), DEPO
 
-## VAMC upgrade work - Oct. 1, 2019 thru April 3, 2020
+## VAMC upgrade work - July 1, 2020 thru Sep. 30, 2020
 
 ### Business goal
-`By the end of this six-month period, we will have the remaining VISN-4 VAMC Systems ready for production testing.`
+`By the end of Q3, we will have 16 Systems ready for Dual-staging.`
 
 **What this means:**
-- All 8 VISN-4 VAMC sites are in production on VA.gov (eight VISN-4 VAMCs)
+- All 8 VISN-4 VAMC sites will be ready and/or in dual production on VA.gov (eight VISN-4 VAMCs)
+- All 8 VISN-19 VAMC sites will be ready and/or in dual production on va.gov (eight VISN-8 VAMCs)
   - All new required site content is drafted and published in Drupal Prod (prod.cms.va.gov)
   - All legacy content, files, links, etc. have been accounted for and documented (upgraded or not)
   - All new sites have been fully QA'd by the team and ready to hand off to the business for UAT
