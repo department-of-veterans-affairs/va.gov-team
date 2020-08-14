@@ -21,6 +21,8 @@
   - [Analytics Investigation](#analytics-investigation)
   - [User Whitelist](#user-whitelist)
   - [VA Gov research using vets-web frontend](#va-gov-research-using-vets-web-frontend)
+  
+
 ## Problem Statement
 
 Veterans are unable to consistently share and update current health status and medical history that is leveraged in their care across the VA and community providers
@@ -175,6 +177,8 @@ After exploring the forms library, and for the sake of knowing our options, we h
 - [technical findings](health-apis.md)
 
 An inherent part of the problem that we are looking into how we can get veterans' health information. The technical team was the following APIs to research.
+
+As part of this effort, we are building out an [architecture diagram](https://drive.google.com/file/d/1pXB0mH5COT6Hbssk6WBb3zYRNCkwySll/view?usp=sharing)
 
 - [Developers.va.gov](https://developer.va.gov/explore/health)
 - Cerner API
