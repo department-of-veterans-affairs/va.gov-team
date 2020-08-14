@@ -171,6 +171,8 @@ Remember that previously mentioned “ambiguity”?
 - Section 508 is based on WCAG 2.0, and was not created with mobile in mind, so the criteria is insufficient to address mobile design use cases.
 - WCAG 2.1 prioritizes mobile success criteria, and improves the quality of mobile UX.
 
+### Timeline
+
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc04-accessibility-compliance/compliant-accessible-beyond.png" alt="" aria-hidden="true" role="presentation" />
 
 1. **Section 508** = WCAG 2.0 — success criteria for: blindness, deafness, and keyboard usage
