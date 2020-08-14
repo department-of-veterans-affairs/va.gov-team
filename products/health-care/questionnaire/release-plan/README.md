@@ -16,12 +16,10 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 
 | Initiative                                             | Portfolio     | Discovery | Design    | Dev       | Launch    | Notes 
 | --------------------------------------------------- | ------------- | --------- | --------- | --------- | --------- | -----
-| [Visit Intro Initiative (Proof of Concept)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/visit-intro.md)                  | Questionnaires| Q1        | --        | Q2        | [Q3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q3-2020-target-launch.md)        | 
-| Initiative name - link to Initiative doc                  | Questionnaires| Q1        | Q3        | Q3        | Q3        | 
-| Initiative name - link to Initiative doc                  | Questionnaires| Q1        | Q1        | Q1        |           | 
-| Initiative name - link to Initiative doc                  | Questionnaires| Q1        | Q1        | Q2        | Q3        | 
-| Initiative name - link to Initiative doc                  | Questionnaires| Q2        | Q2        | Q2        | Q4        | 
-| Initiative name - link to Initiative doc                  | Questionnaires| Q2        | Q2        | Q3        | Q4        | 
+| [Visit Intro Initiative (Proof of Concept)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/visit-intro.md)                  | Questionnaires| Q2      | Q3      | Q3        | [early Q4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q3-2020-target-launch.md)        | 
+| Initiative name - link to Initiative doc                  | Questionnaires| TBD        | TBD       | TBD        | TBD         | 
+| Initiative name - link to Initiative doc                  | Questionnaires| TBD         | TBD        | TBD        |           | 
+
 
 
 
