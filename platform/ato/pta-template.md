@@ -30,6 +30,9 @@ The PTA needs to be completed for any new project or piece of work on VA.gov.  T
 
 > Provide description
 
+5. How will the PII collected be stored ? 
+
+
 4. Do you use or collect Social Security Numbers (SSNs)?
 - [ ] Yes
 - [ ] No 
