@@ -17,7 +17,9 @@ The ideal state we want to work toward is one in which we've cleaned up the Desi
 
 ### So for now, given the current state of things, how do we handle these edge cases?
 
-When a VFS team has a new/adjusted pattern approved through the collaboration cycle, and in order to effect that change for their feature they have to make changes to code housed in the Design System, we should:
+When a VFS team has a new/adjusted pattern approved through the collaboration cycle, and in order to effect that change for their feature they have to make changes to code housed in the Design System, we should...
+
+DISCUSSION TIME! WHICH OPTION SEEMS RIGHT?
 
 - A) block their launch until their proposed new/adjusted pattern gets approved through our Design System Governance Process
 - B) prioritize reviewing the new/adjusted pattern asap so the VFS team can move on, and so we don't have un-approved code in the Design System
