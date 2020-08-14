@@ -25,7 +25,7 @@ Set a date and walk back the various steps.  This achieves a few things:
   - Add GA event names, if applicable (wizard event names could be pushed to post launch?)
 - Verify Central Mail submission process
   - Build PDF from dummy data [#12463](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12463) ✔
-- Start Flipper component for [landing page](https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/)
+- Start Flipper component for [landing page](https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/) [#12473](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12473)
 - Develop UAT/Release Plan
 - Create Controller + Model to connect FE + BE [#12473](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12473)
 ### Sprint 29
