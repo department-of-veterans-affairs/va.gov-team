@@ -273,13 +273,14 @@ Form 22-10203
 { display :heavy_multiplication_x: if user indicated "No", :heavy_check_mark: if they indicated "Yes" }   
 
 __Your responses:__  
-:heavy_check_mark:  **Yes to:** Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits   
-:heavy_check_mark:  **Yes to:** Are enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** have already earned a STEM bachelor’s degree and are pursuing a teaching certification   
-:heavy_check_mark:  **Yes to:** Have used all of your education benefits or are within 6 months of doing so when you submit your application   
+:heavy_check_mark:  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits   
+:heavy_check_mark:  Are enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** have already earned a STEM bachelor’s degree and are pursuing a teaching certification   
+:heavy_check_mark:  Have used all of your education benefits or are within 6 months of doing so when you submit your application   
   
-:heavy_multiplication_x:  **No to:** Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits  
-:heavy_multiplication_x:  **No to:** Are enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** have already earned a STEM bachelor’s degree and are pursuing a teaching certification   
-:heavy_multiplication_x:  **No to:** Have used all of your education benefits or are within 6 months of using all your benefits when you submit your application    
+:heavy_multiplication_x:  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits  
+:heavy_multiplication_x:  Are enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** have already earned a STEM bachelor’s degree and are pursuing a teaching certification   
+:heavy_multiplication_x:  Have used all of your education benefits or are within 6 months of using all your benefits when you submit your application  
+
 { Entitlement check for Ch33 users. If user has more than 6 months of benefits remaining, display yellow warning alert: }
 
 **Your remaining education benefits**  
