@@ -46,7 +46,7 @@ Follow the setup instructions [here](https://github.com/department-of-veterans-a
 
 #### Additional Backend changes:
 
-Make the following additions/changes to ```config/test.yml``` if following the docker workflow. (Do not commit these changes)
+Make the following additions/changes to ```config/test.yml``` if following the docker workflow. (Do not commit these changes). **If following the native flow, remove this setting from test.yml.**
 
 ```
 test_database_url: postgis://postgres:password@postgres:5432/vets_api_test?pool=4
@@ -237,7 +237,7 @@ make pact
 ```
 
 #### Important: Docker Workflow Settings
-Make the following additions/changes to ```config/test.yml``` if following the docker workflow. (Do not commit these changes)
+Make the following additions/changes to ```config/test.yml``` if following the docker workflow. (Do not commit these changes). **If following the native flow, remove this setting from test.yml.**
 
 ```
 test_database_url: postgis://postgres:password@postgres:5432/vets_api_test?pool=4
