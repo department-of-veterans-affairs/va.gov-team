@@ -40,6 +40,7 @@ Opportunities:
 **Veterans assumed that the text fields on the mockup were related.** The intention of the second text box was to give Veterans the opportunity to document what other isues or life events may be affecting them, regardless of what they listed in the first box. Most Veterans assumed that the second text box was meant to be a space to elaborate on the reason listed in the first box.  
 
 Opoprtunity: create visual separation between the two boxes to better illustrate their intention
+
 ![](https://user-images.githubusercontent.com/54509359/89787071-82ca9500-dae2-11ea-964a-a6c98cda988e.png)
 
 ## Actionable Recommendations
