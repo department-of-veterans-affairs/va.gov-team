@@ -8,7 +8,7 @@ Most of the time, this is the happy path flow for a VFS team who wants to create
 1. Submit a proposal for a new/adjusted pattern to the [Design System Governance Process board](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/projects/3)
 1. That's it! VSP will work through the backlog to take the proposed new/adjusted pattern and transform it into re-usable code in the Design System
 
-In that happy path ^ scenario, we should as a result never see un-approved pattern additions or changes to the Design System. However, the problem is that sometimes for step 3, it's impossible for a VFS team to just make the change in their isolated code for the feature.
+In that happy path ^ scenario, we should as a result never see un-approved pattern additions or changes to the Design System. However, the problem is that sometimes for step 3, it's impossible for a VFS team to just make the change in their isolated code for their feature.
 
 - Example 1: sometimes the code changes have to be made directly in the forms library for it to render for that feature
 - Example 2: sometimes the feature itself is a global element stored only in the design system
