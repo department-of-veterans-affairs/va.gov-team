@@ -40,24 +40,35 @@ A full breakdown of participant session coverage and their demographics are belo
 * 1 (7%): Express Care v2 only
 * 2 (13%): VAOSR only and additional scheduling questions
 
-| Role                                                  | Gender | Ethnicity                                               | Age      | Education                | Branch             | Location | Session Coverage                                      |
-| ----------------------------------------------------- | ------ | ------------------------------------------------------- | -------- | ------------------------ | ------------------ | -------- | ----------------------------------------------------- |
-| Veteran                                               | Female | Hispanic, Latino, or Spanish Origin, White or Caucasian | 35 - 44  | Master's degree          | Marine Corps       | WV       | VAOSR and EC v1                                       |
-| Veteran                                               | Female | Asian                                                   | 45 - 54  | Bachelor's degree        | Navy               | CA       | Express Care v1 only                                  |
-| Veteran                                               | Male   | Black or African American                               | 55 -  64 | Master's degree          | Army               | MD       | Express Care v1 only                                  |
-| Veteran                                               | Male   | White or Caucasian                                      | 55 - 64  | Some college (no degree) | Marine Corps       | CA       | VAOSR and EC v1                                       |
-| Veteran                                               | Male   | Hispanic, Latino, or Spanish Origin, White or Caucasian | 35 - 44  | Master's degree          | Marine Corps       | MD       | VAOSR and EC v1                                       |
-| Veteran                                               | Male   | White or Caucasian                                      | 65 - 74  | Master's degree          | Army               | RI       | VAOSR and EC v1                                       |
-| Veteran                                               | Male   | White or Caucasian                                      | 55 - 64  | Bachelor's degree        | Marine Corps       | AR       | VAOSR and EC v1                                       |
-| Veteran                                               | Male   | White or Caucasian                                      | 65 - 74  | Some college (no degree) | Navy               | NY       | VAOSR and EC v1                                       |
-| Veteran                                               | Male   | White or Caucasian                                      | 55 - 64  | Master's degree          | Marine Corps, Navy | VA       | VAOSR and EC v1                                       |
-| Veteran, Veteran's family member, Veteran's caretaker | Female | Hispanic, Latino, or Spanish Origin, White or Caucasian | 35 - 44  | Master's degree          | Marine Corps       | WV       | VAOSR only                                            |
-| Veteran, VA employee                                  | Male   | White or Caucasian                                      | 55 - 64  |                          | Army               | MD       | VAOSR and EC v1                                       |
-| Veteran                                               | Male   | White or Caucasian                                      | 25 - 34  | Master's degree          | Navy               | VA       | VAOSR and EC v1                                       |
-| Veteran                                               | Male   | White or Caucasian                                      | 65 - 74  | Some college (no degree) | Air Force, Army    | AL       | Express Care v2 only                                  |
-| Veteran                                               | Female | White or Caucasian                                      | 55 - 64  | Some college (no degree) | Army               | WI       | + New scheduling questions; VAOSR only and EC warm-up |
-| Veteran                                               | Male   | White or Caucasian                                      | 35 - 44  | Master's degree          | Army               | MI       | + New scheduling questions; VAOSR only and EC warm-up |
+| Role                                                  | Gender | Ethnicity                                               | Age      | Education                | Branch             | Location | Session Coverage                               |
+| ----------------------------------------------------- | ------ | ------------------------------------------------------- | -------- | ------------------------ | ------------------ | -------- | ---------------------------------------------- |
+| Veteran                                               | Female | Hispanic, Latino, or Spanish Origin, White or Caucasian | 35 - 44  | Master's degree          | Marine Corps       | WV       | VAOSR and EC v1                                |
+| Veteran                                               | Female | Asian                                                   | 45 - 54  | Bachelor's degree        | Navy               | CA       | Express Care v1 only                           |
+| Veteran                                               | Male   | Black or African American                               | 55 -  64 | Master's degree          | Army               | MD       | Express Care v1 only                           |
+| Veteran                                               | Male   | White or Caucasian                                      | 55 - 64  | Some college (no degree) | Marine Corps       | CA       | VAOSR and EC v1                                |
+| Veteran                                               | Male   | Hispanic, Latino, or Spanish Origin, White or Caucasian | 35 - 44  | Master's degree          | Marine Corps       | MD       | VAOSR and EC v1                                |
+| Veteran                                               | Male   | White or Caucasian                                      | 65 - 74  | Master's degree          | Army               | RI       | VAOSR and EC v1                                |
+| Veteran                                               | Male   | White or Caucasian                                      | 55 - 64  | Bachelor's degree        | Marine Corps       | AR       | VAOSR and EC v1                                |
+| Veteran                                               | Male   | White or Caucasian                                      | 65 - 74  | Some college (no degree) | Navy               | NY       | VAOSR and EC v1                                |
+| Veteran                                               | Male   | White or Caucasian                                      | 55 - 64  | Master's degree          | Marine Corps, Navy | VA       | VAOSR and EC v1                                |
+| Veteran, Veteran's family member, Veteran's caretaker | Female | Hispanic, Latino, or Spanish Origin, White or Caucasian | 35 - 44  | Master's degree          | Marine Corps       | WV       | VAOSR only                                     |
+| Veteran, VA employee                                  | Male   | White or Caucasian                                      | 55 - 64  |                          | Army               | MD       | VAOSR and EC v1                                |
+| Veteran                                               | Male   | White or Caucasian                                      | 25 - 34  | Master's degree          | Navy               | VA       | VAOSR and EC v1                                |
+| Veteran                                               | Male   | White or Caucasian                                      | 65 - 74  | Some college (no degree) | Air Force, Army    | AL       | Express Care v2 only                           |
+| Veteran                                               | Female | White or Caucasian                                      | 55 - 64  | Some college (no degree) | Army               | WI       | VAOSR only and additional scheduling questions |
+| Veteran                                               | Male   | White or Caucasian                                      | 35 - 44  | Master's degree          | Army               | MI       | VAOSR only and additional scheduling questions |
 
-## Findings & Recommendations Overview
+## Research Findings & Recommendations
+Both VAOSR and Express Care were well received by most Veterans who interacted with each product, respectively. However, there were a number of significant experience issues that arose throughout research that should be addressed, especially for VAOSR:
 
-### Findings overview
+1. `Content`  Simplify, streamline, and make content consistent from one part of scheduling flow to another. 
+2. `Value of VAOSR`  Clarify the purpose of using VAOSR: it is a scheduling request tool, not an appointment booking tool. 
+3. `Cancelled appointments` Incorporate more details about who, why, and when an appointment was cancelled. 
+4. `Location selection`  Redesign the location-selection process in VAOSR. 
+5. `Appointment filtering` Give Veterans sort and filter options when viewing their appointment lists.
+6. `Appointment details`  Provide specific information about an appointment so that Veterans know who they saw, the type of care, the type of visit, and additional relevant information about their appointment. 
+7. `Request flow`  Reevaluate process for requesting an appointment flow to align with a user's mental model. This may require conducting additional user research.
+8. `Rescheduling options` Create Veterans the ability to reschedule or request another appointment, based on an appointment they already have scheduled in their account   
+
+
+### Recommendations overview
