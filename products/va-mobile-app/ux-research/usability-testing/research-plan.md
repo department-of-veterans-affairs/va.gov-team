@@ -49,9 +49,9 @@ We will use the Perigean zoom account. We will ask participants to join the Zoom
     - Age (ideally two people each from 18-30, 31-50, 50-64, 65+, but can be flexible)
     - Geography
     - Density (rural)
-  - Diversity of experience with VA benefits and services, but ideally all participants should have experience in the following 2 areas. It's ok if a maximum of 30% of participants only have experience with 1 of the following areas. A majority should have experience with both. 
-    - Disability benefits
-    - Health care benefits
+  - **All** participants should have experience with Disability Benefits and/or filing a claim with VA. 
+    - A majority of recruits should be going through the claims process for Disability Benefits currently. 
+    - Ideally, 50% of recruits should have some experience with VA Health Care benefits in addition to experience with Disability Benefits. 
   - All participants should have used VA.gov in the past 
   - No assistive device users (low-fi prototype does not support assistive technology)
   - No more than 30% of participants should be VA employees
