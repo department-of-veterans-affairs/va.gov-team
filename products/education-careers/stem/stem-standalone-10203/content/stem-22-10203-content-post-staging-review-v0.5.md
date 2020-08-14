@@ -116,7 +116,7 @@ Start the education application >> { button }
 Respondent burden: **15 minutes**  
 OMB Control #: **2900-0878**  
 Expiration date: **06/30/2023**  
-[Privacy Act Statement]()  
+[Privacy Act Statement]()  { add anchor to this link }
 
 ________________________________________
 
