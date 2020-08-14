@@ -359,15 +359,22 @@ Ensure your feature meets VSP's privacy and security standards.
 ## Collaboration format: 60-minute meeting
 
 ### Request process
-**VFS Lead Engineer or Product Manager** uses `Privacy and Security Review` template in `va.gov-team-sensitive` repository _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/new?assignees=gunsch&labels=product+support%2C+collaboration-cycle&template=privacy-and-security-review.md&title=Privacy+and+Security+Review+%5BFeature-Name%5D) to open a ticket)_
+**VFS Lead Engineer or Product Manager** uses `Privacy and Security Review` template in `va.gov-team-sensitive` repository _(select in ZenHub dropdown or [create from GitHub](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/new/choose) to open a ticket)_
 
 ### Artifact inputs
-- An architecture diagram, showing involved systems + data flows
-- Description of any new publicly-exposed endpoints (vets-api or otherwise)
-- Description of any new interactions with dependent services (i.e. vets-api --> ???)
-- Description of any other security hotspots you're concerned about / want extra attention on
-- Link to [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
-- **_Please provide these artifacts at least 2 days before the scheduled review meeting._**
+
+**_Please provide the following, 2 days before scheduled meeting_**
+- Link to [**Product Outline**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
+    - Ensure Product Outline contains **Incident Response** info, including:
+        - Points of contact for your system and dependent VA backends
+        - Links to dashboards that help identify and debug application issues
+- Links to technical diagrams (checked into GitHub alongside your product documentation), including:
+    - An **architecture diagram**, showing involved systems and how they connect.
+    - For non-trivial flows (i.e. more than a single round-trip call from frontend → `vets-api` → VA Backend), a **sequence diagram** showing the ordered flow of data and operations between systems.
+- Describe any new publicly-exposed endpoints (`vets-api` or otherwise):
+- Describe any new interactions with dependent VA backends
+- Describe any other security hotspots you're concerned about / want extra attention on
+- Link to [**Release Plan**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
 
 ### Outcomes and artifact outputs
 - VSP provides a list of concrete action items that need to be addressed, or approval to roll out
@@ -381,7 +388,7 @@ Ensure your feature meets VSP's privacy and security standards.
   - Anyone else on your team whose presence is needed to speak to the technical architecture and security concerns (required)
 - If VFS team is part of VSA contract, also include as optional: VSA Engineering Lead
 - VSP brings: 
-  - Engineering experts (Andrew, others as needed)
+  - Engineering experts (Andrew Gunsch or Michael Fleet, others as needed)
 
 ## For further support at this point
 Reach out to Platform team in Slack [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) with any questions, and you’ll be directed to the correct resource.
