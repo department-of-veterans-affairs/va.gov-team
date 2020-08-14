@@ -1,4 +1,7 @@
 
+#### This research is related to accessing the smart-fhir-pgd through VAMF, primarily we want to write the data but reading the data at some point is also relevant.
+
+
 The ruby FHIR client is usefull for exploring FHIR types of resources such as Questionnaires and QuestionnairResponses. It could be used initially to help create Question types of resources in JSON and validating them etc.
 
 #### Authorization
