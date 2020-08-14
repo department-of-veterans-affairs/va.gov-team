@@ -144,7 +144,7 @@ We've prefilled this application with information from your account. If you need
 - Your last name (*Required) { text field, prefill if present }
 - Suffix { dropdown, prefill if present } 
 - Social Security number (*Required) { text field, prefill if present }
-
+{ if selects "I don't have SSN," display: } VA file number (*Required) { text field }
 
 [ Back | Continue ] { buttons }   
 [Finish this application later]()
