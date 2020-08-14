@@ -48,7 +48,11 @@ I’m going to paste a link in the Zoom chat. This link will be the way we acces
 
 https://www.va.gov/manage-va-debt/your-debt/
 
-Under the alert that reads, “Please sign in to manage your VA debt”, select the button “Sign in or create an account” 
+I'm going to provide the login information so you can access the tool. 
+
+[Paste login info in Zoom chat]
+
+Awesome! Now you have access to the tool. Under the alert that reads, “Please sign in to manage your VA debt”, select the button “Sign in or create an account” 
 - Please sign in with your DS Logon, MyHealtheVet, or ID.me account. 
 
 ## If the participant has never had a VA debt - 1 minute
