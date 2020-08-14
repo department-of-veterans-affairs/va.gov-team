@@ -1,41 +1,133 @@
 # School Ratings Content
 
-## School ratings { accordion }
+## Search Results Page 
 
-### Veteran ratings
+### School cards:
 
-#### Institution overall { star rating with numerical display }
-#### Quality of classes { star rating with numerical display }
-#### Online education { star rating with numerical display }
-#### Veteran culture { star rating with numerical display }
-#### Veteran support { star rating with numerical display }
-#### Employment preparation { star rating with numerical display }
-#### Marketing practices { star rating with numerical display }
+{ Institution name spans full card width }  
+{ Location }  
+{ Caution / closing flags, if any }  
 
-### About these ratings 
+{ If Desktop/Tablet: }  
 
-Ratings are provided by Veterans who've attended this school. We reach out to Veterans who receive a Certificate of Eligibility (COE) for benefits, when they transfer into or out of a school, or when they graduate. to provide a rating. If schools request to know which Veterans provided ratings,  we'll provide a list of all individuals who've provided ratings, but not the individual ratings they've provided.  The ratings Veterans provide won't be individually to the individual.  
+{ Left column: }  
+**Estimated benefits:**  
+**Tuition:** { Tuition amount }  
+**Housing:** { Housing amount }  
+**Books:** { Book amount }  
+[View details]() { links to profile page }  
 
-#### Institution overall
-Would you recommend this school to a Veteran or military family member? 
+{ Right column: }  
+**GI Bill students:** NN  
+{ If no ratings to display: } **School rating:** Not yet rated  
+{ If NN+ ratings in the data: } **Rated by:** NN Veterans { star rating visual with numerical display }  
 
-#### Quality of classes 
-Did the course materials meet your expectations for high-quality education? Did your teachers present practical lessons with an approach and teaching style that worked for you? 
+{ end if Desktop/Tablet }
 
-#### Online education  
-Was the technology for your online classes easy to use? If you had challenges, did the school help you find an easy, effective resolution?   
+{ If Mobile: }
+{ Institution name spans full card width }  
+{ Location }  
+{ Caution / closing flags, if any }  
+**Estimated benefits:**  
+**Tuition:** { Tuition amount }  
+**Housing:** { Housing amount }  
+**Books:** { Book amount }  
+**GI Bill students:** NN  
+{ If no ratings to display: } **School rating:** Not yet rated  
+{ If NN+ ratings in the data: } **Rated by:** NN Veterans { star rating visual with numerical display }  
+[View details]() { links to profile page }  
 
-#### Veteran culture 
-Is there a sense of community at this school among Veterans and military-connected students? Did the school have a designatied point of contact for GI Bill students? Was that person helpful to you?  
+{ End if Mobile } 
+## Profile page
 
-#### Veteran support  
-Were you able to use your VA benefits easily? If you had challenges with your VA benefits, did VA accredited officials at the school help you navigate these issues? Does the school follow all 7 of the [President's Principles of Excellence]()? 
+### Institution details: 
+{ Institution name }  
+{ Caution or closing flags, if any }  
 
-#### Employment preparation 
-Did your degree provide the qualifications needed to obtain your current career? How well did your school prepare you for a successful career after graduation? Did they find you a job? 
+{ star rating visual with numerical display } [(See NN ratings by Veterans)]() { jump link down to School ratings accordion } 
 
-#### Marketing practices 
-Did the school clearly explain admissions requirements and all the associated costs? 
+### School ratings { accordion }:
 
+### NN Veterans rated this institution:
 
-## School Ratings - Submit rating (Decision to come: email + survey/collector, modal on CT)
+**N.N** out of a possible 5 stars  { star rating visual }
+
+### Education ratings
+
+#### Overall experience { star rating with numerical display } {expandable/collapsible mini accordion}  
+Distribution of ratings  
+5 star { bar visual } NN% (NN users)  
+4 star { bar visual } NN% (NN users)  
+3 star { bar visual } NN% (NN users)  
+2 star { bar visual } NN% (NN users)  
+1 star { bar visual } NN% (NN users)  
+N/A { bar visual } NN% (NN users)  
+Veterans’ overall experience at this institution and whether they would recommend this school to other Veterans or military family members.  
+
+#### Quality of classes { star rating with numerical display } {expandable/collapsible mini accordion}  
+Distribution of ratings  
+5 star { bar visual } NN% (NN users)  
+4 star { bar visual } NN% (NN users)  
+3 star { bar visual } NN% (NN users)  
+2 star { bar visual } NN% (NN users)  
+1 star { bar visual } NN% (NN users)  
+N/A { bar visual } NN% (NN users)  
+Courses, academic programs, and instruction met Veteran expectations for a high quality education.  
+
+#### Online instruction { star rating with numerical display } {expandable/collapsible mini accordion}  
+Distribution of ratings  
+5 star { bar visual } NN% (NN users)  
+4 star { bar visual } NN% (NN users)  
+3 star { bar visual } NN% (NN users)  
+2 star { bar visual } NN% (NN users)  
+1 star { bar visual } NN% (NN users)  
+N/A { bar visual } NN% (NN users)  
+Quality of online instruction, whether the technology for online classes was easy to use, and if the school offered support with any challenges.  
+
+#### Job preparation { star rating with numerical display } {expandable/collapsible mini accordion}  
+Distribution of ratings  
+5 star { bar visual } NN% (NN users)  
+4 star { bar visual } NN% (NN users)  
+3 star { bar visual } NN% (NN users)  
+2 star { bar visual } NN% (NN users)  
+1 star { bar visual } NN% (NN users)  
+N/A { bar visual } NN% (NN users)  
+The level of support the school provided in preparing and helping Veterans obtain employment.  
+
+### Veteran friendliness
+
+#### GI Bill support { star rating with numerical display } {expandable/collapsible mini accordion}  
+Distribution of ratings  
+5 star { bar visual } NN% (NN users)  
+4 star { bar visual } NN% (NN users)  
+3 star { bar visual } NN% (NN users)  
+2 star { bar visual } NN% (NN users)  
+1 star { bar visual } NN% (NN users)  
+N/A { bar visual } NN% (NN users)  
+Ease of use of GI Bill education benefits at this school. Quality of support received from school’s VA certifying officials for processing of  benefits.  
+
+#### Veteran community { star rating with numerical display } {expandable/collapsible mini accordion}  
+Distribution of ratings  
+5 star { bar visual } NN% (NN users)  
+4 star { bar visual } NN% (NN users)  
+3 star { bar visual } NN% (NN users)  
+2 star { bar visual } NN% (NN users)  
+1 star { bar visual } NN% (NN users)  
+N/A { bar visual } NN% (NN users)  
+Sense of community at school among Veterans and military-connected students. School’s level of effort in engaging Veterans.  
+
+#### Marketing practices { star rating with numerical display } {expandable/collapsible mini accordion}  
+Distribution of ratings  
+5 star { bar visual } NN% (NN users)  
+4 star { bar visual } NN% (NN users)  
+3 star { bar visual } NN% (NN users)  
+2 star { bar visual } NN% (NN users)  
+1 star { bar visual } NN% (NN users)  
+N/A { bar visual } NN% (NN users)  
+School clearly explained admissions requirements, academic programs, and all the associated costs.  
+
+### About ratings 
+
+Schools are rated from one to five stars, with five being the best. Ratings are provided by Veterans who've attended this school. We reach out to Veterans who receive a Certificate of Eligibility (COE) for benefits, when they transfer into or out of a school, or when they graduate to provide a rating.  
+
+If schools request to know which Veterans provided ratings, we'll provide a list of all individuals who've submitted ratings, but not the individual ratings they've provided. The ratings Veterans provide won't be tied to the individual.
