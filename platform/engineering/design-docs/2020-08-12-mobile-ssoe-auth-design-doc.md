@@ -33,7 +33,7 @@ When vets-api receives a request with that mobile auth header it will first look
 If a session is not found vets-api will use a `IamSsoeService` (draft PR [here](https://github.com/department-of-veterans-affairs/vets-api/pull/4665)) to call IAM's `../introspect` endpoint which both
 validates and returns traits for a user.
 
-<img src="images/mobile-ssoe-auth/mobile_ssoe_auth_sequence.png" alt="mobile auth sequence diagram" width="700"/>
+<img src="images/mobile_ssoe_auth_sequence.png" alt="mobile auth sequence diagram" width="700"/>
 
 The user traits returned by the instrospect endpoint are similar to those returned by ID.me and MVI and can be used to
 instantiate a user profile. We will create an adapter class or method to map the fields to a user profile.
@@ -120,7 +120,7 @@ Likewise when it originates from a mobile client it can instantiate a `MobileSes
 the same interface we won’t need to sprinkle web or mobile conditional logic throughout the concern. The request determines 
 which state it’s in and chooses the appropriate manager:
 
-<img src="images/mobile-ssoe-auth/mobile_ssoe_auth_class.png" alt="mobile auth sequence diagram" width="700"/>
+<img src="images/mobile_ssoe_auth_class.png" alt="mobile auth sequence diagram" width="700"/>
 
 Should another form of session manager be needed in the future it can implement the same interface. The design also makes testing easier as the logic to determine if each type of session manager is correct can be tested in isolation.
 
