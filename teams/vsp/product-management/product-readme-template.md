@@ -1,6 +1,6 @@
-# **VSP Product Brief Template**
+# **VSP Product README Template**
 
-Use this template to create a Product Brief for your product. To begin,
+Use this template to create a VFS-facing README for your product. To begin,
 1. Copy this file to `platform/<product-name>/README.md`.
 1. Fill out all sections below for your product.
 1. Delete this preamble, all italicized instruction blocks, and any unused links within the template.
