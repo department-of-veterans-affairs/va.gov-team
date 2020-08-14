@@ -1,4 +1,4 @@
-# Product Outline - HCA Address Project
+# Project Outline - HCA Address Project
 ---
 
 ## Overview
