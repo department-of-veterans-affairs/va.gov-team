@@ -46,22 +46,14 @@ Follow the setup instructions [here](https://github.com/department-of-veterans-a
 
 #### Additional Backend changes:
 
-Make the following additions/changes to ```config/settings.local.yml``` if following the docker workflow
+Make the following additions/changes to ```config/test.yml``` if following the docker workflow. (Do not commit these changes)
 
 ```
-redis:
-  host: redis
-  port: 6379
-  app_data:
-    url: redis://redis:6379
-  sidekiq:
-    url: redis://redis:6379
-
-database_url: postgis://postgres:password@postgres:5432/vets_api_development?pool=4
+test_database_url: postgis://postgres:password@postgres:5432/vets_api_test?pool=4
 ```
 
 ### Makefile Shortcut
-A pact makefile shortcut `make pact` can be run as an alternative to the docker-compose or native pact rake task flow by using docker-compose under the hood. Again, remember to configure the above settings in settings.local.yml if following the docker workflow.
+A pact makefile shortcut `make pact` can be run as an alternative to the docker-compose or native pact rake task flow by using docker-compose under the hood. Again, remember to configure the above settings in test.yml if following the docker workflow.
 
 ### Local json Files
 
@@ -245,18 +237,10 @@ make pact
 ```
 
 #### Important: Docker Workflow Settings
-Make the following additions/changes to ```config/settings.local.yml``` if following the docker workflow
+Make the following additions/changes to ```config/test.yml``` if following the docker workflow. (Do not commit these changes)
 
 ```
-redis:
-  host: redis
-  port: 6379
-  app_data:
-    url: redis://redis:6379
-  sidekiq:
-    url: redis://redis:6379
-
-database_url: postgis://postgres:password@postgres:5432/vets_api_development?pool=4
+test_database_url: postgis://postgres:password@postgres:5432/vets_api_test?pool=4
 ```
 
 The verification task can be run at any point in development, but it may be helpful to run frequently to point out failures during development iterations. 
