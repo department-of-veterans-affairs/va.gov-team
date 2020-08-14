@@ -62,7 +62,7 @@ We'd like to have 5 fulfilled sessions - please recruit 10 veterans to make sure
 
 -   Must visit VA.gov sometimes using a smart phone (it's okay if they also sometimes visit on a non-mobile device)
 
--   Must have been walked through installing the zoom app on their phone, or the [laptop hugging technique](https://remoteresear.ch/moderated/hug/) from Perigeon.
+-   Must have been walked through installing the zoom app on their phone, or the [laptop hugging technique](https://remoteresear.ch/moderated/hug/) from Perigean.
 
 *Good to have for participants*
 
