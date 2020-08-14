@@ -78,9 +78,10 @@ Start with open-ended question “How can I help you today?” brings focus to t
 
  16. [Unauthenticated](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/authentication.md) - No pre-populating - what CPRS data can we tie to the questionnaire link and then based on that information where can it go back in CPRS once quest. is submitted. ie. patient context at person or encounter level?
  17. [Authenticated -](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/authentication.md) Are we showing all 2 IDP or just ID.me?  Need to integrate with questionnaire flow to authorize for showing RFV and Demographics?
-> **Notifications (4C & 4D)** 
+> **Notifications (4C)** 
 > As a Veteran, I want to be notified in advance of my health care visit that a questionnaire is needed to be completed, so that I don't have to fill it out in the waiting room and can complete when convenient and relevant for me.
->  As a Veteran, I want to be  notified in a similar or the same appointment reminder that I receive today, so that the questionnaire is in context of the visit I am planning to attend.
+
+>  **Notifications (4D)** As a Veteran, I want to be  notified in a similar or the same appointment reminder that I receive today, so that the questionnaire is in context of the visit I am planning to attend.
 
  18.  [VAOS Appointment List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/vaos-appt-list.md) - link for Veteran to select to launch the questionnaire for that encounter.
 19.  [Email Appointment Confirmation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/notifications.md) - VAOS/CPRS - sends an email confirmation of appointment booked - show link to clipboard that is due for the visit.
