@@ -79,7 +79,19 @@ This does not include research for Appeals projects, which is stored in differen
 - 7 participants  
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/stem/stem-standalone-10203/research) 
 
+
 ### May 2020
+
+#### May 18: Covid-19 screening tool
+*DEPO team, Jeff Barnes*
+
+- 7 participants
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/COVID-screener/research-plan-study-1.md)
+- [Convo guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/COVID-screener/convo-guide-study-1.md)
+- [Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/COVID-screener/synthesis-study-1.md)
+
+**Keywords**: covid, coronavirus, screener, mobile, user research, usabilty testing
+
 #### May 11-15: Logged-in Homepage Redesign, Co-design sessions
 *Authenticated Experience, Liz Lantz*
 
