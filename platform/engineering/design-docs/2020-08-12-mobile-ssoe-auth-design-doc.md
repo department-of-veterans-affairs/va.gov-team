@@ -252,13 +252,9 @@ The API will deliver the same PII to the mobile app that it does to va.gov. New 
 
 While it's up to the end user to protect their phone, should a phone be stolen/compromised an option to disable long-term refresh tokens from va.gov (or by the call-center) would protect the affected veteran's data.
 
-TODO
-
 ### Open Questions and Risks
 - Does IAM SSOe OAuth support TLS token binding?
 - Do VSP/VFS developers have access to IAM logs?
-
-TODO
 
 ### Work Estimates
 - IAM SSOe Service (in [draft PR](https://github.com/department-of-veterans-affairs/vets-api/pull/4665))
@@ -275,8 +271,6 @@ TODO
 ### Alternatives
 - Okta: Okta and the lighthouse API paths were considered for auth. Okta's cost/user, SSOe's momentum at VA, and the greater number of endpoints that would have to be rebuilt worked against Okta as an auth choice.
 - SSOe with a mobile only controller: A dedicated mobile API may still be an option. At this time leveraging or versioning existing endpoints gets us to a MVP faster.
-
-TODO
 
 ### Future Work
 The work outlined in this PR would complete the mobile auth flow.
