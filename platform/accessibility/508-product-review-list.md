@@ -379,7 +379,6 @@ Back to [Table of Contents](#table-of-contents)
 **Open issues**
 
 - [508-defect-2 [FOCUS MANAGEMENT, SCREENREADER]: Focus on page load SHOULD be consistent - #9305](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9305)<br/>**Opened:** May 19, 2020 | **Severity:** 508-defect-3 — **_Serious_**
-- [508-defect-3 [SCREENREADER, COGNITION]: Phone numbers SHOULD use the new aria-label pattern - #9299](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9299)<br/>**Opened:** May 19, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 - [508-defect-3 [SEMANTIC MARKUP]: Radio inputs with the same name attribute value MUST be part of a group - #9174](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9174)<br/>**Production** | **Opened:** May 15, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 - [[CI/CD]: Review coverage of accessibility checks in Caregivers end-to-end tests - #7303](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7303)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
