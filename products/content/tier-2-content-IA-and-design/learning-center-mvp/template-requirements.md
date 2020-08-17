@@ -124,7 +124,7 @@ Up to 3 tags can be selected.
 
 None of these page templates allow featured content (div.feature) components. 
 
-1. Single FAQ
+1. ~Single FAQ~ Question and answer
 
 2. Multiple FAQs
 
@@ -142,7 +142,7 @@ None of these page templates allow featured content (div.feature) components.
 
 
 
-### Single FAQ
+### ~Single FAQ~ Question and answer
 
 This template is for 1 question and answer. 
 
