@@ -4,10 +4,10 @@
 ---
 ### Planning:
 - Desired date range: TBD
-- Desired number of users: 2 VSP teams
-- How you'll recruit the right production test users: Talk to the tools teams directly 
+- Desired number of users: Members from both the VSP BE and FE tools teams (2 from each). 
+- How you'll recruit the right production test users: Talk to the tools teams directly and show them the way to access the tool. 
 - How you'll conduct the testing: We will have them use the documentation we have in place and ask for feedback or comments.
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: It will be live in parallel with the old method.  Users will be able to access via Grafana which they already know how to use.
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: We will roll this out in lower enviroments and only direct certain services to the loki first instead of DataDog. 
 
 ### Results:
 - Number of users: x
@@ -22,10 +22,7 @@
 
 ### Do I need a staged rollout?
 
-A staged rollout is recommended unless you can confidently answer "yes" to the following:
-
-- This change does not add substantial new functionality to the Platform.
-- This change does not impact VFS teams' workflow.
+We will be pointing services to loki and maintaining a list of which services point to which logging pipeline here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/logging/logsByService.md
 
 ### Planning:
 - Desired date: mm/dd/yy
