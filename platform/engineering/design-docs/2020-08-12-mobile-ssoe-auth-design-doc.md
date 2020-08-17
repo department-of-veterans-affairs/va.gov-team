@@ -1,6 +1,5 @@
 # Mobile SSOe Auth Design Doc
 
-_Replace the previous line with the the title of your project or component and replace the following lines with your name(s), email and the date._  
 **Author(s):** Alastair Dawson, Jonathan Julian  
 **Last Updated:** August 12th, 2020  
 **Status:** **Draft** | In Review | Approved  
