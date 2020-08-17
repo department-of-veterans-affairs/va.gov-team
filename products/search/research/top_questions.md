@@ -1,5 +1,7 @@
 # VA.gov Search 2.0 Analytics Review
 
+Analytics request ticket [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12543).
+
 ## Project Overview
 To better understand the effectiveness of (WBC) VA.gov's on-site and off-site search as a primary discovery tool, we conducted an analytics review to learn more about the following:
 
