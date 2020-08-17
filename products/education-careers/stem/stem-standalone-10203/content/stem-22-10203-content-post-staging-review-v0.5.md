@@ -374,7 +374,7 @@ Form 22-10203
 ### Chapter Title:  5 of 6:  Personal information  
 
 #### Your address { sub-head }  
-  - Country (*Required)  { dropdown, prefill if present }
+  - Country (*Required)  { dropdown, prefill if present } { If other than United States selected, State field is not required }
   - Street address (*Required) { text field, prefill if present }
   - Line 2 { text field, prefill if present }
   - City (*Required) { text field, prefill if present }
