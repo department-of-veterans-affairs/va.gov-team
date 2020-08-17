@@ -34,5 +34,5 @@ The 'appointments-list', 'new-appointments', and 'express-care' folders are inte
 ### Components folder
 The components folder under each feature is intended to contain components specific to a feature. These components are not intended to be shared. They can be grouped into folders for complex pages that have multiple components.
 
-## Redux folder
+### Redux folder
 The redux folder under each feature is intended to contain redux specific artifacts such as actions and reducers.
