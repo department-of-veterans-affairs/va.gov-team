@@ -92,7 +92,10 @@ Let's start by making sure you can figure out how to share your screen on Zoom.
 
 ## Fourth Task: Claims Status Tool - 10 minutes
 
-- OK now I'm going to share a different URL with you (staging URL). Let's say you want to see the status of one of your claims, what would you do?  
+- OK now I'm going to share a different URL with you (staging URL). Let's say you want to see the status of one of your claims, what would you do?
+- Login as X, pw Y
+- Let's say you filed an appeal and don't see it on this list. Is there anything here telling you what to do in that situation?
+- You want to check if you need to upload further documentation for your first claim. How would you do that?
 
 ### Things to watch for:
 
