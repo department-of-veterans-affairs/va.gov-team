@@ -70,8 +70,11 @@ Researchers need to be able to see how users react and interact with school rati
 * Testing sessions: Thur, 8/27/20 to Fri 8/28/20     
 2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 
 * By COB: Thur, 8/20/20
-3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
-4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
+3. Length of Sessions: How long do you estimate each session will be? 
+  45 minutes
+4.	Availability: If applicable, when would you like sessions scheduled? 
+ Thursday, Aug 27:  8:30-9:15AM; 11-11:45AM; 12:15-1PM; 1:15-2PM; 3-3:45PM
+ Friday, Aug 28: 8:30-9:15AM; 9:15-10AM; 11:30AM-12:15PM; 1:15-2PM; 3-3:45PM
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
 * Wed, 8/26/20    
 ## Team Roles	
