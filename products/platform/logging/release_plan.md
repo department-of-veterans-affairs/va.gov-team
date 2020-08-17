@@ -22,7 +22,7 @@
 
 ### Do I need a staged rollout?
 
-We will be pointing services to loki and maintaining a list of which services point to which logging pipeline here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/logging/logsByService.md
+We will be pointing services to loki one by one and maintaining a list of which services point to which logging pipeline here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/logging/logsByService.md
 
 ### Planning:
 - Desired date: mm/dd/yy
