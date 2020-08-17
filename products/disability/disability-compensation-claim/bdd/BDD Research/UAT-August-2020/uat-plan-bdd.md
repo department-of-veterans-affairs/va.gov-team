@@ -1,9 +1,9 @@
-# Research Plan for Benefits Delivery at Discharge
+# Research Plan for UAT for Benefits Delivery at Discharge (form 526)
 
 ## Goals
 1. **What product & team are you doing this research for?**
 
-This UAT will be conducted with service members requesting their first disability claim before they are discharged from the miltary using the BDD tool built into the 526 flow.
+This UAT will be conducted with service members requesting their first disability claim before they are discharged from the miltary using the BDD tool built into the 526 flow. 
 
 2. **Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?**
 
@@ -11,7 +11,7 @@ Service members who are separating and plan to file for disability can file thei
 
 3. **Research questions: What question(s) do you hope to be able to answer after completing this research?** 
 
-- Can service members within 90-180 days of separation submit a claim on VA.gov?
+- Can service members within 90-180 days of separation submit a claim on VA.gov? 
 - Can service members within 1-89 days of separation submit a claim on VA.gov? 
 
 
@@ -40,14 +40,14 @@ Service members who are separating and plan to file for disability can file thei
 
 1.	**Participant criteria: What are you looking for in a participant?**
 
-We would like **3** participants who must meet the following criteria:
+We would like **5** participants who must meet the following criteria:
 
 - Participants must have a DS Logon account.
 - Participants must be separating from the miltary between 90-180 days from now.
 - Participants will be claiming at least one disability.
 - Participants should be able to use Zoom and not have to use a screen reader.
 
-We would like **3** participants who must meet the following criteria:
+We would like **5** participants who must meet the following criteria:
 
 - Participants must have a DS Logon account.
 - Participants must be separating from the miltary between 1-89 days from now.
@@ -62,7 +62,7 @@ We will work with Perigean to recruit for this study.
 
 1.	**Timeline: What dates do you plan to do research?**
 
-We are looking to start sessions **Monday, August 24, 2020**.
+We are looking to start sessions **Wednesday, August 26, 2020**.
 
 2.	**Prepare: When will the thing you are testing be ready?**
 
@@ -70,7 +70,7 @@ BDD should be live on production with EVSS on or about August 20, 2020.
 
 3. **Length of Sessions: How long do you estimate each session will be?**
 
-We expect sessions to only be 30-45 minutes. **Please schedule sessions for 60 minutes with a 30 minute buffer between sessions**.
+We expect sessions to only be 30-45 minutes. **Please schedule sessions for 45 minutes with a 15 minute buffer between sessions**.
 
 4.	**Availability: If applicable, when would you like sessions scheduled?**
 
@@ -78,7 +78,7 @@ No major scheduling conflicts or needs.
 
 5.	**Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
 
-Not sure what this is - Christian?
+Tuesday August 25. 
 
 ## Team Roles
 **Please list the people who will be serving in each role.**
@@ -87,8 +87,8 @@ Not sure what this is - Christian?
 - **Research guide writing and task development**: Christian Valla
 - **Participant recruiting & screening**: Perigean
 - **Project point of contact**: Christian Valla and Luke Majewski
-- **Participant(s) for pilot test**: TBD
-- **Note-takers**: Kevin Stachura
+- **Participant(s) for pilot test**: Kevin S.
+- **Note-takers**: Kevin S.
 - **Observers**: Luke Majewski, Anna Carey, Robin Garrison, Nick Sprinkle, Barry Cooper, Tze Lei
 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
