@@ -1,0 +1,32 @@
+@startuml
+participant "VA Mobile App" as app
+participant "IAM SSOE \n fed.eauth.va.gov" as iam
+participant "Vets API \n api.va.gov" as api
+database redis
+
+group app login
+  app -> iam: <b>../authorize</b> request
+	iam --> app: <font color=green>access token
+	app -> iam: <b>../token</b> request
+	iam --> app: <font color=green>access token
+end
+
+group first request
+  app -> api: <b>../user</b> request with access token header
+  api -> redis: lookup session by token
+  redis --> api: <font color=red>not found
+  api -> iam: <b>../introspect</b>
+  iam --> api: <font color=green>response (with user traits)
+  api -> redis: store session by token
+  redis --> api: <font color=green>success
+  api --> app: <font color=green>response
+end
+
+group subsequent requests
+  app -> api: <b>../user</b> request with access token header
+  api -> redis: lookup session by token
+  redis --> api: <font color=green>found
+  api --> app: <font color=green>response
+end
+
+@enduml

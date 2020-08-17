@@ -1,1 +1,39 @@
+@startuml
 
+package controllers {
+	ApplicationController *-- AuthenticationAndSSOConcerns
+	AuthenticationAndSSOConcerns --|> SessionManager
+  SessionManager <|-- WebSessionManager
+  SessionManager <|-- MobileSessionManager
+
+  class ApplicationController
+  class AuthenticationAndSSOConcerns {
+    +session_manager()
+  }
+
+  note top of SessionManager : Ruby doesn't have interfaces \nthey can be enforced through specs \nwith a shared example of what \nwe 'expect' a class to implement
+	class SessionManager {
+	  + session_object
+		clear_session()
+		extend_session()
+		persist_session()
+		validate_session()
+		load_user()
+	}
+
+  note bottom of WebSessionManager : Web session persistance \n is currently located in the \n UserSessionForm
+	class WebSessionManager {
+	  ^clear_session()
+    ^extend_session()
+    ^persist_session()
+    ^validate_session()
+	}
+	class MobileSessionManager {
+	  ^clear_session()
+    ^extend_session()
+	  ^persist_session()
+  	^validate_session()
+	}
+}
+
+@enduml
