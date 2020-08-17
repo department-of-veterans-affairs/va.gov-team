@@ -6,7 +6,7 @@ database redis
 
 group app login
   app -> iam: <b>../authorize</b> request
-	iam --> app: <font color=green>access token
+	iam --> app: <font color=green>refresh token
 	app -> iam: <b>../token</b> request
 	iam --> app: <font color=green>access token
 end
