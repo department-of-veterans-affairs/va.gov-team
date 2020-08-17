@@ -22,6 +22,7 @@ For the analysis, the following tools were used:
 ### Top Questions/Answers
 
 ***1. How important is on-site search as a discoverability tool for VA.gov users?  In other words, How often is search used by site visitors? ***
+
 - Since the launch of the modernized VA.gov in November 2018, the average number of searches conducted monthly has grown to more than 550,000
   - the average number of searches conducted daily over the past year is about 25,000, with a sharp decline on the weekends.
   - (Question: Has search activity grown or stalled over the past year?)
