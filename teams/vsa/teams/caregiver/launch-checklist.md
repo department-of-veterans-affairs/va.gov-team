@@ -6,18 +6,21 @@
 | Task     | Status |
 | :----------- | ----------- |
 | Password/beta test implementation | In progress - ETA 8/18 |
-| Google analytics backend setup | In progress - ETA 8/24 |
-| Launch plan and metrics   |In progress - working with program to define metrics | 
-| Error experience (messaging)  | Completed  |
-| Accessible PDF created for users | In progress - awaiting updated base PDF from 508 office|
+| Staging Review | In progress - scheduled for 8/20 |
 | Feature toggle testing  | In progress - ETA 8/21    |
 | Product guide and video complete | In progress - ETA 8/24|
-| Google Analytics dashboard created   | Complete |
-| Staging Review | In progress - scheduled for 8/20 |
+| Google analytics backend setup | In progress - ETA 8/24 |
+| Launch plan and metrics   |In progress - working with program to define metrics | 
+| Accessible PDF created for users | In progress - awaiting updated base PDF from 508 office|
 | Resolve any staging review must-haves | Not started
 | Contact Center Review   | Not started |
 | Check in with Privacy/Security | Not started|
 | Incident Response Playbook   | Not started|
+| CARMA PDF Signature | Not started |
+| Google Analytics dashboard created   | Complete |
+| Error experience (messaging)  | Completed  |
+
+
 
 
 ## Nice to have
