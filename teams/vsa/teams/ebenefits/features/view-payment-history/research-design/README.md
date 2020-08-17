@@ -34,6 +34,19 @@
 
 ### Mockups Changelog
 
+**August 14, 2020**
+
+Changes made to desktop and mobile views
+
+- Breadcrumbs changed (must cinfirm with IA)
+- H1 changed
+- Payments received header and paragraph text changed
+- IN STAGING: compensation has typo
+- "Note" paragraph text changed
+- "Found check" header and paragraph text changed
+- "Direct deposit" paragraph text changed
+- "Missing payment" paragraph text changed
+
 **July 9, 2020**
 - Returned payments table has "final" colums/headers
 - Long months abbreviated per guidance [here](https://design.va.gov/content-style-guide/dates-and-numbers)
@@ -58,6 +71,16 @@
 - Paymets table header changed to align with Content/IA recommendations
 
 ### Prototype Changelog
+
+**August 17, 2020**
+- Breadcrumbs changed (must cinfirm with IA)
+- H1 changed
+- Payments received header and paragraph text changed
+- IN STAGING: compensation has typo
+- "Note" paragraph text changed
+- "Found check" header and paragraph text changed
+- "Direct deposit" paragraph text changed
+- "Missing payment" paragraph text changed
 
 **July 23, 2020**
 - Returned payments table has "final" colums/headers
