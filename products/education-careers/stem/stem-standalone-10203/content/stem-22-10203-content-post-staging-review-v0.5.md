@@ -387,15 +387,15 @@ Please enter your contact details below so we can get in touch with you, if nece
 
 - Email address (*Required) { text field with email validation, prefill if present }
 - Re-enter email address (*Required) { text field with email validation, prefill if present }
-- Home phone number { text field, phone number validation (10 digit string), Required if "Home phone" is selected, prefill if present }
-- Mobile phone number (*Required)  { text field, phone number validation (10 digit string) }
+- Home phone number { text field, phone number validation (10 digit string, Required if "Home phone" is selected, prefill if present }
+- Mobile phone number { text field, phone number validation (10 digit string), Required if "Home phone" is selected, prefill if present  }
         
 What's the best way for us to contact you? { radio buttons }  
 
 - Mail
 - Email
-- Home phone
-- Mobile phone 
+- Home phone { if selected, make home phone field required }
+- Mobile phone { if selected, make mobile phone field required }
         
  [ Back | Continue ] { buttons }   
  [Finish this application later]()
