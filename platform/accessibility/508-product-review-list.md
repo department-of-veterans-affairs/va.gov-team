@@ -832,7 +832,11 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open issues**
 
-- [[AXE-CORE] STEM Standalone - ID attribute value MUST be unique - #12325](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12325) <br/>**Opened:** August 10, 2020 | **Severity:** _508-defect-1 - **Critical**_
+- [[AXE-CORE] STEM Standalone - ID attribute value MUST be unique - #12325](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12325) <br/>**Opened:** August 10, 2020 | **Severity:** _508-defect-1_ | _**Critical**_
+- [[KEYBOARD]: STEM Standalone - Focus MUST be returned to the Edit button when Update page is pressed or clicked - #12338](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12338) <br/>**Opened:** August 10, 2020 | **Severity:** _508-defect-2_ | _**Serious**_
+- [[COGNITION]: STEM Standalone - CONSIDER revising the optional / required pattern for contacting a user in step 5 - #12341](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12341) <br/>**Opened:** August 10, 2020 | **Severity:** _508-defect-3_ | _**Minor**_
+- [[COGNTION]: STEM Standalone - CONSIDER removing the opt-out direct deposit message when users have opted in - #12342](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12342) <br/>**Opened:** August 10, 2020 | **Severity:** _508-defect-4_ | _**Trivial**_
+- [[TESTING]: STEM Standalone - All accordions SHOULD be opened and tested with axe in E2E suite - #12344](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12344) <br/>**Opened:** August 10, 2020 | **Severity:** _508-defect-4_ | _**Trivial**_
   
 Back to [Table of Contents](#table-of-contents)
 
