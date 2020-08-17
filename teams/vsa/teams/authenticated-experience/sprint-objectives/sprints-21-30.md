@@ -330,6 +330,9 @@ Design
 - Plan for how to work with the platform team #10516
 - Plan for how/when to conduct user testing #10518
 
+Dev
+- Investigate how we can pull in information on preferred medical facilities on VA.gov #12552
+
 ## Sprint 30 (9/9 – 9/22)
 
 **Profile 2.0**
