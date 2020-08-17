@@ -100,7 +100,8 @@ Let's start by making sure you can figure out how to share your screen on Zoom.
 
 ### Things to watch for:
 
-- X
+- How do they navigate through the tool? 
+- Do they see the right rail component at the bottom?
 
 ## Thank-You and Closing - 2 minutes
 
