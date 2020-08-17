@@ -94,7 +94,7 @@ Let's start by making sure you can figure out how to share your screen on Zoom.
 
 * Do you have any current claims or appeals in process with VA.gov?
    * If YES, Can you show me what would you do from your phone to see what's happening with those claims or appeals?
-   * If NO, user can stop sharing their screen. Moderator logs in to staging as vets.gov.user+228@gmail.com and shares screen. What would you do to see what's happening with your claims and appeals?
+   * If NO, user can stop sharing their screen. Moderator logs in to staging as vets.gov.user+228@gmail.com, switches to mobile view (Alt+Command+J in chrome) and shares screen. What would you do to see what's happening with your claims and appeals?
 * Let's say you filed an appeal and don't see it on this list. Is there anything here telling you what to do in that situation?
 * You want to check if you need to upload further documentation for your first claim. How would you do that?
 
