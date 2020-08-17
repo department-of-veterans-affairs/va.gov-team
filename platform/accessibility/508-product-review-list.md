@@ -775,8 +775,6 @@ Back to [Table of Contents](#table-of-contents)
 
 - [[SCREENREADER]: GIBCT EYB - iOS VoiceOver MUST read out the aria-label of the learn more buttons - #10201](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10201)<br/>
 **Opened:** June 12, 2020 | **Severity:** 508-defect-2 - **_Serious_**
-- [[SCREENREADER]: GIBCT EYB - JAWS and IE11 SHOULD NOT announce extra information when I toggle accordions - #10200](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10200)<br/>
-**Opened:** June 12, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER]: GIBCT EYB - Focus MUST be set on the first added item when Show Next 10 button is pressed - #9953](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9953)<br/>
 **Opened:** June 10, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER]: GIBCT EYB - IE11 MUST announce the updated live region after users press the Update benefits button - #11300](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11300)<br/>
