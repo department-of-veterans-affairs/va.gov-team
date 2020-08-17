@@ -87,7 +87,7 @@ For example:
 
 Up to 3 can be selected, but only 1 from the Veterans list.
 
-- Veterans - Content author can select the broad category "Veterans" or one of the sub-Veteran tags:
+- All Veterans - Content author can select the broad category "All Veterans" or one of the sub-Veteran tags:
   - Elderly Veterans [TBD card sort variation test: Senior and aging Veterans / Veterans aged 65+] 
   - Former prisoners of war
   - Gulf War Veterans
@@ -114,6 +114,7 @@ Up to 3 tags can be selected.
 - Funeral directors and cemeteries
 - Lenders, appraisers, and other real estate professionals
 - Veteran service organizations and accredited representatives
+
 - ~Clinicians, researchers, and health care workers~  <-- In reviewing the VHA pages, a lot of the subdomain content is so highly specialized, I just don't think they are right candidates to live in the LC. VHA clinical health and research info really does seem like Tier 3 program office content or a special tier 3 subset for the medical audience. Therefore, we will not include the clinicians etc audience as part of the MVP1.1 audience taxonomy. We can add it if we encounter a significant amount of this type of learning center benefit adjacent content during IRIS audit or during next year's tier 3 content work (i.e., if there's tier 2 information mixed in their tier 3 program content.)  8/10
 
 
