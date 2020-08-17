@@ -7,7 +7,7 @@ Since March 2020, our team has undertaken three research studies to help define 
 
 
 
-## 1. We think we should use a bottom toolbar and have designed a navigation UI   
+## 1. We think we should use a bottom toolbar and we have designed a navigation UI   
 We also considered a hamburger menu following the same pattern as VA.gov (titled 'Menu' rather than using an icon). However, because of the relatively small feature set in the MVP and user familiarity with toolbars within apps, we think a toolbar is the best option for launch. Here is some supporting research we did to make this recommendation: 
 
 - **Toolbar navigation**
