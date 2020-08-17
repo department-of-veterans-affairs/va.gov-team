@@ -317,24 +317,24 @@ Form 22-10203
 
 #### STEM degree and school details { Sub-head }  
 
-What's the name of your STEM degree? (*Required) { text field }  
+  - What's the name of your STEM degree? (*Required) { text field }  
 
-What’s the name of the school where you plan on using the Rogers STEM Scholarship? (*Required) { text field, prefill if present }
+  - What’s the name of the school where you plan on using the Rogers STEM Scholarship? (*Required) { text field, prefill if present }
 
-Country (*Required) { dropdown, prefill if present } { Default selection is United States. If other than United States selected, State field is not required and not a dropdown. }   
+  - Country (*Required) { dropdown, prefill if present } { Default selection is United States. If other than United States selected, State field is not required and not a dropdown. }   
 
-City (*Required) { text field, prefill if present }  
+  - City (*Required) { text field, prefill if present }  
 
-State (*Required)  { dropdown with full state names, prefill if present. If Country selected is not United States, State is a text field and is not required. }  
+  - State (*Required)  { dropdown with full state names, prefill if present. If Country selected is not United States, State is a text field and is not required. }  
 
 
 #### Your school ID and contact details  { Sub-head } 
 
 These details will help us review your application faster, but aren't required. 
 
-Your school student ID number { Text field }  
+  - Your school student ID number { Text field }  
 
-Your school email address (This email address usually ends with .edu) { Text field with email address validation }  
+  - Your school email address (This email address usually ends with .edu) { Text field with email address validation }  
 
 
 [ Back | Continue ] { buttons }   
