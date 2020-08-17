@@ -24,7 +24,8 @@
 
 { end if Desktop/Tablet }
 
-{ If Mobile: }
+{ If Mobile: } 
+
 { Institution name spans full card width }  
 { Location }  
 { Caution / closing flags, if any }  
