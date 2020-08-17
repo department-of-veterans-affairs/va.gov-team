@@ -33,6 +33,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [VA Letters](#va-letters)
       - [Pensions](#pensions)
       - [Medical Device Ordering Tool](#medical-device-ordering-tool)
+      - [Debt Letters MVP](#debt-letters-mvp)
     - [VSA Caregivers](#vsa-caregivers)
     - [VSA eBenefits](#vsa-ebenefits)
       - [Rated Disabilities](#rated-disabilities)
@@ -832,11 +833,11 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open issues**
 
-- [[AXE-CORE] STEM Standalone - ID attribute value MUST be unique - #12325](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12325) <br/>**Opened:** August 10, 2020 | **Severity:** _508-defect-1_ | _**Critical**_
-- [[KEYBOARD]: STEM Standalone - Focus MUST be returned to the Edit button when Update page is pressed or clicked - #12338](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12338) <br/>**Opened:** August 10, 2020 | **Severity:** _508-defect-2_ | _**Serious**_
-- [[COGNITION]: STEM Standalone - CONSIDER revising the optional / required pattern for contacting a user in step 5 - #12341](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12341) <br/>**Opened:** August 10, 2020 | **Severity:** _508-defect-3_ | _**Minor**_
-- [[COGNTION]: STEM Standalone - CONSIDER removing the opt-out direct deposit message when users have opted in - #12342](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12342) <br/>**Opened:** August 10, 2020 | **Severity:** _508-defect-4_ | _**Trivial**_
-- [[TESTING]: STEM Standalone - All accordions SHOULD be opened and tested with axe in E2E suite - #12344](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12344) <br/>**Opened:** August 10, 2020 | **Severity:** _508-defect-4_ | _**Trivial**_
+- [[AXE-CORE] STEM Standalone - ID attribute value MUST be unique - #12325](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12325) <br/>**Opened:** August 10, 2020 | **Severity:** _508-defect-1_ **Critical**_
+- [[KEYBOARD]: STEM Standalone - Focus MUST be returned to the Edit button when Update page is pressed or clicked - #12338](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12338) <br/>**Opened:** August 10, 2020 | **Severity:** _508-defect-2_ **Serious**_
+- [[COGNITION]: STEM Standalone - CONSIDER revising the optional / required pattern for contacting a user in step 5 - #12341](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12341) <br/>**Opened:** August 10, 2020 | **Severity:** _508-defect-3_ **Minor**_
+- [[COGNTION]: STEM Standalone - CONSIDER removing the opt-out direct deposit message when users have opted in - #12342](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12342) <br/>**Opened:** August 10, 2020 | **Severity:** _508-defect-4_ **Trivial**_
+- [[TESTING]: STEM Standalone - All accordions SHOULD be opened and tested with axe in E2E suite - #12344](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12344) <br/>**Opened:** August 10, 2020 | **Severity:** _508-defect-4_ **Trivial**_
   
 Back to [Table of Contents](#table-of-contents)
 
@@ -1008,6 +1009,19 @@ Back to [Table of Contents](#table-of-contents)
 
 - [[SEMANTIC MARKUP]: Links SHOULD not have title attributes - #11157](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11157)<br/>**Staging** | **Opened:** July 13, 2020 | **Severity:** _508-defect-2 - **Serious**_
 - [IN-PROGRESS 508-defect-3 [SCREENREADER]: Directions links SHOULD include sr-only text to indicate specific location - #11151](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11151)<br/>**Staging** | **Opened:** July 10, 2020 | **Severity:** _508-defect-2 - **Serious**_
+  
+Back to [Table of Contents](#table-of-contents)
+
+---
+### Debt Letters MVP
+
+**Audit status:** _[VSA Staging Review completed on August 4, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12166)_<br/>
+**Open issues**
+
+- [508-defect-2 Fast Follow! [COGNITION]: Downloaded files SHOULD be consistent with what the user clicked to download - #12184](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12184)<br/>**Staging** | **Opened:** August 6, 2020 | **Severity:** _508-defect-2 Fast Follow - **Serious**_
+- [508-defect-2 [HEADING, COGNITION]: Heading levels SHOULD only increase by one - #12430](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12430)<br/>**Staging** | **Opened:** August 12, 2020 | **Severity:** _508-defect-2 - **Serious**_
+- [508-defect-2 [MOBILE-DESIGN]: Mobile layout SHOULD be legible and easy-to-use - #12422](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12422)<br/>**Staging** | **Opened:** August 12, 2020 | **Severity:** _508-defect-2 - **Serious**_
+- [508-defect-2 [SCREENREADER, COGNITION]: if links are different, they MUST communicate their differences - #12414](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12414)<br/>**Staging** | **Opened:** August 12, 2020 | **Severity:** _508-defect-2 - **Serious**_
   
 Back to [Table of Contents](#table-of-contents)
 
