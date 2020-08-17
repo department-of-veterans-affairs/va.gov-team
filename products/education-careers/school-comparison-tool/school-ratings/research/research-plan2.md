@@ -71,10 +71,10 @@ Researchers need to be able to see how users react and interact with school rati
 2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 
 * By COB: Thur, 8/20/20
 3. Length of Sessions: How long do you estimate each session will be? 
-  45 minutes
+  - 45 minutes
 4.	Availability: If applicable, when would you like sessions scheduled? 
- Thursday, Aug 27:  8:30-9:15AM; 11-11:45AM; 12:15-1PM; 1:15-2PM; 3-3:45PM
- Friday, Aug 28: 8:30-9:15AM; 9:15-10AM; 11:30AM-12:15PM; 1:15-2PM; 3-3:45PM
+ - Thursday, Aug 27:  8:30-9:15AM; 11-11:45AM; 12:15-1PM; 1:15-2PM; 3-3:45PM
+ - Friday, Aug 28: 8:30-9:15AM; 9:15-10AM; 11:30AM-12:15PM; 1:15-2PM; 3-3:45PM
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
 * Wed, 8/26/20    
 ## Team Roles	
