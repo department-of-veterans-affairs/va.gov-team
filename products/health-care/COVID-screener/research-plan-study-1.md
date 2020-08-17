@@ -55,7 +55,7 @@ Availability: Monday (5/18) 8am-6pm
 ## Resources	
 - Project Brief: 	https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/COVID-screener/project-brief.md
 - Convo Guide: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/COVID-screener/convo-guide-study-1.md
-- Synthesis: TBD
+- Synthesis: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/COVID-screener/synthesis-study-1.md
 - Lessons Learned: TBD
 - Read-Out/Results: TBD
   - *Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.* 	
