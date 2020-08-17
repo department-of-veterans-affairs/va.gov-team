@@ -26,7 +26,6 @@ We will be attempting to answer some (not all) of the below research questions, 
 
 * What usability issues do Veterans encounter when attempting to complete a multi-page form? 
 
-* How much do Veterans struggle to find content in the right rail?
 * Are there any gaps we need to fill in our mobile research guidelines?
 
 *Hypothesis: What is your hypothesis for this research?*
