@@ -1,6 +1,6 @@
 # School Ratings Content
 
-## Search Results Page 
+## IHLs - Search Results Page 
 
 ### School cards:
 
