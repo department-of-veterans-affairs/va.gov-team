@@ -41,8 +41,10 @@ There has been some discussion about how prominent the Veterans Crisis Line shou
 
 
 
-## 2. Can we can include any more features in the MVP outside what is currently on the living roadmap?
-We have had conversations with SMEs at VA and are continuing to talk to teams working on other features that we are including (Claim Status Tool redesign, Logged In homepage redesign). As part of talking to these teams, we are open to learning that there are other "low hanging fruit" features that are highly valuable to Veterans, fit within the MVP purpose of our app, and are technically feasible. One example of this may be direct deposit and payment information. 
+## 2. Can we include any more features in the MVP outside what is currently on the living roadmap?
+We have had conversations with SMEs at VA and are continuing to talk to teams working on other features that our app will include (Claim Status Tool redesign, Logged In homepage redesign). As part of talking to these teams, we are open to learning that there are other "low hanging fruit" features that are highly valuable to Veterans, fit within the MVP purpose of our app, and are technically feasible. One example of this may be direct deposit and payment information.
+
+We're also open to these teams leading _us_, and taking the point of view that our app will replicate VA.gov features and bring a layer of unique mobile functionality (for example camera upload, push notifications). We do not want to redesign anything or make too many changes to features that are on VA.gov, and instead will look to other VFS teams and their ongoing work to inform UX/UI decisions in the app.  
 
 **What are our next steps?**
 - Continue conversations with VFS teams working on VA.gov to learn from their research, expand our roadmap as we see fit
