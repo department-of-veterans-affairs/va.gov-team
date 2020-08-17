@@ -16,6 +16,13 @@ This does not include research for Appeals projects, which is stored in differen
 
 ### August 2020
 
+#### August 10 - 12
+*CTO health team: Ryan Thurlwell*
+
+- 6 participants (out of 8), 1 round
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/covid-vaccine-trials/research)
+- COVID-19 COVID vaccine clinical trials research registry medical trials medical research
+
 #### August 3-7: IRIS general Discovery Interviews 
 *ThoughtWorks: Rachel M. Murray
 
