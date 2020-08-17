@@ -75,6 +75,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [GI Bill Comparison Tool School Certifying Official Documentation](#gi-bill-comparison-tool-school-certifying-official-documentation)
       - [GI Bill Estimate Your Benefits](#gi-bill-estimate-your-benefits)
       - [GI Bill Section 103](#gi-bill-section-103)
+      - [GI Bill STEM Standalone Form](#gi-bill-stem-standalone-form)
     - [VFS Veterans Affairs Online Scheduler (VAOS)](#vfs-veterans-affairs-online-scheduler-vaos)
     - [Covid-19 Resources (VSA Public Websites)](#covid-19-resources-vsa-public-websites)
     - [SSOe Single Sign On](#ssoe-single-sign-on)
@@ -821,6 +822,18 @@ Back to [Table of Contents](#table-of-contents)
 **Audit Status:** _VSP staging review complete._<br/>
 **No open issues**
 
+Back to [Table of Contents](#table-of-contents)
+
+---
+
+### GI Bill STEM Standalone Form
+
+**Audit status:** _VSP Staging Review, August 2020_<br/>
+
+**Open issues**
+
+- [[AXE-CORE] STEM Standalone - ID attribute value MUST be unique - #12325](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12325) <br/>**Opened:** August 10, 2020 | **Severity:** _508-defect-1 - **Critical**_
+  
 Back to [Table of Contents](#table-of-contents)
 
 ---
