@@ -33,7 +33,7 @@ When vets-api receives a request with that mobile auth header it will first look
 If a session is not found vets-api will use a `IamSsoeService` (draft PR [here](https://github.com/department-of-veterans-affairs/vets-api/pull/4665)) to call IAM's `../introspect` endpoint which both
 validates and returns traits for a user.
 
-<img src="images/mobile_ssoe_auth_sequence.png" alt="mobile auth sequence diagram" width="700"/>
+<img src="images/mobile-ssoe-auth/mobile_ssoe_auth_sequence.png" alt="mobile auth sequence diagram" width="700"/>
 
 The user traits returned by the instrospect endpoint are similar to those returned by ID.me and MVI and can be used to
 instantiate a user profile. We will create an adapter class or method to map the fields to a user profile.
@@ -120,7 +120,7 @@ Likewise when it originates from a mobile client it can instantiate a `MobileSes
 the same interface we won’t need to sprinkle web or mobile conditional logic throughout the concern. The request determines 
 which state it’s in and chooses the appropriate manager:
 
-<img src="images/mobile_ssoe_auth_class.png" alt="mobile auth sequence diagram" width="700"/>
+<img src="images/mobile-ssoe-auth/mobile_ssoe_auth_class.png" alt="mobile auth sequence diagram" width="700"/>
 
 Should another form of session manager be needed in the future it can implement the same interface. The design also makes testing easier as the logic to determine if each type of session manager is correct can be tested in isolation.
 
@@ -223,7 +223,7 @@ end
 
 
 ### Code Location
-Code will live in th vets-api repo. IAM auth code will be located in lib/iam_ssoe_auth as in the [draft PR](https://github.com/department-of-veterans-affairs/vets-api/pull/4665).
+Code will live in the [vets-api](https://github.com/department-of-veterans-affairs/vets-api) repo. IAM auth code will be located in lib/iam_ssoe_auth as in the [draft PR](https://github.com/department-of-veterans-affairs/vets-api/pull/4665).
 
 ### Testing Plan
 - Like MVI IAM's OAuth team requires a live demo to move up environments
@@ -233,61 +233,59 @@ Code will live in th vets-api repo. IAM auth code will be located in lib/iam_sso
 ### Logging
 - New log lines and metrics around the type of session created.
 - Log errors when session creation fails or are unexpectedly not found.
+- Log auth attempts that do not originate from the mobile app.
 
 ### Debugging
-_How users can debug interactions with your system. When designing a system it's important to think about what tools you can provide to make debugging problems easier. Sometimes it's unclear whether the problem is in your system at all, so a mechanism for isolating a particular interaction and examining it to see if your system behaved as expected is very valuable. Once a system is in use, this is a great place to put tips and recipes for debugging. If this section grows too large, the mechanisms can be summarized here and individual tips can be moved to another document._
-
-- Rails console debugging
-- Link to mobile build instructions, logging details
-- TODO: check on access to IAM logs, point of contact
+- TODO: Link to review instance/staging rails console instructions
+- TODO: Link to mobile build instructions, logging details
+- TODO: Check on access to IAM logs, add IAM point of contact
 
 ### Caveats
-_Gotchas, differences between the design and implementation, other potential stumbling blocks for users or maintainers, and their implications and workarounds. Unless something is known to be tricky ahead of time, this section will probably start out empty._
-
-_Rather than deleting it, it's recommended that you keep this section with a simple place holder, since caveats will almost certainly appear down the road._
-
 _To be determined._
 
 ### Security Concerns
-_This section should describe possible threats (denial of service, malicious requests, etc) and what, if anything, is being done to protect against them. Be sure to list concerns for which you don't have a solution or you believe don't need a solution. Security concerns that we don't need to worry about also belong here (e.g. we don't need to worry about denial of service attacks for this system because it only receives requests from the api server which already has DOS attack protections)._
+Access Token seems shorter than most in the wild e.g. Amazon's is 350 chars long. Session highjacking through brute force would be harder if it was longer. Session hijacking and replay attacks could be mitigated by [binding the access token to the TLS connection](https://medium.facilelogin.com/oauth-2-0-token-binding-e84cbb2e60).
 
-TODO
+While it extends beyond API security some anti-tampering services can detect if requests are coming from an app that has been modified.
 
 ### Privacy Concerns
-_This section should describe any risks related to user data, PII that are added by this new application. Think about flows of user data through systems, places data is stored and logged, places data is displayed to users. Where is user data stored or logged? How long is it stored?_
+The API will deliver the same PII to the mobile app that it does to va.gov. New logging should be tied to anonymous user session identifier rather than PII. Some security measures employed by private sector apps infringe on privacy. Measures such as validating requests through device fingerprinting would violate the VA's PII policies. 
+
+While it's up to the end user to protect their phone, should a phone be stolen/compromised an option to disable long-term refresh tokens from va.gov (or by the call-center) would protect the affected veteran's data.
 
 TODO
 
 ### Open Questions and Risks
-_This section should describe design questions that have not been decided yet, research that needs to be done and potential risks that could make make this system less effective or more difficult to implement._
-
-_Some examples are: Should we communicate using TCP or UDP? How often do we expect our users to interrupt running jobs? This relies on an undocumented third-party API which may be turned off at any point._
-
-_For each question you should include any relevant information you know. For risks you should include estimates of likelihood, cost if they occur and ideas for possible workarounds._
+- Does IAM SSOe OAuth support TLS token binding?
+- Do VSP/VFS developers have access to IAM logs?
 
 TODO
 
 ### Work Estimates
 - IAM SSOe Service (in [draft PR](https://github.com/department-of-veterans-affairs/vets-api/pull/4665))
+- Staging environment configuration (2 days)
+- Production environment configuration (2 days)
 - Create base `SessionManager` and `WebSessionMananger` (1 week)
 - Create `MobileSessionMananger` (1 week)
-- IAM Dev test (1 day)
-- IAM Staging test (1 day)
-- IAM Prod test (1 day)
+- IAM Dev approval test (1 day)
+- IAM Staging approval test (1 day)
+- IAM Prod approval test (1 day)
+- Staging QA/UAT (2 days)
+- Production QA/UAT (4 days)
 
 ### Alternatives
-_This section contains alternative solutions to the stated objective, as well as explanations for why they weren't used. In the planning stage, this section is useful for understanding the value added by the proposed solution and why particular solutions were discarded. Once the system has been implemented, this section will inform readers of alternative solutions so they can find the best system to address their needs._
+- Okta: Okta and the lighthouse API paths were considered for auth. Okta's cost/user, SSOe's momentum at VA, and the greater number of endpoints that would have to be rebuilt worked against Okta as an auth choice.
+- SSOe with a mobile only controller: A dedicated mobile API may still be an option. At this time leveraging or versioning existing endpoints gets us to a MVP faster.
 
 TODO
 
 ### Future Work
-_Features you'd like to (or will need to) add but aren't required for the current release. This is a great place to speculate on potential features and performance improvements._
-
-TODO
+The work outlined in this PR would complete the mobile auth flow.
 
 ### Revision History
 
 Date | Revisions Made | Author
 -----|----------------|--------
 Aug 14, 2020 | Initial Draft | Alastair Dawson
+Aug 17, 2020 | Add Security, privacy and work estimates sections | Alastair Dawson
 
