@@ -1,4 +1,4 @@
-# Loki for logging - Release Plan (WIP)
+# Loki for logging - Release Plan 
 ---
 ## Phase I: Release and VSP testing 
 ---
