@@ -182,7 +182,7 @@ As part of this effort, we are building out an [architecture diagram](https://dr
 
 ![architecture diagram](./assets/Questionnaire%20System%20Diagram.png)
 
-To make edits, there is a [xml](./assets/Questionnaire%20System%20Diagram.xml) that can be uploaded to [draw.io](http://draw.io/). 
+To make edits, there is a [png](./assets/Questionnaire%20System%20Diagram.png) that can be uploaded to [draw.io](http://draw.io/). 
 
 - [Developers.va.gov](https://developer.va.gov/explore/health)
 - Cerner API
