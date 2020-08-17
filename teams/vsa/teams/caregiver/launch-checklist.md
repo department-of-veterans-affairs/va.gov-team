@@ -16,6 +16,7 @@
 | Contact Center Review   | Not started |
 | Check in with Privacy/Security | Not started|
 | Incident Response Playbook   | Not started|
+| 508 Office Review | Not started |
 | CARMA PDF Signature | Not started |
 | Google Analytics dashboard created   | Complete |
 | Error experience (messaging)  | Completed  |
@@ -24,7 +25,7 @@
 
 
 ## Nice to have
-
 | Task     | Status |
 | :----------- | ----------- |
-| Cadence for meeting with/communicating with Program team during launch|     |
+| Cadence for meeting with/communicating with Program team during launch| Not started |
+
