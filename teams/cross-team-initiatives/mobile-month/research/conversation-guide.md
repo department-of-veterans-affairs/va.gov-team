@@ -16,7 +16,8 @@
 
 ### Project-specific setup
 
-- [ ] Make sure you have the mobile research guidelines and are prepared to walk someone through how to install zoom on their phones if they don't have it, or the laptop hugging technique - FIND LINK
+- [ ] Make sure you have the mobile research guidelines and are prepared to walk someone through how to install zoom on their phones if they don't have it, or the laptop hugging technique 
+- [ ] Open VA.gov in a new tab and hit Command+Alt+J to put it in mobile view in case moderator needs to share screen as a backup
 
 ## Intro - 5 minutes
 
@@ -42,7 +43,15 @@ Before we start, a few things I want to mention:
 
 ## Logistics: figure out how to share your screen - 5 minutes
 
-- Let's start by making sure you can figure out how to share your screen on Zoom. 
+- Confirm with the participant in the beginning of the session that they are using a mobile device with Zoom installed
+- If not, backup plan - load VA.gov in a "mobile frame" - open VA.gov in Chrome. Hit Command+Alt+J.  Backup to backup - moderator shares screen.
+
+Let's start by making sure you can figure out how to share your screen on Zoom. 
+
+- Note the security warning users will see upon sharing screen
+- For troubleshooting screen sharing in iOS, reference the [Zoom documentation here](https://support.zoom.us/hc/en-us/articles/115005890803-iOS-Screen-Sharing). [For Android, try here](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen)
+- Record the session still!
+- Ask participant to be mindful of thinking outloud since you will not be able to see a mouse cursor go through the prototype
 
 
 ## First Task: VA.gov navigation and content - 7 minutes
