@@ -5,7 +5,9 @@
 ## Must-have
 | Task     | Status |
 | :----------- | ----------- |
-| Launch plan and metrics   |In progress - working to define metrics | 
+| Password/beta test implementation | In progress - ETA 8/18 |
+| Google analytics backend setup | In progress - ETA 8/24 |
+| Launch plan and metrics   |In progress - working with program to define metrics | 
 | Error experience (messaging)  | Completed  |
 | Accessible PDF created for users | In progress - awaiting updated base PDF from 508 office|
 | Feature toggle testing  | In progress - ETA 8/21    |
