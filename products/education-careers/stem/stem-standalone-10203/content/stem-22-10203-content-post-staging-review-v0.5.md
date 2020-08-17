@@ -321,9 +321,11 @@ What's the name of your STEM degree? (*Required) { text field }
 
 What’s the name of the school where you plan on using the Rogers STEM Scholarship? (*Required) { text field, prefill if present }
 
-City (*Required) { text field, prefill if present }
+Country (*Required) { dropdown, prefill if present } { If other than United States selected, State field is not required and not a dropdown. }  
 
-State (*Required) { dropdown with full state names, prefill if present }  
+City (*Required) { text field, prefill if present }  
+
+State (*Required)  { dropdown with full state names, prefill if present. If United States selected as country, it is not required and not a dropdown. }  
 
 
 #### Your school ID and contact details  { Sub-head } 
@@ -374,12 +376,12 @@ Form 22-10203
 ### Chapter Title:  5 of 6:  Personal information  
 
 #### Your address { sub-head }  
-  - Country (*Required)  { dropdown, prefill if present } { If other than United States selected, State field is not required }
-  - Street address (*Required) { text field, prefill if present }
-  - Line 2 { text field, prefill if present }
-  - City (*Required) { text field, prefill if present }
-  - State (*Required) { dropdown with full state names, prefill if present } 
-  - Postal code (*Required) { text field, zip validation (5- or 10-digit string), prefill if present }
+  - Country (*Required)  { dropdown, prefill if present } { If other than United States selected, State field is not required and not a dropdown. }  
+  - Street address (*Required) { text field, prefill if present }  
+  - Line 2 { text field, prefill if present }  
+  - City (*Required) { text field, prefill if present }  
+  - State (*Required) { dropdown with full state names, prefill if present. If United States selected as country, it is not required and not a dropdown. }  
+  - Postal code (*Required) { text field, zip validation (5- or 10-digit string), prefill if present }  
         
 ##### Other contact information { sub-head }  
 
