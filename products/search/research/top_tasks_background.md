@@ -28,7 +28,7 @@ In sum, Top Tasks management allows you to:
 
 ## Companion VA.gov Proposals
 
-- [ser Research Framework for Evaluating IA on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/search/IA-user-research-framework.docx) (Meg Peters, DEPO IA Lead)
+- [User Research Framework for Evaluating IA on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/search/IA-user-research-framework.docx) (Meg Peters, DEPO IA Lead)
 - [Strategies to Measure Customer Satisfaction](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/customer-satisfaction-strategies.md)  (Shawna Hein, VSP Design Lead)
 
 
