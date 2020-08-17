@@ -24,6 +24,10 @@
 
 [VR&E (Chapter 31) discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/design-discovery.md)
 
+[VR&E Hub page on VA.gov](https://www.va.gov/careers-employment/vocational-rehabilitation/)
+
+[VA Form 28-1900 (PDF)](https://www.vba.va.gov/pubs/forms/vba-28-1900-are.pdf)
+
 ---
 
 ### Mockups Changelog
