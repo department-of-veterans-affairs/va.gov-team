@@ -12,10 +12,8 @@ How might we encourage Veterans to provide both mailing and residental addresses
 
 ## Assumptions/Questions
 1. Why do we need both addresses?
-1. What happens downstream with these addresses?
-1. What about users that have more than one residential address?
-1. Currently, the HCA collects "Permanent address" (instead of mailing/home), is there a particular reason for that?  
-1. Why do we collect address on the HCA at all (can we pull it from other sources?)
+1. What is the buisness process after you collect the addresses?
+1. We use “mailing” and “home” address in profile and across VA.gov - assume we can use it in this effort - Is that the case?   
 1. Why does the user have to enter Name/Birthdate/Social Security number before entering application? 
 1. What are other methods of communication to use to communicate with Veterans?
 1. How should the experience differ between authenticated and unauthenticated? 
