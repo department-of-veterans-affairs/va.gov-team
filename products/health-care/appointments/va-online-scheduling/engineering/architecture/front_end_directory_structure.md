@@ -14,16 +14,20 @@ To address the issue of the large containers and components folder, it is sugges
 - appointment-list
     - components
     - redux
+    - sass
 - new-appointment
     - components
     - redux
+    - sass
 - express-care
     - components
     - redux
+    - sass
 - utils
 - services
 - api
 - tests
+- sass
 
 ## Components folder
 The top level components folder is intended to be used for reusable components. These should be components that are used across multiple features or are for generic VA data (like facilities).
