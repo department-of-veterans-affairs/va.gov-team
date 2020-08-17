@@ -13,6 +13,7 @@ How might we encourage Veterans to provide both mailing and residental addresses
 ## Assumptions/Questions
 1. Why do we need both addresses?
 1. What about users that have more than one residential address?
+1. Currently, the HCA collects "Permanent address" - can you tell me about the decision to label the address Permanent? 
 1. Why do we collect address on the HCA at all (can we pull it from other sources?)
 1. What happens downstream with these addresses?
 1. What are other methods of communication to use to communicate with Veterans?
