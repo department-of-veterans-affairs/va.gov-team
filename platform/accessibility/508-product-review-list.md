@@ -251,7 +251,8 @@ Back to [Table of Contents](#table-of-contents)
 #### Profile Direct Deposit Feature
 
 **Audit Status:** _Audited by VSP Product Support Team August 2019. Request sent to VA 508 Office October 2019._<br/>
-**No open issues**<br/>
+- [508-defect-4 [MOBILE DESIGN] Consider abutting mobile subnav to the top of viewport - #11890](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11890)<br/>
+**Opened:** August 17, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -931,8 +932,13 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open issues**
 
+* [508-defect-2 [SCREENREADER]: Bold, italic text and font-size MUST not be used to style '<p>' elements as a heading - #11966](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11966)<br/>**Staging** | **Opened:** August 3, 2020 | **Severity:** _508-defect-2 - **Serious**_
+* [508-defect-2 [MOBILE DESIGN]: Relevant content provided on desktop MUST also be available on mobile - #11969](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11969)<br/>**Staging** | **Opened:** August 3, 2020 | **Severity:** _508-defect-2 - **Serious**_
+* [508-defect-2 [SCREENREADER]: Screenreader SHOULD announce the accurate number of items - #12060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12060)<br/>**Staging** | **Opened:** August 4, 2020 | **Severity:** _508-defect-2 - **Serious**_
+* [508-defect-2 [SEMANTIC MARKUP, SCREENREADER]: Search form SHOULD use semantic markup - #12108](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12108)<br/>**Staging** | **Opened:** August 5, 2020 | **Severity:** _508-defect-2 - **Serious**_
 * [#9374 508-defect-3 [FOCUS MANAGEMENT]: Focus order SHOULD flow in the logical reading order](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9374)<br/>**Staging** | **Opened:** May 20, 2020 | **Severity:** _508-defect-3 - **Minor**_
-* [#8791 [COGNITION, SEMANTIC MARKUP]: individual search items SHOULD read semantically](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8791)<br/>**Staging** | **Opened:** May 5, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
+* [#8791 [COGNITION, SEMANTIC MARKUP]: individual search items SHOULD read semantically](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8791)<br/>**Staging** | **Opened:** May 5, 2020 | **Severity:** _508-defect-3 - **Minor**_
+* [508-defect-3 [SCREENREADER]: The same terms SHOULD be used for non-sighted and sighted users - #12547](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12547)<br/>**Staging** | **Opened:** August 17, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -1022,6 +1028,7 @@ Back to [Table of Contents](#table-of-contents)
 - [508-defect-2 [HEADING, COGNITION]: Heading levels SHOULD only increase by one - #12430](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12430)<br/>**Staging** | **Opened:** August 12, 2020 | **Severity:** _508-defect-2 - **Serious**_
 - [508-defect-2 [MOBILE-DESIGN]: Mobile layout SHOULD be legible and easy-to-use - #12422](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12422)<br/>**Staging** | **Opened:** August 12, 2020 | **Severity:** _508-defect-2 - **Serious**_
 - [508-defect-2 [SCREENREADER, COGNITION]: if links are different, they MUST communicate their differences - #12414](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12414)<br/>**Staging** | **Opened:** August 12, 2020 | **Severity:** _508-defect-2 - **Serious**_
+- [508-defect-4 Enhancement [SCREENREADER, COGNITION]: Consider consolidating the information for the debt letter download links - #12192](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12192)<br/>**Staging** | **Opened:** August 6, 2020 | **Severity:** _508-defect-4 - **Trivial**_
   
 Back to [Table of Contents](#table-of-contents)
 
