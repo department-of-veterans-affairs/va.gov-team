@@ -30,9 +30,9 @@ Phase III, Go Live @ 100%, begin redirecting traffic from eBenefits
 
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 ### Planning:
-- Desired date range or test duration: [August 20-25]
-- Desired number of users: 5
-- How you'll recruit the right production test users: Personal contacts, work contacts
+- Desired date range or test duration: [August 24-25]
+- Desired number of users: 4
+- How you'll recruit the right production test users: Perigian
 - How you'll conduct the testing: With front end and back end support to ensure the technical aspects of the BDD integration with MVI is working (very similar to Original Claims).
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: On production it will be hidden behind a different intro page.
 
