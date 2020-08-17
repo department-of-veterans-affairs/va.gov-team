@@ -10,6 +10,8 @@ Hierarchy of alerts:
 
 3/ Veteran action needed - yellow
 
+4/ Informational
+
 [Full banner information document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md)
 
 
