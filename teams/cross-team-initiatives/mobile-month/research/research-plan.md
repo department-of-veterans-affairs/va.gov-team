@@ -20,6 +20,8 @@ We will be attempting to answer some (not all) of the below research questions, 
 
 *  What usability issues do Veterans encounter when checking on the status of a claim?
 
+*  Can folks find info in the "right rail component" on mobile?
+
 * What usability issues do Veterans encounter when looking for a VA location?
 
 * What usability issues do Veterans encounter when using site search and looking for information on a content page?
