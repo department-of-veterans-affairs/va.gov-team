@@ -21,20 +21,24 @@ In two previous rounds of user research, we have determined that there is a Vete
 - Veterans will respond positively to the app features and overall UI design.
 - The bottom toolbar navigation elements will be usable and clear to Veterans.
 - The use of iOS platform elements will help the app be more usable because it's leveraging established mobile patterns.
-- There may be dissatisfaction with features that are not available in the MVP (e.g. cancelling and scheduling an appointment). 
+- There may be dissatisfaction with features that are not available in the MVP (e.g. cancelling and scheduling an appointment).
 - There may be confusion or dissatisfaction with the limited health features. 
 
 
 # Method
 
 ## What method of research are you planning?
-Remote user interviews with 6-8 of Veterans over the course of 1 week. Each of these interviews will be moderated and conducted remotely using Zoom. The sessions will be led by targeted tasks and flows that cover the core UX features of the interactive prototype. Ideally we will test the prototype directly on mobile devices (still thinking through process for this).
+Remote user interviews with 6-8 of Veterans over the course of 1 week. Each of these interviews will be moderated and conducted remotely using Zoom. The sessions will be led by targeted tasks and flows that cover the core UX features of the interactive prototype. We will test the prototype directly on mobile devices. 
 
 ## Why this method?
 This method will allow members of the VA Mobile App team, and the teams we are overlapping with, to observe sessions. It will also allow us to speak with a diverse population of Veterans located across the United States. Specifically testing the prototype on a mobile device will help us test sizing of UI elements, typography, and hit areas, allowing us to get a clearer sense of UX/UI improvements needed to make the MVP app as user friendly as possible.     
 
 ## Where are you planning to do your research?
-We will use the Perigean zoom account. We will ask participants to join the Zoom via mobile and send a link to the Invision prototype there (still thinking through process for this). As a backup, we can conduct interviews on desktop with the prototype pulled up on desktop and navigate it with a mouse.
+We will use the Perigean zoom account. We will ask participants to join the Zoom via mobile and send a link to the Invision prototype via the Zoom chat for participants to open directly on their mobile device. Once participants have opend the prototype, we will ask them to share their screen. 
+
+As a backup, we can conduct interviews on desktop with the prototype pulled up on desktop and navigate it with a mouse.
+
+To help this research iniative to be successful, we ask for Perigean to walk participants through installing the zoom app on their phone prior to interviews, and we can work with Perigean to determine what else our team can do to help with testing prep.
 
 ## What will you be testing?
 - Interactive high-fidelity Invision prototype (iPhone SE size, 320px width)
@@ -46,15 +50,14 @@ We will use the Perigean zoom account. We will ask participants to join the Zoom
     - Branch of service
     - Gender (30% or more women)
     - Race
-    - Age (ideally two people each from 18-30, 31-50, 50-64, 65+, but can be flexible)
+    - Age (ideally at least one participant 25 or under and one participant 65+, but we are flexible)
     - Geography
-    - Density (rural)
+    - Density (ideally at least one participant in a rural area and one in a major city, but we are flexible)
   - **All** participants should have experience with Disability Benefits and/or filing a claim with VA. 
-    - A majority of recruits should be going through the claims process for Disability Benefits currently. 
-    - Ideally, 50% of recruits should have some experience with VA Health Care benefits in addition to experience with Disability Benefits. 
-  - All participants should have used VA.gov in the past 
+    - A majority of participants should be currently going through the claims process for Disability Benefits currently 
+    - Ideally, 75% recruits should have some experience with VA Health Care benefits in addition to experience with Disability Benefits 
+  - All participants should have used VA.gov in the past on mobile and desktop
   - No assistive device users (low-fi prototype does not support assistive technology)
-  - No more than 30% of participants should be VA employees
 
   
 ## What is your recruitment strategy?
