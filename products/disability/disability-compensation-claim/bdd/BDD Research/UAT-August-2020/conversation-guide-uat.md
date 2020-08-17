@@ -21,25 +21,24 @@ Before we start, a few things I want to mention:
 
 OK,let's get started.
 
-1. First, can you tell me a little bit about yourself? (If stuck, prompt to ask about service experience, where they live, their work).
-2. Have you heard of BDD before this session?
-3. Next, I'd like to confirm: You are separating from the military between X-Y days? (answer depends on whether this is for 90-180 or 1-89)
+1. Have you heard of BDD before this session?
+2. Next, I'd like to confirm: You are separating from the military between X-Y days? (answer depends on whether this is for 90-180 or 1-89)
 - **If no, the participant can not complete UAT**. Confirm/probe if they seem confused, but if they are sure they are not separating within the expected window, we can let them go.
-4. Can you confirm for me that you have a DS Logon? 
-5. Do you know your username and password? 
+3. Can you confirm for me that you have a DS Logon? 
+4. Do you know your username and password? 
   - If not: Are these readily accessible? Could get them?
   - If the user can not remember or retrieve their login credentials, end the session.
-6. Can you tell me what type of computer you are using today? 
+5. Can you tell me what type of computer you are using today? 
   - If needed: I'm asking this question because sometimes the type of computer can affect your experience with the tools. Knowing which one you are using will help our developers make adjustments if needed. 
-7. Can you tell me which web browser you are using?
-8. Today we are going to observe you interacting with the new tools on your computer. Would you feel comfortable sharing your screen with me at this time?  
+6. Can you tell me which web browser you are using?
+7. Today we are going to observe you interacting with the new tools on your computer. Would you feel comfortable sharing your screen with me at this time?  
   - If no: Explain this is necessary for testing. If they are still unwilling, end the call.
 
 **(Pass presenter rights).**
 
 OK, please share your screen, and then we will get started.
 
-## Testing BDD - 25-45 minutes
+## Testing BDD - 30-40 minutes
 
 - I'd like you to open a new tab in your browser, and go to https://www.va.gov/disability/how-to-file-claim/ and scroll down to filing a claim.
   - [ ] **UAT TASK:** They are able to see the wizard and select information for BDD claim which includes NOT separating from service yet and a date within the expected time window.
@@ -77,7 +76,7 @@ OK, please share your screen, and then we will get started.
   - [ ] **UAT TASK:** Review: Review Application. Accept privacy Policy. 
   - [ ] **UAT TASK:** Review: Review Submission Page
            
-6 users 
+10 users 
 
 ## Post-Task Interview - 1 minutes
 
