@@ -50,17 +50,29 @@ Apply on VA.gov and enjoy the smoother process of using disabilty claims flow ve
 3. Will rely on Original Claims.
 
 ## Questions
-See research (Luke needs to link)
+See research - we have a couple rounds you can dig into here:
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/disability-compensation-claim/bdd/BDD%20Research
 
 ## Requirements
 #### In Scope 
-See research results.
+Research results will likely update this list, but initial main findings:
+
+-   Ensure that users having filed a BDD claim get enough updates, that they know their claim is in progress, and that nothing is holding it back. 
+-   This will ensure that users know that their claim progress is normal, that there is no action needed on their part, and prevent users from contacting VA with questions or complaints. 
+-   Add Benefits Delivery at Discharge to the navigation / UI.
+-   Many users have never heard about the BDD program. Consider how to make it more known.  
+-   Use only Benefits Delivery at Discharge (BDD) as the single term for this program. Remove Pre-discharge Claim. 
+-   Simplify the Pre-discharge claim page. Less text, less overwhelming. Include a video.
+-   Change copy on Military history page, New conditions page and the Supporting evidence page to avoid confusion.
+-   Change text on the Claim exam page to be more supportive of veteran. Add phone number or area code from the vendor. Add a call back number on page or in voice mail, or add an email address to allow the user to reschedule.
+-   Add email confirmation after submission of claim.
+-   Build a status tracker or a dashboard to see the claim progress/status/changes. Include progress steps, timeline of process, time estimate for completion, information that the claim is tracked by social security number.
 
 #### Out of Scope
-See research results (Luke needs to link)
+-   Nothing really out of scope other than to explicitly say we are not doing IDES
 
 ## Solution Approach
-Reuse the existing 526 form and flow with only changes related to seperation dates.
+Reuse the existing 526 form and flow with only changes related to seperation dates and separation location.  EVSS handles the back-end submission with correct EP codes, etc.
 
 ## Value Propositions
 Service members being able to apply for their first VA benefits on VA.gov versus eBenefits will improve their overall experience and likelyhood of filing for these benefits.
@@ -86,7 +98,7 @@ Notes:
 - Service treatment record also needs to be submitted
 
 ### Baseline KPIs
-- TBD
+- Working with Paul Shute but many of these may not be possible as baseline metrics (not captured by VBMS or anywhere)
 
 ## Key Results (KRs)
 
@@ -102,8 +114,7 @@ Notes:
 
 ## Launch Date
 - *Target Launch Date*
-  - ~June 24, 2020~
-  - pushed out for ~3 months
+  - August 24th for UAT
 - *Actual Launch Date*
   - tbd
 - *What date will you evaluate impact after launch?*
