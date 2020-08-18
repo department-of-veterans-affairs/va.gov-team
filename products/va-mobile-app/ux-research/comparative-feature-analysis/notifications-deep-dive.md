@@ -36,8 +36,12 @@ These apps share some characteristics in how they approach this:
 - Notifications that a user has not yet clicked on are shaded to clarify they are new. 
 - While all social media apps offer a robust activity log, it's something users have to click into to view. The apps let the user make the choice if they want to just begin engaging with the app, or first review their notifications. 
 
+![social media screenshots](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/comparative-feature-analysis/screenshots/notifications-activity-audit-social-media.png)
+
 #### Non-social media apps more commonly offer cards on their home screen that give an update (either passive or action-required), and tend to not have a notifications nav item in their main toolbar
-Chase Bank, American Airlines, and ComEd all use cards to give snapshots of current statuses (like bank balances or bill balances) or timely notifications (like COVID-19 news). These apps all also don't offer an activity feed per se, although they do have a dedicated spot where news items display. Generally these news items are passive, and the cards on the home screen are used to give action-required notifications a home within the app.
+Chase Bank, American Airlines, and ComEd all use cards to give snapshots of current statuses (like bank balances or bill balances) or timely notifications (like COVID-19 news). These apps all also don't offer an activity feed per se, although they do have a dedicated spot where news items display. Generally these news items are passive, and the cards on the home screen are used to give action-required notifications a home within the app. Mint Banking does use a main toolbar item on notifications, however it's not a full "activity feed"
+
+![non-social media screenshots](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/comparative-feature-analysis/screenshots/notifications-activity-audit-non-social-media.png)
 
 **Recommendation:** While an activity feed is useful and something we should invest in for later releases, it may not be something that is needed for the MVP if we follow the cards approach. Since the MVP app purpose is to deliver updates and status changes and enable quick tasks, we should use the card approach to highlight big changes on the home screen.
 
