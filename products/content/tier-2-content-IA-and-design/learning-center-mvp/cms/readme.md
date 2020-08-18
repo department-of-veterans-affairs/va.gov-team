@@ -13,13 +13,13 @@
 1. Need more help? component
 1. MVP taxonomy
 1. Governance
-1. Content reusability accross products - review concept prototype
 
 ## Tuesday August 18
 
 ### Agenda
 
 1. Review backlog / clarify any items that affect sprint 13
+   1. Content reusability accross products - review concept prototype
 1. Training plan for PW team and LC stakeholders / SMEs
    1. Training for Randi and PW content authors end of Oct. Formal training for other authors Dec/ Jan
    1. Clarify MVP dates
