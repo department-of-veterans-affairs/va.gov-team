@@ -29,3 +29,6 @@ When a VFS team has a new/adjusted pattern approved through the collaboration cy
 ### For desired changes that are not launch-blocking
 Follow Path C: the VFS team can't change the code, but should submit a ticket in the Proposals column w/the appropriate label, and the design system council will review it later
 - For example: minor visual bugs
+
+### Escalation path for decision-making
+Use VSP team member judgement, and escalate to any VSP DEPO lead if a decision is needed on the correct path to pursue.
