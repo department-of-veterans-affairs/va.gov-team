@@ -42,7 +42,7 @@ Tickets outside a sprint include:
 - Icebox 
 
 
-## Key Decisions
+## Upcoming Key Decisions
 ### Design
 - Anticipated decisions:
 - Decision maker:
