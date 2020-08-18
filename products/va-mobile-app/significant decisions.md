@@ -272,7 +272,11 @@ See initial set of options [here](https://github.com/department-of-veterans-affa
 4. **VA trends and momentum:** There has been a year-long effort to migrate VA.gov to SSOe for authentication and given the mobile app aligns most closely with VA.gov (rather than third-party consumers such as Apple Health), SSOe seemed like the appropriate direction for the mobile to go.
 
 ## Document the people who agreed to the design decision (and their roles on the project).
-TBD
+We are continuing to socialize this decision and awaiting a designated Tech Lead from VA, so for now we have gotten approval from:
+
+- Michael Fleet (VSP Tech Lead)
+- John Paul Ashenfelter (VSP Tech Lead)
+
 
 ## When, or under what conditions, would you recommend revisiting this design decision? E.g., after usability testing, after launch when metrics or analytics equal X, etc.
 - If VA.gov changes their authentication mechanism, the mobile app will most likely need to change as well.
