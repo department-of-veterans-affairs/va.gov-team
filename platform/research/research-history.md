@@ -31,17 +31,22 @@ This does not include research for Appeals projects, which is stored in differen
 
 ### July 2020
 
-#### July 1-10: Connected Accounts (privacy, consent and authorization) - Lighthouse 
-*Ad Hoc: Carey Otto, Evangeline Garreau, Maria Vidart-Delgado 
-
-- 11 participants 
-- [Research folder](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/privacy/connected-accounts)
+#### July 13-16: Facility Locator - Urgent Care Mashup (usability test)
+*Ad Hoc: VSA Facilities, Leyda Hughes*
+- 8 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/user-research/urgent-care-mashup)
 
 #### July 6-9: VA Form 22-10203 - Apply for Rogers STEM Scholarship, Round 2  
 *Booz Allen: Amy Knox, Cindy Cruz, Jen Jones*
 
 - 6 participants  
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/stem/stem-standalone-10203/research) 
+
+#### July 1-10: Connected Accounts (privacy, consent and authorization) - Lighthouse 
+*Ad Hoc: Carey Otto, Evangeline Garreau, Maria Vidart-Delgado 
+
+- 11 participants 
+- [Research folder](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/privacy/connected-accounts)
 
 ### June 2020
 
