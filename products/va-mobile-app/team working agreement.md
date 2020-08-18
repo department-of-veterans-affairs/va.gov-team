@@ -55,7 +55,7 @@ Tickets outside a sprint include:
 
 
 ## Logistics
-- [#va-mobile-app]9https://dsva.slack.com/archives/C018V2JCWRJ) is where most of our conversations should live (try not to DM as much as possible!)
+- [#va-mobile-app](https://dsva.slack.com/archives/C018V2JCWRJ) is where most of our conversations should live (try not to DM as much as possible!)
 - Github label is va-mobile-app 
 - Copy relevant slack convos into Zenhub tickets
 
