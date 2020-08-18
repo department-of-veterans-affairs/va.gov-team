@@ -47,6 +47,7 @@ Before we start, a few things I want to mention:
 - If not, backup plan - load VA.gov in a "mobile frame" - open VA.gov in Chrome. Hit Command+Alt+J.  Backup to backup - moderator shares screen.
 
 Let's start by making sure you can figure out how to share your screen on Zoom.
+
 **If they are on an iPhone**
 * Tap ‘Share content’ (Green button at bottom middle of the screen) If you can’t see the zoom menu, tap anywhere on your screen once ant it should appear.
 * Tap on Screen
