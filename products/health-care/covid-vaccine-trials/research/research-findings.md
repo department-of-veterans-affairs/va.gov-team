@@ -34,13 +34,14 @@ Role: All Veterans
 
 1. **5 of 6 Veterans said their motivation for volunteering in a clinical trial is to help other people.**
 
-- "Hopeful to help myself or others in the same situation"
+- "Hopeful to help myself or others in the same situation"
 - "Although I think I'm not as protective of my info - if I can provide info to the greater good, I don't mind doing that."
 - "if you can help other people then why not"
 
 
 
 2. **<u>All participants</u> had individual threshholds or limits for what would make them NOT participate in a trial.** 
+
 - "1000 needles in your back, a bone marrow test, might stop me"
 - "Without more info, would say 6/10 chance to participate—I'm worried about potential side effects."
 - Summarizing a few quotes from the same participant: Yes, I'm willing to participate, but I want to be compensated for it, especially for travel.
@@ -81,7 +82,7 @@ Role: All Veterans
 
 ### The form
 
-1. **No participant had a problem with the length of the form.** Some of them quickly scanned the entirety of the form first to get a sense of form length. Only 2 participants noticed the sentence about time. — *Hypothesis: they saw the submit button and understood it was only a single page.*
+1. **No participant had a problem with the length of the form.** Some of them quickly scanned the entirety of the form first to get a sense of form length. Only 2 participants noticed the sentence about time, but those folks found it helpful. — *Hypothesis: they saw the submit button and understood it was only a single page.*
 
 - "The shorter the better."
 - "Asked me the important stuff, like that it was short."
