@@ -3,7 +3,7 @@
 { Education Benefits wizard accessible via "Find your education benefits form" button located here: https://www.va.gov/education/how-to-apply/ and here: https://staging.va.gov/education/eligibility/ }
 
 
-{ Q1 } Are you applying for a benefit or updating your program or place of training?
+{ Q1 } Are you applying for a benefit or updating your program or place of training? { radio buttons }
 
 * Applying for a new benefit	
 * Updating my program of study or place of training
