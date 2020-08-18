@@ -47,35 +47,63 @@ these will be built in the Rails engine for isolation.
 ## Specifics
 
 ### Detailed Design
-_Designs that are too detailed for the above High Level Design section belong here. Anything that will require a day or more of work to implement should be described here._
+The mobile endpoints need custom authentication, merged responses, and reduced payloads. With versioning this is possible 
+in the core api albeit with a fractured experience. Mobile endpoints could be on v0, v1, or even v2. MVP mobile endpoints 
+will be in flux, and parallel va.gov changes could cause versions to climb.
 
-_This is a great place to put APIs, communication protocols, file formats, and the like._
+To limit the disruption to the API it's best to perform the optimizations in a module with a `/mobile` base path. 
+This allows us to:
 
-_It is important to include assumptions about what external systems will provide. For example if this system has a method that takes a user id as input, will your implementation assume that the user id is valid? Or if a method has a string parameter, does it assume that the parameter has been sanitized against injection attacks? Having such assumptions explicitly spelled out here before you start implementing increases the chances that misunderstandings will be caught by a reviewer before they lead to bugs or vulnerabilities. Please reference the external system's documentation to justify your assumption whenever possible (and if such documentation doesn't exist, ask the external system's author to document the behavior or at least confirm it in an email)._
+- Add mobile authentication without changes to the core API codebase.
+- Stay out of the way as we tweak endpoints in a mobile sandbox.
+- Test out optimizations that can be later ported back to the core API.
 
-_Here's an easy rule of thumb for deciding what to write here: Think of anything that would be a pain to change if you were requested to do so in a code review. If you put that implementation detail in here, you'll be less likely to be asked to change it once you've written all the code._
+Authentication for the mobile app is via IAM's SSOe OAuth service. It is 100% API based and does not use callbacks or cookies. 
+The mobile `ApplicationController` would extend the core `ApplicationController` and override its authentication methods.
+
+Optional but some logic in the core `ApplicationController` does not apply globally. That logic could move to concerns and 
+included as needed. e.g. `render_job_id` only applies to the `DocumentsController` and the `EVSSClaimsController`. 
+
+The mobile engine's endpoints mount at `/mobile`:
+
+```ruby
+mount Mobile::Engine, at: '/mobile'
+```
+
+Some endpoints such as facilities don't need optimization. They will pass-through via routes:
+
+```ruby
+# modules/mobile/config/routes.rb
+get '/facilities/va/:id' => redirect('/v1/facilities/va/%{id}')
+```
+
+We'll combine views, such as user profile, that over-fetch or over-deliver. For future flexibility we can use REST/JSON-API's 
+sparse [fieldsets](https://jsonapi.org/format/#fetching-sparse-fieldsets) and [includes](https://jsonapi.org/format/#fetching-includes).
+
 
 ### Code Location
-_The path of the source code in the repository._
+vets-api (link to modules)
 
 ### Testing Plan
-_How you will verify the behavior of your system. Once the system is written, this section should be updated to reflect the current state of testing and future aspirations._
+To ensure changes to shared backend services will not break code, tests will be written to demonstrate the mobile API requirements. Any breaking changes to upstream services will fail our tests.
 
 ### Logging
-_What your system will record and how._
+We plan to adhere to VSP standards for logging.
 
 ### Debugging
-_How users can debug interactions with your system. When designing a system it's important to think about what tools you can provide to make debugging problems easier. Sometimes it's unclear whether the problem is in your system at all, so a mechanism for isolating a particular interaction and examining it to see if your system behaved as expected is very valuable. Once a system is in use, this is a great place to put tips and recipes for debugging. If this section grows too large, the mechanisms can be summarized here and individual tips can be moved to another document._
+TBD
 
 ### Caveats
-_Gotchas, differences between the design and implementation, other potential stumbling blocks for users or maintainers, and their implications and workarounds. Unless something is known to be tricky ahead of time, this section will probably start out empty._
-
-_Rather than deleting it, it's recommended that you keep this section with a simple place holder, since caveats will almost certainly appear down the road._
-
-_To be determined._
+TBD
 
 ### Security Concerns
-_This section should describe possible threats (denial of service, malicious requests, etc) and what, if anything, is being done to protect against them. Be sure to list concerns for which you don't have a solution or you believe don't need a solution. Security concerns that we don't need to worry about also belong here (e.g. we don't need to worry about denial of service attacks for this system because it only receives requests from the api server which already has DOS attack protections)._
+#### Potential threats
+- SSOe introspect DoS
+Adding more surface area to the API does enable new possibilities for denial-of-service attacks. We plan on making a call to SSOe (introspect) with every vets-api session cache miss, to validate the access token and establish a session.
+Remediation could include caching each “miss” for a period of time, protecting the introspect endpoint on SSOe from DOS.
+- CSRF for API POST requests
+TBD - research best practices that do not include turning off the CSRF checking
+
 
 ### Privacy Concerns
 _This section should describe any risks related to user data, PII that are added by this new application. Think about flows of user data through systems, places data is stored and logged, places data is displayed to users. Where is user data stored or logged? How long is it stored?_
