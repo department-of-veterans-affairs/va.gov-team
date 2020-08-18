@@ -18,6 +18,7 @@
 
 - [ ] Make sure you have the mobile research guidelines and are prepared to walk someone through how to install zoom on their phones if they don't have it, or the laptop hugging technique 
 - [ ] Open VA.gov in a new tab and hit Command+Alt+J to put it in mobile view in case moderator needs to share screen as a backup
+- [ ] have the mobile prototype available if person doesn't have any claims in progress: https://vsateams.invisionapp.com/share/4XYGXZU9B5T
 - [ ] have this link open so you can get the password for our staging user if necessary https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md
 
 ## Intro - 5 minutes
