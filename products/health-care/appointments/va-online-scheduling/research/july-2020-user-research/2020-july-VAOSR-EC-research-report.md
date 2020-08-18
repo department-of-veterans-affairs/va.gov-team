@@ -60,6 +60,12 @@ A full breakdown of participant session coverage and their demographics are belo
 
 ## Findings & Recommendations Overview
 
+### Findings 
+
+Overall, both VAOSR and Express Care were well received by most of the Veterans who interacted with each product, respectively. Taking into account the fact that there were several Veterans that only interacted with one or the other and/or different iterations of the Express Care prototype, both products were generally usable and made sense to Veterans, with the exception of one . However, there were a number of significant challenges presented in both experiences that Veterans expressly stated that had they not been participating in a research session, able to ask questions, and had someone to provide assistance and guidance through either a hypothetical task or a task they were interested in completing, that they would have given up attempting to use the respective tool, opting to call their provider to complete the task, or more realistically, given up entirely. 
+
+Veterans struggled significantly with understanding both VAOSR and Express Care, conceptually. Most notably, Veterans stated a significant frustration after interacting with VAOSR and realizing that the tool does not *actually* complete the scheduling request, especially since content throughout VAOSR and content on VA.gov referring to the tool consistently uses terms that indicate as much. Albeit this frustration, 10 of the thirteen (3 participants did not interact with VAOSR) participants stated they would utilize VAOSR in the future to attempt to request/schedule an appointment with their VA medical provider in the future, now that they are aware of the option (none of the participants who participated in this research previously used VAOSR or were aware of this tool on VA.gov).
+
 ### Recommendations overview
 
 Both VAOSR and Express Care were well received by most Veterans who interacted with each product, respectively. However, there were a number of significant experience issues that arose throughout research that should be addressed, especially for VAOSR:
@@ -72,8 +78,6 @@ Both VAOSR and Express Care were well received by most Veterans who interacted w
 6. **[Appointment details](#6-provide-specific-information-about-an-appointment-so-that-veterans-know-who-they-saw-the-type-of-care-the-type-of-visit-and-additional-relevant-information-about-their-appointment):**  Provide specific information about an appointment so that Veterans know who they saw, the type of care, the type of visit, and additional relevant information about their appointment. 
 7. **[Request flow](#7-reevaluate-process-for-requesting-an-appointment-flow-to-align-with-a-users-mental-model-this-may-require-conducting-additional-user-research):**  Reevaluate process for requesting an appointment flow to align with a user's mental model. This may require conducting additional user research.
 8. **[Rescheduling options](#8-create-the-ability-to-reschedule-or-request-another-appointment-based-on-an-appointment-the-veteran-already-has-scheduled-in-their-account):** Create the ability to reschedule or request another appointment, based on an appointment the Veteran already has scheduled in their account.   
-9. 
-
 
 
 
