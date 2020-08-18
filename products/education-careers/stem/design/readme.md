@@ -1,6 +1,6 @@
 # InVision Prototypes for the new STEM VA Form 22-10203 (May 2020)  
 
-[See STEM standalone prototypes for 22-10203)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/stem/stem-standalone-10203/design/prototypes.md)  
+[See STEM standalone prototypes for 22-10203](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/stem/stem-standalone-10203/design/prototypes.md)  
 
 
 
