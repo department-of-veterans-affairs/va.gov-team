@@ -18,6 +18,7 @@
 
 - [ ] Make sure you have the mobile research guidelines and are prepared to walk someone through how to install zoom on their phones if they don't have it, or the laptop hugging technique 
 - [ ] Open VA.gov in a new tab and hit Command+Alt+J to put it in mobile view in case moderator needs to share screen as a backup
+- [ ] have this link open so you can get the password for our staging user if necessary https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md
 
 ## Intro - 5 minutes
 
@@ -27,7 +28,6 @@ Before we start, a few things I want to mention:
 
 - **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
@@ -39,24 +39,41 @@ Before we start, a few things I want to mention:
 ## Warm-up Questions - 5 minutes
 
 - Before we look at the website, can you tell me a little about yourself? What part of the country do you live in? What branch did you serve?
-- What type of phone do you use? How do you typically use it? Breakdown of phone versus desktop?
+- What type of phone do you use? How do you typically use it? Breakdown of phone versus desktop? 
 
 ## Logistics: figure out how to share your screen - 5 minutes
 
 - Confirm with the participant in the beginning of the session that they are using a mobile device with Zoom installed
 - If not, backup plan - load VA.gov in a "mobile frame" - open VA.gov in Chrome. Hit Command+Alt+J.  Backup to backup - moderator shares screen.
 
-Let's start by making sure you can figure out how to share your screen on Zoom. 
+Let's start by making sure you can figure out how to share your screen on Zoom.
+**If they are on an iPhone**
+* Tap ‘Share content’ (Green button at bottom middle of the screen) If you can’t see the zoom menu, tap anywhere on your screen once ant it should appear.
+* Tap on Screen
+* Tap Zoom
+* Tap start broadcast. After a count of 3, the entire device screen will be shared into the meeting
+* Tap the red bar at the top of your screen when you are ready to end the share 
+* IF THEY CAN'T FIGURE IT OUT
+   * they can tap "share content" then tap "web URL" and just enter in VA.gov
+* For troubleshooting screen sharing in iOS, reference the Zoom documentation here https://support.zoom.us/hc/en-us/articles/115005890803-iOS-Screen-Sharing   
 
-- Note the security warning users will see upon sharing screen
-- For troubleshooting screen sharing in iOS, reference the [Zoom documentation here](https://support.zoom.us/hc/en-us/articles/115005890803-iOS-Screen-Sharing). [For Android, try here](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen)
-- Record the session still!
-- Ask participant to be mindful of thinking outloud since you will not be able to see a mouse cursor go through the prototype
+**If they are on Android**
+* Tap "Share"
+* Tap "Screen"
+* Tap "Start now"
+* For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen
+
+**Ask participant to be mindful of thinking outloud since you will not be able to see a mouse cursor go through the prototype**
 
 
 ## First Task: VA.gov navigation and content - 7 minutes
 
 - I'd like you to go to VA.gov on your device. Now imagine you're interested in going back to school and you've heard there are benefits that can help you with that. How would you look for these benefits?  
+
+When they land on a content page, say 
+- Let's say this page wasn't what you were looking for. How would you explore a different aspect of Education benefits? 
+
+If they don't use "More in this section" ask them if they saw it / their thoughts
 
 ### Things to watch for:
 
@@ -64,12 +81,13 @@ Let's start by making sure you can figure out how to share your screen on Zoom.
 - If they search, what is that like? What about browsing?
 - How do they interact with the header if at all?
 - How do they interact with navigation if at all?
+- How do they switch between content pages using the navigation? Do they see the "More in this section" bar?
 - If they don't get to the "hub page" show this to them https://www.va.gov/education/
 
 ## Second Task: Form - 8 minutes
 
 - You've decided to apply for the GI bill and other related education benefits. What would you do?
-- If they can't find it, lead them here: https://www.va.gov/education/how-to-apply/ (they don't have to go through the whole thing)
+- If they can't find it, lead them here: https://www.va.gov/education/how-to-apply/ and have them walk through the first 3 pages or so of the form, only filling out the "required" fields with fake information
 
 ### Things to watch for:
 
@@ -94,7 +112,8 @@ Let's start by making sure you can figure out how to share your screen on Zoom.
 
 * Do you have any current claims or appeals in process with VA.gov?
    * If YES, Can you show me what would you do from your phone to see what's happening with those claims or appeals?
-   * If NO, user can stop sharing their screen. Moderator logs in to staging as vets.gov.user+228@gmail.com, switches to mobile view (Alt+Command+J in chrome) and shares screen. What would you do to see what's happening with your claims and appeals?
+   * If NO, user can stop sharing their screen. Moderator logs in to staging as vets.gov.user+228@gmail.com (find password here https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md), switches to mobile view (Alt+Command+J in chrome) and shares screen. 
+* What would you do to see what's happening with your claims and appeals?
 * Let's say you filed an appeal and don't see it on this list. Is there anything here telling you what to do in that situation?
 * You want to check if you need to upload further documentation for your first claim. How would you do that?
 
@@ -102,6 +121,11 @@ Let's start by making sure you can figure out how to share your screen on Zoom.
 
 - How do they navigate through the tool? 
 - Do they see the right rail component at the bottom?
+
+## Wrap-up
+
+- Thank you so much! After interacting with VA.gov on mobile, what are your overall thoughts about what should be a priority to improve?
+- What is working?
 
 ## Thank-You and Closing - 2 minutes
 
