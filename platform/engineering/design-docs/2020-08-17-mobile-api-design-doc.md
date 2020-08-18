@@ -146,14 +146,19 @@ requiring a new ATO.
 
 <img src="images/mobile-api/api-decision-matrix.png" alt="API Decision Matrix" width="650" />
 
+Notes: REST can do a lot of what GraphQL does. Passing in url params of fields and includes can reduce and combine data. 
+A rails plugin called Graphiti which enables GraphQL like features (over REST). Also there’s no rule that REST has to use JSON, 
+responses can be serialized as a Protobufs. The same endpoint could return JSON or a Protobuf with a url param flag or by 
+appending a file extension (.json, .proto) to the path. GraphQL and gRPC have a lot of red boxes above, however; GraphQL is 
+by far the most flexible; and gRPC delivers much smaller payloads, can keep connections open, and enables real-time data push/pull.
+
 
 ### Future Work
-_Features you'd like to (or will need to) add but aren't required for the current release. This is a great place to speculate on potential features and performance improvements._
+TBD
 
 ### Revision History
-_The table below should record the major changes to this document. You don't need to add an entry for typo fixes, other small changes or changes before finishing the initial draft._
 
 Date | Revisions Made | Author
 -----|----------------|--------
-Jan 24, 2020 | Added approvers, status, and privacy concerns. | Andrew Gunsch
-Jan 19, 2016 | Initial Draft based off [Arvados's template](https://dev.arvados.org/projects/arvados/wiki/Design_Doc_Template) which is reminiscent of Google's | Albert J. Wong
+Aug 10, 2020 | Initial draft | Jonathan Julian
+Aug 17th, 2020 | Add detailed design section | Alastair Dawson
