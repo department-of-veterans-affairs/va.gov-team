@@ -168,7 +168,9 @@ The current front end build will be split up into two distinct builds:
     - Output: JavaScript and CSS bundles
     - This essentially maps to the current full deploy minus the content
 
-There will be two S3 buckets. One will hold the output of the application build (including .js and .css), and the other will hold the output of the content build (including .html and .pdf).
+There will be two _new_ S3 buckets. One will hold the output of the application build (including .js and .css), and the other will hold the output of the content build (including .html and .pdf).
+The original bucket will still exist to hold the teamsite assets.
+
 Previously there would just be one bucket to hold the output of both builds.
 
 **Another important note:** The deploy process will not automatically coordinate these two deploys to
