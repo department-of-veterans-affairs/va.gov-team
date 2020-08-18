@@ -25,17 +25,26 @@ similar to the VA.gov experience. The goal of the mobile app is not to replicate
 new mode of communication to allow Veterans to interact more easily with the department. Since VA.gov is powered by 
 vets-api and VSP, it seemed like a natural fit for the mobile app to be powered by APIs in the same space.
 
-_Do **NOT** describe the solution here. That goes in High Level Design._
-
 ### High Level Design
-_A high-level description of the system. This is the most valuable section of the document and will probably receive the most attention. You should explain, at a high level, how your system will work. Don't get bogged down with details; those belong later in the document._
+Since vets-api already contains integrations to backend services that the mobile app will need 
+(MVI, Claims, <list more here>), the mobile API will be built inside of the vets-api codebase, and exposed in the same 
+ way that VA.gov API endpoints are exposed.
 
-_A diagram showing how the major components communicate is very useful and a great way to start this section. If this system is intended to be a component in a larger system, a diagram showing how it fits in to the larger system will also be appreciated by your readers._
+The mobile API will provide functionality that is currently exclusive to VA.gov as well as some already-public functionality 
+from Lighthouse, so existing integrations will be reused. A Rails engine will house the mobile API surface area, with necessary 
+functionality connected as closely as possible to the backend integrations. In some cases, this may be a simple passthrough 
+(/mobile/abc just invokes /abc), while in other cases the mobile API will provide its own presentation layer on top of the 
+integrations. This will allow the mobile API to grow independently of the rest of vets-api, while providing a consistent API 
+that will be useful for future mobile applications to consume.
 
-_Most diagrams will need to be updated over time as the design evolves, so please create your diagrams with a program that is easily (and freely) available and attach the diagram source to the document to make it easy for a future maintainer (who could be you) to update the diagrams along with the document._
+All endpoints will be versioned, so that long-lasting mobile releases will continue to function into the future. When 
+modifications are required, changes will be made in a way to not break existing clients (versioning). The team is considering 
+building a machine-readable discovery API endpoint to decouple the mobile app from hard-coded urls.
+
+All mobile authorization will be confined to this Rails engine. The mobile app will require some new endpoints as well, and 
+these will be built in the Rails engine for isolation.
 
 ## Specifics
-_Nothing goes here; all the content belongs in the subsections._
 
 ### Detailed Design
 _Designs that are too detailed for the above High Level Design section belong here. Anything that will require a day or more of work to implement should be described here._
