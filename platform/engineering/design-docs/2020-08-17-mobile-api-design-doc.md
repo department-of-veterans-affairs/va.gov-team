@@ -143,50 +143,8 @@ auth are isolated. Below is a table listing the sizes for; Lift, or the estimate
 the number of calls and size of the payload per mobile screen. Flexibility, how easy it is to make near and long term changes. 
 Ubiquity, the penetration/adoption rate of a technology. And Disruption, how new a technology is to VA and likelihood of 
 requiring a new ATO.
-<table >
-	<tbody>
-		<tr>
-			<th> </th>
-			<th>Lift</th>
-			<th>Latency</th>
-			<th>Flexibility</th>
-			<th>Ubiquity</th>
-			<th>Disruption</th>
-		</tr>
-		<tr>
-			<th>1. Existing endpoints</th>
-			<td>low: backend work is limited to setting up authentication and security of mobile calls</td>
-			<td>high: data is both under (multiple calls per screen) and over (excess data per screen) fetched. Easy to cache</td>
-			<td>low: mobile app bends to the api rather than vice versa</td>
-			<td>high: already in place. REST and JSON-API are widely adopted, new devs can jump right in</td>
-			<td>low: other than mobile auth and middleware changesvets-api operates as usual</td>
-		</tr>
-		<tr>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-		</tr>
-		<tr>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-		</tr>
-		<tr>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-		</tr>
-	</tbody>
-</table>
+
+<img src="images/mobile-api/api-decision-matrix.png" alt="API Decision Matrix" width="650" />
 
 
 ### Future Work
