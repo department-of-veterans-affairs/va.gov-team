@@ -48,9 +48,11 @@ The [VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/
 IA guidance is included as a standard part of the VSP Collaboration Cycle:
 - **Project Kickoff:** IA follows along with early project activity to understand background, scope, audience and timing.
 
-- **Usability Testing Prep:** We’ll review prototypes or mockups to offer research plan suggestions to help you gather feedback to improve your feature’s findability and SEO value.
+- **Information Architecture Request (IA):** IA works asynchronously with teams to ensure that your new or updated content fits well in the VA.gov ecosystem.  The IA request issue should be created and submitted as soon as kick-off is complete. 
 
-- **Information Architecture Request (IA):** IA works asynchronously with teams to ensure that your new or updated content fits well in the VA.gov ecosystem.
+- **Usability Testing Prep:** We’ll review prototypes or mockups for accuracy and offer research plan suggestions to help you gather feedback to improve your feature’s findability and SEO value.
+
+
  
 ### Redirect Process
 Follow the [Redirect Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md) at least 2 weeks before you will need to redirect URL(s). Redirects are reviewed by an IA and then assigned to the appropriate technical team for implementation.
