@@ -142,18 +142,18 @@ independently on the shape of API responses.
 		<tr>
 			<th> </th>
 			<th>Lift</th>
-			<th> </th>
-			<th> </th>
-			<th> </th>
-			<th> </th>
+			<th>Latency</th>
+			<th>Flexibility</th>
+			<th>Ubiquity</th>
+			<th>Disruption</th>
 		</tr>
 		<tr>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
+			<th>1. Existing endpoints</th>
+			<td>low: backend work is limited to setting up authentication and security of mobile calls</td>
+			<td>high: data is both under (multiple calls per screen) and over (excess data per screen) fetched. Easy to cache</td>
+			<td>low: mobile app bends to the api rather than vice versa</td>
+			<td>high: already in place. REST and JSON-API are widely adopted, new devs can jump right in</td>
+			<td>low: other than mobile auth and middleware changesvets-api operates as usual</td>
 		</tr>
 		<tr>
 			<td> </td>
