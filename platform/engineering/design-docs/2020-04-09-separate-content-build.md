@@ -168,8 +168,10 @@ The current front end build will be split up into two distinct builds:
     - Output: JavaScript and CSS bundles
     - This essentially maps to the current full deploy minus the content
 
-The output of both these builds will be deployed to a single S3 bucket with
-safeguards in place to ensure they don't override each other.
+There will be two _new_ S3 buckets. One will hold the output of the application build (including .js and .css), and the other will hold the output of the content build (including .html and .pdf).
+The original bucket will still exist to hold the teamsite assets.
+
+Previously there would just be one bucket to hold the output of both builds.
 
 **Another important note:** The deploy process will not automatically coordinate these two deploys to
 make an application live for the first time. The process will be to manually:
@@ -211,14 +213,15 @@ The output of the application build **currently** live in the `/generated/`
 directory. To support the transition, the **new** application build will put its
 assets in the `/applications/` directory.
 
-![Coordinating deployments to S3](images/separated-content-build/coordinating-deployments-to-s3.png)
+#### Nginx Reverse Proxy
 
-To ensure that one build won't override files in the other, we'll have to
-1. Update
-   [`vets-website-deploy.sh`](https://github.com/department-of-veterans-affairs/devops/blob/2c63e6d62fa5ad2b6b87478e30d0a7bc2820c252/ansible/deployment/roles/deploy-vets-website/files/vets-website-deploy.sh)
-   to copy only to the `/applications/` directory
-1. Create a new deploy script for the content deployment which copies everything
-   over _except_ the `/applications/` directory
+Our reverse proxy currently routes all va.gov requests to the same S3 bucket.
+When we split things up to have the application build in one bucket and the content in another we will need to update the routing.
+
+All static content (html, pdf files) will be proxied to the bucket containing the content build,
+and requests for everything else (js, css files) will be proxied to the bucket containing the application build.
+
+![Coordinating deployments to S3](images/separated-content-build/coordinating-deployments-to-s3.png)
 
 #### Creating temporary static pages for application testing
 - The Webpack configuration will use
@@ -477,17 +480,6 @@ to keep it in `vets-website`. The reasons we're not doing this are:
   - It will be harder for an application to use be able to use a dependency that
     wasn't intended to be client-facing
 
-#### Multiple S3 Buckets
-There are a few challenges that multiple buckets present.
-1. ATO
-    - There's a lot of paperwork
-1. Namespacing
-    - To use S3 to serve a static site, the bucket needs to be named after the
-      namespace, e.g. `www.VA.gov`
-    - We could maybe get around this with using a subdomain like
-      `javascript.VA.gov` or something, but again, paperwork and likely more
-      maintenance burden
-
 ### Future Work
 1. Splitting out the platform code from the application code
 1. Splitting up the applications into separate repositories
@@ -496,3 +488,4 @@ There are a few challenges that multiple buckets present.
 Date | Revisions Made | Author
 -----|----------------|--------
 Apr 9, 2020 | Initial draft | Christopher Valarida
+Jun 11, 2020 | Change the plan to use multiple S3 buckets | Brooks Johnson
