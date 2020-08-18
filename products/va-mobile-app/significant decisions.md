@@ -283,7 +283,41 @@ We are continuing to socialize this decision and awaiting a designated Tech Lead
 - If VA wanted login to work across its suite of mobile apps (including VHA apps like RX refill), it would be worth exploring whether there are better ways to do this beyond only using OAuth.
 
 
+# Decision 5: Build Mobile API inside of vets-api
 
+## Describe the problem this decision is trying to solve.
+The VA Mobile app needs an API. Since VA.gov is powered by vets-api and VSP, it seems like a natural fit for the mobile app to be powered by APIs in the same space.
+
+## Describe any design, technology, and/or policy constraints that impact the problem and/or its possible solutions.
+- many backend integrations are already configured in vets-api, building them separately would be time-consuming
+- VSP is in place for just this type of work
+- the API must be versioned to support multiple app releases with ongoing features and improvements
+- every app release creates a virtual "api version" that must remain operational until that app version is sunsetted (which should be a long time into the future to support users with old devices)
+
+## What did you decide on?
+- we will build the mobile API inside of vets-api, under the `/mobile` namespace
+
+## What other options did you consider?
+We considered several other options, briefly listed here, from most to least practical:
+1. connect the mobile app to VA.gov endpoints in-place, adding versioning to retain backwards-compatibility
+2. building a GraphQL (or GraphQL-like) endpoint to handle flexible requests from mobile apps (and VA.gov)
+3. build a mobile API _outside_ and _in front of_ vets-api, proxying the VA.gov responses to mobile
+4. build a mobile API separately from vets-api, re-building all the backend integrations
+
+## What was the deciding factor for your decision?
+Availability of backend intwgrations, as well as support from the VSP team to build inside of vets-api
+
+## Document the people who agreed to the design decision (and their roles on the project).
+(design doc is still in Draft phase)
+- Andrew Gunsch
+- John Paul Ashenfelter
+- Michael Fleet
+
+## When, or under what conditions, would you recommend revisiting this design decision? E.g., after usability testing, after launch when metrics or analytics equal X, etc.
+We fell like this decision will be rather permanent, as much as the VSP is permanent. If mobile app usage increases to a point that vets-api can not handle, then we could consider extracting the mobile api presentation layer into a separate project, possibly similar to option 4 above.
+
+
+------------------------------
 
 # TEMPLATE: Provide a brief background of the problem.
 * Describe the problem this decision is trying to solve.
