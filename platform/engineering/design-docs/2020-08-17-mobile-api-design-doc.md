@@ -137,6 +137,12 @@ independently on the shape of API responses.
 - Duplication of code within vets-api
 
 #### Path and Protocol Alternatives
+Once we decided on building within vets-api we analyzed our options for how to do so. The short term solutions were to use 
+existing endpoints, version endpoints and make changes there, or create a mobile base path (module) so the mobile routes and 
+auth are isolated. Below is a table listing the sizes for; Lift, or the estimated effort to implement a solution. Latency, 
+the number of calls and size of the payload per mobile screen. Flexibility, how easy it is to make near and long term changes. 
+Ubiquity, the penetration/adoption rate of a technology. And Disruption, how new a technology is to VA and likelihood of 
+requiring a new ATO.
 <table >
 	<tbody>
 		<tr>
