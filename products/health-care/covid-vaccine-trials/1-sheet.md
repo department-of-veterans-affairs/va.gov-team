@@ -16,6 +16,10 @@ A new digital tool on VA.gov allows Veterans and non-Veterans to easily add thei
 
 VA designed this tool in partnership with VA clinical experts and Veterans.
 
+- Feature 1
+- Feature 2
+- etc
+
 ## VA Office of Research and Development (ORD) +vVA Office of the Chief Technology Officer (CTO)
 
 ### How we’re collaborating across the organization to make it easier to find participants for VA clinical trials
@@ -32,3 +36,10 @@ VA designed this tool in partnership with VA clinical experts and Veterans (thou
 - "Hopefully [I will] help myself or others in the same situation.”
 - “I liked that it was fast, not 200 questions just to tell me no--ask me the important stuff, I like that it was short.”
 - “If you can help other people then why not [volunteer].”
+
+
+We’ll continue to closely monitor usage, performance, and feedback, and update content and features to meet evolving needs. For questions or to offer feedback, contact us at feedback@va.gov.
+
+### How to use this tool at your facility
+
+Tell your patients to go to www.va.gov/URL if they are interested in signing up for the coronavirus research volunteer registry
