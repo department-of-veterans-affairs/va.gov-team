@@ -82,7 +82,7 @@ sparse [fieldsets](https://jsonapi.org/format/#fetching-sparse-fieldsets) and [i
 
 
 ### Code Location
-vets-api (link to modules)
+The code will live in a 'mobile' directory within the [modules](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules) directory within vets-api.
 
 ### Testing Plan
 To ensure changes to shared backend services will not break code, tests will be written to demonstrate the mobile API requirements. Any breaking changes to upstream services will fail our tests.
