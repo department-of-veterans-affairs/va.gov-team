@@ -216,17 +216,17 @@ The initial feature set will focus on:
 
 There were three deciding factors to this decision:
 
-1. What features are tablestakes for a mobile app?
+1. What features are "table stakes" for a mobile app?
 2. What features do users want?
 3. What features can we implement in an MVP?
 
-As far as tablestakes, we found that there are a set of features that are basic requirements for users in a mobile app. These features include the ability to authenticate into the app, facility locator, Veterans crisis line, profile and notifications. These features are use cases that are best-suited for mobile because they take advantage of unique components of a mobile phone. For example, Veterans crisis line integrates with the call functionality and facility locator leverages navigation. Without these features, there wouldn't be a clear distinction between what is available on VA.gov and what is in the app.
+As far as table stakes, we found that there are a set of features that are basic requirements for users in a mobile app. These features include the ability to authenticate into the app, facility locator, Veterans crisis line, profile and notifications. These features are use cases that are best-suited for mobile because they take advantage of unique components of a mobile phone. For example, Veterans crisis line integrates with the call functionality and facility locator leverages navigation. Without these features, there wouldn't be a clear distinction between what is available on VA.gov and what is in the app.
 
 As far as what users want, our testing indicated that participants were interested in both claims and health features, but overall more interested in health than claims. This is likely for two reasons. First, Veterans may interact with health features over a longer period of time - once a claim is filed and a decision is given, Veterans may stop needing claims features as urgently, depending on the nature of their claim. Second, the people we spoke with were not all actively going through a claim at the point in time when we talked to them.
 
 As far as technical viability for an MVP, we found that there is unique technical complexity with health features such as RX Refill and Secure Messaging that there isn't with claims. For example, these health features are not available in Lighthouse (which isn't a requirement for the mobile app but did make it easier for us to experiment with the claims API because it was available in Lighthouse) and many of the health features are being reimagined as part of the health tools work so it makes sense for the app to wait until that work is complete. 
 
-Combining these three takeaways, we decided to include all of the tablestakes features in the MVP and focus on claims for the first release. This will let us get something out the door quickly to test its viability and then we can add health features and dive into the technical complexity with more time.
+Combining these three takeaways, we decided to include all of the table stakes features in the MVP and focus on claims for the first release. This will let us get something out the door quickly to test its viability and then we can add health features and dive into the technical complexity with more time.
 
 ## What other options did you consider?
 
@@ -243,7 +243,15 @@ We opted not to include them because of their (1) technical complexity and (2) t
 - If the timeline for the MVP is extended and we are able to build additional health features
 - If usability testing demonstrates that users simply will not adopt an MVP that does not include health features
 
+
 # Decision 4: Use SSOe OAuth for authentication 
+
+## Describe the problem this decision is trying to solve.
+The VA mobile app needs to authenticate users. What mechanism should the app use for sign in?
+
+## Describe any design, technology, and/or policy constraints that impact the problem and/or its possible solutions.
+- Mobile apps are well suited to using OAuth for anuthetication
+- There are two readily available OAuth servers in the VA.gov domain: Okta (via Lighthouse) and SSOe
 
 ## What did you decide on?
 The VA mobile app will use SSOe OAuth to authenticate users into the app.
@@ -255,28 +263,36 @@ The VA mobile app will use SSOe OAuth to authenticate users into the app.
 See initial set of options [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/tech-research/20200319%20Login%20Recommendations.md)
 
 ## What was the deciding factor for your decision?
-1. **Mobile-specific:** OAuth is a standard authentication method for mobile apps that is flexible, whereas SAML was not created with modern mobile apps in mind and lacks flexibility.
-2. **Cost:** Okta has a cost per user and given we expect the population of users who will use the app will be large (more akin to the number of users that use VA.gov than the number of users that connect VA.gov to third-party apps), we also expect the cost could be high.
-3. **UX of login and consent screens:** Neither Okta or SSOe have great UX and though Okta's screens have been improved, because both have their own UX issues, this ultimately was not a deciding factor. 
-- **VA trends and momentum:** There has been a year-long effort to migrate VA.gov to SSOe for authentication and given the mobile app aligns most closely with VA.gov (rather than third-party consumers such as Apple Health), SSOe seemed like the appropriate direction for the mobile to go in too.
+1. **Mobile-specific:** OAuth is a standard authentication method for mobile apps that is flexible, whereas SAML was not created with modern mobile apps in mind and lacks flexibility for non-web applications.
+
+2. **Cost:** Okta has a cost per-user, and given we expect the population of users who will use the app will be large (more akin to the number of users that use VA.gov than the number of users that connect VA.gov to third-party apps), we expect that cost could be high.
+
+3. **UX of login and consent screens:** Neither Okta or SSOe login screens have great UX. Although Okta's screens have been improved, because both have their own UX issues, this ultimately was not a deciding factor. 
+
+4. **VA trends and momentum:** There has been a year-long effort to migrate VA.gov to SSOe for authentication and given the mobile app aligns most closely with VA.gov (rather than third-party consumers such as Apple Health), SSOe seemed like the appropriate direction for the mobile to go.
+
+## Document the people who agreed to the design decision (and their roles on the project).
+TBD
 
 ## When, or under what conditions, would you recommend revisiting this design decision? E.g., after usability testing, after launch when metrics or analytics equal X, etc.
-- If VA.gov changes their authentication provider, the mobile will most likely need to change as well.
-- If VA wanted login to work across its suite of mobile apps (including VHA apps like RX refill), it would be worth exploring whether there are better ways to do this beyond OAuth.
+- If VA.gov changes their authentication mechanism, the mobile app will most likely need to change as well.
+- If VA wanted login to work across its suite of mobile apps (including VHA apps like RX refill), it would be worth exploring whether there are better ways to do this beyond only using OAuth.
 
-# Provide a brief background of the problem.
-Describe the problem this decision is trying to solve.
-Describe any design, technology, and/or policy constraints that impact the problem and/or its possible solutions.
-Describe the design decision you made.
+
+
+
+# TEMPLATE: Provide a brief background of the problem.
+* Describe the problem this decision is trying to solve.
+* Describe any design, technology, and/or policy constraints that impact the problem and/or its possible solutions.
+* Describe the design decision you made.
 * What did you decide on?
 * What other options did you consider?
 * What was the deciding factor for your decision?
-Document the people who agreed to the design decision (and their roles on the project).
-When, or under what conditions, would you recommend revisiting this design decision? E.g., after usability testing, after launch when metrics or analytics equal X, etc.
+* Document the people who agreed to the design decision (and their roles on the project).
+* When, or under what conditions, would you recommend revisiting this design decision? E.g., after usability testing, after launch when metrics or analytics equal X, etc.
 
 
-
-# Decisions we will want to add once they are made:
+# Future Decisions
 - APIs will be accessed via… vets-api
 - Push notifications will be managed by [home-grown service] or [SaaS PN provider]
 - New mobile-only endpoints will be built into [vets-api]
