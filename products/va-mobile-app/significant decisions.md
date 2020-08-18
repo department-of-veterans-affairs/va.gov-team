@@ -9,7 +9,8 @@ Principle 6 of VA’s Digital Modernization Strategy states: “Every service wi
 2.  How should a VA mobile app be built? What frameworks or technical approaches should it use?
     
 3.  What features should a VA mobile app include?
-    
+
+4.  What authentication method should the mobile app use?
 
 To answer these questions, our team of UX researchers, product managers and engineers completed a four-week discovery sprint, and then validated additional hypotheses by an additional 10 weeks of research.
 
@@ -40,9 +41,9 @@ Yes. After a four-week discovery sprint, followed by 10-weeks of research and va
 ## What was the deciding factor for your decision?
 
 User Interviews:
-  -  Revealed painpoints for Veterans that a mobile app is uniquely positioned to solve (see section above)
+-  Revealed painpoints for Veterans that a mobile app is uniquely positioned to solve (see section above)
     
--   Established that many Veterans (even those of older generations) are comfortable and proficient with mobile devices
+-  Established that many Veterans (even those of older generations) are comfortable and proficient with mobile devices
     
 
  Heuristic Analysis:
@@ -62,7 +63,7 @@ Secondary Research:
 Mobile Advantages:
     
 
--   Using push notifications, mobile can provide more transparency and support during a prolonged process
+-   Using push notifications, mobile can provide more transparency and support during a prolonged process (such as waiting for benefits decisions)
     
 -   Using biometrics and persistent login, mobile can decrease the frustrations with authentication
     
@@ -91,7 +92,7 @@ The decision to build an app should be revisited as features are released and me
 
 ## What did you decide on?
 
-VA should build the mobile app using React Native
+VA should build the mobile app using primarily React Native
 
 ## Document the people who agreed to the design decision
 
@@ -102,7 +103,7 @@ VA should build the mobile app using React Native
 
 ## What was the deciding factor for your decision?
 
-React Native was chosen because it expedites development and deployment to both iOS and Android platforms, uses similar skillsets to React and provides the level of UX that Veterans desire.
+React Native was chosen because it expedites development and deployment to both iOS and Android platforms, uses similar skillsets to web-based React (as used on VA.gov), and allows the level of UX that Veterans desire.
 
 The deciding factors were:
 
@@ -114,12 +115,12 @@ Though React Native will not allow for component reuse the way a Hybrid approach
 2.  Ability to achieve the desired UX
     
 
-Based on our user research, it was clear that the app will have custom features that require integration of mobile capabilities such as phone or camera. This ruled out a PWA or Hybrid approach, since they do not allow for seamless integration with phone hardware. React Native allows for customization while still being able to leverage its widgets that expedite development.
+Based on our user research, it was clear that the app will have custom features that require integration of mobile capabilities such as phone or camera. This ruled out a PWA or Hybrid approach, since they do not allow for the same seamless integration with phone hardware. React Native also allows for customization while still being able to leverage its cross-platform widgets that expedite development.
 
 3.  Ease of use for developers.
     
 
-Similar skillsets are required for React Native and React, which would make the transition for VA.gov developers easier. Developers also enjoyed working in the platform and found releasing through Expo to be a fast way to deploy the app to both Android and iOS. Using React Native would only require one release, whereas a fully native app would require two (one to Android and one to iOS), effectively doubling the amount of developer effort.
+Similar skillsets are required for React Native and React, which would make the potential transition for VA.gov developers easier. Developers also enjoyed working in the platform and found it easy to deploy the app to both Android and iOS devices. Using React Native would only require one codebase, whereas a fully native app would require two (one Android and one iOS), effectively doubling the amount of developer effort.
 
   
 
@@ -127,32 +128,30 @@ Similar skillsets are required for React Native and React, which would make the 
 
 Alternative Approaches and Frameworks:
 
--   Fully native: Applications are built using the tools and languages provided by the platforms
+###   Fully native: Applications are built using the tools and languages provided by the platforms
     
--   iOS
+  -   iOS
     
--   Android
+  -   Android
     
--   Cross Platform; Applications are built from one codebase that abstracts the device capabilities. The advantage here is that one team can build one app to be delivered to both app stores (iOS and Android).
+###   Cross Platform; Applications are built from one codebase that abstracts the device capabilities. The advantage here is that one team can build one app to be delivered to both app stores (iOS and Android).
+        
+  -   Xamarin
     
--   React Native
+  -   NativeScript
     
--   Xamarin
+###   Hybrid; Applications are built using familiar web development tools, and the app runs as a web app within a native app wrapper. Hybrid apps containing a JavaScript-runtime are built and submitted to the app stores. An example is the Twitter mobile app, which uses much of the same UI components as twitter.com.
     
--   NativeScript
+  -   Ionic
+       
+  -   Flutter
     
--   Hybrid; Applications are built using familiar web development tools, and the app runs as a web app within a native app wrapper. Hybrid apps containing a JavaScript-runtime are built and submitted to the app stores. An example is the Twitter mobile app, which uses much of the same UI components as twitter.com.
-    
--   Ionic
-    
--   Ionic React
-    
--   Flutter
-    
--   PWA (Progressive Web App); Not actually a mobile app at all, but rather a web application that runs in the mobile browser and can be “pinned” to the device home screen to look like an app. A popular example is app.starbucks.com.
+###   PWA (Progressive Web App); Not actually a mobile app at all, but rather a web application that runs in the mobile browser and can be “pinned” to the device home screen to look like an app. A popular example is app.starbucks.com.
+
+  -   Ionic
     
 
-We evaluated approaches (fully native, cross platform, hybrid, or PWA) by the following criteria:
+We evaluated these approaches by the following criteria:
 
 -   **Required new skills:** Would VA development teams need to hire or learn new skills, or could those teams build on their existing capabilities?
     
@@ -190,7 +189,7 @@ We evaluated frameworks within each approach by considering:
 
 ## When, or under what conditions, would you recommend revisiting this design decision? E.g., after usability testing, after launch when metrics or analytics equal X, etc.
 
-This decision to use React Native should be revisited as features become more complex. With more customization and upgrades, it is likely the VA will reach a point where a rebuild is required in iOS and Android rather than React Native.
+This decision to use React Native should be revisited as features become more complex. With more customization and upgrades, it is likely the VA will reach a point where a rebuild is required, and the app would be re-built in iOS and Android using native technologies like Swift and Kotlin.
 
 # Decision 3: Initial Feature Set for MVP
 
