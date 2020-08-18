@@ -39,7 +39,7 @@ Before we start, a few things I want to mention:
 ## Warm-up Questions - 5 minutes
 
 - Before we look at the website, can you tell me a little about yourself? What part of the country do you live in? What branch did you serve?
-- What type of phone do you use? How do you typically use it? Breakdown of phone versus desktop? 
+- What type of phone do you use? How do you typically use your phone versus your desktop if you have one?  
 
 ## Logistics: figure out how to share your screen - 5 minutes
 
@@ -125,7 +125,8 @@ If they don't use "More in this section" ask them if they saw it / their thought
 
 ## Wrap-up
 
-- Thank you so much! After interacting with VA.gov on mobile, what are your overall thoughts about what should be a priority to improve?
+- Thank you so much! After interacting with VA.gov on mobile, what are your thoughts on the experience versus the desktop experience? Do you think you'd be more or less likely to use Va.gov on mobile after interacting with it in this session? 
+- what are your overall thoughts about what should be a priority to improve?
 - What is working?
 
 ## Thank-You and Closing - 2 minutes
