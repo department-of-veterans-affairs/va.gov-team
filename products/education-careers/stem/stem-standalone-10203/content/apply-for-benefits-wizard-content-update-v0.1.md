@@ -3,7 +3,7 @@
 { Education Benefits wizard accessible via "Find your education benefits form" button located here: https://www.va.gov/education/how-to-apply/ and here: https://staging.va.gov/education/eligibility/ }
 
 
-{ Q1 } Are you applying for a benefit or updating your program or place of training?
+{ Q1 } Are you applying for a benefit or updating your program or place of training? { radio buttons }
 
 * Applying for a new benefit	
 * Updating my program of study or place of training
@@ -24,7 +24,7 @@
 * **Remaining entitlement:** You've used all of your education benefits or are within 6 months of using all your benefits when you submit your application. [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)   
 
 
-Based on the eligibility requirements above, do you want to apply for this scholarship? 
+Based on the eligibility requirements above, do you want to apply for this scholarship? { radio buttons }
 
 *	Yes    
 *	No   
