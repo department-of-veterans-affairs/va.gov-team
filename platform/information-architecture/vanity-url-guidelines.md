@@ -1,4 +1,4 @@
-# Vanity URL Guidelines & Request Process
+# Vanity URL Guidelines & Request Process (DRAFT)
 
 **What is a Vanity URL?** <br>
 A vanity URL is a custom URL that exists to help users easily get to a specific page of VA.gov
