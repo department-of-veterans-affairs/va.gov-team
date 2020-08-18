@@ -113,7 +113,9 @@ If they don't use "More in this section" ask them if they saw it / their thought
 
 * Do you have any current claims or appeals in process with VA.gov?
    * If YES, Can you show me what would you do from your phone to see what's happening with those claims or appeals?
-   * If NO, user can stop sharing their screen. Moderator logs in to staging as vets.gov.user+228@gmail.com (find password here https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md), switches to mobile view (Alt+Command+J in chrome) and shares screen. 
+   * If NO, 
+    * moderator can send link to mobile prototype via chat: https://vsateams.invisionapp.com/share/4XYGXZU9B5T  
+    * OR user can stop sharing their screen. Moderator logs in to staging as vets.gov.user+228@gmail.com (find password here https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md), switches to mobile view (Alt+Command+J in chrome) and shares screen. 
 * What would you do to see what's happening with your claims and appeals?
 * Let's say you filed an appeal and don't see it on this list. Is there anything here telling you what to do in that situation?
 * You want to check if you need to upload further documentation for your first claim. How would you do that?
@@ -134,8 +136,3 @@ If they don't use "More in this section" ask them if they saw it / their thought
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
 Great, well thank you so much again, and enjoy the rest of your day!
-
-## Sample Conversation Guides _(note: these links point to resources in the va.gov-team GitHub repo)_
-
-- [Scheduling Accessibility and Usability Study: Complex Recruit, Highly Variable based on User Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/2017-studies/access-usability/access-usability-conversation-guide.md) 
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
