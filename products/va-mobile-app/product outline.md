@@ -27,8 +27,14 @@ Create traffic control issues between existing platforms (eg, notifications that
 
 ### Key Performance Indicators (KPIs)
 
+To determine whether our MVP is delivering value to users, we will initially be most interested in KPIs related to acquisition. Metrics such as number of downloads, number of uninstalls and viralness, will help us determine whether the app is worth further investment. Example KPIs:
+- Daily downloads
+- Daily shares
+- Daily Active Users (DAU)
+- Retention rate
+- Session length
+- Session interval
 
-To determine whether our MVP is delivering value to users, we will initially be most interested in KPIs related to acquisition. Metrics such as number of downloads, number of uninstalls and viralness, will help us determine whether the app is worth further investment. 
 #### Baseline KPI Values
 TBD
 
