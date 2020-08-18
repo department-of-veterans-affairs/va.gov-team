@@ -65,6 +65,7 @@ _Date/time of resolution_ At 5:52pm EST on August 17, 2020.
 
 | Description                    | Type    | Owner        | Issue # |
 | ------------------------------ | ------- | ------------ | ------- |
+| Brainstorm alternatives of storing authenticated content in React widgets as opposed to Drupal | Frontend | Public Websites / CMS | Ticket not created yet |
 | Implement some form of smoke tests for website templates | Frontend | TBD | https://github.com/department-of-veterans-affairs/va.gov-team/issues/12445 |
 | Write unit tests that do not shallow render components for the Cerner page React widgets (the runtime error would have been caught this way). This may be a good use-case for React Testing Library. | Frontend | Public Websites | Ticket not created yet |
 | Fix `formation-react`'s `<Telephone />` component's `pattern` prop to inherently support 3-digit numbers without a prop needing to be passed in. | Frontend | TBD | Ticket not created yet |
