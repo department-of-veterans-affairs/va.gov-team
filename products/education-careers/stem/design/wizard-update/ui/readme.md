@@ -1,3 +1,10 @@
+# InVision Prototypes for the STEM Education Wizard Enhancements (Jul/Aug 2020)
+
+
+[Education Wizard update for STEM v1.3](https://bahdigital.invisionapp.com/share/AFIAEQIHRJC)
+
+[Education Wizard update for STEM v1.2](https://bahdigital.invisionapp.com/share/KGIAEOQA39H) - Update for Education How to Apply form routing wizard to align requirements in wizard to what's in the STEM 10203 form intro page.
+
 
 # InVision Prototypes for the STEM Education Wizard and VA Form 1995 Enhancements (Jan/Feb 2020)
 
