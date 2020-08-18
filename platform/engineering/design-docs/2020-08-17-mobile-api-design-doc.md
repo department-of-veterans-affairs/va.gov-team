@@ -99,27 +99,89 @@ TBD
 ### Security Concerns
 #### Potential threats
 - SSOe introspect DoS
+
 Adding more surface area to the API does enable new possibilities for denial-of-service attacks. We plan on making a call to SSOe (introspect) with every vets-api session cache miss, to validate the access token and establish a session.
+
 Remediation could include caching each “miss” for a period of time, protecting the introspect endpoint on SSOe from DOS.
 - CSRF for API POST requests
+
 TBD - research best practices that do not include turning off the CSRF checking
 
 
 ### Privacy Concerns
-_This section should describe any risks related to user data, PII that are added by this new application. Think about flows of user data through systems, places data is stored and logged, places data is displayed to users. Where is user data stored or logged? How long is it stored?_
+TBD
 
 ### Open Questions and Risks
-_This section should describe design questions that have not been decided yet, research that needs to be done and potential risks that could make make this system less effective or more difficult to implement._
-
-_Some examples are: Should we communicate using TCP or UDP? How often do we expect our users to interrupt running jobs? This relies on an undocumented third-party API which may be turned off at any point._
-
-_For each question you should include any relevant information you know. For risks you should include estimates of likelihood, cost if they occur and ideas for possible workarounds._
+TBD
 
 ### Work Estimates
-_Split the work into milestones that can be delivered, put them in the order that you think they should be done, and estimate roughly how much time you expect it each milestone to take. Ideally each milestone will take one week or less._
+N/A
 
 ### Alternatives
-_This section contains alternative solutions to the stated objective, as well as explanations for why they weren't used. In the planning stage, this section is useful for understanding the value added by the proposed solution and why particular solutions were discarded. Once the system has been implemented, this section will inform readers of alternative solutions so they can find the best system to address their needs._
+#### Alternative to building in vets-api
+##### Build Mobile API entirely outside of vets-api
+Benefits to our team include autonomy and speed of development, but have some major drawbacks:
+- Lack of reuse - back-end integrations will need to be re-established
+- High LOE when it comes to deployment
+- No value for our work to be reused by VA.gov
+
+##### Build Mobile API as a proxy in front of vets-api
+Benefits to our team include a degree of autonomy, improved speed of development, but have some definite drawbacks:
+- High LOE when it comes to deployment, although the future VSP container-managed deployment could mitigate this
+- No value for our work to be reused by VA.gov
+
+##### Build Mobile API as a presentation layer within vets-api
+Benefits include keeping a distinct separation between this mobile api and VA.gov api. Allows the mobile api team to work 
+independently on the shape of API responses.
+- No reuse by VA.gov by design
+- Duplication of code within vets-api
+
+#### Path and Protocol Alternatives
+<table >
+	<tbody>
+		<tr>
+			<th> </th>
+			<th>Lift</th>
+			<th> </th>
+			<th> </th>
+			<th> </th>
+			<th> </th>
+		</tr>
+		<tr>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+	</tbody>
+</table>
+
 
 ### Future Work
 _Features you'd like to (or will need to) add but aren't required for the current release. This is a great place to speculate on potential features and performance improvements._
