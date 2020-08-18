@@ -7,6 +7,7 @@
 - [ ] Post-staging review tickets
 
 ## Back end
+- [ ] Password protect 10-10cg on production for beta users
 - [ ] GA event for failures [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12089)
 - [ ] Backend toggles (dependent on launch strategy) / Toogle implementation plan [needs-grooming]
 - [ ] Salesforce downtime
