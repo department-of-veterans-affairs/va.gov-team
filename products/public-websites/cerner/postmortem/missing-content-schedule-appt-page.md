@@ -80,7 +80,7 @@ Root cause was discovered and resolved quickly once the issue was noticed.
 
 ### What went wrong
 
-There was an hour gap between the time the PR was merged and the deployment. This was due to needing an off-schedule deployment authorization after hours and not having immediate knowledge of back-ups authorizers when one authorizer isn't available after hours.
+There was an hour gap between the time the PR was merged and the deployment. This was due to needing an off-schedule deployment authorization after hours and not having immediate knowledge of backup authorizers when one authorizer isn't available after hours.
 
 ### Where we got lucky
 
