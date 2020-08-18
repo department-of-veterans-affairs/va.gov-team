@@ -13,7 +13,7 @@
 
 Since the mobile app MVP is replicating functionality that exists on VA.gov today, it is critical that the mobile app team stay in lockstep with the VFS teams that own the features in our MVP. The mobile team will look to the VFS team to inform UI/UX decisions and technical architecture. These teams include:
 - [VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/tree/265974319dfa35a26f88779f100c7ade50508b56/products/health-care/appointments/va-online-scheduling): Overlap with mobile **Appointment** feature, including appointments page and push notifications for appointment reminders
-- [Profile / Logged-in Homepage Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/ffbfc47a250788a795cc73a2112c317023a39733/products/identity-personalization/logged-in-homepage/2.0-redesign): Overlap with mobile **Profile**
+- [Profile / Logged-in Homepage](https://github.com/department-of-veterans-affairs/va.gov-team/tree/ffbfc47a250788a795cc73a2112c317023a39733/products/identity-personalization/logged-in-homepage/2.0-redesign): Overlap with mobile **Profile**
 - [Claims Status Tool](https://github.com/department-of-veterans-affairs/va.gov-team/blob/ca2514e624dcf5b245cf662f17839c6c5cee69f0/products/claim-appeal-status/README.md): Overlap with mobile **Claims** features, including the ability to view claims in detail and push notification updates for changes to claim status
 
 ## Workflow and Processes
