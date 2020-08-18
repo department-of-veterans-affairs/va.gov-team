@@ -17,17 +17,15 @@ There may be an ideal state of Design System and its forms library element that 
 
 ## For now, how do we handle these edge cases?
 
-When a VFS team has a new/adjusted pattern approved through the collaboration cycle, and in order to effect that change for their feature they have to make changes to code housed in the Design System, we should...
+When a VFS team has a new/adjusted pattern approved through the collaboration cycle, and in order to effect that change for their feature they have to make changes to code housed in the Design System, we first determine w/the VFS team whether the change they're asking for is a launch blocker for them
 
-First, etermine w/the VFS team whether the change they're asking for is a launch blocker for them
-
-### Launch blocking changes
+### For desired changes that are launch-blocking
 **If it would impact multiple features/teams**, then follow Path A: the VFS team can't launch until this gets reviewed by the design system council
 - For example: forms library changes, buttons, error messaging
 
 **If it would not impact multiple features/teams**, then follow Path B: the VFS team can change the code, submit a ticket in the Proposals column w/the "code new" label, and the design system council will review it later
 - For example: global elements like the header
 
-### Non-launch blocking changes
+### For desired changes that are not launch-blocking
 Follow Path C: the VFS team can't change the code, but should submit a ticket in the Proposals column w/the appropriate label, and the design system council will review it later
 - For example: minor visual bugs
