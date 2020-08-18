@@ -29,6 +29,12 @@ This does not include research for Appeals projects, which is stored in differen
 - 7 participants, 1 round 
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/iris)
 
+#### August 3-5: Learning Center MVP Usability Study
+*Ad Hoc: Public Websites, Liz Lantz
+
+- 8 participants, 1 round 
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research)
+
 ### July 2020
 
 #### July 13-16: Facility Locator - Urgent Care Mashup (usability test)
