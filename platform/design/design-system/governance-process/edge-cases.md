@@ -20,15 +20,10 @@ There may be an ideal state of Design System and its forms library element that 
 When a VFS team has a new/adjusted pattern approved through the collaboration cycle, and in order to effect that change for their feature they have to make changes to code housed in the Design System, we should...
 
 1. Determine w/the VFS team whether the change they're asking for is a launch blocker for them.
-1. If it **is a launch-blocker**, and it's a change that would impact multiple features/teams, then follow A
-1. If it **is a launch-blocker**, but it's a change that would only impact the one feature/team in question, then follow B
-1. If it **is not a launch-blocker**, then follow path C
-
-Path A: the VFS team can't launch until this gets reviewed by the design system council
-- Examples of things this path might apply to: forms library changes, buttons, error messaging
-
-Path B: the VFS team can change the code, submit a ticket in the Proposals column w/the "code new" label, and the design system council will review it later
-- Examples of things this path might apply to: global elements like the header
-
-Path C: the VFS team can't change the code, but should submit a ticket in the Proposals column w/the appropriate label, and the design system council will review it later
-- Examples of things thei path might apply to: minor visual bugs in existing patterns
+  1. If it is a launch-blocker, determine whether and it's a change that would impact multiple features/teams
+    1. If it would impact multiple features/teams, then follow **Path A:** the VFS team can't launch until this gets reviewed by the design system council
+      1. For example: forms library changes, buttons, error messaging
+    1. If it would not impact multiple features/teams, then follow **Path B:** the VFS team can change the code, submit a ticket in the Proposals column w/the "code new" label, and the design system council will review it later
+      1. For example: global elements like the header
+  1. If it is not a launch-blocker, then follow **Path C:** the VFS team can't change the code, but should submit a ticket in the Proposals column w/the appropriate label, and the design system council will review it later
+    1. For example: minor visual bugs
