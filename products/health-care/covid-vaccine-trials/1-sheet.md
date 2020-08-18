@@ -20,7 +20,7 @@ VA designed this tool in partnership with VA clinical experts and Veterans.
 - Feature 2
 - etc
 
-## VA Office of Research and Development (ORD) +vVA Office of the Chief Technology Officer (CTO)
+## VA Office of Research and Development (ORD) + VA Office of the Chief Technology Officer (CTO)
 
 ### How we’re collaborating across the organization to make it easier to find participants for VA clinical trials
 
