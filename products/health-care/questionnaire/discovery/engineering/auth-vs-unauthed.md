@@ -33,7 +33,7 @@ In this sense, we know the questions to the big questions:
 
 ## Option 2: UnAuthenticated Experience
 
-This type of experience is more in line with how commercial vendors do patient intake forms. This way would allow the system to know already who has an appointment, create the forms, and send out to the contact information. 
+This type of experience is more in line with how commercial vendors do patient intake forms. This way would allow the system to know already who has an appointment, create the forms, and send out to the contact information, based around the fact that an appointment was made. 
 
 This was would rely on various checks and inferring the identity of the user. 
 
@@ -62,16 +62,14 @@ The high flow would look like:
 
 ### Outstanding questions: 
 
-- Confirm tha by using VAMF, we can get the details (demographics, reason for visit, facility, contact information) for an appointment? 
-- Is there a way to use VAMF to listen for new appointments? If not, they what data sources do we have? I know that VeText has ideas around this. 
+- Can @massrb confirm tha by using VAMF, we can get the details (demographics, reason for visit, facility, contact information) for an appointment? 
+- @massrb, Is there a way to use VAMF to listen for new appointments? This could be an endpoint like, "give me all appointments for a facility". If not, they what data sources do we have? I know that VeText has ideas around this. 
 - What level of verification for a user do we need? Who can answer that question?
 - What data is required to make a new appointment? With or with out VAOS.
 
 
   
 ## [Questions from ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12291)
-> See Authentication feature outline for fields and valuation - This is a Tech investigation Research issue not implementation
-
 
 > Determine what data we get from logging in that we will not get from the Appointment details.
 
@@ -79,6 +77,7 @@ The high flow would look like:
 
 > How will we populate a form or data back to clinicians if any specific patient identifiers are missing.
 
+This is a good question. Since we are not in charge of creating an appointment, and it looks like the appointment data has all the information. That leads to the question, `What is required to make an appointment?`
 
 
 > What can and can't we do with an unauthenticated form?
@@ -88,4 +87,4 @@ The high flow would look like:
 
 > Take into consideration VeText as we want to send the person that scheduled the appt. a link to the unauth and or auth form
 
-  Any way we slice it, we will using VeText to sent a text message with some data. They have a straight forward [text API](VeText-api.md) that we could tie into today
+  Any way we slice it, we can use VeText to sent a text message with some data. They have a straight forward [text API](VeText-api.md) that we could tie into today. The "when" is the hard part. 

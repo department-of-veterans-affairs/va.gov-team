@@ -15,8 +15,10 @@
   - [Mobile Experience Findings](#mobile-experience-findings)
   - [Creating an API Wrapper in the VA API](#creating-an-api-wrapper-in-the-va-api)
   - [CMS Integration](#cms-integration)
+  - [Auth vs Unauthed](#auth-vs-unauthed)
   - [VA Online Scheduler (VAOS)](#va-online-scheduler-vaos)
   - [Putting Chief Complaint into Patient Generated Data](#putting-chief-complaint-into-patient-generated-data)
+  - [When is an Encounter and ID created](#when-is-an-encounter-and-id-created)
   - [VEText Integration](#vetext-integration)
   - [Analytics Investigation](#analytics-investigation)
   - [User Whitelist](#user-whitelist)
@@ -344,6 +346,12 @@ Currently no, the Forms team has indicated this is not a feature and to update a
 This could be a scalability issues with how many forms and facilities we would to include.
 
 ---
+
+## Auth vs Unauthed
+
+We are currently comparing the differences in approach in restricting a user to logging in or not. 
+
+[Full explanation](auth-vs-unauthed.md)
 
 ## VA Online Scheduler (VAOS)
 
