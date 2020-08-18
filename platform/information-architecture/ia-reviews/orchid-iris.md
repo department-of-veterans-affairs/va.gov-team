@@ -55,6 +55,13 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 
 ### Meetings Notes and Background Info
 
+8/18/2020 - Design intent
+- supporting content - on form or on separate page? confirmation page, confirmation email, print - all yet TBD? minimum expected experience is a confirmation page.
+- multiple page form or single page?  Should treat this like other forms with review page to meet user expectations and error validation
+- combined form from iris and gibill? mhv? May start out with single form and then fold others in. still unsure if they will be combined or not. 
+- they are thinking about a more global contact us "experience", so we should continue to collaborate on that
+- unauthenticated form, but need to consider authenticated experience - gibill currently requires login
+
 8/12/2020 - Kick-off
 - 3 forms - IRIS, GI Bill cust help, MHV
 - IRIS interface is what sits behind the contact us option on va.gov
@@ -64,8 +71,7 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 - timeline is short, end of December
 - oracle backend going away, articles need to find new home
 - MHV is basic, but IRIS and GI bill content needs new home
-- assuming learning center is doing migration of some of this content
-- this team is not doing the work to finding a public facing place for all the articles
+- assuming learning center is doing migration of some of this content, this team is not doing the work to find a public facing place for all the articles
 - all 3 forms migrated around the same time, all are required for MVP version
 - team has been working 3-4 weeks, user research with veterans done, using va forms library, having convos with stakeholders on topic/category list
 - the topic/category list is confusing to veterans, working to see how it can be simplified
