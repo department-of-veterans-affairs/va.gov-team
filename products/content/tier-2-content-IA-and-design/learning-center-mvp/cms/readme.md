@@ -21,9 +21,10 @@
 
 1. Review backlog / clarify any items that affect sprint 13
 1. Training plan for PW team and LC stakeholders / SMEs
+   1. Training for Randi and PW content authors end of Oct. Formal training for other authors Dec/ Jan
    1. Clarify MVP dates
-      1. MVP 1.0 - October | PW team owns content
-      1. MVP 1.1 - December | IRIS content
+      1. MVP 1.0 - end of October (CMS) / beginning of Nov (PW) | PW team owns content
+      1. MVP 1.1 - December | IRIS content | onboarding ~ January 2021
 
 ### Action items
 
