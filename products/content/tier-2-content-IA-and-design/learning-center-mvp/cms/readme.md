@@ -5,13 +5,25 @@
  -  LC go-to-market strategy: how will users find the Learning Center?
 </details>
 
+## Wednesday August 19
+
+### Agenda
+
+1. Related Information component
+1. Need more help? component
+1. MVP taxonomy
+1. Governance
+1. Content reusability accross products - review concept prototype
+
 ## Tuesday August 18
 
 ### Agenda
 
-1. LC Governance
-1. Content reusability accross products - review concept prototype
+1. Review backlog / clarify any items that affect sprint 13
 1. Training plan for PW team and LC stakeholders / SMEs
+   1. Clarify MVP dates
+      1. MVP 1.0 - October | PW team owns content
+      1. MVP 1.1 - December | IRIS content
 
 ### Action items
 
