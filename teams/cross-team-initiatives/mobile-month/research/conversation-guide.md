@@ -62,7 +62,9 @@ Let's start by making sure you can figure out how to share your screen on Zoom.
 **If they are on Android**
 * Tap "Share"
 * Tap "Screen"
-* Tap "Start now"
+* May give a "sensitive info" alert
+* May ask you to give Zoom permission to display over other apps, toggle yes. The hit the back arrow . Then it might just share your screen.
+* Tap "Start now" (maybe)
 * For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen
 
 **Ask participant to be mindful of thinking outloud since you will not be able to see a mouse cursor go through the prototype**
