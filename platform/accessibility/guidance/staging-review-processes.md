@@ -35,7 +35,7 @@ OR
 ## How to request help
 
 * If your team discovers an accessibility issue before the staging review: 
-    * Use the [508 Accessibility Issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=) to create a ZenHub ticket. 
+    * Use the [508 Accessibility Issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=) to create a GitHub/ZenHub ticket. 
     * If an issue is not resolved before the staging review, include a link to it in the staging review ticket. 
 * For general accessibility questions: [#vetsgov-accessibility](https://dsva.slack.com/archives/C8E985R32)
 * For general questions about the collaboration cycle: [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1)
