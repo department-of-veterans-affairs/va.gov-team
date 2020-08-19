@@ -27,12 +27,8 @@ The Logged In homepage team put together [a summary of analytics](https://github
 - In the non-modernized data (VA.gov plus MHV, eBenefits, etc.), we can see just how important health care management is to the veteran population [(source).](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/analytics/analytics-summary.md#in-the-non-modernized-data-vagov-plus-mhv-ebenefits-etc-we-can-see-just-how-important-health-care-management-is-to-the-veteran-population)
 
 
-## Call center data
 
-### Claims & appeals
-From June - October 2019: 
-- ~25,000 calls about explanation of benefits letter 
-- ~41,000 calls about request for benefit letter
-- ~25,000 calls to check claims status
-- ~28,000 calls to check appeals status
-- ~10,000 calls about claims exam
+## Call center data
+From  6/1-10/25/19, there were 673,882 calls recorded to VBA NCC. The top driver for calls was claims. Claims accounted for ~42% of all calls (284,822).
+- Of calls where claims was the driver, ~88% of calls were to check general status. 
+- After general status, the next most common reasons for calling are document verification and exam. However these clock in at ~5% and ~3% respectively, showing how much volume VBA NCC gets regarding claims status.
