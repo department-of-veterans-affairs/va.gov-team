@@ -32,7 +32,7 @@ _Date/time of discovery_ 4:05pm EST
 
 _What was the impact on Veterans, business and team?_
 
-All traffic to VAOS from [www.va.gov/health-care/schedule-view-va-appointments](https://www.va.gov/health-care/schedule-view-va-appointments/) ceased from 3:15pm EST to 5:52pm EST.
+Because `/health-care/schedule-view-va-appointments` serves as the gateway to VA Online Scheduling and was unavailable, traffic to VAOS from ceased from 3:15pm EST to 5:52pm EST.
 
 ## Root Causes
 
