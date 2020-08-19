@@ -20,12 +20,13 @@ We may send notifications for the following events:
 
 Through referencing research from the Nielsen Norman Group and auditing mobile apps, we discovered the following:
 
-### 1. While sending notifications in bursts in not recommended, it's ok to have 2 notifications sent in a short interval. We will eventually need to batch notifications, but we don't need to do it for the MVP. 
-Receiving many notifications in a short interval can overwhelm users, causing them to turn off notifications or delete the app. Nielsen Norman Group recommends batching notifications when it is anticipated that a user will receive 5+ in a short internal of time. For our MVP, we can send seperate notifications for each event since we won't get to that volume. For example, if a claim's status changes at the same time that file requests are filed, we should send 2 push notifications announcing these event seperately.
+### 1. Sending notifications in bursts in not recommended, and we should consider batching upcoming appointment notifications for the MVP 
+Receiving many notifications in a short interval can overwhelm users, causing them to turn off notifications or delete the app. Nielsen Norman Group recommends batching notifications when it is anticipated that a user will receive 5+ in a short internal of time. For our MVP, it's probably ok to send seperate notifications for most events since we won't get to that volume. For example, if a claim's status changes at the same time that file requests are filed, we should send 2 push notifications announcing these event seperately. But, we know multiple appointments in a day is a common use case. We should consider batching upcoming appointment notifications. 
 
-**Recommendation:** Don't invest in batching logic for the MVP. 
+**Recommendation:** We should consider batching notifications for upcoming appointments for the MVP (ex: "You have 4 appointments tomorrow"). 
 
-### 2. Push notifications need some sort of indicator within the app in addition to the actual push notification itself. 
+
+### 2. Push notifications need some sort of presence within the app in addition to the actual push notification itself. 
 Every app we looked at has a dedicated place for alerts/notifications. The prominence of where these are housed varies, but they are there. Social media and non-social media emerged as two distinct categories in our audit. Here are the key themes for each:
 
 #### All social media apps have a notifications nav item in their main toolbar and have invested in activity feeds
@@ -49,12 +50,12 @@ Chase Bank, American Airlines, and ComEd all use cards to give snapshots of curr
 ### 3. Indicators are a useful way to let users know something in the app warrants their attention. 
 An indicator is a way of making a page element stand out to inform the user that there is something special about it that warrants the user’s attention. Indicators are contextual and often will denote that there has been some change to the item represented by that element. They are associated with a UI element or with a piece of content, and should be shown in close proximity to that element ([source](https://www.nngroup.com/articles/indicators-validations-notifications/)). Indicators are not always present, but appear or change depending on certain conditions.
 
-**Recommendation:** We should consider using indicators to let users know when there are passive notifications that aren't personalized to them, like VA news ot COVID news. 
+**Recommendation:** We should consider using indicators to let users know when there are passive notifications that aren't personalized to them, like VA news or COVID news. 
 
 ### 4. Let's handle time-sensitive notifications by only sending a push notification, and not add more to the app UI. 
 Apps that deliver time sensitive notifications tend to not reflect those notifications within the app. However, these apps also tend to open directly onto the relevant content that triggered the reminder. For example, Google Calendar sends a PN prior to an event, and when a user opens the app the default screen is their calendar and the relevant event that triggered the reminder is present. This is relevant for our use case of appointment reminders. Perhaps in these cases, a push notification is enough to remind, and no additional alerts or indicators are needed within the app.
 
-**Recommendation:** For appointment reminders, only send a push notification since this notification is time sensitive in nature.
+**Recommendation:** For appointment reminders, we should only send a push notification since it's time sensitive in nature.
 
 
 
