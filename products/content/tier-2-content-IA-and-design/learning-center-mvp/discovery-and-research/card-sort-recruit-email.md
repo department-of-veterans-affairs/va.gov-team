@@ -1,16 +1,16 @@
-**Subject:** VA.gov invites you to participate in card sorting exercise and earn [$XX]
+**Subject:** Participate in user research with VA and earn [$XX]
 
 Hello, 
 
-The VA.gov team is running a card sorting exercise for a new web product designed to help Veterans find answers to questions about VA benefits and services, and their VA.gov account. 
+The VA.gov team at the Department of Veterans Affairs is running a user research session. The research is for a new web experience designed to help Veterans find answers to questions about their VA benefits, services, and other common customer service questions. 
 
-In an effort to improve the website and understand how to organize information in this product, we are looking for Veterans who may be interested in giving input on how to organize articles.
+In an effort to improve the website and understand how to organize information, we are looking for Veterans who are interested in participating in a card sort. 
 
 **What will I be doing in this session?**
-You will be sent two links asking you to organize article titles into categories. If the categories don't feel right, you will have the opportunity to create your own categories. 
+You will be sent two links asking you to sort article titles into categories. If the pre-defined categories don't feel right, you will have the opportunity to create your own categories. There are no wrong anwers. We just want to know how you would categorize things.
 
 **How long is a session?**
-The session is self guided and should take you 10-15 minutes to complete.
+The session is self guided and should take you 10-15 minutes to complete. You can do the card sort at a time that's convenient for you.
 
 **Interested in participating?**
-Please write back to obtain links to the study and a code in order to get a thank you gift card.
+Please write back to get links to the card sort. After completeing the card sort, we'll send you a code where you can access your thank you gift card.
