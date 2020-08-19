@@ -32,9 +32,9 @@ To evaluate this bet, there are a series of exploration questions that we wil be
 ## Activites and Output
 | Activites                  | Description         | Output        |
 | -------------              |-------------         |-------------|
-| Heuristic Analysis | Audit of select VA native and web apps | POV on VA's current mobile offering | 
+| Heuristic Analysis | Audit of select VA native and web apps | Fed into opportunity area definition | 
 | User Interviews | 10 conversations with Vets about pain points they experience in interacting with VA, both online and offline | MVP feature set (Roadmap), low-fi interactive prototype | 
-| Quant Analysis | Analysis of VA.gov and all VA site analytics across mobile, tablet, desktop | Fed into opportunity area definition & selection | 
+| Quant Analysis | Analysis of VA.gov and all VA site analytics across mobile, tablet, desktop | Fed into opportunity area selection | 
 | Opportunity area definition | Identification of 3 areas where we think a mobile app could improve the Veteran experience | MVP vision | 
 | Co-design & low-fi prototype testing | Co-design "Build your own VA app" exercise & prototype testing | MVP roadmap | 
 | SME interviews | Conversations with VA & Ad Hoc SMEs on Appointments, Facility Locator, Claims, Profile | MVP roadmap, Service blueprint |
