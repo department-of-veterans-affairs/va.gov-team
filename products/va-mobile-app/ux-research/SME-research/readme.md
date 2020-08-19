@@ -5,7 +5,7 @@ Spring-Summer 2020
 ## Background & goals
 Starting in summer 2020 we talked to folks working on VAOS, Facility Locator, Logged In Homepage, and Claims/Appeals to better understand those products and help inform mobile app decisions.
 
-## Who we've talked to
+## Who we've talked to & key findings 
 |  Product 	|   Who we talked to 	|  Date 	|   
 |---	|---	|---	|
 | Ad Hoc Claims API   	|  Maria Vidart, Ed Mangimelli (AH) 	|   6/30/20	|   
@@ -16,6 +16,8 @@ Starting in summer 2020 we talked to folks working on VAOS, Facility Locator, Lo
 | VAOS  	|   Lenae, Jeff, Narin (AH)	|   6/30/20	| 
 | Facility Locator  	|   Michelle Middaugh	|   7/9/20	| 
 | Logged In Homepage 	|   Samara, Tressa, Cassandra	|   8/18/20	|
+
+- [Read key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/SME-research/key-learnings.md)
 
 
 
