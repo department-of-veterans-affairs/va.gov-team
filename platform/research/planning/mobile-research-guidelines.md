@@ -68,7 +68,7 @@ x | May be more difficult to use with assistive tech (we’ve heard about strugg
 - Make sure they have the Zoom mobile app downloaded, and be prepared to send them a link to it via email if needed
 - Note that a security warning about exposing sensitive information may pop up upon users sharing their screen via Zoom. Make sure the participant has the chance to read it and agree to it before proceeding. Reassure them that we will save recordings only for the purposes of capturing their experience accurately, and then dispose of them securely within a week.
 - For troubleshooting screen sharing in iOS, [reference the Zoom documentation here](https://support.zoom.us/hc/en-us/articles/115005890803-iOS-Screen-Sharing).
-- For troubleshooting screen sharing on Android, [reference the Zoom documentation here](hhttps://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen).
+- For troubleshooting screen sharing on Android, [reference the Zoom documentation here](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen).
 - Don't forget to start the recording!
 - Ask your participant to be mindful of thinking outloud since you will not be able to see a mouse cursor go through the prototype
 
