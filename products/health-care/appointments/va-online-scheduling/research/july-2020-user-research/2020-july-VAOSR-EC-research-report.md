@@ -74,9 +74,13 @@ To summarize, Veterans were content overall with the product improvements, indic
 
 ### Recommendations overview
 
-There are some recommendations that are applicable to one or both products. In the section below, findings and recommendations are explored in greater depth, citing specific improvements, broadly and for the respective product. The following are areas that are addressed in the next section:
+In the section below, findings and recommendations are explored in greater depth, citing specific improvements, broadly as well as the respective products, VAOSR and Express Care. The following are areas that are addressed in the next section, research findings and recommendations:
 
-- Content (instructions, static content, and voice/tone/vocabulary for product) 
-- Context on user's appointment view (appointment lists, cards, appointment list, filtering, and categorization)
-- VAOSR "request an appointment flow" (selecting: type of care, location/choosing a facility, type of visit, providing details)
-- Rescheduling (and scheduling) options
+#### Content
+
+Static content about scheduling on [VA.gov](VA.gov) and throughout the tools and services on the platform are designed with Veterans. However, Veterans repeatedly expressed concerns in these research sessions about their constraints when interacting with the information online, due to a variety of factors, often including (but not limited to): PTSD, effects of combat-related injuries or conditions, technical ability, and/or age. Additionally, Veterans said that there is too much, albeit helpful, content, which contributes to and creates a sense of overload when they were interacting with both VAOSR and Express Care.  Further confusion and frustration was created by content for Veterans when interacting with VAOSR, in particular. The content advertises the tool as an online scheduler, however the outcome of use is an appointment request.
+
+***Content recommendations:*** 
+- Content must be audited and tested with Veterans for consistency of voice, tone, and vocabulary throughout the products.
+- Content must be audited and tested with Veterans for readability and comprehension .
+- Content must be audited and tested with Veterans for accuracy. 
