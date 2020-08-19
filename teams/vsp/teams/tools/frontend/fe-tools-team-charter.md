@@ -114,7 +114,7 @@ GitHub is the single source of truth. Every body of work should be documented fo
 
 - Flex time is great! But let folks know when you're going to be offline. _(You do not have to let the team know why.)_
   - **If you're on support,** you must be available and responsive in Slack from 11:30 - 5 pm ET. If you will be offline for more than 30 minutes within this time window, you must set your Slack status and ask someone else on the team to cover for you.
-  - **If you're not on support,** you are expected to be available and responsive in Slack during typical work hours in your time zone. If you will be offline for more than 90 minutes within this window, you must set your Slack status and let the team know. 
+  - **If you're not on support,** you are expected to be available and responsive in Slack during "typical work hours in your time zone" ish (this is vague on purpose — if that doesn't work for you, discuss with PM or Team Lead). If you will be offline for more than 90 minutes within this window, you must set your Slack status and let the team know. 
   
 ### What we work on
 
