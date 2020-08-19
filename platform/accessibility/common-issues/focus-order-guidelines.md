@@ -1,5 +1,8 @@
-# [KEYBOARD]: Focus order MUST be visually and programmatically usable
+# Focus Order Guidelines
+
 We build a lot of rich interet applications (RIA) using React, for VA.gov. We often update routes using client-side technology, add and remove HTML fragments, and update interfaces without making page requests to a server.
+
+This is a common issue that can be solved with human-centered design and a collaborative effort among design, front-end engineering, and accessibility.
 
 These type of client-side changes require us to think about focus order. 
 
@@ -7,9 +10,9 @@ These type of client-side changes require us to think about focus order.
 - Are there non-focusable elements that we want to receive keyboard focus?
 - Are there elements that need to receive focus when a dynamic event like a data fetch is completed?
 
-This is a common issue that can be solved with human-centered design and a collaborative effort among design, front-end engineering, and accessibility.
-
 ## [508-defect-2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#508-defect-2)
+**Focus order MUST be visually and programmatically usable**
+
 Applications must have elements that receive [focus in an order that preserves meaning and usability](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-focus-order.html) for sighted, keyboard, and assistive technology users. All users should be able to determine where their keyboard focus is quickly, and understand when that focus changes based on changes in the user interface.
 
 ## Acceptance Criteria
@@ -34,13 +37,13 @@ Applications must have elements that receive [focus in an order that preserves m
     ```javascript
     document.activeElement
     ```
-1. Ensure focus is in line with design guidance or review with your accessibility specialist
+1. Ensure focus is aligned with design guidance or review with your accessibility specialist
 
 ## Possible Fixes (optional)
 There are two situations where adding a `tabindex` attribute is preferable: When you need to set focus with JavaScript, or when you need to add a non-focusable element to the document focus order.
 
 ### Setting focus with JavaScript
-Our rich applications often require us to update small sections of the page, or use client-side routing to change views. These are both good candidates for setting focus with JavaScript. We do this to help screen readers understand that something has changed on the page, and to avoid extra tab stops for keyboard users. Elements that will receive keyboard focus via scripting must have a `tabIndex="-1"` attribute.
+Our rich applications often require us to update small sections of the page, or use client-side routing to change views. These are both good candidates for [setting focus with JavaScript](https://github.com/department-of-veterans-affairs/vets-website/blob/f9333cd7f38116943a64d119c866a6e745c9d999/src/platform/utilities/ui/index.js#L17). We do this to help screen readers announce page changes, avoid extra tab stops for keyboard users, and support people with cognitive considerations. Elements that will receive keyboard focus via scripting must have a `tabIndex="-1"` attribute.
 
 ```html
 <h2 id="first-heading" tabIndex="-1">This heading will receive focus</h2>
@@ -48,16 +51,20 @@ Our rich applications often require us to update small sections of the page, or 
 
 ```javascript
 /*
- * This is a simple DOM example of setting focus through scripting.
- * React applications will usually use the componentDidMount()
- * lifecycle method or useEffect hooks to accomplish this task.
+ * This is a simple example of setting focus with our
+ * focusElement helper method.
  */
-const target = document.getElementById('first-heading');
-target.focus();
+import { focusElement } from 'platform/utilities/ui';
+
+componentDidMount() {
+  focusElement(this.props.target);
+}
 ```
 
 ### Adding an element to the native focus order
 Sometimes it is preferable to add a non-focusable element to the native focus order without JavaScript. By adding a `tabindex="0"` to an element like a `<div>` or `<p>`, that element can receive keyboard focus when a user tabs to it. These are beneficial when we want keyboard and screen reader users to interact with things like information cards, alert boxes, or status updates.
+
+Accessibility specialists might recommend this approach for messages that we don't want users who are navigating by keyboard to miss. This might include a save-in-progress message, or an information box.
 
 ```html
 <p class="va-alert-box" tabindex="0">This status message will receive keyboard focus now!</p>
