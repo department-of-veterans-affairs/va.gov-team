@@ -24,6 +24,7 @@ assignees: ''
   - [ ] [Accessibility checklist in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=staging-review-accessibility-checklist.md&title=%3CInitiative%3E+x+Staging+Accessibility+Checklist) - #(ticket)
   - [ ] [Compile QA test cases](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=product-use-cases.md&title=%3CProduct%2FInitiative%3E+Use+Cases) - #(ticket)
   - [ ] [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=product-release-plan.md&title=%3Cproduct%2Finitiative%2Ffeature%3E+x+Release+plan) - #(ticket)
+  - [ ] [Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Kimberley+Daniels%2C+Chante+LantosSwett&labels=contact+center%2C+analytics-insights%2C+analytics-request%2C+collaboration+cycle&template=request-contact-center-review-template.md&title=Contact+Center+Review+for+%5BTool%5D) - #(ticket)
   - [ ] Request QA test plan - #(ticket)
 - [ ] **[Build] Staging Review** - #(ticket)
   - [ ] Resolve Staging Review findings - #(tickets)
