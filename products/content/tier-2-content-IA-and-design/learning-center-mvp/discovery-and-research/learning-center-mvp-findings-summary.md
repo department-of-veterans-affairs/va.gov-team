@@ -2,7 +2,7 @@
 
 **Digital Services Veterans Affairs (DSVA), VSA, Public Websites**
 
-Liz Lantz, liz.lantz@adhocteam.us, 08/14/2020
+Liz Lantz, liz.lantz@adhocteam.us, 08/19/2020
 
 View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/usability-study-research-plan.md).
 
