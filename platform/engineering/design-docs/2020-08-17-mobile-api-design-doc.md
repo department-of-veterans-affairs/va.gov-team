@@ -42,7 +42,7 @@ modifications are required, changes will be made in a way to not break existing 
 building a machine-readable discovery API endpoint to decouple the mobile app from hard-coded urls.
 
 All mobile authorization will be confined to this Rails engine. The mobile app will require some new endpoints as well, and 
-these will be built in the Rails engine for isolation.
+these will be built in the Rails engine for isolation. [A companion auth design doc has more details](https://github.com/department-of-veterans-affairs/va.gov-team/pull/12482).
 
 ## Specifics
 
