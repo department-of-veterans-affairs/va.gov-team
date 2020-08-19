@@ -97,129 +97,57 @@ instantiate a user profile. We will create an adapter class or method to map the
 
 Mobile sessions are a hybrid of web sessions and api sessions. Like web sessions they are first class citizens. 
 i.e. they do not have restrictions on which endpoints they can call. However they will have their TTL managed 
-externally by the IAM auth service. With
+externally by the IAM auth service.
 
-Because of this hybrid nature mobile session management needs to live in the main application controller. To not 
-require conditional logic everywhere web and mobile sessions are differentiated they should share the same interface 
-and apply the correct logic where applicable (strategy pattern).
+#### Refactoring
 
-The proposed solution is to move the current session logic dealing with sessions in `AuthenticationAndSSOConcerns` 
-to a `WebSessionMananger` class. Then create a sibling `MobileSessionManager` class that implements the same interface 
-with mobile specific logic.
+The main `ApplicationController`, which extends `ActionController::API` has a lot of shared error handling 
+but also includes methods which only apply to some controllers. It's auth mixin `AuthenticationAndSSOConcerns` 
+is specific to va.gov and would not apply to the mobile endpoints and is currently ignored 
+(`skip_before_action(:authenticate)`) by some Lighthouse endpoints.
+
+The proposed solution is to create a concerns for each type of shared logic. This enables two (ruby flavored) refactors;
+composition over inheritance and polymorphism over conditionals. Classes only compose in the logic they need
+and by doing so don't have to conditionally run, or not run, sections of code.
+
 
 ## Specifics
 
 ### Detailed Design
-A base `SessionManager` will be created for the shared logic that both the `WebSessionMananger` and `MobileSessionMananger` to use.
-It will also declare an interface by defining a set of methods that must be overrriden by its child classes.
+There are four types of logic currently in the `ApplicationController`. Error handling, CSRF, Logging, and Background Jobs.
+A concern would be created for each type, including the `AuthenticationAndSSOConcerns` that would be five modules
+that could be mixed in as needed:
 
-The `AuthenticationAndSSOConcerns` module is mixed in to the `ApplicationController` and has information about the 
-incoming request. When a request originates from a web client the concern can instantiate a `WebSessionManager`. 
-Likewise when it originates from a mobile client it can instantiate a `MobileSessionMananger`. As both managers implement 
-the same interface we won’t need to sprinkle web or mobile conditional logic throughout the concern. The request determines 
-which state it’s in and chooses the appropriate manager:
+ - AuthenticationAndSSOConcerns
+ - ErrorRenderingConcerns
+ - LoggingConcerns
+ - CSRFConcerns
+ - BackgroundJobConcerns
+ 
+ Then each `ApplicationController` - va.gov REST, va.gov FHIR, Lighthouse, and Mobile - could compose only the concerns they needed.
+ This would remove all `skip_before`, `skip_after` logic which is a way of conditionally not running code rather than 
+ using polymorphism to allow the class to include and run the right code. If slightly different concern behavior is needed
+ the module can create it's own custom concern; e.g. a FHIR controller could have its own `ErrorRenderingConcerns` module.
 
-<img src="images/mobile-ssoe-auth/mobile_ssoe_auth_class.png" alt="mobile auth sequence diagram" width="700"/>
-
-Should another form of session manager be needed in the future it can implement the same interface. The design also makes testing easier as the logic to determine if each type of session manager is correct can be tested in isolation.
-
-#### Example Code Changes
-
-A new base `SessionManager` class is created for the shared logic and to mark methods that should be implemented.
-The one major change is that as the logic is now in a class rather than a concern current_user must be returned 
-from methods when its state needs updating in the controller:
-
-```ruby 
-class SessionManager
-  def load_user
-    session_object = Session.find(session[:token])
-    return nil unless session_object
-    
-    # return 'current_user'
-    User.find(session_object.uuid)
-  end
-  
-  def validate_session
-    raise NotImplementedError, 'SessionManager subclasses must implement the validate_session method'
-  end
-end
-```
-
-The authenticate callback with the session_mananger instance based on request origin:
+#### Mobile Auth Specifics
+A new `MobileAuthenticationAndSSOConcerns` would use a `IamSsoeAuth::Service` (draft PR [here](https://github.com/department-of-veterans-affairs/vets-api/pull/4665)) to validate sessions:
 
 ```ruby
-module AuthenticationAndSSOConcerns
-
-MOBILE_TOKEN_REGEX = /Bearer /.freeze
-
-# ...
-
-protected
-
-def authenticate
-  session_mananger.validate_session || render_unauthorized
-end
-
-def session_mananger
-   web_request? ? WebSessionMananger.new : MobileSessionManager.new(request.authorization)
-end
-
-def web_request?
-  request.authorization.to_s[MOBILE_TOKEN_REGEX].nil?
-end
-
-```
-
-The current `validate_session` logic moves to the `WebSessionManager`:
-
-```ruby
-class WebSessionMananger < SessionManager
-  def validate_session
-    @current_user = load_user
-
-    if @session_object.nil?
-      Rails.logger.debug('SSO: INVALID SESSION', sso_logging_info)
-      clear_session
-      return false
-    end
-
-    if should_signout_sso?
-      Rails.logger.info('SSO: MHV INITIATED SIGNOUT', sso_logging_info)
-      reset_session
-    else
-      extend_session!
-    end
-
-    @current_user.present?
-  end
-end
-```
-
-The new `MobileSessionManager` has it's own version of `validate_session`:
-
-```ruby
-class MobileSessionMananger < SessionManager
-  def initialize(authorization)
-    @token = token_from_authorization(authorization)
-  end
+def validate_session
+  return true if @current_user.present?
   
-  def validate_session
-    load_user
-    return true if @session_object.present? && @current_user.present?
-    
-    introspect_response = IamSsoeAuth::Service.new.post_introspect(@token)
-    @current_user = build_user(introspect_response)
-    @current_user.present?
-  end
-  
-  def build_user(introspect_response)
-    # build session, user, and profile objects...
-    user = User.save
-    user
-  end
+  introspect_response = IamSsoeAuth::Service.new.post_introspect(token)
+  @current_user = build_user(introspect_response)
+  @current_user.present?
+end
+
+def build_user(introspect_response)
+  # build session, user, and profile objects
+  # then persist the user...
+  user = User.save
+  user
 end
 ```
-
 
 ### Code Location
 Code will live in the [vets-api](https://github.com/department-of-veterans-affairs/vets-api) repo. IAM auth code will be located in lib/iam_ssoe_auth as in the [draft PR](https://github.com/department-of-veterans-affairs/vets-api/pull/4665).
