@@ -22,11 +22,19 @@ We conducted 45-60 minute remote sessions using Zoom, tailored specifically to m
 
 
 ## Demographics
-Partcipants: 6
+Partcipants: **6**
 
-M/F: 3 male, 3 female
+Gender: **3 male, 3 female**
 
-Role: All Veterans
+Age: **2 aged 35–44, 1 aged 45–54, 2 aged 55–64, 1 unknown/declined**
+
+Ethnicities: **1 African American/Black, 1 Asian, 4 Caucasian/White**
+
+Role: **All Veterans, (1 is both a Veteran and a Veteran family member)**
+
+Education: **2 Associate’s degree / trade certificate / vocational training, 1 Some college (no degree), 2 Bachelor's degree, 1 Master's degree**
+
+Locations: **TN, AL. SC, FL, MO, CA**
 
 ## Findings
 
@@ -217,6 +225,11 @@ Role: All Veterans
 
   - All communications (websites, emails, texts) coming from VA should reinforce next steps with plain language that helps Veterans completely understand how they will be involved, what happens before and after, and any considerations they should take, especially during the pandemic.
   - All communications from the VA should be timely. All participants anticipated mediochre communication at best from the VA. We can do better! 
+  - Recommend upon form submission, sending an email confirmation letting volunteers know:
+    - Confimring what they signed up for
+    - Timeline information (if avaialble)
+    - Set expections / next steps
+    - Provide a means to opt out
 
 - After a Veteran signs up, always provide a means to opt out of the group.
 
