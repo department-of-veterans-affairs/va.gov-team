@@ -8,18 +8,18 @@ Staging reviews test the [happy path](https://en.wikipedia.org/wiki/Happy_path) 
 
 ## Required accessibility tests
 
-- Axe scans in daily development - [read more about the axe browser plugin](#axe-scans-in-daily-development)
-- Axe scans included in end-to-end (e2e) tests - [read more about e2e tests with axe checks](#axe-scans-in-end-to-end-tests)
-- Color tests for proper contrast and colorblindness - [read more about contrast and colorblindness](#color-tests)
-- Content zoomed to 200%, 300%, 400% - [read more about zoomed layouts](#content-resize-check)
-- Keyboard navigation - [read more about navigating with the keyboard](#keyboard-navigation-check)
-- Screen reader tests (VoiceOver + Safari or NVDA + Firefox) - [read more about getting started with screen readers](#screen-reader-tests)
+- [ ] Axe scans in daily development - [read more about the axe browser plugin](#axe-scans-in-daily-development)
+- [ ] Axe scans included in end-to-end (e2e) tests - [read more about e2e tests with axe checks](#axe-scans-in-end-to-end-tests)
+- [ ] Color tests for proper contrast and colorblindness - [read more about contrast and colorblindness](#color-tests)
+- [ ] Content zoomed to 200%, 300%, 400% - [read more about zoomed layouts](#content-resize-check)
+- [ ] Keyboard navigation - [read more about navigating with the keyboard](#keyboard-navigation-check)
+- [ ] Screen reader tests (VoiceOver + Safari or NVDA + Firefox) - [read more about getting started with screen readers](#screen-reader-tests)
 
 ## Recommended accessibility tests
 
-- Keyboard end-to-end tests. These tests are currently written in Nightwatch.js, and will be ported to Cypress.io in the future. [Read more about the legacy Nightwatch tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/testing/508-automated-testing.md)
-- Axe-coconut scans in daily development - [read more about the axe-coconut experimental plugin](https://www.deque.com/blog/test-leading-edge-accessibility-axe-coconut-axe-core-3-0/)
-- WAVE tool spot checks - [read more about the WebAIM WAVE tool](https://wave.webaim.org/)
+- [ ] Axe-coconut scans in daily development - [read more about the axe-coconut experimental plugin](https://www.deque.com/blog/test-leading-edge-accessibility-axe-coconut-axe-core-3-0/)
+- [ ] WAVE tool spot checks - [read more about the WebAIM WAVE tool](https://wave.webaim.org/)
+- [ ] Keyboard end-to-end tests. These tests are currently written in Nightwatch.js, and will be ported to Cypress.io in the future. [Read more about the legacy Nightwatch tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/testing/508-automated-testing.md)
 
 
 ## How to document that your team has completed the checklist
@@ -30,26 +30,27 @@ Staging reviews test the [happy path](https://en.wikipedia.org/wiki/Happy_path) 
 OR
     *   Copy the required and recommended checklists from this doc into a doc in your product folder. _Note that this artifact can be used for the Collaboration Cycle staging review._
 
-2. Link to any unresolved accessibility ZenHub issues in your staging review request ticket.
+2. Link to any open accessibility issues in your staging review request ticket. See an example of an [open accessibility issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182).
 
 ## How to request help
 
-*   For specific questions related to your project on issues identified during accessibility checks: 
-    *   Use the [508 Accessibility Issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=) to create a ZenHub ticket. 
-    *   If an issue is not resolved before the staging review, include a link to it in the staging review ticket. 
-*   For general accessibility questions: [#vetsgov-accessibility](https://dsva.slack.com/archives/C8E985R32)
-*   For general questions about the collaboration cycle: [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1)
+* If your team discovers an accessibility issue before the staging review: 
+    * Use the [508 Accessibility Issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=) to create a ZenHub ticket. 
+    * If an issue is not resolved before the staging review, include a link to it in the staging review ticket. 
+* For general accessibility questions: [#vetsgov-accessibility](https://dsva.slack.com/archives/C8E985R32)
+* For general questions about the collaboration cycle: [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1)
 
 
 ## What to expect from accessibility specialists during staging review
 
-After you request a staging review, the accessibility specialist reviews your work and documents any defects in ZenHub tickets. **Issues with a 508 defect rating of “0” or “1” are launch blockers.** Issues with severity raings of "2, 3, or 4" should be fixed according to the following schedule:
+After you request a staging review, the accessibility specialist reviews your work and documents any defects in GitHub/ZenHub tickets. Accessibility issues should be fixed according to the following schedule:
 
+* **Issues with a 508 defect rating of “0” or “1” are launch blockers.** These issues must be fixed before your product launches.
 * **508-defect-2** issues should be fixed in 1-2 sprints post-launch
 * **508-defect-3** issues should be fixed in 1-3 sprints
 * **508-defect-4** issues should be considered for fixes or exploration in 2-4 sprints
 
-The accessibility specialist attaches the tickets to a single ZenHub epic and assigns the epic to the person who requested the staging review. During the staging review meeting, you and your team can ask questions about any of the issues identified. Applications are not considered Section 508 compliant until all severity 0, 1, 2, and 3 issues are remediated. Severity 4 issues are treated as enhancements and research.
+The accessibility specialist attaches the tickets to a single ZenHub epic and assigns the epic to the person who requested the staging review. During the staging review meeting, you and your team can ask questions about any of the issues identified. Applications are not considered Section 508 compliant until all severity 0, 1, 2, and 3 issues are remediated. Severity 4 items include minor issues that must be fixed, enhancements, and research.
 
 All defect severities can be reviewed in detail in the [defect severity rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md).
 
