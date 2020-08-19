@@ -82,7 +82,7 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 
 #### Planning
 
-- Length of time: 2 days?
+- Length of time: 2 business days (planning to start by EOB Wednesday 08/26 and move to Phase B on Monday 08/31)
 - Percentage of Users (and roughly how many users do you expect this to be): 5% (_Recommendation: select a percentage that targets ~500 users, or at most 10%_) 
 
 #### Results:
@@ -98,7 +98,7 @@ _Test a larger population of users to make sure there are no issues exposed by l
 
 #### Planning
 
-- Length of time: 3 days?
+- Length of time: 3 days (planning to start Monday 08/31 - Wednesday 09/2)
 - Percentage of Users (and roughly how many users do you expect this to be): 25% (x users)
 
 #### Results:
@@ -113,7 +113,7 @@ _More stages? Sure! If it makes sense for your product! Plan them out with the s
 ## Go Live!
 
 ### Planning:
-- Desired date: 9/1/2020
+- Desired date: 9/8/2020
 - Post-launch KPI 1: xx lorem ipsum
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum
