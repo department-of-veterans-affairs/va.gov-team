@@ -30,10 +30,14 @@ To evaluate this bet, there are a series of exploration questions that we wil be
 - What barriers are there to app usage/download?
 
 ## Activites and Output
-| Activites                  | Output        |  
-| -------------              |-------------|
-| Heuristic Analysis | Gap Analysis |
-| Quant Analysis | Gap Analysis |
-| User Interviews | MVP feature set (Roadmap), high-fi interactive prototype |
-| SME interviews | Service Blueprint |
-| Comparative app audit | Findings fed into high-fi prototype and UI design |
+| Activites                  | Description         | Output        |
+| -------------              |-------------         |-------------|
+| Heuristic Analysis | Audit of select VA native and web apps | POV on VA's current mobile offering | 
+| User Interviews | 10 conversations with Vets about pain points they experience in interacting with VA, both online and offline | MVP feature set (Roadmap), low-fi interactive prototype | 
+| Quant Analysis | Analysis of VA.gov and all VA site analytics across mobile, tablet, desktop | Fed into opportunity area definition & selection | 
+| Opportunity area definition | Identification of 3 areas where we think a mobile app could improve the Veteran experience | MVP vision | 
+| Co-design & low-fi prototype testing | Co-design "Build your own VA app" exercise & prototype testing | MVP roadmap | 
+| SME interviews | Conversations with VA & Ad Hoc SMEs on Appointments, Facility Locator, Claims, Profile | MVP roadmap, Service blueprint |
+| Comparative feature analysis | Feature based analysis of native mobile apps outside government | Findings fed into high-fi prototype and UI design |
+| High-fi design | High-fi iOS prototype for iPhone SE hosted in Invision | Prototype we can usability test with Veterans |
+| Discussions with VFS teams | Conversatins with the teams owning features we plan to include in the MVP | Will feed into UX/UI design |
