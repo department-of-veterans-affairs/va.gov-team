@@ -11,9 +11,8 @@ Service members who are separating and plan to file for disability can file thei
 
 3. **Research questions: What question(s) do you hope to be able to answer after completing this research?** 
 
-- Can service members within 90-180 days of separation submit a claim on VA.gov? 
-- Can service members within 1-89 days of separation submit a claim on VA.gov? 
-
+- Can service members within 90-180 days of separation submit a claim on VA.gov? (BDD claim)
+- Can service members within 1-89 days of separation submit a claim on VA.gov? (non-BDD claim)
 
 4. **Hypothesis: What is your hypothesis for this research?** 
 
@@ -41,18 +40,30 @@ Service members who are separating and plan to file for disability can file thei
 1.	**Participant criteria: What are you looking for in a participant?**
 
 We would like **5** participants who must meet the following criteria:
+Required for participating in this study: 
 
 - Participants must have a DS Logon account.
 - Participants must be separating from the miltary between 90-180 days from now.
 - Participants will be claiming at least one disability.
 - Participants should be able to use Zoom and not have to use a screen reader.
 
-We would like **5** participants who must meet the following criteria:
+Nice to have requirements:
+
+- Good spread in demographics
+- Good spread across different levels of "tech-savviness"
+
+We would like **5** participants who must meet the following criteria:=
+Required for participating in this study: 
 
 - Participants must have a DS Logon account.
 - Participants must be separating from the miltary between 1-89 days from now.
 - Participants will be claiming at least one disability.
 - Participants should be able to use Zoom and not have to use a screen reader.
+
+Nice to have requirements:
+
+- Spread in demographics
+- Spread across different levels of "tech-savviness"
 
 2.	**What is your recruitment strategy?**
 
@@ -62,7 +73,7 @@ We will work with Perigean to recruit for this study.
 
 1.	**Timeline: What dates do you plan to do research?**
 
-We are looking to start sessions **Wednesday, August 26, 2020**.
+We are looking to start sessions **Thursday, August 27, 2020. We will test August 27, 28, and 31**.
 
 2.	**Prepare: When will the thing you are testing be ready?**
 
@@ -74,11 +85,11 @@ We expect sessions to only be 30-45 minutes. **Please schedule sessions for 45 m
 
 4.	**Availability: If applicable, when would you like sessions scheduled?**
 
-No major scheduling conflicts or needs.
+Between 11am and 7pm
 
 5.	**Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
 
-Tuesday August 25. 
+Wednesday August 26. 
 
 ## Team Roles
 **Please list the people who will be serving in each role.**
