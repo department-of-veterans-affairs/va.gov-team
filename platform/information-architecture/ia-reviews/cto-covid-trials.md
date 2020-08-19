@@ -23,13 +23,15 @@
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
 Research static page | www.va.gov/coronavirus-research/ | Home > Participating in Coronavirus research at VA | Need to review breadcrumb.
-Sign up page | www.va.gov/coronavirus-research/volunteer/ | Home > Participating in Coronavirus research at VA > Sign up to volunteer | noindex?  Need to review breadcrumb. 
+Sign up page | www.va.gov/coronavirus-research/volunteer/ | Home > Participating in Coronavirus research at VA > Sign up to volunteer | This page should not be listed in the XML site map and should also be set to 'noindex'.  
 
 
 <hr>
 
 ### Navigation Changes and Entry and Exit Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
+
+Traffic to this page will primarily come from outside communication efforts that drive users directly to the landing page. No entry points will be added to global navigation components. 
 
 Priority | Placement | Link to | Description
 --- | --- | --- | ---
