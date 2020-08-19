@@ -34,8 +34,13 @@ Additionally, a Settings navigation item would be accessible from the Profile an
 
 There has been some discussion about how prominent the Veterans Crisis Line should be. Our point of view is that although the Veterans Crisis Line overall sees less traffic than Claims and Health features on VA.gov, it should be accessible very easily in the event a user ever needs it, and thus belong in the main toolbar. We welcome other points of view and collaboration on this. 
 
+**Summary of what we need to decide**
+1. Final IA
+2. UX/UI of navigation
+
 **What are our next steps?**
 - We will usability test the high-fi app with Veterans and make IA/navigation adjustments as needed
+- Ad Hoc/DEPO discussion 
 
 
 
@@ -46,8 +51,12 @@ We have had conversations with SMEs at VA and are continuing to talk to teams wo
 
 We're also open to these teams leading _us_, and taking the point of view that our app will replicate VA.gov features and bring a layer of unique mobile functionality (for example camera upload, push notifications). We do not want to redesign anything or make too many changes to features that are on VA.gov, and instead will look to other VFS teams and their ongoing work to inform UX/UI decisions in the app.  
 
+**Summary of what we need to decide**
+1. Final MVP roadmap & service blueprint
+
 **What are our next steps?**
-- Continue conversations with VFS teams working on VA.gov to learn from their research, expand our roadmap as we see fit
+- Continue conversations with VFS teams working on VA.gov to learn from their research, expand our roadmap/service blueprint as we see fit
+- Ad Hoc/DEPO discussion 
 
 
 
