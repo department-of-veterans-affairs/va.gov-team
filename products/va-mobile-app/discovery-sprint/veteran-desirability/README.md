@@ -15,8 +15,8 @@ Our initial discovery into *Veteran Desirability* consisted of two activites bro
 ## Outcome
 
 At the end of the discovery sprint, we had two bets about what Veterans desire in a VA mobile app:
-1. **Features:** Authenticated features are more valuable to Veterans than unauthenticated features
-2. **Added Value:** A mobile application provides more value to Veterans than a mobile VA.gov experience.
+1. **Features:** Authenticated features are more valuable to Veterans than unauthenticated features.
+2. **Added Value:** A mobile application provides more value to Veterans than a mobile VA.gov experience because of native features like biometric login, camera and GPS.
 
 The next step is to validate these bets. See: [ux-research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research)
 
