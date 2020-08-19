@@ -44,7 +44,7 @@ Before we start, a few things I want to mention:
 
 ## Logistics: figure out how to share your screen - 5 minutes
 
-- Confirm with the participant in the beginning of the session that they are using a mobile device with Zoom installed
+- Confirm with the participant that they are using a mobile device with Zoom installed
 - If not, backup plan - load VA.gov in a "mobile frame" - open VA.gov in Chrome. Hit Command+Alt+J.  Backup to backup - moderator shares screen.
 
 Let's start by making sure you can figure out how to share your screen on Zoom.
