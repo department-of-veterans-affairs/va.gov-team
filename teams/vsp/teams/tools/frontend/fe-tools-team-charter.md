@@ -82,15 +82,6 @@ All work should be validated either in staging or production, as defined by the 
 
 If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
 
-#### Team Norms
-
-
-- Be respectful, both online and off
-- Show your face (Webcam) at meetings / calls
-- Speak up! - everyone’s voice matters
-- We are flexible, but intentional in the way we work
-- Let’s have fun and do great work!
-
 #### Slack:
 
 This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication.
@@ -101,3 +92,48 @@ GitHub is the single source of truth. Every body of work should be documented fo
 #### General things
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
 - Extra time? Explore the "Ready" column in ZenHub.
+
+## Team Expectations & Norms
+
+### Meetings 
+
+- Attend standup daily at 12 pm ET
+  - If you can't come to standup, let the team know in advance with your updates
+  - _Tip: if you're prone to forgetting what you worked on yesterday, take notes throughout the day_
+- Attend other meetings
+  - FE Tools team meetings (standup, sprint planning, retro) = required
+  - Stakeholder meetings (design system council, CMS meetings, meetings with other VSP PMs) = required
+  - VSP meetings (all hands, demo, retro) = strongly encouraged. If you can't make it, you're expected to let another team member know.
+  - Engineering meetings (VFS<> VSP and FE sync) = optional, but if you don't find these valuable let FE Tools Lead or VSP Eng Lead know! 
+- Schedule meetings strategically
+  - Whenever possible, stack meetings together with other meetings
+  - Let PM or FE Tools Lead know if you're invited to a stakeholder meeting
+- Be respectful of each others' time — start and end meetings on time and have an agenda
+  
+### Availability
+
+- Flex time is great! But let folks know when you're going to be offline. _(You do not have to let the team know why.)_
+  - **If you're on support,** you must be available and responsive in Slack from 11:30 - 5 pm ET. If you will be offline for more than 30 minutes within this time window, you must set your Slack status and ask someone else on the team to cover for you.
+  - **If you're not on support,** you are expected to be available and responsive in Slack during typical work hours in your time zone. If you will be offline for more than 90 minutes within this window, you must set your Slack status and let the team know. 
+  
+### What we work on
+
+- Product Manager is the source of truth on the team's priorities — if there are discrepencies, question, desire for discussion, or suspected miscommunication, please speak up! 
+
+### Transparency 
+
+- Be transparent! About what you're working on, about stakeholder interactions
+- Push your branches up daily(ish) even if they're not ready for review
+- Default to using public channels in Slack
+  - Working in public channels will result in more noise but that is OK!
+  - Use private channels as needed (better than DMs)
+  - Do not criticise people in public channels 
+  - If VFS team members (or other) are DMing you, ask them to move those convos to public channels (such as platform support, CMS channel, forms library channel, etc)
+
+### How we work together
+
+- Adhere to [Platform principles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/platform-principles.md)
+- Avoid swearing
+- Default to having your webcam on whenever possible (within reason)
+- Underpromise, overdeliver 
+- You are responsible for managing your own time
