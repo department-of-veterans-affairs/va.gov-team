@@ -58,11 +58,16 @@ This allows us to:
 - Stay out of the way as we tweak endpoints in a mobile sandbox.
 - Test out optimizations that can be later ported back to the core API.
 
+#### Application Controller
+
 Authentication for the mobile app is via IAM's SSOe OAuth service. It is 100% API based and does not use callbacks or cookies. 
 The mobile `ApplicationController` would extend the core `ApplicationController` and override its authentication methods.
 
-Optional but some logic in the core `ApplicationController` does not apply globally. That logic could move to concerns and 
+There's some tech debt in the `ApplicationController` that is not required to fix to enable the mobile API but would clean it up for all its sub-classes
+The logic in the core `ApplicationController` does not apply globally could move to concerns be and 
 included as needed. e.g. `render_job_id` only applies to the `DocumentsController` and the `EVSSClaimsController`. 
+
+#### Routing
 
 The mobile engine's endpoints mount at `/mobile`:
 
@@ -73,12 +78,17 @@ mount Mobile::Engine, at: '/mobile'
 Some endpoints such as facilities don't need optimization. They will pass-through via routes:
 
 ```ruby
-# modules/mobile/config/routes.rb
-get '/facilities/va/:id' => redirect('/v1/facilities/va/%{id}')
+# modules/mobile/config/routes.rb (redirect starts at the app root so this is /v0/mobile/.. pointing to )
+get '/v0/facilities/va/:id' => redirect('/v1/facilities/va/%{id}')
 ```
 
-We'll combine views, such as user profile, that over-fetch or over-deliver. For future flexibility we can use REST/JSON-API's 
-sparse [fieldsets](https://jsonapi.org/format/#fetching-sparse-fieldsets) and [includes](https://jsonapi.org/format/#fetching-includes).
+#### Request/response differences
+
+How requests and responses function within the mobile module will be isolated from the core API. However, there are improvements that could
+be ported back and it would be good to get consensus on an approach. The plan is for views, such as user profile, that currently over-fetch 
+or over-deliver to implement fieldsets and includes in REST url params so not extra data is returned. JSON-API defines
+sparse [fieldsets](https://jsonapi.org/format/#fetching-sparse-fieldsets) and [includes](https://jsonapi.org/format/#fetching-includes) which
+can be implemented with custom code or through gems such as [JSON-API Resources](https://jsonapi-resources.com/) or [Graphiti](https://www.graphiti.dev/guides/).
 
 
 ### Code Location
