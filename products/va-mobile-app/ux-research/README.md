@@ -10,9 +10,11 @@ The goal of our UX research is to validate or invalidate bets that were derived 
 | Quant Analysis | Analysis of VA.gov and all VA site analytics across mobile, tablet, desktop | Fed into opportunity area selection | 
 | Opportunity area definition | Identification of 3 areas where we think a mobile app could improve the Veteran experience | MVP vision | 
 | Co-design & low-fi prototype testing | Co-design "Build your own VA app" exercise & prototype testing | MVP roadmap | 
-| SME interviews | Conversations with VA & Ad Hoc SMEs on Appointments, Facility Locator, Claims, Profile | MVP roadmap, Service blueprint |
-| Comparative feature analysis | Feature based analysis of native mobile apps outside government | Findings fed into high-fi prototype and UI design |
+| SME interviews | Conversations with VA & Ad Hoc SMEs on Appointments, Facility Locator, Claims, Profile | [Key learnings from SME conversations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/SME-research/key-learnings.md), these conversations heavily informed the [service blueprint](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/service-blueprint) |
+| Comparative feature analysis | Feature based analysis of native mobile apps outside government | [Findings our audits](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/comparative-feature-analysis) are feeding into high-fi prototype and UI design |
 | High-fi design | High-fi iOS prototype for iPhone SE hosted in Invision | Prototype we can usability test with Veterans |
+| Information architecture | IA of MVP mobile app screens | [IA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/information-architecture) | 
+| Service blueprint | Diagram communicating what is powering the Vet-facing app experience | [Service blueprint](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/service-blueprint) | 
 | Discussions with VFS teams | Conversatins with the teams owning features we plan to include in the MVP | Will feed into UX/UI design |
 
 
