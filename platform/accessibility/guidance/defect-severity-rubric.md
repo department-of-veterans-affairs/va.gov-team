@@ -144,6 +144,8 @@ These issues have the potential to disrupt the user experience and should be fix
 
 * Applications must have a [logical source order](https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-sequence.html)
 
+* Applications must have elements that receive [focus in an order that preserves meaning and usability](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-focus-order.html) for sighted, keyboard, and assistive technology users. All users should be able to determine where their keyboard focus is quickly, and understand when that focus changes based on changes in the user interface.
+
 * HTML should use meaningful landmarks. These include:
 
   * `<banner>`
