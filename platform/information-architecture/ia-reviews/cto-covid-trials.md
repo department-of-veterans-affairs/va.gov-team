@@ -33,8 +33,13 @@ Sign up page | www.va.gov/coronavirus-research/volunteer/ | Home > Participating
 
 Priority | Placement | Link to | Description
 --- | --- | --- | ---
-tbd | [Coronavirus FAQ page](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/) | www.va.gov/coronavirus-research/ | 
-tbd | [Office of Research & Development COVID page](https://www.research.va.gov/covid-19.cfm) | | Need to discuss relationship to this page.  Will sign up be for all of this research or just vaccine?
+Must | [Coronavirus FAQ page](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/) | www.va.gov/coronavirus-research/ | Placement within content tbd by public websites. One option is to create a section on research to provide the high level recruiting info and link to the the research static page. 
+Should | [Coronavirus chatbot](https://www.va.gov/coronavirus-chatbot/) | www.va.gov/coronavirus-research/ | Placement within content tbd by public websites. One option is to create a section on research to provide the high level recruiting info and link to the the research static page. 
+Should | [Coronavirus research page](www.va.gov/coronavirus-research/) | https://www.va.gov/coronavirus-veteran-frequently-asked-questions/ | Link back to the Coronavirus FAQ page for general questions.
+Consider| [Office of Research & Development COVID page](https://www.research.va.gov/covid-19.cfm) | www.va.gov/coronavirus-research/ | High level content and link to coronavirus research static page along with all the other research options.
+Consider | [Coronavirus research page](www.va.gov/coronavirus-research/) | https://www.research.va.gov/covid-19.cfm | Link back to the Research and Development site for additional research info and supporting research content
+
+
 
 
 
