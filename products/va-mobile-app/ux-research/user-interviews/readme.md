@@ -11,6 +11,9 @@
 6. Where can a mobile app add unique value to VA’s technology offering (VA.gov et al)?
 7. Refer back to Veteran’s experience with VA (benefits they access) and ask what pain points exist for them there? Do they think a mobile app could help?
 
+---
+
+
 1. **Relationships are important:** 5/10 participants discussed experience with a VSO, and a majority of participants cited a particular person as helpful in their interaction with VA (e.g. VIST-coordinator, health rep, local non-VA employee aides, counselor, MSA, VSO).
 
 > "It comes down to the person you have to deal with...my coordinator is teriffic." -- P6
