@@ -17,12 +17,9 @@ When Danielle raised the issue to Kelson Adams, Kelson opened up the dev console
 An [off-schedule deploy was requested](https://dsva.slack.com/archives/CBU0KDSB1/p1597695472119100?thread_ts=1597695207.118200&cid=CBU0KDSB1) at 4:17pm EST, which was then executed at 5:52pm EST, resolving the issue in production shortly after.
 
 ## Background
+`/health-care/schedule-view-va-appointments/` serves as a gateway to the VA Online Scheduling health care application. The content on the page is housed largely in vets-website as a React widget. The reason for this is that the page content has various states based on the user's authentication status and whether the user's facilities are registered in the upcoming Cerner health care launch. This results in a fair amount of frontend logic, and means that a change to the content on that page has to be coordinated between a VA.gov writer and a frontend engineer in order to be written correctly and published at the correct time.
 
-A request was made to update the current content on the page [www.va.gov/health-care/schedule-view-va-appointments](https://www.va.gov/health-care/schedule-view-va-appointments/) with [this GitHub comment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12446#issuecomment-674324572).
-
-> we separately need to update the legacy content for this schedule and view appointments page for the Monday 8.17 deploy. The VA appointments tool is adding community care appointments that day, but we won't be quite ready to just switch to the unauthenticated Cerner content. I'm attaching the needed changes to the legacy page. Can you update these or show me how to update Monday morning? Thank you!
-
-[This request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12446#issuecomment-674324572)
+Via a [GitHub comment]([this GitHub comment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12446#issuecomment-674324572)), a request was made to a frontend engineer on the VSA Public Websites team to update the content on the scheduling page to promote new functionality offered by VAOS. The Public Websites team opened a pull request containing the latest content, unknowingly creating a runtime error deep in the application code. 
 
 ## Detection
 _How was the issue found?_ It was found by Danielle Thierry.
