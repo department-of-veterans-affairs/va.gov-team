@@ -74,87 +74,9 @@ To summarize, Veterans were content overall with the product improvements, indic
 
 ### Recommendations overview
 
-The recommendations from this research are organized into two groups: VAOSR and Express Care. There are some recommendations that are applicable to both products, which have been repeated in both sections, citing specific improvements for the respective product.
+There are some recommendations that are applicable to one or both products. In the section below, findings and recommendations are explored in greater depth, citing specific improvements, broadly and for the respective product. The following are areas that are addressed in the next section:
 
-1. **[Content](#1-simplify-streamline-and-make-content-consistent-from-one-part-of-scheduling-flow-to-another)**:  Simplify, streamline, and make content consistent from one part of scheduling flow to another. 
-2. [**Value of VAOSR**](#2-clarify-the-purpose-of-using-vaosr-it-is-a-scheduling-request-tool-not-an-appointment-booking-tool):  Clarify the purpose of using VAOSR: it is a scheduling request tool, not an appointment booking tool. 
-3. **[Cancelled appointments](#3-incorporate-more-details-about-who-why-and-when-an-appointment-was-cancelled):** Incorporate more details about who, why, and when an appointment was cancelled. 
-4. **[Location selection](#4-redesign-the-location-selection-process-in-vaosr):**  Redesign the location-selection process in VAOSR. 
-5. **[Appointment filtering](#5-give-veterans-sort-and-filter-options-when-viewing-their-appointment-lists):** Give Veterans sort and filter options when viewing their appointment lists.
-6. **[Appointment details](#6-provide-specific-information-about-an-appointment-so-that-veterans-know-who-they-saw-the-type-of-care-the-type-of-visit-and-additional-relevant-information-about-their-appointment):**  Provide specific information about an appointment so that Veterans know who they saw, the type of care, the type of visit, and additional relevant information about their appointment. 
-7. **[Request flow](#7-reevaluate-process-for-requesting-an-appointment-flow-to-align-with-a-users-mental-model-this-may-require-conducting-additional-user-research):**  Reevaluate process for requesting an appointment flow to align with a user's mental model. This may require conducting additional user research.
-8. **[Rescheduling options](#8-create-the-ability-to-reschedule-or-request-another-appointment-based-on-an-appointment-the-veteran-already-has-scheduled-in-their-account):** Create the ability to reschedule or request another appointment, based on an appointment the Veteran already has scheduled in their account.   
-
-
-
-## Research Findings & Recommendations
-
-### 1. Simplify, streamline, and make content consistent from one part of scheduling flow to another.
-
-> 
-
-Content presented the biggest burden to all users. Veterans indicated excessive trouble understanding, parsing through, and comprehending the information presented to them. For both experiences (VAOSR and Express Care), Veterans indicated not only was the amount of content a burden, but the variation throughout the content used to describe the same information difficult for them to manage. 
-
-#### VAOSR Examples
-
-- [VA.gov - Schedule and View VA appointment](https://www.va.gov/health-care/schedule-view-va-appointments/) page
-  - `"How do I know if my VA health facility uses online scheduling?"` section: Several veterans confused the bulleted list of locations *exempt* from online scheduling as the only locations that permit online scheduling
-- Location selection * 
-  - Veterans did not know which location to select from the list because there was no affiliated City, State with the affiliated VAMC
-  - See more in *[#4: Location selection](#4-redesign-the-location-selection-process-in-vaosr)*
-- Appointment request review screen * 
-  - Time of appointment was confused with time requested for scheduler to call the Veteran to confirm/schedule the appointment
-
-#### Express Care (version 1) examples
-
-- Emergency content made several users think Express Care is intended for emergency care, despite reading a description of Express Care on the previous screen and identifying it as not for emergencies. 
-- 
-
-Most participants recognized a discrepancy in the terminology used for the tool they interacted with to "Schedule an Appointment" on [VA.gov](VA.gov). Throughout the process, as the users interacted with the tool and periodically read through the content, they began to recognize that they outcome would not be a scheduled appointment, but an appointment request. 
-
-Taking this into account, content still presents a large burden to users throughout the process, beginning with the terminology used to describe VAOSR, as this does not *actually* an appointment for the user, as nearly every participant pointed out. The terminology used to describe the tool was misleading to users, misleading them from the start. This issue ties into recommendation *[#2: Clarify the purpose of using VAOSR](#2-clarify-the-purpose-of-using-vaosr-it-is-a-scheduling-request-tool-not-an-appointment-booking-tool)*. 
-
-*** *Note:*** all Veterans during these research sessions said that it was unusual for them to spend as much time as they were reading content. Some also acknowledged they would likely give up or not get as far along in the process as they did had they not been in the research session. If this were the case, they said they would give up and call their provider's office or the scheduling line to complete their request. 
-
-
-
-### 2. Clarify the purpose of using VAOSR: it is a scheduling request tool, not an appointment booking tool. 
-
-> 
-
-Veterans did not see a significant value in using VAOSR over their current method for scheduling an appointment (i.e. - calling the scheduling line or their provider's office directly, contacting their provider using Secure Messaging, or using MyHealth*e*Vet), due to VAOSR being a *request* system, not an actual appointment scheduling tool.
-
-
-### 3. Incorporate more details about who, why, and when an appointment was cancelled. 
-
-> 
-
-All participants who were asked about appointment cancellations (60% total participants) said cancellations functioned as anticipated, were able to find this option, and were able cancel their appointment (if they chose to do so) with ease. However, there was significant concern expressed about *who* and *why* their appointments were cancelled.  
-
-### 4. Redesign the location selection process in VAOSR. 
-
-> 
-
-Every Veteran participant that interacted with VAOSR (12; 80%) had more than one VAMC affiliated with their account and 100% of these Veterans struggled to find the location where they wanted to schedule an appointment.
-
-### 5. Give Veterans sort and filter options when viewing their appointment lists.
-
->
-
-Nearly every participant overlooked the color-coding appointment cards, until after going through the scheduling process (for both/either VAOSR and/or Express Care). Upon noticing status indicators (color coding, icons, terminology), Veterans showed a strong preference for these categorizations. 
-
-### 6. Provide specific information about an appointment so that Veterans know who they saw, the type of care, the type of visit, and additional relevant information about their appointment. 
-
-> 
-
-Veterans indicated dissatisfaction with the information presented on appointment cards when viewing upcoming and past appointments. Participants said, much like the scheduling process, confusion when viewing a number of appointments in their account and attempting to discern which appointment was which. 
-
-### 7. Reevaluate process for requesting an appointment flow to align with a user's mental model. This may require conducting additional user research.
-
-> 
-
-
-
-### 8. Create the ability to reschedule or request another appointment, based on an appointment the Veteran already has scheduled in their account.
-
->
+- Content (instructions, static content, and voice/tone/vocabulary for product) 
+- Context on user's appointment view (appointment lists, cards, appointment list, filtering, and categorization)
+- VAOSR "request an appointment flow" (selecting: type of care, location/choosing a facility, type of visit, providing details)
+- Rescheduling (and scheduling) options
