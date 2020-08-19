@@ -1,4 +1,4 @@
-# Focus Order Guidelines
+# Focus order guidelines
 
 We build a lot of rich interet applications (RIA) using React, for VA.gov. We often update routes using client-side technology, add and remove HTML fragments, and update interfaces without making page requests to a server.
 
@@ -15,7 +15,7 @@ These type of client-side changes require us to think about focus order.
 
 Applications must have elements that receive [focus in an order that preserves meaning and usability](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-focus-order.html) for sighted, keyboard, and assistive technology users. All users should be able to determine where their keyboard focus is quickly, and understand when that focus changes based on changes in the user interface.
 
-## Acceptance Criteria
+## Acceptance criteria
 
 - [ ] As a visual, keyboard, or screen reader user, I want to understand the focus order and navigate your web application successfully.
 - [ ] As a screen reader user, I want to hear partial page changes or dynamic updates announced properly
@@ -28,7 +28,7 @@ Applications must have elements that receive [focus in an order that preserves m
 * Screenreading device: all
 * Server destination: all
 
-## Steps to Confirm Current Focus
+## Steps to confirm current focus
 
 1. Enter [URL] in browser (Chrome works well)
 1. Right click on the page and click `Inspect` to open Chrome dev tools
@@ -39,7 +39,7 @@ Applications must have elements that receive [focus in an order that preserves m
     ```
 1. Ensure focus is aligned with design guidance or review with your accessibility specialist
 
-## Possible Fixes (optional)
+## Possible approaches for managing focus
 There are two situations where adding a `tabindex` attribute is preferable: When you need to set focus with JavaScript, or when you need to add a non-focusable element to the document focus order.
 
 ### Setting focus with JavaScript
