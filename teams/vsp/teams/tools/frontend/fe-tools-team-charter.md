@@ -118,7 +118,8 @@ GitHub is the single source of truth. Every body of work should be documented fo
   
 ### What we work on
 
-- Product Manager is the source of truth on the team's priorities — if there are discrepencies, question, desire for discussion, or suspected miscommunication, please speak up! 
+- Product Manager is the source of truth on the team's priorities — if there are discrepencies, question, desire for discussion, or suspected miscommunication, please speak up!
+- If you are getting priorities from someone other than the team PM, let the PM know
 
 ### Transparency 
 
@@ -137,3 +138,7 @@ GitHub is the single source of truth. Every body of work should be documented fo
 - Default to having your webcam on whenever possible (within reason)
 - Underpromise, overdeliver 
 - You are responsible for managing your own time
+
+### Support role
+
+- [Support role instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/tools/frontend/support-and-triage.md)
