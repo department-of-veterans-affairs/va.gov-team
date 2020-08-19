@@ -7,5 +7,7 @@ The information architecture outlines the hierarchy the MVP app navigation will 
 
 As of August 2020 the information architecture is still a living artifact. As decisions about the MVP feature set are finalized, updates will be made and reflected [here](https://www.figma.com/proto/NSzeU3CNgJmSQPg68NWnTB/Mobile-App---Design-Work-Sessions?node-id=66%3A273&scaling=scale-down-width). Below is a screenshot of the IA as of August 19.
 
+![ia diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/information-architecture-august-2020.png)
+
 
 
