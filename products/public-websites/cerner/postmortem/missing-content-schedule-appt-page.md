@@ -10,17 +10,11 @@ Status: Resolved
 
 In the morning of 08/17/2020, [a PR was merged](https://github.com/department-of-veterans-affairs/vets-website/pull/13882/files#diff-fbc145d9742763ba3cf52c0de9768e98R429) that updated legacy content on [www.va.gov/health-care/schedule-view-va-appointments](https://www.va.gov/health-care/schedule-view-va-appointments/) in response to [this request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12446#issuecomment-674324572).
 
-When the PR was deployed at 3:15pm EST, Danielle Thierry then discovered it at 4:05pm EST. (2:05pm MST = 4:05pm EST)
+The PR was deployed as part of the scheduled daily deployment at roughly 3:15pm EST. Danielle Thierry discovered the issue at 4:05pm EST and brought it to Kelson Adam's attention over a direct message on Slack. Shortly after, Rena Storey of the VAOS team [raised the issue](https://dsva.slack.com/archives/C52CL1PKQ/p1597695037082300) in the Public Websites Slack channel, as this health care page served as gateway to the VAOS application.
 
-![Discovery message](./discovery.png)
+When Danielle raised the issue to Kelson Adams, Kelson opened up the dev console on the page [www.va.gov/health-care/schedule-view-va-appointments](https://www.va.gov/health-care/schedule-view-va-appointments/) and observed a runtime error with the common `<Telephone />` component on that page where there was a missing prop called `pattern` that is unexpectedly required for 3-digit phone numbers (in this case, it was TTY 711 numbers). A [PR was sent up to fix this](https://github.com/department-of-veterans-affairs/vets-website/pull/13896) 5 minutes later at 4:10pm EST. The PR was approved by VSP and merged at 5pm EST.
 
-Traffic was almost immediately observed to go down to 0 for VAOS:
-
-![Grafana](./grafana.png)
-
-When Danielle raised the issue to Kelson Adams, Kelson opened up the dev console on the page [www.va.gov/health-care/schedule-view-va-appointments](https://www.va.gov/health-care/schedule-view-va-appointments/) and found that there was a runtime error with the common `<Telephone />` component on that page where there was a missing prop called `pattern` that is _ONLY_ required for 3-digit phone numbers (in this case, it was TTY 711 numbers). A [PR was sent up to fix this](https://github.com/department-of-veterans-affairs/vets-website/pull/13896) 5 minutes later at 4:10pm EST. The PR was approved by VSP and merged at 5pm EST.
-
-An [off-schedule deploy was requested](https://dsva.slack.com/archives/CBU0KDSB1/p1597695472119100?thread_ts=1597695207.118200&cid=CBU0KDSB1) at 4:17pm EST, which was then executed at 5:52pm EST. Following the fix being deployed at that time, traffic resumed as normal to VAOS.
+An [off-schedule deploy was requested](https://dsva.slack.com/archives/CBU0KDSB1/p1597695472119100?thread_ts=1597695207.118200&cid=CBU0KDSB1) at 4:17pm EST, which was then executed at 5:52pm EST, resolving the issue in production shortly after.
 
 ## Background
 
