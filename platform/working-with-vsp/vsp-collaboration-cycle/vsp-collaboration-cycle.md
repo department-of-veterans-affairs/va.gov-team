@@ -310,14 +310,24 @@ You bring:
 - Link to product outline ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md))
 - Link to [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
 - Access information for the tool or feature in staging _**do not put staging credentials in your `va.gov-team` ticket; store or reference them in a .md file in the `va.gov-team-sensitive` repository**_
-- Link to your [test plan](https://dsvavsp.testrail.io/index.php?/suites/view/2&group_by=cases:section_id&group_order=asc) in TestRail with [test results](https://dsvavsp.testrail.io/index.php?/runs/view/7&group_by=cases:section_id&group_order=asc) _for QA practice area review_ 
+- Link to your [QA test plan](https://dsvavsp.testrail.io/index.php?/suites/view/2&group_by=cases:section_id&group_order=asc) in TestRail with [test results](https://dsvavsp.testrail.io/index.php?/runs/view/7&group_by=cases:section_id&group_order=asc) _for QA practice area review_ 
 - Link to your [Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/12) and [Summary(Defects)](https://dsvavsp.testrail.io/index.php?/reports/view/14) reports in TestRail _for QA practice area review_
 - Review the [staging accessibility review processes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md)
-- Link to verification that accessibility checks are complete:
-  - (preferred) Link to your [TestRail VSP accessibility test plan template](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc).
-  
-OR
-  - Link to a doc in your product folder that indicates all required checks from the accessibility [staging review prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md) doc are complete.
+- Verify low-level accessibility tests are complete. Choose one of these 2 options:
+  - **(preferred)** Use the [TestRail VSP low-level accessibility testing checklist](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc).
+  <br/>**OR**
+  - Certify the checklist of required accessibility items in the staging review issue. All required items should be checked off so the accessibility specialist can start their review on time.
+  - **Required accessibility checklist**
+    - [ ] [Axe scans in daily development](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#axe-scans-in-daily-development)
+    - [ ] [Axe scans included in end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#axe-scans-in-end-to-end-tests)
+    - [ ] [Color tests for proper contrast and colorblindness](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#color-tests)
+    - [ ] [Content zoomed to 200%, 300%, 400%](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#content-resize-check)
+    - [ ] [Keyboard navigation check](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#keyboard-navigation-check)
+    - [ ] [Screen reader tests (VoiceOver + Safari or NVDA + Firefox)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#screen-reader-tests)
+  - **Recommended accessibility checklist**
+    - [ ] [Keyboard end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/testing/508-automated-testing.md)
+    - [ ] [Axe-coconut scans in daily development](https://www.deque.com/blog/test-leading-edge-accessibility-axe-coconut-axe-core-3-0/)
+    - [ ] [WAVE tool spot checks](https://wave.webaim.org/)
 - List of known issues (with links to tickets when applicable)
 - **_Please provide these artifacts at least 2 days before the scheduled review meeting._**
 
@@ -414,9 +424,21 @@ Accessibility experts complete a full accessibility audit and coordinate with th
 ### Artifact inputs
 You bring:
 - Access information for the tool or feature in production _**do not put staging credentials in your `va.gov-team` ticket; store or reference them in a .md file in the `va.gov-team-sensitive` repository**_
-- Link to your accessibility test plan:
-  - **TestRail** [TestRail VSP accessibility test plan template](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc) **OR**
-  - **Markdown** [Github accessibility test plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-cases-template.md)
+- Verify low-level accessibility tests are complete. Choose one of these 2 options:
+  - **(preferred)** Use the [TestRail VSP low-level accessibility testing checklist](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc).
+  <br/>**OR**
+  - Certify the checklist of required accessibility items in the audit request issue
+  - **Required accessibility checklist**
+    - [ ] [Axe scans in daily development](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#axe-scans-in-daily-development)
+    - [ ] [Axe scans included in end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#axe-scans-in-end-to-end-tests)
+    - [ ] [Color tests for proper contrast and colorblindness](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#color-tests)
+    - [ ] [Content zoomed to 200%, 300%, 400%](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#content-resize-check)
+    - [ ] [Keyboard navigation check](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#keyboard-navigation-check)
+    - [ ] [Screen reader tests (VoiceOver + Safari or NVDA + Firefox)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#screen-reader-tests)
+  - **Recommended accessibility checklist**
+    - [ ] [Keyboard end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/testing/508-automated-testing.md)
+    - [ ] [Axe-coconut scans in daily development](https://www.deque.com/blog/test-leading-edge-accessibility-axe-coconut-axe-core-3-0/)
+    - [ ] [WAVE tool spot checks](https://wave.webaim.org/)
 
 ### Outcomes and artifact outputs 
 - Accessibility experts identify any outstanding accessibility concerns with your product
