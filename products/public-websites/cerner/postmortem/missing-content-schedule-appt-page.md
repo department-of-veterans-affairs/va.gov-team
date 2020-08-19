@@ -19,7 +19,7 @@ An [off-schedule deploy was requested](https://dsva.slack.com/archives/CBU0KDSB1
 ## Background
 `/health-care/schedule-view-va-appointments/` serves as a gateway to the VA Online Scheduling health care application. The content on the page is housed largely in vets-website as a React widget. The reason for this is that the page content has various states based on the user's authentication status and whether the user's facilities are registered in the upcoming Cerner health care launch. This results in a fair amount of frontend logic, and means that a change to the content on that page has to be coordinated between a VA.gov writer and a frontend engineer in order to be written correctly and published at the correct time.
 
-Via a [GitHub comment]([this GitHub comment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12446#issuecomment-674324572)), a request was made to a frontend engineer on the VSA Public Websites team to update the content on the scheduling page to promote new functionality offered by VAOS. The Public Websites team opened a pull request containing the latest content, unknowingly creating a runtime error deep in the application code. 
+Via a [GitHub comment]([this GitHub comment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12446#issuecomment-674324572)), a request was made to a frontend engineer on the VSA Public Websites team to update the content on the scheduling page to promote new functionality offered by VAOS. The Public Websites team opened a pull request containing the latest content, unknowingly creating a runtime error deep in the application code.
 
 ## Detection
 _How was the issue found?_ It was found by Danielle Thierry.
@@ -79,7 +79,7 @@ Deployment resolving the issue when very smoothly and the involved engineers on 
 
 ### Takeaways
 
-We have long identified the content templates of the FE code to need better test coverage, and this issue demonstrates the increasing importance as we continue to scale.
+We have long identified the content templates of the FE code to need better test coverage, and this issue demonstrates the increasing importance as we continue to scale. A collection of unit tests that do full, deep renders of the React component trees across our FE widgets would also be a useful precedent to set.
 
 ## Timeline (all times ETC, asc order)
 
