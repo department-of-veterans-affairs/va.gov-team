@@ -71,7 +71,7 @@ Accessibility specialists might recommend this approach for messages that we don
 ```
 
 
-## WCAG or Vendor Guidance (optional)
+## WCAG or vendor guidance
 
 * [Focus Order: Understanding SC 2.4.3](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-focus-order.html)
 * [Meaningful Sequence: Understanding SC 1.3.2](https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-sequence.html)
