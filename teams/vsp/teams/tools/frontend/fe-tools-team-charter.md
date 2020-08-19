@@ -138,6 +138,7 @@ GitHub is the single source of truth. Every body of work should be documented fo
 - Default to having your webcam on whenever possible (within reason)
 - Underpromise, overdeliver 
 - You are responsible for managing your own time
+- Speak up! — everyone's voice matters
 
 ### Support role
 
