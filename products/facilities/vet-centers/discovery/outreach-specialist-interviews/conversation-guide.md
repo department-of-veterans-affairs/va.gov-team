@@ -9,7 +9,7 @@
 
 ## Intro
 
-- Thanks for joining us today! The session should take 45 minutes. Our goal is to understand your role as an Outreach Specialist working with Veterans, service memmbers and their families.
+Thanks for joining us today! The session should take 45 minutes. Our goal is to understand your role as an Outreach Specialist working with Veterans, service memmbers and their families.
 
 [Ask to record]
 
@@ -17,21 +17,21 @@
 
 ### Warm up  
 
-- How long have you been an outreach specialist at the VA? 
+How long have you been an outreach specialist at the VA? 
 
   - What brought you to this line of work? 
 
-- Have you worked as an outreach specialist in more than one district or region? 
+Have you worked as an outreach specialist in more than one district or region? 
 
 ### Background/ The Role 
 
-- How would you describe your role at VA?  
+How would you describe your role at VA?  
 
   - What are your main duties and responsibilities? 
   
   - If you had to break down these responsibilities into percentages, what might that look like? 
 
-- What does a typical week look like for you? 
+What does a typical week look like for you? 
 
 ### Eligibility 
 
