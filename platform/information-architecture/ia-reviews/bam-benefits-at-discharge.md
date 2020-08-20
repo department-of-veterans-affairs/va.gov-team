@@ -27,12 +27,12 @@
 
 Page | URL | Breadcrumb | Notes | Validated<br> in staging | Validated<br> in prod
 --- | --- | --- | ---| --- | ---
-How to file a claim | /disability/how-to-file-claim | Home > Disability benefits > How to file a claim | Content changes only | | 
-When to file | /disability/how-to-file-claim/when-to-file/ | n/a | Retire and redirect page | | 
+How to file a claim | /disability/how-to-file-claim                   | Home > Disability benefits > How to file a claim | Content changes only |  |  
+When to file        | /disability/how-to-file-claim/when-to-file/     | n/a | Retire and redirect page | | 
 Pre-discharge claim | CURRENT:<br> /disability/how-to-file-claim/when-to-file/pre-discharge-claim/ <br> NEW:<br> /disability/how-to-file-claim/pre-discharge-claim/ | CURRENT:<br> Home > Disability benefits > How to file a claim > When to file > Pre-discharge claim <br> NEW:<br> Home > Disability benefits > How to file a claim > Pre-discharge claim | Content changes, URL change, breadcrumb change | | 
 File while overseas | /disability/how-to-file-claim/when-to-file/pre-discharge-claim/file-while-overseas/  | n/a | Retire and redirect page | | 
-FDC Walkthrough | https://www.benefits.va.gov/FDC/walkthrough.asp | n/a | Retire and redirect page | | 
-FDC Checklist | https://www.benefits.va.gov/FDC/checklist.asp | n/a | Retire and redirect page | | 
+FDC Walkthrough     | https://www.benefits.va.gov/FDC/walkthrough.asp | n/a | Retire and redirect page | | 
+FDC Checklist       | https://www.benefits.va.gov/FDC/checklist.asp   | n/a | Retire and redirect page | | 
 
 
 <hr>
@@ -66,7 +66,11 @@ Must | [How to file a claim](https://www.va.gov/disability/how-to-file-claim/) |
 ### Redirects <br>
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
-- Redirects will be needed for all URL changes to ensure old URLs are redirected to the new URLs, as well as pages that are being retired.  This includes the following pages:
+- Redirects will be needed for all URL changes to ensure old URLs are redirected to the new URLs, as well as pages that are being retired.  
+- Please submit a request for the redirects using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
+- Completion of these redirects will be tracked within the redirect ticket
+
+Redirects needed for this work include, but are not limited to the following pages:
 
 Current page | Current URL | New URL/Redirect to
 --- | --- | --- 
@@ -75,8 +79,6 @@ Pre-discharge claim | /disability/how-to-file-claim/when-to-file/pre-discharge-c
 File while overseas | /disability/how-to-file-claim/when-to-file/pre-discharge-claim/file-while-overseas/ | /disability/how-to-file-claim/pre-discharge-claim/
 FDC Walkthrough (legacy page) |  https://www.benefits.va.gov/FDC/walkthrough.asp  | /disability/how-to-file-claim/evidence-needed/fully-developed-claims/
 FDC Checklist (legacy page) | https://www.benefits.va.gov/FDC/checklist.asp | /disability/how-to-file-claim/evidence-needed/fully-developed-claims/
-
-- Please submit a request for the redirects using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
 
 
 *For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
