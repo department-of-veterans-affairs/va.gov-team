@@ -3,13 +3,13 @@
 ### Project-specific setup
 
 - Sign into VA.gov through DS Logon
-- We will be having users share their screens and testing the direct deposit feature. When the participant is ready, pass presenter roles to them and have them share their screen.
+- We will be having users share their screens and submitting a claim. When the participant is ready, pass presenter roles to them and have them share their screen.
 - When their screen is shared, send the beta link https://www.va.gov/disability/how-to-file-claim/
 - **Note: We will not be recording these sessions**.
 
 ## Intro - 2 minutes
 
-Thanks for joining us today! My name is Christian and I also have some colleagues on the line observing and taking notes. Today we're going to talk about how to apply for a disability benefit with the VA before you have discharged from your military commitment.
+Thanks for joining us today! My name is Christian and I also have some colleagues on the line observing and taking notes. Today we're going to talk about how to apply for a disability benefit with the VA, either before you have discharged from your military commitment (this is called BDD claim or Benefits Delivery at Discharge), or after you have discharged from the military (submitting a normal disability claim). 
 
 Before we start, a few things I want to mention:
 
@@ -21,8 +21,9 @@ Before we start, a few things I want to mention:
 
 OK,let's get started.
 
-1. Have you heard of BDD before this session?
-2. Next, I'd like to confirm: You are separating from the military between X-Y days? (answer depends on whether this is for 90-180 or 1-89)
+1. Have you heard of Benefits Delivery at Discharge (BDD) before today?
+2. Next, I'd like to confirm: You are separating from the military between X-Y days? (answer depends on whether this is for 90-180 days before discharge (BDD claim) or 1-89 days (normal claim))
+
 - **If no, the participant can not complete UAT**. Confirm/probe if they seem confused, but if they are sure they are not separating within the expected window, we can let them go.
 3. Can you confirm for me that you have a DS Logon? 
 4. Do you know your username and password? 
