@@ -116,9 +116,8 @@ Thanks for joining us today! The session should take 45 minutes. Our goal is to 
 - Thank yous...
 
 
-## If time permits... but most likely a separate session
-
 - - -
+#### If time permits... but most likely a separate session
 
 ## Vet Center Page Critique
 
