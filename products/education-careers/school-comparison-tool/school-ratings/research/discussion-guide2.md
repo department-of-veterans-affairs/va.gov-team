@@ -5,7 +5,7 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Amy and I also have some colleagues on the line observing and taking notes. Today we would be looking at the Comparison Tool, ratings, and what information is helpful for Veterans when determining if a particular school is a good fit for them.  
+Thanks for joining us today! My name is Amy and I also have some colleagues on the line observing and taking notes. Today we would be looking at the Comparison Tool and talking about ratings and what information is helpful for Veterans when determining if a particular school is a good fit for them.  
 Before we start, a few things I want to mention:
 
 - **This entire session should take about 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
@@ -33,14 +33,12 @@ Let’s start with a few warm-up questions.
        - Where are you in the school selection process?
    
  - When you were trying to pick a school, can you talk me through your decision-making process?
-  - What were/are you looking for in a school?
-  - How did you determine that School X was a good fit for you?
-  - Did you know anyone - friends, family, other Veterans - who had attended that school?
+  - What were/are you looking for in a school?  How would you determine if it was a good fit for you?
   - If you knew a fellow Veteran who had attended a school you're interested in, what would you want to know the most?
   
 ## First Task: Look at Ratings - 20 minutes
 
-Let's say you really like the programs at **UNIVERSITY OF CALIFORNIA-BERKELEY**, but you aren't sure what your experience would be like as a student. You've heard of the Comparison Tool and are interested to see if the VA has any Veteran-specific feedback on the school. How would you use the Comparison Tool to see if University of California-Berkeley would be a good fit for you?  
+Let's say you really like the programs at **UNIVERSITY OF CALIFORNIA-BERKELEY**, but you aren't sure what your experience would be like as a Veteran student. You've heard of the Comparison Tool and are interested to see what information is there. How would you use the Comparison Tool to find Veteran-specific feedback on the school?  
 
 **When user sees rating** 
  - What do you think of that rating? (top, overall one)
