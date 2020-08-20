@@ -55,8 +55,8 @@ Should | Disbility left nav | Pre-discharge - Move in the Disability left nav up
 
 **Entry Points**
 Priority | Placement | Description | Validated<br> in staging | Validated<br> in prod
---- | --- | --- | --- | --- 
-Must | [How to file a claim](https://www.va.gov/disability/how-to-file-claim/) | How to file wizard will now link to va.gov application rather than eBenefits | This is an existing link to be updated, along with content updates as appropriate | |
+---      | ---       | ---         | ---                      | --- 
+Must     | [How to file a claim](https://www.va.gov/disability/how-to-file-claim/) | How to file wizard will now link to va.gov application rather than eBenefits <Br> This is an existing link to be updated, along with content updates as appropriate | X |
 
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
