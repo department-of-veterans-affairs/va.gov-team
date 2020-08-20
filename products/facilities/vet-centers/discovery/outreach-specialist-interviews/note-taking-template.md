@@ -1,13 +1,13 @@
 # Outreach Specialist Interview
 
-**Interview date:** August 00, 2020
+**Interview date:** August 00, 2020 <br></br>
 **Time:** 0:00
 
 ### Questions
 
 [GENERATIVE QUESTIONING – 30 MIN]
 
-*Warm up*
+**Warm up**
 * How long have you been an outreach specialist at the VA?
 > Xxx
 
@@ -17,7 +17,7 @@
 * Have you worked as an outreach specialist in more than one district or region?
 > Xxx
 
-*Background/ The Role*
+**Background/ The Role**
 * How would you describe your role at VA?
 > Xxx
 
@@ -30,7 +30,7 @@
 * What does a typical week look like for you?
 > Xxx
 
-*Eligibility*
+**Eligibility**
 * Can you walk me through the process for determining eligibility for Vet Center services?
 > Xxx
 
@@ -52,7 +52,7 @@
 * Do different types of clients tend to need different services, e.g. a Veteran vs a spouse or child?
 > Xxx
 
-*Interacting with Clients*
+**Interacting with Clients**
 * What are the different ways in which you interact with your clients? e.g. Phone, in person, one-on-one, in a group setting, in the community?
 > Xxx
 
@@ -65,7 +65,7 @@
 * Does a relationship between a client and outreach specialist evolve or change over time?
 > Xxx
 
-*Clients*
+**Clients**
 * Can you describe the different types of clients that you work with?
 > Xxx
 
@@ -78,7 +78,7 @@
 * If you had to breakdown these stages in the journey that your clients fall into, what might that look like?
 > Xxx
 
-*Services*
+**Services**
 * What services do you personally support most frequently?
 > Xxx
 
@@ -94,7 +94,7 @@
 * How will Vets find out about these services?
 > Xxx
 
-*Events*
+**Events**
 * What are some examples of events or recreational activities that you’ve put on or promoted (pre and post COVID)?
 > Xxx
 
@@ -110,7 +110,7 @@
 * Are there recurring events that Vet Centers offer?
 > Xxx
 
-*Tools*
+**Tools**
 * What tools, websites or resources do you use to plan and publicize outreach events?
 > Xxx
 
