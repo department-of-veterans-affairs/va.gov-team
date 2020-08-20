@@ -15,6 +15,9 @@
 - [ ] Resolve eMIS error (allow a submission to go through with valid vet status) [needs-grooming]
 - [ ] Salesforce downtime
 
+Additional Scope
+- [ ] Provide technical support and confirmation during beta testing
+
 ## Design
 - [ ] Generate designs for address work for 10-10EZ
         - Authenticated vs. unauthenticated
