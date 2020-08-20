@@ -45,17 +45,21 @@ Let's say you really like the programs at **Insert school**, but you aren't sure
 - Does the user notice the ratings on the school cards?
 - Does the user click into the school for additional information on ratings without a prompt?
 
-Upon completion of task: (Do we need this?)
+Upon completion of task:
 - How did you think that went? 
-- On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
- - What do you think of that rating? (top, overall one)
- - What do you think that rating shows you?
- - Who do you think provided that rating?
- - How do you think that rating was collected?
+- What do you think that rating shows you?
+- What do you think of the school now that you've seen the rating?
+
+Research questions:
+- What do users think of the star ratings?
+- Who do users think are providing the ratings?
+- Do users think the ratings are useful?
+- How do users think ratings are collected?
+
  
  ## Second Task - Detailed Ratings - 10 minutes
  
-You've heard great things about the Veteran Center at **Insert school**, but are curious about the quality of education you would receive there.  How would you use this Comparison Tool to see if **Insert school** would meet your needs?  
+You've heard great things about the Veteran experience at **Insert school**, but are curious about the quality of education you would receive there.  How would you use this Comparison Tool to see if **Insert school** would meet your needs?  
 
 Things to watch for:
 - Where does the user initially look for information?
@@ -63,13 +67,16 @@ Things to watch for:
 
 Upon completion of task: (Do we need this?)
 - How did you think that went? 
-- On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
-- What do you think the different categories mean?
-- Would any of these categories be valuable to you? If yes, which ones?
-  - Why are these categories important to you?  Why are they not important?
-- Are there any other categories you would like or expect to see?
 - What do you think of the school now that you've seen the rating?
-- Do you think the ratings are trustworthy?
+
+Research questions:
+- Are users interested in the different rating categories or just the overall score?
+- Which categories are valuable to users?  Are there any categories that aren't valuable?  Are there any additional categories they would like to see?
+- What do users think the different categories mean?
+- How do users think the rating scores are determined (average of submitted scores, calculated value, etc.)?
+- How does the number of ratings weigh into a user's perception of a particular school?
+- How trustworthy are the ratings?
+- What level of privacy do users expect if they would provide a rating?
 
 
  ## Third Task - Comparing Various Rating Aspects - 10 minutes
@@ -85,6 +92,10 @@ Upon completion of task: (Do we need this?)
 - On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
 - What aspects of the ratings are you looking at (star rating, number of reviews, etc.)?
 - Are there any other aspects of these schools that weigh into your decision (e.g. caution flag)?
+
+Research questions:
+- Would ratings affect the school selection process?
+
 
 ## Post-Task Interview - 5 minutes
 -	Do you have general thoughts or feedback on the Comparison Tool that you’d like to share? 
