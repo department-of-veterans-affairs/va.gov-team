@@ -13,9 +13,9 @@
 | Google analytics backend setup | In progress - ETA 8/24 |
 | Contact Center Review   | Not started - ETA 8/26 |
 | Define launch plan and metrics with program team  |In progress - working with program to define metrics | 
-| Resolve any staging review must-haves | Not started
+| Resolve any staging review must-haves | Not started |
 | Incident Response Playbook   | Not started|
-| CARMA PDF Signature | Not started |
+| CARMA PDF Signature | Not started - ETA 8/31 |
 | Resolve ICN search in eMIS | Not started |
 | Google Analytics dashboard created   | Complete |
 | Error experience (messaging)  | Completed  |
