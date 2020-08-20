@@ -116,12 +116,12 @@ For example:
 Up to 3 can be selected, but only 1 from the Veterans list.
 
 - All Veterans - Content author can select the broad category "All Veterans" or one of the sub-Veteran tags:
-  - Elderly Veterans [TBD card sort variation test: Senior and aging Veterans / Veterans aged 65+] 
+  - Elderly Veterans [TBD card sort variation test: ~Senior and aging~ Older Veterans / Veterans aged 65+] 
   - Former prisoners of war
   - Gulf War Veterans
   - Incarcerated Veterans
   - Korean War Veterans
-  - LGBTQ+ Veterans
+  - LGBTQ Veterans
   - Minority Veterans
   - Native American Veterans
   - Vietnam War Veterans
