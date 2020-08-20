@@ -58,6 +58,10 @@ This allows us to:
 - Stay out of the way as we tweak endpoints in a mobile sandbox.
 - Test out optimizations that can be later ported back to the core API.
 
+Expanding on the last point it's possible that once the mobile optimized versions of the endpoints have stabilized that we permanently
+move them back to core API. The aim is to avoid confusion about why a pereceived newer version of an endpoint would be missing fields
+without context that it was actually a 'mobile only' endpoint.
+
 #### Application Controller
 
 Authentication for the mobile app is via IAM's SSOe OAuth service. It is 100% API based and does not use callbacks or cookies. 
