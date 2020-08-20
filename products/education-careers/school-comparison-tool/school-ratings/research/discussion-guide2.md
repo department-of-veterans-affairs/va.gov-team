@@ -38,7 +38,7 @@ Let’s start with a few warm-up questions.
   
 ## First Task: Initial Look at Ratings - 20 minutes
 
-Let's say you really like the programs at **Insert school**, but you aren't sure what your experience would be like as a Veteran student. You've heard of the Comparison Tool and are interested to see if the VA has any information on how Veterans view that school.  How would you use the Comparison Tool to determine if **Insert school** was a good fit for you as a Veteran?  
+Let's say you really like the programs at **Insert school**, but you aren't sure what your experience would be like as a Veteran student. How would you use the Comparison Tool to determine what other Veterans thought of **Insert school**?  
 
 **When user sees rating** 
  - What do you think of that rating? (top, overall one)
