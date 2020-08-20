@@ -7,12 +7,13 @@
 - [ ] Post-staging review tickets
 
 ## Back end
-- [ ] Password protect 10-10cg on production for beta users
+- [x] Backend toggles (dependent on launch strategy) / Toogle implementation plan [needs-grooming]
+  - It has been decided that we use a password protected page on production for beta testing, and a cookie-based feature toggle for a percentage-based public release.
+- [x] Password protect 10-10cg on production for beta users
 - [ ] GA event for failures [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12089)
-- [ ] Backend toggles (dependent on launch strategy) / Toogle implementation plan [needs-grooming]
-- [ ] Salesforce downtime
-- [ ] Resolve eMIS error (allow a submission to go through with valid vet status) [needs-grooming]
 - [x] Update our staging user list with icns, edip, and veteran statuses [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12415)
+- [ ] Resolve eMIS error (allow a submission to go through with valid vet status) [needs-grooming]
+- [ ] Salesforce downtime
 
 ## Design
 - [ ] Generate designs for address work for 10-10EZ
