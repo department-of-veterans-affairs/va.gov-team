@@ -163,9 +163,11 @@ which state it’s in and chooses the appropriate manager:
 Should another form of session manager be needed in the future it can implement the same interface. The design also makes testing easier as the logic to determine if each type of session manager is correct can be tested in isolation.
 
 #### Optional Tech-debt Refactoring
-The main `ApplicationController`, which extends `ActionController::API` includes shared error handling and logging. 
-It also has quite a few methods which only apply to some controllers. This code could move to concerns and controllers 
-could compose in the logic they need. The non-global methods are listed below with their usages:
+The main `ApplicationController` includes shared error handling and logging that all its child controllers use. 
+However, it also has quite a few methods which only apply to some controllers. This code could move to dedicated concerns 
+and specific controllers could compose in only the logic they need. 
+
+The non-global methods are listed below with their usages:
 
 **clear_saved_form(form_id)**
 - app/controllers  (1 usage found)
