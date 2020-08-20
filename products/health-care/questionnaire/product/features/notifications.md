@@ -105,7 +105,7 @@
 | Initiative/Feature Name | Issue # | User Testing | Accessibility  | QA - Test Case  | Launch    | Notes 
 | ---------------------------------------------------| ---------- |  ---------    | ---------      | ---------       | --------- | ----- | 
 |[Visit Intro Initiative (Proof of Concept)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/visit-intro.md)| [#12102](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12102) |  -   | - | - |Q3 2020| N |
-|[Feature Outline- Questionnaire Manager](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/notifications.md) | [#12165](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12170) |  -   | - | - |Q3 2020| N |
+|[Feature Outline- Notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/notifications.md) | [#12165](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12170) |  -   | - | - |Q3 2020| N |
 
 * Instructions to access in Staging
 _Note: credentials should be stored in sensitive repos only_
