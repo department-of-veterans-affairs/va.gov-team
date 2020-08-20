@@ -1,4 +1,4 @@
-# Appointment Details Feature  
+# Appointment Details Feature Outline
 
 > _The purpose of this document is for designers, PMs, and engineers to track and maintain the various use cases that exist for a given product to align early on use cases and edge cases and and is best maintained alongside the product outline. Each user story, feature desciption, and design docs will be reviewed by the team before sprint grooming to brainstorm all use cases/edge cases early on._
 
@@ -97,12 +97,7 @@ Encounter for Appointment to match our questionnaire to the clipbaord
 
 ## Out of scope 
 
- 1. Ability to edit the demographics and populate the update back into
-    the source system
- 2. Ability to show the veteran that demographics have changed SLT 
- 3. Ability to display a Preferred Name and populate the update back into the source system
- 4. Ability to display a Preferred contact number and populate the update back into the source system
-
+ 1. 
 ## OKR's
 
 
@@ -112,7 +107,6 @@ Encounter for Appointment to match our questionnaire to the clipbaord
 | Initiative/Feature Name | Issue # | User Testing | Accessibility  | QA - Test Case  | Launch    | Notes 
 | ---------------------------------------------------| ---------- |  ---------    | ---------      | ---------       | --------- | ----- | 
 |[Visit Intro Initiative (Proof of Concept)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/visit-intro.md)| [#12102](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12102) |  -   | - | - |Q3 2020| N |
-|[Feature Outline- Authentication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/authentication.md) | [#12170](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12170) |  -   | - | - |Q3 2020| N |
-|[Frontend] Display Authentication | [#Github number](https://github.com/department-of-veterans-affairs/va.gov-team/issues/insert here) |    -   | - | - |Q3 2020| N |
+|[Feature Outline- Apptointment Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/authentication.md) | [#12169](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12169) |  -   | - | - |Q3 2020| N |
 * Instructions to access in Staging
 _Note: credentials should be stored in sensitive repos only_
