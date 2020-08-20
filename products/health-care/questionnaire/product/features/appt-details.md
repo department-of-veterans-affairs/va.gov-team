@@ -21,7 +21,15 @@
 
 ## Product Features
 
+Status of Appointment
+Encounter for Appointment to match our questionnaire to the clipbaord
 
+5. **Form Type** 
+    - Primary Care Questionnaire Title
+    - Facility
+    - Dr. Name? Does this come from the api for appointments? 
+    - Date and Time.
+    - [See Loma Linda example for content](https://dsva.slack.com/files/U5HMZDQSK/F016MHJ9MMJ/605-10318183-9694-3200611-140444-pvs_1_.pdf) 
 6.  Questionnaire Trigger - VAOS/CPRS - association of facility/encounter to trigger questionnaire that applies.
 
 
