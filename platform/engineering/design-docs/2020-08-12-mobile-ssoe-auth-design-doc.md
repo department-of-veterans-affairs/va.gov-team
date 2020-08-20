@@ -116,8 +116,8 @@ and by doing so don't have to conditionally run, or not run, sections of code.
 ### Detailed Design
 Beyond calling the `IamSsoeAuth::Service` to perform auth token introspection there are two options with varying levels of effort:
 
-- Option 1: MVP: the minimal solution would have the mobile engine's `ApplicationController` override the session management methods in the core app's `ApplicationController.
-- Option 2: SessionManager: A more complex solution creates a base `SessionManager` to handle all session logic with sub-classes for each auth source; `WebSessionManager`, `MobileSessionManager`, and `ExternalSessionMananger`.
+- **Option 1** MVP: the minimal solution would have the mobile engine's `ApplicationController` override the session management methods in the core app's `ApplicationController.
+- **Option 2** SessionManager: A more complex solution creates a base `SessionManager` to handle all session logic with sub-classes for each auth source; `WebSessionManager`, `MobileSessionManager`, and `ExternalSessionMananger`.
 
 #### Option 1: MVP
 The minimum amount of code, with the largest tech debt, overrides the `AuthenticationAndSSOConcerns` session methods, such as `validate_session` in the mobile engine:
