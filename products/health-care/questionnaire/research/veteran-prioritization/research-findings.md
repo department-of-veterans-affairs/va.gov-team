@@ -69,4 +69,5 @@ Opoprtunity: create visual separation between the two boxes to better illustrate
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/veteran-prioritization/conversation-guide.md)
 - [Card sort results](https://app.optimalworkshop.com/optimalsort/adhoc/j2b7m7j5/shared-results/x21jzunipdyzwymg6ge3538j7s1k7qs6)
 - [Session analysis spreadsheet](https://docs.google.com/spreadsheets/d/1HQErLCeXZVPD9qAausAezUiPiAwd9rAJSo3imxrcMns/edit?usp=sharing)
-- [Mockups]()
+- [Demographics Mockup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/veteran-prioritization/Veteran%20info%201.png)
+- [Reason for Visit mockup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/veteran-prioritization/reason%20for%20visit.png)
