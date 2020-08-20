@@ -109,13 +109,24 @@ Thanks for joining us today! The session should take 45 minutes. Our goal is to 
 
 - From a technology perspective, what could be improved to help you in your outreach? 
 
+## Closing
+
+- Any questions for us?
+- Was there anything that I didn't ask that you think that I should know?
+- Thank yous...
+
+
+## If time permits... but most likely a separate session
+
+- - -
+
 ## Vet Center Page Critique
 
 [CRITIQUE OF CURRENT DETAIL PAGE – 15 MIN]  
 
 [Current Vet Center page example](https://www.va.gov/find-locations/facility/vc_0342V)
 
-- This is what a Vet Center page looks like today, in an ideal world, what would the page look like if it was first exposure that a Veteran or service member had to your Vet Center, maybe after they did a google search.  
+This is what a Vet Center page looks like today, in an ideal world, what would the page look like if it was first exposure that a Veteran or service member had to your Vet Center, maybe after they did a google search.  
 
  - What would be the most important thing(s) that they should be able to learn or understand.  
 
@@ -129,8 +140,3 @@ Thanks for joining us today! The session should take 45 minutes. Our goal is to 
 
 - What about a page like this? How does a page like this fit into your workflow? 
 
-## Closing
-
-- Any questions for us?
-- Was there anything that I didn't ask that you think that I should know?
-- Thank yous...
