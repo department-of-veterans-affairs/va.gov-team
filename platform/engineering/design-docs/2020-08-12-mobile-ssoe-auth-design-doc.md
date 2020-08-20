@@ -25,7 +25,7 @@ session TTL is part of the token payload.
 
 ### High Level Design
 When launching the mobile app for the first time a call is made to IAM OAuth service's `../authorise` endpoint. 
-This returns a refresh auth token that lasts for 30 days. Then, and after all logins during that window, the app makes
+This returns a refresh auth token that expires after 30 days. Then, and after all logins during that window, the app makes
 a call to IAM's `../token` endpoint to retrieve an access token which signifies that a IAM session has been created.
 The mobile app will include that access token in a Bearer authorization header for all requests to vets-api.
 When vets-api receives a request with that mobile auth header it will first lookup a session in redis by the access token.
