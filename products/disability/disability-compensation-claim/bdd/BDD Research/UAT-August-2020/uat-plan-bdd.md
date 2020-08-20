@@ -45,12 +45,13 @@ Required for participating in this study:
 - Participants must have a DS Logon account.
 - Participants must be separating from the miltary between 90-180 days from now.
 - Participants will be claiming at least one disability.
-- Participants should be able to use Zoom and not have to use a screen reader.
+- Participants must have no problem seeing the content on the screen and hearing the moderator. 
+- Participants should be able to use Zoom and not have to use a screen reader or other accessibility aid.
 
-Nice to have requirements:
+Nice to have requirements: 
 
-- Good spread in demographics
-- Good spread across different levels of "tech-savviness"
+- Good spread in demographics.
+- Good spread across different levels of "tech-savviness".
 
 We would like **5** participants who must meet the following criteria:=
 Required for participating in this study: 
@@ -58,26 +59,27 @@ Required for participating in this study:
 - Participants must have a DS Logon account.
 - Participants must be separating from the miltary between 1-89 days from now.
 - Participants will be claiming at least one disability.
-- Participants should be able to use Zoom and not have to use a screen reader.
+- Participants must have no problem seeing the content on the screen and hearing the moderator.
+- Participants should be able to use Zoom and not have to use a screen reader or other accessibility aid.
 
 Nice to have requirements:
 
-- Spread in demographics
-- Spread across different levels of "tech-savviness"
+- Spread in demographics.
+- Spread across different levels of "tech-savviness".
 
 2.	**What is your recruitment strategy?**
 
-We will work with Perigean to recruit for this study.
+We will work with Perigean to recruit for this study. 
 
 ## When? 
 
 1.	**Timeline: What dates do you plan to do research?**
 
-We are looking to start sessions **Thursday, August 27, 2020. We will test August 27, 28, and 31**.
+We are looking to start sessions **Thursday, August 27, 2020. We will test with users August 27, 28, and 31**.
 
 2.	**Prepare: When will the thing you are testing be ready?**
 
-BDD should be live on production with EVSS on or about August 20, 2020.
+BDD should be live on production with EVSS on or about August 21, 2020. 
 
 3. **Length of Sessions: How long do you estimate each session will be?**
 
@@ -85,7 +87,7 @@ We expect sessions to only be 30-45 minutes. **Please schedule sessions for 45 m
 
 4.	**Availability: If applicable, when would you like sessions scheduled?**
 
-Between 11am and 7pm
+Between 11am and 7pm each day, with 15 min between each session.
 
 5.	**Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
 
