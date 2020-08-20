@@ -19,7 +19,10 @@
 
 ## Product Features
 
-
+- Visit Intro landing page to kick off the form 
+- Use the standard intro fom landing page with Save For later Message Box
+- UX ? - do we want the additional steps to expect in the form on this page? 
+- UX ? - do we show this page when they select the questionnaire from the list view?
 - Clipboard Feature Flag #12402
 
 
