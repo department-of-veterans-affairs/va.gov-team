@@ -1,4 +1,4 @@
-# Accessibility Dev Review Step-by-Step
+# Accessibility Review Step-by-Step
 
 - [ ] Deque axe browser scan audit to identify accessibility issues
 - [ ] Deque axe-coconut browser scan audit to identify leading edge accessibility issues
