@@ -46,7 +46,7 @@ Follow the setup instructions [here](https://github.com/department-of-veterans-a
 
 #### Additional Backend changes:
 
-Make the following additions/changes to ```config/test.yml``` if following the docker workflow. (Do not commit these changes). **If following the native flow, remove this setting from test.yml.**
+Make the following additions/changes to `config/test.yml` if following the docker workflow. (Do not commit these changes). **If following the native flow, remove this setting from test.yml.**
 
 ```
 test_database_url: postgis://postgres:password@postgres:5432/vets_api_test?pool=4
@@ -66,31 +66,48 @@ Provider states allow the consumer to define a state in which the provider shoul
 
 ## PACT Setup
 
-## Naming Conventions (TODO)
-TODO: 
-
 ## How to Setup the Consumer Codebase (vets-website)
-TODO: Add piece for avoiding provider state naming collisions or something generic like, “service is up”.
 
-1. Writing a contract test
-2. Mocking requests
-    2a. Populating arrays in mock data
+1. Running contract tests
+2. Writing a contract test
+3. Interactions
+
+### Running contract tests
+
+To run all contract tests locally:
+
+```
+yarn test:contract
+```
 
 ### Writing a contract test
+
 1. Create a test file with the suffix `.contract.spec.js`.
+
 2. Use the `contractTest` helper function from `src/platform/testing/contract`:
+
     ```
     contractTest('Example App', 'VA.gov API', mockApi => { ... });
     ```
+
     1. The first argument is the name of your app.
         - This must match the app name that the API uses to set up provider states during pact verification for this app.
     2. The second argument is the name of the provider.
         - For our purposes, it's basically always going to be `'VA.gov API'`.
     3. The third argument is a callback function that has the Pact mock provider as its argument (`mockApi` in this example).
+
 3. In the callback function, write your tests in a unit test format with `describe()` and `it()` blocks and such.
-4. For any relevant endpoints, set up the mock API with `mockApi.addInteraction()`.
-    - The easiest place to do this is within `it()` blocks, which are meant to focus on specific interactions.
-    - Alternatively, you can set them all up in one place within a `before()` hook.
+
+4. For any relevant endpoints, set up the mock API by adding the expected interactions.
+
+    See the next section on interactions for an example of defining an interaction.
+
+    ```
+    mockApi.addInteraction(interaction);
+    ```
+
+    - The easiest place to do this is within the `it()` blocks, which are meant to focus on specific interactions or endpoints.
+    - **The test will fail if that interaction is not fulfilled in the scope where it's declared**. So ensure that the request made in the test matches the request defined in the interaction.
 
 The following code is an example of how you might structure your test.
 
@@ -101,44 +118,170 @@ The following code is an example of how you might structure your test.
 ```
 import contractTest from 'platform/testing/contract';
 
-import doStuff from  '../actions';
+import { getStuff, sendThings } from  '../actions';
 
 contractTest('Example App', 'VA.gov API', mockApi => {
   describe('GET /example_endpoint', () => {
     context('when user is authenticated', () => {
       it('responds with status 200', async () => {
         mockApi.addInteraction({
-          state: 'user is authenticated',
-          uponReceiving: 'a request to do stuff',
-          withRequest: {
-            method: 'POST',
-            path: '/v0/example_endpoint',
-            headers: {
-              'Content-Type': 'application/json',
-              'X-Key-Inflection': 'camel',
-            },
-            body: {
-              foo: 12345,
-              bar: 'request data',
-            },
-          },
-          willRespondWith: {
-            status: 200,
-            body: {
-              data: {
-                baz: string('response data'),
-                quux: boolean(false),
-              },
-            },
-          },
+          // code 200 interaction for GET /example_endpoint
         });
+        await getStuff();
+      });
 
-        await doStuff();
-      })
+      it('responds with status 500', async () => {
+         mockApi.addInteraction({
+          // code 500 interaction for GET /example_endpoint
+         });
+         await getStuff();
+      });
+    });
+  });
+
+  describe('POST /example_endpoint', () => {
+    it('responds with status 200', async () => {
+      mockApi.addInteraction({
+        // code 200 interaction for POST /example_endpoint
+      });
+      await sendThings();
     });
   });
 });
 ```
+
+### Interactions
+
+An interaction describes the request you expect to send to the API and the expected response for that request. It's formatted as an object.
+
+#### Example
+
+```
+const interaction = {
+  state: 'user is authenticated',
+  uponReceiving: 'a request to get stuff',
+  withRequest: {
+    method: 'POST',
+    path: '/v0/example_endpoint',
+    headers: {
+      'Content-Type': 'application/json',
+      'X-Key-Inflection': 'camel',
+    },
+    body: {
+      foo: 12345,
+      bar: 'request data',
+    },
+  },
+  willRespondWith: {
+    status: 200,
+    body: {
+      data: {
+        baz: string('response data'),
+        quux: boolean(false),
+      },
+    },
+  },
+}
+```
+
+#### Provider states
+
+The `state` key in an interaction specifies the state of the backend, or the **provider state**, for that interaction.
+- Use provider states to test different responses to the same request.
+- The state provides a hook for the backend to do any set up before running the verification on its end.
+    - The backend often depends on an external services, so provider states are helpful indicators to stub out such services accordingly.
+    - Examples:
+        - `state: 'external service is up'`
+        - `state: 'user is authenticated'`
+- The same state can be used across multiple interactions.
+    - However, avoid naming collisions (within your app) if there are any differences in the setup on the backend.
+    - Describe the states appropriately if there are any minor differences.
+    - But do not bloat the contract with a bunch of edge cases if it's not valuable to test or could be tested elsewhere.
+- The backend needs to handle all states in a pact in order for the verification to fully proceed.
+
+#### Matching
+
+[Use matchers](https://github.com/pact-foundation/pact-js#matching) in your interactions to prevent brittle tests. They allow tests to match the types or formats of values in the requests or responses instead of expecting the exact values.
+
+- "As a rule of thumb, [you generally want to use exact matching when you're setting up the expectations for a request](https://docs.pact.io/getting_started/matching/#request-matching) because you're under control of the data at this stage, and according to Postel's Law, we want to be "strict" with what we send out."
+- "[You want to be as loose as possible with the matching for the response though](https://docs.pact.io/getting_started/matching/#response-matching). This stops the tests being brittle on the provider side."
+
+#### Optional attributes
+
+[Pact does not support optional attributes](https://docs.pact.io/faq/#why-is-there-no-support-for-specifying-optional-attributes).
+
+This also means there is no matcher that is flexible enough to allow arrays that could either be empty or contain elements.
+
+#### Optional arrays
+
+If you want to vary the data within an array for your test case, but that array could be empty in a valid response, [best practice dictates the following approach](https://stackoverflow.com/a/61786715/1070621):
+
+1. Decide on what is valuable to test - empty arrays, non-empty or both.
+2. Use provider states to specify any variations on the response (consumer test).
+3. Implement the state for the provider test to be able to control the response.
+
+Following that convention, there could potentially be multiple interactions, with the responses resembling these examples:
+
+##### Empty arrays
+
+```
+willRespondWith: {
+  status: 200,
+  body: {
+    facilities: [],
+    services: [],
+  }
+}
+```
+
+##### Non-empty arrays
+
+```
+willRespondWith: {
+  status: 200,
+  body: {
+    facilities: eachLike({
+      id: string('12345'),
+      name: string('Central VA Office'),
+    }),
+    services: eachLike('user-profile'),
+  }
+}
+```
+
+##### Specific arrays
+
+**If you need the generated array to contain specific elements**, you would set the value to the **exact array** you want and use a **provider state** to test this particular interaction.
+- This generated response would be **useful if you wanted to use the generated pact as a source of mock data**, e.g. for a stub server in local development or end-to-end tests.
+- On the other hand, **do not bloat the pact with interactions like this if they are not going to be used in any meaningful way**.
+
+```
+const interaction = {
+  state: 'mock data',
+  ...
+  willRespondWith: {
+    status: 200,
+    body: {
+      facilities: [
+        {
+          id: string('12345'),
+          name: string('Central VA Office')
+        },
+        {
+          id: string('67890'),
+          name: string('Department of Veterans Services'),
+        },
+      ],
+      services: ['user-profile', 'edu-benefits'],
+    },
+  },
+};
+```
+
+In this case, using a matcher, like `eachLike`, would not be appropriate.
+- You couldn't simply do `eachLike(['user-profile', 'edu-benefits'])` because the matcher doesn't work that way.  [However, there is some discussion for adding this feature to v4](https://github.com/pact-foundation/pact-js/issues/402) (as of now, we are on the v2 spec).
+- If you passed the option to increase the minimum length of the array, like `eachLike('user-profile', { min: 2 })`, the generated array would only repeat the given element, like `['user-profile', 'user-profile']`. This wouldn't be useful if you're trying to vary the data.
+- You could still use matchers if you don't care about the exact values of certain attributes, like how `string()` is used in the above example.
 
 ## How to Configure the Provider Codebase (vets-api)
 
