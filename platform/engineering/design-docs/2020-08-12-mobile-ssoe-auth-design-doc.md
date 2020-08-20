@@ -99,14 +99,14 @@ Mobile sessions are a hybrid of web sessions and api sessions. Like web sessions
 i.e. they do not have restrictions on which endpoints they can call. However they will have their TTL managed 
 externally by the IAM auth service.
 
-#### Refactoring
+#### Optional Tech-debt Refactoring
 
 The main `ApplicationController`, which extends `ActionController::API` has a lot of shared error handling 
 but also includes methods which only apply to some controllers. It's auth mixin `AuthenticationAndSSOConcerns` 
 is specific to va.gov and would not apply to the mobile endpoints and is currently ignored 
 (`skip_before_action(:authenticate)`) by some Lighthouse endpoints.
 
-The proposed solution is to create a concerns for each type of shared logic. This enables two (ruby flavored) refactors;
+The proposed refactor is to create a concerns for each type of shared logic. This enables two (ruby flavored) refactors;
 composition over inheritance and polymorphism over conditionals. Classes only compose in the logic they need
 and by doing so don't have to conditionally run, or not run, sections of code.
 
@@ -114,40 +114,102 @@ and by doing so don't have to conditionally run, or not run, sections of code.
 ## Specifics
 
 ### Detailed Design
-There are four types of logic currently in the `ApplicationController`. Error handling, CSRF, Logging, and Background Jobs.
-A concern would be created for each type, including the `AuthenticationAndSSOConcerns` that would be five modules
-that could be mixed in as needed:
+Beyond calling the `IamSsoeAuth::Service` to perform auth token introspection there are two options with varying levels of effort:
 
- - AuthenticationAndSSOConcerns
- - ErrorRenderingConcerns
- - LoggingConcerns
- - CSRFConcerns
- - BackgroundJobConcerns
- 
- Then each `ApplicationController` - va.gov REST, va.gov FHIR, Lighthouse, and Mobile - could compose only the concerns they needed.
- This would remove all `skip_before`, `skip_after` logic which is a way of conditionally not running code rather than 
- using polymorphism to allow the class to include and run the right code. If slightly different concern behavior is needed
- the module can create it's own custom concern; e.g. a FHIR controller could have its own `ErrorRenderingConcerns` module.
+- Option 1: MVP: the minimal solution would have the mobile engine's `ApplicationController` override the session management methods in the core app's `ApplicationController.
+- Option 2: SessionManager: A more complex solution creates a base `SessionManager` to handle all session logic with sub-classes for each auth source; `WebSessionManager`, `MobileSessionManager`, and `ExternalSessionMananger`.
 
-#### Mobile Auth Specifics
-A new `MobileAuthenticationAndSSOConcerns` would use a `IamSsoeAuth::Service` (draft PR [here](https://github.com/department-of-veterans-affairs/vets-api/pull/4665)) to validate sessions:
+#### Option 1: MVP
+The minimum amount of code, with the largest tech debt, overrides the `AuthenticationAndSSOConcerns` session methods, such as `validate_session` in the mobile engine:
 
 ```ruby
-def validate_session
-  return true if @current_user.present?
+module MobileAuthenticationConcern
+  extend ActiveSupport::Concern
   
-  introspect_response = IamSsoeAuth::Service.new.post_introspect(token)
-  @current_user = build_user(introspect_response)
-  @current_user.present?
-end
-
-def build_user(introspect_response)
-  # build session, user, and profile objects
-  # then persist the user...
-  user = User.save
-  user
+  def validate_session
+    session_object = Session.find(access_token)
+    @current_user = User.find(session_object.uuid) if session_object.present?
+    # user exists return true
+    return true if @current_user.present?
+    
+    # user created return true
+    @current_user = introspect(access_token)
+    @current_user.present?
+    
+     # if access_token is invalid introspect raises error return false
+    rescue Common::Exceptions::Forbidden
+      return false
+    end
+  end
+  
+  def introspect(access_token)
+    response = IamSsoeAuth::Service.new.get_introspect(access_token)
+    build_user(response)
+  end
 end
 ```
+
+#### Option 2: SessionManager
+A more traditional polymorphic approach would replace much of `AuthenticationAndSSOConcerns` with a base `SessionManager` that has 
+`WebSessionMananger` and `MobileSessionMananger` sub-classes. It would declare an interface for session
+manangement by defining a set of methods that must be overrriden by its sub-classes.
+
+Web (va.gov) controllers would instantiate a `WebSessionManager` and Mobile controllers would instantiate a `MobileSessionMananger`. 
+As both managers implement the same interface we won’t need to sprinkle web or mobile conditional logic throughout the concern. The request determines 
+which state it’s in and chooses the appropriate manager:
+
+<img src="images/mobile-ssoe-auth/mobile_ssoe_auth_class.png" alt="mobile auth sequence diagram" width="700"/>
+
+Should another form of session manager be needed in the future it can implement the same interface. The design also makes testing easier as the logic to determine if each type of session manager is correct can be tested in isolation.
+
+#### Optional Tech-debt Refactoring
+The main `ApplicationController`, which extends `ActionController::API` includes shared error handling and logging. 
+It also has quite a few methods which only apply to some controllers. This code could move to concerns and controllers 
+could compose in the logic they need. The non-global methods are listed below with their usages:
+
+**clear_saved_form(form_id)**
+  app/controllers  (1 usage found)
+      ClaimsBaseController  (1 usage found)
+  app/controllers/v0  (5 usages found)
+      BurialClaimsController  (1 usage found)
+      DependentsApplicationsController  (1 usage found)
+      EducationBenefitsClaimsController  (1 usage found)
+      GIBillFeedbacksController  (1 usage found)
+      HealthCareApplicationsController  (1 usage found)
+      
+**skip_sentry_exception_types**
+  app/controllers/v0  (4 usages found)
+      EVSSClaimsController  (1 usage found)
+      HealthCareApplicationsController  (1 usage found)
+      IdCardAttributesController  (1 usage found)
+      Post911GIBillStatusesController  (1 usage found)
+      
+**saml_settings(options=…)**
+  app/controllers  (1 usage found)
+      SAMLController  (1 usage found)
+  app/controllers/v0  (3 usages found)
+      SessionsController  (3 usages found)
+  app/controllers/v1  (3 usages found)
+      SessionsController  (3 usages found)
+      
+**pagination_params**
+  app/controllers  (1 usage found)
+      FacilitiesController  (1 usage found)
+  app/controllers/v0  (4 usages found)
+      FoldersController  (1 usage found)
+      MessagesController  (1 usage found)
+      PrescriptionsController  (1 usage found)
+      TrackingsController  (1 usage found)
+  app/controllers/v1/facilities  (2 usages found)
+      V1::Facilities::CcpController  (1 usage found)
+      V1::Facilities::VaCcpController  (1 usage found)
+  modules/vaos/app/controllers/vaos/v0  (1 usage found)
+      AppointmentsController  (1 usage found)
+
+**render_job_id(jid)**
+  app/controllers/v0  (2 usages found)
+      DocumentsController  (1 usage found)
+      EVSSClaimsController  (1 usage found)
 
 ### Code Location
 Code will live in the [vets-api](https://github.com/department-of-veterans-affairs/vets-api) repo. IAM auth code will be located in lib/iam_ssoe_auth as in the [draft PR](https://github.com/department-of-veterans-affairs/vets-api/pull/4665).
@@ -185,20 +247,10 @@ While it's up to the end user to protect their phone, should a phone be stolen/c
 - Do VSP/VFS developers have access to IAM logs?
 
 ### Work Estimates
-- IAM SSOe Service (in [draft PR](https://github.com/department-of-veterans-affairs/vets-api/pull/4665))
-- Staging environment configuration (2 days)
-- Production environment configuration (2 days)
-- Split existing ApplicationController logic into concerns (2 weeks)
-- Mobile module setup and auth (2 weeks)
-- IAM Dev approval test (1 day)
-- IAM Staging approval test (1 day)
-- IAM Prod approval test (1 day)
-- Staging QA/UAT (2 days)
-- Production QA/UAT (4 days)
+TBD
 
 ### Alternatives
 - Okta: Okta and the lighthouse API paths were considered for auth. Okta's cost/user, SSOe's momentum at VA, and the greater number of endpoints that would have to be rebuilt worked against Okta as an auth choice.
-- SSOe with a mobile only controller: A dedicated mobile API may still be an option. At this time leveraging or versioning existing endpoints gets us to a MVP faster.
 
 ### Future Work
 The work outlined in this PR would complete the mobile auth flow.
