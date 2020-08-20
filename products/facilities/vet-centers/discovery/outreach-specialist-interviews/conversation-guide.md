@@ -9,7 +9,7 @@
 
 ## Intro
 
-Thanks for joining us today! The session should take 45 minutes. Our goal is to understand your role as an Outreach Specialist working with Veterans, service memmbers and their families.
+Thanks for joining us today! The session should take 45 minutes. Our goal is to understand your role as an Outreach Specialist working with Veterans, service members and their families.
 
 [Ask to record]
 
