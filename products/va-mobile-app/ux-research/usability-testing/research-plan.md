@@ -1,4 +1,4 @@
-# Research Plan for Usability Testing of High Fidelity MVP Mobile App
+# Research Plan for Round 1 of Usability Testing of High Fidelity MVP Mobile App
 
 August 20, 2020
 
