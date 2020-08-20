@@ -25,13 +25,13 @@ Have you worked as an outreach specialist in more than one district or region?
 
 ### Background/ The Role 
 
-How would you describe your role at VA?  
+- How would you describe your role at VA?  
 
   - What are your main duties and responsibilities? 
   
   - If you had to break down these responsibilities into percentages, what might that look like? 
 
-What does a typical week look like for you? 
+- What does a typical week look like for you? 
 
 ### Eligibility 
 
