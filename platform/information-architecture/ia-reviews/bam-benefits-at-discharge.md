@@ -25,14 +25,14 @@
 
 **Impacted Pages**
 
-Page | URL | Breadcrumb | Notes
---- | --- | --- | ---
-How to file a claim | /disability/how-to-file-claim | Home > Disability benefits > How to file a claim | Content changes only
-When to file | /disability/how-to-file-claim/when-to-file/ | n/a | Retire and redirect page
-Pre-discharge claim | CURRENT:<br> /disability/how-to-file-claim/when-to-file/pre-discharge-claim/ <br> NEW:<br> /disability/how-to-file-claim/pre-discharge-claim/ | CURRENT:<br> Home > Disability benefits > How to file a claim > When to file > Pre-discharge claim <br> NEW:<br> Home > Disability benefits > How to file a claim > Pre-discharge claim | Content changes, URL change, breadcrumb change
-File while overseas | /disability/how-to-file-claim/when-to-file/pre-discharge-claim/file-while-overseas/  | n/a | Retire and redirect page
-FDC Walkthrough | https://www.benefits.va.gov/FDC/walkthrough.asp | n/a | Retire and redirect page
-FDC Checklist | https://www.benefits.va.gov/FDC/checklist.asp | n/a | Retire and redirect page
+Page | URL | Breadcrumb | Notes | Validated<br> in staging | Validated<br> in prod
+--- | --- | --- | ---| --- | ---
+How to file a claim | /disability/how-to-file-claim | Home > Disability benefits > How to file a claim | Content changes only | | 
+When to file | /disability/how-to-file-claim/when-to-file/ | n/a | Retire and redirect page | | 
+Pre-discharge claim | CURRENT:<br> /disability/how-to-file-claim/when-to-file/pre-discharge-claim/ <br> NEW:<br> /disability/how-to-file-claim/pre-discharge-claim/ | CURRENT:<br> Home > Disability benefits > How to file a claim > When to file > Pre-discharge claim <br> NEW:<br> Home > Disability benefits > How to file a claim > Pre-discharge claim | Content changes, URL change, breadcrumb change | | 
+File while overseas | /disability/how-to-file-claim/when-to-file/pre-discharge-claim/file-while-overseas/  | n/a | Retire and redirect page | | 
+FDC Walkthrough | https://www.benefits.va.gov/FDC/walkthrough.asp | n/a | Retire and redirect page | | 
+FDC Checklist | https://www.benefits.va.gov/FDC/checklist.asp | n/a | Retire and redirect page | | 
 
 
 <hr>
@@ -43,20 +43,20 @@ FDC Checklist | https://www.benefits.va.gov/FDC/checklist.asp | n/a | Retire and
 - BDD application is integrated with the overall 526ez online form, so many entry points already exist, but content may been to be updated to reference that this capaility is now available on va.gov rather than eBenefits. 
 - No new entry points to be added, and all existing entry points remain in place. The only change is that users will be directed to va.gov rather than eBenefits.  
 
-**Left-navigation changes**
-- The following pages will be retired and need to be removed from the Disability left nav
-  - When to file a claim
-  - File while overseas
-  - FDC Walkthrough (legacy page)
-  - FDC Checklist (legacy page)
-- The Pre-discharge page should be moved in the Disability left nav
-  - It currently lives as a child of the When to file page (Disability > How to file > When to file) 
-  - It should be moved up 1 level to a child of How to file page, and list as the first option above "Evidence needed"
+**Navigation changes**
 
-**Entry points to pre-discharge**
-Priority | Placement | Description
---- | --- | ---
-Must | [How to file a claim](https://www.va.gov/disability/how-to-file-claim/) | How to file wizard will now link to va.gov application rather than eBenefits | This is an existing link to be updated, along with content updates as appropriate
+Priority | Nav component | Changes | Validated<br> in staging | Validated<br> in prod
+--- | --- | --- | --- | --- 
+Must | Disability left nav | When to file a claim - Remove from left nav | |
+Must | Disability left nav | File while overseas - Remove from left nav | |
+Must | Disability left nav | FDC Walkthrough (legacy page) - Remove from left nav | |
+Must | Disability left nav | FDC Checklist (legacy page) - Remove from left nav | |
+Should | Disbility left nav | Pre-discharge - Move in the Disability left nav up 1 level to a child of How to file page, and list as the first option above "Evidence needed" | | 
+
+**Entry Points**
+Priority | Placement | Description | Validated<br> in staging | Validated<br> in prod
+--- | --- | --- | --- | --- 
+Must | [How to file a claim](https://www.va.gov/disability/how-to-file-claim/) | How to file wizard will now link to va.gov application rather than eBenefits | This is an existing link to be updated, along with content updates as appropriate | |
 
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
@@ -69,7 +69,7 @@ Must | [How to file a claim](https://www.va.gov/disability/how-to-file-claim/) |
 - Redirects will be needed for all URL changes to ensure old URLs are redirected to the new URLs, as well as pages that are being retired.  This includes the following pages:
 
 Current page | Current URL | New URL/Redirect to
---- | --- | ---
+--- | --- | --- 
 When to file a claim | /disability/how-to-file-claim/when-to-file/ | /disability/how-to-file-claim/
 Pre-discharge claim | /disability/how-to-file-claim/when-to-file/pre-discharge-claim/ | /disability/how-to-file-claim/pre-discharge-claim/
 File while overseas | /disability/how-to-file-claim/when-to-file/pre-discharge-claim/file-while-overseas/ | /disability/how-to-file-claim/pre-discharge-claim/
