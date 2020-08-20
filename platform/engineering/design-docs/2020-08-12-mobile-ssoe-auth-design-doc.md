@@ -215,7 +215,7 @@ could compose in the logic they need. The non-global methods are listed below wi
 Code will live in the [vets-api](https://github.com/department-of-veterans-affairs/vets-api) repo. IAM auth code will be located in lib/iam_ssoe_auth as in the [draft PR](https://github.com/department-of-veterans-affairs/vets-api/pull/4665).
 
 ### Testing Plan
-- Like MVI IAM's OAuth team requires a live demo to move up environments
+- As with MVI, IAM's OAuth team requires a live demo to move up environments
 - Updated and new specs for session creation
 - Integration tests first on a review instance then staging (may require the rollback dance if staging testing requires more than a day)
 
@@ -230,7 +230,7 @@ Code will live in the [vets-api](https://github.com/department-of-veterans-affai
 - TODO: Check on access to IAM logs, add IAM point of contact
 
 ### Caveats
-_To be determined._
+TBD
 
 ### Security Concerns
 Access Token seems shorter than most in the wild e.g. Amazon's is 350 chars long. Session highjacking through brute force would be harder if it was longer. Session hijacking and replay attacks could be mitigated by [binding the access token to the TLS connection](https://medium.facilelogin.com/oauth-2-0-token-binding-e84cbb2e60).
