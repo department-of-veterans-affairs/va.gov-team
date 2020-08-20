@@ -58,42 +58,39 @@ A full breakdown of participant session coverage and their demographics are belo
 | Veteran                                               | Female | White or Caucasian                                      | 55 - 64  | Some college (no degree) | Army               | WI       | VAOSR only and additional scheduling questions |
 | Veteran                                               | Male   | White or Caucasian                                      | 35 - 44  | Master's degree          | Army               | MI       | VAOSR only and additional scheduling questions |
 
-## Findings & Recommendations Overview
+## Research Findings & Recommendations
 
-### Findings 
-
-Overall, both VAOSR and Express Care were well received by most of the Veterans who interacted with each product, respectively. Taking into account the fact that there were several Veterans that only interacted with one or the other and/or different iterations of the Express Care prototype, both products were generally usable and made sense to Veterans. Only one Veteran who interacted with the Express Care prototype did not understand the concept. 
-
-However, there were a number of significant challenges presented in both experiences. Veterans expressly stated that had they not been participating in a research session, able to ask questions, and had someone to provide assistance and guidance through either a hypothetical task or a task they were interested in completing, that they would have given up attempting to use the respective tool, opting to call their provider to complete the task, or more realistically, given up entirely. 
-
-In addition to, and likely contributing to their difficulty in completing their tasks, Veterans struggled significantly with understanding both VAOSR and Express Care, conceptually. Most notably, Veterans stated a significant frustration upon initiating scheduling a request in VAOSR, only to learn and/or realize after interacting with VAOSR that the tool does not *actually* complete the scheduling request. Veterans indicated this to be especially frustrating since content throughout VAOSR and on VA.gov referred to the tool consistently as a self-scheduling option. Likewise, when interacting with the first version of the Express Care prototype, Veterans read the service warning and consent information as what Express Care *could*  provide, rather than the alternative. 
-
-Despite this frustration, 10 of the thirteen (3 participants did not interact with VAOSR) participants stated they would utilize VAOSR in the future to attempt to request/schedule an appointment with their VA medical provider in the future, now that they are aware of the option (none of the participants who participated in this research previously used VAOSR or were aware of this tool on VA.gov).
-
-To summarize, Veterans were content overall with the product improvements, indicating that a self-service option was by-in-large preferable to their current method for scheduling an appointment, even though VAOSR did not result in a scheduled appointment, today. Additionally, of those participants who interacted with Express Care, most were extremely interested in utilizing this service, not only during the current pandemic, but under ordinary circumstance when in need of treatment, rather than seeking an appointment from a VA medical provider, or going through private insurance, as VA often takes too long and isn't timely enough for treatment of a common cold, for example. 
-
-### Recommendations overview
-
-In the section below, findings and recommendations are explored in greater depth, citing specific improvements, broadly as well as the respective products, VAOSR and Express Care. The following are areas that are addressed in the next section, research findings and recommendations:
+In the section below, findings and recommendations are explored in greater depth, citing specific improvements, broadly as well as specific recommendations for the respective products, VAOSR and Express Care. 
 
 #### Content
 
-Static content about scheduling on [VA.gov](VA.gov) and throughout the tools and services on the platform are designed with Veterans. However, Veterans repeatedly expressed concerns in these research sessions about their constraints when interacting with the information online, due to a variety of factors, often including (but not limited to): PTSD, effects of combat-related injuries or conditions, technical ability, and/or age. Additionally, Veterans said that there is too much, albeit helpful, content, which contributes to and creates a sense of overload when they were interacting with both VAOSR and Express Care.  Further confusion and frustration was created by content for Veterans when interacting with VAOSR, in particular. The content advertises the tool as an online scheduler, however the outcome of use is an appointment request.
+Content presented the biggest burden to all users. Veterans indicated excessive trouble understanding, parsing through, and comprehending the information presented to them. For both experiences (VAOSR and Express Care), Veterans indicated not only was the amount of content a burden, but the variation throughout the content used to describe the same information difficult for them to manage. 
 
-***Content recommendations:*** 
-- Content must be audited and tested with Veterans for consistency of voice, tone, and vocabulary throughout the products.
-- Content must be audited and tested with Veterans for readability and comprehension .
-- Content must be audited and tested with Veterans for accuracy. 
+Content about scheduling on [VA.gov](VA.gov) and throughout the tools and services on the platform are designed with Veterans. However, Veterans repeatedly expressed concerns in these research sessions about their constraints when interacting with the information online, due to a variety of factors, often including (but not limited to): PTSD, effects of combat-related injuries or conditions, technical ability, and/or age. Additionally, Veterans said that there is too much, albeit helpful, content, which contributes to and creates a sense of overload when they were interacting with both VAOSR and Express Care. For example, Veterans said the content on the subway map page for Express Care was important, made sense, and they understood that for emergency situations, they should proceed. This emergency content made several users think Express Care is intended for emergency care, despite reading a description of Express Care on the previous screen and identifying it as not for emergencies.  
+
+Further confusion and frustration was created by content for Veterans when interacting with VAOSR, in particular. The content advertises the tool as an online scheduler, however the outcome of use is an appointment request. Veterans did not see a significant value in using VAOSR over their current method for scheduling an appointment (i.e. - calling the scheduling line or their provider's office directly, contacting their provider using Secure Messaging, or using MyHealth*e*Vet), due to VAOSR being a *request* system, not an actual appointment scheduling tool. Most participants recognized a discrepancy in the terminology used for the tool they interacted with to "Schedule an Appointment" on [VA.gov](VA.gov). Throughout the process, as the users interacted with the tool and periodically read through the content, they began to recognize that they outcome would not be a scheduled appointment, but an appointment request. 
+
+***Recommendations:*** 
+
+- VAOSR and Express Care content must be audited and tested with Veterans for consistency of voice, tone, and vocabulary throughout the products.
+- VAOSR and Express Care content must be audited and tested with Veterans for readability and comprehension.
+- VAOSR and Express Care content must be audited and tested with Veterans for understanding, accuracy, and consistency of information throughout their experience.
+- VAOSR and Express Care content must be updated to include critical information to allow Veterans the information they need to make informed decisions.  
+- VAOSR content must be changed to accurately describe VAOSR and the actions the tool allows the Veteran to accomplish.
+- Express Care content must be both reduced for readability and ease of comprehension as well as audited for consistency. 
+- Express Care content must be updated to reflect process for requesting this appointment type.
 
 #### Context
 
 Similar to content, providing context shapes a Veteran's understanding of the product or service they are interacting with and that experience determines their desire to use it in the future. Context comes through in the form of wayfinding, information, repeated and recognized patterns, and features that are developed closely alongside of the user. In this study, Veterans were asked to provide their opinions and feedback about the information provided on appointment cards about upcoming and previous appointments, how their appointments were displayed in their appointments list, the statuses of these appointments, and other indicators they may or may not have noticed or identified. Additionally, Veterans were asked to provide feedback about categorization and filtering of information on their appointments within their account, how the current format served them, and how it may work better. 
 
+All participants who were asked about appointment cancellations (60% total participants) said cancellations functioned as anticipated, were able to find this option, and were able cancel their appointment (if they chose to do so) with ease. However, there was significant concern expressed about *who* and *why* their appointments were cancelled.  
+
 ***Recommendations:***
 
-- Redesign appointment cards to include additional details about each appointment. 
+- Redesign appointment cards to include additional details about each appointment, to include: date, provider, location, type of care, status, type of appointment. 
 - Consider reducing the size of each appointment cards, displaying imperative information in list view, with more details displayed upon expansion.
 - Make indicators, such as color and icons more prominent and recognizable throughout the system.
-- Redesign appointment page to include sorting and filtering options when viewing appointment lists, based on additional details incorporated into appointment cards. 
+- Redesign appointment page to include sorting and filtering options when viewing appointment lists, based on additional details incorporated into appointment cards (date, provider, location, type of care, status, type of appointment).
 - Add additional details to appointment cards for cancelled appointments, to include: who cancelled the appointment, the reason for cancellation, and when the appointment was cancelled.
 - Incorporate vaccinations, preventative treatments, and other appointments and treatments covered by the VA (non-VA medical providers), into appointment lists.
