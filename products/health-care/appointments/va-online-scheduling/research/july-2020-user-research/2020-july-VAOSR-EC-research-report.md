@@ -84,3 +84,16 @@ Static content about scheduling on [VA.gov](VA.gov) and throughout the tools and
 - Content must be audited and tested with Veterans for consistency of voice, tone, and vocabulary throughout the products.
 - Content must be audited and tested with Veterans for readability and comprehension .
 - Content must be audited and tested with Veterans for accuracy. 
+
+#### Context
+
+Similar to content, providing context shapes a Veteran's understanding of the product or service they are interacting with and that experience determines their desire to use it in the future. Context comes through in the form of wayfinding, information, repeated and recognized patterns, and features that are developed closely alongside of the user. In this study, Veterans were asked to provide their opinions and feedback about the information provided on appointment cards about upcoming and previous appointments, how their appointments were displayed in their appointments list, the statuses of these appointments, and other indicators they may or may not have noticed or identified. Additionally, Veterans were asked to provide feedback about categorization and filtering of information on their appointments within their account, how the current format served them, and how it may work better. 
+
+***Recommendations:***
+
+- Redesign appointment cards to include additional details about each appointment. 
+- Consider reducing the size of each appointment cards, displaying imperative information in list view, with more details displayed upon expansion.
+- Make indicators, such as color and icons more prominent and recognizable throughout the system.
+- Redesign appointment page to include sorting and filtering options when viewing appointment lists, based on additional details incorporated into appointment cards. 
+- Add additional details to appointment cards for cancelled appointments, to include: who cancelled the appointment, the reason for cancellation, and when the appointment was cancelled.
+- Incorporate vaccinations, preventative treatments, and other appointments and treatments covered by the VA (non-VA medical providers), into appointment lists.
