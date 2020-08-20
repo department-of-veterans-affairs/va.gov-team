@@ -36,9 +36,9 @@ Let’s start with a few warm-up questions.
   - What were/are you looking for in a school?  How would you determine if it was a good fit for you?
   - If you knew a fellow Veteran who had attended a school you're interested in, what would you want to know the most?
   
-## First Task: Look at Ratings - 20 minutes
+## First Task: Initial Look at Ratings - 20 minutes
 
-Let's say you really like the programs at **UNIVERSITY OF CALIFORNIA-BERKELEY**, but you aren't sure what your experience would be like as a Veteran student. You've heard of the Comparison Tool and are interested to see what information is there. How would you use the Comparison Tool to find Veteran-specific feedback on the school?  
+Let's say you really like the programs at **Insert school**, but you aren't sure what your experience would be like as a Veteran student. You've heard of the Comparison Tool and are interested to see if the VA has any information on how Veterans view that school.  How would you use the Comparison Tool to determine if **Insert school** was a good fit for you as a Veteran?  
 
 **When user sees rating** 
  - What do you think of that rating? (top, overall one)
@@ -46,13 +46,14 @@ Let's say you really like the programs at **UNIVERSITY OF CALIFORNIA-BERKELEY**,
  - Who do you think provided that rating?
  - How do you think that rating was collected?
  
-_Potential Prompt if they don't click school_ Do you think there is more information on ratings?
+_Potential Prompt if they don't click school_ Would you have enough information to make a decision?  Or would you need more information on ratings?
 
 - What do you think the different categories mean?
 - Would any of these categories be valuable to you? If yes, which ones?
   - Why are these categories important to you?  Why are they not important?
 - Are there any other categories you would like or expect to see?
 - What do you think of the school now that you've seen the rating?
+- Do you think the ratings are trustworthy?
 
 Things to watch for:
 - How does the user select the school (School name or View Details)?
@@ -65,19 +66,19 @@ Upon completion of task: (Do we need this?)
 - On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
 
 
- ## Second Task - Comparing Various Rating Aspects - 5 minutes
+ ## Second Task - Comparing Various Rating Aspects - 10 minutes
  
- Let's say you were trying to decide which campus to attend at **Insert school**.  Both campuses offer the classes you want to take and have similar commutes.  How would you decide which campus to attend using the Comparison Tool?
- 
- Jen's note: Make a difference in ratings for this - number of ratings and scores
- 
+Let's say you were trying to decide which campus to attend at **University of California**.  You plan to live on campus and all the campuses offer the classes you want to take.  Using the Comparison Too, how would you decide which campus to attend?
  
  Things to watch for:
--	Does the user look at the overall rating or delve into the detailed ratings?
+-  Does the user look at the overall rating or delve into the detailed ratings?
+-  Does the user pause or read the caution flag?
 
 Upon completion of task: (Do we need this?)
 - How did you think that went? 
 - On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
+- What aspects of the ratings are you looking at (star rating, number of reviews, etc.)?
+- Are there any other aspects of these schools that weigh into your decision (e.g. caution flag)?
 
 ## Post-Task Interview - 5 minutes
 -	Do you have general thoughts or feedback on the Comparison Tool that you’d like to share? 
