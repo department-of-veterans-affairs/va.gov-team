@@ -3,7 +3,7 @@
 ## Goals
 1. **What product & team are you doing this research for?**
 
-This UAT will be conducted with service members requesting their first disability claim before they are discharged from the miltary using the BDD tool built into the 526 flow. 
+This UAT will be conducted with one group of service members requesting their first disability claim before they are discharged from the miltary using the BDD tool built into the 526 flow, and a second group of veterans
 
 2. **Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?**
 
