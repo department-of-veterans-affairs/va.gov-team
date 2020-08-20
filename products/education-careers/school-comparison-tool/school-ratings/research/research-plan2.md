@@ -48,15 +48,15 @@ Researchers need to be able to see how users react and interact with school rati
 1.	Participant criteria: What are you looking for in a participant?	  
 (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
 * 10 participants total
-  * Actively looking for a school to attend for themselves **or** 
-  * In the last 6 months, looked for a school to attend for themselves where they would use their benefit
+  * Actively looking for a school to attend for themselves where they'll use their VA education benefits **or** 
+  * In the last 6 months, looked for a school to attend for themselves where they'd use their VA education benefits
 * GI Bill beneficiaries
 * Age range: 18-45
 * Gender: Mix
 * Geography: Geographically dispersed across US
 * VA Benefit requirement:
-  * 6 using Chapter 33 Post-9/11 benefits
-  * 4 using education benefits other than Chapter 33 Post-9/11
+  * 6 using or planning to use Chapter 33 Post-9/11 benefits in the next 3 months
+  * 4 using or planning to use education benefits other than Chapter 33 Post-9/11 in the next 3 months
 * Technology: Access to a computer, preferably running Google Chrome browser
 * Familiarity with technology: Any
 * Login requirements: None
@@ -89,9 +89,9 @@ Please list the people who will be serving in each role. **Include the primary p
 - Observers:	Brian Grubb brian.grubb@va.gov; Desiree Turner turner_desiree@bah.com; Joe Preisser joseph.preisser@va.gov; Joe Welton joseph.welton@va.gov; Will McCormack mccormack_will@bah.com; Lauren Anderson lauren.alexanderson@va.gov; Lacey Higley lacey.higley@va.gov; Matt Self matthew.self2@va.gov; Dan Shawkey shawkey_daniel@bah.com; Darla VanNieukerk darla.vannieukerk@va.gov; Tammy Hurley tammy.hurley1@va.gov; Darrell Neel neel_darrell@bah.com;Luke Tickner Lucas.Tickner@va.gov	
 ## Resources	
 - Project Brief: 	
-*Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
-- Convo Guide	
-*Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/school-ratings/product-outline.md
+
+- Convo Guide: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/school-ratings/research/discussion-guide2.md	 
 - Synthesis	
 *Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
 - Lessons Learned	
