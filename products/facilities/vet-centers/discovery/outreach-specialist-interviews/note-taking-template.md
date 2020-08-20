@@ -1,8 +1,10 @@
-Outreach Specialist Interview
-*Interview date:* August 00, 2020
-*Time:* 0:00
+# Outreach Specialist Interview
+
+**Interview date:** August 00, 2020
+**Time:** 0:00
 
 ### Questions
+
 [GENERATIVE QUESTIONING – 30 MIN]
 
 *Warm up*
@@ -136,7 +138,8 @@ Outreach Specialist Interview
 ### Vet Center Page Critique
 [CRITIQUE OF CURRENT DETAIL PAGE – 15 MIN]
 
- [Current Vet Center page example](https://www.va.gov/find-locations/facility/vc_0342V) 
+[Current Vet Center page example](https://www.va.gov/find-locations/facility/vc_0342V) 
+
 This is what a Vet Center page looks like today, in an ideal world, what would the page look like if it was first exposure that a Veteran or service member had to your Vet Center, maybe after they did a google search.
 
 * What would be the most important thing(s) that they should be able to learn or understand.
@@ -149,7 +152,8 @@ This is what a Vet Center page looks like today, in an ideal world, what would t
 > Xxx
 
 [SWITCH TO EVENT PAGE]
- [Event page example](https://www.va.gov/outreach-and-events/events/sierra-vista-arizona-resource-fair/) 
+
+[Event page example](https://www.va.gov/outreach-and-events/events/sierra-vista-arizona-resource-fair/) 
 
 * What about a page like this? How does a page like this fit into your workflow?
 > Xxx
