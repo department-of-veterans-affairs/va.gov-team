@@ -124,6 +124,7 @@ Thanks for joining us today! The session should take 45 minutes. Our goal is to 
  - Thinking of all those first conversations with new and potential clients, what would they change? 
 
 [SWITCH TO EVENT PAGE]
+
 [Event page example](https://www.va.gov/outreach-and-events/events/sierra-vista-arizona-resource-fair/)
 
 - What about a page like this? How does a page like this fit into your workflow? 
