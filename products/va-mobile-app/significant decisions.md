@@ -245,6 +245,7 @@ We opted not to include them because of their (1) technical complexity and (2) t
 
 
 # Decision 4: Use SSOe OAuth for authentication 
+_Note: Implementation details relating to the decision is under review in [this PR](https://github.com/department-of-veterans-affairs/va.gov-team/pull/12482)_
 
 ## Describe the problem this decision is trying to solve.
 The VA mobile app needs to authenticate users. What mechanism should the app use for sign in?
@@ -284,6 +285,7 @@ We are continuing to socialize this decision and awaiting a designated Tech Lead
 
 
 # Decision 5: Build Mobile API inside of vets-api
+_Note: This decision is under review in [this PR](https://github.com/department-of-veterans-affairs/va.gov-team/pull/12614)_
 
 ## Describe the problem this decision is trying to solve.
 The VA Mobile app needs an API. Since VA.gov is powered by vets-api and VSP, it seems like a natural fit for the mobile app to be powered by APIs in the same space.
