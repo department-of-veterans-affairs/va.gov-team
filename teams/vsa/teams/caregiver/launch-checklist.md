@@ -5,14 +5,14 @@
 ## Must-have
 | Task     | Status |
 | :----------- | ----------- |
-| Password/beta test implementation | In progress - ETA 8/18 |
+| Password/beta test implementation | Completed |
 | Staging Review | In progress - scheduled for 8/20 |
 | Feature toggle testing  | In progress - ETA 8/21    |
-| Check in with Privacy/Security | Not started - ETA 8/21|
+| Check in with Privacy/Security | Completed |
 | Product guide and video complete | In progress - ETA 8/24|
 | Google analytics backend setup | In progress - ETA 8/24 |
 | Contact Center Review   | Not started - ETA 8/26 |
-| Defined aunch plan and metrics   |In progress - working with program to define metrics | 
+| Define launch plan and metrics with program team  |In progress - working with program to define metrics | 
 | Resolve any staging review must-haves | Not started
 | Incident Response Playbook   | Not started|
 | CARMA PDF Signature | Not started |
