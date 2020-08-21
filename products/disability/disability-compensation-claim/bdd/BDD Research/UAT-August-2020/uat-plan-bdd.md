@@ -22,6 +22,7 @@ Service members who are separating and plan to file for disability can file thei
 1.	**What method of research are you planning?**
   
   - Moderated UAT.
+  - These sessions will not be recorded. 
   
 2.	**Why this method? How does this methodology help you answer your research questions?** 
 
@@ -33,7 +34,8 @@ Service members who are separating and plan to file for disability can file thei
 
 4.	**What will you be testing?**
 
-- BDD functionality and the wizard that directs them to the BDD version of 526.
+- Submit a claim 1-89 days after separation, and submit a claim 90-180 days before separation (BDD). 
+Test BDD functionality and the wizard that directs them to the BDD version of 526.
 
 ## Participants and Recruitment
 
