@@ -66,9 +66,7 @@ A few more things I want to mention:
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- On the direct deposit screen, applicants who do not want to impact any current payments they are receiving can select "I don't want to receive direct deposit" < update that to be the actual text.
 
 ## Fourth Task: Review & Submit Application
 1. On the Application Review screen, have the applicant expand each accordion to ensure that the content matches their entries
