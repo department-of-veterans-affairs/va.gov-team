@@ -1,6 +1,6 @@
 # Handling edge cases in the Design System Governance Process
 
-The Design System Governance Process is based on a happy path flow for VFS teams to request a new pattern or adjust an existing pattern. This happy path does not always accomodate certain VFS team edge case scenarios. We're not currently prioritizing Design System and library improvements that would prevent these edge cases. The following process explains how we handle edge cases based on their urgency and impact to other teams.
+The Design System Governance Process is based on a happy path flow for VFS teams to request a new pattern or adjust an existing pattern. This happy path does not always accomodate certain VFS team edge case scenarios. We're not currently prioritizing Design System and Forms Library improvements that would prevent these edge cases. The following process explains how we handle edge cases based on their urgency and impact to other teams.
 
 ## Overview of happy path to submit new/adjust an existing pattern
 This is the happy path flow for a VFS team that wants to create a new pattern or adjust an existing pattern for their solution to better meet the needs of their users:
