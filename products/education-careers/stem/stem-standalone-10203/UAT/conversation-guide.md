@@ -7,6 +7,7 @@
    1. Close all additional screens, programs and windows that might interfere with the participant's experience while controlling your computer screen
    1. Clear all pre-fill data in your browser in advance of the session. 
 1. The webex facilitator locks the webex meeting when all participants are in attendance and ready to get started. 
+1. The facilitator has received the consent form from the participant
 
 *When the participant is ready and all required attendees (UX, BA, Development, Facilitator) are present,  begin the session with the following intro*
 
