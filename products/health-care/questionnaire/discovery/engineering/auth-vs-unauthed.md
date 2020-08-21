@@ -62,8 +62,6 @@ The high flow would look like:
 
 ### Outstanding questions: 
 
-- Can @massrb confirm tha by using VAMF, we can get the details (demographics, reason for visit, facility, contact information) for an appointment? 
-- @massrb, Is there a way to use VAMF to listen for new appointments? This could be an endpoint like, "give me all appointments for a facility". If not, they what data sources do we have? I know that VeText has ideas around this. 
 - What level of verification for a user do we need? Who can answer that question?
 - What data is required to make a new appointment? With or with out VAOS.
 
@@ -73,18 +71,21 @@ The high flow would look like:
 
 > Determine what data we get from logging in that we will not get from the Appointment details.
 
-  As far as information, it looks like we get the same either way. The biggest thing we gain is the ability to verify the correct user is filling out the form. 
+  As far as information, it looks like we get the same either way. The biggest thing we gain is the ability to verify the correct user is filling out the form. As far user data, the data is the same.  
 
 > How will we populate a form or data back to clinicians if any specific patient identifiers are missing.
 
-This is a good question. Since we are not in charge of creating an appointment, and it looks like the appointment data has all the information. That leads to the question, `What is required to make an appointment?`
+This is a good question. Since we are not in charge of creating an appointment, and it looks like the appointment data has to have all the information. That leads to the question, `What is required to make an appointment?`
 
-
-> What can and can't we do with an unauthenticated form?
-
-  [See above section]()
 
 
 > Take into consideration VeText as we want to send the person that scheduled the appt. a link to the unauth and or auth form
 
-  Any way we slice it, we can use VeText to sent a text message with some data. They have a straight forward [text API](VeText-api.md) that we could tie into today. The "when" is the hard part. 
+  Any way we slice it, we can use VeText to sent a text message with some data. They have a straight forward [text API](VeText-api.md) that we could tie into today. The "when" is the hard part. From the VeText api docs
+
+  ```
+    The client must pass either an ICN or a station number in combination with either a DFN or SSN in the "customer" section. The API will verify a DFN or SSN with VistA and an ICN is verified against VA Profile.
+  ```  
+
+  That means we need the ICN or station number AND a DFN or SSN. Where those are will be found in [this ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12720)
+
