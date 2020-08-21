@@ -33,7 +33,7 @@ This solution could also be used for the facilities calls for other types of car
 
 ### Proposed response example
 
-```json
+```jsonc
 {
   "data": [
     {
