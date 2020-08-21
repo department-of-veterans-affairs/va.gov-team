@@ -43,6 +43,10 @@ We would like **5** participants who must meet the following criteria:
 Required for participating in this study: 
 
 - Participants must have a DS Logon account.
+- Participants must have their Service treatment records available. 
+- Participants must have any Additional evidence to support their claim available (for example Private medical records, 
+or Lay statements).
+- Participants must be available to report for a claim exam 45 days after filing. 
 - Participants must be separating from the miltary between 90-180 days from now.
 - Participants will be claiming at least one disability.
 - Participants must have no problem seeing the content on the screen and hearing the moderator. 
@@ -57,6 +61,10 @@ We would like **5** participants who must meet the following criteria:=
 Required for participating in this study: 
 
 - Participants must have a DS Logon account.
+- Participants must have their Service treatment records available. 
+- Participants must have any Additional evidence to support their claim available (for example Private medical records, 
+or Lay statements).
+- Participants must be available to report for a claim exam 45 days after filing. 
 - Participants must be separating from the miltary between 1-89 days from now.
 - Participants will be claiming at least one disability.
 - Participants must have no problem seeing the content on the screen and hearing the moderator.
