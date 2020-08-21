@@ -135,6 +135,8 @@ Back to [Table of Contents](#table-of-contents)
 **Production** | **Opened:** June 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 - [[COGNITION]: STEM Standalone - Home phone number SHOULD be formatted like mobile number on the review form page - #12340](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12343)<br/>
 **Production** | **Opened:** August 10, 2020 | **Severity:** 508-defect-3 - **_Minor_**
+- [[SEMANTIC HTML]: Fieldsets SHOULD NOT be nested in another fieldset in forms library constructs - #12718](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1141)<br/>
+**Production** | **Opened:** August 21, 2020 | **Severity:** 508-defect-3 - **_Minor_**
 - [[SCREENREADER]: VET TEC - NVDA does not read the error if I forget to agree to the privacy policy - #1141](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1141)<br/>
 **Production** | **Opened:** August 20, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 - [[SCREENREADER]: JAWS + Chrome enables focus mode when we focus breadcrumb UL on page load - #319](https://github.com/department-of-veterans-affairs/va.gov-team/issues/319)<br/>
