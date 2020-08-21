@@ -61,11 +61,14 @@ Apps that deliver time sensitive notifications tend to not reflect those notific
 
 # Notes from 8/20 team sync on notifications 
 1. An activity feed is a larger effort we think should take place outside the mobile app MVP and potentially be replicated on VA.gov. 
-2. Because we're plugging into notifications managed elsewhere, to offer an activity feed we would need to create our own database to house the information we're getting from push notifications.
-3. An option for MVP is to surface information from the APIs we're already working with on the homepage in cards. This would allow users to quickly see the status of their claim, upcoming appointments, etc but relies on the APIs we're already working with to deliver this UX. 
+2. Because our MVP would plug into notifications managed elsewhere, we would need to create our own database to house the information we're getting from push notifications to offer an activity feed.
+      - A database would also be required to display an indicator (like a red dot) on UI items that have updates.
+3. An option for MVP is to surface information from the APIs we're already working with on the homepage in cards. This would allow users to quickly see the status of their claim, upcoming appointments, etc but relies on the APIs rather than creating a database.
 4. In this potential cards approach, we could set rules that cause for certain cards to appear depending on API data. Examples: 
-  - If a user has 3 open claims, they might see a card that says "You have 3 open claims" and links to claims home.
-  - If a user has multiple upcoming appointments in the next 7 days, they might see a card that says "You have appointments on Monday, September 7". That card would disappear once September 7 passes.
+    - If a user has 3 open claims, they would see a card that says "You have 3 open claims" and links to claims home.
+    - If a user has multiple upcoming appointments in the next 7 days, they would see a card that says "You have appointments on Monday, September 7". That card would disappear once September 7 passes.
+   - If a user's active claim has seen a status change in the last 7 days, they would see a card that displays their claim's name and current status. 
+5. A downside of this cards approach is that push notifications and home screen cards won't be 1:1. Push notifications themselves would be moments in time that are not captured and able to be revisited in the app.
 
 
 # Summary of notification UX recommendation for MVP 
