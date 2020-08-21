@@ -75,12 +75,12 @@ Apps that deliver time sensitive notifications tend to not reflect those notific
 
 Work in progress as of August 18
 
-| What we're notifying user of  	|  Push notification 	|  PN deep links to |   Alert card on homepage	| Alert UI (WIP) |  Indicator 	|
+| What we're notifying user of  	|  Push notification 	|  PN deep links to |   Card on homepage	| Card UI (WIP) |  Indicator 	|
 |:---	|:---	|:---	|:---	|:---	|:---	
-|  Claim status change (passive) 	|   Yes	|  The claim's detail screen, status tab  	| Yes	|  ![alert-1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/comparative-feature-analysis/screenshots/claim-status-change.png)|   |
-|  Additional evidence needed (action-required)	|  Yes 	|  The claim's detail screen, files tab 	|   Yes	|  ![alert-1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/comparative-feature-analysis/screenshots/alert-card-1.png) 	| |
-|  C&P exam needed (action-required)	|   Yes	|   The claim's detail screen, status tab	|   Yes	|  ![alert-1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/comparative-feature-analysis/screenshots/alert-card-2.png) 	| |
-|  Appointment confirmation (passive) 	|  Yes 	|  The appointment's detail screen 	|  Yes 	|  ![alert-1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/comparative-feature-analysis/screenshots/appointment-confirmation.png)	| |
+|  Claim status change (passive) 	|   Yes	|  The claim's detail screen, status tab  	| Yes	|    | |
+|  Additional evidence needed (action-required)	|  Yes 	|  The claim's detail screen, files tab 	|   Yes	|  	| |
+|  C&P exam needed (action-required)	|   Yes	|   The claim's detail screen, status tab	|   Yes	| | |
+|  Appointment confirmation (passive) 	|  Yes 	|  The appointment's detail screen 	|  Yes 	|  | |
 |  Upcoming appointment (passive) 	|   Yes	|   The appointment's detail screen	|   	|   	| |
 |  General VA news / COVID-19 news (passive) 	|   Yes	|  The relevant news item  	|   	|   	| Yes |
 
