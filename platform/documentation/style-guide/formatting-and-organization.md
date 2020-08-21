@@ -2,7 +2,7 @@
 
 - [Dates and times](#dates-and-times)
 - [Figures and other images](#figures-and-other-images)
-- [File names and file types](#file-names-and-file-types)
+- [File names, file types, repos](#file-names-and-file-types)
 - [Page titles and headings](#page-titles-and-headings)
 - [Lists](#lists)
 - [Notes, cautions, and warnings](#notes-cautions-and-warnings)
@@ -64,8 +64,15 @@ When you're discussing a file type, use the formal name of the type. (The file t
 
 | Recommended     | Not recommended   |
 | :-------------  | :---------------- |
-|  a PNG file     | a PNG file        |
+|  a PNG file     | a .png file        |
 |  a Bash file    | an .sh file       |
+
+### Refering to repos
+When you're referencing a particular repo within the Department of Veteran Affairs GitHub organization, format the repo name as code font.
+
+| Recommended     | Not recommended   |
+| :-------------  | :---------------- |
+|  `va.gov-team`    | va.gov-team       |
 
 ## Page titles and headings
 
