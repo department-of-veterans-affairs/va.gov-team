@@ -24,6 +24,7 @@ This is WIP and may evolve based on user research and technical findings.
 - **Back to top links - ~required if TOC links are enabled:~** ~displays at the end of each H2 section~ Per accessibility feedback, we will create Back to top feature at the FE that's based on page height. 
 - **Required: Meta title** - `H1 | Veterans Affairs` format; no character limit, ~no initial caps~. The 70-character-max H1 should automatically be used to generate the meta title. Note: Can we add initial capping logic va the FE template? 
 - **Meta description** -- TBD I don't think we need to have meta description for LC, but want to confirm this with engineers and John Hashimoto on what's needed for the kind of structured LC search results display we want. My thinking is we're fine pulling search results display text from the intro text, up to... [TBD] characters max and truncate with ellipses or with "Read more." 
+- **Required: [Administration and benefit hub taxonomy](#administration-and-benefit-hub-taxonomy)** - This info will be used in the CMS AX to create the default values of the Need more help component. 
 
 
 [Visual examples - Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1588167553516/2773c854e8ff3a725a5e3ee03272b78e8519f78b)
@@ -145,7 +146,7 @@ Up to 3 tags can be selected.
 - ~Clinicians, researchers, and health care workers~  <-- In reviewing the VHA pages, a lot of the subdomain content is so highly specialized, I just don't think they are right candidates to live in the LC. VHA clinical health and research info really does seem like Tier 3 program office content or a special tier 3 subset for the medical audience. Therefore, we will not include the clinicians etc audience as part of the MVP1.1 audience taxonomy. We can add it if we encounter a significant amount of this type of learning center benefit adjacent content during IRIS audit or during next year's tier 3 content work (i.e., if there's tier 2 information mixed in their tier 3 program content.)  8/10
 
 
-## Administration 
+## Administration and benefit hub taxonomy
 
 We are separating Administration info from tags. Benefit hub taxonomy and Administration info will be used in the CMS to inform certain components like the Need more help, but not to create the FE tag experience. We may also use Administration for user access/governance, which is still TBD.
 
