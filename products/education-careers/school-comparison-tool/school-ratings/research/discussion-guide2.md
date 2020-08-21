@@ -48,7 +48,6 @@ Let's say you received a scholarship for **Insert school** and are curious if th
 Upon completion of task:
 - How did you think that went?
 - What do you think of school card?
-- What stands out the most to you (on the card)?
 - What do you think that rating shows you?
 
 Research questions:
