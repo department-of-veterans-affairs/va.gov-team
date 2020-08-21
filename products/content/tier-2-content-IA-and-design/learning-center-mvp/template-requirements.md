@@ -17,10 +17,10 @@ This is WIP and may evolve based on user research and technical findings.
 - **Optional: H2 section header**
 - [**Required: Body - content type template**](#specific-lc-content-template-types) (FAQ single, FAQs multiple, Checklist, Step-by-step, About, Image/Video, etc.)
 - **Optional: Repeat same CTA button(s)** – Example: User can omit repeat if page is short as in a single FAQ page
-- **Required: Need more help** - Email (optional, customizable) + Phone (default pulled from the benefit hub “Ask questions” right rail) + Chatbot link(TBD)
+- **Required: [Need more help?](#need-more-help?-section)** - This section includes contact info based on administration or hub.
 - **Required: Was this helpful** - Backend functionality is still TBD and may not go out with October/Nov MVP. The user action could get collected to Google Analytics - possibly other ideas.
 - **Required: Related information** - Custom section can include up to 5 related article links. The link can go to a LC page, a deep benefit detail page, or external. 
-- **Required: {label TBD - dedicated VA benefit hub link section}:** Minimum 1 benefit hub cross-link required. The default hub link will be Health Care; the author can change this to any other benefit hub link. Only benefit hub link+teasers will be enabled on this component. Up to 3 benefit hubs can be selected. 
+- **Required: A dedicated VA benefit hub link section {label TBD}:** Minimum 1 benefit hub cross-link required. The default hub link will be Health Care; the author can change this to any other benefit hub link. Only benefit hub link+teasers will be enabled on this component. Up to 3 benefit hubs can be selected. 
 - **Back to top links - ~required if TOC links are enabled:~** ~displays at the end of each H2 section~ Per accessibility feedback, we will create Back to top feature at the FE that's based on page height. 
 - **Required: Meta title** - `H1 | Veterans Affairs` format; no character limit, ~no initial caps~. The 70-character-max H1 should automatically be used to generate the meta title. Note: Can we add initial capping logic va the FE template? 
 - **Meta description** -- TBD I don't think we need to have meta description for LC, but want to confirm this with engineers and John Hashimoto on what's needed for the kind of structured LC search results display we want. My thinking is we're fine pulling search results display text from the intro text, up to... [TBD] characters max and truncate with ellipses or with "Read more." 
@@ -148,7 +148,10 @@ Up to 3 tags can be selected.
 
 ## Administration and benefit hub taxonomy
 
-We are separating Administration info from tags. Benefit hub taxonomy and Administration info will be used in the CMS to inform certain components like the Need more help, but not to create the FE tag experience. We may also use Administration for user access/governance, which is still TBD.
+We are separating Administration info from tags. Benefit hub taxonomy and Administration info will be used in the CMS to inform certain components like the [Need more help? section](#need-more-help?-section), but not to create the FE tag experience. We may also use Administration for user access/governance, which is still TBD.
+
+
+__Administrations:__
 
 - Veterans Benefits Administration
 
@@ -159,6 +162,19 @@ We are separating Administration info from tags. Benefit hub taxonomy and Admini
 - Veterans Affairs
 
 
+__Benefit hubs:__
+These are the global benefit hub taxonomy categories. 
+
+1. Burials and memorials
+2. Careers and employment
+3. Decision reviews and appeals 
+4. Disability
+5. Education and training
+6. Health care
+7. Housing assistance 
+8. Life insurance
+9. Pension
+10. Records
 
 
 ## Specific LC content template types
@@ -293,3 +309,14 @@ Specs - not including the basic requirements on all LC pages:
 - Alert (can be enabled below intro text or within body content; not stackable)
 - Checkbox text field, max 300 characters including spaces
 - The content type label in searches should be "Checklist"
+
+
+## Need more help? section
+
+__Administration and benefit hub rubric for the Need more help component:__
+
+- Primary benefit hub: Default ph#s and contact emails will be pulled from the primary benefit hub's "Ask Questions" right rail component. 
+- If no benefit hub is selected, the Administration defaults for Facebook, Twitter, and the VA311 phone # will be displayed.
+- If no Administration or primary benefit hub -- for example for VA account/profile articles - display the VA311 ph #.
+- Content authors can add additional contact info number or email. 
+- This component may also include the IRIS web form link and chatbot link.
