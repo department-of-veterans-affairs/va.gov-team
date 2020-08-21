@@ -6,6 +6,14 @@ August 18, 2020
 We referenced analytics for VA.gov as well as My HealtheVet and eBenefits to understand what was most highly visited on VA sites. We used analytics to help make decisions about the MVP feature set. 
 
 
+# Themes across analytics, call center data
+
+### Claims
+The highest volume of pageviews on mobile is for Claims pages. However, time spent on Claims pages is less than on other pages. Of repeat users on mobile, Claims is also the top page. This suggests to us that Vets on their phones may make frequent checks to their claims status. 
+**Takeaway** How might we make it easier for Veterans to check their claim status on a frequent basis (especially given their visits aren't very long)?)
+
+
+
 ## Analytics review
 ### Claims & appeals
 - The claim status tool is the most popular tool on VA.gov outside of the homepage. From May 1, 2019-May 1, 2020, tracking claim or appeal status accounted for just under 8% of all traffic on VA.gov.
