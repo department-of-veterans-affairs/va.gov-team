@@ -146,7 +146,9 @@ Back to [Table of Contents](#table-of-contents)
 - [[EXPLORATION]: Reconsider structure of multiple pages within a single "part" of a form - #1145](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10095)<br/>
 **Production** | **Opened:** August 20, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
 - [[USABILITY]: Application saved message could be missed by assistive devices - #182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182)<br/>
-**Production** | **Opened:** June 5, 2019 | **Severity:** 508-defect-2 - **_Serious_**
+**Production** | **Opened:** June 5, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
+- [[COGNITION]: CONSIDER revising content and adding aria-describedby to online form calls to action - #12723](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12723)<br/>
+**Production** | **Opened:** August 21, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
 
 Back to [Table of Contents](#table-of-contents)
 
