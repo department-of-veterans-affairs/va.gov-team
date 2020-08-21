@@ -35,7 +35,7 @@ Let’s start with a few warm-up questions.
  - When you were trying to pick a school, what were you looking for in a school?  
     - How would you determine if it was a good fit for you?
     
- - If you knew a fellow Veteran who had attended a school you're interested in, what would you want to know the most?
+ - If you knew a fellow Veteran who'd attended a school you were interested in, what would you most want to know from them?
   
 ## First Task: Initial Look at Ratings - 5 minutes
 
@@ -82,7 +82,7 @@ Research questions:
 
  ## Third Task - Comparing Various Rating Aspects - 10 minutes
  
-Let's say you were trying to decide which **University of California** school to attend.  You plan to live on campus and all the schools offer the classes you want to take.  Using the Comparison Too, how would you decide which school to attend?
+Let's say you want to attend the **University of California** and are trying to decide on the campus where you'll take classes.  You plan on living on-campus and all the schools offer the classes you want to take.  Walk me through how you'd use the Comparison Tool to help you decide which campus you'd attend.
  
  Things to watch for:
 -  Does the user look at the overall rating or delve into the detailed ratings?
@@ -101,7 +101,7 @@ Research questions:
 ## Post-Task Interview - 5 minutes
 -	Do you have general thoughts or feedback on the Comparison Tool that you’d like to share? 
 -	Any questions for me?
-- I want to give a chanced to the other people on the line to ask a question.
+- I want to give a chance for the other people on the line to ask a question.
 
 ## Thank-You and Closing - 3 minutes
 
