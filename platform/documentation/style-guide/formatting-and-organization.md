@@ -2,7 +2,7 @@
 
 - [Dates and times](#dates-and-times)
 - [Figures and other images](#figures-and-other-images)
-- [File names, file types, repos](#file-names-and-file-types)
+- [File names, file types, and repos](#file-names-and-file-types)
 - [Page titles and headings](#page-titles-and-headings)
 - [Lists](#lists)
 - [Notes, cautions, and warnings](#notes-cautions-and-warnings)
