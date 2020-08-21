@@ -2,12 +2,24 @@
 ---
 
 ## Overview
-The VA mobile app MVP is a native app built in React Native. The goal of the app is to make it easier for users to complete quick transactions across the VA (VBA and VHA).
+The VA mobile app MVP is a native app built in React Native with features that cut across VA (VBA and VHA). 
+
+- From a user perspective, the goal of the MVP is to make it easier and faster for users who are already engaged with VA to complete small transactions related to their existing account.
+- From a technology perspective, the goal is to use what is available today rather than create new services. 
+- From a business perspective, the goal is to release a flagship quickly in order to assess whether it meets a user needs and warrants further investment. 
 
 ## Problem Statement
 To complete quick transactions, such as checking a claim status or looking at upcoming healthcare appointments, Veterans have to seek out this information by logging in to VA.gov, which in and of itself can be laborious and time consuming. From there, Veterans have to locate the information they are interested in and see whether there have been any updates from VA. This process is frustrating for users and forces them to seek out information on their own rather than VA providing it to them.
 
 How might we enable Veterans to complete quick transactions across VA? 
+
+## Definition of MVP
+While our [research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/feature-brainstorm/Mural%20-%20MVP%20Feature%20Planning.pdf) suggests that there are multiple pain points that a mobile app might solve, the purpose of the MVP is to scope as narrowly as possible in order to validate the product's purpose. Because of the [existing mobile landscape at VA](https://adhoc.slack.com/archives/CKW4XL3GS/p1598041175003200) (including VA.gov on mobile), it is key to determine early whether a flagship app fills a hole or simply adds confusion. By analyzing usage on the MVP, VA can iterate in whatever direction users lead them (ie, if users are actively engaging with the specific features on the flagship, it may make sense to iterate on those whereas if there is low adoption of the app, it may not make sense to iterate). 
+
+To define what features should be in the MVP vs. features that should be put on the backlog for future releases, we have defined the following guidelines:
+- Features in the app must leverage existing VA technology (ie, new services and systems should not be built for the mobile MVP)
+- Featres in the app must make transactions easier and faster for users (ie, features that are helpful but do not serve this purpose, should not be built for the MVP)
+- Features that require significant investment or organizational coordination should not be built for the MVP (ie, features that require significant stakeholder alignment and collaboration should not be bult for the MVP)
 
 ## Desired User Outcomes
 
