@@ -1,23 +1,46 @@
 # Analytics Summary
 
-August 18, 2020
+Analytics reviews Spring-Summer 2020, summary compiled in August 2020
 
 # Background & goals
 We referenced analytics for VA.gov as well as My HealtheVet and eBenefits to understand what was most highly visited on VA sites. We used analytics to help make decisions about the MVP feature set. 
 
 
-# Themes across analytics, call center data
+# Analytics review
 
-### Claims
-The highest volume of pageviews on mobile is for Claims pages. However, time spent on Claims pages is less than on other pages. Of repeat users on mobile, Claims is also the top page. This suggests to us that Vets on their phones may make frequent checks to their claims status. 
-**Takeaway** How might we make it easier for Veterans to check their claim status on a frequent basis (especially given their visits aren't very long)?)
+## Auth vs. unauth users on mobile and tablet (data from 4/2019-4/2020) 
+
+### Auth users
+- Claims have highest page views for auth users. 
+  - Of the top 5 most visited pages, Claims and Appeals accounts for 3/5. 
+  - Claims and Appeals is following by login, suggesting users are coming to VA.gov to log in specifically to check their claim or appeal.
+- However, time spent on Claims pages is less than on other pages. Of repeat users on mobile, Claims is also the top page. This suggests to us that Vets on their phones may make frequent checks to their claims status. 
+
+### Unauth users
+- The Facilities page has the highest page views for unauth users. 
+  - Facilities (5,000,000) is significantly higher than the next most visited page (1,500,000). 
+  - Speaking of the next most visited page, it's Claim and Appeal Status. This indicates that a large amount of unauth users are visiting this page, then signing in to check their status. 
+- Unauthenticated users also check the facilities page 5x per session (other pages average 1.5x). Is this because they are checking it on the go and would an app make it easier to do so?
+
+**Takeaways:**
+1. We should strongly consider Claim and Appeal Status as an MVP feature.
+2. We should strongly consider Facilities as an MVP feature.
 
 
-
-## Analytics review
 ### Claims & appeals
 - The claim status tool is the most popular tool on VA.gov outside of the homepage. From May 1, 2019-May 1, 2020, tracking claim or appeal status accounted for just under 8% of all traffic on VA.gov.
 - Of the top 10 pages during this time frame, 3 relate to claims (#3, #5, #7). 
+
+### Landing pages
+- In keeping with the findings shared above regarding Claims and Appeals, Claim or Appeal status is the top landing page, with 40% of total traffic.
+- Downloading IDs and records account for 12% of the top landing pages, taking the slots as the 5th and 6th most visited landing pages.
+- Also of note, the Coronavirus FAQ page was the second highest landing page. 
+
+**Takeaways:**
+1. We should consider including documents housed within the letters API for automatic download in the app. 
+2. We should consider including application for Veteran ID cards a fast follow after the MVP. 
+3. We should consider how to give COVID information and resources a temporary place in the app, given that COVID related information will be needed by Veterans for the forseeable future. 
+
 
 ### My HealtheVet & health features
 Overall, across VA sites, these three pages rank in the top 10 most popular:  
@@ -45,3 +68,12 @@ The Logged In homepage team put together [a summary of analytics](https://github
 From  6/1-10/25/19, there were 673,882 calls recorded to VBA NCC. The top driver for calls was claims. Claims accounted for ~42% of all calls (284,822).
 - Of calls where claims was the driver, ~88% of calls were to check general status. 
 - After general status, the next most common reasons for calling are document verification and exam. However these clock in at ~5% and ~3% respectively, showing how much volume VBA NCC gets regarding claims status.
+- A high proportion (12%) of calls are about Correspondence and forms, nearly half of which are requests for benefit letters. 
+- 10% of calls are about 'Update Information' issues.
+
+**Takeaways:**
+1. Include claims status in MVP to reduce call center volume. 
+2. Include Benefit letters in MVP. 
+3. Editable VA.gov profile. 
+
+
