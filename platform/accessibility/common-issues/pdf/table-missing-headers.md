@@ -14,10 +14,10 @@
 
 ## Description of the issue
 
-- Synopsis: Make tables accessible in PDF documents by using table elements. The applicable standard from Section508.22.h dictates to "associate data and header cells for multi-dimensional data tables."
-- Severity: [508-defect-1❗️Launch blocker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-pdfs-table-header-missing/platform/accessibility/guidance/defect-severity-rubric.md#types-of-severity-1-issues-in-pdf-documents) for new documents. Documents previously published should be remediated as soon as possible.
-- Deque University help link: https://dequeuniversity.com/rules/comply-pdf/1.0/table-miss-header
-- WCAG Success Criteria: [1.3.1 Info and Relationships](https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html)
+- **Synopsis:** Make tables accessible in PDF documents by using table elements. The applicable standard from Section508.22.h dictates to "associate data and header cells for multi-dimensional data tables."
+- **Severity:** [508-defect-1❗️Launch blocker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-pdfs-table-header-missing/platform/accessibility/guidance/defect-severity-rubric.md#types-of-severity-1-issues-in-pdf-documents) for new documents. Documents previously published should be remediated as soon as possible.
+- **Deque University help link:** https://dequeuniversity.com/rules/comply-pdf/1.0/table-miss-header
+- **WCAG Success Criteria:** [1.3.1 Info and Relationships](https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html)
 
 ## Definition of done
 
