@@ -24,6 +24,9 @@ The PACT process can be broken into multiple steps:
 6. Builds will depend on successful verification results to deploy.
 7. Future todo: The idea is to integrate the rake verification task into CircleCI as part of the build step 
 
+### Reqirements
+PACTS are currently only required for new endpoints or changes to endpoints. They are relatively similar to rspec tests and the effort to set up provider states on the backend is minimal. PRs related to PACT will go through the standard code review process.
+
 ![](https://i.imgur.com/zQMyDS0.png)
 
 ------
@@ -400,7 +403,6 @@ When your verification status is all green, please reconfigure your changes from
 2. Remove the temporary `pact_uri` definition. 
 3. Revise/uncomment the publication flag.   
 
-Once all pacts are passing, please open a new PR to introduce your new changes.
 
 ### Broker Matrix and Tagging
 A provider verification matrix can be found in the pact broker. See [search example](https://vagov-pact-broker.herokuapp.com/matrix/provider/VA.gov%20API/consumer/Search). The verification matrix acts as a success metric for verification status (green or red). Additionally, each verification run is tagged with the git branch name and git sha in the provider verification column to track provider version details. See details in the [pact_helper](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/pact_helper.rb#L50-L51).
