@@ -25,7 +25,12 @@ Overall, across VA sites, these three pages rank in the top 10 most popular:
 - Refilling Rx (~47MM page views)
 - Viewing labs and tests (~25MM page views)
 
+### Overlap between Claims + Healthcare users
+In a one year period from 6/18/19-6/18/20 2019-06-18, over one million users logged in to VA.gov to use a health care feature and later in the year logged in to use a claims feature:
 
+Segment Overlap|Users who visit _Health Care_ Pages|Users who visit _Claims_ pages
+----|----|------
+1,171,281|5,479,354      |  4,401,957
 
 
 ## Previous research review
