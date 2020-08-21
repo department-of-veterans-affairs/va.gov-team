@@ -3,17 +3,17 @@
 
 ## Moderator logistics
 1. In the Attendees section, make sure everyone except the participant is on mute
-1. Check your [screensharing setup]: 
+1. Check your screensharing setup: 
    1. Close all additional screens, programs and windows that might interfere with the participant's experience while controlling your computer screen
    1. Clear all pre-fill data in your browser in advance of the session. 
 1. The webex facilitator locks the webex meeting when all participants are in attendance and ready to get started. 
-1. The facilitator has received the consent form from the participant
+1. Do not begin the session until the facilitator has received the consent form from the participant: [va-consent-form-10203.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/stem/stem-standalone-10203/UAT/va-consent-form-10203.pdf)
 
 *When the participant is ready and all required attendees (UX, BA, Development, Facilitator) are present,  begin the session with the following intro*
 
 ### Project-specific setup
 
-- Ensure that the participant has signed a consent form: https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Templates/va-consent-form-generic.docx
+- Ensure that the participant has signed a consent form: [va-consent-form-10203.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/stem/stem-standalone-10203/UAT/va-consent-form-10203.pdf)
 
 ## Intro - 5 minutes
 
@@ -31,38 +31,38 @@ A few more things I want to mention:
 - **In this session, we want to hear your honest opinions.** We will not be offended by any opinions you express, and we welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 
-## First Task: Sharing, transferring screen control, sign in - 5 minutes
-1. The webex facilitator closes all additional screens, programs and windows that might interfere The webex facilitator opens the following screen in Google Chrome: https://staging.va.gov/education/how-to-apply/ (or https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction if the wizard feature is not available for testing) and shares the Chrome window. 
-2. During the Screen or Application share, move your mouse to the top of the screen to the Webex panel and click the Assign button. 
-3. Select "Pass Keyboard and Mouse Control", then select the participant you would like to assign control to.
-4. Have the applicant sign in to VA.gov by clicking the blue "Sign in or create and account" button. 
-
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Second Task: Wizard - 5 minutes
-
+## First Task: Webex Sharing & Accessing the Application - 5 minutes
+### Signed in - 5 minutes
+1. The webex facilitator closes all additional screens, programs and windows that might interfere The webex facilitator opens the following screen in Google Chrome: https://staging.va.gov/education/how-to-apply/ and shares the Chrome window. 
+1. During the Screen or Application share, move your mouse to the top of the screen to the Webex panel and click the Assign button. 
+1. Select "Pass Keyboard and Mouse Control", then select the participant you would like to assign control to.
+1. Have the applicant sign in to VA.gov by clicking the blue "Sign in" button in the top right corner of the screen  
 1. Have the applicant scroll down to the "How do I apply" section and click the green "Find your education benefits form" button
-2. The applicant should select the "Applying to extend my Post-9/11 or Fry Scholarship benefits using the Edith Nourse Rogers STEM Scholarship" radio button 
-3. The applicant should select the "Yes" radio button in response to the following question "Based on the eligibility requirements above, do you want to apply for this scholarship?" followed by selecting the green "Apply now" button.
+1. The applicant should select the "Applying to extend my Post-9/11 or Fry Scholarship benefits using the Edith Nourse Rogers STEM Scholarship" radio button 
+1. The applicant should select the "Yes" radio button in response to the following question "Based on the eligibility requirements above, do you want to apply for this scholarship?" followed by selecting the green "Apply now" button.
+1. The applicant should now be prompted for the "basic auth" credentials. The facilitator should take control back from the participant and enter the credentials so as to keep them secure. The credentials can be found in the team's Keybase chat or by contacting Desiree Turner. 
 
+### NOT signed in - 5 minutes
+***Note that we want at least one participant to complete the application not signed in***
+1. The webex facilitator closes all additional screens, programs and windows that might interfere The webex facilitator opens the following screen in Google Chrome: https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction
+1. The facilitator should be prompted for the "basic auth" credentials. The facilitator should enter the credentials so as to keep them secure. The credentials can be found in the team's Keybase chat or by contacting Desiree Turner. 
+1. During the Screen or Application share, move your mouse to the top of the screen to the Webex panel and click the Assign button. 
+1. Select "Pass Keyboard and Mouse Control", then select the participant you would like to assign control to.
 
 ### Things to watch for:
+1. The individual needs to be signed in on VA.gov prior to accessing the wizard in order to be routed correctly to the 22-10203
+1. Confirm that after clicking "Apply now" the applicant is routed to https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction
+1. The applicant should click on the "Sign in or create account" button at either the top or bottom of the introduction page. 
+1. The applicant will continue through the application and pre-fill information should be included as available on the "Applicant information" screen. 
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+## Second Task: Start & Complete the application
+### Signed in
+1. The applicant can click the blue "Sign in or create account" button to start the application
+1. The applicant will continue through the application and pre-fill information will be included as available on the "Applicant Information" screen.  
 
-## Third Task: Start & Complete the application
-
-**Note we do want at least one applicant to complete the application not logged in**
-
-
-Upon conclusion, remind the applicant to log out of the application. 
+### Not signed in
+1. The applicant will need to scroll to the bottom of the screen and select the link "Start your application without signing in" (locate below the blue "Sign in or create account" button). 
+1. The applicant will continue through the application and NO pre-fill information will be included. 
 
 ### Things to watch for:
 
@@ -71,9 +71,10 @@ Upon conclusion, remind the applicant to log out of the application.
 - [Etc]
 
 ## Fourth Task: Review & Submit Application
-
-
-Upon conclusion, remind the applicant to log out of the application. 
+1. On the Application Review screen, have the applicant expand each accordion to ensure that the content matches their entries
+1. Once the applicant has confirmed everything is as expected, ask them to submit their application
+1. Capture their confirmation number so that it can be passed along to Education Services for review. 
+1. Ask the applicant to log out of the application. 
 
 ### Things to watch for:
 
@@ -90,8 +91,3 @@ Upon conclusion, remind the applicant to log out of the application.
 ## Thank-You and Closing - X minutes
 
 Well we really appreciate you taking the time to do this today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for other Veterans.
-
-## Sample Conversation Guides _(note: these links point to resources in the va.gov-team GitHub repo)_
-
-- [Scheduling Accessibility and Usability Study: Complex Recruit, Highly Variable based on User Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/2017-studies/access-usability/access-usability-conversation-guide.md) 
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
