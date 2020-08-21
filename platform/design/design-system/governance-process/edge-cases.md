@@ -22,11 +22,11 @@ Edge cases arise when, in step 3 of the happy path, teams can't isolate the requ
 ## Edge case governance process
 
 ### For changes that are launch-blocking
-**If it would impact multiple features/teams:** 
+**If it would impact multiple features/teams:** \
 The VFS team can't launch until this gets reviewed by the design system council.
 - Example: forms library changes, buttons, error messaging
 
-**If it would not impact multiple features/teams:** 
+**If it would not impact multiple features/teams:** \
 The VFS team can change the code. [Submit a ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/projects/3) in the Proposals column with the `code new` label and the design system council will review the request when it is prioritized.
 - Example: global elements like the header
 
