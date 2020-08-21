@@ -1,6 +1,6 @@
 # Handling edge cases in the Design System Governance Process
 
-The Design System Governance Process is based on a happy path flow for VFS teams to request a new pattern or adjusting an existing pattern. This happy path does not always accomodate certain VFS team edge case scenarios. We're not currently prioritizing Design System and library improvements that would prevent these edge cases. The following process explains how we handle edge cases based on their urgency and impact to other teams.
+The Design System Governance Process is based on a happy path flow for VFS teams to request a new pattern or adjust an existing pattern. This happy path does not always accomodate certain VFS team edge case scenarios. We're not currently prioritizing Design System and library improvements that would prevent these edge cases. The following process explains how we handle edge cases based on their urgency and impact to other teams.
 
 ## Overview of happy path to submit new/adjust an existing pattern
 This is the happy path flow for a VFS team that wants to create a new pattern or adjust an existing pattern for their solution to better meet the needs of their users:
@@ -22,15 +22,17 @@ Edge cases arise when, in step 3 of the happy path, teams can't isolate the requ
 ## Edge case governance process
 
 ### For changes that are launch-blocking
-**If it would impact multiple features/teams:** The VFS team can't launch until this gets reviewed by the design system council.
+**If it would impact multiple features/teams:** 
+The VFS team can't launch until this gets reviewed by the design system council.
 - Example: forms library changes, buttons, error messaging
 
-**If it would not impact multiple features/teams:** The VFS team can change the code. [Submit a ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/projects/3) in the Proposals column w/the `code new` label and the design system council will review it later.
+**If it would not impact multiple features/teams:** 
+The VFS team can change the code. [Submit a ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/projects/3) in the Proposals column w/the `code new` label and the design system council will review it later.
 - Example: global elements like the header
 
 ### For changes that are not launch-blocking
 The VFS team can't change the code, but should [submit a ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/projects/3) in the Proposals column w/the appropriate label. The design system council will review it later
-- For example: minor visual bugs
+- Example: minor visual bugs
 
 ### Escalation path for decision-making
 Escalate to any VSP DEPO lead if a decision is needed on the correct path to pursue.
