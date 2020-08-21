@@ -32,13 +32,14 @@
 
  1. The first step after starting a questionnaire is to review demographics page.
 See Appt. Details Feature Outline for display of fields on the Demographics page.
- 2. Display demographics from ***[Authentication API- Mark]***
+ 2. Display demographics from ***[Profile API and determine what is coming from Vista/VAMF- Mark]***
 	- Display should be in a read only view mode
+	- Display contact information if retrieved from the API and if none then don't show the lable.  
 	- Patient full name - First Last 
 	- DOB
 	- Gender
-	- address
-	- contact (phone)
+	- address (can contain multiple)
+	- contact (phone) (can contain multiple)
  3. Display verbiage if any information is incorrect how the Veteran can update. 
 	- Can we add a link to open in a new browser window for them to update the profile page?
  4. All subsequent pages in the questionnaire must show 3 patient identifiers on the screen.
