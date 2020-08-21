@@ -9,8 +9,7 @@ This is WIP and may evolve based on user research and technical findings.
 - **Required: Search bar** - learning center search or  VA.gov (If user selects VA.gov search, user is taken to the normal site search results where results from all of VA.gov are pulled.)
 - ~**TBD: Content type label:** (- tbd -) Article vs. Video (or Media?) or more detailed label like “About,”     “FAQ,” “Step-by-step,” etc. ***first test with no label on pages(but include on the results listing)~
 - **Required: H1** – new H1 limit for LC pages – 70 max characters including spaces, rigid in AX
-- **Required: [FE topic tags](#fe-topic-tags)** -- Note: FE design will combine topic and audience tags (will no longer display them as separate Topic vs. Audience tags)
-- **Required: [FE audience tags](#fe-audience-tags)** -- See note above
+- **Required: [FE topic tags](#fe-topic-tags) and/or [FE audience tags](#fe-audience-tags)** - Note: FE design will combine/flatten topic and audience tags (will no longer display them as separate Topic vs. Audience tags). At least 1 required; up to 4 can be selected for FE display. 
 - **See CMS info: [Frontend vs backend tags](#frontend-vs-backend-tags)** 
 - **Required: Intro text** – rich text formattable wysiwig – 1,000 characters max including spaces.
 - **Required: CTA buttons** – at least 1 required; up to 2; must restrict button text length to 40 characters to prevent wrapping button labels on mobile
