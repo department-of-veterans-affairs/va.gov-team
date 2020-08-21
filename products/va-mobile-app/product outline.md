@@ -6,7 +6,7 @@ The VA mobile app MVP is a native app built in React Native with features that c
 
 - From a user perspective, the goal of the MVP is to make it easier and faster for users who are already engaged with VA to complete small transactions related to their existing account.
 - From a technology perspective, the goal is to use what is available today rather than create new services. 
-- From a business perspective, the goal is to release a flagship quickly in order to assess whether it meets a user needs and warrants further investment. 
+- From a business perspective, the goal is to release a flagship quickly in order to assess whether it meets a user need and warrants further investment. 
 
 ## Problem Statement
 To complete quick transactions, such as checking a claim status or looking at upcoming healthcare appointments, Veterans have to seek out this information by logging in to VA.gov, which in and of itself can be laborious and time consuming. From there, Veterans have to locate the information they are interested in and see whether there have been any updates from VA. This process is frustrating for users and forces them to seek out information on their own rather than VA providing it to them.
