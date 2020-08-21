@@ -35,4 +35,4 @@ The VFS team can't change the code, but should [submit a ticket](https://github.
 - Example: minor visual bugs
 
 ### Escalation path for decision-making
-Escalate to any VSP DEPO lead if a decision is needed on the correct path to pursue.
+For assistance in deciding on the best solution, escalate to any VSP DEPO lead.
