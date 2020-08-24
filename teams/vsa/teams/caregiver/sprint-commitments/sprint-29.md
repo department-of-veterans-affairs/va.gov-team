@@ -9,10 +9,10 @@
 - [ ] `stakeholder` requested content changes *after* `VSP` approval
 
 ## Backend
-- Track backend failures in Google Analytics
-- Backend changes to make gender a not required field
-- Submit PDF with signature (+ change PDF generation flow)
-- Add time stamp to PDF
+- [ ] Track bounced 10-10cg applications in Google Analytics
+- [ ] Backend changes to make gender a not required field, remove unknown as option
+- [ ] Submit PDF to CARMA with signature
+- [ ] Add timestamp to generated PDF
 
 ## Design/Product/Content
 - Update content based on Program feedback
