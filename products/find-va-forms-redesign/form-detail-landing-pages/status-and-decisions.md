@@ -2,6 +2,24 @@
 
 ## mm/dd/yy
 
+## 08/24/20
+
+Summarizing ETA calendar per Mickin's Slack message: https://dsva.slack.com/archives/CUB5X5MGF/p1597853280234800
+
+**Week of 8/24**
+
+- complete accessibility checks + analytics implementation - Nick
+- complete QA (early next week) - Tze
+- remediate any QA/Accessibility findings - Nick
+- staging (UAT) review (asynch?) - Mickin/Jen
+
+**Next week (8/27)**
+
+- coordinate with relevant stakeholders - Jen
+- start the roll-out process for batches per [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/form-detail-landing-pages/release-plan.md) - Mickin/Jen
+
+
+
 ## 07/31/20
 
 __Summary:__
