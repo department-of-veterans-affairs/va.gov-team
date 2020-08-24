@@ -25,13 +25,23 @@
 | Error experience (messaging)  | Completed  |
 
 
-## Open feedback from program + VSP (as of 8/24)
+## Open feedback from VSP (as of 8/24)
 | Task     | Status |
 | :----------- | ----------- |
 | [Email address validation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12585) | Done? |
 | [Update breadcrumbs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12667) | In progress |
-| [Replace link on intro page]  |
+| [Replace link on intro page] |
 
+## Open feedback from Program (as of 8/24)
+| Task     | Status |
+| :----------- | ----------- |
+| Replace support phone number with Caregiver specific number | Needs VSP approval |
+| Add specific (and red) instructions re: required fields | Needs VSP approval |
+| Remove Sex as a required field & remove "unknown" as option | Needs VSP approval ** does this have backend implications? ** |
+| Remove last treatment facility as a required field | To do |
+| Confirm facility list with Program | To do |
+| Remove VSO information | 
+| Add "disagree with this decision" to Apply page | 
 
 
 
@@ -39,8 +49,10 @@
 ## Nice to have
 | Task     | Status |
 | :----------- | ----------- |
-| Resolve ICN search in eMIS | Not started |
-| Cadence for meeting with/communicating with Program team during launch| Not started |
-| Accessible PDF created for users | In progress - awaiting updated base PDF from 508 office|
+| Resolve ICN search in eMIS | To do |
+| Feature flag: update insurance options | To do |
+| Remove feature flag for insurance options | To do |
+| Cadence for meeting with/communicating with Program team during launch| To do  |
+| Accessible PDF created for users | To do |
 
 
