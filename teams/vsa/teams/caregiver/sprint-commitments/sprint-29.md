@@ -1,9 +1,11 @@
 ## Frontend
-- Must-have content/IA changes (but not the gender thing)
-- Signature field bug
-- Save in progress bug
-- Gender thing (after backend is updated)
-- Design/content changes *after* we get VSP approval
+- [x] VSP 508 feedback
+- [x] VSP design feedback
+- [ ] Must-have content/IA changes (but not the gender thing)
+- [ ] Signature field bug
+- [ ] Save in progress bug
+- [ ] Gender thing (after backend is updated)
+- [ ] Content changes *after* we get VSP approval
 
 ## Backend
 - Track backend failures in Google Analytics
