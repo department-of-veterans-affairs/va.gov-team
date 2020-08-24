@@ -1,7 +1,7 @@
 ## Frontend
 - [x] VSP 508 feedback
 - [x] VSP design feedback
-- [ ] Breadcrumb Bug (IA)
+- [x] Breadcrumb Bug (IA)
 - [ ] Signature field bug
 - [ ] Save in progress bug
 - [ ] Gender thing (after backend is updated)
