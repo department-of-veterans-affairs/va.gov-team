@@ -1,5 +1,5 @@
 # UAT Release Plan: View, Add or Modify Dependents (21-686c/674)
-
+ - [UAT Research Plan and Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/uat)
 ## Phase I: Moderated Production Testing
 ### Planning:
 - Desired date range or test duration: **August 2020**  
