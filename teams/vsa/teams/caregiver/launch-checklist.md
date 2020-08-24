@@ -30,7 +30,8 @@
 | :----------- | ----------- |
 | [Email address validation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12585) | Done? |
 | [Update breadcrumbs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12667) | In progress |
-| [Replace link on intro page] |
+| [Replace link on intro page] | Talk to program/VSP
+
 
 ## Open feedback from Program (as of 8/24)
 | Task     | Status |
@@ -54,6 +55,7 @@
 | Resolve ICN search in eMIS | To do |
 | Feature flag: update insurance options | To do |
 | Remove feature flag for insurance options | To do |
+| Remove legalese for Primary/Secondary caregiver |
 | Cadence for meeting with/communicating with Program team during launch| To do  |
 | Accessible PDF created for users | To do |
 
