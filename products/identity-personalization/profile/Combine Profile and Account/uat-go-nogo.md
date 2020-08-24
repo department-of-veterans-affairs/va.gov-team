@@ -6,7 +6,7 @@
 - Are all content updates outside of the profile complete?
   - [X] Yes
   - [ ] No
-     - [ ] Review whats on content pages to ensure its good to launch
+     - Review whats on content pages to ensure its good to launch
           - Only concernned with updating addresses and Direct Deposit
           - https://github.com/department-of-veterans-affairs/va.gov-team/issues/10853
           - https://github.com/department-of-veterans-affairs/va.gov-team/issues/10857
