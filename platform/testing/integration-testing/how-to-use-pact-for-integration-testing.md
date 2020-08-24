@@ -1,4 +1,4 @@
-# Pact configuration docs
+# How to use Pact for integration testing
 
 ## Background
 Pact is a tool that enables consumer driven contract testing (CDCT) by defining a contract between service consumers and providers (e.g. `vets-website` and `vets-api`).
