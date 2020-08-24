@@ -41,7 +41,7 @@
 | Remove last treatment facility as a required field | To do |
 | Add space between faciity questions | ? |
 | Confirm facility list with Program | To do |
-| Remove VSO information | 
+| Remove VSO information | Content? |
 | Add "disagree with this decision" to Apply page | Content? |
 | Send link to CSCs | To do |
 | Checkbox on Signature page | Needs grooming |
