@@ -27,7 +27,7 @@ Thanks for joining us today! The session should take 45 minutes. Our goal is to 
 
 - Have you worked as an outreach specialist in more than one district or region? 
 
-### Background/ The Role 
+### Role 
 
 - How would you describe your role at VA?  
 
@@ -35,7 +35,7 @@ Thanks for joining us today! The session should take 45 minutes. Our goal is to 
   
   - If you had to break down these responsibilities into percentages, what might that look like? 
 
-- What does a typical week look like for you? 
+- How about the role of the clinicians at your Vet Center, can you tell me what that role looks like?
 
 ### Eligibility 
 
@@ -57,11 +57,9 @@ Thanks for joining us today! The session should take 45 minutes. Our goal is to 
 
 - What are the different ways in which you interact with your clients? e.g. Phone, in person, one-on-one, in a group setting, in the community? 
 
-  - Does the way you do your job differ depending on the format? 
-
   - Are there other ways you would see interacting with Veterans? (e.g., chatbot, email)  
 
-  - Does a relationship between a client and outreach specialist evolve or change over time? 
+  - Once a client starts using services, does a relationship between you and a client end or change? 
 
 ### Clients 
 
@@ -75,13 +73,15 @@ Thanks for joining us today! The session should take 45 minutes. Our goal is to 
 
 ### Services 
 
-- What services do you personally support most frequently?  
+- What services are used most frequently by your clients?  
 
-- What services do you personally support least frequently? 
+- How about those used least frequently? 
 
 - Are some services more automated vs needing to be more hands-on? 
 
-- What’s are some challenging aspects of supporting these services? 
+- Does your Vet center offer recreational outings or other activities?
+
+  - If so, how are are these offerings categorized? Do they fall under counseling or events or are they their own category?
 
 - How will Vets find out about these services? 
 
