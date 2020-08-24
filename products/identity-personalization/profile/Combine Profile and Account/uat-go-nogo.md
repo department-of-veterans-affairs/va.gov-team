@@ -1,6 +1,6 @@
 # UAT Go/No-go | 8.24.20
 
-- [ ] Any launch-blocker bugs or design issues still outstanding?
+- [X] Any launch-blocker bugs or design issues still outstanding?
 - [ ] Are all content updates outside of the profile complete?
 - [ ] Is the code done and stable (save any known issues that we are not addressing before launch)?
 - [ ] Are UAT recruiting requirements for test users clearly documented and outlined?
