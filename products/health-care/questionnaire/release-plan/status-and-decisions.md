@@ -10,7 +10,39 @@
 
 ## Status - August 28th, 2020
 
-## Status - August 21st, 2020
+## August 21st, 2020
+
+**Product**
+- Finalized [Initiative -Visit Intro](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/visit-intro.md) [Feature - Visit Intro](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/visit-intro.md) & [Feature- Demographics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/demographics.md) Outlines
+- Drafts Feature Outlines for [Questionnaire Manager](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/questionnaire-manager.md), [Appt. Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/appt-details.md), and [PGD](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/pgd.md)
+ - [TOT Aug 18th](https://drive.google.com/file/d/1fpk_SdsZ_t-2L94p_ew2GVb93v1GKtzX/view?usp=sharing)
+
+**Research and Design**
+- [Research Findings from card sort and mock ups](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/veteran-prioritization/research-findings.md) 
+- Additional iterations post Veteran feedback 
+	- [Visit Intro](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/visit-intro.md) 
+	- [Demographics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/veteran-prioritization/Veteran%20info%201.png) 
+
+**Engineering**
+- [Feature Flag](https://user-images.githubusercontent.com/1793923/90675376-5fad8d00-e228-11ea-95d2-9c31a309fd01.gif) for questionnaires created 
+- Researching [pros/cons of technical capabilities for unauth vs, auth experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/auth-vs-unauthed.md).
+- Initial [tech architecture diagram for systems and services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/assets/Questionnaire%20System%20Diagram.png) expecting to leverage.
+- Researching and building services for appointment details and pgd data with VAMF. 
+
+**Next Step/Followup**
+- Complete Visit Intro feature outlines for end of Q3 proof of concept
+- Finalize demographics, intro, and confirmation page mocks with a storyboard diagram of user flow
+- Continue to get answers and land architecture strategy for system and services for retrieving and posting healthcare patient data.
+	
+**Decisions:**
+- PGD database and VAMF are the sources for retrieving and storing healthcare data. 
+- Due to team personnel changes our proof of concept will not include real data and instead be mock with limited workflow while using Q4 to land live production use for our MVP. 
+
+**Blockers:**
+- No changes in status from previous week for blocker [Stakeholder Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
+- Need update from Lighthouse team FHIR gap with authentication Open Connect ID is not compatible with vets api [VA.gov and Lighthouse oAuth Strategies - #11669](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11669)
+- Due to Design changes our Demographics and This Visit mocks with uncertain layout/data fields was not landed in time for [FE work in sprint 28](%5BFrontend%5D%20Display%20Demographics%20#12257). Therefore is blocked and will pick back up with sprint 29/30.  Shawna H has stepped in while new designer is onboarding and discussions continue on data services to leverage.  Development is estimated to be 1 sprint behind due to not landing finalized designs per roadmap targets. 
+- Both BE investigation for [VAMP/PGD #12406](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12406) and [Service for Retrieving Appt. Details #12404](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12404) are blocked while awaiting VA teams direction on staging environment and approval /intake for posting to pgd. Stephen B is moving this forward with his VA counterparts on the VAMF teams.  
 
 ## Status - August 14th, 2020
 
