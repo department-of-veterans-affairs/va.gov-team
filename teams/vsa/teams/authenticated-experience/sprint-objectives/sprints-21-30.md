@@ -320,6 +320,7 @@ PM
 - Regroup with analytics to make sure that work gets finished
 
 Design
+- Kick off recruiting for UAT
 - Gather email addresses of UAT users & share those with Erik/Sandra
 - Conduct UAT
 
