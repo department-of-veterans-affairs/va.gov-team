@@ -1,11 +1,11 @@
-# PACT configuration docs
+# Pact configuration docs
 
 ## Background
-PACT is a tool that enables consumer driven contract testing (CDCT) by defining a contract between service consumers and providers (e.g. `vets-website` and `vets-api`).
+Pact is a tool that enables consumer driven contract testing (CDCT) by defining a contract between service consumers and providers (e.g. `vets-website` and `vets-api`).
 
 Pact is most valuable for designing and testing integrations where your organization controls the development of both the consumer (`vets-website`) and the provider (`vets-api`), and the requirements of the consumer are going to be used to drive the features of the provider.
 
-PACT satisfies the need for end-to-end integration tests between `vets-website` and `vets-api` as part of va.gov's automated testing processes as well as providing performance metrics in relation to automated end-to-end browser testing for the [QASP report](https://docs.google.com/spreadsheets/d/1LC-n93-8ZB5SKmXW_VO7tymQ42nNx4C9y2animvAvhg/edit#gid=1144545755).
+Pact satisfies the need for end-to-end integration tests between `vets-website` and `vets-api` as part of va.gov's automated testing processes as well as providing performance metrics in relation to automated end-to-end browser testing for the [QASP report](https://docs.google.com/spreadsheets/d/1LC-n93-8ZB5SKmXW_VO7tymQ42nNx4C9y2animvAvhg/edit#gid=1144545755).
 
 
 ### Definitions
@@ -15,7 +15,7 @@ PACT satisfies the need for end-to-end integration tests between `vets-website` 
 - **Broker** - pacts are published to a central location e.g. a broker
 
 ### Process
-The PACT process can be broken into multiple steps:
+The Pact process can be broken into multiple steps:
 1. vets-website will run unit tests to validate its request and response interactions with vets-api endpoints.
 2. Contracts, also referred to as **pacts** in the Pact framework, are generated from vets-website tests.
 3. The pacts are published to a central location or a broker to be versioned and shared with the provider (vets-api).
@@ -25,14 +25,14 @@ The PACT process can be broken into multiple steps:
 7. Future todo: The idea is to integrate the rake verification task into CircleCI as part of the build step 
 
 ### Reqirements
-PACTS are currently only required for new endpoints or changes to endpoints. They are relatively similar to rspec tests and the effort to set up provider states on the backend is minimal. PRs related to PACT will go through the standard code review process.
+Pacts are currently only required for new endpoints or changes to endpoints. They are relatively similar to rspec tests and the effort to set up provider states on the backend is minimal. PRs related to Pact will go through the standard code review process.
 
 ![](https://i.imgur.com/zQMyDS0.png)
 
 ------
 
 ## Broker
-The PACT broker is currently hosted on [Heroku](https://vagov-pact-broker.herokuapp.com/). A local broker can also be configured for development purposes (see [example setup instructions](https://hackmd.io/2KMv4yM5TwOqWE3do7iBUw#PACT-example) below)
+The Pact broker is currently hosted on [Heroku](https://vagov-pact-broker.herokuapp.com/). A local broker can also be configured for development purposes (see [example setup instructions](https://hackmd.io/2KMv4yM5TwOqWE3do7iBUw#PACT-example) below)
 
 
 ## Implementation details
@@ -43,7 +43,7 @@ Pact is language agnostic and has packages for both Node.js and Ruby, so both `v
 Contract testing process workflow details: [Workflow details](https://github.com/department-of-veterans-affairs/va.gov-team/pull/8073/files#diff-f2abf33f91ea32d2168228610ba56d37R78)
 
 
-## PACT example
+## Pact example
 
 Follow the setup instructions [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/3a8f4953b5e77edcbd39fd3db073232cdaca0ea0/teams/vsp/teams/tools/frontend/2019-11-13-consumer-driven-contract-testing-with-pact.md#steps-to-run-example)
 
@@ -67,7 +67,7 @@ Provider states allow the consumer to define a state in which the provider shoul
 
 ------
 
-## PACT Setup
+## Pact Setup
 
 ## How to Setup the Consumer Codebase (vets-website)
 
