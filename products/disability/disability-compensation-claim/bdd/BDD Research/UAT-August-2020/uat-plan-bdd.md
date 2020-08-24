@@ -28,14 +28,19 @@ Service members who are separating and plan to file for disability can file thei
 
 - We have already done integration testing with EVSS and have completed rounds of usabilty with new designs.  This testing is to determine a go/no go decision with rolling out BDD to 25%.
 
+-Specifically we want 5 active service members, that are eligible for BDD, submit a real BDD claim in the UAT test. The 5 service members must understand that they are submitting a real BDD claim, be eligible and have all the necessary documents ready for the UAT sessions. They need also to be ready for a VA claim exam 45 days after they submit the claim 
+
+-We also want 5 VA veterans, (separated 1-89 days ago) that will submit a normal claim. The 5 service members must understand that they are submitting a real claim, be a VA member and be eligible to submit a normal claim, and have all the necessary documents ready for the UAT sessions. They need also to be ready for a VA claim exam 45 days after they submit the claim 
+
 3.	**Where are you planning to do your research?**
 
-- VA.gov
+- Through Zoom
+
 
 4.	**What will you be testing?**
 
-- Submit a claim 1-89 days after separation, and submit a claim 90-180 days before separation (BDD). 
-Test BDD functionality and the wizard that directs them to the BDD version of 526.
+- Submit a claim 1-89 days after separation
+- Submit a claim 90-180 days before separation (BDD). Test BDD functionality and the wizard that directs them to the BDD version of 526.
 
 ## Participants and Recruitment
 
@@ -85,7 +90,7 @@ We will work with Perigean to recruit for this study.
 
 1.	**Timeline: What dates do you plan to do research?**
 
-We are looking to start sessions **Thursday, August 27, 2020. We will test with users August 27, 28, and 31**.
+We are looking to start sessions **Thursday, August 28, 2020. We will test with users August 28, and then 3 and 4th September**.
 
 2.	**Prepare: When will the thing you are testing be ready?**
 
@@ -93,11 +98,13 @@ BDD should be live on production with EVSS on or about August 21, 2020.
 
 3. **Length of Sessions: How long do you estimate each session will be?**
 
-We expect sessions to only be 30-45 minutes. **Please schedule sessions for 45 minutes with a 15 minute buffer between sessions**.
+We expect sessions to only be 60 minutes. **Please schedule sessions for 60 minutes with a 30 minute buffer between sessions**.
 
 4.	**Availability: If applicable, when would you like sessions scheduled?**
 
-Between 11am and 7pm each day, with 15 min between each session.
+On August 28 we want to test at least one user per group (one for BDD and one for a normal claim). Between 2 pm and 7pm EST. (Please book as many users that would make it likely to get at least one from each group this day). 
+
+On September 3 and 4, we want to test 4 users per day (4 with BDD claim and 4 with normal claim). Between 11 am and 7pm EST. 
 
 5.	**Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
 
