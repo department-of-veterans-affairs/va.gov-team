@@ -6,9 +6,10 @@ assignees: meganhkelley
 
 ---
 
-### User story
+### User story(ies)
 
-_As a , I need , so that ._
+_As a , I need/want , so that ._
+_Example: As a VFS developer, I need to be able to create a custom error message for the XYZ form, so that I can implement the unique error message content that has been approved via the VSP Collaboration Cycle._
 
 ### Additional details/notes/links
 
