@@ -2,7 +2,18 @@
 
 ###### Goal: Create a consolidated list of all of the steps needed to be ready for a public-facing launch
 
-## Must-have
+## Must-have - open items
+| Task     | Status |
+| :----------- | ----------- |
+| CARMA PDF Signature + time stamp | In progress |
+| Product video| Not started|
+| Google analytics backend setup | In progress - ETA 8/24 |
+| Contact Center Review   | In progress |
+| Define launch metrics with program team  |In progress | 
+| Resolve any [staging review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12276) must-dos | In progress |
+| Incident Response Playbook   | Not started |
+
+## Must-have - done
 | Task     | Status |
 | :----------- | ----------- |
 | Password/beta test implementation | Completed |
@@ -10,16 +21,14 @@
 | Feature toggle testing  | Completed    |
 | Check in with Privacy/Security | Completed |
 | Product guide | Completed |
-| Product video| Not started|
-| Google analytics backend setup | In progress - ETA 8/24 |
-| Contact Center Review   | In progress |
-| Define launch metrics with program team  |In progress | 
-| Resolve any staging review must-haves | In progress |
-| Incident Response Playbook   | Not started |
-| CARMA PDF Signature | In progress |
-| Google Analytics dashboard created   | Complete |
+| Google Analytics dashboard created   | Completed |
 | Error experience (messaging)  | Completed  |
 
+
+## Open feedback from program + VSP (as of 8/24)
+| Task     | Status |
+| :----------- | ----------- |
+| [Email address validation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12585) | Done? |
 
 
 
