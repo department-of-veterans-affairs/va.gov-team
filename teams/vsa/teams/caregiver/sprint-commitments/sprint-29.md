@@ -4,7 +4,7 @@
 - [x] Breadcrumb Bug (IA)
 - [ ] Signature field bug
 - [ ] Save in progress bug
-- [ ] Gender thing (after backend is updated)
+- [ ] Gender not-required and remove `unknown` (after backend is updated)
 - [ ] Content changes *after* we get `stakeholder` approval (sentance casing and plain language)
 - [ ] `stakeholder` requested content changes *after* `VSP` approval
 
