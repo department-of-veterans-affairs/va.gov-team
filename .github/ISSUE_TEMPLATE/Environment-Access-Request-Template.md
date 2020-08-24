@@ -1,5 +1,5 @@
 ---
-name: Environment Access Request Template
+name: Environment Access Request
 about: To request access to dev tools
 title: Access for [individual]
 labels: external-request, operations
