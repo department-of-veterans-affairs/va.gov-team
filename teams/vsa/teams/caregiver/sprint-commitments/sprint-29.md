@@ -6,14 +6,16 @@
 - Design/content changes *after* we get VSP approval
 
 ## Backend
-- Submit PDF with signature (+ change PDF generation flow)
-- Add time stamp 
 - Track backend failures in Google Analytics
 - Backend changes to make gender a not required field
+- Submit PDF with signature (+ change PDF generation flow)
+- Add time stamp to PDF
 
-## Design/Product/Contemt
+## Design/Product/Content
+- Update content based on Program feedback
+- Update prototype with Program feedback
+- Confirm content changes with VSP
 - 10-10EZ Address: Design intent
-- Update prototype with Program feedback & confirm with VSP
 
 ## Product
 - [Contact center review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12748)
