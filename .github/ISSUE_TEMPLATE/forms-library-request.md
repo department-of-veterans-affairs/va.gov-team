@@ -8,7 +8,7 @@ assignees: meganhkelley
 
 ### User story
 
-_As a ___, I need ___, so that ___._
+_As a , I need , so that ._
 
 ### Additional details/notes/links
 
@@ -25,6 +25,7 @@ _What must be true in order for this to be complete?_
 - [ ] Request new feature
 - [ ] Request update to existing feature
 - [ ] Documentation change
+- [ ] Other (please describe)
 
 ### How to configure this issue
 - [ ] When ticket is opened, assign to Epic [#12765 Forms library user feedback and requests to be triaged](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12765)
