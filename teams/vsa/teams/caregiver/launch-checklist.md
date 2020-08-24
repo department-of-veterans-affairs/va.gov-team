@@ -41,8 +41,10 @@
 | Remove last treatment facility as a required field | To do |
 | Confirm facility list with Program | To do |
 | Remove VSO information | 
-| Add "disagree with this decision" to Apply page | 
-| 
+| Add "disagree with this decision" to Apply page | Content? |
+| Send link to CSCs | To do |
+|
+|
 
 
 
