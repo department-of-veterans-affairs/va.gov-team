@@ -39,6 +39,7 @@
 | Add specific (and red) instructions re: required fields | Needs VSP approval |
 | Remove Sex as a required field & remove "unknown" as option | Needs VSP approval ** does this have backend implications? ** |
 | Remove last treatment facility as a required field | To do |
+| Add space between faciity questions | ? |
 | Confirm facility list with Program | To do |
 | Remove VSO information | 
 | Add "disagree with this decision" to Apply page | Content? |
