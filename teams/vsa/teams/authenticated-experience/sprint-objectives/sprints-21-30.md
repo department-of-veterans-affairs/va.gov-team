@@ -312,26 +312,36 @@ If all profile work is done and all LIH ticket from sprint 27:
 
 **Profile 2.0**
 
-- **Launch to UAT users**
+**We will launch launch to UAT users this sprint pending our UAT go/no-go.**
+
+Anything outstanding from sprint 28, plus:
+
+PM
+- Regroup with analytics to make sure that work gets finished
 
 Design
+- Gather email addresses of UAT users & share those with Erik/Sandra
 - Conduct UAT
 
 Dev
+- Launch to profile 2.0 to production behind a feature flag
+- Add UAT users to list of people who can see Profile 2.0 in production
+- Add any team members who have a prod account to list of people who can see Profile 2.0 in production
 - Any fixes from UAT
 
 **Logged-in homepage**
 
-PM
-- Start documenting staging users scenarios
+Any tickets outstanding from sprint 28, plus:
 
 Design
-- Initial iterations/explorations
+- Discuss a plan and start initial design iterations/explorations
+- Track the documentation from the LOA3/LOA1 use case/data point exercise in Github
 - Plan for how to work with the platform team #10516
 - Plan for how/when to conduct user testing #10518
 
-Dev
-- Investigate how we can pull in information on preferred medical facilities on VA.gov #12552
+**Direct deposit**
+
+- (Continue) Determine level of effort for integrating with BGS CH33 DDEFT Services #11545
 
 ## Sprint 30 (9/9 – 9/22)
 
@@ -339,3 +349,11 @@ Dev
 
 - Launch Go/No-go
 - Phase 1 launch
+- Monitor analytics
+
+Post launch/Up next: Launch to 50%/100% and monitoring, 508 review, post launch review with platform team, any post-launch enhancements
+
+**Logged-in homepage**
+
+PM
+- Start documenting staging users scenarios (maybe)
