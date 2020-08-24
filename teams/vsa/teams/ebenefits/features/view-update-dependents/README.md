@@ -192,7 +192,7 @@ TBD after launch
 
 ## Target Launch Date
 - *What is your target launch date of your MVP/iteration?*
-  - June 2020
+  - August 2020
 - *What is your date for when you'll evaluate impact after launch?*
 
 ---
