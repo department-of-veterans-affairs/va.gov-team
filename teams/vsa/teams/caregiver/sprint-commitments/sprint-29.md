@@ -6,6 +6,7 @@
 - [ ] Save in progress bug
 - [ ] Gender thing (after backend is updated)
 - [ ] Content changes *after* we get `stakeholder` approval (sentance casing and plain language)
+- [ ] `stakeholder` requested content changes *after* `VSP` approval
 
 ## Backend
 - Track backend failures in Google Analytics
