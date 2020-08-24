@@ -19,7 +19,7 @@ For your product or feature, make a copy of this template and check it into prod
   - [ ] VFS
   - [ ] VSP
   - [ ] DEPO
-- How you'll recuit test users:
+- How you'll recruit test users:
 - How you'll give test users access to the product: 
 - What metrics-based "success criteria" will you look at before launch? [use your KPIs to help guide this.]
 - How you'll measure your "success criteria": 
