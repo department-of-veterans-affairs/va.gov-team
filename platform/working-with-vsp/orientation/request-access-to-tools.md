@@ -18,7 +18,7 @@ To work on the Veteran-facing Services Platform, each team member needs to use t
 ## GitHub
 
 ### Getting access to the VA GitHub Organization
-1.  Work with your Program Manager and have them submit an [Add User to the VA Organization ticket](https://github.com/department-of-veterans-affairs/github-user-requests/issues/new/choose) in Github with the VA GitHub admins. This ticket will need to be approved by your COR, before being added to the VA GitHub Organization. Note: The may take a few days to process. 
+1.  Work with your Program Manager and have them submit an [Add User to the VA Organization ticket](https://github.com/department-of-veterans-affairs/github-user-requests/issues/new/choose) (submitter will need to have VA GitHub Org access already) in Github with the VA GitHub admins. This ticket will need to be approved by your COR, before being added to the VA GitHub Organization. Note: The may take a few days to process. 
 
 1. Once your ticket is processed, check your email for an invitation to the VA GitHub Organization, and join! If you have not received an invitation (and do not already have a va.gov email), please reach out to your Program Manager. If you already possess a va.gov email and have not received an invitation, please visit [this site](https://vaww.oit.va.gov/services/github/) (will only work on VA network, CAG, or GFE/VPN) and fill out a request to be added.
 
