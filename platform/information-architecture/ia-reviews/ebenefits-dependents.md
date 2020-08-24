@@ -30,7 +30,7 @@
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
 Static content page | www.va.gov/view-change-dependents  | Home > View or change your dependents  | - The was previously proposed for the View Dependents tool as www.va.gov/view-dependents/. <br> - The URL and breadcrumb are being modified as part of this work.  <br> - This page will need to include a sign-in CTA module for the view dependents tool. <br> - This page will not have left hand navigation.
-Online form | www.va.gov/view-change-dependents/add-remove-form-686c/ | Home > View or change your dependents > Add or remove dependents form 686c | - Authentication is not required to access this form, and therefore users can directly access it through direct links or bookmarks. <br> - This page will not have left hand navigation.
+Online form | www.va.gov/view-change-dependents/add-remove-form-21-686c/ | Home > View or change your dependents > Add or remove dependents form 21-686c | - Authentication is not required to access this form, and therefore users can directly access it through direct links or bookmarks. <br> - This page will not have left hand navigation.
 View dependents tool | www.va.gov/view-change-dependents/view | Home > View or change your dependents > View your dependents | - This was previously proposed for the View Dependents tool as www.va.gov/view-dependents/dependents. <br> - The URL and breadcrumb are being modified as part of this work. <br> - If an unauthenticated tries to access this tool directly via direct links or bookmarks, they should be redirected to the static page. <br> - This page will not have left hand navigation.
 
 *Please connect with your writer/editor on the proper verbiage and capitalization of the last element of the breadcrumb*
@@ -51,7 +51,7 @@ Priority | Placement | Link to | Description
 --- | --- | --- | ---
 Must | [Disability hub page](https://www.va.gov/disability/) |  www.va.gov/view-change-dependents |The existing "Add or remove dependents" link should be updated to point to the new static page to "View or change dependents".  Update the link label and teaser text as appropriate. Placement is the same as it currently is. 
 Must | Disability left nav |  www.va.gov/view-change-dependents | The existing "Add or remove dependents" link should be updated to point to the new static page to "View or change dependents".  Update the link label as appropriate. Placement is the same as it currently is. 
-Must | [View dependents tool](www.va.gov/view-change-dependents/view) |  www.va.gov/view-change-dependents/add-remove-form-686c/ |The tool should include a link to Add or Remove dependents and take the user directly to the form. 
+Must | [View dependents tool](www.va.gov/view-change-dependents/view) |  www.va.gov/view-change-dependents/add-remove-form-21-686c/ |The tool should include a link to Add or Remove dependents and take the user directly to the form. 
 Should | https://www.va.gov/search/?page=1&query=add+dependent | www.va.gov/view-change-dependents | Change item in top recommendations section for "add dependents" query to point to new page
 Consider | https://www.va.gov/search/?query=disability+dependents | www.va.gov/view-change-dependents | Add to top recommendations section for additional key searches such as: "disability dependents", "my dependents", "remove dependents".
 Consider/Future | Profile  | www.va.gov/view-change-dependents/view | Look at future opportunities to test user response to placement within the profile experience. 
