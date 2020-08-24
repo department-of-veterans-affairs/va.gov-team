@@ -1,4 +1,4 @@
-# 8/24 Notes:
+# 8/24 Notes from Discussion w/VEText Team:
 
 ## Notes
 - App team to prioritize Appointment notifications since VEText already delivers them and has templates for them (as opposed to Claims and General VA notifications)
