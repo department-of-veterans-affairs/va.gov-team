@@ -1,5 +1,5 @@
 ## Frontend
-- [x] VSP 508 feedback
+- [x] Fix email validation (508)
 - [x] VSP design feedback
 - [x] Breadcrumb Bug (IA)
 - [ ] Signature field bug
