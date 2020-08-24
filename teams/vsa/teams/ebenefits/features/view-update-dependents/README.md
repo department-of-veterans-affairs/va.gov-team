@@ -221,7 +221,7 @@ TBD after launch
 - Design Lead: Shawna Hein
 - Eng Lead: Paul Short
 - VA Web Comms Partner: 
-- VA Contact Center Partner(s): Chante
+- VA Contact Center Partner(s): Chante/Kimberly
 - Production Testing Partner(s):
 - Designer(s): Jim Adams
 - Content Writer(s): None
@@ -229,12 +229,13 @@ TBD after launch
 ### API Team
 - Product and Project: Jason Wolf
 - Front-end Engineer(s): Micah Chiang, Jesse Cohn
-- Back-end Engineer(s): Kathleen Crawford
+- Back-end Engineer(s): Kathleen Crawford, Derek Dyer
 
 ### Veteran Facing UX Team
 - Product and Project: Jason Wolf
 - Front-end Engineer(s): Micah Chiang, Jesse Cohn
-- Back-end Engineer(s): Kathleen Crawford
+- Back-end Engineer(s): Kathleen Crawford, Derek Dyer
+- Designer/Researcher: Jim Adams
 
 
 `*` = approval required for launch
