@@ -29,6 +29,10 @@
 | Task     | Status |
 | :----------- | ----------- |
 | [Email address validation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12585) | Done? |
+| [Update breadcrumbs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12667) | In progress |
+| [Replace link on intro page]  |
+
+
 
 
 
