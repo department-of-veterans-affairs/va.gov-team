@@ -318,6 +318,7 @@ Anything outstanding from sprint 28, plus:
 
 PM
 - Regroup with analytics to make sure that work gets finished
+- Set up meeting for team to go over how to add UAT users to list of people who can view Profile 2.0 in prod
 
 Design
 - Kick off recruiting for UAT
@@ -326,8 +327,6 @@ Design
 
 Dev
 - Launch to profile 2.0 to production behind a feature flag
-- Add UAT users to list of people who can see Profile 2.0 in production
-- Add any team members who have a prod account to list of people who can see Profile 2.0 in production
 - Any fixes from UAT
 
 **Logged-in homepage**
