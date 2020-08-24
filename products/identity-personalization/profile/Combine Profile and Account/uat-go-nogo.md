@@ -5,3 +5,6 @@
 - [ ] Is the code done and stable (save any known issues that we are not addressing before launch)?
 - [ ] Are UAT recruiting requirements for test users clearly documented and outlined?
 - [ ] Does anyone have any concerns that would stop us from conducting UAT starting one week from tomorrow?
+
+
+### Result?: 
