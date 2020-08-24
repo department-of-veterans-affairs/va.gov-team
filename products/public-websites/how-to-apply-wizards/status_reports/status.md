@@ -1,3 +1,13 @@
+### 8/24 Update
+
+- **Education Wizard:**  IA, content, accessibility and analytics tickets have been generated per the Collab cycle review and the tasks will be worked into upcoming sprints.
+   - The analytics team (Jon W) wants to a create a dataLayer taxonomy generic enough to be reused across How To Wizards, starting the Edu version.  A meeting is set for 8/31 to map that plan.
+
+- **Disabilty (Form 526)**: BAM 2 (Robin Garrison) has actually completed the work - https://github.com/department-of-veterans-affairs/vets-website/pull/13963 and is waiting for the e2e tests to pass, then it'll be ready to merge. Up next: a content review, and because of our situation, we'll also need to update the content that is rendered - all-claims/original-claim vs BDD text
+
+- **Higher Level Review:** Per BAM 2, code needs a bit more development work, but it's close to done. The wizard hasn't been moved to the introduction page yet. This may become a higher priority in a later sprint.
+
+
 ### 8/12 Update
 
 - Education Wizard (BAM 2/Leah K.) is now going through the agreed upon steps in Collab Cycle process, including:
