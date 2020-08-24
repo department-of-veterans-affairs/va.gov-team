@@ -59,7 +59,7 @@ Thanks for joining us today! The session should take 45 minutes. Our goal is to 
 
   - Are there other ways you would see interacting with Veterans? (e.g., chatbot, email)  
 
-  - Once a client starts using services, does a relationship between you and the client end or change? 
+  - Once a client starts using services, does the relationship between you and the client end or change? 
 
 ### Clients 
 
