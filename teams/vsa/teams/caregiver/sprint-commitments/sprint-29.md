@@ -2,7 +2,7 @@
 - Must-have content/IA changes (but not the gender thing)
 - Signature field bug
 - Save in progress bug
-- Gender thing
+- Gender thing (after backend is updated)
 - Design/content changes *after* we get VSP approval
 
 ## Backend
