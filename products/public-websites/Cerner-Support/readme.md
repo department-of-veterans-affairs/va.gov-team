@@ -88,13 +88,25 @@ The stats gathered here represent the same user authentication states that we ar
 
 # Security Review
 
-The following pages are conditionally showing the new Cerner content based off the linked conditionals, which will be the entry points for a Flipper toggle soon:
+The following pages are conditionally showing the new Cerner content based off the linked conditionals:
 
 1. [Get Medical Records Page](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/static-pages/health-care-manage-benefits/get-medical-records-page/components/App/index.js#L13)
 1. [Track Prescriptions Page](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/static-pages/health-care-manage-benefits/refill-track-prescriptions-page/components/App/index.js#L13)
 1. [Schedule + View Appointments](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/static-pages/health-care-manage-benefits/schedule-view-va-appointments-page/components/App/index.js#L13)
 1. [Secure Messaging Page](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/static-pages/health-care-manage-benefits/secure-messaging-page/components/App/index.js#L13)
 1. [View Test + Lab Results Page](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/static-pages/health-care-manage-benefits/view-test-and-lab-results-page/components/App/index.js#L13)
+
+The following Flipper toggles determine whether or not the above pages show legacy or the new/updated content:
+
+```
+show_new_schedule_view_appointments_page
+show_new_get_medical_records_page
+show_new_refill_track_prescriptions_page
+show_new_secure_messaging_page
+show_new_view_test_lab_results_page
+```
+
+You can find and toggle them [here](https://api.va.gov/flipper/features).
 
 Additionally, [here is a link to the frontend list of Cerner IDs](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/utilities/cerner/index.js#L4).
 
