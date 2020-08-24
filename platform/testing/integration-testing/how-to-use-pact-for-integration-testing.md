@@ -1,12 +1,63 @@
 # How to use Pact for integration testing
 
-## Background
+## Table of Contents
+- [Introduction](#introduction)
+    - [Definitions](#definitions)
+    - [Process](#process)
+    - [Requirements](#requirements)
+ - [Broker](#broker)
+ - [Implementation details](#implementation-details)
+ - [Pact example](#pact-example)
+    - [Additional backend changes](#additional-backend-changes)
+    - [Makefile shortcut](#makefile-shortcut)
+    - [Local json files](#local-json-files)
+    - [More on provider states](#more-on-provider-states)
+ - [Pact setup](#pact-setup)
+    - [How to set up the consumer codebase (vets-website)](#how-to-set-up-the-consumer-codebase-vets-website)
+        - [Running contract tests](#running-contract-tests)
+        - [Writing a contract test](#writing-a-contract-test)
+            - [Example](#example)
+                - [example-app.contract.spec.js](#example-app.contract.spec.js)
+        - [Interactions](#interactions)
+            - [Example]()
+            - [Provider states](#provider-states)
+            - [Matching](#matching)
+            - [Optional attributes](#optional-attributes)
+            - [Optional arrays](#optional-arrays)
+                - [Empty arrays](#empty-arrays)
+                - [Non-empty arrays](#non-empty-arrays)
+                - [Specific arrays](#specific-arrays)
+    - [How to configure the provider codebase (vets-api)](#how-to-configure-the-provider-codebase-vets-api)
+        - [Quick reference checklist](#quick-reference-checklist)
+        - [Live pacts](#live-pacts)
+        - [How to use a local file if blocked by frontend](#how-to-use-a-local-file-if-blocked-by-frontend)
+        - [How to setup a provider state](#how-to-setup-a-provider-state)
+            - [What are provider states?](#what-are-provider-states)
+            - [Identify expected responses](#identify-expected-responses)
+            - [Naming guidelines](#naming-guidelines)
+            - [Authorization](#authorization)
+            - [VCR](#vcr)
+        - [Configure the pact_uri/broker_url](#configure-the-pact_uri/broker_url)
+        - [Optionally Comment Out Publish Flag](#optionally-comment-out-publish-flag)
+        - [How to run the verification task](#how-to-run-the-verification-task)
+            - [Important: Docker Workflow Settings](#important-docker-workflow-settings)
+        - [How to verify your results](#how-to-verify-your-results)
+        - [Final steps](#final-steps)
+        - [Broker Matrix and Tagging](#broker-matrix-and-tagging)
+    - [Additional info](#additional-info)
+        - [Design doc](#design-doc)
+        - [To do](#to-do)
+        
+    
+        
+        
+
+## Introduction
 Pact is a tool that enables consumer driven contract testing (CDCT) by defining a contract between service consumers and providers (e.g. `vets-website` and `vets-api`).
 
 Pact is most valuable for designing and testing integrations where your organization controls the development of both the consumer (`vets-website`) and the provider (`vets-api`), and the requirements of the consumer are going to be used to drive the features of the provider.
 
 Pact satisfies the need for end-to-end integration tests between `vets-website` and `vets-api` as part of va.gov's automated testing processes as well as providing performance metrics in relation to automated end-to-end browser testing for the [QASP report](https://docs.google.com/spreadsheets/d/1LC-n93-8ZB5SKmXW_VO7tymQ42nNx4C9y2animvAvhg/edit#gid=1144545755).
-
 
 ### Definitions
 - **Pact** - Another term for 'contract'
@@ -24,7 +75,7 @@ The Pact process can be broken into multiple steps:
 6. Builds will depend on successful verification results to deploy.
 7. Future todo: The idea is to integrate the rake verification task into CircleCI as part of the build step 
 
-### Reqirements
+### Requirements
 Pacts are currently only required for new endpoints or changes to endpoints. They are relatively similar to rspec tests and the effort to set up provider states on the backend is minimal. PRs related to Pact will go through the standard code review process.
 
 ![](https://i.imgur.com/zQMyDS0.png)
@@ -332,7 +383,7 @@ Example temp contract definition:
 
 A corresponding provider state will need to be defined (even if not necessary) on the backend. Provider states define code that should run before/after each interaction for a given consumer. **If a provider state is not necessary, please define no_op inside of a wrapping provider state block.** Please see the [provider state documentation](https://github.com/pact-foundation/pact-ruby/wiki/Provider-states#provider-codebase) for provider state instructions. Additionally, see the [search example](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/provider_states_for/search.rb#L3).
 
-#### Idenfity Expected Responses
+#### Identify Expected Responses
 
 In order to determine an endpoints expected response, take a look at the defined response in the broker. A helpful tip if you're having issues is to look at vets-api request specs to determine provider state implementation details and expected responses.
 
@@ -407,16 +458,12 @@ When your verification status is all green, please reconfigure your changes from
 ### Broker Matrix and Tagging
 A provider verification matrix can be found in the pact broker. See [search example](https://vagov-pact-broker.herokuapp.com/matrix/provider/VA.gov%20API/consumer/Search). The verification matrix acts as a success metric for verification status (green or red). Additionally, each verification run is tagged with the git branch name and git sha in the provider verification column to track provider version details. See details in the [pact_helper](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/pact_helper.rb#L50-L51).
 
-## CircleCI integration (todo)
+## Additional Info
 
-
-------
-
-
-## Design Doc
+### Design Doc
 Additional information detailed in the [design doc](https://github.com/department-of-veterans-affairs/va.gov-team/pull/8073/files#diff-f2abf33f91ea32d2168228610ba56d37R209)
 
 
-# TODO 
+### TO DO 
 CircleCI
 
