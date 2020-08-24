@@ -1,11 +1,11 @@
 ## Frontend
 - [x] VSP 508 feedback
 - [x] VSP design feedback
-- [ ] Must-have content/IA changes (but not the gender thing)
+- [ ] Breadcrumb Bug (IA)
 - [ ] Signature field bug
 - [ ] Save in progress bug
 - [ ] Gender thing (after backend is updated)
-- [ ] Content changes *after* we get VSP approval
+- [ ] Content changes *after* we get `stakeholder` approval (sentance casing and plain language)
 
 ## Backend
 - Track backend failures in Google Analytics
