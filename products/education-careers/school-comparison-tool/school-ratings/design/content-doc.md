@@ -129,6 +129,9 @@ School clearly explained admissions requirements, academic programs, and all the
 
 ### About ratings 
 
-Schools are rated from one to five stars, with five being the best. Ratings are provided by Veterans who've attended this school. We reach out to Veterans who receive a Certificate of Eligibility (COE) for benefits, when they transfer into or out of a school, or when they graduate to provide a rating.  
+We ask Veterans to rate schools they’ve attended on a scale of 1-5 stars, with 5 being the best rating. 
 
-If schools request to know which Veterans provided ratings, we'll provide a list of all individuals who've submitted ratings, but not the individual ratings they've provided. The ratings Veterans provide won't be tied to the individual.
+We reach out to Veterans who’ve received a Certificate of Eligibility (COE) for benefits, when they transfer into or out of a school, or when they graduate to provide a rating.
+
+If a school asks us which Veterans rated their school, we'll provide a list of all individuals who've submitted ratings for that school.  However, those ratings won't be tied to the Veteran and we won’t share the individual ratings the students provided.
+
