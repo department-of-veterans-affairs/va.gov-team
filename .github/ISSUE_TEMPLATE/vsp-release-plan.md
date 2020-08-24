@@ -1,12 +1,11 @@
 # Release Plan Template [Draft]
-This Release Plan Template is intended to be used to help ensure your new VSP product or feature is ready for launch and will deliver the desired user outcomes. In Phase 1, you will test your product to learn how it'll actually be used, what problems it might create, and then fix/adjust if necesssary prior to going live. In Phase 2, you will define the launch communications plan and post-launch KPIs. 
+## Guidance
 
-You do not need to complete a release plan for a product or feature update that does not:
+_This Release Plan Template is intended to help ensure your new VSP product or feature is ready for launch and will deliver the desired user outcomes. In Phase 1, you will test your product to learn how it'll actually be used, what problems it might create, and then fix/adjust if necessary prior to going live. In Phase 2, you will define the launch communications plan and post-launch KPIs.)
 
-- Add substantial new functionality to the Platform.
-- Impact user flows through tasks.
+_Fill out the **Planning** sections to start, then the **Results** sections as you complete each phase of testing._
 
-For your product or feature, make a copy of this template and check it into products/platform/<product-name>.
+---
 
 ## Phase I: User Acceptance Testing
 *Test real-world user scenarios to ensure your product or feature performs as expected.*
