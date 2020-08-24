@@ -12,6 +12,6 @@
 - Product video
 
 ## Product
-- Contact center review
+- [Contact center review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12748)
 - Confirm facility list with Program	
 - Incident response plan
