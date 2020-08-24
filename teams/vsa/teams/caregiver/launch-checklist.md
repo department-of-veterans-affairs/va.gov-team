@@ -43,9 +43,7 @@
 | Remove VSO information | 
 | Add "disagree with this decision" to Apply page | Content? |
 | Send link to CSCs | To do |
-|
-|
-
+| Checkbox on Signature page | Needs grooming |
 
 
 
