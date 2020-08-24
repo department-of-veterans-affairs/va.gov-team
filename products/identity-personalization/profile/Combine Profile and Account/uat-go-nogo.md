@@ -1,4 +1,4 @@
-# UAT Go/No-go
+# UAT Go/No-go | 8.24.20
 
 - [ ] Any launch-blocker bugs or design issues still outstanding?
 - [ ] Are all content updates outside of the profile complete?
