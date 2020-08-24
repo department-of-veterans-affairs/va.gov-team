@@ -1,7 +1,8 @@
 ## Frontend
 
 ## Backend
-- Submit PDF with signature + time stamp (+ change PDF generation flow)
+- Submit PDF with signature (+ change PDF generation flow)
+- Add time time stamp 
 - Track backend failures in Google Analytics
 -
 
