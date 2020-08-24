@@ -364,13 +364,11 @@ In this case, using a matcher, like `eachLike`, would not be appropriate.
 The live pacts live on our [heroku broker](https://vagov-pact-broker.herokuapp.com/). You can view the interactions per endpoint and the verification matrix from the broker index.
 
 ### How to use a local file if blocked by frontend
-If waiting on frontend to generate the contract and push to the broker, a temporary (local) contract can be used. Point the `pact_uri` to the local file as seen [here](https://github.com/department-of-veterans-affairs/vets-api/pull/4612/files#diff-79dfb3765c26716457a005b9d343a160R29)
+If waiting on frontend to generate the contract and push to the broker, a temporary (local) contract can be used. You can verify a pact at any arbitrary local or remote URL using the pact:verify:at task. 
 
-Example temp contract definition:
+Example local file path:
 ```
-  honours_pact_with 'HCA Post' do
-    pact_uri 'tmp/hca-va.gov_api.json' #temp local contract
-  end
+rake pact:verify:at[tmp/hca-va.gov_api.json]
 ```
 
 
@@ -400,19 +398,12 @@ Many of the vets-api endpoints call out to external services. To mock external s
 
 ### Configure the pact_uri/broker_url
 
-To work with one pact in the broker vs all pacts, point the `pact_uri` in the `pact_helper.rb` file to a specific contract in the broker (see [here](https://github.com/department-of-veterans-affairs/vets-api/pull/4612/files#diff-79dfb3765c26716457a005b9d343a160R38)), otherwise the rake task will run all the pacts pushed to the [heroku broker](https://vagov-pact-broker.herokuapp.com/).
+To work with one pact in the broker vs all pacts, you can verify a pact at any remote URL using the pact:verify:at task, otherwise the rake task will run all the pacts pushed to the [heroku broker](https://vagov-pact-broker.herokuapp.com/).
 
-After configuring your `pact_uri`, comment out the `honours_pacts_from_pact_broker` block and nested `pact_broker_base_url`. Again, if you are blocked by the frontend, your pact_uri will point to a local file.
+Again, if you are blocked by the frontend, you can point to a local file path.
 
 ```
-  # honours_pacts_from_pact_broker do
-  #  pact_broker_base_url 'https://vagov-pact-broker.herokuapp.com'
-  # end
-  
-  # temporarily define a specific broker uri to run one pact
-  honours_pact_with 'Search' do
-    pact_uri 'https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.gov%20API/consumer/Search/latest'
-  end
+rake pact:verify:at[https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.gov%20API/consumer/Search/latest]
   
 ```
 
