@@ -343,6 +343,10 @@ Design
 
 - (Continue) Determine level of effort for integrating with BGS CH33 DDEFT Services #11545
 
+**My VA: Cerner update**
+
+- Fix the Cerner update to "Schedule an appointment" and launch to prod #12762
+
 ## Sprint 30 (9/9 – 9/22)
 
 **Profile 2.0**
