@@ -1,4 +1,11 @@
-# Release Plan Template [Draft]
+name: VSP Initiative Release Plan Template (Draft)
+
+about: Release plan template for VSP products.
+
+title: "[Initiative-Name]: Release Plan"
+
+---
+
 ## Guidance
 
 _This Release Plan Template is intended to help ensure your new VSP product or feature is ready for launch and will deliver the desired user outcomes. In Phase 1, you will test your product to learn how it'll actually be used, what problems it might create, and then fix/adjust if necessary prior to going live. In Phase 2, you will define the launch communications plan and post-launch KPIs.)
