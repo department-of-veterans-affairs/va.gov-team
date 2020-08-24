@@ -22,6 +22,8 @@ _What must be true in order for this to be complete?_
 
 ### Point(s) of contact
 
+_Who should be kept INFORMED of the status of this request? Please tag them here._
+
 ### What type of issue is this? 
 - [ ] Bug
 - [ ] Request new feature
