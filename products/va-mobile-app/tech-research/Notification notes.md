@@ -17,3 +17,6 @@
 - VEText to discuss timeline for sending Appointment Push Notifications (Shane to discuss with team)
 - App team + VEText to regroup in 2 weeks to discuss whether we can deliver Appointment Push Notifications by November (Sophie to set up mtg)
 - VA Notify to send App team roadmap (Paras)
+
+
+![Uploading Push Notifications for VA Mobile App (VEText).png…]()
