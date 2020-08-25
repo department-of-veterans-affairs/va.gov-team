@@ -61,6 +61,26 @@ Healthcare Experience Team | name ⋅  email ⋅ slack ⋅  role
 - MWF @ 11:15 time |  TR @ 11:15 time
 - 15 min 
 
+<br/>
+
+### Sprint board columns
+
+As of 08/25/2020, the current columns on our sprint board columns are 
+
+| Column |Description| 
+|:--:| :-- |
+|**Icebox**	|Tasks here are nice to haves, blue sky ideas, or ideas that need more thought. These tasks may or may not be well defined and not estimated. Usually, big idea task will start here|
+|**Epics**|	Epics are high-level tasks. These have details, and. are usually well defined. Epics have subtasks that run through the process. An epic is closed when all the subtasks are closed|
+|**Backlog**|	The backlog is the holding pen for tasks. This column contains tickets that are a granular task that is well defined, but not estimated yet. A new task is usually created and stored here.|
+|**Ready**|	Ready tickets are tickets that come from the backlog. Once a Backlog ticket is estimated, it gets moved into the Ready column. These tickets are ready to go (well defined, estimated, approved by the team), but not in any current sprint.|
+|**Current Sprint**	|These tickets are taken from the Ready column and are queued to be completed in the current sprint. This is the "to do" column for the current sprint.|
+|**In Progress**|	These tickets represent the work that is going on currently. Active work (development, documentation, etc) should be reflected in a ticket in this column. This is one of the few columns that every ticket should be in at one point. A ticket's assignee should be putting notes and updates on currently worked on tickets.|
+|**Validate**|	This column represents tickets that no longer being actively worked on, but are going through some review process. This review process can be, but not limited to, meetings or code reviews.|
+|**Blocked**|	Tickets in the blocked column can not be worked on for some reason. That reason should be documented on the ticket, and if a ticket exists that fixes that blocker, that ticket should be linked.|
+|**Closed**|	These tickets are complete and are confirmed to be completed.|
+
+<br/>
+
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
 
