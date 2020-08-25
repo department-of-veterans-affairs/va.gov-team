@@ -5,9 +5,9 @@
 - Jonathan Julian (Engineering Lead)
 - Alastair Dawson (API Engineer)
 - Bridget Hapner (UX Lead)
-- Martha Wilkes
+- Martha Wilkes 
 - Ryan Thurwell
-- Steve Kovac
+- Steve Kovac (VA Product Owner)
 
 ## VFS Teams
 
