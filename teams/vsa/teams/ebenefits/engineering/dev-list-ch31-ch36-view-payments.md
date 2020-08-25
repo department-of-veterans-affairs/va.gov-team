@@ -13,8 +13,8 @@ Total = 7
 ### Front End
 - [#12829](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12829) Add logic for showing/ hiding the Static Veteran Information page based on if the user is logged in or not (5)
 - [#12830](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12830) Add logic for showing/ hiding Dependent Information and Dependent Address pages based on if user is logged in or not (5)
-- [#12424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12424)Add schema for CH36 to `vets-json-schema` repo (3)
-- [#12833](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12833)Add unit tests for CH36 schema in `vets-json-schema` repo (3)
+- [#12424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12424) Add schema for CH36 to `vets-json-schema` repo (3)
+- [#12833](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12833) Add unit tests for CH36 schema in `vets-json-schema` repo (3)
 - [#12833](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12833) Unit test static Veteran Information page (3)
 - [#12049](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12049) Unit test Veteran Information page (3)
 - [#12048](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12049) Unit test for Dependent Info page (3)
