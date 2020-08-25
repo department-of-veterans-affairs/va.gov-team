@@ -6,7 +6,7 @@ August 20, 2020
 VA Mobile App Team, MVP Mobile App
 
 # Background
-In two previous rounds of user research, we have determined that there is a Veteran desire for a VA mobile app and defined an MVP feature set in conjunction with technical discovery efforts. We have designed a high fidelity prototype of the core MVP UX, and we would like to usability test this design with Veterans. This round of research aims to assess the overall effectivness of the MVP high-fi prototype for performing common tasks and identify obstacles to finding certain features. As a secondary goal, we are open to receiving feedback on the overall perception of the app, Veterans' satisfaction with it, and their desire to download it.
+In two previous rounds of user research, we have determined that there is a Veteran desire for a VA mobile app and defined an MVP feature set in conjunction with technical discovery efforts. We have designed a high fidelity prototype of the core MVP UX, and we would like to usability test this design with Veterans. This round of research aims to assess the overall effectivness of the IA & navigation in the MVP high-fi prototype to identify obstacles to locating certain features. As a secondary goal, we are open to receiving feedback on the overall perception of the app and Veterans' satisfaction with it.
 
 
 # Goals
@@ -55,9 +55,9 @@ In two previous rounds of user research, we have determined that there is a Vete
 
 # Hypothesis 
 - The bottom toolbar navigation elements will mostly be usable and clear to Veterans
-   - "Your VA" might be unclear, or users might not expect to find Facility Locator and COVID-19 News there
+   - "Your VA" might be unclear, or users might not expect to find Facility Locator and COVID-19 News in there
 - When prompted to find App Settings, users will navigate to "Your VA" and be able to locate Settings on that screen
-- Veterans will be able to quickly and successfully find what they're looking for
+- Veterans will be able to successfully find items they're looking for
 - Veterans will use homescreen cards and list items to navigate from the homescreen more than the bottom toolbar
 - Once away from the homescreen, Veterans will use the bottom toolbar to navigate
 - There may be dissatisfaction with features that are not available in the MVP (e.g. cancelling and scheduling an appointment)
