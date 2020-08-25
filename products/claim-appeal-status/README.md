@@ -35,7 +35,7 @@ Originally this applciation was on eBenefits. The VA.gov version addressed the p
 Provide a rich "status" experience that does not leave the veteran guessing as to either when or what is next in their appeal.  Also, take advantage of any additional details available in the VBMS or Corp DB.
 
 ### Business Goals
-  - Reduce the number of calls to the call center
+  - Related to OKR/KPI, please see that section.
 
 ## Assumptions
 We have a number of initial hypotheses and assumptions about the direction the tool should take in this next iteration. This product outline is meant to capture our perspective from a "greenfield" or "blue sky" starting point. Our most basic assumptions around the direction of this product can be captured simply by:
@@ -57,6 +57,11 @@ The Claim Status Tool was launched approximately 3 years ago and only minor chan
 ## OKRs and KPIs
 Note: An attempt was made to tranfer the Google Doc table to a markdown table.  However, you cannot have different columns density and it looked very bad in markdown.  Image with link seems to work better.
 ![Image of OKRs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/readme/image.png)
+
+# Implementation Info
+
+## Status
+Update 8/25: We are reviewing the prioritized NSS list of changes. Matt Self is helping drive some discussions with DEPO on whether we are ok just removing timing info entirely (again).
 
 ## Product Decisions
 It was decided early on that there would be two paths through the CST rollout. Initially, it was thought that a few low hanging bugs would be fixed and deployed.  However, as the product discovery and initial investigation has progressed, we have received many requests to reduce issues in the existing tool. A lot of Call Center (NCC) data and IRIS data has been getting attention at the CTO and undersecretary level(s). Therefore, we have been working more of a "technical debt" initiative.
@@ -93,16 +98,6 @@ The next round of changes came after a meeting with the NCC.
 TBD after launch
 ### Recommendations
 TBD after launch
-
----
-
-# Implementation Info
-
-## Status
-
-## Technical Decisions
-
-## Product Decisions
 
 ## Team
 - VA Digital Strategist(s): Andrea Schneider
