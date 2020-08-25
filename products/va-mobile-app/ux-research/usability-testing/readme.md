@@ -6,7 +6,7 @@ Throughout the development of the VA MVP mobile app, we will conduct at least 4 
 
 | Round      | Focus Areas |
 | :----------- | :----------- |
-| 1   | Home Screen, Navigation, My VA (Profile, Direct Deposit, Letters), Settings       |
+| 1   | Claims and Appeals, Homescreen, Navigation, My VA (Profile, Direct Deposit, Letters), Settings      |
 | 2   | Authentication     |
 | 3   | Veterans Crisis Line, Appointments, Facility Locator, [re-testing of features if needed]     |
 | 4   | Claims and Appeals, Notifications, [re-testing of features if needed]     |
