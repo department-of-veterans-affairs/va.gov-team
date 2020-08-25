@@ -16,10 +16,11 @@ VFS teams can easily add surveys to their products so that they can collect dire
 - They can add surveys and survey questions that have already gone through design system and content review
 - They can add surveys and survey questions that have already gone through Paperwork Reduction Act (PRA) approval
 
-VFS teams receive accurate customer satisfaction data
+VFS teams receive accurate customer satisfaction data.
 
-VFS teams can easily and accurately compare their user satisfaction data to other products and benefit hubs in the VA.gov ecosystem and VA.gov in general
+VFS teams can easily and accurately compare their user satisfaction data to other products and benefit hubs in the VA.gov ecosystem and VA.gov in general.
 
+VFS teams can easily and accurately share their user satisfaction data to relevant stakeholders.
 
 ## Undesired User Outcomes
 - VFSs each have unique and different survey intercepts and questions; VA.gov users are bombarded and confused by varying experiences throughout VA.gov
