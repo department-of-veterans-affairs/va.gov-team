@@ -17,7 +17,7 @@ This is WIP and may evolve based on user research and technical findings.
 - **Optional: H2 section header**
 - [**Required: Body - content type template**](#specific-lc-content-template-types) (FAQ single, FAQs multiple, Checklist, Step-by-step, About, Image/Video, etc.)
 - **Optional: Repeat same CTA button(s)** – Example: User can omit repeat if page is short as in a single FAQ page
-- **Required: [Need more help?](#need-more-help?-section)** - This section includes contact info based on administration or hub.
+- **Required: [Need more help?](#need-more-help-section)** - This section includes contact info based on administration or hub.
 - **Required: Was this helpful** - Backend functionality is still TBD and may not go out with October/Nov MVP. The user action could get collected to Google Analytics - possibly other ideas.
 - **Required: Related information** - Custom section can include up to 5 related article links. The link can go to a LC page, a deep benefit detail page, or external. 
 - **Required: A dedicated VA benefit hub link section {label TBD}:** Minimum 1 benefit hub cross-link required. The default hub link will be Health Care; the author can change this to any other benefit hub link. Only benefit hub link+teasers will be enabled on this component. Up to 3 benefit hubs can be selected. 
