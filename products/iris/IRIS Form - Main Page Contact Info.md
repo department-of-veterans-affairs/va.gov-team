@@ -1,17 +1,19 @@
-# IRIS Form - Main Page
+# IRIS Form - Main Page, Contact Info
 
 Relevant links: 
 - Invision prototype [Desktop]()  | [Mobile]()  - Coming soon.  Please see the story for wireframes
 - [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/68)
 
-### Description 
+### Description  - TO DO
 Give a brief description of this page and what it does
 
-### Interaction Notes 
+This page will be the main Contact Us form with contact information.
+
+### Interaction Notes  - TO DO
 - Notes like where certain buttons should go
 - Or how widgets should perform would go here
 
-### Content
+### Content - TO DO
 
 Start with [a content page like this]() and edit as needed
 
