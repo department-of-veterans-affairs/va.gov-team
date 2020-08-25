@@ -3,11 +3,11 @@ Ascertain remiaining tasks for these features
 ## Chapter 36 (Deadline October 26)
 Based on mean velocities from the past 10 sprints or so, FE and BE can be completed by September 22 (Sprint 30)
 ### Product
-- Request formal 508 audit (1)
-- Load TestRail (2)
-- Request QA Audit (1)
-- Staging Review (1)
-- Privacy and Security Audit (2)
+- Request formal 508 audit (1)  
+- Load TestRail (2)  
+- Request QA Audit (1)  
+- Staging Review (1)  
+- Privacy and Security Audit (2)  
 Total = 7
 
 ### Front End
@@ -28,7 +28,7 @@ Total = 7
 - Meet with Analytics team to get GA events for chapter 36 form (1)
 - Add GA events to form (3)
 - Perform internal accessibility audit (2)
-Total = 50
+Total = 50  
 2 Sprints should be doable
 
 ### Backend
