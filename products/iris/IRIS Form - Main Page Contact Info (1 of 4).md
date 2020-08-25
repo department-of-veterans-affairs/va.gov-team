@@ -4,22 +4,25 @@ Relevant links:
 - Invision prototype [Desktop]()  | [Mobile]()  - Coming soon.  Please see the story for wireframes
 - [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/68)
 
-### Description  - TO DO
-Give a brief description of this page and what it does
+### Description
+This page will be the main Contact Us form that will allow users to include their contact information, and will allow the VA to understand who is contacting them and why.
 
-This page will be the main Contact Us form with contact information.
+### Interaction Notes
 
-### Interaction Notes  - TO DO
-- Notes like where certain buttons should go
-- Or how widgets should perform would go here
+- The main way of interaction on this page is via a series of drop down menu boxes that follow the VA standards for contact information (name, addres etc.)
+- There is conditional logic tied to role - so that if a user selects they are a beneficiary of a Veteran, for example, they will indicate more about the type of relationship they have to the Veteran
+- Standard VA form calls to action (buttons at the bottom allowing users to go back of forward) are included.
 
 ### Content - TO DO
 
-Start with [a content page like this]() and edit as needed
+The two main pages of the Contact Us form - the Contact Us page and the Inquiry Details page) - are different lengths, but I believe it makes sense to keep these separate pages, even one is very long and one isn't.  Since most of these are standard contact us (name, address etc.) this should be fairly easy for people to fill out; we should ensure conditional logic (selecting beneficiary triggers another drop down) is well understood, especially the copy.
 
 ```
 # Title of page
 ## Example of h2 (h3 utility)
 Example content 
-[Primary button] Click here to start application 
+
+Calls to action:
+[Primary button] Submit
+[Secondary button] Back
 ```
