@@ -1,34 +1,38 @@
-# Handling Edge Cases in the Design System Governance Process
+# Handling edge cases in the Design System Governance Process
 
-Most of the time, this is the happy path flow for a VFS team who wants to create a new pattern or adjust an existing pattern for their solution to better meet the needs of their users:
+The Design System Governance Process is based on a happy path flow for VFS teams to request a new pattern or adjust an existing pattern. This happy path does not always accomodate certain VFS team edge case scenarios. We're not currently prioritizing Design System and Forms Library improvements that would prevent these edge cases. This document explains how we handle edge cases based on whether the required changes are launch-blocking and their impact to other teams or features.
 
+## Overview of happy path to submit new/adjust an existing pattern
+This is the happy path flow for a VFS team that wants to create a new pattern or adjust an existing pattern for their solution to better meet the needs of their users:
 1. Draft new/adjusted pattern
-1. Get new/adjusted pattern approved through design reviews in the collaboration cycle
+1. Get new/adjusted pattern approved through design reviews in the Collaboration Cycle
 1. Use that new/adjusted pattern in the isolated code for the feature
 1. Submit a proposal for a new/adjusted pattern to the [Design System Governance Process board](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/projects/3)
-1. That's it! VSP will work through the backlog to take the proposed new/adjusted pattern and transform it into re-usable code in the Design System
 
-In that happy path ^ scenario, we should as a result never see un-approved pattern additions or changes to the Design System. However, the problem is that sometimes for step 3, it's impossible for a VFS team to just make the change in their isolated code for their feature.
+That's it! VSP works through the backlog and transforms proposed new/adjusted patterns into re-usable code in the Design System. 
 
-- Example 1: sometimes the code changes have to be made directly in the forms library for it to render for that feature
-- Example 2: sometimes the feature itself is a global element stored only in the design system
+## Edge cases not accounted for in the happy path
 
-There may be an ideal state of Design System and its forms library element that might prevent these edge cases from occuring. But, we're not prioritizing discovery or implementation around that yet. So...
+Edge cases arise when, in step 3 of the happy path, teams can't isolate the required changes in their code.
 
-## For now, how do we handle these edge cases?
+- Example 1: code changes that must made directly in the forms library for it to render for that feature
+- Example 2: the feature is a global element stored only in the design system
 
-When a VFS team has a new/adjusted pattern approved through the collaboration cycle, and in order to effect that change for their feature they have to make changes to code housed in the Design System, we first determine w/the VFS team whether the change they're asking for is a launch blocker for them
 
-### For desired changes that are launch-blocking
-**If it would impact multiple features/teams**, then follow Path A: the VFS team can't launch until this gets reviewed by the design system council
-- For example: forms library changes, buttons, error messaging
+## Edge case governance process
 
-**If it would not impact multiple features/teams**, then follow Path B: the VFS team can change the code, submit a ticket in the Proposals column w/the "code new" label, and the design system council will review it later
-- For example: global elements like the header
+### For changes that are launch-blocking
+**If the change impacts multiple features/teams:** \
+The VFS team can't launch until this gets reviewed by the design system council.
+- Example: forms library changes, buttons, error messaging
 
-### For desired changes that are not launch-blocking
-Follow Path C: the VFS team can't change the code, but should submit a ticket in the Proposals column w/the appropriate label, and the design system council will review it later
-- For example: minor visual bugs
+**If the change does not impact multiple features/teams:** \
+The VFS team can change the code. [Submit a ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/projects/3) in the Proposals column with the `code new` label and the design system council will review the request when it is prioritized.
+- Example: global elements like the header
+
+### For changes that are not launch-blocking
+The VFS team can't change the code, but should [submit a ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/projects/3) in the Proposals column w/the appropriate label. The design system council will review the request when it is prioritized.
+- Example: minor visual bugs
 
 ### Escalation path for decision-making
-Use VSP team member judgement, and escalate to any VSP DEPO lead if a decision is needed on the correct path to pursue.
+For assistance in deciding on the best solution, escalate to any VSP DEPO lead.
