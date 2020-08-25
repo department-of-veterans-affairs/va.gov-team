@@ -30,6 +30,17 @@
 8/26/2020 - 9/8/2020
 - [Milestone 292](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/292)
 
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| Stakeholder Interviews & Paper 	 	| Blocked |  #11037	|
+| 	 	| -- | #11936 | 
+| [UI] Demographics and This Visit mocks complete   	| -- | #12259 & #12280|
+| [FE] Demographics and Confirmation| -- | #12257 & |
+| [BE] Reason for Visit data Integration | -- | #12285 |
+| [BE] Questionnaire Trigger Service | -- |  |
+| [BE] Appt Details Service | -- |  |
+| [BE] Appt Details Service | -- |  |
+
 ## Sprint 28 - Visit Into Design & Dev Start
 8/12/2020 - 8/25/2020
 - [Milestone 288](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/288)
