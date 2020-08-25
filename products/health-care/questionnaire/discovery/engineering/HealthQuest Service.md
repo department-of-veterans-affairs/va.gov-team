@@ -8,6 +8,8 @@ It currently has these characteristics
 - It has mocked tests that are only available to the testing framework
 - For the service to connect to actual VAMF (MAP) endpoints, it has to use the VAMF staging environment
 - The service needs to be in the main branch on vets-api and not in a seperate branch
+- Currently, the service only has appointment endpoints.
+- PGD related endpoint will be added eventually, although possibly the PGD could be accessed using a fhir client for research purposes if that is allowed. 
 
 #### Redis
 
