@@ -2,7 +2,28 @@
 
 ## Chapter 31
 
-- 
+<details><summary>Front End</summary>
+<p>
+  
+
+</p>
+</details>
+
+<details><summary>Back End</summary>
+<p>
+  
+- test central mail integration  
+  
+- Set up the controller
+  
+- Set up the model
+
+- Set up a sidekiq job
+
+- Set up sentry events
+
+</p>
+</details>
 
 ## Chapter 36
 
