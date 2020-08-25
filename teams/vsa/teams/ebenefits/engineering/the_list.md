@@ -2,17 +2,12 @@
 
 ## Chapter 31
 
-<details><summary>Front End</summary>
-<p>
-  
+### Front End
 
-</p>
-</details>
 
-<details><summary>Back End</summary>
-<p>
-  
-- test central mail integration  
+### Back End
+ 
+- test EVSS connection  
   
 - Set up the controller
   
@@ -22,15 +17,10 @@
 
 - Set up sentry events
 
-</p>
-</details>
 
 ## Chapter 36
 
 ### Front End
-
-<details><summary>Front End</summary>
-<p>
   
 - Add logic for showing/ hiding the Static Veteran Information page based on if the user is logged in or not
 
@@ -67,12 +57,9 @@
 - Perform internal accessibility audit
 
 - Get a 508 review of the chapter 36 form
-</p>
-</details>
 
 
-<details><summary>Back End</summary>
-<p>
+### Back End
   
 - test central mail integration  
   
@@ -84,7 +71,6 @@
 
 - Set up sentry events
 
-</p>
-</details>
+
 
 
