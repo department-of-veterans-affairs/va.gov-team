@@ -54,11 +54,11 @@ Tickets outside a sprint include:
 ### Design
 - **Anticipated decisions:** Final information architecture, Final service blueprint, Final UX of app navigation ([see doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/ux-decisions.md#1-we-think-we-should-use-a-bottom-toolbar-and-we-have-designed-a-navigation-ui))
 - **Decision maker:** 
+
 ### Technical
 - **Anticipated decisions:** Confirmation of React Native for MVP, Confirmation of SSOe for OAuth
 - **Decision maker:**
 
-- Decision maker: 
 ### Product
 - **Anticipated decisions:** Release cadence, When to release, What should be included in the first release
 - **Decision maker:** Steve
