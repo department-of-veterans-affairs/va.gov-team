@@ -83,7 +83,7 @@ Pacts are currently only required for new endpoints or changes to endpoints. The
 ------
 
 ## Broker
-The Pact broker is currently hosted on [Heroku](https://vagov-pact-broker.herokuapp.com/). A local broker can also be configured for development purposes (see [example setup instructions](https://hackmd.io/2KMv4yM5TwOqWE3do7iBUw#PACT-example) below)
+The Pact broker is currently hosted on [Heroku](https://vagov-pact-broker.herokuapp.com/).
 
 
 ## Implementation details
@@ -94,26 +94,7 @@ Pact is language agnostic and has packages for both Node.js and Ruby, so both `v
 Contract testing process workflow details: [Workflow details](https://github.com/department-of-veterans-affairs/va.gov-team/pull/8073/files#diff-f2abf33f91ea32d2168228610ba56d37R78)
 
 
-## Pact example
-
-Follow the setup instructions [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/3a8f4953b5e77edcbd39fd3db073232cdaca0ea0/teams/vsp/teams/tools/frontend/2019-11-13-consumer-driven-contract-testing-with-pact.md#steps-to-run-example)
-
-#### Additional Backend changes:
-
-Make the following additions/changes to `config/test.yml` if following the docker workflow. (Do not commit these changes). **If following the native flow, remove this setting from test.yml.**
-
-```
-test_database_url: postgis://postgres:password@postgres:5432/vets_api_test
-```
-
-### Makefile Shortcut
-A pact makefile shortcut `make pact` can be run as an alternative to the docker-compose or native pact rake task flow by using docker-compose under the hood. Again, remember to configure the above settings in test.yml if following the docker workflow.
-
-### Local json Files
-
-To speed up development workflow on the backend, the pact helper can be configured to point to a local file, however, on a real project with a continuous integration  box, you would use a [Pact Broker](https://github.com/pact-foundation/pact_broker). See [details](https://hackmd.io/2KMv4yM5TwOqWE3do7iBUw#How-to-use-a-local-file-if-blocked-by-frontend)
-
-### More on Provider States
+### Provider States
 Provider states allow the consumer to define a state in which the provider should be in when making making a request. (eg. response codes, data, etc). Provider states define the state of the provider and how it will handle a response given it's current state and the data that should exist.
 
 ------
