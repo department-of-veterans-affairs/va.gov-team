@@ -71,6 +71,12 @@ Spring-Summer 2020
 - The FL team has gotten feedback that the map is not as useful on mobile as desktop, it's something we can maybe consider removing, especially since we are offering a CTA to the user's default maps app.
 - From user research, we know that a facility's phone numbers and directions are two hugely valuable items.
 
+#### Next Steps
+- Determine all the APIs Facility Locator uses today to surface facilities, including Community Care and Urgent Care
+- Talk to Michelle about stats / review stats on how people use Facility Locator 
+- Investigate if there is 1 use case we can lean into for the MVP 
+
+
 
 ## Profile / General / Logged In Homepage
 1. Direct deposit is a highly searched feature on VA.gov and something Veterans see as fitting into Profile.
