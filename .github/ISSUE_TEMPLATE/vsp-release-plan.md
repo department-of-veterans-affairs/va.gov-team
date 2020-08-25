@@ -2,7 +2,7 @@ name: VSP Initiative Release Plan Template (Draft)
 
 about: Release plan template for VSP products.
 
-title: "[Initiative-Name]: Release Plan"
+title: [Initiative-Name]: Release Plan
 
 ---
 
@@ -24,31 +24,22 @@ _Fill out the **Planning** sections to start, then the **Results** sections as y
 - The group(s) from which you'll recruit test users: VFS/VSP/DEPO
 - How you'll recruit test users: lorem ipsum
 - How you'll give test users access to the product: lorem ipsum
-- What "Success" criteria will you look at before launch? [refer to the KPIs in your prdouct outline]
+- What "Success" criteria will you look at before launch? [refer to the desired outcomes and KPIs in your prdouct outline]
 - How you'll measure your "Success" criteria? lorem ipsum
 
 ### Results:
 
-- Number of users: 	
+- Number of users: x 	
 
-- Results for your "success criteria":
+- Results per your "Success" criteria:
 
 - Number of bugs identified / fixed: x/x
 
 - Any UX changes necessary based on the logs, user feedback, or VA challenges? yes/no
 
-  - If yes, what:   
+  - If yes, what: lorem ipsum  
 
 ## Phase II: Go Live!
-
-### Launch communications:
-
-- [ ] Product documentation
-  - Product README
-  - User Guide 
-- [ ] Release announcements
-  - Newsletter article - collaborate with the Service Design team
-  - Team of Teams and other VFS/VSP meetings
 
 ### Planning:
 
