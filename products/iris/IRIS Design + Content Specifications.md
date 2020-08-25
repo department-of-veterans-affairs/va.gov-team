@@ -34,3 +34,8 @@ Documentation containing descriptions, interaction notes, and content for each c
 REFERENCE TO USE: 
 
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/49d19a3db2cf8ace47c6df06f95b828eaac73463/teams/vsa/design/getting-started-with-va.gov-forms.md#the-main-form-pages
+
+
+QUESTIONS TO INCORPORATE
+
+https://docs.google.com/document/d/1QApRuQix90wUjGpzXBtnYTMJsqTLM_vTQLN5XZ2O7eQ/edit
