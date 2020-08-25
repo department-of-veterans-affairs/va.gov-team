@@ -17,21 +17,29 @@ Since the mobile app MVP is replicating functionality that exists on VA.gov toda
 - [Claims Status Tool](https://github.com/department-of-veterans-affairs/va.gov-team/blob/ca2514e624dcf5b245cf662f17839c6c5cee69f0/products/claim-appeal-status/README.md): Overlap with mobile **Claims** features, including the ability to view claims in detail and push notification updates for changes to claim status
 
 ## Workflow and Processes
-### Standup
-- Sprint team: M, T, W, Th, at 1:30 EST and Slack Up on Friday
-- 30 min
-- M/W we review the board, T/Th we provide updates
-- Board should be filtered to va-mobile-app
+
+### VA Stakeholder Meetings
+- **Design:** 2x a week w/ Martha, Ryan and Steve if available 
+- **Engineering:** 1x a week w/ Steve (possibly another VA engineering lead?)
+- **Product:** 1x a week w/ Steve
+
+
+### Agile ceremonies - Starting Sept 1
+- **Daily standup:** M, T, W, Th, at 1:30 EST and Slack Up on Friday; M/W we review the board, T/Th we provide updates
+- **Sprint planning:** Every other W at 1:30 EST
+- **Grooming:** As needed
+- **Demo:** Every other Tues
+- **Retro:** Every other Tues
 
 ### Cadence with VFS teams
-- VAOS: TBD
-- Profile/Logged-in Homepage team: biweekly and async through [va-mobile-app](https://dsva.slack.com/archives/C018V2JCWRJ) and [vsa-authd-exp](https://dsva.slack.com/archives/C909ZG2BB) channels
-- Claims Status Tool: TBD
+- **VAOS:** TBD
+- **Profile/Logged-in Homepage team:** biweekly and async through [va-mobile-app](https://dsva.slack.com/archives/C018V2JCWRJ) and [vsa-authd-exp](https://dsva.slack.com/archives/C909ZG2BB) channels
+- **Claims Status Tool:** TBD
 
 ### Zenhub Pipeline Ettiquete
-- Board: VFS 
-- Workspace: VA Mobile App
-- Label: va-mobile-app
+- **Board:** VFS 
+- **Workspace:** VA Mobile App
+- **Label:** va-mobile-app
 
 Tickets in a sprint include:
 - In progress
@@ -44,14 +52,16 @@ Tickets outside a sprint include:
 
 ## Upcoming Key Decisions
 ### Design
-- Anticipated decisions: Final information architecture, Final service blueprint, Final UX of app navigation ([see doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/ux-decisions.md#1-we-think-we-should-use-a-bottom-toolbar-and-we-have-designed-a-navigation-ui))
-- Decision maker: 
+- **Anticipated decisions:** Final information architecture, Final service blueprint, Final UX of app navigation ([see doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/ux-decisions.md#1-we-think-we-should-use-a-bottom-toolbar-and-we-have-designed-a-navigation-ui))
+- **Decision maker:** 
 ### Technical
-- Anticipated decisions:
+- **Anticipated decisions:** Confirmation of React Native for MVP, Confirmation of SSOe for OAuth
+- **Decision maker:**
+
 - Decision maker: 
 ### Product
-- Anticipated decisions: Release cadence, When to release, What should be included in the first release
-- Decision maker:
+- **Anticipated decisions:** Release cadence, When to release, What should be included in the first release
+- **Decision maker:** Steve
 
 
 ## Logistics
