@@ -1,6 +1,7 @@
 # Development Tasks for CH31, CH36, View Payments
 Ascertain remiaining tasks for these features  
 ## Chapter 36 (Deadline October 26)
+Based on mean velocities from the past 10 sprints or so, FE and BE can be completed by September 22 (Sprint 30)
 ### Product
 - Request formal 508 audit (1)
 - Load TestRail (2)
@@ -28,15 +29,17 @@ Total = 7
 - Add GA events to form (3)
 - Perform internal accessibility audit (2)
 Total = 50
+2 Sprints should be doable
 
-### Back End
+### Backend
 - Test central mail integration (3)
 - Set up the controller (3)
 - Set up the model (5)
 - Set up a sidekiq job  (3)
 - Set up sentry events  (5)
 - Test submission against environment (5)
-Total - 24
+Total = 24
+2 Sprints should be doable
 
 ## View my VA payment history
 ### Product
@@ -113,13 +116,13 @@ Total = 41
 - Set up sentry events  (5)
 - Test submission against environment (5)
 Total = 29 - 34
-
-Product Subtotal (21)
-FE Subtotal (128)
-BE Subtotal (79-84)
-
-Mean FE Velocity/sprint []
-Mean BE Velocity/sprint []
+  
+Product Subtotal (21)  
+FE Subtotal (128)  
+BE Subtotal (79-84)  
+  
+Mean FE Velocity/sprint [30 points across 9 issues]  
+Mean BE Velocity/sprint [21 points across 7 issues]  
 
 Sprint 29 (August 26 - September 8)
 
