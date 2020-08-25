@@ -1,14 +1,10 @@
 # List of things for chapter 31 and chapter 36
 
 ## Chapter 31
-
 ### Front End
 
-
 ### Back End
- 
 ** Depending on what turns up from EVSS spike ** 
-  
 - Set up the controller
   
 - Set up the model
@@ -19,7 +15,6 @@
 
 
 ## Chapter 36
-
 ### Front End
   
 - Add logic for showing/ hiding the Static Veteran Information page based on if the user is logged in or not
@@ -60,7 +55,6 @@
 
 
 ### Back End
-  
 - test central mail integration  
   
 - Set up the controller
@@ -71,6 +65,10 @@
 
 - Set up sentry events
 
+## View my VA payment history
+### Frontend
+
+### Backend
 
 
 
