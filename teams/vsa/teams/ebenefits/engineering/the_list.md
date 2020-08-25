@@ -7,7 +7,7 @@
 
 ### Back End
  
-- test EVSS connection  
+** Depending on what turns up from EVSS spike ** 
   
 - Set up the controller
   
