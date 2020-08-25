@@ -97,6 +97,9 @@ Contract testing process workflow details: [Workflow details](https://github.com
 ### Provider States
 Provider states allow the consumer to define a state in which the provider should be in when making making a request. (eg. response codes, data, etc). Provider states define the state of the provider and how it will handle a response given it's current state and the data that should exist.
 
+### Pact Helper
+The pacts that will be verified by the pact:verify task are configured in the `pact_helper.rb` file in your provider codebase. Currently, the pact_helper implements rspec and pact configurations as well as git_sha and git_branch tagging for the consumer and provider in the broker. 
+
 ------
 
 ## Pact Setup
