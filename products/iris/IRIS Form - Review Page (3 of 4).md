@@ -3,25 +3,28 @@ Relevant links:
 - Invision prototype [Desktop]()  | [Mobile]()  - Coming soon.  Please see the story for wireframes
 - [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/68)
 
-### Description  - TO DO
-Give a brief description of this page and what it does
+### Description
+This page will allow users to review their submission, and as necessary edit the form before submitting it.
 
-### Interaction Notes  - TO DO
-- Notes like where certain buttons should go
-- Or how widgets should perform would go here
+### Interaction Notes
 
-
-This uses the VA standard on accordian buttons
+- This page consists primarily of accordions the user can expand to view and edit the data they have entered.  Upon clicking on the 'edit' button, the user can add edit or delete content, save it and eventually submit the form.
 
 
-### Content - TO DO
+### Content
 
-Start with [a content page like this]() and edit as needed
+The accordian follows the content in the pages previous - a contact us section (with information about the users) and an inquiry section (with information about the inquiry)
 
 ```
-# Title of page
-## Example of h2 (h3 utility)
-Example content 
-[Primary button] Click here to start application 
-```
+# Review your message
+## Who you are accordian
 
+##Why you're contacting us accordian
+- Type of Inquiry
+- Topic
+- Text field
+
+Calls to action:
+[Primary button] Submit
+[Secondary button] Back
+[Secondary button] Edit (in accordian drop down)
