@@ -21,6 +21,7 @@ In two previous rounds of user research, we have determined that there is a Vete
   - Identify obstances to locating Facility Locator
   - Identify obstacles to using the toolbar navigation to navigate the app's features
   - Identify obstacles to using home screen cards and list items to navigate the app's features
+  - Identify obstacles to using iOS segmented contols to navigate within Claims and Appointments
 - **Assess Veteran perception of the MVP app overall**
   - Determine if participants are satisfied or unsatisfied with MVP app features
 
