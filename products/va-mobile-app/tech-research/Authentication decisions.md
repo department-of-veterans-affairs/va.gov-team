@@ -4,9 +4,10 @@
 The mobile app team needs three decisions to proceed with the authentication work. Below we have outlined the three decisions, some context around each and provided a recommendation. 
 
 ## Background
-VA is using OAuth to authenticate users when they login to the app. OAuth is often also used to authenticate third-party apps, so many of the standards aren’t directly applicable to our use case. For example, when Veterans authorize Apple Health to access their VA data, then it makes sense to ask for consent, and allow for a long period of time before re-authorization using login and password. Whereas if a user is logging directly into their Apple Health account, that does not make sense.
+The mobile app will use SSOe OAuth to authenticate users into the app. OAuth is often used to authenticate third-party apps, so many of the standards aren’t directly applicable to our use case. For example, when Veterans authorize Apple Health to access their VA data, then it makes sense to ask for consent, and allow for a long period of time before re-authorization using login and password. Whereas if a user is logging directly into their Apple Health account, that does not make sense.
 
-OIT has set standards for OAuth, however their standards are web-based and the VA mobile app is a new use case. In particular, mobile apps allow for biometric authentication, which protects the credentials on the device in secure storage. This new use case is more similar to a banking app, in which you login in once per year using your credentials and thereafter can use biometric authentication. 
+[OIT has set standards](https://www.oit.va.gov/library/recurring/edp/) for OAuth, however their standards are web-based and the VA mobile app is a new use case. In particular, mobile apps allow for biometric authentication, which protects the credentials on the device in secure storage. This new use case is more similar to a banking app, in which you login in once per year using your credentials and thereafter can use biometric authentication. 
+
 
 ## Decision 1: Refresh token expiration 
 ### *How long should a user be able to login using biometrics before they have to re-enter their VA login information (Username + Password)?*
