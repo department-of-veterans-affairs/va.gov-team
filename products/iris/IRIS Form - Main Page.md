@@ -1,8 +1,8 @@
 # IRIS Form - Main Page
 
 Relevant links: 
-- Invision prototype [Desktop]()  | [Mobile]()  
-- [Github issue]()
+- Invision prototype [Desktop]()  | [Mobile]()  - Coming soon.  Please see the story for wireframes
+- [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/68)
 
 ### Description 
 Give a brief description of this page and what it does
