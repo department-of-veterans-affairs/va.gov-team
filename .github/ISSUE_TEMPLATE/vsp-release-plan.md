@@ -19,16 +19,13 @@ _Fill out the **Planning** sections to start, then the **Results** sections as y
 
 ### Planning:
 
-- Desired date range or test duration: 
-- Desired number of users: 
-- The group(s) from which you'll recruit test users:
-  - [ ] VFS
-  - [ ] VSP
-  - [ ] DEPO
-- How you'll recruit test users:
-- How you'll give test users access to the product: 
-- What metrics-based "success criteria" will you look at before launch? [use your KPIs to help guide this.]
-- How you'll measure your "success criteria": 
+- Desired date range or test duration: [date - date] or [duration] 
+- Desired number of users: x
+- The group(s) from which you'll recruit test users: VFS/VSP/DEPO
+- How you'll recruit test users: lorem ipsum
+- How you'll give test users access to the product: lorem ipsum
+- What "Success" criteria will you look at before launch? [refer to the KPIs in your prdouct outline]
+- How you'll measure your "Success" criteria? lorem ipsum
 
 ### Results:
 
