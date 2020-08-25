@@ -17,6 +17,9 @@ This page will be the main Contact Us form that will allow users to include thei
 
 The two main pages of the Contact Us form - the Contact Us page and the Inquiry Details page) - are different lengths, but I believe it makes sense to keep these separate pages, even one is very long and one isn't.  Since most of these are standard contact us (name, address etc.) this should be fairly easy for people to fill out; we should ensure conditional logic (selecting beneficiary triggers another drop down) is well understood, especially the copy.
 
+
+We'e working with stakeholders from the IRIS Interface, GI Bill, and MHV and will be interating with the fields as the stories evolve.
+
 ```
 # Title of page
 ## Example of h2 (h3 utility)
