@@ -51,9 +51,25 @@ Spring-Summer 2020
 
 
 ## Facility Locator
-- Veterans use Facility Locator mainly to find facilities in a new place that they may be going to for the first time. 
-- According to March 2020 research, people are more likely to utilize the Facility Locator to research locations. Participants want to use the tool to scope out the offerings in an unfamiliar area. 
+**Use Cases**
+- A big use case for Veterans using Facility Locator is to find facilities in a new place that they may be going to for the first time. 
+    - According to March 2020 research, people are more likely to utilize the Facility Locator to research locations. Participants want to use the tool to scope out the offerings in an unfamiliar area. 
+- In recent Mobile Month research on the VSA team, when prompted to get a COVID test, Vets did not turn to Facility Locator first to do this, instead they looked in health care. There's a disconnect between seeking care and turning to Facility Locator to find a place to do that.
+- The FL team may be adding pharmacies soon for flu shots. 
+
+**Filtering**
+- Today, users have to select a faility type and service type. Often Vets don't know what some of the facility types mean.
+- The Facility Locator used to default to VA Health Care as a Facility Type, but recently switched to having no default value to help aid in the discoverability of Urgent Care facilities.
+- Distance is the #1 for a lot of Vets when searching for a facility.
 - According to March 2020 reseach, urban residents were more likely to scroll through results as they received more listings. Rural residents interacted with the top few listings shown and expected that other listings would be too far away. 
+
+
+**General**
+- Although Facility Locator ranks highly in VA.gov stats, it's generally not well known in research sessions.
+- Community Care is in Facility Locator, and Urgent Care facilities are part of Community Care. We should investigate if Urgent and CC facilities are in the Facilities API. 
+- We should investigate stats about Facility Locator to determine if there's a single use case we can feature for the MVP (e.g. finding a urgent care facility, finding a pharmacy for a flu shot). 
+- The FL team has gotten feedback that the map is not as useful on mobile as desktop, it's something we can maybe consider removing, especially since we are offering a CTA to the user's default maps app.
+- From user research, we know that a facility's phone numbers and directions are two hugely valuable items.
 
 
 ## Profile / General / Logged In Homepage
