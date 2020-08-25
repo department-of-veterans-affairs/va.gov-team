@@ -49,6 +49,28 @@ hqva_mobile:
 This means that the settings for staging and production will also need to be altered. They are not in the github code since they are environment specfic. 
 The above settings are from the dev environment which is why they look fake. The dev environment has no access to VAMF (MAP) in actuality
 
+#### StatsD
+
+These keys for StatsD() have been added where in VAOS they where something else. We need to find out if that will all work transparently
+
+api.health_quest
+api.health_quest.fhir
+
+
+#### Search code for VAOS related carry overs
+
+```
+find modules/health_quest -name "*.rb" -exec grep -i vaos {} \; -print
+find modules/health_quest -name "*.rb" -exec grep -i va_mobile {} \; -print
+find modules/health_quest -name "*.rb" -exec grep -i statsd {} \; -print
+```
+
+A few notes added using my initials
+```
+find modules/health_quest -name "*.rb" -exec grep -i ljg {} \; -print
+```
+
+
 
 
 
