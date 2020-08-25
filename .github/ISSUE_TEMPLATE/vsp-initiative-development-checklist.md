@@ -54,9 +54,9 @@ _Keep in mind the distinction between **Product** and **Initiative** --- each Pr
 
 - [ ] _(if applicable)_ This change has clearly-defined success metrics, with instrumentation of those analytics where possible, or a reason documented for skipping it.
     * For help, see: [Analytics team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/analytics)
-- [ ] Phased, data-informed [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) (_TODO: plan template still WIP_) is complete
+- [ ] This change has an accompanying [VSP Initiative Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose).
 
 ### Required Artifacts
 
 * **Success metrics**: _link to where success metrics are measured, or where they're defined (Product Outline is OK), or provide reason for skipping_
-* **Release plan**: _link to Release Plan_
+* **Release plan**: _link to Release Plan ticket_
