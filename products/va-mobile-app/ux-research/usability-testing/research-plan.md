@@ -47,6 +47,9 @@ In two previous rounds of user research, we have determined that there is a Vete
 
 # Method
 
+## Pre-testing arrangements
+We ask for Perigean's help ensuring that all participants have downloaded Zoom onto their mobile device prior to testing. 
+
 ## What method of research are you planning?
 Remote user interviews with 6-8 of Veterans over the course of 1 week. Each of these interviews will be moderated and conducted remotely using Zoom. The sessions will be led by targeted tasks and flows that lightly cover the prototype overall, but will focus on the areas of: 
 1. Homescreen
@@ -68,6 +71,7 @@ We will use the Perigean zoom account. We will ask participants to join the Zoom
 ## Participants and Recruitment
 - We would like to interview 6-8 Veterans. Participant criteria: 
   - All participants must be Veterans
+  - All participants must be iOS users, not Android users. They must be using an iOS mobile device for this usability test. 
   - Participant pool should be diverse in:
     - Branch of service
     - Gender 
