@@ -313,10 +313,8 @@ Specs - not including the basic requirements on all LC pages:
 
 ## Need more help? section
 
-__Administration and benefit hub rubric for the Need more help component:__
+__This section includes the approved contact us phone numbers and email. It will also be where we link to the chatbot and to the IRIS replacement web email form (TBD work in progress with another team).__
 
-- Primary benefit hub: Default ph#s and contact emails will be pulled from the primary benefit hub's "Ask Questions" right rail component. 
-- If no benefit hub is selected, the Administration defaults for Facebook, Twitter, and the VA311 phone # will be displayed.
-- If no Administration or primary benefit hub -- for example for VA account/profile articles - display the VA311 ph #.
-- Content authors can add additional contact info number or email. 
-- This component may also include the IRIS web form link and chatbot link.
+- Default contact us values will be the generic VA Help Desk VA311 phone #. 
+- Authors can change the default by selecting one of the contact us set of info for a benefit hub. This will pull in info from the selected benefit hub's "Ask Questions" right rail component. 
+- Content authors can add one more custom contact info number or email - just one.
