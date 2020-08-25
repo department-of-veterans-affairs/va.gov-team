@@ -54,6 +54,10 @@ In work but essentially we are taking a "greenfield" approach to see what is pos
 ## Value Propositions
 The Claim Status Tool was launched approximately 3 years ago and only minor changes have been done since. The claim status tool is a priority to improve, as it is used frequently by millions of veterans (it is not uncommon for veterans to check their claim status several times a week). We see this as an opportunity to create a great user experience for veterans using and depending on this tool. Very little research has been done on the claim status tool. What has been done is shared here: [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status)
 
+## OKRs and KPIs
+Note: An attempt was made to tranfer the Google Doc table to a markdown table.  However, you cannot have different columns density and it looked very bad in markdown.  Image with link seems to work better.
+
+
 
 ## KPIs
   - Call Center events
