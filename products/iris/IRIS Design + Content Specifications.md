@@ -1,22 +1,18 @@
 # IRIS Design + Content Specifications 
 
-[Product Outline]()
+[Product Outline]() - TO DO
 
-## High Level Flow Diagram - TO DO
+## High Level Flow Diagram
  
-Put any high-level artifacts here that would help developers understand the overall flow.
+The developers are working with the VA Form Builder for the flow, which should follow the basics of the form, review form and confirmation flow.
 
-The developers are working with the VA Form
 
-### Global Notes
-
+### Global Notes TO DO
+ 
 Put notes here about interactions or content that apply globally
 
 
-
-
-
-## Per Page Specifications
+## Per Page Specifications TO DO
 The most updated version of the full prototype can be viewed [here]().
 
 Documentation containing descriptions, interaction notes, and content for each chapter's pages can be found here.
