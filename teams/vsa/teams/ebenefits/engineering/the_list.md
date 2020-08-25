@@ -4,7 +4,11 @@
 ### Front End
 
 ### Back End
-** Depending on what turns up from EVSS spike ** 
+**Using EVSS**
+
+**Using VRE API**
+
+**Regardless of lower environment**
 - Set up the controller
   
 - Set up the model
