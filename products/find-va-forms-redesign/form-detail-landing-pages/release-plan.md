@@ -6,7 +6,9 @@
 
 ### Planning:
 
-- **Desired date range or test duration:**
+- **Date range:**
+  - Starting ~08/26/2020
+- **Test duration:**
   - 5 business days
 - **Desired number of users:** 
   - 10
@@ -71,12 +73,9 @@ This product does not need a staged rollout, per above criteria, but we have dec
 - interconnectedness with forms search and Lighthouse API, and 
 - dependency on Transformer/node capacity.
 
-
-
-
 ### Planning
 
-- Desired date range: _\[mm/dd/yy - mm/dd/yy\]_
+- Date range: 08/31/2020-09/07/2020
 
 - **How will you make the product available in production while limiting the number of users who can find/access it:** 
   - We will do a 'hidden' launch, no-index and no redirects of the legacy form detail pages.
