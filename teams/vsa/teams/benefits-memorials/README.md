@@ -34,14 +34,14 @@
 - [Team](#team)
 
 # Priorities (Updated 8/25/2020)
-- Original Claims Post Launch Analyis and Technical 
-  - Reducing Original Claims and 526 errors (no longer going to Grafana differences between 526, will ask VBA to help)
-  - This should not be starved out in any sprint but it does not mean it will always be higher than anything else
 - Launch BDD
   - BDD has released in production with EVSS and we have a feature flag allowing some testing (ready for UAT)
   - We have to complete our integration testing (and any minor front end fixes) - in work
   - Make sure we have initial metrics set up (part of existing 526) - should be done by Anna
-  - Expected to be a higher priority than Original Claims on occasion as we get closer to the launch date
+  - Expected to be a higher priority than Original Claims on occasion as we get closer to the launch date- 
+- Original Claims Post Launch Analyis and Technical 
+  - Reducing Original Claims and 526 errors (no longer going to Grafana differences between 526, will ask VBA to help)
+  - This should not be starved out in any sprint but it does not mean it will always be higher than anything else
 - Claims and Appeals Status
   - This has high visibility and therefore some work on this has to keep moving forward
   - Expected to focus one group of engineers HLR and one group in CST as we continue to move forward over the next few weeks
