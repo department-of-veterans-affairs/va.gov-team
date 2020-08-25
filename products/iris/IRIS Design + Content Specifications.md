@@ -19,19 +19,13 @@ The most updated version of the full prototype will be added be viewed [here]().
 Documentation containing descriptions, interaction notes, and content for each chapter's pages is included below where possible.
 
 - **Drupal content pages** 
-   - [Drupal content pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/spec-template-contentpage.md)
+   - [Drupal content pages](LINK)
+   - note we're not sure if this is going to be a new Contact us experience on Drupal or not - discussion with public team may address this?
 - **Introduction Screen**
-   - Page 1: [Introduction section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/spec-template-intropage.md)
-- **Chapter 1: [Name of Chapter]**
+   - Page 1: [Introduction section] - TBD if we need the intro screen as this may not be an official form
+- **Chapter 1: [Main Form Page]**
    - Page 1: [Name of Page]()
-   - Page 2: [Name of Page]()
-- **Chapter 2: [Name of Chapter]**
+- **Chapter 2: [Review Page]**
    - Page 1: [Name of Page]()
-   - Page 2: [Name of Page]()
-- **Chapter 3: [Name of Chapter]**
-   - Page 1: [Name of Page]()
-   - Page 2: [Name of Page]()
-- **Chapter 4: Review order** 
-   - Page 1: [Review order]()
 - **Confirmation screen** 
-   - [Confirmation screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/spec-template-confirmationpage.md)
+   - [Confirmation screen](link)
