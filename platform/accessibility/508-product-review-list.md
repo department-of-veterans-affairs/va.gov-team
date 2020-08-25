@@ -1024,7 +1024,6 @@ Back to [Table of Contents](#table-of-contents)
 
 - [508-defect-2 Fast Follow! [COGNITION]: Downloaded files SHOULD be consistent with what the user clicked to download - #12184](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12184)<br/>**Staging** | **Opened:** August 6, 2020 | **Severity:** _508-defect-2 Fast Follow - **Serious**_
 - [508-defect-2 [HEADING, COGNITION]: Heading levels SHOULD only increase by one - #12430](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12430)<br/>**Staging** | **Opened:** August 12, 2020 | **Severity:** _508-defect-2 - **Serious**_
-- [508-defect-2 [MOBILE-DESIGN]: Mobile layout SHOULD be legible and easy-to-use - #12422](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12422)<br/>**Staging** | **Opened:** August 12, 2020 | **Severity:** _508-defect-2 - **Serious**_
 - [508-defect-2 [SCREENREADER, COGNITION]: if links are different, they MUST communicate their differences - #12414](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12414)<br/>**Staging** | **Opened:** August 12, 2020 | **Severity:** _508-defect-2 - **Serious**_
 - [508-defect-4 Enhancement [SCREENREADER, COGNITION]: Consider consolidating the information for the debt letter download links - #12192](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12192)<br/>**Staging** | **Opened:** August 6, 2020 | **Severity:** _508-defect-4 - **Trivial**_
   
