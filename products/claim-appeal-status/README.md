@@ -56,18 +56,7 @@ The Claim Status Tool was launched approximately 3 years ago and only minor chan
 
 ## OKRs and KPIs
 Note: An attempt was made to tranfer the Google Doc table to a markdown table.  However, you cannot have different columns density and it looked very bad in markdown.  Image with link seems to work better.
-
-
-
-## KPIs
-  - Call Center events
-
-### Baseline KPIs
-- TBD
-
-## OKRs
- - Reduce the number of call center calls by 75%
-  - Increase the number of status message granularity by 75%
+![Image of OKRs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/readme/image.png)
 
 --- 
 
@@ -105,8 +94,13 @@ TBD after launch
 - Engineers: Anna Carey, Sarah-Jaine Szekeresh, Robin Garrison, Nick Sprinkle
    
 ## Screenshots
-
-
 ### Before
+![Screen 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/readme/Claims%20Tool%20(staging%2C%20April%202020)-page-001.jpg)
+![Screen 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/readme/Claims%20Tool%20(staging%2C%20April%202020)-page-002.jpg)
+![Screen 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/readme/Claims%20Tool%20(staging%2C%20April%202020)-page-003.jpg)
+![Screen 4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/readme/Claims%20Tool%20(staging%2C%20April%202020)-page-004.jpg)
+![Screen 5](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/readme/Claims%20Tool%20(staging%2C%20April%202020)-page-005.jpg)
+![Screen 6](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/readme/Claims%20Tool%20(staging%2C%20April%202020)-page-006.jpg)
+![Screen 7](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/readme/Claims%20Tool%20(staging%2C%20April%202020)-page-007.jpg)
 
 ### After
