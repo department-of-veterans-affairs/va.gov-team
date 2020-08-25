@@ -28,7 +28,7 @@ In two previous rounds of user research, we have determined that there is a Vete
 
 # Research questions
 - How do Veterans express the value of biometric sign in to them?
-- What obstacles and usability issues exist within the following areas: 
+- What patterns and obstacles exist within the following areas: 
   - Homescreen
   - Locating claims
   - Viewing a specific claim's information
