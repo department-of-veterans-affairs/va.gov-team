@@ -179,6 +179,8 @@ Back to [Table of Contents](#table-of-contents)
 **Production** | **Opened:** April 10, 2020 | **Severity:** _508-defect-2 - **_Serious_**
 - [sitewide, design system, CMS [AXE-CORE]: Heading levels SHOULD increase by one, On this page component - #7877](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7877)<br/>
 **Production** | **Opened:** April 10, 2020 | **Severity:** _508-defect-2 - **_Serious_**
+- [sitewide, design system - 508-defect-3 [COGNITION, MOBILE DESIGN]: Styling SHOULD support reading comprehension - #12680](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12680)<br/>
+**Opened:** August 20, 2020 | **Severity:** 508-defect-3 - **_Minor_**
 - [[SCREENREADER]: Decorative content MUST be implemented in a way it can be ignored by assistive technology - #9113](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9113)<br/>
 **Opened:** May 14, 2020 | **Severity:** 508-defect-3 - **_Minor_**
 - [[SCREENREADER]: Consider updating phone number documentation in design system, to include spacing in the aria-label - #9114](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9114)<br/>
@@ -304,10 +306,22 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open issues** identified by VA 508 office
 
+- [508-defect-1 ❗ Launchblocker [AXE-CORE, SCREENREADER]: IDs of active elements MUST be unique - #12674](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12674)<br/>
+**Opened:** August 20, 2020 | **Severity:** 508-defect-1 — **_Critical_**
+- [508-defect-1 ❗ Launchblocker [COGNITION, FOCUS MGMT]: Upon completion of processing the form, focus MUST announce the context change - #12691](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12691)<br/>
+**Opened:** August 20, 2020 | **Severity:** 508-defect-1 — **_Critical_**
 - [Sitewide - #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
   **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
-- [[USABILITY]: Application saved message could be missed by assistive devices - #182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182)<br/>
-**Opened:** June 5, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
+- [508-Defect-2 [AXE-CORE]: Heading levels SHOULD only increase by one - #12675](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12675)<br/>
+**Opened:** August 20, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+- [508-defect-2 [USABILITY, MOBILE DESIGN]: Interactive elements SHOULD have at least 24px space between - #12671](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12671)<br/>
+**Opened:** August 20, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+- [508-defect-2 [AXECORE]: Page MUST contain a level-one heading - #12666](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12666)<br/>
+**Opened:** August 20, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+- [508-defect-2 [AXE-CORE]: Heading levels SHOULD increase by one - #12663](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12663)<br/>
+**Opened:** August 20, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+- [508-Defect-3 [AXE-CORE]: Headings MUST not be empty - #12672](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12672)<br/>**Opened:** August 20, 2020 | **Severity:** 508-defect-3 - **_Minor_**
+- [[USABILITY]: Application saved message could be missed by assistive devices - #182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182)<br/>**Opened:** June 5, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
 
 Back to [Table of Contents](#table-of-contents)
 
