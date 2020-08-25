@@ -1,4 +1,4 @@
-# Product Outline: Benefits and Memorials
+# Team Outline: Benefits and Memorials
 - GitHub Label: vsa-benefits
 - Slack channel: [#vsa-benefits-memorial](https://dsva.slack.com/channels/vsa-benefits-memorial), vsa-benefits-nod (dedicated channel for LightHouse and BAM for Notice of Disagreement discussions)
 - VA.gov link: n/a
@@ -33,14 +33,14 @@
 - [Keywords](#Keywords)
 - [Team](#team)
 
-# Priorities (Updated 8/3/2020)
+# Priorities (Updated 8/25/2020)
 - Original Claims Post Launch Analyis and Technical 
   - Reducing Original Claims and 526 errors (no longer going to Grafana differences between 526, will ask VBA to help)
   - This should not be starved out in any sprint but it does not mean it will always be higher than anything else
 - Launch BDD
-  - BDD is approaching a 8/20 release from EVSS
-  - We have to complete our integration testing (and any minor front end fixes)
-  - Make sure we have initial metrics set up (part of existing 526)
+  - BDD has released in production with EVSS and we have a feature flag allowing some testing (ready for UAT)
+  - We have to complete our integration testing (and any minor front end fixes) - in work
+  - Make sure we have initial metrics set up (part of existing 526) - should be done by Anna
   - Expected to be a higher priority than Original Claims on occasion as we get closer to the launch date
 - Claims and Appeals Status
   - This has high visibility and therefore some work on this has to keep moving forward
@@ -58,10 +58,10 @@
 # Team Info
 |**Roles**              |**Assigned**                        |
 |-----------------------|------------------------------------|
-|DSVA Product Manager   |Andrea Schneider                    |
+|DSVA Product Manager   |Matt Self (transitional)            |
 |Team Product Manager   |Luke Majewski                       |
 |Back-End Engineer      |Anna Carey                          |
-|Back-End Engineer      |Sarah-Jaine Szekeresh               |
+|Back-End Engineer      |Ed Mangimelli                       |
 |Front-End Engineer     |Nicholas Sprinkle                   |
 |Front-End Engineer     |Robin Garrison                      |
 |Design Researcher      |Christian Valla                     |
