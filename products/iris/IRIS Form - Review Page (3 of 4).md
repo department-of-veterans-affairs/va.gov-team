@@ -1,22 +1,24 @@
 # IRIS Form - Review Page (3 of 4)
+
 Relevant links: 
 - Invision prototype [Desktop]()  | [Mobile]()  - Coming soon.  Please see the story for wireframes
 - [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/68)
 
 ### Description
+
 This page will allow users to review their submission, and as necessary edit the form before submitting it.
 
 ### Interaction Notes
 
 - This page consists primarily of accordions the user can expand to view and edit the data they have entered.  Upon clicking on the 'edit' button, the user can add edit or delete content, save it and eventually submit the form.
 
-
 ### Content
 
-The accordian follows the content in the pages previous - a contact us section (with information about the users) and an inquiry section (with information about the inquiry)
+The accordian follows the content in the pages previous - a contact us section (with information about the users) and an inquiry section (with information about the inquiry).
 
 ```
 # Review your message
+
 ## Who you are accordian
 
 ##Why you're contacting us accordian
