@@ -9,7 +9,7 @@ This UAT will be conducted by the authenticated experience team for the new prof
 
 The [personalization 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/README.md) effort aims to reimagine and expand the existing personalized functionality on VA.gov in order to better meet user needs and expectations. The first leg of this effort was combining the existing profile and account pages into one section titled 'Profile'. [Our research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/personalization%202.0/Combine%20Profile%20and%20Account/Research) showed us that these two sections — which were originally separate — have enough similarities in users' minds that we'd be better meeting user needs by combining these two pages. In addition to combining these two pages, this redesign aims to update the visual design and information architecture of the new section to be easier to scan and overall more usable.
 
-We have just started QA for this re-design on staging, and we are preparing for UAT.
+We have wrapped up QA for this re-design on staging, and we are preparing for UAT.
 
 3. **Research questions: What question(s) do you hope to be able to answer after completing this research?** 
 
@@ -120,11 +120,11 @@ We will work with Perigean to recruit for this study.
 
 1.	**Timeline: What dates do you plan to do research?**
 
-We are looking to start sessions **TBD**.
+We are looking to start sessions **September 1, 2020**.
 
 2.	**Prepare: When will the thing you are testing be ready?**
 
-The new profile will be live on production behind a feature flag on **TBD**.
+The new profile **is currently** live on production behind a feature flag.
 
 3. **Length of Sessions: How long do you estimate each session will be?**
 
@@ -134,11 +134,11 @@ We expect sessions to only be 15-30 minutes. **Please schedule sessions for 30 m
 
 FYI — **Tressa Furner (tressa.furner@adhocteam.us) will be conducting these sessions**. Her availability is as follows:
 
-- **TBD**
+- **10 am - 6pm EST any day**
 
 5.	**Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
 
-- **TBD**
+- **1 PM EST Friday Aug 28, 2020 OR 4 PM EST on Monday Aug 31 **
 
 ## Team Roles
 **Please list the people who will be serving in each role.**
@@ -147,7 +147,7 @@ FYI — **Tressa Furner (tressa.furner@adhocteam.us) will be conducting these se
 - **Research guide writing and task development**: Tressa Furner
 - **Participant recruiting & screening**: Perigean
 - **Project point of contact**: Tressa Furner or Matt Shea
-- **Participant(s) for pilot test**: TBD
+- **Participant(s) for pilot test**: Cassandra Allen
 - **Note-takers**: TBD
 - **Observers**: TBD
 
@@ -164,5 +164,6 @@ FYI — **Tressa Furner (tressa.furner@adhocteam.us) will be conducting these se
 
 ## Resources
 - [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account)
-- [Conversation Guide]()
-- Notes
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/UAT/profile-conversation-guide-UAT.md)
+- [Notes]()
+- [Findings](https://docs.google.com/spreadsheets/d/19vaZcU9-ySIrOxgPvQdiE90GAD0iIM0t1LSDq_4HMpU/edit#gid=0)
