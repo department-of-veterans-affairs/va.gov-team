@@ -1,4 +1,6 @@
 # Errors and Notifications
+## Note 8/25/2020
+A lot of this work has been absorbed by the indivdual products that are impacted. This product outline should remain if ever there are more universal technical debt items (general improvments in error logging, infrastructure, automation, notifications, alerting) but overall the customer service aspect of this product is being driven down into the products.
 
 ## Communications
 - GitHub Label: [???](https://github.com/department-of-veterans-affairs/va.gov-team/labels/???)
@@ -65,6 +67,9 @@ Problem 2: It is tedious and time intensive for developers to review Sentry for 
 Proposed solution:
 Filtering rules are added to Sentry to identify errors related to our team's code. As a second step, it may be prudent for those alerts to be surfaced in a platform developers check regularly, Slack.
 
+## Updated Discovery/Information
+It appears a lot of the drivers are from the National Call Center (NCC) and/or through IRIS.  The volume of calls has gone up considerably during the COVID pandemic as more veterans are aware of and using self servive.  A lot of these issues are being solved as part of CST (Claims Status Tool) while others are falling into the 526 technical debt bucket.  The purpose of this product outline has been somewhat superceded by the use of the existing products.
+
 ## Status
 1. We have reduced the error rate significantly
 2. We have improved reporting (charting) in Grafana.
@@ -72,9 +77,9 @@ Filtering rules are added to Sentry to identify errors related to our team's cod
 
 ## Team
 
-- VA Digital Strategist(s): Andrea Schneider and Luke Majewski
+- VA Digital Strategist(s): Andrea Schneider
 - Product Manager: Luke Majewski 
 - Research Lead: N/A
 - Design Lead: N/A
-- Engineers: Anna Carey and Sarah-Jaine Szekeresh
+- Engineers: Anna Carey and Sarah-Jaine Szekeresh (retired)
 
