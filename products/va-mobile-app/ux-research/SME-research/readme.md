@@ -16,6 +16,8 @@ Starting in summer 2020 we talked to folks working on VAOS, Facility Locator, Lo
 | VAOS  	|   Lenae, Jeff, Narin (AH)	|   6/30/20	| 
 | Facility Locator  	|   Michelle Middaugh	|   7/9/20	| 
 | Logged In Homepage 	|   Samara, Tressa, Cassandra	|   8/18/20	|
+| Facility Locator 	|   Leyda	|   8/25/20	|
+
 
 - [Read key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/SME-research/key-learnings.md)
 
