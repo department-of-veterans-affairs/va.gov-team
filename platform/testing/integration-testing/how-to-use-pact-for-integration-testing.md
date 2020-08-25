@@ -71,7 +71,7 @@ The Pact process can be broken into multiple steps:
 7. Future todo: The idea is to integrate the rake verification task into CircleCI as part of the build step 
 
 ### Requirements
-For purposes related to integration test coverage for VSP, pacts are currently only required for new endpoints or changes to endpoints. They are relatively similar to rspec tests and the effort to set up provider states on the backend is minimal. PRs related to Pact will go through the standard code review process. Pacts will address the gap in end-to-end integration test coverage.
+For purposes related to integration test coverage for VSP, pacts are currently only required for new endpoints or changes to endpoints. They are relatively similar to rspec tests and the effort to set up provider states on the backend is minimal. PRs related to Pact will go through the standard [code review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/code_review_guidelines.md). Pacts will address the gap in end-to-end integration test coverage.
 
 ![](https://i.imgur.com/zQMyDS0.png)
 
