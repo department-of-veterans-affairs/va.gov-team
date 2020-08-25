@@ -24,8 +24,13 @@ Documentation containing descriptions, interaction notes, and content for each c
 - **Introduction Screen**
    - Page 1: [Introduction section] - TBD if we need the intro screen as this may not be an official form
 - **Chapter 1: [Main Form Page]**
-   - Page 1: [Name of Page]()
+   - Page 1: [Main Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS%20Form%20-%20Main%20Page.md)
 - **Chapter 2: [Review Page]**
-   - Page 1: [Name of Page]()
+   - Page 1: [Review Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS%20Form%20-%20Review%20Page.md)
 - **Confirmation screen** 
-   - [Confirmation screen](link)
+   - [Confirmation screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS%20Form%20-%20Confirmation%20Page.md)
+
+
+REFERENCE TO USE: 
+
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/49d19a3db2cf8ace47c6df06f95b828eaac73463/teams/vsa/design/getting-started-with-va.gov-forms.md#the-main-form-pages
