@@ -16,4 +16,4 @@
 #### August, 2020: Collaboration Cycle v1 Research
 *Service Design: Naomi Marcussen*
 
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/covid-vaccine-trials/research)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/research-history.md)
