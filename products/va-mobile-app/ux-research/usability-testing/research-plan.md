@@ -43,9 +43,11 @@ In two previous rounds of user research, we have determined that there is a Vete
   - Using the bottom toolbar navigation
     - How well do users understand the icons and titles in the bottom toolbar?
     - What is unclear, and why?
+    - Do Veterans think the Veterans Crisis Line should be in the bottom toolbar?
   - Using the in-page cards and list items on the home screen
     - How well do users understand the cards and list items?
     - What is unclear, and why?
+    - Do Veterans use this more than the bottom toolbar? Do they come back to the home screen before navigating elsewhere?
 - How easily and successfully do users find what they're looking for in the app?
     - Where do users run into problems?
 - Overall, how satisfied are Veterans with the MVP feature set and overall app UI/UX design?
@@ -57,6 +59,7 @@ In two previous rounds of user research, we have determined that there is a Vete
 - When prompted to find App Settings, users will navigate to "Your VA" and be able to locate Settings on that screen
 - Veterans will be able to quickly and successfully find what they're looking for
 - Veterans will use homescreen cards and list items to navigate from the homescreen more than the bottom toolbar
+- Once away from the homescreen, Veterans will use the bottom toolbar to navigate
 - There may be dissatisfaction with features that are not available in the MVP (e.g. cancelling and scheduling an appointment)
 - There may be dissatisfaction with the limited health features
 
