@@ -10,28 +10,34 @@ In two previous rounds of user research, we have determined that there is a Vete
 
 
 # Goals
-- Assess Veteran perception of the MVP app and desire to download and use the app
+- Assess Veteran perception of the app and desire to download
 - Assess the overall effectivness of the MVP app high-fi prototype for different types of users performing common tasks
-- Identify obstances to using the toolbar navigation to navigate the app's features
+- Identify obstacles to locating claims and viewing a claim's information
+- Identify obstacles to locating Appointments and viewing upcoming appointment information 
 - Identify obstacles to finding and editing profile and direct deposit information
-- Identify obstacles to finding and downloading VA letters and documents
-- Identify obstances to finding Settings
+- Identify obstacles to finding VA letters and documents
+- Identify obstances to finding Settings and signing out of the app 
+- Identify obstacles to using the toolbar navigation to navigate the app's features
 
 
 # Research questions
-- What usability issues exist within the following areas: 
+- What obstacles and usability issues exist within the following areas: 
   - Using the homescreen
-  - Viewing a specific claim's status
-  - Viewing file requests and uploading evidence to a claim
-  - Viewing a claim's details
+  - Locating claims
+  - Viewing a specific claim's information
+  - Locating appointments
+  - Viewing details of an upcoming appointment
+  - Locating Profile
+  - Editing an email address
+  - Locating Direct Deposit
+  - Editing information 
+  - Locating Letters
+  - Downloading a letter
+  - Locating Settings
   - Using the bottom toolbar navigation
-  - Profile
-  - Direct Deposit
-  - Letters
-  - Settings
-- How well do users understand the icons and titles in the bottom toolbar? What is unclear, and why?
+    - How well do users understand the icons and titles in the bottom toolbar? What is unclear, and why?
 - How easily and successfully do users find what they're looking for in the app?
-- Where do users go to find Settings? Why?
+    - Where do users run into problems?
 - Overall, how satisfied are Veterans with the MVP feature set and overall app UI/UX design?
 
 
