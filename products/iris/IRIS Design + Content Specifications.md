@@ -14,7 +14,7 @@ The developers are working with the VA Form Builder for the flow, which should f
 )
 
 ## Per Page Specifications TO DO
-The most updated version of the full prototype will be added be viewed [here]().
+The most updated version of the full prototype will be added.
 
 Documentation containing descriptions, interaction notes, and content for each chapter's pages is included below where possible.
 
@@ -23,13 +23,14 @@ Documentation containing descriptions, interaction notes, and content for each c
    - note we're not sure if this is going to be a new Contact us experience on Drupal or not - discussion with public team may address this?
 - **Introduction Screen**
    - Page 1: [Introduction section] - TBD if we need the intro screen as this may not be an official form
-- **Chapter 1: [Main Form Page]**
-   - Page 1: [Main Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS%20Form%20-%20Main%20Page.md)
-- **Chapter 2: [Review Page]**
-   - Page 1: [Review Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS%20Form%20-%20Review%20Page.md)
+- **Chapter 1: [Main Page, Contact Info (1 of 4)]**
+   - Page 1: [Contact info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS%20Form%20-%20Main%20Page%20Contact%20Info%20(1%20of%204).md)
+- **Chapter 2: [Main Page, Inquiry Details (2 of 4)]**
+   - Page 1: [Inquiry info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS%20Form%20-%20Main%20Page%20Inquiry%20Details%20(2%20of%204).md)
+- **Chapter 3: [Review Page]**
+   - Page 1: [Review Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS%20Form%20-%20Review%20Page%20(3%20of%204).md)
 - **Confirmation screen** 
-   - [Confirmation screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS%20Form%20-%20Confirmation%20Page.md)
-
+   - [Confirmation screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS%20Form%20-%20Confirmation%20Page%20(4%20of%204).md)
 
 REFERENCE TO USE: 
 
