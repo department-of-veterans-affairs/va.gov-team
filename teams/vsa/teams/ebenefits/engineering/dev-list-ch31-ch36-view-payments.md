@@ -28,7 +28,7 @@ Total = 7
 - Meet with Analytics team to get GA events for chapter 36 form (1)
 - Add GA events to form (3)
 - Perform internal accessibility audit (2)
-Total = 50  
+Total = 50   
 2 Sprints should be doable
 
 ### Backend
@@ -38,7 +38,7 @@ Total = 50
 - Set up a sidekiq job  (3)
 - Set up sentry events  (5)
 - Test submission against environment (5)
-Total = 24
+Total = 24  
 2 Sprints should be doable
 
 ## View my VA payment history
@@ -47,7 +47,7 @@ Total = 24
 - Load TestRail (2)
 - Request QA Audit (1)
 - Staging Review (1)
-- Privacy and Security Audit (2)
+- Privacy and Security Audit (2)  
 Total = 7
 
 ### Frontend
@@ -61,7 +61,7 @@ Total = 7
 - E2E test (5)
 - Meet with GA team (1)
 - Implement event names from GA team (2)
-- Internal a11y audit (2)
+- Internal a11y audit (2)  
 Total = 37
 
 ### Backend
@@ -70,7 +70,7 @@ Total = 37
 - Set up the model (5)
 - Set up a sidekiq job  (3)
 - Set up sentry events  (5)
-- Test submission against environment (5)
+- Test submission against environment (5)  
 Total = 26
 
 ## Chapter 31
@@ -79,8 +79,8 @@ Total = 26
 - Load TestRail (2)
 - Request QA Audit (1)
 - Staging Review (1)
-- Privacy and Security Audit (2)
-Total = 7
+- Privacy and Security Audit (2)  
+Total = 7  
 
 ### Front End
 - Flipper component on unauth landing page (8*)
@@ -95,39 +95,39 @@ Total = 7
 - E2E auth & unauth (3)
 - Meet with GA team (1)
 - Implement event names from GA team (2)
-- Internal a11y audit (2)
-Total = 41
+- Internal a11y audit (2)  
+Total = 41  
 
 ### Back End
-- EVSS usage discovery (SPIKE)
+- EVSS usage discovery (SPIKE)  
 
 **Using EVSS**
-- Endpoint testing, see what format data needs to be in (3)
+- Endpoint testing, see what format data needs to be in (3)  
 
 **Using VRE API**
-- Endpoint testing, see what format data needs to be in (3)
-- Create a service to integrate (5)
+- Endpoint testing, see what format data needs to be in (3)  
+- Create a service to integrate (5)  
 
 **Regardless of lower environment**
-- Build a serializer (5)
-- Set up the controller (3)
+- Build a serializer (5)  
+- Set up the controller (3)  
 - Set up the model (5)
 - Set up a sidekiq job  (3)
 - Set up sentry events  (5)
-- Test submission against environment (5)
+- Test submission against environment (5)  
 Total = 29 - 34
   
 Product Subtotal (21)  
 FE Subtotal (128)  
 BE Subtotal (79-84)  
   
-Mean FE Velocity/sprint [30 points across 9 issues]  
-Mean BE Velocity/sprint [21 points across 7 issues]  
+Mean FE Velocity/sprint [30 points across 9 issues]   
+Mean BE Velocity/sprint [21 points across 7 issues]   
 
-Sprint 29 (August 26 - September 8)
+Sprint 29 (August 26 - September 8)  
 
-Sprint 30 (September 9 - September 22)
+Sprint 30 (September 9 - September 22)  
 
-Sprint 31 (September 23 - October 6)
+Sprint 31 (September 23 - October 6)  
 
-Sprint 32 (October 7 - October 20)
+Sprint 32 (October 7 - October 20)  
