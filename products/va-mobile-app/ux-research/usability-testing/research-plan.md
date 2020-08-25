@@ -6,17 +6,17 @@ August 20, 2020
 VA Mobile App Team, MVP Mobile App
 
 # Background
-In two previous rounds of user research, we have determined that there is a Veteran desire for a VA mobile app and defined an MVP feature set in conjunction with technical discovery efforts. We have designed a high fidelity prototype of the core MVP UX, and we would like to usability test this design with Veterans. This round of research mainly aims to validate or challenge the usability of the MVP app design (~80%) and as a secondary goal (~20%) garner reactions to features included so help us tweak our MVP feature set.
+In two previous rounds of user research, we have determined that there is a Veteran desire for a VA mobile app and defined an MVP feature set in conjunction with technical discovery efforts. We have designed a high fidelity prototype of the core MVP UX, and we would like to usability test this design with Veterans. This round of research aims to assess the overall effectivness of the MVP high-fi prototype for performing common tasks and identify obstacles to finding certain features. As a secondary goal, we are open to receiving feedback on the overall perception of the app, Veterans' satisfaction with it, and their desire to download it.
 
 
 # Goals
 - Assess Veteran perception of the app and desire to download
-- Assess the overall effectivness of the MVP app high-fi prototype for different types of users performing common tasks
-- Identify obstacles to locating claims and viewing a claim's information
+- Assess the overall effectivness of the MVP app high-fi prototype for performing common tasks
+- Identify obstacles to locating Claims and viewing a claim's information
 - Identify obstacles to locating Appointments and viewing upcoming appointment information 
-- Identify obstacles to finding and editing profile and direct deposit information
-- Identify obstacles to finding VA letters and documents
-- Identify obstances to finding Settings and signing out of the app 
+- Identify obstacles to locating and editing Profile and Direct Deposit information
+- Identify obstacles to locating VA Letters and Documents
+- Identify obstances to locating Settings and signing out of the app 
 - Identify obstacles to using the toolbar navigation to navigate the app's features
 
 
@@ -35,7 +35,8 @@ In two previous rounds of user research, we have determined that there is a Vete
   - Downloading a letter
   - Locating Settings
   - Using the bottom toolbar navigation
-    - How well do users understand the icons and titles in the bottom toolbar? What is unclear, and why?
+    - How well do users understand the icons and titles in the bottom toolbar?
+    - What is unclear, and why?
 - How easily and successfully do users find what they're looking for in the app?
     - Where do users run into problems?
 - Overall, how satisfied are Veterans with the MVP feature set and overall app UI/UX design?
