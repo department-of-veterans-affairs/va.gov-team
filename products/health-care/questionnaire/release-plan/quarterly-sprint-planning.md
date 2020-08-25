@@ -26,20 +26,20 @@
 9/09/2020 - 9/22/2020
 - [Milestone 293](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/293)
 
-## Sprint 29 - _Sprint Theme Name_
+## Sprint 29 - Land Proof of Concept Designs and Data Services
 8/26/2020 - 9/8/2020
 - [Milestone 292](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/292)
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
-| Stakeholder Interviews & Paper 	 	| Blocked |  #11037	|
-| 	 	| -- | #11936 | 
-| [UI] Demographics and This Visit mocks complete   	| -- | #12259 & #12280|
-| [FE] Demographics and Confirmation| -- | #12257 & |
-| [BE] Reason for Visit data Integration | -- | #12285 |
-| [BE] Questionnaire Trigger Service | -- |  |
-| [BE] Appt Details Service | -- |  |
-| [BE] Appt Details Service | -- |  |
+| Stakeholder Interviews & Paper 	 	| Blocked |  #11037	| 
+| [UI] This Visit, Intro, Reveiew, and Confirm mocks complete for coding   	| -- | #12280, #12639 #12693, |
+| [FE] Demographics| -- | #12257 |
+| [BE] MAP - Appt details and PGD services | -- | #12285 |
+| [BE] Questionnaire Trigger Service | -- | # ?? |
+| [BE] Arch Diagram | -- | #10485 |
+| [BE] UX screen flows/wireframes | -- | # ?? |
+
 
 ## Sprint 28 - Visit Into Design & Dev Start
 8/12/2020 - 8/25/2020
