@@ -39,9 +39,6 @@
         - [How to verify your results](#how-to-verify-your-results)
         - [Final steps](#final-steps)
         - [Broker Matrix and Tagging](#broker-matrix-and-tagging)
-    - [Additional info](#additional-info)
-        - [Design doc](#design-doc)
-        - [To do](#to-do)
         
     
         
@@ -85,9 +82,6 @@ The Pact broker is currently hosted on [Heroku](https://vagov-pact-broker.heroku
 Pact is language agnostic and has packages for both Node.js and Ruby, so both `vets-website` and `vets-api` have access to their language-specific implementations of the Pact spec.
 - `vets-website` will install the `@pact-foundation/pact` package.
 - `vets-api` will install the `pact` gem.
-
-Contract testing process workflow details: [Workflow details](https://github.com/department-of-veterans-affairs/va.gov-team/pull/8073/files#diff-f2abf33f91ea32d2168228610ba56d37R78)
-
 
 ### Provider States
 Provider states allow the consumer to define a state in which the provider should be in when making making a request. (eg. response codes, data, etc). Provider states define the state of the provider and how it will handle a response given it's current state and the data that should exist.
@@ -427,11 +421,6 @@ When your verification status is all green, please reconfigure your changes from
 
 ### Broker Matrix and Tagging
 A provider verification matrix can be found in the pact broker. See [search example](https://vagov-pact-broker.herokuapp.com/matrix/provider/VA.gov%20API/consumer/Search). The verification matrix acts as a success metric for verification status (green or red). Additionally, each verification run is tagged with the git branch name and git sha in the provider verification column to track provider version details. See details in the [pact_helper](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/pact_helper.rb#L50-L51).
-
-## Additional Info
-
-### Design Doc
-Additional information detailed in the [design doc](https://github.com/department-of-veterans-affairs/va.gov-team/pull/8073/files#diff-f2abf33f91ea32d2168228610ba56d37R209)
 
 
 ### TO DO 
