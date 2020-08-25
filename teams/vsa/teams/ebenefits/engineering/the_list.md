@@ -10,6 +10,7 @@
 
 <details><summary>Front End</summary>
 <p>
+  
 - Add logic for showing/ hiding the Static Veteran Information page based on if the user is logged in or not
 
 - Add logic to for showing/ hiding dependent information and dependent address pages based on if user is logged in or not
@@ -51,6 +52,7 @@
 
 <details><summary>Back End</summary>
 <p>
+  
 - test central mail integration  
   
 - Set up the controller
