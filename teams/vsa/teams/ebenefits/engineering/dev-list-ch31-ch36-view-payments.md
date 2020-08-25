@@ -12,23 +12,22 @@ Total = 7
 
 ### Front End
 - [#12829](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12829) Add logic for showing/ hiding the Static Veteran Information page based on if the user is logged in or not (5)
-- Add logic to for showing/ hiding dependent information and dependent address pages based on if user is logged in or not (5)
-- Add schema for CH36 to `vets-json-schema` repo (3)
-- Add unit tests for CH36 schema in `vets-json-schema` repo (3)
+- [#12830](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12830) Add logic for showing/ hiding Dependent Information and Dependent Address pages based on if user is logged in or not (5)
+- [#12424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12424)Add schema for CH36 to `vets-json-schema` repo (3)
+- [#12833](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12833)Add unit tests for CH36 schema in `vets-json-schema` repo (3)
 - [#12833](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12833) Unit test static Veteran Information page (3)
 - [#12049](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12049) Unit test Veteran Information page (3)
 - [#12048](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12049) Unit test for Dependent Info page (3)
 - [#12832](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12832) Unit Test Veteran Address page (3)
 - [#12053](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12053) Unit test Contact Preferences page (3)
 - [#12831](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12831) Unit test Dependent Address page (3)
-- Connect and test BE endpoint for CH36 (2)
-- e2e test Dependent workflow (3)
-- e2e test Veteran workflow NOT logged in (3)
-- e2e test Veteran workflow logged in (3) 
-- Meet with Analytics team to get GA events for chapter 36 form (1)
-- Add GA events to form (3)
-- Perform internal accessibility audit (2)
-Total = 50   
+- [#12834](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12834) Connect and test BE endpoint for CH36 (2)
+- [#12059](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12059) e2e Test Dependent workflow (3)
+- [#12835](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12835) e2e test Veteran workflow NOT logged in (3)
+- [#11235](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11235) Meet with Analytics team to get GA events for chapter 36 form (1)
+- [#12055]https://github.com/department-of-veterans-affairs/va.gov-team/issues/12834) Add GA events to form (3)
+- [#12057]https://github.com/department-of-veterans-affairs/va.gov-team/issues/12057) Perform internal accessibility audit (2)
+Total = 46    
 2 Sprints should be doable
 
 ### Backend
