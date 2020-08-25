@@ -26,7 +26,7 @@ Setting up all of the following tools while you onboard will make time on VSP ea
 ### Getting access to the VA GitHub Organization
 1.  Ask your Program Manager to submit an [Add User to the VA Organization ticket](https://github.com/department-of-veterans-affairs/github-user-requests/issues/new/choose).
     * The ticket submitter will need to have VA GitHub Org access already.
-    * Ask your COR to post their approval on this ticket to expedite the approval process.
+    * Ask your Contracting Officer's Representative (COR) to post their approval on this ticket to expedite the approval process.
     * This process is managed by the VA GitHub admins, not by VSP, and may take a few days to process. 
 
 1. Once your ticket is processed, check your email for an invitation to the VA GitHub Organization, and join!
@@ -43,34 +43,33 @@ Setting up all of the following tools while you onboard will make time on VSP ea
 
 ## ZenHub
 
-1. ZenHub is used by the VSP team for issue tracking and management.
+See [details and orientation on ZenHub](./zenhub.md).
 
-2. Additional details and orientation on ZenHub can be found [in this document](./zenhub.md).
+ZenHub is used by the VSP team for issue tracking and management. 
 
 ## Additional access for developers
 
 Several internal tools for development are only accessible within the VA network. Access to developers outside the VA network is made available via a SOCKS proxy. For proxy access, we require the use of an SSH key pair for security.
 
-Follow the below steps to set up your SSH key pair, request access, and set up the SOCKS proxy:
+### Set up your SSH key pair
 
 1. Create new SSH keys.
     * [Windows instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#creating-an-ssh-keypair-in-windows)
     * [Mac/Linux instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key).
 
-1. <a id="authorizekeys"></a> Open an [Environment Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose) issue.
-  * Follow the template instructions.
-    * Provide the name of your Contracting Officer's Representative (COR).
-    * Provide your name, role and company.
-    * Answer "Requesting SSH key authorization?" with "Yes".
-    * Paste the public portion of your SSH key. The template has an example.
-    * Answer "Grant AWS Console Access?" depending on if you need AWS Console access.
-      * Our infrastructure is hosted in AWS GovCloud. This account is shared amongst many different teams; changes made to resources in this account will affect many services. You may need access to AWS for troubleshooting, log file review, and to apply changes to the running instances and services.
-      * In order to be granted AWS Console access, your PIV background (eQIP adjudication) check needs to be underway. Please mark yes in the AWS Console access and provide a short description of why you need access. All AWS Console access requests will be reviewed by DEPO. **If you're not certain you need access to AWS, please mark "No"**.
-      * For VSP Operations team members, AWS access can be expedited.
-  * Tag group `@department-of-veterans-affairs/vsp-operations` to review.
-  * Monitor the issue for updates and respond to any questions from the operations group.
+### Request access
 
-1. Wait for the GitHub issue to be closed before proceeding.
+1. <a id="authorizekeys"></a> Open an [Environment Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose) issue and fill out the questions in the template.
+     * For the "Grant AWS Console Access?" question, answer depending on if you need AWS Console access.
+         * Our infrastructure is hosted in AWS GovCloud. This account is shared amongst many different teams; changes made to resources in this account will affect many services. You may need access to AWS for troubleshooting, log file review, and to apply changes to the running instances and services.
+         * In order to be granted AWS Console access, your PIV background (eQIP adjudication) check needs to be underway. Please mark yes in the AWS Console access and provide a short description of why you need access. All AWS Console access requests will be reviewed by DEPO. **If you're not certain you need access to AWS, please mark "No"**.
+         * For VSP Operations team members, AWS access can be expedited.
+    * Tag group `@department-of-veterans-affairs/vsp-operations` to review.
+    * Monitor the issue for updates and respond to any questions from the operations group.
+
+### Set up the SOCKS proxy
+
+1. Make sure your Environment Access Request ticket has been completed.
 
 1. Configure [the SOCKS proxy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#configure-the-socks-proxy).
 
@@ -83,12 +82,15 @@ Follow the below steps to set up your SSH key pair, request access, and set up t
         * You will be prompted to link your GitHub account and presented with a permissions dialog.
         * Allow the service to access your account and view your Organization membership.
 
-1. If you requested AWS Console access:
-    * When your account has been setup, you will receive a Slack private message with your temporary password and login URL.
-    * You are required to login and change the temporary password immediately.
-    * AWS will prompt you to change your password during the first login.
-    * Follow the [walk through for MFA setup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/aws-account-setup.md).
-        * Setting up a virtual MFA device is required to access services in the AWS cloud and programatically via the CLI.
+### AWS Console Access
+
+If you requested AWS Console access in your Environment Access Request, here's how to proceed:
+
+1. When your account has been setup, you will receive a Slack private message with your temporary password and login URL.
+1. Log in and change the temporary password immediately. AWS will prompt you to change your password during the first login.
+1. Follow the [walk through for MFA setup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/aws-account-setup.md).
+    * Setting up a virtual MFA device is required to access services in the AWS cloud and programatically via the CLI.
+
 
 
 ## Tools overview
