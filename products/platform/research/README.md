@@ -8,4 +8,4 @@ The Research points of contact are:
 - [Andrea Chappelear](mailto:andrea.chappelear@adhoc.team), @Andrea Chappelear on Slack 
 
 ### Table of contents
-- Research history
+- [Research history](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/research-history.md)
