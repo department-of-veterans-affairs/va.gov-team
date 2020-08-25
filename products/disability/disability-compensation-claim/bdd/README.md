@@ -170,11 +170,10 @@ Update 8/24: We are still considering some marketting options, etc, but this wil
 
 ## Product Decisions
 1. Combine 526 form with BDD form.  Primarily this simplified the transfer of a BDD claim to a 526 claim upon expiration of the BDD time frame.  In other words, when a BDD claim is no longer eligable for BDD or BDD-excluded, we needed a way for the SIP data to move to 526 easily. This is possible by merging the two forms.  Our stakeholders agreed during our weekly BDD meeting.
-2. 
-
+2. During a meeting with EVSS we decided to not hard code separation location but instead use the API so we always have the latest.
 
 ## Team
-- VA Digital Strategist(s): Andrea Schneider
+- VA Digital Strategist(s): Andrea Schneider (retired to SSA)
 - Product Manager: Luke Majewski 
 - Research Lead: Christian Valla
 - Design Lead: Kevin Stachura
@@ -183,6 +182,6 @@ Update 8/24: We are still considering some marketting options, etc, but this wil
 ## Screenshots
 
 ### Before
-
+Not really applicable since we added some fields for BDD.  After screen shots 
 ### After
 
