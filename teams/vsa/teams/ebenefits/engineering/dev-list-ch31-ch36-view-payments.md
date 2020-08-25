@@ -15,7 +15,7 @@ Total = 7
 - Add logic to for showing/ hiding dependent information and dependent address pages based on if user is logged in or not (5)
 - Add schema for chapter 36 to `vets-json-schema` repo (3)
 - Add unit tests for chapter 36 schema in `vets-json-schema` repo (3)
-- Unit test static Veteran Information page (3)
+- #12049 Unit test static Veteran Information page (3)
 - Unit test Veteran Information page (3)
 - Unit test Veteran Address page (3)
 - Unit test Contact Preferences page (3)
