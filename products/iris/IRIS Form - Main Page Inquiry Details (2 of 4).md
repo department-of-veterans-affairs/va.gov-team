@@ -20,12 +20,19 @@ See content below:
 
 ```
 # Title of page
-## Example of h2 (h3 utility)
+## Your inquiry
 
-Inquiry Type (combo-box with search field)
-Inquiry Topic (combo-box with search field)
-[Primary button] Click here to start application 
+Inquiry Type (*Required) (combo-box with search field)
+Default number of values TBD. Values sorted alphabetically. The list of values include 'Question', 'Compliment', 'Service Complaint', 'Suggestion'
 
+note idea of not having Claims status here should be discussed - see ticket)
+
+Inquiry Topic (*Required) (combo-box with search field)
+Default number of values TBD. Values sorted alphabetically. For the list of Level 1, Level 2 and Level 3 values please refer the attached excel spreadsheet in the story.  These are values we need to confirm with stakeholders.
+
+
+Enter your message here (*Required) 
+(large text box)
 
 Calls to action:
 [Primary button] Submit
