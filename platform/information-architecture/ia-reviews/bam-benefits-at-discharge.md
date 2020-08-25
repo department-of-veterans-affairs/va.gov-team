@@ -32,7 +32,7 @@ Page | New URL | New Breadcrumb | Notes | Validated<br> in staging | Validated<b
 --- | --- | --- | ---| --- | ---
 ~[How to file a claim](www.va.gov/disability/how-to-file-claim)~ | ~n/a~ | ~n/a~ | ~Content changes only~ | - |  -
 ~[When to file](www.va.gov/disability/how-to-file-claim/when-to-file/)~  | ~n/a~  | ~n/a~ | ~Content to be merged onto other pages. Retire and redirect URL~ | - | -
-[Pre-discharge claim](www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/) | /disability/how-to-file-claim/benefits-delivery-at-discharge/ | Home > Disability benefits > How to file a claim > Benefits Delivery at Discharge Program | ~Content changes,~URL change, H1 change, breadcrumb change | | 
+[Pre-discharge claim](www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/) | /disability/how-to-file-claim/benefits-delivery-at-discharge/ | Home > Disability benefits > How to file a claim > Benefits Delivery at Discharge Program | ~Content changes,~ URL change, H1 change, breadcrumb change | | 
 ~[File while overseas](www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/file-while-overseas/)~ | ~n/a~  | ~n/a~ | ~Content to be merged onto other pages. Retire and redirect page~ | | 
 [FDC Walkthrough](https://www.benefits.va.gov/FDC/walkthrough.asp)     | n/a | n/a | Retire and redirect page | | 
 [FDC Checklist](https://www.benefits.va.gov/FDC/checklist.asp)       | n/a   | n/a | Retire and redirect page | | 
