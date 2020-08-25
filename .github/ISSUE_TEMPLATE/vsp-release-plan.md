@@ -8,7 +8,10 @@ title: [Initiative-Name]: Release Plan
 
 ## Guidance
 
-_This Release Plan Template is intended to help ensure your new VSP product or feature is ready for launch and will deliver the desired user outcomes. In Phase 1, you will test your product to learn how it'll actually be used, what problems it might create, and then fix/adjust if necessary prior to going live. In Phase 2, you will define the launch communications plan and post-launch KPIs. You can close this ticket once you have completed Phase 2. Phase 3 is optional - you may use it to document post-launch results. 
+_This Release Plan Template is intended to help ensure your new VSP product or feature is ready for launch and will deliver the desired user outcomes._
+* _In Phase 1, you will test your product to learn how it'll actually be used, what problems it might create, and then fix/adjust if necessary prior to going live._
+* _In Phase 2, you will define the launch communications plan and post-launch KPIs. **You can close this ticket once you have completed Phase 2**._
+* _Phase 3 is optional - you may use it to document post-launch results._
 
 _Fill out the **Planning** sections to start, then the **Results** sections as you complete each phase of testing._
 
