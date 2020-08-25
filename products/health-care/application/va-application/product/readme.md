@@ -10,12 +10,12 @@ Staging user statuses as of 8.25.20
 - 364 – Update: We need more information
 - 365 – Update: We need more information
 - 366 – Canceled or declined health care
-- 367 – 
-- 368 – 
-- 369 – 
-- 370 – 
-- 371 – 
-- 372 – 
-- 373 – 
-- 374 – 
-- 375 – 
+- 367 – Update: We're reviewing your application
+- 368 – Update: We're reviewing your application (Unrelated: Also sees health chat prompt)
+- 369 – Decision: We determined that you don’t qualify for VA health care
+- 370 – Update: We need more information
+- 371 – Enrolled
+- 372 – Enrolled
+- 373 – Update: We need more information
+- 374 – Deceased
+- 375 – User no longer works
