@@ -11,11 +11,12 @@
   - https://plugins.jenkins.io/build-failure-analyzer/
   - https://circleci.com/docs/2.0/collect-test-data/
   - Eugene: "Tests seem to fail more in Jenkins than Circle."
-  - Action Item: Write a ticket to investigate flaky tests that Eugene encountered on [Mocha 8 PR](https://github.com/department-of-veterans-affairs/vets-website/pull/13982)
+  - ~Action Item~: Write a ticket to investigate flaky tests that Eugene encountered on [Mocha 8 PR](https://github.com/department-of-veterans-affairs/vets-website/pull/13982)
+    - https://github.com/department-of-veterans-affairs/va.gov-team/issues/12916
 - Do we have a recommendation on Class components vs function components? - Mike C.
   - Hook components don't play well with Enzyme
   - https://overreacted.io/how-are-function-components-different-from-classes
-  - ~Action Item: Write up a ticket to create a Resource page in the Gatsby app~
+  - ~Action Item~: Write up a ticket to create a Resource page in the Gatsby app
     - https://github.com/department-of-veterans-affairs/va.gov-team/issues/12890
 
 # 20200812
