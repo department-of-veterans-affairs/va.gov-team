@@ -11,7 +11,7 @@ This page allows users to include information about their inquiry so we can rout
 ### Interaction Notes
 
 - The main way of interaction on this page is via a series of drop down menu boxes that follow the VA standards for contact information (name, addres etc.)
-
+- Note this page will definitely evolve as we identify which fields (and their dropdowns) are required; some of this will be included in [this story](https://github.com/department-of-veterans-affairs/orchid/issues/36) as well, which will likely serve as the place where multiple fields from the GI Bill, IRIS and MyHealtheVet will live
 - Standard VA form calls to action (buttons at the bottom allowing users to go back of forward) are included.
 
 ### Content
@@ -39,3 +39,15 @@ Calls to action:
 [Secondary button] Back
 
 ```
+
+TO DO:
+
+We need to understand on screen language for support: 
+
+"Please ask your question or describe the issue in detail in the space below. If the question, or issue, is about a disability, please be specific as to the type of disability(ies) or the issue(s). If you have multiple claims for benefits pending and want the status, please tell us which claim this is about.
+Please do not enter your name, file number, or social security number in the question box below. You will be asked this information in the sections below.
+
+
+Additionally there are support texts to include which we should account for.  These will likely be in a future story - for now we've got
+- https://iris.custhelp.va.gov/app/answers/detail_popup/a_id/1705
+- https://iris.custhelp.va.gov/app/answers/detail_popup/a_id/1702
