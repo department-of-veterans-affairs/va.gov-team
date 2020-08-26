@@ -2,7 +2,7 @@
 
 - [Dates and times](#dates-and-times)
 - [Figures and other images](#figures-and-other-images)
-- [File names, file types, and repos](#file-names-and-file-types)
+- [File names, file types, and repo names](#file-names-and-file-types)
 - [Page titles and headings](#page-titles-and-headings)
 - [Lists](#lists)
 - [Notes, cautions, and warnings](#notes-cautions-and-warnings)
@@ -37,7 +37,7 @@ Use images only when they provide useful visual explanations of information that
 - Don't include personally identifying information (PII) in screenshots. If a source screenshot includes PII, hide it with a solid-color overlay with 100% opacity. Don't rely on blurs, mosaic effects, or similar image-processing effects to obscure PII; such effects can be reversed to reveal the original information.
 - If you're exporting an image to a format that can include information on separate layers (for example, PDF or TIFF), flatten the image on export.
 
-## File names and file types
+## File names, file types, and repo names
 
 Observe the following guidelines when naming files and referencing file types.
 
