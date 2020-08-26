@@ -102,3 +102,10 @@ If the issue is one that can be fixed easily by changing HTML, CSS, or JavaScrip
 ## Screenshots or Trace Logs
 
 <!-- Drop any screenshots or error logs that might be useful for debugging -->
+
+
+## Definition of done
+
+1. Review and acknowledge feedback.
+1. Fix and/or document decisions made.
+1. Accessibility specialist will close ticket after reviewing documented decisions / validating fix.
