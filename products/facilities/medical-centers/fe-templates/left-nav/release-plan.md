@@ -60,10 +60,13 @@ _To be completed once you have gathered your initial set of data, as outlined ab
 
 **1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?** 
      - We have met our pre-launch success metrics. 
+
 **2. What qualitative feedback have you gathered from users or other stakeholders, if any?** 
      - Pittsburgh VAMC Public Affairs Officers were not viewed as primary end users by our team, although they were impacted by the defects in the original design. This oversight caused them to feel unheard during this project. We're attempting to repair the relationship by opening dialogue and getting their usability feedback and ideas for enhancement. 
+
 **3. Which of the assumptions you listed in your product outline were/were not validated?** 
      - We still need to conduct usability tests to assess improvement of “pogo-sticking” behavior and validate current navigational support.
+
 **4. How might your product evolve now or in the future based on these results?**
      -  We will monitor the success of upgrade as additional VISNs come online with new content to ensure the Left navigation menu still meets Veteran needs for wayfinding. 
 
