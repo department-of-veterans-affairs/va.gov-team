@@ -51,7 +51,69 @@ This call looks like :
 
 NEED: URL TO VAMF Appointment endpoint
 
-NEED: JSON of what is returned
+json returned
+```json
+{
+  "id": "string",
+  "startDate": "2020-08-26T18:16:04.504Z",
+  "clinicId": "string",
+  "clinicFriendlyName": "string",
+  "clinicPhone": "string",
+  "clinicPhoneExtension": "string",
+  "facilityId": "string",
+  "sta6aid": "string",
+  "stationName": "string",
+  "patientIcn": "string",
+  "communityCare": true,
+  "vvsAppointments": [...],
+  "vdsAppointments": [
+    {
+      "id": "string",
+      "appointmentLength": "string",
+      "appointmentTime": "2020-08-26T18:16:04.504Z",
+      "status": "string",
+      "clinic": {
+        "id": "string",
+        "name": "string",
+        "department": "string",
+        "service": "string",
+        "specialty": "string",
+        "stopCode": "string",
+        "facility": {
+          "siteCode": "string",
+          "name": "string",
+          "displayName": "string",
+          "regionId": "string",
+          "lastEventTimestamp": "string",
+          "lastEventReason": "string",
+          "uid": "string",
+          "pid": "string",
+          "type": "string",
+          "facilityCode": "string",
+          "state": "string",
+          "city": "string",
+          "address": "string",
+          "parentSiteCode": "string"
+        },
+        "askForCheckIn": false,
+        "facilityCode": "string",
+        "dssId": "string",
+        "inactivate": "string",
+        "reactivate": "string"
+      },
+      "patientId": "string",
+      "purpose": "string",
+      "type": "string",
+      "currentStatus": "string",
+      "bookingNote": "string",
+      "labDateTime": "2020-08-26T18:16:04.504Z",
+      "ekgDateTime": "2020-08-26T18:16:04.504Z",
+      "xrayDateTime": "2020-08-26T18:16:04.504Z"
+    }
+  ],
+  "ccsAppointments": [...]
+}
+```
 
 ### Step 5
 
