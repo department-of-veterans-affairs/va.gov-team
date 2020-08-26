@@ -1,7 +1,6 @@
 # IRIS Form - Main Page, Contact Info (1 of 4)
 
 Relevant links: 
-- Invision prototype [Desktop]()  | [Mobile]()  - Coming soon.  Please see the story for wireframes
 - [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/68)
 
 ### Description
