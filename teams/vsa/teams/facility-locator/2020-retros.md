@@ -91,3 +91,6 @@
 
 ### Sprint 27, ending August 11, 2020
 ![Sprint 27](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/images/Sprint%2027%20retro.png)
+
+### Sprint 28, ending August 25, 2020
+![Sprint 28](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/images/Sprint%2028%20retro.png)
