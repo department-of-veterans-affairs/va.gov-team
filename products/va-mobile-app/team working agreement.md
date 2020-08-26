@@ -1,8 +1,8 @@
 # VA Mobile App MVP: Team Working Agreement
 
 ## Team Members
-- Martha Wilkes (UX, VA)
-- Ryan Thurwell (Creative Director, VA)
+- Martha Wilkes (Product Designer, VA)
+- Ryan Thurwell (Design Lead, VA)
 - Steve Kovac (Product Owner, VA)
 - Sophie Myers (Product Lead, Ad Hoc)
 - Jonathan Julian (Engineering Lead, Ad Hoc)
