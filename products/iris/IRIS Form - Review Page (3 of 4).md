@@ -10,16 +10,24 @@ This page will allow users to review their submission, and as necessary edit the
 
 ### Interaction Notes
 
-- This page consists primarily of accordions the user can expand to view and edit the data they have entered.  Upon clicking on the 'edit' button, the user can add edit or delete content, save it and eventually submit the form.
+- This page consists accordions the user can expand to view and edit the data they have entered.  Upon clicking on the 'edit' button, the user can add edit or delete content, save and eventually submit the form.
 
 ### Content
 
-The accordian follows the content in the pages previous - a contact us section (with information about the users) and an inquiry section (with information about the inquiry).
+This page includes the who you are section and an inquiry section with information about the inquiry:
 
 ```
 # Review your message
 
 ## Who you are accordian
+- title
+- name
+- suffix
+- branch
+- email
+- address
+- who they are asking benefits/services for
+- how they want to contacted
 
 ##Why you're contacting us accordian
 - Type of Inquiry
