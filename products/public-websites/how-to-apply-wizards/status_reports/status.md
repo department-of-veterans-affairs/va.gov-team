@@ -2,16 +2,18 @@
 
 
 - **Education (Form 1990)**: Initial dev is complete and on staging at: https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction. The wizard also applies to the following Education benefits forms:
-  - 0994
-  - 1990e
-  - 1990n
-  - 1995
-  - 5495
-  - 5490
+  - 0994 (Apply for VET Tech)
+  - 1990e (Apply to use transferred education benefits)
+  - 1990n (Apply for Education  Benefits under the National call to service program)
+  - 1995 (Manage your Education Benefits)
+  - 5495 (Dependents' Request for Change of Program or Place of Training)
+  - 5490 (Apply for Education Benefits as an Eligble Dependent)
   
       - **Rogers STEM Scholarship (Form 22-10203)**: Initial dev on only the application page -- the Wizard will come in follow up phase -- is at: https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction.  This form will launch prior to a deadline of October 1.
 
 - **Disabilty (Form 526)**: Initial dev is complete and on staging at https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction
+
+- **Higher Level Review (Form 20-0996)**: https://staging.va.gov/decision-reviews/request-higher-level-review-form-20-0996/introduction
 
 
 ### 8/24 Update
