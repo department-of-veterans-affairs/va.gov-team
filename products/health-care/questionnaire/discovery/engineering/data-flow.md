@@ -42,11 +42,11 @@ The landing page will then get the `encounterId` from the URL and. using the `en
 
 The GET request url should look like:
 
-`GET /v0/healthcare_questionnaire/{encounterId}`
+`GET /v0/healthcare_questionnaire/{appointmentId}`
 
 ### Step 4
 
-Once the the Healthcare Questionnaire Services receives the GET request with the `encounterId`. The services should first make the call out to VAMF to get the appointment information. 
+Once the the Healthcare Questionnaire Services receives the GET request with the `appointmentId`. The services should first make the call out to VAMF to get the appointment information. 
 
 This call looks like :  
 
@@ -136,7 +136,7 @@ After the two calls, the HealthcareService packages up all the data in JSON obje
 This will create an endpoint that is only available for authenticated users and has the signature 
 
 
-GET /v1/healthquest/appointsments/{appointmentID} 
+`GET /v0/healthcare_questionnaire/{appointmentId}`
 
 ```json
 {
@@ -144,6 +144,7 @@ GET /v1/healthquest/appointsments/{appointmentID}
   "patient":{all the patient information}
 }
 ```
+
 
 ## Submitting the form
 
