@@ -1,4 +1,4 @@
-# IRIS Form - Confirmation Page (4 of 4) - TO FINISH
+# IRIS Form - Confirmation Page (4 of 4)
 
 Relevant links: 
 - Invision prototype [Desktop]()  | [Mobile]()  - Coming soon.  Please see the story for wireframes
@@ -10,26 +10,26 @@ This page serves to let the user know that their message has been successfully r
 
 ### Interaction Notes
 - No main interaction design notes here - no calls to action
-- Static content confirming receipt of message
+- Content confirming receipt of message dynamically updating with date received
 - If the users wants to navigate from here, they'll do it via normal interaction (i.e. go to navigation bar at top etc.) - no calls to action on this screen
 
 ### Content  - TO DO
 
-Possible content - need to use VA standards for confirmation. The story for this is here: https://github.com/department-of-veterans-affairs/orchid/issues/76 
-
-# Title: we received your message
-
-TO FINISH:
-to include:
-- estimated time for response
-- print for your records
-- copy of what was sent (in blue box)
-
+The story for this is here: https://github.com/department-of-veterans-affairs/orchid/issues/76 
 
 ```
-# Title of page
-## Example of h2 (h3 utility)
-Example content 
-[Primary button] Click here to start application 
+# Contact Us
+## We received your message
+
+We usually process inquiries within 5 business days and may contact you for more information or documents.
+
+Please print this page for your records, and thank you for contacting the VA.
+
+Copy of text captured previously in form
+
+Date form successfully submitted
+
 ```
 
+TBD:
+- print for your records (do we need?)
