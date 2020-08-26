@@ -9,7 +9,7 @@
   - 5495
   - 5490
   
-      - **Rogers STEM Scholarship**: Initial dev on only the application page -- the Wizard will come in follow up phase -- is at: https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction
+      - **Rogers STEM Scholarship (Form 22-10203)**: Initial dev on only the application page -- the Wizard will come in follow up phase -- is at: https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction.  This form will launch prior to a deadline of October 1.
 
 - **Disabilty (Form 526)**: Initial dev is complete and on staging at https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction
 
