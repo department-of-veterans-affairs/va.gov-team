@@ -1,6 +1,7 @@
 ### 8/26 Update
 
 #### Team: BAM 2 (PM: Leah Keeler + Developer: Craig Wheeler)
+
 - **Education (Form 1990)**: Initial dev is complete and on staging at: https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction and undergoing Collab Cycle review and iteration.  The wizard also applies to the following Education benefits forms:
   - 0994 (Apply for VET Tech)
   - 1990e (Apply to use transferred education benefits)
@@ -10,6 +11,7 @@
   - 5495 (Dependents' Request for Change of Program or Place of Training)
   
 #### Team: Booz Allen (PM: Amy Knox)
+
 - **Rogers STEM Scholarship (Form 22-10203)**: Initial dev on only the application page -- **the Wizard will come in follow up phase** -- is at: https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction. (U/P is veterans / am3rica) This form will launch prior to a deadline of October 1.  A prototype is [here.](https://bahdigital.invisionapp.com/share/AUIADV5GTC2#/screens).  The STEM product will use a slightly modified version of the Education wizard (e.g. slight differences in the wizard content).
 
 #### Team: BAM 1 (PM: Luke Majewski + Developer: Robin Garrison)
