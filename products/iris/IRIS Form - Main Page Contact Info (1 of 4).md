@@ -22,9 +22,33 @@ We'e working with stakeholders from the IRIS Interface, GI Bill, and MHV and wil
 
 
 ```
-# Title of page
-## Example of h2 (h3 utility)
-Example content 
+# Contact Us
+## Your contact info
+
+-Title
+-Your first name (note in Form Builder it's something else...)
+-Your last name
+-Suffix
+-Branch of service
+-Email
+-Country (will include full address in future story)
+-I am asking about benefits/services drop down
+-How you would like to be contacted
+
+Additional fields to come will be [story 36](https://github.com/department-of-veterans-affairs/orchid/issues/36); at that
+time we may need to rethink the order of these, and add additional 'headers' for screen readers.  Some of these include:
+
+-SSN
+-Claim Number
+-Service Number
+-Date of Birth
+-Date Entered Active Duty
+-Date Released Active Duty
+-Additional address fields - street, city, state, postal
+-Additional fields from GI Bill and MyHealtheVet
+-Additional sections like the Paperwork Reduction Act are TBD - we're determining if we're having a Contact Us landing page, 
+or if that content is necessary it would likely live on this page at the bottom.
+
 
 Calls to action:
 [Primary button] Submit
