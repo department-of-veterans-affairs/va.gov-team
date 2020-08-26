@@ -10,9 +10,6 @@
   - 5495 (Dependents' Request for Change of Program or Place of Training)
 
 #### Team: BAM 1 (PM: Luke Majewski + Developer: Robin Garrison)
-      - **Rogers STEM Scholarship (Form 22-10203)**: Initial dev on only the application page -- **the Wizard will come in follow up phase** -- is at: https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction.  This form will launch prior to a deadline of October 1.  A prototype is [here.](https://bahdigital.invisionapp.com/share/AUIADV5GTC2#/screens)
-
-#### Team: BAM 1 (PM: Luke Majewski + Developer: Robin Garrison)
 
 - **Disabilty (Form 526)**: Initial dev is complete and on staging at https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction
 
@@ -20,7 +17,7 @@
 
 
 #### Team: Booz Allen (PM: Amy Knox)
-      - **Rogers STEM Scholarship (Form 22-10203)**: Initial dev on only the application page -- **the Wizard will come in follow up phase** -- is at: https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction.  This form will launch prior to a deadline of October 1.  A prototype is [here.](https://bahdigital.invisionapp.com/share/AUIADV5GTC2#/screens)
+- **Rogers STEM Scholarship (Form 22-10203)**: Initial dev on only the application page -- **the Wizard will come in follow up phase** -- is at: https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction.  This form will launch prior to a deadline of October 1.  A prototype is [here.](https://bahdigital.invisionapp.com/share/AUIADV5GTC2#/screens)
 
 #### Team: eBenefits (PM: Jason Wolf)
 - **Apply for Education and Career Counseling (CH36)**: In [design and development](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/7232).  
