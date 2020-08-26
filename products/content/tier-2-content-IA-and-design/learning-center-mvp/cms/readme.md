@@ -5,6 +5,42 @@
  -  LC go-to-market strategy: how will users find the Learning Center?
 </details>
 
+## Tuesday September 1
+
+1. Review backlog for Sprint 14
+1. other
+
+### Action items
+
+1. 
+
+## Wednesday August 26
+
+### Agenda
+
+1. MVP taxonomy
+   1. FE Tags and AX rules are still in progress - [MURAL](https://app.mural.co/t/vagov6717/m/vagov6717/1597845145225/5e258a50346775afe0125cd5126bce952fde5d94).
+1. Related Information component
+   1. Spec was finalized in [MURAL](https://app.mural.co/t/vagov6717/m/vagov6717/1597845145225/5e258a50346775afe0125cd5126bce952fde5d94) and will be transfered into CMS backlog for Sprint 14.
+1. Need more help? component
+   1. Spec was finalized in [MURAL](https://app.mural.co/t/vagov6717/m/vagov6717/1597845145225/5e258a50346775afe0125cd5126bce952fde5d94) and will be transfered into CMS backlog for Sprint 14.
+1. Governance
+   1. Didn't cover - lower priority.
+
+### Action items
+
+1. Oksana will schedule a follow-up to discuss FE tags logic.
+
+## Tuesday August 25
+
+### Agenda
+
+1. Review backlog / blockers
+
+### Action items
+
+1. 
+
 ## Wednesday August 19
 
 ### Agenda
