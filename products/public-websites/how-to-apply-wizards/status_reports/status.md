@@ -1,19 +1,28 @@
 ### 8/26 Update
 
-- **Education (Form 1990)**: Initial dev is complete and on staging at: https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction. The wizard also applies to the following Education benefits forms:
+#### Team: BAM 2 (PM: Leah Keeler + Developer: Craig Wheeler)
+- **Education (Form 1990)**: Initial dev is complete and on staging at: https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction and undergoing Collab Cycle review and iteration.  The wizard also applies to the following Education benefits forms:
   - 0994 (Apply for VET Tech)
   - 1990e (Apply to use transferred education benefits)
   - 1990n (Apply for Education  Benefits under the National call to service program)
   - 1995 (Manage your Education Benefits)
   - 5490 (Apply for Education Benefits as an Eligble Dependent)
   - 5495 (Dependents' Request for Change of Program or Place of Training)
-  
-      - **Rogers STEM Scholarship (Form 22-10203)**: Initial dev on only the application page -- the Wizard will come in follow up phase -- is at: https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction.  This form will launch prior to a deadline of October 1.  A prototype is [here.](https://bahdigital.invisionapp.com/share/AUIADV5GTC2#/screens)
+
+#### Team: BAM 1 (PM: Luke Majewski + Developer: Robin Garrison)
+      - **Rogers STEM Scholarship (Form 22-10203)**: Initial dev on only the application page -- **the Wizard will come in follow up phase** -- is at: https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction.  This form will launch prior to a deadline of October 1.  A prototype is [here.](https://bahdigital.invisionapp.com/share/AUIADV5GTC2#/screens)
+
+#### Team: BAM 1 (PM: Luke Majewski + Developer: Robin Garrison)
 
 - **Disabilty (Form 526)**: Initial dev is complete and on staging at https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction
 
 - **Higher Level Review (Form 20-0996)**: In development, but not yet in staging at https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction
 
+
+#### Team: Booz Allen (PM: Amy Knox)
+      - **Rogers STEM Scholarship (Form 22-10203)**: Initial dev on only the application page -- **the Wizard will come in follow up phase** -- is at: https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction.  This form will launch prior to a deadline of October 1.  A prototype is [here.](https://bahdigital.invisionapp.com/share/AUIADV5GTC2#/screens)
+
+#### Team: eBenefits (PM: Jason Wolf)
 - **Apply for Education and Career Counseling (CH36)**: In [design and development](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/7232).  
 
 
