@@ -1,7 +1,7 @@
 # Development Tasks for CH31, CH36, View Payments
 Ascertain remiaining tasks for these features  
 ## Chapter 36 (Deadline October 26)
-Based on mean velocities from the past 10 sprints or so, FE and BE can be completed by September 22 (Sprint 30)
+Based on mean velocities from the past 10 sprints or so, FE and BE should be completed by September 22 (Sprint 30)
 ### Product
 - Request formal 508 audit (1)  
 - Load TestRail (2)  
