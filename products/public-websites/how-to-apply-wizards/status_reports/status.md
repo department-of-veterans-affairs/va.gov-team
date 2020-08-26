@@ -10,15 +10,18 @@
   - 5495 (Dependents' Request for Change of Program or Place of Training)
   
   #### Team: Booz Allen (PM: Amy Knox)
-- **Rogers STEM Scholarship (Form 22-10203)**: Initial dev on only the application page -- **the Wizard will come in follow up phase** -- is at: https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction. (U/P is veterans / am3rica) This form will launch prior to a deadline of October 1.  A prototype is [here.](https://bahdigital.invisionapp.com/share/AUIADV5GTC2#/screens)
-- They do not need the Wizard moved to launch; it can come after.
-
+- **Rogers STEM Scholarship (Form 22-10203)**: Initial dev on only the application page -- **the Wizard will come in follow up phase** -- is at: https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction. (U/P is veterans / am3rica) This form will launch prior to a deadline of October 1.  A prototype is [here.](https://bahdigital.invisionapp.com/share/AUIADV5GTC2#/screens).  The STEM product will use a slightly modified version of the Education wizard (e.g. slight differences in the wizard content).
 
 #### Team: BAM 1 (PM: Luke Majewski + Developer: Robin Garrison)
 
 - **Disabilty (Form 526)**: Initial dev is complete and on staging at https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction
 
 - **Higher Level Review (Form 20-0996)**: In development, but not yet in staging at https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction
+
+
+SEQUENCING RECOMMENDATIONS: 
+- Because the Education wizard and STEM scholarship are inter-linked, and STEM has a hard live date of October 1 -- launch STEM first, while making recommended changes, refinements to Education Wizard in September.   Then, couple the launch of the moved Education and Wizard in Oct/Nov.
+- And since Disability and Higher Level Review are not coupled Education, focus near-term attention/effort on these products, with goal to launch in September.
 
 
 #### Team: eBenefits (PM: Jason Wolf + Designer/Researcher: Jim Adams)
