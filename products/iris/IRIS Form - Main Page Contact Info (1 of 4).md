@@ -31,8 +31,8 @@ The two main pages of the Contact Us form - the Contact Us page and the Inquiry 
 -I am asking about benefits/services drop down
 -How you would like to be contacted
 
-Additional fields to come will be [story 36](https://github.com/department-of-veterans-affairs/orchid/issues/36); at that
-time we may need to rethink the order of these, and add additional 'headers' for screen readers. 
+Additional fields to come will be [story 36](https://github.com/department-of-veterans-affairs/orchid/issues/36); 
+at that time we may need to rethink the order of these fields and add additional 'headers' for screen readers. 
 
 -SSN
 -Claim Number
@@ -41,11 +41,12 @@ time we may need to rethink the order of these, and add additional 'headers' for
 -Date Entered Active Duty
 -Date Released Active Duty
 -Additional address fields - street, city, state, postal
+-Veteran Relationships	
+-Service Branches	
+-Medical Facility List		
+-Route to State
 -Additional fields from GI Bill and MyHealtheVet
-- Veteran Relationships	
-- Service Branches	
-- Medical Facility List		
-- Route to State
+
 
 Conditional logic fields - if users select an option, additional content appears
 -I am asking about benefits/services:
