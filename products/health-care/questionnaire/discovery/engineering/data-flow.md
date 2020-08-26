@@ -1,5 +1,7 @@
 - [Data Flow](#data-flow)
   - [Before Filling out the Form](#before-filling-out-the-form)
+    - [From the VA.gov website](#from-the-vagov-website)
+    - [From VeText](#from-vetext)
   - [Filling out the form](#filling-out-the-form)
     - [Step 1](#step-1)
     - [Step 2](#step-2)
@@ -15,9 +17,20 @@
 
 This document describes the flow of data from a beginning to end "happy path" scenario
 
+
+
 ## Before Filling out the Form
 
-TODO: Expand on. This the Questionnaire as a service things.....
+The data that is needed pre-form is that an appointment has to be created, with an `appointmentId`. This could be from any usual source.
+
+### From the VA.gov website
+
+Where a user can view their appointments, we can add a link flow to get to the form using the appointmentId, this will have a link that contain the appointment id. 
+
+### From VeText
+
+Once the system knows an appointment has been created (details of that are unclear as this writing). The vets will receive a text message with the URL to the form to fill out, which contains the appointment ID.
+
 
 
 ## Filling out the form
@@ -25,6 +38,20 @@ TODO: Expand on. This the Questionnaire as a service things.....
 This is going to document where the data is coming from, to validate that we have all the data needed to start creating the form
 
 ![Dataflow](assets/HQ%20-%20dataflow.png)
+
+The data needed to start the form is 
+
+- an appointment
+  - facility
+  - id
+  - time 
+- Demographics (patient information)
+  - Name
+  - DoB
+  - Address
+  - phone
+
+Optionally, Reason for Visit (called bookingNote on an appointment)
 
 ### Step 1
 
@@ -46,11 +73,10 @@ The GET request url should look like:
 
 ### Step 4
 
-Once the the Healthcare Questionnaire Services receives the GET request with the `appointmentId`. The services should first make the call out to VAMF to get the appointment information. 
+Once the the Healthcare Questionnaire Services receives the GET request with the `appointmentId`. The services should first make the call out to MAP to get the appointment information. 
 
 This call looks like :  
-
-NEED: URL TO VAMF Appointment endpoint
+`GET /patients/{icn}/appointments/{id}`
 
 json returned
 ```json
@@ -103,9 +129,6 @@ json returned
         "reactivate": "string"
       },
       "patientId": "string",
-      "purpose": "string",
-      "type": "string",
-      "currentStatus": "string",
       "bookingNote": "string",
       "labDateTime": "2020-08-26T18:16:04.504Z",
       "ekgDateTime": "2020-08-26T18:16:04.504Z",
@@ -144,6 +167,8 @@ This will create an endpoint that is only available for authenticated users and 
   "patient":{all the patient information}
 }
 ```
+
+which will load all the data needed for the form, when the user begins the form. 
 
 
 ## Submitting the form
