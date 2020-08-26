@@ -13,6 +13,9 @@ This page serves to let the user know that their message has been successfully r
 - Content confirming receipt of message dynamically updating with date received
 - If the users wants to navigate from here, they'll do it via normal interaction (i.e. go to navigation bar at top etc.) - no calls to action on this screen
 
+### Questions
+What tone for this page ? (Story #76 - has existing language) Going forward, use this page: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-confirmation-page.md
+
 ### Content  - TO DO
 
 The story for this is here: https://github.com/department-of-veterans-affairs/orchid/issues/76 
