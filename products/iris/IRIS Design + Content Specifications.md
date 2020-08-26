@@ -13,10 +13,10 @@ The developers are working with the VA Form Builder for the flow, which should f
 - Additional notes about interactions or content that apply globally will be updated as necessary and tracked on our [board](https://app.zenhub.com/workspaces/orchidiris-5f29c3a0250c8f001f1397ac/board?repos=285091133
 )
 
-## Per Page Specifications TO DO
-The most updated version of the full prototype will be added.
+## Per Page Specifications
+The most updated version of the full prototype will be added as it is built - please see the IRIS board in Github for the stories.
 
-Documentation containing descriptions, interaction notes, and content for each chapter's pages is included below where possible.
+Documentation containing descriptions, interaction notes, and content for each chapter's pages is included below or on the stories.
 
 - **Drupal content pages** 
    - [Drupal content pages](LINK) note we're not sure if this is going to be a new Contact us experience on Drupal or not - discussion with public team may address this?
@@ -31,11 +31,6 @@ Documentation containing descriptions, interaction notes, and content for each c
 - **Confirmation screen** 
    - [Confirmation screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS%20Form%20-%20Confirmation%20Page%20(4%20of%204).md)
 
-REFERENCE TO USE: 
-
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/49d19a3db2cf8ace47c6df06f95b828eaac73463/teams/vsa/design/getting-started-with-va.gov-forms.md#the-main-form-pages
-
-
-QUESTIONS TO INCORPORATE
-
-https://docs.google.com/document/d/1QApRuQix90wUjGpzXBtnYTMJsqTLM_vTQLN5XZ2O7eQ/edit
+## REFERENCES ## 
+- https://github.com/department-of-veterans-affairs/va.gov-team/blob/49d19a3db2cf8ace47c6df06f95b828eaac73463/teams/vsa/design/getting-started-with-va.gov-forms.md#the-main-form-pages
+- https://docs.google.com/document/d/1QApRuQix90wUjGpzXBtnYTMJsqTLM_vTQLN5XZ2O7eQ/edit (TW notes on IA and Content requirements)
