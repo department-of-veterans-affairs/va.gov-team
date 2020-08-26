@@ -50,11 +50,11 @@
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
 | Stakeholder Interviews & Paper 	 	| Blocked |  #11037	|
-| Card Sort and Visit Intro research complete	 	| -- | #11936 | 
-| [UI] Demographics and This Visit mocks complete   	| -- | #12259 & #12280|
-| [FE/BE] Tech Spike - Unauth and Auth Pros and Cons		| -- | #12291 | 
-| [BE] Reason for Visit data Integration | -- | #12285 |
-| [FE] Demographics and Confirmation| -- | #12257 & |
+| Card Sort and Visit Intro research complete	 	| complete | #11936 | 
+| [UI] Demographics and This Visit mocks complete   	| Continue to Sp29 | #12259 & #12280|
+| [FE/BE] Tech Spike - Unauth and Auth Pros and Cons		| complete | #12291 | 
+| [BE] Reason for Visit data Integration | -- | Continue to Sp29 |
+| [FE] Demographics and Confirmation| -- | Continue to Sp29 |
 
 
 
