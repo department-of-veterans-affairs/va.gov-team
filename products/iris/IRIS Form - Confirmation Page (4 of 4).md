@@ -1,4 +1,4 @@
-# IRIS Form - Confirmation Page (4 of 4)
+# IRIS Form - Confirmation Page (4 of 4) - TO FINISH
 
 Relevant links: 
 - Invision prototype [Desktop]()  | [Mobile]()  - Coming soon.  Please see the story for wireframes
@@ -11,21 +11,20 @@ This page serves to let the user know that their message has been successfully r
 ### Interaction Notes
 - No main interaction design notes here - no calls to action
 - Static content confirming receipt of message
-- If the users wants to navigate from here, they'll do it via normal interaction (i.e. go to navigation bar at top etc.
+- If the users wants to navigate from here, they'll do it via normal interaction (i.e. go to navigation bar at top etc.) - no calls to action on this screen
 
 ### Content  - TO DO
 
-Possible content - need to use VA standards for confirmation. The current state is here: https://github.com/department-of-veterans-affairs/orchid/issues/76 
+Possible content - need to use VA standards for confirmation. The story for this is here: https://github.com/department-of-veterans-affairs/orchid/issues/76 
 
 # Title: we received your message
 
+TO FINISH:
 to include:
 - estimated time for response
 - print for your records
 - copy of what was sent (in blue box)
 
-
-TO FINISH:
 
 ```
 # Title of page
