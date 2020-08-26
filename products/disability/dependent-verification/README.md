@@ -13,4 +13,6 @@ DEPO will run a 2-week discovery sprint which will produce
 
 The start date will be determined by priority against the Benefits Portfolio Roadmap, or sooner if funding is available.
   
-Discovery sprint methodology: https://department-of-veterans-affairs.github.io/va-digital-service-handbook/delivery/research-and-discovery/index.html
+Discovery sprint methodology: 
+- https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/README.md
+- https://department-of-veterans-affairs.github.io/va-digital-service-handbook/delivery/research-and-discovery/index.html
