@@ -119,7 +119,7 @@ Adding more surface area to the API does enable new possibilities for denial-of-
 Remediation could include caching each “miss” for a period of time, protecting the introspect endpoint.
 
 ##### CSRF for API POST requests
-We know we can disable CSRF checking on the server-side for the mobile POST routes, but that seems unwide.
+We know we can disable CSRF checking on the server-side for the mobile POST routes, but that seems unwise.
 We will research best practices for this that do not include turning off the CSRF checking.
 
 
