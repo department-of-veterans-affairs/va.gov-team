@@ -313,22 +313,22 @@ In this case, using a matcher, like `eachLike`, would not be appropriate.
 
 ### Quick Reference Checklist:
 
-0. Have frontend push pact to broker. If blocked, [use a local json file](https://hackmd.io/2KMv4yM5TwOqWE3do7iBUw?both#How-to-use-a-local-file-if-blocked-by-frontend). See live pacts [here](https://vagov-pact-broker.herokuapp.com/).
-1. [How to Set Up a Provider State](https://hackmd.io/2KMv4yM5TwOqWE3do7iBUw?both#How-to-Set-Up-a-Provider-State) 
-    1a. [Naming Guidelines](https://hackmd.io/2KMv4yM5TwOqWE3do7iBUw?both#Naming-Guidelines)
-    1b. [Idenfity Expected Responses](https://hackmd.io/2KMv4yM5TwOqWE3do7iBUw?both#Idenfity-Expected-Responses)
-    1c. [Authorization](https://hackmd.io/2KMv4yM5TwOqWE3do7iBUw?both#Authorization)
-    1d. [VCR](https://hackmd.io/2KMv4yM5TwOqWE3do7iBUw?both#VCR)
+0. Have frontend push pact to broker. If blocked, [use a local json file](#how-to-use-a-local-file-if-blocked-by-frontend). See live pacts [here](https://vagov-pact-broker.herokuapp.com/).
+1. [How to Set Up a Provider State](#how-to-setup-a-provider-state) 
+    1a. [Naming Guidelines](#naming-guidelines)
+    1b. [Idenfity Expected Responses](#identify-expected-responses)
+    1c. [Authorization](#authorization)
+    1d. [VCR](#vcr)
 2. Development Configurations
-    2a. [Configure the pact_uri](https://hackmd.io/2KMv4yM5TwOqWE3do7iBUw?both#Configure-the-pact_uribroker_url)
-    2b. [Optionally comment out the publish flag](https://hackmd.io/2KMv4yM5TwOqWE3do7iBUw?both#Optionally-Comment-Out-Publish-Flag)
-5. [Run the Verification Task](https://hackmd.io/2KMv4yM5TwOqWE3do7iBUw?both#How-to-Run-the-Verification-Task) & Iterate 
-6. [Verify Your Results](https://hackmd.io/2KMv4yM5TwOqWE3do7iBUw?both#How-to-verify-your-results)
-7. [Final Steps](https://hackmd.io/2KMv4yM5TwOqWE3do7iBUw?both#Final-Steps)
+    2a. [Configure the pact_uri](#configure-the-pact_uri/broker_url)
+    2b. [Optionally comment out the publish flag](#optionally-comment-out-publish-flag)
+5. [Run the Verification Task](#how-to-run-the-verification-task) & Iterate 
+6. [Verify Your Results](#how-to-verify-your-results)
+7. [Final Steps](#final-steps)
     6a. Configure broker_uri
     6b. Configure the publish flag
     6c. Open PR to introduce the new changes
-7. [Additional Broker Matrix and Tagging Details](https://hackmd.io/2KMv4yM5TwOqWE3do7iBUw?both#Broker-Matrix-and-Tagging)
+7. [Additional Broker Matrix and Tagging Details](#broker-matrix-and-tagging)
 
 ----
 
@@ -401,13 +401,13 @@ test_database_url: postgis://postgres:password@postgres:5432/vets_api_test?pool=
 The verification task can be run at any point in development, but it may be helpful to run frequently to point out failures during development iterations. 
 
 ### How to verify your results
-When the verification task completes, passing (green) and failing (red) interactions will display in the console. See example console output below. Verification status can also be viewed on the broker index page and in the verification matrix (see [broker matrix section](https://hackmd.io/2KMv4yM5TwOqWE3do7iBUw?both#Broker-Matrix-and-Tagging) below).
+When the verification task completes, passing (green) and failing (red) interactions will display in the console. See example console output below. Verification status can also be viewed on the broker index page and in the verification matrix (see [broker matrix section](#broker-matrix-and-tagging) below).
 
 ![](https://i.imgur.com/7scCEhi.png)
 
 
 ### Final Steps
-When your verification status is all green, please reconfigure your changes from step 2 in the [checklist](https://hackmd.io/2KMv4yM5TwOqWE3do7iBUw?both#Quick-Reference-Checklist) by doing the following. 
+When your verification status is all green, please reconfigure your changes from step 2 in the [checklist](#quick-reference-checklist) by doing the following. 
 1. Reconfigure the `pact_broker_base_url`
 2. Remove the temporary `pact_uri` definition. 
 3. Revise/uncomment the publication flag.   
