@@ -11,9 +11,9 @@
 ------
 
 
-### August 2020
+## August 2020
 
-#### August, 2020: Collaboration Cycle v1 Research
+### Collaboration Cycle v1 Research
 *Service Design: Naomi Marcussen*
 
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/collab-cycle-v1)
