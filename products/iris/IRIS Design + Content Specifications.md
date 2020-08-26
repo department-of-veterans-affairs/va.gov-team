@@ -36,3 +36,10 @@ Documentation containing descriptions, interaction notes, and content for each c
 ## REFERENCES ## 
 - https://github.com/department-of-veterans-affairs/va.gov-team/blob/49d19a3db2cf8ace47c6df06f95b828eaac73463/teams/vsa/design/getting-started-with-va.gov-forms.md#the-main-form-pages
 - https://docs.google.com/document/d/1QApRuQix90wUjGpzXBtnYTMJsqTLM_vTQLN5XZ2O7eQ/edit (TW notes on IA and Content requirements)
+
+
+## Questions ## 
+
+- do we need the intro page of the Form Builder? Likely not - this is a different kind of form. Because this isn’t them gathering paperwork in support of submitting this form, we may be able to not have it.
+
+
