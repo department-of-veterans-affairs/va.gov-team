@@ -59,6 +59,10 @@ Since the mobile app MVP is replicating functionality that exists on VA.gov toda
 
 
 ## Tools
+### Repos
+- Content is in VSP
+- Code will be in its own repo 
+
 ### Zenhub  
 - **Board:** VFS 
 - **Workspace:** VA Mobile App
