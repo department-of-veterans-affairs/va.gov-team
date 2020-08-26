@@ -10,8 +10,10 @@ The developers are working with the VA Form Builder for the flow, which should f
 
 - Since this is a publicly facing experience on the VA.gov site, the VA.gov header and footer navigation areas will be present
 - Interactions will follow the VA Form Builder and the VA Design System - no anticipated new design patterns will likely be necessary.
+- The content for the new form will come from IRIS, GI Bill and possibly myhealthevet; We are still evaluating content with stakeholders on what content is actually necessary - the myhealthevet form may end up being a stand-alone form as well.  We are using the Form Fields Mapping sheet to keep track of these, and not all have been included in the wireframes.
 - Additional notes about interactions or content that apply globally will be updated as necessary and tracked on our [board](https://app.zenhub.com/workspaces/orchidiris-5f29c3a0250c8f001f1397ac/board?repos=285091133
 )
+
 
 ## Per Page Specifications
 The most updated version of the full prototype will be added as it is built - please see the IRIS board in Github for the stories.
