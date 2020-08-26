@@ -27,6 +27,9 @@ Since the mobile app MVP is replicating functionality that exists on VA.gov toda
 - **Security:** Consulted on security standards
 - **Design:** Consulted as needed on design decisions
 
+## Apple
+- Consulted as needed
+
 ## Workflow
 ### Timeline
 - MVP 1.0 = November, 2020
