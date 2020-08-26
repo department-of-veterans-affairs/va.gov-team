@@ -15,7 +15,8 @@
 - Do we have a recommendation on Class components vs function components? - Mike C.
   - Hook components don't play well with Enzyme
   - https://overreacted.io/how-are-function-components-different-from-classes
-  - Action Item: Write up a ticket to create a Resource page in the Gatsby app
+  - ~Action Item: Write up a ticket to create a Resource page in the Gatsby app~
+    - https://github.com/department-of-veterans-affairs/va.gov-team/issues/12890
 
 # 20200812
 
