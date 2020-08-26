@@ -344,8 +344,6 @@ rake pact:verify:at[tmp/hca-va.gov_api.json]
 ### How to Set Up a Provider State
 
 #### What are Provider States?
-[Why provider states are necesary](https://hackmd.io/2KMv4yM5TwOqWE3do7iBUw#More-on-provider-states)
-
 "Provider states" (similar to fixtures) can allow the same request to be made with a different expected response. e.g. response codes, data, etc
 
 A corresponding provider state will need to be defined (even if not necessary) on the backend. Provider states define code that should run before/after each interaction for a given consumer. **If a provider state is not necessary, please define no_op inside of a wrapping provider state block.** Please see the [provider state documentation](https://github.com/pact-foundation/pact-ruby/wiki/Provider-states#provider-codebase) for provider state instructions. Additionally, see the [search example](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/provider_states_for/search.rb#L3).
