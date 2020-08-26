@@ -1,13 +1,18 @@
 # VA Mobile App MVP: Team Working Agreement
 
 ## Team Members
+- Martha Wilkes 
+- Ryan Thurwell
+- Steve Kovac (Product Owner, VA)
 - Sophie Myers (Product Lead, Ad Hoc)
 - Jonathan Julian (Engineering Lead, Ad Hoc)
 - Alastair Dawson (API Engineer, Ad Hoc)
 - Bridget Hapner (UX Lead, Ad Hoc)
-- Martha Wilkes 
-- Ryan Thurwell
-- Steve Kovac (Product Owner, VA)
+- Digital Project Strategist, Digital Foundry
+- Mobile Engineer, Digital Foundry
+- Mobile Engineer, Digital Foundry
+- Mobile Engineer, Digital Foundry
+- Mobile QA, Digital Foundry
 
 ## VFS Teams
 
@@ -23,6 +28,9 @@ Since the mobile app MVP is replicating functionality that exists on VA.gov toda
 - **Design:** Consulted as needed on design decisions
 
 ## Workflow
+### Timeline
+- MVP 1.0 = November, 2020
+- MVP 2.0 = February, 2020
 
 ### VA Stakeholder Meetings
 - **Design:** 2x a week w/ Martha, Ryan and Steve if available 
@@ -37,6 +45,7 @@ Since the mobile app MVP is replicating functionality that exists on VA.gov toda
 - **Demo:** Every other Tues
 - **Retro:** Every other Tues
 
+#### Example of Sprint 0 Cadence:
 ![Screen Shot 2020-08-26 at 12 59 00 PM](https://user-images.githubusercontent.com/58053619/91339840-ad804300-e79c-11ea-927e-8aa112583284.png)
 
 
@@ -93,4 +102,9 @@ Since the mobile app MVP is replicating functionality that exists on VA.gov toda
 - [#va-mobile-app](https://dsva.slack.com/archives/C018V2JCWRJ) is where most of our conversations should live (try not to DM as much as possible!)
 - Github label is va-mobile-app 
 - Copy relevant slack convos into Zenhub tickets
+
+## Project Plan for MVP 1.0 (through November 2020)
+
+
+![VA mobile app MVP - sprint planning draft](https://user-images.githubusercontent.com/58053619/91340995-7ca10d80-e79e-11ea-91ec-15a711cc671b.png)
 
