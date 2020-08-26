@@ -75,7 +75,7 @@ For purposes related to integration test coverage for VSP, pacts are currently o
 ------
 
 ## Broker
-The Pact broker is currently hosted on [Heroku](https://vagov-pact-broker.herokuapp.com/).
+The Pact broker is currently hosted on [Heroku](https://vagov-pact-broker.herokuapp.com/). You can view the interactions per endpoint and the verification matrix from the broker index.
 
 
 ## Implementation details
@@ -332,9 +332,6 @@ In this case, using a matcher, like `eachLike`, would not be appropriate.
 7. [Additional Broker Matrix and Tagging Details](https://hackmd.io/2KMv4yM5TwOqWE3do7iBUw?both#Broker-Matrix-and-Tagging)
 
 ----
-
-### Live Pacts
-The live pacts live on our [heroku broker](https://vagov-pact-broker.herokuapp.com/). You can view the interactions per endpoint and the verification matrix from the broker index.
 
 ### How to use a local file if blocked by frontend
 If waiting on frontend to generate the contract and push to the broker, a temporary (local) contract can be used. You can verify a pact at any arbitrary local or remote URL using the pact:verify:at task. 
