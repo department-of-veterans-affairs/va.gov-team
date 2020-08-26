@@ -1,24 +1,23 @@
 # Release Plan Higher Level Review
 
 ## HLR Remaining Work and Estimated Effort (as of 8/26/2020)
-Phase I:
-[Development] HLR: Schema Changes #11094 - In Validation
-[Design] HLR: Design and Content Wizard Updates #12891 - Sprint 29
-[Development] HLR: Wizard Implementation #12925 - Sprint 30
-[Development] HLR: Update to HLR Schema Based on LH Changes #12319 - Sprint 29
-[Analytics] HLR: Back-End Grafana Dashboard for Submission Success/Errors #10712 - Sprint 29
-[Launch] HLR: Prepare Launch Product Video for Higher Level Review #6209 - Sprint 30
-[Testing] HLR: User Acceptance Testing for Higher Level Review #7802 - Sprint 31
-[Launch] HLR: Prepare Final Steps of Collaboration Cycle in Preparation for Launch #9763 - Sprint 30
+- Phase I:
+  - [Development] HLR: Schema Changes #11094 - In Validation
+  - [Design] HLR: Design and Content Wizard Updates #12891 - Sprint 29
+  - [Development] HLR: Wizard Implementation #12925 - Sprint 30
+  - [Development] HLR: Update to HLR Schema Based on LH Changes #12319 - Sprint 29
+  - [Analytics] HLR: Back-End Grafana Dashboard for Submission Success/Errors #10712 - Sprint 29
+  - [Launch] HLR: Prepare Launch Product Video for Higher Level Review #6209 - Sprint 30
+  - [Testing] HLR: User Acceptance Testing for Higher Level Review #7802 - Sprint 31
+  - [Launch] HLR: Prepare Final Steps of Collaboration Cycle in Preparation for Launch #9763 - Sprint 30
 
-Phase II:
-[Development] HLR: Triage Front-End Issues
-[Development] HLR: Triage Back-End Issues
-[Metrics] HLR: Review Submissions with Stakeholders
-[Metrics] HLR: Daily Review of Sentry Metrics
+- Phase II:
+  - [Development] HLR: Triage Front-End Issues
+  - [Development] HLR: Triage Back-End Issues
+  - [Metrics] HLR: Review Submissions with Stakeholders
+  - [Metrics] HLR: Daily Review of Sentry Metrics
 
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
-
 ### Planning:
 - Desired date range or test duration: [Sept 2X - 2X]
 - Desired number of users: 5-8
