@@ -28,8 +28,8 @@ Inquiry Type (*Required) (combo-box with search field)
 note idea of not having Claims status here should be discussed - see ticket for details.
 
 - Inquiry Topic (*Required) (combo-box with search field)
-Please see story details for content.  Default number of values TBD. Values sorted alphabetically. For the list of Level 1, Level 2 and Level 3 values 
-please refer the Excel spreadsheet in the story.  These are values we need to confirm with stakeholders - we're in the process of doing this.
+Please see story details for content.  Default number of values TBD. Values sorted alphabetically. For the list of Level 1, Level 2 and Level 3 
+values  please refer the Excel spreadsheet in the story.  These are values we need to confirm with stakeholders - we're in the process of doing this.
 
 - Enter your message here (*Required) 
 (large text box)
@@ -51,3 +51,5 @@ Please do not enter your name, file number, or social security number in the que
 Additionally there are support texts to include which we should account for.  These will likely be in a future story - for now we've got
 - https://iris.custhelp.va.gov/app/answers/detail_popup/a_id/1705
 - https://iris.custhelp.va.gov/app/answers/detail_popup/a_id/1702
+
+We'll also be looking for examples on https://design.va.gov/patterns/supplemental-content and the Design Pattern Libary to address these.
