@@ -61,7 +61,7 @@ Since the mobile app MVP is replicating functionality that exists on VA.gov toda
 ## Tools
 ### Repos
 - Content is in va.gov-team
-- Code - TBD
+- Code is in vets-api
 
 ### Zenhub  
 - **Board:** VFS 
