@@ -1,8 +1,17 @@
 ### 8/26 Update
 
-- **Education (Form 
-- **Disabilty (Form 526)**: Initial dev is complete and on staging at https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction
 
+- **Education (Form 1990)**: Initial dev is complete and on staging at: https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction. The wizard also applies to the following Education benefits forms:
+  - 0994
+  - 1990e
+  - 1990n
+  - 1995
+  - 5495
+  - 5490
+  
+      - **Rogers STEM Scholarship**: Initial dev on only the application page -- the Wizard will come in follow up phase -- is at: https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction
+
+- **Disabilty (Form 526)**: Initial dev is complete and on staging at https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction
 
 
 ### 8/24 Update
