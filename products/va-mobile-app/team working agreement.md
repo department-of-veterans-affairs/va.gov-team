@@ -22,7 +22,7 @@ Since the mobile app MVP is replicating functionality that exists on VA.gov toda
 - **Security:** Consulted on security standards
 - **Design:** Consulted as needed on design decisions
 
-## Workflow and Processes
+## Workflow
 
 ### VA Stakeholder Meetings
 - **Design:** 2x a week w/ Martha, Ryan and Steve if available 
@@ -45,19 +45,35 @@ Since the mobile app MVP is replicating functionality that exists on VA.gov toda
 - **Profile/Logged-in Homepage team:** biweekly and async through [va-mobile-app](https://dsva.slack.com/archives/C018V2JCWRJ) and [vsa-authd-exp](https://dsva.slack.com/archives/C909ZG2BB) channels
 - **Claims Status Tool:** TBD
 
-### Zenhub Pipeline Ettiquete
+### Cadence with VSP 
+- TBD - likely as needed rather than reoccuring
+
+
+## Tools
+### Zenhub  
 - **Board:** VFS 
 - **Workspace:** VA Mobile App
 - **Label:** va-mobile-app
 
-Tickets in a sprint include:
+**Tickets in a sprint include these pipelines:**
 - In progress
 - Current sprint
 
-Tickets outside a sprint include:
+**Tickets outside a sprint include these pipelines:**
 - Backlog
 - Icebox 
 
+### Design tools
+- Sketch
+
+### CI/Deployment
+- Circle CI
+
+### Monitoring and Analytics
+- Firebase
+
+### Remote Testing
+- Saucelabs
 
 ## Upcoming Key Decisions
 ### Design
