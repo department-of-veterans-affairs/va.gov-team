@@ -24,7 +24,6 @@
                 - [Specific arrays](#specific-arrays)
     - [How to configure the provider codebase (vets-api)](#how-to-configure-the-provider-codebase-vets-api)
         - [Quick reference checklist](#quick-reference-checklist)
-        - [Live pacts](#live-pacts)
         - [How to use a local file if blocked by frontend](#how-to-use-a-local-file-if-blocked-by-frontend)
         - [How to setup a provider state](#how-to-setup-a-provider-state)
             - [What are provider states?](#what-are-provider-states)
