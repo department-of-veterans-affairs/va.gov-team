@@ -1,18 +1,18 @@
 # VA Mobile App MVP: Team Working Agreement
 
 ## Team Members
-- Martha Wilkes 
-- Ryan Thurwell
+- Martha Wilkes (UX, VA)
+- Ryan Thurwell (Creative Director, VA)
 - Steve Kovac (Product Owner, VA)
 - Sophie Myers (Product Lead, Ad Hoc)
 - Jonathan Julian (Engineering Lead, Ad Hoc)
 - Alastair Dawson (API Engineer, Ad Hoc)
 - Bridget Hapner (UX Lead, Ad Hoc)
-- Digital Project Strategist, Digital Foundry
-- Mobile Engineer, Digital Foundry
-- Mobile Engineer, Digital Foundry
-- Mobile Engineer, Digital Foundry
-- Mobile QA, Digital Foundry
+- TBD, (Digital Project Strategist, Digital Foundry)
+- TBD, (Mobile Engineer, Digital Foundry)
+- TBD, (Mobile Engineer, Digital Foundry)
+- TBD, (Mobile Engineer, Digital Foundry)
+- TBD, (Mobile QA, Digital Foundry)
 
 ## VFS Teams
 
@@ -60,8 +60,8 @@ Since the mobile app MVP is replicating functionality that exists on VA.gov toda
 
 ## Tools
 ### Repos
-- Content is in VSP
-- Code will be in its own repo 
+- Content is in va.gov-team
+- Code - TBD
 
 ### Zenhub  
 - **Board:** VFS 
