@@ -5,10 +5,18 @@
  -  LC go-to-market strategy: how will users find the Learning Center?
 </details>
 
-## Tuesday September 1
+## Tuesday September 1 (4pm ET)
 
 1. Review backlog for Sprint 14
 1. other
+
+### Action items
+
+1. 
+
+## Tuesday September 1 (2:30-3:30pmET)
+
+1. FE Tags and authoring experience rules - [MURAL](https://app.mural.co/t/vagov6717/m/vagov6717/1597845145225/5e258a50346775afe0125cd5126bce952fde5d94). 
 
 ### Action items
 
