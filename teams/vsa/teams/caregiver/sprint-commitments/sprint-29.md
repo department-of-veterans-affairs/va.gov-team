@@ -11,8 +11,8 @@
 ## Backend
 - [ ] Track bounced 10-10cg applications in Google Analytics
 - [ ] Backend changes to make gender a not required field, remove unknown as option
-- [ ] Submit PDF to CARMA with signature [PR](https://github.com/department-of-veterans-affairs/vets-api/pull/4759)
-- [ ] Add timestamp to generated PDF [PR](https://github.com/department-of-veterans-affairs/vets-api/pull/4759)
+- [ ] Submit PDF to CARMA with signature  | [PR](https://github.com/department-of-veterans-affairs/vets-api/pull/4759)
+- [ ] Add timestamp to generated PDF | [PR](https://github.com/department-of-veterans-affairs/vets-api/pull/4759)
 
 ## Design/Product/Content
 - Update content based on Program feedback
