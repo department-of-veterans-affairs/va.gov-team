@@ -18,5 +18,5 @@
 
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/collab-cycle-v1)
 - [What's working / What can be improved](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1598479831625/f159a09587d33661bebd51a099025cd1a121dbfe)
-- [Final Insights](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/collab-cycle-v1/Collab%20Cycle%20v1%20Final%20Insights.pdf)
-- [Solution board](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1598480211500/ddf020c67734b3aece3f1074b8a455955c05c4f5)
+- [Final Insights Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/collab-cycle-v1/Collab%20Cycle%20v1%20Final%20Insights.pdf)
+- [Solution Mural board](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1598480211500/ddf020c67734b3aece3f1074b8a455955c05c4f5)
