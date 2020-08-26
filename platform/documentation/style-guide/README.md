@@ -7,7 +7,7 @@ This is the house style guide for the Veteran-facing Services Platform (VSP). It
 * [Grammar and punctuation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/documentation/style-guide/grammar-punctuation.md)
 * [Formatting and organization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/documentation/style-guide/formatting-and-organization.md)
 * [Developer content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/documentation/style-guide/developer-content.md)
-* [Word List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/documentation/style-guide/word-list.md)
+* [Word list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/documentation/style-guide/word-list.md)
 * [What's new?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/documentation/style-guide/whats-new.md)
 
 
