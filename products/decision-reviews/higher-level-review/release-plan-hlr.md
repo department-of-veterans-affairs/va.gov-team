@@ -1,8 +1,26 @@
 # Release Plan Higher Level Review
+
+## HLR Remaining Work and Estimated Effort (as of 8/26/2020)
+Phase I:
+[Development] HLR: Schema Changes #11094 - In Validation
+[Design] HLR: Design and Content Wizard Updates #12891 - Sprint 29
+[Development] HLR: Wizard Implementation #12925 - Sprint 30
+[Development] HLR: Update to HLR Schema Based on LH Changes #12319 - Sprint 29
+[Analytics] HLR: Back-End Grafana Dashboard for Submission Success/Errors #10712 - Sprint 29
+[Launch] HLR: Prepare Launch Product Video for Higher Level Review #6209 - Sprint 30
+[Testing] HLR: User Acceptance Testing for Higher Level Review #7802 - Sprint 31
+[Launch] HLR: Prepare Final Steps of Collaboration Cycle in Preparation for Launch #9763 - Sprint 30
+
+Phase II:
+[Development] HLR: Triage Front-End Issues
+[Development] HLR: Triage Back-End Issues
+[Metrics] HLR: Review Submissions with Stakeholders
+[Metrics] HLR: Daily Review of Sentry Metrics
+
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
-- Desired date range or test duration: [July 1 - July 3]
+- Desired date range or test duration: [Sept 2X - 2X]
 - Desired number of users: 5-8
 - How you'll recruit the right production test users: Perigian (normal process)
 - How you'll conduct the testing: With LightHouse.  The primary integration points are with LightHouse and we will be conducting UAT that tests both our code and their code.
@@ -20,7 +38,7 @@ Test User Info: https://github.com/department-of-veterans-affairs/va.gov-team/bl
 ## Phase II: unmoderated production testing
 
 ### Planning:
-- Desired date range: July 6 - July 10
+- Desired date range: October
 - Desired number of unique users: 20-30
 - How you'll make the product available in production while limiting the # of users who can find/access it: Using the flipper UI
 - "Success" criteria (by the numbers): HLR are being submitted successfully, PDFs generated.  This is not auto establishment so easier to test.
@@ -37,10 +55,10 @@ Our plan will be to do 2 days of 25% gating, 2 days of 50% gating, and 1 days of
 
 More phases? Sure! If it makes sense for your product! Plan them out with the same structure as above.
 
-## Go Live!
+## 100% Go Live!
 
 ### Planning:
-- Desired date: July 14
+- Desired date: October 15
 - Post-launch KPI 1: xx lorem ipsum
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum
