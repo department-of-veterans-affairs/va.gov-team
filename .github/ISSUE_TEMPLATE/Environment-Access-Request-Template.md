@@ -33,4 +33,4 @@ ssh-rsa  AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+A
 
 - Grant AWS Console access?
   > YES / NO
-  - Please give a brief description for why you are requesting AWS access.
+  - What AWS services do you need access to and why? 
