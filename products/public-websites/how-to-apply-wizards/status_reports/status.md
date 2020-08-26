@@ -9,7 +9,7 @@
   - 5490 (Apply for Education Benefits as an Eligble Dependent)
   - 5495 (Dependents' Request for Change of Program or Place of Training)
   
-  #### Team: Booz Allen (PM: Amy Knox)
+#### Team: Booz Allen (PM: Amy Knox)
 - **Rogers STEM Scholarship (Form 22-10203)**: Initial dev on only the application page -- **the Wizard will come in follow up phase** -- is at: https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction. (U/P is veterans / am3rica) This form will launch prior to a deadline of October 1.  A prototype is [here.](https://bahdigital.invisionapp.com/share/AUIADV5GTC2#/screens).  The STEM product will use a slightly modified version of the Education wizard (e.g. slight differences in the wizard content).
 
 #### Team: BAM 1 (PM: Luke Majewski + Developer: Robin Garrison)
