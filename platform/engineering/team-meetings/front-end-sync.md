@@ -1,3 +1,22 @@
+# 20200826
+
+## Agenda 
+- Flaky tests
+  - Chris: "I've noticed them more."
+  - Eugene: "I tried to make a PR last week, and tests 
+  - Step 1: Identify what tests are flaky
+  - How can/should we track flaky tests?
+  - `${jenkinsBuild}/api`
+    - `failed tests` property
+  - https://plugins.jenkins.io/build-failure-analyzer/
+  - https://circleci.com/docs/2.0/collect-test-data/
+  - Eugene: "Tests seem to fail more in Jenkins than Circle."
+  - Action Item: Write a ticket to investigate flaky tests that Eugene encountered on Mocha 8 PR
+- Do we have a recommendation on Class components vs function components? - Mike C.
+  - Hook components don't play well with Enzyme
+  - https://overreacted.io/how-are-function-components-different-from-classes
+  - Action Item: Write up a ticket to create a Resource page in the Gatsby app
+
 # 20200812
 
 ## Agenda 
