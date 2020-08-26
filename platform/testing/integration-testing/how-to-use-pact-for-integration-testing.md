@@ -53,8 +53,8 @@ Pact satisfies the need for end-to-end integration tests between `vets-website` 
 
 ### Definitions
 - **Pact** - Another term for 'contract'
-- **Consumer** - the consumer `vets-website` generates the pact
-- **Provider** - the provider `vets-api` verifies the pact
+- **Consumer** - the consumer `vets-website` generates pacts
+- **Provider** - the provider `vets-api` verifies pacts
 - **Broker** - pacts are published to a central location e.g. a broker
 
 ### Process
