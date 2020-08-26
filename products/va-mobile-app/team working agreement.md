@@ -64,7 +64,8 @@ Since the mobile app MVP is replicating functionality that exists on VA.gov toda
 ## Tools
 ### Repos
 - Content is in va.gov-team
-- Code is in vets-api
+- API code is in vets-api
+- Mobile code is in TBD
 
 ### Zenhub  
 - **Board:** VFS 
@@ -83,13 +84,13 @@ Since the mobile app MVP is replicating functionality that exists on VA.gov toda
 - Sketch
 
 ### CI/Deployment
-- Circle CI
+- CircleCI
 
 ### Monitoring and Analytics
 - Firebase
 
 ### Remote Testing
-- Saucelabs
+- SauceLabs
 
 ## Upcoming Key Decisions
 ### Design
