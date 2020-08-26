@@ -27,9 +27,12 @@ Since the mobile app MVP is replicating functionality that exists on VA.gov toda
 ### Agile ceremonies - Starting Sept 1
 - **Daily standup:** M, T, W, Th, at 1:30 EST and Slack Up on Friday; M/W we review the board, T/Th we provide updates
 - **Sprint planning:** Every other W at 1:30 EST
-- **Grooming:** As needed
+- **Grooming:** Every other Tues
 - **Demo:** Every other Tues
 - **Retro:** Every other Tues
+
+![Screen Shot 2020-08-26 at 12 59 00 PM](https://user-images.githubusercontent.com/58053619/91339840-ad804300-e79c-11ea-927e-8aa112583284.png)
+
 
 ### Cadence with VFS teams
 - **VAOS:** TBD
