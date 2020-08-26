@@ -7,6 +7,7 @@
     - [Step 4](#step-4)
     - [Step 5](#step-5)
     - [Step 6](#step-6)
+    - [Summary](#summary)
   - [Submitting the form](#submitting-the-form)
 
 
@@ -128,9 +129,21 @@ NEED: JSON of what is returned
 
 After the two calls, the HealthcareService packages up all the data in JSON object that is returned to the landing page which then displays the information in the form for the user. 
 
-NEED: JSON structure for the frontend
 
 
+### Summary
+
+This will create an endpoint that is only available for authenticated users and has the signature 
+
+
+GET /v1/healthquest/appointsments/{appointmentID} 
+
+```json
+{
+  "appointment":{all the appointment details},
+  "patient":{all the patient information}
+}
+```
 
 ## Submitting the form
 
