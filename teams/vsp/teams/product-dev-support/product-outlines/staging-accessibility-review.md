@@ -15,7 +15,7 @@ We have created documentation and examples so teams can run accessibility tests 
 ## Problem Statement
 We want teams to to conduct accessibility tests far ahead of the formal staging accessibility review. This will help them ship more accessible products, and help accessibility specialists be more focused during the review process.
 
-Teams will be empowered and confident in their ability to test early and test often. They will be able to identify low-level defects and eliminate them before the accessibility specialist begins a formal review.
+Teams will be empowered and confident in their ability to test early and test often. They will be able to identify foundational defects and eliminate them before the accessibility specialist begins a formal review.
  
 ## Desired User Outcomes
 
