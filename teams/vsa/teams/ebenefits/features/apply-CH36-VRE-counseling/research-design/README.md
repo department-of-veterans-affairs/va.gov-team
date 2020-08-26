@@ -31,6 +31,9 @@
 
 ### Prototype Changelog
 
+**August 26, 2020**
+- Wizard screen H2 headers and paragraph text revised 
+
 **August 21, 2020**
 - Wizard text updated per content review
 - Form elements have clickable labels
