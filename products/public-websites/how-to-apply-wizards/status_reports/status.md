@@ -1,3 +1,10 @@
+### 8/26 Update
+
+- **Education (Form 
+- **Disabilty (Form 526)**: Initial dev is complete and on staging at https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction
+
+
+
 ### 8/24 Update
 
 - **Education Wizard:**  IA, content, accessibility and analytics tickets have been generated per the Collab cycle review and the tasks will be worked into upcoming sprints.
