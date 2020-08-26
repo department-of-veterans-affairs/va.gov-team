@@ -313,8 +313,8 @@ You bring:
 - Link to your [QA test plan](https://dsvavsp.testrail.io/index.php?/suites/view/2&group_by=cases:section_id&group_order=asc) in TestRail with [test results](https://dsvavsp.testrail.io/index.php?/runs/view/7&group_by=cases:section_id&group_order=asc) _for QA practice area review_ 
 - Link to your [Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/12) and [Summary(Defects)](https://dsvavsp.testrail.io/index.php?/reports/view/14) reports in TestRail _for QA practice area review_
 - Review the [staging accessibility review processes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md)
-- Verify low-level accessibility tests are complete. Choose one of these 2 options:
-  - **(preferred)** Use the [TestRail VSP low-level accessibility testing checklist](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc).
+- Verify foundational accessibility tests are complete. Choose one of these 2 options:
+  - **(preferred)** Use the [TestRail VSP accessibility testing checklist](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc).
   <br/>**OR**
   - Certify the checklist of required accessibility items in the staging review issue. All required items should be checked off so the accessibility specialist can start their review on time.
   - **Required accessibility checklist**
@@ -424,8 +424,8 @@ Accessibility experts complete a full accessibility audit and coordinate with th
 ### Artifact inputs
 You bring:
 - Access information for the tool or feature in production _**do not put staging credentials in your `va.gov-team` ticket; store or reference them in a .md file in the `va.gov-team-sensitive` repository**_
-- Verify low-level accessibility tests are complete. Choose one of these 2 options:
-  - **(preferred)** Use the [TestRail VSP low-level accessibility testing checklist](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc).
+- Verify foundational accessibility tests are complete. Choose one of these 2 options:
+  - **(preferred)** Use the [TestRail VSP accessibility testing checklist](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc).
   <br/>**OR**
   - Certify the checklist of required accessibility items in the audit request issue
   - **Required accessibility checklist**
