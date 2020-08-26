@@ -3,7 +3,9 @@
 ## Goals
 1. **What product & team are you doing this research for?**
 
-This UAT will be conducted with one group of service members requesting their first disability claim before they are discharged from the miltary using the BDD tool built into the 526 flow, and a second group of veterans
+This UAT will be conducted with one group of service members requesting their first disability claim before they are discharged from the miltary using the BDD tool built into the 526 flow, and a second group of service members that submit a normal claim within 1-89 days of separation.
+
+Note that the Service Members will submit a real claim (either a normal claim or a BDD claim), and need to agree to do this in the session. We have Paul Shute and Barry Cooper in the session, that can correct anything after the submissions, if needed. 
 
 2. **Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?**
 
@@ -39,14 +41,14 @@ Service members who are separating and plan to file for disability can file thei
 
 4.	**What will you be testing?**
 
-- Submit a claim 1-89 days after separation
+- Submit a claim 1-89 days before separation.
 - Submit a claim 90-180 days before separation (BDD). Test BDD functionality and the wizard that directs them to the BDD version of 526.
 
 ## Participants and Recruitment
 
 1.	**Participant criteria: What are you looking for in a participant?**
 
-We would like **5** participants who must meet the following criteria:
+We would like **5** participants who MUST meet the following criteria:
 Required for participating in this study: 
 
 - Participants must have a DS Logon account.
@@ -64,7 +66,7 @@ Nice to have requirements:
 - Good spread in demographics.
 - Good spread across different levels of "tech-savviness".
 
-We would like **5** participants who must meet the following criteria:=
+We would like **5** participants who MUST meet the following criteria:
 Required for participating in this study: 
 
 - Participants must have a DS Logon account.
@@ -90,25 +92,23 @@ We will work with Perigean to recruit for this study.
 
 1.	**Timeline: What dates do you plan to do research?**
 
-We are looking to start sessions **Thursday, August 28, 2020. We will test with users August 28, and then 3 and 4th September**.
+We are looking to start sessions **Thursday, Saptember 2, 2020. We will test with users September 2, 3 and 4 **.
 
 2.	**Prepare: When will the thing you are testing be ready?**
 
-BDD should be live on production with EVSS on or about August 21, 2020. 
+BDD should be live on production with EVSS on or about August 26, 2020. 
 
 3. **Length of Sessions: How long do you estimate each session will be?**
 
-We expect sessions to only be 60 minutes. **Please schedule sessions for 60 minutes with a 30 minute buffer between sessions**.
+We expect sessions to be 60 minutes. **Please schedule sessions for 60 minutes with a 30 minute buffer between sessions**.
 
 4.	**Availability: If applicable, when would you like sessions scheduled?**
 
-On August 28 we want to test at least one user per group (one for BDD and one for a normal claim). Between 2 pm and 7pm EST. (Please book as many users that would make it likely to get at least one from each group this day). 
-
-On September 3 and 4, we want to test 4 users per day (4 with BDD claim and 4 with normal claim). Between 11 am and 7pm EST. 
+Between 11 am and 7pm EST.
 
 5.	**Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
 
-Wednesday August 26. 
+Wednesday September 1. 
 
 ## Team Roles
 **Please list the people who will be serving in each role.**
@@ -119,7 +119,7 @@ Wednesday August 26.
 - **Project point of contact**: Christian Valla and Luke Majewski
 - **Participant(s) for pilot test**: Kevin S.
 - **Note-takers**: Kevin S.
-- **Observers**: Luke Majewski, Anna Carey, Robin Garrison, Nick Sprinkle, Barry Cooper, Tze Lei
+- **Observers**: Luke Majewski, Anna Carey, Robin Garrison, Nick Sprinkle, Barry Cooper, Tze Lei, Paul Shute, Ed Mangimelli
 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
 
@@ -131,6 +131,8 @@ Wednesday August 26.
 - Nick Sprinkle (nick.sprinkle@oddball.io)
 - Tze Lei (tze@adhocteam.us)
 - Barry Cooper (Barrett.Cooper@va.gov)
+- Paul Shute (Paul.Shute@va.gov)
+- Ed Mangimelli (ed.mangimelli@adhocteam.us)
 
 ## Resources
 - [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/disability-compensation-claim/bdd)
