@@ -21,9 +21,9 @@
 - **Higher Level Review (Form 20-0996)**: In development, but not yet in staging at https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction
 
 
-SEQUENCING RECOMMENDATIONS: 
-- Because the Education wizard and STEM scholarship are inter-linked, and STEM has a hard live date of October 1 -- launch STEM first, while making recommended changes, refinements to Education Wizard in September.   Then, couple the launch of the moved Education and Wizard in Oct/Nov.
-- And since Disability and Higher Level Review are not coupled Education, focus near-term attention/effort on these products, with goal to launch in September.
+***SEQUENCING RECOMMENDATIONS:*** 
+- Because the Education wizard and STEM scholarship are inter-linked, and STEM has a hard live date of October 1 -- launch STEM first, while making recommended changes, refinements to Education Wizard in September.   Then, couple the launch of the Education and STEM wizards in Oct/Nov.
+- And since Disability and Higher Level Review are not coupled to Education, focus near-term attention/effort on these products, with goal to launch in September.
 
 
 #### Team: eBenefits (PM: Jason Wolf + Designer/Researcher: Jim Adams)
