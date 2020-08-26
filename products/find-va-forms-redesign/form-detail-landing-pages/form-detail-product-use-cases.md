@@ -57,7 +57,7 @@ _Note: ~credentials should be stored in sensitive repos only~ All CMS content li
   - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/form-detail-landing-pages/WIP-design-files/form-detail-FE-minimum-content-072820.pdf
   
 * **Possible QA-example**
-  - http://forms.demo.ci.cms.va.gov/find-forms/about-form-10-2649b \[published with not custom-data edits; should still have Related to: & standard Helpful links (see minimal-content design PDF above)]
+  - http://forms.demo.ci.cms.va.gov/find-forms/about-form-10-2649b?_format=static_html \[published with not custom-data edits; should still have Related to: & standard Helpful links (see minimal-content design PDF above)]
   
 * **Instructions to access in ~Staging~ on prod.cms.va.gov** (_Note: ~credentials should be stored in sensitive repos only~ All CMS content lives on prod and can be viewed as unpublished previews_)
   - You must be on VA network to access the CMS preview page: 
