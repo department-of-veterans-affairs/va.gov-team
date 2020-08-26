@@ -1,13 +1,13 @@
 # VA Mobile App MVP: Team Working Agreement
 
 ## Team Members
-- Sophie Myers (Product Lead)
-- Jonathan Julian (Engineering Lead)
-- Alastair Dawson (API Engineer)
-- Bridget Hapner (UX Lead)
+- Sophie Myers (Product Lead, Ad Hoc)
+- Jonathan Julian (Engineering Lead, Ad Hoc)
+- Alastair Dawson (API Engineer, Ad Hoc)
+- Bridget Hapner (UX Lead, Ad Hoc)
 - Martha Wilkes 
 - Ryan Thurwell
-- Steve Kovac (VA Product Owner)
+- Steve Kovac (Product Owner, VA)
 
 ## VFS Teams
 
