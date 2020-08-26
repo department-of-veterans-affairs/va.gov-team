@@ -26,9 +26,9 @@ Documentation containing descriptions, interaction notes, and content for each c
    - Page 1: [Contact info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS%20Form%20-%20Main%20Page%20Contact%20Info%20(1%20of%204).md)
 - **Chapter 2: [Main Page, Inquiry Details (2 of 4)]**
    - Page 1: [Inquiry info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS%20Form%20-%20Main%20Page%20Inquiry%20Details%20(2%20of%204).md)
-- **Chapter 3: [Review Page]**
+- **Chapter 3: [Review Page (3 of 4)]**
    - Page 1: [Review Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS%20Form%20-%20Review%20Page%20(3%20of%204).md)
-- **Confirmation screen** 
+- **Confirmation screen (4 of 4) ** 
    - [Confirmation screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS%20Form%20-%20Confirmation%20Page%20(4%20of%204).md)
 
 ## REFERENCES ## 
