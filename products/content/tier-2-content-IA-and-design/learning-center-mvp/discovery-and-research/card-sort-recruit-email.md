@@ -13,4 +13,4 @@ You will be sent links to two card sorts asking you to sort article titles into 
 The session is self guided and should take you 10-20 minutes to complete both card sorts. You can do this at any time that's convenient for you.
 
 **Interested in participating?**
-Please write back to participate. After completeing both card sorts, we'll send you a code where you can access your thank you gift card.
+Please write back to participate. After completing both card sorts, we'll send you a code where you can access your thank you gift card.
