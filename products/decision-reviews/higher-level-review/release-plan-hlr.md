@@ -1,10 +1,10 @@
 # Release Plan Higher Level Review
 
 ## HLR Remaining Work and Estimated Effort (as of 8/26/2020)
-Sprint 29: 8/26-9/8
-Sprint 30: 9/9-9/22
-Sprint 31: 9/23-8/6
-Sprint 32: 8/7-8/20
+- Sprint 29: 8/26-9/8
+- Sprint 30: 9/9-9/22
+- Sprint 31: 9/23-8/6
+- Sprint 32: 8/7-8/20
 
 - Phase I:
   - [Development] HLR: Schema Changes #11094 - In Validation
@@ -23,6 +23,7 @@ Sprint 32: 8/7-8/20
   - [Metrics] HLR: Daily Review of Sentry Metrics - Sprint 31/32
 
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
+Note: Phase I testing is in production using a whitelist of users.  This is a fully deployed production version of the application but it will not be visible to all users.  We are preparing the UAT plan in Sprint 29 and will be workin to evolve it into Sprint 30.  Scheduling of UAT will be around Sprint 30/31 timeframe.
 ### Planning:
 - Desired date range or test duration: [Sept 2X - 2X]
 - Desired number of users: 5-8
