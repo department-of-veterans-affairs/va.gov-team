@@ -48,7 +48,7 @@ Calls to action:
 
 TO DO:
 
-We need to understand on screen language for support: 
+We need to understand what to do for support - I have a good idea of what design patterns to use (https://design.va.gov/patterns/supplemental-content and the Design Pattern Libary to address these), but need to a) create an inventory of what help to have, and b) where it needs to be rewritten.   For example, do we need this or does it need to be rewritten:
 
 "Please ask your question or describe the issue in detail in the space below. If the question, or issue, is about a disability, please be specific as to the type of disability(ies) or the issue(s). If you have multiple claims for benefits pending and want the status, please tell us which claim this is about.
 Please do not enter your name, file number, or social security number in the question box below. You will be asked this information in the sections below.
@@ -58,4 +58,4 @@ Additionally there are support texts to include which we should account for.  Th
 - https://iris.custhelp.va.gov/app/answers/detail_popup/a_id/1705
 - https://iris.custhelp.va.gov/app/answers/detail_popup/a_id/1702
 
-We'll also be looking for examples on https://design.va.gov/patterns/supplemental-content and the Design Pattern Libary to address these.
+For now the support text is being tracked in this story https://github.com/department-of-veterans-affairs/orchid/issues/32 - if we want to add them here I can update the actual card
