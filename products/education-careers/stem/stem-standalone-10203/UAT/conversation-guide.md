@@ -1,5 +1,7 @@
 # STEM Standalone 10203 - UAT Conversation Guide
 
+# STEM UAT Testing Script
+August 2020
 
 ## Moderator logistics
 1. In the Attendees section, make sure everyone except the participant is on mute
@@ -14,6 +16,7 @@
 ### Project-specific setup
 - Ensure that the participant has signed a consent form: [va-consent-form-10203.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/stem/stem-standalone-10203/UAT/va-consent-form-10203.pdf)
 
+## Introduction
 Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. The purpose of today's session is for us to observe you submitting an application for the VA's STEM Scholarship using the 22-10203 form on VA.gov. To reiterate what we've discussed during our earlier conversations, the Edith Nourse Rogers STEM Scholarship provides up to nine months of additional Post-9/11 GI Bill benefits (to a maximum of $30,000) to qualifying Veterans and Fry Scholars seeking an undergraduate STEM degree or who have earned a STEM degree and are seeking a teaching certification.
 
 Before we get started, I want to begin by thanking you for your willingness to participate in this session. Your participation allows us to ensure that other veterans who will be using this form in the future will have a good experience.
