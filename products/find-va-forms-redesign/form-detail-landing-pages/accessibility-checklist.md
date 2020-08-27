@@ -10,7 +10,9 @@ Tests are being conducted primarily against [About VA Form 21P-534EZ](http://pre
 - [x] Color tests for proper contrast and colorblindness - [read more about contrast and colorblindness](#color-tests)
     - Elements used on this page are CMS components. Nothing new was built for this template type.
 - [ ] Content zoomed to 200%, 300%, 400% - [read more about zoomed layouts](#content-resize-check)
+    - No scroll issues at 400%
 - [ ] Keyboard navigation - [read more about navigating with the keyboard](#keyboard-navigation-check)
+    - All links including PDF download links are navigable by tab key
 - [ ] Screen reader tests (VoiceOver + Safari or NVDA + Firefox) - [read more about getting started with screen readers](#screen-reader-tests)
 
 ## Recommended accessibility tests
