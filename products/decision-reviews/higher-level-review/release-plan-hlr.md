@@ -1,6 +1,11 @@
 # Release Plan Higher Level Review
 
 ## HLR Remaining Work and Estimated Effort (as of 8/26/2020)
+Sprint 29: 8/26-9/8
+Sprint 30: 9/9-9/22
+Sprint 31: 9/23-8/6
+Sprint 32: 8/7-8/20
+
 - Phase I:
   - [Development] HLR: Schema Changes #11094 - In Validation
   - [Design] HLR: Design and Content Wizard Updates #12891 - Sprint 29
@@ -12,10 +17,10 @@
   - [Launch] HLR: Prepare Final Steps of Collaboration Cycle in Preparation for Launch #9763 - Sprint 30
 
 - Phase II:
-  - [Development] HLR: Triage Front-End Issues
-  - [Development] HLR: Triage Back-End Issues
-  - [Metrics] HLR: Review Submissions with Stakeholders
-  - [Metrics] HLR: Daily Review of Sentry Metrics
+  - [Development] HLR: Triage Front-End Issues - Sprint 31/32
+  - [Development] HLR: Triage Back-End Issues - Sprint 31/32
+  - [Metrics] HLR: Review Submissions with Stakeholders - Sprint 31/32
+  - [Metrics] HLR: Daily Review of Sentry Metrics - Sprint 31/32
 
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 ### Planning:
