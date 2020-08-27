@@ -15,6 +15,7 @@
 
 ### Collaboration Cycle v1 Research
 *Service Design: Naomi Marcussen*
+
 *Product Support: Mandi Lipka*
 
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/collab-cycle-v1)
