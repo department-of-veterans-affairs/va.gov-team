@@ -27,8 +27,9 @@ Inquiry Type (*Required) (combo-box with search field)
 note idea of not having Claims status here should be discussed - see ticket for details.
 
 - Inquiry Topic (*Required) (combo-box with search field)
-Please see story details for content.  Default number of values TBD. Values sorted alphabetically. For the list of Level 1, Level 2 and Level 3 
-values  please refer the Excel spreadsheet in the story.  These are values we need to confirm with stakeholders - we're in the process of doing this.
+From the story:
+- Please see story details for content.  Default number of values TBD. Values sorted alphabetically. For the list of Level 1, Level 2 and Level 3 
+values  please refer the Excel spreadsheet in the story.  These are values we need to confirm with stakeholders - we're in the process of doing this.  The GI Bill folks have sent over a spreadsheet of values (GI Bill Capabilities 20200819.xlsx) so what Ramya and I can do is perhaps understand if we need to just display them alphabetically or how to integrate them into the drop down and work with Peggy on a good way to structure this.  
 
 - Enter your message here (*Required) 
 (large text box)
