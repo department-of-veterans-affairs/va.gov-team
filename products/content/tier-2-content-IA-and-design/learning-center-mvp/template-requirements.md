@@ -146,9 +146,9 @@ Up to 3 tags can be selected.
 - ~Clinicians, researchers, and health care workers~  <-- In reviewing the VHA pages, a lot of the subdomain content is so highly specialized, I just don't think they are right candidates to live in the LC. VHA clinical health and research info really does seem like Tier 3 program office content or a special tier 3 subset for the medical audience. Therefore, we will not include the clinicians etc audience as part of the MVP1.1 audience taxonomy. We can add it if we encounter a significant amount of this type of learning center benefit adjacent content during IRIS audit or during next year's tier 3 content work (i.e., if there's tier 2 information mixed in their tier 3 program content.)  8/10
 
 
-## Administration and benefit hub taxonomy
+## ~Administration and~ benefit hub taxonomy
 
-We are separating Administration info from tags. Benefit hub taxonomy and Administration info will be used in the CMS to inform certain components like the [Need more help? section](#need-more-help?-section), but not to create the FE tag experience. We may also use Administration for user access/governance, which is still TBD.
+~We are separating Administration info from tags.~ Benefit hub taxonomy ~and Administration info~ will be used in the CMS to inform certain components like the [Need more help? section](#need-more-help-section), but not to create the FE tag experience. We may also use Administration for user access/governance, which is still TBD.
 
 
 __Administrations:__
