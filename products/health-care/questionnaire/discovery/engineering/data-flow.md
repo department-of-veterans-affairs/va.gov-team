@@ -15,7 +15,9 @@
 
 # [Data Flow](#data-flow)
 
-This document describes the flow of data from a beginning to end "happy path" scenario
+This document describes the flow of data from a beginning to end "happy path" scenario. This is written with the context of what data does the front end need and how does it get. 
+
+For sources of data, checkout the [data-sources](data-sources.md)
 
 
 
