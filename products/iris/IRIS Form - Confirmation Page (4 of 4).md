@@ -1,9 +1,7 @@
 # IRIS Form - Confirmation Page (4 of 4)
 
 Relevant links: 
-- Wireframes to come
-- [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/76)
-Note the confirmation message is outside of the main form story in 86.
+- [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/76) - note this is a different story that builds on the original story in 86.
 
 ### Description
 This page serves to let the user know that their message has been successfully received by the VA, and for them to be able to track the message in the future.
