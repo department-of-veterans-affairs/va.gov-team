@@ -9,9 +9,15 @@ This page allows users to include information about their inquiry so we can rout
 
 ### Interaction Notes
 
-- Default number of values TBD. Values sorted alphabetically. For the list of Level 1, Level 2 and Level 3 values  please refer the Excel spreadsheet in the story.  These are values we need to confirm with stakeholders - we're in the process of doing this.  The GI Bill folks have sent over a spreadsheet of values (GI Bill Capabilities 20200819.xlsx) so what Ramya and I can do is perhaps understand if we need to just display them alphabetically or how to integrate them into the drop down and work with Peggy on a good way to structure this.  
+- Values for the drop down menu for topic: 
 
-Note this page will definitely evolve as we identify which fields (and their dropdowns) are required; some of this will be included in [this story](https://github.com/department-of-veterans-affairs/orchid/issues/36) as well, which will likely serve as the place where multiple fields from the GI Bill, IRIS and MyHealtheVet will live
+Default number of values TBD. Values sorted alphabetically. 
+
+
+For the list of Level 1, Level 2 and Level 3 values  please refer the Excel spreadsheet in the story.  These are values we need to confirm with stakeholders - we're in the process of doing this.  The GI Bill folks have sent over a spreadsheet of values (GI Bill Capabilities 20200819.xlsx) so what Ramya and I can do is perhaps understand if we need to just display them alphabetically or how to integrate them into the drop down and work with Peggy on a good way to structure this.  
+The values are included in [this story](https://github.com/department-of-veterans-affairs/orchid/issues/36) as well, which will likely serve as the place where multiple fields from the GI Bill, IRIS and MyHealtheVet will live
+
+
 
 - Standard VA form calls to action (buttons at the bottom allowing users to go back of forward) are included.
 
