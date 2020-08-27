@@ -2,7 +2,7 @@
 
 Relevant links: 
 - [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/68) - this is the story for the main Contact Info page
-- [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/36) - this is a story for additional values
+- [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/36) - this is a story for additional values around Social Security number etc.
 
 ### Description
 This page will be the main Contact Us form that will allow users to include their contact information, and will allow the VA to understand who is contacting them and why.
