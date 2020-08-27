@@ -1,6 +1,6 @@
 # Research Plan for Round 1 of Usability Testing of High Fidelity MVP Mobile App
 
-August 20, 2020
+August 27, 2020
 
 # What product & team?
 VA Mobile App Team, MVP Mobile App
@@ -13,55 +13,68 @@ In two previous rounds of user research, we have determined that there is a Vete
 - **Assess Veteran perception of biometric sign in**
   - Determine how useful biometric sign in would be to Veterans in a VA app
 - **Assess the effectiveness and clarity of the app IA and navigation UI**
-  - Identify obstacles to locating Claims and viewing a claim's information
-  - Identify obstacles to locating Appointments and viewing upcoming appointment information 
-  - Identify obstacles to locating Profile and Direct Deposit information
+  - Identify obstacles to navigating around the app using the bottom toolbar and in screen CTAs
+  - Identify obstacles to locating Profile
+  - Identify obstances to locating Direct Deposit
   - Identify obstacles to locating VA Letters and Documents
-  - Identify obstances to locating Settings 
-  - Identify obstances to locating Facility Locator
-  - Identify obstacles to using the toolbar navigation to navigate the app's features
-  - Identify obstacles to using home screen cards and list items to navigate the app's features
-  - Identify obstacles to using iOS segmented contols to navigate within Claims and Appointments
+  - Identify obstacles to locating Settings
+- **Assess the home screen design**
+  - Determine how useful the "notification cards" are
+  - Determine if including multiple CTAs to the same feature is confusing
+- **Assess the desired content on the mobile app Claim Status Tool**
+  - Determine what information Veterans would like to see for a specific claim
 - **Assess Veteran perception of the MVP app overall**
   - Determine if participants are satisfied or unsatisfied with MVP app features
 
 
 # Research questions
-- How do Veterans express the value of biometric sign in to them?
-- What patterns and obstacles exist within the following areas: 
-  - Homescreen
-  - Locating claims
-  - Viewing a specific claim's information
-  - Locating appointments
-  - Viewing details of an upcoming appointment
-  - Locating Facility Locator
-  - Locating COVID-19 News
+- How do Veterans express the value of biometric sign in?
+  - How useful is this?
+  - Do Veterans have any concerns about it?
+- How easily and successfully can Veterans find the following items, and what patterns and obstacles exist in finding them: 
+  - Using the Homescreen
   - Locating Profile
   - Locating Direct Deposit
-  - Locating Letters
-  - Locating App Settings
+  - Locating Letters and Documents
+  - Locating Settings
   - Using the bottom toolbar navigation
-    - How well do users understand the icons and titles in the bottom toolbar?
-    - What is unclear, and why?
-    - Do Veterans think the Veterans Crisis Line should be in the bottom toolbar?
+    - Do users find any of the icons and titles in the bottom toolbar unclear? If so, what?
+    - Do Veterans think that the Veterans Crisis Line should be in the bottom toolbar?
+    - Where do users run into problems navigating around the app?
   - Using the in-page cards and list items on the home screen
-    - How well do users understand the cards and list items?
-    - What is unclear, and why?
-    - Do Veterans use this more than the bottom toolbar? Do they come back to the home screen before navigating elsewhere?
-- How easily and successfully do users find what they're looking for in the app?
-    - Where do users run into problems?
+    - Do users find any of the cards or list items unclear? If so, what?
+    - Do Veterans use in-screen CTAs more than the bottom toolbar?
+    - Do they come back to the home screen before navigating elsewhere?
+- What information would Veterans most like to see on the mobile app Claim Status Tool?
+    - Is the information that we have included useful?
+    - What is not included that they want to see? 
+      - Why do they want this additional information? 
 - Overall, how satisfied are Veterans with the MVP feature set and overall app UI/UX design?
+    - Would participants download and use this app? 
+    - What would the most like to add to what they see in the MVP prototype? 
 
 
 # Hypothesis 
-- The bottom toolbar navigation elements will mostly be usable and clear to Veterans
-   - "Your VA" might be unclear, or users might not expect to find Facility Locator and COVID-19 News in there
-- When prompted to find App Settings, users will navigate to "Your VA" and be able to locate Settings on that screen
-- Veterans will be able to successfully find items they're looking for
-- Veterans will use homescreen cards and list items to navigate from the homescreen more than the bottom toolbar
-- Once away from the homescreen, Veterans will use the bottom toolbar to navigate
-- There may be dissatisfaction with features that are not available in the MVP (e.g. cancelling and scheduling an appointment)
-- There may be dissatisfaction with the limited health features
+- **Assess Veteran perception of biometric sign in**
+  - Biometric is very high value because sign in is a pain point
+
+- **Assess the effectiveness and clarity of the app IA and navigation UI**
+  - The bottom toolbar navigation elements will mostly be usable and clear to Veterans
+    - Users might not expect to find Facility Locator and COVID-19 News in there
+  - Veterans will be able to successfully find Profile, Direct Deposit, Letters and Documents
+  - When prompted to find Settings, users will navigate to "Your VA" and be able to locate Settings on that screen
+
+- **Assess the home screen design**
+  - Veterans will use homescreen cards and list items to navigate from the homescreen more than the bottom toolbar
+  - Once away from the homescreen, Veterans will use the bottom toolbar to navigate
+
+- **Assess the desired content on the mobile app Claim Status Tool**
+  - Veterans will want to see more information about a claim's status
+
+- **Assess Veteran perception of the MVP app overall**
+  - Veterans will want to download and use this app
+  - There may be dissatisfaction with features that are not available in the MVP (e.g. cancelling and scheduling an appointment)
+  - There may be dissatisfaction with the limited health features
 
 
 
