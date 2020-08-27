@@ -1,7 +1,8 @@
 # IRIS Form - Main Page, Inquiry Details (2 of 4)
 
 Relevant links: 
-- [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/68)
+- [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/68) - story 68 is the start of the inquiry options
+- [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/31) - story 32 is additional options.
 
 ### Description
 
