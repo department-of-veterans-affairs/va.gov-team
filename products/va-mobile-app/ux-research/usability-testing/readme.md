@@ -6,8 +6,8 @@ Throughout the development of the VA MVP mobile app, we will conduct at least 4 
 
 | Round      | Focus Area |
 | :----------- | :----------- |
-| 1   | IA & Navigation      |
-| 2   | Authentication, Editing Profile information, Editing Direct Deposit information     |
+| 1   | 1) IA & Navigation; 2) Profile, Direct Deposit, VA Letters and Documents; 3) Homescreen; 4) What's missing on Claims Status Tool?      |
+| 2   | Authentication    |
 | 3   | TBD   |
 | 4   | TBD   |
 
