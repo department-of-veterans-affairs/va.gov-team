@@ -86,8 +86,9 @@ _presented by @krfz_
 - [ ] @omgitsbillryan @krfz: Look into getting @saneshark an alpha account to Sentry 10
 - [ ] @f1337: Find a collaborative voting tool for topic suggestions
 
-## Talks for next time
+## Topics for next time
 
+- Please respond to the [Platform Satisfaction Survey](https://dsva.slack.com/archives/CE4304QPK/p1598547094042800) ([direct link](https://ows.io/qs/01s2dd7l))
 - Intro to PACT: @LindseySaari & @U-DON
 - Intro to Sentry 10 (@krfz)
 
