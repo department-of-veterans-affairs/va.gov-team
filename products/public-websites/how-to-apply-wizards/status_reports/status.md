@@ -14,15 +14,15 @@
 
 - **Rogers STEM Scholarship (Form 22-10203)**: Initial dev on only the application page -- **the Wizard will come in follow up phase** -- is at: https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction. (U/P is veterans / am3rica) This form will launch prior to a deadline of October 1.  A prototype is [here.](https://bahdigital.invisionapp.com/share/AUIADV5GTC2#/screens).  
 
-- When do you plan to launch the Apply for Roger STEM scholarship page/form?  Sept 10
+  - When do you plan to launch the Apply for Roger STEM scholarship page/form?  Sept 10
 
-- Do you plan to put the Education Wizard -- or a more specific eligibility wizard -- on the page?  We don't think it makes sense. All the content is on the apply page -- the Wizard will be repetitive.   Plus, many applicants will come from the 1990 page, where they would have just used the Wizard.
+  - Do you plan to put the Education Wizard -- or a more specific eligibility wizard -- on the page?  We don't think it makes sense. All the content is on the apply page -- the Wizard will be repetitive.   Plus, many applicants will come from the 1990 page, where they would have just used the Wizard.
 
 
-- Why the STEM and Education Wizard should ideally launch together?  Because ... the Education Wizard should link to the new [page here](https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction) instead of the more general Manage Your Education Benefits page [here.](https://staging.va.gov/education/apply-for-education-benefits/application/1995)
-  - Also, the Education Wizard will need to be updated to reflect slightly new content about the Rogers STEM scholarship.
+  - Why the STEM and Education Wizard should ideally launch together?  Because ... the Education Wizard should link to the new [page here](https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction) instead of the more general Manage Your Education Benefits page [here.](https://staging.va.gov/education/apply-for-education-benefits/application/1995)
+    - Also, the Education Wizard will need to be updated to reflect slightly new content about the Rogers STEM scholarship.
   
-- QUESTION: Which team should update the Education Wizard to reflect STEM changes -- BAM 2 or Booz Allen?
+  - QUESTION: Which team should update the Education Wizard to reflect STEM changes -- BAM 2 or Booz Allen?
 
 
 
