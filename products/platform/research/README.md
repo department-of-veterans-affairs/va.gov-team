@@ -9,3 +9,5 @@ The Research points of contact are:
 
 ### Table of contents
 - [Research history](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/research-history.md)
+- [Customer Insights Decks](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/customer%20insights)
+
