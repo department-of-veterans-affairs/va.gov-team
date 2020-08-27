@@ -2,7 +2,7 @@
 
 **Updating This? Follow this format:** 
 
-#### Date: Research Study Name** (H4 Level)
+#### Date: Research Study Name
 *Team Name, Research Lead(s)*
 
 - Link to the **research folder** for this study (everything should live in here - research plan, convo guide, notes, synthesis, report. If these do NOT live here, please add the appropriate other links.) 
