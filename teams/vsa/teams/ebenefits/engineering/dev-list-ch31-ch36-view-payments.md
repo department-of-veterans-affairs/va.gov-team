@@ -28,7 +28,7 @@ Total = 7
 - [#12055](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12834) Add GA events to form (3)
 - [#12057](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12057) Perform internal accessibility audit (2)  
 Total = 46    
-2 Sprints should be doable based on FE sprint average mean: 30 points across 9 issues  
+2 Sprints should be doable based on FE sprint average of: 30 points across 9 issues  
 
 ### Backend
 - Test central mail integration (3)
@@ -38,7 +38,7 @@ Total = 46
 - Set up sentry events  (5)
 - Test submission against environment (5)
 Total = 24  
-2 Sprints should be doable
+2 Sprints should be doable based on BE sprint average of: 21 points across 7 issues
 
 ## View my VA payment history
 ### Product
