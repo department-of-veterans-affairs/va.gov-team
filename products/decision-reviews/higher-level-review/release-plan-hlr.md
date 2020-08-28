@@ -4,7 +4,8 @@
 - Sprint 29: 8/26-9/8
 - Sprint 30: 9/9-9/22
 - Sprint 31: 9/23-8/6
-- Sprint 32: 8/7-8/20
+- Sprint 32: 10/7-10/20
+- Sprint 33: 10/21-???
 
 - Phase I:
   - [Development] HLR: Schema Changes #11094 - In Validation
@@ -13,11 +14,18 @@
   - [Development] HLR: Update to HLR Schema Based on LH Changes #12319 - Sprint 29
   - [Analytics] HLR: Back-End Grafana Dashboard for Submission Success/Errors #10712 - Sprint 29
   - [Launch] HLR: Prepare Launch Product Video for Higher Level Review #6209 - Sprint 30
-  - [Testing] HLR: User Acceptance Testing for Higher Level Review #7802 - Sprint 31
+  - [Testing] HLR: User Acceptance Testing for Higher Level Review #7802 - Sprint 31/32
   - [Launch] HLR: Prepare Final Steps of Collaboration Cycle in Preparation for Launch #9763 - Sprint 30
-
+  - [Development] HLR: Is HLR Working?  - Missing story
+  
+  Missing Stories:
+  - [Development] HLR: React to staging and accessibility reviews
+  - [Launch] HLR: Full 508
+  - [Launch] HLR: Security Review
+  - [Launch] HLR: Staging Review
+  
 - Phase II:
-  - [Development] HLR: Triage Front-End Issues - Sprint 31/32
+  - [Development] HLR: Triage Front-End Issues - Sprint 32/33
   - [Development] HLR: Triage Back-End Issues - Sprint 31/32
   - [Metrics] HLR: Review Submissions with Stakeholders - Sprint 31/32
   - [Metrics] HLR: Daily Review of Sentry Metrics - Sprint 31/32
