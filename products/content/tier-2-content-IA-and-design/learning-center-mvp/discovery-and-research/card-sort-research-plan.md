@@ -50,19 +50,25 @@ Are you a Veteran, a Veteran dependent receiving benefits from the VA, or a Vete
 
 This study requires participants to drag and drop elements.
 
-#### Recruitment strategy
+#### **Recruitment strategy** 
 
-We will use the Perigean contract to recruit Veterans using [this email template.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort-recruit-email.md)  We have included a post-study question at the end of both card sorts to collect a code from participants. We expect Perigean to generate and provide that code to participants to track completion and compensation.
+We will use the Perigean contract to recruit Veterans using [this email template.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort-recruit-email.md)  
+
+We have included a required field at the end of both card sorts to collect a code from participants. We expect Perigean to generate and provide that code to participants to track completion and compensation.  
+
+In an effort to have a low abandonment rate, please ensure it is very clear to participants that they need to have this code available when they start the card sort.
 
 **Both** card sorts should be completed for full participation.
 
 ## When?
 
-The card sort links will be available on 8/31 and we would like them sent to participants as soon as possible, and no later than September 7th. Based on the experience of other teams, we anticipate that we'll need to leave the study open for 2 weeks to reach 50 participants.
+The card sort links will be available on 8/31 and we would like them sent to participants as soon as possible, and no later than September 7th.  They will be in a draft status until this research plan is approved.
 
-The card sorting exercise should take participants 10-20 minutes to complete.
+Based on the experience of other teams, we anticipate that we'll need to leave the study open for 2 weeks to reach 50 participants.
 
-The card sort link will be tested by a member of the Public Websites team on 8/28/20.
+We estimate it will take participants 15-20 minutes to complete both card sorts.
+
+The card sort links will be tested by a member of the Public Websites team on 8/28/20.
 
 ## Team Roles
 
