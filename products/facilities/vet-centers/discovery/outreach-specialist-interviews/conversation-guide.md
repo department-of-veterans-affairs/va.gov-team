@@ -31,9 +31,9 @@ Thanks for joining us today! The session should take 45 minutes. Our goal is to 
 
 - How would you describe your role at VA?  
 
-  - What are your main duties and responsibilities? 
+- What are your main duties and responsibilities?   
   
-  - If you had to break down these responsibilities into percentages, what might that look like? 
+- If you had to break down these responsibilities into percentages, what might that look like? 
 
 - How about the role of the clinicians at your Vet Center, can you tell me what that role looks like? 
 
@@ -45,27 +45,27 @@ Thanks for joining us today! The session should take 45 minutes. Our goal is to 
 
 - How does a potential client figure out their own eligibility? e.g., a non-married couple 
 
-  - What questions do they ask you the most? Or is there anything potential clients find confusing about this process? 
+- What questions do they ask you the most? Or is there anything potential clients find confusing about this process? 
 
 
 ### Clients 
 
 - Can you describe the different types of clients that you work with? (Where in the journey are your clients. e.g. Newly separated, families during bereavement, family In crisis mode)
 
-  - If you had to break down the types into percentages that you work with, what might that look like? 
+- If you had to break down the types into percentages that you work with, what might that look like? 
   
-  - Do different types of clients tend to need different services, e.g. a Veteran vs a spouse or child? 
+- Do different types of clients tend to need different services, e.g. a Veteran vs a spouse or child? 
 
 
 ### Interacting with Clients 
 
 - What are the different ways in which you interact with your clients? e.g. Phone, in person, one-on-one, in a group setting, in the community? 
 
-  - Can you tell me how Mobile Vet Centers get used in your area?
+- Can you tell me how Mobile Vet Centers get used in your area?
   
-  - How about Community access points? How might those vary? 
+- How about Community access points? How might those vary? 
 
-  - Are there other ways you would see interacting with Veterans? (e.g., chatbot, email)  
+- Are there other ways you would see interacting with Veterans? (e.g., chatbot, email)  
 
 
 ### Services 
@@ -78,7 +78,7 @@ Thanks for joining us today! The session should take 45 minutes. Our goal is to 
 
 - Does your Vet center offer recreational outings or other activities?
 
-  - If so, how are are these offerings categorized? Do they fall under counseling or events or are they their own category?
+- If so, how are are these offerings categorized? Do they fall under counseling or events or are they their own category?
 
 - How do groups get formed?
 
@@ -98,9 +98,9 @@ Thanks for joining us today! The session should take 45 minutes. Our goal is to 
 
 - What tools, websites or resources do you use to plan and publicize outreach events? 
 
-  - Do you use or keep mailing lists, listservs, social media? 
+- Do you use or keep mailing lists, listservs, social media? 
 
-  - Partnership organizations, e.g. universities, print media? 
+- Partnership organizations, e.g. universities, print media? 
 
 - From a technology perspective, what could be improved to help you in your outreach? 
 
