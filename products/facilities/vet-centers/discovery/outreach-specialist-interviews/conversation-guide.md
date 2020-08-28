@@ -74,13 +74,15 @@ Thanks for joining us today! The session should take 45 minutes. Our goal is to 
 
 - How about those used least frequently? 
 
-- Are some services more automated vs needing to be more hands-on? 
+- Are there other services you offer other than the official list?
 
 - Does your Vet center offer recreational outings or other activities?
 
   - If so, how are are these offerings categorized? Do they fall under counseling or events or are they their own category?
 
-- How will Vets find out about these services? 
+- How do groups get formed?
+
+- How will Vets find out about these services and activities? 
 
 ### Events 
 
@@ -90,21 +92,19 @@ Thanks for joining us today! The session should take 45 minutes. Our goal is to 
 
 - Can you walk me through what it looks like to put on an event? 
 
-- Are they Vet Center specific? 
-
 - Are there recurring events that Vet Centers offer? 
 
 ### Tools 
 
 - What tools, websites or resources do you use to plan and publicize outreach events? 
 
-  - How do these help you do your job? 
-
   - Do you use or keep mailing lists, listservs, social media? 
 
   - Partnership organizations, e.g. universities, print media? 
 
 - From a technology perspective, what could be improved to help you in your outreach? 
+
+- What would be important for you to see on a new website that could help you or your Vet Center specifically?
 
 ## Closing
 
