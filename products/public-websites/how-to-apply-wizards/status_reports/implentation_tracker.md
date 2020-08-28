@@ -1,9 +1,9 @@
 ### How to Apply Wizards Implementation Tracker
 
 
-|                     | BAM 1            | BAM 2            | Booz-Allen    |  eBenefits   |
-| -------------       | -------------    | -------------    | ------------- | -------------|
-| Product             | Disability, HLR  | Education        | Content Cell  | Content Cell |
+|                     | BAM 1            | BAM 2            | Booz-Allen    |  eBenefits              |
+| -------------       | -------------    | -------------    | ------------- | -------------           |
+| Product             | Disability, HLR  | Education        | Rogers STEM   | Edu & Career Counseling |
 | Product Outline     | Content Cell     | Content Cell     | Content Cell  | Content Cell |
 | IA/Research/Design  | Content Cell     | Content Cell     | Content Cell  | Content Cell |
 | Collab Kickoff      | Content Cell     | Content Cell     |               | Content Cell |
