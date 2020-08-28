@@ -19,6 +19,8 @@ The two main pages of the Contact Us form - the Contact Us page and the Inquiry 
 
 Since most of these are standard contact us (name, address etc.) this should be fairly easy for people to fill out; we should ensure conditional logic (selecting beneficiary triggers another drop down) is well understood, especially the copy. 
 
+IMPORTANT NOTE: this is for the IRIS form - we'll be adding the GI Bill form elements to this (possibly the bio and inquiry detail) so will likely have to think through the order of form elements on the page.
+
 
 ```
 # Contact Us
