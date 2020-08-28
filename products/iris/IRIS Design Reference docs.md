@@ -14,7 +14,7 @@
 - https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406903388 - Invision prototype which has some of the templates of the 
 VA design system for forms - if you want to see how pages look but don't want to hunt in design.va.gov
 - https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts.md
-- https://docs.google.com/spreadsheets/d/1td1GcNVYvYPqzfV7MwhFHeswqOwt7ACdJMtn0MmfXrM/edit#gid=0 - preflight checklist for UX (for TW team - Google Docs)
+- https://docs.google.com/spreadsheets/d/1td1GcNVYvYPqzfV7MwhFHeswqOwt7ACdJMtn0MmfXrM/edit#gid=0 - UX work (preflight checklist for UX, feedback, potential usability areas etc. (for TW team - Google Docs)
 
 
 **Live forms created by others**
