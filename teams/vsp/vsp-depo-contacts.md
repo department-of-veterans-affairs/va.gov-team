@@ -28,6 +28,8 @@ Discuss with the appropriate point of contact to figure out how to change those 
 
 ## Points of Contact
 
+Default to the initiative point of contact for any work that involves that initiative. Keep your team point of contact in the more general loop through your bi-weekly meetings with them.
+
 ### Chante
 - Anything related to contact centers
 
