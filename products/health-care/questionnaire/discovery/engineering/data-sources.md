@@ -12,18 +12,23 @@ Possible Sources:
   - Profile API (ID.me)
   - Appointment Information (from the associated patient )
   - PCIU
+  - Vet360 (sometimes)
 
 **Data-point: Date of Birth**
 Possible Sources: 
   - Profile API (ID.me)
   - Appointment Information (from the associated patient )
   - PCIU
+  - Vet360 (sometimes)
+- 
 
 **Data-point: Gender**
 Possible Sources: 
   - Profile API (ID.me)
   - Appointment Information (from the associated patient )
   - PCIU
+  - Vet360 (sometimes)
+  
 
 **Data-point: Address**
 Possible Sources: 

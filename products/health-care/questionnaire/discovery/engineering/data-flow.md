@@ -2,6 +2,7 @@
   - [Before Filling out the Form](#before-filling-out-the-form)
     - [From the VA.gov website](#from-the-vagov-website)
     - [From VeText](#from-vetext)
+    - [Important note on the pre form experience](#important-note-on-the-pre-form-experience)
   - [Filling out the form](#filling-out-the-form)
     - [Step 1](#step-1)
     - [Step 2](#step-2)
@@ -33,13 +34,16 @@ Where a user can view their appointments, we can add a link flow to get to the f
 
 Once the system knows an appointment has been created (details of that are unclear as this writing). The vets will receive a text message with the URL to the form to fill out, which contains the appointment ID.
 
+### Important note on the pre form experience
+
+As as this commit, We are not fully aware of the details of the trigger that will cause a user to enter a form. That still very much unknown.
 
 
 ## Filling out the form
 
 This is going to document where the data is coming from, to validate that we have all the data needed to start creating the form
 
-![Dataflow](assets/HQ%20-%20dataflow.png)
+![Dataflow](assets/HQ-dataflow.png)
 
 The data needed to start the form is 
 
@@ -143,9 +147,9 @@ json returned
 
 ### Step 5
 
-After the service gets the appointment details, whihc includes the patient identifier, the services makes a call to get that patients information on files 
+After the service gets the appointment details, which includes the patient identifier, the services makes a call to get that patients information on files 
 
-NEED: URL TO VAMF Patient endpoint
+NEED: URL TO MAP Patient endpoint
 
 NEED: JSON of what is returned
 
