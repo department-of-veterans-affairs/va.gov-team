@@ -35,41 +35,38 @@ Thanks for joining us today! The session should take 45 minutes. Our goal is to 
   
   - If you had to break down these responsibilities into percentages, what might that look like? 
 
-- How about the role of the clinicians at your Vet Center, can you tell me what that role looks like?
+- How about the role of the clinicians at your Vet Center, can you tell me what that role looks like? 
+
+- Once a client starts using services, does the relationship between you and the client end or change? 
 
 ### Eligibility 
 
 - Can you walk me through the process for determining eligibility for Vet Center services? 
 
-  - How does a Vet Center validate a client’s eligibility?  
-
 - How does a potential client figure out their own eligibility? e.g., a non-married couple 
 
-  - What questions do they ask you the most? 
+  - What questions do they ask you the most? Or is there anything potential clients find confusing about this process? 
 
-  - Is there anything particularly difficult or confusing about this process? 
 
-- When a client comes into a Vet Center, how do you determine if someone is eligible? Honor system do they have to show identification? 
+### Clients 
 
-- Do different types of clients tend to need different services, e.g. a Veteran vs a spouse or child? 
+- Can you describe the different types of clients that you work with? (Where in the journey are your clients. e.g. Newly separated, families during bereavement, family In crisis mode)
+
+  - If you had to break down the types into percentages that you work with, what might that look like? 
+  
+  - Do different types of clients tend to need different services, e.g. a Veteran vs a spouse or child? 
+
 
 ### Interacting with Clients 
 
 - What are the different ways in which you interact with your clients? e.g. Phone, in person, one-on-one, in a group setting, in the community? 
 
+  - Can you tell me how Mobile Vet Centers get used in your area?
+  
+  - How about Community access points? How might those vary? 
+
   - Are there other ways you would see interacting with Veterans? (e.g., chatbot, email)  
 
-  - Once a client starts using services, does the relationship between you and the client end or change? 
-
-### Clients 
-
-- Can you describe the different types of clients that you work with? 
-
-  - If you had to break down the types into percentages that you work with, what might that look like? 
-
-  - Where in the journey are your clients. e.g. Newly separated, families during bereavement, family In crisis mode 
-
-    - If you had to breakdown these stages in the journey that your clients fall into, what might that look like? 
 
 ### Services 
 
