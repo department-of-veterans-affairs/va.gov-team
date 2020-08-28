@@ -40,7 +40,7 @@ General topics:
 - DevOps
 - Infrastructure
 - Security
-- VSP tooling
+- Getting best in class tools for VSP to use (like Confluence, Speedcurve, TestRail, etc)
 
 Initiatives / services:
 - Infrastructure overhaul
