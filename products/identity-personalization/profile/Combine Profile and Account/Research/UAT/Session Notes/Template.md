@@ -242,6 +242,13 @@ OK, please share your screen, and then we will get started.
 - Could you walk me through how you added an app? 
   - [ ] **UAT TASK:** Double check that the timestamp on the app is for when it was connected. 
 
+## If time allows
+
+- Can you take your browser window and make it the size of a phone?  Now in this view can you go to the personal and contact information page?
+  - [ ] **UAT TASK:** Mobile menu appears and is operating correctly.
+  
+- Go ahead and scroll through this page.
+  - [ ] **UAT TASK:** Mobile menu is sticky. 
 
 ## Post-Task Interview - 1 minutes
 
@@ -257,4 +264,3 @@ As a thank you for your participation, we'd like to send you a $50 thank-you che
 Any questions before we sign off?
 
 Great, well thank you so much again, and enjoy the rest of your day!
-
