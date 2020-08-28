@@ -88,9 +88,7 @@ Thanks for joining us today! The session should take 45 minutes. Our goal is to 
 
 - What are some examples of events or recreational activities that you’ve put on or promoted (pre and post COVID)? 
 
-- Who initiates the events? 
-
-- Can you walk me through what it looks like to put on an event? 
+- How do you promote events? 
 
 - Are there recurring events that Vet Centers offer? 
 
