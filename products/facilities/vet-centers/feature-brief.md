@@ -91,3 +91,7 @@ _Links to requirements documentation, wireframes/mock-ups, research, etc._
 
 [Initial Design files](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/design)
 
+[Brand Analysis Report, March 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/VetCenters_BrandAnalysisReport_03272020.pdf)
+
+[Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery)
+
