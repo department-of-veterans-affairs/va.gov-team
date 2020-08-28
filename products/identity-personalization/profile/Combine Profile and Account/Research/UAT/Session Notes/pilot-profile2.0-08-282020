@@ -1,3 +1,4 @@
+# UAT Friday, August 28, 2020 10:02 AM
 Participant #:
 
 Note Taker:
@@ -63,13 +64,13 @@ OK, please share your screen, and then we will get started.
 [Go through this flow with ~3 participants]
 
 - In the 'Records' box in the lower right-hand corner, click on 'Change your address'. If they are LOA3, have them click on 'Go to your VA.gov profile'. 
-  - [ ] **UAT TASK:** Confirm that they are LOA3. You'll know that they are because they'll see a green button that says 'Go to your VA.gov profile' . If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**.
+  - [x] **UAT TASK:** Confirm that they are LOA3. You'll know that they are because they'll see a green button that says 'Go to your VA.gov profile' . If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**.
 - Click on 'Go to your VA.gov profile'. 
-  - [ ] **UAT TASK:** Personal and Contact Information page shows up. (link works correctly)
-  - [ ] **UAT TASK:** The user's name and military badge will be on the top left.
-  - [ ] **UAT TASK:** Navigation has loaded properly and is showing all sections.
-  - [ ] **UAT TASK:** If a user has or is eligible for disability compensation or pension payments  - Direct deposit should shows in the navigation.
-  - [ ] **UAT TASK:** If records can't be matched, the correct error is showing. **end the session**
+  - [x] **UAT TASK:** Personal and Contact Information page shows up. (link works correctly)
+  - [x] **UAT TASK:** The user's name and military badge will be on the top left.
+  - [x] **UAT TASK:** Navigation has loaded properly and is showing all sections.
+  - [x] **UAT TASK:** If a user has or is eligible for disability compensation or pension payments  - Direct deposit should shows in the navigation.
+  - [x] **UAT TASK:** If records can't be matched, the correct error is showing. **end the session**
 
 [Go through this flow with ~3 participants]
 
@@ -84,16 +85,16 @@ OK, please share your screen, and then we will get started.
 ## Personal and Contact Information - 5 min
 
 - So now we are looking at your profile. Does all of this information look correct?
-  - [ ] **UAT TASK:** Personal and contact information has been pulled in correctly
+  - [x] **UAT TASK:** Personal and contact information has been pulled in correctly
 
 - Go ahead and click on 'How do I update my personal information?'
-  - [ ] **UAT TASK:** FAQ opens up and appears to be formatted correctly.
+  - [x] **UAT TASK:** FAQ opens up and appears to be formatted correctly.
    
 - Next, please click any of the Edit links you see.
-  - [ ] **UAT TASK:** Edit form opens and appears to be formatted correctly.
+  - [x] **UAT TASK:** Edit form opens and appears to be formatted correctly.
   
 - With this form still open, click on another Edit link.
-  - [ ] **UAT TASK:** Required errors are returned.
+  - [x] **UAT TASK:** Required errors are returned.
 
 - Click 'Ok'. Without changing anything in the form, click 'Update'.
   - [ ] **UAT TASK:** Address saves, edit form closes.
@@ -102,24 +103,24 @@ OK, please share your screen, and then we will get started.
   - [ ] **UAT TASK:** If the address needs to be validated, the correct flow is delivered.
   
 - Click 'Edit' on the same or different section. Click 'Delete'. Just a reminder, we won't actually delete it.
-  - [ ] **UAT TASK:** Correct alert is returned.
+  - [x] **UAT TASK:** Correct alert is returned.
  
 - Click 'Cancel' on the modal. Add any letter to any field - don't worry we won't change any of your information. Click 'Cancel'.
-  - [ ] **UAT TASK:** Correct alert is returned.
+  - [x] **UAT TASK:** Correct alert is returned.
 
 - Click 'Cancel' on the alert. This did not update or change your information in any way.
-  - [ ] **UAT TASK:** Form closes.
+  - [x] **UAT TASK:** Form closes.
   
 - If the participant has any empty fields: Please click on the link 'Please add your...'
-  - [ ] **UAT TASK:** Edit form opens and is formatted correctly.
+  - [x] **UAT TASK:** Edit form opens and is formatted correctly.
   
 - Click 'Cancel'. 
-  - [ ] **UAT TASK:** Form closes.
+  - [x] **UAT TASK:** Form closes.
 - Next, click on 'How will you use my contact information?'
-  - [ ] **UAT TASK:** FAQ opens up and appears to be formatted correctly.
+  - [x] **UAT TASK:** FAQ opens up and appears to be formatted correctly.
 
 - Next, scroll to the 'Contact email address' section. Click on the link 'Update email address on ...'.
-  - [ ] **UAT TASK:** Link goes to the website where they manage their information
+  - [x] **UAT TASK:** Link goes to the website where they manage their information
  
  ## Military Information - 2 min
  
@@ -172,11 +173,11 @@ OK, please share your screen, and then we will get started.
  ## Account Security - 2 min
  
 - Great. Now, can you scroll back up to the navigation on the left and click on 'Account Security'. 
-  - [ ] **UAT TASK:** Account Security page shows up and appears to be formatted correctly. 
-  - [ ] **UAT TASK:** Identity Verification is checked with correct messaging.
-  - [ ] **UAT TASK:** 2FA shows correct messaging depending on status.
-  - [ ] **UAT TASK:** Terms and Conditions shows correct messaging depending on status.
-  - [ ] **UAT TASK:** Sign in email is showing correct messaging.
+  - [x] **UAT TASK:** Account Security page shows up and appears to be formatted correctly. 
+  - [x] **UAT TASK:** Identity Verification is checked with correct messaging.
+  - [x] **UAT TASK:** 2FA shows correct messaging depending on status.
+  - [x] **UAT TASK:** Terms and Conditions shows correct messaging depending on status.
+  - [x] **UAT TASK:** Sign in email is showing correct messaging.
   
 - (ONLY IF APPLICABLE) Can you click on 'View terms and conditions for medical information'? 
   - [ ] **UAT TASK:** Link goes to Terms and Conditions page.
@@ -190,25 +191,25 @@ OK, please share your screen, and then we will get started.
  ## Connected Apps - 5 min
  
 - Great. Let's go back to the profile. Now, can you scroll back up to the navigation on the left and click on 'Connected Apps'. 
-  - [ ] **UAT TASK:** Connected apps page shows up and appears to be formatted correctly. 
-  - [ ] **UAT TASK:** The correct page is showing for if a Veteran has connected apps vs no connected apps. (Will most likely have no connected apps)
-  - [ ] **UAT TASK:** If there is an error retrieving apps, the correct error is returned.
+  - [x] **UAT TASK:** Connected apps page shows up and appears to be formatted correctly. 
+  - [x] **UAT TASK:** The correct page is showing for if a Veteran has connected apps vs no connected apps. (Will most likely have no connected apps)
+  - [x] **UAT TASK:** If there is an error retrieving apps, the correct error is returned.
   
 ### If they DON'T have connected apps
 - Can you click on the link that says 'Apple Health'?
-  - [ ] **UAT TASK:** Link goes to the Apple Health page.
+  - [x] **UAT TASK:** Link goes to the Apple Health page.
   
 - Great, let's go back to the profile. Can you click on the link that says 'iBlueButton'?
-  - [ ] **UAT TASK:** Link goes to the iBlueButton page.
+  - [x] **UAT TASK:** Link goes to the iBlueButton page.
   
 - Great, let's go back to the profile. Can you click on the link that says 'MyLinks'?
-  - [ ] **UAT TASK:** Link goes to the MyLinks page.
+  - [x] **UAT TASK:** Link goes to the MyLinks page.
   
 - Great, let's go back to the profile. Can you click on 'How do I connect a third-party app to my profile'?
-  - [ ] **UAT TASK:** FAQ opens and appears to be formatted correctly. 
+  - [x] **UAT TASK:** FAQ opens and appears to be formatted correctly. 
   
 - Can you click on the 'frequently asked questions' link in the blue box?
-  - [ ] **UAT TASK:** Links to the FAQ page. 
+  - [x] **UAT TASK:** Links to the FAQ page. 
   
 ### If they DO have connected apps
 - Can you click on the link that says 'Learn about Apple Health'?
@@ -257,5 +258,4 @@ As a thank you for your participation, we'd like to send you a $50 thank-you che
 Any questions before we sign off?
 
 Great, well thank you so much again, and enjoy the rest of your day!
-
 
