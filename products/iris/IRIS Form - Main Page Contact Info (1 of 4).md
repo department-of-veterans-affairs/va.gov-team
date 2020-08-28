@@ -2,7 +2,7 @@
 
 Relevant links: 
 - [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/68) - this is the story for the main Contact Info page
-- [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/36) - this is a story for additional values around Social Security number etc.
+- [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/36) - this is a story for additional values around Social Security number etc.  There may be additional form elements in that story - since it's in the backlog we have subsequent stories for the GI Bill and Myhealthevet forms as well.
 
 ### Description
 This page will be the main Contact Us form that will allow users to include their contact information, and will allow the VA to understand who is contacting them and why.
@@ -19,7 +19,9 @@ The two main pages of the Contact Us form - the Contact Us page and the Inquiry 
 
 Since most of these are standard contact us (name, address etc.) this should be fairly easy for people to fill out; we should ensure conditional logic (selecting beneficiary triggers another drop down) is well understood, especially the copy. 
 
-IMPORTANT NOTE: this is for the IRIS form - we'll be adding the GI Bill form elements to this (possibly the bio and inquiry detail) so will likely have to think through the order of form elements on the page.
+IMPORTANT NOTE: this is for the IRIS form - we'll be adding the GI Bill form elements to this (possibly the bio and inquiry detail) so will likely have to think through the order of form elements on the page.  The main task is to think through the order of these to be intuitive for users.
+
+Peggy please let me know if and when you've revised the order of elements so I don't accidently edit them!
 
 
 ```
