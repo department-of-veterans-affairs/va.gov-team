@@ -2,7 +2,7 @@
 ---
 
 ## Overview
-We're going to add two fields to the Healthcare Application (HCA) on VA.gov, mailing address and home address, to allow the Healthcare Eligibility Center (HEC) to make healthcare eligibility decisions faster.
+We're going to update the Healthcare Application (HCA) on VA.gov to collect mailing address and home address, to allow the Healthcare Eligibility Center (HEC) to make healthcare eligibility decisions faster.
 
 ## Problem Statement
 
