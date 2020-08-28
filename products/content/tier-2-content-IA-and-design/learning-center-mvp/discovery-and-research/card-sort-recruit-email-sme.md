@@ -12,8 +12,8 @@ We are looking for subject matter experts or people who create/manage content fo
 
 **How do I participate?** Click on the links below and follow the provided instructions. 
 
-Card Sort A 
+[Card Sort A](https://adhoc.optimalworkshop.com/optimalsort/eaihc576-1-0)
 
-Card Sort B 
+[Card Sort B](https://adhoc.optimalworkshop.com/optimalsort/eaihc576-1)
 
 Thank you in advance for your participation! We will share the final results with participants who complete both card sorts. Your input is appreciated, and will contribute to improving the Veteran experience on VA.gov.
