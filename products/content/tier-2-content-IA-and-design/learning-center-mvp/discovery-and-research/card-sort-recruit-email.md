@@ -10,7 +10,7 @@ We are looking for Veterans who are interested in participating in a card sort t
 You will be sent links to two card sorts asking you to sort article titles into categories. If the pre-defined categories don't feel right, you will have the opportunity to create your own categories. There are no wrong answers. We just want to know how you would categorize things.
 
 **How long is a session?**
-The session is self guided and should take you 10-20 minutes to complete both card sorts. You can do this at any time that's convenient for you.
+The session is self guided and should take you 15-20 minutes to complete both card sorts. You can do this at any time that's convenient for you.
 
 **Interested in participating?**
 Please reply to this email to receive the links to participate. After completing both card sorts, we'll send you a code where you can access your thank you gift card.
