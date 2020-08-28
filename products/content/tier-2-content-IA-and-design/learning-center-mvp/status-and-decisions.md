@@ -2,6 +2,49 @@
 
 ## mm/dd/yy
 
+## 08/06/20
+
+### Engineering discussion - Nick Sullivan, Kelson Adams, Jen Lee, Mickin Sahni
+#### MVP - Oct/Nov 2020
+
+- Avoid Veterans Day Launch
+- Through staging and perhaps hidden in prod (if possible given potential limitations)
+- 1 audience type - Veterans
+- 2 topics/categories: VA Profile and General resources/help
+- Designs will look different
+  - no find articles by audience
+  - not every find articles by topic
+- Includes search results
+- Templates that will be included: LC HomePage, Search Results, View all X articles, Single FAQ, Multiple FAQ, Step-by-step, COPE reusable FAQs infra
+- Tags to be included: Veterans VA Profile General resources/help Exact nomenclature is TBD
+
+#### MVP 1.1 December 2020
+
+- Additional tags
+- Additional topics
+- Was this helpful component?
+- CRM integration
+- Additional templates: LC HomePage Iteration, LC Search Results, About, Videos, Images
+- Tags: Other audiences and topics
+
+#### MVP 1.2 January-March
+
+- CRM integration
+- Onboarding authors, governance hardening
+
+#### Questions
+
+- Are we reinventing the wheel (loaded, i know) by revisiting account vs. profile when it comes to tagging?
+- Are we seeing trends in search usage?
+- Is there an opp to deviate between these iterations?
+- What will view all articles look like?
+- likely as search results
+- How do we reconcile the two searches (LC and main VA.gov)?
+- What is the order of search functionality we release?
+
+#### Notes:
+- wish we could hit drupal on the fly to search
+
 ## 07/27/20
 
 ### Outcome of accessibility review and design decisions
