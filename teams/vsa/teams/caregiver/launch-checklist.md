@@ -5,10 +5,9 @@
 ## Must-have - open items
 | Task     | Status |
 | :----------- | ----------- |
-| CARMA PDF Signature + time stamp | In progress |
-| Product video| Not started|
-| Google analytics backend setup | In progress - ETA 8/24 |
-| Contact Center Review   | In progress |
+| CARMA PDF Signature + time stamp | ETA - 9/4 |
+| Google analytics backend setup | ETA - 9/4 |
+| Facility list changes | ETA - 9/4 |
 | Define launch metrics with program team  |In progress | 
 | Resolve any [staging review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12276) must-dos | In progress |
 | Incident Response Playbook   | Not started |
@@ -53,6 +52,9 @@
 ## Nice to have
 | Task     | Status |
 | :----------- | ----------- |
+| Additional backend logging | In progress|
+| Contact Center Review   | In progress |
+| Product video| To do |
 | Resolve ICN search in eMIS | To do |
 | Feature flag: update insurance options | To do |
 | Remove feature flag for insurance options | To do |
