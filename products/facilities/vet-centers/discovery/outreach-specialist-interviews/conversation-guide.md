@@ -30,8 +30,6 @@ Thanks for joining us today! The session should take 45 minutes. Our goal is to 
 ### Role 
 
 - How would you describe your role at VA?  
-
-- What are your main duties and responsibilities?   
   
 - If you had to break down these responsibilities into percentages, what might that look like? 
 
@@ -103,6 +101,8 @@ Thanks for joining us today! The session should take 45 minutes. Our goal is to 
 - From a technology perspective, what could be improved to help you in your outreach? 
 
 - What is the most important thing a vet should get out of visiting your VC website for 1st time?
+
+- Is there information that you currently communicate in brochures or other promo materials that you think should get reflected on the website? 
 
 ## Closing
 
