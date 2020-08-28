@@ -8,8 +8,39 @@
 
 <details> <summary> August 2020</summary>
 
-## Status - August 28th, 2020
+## August 28th, 2020
 
+**Product**
+- [Sprint 29 Planning for priority features.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/quarterly-sprint-planning.md#sprint-29---land-proof-of-concept-designs-and-data-services) 
+- [Sprint 28 Demo](https://docs.google.com/presentation/d/1aqKWrZQ0jYuM01Y8pOM_GNVgUrbJ4drhw-M6sPlp3f8/edit?usp=sharing) 
+- [Sprint 28 Report](https://docs.google.com/document/d/1DeijbXbfz5dzIri6n_g8r3eiaQdKHupvbByuX7uWpP4/edit)
+ - [Sprint 28 Retro](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/sprint-28.md)
+ - [TOT Aug 18th](https://drive.google.com/file/d/1-Kev5hLUxlxb_qOTLClrLVQ0jEm6pLq5/view?usp=sharing)
+ - [Stakeholder Presentation for Visit Intro -](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/stakeholder-presentations/visit-intro-mvp.md) meetings with Dr. Bryne - Loma Linda and Tandi- Hawaii to review progress and validation we are on the right path. 
+
+**Research and Design**
+- Kristen McConnell our new UI /Researcher spent the week onboarding to VSA and starting to review product strategy while attending a few team meetings to get up to speed. 
+
+**Engineering**
+- Access approved for authenticate the call for MAP (wiki, jira, Sandbox Jenkins and K8)
+	- Researching and building services for appointment details and pgd data with VAMF. 
+- Team review meeting [pros/cons of technical capabilities for unauth vs, auth experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/auth-vs-unauthed.md).
+- Creating of demographics UI Front end- push to staging late in week.
+- Team meeting to review [FE data flow needed diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/data-flow.md). In addition to prioritization of [Demographics coming from multiple sources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/data-sources.md). 
+
+
+**Next Step/Followup**
+- Complete Visit Intro feature outlines for end of Q3 proof of concept
+- Finalize demographics, intro, and confirmation page mocks with a storyboard diagram of user flow- will work with Kristen next week to iterate. 
+- Continue to get answers and land architecture strategy for system and services for retrieving and posting healthcare patient data.
+	
+**Decisions:**
+- Approval for both access to MAP and Sandbox for PGD approved. 
+
+**Blockers:**
+- No changes in status from previous week for blocker [Stakeholder Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
+- Need update from Lighthouse team FHIR gap with authentication Open Connect ID is not compatible with vets api [VA.gov and Lighthouse oAuth Strategies - #11669](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11669) 
+- Both BE investigation for [VAMP/PGD #12406](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12406) and [Service for Retrieving Appt. Details #12404](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12404) are blocked but anticipate final direction for access will be landed early next week.
 ## August 21st, 2020
 
 **Product**
