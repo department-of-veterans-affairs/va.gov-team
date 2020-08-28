@@ -17,7 +17,7 @@
 
 -https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms - the Form Builder
 
--https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406500062 - BEST REFERENCE
+-https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406500062 - great Invision prototype
 
 -https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406903388 - Invision prototype which has some of the templates of the 
 VA design system for forms built out.
