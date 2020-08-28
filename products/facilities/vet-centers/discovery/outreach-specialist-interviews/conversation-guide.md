@@ -23,7 +23,7 @@ Thanks for joining us today! The session should take 45 minutes. Our goal is to 
 
 - How long have you been an outreach specialist at the VA? 
 
-  - What brought you to this line of work? 
+- What brought you to this line of work? 
 
 - Have you worked as an outreach specialist in more than one district or region? 
 
