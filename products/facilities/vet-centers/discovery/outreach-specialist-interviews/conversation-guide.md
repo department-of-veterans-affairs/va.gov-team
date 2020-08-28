@@ -102,7 +102,7 @@ Thanks for joining us today! The session should take 45 minutes. Our goal is to 
 
 - From a technology perspective, what could be improved to help you in your outreach? 
 
-- What would be important for you to see on a new website that could help you or your Vet Center specifically?
+- What is the most important thing a vet should get out of visiting your VC website for 1st time?
 
 ## Closing
 
