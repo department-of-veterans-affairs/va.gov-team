@@ -1,7 +1,7 @@
 
 **Sites in Scope**
 
--https://iris.custhelp.va.gov/app/ask
+- https://iris.custhelp.va.gov/app/ask
 
 -https://gibill.custhelp.va.gov/
 
@@ -17,10 +17,8 @@
 
 -https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms - the Form Builder
 
--https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406500062 - great Invision prototype
-
 -https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406903388 - Invision prototype which has some of the templates of the 
-VA design system for forms built out.
+VA design system for forms - if you want to see how pages look but don't want to hunt in design.va.gov
 
 -https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts.md
 
