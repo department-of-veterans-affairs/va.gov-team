@@ -94,7 +94,7 @@ Further confusion and frustration was created by content for Veterans when inter
 - Express Care content must be both reduced for readability and ease of comprehension as well as audited for consistency. 
 - Express Care content must be updated to reflect process for requesting this appointment type.
 
-*** *Note:*** all Veterans during these research sessions said that it was unusual for them to spend as much time as they were reading content. Some also acknowledged they would likely give up or not get as far along in the process as they did had they not been in the research session. If this were the case, they said they would give up and call their provider's office or the scheduling line to complete their request. 
+****Note:*** all Veterans during these research sessions said that it was unusual for them to spend as much time as they were reading content. Some also acknowledged they would likely give up or not get as far along in the process as they did had they not been in the research session. If this were the case, they said they would give up and call their provider's office or the scheduling line to complete their request. 
 
 #### Context
 
