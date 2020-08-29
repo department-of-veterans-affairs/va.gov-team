@@ -78,6 +78,12 @@ In the section below, findings and recommendations are explored in greater depth
 
 #### Content
 
+> "The more I answer here the less the person that calls will ask. That way they don't need to call, so I can do it all on the computer." - *Participant 10*
+
+> "I don't read all the text....If I were doing this, I don't know if I would get to this spot because its all the way down there." - *Participant 12*
+
+> "I can't make routine appointments, but I can make an urgent appointment. Only requesting appointments online. That's what it says. Isn't that where I am already at?" - *Participant 15*, referencing COVID warning on scheduling screen 
+
 Content presented the biggest burden to all users. Veterans indicated excessive trouble understanding, parsing through, and comprehending the information presented to them. For both experiences (VAOSR and Express Care), Veterans indicated not only was the amount of content a burden, but the variation throughout the content used to describe the same information difficult for them to manage. 
 
 Content about scheduling on [VA.gov](VA.gov) and throughout the tools and services on the platform are designed with Veterans. However, Veterans repeatedly expressed concerns in these research sessions about their constraints when interacting with the information online, due to a variety of factors, often including (but not limited to): PTSD, effects of combat-related injuries or conditions, technical ability, and/or age. Additionally, Veterans said that there is too much, albeit helpful, content, which contributes to and creates a sense of overload when they were interacting with both VAOSR and Express Care. For example, Veterans said the content on the subway map page for Express Care was important, made sense, and they understood that for emergency situations, they should proceed. This emergency content made several users think Express Care is intended for emergency care, despite reading a description of Express Care on the previous screen and identifying it as not for emergencies.  
@@ -98,6 +104,8 @@ Further confusion and frustration was created by content for Veterans when inter
 
 #### Context
 
+> "They were cancelled for me. I didn't cancel them." - *Participant 11*
+
 Similar to content, providing context shapes a Veteran's understanding of the product or service they are interacting with and that experience determines their desire to use it in the future. Context comes through in the form of wayfinding, information, repeated and recognized patterns, and features that are developed closely alongside of the user. In this study, Veterans were asked to provide their opinions and feedback about the information provided on appointment cards about upcoming and previous appointments, how their appointments were displayed in their appointments list, the statuses of these appointments, and other indicators they may or may not have noticed or identified. Additionally, Veterans were asked to provide feedback about categorization and filtering of information on their appointments within their account, how the current format served them, and how it may work better. 
 
 All participants who were asked about appointment cancellations (60% total participants) said cancellations functioned as anticipated, were able to find this option, and were able cancel their appointment (if they chose to do so) with ease. However, there was significant concern expressed about *who* and *why* their appointments were cancelled.  
@@ -114,6 +122,16 @@ Additionally, Veterans indicated dissatisfaction with the information presented 
 - Incorporate vaccinations, preventative treatments, and other appointments and treatments covered by the VA (non-VA medical providers), into appointment lists.
 
 #### "Scheduling an appointment" flow (VAOSR)
+
+> "I thought they would already know who I see, like when picking the location." - *Participant 10*
+
+> "I like that in addition to primary care there is a lot of special stuff....I figured primary care would be there, but the options are really good. When I see these options I am encouraged." - *Participant 12*
+
+> I would say its not worth it an ideal with my issue because who knows how long I will be on hold for. When I have time and potions I would call. - *Participant 12*
+
+> "Going through this scheduling set up might reduce time on the phone. ...For how big the VA is I am happy with this ability. ...I like it more than I don't." - *Participant 12*
+
+> "Basically for this kind of an appointment I am better off calling because it says they will call me back for an appointment. When I get the appointment right away, but doing this way it says they will contact for me for an appointment. It doesn't make sense. ...I might as well pick up the phone and make my appointment because at least I have it [scheduled] right then." - *Participant 14*
 
 Overall, Veterans navigated the "scheduling an appointment" flow with ease. However, several encountered significant problems with aspects of the process, most notably: selecting a location, choosing a type of care, providing details about their appointment, selecting a date/time and submitting their request. 
 
@@ -134,6 +152,8 @@ The most difficult points in the process and the step that most participants sai
 - Redesign reason for appointment request to include different/more options based on the type of care selected at start of request flow. 
 
 #### Rescheduling (and scheduling) options
+
+> "It was easier than what I thought...It was easier than making the appointment, it was easier to cancel it." - *Participant 14*
 
 When performing tasks related to cancelling appointments, most Veterans testing VAOSR identified a need to be able to reschedule appointments more easily. The current tool only allows for cancelling appointments, which must be rescheduled by going through the full request an appointment flow again. Additionally, many Veterans cited that their primary need for medical care are recurring and/or annual visits, which precludes them from using alternative scheduling methods, beyond scheduling appointments they need in person at their previous appointment. 
 
