@@ -115,24 +115,31 @@ Additionally, Veterans indicated dissatisfaction with the information presented 
 
 #### "Scheduling an appointment" flow (VAOSR)
 
-- VAOSR "request an appointment flow" (selecting: type of care, location/choosing a facility, type of visit, providing details)
-
 Overall, Veterans navigated the "scheduling an appointment" flow with ease. However, several encountered significant problems with aspects of the process, most notably: selecting a location, choosing a type of care, providing details about their appointment, selecting a date/time and submitting their request. 
 
 The most difficult points in the process and the step that most participants said they would have given up with the task was choosing a location. Every Veteran participant that interacted with VAOSR (12; 80%) had more than one VAMC affiliated with their account and 100% of these Veterans struggled to select the location where they wanted to schedule an appointment. 
 
 ***Recommendations:***
 
-- Reevaluate process for requesting an appointment flow to align with a user's mental model. 
-- Conduct additional user research to validate the changes proposed from this round of user research.
-- Redesign the location-selection process in VAOSR. 
-- On calendar selection page, add "next" button at bottom of calendar.
-- On calendar section page, change "next" button on calendar to say name of next month.
+- Reevaluate process for the request an appointment flow to align with a user's mental model. Focus areas should include: selecting an appointment type/type of care, choosing a location for the appointment, utilizing existing appointments as templates to pre-fill a new appointment request, incorporating logic to reason for appointment to narrow down type of care/appointment, based on medical necessity. 
+  - See [Rescheduling (and scheduling) options](#rescheduling-and-scheduling-options) for additional considerations.
+- Conduct additional user research to validate changes made based on this round of user research.
+- Consider reordering types of care list and/or provide a definition of each type of care listed. Many Veterans struggled to select the appropriate type of care based on their need, defaulting to primary care. 
+- Redesign the location-selection process in VAOSR. Alternatively (ideal), reevaluate the overall process for the request an appointment flow to include additional ways to select the location of an appointment, such as type of care, provider, and visit type.
+  - Concept: Simplify the process of selecting a location by including the city and state of the facility in the initial list.
+  - Concept: Allow Veteran to set a preferred facility/location in their profile, which will be the default location selected in the appointment request flow.  
+  - Concept: Use search functionality to allow Veteran to search for the location to request an appointment at. Example search parameters may include: city, state, facility name, or zip code. It may also be helpful to allow Veterans to search for a facility based on their provider's name, selecting the location based on their care team.
+- On calendar selection page, add "next" button at bottom of calendar. Consider dynamic content for "next" button, replacing "next" with the following month name, for additional context.
+- On calendar section page, provide content defining "AM" and "PM" to inform the decision a Veteran makes. For example, if an AM appointment is anything prior to noon, the calendar page should clarify. 
+- Redesign reason for appointment request to include different/more options based on the type of care selected at start of request flow. 
 
 #### Rescheduling (and scheduling) options
 
-- Rescheduling (and scheduling) options
+When performing tasks related to cancelling appointments, most Veterans testing VAOSR identified a need to be able to reschedule appointments more easily. The current tool only allows for cancelling appointments, which must be rescheduled by going through the full request an appointment flow again. Additionally, many Veterans cited that their primary need for medical care are recurring and/or annual visits, which precludes them from using alternative scheduling methods, beyond scheduling appointments they need in person at their previous appointment. 
+
+Veterans specifically identified a gap in the scheduling tool's functionality to allow them to request an appointment with their existing provider or based on previous appointments. Incorporating the ability to schedule an appointment based on previous visits or utilize past appointments as a template for future scheduling requests would make VAOSR a viable option to many more Veterans seeking an appointment. 
 
 ***Recommendations:***
 
 - Create, test with Veterans, and implement the ability to reschedule and/or request a new appointment based on an appointment the Veteran already has scheduled/had in the past.
+- Redesign the request an appointment flow to allow for more flexibility and dynamic ways to schedule an appointment, including using upcoming and past appointments as templates for new appointments and to reschedule cancelled appointments. 
