@@ -8,7 +8,7 @@
 | Product Outline     |                                | Content Cell              | Content Cell           | Content Cell                       |
 | IA/Research/Design  | Content Cell                   | Content Cell              | Content Cell           | Content Cell                       |
 | Collab Kickoff      | Content Cell                   | Content Cell              |                        | Content Cell                       |
-| Development         | Content Cell                   | Content Cell              | Content Cell           | Content Cell                       |
+| Development         | [On Staging](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction)                     | Content Cell              | Content Cell           | Content Cell                       |
 | Platform Review     | Content Cell                   | Content Cell              | Content Cell           | Content Cell                       |
 | Q-A                 | Content Cell                   | Content Cell              | Content Cell           | Content Cell                       |
 | Deploy              | Content Cell                   | Content Cell              | Content Cell           | Content Cell                       |
