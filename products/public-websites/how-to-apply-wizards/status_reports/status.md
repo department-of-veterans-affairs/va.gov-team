@@ -1,3 +1,14 @@
+### 8/31 Update
+
+- Meeting held with Analytics team to review the dataLayer taxonomy and get your feedback on how we can solution this robustly for future how to wizards...we want to make sure we are in alignment with you and understand the framework expected for future wizards
+- For 9/1 meeting, some key points to cover:
+
++ STEM Rogers will go live on -- or around Sept 10 -- without the Wizard.  The question is: Does it need a/the Wizard?
++ The Education Wizard needs to be updated to reflect (a) revised text re: STEM scholarship and (b) a link to the new online application ^^^
++ Platform IA review of the Education Wizard has surfaced some important questions about user flow:
+  - 
+
+
 ### 8/26 Update
 
 #### Team: BAM 2 (PM: Leah Keeler + Developer: Craig Wheeler)
