@@ -12,3 +12,4 @@
 | Refinement          | Not Started                       | In Progress               | Not Started            | Not Started                        |
 | Q-A                 | Not Started                       | Not Started               | Not Started            | Not Started                        |
 | Deploy (Target)     | Mid-Sept?                         | Late Sept?                | Targeting 9/10         | TBD                                |
+| BLOCKERS            |                                   |                           |                        |                                    |
