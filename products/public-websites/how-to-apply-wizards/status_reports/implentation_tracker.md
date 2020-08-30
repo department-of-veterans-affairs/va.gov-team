@@ -7,7 +7,7 @@
 | Product Leads       | Matt Self, Luke Wajewski          | Matt Self, Leah Keeler    | Amy Knox               | Jason Wolf                                       |
 | Product Outline     | Done                              | Done                      | Done                   | Done                                             |
 | IA/Research/Design  | Done                              | Done                      | Done                   | Done                                             |
-| Development         | Done-Staging                      | Done-Staging              | Done-Staging           | In Progress                                      |
+| Development         | Disability on Staging; HLR in progress | Done-Staging         | Done-Staging      | In Progress                                 |
 | Platform Review     | Ready                             | In Progress               | Ready                  | Not Started                                      |
 | Refinement          | Not Started                       | In Progress               | Not Started            | Not Started                                      |
 | Q-A                 | Not Started                       | Not Started               | Not Started            | Not Started                                      |
@@ -18,7 +18,7 @@
 ## Reference Links
 
 - Disability ([on Staging](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction))
-- HLR ([on Staging])
-- Education (on Staging)
-  - Rogers STEM (on Staging)
-- Personalized Care & Planning Guidance (Wizard user flow)
+- HLR ([almost ready, with Staging URL](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction))
+- Education ([on Staging](https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction))
+  - Rogers STEM ([on Staging](https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction))
+- Personalized Care & Planning Guidance ([new Wizard user flow](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/9979))
