@@ -21,4 +21,4 @@
 - HLR ([almost ready, with Staging URL](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction))
 - Education ([on Staging](https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction))
   - Rogers STEM ([on Staging](https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction))
-- Personalized Care & Planning Guidance ([new Wizard user flow](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/9979))
+- Personalized Care & Planning Guidance ([new Wizard user flow](https://xd.adobe.com/view/879cf230-f3ce-4204-79ba-c3453b0bcc09-f1ad/screen/28f5d3f7-c2c1-49c0-bfa1-3791dba4dd7e/))
