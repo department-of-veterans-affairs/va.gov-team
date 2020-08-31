@@ -15,7 +15,17 @@
   - no find articles by audience
   - not every find articles by topic
 - Includes search results
-- Templates that will be included: LC HomePage, Search Results, View all X articles, Single FAQ, Multiple FAQ, Step-by-step, COPE reusable FAQs infra
+- Templates that will be included: 
+  - About
+  - Multiple FAQs
+  - Single Question/Answer
+  - Step-by-step
+
+- In addition to the ^ templates, we will launch with these pages which are not technically templates:
+  - LC homepage
+  - LC search results page
+  - LC 'view all X articles' page / LC articles tagged X page
+- Will also include COPE reusable FAQs infra, which will be CMS infrastructure that lets us treat a question/answer unit as reusable content that can be published in multiple Drupal nodes (or pages). It allows us to create and edit that question/answer in one place, the FAQs library; while different authors can display that question/answer text on multiple Drupal pages without manually recreating that content on each of those pages.
 - Tags to be included: Veterans VA Profile General resources/help Exact nomenclature is TBD
 
 #### MVP 1.1 December 2020
