@@ -2,35 +2,29 @@
 
 Based off of the [V1 plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/product/v1-plan.md) and the [Logged-in homepage discovery summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/discovery-summary.md) that Samara put together, we have planned out phases to design and build the new Logged-in homepage. 
 
-First, we'll break this work into three projects:
+There are two directions that we could potentially tackle this work.
 
-- Project 1: The logged-in homepage redesign.
-- Project 2: Creation of a logged-in navigation.
-- Project 3: Creation of a notification center.
+1. Decide on our high level concept, then dig into each benefits category and code each of those one-by-one.
+2. Decide on our high level concept, code the most MVP version of all benefits categories and then iterate up from there on all categories. 
 
-This first project is focused on the logged-in homepage redesign and retirement of MyVA. We have broken this project down into 3 phases.
+The strategy we have outlined below is based on the first direction because it feels like focusing on one category at a time will ensure the best experience for veterans. 
 
-- Phase 1: Design and plan the high-level wireframe for the blue sky logged-in homepage.
+We broke this strategy down into 3 phases.
+
+- Phase 1: Create 2-3 high-level concepts for logged-in homepage
 - Phase 2: Design Healthcare and Disability section
 - Phase 3: Design Education and Records sections
 
-We refer to the 'blue sky' version of the logged-in homepage, and we'd like to outline our definition of this term in relation to this project. 
-
-- 'Blue Sky Version': The ideal outcome for this project. This includes all requirements from Samara's [V1 plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/product/v1-plan.md)
-
-## Phase 1: Design and plan the wireframe for the blue sky logged-in homepage.
+## Phase 1: Create 2-3 high-level concepts for logged-in homepage - estimated timeline: 1 sprint
 
 - [ ] Storyboarding 
 - [ ] Data points
 - [ ] Whiteboarding
 - [ ] Wireframing
-  - [ ] Healthcare
-  - [ ] Claims
-  - [ ] Education
-  - [ ] Records
+- [ ] 2-3 high level concepts
 - [ ] Platform checkpoint
 
-## Phase 2: Design Healthcare, Claims sections 
+## Phase 2: Design Healthcare, Claims sections: ~ 3 sprints
 
 **Health care**
 
@@ -107,7 +101,7 @@ We refer to the 'blue sky' version of the logged-in homepage, and we'd like to o
   - [ ] High fidelity mockups
   - [ ] Stakeholder Reviews and approval
    
-## Phase 3: Design Education and Records sections
+## Phase 3: Design Education and Records sections: ~ 2 sprints
 
 **Education**
 
