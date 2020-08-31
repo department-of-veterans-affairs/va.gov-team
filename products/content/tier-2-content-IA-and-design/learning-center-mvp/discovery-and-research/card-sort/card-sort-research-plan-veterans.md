@@ -1,4 +1,4 @@
-# Research Plan for Learning Center MVP:  Card Sort
+# Research Plan for Learning Center MVP: Veteran Card Sort
 
 Liz Lantz, Public Websites, August 28, 2020
 
