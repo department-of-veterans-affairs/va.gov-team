@@ -26,8 +26,6 @@ Now that IRIS is going to be retired, Veteran Experience Office (VEO) is in the 
 - We're migrating all of the public facing IRIS content into the learning center. As we publish that public facing content, it'll be retired on know.va.gov
 - Content authors will have to create content in two places until they agree to only use Drupal. Ultimately we hope they'll be able to manage all of their content with a Drupal integration.
 
-****
-
 ## Who will be involved in our research study?
 
 - Chante, Jen, Liz
