@@ -20,9 +20,9 @@
   - 0994 - [Apply for VET Tech](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994/introduction)
   - 1990e - [Apply to use transferred education benefits](https://www.va.gov/education/apply-for-education-benefits/application/1990E/introduction)
   - 1990n - [Apply for Education Benefits under the National call to service program](https://www.va.gov/education/apply-for-education-benefits/application/1990N/introduction)
-  - 1995 - Manage your Education Benefits
-  - 5490 - Apply for Education Benefits as an Eligble Dependent
-  - 5495 - Dependents' Request for Change of Program or Place of Training
+  - 1995 - [Manage your Education Benefits](https://www.va.gov/education/apply-for-education-benefits/application/1995/introduction)
+  - 5490 - [Apply for Education Benefits as an Eligible Dependent](https://www.va.gov/education/apply-for-education-benefits/application/5490/introduction)
+  - 5495 - [Dependents' Request for Change of Program or Place of Training](https://www.va.gov/education/apply-for-education-benefits/application/5495/introduction)
   
 #### Team: Booz Allen (PM: Amy Knox)
 
