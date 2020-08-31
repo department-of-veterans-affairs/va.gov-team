@@ -1,14 +1,16 @@
 ### 8/31 Update
 
-- Meeting held with Analytics team to review the dataLayer taxonomy and get feedback on the Analytics tea can solution this robustly for future how to wizards...we want to make sure we are in alignment with you and understand the framework expected for future wizards.
-  - Behaviors we want to track:
-    - Overall usage
-    - Number/Percent Complete
+- Meeting held with Analytics team to review their initial dataLayer taxonomy approach for instrumenting all the wizards in a unified, consistent manner.  The approach will, in effect, track all the interactions (e.g. radio buttons and any hotlinks to pages) in the wizards.   This will enable insight into:
+    - Overall usage of the Wizard
+    - Number/Percent Complete 
     - Numbeer/Percent Abandoned (not completed during session)
     - Of those completed (answered final question, given link to "correct" form:
       - Clicks to Apply
       - Does not Click to Apply
     - Number/Percent who clicks on Link to Apply, but then comes back and uses Wizard (during session)
+    - The visitor ID will be leveraged to understand who paused on completing the wizard (for up to 30 minutes) while they did something else -- e.g. looked up information for the application, asked their spouse a question, took a phone call) -- before returning to complete the app. (This should not be considered abandonment).
+
+- The analytics team will provide the new datalayer taxonomy to BAM 1 and BAM 2 so they can implement in tandem -- and testing/verficaton can be done in conjunction vs. staggered fashion.
 
 - For 9/1 meeting, some key points to cover:
 
