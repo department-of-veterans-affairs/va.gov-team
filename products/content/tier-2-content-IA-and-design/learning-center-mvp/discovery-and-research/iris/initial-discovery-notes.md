@@ -34,7 +34,7 @@ Now that IRIS is going to be retired, Veteran Experience Office (VEO) is in the 
   - Laura Petrula (VEO/IRIS)
   - Trish Deng (VEO/IRIS)
     - ^ not clear on how their roles split out
-  - Leo Catanach (VEO/Primary owner of eGaines/excited to move teams to eGaines/also aware of what we're doing but not quite grokking it)
+  - Leo Catanach (VEO/Primary owner of eGaines/excited to move teams to eGaines/also aware of what we're doing)
   - Possibly Oksana on the CMS team, good to keep in the loop as FYSA, we may be reaching out to her later to add authoring functionality
 
 - Contact center content teams, individuals TBD. We want to talk to the content teams that support the call centers (not the call reps at this time).
