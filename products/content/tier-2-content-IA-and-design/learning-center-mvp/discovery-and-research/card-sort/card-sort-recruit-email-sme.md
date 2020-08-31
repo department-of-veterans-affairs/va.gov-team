@@ -8,7 +8,7 @@ We are looking for subject matter experts or people who create/manage content fo
 
 **How long is a session?** The session is self guided and should take you 10-20 minutes to complete both card sorts. You can do this at any time of day that's convenient for you.
 
-**Is there a deadline?** We would like to gather all responses by September 8, 2020.
+**Is there a deadline?** We would like to gather all responses by September 11, 2020.
 
 **How do I participate?** Click on the links below and follow the provided instructions. 
 
