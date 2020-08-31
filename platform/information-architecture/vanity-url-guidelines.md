@@ -56,25 +56,38 @@ URL Keyword Segment Guidelines:
 
 ## Request Process
 
-- What do we need to know about the request
-- What/where will it be used - youtube, tv, radio, print, etc. 
-- How do they request, who does it go to?
-- Turnaround time
-- Process
-  - Team receives email request - PW contact
-	- Information gathering - establish standard questions
-		- What will it be used for
-		- How long should it be live
-		- Where will it point to
-		- Who is the audience
-		- What is timing
-		- Who is contact for this established URL going forward
-	- Create an issue - need a template?
-	- Content/IA assessment and solution
-	- Send solution to requestor
-	- Implementation
-	- Retirement process?
-		- Can it be re-used? Same landing page or different?
-		- Do we remove the redirect?
-		- Do we care?
+Requests for vanity URLs need to be submitted **AT LEAST** 2 weeks in advance.  This allows for time to establish and confirm the final URL and landing page as well as give technical teams time to plan for implementation. 
+
+Ad campaign tracking should be handled by the requestor, and will not be implemented through this process. 
+
+
+1. Create an issue with the following information provided:
+
+- Briefly describe what this URL will be used for as well as who your audience is.
+- What URL should this vanity URL redirect to and why?
+- How will users find out about the URL?
+  - [ ] In electronic communications such as emails, text messages or social media posts
+  - [ ] In electronic materials such as an image or PDF
+  - [ ] In print materials such as forms, brochures, booklets 
+  - [ ] Spoken in an audio or video production such 
+- Please provide links to or attach examples of the above items that will include the URL.
+- How will users access the URL?
+  - [ ] It will be clickable/tappable within electronic media/communications (i.e. link in an email or text message)
+  - [ ] Users will need to type it into a browser
+- When does the URL need to be live?  (At least 2 weeks notice is required)
+- How long will this URL be used? 
+- Who is the point of contact for this URL?
+
+2. Assign the issue to @mnorthuis
+
+3. The VSP Content & IA team will pick the issue up, work with you to finalize the URL, and assign to the implementation team. 
+
+4. Implementation team will launch and validate the vanity URL, and update the issue once it is live.
+
+
+
+## Implementation Process
+
+
+
 
