@@ -1,3 +1,5 @@
+# Should we add a new manual review trigger?
+
 The purpose of this doc is to provide context in order to make a decision around prioritizing manual review trigger iterations. 
 
 Drafted by: Megan, Product Manager, VSP FE Tools
@@ -20,7 +22,7 @@ Drafted by: Megan, Product Manager, VSP FE Tools
     
 ## Paths forward: 
 
-### Option 1 (recommended): Put the new manual review trigger on hold 
+### Option 1 (recommended by Megan & Rian): Put the new manual review trigger on hold 
 
 Put the new manual review trigger on hold until we are able to think more broadly and carefully about automated code quality as a product, what we should be measuring here, and whether we are meeting our goals. Prioritize iterating on manual review triggers, including doing discover work on current experience, and prioritizing implementation of measurement to get baseline metrics before adding new triggers. 
 
