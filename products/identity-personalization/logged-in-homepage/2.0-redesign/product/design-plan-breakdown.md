@@ -18,7 +18,7 @@ We refer to the 'blue sky' version of the logged-in homepage, and we'd like to o
 
 - 'Blue Sky Version': The ideal outcome for this project. This includes all requirements from Samara's [V1 plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/product/v1-plan.md)
 
-**Phase 1: Design and plan the wireframe for the blue sky logged-in homepage.**
+## Phase 1: Design and plan the wireframe for the blue sky logged-in homepage.
 
 - [ ] Storyboarding 
 - [ ] Data points
@@ -30,7 +30,7 @@ We refer to the 'blue sky' version of the logged-in homepage, and we'd like to o
   - [ ] Records
 - [ ] Platform checkpoint
 
-**Phase 2: Design Healthcare, Claims sections **
+## Phase 2: Design Healthcare, Claims sections 
 
 **Health care**
 
@@ -107,7 +107,7 @@ We refer to the 'blue sky' version of the logged-in homepage, and we'd like to o
   - [ ] High fidelity mockups
   - [ ] Stakeholder Reviews and approval
    
-**Phase 3: Design Education and Records sections** 
+## Phase 3: Design Education and Records sections
 
 **Education**
 
