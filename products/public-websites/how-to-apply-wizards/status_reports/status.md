@@ -9,7 +9,7 @@
   - Platform IA review of the Education Wizard has surfaced some important questions about user flow:
      - What happens to a user who completes the wizard and wants to ignore the wizard recommendation?
      - What happens to a user who completes all the questions in the wizard but wants to start over to see more options?  Currently, they can re-click the buttons to see additional options -- but do we need to add a "start over" option for the wizard?  (Any evidence this is happening now?)
-     -
+     - Are we ok with the current session state logic (e.g., once the user clicks the Apply Now button, the Wizard disappears from the Introduction page for that current session)?  What happens if they land on the app page and decide they made a mistake and want to take the Wizard again by clicking back?  Would it be better just to keep the Wizard on the page persistantly?
 
 
 ### 8/26 Update
