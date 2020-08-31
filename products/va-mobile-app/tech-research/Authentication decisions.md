@@ -27,6 +27,11 @@ The mobile app will use SSOe OAuth to authenticate users into the app. OAuth is 
 - Length: 45d (based on discussions with Cory Trimm)
 - Rolling vs. Fixed expiration: rolling expiration would be preferred, but IAM SSOe only allows for fixed expiration
 
+### Decision
+**45d fixed expiration**
+
+_2020-08-31 conversation with Chris Johnston and Steve Kovacs_
+
 This means app-using Veterans will have to re-enter the authentication flow about once every 6 weeks.
 
 ## Decision 2: Access token expiration
@@ -43,6 +48,11 @@ This means app-using Veterans will have to re-enter the authentication flow abou
 ### Our recommendation: 
 - Length: 30m (long enough to not incur extra network calls during a long session, also based on discussions with Cory Trimm)
 
+### Decision
+**30m expiration**
+
+_2020-08-31 conversation with Chris Johnston and Steve Kovacs_
+
 
 ## Decision 3: Consent screens
 ### *Since users are logging into the VA directly (as opposed to through a third-party), are consent screens required?*
@@ -52,6 +62,12 @@ Consent screens are useful when authorizing a 3rd party app, such as “yes I al
 
 ### Our recommendation: 
 - disable consent screens
+
+### Decision
+**disable consent screens**
+
+_2020-08-31 conversation with Chris Johnston and Steve Kovacs_
+
 
 ## Decision 4: LOA1 users
 ### *Given the app's features will require LOA 3, how should we handle LOA 1 users in the MVP?*
@@ -63,4 +79,8 @@ Our app is targeting users who already have a VA account and want to see informa
 ### Our recommendation: 
 - For the MVP, the app should require users to have LOA 3 and direct them to VA.gov if not.
 
+### Decision
+**LOA 3 required to enter app; show a simple single-screen CTA to send LOA 1 users to VA.gov for up-proofing**
+
+_2020-08-31 conversation with Chris Johnston and Steve Kovacs_
 
