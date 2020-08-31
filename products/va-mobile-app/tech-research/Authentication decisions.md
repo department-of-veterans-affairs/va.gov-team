@@ -53,6 +53,14 @@ Consent screens are useful when authorizing a 3rd party app, such as “yes I al
 ### Our recommendation: 
 - disable consent screens
 
+## Decision 4: LOA1 users
+### *Given our app will be LOA 3, how would we handle LOA 1 users in the MVP?*
 
+### Context
+
+Our app is targeting users who already have a VA account and want to see information that is personal and relevant to them. Therefore our app is requires LOA 3 to see this personal data (both claims and health). However, this means that individuals who have not completed identify proofing will not be able to do much with the app beyond Logging in, accessing the Veterans Crisis Line and viewing Facility Locator. 
+
+### Our recommendation: 
+- For the MVP, the app should require users to have LOA 3 and direct them to VA.gov if not.
 
 
