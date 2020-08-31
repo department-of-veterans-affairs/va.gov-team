@@ -22,6 +22,7 @@ We broke this strategy down into 3 phases.
 - [ ] Whiteboarding
 - [ ] Wireframing
 - [ ] 2-3 high level concepts
+- [ ] Review with team and pick preferred concept
 - [ ] Platform checkpoint
 
 ## Phase 2: Design Healthcare, Claims sections: ~ 3 sprints
