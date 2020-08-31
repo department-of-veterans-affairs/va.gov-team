@@ -4,7 +4,7 @@
 
 - For 9/1 meeting, some key points to cover:
 
-  - Rogers STEM application will go live on -- or around Sept 10 -- without the Wizard.  The question is: Does it need a/the Wizard?  My POV: No.
+  - Rogers STEM application will go live on -- or around Sept 10 -- without the Wizard.  There are no plans to add the Wizard to the introduction page.
   - The Education Wizard needs to be updated to reflect (a) revised text for the Rogers STEM scholarship and (b) a link to the new online application ^^^
   - Platform IA review of the Education Wizard has surfaced some important questions about user flow:
      - What happens to a user who completes the wizard and wants to ignore the wizard recommendation?
