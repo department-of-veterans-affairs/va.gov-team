@@ -25,22 +25,26 @@ We refer to the 'blue sky' version of the logged-in homepage, and we'd like to o
 - [ ] Whiteboarding
 - [ ] Wireframing
   - [ ] Healthcare
-  - [ ] Disability
+  - [ ] Claims
   - [ ] Education
   - [ ] Records
-  - [ ] Users who have no benefits and no applications in flight
 - [ ] Platform checkpoint
 
-**Phase 2: Design Healthcare and Disability sections **
+**Phase 2: Design Healthcare, Claims sections **
 
 **Health care**
 
-- Refill and track your prescriptions (a link to view prescriptions will be shown conditionally if someone has prescriptions)
+- Healthcare Overview (information changes dynamically depending on if a user has healthcare or not)
+  - [ ] Visual design explorations
+  - [ ] High fidelity mockups
+  - [ ] Stakeholder Reviews and approval
+
+- Refill and track your prescriptions (shown conditionally if someone has prescriptions)
   - [ ] Visual design explorations
   - [ ] High fidelity mockups
   - [ ] Stakeholder Reviews and approval
   
-- Send a secure message to your health care team (a link to view messages will be shown conditionally if someone has messages)
+- Send a secure message to your health care team (shown conditionally if someone has messages)
   - [ ] Visual design explorations
   - [ ] High fidelity mockups
   - [ ] Stakeholder Reviews and approval
@@ -66,7 +70,7 @@ We refer to the 'blue sky' version of the logged-in homepage, and we'd like to o
 - [ ] Platform checkpoints 
 - [ ] Hand-off to developers 
 
-**Disability**
+**Claims**
 
 - Overall disability rating (shown conditionally if someone has a disability rating)
   - [ ] Visual design explorations
@@ -77,7 +81,7 @@ We refer to the 'blue sky' version of the logged-in homepage, and we'd like to o
   - [ ] Visual design explorations
   - [ ] High fidelity mockups
   - [ ] Stakeholder Reviews and approval
- 
+
 - View your payment history
   - [ ] Visual design explorations
   - [ ] High fidelity mockups
@@ -97,6 +101,11 @@ We refer to the 'blue sky' version of the logged-in homepage, and we'd like to o
    - [ ] Visual design explorations
    - [ ] High fidelity mockups
    - [ ] Stakeholder Reviews and approval
+   
+ - View your direct deposit
+  - [ ] Visual design explorations
+  - [ ] High fidelity mockups
+  - [ ] Stakeholder Reviews and approval
    
 **Phase 3: Design Education and Records sections** 
 
@@ -149,15 +158,3 @@ We refer to the 'blue sky' version of the logged-in homepage, and we'd like to o
 - [ ] Stakeholder Review (Depending on research outcome) for both education and records
 - [ ] Platform checkpoints for both education and records
 - [ ] Hand-off to developers
-
-**Phase 4: Retire MyVA** 
-   
-
-
-
-
-## Other expectations for version 1
-
--	A visual redesign of the My VA elements moving over to the logged-in homepage. We should NOT just move the blocks over as-is.
--	Retiring My VA.
-
