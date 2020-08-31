@@ -1,5 +1,39 @@
 # Release Plan - Find VA Form (Detail Pages)
 
+__Summary of release plan steps:__
+Per product sync today - We will launch batches per steps: 
+
+**I. Batch 1 release** 
+
+1. **Publish batch 1 form pages to prod with a basic auth gate.**   `Blocked until CMS breadcrumb fixed by [ticket #2270](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2770)`
+
+2. Invite users to UAT the top 41 forms. 
+
+3. Fix any reported bugs if any. 
+
+
+**II. Batch 2 release**
+
+4. **Publish batch 2 forms - still behind basic auth gate.** 
+
+5. Monitor until we hit 300 users or 5 business days with less than 5% error rate. 
+
+6. Fix bugs if any. 
+
+7. Remove basic auth. 
+
+**III. After basic auth removed**
+
+8. Implement Batch 1 form pages redirects - 1:1 redirects
+
+9. Implement Batch 2  form pages redirects - bulk redirects to search
+
+**IV. Search page updates**
+
+10. Follow on with [post-launch search page updates](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10758): Related to field / Online tool CTA / form page connection / Misc page updates
+
+
+
 ---
 
 ## Phase I: Unmoderated internal production testing (also known as User Acceptance Testing, or UAT)
