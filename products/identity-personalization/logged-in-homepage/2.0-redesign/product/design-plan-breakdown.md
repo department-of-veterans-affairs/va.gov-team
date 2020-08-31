@@ -1,4 +1,4 @@
-# Logged-in homepage: Project 1 - Logged-in homepage redesign and retirment of MyVA
+# Logged-in homepage: Project 1 - Logged-in homepage redesign and retirement of MyVA
 
 Based off of the [V1 plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/product/v1-plan.md) and the [Logged-in homepage discovery summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/discovery-summary.md) that Samara put together, we have planned out phases to design and build the new Logged-in homepage. 
 
@@ -150,7 +150,7 @@ We refer to the 'blue sky' version of the logged-in homepage, and we'd like to o
 - [ ] Platform checkpoints for both education and records
 - [ ] Hand-off to developers
 
-**Phase 4: Design Education and Records sections** 
+**Phase 4: Retire MyVA** 
    
 
 
