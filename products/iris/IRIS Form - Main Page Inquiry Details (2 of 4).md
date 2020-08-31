@@ -68,4 +68,4 @@ FACILITIES:
 
 - The fields in the drop downs will need to be thought through - for Medical Facilities, we have 'VHA Vet Healthcare Eligibility (HRCTopeka)' for facility, but curious if there's another naming standard and usability standard (do Vets think the geography is more important - i.e. KS/Topeka/VHA Vet Healthcare)
 
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/ca2514e624dcf5b245cf662f17839c6c5cee69f0/products/facilities/facility-locator/product/facility-locator-product-outline.md - Should we run this past the Facility folks?
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/ca2514e624dcf5b245cf662f17839c6c5cee69f0/products/facilities/facility-locator/product/facility-locator-product-outline.md - Should we the naming for the drop down with the Facility folks?  Note https://staging.va.gov/find-locations/ is the live version of their work as well as live on va.gov
