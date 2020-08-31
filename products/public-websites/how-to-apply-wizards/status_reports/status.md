@@ -1,6 +1,14 @@
 ### 8/31 Update
 
-- Meeting held with Analytics team to review the dataLayer taxonomy and get feedback on the Analytics tea can solution this robustly for future how to wizards...we want to make sure we are in alignment with you and understand the framework expected for future wizards
+- Meeting held with Analytics team to review the dataLayer taxonomy and get feedback on the Analytics tea can solution this robustly for future how to wizards...we want to make sure we are in alignment with you and understand the framework expected for future wizards.
+- Behaviors we want to track:
+  - Overall usage
+  - Number/Percent Complete
+  - Numbeer/Percent Abandoned (not completed during session)
+  - Of those completed (answered final question, given link to "correct" form:
+    - Clicks to Apply
+    - Does not Click to Apply
+  - Number/Percent who clicks on Link to Apply, but then comes back and uses Wizard (during session)
 
 - For 9/1 meeting, some key points to cover:
 
