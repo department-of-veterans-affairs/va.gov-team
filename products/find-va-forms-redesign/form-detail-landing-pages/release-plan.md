@@ -4,7 +4,7 @@
 
 ## Phase I: Unmoderated internal production testing (also known as User Acceptance Testing, or UAT)
 
-### Planning:
+### Planning - Batch 1 form pages:
 
 - **Date range:**
   - Starting ~08/31/2020-09/09/2020
@@ -41,82 +41,17 @@
 - Types of errors logged: lorem ipsum
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
-
-~## Phase II: Staged Rollout (also known as unmoderated production testing)~
-
-~### Do I need a staged rollout? No~
-
-~<details>~
-
-~**Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:~
-
-* This change does not add substantial new functionality to VA.gov: *Yes*
-* This change does not impact user flows through tasks: *Yes*
-* This change does not affect traffic to backend services: *Yes*
-
-~<details>~
-
--  ~~*Example*: a change to a page's text content **could skip** staged rollout~~ 
--  ~*Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout~
--  ~*Example*: adding a new field to an existing form **could skip** staged rollout~  
-
--  ~~*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**~~ 
--  ~~*Example*: a significant change to how users navigate an existing form **needs staged rollout**~~ 
--  ~~*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **needs staged rollout**~~ 
-
-#### ~~Exceptions~~
-
-~~Right now, [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) are the primary tool VSP provides for facilitating staged rollout. If feature toggles don't work for your use case, you can request an exception from staged rollout in Staging Review.~~
-
-| ~~Feature type~~                        | ~~Possible with feature toggles?~~ |
-| --------------------------------------- | ---------------------------------- |
-| ~~New feature in existing application~~ | ~~Yes~~                            |
-| ~~New application~~                     | ~~Yes~~                            |
-| ~~Static content changes~~              | ~~Doable but tricky~~              |
-| ~~URL redirects~~                       | ~~No~~                             |
-
-~~Other exceptions to this requirement can be approved by DEPO VSP leads.~~
-
-~</details>~
-
-~</details>~
-
-~This product does not need a staged rollout, per above criteria, but we have decided to take a staged approach due to several factors:~ 
-- ~~number of new nodes~
-- ~new CMS template~
-- ~interconnectedness with forms search and Lighthouse API, and~ 
-- ~dependency on Transformer/node capacity.~
-
-
 - Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
 
-~_The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._~
-
-~### Stage A: Canary (Batch 1 - mvp top form pages) [#11155](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11155)~
-
-_Test a small population of users to make sure any obvious bugs / edge cases are caught._
-
-~#### Planning~
-
-~- **Length of time:~ **
-  - ~7 business days~
-- ~~Percentage of~~ **~Users (and roughly how many users do you expect this to be):~ **
-  - ~Around 25 invited users plus users who click to the page from modernized forms search experience.~ 
 
 
-#### Results:
+### Planning - Batch 2 form pages: 
 
-- Number of unique users: x
-- Metrics at this stage (per your "success criteria"): 
-- ~~Was the data submitted (if any) easy for VA to process?~~  There's nothing to submit.
-- Types of errors logged: 
-- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
+(Batch 2 - MVP non-top forms) [#12213](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12213)
 
-### Stage B: moderate (Batch 2 - MVP non-top forms) [#12213](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12213)
-
-~~_Test a larger population of users to make sure there are no issues exposed by larger usage patterns._~~ 
-
-We will do a 'hidden' launch, no-index and no redirects of remaining legacy form detail pages. Second batch -   'non-top' MVP form detail pages (around 400 - this number changes based on the VA forms database). 
+- We will do a 'hidden' launch, no redirects of remaining legacy form detail pages. Second batch -   'non-top' MVP form detail pages (around 400 - this number changes based on the VA forms database). 
+ - We will do a 'hidden' launch, with basic auth gate in front of the form page directory. 
+ - We will not do redirects until post-UAT.
 
 #### Planning
 
