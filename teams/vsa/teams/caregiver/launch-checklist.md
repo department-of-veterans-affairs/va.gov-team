@@ -19,6 +19,7 @@
 | Task     | Status |
 | :----------- | ----------- |
 | CARMA PDF Signature + time stamp | Done |
+| Complete a full [508 audit](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10743) and address findings | Done |
 | Password/beta test implementation | Completed |
 | Staging Review | Completed |
 | Feature toggle testing  | Completed    |
