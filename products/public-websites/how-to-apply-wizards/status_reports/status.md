@@ -1,25 +1,28 @@
 ### 8/31 Update
 
-- Meeting held with Analytics team to review the dataLayer taxonomy and get your feedback on how we can solution this robustly for future how to wizards...we want to make sure we are in alignment with you and understand the framework expected for future wizards
+- Meeting held with Analytics team to review the dataLayer taxonomy and get feedback on the Analytics tea can solution this robustly for future how to wizards...we want to make sure we are in alignment with you and understand the framework expected for future wizards
+
 - For 9/1 meeting, some key points to cover:
 
-  - STEM Rogers will go live on -- or around Sept 10 -- without the Wizard.  The question is: Does it need a/the Wizard?
-  - The Education Wizard needs to be updated to reflect (a) revised text re: STEM scholarship and (b) a link to the new online application ^^^
+  - Rogers STEM application will go live on -- or around Sept 10 -- without the Wizard.  The question is: Does it need a/the Wizard?  My POV: No.
+  - The Education Wizard needs to be updated to reflect (a) revised text for the Rogers STEM scholarship and (b) a link to the new online application ^^^
   - Platform IA review of the Education Wizard has surfaced some important questions about user flow:
-     - 
+     - What happens to a user who completes the wizard and wants to ignore the wizard recommendation?
+     - What happens to a user who completes all the questions in the wizard but wants to start over to see more options?  Currently, they can re-click the buttons to see additional options -- but do we need to add a "start over" option for the wizard?  (Any evidence this is happening now?)
+     -
 
 
 ### 8/26 Update
 
 #### Team: BAM 2 (PM: Leah Keeler + Developer: Craig Wheeler)
 
-- **Education (Form 1990)**: Initial dev is complete and on staging at: https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction and undergoing Collab Cycle review and iteration.  The wizard also applies to the following Education benefits forms:
-  - 0994 (Apply for VET Tech)
-  - 1990e (Apply to use transferred education benefits)
-  - 1990n (Apply for Education  Benefits under the National call to service program)
-  - 1995 (Manage your Education Benefits)
-  - 5490 (Apply for Education Benefits as an Eligble Dependent)
-  - 5495 (Dependents' Request for Change of Program or Place of Training)
+- **Education (Form 1990)**: Initial dev is complete and on staging at: https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction and undergoing Collab Cycle review and iteration.  The wizard also applies to the following Education benefits::
+  - 0994 - Apply for VET Tech 
+  - 1990e - Apply to use transferred education benefits
+  - 1990n - [Apply for Education Benefits under the National call to service program] (https://www.va.gov/education/apply-for-education-benefits/application/1990N/introduction)
+  - 1995 - Manage your Education Benefits
+  - 5490 - Apply for Education Benefits as an Eligble Dependent
+  - 5495 - Dependents' Request for Change of Program or Place of Training
   
 #### Team: Booz Allen (PM: Amy Knox)
 
