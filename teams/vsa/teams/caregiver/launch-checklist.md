@@ -5,16 +5,20 @@
 ## Must-have - open items
 | Task     | Status |
 | :----------- | ----------- |
-| CARMA PDF Signature + time stamp | ETA - 9/4 |
-| Google analytics backend setup | ETA - 9/4 |
-| Facility list changes | ETA - 9/4 |
+| Application status logging on VA.gov| In progress, ETA - 9/4 |
+| Google analytics backend setup | In progress, ETA - 9/4 |
+| Facility list changes | In progress, waiting on program team feedback |
 | Define launch metrics with program team  |In progress | 
 | Resolve any [staging review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12276) must-dos | In progress |
-| Incident Response Playbook   | Not started |
+| Incident Response Playbook   | In progress - program team is working on it |
+| Remove gender as required input from schema | Not started |
+| Make content and design changes proposed by program team | In progress - VSP is reviewing |
+| Meet with HEC, CSL to go over feedback/questions | In progress - scheduled for 9/4 |
 
 ## Must-have - done
 | Task     | Status |
 | :----------- | ----------- |
+| CARMA PDF Signature + time stamp | Done |
 | Password/beta test implementation | Completed |
 | Staging Review | Completed |
 | Feature toggle testing  | Completed    |
@@ -44,7 +48,7 @@
 | Confirm facility list with Program | To do |
 | Remove VSO information | Content? |
 | Add "disagree with this decision" to Apply page | Content? |
-| Send link to CSCs | To do |
+| Send link to CSCs | Done |
 | Checkbox on Signature page | Needs grooming |
 
 
@@ -52,7 +56,7 @@
 ## Nice to have
 | Task     | Status |
 | :----------- | ----------- |
-| Additional backend logging | In progress|
+| Signature box redesign | Not started |
 | Contact Center Review   | In progress |
 | Product video| To do |
 | Resolve ICN search in eMIS | To do |
