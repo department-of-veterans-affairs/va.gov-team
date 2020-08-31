@@ -54,7 +54,7 @@ Consent screens are useful when authorizing a 3rd party app, such as “yes I al
 - disable consent screens
 
 ## Decision 4: LOA1 users
-### *Given our app will be LOA 3, how would we handle LOA 1 users in the MVP?*
+### *Given the app's features will require LOA 3, how should we handle LOA 1 users in the MVP?*
 
 ### Context
 
