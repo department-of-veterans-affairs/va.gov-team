@@ -7,7 +7,7 @@
 ### Planning:
 
 - **Date range:**
-  - Starting ~08/26/2020
+  - Starting ~08/31/2020-09/09/2020
 - **Test duration:**
   - 5 business days
 - **Desired number of users:** 
@@ -16,8 +16,22 @@
   - PW team, DEPO volunteers, and forms stakeholders
 - **How you'll conduct the testing:** 
   - Provide people a list of form page links to test
-- **How you'll give the test users access to the product in production w/o making it live on VA.gov:** 
+- **How you'll give the test users access to the product in production w/o making it findable on VA.gov:** 
   - This is a CMS content product. In order to test full functionality (such as form download behavior) we have to publish on va.gov. We will not be able to test form downloads in demo/staging/preview. 
+- **How will you make the product available in production while limiting the number of users who can find/access it:** 
+  - We will do a 'hidden' launch, with basic auth gate in front of the form page directory. 
+  - We will not do redirects until post-UAT.
+  - We will UAT launch the first batch - (the top mvp top form pages)[#11155](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11155)
+
+- **What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:** 
+  - We will invite VA forms and business SMEs to visit their form detail page and test form download and links are working for them. 
+  - We will check error rate after we hit 25 users or 7 business days. We want < 5% error rate.
+  
+  We will track errors for:
+
+  - Form download links
+  - Online tool links on the form detail page
+  - Related forms links, if any, on the form detail page
 
 ### Results:
 
@@ -28,19 +42,19 @@
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
 
-## Phase II: Staged Rollout (also known as unmoderated production testing)
+~## Phase II: Staged Rollout (also known as unmoderated production testing)~
 
-### Do I need a staged rollout? No
+~### Do I need a staged rollout? No~
 
-<details>
+~<details>~
 
-**Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
+~**Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:~
 
 * This change does not add substantial new functionality to VA.gov: *Yes*
 * This change does not impact user flows through tasks: *Yes*
 * This change does not affect traffic to backend services: *Yes*
 
-<details>
+~<details>~
 
 -  ~~*Example*: a change to a page's text content **could skip** staged rollout~~ 
 -  ~*Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout~
@@ -63,7 +77,7 @@
 
 ~~Other exceptions to this requirement can be approved by DEPO VSP leads.~~
 
-</details>
+~</details>~
 
 ~</details>~
 
@@ -73,39 +87,22 @@
 - ~interconnectedness with forms search and Lighthouse API, and~ 
 - ~dependency on Transformer/node capacity.~
 
-### Planning
-
-- Date range: 08/31/2020-09/07/2020
-
-- **How will you make the product available in production while limiting the number of users who can find/access it:** 
-  - We will do a 'hidden' launch, with basic auth gate in front of the form page directory. 
-  - We will not do redirects until post-UAT.
-  - We will launch in batches: First batch -  the top MVP form detail pages (around 40-45 form detail pages). 
-
-- **What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:** 
-  - We will invite VA forms and business SMEs to visit their form detail page and test form download and links are working for them. 
-  
-  We will track errors for:
-
-  - Form download links
-  - Online tool links on the form detail page
-  - Related forms links, if any, on the form detail page
 
 - Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
 
-_The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
+~_The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._~
 
-### Stage A: Canary (Batch 1 - mvp top form pages) [#11155](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11155)
+~### Stage A: Canary (Batch 1 - mvp top form pages) [#11155](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11155)~
 
 _Test a small population of users to make sure any obvious bugs / edge cases are caught._
 
-#### Planning
+~#### Planning~
 
-- **Length of time: **
-  - 7 business days
-- ~~Percentage of~~ **Users (and roughly how many users do you expect this to be): **
-  - Around 25 invited users plus users who click to the page from modernized forms search experience. 
-  - We will check error rate after we hit 25 users or 7 business days. We want < 5% error rate.
+~- **Length of time:~ **
+  - ~7 business days~
+- ~~Percentage of~~ **~Users (and roughly how many users do you expect this to be):~ **
+  - ~Around 25 invited users plus users who click to the page from modernized forms search experience.~ 
+
 
 #### Results:
 
