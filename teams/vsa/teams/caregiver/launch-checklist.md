@@ -5,8 +5,8 @@
 ## Must-have - open items
 | Task     | Status |
 | :----------- | ----------- |
-| Application status logging on VA.gov| In progress, ETA - 9/4 |
-| Google analytics backend setup | In progress, ETA - 9/4 |
+| Application status logging on VA.gov| In progress |
+| Google analytics backend setup | In progress, |
 | Facility list changes | In progress, waiting on program team feedback |
 | Define launch metrics with program team  |In progress | 
 | Resolve any [staging review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12276) must-dos | In progress |
