@@ -77,7 +77,7 @@ _Note: ~credentials should be stored in sensitive repos only~ All CMS content li
   - Max-custom-data: https://vsateams.invisionapp.com/share/G2YF5AJC845#/screens/428497810_detail_Page_With_All_Components_-_With_Error
 
 * **Instructions to access in ~Staging~ on prod.cms.va.gov** (_Note: ~credentials should be stored in sensitive repos only~ All CMS content lives on prod and can be viewed as unpublished previews_)
-  - You must be on VA network to access the CMS preview page: 
+  - QA example on Staging: https://staging.va.gov/form-detail-dummy/
     
 * **Link to TestRail Test Case** (in case we do find any examples for this edge case)
   - C860 https://dsvavsp.testrail.io/index.php?/cases/view/860 \[Request TR login credentials from @mickinsahni]
