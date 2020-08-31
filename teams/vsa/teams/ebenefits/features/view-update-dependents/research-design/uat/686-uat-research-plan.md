@@ -84,23 +84,28 @@ Recruit for 5 fulfilled sessions using the following criteria:
 
 #### eBenefits Team Availability
 
-`All dates/times TBD`
+Please allow 30 minutes between sessions.
 
-| Dates | Times (EST) |
+| Dates | Times (EDT) |
 | --- | --- |
-| Aug | 9 AM to 5 PM |
+| September 14, 2020 | 9 AM to 5 PM |
+| September 15, 2020 | 9 AM to 5 PM |
+| September 16, 2020 | 9 AM to Noon |
+| September 17, 2020 | 9 AM to 5 PM |
+| September 18, 2020 | 9 AM to 5 PM |
+| W E E K - T W O |  |
+| September 21, 2020 | 9 AM to 5 PM |
+| September 23, 2020 | 9 AM to noon |
+| September 24, 2020 | 9 AM to 5 PM |
+| September 25, 2020 | Noon to 5 PM |
 
 ### Team members
 - [James Adams](jadams@governmentcio.com) [(VA Email)](james-adams2@va.gov) -- Moderator, researcher
 - [Steve Kovacs](steve.kovacs@va.gov) -- DSVA lead
 - [Jason Wolf](jwolf@governmentcio.com) -- eBenefits product manager
-- [Shawna Hein](shawna@adhocteam.us) -- VSA design lead
 - [Kathleen Crawford](kcrawford@governmentcio.com) -- Backend engineer
 - [Micah Chiang](micha@adhocteam.us) -- Frontend engineer
 - [Jesse Cohn](jesse.cohn@adhocteam.us) -- Frontend engineer
-- [Jennifer Strickland](jennifer.stricklandn@adhocteam.us) -- 508 compliance
-- [Emily Waggoner](emily@adhocteam.us) -- VSP platform
-- [Peggy Gannon](peggy@thesocompany.com) -- VSP content
 - Perigean -- Participant recruiting & screening
 - Note-takers -- Various as available
 - Observers -- various as available
