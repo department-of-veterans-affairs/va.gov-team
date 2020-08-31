@@ -2,7 +2,7 @@
 
 ---
 
-## Phase I: Internal production testing (also known as User Acceptance Testing, or UAT)
+## Phase I: Unmoderated internal production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
 
@@ -11,13 +11,13 @@
 - **Test duration:**
   - 5 business days
 - **Desired number of users:** 
-  - 10
+  - 25
 - **How you'll recruit the right production test users:** 
-  - PW team and DEPO volunteers
+  - PW team, DEPO volunteers, and forms stakeholders
 - **How you'll conduct the testing:** 
-  - Provide people a list of forms to search and links to test
+  - Provide people a list of form page links to test
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** 
-  - This is a CMS content product. We are building a separate QA environment where we'll be able to test without making live on VA.gov Prod. 
+  - This is a CMS content product. In order to test full functionality (such as form download behavior) we have to publish on va.gov. We will not be able to test form downloads in demo/staging/preview. 
 
 ### Results:
 
@@ -30,7 +30,7 @@
 
 ## Phase II: Staged Rollout (also known as unmoderated production testing)
 
-### Do I need a staged rollout?
+### Do I need a staged rollout? No
 
 <details>
 
@@ -65,20 +65,21 @@
 
 </details>
 
-</details>
+~</details>~
 
-This product does not need a staged rollout, per above criteria, but we have decided to take a staged approach due to several factors: 
-- number of new nodes
-- new CMS template
-- interconnectedness with forms search and Lighthouse API, and 
-- dependency on Transformer/node capacity.
+~This product does not need a staged rollout, per above criteria, but we have decided to take a staged approach due to several factors:~ 
+- ~~number of new nodes~
+- ~new CMS template~
+- ~interconnectedness with forms search and Lighthouse API, and~ 
+- ~dependency on Transformer/node capacity.~
 
 ### Planning
 
 - Date range: 08/31/2020-09/07/2020
 
 - **How will you make the product available in production while limiting the number of users who can find/access it:** 
-  - We will do a 'hidden' launch, no-index and no redirects of the legacy form detail pages.
+  - We will do a 'hidden' launch, with basic auth gate in front of the form page directory. 
+  - We will not do redirects until post-UAT.
   - We will launch in batches: First batch -  the top MVP form detail pages (around 40-45 form detail pages). 
 
 - **What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:** 
@@ -103,8 +104,8 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 - **Length of time: **
   - 7 business days
 - ~~Percentage of~~ **Users (and roughly how many users do you expect this to be): **
-  - Around 50 invited users plus users who click to the page from modernized forms search experience. 
-  - We will check error rate after we hit 100 users or 7 business days. We want < 5% error rate.
+  - Around 25 invited users plus users who click to the page from modernized forms search experience. 
+  - We will check error rate after we hit 25 users or 7 business days. We want < 5% error rate.
 
 #### Results:
 
