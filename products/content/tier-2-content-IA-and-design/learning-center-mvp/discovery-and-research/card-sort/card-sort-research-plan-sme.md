@@ -41,7 +41,7 @@ Jen Lee will send an email out to participants.
 
 ## When?
 
-The card sort links will sent on 8/31/2020, and we're asking participants to complete by 9/8/2020.
+The card sort links will sent on 8/31/2020, and we're asking participants to complete by 9/11/2020.
 
 We estimate it will take participants 15-20 minutes to complete both card sorts.
 
