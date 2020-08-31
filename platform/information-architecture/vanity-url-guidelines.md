@@ -38,7 +38,8 @@ URL Keyword Segment Guidelines:
 - If the current URL has only one segment after the top level domain, there is no need to create a vanity/shortened url - i.e. www.va.gov/careers-employment should not be shortened
 - Short URLs should be maximum of 50 characters (~70 characters is limit on SERPs)
     
-**CONTENT MUST CURRENTLY EXIST ON THE MODERNIZED SITE - NOT A SUBDOMAIN**
+**CONTENT MUST CURRENTLY EXIST ON THE MODERNIZED SITE**
+- If the content does not exist, you will need to work with the Public Websites team to create the appropriate landing page first
 - The landing page should clearly answer to the intended topic/question - i.e. if the communication is about home loans, send the user to the home loans landing page, not the housing assistance hub
 
 **WE DO NOT MAINTAIN THE VISIBILITY OF THE SHORTENED URL, ALL SHORT URLS ARE 301 REDIRECTS**
