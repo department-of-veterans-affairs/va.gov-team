@@ -77,7 +77,7 @@ We will track errors for:
 _More stages? Sure! If it makes sense for your product! Plan them out with the same structure as above._
 
 
-## Go Live! - Open launch (remove noindex [#12242](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12242) & implement redirects [#5549](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5549))
+## Go Live! - Open launch (~remove noindex [#12242]~ & implement redirects [#5549](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5549))
 
 Remove no-index from modern form detail pages. 
 
