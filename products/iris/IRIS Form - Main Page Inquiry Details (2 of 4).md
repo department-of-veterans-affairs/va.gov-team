@@ -14,12 +14,8 @@ This page allows users to include information about their inquiry so we can rout
 
 Default number of values TBD. Values sorted alphabetically. 
 
-
 For the list of Level 1, Level 2 and Level 3 values  please refer the Excel spreadsheet in the story.  These are values we need to confirm with stakeholders - we're in the process of doing this.  The GI Bill folks have sent over a spreadsheet of values (GI Bill Capabilities 20200819.xlsx) so what Ramya and I can do is perhaps understand if we need to just display them alphabetically or how to integrate them into the drop down and work with Peggy on a good way to structure this.  
 The values are included in [this story](https://github.com/department-of-veterans-affairs/orchid/issues/36) as well, which will likely serve as the place where multiple fields from the GI Bill, IRIS and MyHealtheVet will live
-
-The fields in the drop downs will need to be thought through - for Medical Facilities, we have 'VHA Vet Healthcare Eligibility (HRCTopeka)' for facility, but curious if there's another naming standard and usability standard (do Vets think the geography is more important - i.e. KS/Topeka/VHA Vet Healthcare)
-
 
 - Standard VA form calls to action (buttons at the bottom allowing users to go back of forward) are included.
 
@@ -47,7 +43,9 @@ Calls to action:
 
 ```
 
-TO DO:
+**TO DO:**
+
+SUPPORT:
 
 We need to understand what to do for support - I have a good idea of what design patterns to use (https://design.va.gov/patterns/supplemental-content, but need to a) create an inventory of what help to have, and b) where it needs to be rewritten.   For example, do we need this or does it need to be rewritten:
 
@@ -66,3 +64,8 @@ For now the support text is being tracked in this story https://github.com/depar
 - error states (and how to fix the content so it goes away)
 - additional examples
 
+FACILITIES:
+
+- The fields in the drop downs will need to be thought through - for Medical Facilities, we have 'VHA Vet Healthcare Eligibility (HRCTopeka)' for facility, but curious if there's another naming standard and usability standard (do Vets think the geography is more important - i.e. KS/Topeka/VHA Vet Healthcare)
+
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/ca2514e624dcf5b245cf662f17839c6c5cee69f0/products/facilities/facility-locator/product/facility-locator-product-outline.md - Should we run this past the Facility folks?
