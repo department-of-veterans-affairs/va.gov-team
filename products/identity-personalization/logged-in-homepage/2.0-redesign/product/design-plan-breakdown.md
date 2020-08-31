@@ -10,7 +10,7 @@ First, we'll break this work into three projects:
 
 This first project is focused on the logged-in homepage redesign and retirement of MyVA. We have broken this project down into 3 phases.
 
-- Phase 1: Design and plan the wireframe for the blue sky logged-in homepage.
+- Phase 1: Design and plan the high-level wireframe for the blue sky logged-in homepage.
 - Phase 2: Design Healthcare and Disability section
 - Phase 3: Design Education and Records sections
 
