@@ -1,7 +1,7 @@
 # Key Decisions for Mobile Authentication
 
 ## Purpose
-The mobile app team needs three decisions to proceed with the authentication work. Below we have outlined the three decisions, some context around each and provided a recommendation. 
+The mobile app team needs to come to consensus on four decisions to proceed with the authentication work. Below we have outlined the four decisions, some context around each and provided a recommendation. 
 
 ## Background
 The mobile app will use SSOe OAuth to authenticate users into the app. OAuth is often used to authenticate third-party apps, so many of the standards aren’t directly applicable to our use case. For example, when Veterans authorize Apple Health to access their VA data, then it makes sense to ask for consent, and allow for a long period of time before re-authorization using login and password. Whereas if a user is logging directly into their Apple Health account, those standards do not make sense.
