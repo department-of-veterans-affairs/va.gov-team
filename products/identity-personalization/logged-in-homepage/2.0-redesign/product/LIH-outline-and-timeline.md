@@ -15,7 +15,7 @@ We broke this strategy down into 3 phases.
 - Phase 2: Design Healthcare and Disability section
 - Phase 3: Design Education and Records sections
 
-## Phase 1: Create 2-3 high-level concepts for logged-in homepage - estimated timeline: 1 sprint
+## Phase 1: Create 2-3 high-level concepts for logged-in homepage: ~ 1 sprint
 
 - [ ] Storyboarding 
 - [ ] Data points
