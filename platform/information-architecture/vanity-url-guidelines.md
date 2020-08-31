@@ -1,11 +1,10 @@
 # Vanity URL Guidelines & Request Process (DRAFT)
 
-**What is a Vanity URL?** <br>
+### What is a Vanity URL?
 A vanity URL is a custom URL that exists to help users easily get to a specific page of VA.gov
 
 
-**When is a vanity URL appropriate?** 
-
+### When is a vanity URL appropriate?
 The key purpose of a vanity, or, shortened URL is to provide an easy to read, understand, remember, type, print and share path for content or tools on VA.gov
 
 SUPPORTED SCENARIOS
@@ -85,8 +84,6 @@ Ad campaign tracking should be handled by the requestor, and will not be impleme
 4. Implementation team will launch and validate the vanity URL, and update the issue once it is live.
 
 
-
-## Implementation Process
 
 
 
