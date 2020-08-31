@@ -12,7 +12,7 @@ The strategy we have outlined below is based on the first direction because it f
 We broke this strategy down into 3 phases.
 
 - Phase 1: Create 2-3 high-level concepts for logged-in homepage
-- Phase 2: Design Healthcare and Disability section
+- Phase 2: Design Healthcare and Disability sections
 - Phase 3: Design Education and Records sections
 
 ## Phase 1: Create 2-3 high-level concepts for logged-in homepage: ~ 1 sprint
