@@ -12,7 +12,7 @@ The team was given access to the following services
 
 | service|what is does|
 |:--| :--|
-|Jiri| Ticketing system|
+|Jira| Ticketing system|
 |Wiki| documentation|
 |Bitbucket|source code access for MAP|
 |Nexus| source control for higher level items, such as docker containers|
