@@ -24,8 +24,10 @@ The mobile app will use SSOe OAuth to authenticate users into the app. OAuth is 
 - Lighthouse has a 42-day rolling refresh token
 
 ### Our recommendation: 
-- Length:  > 60d (allows for fewer sign in requests)
-- Rolling vs. Fixed expiration: Rolling expiration (note that this may not be possible with SSOe)
+- Length: 45d (based on discussions with Cory Trimm)
+- Rolling vs. Fixed expiration: rolling expiration would be preferred, but IAM SSOe only allows for fixed expiration
+
+This means app-using Veterans will have to re-enter the authentication flow about once every 6 weeks.
 
 ## Decision 2: Access token expiration
 ### *How long is the average user session?*
@@ -39,14 +41,14 @@ The mobile app will use SSOe OAuth to authenticate users into the app. OAuth is 
 - Lighthouse has a 60m access token
 
 ### Our recommendation: 
-- Length: 60m (long enough to not incur extra network calls during a long session)
+- Length: 30m (long enough to not incur extra network calls during a long session, also based on discussions with Cory Trimm)
 
 
 ## Decision 3: Consent screens
 ### *Since users are logging into the VA directly (as opposed to through a third-party), are consent screens required?*
 
 ### Context
-Consent screens are useful when authorizing a 3rd party app, such as “yes I allow the VA to share my profile details with widgetapp.com”. However, their utility is reduced in a first-party context, when the Veteran is simply authenticating to the VA.
+Consent screens are useful when authorizing a 3rd party app, such as “yes I allow the VA to share my profile details with widgetapp.com”. However, their utility is reduced in a first-party context, when the Veteran is simply authenticating to the VA to access their own information.
 
 ### Our recommendation: 
 - disable consent screens
