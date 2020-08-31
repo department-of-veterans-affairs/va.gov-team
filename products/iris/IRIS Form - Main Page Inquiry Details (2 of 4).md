@@ -18,6 +18,7 @@ Default number of values TBD. Values sorted alphabetically.
 For the list of Level 1, Level 2 and Level 3 values  please refer the Excel spreadsheet in the story.  These are values we need to confirm with stakeholders - we're in the process of doing this.  The GI Bill folks have sent over a spreadsheet of values (GI Bill Capabilities 20200819.xlsx) so what Ramya and I can do is perhaps understand if we need to just display them alphabetically or how to integrate them into the drop down and work with Peggy on a good way to structure this.  
 The values are included in [this story](https://github.com/department-of-veterans-affairs/orchid/issues/36) as well, which will likely serve as the place where multiple fields from the GI Bill, IRIS and MyHealtheVet will live
 
+The fields in the drop downs will need to be thought through - for Medical Facilities, we have 'VHA Vet Healthcare Eligibility (HRCTopeka)' for facility, but curious if there's another naming standard and usability standard (do Vets think the geography is more important - i.e. KS/Topeka/VHA Vet Healthcare)
 
 
 - Standard VA form calls to action (buttons at the bottom allowing users to go back of forward) are included.
