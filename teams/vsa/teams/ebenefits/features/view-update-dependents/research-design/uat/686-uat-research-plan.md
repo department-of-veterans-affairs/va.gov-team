@@ -6,12 +6,12 @@
 ---
 
 #### Background
-VA uses the 21-686c (686) form to collect and process the information to allow a Veteran to add dpendents to their disability claim. The same form is used to remove dependents who have left the household of the Veteran (death, divorce, marriage). The eBenefits team will conduct Acceptance Testing (UAT) ahead of launch, then closely monitor analytics to ensure the form is generating viable submissions across all 686 workflows.
+VA uses the 21-686c (686) form to collect and process the information to allow a Veteran to add dependents to their disability claim. The same form is used to remove dependents who have left the household of the Veteran (death, divorce, marriage). The eBenefits team will conduct Acceptance Testing (UAT) ahead of launch, then closely monitor analytics to ensure the form is generating viable submissions across all 686 workflows.
 
 ### Goals
 - Confirm all form fields and workflows are available
 - Confirm form collects data and advances as expected
-- Confirm data scccessfully submits as input
+- Confirm data successfully submits as input
 - Confirm status of dependency claim properly displays in claim status tool
 
 #### Key guiding question
@@ -20,7 +20,7 @@ Can users quickly and easily add and/or remove dependents from their disability 
 ### Method
 We will engage in moderated User Acceptance Testing (UAT) conducted remotely using Zoom. Veterans with a need to add or remove dependents from their disability claims will be recruited, and will be given access to the new 686. Participants will use the form to apply to have their dependents changed. Remote observers and note takers may be in attendance.
 
-#### Success crieteria
+#### Success criteria
 
 Users will:
 - Enter the form
@@ -47,7 +47,7 @@ Recruit for 5 fulfilled sessions using the following criteria:
 #### Must have for participants
 
 - Do you have verified disability rating of greater than 30%? (pass = yes)
-- Do yo need to sumbit a 21-686c (or 21-674) to do one or more of the following (pass = yes):
+- Do you need to submit a 21-686c (or 21-674) to do one or more of the following (pass = yes):
   - Add a spouse
   - Add a child
   - Add a child (age 18 to 23) who is about to enroll or has enrolled in college (or other training/schools)
