@@ -51,14 +51,16 @@
 
 - We will do a 'hidden' launch, no redirects of remaining legacy form detail pages. Second batch -   'non-top' MVP form detail pages (around 400 - this number changes based on the VA forms database). 
  - We will do a 'hidden' launch, with basic auth gate in front of the form page directory. 
+ - We will remove basic auth after 300 users or 5 business days with less than 5% error rate.
  - We will not do redirects until post-UAT.
 
 #### Planning
 
 - **Length of time: **
-  - 7 business days
+  - 5 business days
 - ~~Percentage of~~ **Users (and roughly how many users do you expect this to be):** 
-  - We will check error rate after we hit 300 users or 7 business days. We want < 5% error rate.
+  - We will check error rate after we hit 300 users or 5 business days. We want < 5% error rate.
+  - Remove basic auth after ^. 
 
 We will track errors for:
 
