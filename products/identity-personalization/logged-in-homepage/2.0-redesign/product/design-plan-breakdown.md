@@ -1,6 +1,25 @@
-# Logged-in homepage: V1 plan
+# Logged-in homepage redesign plan
 
-Based off of the [V1 plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/product/v1-plan.md) that Samara put together, we have planned out phases to design and build the new Logged-in homepage. 
+Based off of the [V1 plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/product/v1-plan.md) and the [Logged-in homepage discovery summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/discovery-summary.md) that Samara put together, we have planned out phases to design and build the new Logged-in homepage. 
+
+In stakeholder interviews, one of the main concerns raised was that a logged-in homepage redesign could easily suffer from endless churn. In order to avoid this, we have outlined an initial approach to scope the project into manageable pieces.
+
+First, we'll break this work into three projects:
+
+- The logged-in homepage redesign.
+- Creation of a logged-in navigation.
+- Creation of a notification center.
+
+This first project is focused on the logged-in homepage redesign. As time and resources allow, work on the logged-in navigation (in partnership with the IA and public websites teams) and notification center.
+
+For the logged-in homepage redesign, we'll break the project into at least three phases:
+
+- [ ] Storyboarding - break it down into tasks
+
+Phase 1: Transfer the personalized information currently on My VA (in progress-application and claims; benefit info) to the logged-in homepage; Retire My VA.
+Phase 2: Improvements to phase 1; Addition of features if applicable.
+Phase 3: Improvements to the first-time user experience; Potential benefit recommendations.
+Note: We will have a basic first-time user experience in phase 1.
 
 This document lists what Samara would like to see on version 1 of the new logged-in homepage. We may decide this is too much for one project and instead break version 1 into multiple phases.
 
