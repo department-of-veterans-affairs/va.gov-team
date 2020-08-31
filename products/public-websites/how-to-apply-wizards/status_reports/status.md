@@ -17,8 +17,8 @@
 #### Team: BAM 2 (PM: Leah Keeler + Developer: Craig Wheeler)
 
 - **Education (Form 1990)**: Initial dev is complete and on staging at: https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction and undergoing Collab Cycle review and iteration.  The wizard also applies to the following Education benefits::
-  - 0994 - Apply for VET Tech 
-  - 1990e - Apply to use transferred education benefits
+  - 0994 - [Apply for VET Tech](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994/introduction)
+  - 1990e - [Apply to use transferred education benefits](https://www.va.gov/education/apply-for-education-benefits/application/1990E/introduction)
   - 1990n - [Apply for Education Benefits under the National call to service program](https://www.va.gov/education/apply-for-education-benefits/application/1990N/introduction)
   - 1995 - Manage your Education Benefits
   - 5490 - Apply for Education Benefits as an Eligble Dependent
