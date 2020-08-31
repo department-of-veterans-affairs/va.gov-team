@@ -12,7 +12,7 @@
 | Resolve any [staging review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12276) must-dos | In progress |
 | Incident Response Playbook   | In progress - program team is working on it |
 | Remove gender as required input from schema | Not started |
-| Make content and design changes proposed by program team | In progress - VSP is reviewing |
+| Make [content and design changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12806) proposed by program team | In progress - VSP is reviewing |
 | Meet with HEC, CSL to go over feedback/questions | In progress - scheduled for 9/4 |
 
 ## Must-have - done
