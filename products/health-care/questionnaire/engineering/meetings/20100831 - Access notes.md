@@ -29,10 +29,11 @@ The `namespace` in Jenkins gives us a URL for our API to communicate with MAP
 
 Setting up the namespace may or may not need to be done ever so often (weekly/biweekly) because the sandbox resets at some interval. 
 
+The system will look like: 
 
 ![Diagram](assets/20200831-sandbox-diagram.png)
 
 ## Action Items
 
-- Mark will document
+- [ ] Mark will document
 - Stephen will continue to work on getting the namespace in Jenkins set up. 
