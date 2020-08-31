@@ -6,7 +6,9 @@
 | Task     | Status |
 | :----------- | ----------- |
 | Application status logging on VA.gov| In progress |
-| Google analytics backend setup | In progress, |
+| Google analytics backend setup | In progress |
+| Adjust feature toggle set up and control access | Not started |
+| Resolve "save in progress" alerts on application | In progress |
 | Facility list changes | In progress, waiting on program team feedback |
 | Define launch metrics with program team  |In progress | 
 | Resolve any [staging review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12276) must-dos | In progress |
