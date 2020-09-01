@@ -8,6 +8,15 @@
 #### Background
 VA uses the 21-686c (686) form to collect and process the information to allow a Veteran to add dependents to their disability claim. The same form is used to remove dependents who have left the household of the Veteran (death, divorce, marriage). The eBenefits team will conduct Acceptance Testing (UAT) ahead of launch, then closely monitor analytics to ensure the form is generating viable submissions across all 686 workflows.
 
+#### Note regarding UAT
+We're requesting that Perigean recruit Veterans who need to add (or remove) a dependent from their disability claim. This usually involves submitting a paper 686 or going to eBenefits. We realize that it may be difficult to find Veterans with such specific needs, but we need to ensure that actual claims go through, vs. submitting inaccurate claims and later asking that they be modified or removed.
+
+For those Veterans we talk to in UAT, we intend to be very transparent about what we are testing--it's an actual, functioning form. We will be asking our (BGS-RBPS) partners to keep watch for the submissions coming out of UAT, while we watch for problems and errors in real time. Any PII that does need to be conveyed to partners (BGS-RBPS) outside of  UAT, will be handled securely either verbally or via Microsoft Teams (end-to-end encryption). We will be observing the transaction, But not recording it, and this will also be clearly communicated to the UAT participant.
+
+In the event that we don’t get any Veterans that meet our criteria, or we can't find any who are comfortable displaying live/personal data, we may toggle the feature “on” to as tiny a percentage as possible, capture a small number of submissions during a "quieter" time of the week, and then revert back to eBenefits while we take some time to validate the small number of naturally gained submissions. With feature toggles we can control access quickly and with granularly. Again, we want to keep the data being collected real and accurate. In this scenario, it may take longer to get the volume of valid VA.gov submissions to 100%, but as our confince in the new feature increases, we should be able to accelerate to full deployment. 
+
+One of the tasks we are looking into right now is ensuring that that RBPS can differentiate from legacy submissions coming from eBenefits vs VA.gov. We would also be amenable to working with Veterans via VSO’s that might know of someone in need of making a dependency change.
+
 ### Goals
 - Confirm all form fields and workflows are available
 - Confirm form collects data and advances as expected
