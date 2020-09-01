@@ -1,4 +1,4 @@
-# IRIS Form - Confirmation Page (4 of 4)
+# IRIS Form - Confirmation Page
 
 Relevant links: 
 - [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/76) - note this is a different story that builds on the original story in 86.
