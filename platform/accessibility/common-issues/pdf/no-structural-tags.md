@@ -2,17 +2,18 @@
 
 ## Table of contents
 
-- [Table of contents](#table-of-contents)
- - [Statement of the issue](#statement-of-the-issue)
- - [Definition of done](#definition-of-done)
- - [Tag your document](#tag-your-document)
-    - [Define headings in Microsoft Word](#define-headings-in-microsoft-word)
-    - [Define lists in Microsoft Word](#define-lists-in-microsoft-word)
-    - [Export a tagged PDF](#export-a-tagged-pdf)
- - [Test for compliance](#test-for-compliance)
-    - [Microsoft Word accessibility panel](#microsoft-word-accessibility-panel)
-    - [Adobe Acrobat Pro accessibility tools](#adobe-acrobat-pro-accessibility-tools)
-  - [Learn more](#learn-more)
+- [No structural tags](#no-structural-tags)
+  - [Table of contents](#table-of-contents)
+   - [Statement of the issue](#statement-of-the-issue)
+   - [Definition of done](#definition-of-done)
+   - [Tag your document](#tag-your-document)
+      - [Define headings in Microsoft Word](#define-headings-in-microsoft-word)
+      - [Define lists in Microsoft Word](#define-lists-in-microsoft-word)
+      - [Export a tagged PDF](#export-a-tagged-pdf)
+   - [Test for compliance](#test-for-compliance)
+      - [Microsoft Word accessibility panel](#microsoft-word-accessibility-panel)
+      - [Adobe Acrobat Pro accessibility tools](#adobe-acrobat-pro-accessibility-tools)
+    - [Learn more](#learn-more)
 
 ## Statement of the issue
 
