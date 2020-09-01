@@ -16,7 +16,7 @@ What tone for this page ? (Story #76 - has existing language) Going forward, use
 
 ### Content  - TO DO
 
-The story for this is here: https://github.com/department-of-veterans-affairs/orchid/issues/76 
+Please note Peggy has sent over a Word doc with content so this page will be updated
 
 ```
 # Contact Us
