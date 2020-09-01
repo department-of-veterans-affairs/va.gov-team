@@ -51,26 +51,15 @@ In previous rounds of user research, we have determined that there is a Veteran 
 
 
 # Hypothesis 
-**Assess the effectiveness and clarity of the app IA and navigation UI**
-
 1. The bottom toolbar navigation elements will mostly be usable and clear to Veterans
-2. Veterans will be able to successfully find Personal & Contact Information, Direct Deposit, Letters and Documents and Settings
-
-**Assess the home screen design**
-
-3. Veterans will use homescreen cards and list items to navigate from the homescreen more than the bottom toolbar
-4. Once away from the homescreen, Veterans will use the bottom toolbar to navigate
-
-**Assess the desired content on the mobile app Claim Status Tool**
-
-5. Veterans will want to see more information about a claim's status, including information that's not in the current CST
-
-**Assess Veteran perception of the MVP app overall**
-
-6. Veterans will want to download and use this app
-7. There may be dissatisfaction with features that are not available in the MVP (e.g. cancelling and scheduling an appointment)
-8. There may be dissatisfaction with the limited health features
-
+2. Veterans will be able to successfully find Personal & Contact Information, Direct Deposit, Letters and Documents and Settings. When asked to find specific information within these screens, participants will be able to locate it.
+3. Veterans will be satisfied with the information in the Profile section
+4. Veterans will use homescreen cards and list items to navigate from the homescreen more than the bottom toolbar
+5. Once away from the homescreen, Veterans will use the bottom toolbar to navigate
+6. Veterans will want to see more information about a claim's status, including information that's not in the current CST
+7. Veterans will express high interest in downloading and using this app
+8. There may be dissatisfaction with features that are not available in the MVP (e.g. cancelling and scheduling an appointment)
+9. There may be dissatisfaction with the limited health features
 
 
 # Method
@@ -92,7 +81,7 @@ We will use the Perigean zoom account. We will work with Perigean beforehand to 
   - All participants must be Veterans
   - **All participants must be iOS users and use an Apple mobile device (not an iPad) for the session**
   - **All participants be currently going through the claims or appeal process for Disability Benefits**
-    - Ideally, most recruits should have experience with VA Health Care benefits as well. We are flexible on this, having an active claim is more important.  
+    - Ideally, about half of recruits should have experience with VA Health Care benefits as well. We are flexible on this, having an active claim is more important.  
   - Participant pool should be diverse in:
     - Branch of service
     - Gender 
