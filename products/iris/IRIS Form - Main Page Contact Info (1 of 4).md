@@ -1,4 +1,4 @@
-# IRIS Form - Main Page, Contact Info (1 of 4)
+# IRIS Form - Contact Info
 
 Relevant links: 
 - [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/68) - this is the story for the main Contact Info page
