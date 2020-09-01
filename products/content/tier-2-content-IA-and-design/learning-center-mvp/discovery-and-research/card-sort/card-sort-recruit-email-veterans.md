@@ -1,4 +1,4 @@
-**Subject:** Participate in user research with VA and earn [$XX]
+**Subject:** Participate in user research with VA 
 
 Hello, 
 
