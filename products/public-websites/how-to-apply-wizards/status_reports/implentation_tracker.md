@@ -45,12 +45,10 @@
     - Form 22-10203 - Rogers STEM Scholarship
   
 
-
-
   - Rogers STEM application will go live on -- or around Sept 10 -- without the Wizard. There are no plans to add the Wizard to the introduction page.
   - The Education Wizard needs to be updated to reflect (a) revised text for the Rogers STEM scholarship and (b) a link to the new online application (Note: Amy needs to provide new text and URL to Craig for implementation)
   - Platform IA review of the Education Wizard has surfaced some important questions about user flow:
-    - Should the user need to click a button to open the Wizard -- or should the Wizard be open by default?
+    - Should the user need to [click a button to open the Wizard](https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction) -- or should the Wizard be [open by default](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction)?
     - What happens to a user who completes the wizard and wants to ignore the wizard recommendation?
     - What happens to a user who completes all the questions in the wizard but wants to start over to see more options? Currently, they can re-click the buttons to see additional options -- but do we need to add a "start over" option for the wizard? (Any evidence this is happening now?)
     - Are we ok with the current session state logic (e.g., once the user clicks the Apply Now button, the Wizard disappears from the Introduction page for that current session)? What happens if they land on the app page and decide they made a mistake and want to take the Wizard again by clicking back? Would it be better just to keep the Wizard on the page persistently?
