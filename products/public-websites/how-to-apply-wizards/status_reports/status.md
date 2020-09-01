@@ -1,5 +1,6 @@
 ### 8/31 Update
 
+- [Content intake ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13028) was created and John walked/talked Daneille through the project/effort with goal to unify all the work across the Education, Disability wizards as much as possible.
 - Meeting held with Analytics team to review their initial dataLayer taxonomy approach for instrumenting all the wizards in a unified, consistent manner.  The approach will, in effect, track all the interactions (e.g. radio buttons and any hotlinks to pages) in the wizards.   This will enable insight into:
     - Overall usage of the Wizard
     - Number/Percent Complete 
