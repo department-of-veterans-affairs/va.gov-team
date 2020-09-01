@@ -126,3 +126,5 @@ Please list the people who will be serving in each role. Include the primary pho
   - Steve - Steven.Kovacs@va.gov 
   - Alex - alex@adhoc.team 
   - Ambika - ambika@adhocteam.us
+  - Tressa - tressa.furner@adhocteam.us
+  - Cassandra - callen@governmentcio.com
