@@ -28,4 +28,3 @@ VA design system for forms - if you want to see how pages look but don't want to
 - https://www.va.gov/health-care/how-to-apply/ (needs login)
 - https://www.va.gov/health-care/eligibility/
 - https://www.va.gov/disability/how-to-file-claim/
-- https://dev.va.gov/ask-a-question/introduction
