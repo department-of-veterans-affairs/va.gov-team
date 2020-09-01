@@ -52,17 +52,21 @@ In previous rounds of user research, we have determined that there is a Veteran 
 
 # Hypothesis 
 **Assess the effectiveness and clarity of the app IA and navigation UI**
+
 1. The bottom toolbar navigation elements will mostly be usable and clear to Veterans
 2. Veterans will be able to successfully find Personal & Contact Information, Direct Deposit, Letters and Documents and Settings
 
 **Assess the home screen design**
+
 3. Veterans will use homescreen cards and list items to navigate from the homescreen more than the bottom toolbar
 4. Once away from the homescreen, Veterans will use the bottom toolbar to navigate
 
 **Assess the desired content on the mobile app Claim Status Tool**
+
 5. Veterans will want to see more information about a claim's status, including information that's not in the current CST
 
 **Assess Veteran perception of the MVP app overall**
+
 6. Veterans will want to download and use this app
 7. There may be dissatisfaction with features that are not available in the MVP (e.g. cancelling and scheduling an appointment)
 8. There may be dissatisfaction with the limited health features
