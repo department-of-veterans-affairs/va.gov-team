@@ -1,96 +1,98 @@
-# Conversation Guide Template for Moderated Research
+# Conversation guide for usability testing for View Payment History
+**VSA eBenefits Team | Sptember 2020**
 
-## Moderator logistics
+`James Adams, designer/researcher`
 
-*Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
+---
 
-*Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).*
-
-*In the Attendees section, make sure everyone except the participant is on mute*
-
-*In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked*
-
-*Check your [screensharing setup]*
-
-*When the participant is ready, begin the session with the following intro*
+### Setup
+- Slack [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel) will be used for real-time feedback from observers
+- Attendee/Observer instructions, including instructions for [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel), will be sent out ahead of the sessions
+- Sessions will be conducted remotely, setup will be tested 15 minutes prior to call-time
+- [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/payment-history-usability-research-plan.md) 
 
 ### Project-specific setup
+- TBD
 
-- [ ] Step 1
-- [ ] Step 2
+## Introduction
+- TBD
 
-## Intro - 5 minutes
+## Warm-up
+- TBD
 
-Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about [description of your project]. 
+## Chapter 36 (VA Form 28-8832)
 
-Before we start, a few things I want to mention:
-
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
-- **If for any reason and at any time you want to stop the session, please let me know.** 
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
-    - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
-
-*Start recording.*
-
-- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today? 
-
-## Warm-up Questions (Optional) - X minutes
-
-Before we look at the website, let’s start with a few warm-up questions.
-
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
-
-## First Task: [TASK NAME] - X minutes
-
+### Screen/Task 1
 - Step 1
 - Step 2
+- Step 3
 
-### Things to watch for:
+#### Things to watch for:
+- Item 1
+- Item 2
+- Item 3
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Second Task: [TASK NAME] - X minutes
-
+### Screen/Task 2
 - Step 1
 - Step 2
+- Step 3
 
-### Things to watch for:
+#### Things to watch for:
+- Item 1
+- Item 2
+- Item 3
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Third Task: [TASK NAME] - X minutes
-
+### Screen/Task 3
 - Step 1
 - Step 2
+- Step 3
 
-### Things to watch for:
+#### Things to watch for:
+- Item 1
+- Item 2
+- Item 3
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+------
 
-## Post-Task Interview - X minutes
+## Chapter 31 (VA Form 28-1900)
 
-- Question 1
-- Question 2
-- Any questions for me? 
+### Screen/Task 1
+- Step 1
+- Step 2
+- Step 3
 
-## Thank-You and Closing - X minutes
+#### Things to watch for:
+- Item 1
+- Item 2
+- Item 3
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+### Screen/Task 2
+- Step 1
+- Step 2
+- Step 3
 
-Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
-    If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
+#### Things to watch for:
+- Item 1
+- Item 2
+- Item 3
 
-Great, well thank you so much again, and enjoy the rest of your day!
+### Screen/Task 3
+- Step 1
+- Step 2
+- Step 3
 
-## Sample Conversation Guides _(note: these links point to resources in the va.gov-team GitHub repo)_
+#### Things to watch for:
+- Item 1
+- Item 2
+- Item 3
 
-- [Scheduling Accessibility and Usability Study: Complex Recruit, Highly Variable based on User Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/2017-studies/access-usability/access-usability-conversation-guide.md) 
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
+------
+
+## Post-Task Interview / Wrap-up
+Looks like we covered everything on my list. (ALT) Looks like we're at (time), so we'll need to leave it here.
+- Is there anything you'd like to add--something we didn't cover about the screens we looked at--or VA.gov in general?
+- Would you consider being involved in future follow-up sessions?
+
+## Thank-You / Closing
+Thank you so much for taking the time to talk with us! Your feedback is critical to or team's effort to improve Veterans' online experiences--and VA.gov in particular. Enjoy the rest of your day!
+
