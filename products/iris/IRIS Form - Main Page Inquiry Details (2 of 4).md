@@ -34,7 +34,7 @@ note idea of not having Claims status here should be discussed - see ticket for 
 
 - Inquiry Topic (*Required) (combo-box with search field)
 
-- Enter your message here (*Required) 
+- Your message (*Required) (TO UPDATE IN CARD)
 (large text box)
 
 Calls to action:
