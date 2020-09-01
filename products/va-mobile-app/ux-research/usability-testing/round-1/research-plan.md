@@ -27,27 +27,23 @@ In previous rounds of user research, we have determined that there is a Veteran 
 
 # Research questions
 - How do Veterans express the value of biometric sign in?
-  - How useful is this?
   - Do Veterans have any concerns about it?
 - How easily and successfully can Veterans find the following items, and what patterns and obstacles exist in finding them: 
-  - Homescreen
   - Personal & Contact Information 
   - Direct Deposit
   - Letters and Documents
   - Settings
-  - Using the bottom toolbar navigation
+- How easily and successfully can Veterans use the bottom toolbar navigation?
     - Do users find any of the icons and titles in the bottom toolbar unclear? If so, what?
     - Do Veterans think that the Veterans Crisis Line should be in the bottom toolbar?
     - Where do users run into problems navigating around the app?
-  - Using the in-page cards and list items on the home screen
+- How easily and successfully can Veterans use the in-page cards and list items on the home screen to navigate?
     - Do users find any of the cards or list items unclear? If so, what?
     - Do Veterans use in-screen CTAs more than the bottom toolbar?
     - Do they come back to the home screen before navigating elsewhere?
 - What information would Veterans most like to see on the mobile app Claim Status Tool?
     - What is not included that they want to see? 
 - Overall, how satisfied are Veterans with the MVP feature set and overall app UI/UX design?
-    - Would participants download and use this app? 
-    - What would the most like to add to what they see in the MVP prototype? 
 
 
 # Hypothesis 
@@ -65,32 +61,42 @@ In previous rounds of user research, we have determined that there is a Veteran 
 # Method
 
 ## What method of research are you planning?
-Remote user interviews with 6-8 of Veterans over the course of 1 week. Each of these interviews will be moderated and conducted remotely using Zoom. The sessions will be led by targeted tasks that lightly cover the prototype overall with the purpose of testing the IA and Navigation UI. We will test a mobile prototype on a mobile device. 
+- Remote user interviews with 6-8 of Veterans.
+- Each of these interviews will be moderated and conducted remotely using Zoom. 
+- We'll ask Veterans to download Zoom onto their mobile Apple device prior to the research session.
+- We'll send Veterans the link to the Invision mobile prototype via Zoom, and ask them to share their screen with us. 
 
 ## Why this method?
-This method will allow members of the VA Mobile App team, and the teams we are overlapping with, to observe sessions. It will also allow us to speak with a diverse population of Veterans located across the United States. Using a mobile prototype on a mobile device will allow us to understand mobile-specific UX issues we can improve upon (e.g. icon size, type size). 
+This method will:
+- Allow members of the VA Mobile App team, and the teams we are overlapping with, to observe sessions
+- Allow us to speak with a diverse population of Veterans located across the United States
+- Allow us to understand mobile-specific UX issues we can improve upon (e.g. icon size, type size) 
 
 ## Where are you planning to do your research?
-We will use the Perigean zoom account. We will work with Perigean beforehand to ensure participants have downloaded Zoom onto their mobile Apple device. We will send a link to the Invision prototype via the Zoom chat for participants to open. Once participants have opened the prototype, we will ask them to share their screen with us.
+We will use the Perigean zoom account. We will work with Perigean beforehand to ensure participants have downloaded Zoom onto their mobile Apple device. 
 
 ## What will you be testing?
-- Interactive high-fidelity Invision prototype of the MVP VA mobile app (iPhone SE size, 320px width). This prototype will expand to fit the width of larger Apple devices. 
+- [Interactive high-fidelity Invision prototype of the MVP VA mobile app](https://adhoc.invisionapp.com/share/JPYCWHEQ56N#/screens/429368520_iPhone_SE). This prototype is iPhone SE size at 320px width, but will expand to fit the width of larger Apple devices. 
 
 ## Participants and Recruitment
-- We would like to interview 6-8 Veterans. Participant criteria: 
-  - All participants must be Veterans
-  - **All participants must be iOS users and use an Apple mobile device (not an iPad) for the session**
-  - **All participants be currently going through the claims or appeal process for Disability Benefits**
-    - Ideally, about half of recruits should have experience with VA Health Care benefits as well. We are flexible on this, having an active claim is more important.  
-  - Participant pool should be diverse in:
-    - Branch of service
-    - Gender 
-    - Race
-    - Age (ideally at least one participant 25 or under and one participant 65+, but we are flexible)
-    - Geography
-    - Density (ideally at least one participant in a rural area and one in a major city, but we are flexible)
-  - All participants should have used VA.gov in the past
-  - No assistive device users (low-fi prototype does not support assistive technology)
+We would like to interview 6-8 Veterans. Participant criteria: 
+
+**Must haves for participants**
+- All participants must be Veterans
+- All participants must be iOS users and use an Apple mobile device (not an iPad) for the session
+- All participants be currently going through the claims or appeal process for Disability Benefits and have an active claim or appeal
+
+**Nice to haves for participants**
+- Ideally, about half of recruits should have experience with VA Health Care benefits. We are flexible on this, having an active claim is more important.  
+- Participant pool should be diverse in:
+  - Branch of service
+  - Gender 
+  - Race
+  - Age (ideally at least one participant 25 or under and one participant 65+, but we are flexible)
+  - Geography
+  - Density (ideally at least one participant in a rural area and one in a major city, but we are flexible)
+- All participants should have used VA.gov in the past
+- No assistive device users (low-fi prototype does not support assistive technology)
 
   
 ## What is your recruitment strategy?
@@ -98,9 +104,9 @@ We will use the Perigean zoom account. We will work with Perigean beforehand to 
 2. In order to get 6-8 participants, we would like Perigean to schedule 10 participants total, with the expectation that there be a max of 4 no-shows.
 
 ## When?
-1. Timeline for this study: September 8-11, depending on recruitment. We can also do September 14-16. 
+1. Timeline for this study: September 9-11, depending on recruitment 
 2. Length of Sessions: Schedule for 1 hour (plan to go for 45 minutes)
-3. Availability: Tuesday-Friday (11 AM EST – 6 PM EST). Please don’t schedule back to back sessions if possible. 
+3. Availability: Wednesday-Friday (11 AM EST – 6 PM EST). Please don’t schedule back to back sessions if possible. 
 4. Prepare: We will conduct a pilot interview Thursday 9/3. 
 
 ## Team Roles
@@ -109,14 +115,14 @@ Please list the people who will be serving in each role. Include the primary pho
 - Conversation guide writing and task development: Bridget
 - Participant recruiting & screening: Perigean
 - Project point of contact: Sophie Myers (202-617-1829)
-- Participant(s) for pilot test: Ambika Roos
-- Note-takers (1 per session): Sophie Myers, Ambika Roos
+- Participant(s) for pilot test: Team member from VA mobile app
+- Note-takers (1 per session): Sophie Myers
 - Observers:
-  - Sophie
-  - Jonathan
-  - Alastair
-  - Martha
-  - Ryan
-  - Steve
-  - Alex
-  - Ambika
+  - Sophie - sophia.myers@adhocteam.us
+  - Jonathan - jonathan@adhocteam.us 
+  - Alastair - alastair@adhocteam.us
+  - Martha - martha.wilkes@va.gov
+  - Ryan - Ryan.Thurlwell@va.gov 
+  - Steve - Steven.Kovacs@va.gov 
+  - Alex - alex@adhoc.team 
+  - Ambika - ambika@adhocteam.us
