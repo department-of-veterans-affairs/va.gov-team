@@ -29,18 +29,17 @@ TO ADD:
 
 ```
 # Contact us
-## Your personal information
+## Your personal information (TBD if keeping)
 
--Title CAN DELETE - (UPDATE CARD)
--Your first name (note in Form Builder it's something else...)
+
 -Your last name
 -Suffix
 -Branch of service
--Email address (UPDATE CARD)
--Reenter email address (UPDATE CARD)
+-Email address
+-Reenter email address 
 -Country (will include full address in future story)
 -I am asking about benefits/services drop down
--How should we get in touch with you? (UPDATE CARD) (was How you would like to be contacted
+-How should we get in touch with you? 
 
 Additional fields to come will be [story 36](https://github.com/department-of-veterans-affairs/orchid/issues/36); 
 at that time we may need to rethink the order of these fields and add additional 'headers' for screen readers. 
@@ -50,8 +49,8 @@ at that time we may need to rethink the order of these fields and add additional
 -Service Number
 -Date of Birth
 
--Service start date (was Date Entered Active Duty - UPDATE)
--Service end date (was Date Released Active Duty - UPDATE)
+-Service start date
+-Service end date 
 -Additional address fields - street, city, state, postal
 -Veteran Relationships	
 -Service Branches	
@@ -61,26 +60,26 @@ at that time we may need to rethink the order of these fields and add additional
 
 
 Conditional logic fields - if users select an option, additional content appears
--My message is about benefits/services (was I am asking (UPDATE)
--Are you a Dependant? (UPDATE)
--Was is your relationship to the Veteran (UPDATE)
--Is the Veteran deceased (UPDATE)
--Date of death, if known (UPDATE)
+-My message is about benefits/services 
+-Are you a Dependant? 
+-Was is your relationship to the Veteran 
+-Is the Veteran deceased (U
+-Date of death, if known 
 
 Additional static VA footer info
 -Paperwork Reduction Act is TBD - we're determining if we're having a Contact Us landing page, 
 or if that content is necessary it would likely live on this page at the bottom.
--Estimated burden (UPDATE)
--OMB expiry (UPDATE)
--OMB number (UPDATE)
--Form number (UPDATE) (also this typically goes at top)
+-Estimated burden 
+-OMB expiry 
+-OMB number 
+-Form number  (also this typically goes at top)
 
 Calls to action:
-[Primary button] Continue (TO UPDATE - UPDATE CARD TODAY)
+[Primary button] Continue
 [Secondary button] Back
 
 
-Need help? (TO UPDATE)
+Need help?
 Call us at 800-827-1000. We’re here Monday through Friday, 8:00 a.m to 9:00 p.m ET. If you have hearing loss, call TTY: 711.
 
 
