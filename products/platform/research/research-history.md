@@ -29,7 +29,7 @@ Q2 - Q3 2020
 
 
 
-### Frontend and Backend User Journey Workshops
+### Engineer User Journey Workshops
 
 *Service Design: Naomi Marcussen, James Chasia*
 
