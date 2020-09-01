@@ -25,11 +25,18 @@ We broke this strategy down into 3 phases.
 - [ ] Review with team and pick preferred concept
 - [ ] Platform checkpoint
 
-## Phase 2: Design Healthcare, Claims sections: ~ 3 sprints
+## Phase 2: Design Healthcare, Claims sections (can be broken out into two phases if need be): ~ 3-4 sprints
 
-**Health care**
+**Healthcare**
+
+Deliverables: Full design, layout and specs for 'blank', LOA1 and LOA3 use cases
 
 - Healthcare Overview (information changes dynamically depending on if a user has healthcare or not)
+  - [ ] Visual design exploration
+  - [ ] High fidelity mockups
+  - [ ] Stakeholder Reviews and approval
+  
+- Applications in progress
   - [ ] Visual design exploration
   - [ ] High fidelity mockups
   - [ ] Stakeholder Reviews and approval
@@ -67,7 +74,14 @@ We broke this strategy down into 3 phases.
 
 **Claims**
 
+Deliverables: Full design, layout and specs for 'blank', LOA1 and LOA3 use cases
+
 - Overall disability rating (shown conditionally if someone has a disability rating)
+  - [ ] Visual design exploration
+  - [ ] High fidelity mockups
+  - [ ] Stakeholder Reviews and approval
+  
+- Applications in progress
   - [ ] Visual design exploration
   - [ ] High fidelity mockups
   - [ ] Stakeholder Reviews and approval
@@ -102,7 +116,7 @@ We broke this strategy down into 3 phases.
   - [ ] High fidelity mockups
   - [ ] Stakeholder Reviews and approval
    
-## Phase 3: Design Education and Records sections: ~ 2 sprints
+## Phase 3: Design Education and Records sections: ~ 1-2 sprints
 
 **Education**
 
