@@ -25,7 +25,7 @@ See content below:
 
 ```
 # Title of page
-## Your inquiry
+## Tell us the reason you’re contacting us  
 
 Inquiry Type (*Required) (combo-box with search field)
 - Default number of values TBD. Values sorted alphabetically. The list of values include 'Question', 'Compliment', 'Service Complaint', 'Suggestion'
@@ -37,8 +37,9 @@ note idea of not having Claims status here should be discussed - see ticket for 
 - Your message (*Required) (TO UPDATE IN CARD)
 (large text box)
 
+
 Calls to action:
-[Primary button] Submit
+[Primary button] Continue
 [Secondary button] Back
 
 ```
