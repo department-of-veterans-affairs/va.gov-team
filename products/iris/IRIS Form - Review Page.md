@@ -1,4 +1,4 @@
-# IRIS Form - Review Page (3 of 4)
+# IRIS Form - Review Page
 
 Relevant links: 
 - [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/68)
@@ -22,14 +22,8 @@ Please note Peggy has sent over a Word doc with content so this page will be upd
 # Review your message
 
 ## Who you are accordian
-- title
-- name
-- suffix
-- branch
-- email
-- address
-- who they are asking benefits/services for
-- how they want to contacted
+
+- details of fields from contact info page
 
 ##Why you're contacting us accordian
 - Type of Inquiry
