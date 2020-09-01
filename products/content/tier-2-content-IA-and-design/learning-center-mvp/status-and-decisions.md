@@ -2,6 +2,24 @@
 
 ## mm/dd/yy
 
+## 09/01/20
+Liz Lantz and Ryan Thurwell made decisions about which pages need mobile templates:
+Template/Page | Release Version | Mobile Design
+--- | --- | ---
+About - text only | 1.0 |  not needed - just text
+About - text w/ on this page, loooong content | 1.0 | needed, to explore use case of very long content (also, define `very long`). See #13038
+About - tables | 1.0 | needed, see #11499. Check w/ eBenefits team's responsive table for View Payments
+Checklist | 1.1 | needed, new pattern. See #13037
+FAQ Single (question and answer) | 1.0 | not needed - just text 
+FAQ Multiple | 1.0 | not needed, since uses existing ds component
+Home | 1.0 | in progress, see #11490
+Media list - images | 1.1 | needed, see #12759
+Media list - video | 1.1 | needed, see #11497
+Results - Keyword search | 1.0 | needed, see #12863
+Results - `Articles tagged`  | 1.0 | not needed, since design will match keyword search
+Step-by-step w/out screenshots | 1.0 | not needed, since uses existing ds component
+Step-by-step w/ Screenshots | 1.0 | needed, to explore possible need for progressive enhancement. See #13036
+
 ## 08/06/20
 
 ### Engineering discussion - Nick Sullivan, Kelson Adams, Jen Lee, Mickin Sahni
