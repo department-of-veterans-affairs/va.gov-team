@@ -9,8 +9,9 @@
 
 1. Review backlog for Sprint 14
 1. Devshop env for FE development
+1. `Articles tagged` feature
 1. Email component design (Ryan T. - dependency on Facilities)
-1. URL alias model for LC content [#2818](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2818)
+1. ~URL alias model for LC content [#2818](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2818)~ scheduled separately
 
 ### Action items
 
