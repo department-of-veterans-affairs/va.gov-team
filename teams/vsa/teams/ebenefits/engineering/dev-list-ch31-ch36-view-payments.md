@@ -2,6 +2,11 @@
 Ascertain remiaining tasks for these features  
 ## Chapter 36 (Deadline October 26)
 Based on mean velocities from the past 10 sprints or so, FE and BE should be completed by September 22 (Sprint 30)
+
+👉 = in progress
+❌ = no longer needed
+
+
 ### Product
 - Request formal 508 audit (1)  
 - Load TestRail (2)  
