@@ -8,7 +8,9 @@
 ## Tuesday September 1 (4pm ET)
 
 1. Review backlog for Sprint 14
-1. other
+1. Devshop env for FE development
+1. Email component design (Ryan T. - dependency on Facilities)
+1. URL alias model for LC content
 
 ### Action items
 
@@ -17,6 +19,8 @@
 ## Tuesday September 1 (2:30-3:30pmET)
 
 1. FE Tags and authoring experience rules - [MURAL](https://app.mural.co/t/vagov6717/m/vagov6717/1597845145225/5e258a50346775afe0125cd5126bce952fde5d94). 
+   1. Finalize MVP topic and audience tag sets.
+   1. Finalize authoring rules for FE tags.
 
 ### Action items
 
