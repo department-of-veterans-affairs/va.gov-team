@@ -11,7 +11,7 @@
     - [Define table headers in Adobe Acrobat](#define-table-headers-in-adobe-acrobat)
   - [Test for compliance](#test-for-compliance)
     - [Microsoft Word accessibility panel](#microsoft-word-accessibility-panel)
-    - [Adobe Acrobat Pro accessibility tools](#acrobat-pro-accessibility-tools)
+    - [Adobe Acrobat Pro accessibility tools](#adobe-acrobat-pro-accessibility-tools)
   - [Learn more](#learn-more)
 
 ## Description of the issue
