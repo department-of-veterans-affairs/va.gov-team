@@ -15,6 +15,9 @@ This page will allow users to review their submission, and as necessary edit the
 
 This page includes the who you are section and an inquiry section with information about the inquiry:
 
+Please note Peggy has sent over a Word doc with content so this page will be updated
+
+
 ```
 # Review your message
 
