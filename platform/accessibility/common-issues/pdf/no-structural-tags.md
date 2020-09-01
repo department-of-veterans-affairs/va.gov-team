@@ -63,7 +63,7 @@ Documents should have one **Title** and one **Heading 1**. **Heading 1** should 
 
 1. Select the **Acrobat** tab
 2. Select **Create PDF**
-3. Name your document memorably
+3. In the **Save As** field, enter a file name for your document
 4. Ensure the "Best for electronic distribution and accessibility" radio button is checked
 5. Select the **Export** button
 
@@ -73,7 +73,10 @@ Documents should have one **Title** and one **Heading 1**. **Heading 1** should 
 
 ### Microsoft Word accessibility panel
 
-We recommend you check your Word document for accessibility while working. Click the `Review` tab, then click the `Check Accessibility` button to open the Accessibility Checker panel.
+To open the Accessibility Checker panel:
+
+1. Select the **Review** tab
+1. Select **Check Accessibility**
 
 ![Click the Review tab in Word, then click the Check Accessibility button](https://user-images.githubusercontent.com/934879/88831092-7a926180-d194-11ea-8b71-dce1300deb2d.jpg)
 
@@ -81,9 +84,11 @@ We recommend you check your Word document for accessibility while working. Click
 
 ### Adobe Acrobat Pro accessibility tools
 
-Run the Acrobat Accessibility Checker by clicking the purple `Accessibility` button on the top right of your application window. Select **Accessibility Check** in the accessibility panel, ensure the **Document is tagged PDF** checkbox is checked, then select the **Start Checking** button. This will run the accessibility checker, and report any issues in a panel on the left of your document.
+1. Go to **Accessibility > Accessibility Check**
+1. Check the **Document is tagged PDF** checkbox
+1. Select **Start Checking**
 
-
+This will run the accessibility checker, and report any issues in a panel on the left of your document.
 
 ![Ensure the Document is tagged PDF checkbox is checked before running the Adobe Acrobat accessibility checker](https://user-images.githubusercontent.com/934879/90903648-dc10af00-e393-11ea-82a5-69565c297ab6.jpg)
 
