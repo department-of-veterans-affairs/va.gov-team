@@ -5,8 +5,8 @@
 ## Must-have - open items
 | Task     | Status |
 | :----------- | ----------- |
-| Application status logging on VA.gov| In progress |
-| Google analytics backend setup | In progress |
+| Application status logging on VA.gov| In progress - Sprint 29 |
+| Google analytics backend setup | In progress - Sprint 29 |
 | Adjust feature toggle set up and control access | Not started |
 | Resolve "save in progress" alerts on application | In progress |
 | Facility list changes | In progress, waiting on program team feedback |
