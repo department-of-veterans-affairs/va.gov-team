@@ -34,21 +34,21 @@ Please note Peggy has sent over a Word doc with content so this page will be upd
 ```
 # Contact us
 ## Your personal information (TBD if keeping)
+ 
+Fields to reorder
 
-
+-Your first name
 -Your last name
 -Suffix
+-SSN
 -Branch of service
 -Email address
 -Reenter email address 
--Country (will include full address in future story)
--I am asking about benefits/services drop down
+- address
+-Country 
+-I am asking about benefits/services
 -How should we get in touch with you? 
 
-Additional fields to come will be [story 36](https://github.com/department-of-veterans-affairs/orchid/issues/36); 
-at that time we may need to rethink the order of these fields and add additional 'headers' for screen readers. 
-
--SSN
 -Claim Number
 -Service Number
 -Date of Birth
@@ -63,7 +63,7 @@ at that time we may need to rethink the order of these fields and add additional
 -Additional fields from GI Bill and MyHealtheVet
 
 
-Conditional logic fields - if users select an option, additional content appears
+Conditional logic fields - if users select an option, additional content appears (need to identify order)
 -My message is about benefits/services 
 -Are you a Dependant? 
 -Was is your relationship to the Veteran 
