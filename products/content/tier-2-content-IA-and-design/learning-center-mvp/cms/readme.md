@@ -19,6 +19,7 @@
 1. ~Schedule a separate call re: URL aliases with Jen Lee, Mikki Northuis, Meg Peters~ - scheduled for Sep 9th 10am ET
 1. Sep 2 EOD - kick off dev shop env for FE engineering
 1. Schedule 30mins w/ Randi to walk through DevShop rebuild process
+1. Schedule Search/Content Listing by tag brainstorm session
 
 ## Tuesday September 1 (2:30-3:30pmET)
 
