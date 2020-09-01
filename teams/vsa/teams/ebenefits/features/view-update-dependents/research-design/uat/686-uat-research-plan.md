@@ -100,12 +100,13 @@ Please allow 30 minutes between sessions.
 | September 25, 2020 | Noon to 5 PM |
 
 ### Team members
-- [James Adams](jadams@governmentcio.com) [(VA Email)](james-adams2@va.gov) -- Moderator, researcher
-- [Steve Kovacs](steve.kovacs@va.gov) -- DSVA lead
-- [Jason Wolf](jwolf@governmentcio.com) -- eBenefits product manager
-- [Kathleen Crawford](kcrawford@governmentcio.com) -- Backend engineer
-- [Micah Chiang](micha@adhocteam.us) -- Frontend engineer
-- [Jesse Cohn](jesse.cohn@adhocteam.us) -- Frontend engineer
+- James Adams | jadams@governmentcio.com -- Moderator, designer
+- Steve Kovacs | steve.kovacs@va.gov -- DSVA lead
+- Jason Wolf | jwolf@governmentcio.com -- eBenefits product manager
+- Kathleen Crawford | kcrawford@governmentcio.com -- Backend engineer
+- Derek Dyer | ddyer@governmentcio.com -- Backend engineer
+- Micah Chiang | micha@adhocteam.us) -- Frontend engineer
+- Jesse Cohn | jesse.cohn@adhocteam.us -- Frontend engineer
 - Perigean -- Participant recruiting & screening
 - Note-takers -- Various as available
 - Observers -- various as available
