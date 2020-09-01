@@ -11,18 +11,29 @@
 ------
 
 
-## August 2020
-
 ### Collaboration Cycle v1 Research
 *Service Design: Naomi Marcussen*
 
 *Product Support: Mandi Lipka*
 
+Q2 - Q3 2020
+
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/collab-cycle-v1)
+
 
 ### Support Tracking Research
 
 *Service Design: Andrea Chappelear*
-
 *Product Support: James Chasia*
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/support%20tracking)
+
+
+
+### Frontend and Backend User Journey Workshops
+
+*Service Design: Naomi Marcussen, James Chasia*
+
+Q2 2020
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/support%20tracking)
+
+
