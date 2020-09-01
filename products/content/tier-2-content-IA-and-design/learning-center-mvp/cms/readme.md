@@ -7,8 +7,9 @@
 
 ## Tuesday September 1 (4pm ET)
 
-1. Review backlog for Sprint 14
 1. Devshop env for FE development
+   1. [Demo environment docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-team-support/demo-environments.md)
+1. Review backlog for Sprint 14
 1. `Articles tagged` feature
 1. Email component design (Ryan T. - dependency on Facilities)
 1. ~URL alias model for LC content [#2818](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2818)~ scheduled separately
