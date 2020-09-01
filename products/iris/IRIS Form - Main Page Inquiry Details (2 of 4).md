@@ -21,6 +21,9 @@ The values are included in [this story](https://github.com/department-of-veteran
 
 ### Content
 
+
+Please note Peggy has sent over a Word doc with content so this page will be updated
+
 See content below:
 
 ```
