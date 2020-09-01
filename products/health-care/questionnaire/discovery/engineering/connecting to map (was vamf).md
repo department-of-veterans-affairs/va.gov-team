@@ -5,7 +5,7 @@ This should presumably be the same as how VAOS works, but the health quest servi
 
 ## View appointment details in questionnaire.
 
-Questionnaire is PGD and appointment came from MAP through a different service. Some details need to be worked out on this
+Questionnaire is PGD and appointment came from MAP through a different service. Some details need to be worked out on this but from talking to Mark, this does not imply reading or writing anything to PGD.
 
 ## Post questionnaire fields (Reason for Visit, Health concerns/goals, and questions (dynamic?) from MAP service to sandbox instance of PGD (Patient Generated Data ?)
 
