@@ -25,98 +25,82 @@ We broke this strategy down into 3 phases.
 - [ ] Review with team and pick preferred concept
 - [ ] Platform checkpoint
 
-## Phase 2: Design Healthcare, Claims sections (can be broken out into two phases if need be): ~ 3-4 sprints
+## Phase 2: Design Healthcare, Claims sections: ~ 3-4 sprints
 
-**Healthcare**
+**Healthcare** ~ 1-2 Sprints
 
-Deliverables: Full design, layout and specs for 'blank', LOA1 and LOA3 use cases
+Deliverables: Full design, layout and specs for LOA3 (state with a lot of things) use cases. Includes all research and reviews.
 
 - Healthcare Overview (information changes dynamically depending on if a user has healthcare or not)
   - [ ] Visual design exploration
   - [ ] High fidelity mockups
-  - [ ] Stakeholder Reviews and approval
   
-- Applications in progress
-  - [ ] Visual design exploration
-  - [ ] High fidelity mockups
-  - [ ] Stakeholder Reviews and approval
-
 - Refill and track your prescriptions (shown conditionally if someone has prescriptions)
   - [ ] Visual design exploration
   - [ ] High fidelity mockups
-  - [ ] Stakeholder Reviews and approval
   
 - Send a secure message to your health care team (shown conditionally if someone has messages)
   - [ ] Visual design exploration
   - [ ] High fidelity mockups
-  - [ ] Stakeholder Reviews and approval
   
 - Schedule and view your appointments (shown conditionally if someone has health care in general)
   - [ ] Visual design exploration
   - [ ] High fidelity mockups
-  - [ ] Stakeholder Reviews and approval
   
-- View your lab and test results (shown conditionally if someone has health care in general)
-  - [ ] Visual design exploration
+- View your lab and test results (link shown conditionally if someone has health care in general)
   - [ ] High fidelity mockups
-  - [ ] Stakeholder Reviews and approval
   
 - Apply now for VA health care (shown conditionally if someone does NOT have health care)
   - [ ] Visual design exploration
   - [ ] High fidelity mockups
-  - [ ] Stakeholder Reviews and approval
   
+- [ ] Appropriate stakeholder reviews and approval along the way
 - [ ] User Research
 - [ ] Design updates from user research
 - [ ] Stakeholder Review (Depending on research outcome)
 - [ ] Platform checkpoints 
 - [ ] Hand-off to developers 
 
-**Claims**
+**Claims** ~1-2 Sprints
 
-Deliverables: Full design, layout and specs for 'blank', LOA1 and LOA3 use cases
+Deliverables: Full design, layout and specs for 'blank', LOA1 and LOA3 use cases. Includes all research and reviews.
 
 - Overall disability rating (shown conditionally if someone has a disability rating)
   - [ ] Visual design exploration
   - [ ] High fidelity mockups
-  - [ ] Stakeholder Reviews and approval
-  
-- Applications in progress
-  - [ ] Visual design exploration
-  - [ ] High fidelity mockups
-  - [ ] Stakeholder Reviews and approval
 
 - Check your claim or appeal status (shown conditionally if someone has a claim or appeal in progress)
   - [ ] Visual design exploration
   - [ ] High fidelity mockups
-  - [ ] Stakeholder Reviews and approval
 
-- View your payment history
+- View your payment history (link)
   - [ ] Visual design exploration
   - [ ] High fidelity mockups
-  - [ ] Stakeholder Reviews and approval
 
-- Upload evidence to support your claim (shown conditionally if someone has a claim or appeal in progress)
+- Upload evidence to support your claim (link shown conditionally if someone has a claim or appeal in progress)
   - [ ] Visual design exploration
   - [ ] High fidelity mockups
-  - [ ] Stakeholder Reviews and approval
  
-- File for a VA disability increase (shown conditionally if someone has a disability rating)
+- File for a VA disability increase (link shown conditionally if someone has a disability rating)
    - [ ] Visual design exploration
    - [ ] High fidelity mockups
-   - [ ] Stakeholder Reviews and approval
  
 - File a claim for compensation
    - [ ] Visual design exploration
    - [ ] High fidelity mockups
-   - [ ] Stakeholder Reviews and approval
    
- - View your direct deposit
-  - [ ] Visual design exploration
+ - View your direct deposit (link)
   - [ ] High fidelity mockups
-  - [ ] Stakeholder Reviews and approval
+  
+- [ ] Appropriate stakeholder reviews and approval along the way
+- [ ] User Research
+- [ ] Design updates from user research
+- [ ] Stakeholder Review (Depending on research outcome)
+- [ ] Platform checkpoints 
+- [ ] Hand-off to developers 
+  
    
-## Phase 3: Design Education and Records sections: ~ 1-2 sprints
+## Phase 3: Design Education, Records, Applications in progress, Discover additional benefits sections: ~ 1-2 sprints
 
 **Education**
 
@@ -162,12 +146,28 @@ Deliverables: Full design, layout and specs for 'blank', LOA1 and LOA3 use cases
    - [ ] Visual design exploration
    - [ ] High fidelity mockups
    
+**Applications in progress** ~? Sprint
+   
+**Discover other benefits**
+
+- List of available benefits 
+   - [ ] Visual design exploration
+   - [ ] High fidelity mockups
+   
 - [ ] User Research for both education and records
 - [ ] Design updates from user research for both education and records
 - [ ] Stakeholder Review (Depending on research outcome) for both education and records
 - [ ] Platform checkpoints for both education and records
 - [ ] Hand-off to developers
 
+## Phase 4: Design 'Blank'state and LOA1 state: ~ 1 sprint
+
+Deliverables: 'blank'(LOA3 with nothing), LOA1 
+
+## Phase 5: Final validation and retirement of MyVA
+
+- [ ] User Research for the page as a whole
+- [ ] Retire MyVA
 
 ## Links
 
