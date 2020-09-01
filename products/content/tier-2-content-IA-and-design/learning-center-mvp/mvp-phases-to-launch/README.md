@@ -1,6 +1,8 @@
 
 # MVP 2020 roadmap to end of December
 
+[Reference: PPT deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/pw-learning-center-takeaways-mvp-roadmap-082820.pptx)
+
 ## 1.0 - End of October -beta launch
 
 1 audience type: 
