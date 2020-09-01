@@ -29,7 +29,7 @@ We will engage in moderated usability testing conducted remotely using Zoom. Rem
 Recruit for 5 fulfilled sessions using the following criteria:
 
 **Must have for participants**
-- Do you receive compensation & pension, or education payments from VA? (pass = yes)
+- TBD (pass = yes)
 
 **Good to have for participants**
 - At least 1 woman
@@ -72,7 +72,7 @@ The current timeline is pending...
 - Derek Dyer | email: ddyer@governmentcio.com -- Backend engineer
 - Micah Chiang | email: micha@adhocteam.us -- Frontend engineer
 - Jesse Cohn | email: jesse.cohn@adhocteam.us -- Frontend engineer
-- Jennifer Strickland](jennifer.stricklandn@adhocteam.us -- 508 compliance
+- Jennifer Strickland | email: jennifer.stricklandn@adhocteam.us -- 508 compliance
 - Emily Waggoner | email: emily@adhocteam.us -- VSP platform
 - Peggy Gannon | email: peggy@thesocompany.com -- VSP content
 - Perigean -- Participant recruiting & screening
