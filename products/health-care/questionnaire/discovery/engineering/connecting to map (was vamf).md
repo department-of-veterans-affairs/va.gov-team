@@ -14,3 +14,12 @@ Would like to just post anything into FHIR first. Not sure of record relationshi
 PGD will need JWT, will that work with fhir client ?
 
 
+---
+
+- JWT 
+- FHIR data 
+- connect to sandbox
+- connect to MAP appointment side
+- use fhir client or not ?
+- Are these fhir sandboxes basically smart fhir compliant ? 
+
