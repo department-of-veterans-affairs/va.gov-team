@@ -34,7 +34,7 @@ Q2 - Q3 2020
 *Service Design: Naomi Marcussen, James Chasia*
 
 Q2 2020
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/support%20tracking)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/vfs-user-journey)
 
 
 ### Developer Experience Needs Finding
