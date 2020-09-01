@@ -21,19 +21,22 @@ Since most of these are standard contact us (name, address etc.) this should be 
 
 IMPORTANT NOTE: this is for the IRIS form - we'll be adding the GI Bill form elements to this (possibly the bio and inquiry detail) so will likely have to think through the order of form elements on the page.  The main task is to think through the order of these to be intuitive for users.
 
-Peggy please let me know if and when you've revised the order of elements so I don't accidently edit them!
+This is the content that Peggy has suggested we go with.
 
+TO ADD:
+I recommend separating “personal information (name, branch of service, dob, etc) and “contact information (email, phone, etc) into separate chapters
 
 ```
-# Contact Us
-## Your contact info
+# Contact us
+## Your personal information
 
--Title
+-Title CAN DELETE - (UPDATE CARD)
 -Your first name (note in Form Builder it's something else...)
 -Your last name
 -Suffix
 -Branch of service
--Email
+-Email address (UPDATE CARD)
+-Reenter email address (UPDATE CARD)
 -Country (will include full address in future story)
 -I am asking about benefits/services drop down
 -How you would like to be contacted
