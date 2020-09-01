@@ -6,7 +6,7 @@ Product teams can use demo environments for the following four user stories (and
 
 ## User story 1
 
-As a member of a product team, I want a version of www.va.gov where your product’s draft content can be published, so that you can then send it to stakeholders (peers, platform team, or others) for review. 
+As a member of a product team, I want a version of www.va.gov where your product’s draft content can be published, so that you can then send it to stakeholders (peers, platform team, or others) for review. Note that these demo environments are _not_ available on copmuters outside the VA network, so it is not a recommended approach for end user testing. 
 
 ### User story 1b (not covered in slidedeck or video)
 
