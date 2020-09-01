@@ -24,7 +24,8 @@ IMPORTANT NOTE: this is for the IRIS form - we'll be adding the GI Bill form ele
 This is the content that Peggy has suggested we go with.
 
 TO ADD:
-I recommend separating “personal information (name, branch of service, dob, etc) and “contact information (email, phone, etc) into separate chapters
+- Peggy: I recommend separating “personal information (name, branch of service, dob, etc) and “contact information (email, phone, etc) into separate chapters
+- Also 'update' refers to either updating the card or wireframes to incorporate Peggy's changes; when they've all been incorporated this doc will be updated.
 
 ```
 # Contact us
@@ -39,7 +40,7 @@ I recommend separating “personal information (name, branch of service, dob, et
 -Reenter email address (UPDATE CARD)
 -Country (will include full address in future story)
 -I am asking about benefits/services drop down
--How you would like to be contacted
+-How should we get in touch with you? (UPDATE CARD) (was How you would like to be contacted
 
 Additional fields to come will be [story 36](https://github.com/department-of-veterans-affairs/orchid/issues/36); 
 at that time we may need to rethink the order of these fields and add additional 'headers' for screen readers. 
@@ -48,8 +49,9 @@ at that time we may need to rethink the order of these fields and add additional
 -Claim Number
 -Service Number
 -Date of Birth
--Date Entered Active Duty
--Date Released Active Duty
+
+-Service start date (was Date Entered Active Duty - UPDATE)
+-Service end date (was Date Released Active Duty - UPDATE)
 -Additional address fields - street, city, state, postal
 -Veteran Relationships	
 -Service Branches	
@@ -59,22 +61,28 @@ at that time we may need to rethink the order of these fields and add additional
 
 
 Conditional logic fields - if users select an option, additional content appears
--I am asking about benefits/services:
--Are you the Dependant?
--Your Relationship to Veteran
--Is Veteran Deceased
--Date of Death if known
+-My message is about benefits/services (was I am asking (UPDATE)
+-Are you a Dependant? (UPDATE)
+-Was is your relationship to the Veteran (UPDATE)
+-Is the Veteran deceased (UPDATE)
+-Date of death, if known (UPDATE)
 
 Additional static VA footer info
 -Paperwork Reduction Act is TBD - we're determining if we're having a Contact Us landing page, 
 or if that content is necessary it would likely live on this page at the bottom.
--Estimated Burden
--OMB Expiry
--OMB Number
--Form Number
-
+-Estimated burden (UPDATE)
+-OMB expiry (UPDATE)
+-OMB number (UPDATE)
+-Form number (UPDATE) (also this typically goes at top)
 
 Calls to action:
-[Primary button] Submit
+[Primary button] Continue (TO UPDATE - UPDATE CARD TODAY)
 [Secondary button] Back
+
+
+Need help? (TO UPDATE)
+Call us at 800-827-1000. We’re here Monday through Friday, 8:00 a.m to 9:00 p.m ET. If you have hearing loss, call TTY: 711.
+
+
+
 ```
