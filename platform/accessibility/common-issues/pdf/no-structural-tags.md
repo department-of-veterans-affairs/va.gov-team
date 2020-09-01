@@ -17,7 +17,7 @@
 ## Statement of the issue
 
 - **Synopsis:** PDFs (portable document files) must have tagged headers, tables, lists, and paragraphs. Assistive technology can navigate to sections of a document using these tags. PDFs without tags require users to read the document instead of skimming for what they want.
-- **Severity:** Serious
+- **Severity:** [508-defect-2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#508-defect-2) for new documents. Documents previously published should be remediated as soon as possible.
 - **Deque University help link:** https://dequeuniversity.com/rules/comply-pdf/1.0/pdf-not-marked
 - **WCAG Success Criteria:** 
   - [1.3.1 Info and Relationships](https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html)
