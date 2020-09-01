@@ -85,6 +85,8 @@ We would like to interview 6-8 Veterans. Participant criteria:
 - All participants must be Veterans
 - All participants must be iOS users and use an Apple mobile device (not an iPad) for the session
 - All participants be currently going through the claims or appeal process for Disability Benefits and have an active claim or appeal
+- All participants should have used VA.gov in the past
+- No assistive device users (low-fi prototype does not support assistive technology)
 
 **Nice to haves for participants**
 - Ideally, about half of recruits should have experience with VA Health Care benefits. We are flexible on this, having an active claim is more important.  
@@ -95,8 +97,6 @@ We would like to interview 6-8 Veterans. Participant criteria:
   - Age (ideally at least one participant 25 or under and one participant 65+, but we are flexible)
   - Geography
   - Density (ideally at least one participant in a rural area and one in a major city, but we are flexible)
-- All participants should have used VA.gov in the past
-- No assistive device users (low-fi prototype does not support assistive technology)
 
   
 ## What is your recruitment strategy?
