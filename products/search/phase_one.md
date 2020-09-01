@@ -5,18 +5,18 @@ While [Discovery activities continue](https://github.com/department-of-veterans-
 **Foundational**
 
 - [x] Set-up [Google Search Console and Bing Web Developer Tools](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/9333) to analyze trends, site health, etc.
-- [ ] Create SEO Site Audit reports to determine if there are high priority fixes and optimizations that require attention.  [Ticket with audit results here.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11026)
+- [x] Create SEO Site Audit reports to determine if there are high priority fixes and optimizations that require attention.  [Ticket with audit results here.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11026)
 
 
 **Discovery**
-- [ ] Generate [questions to explore](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/search/research/top_questions.md) for Analytics evaluation of Search Performance; Spin up analytics framework (w/Mickin)
+- [x] Generate [questions to explore](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/search/research/top_questions.md) for Analytics evaluation of Search Performance; Spin up analytics framework (w/Mickin)
 - [ ] Create research plan and Discovery Epic (Issue #11638 Shawna & Liz)
 
 
 **Off-Site**
 
-- [ ] Development and deploy of a [COVID-19/FAQ special announcement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9163) rich search results for VA.gov
-- [ ] Correction and possible enhancement of VA COVID-19 Testing Site listings via Google Search/Castlight.  [Ticket here.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11568) 
+- [x] Development and deploy of a [COVID-19/FAQ special announcement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9163) rich search results for VA.gov
+- [x] Correction and possible enhancement of VA COVID-19 Testing Site listings via Google Search/Castlight.  [Ticket here.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11568) 
 - [ ] Possible: Determine if VA would benefit from more centrally managed search/map/voice listings via Google My Business or commercial provider such as Yext.
 
 **On-Site**
