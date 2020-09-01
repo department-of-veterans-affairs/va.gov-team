@@ -25,7 +25,11 @@ This is the content that Peggy has suggested we go with.
 
 TO ADD:
 - Peggy: I recommend separating “personal information (name, branch of service, dob, etc) and “contact information (email, phone, etc) into separate chapters
-- Also 'update' refers to either updating the card or wireframes to incorporate Peggy's changes; when they've all been incorporated this doc will be updated.
+
+
+Please note Peggy has sent over a Word doc with content so this page will be updated
+
+
 
 ```
 # Contact us
