@@ -12,7 +12,7 @@
 | Make additional info page on PDF 508 compliant | Owned by VSP | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12173) |
 | Incident Response Playbook   | In progress - program team is working on it | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13097) | 
 | Front end validation/PDF generation bug | Not started | 
-| Adjust feature toggle set up and control access | Not started |
+| Release Online 10-10CG to Public | Not started | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12984) | 
 | Resolve "save in progress" alerts on application | In progress |
 | Update Facilities list to have user-friendly labels | In progress ~waiting on program team feedback~ | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13096)
 | Define launch metrics with program team  |In progress | 
