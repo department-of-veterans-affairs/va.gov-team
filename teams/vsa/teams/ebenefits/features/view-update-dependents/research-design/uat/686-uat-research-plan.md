@@ -42,7 +42,7 @@ Users will:
 ### Participants & recruiting
 Participants will be recruited via Perigean. The study will require Veterans who have a need to add or remove a dependent (or dependents) form their VA disability claim. Sessions will run between 30 and 45 minutes depending on the workflow, and potential technical issues; sessions should be scheduled for 45 minutes, and at least 30 minutes apart.
 
-Recruit for 5 fulfilled sessions using the following criteria:
+Recruit for a **minimum of 3** fulfilled sessions using the following criteria:
 
 #### Must have for participants
 
