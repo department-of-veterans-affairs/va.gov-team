@@ -168,13 +168,16 @@ Increase customer satisfaction
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 
-## Target Launch Date
+## Launch Dates
 - *What is your target launch date of your MVP/iteration?*
 - *What is your date for when you'll evaluate impact after launch?*
-
+### Target
 - ~June 24
 - Begin soft roll-out June 24
 - *One month post launch and then QoQ
+
+### Actual
+July 14
 
 ## Status
 In progress
