@@ -1,4 +1,6 @@
-# Architecture Diagram
+# Architecture Diagram [WIP ]
+
+![Diagram](assets/architecture.v1.png)
 
 ## A 
 Communication with MAP 
