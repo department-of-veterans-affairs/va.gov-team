@@ -30,11 +30,11 @@ In previous rounds of user research, we have determined that there is a Veteran 
   - How useful is this?
   - Do Veterans have any concerns about it?
 - How easily and successfully can Veterans find the following items, and what patterns and obstacles exist in finding them: 
-  - Using the Homescreen
-  - Locating Personal & Contact Information 
-  - Locating Direct Deposit
-  - Locating Letters and Documents
-  - Locating Settings
+  - Homescreen
+  - Personal & Contact Information 
+  - Direct Deposit
+  - Letters and Documents
+  - Settings
   - Using the bottom toolbar navigation
     - Do users find any of the icons and titles in the bottom toolbar unclear? If so, what?
     - Do Veterans think that the Veterans Crisis Line should be in the bottom toolbar?
@@ -44,31 +44,28 @@ In previous rounds of user research, we have determined that there is a Veteran 
     - Do Veterans use in-screen CTAs more than the bottom toolbar?
     - Do they come back to the home screen before navigating elsewhere?
 - What information would Veterans most like to see on the mobile app Claim Status Tool?
-    - Is the information that we have included useful?
     - What is not included that they want to see? 
-      - Why do they want this additional information? 
 - Overall, how satisfied are Veterans with the MVP feature set and overall app UI/UX design?
     - Would participants download and use this app? 
     - What would the most like to add to what they see in the MVP prototype? 
 
 
 # Hypothesis 
-- **Assess the effectiveness and clarity of the app IA and navigation UI**
-  - The bottom toolbar navigation elements will mostly be usable and clear to Veterans
-  - Veterans will be able to successfully find Personal & Contact Information, Direct Deposit, Letters and Documents
-  - When prompted to find Settings, users will navigate to "Your VA" and be able to locate Settings on that screen
+**Assess the effectiveness and clarity of the app IA and navigation UI**
+1. The bottom toolbar navigation elements will mostly be usable and clear to Veterans
+2. Veterans will be able to successfully find Personal & Contact Information, Direct Deposit, Letters and Documents and Settings
 
-- **Assess the home screen design**
-  - Veterans will use homescreen cards and list items to navigate from the homescreen more than the bottom toolbar
-  - Once away from the homescreen, Veterans will use the bottom toolbar to navigate
+**Assess the home screen design**
+3. Veterans will use homescreen cards and list items to navigate from the homescreen more than the bottom toolbar
+4. Once away from the homescreen, Veterans will use the bottom toolbar to navigate
 
-- **Assess the desired content on the mobile app Claim Status Tool**
-  - Veterans will want to see more information about a claim's status, including information that's not in the current CST
+**Assess the desired content on the mobile app Claim Status Tool**
+5. Veterans will want to see more information about a claim's status, including information that's not in the current CST
 
-- **Assess Veteran perception of the MVP app overall**
-  - Veterans will want to download and use this app
-  - There may be dissatisfaction with features that are not available in the MVP (e.g. cancelling and scheduling an appointment)
-  - There may be dissatisfaction with the limited health features
+**Assess Veteran perception of the MVP app overall**
+6. Veterans will want to download and use this app
+7. There may be dissatisfaction with features that are not available in the MVP (e.g. cancelling and scheduling an appointment)
+8. There may be dissatisfaction with the limited health features
 
 
 
