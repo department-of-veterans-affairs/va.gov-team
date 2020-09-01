@@ -2,6 +2,8 @@
 
 ## Table of contents
 
+- [Table is missing headers](#table-is-missing-headers)
+  - [Table of contents](#table-of-contents)
   - [Descrption of the issue](#description-of-the-issue)
   - [Definition of done](#definition-of-done)
   - [Add table headers](#add-table-headers)
