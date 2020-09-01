@@ -17,7 +17,7 @@ Good morning/afternoon and thank you for joining us today.
 I have a few things I need to mention before we start:
 - The session should take about 15 to 30 minutes, but you can stop any point--just let me know. 
 - If something is confusing or you run into an issue or problem, please let us know; we are constantly looking for ways to improve our features and tools
-- You are not obligated to complete the form--it won't go to until you go all the way through and click the submit button.
+- In this call you will be seeing a live VA form. You are not obligated to complete this form--it won't be sent to VA to until you go all the way through and click the submit button.
 
 ## Screening
 
@@ -29,7 +29,7 @@ You'll be using a new feature we have on VA.gov: VA form 21-686c, the one you us
 - Can you confirm for me that you have a DS Logon, MyHealtheVet, or ID.me account? And do you know your username and password? 
   - If not: Are these easy to get? Could get you them?
   - If the user can not remember or retrieve their login credentials, end the session.
-- And next, do you need to add or remove a dependent from your disability claim? 
+- During this call, I'll be helping you submit a form to add or remove a dependent from your disability claim. So, can you confirm that you indeed would like to do this, and are comfortable walking through the form with me?
   - If not end the session.
   - (Some workflows/situation require documentation) Since you need to [perform task], you may need to upload documentation. Do you have this handy? 
   - (is there a provision for providing documentation after submitting the form?)
