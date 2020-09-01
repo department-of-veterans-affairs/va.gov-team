@@ -6,20 +6,22 @@
 
 ### Call centers
 
-Each line of business has their own contact centers: VBA, VHA, Crisis Line (may be part of VHA), etc. There may be multiple call centers for each line of business. We don't know:
+Each line of business has their own contact centers: VBA, VHA, NCA, VEO, Crisis Line (may be part of VHA), etc. There may be multiple call centers for each line of business. We don't know:
 
 - Do they each have their own content teams? 
-- Is there a central contact team for all of the content centers?
+- Is there a central content team for all of the contact centers?
 
 ### Content authoring and migration
 
-We know call center content authors are currently  use two things to publish articles
+We know call center content authors are currently use two things to publish articles
 
-- IRIS is used to publish external customer articles.
+- IRIS is used to publish external customer articles. 
 
-- They also use Egaines to publish internal docs, like scripts for call center reps
+- They also use Egain to publish internal docs, like scripts for call center reps
 
-Now that IRIS is going to be retired, Veteran Experience Office (VEO) is in the process of getting the content teams onboarded into this tool called Egaines to publish *all* content.  
+- *Some contact centers do not use eGain and instead use their own CRM system (i.e. VEO contact center uses Salesforce)*
+
+Now that IRIS is going to be retired, Veteran Experience Office (VEO) is in the process of getting the content teams onboarded into this tool called Egain to publish *all* content.  
 
 - They're planning on publishing this content on know.va.gov - a public website primarily currently used by VA employees and contractors (e.g. contract claims processors). This is where those people who can't access the intranet can access things like manuals about processing claims.
 - We don't want to send Veterans to know.va.gov.
@@ -31,17 +33,17 @@ Now that IRIS is going to be retired, Veteran Experience Office (VEO) is in the 
 - Chante, Jen, Liz
   - Chante is the DEPO liaison for call centers, only central point person for dealing w/ all the different call centers
 - Other folks for FYSA: 
-  - Laura Petrula (VEO/IRIS)
-  - Trish Deng (VEO/IRIS)
+  - Laura Petrula (VEO/IRIS): Laura is the business owner for the IRIS transition 
+  - Trish Dang (VEO/IRIS): Trish is the deputy director of agent assisted technology and is therefore responsible for the strategy and implementation of systems and technology used by contact center agents 
     - ^ not clear on how their roles split out
-  - Leo Catanach (VEO/Primary owner of eGaines/excited to move teams to eGaines/also aware of what we're doing)
+  - Leo Catanach (VEO/Primary owner of eGain/excited to move teams to eGain/also aware of what we're doing)
   - Possibly Oksana on the CMS team, good to keep in the loop as FYSA, we may be reaching out to her later to add authoring functionality
 
 - Contact center content teams, individuals TBD. We want to talk to the content teams that support the call centers (not the call reps at this time).
 
 ## Research study goals
 
-We want to know what the content authors experience currently is of writing and publishing IRIS content through IRIS so we can better understand their current process. We also want to work to make sure that we're addressing some of the requirements that they need in Drupal. 
+We want to know what the content authors experience currently is of writing and publishing IRIS and eGain content so we can better understand their current process. We also want to work to make sure that we're addressing some of the requirements that they need in Drupal. 
 
 ### Research questions
 
