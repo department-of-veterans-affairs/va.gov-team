@@ -18,6 +18,8 @@
 
 ## Tuesday September 1 (2:30-3:30pmET)
 
+Attendees: Jen Lee, Ryan Thurlwell, Kevin Walsh, Oksana Cyrwus
+
 1. FE Tags and authoring experience rules - [MURAL](https://app.mural.co/t/vagov6717/m/vagov6717/1597845145225/5e258a50346775afe0125cd5126bce952fde5d94). 
    1. Finalize MVP topic and audience tag sets.
    1. Finalize authoring rules for FE tags.
