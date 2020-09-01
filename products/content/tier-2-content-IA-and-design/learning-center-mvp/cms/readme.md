@@ -10,11 +10,11 @@
 1. Review backlog for Sprint 14
 1. Devshop env for FE development
 1. Email component design (Ryan T. - dependency on Facilities)
-1. URL alias model for LC content
+1. URL alias model for LC content [#2818](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2818)
 
 ### Action items
 
-1. 
+1. Schedule a separate call re: URL aliases with Jen Lee, Mikki Northuis, Meg Peters
 
 ## Tuesday September 1 (2:30-3:30pmET)
 
