@@ -113,6 +113,7 @@ Since the mobile app MVP is replicating functionality that exists on VA.gov toda
 ## Project Plan for MVP 1.0 (through November 2020)
 
 
-![VA mobile app MVP - sprint planning draft](<img width="1200" alt="Screen Shot 2020-09-02 at 11 19 56 AM" src="https://user-images.githubusercontent.com/58053619/92009595-5cc59880-ed0e-11ea-9397-90401a213f6d.png">)
+<img width="1200" alt="Screen Shot 2020-09-02 at 11 19 56 AM" src="https://user-images.githubusercontent.com/58053619/92009595-5cc59880-ed0e-11ea-9397-90401a213f6d.png">
+
 
 
