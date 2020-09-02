@@ -1,6 +1,8 @@
 # Launch Checklist
 
 ###### Goal: Create a consolidated list of all of the steps needed to be ready for a public-facing launch
+###### Sprint 29 - (8/26 - 9/8)
+###### Sprint 30 - (9/9 - 9/22)
 
 ## Must-have - open items
 | Task     | Status | GH Issue |
