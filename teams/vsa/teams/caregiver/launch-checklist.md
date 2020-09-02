@@ -38,10 +38,10 @@
 ## Open feedback from VSP (as of 8/24)
 | Task     | Status |
 | :----------- | ----------- |
-| [Email address validation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12585) | Done? |
-| [Update breadcrumbs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12667) | In progress |
-| [Replace link on intro page] | Talk to program/VSP|
-| Capitalization for SSN/TIN | Talk to program/VSP |
+| [Email address validation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12585) | Done |
+| [Update breadcrumbs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12667) | Done |
+| [Replace link on intro page] | Open |
+| Capitalization for SSN/TIN | Done |
 
 
 ## Open feedback from Program (as of 8/24)
@@ -49,7 +49,7 @@
 | :----------- | ----------- |
 | Replace support phone number with Caregiver specific number | Needs VSP approval |
 | Add specific (and red) instructions re: required fields | Needs VSP approval |
-| Remove Sex as a required field & remove "unknown" as option | Needs VSP approval ** does this have backend implications? ** |
+| Remove Sex as a required field & remove "unknown" as option | Needs VSP approval|
 | Remove last treatment facility as a required field | To do |
 | Add space between faciity questions | ? |
 | Confirm facility list with Program | To do |
