@@ -9,7 +9,7 @@
 | :----------- | ----------- |
 | [Create logs to track successful submissions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12783) | In progress - Sprint 29 |
 | [Send GA event to track failed applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12089) | In progress - Sprint 29 |
-| [Resolve "save in progress" alerts on application](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12311)) | In progress - Sprint 29 |
+| [Resolve "save in progress" alerts on application](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12311) | In progress - Sprint 29 |
 | [Update Facilities list labels](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13096) | In progress - Sprint 29 |
 | Resolve any [staging review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12276) must-dos | In progress - Sprint 29 |
 | [Remove gender as required input](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13098) + [Schema changes](https://github.com/department-of-veterans-affairs/vets-json-schema/pull/486) | In progress - Sprint 29 |
