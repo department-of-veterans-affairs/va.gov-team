@@ -7,7 +7,7 @@
 | :----------- | ----------- | ----------- |
 | Additional logging for submission result | In progress - Sprint 29 | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12783) |
 | Add Log to confirm PDF attachment made it to CARMA | Not started - Sprint 30? | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12979) |
-| Add Alerts for specific 10-10cg errors (500 internal, Attachment Dropped) | Not started - Sprint 30?) | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6703) |
+| Add Alerts for specific 10-10cg errors (500 internal, Attachment Dropped) | Not started - Sprint 30? | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6703) |
 | Send GA event from vets-api on bounced 10-10cg applications | In progress - Sprint 29 | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12089) |
 | Make additional info page on PDF 508 compliant | Owned by VSP | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12173) |
 | Incident Response Playbook   | In progress - program team is working on it | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13097) | 
