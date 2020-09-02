@@ -87,4 +87,4 @@ Q2 2020
 
 Q1 2020
 
-- [Research folder] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/developer-experience)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/developer-experience)
