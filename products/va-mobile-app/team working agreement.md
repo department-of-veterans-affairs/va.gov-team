@@ -115,5 +115,5 @@ Since the mobile app MVP is replicating functionality that exists on VA.gov toda
 
 <img width="1200" alt="Screen Shot 2020-09-02 at 11 19 56 AM" src="https://user-images.githubusercontent.com/58053619/92009595-5cc59880-ed0e-11ea-9397-90401a213f6d.png">
 
-
+* Digital Foundry starting on 9/21 (highlighted in blue)
 
