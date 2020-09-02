@@ -48,7 +48,7 @@ Since the mobile app MVP is replicating functionality that exists on VA.gov toda
 - **Retro:** Every other Tues
 
 #### Example of Sprint 0 Cadence:
-![Screen Shot 2020-08-26 at 12 59 00 PM](https://user-images.githubusercontent.com/58053619/91339840-ad804300-e79c-11ea-927e-8aa112583284.png)
+<img width="638" alt="Screen Shot 2020-09-02 at 11 24 18 AM" src="https://user-images.githubusercontent.com/58053619/92010222-2b999800-ed0f-11ea-8c36-2d0002b61242.png">
 
 
 ### Cadence with VFS teams
