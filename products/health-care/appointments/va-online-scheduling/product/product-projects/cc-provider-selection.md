@@ -23,7 +23,7 @@ Existing source for data - Provider Profile Management System (contains the comm
 ## Recap of discovery with FL team:
 - PPMS data  is submitted by all CCN providers
 - **PPMS is dependent on if individual provider or group provider (sometimes individual provider can also be group provider)**
-- Facility locator team - in early Nov will be will be getting single call for provider (right now they have to make separate calls for single and group)
+- **Facility locator team - in early Nov will be will be getting single call for providers (right now they have to make separate calls for single and group)**
 - Right now Facility Locator team uses Mapbox directly
 - Based on the way the data is structured, Facility Locator team has to perform a depulication of providers 
   - Example - there can be multiple entries for one provider (example is podiatry) 
