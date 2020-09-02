@@ -16,16 +16,20 @@ Existing source for data - Provider Profile Management System (contains the comm
     - FL team may be working on this mapping with PPMS currently
 
 ## Technical options for using PPMS for data
-- Go to PPMS directly
-- Repurpose vets-api
+- Use the existing vets-api services
   - vets.gov/va.gov has been making use of PPMS endpoints to pull community care provider information into the facility locator for ~2 years
   - this FL experience has illuminated performance/latency issues with PPMS (some endpoint have been throwing 500s when under heavy loads)
   - currently vets-api contains logic for deduping results (ex. returning multiple results for podiatry) 
-- MAS endpoint for PPMS data - https://veteran.apps.va.gov/ppms/v1/
+- Use the MAS endpoint for PPMS data - https://veteran.apps.va.gov/ppms/v1/
   - proxies requests on to PPMS
   - If VAOS does not need to distinguish between provider vs group names this service would work
-  - dedup issue would potentially still persist (though could be solved is request made to BE team)
-
+  - dedupe issue would potentially still persist (though could be solved is request made to BE team)
+  - Potentially has similar load and performance issues
+     - Likely less than vets-api because it doesn't try to handle provider vs group names
+- Create a new service focused on the Veteran facing use case
+  - Would need to get a regular extract of PPMS data
+  - Service could live in VAMF or Lighthouse
+  
 ## Recap of discovery with FL team:
 - PPMS data  is submitted by all CCN providers
 - **PPMS is dependent on if individual provider or group provider (sometimes individual provider can also be group provider)**
