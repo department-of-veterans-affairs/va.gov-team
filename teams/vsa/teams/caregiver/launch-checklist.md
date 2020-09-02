@@ -15,9 +15,9 @@
 | [Remove gender as required input](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13098) + [Schema changes](https://github.com/department-of-veterans-affairs/vets-json-schema/pull/486) | In progress - Sprint 29 |
 | Make [content and design changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12806) proposed by program team | In progress - VSP is reviewing - Sprint 29 |
 | Meet with HEC, CSL to go over feedback/questions | In progress - Sprint 29 (9/4) |
-| [Add logging to confirm PDF attachment made it to CARMA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12979) | Not started - Sprint 30? |
+| [Front-End validation for PDF Generation Bug](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13100) | Not started - Sprint 29 |
+| [Add logging to confirm PDF attachment made it to CARMA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12979) | Not started - Sprint 30? 
 | [Add alerts for specific 10-10cg errors](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6703) (Sentry) (500 internal, Attachment Dropped) | Not started - Sprint 30? |
-| [Front-End validation for PDF Generation Bug](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13100) | Not started - Sprint 30? |
 | [Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13097)   | Program team is working on it | 
 | Define launch metrics with program team  |In progress - will continue to discusss on Friday calls | 
 | [Make additional info page on PDF 508 compliant](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12173) | Owned by VSP |
