@@ -6,19 +6,19 @@
 | Task     | Status | GH Issue |
 | :----------- | ----------- | ----------- |
 | Additional logging for submission result | In progress - Sprint 29 | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12783) |
-| Add Log to confirm PDF attachment made it to CARMA | Not started | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12979) |
-| Add Alerts for specific 10-10cg errors (500 internal, Attachment Dropped) | Not started | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6703) |
+| Add Log to confirm PDF attachment made it to CARMA | Not started - Sprint 30? | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12979) |
+| Add Alerts for specific 10-10cg errors (500 internal, Attachment Dropped) | Not started - Sprint 30?) | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6703) |
 | Send GA event from vets-api on bounced 10-10cg applications | In progress - Sprint 29 | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12089) |
 | Make additional info page on PDF 508 compliant | Owned by VSP | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12173) |
 | Incident Response Playbook   | In progress - program team is working on it | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13097) | 
 | Front-End validation for PDF Generation Bug | Not started | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13100) | 
 | Release Online 10-10CG to Public | Not started | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12984) | 
-| Resolve "save in progress" alerts on application | In progress |
-| Update Facilities list to have user-friendly labels | In progress ~waiting on program team feedback~ | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13096)
-| Define launch metrics with program team  |In progress | 
-| Resolve any [staging review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12276) must-dos | In progress |
-| Remove gender as required input | Not started | [Schema PR](https://github.com/department-of-veterans-affairs/vets-json-schema/pull/486) [Backend Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13098)
-| Make [content and design changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12806) proposed by program team | In progress - VSP is reviewing |
+| Resolve "save in progress" alerts on application | In progress - Sprint 29 |
+| Update Facilities list to have user-friendly labels | In progress - Sprint 29 | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13096)
+| Define launch metrics with program team  |In progress - will continue to discusss on Friday calls | 
+| Resolve any [staging review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12276) must-dos | In progress - Sprint 29 |
+| Remove gender as required input | In progress - Sprint 29 | [Schema PR](https://github.com/department-of-veterans-affairs/vets-json-schema/pull/486) [Backend Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13098)
+| Make [content and design changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12806) proposed by program team | In progress - VSP is reviewing. Sprint 29. |
 | Meet with HEC, CSL to go over feedback/questions | In progress - scheduled for 9/4 |
 
 ## Must-have - done
