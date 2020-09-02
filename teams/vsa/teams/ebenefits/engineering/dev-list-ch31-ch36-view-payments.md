@@ -33,7 +33,7 @@ Total = 7
 - [#11235](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11235) Meet with Analytics team to get GA events for chapter 36 form (1)
 - [#12055](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12834) Add GA events to form (3)
 - [#12057](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12057) Perform internal accessibility audit (2)  
-- Flipper component for unauth landing page (3)
+- Flipper component for unauth landing page (3)  
 Total = 49    
 2 Sprints should be doable based on FE sprint average of: 30 points across 9 issues  
 
