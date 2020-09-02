@@ -12,10 +12,10 @@
 | [Add Alerts for specific 10-10cg errors](https://github.com/department-of-veterans-affairs/va.gov-team/issues/670) (500 internal, Attachment Dropped) | Not started - Sprint 30 |
 | [Send GA event from vets-api on bounced 10-10cg applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12089) | In progress - Sprint 29 |
 | [Make additional info page on PDF 508 compliant](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12173) | Owned by VSP |
-| [Incident Response Playbook]((https://github.com/department-of-veterans-affairs/va.gov-team/issues/13097)   | In progress - program team is working on it | 
+| [Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13097)   | Program team is working on it | 
 | [Front-End validation for PDF Generation Bug](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13100) | Not started |
 | [Release Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12984) | Not started |
-| [Resolve "save in progress" alerts on application]((https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12311)) | In progress - Sprint 29 |
+| [Resolve "save in progress" alerts on application](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12311)) | In progress - Sprint 29 |
 | [Update Facilities list to have user-friendly labels](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13096) | In progress - Sprint 29 |
 | Define launch metrics with program team  |In progress - will continue to discusss on Friday calls | 
 | Resolve any [staging review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12276) must-dos | In progress - Sprint 29 |
