@@ -11,7 +11,7 @@
 | Send GA event from vets-api on bounced 10-10cg applications | In progress - Sprint 29 | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12089) |
 | Make additional info page on PDF 508 compliant | Owned by VSP | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12173) |
 | Incident Response Playbook   | In progress - program team is working on it | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13097) | 
-| Front end validation/PDF generation bug | Not started | 
+| Front-End validation for PDF Generation Bug | Not started | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13100) | 
 | Release Online 10-10CG to Public | Not started | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12984) | 
 | Resolve "save in progress" alerts on application | In progress |
 | Update Facilities list to have user-friendly labels | In progress ~waiting on program team feedback~ | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13096)
