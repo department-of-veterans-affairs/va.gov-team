@@ -139,6 +139,8 @@ Alternative Approaches and Frameworks:
   -   Xamarin
     
   -   NativeScript
+  
+  -   React Native (our choice for the MVP)
     
 ###   Hybrid; Applications are built using familiar web development tools, and the app runs as a web app within a native app wrapper. Hybrid apps containing a JavaScript-runtime are built and submitted to the app stores. An example is the Twitter mobile app, which uses much of the same UI components as twitter.com.
     
