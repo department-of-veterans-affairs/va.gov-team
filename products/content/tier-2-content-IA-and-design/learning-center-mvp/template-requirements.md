@@ -7,7 +7,7 @@ This is WIP and may evolve based on user research and technical findings.
 
 - **Required: Breadcrumb** –  pulled from H1, cannot manually customize
 - **Required: Search bar** - learning center search or  VA.gov (If user selects VA.gov search, user is taken to the normal site search results where results from all of VA.gov are pulled.)
-- ~**TBD: Content type label:** (- tbd -) Article vs. Video (or Media?) or more detailed label like “About,”     “FAQ,” “Step-by-step,” etc. ***first test with no label on pages(but include on the results listing)~
+- ~**Content type label:** (- tbd -) Article vs. Video (or Media?) or more detailed label like “About,” “FAQ,” “Step-by-step,” etc.first test with no label on pages(but include on the results listing)~  __Note: Content type label will be used only on search results, and not on the articles themselves.__
 - **Required: H1** – new H1 limit for LC pages – 70 max characters including spaces, rigid in AX
 - **Required: [FE topic tags](#fe-topic-tags) and/or [FE audience tags](#fe-audience-tags)** - Note: FE design will combine/flatten topic and audience tags (will no longer display them as separate Topic vs. Audience tags). At least 1 required; up to 4 can be selected for FE display. 
 - **See CMS info: [Frontend vs backend tags](#frontend-vs-backend-tags)** 
@@ -24,7 +24,7 @@ This is WIP and may evolve based on user research and technical findings.
 - **Back to top links - ~required if TOC links are enabled:~** ~displays at the end of each H2 section~ Per accessibility feedback, we will create Back to top feature at the FE that's based on page height. 
 - **Required: Meta title** - `H1 | Veterans Affairs` format; no character limit, ~no initial caps~. The 70-character-max H1 should automatically be used to generate the meta title. Note: Can we add initial capping logic va the FE template? 
 - **Meta description** -- TBD I don't think we need to have meta description for LC, but want to confirm this with engineers and John Hashimoto on what's needed for the kind of structured LC search results display we want. My thinking is we're fine pulling search results display text from the intro text, up to... [TBD] characters max and truncate with ellipses or with "Read more." 
-- **Required: [Administration and benefit hub taxonomy](#administration-and-benefit-hub-taxonomy)** - This info will be used in the CMS AX to create the default values of the Need more help component. 
+- ~**~Required~ TBD: [Administration taxonomy](#administration-taxonomy)** We may need administration info for AX governance - tbd. We are not using administration info for any component logic.
 
 
 [Visual examples - Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1588167553516/2773c854e8ff3a725a5e3ee03272b78e8519f78b)
@@ -60,16 +60,14 @@ __Backend (BE) tags - these are used in the CMS AX and do not display as FE tag 
  
 
 ## FE tags
-We are flattening topic and audience tags in the FE. Up to 4 FE tags can be displayed. The 4 can be a mix of topic and audience. 
+We are flattening topic and audience tags in the FE. Up to 4 FE tags can be displayed. The 4 can be a mix of topic and audience. Only 1 audience tag allowed. 
 
-By default, the "primary" BE tag should be one of the 4 FE tags -- this gives the author the ability to select 3 more as FE tags.
+The FE tags do not need to match the BE categories. ~By default, the "primary" BE tag should be one of the 4 FE tags -- this gives the author the ability to select 3 more as FE tags.~
 
 
 ## FE topic tags
 
 We're separating LC topic tags from the global benefit hub taxonomy. We are also separating Administration info from tags. 
-
-_Note: Benefit hub taxonomy and Administration info will be used in the CMS to inform certain components like the Need more help, but not to create the FE tag experience._ 
 
 This list of FE tags may grow in the future, but it will depend on user data, as well as patterns of frequent article topics during tier 2 content migrations. We may also deprecate FE tags if users don't interact with it as a way to browse content. 
 
@@ -86,55 +84,36 @@ __MVP list of FE topic tags are:__
 9. Pension
 10. Records
 11. VA account and profile
-12. General <--added 7/22: Label TBD. We need some kind of category that's agnostic of benefits and not about your account/profile. These are more general customer issues and sitewide things. IRIS examples: User is having problems opening a PDF link on our site; someone is just looking for general 'contact us' phone number or email. 
-
-
-~These larger administration topic categories are for content that doesn't fit into one of the neat benefit or service categories above. These were originally incuded in the list of non-beneficiary audience tags, but they're not really audiences; it's meant to signify topic category that's super broad and not a benefit or service.~
-
-~Example: VA fiduciaries is an audience type; they work with Veterans on behalf of VA; they are assigned by VA, and they may span multipiple benefits/services, because they're assigned to the Veteran, not to a benefit/service. So for some `fiduciary` audience topics, the content might have the topic tag `Veterans Benefits Administration.`~
-
-~14.Veterans Benefits Administration~
-
-~15. Veterans Health Administration~
-
-~16. National Cemetery Administration~
+12. Other topics and questions <--Label TBD card sort 
 
 
 
 ## FE audience tags 
 
-Up to 3 total from either the beneficiary **or** non-beneficiary category. Cannot mix beneficiary and non-beneficiary tags. 
-
-For example: 
-
-- You can tag a page with “All Veterans,” (or one of the veteran sub-group tags), and “Family members,” and “Service members.”  
-- But not “Women Veterans” and “Lenders, appraisers, and other real estate professionals.”
+~Up to 3 total from~ Authors can select 1 beneficiary **or** 1 non-beneficiary audience. ~Cannot mix beneficiary and non-beneficiary tags.~ 
 
 
 **Beneficiaries ("you're a Veteran or receive VA benefits"):** 
 
-Up to 3 can be selected, but only 1 from the Veterans list.
+~Up to 3 can be selected, but only 1 from the Veterans list.~
 
-- All Veterans - Content author can select the broad category "All Veterans" or one of the sub-Veteran tags:
-  - Elderly Veterans [TBD card sort variation test: ~Senior and aging~ Older Veterans / Veterans age 65+] 
-  - Former prisoners of war
-  - Gulf War Veterans
-  - Incarcerated Veterans
-  - Korean War Veterans
-  - LGBTQ Veterans
-  - Minority Veterans
-  - Native American Veterans
-  - Vietnam War Veterans
-  - Women Veterans
-  - World War II Veterans
+- All Veterans 
+- Veterans age 65+ with complex care needs <-- TBD card sort
+- Former prisoners of war
+- Gulf War Veterans
+- Incarcerated Veterans
+- Korean War Veterans
+- LGBTQ Veterans
+- Minority Veterans
+- Native American Veterans
+- Vietnam War Veterans
+- Women Veterans
+- World War II Veterans
 - Family members and caregivers
 - Service members
 
 
-
 **Non-beneficiaries ("you work with Veterans or with VA"):** 
-
-Up to 3 tags can be selected. 
 
 - Schools, administrators, and other education professionals
 - Career counselors and other employment specialists
@@ -146,9 +125,11 @@ Up to 3 tags can be selected.
 - ~Clinicians, researchers, and health care workers~  <-- In reviewing the VHA pages, a lot of the subdomain content is so highly specialized, I just don't think they are right candidates to live in the LC. VHA clinical health and research info really does seem like Tier 3 program office content or a special tier 3 subset for the medical audience. Therefore, we will not include the clinicians etc audience as part of the MVP1.1 audience taxonomy. We can add it if we encounter a significant amount of this type of learning center benefit adjacent content during IRIS audit or during next year's tier 3 content work (i.e., if there's tier 2 information mixed in their tier 3 program content.)  8/10
 
 
-## ~Administration and~ benefit hub taxonomy
+## Administration taxonomy
 
-~We are separating Administration info from tags.~ Benefit hub taxonomy ~and Administration info~ will be used in the CMS to inform certain components like the [Need more help? section](#need-more-help-section), but not to create the FE tag experience. We may also use Administration for user access/governance, which is still TBD.
+~We are separating Administration info from tags. Benefit hub taxonomy and Administration info will be used in the CMS to inform certain components like the [Need more help? section](#need-more-help-section), but not to create the FE tag experience.~ 
+
+We may ~also~ use Administration for user access/governance, which is still TBD. We are not using Administration data to inform any of the component logic.
 
 
 __Administrations:__
@@ -160,21 +141,6 @@ __Administrations:__
 - National Cemetery Administration
 
 - Veterans Affairs
-
-
-__Benefit hubs:__
-These are the global benefit hub taxonomy categories. 
-
-1. Burials and memorials
-2. Careers and employment
-3. Decision reviews and appeals 
-4. Disability
-5. Education and training
-6. Health care
-7. Housing assistance 
-8. Life insurance
-9. Pension
-10. Records
 
 
 ## Specific LC content template types
@@ -307,7 +273,7 @@ Specs - not including the basic requirements on all LC pages:
 
 - Section headers (H2s, H3s, etc.) But the first section header after intro must be an H2 (don't allow H1 to jump to H3, etc.)
 - Alert (can be enabled below intro text or within body content; not stackable)
-- Section text blurb - plain text, max 300 characters including spaces
+- Section text blurb - plain text, max 300 characters including spaces  <-- added 8/31
 - Checkbox text field, max 300 characters including spaces
 - The content type label in searches should be "Checklist"
 
