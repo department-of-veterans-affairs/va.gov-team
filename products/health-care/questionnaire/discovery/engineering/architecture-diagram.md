@@ -28,7 +28,7 @@ The Vets APi will use an exchange of JWT to create a secure connection.
 
 These endpoints use the FHIR spec to communicate. We plan on using the [questionnaire](https://www.hl7.org/fhir/questionnaire.html) to create [QuestionnaireResponses](https://www.hl7.org/fhir/questionnaireresponse.html) that will take the form of JSON Objects, that looks like: 
 
-```json
+```js
 {
   "resourceType" : "QuestionnaireResponse",
   // from Resource: id, meta, implicitRules, and language
