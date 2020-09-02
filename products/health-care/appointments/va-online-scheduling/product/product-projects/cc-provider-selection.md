@@ -9,7 +9,7 @@ Existing source for data - Provider Profile Management System (contains the comm
 2. Duplication of care type results - due to...
 3. Mapping of type of care between PPMS and Health Service Taxonomy (no consisting mapping)
 
-## Technical options for using PPMS for data needs to
+## Technical options for using PPMS for data
 - Go to PPMS directly
 - Repurpose vets-api
   - vets.gov/va.gov has been making use of PPMS endpoints to pull community care provider information into the facility locator for ~2 years
