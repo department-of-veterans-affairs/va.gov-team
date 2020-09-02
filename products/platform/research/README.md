@@ -10,7 +10,9 @@ You can contact any of the following about research or adding your reach here:
 - [Naomi Marcussen](mailto:naomi.marcussen@oddball.io), @Naomi Marcussen on Slack 
 - [Andrea Chappelear](mailto:andrea.chappelear@adhoc.team), @Andrea Chappelear on Slack 
 
+<br>
 
+## In this folder
 
 ### Customer Insights
 
@@ -18,11 +20,11 @@ You can find all quartly roundups and survey readouts here.
 
 - [Customer Insights](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/customer%20insights) 
 
-
+<br>
 
 ### Research projects conducted by VSP
 
-This is where you can find research conducted by VSP. If you've done research, please provide a link to your work here. 
+Below you can find links to research conducted by VSP. If you've done research, please provide a link to your work here. 
 
 
 
