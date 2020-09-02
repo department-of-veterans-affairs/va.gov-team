@@ -921,7 +921,7 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open issues**
 
-* [508-defect-2 [SCREENREADER]: Bold, italic text and font-size MUST not be used to style '<p>' elements as a heading - #11966](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11966)<br/>**Staging** | **Opened:** August 3, 2020 | **Severity:** _508-defect-2 - **Serious**_
+* [508-defect-2 [SCREENREADER]: Bold, italic text and font-size MUST not be used to style P elements as a heading - #11966](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11966)<br/>**Staging** | **Opened:** August 3, 2020 | **Severity:** _508-defect-2 - **Serious**_
 * [508-defect-2 [MOBILE DESIGN]: Relevant content provided on desktop MUST also be available on mobile - #11969](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11969)<br/>**Staging** | **Opened:** August 3, 2020 | **Severity:** _508-defect-2 - **Serious**_
 * [508-defect-2 [SCREENREADER]: Screenreader SHOULD announce the accurate number of items - #12060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12060)<br/>**Staging** | **Opened:** August 4, 2020 | **Severity:** _508-defect-2 - **Serious**_
 * [508-defect-2 [SEMANTIC MARKUP, SCREENREADER]: Search form SHOULD use semantic markup - #12108](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12108)<br/>**Staging** | **Opened:** August 5, 2020 | **Severity:** _508-defect-2 - **Serious**_
