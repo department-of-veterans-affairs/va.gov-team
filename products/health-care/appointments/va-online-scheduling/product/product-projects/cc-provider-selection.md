@@ -6,6 +6,7 @@ Existing source for data - Provider Profile Management System (contains the comm
 
 ## Primary hurdles with PPMS:
 1. Data reliability & performance - verifying metrics with Facility Locator team based on their experience
+    - Some of this performance may improve with an upcoming release from PPMS in Nov that makes a single call for single providers and group providers
 2. Duplication of care type results - due to...
 3. Mapping of type of care between PPMS and Health Service Taxonomy (no consisting mapping)
 
