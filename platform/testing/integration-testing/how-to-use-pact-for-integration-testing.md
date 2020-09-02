@@ -32,7 +32,6 @@
             - [Authorization](#authorization)
             - [VCR](#vcr)
         - [Configure the pact_uri/broker_url](#configure-the-pact_uri/broker_url)
-        - [Optionally Comment Out Publish Flag](#optionally-comment-out-publish-flag)
         - [How to run the verification task](#how-to-run-the-verification-task)
             - [Important: Docker Workflow Settings](#important-docker-workflow-settings)
         - [How to verify your results](#how-to-verify-your-results)
@@ -321,7 +320,6 @@ In this case, using a matcher, like `eachLike`, would not be appropriate.
     1d. [VCR](#vcr)
 2. Development Configurations
     2a. [Configure the pact_uri](#configure-the-pact_uri/broker_url)
-    2b. [Optionally comment out the publish flag](#optionally-comment-out-publish-flag)
 5. [Run the Verification Task](#how-to-run-the-verification-task) & Iterate 
 6. [Verify Your Results](#how-to-verify-your-results)
 7. [Final Steps](#final-steps)
@@ -374,10 +372,6 @@ rake pact:verify:at[https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.go
   
 ```
 
-### Optionally Comment Out Publish Flag
-
-During development, if you don't want to publish the results to the broker, the [publication flag](https://github.com/department-of-veterans-affairs/vets-api/pull/4612/files#diff-79dfb3765c26716457a005b9d343a160R34) can be commented out temporarily. Please make sure to uncomment the publication flag once work is complete.
-
 ### How to Run the Verification Task
 
 By running the pact rake task (`bundle exec rake pact:verify or make pact`), dynamic rspec tests will spin up to validate expected responses defined per pact.
@@ -410,8 +404,6 @@ When the verification task completes, passing (green) and failing (red) interact
 When your verification status is all green, please reconfigure your changes from step 2 in the [checklist](#quick-reference-checklist) by doing the following. 
 1. Reconfigure the `pact_broker_base_url`
 2. Remove the temporary `pact_uri` definition. 
-3. Revise/uncomment the publication flag.   
-
 
 ### Broker Matrix and Tagging
 A provider verification matrix can be found in the pact broker. See [search example](https://vagov-pact-broker.herokuapp.com/matrix/provider/VA.gov%20API/consumer/Search). The verification matrix acts as a success metric for verification status (green or red). Additionally, each verification run is tagged with the git branch name and git sha in the provider verification column to track provider version details. See details in the [pact_helper](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/pact_helper.rb#L50-L51).
