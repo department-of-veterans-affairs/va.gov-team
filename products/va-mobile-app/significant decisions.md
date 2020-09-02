@@ -287,7 +287,6 @@ We are continuing to socialize this decision and awaiting a designated Tech Lead
 
 
 # Decision 5: Build Mobile API inside of vets-api
-_Note: This decision is under review in [this PR](https://github.com/department-of-veterans-affairs/va.gov-team/pull/12614)_
 
 ## Describe the problem this decision is trying to solve.
 The VA Mobile app needs an API. Since VA.gov is powered by vets-api and VSP, it seems like a natural fit for the mobile app to be powered by APIs in the same space.
@@ -312,7 +311,7 @@ We considered several other options, briefly listed here, from most to least pra
 Availability of backend intwgrations, as well as support from the VSP team to build inside of vets-api
 
 ## Document the people who agreed to the design decision (and their roles on the project).
-(design doc is still in Draft phase)
+([design doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/design-docs/2020-08-17-mobile-api-design-doc.md) is still in Draft phase)
 - Andrew Gunsch
 - John Paul Ashenfelter
 - Michael Fleet
