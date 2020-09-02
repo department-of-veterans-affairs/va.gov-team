@@ -1,10 +1,10 @@
 # Research
 
-Hello! In this folder, you'll find information specific to research that has been conducted by the Platform team. 
+Hello! In this folder, you'll find information specific to Research that has been conducted by the Platform team. 
 
 ## Points of contact
 
-You can contact any of the following about research or adding your work here:
+You can contact any of the following about research or adding your reach here:
 
 - [James Chasia](mailto:james.chasia@adhocteam.us), @James on Slack
 - [Naomi Marcussen](mailto:naomi.marcussen@oddball.io), @Naomi Marcussen on Slack 
@@ -19,8 +19,6 @@ You can find all quartly roundups and survey readouts here.
 - [Customer Insights](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/customer%20insights) 
 
 
-
-------
 
 ### Research projects conducted by VSP
 
@@ -55,6 +53,8 @@ Q2 - Q3 2020
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/collab-cycle-v1)
 
 
+<br>
+
 
 #### Support Tracking Research
 
@@ -66,6 +66,8 @@ Q3 2020
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/support%20tracking)
 
 
+<br>
+
 
 #### Engineer User Journey Workshops
 
@@ -75,7 +77,8 @@ Q2 2020
 
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/vfs-user-journey)
 
-  
+
+<br>
 
 
 #### Developer Experience Needs Finding
@@ -84,4 +87,4 @@ Q2 2020
 
 Q1 2020
 
-- [Research folder](
+- [Research folder] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/developer-experience)
