@@ -59,7 +59,6 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [Appeal Modernization Process (AMA)](#appeal-modernization-process-ama)
       - [Disability Calculator](#disability-calculator)
       - [Local Side Navigation](#local-side-navigation)
-      - [Pittsburgh Side Navigation (CMS)](#pittsburgh-side-navigation-cms)
       - [Appeal Modernization Process (AMA) Phase 2](#appeal-modernization-process-ama-phase-2)
       - [Covid-19 Resources](#covid-links-and-resources-pdf)
       - [Find Forms MVP](#find-forms-mvp)
@@ -675,23 +674,6 @@ Back to [Table of Contents](#table-of-contents)
 
 **Audit status:** _Completed June 2017._<br/>
 **No open issues**
-
-Back to [Table of Contents](#table-of-contents)
-
----
-
-#### Pittsburgh Side Navigation (CMS)
-
-**Audit status:** _First audit completed by VSA November 2019._
-
-**Open issues**
-
-- [[SCREENREADER]: Pittsburgh Sidenav - Sidenav headings lack semantic structure - #3441](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3441)<br/>
-  **Opened:** November 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
-- [[SCREENREADER, KEYBOARD]: The sidenav headings are read as buttons but cannot be activated - #3557](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3557)<br/>
-  **Opened:** November 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
-- [[COGNITION]: Pittsburgh Sidenav - The links with accordions have two different tab stops and two different links/actions - #3445](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3445)<br/>
-  **Opened:** November 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 
 Back to [Table of Contents](#table-of-contents)
 
