@@ -40,3 +40,14 @@ Add the new manual review trigger now for custom messages for form submission er
   * Ask VSP Collaboration Cycle reviewers if it has come up
 * Write up a very rough release plan (per Rachael's request) acknowledging that we don't have the ability to measure much for manual review triggers at the moment and that the release plan and success measurement will be pretty light/informal
 * The plan would be to come back to this work in the future (as outlined above) to ensure that we've completed all steps on the VSP initiative development checklist for the "manual review trigger" initiative, but that (returning to this work) would be prioritized as normal with/against the rest of the FE Tools roadmap
+
+## Decision 
+
+Discussion in Slack: https://dsva.slack.com/archives/CJRQ85PQB/p1598899849003100
+
+Final call from Rachael R and Kevin H: Option 1. 
+
+Rachael: _pause until you’ve done the priority matrix work, and see where manual triggers stack up. I’m not in favor of spending time on a new trigger if the value of iterating on manual triggers isn’t as high as some other things on your list.
+That being said, I would be excited if it turns out y’all prioritize some minimum set of work to get manual triggers to a good place, and then release this new one._
+
+Kevin: _I agree with the overall sentiment - let's pause, priority matrix it and then should it merit sufficient priority, approach it as a fully baked product._
