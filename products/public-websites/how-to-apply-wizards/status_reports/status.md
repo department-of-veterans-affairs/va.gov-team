@@ -1,3 +1,13 @@
+### 9/1 Update
+
+Summary recap of the “synergy” meeting held with Platform reviewers (Mikki/Peggy), BAM 1 & 2 implementation team, Booz Allen implementation team and Public Websites (John, Liz & Danielle):
+
+- Rogers STEM Scholarship team (Amy + Neel) will implement content changes to the Education wizard -- prior to its move to the apply page — ahead of that team’s planned Flipper-managed roll-out launch starting next week through mid-Sept. 
+- Public Websites (John, Liz + Danielle)  will work with Platform (Mikki, Peggy) to finalize the user flow, content changes as required/needed.  (I will schedule a follow-on conversation for us after Labor Day — e.g., to sync on whether there is need for “start over” in wizard and any other open items)
+- Accessibility feedback from Jen S. is ticketed here (#12211) (@Leah Keeler)
+- There will be close product/dev coordination/collaboration between BAM 2 (Education) + BAM 1 (Disability, HLR) as we complete the builds/refinements for staging review, ideally in September.  (Note: @Luke Majewski says the new HLR wizard will go live with the application — they are inextricably bound)
+
+
 ### 8/31 Update
 
 - [Content intake ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13028) was created and John walked/talked Daneille through the project/effort with goal to unify all the work across the Education, Disability wizards as much as possible.
