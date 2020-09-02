@@ -1,7 +1,5 @@
-name: VSP Initiative Release Plan (Draft)
-
-about: Release plan template for VSP products.
-
+name: VSP Initiative Release Plan
+about: Release plan template for VSP products
 title: [Initiative-Name]: Release Plan
 
 ---
