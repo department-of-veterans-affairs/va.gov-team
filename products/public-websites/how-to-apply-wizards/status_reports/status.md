@@ -1,12 +1,19 @@
 ### 9/1 Update
 
-Summary recap of the “synergy” meeting held with Platform reviewers (Mikki/Peggy), BAM 1 & 2 implementation team, Booz Allen implementation team and Public Websites (John, Liz & Danielle):
+Summary recap of the “synergy” meeting held with key players involved in Wizard work across the portfolio [(as captured here)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/status_reports/implentation_tracker.md).  Participants included -- Platform reviewers (Mikki/Peggy), BAM 1 & 2 implementation team, Booz Allen implementation team and Public Websites (John, Liz & Danielle):
 
-- Rogers STEM Scholarship team (Amy + Neel) will implement content changes to the Education wizard -- prior to its move to the apply page — ahead of that team’s planned Flipper-managed roll-out launch starting next week through mid-Sept. 
-- Public Websites (John, Liz + Danielle)  will work with Platform (Mikki, Peggy) to finalize the user flow, content changes as required/needed.  (I will schedule a follow-on conversation for us after Labor Day — e.g., to sync on whether there is need for “start over” in wizard and any other open items)
-- Accessibility feedback from Jen S. is ticketed here (#12211) (@Leah Keeler)
-- There will be close product/dev coordination/collaboration between BAM 2 (Education) + BAM 1 (Disability, HLR) as we complete the builds/refinements for staging review, ideally in September.  (Note: @Luke Majewski says the new HLR wizard will go live with the application — they are inextricably bound)
+- Goals of meeting:
+  - Provide cross-product visibility and updates as there is currently active Wizard work across the portfolio (Education, Disability, eBenefits)
+  - Improve coordination and collaboration to leverage reusable work and Platform components/guidance (Analytics, IA/UX, Content, Accessibility)
+  - Track sequencing of implementation and target launches for awareness
 
+- Meeting notes:
+
+  - Rogers STEM Scholarship team (Amy + Neel) will implement content changes to the Education wizard -- prior to its move to the apply page — ahead of that team’s planned Flipper-managed roll-out launch starting next week through mid-Sept. 
+  - Public Websites (John, Liz + Danielle)  will work with Platform (Mikki, Peggy) to finalize the user flow, content changes as required/needed.  (I will schedule a follow-on conversation for us after Labor Day — e.g., to sync on whether there is need for “start over” in wizard and any other open items)
+  - Accessibility feedback from Jen S. is ticketed here (#12211) (@Leah Keeler)
+  - Analytics has created a "one size fits all" instrumentation data taxonomy for all Wizards.  
+  - There will be close product/dev coordination/collaboration between BAM 2 (Education) + BAM 1 (Disability, HLR) as we complete the builds/refinements for staging review, ideally in September.  (Note: @Luke Majewski says the new HLR wizard will go live with the application — they are inextricably bound)
 
 ### 8/31 Update
 
