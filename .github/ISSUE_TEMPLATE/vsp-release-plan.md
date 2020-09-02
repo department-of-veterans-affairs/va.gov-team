@@ -1,7 +1,7 @@
+---
 name: VSP Initiative Release Plan
 about: Release plan template for VSP products
-title: [Initiative-Name]: Release Plan
-
+title: "[Initiative-Name]: Release Plan"
 ---
 
 ## Guidance
