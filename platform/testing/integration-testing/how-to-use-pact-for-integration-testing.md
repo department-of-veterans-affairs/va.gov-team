@@ -60,10 +60,12 @@ The Pact process can be broken into multiple steps:
 1. vets-website will run unit tests to validate its request and response interactions with vets-api endpoints.
 2. Contracts, also referred to as **pacts** in the Pact framework, are generated from vets-website tests.
 3. The pacts are published to a central location or a broker to be versioned and shared with the provider (vets-api).
-4. The provider (vets-api) runs a rake task to verify the pacts. This verification task replays the requests defined in the pacts against the provider (vets-api) and validates that the actual response matches the expected response.
-5. Results of the verification are published back to the broker.
-6. Builds will depend on successful verification results to deploy.
-7. Future todo: The idea is to integrate the rake verification task into CircleCI as part of the build step 
+3a. When pacts are published to the broker and a contract is changed, a webhook will trigger a pact verification task in CircleCI
+3b. The provider (vets-api) runs a rake task to verify the pacts. This verification task replays the requests defined in the pacts against the provider (vets-api) and validates that the actual response matches the expected response.
+3c. When the verification task completes, results will be pushed back to the broker
+4. Builds will depend on successful verification results to deploy.
+5. When commits are pushed to a branch, CircleCI runs a build workflow (including a pact verification job)
+6. Results of the verification are published back to the broker from CircleCI.
 
 ### Requirements
 For purposes related to integration test coverage for VSP, pacts are currently only required for new endpoints or changes to endpoints. They are relatively similar to rspec tests and the effort to set up provider states on the backend is minimal. PRs related to Pact will go through the standard [code review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/code_review_guidelines.md). Pacts will address the gap in end-to-end integration test coverage.
@@ -395,7 +397,7 @@ test_database_url: postgis://postgres:password@postgres:5432/vets_api_test?pool=
 The verification task can be run at any point in development, but it may be helpful to run frequently to point out failures during development iterations. 
 
 ### How to verify your results
-When the verification task completes, passing (green) and failing (red) interactions will display in the console. See example console output below. Verification status can also be viewed on the broker index page and in the verification matrix (see [broker matrix section](#broker-matrix-and-tagging) below).
+When the verification task completes, passing (green) and failing (red) interactions will display in the console. See example console output below. Verification status can also be viewed on the broker index page and in the verification matrix after commiting a change and CI runs the build workflow. (see [broker matrix section](#broker-matrix-and-tagging) below).
 
 ![](https://i.imgur.com/7scCEhi.png)
 
