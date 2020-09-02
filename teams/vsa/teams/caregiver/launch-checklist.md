@@ -62,7 +62,7 @@
 
 
 
-## Nice to have
+## Nice to have/Backlog
 | Task     | Status |
 | :----------- | ----------- |
 | Signature box redesign | Not started |
