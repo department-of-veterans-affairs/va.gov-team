@@ -7,8 +7,8 @@ Products are built and improved in part through various VA.gov teams, including 
 
 We have an opportunity to share the impact of the things we work on more often.
 Right now, it might be localized to a few people or a given team. 
-That means we may not take advantage of quantitiative results to drive future decision-making. 
-And we it means we may not celebrate the impact we have on Veterans beyond the launch of particular feature.
+That means we may not take advantage of quantitative results to drive future decision-making. 
+And we it means we may not celebrate the impact we have on Veterans beyond the launch of a particular feature.
 
 ## Questions
 - How do we intentionally reflect on the measurable impact of our work? How do we use these lessons to inform our path forward?
