@@ -125,5 +125,74 @@ Please allow 30 minutes between sessions.
 
 ---
 
+### Required information & documentation to submit 21-686c
+#### To add a spouse, you need to know:
+
+Spouse’s:
+- Name
+- Address
+- Social Security number
+- Date of birth
+- Marriage date
+- Place of marriage (state, country, city)
+- Names of former spouses
+
+Applicant’s former spouses: 
+- Names
+- Marriage start and end dates
+- Places marriage started and ended (state, country, city)
+
+**You’ll need documentation:**
+
+IF the marriage was not a religious or civil ceremony OR IF the Applicant lives outside of the U.S. (bases are considered within the U.S.)
+
+What you’ll need:
+- A copy of the original marriage certificate OR
+- An affidavit of the clergyman or magistrate who conducted the marriage ceremony OR
+- Affidavits or certified statements signed by two or more witnesses who attended the marriage ceremony OR
+- The official report from your branch of service showing a marriage happened while you were in service OR
+- Other documents will be considered
+
+Documentation can be a JPEG, JPG, PNG or PDF file.
+
+#### To add a child, you need to know:
+
+Child’s:
+- Name
+- Address
+- Social Security number
+- Date of birth
+- Place of birth (state, country, city)
+
+**You’ll need documentation:**
+
+IF the Applicant lives outside of the U.S. (bases are considered within the U.S.)
+- Birth certificate
+
+IF adding stepchild
+- Birth certificate
+
+IF adding adopted child
+- The final decree of adoption OR
+- The adoptive placement agreement OR
+- The interlocutory decree of adoptions, OR
+- The revised birth certificate
+
+IF adding a child not capable of self-support
+- Medical evidence showing a permanent mental or physical disability existed before his/her 18th birthday, AND
+- A statement from an attending physician showing the nature and extent of the child’s physical or mental impairment
+
+Documentation can be a JPEG, JPG, PNG or PDF file.
+
+#### To remove a dependent you need to know:
+
+Dependent’s:
+- Name
+- Address (if stepchild under 18)
+- Social Security number
+- Date of birth
+
+------
+
 #### Approval
 _Plan approval TBA_
