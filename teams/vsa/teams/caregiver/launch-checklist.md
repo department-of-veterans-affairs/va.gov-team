@@ -13,7 +13,7 @@
 | Incident Response Playbook   | In progress - program team is working on it | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13097) | 
 | Front-End validation for PDF Generation Bug | Not started | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13100) | 
 | Release Online 10-10CG to Public | Not started | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12984) | 
-| Resolve "save in progress" alerts on application | In progress - Sprint 29 |
+| Resolve "save in progress" alerts on application | In progress - Sprint 29 | [GH](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12311)
 | Update Facilities list to have user-friendly labels | In progress - Sprint 29 | [GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13096)
 | Define launch metrics with program team  |In progress - will continue to discusss on Friday calls | 
 | Resolve any [staging review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12276) must-dos | In progress - Sprint 29 |
