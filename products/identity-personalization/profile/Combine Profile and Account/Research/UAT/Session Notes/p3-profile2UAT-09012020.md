@@ -1,8 +1,8 @@
-Participant #:
+Participant #:2
 
 Note Taker:
 
-Date:
+Date: September 1, 2020
 
 
 # Conversation Guide: Profile UAT
@@ -30,10 +30,10 @@ Before we start, a few things I want to mention:
 OK,let's get started.
 
 1. First, can you tell me a little bit about yourself? (If stuck, prompt to ask about service experience, where they live, their work).
-2. Do you currently receive disability compensation or pension payments from the VA?
+2. Do you currently receive disability compensation or pension payments from the VA? NO
   - If not: Do you know if you are eligible to recieve disability compensation or pension payments from the VA?
 3. Can you confirm for me that you have a DS Logon, MyHealtheVet, or ID.me account? 
-4. Do you know your username and password? 
+4. Do you know your username and password? Ajosephfrank@gmail.com
   - If not: Are these readily accessible? Could get them?
   - If the user can not remember or retrieve their login credentials, end the session.
 5. Can you tell me what type of computer you are using today? 
@@ -54,9 +54,9 @@ OK, please share your screen, and then we will get started.
 [Go through this flow with ~3 participants]
 
 - Click on your name in the upper right-hand corner, select profile.
-  - [ ] **UAT TASK:** Confirm that they are LOA3. You'll know that they are because they'll see the profile. If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**. 
-  - [ ] **UAT TASK:** The user's name and military badge will be on the top left.
-  - [ ] **UAT TASK:** Navigation has loaded properly and is showing all sections.
+  - [x] **UAT TASK:** Confirm that they are LOA3. You'll know that they are because they'll see the profile. If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**. 
+  - [x] **UAT TASK:** The user's name and military badge will be on the top left.
+  - [x] **UAT TASK:** Navigation has loaded properly and is showing all sections.
   - [ ] **UAT TASK:** If a user has or is eligible for disability compensation or pension payments  - Direct deposit should shows in the navigation.
   - [ ] **UAT TASK:** If records can't be matched, the correct error is showing. **end the session**
 
@@ -84,52 +84,52 @@ OK, please share your screen, and then we will get started.
 ## Personal and Contact Information - 5 min
 
 - So now we are looking at your profile. Does all of this information look correct?
-  - [ ] **UAT TASK:** Personal and contact information has been pulled in correctly
+  - [x] **UAT TASK:** Personal and contact information has been pulled in correctly
 
 - Go ahead and click on 'How do I update my personal information?'
-  - [ ] **UAT TASK:** FAQ opens up and appears to be formatted correctly.
+  - [x] **UAT TASK:** FAQ opens up and appears to be formatted correctly.
    
 - Next, please click any of the Edit links you see.
-  - [ ] **UAT TASK:** Edit form opens and appears to be formatted correctly.
+  - [x] **UAT TASK:** Edit form opens and appears to be formatted correctly.
   
 - With this form still open, click on another Edit link.
-  - [ ] **UAT TASK:** Required errors are returned.
+  - [x] **UAT TASK:** Required errors are returned.
 
 - Click 'Ok'. Without changing anything in the form, click 'Update'.
-  - [ ] **UAT TASK:** Address saves, edit form closes.
+  - [x] **UAT TASK:** Address saves, edit form closes.
   - [ ] **UAT TASK:** If it takes too long to save, the correct messaging is displayed.
   - [ ] **UAT TASK:** If the address cannot be saved, the required error is returned.
   - [ ] **UAT TASK:** If the address needs to be validated, the correct flow is delivered.
   
 - Click 'Edit' on the same or different section. Click 'Delete'. Just a reminder, we won't actually delete it.
-  - [ ] **UAT TASK:** Correct alert is returned.
+  - [x] **UAT TASK:** Correct alert is returned.
  
 - Click 'Cancel' on the modal. Add any letter to any field - don't worry we won't change any of your information. Click 'Cancel'.
-  - [ ] **UAT TASK:** Correct alert is returned.
+  - [x] **UAT TASK:** Correct alert is returned.
 
 - Click 'Cancel' on the alert. This did not update or change your information in any way.
-  - [ ] **UAT TASK:** Form closes.
+  - [x] **UAT TASK:** Form closes.
   
 - If the participant has any empty fields: Please click on the link 'Please add your...'
-  - [ ] **UAT TASK:** Edit form opens and is formatted correctly.
+  - [x] **UAT TASK:** Edit form opens and is formatted correctly.
   
 - Click 'Cancel'. 
-  - [ ] **UAT TASK:** Form closes.
+  - [x] **UAT TASK:** Form closes.
 - Next, click on 'How will you use my contact information?'
-  - [ ] **UAT TASK:** FAQ opens up and appears to be formatted correctly.
+  - [x] **UAT TASK:** FAQ opens up and appears to be formatted correctly.
 
 - Next, scroll to the 'Contact email address' section. Click on the link 'Update email address on ...'.
-  - [ ] **UAT TASK:** Link goes to the website where they manage their information
+  - [x] **UAT TASK:** Link goes to the website where they manage their information
  
  ## Military Information - 2 min
  
 - Great. Let's go back to the profile. Now, can you scroll back up to the navigation on the left and click on 'Military information'. Does this information look correct?
-  - [ ] **UAT TASK:** Military Information page shows up and appears to be formatted correctly. 
-  - [ ] **UAT TASK:** The user's service information is pulled in correctly.
+  - [x] **UAT TASK:** Military Information page shows up and appears to be formatted correctly. 
+  - [x] **UAT TASK:** The user's service information is pulled in correctly.
   - [ ] **UAT TASK:** If there is an issue, the correct error is returned.
 
 - Next, will you click on 'What if my military service information doesn't look right?'
-  - [ ] **UAT TASK:** FAQ opens up and appears to be formatted correctly.
+  - [x] **UAT TASK:** FAQ opens up and appears to be formatted correctly.
   
  ## Direct Deposit Information SKIP THIS SECTION IF THEY DO NOT HAVE DISABILITY OR PENSION PAYMENTS - 5 min
  
@@ -172,43 +172,44 @@ OK, please share your screen, and then we will get started.
  ## Account Security - 2 min
  
 - Great. Now, can you scroll back up to the navigation on the left and click on 'Account Security'. 
-  - [ ] **UAT TASK:** Account Security page shows up and appears to be formatted correctly. 
-  - [ ] **UAT TASK:** Identity Verification is checked with correct messaging.
-  - [ ] **UAT TASK:** 2FA shows correct messaging depending on status.
-  - [ ] **UAT TASK:** Terms and Conditions shows correct messaging depending on status.
-  - [ ] **UAT TASK:** Sign in email is showing correct messaging.
+  - [x] **UAT TASK:** Account Security page shows up and appears to be formatted correctly. 
+  - [x] **UAT TASK:** Identity Verification is checked with correct messaging.
+  - [x] **UAT TASK:** 2FA shows correct messaging depending on status.
+  - [x] **UAT TASK:** Terms and Conditions shows correct messaging depending on status.
+  - [x] **UAT TASK:** Sign in email is showing correct messaging.
   
 - (ONLY IF APPLICABLE) Can you click on 'View terms and conditions for medical information'? 
-  - [ ] **UAT TASK:** Link goes to Terms and Conditions page.
+  - [x] **UAT TASK:** Link goes to Terms and Conditions page.
   
 - Let's go back to the profile. Can you click on 'Update sign in email address on ...'?
-  - [ ] **UAT TASK:** Link goes to the website where they manage their information.
+  - [x] **UAT TASK:** Link goes to the website where they manage their information.
   
 - Let's go back to the profile. Can you click on the 'Go to the VA.gov FAQs' link in the blue box?
-  - [ ] **UAT TASK:** Link goes to the FAQ page.
+  - [x] **UAT TASK:** Link goes to the FAQ page.
   
  ## Connected Apps - 5 min
  
 - Great. Let's go back to the profile. Now, can you scroll back up to the navigation on the left and click on 'Connected Apps'. 
-  - [ ] **UAT TASK:** Connected apps page shows up and appears to be formatted correctly. 
+  - [x] **UAT TASK:** Connected apps page shows up and appears to be formatted correctly. 
   - [ ] **UAT TASK:** The correct page is showing for if a Veteran has connected apps vs no connected apps. (Will most likely have no connected apps)
-  - [ ] **UAT TASK:** If there is an error retrieving apps, the correct error is returned.
+  error is showing, we don't know why
+  - [x] **UAT TASK:** If there is an error retrieving apps, the correct error is returned.
   
 ### If they DON'T have connected apps
 - Can you click on the link that says 'Apple Health'?
-  - [ ] **UAT TASK:** Link goes to the Apple Health page.
+  - [x] **UAT TASK:** Link goes to the Apple Health page.
   
 - Great, let's go back to the profile. Can you click on the link that says 'iBlueButton'?
-  - [ ] **UAT TASK:** Link goes to the iBlueButton page.
+  - [x] **UAT TASK:** Link goes to the iBlueButton page.
   
 - Great, let's go back to the profile. Can you click on the link that says 'MyLinks'?
-  - [ ] **UAT TASK:** Link goes to the MyLinks page.
+  - [x] **UAT TASK:** Link goes to the MyLinks page.
   
 - Great, let's go back to the profile. Can you click on 'How do I connect a third-party app to my profile'?
-  - [ ] **UAT TASK:** FAQ opens and appears to be formatted correctly. 
+  - [x] **UAT TASK:** FAQ opens and appears to be formatted correctly. 
   
 - Can you click on the 'frequently asked questions' link in the blue box?
-  - [ ] **UAT TASK:** Links to the FAQ page. 
+  - [x] **UAT TASK:** Links to the FAQ page. 
   
 ### If they DO have connected apps
 - Can you click on the link that says 'Learn about Apple Health'?
@@ -245,10 +246,10 @@ OK, please share your screen, and then we will get started.
 ## If time allows
 
 - Can you take your browser window and make it the size of a phone?  Now in this view can you go to the personal and contact information page?
-  - [ ] **UAT TASK:** Mobile menu appears and is operating correctly.
+  - [x] **UAT TASK:** Mobile menu appears and is operating correctly.
   
 - Go ahead and scroll through this page.
-  - [ ] **UAT TASK:** Mobile menu is sticky. 
+  - [x] **UAT TASK:** Mobile menu is sticky. 
 
 ## Post-Task Interview - 1 minutes
 
