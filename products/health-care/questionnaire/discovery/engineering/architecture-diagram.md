@@ -26,7 +26,7 @@ As of Sept 2nd, the Lighthouse team is looking into how to solve the Cerner inte
 
 The Vets APi will use an exchange of JWT to create a secure connection.
 
-These endpoints use the FHIR spec to communicate. We plan on using the [questionnaire](https://www.hl7.org/fhir/questionnaire.html) to create [QuestionnaireResponses](https://www.hl7.org/fhir/questionnaireresponse.html) that will take the form of JSON Objects, that looks like: 
+These endpoints use the FHIR spec to communicate. We plan on using the [questionnaire](https://www.hl7.org/fhir/questionnaire.html) to create [QuestionnaireResponses](https://www.hl7.org/fhir/questionnaireresponse.html) that will take the form of JSON Objects, that looks like this example object, note that not every field is required: 
 
 ```js
 {
