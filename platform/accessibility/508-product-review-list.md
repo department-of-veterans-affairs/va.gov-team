@@ -814,7 +814,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### GI Bill Estimate Your Benefits
 
-**Audit Status:** _In user testing._<br/>
+**Audit Status:** _Staging review completed. Ready for full VSP audit._<br/>
 
 **Open issues**
 
@@ -824,7 +824,6 @@ Back to [Table of Contents](#table-of-contents)
 **Opened:** June 10, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER]: GIBCT EYB - IE11 MUST announce the updated live region after users press the Update benefits button - #11300](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11300)<br/>
 **Opened:** July 16, 2020 | **Severity:** 508-defect-2 - **_Serious_**
-- [[KEYBOARD]: GIBCT EYB - Skip to your estimated benefits link MUST work in all browsers - #11307](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11307)<br/>
 **Opened:** July 16, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[COGNITION]: GIBCT School Locations - Tables SHOULD be responsive when the new component is ready - #11055](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11055)<br/>
 **Opened:** July 8, 2020 | **Severity:** 508-defect-3 - **_Minor_**
