@@ -942,8 +942,6 @@ Back to [Table of Contents](#table-of-contents)
 
 * [#8975 [FOCUS MANAGEMENT]: Focus outline SHOULD be consistent - individual nav links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8975)<br/>**Staging** | **Opened:** May 11, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
 
-* [#8977 [SCREENREADER]: CONSIDER removing aria-label from the individual menu links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8977)<br/>**Staging** | **Opened:** May 11, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
-
 Back to [Table of Contents](#table-of-contents)
 
 ---
