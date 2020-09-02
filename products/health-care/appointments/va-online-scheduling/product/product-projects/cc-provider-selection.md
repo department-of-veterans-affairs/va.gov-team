@@ -7,8 +7,13 @@ Existing source for data - Provider Profile Management System (contains the comm
 ## Primary hurdles with PPMS:
 1. Data reliability & performance - verifying metrics with Facility Locator team based on their experience
     - Some of this performance may improve with an upcoming release from PPMS in Nov that makes a single call for single providers and group providers
-2. Duplication of care type results - due to...
-3. Mapping of type of care between PPMS and Health Service Taxonomy (no consisting mapping)
+2. Duplication of providers
+    - Providers are submitted by multiple networks and currently vets-api de-dupes them
+    - Providers can sometimes be listed in multiple locations for different days of the week
+3. Mapping of type of care between PPMS and Health Service Taxonomy
+    - PPMS has a service type code for each provider and we do not have a mapping of these types to the VAOS/Lighthouse Community Care types of care
+    - The PPMS api is limited to searching across 4 (or 5) types, but a VAOS/Lighthouse type of care might map to more PPMS types than that
+    - FL team may be working on this mapping with PPMS currently
 
 ## Technical options for using PPMS for data
 - Go to PPMS directly
