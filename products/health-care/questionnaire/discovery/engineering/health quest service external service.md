@@ -10,19 +10,29 @@ health questionaire clipboard service
 
 ## Integration Endpoints
 
-endpoints for the integration
+```
+https://veteran.apps.va.gov/appointments/v1/patients/1012845331V153043/appointments?endDate=2020-07-02T08:00:00Z&pageSize=0&startDate=2020-06-02T07:00:00Z&useCache=false
+```
 
 ## Required Configuration
 
-what config is required for this service?
+The same type of keys that VAOS uses. These are put into the config/settings.yml in vets.api. A seperate setting from what VAOS uses has been defined as follows. These settings don't connect to anything in the development environment.
+
+```
+hqva_mobile:
+  url: 'https://veteran.apps.va.gov'
+  mock: false
+  key_path: /fake/client/key/path
+  timeout: 15
+```
 
 ## Known External Dependencies
 
-other dependencies this service relies on
+none
 
 ## Troubleshooting
 
-troubleshooting steps to go through
+run the tests using rspec on the modules/health_quest/spec directory
 
 ## Outage Status and Maintenance Windows
 
@@ -33,4 +43,4 @@ troubleshooting steps to go through
 ## Contacts
 | Role          | Name               | E-mail                     |
 |---------------|--------------------|----------------------------|
-| a role        | sample            | sample@sample.com           |
+| Developer     | Laurence Guild     | laurence.guild@va.gov      |
