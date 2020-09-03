@@ -67,11 +67,12 @@ Please open the VA mobile app from the homescreen of this prototype and sign in.
 
 Now that you are signed in, I’m going to ask you to spend a minute looking at the home screen of your app. Please don’t click, but you can scroll.
 - What questions do you have about what you see here?
+- In your own words, what is this screen telling you?
 
 **Things to watch for & follow up on if participant brings it up**
-- Does the participant react openly to thumbprint sign in? Is the reaction positive or negative?
-- Does the participant scroll to the bottom of the homepage?
-- Does the participant react to the homescreen cards?
+- _Does the participant react openly to thumbprint sign in? Is the reaction positive or negative?_
+- _Does the participant scroll to the bottom of the homepage?_
+- _Does the participant react to the homescreen cards?_
 
 # Profile tasks and discussion (8 minutes)
 **Pre-task questions**
@@ -107,14 +108,17 @@ If the participant cannot find something:
 **Post-task questions**
 - Let's talk about the things we just looked at together. 
   - Going back to your personal & contact information:
+    - Is the information on this page what you expect it to be?
     - Does it feel like anything is missing here?
-    - If you could add 1 thing here, what would it be? Why?
+    - Would you add anything to this screen? Why?
   - Going back to your direct deposit information: 
+    - Is the information on this page what you expect it to be?
     - Does it feel like anything is missing here?
-    - If you could add 1 thing here, what would it be? Why?
+    - Would you add anything to this screen? Why?
   - Going back to letters and documents: 
+    - Is the information on this page what you expect it to be?
     - Does it feel like anything is missing here?
-    - If you could add 1 thing here, what would it be? Why?
+    - Would you add anything to this screen? Why?
 
 # Claims tasks and discussion (8 minutes)
 Can you navigate to where you would expect to see your claims or appeals?
