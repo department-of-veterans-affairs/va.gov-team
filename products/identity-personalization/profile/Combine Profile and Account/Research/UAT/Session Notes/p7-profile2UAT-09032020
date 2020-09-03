@@ -4,6 +4,8 @@ Note Taker:
 
 Date:
 
+Military information didn't show up, Erik is looking into this
+
 # Conversation Guide: Profile UAT
 
 ### Project-specific setup
@@ -32,7 +34,7 @@ OK,let's get started.
 2. Do you currently receive disability compensation or pension payments from the VA?
   - If not: Do you know if you are eligible to recieve disability compensation or pension payments from the VA?
 3. Can you confirm for me that you have a DS Logon, MyHealtheVet, or ID.me account? 
-4. Do you know your username and password? gordon@rusticturtle.com
+4. Do you know your username and password?
   - If not: Are these readily accessible? Could get them?
   - If the user can not remember or retrieve their login credentials, end the session.
 5. Can you tell me what type of computer you are using today? 
@@ -120,7 +122,7 @@ OK, please share your screen, and then we will get started.
 - Next, scroll to the 'Contact email address' section. Click on the link 'Update email address on ...'.
   - [x] **UAT TASK:** Link goes to the website where they manage their information
  
- ## Military Information - 2 min
+ ## Military Information - 2 min, didn't show
  
 - Great. Let's go back to the profile. Now, can you scroll back up to the navigation on the left and click on 'Military information'. Does this information look correct?
   - [ ] **UAT TASK:** Military Information page shows up and appears to be formatted correctly. 
@@ -189,13 +191,13 @@ OK, please share your screen, and then we will get started.
  ## Connected Apps - 5 min
  
 - Great. Let's go back to the profile. Now, can you scroll back up to the navigation on the left and click on 'Connected Apps'. 
-  - [ ] **UAT TASK:** Connected apps page shows up and appears to be formatted correctly. 
-  - [ ] **UAT TASK:** The correct page is showing for if a Veteran has connected apps vs no connected apps. (Will most likely have no connected apps)
+  - [x] **UAT TASK:** Connected apps page shows up and appears to be formatted correctly. 
+  - [x] **UAT TASK:** The correct page is showing for if a Veteran has connected apps vs no connected apps. (Will most likely have no connected apps)
   - [ ] **UAT TASK:** If there is an error retrieving apps, the correct error is returned.
   
 ### If they DON'T have connected apps
 - Can you click on the link that says 'Apple Health'?
-  - [ ] **UAT TASK:** Link goes to the Apple Health page.
+  - [x] **UAT TASK:** Link goes to the Apple Health page.
   
 - Great, let's go back to the profile. Can you click on the link that says 'iBlueButton'?
   - [ ] **UAT TASK:** Link goes to the iBlueButton page.
