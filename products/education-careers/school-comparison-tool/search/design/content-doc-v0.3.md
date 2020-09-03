@@ -85,7 +85,7 @@ State { dropdown with full state names; ALL is default value }
 
 Warnings and school closings ([Learn more]()} { modal link }  
 
-- [ ] Exclude results with warnings or school closings { default selection = none } { checkbox } 
+- [ ] Exclude results with warnings or closings { default selection = none } { checkbox } 
 
 { Preferred provider filter: }
 
