@@ -1,3 +1,5 @@
+# Authenticated Experience Sprint Objectives: Sprints 31 – 40
+
 - [Sprint 31]()
 - [Sprint 32]()
 - [Sprint 33]()
@@ -9,22 +11,22 @@
 - [Sprint 39]()
 - [Sprint 40]()
 
-## Sprint 31 (5/6 - 5/19)
+## Sprint 31 (9/23 - 10/6)
 
-## Sprint 32 (5/20 – 6/2)
+## Sprint 32 (10/7 – 10/20)
 
-## Sprint 33 (6/3 – 6/16)
+## Sprint 33 (10/21 – 11/3)
 
-## Sprint 34 (6/17 – 6/30)
+## Sprint 34 (11/4 – 11/17)
 
-## Sprint 35 (7/1 – 7/14)
+## Sprint 35 (11/18 – 12/1)
 
-## Sprint 36 (7/15 – 7/28)
+## Sprint 36 (12/2 – 12/15)
 
-## Sprint 37 (7/29 – 8/11)
+## Sprint 37 (12/16 – 12/29)
 
-## Sprint 38 (8/12 – 8/25)
+## Sprint 38 (12/30 – 1/12)
 
-## Sprint 39 (8/26 – 9/8)
+## Sprint 39 (1/13 – 1/26)
 
-## Sprint 40 (9/9 – 9/22)
+## Sprint 40 (1/27 – 2/9)
