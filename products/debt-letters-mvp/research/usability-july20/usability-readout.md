@@ -21,7 +21,7 @@ The Debt Letters MVP is a new tool that allows Veterans to view their debts and 
 User Research Goal
 ==================
 
-This study was meant to reveal both successes and pain points as Veterans navigate the new "Manage your VA debt" tool
+This study was meant to reveal both successes and pain points as Veterans the new "Manage your VA debt" tool
 
 -   Investigate pain points that exist around Veterans' debts with VA
 
@@ -392,6 +392,9 @@ Usability Key Takeaways in Depth
 
 -   Several participants didn't know what "Chapter 33" or "Chapter 34" were
 
+-   Several participants attempted to use the "Manage your VA debt" breadcrumb to return to the debt list page
+
+
 Recommendations
 ===============
 
@@ -410,6 +413,8 @@ Recommendations
 -   Adjust the debt cards to more closely pair status and date updated.
 
 -   Provide a clearer navigation back to the debt list from the letter download page.
+
+    -    Address issues with breadcrumbs
 
 ### Long term:
 
