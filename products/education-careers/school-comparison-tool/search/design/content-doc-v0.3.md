@@ -2,14 +2,14 @@
 
 ## Landing page
 
-{ Filters below have copy updates }  
+{ Landing page filters below have copy updates }  
 
 Select an institution { Radio buttons }  
  * Schools only { Default selection }
  * Employers (On-the-job training [OJT], apprenticeships)  
- * VET TEC training providers only [(Learn more)]() { modal link }  
+ * VET TEC training providers only ([Learn more]()) { modal link }  
  
- Will you be taking all your classes online? This determines your estimated housing allowance. [Learn more]() { Modal link } { Radio buttons }  
+ Will you be taking all your classes online? This determines your estimated housing allowance. ([Learn more]()) { Modal link } { Radio buttons }  
  * Yes
  * No { Default selection }  
  
@@ -31,7 +31,7 @@ Country { dropdown } { ALL is default value }
 
 State { dropdown with full state names; ALL is default value }   
 
-Warnings and school closings ([Learn more]() { modal link }  
+Warnings and school closings ([Learn more]()) { modal link }  
 
 - [ ] Exclude results with warnings or school closings { checkbox }  
 
@@ -61,7 +61,7 @@ Which GI Bill benefit do you want to use? ([Learn more]()) { dropdown, condition
 
 Your housing allowance { additional information component }
 
- Will you be taking all your classes online? This determines your estimated housing allowance. [Learn more]() { Modal link } { Radio buttons }  
+ Will you be taking all your classes online? This determines your estimated housing allowance. ([Learn more]()) { Modal link } { Radio buttons }  
  * Yes
  * No { Default selection }  
  
@@ -81,11 +81,11 @@ Country { dropdown } { ALL is default value }
 
 State { dropdown with full state names; ALL is default value }  
 
-Warnings and school closings ([Learn more]() { modal link }  
+Warnings and school closings ([Learn more]()} { modal link }  
 
 - [ ] Exclude results with warnings or school closings { default selection = none } { checkbox } 
 
-- [ ] Preferred provider { star icon} [Learn more]() { modal link } { default selection = none } { checkbox }  
+- [ ] Preferred provider { star icon} ([Learn more]()) { modal link } { default selection = none } { checkbox }  
 
 Filter by provider { Checkboxes }
  
