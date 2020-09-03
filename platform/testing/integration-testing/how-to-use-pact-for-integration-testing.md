@@ -28,7 +28,6 @@
     + [VCR](#vcr)
   * [2. Adjust developer configurations](#2-adjust-developer-configurations)
     + [Configure the `pact_uri/broker_url`](#configure-the--pact-uri-broker-url-)
-    + [Optionally comment out publish flag](#optionally-comment-out-publish-flag)
   * [3. Run the verification task](#3-run-the-verification-task)
     + [Important: Docker workflow settings](#important--docker-workflow-settings)
   * [4. Verify your results](#4-verify-your-results)
@@ -54,8 +53,8 @@ Pact satisfies the need for end-to-end integration tests between  `vets-website`
 * **Interaction** -- A request and response pair.
 * **Broker** -- Central location where pacts are hosted. The Pact broker is currently hosted on [Heroku](https://vagov-pact-broker.herokuapp.com/). You can view the interactions per endpoint and the verification matrix from the broker index.
 
-
 ### Requirements
+
 For integration test coverage, Pact is required for new endpoints or changes to endpoints. PRs related to Pacts will go through the standard [code review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/code_review_guidelines.md). 
 
 ### Process
@@ -293,7 +292,6 @@ In this case, using a matcher, like `eachLike`, would not be appropriate.
 
 
 ### 1. Set up a provider state
-
 Once frontend has pushed a pact to the broker, a corresponding provider state will need to be defined (even if not necessary) on the backend.
 
 *Important: If a provider state is not necessary, please define no_op inside of a wrapping provider state block.*
@@ -336,12 +334,6 @@ rake pact:verify:at[https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.go
 ```
 *Note: If you are blocked by the frontend, you can [point to a local file path](#using-a-local-file-if%20blocked-by-frontend)*
 
-#### Optionally comment out publish flag
-
-During development, if you don't want to publish the results to the broker, you can temporarily commment out the [publication flag](https://github.com/department-of-veterans-affairs/vets-api/pull/4612/files#diff-79dfb3765c26716457a005b9d343a160R34). 
-
-Uncomment the publication flag once work is complete.
-
 ### 3. Run the verification task
 
 By running the pact rake task (`bundle exec rake pact:verify or make pact`), dynamic rspec tests will spin up to validate expected responses defined per pact.
@@ -365,7 +357,7 @@ test_database_url: postgis://postgres:password@postgres:5432/vets_api_test?pool=
 The verification task can be run at any point in development, but it may be helpful to run frequently to point out failures during development iterations. 
 
 ### 4. Verify your results
-When the verification task completes, passing (green) and failing (red) interactions will display in the console. See example console output below. Verification status can also be viewed on the broker index page and in the verification matrix (see [broker matrix section](#broker-matrix-and-tagging) below).
+When the verification task completes, passing (green) and failing (red) interactions will display in the console. See example console output below. Verification status can also be viewed on the broker index page and in the verification matrix after commiting a change and CI runs the build workflow. (see [broker matrix section](#broker-matrix-and-tagging) below).
 
 ![](https://i.imgur.com/7scCEhi.png)
 
@@ -374,8 +366,6 @@ When the verification task completes, passing (green) and failing (red) interact
 When your verification status is all green, please reconfigure your changes from step 2 in the by doing the following:
 1. Reconfigure the `pact_broker_base_url`
 2. Remove the temporary `pact_uri` definition. 
-3. Revise/uncomment the publication flag.   
-
 
 ### Broker matrix and tagging
 The verification matrix acts as a success metric for verification status (green or red).  See the [search example](https://vagov-pact-broker.herokuapp.com/matrix/provider/VA.gov%20API/consumer/Search) in the pact broker for a provider verification matrix. 
