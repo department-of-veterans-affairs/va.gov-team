@@ -805,7 +805,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### GI Bill Estimate Your Benefits
 
-**Audit Status:** _Staging review completed. Ready for full VSP audit._<br/>
+**Audit Status:** _Staging review completed. VSP post-launch audit underway as of September 3, 2020._<br/>
 
 **Open issues**
 
