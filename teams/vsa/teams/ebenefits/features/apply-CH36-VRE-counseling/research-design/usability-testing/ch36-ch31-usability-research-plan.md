@@ -9,11 +9,11 @@
 Content to come...
 
 #### Background
-The Chapter 31 program, Veteran Readiness and Employment (VR&E), provides counseling and planning to eligible Veterans and service members with **service-connected disabilities** to help them prepare for, obtain, and maintain suitable employment or achieve independence in daily living.
+The Chapter 31 program (CH31), Veteran Readiness and Employment (VR&E), provides counseling and planning to eligible Veterans and service members with **service-connected disabilities** to help them prepare for, obtain, and maintain suitable employment or achieve independence in daily living.
 
-The Chapter 36 program, Personalized Career Planning and Guidance (PCPCG), provides career, educational and adjustment counseling to Veterans, service members or **their qualifying dependents.** 
+The Chapter 36 program (CH36), Personalized Career Planning and Guidance (PCPCG), provides career, educational and adjustment counseling to Veterans, service members or **their qualifying dependents.** 
 
-The eBenefits team is moving Chapter 31 (CH31) and Chapter 36 (CH36) features from the eBenefits site to VA.gov. Primarily, this involves rebuilding the digital versions of VA forms 28-1900 (CH31) and 28-8832 (CH36). These will be reconstructed on VA.gov using the site's form system conventions. CH31 and CH36 benefits overlap a bit, creating confusion for some users. At VBA's request gating/screening wizards have been developed to help Veterans decide which form is best for them.
+The eBenefits team is moving Chapter 31 and Chapter 36 features from the eBenefits site to VA.gov. Primarily, this involves rebuilding the digital versions of VA forms 28-1900 and 28-8832 (CH36). These will be reconstructed on VA.gov using the site's form system conventions. CH31 and CH36 benefits overlap a bit, creating confusion for some users. At VBA's request gating/screening wizards have been developed to help Veterans decide which form is best for them.
 
 #### Research questions
 - Where and how (what links/navigation) do participants expect to find...?
