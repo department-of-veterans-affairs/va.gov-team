@@ -8,7 +8,7 @@
 - [Sprint 36](#sprint-36-122--1215)
 - [Sprint 37](#sprint-37-1216--1229)
 - [Sprint 38](#sprint-38-1230--112)
-- [Sprint 39]()
+- [Sprint 39](#sprint-39-113--126)
 - [Sprint 40]()
 
 ## Sprint 31 (9/23 - 10/6)
