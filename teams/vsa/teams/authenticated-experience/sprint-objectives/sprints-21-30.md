@@ -386,4 +386,8 @@ Dev
 
 **Direct deposit**
 
-- Continue direct deposit discovery #11545
+- [BE] Continue direct deposit discovery #11545
+
+**Maybe: Preferred facility**
+
+- [BE] Discovery - enabling 'Preferred Facility' selection in 'My VA Dashboard' / VA Profile #12875
