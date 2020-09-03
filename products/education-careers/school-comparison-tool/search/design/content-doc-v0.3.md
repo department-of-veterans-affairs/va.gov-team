@@ -91,5 +91,5 @@ Warnings and school closings ([Learn more]()} { modal link }
 
 - [ ] Preferred provider { star icon} ([Learn more]()) { modal link } { default selection = none } { checkbox }  
 
-Filter by provider { Checkboxes }
+Filter by provider { default selection = none } { Checkboxes }
  
