@@ -389,7 +389,7 @@ What's the best way for us to contact you? { radio buttons }
   - State (*Required) { dropdown with full state names, prefill if present. If Country selected is not United States, State is a text field and is not required. }  
   - Postal code (*Required) { text field, zip validation (5- or 10-digit string), prefill if present }  
         
-##### Other contact information { sub-head }  
+#### Other contact information { sub-head }  
 
 Please enter your contact details below so we can get in touch with you, if necessary.
 
