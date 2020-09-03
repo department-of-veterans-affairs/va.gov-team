@@ -55,7 +55,9 @@ Your military details { additional information component }
 
 What's your military status? { dropdown, conditional field may appear below }
 
-Which GI Bill benefit do you want to use? ([Learn more]()) { dropdown, conditional fields may appear below }  
+Which GI Bill benefit do you want to use? ([Learn more]()) { dropdown, conditional fields may appear below } 
+
+Cumulative Post-9/11 active-duty service [(Learn More)]() { dropdown }  
 
 { end additional info component }
 
