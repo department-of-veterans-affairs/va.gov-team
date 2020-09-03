@@ -13,6 +13,10 @@
 
 ## Sprint 31 (9/23 - 10/6)
 
+### Profile 2.0
+
+- Post launch/Up next: 100% and monitoring, 508 review, post launch review with platform team, any post-launch enhancements
+
 ## Sprint 32 (10/7 – 10/20)
 
 ## Sprint 33 (10/21 – 11/3)
