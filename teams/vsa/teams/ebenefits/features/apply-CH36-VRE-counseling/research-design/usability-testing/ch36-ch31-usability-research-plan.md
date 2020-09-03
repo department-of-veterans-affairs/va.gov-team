@@ -86,8 +86,6 @@ The current timeline is pending...
 
 - [CH36 mockups--NOTE: Superceded by prototypes](https://xd.adobe.com/view/d37b343f-1a48-4aee-782d-2a78d6109478-a54a/)
 
-- [CH36/CH31 wizard flowcharts](https://xd.adobe.com/view/879cf230-f3ce-4204-79ba-c3453b0bcc09-f1ad/)
-
 - [CH36 prototype](https://preview.uxpin.com/2dbde8d15bf667f5c584fe4a8a6d011cf9f0a14d#/pages/132088555)
 
 - [CH36 form flow diagram](https://xd.adobe.com/view/0bfd10fc-c184-4d65-bee2-26498f854cfc-5eae/)
@@ -103,12 +101,14 @@ The current timeline is pending...
 - [Research synthesis]() (Available at conclusion of research.)
 
 ### References
+
+- [Personalized Career Planning & Guidance: Inbound User Flows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/ch36-user-flows.md)
  
- - [CH36 user flow diagrams]() (Available soon.)
+- [CH36 user flow diagrams](https://xd.adobe.com/view/f2e4cdec-1fa1-42ab-5cbf-e2a3c74c6663-84d5/)
  
- - [CH31 user flow diagrams]() (Available soon.)
+- [CH31 user flow diagrams](https://xd.adobe.com/view/14859995-b720-4745-9fb8-35ac1edb00a5-41d6/)
  
- - [CH36 & CH31 wizard flowcharts & user flow diagrams]() (Available soon.)
+- [CH36/CH31 wizard flowcharts](https://xd.adobe.com/view/879cf230-f3ce-4204-79ba-c3453b0bcc09-f1ad/)
  
 ---
 
