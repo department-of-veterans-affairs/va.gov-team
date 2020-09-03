@@ -103,7 +103,11 @@ I’m going to ask you to do some things for me in the app. I’m not testing yo
   
 If the participant cannot find something: 
 - It's alright, let's move on to the next thing I'd like to talk to you about, or:
-- Can you tell me a little bit about what you're thinking? I'd love to hear from you about where you'd expect to see this information. 
+- Can you tell me a little bit about what you're thinking? I'd love to hear from you about where you'd expect to see this information.
+
+**Things to watch for & follow up on if participant brings it up**
+- _Is anything difficult to find?_
+- _Is the participant using the 'Back' button alright, or getting stuck?_
 
 **Post-task questions**
 - Let's talk about the things we just looked at together. 
