@@ -2,7 +2,7 @@
 
 - [Sprint 31](#sprint-31-923---106)
 - [Sprint 32](#sprint-32-107--1020)
-- [Sprint 33]()
+- [Sprint 33](#sprint-33-1021--113)
 - [Sprint 34]()
 - [Sprint 35]()
 - [Sprint 36]()
