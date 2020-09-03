@@ -22,7 +22,9 @@ The eBenefits team is moving Chapter 31 and Chapter 36 features from the eBenefi
 - What challenges prevent users from quickly and accurately completing the forms?
 
 #### Hypotheses
-Content to come...
+- Users will have some difficulty locating the landing pages/logins for the CH31 and CH36 forms on VA.gov
+- The language in the wizards may confuse some users as to which form is correct for a given scenario.
+- The forms themselves will be very easy for users to complete.
 
 ### Method
 We will engage in moderated usability testing conducted remotely using Zoom. Remote testing is currently the only viable option, but the method should yield acceptable observations on which to base findings. Participants will be recruited using Perigean. These users will be provided links to UXPin prototypes to review the features. The sessions will be recorded, and observers and notetakers may be in attendance.
