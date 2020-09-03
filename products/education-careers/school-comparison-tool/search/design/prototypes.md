@@ -2,6 +2,7 @@
 
 ## InVision Prototypes
 
+[GIBCT Search-Filters v0.3 - Desktop](https://bahdigital.invisionapp.com/share/PVIAEVAXHK7) Post-usability testing updates to search and filters.
 
 [GIBCT Search-Filters v0.2 - Desktop](https://bahdigital.invisionapp.com/share/MKIAEO0EX8T) - Update for the additional copy in the search results page to address the accessibility issue. 
 
