@@ -2,28 +2,55 @@
 
 August 31, 2020
 
-# Introduction (5 minutes)
-Thank you for joining us today. My name is Bridget and I also have some colleagues on the line observing and taking notes.
+# Introduction (2 minutes)
+Thank you for joining us today. My name is Bridget and I have some colleagues on the line observing and taking notes.
 
-The VA is building a mobile app. I am working with VA to ensure the app is easy to use and clear so it will best serve and meet the needs of Veterans like yourself. Today, I’d like to share with you a prototype of the mobile app, and see what you think about it. 
-- First, I’d like to ask you to complete some tasks for me within the app so we can learn how we can improve the app's design. In doing this, I'll ask you to navigate to some specific screens and read them, and tell me what you think.    
+The VA is building a mobile app. I am working with VA to ensure the app is easy to use and clear so it will best serve and meet the needs of Veterans like you. Today, I’d like to share with you a prototype of the mobile app, and see what you think about it. 
+- First, I’d like to ask you to complete some tasks for me within the app so we can learn how we can improve the app's design. 
 - Then, I’d like to give you control over where we go, and talk more generally about how you feel about what you see in the app -- what you’re excited about, what you think is missing, etc. 
 
 Sound good? 
 
-Before we start, there are a few things I want to mention:
+# Logistics (2 minutes) 
+A couple other things I'd like to mention before we begin: 
+
 - Our conversation should take ~45-50 minutes. 
-- My goal is to help VA build a clear, usable app. I will not be offended by any opinions you express - please be as honest as you feel comfortable being.
+- My goal is to help VA build a usable app. I will not be offended by any opinions you express - please be as honest as you feel comfortable being.
+- You'll be interacting with a prototype. This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be tapable, and some will not. None of your actions will affect your actual VA information or benefits.
 - Lastly, if it’s alright with you, I would like to record our conversation. We use the recordings to confirm that we have captured your opinions accurately & we delete them after we complete analysis. Are you comfortable if I record the screen and audio?
   - If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
 Those are all the logistics. Do you have any questions for me before we get started?
 
+# Tech Set Up (8 minutes)
+Before we start, I want to make sure we are ready to go with technology for this session:
+- Can you confirm for me what type of device you're using to join today?
+    - Great, that helps me troubleshoot with you if we run into any problems. 
+- I'd not like to walk you through how to share your screen with me via Zoom from your device: 
+    - When you are inside the Zoom application on your phone, you'll see a few buttons at the bottom: Audio, Video, Share Content, Participants, and three dots over to the right. 
+    - If you tap on those dots, you'll also see a function called "Chat". 
+    - If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. 
+    - The ones that will be important for us today are "Chat" and "Share Content." 
+Any questions?
+
+- Now I'd like you to share your screen with me!
+    - Tap on the arrow that says "Share content" and then hit "share screen". Select that button. 
+    - You should be prompted with an option to share "Zoom" and then "Screen". Then select "Start Broadcast". 
+    - If you see any additional prompts please read them aloud and I will help.
+    - Ok, tap anywhere on the screen to go back to the Zoom application.
+
+Great, now I can see your phone screen! We are going to use this prototype in our session today.
+
+Backup plan if they cannot figure out how to share screen:
+- Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "drive". You will tell me what to do, what to tap, on, etc. Does that sound ok?
+[Share your screen]. Can you confirm if you can see my screen?
+
+Great. Now we're really ready to begin!
+
 # Warm up (5 minutes)
 First I’d love to want to learn more about yourself and your experience with VA. 
 - What branch of the military did you serve in and when was your period or periods of service?
-- What type of phone do you use?
-  - Do you use your phone to manage your VA benefits? If so, how often?
+- Do you use your phone to manage your VA benefits? If so, how often?
 - You indicated you are currently going through the claims process with VA - is that right?
   - Can you tell me about the last time you used eBenefits or VA.gov to file, check up on, or otherwise manage your claim?
   - Was it on desktop, tablet, or mobile?
@@ -31,16 +58,18 @@ First I’d love to want to learn more about yourself and your experience with V
 
 Thank you for sharing all that.
 
+- Alright, I am sending you a link in the chat. Can you navigate to the Chat button, and tap on the link to open it? [Participant opens prototype]
+
+Great, I can see your screen. Before we get started I just want to remind you that this is a prototype - not everything is tapable and it's a demo of what is to come. 
+
 # Biometric sign in and homescreen (5 minutes)
 Please open the VA mobile app from the homescreen of this prototype and sign in. 
 
 **Things to watch for**
-- Does the participant react openly to biometric sign in? Is the reaction positive or negative?
+- Does the participant react openly to thumbprint sign in? Is the reaction positive or negative?
 
 Now that you are signed in, I’m going to ask you to spend a minute looking at the home screen of your app. Please don’t click, but you can scroll.
-- What questions do you have about what you see here?
-
-I’m going to ask you to do some things for me in the app. I’m not testing you or your ability, but the prototype! We want to understand if anything isn't clear so we can make it better. 
+- What questions do you have about what you see here? 
 
 # Profile tasks and discussion (8 minutes)
 **Pre-task questions**
@@ -53,22 +82,25 @@ Have you ever looked at or updated information on your VA.gov profile?
   - If you've updated information, what did you update and why?
 - Have you ever downloaded any benefit letters from VA.gov? 
 
+I’m going to ask you to do some things for me in the app. I’m not testing you or your ability, but the prototype! We want to understand if anything isn't clear so we can make it better. 
+
 **Tasks**
 - **Task 1: Let’s imagine you need to update your mailing address with VA. Where would you go to do that?**
   - Do they locate Personal & Contact information?
   - Do they locate mailing address within the Personal & Contact information screen?
   - Do they locate the edit CTA?
-  - Do they scroll all the way to the bottom?
-- **Task 2: Let's imagine you have direct deposit information on file with VA, and you need to update it. Where would you go to do that?**
+  - Do they scroll all the way to the bottom of the screen?
+- **Task 2: Let's imagine you have direct deposit information on file with VA, and you would like to update it. Where would you go to do that?**
   - Do they locate direct deposit?
-- **Task 3: Let’s imagine you want to download your service benefit letter. Where would you go to do that?**
+- **Task 3: Let’s imagine you want to download a letter or document from VA. Where would you go to do that?**
   - Do they locate VA Letters and Documents?
-  - Do they stumble getting to the download screen for the service benefit letter?
-- **Task 4: Let's imagine you'd like to turn off your biometric sign in for the app. Where would you cick to find that?**
+  - Do they stumble getting to the download screen for a letter?
+- **Task 4: Let's imagine you've run into a problem with the app and you'd like to get help from VA. Where would you go to do that?**
   - Do they locate Settings from the Profile screen?
-  - Do they locate biometric management within the Settings menu?
   
-If the participant cannot find something: It's alright, let's move on to the next thing I'd like to talk to you about.  
+If the participant cannot find something: 
+- It's alright, let's move on to the next thing I'd like to talk to you about, or:
+- Can you tell me a little bit about what you're thinking? I'd love to hear from you about where you'd expect to see this information. 
 
 **Post-task questions**
 - Let's talk about the things we just looked at together. 
@@ -92,6 +124,7 @@ Can you navigate to where you would expect to see your claims or appeals?
 **Tasks**
 - **Task 5: Let's imagine you have a file request from VA for your disability claim, and you want to send in files to VA. What would you do?**
   - Can they locate their disability claim?
+  - If so, how do they get there - do they return to the homepage first?
   - Can they locate their files tab?
   - When they get there, do they press the Upload File button?
 - **Task 6: From here, let’s imagine you want to view the status of your disability claim. Where would you go?**
@@ -108,16 +141,16 @@ Can you navigate to where you would expect to see your claims or appeals?
   - Lastly, the details of your claim - is there anything else you'd like to see here? Why?
 - What about these 3 tabs for Status, Files and Details?
 
-
 Can you navigate back to home? Thank you. 
 
 
-# Free exploration (8 minutes)
+# Free exploration (5 minutes)
 Thank you for letting me ask you to get around the app! Now you're in charge. Feel free to click around the app - anywhere you'd like to go. As you're exploring, I'm here to answer any questions you have. I'd also love to hear what you think if you're comfortable talking out loud as you explore.
 - Do you have any questions for me about anything you see?
 
 I'd like to learn from you a bit about how you feel about everything we've talked about today. 
-- Do you think this mobile app would be useful to you? Why or why not? 
+- Do you think this mobile app would change how you interact with VA?
+    - If yes, how would it change? 
 - Let's imagine again you are talking to a friend who is also a Veteran about this app and you’re telling them about it. What would you say about it?
 - Let's say you could add 1 more thing to this app - what would you add? Why?
 
