@@ -375,6 +375,12 @@ Form 22-10203
 
 ### Chapter Title:  5 of 6:  Personal information  
 
+What's the best way for us to contact you? { radio buttons }  
+- Mail
+- Email
+- Home phone { if selected, make home phone field required }
+- Mobile phone { if selected, make mobile phone field required }  
+
 #### Your address { sub-head }  
   - Country (*Required)  { dropdown, prefill if present } { Default selection is United States. If other than United States selected, State field is not required and not a dropdown. }    
   - Street address (*Required) { text field, prefill if present }  
@@ -391,13 +397,9 @@ Please enter your contact details below so we can get in touch with you, if nece
 - Re-enter email address (*Required) { text field with email validation, prefill if present }
 - Home phone number { text field, phone number validation (10 digit string, Required if "Home phone" is selected, prefill if present }
 - Mobile phone number { text field, phone number validation (10 digit string), Required if "Home phone" is selected, prefill if present  }
-        
-What's the best way for us to contact you? { radio buttons }  
+- [ ] I would like to receive text message updates from VA regarding my GI Bill benefits { if selected and the mobile phone number text field is empty, ignore value in data file }
 
-- Mail
-- Email
-- Home phone { if selected, make home phone field required }
-- Mobile phone { if selected, make mobile phone field required }
+**Note:** Text messages may include updates, status messages, requests to verify school attendance, etc. Message and data rates may apply. 
         
  [ Back | Continue ] { buttons }   
  [Finish this application later]()
