@@ -7,7 +7,7 @@
 - [Sprint 35](#sprint-35-1118--121)
 - [Sprint 36](#sprint-36-122--1215)
 - [Sprint 37](#sprint-37-1216--1229)
-- [Sprint 38]()
+- [Sprint 38](#sprint-38-1230--112)
 - [Sprint 39]()
 - [Sprint 40]()
 
