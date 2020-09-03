@@ -30,6 +30,11 @@
 ---
 
 ### Prototype Changelog
+**August 28, 2020**
+- Prototype revised to address signed-in non-Veteran
+- User info and contact screens renamed to "Claimant's..."
+- Selection screen postitioned after contact info screen
+- [XD Reference diagram](https://xd.adobe.com/view/0bfd10fc-c184-4d65-bee2-26498f854cfc-5eae/)
 
 **August 26, 2020**
 - Wizard screen H2 headers and paragraph text revised 
