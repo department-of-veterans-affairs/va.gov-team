@@ -33,6 +33,7 @@
   * [4. Verify your results](#4-verify-your-results)
   * [5. Remove developer configurations](#5-remove-developer-configurations)
   *  [Broker matrix and tagging](#broker-matrix-and-tagging)
+  *  [CircleCI](#circleci)
 
         
 ## Introduction
@@ -372,3 +373,28 @@ The verification matrix acts as a success metric for verification status (green 
 
 Additionally, each verification run is tagged with the Git branch name and Git SHA in the provider verification column to track provider version details. See details in the [pact_helper](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/pact_helper.rb#L50-L51).
 
+### CircleCI
+A CircleCI config has been implemented to run workflows with various jobs as part of the build for vets-api. Additionally, a separate workflow (pact_verification) is implemented for webhook usage to auto run the pact verification task in CI when contracts are published to the pact broker.  
+
+The webhook is configured for contract changed events (when new or updated contracts are published). This webhook will trigger the pact_verification workflow when the verify_stable_pacts pipeline parameter is set to true. In the latest version of the CircleCI API, v2, the ability to trigger specific jobs is depreciated, so usage of pipeline parameters is the only way to mimic the behavior of triggering a specific job.
+
+If the pacts are coming from a feature branch and the API has not been updated to match the new expectations, verification should be expected to fail. In that case, once the pacts have been published, the BE developers working on updating the API can run the following task during development to verify their changes:
+
+```
+bundle exec rake pact:verify:at[http://your-pact-broker/pacts/provider/PROVIDER/consumer/CONSUMER/version/CONSUMER_VERSION]
+```
+
+The actual URL should point to the pact that was published from the vets-website feature branch. A specific URL might look something like this, where the version is the commit hash on the feature branch that created the new pact:
+
+```
+https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.gov%20API/consumer/HCA/version/d553c678bbdf1963fe3e27250eebc7c17b26fd55
+```
+
+After the vets-api feature branch is merged to master, that pact should be able to pass verification.
+
+
+The CircleCI build for vets-api is still under construction with respect to parallelizing our test suite. Tests currently fail simplecov minimum coverage standards due to processes overriding results from other parallel test processes. A solution is in the works to properly merge simplecov results. 
+
+The pact verification functionality is in working order for developer usage when a commit is pushed or when invoked via webhook from the pact broker during a contract content changed event. 
+
+When the pact verification task runs in CircleCI (via the build or verification workflow), verification results are pushed back to the broker after the workflow completes.
