@@ -85,6 +85,8 @@ Warnings and school closings ([Learn more]()} { modal link }
 
 - [ ] Exclude results with warnings or school closings { default selection = none } { checkbox } 
 
+{ Preferred provider filter: }
+
 - [ ] Preferred provider { star icon} ([Learn more]()) { modal link } { default selection = none } { checkbox }  
 
 Filter by provider { Checkboxes }
