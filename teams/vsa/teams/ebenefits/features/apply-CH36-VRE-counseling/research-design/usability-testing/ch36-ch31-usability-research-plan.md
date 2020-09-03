@@ -16,11 +16,10 @@ The Chapter 36 program, Personalized Career Planning and Guidance (PCPCG), provi
 The eBenefits team is moving Chapter 31 and Chapter 36 features from the eBenefits site to VA.gov. Primarily, this involves rebuilding the digital versions of VA forms 28-1900 and 28-8832 (CH36). These will be reconstructed on VA.gov using the site's form system conventions. CH31 and CH36 benefits overlap a bit, creating confusion for some users. At VBA's request gating/screening wizards have been developed to help Veterans decide which form is best for them.
 
 #### Research questions
-- Where and how (what links/navigation) do participants expect to find...?
-- Do participants find the information in the feature useful and complete?
-- What, if any, other information do participants expect to see?
-- What changes are needed to better present the information?
-- What changes would help viewing data in mobile formats (small viewports only)?
+- Where and how (what links/navigation) do participants expect to find CH31 and CH36 forms?
+- Do participants understand the function of the wizard features?
+- Will users identify the differences between the CH31 and CH36 programs and select the right form?
+- What challenges prevent users from quickly and accurately completing the forms?
 
 #### Hypotheses
 Content to come...
