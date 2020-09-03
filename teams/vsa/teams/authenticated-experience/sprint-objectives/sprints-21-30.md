@@ -351,11 +351,13 @@ Design
 
 **Profile 2.0**
 
+Anything outstanding from the previous sprint, plus:
+
 PM
 
-Dependency for Go/No-Go: All critical UAT issues are fixed.
+Dependency for Go/No-Go: All critical UAT/bug issues are fixed.
 
-- Go/No-go: Launch to 25% of users
+- Schedule and conduct Go/No-go: Launch to 25% of users
 - Phase 1 launch: Launch to 25% of users
 - Monitor analytics
 - Launch to 50% of users after 1 week **if** there are problems with launch to 25%
@@ -367,6 +369,8 @@ Dev
 - Other non-critical bugs from the backlog
 
 **Logged-in homepage**
+
+Anything outstanding from the previous sprint, plus:
 
 PM
 - Start documenting staging users scenarios 
