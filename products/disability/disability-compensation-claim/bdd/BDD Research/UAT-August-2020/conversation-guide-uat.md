@@ -3,7 +3,7 @@
 ### Project-specific setup
 
 - Sign into VA.gov through DS Logon
-- We will be having users share their screens and submitting a claim. When the participant is ready, pass presenter roles to them and have them share their screen.
+- We will be having users share their screens (after they have logged on) and submitting a claim. When the participant is ready, pass presenter roles to them and have them share their screen.
 - When their screen is shared, send the beta link https://www.va.gov/disability/how-to-file-claim/
 - **Note: We will not be recording these sessions**.
 
@@ -13,7 +13,7 @@ Thanks for joining us today! My name is Christian and I also have some colleague
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about 30-45 minutes, depending on how many contentions you will be claiming.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take up to 60 minutes, depending the claims you will be submitting.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** If you find something we show you to be confusing, we want to hear about it. Your honest insights help us to figure out how we can improve the veteran experience, and we will not be offended by any opinions you express.
 - **If for any reason and at any time you want to stop the session, please let me know.** You will not be penalized in any way if we need to stop.
 

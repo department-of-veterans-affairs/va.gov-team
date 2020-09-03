@@ -32,75 +32,76 @@ Let’s start with a few warm-up questions.
        - Which benefit?  
        - Where are you in the school selection process?
    
- - When you were trying to pick a school, can you talk me through your decision-making process?
-  - What were/are you looking for in a school?  How would you determine if it was a good fit for you?
-  - If you knew a fellow Veteran who had attended a school you're interested in, what would you want to know the most?
+ - When you were trying to pick a school, what were you looking for in a school?  
+    - How would you determine if it was a good fit for you?
+    
+ - If you knew a fellow Veteran who'd attended a school you were interested in, what would you most want to know from them?
   
-## First Task: Initial Look at Ratings - 20 minutes
+## First Task: Initial Look at Ratings - 5 minutes
 
-Let's say you really like the programs at **Insert school**, but you aren't sure what your experience would be like as a Veteran student. How would you use the Comparison Tool to determine if **Insert school** would be a good fit for you?  
+Let's say you received a scholarship for **Insert school** and are curious if the Comparison Tool has any information on that school.  How would you go about finding **Insert school** on the Comparison Tool?  
  
  Things to watch for:
-- How does the user select the school (School name or View Details)?
 - Does the user notice the ratings on the school cards?
-- Does the user click into the school for additional information on ratings without a prompt?
+- Does the user interact with any of the filters?
 
 Upon completion of task:
-- How did you think that went? 
+- How did you think that went?
+- What do you think of school card?
 - What do you think that rating shows you?
-- What do you think of the school now that you've seen the rating?
 
 Research questions:
 - What do users think of the star ratings?
 - Who do users think are providing the ratings?
-- Do users think the ratings are useful?
-- How do users think ratings are collected?
+
 
  
- ## Second Task - Detailed Ratings - 10 minutes
+ ## Second Task - Detailed Ratings - 15 minutes
  
 You've heard great things about the Veteran experience at **Insert school**, but are curious about the quality of education you would receive there.  How would you use this Comparison Tool to see if **Insert school** would meet your needs?  
 
 Things to watch for:
+- How does the user select the school (School name or View Details)?
 - Where does the user initially look for information?
-- Does the user click into the school for additional information on ratings without a prompt?
+- Does the user go to the ratings accordion without a prompt?
 
-Upon completion of task: (Do we need this?)
+Upon completion of task:
 - How did you think that went? 
-- What do you think of the school now that you've seen the rating?
+- What do you think of the school now that you've seen the ratings?
 
 Research questions:
 - Are users interested in the different rating categories or just the overall score?
 - Which categories are valuable to users?  Are there any categories that aren't valuable?  Are there any additional categories they would like to see?
 - What do users think the different categories mean?
 - How do users think the rating scores are determined (average of submitted scores, calculated value, etc.)?
-- How does the number of ratings weigh into a user's perception of a particular school?
 - How trustworthy are the ratings?
+- How do users think ratings are collected?
 - What level of privacy do users expect if they would provide a rating?
+- Do users think the ratings are useful?
 
 
  ## Third Task - Comparing Various Rating Aspects - 10 minutes
  
-Let's say you were trying to decide which **University of California** school to attend.  You plan to live on campus and all the schools offer the classes you want to take.  Using the Comparison Too, how would you decide which school to attend?
+Let's say you want to attend the **University of California** and are trying to decide on the campus where you'll take classes.  You plan on living on-campus and all the schools offer the classes you want to take.  Walk me through how you'd use the Comparison Tool to help you decide which campus you'd attend.
  
  Things to watch for:
 -  Does the user look at the overall rating or delve into the detailed ratings?
 -  Does the user pause or read the caution flag?
 
-Upon completion of task: (Do we need this?)
+Upon completion of task:
 - How did you think that went? 
-- On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
-- What aspects of the ratings are you looking at (star rating, number of reviews, etc.)?
-- Are there any other aspects of these schools that weigh into your decision (e.g. caution flag)?
+- What made you decide to pick that particular campus?
 
 Research questions:
 - Would ratings affect the school selection process?
+- How does the number of ratings weigh into a user's perception of a particular school?
+- Do users think the ratings are useful?
 
 
 ## Post-Task Interview - 5 minutes
 -	Do you have general thoughts or feedback on the Comparison Tool that you’d like to share? 
 -	Any questions for me?
-- I want to give a chanced to the other people on the line to ask a question.
+- I want to give a chance for the other people on the line to ask a question.
 
 ## Thank-You and Closing - 3 minutes
 

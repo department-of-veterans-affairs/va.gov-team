@@ -100,11 +100,11 @@ Notes:
 ### Baseline KPIs
 - Working with Paul Shute but many of these may not be possible as baseline metrics (not captured by VBMS or anywhere)
 
-## Key Results (KRs)
-
-1. TBD
-
---- 
+## Objectives and Key Results (OKRs)
+Many of these are inherited as general OKRs for BAM work on DSVA
+1. Provide a simple and error free experience.
+2. Simplify the process of filing for a disablity claim while still in active service.
+3. Encourage more service members to file for disability claims under the BDD program.
 
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
@@ -112,9 +112,12 @@ Notes:
 
 - [Link to Phased Roll-out Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/disability-compensation-claim/bdd/release-plan-bdd.md)
 
+Update 8/24: We are still considering some marketting options, etc, but this will be after full deployment of BDD and maybe 4-6 weeks to establish a new baseline on VA.gov.
+
 ## Launch Date
 - *Target Launch Date*
-  - August 24th for UAT
+  - Missed initial date of 24th
+  - August 30th for UAT
 - *Actual Launch Date*
   - tbd
 - *What date will you evaluate impact after launch?*
@@ -166,20 +169,19 @@ Notes:
 		- => HAIMS will only send Post discharge STR manifest once all results are available and there is a certification memo.
 
 ## Product Decisions
-
-
+1. Combine 526 form with BDD form.  Primarily this simplified the transfer of a BDD claim to a 526 claim upon expiration of the BDD time frame.  In other words, when a BDD claim is no longer eligable for BDD or BDD-excluded, we needed a way for the SIP data to move to 526 easily. This is possible by merging the two forms.  Our stakeholders agreed during our weekly BDD meeting.
+2. During a meeting with EVSS we decided to not hard code separation location but instead use the API so we always have the latest.
 
 ## Team
-
-- VA Digital Strategist(s): Andrea Schneider and Luke Majewski
+- VA Digital Strategist(s): Andrea Schneider (retired to SSA)
 - Product Manager: Luke Majewski 
 - Research Lead: Christian Valla
 - Design Lead: Kevin Stachura
-- Engineers:
+- Engineers: Anna Carey, Robin Garrison, Nick Sprinkle
    
 ## Screenshots
 
 ### Before
-
+Not really applicable since we added some fields for BDD.  After screen shots 
 ### After
 

@@ -2,6 +2,77 @@
 
 ## mm/dd/yy
 
+## 09/01/20
+Liz Lantz and Ryan Thurwell made decisions about which pages need mobile templates:
+Template/Page | Release Version | Mobile Design
+--- | --- | ---
+About - text only | 1.0 |  not needed - just text
+About - text w/ on this page, loooong content | 1.0 | needed, to explore use case of very long content (also, define `very long`). See #13038
+About - tables | 1.0 | needed, see #11499. Check w/ eBenefits team's responsive table for View Payments
+Checklist | 1.1 | needed, new pattern. See #13037
+FAQ Single (question and answer) | 1.0 | not needed - just text 
+FAQ Multiple | 1.0 | not needed, since uses existing ds component
+Home | 1.0 | in progress, see #11490
+Media list - images | 1.1 | needed, see #12759
+Media list - video | 1.1 | needed, see #11497
+Results - Keyword search | 1.0 | needed, see #12863
+Results - `Articles tagged`  | 1.0 | not needed, since design will match keyword search
+Step-by-step w/out screenshots | 1.0 | not needed, since uses existing ds component
+Step-by-step w/ Screenshots | 1.0 | needed, to explore possible need for progressive enhancement. See #13036
+
+## 08/06/20
+
+### Engineering discussion - Nick Sullivan, Kelson Adams, Jen Lee, Mickin Sahni
+#### MVP - Oct/Nov 2020
+
+- Avoid Veterans Day Launch
+- Through staging and perhaps hidden in prod (if possible given potential limitations)
+- 1 audience type - Veterans
+- 2 topics/categories: VA Profile and General resources/help
+- Designs will look different
+  - no find articles by audience
+  - not every find articles by topic
+- Includes search results
+- Templates that will be included: 
+  - About
+  - Multiple FAQs
+  - Single Question/Answer
+  - Step-by-step
+
+- In addition to the ^ templates, we will launch with these pages which are not technically templates:
+  - LC homepage
+  - LC search results page
+  - LC 'view all X articles' page / LC articles tagged X page
+- Will also include COPE reusable FAQs infra, which will be CMS infrastructure that lets us treat a question/answer unit as reusable content that can be published in multiple Drupal nodes (or pages). It allows us to create and edit that question/answer in one place, the FAQs library; while different authors can display that question/answer text on multiple Drupal pages without manually recreating that content on each of those pages.
+- Tags to be included: Veterans VA Profile General resources/help Exact nomenclature is TBD
+
+#### MVP 1.1 December 2020
+
+- Additional tags
+- Additional topics
+- Was this helpful component?
+- CRM integration
+- Additional templates: LC HomePage Iteration, LC Search Results, About, Videos, Images
+- Tags: Other audiences and topics
+
+#### MVP 1.2 January-March
+
+- CRM integration
+- Onboarding authors, governance hardening
+
+#### Questions
+
+- Are we reinventing the wheel (loaded, i know) by revisiting account vs. profile when it comes to tagging?
+- Are we seeing trends in search usage?
+- Is there an opp to deviate between these iterations?
+- What will view all articles look like?
+- likely as search results
+- How do we reconcile the two searches (LC and main VA.gov)?
+- What is the order of search functionality we release?
+
+#### Notes:
+- wish we could hit drupal on the fly to search
+
 ## 07/27/20
 
 ### Outcome of accessibility review and design decisions

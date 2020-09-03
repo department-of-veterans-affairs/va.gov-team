@@ -2,7 +2,7 @@
 
 - [Dates and times](#dates-and-times)
 - [Figures and other images](#figures-and-other-images)
-- [File names and file types](#file-names-and-file-types)
+- [File names, file types, and repo names](#file-names-file-types-and-repo-names)
 - [Page titles and headings](#page-titles-and-headings)
 - [Lists](#lists)
 - [Notes, cautions, and warnings](#notes-cautions-and-warnings)
@@ -37,7 +37,7 @@ Use images only when they provide useful visual explanations of information that
 - Don't include personally identifying information (PII) in screenshots. If a source screenshot includes PII, hide it with a solid-color overlay with 100% opacity. Don't rely on blurs, mosaic effects, or similar image-processing effects to obscure PII; such effects can be reversed to reveal the original information.
 - If you're exporting an image to a format that can include information on separate layers (for example, PDF or TIFF), flatten the image on export.
 
-## File names and file types
+## File names, file types, and repo names
 
 Observe the following guidelines when naming files and referencing file types.
 
@@ -64,8 +64,15 @@ When you're discussing a file type, use the formal name of the type. (The file t
 
 | Recommended     | Not recommended   |
 | :-------------  | :---------------- |
-|  a PNG file     | a PNG file        |
+|  a PNG file     | a .png file        |
 |  a Bash file    | an .sh file       |
+
+### Refering to repos
+When you're referencing a particular repo within the Department of Veteran Affairs GitHub organization, format the repo name as code font.
+
+| Recommended     | Not recommended   |
+| :-------------  | :---------------- |
+|  `va.gov-team`    | va.gov-team       |
 
 ## Page titles and headings
 

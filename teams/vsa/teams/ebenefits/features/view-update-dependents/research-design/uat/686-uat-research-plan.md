@@ -6,12 +6,21 @@
 ---
 
 #### Background
-VA uses the 21-686c (686) form to collect and process the information to allow a Veteran to add dpendents to their disability claim. The same form is used to remove dependents who have left the household of the Veteran (death, divorce, marriage). The eBenefits team will conduct Acceptance Testing (UAT) ahead of launch, then closely monitor analytics to ensure the form is generating viable submissions across all 686 workflows.
+VA uses the 21-686c (686) form to collect and process the information to allow a Veteran to add dependents to their disability claim. The same form is used to remove dependents who have left the household of the Veteran (death, divorce, marriage). The eBenefits team will conduct Acceptance Testing (UAT) ahead of launch, then closely monitor analytics to ensure the form is generating viable submissions across all 686 workflows.
+
+#### Note regarding UAT
+We're requesting that Perigean recruit Veterans who need to add (or remove) a dependent from their disability claim. This usually involves submitting a paper 686 or going to eBenefits. We realize that it may be difficult to find Veterans with such specific needs, but we need to ensure that actual claims go through, vs. submitting inaccurate claims and later asking that they be modified or removed.
+
+For those Veterans we talk to in UAT, we intend to be very transparent about what we are testing--it's an actual, functioning form. We will be asking our (BGS-RBPS) partners to keep watch for the submissions coming out of UAT, while we watch for problems and errors in real time. Any PII that does need to be conveyed to partners (BGS-RBPS) outside of  UAT, will be handled securely either verbally or via Microsoft Teams (end-to-end encryption). We will be observing the transaction, But not recording it, and this will also be clearly communicated to the UAT participant.
+
+In the event that we don’t get any Veterans that meet our criteria, or we can't find any who are comfortable displaying live/personal data, we may toggle the feature “on” to as tiny a percentage as possible, capture a small number of submissions during a "quieter" time of the week, and then revert back to eBenefits while we take some time to validate the small number of naturally gained submissions. With feature toggles we can control access quickly and with granularly. Again, we want to keep the data being collected real and accurate. In this scenario, it may take longer to get the volume of valid VA.gov submissions to 100%, but as our confince in the new feature increases, we should be able to accelerate to full deployment. 
+
+One of the tasks we are looking into right now is ensuring that that RBPS can differentiate from legacy submissions coming from eBenefits vs VA.gov. We would also be amenable to working with Veterans via VSO’s that might know of someone in need of making a dependency change.
 
 ### Goals
 - Confirm all form fields and workflows are available
 - Confirm form collects data and advances as expected
-- Confirm data scccessfully submits as input
+- Confirm data successfully submits as input
 - Confirm status of dependency claim properly displays in claim status tool
 
 #### Key guiding question
@@ -20,7 +29,7 @@ Can users quickly and easily add and/or remove dependents from their disability 
 ### Method
 We will engage in moderated User Acceptance Testing (UAT) conducted remotely using Zoom. Veterans with a need to add or remove dependents from their disability claims will be recruited, and will be given access to the new 686. Participants will use the form to apply to have their dependents changed. Remote observers and note takers may be in attendance.
 
-#### Success crieteria
+#### Success criteria
 
 Users will:
 - Enter the form
@@ -42,12 +51,12 @@ Users will:
 ### Participants & recruiting
 Participants will be recruited via Perigean. The study will require Veterans who have a need to add or remove a dependent (or dependents) form their VA disability claim. Sessions will run between 30 and 45 minutes depending on the workflow, and potential technical issues; sessions should be scheduled for 45 minutes, and at least 30 minutes apart.
 
-Recruit for 5 fulfilled sessions using the following criteria:
+Recruit for a **minimum of 3** fulfilled sessions using the following criteria:
 
 #### Must have for participants
 
 - Do you have verified disability rating of greater than 30%? (pass = yes)
-- Do yo need to sumbit a 21-686c (or 21-674) to do one or more of the following (pass = yes):
+- Do you need to submit a 21-686c (or 21-674) to do one or more of the following (pass = yes):
   - Add a spouse
   - Add a child
   - Add a child (age 18 to 23) who is about to enroll or has enrolled in college (or other training/schools)
@@ -84,23 +93,29 @@ Recruit for 5 fulfilled sessions using the following criteria:
 
 #### eBenefits Team Availability
 
-`All dates/times TBD`
+Please allow 30 minutes between sessions.
 
-| Dates | Times (EST) |
+| Dates | Times (EDT) |
 | --- | --- |
-| Aug | 9 AM to 5 PM |
+| September 14, 2020 | 9 AM to 5 PM |
+| September 15, 2020 | 9 AM to 5 PM |
+| September 16, 2020 | 9 AM to Noon |
+| September 17, 2020 | 9 AM to 5 PM |
+| September 18, 2020 | 9 AM to 5 PM |
+| W E E K - T W O |  |
+| September 21, 2020 | 9 AM to 5 PM |
+| September 23, 2020 | 9 AM to noon |
+| September 24, 2020 | 9 AM to 5 PM |
+| September 25, 2020 | Noon to 5 PM |
 
 ### Team members
-- [James Adams](jadams@governmentcio.com) [(VA Email)](james-adams2@va.gov) -- Moderator, researcher
-- [Steve Kovacs](steve.kovacs@va.gov) -- DSVA lead
-- [Jason Wolf](jwolf@governmentcio.com) -- eBenefits product manager
-- [Shawna Hein](shawna@adhocteam.us) -- VSA design lead
-- [Kathleen Crawford](kcrawford@governmentcio.com) -- Backend engineer
-- [Micah Chiang](micha@adhocteam.us) -- Frontend engineer
-- [Jesse Cohn](jesse.cohn@adhocteam.us) -- Frontend engineer
-- [Jennifer Strickland](jennifer.stricklandn@adhocteam.us) -- 508 compliance
-- [Emily Waggoner](emily@adhocteam.us) -- VSP platform
-- [Peggy Gannon](peggy@thesocompany.com) -- VSP content
+- James Adams | jadams@governmentcio.com -- Moderator, designer
+- Steve Kovacs | steve.kovacs@va.gov -- DSVA lead
+- Jason Wolf | jwolf@governmentcio.com -- eBenefits product manager
+- Kathleen Crawford | kcrawford@governmentcio.com -- Backend engineer
+- Derek Dyer | ddyer@governmentcio.com -- Backend engineer
+- Micah Chiang | micha@adhocteam.us) -- Frontend engineer
+- Jesse Cohn | jesse.cohn@adhocteam.us -- Frontend engineer
 - Perigean -- Participant recruiting & screening
 - Note-takers -- Various as available
 - Observers -- various as available
@@ -109,6 +124,75 @@ Recruit for 5 fulfilled sessions using the following criteria:
 [Conversation guide]()
 
 ---
+
+### Required information & documentation to submit 21-686c
+#### To add a spouse, you need to know:
+
+Spouse’s:
+- Name
+- Address
+- Social Security number
+- Date of birth
+- Marriage date
+- Place of marriage (state, country, city)
+- Names of former spouses
+
+Applicant’s former spouses: 
+- Names
+- Marriage start and end dates
+- Places marriage started and ended (state, country, city)
+
+**You’ll need documentation:**
+
+IF the marriage was not a religious or civil ceremony OR IF the Applicant lives outside of the U.S. (bases are considered within the U.S.)
+
+What you’ll need:
+- A copy of the original marriage certificate OR
+- An affidavit of the clergyman or magistrate who conducted the marriage ceremony OR
+- Affidavits or certified statements signed by two or more witnesses who attended the marriage ceremony OR
+- The official report from your branch of service showing a marriage happened while you were in service OR
+- Other documents will be considered
+
+Documentation can be a JPEG, JPG, PNG or PDF file.
+
+#### To add a child, you need to know:
+
+Child’s:
+- Name
+- Address
+- Social Security number
+- Date of birth
+- Place of birth (state, country, city)
+
+**You’ll need documentation:**
+
+IF the Applicant lives outside of the U.S. (bases are considered within the U.S.)
+- Birth certificate
+
+IF adding stepchild
+- Birth certificate
+
+IF adding adopted child
+- The final decree of adoption OR
+- The adoptive placement agreement OR
+- The interlocutory decree of adoptions, OR
+- The revised birth certificate
+
+IF adding a child not capable of self-support
+- Medical evidence showing a permanent mental or physical disability existed before his/her 18th birthday, AND
+- A statement from an attending physician showing the nature and extent of the child’s physical or mental impairment
+
+Documentation can be a JPEG, JPG, PNG or PDF file.
+
+#### To remove a dependent you need to know:
+
+Dependent’s:
+- Name
+- Address (if stepchild under 18)
+- Social Security number
+- Date of birth
+
+------
 
 #### Approval
 _Plan approval TBA_

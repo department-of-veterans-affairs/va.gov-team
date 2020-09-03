@@ -1,3 +1,109 @@
+### 9/1 Update
+
+Summary recap of the “synergy” meeting held with key players involved in Wizard work across the portfolio [(as captured here)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/status_reports/implentation_tracker.md).  Participants included -- Platform reviewers (Mikki/Peggy), BAM 1 & 2 implementation team, Booz Allen implementation team and Public Websites (John, Liz & Danielle):
+
+- Goals of meeting:
+  - Provide cross-product visibility and updates as there is currently active Wizard work across the portfolio (Education, Disability, eBenefits)
+  - Improve coordination and collaboration to leverage reusable work and Platform components/guidance (Analytics, IA/UX, Content, Accessibility)
+  - Track sequencing of implementation and target launches for awareness
+
+- Meeting notes:
+
+  - Rogers STEM Scholarship team (Amy + Neel) will implement content changes to the Education wizard -- prior to its move to the apply page — ahead of that team’s planned Flipper-managed roll-out launch starting next week through mid-Sept. 
+  - Public Websites (John, Liz + Danielle)  will work with Platform (Mikki, Peggy) to finalize the user flow, content changes as required/needed.  (I will schedule a follow-on conversation for us after Labor Day — e.g., to sync on whether there is need for “start over” in wizard and any other open items)
+  - Accessibility feedback from Jen S. is ticketed here (#12211) (@Leah Keeler)
+  - Analytics has created a "one size fits all" instrumentation data taxonomy for all Wizards.  
+  - There will be close product/dev coordination/collaboration between BAM 2 (Education) + BAM 1 (Disability, HLR) as we complete the builds/refinements for staging review, ideally in September.  (Note: @Luke Majewski says the new HLR wizard will go live with the application — they are inextricably bound)
+
+### 8/31 Update
+
+- [Content intake ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13028) was created and John walked/talked Daneille through the project/effort with goal to unify all the work across the Education, Disability wizards as much as possible.
+- Meeting held with Analytics team to review their initial dataLayer taxonomy approach for instrumenting all the wizards in a unified, consistent manner.  The approach will, in effect, track all the interactions (e.g. radio buttons and any hotlinks to pages) in the wizards.   This will enable insight into:
+    - Overall usage of the Wizard
+    - Number/Percent Complete 
+    - Numbeer/Percent Abandoned (not completed during session)
+    - Of those completed (answered final question, given link to "correct" form:
+      - Clicks to Apply
+      - Does not Click to Apply
+    - Number/Percent who clicks on Link to Apply, but then comes back and uses Wizard (during session)
+    - The visitor ID will be leveraged to understand who paused on completing the wizard (for up to 30 minutes) while they did something else -- e.g. looked up information for the application, asked their spouse a question, took a phone call) -- before returning to complete the app. (This should not be considered abandonment).
+
+- The analytics team will provide the new datalayer taxonomy to BAM 1 and BAM 2 so they can implement in tandem -- and testing/verficaton can be done in conjunction vs. staggered fashion.
+
+- For 9/1 meeting, some key points to cover:
+
+  - Rogers STEM application will go live on -- or around Sept 10 -- without the Wizard.  There are no plans to add the Wizard to the introduction page.
+  - The Education Wizard needs to be updated to reflect (a) revised text for the Rogers STEM scholarship and (b) a link to the new online application (Note: Amy needs to provide new text and URL to Craig for implementation)
+  - Platform IA review of the Education Wizard has surfaced some important questions about user flow:
+     - Should the user need to click a button to open the Wizard -- or should the Wizard be open by default?
+     - What happens to a user who completes the wizard and wants to ignore the wizard recommendation?
+     - What happens to a user who completes all the questions in the wizard but wants to start over to see more options?  Currently, they can re-click the buttons to see additional options -- but do we need to add a "start over" option for the wizard?  (Any evidence this is happening now?)
+     - Are we ok with the current session state logic (e.g., once the user clicks the Apply Now button, the Wizard disappears from the Introduction page for that current session)?  What happens if they land on the app page and decide they made a mistake and want to take the Wizard again by clicking back?  Would it be better just to keep the Wizard on the page persistently?
+     - What about a user who walks away from the Wizard before completion and comes back 30 minutes -- or two hours later?  Will it still be available to pick up from where they left off?
+
+
+### 8/26 Update
+
+#### Team: BAM 2 (PM: Leah Keeler + Developer: Craig Wheeler)
+
+- **Education (Form 1990)**: Initial dev is complete and on staging at: https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction and undergoing Collab Cycle review and iteration.  The wizard also applies to the following Education benefits::
+  - 0994 - [Apply for VET Tech](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994/introduction)
+    - Note: Wizard should **not** move to this page
+  - 1990e - [Apply to use transferred education benefits](https://www.va.gov/education/apply-for-education-benefits/application/1990E/introduction)
+    - Note: Wizard should move to this page
+  - 1990n - [Apply for Education Benefits under the National call to service program](https://www.va.gov/education/apply-for-education-benefits/application/1990N/introduction)
+     - Note: Wizard should **not** move to this page
+  - 1995 - [Manage your Education Benefits](https://www.va.gov/education/apply-for-education-benefits/application/1995/introduction)
+     - Note: Wizard should move to this page
+  - 5490 - [Apply for Education Benefits as an Eligible Dependent](https://www.va.gov/education/apply-for-education-benefits/application/5490/introduction)
+     - Note: Wizard should move to this page
+  - 5495 - [Dependents' Request for Change of Program or Place of Training](https://www.va.gov/education/apply-for-education-benefits/application/5495/introduction)
+     - Note: Wizard should **not** move to this page
+  - Form 22-10203 - [Rogers STEM Scholarship](https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction)
+    - Note: Wizard should **not** move to this page
+    
+#### Team: Booz Allen (PM: Amy Knox)
+
+- **Rogers STEM Scholarship (Form 22-10203)**: Initial dev on only the application page -- **the Wizard will come in follow up phase** -- is at: https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction. (U/P is veterans / am3rica) This form will launch prior to a deadline of October 1.  A prototype is [here.](https://bahdigital.invisionapp.com/share/AUIADV5GTC2#/screens).  
+
+  - When do you plan to launch the Apply for Roger STEM scholarship page/form?  Sept 10
+
+  - Do you plan to put the Education Wizard -- or a more specific eligibility wizard -- on the page?  We don't think it makes sense. All the content is on the apply page -- the Wizard will be repetitive.   Plus, many applicants will come from the 1990 page, where they would have just used the Wizard.
+
+
+  - Why the STEM and Education Wizard should ideally launch together?  Because ... the Education Wizard should link to the new [page here](https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction) instead of the more general Manage Your Education Benefits page [here.](https://staging.va.gov/education/apply-for-education-benefits/application/1995)
+    - Also, the Education Wizard will need to be updated to reflect slightly new content about the Rogers STEM scholarship.
+  
+  - QUESTION: Which team should update the Education Wizard to reflect STEM changes -- BAM 2 or Booz Allen?
+
+
+
+#### Team: BAM 1 (PM: Luke Majewski + Developer: Robin Garrison)
+
+- **Disabilty (Form 526)**: Initial dev is complete and on staging at https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction
+
+- **Higher Level Review (Form 20-0996)**: In development, but not yet in staging at https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction
+
+
+***POSSIBLE SEQUENCING RECOMMENDATIONS:*** 
+- Because the Education wizard and STEM scholarship are inter-linked, and STEM has a hard live date of October 1 -- launch STEM first, while making recommended changes, refinements to Education Wizard in September.   Then, couple the launch of the Education and STEM wizards in Oct/Nov.
+- And since Disability and Higher Level Review are not coupled to Education, focus near-term attention/effort on these products, with goal to launch in September.
+
+
+#### Team: eBenefits (PM: Jason Wolf + Designer/Researcher: Jim Adams)
+- **Apply for Education and Career Counseling (CH36 & CH31)**: Is in early development and will go into usability testing soon. Product outline [here](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/7232) and design user flow for the planned wizard is [here.](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/9979)  NOTE: This team is self-contained in their project -- probably no need to track.
+
+
+### 8/24 Update
+
+- **Education Wizard:**  IA, content, accessibility and analytics tickets have been generated per the Collab cycle review and the tasks will be worked into upcoming sprints.
+   - The analytics team (Jon W) wants to a create a dataLayer taxonomy generic enough to be reused across How To Wizards, starting the Edu version.  A meeting is set for 8/31 to map that plan.
+
+- **Disabilty (Form 526)**: BAM 2 (Robin Garrison) has actually completed the work - https://github.com/department-of-veterans-affairs/vets-website/pull/13963 and is waiting for the e2e tests to pass, then it'll be ready to merge. Up next: a content review, and because of our situation, we'll also need to update the content that is rendered - all-claims/original-claim vs BDD text
+
+- **Higher Level Review:** Per BAM 2, code needs a bit more development work, but it's close to done. The wizard hasn't been moved to the introduction page yet. This may become a higher priority in a later sprint.
+
+
 ### 8/12 Update
 
 - Education Wizard (BAM 2/Leah K.) is now going through the agreed upon steps in Collab Cycle process, including:

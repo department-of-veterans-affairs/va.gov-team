@@ -312,133 +312,82 @@ If all profile work is done and all LIH ticket from sprint 27:
 
 **Profile 2.0**
 
-- **Launch to UAT users**
+**We will launch launch to UAT users this sprint pending our UAT go/no-go.**
+
+Anything outstanding from sprint 28, plus:
+
+PM
+- Regroup with analytics to make sure that work gets finished
+- Set up meeting for team to go over how to add UAT users to list of people who can view Profile 2.0 in prod
 
 Design
+- Kick off recruiting for UAT
+- Gather email addresses of UAT users & share those with Erik/Sandra
 - Conduct UAT
 
 Dev
+- Launch to profile 2.0 to production behind a feature flag
 - Any fixes from UAT
 
 **Logged-in homepage**
 
-PM
-- Start documenting staging users scenarios
+Any tickets outstanding from sprint 28, plus:
 
 Design
-- Initial iterations/explorations
+- Discuss a plan and start initial design iterations/explorations
+- Track the documentation from the LOA3/LOA1 use case/data point exercise in Github
 - Plan for how to work with the platform team #10516
 - Plan for how/when to conduct user testing #10518
 
-Dev
-- Investigate how we can pull in information on preferred medical facilities on VA.gov #12552
+**Direct deposit**
+
+- (Continue) Determine level of effort for integrating with BGS CH33 DDEFT Services #11545
+
+**My VA: Cerner update**
+
+- Fix the Cerner update to "Schedule an appointment" and launch to prod #12762
 
 ## Sprint 30 (9/9 – 9/22)
 
 **Profile 2.0**
 
-- Launch Go/No-go
-- Phase 1 launch
-
----------
-
-## Long term planning notes
-
-**Profile 2.0 outstanding to-dos**
-
-- QA - plan for QA/submit QA request (needs to happen 1 sprint before we want QA to take place)
-- 508 - Request review of build
-- QA - Conduct QA
-- 508 - Conduct 508 review
-- QA - Implement fixes/updates that came out of QA/508 audit
-- Testing - Determine what we need re: E2E testing, load testing, unit testing
-- Testing - Implement/run tests we determine we need
-- Call center - Prep guide
-- Call center - Prep video
-- Call center- Request contact center review
-- Call center - Contact Center Review (VSP cycle)
-- Pre-launch — Analytics review
-- Pre-launch - Request staging review
-- Pre-launch - Request privacy and security review
-- Pre-launch - Staging Review (VSP cycle) — Happens after QA
-- Pre-launch - Privacy and Security Review (VSP cycle) — Happens closer to launch
-- Pre-launch - Work with VA comms to figure out how we should communicate internally/externally about this feature update
-- Pre-launch - Product outline – Have team make updates to the product outline to prep for pre-launch activities/reviews
-- Pre-launch - Put together release plan
-- UAT - Plan for UAT
-- UAT - Conduct sessions
-- UAT - Fix bugs (if necessary)
-- Launch - Phase 1
-- Launch - Phase 2
-- Launch — Phase 3 (100%)
+Anything outstanding from the previous sprint, plus:
 
 PM
 
-- Call center - Prep guide
-- Call center - Prep video
-- Call center- Request contact center review
-- Call center - Contact Center Review (VSP cycle)
-- Pre-launch — Analytics review
-- Pre-launch - Product outline – Have team make updates to the product outline to prep for pre-launch activities/reviews
-- Pre-launch - Put together release plan
-- Pre-launch - Request staging review
-- Pre-launch - Request privacy and security review
-- Pre-launch - Work with VA comms to figure out how we should communicate internally/externally about this feature update
-- Launch - Ramp up phased launch
-- Go/No-go
+Dependency for Go/No-Go: All critical UAT/bug issues are fixed.
 
-Design
-
-- Support end of build with minor design updates/build validation
-- QA — Any design updates that come out of QA/508
-- Call center - Prep guide
-- Call center - Prep video
-- Go/No-go
+- Schedule and conduct Go/No-go: Launch to 25% of users
+- Phase 1 launch: Launch to 25% of users
+- Monitor analytics
+- Launch to 50% of users after 1 week **if** there are problems with launch to 25%
 
 Dev
-- Build - Mobile nav updates
-- Build - final bug fixes and clean up before QA
-- QA — Any bug fixes that come out of QA/508
-- Testing - Determine what we need re: E2E testing, load testing, unit testing
-- Testing - Implement/run tests we determine we need
-- UAT - Fix bugs (if necessary)
-- Go/No-go
-- Launch - Ramp up phased launch
 
+- Fix any critical UAT bugs pre-launch
+- Fix any non-critical UAT bugs (can be post-launch)
+- Other non-critical bugs from the backlog
 
-Platform
-- QA - Conduct QA
-- 508 - Conduct 508 review
-- QA - Implement fixes/updates that came out of QA/508 audit
-- Call center - Contact Center Review (VSP cycle)
-- Pre-launch - Staging Review (VSP cycle) — Happens after QA
-- Pre-launch - Privacy and Security Review (VSP cycle) — Happens closer to launch
-- Go/No-go
+**Logged-in homepage**
 
-**Logged-in homepage next steps**
-
-Handoff
-- Hand off this work between Liz Lantz (public websites) and the authenticated experience team
+Anything outstanding from the previous sprint, plus:
 
 PM
-- Any updates to the initial plan for phase 1 that come out of handoff meeting
-- Finish OKR and KPI planning
-- Figure out if there are analytics we need to get set up
-- Present work to DEPO team
-- Have another convo with Chris J about how to loop in stakeholders
-- Start getting staging users set up
+- Start documenting staging users scenarios 
+- Matt to start maintaining the logged-in homepage project epic
 
 Design
-- Liz <> Tressa handoff #9381
-- Review journey maps #10120
-- Review discovery findings #10121
-- Investigate how banners/alerts work on the logged out homepage and in the navigation #8836
-- My VA tools audit #10123
-- Plan for LOA3 use cases #10162
-- Plan for LOA1 use case #10164
+
+- Phase 1: Create 2-3 high-level concepts for logged-in homepage
 
 Dev
-- Tech discovery: Investigate showing upcoming appointments
-- Tech discovery: Investigate level of effort for showing overall disability rating
-- Tech discovery: Investigate level of effort for showing GI Bill benefits balance
-- Tech discovery: How is this going to be built?
+
+- Any discovery not completed in sprint 29
+
+**Direct deposit**
+
+- [BE] Continue direct deposit discovery #11545
+
+**Preferred facility**
+
+- [BE] Discovery - enabling 'Preferred Facility' selection in 'My VA Dashboard' / VA Profile #12875

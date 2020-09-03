@@ -235,6 +235,13 @@ OK, please share your screen, and then we will get started.
 - Could you walk me through how you added an app? 
   - [ ] **UAT TASK:** Double check that the timestamp on the app is for when it was connected. 
 
+## If time allows
+
+- Can you take your browser window and make it the size of a phone?  Now in this view can you go to the personal and contact information page?
+  - [ ] **UAT TASK:** Mobile menu appears and is operating correctly.
+  
+- Go ahead and scroll through this page.
+  - [ ] **UAT TASK:** Mobile menu is sticky. 
 
 ## Post-Task Interview - 1 minutes
 

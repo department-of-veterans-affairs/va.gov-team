@@ -96,6 +96,19 @@ For quick reference these are also pinned in the [#vsp-backend-utility-dev] chan
 
 - add pull request to the [Code Review Epic][Super Epics] for the current sprint
 
+#### GIDS/BAH PR Reviews
+
+The GIDS/BAH team needs a bit more autonomy, and so their PR review process differs from the [standard process](../../../../../../platform/engineering/code_review_guidelines.md) as follows:
+
+- VSP review for major problems with syntax or rubyisms.
+- VSP review changes to `db/migrate/*`.
+- VSP review changes to `Gemfile`.
+- VSP review changes to `spec/factories`.
+- VSP will not request large PRs (> 250 SLoC) be broken up, and GIDS will not expect VSP to perform thorough review of large PRs.
+- VSP do not critique code organization.
+- VSP do not review SQL strings for safety. GIDS are solely responsible for the safety and security of their SQL code.
+- VSP do not perform security reviews. GIDS are solely responsible for the security of their code.
+
 #### Overriding Jumbo Pull Requests
 
 When a pull request is large enough, the `Danger-bot` status check will fail. 
@@ -129,7 +142,7 @@ As currently configured, on the first of the month Dependabot will open PRs unti
 
 ### Support requests
 
-Track support requests in [this spreadsheet](https://docs.google.com/spreadsheets/d/1bKUfJ6GSRm7_Zal88IkYEiw5md-9L9WRxK51ZNMtt8k/edit#gid=1793382735). Track any work done or issues created with comments. Summarize both failed attempts and final solutions so the issue can be referred to again in the future if necessary. If other team members are involved, add them to the ticket.
+Track support requests in [this spreadsheet](https://docs.google.com/spreadsheets/d/1BmFJKmkJsgXaj_kebn16veLVJ5H52wlCjmbpS5JdXKo/edit#gid=1793382735). Track any work done or issues created with comments. Summarize both failed attempts and final solutions so the issue can be referred to again in the future if necessary. If other team members are involved, add them to the ticket.
 
 ### Sentry errors
 

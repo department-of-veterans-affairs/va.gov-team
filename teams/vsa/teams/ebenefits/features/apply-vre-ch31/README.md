@@ -82,11 +82,19 @@ I can apply for CH31 benefits quickly and without mailing in a form or visiting 
 2. Increase CH31 applications
 
 ### KPIs
-- Discoverability
-- Number of online submissions
+
+- Conversion rate
+  - % of people who land on wizard and start the application (Acquisition)
+  - % of people who abandon (Abandonment Rate) (Activitation)
+  - % of people who complete the form
+    - \# of people who complete the form
+
+- Customer satisfaction
+
 #### Baseline KPIs
 tbd
 ### OKRs
+Improve abandonment rate
 
 --
 ## Go-to-Market

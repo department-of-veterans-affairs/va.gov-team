@@ -12,10 +12,15 @@ In order to build satisfying experiences for veterans and their families on VA.g
 ## Desired User Outcomes
 
 VFS teams can easily add surveys to their products so that they can collect direct user feedback.
-- They can differentiate customer satisfaction for their products
-- They can segment customer satisfaction to dive deeper into feedback
+- They can segment customer satisfaction for their products and dive deeper into feedback
+- They can add surveys and survey questions that have already gone through design system and content review
+- They can add surveys and survey questions that have already gone through Paperwork Reduction Act (PRA) approval
 
-VFS teams receive accurate customer satisfaction data
+VFS teams receive accurate customer satisfaction data.
+
+VFS teams can easily and accurately compare their user satisfaction data to other products and benefit hubs in the VA.gov ecosystem and VA.gov in general.
+
+VFS teams can easily and accurately share their user satisfaction data to relevant stakeholders.
 
 ## Undesired User Outcomes
 - VFSs each have unique and different survey intercepts and questions; VA.gov users are bombarded and confused by varying experiences throughout VA.gov
@@ -29,10 +34,18 @@ VFS teams receive accurate customer satisfaction data
     - Understand overall va.gov satisfaction
     - Understand va.gov satisfaction by benefit hub
     - Easily report customer satisfaction and trust to varying stakeholders
+- DEPO has VA.gov user trust & satisfaction data collected consistently and can data be easily 
+    - Verified for accuracy
+    - Pulled from a single source of truth
+    - Compare trust and satisfaction data between VFSs, benefit hubs, and VA.gov as a whole
+- The VA has a consistent way of collecting veteran trust and satisfaction
+- The VA has a more open network of sharing data, including veteran trust and satisfaction data
 
 ## Undesired Business Outcomes
 
 - DEPO receives inaccurate customer satisfaction data or data that is not easy to read, and reports inaccurate data to stakeholders
+    - DEPO accidentally shared PII
+- The VA has an inconsistent way of collecting veteran trust & satisfaction data
 
 ---
 ## Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs)

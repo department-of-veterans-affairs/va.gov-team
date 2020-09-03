@@ -1,8 +1,39 @@
 # Release Plan Higher Level Review
-## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
+## HLR Remaining Work and Estimated Effort (as of 8/28/2020)
+- Sprint 29: 8/26-9/8
+- Sprint 30: 9/9-9/22
+- Sprint 31: 9/23-8/6
+- Sprint 32: 10/7-10/20
+- Sprint 33: 10/21-???
+
+- Phase I:
+  - [Development] HLR: Schema Changes #11094 - In Validation
+  - [Design] HLR: Design and Content Wizard Updates #12891 - Sprint 29
+  - [Development] HLR: Wizard Implementation #12925 - Sprint 30
+  - [Development] HLR: Update to HLR Schema Based on LH Changes #12319 - Sprint 29
+  - [Analytics] HLR: Back-End Grafana Dashboard for Submission Success/Errors #10712 - Sprint 29
+  - [Launch] HLR: Prepare Launch Product Video for Higher Level Review #6209 - Sprint 30
+  - [Testing] HLR: User Acceptance Testing for Higher Level Review #7802 - Sprint 31/32
+  - [Launch] HLR: Prepare Final Steps of Collaboration Cycle in Preparation for Launch #9763 - Sprint 30
+  - [Development] HLR: Is HLR Working?  - Missing story
+  
+  Missing Stories:
+  - [Launch] HLR: Full 508 - Sprint 31
+  - [Launch] HLR: Security Review - Sprint 31
+  - [Launch] HLR: Staging Review - Sprint 31/32
+  - [Development] HLR: React to staging and accessibility reviews - Sprint 31/32
+  
+- Phase II:
+  - [Development] HLR: Triage Front-End Issues - Sprint 32/33
+  - [Development] HLR: Triage Back-End Issues - Sprint 32/33
+  - [Metrics] HLR: Review Submissions with Stakeholders - Sprint 32/33
+  - [Metrics] HLR: Daily Review of Sentry Metrics - Sprint 32/33
+
+## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
+Note: Phase I testing is in production using a whitelist of users.  This is a fully deployed production version of the application but it will not be visible to all users.  We are preparing the UAT plan in Sprint 29 and will be workin to evolve it into Sprint 30.  Scheduling of UAT will be around Sprint 30/31 timeframe.
 ### Planning:
-- Desired date range or test duration: [July 1 - July 3]
+- Desired date range or test duration: [Sept 2X - 2X]
 - Desired number of users: 5-8
 - How you'll recruit the right production test users: Perigian (normal process)
 - How you'll conduct the testing: With LightHouse.  The primary integration points are with LightHouse and we will be conducting UAT that tests both our code and their code.
@@ -20,7 +51,7 @@ Test User Info: https://github.com/department-of-veterans-affairs/va.gov-team/bl
 ## Phase II: unmoderated production testing
 
 ### Planning:
-- Desired date range: July 6 - July 10
+- Desired date range: October
 - Desired number of unique users: 20-30
 - How you'll make the product available in production while limiting the # of users who can find/access it: Using the flipper UI
 - "Success" criteria (by the numbers): HLR are being submitted successfully, PDFs generated.  This is not auto establishment so easier to test.
@@ -37,10 +68,10 @@ Our plan will be to do 2 days of 25% gating, 2 days of 50% gating, and 1 days of
 
 More phases? Sure! If it makes sense for your product! Plan them out with the same structure as above.
 
-## Go Live!
+## 100% Go Live!
 
 ### Planning:
-- Desired date: July 14
+- Desired date: October 15
 - Post-launch KPI 1: xx lorem ipsum
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum

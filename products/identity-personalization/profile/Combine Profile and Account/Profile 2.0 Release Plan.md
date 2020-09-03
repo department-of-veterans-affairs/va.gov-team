@@ -4,7 +4,7 @@
 ## Phase I: UAT
 
 ### Planning:
-- **Desired date range or test duration** Estimated: 8/12 - 8/25
+- **Date range or test duration** Estimated: Tuesday, 9/1 - Friday, 9/4
 - **Desired number of users:** 10 users
 - **How you'll recruit the right production test users:** We will recruit users via Perigean. 
   - (We need to make sure that we have the email the user uses to log into Va.gov ahead of time)

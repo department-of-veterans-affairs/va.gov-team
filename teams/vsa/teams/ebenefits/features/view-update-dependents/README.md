@@ -1,5 +1,6 @@
 # View dependents & Add or change dependents
 `WIP`
+- [Incident Response](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/dependency-claims/incident-response.md)
 - GitHub Label: [vsa-ebenefits](https://github.com/department-of-veterans-affairs/va.gov-team/#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-ebenefits&repos=133843125&showPipelineDescriptions=false)
 - Slack channel: [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)
 - Old links ([Previous team's work](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/declare-dependent)): 
@@ -192,7 +193,7 @@ TBD after launch
 
 ## Target Launch Date
 - *What is your target launch date of your MVP/iteration?*
-  - June 2020
+  - August 2020
 - *What is your date for when you'll evaluate impact after launch?*
 
 ---
@@ -221,7 +222,7 @@ TBD after launch
 - Design Lead: Shawna Hein
 - Eng Lead: Paul Short
 - VA Web Comms Partner: 
-- VA Contact Center Partner(s): Chante
+- VA Contact Center Partner(s): Chante/Kimberly
 - Production Testing Partner(s):
 - Designer(s): Jim Adams
 - Content Writer(s): None
@@ -229,12 +230,13 @@ TBD after launch
 ### API Team
 - Product and Project: Jason Wolf
 - Front-end Engineer(s): Micah Chiang, Jesse Cohn
-- Back-end Engineer(s): Kathleen Crawford
+- Back-end Engineer(s): Kathleen Crawford, Derek Dyer
 
 ### Veteran Facing UX Team
 - Product and Project: Jason Wolf
 - Front-end Engineer(s): Micah Chiang, Jesse Cohn
-- Back-end Engineer(s): Kathleen Crawford
+- Back-end Engineer(s): Kathleen Crawford, Derek Dyer
+- Designer/Researcher: Jim Adams
 
 
 `*` = approval required for launch

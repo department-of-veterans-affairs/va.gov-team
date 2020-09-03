@@ -39,7 +39,7 @@ A list of metrics is being worked on and will be added in the coming weeks
 - Do veterans need to login before raising an inquiry
 - Introducing a chatbot to address initial information seeking by veterans before they are directed to submit an inquiry to VA 
 - Consolidation of categories and topics for a more efficient and enhanced experience
-- Hw can we utilize design standards within the VA to modernize the experience
+- How can we utilize design standards within the VA to modernize the experience
 - How might we create a better inquiry experience in light of larger initiatives that are improving the Get Help experience
 
 

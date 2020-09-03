@@ -100,9 +100,6 @@ The following pages are being built out.  This is pulled from the research info.
 - Automated submission
 - PDF generation (LightHouse is working it)
 
-## Solution Approach
-Reuse the existing 526 form and flow with only changes related to seperation dates and separation location.  EVSS handles the back-end submission with correct EP codes, etc.
-
 ## Value Propositions
 Service members being able to apply for their first VA benefits on VA.gov versus eBenefits will improve their overall experience and likelyhood of filing for these benefits.
 

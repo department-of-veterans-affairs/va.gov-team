@@ -30,7 +30,7 @@ Start off by introducing your team and VSP to your new work initiative. Discuss 
 ## Collaboration format: 30-minute meeting
 
 ### Request process
-**VFS Product Manager** initiates scheduling by submitting ZenHub issue — use `Project Kickoff` issue template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mandifrances&labels=product+support%2C+content-ia-team%2C+collaboration-cycle&template=project-kickoff.md&title=Project+Kickoff+%5BFeature-Name%5D) to open a ticket)_. VSP will schedule the meeting. Meeting is recorded.
+**VFS Product Manager** initiates scheduling by submitting ZenHub issue — use `Project Kickoff` issue template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd&labels=product+support%2C+content-ia-team%2C+collaboration-cycle&template=project-kickoff.md&title=Project+Kickoff+%5BFeature-Name%5D) to open a ticket)_. VSP will schedule the meeting. Meeting is recorded.
 
 ### Meeting attendees
 - VFS brings: 
@@ -45,9 +45,9 @@ Start off by introducing your team and VSP to your new work initiative. Discuss 
   - Content (Peggy)
   - Information architecture (Mikki)
   - QA (Peter)
-  - Product (Mandi)
+  - Product (Andrea Hewitt)
   - Analytics (Joanne)
-  - VSP’s DEPO co-leads (Kevin & Dror)
+  - VSP’s DEPO co-leads (Rachael, Kevin & Dror)
 
 ### Artifact inputs 
 You bring: 
@@ -86,8 +86,7 @@ Present a draft of your ideas to VSP and other expert designers. Learn about exi
 - Design experts bring: 
   - VSP designers (Emily and/or Crystabel) - required
   - Accessibility (Trevor) - required
-  - DEPO platform design expert (Kevin H) - optional
-  - DEPO Engineering Lead (Dror) - optional
+  - VSP’s DEPO co-leads (Rachael, Kevin & Dror) - Optional
 
 ### Artifact inputs
 You bring:
@@ -117,7 +116,7 @@ Meet with VSP practice area reviewers to confirm that your prototypes or mockups
 ## Collaboration format: 30-minute meeting 
 
 ### Request Process
-**VFS Product Manager** initiates scheduling by submitting ZenHub issue — use `Usability Testing Prep` template _(select in ZenHub dropdown or click [here]( https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mandifrances&labels=product+support%2C+content-ia-team%2C+collaboration-cycle&template=usability-testing-prep.md&title=Usability+Testing+Prep+%5BFeature-Name%5D) to open a ticket)_. VSP will schedule the meeting.
+**VFS Product Manager** initiates scheduling by submitting ZenHub issue — use `Usability Testing Prep` template _(select in ZenHub dropdown or click [here]( https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd&labels=product+support%2C+content-ia-team%2C+collaboration-cycle&template=usability-testing-prep.md&title=Usability+Testing+Prep+%5BFeature-Name%5D) to open a ticket)_. VSP will schedule the meeting.
 
 ### Artifact inputs
 You bring: 
@@ -148,8 +147,8 @@ VSP brings:
   - Content (Peggy) - required
   - Information architecture (Mikki) - required
   - QA (Peter) - required
-  - Product (Mandi) - required
-  - VSP’s DEPO co-leads (Kevin & Dror) - optional
+  - Product (Andrea Hewitt) - required
+  - VSP’s DEPO co-leads (Rachael, Kevin & Dror) - Optional
   - Analytics (Joanne) - optional
 
 ## For further support at this point
@@ -303,7 +302,7 @@ Get feedback on your completed build before rolling out to users.
 ## Collaboration format: 30-minute meeting
 
 ### Request Process
-**VFS Product Manager** requests meeting using the `Staging Review` template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mandifrances&labels=product+support%2C+content-ia-team%2C+collaboration-cycle%2C+staging-review&template=staging-review.md&title=Staging+Review+%5BFeature-Name%5D) to open a ticket)_. VSP will schedule the meeting.
+**VFS Product Manager** requests meeting using the `Staging Review` template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd&labels=product+support%2C+content-ia-team%2C+collaboration-cycle%2C+staging-review&template=staging-review.md&title=Staging+Review+%5BFeature-Name%5D) to open a ticket)_. VSP will schedule the meeting.
 
 ### Artifact inputs
 You bring: 
@@ -313,8 +312,8 @@ You bring:
 - Link to your [QA test plan](https://dsvavsp.testrail.io/index.php?/suites/view/2&group_by=cases:section_id&group_order=asc) in TestRail with [test results](https://dsvavsp.testrail.io/index.php?/runs/view/7&group_by=cases:section_id&group_order=asc) _for QA practice area review_ 
 - Link to your [Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/12) and [Summary(Defects)](https://dsvavsp.testrail.io/index.php?/reports/view/14) reports in TestRail _for QA practice area review_
 - Review the [staging accessibility review processes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md)
-- Verify low-level accessibility tests are complete. Choose one of these 2 options:
-  - **(preferred)** Use the [TestRail VSP low-level accessibility testing checklist](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc).
+- Verify foundational accessibility tests are complete. Choose one of these 2 options:
+  - **(preferred)** Use the [TestRail VSP accessibility testing checklist](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc).
   <br/>**OR**
   - Certify the checklist of required accessibility items in the staging review issue. All required items should be checked off so the accessibility specialist can start their review on time.
   - **Required accessibility checklist**
@@ -349,9 +348,9 @@ VSP brings:
   - Accessibility (Trevor) - required
   - Content (Peggy) - required
   - QA (Peter) - required
-  - Product (Mandi) - required
+  - Product (Andrea Hewitt) - required
   - Information architecture (Mikki) — optional
-  - VSP’s DEPO co-leads (Kevin & Dror) - optional
+  - VSP’s DEPO co-leads (Rachael, Kevin & Dror)
   - Analytics (Joanne) - optional
 
 ## For further support at this point
@@ -424,8 +423,8 @@ Accessibility experts complete a full accessibility audit and coordinate with th
 ### Artifact inputs
 You bring:
 - Access information for the tool or feature in production _**do not put staging credentials in your `va.gov-team` ticket; store or reference them in a .md file in the `va.gov-team-sensitive` repository**_
-- Verify low-level accessibility tests are complete. Choose one of these 2 options:
-  - **(preferred)** Use the [TestRail VSP low-level accessibility testing checklist](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc).
+- Verify foundational accessibility tests are complete. Choose one of these 2 options:
+  - **(preferred)** Use the [TestRail VSP accessibility testing checklist](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc).
   <br/>**OR**
   - Certify the checklist of required accessibility items in the audit request issue
   - **Required accessibility checklist**
@@ -459,7 +458,7 @@ Now that you’ve released your product and gathered some initial KPI data, eval
 ## Collaboration format: asynchronous
 
 ### Request Process
-**VFS Product Manager** link to your completed Release Plan in Slack [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams) and tag @mandi lipka
+**VFS Product Manager** link to your completed Release Plan in Slack [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams) and tag @andreahewitt
 
 ### Artifact inputs
 You bring: 

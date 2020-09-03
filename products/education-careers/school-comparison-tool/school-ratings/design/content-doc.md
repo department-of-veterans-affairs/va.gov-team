@@ -63,7 +63,7 @@ Distribution of ratings
 2 star { bar visual } NN% (NN users)  
 1 star { bar visual } NN% (NN users)  
 N/A { bar visual } NN% (NN users)  
-Veterans’ overall experience at this institution and whether they would recommend this school to other Veterans or military family members.  
+How was the overall experience at this school?  Would Veterans recommend this school to other Veterans or military family members?
 
 #### Quality of classes { star rating with numerical display } {expandable/collapsible mini accordion}  
 Distribution of ratings  
@@ -73,7 +73,7 @@ Distribution of ratings
 2 star { bar visual } NN% (NN users)  
 1 star { bar visual } NN% (NN users)  
 N/A { bar visual } NN% (NN users)  
-Courses, academic programs, and instruction met Veteran expectations for a high quality education.  
+Classes, academic programs, and instruction meet Veteran expectations for a high quality education.
 
 #### Online instruction { star rating with numerical display } {expandable/collapsible mini accordion}  
 Distribution of ratings  
@@ -83,7 +83,7 @@ Distribution of ratings
 2 star { bar visual } NN% (NN users)  
 1 star { bar visual } NN% (NN users)  
 N/A { bar visual } NN% (NN users)  
-Quality of online instruction, whether the technology for online classes was easy to use, and if the school offered support with any challenges.  
+Online classes are comparable quality to in-person instruction. Technology for virtual classes is easy to use. The school offers helpful tech support for online students.
 
 #### Job preparation { star rating with numerical display } {expandable/collapsible mini accordion}  
 Distribution of ratings  
@@ -93,7 +93,7 @@ Distribution of ratings
 2 star { bar visual } NN% (NN users)  
 1 star { bar visual } NN% (NN users)  
 N/A { bar visual } NN% (NN users)  
-The level of support the school provided in preparing and helping Veterans obtain employment.  
+Coursework prepares Veterans for the job market. Instructors and school support systems help them find work in their desired fields.
 
 ### Veteran friendliness
 
@@ -105,7 +105,7 @@ Distribution of ratings
 2 star { bar visual } NN% (NN users)  
 1 star { bar visual } NN% (NN users)  
 N/A { bar visual } NN% (NN users)  
-Ease of use of GI Bill education benefits at this school. Quality of support received from school’s VA certifying officials for processing of  benefits.  
+It’s easy to use GI Bill education benefits at this school.  School officials are helpful if there are challenges processing VA benefits.
 
 #### Veteran community { star rating with numerical display } {expandable/collapsible mini accordion}  
 Distribution of ratings  
@@ -115,7 +115,7 @@ Distribution of ratings
 2 star { bar visual } NN% (NN users)  
 1 star { bar visual } NN% (NN users)  
 N/A { bar visual } NN% (NN users)  
-Sense of community at school among Veterans and military-connected students. School’s level of effort in engaging Veterans.  
+There’s a robust community at the school for Veterans and military-connected students. The school supports and engages Veterans.
 
 #### Marketing practices { star rating with numerical display } {expandable/collapsible mini accordion}  
 Distribution of ratings  
@@ -125,10 +125,13 @@ Distribution of ratings
 2 star { bar visual } NN% (NN users)  
 1 star { bar visual } NN% (NN users)  
 N/A { bar visual } NN% (NN users)  
-School clearly explained admissions requirements, academic programs, and all the associated costs.  
+The school provides clear and detailed explanations of admissions requirements, academic programs, and all the associated costs.  
 
 ### About ratings 
 
-Schools are rated from one to five stars, with five being the best. Ratings are provided by Veterans who've attended this school. We reach out to Veterans who receive a Certificate of Eligibility (COE) for benefits, when they transfer into or out of a school, or when they graduate to provide a rating.  
+We ask Veterans to rate schools they’ve attended on a scale of 1-5 stars, with 5 being the best rating. 
 
-If schools request to know which Veterans provided ratings, we'll provide a list of all individuals who've submitted ratings, but not the individual ratings they've provided. The ratings Veterans provide won't be tied to the individual.
+We reach out to Veterans who’ve received a Certificate of Eligibility (COE) for benefits, when they transfer into or out of a school, or when they graduate to provide a rating.
+
+If a school asks us which Veterans rated their school, we'll provide a list of all individuals who've submitted ratings for that school.  However, those ratings won't be tied to the Veteran and we won’t share the individual ratings the students provided.
+

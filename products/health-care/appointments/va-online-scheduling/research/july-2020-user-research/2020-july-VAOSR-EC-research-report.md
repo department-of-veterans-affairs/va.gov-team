@@ -78,6 +78,12 @@ In the section below, findings and recommendations are explored in greater depth
 
 #### Content
 
+> "The more I answer here the less the person that calls will ask. That way they don't need to call, so I can do it all on the computer." - *Participant 10*
+
+> "I don't read all the text....If I were doing this, I don't know if I would get to this spot because its all the way down there." - *Participant 12*
+
+> "I can't make routine appointments, but I can make an urgent appointment. Only requesting appointments online. That's what it says. Isn't that where I am already at?" - *Participant 15*, referencing COVID warning on scheduling screen 
+
 Content presented the biggest burden to all users. Veterans indicated excessive trouble understanding, parsing through, and comprehending the information presented to them. For both experiences (VAOSR and Express Care), Veterans indicated not only was the amount of content a burden, but the variation throughout the content used to describe the same information difficult for them to manage. 
 
 Content about scheduling on [VA.gov](VA.gov) and throughout the tools and services on the platform are designed with Veterans. However, Veterans repeatedly expressed concerns in these research sessions about their constraints when interacting with the information online, due to a variety of factors, often including (but not limited to): PTSD, effects of combat-related injuries or conditions, technical ability, and/or age. Additionally, Veterans said that there is too much, albeit helpful, content, which contributes to and creates a sense of overload when they were interacting with both VAOSR and Express Care. For example, Veterans said the content on the subway map page for Express Care was important, made sense, and they understood that for emergency situations, they should proceed. This emergency content made several users think Express Care is intended for emergency care, despite reading a description of Express Care on the previous screen and identifying it as not for emergencies.  
@@ -94,9 +100,11 @@ Further confusion and frustration was created by content for Veterans when inter
 - Express Care content must be both reduced for readability and ease of comprehension as well as audited for consistency. 
 - Express Care content must be updated to reflect process for requesting this appointment type.
 
-*** *Note:*** all Veterans during these research sessions said that it was unusual for them to spend as much time as they were reading content. Some also acknowledged they would likely give up or not get as far along in the process as they did had they not been in the research session. If this were the case, they said they would give up and call their provider's office or the scheduling line to complete their request. 
+****Note:*** all Veterans during these research sessions said that it was unusual for them to spend as much time as they were reading content. Some also acknowledged they would likely give up or not get as far along in the process as they did had they not been in the research session. If this were the case, they said they would give up and call their provider's office or the scheduling line to complete their request. 
 
 #### Context
+
+> "They were cancelled for me. I didn't cancel them." - *Participant 11*
 
 Similar to content, providing context shapes a Veteran's understanding of the product or service they are interacting with and that experience determines their desire to use it in the future. Context comes through in the form of wayfinding, information, repeated and recognized patterns, and features that are developed closely alongside of the user. In this study, Veterans were asked to provide their opinions and feedback about the information provided on appointment cards about upcoming and previous appointments, how their appointments were displayed in their appointments list, the statuses of these appointments, and other indicators they may or may not have noticed or identified. Additionally, Veterans were asked to provide feedback about categorization and filtering of information on their appointments within their account, how the current format served them, and how it may work better. 
 
@@ -115,7 +123,15 @@ Additionally, Veterans indicated dissatisfaction with the information presented 
 
 #### "Scheduling an appointment" flow (VAOSR)
 
-- VAOSR "request an appointment flow" (selecting: type of care, location/choosing a facility, type of visit, providing details)
+> "I thought they would already know who I see, like when picking the location." - *Participant 10*
+
+> "I like that in addition to primary care there is a lot of special stuff....I figured primary care would be there, but the options are really good. When I see these options I am encouraged." - *Participant 12*
+
+> I would say its not worth it an ideal with my issue because who knows how long I will be on hold for. When I have time and potions I would call. - *Participant 12*
+
+> "Going through this scheduling set up might reduce time on the phone. ...For how big the VA is I am happy with this ability. ...I like it more than I don't." - *Participant 12*
+
+> "Basically for this kind of an appointment I am better off calling because it says they will call me back for an appointment. When I get the appointment right away, but doing this way it says they will contact for me for an appointment. It doesn't make sense. ...I might as well pick up the phone and make my appointment because at least I have it [scheduled] right then." - *Participant 14*
 
 Overall, Veterans navigated the "scheduling an appointment" flow with ease. However, several encountered significant problems with aspects of the process, most notably: selecting a location, choosing a type of care, providing details about their appointment, selecting a date/time and submitting their request. 
 
@@ -123,16 +139,27 @@ The most difficult points in the process and the step that most participants sai
 
 ***Recommendations:***
 
-- Reevaluate process for requesting an appointment flow to align with a user's mental model. 
-- Conduct additional user research to validate the changes proposed from this round of user research.
-- Redesign the location-selection process in VAOSR. 
-- On calendar selection page, add "next" button at bottom of calendar.
-- On calendar section page, change "next" button on calendar to say name of next month.
+- Reevaluate process for the request an appointment flow to align with a user's mental model. Focus areas should include: selecting an appointment type/type of care, choosing a location for the appointment, utilizing existing appointments as templates to pre-fill a new appointment request, incorporating logic to reason for appointment to narrow down type of care/appointment, based on medical necessity. 
+  - See [Rescheduling (and scheduling) options](#rescheduling-and-scheduling-options) for additional considerations.
+- Conduct additional user research to validate changes made based on this round of user research.
+- Consider reordering types of care list and/or provide a definition of each type of care listed. Many Veterans struggled to select the appropriate type of care based on their need, defaulting to primary care. 
+- Redesign the location-selection process in VAOSR. Alternatively (ideal), reevaluate the overall process for the request an appointment flow to include additional ways to select the location of an appointment, such as type of care, provider, and visit type.
+  - Concept: Simplify the process of selecting a location by including the city and state of the facility in the initial list.
+  - Concept: Allow Veteran to set a preferred facility/location in their profile, which will be the default location selected in the appointment request flow.  
+  - Concept: Use search functionality to allow Veteran to search for the location to request an appointment at. Example search parameters may include: city, state, facility name, or zip code. It may also be helpful to allow Veterans to search for a facility based on their provider's name, selecting the location based on their care team.
+- On calendar selection page, add "next" button at bottom of calendar. Consider dynamic content for "next" button, replacing "next" with the following month name, for additional context.
+- On calendar section page, provide content defining "AM" and "PM" to inform the decision a Veteran makes. For example, if an AM appointment is anything prior to noon, the calendar page should clarify. 
+- Redesign reason for appointment request to include different/more options based on the type of care selected at start of request flow. 
 
 #### Rescheduling (and scheduling) options
 
-- Rescheduling (and scheduling) options
+> "It was easier than what I thought...It was easier than making the appointment, it was easier to cancel it." - *Participant 14*
+
+When performing tasks related to cancelling appointments, most Veterans testing VAOSR identified a need to be able to reschedule appointments more easily. The current tool only allows for cancelling appointments, which must be rescheduled by going through the full request an appointment flow again. Additionally, many Veterans cited that their primary need for medical care are recurring and/or annual visits, which precludes them from using alternative scheduling methods, beyond scheduling appointments they need in person at their previous appointment. 
+
+Veterans specifically identified a gap in the scheduling tool's functionality to allow them to request an appointment with their existing provider or based on previous appointments. Incorporating the ability to schedule an appointment based on previous visits or utilize past appointments as a template for future scheduling requests would make VAOSR a viable option to many more Veterans seeking an appointment. 
 
 ***Recommendations:***
 
 - Create, test with Veterans, and implement the ability to reschedule and/or request a new appointment based on an appointment the Veteran already has scheduled/had in the past.
+- Redesign the request an appointment flow to allow for more flexibility and dynamic ways to schedule an appointment, including using upcoming and past appointments as templates for new appointments and to reschedule cancelled appointments. 

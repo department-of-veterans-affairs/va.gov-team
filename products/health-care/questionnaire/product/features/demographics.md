@@ -1,12 +1,4 @@
 
-
-
-  
-
-[Feature: Veteran Demographic Information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/demographics.md)
-
-
-
 # Demographics Feature  Outline
 
 > _The purpose of this document is for designers, PMs, and engineers to track and maintain the various use cases that exist for a given product to align early on use cases and edge cases and and is best maintained alongside the product outline. Each user story, feature desciption, and design docs will be reviewed by the team before sprint grooming to brainstorm all use cases/edge cases early on._
@@ -14,7 +6,7 @@
 ## Product Documentation
 [Questionnaires Product Outline ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/product-outline.md)
 - [Visit Intro Initiative (Proof of Concept)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/visit-intro.md)
-- [Feature - Demographics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/demographcs.md)
+
 
 ## High Level User Story/ies
 
@@ -32,13 +24,14 @@
 
  1. The first step after starting a questionnaire is to review demographics page.
 See Appt. Details Feature Outline for display of fields on the Demographics page.
- 2. Display demographics from ***[Authentication API- Mark]***
+ 2. Display demographics from ***[Profile API and determine what is coming from Vista/VAMF- Mark]***
 	- Display should be in a read only view mode
+	- Display contact information if retrieved from the API and if none then don't show the lable.  
 	- Patient full name - First Last 
 	- DOB
 	- Gender
-	- address
-	- contact (phone)
+	- address (can contain multiple)
+	- contact (phone) (can contain multiple)
  3. Display verbiage if any information is incorrect how the Veteran can update. 
 	- Can we add a link to open in a new browser window for them to update the profile page?
  4. All subsequent pages in the questionnaire must show 3 patient identifiers on the screen.

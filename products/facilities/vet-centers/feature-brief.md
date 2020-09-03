@@ -29,11 +29,12 @@ This document will focus on Vet Center detail page enhancement
 ### User Journey
 - Vet Centers are community-based counseling centers which provide a wide range of counseling, outreach, and referral services to eligible Veterans, active duty service members and their families. 
 - Vet Centers guide Veterans and their families through many of the major adjustments in lifestyle that often occur after a Veteran returns from combat. 
+- Vet Center benefits never expire so Veterans can be engaged in services off/on or continuously throughout the journey. 
 
 ### User Stories / Use Cases
 *What two or three core use cases do we believe should cover ~80% of users?*
 - As a Veteran, I need to search for services so that I can successfully transition from military to civilian life or find assistance after a traumatic event.
-- As a family member of an active duty service member, I need to find supportive services for military-related issues.
+- As a family member of an active duty service member, I need to find supportive services for issues related to my loved one's military experience. 
 
 ### Project Rationale
 _Why should this project be a priority?_ 
@@ -42,17 +43,23 @@ _Why should this project be a priority?_
   - ~ 1000 community access points (donated space at community partners
   - 83 Mobile Vet Centers (MVC) which are used for outreach and community disasters
 - Vet Centers are under-utilized and under-promoted benefit/service for Veterans, even through they are often the first touchpoint an active service member and/or family has with the VA.
-- Currently, Vet Centers do not have an online presence beyond the minimal information found on the Facility Detail pages within Facility Locator. 
-- Outreach coordinators at each Vet Center are tasked with creating awareness about the services in their community and digital presence will help with this, especially suring this time of limited face-to-face. 
+- Currently, Vet Centers do not have an online presence beyond the minimal information found on the Facility Detail pages within Facility Locator. They need to leverage the social media accounts (etc) of community partners or Public Affairs Officers at VA Medical Centers to promote activities
+- Outreach coordinators at each Vet Center are tasked with creating awareness/promotion about the services in their community and digital presence will help with this, especially during this time of limited face-to-face. 
 
 **Business drivers**
-- Jessica Schiefer (VHA Vet Center Communications Officer) has expressed an interest in partnering on this initiative. 
+- Jessica Schiefer (VHA Vet Center Communications Officer) and selected team of representative Outreach Specialists 
+  - Bryan Doe (Springfield, MA)
+  - Elizabeth Jackson (Orlando, FL)
+  - Ken Milam (Escanaba, MI)
+  - Austin Wilmarth (Colorado Springs)
+  - Troy Stormoen (Reno, NV)
+- Aptive (vendor: asssting with data collection and organization from the technical side)
 
 ### Project Scope and Scale
 _What's in and what's out?_
 
 **3Q 2020**
-- Establish Veteran facing taxonomy for services offered at Vet Centers during 3Q 2020, we can support our long term goal of enhancing the online presence for Vet Centers 
+- By establishing Veteran facing taxonomy for services offered at Vet Centers during 3Q 2020, we can support our long term goal of enhancing the online presence for Vet Centers 
 
 ### Not currently in scope
 
@@ -83,4 +90,8 @@ _Links to requirements documentation, wireframes/mock-ups, research, etc._
 [Veteran Journey Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
 [Initial Design files](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/design)
+
+[Brand Analysis Report, March 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/VetCenters_BrandAnalysisReport_03272020.pdf)
+
+[Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery)
 

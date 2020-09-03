@@ -280,6 +280,19 @@ You should get output that includes `HTTP/1.1 302 FOUND`. If not, check that the
 ### Socks script
 An alternative to SwitchyOmega is to use [the `socks` script](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/scripts/socks). The `socks` script loads your key into the SSH agent, starts the socks proxy, and sets up your system to proxy only URLs that require the proxy. It has the advantage of not requiring any third-party extensions, and it works with Chrome and Firefox browsers.
 
+### Using the va.sh helper script
+
+Within the DevOps [utilities repo](https://github.com/department-of-veterans-affairs/devops/tree/master/utilities) exists a nifty helper script called [va.sh](https://github.com/department-of-veterans-affairs/devops/blob/master/utilities/va.sh_README.md). One of the things it makes easier is a helper to quickly enable/disable the proxy via command-line.
+
+To enable the proxy:
+   `va.sh socks on`
+
+To disable the proxy:
+   `va.sh socks off`
+
+More info/details in the [README](https://github.com/department-of-veterans-affairs/devops/blob/master/utilities/va.sh_README.md).
+ 
+
 ## Tools
 
 ### Jenkins

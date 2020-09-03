@@ -1,21 +1,71 @@
 # Release Plan - Find VA Form (Detail Pages)
 
+__Summary of release plan steps:__
+Per product sync today - We will launch batches per steps: 
+
+**I. Batch 1 release** 
+
+1. **Publish batch 1 form pages to prod with a basic auth gate.**   `Blocked until CMS breadcrumb fixed by [ticket #2270](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2770)`
+
+2. Invite users to UAT the top 41 forms. 
+
+3. Fix any reported bugs if any. 
+
+
+**II. Batch 2 release**
+
+4. **Publish batch 2 forms - still behind basic auth gate.** 
+
+5. Monitor until we hit 300 users or 5 business days with less than 5% error rate. 
+
+6. Fix bugs if any. 
+
+7. Remove basic auth. 
+
+**III. After basic auth removed**
+
+8. Implement Batch 1 form pages redirects - 1:1 redirects
+
+9. Implement Batch 2  form pages redirects - bulk redirects to search
+
+**IV. Search page updates**
+
+10. Follow on with [post-launch search page updates](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10758): Related to field / Online tool CTA / form page connection / Misc page updates
+
+
+
 ---
 
-## Phase I: Internal production testing (also known as User Acceptance Testing, or UAT)
+## Phase I: Unmoderated internal production testing (also known as User Acceptance Testing, or UAT)
 
-### Planning:
+### Planning - Batch 1 form pages:
 
-- **Desired date range or test duration:**
+- **Date range:**
+  - Starting ~08/31/2020-09/09/2020
+- **Test duration:**
   - 5 business days
 - **Desired number of users:** 
-  - 10
+  - 25
 - **How you'll recruit the right production test users:** 
-  - PW team and DEPO volunteers
+  - PW team, DEPO volunteers, and forms stakeholders
 - **How you'll conduct the testing:** 
-  - Provide people a list of forms to search and links to test
-- **How you'll give the test users access to the product in production w/o making it live on VA.gov:** 
-  - This is a CMS content product. We are building a separate QA environment where we'll be able to test without making live on VA.gov Prod. 
+  - Provide people a list of form page links to test
+- **How you'll give the test users access to the product in production w/o making it findable on VA.gov:** 
+  - This is a CMS content product. In order to test full functionality (such as form download behavior) we have to publish on va.gov. We will not be able to test form downloads in demo/staging/preview. 
+- **How will you make the product available in production while limiting the number of users who can find/access it:** 
+  - We will do a 'hidden' launch, with basic auth gate in front of the form page directory. 
+  - We will not do redirects until post-UAT.
+  - We will UAT launch the first batch - (the top mvp top form pages)[#11155](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11155)
+
+- **What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:** 
+  - We will invite VA forms and business SMEs to visit their form detail page and test form download and links are working for them. 
+  - We will check error rate after we hit 25 users or 7 business days. We want < 5% error rate.
+  
+  We will track errors for:
+
+  - Form download links
+  - Online tool links on the form detail page
+  - Related forms links, if any, on the form detail page
 
 ### Results:
 
@@ -25,108 +75,26 @@
 - Types of errors logged: lorem ipsum
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
-
-## Phase II: Staged Rollout (also known as unmoderated production testing)
-
-### Do I need a staged rollout?
-
-<details>
-
-**Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
-
-* This change does not add substantial new functionality to VA.gov: *Yes*
-* This change does not impact user flows through tasks: *Yes*
-* This change does not affect traffic to backend services: *Yes*
-
-<details>
-
--  ~~*Example*: a change to a page's text content **could skip** staged rollout~~ 
--  ~*Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout~
--  ~*Example*: adding a new field to an existing form **could skip** staged rollout~  
-
--  ~~*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**~~ 
--  ~~*Example*: a significant change to how users navigate an existing form **needs staged rollout**~~ 
--  ~~*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **needs staged rollout**~~ 
-
-#### ~~Exceptions~~
-
-~~Right now, [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) are the primary tool VSP provides for facilitating staged rollout. If feature toggles don't work for your use case, you can request an exception from staged rollout in Staging Review.~~
-
-| ~~Feature type~~                        | ~~Possible with feature toggles?~~ |
-| --------------------------------------- | ---------------------------------- |
-| ~~New feature in existing application~~ | ~~Yes~~                            |
-| ~~New application~~                     | ~~Yes~~                            |
-| ~~Static content changes~~              | ~~Doable but tricky~~              |
-| ~~URL redirects~~                       | ~~No~~                             |
-
-~~Other exceptions to this requirement can be approved by DEPO VSP leads.~~
-
-</details>
-
-</details>
-
-This product does not need a staged rollout, per above criteria, but we have decided to take a staged approach due to several factors: 
-- number of new nodes
-- new CMS template
-- interconnectedness with forms search and Lighthouse API, and 
-- dependency on Transformer/node capacity.
-
-
-
-
-### Planning
-
-- Desired date range: _\[mm/dd/yy - mm/dd/yy\]_
-
-- **How will you make the product available in production while limiting the number of users who can find/access it:** 
-  - We will do a 'hidden' launch, no-index and no redirects of the legacy form detail pages.
-  - We will launch in batches: First batch -  the top MVP form detail pages (around 40-45 form detail pages). 
-
-- **What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:** 
-  - We will invite VA forms and business SMEs to visit their form detail page and test form download and links are working for them. 
-  
-  We will track errors for:
-
-  - Form download links
-  - Online tool links on the form detail page
-  - Related forms links, if any, on the form detail page
-
 - Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
 
-_The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
 
-### Stage A: Canary (Batch 1 - mvp top form pages) [#11155](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11155)
 
-_Test a small population of users to make sure any obvious bugs / edge cases are caught._
+### Planning - Batch 2 form pages: 
 
-#### Planning
+(Batch 2 - MVP non-top forms) [#12213](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12213)
 
-- **Length of time: **
-  - 7 business days
-- ~~Percentage of~~ **Users (and roughly how many users do you expect this to be): **
-  - Around 50 invited users plus users who click to the page from modernized forms search experience. 
-  - We will check error rate after we hit 100 users or 7 business days. We want < 5% error rate.
-
-#### Results:
-
-- Number of unique users: x
-- Metrics at this stage (per your "success criteria"): 
-- ~~Was the data submitted (if any) easy for VA to process?~~  There's nothing to submit.
-- Types of errors logged: 
-- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
-
-### Stage B: moderate (Batch 2 - MVP non-top forms) [#12213](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12213)
-
-~~_Test a larger population of users to make sure there are no issues exposed by larger usage patterns._~~ 
-
-We will do a 'hidden' launch, no-index and no redirects of remaining legacy form detail pages. Second batch -   'non-top' MVP form detail pages (around 400 - this number changes based on the VA forms database). 
+- We will do a 'hidden' launch, no redirects of remaining legacy form detail pages. Second batch -   'non-top' MVP form detail pages (around 400 - this number changes based on the VA forms database). 
+ - We will do a 'hidden' launch, with basic auth gate in front of the form page directory. 
+ - We will remove basic auth after 300 users or 5 business days with less than 5% error rate.
+ - We will not do redirects until post-UAT.
 
 #### Planning
 
 - **Length of time: **
-  - 7 business days
+  - 5 business days
 - ~~Percentage of~~ **Users (and roughly how many users do you expect this to be):** 
-  - We will check error rate after we hit 300 users or 7 business days. We want < 5% error rate.
+  - We will check error rate after we hit 300 users or 5 business days. We want < 5% error rate.
+  - Remove basic auth after ^. 
 
 We will track errors for:
 
@@ -145,7 +113,7 @@ We will track errors for:
 _More stages? Sure! If it makes sense for your product! Plan them out with the same structure as above._
 
 
-## Go Live! - Open launch (remove noindex [#12242](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12242) & implement redirects [#5549](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5549))
+## Go Live! - Open launch (~remove noindex [#12242]~ & implement redirects [#5549](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5549))
 
 Remove no-index from modern form detail pages. 
 

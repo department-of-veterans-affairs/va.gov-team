@@ -3,7 +3,9 @@
 ## Goals
 1. **What product & team are you doing this research for?**
 
-This UAT will be conducted with service members requesting their first disability claim before they are discharged from the miltary using the BDD tool built into the 526 flow. 
+This UAT will be conducted with one group of service members requesting their first disability claim before they are discharged from the miltary using the BDD tool built into the 526 flow, and a second group of service members that submit a normal claim within 1-89 days of separation.
+
+Note that the Service Members will submit a real claim (either a normal claim or a BDD claim), and need to agree to do this in the session. We have Paul Shute and Barry Cooper in the session, that can correct anything after the submissions, if needed. 
 
 2. **Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?**
 
@@ -22,27 +24,38 @@ Service members who are separating and plan to file for disability can file thei
 1.	**What method of research are you planning?**
   
   - Moderated UAT.
+  - These sessions will not be recorded. 
   
 2.	**Why this method? How does this methodology help you answer your research questions?** 
 
 - We have already done integration testing with EVSS and have completed rounds of usabilty with new designs.  This testing is to determine a go/no go decision with rolling out BDD to 25%.
 
+-Specifically we want 5 active service members, that are eligible for BDD, submit a real BDD claim in the UAT test. The 5 service members must understand that they are submitting a real BDD claim, be eligible and have all the necessary documents ready for the UAT sessions. They need also to be ready for a VA claim exam 45 days after they submit the claim 
+
+-We also want 5 VA veterans, (separated 1-89 days ago) that will submit a normal claim. The 5 service members must understand that they are submitting a real claim, be a VA member and be eligible to submit a normal claim, and have all the necessary documents ready for the UAT sessions. They need also to be ready for a VA claim exam 45 days after they submit the claim 
+
 3.	**Where are you planning to do your research?**
 
-- VA.gov
+- Through Zoom
+
 
 4.	**What will you be testing?**
 
-- BDD functionality and the wizard that directs them to the BDD version of 526.
+- Submit a claim 1-89 days before separation.
+- Submit a claim 90-180 days before separation (BDD). Test BDD functionality and the wizard that directs them to the BDD version of 526.
 
 ## Participants and Recruitment
 
 1.	**Participant criteria: What are you looking for in a participant?**
 
-We would like **5** participants who must meet the following criteria:
+We would like **5** participants who MUST meet the following criteria:
 Required for participating in this study: 
 
 - Participants must have a DS Logon account.
+- Participants must have their Service treatment records available. 
+- Participants must have any Additional evidence to support their claim available (for example Private medical records, 
+or Lay statements).
+- Participants must be available to report for a claim exam 45 days after filing. 
 - Participants must be separating from the miltary between 90-180 days from now.
 - Participants will be claiming at least one disability.
 - Participants must have no problem seeing the content on the screen and hearing the moderator. 
@@ -53,10 +66,14 @@ Nice to have requirements:
 - Good spread in demographics.
 - Good spread across different levels of "tech-savviness".
 
-We would like **5** participants who must meet the following criteria:=
+We would like **5** participants who MUST meet the following criteria:
 Required for participating in this study: 
 
 - Participants must have a DS Logon account.
+- Participants must have their Service treatment records available. 
+- Participants must have any Additional evidence to support their claim available (for example Private medical records, 
+or Lay statements).
+- Participants must be available to report for a claim exam 45 days after filing. 
 - Participants must be separating from the miltary between 1-89 days from now.
 - Participants will be claiming at least one disability.
 - Participants must have no problem seeing the content on the screen and hearing the moderator.
@@ -75,23 +92,23 @@ We will work with Perigean to recruit for this study.
 
 1.	**Timeline: What dates do you plan to do research?**
 
-We are looking to start sessions **Thursday, August 27, 2020. We will test with users August 27, 28, and 31**.
+We are looking to start sessions **Thursday, Saptember 2, 2020. We will test with users September 2, 3 and 4 **.
 
 2.	**Prepare: When will the thing you are testing be ready?**
 
-BDD should be live on production with EVSS on or about August 21, 2020. 
+BDD should be live on production with EVSS on or about August 26, 2020. 
 
 3. **Length of Sessions: How long do you estimate each session will be?**
 
-We expect sessions to only be 30-45 minutes. **Please schedule sessions for 45 minutes with a 15 minute buffer between sessions**.
+We expect sessions to be 60 minutes. **Please schedule sessions for 60 minutes with a 30 minute buffer between sessions**.
 
 4.	**Availability: If applicable, when would you like sessions scheduled?**
 
-Between 11am and 7pm each day, with 15 min between each session.
+Between 11 am and 7pm EST.
 
 5.	**Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
 
-Wednesday August 26. 
+Wednesday September 1. 
 
 ## Team Roles
 **Please list the people who will be serving in each role.**
@@ -102,7 +119,7 @@ Wednesday August 26.
 - **Project point of contact**: Christian Valla and Luke Majewski
 - **Participant(s) for pilot test**: Kevin S.
 - **Note-takers**: Kevin S.
-- **Observers**: Luke Majewski, Anna Carey, Robin Garrison, Nick Sprinkle, Barry Cooper, Tze Lei
+- **Observers**: Luke Majewski, Anna Carey, Robin Garrison, Nick Sprinkle, Barry Cooper, Tze Lei, Paul Shute, Ed Mangimelli
 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
 
@@ -114,6 +131,8 @@ Wednesday August 26.
 - Nick Sprinkle (nick.sprinkle@oddball.io)
 - Tze Lei (tze@adhocteam.us)
 - Barry Cooper (Barrett.Cooper@va.gov)
+- Paul Shute (Paul.Shute@va.gov)
+- Ed Mangimelli (ed.mangimelli@adhocteam.us)
 
 ## Resources
 - [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/disability-compensation-claim/bdd)

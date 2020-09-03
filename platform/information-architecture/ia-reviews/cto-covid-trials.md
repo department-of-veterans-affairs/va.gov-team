@@ -1,5 +1,5 @@
 # IA Review and Recommendations
-**STATUS: IN PROGRESS**
+**STATUS: COMPLETE**
 
 **Team:**  CTO COVID Vaccine Trials 
 
@@ -22,8 +22,8 @@
 
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
-Research static page | www.va.gov/coronavirus-research/ | Home > Participating in Coronavirus research at VA | Need to review breadcrumb.
-Sign up page | www.va.gov/coronavirus-research/volunteer/ | Home > Participating in Coronavirus research at VA > Sign up to volunteer | This page should not be listed in the XML site map and should also be set to 'noindex'.  
+Research static page | www.va.gov/coronavirus-research/ | Home > Participating in coronavirus research at VA | 
+Sign up page | www.va.gov/coronavirus-research/volunteer/ | Home > Participating in coronavirus research at VA > Sign up to volunteer | This page should not be listed in the XML site map and should also be set to 'noindex'.  
 
 
 <hr>

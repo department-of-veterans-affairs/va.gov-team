@@ -1,23 +1,25 @@
-# [PDF]: Table is missing headers
+# Table is missing headers
 
 ## Table of contents
 
+- [Table is missing headers](#table-is-missing-headers)
+  - [Table of contents](#table-of-contents)
   - [Descrption of the issue](#description-of-the-issue)
   - [Definition of done](#definition-of-done)
-  - [Steps to fix the issue](#steps-to-fix-the-issue)
+  - [Add table headers](#add-table-headers)
     - [Define table headers in Microsoft Word](#define-table-headers-in-microsoft-word)
-    - [Define table headers in Adobe Acrobat Pro](#define-table-headers-in-adobe-acrobat-pro)
+    - [Define table headers in Adobe Acrobat](#define-table-headers-in-adobe-acrobat)
   - [Test for compliance](#test-for-compliance)
     - [Microsoft Word accessibility panel](#microsoft-word-accessibility-panel)
-    - [Acrobat Pro accessibility tools](#acrobat-pro-accessibility-tools)
+    - [Adobe Acrobat Pro accessibility tools](#adobe-acrobat-pro-accessibility-tools)
   - [Learn more](#learn-more)
 
 ## Description of the issue
 
-- Synopsis: Make tables accessible in PDF documents by using table elements. The applicable standard from Section508.22.h dictates to "associate data and header cells for multi-dimensional data tables."
-- Severity: [508-defect-1❗️Launch blocker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-pdfs-table-header-missing/platform/accessibility/guidance/defect-severity-rubric.md#types-of-severity-1-issues-in-pdf-documents) for new documents. Documents previously published should be remediated as soon as possible.
-- Deque University help link: https://dequeuniversity.com/rules/comply-pdf/1.0/table-miss-header
-- WCAG Success Criteria: [1.3.1 Info and Relationships](https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html)
+- **Synopsis:** Make tables accessible in PDF documents by using table elements. The applicable standard from Section508.22.h dictates to "associate data and header cells for multi-dimensional data tables."
+- **Severity:** [508-defect-1❗️Launch blocker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#508-defect-1) for new documents. Documents previously published should be remediated as soon as possible.
+- **Deque University help link:** https://dequeuniversity.com/rules/comply-pdf/1.0/table-miss-header
+- **WCAG Success Criteria:** [1.3.1 Info and Relationships](https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html)
 
 ## Definition of done
 
@@ -25,7 +27,7 @@
 - There MUST be **0 table header violations** in the Acrobat [Accessibility Checker](https://www.adobe.com/accessibility/products/acrobat/using-acrobat-pro-accessibility-checker.html)
 - Consider exporting an accessibility report from Adobe Acrobat while running the Accessibility Checker
 
-## Steps to fix the issue
+## Add table headers
 
 Tables that are missing table headers can be remediated in Microsoft Word (preferred) or Adobe Acrobat.
 
@@ -41,7 +43,7 @@ Table header rows can be defined in a few steps:
 
 ---
 
-### Define table headers in Adobe Acrobat Pro
+### Define table headers in Adobe Acrobat
 
 1. Open the **Tags** navigation pane. This can be accessed by selecting View > Show/Hide > Navigation Panes > Tags or selecting the Tag icon on the left tray of the Adobe Acrobat window.
 2. Select **Tags** to expand your document tag tree
@@ -58,13 +60,13 @@ Table header rows can be defined in a few steps:
 
 We recommend you check your Microsoft Word document for accessibility while working. Select the **Review** tab, then select the **Check Accessibility** button to open the Accessibility Checker panel.
 
-![Select the Review tab in Word, then select the Check Accessibility button](https://user-images.githubusercontent.com/934879/88831092-7a926180-d194-11ea-8b71-dce1300deb2d.jpg)
+![Select the Review tab in Microsoft Word, then select the Check Accessibility button](https://user-images.githubusercontent.com/934879/88831092-7a926180-d194-11ea-8b71-dce1300deb2d.jpg)
 
 ---
 
-### Acrobat Pro accessibility tools
+### Adobe Acrobat Pro accessibility tools
 
-1. Run the Acrobat Accessibility Checker by selecting the purple **Accessibility** button on the top right of your application window. 
+1. Run the Adobe Acrobat Accessibility Checker by selecting the purple **Accessibility** button on the top right of your application window. 
 1. Select **Accessibility Check** in the accessibility panel.
 1. Select the **Start Checking** button. The panel on the left of your document will report any issues.
 

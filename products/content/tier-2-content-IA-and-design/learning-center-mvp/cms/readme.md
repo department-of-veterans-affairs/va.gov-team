@@ -5,6 +5,62 @@
  -  LC go-to-market strategy: how will users find the Learning Center?
 </details>
 
+## Tuesday September 1 (4pm ET)
+
+1. Devshop env for FE development
+   1. [Demo environment docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-team-support/demo-environments.md)
+   1. POCs for DevShop env rebuild: Randi
+1. Review backlog for Sprint 14
+1. `Articles tagged` feature
+1. ~URL alias model for LC content [#2818](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2818)~ scheduled separately
+
+### Action items
+
+1. ~Schedule a separate call re: URL aliases with Jen Lee, Mikki Northuis, Meg Peters~ - scheduled for Sep 9th 10am ET
+1. Sep 2 EOD - kick off dev shop env for FE engineering
+1. Schedule 30mins w/ Randi to walk through DevShop rebuild process
+1. Schedule Search/Content Listing by tag brainstorm session
+
+## Tuesday September 1 (2:30-3:30pmET)
+
+Attendees: Jen Lee, Ryan Thurlwell, Kevin Walsh, Oksana Cyrwus
+
+1. FE Tags and authoring experience rules - [MURAL](https://app.mural.co/t/vagov6717/m/vagov6717/1597845145225/5e258a50346775afe0125cd5126bce952fde5d94). 
+   1. Finalize MVP topic and audience tag sets.
+   1. Finalize authoring rules for FE tags.
+1. Email component design (Ryan T. - dependency on Facilities)
+
+### Action items
+
+1. 
+
+## Wednesday August 26
+
+### Agenda
+
+1. MVP taxonomy
+   1. FE Tags and AX rules are still in progress - [MURAL](https://app.mural.co/t/vagov6717/m/vagov6717/1597845145225/5e258a50346775afe0125cd5126bce952fde5d94).
+1. Related Information component
+   1. Spec was finalized in [MURAL](https://app.mural.co/t/vagov6717/m/vagov6717/1597845145225/5e258a50346775afe0125cd5126bce952fde5d94) and will be transfered into CMS backlog for Sprint 14.
+1. Need more help? component
+   1. Spec was finalized in [MURAL](https://app.mural.co/t/vagov6717/m/vagov6717/1597845145225/5e258a50346775afe0125cd5126bce952fde5d94) and will be transfered into CMS backlog for Sprint 14.
+1. Governance
+   1. Didn't cover - lower priority.
+
+### Action items
+
+1. Oksana will schedule a follow-up to discuss FE tags logic.
+
+## Tuesday August 25
+
+### Agenda
+
+1. Review backlog / blockers
+
+### Action items
+
+1. 
+
 ## Wednesday August 19
 
 ### Agenda

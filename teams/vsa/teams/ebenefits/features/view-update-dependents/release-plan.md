@@ -1,5 +1,5 @@
 # UAT Release Plan: View, Add or Modify Dependents (21-686c/674)
-
+ - [UAT Research Plan and Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/uat)
 ## Phase I: Moderated Production Testing
 ### Planning:
 - Desired date range or test duration: **August 2020**  
@@ -28,7 +28,7 @@
 - "Success" criteria (by the numbers): 
 Objective 1: Empower Veterans to update dependents immediately
 Objective 2: Get Veterans the benefits they deserve in hours not months
-  - **Succesful submissions = 10,**
+  - **Succesful submissions => 10,**
   - **400 and 500 errors less than 5%, may be subject to change**
   - **Contact center calls less than 10% for errors,**
   - **Automatic award adjustment (RBPS) = 1**
@@ -48,12 +48,14 @@ Objective 2: Get Veterans the benefits they deserve in hours not months
 ## Go Live!
 
 ### Planning:
-- Desired date: July - August 2020
-- Post-launch KPI 1: xx lorem ipsum
-- Post-launch KPI 2: xx lorem ipsum
-- Post-launch KPI 3: xx lorem ipsum
+- Desired date: August 2020
+- Post-launch KPI 1: **Succesful submissions => 10,**
+- Post-launch KPI 2: **400 and 500 errors less than 5%, may be subject to change**
+- Post-launch KPI 3: **Contact center calls less than 10% for errors,**
+- Post-launch KPI 4: **Automatic award adjustment (RBPS) = 1**
 - etc
-- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
+- Go / No Go: (ready / not ready)  
+(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md)
 
 ### 1-week results:
 - Number of unique users: x
