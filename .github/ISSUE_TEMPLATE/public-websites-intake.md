@@ -3,7 +3,7 @@ name: Public Websites Intake Form
 about: To file requests with the VSA Public Websites team e.g. content support.
 title: <Type of Request> from <Team>
 labels: vsa-public-websites, vsa, vsa-public-websites-intake, needs-grooming, Epic
-assignees: lunascoop, DanielleThierryUSDSVA
+assignees: DanielleThierryUSDSVA
 ---
 
 ## Why you're here
@@ -15,13 +15,16 @@ assignees: lunascoop, DanielleThierryUSDSVA
 
 
 ## Steps to complete intake request
+
 - [ ] Submit this request when VSA Public Website team intervention is required
 - [ ] Provide detailed information of your request to help us understand our role in completing your request 
-- [ ] Link to this issue in [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites) in Slack, tag @Selina Cooper 
+- [ ] Link to this issue in [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites) in Slack, tag @Danielle Thierry 
 
 __When to submit a request__
 
-Requests should be submitted at least **2 weeks** in advance of the targeted launch/completion.  Make your request as soon as you're aware you will need Public Website participation. Different types of requests may require more time in advance. For apps tool content support, try to engage a content person for your project kick-off.
+- **For apps tool content, landing pages, or engineering support to support new tools:** Please submit your request before your project kicks off so we can provide more effective and collaborative support. If your project has already kicked off, submit your request as soon as possible.
+
+- **For smaller editing needs:** Please submit your request at least **2 weeks** before your targeted launch.  
 
 ---
 
