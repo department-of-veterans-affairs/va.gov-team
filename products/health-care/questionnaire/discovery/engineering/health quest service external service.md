@@ -6,7 +6,7 @@ health questionaire clipboard service
 
 ## Overview and Terminology
 
- The health quest service connects to MAP in a similar way that VAOS does. It uses a subset of the same VAOS enpoints into MAP for appointments using only GET requests. There is some duplication here to avoid effecting the VAOS metrics. In addition, this service will be used to connect to PGD through MAP
+ The health quest service connects to MAP in a similar way that VAOS does. It uses a subset of the same VAOS enpoints into MAP for appointments using only GET requests for appointments. There is some duplication here to avoid effecting the VAOS metrics. In addition, this service will be used to connect to PGD through MAP
 
 ## Integration Endpoints
 
