@@ -5,7 +5,7 @@
 { Landing page filters below have copy updates }  
 
 Select an institution { Radio buttons }  
- * Schools only { Default selection }
+ * Schools { Default selection }
  * Employers (On-the-job training [OJT], apprenticeships)  
  * VET TEC training providers only ([Learn more]()) { modal link }  
  
@@ -33,7 +33,7 @@ State { dropdown with full state names; ALL is default value }
 
 Warnings and school closings ([Learn more]()) { modal link }  
 
-- [ ] Exclude results with warnings or school closings { checkbox }  
+- [ ] Exclude results with warnings or closings { checkbox }  
 
 Select an institution { radio buttons }  
 - All  
@@ -73,7 +73,7 @@ Your housing allowance { additional information component }
 
 ### Refine search 
 
-Enter a school, employer name, city, or zip code { Search/filter text field }  
+Enter a program, provider, city, or zip code { Search/filter text field }  
  
 [ Search ] { button }   
 
@@ -92,4 +92,3 @@ Warnings and school closings ([Learn more]()} { modal link }
 - [ ] Preferred provider { star icon} ([Learn more]()) { modal link } { default selection = none } { checkbox }  
 
 Filter by provider { default selection = none } { Checkboxes }
- 
