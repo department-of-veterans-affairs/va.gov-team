@@ -33,7 +33,7 @@ OK,let's get started.
 2. Do you currently receive disability compensation or pension payments from the VA? NO
   - If not: Do you know if you are eligible to recieve disability compensation or pension payments from the VA?
 3. Can you confirm for me that you have a DS Logon, MyHealtheVet, or ID.me account? 
-4. Do you know your username and password? Ajosephfrank@gmail.com
+4. Do you know your username and password? 
   - If not: Are these readily accessible? Could get them?
   - If the user can not remember or retrieve their login credentials, end the session.
 5. Can you tell me what type of computer you are using today? 
