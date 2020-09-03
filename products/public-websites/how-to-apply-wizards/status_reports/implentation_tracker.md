@@ -23,7 +23,7 @@
   - Wizard dev ticket is https://github.com/department-of-veterans-affairs/va.gov-team/issues/12925
 - Education ([on Staging](https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction))
   - Rogers STEM ([on Staging](https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction))
-- Personalized Care & Planning Guidance [new Wizard on staging](https://staging.va.gov/education-and-career-counseling/apply-career-guidance-form-28-8832/introduction)
+- Personalized Care & Planning Guidance ([new Wizard on staging](https://staging.va.gov/education-and-career-counseling/apply-career-guidance-form-28-8832/introduction))
 
 - Platform Review/Feedback
   - [IA Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12244)
