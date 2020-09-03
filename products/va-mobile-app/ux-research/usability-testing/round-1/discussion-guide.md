@@ -65,11 +65,13 @@ Great, I can see your screen. Before we get started I just want to remind you th
 # Biometric sign in and homescreen (5 minutes)
 Please open the VA mobile app from the homescreen of this prototype and sign in. 
 
-**Things to watch for**
-- Does the participant react openly to thumbprint sign in? Is the reaction positive or negative?
-
 Now that you are signed in, I’m going to ask you to spend a minute looking at the home screen of your app. Please don’t click, but you can scroll.
-- What questions do you have about what you see here? 
+- What questions do you have about what you see here?
+
+**Things to watch for & follow up on if participant brings it up**
+- Does the participant react openly to thumbprint sign in? Is the reaction positive or negative?
+- Does the participant scroll to the bottom of the homepage?
+- Does the participant react to the homescreen cards?
 
 # Profile tasks and discussion (8 minutes)
 **Pre-task questions**
