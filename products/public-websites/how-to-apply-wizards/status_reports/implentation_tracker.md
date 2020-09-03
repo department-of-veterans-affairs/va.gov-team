@@ -31,22 +31,9 @@
     - Public Websites [Content Intake Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13028)
   - [Analytics Instrumentation Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13060)
   - [Accessibility Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12211)
+  - [Q-A Test Cases](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13124)
 
-- **Meeting Topics**
-  - Education benefits with the Wizards on the apply page:
-    - Education (Form 1990): https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction 
-    - 1990e - Apply to use transferred education benefits
-    - 1995 - Manage your Education Benefits
-    - 5490 - Apply for Education Benefits as an Eligible Dependent
-  - Education benefits without the Wizards on the apply page (to be confirmed):
-    - 0994 - Apply for VET Tech
-    - 1990n - Apply for Education Benefits under the National call to service program
-    - 5495 - Dependents' Request for Change of Program or Place of Training
-    - Form 22-10203 - Rogers STEM Scholarship
-  
 
-  - Rogers STEM application will go live on -- or around Sept 10 -- without the Wizard. There are no plans to add the Wizard to the introduction page.
-  - The Education Wizard needs to be updated to reflect (a) revised text for the Rogers STEM scholarship and (b) a link to the new online application (Note: Amy needs to provide new text and URL to Craig for implementation)
   - Platform IA review of the Education Wizard has surfaced some important questions about user flow:
     - Should the user need to [click a button to open the Wizard](https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction) -- or should the Wizard be [open by default](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction)?
     - What happens to a user who completes the wizard and wants to ignore the wizard recommendation?  The Wizard -- in effect -- disappears from the page when user clicks on the Apply Now button.
