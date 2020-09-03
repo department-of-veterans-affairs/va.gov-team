@@ -15,14 +15,14 @@ Content to come...
 - Where and how (what links/navigation) do participants expect to find...?
 - Do participants find the information in the feature useful and complete?
 - What, if any, other information do participants expect to see?
-- What changes are needed to beter present the information?
+- What changes are needed to better present the information?
 - What changes would help viewing data in mobile formats (small viewports only)?
 
 #### Hypotheses
 Content to come...
 
 ### Method
-We will engage in moderated usability testing conducted remotely using Zoom. Remote testing is curently to only viable option, but the metod should yield acceptable observations on which to base findings. Participants will be recruited using Perigean. These users will be provided links to UXPin prototypes to review the features. The sessions will be recorded, and observers and notetakers may be in attendance.
+We will engage in moderated usability testing conducted remotely using Zoom. Remote testing is currently the only viable option, but the method should yield acceptable observations on which to base findings. Participants will be recruited using Perigean. These users will be provided links to UXPin prototypes to review the features. The sessions will be recorded, and observers and notetakers may be in attendance.
 
 ### Participants and recruitment
 
@@ -84,8 +84,6 @@ The current timeline is pending...
 
 - [Conversation guide]() (Available soon.)
 
-- [CH36 mockups--NOTE: Superceded by prototypes](https://xd.adobe.com/view/d37b343f-1a48-4aee-782d-2a78d6109478-a54a/)
-
 - [CH36 prototype](https://preview.uxpin.com/2dbde8d15bf667f5c584fe4a8a6d011cf9f0a14d#/pages/132088555)
 
 - [CH36 form flow diagram](https://xd.adobe.com/view/0bfd10fc-c184-4d65-bee2-26498f854cfc-5eae/)
@@ -103,6 +101,8 @@ The current timeline is pending...
 ### References
 
 - [Personalized Career Planning & Guidance: Inbound User Flows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/ch36-user-flows.md)
+
+- [CH36 mockups--NOTE: Superseded by prototypes](https://xd.adobe.com/view/d37b343f-1a48-4aee-782d-2a78d6109478-a54a/)
  
 - [CH36 user flow diagrams](https://xd.adobe.com/view/f2e4cdec-1fa1-42ab-5cbf-e2a3c74c6663-84d5/)
  
