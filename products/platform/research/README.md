@@ -82,6 +82,18 @@ Q2 2020
 
 <br>
 
+#### External Services Research
+
+*Service Design: Andrea Chappelear*
+
+*BE Tools: Emily Waggoner, Alex Pappas*
+
+Q2 2020
+
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/tools/backend/Product/external-services-research)
+
+
+<br>
 
 #### Developer Experience Needs Finding
 
