@@ -59,7 +59,7 @@ _Why should this project be a priority?_
 _What's in and what's out?_
 
 **3Q 2020**
-- Establish Veteran facing taxonomy for services offered at Vet Centers during 3Q 2020, we can support our long term goal of enhancing the online presence for Vet Centers 
+- By establishing Veteran facing taxonomy for services offered at Vet Centers during 3Q 2020, we can support our long term goal of enhancing the online presence for Vet Centers 
 
 ### Not currently in scope
 
