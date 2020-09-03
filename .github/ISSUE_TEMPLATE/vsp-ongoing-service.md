@@ -10,7 +10,7 @@ assignees: ''
 
 
 ## Artifacts
-- Link to product outline ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md))
+- Link to product outline ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/product-management/product-outline-template.md))
 - Link to product README ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/product-management/product-readme-template.md))
 
 ## TODOs
