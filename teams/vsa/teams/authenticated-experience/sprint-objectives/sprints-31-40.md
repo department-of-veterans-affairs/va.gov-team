@@ -1,6 +1,6 @@
 # Authenticated Experience Sprint Objectives: Sprints 31 – 40
 
-- [Sprint 31]()
+- [Sprint 31](#sprint-31-923---106)
 - [Sprint 32]()
 - [Sprint 33]()
 - [Sprint 34]()
