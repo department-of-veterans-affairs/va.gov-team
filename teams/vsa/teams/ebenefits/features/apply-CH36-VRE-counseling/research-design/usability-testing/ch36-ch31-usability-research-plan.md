@@ -80,15 +80,19 @@ The current timeline is pending...
 - Observers -- various as available
 
 ### Resources
-- [Project brief for View Payment History](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-payment-history)
+- [Project brief for Personalized Career Planning & Guidance (Chapter 36)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling)
 
 - [Conversation guide]() (Available soon.)
 
-- [CH36 mockups]() (Available soon.)
+- [CH36 mockups--NOTE: Superceded by prototypes](https://xd.adobe.com/view/d37b343f-1a48-4aee-782d-2a78d6109478-a54a/)
 
-- [CH36 prototype]() (Available soon.)
+- [CH36/CH31 wizard flowcharts](https://xd.adobe.com/view/879cf230-f3ce-4204-79ba-c3453b0bcc09-f1ad/)
 
-- [CH31 prototype]() (Available soon.)
+- [CH36 prototype](https://preview.uxpin.com/2dbde8d15bf667f5c584fe4a8a6d011cf9f0a14d#/pages/132088555)
+
+- [CH36 form flow diagram](https://xd.adobe.com/view/0bfd10fc-c184-4d65-bee2-26498f854cfc-5eae/)
+
+- [CH31 prototype](https://preview.uxpin.com/e291c4ac8956d804d774160cdb82ecb724044689#/pages/129526673)
 
 - [CH36 in staging]() (Available soon.)
 
