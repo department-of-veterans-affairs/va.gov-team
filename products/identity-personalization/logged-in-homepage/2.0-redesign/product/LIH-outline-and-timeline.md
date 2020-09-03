@@ -2,12 +2,9 @@
 
 Based on the [V1 plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/product/v1-plan.md) and [Logged-in homepage discovery summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/discovery-summary.md) that Liz Lantz put together, we have planned out phases to design and build the new Logged-in homepage. 
 
-There are two directions that we could potentially tackle this work.
+The strategy that we outlined below is based on the following direction:
 
-1. Decide on our high level concept, then dig into each benefits category and code each of those one-by-one.
-2. Decide on our high level concept, code the most MVP version of all benefits categories and then iterate up from there on all categories. 
-
-The strategy we have outlined below is based on the first direction because it feels like focusing on one category at a time will ensure the best experience for veterans. 
+Decide on our high level concept, code the most MVP version of all benefits categories and then iterate up from there on all categories. 
 
 We broke this strategy down into 3 phases.
 
@@ -29,7 +26,7 @@ We broke this strategy down into 3 phases.
 
 **Healthcare** ~ 1-2 Sprints
 
-Deliverables: Full design, layout and specs for LOA3 (state with a lot of things) use cases. Includes all research and reviews.
+Deliverables: Full design, layout and specs for LOA3 (state when a user has benefits and / or healthcare). Includes all research and reviews.
 
 - Healthcare Overview (information changes dynamically depending on if a user has healthcare or not)
   - [ ] Visual design exploration
@@ -63,7 +60,7 @@ Deliverables: Full design, layout and specs for LOA3 (state with a lot of things
 
 **Claims** ~1-2 Sprints
 
-Deliverables: Full design, layout and specs for 'blank', LOA1 and LOA3 use cases. Includes all research and reviews.
+Deliverables: Full design, layout and specs for LOA3 (state when a user has benefits and / or healthcare). Includes all research and reviews.
 
 - Overall disability rating (shown conditionally if someone has a disability rating)
   - [ ] Visual design exploration
@@ -100,7 +97,7 @@ Deliverables: Full design, layout and specs for 'blank', LOA1 and LOA3 use cases
 - [ ] Hand-off to developers 
   
    
-## Phase 3: Design Education, Records, Applications in progress, Discover additional benefits sections: ~ 1-2 sprints
+## Phase 3: Design Education, Records, Applications in Progress, discover additional benefits sections: ~ 2 sprints
 
 **Education**
 
@@ -146,7 +143,12 @@ Deliverables: Full design, layout and specs for 'blank', LOA1 and LOA3 use cases
    - [ ] Visual design exploration
    - [ ] High fidelity mockups
    
-**Applications in progress** ~? Sprint
+**Applications in progress** 
+
+- Application in progress
+   - [ ] Visual design exploration
+   - [ ] High fidelity mockups
+
    
 **Discover other benefits**
 
@@ -154,15 +156,17 @@ Deliverables: Full design, layout and specs for 'blank', LOA1 and LOA3 use cases
    - [ ] Visual design exploration
    - [ ] High fidelity mockups
    
-- [ ] User Research for both education and records
+- [ ] User Research
 - [ ] Design updates from user research for both education and records
 - [ ] Stakeholder Review (Depending on research outcome) for both education and records
 - [ ] Platform checkpoints for both education and records
 - [ ] Hand-off to developers
 
+
 ## Phase 4: Design 'Blank'state and LOA1 state: ~ 1 sprint
 
-Deliverables: 'blank'(LOA3 with nothing), LOA1 
+Deliverables: Full design, layout and specs for LOA1 and LOA3 (user that does not have benefits or healthcare). Includes all research and reviews.
+ 
 
 ## Phase 5: Final validation and retirement of MyVA
 
