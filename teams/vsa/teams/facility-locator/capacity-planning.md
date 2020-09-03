@@ -32,6 +32,8 @@
 ### Additional out of office
 
 ## October 2020
+    - Leyda: October 5-9
+    
 ### Holidays
 ### Additional out of office
 
