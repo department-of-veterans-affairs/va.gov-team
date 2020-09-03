@@ -44,7 +44,7 @@ _Why should this project be a priority?_
   - 83 Mobile Vet Centers (MVC) which are used for outreach and community disasters
 - Vet Centers are under-utilized and under-promoted benefit/service for Veterans, even through they are often the first touchpoint an active service member and/or family has with the VA.
 - Currently, Vet Centers do not have an online presence beyond the minimal information found on the Facility Detail pages within Facility Locator. They need to leverage the social media accounts (etc) of community partners or Public Affairs Officers at VA Medical Centers to promote activities
-- Outreach coordinators at each Vet Center are tasked with creating awareness/promotion about the services in their community and digital presence will help with this, especially suring this time of limited face-to-face. 
+- Outreach coordinators at each Vet Center are tasked with creating awareness/promotion about the services in their community and digital presence will help with this, especially during this time of limited face-to-face. 
 
 **Business drivers**
 - Jessica Schiefer (VHA Vet Center Communications Officer) and selected team of representative Outreach Specialists 
