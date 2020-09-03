@@ -36,6 +36,7 @@
 ### Additional out of office
 
 ## September 2020
+    - Leyda: September 25
 ### Holidays
     - Labor Day observed: Monday, September 7 (GCIO, VA, Ad Hoc, CivicActions)
 
