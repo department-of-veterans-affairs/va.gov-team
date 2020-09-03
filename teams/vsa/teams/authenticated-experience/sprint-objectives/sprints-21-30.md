@@ -351,13 +351,27 @@ Design
 
 **Profile 2.0**
 
-- Launch Go/No-go
-- Phase 1 launch
-- Monitor analytics
+PM
 
-Post launch/Up next: Launch to 50%/100% and monitoring, 508 review, post launch review with platform team, any post-launch enhancements
+Dependency for Go/No-Go: All critical UAT issues are fixed.
+
+- Go/No-go: Launch to 25% of users
+- Phase 1 launch: Launch to 25% of users
+- Monitor analytics
+- Launch to 50% of users after 1 week **if** there are problems with launch to 25%
+
+Dev
+
+- Fix any critical UAT bugs pre-launch
+- Fix any non-critical UAT bugs (can be post-launch)
+- Other non-critical bugs from the backlog
 
 **Logged-in homepage**
 
 PM
-- Start documenting staging users scenarios (maybe)
+- Start documenting staging users scenarios 
+- Matt to start maintaining the logged-in homepage project epic
+
+Design
+
+- Phase 1: Create 2-3 high-level concepts for logged-in homepage
