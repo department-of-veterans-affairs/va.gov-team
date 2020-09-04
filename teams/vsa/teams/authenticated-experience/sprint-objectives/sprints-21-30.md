@@ -375,11 +375,13 @@ Anything outstanding from the previous sprint, plus:
 PM
 - Start documenting staging users scenarios 
 - Matt to start maintaining the logged-in homepage project epic
+- Schedule the [design intent collaboration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#design-intent-collaboration) check-in for the end of the sprint
 
 Design
 
 - Plan for how to work with the platform team #10516
 - Phase 1: Create 2-3 high-level concepts for logged-in homepage
+- [Design intent collaboration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#design-intent-collaboration) checkpoint meeting
 
 Dev
 
