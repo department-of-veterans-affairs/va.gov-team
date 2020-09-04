@@ -251,7 +251,7 @@ You should get output that includes `HTTP/1.1 302 FOUND`. If not, check that the
 
 1. Install Proxy SwitchyOmega.
 
-   - [Chrome](https://chrome.google.com/webstore/detail/proxy-switchyomega/switchy-omega-config-2.PNG)
+   - [Chrome](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
    - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/switchyomega/)
 
 1. Configure the `proxy` profile like this:
