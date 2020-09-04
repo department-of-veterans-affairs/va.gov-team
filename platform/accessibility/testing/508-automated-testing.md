@@ -1,4 +1,4 @@
-# DEPRECATED. Please read about the [future plan for keyboard end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#future-accessibility-tests)
+# Deprecated. Please read about the [future plan for keyboard end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#future-accessibility-tests)
 
 ## Automated Accessibility/508 Compliance Testing
 
