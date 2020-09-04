@@ -20,6 +20,7 @@ Summary recap of Platform review meeting held to discuss IA/UX/Content feedback.
   - Mikki will translate her IA recommendations into a format that allows for wider communication -- and use by Liz
   - Liz will create more specific design comps detailing important guidance/requirements
   - Peggy will work with Danielle to provide more specific content guidance for the teams
+  - John will provide this update to the Education product leads (Matt & Leah) as it will impact expectations and timeline -- and they can provide SME guidance on key questions, including should the Education Wizard go on all or select benefits pages?
   - We will conduct usability testing with veterans to ensure we can validate key changes outlined above before going back to the product implementation teams to finalize development for staging review.   This will likely result in delayed implementation for the Education and Disability teams.
   - We will provide more details to the product teams at a meeting set for next Thursday at 10am EST.
 
