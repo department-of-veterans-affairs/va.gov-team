@@ -226,12 +226,13 @@ This template modifies the existing 'subway map' component to allow screenshots 
 
 Specs - not including the basic requirements on all LC pages:
 
-- Everything that current subway maps allow, plus screenshots 
+- Everything that current subway maps allow, plus 1 image per step 
 - Section headers (H2s, H3s, etc.) - But the first section header after intro must be an H2 (don't allow H1 to jump to H3, etc.)
 - Alert (can be enabled below intro text, and within steps) - this is in addition to the alert that can be enabled as part of the 'shell' below intro block.
 - Can include multiple 'subway maps' with section headers. 
 - No videos, no tables, no callouts, etc.
 - The content type label in searches should be "Step-by-step"
+- No limit to the number of steps
 
 
 
