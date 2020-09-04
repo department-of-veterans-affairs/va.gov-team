@@ -12,7 +12,7 @@ As the VSA Shared Support team, I need to understand accessibility and QA needs 
 ## Issues to create within this epic:
 
 1. Authenticated Experience (Matt Shea)
-2. Public Websites (Mickin Sahni)
+2. Public Websites (Brian Lloyd)
 3. Benefits and Memorials 1 (Luke Majewski)
 4. eBenefits (Jason Wolf)
 5. Facility Locator (Michelle Middaugh)
