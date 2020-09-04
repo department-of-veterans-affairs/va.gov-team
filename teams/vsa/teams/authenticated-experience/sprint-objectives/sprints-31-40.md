@@ -19,9 +19,9 @@
 
 ### Logged-in homepage
 
-**Phase 2: Design Healthcare, Claims sections**
+**Design**
 
-Design
+Phase 2: Design Healthcare, Claims sections
 
 - Design health care section
 
@@ -29,9 +29,9 @@ Design
 
 ### Logged-in homepage
 
-**Phase 2: Design Healthcare, Claims sections**
+**Design**
 
-Design
+Phase 2: Design Healthcare, Claims sections
 
 - Get feedback on health care section; make updates
 - Design disability/claims section
@@ -40,9 +40,9 @@ Design
 
 ### Logged-in homepage
 
-**Phase 2: Design Healthcare, Claims sections**
+**Design**
 
-Design
+Phase 2: Design Healthcare, Claims sections
 
 - Get feedback on disability claims section; make updates
 - Plan for usability testing
@@ -51,9 +51,9 @@ Design
 
 ### Logged-in homepage
 
-**Phase 2: Design Healthcare, Claims sections**
+**Design**
 
-Design
+Phase 2: Design Healthcare, Claims sections
 
 - Conduct usability testing on health care and claims sections
 - Make updates
@@ -63,75 +63,99 @@ Design
 
 ### Logged-in homepage
 
-**Phase 2: Design Healthcare, Claims sections**
+**Design**
 
-Design
+Phase 2: Design Healthcare, Claims sections
 
 - Finish any final documentation
 
-Dev
-
-- Begin FE build
-
-**Phase 3: Design Education, Records, Applications in progress, Discover additional benefits sections**
-
-Design
+Phase 3: Design Education, Records, Applications in progress, Discover additional benefits sections
 
 - Design these sections
 - Get feedback; make updates
+
+**Dev**
+
+Phase 2: Design Healthcare, Claims sections
+
+- Begin FE build
 
 ## Sprint 36 (12/2 – 12/15)
 
 ### Logged-in homepage
 
-**Phase 2: Design Healthcare, Claims sections**
+**Design**
 
-Dev
-
-- Continue FE build
-
-**Phase 3: Design Education, Records, Applications in progress, Discover additional benefits sections**
-
-Design
+Phase 3: Design Education, Records, Applications in progress, Discover additional benefits sections
 
 - Design these sections
 - Get feedback; make updates
+
+**Dev**
+
+Phase 2: Design Healthcare, Claims sections
+
+- Continue FE build
 
 ## Sprint 37 (12/16 – 12/29)
 
 ### Logged-in homepage
 
-**Phase 2: Design Healthcare, Claims sections**
+**Design**
 
-Dev
-
-- Continue FE build
-
-**Phase 4: Design 'Blank'state and LOA1 state**
+Phase 4: Design 'Blank'state and LOA1 state
 
 - Design blank state and LOA1 states
 - Collect feedback; make updates
+
+**Dev**
+
+Phase 2: Design Healthcare, Claims sections
+
+- Continue FE build
 
 ## Sprint 38 (12/30 – 1/12)
 
 ### Logged-in homepage
 
-**Phase 5: Final user testing/validation**
+**Design**
 
-Design
+Phase 5: Final user testing/validation
 
 - Plan user testing
 - Conduct user testing on final mockups of LOA3 "full" and "blank" states
 
+**Dev**
+
+Phase 3: Design Education, Records, Applications in progress, Discover additional benefits sections
+
+- FE build
+
 ## Sprint 39 (1/13 – 1/26)
 
-**Phase 5: Final user testing/validation**
+**Design**
 
-Design
+Phase 5: Final user testing/validation
 
 - Implement updates from user testing
 - Finalize documentation for FE
 
 Initial design phase complete.
 
+**Dev**
+
+Phase 3: Design Education, Records, Applications in progress, Discover additional benefits sections
+
+- FE build
+
 ## Sprint 40 (1/27 – 2/9)
+
+**Dev**
+
+Phase 4: Design 'Blank'state and LOA1 state
+
+- FE build
+
+------
+
+Up next: LIH - Finish build; Prep for QA and 508; All pre-launch activities
