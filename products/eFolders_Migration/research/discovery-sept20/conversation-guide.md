@@ -34,19 +34,22 @@ I have started recording. I'd like to confirm: are you comfortable if I record m
 
 Alright! Now we can get started. 
 
-- Have you ever searched for VA-related documents online? 
+- Have you ever searched for the documents you've submitted for VA benefits and claims online? 
    - If yes:
       - What documents were you looking for?
       - Which VA site did you visit to search for those documents?
       - Did you find what you were looking for?
-      - How often do you search for VA-related documents?
+      - How often do you search for these types of documents?
+   - If no/they're unsure:
+      - Have you submitted a VA form for disability compensation, education benefits, health care benefits, etc.?
 
 - Have you ever used the My Documents tool on eBenefits?
    - If yes: 
-      - Can you describe that experience?
-      - How often do you use that tool? 
+      - Can you describe to me a specific time recently that you have used it? 
+      - What were you doing or looking for?
 
-- What types of VA-related documents would you be interested in finding online? 
+- What types of VA documents relating to your specific benefits and/or claims would you be interested in finding online?
+   - [If needed, ask the participant if they've submitted any forms, appeals, claims, etc. online that would generate PDFs with their personal information] 
 
 - If you were searching for [documents the participant named], what would that experience look like for you?
    - What would you do with these documents once you found them online?
@@ -89,7 +92,7 @@ Alright! Now we can get started.
 
 - Are you comfortable signing into your eBenefits account so we can access the My Documents tool? 
 
-[Participant signs in. Navigate them to the My Documents tool in the left menu bar] 
+[**Pause the recording while the participant signs in** Navigate them to the My Documents tool in the left menu bar] 
 
 - Go ahead and show me how you would find [one of the documents mentioned earlier]. Talk me through what you’re thinking as you search. 
 
