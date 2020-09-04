@@ -19,8 +19,10 @@ Staging reviews test the [happy path](https://en.wikipedia.org/wiki/Happy_path) 
 
 - [ ] Axe-coconut scans in daily development - [read more about the axe-coconut experimental plugin](https://www.deque.com/blog/test-leading-edge-accessibility-axe-coconut-axe-core-3-0/)
 - [ ] WAVE tool spot checks - [read more about the WebAIM WAVE tool](https://wave.webaim.org/)
-- [ ] Keyboard end-to-end tests. These tests are currently written in Nightwatch.js, and will be ported to Cypress.io in the future. [Read more about the legacy Nightwatch tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/testing/508-automated-testing.md)
 
+
+## Future accessibility tests
+* **Keyboard end-to-end tests**<br/>These tests are currently written in Nightwatch, and will be ported to Cypress in the future. [Read more about the legacy Nightwatch tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/testing/508-automated-testing.md)
 
 ## How to document that your team has completed the checklist
 
