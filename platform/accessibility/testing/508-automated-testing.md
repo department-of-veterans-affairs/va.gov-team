@@ -1,4 +1,6 @@
-# Automated Accessibility/508 Compliance Testing
+# DEPRECATED. Please read about the [future plan for keyboard end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#future-accessibility-tests)
+
+## Automated Accessibility/508 Compliance Testing
 
 The intent of this script is to create a common language, extensible functions, and predictable test runs for automated keyboard testing. The blocks below show an actual test in production, and the helper methods available in the API.
 
