@@ -2,7 +2,7 @@
 
 Summary recap of Platform review meeting held to discuss IA/UX/Content feedback. Participants included -- Platform reviewers (Mikki/Peggy) and Public Websites (Liz/John):
 
-- The move of the How to Apply Wizards from the How To content pages to the actual Apply Now introduction pages introduces more complexity than anticipated based on the variety of use cases (example -- authenticate, start application, go back to Wizard because as a user I am confused).
+- The move of the How to Apply Wizards from the How To content pages to the actual Apply Now pages introduces more complexity than anticipated based on the variety of use cases (example -- authenticate, start application, go back to Wizard because as a user I am confused).
 - Additionally, with multiple product teams implementing the Wizards at the same time (also not anticipated), the need to establish design pattern guidance (along with a fresh look at the Wizards as common react component) is needed.
 - As a result, the team has outlined the following steps to ensure successful implementation -- and ensure we deliver improved outcomes for servicemembers who are applying for benefits at VA.gov (with more details to come from Mikki & Liz):
   - **More time/effort will be needed to articulate and illustrate "design system" level changes (including IA/UX, Content and Functional) to the Wizards** that takes into account the new complexity and use cases introduced by moving Wizards to the applicaton pages.
