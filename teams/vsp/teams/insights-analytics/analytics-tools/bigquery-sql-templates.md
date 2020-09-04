@@ -9,8 +9,9 @@ SELECT
   SUM(totals.pageviews) as Pageviews
 FROM 
   `vsp-analytics-and-insights.176188361.ga_sessions_2020*`
-WHERE 
-  _TABLE_SUFFIX BETWEEN 'XXXX' and 'XXXX' //change here for relevant dates needed
+WHERE
+  -- change here for relevant dates needed
+  _TABLE_SUFFIX BETWEEN 'XXXX' and 'XXXX'
 GROUP BY 
   date
 ```
@@ -28,9 +29,11 @@ FROM
   `vsp-analytics-and-insights.176188361.ga_sessions_2020*` as GA,
   UNNEST(GA.hits) AS hits
 WHERE
-  _TABLE_SUFFIX = 'XXXX'//change according to desired specified date or use BETWEEN for a range
+  -- change according to desired specified date or use BETWEEN for a range
+  _TABLE_SUFFIX = 'XXXX'
   AND hits.type = 'PAGE'
-  AND REGEXP_CONTAINS(hits.page.pagePath,'.*coronavirus.*)') //change according to pagePath desired with RegEx matching
+  -- change according to pagePath desired with RegEx matching
+  AND REGEXP_CONTAINS(hits.page.pagePath,'.*coronavirus.*)')
 GROUP BY 
 1, 
 2
@@ -39,15 +42,17 @@ GROUP BY
 ### Content Grouping Views
 ```sql
 SELECT 
-  hits.contentGroup.contentGroupXX, //change according to content group desired 
+  -- change according to content group desired 
+  hits.contentGroup.contentGroupXX,
   SUM(hits.contentGroup.contentGroupUniqueViews1) as Unique_Content_Views,
   COUNT(*) AS Pageviews,
   SUM(IF(hits.isentrance = TRUE, 1,0)) as Entrances,
 FROM 
   `vsp-analytics-and-insights.176188361.ga_sessions_2020*`,
   UNNEST(hits) as hits
-WHERE 
-  _TABLE_SUFFIX = 'XXXX'//change according to desired specified date or use BETWEEN for a range
+WHERE
+  -- change according to desired specified date or use BETWEEN for a range
+  _TABLE_SUFFIX = 'XXXX'
   hits.type = 'PAGE'
 GROUP BY
   hits.contentGroup.contentGroupXX 
@@ -84,9 +89,12 @@ FROM
 WHERE
   totals.visits = 1
   AND hits.type = 'EVENT'
-  AND hits.eventInfo.eventLabel = 'XXXXX' //change according to relevant event
-  AND CDs.index IN(XX,XX) //change according to relevant custom dimension index values
-  AND _TABLE_SUFFIX = 'XXX' //change according to relevant date
+  -- change according to relevant event
+  AND hits.eventInfo.eventLabel = 'XXXXX'
+  -- change according to relevant custom dimension index values
+  AND CDs.index IN(XX,XX)
+  -- change according to relevant date
+  AND _TABLE_SUFFIX = 'XXX'
 GROUP BY
   fullVisitorId, 
   visitId, 
