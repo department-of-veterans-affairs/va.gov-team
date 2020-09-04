@@ -40,16 +40,25 @@ Phase 2: Design Healthcare, Claims sections
 
 ### Logged-in homepage
 
+**PM**
+
+- Schedule [Usability Test Prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#usability-testing-prep) checkpoint meeting
+
 **Design**
 
 Phase 2: Design Healthcare, Claims sections
 
 - Get feedback on disability claims section; make updates
-- Plan for usability testing
+- Plan for usability testing, including normal [review of the research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#research-plan-review)
+- [Usability Test Prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#usability-testing-prep) checkpoint meeting
 
 ## Sprint 34 (11/4 – 11/17)
 
 ### Logged-in homepage
+
+**PM**
+
+- Schedule [IA check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#information-architecture-ia-request)
 
 **Design**
 
@@ -58,6 +67,7 @@ Phase 2: Design Healthcare, Claims sections
 - Conduct usability testing on health care and claims sections
 - Make updates
 - Hand off to frontend to begin build
+- [IA check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#information-architecture-ia-request)
 
 ## Sprint 35 (11/18 – 12/1)
 
