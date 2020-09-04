@@ -16,9 +16,9 @@ We broke this strategy down into 3 phases.
 
 - [ ] Storyboarding [#12861](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12861)
 - [ ] Data points [#12861](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12861)
-- [ ] Whiteboarding [. ]( )
-- [ ] Wireframing (2-3 high level concepts) [ ] ( )
-- [ ] Review with team and pick preferred concept [ ] ( )
+- [ ] Whiteboarding [#13251](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13251)
+- [ ] Wireframing (2-3 high level concepts) [#13251](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13251)
+- [ ] Review with team and pick preferred concept [#13251](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13251)
 - [ ] Platform checkpoint [ ] ( ) 
 
 ## Phase 2: Design Healthcare, Claims sections: ~ 3-4 sprints
