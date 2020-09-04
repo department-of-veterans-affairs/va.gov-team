@@ -16,13 +16,12 @@ Summary recap of Platform review meeting held to discuss IA/UX/Content feedback.
       - 0994 - Apply for VET Tech
       - 1990n - Apply for Education Benefits under the National call to service program
       - Form 22-10203 - Apply for Rogers STEM Scholarship
-- Next steps the meeting participants:
-  - Mikki will translate her IA recommendations into a format that allows for wider communication and use by Liz
-  - Liz will create more specific design comps detailing key guidance/requirements
+- Next steps planned by the meeting participants:
+  - Mikki will translate her IA recommendations into a format that allows for wider communication -- and use by Liz
+  - Liz will create more specific design comps detailing important guidance/requirements
   - Peggy will work with Danielle to provide more specific content guidance for the teams
-  - We will look at conducting usability testing with veterans to ensure we can validate key changes outlined above before going back to the product implementation teams to finalize development for staging review.
-
-- We will provide more details to the implementation teams at a meeting set for next Thursday at 10am EST.
+  - We will conduct usability testing with veterans to ensure we can validate key changes outlined above before going back to the product implementation teams to finalize development for staging review.   This will likely result in delayed implementation for the Education and Disability teams.
+  - We will provide more details to the product teams at a meeting set for next Thursday at 10am EST.
 
 ### 9/1 Update
 
