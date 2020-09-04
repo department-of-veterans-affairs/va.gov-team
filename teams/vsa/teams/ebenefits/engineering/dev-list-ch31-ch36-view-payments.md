@@ -13,11 +13,11 @@ Based on mean velocities from the past 10 sprints or so, FE and BE should be com
 - Request formal 508 audit (1)  
 - Load TestRail (2)  
 - 🌀 Request QA Audit (1) 
-- 🌀 Usability Prep and sessions
-- 🌀 UAT
+- 🌀 Usability Prep and sessions (2)
+- 🌀 UAT (2)
 - 🌀 Staging Review (1)  
 - 🌀 Privacy and Security Audit (2)  
-Total = 7
+Total = 11
 
 ### Front End
 - 👉 [#12829](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12829) Add logic for showing/ hiding the Static Veteran Information page based on if the user is logged in or not (5)
