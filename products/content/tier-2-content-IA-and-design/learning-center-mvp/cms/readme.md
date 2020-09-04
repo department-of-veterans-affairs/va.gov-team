@@ -5,6 +5,15 @@
  -  LC go-to-market strategy: how will users find the Learning Center?
 </details>
 
+## Tuesday September 8
+
+### Agenda
+
+1. Review backlog for Sprint 14/15
+1. Table editorial experience
+
+### Action items
+
 ## Tuesday September 1 (4pm ET)
 
 1. Devshop env for FE development
