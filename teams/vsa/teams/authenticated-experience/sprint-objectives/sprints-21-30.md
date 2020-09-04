@@ -378,6 +378,7 @@ PM
 
 Design
 
+- Plan for how to work with the platform team #10516
 - Phase 1: Create 2-3 high-level concepts for logged-in homepage
 
 Dev
