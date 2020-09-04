@@ -4,6 +4,10 @@ Note Taker:
 
 Date:
 
+using DS Logon
+International phone number... makes it difficult to add DD information. You must have a work phone number to add. Participant said he would try to add a work phone number and then call for changing DD.
+
+Liked connected apps
 
 # Conversation Guide: Profile UAT
 
@@ -30,16 +34,16 @@ Before we start, a few things I want to mention:
 OK,let's get started.
 
 1. First, can you tell me a little bit about yourself? (If stuck, prompt to ask about service experience, where they live, their work).
-2. Do you currently receive disability compensation or pension payments from the VA?
+2. Do you currently receive disability compensation or pension payments from the VA? YES
   - If not: Do you know if you are eligible to recieve disability compensation or pension payments from the VA?
 3. Can you confirm for me that you have a DS Logon, MyHealtheVet, or ID.me account? 
 4. Do you know your username and password? 
   - If not: Are these readily accessible? Could get them?
   - If the user can not remember or retrieve their login credentials, end the session.
-5. Can you tell me what type of computer you are using today? 
+5. Can you tell me what type of computer you are using today?LG grand 
   - If needed: I'm asking this question because sometimes the type of computer can affect your experience with the tools. Knowing which one you are using will help our developers make adjustments if needed. 
 6. Have to ever connected a third-party application to your VA.gov account, like Apple health or any other applications?
-7. Can you tell me which web browser you are using?
+7. Can you tell me which web browser you are using? Chrome 
 8. Today we are going to observe you interacting with the new tools on your computer. Would you feel comfortable sharing your screen with me at this time?  
   - If no: Explain this is necessary for testing. If they are still unwilling, end the call.
 
@@ -63,12 +67,12 @@ OK, please share your screen, and then we will get started.
 [Go through this flow with ~3 participants]
 
 - In the 'Records' box in the lower right-hand corner, click on 'Change your address'. If they are LOA3, have them click on 'Go to your VA.gov profile'. 
-  - [ ] **UAT TASK:** Confirm that they are LOA3. You'll know that they are because they'll see a green button that says 'Go to your VA.gov profile' . If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**.
+  - [x] **UAT TASK:** Confirm that they are LOA3. You'll know that they are because they'll see a green button that says 'Go to your VA.gov profile' . If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**.
 - Click on 'Go to your VA.gov profile'. 
-  - [ ] **UAT TASK:** Personal and Contact Information page shows up. (link works correctly)
-  - [ ] **UAT TASK:** The user's name and military badge will be on the top left.
-  - [ ] **UAT TASK:** Navigation has loaded properly and is showing all sections.
-  - [ ] **UAT TASK:** If a user has or is eligible for disability compensation or pension payments  - Direct deposit should shows in the navigation.
+  - [x] **UAT TASK:** Personal and Contact Information page shows up. (link works correctly)
+  - [x] **UAT TASK:** The user's name and military badge will be on the top left.
+  - [x] **UAT TASK:** Navigation has loaded properly and is showing all sections.
+  - [x] **UAT TASK:** If a user has or is eligible for disability compensation or pension payments  - Direct deposit should shows in the navigation.
   - [ ] **UAT TASK:** If records can't be matched, the correct error is showing. **end the session**
 
 [Go through this flow with ~3 participants]
@@ -84,52 +88,52 @@ OK, please share your screen, and then we will get started.
 ## Personal and Contact Information - 5 min
 
 - So now we are looking at your profile. Does all of this information look correct?
-  - [ ] **UAT TASK:** Personal and contact information has been pulled in correctly
+  - [x] **UAT TASK:** Personal and contact information has been pulled in correctly
 
 - Go ahead and click on 'How do I update my personal information?'
-  - [ ] **UAT TASK:** FAQ opens up and appears to be formatted correctly.
+  - [x] **UAT TASK:** FAQ opens up and appears to be formatted correctly.
    
 - Next, please click any of the Edit links you see.
-  - [ ] **UAT TASK:** Edit form opens and appears to be formatted correctly.
+  - [x] **UAT TASK:** Edit form opens and appears to be formatted correctly.
   
 - With this form still open, click on another Edit link.
-  - [ ] **UAT TASK:** Required errors are returned.
+  - [x] **UAT TASK:** Required errors are returned.
 
 - Click 'Ok'. Without changing anything in the form, click 'Update'.
-  - [ ] **UAT TASK:** Address saves, edit form closes.
+  - [x] **UAT TASK:** Address saves, edit form closes.
   - [ ] **UAT TASK:** If it takes too long to save, the correct messaging is displayed.
   - [ ] **UAT TASK:** If the address cannot be saved, the required error is returned.
   - [ ] **UAT TASK:** If the address needs to be validated, the correct flow is delivered.
   
 - Click 'Edit' on the same or different section. Click 'Delete'. Just a reminder, we won't actually delete it.
-  - [ ] **UAT TASK:** Correct alert is returned.
+  - [x] **UAT TASK:** Correct alert is returned.
  
 - Click 'Cancel' on the modal. Add any letter to any field - don't worry we won't change any of your information. Click 'Cancel'.
-  - [ ] **UAT TASK:** Correct alert is returned.
+  - [x] **UAT TASK:** Correct alert is returned.
 
 - Click 'Cancel' on the alert. This did not update or change your information in any way.
-  - [ ] **UAT TASK:** Form closes.
+  - [x] **UAT TASK:** Form closes.
   
 - If the participant has any empty fields: Please click on the link 'Please add your...'
-  - [ ] **UAT TASK:** Edit form opens and is formatted correctly.
+  - [x] **UAT TASK:** Edit form opens and is formatted correctly.
   
 - Click 'Cancel'. 
-  - [ ] **UAT TASK:** Form closes.
+  - [x] **UAT TASK:** Form closes.
 - Next, click on 'How will you use my contact information?'
-  - [ ] **UAT TASK:** FAQ opens up and appears to be formatted correctly.
+  - [x] **UAT TASK:** FAQ opens up and appears to be formatted correctly.
 
 - Next, scroll to the 'Contact email address' section. Click on the link 'Update email address on ...'.
-  - [ ] **UAT TASK:** Link goes to the website where they manage their information
+  - [x] **UAT TASK:** Link goes to the website where they manage their information
  
  ## Military Information - 2 min
  
 - Great. Let's go back to the profile. Now, can you scroll back up to the navigation on the left and click on 'Military information'. Does this information look correct?
-  - [ ] **UAT TASK:** Military Information page shows up and appears to be formatted correctly. 
-  - [ ] **UAT TASK:** The user's service information is pulled in correctly.
+  - [x] **UAT TASK:** Military Information page shows up and appears to be formatted correctly. 
+  - [x] **UAT TASK:** The user's service information is pulled in correctly.
   - [ ] **UAT TASK:** If there is an issue, the correct error is returned.
 
 - Next, will you click on 'What if my military service information doesn't look right?'
-  - [ ] **UAT TASK:** FAQ opens up and appears to be formatted correctly.
+  - [x] **UAT TASK:** FAQ opens up and appears to be formatted correctly.
   
  ## Direct Deposit Information SKIP THIS SECTION IF THEY DO NOT HAVE DISABILITY OR PENSION PAYMENTS - 5 min
  
@@ -140,52 +144,52 @@ OK, please share your screen, and then we will get started.
   - [ ] **UAT TASK:** After they add 2FA, the direct deposit feature shows in the profile.
 
 - Does this information look correct?
-  - [ ] **UAT TASK:** Direct Deposit Information page shows up and appears to be formatted correctly.
+  - [x] **UAT TASK:** Direct Deposit Information page shows up and appears to be formatted correctly.
   
 - Can you click on 'Edit'?
-  - [ ] **UAT TASK:** Edit form opens and is formatted correctly.
+  - [x] **UAT TASK:** Edit form opens and is formatted correctly.
   
 - OK, now click on 'Where can I find these numbers'?
-  - [ ] **UAT TASK:** FAQ opens up and appears to be formatted correctly.
+  - [x] **UAT TASK:** FAQ opens up and appears to be formatted correctly.
   
 - Next, without adding anything, click 'Update' while the form is blank.
-  - [ ] **UAT TASK:** Correct errors are returned.
+  - [x] **UAT TASK:** Correct errors are returned.
  
 - Next, add a 1 to the Routing Number field. Click out of the field. Click 'Cancel'.
-  - [ ] **UAT TASK:** Correct alert is returned.
+  - [x] **UAT TASK:** Correct alert is returned.
   
 - Click 'Cancel'. 
-  - [ ] **UAT TASK:** Form closes.
+  - [x] **UAT TASK:** Form closes.
  
 - For this next task I'm going to ask you to open the form again and add your direct deposit information and click 'update', even if it is already correct in your profile.  If you would feel more comfortable, you can stop screensharing while you add and save this information. 
   - [ ] **UAT TASK:** Form closes, and the direct deposit information shows in the profile.
  
 - Click View Payment History.
-  - [ ] **UAT TASK:** Link goes to eBenefits.
+  - [x] **UAT TASK:** Link goes to eBenefits.
  
 - Next, scroll down to the Education Benefits section. Can you click 'Go to eBenefits to change your information'?
-  - [ ] **UAT TASK:** Link goes to eBenefits.
+  - [x] **UAT TASK:** Link goes to eBenefits.
   
 - Next, click on 'Find out how to change your information by mail or phone'.
-  - [ ] **UAT TASK:** Link goes to Change your VA Direct Deposit Information.
+  - [x] **UAT TASK:** Link goes to Change your VA Direct Deposit Information.
   
  ## Account Security - 2 min
  
 - Great. Now, can you scroll back up to the navigation on the left and click on 'Account Security'. 
-  - [ ] **UAT TASK:** Account Security page shows up and appears to be formatted correctly. 
-  - [ ] **UAT TASK:** Identity Verification is checked with correct messaging.
-  - [ ] **UAT TASK:** 2FA shows correct messaging depending on status.
-  - [ ] **UAT TASK:** Terms and Conditions shows correct messaging depending on status.
-  - [ ] **UAT TASK:** Sign in email is showing correct messaging.
+  - [x] **UAT TASK:** Account Security page shows up and appears to be formatted correctly. 
+  - [x] **UAT TASK:** Identity Verification is checked with correct messaging.
+  - [x] **UAT TASK:** 2FA shows correct messaging depending on status.
+  - [x] **UAT TASK:** Terms and Conditions shows correct messaging depending on status.
+  - [x] **UAT TASK:** Sign in email is showing correct messaging.
   
 - (ONLY IF APPLICABLE) Can you click on 'View terms and conditions for medical information'? 
   - [ ] **UAT TASK:** Link goes to Terms and Conditions page.
   
 - Let's go back to the profile. Can you click on 'Update sign in email address on ...'?
-  - [ ] **UAT TASK:** Link goes to the website where they manage their information.
+  - [x] **UAT TASK:** Link goes to the website where they manage their information.
   
 - Let's go back to the profile. Can you click on the 'Go to the VA.gov FAQs' link in the blue box?
-  - [ ] **UAT TASK:** Link goes to the FAQ page.
+  - [x] **UAT TASK:** Link goes to the FAQ page.
   
  ## Connected Apps - 5 min
  
@@ -196,19 +200,19 @@ OK, please share your screen, and then we will get started.
   
 ### If they DON'T have connected apps
 - Can you click on the link that says 'Apple Health'?
-  - [ ] **UAT TASK:** Link goes to the Apple Health page.
+  - [x] **UAT TASK:** Link goes to the Apple Health page.
   
 - Great, let's go back to the profile. Can you click on the link that says 'iBlueButton'?
-  - [ ] **UAT TASK:** Link goes to the iBlueButton page.
+  - [x] **UAT TASK:** Link goes to the iBlueButton page.
   
 - Great, let's go back to the profile. Can you click on the link that says 'MyLinks'?
-  - [ ] **UAT TASK:** Link goes to the MyLinks page.
+  - [x] **UAT TASK:** Link goes to the MyLinks page.
   
 - Great, let's go back to the profile. Can you click on 'How do I connect a third-party app to my profile'?
   - [ ] **UAT TASK:** FAQ opens and appears to be formatted correctly. 
   
 - Can you click on the 'frequently asked questions' link in the blue box?
-  - [ ] **UAT TASK:** Links to the FAQ page. 
+  - [x] **UAT TASK:** Links to the FAQ page. 
   
 ### If they DO have connected apps
 - Can you click on the link that says 'Learn about Apple Health'?
@@ -245,10 +249,10 @@ OK, please share your screen, and then we will get started.
 ## If time allows
 
 - Can you take your browser window and make it the size of a phone?  Now in this view can you go to the personal and contact information page?
-  - [ ] **UAT TASK:** Mobile menu appears and is operating correctly.
+  - [x] **UAT TASK:** Mobile menu appears and is operating correctly.
   
 - Go ahead and scroll through this page.
-  - [ ] **UAT TASK:** Mobile menu is sticky. 
+  - [x] **UAT TASK:** Mobile menu is sticky. 
 
 ## Post-Task Interview - 1 minutes
 
