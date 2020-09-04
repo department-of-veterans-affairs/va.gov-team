@@ -71,7 +71,7 @@ There are two sections with data being pulled from separate API’s, so I have s
 
 _This criteria is necessary to conduct the study._
 
-- We would like a total of **15** participants
+- We would like a total of **15** participants scheduled; our goal is to conduct 8-10 sessions.
 
 - Participants will need to log into eBenefits as part of the study. Please include the following screener questions:
    - “Have you used eBenefits to look for VA documents you’ve submitted in the past?” 
@@ -81,7 +81,7 @@ _This criteria is necessary to conduct the study._
       - Yes (Qualifies)
       - No 
 
-- We would like 7-8 participants who have previously submitted a benefit claim (VA form 526-EZ). Please include the following screener question:
+- We would like 7-8 participants scheduled who have previously submitted a benefit claim (VA form 526-EZ). Please include the following screener question:
    - “Have you ever submitted supporting evidence for a disability claim online, through a Veteran Service Organization (VSO), Power of Attorney (POA), or claim agent?”
       - Yes (Qualifies) 
       - No
