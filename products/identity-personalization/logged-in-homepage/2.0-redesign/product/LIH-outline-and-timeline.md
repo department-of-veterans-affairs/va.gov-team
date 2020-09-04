@@ -14,12 +14,12 @@ We broke this strategy down into 3 phases.
 
 ## Phase 1: Create 2-3 high-level concepts for logged-in homepage: ~ 1 sprint
 
-- [ ] Storyboarding #12861
-- [ ] Data points
-- [ ] Whiteboarding
-- [ ] Wireframing (2-3 high level concepts) 
-- [ ] Review with team and pick preferred concept
-- [ ] Platform checkpoint
+- [ ] Storyboarding [#12861](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12861)
+- [ ] Data points [#12861](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12861)
+- [ ] Whiteboarding [. ]( )
+- [ ] Wireframing (2-3 high level concepts) [ ] ( )
+- [ ] Review with team and pick preferred concept [ ] ( )
+- [ ] Platform checkpoint [ ] ( ) 
 
 ## Phase 2: Design Healthcare, Claims sections: ~ 3-4 sprints
 
