@@ -17,7 +17,7 @@ Summary recap of Platform review meeting held to discuss IA/UX/Content feedback.
       - 1990n - Apply for Education Benefits under the National call to service program
       - Form 22-10203 - Apply for Rogers STEM Scholarship
 - Next steps planned by the meeting participants:
-  - Mikki will translate her IA recommendations into a format that allows for wider communication -- and use by Liz
+  - Mikki will translate her IA recommendations into a format that allows for wider communication -- and use by Liz/Peggy/Danielle
   - Liz will create more specific design comps detailing important guidance/requirements
   - Peggy will work with Danielle to provide more specific content guidance for the teams
   - John will provide this update to the Education product leads (Matt & Leah) as it will impact expectations and timeline -- and they can provide SME guidance on key questions, including should the Education Wizard go on all or select benefits pages?
