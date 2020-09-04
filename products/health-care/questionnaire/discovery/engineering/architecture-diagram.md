@@ -7,7 +7,7 @@
 ## Legend
 ### A : Communication with MAP to get Appointment details 
 
-The Vets APi will use an exchange of JWT to create a secure connection. Using this connection, we can get access to an appointment's details based on on the AppointmentID
+The Vets APi will use an exchange of JWT to create a secure connection. Using this connection, we can get access to an appointment's details based on on the AppointmentID. The questionnaire trigger will send us the appointment Id. 
 
 This connection is how we are accessing VistA Scheduling data. 
 
@@ -15,11 +15,13 @@ This appointment will not be in FHIR format, but could be
 
 ### B: Lighthouse 
 
-Our preliminary idea is to use the Lighthouse Health API to access a vet's medical history. This API connects us to VistA health data.  
-
-Not yet, but someday, we plan on using Lighthouse Health API to pull in items such as medications, allergies. and other important health information.
+Our preliminary idea is to use the Lighthouse Health API to access a vet's medical history. This API connects us to VistA health data. Not yet, but someday, we plan on using Lighthouse Health API to pull in items such as medications, allergies. and other important health information.
 
 As of Sept 2nd, the Lighthouse team is looking into how to solve the Cerner integration problem. 
+
+We have future plans (in pink) to use the FHIR abilities of Lighthouse. Lighthouse plans to have have read and write of FHIR data for appointments, questionnaires and other relevant healthcare information.  The APIs are not yet created, but we will start to utilize them when they are released.
+
+Check out more in out [tech doc](README.md)
 
 ### C: Writing Questionnaire data.  
 
@@ -77,6 +79,7 @@ The MAP API supports FHIR Specs for questionnaires. When the VETS API sends data
 
 **Questions about FHIR**
 - When and where is the `Questionnaire` initially defined and stored?
+  - *Current Answer:* In PGD
   
 
 ## Outstanding Topics
