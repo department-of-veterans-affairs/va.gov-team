@@ -3,9 +3,10 @@ Ascertain remiaining tasks for these features
 ## Chapter 36 (Deadline October 26)
 Based on mean velocities from the past 10 sprints or so, FE and BE should be completed by September 22 (Sprint 30)
 
-👉 = in progress  
-❌ = no longer needed  
-🌀 = collaboration cycle
+👉 = In progress  
+❌ = No longer needed  
+✔ = Done  
+🌀 = Collaboration cycle  
 
 
 ### Product
@@ -30,8 +31,8 @@ Total = 7
 - [#12834](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12834) Connect and test BE endpoint for CH36 (2)
 - [#12059](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12059) e2e Test Dependent workflow (3)
 - [#12835](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12835) e2e test Veteran workflow NOT logged in (3)
-- [#11235](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11235) Meet with Analytics team to get GA events for chapter 36 form (1)
-- [#12055](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12834) Add GA events to form (3)
+- ✔ [#11235](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11235) Meet with Analytics team to get GA events for chapter 36 form (1)
+- ✔ [#12055](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12834) Add GA events to form (3)
 - [#12057](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12057) Perform internal accessibility audit (2)  
 - [#13129](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13129) Flipper component for unauth landing page (3)  
 Total = 49    
