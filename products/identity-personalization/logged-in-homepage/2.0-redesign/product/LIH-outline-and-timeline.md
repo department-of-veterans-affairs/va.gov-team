@@ -14,7 +14,7 @@ We broke this strategy down into 3 phases.
 
 ## Phase 1: Create 2-3 high-level concepts for logged-in homepage: ~ 1 sprint
 
-- [ ] Storyboarding 
+- [ ] Storyboarding #12861
 - [ ] Data points
 - [ ] Whiteboarding
 - [ ] Wireframing (2-3 high level concepts) 
