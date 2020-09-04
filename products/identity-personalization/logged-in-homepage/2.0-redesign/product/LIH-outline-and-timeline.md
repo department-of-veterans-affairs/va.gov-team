@@ -17,8 +17,7 @@ We broke this strategy down into 3 phases.
 - [ ] Storyboarding 
 - [ ] Data points
 - [ ] Whiteboarding
-- [ ] Wireframing
-- [ ] 2-3 high level concepts
+- [ ] Wireframing (2-3 high level concepts) 
 - [ ] Review with team and pick preferred concept
 - [ ] Platform checkpoint
 
