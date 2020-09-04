@@ -115,31 +115,54 @@ _More stages? Sure! If it makes sense for your product! Plan them out with the s
 - Post-launch KPI 5: Users engage with (open / close) accordions
 - Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
 
-### 1-week results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+### 1-week results (comparing June 18-24 to June 11-17):
+- Number of unique users: 21,616
+- Post-launch KPI 1 actual: Yes
+- Post-launch KPI 2 actual: 
+  - [Slight Increase in users who view profile page](https://analytics.google.com/analytics/web/?authuser=0#/report/conversions-goals-overview/a50123418w177519031p184334251/_u.date00=20200618&_u.date01=20200624&_u.date10=20200611&_u.date11=20200617&_.goalOption=7/); 
+  - [Increase in time on page](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184334251/_u.date00=20200618&_u.date01=20200624&_u.date10=20200611&_u.date11=20200617&_.goalOption=ALL&explorer-table.filter=profile&explorer-table.plotKeys=%5B%5D/)
+- Post-launch KPI3 actual: 
+  - Users engage with estimate controls at a higher rate. [Analytics for the 1st week post-launch](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184334251/_u.date00=20200618&_u.date01=20200624&_u.date10=20200611&_u.date11=20200617&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22GIBCT%20Form%20Change%22,0%5D,%5B0,%22analytics.pagePath%22,%22PT%22,%22~2Fgi-bill-comparison-tool~2Fprofile~2F%22,0%5D%5D&explorer-table.rowCount=100/)
+  - Check [GIBCT Dashboard for top 10](https://analytics.google.com/analytics/web/#/dashboard/PPUZ37Q0SOi_CiRCBb-HBg/a50123418w177519031p184334251/_u.date00=20200618&_u.date01=20200624&_u.date10=20200611&_u.date11=20200617/)
+- Post-launch KPI 4: Users engage with "Update benefits" button **[Yes](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184334251/_u.date00=20200618&_u.date01=20200624&_u.date10=20200611&_u.date11=20200617&explorer-table.plotKeys=%5B%5D&explorer-table.filter=update&_r.drilldown=analytics.eventCategory:Interactions/)**
+- Post-launch KPI 5: Users engage with (open / close) accordions **[Yes](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184334251/_u.date00=20200618&_u.date01=20200624&_u.date10=20200611&_u.date11=20200617&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.eventLabel:nav-accordion-expand/)**
 
-### 1-month results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Any issues with VA handling/processing?: No
+- Types of errors logged: None
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? No
+- If yes, what: N/A
+
+
+### 1-month results(comparing June 18-July 17 to May 19 - June 17):
+- Number of unique users: 88,953 sessions
+- Post-launch KPI 1 actual: Yes
+- Post-launch KPI 2 actual: 
+   - [8.2% Increase in profile page views - goal completion](https://analytics.google.com/analytics/web/?authuser=0#/report/conversions-goals-overview/a50123418w177519031p184334251/_u.date00=20200618&_u.date01=20200717&_u.date10=20200519&_u.date11=20200617&_.goalOption=7/);  
+   - [6.18% increase in time on page](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184334251/_u.date00=20200618&_u.date01=20200717&_u.date10=20200519&_u.date11=20200617&_.goalOption=ALL&explorer-table.filter=profile&explorer-table.plotKeys=%5B%5D/)
+- Post-launch KPI3: 
+  - Users do engage with estimate your benefits at a higher rate, since these elements weren't available previously [Analytics for 1st month post-launch](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-ehttps://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184334251/_u.date00=20200618&_u.date01=20200717&_u.date10=20200519&_u.date11=20200617&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22GIBCT%20Form%20Change%22,0%5D,%5B0,%22analytics.pagePath%22,%22PT%22,%22~2Fgi-bill-comparison-tool~2Fprofile~2F%22,0%5D%5D&explorer-table.rowCount=100/)
+  - Check [GIBCT Dashboard for top 10](https://analytics.google.com/analytics/web/#/dashboard/PPUZ37Q0SOi_CiRCBb-HBg/a50123418w177519031p184334251/_u.date00=20200618&_u.date01=20200717&_u.date10=20200519&_u.date11=20200617/)
+- Post-launch KPI4: Users engage with "Update benefits" button **[Yes](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184334251/_u.date00=20200618&_u.date01=20200717&_u.date10=20200519&_u.date11=20200617&explorer-table.plotKeys=%5B%5D&explorer-table.filter=update&_r.drilldown=analytics.eventCategory:Interactions/)**
+- Post-launch KPI 5: Users engage with (open / close) accordions **[Yes](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184334251/_u.date00=20200618&_u.date01=20200717&_u.date10=20200519&_u.date11=20200617&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.eventLabel:nav-accordion-expand/)**
+
+- Any issues with VA handling/processing?: No
+- ypes of errors logged: None
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? No
+- If yes, what: N/A
 
 ## Post-launch Questions 
 
-_To be completed once you have gathered your initial set of data, as outlined above._ 
-
-1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
-1. What qualitative feedback have you gathered from users or other stakeholders, if any?
-1. Which of the assumptions you listed in your product outline were/were not validated? 
-1. How might your product evolve now or in the future based on these results?
+- How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
+   - Increase in time on page is helpful, shows users are having more interaction with the controls and exploring the various accordions
+   - Analytics show users are engaging with the accordions and selecting the "Update benefits" button to trigger the calculations, which is exactly what we wanted to happen
+- What qualitative feedback have you gathered from users or other stakeholders, if any?
+   - During recent usability testing efforts on the Comparison Tool, we've had opportunities to see users engage with, explore and update their benefits estimate, completely unprompted.  A number of times, as they've scanned the section they've mentioned what they expect to see within a specific accordion and those comments align with the actual contents. 
+- Which of the assumptions you listed in your product outline were/were not validated?
+   - VALIDATED: _Users will understand how to calculate their benefits with the updated UI_
+   - VALIDATED: _Our solution will be an improvement over what exists currently. Tool will work better for most people – not degrade the current experience_
+   - VALIDATED: _All accessibility concerns will be addressed_
+   - VALIDATED: _The data that is being controlled and displayed won’t change. The questions and UI are the focus of this effort._
+   - N/A: _Any legislated changes regarding how education benefits are calculated are excluded from this scope of work._
+   - VALIDATED: _Work will be performed on the GIBCT profile page, does not include search results page._
+   - VALIDATED - work did include adding the "Update benefits" button to the VET TEC profile page but no accordions were required due to how VET TEC benefits are estimated.  _Work will be focused primarily on the Estimate Your Benefits accordion, may include Program Selection accordion in VET TEC profile pages._
+- How might your product evolve now or in the future based on these results? We're continuing to move toward improved accessibility across the Comparison Tool as a whole. Next up: search results page. 
