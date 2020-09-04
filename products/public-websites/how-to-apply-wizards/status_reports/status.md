@@ -6,10 +6,10 @@ Summary recap of Platform review meeting held to discuss IA/UX/Content feedback.
 - Additionally, with multiple product teams implementing the Wizards at the same time (also not anticipated), the need to establish design pattern guidance (along with a fresh look at the Wizards as common react component) is needed.
 - As a result, the team has outlined the following steps to ensure successful implementation AND to ensure we deliver improved outcomes for servicemembers who are applying for benefits at VA.gov:
   - **More time/effort will be needed to articulate and illustrate "design system" level changes (including IA/UX, Content and Functional) to the Wizards** that takes into account the new complexity and use cases introduced by moving Wizards to the applicaton pages.
-  - Changes outlined so far (some of which will require additional definition and illustraton):
+  - Changes outlined so far (some of which will require additional definition and illustration):
     - Tell the user in more explicit terms what form/application they are being routed to when they complete the wizard.  Currently, this is not clear in many cases.
     - Add the ability for the user to "retake/start-over" the Wizard 
-    - Keep the Wizard persistent on the page so the user can go back and re-use it during their session (this will mean eliminating the session state cookie -- and validating we can use a page cookie/page tracking method for Google Analytics)
+    - Keep the Wizard persistent on the page so the user can go back and re-use it during their session (this will mean eliminating the session state cookie -- and using page cookie tracking method for Google Analytics)
     - Make sure the Wizard is open by default as seen [here](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction)
     - Make sure the text for the “Already know this is the right form” text goes above the Wizard (specific guidance about the treatment for this text will be provided)
     - Determine with Matt Self if the Education Wizard is needed on all application pages.  For example, does the Wizard need to be on highly specific scholarship pages, including:
