@@ -12,7 +12,9 @@ Based on mean velocities from the past 10 sprints or so, FE and BE should be com
 ### Product
 - Request formal 508 audit (1)  
 - Load TestRail (2)  
-- Request QA Audit (1)  
+- 🌀 Request QA Audit (1) 
+- 🌀 Usability Prep and sessions
+- 🌀 UAT
 - 🌀 Staging Review (1)  
 - 🌀 Privacy and Security Audit (2)  
 Total = 7
@@ -41,7 +43,7 @@ Total = 49
 ### Backend
 - [#12877](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12877) Test central mail integration (3)
 - [#12101](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12101) Set up the controller (3)
-- [#12105](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12105)Set up the model (5)
+- [#12105](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12105) Set up the model (5)
 - [#12142](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12142) Set up a sidekiq job  (3)
 - Set up sentry events  (5)
 - Test submission against environment (5)
