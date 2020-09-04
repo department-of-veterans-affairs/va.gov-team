@@ -4,9 +4,9 @@
 #standardSQL
 SELECT 
   date,
-  SUM(totals.visits) as Sessions,
-  COUNT(DISTINCT fullVisitorId) as Users,
-  SUM(totals.pageviews) as Pageviews
+  SUM(totals.visits) as sessions,
+  COUNT(DISTINCT fullVisitorId) as users,
+  SUM(totals.pageviews) as pageviews
 FROM 
   `vsp-analytics-and-insights.176188361.ga_sessions_2020*`
 WHERE
@@ -23,20 +23,20 @@ SELECT
   date,
   hits.page.pagePath,
   COUNT(*) as pageviews,
-  COUNT(DISTINCT fullVisitorId) as Users,
-  COUNT(DISTINCT CONCAT(fullVisitorId, CAST(visitId AS STRING))) as Sessions
+  COUNT(DISTINCT fullVisitorId) as users,
+  COUNT(DISTINCT CONCAT(fullVisitorId, CAST(visitId AS STRING))) as sessions
 FROM 
-  `vsp-analytics-and-insights.176188361.ga_sessions_2020*` as GA,
-  UNNEST(GA.hits) AS hits
+  `vsp-analytics-and-insights.176188361.ga_sessions_2020*` as ga,
+  UNNEST(ga.hits) AS hits
 WHERE
   -- change according to desired specified date or use BETWEEN for a range
   _TABLE_SUFFIX = 'XXXX'
   AND hits.type = 'PAGE'
   -- change according to pagePath desired with RegEx matching
-  AND REGEXP_CONTAINS(hits.page.pagePath,'.*coronavirus.*)')
+  AND REGEXP_CONTAINS(hits.page.pagePath, r'.*coronavirus.*')
 GROUP BY 
-1, 
-2
+  1, 
+  2
 ```
 
 ### Content Grouping Views
@@ -44,12 +44,12 @@ GROUP BY
 SELECT 
   -- change according to content group desired 
   hits.contentGroup.contentGroupXX,
-  SUM(hits.contentGroup.contentGroupUniqueViews1) as Unique_Content_Views,
-  COUNT(*) AS Pageviews,
-  SUM(IF(hits.isentrance = TRUE, 1,0)) as Entrances,
+  SUM(hits.contentGroup.contentGroupUniqueViews1) as unique_content_views,
+  COUNT(*) AS pageviews,
+  SUM(IF(hits.isentrance = TRUE,1,0)) as entrances,
 FROM 
-  `vsp-analytics-and-insights.176188361.ga_sessions_2020*`,
-  UNNEST(hits) as hits
+  `vsp-analytics-and-insights.176188361.ga_sessions_2020*` ga,
+  UNNEST(ga.hits) as hits
 WHERE
   -- change according to desired specified date or use BETWEEN for a range
   _TABLE_SUFFIX = 'XXXX'
@@ -63,28 +63,28 @@ GROUP BY
 ```sql
 SELECT
   -- Visitor ID
-  Visit.fullVisitorId, 
+  fullVisitorId, 
   -- Visit ID, 
-  Visit.visitId, 
+  visitId, 
   -- Hit Number
   hits.hitNumber,
   -- Event Category (dimension)
-  hits.eventInfo.eventCategory AS Event_Category,
+  hits.eventInfo.eventCategory AS event_category,
   -- Event Action (dimension)
-  hits.eventInfo.eventAction AS Event_Action,
+  hits.eventInfo.eventAction AS event_action,
   -- FAQ Custom Dimension
-  max(case when CDs.index = xx then CDs.value end)  AS Frequently_Asked_Question,
+  max(CASE WHEN CDs.index = xx THEN CDs.value END)  AS frequently_asked_question,
   -- FAQ Section
-  max(case when CDs.index = xx then CDs.value end) AS FAQ_Section, 
+  max(CASE WHEN CDs.index = xx THEN CDs.value END) AS faq_section, 
   -- Event Label (dimension)
-  hits.eventInfo.eventLabel AS Event_Label,
+  hits.eventInfo.eventLabel AS event_label,
   -- Total Events (metric)
-  COUNT(*) AS Total_Events,
+  COUNT(*) AS total_events,
   -- Unique Events (metric),
-  COUNT(DISTINCT CONCAT(CAST(fullVisitorId AS STRING), CAST(visitStartTime AS STRING))) AS Unique_Events,
+  COUNT(DISTINCT CONCAT(CAST(fullVisitorId AS STRING), CAST(visitStartTime AS STRING))) AS unique_events,
 FROM
-  `vsp-analytics-and-insights.176188361.ga_sessions_2020*` VISIT,
-  UNNEST(hits) AS hits,
+  `vsp-analytics-and-insights.176188361.ga_sessions_2020*` ga,
+  UNNEST(ga.hits) AS hits,
   UNNEST(hits.customDimensions) AS CDs
 WHERE
   totals.visits = 1
@@ -92,16 +92,16 @@ WHERE
   -- change according to relevant event
   AND hits.eventInfo.eventLabel = 'XXXXX'
   -- change according to relevant custom dimension index values
-  AND CDs.index IN(XX,XX)
+  AND CDs.index IN (XX,XX)
   -- change according to relevant date
-  AND _TABLE_SUFFIX = 'XXX'
+  AND _TABLE_SUFFIX = 'XXXX'
 GROUP BY
   fullVisitorId, 
   visitId, 
   hits.hitNumber, 
-  Event_Category, 
-  Event_Action,
-  Event_Label
+  event_category, 
+  event_action,
+  event_label
 ORDER BY
   9 DESC
 ```
@@ -111,24 +111,69 @@ ORDER BY
 #standardSQL
 SELECT
   date,
-  h.eventInfo.eventLabel,
-  COUNT(1) Total_Events,
+  hits.eventInfo.eventLabel,
+  COUNT(*) total_events,
   count(distinct CONCAT(COALESCE(fullVisitorId, ''), ':', COALESCE(CAST(visitId AS STRING), ''))) as unique_events 
 FROM
-  `176188361.ga_sessions_2020*` as GA,
-  GA.hits h
+  `vsp-analytics-and-insights.176188361.ga_sessions_2020*` as ga,
+  UNNEST(ga.hits) AS hits
 WHERE
-  _TABLE_SUFFIX = '0801'
-  AND h.type='EVENT'
-  AND h.eventInfo.eventAction = 'Scroll Depth'
-  AND REGEXP_CONTAINS(h.page.pagePath,'^XXXX*')
+  _TABLE_SUFFIX = 'XXXX'
+  AND hits.type = 'EVENT'
+  AND hits.eventInfo.eventAction = 'Scroll Depth'
+  AND REGEXP_CONTAINS(hits.page.pagePath,'^XXXX*')
 GROUP BY
   1,2
 ```
 
-### Time to Complete - WIP
+### Time to Complete
 ```sql
-
+WITH sessions AS (
+    SELECT
+        CONCAT(fullVisitorId, CAST(visitStartTime AS STRING)) AS sessionID,
+        hits.eventInfo.eventLabel AS event_label,
+        (
+            CASE
+                WHEN hits.eventInfo.eventLabel = 'start-event-label' THEN MIN(hits.time)
+                WHEN hits.eventInfo.eventLabel = 'end-event-label' THEN MAX(hits.time)
+            END
+        ) AS hit_time
+    FROM
+        `vsp-analytics-and-insights.176188361.ga_sessions_*` AS ga,
+        UNNEST(ga.hits) AS hits
+    WHERE
+        _TABLE_SUFFIX BETWEEN "XXXX" AND "XXXX"
+        AND hits.eventInfo.eventLabel IN (
+            'start-event-label',
+            'end-event-label'
+        )
+    GROUP BY
+        1,
+        2
+)
+SELECT
+    AVG(time_diff) / 1000 avg_time_diff
+FROM
+    (
+        SELECT
+            CASE
+                WHEN event_label = 'start-event-label'
+                AND LEAD(event_label, 1) OVER(
+                    PARTITION BY sessionID
+                    ORDER BY
+                        hit_time ASC
+                ) = 'end-event-label' THEN (
+                    -- DIFF event timestamps
+                    LEAD(hit_time, 1) OVER(
+                        PARTITION BY sessionID
+                        ORDER BY
+                            hit_time ASC
+                    ) - hit_time
+                )
+            END time_diff
+        FROM
+            sessions
+    )
 ```
 ### Custom Metric Example - WIP
 ```sql
