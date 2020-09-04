@@ -42,7 +42,7 @@ Total = 49
 - [#12877](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12877) Test central mail integration (3)
 - [#12101](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12101) Set up the controller (3)
 - [#12105](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12105)Set up the model (5)
-- [12142](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12142) Set up a sidekiq job  (3)
+- [#12142](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12142) Set up a sidekiq job  (3)
 - Set up sentry events  (5)
 - Test submission against environment (5)
 Total = 24  
