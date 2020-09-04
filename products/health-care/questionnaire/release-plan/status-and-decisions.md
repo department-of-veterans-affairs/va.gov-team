@@ -6,6 +6,49 @@
 > [Roadmap Release Plan Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/README.md)
 
 
+
+<details> <summary> September 2020</summary>
+
+## Sept 25th, 2020
+
+## Sept 18th, 2020
+
+## Sept 11th, 2020
+
+## Sept 4th, 2020
+
+**Product**
+ - [TOT Sept 1st](https://drive.google.com/file/d/1-i-noQx_NtLSMsWLvmlzyorslXFiLbCh/view?usp=sharing)
+ - Backlog grooming for Sprint 30
+ - Continue feature outlines for Appointment details and Intro page
+
+**Research and Design**
+- Reviewed Demographics, This Visit and Review mocks ready for development Sprint 30. 
+
+**Engineering**
+
+- Continue to break out Questionnaire Service - Appt details into separate pull requests to be accepted.
+- [Technical Architecture review diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/architecture-diagram.md) reviewed with team. 
+- Drafting Authentication Tech diagram and [Questionnaires as a Service.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/questionnaire-as-a-service.md)
+- [Pushed demographics UI Front end to staging](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12257) and held UI review with product and design.
+
+
+**Next Step/Followup**
+- Finalize intro, and confirmation page mocks with a storyboard diagram of user flow for sprint 30
+- Continue to get answers and land architecture strategy for system and services for retrieving and posting healthcare patient data.
+	
+**Decisions:**
+
+**Blockers:**
+- No changes in status from previous week for blocker [Stakeholder Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
+- Need update from Lighthouse team FHIR gap with authentication Open Connect ID is not compatible with vets api [VA.gov and Lighthouse oAuth Strategies - #11669](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11669) 
+- Both BE investigation for [VAMP/PGD #12406](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12406) and [Service for Retrieving Appt. Details #12404](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12404) are blocked by request submitted by Stephen to gain keys access for both environments. 
+
+
+</details>
+
+
+
 <details> <summary> August 2020</summary>
 
 ## August 28th, 2020
