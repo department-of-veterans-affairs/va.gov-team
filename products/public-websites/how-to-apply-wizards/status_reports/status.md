@@ -1,3 +1,29 @@
+### 9/3 Update
+
+Summary recap of Platform review meeting held to discuss IA/UX/Content feedback. Participants included -- Platform reviewers (Mikki/Peggy) and Public Websites (Liz/John):
+
+- The move of the How to Apply Wizards from the How To content pages to the actual Apply Now introduction pages introduces more complexity than anticipated based on the variety of use cases (example -- authenticate, start application, go back to Wizard because as a user I am confused).
+- Additionally, with multiple product teams implementing the Wizards at the same time (also not anticipated), the need to establish design pattern guidance (along with a fresh look at the Wizards as common react component) is needed.
+- As a result, the team has outlined the following steps to ensure successful implementation -- and ensure we deliver improved outcomes for servicemembers who are applying for benefits at VA.gov (with more details to come from Mikki & Liz):
+  - **More time/effort will be needed to articulate and illustrate "design system" level changes (including IA/UX, Content and Functional) to the Wizards** that takes into account the new complexity and use cases introduced by moving Wizards to the applicaton pages.
+  - Changes outlined so far (which will require additional definition)
+    - Tell the user in more explicit terms what form/application they are being routed to when they complete the wizard.  Currently, this is not clear in many cases.
+    - Add the ability for the user to "retake/start-over" the Wizard 
+    - Keep the Wizard persistent on the page so the user can go back and re-use it during their session (this will mean eliminating the session state cookie -- and validating we can use a page cookie/page tracking method for Google Analytics)
+    - Make sure the Wizard is open by default as seen [here](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction)
+    - Make sure the text for the “Already know this is the right form” text goes above the Wizard (specific guidance about the treatment for this text will be provided)
+    - Determine with Matt Self if the Education Wizard is needed on all application pages.  For example, does the Wizard need to be on highly specific scholarship pages, including:
+      - 0994 - Apply for VET Tech
+      - 1990n - Apply for Education Benefits under the National call to service program
+      - Form 22-10203 - Apply for Rogers STEM Scholarship
+- Next steps the meeting participants:
+  - Mikki will translate her IA recommendations into a format that allows for wider communication and use by Liz
+  - Liz will create more specific design comps detailing key guidance/requirements
+  - Peggy will work with Danielle to provide more specific content guidance for the teams
+  - We will look at conducting usability testing with veterans to ensure we can validate key changes outlined above before going back to the product implementation teams to finalize development for staging review.
+
+- We will provide more details to the implementation teams at a meeting set for next Thursday at 10am EST.
+
 ### 9/1 Update
 
 Summary recap of the “synergy” meeting held with key players involved in Wizard work across the portfolio [(as captured here)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/status_reports/implentation_tracker.md).  Participants included -- Platform reviewers (Mikki/Peggy), BAM 1 & 2 implementation team, Booz Allen implementation team and Public Websites (John, Liz & Danielle):
