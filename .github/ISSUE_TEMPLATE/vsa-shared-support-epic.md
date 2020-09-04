@@ -11,14 +11,15 @@ As the VSA Shared Support team, I need to understand accessibility and QA needs 
 
 ## Issues to create within this epic:
 
-1. Authenticated Experience (Justin Pickett)
-2. Public Websites (Kara Kemahli)
-3. Benefits and Memorials 1 (Luke Majewski/Yana Roy)
+1. Authenticated Experience (Matt Shea)
+2. Public Websites (Brian Lloyd)
+3. Benefits and Memorials 1 (Luke Majewski)
 4. eBenefits (Jason Wolf)
 5. Facility Locator (Michelle Middaugh)
-6. Benefits & Memorials 2 (Nick Wygonik)
+6. Benefits & Memorials 2 (Leah Keeler)
 7. Medical Center (Stan Gardner)
 8. Caregiver (Alayna Abel)
+9. Healthcare (Amanda Buckley)
 
 ## Definition of done
 The VSA Shared Support team is aware of each team's initiatives and the scope of their QA/Accessibility needs.
