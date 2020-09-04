@@ -47,7 +47,8 @@ Total = 49
 - [#12105](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12105) Set up the model (5)
 - [#12142](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12142) Set up a sidekiq job  (3)
 - [?] Set up sentry events  (5)
-- [?] Test submission against environment (5)
+- [?] Test submission against environment (5)  
+  - Submitting unauth?
 Total = 24  
 2 Sprints should be doable based on BE sprint average of: 21 points across 7 issues
 
