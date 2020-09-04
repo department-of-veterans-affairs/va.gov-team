@@ -74,7 +74,7 @@ When you push your code to a feature branch or merge to master, the automated bu
   * If a build error occurs, fix the issue and submit your code again.
 - **Client-side applications must include end-to-end tests and axe checks**
   * Client-side applications will be tested for accessibility as part of their larger e2e test suite.
-  * The engineering team has created a [Nightwatch helper function](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/nightwatch-commands/axeCheck.js) to add axe checks to e2e tests.
+  * The engineering team has created a [Cypress **axeCheck** helper function](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/axeCheck.js) to add axe checks to e2e tests.
   * Axe checks should be run for each view or unique state of an application. These checks should include hidden content like modal windows and accordions.
   * If a build error occurs, fix the issue and submit your code again.
 - **ESLint**
