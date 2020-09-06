@@ -7,7 +7,7 @@ We'll create a step-by-step approach to localization that will provide essential
 ## Problem Statement
 Veterans and their family members who are low English proficiency (LEP) or who are more comfortable reading information in their primary language don't have easy and consistent access to translated content online.
 
-VA guidance for complying with federal law around providing meaningful access to information for people with low English proficiency exists. But VA currently doesn't currently have a localization program and doesn't prioritize localization of digital content in a programmatic and sustainable way. Translated materials are available, but they are scattered and there is no current organization-wide program to ensure that the most important content is translated or that translated content is accurate and up-to-date. 
+VA has guidance for complying with federal law around providing meaningful access to information for people with low English proficiency exists. But VA currently doesn't currently have a localization program and doesn't prioritize localization of digital content in a programmatic and sustainable way. Translated materials are available, but they are scattered and there is no current organization-wide program to ensure that the most important content is translated or that translated content is accurate and up-to-date. 
 
 We also don't have a full understanding of our low English proficiency audience, including the number of users who may need or want translated content, what languages they most need, and what their other needs might be.
 
