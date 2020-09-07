@@ -57,8 +57,9 @@ Congress has recently asked VHA to provide  COVID-19 content (and other essentia
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
-- Objective:
-  - Key result: 
+- Objective: Meet Veterans' and their family members' need for COVID-19 information about VA health care and benefits in Spanish.
+  - Key result: Users select the option to translate the COVID-19 FAQs page into Spanish.
+  - Key result: Users report a satisfactory experience with the translated content.
   - Key result: 
 
 
@@ -67,23 +68,41 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Assumptions
 - *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
 
+- Some Veterans and their family members need or prefer COVID-19 content about VA health care and benefits in Spanish.
+- We can optimize our content for translation enough that the Google translate widget will be an acceptable translation option for our MVP.
+- Users will be able to find and easily toggle to translated content.
+
 ## Solution Approach
 
 - *What are you going to build now, and why have you decided to start there?*
+We are going to start with a Google translate widget on the coronavirus FAQs page. We'll then widen translation (widget or API) to the health care benefit hub, and then further as data shows is warranted. We've decided to start there for 2 primary reasons:
+1) VA doesn't have the data to show user needs at this time. This solution allows us to begin gathering data quickly to help inform a longer-term solution.
+2) This approach requires no Drupal integration. At this time, we don't have the resources for efforts that do require Drupal support.
+
 - *Why this solution / approach over other solutions / approaches?*
+This is the quickest and simplest solution that allows us to start providing translated content while quickly gathering the data we need to inform a longer-term solution.
+
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
+We're not including Drupal integration because we don't have the resources to support the work.
+
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+We'll base the evolution on data and user feedback. We expect that we'll move toward a machine-and-human translation approach as part of a broader localization program.
 
 --- 
 
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
+We'll need to reach specific audiences who may need content translated into Spanish.
+
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
+Outreach may include:
+  - Working with the VA health equity office, center for minority Veterans, patient advocates, and relevant VSOs to communicate to LEP Veterans and family members that we invite them to try this offering and give us feedback to help us improve the experience.
+   - Targeted social media and other communication outreach efforts
 - [Link to Release Plan](#go-to-market-strategy)
 
 ## Launch Dates
 - *Target Launch Date*
-  - October 15, 2020
+  - October 15, 2020 for first iteration (translate widget on coronavirus FAQs page)
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch?*
