@@ -10,7 +10,7 @@
 - [Configuring the `vets-website` consumer codebase](#configuring-the--vets-website--consumer-codebase)
   * [1. Run contract tests](#1-run-contract-tests)
   * [2. Write a contract test](#2-write-a-contract-test)
-      - [example-app.contract.spec.js](#example-appcontractspecjs)
+      - [example-app.pact.spec.js](#example-apppactspecjs)
   * [3. Set up interactions](#3-set-up-interactions)
     + [Provider states](#provider-states)
     + [Matching](#matching)
@@ -95,7 +95,7 @@ yarn test:contract
 
 ### 2. Write a contract test
 
-1. Create a test file with the suffix `.contract.spec.js`.
+1. Create a test file with the suffix `.pact.spec.js`.
 
 1. Use the `contractTest` helper function from `src/platform/testing/contract`
     ```
@@ -117,7 +117,7 @@ yarn test:contract
 
 The following code is an example of how you might structure your test.
 
-##### example-app.contract.spec.js
+##### example-app.pact.spec.js
 
 ```
 import contractTest from 'platform/testing/contract';
