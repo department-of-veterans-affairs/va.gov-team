@@ -133,7 +133,7 @@ Outreach may include:
 - GitHub Label: 
 - Slack channel: 
 - Product POCs:
-- Stakeholders: 
+- Stakeholders: Jenny Heiland-Luedtke
 
 </details>
 
@@ -141,10 +141,10 @@ Outreach may include:
 
 <details>
  
- - DEPO Lead: Danielle Thierry
- - PM: 
- - Engineering:
- - Research/Design: 
+ - DEPO Lead: Danielle Thierry 
+ - PM: TBD
+ - Engineering: Mike Chelen (consulting)
+ - Research/Design: TBD
  
 </details>
 
@@ -155,7 +155,8 @@ Outreach may include:
  
 - Veterans Health Administration Digital Media
   - Jenny Heiland-Luedtke
-  - 
+- Veterans Business Administration
+  - Sandy Tadeo 
  
 </details>
 
