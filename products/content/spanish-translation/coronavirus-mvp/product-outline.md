@@ -9,14 +9,14 @@ Veterans and their family members who are low English proficiency (LEP) or who a
 
 VA has guidance for complying with federal law around providing meaningful access to information for people with low English proficiency exists. But VA currently doesn't currently have a localization program and doesn't prioritize localization of digital content in a programmatic and sustainable way. Translated materials are available, but they are scattered and there is no current organization-wide program to ensure that the most important content is translated or that translated content is kept accurate and up-to-date. 
 
-We also don't have a full understanding of our low English proficiency audience, including the number of users who may need or want translated content, what languages they most need, and what their other needs might be so that we can ensure that our translated content delivers the greatest value that it can.
+We also don't have a full understanding of our low English proficiency audience, including the number of users who may need or want translated content, what languages they most need, their health literacy needs, and what their other needs might be so that we can ensure that our translated content delivers the greatest value that it can.
 
 VHA is being asked by Congress to provide translated content in Spanish. We want to help meet the immediate need and demonstrate progress while also working toward an effective and sustainable approach for the future.
 
 How might we meet these 3 important, but potentially disparate goals, at the same time? 
 1. Begin to provide essential content for our LEP Veterans and family members
 2. Demonstrate to Congress that VHA and the wider VA are making progress on direction to provide content in Spanish
-3. Quickly gather the data we need to recommend an effective and sustainable organization-wide localization program
+3. Quickly gather the data, user feedback, and audience research information we need to recommend an effective and sustainable organization-wide localization program
  
 ## Desired User Outcomes
 
