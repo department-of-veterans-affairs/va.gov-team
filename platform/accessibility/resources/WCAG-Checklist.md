@@ -1,4 +1,4 @@
-# WCAG Checklist _(Work-in-Progress)_
+# WCAG 2.0 (Section 508) Checklist _(Work-in-Progress)_
 
 Section 508 Compliance references WCAG 2.0 Level A and Level AA Success Criteria and Conformance Requirements. WCAG 2.0 is the standard teams have used since January of 2017. In 2019, WCAG 2.1 was released and is expected to become the standard for compliance. This checklist below offers organized guidance to meet Section 508 Compliance. Another reference that may be useful is [How to Meet WCAG, Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/).
 
