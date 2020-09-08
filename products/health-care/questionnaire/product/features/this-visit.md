@@ -84,10 +84,7 @@ Veterans need the ability to state what the main areas of their everyday life th
  - [ ] Consider a UI where these could be individually prioritized?
 
 ## Mockup
-<img src="https://lh4.googleusercontent.com/zlblIROvEa51aOraK-TobcY0to-Es1LG6B48sgTG3mdgmsCWmEQAWnApmbWv1uSaIEeAefpK_E1gggZlX-mM3M1MtC6WXtNPhnMY5Syzr8H9WmNCKfS6KBvT_YNoWKncUOLCdIHO" width="400">
-
-- [9/21/2020 Mockups Zeplin](https://zpl.io/VOOek8j) 
-- [WIP Content for Fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/design/proof-of-concept/content-v1.md) 
+- [9/8/2020 Mockups Zeplin](https://zpl.io/VOOek8j) 
 
 ## Accessibility Checklist
 
