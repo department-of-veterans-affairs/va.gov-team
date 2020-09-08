@@ -1,5 +1,5 @@
 ---
-name: Request a VSA Development Review
+name: Please don't use for now — Request a VSA Development Review
 about: Request a development review for VSA products
 title: Request development review for ENTER_PRODUCT_NAME
 labels: 508/Accessibility, development review, product support
