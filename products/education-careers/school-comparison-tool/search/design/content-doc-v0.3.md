@@ -19,6 +19,8 @@ Enter a school, employer name, city, or zip code { Search/filter text field }
 
 ## Search results - Standard
 
+{ Below are the updates for desktop and mobile search. For mobile searchs results, the search button is kept in the bottom sheet, not placed beneath the search field since the mobile search has different UI/functionality. }
+
 ### Search by keyword  
 
 Enter a school, employer name, city, or zip code { Search/filter text field }  
