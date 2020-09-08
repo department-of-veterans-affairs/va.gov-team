@@ -6,11 +6,13 @@
 <details> <summary> Q4 2020 (Oct-Dec)  Sprint 32-38 </summary>
 
 ## Q4 Target Release Launch Summary of Feature Capabilities
+  
+  - TBD description of our go to market strategy for Q4 release
+- [q4-2020-target-launch](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q4-2020-target-launch.md)
+
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
-- TBD description of our go to market strategy for Q4 release
-- [q4-2020-target-launch](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q4-2020-target-launch.md)
 | [BE] Start tech implementationQuestionnaire Trigger Service | -- | #  |
 | [FE] Save in Progress | -- | #  |
 | [FE] Print PDF of Questionnaire | -- | #  |
