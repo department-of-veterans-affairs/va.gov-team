@@ -8,6 +8,14 @@
 ## Q4 Target Release Launch Summary of Feature Capabilities
 - TBD description of our go to market strategy for Q4 release
 - [q4-2020-target-launch](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q4-2020-target-launch.md)
+| [BE] Start tech implementationQuestionnaire Trigger Service | -- | #  |
+| [FE] Save in Progress | -- | #  |
+| [FE] Print PDF of Questionnaire | -- | #  |
+| [UI/FE] Questionnaire List | -- | #  |
+| [BE] Appt Status updates | -- | #  |
+| [FE] Appt Reminders/link | -- | #  |
+| [FE] Demographics Banner  | -- | #  |
+| [FE] Save in Progress | -- | #  |
 
 </details>
 
@@ -22,9 +30,26 @@
 9/23/2020 - 10/06/2020
 - [Milestone 294](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/294)
 
+| [UI] Design for Questionnaire Worklist   	| -- |  |
+| [UI] Create interactive MVP prototype   	| -- |  |
+| [UI] Research plan and Conversation guide for MVP prototype testing 	| -- |  |
+| [FE] Visit Intro page displayed | -- | # |
+| [FE] Confirmation page displayed| -- | # |
+| [BE] MAP - Appt details and PGD services viewable in source system | -- | #12285 |
+
+
+
 ## Sprint 30 - _Sprint Theme Name_
 9/09/2020 - 9/22/2020
 - [Milestone 293](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/293)
+
+| [UI] This Visit wording, Intro, Review, and Confirm mocks complete for coding   | -- | #12280, #12639 #12693, |
+| [BE] UX screen flows/wireframes | -- | #  |
+| [FE] This Visit fields displayed | -- | # |
+| [FE] Review page displayed| -- | # |
+| [BE] MAP - Appt details and PGD services viewable in source system | -- | #12285 |
+| [BE] Delighter - Spike for Questionnaire Trigger Service | -- | #  |
+
 
 ## Sprint 29 - Land Proof of Concept Designs and Data Services
 8/26/2020 - 9/8/2020
@@ -33,12 +58,10 @@
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
 | Stakeholder Interviews & Paper 	 	| Blocked |  #11037	| 
-| [UI] This Visit, Intro, Reveiew, and Confirm mocks complete for coding   	| -- | #12280, #12639 #12693, |
-| [FE] Demographics| -- | #12257 |
-| [BE] MAP - Appt details and PGD services | -- | #12285 |
-| [BE] Questionnaire Trigger Service | -- | # ?? |
-| [BE] Arch Diagram | -- | #10485 |
-| [BE] UX screen flows/wireframes | -- | # ?? |
+| [UI] This Visit, Intro, Reveiew, and Confirm mocks complete for coding   	|  Continue to Sp30  | #12280, #12639 #12693, |
+| [FE] Demographics| COMPLETE | #12257 |
+| [BE] MAP - Appt details and PGD services |  Continue to SP30  | #12285 |
+| [BE] Arch Diagram | COMPLETE/IN PROGRESS| #10485 |
 
 
 ## Sprint 28 - Visit Into Design & Dev Start
