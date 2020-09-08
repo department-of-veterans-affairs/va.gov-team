@@ -21,6 +21,7 @@
 | [FE] Appt Reminders/link | -- | #  |
 | [FE] Demographics Banner  | -- | #  |
 | [FE] Save in Progress | -- | #  |
+| [UI] Create interactive MVP prototype   	| -- |  |
 
 </details>
 
@@ -37,8 +38,8 @@
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
-| [UI] Design for Questionnaire Worklist   	| -- |  |
-| [UI] Create interactive MVP prototype   	| -- |  |
+
+| [UI] Design for Questionnaire Worklist - stretch goal  	| -- |  |
 | [UI] Research plan and Conversation guide for MVP prototype testing 	| -- |  |
 | [FE] Visit Intro page displayed | -- | # |
 | [FE] Confirmation page displayed| -- | # |
@@ -52,12 +53,16 @@
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
+
+| [UI] Demographics- Questionnaire Title/appt details layout and content - complete  	| -- |  |
 | [UI] This Visit wording, Intro, Review, and Confirm mocks complete for coding   | -- | #12280, #12639 #12693, |
-| [BE] UX screen flows/wireframes | -- | #  |
+| [UI] UX screen flows/wireframes | -- | #  |
 | [FE] This Visit fields displayed | -- | # |
 | [FE] Review page displayed| -- | # |
-| [BE] MAP - Appt details and PGD services viewable in source system | -- | #12285 |
+| [BE] MAP - Appt details end pt available for FE | -- | #12404 |
+| [FE] MAP - Appt details viewable in va.gov | -- | |
 | [BE] Delighter - Spike for Questionnaire Trigger Service | -- | #  |
+| [BE] MAP - PGD - access the API to post to PGD an verify it saved  | -- | #12285 |
 | [BARRS] MAP Sandbox Env functional for Authentication flow and PGD access. | -- | #  |
 | [BARRS] SPIKE Set up appointment services in MAP Sandbox| -- | #  |
 
