@@ -46,12 +46,11 @@ In previous rounds of user research, we have determined that there is a Veteran 
 1. The bottom toolbar navigation elements will mostly be usable and clear to Veterans
 2. Veterans will be able to successfully find Personal & Contact Information, Direct Deposit, Letters and Documents and Settings. When asked to find specific information within these screens, participants will be able to locate it.
 3. Veterans will be satisfied with the information in the Profile section
-4. Veterans will use homescreen cards and list items to navigate from the homescreen more than the bottom toolbar
-5. Once away from the homescreen, Veterans will use the bottom toolbar to navigate
-6. Veterans will want to see more information about a claim's status, including information that's not in the current CST
-7. Veterans will express high interest in downloading and using this app
-8. There may be dissatisfaction with features that are not available in the MVP (e.g. cancelling and scheduling an appointment)
-9. There may be dissatisfaction with the limited health features
+4. Once away from the homescreen, Veterans will use the bottom toolbar to navigate
+5. Veterans will want to see more information about a claim's status, including information that's not in the current CST
+6. Veterans will express high interest in downloading and using this app
+7. There may be dissatisfaction with features that are not available in the MVP (e.g. cancelling and scheduling an appointment)
+8. There may be dissatisfaction with the limited health features
 
 
 # Method
