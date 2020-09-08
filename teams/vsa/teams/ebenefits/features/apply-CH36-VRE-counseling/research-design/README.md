@@ -30,6 +30,9 @@
 ---
 
 ### Prototype Changelog
+**September 9 (Upcoming fix), 2020**
+- Revised address block text/accordion revision
+
 **September 8, 2020**
 - Unused accordions removed from Review Screens across all workflows
 
