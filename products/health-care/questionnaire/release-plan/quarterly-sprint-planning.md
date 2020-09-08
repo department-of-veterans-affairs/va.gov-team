@@ -6,6 +6,9 @@
 <details> <summary> Q4 2020 (Oct-Dec)  Sprint 32-38 </summary>
 
 ## Q4 Target Release Launch Summary of Feature Capabilities
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
 - TBD description of our go to market strategy for Q4 release
 - [q4-2020-target-launch](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q4-2020-target-launch.md)
 | [BE] Start tech implementationQuestionnaire Trigger Service | -- | #  |
@@ -30,6 +33,8 @@
 9/23/2020 - 10/06/2020
 - [Milestone 294](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/294)
 
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
 | [UI] Design for Questionnaire Worklist   	| -- |  |
 | [UI] Create interactive MVP prototype   	| -- |  |
 | [UI] Research plan and Conversation guide for MVP prototype testing 	| -- |  |
@@ -43,6 +48,8 @@
 9/09/2020 - 9/22/2020
 - [Milestone 293](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/293)
 
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
 | [UI] This Visit wording, Intro, Review, and Confirm mocks complete for coding   | -- | #12280, #12639 #12693, |
 | [BE] UX screen flows/wireframes | -- | #  |
 | [FE] This Visit fields displayed | -- | # |
