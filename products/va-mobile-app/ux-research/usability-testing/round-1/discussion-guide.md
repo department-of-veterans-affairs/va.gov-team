@@ -27,21 +27,21 @@ Before we start, I want to make sure we are ready to go with technology for this
 - Can you confirm for me what type of device you're using to join today?
     - Great, that helps me troubleshoot with you if we run into any problems. 
 - I'd not like to walk you through how to share your screen with me via Zoom from your device: 
-    - When you are inside the Zoom application on your phone, you'll see a few buttons at the bottom: Audio, Video, Share Content, Participants, and three dots over to the right. 
-    - If you tap on those dots, you'll also see a function called "Chat". 
-    - If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. 
+    - When you are inside the Zoom application on your phone, you'll see a few buttons at the bottom. Starting at the left, you'll see Audio, Video, Share Content (green button in the middle of the screen), Participants, and lastly on the far righthand side, three dots labelled More. 
+    - If you tap on those dots labelled more on the far right, you'll also see a function called "Chat". 
+    - If you don't tap the screen for a while, all th icons at the bottom will hide. To get them back, you can tap anywhere on the screen and they'll show up again.
     - The ones that will be important for us today are "Chat" and "Share Content." 
 Any questions?
 
 - Now I'd like you to share your screen with me!
-    - Tap on the arrow that says "Share content" and then hit "share screen". Select that button. 
-    - You should be prompted with an option to share "Zoom" and then "Screen". Then select "Start Broadcast". 
+    - Tap on the arrow that says "Share content". A menu should come up with options of what to share - please hit "Screen".
+    - You should be prompted with an option to select what you'd like to share - please select "Zoom" and then "Screen". Then select "Start Broadcast". 
     - If you see any additional prompts please read them aloud and I will help.
     - Ok, tap anywhere on the screen to go back to the Zoom application.
 
-Great, now I can see your phone screen! We are going to use this prototype in our session today.
+Great, now I can see your phone screen! Thank you for your patience in figuring this out with me so we can look at a prototype together today.
 
-Backup plan if they cannot figure out how to share screen:
+_Backup plan if they cannot figure out how to share screen:_
 - Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "drive". You will tell me what to do, what to tap, on, etc. Does that sound ok?
 [Share your screen]. Can you confirm if you can see my screen?
 
@@ -72,7 +72,6 @@ Now that you are signed in, I’m going to ask you to spend a minute looking at 
 **Things to watch for & follow up on if participant brings it up**
 - _Does the participant react openly to thumbprint sign in? Is the reaction positive or negative?_
 - _Does the participant scroll to the bottom of the homepage?_
-- _Does the participant react to the homescreen cards?_
 
 # Profile tasks and discussion (8 minutes)
 **Pre-task questions**
@@ -98,6 +97,7 @@ I’m going to ask you to do some things for me in the app. I’m not testing yo
 - **Task 3: Let’s imagine you want to download a letter or document from VA. Where would you go to do that?**
   - Do they locate VA Letters and Documents?
   - Do they stumble getting to the download screen for a letter?
+  - Does the alert about the letter trip them up/confused them?
 - **Task 4: Let's imagine you've run into a problem with the app and you'd like to get help from VA. Where would you go to do that?**
   - Do they locate Settings from the Profile screen?
   
@@ -126,6 +126,7 @@ If the participant cannot find something:
 
 # Claims tasks and discussion (8 minutes)
 Can you navigate to where you would expect to see your claims or appeals?
+  - Can they located the claims section of the app?
 
 **Pre-task questions**
 - Can you tell me a little bit about the claim you're currently going through?
@@ -149,7 +150,7 @@ Can you navigate to where you would expect to see your claims or appeals?
   - Starting with the status tab - is there anything else you'd like to see here? Why?
   - Moving into the files tab - is there anything else you'd like to see here? Why?
   - Lastly, the details of your claim - is there anything else you'd like to see here? Why?
-- What about these 3 tabs for Status, Files and Details?
+- _If they struggled to use the in-screen tab navigation, probe on that_
 
 Can you navigate back to home? Thank you. 
 
