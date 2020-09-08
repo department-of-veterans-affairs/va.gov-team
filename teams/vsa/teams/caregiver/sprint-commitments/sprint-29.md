@@ -2,8 +2,9 @@
 - [x] Fix email validation (508)
 - [x] VSP design feedback
 - [x] Breadcrumb Bug (IA)
-- [ ] Signature field bug
-- [ ] Save in progress bug
+- [x] Signature field bug
+- [x] Save in progress bug
+
 - [ ] Gender not-required and remove `unknown` (after backend is updated)
 - [ ] Content changes *after* we get `stakeholder` approval (sentance casing and plain language)
 - [ ] `stakeholder` requested content changes *after* `VSP` approval
@@ -15,6 +16,7 @@
   - API:    [N/A]()
 - [x] Submit PDF to CARMA with signature  | [PR](https://github.com/department-of-veterans-affairs/vets-api/pull/4759)
 - [x] Add timestamp to generated PDF | [PR](https://github.com/department-of-veterans-affairs/vets-api/pull/4759)
+- [ ] Beta test support & debugging
 
 ## Design/Product/Content
 - Update content based on Program feedback
