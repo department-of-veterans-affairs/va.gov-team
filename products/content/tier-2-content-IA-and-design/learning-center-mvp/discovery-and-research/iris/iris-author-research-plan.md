@@ -43,7 +43,8 @@
 
 4. Hypothesis: What is your hypothesis for this research?
 
-   - The content authoring and management process is structured in such a way that we'll need to talk to multiple roles/people to answer our research questions.
+   - There are many different teams influencing the content authoring/management process.
+   - The process and workflow across those teams will vary widely.
    - The need for content creation is driven by combination of Veteran and business stakeholder needs.
 
 ## Method	
