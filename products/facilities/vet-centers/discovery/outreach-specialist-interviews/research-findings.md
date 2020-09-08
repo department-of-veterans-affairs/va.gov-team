@@ -51,7 +51,14 @@ Outreach Specialists:
 
 ### Details of Findings
 
-#### 1.  
+#### 1.  Vet Centers have great autonomy in how they tailor and deliver services to their clients. 
+A key differentiating factor in the value Vet Centers bring to the mission of helping service members in their readjustment journey is their ability to meet an individual wherever they are in that journey. Vet Center staff can offer services ranging from traditional counseling to more casual support through group recreational activities or refer out to other services..
+
+> “RCS has a lot of flexibility. Our clinicians can come up with various events that they want to have with Veterans, if appropriate, they have BBQs with their groups and different things. “We try to make it as non of a clinical setting as we can and still get clinical work done when it's necessary.”
+
+> “Individual counseling, for us, can vary so much. You can get Veterans to come in to just talk. You have Vet come in and want different types of therapies [some] do cognitive therapy, EMDR (eye movement therapy), there are therapists that are certified in that. It can be as non intensive as just sitting down and talking about what's going on in your life or it can be an actual therapy modality.”
+
+> "We look at what clinicians we have at a Vet Center and then we determine their interests. Like one of our clinicians, he's a trained classical guitarist, he took the initiative to go and work with Guitars for Vets and this Vet Center became a chapter of Guitars for Vets and we would do two weekly guitar groups that he would run. And that's with established clients.”
 
 #### 2. 
 >  
@@ -83,17 +90,17 @@ Outreach Specialists:
 
 ## Recommendations
 
-*1. Detail pages must feel distinct from VA Medical Centers and communicate Vet Centers’ “welcoming environment and hospitable culture”.*
+#### 1. Detail pages must feel distinct from VA Medical Centers and communicate Vet Centers’ “welcoming environment and hospitable culture”.
 A [recent study conducted by Aptive Resources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/VetCenters_BrandAnalysisReport_03272020.pdf) found this attribute to be especially important to clients, referencing their family-like atmosphere almost twice as often as any other attribute. Their data also suggested that it is the predominant differentiator between Vet Centers and VA medical centers. Maintaining this differentiation is important to reach Veterans who do not trust VA Medical Centers. Vet Centers are often cited as the first touchpoint in a Veteran or service member’s readjustment journey and can serve as the bridge to connect them to other VA services and benefits. Conversations with Outreach Specialists in this study support this recommendation. Ideas to strike the appropriate tone include: Use aspirational photography that highlights the more casual side of the counseling services available, for example, a group of Veterans fishing or at a BBQ. Prioritize an approachable welcome message over eligibility information. Add client testimonials. 
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+#### 2.
+#### 3.
+#### 4.
+#### 5.
+#### 6.
+#### 7.
+#### 8.
+#### 9.
+#### 10.
 
 ## Next Steps
 
