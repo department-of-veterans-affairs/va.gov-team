@@ -1,6 +1,10 @@
 # GI Bill Comparison Tool School Ratings  
 
-## InVision Prototypes
+## InVision Prototypes  
+
+[GIBCT School Ratings v0.5 - Mobile - Work in Progress](https://bahdigital.invisionapp.com/share/NCIAEWUAYDS)  
+
+[GIBCT School Ratings v0.5 - Desktop - Work in Progress](https://bahdigital.invisionapp.com/share/HQIAEWSBGFU)  
 
 [GIBCT School Ratings v0.4 for UT - Task 3](https://bahdigital.invisionapp.com/share/PGIAEQXWMQ7) 
 
