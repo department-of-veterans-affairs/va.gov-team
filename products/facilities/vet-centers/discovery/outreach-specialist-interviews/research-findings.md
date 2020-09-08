@@ -26,7 +26,7 @@ Outreach Specialists:
 * Elizabeth Jackson - Orlando, FL
 * Ken Milam - Escanaba, MI
 * Austin Wilmarth - Colorado Springs, CO
-* Troy Stormoen - Reno NV
+* Troy Stormoen - Reno, NV
 
 
 ### Research Questions
