@@ -56,6 +56,8 @@
 | [FE] Review page displayed| -- | # |
 | [BE] MAP - Appt details and PGD services viewable in source system | -- | #12285 |
 | [BE] Delighter - Spike for Questionnaire Trigger Service | -- | #  |
+| [BARRS] MAP Sandbox Env functional for Authentication flow and PGD access. | -- | #  |
+| [BARRS] SPIKE Set up appointment services in MAP Sandbox| -- | #  |
 
 
 ## Sprint 29 - Land Proof of Concept Designs and Data Services
