@@ -9,9 +9,9 @@ Select an institution { Radio buttons }
  * Employers (On-the-job training [OJT], apprenticeships)  
  * VET TEC training providers only ([Learn more]()) { modal link }  
  
- Will you be taking all your classes online? This determines your estimated housing allowance. ([Learn more]()) { Modal link } { Radio buttons }  
- * Yes
- * No { Default selection }  
+ Will you be taking any classes in person? ([Learn more]()) { Modal link } { Radio buttons }  
+ * Yes { Default selection }
+ * No   
  
 Enter a school, employer name, city, or zip code { Search/filter text field }  
 
@@ -19,13 +19,15 @@ Enter a school, employer name, city, or zip code { Search/filter text field }
 
 ## Search results - Standard
 
-### Refine search
+### Search by keyword  
 
 Enter a school, employer name, city, or zip code { Search/filter text field }  
  
 [ Search ] { button }   
 
-**Make changes below to update your results:**
+### Refine search
+
+Make changes below to update your results:  
 
 Country { dropdown } { ALL is default value }  
 
@@ -63,21 +65,23 @@ Cumulative Post-9/11 active-duty service [(Learn More)]() { dropdown }
 
 Your housing allowance { additional information component }
 
- Will you be taking all your classes online? This determines your estimated housing allowance. ([Learn more]()) { Modal link } { Radio buttons }  
- * Yes
- * No { Default selection }  
+ Will you be taking any classes in person? ([Learn more]()) { Modal link } { Radio buttons }  
+ * Yes { Default selection } 
+ * No  
  
  { end additional info component }
  
 ## Search results - VET TEC
 
-### Refine search 
+### Search by keyword   
 
 Enter a program, provider, city, or zip code { Search/filter text field }  
  
 [ Search ] { button }   
 
-**Make changes below to update your results:**
+### Refine search  
+
+Make changes below to update your results:  
 
 Country { dropdown } { ALL is default value }  
 
