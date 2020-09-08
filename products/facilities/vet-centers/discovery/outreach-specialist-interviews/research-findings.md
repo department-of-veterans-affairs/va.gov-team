@@ -194,11 +194,11 @@ Recent [research conducted by Aptive Research](https://github.com/department-of-
 ## Next Steps
 
 * Meet with internal team to discuss recommendations and refine.
-* Present findings and recomendations with stakeholders.
+* Present findings and recommendations with stakeholders.
 * Create low fidelity wireframes of an updated Vet Center detail page.
 * Present wireframes to stakeholders for input and refinement.
 * Solicit input from individual stakeholders.
-* Redine ides and create medium/high fidelity prototype.
+* Refine ideas and create medium/high fidelity prototype.
 * Test prototype with Veterans and service members.
 
 ## Appendix
