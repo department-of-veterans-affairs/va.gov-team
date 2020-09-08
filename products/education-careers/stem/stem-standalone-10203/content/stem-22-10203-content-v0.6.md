@@ -84,9 +84,9 @@ Complete this education benefits form.
 After submitting the form, you’ll get a confirmation message. You can print this page for your records.
 
 #### 4. VA review 
-We usually decide on applications within **30 days**.     
+We usually process claims within 30 days. We’ll let you know by mail if we need more information.  
 
-You’ll get a Certificate of Eligibility (COE) or decision letter in the mail. If we’ve approved your application, you can bring the COE to the VA certifying official at your school. [Learn more about what happens after you apply](https://www.va.gov/education/after-you-apply/)  
+[Learn more about what happens after you apply](https://www.va.gov/education/after-you-apply/)  
 
 #### 5. Decision
 If we approve your application, you’ll get a Certificate of Eligibility (COE), or award letter, in the mail.  Bring this COE to the VA certifying official at your school.  This person is usually in the Registrar or Financial Aid office at the school.
