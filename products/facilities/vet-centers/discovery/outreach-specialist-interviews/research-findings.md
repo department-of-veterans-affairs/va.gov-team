@@ -5,8 +5,15 @@ Leyda Hughes (leyda.hughes@adhocteam.us), 09/08/2020
 
 ## Research Goals 
 
-The goal of this study was to: 
 As part of the larger discovery effort to understand the services offered by Vet Centers for the purpose of upgrading existing Vet Center facility detail pages, a series of stakeholder interviews was conducted with five Outreach Specialists. Outreach Specialists serve on the front line of Vet Centers connecting services to service members and were identified as a key persona in supporting the mission and purpose of Vet Centers.
+
+The goal of this study was to: 
+- Validate the official list of services offered at Vet Centers
+- Identify knowledge gaps in preparation for deeper services taxonomy research
+
+Prior to the study, we hypothesized that:
+- Services would vary widely between Vet Centers
+- Extensive services taxonomy research would be required
 
 ## Research Methodology 
 
@@ -34,6 +41,12 @@ Outreach Specialists:
 
 
 ## Findings
+
+### Findings by hypothesis
+* Services would vary widely between Vet Centers
+  * Finding: Partially false. The official list of services is validated in that the categories are accuate. A Vet Center can offer some basic level of service in all categories though it may only be through referal to another facility or community partner. For example, Veterans and service members may get screened for a medican service at a Vet Center but referred to other VA facilities for official diagnosis or treatment. The greatest variability exists in how the treatment is executed which will depend on the the clinicians staffed at a particular Vet Center. Community partnerships can also extend the list of services but does not render the official list inaccurate.
+* Extensive services taxonomy research would be required
+  * Finding: Partially false. Since the official categories of services was validated there is an opportunity to shift the emphasis of discovery to testing Veteran's understanding and interpretation of the services in the context of an upgraded detail page. This would allow the simultaneous testing of other features and recommendations in conjunction with the taxonomy of services.
 
 
 ### Key Findings
