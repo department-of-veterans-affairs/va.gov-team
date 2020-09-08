@@ -364,9 +364,9 @@ Dependency for Go/No-Go: All critical UAT/bug issues are fixed.
 
 Dev
 
-- Fix any critical UAT bugs pre-launch
-- Fix any non-critical UAT bugs (can be post-launch)
-- Other non-critical bugs from the backlog
+I don't think there are any critical outstanding bugs, but we should review just in case.
+
+- Start working on some of the FE profile issues in the Ready column.
 
 **Logged-in homepage**
 
