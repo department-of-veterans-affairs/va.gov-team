@@ -41,7 +41,8 @@ Now RuboCop should be highlighting errors and warnings as you make changes to th
    - Name: Fix Layout
    - Group: RuboCop
    - Program: Path to RuboCop executable
-     - (For Example: ```/Users/your_name/.rvm/gems/ruby-2.6.6/bin/rubocop```)
+     - (For Example: ```path-to-project-directory/vendor/cache/ruby/2.6.0/bin/rubocop``` 
+     or where your ruby gems get downloaded)
    - Arguments: ```-c path-to-project-directory/.rubocop.yml -x $FilePath$```
    - Working Directory: ```$FileDir$```
 5. Hit Okay and then Apply
