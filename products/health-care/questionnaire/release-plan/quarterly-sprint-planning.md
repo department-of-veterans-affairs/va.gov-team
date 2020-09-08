@@ -53,7 +53,6 @@
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
-
 | [UI] Demographics- Questionnaire Title/appt details layout and content - complete  	| -- |  |
 | [UI] This Visit wording, Intro, Review, and Confirm mocks complete for coding   | -- | #12280, #12639 #12693, |
 | [UI] UX screen flows/wireframes | -- | #  |
