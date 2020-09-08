@@ -15,8 +15,8 @@ In previous rounds of user research, we have determined that there is a Veteran 
   - Identify obstances to locating Direct Deposit
   - Identify obstacles to locating VA Letters and Documents
   - Identify obstacles to locating Settings
+  - Identify obstacles to locating Claims
 - **Assess the home screen design**
-  - Determine how useful the "notification cards" are
   - Determine if including multiple CTAs to the same feature is confusing
 - **Assess the desired content on Profile, Direct Deposit, Letters and Documents, and Settings**
     - Understand what information Veterans respond well to and what else they would like to add
@@ -37,10 +37,6 @@ In previous rounds of user research, we have determined that there is a Veteran 
     - Do users find any of the icons and titles in the bottom toolbar unclear? If so, what?
     - Do Veterans think that the Veterans Crisis Line should be in the bottom toolbar?
     - Where do users run into problems navigating around the app?
-- How easily and successfully can Veterans use the in-page cards and list items on the home screen to navigate?
-    - Do users find any of the cards or list items unclear? If so, what?
-    - Do Veterans use in-screen CTAs more than the bottom toolbar?
-    - Do they come back to the home screen before navigating elsewhere?
 - What information would Veterans most like to see on the mobile app Claim Status Tool?
     - What is not included that they want to see? 
 - Overall, how satisfied are Veterans with the MVP feature set and overall app UI/UX design?
