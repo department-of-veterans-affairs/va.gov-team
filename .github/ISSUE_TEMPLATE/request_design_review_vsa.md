@@ -1,5 +1,5 @@
 ---
-name: Request a VSA Design Review
+name: Please don't use for now — Request a VSA Design Review
 about: Request a VSA design review
 title: Request VSA design review for ENTER_PRODUCT_NAME
 labels: 508/Accessibility, design, design review, product support
