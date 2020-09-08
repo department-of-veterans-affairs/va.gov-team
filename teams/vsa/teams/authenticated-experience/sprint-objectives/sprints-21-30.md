@@ -362,11 +362,16 @@ Dependency for Go/No-Go: All critical UAT/bug issues are fixed.
 - Monitor analytics
 - Launch to 50% of users after 1 week **if** there are problems with launch to 25%
 
+Design
+
+- Determine date forRedirect Request: Account page #10688
+
 Dev
 
 I don't think there are any critical outstanding bugs, but we should review just in case.
 
 - Start working on some of the FE profile issues in the Ready column.
+- [FE] Match error messages with VA Profile codes #12923 
 
 **Logged-in homepage**
 
