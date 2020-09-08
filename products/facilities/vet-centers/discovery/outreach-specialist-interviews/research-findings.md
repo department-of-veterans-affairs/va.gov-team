@@ -150,26 +150,50 @@ The process of converting a contact to a client often requires many steps and ca
 
 #### 1. Detail pages must feel distinct from VA Medical Centers and communicate Vet Centers’ “welcoming environment and hospitable culture”.
 A [recent study conducted by Aptive Resources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/VetCenters_BrandAnalysisReport_03272020.pdf) found this attribute to be especially important to clients, referencing their family-like atmosphere almost twice as often as any other attribute. Their data also suggested that it is the predominant differentiator between Vet Centers and VA medical centers. Maintaining this differentiation is important to reach Veterans who do not trust VA Medical Centers. Vet Centers are often cited as the first touchpoint in a Veteran or service member’s readjustment journey and can serve as the bridge to connect them to other VA services and benefits. Conversations with Outreach Specialists in this study support this recommendation. Ideas to strike the appropriate tone include: Use aspirational photography that highlights the more casual side of the counseling services available, for example, a group of Veterans fishing or at a BBQ. Prioritize an approachable welcome message over eligibility information. Add client testimonials. 
-#### 2.
-#### 3.
-#### 4.
-#### 5.
-#### 6.
-#### 7.
-#### 8.
-#### 9.
-#### 10.
+
+#### 2. Calling the Vet Center should be the primary call to action on any Vet Center page. 
+Vet Center staff is highly skilled at talking to hesitant Veterans and service members. All content on the website should be positioned in such a way as to eliminate any mental and physical barriers that would impede a potential client from contacting a Vet Center. 
+
+#### 3. Avoid describing official eligibility requirements in favor of a generic, ‘just call, we’ll help’ message. 
+Let the intake process do the heavy lifting of determining eligibility. A Vet Center can still offer non-eligible individuals referral services and connect them to other resources.
+
+#### 4. Services should be illustrated in a non-clinical manner.  
+A first impression of a Vet Center should address the stigma many Veterans feel toward mental health. Towards the top of the page, services could be illustrated with words and imagery that reflect the various non-threatening ways in which counseling could be delivered. A photo of a fishing group or BBQ could better illustrate “Group Therapy” than a serious photo of clients sitting in a circle. A photo of two individuals drinking coffee may do a better job of bringing a Veteran in for individual counseling than a strict definition and would more accurately reflect the experience that a Veteran feels once engaged in services. The page should still make clinical modality examples available by progressively disclosing the more clinical details of each service type so that users and search functionality could still leverage the information and search terms.
+
+#### 5. Highlight and describe what “referral services” are simple language with concrete examples. 
+Referral services will vary across Vet Center’s but giving concrete examples of the types of resources available, such as the availability of a food pantry, would help communicate the broad scope of help available to Veterans and service members and further highlight what makes a Vet Center such a valuable resource .
+
+#### 6. Communicate a Vet Center’s potential reach via Mobile Vet Centers, Community Access Points and Outstations.
+This needs to be made clear to potential clients and community partners on a Vet Center detail page. While a unique detail page may not be necessary or feasible for all delivery mechanisms, communicating which areas are serviceable should be incorporated in every detail page and how a Facility Locator search produces results. 
+
+#### 7. Highlight “Group” activities visually with real photos of Vets doing fun things that don’t look clinical. 
+This is what makes Vet Centers special and different from other VA facilities.  Promoting groups is very tricky because you can’t just drop in. You have to be an established client to participate but they are what provide the unique flavor of a particular community. Clinicians initiate the formation of groups and have lots of freedom. They’re centered around shared interest, military service era and/or because a clinician has a unique theme to offer. 
+
+#### 8. Incorporate staff summary, individual bios and photos. 
+Outreach specialists believe that being able to read about the military background that most Vet Center staff share, would reduce anxiety and remove a mental barrier to making contact. This is a good hypothesis that should be tested with Veterans.
+
+#### 9. Create an events listing or calendar tool for Vet Center staff to manage and publicize public events. 
+Outreach specialists struggle with finding ways to promote events and activities to the public. Vet Centers would benefit from being provided with a tool that they can self manage to list public events and post related brochures and flyers. When appropriate, this tool could also be used for the promotion of Mobile Vet Center and Community Access Point events and availability to enhance their visibility. 
+
+#### 10. Create a contact form for potential clients to request information or refer a friend. 
+Recent [research conducted by Aptive Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/VetCenters_BrandAnalysisReport_03272020.pdf) concluded that current clients are a powerful untapped resource for spreading the word about Vet Centers. In their focus group study, the vast majority of clients responded the highest score in willingness to recommend or promote Vet Centers. They quote a client who has “recommended Vet Centers to friends and colleagues for years by using social media channels to ‘tell folks about the effectiveness of Vet Centers.’” A simple form could be offered on Vet Center detail pages that could be used to refer a friend or request information. This could also help improve some of the inefficiencies that some Outreach Specialists described in getting contact information routed to the right person without having to exchange so many hands. 
 
 ## Next Steps
 
-* 
+* Meet with internal team to discuss recommendations and refine.
+* Present findings and recomendations with stakeholders.
+* Create low fidelity wireframes of an updated Vet Center detail page.
+* Present wireframes to stakeholders for input and refinement.
+* Solicit input from individual stakeholders.
+* Redine ides and create medium/high fidelity prototype.
+• Test prototype with Veterans and service memmbers.
 
 ## Appendix
 
-#### [Conversation guide]()
+#### [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/outreach-specialist-interviews/conversation-guide.md)
 
-#### [Interview transcripts]()
+#### [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/outreach-specialist-interviews)
 
-#### [Synthesis spreadsheet]()
+#### [Synthesis spreadsheet](https://adhocteam-my.sharepoint.com/:x:/g/personal/leyda_hughes_adhocteam_onmicrosoft_com/EVfFST7YFa9Pj__aWbJKpcEBriTEc4erXoDR4Bkmm4f7qQ?e=hgSl19)
 
 #### [Aptive Resources Brand Analysis Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/VetCenters_BrandAnalysisReport_03272020.pdf)
