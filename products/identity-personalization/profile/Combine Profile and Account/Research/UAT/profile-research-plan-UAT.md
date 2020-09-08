@@ -166,4 +166,4 @@ FYI — **Tressa Furner (tressa.furner@adhocteam.us) will be conducting these se
 - [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account)
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/UAT/profile-conversation-guide-UAT.md)
 - [Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/UAT/Session%20Notes)
-- [Findings](https://docs.google.com/spreadsheets/d/19vaZcU9-ySIrOxgPvQdiE90GAD0iIM0t1LSDq_4HMpU/edit#gid=0)
+- [Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/UAT/Profile%202.0%20Research%20Findings.md)
