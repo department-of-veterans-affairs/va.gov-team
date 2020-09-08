@@ -92,7 +92,7 @@ We will work with Perigean to recruit for this study.
 
 1.	**Timeline: What dates do you plan to do research?**
 
-We are looking to start sessions **Thursday, Saptember 2, 2020. We will test with users September 2, 3 and 4 **.
+We are looking to start sessions **Wednesday, Saptember 9, 2020. We will test with users September 9 and 10 and as we find participants **.
 
 2.	**Prepare: When will the thing you are testing be ready?**
 
@@ -104,11 +104,11 @@ We expect sessions to be 60 minutes. **Please schedule sessions for 60 minutes w
 
 4.	**Availability: If applicable, when would you like sessions scheduled?**
 
-Between 11 am and 7pm EST.
+Between 8 am and 4pm EST.
 
-5.	**Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
+5.	**Pilot: There will be no pilot session **
 
-Wednesday September 1. 
+
 
 ## Team Roles
 **Please list the people who will be serving in each role.**
