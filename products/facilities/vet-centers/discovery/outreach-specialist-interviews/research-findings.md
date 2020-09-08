@@ -199,7 +199,7 @@ Recent [research conducted by Aptive Research](https://github.com/department-of-
 * Present wireframes to stakeholders for input and refinement.
 * Solicit input from individual stakeholders.
 * Redine ides and create medium/high fidelity prototype.
-* Test prototype with Veterans and service memmbers.
+* Test prototype with Veterans and service members.
 
 ## Appendix
 
