@@ -34,7 +34,7 @@ Prior to the study, we hypothesized that:
 6.
 7.
 8.
-9
+9.
 10.
 
 ### Details of Findings
