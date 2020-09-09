@@ -5,10 +5,10 @@
 Important Dates:
 ** 
  - [ ] UAT Starts 8/17
- - [ ] Go/no go Meeting 8/25
- - [ ] Prod Release 25% of Traffic  8/26
- - [ ] Ramp to  50% Traffic 9/02
- - [ ] Ramp to 100% of traffic 9/9
+ - [ ] Go/no go Meeting 9/9
+ - [ ] Prod Release 25% of Traffic  9/14
+ - [ ] Ramp to  50% Traffic 9/21
+ - [ ] Ramp to 100% of traffic 9/28
 
 
 ## Phase I: moderated production testing - UAT
@@ -32,27 +32,16 @@ Important Dates:
 
 ### Planning
 
-- Desired date range: 8/26 - 9/2
-- 25% traffic split, using flipper
-- Will evaluate number of log-ins and letter views. 
-
--Ramp to 50% 9/2
-
--100% of traffic to app 9/9
+ - [ ] Prod Release 25% of Traffic  9/14
+ - [ ] Ramp to  50% Traffic 9/21
+ - [ ] Ramp to 100% of traffic 9/28
 
 
 ## Go Live!
 
- - Go/no go meeting 8/24
- - 9/9 Go live with 100% of traffic on va.gov 
+Debtman redirect 10/5
 
-### Planning:
-- Desired date: mm/dd/yy
-- Post-launch KPI 1: xx lorem ipsum
-- Post-launch KPI 2: xx lorem ipsum
-- Post-launch KPI 3: xx lorem ipsum
-- etc
-- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
+
 
 ### 1-week results:
 - Number of unique users: x
