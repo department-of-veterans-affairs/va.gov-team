@@ -839,6 +839,7 @@ Back to [Table of Contents](#table-of-contents)
 - [[KEYBOARD]: STEM Standalone - Focus MUST be returned to the Edit button when Update page is pressed or clicked - #12338](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12338) <br/>**Opened:** August 10, 2020 | **Severity:** _508-defect-2_ **Serious**_
 - [[COGNITION]: STEM Standalone - CONSIDER revising the optional / required pattern for contacting a user in step 5 - #12341](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12341) <br/>**Opened:** August 10, 2020 | **Severity:** _508-defect-3_ **Minor**_
 - [[TESTING]: STEM Standalone - All accordions SHOULD be opened and tested with axe in E2E suite - #12344](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12344) <br/>**Opened:** August 10, 2020 | **Severity:** _508-defect-4_ **Trivial**_
+- [[COGNITION]: STEM Standalone - CONSIDER reviewing the school email address for data safety - #13298](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13298) <br/>**Opened:** September 8, 2020 | **Severity:** _508-defect-4_ **Trivial**_
   
 Back to [Table of Contents](#table-of-contents)
 
