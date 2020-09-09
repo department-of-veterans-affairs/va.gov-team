@@ -65,7 +65,7 @@ Outreach Specialists:
 ### Details of Findings
 
 #### 1.  Vet Centers have great autonomy in how they tailor and deliver services to their clients. 
-A key differentiating factor in the value Vet Centers bring to the mission of helping service members in their readjustment journey is their ability to meet an individual wherever they are in that journey. Vet Center staff can offer services ranging from traditional counseling to more casual support through group recreational activities or refer out to other services..
+A key differentiating factor in the value Vet Centers bring to the mission of helping service members in their readjustment journey is their ability to meet an individual wherever they are in that journey. Vet Center staff can offer services ranging from traditional counseling to more casual support through group recreational activities or refer out to other services.
 
 > “RCS has a lot of flexibility. Our clinicians can come up with various events that they want to have with Veterans, if appropriate, they have BBQs with their groups and different things. “We try to make it as non of a clinical setting as we can and still get clinical work done when it's necessary.”
 
@@ -192,6 +192,9 @@ Outreach specialists struggle with finding ways to promote events and activities
 
 #### 10. Create a contact form for potential clients to request information or refer a friend. 
 Recent [research conducted by Aptive Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/VetCenters_BrandAnalysisReport_03272020.pdf) concluded that current clients are a powerful untapped resource for spreading the word about Vet Centers. In their focus group study, the vast majority of clients responded the highest score in willingness to recommend or promote Vet Centers. They quote a client who has “recommended Vet Centers to friends and colleagues for years by using social media channels to ‘tell folks about the effectiveness of Vet Centers.’” A simple form could be offered on Vet Center detail pages that could be used to refer a friend or request information. This could also help improve some of the inefficiencies that some Outreach Specialists described in getting contact information routed to the right person without having to exchange so many hands. 
+
+#### 11. Consider social media for managing closed group events.
+Outreach specialists expressed many challenges in managing and publicizing private group events and activities. A private Facebook group, as an example, could solve many of the challenges of scheduling, promoting and assessing the attendance of closed group events. Outreach Specialists varied in their desire to take on the maintenance of social media from hesitation to feeling that it would be a “no-brainer” to leverage for this use. Allowing willing and able Vet Center’s to manage their own accounts could also further their ability to meet their clients where they are, tailoring communication according to group needs, as some client populations have higher technology adoption than others.
 
 ## Next Steps
 
