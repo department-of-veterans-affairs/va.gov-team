@@ -175,7 +175,7 @@ Let the intake process do the heavy lifting of determining eligibility. A Vet Ce
 #### 4. Services should be illustrated in a non-clinical manner.  
 A first impression of a Vet Center should address the stigma many Veterans feel toward mental health. Towards the top of the page, services could be illustrated with words and imagery that reflect the various non-threatening ways in which counseling could be delivered. A photo of a fishing group or BBQ could better illustrate “Group Therapy” than a serious photo of clients sitting in a circle. A photo of two individuals drinking coffee may do a better job of bringing a Veteran in for individual counseling than a strict definition and would more accurately reflect the experience that a Veteran feels once engaged in services. The page should still make clinical modality examples available by progressively disclosing the more clinical details of each service type so that users and search functionality could still leverage the information and search terms.
 
-#### 5. Highlight and describe what “referral services” are simple language with concrete examples. 
+#### 5. Highlight and describe what “referral services” are in simple language with concrete examples. 
 Referral services will vary across Vet Center’s but giving concrete examples of the types of resources available, such as the availability of a food pantry, would help communicate the broad scope of help available to Veterans and service members and further highlight what makes a Vet Center such a valuable resource .
 
 #### 6. Communicate a Vet Center’s potential reach via Mobile Vet Centers, Community Access Points and Outstations.
