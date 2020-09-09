@@ -133,7 +133,7 @@ Mobile Vet Centers are Vet Center branded trucks with space for a small office o
 > "Nat’l Guard Army training site downstate. We're going to try to bring 3 or 4 MVCs, 4 counselors, and we're going to get that set up around the installation for the soldiers who are there to have access to a clinician during their training."
 
 #### 8. Vet Center staff are often veterans themselves. 
-5/5 Outreach specialists we spoke to had a military background and find this to be an asset to connecting with Vets. In fact, nation-wide 70% of staff at Vet Center are Veterans.
+5/5 Outreach specialists we spoke to had a military background and find this to be an asset to connecting with Vets. In fact, nationwide 70% of staff at Vet Center are Veterans.
 
 > “One of the biggest things that we like to promote here is that most therapists are Veterans themselves. Most of our staff have served in Iraq or Afghanistan.”
 
@@ -176,7 +176,7 @@ Let the intake process do the heavy lifting of determining eligibility. A Vet Ce
 A first impression of a Vet Center should address the stigma many Veterans feel toward mental health. Towards the top of the page, services could be illustrated with words and imagery that reflect the various non-threatening ways in which counseling could be delivered. A photo of a fishing group or BBQ could better illustrate “Group Therapy” than a serious photo of clients sitting in a circle. A photo of two individuals drinking coffee may do a better job of bringing a Veteran in for individual counseling than a strict definition and would more accurately reflect the experience that a Veteran feels once engaged in services. The page should still make clinical modality examples available by progressively disclosing the more clinical details of each service type so that users and search functionality could still leverage the information and search terms.
 
 #### 5. Highlight and describe what “referral services” are in simple language with concrete examples. 
-Referral services will vary across Vet Center’s but giving concrete examples of the types of resources available, such as the availability of a food pantry, would help communicate the broad scope of help available to Veterans and service members and further highlight what makes a Vet Center such a valuable resource .
+Referral services will vary across Vet Center’s but giving concrete examples of the types of resources available, such as the availability of a food pantry, would help communicate the broad scope of help available to Veterans and service members and further highlight what makes a Vet Center such a valuable resource.
 
 #### 6. Communicate a Vet Center’s potential reach via Mobile Vet Centers, Community Access Points and Outstations.
 This needs to be made clear to potential clients and community partners on a Vet Center detail page. While a unique detail page may not be necessary or feasible for all delivery mechanisms, communicating which areas are serviceable should be incorporated in every detail page and how a Facility Locator search produces results. 
