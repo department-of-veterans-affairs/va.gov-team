@@ -1,18 +1,17 @@
-# Auth Diagram [WIP]
-
-Basic Auth Diagrams to aid in conversations around these idea
-
-
+# Auth Diagram and explinations [WIP]
 
 ## ID.me 
-[ID.me](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/External%20Service%20Integrations/ID.me.md)is one of the our authentication providers. 
+
+[ID.me](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/External%20Service%20Integrations/ID.me.md)is the authentication provider. 
 
 ID.me uses a basic SAML exchange to provide authorization for a user. A user can sign in with a variety of credentials, including [DS Logon](), [My Health-eVet](), or [ID.me](). Currently the VA is trying to get to reduce those 3 providers to only use one, ID.me
 
 ![diagram of SAML](id.png)
 
 
-Much of the authication and authorization happen over on
+Much of the authorization and authorization on an external system (ID.me) and we (vets api and va.gov) consume the authorized user using SAML. 
+
+For a more detailed breakdown, head over to [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/user-login/login-data-flow.md)
 
 ## My Healthy-eVet
 
@@ -31,6 +30,14 @@ For non health data, we use an API that is was given to the API team to use with
 
 ## Lighthouse - Health API 
 
-![WIP drigram from light house team ](lighthouse.health.api.v0.png)
+Normally, if an outside system wants to consume Health data from Lighthouse, they would use Open ID connect. OpenId Connect is a layer on top of OAuth.
+
+In order to not reinvent the wheel, the Lighthouse team uses Okta as their OAuth broker with ID.me, DSLogon and MHV. 
+
+But the vets api is a unique integration point. We cannot use the existing OAuth system because the vets api is already using a different OAuth system. 
+
+To solve that problem, the Lighthouse team is creating a custom integration point. 
 
 As of Sept 3, 2020, The integration is not finalized. The diagram is a screen grab from their latest mural.
+
+![WIP drigram from light house team ](lighthouse.health.api.v0.png)
