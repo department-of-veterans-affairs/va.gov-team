@@ -1,6 +1,6 @@
 ---
 name: VSA-QA Test Plan
-about: For VSA Product Teams to request QA Test Plan to be developed during Build Phase of development.  Open a ticket at least 1 Sprint before QA-testing on Staging is needed.
+about: For VSA Product Teams to request QA Test Plan to be developed during Build Phase of development.  Open a ticket at least 2 SprintS before expected Platform Staging Review.
 title: '[Product/Feature] VSA-QA Test Plan'
 labels: 'vsa-qa'
 assignees: 'tlei123'
