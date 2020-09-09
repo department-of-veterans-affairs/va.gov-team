@@ -59,7 +59,7 @@ We wanted to answer the following questions through this study:
 
 7. Participants are willing to scroll enough to find right rail content on mobile when they are looking for something specific.
 
-8. The height of alerts contributed to some people missing content on a page.
+8. The height of alerts contributed to some people hesitating before finding what they needed on a page.
 
 
 ## Details of Findings
@@ -201,13 +201,13 @@ When looking for a specific task (in this case, trying to decide what to do when
 Veterans seem to be ok scrolling down when searching for specific content on a page.
 
 
-### The height of alerts contributed to some people missing content on a page.
+### The height of alerts contributed to some people hesitating before finding what they needed on a page.
 
 All participants were exposed to at least 2 alerts as they went through the tasks, which consumed the majority of the viewport each time a page loaded. As each session went on, we noticed participants had to repeatedly scroll past the coronavirus alert on content pages to get to the information they were looking for.  One alert was dismissable; 2 of the 6 participants dismissed the alert in the session, and one participant appeared to have dismissed it previously (or when the recording was paused as he signed in) because it did not display at all while we were observing.
 
 It seemed like people got fatigued, rather than frustrated, by the alerts. When we asked participants to find VA locations to get a COVID test, only 1 of the 6 referenced the VA locations link in the alert itself, which suggests people stopped reading it by that point in the session and just ignored it because they had seen it so many times.  3 of 6 participants had to be guided to the “complete application without signing in” option at the bottom of the info alert on the form page, which suggests they are not reading lengthy alert content carefully.
 
-One participant navigated back to the homepage twice to start over, because they didn’t think they landed anywhere after choosing a page from the main navigation menu.
+One participant navigated back to the homepage twice to start over, because they didn’t think they landed anywhere after choosing a page from the main navigation menu (because nothing on the page had changed due to the alert).
 
 >*Clicked on Eligibility from Education menu*. Oh, I thought that would give me eligibility information as far as education, but [I backed out of it because] nothing came up.  
 
@@ -237,7 +237,7 @@ One participant navigated back to the homepage twice to start over, because they
 ## Next Steps
 
 *   Revise [mobile research guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/mobile-research-guidelines.md)
-*   Create GitHub issues for mobile improvements and assign to the appropriate teams
+*   Create GitHub issues under a single epic for mobile improvements and assign to the appropriate teams
 
 
 ## Appendix
