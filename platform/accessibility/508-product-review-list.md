@@ -612,7 +612,6 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open issues**<br/>
 
-- [508-defect-1 [ZOOM, MOBILE]: Content MUST not be cut off when magnified - #10783](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10783)<br/>**Production** | **Opened:** June 30, 2020 | **Severity:** 508-defect-1 :exclamation: Launchblocker - **_Critical_**
 - [[AXE-CORE]: Zoom In / Zoom Out controls MUST have their visible text as part of their accessible name](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6104)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-1 :exclamation: Launchblocker - **_Critical_**
 - [[SCREENREADER]: Links in map attribution should open in new tab to aid in error recovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6158)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [508-defect-2 [SCREENREADER]: Map area SHOULD be hidden from screen readers, in the current state - #10784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10784)<br/>**Production** | **Opened:** June 30, 2020 | **Severity:** 508-defect-2 - **_Serious_*
