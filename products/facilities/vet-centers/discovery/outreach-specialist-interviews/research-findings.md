@@ -91,9 +91,9 @@ Since an Outreach Specialist’s goal is to first identify a service member’s 
 
 > “When initially engaging that vet and finding if they are eligible, I am not immediately thinking, "Oh, are they eligible? I will get to that as I figure out what that service member is looking for."
 
-> “When we say 'combat veteran'[as criterion for eligibility], they, even current clients, think it means [must have been] engaged in combat, the enemy was shooting at me, you're shooting back at the enemy.”
+> “When we say 'combat veteran' [as criterion for eligibility], they, even current clients, think it means [must have been] engaged in combat, the enemy was shooting at me, you're shooting back at the enemy.”
 
-> “We’ll try to do whatever we can to make that person eligible.”
+> “We’re not trying to disqualify people to come here. That’s not my role… We want them to come here. Especially if they’re showing that they have some sort of issue that’s specific to what we do. I’m going to do whatever I can do to get them in.”
 
 
 #### 4. Individual counseling, groups and referral services were rated as the top three most used services at their Vet Centers. 
@@ -112,7 +112,7 @@ Outreach specialists connect Veteran and service members to a wide variety of re
 
 > “A vet might not be able to easily explain what is going on with a referral. We can help the VAMC understand what the vet wants and needs.”
 
-> "Once they’re actually a client, we get called by the counselors, who have less knowledge of VA programs. We can help connect with job resources. File disability claim - counselors will schedule with us to explain disability, how process works."
+> "Once they’re actually a client, we get called by the counselors, who have less knowledge of VA programs. We can help connect with job resources. File a disability claim - counselors will schedule with us to explain disability, how process works."
 
 #### 6. Community Partners spread the word about Vet Centers. 
 Outreach Specialists spend at least 50% of their time networking and building relationships within their communities with law enforcement, state agencies, universities, businesses and other VA entities. These partnerships play a key role in educating and referring Veterans and service members to Vet Centers. 
@@ -128,7 +128,7 @@ Mobile Vet Centers are Vet Center branded trucks with space for a small office o
 
 > “Finding a way to identify mobile Vet Centers and include their catchment area or zone and realize there’s a possibility to message so Vets understand that they could come to them."
 
-> "MVC created so many new clients, so much interest that it created a CAP and moved to once a week. Could be as little as needed or once a week. If a CAP moves to every day of week, it would become an outstation, a mini VC"
+> After advertising to VFW and American Legion that they would be coming to this community an hour away from a main VC and offering appointments on a monthly basis, "the MVC created so many new clients, so much interest that it created a CAP and moved to once a week. Could be as little as needed or every day of the week. If a CAP moves to every day of week, it would become an outstation, a mini Vet Center"
 
 > "Nat’l Guard Army training site downstate. We're going to try to bring 3 or 4 MVCs, 4 counselors, and we're going to get that set up around the installation for the soldiers who are there to have access to a clinician during their training."
 
