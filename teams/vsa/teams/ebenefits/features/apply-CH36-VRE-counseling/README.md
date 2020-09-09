@@ -89,7 +89,7 @@ I can apply for CH36 benefits quickly and without mailing in a form or visiting 
 ##### Baseline KPIs
 tbd
 #### OKRs
-tbd
+Improve abandonment rate
 
 --
 ## Go-to-Market
