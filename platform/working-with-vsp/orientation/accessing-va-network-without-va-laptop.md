@@ -41,6 +41,37 @@ _Note: If you do have a VA-issued laptop, you can also use CAG, but the Citrix s
 11. Otherwise you should be logged in to the Citrix storefront page. Click from the empty "Applications" tab to the "Desktops" tab. Different users see different lists of available desktops here depending on how their account is configured, but in general most should be some variant of Windows and should have Outlook and one or more browsers. Find an option that works well enough, isn't super-slow, and has the tools you need installed.
 12. When you pick a desktop, it will launch and should show a Windows sign-in screen. If it's prompting for a username/password, select "Log in as a different user" and then click the SmartCard option. After a few seconds it should read your PIV and prompt you for a PIN, and then log you into Windows.
 
+## Linux (Ubuntu 20.04)
+
+1. Follow steps 1-3 above
+
+1. Install OpenSC
+
+        sudo apt install opensc
+
+1. Load security device in Firefox
+
+    - From the Firefox taskbar, click the Options icon (“gear” shape).
+    - Click the Privacy & Security menu from the left-hand navigation.
+    - Scroll down until you see the Certificates heading, and then click Security Devices.
+    - At the Device Manager window, click the Load button and enter this module name: OpenSC PKCS#11 Module.
+    - Enter the directory where the OpenSC PKCS #11 driver is located:
+
+          /usr/lib/x86_64-linux-gnu/pkcs11/opensc-pkcs11.so
+
+
+1. Install [Citrix Workspace](https://www.citrix.com/downloads/workspace-app/linux/workspace-app-for-linux-latest.html)
+
+1. Symlink Firefox certificates
+
+        sudo ln -s /usr/share/ca-certificates/mozilla/* /opt/Citrix/ICAClient/keystore/cacerts
+
+1. Continue from step 4 above using Firefox
+
+References:
+- [Firefox Config](https://piv.idmanagement.gov/engineering/firefox/)
+- [Citrix Certificates](https://askubuntu.com/questions/302188/certificate-error-when-using-citrix-receiver)
+
 ## Troubleshooting
 
 ### Citrix PIV web portal (citrixaccesspiv.va.gov) does not accept login certificate
