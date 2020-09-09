@@ -8,6 +8,28 @@
 - Measure outcomes where possible
 - Remember the Contact Center (Alamo!) and the issues they deal with
 ----
+## Sprint 29 (8/26 - 9/8)
+```diff
+- 79 issues over 20 issues
+```
+## 1. Prepare "Dependency Claims" for launch
+- FE and BE activities TBD, target Staging Review
+- Team: Perform e2e testing with partner systems
+- Product: Schedule moderated UAT
+- Product: Staging Review
+## 2. View My Payments: Dev Activities, Launch Prep
+- Design: Iterate on product designs as needed
+- FE: (Stretch Goal) Feature complete
+- BE: Wire up service
+- Product: Draft launch activities, validate staging data
+## 3. PCPG (CH36): Design and Dev Iteration
+- Design: Iterate on product designs and schedule further Collab Cycle activities as needed
+- FE: Continue building applications (forms and eligibility wizards)/ complete all development possible without BE in place
+- BE: PDF form and connect to Centralized Mail Service
+## 4. Representative: Design Iteration and Scaffolding (Stretch)
+- Design: (Stretch Goal) Iterate on product designs (view, search, submit) and schedule further Collab Cycle activities as needed
+- FE: (Stretch Goal): Scaffold "View Representative" page (with links to eBen for search and submit)
+
 ## Sprint 28 (8/12 - 8/25)
 ```diff
 - 51 points over 18 issues
