@@ -2,7 +2,7 @@
  - [UAT Research Plan and Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/uat)
 ## Phase I: Moderated Production Testing
 ### Planning:
-- Desired date range or test duration: **August 2020**  
+- Desired date range or test duration: **September 2020**  
 - Desired number of users: **Between 4 and 7, but no more than 10**  
 - How you'll recruit the right production test users:  **Whitelist a number of known veterans within Flipper** 
 - How you'll conduct the testing: **Moderated**
@@ -22,7 +22,7 @@
 
 ## Phase II: Move to Wider Release (Production)
 ### Planning:
-- Desired date range: **Week of August 24, 2020**
+- Desired date range: **September, 2020**
 - Desired number of unique users: **100 or 10%, whichever occurs first**
 - How you'll make the product available in production while limiting the # of users who can find/access it: **Use Flipper with monitoring**
 - "Success" criteria (by the numbers): 
