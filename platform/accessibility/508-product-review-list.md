@@ -456,7 +456,6 @@ Back to [Table of Contents](#table-of-contents)
 **Audit status:** Staging review completed August 28, 2020<br/>
 **Open issues**
 
-- [508-defect-1 ❗ Launchblocker [DATA SAFETY]: If an email address is provided, it MUST be validated - #12982](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12982)<br/>**Staging** | **Opened:** August 28, 2020 | **Severity:** 508-defect-1 — **_Critical_**
 - [[COGNITION]: Non-selected or opted-into situations SHOULD include confirmation or not appear on review pages - #12996](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12996)<br/>**Staging** | **Opened:** August 28, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [[COGNITION]: Remove buttons SHOULD have accessible labels when editing inline data on Review screen - #12999](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12999)<br/>**Staging** | **Opened:** August 28, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [[KEYBOARAD]: Focus SHOULD be restored to the Add Another button when users press Remove when editing in place - #13007](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13007)<br/>**Staging** | **Opened:** August 28, 2020 | **Severity:** 508-defect-2 — **_Serious_**
