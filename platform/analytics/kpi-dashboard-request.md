@@ -12,7 +12,7 @@ In order to ensure that KPIs will be tracked for product decisions, please ensur
 
 *If you need support with determining your KPIs, please take a look at the [data journey deck](https://docs.google.com/presentation/d/1OGdCLFYGA4cb5nDUTJOme_7UBdAM49bX5zpYZ-zg6rw/edit#slide=id.g6d866f9dc2_0_165), the [KPI Setting workshop](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1591285060838/5b950dfe08c860feb2b26d049665f8a043ee278d) or feel free to reach out to VSP Analytics & Insights on the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) channel for "in-person" support.
 
-[VFS example of KPIs and OKRs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/kpi.md)
+[VFS example of KPIs and OKRs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/product/roadmaps)
 
 (Future State: Adding baselines/targets to your KPIs)
 
