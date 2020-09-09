@@ -85,11 +85,13 @@ Service members in need of readjustment services are the target client for Vet C
 > “Really any events I hear about, I try to get a spot at them. If it’s anything where we think vets will be there, I would volunteer to go. Evening, weekend, whatever.”
 
 #### 3. Eligibility determination should not be a barrier to a service member contacting a Vet Center. 
-Since an Outreach Specialist’s goal is to first identify a service member’s needs, they prefer to hone in on a service member’s potential eligibility delicately through casual conversation as they are assessing an individual’s situation more holistically.  Often service members assume that they are not eligible for services when in fact they are eligible. If a determination is not clear, an Outreach Specialist will help to interpret a Veteran’s DD214. If the individual is not eligible for services at a Vet Center, Outreach Specialists connect them to other resources within their communities.
+Since an Outreach Specialist’s goal is to first identify a service member’s needs, they prefer to hone in on a service member’s potential eligibility delicately through casual conversation as they are assessing an individual’s situation more holistically.  Often service members misinterpret eligibility requirements and assume that they are not eligible for services when in fact they may be eligible. If a determination is not clear, an Outreach Specialist will help to interpret a Veteran’s DD214. If the individual is not eligible for services at a Vet Center, Outreach Specialists connect them to other resources within their communities.
 
 > “We are not just readjustment counseling: we are a referral service. You don't necessarily need to be eligible. So if vets are not eligible, we can refer them.”
 
 > “When initially engaging that vet and finding if they are eligible, I am not immediately thinking, "Oh, are they eligible? I will get to that as I figure out what that service member is looking for."
+
+> “When we say 'combat veteran'[as criterion for eligibility], they, even current clients, think it means [must have been] engaged in combat, the enemy was shooting at me, you're shooting back at the enemy.”
 
 > “We’ll try to do whatever we can to make that person eligible.”
 
