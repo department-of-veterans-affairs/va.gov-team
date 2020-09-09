@@ -51,11 +51,11 @@
 
 1. What method of research are you planning? 	
 
-   This study will begin with moderated, ethnographic interviews conducted over Zoom.  Follow-up interview sessions may be scheduled depending on what we learn in the first round.
+   This study will begin with moderated contextual interviews conducted over Zoom.  Follow-up interview sessions may be scheduled depending on what we learn in the first round.
 
 2. Why this method? How does this methodology help you answer your research questions?
 
-   Direct observation of the content authors/managers doing their work will give us the clearest insights into existing processes. Asking questions will clarify what they're doing and help us determine any next steps needed to answer remaining questions.  At this point, we're not sure if we are going to ask questions as we observe, or if it'll be better to wait until the end of the session.  We will refine that after we have a better sense of what we will be observing.
+   We're conducting contextual interviews so we can observe the content authors/managers doing their work, and ask questions along the way. We think this will give us the clearest insights into existing processes so we can actually *see* what they do, and then ask them why.   At this point, we're not sure if we are going to ask questions as we observe, or if it'll be better to wait until the end of the session.  We will refine that after we have a better sense of what we will be observing.
 
 ## Participants and Recruitment	
 
