@@ -199,7 +199,6 @@ Recent [research conducted by Aptive Research](https://github.com/department-of-
 * Present findings and recommendations with stakeholders.
 * Create low fidelity wireframes of an updated Vet Center detail page.
 * Present wireframes to stakeholders for input and refinement.
-* Solicit input from individual stakeholders.
 * Refine ideas and create medium/high fidelity prototype.
 * Test prototype with Veterans and service members.
 
