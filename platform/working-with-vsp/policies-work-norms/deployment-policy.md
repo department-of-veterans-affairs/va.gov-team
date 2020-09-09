@@ -1,5 +1,13 @@
 *Last updated 2020-01-27*
 
+# Deployment Policies
+
+## Deployment Strategy
+
+We intend to keep our repositories **always deployable from master branches**. The deployment schedule below describes when deployments typically happen, but deployments from master branches may occur at any time. VA.gov does not use release branches; instead, we maintain a focus on keeping the master branches healthy.
+
+For finer control over when your checked-in feature is released, see [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/).
+
 # Automated Deploys
 
 There are automated deploys of `vets-api` and `vets-website` Monday through Friday. The release is created from `master` at 2 pm Eastern and deployed at 3 pm Eastern. Code merged to `master` after 2 pm Eastern will not be added to a release and deployed until the next business day.
@@ -58,16 +66,12 @@ When in doubt on whether an issue is _critical_ enough for out-of-band deploymen
 1. Once approved, contact the [VSP DevOps oncall](https://dsva.pagerduty.com/schedules#PGIEA8Q) through the [#oncall channel](https://dsva.slack.com/archives/C30LCU8S3) to coordinate the release.
 1. Within two business days of this incident, send a PR with a [postmortem](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Postmortems), including any relevant stakeholders, VSP DEPO leadership, and any VSP team members involved in resolving the incident as reviewers.
 
-## Step-by-step process for deployment
+## Resolving production bugs
 
-1. To deploy this change to production, the release job is run with the git SHA for the commit to deploy.
-1. The auto-deploy boolean flag must be set to `FALSE` on the job.
-1. The release tag is captured and then used as input for the matching deploy job.
-1. There are "special" jobs for `vets-website` and `vets-api` which will run both the release and deploy of `master` in one operation.
+When a production issue is discovered stemming from a code change, the following decision tree should be used in resolving it:
 
-# Rails database migrations
+* Default to reverting the PR that caused the problem.
+* *Five minutes*: Can the bug be fixed in a change under five minutes? Go for it. If not, revert the offending PR.
+* *One try*: if fixing forward was already attempted and other issues were discovered in the process, revert all involved PRs.
 
-If a Rails database migration is needed for your code to work successfully, that is handled through a separate process:
-
-1. Wait for the Jenkins Slack bot to post an `Unapplied database migrations` notification in [#devops-deploys](https://dsva.slack.com/channels/devops-deploys).
-1. Once the notification has posted, log a request to the DevOps team in the [#vetsgov-devops](https://dsva.slack.com/channels/vetsgov-devops) Slack channel, asking them to inspect the changes and run the post-deploy job.
+**Rollbacks** (deploying previously-deployed versions) **are not used**, due to risks around database migrations and risks around frontend-backend dependencies. Any exceptions to this rule should **absolutely ensure** that database migrations are not involved in the affected range of commits.
