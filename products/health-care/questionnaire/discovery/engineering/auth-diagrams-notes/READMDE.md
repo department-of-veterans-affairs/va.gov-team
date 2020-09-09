@@ -1,8 +1,15 @@
 # Auth Diagram and explinations [WIP]
 
+This document's goal is to provide converstion starters, as well as jumping off points for discovery on Authentications
+
+
+## General VA Auth
+
+**Start here** [The latest VA auth docs are](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/reference-documents/auth/authentication-and-authorization.md) with the full [`UML` and `md`](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login/reference-documents/auth)
+
 ## ID.me 
 
-[ID.me](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/External%20Service%20Integrations/ID.me.md)is the authentication provider. 
+[ID.me](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/External%20Service%20Integrations/ID.me.md)is an authentication provider. 
 
 ID.me uses a basic SAML exchange to provide authorization for a user. A user can sign in with a variety of credentials, including [DS Logon](), [My Health-eVet](), or [ID.me](). Currently the VA is trying to get to reduce those 3 providers to only use one, ID.me
 
