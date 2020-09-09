@@ -14,6 +14,7 @@ Notes regarding the API defined at https://coderepo.mobilehealth.va.gov/projects
 - Does facilityId mean sta3n or sta6aid? Are we using consistent names for facilities and sites in the new API?
 - Clinic name appears to be missing
 - I can see the appeal of making the preferred time to call values Periods, but seems like overkill
+- Where would we get the contact info associated with a request?
 
 ### PatientAppointmentMetadataResponse
 
