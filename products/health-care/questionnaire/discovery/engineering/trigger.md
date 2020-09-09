@@ -1,5 +1,5 @@
 
-![Diagram](assets/sms-based-trigger.png)
+![Diagram](assets/sms-trigger.png)
 
 ## Notification of Appointment through VetText
 
