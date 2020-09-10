@@ -13,4 +13,14 @@
 - [ ] Facility name changes
 
 ## Design/Product/Content
-- [ ] Update content changes with VSP
+- [ ] Remove "unknown" gender option and make it not required
+- [ ] Medical care - Add second heading, bolding, phrasing
+- [ ] Change phone #, remove VSO references on intro page
+- [ ] Update PFC/SFC definitions for 10/1 (primary family caregiver)
+- [ ] Update medical insurance question
+- [ ] SSN or TIN
+
+
+## To explore
+- [ ] Address = same as Veteran
+- [ ] More clarity about adding SFC
