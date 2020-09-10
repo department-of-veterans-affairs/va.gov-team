@@ -1,7 +1,8 @@
 ## Frontend
 - [ ] Front end updates based on initial `stakeholder` feedback ([Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12806))
 - [ ] Front end updates needed for 10/1
-- [ ] Make SSNs unique
+- [ ] Require unique SSNs for each applicant
+
 
 ## Backend
 - [ ] Backend changes to make gender a not required field, remove unknown as option
@@ -19,6 +20,7 @@
 - [ ] 10/1 changes - design revisions
 - [ ] Update Product Guide
 - [ ] 10-10EZ Address project work
+- [ ] Error message for unique SSNs 
 
 
 ## Content changes (for tracking purposes)
