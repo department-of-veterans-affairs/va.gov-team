@@ -1,4 +1,4 @@
-**** We need to keep team/engineers in the loop through out the process in order to get valuable feedback as we go along vs having them just see final designs
+**** We need to keep the team/engineers in the loop throughout the process in order to get valuable feedback as we go along vs having them just see final designs
 
 # Logged-in homepage outline and timeline
 
