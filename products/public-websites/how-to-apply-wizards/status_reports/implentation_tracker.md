@@ -20,6 +20,7 @@
 - Disability ([on Staging](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction))
 - HLR (application almost ready, but Wizard dev has not yet started.)
   - Staging URL will be https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction
+  - Wizard prototype (Invision) is https://vsateams.invisionapp.com/share/W5U21BDFTQK#/screens/430329538
   - Wizard dev ticket is https://github.com/department-of-veterans-affairs/va.gov-team/issues/12925
 - Education ([on Staging](https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction))
   - Rogers STEM ([application page on Staging](https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction))
