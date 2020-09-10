@@ -18,6 +18,7 @@
 - [ ] 10/1 changes - content revisions
 - [ ] 10/1 changes - design revisions
 - [ ] Update Product Guide
+- [ ] 10-10EZ Address project work
 
 
 ## Content changes (for tracking purposes)
