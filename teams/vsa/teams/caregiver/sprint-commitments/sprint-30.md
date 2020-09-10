@@ -15,7 +15,7 @@
 - [ ] (Not Kevin) [Facility name changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13096)
 
 ## Design/Product/Content
-- [ ] Support stakeholder feedback ([Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12806))
+- [ ] [Support stakeholder feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12806))
 - [ ] [10/1 changes - content revisions](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13419)
 - [ ] 10/1 changes - design revisions
 - [ ] [Update Product Guide for 10/1](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13422)
