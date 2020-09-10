@@ -35,14 +35,14 @@
   - The form number will be pulled from the forms data and used in the breadcrumb preceeded by "About form"
   - Spacing and capitalization will be displayed as it is in the data
   
-***Breadcrumb Structure:  Home > Find forms > About form [form number]***
+***Breadcrumb Structure:  Home > Find a VA form > About VA Form [form number]*** <-- the breadcrumb is basically pulling in the page H1 which will always be "About VA Form xxxxxx'
 
 
 Example Form data | Example URL  | Example Breadcrumb
 --- | --- | ---
-10-10ez | www.va.gov/find-forms/about-form-10-10ez | Home > Find forms > About form 10-10ez
-21-526EZ | www.va.gov/find-forms/about-form-21-526ez | Home > Find forms > About form 21-526EZ 
-VA 4107 VHA | www.va.gov/find-forms/about-form-va-4107-vha | Home > Find forms > About form VA 4107 VHA 
+10-10ez | www.va.gov/find-forms/about-form-10-10ez | Home > Find a VA form > About VA Form 10-10ez
+21-526EZ | www.va.gov/find-forms/about-form-21-526ez | Home > Find a VA form > About VA Form 21-526EZ 
+VA 4107 VHA | www.va.gov/find-forms/about-form-va4107vha | Home > Find a VA form > About VA Form VA4107VHA 
 
 
 **Drupal URL Requirements**
