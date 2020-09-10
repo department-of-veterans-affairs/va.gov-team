@@ -16,6 +16,14 @@ This does not include research for Appeals projects, which is stored in differen
 
 ### August 2020
 
+#### August 10-14 Veteran PGD Discovery Research
+*VA Lighthouse APIs: Lauryl Zenobi*
+
+- 9 participants, 1 round
+- [Research folder](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/patient-generated-data)
+- Veteran and clinician perspectives on patient generated data
+
+
 #### August 10 - 12
 *CTO health team: Ryan Thurlwell*
 
