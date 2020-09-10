@@ -1,6 +1,6 @@
 ### 9/10 Update
 
-- John made Jen Lee aware that Platform review will result in more design/content work 
+- John made Jen Lee aware that Platform review will result in more design/content work; we now need to determine if Liz has capacity and priority to tackle this effort in current or next PW sprint.
 - Mikki continues to review Wizards in progress and provide detailed IA and usability feedback as captured in [the Mural here](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1599137761089/b5b2662802d862b436660938241e79d1ef4ecf31).
 - Liz has created tickets for specific design tasks that will help define and illustrate the changes needed to address IA and content concerns/feedback. Those tickets include:
  - #13374
