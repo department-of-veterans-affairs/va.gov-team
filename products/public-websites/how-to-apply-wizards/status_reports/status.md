@@ -9,8 +9,7 @@
  - #13379
  - #13381
  - #13382
-- Peggy has now provided high-level Content feedback for the [Education Wizard](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12243), [Disability Wizard](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12248), and [VRE Wizards](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12642).
-
+- Peggy has now provided high-level Content feedback for the [Education Wizard](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12243), [Disability Wizard](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12248), and [VRE Wizards](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12642). She'll review content again/provide additional edits as needed once mockups are ready for review.  
 
 ### 9/3 Update
 
