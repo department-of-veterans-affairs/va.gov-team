@@ -17,6 +17,7 @@
 - [ ] Medical care - Add second heading, bolding, phrasing
 - [ ] Change phone #, remove VSO references on intro page
 - [ ] Update PFC/SFC definitions for 10/1 (primary family caregiver)
+- [ ] Update signature boxes (?)
 - [ ] Update medical insurance question
 - [ ] SSN or TIN
 
