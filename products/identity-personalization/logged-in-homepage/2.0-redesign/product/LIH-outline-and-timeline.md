@@ -178,5 +178,5 @@ Deliverables: Full design, layout and specs for LOA1 and LOA3 (user that does no
 
 - [User Stories]()
 
-- [Data Points]()
+- [Data Points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/product/LIH%20Outline.xlsx)
 
