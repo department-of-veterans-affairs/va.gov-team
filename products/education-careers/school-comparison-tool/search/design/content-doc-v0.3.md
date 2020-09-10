@@ -70,7 +70,7 @@ Cumulative Post-9/11 active-duty service ([Learn More]()) { dropdown }
 Your housing allowance { additional information component }  
 
 Will you be taking any classes in person? ([Learn more]()) { Modal link } { Radio buttons }  
-* Yes { Default selection } 
+* Yes
 * No  
  
 { end additional info component }
@@ -132,7 +132,7 @@ Cumulative Post-9/11 active-duty service ([Learn More]()) { dropdown }
 Your housing allowance { additional information component }  
 
 Will you be taking any classes in person? ([Learn more]()) { Modal link } { Radio buttons }   
-* Yes { Default selection } 
+* Yes 
 * No  
  
 { end additional info component }  
