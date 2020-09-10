@@ -27,7 +27,6 @@
   - [Claim Status API](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/claim-status-api)
   - [Notice of Disagreement](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/Notice-of-Disagreement)
   
-
 ## Roadmap and Team
 - [Solution Narrative](#solution-narrative)
 - [Keywords](#Keywords)
@@ -56,16 +55,20 @@
   - Should be factored into our planning - it was not for sprint 27 
 
 # Team Info
-|**Roles**              |**Assigned**                        |
-|-----------------------|------------------------------------|
-|DSVA Product Manager   |Matt Self (transitional)            |
-|Team Product Manager   |Luke Majewski                       |
-|Back-End Engineer      |Anna Carey                          |
-|Back-End Engineer      |Ed Mangimelli                       |
-|Front-End Engineer     |Nicholas Sprinkle                   |
-|Front-End Engineer     |Robin Garrison                      |
-|Design Researcher      |Christian Valla                     |
-|Design Researcher      |Kevin Stachura                      |
+
+## Customer Support
+First line is always Matt and Luke. However, our channel #vsa-benefits-memorial is a great place to talk to anyone about a specific subject.  For specific questions regarding front-end, back-end, or design, you can always contact the individuals in the specific roles below.
+
+|**Roles**              |**Assigned**                        |**Contact Information**         |
+|-----------------------|------------------------------------|--------------------------------|
+|DSVA Product Manager   |Matt Self (transitional)            |matt.self@va.gov                |
+|Team Product Manager   |Luke Majewski                       |lmajewski@governmentcio.com     |
+|Back-End Engineer      |Anna Carey                          |anna@adhocteam.us               |
+|Back-End Engineer      |Ed Mangimelli                       |ed.mangimelli@adhocteam.us      |
+|Front-End Engineer     |Nicholas Sprinkle                   |nick.sprinkle@oddball.io        |
+|Front-End Engineer     |Robin Garrison                      |robin.garrison@adhocteam.us     |
+|Design Researcher      |Christian Valla                     |cvalla@governmentcio.com        |
+|Design Researcher      |Kevin Stachura                      |kstachura@govermentcio.com      |
 
 # Executive Summary
 
