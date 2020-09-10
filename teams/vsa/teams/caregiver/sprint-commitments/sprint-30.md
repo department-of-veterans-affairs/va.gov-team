@@ -1,18 +1,26 @@
 ## Frontend
-- [ ] Signature field bug
-- [ ] Save in progress bug
-- [ ] Gender not-required and remove `unknown` (after backend is updated)
-- [ ] Content changes *after* we get `stakeholder` approval (sentance casing and plain language)
-- [ ] `stakeholder` requested content changes *after* `VSP` approval
+- [ ] Front end updates based on initial `stakeholder` feedback ([Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12806)
+- [ ] Front end updates needed for 10/1
+- [ ] Make SSNs unique
 
 ## Backend
-- [ ] Track bounced 10-10cg applications in Google Analytics
 - [ ] Backend changes to make gender a not required field, remove unknown as option
-  - Schema: [PR](https://github.com/department-of-veterans-affairs/vets-json-schema/pull/486)
-  - API:    [N/A]()
-- [ ] Facility name changes
+- [ ] Test backend/schema changes for 10/1 with CARMA
+- [ ] Make backend/schema changes for 10/1
+- [ ] Update PDF generation with 10/1 form
+- [ ] Require unique SSNs for each applicant
+- [ ] Logging on application stats (including successful PDF sending to CARMA)
+- [ ] (Not Kevin) Track bounced 10-10cg applications in Google Analytics
+- [ ] (Not Kevin) Facility name changes
 
 ## Design/Product/Content
+- [ ] Support stakeholder feedback ([Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12806)
+- [ ] 10/1 changes - content revisions
+- [ ] 10/1 changes - design revisions
+- [ ] Update Product Guide
+
+
+## Content changes (for tracking purposes)
 - [ ] Remove "unknown" gender option and make it not required
 - [ ] Medical care - Add second heading, bolding, phrasing
 - [ ] Change phone #, remove VSO references on intro page
@@ -22,8 +30,9 @@
 - [ ] SSN or TIN
 
 
-## To explore
+## To explore (content/design backlog)
 - [ ] Address = same as Veteran
 - [ ] More clarity about adding SFC
 - [ ] Linking to written (PDF) instructions
 - [ ] Apply with SFC only
+- [ ] Check 1 box or the other on signature page
