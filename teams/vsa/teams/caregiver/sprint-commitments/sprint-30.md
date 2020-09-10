@@ -12,15 +12,15 @@
 - [ ] Require unique SSNs for each applicant
 - [ ] Logging on application stats (including successful PDF sending to CARMA)
 - [ ] (Not Kevin) Track bounced 10-10cg applications in Google Analytics
-- [ ] (Not Kevin) Facility name changes
+- [ ] (Not Kevin) [Facility name changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13096)
 
 ## Design/Product/Content
-- [ ] Support stakeholder feedback ([Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12806)
-- [ ] 10/1 changes - content revisions
+- [ ] Support stakeholder feedback ([Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12806))
+- [ ] [10/1 changes - content revisions](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13419)
 - [ ] 10/1 changes - design revisions
-- [ ] Update Product Guide
+- [ ] [Update Product Guide for 10/1](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13422)
 - [ ] 10-10EZ Address project work
-- [ ] Error message for unique SSNs 
+- [ ] [Error message for unique SSNs](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/134210)
 
 
 ## Content changes (for tracking purposes)
@@ -28,7 +28,6 @@
 - [ ] Medical care - Add second heading, bolding, phrasing
 - [ ] Change phone #, remove VSO references on intro page
 - [ ] Update PFC/SFC definitions for 10/1 (primary family caregiver)
-- [ ] Update signature boxes (?)
 - [ ] Update medical insurance question
 - [ ] SSN or TIN
 
