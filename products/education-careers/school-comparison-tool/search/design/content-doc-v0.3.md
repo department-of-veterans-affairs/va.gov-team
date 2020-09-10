@@ -89,7 +89,7 @@ Will you be taking any classes in person? ([Learn more]()) { Modal link } { Radi
 
 Enter a school, employer name, city, or zip code { Search/filter text field }  
  
-[ Search ] { button }   
+[ Search ] { Button - collapses filters when tapped similar to "See results (NN)" button }   
 
 #### Refine search { Heading is listed as H2 for screenreaders, but it is equivalent to H3 in font size }
 
@@ -183,7 +183,7 @@ Filter by provider { default selection = none } { Checkboxes }
 
 Enter a program, provider, city, or zip code { Search/filter text field }  
  
-[ Search ] { button }   
+[ Search ] { Button - collapses filters when tapped similar to "See results (NN)" button }   
 
 #### Refine search { Heading is listed as H2 for screenreaders, but it is equivalent to H3 in font size. } 
 
