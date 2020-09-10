@@ -137,7 +137,7 @@ Will you be taking any classes in person? ([Learn more]()) { Modal link } { Radi
  
 { end additional info component }  
 
-{ Bottom sheet: }  
+{ Bottom sheet - floats above all filters as user scrolls:: }  
 
 [ See results (NN) ] { Secondary Button - lists # of results as they update. Collapses filter view to standard view with school cards }  
 
