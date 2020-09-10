@@ -1,5 +1,5 @@
 ## Frontend
-- [ ] Front end updates based on initial `stakeholder` feedback ([Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12806)
+- [ ] Front end updates based on initial `stakeholder` feedback ([Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12806))
 - [ ] Front end updates needed for 10/1
 - [ ] Make SSNs unique
 
