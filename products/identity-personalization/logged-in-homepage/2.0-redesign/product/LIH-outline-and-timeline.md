@@ -1,3 +1,5 @@
+**** We need to keep team/engineers in the loop through out the process in order to get valuable feedback as we go along vs having them just see final designs
+
 # Logged-in homepage outline and timeline
 
 Based on the [V1 plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/product/v1-plan.md) and [Logged-in homepage discovery summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/discovery-summary.md) that Liz Lantz put together, we have planned out phases to design and build the new Logged-in homepage. 
