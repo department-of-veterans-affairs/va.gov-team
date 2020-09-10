@@ -12,33 +12,31 @@
 - **Note:** These sessions will be recorded
 
 ## Intro
-Good morning/afternoon and thank you for joining us today. With me are a few colleagues who are helping-out by observing and taking notes. We are part of a team with the Department of Veterans Affairs that is moving some features of the old eBenefits site over to VA.gov. We're learning what veterans need to improve their online experience, and how we can make VA.gov more useful for you. Our particular focus today is the Disability Benefits sections.
+Good morning/afternoon and thank you for joining us today. With me are a few colleagues who are helping-out by observing and taking notes. We are part of a team with the Department of Veterans Affairs that is moving some features of the old eBenefits site over to VA.gov. We're learning what veterans need to improve their online experience, and how we can make VA.gov more useful for you. Our focus today is the career and education counseling benefits--most people know them as Chapter 31 and Chapter 36.
 
-I have a few things I need to mention before we start:
-- The session should take about 60 minutes. But you can end it at any point--just let me know. We have quite a few things to cover, so to respect your time, I may occasionally break-in to move us to the next item.
+There are a few things I need to mention before we start:
+- The session should take about 15 -30 minutes. But you can end it at any point--just let me know. We have quite a few things to cover, so to respect your time, I may occasionally break-in to move us to the next item.
 - We're not testing **you** in any way--there are no right or wrong answers. We want to hear your thoughts about what we show you so that we can make improvements to VA.gov.
-- Don't worry, I will not be offended by any opinions you express. Please be open about what you think.
-- Today we'll be working with a test version of a product we're developing. Most things will work, but there may be a few that don't behave the way you'd expect. Because we are using a test account and a test environment, none of your actions will affect your account or any VA information.
-- We'd like to record this session. This will give a record to use for note-taking. We'll store the recording on a private drive, and it will be deleted when we conclude our testing and note-taking. No personal identifying information will be transcribed.
+- Please say what's on your mind--good and bad. I will not be offended by any opinions you express.
+- Today we'll be working with a prototype of a feature we're developing. Most things we're testing will work, but a lot of what you see isn't functional. But because we're using prototypes, none of your actions will affect your account or any VA information.
+- We'd like to record this session. This'll give us a record to use for note-taking. We'll store the recording on a private drive, and it will be deleted when we conclude our testing and note-taking. No personal identifying information will be transcribed.
 - I'll ask "on the record" once the recording starts.
 - OK, now that I'm recording, do I have your permission to record this session?
 
 ## Warm-up
 - Would you tell me a little bit about yourself? Your service experience, where you live, general experiences with the VA...
-- Do you have a VA Disability Rating? Can you tell me, generally, about dependents you may have claimed on your VA benefit?
-- How often do you visit the eBenefits site? How about VA.gov; how often do you visit that site? Any other sites?
-- In the past, how have you added or changed dependents on your VA benefit?
-- And last, before we look at the test pages, if you wanted to add or change a dependent on your VA benefit now, what would you do? This can be online or otherwise: website, phone call, in-person... 
+- Have you received VA career counseling or education benefits in the past? What do you know about Chapter 31 or 36?
+- How often do you visit the eBenefits site? How about VA.gov?
+- **Now we're ready to start.** OK, now could you share your screen with us?
 
 ### User screenshares
-- Clicks on staging link to form intro
-- Cut/pastes (staging) user login; cut/pastes password
-- Clicks through sign-in screens
-- Arrives at signed-in version of intro screen
+- Please go to VA.gov (I put a link in the chat box)
+- If you wanted to apply for VA career or education benefits, where would you go to find info about that?
 
-**Now we're ready to start.** Because dependents are family-members, some of the scenarios I have on my list (like divorce, children leaving home and even death) may be hard for you to get through. Please let me know if you'd like to skip a particular task, and we'll move to another.
+### User goes to prototype
+- I have a link in chat to the prototype we're testing. (Clicks on prototype link to form wizard)
 
-We'll be exploring made-up scenarios that don't necessarily apply to you. In any case you are free to use names and dates from your past--or even fake names and numbers. Nothing will be submitted because this is a test system. However, please don't use real social security numbers--1234567890 should work in those cases.
+We'll be using made-up scenarios that don't necessarily apply to you. In any case you are free to use names and dates from your past--or even fake names and numbers. Nothing will be submitted because this is a test system. However, please don't use real social security numbers--1234567890 should work in those cases.
 
 ## Usability tasks
 ### Task 1 | 5 minutes
