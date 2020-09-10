@@ -1,3 +1,17 @@
+### 9/10 Update
+
+- John made Jen Lee aware that Platform review will result in more design/content work 
+- Mikki continues to review Wizards in progress and provide detailed IA and usability feedback as captured in [the Mural here](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1599137761089/b5b2662802d862b436660938241e79d1ef4ecf31).
+- Liz has created tickets for specific design tasks that will help define and illustrate the changes needed to address IA and content concerns/feedback. Those tickets include:
+ - #13374
+ - #13375
+ - #13378
+ - #13379
+ - #13381
+ - #13382
+- Peggy has now provided Content feedback for both the [Education Wizard](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12243)and [Disability Wizard](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12248)
+
+
 ### 9/3 Update
 
 Summary recap of Platform review meeting held to discuss IA/UX/Content feedback. Participants included -- Platform reviewers (Mikki/Peggy) and Public Websites (Liz/John):
