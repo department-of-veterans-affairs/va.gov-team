@@ -30,16 +30,16 @@ There are a few things I need to mention before we start:
 - **Now we're ready to start.** OK, now could you share your screen with us?
 
 ### User screenshares
-- Please go to VA.gov (I put a link in the chat box)
+- Please go to VA.gov (I put a link in the chat box.)
 - If you wanted to apply for VA career or education benefits, where would you go to find info about that?
 
 ### User goes to prototype
-- I have a link in chat to the prototype we're testing. (Clicks on prototype link to form wizard)
+- I have a link in chat to the prototype we're testing. (Clicks on prototype link to CH36/28-8832 form wizard)
 
 We'll be using made-up scenarios that don't necessarily apply to you. In any case you are free to use names and dates from your past--or even fake names and numbers. Nothing will be submitted because this is a test system. However, please don't use real social security numbers--1234567890 should work in those cases.
 
 ## Usability tasks
-### Task 1 | 5 minutes
+### Task 1 -- User determines if 28-8832 is the correct form | 3 minutes
 - Consequetor unum et lorem dolor sit amet
 - Lorem ipsum dolor sit amet
 - Adspicing enem unum pluribus consequetor
@@ -49,7 +49,7 @@ We'll be using made-up scenarios that don't necessarily apply to you. In any cas
 - Are users selecting the lorem ipsum dolor sit amet?
 - Are there any adspicing enem unum pluribus consequetor?
 
-### Task 2 | 10 minutes
+### Task 2 -- User completes the 28-8832/28-1900 unauthenticated | 3 minutes
 - Consequetor unum et lorem dolor sit amet
 - Lorem ipsum dolor sit amet
 - Adspicing enem unum pluribus consequetor
@@ -59,7 +59,7 @@ We'll be using made-up scenarios that don't necessarily apply to you. In any cas
 - Are users selecting the lorem ipsum dolor sit amet?
 - Are there any adspicing enem unum pluribus consequetor?
 
-### Task 3 | 8 minutes
+### Task 3 -- User completes the 28-8832/28-1900 authenticated | 3 minutes
 - Consequetor unum et lorem dolor sit amet
 - Lorem ipsum dolor sit amet
 - Adspicing enem unum pluribus consequetor
