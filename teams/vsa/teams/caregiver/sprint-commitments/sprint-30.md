@@ -25,3 +25,4 @@
 ## To explore
 - [ ] Address = same as Veteran
 - [ ] More clarity about adding SFC
+- [ ] Linking to written (PDF) instructions 
