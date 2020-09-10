@@ -139,7 +139,7 @@ Will you be taking any classes in person? ([Learn more]()) { Modal link } { Radi
 
 { Bottom sheet: }  
 
-[ See results (NN) ] { Button - lists # of results as they update. Collapses filter view to standard view with school cards }  
+[ See results (NN) ] { Secondary Button - lists # of results as they update. Collapses filter view to standard view with school cards }  
 
 { END IF MOBILE }  
 
@@ -203,8 +203,8 @@ Warnings and school closings ([Learn more]()} { modal link }
 
 Filter by provider { default selection = none } { Checkboxes } 
 
-{ Bottom sheet: }  
+{ Bottom sheet - floats above all filters as user scrolls: }  
 
-[ See results (NN) ] { Button - lists # of results as they update. Collapses filter view to standard view with program cards }  
+[ See results (NN) ] { Secondary Button - lists # of results as they update. Collapses filter view to standard view with program cards }  
 
 { END IF MOBILE }  
