@@ -22,7 +22,7 @@
 - [ ] [10/1 changes - content revisions](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13419)
 - [ ] [10/1 changes - design revisions](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13423)
 - [ ] [Update Product Guide for 10/1](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13422)
-- [ ] [Error message for unique SSNs](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/134210)
+- [ ] [Error message for unique SSNs](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13421)
 
 
 ## Content changes (for tracking purposes)
