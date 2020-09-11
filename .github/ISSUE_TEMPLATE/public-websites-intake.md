@@ -58,20 +58,26 @@ Please submit all engineering requests **at least 2 weeks in advance.**
 
 ### Content
      
-- [ ] **New unauthenticated VA.gov page** <br> **Note:** Please schedule a meeting with @Danielle Thierry to kick off this work. We'll work with your team and the VSP IA resource to determine how best to accommodate this new page. [View Danielle's calendar](https://outlook.office365.com/calendar/published/b2a32b65cdbd4a218f7c0461ab4e41c1@va.gov/82b0e0b178934e80b2190b37e41a14668122172627511760876/calendar.html)   
+- [ ] **New unauthenticated VA.gov page**
+   * **Additional info.** Please provide any details not covered above about what app/tool/other need this new page will support.** 
+      * < URL list ><br><br>
+    * **Schedule a meeting.** Please schedule a meeting with @Danielle Thierry to kick off this work. We'll work with your team and the VSP IA resource to determine how best to accommodate this new page. [View Danielle's calendar](https://outlook.office365.com/calendar/published/b2a32b65cdbd4a218f7c0461ab4e41c1@va.gov/82b0e0b178934e80b2190b37e41a14668122172627511760876/calendar.html)   
 
 - [ ] **Updates to an existing unauthenticated VA.gov page**
-   * **Provide a list of URL/s that need to be reviewed or updated.** 
+   * **What URL(s) do we need to review or update?** 
       * < URL list >
-   * **If it's a small copy section, list what new info the content team needs to consider and what (if anything) it's replacing.**
+   * **Are updates for a small section of copy?** If yes, please tell us what new info we need to consider and what (if anything) it's replacing.
       * < list of new info >
-   * **If the updates are related to usability testing or analytics, please provide details below.**
+   * **Are updates related to usability testing or analytics?** If yes, please provide details.**
        * < list of new info >
 
-- [ ] **Writing support for new app/tool.** <br> **Note:** We'll work with your team and the VSP content resource to determine how best to support your needs. Please schedule a meeting with @Danielle Thierry to kick off this work. [View Danielle's calendar](https://outlook.office365.com/calendar/published/b2a32b65cdbd4a218f7c0461ab4e41c1@va.gov/82b0e0b178934e80b2190b37e41a14668122172627511760876/calendar.html) 
+- [ ] **Writing support for new app/tool** 
+   * **Additional info.** Please provide any details not covered above about what app/tool/other need this new page will support.** 
+      * < URL list ><br><br>
+    * **Schedule a meeting.** We'll work with your team and the VSP content resource to determine how best to support your needs. Please schedule a meeting with @Danielle Thierry to kick off this work. [View Danielle's calendar](https://outlook.office365.com/calendar/published/b2a32b65cdbd4a218f7c0461ab4e41c1@va.gov/82b0e0b178934e80b2190b37e41a14668122172627511760876/calendar.html)   
 
-- [ ] **Editing support for app/tool.** <br> **Note:** We'll work with your team and the VSP content resource to determine how best to support your needs.
-   * **URL where draft content appears** (if available) <br>    
+- [ ] **Editing support for app/tool** <br> <br> **Note:** We'll work with your team and the VSP content resource to determine how best to support your needs.
+   * URL where draft content appears (if available) <br>    
      - < link > 
    * **Word document with draft content** (if needed) <br> **Note:** If you have more than 2 paragraphs of text to edit, please provide text in a Word doc.     
      - < link >      
