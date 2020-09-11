@@ -31,12 +31,14 @@ There are a few things I need to mention before we start:
 
 ## Wayfinding
 ### User screenshares
-- Please go to VA.gov (I put a link in the chat box.)
+- Before we go to the prototype we're testing, we'll take a quick look at VA.gov
+- I put a link in the chat box; plase click on it.
 - If you wanted to apply for VA career or education benefits, where would you go to find info about that?
+- This is the actual home page; you're free to click on anything--it should work.
 
 #### Things to look for:
 - What is the user's thought process?
-- Where does the user look (e.g. menu, links, footer...)?
+- What interactive elements does the user look for (e.g. menu, links, footer...)?
 - What content/section does the user expect to have career and education benefits?
 
 ## Usability tasks
