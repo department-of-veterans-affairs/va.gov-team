@@ -2,35 +2,35 @@
 
 # frozen_string_literal: true
 
-SCRIPT_VERSION = '0.0.2'
-PROFILE_NAME   = ENV['PROFILE_NAME'] || 'dev-edition-default'
-EXTENSION_NAME = '/extensions/switchyomega@feliscatus.addons.mozilla.org.xpi'
-GRAFANA_BASE_URL = 'http://grafana.vfs.va.gov/d/pEgVdRlZk/external-service-performance-indicators'
+SCRIPT_VERSION     = '0.0.3'
+PROFILE_NAME       = ENV['PROFILE_NAME'] || 'dev-edition-default'
+GRAFANA_BASE_URL   = 'http://grafana.vfs.va.gov/d/pEgVdRlZk/external-service-performance-indicators'
 LINUX_FIREFOX_PATH = '/opt/firefox/firefox'
-OSX_FIREFOX_PATH = '/Applications/Firefox.app/Contents/MacOS/firefox'
+OSX_FIREFOX_PATH   = '/Applications/Firefox.app/Contents/MacOS/firefox'
 
 require 'bundler/inline'
 require 'rbconfig'
 gemfile do
   source 'https://rubygems.org'
 
-  ruby RUBY_VERSION || '2.6.6'
+  ruby RUBY_VERSION || '2.6'
 
   gem 'json'
   gem 'pastel'
   gem 'pry'
   gem 'tty-spinner'
   gem 'watir'
-  gem 'webdrivers', '4.0.0'
+  gem 'webdrivers', '4.4.1'
 end
 
 # SLOReporter
 class SLOReporter
-  attr_accessor :browser, :backend, :board_url
+  attr_accessor :browser, :backend, :board_url, :tmpfile
+
   def initialize(browser, backend)
-    @browser  = browser
-    @backend  = backend
+    @browser, @backend = browser, backend
     @board_url = GRAFANA_BASE_URL + query_params
+    @tmpfile   = 'tmp/screenshots/' + backend + 'tmp.png'
   end
 
   def query_params
@@ -44,13 +44,12 @@ class SLOReporter
     browser.div(aria_label: /50th Percentile Latency over Time/).wait_until(&:present?)
     sleep 5
 
-    # TODO: Cleanup the file handling
-    tmpfile = backend + 'tmp.png'
     browser.screenshot.save tmpfile
+  end
 
-    shot_filename = backend + '_slo_screenshot.png'
+  def compress_screenshot
+    shot_filename = 'tmp/screenshots/' + backend + '_slo_screenshot.png'
 
-    # TODO: do the compression afterwords
     system "convert #{tmpfile} -chop 5%x8% -gravity south -chop 0x23.5% #{tmpfile} && \
             pngcrush -reduce -brute #{tmpfile} #{shot_filename} && \
             rm #{tmpfile}"
@@ -82,34 +81,55 @@ options = Selenium::WebDriver::Firefox::Options.new
 
 begin
   # TODO: Create a template/skeleton profile to include here
+  # TODO: This ONLY works if you open `about:profiles` in a different profile window. Not sure why.
   default_profile = Selenium::WebDriver::Firefox::Profile.from_name PROFILE_NAME
-  if path == OSX_FIREFOX_PATH
-    default_profile.add_extension default_profile.instance_variable_get('@model') + EXTENSION_NAME
-  end
+
+  default_profile['network.proxy.type'] = 1
+  default_profile['network.proxy.socks'] = '127.0.0.1'
+  default_profile['network.proxy.socks_port'] = 2001
+  default_profile['network.proxy.socks_remote_dns'] = true
+  default_profile['network.proxy.no_proxies_on'] = 'www.googletagmanager.com, www.google-analytics.com'
+
   options.profile = default_profile
-  options.headless!
+  # options.headless!
 
-  # TODO: Add capability for direct proxy in lieu of extension
-  # https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md#test-and-use-the-socks-proxy
-  driver = Selenium::WebDriver.for :firefox, options: options
-
-  b = Watir::Browser.new driver
-  b.goto GRAFANA_BASE_URL
-  b.window.resize_to(1200, 1600)
+  driver  = Selenium::WebDriver.for :firefox, options: options
+  browser = Watir::Browser.new driver
 rescue Errno::ENOENT => e
+  puts e
+  puts PROFILE_NAME
   puts '🦊 Close all instances of Firefox and try again...'
+  puts 'It may be necessary to go to \'about:profiles\''
   exit 1
 rescue Selenium::WebDriver::Error::UnknownError => e
-  puts '🧦 It\'s likely that you don\'t have SOCKS enabled...'
+  puts e
+  puts '🧦 Check SOCKS is enabled and try again...'
   exit 1
 end
 
-spinner.stop('Ready for capture!')
+spinner.success('Ready for capture!')
+
+begin
+  browser.goto GRAFANA_BASE_URL
+
+  # Quick copy/paste job from above SLOReporter class to capture the overview boards
+  browser.div(aria_label: /50th Percentile Latency over Time/).wait_until(&:present?)
+  sleep 5
+
+  overview = 'tmp/screenshots/overview.png'
+  browser.screenshot.save overview
+
+  shot_filename = 'tmp/screenshots/all-overview.png'
+
+  system "convert #{overview} -chop 5%x8% -gravity south -chop 0x23.5% #{overview} && \
+          pngcrush -reduce -brute #{overview} #{shot_filename}"
+end
 
 # TODO: This should use a service catalog or something not hard-coded.
 backends = %w[api_vet360_back
               appeals_back
               arcgis_back
+              bgs_back
               central-mail_back
               emis_back
               eoas_back
@@ -122,6 +142,7 @@ backends = %w[api_vet360_back
               idme_back
               lighthouse_apis_back
               loan_guaranty_back
+              mdt_back
               mhv_back
               mvi_back
               okta_back
@@ -129,13 +150,20 @@ backends = %w[api_vet360_back
               ppms_back
               salesforce-gibft_back
               search-gov_back
-              tims_back
               va_mobile_back
+              vbms_back
               vha-access_back]
 
 backends.each do |backend|
   spinner = TTY::Spinner.new("[:spinner] Capturing dashboard screenshot for #{backend}...", format: :pulse_3)
-  spinner.auto_spin
-  spinner.success('success') unless
-    SLOReporter.new(b, backend).capture_screenshot
+  reporter = SLOReporter.new(browser, backend)
+  reporter.capture_screenshot
+  spinner.success('success')
+end
+
+backends.each do |backend|
+  spinner = TTY::Spinner.new("[:spinner] Compressing screenshot file for #{backend}...", format: :pulse_3)
+  reporter = SLOReporter.new(browser, backend)
+  reporter.compress_screenshot
+  spinner.success('success')
 end
