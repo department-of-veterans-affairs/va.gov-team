@@ -96,12 +96,12 @@ Assess and update workload for remainder of sprint
 
 ##### Issue Estimates
 
-| Point | Task Size | Approx Days | Description |
+| Point | Task Size | Approx Days/hours | Description |
 |-|-|-|-|
-| 1 | Easy  | ~1-2 | Work is known, can be executed quickly |
-| 2 | Small  | ~3-5  | Work is known and can be completed in half a sprint |
-| 3 | Large | ~6-8  | Work is known and can be completed in less than one sprint |
-| 5 | XLarge  | ~10 | Work is known and can be completed in one sprint sprint |
+| 1 | Easy  | ~1-2/ ~8-16 | Work is known, can be executed quickly |
+| 2 | Small  | ~3-5/ ~24-40  | Work is known and can be completed in half a sprint |
+| 3 | Large | ~6-8/ ~48-64  | Work is known and can be completed in less than one sprint |
+| 5 | XLarge  | ~10/ ~80 | Work is known and can be completed in one sprint sprint |
 | 8 | XLarge  |  | Work is complex and/or there are unknown factors that need to be discussed prior to planning. Once further information is known, the work should be broken down into smaller tasks that can be completed in a sprint. |
 | 13 | XXLarge |  | Very complex, needs discovery or prototype before it can be planned for a sprint. |
 
