@@ -36,7 +36,7 @@ assignees: DanielleThierryUSDSVA
 | **New unauthenticated VA.gov page (such as a static landing page to support a new app/tool)** | At project kickoff |
 | **Updates to an existing unauthenticated VA.gov page** | For significant updates (like consolidating pages or reworking page content): At project kickoff <br> For smaller updates (like adding a section of new info): At least 2 weeks in advance |
 | **Writing support for app/tool** | At project kickoff | 
-| **Editing support for app/tool** | For multiple screens: At least 2 weeks in advance for multiple screens. <br> For smaller needs (like an error message): At least 2 days in advance | 
+| **Editing support for app/tool or other writing/editing support** | For multiple screens: At least 2 weeks in advance for multiple screens. <br> For smaller needs (like an error message): At least 2 days in advance | 
 
 ### Engineering requests
 
