@@ -17,7 +17,13 @@ User (Jerry): vets.gov.user+271@gmail.com
 ```HTML
 <h4>refer to HTML</h4>
 ```
+<details>
+  <summary>Screenshot   
+  </summary>
+  
+![CH36](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/images/CH36-axe.JPG)
 
+</details>
 2. Scan with axe-coconut   
 - {Results here, example: "Heading levels should only increase by one, this can be H2 and made to look like H4.  Even thought its in the right order, it needs to be sequential."}  
 ```HTML
