@@ -27,7 +27,7 @@ Veteran Employment Through Technology Education Courses (VET TEC) is a 5-year pi
 
 Will you be taking any classes in person? ([Learn more]()) { Modal link } { Radio buttons }  
 
-{ Learn more modal content}
+{ Learn more modal content }
 
 _HOUSING ALLOWANCE CONTENT REQUIRES APPROVAL FROM EDU / DEPO_
 
@@ -66,7 +66,7 @@ Enter a school, employer name, city, or zip code { Search/filter text field }
 
 Make changes below to update your results:  
 
-Country { dropdown } { ALL is default value }  
+Country { dropdown; ALL is default value }  
 
 State { dropdown with full state names; ALL is default value }   
 
@@ -93,7 +93,7 @@ Select an institution { radio buttons }
 
 Type of school or employer { dropdown with types of institutions ; ALL is default value }  
 
-Programs { default selection = none } { checkboxes }  
+Programs { checkbox; default selection = none } 
 - [ ] Student Vet Group
 - [ ] Yellow Ribbon
 - [ ] Principles of Excellence
@@ -104,7 +104,7 @@ Programs { default selection = none } { checkboxes }
 
 Your military details { additional information component }
 
-What's your military status? { dropdown, conditional field may appear below }
+What's your military status? { dropdown; conditional field may appear below }
 
 Which GI Bill benefit do you want to use? ([Learn more]()) { dropdown, conditional fields may appear below }  
 
@@ -135,7 +135,7 @@ Your housing allowance { additional information component }
 
 Will you be taking any classes in person? ([Learn more]()) { Modal link } { Radio buttons }  
 
-{ Learn more modal content}
+{ Learn more modal content }
 
 _HOUSING ALLOWANCE CONTENT REQUIRES APPROVAL FROM EDU / DEPO_
 
@@ -176,7 +176,7 @@ Enter a school, employer name, city, or zip code { Search/filter text field }
 
 Make changes below to update your results:  
 
-Country { dropdown } { ALL is default value }  
+Country { dropdown; ALL is default value }  
 
 State { dropdown with full state names; ALL is default value }   
 
@@ -203,7 +203,7 @@ Select an institution { radio buttons }
 
 Type of school or employer { dropdown with types of institutions ; ALL is default value }  
 
-Programs { default selection = none } { checkboxes }  
+Programs { checkboxes; default selection = none }   
 - [ ] Student Vet Group
 - [ ] Yellow Ribbon
 - [ ] Principles of Excellence
@@ -230,7 +230,7 @@ Learn more about [GI Bill program benefits and eligibility requirements](https:/
 
 Cumulative Post-9/11 active-duty service ([Learn More]()) { dropdown }  
 
-{ Learn more modal content}
+{ Learn more modal content }
 
 **Cumulative Post-9/11 service**
 
@@ -244,7 +244,7 @@ Your housing allowance { additional information component }
 
 Will you be taking any classes in person? ([Learn more]()) { Modal link } { Radio buttons }  
 
-{ Learn more modal content}
+{ Learn more modal content }
 
 _HOUSING ALLOWANCE CONTENT REQUIRES APPROVAL FROM EDU / DEPO_
 
@@ -265,7 +265,7 @@ Through Dec. 21, 2020, current and new students can receive in-person rates if t
  
 { end additional info component }  
 
-{ Bottom sheet - floats above all filters as user scrolls:: }  
+{ Bottom sheet - floats above all filters as user scrolls }  
 
 [ See results (NN) ] { Secondary Button - lists # of results as they update. Collapses filter view to standard view with school cards }  
 
@@ -285,7 +285,7 @@ Enter a program, provider, city, or zip code { Search/filter text field }
 
 Make changes below to update your results:  
 
-Country { dropdown } { ALL is default value }  
+Country { dropdown; ALL is default value }  
 
 State { dropdown with full state names; ALL is default value }  
 
@@ -303,13 +303,13 @@ To learn more about caution flags, [visit the About this Tool page](https://www.
 
 { end modal content }
 
-- [ ] Exclude results with warnings or closings { default selection = none } { checkbox } 
+- [ ] Exclude results with warnings or closings { checkbox; default selection = none }  
 
 { Preferred provider filter: } 
 
-- [ ] Preferred provider { star icon} ([Learn more]()) { modal link } { default selection = none } { checkbox }  
+- [ ] Preferred provider { star icon} ([Learn more]()) { modal link } { checkbox; default selection = none }  
 
-{ Learn more modal content}
+{ Learn more modal content }
 
 **Preferred training providers**
 
@@ -325,7 +325,7 @@ Filter by provider { default selection = none } { Checkboxes }
 
 [ Filter ] { Button - expands into filter view where school cards are not visible } 
 
-{ Expanded filter view: }  
+{ Expanded filter view }  
 
 #### Search by keyword { Heading is listed as H2 for screenreaders, but it is equivalent to H3 in font size. }
 
@@ -337,7 +337,7 @@ Enter a program, provider, city, or zip code { Search/filter text field }
 
 Make changes below to update your results:  
 
-Country { dropdown } { ALL is default value }  
+Country { dropdown; ALL is default value }  
 
 State { dropdown with full state names; ALL is default value }  
 
@@ -361,7 +361,7 @@ To learn more about caution flags, [visit the About this Tool page](https://www.
 
 - [ ] Preferred provider { star icon} ([Learn more]()) { modal link } { default selection = none } { checkbox }  
 
-{ Learn more modal content}
+{ Learn more modal content }
 
 **Preferred training providers**
 
