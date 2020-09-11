@@ -8,7 +8,7 @@
 ### Setup
 - Slack [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel) will be used for real-time feedback from observers
 - Sessions will be conducted remotely, setup will be tested 15 minutes prior to call-time; users will be required to share their screen
-- [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/uat/686-uat-research-plan.md)
+- [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-research-plan.md)
 - **Note:** These sessions will be recorded
 
 ## Intro
@@ -24,50 +24,49 @@ There are a few things I need to mention before we start:
 - OK, now that I'm recording, do I have your permission to record this session?
 
 ## Warm-up
-- Would you tell me a little bit about yourself? Your service experience, where you live, general experiences with the VA...
+- Would you tell us a little bit about yourself? Your service experience, where you live, general experiences with the VA...
 - Have you received VA career counseling or education benefits in the past? What do you know about Chapter 31 or 36?
 - How often do you visit the eBenefits site? How about VA.gov?
 - **Now we're ready to start.** OK, now could you share your screen with us?
 
+## Wayfinding
 ### User screenshares
 - Please go to VA.gov (I put a link in the chat box.)
 - If you wanted to apply for VA career or education benefits, where would you go to find info about that?
 
-### User goes to prototype
-- I have a link in chat to the prototype we're testing. (Clicks on prototype link to CH36/28-8832 form wizard)
-
-We'll be using made-up scenarios that don't necessarily apply to you. In any case you are free to use names and dates from your past--or even fake names and numbers. Nothing will be submitted because this is a test system. However, please don't use real social security numbers--1234567890 should work in those cases.
+#### Things to look for:
+- What is the user's thought process?
+- Where does the user look (e.g. menu, links, footer...)?
+- What content/section does the user expect to have career and education benefits?
 
 ## Usability tasks
-### Task 1 -- User determines if 28-8832 is the correct form | 3 minutes
+### User goes to prototype
+- I have a link in chat to the prototype we're testing. (Clicks on prototype link to CH36/28-8832 form wizard)
+- We'll be using made-up scenarios that may not necessarily apply to you. We'll be completeing a form (or forms), and you're free to use whatever names and dates come to mind--fake names and numbers are fine. 
+- Nothing will be submitted because this is a prototype. However, we're recording this, so please don't use real social security numbers--1234567890 should work in those cases.
+
+### Task 1 / Chapter 36 wizard / 3 minutes
+User determines if 28-8832 is the correct form
 - Consequetor unum et lorem dolor sit amet
 - Lorem ipsum dolor sit amet
 - Adspicing enem unum pluribus consequetor
 
 #### Things to look for:
-- Do users consequetor unum et lorem dolor sit amet?
-- Are users selecting the lorem ipsum dolor sit amet?
-- Are there any adspicing enem unum pluribus consequetor?
+- Does the user read/understand the intro copy?
+- Are the mechanics of the wizard intuitive? What other (wizard) features are users expecting?
+- Can the user determine from the wizard if the form is right for them? Will they jump to the 28-1900?
 
-### Task 2 -- User completes the 28-8832/28-1900 unauthenticated | 3 minutes
+### Task 2 / 3 minutes
+User completes the 28-8832 or 28-1900 form
 - Consequetor unum et lorem dolor sit amet
 - Lorem ipsum dolor sit amet
 - Adspicing enem unum pluribus consequetor
 
 #### Things to look for:
-- Do users consequetor unum et lorem dolor sit amet?
-- Are users selecting the lorem ipsum dolor sit amet?
-- Are there any adspicing enem unum pluribus consequetor?
-
-### Task 3 -- User completes the 28-8832/28-1900 authenticated | 3 minutes
-- Consequetor unum et lorem dolor sit amet
-- Lorem ipsum dolor sit amet
-- Adspicing enem unum pluribus consequetor
-
-#### Things to look for:
-- Do users consequetor unum et lorem dolor sit amet?
-- Are users selecting the lorem ipsum dolor sit amet?
-- Are there any adspicing enem unum pluribus consequetor?
+- Do users choose to sign in? Or do they prefer to submit the form unauthenticated?
+- Is the flow of the form intuitive? What language trips-up the user?
+- Do users review their submission info? Do they undeerstand the intended function of the accordions?
+- Does the confirmation screen satisfy the user regarding confirmation and next steps?
 
 ---
 
