@@ -1,4 +1,4 @@
-*Last updated 2020-01-27*
+*Last updated 2020-09-11*
 
 # Deployment Policies
 
@@ -44,6 +44,8 @@ The holiday release freeze is in effect during the following dates:
 
 If there is a _critical issue_ that needs to be resolved outside the automated deployment schedule, explicit permission must be granted for an out-of-band deploy.
 
+See [Resolving critical issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/resolving-critical-issues.md) for recommended approaches to issue resolution (i.e. when to revert, when to fix forward).
+
 For every out-of-band deploy requested, VSP team will expect a follow-up [postmortem](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Postmortems) from the requesting team, explaining the context that led to the problem and proposing follow-up actions to prevent similar future problems.
 
 ## Is my issue critical?
@@ -66,12 +68,9 @@ When in doubt on whether an issue is _critical_ enough for out-of-band deploymen
 1. Once approved, contact the [VSP DevOps oncall](https://dsva.pagerduty.com/schedules#PGIEA8Q) through the [#oncall channel](https://dsva.slack.com/archives/C30LCU8S3) to coordinate the release.
 1. Within two business days of this incident, send a PR with a [postmortem](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Postmortems), including any relevant stakeholders, VSP DEPO leadership, and any VSP team members involved in resolving the incident as reviewers.
 
-## Resolving post deploy issues 
+# See also
 
-When a production issue is discovered stemming from a code change, the following decision tree should be used in resolving it:
-
-* Default to reverting the PR that caused the problem.
-* *Five minutes*: Can the bug be fixed in a change under five minutes? Go for it. If not, revert the offending PR.
-* *One try*: if fixing forward was already attempted and other issues were discovered in the process, revert all involved PRs.
-
-**Rollbacks** (deploying previously-deployed versions) **are not used**, due to risks around database migrations and risks around frontend-backend dependencies. Any exceptions to this rule should **absolutely ensure** that database migrations are not involved in the affected range of commits.
+* [Resolving critical issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/resolving-critical-issues.md)
+* [Postmortems](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Postmortems)
+* [PagerDuty DevOps oncall](https://dsva.pagerduty.com/schedules#PGIEA8Q)
+* [#oncall channel](https://dsva.slack.com/channels/oncall)
