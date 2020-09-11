@@ -1,6 +1,8 @@
 
 ![Diagram](assets/sms-trigger.png)
 
+This diagram is out of date and will be need to be updated to reflect an API call instead of an SMS text
+
 ## Notification of Appointment through VetText
 
 VetText is SMS based but has no API to use currently for triggers. There has been thoughts of providing a general use trigger API, but there is no current roadmap for this and the API is internal to VetText. 
