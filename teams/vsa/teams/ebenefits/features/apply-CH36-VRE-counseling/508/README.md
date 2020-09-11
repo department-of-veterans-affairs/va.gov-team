@@ -13,9 +13,9 @@ User (Jerry): vets.gov.user+271@gmail.com
 
 **Staging url:** https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/introduction
 ### 1. Scan with axe browser plugin  
-- {Results message here}  
+- Heading levels should only increase by one   
 ```HTML
-<h4>refer to HTML</h4>
+<h4 class="va-footer-linkgroup-title">Veteran programs and services</h4>
 ```
 <details>
   <summary>Screenshot   
