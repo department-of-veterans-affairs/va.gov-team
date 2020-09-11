@@ -1,5 +1,4 @@
-# Accessibility: PCPG (CH36) 
-## Personalized Career Planning and Guidance
+# Accessibility: Personalized Career Planning and Guidance (PCPG - CH36) 
 `eBenefits | September - 2020`
 
 ### Resources for internal a11y audit
