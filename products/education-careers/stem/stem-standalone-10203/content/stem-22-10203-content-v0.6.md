@@ -396,10 +396,16 @@ Please enter your contact details below so we can get in touch with you, if nece
 - Email address (*Required) { text field with email validation, prefill if present }
 - Re-enter email address (*Required) { text field with email validation, prefill if present }
 - Home phone number { text field, phone number validation (10 digit string, Required if "Home phone" is selected, prefill if present }
-- Mobile phone number { text field, phone number validation (10 digit string), Required if "Home phone" is selected, prefill if present  }
-- [ ] I would like to receive text message updates from VA regarding my GI Bill benefits { if selected and the mobile phone number text field is empty, ignore value in data file }
+- Mobile phone number { text field, phone number validation (10 digit string), Required if "Mobile phone" is selected, prefill if present  }
+- [ ] I would like to receive text message updates from VA regarding my GI Bill benefits { if selected and the mobile phone number text field is empty, display conditional text message alert below and validate as required field on "Continue" click }
 
 **Note:** Text messages may include updates, status messages, requests to verify school attendance, etc. Message and data rates may apply. 
+
+{ conditional text message alert }
+
+Since you've opted to receive text message updates from VA, please add your mobile phone number to the field above so messages can be delivered to your device.
+
+{ end conditional alert }
         
  [ Back | Continue ] { buttons }   
  [Finish this application later]()
