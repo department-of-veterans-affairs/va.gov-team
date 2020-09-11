@@ -30,9 +30,9 @@ There are a few things I need to mention before we start:
 - **Now we're ready to start.** OK, now could you share your screen with us?
 
 ## Wayfinding
-### User screenshares
+### User screenshares / 3 minutes
 - Before we go to the prototype we're testing, we'll take a quick look at VA.gov
-- I put a link in the chat box; plase click on it.
+- I put a link in the chat box; **plase click on it.**
 - If you wanted to apply for VA career or education benefits, where would you go to find info about that?
 - This is the actual home page; you're free to click on anything--it should work.
 
@@ -42,27 +42,32 @@ There are a few things I need to mention before we start:
 - What content/section does the user expect to have career and education benefits?
 
 ## Usability tasks
-### User goes to prototype
-- I have a link in chat to the prototype we're testing. (Clicks on prototype link to CH36/28-8832 form wizard)
+User goes to prototype
+- I have a link in chat to the prototype we're testing; **please click on it.** (Clicks on prototype link to CH36/28-8832 form wizard)
+- For the purpose of this test, we'll say you're interested in VA career and education benefits.
 - We'll be using made-up scenarios that may not necessarily apply to you. We'll be completeing a form (or forms), and you're free to use whatever names and dates come to mind--fake names and numbers are fine. 
 - Nothing will be submitted because this is a prototype. However, we're recording this, so please don't use real social security numbers--1234567890 should work in those cases.
 
 ### Task 1 / Chapter 36 wizard / 3 minutes
 User determines if 28-8832 is the correct form
-- Consequetor unum et lorem dolor sit amet
-- Lorem ipsum dolor sit amet
-- Adspicing enem unum pluribus consequetor
+- (If user has disability rating) Would you mind telling us what your disability rating is?
+- With that in mind, take a **look at this page and see if you qualify.**
 
 #### Things to look for:
 - Does the user read/understand the intro copy?
 - Are the mechanics of the wizard intuitive? What other (wizard) features are users expecting?
+- Do any users see or use the "skip to form" link?
 - Can the user determine from the wizard if the form is right for them? Will they jump to the 28-1900?
+- Arer users thrown-off by the final "do you want to apply" question?
 
-### Task 2 / 3 minutes
+### Task 1A / Chapter 31 wizard / 3 minutes
+Users with a disability rating may jump to the 21-1900
+- So do you know why you were sent here? So **look at this page and see if you qualify.** 
+
+### Task 2 / Completing the form / 3 minutes
 User completes the 28-8832 or 28-1900 form
-- Consequetor unum et lorem dolor sit amet
-- Lorem ipsum dolor sit amet
-- Adspicing enem unum pluribus consequetor
+- (28-8832) OK, looks like you qualify, so now **take the next step to apply for benefits.**
+- (ALT) Seems you don't qualify according to our questions; but what if you were told to complete the form any way? Please **go ahead and apply for benefits.** 
 
 #### Things to look for:
 - Do users choose to sign in? Or do they prefer to submit the form unauthenticated?
