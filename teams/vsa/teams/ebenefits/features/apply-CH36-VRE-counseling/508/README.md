@@ -1,14 +1,15 @@
-# Accessibility: PCPG or CH36 - Personalized Career Planning and Guidance
+# Accessibility: PCPG (CH36) 
+## Personalized Career Planning and Guidance
 `eBenefits | September - 2020`
 
-## Resources for internal a11y audit
+### Resources for internal a11y audit
 1. [A11y Test Case Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-test-cases-checklist.md)
 2. [508 Compliance Tracker](https://docs.google.com/spreadsheets/d/1xHwdyQAwbsAnD5pTHGaMxpS9XfdbBVcVVTvulgWI7dw/edit#gid=0)
 3. [Accessibility Staging Review Processes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md)
 
-🙈 - Out of scope, note team(s) responsible, if known
+🙈 = Out of scope, note team(s) responsible, if known
 
-## Credentials Used
+### Credentials Used
 User (Jerry): vets.gov.user+271@gmail.com
 
 **Staging url:** https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/introduction
