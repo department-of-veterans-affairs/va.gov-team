@@ -9,30 +9,32 @@
 🙈 - Out of scope, note team(s) responsible, if known
 
 ## Credentials Used
-User (Eddie): vets.gov.user+17@gmail.com
+User (Jerry): vets.gov.user+271@gmail.com
 
-**Staging url:** {url}
-1. Scan with axe browser plugin 
-2. Scan with axe-coconut
+**Staging url:** https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/introduction
+1. Scan with axe browser plugin  
+- {Results message here}  
+```HTML
+<h4>refer to HTML</h4>
+```
 
-The only issue called out by Axe-coconut was the phone numbers listed on the site as the phone numbers in the aria tags for them do not match the text in the links. Jenn S and Trevor P are aware of this issue and are working with Axe to get their chrome extension updated.o HTML
-
+2. Scan with axe-coconut   
+- {Results here, example: "Heading levels should only increase by one, this can be H2 and made to look like H4.  Even thought its in the right order, it needs to be sequential."}  
+```HTML
+<h4>refer to HTML</h4>
+```
 
 3. Lighthouse Scan (Chrome)  
-- Results: 100% on Accessibility
-
+- {Results, example: 100%}
 4. NVDA Scan (Firefox)  
-- Reading sounded fine 
-
+- {Results, example: Links and buttons showed up in the elements list.  Reading sounded fine.} 
 5. VoiceOver (Safari)  
-- Reading sounded fine
-
+- {Results, example: Worked great}
 6. Keyboard Navigation  
-- Was able to navigate the wizard and the full form to completion using only the keyboard 
-
+- {Results, example: Worked great" 
 7. Color contrast & blindness  
-- All colors match our design library
-
+- {Results, example: Links were easily viewable.} 
+- {Results, example: No contrast errors were detected in the page.}
 8. Zoom to 400% at 1280px  
-- Zoomed to 400% and all form content stays perfectly visible and usable
+- {Results, example: Zoom in to 400% was uneventful.  Looked like a huge mobile screen.}
 ----
