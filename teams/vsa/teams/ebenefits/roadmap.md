@@ -26,7 +26,7 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 | Apply for Certificate of Eligibility (1880)         | TBD           | Q4        | Q4        | Q4        | Q1 FY2021 | Requires Discovery, possible new LGY integration required
 | View Specially Adapted Housing Grant Status         | TBD           | Q4        | Q4        | Q4        | Q1 FY2021 | Requires Discovery, possible new LGY integration required
 | Apply for Specially Adapted Housing Grant (4555)    | TBD           | Q4        | Q4        | Q4        | Q1 FY2021 | Requires Discovery, possible new LGY integration required
-| Update Direct Deposit (EDU)                         | vsa-ebenefits | Q4        | --        | --        | --        | BGS Integration
+| Update Direct Deposit (EDU)                         | vsa-ebenefits | Q4        | --        | --        | Q1 FY2021 | BGS Integration
 | View Dependent Benefits Letter                      | vsa-ebenefits | --        | --        | --        | --        | Requires Discovery and Documentation
 | _SEP Features Placeholder_                          | vsa-ebenefits | --        | --        | --        | --        | Requires Discovery and Documentation
 
