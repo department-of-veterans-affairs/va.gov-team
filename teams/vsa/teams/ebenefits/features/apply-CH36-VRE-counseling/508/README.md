@@ -1,5 +1,5 @@
-# Accessibility: {feature-name} - {Subsection, if needed}
-`eBenefits | {Month - Year}`
+# Accessibility: PCPG or CH36 - Personalized Career Planning and Guidance
+`eBenefits | September - 2020`
 
 ## Resources
 1. [A11y Test Case Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-test-cases-checklist.md)
