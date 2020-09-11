@@ -38,7 +38,6 @@
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
-
 | [UI] Design for Questionnaire Worklist - stretch goal  	| -- |  |
 | [UI] Research plan and Conversation guide for MVP prototype testing 	| -- |  |
 | [FE] Visit Intro page displayed | -- | # |
