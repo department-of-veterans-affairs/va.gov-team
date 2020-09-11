@@ -75,7 +75,7 @@ No one used the Contact Us link, and only 3 participants used the sign in link i
 
 
 
-**Implications: **
+**Implications:**
 
 *   Our current design helps people find what they’re looking for and is easy for them to use, specifically our menu button.  
 *   The study didn’t reveal any usability issues encountered by having Contact Us and Sign In available in the header, but it’s worth taking a closer look in a future study dedicated to better understanding the usefulness of these options.
