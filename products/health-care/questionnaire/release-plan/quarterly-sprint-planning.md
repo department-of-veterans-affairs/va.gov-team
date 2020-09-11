@@ -47,7 +47,7 @@
 
 
 
-## Sprint 30 - _Sprint Theme Name_
+## Sprint 30 - Questionnaire Form Entry is Real 
 9/09/2020 - 9/22/2020
 - [Milestone 293](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/293)
 
@@ -69,6 +69,8 @@
 ## Sprint 29 - Land Proof of Concept Designs and Data Services
 8/26/2020 - 9/8/2020
 - [Milestone 292](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/292)
+- Status and Decisions - [Sept 4th](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/status-and-decisions.md#sept-4th-2020) & [August 28th](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/status-and-decisions.md#august-28th-2020) 
+- [Retrospective Sept 11th](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/sprint-29.md) 
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
