@@ -2,6 +2,12 @@
 
 ## Landing page
 
+What's your military status? {dropdown with implications on following fields - no change to this content or functionality }
+
+Which GI Bill benefit do you want to use? ([Learn more]) { dropdown with implications on following fields - no change to this content or functionality }
+
+Cumulative Post-9/11 active-duty service ([Learn more]) { dropdown with implications on following fields - no change to this content or functionality }
+
 { Landing page filters below have copy updates }  
 
 Select an institution { Radio buttons }  
