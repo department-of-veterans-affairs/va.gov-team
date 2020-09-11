@@ -9,7 +9,24 @@ Select an institution { Radio buttons }
  * Employers (On-the-job training [OJT], apprenticeships)  
  * VET TEC training providers only ([Learn more]()) { modal link }  
  
- Will you be taking any classes in person? ([Learn more]()) { Modal link } { Radio buttons }  
+ { Learn more modal content }
+
+**VET TEC**
+
+Veteran Employment Through Technology Education Courses (VET TEC) is a 5-year pilot program that matches Veterans with high-tech training providers. Veterans can start or advance their career in the high-tech industry with a training program that’ll take months—or just weeks—to complete. The pilot program started in 2019 and runs through March 31, 2024.
+
+[Learn more about VET TEC](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/?_ga=2.155385277.741957275.1599568944-266682915.1526313517)
+
+{ end modal }
+
+Will you be taking any classes in person? ([Learn more]()) { Modal link } { Radio buttons }  
+
+{ Learn more modal content}
+
+_HOUSING ALLOWANCE CONTENT REQUIRES APPROVAL FROM EDU / DEPO_
+
+{ end modal }
+
  * Yes { Default selection }
  * No   
  
@@ -37,7 +54,19 @@ Country { dropdown } { ALL is default value }
 
 State { dropdown with full state names; ALL is default value }   
 
-Warnings and school closings ([Learn more]()) { modal link }  
+Warnings and school closings ([Learn more]()) { modal link } 
+
+{ Learn more modal content }
+
+**Cautionary warnings and school closings**
+
+VA applies caution flags when we, or another federal agency, have increased regulatory or legal scrutiny of an educational program. We recommend students consider these warnings before enrolling in flagged programs.
+
+When VA receives notice that a school or campus location will be closing, we add a school closing flag to that profile. Once the closing date passes, we remove the institution from the Comparison Tool during the next system update.
+
+To learn more about caution flags, [visit the About this Tool page](https://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#CF).
+
+{ end modal content }
 
 - [ ] Exclude results with warnings or closings { checkbox }  
 
@@ -61,21 +90,47 @@ Your military details { additional information component }
 
 What's your military status? { dropdown, conditional field may appear below }
 
-Which GI Bill benefit do you want to use? ([Learn more]()) { dropdown, conditional fields may appear below } 
+Which GI Bill benefit do you want to use? ([Learn more]()) { dropdown, conditional fields may appear below }  
+
+{ Learn more modal content }
+
+**Which GI Bill benefit do you want to use?**
+
+You may be eligible for multiple types of education and training programs. Different programs offer different benefits, so it’s important to choose the program that will best meet your needs. Use this tool to compare programs and schools.
+
+Learn more about [GI Bill program benefits and eligibility requirements](https://staging.va.gov/education/eligibility/).
+
+{ end modal content }
 
 Cumulative Post-9/11 active-duty service ([Learn More]()) { dropdown }  
+
+{ Learn more modal content}
+
+**Cumulative Post-9/11 service**
+
+The Post-9/11 GI Bill provides financial support for education and a housing allowance. To qualify for this program, you must have served after September 10, 2001 for at least 90 days or, if you were discharged with a service-connected disability, for at least 30 days. The service period for these benefits doesn't include your entry and initial skill training. You also need to have received an honorable discharge.
+
+{ end learn more modal content }
+
 
 { end additional info component }
 
 Your housing allowance { additional information component }  
 
 Will you be taking any classes in person? ([Learn more]()) { Modal link } { Radio buttons }  
-* Yes
-* No  
+
+{ Learn more modal content}
+
+_HOUSING ALLOWANCE CONTENT REQUIRES APPROVAL FROM EDU / DEPO_
+
+{ end modal }
+
+ * Yes { Default selection }
+ * No   
  
 { end additional info component }
  
-{ IF MOBILE: }
+## { MOBILE SEARCH Results Filters }
 
 ### NN Search results { If 1 result, should say "1 Search result". Heading is mobile H1 size } 
 
@@ -101,6 +156,18 @@ State { dropdown with full state names; ALL is default value }
 
 Warnings and school closings ([Learn more]()) { modal link }  
 
+{ Learn more modal content }
+
+**Cautionary warnings and school closings**
+
+VA applies caution flags when we, or another federal agency, have increased regulatory or legal scrutiny of an educational program. We recommend students consider these warnings before enrolling in flagged programs.
+
+When VA receives notice that a school or campus location will be closing, we add a school closing flag to that profile. Once the closing date passes, we remove the institution from the Comparison Tool during the next system update.
+
+To learn more about caution flags, [visit the About this Tool page](https://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#CF).
+
+{ end modal content }
+
 - [ ] Exclude results with warnings or closings { checkbox }  
 
 Select an institution { radio buttons }  
@@ -125,15 +192,40 @@ What's your military status? { dropdown, conditional field may appear below }
 
 Which GI Bill benefit do you want to use? ([Learn more]()) { dropdown, conditional fields may appear below }  
 
+{ Learn more modal content }
+
+**Which GI Bill benefit do you want to use?**
+
+You may be eligible for multiple types of education and training programs. Different programs offer different benefits, so it’s important to choose the program that will best meet your needs. Use this tool to compare programs and schools.
+
+Learn more about [GI Bill program benefits and eligibility requirements](https://staging.va.gov/education/eligibility/).
+
+{ end modal content }
+
 Cumulative Post-9/11 active-duty service ([Learn More]()) { dropdown }  
+
+{ Learn more modal content}
+
+**Cumulative Post-9/11 service**
+
+The Post-9/11 GI Bill provides financial support for education and a housing allowance. To qualify for this program, you must have served after September 10, 2001 for at least 90 days or, if you were discharged with a service-connected disability, for at least 30 days. The service period for these benefits doesn't include your entry and initial skill training. You also need to have received an honorable discharge.
+
+{ end learn more modal content }
 
 { end additional info component }  
 
 Your housing allowance { additional information component }  
 
-Will you be taking any classes in person? ([Learn more]()) { Modal link } { Radio buttons }   
-* Yes 
-* No  
+Will you be taking any classes in person? ([Learn more]()) { Modal link } { Radio buttons }  
+
+{ Learn more modal content}
+
+_HOUSING ALLOWANCE CONTENT REQUIRES APPROVAL FROM EDU / DEPO_
+
+{ end modal content }
+
+ * Yes { Default selection }
+ * No   
  
 { end additional info component }  
 
@@ -143,7 +235,7 @@ Will you be taking any classes in person? ([Learn more]()) { Modal link } { Radi
 
 { END IF MOBILE }  
 
-## Search results - VET TEC  
+### Search results - VET TEC  
 
 ### NN Search results { If 1 result, should say "1 Search result". Heading is H1 }  
 
@@ -163,15 +255,35 @@ State { dropdown with full state names; ALL is default value }
 
 Warnings and school closings ([Learn more]()} { modal link }  
 
+{ Learn more modal content }
+
+**Cautionary warnings and school closings**
+
+VA applies caution flags when we, or another federal agency, have increased regulatory or legal scrutiny of an educational program. We recommend students consider these warnings before enrolling in flagged programs.
+
+When VA receives notice that a school or campus location will be closing, we add a school closing flag to that profile. Once the closing date passes, we remove the institution from the Comparison Tool during the next system update.
+
+To learn more about caution flags, [visit the About this Tool page](https://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#CF).
+
+{ end modal content }
+
 - [ ] Exclude results with warnings or closings { default selection = none } { checkbox } 
 
 { Preferred provider filter: } 
 
 - [ ] Preferred provider { star icon} ([Learn more]()) { modal link } { default selection = none } { checkbox }  
 
+{ Learn more modal content}
+
+**Preferred training providers**
+
+A provider is "preferred" if the training facility agrees to refund tuition and fees to VA if the student completes the program and doesn't find meaningful employment within 180 days.
+
+{ end modal content }
+
 Filter by provider { default selection = none } { Checkboxes } 
 
-{ IF MOBILE: }
+## { VET TEC SEARCH Results Filters IF MOBILE }
 
 ### NN Search results { If 1 result, should say "1 Search result". Heading is mobile H1 size } 
 
@@ -195,11 +307,31 @@ State { dropdown with full state names; ALL is default value }
 
 Warnings and school closings ([Learn more]()} { modal link }  
 
+{ Learn more modal content }
+
+**Cautionary warnings and school closings**
+
+VA applies caution flags when we, or another federal agency, have increased regulatory or legal scrutiny of an educational program. We recommend students consider these warnings before enrolling in flagged programs.
+
+When VA receives notice that a school or campus location will be closing, we add a school closing flag to that profile. Once the closing date passes, we remove the institution from the Comparison Tool during the next system update.
+
+To learn more about caution flags, [visit the About this Tool page](https://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#CF).
+
+{ end modal content }
+
 - [ ] Exclude results with warnings or closings { default selection = none } { checkbox } 
 
 { Preferred provider filter: }
 
 - [ ] Preferred provider { star icon} ([Learn more]()) { modal link } { default selection = none } { checkbox }  
+
+{ Learn more modal content}
+
+**Preferred training providers**
+
+A provider is "preferred" if the training facility agrees to refund tuition and fees to VA if the student completes the program and doesn't find meaningful employment within 180 days.
+
+{ end modal content }
 
 Filter by provider { default selection = none } { Checkboxes } 
 
