@@ -46,7 +46,7 @@ Please submit all engineering requests **at least 2 weeks in advance.**
 ## About your app/tool/functionality
 
 * **Is this request related to a VA.gov tool? If yes, provide a brief description of the tool or functionality:**  
-   * < description >
+   * < description > 
 * **Provide links to any available collateral: product briefs/outlines, wireframes, prototypes, user research synthesis:** 
    * < links to collateral >
 
@@ -60,7 +60,7 @@ Please submit all engineering requests **at least 2 weeks in advance.**
 - [ ] **New unauthenticated VA.gov page**
    * **Additional info.** Please provide any details not covered above about what app/tool/other need this new page will support. 
       * < URL list >
-   * **Schedule a meeting.** Please schedule a meeting with @Danielle Thierry to kick off this work. We'll work with your team and the VSP IA resource to determine how best to accommodate this new page. [View Danielle's calendar](https://outlook.office365.com/calendar/published/b2a32b65cdbd4a218f7c0461ab4e41c1@va.gov/82b0e0b178934e80b2190b37e41a14668122172627511760876/calendar.html)   
+   * **Schedule a meeting.** Please schedule a meeting with @Danielle Thierry to kick off this work. We'll work with your team and the VSP IA resource to determine how best to accommodate this new page. [View Danielle's calendar](https://outlook.office365.com/calendar/published/b2a32b65cdbd4a218f7c0461ab4e41c1@va.gov/82b0e0b178934e80b2190b37e41a14668122172627511760876/calendar.html)  
 
 - [ ] **Updates to an existing unauthenticated VA.gov page**
    * **What URL(s) do we need to review or update?** 
@@ -85,7 +85,7 @@ Please submit all engineering requests **at least 2 weeks in advance.**
    * **Scope: How many screens or messages?** 
      - < scope >            
 
-### Frontend  
+### Frontend engineering support 
 
 - [ ] **New URL or redirect requests**
    * **Have you vetted this request by the VSP IA team?:** 
@@ -98,9 +98,14 @@ Please submit all engineering requests **at least 2 weeks in advance.**
      - < link to spec >
    * **Flipper unique id:** 
      - < unique id >
+     
+ - [ ] **Support for UAT testing or phased roll out of app/tool landing page**
+    * **Full spec including different states and behaviors:** 
+      - < link to spec >
+    * **Flipper unique id:** 
+      - < unique id >
 
 **Note:** Apps teams engineers are responsible for flipper implementation related to their products. Our engineers can provide consultation as needed. [Read feature toggle documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/)
-
 
 - [ ] **Other**
    * Please describe in detail
