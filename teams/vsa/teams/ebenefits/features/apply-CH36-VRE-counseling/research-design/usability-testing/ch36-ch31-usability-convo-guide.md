@@ -75,12 +75,15 @@ User completes the 28-8832 or 28-1900 form
 - Do users review their submission info? Do they undeerstand the intended function of the accordions?
 - Does the confirmation screen satisfy the user regarding confirmation and next steps?
 
+## Final thoughts
+- If this were an actual application, what would expect to happen next?
+- What are your thoughts about the questions at the start of the form?
+- What could we do to make the form itself easier to use/understand?
+
 ---
 
 ## Wrap-up
-Looks like we covered everything on my list. (ALT) Looks like we're at (time), so we'll need to leave it here.
-- Is there anything you'd like to add--something we didn't cover about the screens we looked at--or VA.gov in general?
-- Would you consider being involved in future follow-up sessions?
+Looks like we covered everything on my list. (ALT) Looks like we're at (time), so we'll need to leave it here. Is there anything else you'd like us to know--something we didn't cover about the screens we looked at, or VA.gov in general?
 
 ## Closing
 Thank you so much for taking the time to talk with us! Your feedback is critical to our team's effort to improve Veterans' online experiences--and VA.gov in particular. Enjoy the rest of your day!
