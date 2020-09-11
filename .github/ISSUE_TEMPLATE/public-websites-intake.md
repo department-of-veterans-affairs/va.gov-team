@@ -21,22 +21,22 @@ assignees: DanielleThierryUSDSVA
 **Note:** Apps teams engineers are responsible for flipper implementation related to their products. Our engineers can provide consultation as needed. [Read feature toggle documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/)
 
 
-## Please follow these steps to submit a request for support from the Public Websites team
+## How to submit your request
 
 - [ ] Complete each area of this intake form that applies to your team's needs. Provide as much detail as you can so we can fully understand your request.
-- [ ] Link to this issue in [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites) in Slack, tag @Danielle Thierry 
+- [ ] Post a link to this issue in [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites) in Slack, tag @Danielle Thierry 
 - [ ] If noted in the guidance below, please schedule any relevant meetings.
 
-__When to submit a request__
+### When to submit a request
 
-### Content requests
+#### Content requests
 
 |Type of need | When to submit your request |
 | :-- | :-- |
 | **New unauthenticated VA.gov page (such as a static landing page to support a new app/tool)** | At project kickoff |
-| **Updates to an existing unauthenticated VA.gov page** | At least 2 weeks in advance <br> **Note:** If you know you'll need significant edits at kickoff, please submit your request at that time so we can better collaborate with your team throughout the process.|
+| **Updates to an existing unauthenticated VA.gov page** | For significant updates (like consolidating pages or reworking page content): At project kickoff <br> For smaller updates (like adding a section of new info): At least 2 weeks in advance |
 | **Writing support for app/tool** | At project kickoff | 
-| **Editing support for app/tool** | At least 2 weeks in advance for multiple screens. <br> We can provide faster support for small editing requests (such as an error message). | 
+| **Editing support for app/tool** | For multiple screens: At least 2 weeks in advance for multiple screens. <br> For smaller needs (like an error message): At least 2 days in advance | 
 
 ### Engineering requests
 
@@ -102,7 +102,8 @@ Please submit all engineering requests **at least 2 weeks in advance.**
       
 
 ### Desired/target implementation date
-*What's the ETA for the app/tool launch or the date when you need this request completed? Our team's capacity will determine which sprint the work falls into.*
+
+What's the ETA for the app/tool launch or the date when you need this request completed? Our team's capacity will determine which sprint the work falls into.
 
 * <Desired/target implementation date>
 
