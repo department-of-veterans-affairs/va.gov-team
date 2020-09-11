@@ -66,7 +66,7 @@ When in doubt on whether an issue is _critical_ enough for out-of-band deploymen
 1. Once approved, contact the [VSP DevOps oncall](https://dsva.pagerduty.com/schedules#PGIEA8Q) through the [#oncall channel](https://dsva.slack.com/archives/C30LCU8S3) to coordinate the release.
 1. Within two business days of this incident, send a PR with a [postmortem](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Postmortems), including any relevant stakeholders, VSP DEPO leadership, and any VSP team members involved in resolving the incident as reviewers.
 
-## Resolving production bugs
+## Resolving post deploy issues 
 
 When a production issue is discovered stemming from a code change, the following decision tree should be used in resolving it:
 
