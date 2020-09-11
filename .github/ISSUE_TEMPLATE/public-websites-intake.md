@@ -27,7 +27,7 @@ assignees: DanielleThierryUSDSVA
 - [ ] Post a link to this issue in [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites) in Slack, tag @Danielle Thierry 
 - [ ] If noted in the guidance below, please schedule any relevant meetings.
 
-### When to submit a request
+### When to submit your request
 
 #### Content requests
 
