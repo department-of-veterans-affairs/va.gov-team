@@ -1,7 +1,7 @@
 # Accessibility: PCPG or CH36 - Personalized Career Planning and Guidance
 `eBenefits | September - 2020`
 
-## Resources
+## Resources for internal a11y audit
 1. [A11y Test Case Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-test-cases-checklist.md)
 2. [508 Compliance Tracker](https://docs.google.com/spreadsheets/d/1xHwdyQAwbsAnD5pTHGaMxpS9XfdbBVcVVTvulgWI7dw/edit#gid=0)
 3. [Accessibility Staging Review Processes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md)
@@ -12,7 +12,7 @@
 User (Jerry): vets.gov.user+271@gmail.com
 
 **Staging url:** https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/introduction
-1. Scan with axe browser plugin  
+### 1. Scan with axe browser plugin  
 - {Results message here}  
 ```HTML
 <h4>refer to HTML</h4>
@@ -24,23 +24,24 @@ User (Jerry): vets.gov.user+271@gmail.com
 ![CH36](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/images/CH36-axe.JPG)
 
 </details>
-2. Scan with axe-coconut   
+
+### 2. Scan with axe-coconut   
 - {Results here, example: "Heading levels should only increase by one, this can be H2 and made to look like H4.  Even thought its in the right order, it needs to be sequential."}  
 ```HTML
 <h4>refer to HTML</h4>
 ```
 
-3. Lighthouse Scan (Chrome)  
+### 3. Lighthouse Scan (Chrome)  
 - {Results, example: 100%}
-4. NVDA Scan (Firefox)  
+### 4. NVDA Scan (Firefox)  
 - {Results, example: Links and buttons showed up in the elements list.  Reading sounded fine.} 
-5. VoiceOver (Safari)  
+### 5. VoiceOver (Safari)  
 - {Results, example: Worked great}
-6. Keyboard Navigation  
+### 6. Keyboard Navigation  
 - {Results, example: Worked great" 
-7. Color contrast & blindness  
+### 7. Color contrast & blindness  
 - {Results, example: Links were easily viewable.} 
 - {Results, example: No contrast errors were detected in the page.}
-8. Zoom to 400% at 1280px  
+### 8. Zoom to 400% at 1280px  
 - {Results, example: Zoom in to 400% was uneventful.  Looked like a huge mobile screen.}
 ----
