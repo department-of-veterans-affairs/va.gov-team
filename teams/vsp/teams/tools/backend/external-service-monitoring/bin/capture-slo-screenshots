@@ -34,8 +34,7 @@ class SLOReporter
   end
 
   def query_params
-    base = "?orgId=1&var-backend=#{backend}"
-    base
+    "?orgId=1&var-backend=#{backend}"
   end
 
   def capture_screenshot
