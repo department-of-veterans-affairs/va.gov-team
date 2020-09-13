@@ -185,6 +185,23 @@ n/a
 
 <details>
 
+#### Content 
+* The text SHOULD be written in the simplest and clearest language possible, appropriate to the content. COG<sup>6</sup>
+* Uncommon words and phrases – including technical terms, idioms, jargon, foreign phrases, etc. – SHOULD be defined or explained in the text. 3.1.3<sup>*</sup>
+* Abbreviations and acronyms SHOULD be expanded or explained in the text. 3.1.4<sup>*</sup>
+* The page SHOULD provide supplemental versions of the content (e.g. illustrations, videos, audio, simplified text version, etc.) to enhance comprehension, if the reading level is more advanced than a lower secondary education level. 3.1.5<sup>*</sup>
+
+#### User Experience
+* The information architecture of the site and design SHOULD be intuitive, allowing the user to easily find, navigate, read, and interact with the content. COG
+* The design SHOULD eliminate or minimize visual distractions. COG
+* The site SHOULD minimize the number of steps required for users to complete actions. COG
+* The site SHOULD provide ways for users to find or request help (e.g. context-sensitive help, tutorials, online chat with a customer service representative, discussion forum, a form to submit a question, contact information to call or write for assistance, etc.). 3.3.5<sup>*</sup>
+* Functionality SHOULD be easily discoverable (e.g. a menu that can be revealed only by a finger gesture swiping across the screen from the left to the right would not be easily discoverable). COG
+* The design SHOULD follow common conventions for design and user interaction, unless there is a compelling (e.g. research-validated) reason to break from convention. COG
+* Users SHOULD NOT be required to react quickly to information or user interface features. 2.1.1
+* Users SHOULD NOT be interrupted by scripted events, or SHOULD be able to suppress or postpone interruptions, except in the case of emergencies. (2.2.4*)
+* Users SHOULD NOT be required to perform mathematical calculations, unless the fundamental purpose of the page requires them to do so. COG
+* Users SHOULD NOT be required to remember data from one page (or view, or step of a process) to another, unless the fundamental purpose of the content requires them to do so. COG
 </details>
 
 <hr/>
