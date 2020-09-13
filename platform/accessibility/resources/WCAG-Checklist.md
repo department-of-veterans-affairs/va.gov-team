@@ -127,7 +127,57 @@ n/a
 ### Part 3: Interactivity & Dynamic Content
 
 <details>
+  
+#### Keyboard Input
+* All features MUST be fully functional when using only the keyboard (drop-down menus, etc.) 2.1.1
+* Keyboard tab order MUST be logical, and SHOULD match the order of the visual design (Note: Achieve this via proper order in the DOM. Avoid tabindex of positive values). 2.4.3
+* Keyboard focus MUST follow the action (e.g. the focus goes to a dialog when the dialog is activated, and when the dialog is dismissed, the focus returns to the button that activated the dialog). 2.4.3
+* Visual focus indicator MUST always be visible when tabbing through the page. 2.4.7
+* The page MUST NOT have a keyboard trap. Users MUST be able to navigate to and past all links, buttons, inputs, and controls, both forward (using the tab key) and backward (using shift + tab). 2.1.2
+* Keyboard shortcuts MUST NOT interfere with shortcuts in the browser, screen reader, or OS. 2.1.1
+* Touch Input All features SHOULD be fully functional when using only touch. M
+* All features SHOULD be fully functional by touch with the screen reader turned on. Click actions are required, because JavaScript swipe events, and similar, are disabled when the screen reader is on. M
+* Whenever possible, the clickable target SHOULD be at least 9mm high and 9mm wide, so that users can activate them with their finger, without having to zoom in. M
 
+#### Form Validation and Feedback
+(See also Form Markup in Part 1)
+
+* Screen reader users MUST receive either a confirmation message or error message immediately after the form is submitted (silence is bad) through methods such as [3.3.1, 3.3.3]():
+  • Focus is sent to the confirmation/error message OR
+  • Focus is sent to the first field with an error (and the error is associated with the field) OR
+  • The page <title> contains the confirmation/error message (if the user is sent to a new page or if the page reloads when the form is submitted).
+
+* Error messages about an input (as opposed to the form as a whole) MUST be associated with that input (e.g. via <label> or aria-describedby). 3.3.3
+* Error messages MUST describe the error in enough detail to allow users to fix the error. 3.3.3
+* Forms with legal, financial, or data functions MUST protect users from errors by one of the following: 1) allow actions to be reversible, 2) automatically check and correct errors, or 3) allow users to review/confirm/correct submissions. 3.3.4
+
+#### Custom Widgets
+* Labels MUST be specified on all controls and buttons (e.g. via <label>, aria-label, or aria-labelledby) 3.3.2
+* Roles MUST be specified, where appropriate via HTML or ARIA (e.g. <button> or role="button", role="slider", role="dialog", role="tablist", etc.). See https://www.w3.org/TR/wai-aria/roles 4.1.2
+* Property states and values (and changes to states and values) MUST be specified and updated on controls where appropriate (e.g. aria-expanded="false", aria-selected="true", aria-valuenow="100"). 4.1.2
+* Relationships MUST be specified, where appropriate (aria-controls, aria-owns, aria-activedescendant). 4.1.2
+* Keyboard behaviors SHOULD follow ARIA conventions specific to the type of widget. ARIA5
+
+#### Manage Focus
+* Scripts MUST manage keyboard focus when necessary (but only when necessary) (e.g. clicking on a button sends the focus to a dialog; closing the dialog sends the focus back to the original button). 2.4.3
+* Timing Users MUST be allowed to turn off, adjust, or extend time limits (e.g. timed scripts, session timeout, page reload) unless the fundamental nature of the activity requires otherwise (e.g. real-time events). 2.2.1
+
+#### Motion and Animation
+* Users MUST be able to pause, stop, hide, or control the timing of content that blinks, moves, autoscrolls, or auto-updates. 2.2.2
+
+#### Dynamic Updates
+(including in a singlepage application framework)
+* Screen reader users MUST be made aware of important updates or changes to the content (e.g. content loaded by AJAX or changed by JavaScript, etc.) by methods such as the following [1.3.2]():
+  • aria-live announcement (appropriate when the keyboard focus should not move) OR
+  • move the keyboard focus to the new content (only applicable if the user performs an action to request the content change, e.g. by clicking a button or link).
+* Updates/additions SHOULD be loaded near (preferably below) the user’s current position. (1.3.2)
+* “On focus” MUST NOT trigger a change of context (e.g. user agent, focus, viewport, or content). 3.2.1
+* “On input” MUST NOT trigger a change of context unless the user is advised in advance. 3.2.2
+
+#### Objects and Plugins
+* All `<object>` elements MUST have alternative text. 1.1.1
+* An object or plugin SHOULD conform to the best practices of the accessibility API of that object or plugin, if available (e.g. the PDF format has an accessibility API). n/a
+* If an object or plugin is not compatible with assistive technologies, an alternative representation MUST be available in an accessible format. 1.1.1
 </details>
 
 
