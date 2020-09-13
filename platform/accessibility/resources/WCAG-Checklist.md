@@ -1,4 +1,7 @@
-# WCAG Checklist _(Work-in-Progress)_
+```diff
+Work-in-Progress
+```
+# WCAG Checklist 
 
 
 ## Section 508 = WCAG 2.0
