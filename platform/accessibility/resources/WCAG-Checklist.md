@@ -2,10 +2,12 @@
 
 
 ## Section 508 = WCAG 2.0
-Section 508 Compliance references WCAG 2.0 Level A and Level AA Success Criteria and Conformance Requirements. WCAG 2.0 is the standard teams have used since January of 2017. In 2019, WCAG 2.1 was released and is expected to become the standard for compliance. This checklist below offers organized guidance to meet Section 508 Compliance. Another reference that may be useful is [How to Meet WCAG, Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/).
+Section 508 Compliance references WCAG 2.0 Level A and Level AA Success Criteria and Conformance Requirements. **WCAG 2.0 is the standard teams have used since January of 2017.** This checklist below offers organized guidance to meet Section 508 Compliance. Another reference that may be useful is [How to Meet WCAG, Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/).
 
 Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practices (marked with “*SHOULD*”)
 *(Based on the [Deque WCAG 2.0 Checklist](https://www.jenstrickland.design/talks/design4performance-a11y/resources/WCAG_Checklist.pdf))*
+
+WCAG 2.0 success criteria focuses on four areas: 
 
 ### Part 1: Semantic Structure
 
@@ -224,5 +226,14 @@ n/a
 
 ## WCAG 2.1 
 
+In 2018, WCAG 2.1 was released and is the current standard for accessibility compliance. It includes WCAG 2.0 and adds additional success criteria for:
+
+### Cognition
+
+### Mobile Design
+
+
 ## WCAG 2.2
+
+
 
