@@ -66,300 +66,71 @@ The page MUST have a meaningful title (e.g. About us), even when included via if
 
 ## Part 2: Sight & Sound
 
-<table>
-  <!-- <caption></caption> -->
-  <thead>
-    <tr>
-      <th valign="top" align="left">Topic</th>
-      <th valign="top" align="left">Accessibility Requirements </th>
-      <th valign="top" align="left">WCAG</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th rowspan="2" valign="top" align="left">Color and Other Sensory Characteristics</th>
-      <td valign="top" align="left">Sensory characteristics (e.g. color, size, shape, visual placement, visual orientation, sound, etc.) MUST NOT be the only way to convey information.</td>
-      <td valign="top" align="left">1.1.1, 1.3.3</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">Color MUST NOT be used as the only way to distinguish links from regular text.</td>
-      <td valign="top" align="left">1.4.1</td>
-    </tr>
-    <tr>
-      <th valign="top" align="left">Contrast</th>
-      <td valign="top" align="left">Contrast of text against the background MUST meet the minimum threshold (use automated tools to determine if the contrast passes or fails).</td>
-      <td valign="top" align="left">1.4.3</td>
-    </tr>
-    <tr>
-      <th rowspan="6" valign="top" align="left"></th>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    <tr>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    </tr>
-    <tr>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    <tr>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    <tr>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    <tr>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr><!-- end of images rows -->
-    <tr>
-      <th valign="top" align="left"></th>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    <tr>
-      <th valign="top" align="left"></th>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    <tr>
-      <th valign="top" align="left"></th>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    <tr>
-      <th valign="top" align="left"></th>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    <tr>
-      <th valign="top" align="left"></th>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    <tr>
-      <th valign="top" align="left"></th>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    <tr>
-      <th valign="top" align="left"></th>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-</tbody>
-</table>
+<details>
 
+### Color and Other Sensory Characteristics	
+* Sensory characteristics (e.g. color, size, shape, visual placement, visual orientation, sound, etc.) MUST NOT be the only way to convey information.	1.1.1, 1.3.3
+* Color MUST NOT be used as the only way to distinguish links from regular text.	1.4.1
 
-Images Informative images MUST have brief, meaningful alt text describing the purpose of the image.1 1.1.1
-Actionable images (images used as links, buttons or controls) MUST have brief, meaningful alt
-text describing the destination or result of the action.
-1.1.1
-CAPTCHAs MUST have alternatives that do not rely on sensory experiences (i.e. vision, sound). 1.1.1
-Complex images (images requiring more than about 200 characters to describe them) MUST be
-given extended text descriptions. Provide the text below (or above) the image, or on a separate
-page (via a link), or in a dialog (via a button), or similar technique.
-1.1.1
-Non-informative decorative or redundant Images MUST be coded to be ignored by screen
-readers by using alt="" on the <img> or Putting the image in the background with CSS.
-1.1.1
-Images MUST NOT be used to convey text, except in logos and other essential situations (use real
-text instead, so users can magnify it, change contrast, change colors, etc.).
-1.4.5
-Videos and
-Audio
-Videos (prerecorded or live) MUST have synchronized captions for the deaf. 1.2.2,
-1.2.4
-Videos MUST have narrated audio descriptions for the blind, if the audio track (dialog, narration,
-sounds) of the video does not convey all important visual information.
-2
-1.2.3,
-1.2.5
-Videos and audio (prerecorded) MUST have a text transcript for the deaf and deafblind, on the
-page, available via a link, available via a dialog (activated by a button), or similar technique.
-1.2.1
-Videos and audio SHOULD not auto-play to avoid interfering with screen reader speech. (1.4.2)
-Volume level MUST be adjustable via a control in the media player. 1.4.2
-Zoom and
-Reflow
-Users MUST be able to use pinch-to-zoom on touch devices. 1.4.4
-A responsive design (with text reflow relative to the viewport width) SHOULD be available on
-desktop as well as mobile designs for the benefit of people with low vision who zoom in.
-(1.4.4)
-Visual
-Proximity
-Related information (labels, descriptions, feedback, controls, etc.) SHOULD be close in visual
-proximity so that screen magnifier users can see the related parts on the screen at the same time.
+### Contrast	
+* Contrast of text against the background MUST meet the minimum threshold (use automated tools to determine if the contrast passes or fails).	1.4.3
+
+### Images 
+* Informative images MUST have brief, meaningful alt text describing the purpose of the image.<sup>1</sup> 1.1.1
+* Actionable images (images used as links, buttons or controls) MUST have brief, meaningful alt text describing the destination or result of the action. 1.1.1
+* CAPTCHAs MUST have alternatives that do not rely on sensory experiences (i.e. vision, sound). 1.1.1
+* Complex images (images requiring more than about 200 characters to describe them) MUST be given extended text descriptions. Provide the text below (or above) the image, or on a separate page (via a link), or in a dialog (via a button), or similar technique. 1.1.1
+* Non-informative decorative or redundant Images MUST be coded to be ignored by screen readers by using alt="" on the <img> or Putting the image in the background with CSS. 1.1.1
+* Images MUST NOT be used to convey text, except in logos and other essential situations (use real text instead, so users can magnify it, change contrast, change colors, etc.). 1.4.5
+
+### Videos and Audio
+* Videos (prerecorded or live) MUST have synchronized captions for the deaf. 1.2.2, 1.2.4
+* Videos MUST have narrated audio descriptions for the blind, if the audio track (dialog, narration, sounds) of the video does not convey all important visual information.<sup>2</sup> 1.2.3, 1.2.5
+* Videos and audio (prerecorded) MUST have a text transcript for the deaf and deafblind, on the page, available via a link, available via a dialog (activated by a button), or similar technique. 1.2.1
+* Videos and audio SHOULD not auto-play to avoid interfering with screen reader speech. (1.4.2)
+* Volume level MUST be adjustable via a control in the media player. 1.4.2
+
+### Zoom and Reflow
+* Users MUST be able to use pinch-to-zoom on touch devices. 1.4.4
+* A responsive design (with text reflow relative to the viewport width) SHOULD be available on desktop as well as mobile designs for the benefit of people with low vision who zoom in. 1.4.4
+
+### Visual Proximity
+*  Related information (labels, descriptions, feedback, controls, etc.) SHOULD be close in visual proximity so that screen magnifier users can see the related parts on the screen at the same time.
+
 LV3
-Flashing
-Effects
-There MUST NOT be any flashing or blinking effects faster than 3 times in any one-second period,
-to avoid causing a seizure in people susceptible to them.
-2.3.1
-Typographic
-Design
-Fonts SHOULD be easy to read (avoid cursive fonts, overly decorative fonts, etc.). n/a
-Text SHOULD NOT be full-justified, to improve readability. (1.4.8)
-Within paragraphs, line spacing SHOULD be at least 1.5 whenever possible. (1.4.8*)
-Between paragraphs, spacing SHOULD be at least 1.5 times larger than the line spacing. (1.4.8*)
-The design SHOULD use standard font face wherever possible (eliminate or minimize phrases
-written in all capitals, long sections of italic or bold text, etc.).
+
+### Flashing Effects
+* There MUST NOT be any flashing or blinking effects faster than 3 times in any one-second period, to avoid causing a seizure in people susceptible to them. 2.3.1
+
+### Typographic Design
+* Fonts SHOULD be easy to read (avoid cursive fonts, overly decorative fonts, etc.). n/a
+* Text SHOULD NOT be full-justified, to improve readability. 1.4.8
+* Within paragraphs, line spacing SHOULD be at least 1.5 whenever possible. 1.4.8*
+* Between paragraphs, spacing SHOULD be at least 1.5 times larger than the line spacing. 1.4.8*
+* The design SHOULD use standard font face wherever possible (eliminate or minimize phrases written in all capitals, long sections of italic or bold text, etc.).
 n/a
-If emphasis is critical to understand the text, it MUST be written in words (e.g. “important” or
-“warning”) in the text or in alternative text. Text variants (bold, italic, all capitals) aren’t enough.
-(1.1.1)
-Screen
-Orientation
-Designs SHOULD support both vertical (portrait) and horizontal (landscape) orientation, so that
-the design displays correctly for users who cannot switch orientation (e.g. if they have the device
-attached to a wheelchair).
-n/a
-Hidden
-Content
-Content that is hidden from sighted users SHOULD also be hidden from screen reader users (e.g.
-using CSS display:none), except where the hidden content is intended only for screen reader users.
-(1.3.2)
-CSS Generated
-Content (e.g.
-font icons, etc.)
-Designs SHOULD NOT rely on CSS-generated content to convey information, due to incomplete
-support across screen reader/browser combinations (especially IE). Supplement with CSS clipped
-content in the HTML4
-, aria-label/aria-labelledby (on focusable elements), or similar technique.
-1.1.1
+* If emphasis is critical to understand the text, it MUST be written in words (e.g. “important” or “warning”) in the text or in alternative text. Text variants (bold, italic, all capitals) aren’t enough. 1.1.1
 
+### Screen Orientation
+* Designs SHOULD support both vertical (portrait) and horizontal (landscape) orientation, so that the design displays correctly for users who cannot switch orientation (e.g. if they have the device attached to a wheelchair). n/a
 
+### Hidden Content
+* Content that is hidden from sighted users SHOULD also be hidden from screen reader users (e.g. using CSS display:none), except where the hidden content is intended only for screen reader users. 1.3.2
 
+### CSS Generated Content (e.g. font icons, etc.)
+* Designs SHOULD NOT rely on CSS-generated content to convey information, due to incomplete support across screen reader/browser combinations (especially IE). Supplement with CSS clipped content in the HTML4, aria-label/aria-labelledby (on focusable elements), or similar technique. 1.1.1
 
-
-
+</details>
 
 
 
 ## Part 3: Interactivity & Dynamic Content
 
-<table>
-  <!-- <caption></caption> -->
-  <thead>
-    <tr>
-      <th valign="top" align="left">Topic</th>
-      <th valign="top" align="left">Accessibility Requirements </th>
-      <th valign="top" align="left">WCAG</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th rowspan="2" valign="top" align="left">Heading</th>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    <tr>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    <tr>
-      <th valign="top" align="left"></th>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    <tr>
-      <th valign="top" align="left"></th>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    <tr>
-      <th valign="top" align="left"></th>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    </tr>
-    <tr>
-      <th valign="top" align="left"></th>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    <tr>
-      <th valign="top" align="left"></th>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    <tr>
-      <th valign="top" align="left"></th>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    <tr>
-      <th valign="top" align="left"></th>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-  </tbody>
-</table>
+
 
 
 ## Part 4: Understandability
 
-<table>
-  <!-- <caption></caption> -->
-  <thead>
-    <tr>
-      <th valign="top" align="left">Topic</th>
-      <th valign="top" align="left">Accessibility Requirements </th>
-      <th valign="top" align="left">WCAG</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th rowspan="2" valign="top" align="left">Heading</th>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    <tr>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    <tr>
-      <th valign="top" align="left"></th>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    <tr>
-      <th valign="top" align="left"></th>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    <tr>
-      <th valign="top" align="left"></th>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    </tr>
-    <tr>
-      <th valign="top" align="left"></th>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    <tr>
-      <th valign="top" align="left"></th>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    <tr>
-      <th valign="top" align="left"></th>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-    <tr>
-      <th valign="top" align="left"></th>
-      <td valign="top" align="left"></td>
-      <td valign="top" align="left"></td>
-    </tr>
-  </tbody>
-</table>
 
 
 <hr/>
