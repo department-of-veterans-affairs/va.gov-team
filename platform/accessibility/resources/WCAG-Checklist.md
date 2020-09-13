@@ -10,7 +10,7 @@ Section 508 Compliance references WCAG 2.0 Level A and Level AA Success Criteria
 Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practices (marked with “*SHOULD*”)
 *(Based on the [Deque WCAG 2.0 Checklist](https://www.jenstrickland.design/talks/design4performance-a11y/resources/WCAG_Checklist.pdf))*
 
-WCAG 2.0 success criteria focuses on four areas: 
+WCAG 2.0 success criteria can be organized into these four areas: 
 
 ### Part 1: Semantic Structure
 
