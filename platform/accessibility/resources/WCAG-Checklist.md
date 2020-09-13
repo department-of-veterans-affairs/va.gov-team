@@ -143,9 +143,9 @@ n/a
 (See also Form Markup in Part 1)
 
 * Screen reader users MUST receive either a confirmation message or error message immediately after the form is submitted (silence is bad) through methods such as [3.3.1, 3.3.3]():
-  • Focus is sent to the confirmation/error message OR
-  • Focus is sent to the first field with an error (and the error is associated with the field) OR
-  • The page <title> contains the confirmation/error message (if the user is sent to a new page or if the page reloads when the form is submitted).
+    - Focus is sent to the confirmation/error message OR
+    - Focus is sent to the first field with an error (and the error is associated with the field) OR
+    - The page <title> contains the confirmation/error message (if the user is sent to a new page or if the page reloads when the form is submitted).
 
 * Error messages about an input (as opposed to the form as a whole) MUST be associated with that input (e.g. via <label> or aria-describedby). 3.3.3
 * Error messages MUST describe the error in enough detail to allow users to fix the error. 3.3.3
@@ -168,8 +168,8 @@ n/a
 #### Dynamic Updates
 (including in a singlepage application framework)
 * Screen reader users MUST be made aware of important updates or changes to the content (e.g. content loaded by AJAX or changed by JavaScript, etc.) by methods such as the following [1.3.2]():
-  • aria-live announcement (appropriate when the keyboard focus should not move) OR
-  • move the keyboard focus to the new content (only applicable if the user performs an action to request the content change, e.g. by clicking a button or link).
+    - aria-live announcement (appropriate when the keyboard focus should not move) OR
+    - move the keyboard focus to the new content (only applicable if the user performs an action to request the content change, e.g. by clicking a button or link).
 * Updates/additions SHOULD be loaded near (preferably below) the user’s current position. (1.3.2)
 * “On focus” MUST NOT trigger a change of context (e.g. user agent, focus, viewport, or content). 3.2.1
 * “On input” MUST NOT trigger a change of context unless the user is advised in advance. 3.2.2
