@@ -139,7 +139,7 @@ n/a
 
 <hr/>
 
-### Notes
+### WCAG 2.0 Notes
 <details>
   * Items marked with asterisk are required at the WCAG AAA level (not at the A or AA level, but are still best practices at all levels).
 
