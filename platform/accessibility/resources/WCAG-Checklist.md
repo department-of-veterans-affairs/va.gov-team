@@ -42,11 +42,11 @@ The page MUST have a meaningful title (e.g. About us), even when included via if
   * Layout tables (no header/data associations) MUST NOT contain <th> or other header markup.	1.3.1
 
 #### Lists	
-  * Lists MUST be marked up appropriately according to the semantics of the list (e.g. <ul>, <ol>, <dl>).	1.3.1
+  * Lists MUST be marked up appropriately according to the semantics of the list (e.g. `<ul>, <ol>, <dl>`).	1.3.1
 
 #### iframes	
-  * Frame title attribute MUST be specified (<iframe title="Video about...").	4.1.2
-  * The page within the iframe MUST have an accurate, meaningful <title>.	2.4.2
+  * Frame title attribute MUST be specified (`<iframe title="Video about..."`).	4.1.2
+  * The page within the iframe MUST have an accurate, meaningful `<title>`.	2.4.2
   * iframes with no readable content (e.g. only JavaScript) SHOULD be set to aria-hidden="true".	4.1.2
 
 #### Form Markup
