@@ -33,7 +33,7 @@ The following recommendations have been put together to help teams identify and 
 
 ## Inclusive Best Practices for Development
 
-Within the code itself there is accessibility work to be done, as the code must be accessible for others. There are devs who have disabilities, as well as those who are tired, depressed, stressed, cognitively fatigued, overwhelmed, tec. Proper commenting and thoughtful architecture can meet people where they are. All the documentation must be accessible — 508 compliant at a minimum. 
+Within the code itself there is accessibility work to be done, as the code must be accessible for others. There are devs who have disabilities, as well as those with situational or temporary considerations such as being new, non-native speakers, tired, depressed, stressed, cognitively fatigued, overwhelmed, etc. Proper commenting and thoughtful architecture can meet people where they are. All the documentation must be accessible — 508 compliant at a minimum. 
 
 - Incorporate comments throughout the codebase to clarify the reasoning for each part and component of the work, whether it is a website, app, or API
 - When using test data, make it incredibly obvious it’s not real data; Use obviously silly strings and name variables to make it easy to scan a test and understand what’s going on
