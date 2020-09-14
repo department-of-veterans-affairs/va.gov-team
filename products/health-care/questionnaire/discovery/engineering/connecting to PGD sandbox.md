@@ -32,7 +32,8 @@ ISS = 'gov.va.clipboard'
 
 ---
 
-In modules/health_quest/app/services/health_quest/user_service.rb
+In modules/health_quest/app/services/health_quest/user_service.rb applied these temporary changes:
+
 I commented out these lines because from the rails console the cache fails
 
 ```
