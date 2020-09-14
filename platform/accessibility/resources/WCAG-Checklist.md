@@ -235,7 +235,7 @@ n/a
 
 ## WCAG 2.1 
 
-In 2018, WCAG 2.1 was released and **is the current standard for accessibility compliance,** although the Access Board (who oversees Section 508) did not update Section 508. It includes WCAG 2.0 and adds additional success criteria for:
+In 2018, WCAG 2.1 was released and **is the current standard for accessibility compliance,** includes WCAG 2.0 and adds additional success criteria for:
 
 ### Cognition
 
