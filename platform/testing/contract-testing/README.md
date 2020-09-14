@@ -1,0 +1,33 @@
+# Contract Testing
+Contract testing on VA.gov is accomplished using Pact. 
+
+Pact is a tool that enables consumer driven contract testing (CDCT) by defining a contract between service consumers and providers (e.g. `vets-website` and `vets-api`). As explained by Pact, “Contract testing is a technique for testing an integration point by checking each application in isolation to ensure the messages it sends or receives conform to a shared understanding that is documented in a 'contract'.“
+
+In this way, Pact enables VFS teams to test integration points with `vets-api`. 
+
+As of 9/14/20, VSP is in the process of rolling our Pact to VFS teams. If you are part of a VFS team and are interested in using Pact, please reach out to the contacts listed below. 
+
+~~----~~
+
+## Documentation
+* [Using Pact for contract testing on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/testing/integration-testing/how-to-use-pact-for-integration-testing.md)
+* [VSP’s contract testing policy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/testing/integration-testing/how-to-use-pact-for-integration-testing.md#requirements)
+* [Pact product documentation](https://docs.pact.io/)
+* [Pact broker dashboard](https://vagov-pact-broker.herokuapp.com/)
+
+~~----~~
+
+## Points of contact
+For support with contract testing or Pact in particular, please reach out to Lindsey H (VSP BE Tools team) & Eugene D (VSP FE Tools team) in the #vfs-platform-support Slack channel. Please avoiding direct messaging for support. 
+
+If those contacts are unavailable, please tag the frontend and/or backend support developer in the same channel (#vfs-platform-support#).You can find out who’s on support by viewing the channel description.
+
+(Points of contact last updated 9/14/20)
+
+~~----~~
+
+## Examples
+
+_Link to any examples of this product or service in action._
+
+~~----~~
