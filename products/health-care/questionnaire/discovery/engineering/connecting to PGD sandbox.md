@@ -21,3 +21,60 @@ hqva_mobile:
   timeout: 15
 ```
 
+---
+
+in modules/health_quest/app/services/health_quest/jwt_wrapper.rb set ISS 
+ISS = 'gov.va.clipboard'
+
+---
+
+
+
+---
+
+In modules/health_quest/app/services/health_quest/user_service.rb
+I commented out these lines because from the rails console the cache fails
+
+```
+#cached = cached_by_account_uuid(user.account_uuid)
+#return cached.token if cached
+```
+
+Then set a breakpoint after perform() in the
+new_session_token() using binding.pry
+
+---
+
+using the rails console after running these commands, the breakpoint previously set
+will be reached. At which point response.body will have the token returned from the sandbox and response.status will be 200
+
+```
+usr = FactoryBot.create :user
+svc = HealthQuest::SessionService.new(usr)
+svc.headers
+```
+
+---
+
+Stephen Barrs, verified from the sandbox side that the session was successful:
+
+```
+{
+  "authenticated": true,
+  "authenticationAuthority": "gov.va.clipboard",
+  "idType": "ICN",
+  "iss": "gov.va.vamf.userservice.v1",
+  "version": 2.1,
+  "staffDisclaimerAccepted": true,
+  "nbf": 1600108753,
+  "sst": 1600108933,
+  "patient": {},
+  "vamf.auth.roles": [
+    "veteran"
+  ],
+  "rightOfAccessAccepted": true,
+  "exp": 1600109833,
+  "jti": "ac03e97d-172d-424f-aa94-7c0b1df0867e",
+  "loa": 0
+}
+```
