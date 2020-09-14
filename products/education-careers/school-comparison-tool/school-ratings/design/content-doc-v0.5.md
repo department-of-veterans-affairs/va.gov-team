@@ -15,7 +15,7 @@
 **Tuition:** { Tuition amount }  
 **Housing:** { Housing amount }  
 **Books:** { Book amount }  
-[View details]() { links to profile page } { "View details" links are about 44px in height to provide enough clearance for users to click or mobile users to tap } 
+[View details]() { links to profile page } { "View details" links are about 44px in height to provide enough clearance for users to click } 
 
 { Right column: }  
 **GI Bill students:** NN  
@@ -36,7 +36,7 @@
 **GI Bill students:** NN  
 { If no ratings to display: } **School rating:** Not yet rated  
 { If NN+ ratings in the data: } **Rated by:** NN Veterans { star rating visual with numerical display }  
-[View details]() { links to profile page }  { "View details" links are about 44px in height to provide enough clearance for users to click or mobile users to tap }    
+[View details]() { links to profile page }  { "View details" links are about 44px in height to provide enough clearance for mobile users to tap }    
 
 { End if Mobile } 
 ## Profile page
