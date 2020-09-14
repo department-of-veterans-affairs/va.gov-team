@@ -1,5 +1,5 @@
 
-![Diagram](assets/sms-trigger.png)
+![Diagram](assets/vetext-trigger.png)
 
 This diagram is out of date and will be need to be updated to reflect an API call instead of an SMS text
 
