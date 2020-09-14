@@ -112,7 +112,7 @@ The page MUST have a meaningful title (e.g. About us), even when included via if
 LV3
 
 #### Flashing Effects
-* There MUST NOT be any flashing or blinking effects faster than 3 times in any one-second period, to avoid causing a seizure in people susceptible to them. 2.3.1
+* **508-defect-0 :exclamation: Launchblocker – Harmful** There MUST NOT be any flashing or blinking effects faster than 3 times in any one-second period, to avoid causing a seizure in people susceptible to them. 2.3.1
 
 #### Typographic Design
 * Fonts SHOULD be easy to read (avoid cursive fonts, overly decorative fonts, etc.). n/a
