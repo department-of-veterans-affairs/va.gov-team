@@ -5,6 +5,19 @@
  -  LC go-to-market strategy: how will users find the Learning Center?
 </details>
 
+## Tuesday September 15
+
+### Agenda
+
+1. Review backlog for Sprint 15
+1. React widget capability for Single Q&A and in other LC templates.
+1. other
+
+### Action items
+
+1. 
+
+
 ## Tuesday September 8
 
 ### Agenda
