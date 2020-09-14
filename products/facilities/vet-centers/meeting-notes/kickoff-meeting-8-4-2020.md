@@ -1,6 +1,4 @@
-# Vet Centers kickoff 
-
-**8-4-2020**
+# Vet Centers kickoff - 8-4-2020
 
 Attendees:
 Leyda H, Dave C, Michelle M, Meg Peters, Bryan Doe, Jessica Schiefer, Sue Candelier, Ashley Gork, Ken, Austin, Elizabeth Jackson, Austin, others (?)
