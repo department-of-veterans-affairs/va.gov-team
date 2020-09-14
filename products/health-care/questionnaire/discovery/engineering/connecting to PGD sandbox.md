@@ -48,7 +48,7 @@ url = 'https://vagovtest.mapsandbox.net/users/v2/session?processRules=true'
 
 
 Then set a breakpoint after perform() in the
-new_session_token() using binding.pry
+new_session_token() method using binding.pry
 
 ---
 
