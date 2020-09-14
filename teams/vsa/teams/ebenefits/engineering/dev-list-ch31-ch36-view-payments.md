@@ -71,8 +71,8 @@ Total = 7
 - 👉 [#12000](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12000) Swap dummy content with real data from API call (BE + FE get together) (3)
 - [#11991](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11991) Unit test Redux (3)
 - [#12003](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12003) E2E test (5)
-- Meet with GA team (1)
-- Implement event names from GA team (2)
+- [#13512](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13512) Meet with GA team (1)
+- [#13513](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13513) Implement event names from GA team (2)
 - [#12001](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12001) Internal a11y audit (2)  
 Total = 37
 
