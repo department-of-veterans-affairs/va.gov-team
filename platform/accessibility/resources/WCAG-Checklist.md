@@ -239,7 +239,7 @@ In 2018, WCAG 2.1 was released and **is the current standard for accessibility c
 
 ### Part 4: Understandability/Cognition, continued
 
-### Mobile Design
+### Part 5: Mobile Design
 
 
 ## WCAG 2.2
