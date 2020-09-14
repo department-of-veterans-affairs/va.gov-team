@@ -318,10 +318,10 @@ Although we do not dictate whether developers should use Windows vs Linux vs Mac
 
 - Macbook Pro issued by US Resources to GovernmentCIO employees:
   - You’ll have to call US Resources to get the password (account is not integrated into Active Directory)
-  - The good news is that I was already set up as admin. If you are not admin, let US Resources know immediately, because you need to be.
-  - If you upgrade to Catalina (recommended) you may need to acknowledge a few additional security prompts. I believe this came up with video and DisplayLink drivers though (dual monitor support), not the development software itself.
+  - If you are not admin, let US Resources know immediately, because you need to be.
+  - If you upgrade to Catalina (recommended) you may need to acknowledge a few additional security prompts.
 - Most tools are open source.
-- While Microsoft doesn't have a desktop version of Visio for macOS, you can use "Visio for the Web" (Office 365) from your Mac in a web browser.
+- You can only get so far with words, so we encourage developers to use diagrams to communicate architecture, design, and business/data flow. We recommend [diagrams.net](https://app.diagrams.net/) (previously known as Draw.io) because it's free and open source. It's a well-known Progressive Web App (PWA) based on MxGraph that comes in both online or offline versions. Alternatives include Lucidchart and Visio; however, neither of those are free. 
 
 ### Software List
 
