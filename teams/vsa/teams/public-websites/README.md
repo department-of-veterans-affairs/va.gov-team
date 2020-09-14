@@ -63,6 +63,9 @@ Develop and assist other teams in unauthenticated content and products for Veter
 * content
 * needs-grooming
 * design
+* developing
+* planned
+* un-planned
 
 Milestones are set up as:
 * Public Websites Sprint xx
@@ -123,11 +126,17 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 
 #### Team Norms
 
-_Update as you see fit! These are some starter norms for you to consider_
-
 - Be respectful, both online and off
+- Constantly and openly communicate - be willing to hop on a call/slack/zoom convo if needed
+- Engage in non-judgemental communication
+- Own the problem and solution (driven with a singal purpose)
+- Don't compete with one another (round table effect)
 - Show your face (Webcam) at meetings / calls
-- Speak up! - everyone’s voice matters
+- Speak up! - everyone’s voice matters and will be heard
+- leave ego at the door
+- Assume best intentions - especially when in a remote setting
+- Trust on another and ask questions freely and frequently 
+- Celebrate the wins
 - We are flexible, but intentional in the way we work
 - Let’s have fun and do great work!
 
