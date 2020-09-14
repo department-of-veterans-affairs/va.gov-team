@@ -16,11 +16,21 @@
 ### IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements. *
 
+**User Flow(s)**
+- Users will be able to access the new form through the existing content page or directly - they do not need to pass through the content page to access the form.
+- The introduction page of the new form will include a "wizard" that checks the user's eligibility for the program.  Users will be able to skip the wizard or still complete the application despite the results of the wizard. 
+- In the case the wizard finds the user may not be eligible, they will receive a message and/or a link to a related content page.
+- In some cases, the wizard may also promote the PCPG/chapter 36 program but the user will not be automatically sent there. If the user chooses to go to the Ch 36 application, they will need to complete the corresponding wizard on that form. 
+
+Wizard flow:
+
+![image](https://user-images.githubusercontent.com/20994159/93143426-8c30b980-f6ad-11ea-895a-58bfa3ddd6c5.png)
+
+
 **Approach:**
 
 - This work effort includes the addition of an online application.  Static content for this benefit already exists, the new online application will replace the existing link to eBenefits. 
 - Parallel to this work, a separate content effort is also happening to update the program name to "Veteran Readiness and Employment".  The existing URLs, which are not intended to be a branded program name, will continue to utilize "/vocational-rehabilitation". This is the same approach taken with the rebranding of the career counseling program (now PCPG). 
-
 
 ![image](https://user-images.githubusercontent.com/20994159/90073835-8f581480-dcbf-11ea-9efc-a7937057f375.png)
 
