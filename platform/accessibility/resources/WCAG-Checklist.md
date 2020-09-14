@@ -216,7 +216,6 @@ n/a
 * Users SHOULD NOT be required to remember data from one page (or view, or step of a process) to another, unless the fundamental purpose of the content requires them to do so. COG
 </details>
 
-<hr/>
 
 ### WCAG 2.0 footnotes
 <details>
