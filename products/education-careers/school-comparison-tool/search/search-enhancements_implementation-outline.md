@@ -20,14 +20,14 @@ Additionally at least one of the following must be true:
 
 These results are then sorted by a calculated weight followed by alphabetical order of the name.
 The calculated weight is determined by adding all of the following together:
-- If the alias equals the search term + 1
-- If the alias contains the search term as standalone word + 1.4; ex “smith” +0 but “MIT” +1;
-- If the city equals the search term + 1
-- If the name equals the search term + 1;
-- If the name starts with the search term + 1;
-- The similarity of the name and the search value;  This is a value between 0.0-1.0;
-- The similarity of the name and the search value after both name and search term have had common words and characters removed; This is a value between 0.4-1.0
-- The number of students divided by the max number of students within the provided data; this is multipled by 1/3 to reduce weight
+- If the alias equals the search term: + 1
+- If the alias contains the search term as standalone word: + 1.4; ex “smith” +0 but “MIT” +1;
+- If the city equals the search term: + 1
+- If the name equals the search term: + 1;
+- If the name starts with the search term: + 1;
+- The similarity of the name and the search value; The value added is between 0.0-1.0;
+- The similarity of the name and the search value after both name and search term have had common words and characters removed; The value added is between 0.4-1.0
+- The number of students divided by the max number of students within the provided data; this is multipled by 1/3 to reduce weight; ex (8000/17635)/3 = +0.15
 
 ## VET TEC searches
 
