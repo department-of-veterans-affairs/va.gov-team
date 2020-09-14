@@ -3,9 +3,13 @@
 ```
 # WCAG Checklist 
 
+This checklist offers organized guidance to meet Section 508 and accessibility compliance. 
+
+Since 2017, Section 508 compliance references WCAG 2.0 Level A and Level AA Success Criteria and Conformance Requirements. In 2018 WCAG 2.1 was released and is the current standard for accessibility compliance. 
+
+Another reference that may be useful is [How to Meet WCAG, Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/).
 
 ## Section 508 = WCAG 2.0
-Since 2017, Section 508 Compliance references WCAG 2.0 Level A and Level AA Success Criteria and Conformance Requirements. This checklist offers organized guidance to meet Section 508. Another reference that may be useful is [How to Meet WCAG, Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/).
 
 Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practices (marked with “*SHOULD*”)
 *(from the [Deque WCAG 2.0 Checklist](https://www.jenstrickland.design/talks/design4performance-a11y/resources/WCAG_Checklist.pdf))*
