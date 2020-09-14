@@ -45,7 +45,7 @@
 { Institution name }  
 { Caution or closing flags, if any }  
 
-{ star rating visual with numerical display } [(See NN ratings by Veterans)]() { jump link down to School ratings accordion } 
+{ star rating visual with numerical display } ([See NN ratings by Veterans]()) { jump link down to School ratings accordion } 
 
 ### School ratings { accordion }:
 
