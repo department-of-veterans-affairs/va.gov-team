@@ -52,7 +52,6 @@ Develop and assist other teams in unauthenticated content and products for Veter
 |Front End Engineer     |Kelson Adams                        |
 |Design/Research        |Liz Lantz                           |
 |Content Writer         |Selina Cooper                       |
-|Content Writer         |Anne Hurley                         |
 |Content Writer         |Laura Walsh                         |
 |Copy Editor            |Randi Hecht                         |
 
