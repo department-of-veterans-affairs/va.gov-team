@@ -68,9 +68,30 @@ Alright! Now we can get started.
 
 [Participant searches for specific documents] 
 
-- Now imagine there’s a location on this site that stores your VA documents. Talk me through where you’d expect to find that tool.
+#### If the participant navigates to the claim status tool
 
-[Participant searches for a location that stores all VA documents]
+- Do you feel comfortable signing into your VA.gov account so we can take a look at the tool? 
+  - If yes, stop recording while the participant signs in 
+  
+[Participant signs in]
+
+- Show me what you would do to find documentation you've uploaded relating to your claim 
+
+- Why might you want to access documents you've previously uploaded?
+
+- How would you expect to search for a document?
+
+- What would you expect to happen if you opened one of the documents?
+   - What would you do once opening the document?
+ 
+- Describe your document(s) to me. Is it clear what each document is about?
+   - If not, what would make it clearer for you?
+
+[Task completed]
+
+- Now imagine there’s a location on this site that stores VA-related documents you've uploaded. Talk me through where you’d expect to find that tool.
+
+[Participant searches for a location that stores VA documents they've uploaded]
 
 - Do you have any other thoughts before we move to the next portion of the session?
 
