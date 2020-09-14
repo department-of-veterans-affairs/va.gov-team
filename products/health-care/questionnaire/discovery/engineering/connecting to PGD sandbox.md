@@ -40,6 +40,12 @@ I commented out these lines because from the rails console the cache fails
 #return cached.token if cached
 ```
 
+in new_session_token() set URL to the sandbox
+```
+url = 'https://vagovtest.mapsandbox.net/users/v2/session?processRules=true'
+```
+
+
 Then set a breakpoint after perform() in the
 new_session_token() using binding.pry
 
