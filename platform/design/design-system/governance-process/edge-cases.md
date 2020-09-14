@@ -26,15 +26,15 @@ Edge cases arise when, in step 3 of the happy path, **teams can't isolate the re
 
 #### If the change impacts multiple features/teams:
 The VFS team can't launch until this gets reviewed by the design system council.
-- Example: forms library changes, buttons, error messaging
+- **Example:** forms library changes, buttons, error messaging
 
 #### If the change does not impact multiple features/teams:
 The VFS team can submit a PR for VSP to review the code change. The PR is subject to the [platform code review guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/code_review_guidelines.md). [Submit a ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/projects/3) in the Proposals column with the `code new` label and the design system council will review the request when it is prioritized.
-- Example: global elements like the header
+- **Example:** global elements like the header
 
 ### For changes that are not launch-blocking
 The VFS team can't change the code, but should [submit a ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/projects/3) in the Proposals column w/the appropriate label. The design system council will review the request when it is prioritized.
-- Example: minor visual bugs
+- **Example:** minor visual bugs
 
 ### Escalation path for decision-making
 For assistance in deciding on the best solution, escalate to any VSP DEPO lead.
