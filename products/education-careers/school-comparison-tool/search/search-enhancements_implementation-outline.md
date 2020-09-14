@@ -38,7 +38,7 @@ When searching for a VET TEC program results will meet all of the following:
 
 Additionally zero or more of the following must be true:
 - The associated institution's name is at least 40% similar to the search term
-- The physical city equals the search term
+- The associated institution's physical city equals the search term
 - The associated institution's physical zip equals the search term
 - The associated institution's facility_code equals the search term
 - The description contains the search term
