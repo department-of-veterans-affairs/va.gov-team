@@ -63,7 +63,7 @@ Total = 24
 Total = 7
 
 ### Frontend
-- 👉 [#12263](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12263) Implement copy edits (3)
+- ✔ [#12263](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12263) Implement copy edits (3)
 - [#11926](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11926) Unit test `ViewPaymentsHeader` (5)
 - [#11925](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11925) Unit test `ViewPaymentsLists` (5)
 - [#11924](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11924) Unit test `Payments` (5)
