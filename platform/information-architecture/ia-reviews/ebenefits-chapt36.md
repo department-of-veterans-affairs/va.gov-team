@@ -23,6 +23,17 @@
 ![image](https://user-images.githubusercontent.com/20994159/90075840-fa0b4f00-dcc3-11ea-9b31-ed9b3d1425ed.png)
 
 
+**User Flow(s)**
+- Users will be able to access the new form through the existing content page or directly - they do not need to pass through the content page to access the form.
+- The introduction page of the new form will include a "wizard" that checks the user's eligibility for the program.  Users will be able to skip the wizard or still complete the application despite the results of the wizard. 
+- In the case the wizard finds the user may not be eligible, they will receive a message and/or a link to a related content page.
+- In some cases, the wizard may also promote the VRE/chapter 31 program but the user will not be automatically sent there. If the user chooses to go to the Ch 31 application, they will need to complete the corresponding wizard on that form. 
+
+Wizard flow:
+
+![image](https://user-images.githubusercontent.com/20994159/93143426-8c30b980-f6ad-11ea-895a-58bfa3ddd6c5.png)
+
+
 
 **URLs and Breadcrumbs:**
 
