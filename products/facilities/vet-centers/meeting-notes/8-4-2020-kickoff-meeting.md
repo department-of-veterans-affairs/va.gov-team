@@ -8,6 +8,7 @@ Have contractors on the line
 Will also have outreach specialists to help us navigate what we need
 
 *Dave C - PPT titled “VA.gov Facils Portfolio - Vet Centers”*
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/meeting-notes/Vet%20Centers.pptx
 
 *Timeline:* 
 * Aug-Sept - svcs taxon, research strat dev
