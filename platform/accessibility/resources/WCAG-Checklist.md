@@ -193,7 +193,7 @@ n/a
 </details>
 
 
-### Part 4: Understandability
+### Part 4: Understandability/Cognition
 
 <details>
 
@@ -237,7 +237,7 @@ n/a
 
 In 2018, WCAG 2.1 was released and **is the current standard for accessibility compliance,** includes WCAG 2.0 and adds additional success criteria for:
 
-### Cognition
+### Part 4: Understandability/Cognition, continued
 
 ### Mobile Design
 
