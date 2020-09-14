@@ -2,7 +2,7 @@
 
 ## Connecting to PGD sandbox
 
-We where able to connect to the PGD sandbox as follows
+We where able to connect to the PGD sandbox as shown below. Next we will want to be able to use other endpoints in the sandbox as those become available for use
 
 A set of local keys where created using this command. I sent Stephen Barrs the public key file:
 ```
