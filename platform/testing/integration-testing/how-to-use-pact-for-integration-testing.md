@@ -97,23 +97,24 @@ yarn test:contract
 
 1. Create a test file with the suffix `.pact.spec.js`.
 
-1. Use the `contractTest` helper function from `src/platform/testing/contract`
-    ```
-    contractTest('Example App', 'VA.gov API', mockApi => { ... });
-    ```
-  - `Example App` is the name of your app. This must match the app name that the API uses to set up provider states during pact verification for this app.
+2. Use the `contractTest` helper function from `src/platform/testing/contract`
+   ```
+   contractTest('Example App', 'VA.gov API', mockApi => { ... });
+   ```
+   - `Example App` is the name of your app. This must match the app name that the API uses to set up provider states during pact verification for this app.
    - `VA.gov API`  is the name of the provider.
    - `mockApi => { ... }`  is a callback function that has the Pact mock provider as its argument. In the callback function, write your tests in a unit test format with `describe()` and `it()` blocks and such.
-  3. For any relevant endpoints, set up the mock API by adding the expected interactions.
 
-    See the next section on interactions for an example of defining an interaction.
+3. For any relevant endpoints, set up the mock API by adding the expected interactions.
 
-    ```
-    mockApi.addInteraction(interaction);
-    ```
+   See the next section on interactions for an example of defining an interaction.
 
-    - The easiest place to do this is within the `it()` blocks, which are meant to focus on specific interactions or endpoints.
-    - **The test will fail if that interaction is not fulfilled in the scope where it's declared**. So ensure that the request made in the test matches the request defined in the interaction.
+   ```
+   mockApi.addInteraction(interaction);
+   ```
+
+   - The easiest place to do this is within the `it()` blocks, which are meant to focus on specific interactions or endpoints.
+   - **The test will fail if that interaction is not fulfilled in the scope where it's declared**. So ensure that the request made in the test matches the request defined in the interaction.
 
 The following code is an example of how you might structure your test.
 
