@@ -3,8 +3,9 @@
 ```
 # WCAG Checklist 
 
-This checklist offers organized guidance to meet Section 508 and accessibility compliance. 
+This checklist offers organized guidance to meet Section 508 and accessibility compliance. The W3C's Web Content Accessibility Guidelines are the worldwide standards for accessibility compliance. 
 
+* Section 508 is the U.S. federal mandate for accessibility compliance. 
 * Since 2017, Section 508 compliance references WCAG 2.0 Level A and Level AA Success Criteria and Conformance Requirements. The Access Board, who oversees Section 508, indicated they will wait for WCAG 3.0 (expected in 2021–2022) to update Section 508.
 * In 2018, WCAG 2.1 was released and is the current worldwide standard for accessibility compliance. 
 * Half of U.S. Veterans have an identified cognitive disability, and it's likely even more do. VA.gov mobile traffic continues to increase and accounts for half of the arrivals. WCAG 2.1's focus on cognitive and mobile design success criteria are useful for supporting these needs.
