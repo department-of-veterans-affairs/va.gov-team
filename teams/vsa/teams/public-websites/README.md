@@ -47,7 +47,7 @@ Develop and assist other teams in unauthenticated content and products for Veter
 |DSVA Product Owner     |Jen Lee                             |
 |DSVA Product Owner     |John Hashimoto                      |
 |DVSA Content Lead      |Danielle Thierry                    |
-|Product Manager        |Stephanie Orkand                    |
+|Product Manager        |Brian Lloyd                    |
 |Front End Engineer     |Nick Sullivan                       |
 |Front End Engineer     |Kelson Adams                        |
 |Design/Research        |Liz Lantz                           |
