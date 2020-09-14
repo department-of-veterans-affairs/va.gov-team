@@ -5,7 +5,7 @@ Pact is a tool that enables consumer-driven contract testing (CDCT) by defining 
 
 In this way, Pact enables VFS teams to test integration points with `vets-api`. 
 
-As of 9/14/20, VSP is in the process of rolling our Pact to VFS teams. If you are part of a VFS team and are interested in using Pact, please reach out to the contacts listed below. 
+As of 9/14/20, VSP is in the process of rolling out Pact to VFS teams. If you are part of a VFS team and are interested in using Pact, please reach out to the contacts listed below. 
 
 --- 
 
