@@ -14,8 +14,9 @@ Another useful reference is [How to Meet WCAG, Quick Reference](https://www.w3.o
 
 ## Section 508 = WCAG 2.0
 
-Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practices (marked with “*SHOULD*”)
-*(from the [Deque WCAG 2.0 Checklist](https://www.jenstrickland.design/talks/design4performance-a11y/resources/WCAG_Checklist.pdf))*
+**Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practices (marked with “*SHOULD*”)**
+
+(from the [Deque WCAG 2.0 Checklist](https://www.jenstrickland.design/talks/design4performance-a11y/resources/WCAG_Checklist.pdf))*
 
 WCAG 2.0 success criteria can be organized into these four areas: 
 
