@@ -5,10 +5,10 @@
 
 
 ## Section 508 = WCAG 2.0
-Since 2017, Section 508 Compliance references WCAG 2.0 Level A and Level AA Success Criteria and Conformance Requirements. This checklist offers organized guidance to meet Section 508 Compliance. Another reference that may be useful is [How to Meet WCAG, Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/).
+Since 2017, Section 508 Compliance references WCAG 2.0 Level A and Level AA Success Criteria and Conformance Requirements. This checklist offers organized guidance to meet Section 508. Another reference that may be useful is [How to Meet WCAG, Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/).
 
 Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practices (marked with “*SHOULD*”)
-*(Based on the [Deque WCAG 2.0 Checklist](https://www.jenstrickland.design/talks/design4performance-a11y/resources/WCAG_Checklist.pdf))*
+*(from the [Deque WCAG 2.0 Checklist](https://www.jenstrickland.design/talks/design4performance-a11y/resources/WCAG_Checklist.pdf))*
 
 WCAG 2.0 success criteria can be organized into these four areas: 
 
