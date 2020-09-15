@@ -362,7 +362,7 @@ make pact
 #### Important: Docker workflow settings
 If following the docker workflow, make the following additions/changes to ```config/test.yml```  (Do not commit these changes). 
 ```
-test_database_url: postgis://postgres:password@postgres:5432/vets_api_test?pool=4
+test_database_url: postgis://postgres:password@postgres:5432/vets_api_test
 ```
 *If following the native flow, remove this setting from test.yml.*
 
