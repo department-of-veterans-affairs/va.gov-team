@@ -117,7 +117,7 @@ Distribution of ratings
 *NN users didn’t rate this category* {If all users provided a rating, don't display this}  
 There’s a robust community at the school for Veterans and military-connected students. The school supports and engages Veterans.
 
-#### Marketing practices { star rating with numerical display } {expandable/collapsible mini accordion}  
+#### True to expectations { star rating with numerical display } {expandable/collapsible mini accordion}  
 Distribution of ratings  
 5 star { bar visual } NN% (NN users)  
 4 star { bar visual } NN% (NN users)  
