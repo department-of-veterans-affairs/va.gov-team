@@ -117,7 +117,7 @@ What's the ETA for the app/tool launch or the date when you need this request co
 
 * <Desired/target implementation date>
 
-Note: As a best practice, PW does not release new products over weekends or holidays. 
+Note: As a best practice, PW does not release new products over weekends or holidays. Please plan accordingly. 
 
 ---
 
