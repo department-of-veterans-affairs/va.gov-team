@@ -15,6 +15,36 @@
 
 ## Sept 11th, 2020
 
+#### Monday 7th Labor Day Holiday
+
+**Product**
+- [Sprint 30 Planning for priority features.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/quarterly-sprint-planning.md#sprint-30---questionnaire-form-entry-is-real) 
+- [Sprint 29 Demo](https://docs.google.com/presentation/d/1PVTVSQtZI33gTVnMPKTWkzcIc113aNZZ8J-Uf1kfgtE/edit#slide=id.g865f6d892d_0_0) 
+- [Sprint 28 Report](https://docs.google.com/document/d/1iHk10GnpLhg1CIAdgTnXygCZCTZp4Jdp1AcsTVQUadU/edit?usp=sharing)
+ - [Sprint 28 Retro](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/sprint-29.md)
+ - [TOT Aug 18th](https://drive.google.com/file/d/1-tr-i_gS1N_HHGsyRmZGez2TpmxwmstN/view?usp=sharing)
+ - Scheduled review meeting with SMEs at LomaLinda
+ - 
+
+**Research and Design**
+- Completed Demographics and [This Visit page](https://zpl.io/VOOek8j) for engineering
+- [Submitted and Accepted VSP Design council request](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/302) for enhancements to the readonly demographics page
+
+**Engineering**
+
+- Continue to break out Questionnaire Service - Appt details into separate pull requests to be accepted. 2 of 3 merged and approved
+- [Created This Visit Form entry](https://dsva.slack.com/archives/C0136TS768M/p1599762254045200) -  Completed the first three fields, not pre-filling, created the basic multi-question implementation.
+
+**Next Step/Followup**
+- Finalize intro, and confirmation page mocks with a storyboard diagram of user flow for sprint 30
+- Continue to get answers and land architecture strategy for system and services for retrieving and posting healthcare patient data.
+	
+**Decisions:**
+
+**Blockers:**
+- No changes in status from previous week for blocker [Stakeholder Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
+- Both BE investigation for [VAMP/PGD #12406](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12406) and [Service for Retrieving Appt. Details #12404](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12404) are blocked by request submitted by Stephen to gain keys access for both environments. 
+
 ## Sept 4th, 2020
 
 **Product**
