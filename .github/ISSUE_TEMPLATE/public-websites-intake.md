@@ -33,13 +33,13 @@ assignees: DanielleThierryUSDSVA
 |Type of need | When to submit your request |
 | :-- | :-- |
 | **New unauthenticated VA.gov page (such as a static landing page to support a new app/tool)** | At project kickoff |
-| **Updates to an existing unauthenticated VA.gov page** | For significant updates (like consolidating pages or reworking page content): At project kickoff <br> For smaller updates (like adding a section of new info): At least 2 weeks in advance |
+| **Updates to an existing unauthenticated VA.gov page** | For significant updates (like consolidating pages or reworking page content): At project kickoff <br> For smaller updates (like adding a section of new info): At least 3 weeks in advance (so we can work it into our next sprint). |
 | **Writing support for app/tool** | At project kickoff | 
-| **Editing support for app/tool or other writing/editing support** | For multiple screens: At least 2 weeks in advance for multiple screens. <br> For smaller needs (like an error message): At least 2 days in advance | 
+| **Editing support for app/tool or other writing/editing support** | For multiple screens: At least 3 weeks in advance (so we can work it into our next sprint). <br> For very small needs (like an error message): At least 2 days in advance | 
 
 ### Engineering requests
 
-Please submit all engineering requests **at least 2 weeks in advance.** 
+Please submit all engineering requests **at least 3 weeks in advance** (so we can work it into our next sprint).
 
 ---
 
@@ -73,7 +73,7 @@ Please submit all engineering requests **at least 2 weeks in advance.**
 - [ ] **Writing support for new app/tool** 
    * **Additional info.** Please provide any details not covered above about what app/tool/other need this new page will support. 
       * < URL list >
-   * **Schedule a meeting.** Please schedule a meeting with @Danielle Thierry to kick off this work. We'll work with your team and the VSP content resource to determine how best to support your needs. [View Danielle's calendar](https://outlook.office365.com/calendar/published/b2a32b65cdbd4a218f7c0461ab4e41c1@va.gov/82b0e0b178934e80b2190b37e41a14668122172627511760876/calendar.html)   
+   * **Schedule a meeting.** Please schedule a meeting with @Danielle Thierry and @Brian Lloyd to kick off this work. We'll work with your team and the VSP content resource to determine how best to support your needs. [View Danielle's calendar](https://outlook.office365.com/calendar/published/b2a32b65cdbd4a218f7c0461ab4e41c1@va.gov/82b0e0b178934e80b2190b37e41a14668122172627511760876/calendar.html)   
 
 - [ ] **Editing support for app/tool** <br> <br> **Note:** We'll work with your team and the VSP content resource to determine how best to support your needs.
    * URL where draft content appears (if available) <br>    
@@ -117,7 +117,7 @@ What's the ETA for the app/tool launch or the date when you need this request co
 
 * <Desired/target implementation date>
 
-Note: As a best practice, PW does not release new products over weekends or holidays. Please plan accordingly. 
+**Note:** As a best practice, PW does not release new products over weekends or holidays. Please plan accordingly. 
 
 ---
 
