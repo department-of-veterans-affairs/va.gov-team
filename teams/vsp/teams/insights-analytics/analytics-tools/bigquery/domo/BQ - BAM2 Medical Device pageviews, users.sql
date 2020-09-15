@@ -23,12 +23,12 @@ SELECT
     device_category,  
     -- Browser (dimension)
     browser,
-    -- pageviews (metric)
-    pageviews,
     -- sessions (metric)
-    sessions AS sessions,
+    SUM(totals_visits) AS sessions,
     -- users (metric)
     COUNT(DISTINCT fullVisitorId) AS users,
+    -- pageviews (metric)
+    SUM(totals_pageviews) AS pageviews,
     -- Unique Pageviews (metric)
     SUM(unique_pageviews) AS unique_pageviews,
     -- bounces (dimension)
@@ -37,23 +37,22 @@ FROM (
     SELECT
         date,
         fullVisitorId,
-        hits.page.pagePath as pagePath,   
-        device.deviceCategory AS device_category,     
+        hits.page.pagePath as pagePath,        
         device.browser AS browser,
+        device.deviceCategory AS device_category,
+        totals.pageviews AS totals_pageviews,
+        totals.visits AS totals_visits,
         totals.bounces AS totals_bounces,
-        COUNT(DISTINCT CONCAT(fullVisitorId, CAST(visitStartTime AS STRING))) AS sessions,
-        COUNT(*) AS pageviews,
-        COUNT(DISTINCT CONCAT(CAST(fullVisitorId AS STRING), CAST(visitStartTime AS STRING))) AS unique_pageviews
+        COUNT(DISTINCT CONCAT(CAST(fullVisitorId AS STRING), CAST(visitStartTime AS STRING))) AS unique_pageviews,
     FROM
-        `vsp-analytics-and-insights.176188361.ga_sessions_*` ga,
+        `vsp-analytics-and-insights.176188361.ga_sessions_20*` ga,
         UNNEST(ga.hits) as hits
     WHERE
-        _TABLE_SUFFIX = FORMAT_DATE('%Y%m%d', DATE_SUB(CURRENT_DATE(), INTERVAL 2 DAY))
+        _TABLE_SUFFIX = FORMAT_DATE('%Y%m%d',DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY))
         AND totals.visits = 1
-        AND hits.type = "PAGE"
-        AND REGEXP_CONTAINS(hits.page.pagePath, r"^www.va.gov/health-care/order-hearing-aid-batteries-and-accessories.*$")
+        AND REGEXP_CONTAINS(hits.page.pagePath, r"^/health-care/order-hearing-aid-batteries-and-accessories.*$")
     GROUP BY
-        1, 2, 3, 4, 5, 6, 7
+        1, 2, 3, 4, 5, 6, 7, 8
 )
 GROUP BY
   1,
@@ -63,7 +62,6 @@ GROUP BY
   5,
   6,
   7,
-  8,
-  9
+  8
 ORDER BY
-  pageviews DESC
+  date ASC
