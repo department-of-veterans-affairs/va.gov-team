@@ -42,12 +42,12 @@ _Please confirm the proper verbiage and capitalization with your writer_
 
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
-Static Page | www.va.gov/careers-employment/education-and-career-counseling/ | Home > Careers and employment > Career guidance |  Need to confirm H1 and breadcrumb labeling
-Application | www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/ | Home > Careers and employment > Career guidance > Apply for Personalized Career Planning and Guidance form 28-8832 |  Need to confirm H1 and breadcrumb labeling
+Static Page | www.va.gov/careers-employment/education-and-career-counseling/ | Home > Careers and employment > Career planning and guidance |  
+Application | www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/ | Home > Careers and employment > Career planning and guidance > Apply for Personalized Career Planning and Guidance form 28-8832 | 
 
 <hr>
 
-### Navigation Changes and Entry and Exit Points <br>
+### Navigation Changes and Entry <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
 Priority | Placement | Link to | Notes/Description
