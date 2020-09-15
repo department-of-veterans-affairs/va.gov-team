@@ -21,21 +21,27 @@ Edge cases arise when, in step 3 of the happy path, **teams can't isolate the re
 
 ## Edge case governance process
 
-### For changes that are launch-blocking
-"Launch-blocking" is defined here by the VFS team.
+### For application changes that are launch-blocking
 
-#### If the change impacts multiple features/teams:
-The VFS team can't launch until this gets reviewed by the design system council.
+When a VFS team needs application changes that diverge from existing design system patterns to launch, the following guidance summarizes their options:
+
+#### If the application change _can_ be made without impacting multiple features/teams:
+
+If the VFS team is able to make the change within their own application code, they should do so.
+
+VSP will evaluate if this application change should **also** be made to the design system in the future, but without launch-blocking the VFS team in the meantime. To track this, the VFS team should [submit a ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/projects/3) in the Proposals column with the `code new` label. The VSP design system council will review the request at a later date.
+
+- **Example:** global elements like the header, new components for a specific application
+
+#### If the application change _cannot_ be made without impact to other features/teams:
+
+For application changes where the implementation affects additional features/teams, this should be treated as a design system change. Therefore, the VFS team can't launch until this gets reviewed by the design system council.
+
 - **Example:** forms library changes, buttons, error messaging
 
-#### If the change does not impact multiple features/teams:
-The VFS team can submit a PR for VSP to review the code change. The PR is subject to the [platform code review guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/code_review_guidelines.md). [Submit a ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/projects/3) in the Proposals column with the `code new` label and the design system council will review the request when it is prioritized.
-- **Example:** global elements like the header
-
 ### For changes that are not launch-blocking
-The VFS team can't change the code, but should [submit a ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/projects/3) in the Proposals column w/the appropriate label. The design system council will review the request when it is prioritized.
+The VFS team can't change the code, but should [submit a ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/projects/3) in the Proposals column w/the appropriate label. The design system council will review the request at a later date.
 - **Example:** minor visual bugs
 
 ### Escalation path for decision-making
 For assistance in deciding on the best solution, escalate to any VSP DEPO lead.
-
