@@ -15,7 +15,7 @@ assignees: DanielleThierryUSDSVA
 
 ### Engineering support for:
 - Redirects that have **first been vetted by the VSP IA team**
-- Implementation of REACT sign-in widgets or feature flags (flipper)
+- REACT sign-in widgets or feature flags (flipper)
 - Other engineering support
 
 **Note:** Apps teams engineers are responsible for flipper implementation related to their products. Our engineers can provide consultation as needed. [Read feature toggle documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/)
