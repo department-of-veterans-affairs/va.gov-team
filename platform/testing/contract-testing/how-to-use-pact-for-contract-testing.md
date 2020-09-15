@@ -1,4 +1,4 @@
-# How to use Pact for contract testing
+# How to use Pact for contract testing (in progress)
 
 #### Table of contents
 - [Introduction](#introduction)
@@ -53,9 +53,20 @@ Pact satisfies the need for end-to-end integration tests between  `vets-website`
 * **Interaction** -- A request and response pair.
 * **Broker** -- Central location where pacts are hosted. The Pact broker is currently hosted on [Heroku](https://vagov-pact-broker.herokuapp.com/). You can view the interactions per endpoint and the verification matrix from the broker index.
 
-### Requirements
+### Requirements (draft)
 
-For integration test coverage, Pact is required for new endpoints or changes to endpoints. PRs related to Pacts will go through the standard [code review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/code_review_guidelines.md). 
+VFS teams are required to use Pact for integration testing in the following scenarios: 
+
+* Any new or updated product or service that integrates with vets-api endpoints is required to use Pact integration testing
+   * Any new UI on VA.gov that integrates with vets-api (whether the endpoint you are integrating with is net new or not)
+      * If your team is updating an existing UI on VA.gov, Pact integration testing is required if the changes entail calling an endpoint that the app did not previously call (new endpoints or changes to endpoints)
+   * Any new or updated external product or service that lives outside of the VA.gov ecosystem and integrates with vets-api endpoints (e.g. Lighthouse)
+
+To meet this requirement, your team will need to either create a Pact test or update an existing Pact test for the vets-api endpoints used. Integrations that only use vets-api as a proxy to another service are exempt from this requirement.
+
+VSP does not currently actively enforce this requirement (last updated 9/2020). 
+
+PRs related to Pacts will go through the standard [code review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/code_review_guidelines.md). 
 
 ### Process
 
