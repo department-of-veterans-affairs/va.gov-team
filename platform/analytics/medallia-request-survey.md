@@ -4,7 +4,7 @@
 
 ## How to request a survey
 
-Fill out the [survey implementation request template] (https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+medallia&template=analytics-foresee-request-template.md&title=User+Survey+Request+for+%5BTeam%5D). 
+Fill out the [survey implementation request template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+medallia&template=analytics-foresee-request-template.md&title=User+Survey+Request+for+%5BTeam%5D). 
 
 The issue will be triaged to the VSP Analytics & Insights team and will be implemented in Staging based on the URLs provided. Once approved by the VFS product manager or product owner in staging, the survey will be pushed to Production and the issue will be closed after another approval.
 
