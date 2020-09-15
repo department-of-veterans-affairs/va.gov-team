@@ -3,7 +3,7 @@ Contract testing on VA.gov is accomplished using Pact.
 
 Pact is a tool that enables consumer-driven contract testing (CDCT) by defining a contract between service consumers and providers (e.g. `vets-website` applications and `vets-api`). As explained by Pact, “Contract testing is a technique for testing an integration point by checking each application in isolation to ensure the messages it sends or receives conform to a shared understanding that is documented in a 'contract'.“
 
-In this way, Pact enables VFS teams to test integration points with `vets-api`. 
+In this way, Pact enables VFS teams to test integration points with `vets-api` in a non-production environment. This gives VFS teams the ability to ensure that their app is production-ready, and helps VSP ensure that platform-wide changes are non-breaking. Pact allows VFS and VSP to catch issues with integrations before they reach production.
 
 As of 9/14/20, VSP is in the process of rolling out Pact to VFS teams. If you are part of a VFS team and are interested in using Pact, please reach out to the contacts listed below. 
 
@@ -28,6 +28,8 @@ If those contacts are unavailable, please tag the frontend and/or backend suppor
 
 ## Examples
 
-_Link to any examples of this product or service in action._
+[Search example in Pact broker](https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.gov%20API/consumer/Search/latest)
+[Backend configuration of search](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/provider_states_for/search.rb#L3)
+[Frontend configuration of search — IN PROGRESS](https://github.com/department-of-veterans-affairs/vets-website/blob/52382e54547ffdb0d1539cde28ed42aed7776b53/src/applications/search/tests/search.pact.spec.js)
 
 ---
