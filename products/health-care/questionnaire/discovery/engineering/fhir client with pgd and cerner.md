@@ -1,6 +1,8 @@
 
 ## Using the FHIR client with PGD sandbox and Cerner sandbox
 
+This code is experimental and used for proof of concept using the rails console so it is described here rather than being checked in
+
 <details>
   <summary>PGDService module</summary>
   
@@ -252,4 +254,60 @@ module HealthQuest
 end
 ```
 </details>
+
+## Basic setup
+
+Create a set of local keys as described here [sandbox access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/connecting%20to%20PGD%20sandbox.md) and set the settings.yml as described
+
+in modules/health_quest/app/services/health_quest/jwt_wrapper.rb set ISS ISS = 'gov.va.clipboard'
+
+add to Gemfile:
+```
+gem 'fhir_client'
+```
+
+The userService module has caching removed to work with the console
+copy the userService module to from above to replace the current one at:
+```
+modules/health_quest/app/services/health_quest/user_service.rb
+```
+
+## PGD Sandbox
+
+copy the PGDService module to:
+```
+modules/health_quest/app/services/health_quest/pgd_service.rb
+```
+
+in the Rails console this command will set up the fhir client to connect with the PGD sandbox with the proper headers, although there is no data currently in the sandbox:
+```
+PGDService.init_pgd
+```
+
+---
+
+## Cerner Sandbox
+
+<details>
+  <summary>CernerService module</summary>
+</details>  
+
+Copy the CernerService module to
+```
+modules/health_quest/app/services/health_quest/cerner_service.rb
+```
+
+in the Rails console:
+
+```
+PGDService.init
+PGDService.get_patient
+```
+
+
+
+
+
+
+
 
