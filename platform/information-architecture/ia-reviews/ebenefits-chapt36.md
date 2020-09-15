@@ -1,5 +1,5 @@
 # IA Review and Recommendations
-**STATUS: IN PROGRESS**  
+**STATUS: COMPLETE**  
 
 **Team:** eBenefits
 
@@ -9,7 +9,7 @@
 
 **IA Request:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/9082
 
-**IA Completed Date:** 
+**IA Completed Date:** 9/15/2020
 
 <hr>
 
