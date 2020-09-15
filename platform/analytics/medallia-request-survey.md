@@ -14,7 +14,8 @@ Please allow 1-2 sprints for the survey to be implemented, depending on the comp
 
 We currently have one recommended survey for Veteran-facing Services: 
 
-- A blue hovering feedback button on the right hand side of your product's page
+- Floating feedback button on the right hand side of specific URLs
+- Lightbox element
 - Questions:
 1. What task were you trying to do today?
   - [Free text]
