@@ -52,13 +52,13 @@ Application | www.va.gov/careers-employment/education-and-career-counseling/appl
 
 Priority | Placement | Link to | Notes/Description
 --- | --- | --- | ---
-MUST | Ch36 PCPG page <br> https://www.va.gov/careers-employment/education-and-career-counseling/ | www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/ | Replace "Go to eBenefits to apply" button with green button that goes directly to application. 
-MUST | Dependent benefits page <br> https://www.va.gov/careers-employment/dependent-benefits/ |  www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/ | Replace "Go to eBenefits to apply" button with green button that goes directly to application. 
-MUST | Service member benefits hub page <br> https://www.va.gov/service-member-benefits/ | www.va.gov/careers-employment/education-and-career-counseling/ | Update link label and teaser for new program name.
-SHOULD | Careers and employment top nav fly-out | https://www.va.gov/careers-employment/education-and-career-counseling/ | Add a link to the PCPG static page from the top nav.  The link should be placed in the left "Get benefits" column and placed immediately after "How to apply". 
-SHOULD | Family member benefits hub page <br> https://www.va.gov/family-member-benefits/ | https://www.va.gov/careers-employment/dependent-benefits/ | Add link and teaser text to the "Benefits for spouses, dependents and survivors" section.  Place after "Education and training" option. 
-CONSIDER | Education dependent benefits page <br> https://www.va.gov/education/survivor-dependent-benefits/ | https://www.va.gov/careers-employment/dependent-benefits/ | Consider adding a link and content as a related benefit. 
-CONSIDER | CareerScope page <br> https://www.va.gov/careers-employment/careerscope-skills-assessment/ |  www.va.gov/careers-employment/education-and-career-counseling/ | Consider adding content and link for the PCPG program that links to the static content page.
+MUST | Content page for Ch36/PCPG <br> https://www.va.gov/careers-employment/education-and-career-counseling/ | www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/ | Replace "Go to eBenefits to apply" button with green button that goes directly to application. 
+MUST | Content page for Dependent benefits <br> https://www.va.gov/careers-employment/dependent-benefits/ |  www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/ | Replace "Go to eBenefits to apply" button with green button that goes directly to application. 
+MUST | Hub page - Service member benefits <br> https://www.va.gov/service-member-benefits/ | www.va.gov/careers-employment/education-and-career-counseling/ | Update link label and teaser for new program name.
+SHOULD | Top nav - Careers and employment | https://www.va.gov/careers-employment/education-and-career-counseling/ | Add a link to the PCPG static page from the top nav.  The link should be placed in the left "Get benefits" column and placed immediately after "How to apply". 
+SHOULD | Hub page - Family member benefits <br> https://www.va.gov/family-member-benefits/ | https://www.va.gov/careers-employment/dependent-benefits/ | Add link and teaser text to the "Benefits for spouses, dependents and survivors" section.  Place after "Education and training" option. 
+CONSIDER | Content page for Education dependent benefits <br> https://www.va.gov/education/survivor-dependent-benefits/ | https://www.va.gov/careers-employment/dependent-benefits/ | Consider adding a link and content as a related benefit. 
+CONSIDER | Content page for CareerScope <br> https://www.va.gov/careers-employment/careerscope-skills-assessment/ |  www.va.gov/careers-employment/education-and-career-counseling/ | Consider adding content and link for the PCPG program that links to the static content page.
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
