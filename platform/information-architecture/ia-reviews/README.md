@@ -12,11 +12,8 @@ Orchid | IRIS Migration | NOT STARTED |Design intent held 8/18 <br> https://gith
 BAM2 | Apply Wizards | NOT STARTED | Kick-off held 8/7 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-apply-wizard.md
 CTO | COVID-19 Research/Trials | DRAFT COMPLETE  | IA Request not created yet <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/cto-covid-trials.md
 Health care Exp | Questionnaires | NOT STARTED | Usability testing prep held 8/6 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/healthcare-questionaires.md
-BAH | GIBCT Search & Filters | IN PROGRESS | Usability prep 8/4 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-gibct-search-filter
-BAH | School ratings | NOT STARTED | Design Intent held 7/16<br>https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-school-ratings.md
 Public Websites | Learning Center | NOT STARTED | No kick-off, Design intent collab held 7/10 (was not able to attend) 
 eBenefits | VRE/Chapt 31 | DRAFT COMPLETE | Kick-off 5/8 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-chapt31.md
-eBenefits | PCPG/Chapt 36 Career Counseling | DRAFT COMPLETE | Kick-off held 4/10 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-chapt36.md
 eBenefits | Representatives/POA | NOT STARTED | Kick-off held 3/24 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-representative.md
 BAM 2 | Debt Letters | DRAFT COMPLETE | IA for initial phase complete, will need review for second phase <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-debt-letters.md
 
@@ -28,6 +25,9 @@ BAM 2 | Debt Letters | DRAFT COMPLETE | IA for initial phase complete, will need
 
 Team | Project | Review Status | IA Documentation 
 --- | --- | --- | --- 
+eBenefits | PCPG/Chapt 36 Career Counseling | COMPLETE 09/15/2020 | Kick-off held 4/10 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-chapt36.md
+BAH | GIBCT Search & Filters | COMPLETE | No core IA work needed <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-gibct-search-filter.md
+BAH | School ratings | COMPLETE | No core IA work needed <br>https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-school-ratings.md
 BAH | STEM Scholarship App | COMPLETE 08/06/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-stem-app.md
 BAM 1 | Benefits Delivery at Discharge |  COMPLETE 07/14/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam-benefits-at-discharge.md
 Authenticated Experience | Profile 2.0 | COMPLETE 06/25/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/auth-exp-profile-v2.md
