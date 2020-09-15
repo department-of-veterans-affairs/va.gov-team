@@ -1,4 +1,4 @@
-# VSA Accessibility Design & Development Review Process 
+# VSA Accessibility Review Process 
 
 For reference: [508, Accessibility, and Inclusive Design Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md)
 
