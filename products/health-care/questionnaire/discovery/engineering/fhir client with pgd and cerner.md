@@ -1,7 +1,7 @@
 
 ## Using the FHIR client with PGD sandbox and Cerner sandbox
 
-This code is experimental and used for research and proof of concept using the rails console so it is described here rather than being checked in
+This code is experimental and used for research and proof of concept using the rails console so it is described here rather than being checked in. It uses the fhir client ruby gem
 
 <details>
   <summary>PGDService module</summary>
