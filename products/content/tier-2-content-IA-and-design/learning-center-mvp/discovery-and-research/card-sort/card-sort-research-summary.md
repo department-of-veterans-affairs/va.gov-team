@@ -80,15 +80,13 @@ This table outlines the audience labels we expected to be associated to each art
 | Veterans age 65+ with complex care needs | What kinds of long-term care services does VA offer?         | 17                                            |
 | Veterans age 65+ with complex care needs | What is adult day care?                                      | 17                                            |
 
-Generally, we had a high rate of agreement. 10 of the 13 articles were mapped to our proposed audience label by 31 or more participants. 
+Generally, we had a high rate of agreement. 10 of the 13 articles were mapped to our proposed audience label by 31 or more participants. The audience label `Veterans age 65+ with complex care needs` had the lowest rate of agreement.  Only 17 participants matched the articles we expected with that audience label.  The remaining participants placed these articles under other audience labels that we didn't expect:
 
-The audience label `Veterans age 65+ with complex care needs` had the lowest percent of agreement. Only 17 participants put the articles we expected into that category.  The remaining participants placed these articles under other audience labels that we didn't expect:
-
-- The article `What kinds of long-term care services does VA offer?` was categorized under:
+- The article `What kinds of long-term care services does VA offer?` was placed under:
   - Family members and caregivers (11)
   - All Veterans (9)
   - LGBTQ Veterans (2)
-- The article `What is adult day care?` was categorized under:
+- The article `What is adult day care?` was placed under:
   - Family members and caregivers 20)
   - All Veterans (2)
 
@@ -97,16 +95,16 @@ Participants added these unexpected articles into `Veterans age 65+ with complex
 - What is a “protected” pension? (5)
 - Forms for filing a life insurance claim for your deceased Veteran (3)
 - Presumptive Gulf War diseases ( 1)
-- What VA family member benefits are my same-sex spouse eligible for? ( 1)
+- What VA family member benefits are my same-sex spouse eligible for? (1)
 
-The `Family members and caregivers` audience category also performed lower than others, with 23 participants matching the article we expected to this category.  The article `Forms for filing a life insurance claim for your deceased Veteran`, was also placed into these categories:
+The `Family members and caregivers` audience label performed lower than most, with 23 participants matching the article we expected (`Forms for filing a life insurance claim for your deceased Veteran`) to this audience.  That article was also matched with these audiences :
 
 - All Veterans (11)
 - Veterans age 65+ with complex care needs (3)
 - Gulf War Veterans (1)
 - Claims (1, this was a participant created category)
 
-Participants added these unexpected articles into the `Family members and caregivers` audience category:
+The `Family members and caregivers` audience label also had these unexpected articles matched to it:
 
 - What is adult day care? (20)
 - What kinds of long-term care services does VA offer? (11)
