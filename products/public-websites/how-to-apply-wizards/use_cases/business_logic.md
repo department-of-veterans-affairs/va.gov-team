@@ -1,7 +1,7 @@
 ## Use Cases/Business Logic for Wizards
 
 
-### For all Wizards
+## For all Wizards
 
 1. Will feature a user function to "start over" the Wizard which manually clears the session data
 2. 
