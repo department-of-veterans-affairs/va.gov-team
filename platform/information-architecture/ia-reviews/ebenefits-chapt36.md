@@ -52,13 +52,16 @@ Application | www.va.gov/careers-employment/education-and-career-counseling/appl
 
 Priority | Placement | Link to | Notes/Description
 --- | --- | --- | ---
-MUST | Content page for Ch36/PCPG <br> https://www.va.gov/careers-employment/education-and-career-counseling/ | www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/ | Replace "Go to eBenefits to apply" button with green button that goes directly to application. 
-MUST | Content page for Dependent benefits <br> https://www.va.gov/careers-employment/dependent-benefits/ |  www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/ | Replace "Go to eBenefits to apply" button with green button that goes directly to application. 
+MUST | Top nav - Careers and employment | https://www.va.gov/careers-employment/education-and-career-counseling/ | Add a link to the PCPG static page from the top nav.  The link should be placed in the left "Get benefits" column and placed immediately after "How to apply". 
+MUST | Hub page - Careers and employment <br> https://www.va.gov/careers-employment/ | www.va.gov/careers-employment/education-and-career-counseling/ | Update link label and teaser for new program name.
 MUST | Hub page - Service member benefits <br> https://www.va.gov/service-member-benefits/ | www.va.gov/careers-employment/education-and-career-counseling/ | Update link label and teaser for new program name.
-SHOULD | Top nav - Careers and employment | https://www.va.gov/careers-employment/education-and-career-counseling/ | Add a link to the PCPG static page from the top nav.  The link should be placed in the left "Get benefits" column and placed immediately after "How to apply". 
 SHOULD | Hub page - Family member benefits <br> https://www.va.gov/family-member-benefits/ | https://www.va.gov/careers-employment/dependent-benefits/ | Add link and teaser text to the "Benefits for spouses, dependents and survivors" section.  Place after "Education and training" option. 
-CONSIDER | Content page for Education dependent benefits <br> https://www.va.gov/education/survivor-dependent-benefits/ | https://www.va.gov/careers-employment/dependent-benefits/ | Consider adding a link and content as a related benefit. 
-CONSIDER | Content page for CareerScope <br> https://www.va.gov/careers-employment/careerscope-skills-assessment/ |  www.va.gov/careers-employment/education-and-career-counseling/ | Consider adding content and link for the PCPG program that links to the static content page.
+MUST | Left nav - Careers and employment <br> https://www.va.gov/careers-employment/ | www.va.gov/careers-employment/education-and-career-counseling/ | Update link label for new program name.
+MUST | Left nav - Careers and employment <br> https://www.va.gov/careers-employment/ | www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/ | Add link to left nav to "Apply now".  The link will be a child of the Career planning and guidance option. 
+MUST | Content page - Ch36/PCPG <br> https://www.va.gov/careers-employment/education-and-career-counseling/ | www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/ | Replace "Go to eBenefits to apply" button with green button that goes directly to application. 
+MUST | Content page - Dependent benefits <br> https://www.va.gov/careers-employment/dependent-benefits/ |  www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/ | Replace "Go to eBenefits to apply" button with green button that goes directly to application. 
+CONSIDER | Content page - Education dependent benefits <br> https://www.va.gov/education/survivor-dependent-benefits/ | https://www.va.gov/careers-employment/dependent-benefits/ | Consider adding a link and content as a related benefit to the dependents version of the PCPG page. 
+CONSIDER | Content page - CareerScope <br> https://www.va.gov/careers-employment/careerscope-skills-assessment/ |  www.va.gov/careers-employment/education-and-career-counseling/ | Consider adding content and link for the PCPG program that links to the static content page.
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
