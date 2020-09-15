@@ -281,7 +281,7 @@ modules/health_quest/app/services/health_quest/pgd_service.rb
 
 in the Rails console this command will set up the fhir client to connect with the PGD sandbox with the proper headers, although there is no data currently in the sandbox:
 ```
-PGDService.init_pgd
+HealthQuest::PGDService.init_pgd
 ```
 
 ---
@@ -290,6 +290,60 @@ PGDService.init_pgd
 
 <details>
   <summary>CernerService module</summary>
+```
+  
+module HealthQuest
+  class CernerService < HealthQuest::SessionService
+
+    def self.print_patient
+       puts @patient['name'].inspect
+       puts @patient['resourceType']
+       puts @patient['gender']
+       puts @patient['address'].inspect
+    end
+
+    def self.init
+      url = "https://fhir-open.cerner.com/r4/ec2458f2-1e24-41c8-b71b-0e701af7583d"
+      @client = FHIR::Client.new(url)
+      @client.additional_headers = {Accept: "application/json+fhir"}
+      FHIR::Model.client = @client
+    end
+
+    def self.get_patient(id=nil)
+      pid = id || '12507979'
+      puts 'GET'
+      @patient = FHIR::Patient.read(pid).to_hash
+      puts 'GOT'
+      print_patient
+    end
+
+    def self.patient_search(params)
+       puts 'params:' + params.inspect
+       # reply = @client.search(FHIR::Patient, search: {parameters: {family: 'Smith'}})
+       reply = @client.search(FHIR::Patient, search: {parameters: params})
+       rec = JSON.parse reply.to_hash['response'][:body]
+       resource = rec['entry'].first
+       puts resource['fullUrl']
+       puts 'total results:' + rec['entry'].count.to_s
+       @patient = resource['resource']
+       puts 'displaying first result'
+       print_patient 
+    end
+
+    def self.get_bundle
+      reply = @client.read_feed(FHIR::Patient) # fetch Bundle of Patients
+      bundle = reply.resource
+      bundle.entry.each do |entry|
+        patient = entry.resource
+        puts patient.name[0].text
+      end
+      puts reply.code # HTTP 200 (or whatever was returned)
+      puts reply.body # Raw XML or JSON
+    end  
+  end
+end
+    
+```  
 </details>  
 
 Copy the CernerService module to
@@ -300,8 +354,17 @@ modules/health_quest/app/services/health_quest/cerner_service.rb
 in the Rails console:
 
 ```
-PGDService.init
-PGDService.get_patient
+HealthQuest::CernerService.init
+```
+
+After initializing the service as above then these commands will work
+
+```
+HealthQuest::CernerService.get_patient('12507979')
+```
+
+```
+HealthQuest::CernerService.patient_search({family: 'Smith'})
 ```
 
 
