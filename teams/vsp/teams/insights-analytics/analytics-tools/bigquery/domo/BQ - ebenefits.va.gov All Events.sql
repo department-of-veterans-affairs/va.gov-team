@@ -1,10 +1,10 @@
 /***************************************************************************************************
- Name:               BQ - ebenefits.va.gov All Events
- URL:                https://va-gov.domo.com/...
- Create Date:        2020-09-07
- Author:             Brian Martin
- Description:        This returns daily total and unique events for all events  on pages
-                     that start with 'ebenefits.va.gov'.
+Name:               BQ - ebenefits.va.gov All Events
+URL:                https://va-gov.domo.com/datasources/2d9510d2-ad65-4fe5-b10a-1d93f664a23e/details/overview
+Create Date:        2020-09-07
+Author:             Brian Martin
+Description:        This returns daily total and unique events for all events on pages that start with 
+                    'ebenefits.va.gov' or 'eauth.va.gov'
  /***************************************************************************************************/
  #standardSQL
 SELECT

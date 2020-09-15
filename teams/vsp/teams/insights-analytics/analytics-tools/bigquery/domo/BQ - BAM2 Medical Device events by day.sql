@@ -1,9 +1,9 @@
 /***************************************************************************************************
- Name:               BQ - BAM2 Medical Device events by day.sql
- URL:                https://va-gov.domo.com/datasources/81789f8b-0eda-4405-ac85-60444af53d10/details/overview
- Create Date:        2020-09-01
- Author:             Brian Martin
- Description:        This returns daily total and unique events for all event labels with a previs of 'bam-' 
+Name:               BQ - BAM2 Medical Device events by day.sql
+URL:                https://va-gov.domo.com/datasources/81789f8b-0eda-4405-ac85-60444af53d10/details/overview
+Create Date:        2020-09-01
+Author:             Brian Martin
+Description:        This returns daily total and unique events for all event labels with a previs of 'bam-' 
                     or login-successful on pages that start with
                     'www.va.gov/health-care/order-hearing-aid-batteries-and-accessories'. It also returns
                     browser and device category.                   

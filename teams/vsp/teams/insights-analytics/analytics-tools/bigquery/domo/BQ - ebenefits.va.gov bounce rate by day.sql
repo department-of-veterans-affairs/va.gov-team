@@ -1,9 +1,9 @@
 /***************************************************************************************************
- Name:               BQ - ebenefits.va.gov bounce rate by day
- URL:                
- Create Date:        2020-09-07
- Author:             Brian Martin
- Description:        This returns daily bounce rate for ebenefits pages.
+Name:               BQ - ebenefits.va.gov bounce rate by day
+URL:                https://va-gov.domo.com/datasources/d2c3d6b2-e185-4be8-b4f6-0f6877a2fa56/details/overview
+Create Date:        2020-09-07
+Author:             Brian Martin
+Description:        This returns daily bounce rate for ebenefits pages.
  /***************************************************************************************************/
 SELECT
     -- date (dimension)

@@ -3,7 +3,8 @@ Name:               BQ - VAOS users and sessions by day
 URL:                https://va-gov.domo.com/datasources/90ecc7a5-33a0-477d-a02f-eeb8d69c5d19/details/overview
 Create Date:        2020-09-07
 Author:             Brian Martin
-Description:        This returns daily...
+Description:        This returns daily user and session counts for sessions with a visit to 
+                    www.va.gov/health-care/schedule-view-va-appointments/appointments/
 /***************************************************************************************************/
 SELECT
     -- date (dimension)

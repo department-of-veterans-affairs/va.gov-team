@@ -4,7 +4,7 @@ URL:
 Create Date:        2020-09-04
 Author:             Jon Wehausen
 Description:        This returns daily totals for sessions, users (DON'T ADD JUST ADD TOGETHER!  USE A MONTHLY QUERY!),
-                    pageviews, and bounces.
+                    pageviews, unique pageviews and bounces for BAM2 / Medical Device pages
 /***************************************************************************************************/
 SELECT
     -- date (dimension)
@@ -50,7 +50,7 @@ FROM (
     WHERE
         _TABLE_SUFFIX = FORMAT_DATE('%Y%m%d',DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY))
         AND totals.visits = 1
-        AND REGEXP_CONTAINS(hits.page.pagePath, r"^/health-care/order-hearing-aid-batteries-and-accessories.*$")
+        AND REGEXP_CONTAINS(hits.page.pagePath, r"^www.va.gov/health-care/order-hearing-aid-batteries-and-accessories.*$")
     GROUP BY
         1, 2, 3, 4, 5, 6, 7, 8
 )

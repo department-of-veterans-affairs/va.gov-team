@@ -3,7 +3,8 @@ Name:               BQ - Modernized - PVs, Sessions, Users, Bounces by Day
 URL:                https://va-gov.domo.com/datasources/179e5ca8-ccb0-4ba1-af00-d95fde98bb29/details/overview
 Create Date:        2020-09-13
 Author:             Brian Martin
-Description:        This returns...
+Description:        This returns daily pageview, sessions, users, and bounces for pages with Modernized CD set to
+                    True and on the www.va.gov domain.
 /***************************************************************************************************/
 #standardSQL
 WITH sessions AS (

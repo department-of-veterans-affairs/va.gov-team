@@ -3,7 +3,8 @@ Name:               BQ - Login Events by day
 URL:                https://va-gov.domo.com/datasources/9fd960c4-fabf-46fe-98bb-9be6d532c14f/details/overview
 Create Date:        2020-08-12
 Author:             Jon Wehausen
-Description:        This returns daily...
+Description:        This returns daily total and unique events that have an event label that start with
+                    "label-"
 /***************************************************************************************************/
 #standardSQL
 SELECT

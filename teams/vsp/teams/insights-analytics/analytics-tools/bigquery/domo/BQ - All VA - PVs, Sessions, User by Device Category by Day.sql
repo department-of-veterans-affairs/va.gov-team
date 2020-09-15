@@ -3,7 +3,7 @@ Name:               BQ - All VA - PVs, Sessions, User by Device Category by Day
 URL:                https://va-gov.domo.com/datasources/e4aa11d0-f99c-4cb7-b941-eee6feba72fc/details/overview
 Create Date:        2020-08-18
 Author:             Jon Wehausen
-Description:        This returns daily totals for sessions, users (DON'T ADD JUST ADD TOGETHER!  USE A MONTHLY QUERY!),
+Description:        This returns daily totals for sessions, users (DON'T ADD JUST ADD TOGETHER!  USE THE MONTHLY QUERY!),
                     pageviews, and bounces.
 /***************************************************************************************************/
 SELECT

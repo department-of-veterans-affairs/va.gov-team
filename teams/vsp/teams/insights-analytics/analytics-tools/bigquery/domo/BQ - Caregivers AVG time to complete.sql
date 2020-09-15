@@ -1,9 +1,11 @@
 /***************************************************************************************************
 Name:               BQ - Caregivers 10-10cg AVG time to complete
-URL:                https://...
+URL:                https://va-gov.domo.com/datasources/5d56f3db-f5d0-4bea-a931-1fe21340eae7/details/overview
 Create Date:        2020-09-14
 Author:             Brian Martin
-Description:        This returns daily...
+Description:        This computes an average time (in seconds) between the beginning of the Caregivers
+                    10-10cg form and a successful submission.  Change the MAX/MIN to select the earliest
+                    or latest event.
 /***************************************************************************************************/
 WITH sessions AS (
     SELECT

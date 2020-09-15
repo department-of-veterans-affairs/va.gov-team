@@ -1,10 +1,10 @@
 /***************************************************************************************************
- Name:               BQ - COVID Chatbot Outbound Link and Resource Link Clicks by Day
- URL:                https://va-gov.domo.com/...
- Create Date:        2020-09-13
- Author:             Brian Martin
- Description:        This returns daily total and unique events for all event labels with a prefix of 'vaos-' on pages
-                     that start with 'www.va.gov'.
+Name:               BQ - COVID Chatbot Outbound Link and Resource Link Clicks by Day
+URL:                https://va-gov.domo.com/datasources/af1b6c44-8bbb-42c4-8a51-3fd656dfe647/details/overview
+Create Date:        2020-09-13
+Author:             Brian Martin
+Description:        This returns daily total and unique events for all event actions that contain
+                    "Chatbot - COVID - Resource Link" or "Outbound Link" and on the COVID chatbot page.
  /***************************************************************************************************/
  #standardSQL
 SELECT

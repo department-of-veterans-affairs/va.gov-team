@@ -3,7 +3,8 @@ Name:               BQ - COVID Chatbot Users with Telephone Events
 URL:                https://va-gov.domo.com/datasources/e53e9442-e9fa-4bab-8d0e-a1c3bf979cc1/details/overview
 Create Date:        2020-09-13
 Author:             Brian Martin
-Description:        This returns...
+Description:        This is a funnel seeing how many sessions or users - when shown a COVID chatbot response
+                    that includes a telephone link, click that link.
 /***************************************************************************************************/
 WITH ga AS (
     SELECT

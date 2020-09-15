@@ -3,7 +3,8 @@ Name:               BQ - COVID Pages - Pageviews, Users, Sessions
 URL:                https://va-gov.domo.com/datasources/6fca6029-6e53-4a81-90f4-501cb65a41f9/details/overview
 Create Date:        2020-07-29
 Author:             Jon Wehausen
-Description:        This returns daily...
+Description:        This returns daily pageview, users, and sessions for all pages with COVID or coronavirus in the 
+                    URL.
 /***************************************************************************************************/
 SELECT
     date,

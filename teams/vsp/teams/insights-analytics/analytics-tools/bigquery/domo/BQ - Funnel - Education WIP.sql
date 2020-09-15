@@ -1,10 +1,9 @@
 /***************************************************************************************************
-Name:               BQ - BAM2 Medical Device pageviews, users 
+Name:               BQ - Funnel - Education WIP
 URL:                
 Create Date:        2020-09-04
 Author:             Jon Wehausen
-Description:        This returns daily totals for sessions, users (DON'T ADD JUST ADD TOGETHER!  USE A MONTHLY QUERY!),
-                    pageviews, and bounces.
+Description:        This returns...
 /***************************************************************************************************/
 SELECT
     -- date (dimension)

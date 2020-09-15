@@ -1,10 +1,9 @@
 /***************************************************************************************************
 Name:               BQ - ebenefits.va.gov Top Pages
-URL:                
+URL:                https://va-gov.domo.com/datasources/cc298ccd-abe5-40cd-b0af-15724c7ca337/details/overview
 Create Date:        2020-09-07
 Author:             Brian Martin
-Description:        This returns daily totals for sessions, users (DON'T ADD JUST ADD TOGETHER!  USE A MONTHLY QUERY!),
-                    pageviews, and bounces.
+Description:        This returns daily totals for pageviews and unique pageviews for eBenefits pages/
 /***************************************************************************************************/
 SELECT
     -- date (dimension)

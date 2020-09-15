@@ -1,9 +1,10 @@
 /***************************************************************************************************
- Name:               BQ - All VA - PVs, Sessions, Users, Bounces by Month
- URL:                https://va-gov.domo.com/datasources/b9b232d0-0a8f-45cb-a1c4-a828418cd261/details/overview
- Create Date:        2020-08-25
- Author:             Brian Martin
- Description:        This returns monthly totals for sessions, users, paseviews, and bounces for the entire previous month.
+Name:               BQ - All VA - PVs, Sessions, Users, Bounces by Month
+URL:                https://va-gov.domo.com/datasources/b9b232d0-0a8f-45cb-a1c4-a828418cd261/details/overview
+Create Date:        2020-08-25
+Author:             Brian Martin
+Description:        This returns monthly totals for sessions, users, paseviews, and bounces for the entire previous month
+                    for ALL va.gov domains.
  /***************************************************************************************************/
 #standardSQL
 SELECT

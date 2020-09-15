@@ -1,9 +1,9 @@
 /***************************************************************************************************
 Name:               BQ - COVID Chatbot Source/Medium by Day
-URL:                
+URL:                https://va-gov.domo.com/datasources/305b4a4e-bdcb-4b6b-917c-a5a69ed41fb1/details/overview
 Create Date:        2020-09-12
 Author:             Brian Martin
-Description:        This returns the previous page path for all /profile pages. 
+Description:        This returns daily source/medium and user counts for COVID chatbot pages.
 /***************************************************************************************************/
 SELECT
     date,

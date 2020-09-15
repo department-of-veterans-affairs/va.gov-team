@@ -1,9 +1,10 @@
 /***************************************************************************************************
- Name:               BQ - Funnel - 
- URL:                https://va-gov.domo.com/datasources/1fa1740b-1204-4aa5-a49f-c0c895ed2e5e/details/overview
- Create Date:        2020-09-01
- Author:             Brian Martin
- Description:        This...             
+Name:               BQ - Funnel - BAM2 Medical Device conversion rate by device, browser
+URL:                https://va-gov.domo.com/datasources/1fa1740b-1204-4aa5-a49f-c0c895ed2e5e/details/overview
+Create Date:        2020-09-01
+Author:             Brian Martin
+Description:        This returns daily the conversion rate for the BAM2 / medical device form for users WITHOUT
+                    both ineligibility events.          
  /***************************************************************************************************/
 #standardSQL
 WITH ga AS (

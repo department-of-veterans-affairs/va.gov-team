@@ -1,9 +1,10 @@
 /***************************************************************************************************
 Name:               BQ - Claims Events by day
-URL:                
+URL:                https://va-gov.domo.com/datasources/a8be940b-5929-46e6-874b-0ed0c77c016b/details/overview
 Create Date:        2020-09-11
 Author:             Brian Martin
-Description:        This returns daily...
+Description:        This returns daily total and unique events for events that have an event action
+                    starts with "Claims -".
 /***************************************************************************************************/
 #standardSQL
 SELECT

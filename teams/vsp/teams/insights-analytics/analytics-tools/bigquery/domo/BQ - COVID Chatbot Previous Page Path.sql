@@ -3,7 +3,7 @@ Name:               BQ - COVID Chatbot Previous Page Path
 URL:                https://va-gov.domo.com/datasources/2f353d70-3187-4a2e-89c6-da98509691e8/details/overview
 Create Date:        2020-09-12
 Author:             Brian Martin
-Description:        This returns the previous page path for all /profile pages. 
+Description:        This returns the previous page path for all COVID chatbot pages.
 /***************************************************************************************************/
 SELECT
     date,

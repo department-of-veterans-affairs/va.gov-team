@@ -1,5 +1,5 @@
 /***************************************************************************************************
-Name:               BQ - Login Events by day
+Name:               BQ - COVID - Tool usage by week
 URL:                
 Create Date:        2020-08-12
 Author:             Jon Wehausen
