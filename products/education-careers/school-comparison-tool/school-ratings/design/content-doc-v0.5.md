@@ -129,13 +129,19 @@ The school provides clear and detailed explanations of admissions requirements, 
 
 ### About ratings 
 
-We ask Veterans to rate schools they’ve attended on a scale of 1-5 stars, with 5 being the best rating.  
+We ask Veterans who have used their education benefits to rate schools they’ve attended on a scale of 1 to 5 stars, with 5 stars being the best rating. 
 
 #### How ratings are collected
 
-We reach out to Veterans who’ve received a Certificate of Eligibility (COE) for benefits, when they transfer into or out of a school, or when they graduate to provide a rating.
+VA works independently to collect ratings from Veterans. We reach out to Veterans to provide a rating who have:
+- Received a Certificate of Eligibility (COE) for benefits
+- Transferred into or out of a school 
+- Made a change to their program of study, **or**
+- Completed their degree program 
+
+Veterans rate schools on a number of categories. Those ratings are averaged to calculate the overall school rating. If a Veteran doesn’t rate a category, it has no effect on the category’s overall score. 
 
 #### Veteran privacy
 
-If a school asks us which Veterans rated their school, we'll provide a list of all individuals who've submitted ratings for that school.  However, those ratings won't be tied to the Veteran and we won’t share the individual ratings the students provided.
+A school may ask us for a list of Veterans who rated their school, but we do not share individual ratings with schools. If an institution asks us for information on who rated their school, no information beyond what is publicly available on the Comparison Tool is shared with them that would tie an individual to their ratings.
 
