@@ -10,8 +10,8 @@ As of 9/14/20, VSP is in the process of rolling out Pact to VFS teams. If you ar
 --- 
 
 ## Documentation
-* [Using Pact for contract testing on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/testing/integration-testing/how-to-use-pact-for-integration-testing.md)
-* [VSP’s contract testing policy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/testing/integration-testing/how-to-use-pact-for-integration-testing.md#requirements)
+* [Using Pact for contract testing on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/testing/contract-testing/how-to-use-pact-for-contract-testing.md)
+* [VSP’s contract testing policy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/testing/contract-testing/how-to-use-pact-for-contract-testing.md#requirements)
 * [Pact product documentation](https://docs.pact.io/)
 * [Pact broker dashboard](https://vagov-pact-broker.herokuapp.com/)
 
