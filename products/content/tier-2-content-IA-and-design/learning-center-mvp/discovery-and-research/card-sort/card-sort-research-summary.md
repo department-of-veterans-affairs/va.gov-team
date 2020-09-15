@@ -54,9 +54,7 @@ The links below will take you to raw results in Optimal Workshop for each sort. 
 
 ## How we evaluated the card sort
 
-To complete once synthesis is done.
-
-
+To complete once synthesis is futher along.
 
 ## Audience labels
 
@@ -80,7 +78,13 @@ This table outlines the audience labels we expected to be associated to each art
 | Veterans age 65+ with complex care needs | What kinds of long-term care services does VA offer?         | 17                                            |
 | Veterans age 65+ with complex care needs | What is adult day care?                                      | 17                                            |
 
-Generally, we had a high rate of agreement. 10 of the 13 articles were mapped to our proposed audience label by 31 or more participants. The audience label `Veterans age 65+ with complex care needs` had the lowest rate of agreement.  Only 17 participants matched the articles we expected with that audience label.  The remaining participants placed these articles under other audience labels that we didn't expect:
+#### Participants mapped the majority of articles to audience labels the way we expected.
+
+10 of the 13 articles were mapped to our proposed audience label by 31 (79%)  or more participants. The audience labels `Incarcerated Veterans`, `Women Veterans`, and `Native American Veterans` had the highest rate of agreement.
+
+#### The audience label `Veterans age 65+ with complex care needs` had the lowest rate of agreement.
+
+Only 17 participants matched the articles we expected with that audience label.  The remaining participants placed these articles under other audience labels that we didn't expect:
 
 - The article `What kinds of long-term care services does VA offer?` was placed under:
   - Family members and caregivers (11)
@@ -90,14 +94,20 @@ Generally, we had a high rate of agreement. 10 of the 13 articles were mapped to
   - Family members and caregivers 20)
   - All Veterans (2)
 
-Participants added these unexpected articles into `Veterans age 65+ with complex care needs`:
+Participants added other articles were placed into this category that suggest the participant was focusing on the `65+` or the `complex care` part of the label, rather than putting the two together:
 
 - What is a “protected” pension? (5)
 - Forms for filing a life insurance claim for your deceased Veteran (3)
-- Presumptive Gulf War diseases ( 1)
+- Presumptive Gulf War diseases (1)
 - What VA family member benefits are my same-sex spouse eligible for? (1)
 
-The `Family members and caregivers` audience label performed lower than most, with 23 participants matching the article we expected (`Forms for filing a life insurance claim for your deceased Veteran`) to this audience.  That article was also matched with these audiences :
+**Takeaway**
+
+Filling it in...
+
+#### The `Family members and caregivers` audience label also performed lower than most other audience categories. 
+
+23 of 39 participants matched this audience to the article we expected (`Forms for filing a life insurance claim for your deceased Veteran`).  The remaining participants matched this article to these audiences:
 
 - All Veterans (11)
 - Veterans age 65+ with complex care needs (3)
@@ -112,22 +122,21 @@ The `Family members and caregivers` audience label also had these unexpected art
 - How do I verify my school enrollment? (2)
 - What is a “protected” pension? (2)
 
-#### Takeaways from Veteran participants
+**Takeaway**
 
-- 
-- 
+Fill it in.....
 
 ### SME / content author participants
 
 Data
 
-#### Takeaways from SME participants
+### What does the combined data suggest?
 
 - 
 
 - 
 
-### Takeaways from combined audience card sorts
+## 
 
 ## Other categories we saw
 
