@@ -177,12 +177,27 @@ As a Yellow Ribbon data producer, I want to submit timely up-to-date Yellow Ribb
 ### KPIs
 **Experience**
 - % exit to university pages
-- % exit to 
+- % exit to other VA.gov links
+  - Find out if you qualify for the Yellow Ribbon Program
+  - Find out if you're eligible for the Post-9/11 GI Bill
+  - Apply for Post-9/11 GI Bill benefits
 - Avg. number of search refinements
 - Frequency of search criteria usage
 
 **Outcomes**
--  % of Post-911 GI Bill benefit applications started in session with a a visit to YR
+- % of Post-911 GI Bill benefit applications started in session with a visit to YR
+- % of sessions with successful logins following a visit to YR
+- % of sessions with success account creations following a visit to YR
+
+**Consider for a DOMO Dashboard**
+
+Over time...
+- % exit to university pages
+- % exit to other VA.gov links
+- Frequency of search criteria usage
+- % of Post-911 GI Bill benefit applications started in session with a visit to YR
+- % of sessions with successful logins following a visit to YR
+- % of sessions with success account creations following a visit to YR
 
 ### OKRs
 
