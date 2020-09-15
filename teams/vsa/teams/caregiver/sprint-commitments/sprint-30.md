@@ -4,6 +4,8 @@
 - [ ] [Front end updates based on initial `stakeholder` feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12806)
 - [ ] [Front end updates needed for 10/1](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13430)
 - [ ] [Require unique SSNs for each applicant](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13432)
+- *New* [Remove SSN requirement for any caregivers](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13576)
+
 
 
 ## Backend
@@ -18,6 +20,7 @@
      - [ ] [Add Alerts on Submission Failure](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6703)
 - [ ] (Not Kevin) [Track bounced 10-10cg applications in Google Analytics](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12089)
 - [ ] (Not Kevin) [Facility name changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13096)
+- *New* [Remove SSN requirement for any caregivers](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13574)
 
 ## Design/Product/Content
 - [ ] [Support stakeholder feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12806))
