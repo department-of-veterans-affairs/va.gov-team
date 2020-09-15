@@ -4,8 +4,6 @@ For reference: [508, Accessibility, and Inclusive Design Best Practices](https:/
 
 <hr>
 
-## Notice: ~~this document is outdated~~ Will be used, again
-
 **Please note:** 
 VSP just rolled out the [VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle) for medium-to-large projects. For small-to-medium projects, it is still necessary to contact them in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) to determine which steps of the cycle are appropriate. 
 
