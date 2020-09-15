@@ -21,15 +21,15 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 | Apply for VRE CH31 (1900)                           | vsa-ebenefits | Q3        | Q3        | Q3        | Q1 FY2021 | New VRE (CMS) integration required; project Dec 2020 MVP launch for program alignment
 | Update Direct Deposit (EDU)                         | vsa-ebenefits | Q1 FY2021 | --        | --        | Q1 FY2021 | BGS Integration
 | View My Documents (eFolder)                         | vsa-bam-2     | Q3        | Q3        | Q4        | Q4        | VBMS integration, filtering only to my uploads/ my POA uploads
-| View POA (Representative)                           | vsa-ebenefits | Q3        | Q3        | Q4        | Q1 FY2021 | Lighthouse integration (BGS), launch with Modify
-| Search for POA                                      | vsa-ebenefits | Q3        | Q3        | Q4        | Q1 FY2021 | OGC System integration, launch with Modify
-| Modify POA (22/ 22a)                                | vsa-ebenefits | Q3        | Q3        | Q4        | Q1 FY2021 | Lighthouse integration (BGS)
+| View POA (Representative)                           | vsa-ebenefits | Q3        | Q3        | Q1 FY2021 | Q2 FY2021 | Lighthouse integration (BGS), launch with Modify
+| Search for POA                                      | vsa-ebenefits | Q3        | Q3        | Q1 FY2021 | Q2 FY2021 | OGC System integration, launch with Modify
+| Modify POA (22/ 22a)                                | vsa-ebenefits | Q3        | Q3        | Q1 FY2021 | Q2 FY2021 | Lighthouse integration (BGS)
 | Order Hearing Aid Batteries (2346)                  | vsa-bam-2     | Q2        | Q2        | Q2        | Q4        | **(COMPELETE 07202020)**
 | Order Prosthetic Socks (2345)                       | vsa-bam-2     | Q2        | Q2        | Q2        | Q4        | **(COMPELETE 07202020)** Depreceated with launch of Hearing Aids
-| Calculate Home Loan Benefit                         | vsa-ebenefits | Q1 FY2021 | Q1 FY2021 | Q1 FY2021 | Q1 FY2021 | Requires Discovery, possible new LGY integration required
-| Apply for Certificate of Eligibility (1880)         | vsa-ebenefits | Q1 FY2021 | Q1 FY2021 | Q1 FY2021 | Q1 FY2021 | Requires Discovery, possible new LGY integration required
-| View Specially Adapted Housing Grant Status         | vsa-ebenefits | Q1 FY2021 | Q1 FY2021 | Q1 FY2021 | Q1 FY2021 | Requires Discovery, possible new LGY integration required
-| Apply for Specially Adapted Housing Grant (4555)    | vsa-ebenefits | Q1 FY2021 | Q1 FY2021 | Q1 FY2021 | Q1 FY2021 | Requires Discovery, possible new LGY integration required
+| Calculate Home Loan Benefit                         | vsa-ebenefits | Q1 FY2021 | Q2 FY2021 | Q2 FY2021 | Q2 FY2021 | Requires Discovery, possible new LGY integration required
+| Apply for Certificate of Eligibility (1880)         | vsa-ebenefits | Q1 FY2021 | Q2 FY2021 | Q2 FY2021 | Q2 FY2021 | Requires Discovery, possible new LGY integration required
+| View Specially Adapted Housing Grant Status         | vsa-ebenefits | Q1 FY2021 | Q2 FY2021 | Q2 FY2021 | Q2 FY2021 | Requires Discovery, possible new LGY integration required
+| Apply for Specially Adapted Housing Grant (4555)    | vsa-ebenefits | Q1 FY2021 | Q2 FY2021 | Q2 FY2021 | Q2 FY2021 | Requires Discovery, possible new LGY integration required
 | View Dependent Benefits Letter                      | vsa-ebenefits | --        | --        | --        | --        | Requires Discovery and Documentation
 | _SEP Features Placeholder_                          | vsa-ebenefits | --        | --        | --        | --        | Requires Discovery and Documentation
 
