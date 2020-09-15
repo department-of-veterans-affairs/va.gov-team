@@ -20,7 +20,7 @@ As of 9/14/20, VSP is in the process of rolling out Pact to VFS teams. If you ar
 ## Points of contact
 For support with contract testing or Pact in particular, please reach out to Lindsey H (VSP BE Tools team) & Eugene D (VSP FE Tools team) in the #vfs-platform-support Slack channel. Please avoiding direct messaging for support. 
 
-If those contacts are unavailable, please tag the frontend and/or backend support developer in the same channel (#vfs-platform-support#).You can find out who’s on support by viewing the channel description.
+If those contacts are unavailable, please tag the frontend and/or backend support developer in the same channel (#vfs-platform-support#). You can find out who’s on support by viewing the channel description.
 
 (Points of contact last updated 9/14/20)
 
