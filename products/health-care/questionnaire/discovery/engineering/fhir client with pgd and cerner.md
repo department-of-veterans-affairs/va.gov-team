@@ -290,6 +290,7 @@ HealthQuest::PGDService.init_pgd
 
 <details>
   <summary>CernerService module</summary>
+  
 ```
   
 module HealthQuest
