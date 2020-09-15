@@ -266,8 +266,8 @@ add to Gemfile:
 gem 'fhir_client'
 ```
 
-The userService module has caching removed to work with the console
-copy the userService module to from above to replace the current one at:
+The userService module has caching removed to work with the console.
+copy the userService module code from above to replace the current one at:
 ```
 modules/health_quest/app/services/health_quest/user_service.rb
 ```
