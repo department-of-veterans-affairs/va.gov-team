@@ -164,7 +164,7 @@ As a Yellow Ribbon data producer, I want to submit timely up-to-date Yellow Ribb
 
 ## Measuring Success
 
-### KPIs
+### Analytics 
 **View: _Production - Education Modernized View_**
 
 - [Number of people visiting YR pages per month](https://analytics.google.com/analytics/web/?authuser=1#/report/content-pages/a50123418w177519031p184334251/_u.date00=20200101&_u.date01=20200914&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:~2Feducation~2Fyellow-ribbon-participating-schools~2Findex.html&explorer-graphOptions.selected=analytics.nthMonth)
@@ -173,6 +173,16 @@ As a Yellow Ribbon data producer, I want to submit timely up-to-date Yellow Ribb
 - [Yellow Ribbon Searches and Refinements](https://analytics.google.com/analytics/web/?authuser=1#/report/content-site-search-pages/a50123418w177519031p184334251/explorer-segmentExplorer.segmentId=analytics.searchKeyword&_r.drilldown=analytics.searchStartPage:~2Feducation~2Fyellow-ribbon-participating-schools~2Findex.html&explorer-table.plotKeys=%5B%5D)
 
 - [Yellow Ribbon Exit Pages](https://analytics.google.com/analytics/web/?authuser=1#/report/content-pages/a50123418w177519031p184334251/_r.drilldown=analytics.pagePath:~2Feducation~2Fyellow-ribbon-participating-schools~2Findex.html&_r.tabId=navigationsummary)
+
+### KPIs
+**Experience**
+- % exit to university pages
+- % exit to 
+- Avg. number of search refinements
+- Frequency of search criteria usage
+
+**Outcomes**
+-  % of Post-911 GI Bill benefit applications started in session with a a visit to YR
 
 ### OKRs
 
