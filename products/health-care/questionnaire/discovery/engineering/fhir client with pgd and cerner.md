@@ -3,8 +3,9 @@
 
 <details>
   <summary>PGDService module</summary>
-  ```
-  # frozen_string_literal: true
+  
+```
+# frozen_string_literal: true
 
 # other than init_pgd() to create a user session, none of the other methods
 # currently work yet as S Barrs is still working on getting the sandbox functional
@@ -126,15 +127,17 @@ module HealthQuest
   end
 end
 
-  ```
+```
   
 </details>  
 
 
 <details>
   <summary>Modified UserSession module</summary>
-  ```
-  # frozen_string_literal: true
+
+```
+
+# frozen_string_literal: true
 
 Faraday::Middleware.register_middleware health_quest_logging: HealthQuest::Middleware::HealthQuestLogging
 
