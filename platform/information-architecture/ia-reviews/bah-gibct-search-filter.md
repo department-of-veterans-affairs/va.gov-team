@@ -1,5 +1,5 @@
 # IA Review and Recommendations
-**STATUS: NOT STARTED**
+**STATUS:** No core IA work needed
 
 **Team:**  BAH
 
