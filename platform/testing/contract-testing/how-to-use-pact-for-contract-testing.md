@@ -3,7 +3,7 @@
 #### Table of contents
 - [Introduction](#introduction)
   * [Terminology](#terminology)
-  * [Requirements](#requirements)
+  * [Requirements](#requirements-draft)
   * [Process](#process)
   * [Implementation details](#implementation-details)
 - [Configuring the `vets-website` consumer codebase](#configuring-the--vets-website--consumer-codebase)
