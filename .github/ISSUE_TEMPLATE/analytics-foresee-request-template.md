@@ -1,8 +1,8 @@
 ---
-name: Analytics ForeSee Survey - Request Template
-about: To request the adding the ForeSee Survey to your product
-title: ForeSee Survey Request for [Team]
-labels: analytics-insights, analytics-request
+name: Analytics User Survey - Request Template
+about: To request the adding the Medallia Survey to your product
+title: User Survey Request for [Team]
+labels: analytics-insights, analytics-request, medallia
 assignees: joanneesteban
 
 ---
@@ -10,9 +10,9 @@ assignees: joanneesteban
 # Request the ForeSee Survey
 
 ## What this form is for
-Use this template to request adding the ForeSee Survey to your product.
+Use this template to request adding the Medallia Survey to your product.
 
-ForeSee FAQ [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/foresee-readme.md)
+Read more about Medallia [link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/medallia) & how to request a survey [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/medallia-request-survey.md)
 
 ## Description
 *Please provide the name(s) of your product and a high level description of your product.*
@@ -34,4 +34,4 @@ ForeSee FAQ [link](https://github.com/department-of-veterans-affairs/va.gov-team
 
 
 ## Acceptance Criteria
-- [ ] URLs added & QA'd with the ForeSee Comment Card
+- [ ] URLs added & QA'd with the Medallia survey
