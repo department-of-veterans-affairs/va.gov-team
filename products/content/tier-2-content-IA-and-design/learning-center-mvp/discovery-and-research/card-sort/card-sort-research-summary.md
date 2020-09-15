@@ -62,7 +62,7 @@ To complete once synthesis is done.
 
 ### Veteran participants
 
-This table outlines the audience labels we expected to be associated to each article, and the % of participants who did what we expected:
+This table outlines the audience labels we expected to be associated to each article, and the number of participants who did what we expected:
 
 | Audience (category)                      | Article (card)                                               | Number of participants who agreed (out of 39) |
 | ---------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- |
