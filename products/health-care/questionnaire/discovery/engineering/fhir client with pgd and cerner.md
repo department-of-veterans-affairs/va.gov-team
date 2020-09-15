@@ -274,7 +274,7 @@ modules/health_quest/app/services/health_quest/user_service.rb
 
 ## PGD Sandbox
 
-copy the PGDService module to:
+copy the PGDService module code from above to:
 ```
 modules/health_quest/app/services/health_quest/pgd_service.rb
 ```
@@ -346,7 +346,7 @@ end
 ```  
 </details>  
 
-Copy the CernerService module to
+Copy the CernerService module code from above to
 ```
 modules/health_quest/app/services/health_quest/cerner_service.rb
 ```
