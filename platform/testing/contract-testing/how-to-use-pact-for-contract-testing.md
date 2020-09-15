@@ -55,11 +55,11 @@ Pact enables VFS teams to test integration points with vets-api in a non-product
 
 ### Requirements (draft)
 
-VFS teams are required to use Pact for integration testing in the following scenarios: 
+VFS teams are required to use Pact for contract testing in the following scenarios: 
 
-* Any new or updated product or service that integrates with vets-api endpoints is required to use Pact integration testing
+* Any new or updated product or service that integrates with vets-api endpoints is required to use Pact
    * Any new UI on VA.gov that integrates with vets-api (whether the endpoint you are integrating with is net new or not)
-      * If your team is updating an existing UI on VA.gov, Pact integration testing is required if the changes entail calling an endpoint that the app did not previously call (new endpoints or changes to endpoints)
+      * If your team is updating an existing UI on VA.gov, Pact contract testing is required if the changes entail calling an endpoint that the app did not previously call (new endpoints or changes to endpoints)
    * Any new or updated external product or service that lives outside of the VA.gov ecosystem and integrates with vets-api endpoints (e.g. Lighthouse)
 
 To meet this requirement, your team will need to either create a Pact test or update an existing Pact test for the vets-api endpoints used. Integrations that only use vets-api as a proxy to another service are exempt from this requirement.
