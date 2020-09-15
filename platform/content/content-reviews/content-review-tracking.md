@@ -17,7 +17,7 @@ BAM 2 | Medical Device Ordering |  Staging   | https://app.zenhub.com/workspaces
 BAM 2 | Medical Device Ordering |  Staging  | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/9720 
 BAM 2 | Debt Letters | Staging | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12378 
 Caregivers | 10-10cg Form | Staging |  https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/9849 
-Clipboard | Health questionnaire | Usability prep |  https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12178 eBenefits | View Dependents tool | Staging |  https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/11615 
+Clipboard | Health questionnaire | Usability prep |  https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12178 eBenefits | View Dependents form | Staging |  https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/11615 
 eBenefits | Chapt 31 VRE | Usability prep  | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12439 <br> 
 eBenefits | Chapt 36 Career Counseling | Usability prep  | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12440  <br> 
 eBenefits | Representatives/POA | NOT STARTED | Kick-off held 3/24 <br> 
@@ -25,7 +25,9 @@ eBenefits | Payment History | Usability prep | https://app.zenhub.com/workspaces
 Thoughtworks | VA Digital Notifications | Pre-usability work for 526 email and email template | Kick-off held 5/25 ticket capturing content work: https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/10328
 Thoughtworks (Team orchid) | IRIS form | Design intent | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12628| 
 Wizard work | EDU | Staging | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12243
-Wizard work | VRE | Usability prep | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12642  
+Wizard work | VRE | Usability prep | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12642 
+Wizard work | Disability | Usability prep | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12248 
+Wizard work | HLR | Not started | 
 
 
 
