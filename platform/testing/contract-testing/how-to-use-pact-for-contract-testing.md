@@ -37,11 +37,11 @@
         
 ## Introduction
 
-Pact is a tool that enables consumer driven contract testing (CDCT) by defining a contract between service consumers and providers (e.g.  `vets-website`  and  `vets-api`).
+Pact is a tool that enables consumer driven contract testing (CDCT) by defining a contract between service consumers and providers (e.g.  `vets-website`  and  `vets-api`). As explained by Pact, “Contract testing is a technique for testing an integration point by checking each application in isolation to ensure the messages it sends or receives conform to a shared understanding that is documented in a 'contract'.“
 
 Pact is most valuable for designing and testing integrations where your organization controls the development of both the consumer (`vets-website`) and the provider (`vets-api`), and the requirements of the consumer are going to be used to drive the features of the provider.
 
-Pact satisfies the need for end-to-end integration tests between  `vets-website`  and  `vets-api`  as part of va.gov's automated testing processes as well as providing performance metrics in relation to automated end-to-end browser testing for the  [QASP report](https://docs.google.com/spreadsheets/d/1LC-n93-8ZB5SKmXW_VO7tymQ42nNx4C9y2animvAvhg/edit#gid=1144545755).
+Pact enables VFS teams to test integration points with vets-api in a non-production environment. This gives VFS teams the ability to ensure that their app is production-ready, and helps VSP ensure that platform-wide changes are non-breaking. Pact allows VFS and VSP to catch issues with integrations before they reach production, and satisfies the need for end-to-end integration tests between  `vets-website`  and  `vets-api`  as part of VA.gov's automated testing processes. 
 
 [Learn more about Pact](https://docs.pact.io/)
 
