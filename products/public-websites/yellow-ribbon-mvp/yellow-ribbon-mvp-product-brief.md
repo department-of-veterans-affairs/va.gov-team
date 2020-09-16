@@ -193,20 +193,14 @@ As a Yellow Ribbon data producer, I want to submit timely up-to-date Yellow Ribb
 **Consider for a Domo Dashboard**
 Many of these are currently available in GA (see Yellow Ribbon Searches and Refinements above). And I'm not sure how this'll translate to Domo, if at all. 
 
-- Frequency of search criteria usage 
-  - bc it explains whether/how people use the YR tool
-  
-- % exit to university pages 
-  - bc it indicates whether we're triggering users to take the next step to research individual institutions. We cannot, however, know what happens next.
-- % exit to other VA.gov links 
-  - bc it indicates whether users are continuing the benefit discovery process
-
-- % of Post-911 GI Bill benefit applications started in session with a visit to YR 
-  - bc we want to enable wider usage of benefits specifically the Post-911 GI Bill benefit, which is necessary for participation in the YR program
-- % of sessions with successful logins following a visit to YR 
-  - bc we want to learn if we're prompting Veterans to leverage their existing profiles
-- % of sessions with success account creations following a visit to YR
-  - bc we want to learn if we're incentivizing Veterans to create accounts and eventually start the benefit application process
+|Metric|Value|
+|--|--|
+|Frequency of search criteria usage |bc it explains whether/how people use the YR tool|  
+|% exit to university pages|bc it indicates whether we're triggering users to take the next step to research individual institutions. We cannot, however, know what happens next.|
+|% exit to other VA.gov links|bc it indicates whether users are continuing the benefit discovery process|
+|% of Post-911 GI Bill benefit applications started in session with a visit to YR|bc we want to enable wider usage of benefits specifically the Post-911 GI Bill benefit, which is necessary for participation in the YR program|
+|% of sessions with successful logins following a visit to YR|bc we want to learn if we're prompting Veterans to leverage their existing profiles|
+|% of sessions with success account creations following a visit to YR|bc we want to learn if we're incentivizing Veterans to create accounts and eventually start the benefit application process|
 
 ### OKRs
 
