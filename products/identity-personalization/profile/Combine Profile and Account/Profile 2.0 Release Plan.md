@@ -52,7 +52,7 @@ Connected apps — We should see if the connected apps team has a prod account o
 
 ### The Plan
 
-**Desired date range:** 9/9/20 - 9/23/20 
+**Desired date range:** 9/17/20 - 10/2/20 
 
 **How will you make the product available in production while limiting the number of users who can access it?** 
 
