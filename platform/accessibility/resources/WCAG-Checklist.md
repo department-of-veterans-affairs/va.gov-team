@@ -22,7 +22,7 @@ WCAG 2.0 success criteria can be organized into these four areas:
 
 ### Part 1: Semantic Structure
 
-<details>
+<details><summary>Review semantic-related success criteria</summary>
   
 #### Page title	
 The page MUST have a meaningful title (e.g. About us), even when included via iframe. [2.4.2]()
@@ -79,7 +79,7 @@ The page MUST have a meaningful title (e.g. About us), even when included via if
 
 ### Part 2: Sight & Sound
 
-<details>
+<details><summary>Review audio and visual related success criteria</summary>
 
 #### Color and Other Sensory Characteristics	
 * Sensory characteristics (e.g. color, size, shape, visual placement, visual orientation, sound, etc.) MUST NOT be the only way to convey information.	1.1.1, 1.3.3
@@ -139,7 +139,7 @@ n/a
 
 ### Part 3: Interactivity & Dynamic Content
 
-<details>
+<details><summary>Review interactive and dynamic content related success criteria</summary>
   
 #### Keyboard Input
 * All features MUST be fully functional when using only the keyboard (drop-down menus, etc.) 2.1.1
@@ -196,7 +196,7 @@ n/a
 
 ### Part 4: Understandability/Cognition
 
-<details>
+<details><summary>Review cognition-related success criteria</summary>
 
 #### Content 
 * The text SHOULD be written in the simplest and clearest language possible, appropriate to the content. COG<sup>6</sup>
