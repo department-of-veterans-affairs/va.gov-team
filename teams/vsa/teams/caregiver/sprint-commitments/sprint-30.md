@@ -13,7 +13,6 @@
 - [x] [Test backend/schema changes for 10/1 with CARMA](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13428)
 - [ ] [Make backend/schema changes for 10/1](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13431)
 - [ ] [Update PDF generation with 10/1 form](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13424)
-- [ ] [Require unique SSNs for each applicant](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13427)
 - [x] Logging on application stats
      - [x] [Additional Logging (submission result)](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12783)
      - [x] [Additional Logging (CARMA Attachment result)]()
@@ -21,6 +20,9 @@
 - [ ] (Not Kevin) [Track bounced 10-10cg applications in Google Analytics](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12089)
 - [ ] (Not Kevin) [Facility name changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13096)
 - *New* [Remove SSN requirement for any caregivers](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13574)
+### Stretch 
+- [ ] [Require unique SSNs for each applicant](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13427)
+
 
 ## Design/Product/Content
 - [ ] [Support stakeholder feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12806)
@@ -37,6 +39,7 @@
 - [ ] Update PFC/SFC definitions for 10/1 (primary family caregiver)
 - [ ] Update medical insurance question
 - [ ] SSN or TIN
+- [ ] Context on providing SSN online
 
 
 ## To explore (content/design backlog)
