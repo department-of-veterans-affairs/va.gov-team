@@ -7,27 +7,29 @@
 Platform: is monitoring and alerting configured and working as expected?
 - [ ] Yes
 - [ ] No
-### Comments:
+- Comments:
 
 Platform: is the Product Health Tool updated to track this product data and working as expected?
 - [ ] Yes
 - [ ] No
-### Comments:
+- Comments:
 
 
 `Name of responsible team member`: are you ready to monitor analytics data for trends and problems?
-- `yes/no - any notes`
+- [ ] Yes
+- [ ] No
+- Comments:
 
 `Name of responsible team member`: are you ready to monitor performance data for latency, errors, etc?
 - [ ] Yes
 - [ ] No
-### Comments:
+- Comments:
 
 
 `Name of responsible team member`: are you confident we can handle the traffic?
 - [ ] Yes
 - [ ] No
-### Comments:
+- Comments:
 
 
 `Name of responsible team member`: is the release plan complete and ready to execute against?
@@ -43,7 +45,7 @@ Comments:
 - [ ] No
 Comments:
 
-<!--`Name of responsible team member`: is call center ready to handle potential calls that may come in about preview.va.gov?
+'Name of responsible team member`: is call center ready to handle potential calls that may come in about preview.va.gov?
 - [ ] Yes
 - [ ] No
-Comments:
+- Comments:
