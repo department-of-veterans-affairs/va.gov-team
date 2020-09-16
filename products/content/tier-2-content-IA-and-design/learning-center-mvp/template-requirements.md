@@ -7,7 +7,7 @@ This is WIP and may evolve based on user research and technical findings.
 
 - **Required: Breadcrumb** –  pulled from H1, cannot manually customize
 - **Required: Search bar** - learning center search or  VA.gov (If user selects VA.gov search, user is taken to the normal site search results where results from all of VA.gov are pulled.)
-- ~**Content type label:** (- tbd -) Article vs. Video (or Media?) or more detailed label like “About,” “FAQ,” “Step-by-step,” etc.first test with no label on pages(but include on the results listing)~  __Note: Content type label will be used only on search results, and not on the articles themselves.__
+- [**Content type labels:](#content-type-labels)** __Note: Content type label will be used only on search results, and not on the articles themselves.__
 - **Required: H1** – new H1 limit for LC pages – 70 max characters including spaces, rigid in AX
 - **Required: [FE topic tags](#fe-topic-tags) and/or [FE audience tags](#fe-audience-tags)** - Note: FE design will combine/flatten topic and audience tags (will no longer display them as separate Topic vs. Audience tags). At least 1 required; up to 4 can be selected for FE display. 
 - **See CMS info: [Frontend vs backend tags](#frontend-vs-backend-tags)** 
@@ -28,6 +28,20 @@ This is WIP and may evolve based on user research and technical findings.
 
 
 [Visual examples - Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1588167553516/2773c854e8ff3a725a5e3ee03272b78e8519f78b)
+
+
+## Content type labels
+The content type (or template) label will be used only on listings for search results pages;  all-articles-in-X landing pages; and articles-tagged-y landing pages. They will not be used on the articles themselves. We tested with them showing in the listings and users found them useful. We did not include them in the article pages and no one missed them or was confused without them. 
+
+__Labels:__
+- Question and answer
+- Multiple FAQs
+- Step-by-step
+- About
+- Checklist
+- Images
+- Videos
+
 
 
 ## Purpose of tags in the learning center
