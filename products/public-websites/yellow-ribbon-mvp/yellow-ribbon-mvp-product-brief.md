@@ -191,10 +191,11 @@ As a Yellow Ribbon data producer, I want to submit timely up-to-date Yellow Ribb
 - % of sessions with success account creations following a visit to YR
 
 **Consider for a Domo Dashboard**
+Many of these are currently available in GA (see Yellow Ribbon Searches and Refinements above). And I'm not sure how this'll translate to Domo, if at all. 
 
 - Frequency of search criteria usage 
   - bc it explains whether/how people use the YR tool
-  - This is currently available in GA (see Yellow Ribbon Searches and Refinements above). And I'm not sure how this'll translate to Domo, if at all. 
+  
 - % exit to university pages 
   - bc it indicates whether we're triggering users to take the next step to research individual institutions. We cannot, however, know what happens next.
 - % exit to other VA.gov links 
