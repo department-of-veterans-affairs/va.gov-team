@@ -1,6 +1,6 @@
 /***************************************************************************************************
-Name:               BQ - All VEO-related events by month and year
-URL:                https://va-gov.domo.com/datasources/8f9df1fe-3100-464a-b403-05d63c21a74a/details/overview
+Name:               BQ - VEO-related events by month and year
+URL:                REMOVED
 Create Date:        2020-08-14
 Author:             Brian Martin
 Description:        This returns monthly totals for total and unique events for a selection of event labels
@@ -10,6 +10,8 @@ Description:        This returns monthly totals for total and unique events for 
 SELECT
     -- Year (dimension),
     FORMAT_DATE('%Y', PARSE_DATE("%Y%m%d", date)) AS year,
+    -- month (dimension)
+    FORMAT_DATE('%m', PARSE_DATE("%Y%m%d", date)) AS month,
     -- Month Name (dimension),
     FORMAT_DATE('%B', PARSE_DATE("%Y%m%d", date)) AS month_name,
     -- Event Category (dimension)
@@ -32,10 +34,11 @@ FROM
     UNNEST(hits) as hits
 WHERE
     -- Load previous month's tables
-    SUBSTR(_TABLE_SUFFIX, 0, 6) = FORMAT_DATE(
-        "%E4Y%m",
-        DATE_SUB(CURRENT_DATE, INTERVAL 1 MONTH)
-    )
+    --SUBSTR(_TABLE_SUFFIX, 0, 6) = FORMAT_DATE(
+    --   "%E4Y%m",
+    --    DATE_SUB(CURRENT_DATE, INTERVAL 1 MONTH)
+    --)
+    _TABLE_SUFFIX BETWEEN "20190701" AND "20200831" 
     AND totals.visits = 1
     AND hits.type = 'EVENT'
     AND (
@@ -50,12 +53,7 @@ WHERE
             "edu-0994--submission-successful",
             "edu-1990n--submission-successful",
             "edu-feedback-tool-submission-successful",
-            "edu-0993-submission-successful",
-            "login-success-dslogon",
-            "login-success-idme",
-            "login-success-myhealthevet",
-            "login-successful-start-form",
-            "login-success-null"
+            "edu-0993-submission-successful"
         )
         OR hits.eventInfo.eventAction IN ("Claims - View Details", "Forms - Education", "Forms - Disability")
     )

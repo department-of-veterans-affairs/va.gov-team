@@ -1,15 +1,15 @@
 /***************************************************************************************************
- Name:               BQ - All VAOS Events
- URL:                https://va-gov.domo.com/datasources/b1a085f4-b988-49d7-b283-aa3ec7c30acc/details/settings
- Create Date:        2020-08-27
- Author:             Brian Martin
- Description:        This returns daily total and unique events for all event labels with a prefix of 'vaos-' on pages
-                     that start with 'www.va.gov'.
- /***************************************************************************************************/
- #standardSQL
+Name:               BQ - Login Events by day
+URL:                https://va-gov.domo.com/datasources/9fd960c4-fabf-46fe-98bb-9be6d532c14f/details/overview
+Create Date:        2020-08-12
+Author:             Jon Wehausen
+Description:        This returns daily total and unique events that have an event label that start with
+                    "label-"
+/***************************************************************************************************/
+#standardSQL
 SELECT
     -- date (dimension)
-    PARSE_DATE("%Y%m%d", date) as date,    
+    PARSE_DATE("%Y%m%d", date) AS date,
     -- year (dimension)
     FORMAT_DATE('%Y', PARSE_DATE("%Y%m%d", date)) AS year,
     -- month (dimension)
@@ -37,11 +37,10 @@ FROM
     `vsp-analytics-and-insights.176188361.ga_sessions_*` AS ga,
     UNNEST(ga.hits) AS hits
 WHERE
-    --_TABLE_SUFFIX = FORMAT_DATE('%Y%m%d',DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY))
-    _TABLE_SUFFIX BETWEEN '20200201' and '20200831'
+    --_TABLE_SUFFIX BETWEEN '20200910' AND '20200912'
+    _TABLE_SUFFIX = FORMAT_DATE('%Y%m%d',DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY))
     AND hits.type = 'EVENT'
-    AND REGEXP_CONTAINS(hits.eventInfo.eventLabel, r'^vaos-')
-    AND REGEXP_CONTAINS(hits.page.pagePath, r'^www.va.gov')
+    AND REGEXP_CONTAINS(hits.eventInfo.eventLabel, '^login.*')
 GROUP BY
     1,
     2,

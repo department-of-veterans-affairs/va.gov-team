@@ -1,6 +1,6 @@
 /***************************************************************************************************
 Name:               BQ - Generic - All Scroll Depth Events by Date
-URL:                  https://va-gov.domo.com/datasources/db81efec-91d0-4d27-b999-a9ea27fada0e
+URL:                https://va-gov.domo.com/datasources/db81efec-91d0-4d27-b999-a9ea27fada0e
 Create Date:        2020-09-09
 Author:             Jon Wehausen
 Description:        This returns daily total and unique events for all scroll depth events by date and page path. 

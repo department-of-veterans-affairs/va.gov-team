@@ -1,6 +1,6 @@
 /***************************************************************************************************
 Name:               BQ - COVID Navigational Events by Date with Frequently Asked Question
-URL:                  https://va-gov.domo.com/datasources/1bb613d8-8ebe-43be-9668-e30190e6595a/details/data/table
+URL:                https://va-gov.domo.com/datasources/1bb613d8-8ebe-43be-9668-e30190e6595a/details/data/table
 Create Date:        2020-09-09
 Author:             Jon Wehausen
 Description:        This returns daily total and unique events for all navigational events within the frequently

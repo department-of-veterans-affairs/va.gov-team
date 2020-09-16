@@ -1,5 +1,5 @@
 /***************************************************************************************************
-Name:               BQ - All Product Form Events by Day
+Name:               BQ - Product Form Events by Day
 URL:                https://va-gov.domo.com/datasources/87b86c11-397b-4320-b632-d87896b5c4fd/details/overview
 Create Date:        2020-08-18
 Author:             Brian Martin
@@ -37,6 +37,7 @@ FROM
     UNNEST(ga.hits) AS hits
 WHERE
     _TABLE_SUFFIX = FORMAT_DATE('%Y%m%d',DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY))
+    --_TABLE_SUFFIX BETWEEN "20200901" AND "20200910"
     AND totals.visits = 1
     AND hits.type = 'EVENT'
     AND REGEXP_CONTAINS(hits.eventInfo.eventAction, '^Forms - .*')
@@ -48,5 +49,4 @@ GROUP BY
     5,
     6,
     7,
-    8,
-    9
+    8

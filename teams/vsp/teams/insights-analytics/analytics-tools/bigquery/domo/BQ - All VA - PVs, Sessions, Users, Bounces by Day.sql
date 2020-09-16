@@ -1,5 +1,5 @@
 /***************************************************************************************************
-Name:               BQ - Generic - Overall PVs, Sessions, Users, Bounces by Day
+Name:               BQ - All VA - PVs, Sessions, Users, Bounces by Day
 URL:                https://va-gov.domo.com/datasources/24ff29ec-4329-45a4-8b0f-06dfde513817/details/overview
 Create Date:        2020-08-18
 Author:             Jon Wehausen
@@ -26,9 +26,10 @@ SELECT
     -- bounces (dimension)
   SUM(totals.bounces) AS bounces
 FROM
-  `vsp-analytics-and-insights.176188361.ga_sessions_20*`
+  `vsp-analytics-and-insights.176188361.ga_sessions_*`
 WHERE
   _TABLE_SUFFIX = FORMAT_DATE('%Y%m%d',DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY))
+  --_TABLE_SUFFIX BETWEEN "20190618" AND "20200912"
   AND totals.visits = 1
 GROUP BY
   1,
