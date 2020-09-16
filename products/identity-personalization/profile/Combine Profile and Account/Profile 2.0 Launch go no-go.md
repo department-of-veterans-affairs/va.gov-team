@@ -5,8 +5,8 @@
 ---
 
 Platform: is monitoring and alerting configured and working as expected?
-- [ ] Yes
-- [ ] No
+-[ ] Yes
+-[ ] No
 - Comments:
 
 Platform: is the Product Health Tool updated to track this product data and working as expected?
