@@ -51,7 +51,7 @@
 - [ ] No
 - Comments:
 
-#### PM: Is flipper working properly/are we having any issues?
+#### PM: Is flipper working properly?
 - [X] Yes
 - [ ] No
 - Comments: The URL that was causing problems is "/account"  --> should redirect to the new account setting section of the profile, and it does, but only after logging the user out and then requiring them to sign back in before redirecting. Samara creating a bug ticket for this. It is not a launch blocker.
