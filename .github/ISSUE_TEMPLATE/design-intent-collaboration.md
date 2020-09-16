@@ -3,7 +3,7 @@ name: Design Intent Collaboration
 about: Request to Schedule a Design intent Collaboration
 title: Design intent Collaboration [Feature-Name]
 labels: product support, collaboration-cycle
-assignees: andreahewitt-odd, meganhkelley, crystabelreiter, emilywaggoner
+assignees: andreahewitt-odd, crystabelreiter, emilywaggoner
 
 ---
 
