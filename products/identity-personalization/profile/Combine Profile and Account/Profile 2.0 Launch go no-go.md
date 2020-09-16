@@ -31,17 +31,17 @@
 - [ ] No
 - Comments: [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Release%20Plan.md)
 
-#### PM: did you see KPI metrics populating from UAT?
+#### PM: Did we see KPI metrics populating from UAT?
 - [X] Yes
 - [ ] No
 - Comments: 
 
-#### FE/BE: are there any launch-blocking bugs or accessibility issues outstanding?
+#### FE/BE: Are there any launch-blocking bugs or accessibility issues outstanding?
 - [ ] Yes
 - [X] No
 - Comments:
 
-#### PM: is call center ready to handle potential calls that may come in?
+#### PM: Is the call center ready to handle potential calls that may come in?
 - [X] Yes
 - [ ] No
 - Comments:
@@ -51,9 +51,9 @@
 - [ ] No
 - Comments:
 
-#### PM: Are all re-directs in?
+#### PM: Is flipper working properly/are we having any issues?
 - [X] Yes
 - [ ] No
-- Comments:
+- Comments: The URL that was causing problems is "/account"  --> should redirect to the new account setting section of the profile, and it does, but only after logging the user out and then requiring them to sign back in before redirecting. Samara creating a bug ticket for this. It is not a launch blocker.
 
 
