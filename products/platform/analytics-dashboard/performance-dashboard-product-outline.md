@@ -18,17 +18,17 @@ Amy Cesal - Lead Designer
 ---
 
 ## Overview
-There are many performance analytics living in various VSP sources (Prometheus, Speedcurve, Google Analytics, etc...) that can be consolidated and disseminated to DEPO and VFS teams. In order to drive working and high quality .
+There are many performance analytics living in various VSP sources (Prometheus, Speedcurve, Google Analytics, etc...) that can be consolidated and disseminated to DEPO and VFS teams. In order to drive working and high quality products, we need a way to easily and accurately show quality standards.
 
 ## Problem Statement
-VSP is unable to easily track & communicate to VFS teams and DEPO the overall trends and impacts of internal and external services on the performance of VA.gov applications and the veteran experience.
+VSP is unable to easily track & communicate to VFS teams and DEPO the overall trends and impacts of internal and external services on the performance of VA.gov applications and the veteran experience so that they can understand the overall performance of their applications in order to escalate external service issues and debug.
  
 ## User Goals
 - As a VFS team member, I can easily see how the performance of internal and external services are affecting the performance of my application.
 - As a VSP engineer, I can easily see how everything fits together for an application's performance so that I can more easily debug.
 - As a VSP engineer, I can easily disseminate the internal and external performance of an application to VFS engineers.
 - As DEPO, I can easily understand the overall performance of applications on VA.gov so that I can share the success of VA.gov with the appropriate stakeholders.
-- AS DEPO, I can easily understand the affects various external providers have on the performance of VA.gov so that 
+- AS DEPO, I can easily understand the affects various external providers have on the performance of VA.gov so that I can escalate issues to the appropriate stakeholders.
 
 ## Business Goals
 
