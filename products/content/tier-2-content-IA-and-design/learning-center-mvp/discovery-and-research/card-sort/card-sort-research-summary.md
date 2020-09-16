@@ -45,15 +45,6 @@ We used Perigean to recruit Veteran participants, and our team's product owner e
 
 ## Findings
 
-### How we evaluated the studies
-
-Each card sort was evaluated individually. We first looked at how people mapped cards to categories compared to what we expected them to do.  Then, we dug into areas of lower agreement to evaluate:
-
-- Where else did people put the cards we thought would go into a particular category?
-- What unexpected cards did people put into a category?
-
-Once the individual studies were evaluated, we looked for trends across both audience groups to identify any significant findings that apply to our beneficiary and SME users.
-
 ### Audience label card sort
 
 #### Veteran participants
@@ -233,6 +224,15 @@ In both studies, this category had the most cards; it's not surprising that peop
 
 ## Appendix
 
+### How we evaluated the studies
+
+Each card sort was evaluated individually. We first looked at how people mapped cards to categories compared to what we expected them to do.  Then, we dug into areas of lower agreement to evaluate:
+
+- Where else did people put the cards we thought would go into a particular category?
+- What unexpected cards did people put into a category?
+
+Once the individual studies were evaluated, we looked for trends across both audience groups to identify any significant findings that apply to our beneficiary and SME users.
+
 ### Supporting documents
 
 - [Card sort research plan for Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-plan-veterans.md)
@@ -249,3 +249,4 @@ The links below will take you to raw results in Optimal Workshop for each card s
 - [Audience tags - SMEs](https://app.optimalworkshop.com/a/adhoc/optimalsort/results/186497d6-4278-4c9f-bdeb-357de3f0e4df#/t/results/overview)
 - [Topic tags - Veterans](https://app.optimalworkshop.com/a/adhoc/optimalsort/results/6927f1e9-ad71-40ed-8da9-6f02779e4d51#/t/results/overview)
 - [Audience tags - Veterans](https://app.optimalworkshop.com/a/adhoc/optimalsort/results/d7531108-0d6d-4351-ab9a-bc31302b75ff#/t/results/overview)
+
