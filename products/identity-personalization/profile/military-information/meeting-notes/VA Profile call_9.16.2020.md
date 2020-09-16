@@ -2,7 +2,12 @@
 
 Working on 2 things:
 
-- Service summary code: This is a replacement for different codes. Historically, admins within VA have had to access military records individually for each line of business. Eligibility varies from different lines of business. What VA Profile has understood over time is that each line of business has taken on a lot of work  to adjudicate eligibility for individuals. That goes hand in hand with reviewing physical DD214, which is cumbersome to do. In 2011, the V type (veteran type) was created in VADIR to determine who was a veteran for VHA, VBA, NCA. The V-type only qualified someone as a veteran if they met certain criteria. Through analysis of V-type parameter, some defects were exposed. No single parameter was able to define a generic veteran. The need is for a set of parameters that could define a veteran based on business lines needs. So, they needed a new parameter. This is the Service Summary Code, which is what VA Profile is working on. This will be used by lines of business so they can do their own processing. Service Summary Code does not tell lines of business whether someone is a veteran. It tells how long someone served and their discharge status. So, that way, a business line will know how long someone served and that they received an honorable discharge.
+### Service summary code
+
+- This is a replacement for different the V-type code. Historically, admins within VA have had to access military records individually for each line of business. Eligibility varies from line to line. What VA Profile has understood over time is that each line of business has taken on a lot of work to adjudicate eligibility for individuals based on discharge and length of service. That often goes hand in hand with reviewing physical DD214, which is cumbersome to do. 
+- In 2011, the V type (veteran type) was created in VADIR to determine who was a veteran for VHA, VBA, NCA. The V-type only qualified someone as a veteran if they met certain criteria. Through analysis of V-type parameter, some defects were exposed. No single parameter was able to define a generic veteran. The need is for a set of parameters that could define a veteran based on business lines needs. This is where the Service Summary Code comes in, which is what VA Profile is working on. This will be used by lines of business so they can do their own processing. Service Summary Code does not tell lines of business whether someone is a veteran. It tells how long someone served and their discharge status. 
+
+### EMIS and VADIR
 
 - EMIS is a layer on top of VADIR which provides a collection of VADIR data. It contains a majority of what is in VADIR, but the groupings are a bit different. There are some values in EMIS that are not in VADIR. What VA Profile is trying to do is to create one military information service so VA Profile can provide an enterprise-wide service with all EMIS and VADIR data in one place. 
 
@@ -10,7 +15,9 @@ Working on 2 things:
 
 - Is Profile military data coming through EMIS or VADIR?
 
-- There are different types of non-VA pay this team may be able to surface 
+- There are different types of non-VA pay this team may be able to surface (military pay, retirement pay, reserve pay, etc). We should keep this in mind for a future feature on VA.gov.
+
+### MVP
 
 - MVP: Military service data for VA.gov. Should be straightforward based on what we have now. Naz is going to send over materials on what they have now. Over next couple of weeks, we can have more calls to talk about build and w
 
