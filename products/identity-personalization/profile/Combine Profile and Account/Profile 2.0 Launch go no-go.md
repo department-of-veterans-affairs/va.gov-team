@@ -4,36 +4,29 @@
 
 ---
 
-Platform: is monitoring and alerting configured and working as expected?
--[ ] Yes
--[ ] No
+Platform: is monitoring and alerting configured and working as expected via Privacy and Security Review?
+- [X] Yes
+- [ ] No
 - Comments:
 
 Platform: is the Product Health Tool updated to track this product data and working as expected?
-- [ ] Yes
+- [X] Yes
+- [ ] No
+- Comments: GA Analytics will be finished this afternoon.
+
+
+Are we ready to monitor analytics data for trends and problems?
+- [X] Yes
+- [ ] No
+- Comments: GA dashboard is complete, DOMO to be completed soon
+
+Backend: Are we confident we can handle the traffic?
+- [X] Yes
 - [ ] No
 - Comments:
 
-
-`Name of responsible team member`: are you ready to monitor analytics data for trends and problems?
-- [ ] Yes
-- [ ] No
-- Comments:
-
-`Name of responsible team member`: are you ready to monitor performance data for latency, errors, etc?
-- [ ] Yes
-- [ ] No
-- Comments:
-
-
-`Name of responsible team member`: are you confident we can handle the traffic?
-- [ ] Yes
-- [ ] No
-- Comments:
-
-
-`Name of responsible team member`: is the release plan complete and ready to execute against?
-- [ ] Yes
+PM: is the release plan complete and ready to execute against?
+- [X] Yes
 - [ ] No
 - Comments:
 
