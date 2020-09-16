@@ -67,7 +67,7 @@ Total = 7
 - [#11926](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11926) Unit test `ViewPaymentsHeader` (5)
 - [#11925](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11925) Unit test `ViewPaymentsLists` (5)
 - [#11924](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11924) Unit test `Payments` (5)
-- [#11991](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11991) Unit test `ViewPaymentsSidebar` (3) **low priority**
+- [#11991](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11991) Unit test `ViewPaymentsSidebar` (3) <span style="color:yellow">low priority</span>
 - 👉 [#12000](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12000) Swap dummy content with real data from API call (BE + FE get together) (3)
 - [#11991](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11991) Unit test Redux (3)
 - [#12003](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12003) E2E test (5)
