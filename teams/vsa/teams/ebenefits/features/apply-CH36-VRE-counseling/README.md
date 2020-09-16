@@ -83,13 +83,16 @@ I can apply for CH36 benefits quickly and without mailing in a form or visiting 
   - % of people who land on wizard and start the application (Acquisition)
   - % of people who abandon (Abandonment Rate) (Activitation)
   - % of people who complete the form
-    - \# of people who complete the form
-- Customer satisfaction
+    - # of people who complete the form
+- Customer satisfaction (?)
 
 ##### Baseline KPIs
 tbd
+
 #### OKRs
-Improve abandonment rate
+1. Improve abandonment/conversion rate
+
+2. Improve time to complete
 
 --
 ## Go-to-Market
