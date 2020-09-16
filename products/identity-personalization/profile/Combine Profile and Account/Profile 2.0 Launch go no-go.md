@@ -1,7 +1,7 @@
-# `Product Name` Go / No Go 
-## `Date`
+# Profile 2.0 Go/No Go 
+## `9/16/20`
 
-## Decision: `Continue launch / Pause / Pivot`
+## Decision: `Continue launch'
 
 ---
 
