@@ -43,6 +43,15 @@ We used Perigean to recruit Veteran participants, and our team's product owner e
 - 9 of 10 SMEs completed the topic card sort
 - 9 of 9 SMEs completed the audience card sort
 
+### How we evaluated the studies
+
+Each card sort was evaluated individually. We first looked at how people mapped cards to categories compared to what we expected them to do.  Then, we dug into areas of lower agreement to evaluate:
+
+- Where else did people put the cards we thought would go into a particular category?
+- What unexpected cards did people put into a category?
+
+Once the individual studies were evaluated, we looked for trends across both audience groups to identify any significant findings that apply to our beneficiary and SME users.
+
 ## Findings
 
 ### Audience label card sort
@@ -223,15 +232,6 @@ In both studies, this category had the most cards; it's not surprising that peop
 2. When we have a more defined/proposed IA, test that IA again via either a closed card sort or tree testing.
 
 ## Appendix
-
-### How we evaluated the studies
-
-Each card sort was evaluated individually. We first looked at how people mapped cards to categories compared to what we expected them to do.  Then, we dug into areas of lower agreement to evaluate:
-
-- Where else did people put the cards we thought would go into a particular category?
-- What unexpected cards did people put into a category?
-
-Once the individual studies were evaluated, we looked for trends across both audience groups to identify any significant findings that apply to our beneficiary and SME users.
 
 ### Supporting documents
 
