@@ -31,7 +31,11 @@ It is because of this that we are going to dedicate all of 2020, and as much of 
 |**Address validation**|QA; pre-launch checklist; launch| 508 review; post-launch updates; monitoring | — | — | — |
 |**Profile 2.0**|Design; technical discovery| User testing; build | Build; QA; pre-launch | Launch | — |
 |**Logged-in homepage**|Begin discovery| Complete design discovery;|  start technical discovery; start design | Design | Finish design; build; user testing and additional user research |
-|**Notification center**| — | — | Figure out how this overlaps with logged-in homepage redesign | Postponed unti further notice | Postponed unti further notice |
-|**Logged-in navigation**| — | — | Figure out how this overlaps with logged-in homepage redesign | Postponed unti further notice | Postponed unti further notice |
 |**Direct deposit for edu**| — | — | Begin discovery | Continue discovery; design; build | QA; pre-launch; launch|
 |**Preferred facility for VA.gov profile** | — | — | — | Discovery; figure out how work will be split between VAOS/Auth exp. | TBD |
+
+### Additional future projects
+
+- Integrate "Military information" section of the profile through VA Profile backend
+- Logged-in navigation updates
+- Notification center
