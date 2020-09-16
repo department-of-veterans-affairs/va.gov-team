@@ -19,7 +19,7 @@ This is WIP and may evolve based on user research and technical findings. [Visua
 - **Optional: Repeat same CTA button(s)** – Example: User can omit repeat if page is short as in a single FAQ page 
 - **Required: Was this helpful** - Backend functionality is still TBD and may not go out with October/Nov MVP. The user action could get collected to Google Analytics - possibly other ideas.
 - **Required: [Related information](#related-information-section)** 
-- **Required: [VA benefits section](#va-benefits-section):** 
+- **Required: [VA benefits section](#va-benefits-section)** 
 - **Required: [Need more help?](#need-more-help-section)** - This section includes contact info based on administration or hub.
 - **Back to top links - ~required if TOC links are enabled:~** ~displays at the end of each H2 section~ Per accessibility feedback, we will create Back to top feature at the FE that's based on page height. 
 - **Required: Meta title** - `H1 | Veterans Affairs` format; no character limit, ~no initial caps~. The 70-character-max H1 should automatically be used to generate the meta title. Note: Can we add initial capping logic va the FE template? 
