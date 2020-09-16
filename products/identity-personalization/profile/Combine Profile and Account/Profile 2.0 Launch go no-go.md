@@ -1,5 +1,5 @@
 # Profile 2.0 Go/No Go 
-## `9/16/20`
+## `September 16, 2020`
 
 ## Decision: `Continue launch'
 
