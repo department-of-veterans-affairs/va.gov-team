@@ -37,3 +37,4 @@ It is because of this that we are going to dedicate all of 2020, and as much of 
 - Integrate "Military information" section of the profile through VA Profile backend
 - [Logged-in navigation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/navigation-ia)
 - Notification center
+- Bad address functionality
