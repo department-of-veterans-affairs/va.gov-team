@@ -1,15 +1,5 @@
 # UX, Content and Functionality Changes
 
-
-## Pattern clarifications
-
-- Clarify display pattern for alerts/notifications within the wizard - difference between current wizard pattern and new alert display used in ch 31/36 work
-
-- Clarify how to treat links to content from within the wizard - open in same tab or new tab? (Answer: New Tab)
-
-- Define standard display options for configurable options - i.e. placement and properties of skip option?
-
-
 ## Use Cases/Business Logic for Wizards
 
 ### For all Wizards
@@ -24,9 +14,6 @@
    - Allow customization of skip wizard language/display properties based on its context and importance.  Some wizards only need a small text link, others may need H2. Some may need placement at the top, others at the bottom. 
 
 - **Publishing/Authoring (or Dev Control): Customizable Wizard Title:** Allow ability to customize title of wizard.  This will allow the title to match the purpose/context of the wizard - find the right form, determine eligibility, etc. 
- 
-
-- **TBD:**
 
 **Content:** 
 
@@ -41,3 +28,11 @@
 ### Rule:
 The only time the user does not see the Wizard on the Apply Now page is if they have -- in the same session -- completed the Wizard for one Education form and after completing that form are routed to another Education form.
 - Example:  When User completes wizard on form 1990 and is directed to the 1990n, the user does not see wizard.  However, if the user navigates away from 1990n intro page, they have to repeat the wizard when they return to it or to any other edu form.
+
+## Pattern clarifications
+
+- Clarify display pattern for alerts/notifications within the wizard - difference between current wizard pattern and new alert display used in ch 31/36 work
+
+- Clarify how to treat links to content from within the wizard - open in same tab or new tab? (Answer: New Tab)
+
+- Define standard display options for configurable options - i.e. placement and properties of skip option?
