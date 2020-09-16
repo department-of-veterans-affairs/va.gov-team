@@ -4,20 +4,22 @@
 
 ---
 
-#### Platform: is monitoring and alerting configured and working as expected via the Privacy and Security Review?
+#### Platform: Is monitoring and alerting configured and working as expected via the Privacy and Security Review?
 - [X] Yes
 - [ ] No
 - Comments:
 
-#### Platform: is the Product Health Tool updated to track this product data and working as expected?
+#### Platform: Is the Product Health Tool updated to track this product data and working as expected?
 - [X] Yes
 - [ ] No
-- Comments: GA Analytics will be finished this afternoon.
+- Comments: Analytics team confirmed this was ready.
 
 #### Are we ready to monitor analytics data for trends and problems?
 - [X] Yes
 - [ ] No
-- Comments: GA dashboard is complete, DOMO to be completed soon
+- Comments: GA dashboard and Domo dashboards to be completed/finalized by this afternoon.
+[Domo dashboard](https://va-gov.domo.com/page/492918243)
+[GA dashboard] To be added today
 
 #### Backend: Are we confident we can handle the traffic?
 - [X] Yes
@@ -32,14 +34,26 @@
 #### PM: did you see KPI metrics populating from UAT?
 - [X] Yes
 - [ ] No
-- Comments: insert dashboard
+- Comments: 
 
-#### FE/BE: are there any Sev1 bugs or accessibility issues outstanding?
+#### FE/BE: are there any launch-blocking bugs or accessibility issues outstanding?
 - [ ] Yes
 - [X] No
 - Comments:
 
-#### PM: is call center ready to handle potential calls that may come in about preview.va.gov?
+#### PM: is call center ready to handle potential calls that may come in?
 - [X] Yes
 - [ ] No
 - Comments:
+
+#### PM: Are all re-directs in?
+- [X] Yes
+- [ ] No
+- Comments:
+
+#### PM: Are all re-directs in?
+- [X] Yes
+- [ ] No
+- Comments:
+
+
