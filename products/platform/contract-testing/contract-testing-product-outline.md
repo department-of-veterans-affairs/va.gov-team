@@ -8,7 +8,10 @@
 
 ## Personas
 * VFS Teams 
-  * 
+  * Developers (FE & BE) — _primary persona_
+  * Product Managers — _need to understand impact that VSP's contract testing requirment will have on their teams_
+* Other teams that integrate with `vets-api`
+  * Lighthouse team
 
 ## Measuring Success
 
@@ -27,19 +30,14 @@
 
 ## Solution Approach
 
-_Describe, in a few sentences and/or bullet points, what you plan to build, and how it will solve the problem. Some questions to think about:_
+Pact has been identified as VSP's chosen contract testing tool, which will allow VFS teams to test integrations with `vets-api`. 
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-
-_For non-trivial technical solutions, an [engineering design doc](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/design-docs) should be written to deeply explain **How** this product will be built._
+[Design doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/6fbe00120865ff71779ba0c8b8e011a18e2cbf2f/platform/engineering/design-docs/2020-04-16-integration-testing-with-consumer-driven-contract-tests.md) for consumer-driven contract tests as a tool for testing integrations.
 
 --- 
 
 ## Launch Dates
-- *Launch Date*: TBD
+- *Launch Date*: Estimated launch Oct 2020
 
 ---
    
