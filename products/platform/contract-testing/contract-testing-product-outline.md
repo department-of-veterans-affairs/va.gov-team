@@ -1,10 +1,12 @@
 # Contract Testing Product Outline [DRAFT]
 
 ## Overview
-*A brief description of the product.*
+Consumer-driven contract testing (CDCT) defines a contract between service consumers and providers (e.g. `vets-website` applications and `vets-api`). In this way, CDCT enables VFS teams to test integration points with `vets-api` in a non-production environment. This gives VFS teams the ability to ensure that their app is production-ready, and helps VSP ensure that platform-wide changes are non-breaking. 
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address.*
+The current process to test a frontend application (vets-website) with the backend (vets-api) is not suitable for the long term needs of the platform. The current process involves using a combination of Swagger docs, betamocks, JSON Schema and VCR recordings. These tools are theoretical tools and don’t actually reflect the current state of the APIs, which could lead them to being out of sync with what the actual response is expecting. An additional pain point is that in order for an application team to test their app with these backend tools they have to run both applications at the same time. The current solution is only testable in the staging environment as well.
+
+How might we enable VFS teams to test integrations with vets-api in a non-production environment? How might we enable VSP to more easily confirm that platform-wide changes are non-breaking?
 
 ## Personas
 * VFS Teams 
@@ -16,17 +18,24 @@
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Grafana or other dashboards/reports where possible_
+1. Number of incidents/quarter requiring postmortems related to `vets-api` integrations
+1. Number of CDCTs (Pacts) in [broker](https://vagov-pact-broker.herokuapp.com/)
+1. % of VFS teams who self-report using Pact for all new integrations with `vets-api` 
+1. Qualitative feedback from VFS teams
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics, if possible._
+1. _need to gather baseline_
+1. 0 baseline, 4 before testing with VFS teams
+1. 0 baseline
+1. baseline N/A
 
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- VFS teams will adhere to a new VSP policy re: contract testing
+- Support for and maintenance of a contract testing tool will not place an unreasonable burden of manual support on VSP
+- A contract testing tool will identify breaking platform-wide changes before they are released
+- A contract testing tool will identify bugs in VFSs before they are released
 
 ## Solution Approach
 
