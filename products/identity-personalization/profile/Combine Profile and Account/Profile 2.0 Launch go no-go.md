@@ -1,5 +1,5 @@
 # Profile 2.0 Go/No Go
-##`September 16, 2020`
+## September 16, 2020
 ## Decision: Proceeding with Launch
 
 ---
