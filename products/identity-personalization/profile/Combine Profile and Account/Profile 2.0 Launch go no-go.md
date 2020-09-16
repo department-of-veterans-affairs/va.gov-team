@@ -7,7 +7,7 @@
 #### Platform: is monitoring and alerting configured and working as expected via Privacy and Security Review?
 - [X] Yes
 - [ ] No
--Comments:
+- Comments:
 
 #### Platform: is the Product Health Tool updated to track this product data and working as expected?
 - [X] Yes
