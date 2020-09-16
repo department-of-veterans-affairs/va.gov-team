@@ -11,11 +11,13 @@
 
 1. Review backlog for Sprint 15
 1. React widget capability for Single Q&A and in other LC templates.
+1. Custom link teasers - automation brainstorm
+1. Tagged content option (New)
 1. other
 
 ### Action items
 
-1. 
+1. Identify an MVP set of "Topic" terms by Fri, Sep 25
 
 
 ## Tuesday September 8
