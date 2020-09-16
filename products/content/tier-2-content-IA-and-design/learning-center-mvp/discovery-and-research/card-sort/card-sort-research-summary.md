@@ -94,7 +94,7 @@ People placed the article `What kinds of long-term care services does VA offer?`
 
 People placed the article `What is adult day care?` under:
 
-- Family members and caregivers 20)
+- Family members and caregivers (20)
 - All Veterans (2)
 
 The other articles people placed into this category suggest they focused on the 65+ or the complex care part of the label, rather than putting it all together:
@@ -183,7 +183,7 @@ This table outlines the audiences we expected SME participants to associate with
 
 The mental model of participants aligns with what we expected for the most part. We should feel confident moving forward with the labels that had a high agreement rate.
 
-#### The majority of SME participants understood how to apply the non-beneficiary audience labels.
+#### SME participants generally understood how to apply the non-beneficiary audience labels.
 
 6 of the 14 audience tags we tested are intended to be applied to articles with a non-Veteran, non-beneficiary audience in mind.  All of those labels were mapped to the article we expected by 6 or more participants.  The `Fiduciaries` label had the lowest rate of agreement among this group.  One article we thought people would put in this category was titled, `How do I become a fiduciary for my Veteran friend or family member?`  3 participants mapped it to the `Family members and caregivers` audience group, likely because of the phrase "family member" in the article title.
 
@@ -192,35 +192,53 @@ The mental model of participants aligns with what we expected for the most part.
 - This data suggests that SMEs generally understand the difference between articles for beneficiaries and non-beneficiaries. 
 - The ability to add more than one audience label should help content authors target the right audience when their content applies to multiple groups.
 
-#### Participants applied the  `All Veterans` label to more articles than we expected.
+#### SME participants applied some audience labels more broadly than we expected.
 
-This audience label had the most cards (9 of 21) added to it across all the categories. Only one card we thought would be added to this category was mapped here by the majority of people: `How do I reset my password?`.  Unexpected cards added to this category were:
+The `All Veterans` audience label had the most cards (9 of 21) added to it across all the categories. This category had the most cards in the Veteran card sort as well. It makes sense, from the Veteran perspective, to associate something you may not be confident about with the broadest label. It's more meaningful that content authors would associate an article with such a broad label, especially when more specific and relevant options are available. All 3 of the cards we expected to make it into this category were placed there by at least 33% of participants, but people also added things like: 
 
 - Forms for filing a life insurance claim for your deceased Veteran (2)
 - Benefits and services for Veterans who are Philippine U.S. nationals (2)
-- List of education liaisons for schools and state approving agencies (1)
-- VA subsidies and other incentives for businesses to hire Veterans (1)
-- What is a VA appointed fiduciary responsible for? (1)
-- What kinds of long-term care services does VA offer? (1)
 
-This category had the most cards in the Veteran card sort as well. It makes sense, from the Veteran perspective, to associate something you may not be confident about with the broadest label. It's more meaningful that content authors would associate an article with such a broad label, especially when more specific and relevant options are available.
+The `Family members and caregivers` audience label also had a variety of cards added to it that we expected to be placed in other categories, such as:
+
+- What is adult day care? (5)
+- How do I become a fiduciary for my Veteran friend or family member? (3)
+- What kinds of long-term care services does VA offer? (2)
 
 ##### **Takeaways**
 
-- Participants thought about this audience label more broadly than we intended.  
+- SMEs applied the `All Veterans` audience label more broadly than we hoped, considering more specific categories were available.  
 - We should help content authors and SMEs understand the benefit of using a more specific audience label when applicable. When people apply `All Veterans` to something related to pension or education, it suggests they're defaulting to the safest option possible without considering whether or not a more specific label would reach the target audience.
+- Again, the ability to add more than one audience label should help content authors when their content applies to multiple audience groups. The grouping we saw isn't necessarily wrong.
 
-#### 
+#### People didn't map articles to  `Veterans 65+ with complex care needs` exactly how we anticipated.
+
+The majority of SME participants mapped one article like we thought they would: `What kinds of long-term care services does VA offer?` was placed into this category by 6 of 9 people. The category had 2 other noteworthy results:
+
+1. Only 33% associated `What is adult day care?` with this audience group.  The rest of the participants put that article into `Family members and caregivers`, which tells us that they thought about this article from the perspective of the caretaker, and not necessarily the Veteran.  This is similar to the results we saw from Veteran participants.
+
+- 5 of 9 participants placed `What is a protected pension?` into this category.  This is something we suspected might happen, and suggests that people might not be taking the `complex care needs` portion of this audience label into consideration.
+
+**Takeaways**
+
+- People generally understood this label, but also had broader associations (e.g. adult day care with a family caregiver) that caused them to place an article in a place we didn't expect.
+- Simplifying the label  `Veterans age 65+ with complex care needs` may make it easier for SME's to use this audience label more specifically as it applies to the content they're working with.  Because it has two parts, people may apply it as-is to content that isn't exactly relevant to this audience label.
 
 ### What does the combined data suggest?
 
-#### We can confidently move forward with the majority of audience labels we've proposed.
+#### We can confidently move forward with the majority of audience labels we've proposed, but may want to adjust `Veterans 65+ with complex care needs`.
 
 In both participant groups, people mapped the majority of articles the way we expected them to. This validates that we're on the right track with the nomenclature we've selected, and don't need to make changes to most of the audience labels.
 
-#### Participants in both studies mapped more articles than we expected to the `All Veterans` audience label.
+#### Our plan to allow content authors to apply multiple audience labels will help surface content to all applicable audiences.
 
-In both studies, this category had the most cards; it's not surprising that people would put a card here if they weren't sure where else it belonged.  It's
+
+
+#### The list of audience labels we've come up with matches the mental model of Veteran and SME participants.
+
+5 new categories were created in the SME card sort, and 8 were created in the Veteran card sort. All but one were topics, rather than audiences, which tells us that generally we have a comprehensive list of audiences to cover a range of topics.  The audience topic created was related to Veterans with non-citizen status.  It's worth considering whether or not we should add this audience group to our nomenclature, likely dependent on the amount of content we'd have for them.
+
+
 
 ## Topic label card sort findings
 
