@@ -127,8 +127,6 @@ A [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 ## OKRs & KPIs
 
-## OKRs
-
 **Objective 1:** Greater discoverability and number of Veterans applying to get benefits associated with their dependents.
 - Key Results 1: Data shows the **number of views of the [686 benefit hub page](https://www.va.gov/disability/add-remove-dependent/) has increased since migration**; statistically significant increase in traffic
 - Key Results 2: Data shows **more applications are being successfully submitted**; statistaclly significant increase in number of approved submissions 
