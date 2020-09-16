@@ -77,7 +77,7 @@ For each section:
 - Failed form submissions
 - Error counts
 
-Links to dashboards showing "success criteria" metrics: [insert link to dashboard] TBD
+Links to dashboards showing "success criteria" metrics: [Profile 2.0 KR Domo dashboard](https://va-gov.domo.com/page/492918243)
 
 ## Go Live!
 
