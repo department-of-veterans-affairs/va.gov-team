@@ -58,7 +58,7 @@
 
 ### Next Steps:
 When are we launching?
-- [ ] Today  
+- [X] Today  
 - [ ] Tomorrow morning 
 - Comments: 
 
