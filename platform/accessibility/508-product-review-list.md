@@ -314,7 +314,6 @@ Back to [Table of Contents](#table-of-contents)
 **Opened:** August 20, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [508-defect-2 [AXE-CORE]: Heading levels SHOULD increase by one - #12663](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12663)<br/>
 **Opened:** August 20, 2020 | **Severity:** 508-defect-2 — **_Serious_**
-- [508-Defect-3 [AXE-CORE]: Headings MUST not be empty - #12672](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12672)<br/>**Opened:** August 20, 2020 | **Severity:** 508-defect-3 - **_Minor_**
 - [[USABILITY]: Application saved message could be missed by assistive devices - #182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182)<br/>**Opened:** June 5, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
 
 Back to [Table of Contents](#table-of-contents)
