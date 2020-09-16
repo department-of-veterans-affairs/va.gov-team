@@ -6,7 +6,7 @@
   * [Requirements](#requirements-draft)
   * [Process](#process)
   * [Implementation details](#implementation-details)
-- [Configuring the `vets-website` consumer codebase](#configuring-the--vets-website--consumer-codebase)
+- [Configuring the `vets-website` consumer codebase](#configuring-the-vets-website-consumer-codebase)
   * [1. Run contract tests](#1-run-contract-tests)
   * [2. Write a contract test](#2-write-a-contract-test)
       - [example-app.pact.spec.js](#example-apppactspecjs)
@@ -18,7 +18,7 @@
       - [Empty arrays](#empty-arrays)
       - [Non-empty arrays](#non-empty-arrays)
       - [Specific arrays](#specific-arrays)
-- [Configuring the `vets-api` provider codebase](#configuring-the--vets-api--provider-codebase)
+- [Configuring the `vets-api` provider codebase](#configuring-the-vets-api-provider-codebase)
   * [1. Set up a provider state](#1-set-up-a-provider-state)
     + [Using a local file if blocked by frontend](#using-a-local-file-if-blocked-by-frontend)
     + [Expected responses](#expected-responses)
@@ -103,6 +103,12 @@ To run all contract tests locally:
 yarn test:contract
 ```
 
+To run a specific contract test:
+
+```
+yarn test:unit src/applications/my-app/tests/example.pact.spec.js
+```
+
 ### 2. Write a contract test
 
 1. Create a test file with the suffix `.pact.spec.js`.
@@ -113,14 +119,22 @@ yarn test:contract
    ```
    - `Example App` is the name of your app. This must match the app name that the API uses to set up provider states during pact verification for this app.
    - `VA.gov API`  is the name of the provider.
-   - `mockApi => { ... }`  is a callback function that has the Pact mock provider as its argument. In the callback function, write your tests in a unit test format with `describe()` and `it()` blocks and such.
+   - `mockApi => { ... }`  is a callback function that has the Pact mock provider as its argument.
+     - In the callback function, write your tests in a Mocha unit test format using `describe()` and `it()` blocks, [hooks](https://mochajs.org/#hooks), and such.
+     - `describe` blocks are generally useful for describing pairings of HTTP verbs and endpoints being consumed.
+     - `context` blocks can further organize the `describe` blocks by provider states.
+     - `it` blocks represent tests for specific interactions and will almost certainly always have asynchronous (async) callbacks.
+       - This is because `fetch` requests as well as the [Pact consumer API](https://github.com/pact-foundation/pact-js#api) are async operations.
+       - Refer to [Mocha's documentation on asynchronous code](https://mochajs.org/#asynchronous-code) for examples of writing async tests.
+         We prefer the `async`/`await` approach, and the following examples will use that.
+       
 
 3. For any relevant endpoints, set up the mock API by adding the expected interactions.
 
    See the next section on interactions for an example of defining an interaction.
 
    ```
-   mockApi.addInteraction(interaction);
+   await mockApi.addInteraction(interaction);
    ```
 
    - The easiest place to do this is within the `it()` blocks, which are meant to focus on specific interactions or endpoints.
