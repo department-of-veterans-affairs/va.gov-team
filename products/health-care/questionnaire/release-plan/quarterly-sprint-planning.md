@@ -14,14 +14,22 @@
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
 | [BE] Start tech implementationQuestionnaire Trigger Service | -- | #  |
-| [FE] Save in Progress | -- | #  |
-| [FE] Print PDF of Questionnaire | -- | #  |
+| [UX/FE] Save in Progress | -- | #  |
+| [UX/FE] Print PDF of Questionnaire | -- | #  |
 | [UI/FE] Questionnaire List | -- | #  |
 | [BE] Appt Status updates | -- | #  |
-| [FE] Appt Reminders/link | -- | #  |
-| [FE] Demographics Banner  | -- | #  |
-| [FE] Save in Progress | -- | #  |
-| [UI] Create interactive MVP prototype   	| -- |  |
+| [UX/BE/FE] Notifications via Appt Reminders/link | -- | #  |
+| [UX/FE] Demographics Banner  | -- | #  |
+| [UX] Create interactive MVP prototype   	| -- |  |
+| [UI] Usability Testing 	| -- |  |
+| [Product] Change Management for Implementation 	| -- |  |
+| [Product] External /Call Center troubleshooting Documentation	| -- |  |
+| [All] Collab Cycle Approvals for Pros 	| -- |  |
+| [UX/FE] Demographics Standards update with Platform if approved	| -- |  |
+| [UX/FE] List Loop enhancement with Platform if approved	| -- |  |
+| [UX/FE] IA for navigation on va.gov	| -- |  |
+| [UX/FE] Analytics	| -- |  |
+| [Product] Success Metris	| -- |  |
 
 </details>
 
