@@ -43,7 +43,7 @@ _Please confirm the proper verbiage and capitalization with your writer_
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
 Static Page | www.va.gov/careers-employment/education-and-career-counseling/ | Home > Careers and employment > Career planning and guidance |  
-Application | www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/ | Home > Careers and employment > Career planning and guidance > Apply for Personalized Career Planning and Guidance form 28-8832 | 
+Application | www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/ | Home > Careers and employment > Career planning and guidance > Apply for Personalized Career Planning and Guidance Form 28-8832 | 
 
 <hr>
 
