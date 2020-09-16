@@ -4,7 +4,7 @@
 
 ---
 
-#### Platform: is monitoring and alerting configured and working as expected via Privacy and Security Review?
+#### Platform: is monitoring and alerting configured and working as expected via the Privacy and Security Review?
 - [X] Yes
 - [ ] No
 - Comments:
@@ -13,7 +13,6 @@
 - [X] Yes
 - [ ] No
 - Comments: GA Analytics will be finished this afternoon.
-
 
 #### Are we ready to monitor analytics data for trends and problems?
 - [X] Yes
@@ -25,10 +24,10 @@
 - [ ] No
 - Comments:
 
-#### PM: is the release plan complete and ready to execute against?
+#### PM: Is the release plan complete and ready to execute against?
 - [X] Yes
 - [ ] No
-- Comments:
+- Comments: [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Release%20Plan.md)
 
 #### PM: did you see KPI metrics populating from UAT?
 - [X] Yes
