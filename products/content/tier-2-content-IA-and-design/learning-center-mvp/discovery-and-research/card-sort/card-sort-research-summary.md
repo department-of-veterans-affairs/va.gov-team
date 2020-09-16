@@ -8,7 +8,7 @@ DRAFT
 
 [Card sort research plan for SMEs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-plan-sme.md)
 
-This card sort was conducted to evaluate the nomenclature for the Learning Center audience and topic labels, and see how those labels are applied to articles by 
+This card sort was conducted to evaluate the nomenclature for the learning center audience and topic labels, and see how those labels are applied to articles by: 
 
 - Subject matter experts (SME) or people who create/manage content for Veterans, and 
 - Veterans
@@ -52,11 +52,9 @@ Each card sort was evaluated individually. We first looked at how people mapped 
 
 Once the individual studies were evaluated, we looked for trends across both audience groups to identify any significant findings that apply to our beneficiary and SME users.
 
-## Findings
+## Audience label card sort findings
 
-### Audience label card sort
-
-#### Veteran participants
+### Veteran participants
 
 This table outlines the audiences we expected Veteran participants to associate with each article, and the number of people who did what we expected:
 
@@ -80,7 +78,7 @@ This table outlines the audiences we expected Veteran participants to associate 
 
 31 (79%) or more people mapped 10 of the 13 articles mapped to our proposed audience label. The audience labels Incarcerated Veterans, Women Veterans, and Native American Veterans had the highest rate of agreement.
 
-**Takeaway**
+##### **Takeaway**
 
 The mental model of participants aligns with what we expected for the most part. We should feel confident moving forward with the labels that had a high agreement rate.
 
@@ -106,7 +104,7 @@ The other articles people placed into this category suggest they focused on the 
 - Presumptive Gulf War diseases (1)
 - What VA family member benefits are my same-sex spouse eligible for? (1)
 
-**Takeaways**
+##### **Takeaways**
 
 - Veterans think more broadly about the topics we felt fit into this audience group. 
 - Our plan to allow authors to apply more than one audience tag supports this broader scope of thinking, and should help people find the information they're looking for.
@@ -129,7 +127,7 @@ The `Family members and caregivers` audience label had these articles matched to
 - How do I verify my school enrollment? (2)
 - What is a “protected” pension? (2)
 
-**Takeaway**
+##### **Takeaway**
 
 -  The majority of participants mapped this audience as we expected, so we should feel confident moving forward with it as-is.
 - A secondary audience label should help clarify exactly what the article is about, and avoid misinterpretation.
@@ -143,7 +141,7 @@ In this hybrid card sort, people had the ability to create their own categories 
 
 The nomenclature participants used isn't quite correct, but the creation of these categories shows that 2 people saw this as separate from minority Veterans (our suggested audience), and that there is awareness about the difference in citizenship status for this audience.
 
-**Takeaway**
+##### **Takeaway**
 
 We should consider a separate audience group for content that applies to U.S. nationals, or Veterans of non-citizen nationality.
 
@@ -181,7 +179,7 @@ This table outlines the audiences we expected SME participants to associate with
 
 8 of 9 participants agreed with our proposed mapping for `Lenders, appraisers, and other real estate professionals`, `Funeral directors and cemeteries`, `Schools, administrators, and other education professionals`, `Native American Veterans` and `LGBTQ Veterans`. 
 
-**Takeaway**
+##### **Takeaway**
 
 The mental model of participants aligns with what we expected for the most part. We should feel confident moving forward with the labels that had a high agreement rate.
 
@@ -189,7 +187,7 @@ The mental model of participants aligns with what we expected for the most part.
 
 6 of the 14 audience tags we tested are intended to be applied to articles with a non-Veteran, non-beneficiary audience in mind.  All of those labels were mapped to the article we expected by 6 or more participants.  The `Fiduciaries` label had the lowest rate of agreement among this group.  One article we thought people would put in this category was titled, `How do I become a fiduciary for my Veteran friend or family member?`  3 participants mapped it to the `Family members and caregivers` audience group, likely because of the phrase "family member" in the article title.
 
-**Takeaways**
+##### **Takeaways**
 
 - This data suggests that SMEs generally understand the difference between articles for beneficiaries and non-beneficiaries. 
 - The ability to add more than one audience label should help content authors target the right audience when their content applies to multiple groups.
@@ -207,7 +205,7 @@ This audience label had the most cards (9 of 21) added to it across all the cate
 
 This category had the most cards in the Veteran card sort as well. It makes sense, from the Veteran perspective, to associate something you may not be confident about with the broadest label. It's more meaningful that content authors would associate an article with such a broad label, especially when more specific and relevant options are available.
 
-**Takeaways**
+##### **Takeaways**
 
 - Participants thought about this audience label more broadly than we intended.  
 - We should help content authors and SMEs understand the benefit of using a more specific audience label when applicable. When people apply `All Veterans` to something related to pension or education, it suggests they're defaulting to the safest option possible without considering whether or not a more specific label would reach the target audience.
@@ -224,12 +222,30 @@ In both participant groups, people mapped the majority of articles the way we ex
 
 In both studies, this category had the most cards; it's not surprising that people would put a card here if they weren't sure where else it belonged.  It's
 
+## Topic label card sort findings
 
+### Veteran Participants
+
+#### Finding
+
+##### Takeaway
+
+### SME Participants
+
+#### Finding
+
+##### Takeaway
+
+### What does the combined data suggest?
+
+#### Finding
 
 ## Next Steps
 
-1. Incorporate insights gained from this card sort into the personalization 2.0 strategy and design.
-2. When we have a more defined/proposed IA, test that IA again via either a closed card sort or tree testing.
+1. Incorporate insights gained from this card sort into the nomenclature for the learning center. 
+2. Monitor how these labels are applied by content authors once the learning center is launched.
+3. Evaluate how these labels resonate with Veterans in upcoming research studies.
+4. Are there metrics we can use 
 
 ## Appendix
 
