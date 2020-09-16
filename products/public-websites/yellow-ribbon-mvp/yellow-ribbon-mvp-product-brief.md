@@ -175,29 +175,37 @@ As a Yellow Ribbon data producer, I want to submit timely up-to-date Yellow Ribb
 - [Yellow Ribbon Exit Pages](https://analytics.google.com/analytics/web/?authuser=1#/report/content-pages/a50123418w177519031p184334251/_r.drilldown=analytics.pagePath:~2Feducation~2Fyellow-ribbon-participating-schools~2Findex.html&_r.tabId=navigationsummary)
 
 ### KPIs
-**Experience**
-- % exit to university pages
-- % exit to other VA.gov links
+**Experience Metrics**
+- % exit to university pages 
+- % exit to other VA.gov links  
   - Find out if you qualify for the Yellow Ribbon Program
   - Find out if you're eligible for the Post-9/11 GI Bill
   - Apply for Post-9/11 GI Bill benefits
 - Avg. number of search refinements
 - Frequency of search criteria usage
+- Search results load speed
 
-**Outcomes**
+**Outcomes Metrics**
 - % of Post-911 GI Bill benefit applications started in session with a visit to YR
 - % of sessions with successful logins following a visit to YR
 - % of sessions with success account creations following a visit to YR
 
-**Consider for a DOMO Dashboard**
+**Consider for a Domo Dashboard**
 
-Over time...
-- % exit to university pages
-- % exit to other VA.gov links
-- Frequency of search criteria usage
-- % of Post-911 GI Bill benefit applications started in session with a visit to YR
-- % of sessions with successful logins following a visit to YR
+- Frequency of search criteria usage 
+  - bc it explains whether/how people use the YR tool
+  - This is currently available in GA (see Yellow Ribbon Searches and Refinements above). And I'm not sure how this'll translate to Domo, if at all. 
+- % exit to university pages 
+  - bc it indicates whether we're triggering users to take the next step to research individual institutions. We cannot, however, know what happens next.
+- % exit to other VA.gov links 
+  - bc it indicates whether users are continuing the benefit discovery process
+
+- % of Post-911 GI Bill benefit applications started in session with a visit to YR 
+  - bc we want to enable wider usage of benefits specifically the Post-911 GI Bill benefit, which is necessary for participation in the YR program
+- % of sessions with successful logins following a visit to YR 
+  - bc we want to learn if we're prompting Veterans to leverage their existing profiles
 - % of sessions with success account creations following a visit to YR
+  - bc we want to learn if we're incentivizing Veterans to create accounts and eventually start the benefit application process
 
 ### OKRs
 
