@@ -248,4 +248,4 @@ The links below will take you to raw results in Optimal Workshop for each card s
 - [Topic tags - SMEs](https://app.optimalworkshop.com/a/adhoc/optimalsort/results/cba2ab93-60d8-4e86-9952-71758ad3b949#/t/results/overview)
 - [Audience tags - SMEs](https://app.optimalworkshop.com/a/adhoc/optimalsort/results/186497d6-4278-4c9f-bdeb-357de3f0e4df#/t/results/overview)
 - [Topic tags - Veterans](https://app.optimalworkshop.com/a/adhoc/optimalsort/results/6927f1e9-ad71-40ed-8da9-6f02779e4d51#/t/results/overview)
-- [Audience tags - Veterans](
+- [Audience tags - Veterans](https://app.optimalworkshop.com/a/adhoc/optimalsort/results/d7531108-0d6d-4351-ab9a-bc31302b75ff#/t/results/overview)
