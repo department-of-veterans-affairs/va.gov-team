@@ -1,7 +1,5 @@
 # UX, Content and Functionality Changes
 
-## Use Cases/Business Logic for Wizards
-
 ### For all Wizards
 
 **UX:** 
