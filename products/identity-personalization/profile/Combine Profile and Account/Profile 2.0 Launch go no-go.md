@@ -33,17 +33,19 @@ Platform: is the Product Health Tool updated to track this product data and work
 
 
 `Name of responsible team member`: is the release plan complete and ready to execute against?
-- `yes/no - any notes`
+- [ ] Yes
+- [ ] No
+- Comments:
 
 `Name of responsible team member`: did you see KPI metrics populating from UAT?
 - [ ] Yes
 - [ ] No
-Comments:
+- Comments:
 
 `Name of responsible team member`: are there any Sev1 bugs or accessibility issues outstanding?
 - [ ] Yes
 - [ ] No
-Comments:
+- Comments:
 
 'Name of responsible team member`: is call center ready to handle potential calls that may come in about preview.va.gov?
 - [ ] Yes
