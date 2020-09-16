@@ -30,7 +30,8 @@ FROM
     `vsp-analytics-and-insights.176188361.ga_sessions_*` AS ga,
     UNNEST(ga.hits) AS hits
 WHERE        
-    _TABLE_SUFFIX BETWEEN '20200706' and '20200708'
+    --_TABLE_SUFFIX BETWEEN '20200717' and '20200914'
+    _TABLE_SUFFIX = FORMAT_DATE('%Y%m%d',DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY))
     AND hits.type = 'PAGE'
     AND totals.visits = 1    
     AND REGEXP_CONTAINS(

@@ -39,11 +39,19 @@ FROM
     `vsp-analytics-and-insights.176188361.ga_sessions_*` AS ga,
     UNNEST(ga.hits) AS hits
 WHERE
-    -- _TABLE_SUFFIX = FORMAT_DATE('%Y%m%d',DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY))
-    _TABLE_SUFFIX BETWEEN '20200706' and '20200906'
+    _TABLE_SUFFIX = FORMAT_DATE('%Y%m%d',DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY))
+    --_TABLE_SUFFIX BETWEEN '20200717' and '20200915'
     and totals.visits = 1
     AND hits.type = 'EVENT'
     AND REGEXP_CONTAINS(hits.page.pagePath, r'^(eauth\.va\.gov|www\.ebenefits\.va\.gov)')
+    AND NOT REGEXP_CONTAINS(
+        hits.page.pagePath,
+        r'(/mhv-portal-web|/web/myhealthevet/)'
+    )
+    AND NOT REGEXP_CONTAINS(
+        hits.page.pagePath,
+        r'(preprod\.eauth\.va\.gov|preprodchat\.vrm\.vba\.va\.gov|sqa\.eauth\.va\.gov|pint\.eauth\.va\.gov|m\.pint\.ebenefits\.va\.gov|int\.ebenefits\.va\.gov|int\.eauth\.va\.gov|perf\.ebenefits\.va\.gov|demo\.ebenefits\.va\.gov|mhv-intb\.myhealth\.va\.gov|mhv-syst\.myhealth\.va\.gov|pint\.ebenefits\.va\.gov|pint2\.vaausessapp601\.aac\.va\.gov|pint2\.vaenapp30\.aac\.va\.gov.*|vaausessapp(.*)\.aac\.va\.gov.*|vaebnapp7\.aac\.va\.gov.*|ebenefits-preprod\.aac\.va\.gov)'
+    )    
 GROUP BY
     1,
     2,

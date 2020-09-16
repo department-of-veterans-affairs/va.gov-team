@@ -16,6 +16,42 @@ GROUP BY
   date
 ```
 
+### Previous day's data
+```sql
+#standardSQL
+SELECT 
+  date,
+  SUM(totals.visits) as sessions,
+  COUNT(DISTINCT fullVisitorId) as users,
+  SUM(totals.pageviews) as pageviews
+FROM 
+  `vsp-analytics-and-insights.176188361.ga_sessions_*`
+WHERE
+  -- Load previous day's table
+  _TABLE_SUFFIX = FORMAT_DATE(
+      '%Y%m%d',
+      DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY)
+  )
+```
+
+### Previous month's data
+```sql
+#standardSQL
+SELECT 
+  date,
+  SUM(totals.visits) as sessions,
+  COUNT(DISTINCT fullVisitorId) as users,
+  SUM(totals.pageviews) as pageviews
+FROM 
+  `vsp-analytics-and-insights.176188361.ga_sessions_*`
+WHERE
+  -- Load previous month's tables
+  SUBSTR(_TABLE_SUFFIX, 0, 6) = FORMAT_DATE(
+    "%E4Y%m",
+    DATE_SUB(CURRENT_DATE, INTERVAL 1 MONTH)
+  )
+```
+
 ### Total Users, Sessions, Pageviews by specific page, by date
 
 ```sql

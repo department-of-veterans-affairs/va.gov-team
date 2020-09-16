@@ -64,7 +64,8 @@ FROM
                             `vsp-analytics-and-insights.176188361.ga_sessions_*` AS ga,
                             UNNEST(ga.hits) AS hits
                         WHERE
-                            _TABLE_SUFFIX BETWEEN '20200706' AND '20200708'
+                            --_TABLE_SUFFIX BETWEEN '20200717' AND '20200914'
+                            _TABLE_SUFFIX = FORMAT_DATE('%Y%m%d',DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY))
                             AND REGEXP_CONTAINS(
                                 hits.page.pagePath,
                                 r'^(eauth\.va\.gov|www\.ebenefits\.va\.gov)'
