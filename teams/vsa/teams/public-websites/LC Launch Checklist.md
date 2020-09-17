@@ -17,8 +17,8 @@
 | [Build FE template for content type: Video](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13498) | In progress - Sprint 30 |
 | [Build FE template for Single Q/A](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13133) | In-progress - Sprint 30 | 
 | [Audit VA.gov for account and profile content to pull into LC for MVP launch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12892) Rolling Initiative - Accross Sprints | In progress - Sprint 30 |
-| [Design Mobile Step-by-step https://github.com/department-of-veterans-affairs/va.gov-team/issues/13134) | In-progress - Sprint 30 | 
-| [Discovery- IRIS Call Center Author Research, Initial Outreach to individuals (https://github.com/department-of-veterans-affairs/va.gov-team/issues/13332) | Not Started - Sprint 31 |
+| Design Mobile Step-by-step (https://github.com/department-of-veterans-affairs/va.gov-team/issues/13134) | In-progress - Sprint 30 | 
+| Discovery- IRIS Call Center Author Research, Initial Outreach to individuals (https://github.com/department-of-veterans-affairs/va.gov-team/issues/13332) | Not Started - Sprint 31 |
 | [Iterate FE Templates for 1.0 based on mobile](link?) | Not started - Sprint 31 | 
 | [IRIS Research Continued () |In progress - Sprint 32 | 
 | [Build FE templates for 1.0 [FE]About, LC Homepage + 'view all X articles' landing]() | Not started - Sprint 32 |
