@@ -73,13 +73,17 @@ The current timeline is pending...
 **Team availability**
 | Dates | Times (EDT) |
 | --- | --- |
-| September 14, 2020 | 9 AM to 5 PM |
-| September 15, 2020 | 9 AM to 5 PM |
-| September 16, 2020 | 9 AM to Noon |
-| September 17, 2020 | 9 AM to 5 PM |
-| September 18, 2020 | 9 AM to 5 PM |
-| September 18, 2020 | 9 AM to 5 PM |
-| September 21, 2020 | 9 AM to 5 PM |
+| September 21, 2020 | 1 to 5 PM |
+| September 22, 2020 | N/A |
+| September 23, 2020 | 9 AM to Noon |
+| September 24, 2020 | 9 AM to 5 PM |
+| September 25, 2020 | N/A |
+| W E E K - T W O | |
+| September 28, 2020 | 9 AM to 5 PM |
+| September 29, 2020 | 9 AM to 5 PM |
+| September 30, 2020 | 9 AM to Noon |
+| October 1, 2020 | 9 AM to 5 PM |
+| October 2, 2020 | 9 AM to 5 PM |
 
 - Please leave 30 minutes between sessions 
 - Please do not exceed 3 sessions a day 
