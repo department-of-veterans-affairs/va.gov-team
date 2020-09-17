@@ -10,9 +10,9 @@ Provides Veterans, family members, caregivers, service members and other audienc
 We envision a world where it takes less time to find information about VA benefits and services than it does on Google. 
 
 ### Team North Stars:
-1. Use of self-service tools and associated number of conversions
-2. Time to outcome
-3. Customer satisfaction
+1. Increase the use of self-service tools and associated number of conversions
+2. Decrease time users spend waiting for an outcome
+3. Consistent Customer satisfaction, reliability and secure online UX
 
 ## What we work on
 ### Product Suite
@@ -21,14 +21,13 @@ Unauthenticated Experience for VA.gov
 ### Product Portfolio:
 -	Home Page 
 -	Header / Footer 
--	Benefit Hubs 
--	On-site Search
+-	Redirect Benefit Hubs 2.0 
+-	On-site Search 2.0
 -	Find a VA Form
 - Yellow Ribbon Participating Schools Tool
 -	Contact Us/ Help Utility
--	Global Alerts
-- Campaign Landing Pages
-- Learning Center 
+- Metrics - baseline and goals
+- Learning Center Content / IA 
 
 
 ### Responsibilities (Problem space and user goals):
