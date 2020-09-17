@@ -52,12 +52,14 @@ User goes to prototype
 User determines if 28-8832 is the sole form to use to apply for career and education benefits
 - (If user has disability rating) Would you mind telling us what your disability rating is?
 - With that in mind, take a **look at this page and see if you qualify for Chapter 36 or other benefits.**
+- (When user gets to the time-limit Q) Does this disqualify you? Let's say that it's been only six months.
 
 ### Task 1A / Chapter 31 wizard / 5 minutes
 Users with a disability rating may jump to the 21-1900
 - So do you know why you were sent here? 
 - How is this different from the previous page/screen/form?
 - Please **look at this page and see if you qualify.** 
+- (When user gets to the time-limit Q) Does this disqualify you? Let's say that it's been only two years.
 
 #### Things to look for:
 - Does the user read/understand the intro copy?
