@@ -338,11 +338,9 @@ The majority of participants mapped articles with the word `claim` in it to the 
 
 #### Veterans associated `Records` and  `VA account and profile` with a wide variety of content.
 
-15 of the 16 cards were added to `Records` by at least one participant, and 13 of the 16 cards were added to `VA account and profile`. Our team had assigned 3 articles to each of these topics, so this tells us that Veterans have a much broader mental model around these categories than we thought. 
+15 of the 16 cards were added to `Records` by at least one participant, and 13 of the 16 cards were added to `VA account and profile`. Our team had assigned only 3 articles to each of these topics, so this tells us that Veterans have a much broader mental model around these categories than we thought. 
 
-2 or more Veterans mapped the following unexpected articles to `Records` , which suggest that they're thinking about records in the sense of 
-
-**Records**
+2 or more Veterans mapped the following unexpected articles to `Records` .  This suggests that people are thinking about records in ways beyond official records and documents.
 
 - How to upload evidence online for your claim (5)
 - How to change your VA address online (5)
@@ -354,9 +352,27 @@ The majority of participants mapped articles with the word `claim` in it to the 
 - Directory of state Veterans agencies (2)
 - How do I check my claim status? (2)
 
+2 or more Veterans mapped the following unexpected articles to `VA account and profile` .  It's not surprising that the articles that include the word "my" or "your"  would be associated with account or profile.  
+
+- Where can I view my VA payments online? (22)
+- Who do I contact about debt on my account? (20)
+- How to upload evidence online for your claim (9)
+- Accepted forms of discharge documents for applying for a VA benefit (7)
+- VA's adaptive housing grants for disabled Veterans (2)
+- How to prepare for your Agent Orange Registry Health Exam (2)
+- Directory of VSOC counselors (2)
+
+**Takeaways**
+
+- We should consider making the `Records` topic label more specific to ensure it doesn't become a catch-all for anything that could be associated with a "record".
+- It's understanding that people would think content with language like "my" and "your" would be found in their account and profile; we should keep that in mind as we craft IA and tags around this type of content to help meet Veteran expectations about where it might be found.
+- This validates the need for cross-tagging/categorization to surface content appropriately in the learning center.
+
 #### The cards sorted into `Other topics and questions` suggest that participants saw this topic as a "catch all" for things they weren't sure about.
 
 
+
+#### A finding to talk about the categories people created.
 
 #### 
 
