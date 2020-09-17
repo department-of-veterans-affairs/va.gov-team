@@ -356,6 +356,10 @@ Many of the `vets-api` endpoints call out to external services. To mock external
 To work with only one pact in the broker, you can verify a pact at any remote URL using the `pact:verify:at task`. Otherwise, the rake task will run all the pacts pushed to the [heroku broker](https://vagov-pact-broker.herokuapp.com/).
 ```
 rake pact:verify:at[https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.gov%20API/consumer/Search/latest]
+
+OR via docker flow
+
+make pact PACT_URI=https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.gov%20API/consumer/Search/latest
   
 ```
 *Note: If you are blocked by the frontend, you can [point to a local file path](#using-a-local-file-if%20blocked-by-frontend)*
@@ -371,6 +375,19 @@ bundle exec rake pact:verify
 OR
 
 make pact
+
+OR 
+
+# if following the docker workflow and working with only one pact, 
+# you can pass in a pact uri (broker url or local path) to the docker pact makefile target
+
+make pact PACT_URI=https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.gov%20API/consumer/Search/latest
+# broker url example
+
+make pact PACT_URI=tmp/hca-va.gov_api.json
+# local path example
+
+
 ```
 
 #### Important: Docker workflow settings
