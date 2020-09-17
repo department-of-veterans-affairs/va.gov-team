@@ -1,9 +1,3 @@
-# VSP Product Outline Template
-
-_Because this is VSP-internal, the Product Outline should be located in `/products/platform/`.
----
-
-
 # VSP Command Line Interface (CLI) Toolkit
 
 ## Overview
