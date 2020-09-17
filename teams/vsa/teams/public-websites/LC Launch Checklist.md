@@ -18,9 +18,9 @@
 | [Build FE template for Single Q/A](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13133) | In-progress - Sprint 30 | 
 | [Audit VA.gov for account and profile content to pull into LC for MVP launch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12892) Rolling Initiative | In progress - Sprint 30 |
 | [Design Mobile Step-by-step](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13134) | In-progress - Sprint 30 | 
-| [Discovery- IRIS Call Center Author Research, Initial Outreach to individuals](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13332) | Not Started - Sprint 31 |
+| [Discovery- IRIS Call Center Author Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13332) | Not Started - Sprint 31 |
 | [Iterate FE Templates for 1.0 based on mobile](link?) | Not started - Sprint 31 | 
-| IRIS Research Continued () |In progress - Sprint 32 | 
+| [IRIS Q&As: Batch 2, Service member benefits](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13598)| Not Started - Sprint 32 | 
 | [Build FE templates for 1.0 [FE]About, LC Homepage + 'view all X articles' landing]() | Not started - Sprint 32 |
 | [Design Mobile (and potentially desktop) templates for checklist, video, images]() | Not started - Sprint 32 |
 | [Iterate FE templates for 1.1; Checklist, Videos, Images (TBD on mobile) () | Not started - Sprint 33 |
@@ -40,7 +40,7 @@
 | Reusable FAQs Infrastructure  | In-progress - Sprint Planning |
 | IRIS Contact Center Authoring User Research | Starting |
 | Contact Center Review   | Not Started |
-| Card Sort Synthesis   | Completed |
+| Card Sort Synthesis   | Completed - Sprint 30 |
 | Beta Launch - Hidden Launch | To do |
 | Link in IA | To do |
 | Search Configuration: Defined in MVP 1.0(1) | To do |
@@ -53,7 +53,7 @@
 | Task     | Status |
 | :----------- | ----------- |
 | Additional audience and topic categories | Sprint Planning |
-| Was this helpful compnent data inegration [Google Analytics] | Sprint Planning |
+| Was this a helpful component data inegration [Google Analytics] | Sprint Planning |
 | Templates for December Launch [Videos, Images, Checklists] | Sprint Planning |
 | Template Iteration - LC Homepage FE Interation | Spring Planning |
 
