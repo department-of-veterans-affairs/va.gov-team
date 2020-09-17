@@ -14,7 +14,7 @@ How might we create a build process that supports the needs of VA content editor
 
 ## Personas
 * VA.gov CMS content editors (indirectly)
-* VFS teams who work are product owners of content models (ex. VSA Facilities team)
+* VFS teams who are product owners of content models (ex. VSA Facilities team)
 
 ## Measuring Success
 
@@ -33,7 +33,7 @@ How might we create a build process that supports the needs of VA content editor
 
 ## Solution Approach
 
-
+The VA.gov 
 
 --- 
 
