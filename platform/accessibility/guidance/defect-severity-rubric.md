@@ -35,8 +35,9 @@ These issues have the potential to cause life-threatening situations and should 
 
 * Applications must not have [high flicker rates](https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure-does-not-violate.html) (could trigger epileptic seizures)
   * [Three Flashes or Below Threshold: Understanding SC 2.3.1](https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure-does-not-violate.html)
-* Motion or movement should not cover a high percentage of the screen. This could lead to possible [vestibular issues](https://a11yproject.com/posts/understanding-vestibular-disorders/).
+* Motion or movement should not cover a high percentage of the screen. This could lead to possible [vestibular issues](https://www.a11yproject.com/posts/2013-05-15-understanding-vestibular-disorders/).
   * [WCAG2.1 Understanding Success Criterion 2.2.2: Pause, Stop, Hide](https://www.w3.org/WAI/WCAG21/Understanding/pause-stop-hide.html)
+  * [A List Apart: Accessibility for Vestibular Disorders: How My Temporary Disability Changed My Perspective](https://alistapart.com/article/accessibility-for-vestibular/)
 
 #### Potential impact:
 
