@@ -96,6 +96,15 @@ Tool is performing well if:
 
 #### Product Roadmap:
 
+##### Next Steps
+
+###### DataDog Migration
+Migrate current SLO reporting from Promethaus/Grafana into DataDog
+Re-create required metrics in DataDog
+Schedule weekly (or other time frame) reports
+
+##### Future
+
 - Build utilities and self-service feature for reporting workflow (S3 log subscriptions, cron job, etc)
 - Work with the VSP Insights & Analytics team to integrate external performance monitoring into their workflow(s).
 - Update `vets-api` codebase to uniformly adopt Faraday `ActiveSupport` notifications for request time [instrumentation subscription](http://dpsk.github.io/blog/2013/10/01/track-request-time-with-the-faraday/)
