@@ -6,6 +6,7 @@
 - [Zenhub](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vaos&repos=133843125)
 - VA.gov link: https://www.va.gov/health-care/schedule-view-va-appointments/appointments/
 - Demo video link: [Need to update] Current link -- https://drive.google.com/file/d/1LucLBX2AApkvPTK7nyo72SrFa7QZqmQQ/view
+- [Confluence Wiki page for VAOSR](https://wiki.mobilehealth.va.gov/display/VAOSR/VAOS-R+UX+Dev+Team+Repository)
 - Product POCs:
   - VAOS Suite Business Owners:
     - Dr. Kathleen Frisbee
