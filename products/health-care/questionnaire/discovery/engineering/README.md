@@ -434,3 +434,11 @@ fake data that it uses locally. This may is important to note when using the
 the front end to research the functionality of VAOS or other backend functionality.
 The same thing may be happening in the staging environment. There are some settings in vets-web that can
 turn of mocking where in the code there is a USE_MOCK_DATA constant
+
+## Outstanding issues and unknowns
+
+- Stephen Barrs indicated that a script would be used to create the FHIR based questionnaire on the MAP PGD which would occur on the MAP side. If there is a desire to update the questionnaire or use it to define a dynamic form then it should be noted that a resource that has access to the internal MAP would be needed to change that. 
+- If the front end needs to access MAP through vets-api to obtain derrive a form layout based on data in the FHIR based questionnaire, then keep in mind that if that connections fails then the front end may not be able to display the form correctly unless that is cached etc.
+- It has not been worked out how to associate a given veteran with a questionnaire response, typically a ICN number is used in the URLs but it also has to be known what record id's in the fhir data or otherwise would be part of that association
+
+
