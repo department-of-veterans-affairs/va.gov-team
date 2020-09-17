@@ -9,7 +9,7 @@ This is WIP and may evolve based on user research and technical findings. [Visua
 - **Required: Search bar** - learning center search or  VA.gov (If user selects VA.gov search, user is taken to the normal site search results where results from all of VA.gov are pulled.)
 - **[Content type labels:](#content-type-labels)** - Note: Content type label will be used only on search results, and not on the articles themselves.
 - **Required: H1** – new H1 limit for LC pages – 70 max characters including spaces, rigid in AX
-- **[Frontend content tags](#fe-content-tags)** 
+- **[Frontend content tags](#frontend-content-tags)** 
 - **[Learning center categories](#learning-center-categories)** - Formerly known as BE tags
 - **Required: Intro text** – rich text formattable wysiwig – 1,000 characters max including spaces.
 - **Required: CTA buttons** – at least 1 required; up to 2; must restrict button text length to 40 characters to prevent wrapping button labels on mobile
