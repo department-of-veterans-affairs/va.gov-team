@@ -1,5 +1,5 @@
 # Logged-in Homepage User Stories
-
+[LIH plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/product/LIH-outline-and-timeline.md)
 
 ## Healthcare
 ### User story Action
