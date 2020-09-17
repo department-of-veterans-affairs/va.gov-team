@@ -8,7 +8,6 @@
 #### story 
 #### story
 
-
 ## Claims
 ### User story Action
 #### story 
