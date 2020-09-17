@@ -81,7 +81,7 @@ We should also consider adding a label for non-citizen Veterans. This is the onl
 
 #### 2. We should consider adding a secondary audience label to help surface content to all applicable audiences.
 
-Participants put articles into categories we didn't expect about 20% of the time in both groups.   `All Veterans` and `Family members and caregivers` stood out has having the widest variety of articles added to them.  Often times, the associations made sense, such as `What is adult day care` being mapped by many participants to `Family members and caregivers`.  
+Participants put articles into categories we didn't expect about 20% of the time in both groups.   `All Veterans` and `Family members and caregivers` stood out has having the widest variety of articles added to them.  Often times, the associations made sense, such as `What is adult day care` being mapped by many participants to `Family members and caregivers`.  Many of these instances seemed to be related to the a word in the article title being repeated in the audience  
 
 This tells us that people think about topics in different ways and suggests there is need to surface content by audience in more than one way.  We may want to consider adding audience labels to our [learning center categories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#learning-center-categories), or allowing for a second front-end audience tag, to help people find the content they're looking for, even if they think about it in a different way than the majority.
 
@@ -241,7 +241,7 @@ The mental model of participants aligns with what we expected for the most part.
 
 #### SME participants applied some Veteran audience labels more broadly than we expected.
 
-The `All Veterans` audience label had the most cards (9 of 21) added to it across all the categories. This category had the most cards in the Veteran card sort as well. It makes sense, from the Veteran perspective, to associate something you may not be confident about with the broadest label. It's more meaningful that content authors would associate an article with such a broad label, especially when more specific and relevant options are available. All 3 of the cards we expected to make it into this category were placed there by at least 33% of participants, but people also added things like: 
+The `All Veterans` audience label had the most cards (9 of 21) added to it across all the categories. It's meaningful that content authors would associate an article with such a broad label, especially when more specific and relevant options are available. All 3 of the cards we expected to make it into this category were placed there by at least 33% of participants, but people also added things like: 
 
 - Forms for filing a life insurance claim for your deceased Veteran (2)
 - Benefits and services for Veterans who are Philippine U.S. nationals (2)
@@ -275,17 +275,94 @@ The majority of SME participants mapped one article like we thought they would: 
 
 ## Topic label card sort details
 
+Both audiences received the same cards and categories; this table outlines the topics we expected  participants to associate with each article, and the number of participants who did what we expected:
+
+|      | Topic (category)                  | Article (card)                                               | Number of Veterans who agreed (out of 39) | Number of SMEs who agreed (out of 9) |
+| ---- | --------------------------------- | ------------------------------------------------------------ | ----------------------------------------- | ------------------------------------ |
+| 1    | VA account and profile            | I lost my phone and I can’t access the code for 2-factor authentication | 19                                        | 8                                    |
+| 2    | VA account and profile            | How to change your VA address online                         | 32                                        | 9                                    |
+| 3    | VA account and profile            | How do I check my claim status?                              | 11                                        | 2                                    |
+| 4    | Other topics and questions        | How to challenge a claims agent fee                          | 13                                        | 3                                    |
+| 5    | Other topics and questions        | VA HCRV specialists for Veterans who are or have been in prison | 13                                        | 8                                    |
+| 6    | Other topics and questions        | Directory of state Veterans agencies                         | 27                                        | 6                                    |
+| 7    | Other topics and questions        | Who do I contact about debt on my account?                   | 9                                         | 3                                    |
+| 8    | Careers and employment            | Directory of VSOC counselors                                 | 9                                         | 5                                    |
+| 9    | Disability                        | How to prepare for your Agent Orange Registry Health Exam    | 19                                        | 5                                    |
+| 10   | Disability                        | How to upload evidence online for your claim                 | 23                                        | 5                                    |
+| 11   | Disability                        | How VA back pay (retroactive benefits) works                 | 19                                        | 2                                    |
+| 12   | Housing assistance and home loans | VA's adaptive housing grants for disabled Veterans (Video)   | 30                                        | 9                                    |
+| 13   | Housing assistance and home loans | Which tribal governments participates in VA’s NADL home loan program? | 34                                        | 8                                    |
+| 14   | Records                           | Accepted forms of discharge documents for applying for a VA benefit | 20                                        | 4                                    |
+| 15   | Records                           | Where can I view my VA payments online?                      | 8                                         | 1                                    |
+| 16   | Records                           | Can I get the military records of my deceased Veteran family member? | 36                                        | 9                                    |
+
 ### Veteran Participants
 
-#### Finding
+#### Generally, Veterans mapped articles to topics the way we expected about half of the time.
 
-##### Takeaway
+7 of the 16 articles were mapped to topics the way we expected by 20 (51%) or more people. The agreement rate varied from 21-92% across the articles, with an average of 52% overall.   `Housing assistance and home loans` was the only topic where all the articles were mapped as expected by the majority of participants. As a topic category, `Careers and employment` had the lowest rate of agreement.  Since this was not the case in our SME topic card sort, we suspect this is due to participants not being familiar with the VSOC acronym.
+
+In most cases, the unexpected associations people made were logical, and seemed to be a result of either:
+
+1.  The article relating to multiple topics (e.g. many participants associated `Where can I view my VA payments online?`  to `VA account and profile`).  It's natural that the primary topic would vary based on an individuals perspective.
+2. A person didn't understand something in the article itself. For example,`How to prepare for your Agent Orange Registry Health Exam` would be challenging to associate to `Disability` if you weren't familiar with Agent Orange. 
+
+**Takeaway**
+
+- With many of our key data points near 50%, the data doesn't conclusively support any changes one way or the other.
+- This validates that our plan to apply multiple topic tags and categories to articles will help surface content for Veterans with a variety of mental models.
+
+#### There was a high association between `claims` and `disability`; 2 participants created a category called `Claims`.
+
+The majority of participants mapped articles with the word `claim` in it to the `Disability` category, instead of the topic we identified as being primary.   This suggests that Veterans think about claims in the context of disability benefits, even though other VA benefits have claims.
+
+- 22 participants mapped `How do I check my claim status?` to `Disability`  instead of `VA account and profile`
+- 19 participants mapped `How to challenge a claims agent fee` to `Disability` instead of `Other topics and questions`
+
+2 participants created their own category called `Claims` to group the same claim-related articles.
+
+**Takeaway**
+
+- Many Veterans don't associate checking their claim status with their VA account.
+- This validates the need for cross-tagging/categorization to surface content appropriately in the learning center.
+
+- `Disability` should be considered as a tag for disability claim related information, even if the content of the article directs a person to a part of the website other than the Disability benefit hub.
+
+#### Veterans associated `Records` and  `VA account and profile` with a wide variety of content.
+
+15 of the 16 cards were added to `Records` by at least one participant, and 13 of the 16 cards were added to `VA account and profile`. Our team had assigned 3 articles to each of these topics, so this tells us that Veterans have a much broader mental model around these categories than we thought. 
+
+2 or more Veterans mapped the following unexpected articles to `Records` , which suggest that they're thinking about records in the sense of 
+
+**Records**
+
+- How to upload evidence online for your claim (5)
+- How to change your VA address online (5)
+- Who do I contact about debt on my account? (4)
+- VA HCRV specialists for Veterans who are or have been in prison (4)
+- How VA back pay (retroactive benefits) works (4)
+- How to challenge a claims agent fee (3)
+- I lost my phone and I can’t access the code for 2-factor authentication (2)
+- Directory of state Veterans agencies (2)
+- How do I check my claim status? (2)
+
+#### The cards sorted into `Other topics and questions` suggest that participants saw this topic as a "catch all" for things they weren't sure about.
+
+
+
+#### 
 
 ### SME Participants
 
-#### Finding
+#### SME participants mapped the majority of articles to topic labels the way we expected.
 
-##### Takeaway
+5 (56%) or more people mapped 10 of the 16 articles mapped to our proposed topic label. `Housing assistance and home loans` had the highest level of agreement at 94%, but no topic had 100% agreement with our mapping.
+
+
+
+##### **Takeaway**
+
+The mental model of participants aligns with what we expected for the most part. We should feel confident moving forward with the labels that had a high agreement rate.
 
 #### 
 
