@@ -4,7 +4,7 @@
 
 |Test case|Intended outcome|Staging user|
 |----|----|----|
-|###|###|###|
+|User has not verified their identity|A prompt to verify identity (https://staging.va.gov/verify/)|vets.gov.user+350@gmail.com|
 |###|###|###|
 |###|###|###|
 
