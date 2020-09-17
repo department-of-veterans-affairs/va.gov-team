@@ -2,7 +2,7 @@
 name: VSP Initiative
 about: Top-level epic to track a VSP Initiative
 title: ''
-labels: initiative
+labels: VSP-Initiative
 assignees: ''
 
 ---
