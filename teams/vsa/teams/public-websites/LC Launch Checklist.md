@@ -9,20 +9,20 @@
 ## Must-have - open items
 | User story     | Status 
 | :----------- | ----------- |
-| [[Design] - MVP learning center templates, tables](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11499) | In progress - Sprint 30 |
-| [[Discovery] Synth data/provide recommendations from LC MVP card sort](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11072) | In progress - Sprint 30 |
+| [Design - MVP learning center templates, tables](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11499) | In progress - Sprint 30 |
+| [Discovery - Synth data/provide recommendations from LC MVP card sort](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11072) | In progress - Sprint 30 |
 | [Build FE template for Step-by-step](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13135) | In progress - Sprint 30 |
 | [Build FE template for Content Type: Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13497) | In progress - Sprint 30 |
 | [Build FE Template for Content Type: Images](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13499) | In progress - Sprint 30 |
 | [Build FE template for content type: Video](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13498) | In progress - Sprint 30 |
 | [Build FE template for Single Q/A](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13133) | In-progress - Sprint 30 | 
 | [Audit VA.gov for account and profile content to pull into LC for MVP launch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12892) Rolling Initiative - Accross Sprints | In progress - Sprint 30 |
-| [Design] Mobile Step-by-step () | In-progress - Sprint 30 | 
-| [[Discovery] IRIS Call Center Author Research, Initial Outreach to individuals (https://github.com/department-of-veterans-affairs/va.gov-team/issues/13332) | Not Started - Sprint 31 |
+| [Design Mobile Step-by-step https://github.com/department-of-veterans-affairs/va.gov-team/issues/13134) | In-progress - Sprint 30 | 
+| [Discovery- IRIS Call Center Author Research, Initial Outreach to individuals (https://github.com/department-of-veterans-affairs/va.gov-team/issues/13332) | Not Started - Sprint 31 |
 | [Iterate FE Templates for 1.0 based on mobile](link?) | Not started - Sprint 31 | 
 | [IRIS Research Continued () |In progress - Sprint 32 | 
 | [Build FE templates for 1.0 [FE]About, LC Homepage + 'view all X articles' landing]() | Not started - Sprint 32 |
-| [[Design] Mobile (and potentially desktop) templates for checklist, video, images]() | Not started - Sprint 32 |
+| [Design Mobile (and potentially desktop) templates for checklist, video, images]() | Not started - Sprint 32 |
 | [Iterate FE templates for 1.1; Checklist, Videos, Images (TBD on mobile) () | Not started - Sprint 33 |
 
 
@@ -38,6 +38,15 @@
 | Step-by-step| In-progress - Sprint 30 |
 | About   | Pending - CMS Feedback |
 | Reusable FAQs Infrastructure  | In-progress - Sprint Planning |
+| IRIS Contact Center Authoring User Research | Starting |
+| Contact Center Review   | Not Started |
+| Card Sort Synthesis   | Completed |
+| Beta Launch - Hidden Launch | To do |
+| Loopin IA | To do |
+| Search Configuration: Defined in MVP 1.0(1) | To do |
+| CMS Collaboration Cycle Review | To do |
+| Accessiblity Considerations | To do |
+| Cadence for meeting with/communicating with Program/Platform team during launch | To do |
 
 
 ## Must-have - Done (MVP 1.1)
@@ -49,7 +58,7 @@
 | Template Iteration - LC Homepage FE Interation | Spring Planning |
 
 
-## Blocked Items Pending Action (as of 9/17)
+## Backlog / Blocked Items Pending Action (as of 9/17)
 | Task     | Status |
 | :----------- | ----------- |
 | [Adding Account and Profile and Other LC topics content into Drupal ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13410) | Blocked |
@@ -63,22 +72,6 @@
 | Learning Center Home Page | Pending CMS Followup  |
 | Learning Center search results  +  ‘view all X articles’ landing page | Pending CMS Followup |
 
-
-
-
-
-## Building in Flight/Backlog
-| Task     | Status |
-| :----------- | ----------- |
-| IRIS Contact Center Authoring User Research | Starting |
-| Contact Center Review   | Not Started |
-| Card Sort Synthesis   | Completed |
-| Beta Launch - Hidden Launch | To do |
-| Loopin IA | To do |
-| Search Configuration: Defined in MVP 1.0(1) | To do |
-| CMS Collaboration Cycle Review | To do |
-| Accessiblity Considerations | To do |
-| Cadence for meeting with/communicating with Program/Platform team during launch | To do  |
 
 
 
