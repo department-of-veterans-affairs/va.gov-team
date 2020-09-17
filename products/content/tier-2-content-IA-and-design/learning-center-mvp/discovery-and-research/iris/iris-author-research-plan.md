@@ -39,9 +39,9 @@
    - What are content author and call center requirements are as part of the authoring experience?
      - Is it important to know who the content author was?
      - How is that information used?
-     - If info is identified as being wrong, is someone graded on that content?
-     - Who is responsible for fixing/updating incorrect information?
-     - What are the data things that are created as part of their authoring experience that is used for processes that they may have? To support grading, traceability, etc
+   - If info is identified as being wrong, is someone graded on that content?
+   - Who is responsible for fixing/updating incorrect information?
+   - What are the data things that are created as part of their authoring experience that is used for processes that they may have? To support grading, traceability, etc
 
 4. Hypothesis: What is your hypothesis for this research?
 
