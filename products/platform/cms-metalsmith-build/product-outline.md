@@ -1,7 +1,9 @@
 # VA.gov CMS Build Pipeline - Product Outline
 
 ## Overview
-The VA.gov CMS exports data from Drupal in a format that must be converted to static HTML, which can be served to VA.gov. 
+The VA.gov CMS exports data from Drupal in a format that must be converted to static HTML, which can be served to VA.gov. The metalsmith build pipeline fits into the CMS ecosystem as described in this diagram: 
+
+![CMS diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/cms-metalsmith-build/cms-architecture-diagram.png)
 
 ## Problem Statement
 *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address.*
