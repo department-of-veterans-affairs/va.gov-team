@@ -47,7 +47,7 @@ Total = 49
 - [#12101](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12101) Set up the controller (3)
 - 👉 [#12105](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12105) Set up the model (5)
 - 👉 [#12142](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12142) Set up a sidekiq job  (3)
-- ✔ [#13273](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13273) Send SSN and DOB data to BGS (n)
+- ✔ [#13273](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13273) Send SSN and DOB data to BGS (3)
 - [?] Set up sentry events  (5)
 - [?] Test submission against environment (5)  
   - Submitting unauth?
