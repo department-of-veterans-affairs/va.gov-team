@@ -2,8 +2,14 @@
 
 In this folder, you'll find information specific to how 508 Accessibility works on VA.gov.
 
-* Learn about [accessibility best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md) for research, design, product, and engineering
-* To request a VSP Collaboration Cycle Staging Review, this [accessibility test cases checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-test-cases-checklist.md) may make the request process easier for your team.
+## Table of Contents
+
+* [Communication channels](#communication-channels)
+
+* [Accessibility resources](#accessibility-resources)
+
+* [VSA Accessibility Dashboard](#vsa-accessibility-dashboard)
+
 
 ### Communication channels
 - Slack channels: [#vetsgov-accessibility](https://dsva.slack.com/channels/vetsgov-accessibility)
@@ -14,6 +20,10 @@ In this folder, you'll find information specific to how 508 Accessibility works 
 
 ### Accessibility resources
 The following list is a set of resources to help you do your work and answer questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the [dsva.slack.com](https://dsva.slack.com/#vetsgov-accessibility) channel or your VSA accessibility POC directly.
+
+* Learn about [accessibility best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md) for research, design, product, and engineering
+
+* To request a VSP Collaboration Cycle Staging Review, this [accessibility test cases checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-test-cases-checklist.md) may make the request process easier for your team.
 
 * [Accessibility Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md)
 
