@@ -1,12 +1,16 @@
-# VA.gov CMS Build Pipeline - Product Outline
+# VA.gov CMS Build Pipeline - Product Outline [DRAFT]
 
 ## Overview
 The VA.gov CMS exports data from Drupal in a format that must be converted to static HTML, which can be served to VA.gov. The metalsmith build pipeline fits into the CMS ecosystem as described in this diagram: 
 
 ![CMS diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/cms-metalsmith-build/cms-architecture-diagram.png)
 
+_Note that this product outline is NOT referring to the preview server, which has its own metalsmith build pipeline as seen at the bottom of the diagram._
+
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address.*
+The metalsmith build pipeline must enable content from the VA.gov CMS to be published on VA.gov. It must be scalable, to support hundreds of VA content editors and VA sites and subdomains. VA stakeholders also expect that the publishing time will be a matter of a couple minutes (as opposed to the app deploy on VA.gov which happens 1x/day and takes much longer). 
+
+How might we create a build process that supports the needs of VA content editors and does not jeopardize the security & stability of VA.gov? 
 
 ## Personas
 * VA.gov CMS content editors (indirectly)
@@ -29,14 +33,7 @@ The VA.gov CMS exports data from Drupal in a format that must be converted to st
 
 ## Solution Approach
 
-_Describe, in a few sentences and/or bullet points, what you plan to build, and how it will solve the problem. Some questions to think about:_
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-
-_For non-trivial technical solutions, an [engineering design doc](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/design-docs) should be written to deeply explain **How** this product will be built._
 
 --- 
 
