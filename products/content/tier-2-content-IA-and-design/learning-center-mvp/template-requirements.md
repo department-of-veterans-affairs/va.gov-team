@@ -9,7 +9,7 @@ This is WIP and may evolve based on user research and technical findings. [Visua
 - **Required: Search bar** - learning center search or  VA.gov (If user selects VA.gov search, user is taken to the normal site search results where results from all of VA.gov are pulled.)
 - **[Content type labels:](#content-type-labels)** - Note: Content type label will be used only on search results, and not on the articles themselves.
 - **Required: H1** – new H1 limit for LC pages – 70 max characters including spaces, rigid in AX
-- **[FE content tags](#fe-content-tags)** 
+- **[Frontend content tags](#fe-content-tags)** 
 - **[Learning center categories](#learning-center-categories)** - Formerly known as BE tags
 - **Required: Intro text** – rich text formattable wysiwig – 1,000 characters max including spaces.
 - **Required: CTA buttons** – at least 1 required; up to 2; must restrict button text length to 40 characters to prevent wrapping button labels on mobile
@@ -21,7 +21,7 @@ This is WIP and may evolve based on user research and technical findings. [Visua
 - **Required: [Related information](#related-information-section)** 
 - **Required: [VA benefits section](#va-benefits-section)** 
 - **Required: [Need more help?](#need-more-help-section)** - This section includes contact info based on administration or hub.
-- **Back to top links - ~required if TOC links are enabled:~** ~displays at the end of each H2 section~ Per accessibility feedback, we will create Back to top feature at the FE that's based on page height. 
+- **Back to top links:**  Per accessibility feedback, we will create Back to top feature at the FE that's based on page height. 
 - **Required: Meta title** - `H1 | Veterans Affairs` format; no character limit, ~no initial caps~. The 70-character-max H1 should automatically be used to generate the meta title. Note: Can we add initial capping logic va the FE template? 
 - **Meta description** -- TBD I don't think we need to have meta description for LC, but want to confirm this with engineers and John Hashimoto on what's needed for the kind of structured LC search results display we want. My thinking is we're fine pulling search results display text from the intro text, up to... [TBD] characters max and truncate with ellipses or with "Read more." 
 - ~**~Required~ TBD: [Administration taxonomy](#administration-taxonomy)** We may need administration info for AX governance - tbd. We are not using administration info for any component logic.
