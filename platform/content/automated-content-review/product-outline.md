@@ -18,8 +18,8 @@ Building on previous FE and BE work on “plain language linting”, HMW integra
 
 ### Key Performance Indicators (KPIs)
 * Utilization of plain language linter
-* # of remediations identified and addressed by the plain language linter
-* # of content review support requests, split by low-level errors vs high level errors
+* Number of remediations identified and addressed by the plain language linter
+* Number of content review support requests, split by low-level errors vs high level errors
 
 #### Baseline KPI Values
 n/a
