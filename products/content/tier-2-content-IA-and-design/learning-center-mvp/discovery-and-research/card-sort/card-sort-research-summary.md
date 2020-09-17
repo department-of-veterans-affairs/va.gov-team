@@ -52,7 +52,41 @@ Each card sort was evaluated individually. We first looked at how people mapped 
 
 Once the individual studies were evaluated, we looked for trends across both audience groups to identify any significant findings that apply to our beneficiary and SME users.
 
-## Audience label card sort findings
+The studies don't give us a holistic view of how people will understand the nomenclature once both topics *and* audience labels are applied. It's likely that having both labels on a single article will help someone understand the purpose of the content.
+
+## Key Findings
+
+These findings take data from both participant groups into consideration.
+
+### Audience Labels
+
+#### We can confidently move forward with the majority of audience labels we've proposed; there are two adjustments to consider.
+
+Across both participant groups, people mapped the majority of articles the way we expected. This validates that we're on the right track with the nomenclature we've selected, and don't need to make changes to most of the audience labels.
+
+**We should consider revising the audience label ``Veterans 65+ with complex care needs``.** This had a low rate of agreement compared to other labels.  People put articles we expected to go here under other labels, demonstrating a broader scope of thinking about those articles.  People also put articles into this group that applied to only one part of the label ("65+" or "complex care") such as `What is a protected pension?` . This suggests that simplifying the label may make its intention more clear to both content authors and Veterans. 
+
+**We should also consider adding a label for non-citizen Veterans**. This is the only audience category participants created (for the article `Benefits and services for Veterans who are Philippine U.S. nationals`). We should evaluate if we have enough content to warrant creating a category for this audience group.
+
+#### We should consider adding a secondary audience label to help surface content to all applicable audiences.
+
+Participants put articles into categories we didn't expect about 20% of the time in both groups.   `All Veterans` and `Family members and caregivers` stood out has having the widest variety of articles added to them.  Often times, the associations made sense, such as `What is adult day care` being mapped by many participants to `Family members and caregivers`.  
+
+This tells us that people think about topics in different ways and suggests there is need to surface content by audience in more than one way.  We may want to consider adding audience labels to our [learning center categories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#learning-center-categories), or allowing for a second front-end audience tag, to help people find the content they're looking for, even if they think about it in a different way than the majority.
+
+#### The list of audience labels we've come up with matches the mental model of Veteran and SME participants.
+
+5 new categories were created in the SME card sort, and 8 were created in the Veteran card sort. All but one were topics, rather than audiences, which tells us that generally we have a comprehensive list of audiences to cover a range of topics.  The audience topic created was related to Veterans with non-citizen status.  As stated in the previous finding, it's worth considering whether or not we should add this audience group to our nomenclature, likely dependent on the amount of content we'd have for them.
+
+
+
+### Topic Labels
+
+
+
+## Detailed findings: audience label card sort 
+
+This section breaks out the findings for the audience label card sort by participant group.
 
 ### Veteran participants
 
@@ -107,7 +141,7 @@ The other articles people placed into this category suggest they focused on the 
 ##### **Takeaways**
 
 - Veterans think more broadly about the topics we felt fit into this audience group. 
-- Our plan to allow authors to apply more than one audience tag supports this broader scope of thinking, and should help people find the information they're looking for.
+- We should consider adding audience labels to learning center categories, or allow for multiple audience front-end labels, to support this broader scope of thinking, help surface content to all applicable audiences.
 - Simplifying the label  `Veterans age 65+ with complex care needs` may make it easier for all Veterans to find relevant articles with this label.
 
 #### The `Family members and caregivers` audience label also performed lower than most other audience categories. 
@@ -129,8 +163,8 @@ The `Family members and caregivers` audience label had these articles matched to
 
 ##### **Takeaway**
 
--  The majority of participants mapped this audience as we expected, so we should feel confident moving forward with it as-is.
-- A secondary audience label should help clarify exactly what the article is about, and avoid misinterpretation.
+- The majority of participants mapped this audience as we expected, so we should feel confident moving forward with it as-is.
+- A secondary audience front-end tag or category could help clarify exactly what an article is about, and avoid misinterpretation.
 
 #### We may want to add a label for Veterans of non-citizen nationality.
 
@@ -190,9 +224,9 @@ The mental model of participants aligns with what we expected for the most part.
 ##### **Takeaways**
 
 - This data suggests that SMEs generally understand the difference between articles for beneficiaries and non-beneficiaries. 
-- The ability to add more than one audience label should help content authors target the right audience when their content applies to multiple groups.
+- The ability to add more than one audience tag or category could help content authors target the right audience when their content applies to multiple groups.
 
-#### SME participants applied some audience labels more broadly than we expected.
+#### SME participants applied some Veteran audience labels more broadly than we expected.
 
 The `All Veterans` audience label had the most cards (9 of 21) added to it across all the categories. This category had the most cards in the Veteran card sort as well. It makes sense, from the Veteran perspective, to associate something you may not be confident about with the broadest label. It's more meaningful that content authors would associate an article with such a broad label, especially when more specific and relevant options are available. All 3 of the cards we expected to make it into this category were placed there by at least 33% of participants, but people also added things like: 
 
@@ -209,9 +243,9 @@ The `Family members and caregivers` audience label also had a variety of cards a
 
 - SMEs applied the `All Veterans` audience label more broadly than we hoped, considering more specific categories were available.  
 - We should help content authors and SMEs understand the benefit of using a more specific audience label when applicable. When people apply `All Veterans` to something related to pension or education, it suggests they're defaulting to the safest option possible without considering whether or not a more specific label would reach the target audience.
-- Again, the ability to add more than one audience label should help content authors when their content applies to multiple audience groups. The grouping we saw isn't necessarily wrong.
+- Again, the ability to add more than one audience category or front-end tag could help content authors when their content applies to multiple audience groups. The grouping we saw isn't necessarily wrong.
 
-#### People didn't map articles to  `Veterans 65+ with complex care needs` exactly how we anticipated.
+#### SME participants didn't map articles to  `Veterans 65+ with complex care needs` exactly how we anticipated.
 
 The majority of SME participants mapped one article like we thought they would: `What kinds of long-term care services does VA offer?` was placed into this category by 6 of 9 people. The category had 2 other noteworthy results:
 
@@ -224,23 +258,11 @@ The majority of SME participants mapped one article like we thought they would: 
 - People generally understood this label, but also had broader associations (e.g. adult day care with a family caregiver) that caused them to place an article in a place we didn't expect.
 - Simplifying the label  `Veterans age 65+ with complex care needs` may make it easier for SME's to use this audience label more specifically as it applies to the content they're working with.  Because it has two parts, people may apply it as-is to content that isn't exactly relevant to this audience label.
 
-### What does the combined data suggest?
-
-#### We can confidently move forward with the majority of audience labels we've proposed, but may want to adjust `Veterans 65+ with complex care needs`.
-
-In both participant groups, people mapped the majority of articles the way we expected them to. This validates that we're on the right track with the nomenclature we've selected, and don't need to make changes to most of the audience labels.
-
-#### Our plan to allow content authors to apply multiple audience labels will help surface content to all applicable audiences.
 
 
+## Detailed findings: topic label card sort 
 
-#### The list of audience labels we've come up with matches the mental model of Veteran and SME participants.
-
-5 new categories were created in the SME card sort, and 8 were created in the Veteran card sort. All but one were topics, rather than audiences, which tells us that generally we have a comprehensive list of audiences to cover a range of topics.  The audience topic created was related to Veterans with non-citizen status.  It's worth considering whether or not we should add this audience group to our nomenclature, likely dependent on the amount of content we'd have for them.
-
-
-
-## Topic label card sort findings
+This section breaks out the findings for the topic label card sort by participant group.
 
 ### Veteran Participants
 
@@ -254,9 +276,7 @@ In both participant groups, people mapped the majority of articles the way we ex
 
 ##### Takeaway
 
-### What does the combined data suggest?
-
-#### Finding
+#### 
 
 ## Next Steps
 
