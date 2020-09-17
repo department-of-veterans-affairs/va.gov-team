@@ -16,7 +16,7 @@
 |###|###|###|
 |###|###|###|
  
-  ### Test cases for "Blank State"
+### Test cases for "Blank State"
 
 |Test case|Intended outcome|Staging user|
 |----|----|----|
@@ -24,7 +24,7 @@
 |###|###|###|
 |###|###|###|
  
- ## Test cases for "Healthcare"
+### Test cases for "Healthcare"
 
 |Test case|Intended outcome|Staging user|
 |----|----|----|
