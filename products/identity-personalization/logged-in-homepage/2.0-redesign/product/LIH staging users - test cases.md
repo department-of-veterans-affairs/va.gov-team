@@ -67,7 +67,7 @@
 |###|###|###|
 |###|###|###|
 
-### Test cases for "Discover other benefits"
+### Test cases for "TBD"
 
 |LOA|Test case|Staging user|
 |----|----|----|
