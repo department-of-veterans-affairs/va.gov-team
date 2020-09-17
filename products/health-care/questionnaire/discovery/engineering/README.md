@@ -23,6 +23,7 @@
   - [Analytics Investigation](#analytics-investigation)
   - [User Whitelist](#user-whitelist)
   - [VA Gov research using vets-web frontend](#va-gov-research-using-vets-web-frontend)
+  - [Outstanding issues and unknowns](#outstanding-issues-and-unknowns)
   
 
 ## Problem Statement
