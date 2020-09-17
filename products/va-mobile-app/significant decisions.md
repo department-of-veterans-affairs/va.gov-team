@@ -319,7 +319,15 @@ Availability of backend intwgrations, as well as support from the VSP team to bu
 ## When, or under what conditions, would you recommend revisiting this design decision? E.g., after usability testing, after launch when metrics or analytics equal X, etc.
 We fell like this decision will be rather permanent, as much as the VSP is permanent. If mobile app usage increases to a point that vets-api can not handle, then we could consider extracting the mobile api presentation layer into a separate project, possibly similar to option 4 above.
 
-
+# Other Decisions we need to elaborate on:
+* Decision: the mobile app will not source any content from a CMS
+* more API work needed: we will work with VEText to define a push notification and preferences api for appointments (@alastair, @jonathan)
+* the app will only allow level 3 users. we are documenting flows for DSLogon/ID.me/MHV so we can design the UX for non-level-3 visitors to the app (@Patrick Saxton)
+* Decision: we agreed on device support matrix (@erik)
+* Decision: MVP will not have any specific tablet support
+* the app will be built and released under the official VA accounts
+* Decision: iOS support 12/13/14(beta), Android support min 26. (@brandon /@Patrick Saxton to do due diligence)
+* we will support accessibility WCAG, more discussion tomorro
 ------------------------------
 
 # TEMPLATE: Provide a brief background of the problem.
