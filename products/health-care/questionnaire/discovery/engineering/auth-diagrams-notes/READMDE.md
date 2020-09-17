@@ -1,6 +1,6 @@
 # Auth Diagram and explinations [WIP]
 
-This document's goal is to provide converstion starters, as well as jumping off points for discovery on Authentications
+This document's goal is to provide conversation starters, as well as jumping off points for discovery on Authentication. 
 
 
 ## General VA Auth
@@ -33,7 +33,7 @@ Interactions with ID.me happening according to the [documentation here](https://
 
 ![Diagram for non-health data](Lighthouse.NonHealthApi.png)
 
-For non health data, we use an API that is was given to the API team to use with each request. This key was generated 
+For non health data, we use an API that is was given to the API team to use with each request. This key is stored an environment variable in the Vets API. 
 
 ## Lighthouse - Health API 
 

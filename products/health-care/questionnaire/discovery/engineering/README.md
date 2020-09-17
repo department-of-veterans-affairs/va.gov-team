@@ -182,7 +182,8 @@ An inherent part of the problem that we are looking into how we can get veterans
 
 As part of this effort, we are building out an [architecture diagram](https://drive.google.com/file/d/1pXB0mH5COT6Hbssk6WBb3zYRNCkwySll/view?usp=sharing)
 
-![architecture diagram](./assets/Questionnaire%20System%20Diagram.png)
+![Diagram](assets/architecture.v2.png)
+
 
 To make edits, there is a [png](./assets/Questionnaire%20System%20Diagram.png) that can be uploaded to [draw.io](http://draw.io/). 
 
