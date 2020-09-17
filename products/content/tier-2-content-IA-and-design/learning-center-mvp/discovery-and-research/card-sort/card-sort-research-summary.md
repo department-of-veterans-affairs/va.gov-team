@@ -54,13 +54,18 @@ Once the individual studies were evaluated, we looked for trends across both aud
 
 The studies don't give us a holistic view of how people will understand the nomenclature once both topics *and* audience labels are applied. It's likely that having both labels on a single article will help someone understand the purpose of the content.
 
-## Key Findings
+## Key findings across both participant groups
 
-These findings take data from both participant groups into consideration.
+1. We can confidently move forward with the majority of audience labels we've proposed; there are two adjustments to consider. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-summary.md#we-can-confidently-move-forward-with-the-majority-of-audience-labels-weve-proposed-there-are-two-adjustments-to-consider)
+2.  We should consider adding a secondary audience label to help surface content to all applicable audiences. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-summary.md#we-should-consider-adding-a-secondary-audience-label-to-help-surface-content-to-all-applicable-audiences)
+3. The list of audience labels we've come up with matches the mental model of Veteran and SME participants. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-summary.md#the-list-of-audience-labels-weve-come-up-with-matches-the-mental-model-of-veteran-and-sme-participants)
+4. 
 
-### Audience Labels
+#### Details
 
-#### We can confidently move forward with the majority of audience labels we've proposed; there are two adjustments to consider.
+---
+
+#### 1. We can confidently move forward with the majority of audience labels we've proposed; there are two adjustments to consider.
 
 Across both participant groups, people mapped the majority of articles the way we expected. This validates that we're on the right track with the nomenclature we've selected, and don't need to make changes to most of the audience labels.
 
@@ -74,7 +79,7 @@ We should also consider adding a label for non-citizen Veterans. This is the onl
 - Consider revising the audience label ``Veterans 65+ with complex care needs``. 
 - Consider adding a label for non-citizen Veterans
 
-#### We should consider adding a secondary audience label to help surface content to all applicable audiences.
+#### 2. We should consider adding a secondary audience label to help surface content to all applicable audiences.
 
 Participants put articles into categories we didn't expect about 20% of the time in both groups.   `All Veterans` and `Family members and caregivers` stood out has having the widest variety of articles added to them.  Often times, the associations made sense, such as `What is adult day care` being mapped by many participants to `Family members and caregivers`.  
 
@@ -84,21 +89,17 @@ This tells us that people think about topics in different ways and suggests ther
 
 Consider ways we can apply multiple audience labels to articles. An additional front-end tag or adding audiences to learning center categories could be helpful.
 
-#### The list of audience labels we've come up with matches the mental model of Veteran and SME participants.
+#### 3. The list of audience labels we've come up with matches the mental model of Veteran and SME participants.
 
-5 new categories were created in the SME card sort, and 8 were created in the Veteran card sort. All but one were topics, rather than audiences, which tells us that generally we have a comprehensive list of audiences to cover a range of topics.  The audience topic created was related to Veterans with non-citizen status.  As stated in the previous finding, it's worth considering whether or not we should add this audience group to our nomenclature, likely dependent on the amount of content we'd have for them.
+5 new categories were created in the SME card sort, and 8 were created in the Veteran card sort. All but one were topics, rather than audiences, which tells us that generally we have a comprehensive list of audiences to cover a range of topics.  The audience topic created was related to Veterans with non-citizen status. 
+
+The SME card sort had the addition of non-beneficiary audience labels, and they generally understood how to apply those to articles ([detailed below](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-summary.md#sme-participants-generally-understood-how-to-apply-the-non-beneficiary-audience-labels)).
 
 **Recommendation**
 
 Move forward with the majority of audience labels as proposed.
 
-### Topic Labels
-
-
-
-## Detailed findings: audience label card sort 
-
-This section breaks out the findings for the audience label card sort by participant group.
+## Audience label card sort details
 
 ### Veteran participants
 
@@ -272,9 +273,7 @@ The majority of SME participants mapped one article like we thought they would: 
 
 
 
-## Detailed findings: topic label card sort 
-
-This section breaks out the findings for the topic label card sort by participant group.
+## Topic label card sort details
 
 ### Veteran Participants
 
