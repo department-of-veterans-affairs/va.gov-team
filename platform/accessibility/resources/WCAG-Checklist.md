@@ -5,6 +5,9 @@
 
 The W3C's Web Content Accessibility Guidelines (WCAG) are the worldwide standard for accessibility compliance. This checklist offers organized guidance to meet Section 508 and accessibility compliance. 
 
+For an overview of WCAG, and distinctions between 2.0, 2.1, and 2.2, please see the [W3C WCAG documentation](https://www.w3.org/WAI/standards-guidelines/wcag/).
+
+
 ## What is Section 508?
 
 * Section 508 is the U.S. federal mandate for accessibility compliance. 
@@ -12,8 +15,10 @@ The W3C's Web Content Accessibility Guidelines (WCAG) are the worldwide standard
     * Section 508 is an amendment to the Rehabilitation Act of 1973. 
     * In 1998 the US Congress amended the Rehabilitation Act to require Federal agencies to make their electronic and information technology accessible to people with disabilities. Section 508 was enacted to eliminate barriers in information technology, to make available new opportunities for people with disabilities, and to encourage development of technologies that will help achieve these goals. All products and services purchased or created with federal money **must** be 508-compliant. Source: [The ADA and Section 508](https://508compliantdocumentconversion.com/americans-with-disabilities-act/)
     
-* Since 2017, Section 508 references WCAG 2.0 Level A and Level AA Success Criteria and Conformance Requirements. The Access Board, who oversees Section 508, indicated they will wait for WCAG 3.0 (expected in 2021–2022) to update Section 508.
-* In 2018, WCAG 2.1 was released and is the current worldwide standard for accessibility compliance. Half of U.S. Veterans have an identified cognitive disability, and it's likely even more do. VA.gov mobile traffic continues to increase and accounts for half of the arrivals. WCAG 2.1's focus on cognitive and mobile design success criteria are useful for supporting these needs. Building on that, there are additional draft critera in WCAG 2.2 that are not yet part of the standard.
+* Since 2017, Section 508 references WCAG 2.0 Level A and Level AA Success Criteria and Conformance Requirements. The Access Board, who oversees Section 508, indicated they will wait for WCAG 3.0 (expected in 2021–2022) to update Section 508. WCAG 2.0 was published on December 11, 2008.
+
+
+* On June 5, 2018, WCAG 2.1 was released and is the current worldwide standard for accessibility compliance. Half of U.S. Veterans have an identified cognitive disability, and it's likely even more do. VA.gov mobile traffic continues to increase and accounts for half of the arrivals. WCAG 2.1's focus on cognitive and mobile design success criteria are useful for supporting these needs. Building on that, there are additional draft critera in WCAG 2.2 that are not yet part of the standard.
 
 
 ## Section 508 success criteria can be organized into four areas: 
@@ -231,18 +236,23 @@ The page MUST have a meaningful title (e.g. About us), even when included via if
 </details>
 
 
-## WCAG 2.1 
+## WCAG 2.1 Success Criteria
 
 ### What is WCAG 2.1?
 
-In 2018, WCAG 2.1 was released and **is the current standard for accessibility compliance.** It includes all the WCAG 2.0 success criteria and adds:
+Published on June 5, 2018, WCAG 2.1 was released and **is the current standard for accessibility compliance.** It includes all the WCAG 2.0 success criteria and adds:
 
 ### Part 4: Understandability/Cognition, continued
 
 ### Part 5: Mobile Design
 
 
-## WCAG 2.2
+## WCAG 2.2 Draft Criteria
+
+### What is WCAG 2.2?
+
+WCAG 2.2 is scheduled to be published in early 2021.
+
 
 
 
