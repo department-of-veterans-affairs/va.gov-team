@@ -6,6 +6,8 @@ In this folder, you'll find information specific to how 508 Accessibility works 
 
 * [Communication channels](#communication-channels)
 
+* [How does accessibility fit into our product lifecycle?](#how-does-accessibility-fit-into-our-product-lifecycle)
+
 * [Accessibility resources](#accessibility-resources)
 
 * [VSA Accessibility Dashboard](#vsa-accessibility-dashboard)
@@ -15,7 +17,7 @@ In this folder, you'll find information specific to how 508 Accessibility works 
 - Slack channels: [#vetsgov-accessibility](https://dsva.slack.com/channels/vetsgov-accessibility)
 - Github labels: `508/Accessibility`
 
-### VSA Accessibility Specialist Point of Contact
+#### VSA Accessibility Specialist Point of Contact
 - Jennifer Strickland, @Jennifer_S in Slack, @jenstrickland in Github, jennifer.strickland@adhocteam.us
 
 ### How does accessibility fit into our product lifecycle?
