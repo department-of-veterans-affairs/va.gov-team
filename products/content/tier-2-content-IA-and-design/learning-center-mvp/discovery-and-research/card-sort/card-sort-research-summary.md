@@ -64,9 +64,15 @@ These findings take data from both participant groups into consideration.
 
 Across both participant groups, people mapped the majority of articles the way we expected. This validates that we're on the right track with the nomenclature we've selected, and don't need to make changes to most of the audience labels.
 
-**We should consider revising the audience label ``Veterans 65+ with complex care needs``.** This had a low rate of agreement compared to other labels.  People put articles we expected to go here under other labels, demonstrating a broader scope of thinking about those articles.  People also put articles into this group that applied to only one part of the label ("65+" or "complex care") such as `What is a protected pension?` . This suggests that simplifying the label may make its intention more clear to both content authors and Veterans. 
+We should consider revising the audience label ``Veterans 65+ with complex care needs``. This had a low rate of agreement compared to other labels.  People put articles we expected to go here under other labels, demonstrating a broader scope of thinking about those articles.  People also put articles into this group that applied to only one part of the label ("65+" or "complex care") such as `What is a protected pension?` . This suggests that simplifying the label may make its intention more clear to both content authors and Veterans. 
 
-**We should also consider adding a label for non-citizen Veterans**. This is the only audience category participants created (for the article `Benefits and services for Veterans who are Philippine U.S. nationals`). We should evaluate if we have enough content to warrant creating a category for this audience group.
+We should also consider adding a label for non-citizen Veterans. This is the only audience category participants created (for the article `Benefits and services for Veterans who are Philippine U.S. nationals`). We should evaluate if we have enough content to warrant creating a category for this audience group.
+
+**Recommendations**
+
+- Move forward with the majority of labels as proposed.
+- Consider revising the audience label ``Veterans 65+ with complex care needs``. 
+- Consider adding a label for non-citizen Veterans
 
 #### We should consider adding a secondary audience label to help surface content to all applicable audiences.
 
@@ -74,11 +80,17 @@ Participants put articles into categories we didn't expect about 20% of the time
 
 This tells us that people think about topics in different ways and suggests there is need to surface content by audience in more than one way.  We may want to consider adding audience labels to our [learning center categories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#learning-center-categories), or allowing for a second front-end audience tag, to help people find the content they're looking for, even if they think about it in a different way than the majority.
 
+**Recommendation**
+
+Consider ways we can apply multiple audience labels to articles. An additional front-end tag or adding audiences to learning center categories could be helpful.
+
 #### The list of audience labels we've come up with matches the mental model of Veteran and SME participants.
 
 5 new categories were created in the SME card sort, and 8 were created in the Veteran card sort. All but one were topics, rather than audiences, which tells us that generally we have a comprehensive list of audiences to cover a range of topics.  The audience topic created was related to Veterans with non-citizen status.  As stated in the previous finding, it's worth considering whether or not we should add this audience group to our nomenclature, likely dependent on the amount of content we'd have for them.
 
+**Recommendation**
 
+Move forward with the majority of audience labels as proposed.
 
 ### Topic Labels
 
