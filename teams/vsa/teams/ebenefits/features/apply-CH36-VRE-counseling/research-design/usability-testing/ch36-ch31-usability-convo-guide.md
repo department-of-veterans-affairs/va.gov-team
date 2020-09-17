@@ -32,7 +32,7 @@ There are a few things I need to mention before we start:
 ## Wayfinding
 ### User screenshares / 3 minutes
 - Before we go to the prototype we're testing, we'll take a quick look at VA.gov
-- I put a link in the chat box; **plase click on it.**
+- I put a link in the chat box; **please click on it.**
 - Looking at VA.gov, where would you go to find info about VA career or education benefits?
 - This is the actual home page; you're free to click on anything.
 
@@ -45,7 +45,7 @@ There are a few things I need to mention before we start:
 User goes to prototype
 - I have a link in chat to the prototype we're testing; **please click on it.** (Clicks on prototype link to CH36/28-8832 form wizard)
 - For the purpose of this test, we'll say you're interested in VA career and education benefits.
-- We'll be using made-up scenarios that may not necessarily apply to you. We'll be completeing a form (or forms), and you're free to use whatever names and dates come to mind--fake names and numbers are fine. 
+- We'll be using made-up scenarios that may not necessarily apply to you. We'll be completing a form (or forms), and you're free to use whatever names and dates come to mind--fake names and numbers are fine. 
 - Nothing will be submitted because this is a prototype. However, we're recording this, so please don't use real social security numbers--1234567890 should work in those cases.
 
 ### Task 1 / Chapter 36 wizard / 5 minutes
@@ -83,7 +83,7 @@ User jumps to VR&E wizard, then the 28-1900 form
 #### Things to look for:
 - Do users choose to sign in? Or do they prefer to submit the form unauthenticated?
 - Is the flow of the form intuitive? What language trips-up the user?
-- Do users review their submission info? Do they undeerstand the intended function of the accordions?
+- Do users review their submission info? Do they understand the intended function of the accordions?
 - Does the confirmation screen satisfy the user regarding confirmation and next steps?
 - Where are users confused by the similarities of the two forms?
 
@@ -91,7 +91,7 @@ User jumps to VR&E wizard, then the 28-1900 form
 - If this were an actual application, what would expect to happen next?
 - What are your thoughts about the questions at the start of the form?
 - What on the site would you do/look at next?
-- What would help reduce confusion over the two forms: Chapter 36 and Chapteer 31?
+- What would help reduce confusion over the two forms: Chapter 36 and Chapter 31?
 - What could we do to make the forms easier to use/understand?
 
 ---
