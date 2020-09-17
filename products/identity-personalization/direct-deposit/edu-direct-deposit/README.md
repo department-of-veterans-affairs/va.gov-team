@@ -11,16 +11,16 @@ Last Updated September 17, 2020
      - Profile 
      - DD
 
-|Name|Role|
-|----|----|
-|Samara Strauss | DEPO Lead |
-|Steve Kovacs | DEPO Lead |
-|Matt Shea|Product Manager|
-|Jim Adams | VA.gov: eBenefits team designer |
-|Erik Hansen | FE Engineer|
-|Lihan Li | BE Engineer |
-|Luke Tickner | VBA Edu team |
-
+|Name|Role|Email|
+|----|----|-----|
+|Samara Strauss |DEPO Lead| samara.strauss@va.gov |
+|Steve Kovacs | DEPO Lead | Steven.Kovacs@va.gov |
+|Matt Shea|Product Manager| matt.shea@adhocteam.us |
+|Jim Adams | Designer | jadams@governmentcio.com |
+|Sandra Hallie | FE Engineer | shallie@governmentcio.com |
+|Erik Hansen | FE Engineer| erik@adhocteam.us |
+|Lihan Li | BE Engineer | lihan@adhocteam.us |
+|Luke Tickner | VBA Edu team | Lucas.Tickner@va.gov |
 
 ## The Problem
 
