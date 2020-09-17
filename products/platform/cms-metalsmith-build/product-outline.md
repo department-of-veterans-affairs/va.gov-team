@@ -29,11 +29,15 @@ How might we create a build process that supports the needs of VA content editor
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+* 
 
 ## Solution Approach
 
-The VA.gov 
+The VA.gov CMS was originally build using GraphQL. The content build process takes "too long" (per DEPO and VA stakeholder requirements), and hardware issues are preventing content editors from publishing as many nodes as are needed to fully scale the CMS and VA.gov. 
+
+In fall of 2019, a "CMS Superteam" was established. The team decided to pivot to a new form of CMS export (based on Tome Sync), which generates data in a different structure than GraphQL. Transformers are used to convert the new CMS export to the same format as GraphQL, which can then be an input to the same filters and templates that were used in the initial build pipeline. 
+
+As of September 2020, VSP FE Tools is working to fix discrepancies between the CMS export transformers and GraphQL, at which time we can use CMS Export Build + transformers to serve content from the CMS to VA.gov instead of GraphQL.
 
 --- 
 
