@@ -13,7 +13,7 @@ The Chapter 36 (CH36) program, Personalized Career Planning and Guidance (PCPCG)
 The eBenefits team is moving Chapter 31 and Chapter 36 features from the eBenefits site to VA.gov. Primarily, this involves rebuilding the digital versions of VA forms 28-1900 and 28-8832 (CH36). These will be reconstructed on VA.gov using the site's form system conventions. CH31 and CH36 benefits overlap a bit, creating confusion for some users. At VBA's request gating/screening wizards have been developed to help Veterans decide which form is best for them.
 
 ### Goals
-Our primary goal is to move the Chapter 31 and Chapter 36 features--currently form submissions--to VA.gov, maintaing all existing functionality. Secondarily, we want to reduce confusion between the two programs using screening wizards on the form introduction pages. We're conducting usability testing of the features to determine if the new forms and wizards are intuitive and functional for users needing to submit either form VA 28-1900 or 28-8832.
+Our primary goal is to move the Chapter 31 and Chapter 36 features--currently form submissions--to VA.gov, maintaining all existing functionality. Secondarily, we want to reduce confusion between the two programs using screening wizards on the form introduction pages. We're conducting usability testing of the features to determine if the new forms and wizards are intuitive and functional for users needing to submit either form VA 28-1900 or 28-8832.
 
 #### Guiding questions
 - Where and how (what links/navigation) do participants expect to find CH31 and CH36 forms?
@@ -32,7 +32,7 @@ We will engage in moderated usability testing conducted remotely using Zoom. Rem
 
 #### The process
 - There will be a quick warm-up and introduction usability testing
-- The participant will be given a link to the VA.gov home with instuctions to find the CH36 page (Screenshare)
+- The participant will be given a link to the VA.gov home with instructions to find the CH36 page (Screenshare)
 - The user will be provided a link to the CH36 prototype intro screen
 - The moderator will outline a scenario (use case) for the participant to follow
 - The user will potentially proceed through the wizard, sign-in and the CH36 form itself; or on to the CH31 form
