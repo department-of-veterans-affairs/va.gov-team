@@ -35,9 +35,11 @@ The following list is a set of resources to help you do your work and answer que
 
 * [Additional VSP Accessibility Resources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/accessibility)
 
+## VSA Accessibility Dashboard
 
-## 508 issues tracking
+The VSA accessibility specialist is measuring and monitoring a number of metrics to evaluate if processes and resources are improving the quality of accessibility in our work. The [VSA Accessibility Dashboard](https://sites.google.com/d/1TaKZ5-By8oAv9M-HBhyylpw14-3UXDdp/p/1doeOzfSq_zSeBl7_iBzezsaNJWqUgsDy/edit) is available for anyone who has access to GCIO's Google Drive. Please contact Jennifer if you don't have access and would like to review.
 
+<!-- 
 Starting with sprint 14, I am tracking the 508 issues on VA.gov, and specific to VSA teams, to evaluate and measure accessibility efforts and impact on design/dev quality.
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/2020-sprint19-issues.png" alt="bar graph of the data in the following table" />
@@ -217,3 +219,4 @@ Please note: for sighted users, I'm working on table styling in Github, apologie
 </tbody>
 </table>
 </figure>
+-->
