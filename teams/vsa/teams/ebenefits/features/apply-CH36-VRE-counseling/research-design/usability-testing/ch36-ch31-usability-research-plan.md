@@ -72,6 +72,7 @@ The current timeline is pending...
 
 **Team availability**
 | Dates | Times (EDT) |
+| --- | --- |
 | September 14, 2020 | 9 AM to 5 PM |
 | September 15, 2020 | 9 AM to 5 PM |
 | September 16, 2020 | 9 AM to Noon |
