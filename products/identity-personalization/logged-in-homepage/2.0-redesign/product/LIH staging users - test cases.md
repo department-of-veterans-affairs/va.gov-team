@@ -5,9 +5,6 @@
 |Test case|Intended outcome|CTA/URL|Staging User|Error State|Error State Staging User|
 |----|----|----|----|----|----|
 |User has not verified their identity|A prompt to verify identity|https://staging.va.gov/verify/|vets.gov.user+350@gmail.com|N/A|N/A|
-
-|Test case|Intended outcome|CTA/URL|Staging User|Error State|Error State Staging User|
-|----|----|----|----|----|----|
 |User has an applicatoin in-progress on VA.gov|Application in-progress: Continue your application|(links to in-progress status of specific application) https://staging.va.gov/education/apply-for-education-benefits/application/1990/resume|TBD|TBD|TBD|
 
 
