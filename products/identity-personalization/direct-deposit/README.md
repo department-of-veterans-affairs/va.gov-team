@@ -1,4 +1,4 @@
-# Direct Deposit for Compensation & Pension payments: Product Outline
+# Direct Deposit for Compensation & Pension Payments: Product Outline
 Last Updated July 6, 2020
 
 ## POCs
