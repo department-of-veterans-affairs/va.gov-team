@@ -148,4 +148,4 @@ label: vsa-public-websites
 
 #### General things
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
-- Extra time? Explore the "Ready" column in ZenHub and work through backlog issues as appropriate. 
+- Extra time? Explore the "Ready" column in ZenHub. 
