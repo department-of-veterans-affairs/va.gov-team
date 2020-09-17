@@ -1,13 +1,16 @@
 # Sentry 10 Upgrade
 
 ## Overview
-*A brief description of the product.*
+
+Sentry is a tool used by the VSP and the VFS team to monitor exceptional errors that relate to the performance of the platform and applications.  Sentry is not a logging or debugging tool, but rather a tool that will alert developers through slack and its own UI to problems that need to be addressed in a timely manner.  
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address.*
+
+Our current implementation of sentry (verion 9.3) does not include some desired functionality that was rolled out with Sentry 10.  Most noteabley, Sentry 10 can be configured to auto assign a team or individual to an alert.  In our current version, a user would have to log in and manually assign each alert to the relevent team.
 
 ## Personas
-*Who are the users of this product?*
+VSP Engineers troubleshooting and triaging alerts on the platform and to VFS teams.
+VFS Engineers who are tracking errors for their application.
 
 ## Measuring Success
 
@@ -26,19 +29,23 @@
 
 ## Solution Approach
 
-_Describe, in a few sentences and/or bullet points, what you plan to build, and how it will solve the problem. Some questions to think about:_
+### Initial Launch
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+- Sentry 10 needs to be deployed in the new infrastructure defined by the Operations team on the VSP.
+- Sentry 10 needs to be configured with the correct enviornment tags
+- Teams need to be setup and users added to their corresponding teams.
+- All integrations need to be setup and conigured appropraitly.
 
-_For non-trivial technical solutions, an [engineering design doc](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/design-docs) should be written to deeply explain **How** this product will be built._
 
---- 
+### Integration Additions
+
+- GitHub Integration is complete and connected to the relevent repositories that need to be tracked as well as github teams are utilized to organize users.
+- Slack integration is complete
 
 ## Launch Dates
-- *Launch Date*: TBD
+- *Initial Launch Date*: September 29th, 2020
+- *Integration Launch Date*: TBD
+
 
 ---
    
@@ -64,10 +71,10 @@ _Link to the following materials as relevant._
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
+- Team Name: Backend Tools
+- GitHub Label: tools-be, sentry10
+- Slack channel: #vsp-tools-be
+- Product POCs: Alex Pappas
 
 </details>
 
