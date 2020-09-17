@@ -26,6 +26,7 @@
    - How many teams and people are creating content for call centers?
    - How do those teams and people work together?
    - What is the end-to-end current authoring experience like?
+   - What are the challenges in that authoring experience?
    - What determines the content that needs to be created? 
    - How do call center requests influence content creation?
    - How does collaboration with the business stakeholders fit into the content creation/authoring process?
@@ -34,6 +35,7 @@
      - Are audit older articles audited?
      - How do content managers know when something becomes outdated, or needs to be retired?
      - What role do business stakeholders have in this process?
+     - What are the challenges in this content management life cycle?
    - What are content author and call center requirements are as part of the authoring experience?
      - Is it important to know who the content author was?
      - How is that information used?
@@ -67,7 +69,7 @@
 
    This may change depending on what we learn about how teams are structured.
 
-2.	What is your recruitment strategy? 	
+2. What is your recruitment strategy? 	
    We'll work with VA call center contacts to determine the content team members that can provide insights into our questions.
 
 ## When? 	
