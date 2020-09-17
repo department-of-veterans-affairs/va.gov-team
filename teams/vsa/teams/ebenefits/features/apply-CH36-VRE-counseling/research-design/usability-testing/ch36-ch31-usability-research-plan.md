@@ -18,13 +18,13 @@ Our primary goal is to move the Chapter 31 and Chapter 36 features--currently fo
 #### Guiding questions
 - Where and how (what links/navigation) do participants expect to find CH31 and CH36 forms?
 - Do participants understand the function of the wizard features?
-- Will users identify the differences between the CH31 and CH36 programs and select the right form?
+- Will users identify the differences between the CH31 and CH36 programs and select the right form(s)?
 - What challenges prevent users from quickly and accurately completing the forms?
 
 #### Hypotheses
 - Users will have some difficulty locating the landing pages/logins for the CH31 and CH36 forms on VA.gov
 - User will generally understand the function of the screening wizards, but will miss the "bypass" link
-- The language in the wizards may confuse some users as to which form is correct for a given scenario
+- The language in the wizards and intro will confuse users; they may misunderstand when they can apply for both CH36 and CH31 benefits.
 - The forms themselves will be very easy for users to complete
 
 ### Method
