@@ -57,7 +57,7 @@ The studies don't give us a holistic view of how people will understand the nome
 ## Key findings across both participant groups
 
 1. We can confidently move forward with the majority of audience labels we've proposed; there are two adjustments to consider. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-summary.md#we-can-confidently-move-forward-with-the-majority-of-audience-labels-weve-proposed-there-are-two-adjustments-to-consider)
-2.  We should consider adding a secondary audience label to help surface content to all applicable audiences. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-summary.md#we-should-consider-adding-a-secondary-audience-label-to-help-surface-content-to-all-applicable-audiences)
+2. A secondary audience label may help surface content to all applicable audiences. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-summary.md#we-should-consider-adding-a-secondary-audience-label-to-help-surface-content-to-all-applicable-audiences)
 3. The list of audience labels we've come up with matches the mental model of Veteran and SME participants. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-summary.md#the-list-of-audience-labels-weve-come-up-with-matches-the-mental-model-of-veteran-and-sme-participants)
 4. 
 
@@ -79,11 +79,11 @@ We should also consider adding a label for non-citizen Veterans. This is the onl
 - Consider revising the audience label ``Veterans 65+ with complex care needs``. 
 - Consider adding a label for non-citizen Veterans
 
-#### 2. We should consider adding a secondary audience label to help surface content to all applicable audiences.
+#### 2. A secondary audience label may help surface content to all applicable audiences.
 
-Participants put articles into categories we didn't expect about 20% of the time in both groups.   `All Veterans` and `Family members and caregivers` stood out has having the widest variety of articles added to them.  Often times, the associations made sense, such as `What is adult day care` being mapped by many participants to `Family members and caregivers`.  Many of these instances seemed to be related to the a word in the article title being repeated in the audience  
+Participants put articles into categories we didn't expect about 20% of the time in both groups.   `All Veterans` and `Family members and caregivers` stood out has having the widest variety of articles added to them.  Often times, the associations made sense, such as `What is adult day care` being mapped by many participants to `Family members and caregivers`.  Many of these instances seemed to be related to the a word in the article title being repeated in the audience label.
 
-This tells us that people think about topics in different ways and suggests there is need to surface content by audience in more than one way.  We may want to consider adding audience labels to our [learning center categories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#learning-center-categories), or allowing for a second front-end audience tag, to help people find the content they're looking for, even if they think about it in a different way than the majority.
+This suggests there is need to surface content by audience in more than one way.  We may want to consider adding audience labels to our [learning center categories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#learning-center-categories), or allowing for a second front-end audience tag, to help surface content to all applicable audiences.
 
 **Recommendation**
 
