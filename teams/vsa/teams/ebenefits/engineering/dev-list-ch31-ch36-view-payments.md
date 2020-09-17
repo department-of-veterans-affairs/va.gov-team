@@ -7,6 +7,7 @@ Based on mean velocities from the past 10 sprints or so, FE and BE should be com
 ❌ = No longer needed  
 ✔ = Done  
 🌀 = Collaboration cycle  
+🔽 = lower priority
 
 
 ### Product
@@ -64,7 +65,7 @@ Total = 7
 
 ### Frontend
 - ✔ [#12263](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12263) Implement copy edits (3)
-- [#11926](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11926) Unit test `ViewPaymentsHeader` (5)
+- 🔽 [#11926](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11926) Unit test `ViewPaymentsHeader` (5)
 - [#11925](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11925) Unit test `ViewPaymentsLists` (5)
 - [#11924](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11924) Unit test `Payments` (5)
 - [#11991](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11991) Unit test `ViewPaymentsSidebar` (3) `low priority`
