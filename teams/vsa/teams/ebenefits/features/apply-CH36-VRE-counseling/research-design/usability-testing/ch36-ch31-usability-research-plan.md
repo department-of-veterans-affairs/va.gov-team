@@ -68,12 +68,12 @@ The current timeline is pending...
 
 #### Testing sessions
 
-**Pilot session** | The pilot session is planned for The afternoon of September 10, or the morning of September 11.
+**Pilot session** | The pilot session can be as early as Monday, September 21.
 
 **Team availability**
 | Dates | Times (EDT) |
 | --- | --- |
-| September 21, 2020 | 1 to 5 PM |
+| September 21, 2020 | N/A |
 | September 22, 2020 | N/A |
 | September 23, 2020 | 9 AM to Noon |
 | September 24, 2020 | 9 AM to 5 PM |
