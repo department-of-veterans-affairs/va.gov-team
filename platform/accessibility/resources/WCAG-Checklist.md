@@ -17,7 +17,7 @@ The W3C's Web Content Accessibility Guidelines (WCAG) are the worldwide standard
 
 Another useful reference is [How to Meet WCAG, Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/).
 
-### Section 508 (a.k.a WCAG 2.0) success criteria can be organized into these four areas: 
+### Section 508 success criteria can be organized into four areas: 
 
 **Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practices (marked with “*SHOULD*”)**
 
