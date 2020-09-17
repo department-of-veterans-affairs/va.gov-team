@@ -217,9 +217,7 @@ The page MUST have a meaningful title (e.g. About us), even when included via if
 * Users SHOULD NOT be required to remember data from one page (or view, or step of a process) to another, unless the fundamental purpose of the content requires them to do so. COG
 </details>
 
-
-#### WCAG 2.0 footnotes
-<details>
+<details><summary>Review WCAG 2.0 footnotes</summary>
   * Items marked with asterisk are required at the WCAG AAA level (not at the A or AA level, but are still best practices at all levels).
 
   1. Note that the purpose of the image depends on the context, and may not be a literal description of what is in the image. The text is usually provided via the alt attribute, but may also be provided via aria-label, aria-labelledby or, in less straightforward scenarios, via hidden text clipped by CSS.
