@@ -11,7 +11,8 @@ We created a myriad of documentation that was designed to help our customers (i.
 On 2020-09-15, VSP finalized acquisition of Confluence.  Confluence will be able to address these challenges, but there is a lot of work to be done between acquisition and global release.
 
 _HMW execute a Confluence-based pilot?_
-_How might our Confluence improve our documentation resources so that our customers are more successful?_
+
+_How might our use of Confluence improve our documentation resources so that our customers are more successful?_
 
 ## Personas
 * VFS team members
