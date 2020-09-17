@@ -27,8 +27,9 @@ Unauthenticated Experience for VA.gov
 - Yellow Ribbon Participating Schools Tool
 -	Contact Us/ Help Utility
 -	Global Alerts
-- Learning Center (coming soon)
-- Campaign Landing Pages (coming soon)
+- Campaign Landing Pages
+- Learning Center 
+
 
 ### Responsibilities:
 We will develop and deliver the content, navigation, and tools that provide our customers the easiest way to find and act upon any VA service.
@@ -48,13 +49,12 @@ We will strategize, write, develop, and collaborate with others in unauthenticat
 |DSVA Product Owner     |Jen Lee                             |
 |DSVA Product Owner     |John Hashimoto                      |
 |DVSA Content Lead      |Danielle Thierry                    |
-|DVSA Content Lead      |Beth Potts                         |
-|Product Manager        |Stephanie Orkand                    |
+|DVSA Content Lead      |Beth Potts                          |
+|Product Manager        |Brian Lloyd                         |
 |Front End Engineer     |Nick Sullivan                       |
 |Front End Engineer     |Kelson Adams                        |
 |Design/Research        |Liz Lantz                           |
 |Content Writer         |Selina Cooper                       |
-|Content Writer         |Anne Hurley                         |
 |Content Writer         |Laura Walsh                         |
 |Copy Editor            |Randi Hecht                         |
 
@@ -70,6 +70,8 @@ We will strategize, write, develop, and collaborate with others in unauthenticat
 * Awaiting Feedback
 * research
 * Website redirects
+* planned
+* un-planned
 
 Milestones are set up as:
 * Public Websites Sprint xx
@@ -83,10 +85,7 @@ M,W,Th,Fri on a [zoom meeting](https://us02web.zoom.us/j/95694473204) @ 11:30am 
 * Tues on Slack
 * 30 min total
 
-3 Question Format: 
- - What I did yesterday?
- - What will I do today? 
- - Any Blocker and Dependancies?
+3 Question Format: What I did yesterday? What will I do today? Any impediments?
 
 **Sprint Planning**
 
@@ -101,10 +100,7 @@ Review accomplishments, ways to improve from prior sprint: [Funretro] (https://f
 * Last Wednesday of every sprint @ 11:30am ET/ 10:30am CT/ 9:30am MT/ 8:30am PT
 * On a [zoom meeting](https://us02web.zoom.us/j/99104113238)
 
-Questions to Go Over:
-- What went well
-- Areas for improvement
-- What to start doing
+Questions to Go Over: What went well? Areas for improvement? What to start doing?
 
 **Grooming** 
 
@@ -137,6 +133,13 @@ _Update as you see fit! These are some starter norms for you to consider_
 - We are flexible, but intentional in the way we work
 - Let’s have fun and do great work!
 
+#### Communication Best Practices 
+- Slack - best communication method
+- Slack channels allow us to do our work in the open so that others can learn from the questions asked and the answers provided. Please do the same.
+- VFS teams should use public Slack channels as their first method of communication.
+- Don't wait to organize a meeting to ask a question; this will slow our team down.
+- Email - least effective communication method (Email communications are not easily searchable or archivable. Use this as a last resort for communication.)
+
 #### Slack:
 #vsa-public-websites
 
@@ -145,4 +148,4 @@ label: vsa-public-websites
 
 #### General things
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
-- Extra time? Explore the "Ready" column in ZenHub.
+- Extra time? Explore the "Ready" column in ZenHub and work through backlog issues as appropriate. 
