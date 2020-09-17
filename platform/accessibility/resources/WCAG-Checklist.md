@@ -8,9 +8,9 @@ The W3C's Web Content Accessibility Guidelines (WCAG) are the worldwide standard
 ## What is Section 508?
 
 * Section 508 is the U.S. federal mandate for accessibility compliance. 
-    * Section 508 is not part of the ADA. The Americans with Disabilities Act of 1990 is a different law. 
+    * Section 508 is not part of the Americans with Disabilities Act of 1990 (ADA). That is a different law. 
     * Section 508 is an amendment to the Rehabilitation Act of 1973. 
-    * In 1998 the US Congress amended the Rehabilitation Act to require Federal agencies to make their electronic and information technology accessible to people with disabilities. Section 508 was enacted to eliminate barriers in information technology, to make available new opportunities for people with disabilities, and to encourage development of technologies that will help achieve these goals. Source: [The ADA and Section 508](https://508compliantdocumentconversion.com/americans-with-disabilities-act/)
+    * In 1998 the US Congress amended the Rehabilitation Act to require Federal agencies to make their electronic and information technology accessible to people with disabilities. Section 508 was enacted to eliminate barriers in information technology, to make available new opportunities for people with disabilities, and to encourage development of technologies that will help achieve these goals. Source: [The ADA and Section 508](https://508compliantdocumentconversion.com/americans-with-disabilities-act/) All products and services purchased or created with federal money **must** be 508-compliant.
     
 * Since 2017, Section 508 references WCAG 2.0 Level A and Level AA Success Criteria and Conformance Requirements. The Access Board, who oversees Section 508, indicated they will wait for WCAG 3.0 (expected in 2021–2022) to update Section 508.
 * In 2018, WCAG 2.1 was released and is the current worldwide standard for accessibility compliance. Half of U.S. Veterans have an identified cognitive disability, and it's likely even more do. VA.gov mobile traffic continues to increase and accounts for half of the arrivals. WCAG 2.1's focus on cognitive and mobile design success criteria are useful for supporting these needs. Building on that, there are additional draft critera in WCAG 2.2 that are not yet part of the standard.
@@ -19,7 +19,7 @@ Another useful reference is [How to Meet WCAG, Quick Reference](https://www.w3.o
 
 ## Section 508 success criteria can be organized into four areas: 
 
-This list is based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practices (marked with “*SHOULD*”). The expectation is that both requirements and best practices are met in our work to deliver an experience that is accessible to all. 
+This list is based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practices (marked with “*SHOULD*”). The expectation is that both requirements and best practices are met in our work to deliver an experience that is accessible to all. For Veteran Facing Services teams, if there are 508-defect-0, 1, 2, 3, and some 4 issues logged for work it is not compliant. Source: [VSP Accessibility Defect Severity Rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#accessibility-defect-severity-rubric)
 
 (This checklist originated from this [Deque WCAG 2.0 Checklist](https://www.jenstrickland.design/talks/design4performance-a11y/resources/WCAG_Checklist.pdf).)
 
