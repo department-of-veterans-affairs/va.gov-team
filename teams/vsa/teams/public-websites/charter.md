@@ -31,10 +31,10 @@ Unauthenticated Experience for VA.gov
 - Learning Center 
 
 
-### Responsibilities:
-We will develop and deliver the content, navigation, and tools that provide our customers the easiest way to find and act upon any VA service.
+### Responsibilities (Problem space and user goals):
+1. We will develop and deliver the content, navigation, and tools that provide our customers the easiest way to find and act upon any VA service.
 
-We will strategize, write, develop, and collaborate with others in unauthenticated content and products for Veterans on VA.gov. 
+2. We will strategize, write, develop, and collaborate with others in unauthenticated content and products for Veterans on VA.gov. 
 
 ### Roadmap:
 [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Public-website-2020-priorities-vision-012320.pdf)
@@ -115,7 +115,7 @@ For an issue to go into the Current Sprint column, it must have the following (c
 
 - Title that explains task
 - Description with Background and Acceptance Criteria
-- Labels: _your team's labels_
+- Labels: _your team's labels_ 
 - User Story (if applicable), Goal, and Acceptance Criteria
 - Nested in an Epic
 
