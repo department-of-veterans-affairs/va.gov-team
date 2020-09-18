@@ -1,5 +1,4 @@
-
-Documentation Site: Product Outline
+# Documentation Site: Product Outline
 
 ## Overview
 The documentation site is the single source of truth for team, product, and platform information required by teams building veteran-facing services on VA.gov.  Currently, VFS-facing documentation exists on a variety of tooling solutions and code repositories, all loosely consolidated by [The Home Page MVP](https://department-of-veterans-affairs.github.io/va.gov-team/) and [The Gatsby Site](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/). 
