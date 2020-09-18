@@ -1,34 +1,22 @@
 # SSOe Security Assessment Product Outline
 
-_**Guidance**_
-
-_This Product Outline is intended primarily for VSP teams building VSP. Details of what's being built, how it's being built, how its success will be evaluated, and roadmaps are all relevant._
-
-_Because this is VSP-internal, the Product Outline should be located in `/products/platform/`. VFS-facing documentation about this product should be located in `/platform/`._
-
-_Fill out the template below, following italicized guidance for each section._
-
-_Delete this guidance stanza and any italicized guidance in the template before checking in your Product Outline._
-
----
-
-# Product Title
-
 ## Overview
 *A brief description of the product.*
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address.*
+Since SSOe is transitioning to the Identity team, it is in VSP’s best interest to perform a thorough security assessment that will examine the system and find potential weaknesses that we may not have know existed.
+
 
 ## Personas
-*Who are the users of this product?*
+* VSP Engineers
+* VA Engineers
+
 
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Grafana or other dashboards/reports where possible_
+
+KPI's TBD
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics, if possible._
