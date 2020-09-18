@@ -16,7 +16,7 @@
 - [x] [Backend changes to make gender a not required field, remove unknown as option](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13429)
 - [x] [Test backend/schema changes for 10/1 with CARMA](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13428)
 - [ ] [Make backend/schema changes for 10/1](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13431)
-- *New* [Remove SSN requirement for any caregivers](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13574)
+- **New** [Remove SSN requirement for any caregivers](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13574)
 - [ ] [Update PDF generation with 10/1 form](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13424)
 - [x] Logging on application stats
      - [x] [Additional Logging (submission result)](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12783)
