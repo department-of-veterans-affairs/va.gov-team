@@ -43,7 +43,7 @@ VFS Engineers who are tracking errors for their application.
 - Slack integration is complete
 
 ## Launch Dates
-- *Initial Launch Date*: September 29th, 2020
+- *Initial Launch Date*: End of Q3
 - *Integration Launch Date*: TBD
 
 
