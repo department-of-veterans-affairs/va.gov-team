@@ -73,3 +73,7 @@ Welcome! This issue will be used to track your onboarding to the VSA Program.
 - [ ] Send Intro Comms to New Hire
 - [ ] Conduct Intro Meeting with New Hire
 - [ ] Add New Hire to Product team meetings
+
+**Program Manager Task**
+
+- [ ] Check in with New Hire
