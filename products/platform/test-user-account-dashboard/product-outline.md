@@ -1,7 +1,6 @@
 # Test User Account Dashboard Product Outline
 
 ## Overview
-*A brief description of the product.*
 
 The Test User Account Dashboard is a tool that will make it easier for testers to find the right test account for a user scenario and will ensure the state of those accounts can be easily managed and maintained.
 
@@ -16,9 +15,11 @@ VFS Developers
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
--Reduction on time to find a test user account to QA a new test case
--Reduced # of questions about how to find a test user account
--Increase # of QA tests being fully executed with test user accounts
+Reduction on time to find a test user account to QA a new test case
+
+Reduced # of questions about how to find a test user account
+
+Increase # of QA tests being fully executed with test user accounts
 
 More KPIs TBD...
 
