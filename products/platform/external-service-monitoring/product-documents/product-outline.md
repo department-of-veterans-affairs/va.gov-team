@@ -6,7 +6,7 @@
 - GitHub Label(s): `external-service`
 - Slack Channel: [#vsp-tools-be](https://dsva.slack.com/archives/CQHBJ5U06)
 - Product POCs: Alex Pappas
-- Stakeholders: Dror Matalon, Andrew Gunsch
+- Stakeholders: Dror Matalon, Michael Fleet
 
 #### Team Members
 
