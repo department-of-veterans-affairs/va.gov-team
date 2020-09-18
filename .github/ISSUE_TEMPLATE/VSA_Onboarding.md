@@ -1,6 +1,8 @@
-## Welcome
+## Welcome to the VSA Program
 
-Welcome! We can use this ticket to track your onboarding to the VSA Program.
+Welcome! This issue will be used to track your onboarding to the VSA Program.
+
+---
 
 ## Pre-Onboarding
 
@@ -22,7 +24,7 @@ Welcome! We can use this ticket to track your onboarding to the VSA Program.
 
 **Access, Paperwork and Program File Updates**
 
-- [ ] Access to Shared Google Drive
+- [ ] Access to [Shared Google Drive](https://drive.google.com/drive/u/1/folders/0ACZ1e6Rs_6sDUk9PVA)
 - [ ] Access to VSA PTO Calendar
 - [ ] Access to VA Organization in GitHub
 - [ ] Access to VSA GitHub Repositories
@@ -32,6 +34,7 @@ Welcome! We can use this ticket to track your onboarding to the VSA Program.
 - [ ] Request New Hire to Complete VA Onboarding Paperwork (GCIO Admin Analyst)
 - [ ] Schedule Program Overview Meeting
 
+---
 
 ## Onboarding
 
@@ -60,6 +63,7 @@ Welcome! We can use this ticket to track your onboarding to the VSA Program.
 - [ ] Add New Hire to The Platform Newsletter (James Chaisa)
 
 **Practice Lead Tasks**
+
 - [ ] Send Intro Comms to New Hire
 - [ ] Conduct Practice-specific Onboarding Meeting with New Hire
 - [ ] Add New Hire to Practice-specific meetings
