@@ -48,13 +48,13 @@ This checklist originated from this [Deque WCAG 2.0 Checklist](https://www.jenst
 #### 1. Page title	
 The page MUST have a meaningful title (e.g. About us), even when included via iframe. [2.4.2]()
 
-  a. Unique information *SHOULD* go first (e.g. “WCAG Checklist”).
-  b. Result pages SHOULD describe the result (e.g. “Error on form” or “Search results loaded”).
-  c. Single-page applications and AJAX scripts SHOULD update the title when the URL changes or, when the page content changes significantly.
+    1. Unique information *SHOULD* go first (e.g. “WCAG Checklist”).
+    1. Result pages SHOULD describe the result (e.g. “Error on form” or “Search results loaded”).
+    1. Single-page applications and AJAX scripts SHOULD update the title when the URL changes or, when the page content changes significantly.
 
 #### 2. Language	
-  a. The page MUST specify the language (`<html lang="en">`).	[3.1.1]()
-  b. Changes in the language within the page MUST be specified (e.g. <span lang="es">Hola</span>).	[3.1.2]()
+    1. The page MUST specify the language (`<html lang="en">`).	[3.1.1]()
+    1. Changes in the language within the page MUST be specified (e.g. <span lang="es">Hola</span>).	[3.1.2]()
 
 #### 3. Landmarks	
   a. Pages SHOULD have accurate, logical landmark structure [2.4.6]() (e.g. <header>, <nav>, <main>, <aside>, <footer>), so screen reader users can navigate by landmark, and all content SHOULD be inside a landmark.	
