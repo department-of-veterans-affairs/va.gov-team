@@ -1,34 +1,21 @@
 # e-Benefits User Roles Product Outline
 
-_**Guidance**_
-
-_This Product Outline is intended primarily for VSP teams building VSP. Details of what's being built, how it's being built, how its success will be evaluated, and roadmaps are all relevant._
-
-_Because this is VSP-internal, the Product Outline should be located in `/products/platform/`. VFS-facing documentation about this product should be located in `/platform/`._
-
-_Fill out the template below, following italicized guidance for each section._
-
-_Delete this guidance stanza and any italicized guidance in the template before checking in your Product Outline._
-
----
-
-# Product Title
-
 ## Overview
-*A brief description of the product.*
+This product will allow for someone other than a Veteran the ability to log in to VA.gov and be identified as a dependent, spouse, or power of attorney and see information pertaining to only them based on the Veteran they are associated with.
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address.*
+The login experience on VA.gov today is tailored specifically to the Veteran persona. We're at the point now, where in order to continue expanding the VA.gov experience to meet additional use cases, we need to expand identity to work for more personas who might be using VA.gov to do things on behalf of a Veteran or for themselves: Caregivers, Representatives, Dependents, and people who are multiple persona types at once (like someone who is both a Veteran and Dependent). There are limitations in the way the Identity solution is set up today, that prevents VA.gov teams from delivering functionality that adequately meets needs of these new personas and use cases.
 
 ## Personas
-*Who are the users of this product?*
+* Dependent
+* Spouse
+* POA
 
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Grafana or other dashboards/reports where possible_
+
+KPIs TBD
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics, if possible._
