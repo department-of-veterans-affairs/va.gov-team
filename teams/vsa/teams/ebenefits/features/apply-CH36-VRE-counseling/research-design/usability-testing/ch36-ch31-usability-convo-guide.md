@@ -26,14 +26,15 @@ There are a few things I need to mention before we start:
 ## Warm-up
 - Would you tell us a little bit about yourself? Your service experience, where you live, general experiences with the VA...
 - Have you received VA career counseling or education benefits in the past? What do you know about Chapter 31 or 36?
+- (If user has disability rating) Would you mind telling us what your disability rating is?
 - How often do you visit the eBenefits site? How about VA.gov?
 - **Now we're ready to start.** OK, now could you share your screen with us?
 
 ## Wayfinding
 ### User screenshares / 3 minutes
 - Before we go to the prototype we're testing, we'll take a quick look at VA.gov
-- I put a link in the chat box; **please click on it.**
-- Looking at VA.gov, where would you go to find info about VA career or education benefits?
+- **Please go to VA.gov.**
+- If you heard VA could help with finding a job or getting training, where would you look on the site?
 - This is the actual home page; you're free to click on anything.
 
 #### Things to look for:
@@ -50,8 +51,7 @@ User goes to prototype
 
 ### Task 1 / Chapter 36 wizard / 5 minutes
 User determines if 28-8832 is the sole form to use to apply for career and education benefits
-- (If user has disability rating) Would you mind telling us what your disability rating is?
-- With that in mind, take a **look at this page and see if you qualify for Chapter 36 or other benefits.**
+- Please take a **look at this page and see if you qualify for Chapter 36 or other benefits.**
 - (When user gets to the time-limit Q) Does this disqualify you? Let's say that it's been only six months.
 
 ### Task 1A / Chapter 31 wizard / 5 minutes
@@ -91,8 +91,8 @@ User jumps to VR&E wizard, then the 28-1900 form
 - If this were an actual application, what would expect to happen next?
 - What are your thoughts about the questions at the start of the form?
 - What on the site would you do/look at next?
-- What would help reduce confusion over the two forms: Chapter 36 and Chapter 31?
-- What could we do to make the forms easier to use/understand?
+- Do you see differences between Chapter 36 and Chapter 31? 
+- How could we make things more clear?
 
 ---
 
