@@ -113,6 +113,7 @@ Assess and update workload for remainder of sprint
 For an issue to go into the Current Sprint column, it must have the following (created using the [Standard Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=standard-issue.md&title=):
 
 - Title that explains task
+- [Estimate](https://docs.google.com/document/d/1WftRc1JeNxVAh7u1iiW5c5Et0HbM_uBqxhCXL6NGYog/edit)
 - Description with Background and Acceptance Criteria
 - Labels: _your team's labels_ 
 - User Story (if applicable), Goal, and Acceptance Criteria
