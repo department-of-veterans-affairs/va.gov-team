@@ -9,17 +9,17 @@ The Test User Account Dashboard is a tool that will make it easier for testers t
 VSP does not have a scalable solution for the challenges teams face with test user accounts while performing tests and demos on VA.gov.  Currently, testers cannot find test user accounts that are viable for the scenarios they need.  Test user accounts regularly have inaccurate data, expired passwords, used by multiple testers, and are not in the right state to test a feature.
 
 ## Personas
-VSP Engineers
-VFS Developers
+
+* _VSP Engineers
+* _VFS Developers
 
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-Reduction on time to find a test user account to QA a new test case
 
-Reduced # of questions about how to find a test user account
-
-Increase # of QA tests being fully executed with test user accounts
+* _Reduction on time to find a test user account to QA a new test case
+* _Reduced # of questions about how to find a test user account
+* _Increase # of QA tests being fully executed with test user accounts
 
 More KPIs TBD...
 
