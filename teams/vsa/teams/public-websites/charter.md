@@ -124,13 +124,19 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 
 #### Team Norms
 
-_Update as you see fit! These are some starter norms for you to consider_
-
+- Be on time and present for programmed meetings
 - Be respectful, both online and off
 - Show your face (Webcam) at meetings / calls
 - Speak up! - everyone’s voice matters
 - We are flexible, but intentional in the way we work
+- Strive for oppurtunties to collaborate 
 - Let’s have fun and do great work!
+
+#### Decision Etiquette
+Decisions are part of our daily routine, the below questions can help kickstart the decision making and creative thinking process.
+1. Is it my decision to make?
+2. Do I have all the inforamtion to make the decision?
+3. Do I have to make the decision now?
 
 #### Communication Best Practices 
 - Slack - best communication method
