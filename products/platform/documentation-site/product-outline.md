@@ -34,7 +34,6 @@ _How might our use of Confluence improve our documentation resources so that our
 
 * Building out Confluence will lead to greater self-service and fewer support requests.
 * Confluence will be easier for VFS teams to navigate and surface the resources they are looking for.
-* VFS pilot participants will _want_ to participate in the VSP Confluence pilot.
 * The VSP team will be able to customize Confluence without undue burden.
  
 ## Solution Approach
