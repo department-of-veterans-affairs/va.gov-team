@@ -33,6 +33,8 @@ Liz Lantz, Ryan Thurwell, and Jennifer Strickland synced on how to move forward 
 - What a 2 column table would look like (doesn't get show/hide) AND
 - The pattern our responsive table can follow if the show/hide functionality turns out to be out of scope for MVP 1.1
 
+> [CodePen example of screen 3](https://codepen.io/jenstrickland/pen/NWNOjMO)
+
 **Next Steps**
 
 1. We need our FE devs to evaluate the designs and determine if anything might require CMS changes. We can revise the concept so that CMS changes aren't required. 
