@@ -1,4 +1,4 @@
-# App Deployment Platform (FE) - Product Outline
+# App Deployment Platform (FE) - Product Outline [DRAFT]
 
 ## Overview
 
@@ -13,9 +13,8 @@ VA.gov is composed of static content (.html), applications (.js), and styling (.
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Grafana or other dashboards/reports where possible_
+* Percentage of builds that fail
+* Percentage of failed builds that block deploy of other teams
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics, if possible._
@@ -27,14 +26,7 @@ VA.gov is composed of static content (.html), applications (.js), and styling (.
 
 ## Solution Approach
 
-_Describe, in a few sentences and/or bullet points, what you plan to build, and how it will solve the problem. Some questions to think about:_
-
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-
-_For non-trivial technical solutions, an [engineering design doc](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/design-docs) should be written to deeply explain **How** this product will be built._
+- [Content build separation design doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/design-docs/2020-04-09-separate-content-build.md)
 
 --- 
 
