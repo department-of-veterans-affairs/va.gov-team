@@ -66,9 +66,10 @@ Unauthenticated Experience for VA.gov
 * content
 * needs-grooming
 * design
-* Awaiting Feedback
+* developing
+* awaiting Feedback
 * research
-* Website redirects
+* website redirects
 * planned
 * un-planned
 
@@ -112,6 +113,7 @@ Assess and update workload for remainder of sprint
 
 For an issue to go into the Current Sprint column, it must have the following (created using the [Standard Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=standard-issue.md&title=):
 
+- Estimate
 - Title that explains task
 - Description with Background and Acceptance Criteria
 - Labels: _your team's labels_ 
