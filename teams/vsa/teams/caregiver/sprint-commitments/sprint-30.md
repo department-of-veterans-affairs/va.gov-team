@@ -5,7 +5,9 @@
 - [ ] [Front end updates needed for 10/1](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13430)
      - [ ] Includes additional content regarding Veteran SSN 
 - [ ] [Require unique SSNs for each applicant](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13432)
-- *New* [Remove SSN requirement for any caregivers](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13576)
+- **New** [Remove SSN requirement for any caregivers](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13576)
+- [ ] **New** [Veteran SSN information](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13712)
+
 
 
 
@@ -32,6 +34,7 @@
 - [ ] [10/1 changes - design revisions](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13423)
 - [ ] [Update Product Guide for 10/1](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13422)
 - [ ] [Error message for unique SSNs](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13421)
+- [ ] **New** [Veteran SSN information](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13712)
 
 
 ## Content changes (for tracking purposes)
