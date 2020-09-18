@@ -378,7 +378,7 @@ We may contact you if we need more information or documents.
 
 Print this page { button }
 
-##### Education Benefit Claim    								
+#### Education Benefit Claim    								
 (Form 22-1995)  
 
 for { Fname Lname }
