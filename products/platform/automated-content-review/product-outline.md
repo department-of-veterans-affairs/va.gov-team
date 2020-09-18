@@ -1,4 +1,4 @@
-# Content review: Product outline
+# Automated content review: Product outline
 
 ## Overview
 Automated content reviews allows team members writing static and dynamic content on VA.gov to embrace self-service while adhering to content and plain language standards across the website.
@@ -17,7 +17,7 @@ _How might we automate those checks to free up our content specialist to be able
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-* Utilization of plain language linter
+* Utilization of automated content reviewer
 * Number of remediations identified and addressed by the plain language linter
 * Number of content review support requests, split by low-level errors vs high level errors
 
