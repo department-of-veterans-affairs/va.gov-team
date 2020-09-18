@@ -34,6 +34,14 @@
 
 ### Mockups Changelog
 
+**September 16, 2020**
+
+Changes made to null-data and error states
+
+- H3 and text added to no-data messages for Payments Made
+- H3 and text added to no-data messages for Returned Payments
+- Component-level no-data messaged changed togray box; text revised
+
 **August 14, 2020**
 
 Changes made to desktop and mobile views
