@@ -8,9 +8,12 @@ In discovery work beginning March 2020, we determined that Veterans desire a VA 
 **Goal of this document**: Document significant UX/UI decisions for the MVP and our rationale for making these decisions. 
 
 
+----
+
+
 # Significant decisions
 
-### UI decisions 
+## UI decisions 
 
 ### We will use system fonts and heavily leverage platform components. 
 Because our scope is an MVP, we want to spend energy on features and login, not customizations. This led us to decide to use system fonts and heavily leverage platform components after exploring the three font and UI design directions listed below:  
