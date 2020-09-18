@@ -1,4 +1,4 @@
-# SSOe Product Outline
+# SSOe Security Assessment Product Outline
 
 _**Guidance**_
 
