@@ -192,18 +192,21 @@ We should investigate what data beyond what is displayed on VA.gov today that ou
 ### We knew Veterans were interested in a moblie app with authenticated features from VA, and continued to hear high interest in downloading.
 We knew from prior research that Veterans were interested in a mobile app with authenticated features from VA, but it bears repeating that high-fi prototype testing garnered positive reactions from all participants. The main reasons cited for why folks were excited about the app echo the reasons we have heard in prior research: more convenience, saving time, and more efficiently managing their VA benefits and health care.
 > "This is wonderful, I'm glad VA is going this route. I'm all about apps, they're so much easier. This is wonderful and it's been a long time coming...I think it will be tremendous."
+
 > "If this is something where you dont have to put any footwork into VA, why wouldn't I use this? It saves me waiting on the phone, waiting to talk to somebody."
 
 
 ### We knew getting sign in right was big, and continued to hear that.
 We knew this from prior research, but this bears repeating because of just how big of a positive biometric sign in will be for users. Although sign in might seem simple, it's a huge win and a strong cornerstone of why our MVP app will provide high value even if the feature set seems limited compared to all the features other VA sites offer. 
 > "[With this app], it's great - you don't have to jump through hoops to log in. It's incredible the amount of steps I have to take to log in, and it times out every 10 minutes."
+
 > "Since I can use touch ID, I would pop in once a day If I had an active claim or appeal. It would make things a lot easier (to have the app)."
 
 
 ### There is some dissatisfaction with features that are not available in the MVP (e.g. cancelling and scheduling appointments). We should clarify that more is coming in the future, but do so carefully and sparingly.
 As we hypothesized, people would like to see more: filing a claim or appeal via the app, canceling appointments, scheduling appointments, and accessing more health features like Secure Messaging and Rx Refill were brought up by participants multiple times. About half of participants also said they would like to know that VA is going to add more: 
 > "If you can't schedule it would be a little frustrating...I would still download it without everything, knowing there is going to be more added later -- I'd like to know if the app is going to add more."
+
 > "If you tell me, 'we're going to add more capabilities', it lets me know this isn't all that VA is giving me and something else is coming later on. It would be nice to know that this isn't it for the app"
 
 Knowing that users feel this way, we should clarify the MVP's limitations and be straightforward about the app's scope. However, since we know there may be a lack of trust between VA and our app users, we shoud do this sparingly as part of the app onboarding and not overpromise any dates or features, rather generally say that VA is working to expand the app.
