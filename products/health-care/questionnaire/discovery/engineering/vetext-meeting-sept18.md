@@ -20,8 +20,8 @@ It would be nice if VAOS had something like a start appointment button to start 
 involve a save progress feature. We also need to think about what is the status of the questionnaire, has it been started or finished and 
 take into account cancelations. 
 
-VDIFF is an app that was mentioned. They are doing some work for VAOS. VDFF is part of the data transfer bewteen
-Vista and Cerner primarily but they are looking for new use cases
+VDIFF is an app that was mentioned. They are doing some work for VAOS. VDIFF is part of the data transfer bewteen
+Vista and Cerner primarily but they are looking for new use cases and it was suggested that perhaps they could be a part of the solution.
 
 Appointment data from CDW was mentioned, though Stephen said that CDW is a day behind and that it is difficult to work with
 
