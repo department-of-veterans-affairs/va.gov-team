@@ -130,6 +130,9 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 - Speak up! - everyone’s voice matters
 - We are flexible, but intentional in the way we work
 - Strive for oppurtunties to collaborate 
+- Assume best intentions - especially when in a remote setting
+- Trust one another and ask questions freely and frequently
+- Celebrate the wins
 - Let’s have fun and do great work!
 
 #### Decision Etiquette
