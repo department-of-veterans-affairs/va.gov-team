@@ -5,33 +5,43 @@
 *After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+### Problem #1: Ineligible STEM applicants are spending time to submit applicantions for the scholarship because the burden to do so is so low and the potential reward is so high.
+**Who** STEM applicants
+**What** Ineligible STEM applicants are spending time submitting applications and waiting for a decision 
+**Why** The burden to complete the application is low and the potential reward is high
+**Where** 
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
- 
+### Problem #2: The STEM application processing team has historically received a large number of ineligible STEM applications which takes time away from the team's ability to review and process eligible applicants
+**Who** STEM application processing team
+**What** The application processing team has historically received a large number of ineligible STEM applications
+**Why** This has been problematic because it delays the team's ability to review and process eligible applicants 
+**Where**
+
+### How might we allow ineligible applicants to apply while protecting the time of the application processing team?
+
 ## Desired User Outcomes
-
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- All interested users are able to apply for the scholarship
+- Ineligible applicants get an immediate decision
 
 ## Undesired User Outcomes
-
+- Users are frustrated by an automated decision (feeling the human review experience allows for exceptions to the rules where appropriate)
 
 ## Desired Business Outcomes
-
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Application processing team no longer has to review ineligible STEM applications
 
 ## Undesired Business Outcomes
-
+- Applicants change their answers on the applicant to appear eligible and the processing team still ends up reviewing them
 
 ---
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
+*What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
+_What are the most important metrics that track with this product/initiative's success?_
+_Include links to Domo or Google Analytics Dashboards/Reports_
+
+- **Significant Decrease in the number of STEM applications rejected by the processing team**
+
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
@@ -92,11 +102,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Team Name: BAH
+- GitHub Label: bah-stem
+- Slack channel: bah-team
+- Product POCs: Darrell Neel, Amy Knox
+- Stakeholders: VA Education Services
 
 </details>
 
@@ -104,10 +114,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - DEPO Lead: Matt Self
+ - PM: Will McCormack
+ - Engineering: Dan Shawkey
+ - Research/Design: Amy Knox
+ - Product Manager: Darrell Neel 
  
 </details>
 
