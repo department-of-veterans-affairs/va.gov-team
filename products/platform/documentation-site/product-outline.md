@@ -20,7 +20,7 @@ _HMW leverage Confluence to improve the findability of documentation for VFS tea
 ### Key Performance Indicators (KPIs)
 * Number of support requests
 * VSF sentiment around navigating and consuming Confluence content
-* Placeholder: (Explore what analytics Confluence has built in that we can leverage)[https://confluence.atlassian.com/confeval/confluence-evaluator-resources/confluence-analytics-statistics]
+* Placeholder: [Explore what analytics Confluence has built in that we can leverage](https://confluence.atlassian.com/confeval/confluence-evaluator-resources/confluence-analytics-statistics)
   * To investigate if covered by Confluence analytics: Time spent finding documentation, or number of clicks needed to find desired documentation
  
 #### Baseline KPI Values
