@@ -2,8 +2,8 @@
 Meeting with Stephen Barrs and Shane Elliot to discuss leveraging VeText 9/18
 
 One of the main scenarios that was discussed was how do we proactively notify clipboard about an appointment. 
-It was stresed that we do not want to store appointment data, but there is fhir based questionnaire response type data in
-the PGD. Pressumably a veteran ID and appointment ID will be stored in the QR (Question response). Keep in mind that the appointment
+It was stressed that we do not want to store appointment data, but there is fhir based questionnaire response type data in
+the PGD. Pressumably a veteran ID and appointment ID will be stored in the QR PGD (Question response). Keep in mind that the appointment
 IDs may be synthetic and outside of vista specifically 
 
 VeText can send text messages and potentially emails. The emails may be limited but may be of the nature of asking a veteran to log in
@@ -11,9 +11,9 @@ and check their secured messages or a link provided that VetText generated but n
 The email capability may be something that VeText would need to enhance or develop more
 
 A reminder can be sent 3 times through VeText typically. This is configured in the VeText admin page that is used by clinical admins.
-The admin page has message templates, template variables, and a stop code. It was mentioned a template variable associated with the clipboard code be added.
-It was mentioned that appointments too far into the future may not need questionnaire attention for the clipboard and tha appointments that are
-less than 24 hours in the future could have limitiations with VeText capabilities.
+The admin page has message templates, template variables, and a stop code. It was mentioned a template variable associated with the clipboard 
+Questionnaire could be added. It was mentioned that appointments too far into the future may not need questionnaire attention for 
+the clipboard and that appointments that are less than 24 hours in the future could have limitiations with VeText capabilities.
 
 It was mentioned that my healthy vet and VAOS may be able to provide some of the solution. 
 It would be nice if VAOS had something like a start appointment button to start the process of filling out a questionnaire, though this would also
