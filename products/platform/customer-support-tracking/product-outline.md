@@ -2,7 +2,7 @@
 
 ------
 
-# Customer Support Tracking [DRAFT]
+# Customer Support Tracking
 
 ## Overview
 
