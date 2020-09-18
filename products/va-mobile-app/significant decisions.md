@@ -317,7 +317,25 @@ Availability of backend intwgrations, as well as support from the VSP team to bu
 - Michael Fleet
 
 ## When, or under what conditions, would you recommend revisiting this design decision? E.g., after usability testing, after launch when metrics or analytics equal X, etc.
-We fell like this decision will be rather permanent, as much as the VSP is permanent. If mobile app usage increases to a point that vets-api can not handle, then we could consider extracting the mobile api presentation layer into a separate project, possibly similar to option 4 above.
+We feel like this decision will be rather permanent, as much as the VSP is permanent. If mobile app usage increases to a point that vets-api can not handle, then we could consider extracting the mobile api presentation layer into a separate project, possibly similar to option 4 above.
+
+
+# Decision 6: Mobile OS Support: which mobile operating systems will the app run on?
+When building a mobile app, minimum OS compatibility must be selected. Supporting older operating systems allows more potential users to be able to run the app, but also may cause support issues as older hardware and unsupported operating systems need to be maintained.
+Supporting only newer operating systems reduces the maintenance complexity of the app, but also reduces the number of people who may install the app. A balance must be achieved here.
+## What did you decide on?
+- iOS: support version 12 (previos), 13 (current), and 14 (beta, to be released in October 2020)
+- Android: support API version 26 and above
+## Document the people who agreed to the design decision (and their roles on the project)
+- Patrick Saxton @lexicalninja (Mobile Engineer, Ad Hoc)
+- Brandon Levinger @BLevinger (Mobile Engineer SME, Digital Foundry)
+## What was the deciding factor for your decision?
+We considered hardware and OS mantenance issues more heavily than a larger user base. By accepting more users with older OS's, we will also be accepting more maintenance issues. Also noted was that many folks keep older Android devices for web browsing only, so the GA stats may be skewed older.
+## What other options did you consider?
+We started with the thought of supporting API 21, which would cover most users from GA analysis.
+## When, or under what conditions, would you recommend revisiting this design decision?
+This decision should be revisited at least yearly, as new OS releases are published. At that time we may consider keeping or dropping support for the oldest supported OS.
+
 
 # Other Decisions we need to elaborate on:
 * Decision: the mobile app will not source any content from a CMS
@@ -326,7 +344,6 @@ We fell like this decision will be rather permanent, as much as the VSP is perma
 * Decision: we agreed on device support matrix (@erik)
 * Decision: MVP will not have any specific tablet support
 * the app will be built and released under the official VA accounts
-* Decision: iOS support 12/13/14(beta), Android support min 26. (@brandon /@Patrick Saxton to do due diligence)
 * we will support accessibility WCAG, more discussion tomorro
 ------------------------------
 
