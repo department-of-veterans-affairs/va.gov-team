@@ -1,12 +1,12 @@
-# Automated Content Review Product Outline
+# Prep for automated content reviews: Product outline [draft]
 
 ## Overview
 Automated content reviews allows team members writing static and dynamic content on VA.gov to embrace self-service while adhering to content and plain language standards across the website.
 
 ## Problem Statement
-The C/IA team spends a non-trivial, unquantifiable amount of human effort addressing “low-level” content support requests, i.e. support requests that can be addressed in an automated fashion, i.e. addressed without the involvement of a human reviewer. This results in increased unnecessary white glove C/IA support work.
+VSP’s content specialist spends a non-trivial amount of time addressing “low-level” content issues. 
 
-Building on previous FE and BE work on “plain language linting”, HMW integrate automated content reviews into content editors’ workflows, both maximizing compliance and minimizing additional burden?
+_How might we automate those checks to free up our content specialist to be able to provide faster support?_
  
 ## Personas
 
@@ -25,7 +25,9 @@ Building on previous FE and BE work on “plain language linting”, HMW integra
 n/a
 
 ## Assumptions
-* VFS content editors will be receptive to using an automated content reviewer (vs reaching out for human support).
+- Automated content reviews will free up the VSP content reviewer from enough manual support to allow VSP to scale more seamlessly.
+- Giving VFSs the tools to self serve, ie identify their own low-level content issues, will allow them to move through the Collaboration Cycle and get to producton more quickly.
+- VFS content editors will be receptive to using an automated content reviewer (vs reaching out for human support).
 
 ## Solution Approach
 To pull plain language linting through to the finish line, we will focus on two aspects: rules and enforcement (unprioritized).
