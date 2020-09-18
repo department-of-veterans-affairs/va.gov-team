@@ -376,3 +376,32 @@ Filter by provider { default selection = none } { Checkboxes }
 [ See results (NN) ] { Secondary Button - lists # of results as they update. Collapses filter view to standard view with program cards }  
 
 { END IF MOBILE }  
+
+
+## Profile page - Standard
+
+{ Estimate Your Benefits - accordion: }  
+
+{ Learning format and location - mini accordion: }  
+
+Will you be taking any classes in person? ([Learn more]()) { Modal link } { Radio buttons }  
+
+{ Learn more modal content } { NOTE: Since the housing question also appears on the landing and search pages, the modal copy will be the same there for the learn more. }  
+
+_HOUSING ALLOWANCE CONTENT REQUIRES APPROVAL FROM EDU / DEPO_  
+
+**Your housing allowance is determined by where you take classes**  
+
+Under the GI Bill you’re eligible to receive a monthly housing allowance. We calculate this monthly housing allowance based on where you take classes.  
+
+If you use Post-9/11 GI Bill benefits to take at least 1 in-person class, your housing allowance is based on where you do most of your coursework. If you take online courses only, your housing allowance is based on 50% of the national average.  
+
+Through Dec. 21, 2020, current and new students can receive in-person allowance rates if their school’s approved program changed from in-person to online learning due to COVID-19.  
+
+[View the current housing allowance payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp?_ga=2.144591223.39405460.1542131207-1582256389.1508352376)   
+
+{ end modal }  
+
+ * Yes { Default selection }  
+ * No   
+ 
