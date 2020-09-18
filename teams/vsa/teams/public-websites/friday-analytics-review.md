@@ -1,14 +1,27 @@
 
 # 2020-09-18
 
-## Find VA Forms - Search
+## Find VA Forms - Search + Detail Pages
+### Search
+- still seeing traffic on the legacy forms search (why?!)
+- 10-2850c is the top searched term (1yr)
+  - backstory: lot of outreach to healthcare workers to support the pandemic
+
+- Re: GSA outbound
+  - how do we determine if there are "legit" failed searches vs. folks actively leaving to GSA bc they realize they're looking for a non-VA form
+  - Number of no results 
+  - Top queries for no resuts
+  - GSA outbound clicks 
+
+### Detail Pages
+- PDF Downloads by Page doesn't necessarily tell us which PDFs (since we have other download urls besides the form pdf)
 
 ## Covid FAQs 
 
 # 2020-09-11
 
 ## Misc
-- Segemnt available to filter out users not on VA network
+- Segment available to filter out users not on VA network (although that might be in place by default)
 
 ## Yellow Ribbon
 
