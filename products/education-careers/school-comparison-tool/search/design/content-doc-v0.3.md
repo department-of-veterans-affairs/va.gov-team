@@ -271,7 +271,7 @@ Through Dec. 21, 2020, current and new students can receive in-person rates if t
 
 { END IF MOBILE }  
 
-### Search results - VET TEC  
+## Search results - VET TEC  
 
 ### NN Search results { If 1 result, should say "1 Search result". Heading is H1 }  
 
