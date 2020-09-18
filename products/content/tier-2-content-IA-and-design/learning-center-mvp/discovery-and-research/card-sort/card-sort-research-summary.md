@@ -58,9 +58,9 @@ The studies don't give us a holistic view of how people will understand the nome
 
 ## Key findings across both participant groups
 
-1. We can confidently move forward with the majority of labels we've proposed; there are a few adjustments to consider. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-summary.md#1-we-can-confidently-move-forward-with-the-majority-of-audience-labels-weve-proposed-there-are-two-adjustments-to-consider)
-2. A secondary audience label may help surface content to all applicable audiences. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-summary.md#2-a-secondary-audience-label-may-help-surface-content-to-all-applicable-audiences)
-3. The list of audience labels we've come up with matches the mental model of Veteran and SME participants. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-summary.md#3-the-list-of-audience-labels-weve-come-up-with-matches-the-mental-model-of-veteran-and-sme-participants)
+1. We can confidently move forward with most of the audience and topic labels we've proposed. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-summary.md#1-we-can-confidently-move-forward-with-most-of-the-audience-and-topic-labels-weve-proposed)
+2. Adding multiple categories and front-end tags to articles will increase findability; a second audience label may be helpful. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-summary.md#2-the-ability-to-add-multiple-categories-and-front-end-tags-to-learning-center-articles-will-ensure-people-find-content-a-second-audience-label-may-be-helpful)
+3. Participants created some new categories that are worth considering. [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-summary.md#3-participants-created-some-new-categories-that-are-worth-considering)
 
 #### Details
 
@@ -86,7 +86,7 @@ The scope in these topic categories was narrower in the SME card sort, which enc
 - Consider revising the audience label ``Veterans 65+ with complex care needs``. 
 - Consider revising `Records` to be more specific.
 
-#### 2. The ability to add multiple categories and front-end tags to learning center articles will ensure people find content; a second audience label may be helpful.
+#### 2.  Adding multiple categories and front-end tags to articles will increase findability; a second audience label may be helpful.
 
 While we had majority agreement across many groupings, some were by only a small margin. Across all card sorts, cards were placed into an average of 4 different categories. The variation in these groupings validate that the learning center needs to support different mental models so people can find content they're looking for, in the way that they think about it.
 
@@ -105,13 +105,13 @@ This suggests there could be a need to surface content by audience in more than 
 
 There were 3 categories created by 2 or more participants with a high rate of agreement on the cards that belonged in them.
 
-Articles about claims were grouped into different categories than we expected more frequently than other articles. Overall, people put them into the `Disability` category, but some people created a claim-specific category in both [Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-summary.md#there-was-a-high-association-between-claims-and-disability-2-participants-created-a-category-called-claims) and [SME](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-summary.md#the-articles-most-frequently-sorted-into-unexpected-topics-were-related-to-claims-and-payments) participant groups.  All the cards that had the word `claim` in it were added to this new group.  Participants called this category:
+Articles about claims were grouped into different categories than we expected more frequently than other articles. Overall, people put them into the `Disability` category, but some people created a claim-specific category in both [Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-summary.md#there-was-a-high-association-between-claims-and-disability-2-participants-created-a-category-called-claims) and [SME](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-summary.md#sme-participants-created-some-new-categories-that-arent-in-our-topic-list) participant groups.  All the cards that had the word `claim` in it were added to this new group.  Participants called this category:
 
 - My VA Claims
 - Claims
 - Claim related resources
 
- [The only audience category participants created](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-summary.md#we-may-want-to-add-a-label-for-veterans-of-non-citizen-nationality) (for the article `Benefits and services for Veterans who are Philippine U.S. nationals`) was related to non-citizen Veterans. If we have enough content to warrant creating a category for this audience group, we should consider adding this label.
+ [The only audience category participants created](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-summary.md#veteran-participants-created-a-label-related-to-non-citizen-nationality) (for the article `Benefits and services for Veterans who are Philippine U.S. nationals`) was related to non-citizen Veterans. If we have enough content to warrant creating a category for this audience group, we should consider adding this label.
 
 Two Veterans created a `Points of contact` category with articles about contacting someone or a directory. It's understandable that a label like this could make it easier for Veterans to find contact information.  The way other participants sorted these cards suggests that most people will think to look for contact information under `Other topics and articles`, but we should consider if we can surface this information more clearly through a label with the word `contact` in it.
 
