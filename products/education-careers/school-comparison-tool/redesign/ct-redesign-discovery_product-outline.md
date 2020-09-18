@@ -5,33 +5,38 @@
 *After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
-
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+###  Education services needs to understand who the users of the Comparison Tool are so they are better able to prioritize enhancemetns and new features that best meet the user needs. 
+- **Who?** Education services
+- **What?** Need to clarify who their target user is 
+- **Why?** To better be able to define priority when it comes to enhancements to existing feature/creation of new features in the tool so that the tool that is created best meets the needs of the target user.
+- **Where?** GI Bill Comparison Tool
+### How might we build a tool that will be more widely utilized by the target user?
  
 ## Desired User Outcomes
-
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- List of critical functionality for the user has been captured
+- The reasons why people use the tool is well understood
 
 ## Undesired User Outcomes
-
+- A representative group of users is not included in the discovery effort
+- Critical functionality of the tool is missed in the discovery effort
 
 ## Desired Business Outcomes
-
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Identify who is using the GIBCT now
+- Idenfity who the GIBCT target audience is
+- Better understand the ways our users are utilizing the tool now and for what reasons
+- Identify a list of must have functionality in the tool
+- Ability to prioritize functionality 
+- Clarify the mission of the tool 
 
 ## Undesired Business Outcomes
-
+- 
 
 ---
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
+A tool that is more widely used by the target audience
+- A challenge with this approach might be the ability to differentiate the types of users who are visiting the site now. 
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
@@ -47,16 +52,14 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- Veterans, School Officials, and Goverment Officials are all key users of the existing tool 
 
 ## Solution Approach
-
 - *What are you going to build now, and why have you decided to start there?*
 - *Why this solution / approach over other solutions / approaches?*
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
---- 
 
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
@@ -92,11 +95,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Team Name: BAH
+- GitHub Label: bah-comparisontool
+- Slack channel: bah-team
+- Product POCs: Darrell Neel, Amy Knox
+- Stakeholders: VA Education Services
 
 </details>
 
@@ -104,10 +107,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - DEPO Lead: Matt Self
+ - PM: Will McCormack
+ - Engineering: Dan Shawkey
+ - Research/Design: Amy Knox
+ - Product Manager: Darrell Neel
  
 </details>
 
