@@ -2,7 +2,7 @@
 
 ## Overview
 
-VA.gov is composed of static content (.html), applications (.js), and styling (.css). Static content files are created from the Metalsmith build script. Application bundles are created with Webpack. 
+VA.gov is composed of static content (.html), applications (.js), and styling (.css). Static content files are created from the Metalsmith build script. Application bundles are created with Webpack. Currently (Q3 2020), these tasks are run in a single build script in the CI pipeline, which deploys apps and content to an AWS S3 bucket that is deployed to VA.gov. 
 
 ## Problem Statement
 *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address.*
