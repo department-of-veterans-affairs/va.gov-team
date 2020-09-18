@@ -4,13 +4,15 @@ Welcome! We can use this ticket to track your onboarding to the VSA Program.
 
 ## Pre-Onboarding
 
-### New Hire Welcome 
+**Program Manager Tasks**
 
+- [ ] Welcome call with Program Manager/New Hire
 
-- [ ] Send out Welcome Letter @yanaroy
-- [ ] Welcome call with Program Manager/New Hire @azwilling
+**Operation Lead Tasks**
 
-**Send Notifications to:**
+- [ ] Send Welcome email to New Hire (request GitHub Username)
+
+*Send Notifications with New Hire details (name, position, start date) to:*
 
 - [ ] Admin Analyst
 - [ ] VA Leadership
@@ -34,6 +36,7 @@ Welcome! We can use this ticket to track your onboarding to the VSA Program.
 ## Onboarding
 
 **New Hire Tasks**
+
 *Day 1*
 - [ ] [Watch Chris Johnston va.gov Backgrounder recording](https://drive.google.com/file/d/1BTYPaR0p9hYD4qd-OCCduyIRTRr77S1O/view?usp=sharing)
 - [ ] Attend VSA Program Overview Meeting
@@ -48,19 +51,21 @@ Welcome! We can use this ticket to track your onboarding to the VSA Program.
 **Operation Lead Tasks**
 
 - [ ] Inform Practice Lead, Product Manager to trigger communication
+- [ ] Conduct VSA Program Overview Meeting
 - [ ] Update Org Chart and Share with New Hire
 - [ ] Add New Hire to #va-vsa
 - [ ] Send out org announcement on #va-vsa
 - [ ] Request New Hire to Complete Skills Matrix (GCIO only)
 - [ ] Add New Hire to Program-wide Meetings
+- [ ] Add New Hire to The Platform Newsletter (James Chaisa)
 
 **Practice Lead Tasks**
 - [ ] Send Intro Comms to New Hire
-- [ ] Practice-specific Onboarding Meeting with New Hire
+- [ ] Conduct Practice-specific Onboarding Meeting with New Hire
 - [ ] Add New Hire to Practice-specific meetings
 
 **Product Manager Tasks**
 
 - [ ] Send Intro Comms to New Hire
-- [ ] Intro Meeting with New Hire
+- [ ] Conduct Intro Meeting with New Hire
 - [ ] Add New Hire to Product team meetings
