@@ -10,16 +10,16 @@ VSP does not have a scalable solution for the challenges teams face with test us
 
 ## Personas
 
-* _VSP Engineers
-* _VFS Developers
+* VSP Engineers
+* VFS Developers
 
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
 
-* _Reduction on time to find a test user account to QA a new test case
-* _Reduced # of questions about how to find a test user account
-* _Increase # of QA tests being fully executed with test user accounts
+* Reduction on time to find a test user account to QA a new test case
+* Reduced # of questions about how to find a test user account
+* Increase # of QA tests being fully executed with test user accounts
 
 More KPIs TBD...
 
