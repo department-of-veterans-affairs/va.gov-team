@@ -27,21 +27,21 @@ Veteran Employment Through Technology Education Courses (VET TEC) is a 5-year pi
 
 Will you be taking any classes in person? ([Learn more]()) { Modal link } { Radio buttons }  
 
-{ Learn more modal content }
+{ Learn more modal content } { NOTE: Since the housing question also appears on the search and profile pages, the modal copy will be the same there for the learn more. }
 
-_HOUSING ALLOWANCE CONTENT REQUIRES APPROVAL FROM EDU / DEPO_
+_HOUSING ALLOWANCE CONTENT REQUIRES APPROVAL FROM EDU / DEPO_  
 
-**Where you take classes determines your housing allowance**
+**Your housing allowance is determined by where you take classes**  
 
-Under the GI Bill you’re eligible to receive a monthly housing allowance whether you take classes in-person or online. We calculate the monthly housing allowance based on where you take those classes.
+Under the GI Bill you’re eligible to receive a monthly housing allowance. We calculate this monthly housing allowance based on where you take classes.  
 
-If you're using Post-9/11 GI Bill benefits to take at least 1 in-person class, your housing allowance will be based on where you do most of your coursework. If you're taking distance-learning courses only, we’ll pay you a housing allowance based on 50% of the national average.
+If you use Post-9/11 GI Bill benefits to take at least 1 in-person class, your housing allowance is based on where you do most of your coursework. If you take online courses only, your housing allowance is based on 50% of the national average.  
 
-Through Dec. 21, 2020, current and new students can receive in-person rates if the school converted their approved program from in-person to online training due to COVID-19.
+Through Dec. 21, 2020, current and new students can receive in-person allowance rates if their school’s approved program changed from in-person to online learning due to COVID-19.  
 
-[View the current housing allowance payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp?_ga=2.144591223.39405460.1542131207-1582256389.1508352376).
+[View the current housing allowance payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp?_ga=2.144591223.39405460.1542131207-1582256389.1508352376)  
 
-{ end modal }
+{ end modal }  
 
  * Yes { Default selection }
  * No   
@@ -135,21 +135,21 @@ Your housing allowance { additional information component }
 
 Will you be taking any classes in person? ([Learn more]()) { Modal link } { Radio buttons }  
 
-{ Learn more modal content }
+{ Learn more modal content } { NOTE: Since the housing question also appears on the landing and profile pages, the modal copy will be the same there for the learn more. }  
 
-_HOUSING ALLOWANCE CONTENT REQUIRES APPROVAL FROM EDU / DEPO_
+_HOUSING ALLOWANCE CONTENT REQUIRES APPROVAL FROM EDU / DEPO_  
 
-**Where you take classes determines your housing allowance**
+**Your housing allowance is determined by where you take classes**  
 
-Under the GI Bill you’re eligible to receive a monthly housing allowance whether you take classes in-person or online. We calculate the monthly housing allowance based on where you take those classes.
+Under the GI Bill you’re eligible to receive a monthly housing allowance. We calculate this monthly housing allowance based on where you take classes.  
 
-If you're using Post-9/11 GI Bill benefits to take at least 1 in-person class, your housing allowance will be based on where you do most of your coursework. If you're taking distance-learning courses only, we’ll pay you a housing allowance based on 50% of the national average.
+If you use Post-9/11 GI Bill benefits to take at least 1 in-person class, your housing allowance is based on where you do most of your coursework. If you take online courses only, your housing allowance is based on 50% of the national average.  
 
-Through Dec. 21, 2020, current and new students can receive in-person rates if the school converted their approved program from in-person to online training due to COVID-19.
+Through Dec. 21, 2020, current and new students can receive in-person allowance rates if their school’s approved program changed from in-person to online learning due to COVID-19.  
 
-[View the current housing allowance payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp?_ga=2.144591223.39405460.1542131207-1582256389.1508352376).
+[View the current housing allowance payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp?_ga=2.144591223.39405460.1542131207-1582256389.1508352376)   
 
-{ end modal }
+{ end modal }  
 
  * Yes { Default selection }
  * No   
