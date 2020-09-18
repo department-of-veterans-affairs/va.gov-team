@@ -1,27 +1,16 @@
 # VSP Product Outline Template
 
-_**Guidance**_
-
-_This Product Outline is intended primarily for VSP teams building VSP. Details of what's being built, how it's being built, how its success will be evaluated, and roadmaps are all relevant._
-
-_Because this is VSP-internal, the Product Outline should be located in `/products/platform/`. VFS-facing documentation about this product should be located in `/platform/`._
-
-_Fill out the template below, following italicized guidance for each section._
-
-_Delete this guidance stanza and any italicized guidance in the template before checking in your Product Outline._
-
----
-
 # Product Title
 
 ## Overview
-*A brief description of the product.*
+*When a new VFS team joins or a new person joins a VFS team, VSP conducts orientation (a series of meetings and reading material) to introduce VFS teams to processes, standards and expectations of developing on platform.*
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address.*
+The platform ecosystem is robust and it can be a confusing experience for new VFS teams or team member to jump into developing on Platform.
 
 ## Personas
-*Who are the users of this product?*
+VFS team members
+VSP practice area specialists
 
 ## Measuring Success
 
@@ -52,7 +41,7 @@ _For non-trivial technical solutions, an [engineering design doc](https://github
 --- 
 
 ## Launch Dates
-- *Launch Date*: TBD
+- *Launch Date*: July 2019
 
 ---
    
