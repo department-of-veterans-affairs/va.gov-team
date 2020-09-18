@@ -43,7 +43,7 @@ We will engage in moderated usability testing conducted remotely using Zoom. Rem
 Recruit for 5 fulfilled sessions using the following criteria:
 
 **Must have for participants**
-- TBD (pass = yes)
+- No special requirements: can be Veteran, service member or dependent.
 
 **Good to have for participants**
 - At least 1 woman
@@ -60,30 +60,19 @@ Recruit for 5 fulfilled sessions using the following criteria:
 - The participants know how to screenshare
 
 #### When
-The current timeline is pending...
-
-#### Pilot session
-
-`Date/time TBD`
 
 #### Testing sessions
 
-**Pilot session** | The pilot session can be as early as Monday, September 21.
+**Pilot session** | Prefer pilot to be Wednesday, September 23, 11:00 AM.
 
 **Team availability**
 | Dates | Times (EDT) |
 | --- | --- |
-| September 21, 2020 | N/A |
-| September 22, 2020 | N/A |
-| September 23, 2020 | 9 AM to Noon |
 | September 24, 2020 | 9 AM to 5 PM |
 | September 25, 2020 | N/A |
-| W E E K - T W O | |
 | September 28, 2020 | 9 AM to 5 PM |
 | September 29, 2020 | 9 AM to 5 PM |
 | September 30, 2020 | 9 AM to Noon |
-| October 1, 2020 | 9 AM to 5 PM |
-| October 2, 2020 | 9 AM to 5 PM |
 
 - Please leave 30 minutes between sessions 
 - Please do not exceed 3 sessions a day 
