@@ -1,4 +1,4 @@
-# Prep for automated content reviews: Product outline [draft]
+# Content review: Product outline
 
 ## Overview
 Automated content reviews allows team members writing static and dynamic content on VA.gov to embrace self-service while adhering to content and plain language standards across the website.
