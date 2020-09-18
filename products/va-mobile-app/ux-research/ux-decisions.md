@@ -1,70 +1,98 @@
 # UX decisions
 
-August 17, 2020
+Last updated: September 18, 2020 
 
 # Background and goals
-Since March 2020, our team has undertaken three research studies to help define the MVP feature set of the VA mobile app. As we move from research into the MVP build, there are decisions we would like to make in partnership with VA, and based on conversations with other VFS teams. The goal of this document is to outine the major UX decisions that we are in the process of making as of August 17, 2020. We want to clarify what these decisions are so we can work together on them with stakeholders. 
+In discovery work beginning March 2020, we determined that Veterans desire a VA mobile app with authenticated features, and through tech and design discovery we decided on an MVP feature set. We are now designing the UX/UI for the MVP app, which will be built in React Native for iOS and Android. 
+
+**Goal of this document**: Document significant UX/UI decisions for the MVP and our rationale for making these decisions. 
+
+
+# Significant decisions
+
+### UI decisions 
+
+### We will use system fonts and heavily leverage platform components. 
+Because our scope is an MVP, we want to spend energy on features and login, not customizations. This led us to decide to use system fonts and heavily leverage platform components after exploring the three font and UI design directions listed below:  
+
+**Option 1**
+- Font: Source Sans Pro and Bitter Bold
+- UI components: Heavily use VA design library components
+
+**Option 2:** 
+- Font: A mix of system fonts plus VA fonts
+- UI components: Heavily use platform components, sparingly use VA design library components
+
+**Option 3:** 
+- Font: Heavily use system fonts with a tiny bit of Bitter bold included
+- UI components: Heavily use platform components, sparingly use VA design library components
+
+Our reasons for moving forward with Option 3 include the following: 
+- From a front-end perspective, this decision allows us to launch an MVP as quickly as possible and focus on including more features rather than customizing the app UI. 
+- From a design perspective, this allows us to quickly design the UX/UI for features without creating a mobile-specific version of the VA design library in a rushed, unofficial way. Eventually, we anticipate redesigning the app to look even more like VA. However when we do that we would like to ensure there is enough time to do so well, that the mobile app team and owners of the VA design system each have the capacity to work together to create the library as a team, and that we are creating a system that can scale and has buyin from all design stakeholders. The mobile app team does not have the capacity to dedicate time to creating this type of mobile-specific style guide as part of our MVP timeline. 
+
+
+### We will integrate a few choice elements from the VA design library to help the app feel like VA. 
+As noted in the above decision, we expect to use some components from the VA design library sparingly to help the app feel like the VA app, not an iOS or Android app. These components include: 
+- **Profile Header:** The profile header uses Bitter Bold and lists a user's name and branch of the military. We anticipate using this on the Profile menu, Personal and Contact Information, Military Information, and Direct Deposit. We feel this is a good place to bring in an element users might find familiar from VA.gov to help communicate that when a user updated information within their profile from the VA mobile app, their information will also be updated on VA.gov. In usability testing, we found that users wanted more clarity between how the app and VA.gov would relate to each other. This UI design decision reinforces the relationship.  
+- **The Claim Status Tool 5 step subway map:** The Claim Status Tool timeline will help reinforce the relationship between the Claim Status Tool on VA.gov and the one within the app. Using this element in the app will ensure that across both properties we're relaying the exact same progress information to users, and we feel this decision will avoid creating confusion that could lead to more calls regarding claim status. We anticipate using this on all claim detail pages. 
+- **Alerts**: Platform libraries do not have a great out of the box component for handling alert messages when we want a user to see important information on a page. We know that alerts are used heavily on VA.gov and that we will have content in our app that is presented to users as an alert on VA.gov. We want to have a component that will allow us to convery alert information in a screen without having to use a  modal, which is the primary alert pattern on mobile. 
+- _As more UI decisions are finalized, more components and rationale for including them in the MVP app may be added here._
 
 
 
-## 1. We think we should use a bottom toolbar and we have designed a navigation UI   
-We also considered a hamburger menu following the same pattern as VA.gov (titled 'Menu' rather than using an icon). However, because of the relatively small feature set in the MVP and user familiarity with toolbars within apps, we think a toolbar is the best option for launch. Here is some supporting research we did to make this recommendation: 
-
-- **Toolbar navigation**
-  - **Pro:** For the MVP features we have, a toolbar is a good fit. All of our navigation items sit at the same level and we can easily use 5 items to provide access to all key features. A 2015 Nielsen Norman article suggests that using a bottom toolbar is appropriate and usable for a use case like ours. 
-  - **Pro:** A toolbar is in line with native mobile app conventions and will aid in higher discoverability of features than a hidden menu.
-  - **Pro:** A toolbar clearly communicates to users where they are within the app and allows for quick switching between feature areas.
-  - **Pro:** A toolbar is within the "thumb zone", allowing some users who are able to navigate the app with one hand. 
-  - **Con:** Eventually if the app expands to more areas (e.g. education, pension) and stays as one flag ship app, the toolbar navigation will not fit. 
-
-- **Hamburger menu navigation**
-  - **Pro:** A hamburger menu fits a larger amount of navigation items than a toolbar
-  - **Con:** A 2016 Nielsen Norman study found that when navigation is hidden, users are less likely to use navigation. Nielsen Norman defines hidden navigation as "main navigation links placed under an icon (such as the hamburger) or button and required an explicit user action to be displayed". 
-  - **Con:** Additionally, NN research found that hamburger menus are a better UX choice for browse mostly sites, not sites where the user needs to compelte tasks. This is not our MVP use case.
-  
-  
-After determining a toolbar feels right for us, we created a working IA that includes all features included in the living roadmap and a navigation UI. The main toolbar items from left to right are:
-  - Home
-  - Claims
-  - Health
-  - Veterans Crisis Line
-  - Profile
-  
-Additionally, a Settings navigation item would be accessible from the Profile and Home screens and would house the utility functions of the app (managing touch ID, help, app sharing, sign out). 
-
-There has been some discussion about how prominent the Veterans Crisis Line should be. Our point of view is that although the Veterans Crisis Line overall sees less traffic than Claims and Health features on VA.gov, it should be accessible very easily in the event a user ever needs it, and thus belong in the main toolbar. We welcome other points of view and collaboration on this. 
-
-**Summary of what we need to decide**
-1. Final IA
-2. UX/UI of navigation
-
-**What are our next steps?**
-- We will usability test the high-fi app with Veterans and make IA/navigation adjustments as needed
-- Ad Hoc/DEPO discussion 
+### We will use a bottom bar navigation on both iOS and Android.
+After discussions with teammates with Android development experience and reviewing the recent changes to the Material Design Library that move away from a navigation drawer and towards a bottom navigation bar ([source](https://material.io/design/navigation/understanding-navigation.html)), we feel using a bottom navigation bar across both platforms is the UI and navigation to move forward with for a few reasons: 
+- First, it is the direction Android is heading and as Android apps are updated more apps will transition to bottom bars. We want to look forwards and avoid having to redesign our Android navigation style soon in the future. 
+- Second, using the same navigation pattern across both platforms will limit our test cases to allow them to be the same across platforms, creating efficiencies in testing.  
+- Third, using the same navigation pattern will allow Veterans who may be sharing information about the app with other Veterans to communicate clearly about app features and functionality when they do so. This feels important to call out because we learned in early discovery research that a common source of information for Veterans is friends who are also Veterans, and we anticipate word of mouth being one of the most common ways that awareness about the app spreads. 
+- Additionally, we have concern about using a drawer that is not labelled clearly, because this breaks from the way the mobile VA.gov site handles navigation with a clear 'Menu' label rather than a hamburger icon. We did some secondary research into navigation usability and developed the following POV about why we feel a bottom navigation is a strong fit for our MVP across platforms:  
+  - All of our navigation items sit at the same level and a bottom navigation provides easy access to all key features. A 2015 Nielsen Norman article suggests that using a bottom toolbar is appropriate and usable for a use case like ours (3-5 items). 
+  - A bottom navigation generally affords higher discoverability of features than a hidden menu. A 2016 Nielsen Norman study found that when navigation is hidden, users are less likely to use it. Nielsen Norman defines hidden navigation as "main navigation links placed under an icon (such as the hamburger) or button and required an explicit user action to be displayed".
+  - A toolbar clearly communicates to users where they are within the app and allows for quick switching between feature areas.
+  - A toolbar is within the "thumb zone", allowing some users who are able to navigate the app with one hand. 
+ 
+We anticipate redesigning the navigation post-MVP when we redesign the app to feel more like VA. Eventually if the app expands to more areas (e.g. education, pension) and stays as one flag ship app, the toolbar navigation will not fit. This will be necessary especially once our app branches out into more features and key features may not fit into a bottom navigation as they do with the MVP. 
 
 
+-----
 
 
+## Process decisions
 
-## 2. Can we include any more features in the MVP outside what is currently on the living roadmap?
-We have had conversations with SMEs at VA and are continuing to talk to teams working on other features that our app will include (Claim Status Tool redesign, Logged In homepage redesign). As part of talking to these teams, we are open to learning that there are other "low hanging fruit" features that are highly valuable to Veterans, fit within the MVP purpose of our app, and are technically feasible. One example of this may be direct deposit and payment information.
+### Create wireframes for iOS for initial hand-off to front-end, create Android wireframes as needed.
+Using React Native allows us to build once and deploy across both patforms. Because we are leaning into system fonts and platform components, we will take the following approach: 
+- Hand off iOS wireframes to the front-end development team 
+- Work closely with the front-end development team to refine Android UI together, likely through regular Zoom sync and Slack conversations. At times, we anticipate creating Android-specific wireframes to help communicate the desired UI, however we likely be able to collaborate via conversations to achieve the desired design. 
+
+This decision will give us process effencies, but by no means are we focusing on iOS with greater detail than Android. We will give both platforms the same level of design review and attention, we will simply frontload the iOS design and then turn focus to Android designs. 
+
+### Create cross-device wireframes as needed. 
+Similar to the previous decision, we will adjust UI designs for larger devices such as tablets as needed once the front-end work on screens has begun. We will be scaling the app up to tablet for the MVP and want to ensure it is usable, clear, and well designed, and anticipate achieving this via conversations and potentially device-speicifc wireframes as needed. 
+
+### Use Sketch. 
+We have found Sketch to be the quickest way to work with VA, iOS, and Android design elements. Additionally, it is DEPO's official tool. It would be nice to have multiple designers working in the same file at once and we see this as Figma's biggest plus. But for the time being we're using Sketch.
+
+-----
+
+## Accessibility decisions
+
+### Prioritize accessibility from the very start. 
+We see a strong opportunity to consider mobile accessibility from the very start, and we see this as an important UX decision because our MVP target audience is highly likely to have a disability and benefit from strong accessibiltiy features. We want to meet users who use accessibility features on their mobile devices strongly right out of the gate.
+
+We also want to use this project as an opportunity to document what we learn about building native mobile applications with strong accessibility features. 
+
+
+----
+
+## Decisions still being made
+
+## Content decisions
+
+### We will include the Veterans Crisis line on the unauth homescreen so users can access it before signing in, and on the homescreen as the first item.
+There has been some discussion about how prominent the Veterans Crisis Line should be. Our point of view is that although the Veterans Crisis Line overall sees less traffic than Claims and Health features on VA.gov, it should be accessible very easily in the event a user ever needs it, however should not be included as a navigation item in the bottom toolbar due to space restrictions. We welcome other points of view and collaboration on this. 
+
+### Can we include any more features in the MVP outside what is currently on the living information architecture?
+We have had conversations with SMEs at VA and are continuing to talk to teams working on other features that our app will include (Claim Status Tool redesign, Logged In homepage redesign). As part of talking to these teams, we are open to learning that there are other "low hanging fruit" features that are highly valuable to Veterans, fit within the MVP purpose of our app, and are technically feasible. One example of this may be direct deposit payment information or COVID-19 specific features such as the screener. Our goal is to build and launch an MVP quickly, so we don't anticipate adding a lot more, however it's important to note that we may be able to add more and those decisions will continue to unfold between now and November.
 
 We're also open to these teams leading _us_, and taking the point of view that our app will replicate VA.gov features and bring a layer of unique mobile functionality (for example camera upload, push notifications). We do not want to redesign anything or make too many changes to features that are on VA.gov, and instead will look to other VFS teams and their ongoing work to inform UX/UI decisions in the app.  
-
-**Summary of what we need to decide**
-1. Final MVP roadmap & service blueprint
-
-**What are our next steps?**
-- Continue conversations with VFS teams working on VA.gov to learn from their research, expand our roadmap/service blueprint as we see fit
-- Ad Hoc/DEPO discussion 
-
-
-
-
-
-## 3. Should we use Sketch or Figma? 
-We have been using Sketch to build the high-fi prototype. We have found Sketch to be the quickest way to work with VA, iOS, and Android design elements. Additionally, it is DEPO's official tool. It would be nice to have multiple designers working in the same file at once and we see this as Figma's biggest plus.
-
-**What are our next steps?**
-- Make a final decision between Ad Hoc and DEPO stakeholders
-
