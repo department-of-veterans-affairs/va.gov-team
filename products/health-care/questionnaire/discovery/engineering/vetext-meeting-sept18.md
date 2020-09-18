@@ -21,7 +21,7 @@ involve a save progress feature. We also need to think about what is the status 
 take into account cancelations. 
 
 VDIFF is an app that was mentioned. They are doing some work for VAOS. VDFF is part of the data transfer bewteen
-Vita and Cerner primarily but they are looking for new use cases
+Vista and Cerner primarily but they are looking for new use cases
 
 Appointment data from CDW was mentioned, though Stephen said that CDW is a day behind and that it is difficult to work with
 
