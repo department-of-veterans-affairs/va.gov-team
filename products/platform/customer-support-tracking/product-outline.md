@@ -22,8 +22,6 @@ VSP team members and Leadership.
 - % of responses to customer support requests that are automated
 - time it takes to compile customer support reports
 
-#### Baseline KPI Values
-
 ------
 
 ## Assumptions
