@@ -21,11 +21,10 @@
 - Critical functionality of the tool is missed in the discovery effort
 
 ## Desired Business Outcomes
-- Identify who is using the GIBCT now
-- Idenfity who the GIBCT target audience is
-- Better understand the ways our users are utilizing the tool now and for what reasons
-- Identify a list of must have functionality in the tool
-- Ability to prioritize functionality 
+- The target user of the reimagined comparison tool has been identified 
+- Understanding of who is using the GIBCT now and for what reasons
+- Identify a list of "must have" functionality in the tool
+- Ability to prioritize functionality based on 
 - Clarify the mission of the tool 
 
 ## Undesired Business Outcomes
