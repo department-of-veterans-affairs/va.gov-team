@@ -19,17 +19,30 @@ Welcome! We can use this ticket to track your onboarding to the VSA Program.
 
 ### New VSA Team Member Notification
 
-Send Notifications to:
+**Send Notifications to:**
+
 - [ ] Admin Analyst
-- [ ] Review address validation board/epic
-- [ ] Review address validation docs
+- [ ] VA Leadership
+- [ ] VA PO
+- [ ] Practice Lead
+- [ ] VSP Onboarding
 
-**Profile 2.0**
+**Access and Paperwork**
 
-- [ ] Profile 2.0 overview
-- [ ] Review profile 2.0 board/epic
-- [ ] Review profile 2.0 docs
+- [ ] Access to Shared Google Drive
+- [ ] Access to VSA PTO Calendar
+- [ ] Access to VA Organization in GitHub
+- [ ] Access to VSA GitHub Repositories
+- [ ] Access to GCIO/AdHoc Slack Workspace
+- [ ] Access to DSVA Slack Workspace
+- [ ] Request Hardware/Software (remove if non-GCIO)
+- [ ] Request New Hire to Complete VA Onboarding Paperwork (GCIO Admin Analyst)
+- [ ] Schedule Program Overview Meeting
 
-## Acceptance criteria
+## Onboarding
 
-- [ ] All tasks above are complete
+### New Hire Tasks
+
+**Access and Paperwork**
+
+- [ ] 
