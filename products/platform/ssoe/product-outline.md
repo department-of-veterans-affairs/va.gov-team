@@ -3,12 +3,28 @@
 _Last updated September 2020_
 
 #### Communications
+- Team Name: Identity
+- GitHub Label: Identity, SSO
+- Slack channels: 
+     [#va-sso](https://dsva.slack.com/channels/va-sso)
+     [#vsp-identity] (https://dsva.slack.com/channels/vsp-identity)
+
+
+#### Identity Team Members
+- Product: Christine Dillman
+- Lead Engineer: Johnny Holton
+- BE: Bennie Mosher
+- FE: Alex Garcia
+- UX: Amanda Porter
+- Security Engineer: Joe Niquette
+- DEPO Lead - Cory Trimm
+
+
+#### Original Team & Members
 - Team Name: SSO/Login
 - GitHub Label: SSO-Login
 - Slack channel: [#va-sso](https://dsva.slack.com/channels/va-sso)
 - Product PoCs: Lauren Alexanderson
-
-#### Team Members
 - Product: Alexis James
 - UX: Bridget Hapner
 - Engineering: Patrick Vinograd, Eric Buckley, Dan Hinze
