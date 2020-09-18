@@ -7,7 +7,7 @@ _Last updated September 2020_
 - GitHub Label: Identity, SSO
 - Slack channels: 
      [#va-sso](https://dsva.slack.com/channels/va-sso)
-     [#vsp-identity] (https://dsva.slack.com/channels/vsp-identity)
+     [#vsp-identity](https://dsva.slack.com/channels/vsp-identity)
 
 
 #### Identity Team Members
