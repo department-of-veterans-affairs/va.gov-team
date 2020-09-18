@@ -2,7 +2,7 @@
 Meeting with Stephen Barrs and Shane Elliot to discuss leveraging VeText 9/18
 
 One of the main scenarios that was discussed was how do we proactively notify clipboard about an appointment. 
-It was stressed that we do not want to store appointment data in the clipboard, but there is fhir based questionnaire response type data in
+It was stressed that we do not want to store appointment data in a clipboard DB, but there is fhir based questionnaire response type data in
 the PGD. Pressumably a veteran ID and appointment ID will be stored in the QR PGD (Question response). Keep in mind that the appointment
 IDs may be synthetic and outside of vista specifically 
 
