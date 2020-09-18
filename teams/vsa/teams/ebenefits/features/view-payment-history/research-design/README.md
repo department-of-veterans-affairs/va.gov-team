@@ -40,13 +40,13 @@ Changes made to null-data and error states
 
 - H3 and text added to no-data messages for Payments Made
 - H3 and text added to no-data messages for Returned Payments
-- Component-level no-data messaged changed togray box; text revised
+- Component-level no-data messaged changed to grey box styling; text revised
 
 **August 14, 2020**
 
 Changes made to desktop and mobile views
 
-- Breadcrumbs changed (must cinfirm with IA)
+- Breadcrumbs changed (must confirm with IA)
 - H1 changed
 - Payments received header and paragraph text changed
 - IN STAGING: compensation has typo
@@ -56,10 +56,10 @@ Changes made to desktop and mobile views
 - "Missing payment" paragraph text changed
 
 **July 9, 2020**
-- Returned payments table has "final" colums/headers
+- Returned payments table has "final" columns/headers
 - Long months abbreviated per guidance [here](https://design.va.gov/content-style-guide/dates-and-numbers)
 - Border-bottom added to desktop table
-- Sorting arrows removed/sorting funtionality removed
+- Sorting arrows removed/sorting functionality removed
 
 **July 2, 2020**
 - Mobile view of tables revised to "un-bold" data 
@@ -76,12 +76,12 @@ Changes made to desktop and mobile views
 
 **June 8, 2020**
 - Breadcrumbs revised to align with IA recommendations
-- Paymets table header changed to align with Content/IA recommendations
+- Payments table header changed to align with Content/IA recommendations
 
 ### Prototype Changelog
 
 **August 17, 2020**
-- Breadcrumbs changed (must cinfirm with IA)
+- Breadcrumbs changed (must confirm with IA)
 - H1 changed
 - Payments received header and paragraph text changed
 - IN STAGING: compensation has typo
@@ -91,7 +91,7 @@ Changes made to desktop and mobile views
 - "Missing payment" paragraph text changed
 
 **July 23, 2020**
-- Returned payments table has "final" colums/headers
+- Returned payments table has "final" columns/headers
 - Long months abbreviated per guidance [here](https://design.va.gov/content-style-guide/dates-and-numbers)
 - Border-bottom added to desktop table
 - Border-top added to mobile view
@@ -107,7 +107,7 @@ Changes made to desktop and mobile views
 
 **June 8, 2020**
 - Breadcrumbs revised to align with IA recommendations
-- Paymets table header changed to align with Content/IA recommendations
+- Payments table header changed to align with Content/IA recommendations
 
 ---
 
