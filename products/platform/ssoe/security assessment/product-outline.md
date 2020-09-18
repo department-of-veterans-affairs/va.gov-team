@@ -1,7 +1,7 @@
 # SSOe Security Assessment Product Outline
 
 ## Overview
-*A brief description of the product.*
+This product will actually result in a security assessment and remediation report.  The report will provide us with defined stakeholders, a documented architecture, a reference guide for all security functions, a prioritized list of findings based on risk level, remediation recommendations and requirements, estimates of effort, and a plan of action & milestones (POAM).
 
 ## Problem Statement
 Since SSOe is transitioning to the Identity team, it is in VSP’s best interest to perform a thorough security assessment that will examine the system and find potential weaknesses that we may not have know existed.
