@@ -10,9 +10,9 @@ Provides Veterans, family members, caregivers, service members and other audienc
 We envision a world where it takes less time to find information about VA benefits and services than it does on Google. 
 
 ### Team North Stars:
-1. Use of self-service tools and associated number of conversions
-2. Time to outcome
-3. Customer satisfaction
+1. Increase the use of self-service tools and associated number of conversions
+2. Decrease time users spend waiting for an outcome
+3. Consistent Customer satisfaction, reliability and secure online UX
 
 ## What we work on
 ### Product Suite
@@ -21,18 +21,19 @@ Unauthenticated Experience for VA.gov
 ### Product Portfolio:
 -	Home Page 
 -	Header / Footer 
--	IA, Menus, Navigation 
--	Content Hubs 
--	Legacy content rewriting 
--	On-site Search
+-	Redirect Benefit Hubs 2.0 
+-	On-site Search 2.0
 -	Find a VA Form
+- Yellow Ribbon Participating Schools Tool
 -	Contact Us/ Help Utility
--	Global Alerts
+- Metrics - baseline and goals
+- Learning Center Content / IA 
 
-### Responsibilities:
-We will develop and deliver the content, navigation, and tools that provide our customers the easiest way to find and act upon any VA service.
 
-Develop and assist other teams in unauthenticated content and products for Veterans on VA.gov. 
+### Responsibilities (Problem space and user goals):
+1. We will develop and deliver the content, navigation, and tools that provide our customers the easiest way to find and act upon any VA service.
+
+2. We will strategize, write, develop, and collaborate with others in unauthenticated content and products for Veterans on VA.gov. 
 
 ### Roadmap:
 [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Public-website-2020-priorities-vision-012320.pdf)
@@ -47,7 +48,8 @@ Develop and assist other teams in unauthenticated content and products for Veter
 |DSVA Product Owner     |Jen Lee                             |
 |DSVA Product Owner     |John Hashimoto                      |
 |DVSA Content Lead      |Danielle Thierry                    |
-|Product Manager        |Brian Lloyd                    |
+|DVSA Content Lead      |Beth Potts                          |
+|Product Manager        |Brian Lloyd                         |
 |Front End Engineer     |Nick Sullivan                       |
 |Front End Engineer     |Kelson Adams                        |
 |Design/Research        |Liz Lantz                           |
@@ -57,13 +59,16 @@ Develop and assist other teams in unauthenticated content and products for Veter
 
 ### Popular Labels in ZenHub
 
+* vsa
 * vsa-public-websites
 * vsa-public-websites-intake
 * frontend
 * content
 * needs-grooming
 * design
-* developing
+* Awaiting Feedback
+* research
+* Website redirects
 * planned
 * un-planned
 
@@ -79,10 +84,7 @@ M,W,Th,Fri on a [zoom meeting](https://us02web.zoom.us/j/95694473204) @ 11:30am 
 * Tues on Slack
 * 30 min total
 
-3 Question Format: 
- - What I did yesterday?
- - What will I do today? 
- - Any Blocker and Dependancies?
+3 Question Format: What I did yesterday? What will I do today? Any impediments?
 
 **Sprint Planning**
 
@@ -97,10 +99,7 @@ Review accomplishments, ways to improve from prior sprint: [Funretro] (https://f
 * Last Wednesday of every sprint @ 11:30am ET/ 10:30am CT/ 9:30am MT/ 8:30am PT
 * On a [zoom meeting](https://us02web.zoom.us/j/99104113238)
 
-Questions to Go Over:
-- What went well
-- Areas for improvement
-- What to start doing
+Questions to Go Over: What went well? Areas for improvement? What to start doing?
 
 **Grooming** 
 
@@ -113,10 +112,9 @@ Assess and update workload for remainder of sprint
 
 For an issue to go into the Current Sprint column, it must have the following (created using the [Standard Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=standard-issue.md&title=):
 
-- Estimate
 - Title that explains task
 - Description with Background and Acceptance Criteria
-- Labels: _your team's labels_
+- Labels: _your team's labels_ 
 - User Story (if applicable), Goal, and Acceptance Criteria
 - Nested in an Epic
 
@@ -126,19 +124,29 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 
 #### Team Norms
 
+- Be on time and present for programmed meetings
 - Be respectful, both online and off
-- Constantly and openly communicate - be willing to hop on a call/slack/zoom convo if needed
-- Engage in non-judgemental communication
-- Own the problem and solution (driven with a singal purpose)
-- Don't compete with one another (round table effect)
 - Show your face (Webcam) at meetings / calls
-- Speak up! - everyone’s voice matters and will be heard
-- leave ego at the door
-- Assume best intentions - especially when in a remote setting
-- Trust on another and ask questions freely and frequently 
-- Celebrate the wins
+- Speak up! - everyone’s voice matters
 - We are flexible, but intentional in the way we work
+- Strive for oppurtunties to collaborate 
+- Assume best intentions - especially when in a remote setting
+- Trust one another and ask questions freely and frequently
+- Celebrate the wins
 - Let’s have fun and do great work!
+
+#### Decision Etiquette
+Decisions are part of our daily routine, the below questions can help kickstart the decision making and creative thinking process.
+1. Is it my decision to make?
+2. Do I have all the inforamtion to make the decision?
+3. Do I have to make the decision now?
+
+#### Communication Best Practices 
+- Slack - best communication method
+- Slack channels allow us to do our work in the open so that others can learn from the questions asked and the answers provided. Please do the same.
+- VFS teams should use public Slack channels as their first method of communication.
+- Don't wait to organize a meeting to ask a question; this will slow our team down.
+- Email - least effective communication method (Email communications are not easily searchable or archivable. Use this as a last resort for communication.)
 
 #### Slack:
 #vsa-public-websites
@@ -148,4 +156,4 @@ label: vsa-public-websites
 
 #### General things
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
-- Extra time? Explore the "Ready" column in ZenHub.
+- Extra time? Explore the "Ready" column in ZenHub. 
