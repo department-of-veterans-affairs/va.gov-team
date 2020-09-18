@@ -1,5 +1,5 @@
 
-# Documentation Site Product Outline
+Documentation Site: Product Outline
 
 ## Overview
 The documentation site is the single source of truth for team, product, and platform information required by teams building veteran-facing services on VA.gov.  Currently, VFS-facing documentation exists on a variety of tooling solutions and code repositories, all loosely consolidated by [The Home Page MVP](https://department-of-veterans-affairs.github.io/va.gov-team/) and [The Gatsby Site](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/). 
@@ -10,9 +10,7 @@ We created a myriad of documentation that was designed to help our customers (i.
 
 On 2020-09-15, VSP finalized acquisition of Confluence.  Confluence will be able to address these challenges, but there is a lot of work to be done between acquisition and global release.
 
-_HMW execute a Confluence-based pilot?_
-
-_How might our use of Confluence improve our documentation resources so that our customers are more successful?_
+_HMW leverage Confluence to improve the findability of documentation for VFS teams?_
 
 ## Personas
 * VFS team members
