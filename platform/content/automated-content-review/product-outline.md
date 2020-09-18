@@ -28,6 +28,7 @@ n/a
 - Automated content reviews will free up the VSP content reviewer from enough manual support to allow VSP to scale more seamlessly.
 - Giving VFSs the tools to self serve, ie identify their own low-level content issues, will allow them to move through the Collaboration Cycle and get to producton more quickly.
 - VFS content editors will be receptive to using an automated content reviewer (vs reaching out for human support).
+- If we give VFSs the tools to identify their own low-level content issues, VFSs will use the tools.
 
 ## Solution Approach
 To pull plain language linting through to the finish line, we will focus on two aspects: rules and enforcement (unprioritized).
