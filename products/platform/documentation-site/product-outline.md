@@ -21,13 +21,13 @@ _How might our use of Confluence improve our documentation resources so that our
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-* # of support requests
-* Time spent finding documentation, or # of clicks needed to find desired documentation
+* Number of support requests
 * VSF sentiment around navigating and consuming Confluence content
 * Placeholder: (Explore what analytics Confluence has built in that we can leverage)[https://confluence.atlassian.com/confeval/confluence-evaluator-resources/confluence-analytics-statistics]
+  * To investigate if covered by Confluence analytics: Time spent finding documentation, or number of clicks needed to find desired documentation
  
 #### Baseline KPI Values
-n/a
+- To be gathered: VSF sentiment around navigating and consuming current VSP content
 
 
 ## Assumptions
