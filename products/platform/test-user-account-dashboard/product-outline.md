@@ -1,34 +1,26 @@
-# Test User Account Dashboard Product Outline Template DRAFT
-
-_**Guidance**_
-
-_This Product Outline is intended primarily for VSP teams building VSP. Details of what's being built, how it's being built, how its success will be evaluated, and roadmaps are all relevant._
-
-_Because this is VSP-internal, the Product Outline should be located in `/products/platform/`. VFS-facing documentation about this product should be located in `/platform/`._
-
-_Fill out the template below, following italicized guidance for each section._
-
-_Delete this guidance stanza and any italicized guidance in the template before checking in your Product Outline._
-
----
-
-# Product Title
+# Test User Account Dashboard Product Outline
 
 ## Overview
 *A brief description of the product.*
 
+The Test User Account Dashboard is a tool that will make it easier for testers to find the right test account for a user scenario and will ensure the state of those accounts can be easily managed and maintained.
+
+
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address.*
+VSP does not have a scalable solution for the challenges teams face with test user accounts while performing tests and demos on VA.gov.  Currently, testers cannot find test user accounts that are viable for the scenarios they need.  Test user accounts regularly have inaccurate data, expired passwords, used by multiple testers, and are not in the right state to test a feature.
 
 ## Personas
-*Who are the users of this product?*
+VSP Engineers
+VFS Developers
 
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Grafana or other dashboards/reports where possible_
+-Reduction on time to find a test user account to QA a new test case
+-Reduced # of questions about how to find a test user account
+-Increase # of QA tests being fully executed with test user accounts
+
+More KPIs TBD...
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics, if possible._
