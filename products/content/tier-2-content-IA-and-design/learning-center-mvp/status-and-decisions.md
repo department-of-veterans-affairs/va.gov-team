@@ -2,6 +2,42 @@
 
 ## mm/dd/yy
 
+## 09/18/20
+
+Liz Lantz, Ryan Thurwell, and Jennifer Strickland synced on how to move forward with responsive tables for the learning center.
+
+**What we ARE doing for MVP 1.1**
+
+- Proposing a solution that creates a responsive and accessible table UX, hopefully without CMS modifications.
+- Planning to submit for an async design review w/ collaboration cycle team, since this includes a variation of a design system component
+
+**What we are NOT doing right now**
+
+- Submitting these concepts for review to be adopted globally, or into the design system
+- Providing solutions for comparison table use cases.  We have mock-ups for these but want to learn from this MVP responsive version and understand how tables are used before we take those concepts further
+- Implementing sticky headers or sticky functionality.  We started to explore this and identified some complexities that need to be solved for, and wouldn't be in scope for an MVP solution.
+
+**Mock-ups**
+
+[Screen 1](https://preview.uxpin.com/e7717d3fa019146277f28d799d247b820140d1b5#/pages/132642759/documentation/no-panels?mode=i) - shows what we **hope** can be implemented completely by the FE (no CMS updates required), for MVP 1.1
+
+- includes a show/hide functionality that collapses columns 2-12, for tables that have 3 or more columns.  
+- Includes a variation on the additional info component
+- This may not be MVP 1.0 if it requires CMS work.
+- There is documentation about a required `<caption>` element - this is the one piece I suspect needs CMS changes to implement.
+
+[Screen 2](https://preview.uxpin.com/e7717d3fa019146277f28d799d247b820140d1b5#/pages/132642760/documentation/no-panels?mode=i) - shows what this would look like if a cell was expanded, and contains some additional documentation.
+
+[Screen 3](https://preview.uxpin.com/e7717d3fa019146277f28d799d247b820140d1b5#/pages/132642765/documentation/no-panels?mode=i) - shows 2 things:
+
+- What a 2 column table would look like (doesn't get show/hide) AND
+- The pattern our responsive table can follow if the show/hide functionality turns out to be out of scope for MVP 1.1
+
+**Next Steps**
+
+1. We need our FE devs to evaluate the designs and determine if anything might require CMS changes. We can revise the concept so that CMS changes aren't required. 
+2. Submit designs for an async collaboration cycle review.
+
 ## 09/01/20
 Liz Lantz and Ryan Thurwell made decisions about which pages need mobile templates:
 Template/Page | Release Version | Mobile Design
