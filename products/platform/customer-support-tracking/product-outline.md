@@ -1,7 +1,3 @@
-# VSP Product Outline Template
-
-------
-
 # Customer Support Tracking
 
 ## Overview
