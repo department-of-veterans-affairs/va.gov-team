@@ -1,92 +1,127 @@
 ---
 name: Public Websites Intake Form
-about: To file requests with the VSA Public Websites team e.g. content support.
+about: To file requests with the VSA Public Websites team (including content and engineering support)
 title: <Type of Request> from <Team>
 labels: vsa-public-websites, vsa, vsa-public-websites-intake, needs-grooming, Epic
 assignees: DanielleThierryUSDSVA
 ---
 
-## Why you're here
-- Content support for static public website pages
-- Content support for authenticated application or tools
-- For specific copy editing tasks
-- Support for redirects that have **first been vetted by the VSP IA team**
-- Engineering support for implementation of REACT sign in widgets 
+## Why you're here 
 
+### Content support for:
+- Unauthenticated (static) VA.gov pages
+- Apps or tools
+- Other writing or editing requests
 
-## Steps to complete intake request
+### Engineering support for:
+- Redirects that have **first been vetted by the VSP IA team**
+- REACT sign-in widgets or feature flags (flipper)
+- Other engineering support
 
-- [ ] Submit this request when VSA Public Website team intervention is required
-- [ ] Provide detailed information of your request to help us understand our role in completing your request 
-- [ ] Link to this issue in [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites) in Slack, tag @Danielle Thierry 
+**Note:** Apps teams engineers are responsible for flipper implementation related to their products. Our engineers can provide consultation as needed. [Read feature toggle documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/)
 
-__When to submit a request__
+## How to submit your request
 
-- **For apps tool content, landing pages, or engineering support to support new tools:** Please submit your request before your project kicks off so we can provide more effective and collaborative support. If your project has already kicked off, submit your request as soon as possible.
+- [ ] Complete each area of this intake form that applies to your team's needs. Provide as much detail as you can so we can fully understand your request.
+- [ ] Post a link to this issue in [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites) in Slack, tag @Danielle Thierry and @Brian Lloyd. If your request includes engineering support, also tag @nick and @Kelson Adams.
+- [ ] If noted in the guidance below, please schedule any relevant meetings.
 
-- **For smaller editing needs:** Please submit your request at least **2 weeks** before your targeted launch.  
+### When to submit your request
+
+#### Content requests
+
+|Type of need | When to submit your request |
+| :-- | :-- |
+| **New unauthenticated VA.gov page (such as a static landing page to support a new app/tool)** | At project kickoff |
+| **Updates to an existing unauthenticated VA.gov page** | For significant updates (like consolidating pages or reworking page content): At project kickoff <br> For smaller updates (like adding a section of new info): At least 1 full sprint in advance (so we can work it into our next sprint). |
+| **Writing support for app/tool** | At project kickoff | 
+| **Editing support for app/tool or other writing/editing support** | For multiple screens: At least 1 full sprint in advance (so we can work it into our next sprint). <br> For very small needs (like an error message): At least 2 days in advance | 
+
+### Engineering requests
+
+Please submit all engineering requests **at least 1 full sprint in advance** (so we can work it into our next sprint).
 
 ---
 
-## Background
-*Provide a background of your tool/functionality.*
+## About your app/tool/functionality
 
-* **Is the request related to a VA.gov tool? Provide a brief description of the tool or functionality:**  
-   * < description >
+* **Is this request related to a VA.gov tool? If yes, provide a brief description of the tool or functionality:**  
+   * < description > 
 * **Provide links to any available collateral: product briefs/outlines, wireframes, prototypes, user research synthesis:** 
    * < links to collateral >
 
 ---
 
-## Request Type
-*Select all applicable and provide details behind your request* 
+## About your support needs
+*Please select all that apply, and follow related guidance.* 
 
 ### Content
-- [ ] **Content support for authenticated app/tool.** Note: Support is provided only for VSA apps teams that do not have its own dedicated content writer. In addition to the generic information above, please share:
-   * **Word document with draft if available, or link to the URL where the draft content appears:** 
-     - < link > 
-   * **Provide design context: (Example: Is this content in a user flow, an in-line error message, tool tip, field label?):** 
-     - < design context >
-   * **Scope: How many screens? (Or messages, etc.):** 
-     - < scope > 
-      
-      
-- [ ] **Content support for a static public website page**
-   * **Is this to update existing static content?** 
-     - < y/n >
-   * **Does this need a new static tool landing page? (The content team may propose a different approach in consultation with IA.):**  
-     - < y/n >
-   * **Provide a list of URL/s that need to be reviewed or updated.** 
+     
+- [ ] **New unauthenticated VA.gov page**
+   * **Additional info.** Please provide any details not covered above about what app/tool/other need this new page will support. 
       * < URL list >
-   * **If it's a small copy section, list what the new info should be and what it is replacing.**
-      * < list of new info >
+   * **Schedule a meeting.** Please schedule a meeting with @Danielle Thierry and @Brian Lloyd to kick off this work. We'll work with your team and the VSP IA resource to determine how best to accommodate this new page. [View Danielle's calendar](https://outlook.office365.com/calendar/published/b2a32b65cdbd4a218f7c0461ab4e41c1@va.gov/82b0e0b178934e80b2190b37e41a14668122172627511760876/calendar.html)  
 
-### Frontend  
-- [ ] **New URL or Redirect Requests**
+- [ ] **Updates to an existing unauthenticated VA.gov page**
+   * **What URL(s) do we need to review or update?** 
+      * < URL list >
+   * **Are updates for a small section of copy?** If yes, please tell us what new info we need to consider and what (if anything) it's replacing.
+      * < list of new info >
+   * **Are updates related to usability testing or analytics?** If yes, please provide details.**
+       * < list of new info >
+
+- [ ] **Writing support for new app/tool** 
+   * **Additional info.** Please provide any details not covered above about what app/tool/other need this new page will support. 
+      * < URL list >
+   * **Schedule a meeting.** Please schedule a meeting with @Danielle Thierry and @Brian Lloyd to kick off this work. We'll work with your team and the VSP content resource to determine how best to support your needs. [View Danielle's calendar](https://outlook.office365.com/calendar/published/b2a32b65cdbd4a218f7c0461ab4e41c1@va.gov/82b0e0b178934e80b2190b37e41a14668122172627511760876/calendar.html)   
+
+- [ ] **Editing support for app/tool** <br> <br> **Note:** We'll work with your team and the VSP content resource to determine how best to support your needs.
+   * URL where draft content appears (if available) <br>    
+     - < link > 
+   * **Word document with draft content** (if needed) <br> **Note:** If you have more than 2 paragraphs of text to edit, please provide text in a Word doc.     
+     - < link >      
+   * **Design context** <br> **Example:** Is this content in a user flow, an in-line error message, tool tip, field label?
+     - < design context >
+   * **Scope: How many screens or messages?** 
+     - < scope >            
+
+### Frontend engineering support 
+
+- [ ] **New URL or redirect requests**
    * **Have you vetted this request by the VSP IA team?:** 
      - < y/n. if not, submit URL and redirect requests first to @ Mikki Northuis on VSP IA.)
-   * **Link to VSP IA Redirect Request ticket:** 
+   * **Link to VSP IA redirect request ticket:** 
      - < Github issue link >
    
-- [ ] **Implementation of REACT sign in widgets**
+- [ ] **Implementation of REACT sign-in widgets**
    * **Full spec including different states and behaviors:** 
      - < link to spec >
    * **Flipper unique id:** 
      - < unique id >
      
+ - [ ] **Support for UAT testing or phased roll out of app/tool landing page**
+    * **Full spec including different states and behaviors:** 
+      - < link to spec >
+    * **Flipper unique id:** 
+      - < unique id >
+
+**Note:** Apps teams engineers are responsible for flipper implementation related to their products. Our engineers can provide consultation as needed. [Read feature toggle documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/)
+
 - [ ] **Other**
    * Please describe in detail
       
 
 ### Desired/target implementation date
-*What is the ETA for the launch or date when request needs to be completed (for instance, for a user research session or eBenefits migration)? Our team's capacity will determine which sprint the work falls into.*
+
+What's the ETA for the app/tool launch or the date when you need this request completed? Our team's capacity will determine which sprint the work falls into.
 
 * <Desired/target implementation date>
 
+**Note:** As a best practice, PW does not release new products over weekends or holidays. Please plan accordingly. 
+
 ---
 
-### Requestor info
-*Indicate what team and who the primary contacts are on your team* 
+### About your team
 
 - Team name: *enter name*
 - DEPO product owner: *enter name*
@@ -94,7 +129,6 @@ __When to submit a request__
 - Designer: *enter name*
 - FE engineer: *enter name*
 - Product/team Slack channel: *enter*
-
 
 --- 
 ### Public Websites internal use
