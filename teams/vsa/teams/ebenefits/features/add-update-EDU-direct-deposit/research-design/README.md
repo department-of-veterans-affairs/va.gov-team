@@ -1,1 +1,1 @@
-# Findings and Summary Notes for Inital Discovery and Resarch for EDU/DD Migration
+# Findings/Summary Notes for Inital Discovery & Research for EDU/DD Migration
