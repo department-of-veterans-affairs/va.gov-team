@@ -1,6 +1,6 @@
 ## Who We Are:
 
-Public Websites team is a team with responsibilities across VA.gov, including public-facing content, benefit hubs, global menu, onsite search, and Find a VA Form experience.
+Veteran Facing Services (VFS) Public Websites (PW) is a team with responsibilities across VA.gov, including public-facing content, benefit hubs, global menu, onsite search, and Find a VA Form experience.
 
 ## Our Current Focus:
 Primary Goal 1: Increase the use of self-service tools and decrease the time users spend waiting for an outcome. 
