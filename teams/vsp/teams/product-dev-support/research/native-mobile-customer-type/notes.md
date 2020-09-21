@@ -1,4 +1,4 @@
-# Native Mobile Customer Type
+# Native Mobile Customer Type Research
 
 Today (Sept 2020) the core customer type that the DEPO Platform is optimized to serve is: VFS teams building on VA.gov. This means we prioritize efforts to improve out support processes, documentation, and tooling to work well for folks launching features on VA.gov, but for VFS teams building things outside of the VA.gov experience, there may be friction and gaps in their experience that we are not prioritizing iteration for right now. We are not positioned yet to intentionally support these new customer types today.
 
