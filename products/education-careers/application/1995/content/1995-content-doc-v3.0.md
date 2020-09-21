@@ -83,10 +83,10 @@ Start the education application { button }
 
 { end if logged in }  
 
-Respondent burden: **20 minutes**
-OMB Control #: **2900-0074**
-Expiration date: **05/31/2021**
-[Privacy Act Statement]()
+Respondent burden: **20 minutes**  
+OMB Control #: **2900-0074**  
+Expiration date: **10/31/2021**  
+[Privacy Act Statement]()  
 
 ________________________________________
 
