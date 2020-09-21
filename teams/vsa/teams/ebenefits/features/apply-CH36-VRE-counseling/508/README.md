@@ -40,16 +40,16 @@ User (Jerry): vets.gov.user+271@gmail.com
 ```
 
 ### 3. Lighthouse Scan (Chrome)  
-- {Results, example: 100%}
+- {Results: 100%}
 ### 4. NVDA Scan (Firefox)  
-- {Results, example: Links and buttons showed up in the elements list.  Reading sounded fine.} 
+- Results: Links and buttons showed up in the elements list.  Reading sounded fine.} 
 ### 5. VoiceOver (Safari)  
-- {Results, example: Worked great}
+- Results: Worked great
 ### 6. Keyboard Navigation  
-- {Results, example: Worked great" 
+- Results: Worked great 
 ### 7. Color contrast & blindness  
-- {Results, example: Links were easily viewable.} 
-- {Results, example: No contrast errors were detected in the page.}
-### 8. Zoom to 400% at 1280px  
-- {Results, example: Zoom in to 400% was uneventful.  Looked like a huge mobile screen.}
+- Results, example: Links were easily viewable.  
+- Results, example: No contrast errors were detected in the page.  
+### 8. Zoom to 400% at 1280px   
+- Results, example: Zoom in to 400% was uneventful.  Looked like a huge mobile screen.  
 ----
