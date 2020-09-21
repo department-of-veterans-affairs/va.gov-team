@@ -6,23 +6,18 @@
 |User has not verified their identity|User is shown a prompt to verify their identity|TBD|
 
  ### Test cases for "LOA3"
-|Test case|Intended outcome|CTA/URL|Staging User| Error State|Error state Staging User|
+|Test case|Intended outcome|Staging User|
 |----|----|----|
-|User has verified their identity|User sees all relevant links, balances, widgets, etc |###|###|###|###|
+|User has verified their identity|User sees all relevant links, balances, widgets, etc |TBD|
+
+### Test cases for "Education"
+|Test case|Intended outcome|Staging User|
+|----|----|----|
+|User has education benefits|TBD|TBD|
+|User does NOT have education benefits|TBD|TBD|
+|User has is elligble for education benefits but has not applied|TBD|TBD|
 
 
-
-
-
-
- 
-### Test cases for "Blank State"
-
-|Test case|Intended outcome|CTA/URL|Staging User| Error State|Error state Staging User|
-|----|----|----|----|----|----|
-|###|###|###|
-|###|###|###|
-|###|###|###|
  
 ### Test cases for "Healthcare"
 
