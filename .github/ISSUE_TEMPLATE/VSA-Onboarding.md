@@ -1,7 +1,7 @@
 ---
 name: VSA Onboarding Issue
 about: Used for onboarding of new VSA support team members
-title: ''
+title: VSA Onboarding - [name]
 labels: onboarding
 assignees: ''
 
