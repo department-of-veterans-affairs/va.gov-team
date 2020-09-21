@@ -26,6 +26,7 @@ Any outstanding tickets from last sprint, plus the following:
 **Design**
 
 - LIH Design Intent checkpoint #13255 (I moved this from sprint 30)
+- Plan for how to work with the platform team #10516
 - Start: Design health care section of the homepage
 
 ### Direct deposit for Edu
