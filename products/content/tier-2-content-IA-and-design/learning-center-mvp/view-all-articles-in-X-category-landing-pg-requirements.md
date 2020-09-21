@@ -20,3 +20,5 @@ Each category grouping will display up to 'n' number of article titles, and a li
 - The listing display should be the same as search results design: content template label, H1, article blurb. 
 - Assumption: The article blurb will pull from the intro text and we will be able to set a default up to 200 characters (with spaces) display limit. If the intro text has more than 200 characters, we will truncate it at the limit. 
 
+Sample screenshot with FPO (for placeholder only) text:
+https://slack-files.com/T03FECE8V-F01B3LTDLTU-dea3800de3
