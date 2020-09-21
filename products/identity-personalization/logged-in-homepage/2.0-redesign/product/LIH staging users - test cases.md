@@ -13,19 +13,16 @@
 ### Test cases for "Education"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
+|User is elligble for education benefits but has not applied|TBD|TBD|
 |User has education benefits|TBD|TBD|
-|User does NOT have education benefits|TBD|TBD|
-|User has is elligble for education benefits but has not applied|TBD|TBD|
+|User does NOT have education benefits and is NOT elligible|TBD|TBD|
 
-
- 
 ### Test cases for "Healthcare"
-
-|Test case|Intended outcome|CTA/URL|Staging User| Error State|Error state Staging User|
-|----|----|----|----|----|----|
-|###|###|###|
-|###|###|###|
-|###|###|###|
+|Test case|Intended outcome|Staging User|
+|----|----|----|
+|User is elligble for education benefits but has not applied|TBD|TBD|
+|User has education benefits|TBD|TBD|
+|User does NOT have education benefits and is NOT elligible|TBD|TBD|
 
 
 
