@@ -57,7 +57,7 @@ eBenefits, in its current legacy state, is no longer the best version of what ca
 
 ## Assumptions
 
-- `[TODO: CONFIRM]` Product will submit form to Central Mail, no other BE integration
+- Product will submit form to VR&E CMS System via custom API
 - LOA3 users may be able to apply with one click
 
 ## Requirements and Constraints
