@@ -410,7 +410,7 @@ in the Rails console this command will set up the fhir client to connect with th
 ```
 HealthQuest::PGDService.init_pgd
 ```
-After running the above command, this command with then read the questionnaire from the sandbox:
+After running the above command, this command will then read the questionnaire from the sandbox:
 ```
 HealthQuest::PGDService.get_quest
 ```
