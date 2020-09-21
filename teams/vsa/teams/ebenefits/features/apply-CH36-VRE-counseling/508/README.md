@@ -12,6 +12,14 @@
 User (Jerry): vets.gov.user+271@gmail.com
 
 **Staging url:** https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/introduction
+
+##Subsiquent urls
+- /claimant-information
+- /claimant-address
+- /status-selection
+- /veteran-information (you will only see this URL if you choose that you are a child or spouse on /status-selection
+
+
 ### 1. Scan with axe browser plugin  
 - Heading levels should only increase by one   
 ```HTML
