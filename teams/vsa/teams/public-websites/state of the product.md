@@ -5,9 +5,9 @@ We are a team with responsibilities across VA.gov, including public-facing conte
 ## Our Current Focus:
 Goals: Increase the use of self-service tools and decrease the time users spend waiting for an outcome. 
 
-With that, we have two initiatives close to launch that aim to help inform and enable visitors to the site: The MVP version of Find a VA Form Search experience, and Yellow Ribbon Participating Schools MVP. 
+With that, we have two initiatives close to launch that aim to help inform and enable visitors to the site: The MVP version of Find a VA Form Search experience, and Learning Center MVP (1.0 and 1.1). 
 
-From a content perspective, we have focused on providing a single source of truth for Veterans. To make this actionable, we are engaged in a tiered approach to rewriting, redirecting, and (in some cases) retiring content. We are completing outstanding work for the Pensions content rewrite, and are jumpstarting work to rewrite Life Insurance content. 
+From a content perspective, we have focused on providing a single source of truth for Veterans. To make this actionable, we are engaged in a tiered approach to rewriting, redirecting, and (in some cases) retiring content. We are completing outstanding work for VA Form Search, and are jumpstarting work for Learning Center initiatives in support of content and search capabilities. 
 
 
 ## Next 6-8 Weeks:
