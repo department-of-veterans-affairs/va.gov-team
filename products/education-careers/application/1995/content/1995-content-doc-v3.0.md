@@ -1,6 +1,6 @@
 # VA Form 22-1995: Update your education benefits
 
-Breadcrumb: [Home]() > [Education]() [How to apply]() Request for change of program or place of training  
+Breadcrumb: [Home]() > [Education]() [How to apply]() > **Request for change of program or place of training**    
 
 Mobile breadcrumb: < [How to apply]()
 
