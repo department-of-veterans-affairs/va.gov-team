@@ -12,11 +12,11 @@ From a content perspective, we have focused on providing a single source of trut
 
 ## Next 6-8 Weeks:
 
-- Beginning now- we will update the benefit hubs content to enforce a maximum of three levels of content. Our goal is to flatten the IA and reduce the number of clicks a user may need to find their desired content. We will also adopt a new navigation strategy for our benefit hubs, to match the left nav updates seen on VAMC Pittsburgh. 
+- Beginning now- we will update and finalize VA Find Form - Form Details Landing pages and functionality. The goal remains to easily surface form information so that users (Veterans, Caregivers, etc.) can more easily apply for benefits via available online tools or download correct forms related to VA beneifts and compensation. The primary Drupal engineering effort is completed and updated. bug fixes and other related content redirect carries forward our goal to improve the Find a VA Form experience.. 
 
 - Beginning now- we develop a process that will allow stakeholders to manage their changing Rates and us to upload the new Rates as easily as possible. We have created a CSV file for Disability Rates which will be used to guide us in creating additional CSV files for the other Rates pages. We will also develop a CSV Import tool that will allow the consumption of these CSV files into Drupal. Our goal is to be able to train and deliver these CSV files to our stakeholders, who will be able to fill them out with updated rates data and return to us for an upload to the site.
 
-- We are in technical discovery for Find a VA Form - Form Details Landing pages. The goal is to easily surface form information so that users (Veterans, Caregivers, etc.) can more easily apply for benefits via available online tools or download the correct forms. This will be a great Drupal engineering effort that carries forward our goal to improve the Find a VA Form experience. 
+- We are in technical discovery for Learning Center Landing page MVP 1.0 and 1.1. The goal is to easily surface learning center information for users (Veterans, Caregivers, etc.) to optimally apply for benefits via available online tools.  
 
 - DEPO percolating- interim step towards a large initiative for templatizing the benefit hubs, and an onsite search “2.0”. We are also in discussion to move forward a campaign landing page initiative, and a consolidated tool landing page! 
 
@@ -26,4 +26,4 @@ The need to support unplanned critical initiatives can delay our planned project
 
 ## Impact of near-term work on other VSA product teams:
 
-Will continue our support for other teams’ initiatives. No breaking changes anticipated with our current initiatives.
+Will continue our support for other teams’ initiatives. "No" breaking changes anticipated with our current initiatives.
