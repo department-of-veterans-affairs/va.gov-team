@@ -13,19 +13,48 @@
 
 ## Sprint 31 (9/23 - 10/6)
 
+Any outstanding tickets from last sprint, plus the following:
+
 ### Profile 2.0
 
-- Post launch/Up next: 100% and monitoring, 508 review, post launch review with platform team, any post-launch enhancements
+- Launch to 50%
+- Assuming launch to 50% goes well, launch to 100%
+- FE backlog updates we can bring in
 
 ### Logged-in homepage
 
 **Design**
 
-Phase 2: Design Healthcare, Claims sections
+- LIH Design Intent checkpoint #13255 (I moved this from sprint 30)
+- Start: Design health care section of the homepage
 
-- Design health care section
+### Direct deposit for Edu
+
+**Design**
+
+- Initial planning
+- Review the feature on eBenefits
+- Talk to eBenefits: What functionality is not clear/shown? What questions do we have?
+- Understand exactly what gets updated with DD edu and what does not
+- Mockups
+
+**Backend**
+
+- Create BGS CH33 DDEFT Service integration #13286
+
+### Preferred Facility technical discovery
+
+- What still needs to happen for [#12875](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12875)?
+
+### Pact work
+
+- Did this happen?: VSA Auth Experience - Pact setup for [product name] #13336
 
 ## Sprint 32 (10/7 – 10/20)
+
+### Profile 2.0
+
+- 508 review, post launch review with platform team, any post-launch enhancements
 
 ### Logged-in homepage
 
