@@ -32,6 +32,6 @@ If those contacts are unavailable, please tag the frontend and/or backend suppor
 
 [Backend configuration of search](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/provider_states_for/search.rb#L3)
 
-[Frontend configuration of search — IN PROGRESS](https://github.com/department-of-veterans-affairs/vets-website/blob/52382e54547ffdb0d1539cde28ed42aed7776b53/src/applications/search/tests/search.pact.spec.js)
+[Frontend configuration of search](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/search/tests/search.pact.spec.js)
 
 ---
