@@ -1,3 +1,12 @@
+---
+name: VSA Onboarding Issue
+about: Used for onboarding of new VSA support team members
+title: ''
+labels: onboarding
+assignees: ''
+
+---
+
 ## Welcome to the VSA Program
 
 Welcome! This issue will be used to track your onboarding to the VSA Program.
