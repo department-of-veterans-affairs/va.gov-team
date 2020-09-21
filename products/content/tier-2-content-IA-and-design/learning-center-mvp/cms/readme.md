@@ -13,6 +13,7 @@
 1. CTA button classes
 1. Custom link teasers - automation brainstorm
 1. Transformers for LC content model
+1. LC Search vs. LC Article Lists
 1. anything else
 
 ### Action items
