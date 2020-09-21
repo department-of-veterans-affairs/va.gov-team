@@ -326,6 +326,7 @@ Specs - not including the basic requirements on all LC pages:
 - Alert (can be enabled below intro text or within body content; not stackable)
 - Section text blurb - plain text, max 300 characters including spaces  <-- added 8/31
 - Checkbox text field, max 300 characters including spaces
+- See [ticket #13497](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13497#issuecomment-694432095) for FE user experience requirements: user needs to be able to actual check/select the checkboxes online, as well as print the page with checkboxes rendered properly as checkboxes (checked or unchecked as the user has made them). 
 
 
 ## VA benefits section 
