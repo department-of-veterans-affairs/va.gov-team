@@ -5,32 +5,33 @@
 *After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
 
 ## Problem Statement
-### Problem #1: Ineligible STEM applicants are spending time to submit applicantions for the scholarship because the burden to do so is so low and the potential reward is so high.
+### Problem #1: 
 **Who** STEM applicants
-**What** Ineligible STEM applicants are spending time submitting applications and waiting for a decision 
-**Why** The burden to complete the application is low and the potential reward is high
+**What** Ineligible STEM applicants are waiting 30 days for a decision
+**Why** 
 **Where** 
 
-### Problem #2: The STEM application processing team has historically received a large number of ineligible STEM applications which takes time away from the team's ability to review and process eligible applicants
+### Problem Statement: The STEM application processing team continues to receive a large number of ineligible STEM applications which takes time away from the team's ability to review and process eligible applicants. In addition, applicants are waiting 30 days to hear back on their application being either approved or denied. 
 **Who** STEM application processing team
 **What** The application processing team has historically received a large number of ineligible STEM applications
 **Why** This has been problematic because it delays the team's ability to review and process eligible applicants 
 **Where**
 
-### How might we allow ineligible applicants to apply while protecting the time of the application processing team?
+### How might we allow create a system that gives ineligible applicants a decision immediately and prevents the processing team from having to review most ineligible applications?
 
 ## Desired User Outcomes
 - All interested users are able to apply for the scholarship
-- Ineligible applicants get an immediate decision
+- Ineligible applicants get an immediate decision (no longer have to wait 30 days)
 
 ## Undesired User Outcomes
 - Users are frustrated by an automated decision (feeling the human review experience allows for exceptions to the rules where appropriate)
 
 ## Desired Business Outcomes
-- Application processing team no longer has to review ineligible STEM applications
+- Application processing team no longer has to review as many ineligible STEM applications
 
 ## Undesired Business Outcomes
-- Applicants change their answers on the applicant to appear eligible and the processing team still ends up reviewing them
+- The number of appeals due to STEM denials increases significantly is problematic for the appeals team.
+
 
 ---
 ## Measuring Success
@@ -40,7 +41,10 @@
 _What are the most important metrics that track with this product/initiative's success?_
 _Include links to Domo or Google Analytics Dashboards/Reports_
 
-- **Significant Decrease in the number of STEM applications rejected by the processing team**
+- **Significant decrease in the number of STEM applications reviewed by the processing team**
+- Tracking the number of automated decisions made compared to the number of people who leave the form due to ineligibility. 
+- No automated decisions will be made while the EVSS service is offline in the evening (EVSS service is only available 12 hours a day)
+   - We could address this by creating a queue of offline applications that are decided when the service comes back online the next day
 
 
 #### Baseline KPI Values
@@ -58,6 +62,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Assumptions
 - *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- There will be clear guidance from the VA regarding eligibility v. ineligibility as it relates to the automated decisions. 
+- Anyone who applies during the the EVSS service downtime will not get an immediate automated decision.
 
 ## Solution Approach
 
