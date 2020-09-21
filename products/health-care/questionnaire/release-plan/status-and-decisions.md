@@ -33,7 +33,7 @@
 - Continue to validate the PGD data and start on data for appt. details in MAP.
 	
 **Decisions:**
--See Engineering section - Will use VeText team to leverage their services/admin tool for identifying triggers in CPRS and sending of notifications to Veterans they have a questionnaire to complete. 
+- See Engineering section, Will use VeText team to leverage their services/admin tool for identifying triggers in CPRS and sending of notifications to Veterans they have a questionnaire to complete. 
 
 **Blockers:**
 - No changes in status from previous week for blocker [Stakeholder Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
