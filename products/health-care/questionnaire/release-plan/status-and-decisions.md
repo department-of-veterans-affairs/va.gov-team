@@ -12,6 +12,33 @@
 ## Sept 25th, 2020
 
 ## Sept 18th, 2020
+**Product**
+ - [TOT Sept 15th](https://drive.google.com/file/d/1158IPHNLQMWLLebffecAQIB4JokAPKMV/view?usp=sharing)
+ - Sept 17th. MVP Review with Deana, primary care nurse at LomaLinda
+ - High level -[Epics prioritized for remaining Q3 and Q4 for MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/quarterly-sprint-planning.md)
+ - [Questionnaire Manager Feature Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/questionnaire-manager.md) posted for review 
+
+**Research and Design**
+- Completed [Visit Intro, Review, and Confirm UI](https://app.zeplin.io/project/5f3d86a458ea2231e60a4780/dashboard)
+- Complete Reason for Visit wording for fields
+- Completed [Proof of concept WireFlows](https://zpl.io/VOOek8j)
+
+**Engineering**
+
+- Got Temp Keys for MVP authentication and start to posting data to PGD for testing. 
+- [Pushed to Staging - This Visit Form entry](https://staging.va.gov/healthcare/questionnaire/introduction) -  Completed the first three fields, not pre-filling, created the basic multi-question implementation.
+- Met with Shane with VeText for strategy they used to identify triggers in CPRS to send veterans a notification - will continue to align with this team to build out our trigger strategy.  
+
+**Next Step/Followup**
+- Continue to validate the PGD data and start on data for appt. details in MAP.
+	
+**Decisions:**
+-See Engineering section - Will use VeText team to leverage their services/admin tool for identifying triggers in CPRS and sending of notifications to Veterans they have a questionnaire to complete. 
+
+**Blockers:**
+- No changes in status from previous week for blocker [Stakeholder Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
+- Both BE investigation for [VAMP/PGD #12406](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12406) and [Service for Retrieving Appt. Details #12404](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12404) have been un-blocked by gaining temp keys access for both environments but are still working on getting test data in the staging environments. - Stephen making good progress and should not be a blocker by the end of the coming week. 
+
 
 ## Sept 11th, 2020
 
@@ -20,9 +47,9 @@
 **Product**
 - [Sprint 30 Planning for priority features.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/quarterly-sprint-planning.md#sprint-30---questionnaire-form-entry-is-real) 
 - [Sprint 29 Demo](https://docs.google.com/presentation/d/1PVTVSQtZI33gTVnMPKTWkzcIc113aNZZ8J-Uf1kfgtE/edit#slide=id.g865f6d892d_0_0) 
-- [Sprint 28 Report](https://docs.google.com/document/d/1iHk10GnpLhg1CIAdgTnXygCZCTZp4Jdp1AcsTVQUadU/edit?usp=sharing)
- - [Sprint 28 Retro](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/sprint-29.md)
- - [TOT Aug 18th](https://drive.google.com/file/d/1-tr-i_gS1N_HHGsyRmZGez2TpmxwmstN/view?usp=sharing)
+- [Sprint 29 Report](https://docs.google.com/document/d/1iHk10GnpLhg1CIAdgTnXygCZCTZp4Jdp1AcsTVQUadU/edit?usp=sharing)
+ - [Sprint 29 Retro](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/sprint-29.md)
+ - [TOT Sept 8th](https://drive.google.com/file/d/1-tr-i_gS1N_HHGsyRmZGez2TpmxwmstN/view?usp=sharing)
  - Scheduled review meeting with SMEs at LomaLinda
  - 
 
@@ -68,10 +95,9 @@
 - Continue to get answers and land architecture strategy for system and services for retrieving and posting healthcare patient data.
 	
 **Decisions:**
-
+- Lighthouse team FHIR gap with authentication Open Connect ID is not compatible with vets api [VA.gov and Lighthouse oAuth Strategies - #11669](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11669) 
 **Blockers:**
 - No changes in status from previous week for blocker [Stakeholder Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
-- Need update from Lighthouse team FHIR gap with authentication Open Connect ID is not compatible with vets api [VA.gov and Lighthouse oAuth Strategies - #11669](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11669) 
 - Both BE investigation for [VAMP/PGD #12406](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12406) and [Service for Retrieving Appt. Details #12404](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12404) are blocked by request submitted by Stephen to gain keys access for both environments. 
 
 
