@@ -25,7 +25,7 @@
 | [IRIS Q&As: Batch 2, Service member benefits](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13598)| Not Started - Sprint 32 | 
 | [Build FE templates for 1.0 [FE]About, LC Homepage + 'view all X articles' landing]() | Not started - Sprint 32 |
 | [Design Mobile (and potentially desktop) templates for checklist, video, images]() | Not started - Sprint 32 |
-| [Iterate FE templates for 1.1; Checklist, Videos, Images (TBD on mobile) () | Not started - Sprint 33 |
+| [Iterate FE templates for 1.1; Checklist, Videos, Images (TBD on mobile)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11490) | Not started - Sprint 33 |
 
 
 ## Must-have - Done (MVP 1.0)
