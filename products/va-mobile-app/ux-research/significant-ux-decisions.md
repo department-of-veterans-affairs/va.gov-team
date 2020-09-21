@@ -31,7 +31,10 @@ Because our scope is an MVP, we want to spend energy on features and login, not 
 
 Our rationale for moving forward with **Option 3** is the following: 
 1. From a front-end perspective, this decision allows us to launch an MVP as quickly as possible and focus on including more features rather than customizing the app UI. 
-2. From a design perspective, this allows us to quickly design the UX/UI for features without creating a mobile-specific version of the VA design library in a rushed, unofficial way. Eventually, we anticipate redesigning the app to look even more like VA. However when we do that we would like to ensure there is enough time to do so well, that the mobile app team and owners of the VA design system each have the capacity to work together to create the library as a team, and that we are creating a system that can scale and has buy-in from all design stakeholders. The mobile app team does not have the capacity to dedicate time to creating this type of mobile-specific style guide as part of our MVP timeline. 
+2. From a design perspective, this allows us to quickly design the UX/UI for features without creating a mobile-specific version of the VA design library in a rushed, unofficial way. Eventually, we anticipate redesigning the app to look even more like VA. However when we do that we would like to ensure we can meet the following criteria at that time: 
+    - We have enough time to do so well. The mobile app team does not have the capacity to dedicate time to creating this type of mobile-specific style guide as part of our MVP timeline. 
+    - The mobile app team and owners of the VA design system each have the capacity to work together to ensure all design stakeholders who would like to be involved with the creation of this library have a hand in doing so. 
+    - We create a system that can scale well over time as the app evolves. 
 
 
 ### We will integrate a few choice elements from the VA design library to help the app feel like VA. 
