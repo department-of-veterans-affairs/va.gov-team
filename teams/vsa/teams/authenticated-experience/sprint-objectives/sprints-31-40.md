@@ -29,6 +29,10 @@ Any outstanding tickets from last sprint, plus the following:
 - Plan for how to work with the platform team #10516
 - Start: Design health care section of the homepage
 
+**FE**
+
+- Technical comparative analysis: How do other websites handle having a logged out and logged in homepage?
+
 ### Direct deposit for Edu
 
 **Design**
