@@ -37,9 +37,9 @@ https://staging.va.gov/careers-employment/education-and-career-counseling/apply-
 ### 2. Scan with axe-coconut   
 - 🙈 Results: "Heading levels should only increase by one, this can be H2 and made to look like H4.  Even thought its in the right order, it needs to be sequential."   
 ### 3. Lighthouse Scan (Chrome)  
-- {Results: 100%}
+- Results: 100%
 ### 4. NVDA Scan (Firefox)  
-- Results: Links and buttons showed up in the elements list.  Reading sounded fine.} 
+- Results: Links and buttons showed up in the elements list.  Reading sounded fine.
 ### 5. VoiceOver (Safari)  
 - Results: Worked great
 ### 6. Keyboard Navigation  
