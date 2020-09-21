@@ -2,7 +2,7 @@
 ***IRIS Design Reference Cheatsheet (links of interest)***
 
 
-**Sites in scope**
+**Sites potentially in scope**
 
 - https://iris.custhelp.va.gov/app/ask
 - https://gibill.custhelp.va.gov/
