@@ -33,11 +33,12 @@ Any outstanding tickets from last sprint, plus the following:
 
 **Design**
 
-- Initial planning
+Jason from eBenefits will create these tickets, but it's OK to include them in our sprint epic.
+
 - Review the feature on eBenefits
 - Talk to eBenefits: What functionality is not clear/shown? What questions do we have?
-- Understand exactly what gets updated with DD edu and what does not
-- Mockups
+- Understand what education benefits gets updated with DD edu and what does not, and document this
+- Mockups?
 
 **Backend**
 
