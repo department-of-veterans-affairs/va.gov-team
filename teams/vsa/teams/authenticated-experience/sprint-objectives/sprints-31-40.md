@@ -42,15 +42,13 @@ Jason from eBenefits will create these tickets, but it's OK to include them in o
 
 **Backend**
 
-- Create BGS CH33 DDEFT Service integration #13286
+- Begin: Create BGS CH33 DDEFT Service integration #13286
 
-### Preferred Facility technical discovery
-
-- What still needs to happen for [#12875](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12875)?
+Note: Lihan will also be working on [#12089](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12089) for the Caregiver team, so he will likely not finish the direct deposit work this sprint.
 
 ### Pact work
 
-- Did this happen?: VSA Auth Experience - Pact setup for [product name] #13336
+- VSA Auth Experience - Pact setup for [product name] #13336
 
 ## Sprint 32 (10/7 – 10/20)
 
@@ -66,6 +64,10 @@ Phase 2: Design Healthcare, Claims sections
 
 - Get feedback on health care section; make updates
 - Design disability/claims section
+
+### Preferred Facility technical discovery
+
+- What still needs to happen for [#12875](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12875)?
 
 ## Sprint 33 (10/21 – 11/3)
 
