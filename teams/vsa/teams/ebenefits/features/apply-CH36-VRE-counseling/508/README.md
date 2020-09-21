@@ -21,7 +21,7 @@ User (Jerry): vets.gov.user+271@gmail.com
  
 
 ### 1. Scan with axe browser plugin  
-- Heading levels should only increase by one   
+- 🙈 Results: "Heading levels should only increase by one"  
 ```HTML
 <h4 class="va-footer-linkgroup-title">Veteran programs and services</h4>
 ```
@@ -34,7 +34,7 @@ User (Jerry): vets.gov.user+271@gmail.com
 </details>
 
 ### 2. Scan with axe-coconut   
-- Results: "Heading levels should only increase by one, this can be H2 and made to look like H4.  Even thought its in the right order, it needs to be sequential."   
+- 🙈 Results: "Heading levels should only increase by one, this can be H2 and made to look like H4.  Even thought its in the right order, it needs to be sequential."   
 ### 3. Lighthouse Scan (Chrome)  
 - {Results: 100%}
 ### 4. NVDA Scan (Firefox)  
