@@ -1,9 +1,11 @@
 ## Who We Are:
 
-We are a team with responsibilities across VA.gov, including public-facing content, benefit hubs, global menu, onsite search, and Find a VA Form experience.
+Public Websites team is a team with responsibilities across VA.gov, including public-facing content, benefit hubs, global menu, onsite search, and Find a VA Form experience.
 
 ## Our Current Focus:
-Goals: Increase the use of self-service tools and decrease the time users spend waiting for an outcome. 
+Primary Goal 1: Increase the use of self-service tools and decrease the time users spend waiting for an outcome. 
+Primary Goal 2: Decrease time users spend waiting for an outcome.
+Priamry Goal 3: Consistent customer satisfaction, reliability and secure online user experience.
 
 With that, we have two initiatives close to launch that aim to help inform and enable visitors to the site: The MVP version of Find a VA Form Search experience, and Learning Center MVP (1.0 and 1.1). 
 
@@ -16,9 +18,8 @@ From a content perspective, we have focused on providing a single source of trut
 
 - Beginning now- we develop a process that will allow stakeholders to manage their changing Rates and us to upload the new Rates as easily as possible. We have created a CSV file for Disability Rates which will be used to guide us in creating additional CSV files for the other Rates pages. We will also develop a CSV Import tool that will allow the consumption of these CSV files into Drupal. Our goal is to be able to train and deliver these CSV files to our stakeholders, who will be able to fill them out with updated rates data and return to us for an upload to the site.
 
-- We are in technical discovery for Learning Center Landing page MVP 1.0 and 1.1. The goal is to easily surface learning center information for users (Veterans, Caregivers, etc.) to optimally apply for benefits via available online tools.  
+- We are in technical discovery and initial build requirments for Learning Center Landing page MVP 1.0 and 1.1. The goal is to easily surface learning center information for users (Veterans, Caregivers, etc.) to optimally apply for benefits via available online tools. This supports our goal to develop and deliver the content, navigation, and tools that provide our customers the easiest way to find and act upon any VA service. 
 
-- DEPO percolating- interim step towards a large initiative for templatizing the benefit hubs, and an onsite search “2.0”. We are also in discussion to move forward a campaign landing page initiative, and a consolidated tool landing page! 
 
 ### Concerns:
 
