@@ -1,3 +1,6 @@
-# Findings/Summary Notes for Inital Discovery & Research
-`VSA eBEnefits Team | September 2020`
-- Include questions for stakeholders
+# EDU Direct Deposit: Discovery
+**VSA eBEnefits Team | September 2020**
+`James Adams, Designer/Researcher`   
+(Slack: @Jim Adams GH: Sporeboy)  
+------------  
+- Include questions for stakeholders  
