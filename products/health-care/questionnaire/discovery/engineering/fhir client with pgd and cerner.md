@@ -17,6 +17,8 @@ This code is experimental and used for research and proof of concept using the r
 # HealthQuest::PgdService.init_pgd
 # 
 
+require 'net/http'
+
 LifelinesQuestion = 
 
 # https://www.hl7.org/fhir/questionnaire-example-f201-lifelines.json.html
@@ -94,11 +96,109 @@ LifelinesQuestion =
   ]
 }
 
+QResponse = {
+  "resourceType": "QuestionnaireResponse",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n      <pre>\n            Comorbidity? YES\n              Cardial Comorbidity? YES\n                Angina? YES\n                MI? NO\n              Vascular Comorbidity?\n                (no answers)\n              ...\n            Histopathology\n              Abdominal\n                pT category: 1a\n              ...\n          </pre>\n    </div>"
+  },
+  "identifier": {
+    "system": "http://example.org/fhir/NamingSystem/questionnaire-ids",
+    "value": "Q12349876"
+  },
+  "status": "completed",
+  "encounter": {
+    "reference": "Encounter/example"
+  },
+  "item": [
+    {
+      "item": [
+        {
+          "answer": [
+            {
+              "valueCoding": {
+                "system": "http://cancer.questionnaire.org/system/code/yesno",
+                "code": "1",
+                "display": "Yes"
+              },
+              "item": [
+                {
+                  "item": [
+                    {
+                      "answer": [
+                        {
+                          "valueCoding": {
+                            "system": "http://cancer.questionnaire.org/system/code/yesno",
+                            "code": "1"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "answer": [
+                        {
+                          "valueCoding": {
+                            "system": "http://cancer.questionnaire.org/system/code/yesno",
+                            "code": "1"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "answer": [
+                        {
+                          "valueCoding": {
+                            "system": "http://cancer.questionnaire.org/system/code/yesno",
+                            "code": "0"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
 module HealthQuest
   class PGDService < HealthQuest::SessionService
+    class << self
+      attr_accessor :usr
+    end
+    attr_accessor :rec
 
     def get_header()
       headers
+    end
+
+    def without_client2
+      url = "https://vagovtest.mapsandbox.net/smart-pgd-fhir/v1/Questionnaire"
+      req = Net::HTTP::Get.new(uri)
+      req['some_header'] = "some_val"
+
+      res = Net::HTTP.start(uri.hostname, uri.port) {|http|
+        http.request(req)
+      }
+    end
+
+    def without_client
+      params = {':_id' => "200f373a-65b0-48e0-9b84-98e1ad495e6d"}
+      # params = {}
+      url = "https://vagovtest.mapsandbox.net/smart-pgd-fhir/v1/Questionnaire"
+      url2 = "/vagovtest.mapsandbox.net/smart-pgd-fhir/v1/Questionnaire/_id?200f373a-65b0-48e0-9b84-98e1ad495e6d"
+      response = perform(:get, url, params, headers, timeout: 55)
+      puts response.body.inspect[0..300]
+    end
+
+    def self.without_client
+      @usr = FactoryBot.create :user, :health_quest
+      @svc = self.new(@usr)
+      @svc.without_client
     end
 
     def self.create_patient
@@ -116,14 +216,41 @@ module HealthQuest
       FHIR::Questionnaire.new(LifelinesQuestion)
     end
 
+    def self.create_quest_resp
+      FHIR::Model.client = @client
+      @rec = FHIR::QuestionnaireResponse.create(QResponse)
+    end
+
+    def self.get_quest
+      id = "200f373a-65b0-48e0-9b84-98e1ad495e6d"
+      FHIR::Model.client = @client
+      puts '=============================='
+      puts '=============================='
+      begin
+      FHIR::Questionnaire.read(id)
+      rescue Exception => e 
+        puts e.backtrace[0..40].join("\n")
+        puts "ERR:#{e.message}"
+      end
+    end
+
     def self.init_pgd
-      @usr = FactoryBot.create :user
+      @usr = FactoryBot.create :user, :health_quest
       @svc = self.new(@usr)
       @hdr = @svc.get_header
-      @url = 'https://vagovtest.mapsandbox.net'
+      @url = 'https://vagovtest.mapsandbox.net/smart-pgd-fhir/v1'
+      # @url = 'https://vagovtest.mapsandbox.net'
       @client = FHIR::Client.new(@url)
+      @hdr['Accept'] = "application/json+fhir"
       @client.additional_headers = @hdr
+      @client.use_r4
+      #puts 'GET VERS'
+      #puts "\n\n ====================== \n\n"
+      # vers = @client.detect_version
+      # puts "VER:" + vers.inspect
       FHIR::Model.client = @client
+      puts '======HDR========='
+      puts @hdr.inspect
     end  
 
   end
@@ -279,9 +406,13 @@ copy the PGDService module code from above to:
 modules/health_quest/app/services/health_quest/pgd_service.rb
 ```
 
-in the Rails console this command will set up the fhir client to connect with the PGD sandbox with the proper headers, although there is no data currently in the sandbox:
+in the Rails console this command will set up the fhir client to connect with the PGD sandbox with the proper headers:
 ```
 HealthQuest::PGDService.init_pgd
+```
+After running the above command, this command with then read the questionnaire from the sandbox:
+```
+HealthQuest::PGDService.get_quest
 ```
 
 ---
