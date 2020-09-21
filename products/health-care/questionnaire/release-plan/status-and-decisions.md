@@ -27,7 +27,7 @@
 
 - Got Temp Keys for MVP authentication and start to posting data to PGD for testing. 
 - [Pushed to Staging - This Visit Form entry](https://staging.va.gov/healthcare/questionnaire/introduction) -  Completed the first three fields, not pre-filling, created the basic multi-question implementation.
-- Met with Shane with VeText for strategy they used to identify triggers in CPRS to send veterans a notification - will continue to align with this team to build out our trigger strategy.  
+- Met with [Shane with VeText for strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/vetext-meeting-sept18.md) they used to identify triggers in CPRS to send veterans a notification - will continue to align with this team to build out our trigger strategy.  
 
 **Next Step/Followup**
 - Continue to validate the PGD data and start on data for appt. details in MAP.
