@@ -12,7 +12,7 @@
 ### VeText Admin Tool 
  - A reminder can be sent 3 times through VeText. This is configured in the VeText admin page that is used by clinical admins.
  - The admin page has message templates, template variables, and a stop code. 
- - A template variable associated with the clipboard Questionnaire could be added.  *Are template varriables what we create to have a specific row in the admin tool for associating to an appt type to send a link to complete the questionnaire ?*
+ - A template variable associated with the clipboard Questionnaire could be added. The template varriable should we a way to associate a specific row in the admin tool for with an appt type to send a link to complete the questionnaire 
  - Discussion on Strategy - Appointments too far into the future may not need Veteran attention for and that appointments that are less than 24 hours in the future could have limitations with VeText capabilities. ie. that they are not real time and have a 24 hour delay before sending the notification.
 - VDIFF (Enterprise data exchange transfer system) is an app that is doing some work for VAOS. 
 - VDIFF is part of the data transfer between Vista and Cerner primarily but they are looking for new use cases and it was suggested that perhaps they could be a part of the solution.
