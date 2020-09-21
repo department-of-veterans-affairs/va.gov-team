@@ -2,8 +2,8 @@
 
 ### Test cases for "LOA1"
 |Test case|Intended outcome|Staging User|Error State|Error State Staging User|
-|----|----|----|----|----|----|
-|User has not verified their identity|A prompt to verify identity|TBD|TBD|TBD|
+|----|----|----|----|----|
+|User has not verified their identity|A prompt to verify identity|TBD|TBD|
 
  ### Test cases for "LOA3"
 |Test case|Intended outcome|CTA/URL|Staging User| Error State|Error state Staging User|
