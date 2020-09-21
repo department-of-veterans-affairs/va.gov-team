@@ -27,4 +27,4 @@ The need to support unplanned critical initiatives can delay our planned project
 
 ## Impact of near-term work on other VSA product teams:
 
-Will continue our support for other teams’ initiatives. "No" breaking changes anticipated with our current initiatives.
+Will continue our support for other teams’ initiatives and in-take requests. "No" breaking changes anticipated with our current initiatives.
