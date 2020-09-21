@@ -11,9 +11,10 @@
 ### Credentials Used
 User (Jerry): vets.gov.user+271@gmail.com
 
-## Starting staging url: https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/introduction
+## Starting staging url:   
+https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/introduction
 
-**Subsequent urls (behavior was the same for each)** 
+**Subsequent urls (behavior was the same for each):** 
 - [/claimant-information](https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/claimant-information)
 - [/claimant-address](https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/claimant-address)
 - [/status-selection](https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/status-selection)
