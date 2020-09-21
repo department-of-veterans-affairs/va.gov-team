@@ -191,8 +191,8 @@ Form 22-1995
 ### Chapter Title: Step 4 of 6: School selection 
         
 **School, university, program, or training facility you want to attend**  
-    - Name of school, university, program, or training facility (* Required) { text field }
-    - Type of education or training (*Required) { dropdown – conditional display of address based on school-type selection }
+    - Name of school, university, program, or training facility (* Required) { text field }  
+    - Type of education or training (*Required) { dropdown – conditional display of address based on school-type selection }  
     
 **Address** { address fields display conditionally for the following type of education selections: College, university; Correspondence; Apprenticeship; Vocational flight training }  
   - Country
@@ -202,7 +202,7 @@ Form 22-1995
   - State
   - Postal code 
   
-Education or career goal (for example, “Get a bachelor’s degree in criminal justice” or “Get an HVAC technician certificate” or “Become a police officer.")  { text box } 
+Education or career goal (for example, “Get a bachelor’s degree in criminal justice” or “Get an HVAC technician certificate” or “Become a police officer.")  { text box }  
     
 Are you getting, or do you expect to get any money (including, but not limited to, federal tuition assistance) from the Armed Forces or public health services for any part of your course work or training?  
 
@@ -237,11 +237,11 @@ Form 22-1995
   - State
   - Postal code 
   
-- When did you stop taking classes or participating in the training program? (Future dates are ok)
+- When did you stop taking classes or participating in the training program? (Future dates are ok)  
   Month { drop down with 3 letter abbreviations } Day { drop down; contents display based on month selection – Feb has 29 numerals } Year {text field; only accepts numerals }  
  
 - Why did you stop taking classes or participating in the training program? (for example, "I graduated" or "I moved" or "The program wasn't right for me.")
- { text field } 
+ { text field }  
  
 [ Back | Continue ] { buttons } [Finish this application later]()
 
