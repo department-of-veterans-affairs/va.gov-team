@@ -305,56 +305,7 @@ The page MUST have a meaningful title (e.g. About us), even when included via if
    <li>An object or plugin SHOULD conform to the best practices of the accessibility API of that object or plugin, if available (e.g. the PDF format has an accessibility API). n/a</li>
    <li>If an object or plugin is not compatible with assistive technologies, an alternative representation MUST be available in an accessible format. 1.1.1</li>
 </ol>
+
+
 </details>
-
-
-### Part D: Understandability/Cognition
-
-<details><summary>Review cognition-related success criteria</summary>
-
-#### Content 
-
-<ol type="a">
-   <li>The text SHOULD be written in the simplest and clearest language possible, appropriate to the content. COG<sup>6</sup></li>
-   <li>Uncommon words and phrases – including technical terms, idioms, jargon, foreign phrases, etc. – SHOULD be defined or explained in the text. 3.1.3<sup>*</sup></li>
-   <li>Abbreviations and acronyms SHOULD be expanded or explained in the text. 3.1.4<sup>*</sup></li>
-   <li>The page SHOULD provide supplemental versions of the content (e.g. illustrations, videos, audio, simplified text version, etc.) to enhance comprehension, if the reading level is more advanced than a lower secondary education level. 3.1.5<sup>*</sup></li>
-</ol>
-
-#### User Experience
-
-<ol type="a">
-   <li>The information architecture of the site and design SHOULD be intuitive, allowing the user to easily find, navigate, read, and interact with the content. COG</li>
-   <li>The design SHOULD eliminate or minimize visual distractions. COG</li>
-   <li>The site SHOULD minimize the number of steps required for users to complete actions. COG</li>
-   <li>The site SHOULD provide ways for users to find or request help (e.g. context-sensitive help, tutorials, online chat with a customer service representative, discussion forum, a form to submit a question, contact information to call or write for assistance, etc.). 3.3.5<sup>*</sup></li>
-   <li>Functionality SHOULD be easily discoverable (e.g. a menu that can be revealed only by a finger gesture swiping across the screen from the left to the right would not be easily discoverable). COG</li>
-   <li>The design SHOULD follow common conventions for design and user interaction, unless there is a compelling (e.g. research-validated) reason to break from convention. COG</li>
-   <li>Users SHOULD NOT be required to react quickly to information or user interface features. 2.1.1</li>
-   <li>Users SHOULD NOT be interrupted by scripted events, or SHOULD be able to suppress or postpone interruptions, except in the case of emergencies. (2.2.4*)</li>
-   <li>Users SHOULD NOT be required to perform mathematical calculations, unless the fundamental purpose of the page requires them to do so. COG</li>
-   <li>Users SHOULD NOT be required to remember data from one page (or view, or step of a process) to another, unless the fundamental purpose of the content requires them to do so. COG</li>
-</ol>
-</details>
-
-
-## WCAG 2.1 Success Criteria
-
-### What is WCAG 2.1?
-
-Published on June 5, 2018, WCAG 2.1 was released and **is the current standard for accessibility compliance.** It includes all the WCAG 2.0 success criteria and adds:
-
-### Part D: Understandability/Cognition, continued
-
-### Part E: Mobile Design
-
-
-## WCAG 2.2 Draft Criteria
-
-### What is WCAG 2.2?
-
-WCAG 2.2 is scheduled to be published in early 2021.
-
-
-
 
