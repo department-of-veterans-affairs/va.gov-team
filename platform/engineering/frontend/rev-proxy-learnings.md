@@ -2,6 +2,8 @@
 
 ## What's the difference between a forward proxy and a reverse proxy?
 
+A forward proxy sits in-between a client (browser) and the internet. A reverse proxy sits in between the internet and a server. 
+
 ##### Diagrams
 
 ###### Forward proxy
