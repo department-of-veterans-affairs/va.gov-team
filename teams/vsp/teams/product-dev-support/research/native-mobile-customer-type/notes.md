@@ -13,3 +13,6 @@ So, we have two commitments in our interaction with the VA Mobile team:
 
 ## Observations
 
+- Design System react components don't work for react native
+- GTM is n/a
+- 
