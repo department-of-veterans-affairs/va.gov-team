@@ -58,19 +58,19 @@ The page MUST have a meaningful title (e.g. About us), even when included via if
 #### 2. Language	
 
 <ol type="a">
-   <li>The page MUST specify the language (`<html lang="en">`).	[3.1.1]()</li>
-   <li>Changes in the language within the page MUST be specified (e.g. `<span lang="es">Hola</span>`).	[3.1.2]()
+   <li>The page MUST specify the language (&lt;html lang="en"&gt;).	[3.1.1]()</li>
+   <li>Changes in the language within the page MUST be specified (e.g. &lt;span lang="es"&gt;Hola&lt;/span&gt;).	[3.1.2]()
 
 #### 3. Landmarks	
 
 <ol type="a">
-   <li>Pages SHOULD have accurate, logical landmark structure [2.4.6]() (e.g. `<header>, <nav>, <main>, <aside>, <footer>`), so screen reader users can navigate by landmark, and all content SHOULD be inside a landmark.</li>
+   <li>Pages SHOULD have accurate, logical landmark structure [2.4.6]() (e.g. &lt;header&gt;, &lt;nav&gt;, &lt;main&gt;, &lt;aside&gt;, &lt;footer&gt;), so screen reader users can navigate by landmark, and all content SHOULD be inside a landmark.</li>
 </ol>
 
 #### 4. Headings	
 
 <ol type="a">
-   <li>The page MUST have meaningful headings to label each major section, which SHOULD start with `<h1>` (at the beginning of the main content, or at the beginning of every section of aggregated content, or at the beginning of modal dialogs), and SHOULD NOT skip heading levels, to allow screen reader users to navigate the tree structure of the heading hierarchy.	[2.4.6]()</li>
+   <li>The page MUST have meaningful headings to label each major section, which SHOULD start with &lt;h1&gt; (at the beginning of the main content, or at the beginning of every section of aggregated content, or at the beginning of modal dialogs), and SHOULD NOT skip heading levels, to allow screen reader users to navigate the tree structure of the heading hierarchy.	[2.4.6]()</li>
 </ol>
 
 #### 5. Links and Navigation
@@ -88,24 +88,24 @@ The page MUST have a meaningful title (e.g. About us), even when included via if
 #### 6. Tables	
 
 <ol type="a">
-   <li>Header cells (`<th>`) MUST be associated with their respective data cells (via scope or headers + id).	1.3.1</li>
-   <li>Tables SHOULD have an accessible name (e.g. <caption>, aria-label, or aria-labelledby).	4.1.2</li>
-   <li>Layout tables (no header/data associations) MUST NOT contain <th> or other header markup.	1.3.1</li>
+   <li>Header cells (&lt;th&gt;) MUST be associated with their respective data cells (via scope or headers + id).	1.3.1</li>
+   <li>Tables SHOULD have an accessible name (e.g. &lt;caption&gt;, aria-label, or aria-labelledby).	4.1.2</li>
+   <li>Layout tables (no header/data associations) MUST NOT contain &lt;th&gt; or other header markup.	1.3.1</li>
 </ol>
 
 
 #### 7. Lists	
 
 <ol type="a">
-   <li>Lists MUST be marked up appropriately according to the semantics of the list (e.g. `<ul>, <ol>, <dl>`).	1.3.1</li>
+   <li>Lists MUST be marked up appropriately according to the semantics of the list (e.g. &lt;ul&gt;, &lt;ol&gt;, &lt;dl&gt;`).	1.3.1</li>
 </ol>
 
 
 #### 8. iframes	
 
 <ol type="a">
-   <li>Frame title attribute MUST be specified (`<iframe title="Video about..."`).	4.1.2</li>
-   <li>The page within the iframe MUST have an accurate, meaningful `<title>`.	2.4.2</li>
+   <li>Frame title attribute MUST be specified (&lt;iframe title="Video about..."`).	4.1.2</li>
+   <li>The page within the iframe MUST have an accurate, meaningful &lt;title&gt;.	2.4.2</li>
    <li>iframes with no readable content (e.g. only JavaScript) SHOULD be set to aria-hidden="true".	4.1.2</li>
 </ol>
 
@@ -114,7 +114,7 @@ The page MUST have a meaningful title (e.g. About us), even when included via if
 (See also Form Validation and Feedback in Part 3)	
 
 <ol type="a">
-   <li>Inputs, buttons, and controls MUST have labels which are programmatically-associated** (e.g. via `<label>`, aria-label, or aria-labelledby) and always visible on the screen** (they don’t disappear when the user starts typing).	1.3.1, 3.3.2</li>
+   <li>Inputs, buttons, and controls MUST have labels which are programmatically-associated** (e.g. via &lt;label&gt;, aria-label, or aria-labelledby) and always visible on the screen** (they don’t disappear when the user starts typing).	1.3.1, 3.3.2</li>
    <li>Required fields SHOULD be marked as such, e.g. via aria-required="true" (on the input, not on the label), or have the word “required” in the `<label>` text.	3.3.2</li>
    <li>Form field instructions SHOULD be associated with inputs or buttons using techniques such as: Putting the instructions in the `<label>`. Associating the instructions with the field using aria-describedby (Note: text associated via aria-describedby *SHOULD* be relatively brief). Putting the instructions in a `<fieldset>` with `<legend>`	3.3.2</li>
    <li>Groups of form elements MUST have group labels (e.g. `` and ``, or referenced from the inputs via aria-labelledby="id-of-group-label id-of-self-label" ).	1.3.1, 3.3.2</li>
@@ -251,7 +251,7 @@ The page MUST have a meaningful title (e.g. About us), even when included via if
     <ul>
        <li>Focus is sent to the confirmation/error message OR</li>
        <li>Focus is sent to the first field with an error (and the error is associated with the field) OR</li>
-       <li>The page <title> contains the confirmation/error message (if the user is sent to a new page or if the page reloads when the form is submitted).</li>
+       <li>The page &lt;title&gt; contains the confirmation/error message (if the user is sent to a new page or if the page reloads when the form is submitted).</li>
       </ul></li>
    <li>Error messages about an input (as opposed to the form as a whole) MUST be associated with that input (e.g. via <label> or aria-describedby). 3.3.3</li>
    <li>Error messages MUST describe the error in enough detail to allow users to fix the error. 3.3.3</li>
@@ -301,7 +301,7 @@ The page MUST have a meaningful title (e.g. About us), even when included via if
 #### Objects and Plugins
 
 <ol type="a">
-   <li>All 'object' elements MUST have alternative text. 1.1.1</li>
+   <li>All &lt;object&gt; elements MUST have alternative text. 1.1.1</li>
    <li>An object or plugin SHOULD conform to the best practices of the accessibility API of that object or plugin, if available (e.g. the PDF format has an accessibility API). n/a</li>
    <li>If an object or plugin is not compatible with assistive technologies, an alternative representation MUST be available in an accessible format. 1.1.1</li>
 </ol>
