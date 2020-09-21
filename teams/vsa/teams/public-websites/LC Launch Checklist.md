@@ -20,6 +20,8 @@
 | [Design Mobile Step-by-step](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13134) | In-progress - Sprint 30 | 
 | [Discovery- IRIS Call Center Author Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13332) | Not Started - Sprint 31 |
 | [Iterate FE Templates for 1.0 based on mobile](link?) | Not started - Sprint 31 | 
+| [Google Analytics Implementation for learning center component: How do you rate your experience on this page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13774) | Not started - Sprint 31 | 
+| [Update "Was this page helpful?" language to pre-approved text](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13771) | Not started - Sprint 31 | 
 | [IRIS Q&As: Batch 2, Service member benefits](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13598)| Not Started - Sprint 32 | 
 | [Build FE templates for 1.0 [FE]About, LC Homepage + 'view all X articles' landing]() | Not started - Sprint 32 |
 | [Design Mobile (and potentially desktop) templates for checklist, video, images]() | Not started - Sprint 32 |
