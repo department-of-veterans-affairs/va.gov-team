@@ -34,11 +34,7 @@ User (Jerry): vets.gov.user+271@gmail.com
 </details>
 
 ### 2. Scan with axe-coconut   
-- {Results here, example: "Heading levels should only increase by one, this can be H2 and made to look like H4.  Even thought its in the right order, it needs to be sequential."}  
-```HTML
-<h4>refer to HTML</h4>
-```
-
+- Results: "Heading levels should only increase by one, this can be H2 and made to look like H4.  Even thought its in the right order, it needs to be sequential."   
 ### 3. Lighthouse Scan (Chrome)  
 - {Results: 100%}
 ### 4. NVDA Scan (Firefox)  
