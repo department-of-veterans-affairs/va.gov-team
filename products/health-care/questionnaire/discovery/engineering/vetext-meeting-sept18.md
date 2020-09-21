@@ -20,9 +20,9 @@
 
 ## Strategy 
 
- 1. Questionnaire team to send an API that has a list of Questionnaires (this will populate the admin tool drop down for a user to associate an appt to the notification) 
- 2. Questionnaire team will send an endpoint for the Vettext to let us know which questionnaire the user selected in the drop down.  
- 3. Questionnaire team will send a URL to include in the notification Vet Text sends to the veteran. 
- 4. VetText will potentially expose to us an API to know when an appt. has been scheduled so we can populate our Questionnaire list on va.gov. This would also need to include the status updates so we know if an appt. has been re-scheduled or canceled. 
+ 1. Questionnaire team will expose an API endpoint that has a list of Questionnaires that VEText will use to populate a drop down in their admin tool. 
+ 2. Questionnaire team will expose an API endpoint for the VEText to notify the questionnaire service which questionnaire was selected for which user using the dropdown from point 1. 
+ 3. Questionnaire team will create a relatively unique URL, and send it back to the VEText to include in the notification VEText sends to the veteran. 
+ 4. VEText can potentially expose to us an API to know when an appointment has been scheduled so we can populate our Questionnaire list on va.gov. This would also need to include the status updates so we know if an appointment has been re-scheduled or canceled. 
 
 
