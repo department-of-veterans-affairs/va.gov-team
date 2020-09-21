@@ -1,4 +1,4 @@
-# UX decisions
+# Significant UX Decisions
 
 Last updated: September 18, 2020 
 
@@ -12,9 +12,7 @@ Document significant UX/UI decisions for the MVP and our rationale for making th
 ----
 
 
-# Significant decisions
-
-## UI decisions 
+# UI decisions
 
 ### We will use system fonts and heavily leverage platform components. 
 Because our scope is an MVP, we want to spend energy on features and login, not customizations. This led us to decide to use system fonts and heavily leverage platform components after exploring the following three design directions listed below:  
@@ -63,7 +61,7 @@ We anticipate redesigning the navigation post-MVP when the feature set expands. 
 -----
 
 
-## Process decisions
+# Process decisions
 
 ### Create wireframes for iOS for initial hand-off to front-end, create Android wireframes as needed.
 Using React Native allows us to build once and deploy across both patforms. Because we are leaning into system fonts and platform components, we will take the following approach: 
@@ -80,7 +78,7 @@ We have found Sketch to be the quickest way to work with VA, iOS, and Android de
 
 -----
 
-## Accessibility decisions
+# Accessibility decisions
 
 ### Prioritize accessibility from the very start. 
 We see a strong opportunity to consider mobile accessibility from the very start, and we see this as an important UX decision because our MVP target audience is highly likely to have a disability and benefit from strong accessibiltiy features. We want to meet users who use accessibility features on their mobile devices strongly right out of the gate.
@@ -90,14 +88,13 @@ We also want to use this project as an opportunity to document what we learn abo
 
 ----
 
-## Decisions still being made
+
+# Decisions still being made
 
 ## Content decisions
 
-### We will include the Veterans Crisis line on the unauth homescreen so users can access it before signing in, and on the homescreen as the first item.
-There has been some discussion about how prominent the Veterans Crisis Line should be. Our point of view is that although the Veterans Crisis Line overall sees less traffic than Claims and Health features on VA.gov, it should be accessible very easily in the event a user ever needs it, however should not be included as a navigation item in the bottom toolbar due to space restrictions. We welcome other points of view and collaboration on this. 
+### We will include the Veterans Crisis line on the unauth homescreen and on the auth homescreen.
+There has been some discussion about how prominent the Veterans Crisis Line should be. Our point of view is that although the Veterans Crisis Line overall sees less traffic than Claims and Health features on VA.gov, it should be accessible very easily in the event a user ever needs it. We propose doing this by including the VCL on the homescreens, not as a navigation item in the bottom toolbar due to space restrictions. We welcome other points of view and collaboration on this. 
 
 ### Can we include any more features in the MVP outside what is currently on the living information architecture?
-We have had conversations with SMEs at VA and are continuing to talk to teams working on other features that our app will include (Claim Status Tool redesign, Logged In homepage redesign). As part of talking to these teams, we are open to learning that there are other "low hanging fruit" features that are highly valuable to Veterans, fit within the MVP purpose of our app, and are technically feasible. One example of this may be direct deposit payment information or COVID-19 specific features such as the screener. Our goal is to build and launch an MVP quickly, so we don't anticipate adding a lot more, however it's important to note that we may be able to add more and those decisions will continue to unfold between now and November.
-
-We're also open to these teams leading _us_, and taking the point of view that our app will replicate VA.gov features and bring a layer of unique mobile functionality (for example camera upload, push notifications). We do not want to redesign anything or make too many changes to features that are on VA.gov, and instead will look to other VFS teams and their ongoing work to inform UX/UI decisions in the app.  
+We have had conversations with SMEs at VA and are continuing to talk to teams working on other features that our app will include. As part of talking to these teams, we are open to learning that there are other "low hanging fruit" features that are highly valuable to Veterans, fit within the MVP purpose of our app, and are technically feasible. One example of this may be direct deposit payment information or COVID-19 specific features such as the screener. Our goal is to build and launch an MVP quickly, so we don't anticipate adding a lot more, however we may be able to add light items and those decisions will continue to unfold between now and November. We're also open to these teams leading _us_, and taking the point of view that our app will replicate VA.gov features and bring a layer of unique mobile functionality (for example camera upload, push notifications). We do not want to redesign anything or make too many changes to features that are on VA.gov, and instead will look to other VFS teams and their ongoing work to inform UX/UI decisions in the app.  
