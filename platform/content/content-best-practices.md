@@ -99,11 +99,10 @@ Veterans aren’t the only ones visiting VA.gov — their spouses, children, and
 
 - Be as specific as possible when directing users to new link or page. 
 
-    Instead of "Learn more" , use:  "Learn more about X" <br>
-    Instead of "Visit the website", use: "Visit the [name of page/group/organization] website"
+    Instead of *"Learn more"*  Use:  *"Learn more about X" <br>*
+    Instead of *"Visit the website"* Use: *"Visit the [name of page/group/organization] website"*
 
-**8. When incorporating user research or contact center feedback in the content, be sure the feedback aligns with VA.gov voice, style, and tone.**
 
-**9. Cut and paste any feedback you receive from a content writer or editor.**
+**8. Cut and paste any feedback you receive from a content writer or editor.**
 
-Please don't retype in their feedback. This can result in additional typos, errors, or incorrect usage.
+Please don't retype in any content feedback. This can result in additional typos, errors, or incorrect usage.
