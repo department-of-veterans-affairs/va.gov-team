@@ -16,7 +16,7 @@
   - [Launch] HLR: Prepare Launch Product Video for Higher Level Review #6209 - Sprint 30
   - [Testing] HLR: User Acceptance Testing for Higher Level Review #7802 - Sprint 31/32
   - [Launch] HLR: Prepare Final Steps of Collaboration Cycle in Preparation for Launch #9763 - Sprint 30
-  - [Development] HLR: Is HLR Working?  - Missing story
+  - [Development] HLR: Is HLR Working?  - Sprint 30/31
   
   Missing Stories:
   - [Launch] HLR: Full 508 - Sprint 31
