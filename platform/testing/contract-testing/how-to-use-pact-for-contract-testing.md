@@ -577,6 +577,13 @@ Every build of vets-website publishes pacts, tags the version with the name o
 * Verifying master pacts would be ideal, since it would stay up to date on verifying the vets-website master branch, and it would ensure that vets-website and vets-api work together in staging. But that introduces the possibility of breaking vets-api builds when the vets-website stale verification merge issue arises, since the vets-website master branch will have breaking changes in that scenario, although fairly unlikely to occur.
 * On the other hand, not verifying master means that changes in the vets-api master branch can cause the vets-website master builds to fail even if not actually breaking contracts for prod vets-website.
 
+##### Future Work: 
+* At daily deploy, if the vets-api verification passes and the build gets deployed, the verification results for this version gets tagged as prod. After deploying vets-api to production, tag this version as prod.
+* At daily deploy, the vets-website pipeline checks can-i-deploy. The deploy can't proceed if this check fails. This would have to occur after the result of the vets-api deploy.
+* If the vets-api build would have accommodated production-breaking changes from this vets-website build but couldn't get deployed, then the vets-website deploy can't proceed either.
+* If this vets-website build wouldn't break with the vets-api currently in production, the deploy will go out as usual. pact-broker can-i-deploy -a 'App Name' --version $COMMIT_HASH -a 'VA.gov API' --latest prod. After deploying vets-website to production, tag this version as prod.
+
+
 
 
 ### Pact FAQ
