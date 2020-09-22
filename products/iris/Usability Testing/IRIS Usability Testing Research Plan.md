@@ -4,45 +4,66 @@ As a designer I need to create a research plan to share with my team.	(This shou
 Accompanying story tracking tasks: https://github.com/department-of-veterans-affairs/orchid/issues/109
 
 
-## Goals	
+## Goals	TO FINISH
 1. What product & team are you doing this research for?	
-2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
-3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
-4. Hypothesis: What is your hypothesis for this research? 	
+
+This usability testing will be for the IRIS product.
+
+2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	 TO FINISH
+
+
+
+3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	TO FINISH
+
+- Is our design approach usable and respectful to those with any disability related challenges, especially cognitively? Does having multiple chapters (i.e. vet info on one page, person filling out the form on another) feel intuitive and is that the right approach?
+
+
+4. Hypothesis: What is your hypothesis for this research? 	TO FINISH
+
+Some possible include: 
+- We believe that by using the VA design pattern library users of IRIS will find the form an improvement 
+
+
 
 ## Method	
 1.	What method of research are you planning? 	
-  - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 	
-  - **Also mention:** in-person moderated, remote moderated, remote unmoderated	
+  - **Sample Methodologies**: usability testing with low- or high-fidelity prototypes via remote moderated, remote unmoderated	TO FINISH
   	
-2.	Why this method? How does this methodology help you answer your research questions? 	
-3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*	
-4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
-5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
-## Participants and Recruitment	
+2.	Why this method? How does this methodology help you answer your research questions? 		TO FINISH
+
+3.	Where are you planning to do your research? 	TO FINISH
+
+
+*If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*	
+4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 		TO FINISH
+
+
+5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)		TO FINISH
+
+## Participants and Recruitment	 TO FINISH
 1.	Participant criteria: What are you looking for in a participant?	  
 (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
 
-Please list your participant criteria in two categories-
+Please list your participant criteria in two categories- 	TO FINISH
 1. **Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.) 
 
-2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
+2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?	TO FINISH
 
 *Pro tips for writing recruiting critera:* 
 - If you have specific screener questions that YOU would ask a potential participant to determine eligibility for your study, list them here. For example, instead of saying "We want someone who has been to an urgent care facility recently", say "Have you been to an urgent care facility in the last 6 months? (Answer should be yes)"
 - Do not assume that your recruiters or the participants know your products or requirements as well as you do. Provide links to products, clear descriptions, specifics, etc. 
 
-2.	What is your recruitment strategy? 	
+2.	What is your recruitment strategy? 		TO FINISH
 (If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract - Perigean - or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact Research Contract Lead.)	
 
-## When? 	
+## When? 	 TO FINISH
 1.	Timeline: What dates do you plan to do research? 	
 (IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 	
 2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
 3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
-## Team Roles	
+## Team Roles	TO FINISH
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 - Moderator:	
 - Research guide writing and task development (usually but not always same as moderator):	
@@ -57,40 +78,7 @@ Please list the people who will be serving in each role. **Include the primary p
 *Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
 - Convo Guide	
 *Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
-- Synthesis	
-*Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
-- Lessons Learned	
-*Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.* 	
-- Read-Out/Results	
-  - *Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.* 	
-  - ** Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)
 
-
-
-ADDITIONAL: 
-
-## Considerations
-Look at how to incorporate content and accessibility questions into usability testing - test with someone with cognitive challenges in partcular
-
-
-## Usability Testing Prep
-DISCOVER PHASE
-Meet with VSP practice area reviewers to catch anything in your prototypes or mockups that may detract from usability testing. Get feedback on your test plan.
-Format: 30-minute meeting
-Timing: When you’re ready for usability testing
-Request Process: VFS Product Manager uses Usability Testing Prep template
-Artifacts Required from VFS Team:
-● Link to product outline
-● Prototypes or mockups prepped for user testing
-● Link to research plan and script
-● Link to regression test plan (if there isn’t already one for your feature)
-● A draft of your test cases and/or test plan (for QA practice area review)
-● Please provide these artifacts at least 2 days before the scheduled review meeting.
-
-
-
-
-## Tasks
-See accompanying card tracking tasks: https://github.com/department-of-veterans-affairs/orchid/issues/109
+Additional documents TBD
 
 
