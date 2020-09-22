@@ -113,6 +113,8 @@ The above described collision COULD exist within the same consumer namespace, so
 ### FE/BE Communications
 
 When in the development process, FE and BE engineers may need to organize communication efforts. The pact workflow is a collaborative effort that developers will need to iterate on. As a first step in the process, the FE engineer will push a pact to the broker. The BE engineer will then use the pact from the broker to set up a matching provider state(s). Provider states follow strict naming conventions for the given consumer and its respective interactions. Often times, there will need to be adjustments to the expected response/requests defined in the pact following verification on the backend. 
+#### Communication and Interaction
+Once the BE engineer runs the pact verification task, possible adjustments to the expected requests and responses defined in the pact may be needed. BE and FE engineers will need to communicate pact request/response adjustments as necessary during the development process.
 ## Configuring the `vets-website` consumer codebase 
 
 ### Running contract tests
@@ -556,7 +558,18 @@ The pact verification functionality is in working order for developer usage when
 
 When the pact verification task runs in CircleCI (via the build or verification workflow), verification results are pushed back to the broker after the workflow completes.
 
-#### CircleCI and the Build Process
+### CircleCI and the Build Process
+
+#### Deploy Strategy and Tagging
+Every build of vets-website publishes pacts, tags the version with the name of the branch, and triggers the verification task from a master build of vets-api.
+
+* We could also verify the pacts against prod vets-api (in addition to master) for more stability. This ensures that vets-website deploy won't be blocked by vets-api deploy failures and that PR's won't be able to merge with a stale verification status and break other builds. The downside is that vets-website PRs may have to sit an extra day to wait for any corresponding vets-api changes to go out to prod first.
+
+* Every build of vets-api verifies pacts from versions that have been tagged as master and prod and tags the results with the name of the branch.
+* The WIP and pending pact features have been implemented. This allows any new pacts to be automatically verified without the provider team having to make configuration changes. When using this feature, it is best to also turn on the pending pacts feature, so that any failures caused by the WIP pacts do not cause the build to fail
+* Verifying master pacts would be ideal, since it would stay up to date on verifying the vets-website master branch, and it would ensure that vets-website and vets-api work together in staging. But that introduces the possibility of breaking vets-api builds when the vets-website stale verification merge issue arises, since the vets-website master branch will have breaking changes in that scenario, although fairly unlikely to occur.
+* On the other hand, not verifying master means that changes in the vets-api master branch can cause the vets-website master builds to fail even if not actually breaking contracts for prod vets-website.
+
 
 
 ### Pact FAQ
