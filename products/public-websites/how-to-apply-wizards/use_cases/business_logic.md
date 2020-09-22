@@ -20,12 +20,10 @@
    
 - **Wizard Titles:**  Determine unique titles for each Wizard.  This will allow the title to match the purpose/context of the wizard - find the right form, determine eligibility, etc. 
 
+**Functional:**
 
-### Education Wizard
+- **Clear Wizard Flag on Form Restart:** In the Education (526 and HLR) Forms, the second choice of "Start a new application" opens a modal to confirm, then immediately sends the user to the first page of the form, thus bypassing the introduction page, and more importantly the wizard. Form 526, needs the wizard to save a user's separation date and Form 0996 (HLR) will need to save a Veteran's claim type. The HLR value will be essential when submitting the form. This also occurs with the educational benefits forms where the choice of forms is not reset. The "Start a new application" needs to either preserve the stored wizard form data, or restart the form from the introduction page, and reset the wizard "completed" flag so the wizard is again revealed. (Ticket)[https://github.com/department-of-veterans-affairs/va.gov-team/issues/13814]
 
-### Rule:
-The only time the user does not see the Wizard on the Apply Now page is if they have -- in the same session -- completed the Wizard for one Education form and after completing that form are routed to another Education form.
-- Example:  When User completes wizard on form 1990 and is directed to the 1990n, the user does not see wizard.  However, if the user navigates away from 1990n intro page, they have to repeat the wizard when they return to it or to any other edu form.
 
 ## Pattern clarifications
 
