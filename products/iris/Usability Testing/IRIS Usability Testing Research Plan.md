@@ -11,11 +11,23 @@ This usability testing will be for the IRIS product.
 
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	 TO FINISH
 
+Please view more about the IRIS project https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS-product-brief.md
+
+3. Research questions: What question(s) do you hope to be able to answer after completing this research?
+
+- ACCESSIBLE: Is our design approach usable and respectful to those with any disability related challenges, especially cognitively? 
+
+- CHAPTERS: Have we divided the IRIS form into the right number of chapters as per the Form Library?
+
+- CONTENT HIERARCHY: Is the content organized (and grouped) in an intuitive manner?
+
+- DROP DOWN MENU: Are they able to interact with the drop down menus and is it an inuitive experience for them?
+
+- SUCCESS METRICS: Are users able to succcessfully submit the form? Do they feel that the user experience has improved, and if so how?
+
+- To add: any that address Success Metrics we identified earlier. - TO FINISH
 
 
-3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	TO FINISH
-
-- Is our design approach usable and respectful to those with any disability related challenges, especially cognitively? Does having multiple chapters (i.e. vet info on one page, person filling out the form on another) feel intuitive and is that the right approach?
 
 
 4. Hypothesis: What is your hypothesis for this research? 	TO FINISH
@@ -27,14 +39,14 @@ Some possible include:
 
 ## Method	
 1.	What method of research are you planning? 	
-  - **Sample Methodologies**: usability testing with low- or high-fidelity prototypes via remote moderated, remote unmoderated	TO FINISH
+  - usability testing with medium or high-fidelity prototypes via remote moderated research
   	
-2.	Why this method? How does this methodology help you answer your research questions? 		TO FINISH
+2.	Why this method? How does this methodology help you answer your research questions?
+  - We want to run our redesigned product by our end users to ensure we're building the right thing in the right way at the right time - the right set of features and ensure that it's accessible.  Usability testing and an interview will allow us to answer research questions and validate our assumptions.
 
-3.	Where are you planning to do your research? 	TO FINISH
+3.	Where are you planning to do your research? 
+ - Remotely via Zoom because of COVID-19.
 
-
-*If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*	
 4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 		TO FINISH
 
 
