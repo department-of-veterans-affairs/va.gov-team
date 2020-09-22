@@ -95,6 +95,15 @@ Pact is language agnostic and has packages for both Node.js and Ruby, so both `v
 
 **Pact helper** - Pacts verified by the `pact:verify` task and configured in the `pact_helper.rb` file in your provider codebase. Currently, the `pact_helper` implements rspec and pact configurations as well as `git_sh`a and `git_branch tagging` for the consumer and provider in the broker. 
 
+#### Naming Conventions
+
+The purpose of contract testing is to ensure that the consumer and provider have a shared understanding of the messages that will pass between them. It’s best practice for the interaction to be explicit to what the state of the interaction defined in the contract does. VSP is requiring an explicit/descriptive naming policy for interactions. The naming convention policy is in place as a best practice for developers to understand the purpose of the interaction. 
+
+Pacts are namespaced per consumer in the broker and on the backend in the provider state files. This [example](https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.gov%20API/consumer/Search/latest) links to the interactions for the search consumer. A provider state file on the backend will then need to explicitly define a state for each interaction listed in the pact contract.
+
+The [search example](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/provider_states_for/search.rb) interaction explicitly states that “at least one matching result exists” and describes what’s expected for the interaction to be successful.  
+
+
 ## Configuring the `vets-website` consumer codebase 
 
 ### Running contract tests
