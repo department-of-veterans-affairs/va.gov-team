@@ -14,6 +14,7 @@
 1. Custom link teasers - automation brainstorm
 1. Transformers for LC content model
 1. LC Search vs. LC Article Lists
+1. Articles by tag: truncated body options
 1. anything else
 
 ### Action items
