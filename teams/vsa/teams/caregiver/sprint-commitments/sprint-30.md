@@ -4,7 +4,7 @@
 - [ ] [Front end updates based on initial `stakeholder` feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12806)
 - [ ] [Front end updates needed for 10/1](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13430)
      - [ ] Includes additional content regarding Veteran SSN 
-- [ ] [Require unique SSNs for each applicant](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13432)
+- [x] [Require unique SSNs for each applicant](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13432)
 - [ ] **New** [Remove SSN requirement for any caregivers](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13576)
 - [ ] **New** [Veteran SSN information](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13712)
 
