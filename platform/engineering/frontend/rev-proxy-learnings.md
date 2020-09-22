@@ -33,11 +33,12 @@ A forward proxy sits in-between a client (browser) and the internet. A reverse p
 - https://devcenter.heroku.com/articles/increasing-application-performance-with-http-cache-headers#conditional-requests
 - https://en.wikipedia.org/wiki/HTTP_ETag
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Last-Modified
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/ETag
 - https://tools.ietf.org/html/rfc7232#section-2.2
 - https://www.geeksforgeeks.org/http-headers-last-modified/
 - https://web.dev/http-cache/
-- https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/ETag
 - https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy
-- http://nginx.org/en/docs/dirindex.html
 - https://smartproxy.com/blog/the-difference-between-a-reverse-proxy-and-a-forward-proxy
 - https://www.jscape.com/blog/bid/87783/forward-proxy-vs-reverse-proxy
+- https://www.nginx.com/blog/setting-up-nginx/
+- https://nginx.org/en/docs/dirindex.html
