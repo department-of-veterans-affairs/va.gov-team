@@ -1,10 +1,10 @@
 # Getting access to tools
 
-Setting up all of the following tools while you onboard will make time on VSP easier.
+Setting up all of the following tools while you onboard will make time on the DEPO Platform easier.
 
-**Everyone** working on VSP should follow steps in this document to get access to Slack, GitHub, and ZenHub.
+**Everyone** working on the DEPO Platform should follow steps in this document to get access to Slack, GitHub, and ZenHub.
 
-**Developers** working on VSP should **also** follow steps in this document to get access to Jenkins, Grafana, and Sentry.
+**Developers** working on the DEPO Platform should **also** follow steps in this document to get access to Jenkins, Grafana, and Sentry.
 
 ## Slack
 
