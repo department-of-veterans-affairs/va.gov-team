@@ -163,7 +163,9 @@ https://drive.google.com/drive/folders/0ACZ1e6Rs_6sDUk9PVA
 ## Google Calendar (Shared): PTO
 
 https://www.google.com/calendar/render?cid=governmentcio.com_rae2ref7gb5p67nmcuj2l7ege0@group.calendar.google.com \
-PTO Calendar: put your days off (approved vacation, sick, etc.) on our shared Google PTO Calendar.
+PTO Calendar: after approval from your PM and lead, put your days off (approved vacation, sick, etc.) on our shared Google PTO Calendar. Usage tips:
+- Please do not send meeting invitations to let people know you will be out of office. Those clutter our calendars so most people will decline or delete/ignore. Just add your PTO/OOO to this calendar.
+- When creating meetings remember to check this calendar to see who is out, but don't send invitations to this calendar.
 
 ## Google Calendar: Work Account
 
