@@ -18,6 +18,7 @@ This does not include research for Appeals projects, which is stored in differen
 *Public Websites: Liz Lantz*
 - 39 Veteran participnts, 9 SME participants
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort)
+
 **Keywords:** categorization, nomenclature, tags, categories, audience, topics, labels, content authoring, tier 2, benefit-adjacent, VA account and profile, Records
 
 
