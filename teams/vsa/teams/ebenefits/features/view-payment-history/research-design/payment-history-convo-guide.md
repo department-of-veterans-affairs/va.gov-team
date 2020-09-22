@@ -50,21 +50,24 @@ User goes to staging link
 
 ### Task 1 / Identify the bank and account for C&P payments  / 1 minute
 User performs task one...
-- Task 1
+- If you wanted to be sure your payments were going to the correct account, where would you check?
+- Can you tell me the bank and account number that C&P payments are going to?
 
 #### Things to look for:
 - Things to look for...
 
 ### Task 2 / Find the earliest entry / 2 minutes
 User performs task one...
-- Task 1
+- If you were looking for the first payment made to you, how would you find that?
+- What is the date of the earliest payment made?
 
 #### Things to look for:
 - Things to look for...
 
 ### Task 3 / Determine the highest EDU payment / 2 minutes
 User performs task one...
-- Task 1
+- This table shows different types payments, can you tell which kinds?
+- Can you find the highest Educational payment made since payment began?
 
 #### Things to look for:
 - Things to look for...
