@@ -42,3 +42,5 @@ A forward proxy sits in-between a client (browser) and the internet. A reverse p
 - https://www.jscape.com/blog/bid/87783/forward-proxy-vs-reverse-proxy
 - https://www.nginx.com/blog/setting-up-nginx/
 - https://nginx.org/en/docs/dirindex.html
+- https://blog.francium.tech/vue-lazy-routes-loading-chunk-failed-9ee407bbd58
+- https://www.ruby-forum.com/t/reverse-proxy-deleting-etag-header-from-response/246209/4
