@@ -15,4 +15,6 @@ These are some of the design principles the IRIS team is using as we develop the
 
 * Limit the amount of page scrolling up and down whenever the validation message gets triggered
 
+* Limit number of fields/text displayed at once to aim for progressive disclosure (i.e. with conditional logic, some fields only display as necessary to the user).
+
 * Use radio buttons when there are less than 5 options
