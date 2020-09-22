@@ -58,11 +58,11 @@
 https://user-images.githubusercontent.com/1793923/90675376-5fad8d00-e228-11ea-95d2-9c31a309fd01.gif
 
 ## Mockup
-[Overall wireframe](https://zpl.io/VOOek8j)
-[Unauthenicated Introduction Page](https://zpl.io/aBLymzk)
-[Authenicated Introduction Page](https://zpl.io/bWegKnj)
-[Confirmation Page](https://zpl.io/bovK0Km)
-Questionnaire List TBD
+- [Overall wireframe](https://zpl.io/VOOek8j)
+- [Unauthenicated Introduction Page](https://zpl.io/aBLymzk)
+- [Authenicated Introduction Page](https://zpl.io/bWegKnj)
+- [Confirmation Page](https://zpl.io/bovK0Km)
+- Questionnaire List TBD
 
 # Technical Documentation 
 
