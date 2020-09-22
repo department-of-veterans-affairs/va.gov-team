@@ -53,11 +53,6 @@ Deliverables: Full design, layout and specs for LOA3 (state when a user has bene
   - [ ] High fidelity mockups
   
 - [ ] Appropriate stakeholder reviews and approval along the way
-- [ ] User Research
-- [ ] Design updates from user research
-- [ ] Stakeholder Review (Depending on research outcome)
-- [ ] Platform checkpoints 
-- [ ] Hand-off to developers 
 
 **Claims** ~1-2 Sprints
 
