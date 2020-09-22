@@ -9,17 +9,32 @@
 
 ### Agenda
 
-1. Review backlog for Sprint 15/16
-1. CTA button classes
+1. Review backlog for Sprint 16
 1. Custom link teasers - automation brainstorm
-1. Transformers for LC content model
-1. LC Search vs. LC Article Lists
-1. Articles by tag: truncated body options
-1. anything else
+1. 
 
 ### Action items
 
 1.
+
+## Tuesday September 22
+
+### Agenda
+
+1. CTA button classes
+1. Articles by tag: truncated body options
+1. LC Search vs. LC Article Lists
+1. Transformers for LC content model
+1. Review backlog for Sprint 15
+1. anything else
+
+### Action items
+
+1. CTA button classes. 
+   1. authors will keep using https://www.va.gov/?next=%2Fprofile%2F as the CTA URL link
+   1. another example https://www.va.gov/coronavirus-veteran-frequently-asked-questions/#what-should-i-do-if-i-need-to
+1. Meta description for LC content types - remove Meta description fields.
+1. By Sep 30, Nick/Kelson to confirm GraphQL return the data required to generate static pages for taxonomy terms a.k.a "articles tagged by".
 
 ## Tuesday September 15
 
