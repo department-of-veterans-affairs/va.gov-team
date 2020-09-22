@@ -434,6 +434,9 @@ If an authorized `vets-api` user is needed for a request to an endpoint, a helpe
 
 Many of the `vets-api` endpoints call out to external services. To mock external service calls, the pact helper has VCR configured for usage. VCR cassettes can be used to mock external service responses for many of the `vets-api` third party service calls. The defined provider state in the [search example](https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.gov%20API/consumer/Search/latest) makes use of a VCR cassette.
 
+#### Flipper
+In the case that you don't have VCR tapes to cover multiple states for various interactions, you may need to utialize flipper feature toggle functionality. 
+
 ### 2. Adjust developer configurations
 
 #### Configure the `pact_uri/broker_url`
