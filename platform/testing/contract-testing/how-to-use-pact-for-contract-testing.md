@@ -416,6 +416,8 @@ Once frontend has pushed a pact to the broker, a corresponding provider state wi
 
 Please see the [provider state documentation](https://github.com/pact-foundation/pact-ruby/wiki/Provider-states#provider-codebase) for provider state instructions. Additionally, see the [search example](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/provider_states_for/search.rb#L3).
 
+[Base states](https://docs.pact.io/implementation_guides/ruby/provider_states/#base-state) can be used to DRY up provider state files if the interaction requires code that should run before/after each interaction. For additional provider state settings see the [pact documentation](https://docs.pact.io/implementation_guides/ruby/provider_states/)
+
 #### Using a local file if blocked by frontend 
 
 If you're waiting on frontend to generate the contract and push to the broker, you can use a temporary (local) contract. You can verify a pact at any arbitrary local or remote URL using the `pact:verify:at` task. 
