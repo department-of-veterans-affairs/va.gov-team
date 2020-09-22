@@ -548,7 +548,7 @@ When the pact verification task runs in CircleCI (via the build or verification 
 #### CircleCI and the Build Process
 
 
-### FAQ
+### Pact FAQ
 
 #### Can I generate my pact file from something like Swagger?
 
