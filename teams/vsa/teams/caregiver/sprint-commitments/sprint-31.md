@@ -26,6 +26,7 @@
   - Follow up on dashboard access for 10-10CG
   - Intro meeting (after 10/1) to discuss secondary caregiver
   - Share staging link with CG program
+  - Ensure VSP support for 10/1
  
   
   
