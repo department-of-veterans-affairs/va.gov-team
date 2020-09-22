@@ -113,6 +113,13 @@ The above described collision COULD exist within the same consumer namespace, so
 ### FE/BE Communications
 
 When in the development process, FE and BE engineers may need to organize communication efforts. The pact workflow is a collaborative effort that developers will need to iterate on. As a first step in the process, the FE engineer will push a pact to the broker. The BE engineer will then use the pact from the broker to set up a matching provider state(s). Provider states follow strict naming conventions for the given consumer and its respective interactions. Often times, there will need to be adjustments to the expected response/requests defined in the pact following verification on the backend. 
+
+#### Example Workflow for Search
+In the search example, an interaction exists for the search contract with the name of “at least one matching result exists”
+On the [backend](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/provider_states_for/search.rb), a provider state matching the search consumer will need to be set up as an exact match the interaction defined in the pact
+If an adjustment needs to be made to a request/response defined in a pact, then the communication efforts will need to be coordinated between FE and BE engineers. 
+
+
 #### Communication and Interaction
 Once the BE engineer runs the pact verification task, possible adjustments to the expected requests and responses defined in the pact may be needed. BE and FE engineers will need to communicate pact request/response adjustments as necessary during the development process.
 ## Configuring the `vets-website` consumer codebase 
