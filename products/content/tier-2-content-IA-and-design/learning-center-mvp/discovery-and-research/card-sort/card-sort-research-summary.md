@@ -1,6 +1,6 @@
 # Research Summary for Learning Center Topics and Audience Tags Card Sort
 
-Liz Lantz, Public Websites, 9/18/2020
+Liz Lantz, Public Websites, 9/22/2020
 
 ## Background
 
@@ -72,13 +72,11 @@ Across both participant groups and card sorts, people mapped the majority of art
 
 **Audience labels**
 
-``Veterans 65+ with complex care needs`` had a low rate of agreement compared to other labels.  
+Out of the articles and labels we mapped, ``Veterans 65+ with complex care needs`` had a low rate of agreement with what we expected.  SME and Veteran participants responded similarly.
 
 - People put articles we expected to see here into other groups, which demonstrates a broader scope of thinking about those articles.  
 - People also put articles into this group that applied to only one part of the label ("65+" or "complex care") such as `What is a protected pension?`. 
 - Simplifying the label may make its intention more clear to both content authors and Veterans. 
-
-{@LIZ - Do you have any info here regarding how SMEs and Veterans did on this lable? Did both groups respond similarly/differently?} 
 
 **Topic labels**
 
@@ -86,28 +84,32 @@ The [cards added to  `Records` and  `VA account and profile` by Veterans](https:
 
 People thought about the topic of  "records" in ways beyond "official records and documents".   For VA account and profile, the misalignment between what participants did and what we expected seemed to be related to the words "my" and "your" in the article name.
 
-The scope in these topic categories was narrower in the SME card sort, which encourages us to believe the content will be categorized appropriately by content authors. Still, we should consider making `Records` more specific to records and documents,  { @LIZ <-- is that right? it wasn't clear what you mean by "speciic" - specific to what? } so that Veterans can quickly understand the content available there. 
+The scope in these topic categories was narrower in the SME card sort, which encourages us to believe the content will be categorized appropriately by content authors. Still, we may want to consider adding clarification to the  `Records` label so that Veterans can quickly understand the content available there. 
 
 **Recommendations**
 
 - Move forward with the majority of labels as proposed.
 - Consider revising the audience label ``Veterans 65+ with complex care needs``. 
-- Consider revising `Records` to be more specific to records and documents.
+- Consider revising `Records` so Veterans have a more specific understanding of what this topic is about.
 
 #### 2.  Adding multiple categories and front-end tags to articles will increase findability; a second audience label may be helpful.
 
 While we had majority agreement across many groupings, some were by only a small margin. Across all card sorts, cards were placed into an average of 4 different categories. The variation in these groupings validate that the learning center needs to support different mental models so people can find content they're looking for, in the way that they think about it.
 
 The topic card sort had less agreement overall than the audience, which supports our initial hypothesis that: 
+
 - Users categorize content more variably or differently than our official benefit hub groupings
 - Multiple topic tags may be helpful in surfacing content to people
 - And more granular content-focused tags may be more helpful
 
-In our audience card sort, participants put articles into categories we didn't expect about 20% of the time in both groups.   Often times, the associations made sense, such as `What is adult day care` being mapped by many participants to `Family members and caregivers`.  Many of these instances seemed to be related to the a word in the article title being repeated in the audience label {@LIZ - is this true or just a sense? We tried to eliminate word echoes in our articles for the tricky labels; and for the ones that had the most problems -- veterans ag 65+ with complex care needs -- we def didn't have word echoes. Could you elaborate what you mean here?} .
+In our audience card sort, participants put articles into categories we didn't expect about 20% of the time in both groups.   Often times, the associations made sense, such as `What is adult day care` being mapped by many participants to `Family members and caregivers`.  People also put articles with the word "family" into this category such as:
 
-This suggests there could be a need to surface content by audience in more than one way, but it's challenging to determine that conclusively since our card sort did not combine audience and topic labels for the sort.  
+- How do I become a fiduciary for my Veteran friend or family member? (3 SME participants)
+- What VA family member benefits are my same-sex spouse eligible for? (3 Veterans, 1 SME)
 
-We should leverage analytics to determine if  allowing for a second front-end audience tag will improve the UX for people who look for content by audience.
+Many of the one-off instances for other articles seem to be related to people considering their own personal situation, e.g. putting `How do I verify my school enrollment?` into `Women Veterans`.
+
+This suggests there could be a need to surface content by audience in more than one way, but it's challenging to determine that conclusively since our card sort did not combine audience and topic labels for the sort.  We should leverage analytics to determine if  allowing for a second front-end audience tag will improve the UX for people who look for content by audience.
 
 **Recommendation**
 
@@ -126,13 +128,15 @@ Articles about claims were grouped into different categories than we expected mo
 
  [The only audience category that participants created](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-summary.md#veteran-participants-created-a-label-related-to-non-citizen-nationality) (for the article `Benefits and services for Veterans who are Philippine U.S. nationals`) was related to Veterans who are non-citizen U.S. nationals. If we have enough content to warrant creating a category for this audience group, we should consider adding this label.
 
-Two Veterans created a `Points of contact` category with articles about contacting someone or a directory. The way other participants sorted these cards suggests that most people will look for contact information under `Other topics and articles`. Additionally, we should consider if we can surface contact information more clearly through a label with the word `contact` in it or some other way. (For example a contact us page??)
+Two Veterans created a `Points of contact` category with articles about contacting someone or a directory. The way other participants sorted `directory of [contacts]`  cards suggests that most people will look under `Other topics and articles` for that information, but there was less agreement about where to put the article `Who do I contact about debt on my account` (3 SME and 20 Veteran participants put this into `VA account and profile` .  
+
+We should consider if we can surface contact information more clearly through a label with the word `contact` in it or some other way, such as a "contact us" page.
 
 **Recommendations**
 
 - Consider adding a claim-specific label.
 - Consider adding a label for non-citizen U.S. national Veterans (based on content).
-- Consider adding a label with the word "contact." <-- this seems like an extremely subjective recommendation, given that only 2 of 39 users created this category. Also, did they BOTH create the same category "points of contact"? If "most people will look for contact information under 'other topics and articles,' shouldn't we consider making sure that all contact info type of articles definitely get added to that category (in addition to where ever else we put it).
+- Consider ways we can more clearly surface content listing points of contact, such as creating a contact-specific label, and/or ensuring that this type of content consistently gets tagged with `Other topics and articles`.
 
 ## Audience label card sort details
 
@@ -170,16 +174,16 @@ Only 17 of 39 (43%) participants matched the articles we expected with that audi
 
 People placed the article `What kinds of long-term care services does VA offer?` under:
 
+- Veterans age 65+ with complex care needs (17, this was the category we expected) 
 - Family members and caregivers (11)
 - All Veterans (9)
 - LGBTQ Veterans (2)
-- VS. Veterans age 65+ with complex care needs (17) <-- you have this in the intro text, but I think it's super helpful to include it in the scannable section.
 
 People placed the article `What is adult day care?` under:
 
 - Family members and caregivers (20)
+- Veterans age 65+ with complex care needs (17, this was the category we expected)
 - All Veterans (2)
-- Vs. Veterans age 65+ with complex care needs (17)
 
 The other articles people placed into the `Veterans age 65+ with complex care needs` category suggest they focused on the _65+_ or the _complex care_ part of the label, rather than understanding it all together, as one whole. 
 
@@ -192,7 +196,7 @@ For example, Veteran participants put the following articles into the `Veterans 
 
 ##### **Takeaways**
 
-- Veterans think more broadly about the topics we selected for the the `Veterans age 65+ with complex care needs` audience group. 
+- Veterans think more broadly about the topics we selected for the `Veterans age 65+ with complex care needs` audience group. 
 - We should consider modifying or adding audience labels, or allow for multiple audience front-end tags, to support this broader scope of thinking and surface articles for people who want to see content by audience.
 - Simplifying the label  `Veterans age 65+ with complex care needs` may also make it easier for users to find relevant articles with this label or understand the types of articles that can be found with this label.
 
@@ -231,7 +235,7 @@ The nomenclature participants used isn't quite correct, but the creation of thes
 
 ##### **Takeaway**
 
-We should consider a separate audience group for content that applies to U.S. nationals. {I removed ", or Veterans of non-citizen nationality" - because Veterans of non-u.s. citizens - like they're permanent residents and served in the military: they have the SAME veteran benefits as u.s. citizen veterans. the only differences in some services apply to u.s. nationals and it may only apply when they live outside of the U.S. Super complicated.}
+We should consider a separate audience group for content that applies to U.S. nationals. 
 
 ---
 
@@ -277,14 +281,21 @@ The mental model of SME participants aligns with what we expected for the most p
 
 6 of the 14 audience tags we tested are intended to be applied to articles with a non-Veteran, non-beneficiary audience in mind.  All of those labels were mapped to the article we expected by 6 or more participants.  The `Fiduciaries` label had the lowest rate of agreement among this group.  
 
-One article we thought people would put in this category was titled, `How do I become a fiduciary for my Veteran friend or family member?`  3 participants mapped it to the `Family members and caregivers` audience group, likely because of the phrase "family member" in the article title.
+One article we thought people would put in this category was titled, `How do I become a fiduciary for my Veteran friend or family member?`  3 participants mapped it to the `Family members and caregivers` audience group, likely because of the phrase "family member" in the article title.  
+
+In addition to the fiduciary example, there were more instances of beneficiary labels being applied to non-beneficiary audiences. 
+
+-  `Forms for filing a life insurance claim for your deceased Veteran` was grouped under `Funeral directors and cemeteries` (1)
+-  `What is a VA appointed fiduciary responsible for?` was grouped under `Family members and caregivers` (1)
+- `How do I verify my school enrollment?` was grouped under `Career counselors and other employment specialists` (1) and `Schools, administrators, and other education professionals` (4)
+
+While these are not major trends, it suggests that there is potential for SMEs to confuse beneficiary and non-beneficiary labels, and/or apply both to an article.
 
 ##### **Takeaways**
 
 - This data suggests that SMEs generally understand the difference between articles for beneficiaries and non-beneficiaries. 
 - The ability to add more than one audience tag or category would improve content authors ability to reach the right audience, especially when their content applies to multiple groups. 
-
-{@LIZ - Any consideration here on the potential for SMEs to mix beneficiary and non-beneficary audiences if allowed? Is this a risk per our hypothesis or no longer valid based on this finding?}
+- Our hypothesis that there is the potential for SMEs to mix beneficiary and non-beneficiary audiences is valid.
 
 #### SME participants applied some Veteran audience labels more broadly than we expected.
 
@@ -350,7 +361,7 @@ Both Veteran and SME audiences received the same cards and categories; this tabl
 
 In most cases, the unexpected associations people made were logical, and seemed to be a result of either:
 
-1.  The article relating to multiple topics (e.g. many participants associated `Where can I view my VA payments online?`  to `VA account and profile`).  It's natural that the primary topic would vary based on an individuals perspective. {@LIZ - did MORE ppl add this article to the 'account/profile' bucket than 'records'? }
+1.  The article relating to multiple topics (e.g. 22 participants associated `Where can I view my VA payments online?`  to `VA account and profile` instead of `Records`, which is what we expected).  It's natural that the primary topic would vary based on an individuals perspective.
 2.  A person didn't understand something in the article itself. For example,`How to prepare for your Agent Orange Registry Health Exam` would be challenging to associate with `Disability` if you weren't familiar with Agent Orange. 
 
 **Takeaway**
@@ -371,7 +382,7 @@ The majority of participants mapped articles with the word `claim` in it to the 
 - Many Veterans don't associate checking their claim status with their VA account.
 - This validates the need for cross-tagging/categorization to surface content appropriately in the learning center.
 - A claim-specific topic tag may be helpful in surfacing content to Veterans.
-- `Disability` should be considered as a category for disability claim related information, even if the content of the article directs a person to a part of the website other than the Disability benefit hub. <-- @LIZ: Do you mean - even if the article is about say, your pension claims stuff, the article should also be put into the Disability category? 
+- `Disability` should be considered as a category for disability claim related information, even if the content of the article directs a person to a part of the website other than the Disability benefit hub, such as an article about challenging a claim agent fee.
 
 #### Veterans associated `Records` and  `VA account and profile` with a wide variety of content.
 
@@ -419,18 +430,18 @@ People didn't create a separate category for these items, which suggests that th
 
 #### Half of the new categories Veterans created aren't planned for in the learning center.
 
-8 new categories were created by participants in this card sort; 3 categories were created by 2 participants and had a high level of agreement: <-- not clear how can something 2 participants did have a 'high level' agreement? Might you mean something different? Do you mean that between the 2 people who created "points of contact" as a category, they put the exact same articles into that bucket? Could you also reclarify - were these Veterans or SMEs?
+8 new categories were created by participants in this card sort; 3 categories were created by 2 participants (the same 2 participants did not create all of the same 3 categories).
 
-- `Points of contact` had agreement between the 2 people who created it.  {@LIZ: removed "100%" here bc that makes it seem  STATISTICALLY SIGNIFICANT, but it's 2 users.} This category contained the cards `Directory of VSOC counselors`, `Directory of state Veterans agencies`, `VA HCRV specialists for Veterans who are or have been in prison`, and `Who do I contact about debt on my account?`
-- `Claims` had partial {88% instead of percentage, when the numbers are this small, can we use actual numbers for transparency - X of Y articles or whatever}  agreement between the 2 people who created it. It contained the cards `How to upload evidence online for your claim`, `How do I check my claim status?`, `How to challenge a claims agent fee`, and `How to prepare for your Agent Orange Registry Health Exam`. 
-- `Benefits` had agreement between the 2 people who created it. It contained the articles `How VA back pay (retroactive benefits) works`, and `Accepted forms of discharge documents for applying for a VA benefit`. Another participant added those articles to a category they called `Pay/Benefits` and also included `Who do I contact about debt on my account?`and `Where can I view my VA payments online?` into the Pay/Benefits category.
+- `Points of contact` had full agreement between 2 people who created it.   This category contained the cards `Directory of VSOC counselors`, `Directory of state Veterans agencies`, `VA HCRV specialists for Veterans who are or have been in prison`, and `Who do I contact about debt on my account?`
+- `Claims` had 3 of the 4 same articles between the 2 people who created it. It contained the cards `How to upload evidence online for your claim`, `How do I check my claim status?`, `How to challenge a claims agent fee`, and `How to prepare for your Agent Orange Registry Health Exam`. 
+- `Benefits` had full agreement between the 2 people who created it. It contained the articles `How VA back pay (retroactive benefits) works`, and `Accepted forms of discharge documents for applying for a VA benefit`. Another participant added those articles to a category they called `Pay/Benefits` and also included `Who do I contact about debt on my account?`and `Where can I view my VA payments online?` into the Pay/Benefits category.
 
-Other topic categories participants created were:
+Other topic categories Veteran participants created were:
 
 - FAQs (1)
 - Technical Help (1)
 - VA Resources (1)
-- Indebtedness Division (1) <-- was this a Veteran or SME participant? Could we include that info in each of these.
+- Indebtedness Division (1) 
 - Health care (1)
 
 Participants weren't exposed to the full range of topic labels we'll launch with, so we can't know if they still would have created these labels if they had the full list of learning center categories. For example: Health care is already a category, but not included it in the card sort.  Still, it's helpful to have this understanding of how people think about these topics as we consider future iterations of the learning center.
@@ -447,7 +458,7 @@ Participants weren't exposed to the full range of topic labels we'll launch with
 
 #### SME participants mapped articles to topic labels the way we expected the majority of the time.
 
-5 of 9 (56%) or more people mapped 10 of the 16 articles to our proposed topic label the majority of the time. `Housing assistance and home loans` (94%)  and `VA account and profile ` (70%) had the highest level of agreement overall, with the rest of the topics hovering around 50%.  {Would be helpful to have actual #s here since they are so low.}
+5 of 9 (56%) or more people mapped 10 of the 16 articles to our proposed topic label the majority of the time. `Housing assistance and home loans` and `VA account and profile ` (70%) had the highest level of agreement overall, with the rest of the topics hovering around 50%.  {Would be helpful to have actual #s here since they are so low.}
 
 ##### **Takeaway**
 
@@ -455,7 +466,7 @@ The SME mental model is mostly aligned with ours around topics, and the data doe
 
 #### The articles SME participants most frequently sorted into unexpected topics were related to claims and payments.
 
-The majority of articles that had lower rates of agreement across topics had to do with claims or payments. Most SMEs placed articles with the word "claim" into `Disability`.  `Disability` still applies to those articles, and this trend supports the need for multiple topics to be applied to articles.  One SME created a category called `My VA Claims` for all claim articles. <-- this is SMEs correct? It's under the SME participant section, so just confirming we're not mixing Veteran data into this section.
+The majority of articles that had lower rates of agreement across topics had to do with claims or payments. Most SMEs placed articles with the word "claim" into `Disability`.  `Disability` still applies to those articles, and this trend supports the need for multiple topics to be applied to articles.  One SME created a category called `My VA Claims` for all claim articles.
 
 There wasn't a general consensus about where to put all articles referring to pay or payments; they were put into a variety of categories. `How VA back pay (retroactive benefits) works ` was put into `Other topics and questions` by 5 of 9 SMEs.
 
@@ -472,13 +483,11 @@ In both the topic and audience card sorts, SME participants created topic catego
 
 - Payments and debts  (2)
 - State and local resources (1)
+- State and local government (1)
 - My VA Claim (1)
+- Claim related resources (1)
 - Best practices  (1)
 
-SME participants created topic categories in the audience card sort. 2 of 3 of the self-created categories align with what we saw in the topic card sort: {Not grokking what this sentence means - lost the meaning at "align with what we saw in the topic card sort." }
-
-- State and local government (1)
-- Claim related resources (1)
 - Account management (2)
 
 Claim categories were also created by our Veteran participant group, suggests that a claim-specific topic or learning center category could be helpful to people. 
@@ -512,5 +521,4 @@ The links below will take you to raw results in Optimal Workshop for each card s
 - [Topic categories - SMEs](https://app.optimalworkshop.com/a/adhoc/optimalsort/results/cba2ab93-60d8-4e86-9952-71758ad3b949#/t/results/overview)
 - [Audience categories - SMEs](https://app.optimalworkshop.com/a/adhoc/optimalsort/results/186497d6-4278-4c9f-bdeb-357de3f0e4df#/t/results/overview)
 - [Topic categories - Veterans](https://app.optimalworkshop.com/a/adhoc/optimalsort/results/6927f1e9-ad71-40ed-8da9-6f02779e4d51#/t/results/overview)
-- [Audience categories - Veterans](https://app.optimalworkshop.com/a/adhoc/optimalsort/results/d7531108-0d6d-4351-ab9a-bc31302b75ff#/t/results/overview)
-
+- [Audience categories - Veterans](
