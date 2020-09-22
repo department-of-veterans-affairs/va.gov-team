@@ -446,6 +446,9 @@ If an authorized `vets-api` user is needed for a request to an endpoint, a helpe
 
 Many of the `vets-api` endpoints call out to external services. To mock external service calls, the pact helper has VCR configured for usage. VCR cassettes can be used to mock external service responses for many of the `vets-api` third party service calls. The defined provider state in the [search example](https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.gov%20API/consumer/Search/latest) makes use of a VCR cassette.
 
+***Important***:
+If using cassettes across provider states in the same file, you may want to explicily define the VCR cassette ejection. ```VCR.eject_cassette('search/success_utf8')``` There was a bug noted that the provider state tear downs were ejecting all cassettes and not just the one they load, resulting in odd VCR behavior.
+
 #### Flipper
 In the case that you don't have VCR tapes to cover multiple states for various interactions, you may need to utialize flipper feature toggle functionality. 
 
