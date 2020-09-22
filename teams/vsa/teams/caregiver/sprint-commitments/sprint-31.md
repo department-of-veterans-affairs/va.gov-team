@@ -1,10 +1,10 @@
 # Sprint 31
 
 ## Frontend
+  - Feature toggles for 10/1
   - Save in progress bug
   - Finalize content for 10/1 launch
   - Statement of truth checkboxes
-  - Feature toggles for 10/1
 
 ## Backend
   - Unique SSN/validation
