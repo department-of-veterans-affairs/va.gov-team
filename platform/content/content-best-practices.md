@@ -40,9 +40,9 @@ Plain language uses:
 
 **3. Use words consistently to inspire trust and provide a consistent user experience across VA.gov.**
 
-For example, VA.gov "How to apply" and form introduction pages use repeatable language and design elements on the page. This ensures that users will have a consistent and familiar experience across all of these page types and forms.
+This ensures that users will have a consistent and familiar experience across all of these page types and forms. For example, VA.gov "How to apply" and form introduction pages use repeatable language and design elements on the page.
 
-Page examples:
+Some examples:
 
 [Health care how to apply page](https://www.va.gov/health-care/how-to-apply/) <br>
 [VA pension how to apply page](https://www.va.gov/pension/how-to-apply/) <br>
