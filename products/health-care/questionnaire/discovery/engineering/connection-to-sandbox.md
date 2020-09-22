@@ -22,7 +22,7 @@ hqva_mobile:
   timeout: 15
 ```
 
-The URL in the hqva_mobile configuration setting will be set to the appropriate URL for eihter the sandbox or MAP PGD/Appointment data service
+The URL in the hqva_mobile configuration setting will be set to the appropriate URL for either the sandbox or MAP PGD/Appointment data service
 
 The FHIR client will use the same URL and JWT in it's headers in order to access FHIR resources in such a way as:
 FHIR::Questionnaire.read(id)
