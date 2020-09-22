@@ -48,7 +48,42 @@ User goes to staging link
 - For the purpose of this test, we'll have you use a test account. **Please sign-in using the username and password in the chat.**
 - Now I have a link in chat to the page we're testing; **please click on it.** (Clicks on staging link to the VPH screen)
 
-### Task 1 / Taskname / 5 minutes
+### Task 1 / Identify the bank and account for C&P payments  / 1 minute
+User performs task one...
+- Task 1
+
+#### Things to look for:
+- Things to look for...
+
+### Task 2 / Find the earliest entry / 2 minutes
+User performs task one...
+- Task 1
+
+#### Things to look for:
+- Things to look for...
+
+### Task 3 / Determine the highest EDU payment / 2 minutes
+User performs task one...
+- Task 1
+
+#### Things to look for:
+- Things to look for...
+
+### Task 3A / Move to the last "page" of the table / 5 minutes
+User performs task one...
+- Task 1
+
+#### Things to look for:
+- Things to look for...
+
+### Task 4 / Determine if there are returned payments / 1 minutes
+User performs task one...
+- Task 1
+
+#### Things to look for:
+- Things to look for...
+
+### Task 5 / Identify path to report a missing payment / 3 minutes
 User performs task one...
 - Task 1
 
