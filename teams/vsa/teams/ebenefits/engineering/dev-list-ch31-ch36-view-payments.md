@@ -1,5 +1,5 @@
 # Development Tasks for CH31, CH36, View Payments
-Ascertain remiaining tasks for these features  
+Ascertain remaining tasks for these features  
 ## Chapter 36 (Deadline October 26)
 Based on mean velocities from the past 10 sprints or so, FE and BE should be completed by September 22 (Sprint 30)
 
