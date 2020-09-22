@@ -22,7 +22,7 @@
 
 **Functional:**
 
-- **Clear Wizard Flag on Form Restart:** In the Education (526 and HLR) Forms, the second choice of "Start a new application" opens a modal to confirm, then immediately sends the user to the first page of the form, thus bypassing the introduction page, and more importantly the wizard. Form 526, needs the wizard to save a user's separation date and Form 0996 (HLR) will need to save a Veteran's claim type. The HLR value will be essential when submitting the form. This also occurs with the educational benefits forms where the choice of forms is not reset. The "Start a new application" needs to either preserve the stored wizard form data, or restart the form from the introduction page, and reset the wizard "completed" flag so the wizard is again revealed. (Ticket)[https://github.com/department-of-veterans-affairs/va.gov-team/issues/13814]
+- **Clear Wizard Flag on Form Restart:** In the Education (526 and HLR) Forms, the second choice of "Start a new application" opens a modal to confirm, then immediately sends the user to the first page of the form, thus bypassing the introduction page, and more importantly the wizard. Form 526, needs the wizard to save a user's separation date and Form 0996 (HLR) will need to save a Veteran's claim type. The HLR value will be essential when submitting the form. This also occurs with the educational benefits forms where the choice of forms is not reset. The "Start a new application" needs to either preserve the stored wizard form data, or restart the form from the introduction page, and reset the wizard "completed" flag so the wizard is again revealed. Ticket- https://github.com/department-of-veterans-affairs/va.gov-team/issues/13814
 
 
 ## Pattern clarifications
