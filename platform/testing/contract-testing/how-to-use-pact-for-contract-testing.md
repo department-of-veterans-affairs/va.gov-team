@@ -550,6 +550,8 @@ When the pact verification task runs in CircleCI (via the build or verification 
 
 ### Pact FAQ
 
+Additional Complex Questions are documented in  the [FAQ](https://docs.pact.io/faq/)
+
 #### Can I generate my pact file from something like Swagger?
 
 #### Why doesn't Pact use JSON Schema?
