@@ -541,3 +541,5 @@ The CircleCI build for vets-api is still under construction with respect to para
 The pact verification functionality is in working order for developer usage when a commit is pushed or when invoked via webhook from the pact broker during a contract content changed event. 
 
 When the pact verification task runs in CircleCI (via the build or verification workflow), verification results are pushed back to the broker after the workflow completes.
+
+#### CircleCI and the Build Process
