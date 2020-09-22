@@ -9,9 +9,9 @@ Form users are: Veterans, Veteran family members, Veteran caregivers, VA employe
 
 -----
 
-At the beginning of form work, the product team holds a kickoff to determine discovery steps and project end goal (for example, goal is to allow Veterans to fill out and submit a disability compensation form online).
+At the beginning of form or tool work, the product team holds a kickoff to determine discovery steps and project end goal (for example, goal is to allow Veterans to fill out and submit a disability compensation form online).
 
-1. As part of this discovery work, product teams have meetings with VA form stakeholders. Content writer/editor should be a part of this meeting to better understand the following: 
+1. As part of this discovery work, product teams have meetings with VA form stakeholders. The content writer/editor should be a part of this meeting to better understand the following: 
 - Is the paper form currently undergoing revisions? 
 - Identify use cases for the form. Who uses the form and why and when? 
 - What kind of communication or follow up happens after the form is submitted? How are updates communicated to the Veteran? 
@@ -47,8 +47,8 @@ Content editor begins to create an outline for the form and a list of copy needs
 - What form question/labels need a plain language edit?  
 - Refer to the VA.gov form label masterlist to see if a label or question has already been standardized or gone through plain language edit. <br>
 [See VA.gov form label masterlist of plain language form fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/VA.gov-form-labels.md) 
-- Discuss what content you need to write for the form Introduction page
-- Discuss what content you need to write for the form Confirmation page
+- Discuss content that will go on the form Introduction (subway map) page
+- Discuss content that will go on the form Confirmation page
 
 **CONTENT and DESIGN**: 
 Discuss the entry and exit points for the form/tool. How will users get to it? Please loop in I/A for this discussion. 
@@ -62,17 +62,17 @@ Discuss the entry and exit points for the form/tool. How will users get to it? P
 Discuss if any specific error messaging need to be written for the form/tool or can you pull messaging from our [Error message dictionary](https://design.va.gov/patterns/messaging-dictionary).
 
 
-## Plain-language editing and prototype
+## Content review/edit and prototype
 
 -----
 
-Content editor does a plain-language edit on the form/tool outline in Github. Using the edited outline, designer creates a high-fidelty prototype of the form/tool. 
+**CONTENT EDITOR** does a plain-language and VA.gov voice/tone edit on the form/tool outline in Github. Using the edited outline, designer creates a high-fidelty prototype of the form/tool. 
 
-Content editor also begins to write the form’s Introduction and Confirmation pages following guidance here:<br> 
+**CONTENT EDITOR** begins to write the form’s Introduction and Confirmation pages following guidance here:<br> 
 [Form introduction page template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-introduction-page-template.md) <br>
 [Form confirmation page guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-confirmation-page.md)
 
-**Product team PM** schedules a pre-usability check in with the VSP Platform team once the mockup is ready for review and before user testing sessions begin. 
+**PRODUCT TEAM PM** schedules a Collaboration Cycle Pre-usability review with the VSP Platform team once the mockup is ready for review and before user testing sessions begin. 
 
 
 ## Usability testing
@@ -81,11 +81,12 @@ Content editor also begins to write the form’s Introduction and Confirmation p
 
 We usually do several rounds of usability testing. For the first test, we use the prototype. 
 
-Content writer/editor should attend some usability sessions so they can look out for language or instructions that still might be unclear, and for questions or labels that need further tweaking.
+**CONTENT WRITER** should attend some usability sessions so they can look out for language or instructions that still might be unclear, and for questions or labels that need further tweaking.
 
 [Guidance on observing research sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md)
 
-Content writer should update the form Github outline with any content iterations or feedback that comes out of usability testing and research synthesis reports. This is to ensure we are tracking content revisions and feedback in **one single outline** (not in the protoype mockup). 
+**CONTENT WRITER** should update the form Github outline with any content iterations or feedback that comes out of usability testing and research synthesis reports. This is to ensure we are tracking content revisions and feedback in **one single outline** (not in the protoype mockup). 
+
 [Research synthesis how to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/synthesis/how-to-do-research_synthesis.md)
 
 
@@ -99,14 +100,15 @@ Finalize form URL and the URL for any new static pages that need to be created. 
 
 Once usability sessions are complete and usability feedback/iterations have been implemented into the form Github outline, developers will use this outline to build out the online application in code.  
 
-1. As chapters are built, developer should assign content writer/editor and designer as reviewer. 
+1. As chapters are built, developer should assign **CONTENT WRITER or EDITOR** as reviewer. 
 2. Content writer/editor review PRs and provide additional edits, as needed. 
 
 #### Revision rounds
 
-Content editor continues to review PRs and provide edits until all changes have been correctly input. 
+**CONTENT WRITER** continues to review PRs and provide edits until all changes have been correctly input. 
 
-## Staging review
+
+## VSP Staging review
 
 -----
 
@@ -120,12 +122,10 @@ Content editor looks again at the form in staging. It should include the full fl
 - Form Confirmation page
 
 This proofread pass is to ensure all edits made in the individual chapter screens make sense with the overall form flow and functionality.
-
-Content editor will upload all proofread changes to a e2e proofread ticket for the developer to implement. 
 Once changes are implemented, the content editor should review screens again to ensure all changes have been correctly input.
 
 
-**Product team PM** schedules a staging review with the VSP Platform team before form's launch.
+**PRODUCT TEAM PM** schedules a Collaboration Cycle Staging review with the VSP Platform team before form or tool launches.
 
 
 
