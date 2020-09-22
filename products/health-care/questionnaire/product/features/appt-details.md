@@ -41,6 +41,8 @@ Encounter for Appointment to match our questionnaire to the clipbaord
 
 - [Notes with VetText team for Technical Implementation Options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/vetext-meeting-sept18.md) 
 
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/assets/clipboard-VEText.jpg" width="500">
+
 ## Accessibility Checklist
 
 <details> 
