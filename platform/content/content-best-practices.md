@@ -32,11 +32,14 @@ Plain language uses:
 -	Bulleted lists and bolded subheads to organize or “chunk” content in a scannable way
 -	A conversational style, with questions in the first person (For example, "How can I get these benefits?") and answers in the second person (i.e., "You'll need to apply for benefits").  
 
+-----
+
 **2. Make the writing conversational.**
 
 - Use everyday words and pronouns to speak to the user.  Use “you” to address the user and help them understand what they need to do. Please avoid using “he” and “she.”
 - Write as if you're  having a conversation with the Veteran. So, use "I" for questions that the Veteran would ask; and "you" when responding or referring to the Veteran. So for questions that the Veteran would ask the style is to use "I".
 
+-----
 
 **3. Use words consistently to inspire trust and provide a consistent user experience across VA.gov.**
 
@@ -52,12 +55,14 @@ Some examples:
 [VA pension form introduction page](https://www.va.gov/pension/application/527EZ/introduction) <br>
 [Disability compensation form introduction page](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction) <br>
 
+-------
 
 **4. Organize content in clear and scannable “chunks.”**
 
 - Break down complex information so it's easy for the user to understand and digest the information. This helps guide them through the information step by step without overwhelming them.  Keep sentences and paragraphs short.	Aim for sentences that have only 1 main message.
 - Single-focused questions also help lower cognitive load.
 
+--------
 
 **5. Be empathetic.**
 
@@ -85,6 +90,8 @@ homeless Veterans
 </div>
 </div>
 
+------
+
 **6. Consider defining military or VA terms that may be familiar to Veterans, but not to their dependents.**
 
 Veterans aren’t the only ones visiting VA.gov — their spouses, children, and other family members may also be looking for information about VA benefits and services.
@@ -95,12 +102,16 @@ Veterans aren’t the only ones visiting VA.gov — their spouses, children, and
 - Define longer definitions in separate sentence.
 *For example: "If you can’t work because of a service-connected disability, you may be able to get the same benefits as a 100% disabled Veteran, regardless of your rating. This is called being individually unemployable."*
 
+-----
+
 **7. Avoid generic CTA links like “Learn more,” “See more,” and “Read more.**
 
 - Be as specific as possible when directing users to new link or page. 
 
     Instead of *"Learn more"*  Use:  *"Learn more about X" <br>*
     Instead of *"Visit the website"* Use: *"Visit the [name of page/group/organization] website"*
+    
+--------   
 
 
 **8. Cut and paste any feedback you receive from a content writer or editor.**
