@@ -543,3 +543,10 @@ The pact verification functionality is in working order for developer usage when
 When the pact verification task runs in CircleCI (via the build or verification workflow), verification results are pushed back to the broker after the workflow completes.
 
 #### CircleCI and the Build Process
+
+
+### FAQ
+
+#### Can I generate my pact file from something like Swagger?
+
+#### Why doesn't Pact use JSON Schema?
