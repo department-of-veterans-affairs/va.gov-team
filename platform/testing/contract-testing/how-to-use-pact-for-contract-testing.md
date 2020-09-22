@@ -104,6 +104,12 @@ Pacts are namespaced per consumer in the broker and on the backend in the provid
 The [search example](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/provider_states_for/search.rb) interaction explicitly states that “at least one matching result exists” and describes what’s expected for the interaction to be successful.  
 
 
+#### Naming Collisions
+
+Interaction/provider state naming collisions will NOT exist outside of a consumer namespace, but could exist within the same consumer namespace. Ex: If a Search contract has an interaction defined as “test interaction” and the User contract has defined interaction of “test interaction” a naming collision will not exist because the two interactions exist within separate consumer namespaces. 
+
+The above described collision COULD exist within the same consumer namespace, so developers need to be explicit as to the state of the interaction when developing interactions within a consumer namespace. E.g. Search
+
 ### FE/BE Communications
 
 When in the development process, FE and BE engineers may need to organize communication efforts. The pact workflow is a collaborative effort that developers will need to iterate on. As a first step in the process, the FE engineer will push a pact to the broker. The BE engineer will then use the pact from the broker to set up a matching provider state(s). Provider states follow strict naming conventions for the given consumer and its respective interactions. Often times, there will need to be adjustments to the expected response/requests defined in the pact following verification on the backend. 
