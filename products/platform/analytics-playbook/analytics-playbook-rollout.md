@@ -8,6 +8,8 @@ VFS product managers and product owners
 
 **Early Adopters**: DEPO or new-to-VFS product managers
 
+[Feedback Doc](https://docs.google.com/document/d/1cUXw7Zt0RFppnQ6ZJEntgZGzadFWMGrN2UtwDvClxTM/edit)
+
 ## Phase 1 - 10% of VFS PMs/POs
 
 #### User Goals/AC
