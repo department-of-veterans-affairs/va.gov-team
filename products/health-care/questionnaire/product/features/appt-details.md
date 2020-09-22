@@ -33,10 +33,13 @@ Encounter for Appointment to match our questionnaire to the clipbaord
 6.  Questionnaire Trigger - VAOS/CPRS - association of facility/encounter to trigger questionnaire that applies.
 
 
+
 ## Mockup
 <img src="insertimage embedded" width="500">
 
 # Technical Documentation 
+
+- [Notes with VetText team for Technical Implementation Options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/vetext-meeting-sept18.md) 
 
 ## Accessibility Checklist
 
