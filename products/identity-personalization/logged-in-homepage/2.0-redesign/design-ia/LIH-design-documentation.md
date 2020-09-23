@@ -48,7 +48,7 @@ Includes links to Stories, Data Points, Invision High-level Wireframe Concepts:
 Meeting date: 09/15/20  
 Attendees: Matt, Samara, Tressa, Cassandra, Sandra, Eric
 
-### Feedback
+#### Feedback
 - Create tabbed version 
 - Create navigation version
 - Add content to shortcuts for Claims & Appointments
@@ -57,7 +57,7 @@ Attendees: Matt, Samara, Tressa, Cassandra, Sandra, Eric
 - Remove flashy treatments (Veterans aren't looking for flashy treatments they just want to check account balances or claim status)
 - Remove accordion treatment from desktop, show cards and content as open
 
-### Resources
+#### Resources
 
 [How to design a better dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/logged-in-homepage/my-va/research/articles)
 
