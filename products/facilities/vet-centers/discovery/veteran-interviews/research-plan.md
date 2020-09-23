@@ -51,7 +51,7 @@ We will utilize the Perigean contract recruiting. We'd like to schedule 30 parti
     [ ] Received referral help from Vet Center staff for benefits or services 
 
   **Vet Center Definition:**
-  Vet Centers are unique VA facilities, separate from VA Medical Centers, benefit offices, VFWs, etc. If unsure, please visit [Vet Center's website: https://www.vetcenter.va.gov]](https://www.vetcenter.va.gov/)
+  Vet Centers are unique VA facilities, separate from VA Medical Centers, benefit offices, VFWs, etc. If unsure, please visit [Vet Center's website: https://www.vetcenter.va.gov](https://www.vetcenter.va.gov/)
 
 #### Secondary criteria / Would like to have - 
 
