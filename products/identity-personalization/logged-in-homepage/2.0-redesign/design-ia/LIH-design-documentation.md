@@ -7,7 +7,7 @@ Designers: Cassandra, Tressa
 ## Iteration 2 - Sprint 30
 
 ### Designs
-Includes links to Invision highlevel wireframe concepts:
+Includes links to Invision Highlevel Wireframe Concepts:
 
 [Mobile Invision Screens](https://cassandraallen738782.invisionapp.com/overview/HP-mobile-logged-in-ckeyhydog01kz01xd3tao5pcj/screens/22766369)
 
@@ -29,7 +29,7 @@ Outcomes
 ## Iteration 1 - Sprint 30
 
 ### Designs
-Includes links to Stories, Data Points, Invision highlevel wireframe concepts:
+Includes links to Stories, Data Points, Invision Highlevel Wireframe Concepts:
 
 [Mobile Invision Screens](https://cassandraallen738782.invisionapp.com/overview/HP-mobile-logged-in-ckeyhydog01kz01xd3tao5pcj/screens/22766368)
 
