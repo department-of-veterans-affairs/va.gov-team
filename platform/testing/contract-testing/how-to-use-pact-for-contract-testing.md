@@ -131,9 +131,8 @@ In the search example, an interaction exists for the search contract with the na
 On the [backend](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/provider_states_for/search.rb), a provider state matching the search consumer will need to be set up as an exact match the interaction defined in the pact
 If an adjustment needs to be made to a request/response defined in a pact, then the communication efforts will need to be coordinated between FE and BE engineers. 
 
-
 #### Communication and Interaction
-Once the BE engineer runs the pact verification task, possible adjustments to the expected requests and responses defined in the pact may be needed. BE and FE engineers will need to communicate pact request/response adjustments as necessary during the development process. Pact again is a collaborative effort and by no means does it amount to the team writing the tests getting to write the pact without collaborating with the backend team. The pact development process should have equal efforts from the respective backend and frontend team members. 
+Once the BE engineer runs the pact verification task, possible adjustments to the expected requests and responses defined in the pact may be needed. BE and FE engineers will need to communicate pact request/response adjustments as necessary during the development process. Pact again is a collaborative effort and by no means does it amount to the development process being one sided. The development iterations should have equal efforts from the respective backend and frontend team members. 
 
 
 #### Response Types and Matching
