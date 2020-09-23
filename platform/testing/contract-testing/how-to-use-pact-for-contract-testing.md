@@ -584,6 +584,11 @@ Every build of vets-website publishes pacts, tags the version with the name o
 * If this vets-website build wouldn't break with the vets-api currently in production, the deploy will go out as usual. pact-broker can-i-deploy -a 'App Name' --version $COMMIT_HASH -a 'VA.gov API' --latest prod. After deploying vets-website to production, tag this version as prod.
 
 
+#### Frontend
+If verification was successful, the CI pipeline will proceed to deploy. If it failed, the pipeline will stop the deploy. For a feature branch, a successful verification allows a PR to be merged while a failed verification blocks a PR from merging. If the CI job responsible for the verification task fails to publish the verification results, the can-i-deploy check would also fail, since it's looking for a passing verification. It would be possible to re-run the verification task job in Circle CI in the event that it fails.
+
+#### Backend
+The above steps apply to changes made from the FE. Assuming the pacts are already in place, the only relevant step for the BE CI pipeline is running the verification Rake task to ensure that any API changes don't break existing contracts in the appropriate environments.
 
 
 ### Pact FAQ
