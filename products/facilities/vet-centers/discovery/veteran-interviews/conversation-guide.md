@@ -9,7 +9,7 @@
 
 ## Intro - 3 minutes
 
-Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes.
+Thanks for joining us today! My name is Leyda. I also have some colleagues on the line observing and taking notes.
 Today we're going to talk about Vet Centers. We're trying to learn about Veteran and service member experiences with Vet Centers.
 
 Before we start, a few things I want to mention:
