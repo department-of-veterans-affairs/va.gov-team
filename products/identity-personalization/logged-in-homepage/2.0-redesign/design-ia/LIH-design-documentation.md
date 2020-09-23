@@ -21,7 +21,7 @@ Includes links to Invision High-level Wireframe Concepts:
 Meeting date: 09/21/2020  
 Attendees: Samara, Tressa, Cassandra
 
-Outcomes
+### Outcomes
 - Overall positive feedback based on the revised versions
 - Some concern about tabbed and side nav version for when user has no content seems like scrolling card versions is a better solution
 - Ready for Design Intent meeting with Platform team this week
@@ -48,7 +48,7 @@ Includes links to Stories, Data Points, Invision High-level Wireframe Concepts:
 Meeting date: 09/15/20  
 Attendees: Matt, Samara, Tressa, Cassandra, Sandra, Eric
 
-Feedback
+### Feedback
 - Create tabbed version 
 - Create navigation version
 - Add content to shortcuts for Claims & Appointments
@@ -57,7 +57,7 @@ Feedback
 - Remove flashy treatments (Veterans aren't looking for flashy treatments they just want to check account balances or claim status)
 - Remove accordion treatment from desktop, show cards and content as open
 
-Resources
+### Resources
 
 [How to design a better dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/logged-in-homepage/my-va/research/articles)
 
