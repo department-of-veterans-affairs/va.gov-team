@@ -7,6 +7,20 @@
 See summary of findings from search.gov call wrt learning center search: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/search-feature-inside-LC/README.md#summary-of-call-with-searchgov-on-918
 
 
+## 9/22/20 
+
+From CMS weekly call. 
+
+Decisions re:
+
+-  __CTA buttons in the CMS for LC:__ We don't need any special CMS modifications in order to link ppl from a CTA button to sign in. Nick confirmed that we can link to this URL https://www.va.gov/?next=%2Fprofile%2F - this link opens the sign in modal and takes the user to their profile dashboard.
+
+-  __Landing pages for 'all articles in X category' or 'tagged: Y' use cases:__ These will be rendered by FE logic pulling from CMS meta data for categories and tags. These will not be dynamic pages rendered by search.gov engine. 
+
+- __Nick and Kelson on PW to confirm by Sept 30 that we can use GraphQL__ data to create the ^ static landing pages. (See description of [requirements for the 'all articles in X cateogory' and 'tagged: Y' landing pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/view-all-articles-in-X-category-landing-pg-requirements.md).) 
+
+
+
 
 ## 09/18/20
 
