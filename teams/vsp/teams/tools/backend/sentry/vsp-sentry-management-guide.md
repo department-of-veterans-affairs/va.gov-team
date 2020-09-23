@@ -77,24 +77,26 @@ In an effort to allow VFS teams to “own” their Sentry teams, VSP engineers a
 
 When a new VFS team goes through orientation, most of the setup process is done by the team or engineering lead. However, VSP engineers are responsible to assign the correct permissions to a team lead or project manager on the new VFS team so they can create and manage a new Sentry team on a per project basis.
 
-- 2FA is not required, though it is recommended. 
-- http://sentry10.vfs.va.gov/settings/vsp/members/
-- Members can view and act on events, as well as view most other data within the organization. Most VFS engineers will be members, and it is the default user level.
-- Admin can manage teams and projects, as well as manage membership of teams that they are members of. The VFS team lead will hold this permission level.
-- Manager gains admin access on all teams, and is functionally the same as Admin when open membership is enabled.
-- Owner has unrestricted access to the organization, data, and settings. Can add, modify, and delete projects and members as well as manage other configuration. VSP engineers have Owner roles assigned. 
-
-VFS teams are welcome to configure their 
-
 #### VFS team removal
+
 When a VFS team leaves the Platform, VSP engineers will be responsible for verifying that the Sentry team is removed and team member permissions are adjusted or removed.
 
 #### Team naming structure 
+
 Sentry follows the naming conventions and team structuring defined in our current GitHub teams [documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/vsp_user_managment_process.md).
 
     team name: vfs-`[team name here]`
 
 ### Sentry members
+
+- 2FA is not required, though it is recommended. 
+- See member list [here](http://sentry10.vfs.va.gov/settings/vsp/members/)
+
+#### Role Definitions
+- **Members** can view and act on events, as well as view most other data within the organization. Most VFS engineers will be members, and it is the default user level.
+- **Admins** can manage teams and projects, as well as manage membership of teams that they are members of. The VFS team lead will hold this permission level.
+- **Managers** gain admin access on all teams, and is functionally the same as Admin when open membership is enabled.
+- **Owners** have unrestricted access to the organization, data, and settings. Can add, modify, and delete projects and members as well as manage other configuration. VSP engineers have Owner roles assigned. 
 
 ### Sentry integrations
 
