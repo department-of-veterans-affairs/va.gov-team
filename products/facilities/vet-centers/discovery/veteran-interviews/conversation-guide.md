@@ -6,19 +6,18 @@
 
 - [ ] Notifications off
 - [ ] Turn off waiting room feature in Zoom
-- [ ] [Link to Prototype]
 
 ## Intro - 3 minutes
 
 Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes.
-Today we're going to talk about...
+Today we're going to talk about Vet Centers. We're trying to learn about Veteran and service member experiences with Vet Centers.
 
 Before we start, a few things I want to mention:
 
 - **This entire session should take about 45 minutes.** 
-- **First, I'll ask you a few warm up questions to get us started.**
-- **Then, I'll be sharing a link to a prototype and ask you to share your screen.** We'll look at a protoype together and I will ask you questions about it.
-- **In this session, we want to hear your honest opinions.** We are not testing you, instead we are testing the website to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+- **This session is going to resemble an interview where I will ask you many questions about your experience with Vet Centers.** There are no right or wrong answers, this is purely to guage actual client experiences. If at any time you don't feel comfortable answering a question, we can move on to the next question. 
+- **Toweards the end of our time, I'll share my screen and we'll look at a website together and I will ask for your opnion on certain items.** 
+- **In this session, we want to hear your honest opinions.** We are not testing you, instead we are testing our products and services to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
@@ -29,12 +28,23 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions - 5 minutes
 
-- Can you tell me a little about your service history?
+- Can you tell me briefly about your service history?
 
+#### Learning about Vet Centers: 
 
+Are you familiar with Vet Centers? 
 
-#### Questions:
+    If no, see “Contingency Plan” 
 
+What has been your experience with a Vet Center, if any? 
+
+When did you first learn about Vet Centers? 
+
+    How did you first learn about them? 
+
+How did you go about finding the location of your Vet Center before you first visited? 
+
+Could finding your Vet Center have been easier in any way?
 
 
 ### Scenario
