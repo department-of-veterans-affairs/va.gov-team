@@ -1,4 +1,4 @@
-# VSP Collaboration Cycle
+# MOBILE Collaboration Cycle
 
 So you’re starting a new project — congratulations! This is a guide to required Veteran-facing Services Platform (VSP) collaboration points, written for all Veteran-facing Services (VFS) teams building on VA.gov. VSP’s mission is to provide a framework comprised of systems, tools, processes, documentation, and customer support, that helps VFS Teams create successful VA.gov products.
 
