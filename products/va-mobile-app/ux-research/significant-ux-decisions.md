@@ -1,6 +1,7 @@
 # Significant UX Decisions
 
-Last updated: September 18, 2020 
+Last updated: September 23, 2020 
+_Decisions made Monday September 21 in alignment between Bridget, Ryan, Martha, Steve, Sophie_
 
 # Background and goals
 In discovery work beginning March 2020, we determined that Veterans desire a VA mobile app with authenticated features. Through tech and design discovery we decided on an MVP feature set. We are now designing the UX/UI for the MVP app, which will be built in React Native for iOS and Android. 
@@ -14,24 +15,24 @@ Document significant UX/UI decisions for the MVP and our rationale for making th
 
 # UI decisions
 
-### We will use system fonts and heavily leverage platform components. 
+### We will use VA fonts (Source Sans and Bitter) and heavily leverage iOS and Android platform components. 
 Because our scope is an MVP, we want to spend energy on features and login, not customizations. This led us to decide to use system fonts and heavily leverage platform components after exploring the following three design directions listed below:  
 
 **Option 1**
 - **Font:** Source Sans Pro and Bitter Bold
 - **UI components:** Heavily use VA design library components
 
-**Option 2:** 
-- **Font:** A mix of system fonts plus VA fonts
+**Option 2 (what we're moving forward with):** 
+- **Font:** Source Sans Pro and Bitter Bold
 - **UI components:** Heavily use platform components, sparingly use VA design library components
 
-**Option 3 (what we're moving forward with):** 
+**Option 3:** 
 - **Font:** Heavily use system fonts with a tiny bit of Bitter bold included
 - **UI components:** Heavily use platform components, sparingly use VA design library components
 
 Our rationale for moving forward with **Option 3** is the following: 
 1. From a front-end perspective, this decision allows us to launch an MVP as quickly as possible and focus on including more features rather than customizing the app UI. 
-2. From a design perspective, this allows us to quickly design the UX/UI without creating a mobile-specific version of the VA design library in a rushed, unofficial way. Eventually, we anticipate redesigning the app to look even more like VA (likely when we do a rewrite), however when we do that we would like to be able to meet the following criteria:
+2. From a design perspective, this allows us to quickly design the UX/UI that feels like an MVP balance of **VA design** plus **platform design** without creating a mobile-specific version of the VA design library in a rushed, unofficial way. Eventually, we anticipate redesigning the app to look even more like VA (likely when we do a rewrite), however when we do that we would like to be able to meet the following criteria:
     - We have capacity and time to do the design explorations and decision-making needed to craft a meaningful and comprehensive VA mobile style guide. The mobile app team does not have the capacity to dedicate time to creating a mobile-specific style guide as part of our MVP timeline. 
     - The owners of the VA design system each and any other design stakeholders who would like to be involved with the review of mobile design have capacity to do so.
 
@@ -39,9 +40,12 @@ Our rationale for moving forward with **Option 3** is the following:
 ### We will integrate a few choice elements from the VA design library to help the app feel like VA. 
 As noted in the above decision, we expect to use some components from the VA design library sparingly to help the app feel like the VA app. These components include:
 
-1. **Profile Header:** The profile header uses Bitter Bold and lists a user's name and branch of the military. We anticipate using this on the Profile menu, Personal and Contact Information, Military Information, and Direct Deposit. We feel this is a good place to bring in an element users might find familiar from VA.gov to help communicate that when a user updated information within their profile from the VA mobile app, their information will also be updated on VA.gov. In usability testing, we found that users wanted more clarity between how the app and VA.gov would relate to each other. This UI design decision reinforces the relationship.  
-2. **The Claim Status Tool 5 step subway map:** The Claim Status Tool timeline will help reinforce the relationship between the Claim Status Tool on VA.gov and the one within the app. Using this element in the app will ensure that across both properties we're relaying the exact same progress information to users, and we feel this decision will avoid creating confusion that could lead to more calls regarding claim status. We anticipate using this on all claim detail pages. 
-3. **Alerts**: Platform libraries do not have a great out of the box component for handling alert messages when we want a user to see important information on a page. We know that alerts are used heavily on VA.gov and that we will have content in our app that is presented to users as an alert on VA.gov. We want to have a component that will allow us to convery alert information in a screen without having to use a  modal, which is the primary alert pattern on mobile. 
+1. **Profile Header:** The profile header lists a user's name and branch of the military. We anticipate using this on the Profile menu, Personal and Contact Information, Military Information, and Direct Deposit. We feel this is a good place to bring in an element users might find familiar from VA.gov to help communicate that when a user updated information within their profile from the VA mobile app, their information will also be updated on VA.gov. In usability testing, we found that users wanted more clarity between how the app and VA.gov would relate to each other. This UI design decision reinforces the relationship.  
+
+2. **The Claim Status Tool 5 step subway map:** The Claim Status Tool timeline will help reinforce the relationship between the Claim Status Tool on VA.gov and the one within the app. Using this element in the app will ensure that across both properties we're relaying the exact same progress information to users, and we feel this decision will avoid creating confusion that could lead to more calls regarding claim status. We anticipate using this on all claim detail pages.
+
+3. **Alerts**: Platform libraries do not have a great out of the box component for handling alert messages when we want a user to see important information on a page. We know that alerts are used heavily on VA.gov and that we will have content in our app that is presented to users as an alert on VA.gov. We want to have a component that will allow us to convery alert information in a screen without having to use a  modal, which is the primary alert pattern on mobile.
+
 - _As more UI decisions are finalized, more components and rationale for including them in the MVP app may be added here._
 
 
@@ -91,12 +95,15 @@ We also want to use this project as an opportunity to document what we learn abo
 ----
 
 
-# Decisions still being made
-
-## Content decisions
+# Content decisions
 
 ### We will include the Veterans Crisis line on the unauth homescreen and on the auth homescreen.
-There has been some discussion about how prominent the Veterans Crisis Line should be. Our point of view is that although the Veterans Crisis Line overall sees less traffic than Claims and Health features on VA.gov, it should be accessible very easily in the event a user ever needs it. We propose doing this by including the VCL on the homescreens, not as a navigation item in the bottom toolbar due to space restrictions. We welcome other points of view and collaboration on this. 
+There has been some discussion about how prominent the Veterans Crisis Line should be. Our point of view is that although the Veterans Crisis Line overall sees less traffic than Claims and Health features on VA.gov, it should be accessible very easily in the event a user ever needs it. We propose doing this by including the VCL on the homescreens, not as a navigation item in the bottom toolbar due to space restrictions. 
+
+
+----
+
+# Decisions still being made
 
 ### Can we include any more features in the MVP outside what is currently on the living information architecture?
 We have had conversations with SMEs at VA and are continuing to talk to teams working on other features that our app will include. As part of talking to these teams, we are open to learning that there are other "low hanging fruit" features that are highly valuable to Veterans, fit within the MVP purpose of our app, and are technically feasible. One example of this may be direct deposit payment information or COVID-19 specific features such as the screener. Our goal is to build and launch an MVP quickly, so we don't anticipate adding a lot more, however we may be able to add light items and those decisions will continue to unfold between now and November. We're also open to these teams leading _us_, and taking the point of view that our app will replicate VA.gov features and bring a layer of unique mobile functionality (for example camera upload, push notifications). We do not want to redesign anything or make too many changes to features that are on VA.gov, and instead will look to other VFS teams and their ongoing work to inform UX/UI decisions in the app.  
