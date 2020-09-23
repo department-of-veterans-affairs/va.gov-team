@@ -1,5 +1,6 @@
 # LIH Design Documentation
 Link to product brief:  
+
 Designers: Cassandra, Tressa
 
 
