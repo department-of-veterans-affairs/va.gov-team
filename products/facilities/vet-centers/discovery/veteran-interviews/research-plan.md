@@ -38,8 +38,8 @@ We will utilize the Perigean contract recruiting. We'd like to schedule 30 parti
 
 - Is or was a client of a Vet Center (user screener question) 
 
-**Screener question:**
-Are you currently or have you ever been a client of a Vet Center whereby you have participated in any of the following? (Answer must be yes)  
+  **Screener question:**
+  - Are you currently or have you ever been a client of a Vet Center whereby you have participated in any of the following? (Answer must be yes)  
 
 [following checkboxes] 
 
