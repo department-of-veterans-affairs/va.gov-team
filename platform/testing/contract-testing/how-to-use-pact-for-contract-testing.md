@@ -135,6 +135,8 @@ If an adjustment needs to be made to a request/response defined in a pact, then 
 
 #### Communication and Interaction
 Once the BE engineer runs the pact verification task, possible adjustments to the expected requests and responses defined in the pact may be needed. BE and FE engineers will need to communicate pact request/response adjustments as necessary during the development process.
+### Additional Information 
+#### Response Types and Matching
 ## Configuring the `vets-website` consumer codebase 
 
 ### Running contract tests
