@@ -34,13 +34,13 @@ Before we start, a few things I want to mention:
 
 - Are you familiar with Vet Centers? 
 
- - If no, see “Contingency Plan” 
+  - If no, see “Contingency Plan” 
 
 - What has been your experience with a Vet Center, if any? 
 
 - When did you first learn about Vet Centers? 
 
- - How did you first learn about them? 
+  - How did you first learn about them? 
 
 - How did you go about finding the location of your Vet Center before you first visited? 
 
@@ -65,22 +65,60 @@ Before we start, a few things I want to mention:
 - Have you visited multiple Vet Centers? 
 
   - If yes, what makes you choose one over the other? 
+  
+## A client’s concept of a Vet Center: 
 
-### Scenario
-In this next scenario, 
+- How would you describe what a Vet Center is to a friend who hasn’t heard of them? 
+
+- Who would benefit from calling or visiting a Vet Center? 
+
+- How would you describe eligibility requirements to a friend? 
+
+- How would you compare Vet Centers to other VA facilities? 
+
+- Have your expectations or opinions of Vet Centers changed since you first learned about them? 
 
 
-#### Questions:
-- 
+## Scenario: A friend is having a rough time
+
+I'd like you to imagine a scenario: 
+
+- You have a friend, a fellow [Veteran, service member], who you’ve noticed has been going through a rough time. You think he or she might benefit from visiting a Vet Center. What would be important for them to hear or to understand about a Vet Center to make them want to call or visit?
+
+- What would deter them from calling or visiting a Vet Center? 
+
+
+## Services critique: 
+[Show Vet Center Detail page](https://www.va.gov/find-locations/facility/vc_0304V)
+
+- What do you think about the list of services on this page?  
+
+- Does this list match your experience and knowledge of a Vet Center? 
+
+- Could any of the services be renamed or changed to be more reflective of your experience? 
+
 
 ## Post-Task Interview - 5 minutes
 
-I have just a couple more questions before we finish up:
+- Do you have any questions for me?
 
-- 
 
 ## Thank-You and Closing - 2 minutes
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to improve our products and services for Veterans and service members.
 
 Great, well thank you so much again, and enjoy the rest of your day!
+
+--- 
+
+## Contingency plan:  
+
+If no experience with Vet Center, [Show Vet Center website](https://www.vetcenter.va.gov/)
+
+- What can you tell me about a Vet Center? 
+
+- What kind of services would you find most useful? 
+
+- What would compel you to call or visit a Vet Center? 
+
+- How would you like to have been informed that these services existed? 
