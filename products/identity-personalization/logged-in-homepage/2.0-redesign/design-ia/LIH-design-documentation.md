@@ -54,31 +54,12 @@ https://cassandraallen738782.invisionapp.com/overview/HP-desktop-logged-in-ckf3q
 
 ### Feedback & Outcomes
 
-#### Meeting Title (e.g. "Initial Presentation to Team") :
-Meeting date: XX/XX/XXXX  
-Attendees: Name, Name, Name 
+#### Initial Presentation to Team:
+Meeting date: 09/15/20  
+Attendees: Matt, Samara, Tressa, Cassandra, Sandra, Eric
 
 Outcomes
 - Bulleted list of outcomes 
 - Bulleted list of outcomes
 - Bulleted list of outcomes
-
-Resources
-- e.g. link to research readout 
-- or other resources that came up
-
-#### Meeting Title (e.g. "VSP Design Intent Collaboration") :
-Meeting date: XX/XX/XXXX
-Attendees: Name, Name, Name 
-
-Outcomes
-- Bulleted list of outcomes 
-- Bulleted list of outcomes
-- Bulleted list of outcomes
-
-Resources
-- e.g. link to research readout 
-- or other resources that came up
-
-
 
