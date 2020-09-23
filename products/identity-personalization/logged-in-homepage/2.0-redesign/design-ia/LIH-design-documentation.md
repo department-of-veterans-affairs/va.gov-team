@@ -54,7 +54,7 @@ Attendees: Matt, Samara, Tressa, Cassandra, Sandra, Eric
 - Add content to shortcuts for Claims & Appointments
 - Add a link to Disability Rating
 - Add VA headers and footers on all screens
-- Remove flashy treatments (Veterans aren't looking for flashy treatments they just want to check account balances or claim status)
+- Remove flashy treatments (Veterans aren't looking for flashy treatments they just want to check account balances or claim status etc)
 - Remove accordion treatment from desktop, show cards and content as open
 
 ##### Resources
