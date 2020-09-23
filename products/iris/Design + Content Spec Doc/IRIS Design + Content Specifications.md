@@ -20,8 +20,6 @@ The most updated version of the full prototype will be added as it is built - pl
 
 Documentation containing descriptions, interaction notes, and content for each chapter's pages is included below or on the stories.
 
-- **Drupal content pages** 
-   - [Drupal content pages](LINK) note we're not sure if this is going to be a new Contact us experience on Drupal or not - discussion with public team may address this?
 - **Introduction Screen**
    - Page 1: [Introduction section] - TBD if we need the intro screen as this may not be an official form
 - **Chapter 1: [Main Page, Inquiry Details]**
