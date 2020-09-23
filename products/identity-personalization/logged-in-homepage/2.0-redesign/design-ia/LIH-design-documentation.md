@@ -23,7 +23,7 @@ Attendees: Samara, Tressa, Cassandra
 
 #### Outcomes
 - Overall positive feedback based on the revised versions
-- Some concern about tabbed and side nav version for when user has no content seems like scrolling card versions is a better solution
+- Some concern about tabbed and side nav version for when user has no content.. seems like scrolling card versions is a better solution
 - Ready for Design Intent meeting with Platform team this week
 
 
