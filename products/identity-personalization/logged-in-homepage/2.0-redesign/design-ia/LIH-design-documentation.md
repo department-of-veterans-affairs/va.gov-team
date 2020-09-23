@@ -9,9 +9,9 @@ Designers: Cassandra, Tressa
 ### Designs
 Includes links to Invision highlevel wireframe concepts:
 
-[Mobile Inviaion Screens](https://cassandraallen738782.invisionapp.com/overview/HP-mobile-logged-in-ckeyhydog01kz01xd3tao5pcj/screens/22766369)
+[Mobile Invision Screens](https://cassandraallen738782.invisionapp.com/overview/HP-mobile-logged-in-ckeyhydog01kz01xd3tao5pcj/screens/22766369)
 
-[Desktop Inviaion Screens](https://cassandraallen738782.invisionapp.com/overview/HP-desktop-logged-in-ckf3qguc91olj019242g490ji/screens/22765860)
+[Desktop Invision Screens](https://cassandraallen738782.invisionapp.com/overview/HP-desktop-logged-in-ckf3qguc91olj019242g490ji/screens/22765860)
 
 ### Feedback & Outcomes
 
