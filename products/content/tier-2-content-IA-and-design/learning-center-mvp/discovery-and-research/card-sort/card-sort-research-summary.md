@@ -458,7 +458,16 @@ Participants weren't exposed to the full range of topic labels we'll launch with
 
 #### SME participants mapped articles to topic labels the way we expected the majority of the time.
 
-5 of 9 (56%) or more people mapped 10 of the 16 articles to our proposed topic label the majority of the time. `Housing assistance and home loans` and `VA account and profile ` (70%) had the highest level of agreement overall, with the rest of the topics hovering around 50%.  {Would be helpful to have actual #s here since they are so low.}
+5 of 9 (56%) or more people mapped 10 of the 16 articles to our proposed topic label the majority of the time. `Housing assistance and home loans` and `VA account and profile `  had the highest level of agreement overall, with the rest of the topics hovering around 50%.  
+
+- Articles we mapped to `Housing assistance and home loans` were mapped 17 out of 18 possible times (94%).
+- Articles we mapped to `VA account and profile ` were mapped 19 out of 27 possible times (70%).
+- Articles we mapped to `Other topics and questions` were mapped 20 out of 36 possible times (56%).
+- The article we mapped to `Careers and employment` was mapped 5 of 9 possible times (52%).
+- Articles we mapped to `Records` were mapped 14 out of 27 possible times (52%).
+- Articles we mapped to `Disability` were mapped 12 out of 27 times (44%).
+
+Articles in 3 of the categories had particularly low numbers that brought down the topic performance, and are detailed in the next finding.
 
 ##### **Takeaway**
 
@@ -521,4 +530,5 @@ The links below will take you to raw results in Optimal Workshop for each card s
 - [Topic categories - SMEs](https://app.optimalworkshop.com/a/adhoc/optimalsort/results/cba2ab93-60d8-4e86-9952-71758ad3b949#/t/results/overview)
 - [Audience categories - SMEs](https://app.optimalworkshop.com/a/adhoc/optimalsort/results/186497d6-4278-4c9f-bdeb-357de3f0e4df#/t/results/overview)
 - [Topic categories - Veterans](https://app.optimalworkshop.com/a/adhoc/optimalsort/results/6927f1e9-ad71-40ed-8da9-6f02779e4d51#/t/results/overview)
-- [Audience categories - Veterans](
+- [Audience categories - Veterans](https://app.optimalworkshop.com/a/adhoc/optimalsort/results/d7531108-0d6d-4351-ab9a-bc31302b75ff#/t/results/overview)
+
