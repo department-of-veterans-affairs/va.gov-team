@@ -25,11 +25,13 @@ Documentation containing descriptions, interaction notes, and content for each c
 - **Introduction Screen**
    - Page 1: [Introduction section] - TBD if we need the intro screen as this may not be an official form
 - **Chapter 1: [Main Page, Inquiry Details]**
-   - Page 1: [Inquiry info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS%20Form%20-%20Inquiry%20Details.md)
-- **Chapter 2: [Main Page, Contact Info]**
-   - Page 1: [Contact info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS%20Form%20-%20Contact%20Info.md)
-- **Chapter 3: [Review Page]**
-   - Page 1: [Review Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS%20Form%20-%20Review%20Page.md)
+   - Page 1: [Inquiry info].  Updating the sub page
+- **Chapter 2: [Main Page, Veteran Info]**
+   - Page 2: [Veteran info] Updating the sub page
+- **Chapter 3: [Main Page, Contact Info]**
+   - Page 3: [Contact info]   Updating the sub page
+- **Chapter 4: [Review Page]**
+   - Page 1: [Review Page] - still determining if we'll have this
 - **Confirmation screen** 
    - [Confirmation screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS%20Form%20-%20Confirmation%20Page.md)
 
