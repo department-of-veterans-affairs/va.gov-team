@@ -17,23 +17,25 @@ Please view more about the IRIS project https://github.com/department-of-veteran
 
 - ACCESSIBLE: Is our design approach usable and respectful to those with any disability related challenges, especially cognitively? 
 
-- CHAPTERS: Have we divided the IRIS form into the right number of chapters as per the Form Library?
+- CHAPTERS: Have we divided the IRIS form into the right number of chapters as per the Form Library? Does having Veteran and person submitting the form on two separate chapters feel natural?
 
-- CONTENT HIERARCHY: Is the content organized (and grouped) in an intuitive manner?
+- CONTENT HIERARCHY: Is the content organized (and grouped) in an intuitive manner and is it an improvement over the existing IRIS experience
 
-- DROP DOWN MENU: Are they able to interact with the drop down menus and is it an inuitive experience for them?
+- HOME/LANDING PAGE: Is having a landing page to route users to a particular option (health/education/etc.) a good experience? (We're assuming that having one question/place for them to funnel is a low lift).
 
-- SUCCESS METRICS: Are users able to succcessfully submit the form? Do they feel that the user experience has improved, and if so how?
+- DROP DOWN MENU: Are they able to interact with the drop down menus (having three) and is it an inuitive experience for them? Does the progressive disclosure (only shopwing approach 
 
-- To add: any that address Success Metrics we identified earlier. - TO FINISH
-
-
+- SUCCESS METRICS: Are users able to succcessfully submit the form? Do they feel that the user experience has improved, and if so how? Can have a follow up set of questions re: reorganized content, rewritten content, feeling on brand etc.
 
 
 4. Hypothesis: What is your hypothesis for this research? 	TO FINISH
 
 Some possible include: 
-- We believe that by using the VA design pattern library users of IRIS will find the form an improvement 
+- We believe that by using the VA design pattern library users of IRIS will find the form feels consistent with the existing va.gov experience 
+
+- We believe tha progress
+
+(that's a sample one - will tie more into ones that tie into goals more).
 
 
 
