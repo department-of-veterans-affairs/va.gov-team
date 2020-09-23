@@ -17,7 +17,7 @@ Includes links to Invision High-level Wireframe Concepts:
 
 ### Feedback & Outcomes
 
-#### Meeting Title (e.g. "Initial Presentation to Team") :
+#### Second Presentation to Samara:
 Meeting date: 09/21/2020  
 Attendees: Samara, Tressa, Cassandra
 
