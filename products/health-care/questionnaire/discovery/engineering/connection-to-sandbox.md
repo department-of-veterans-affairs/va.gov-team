@@ -30,5 +30,8 @@ The FHIR client will use the same URL and JWT in it's headers in order to access
 FHIR::Questionnaire.read(id)
 Currently vets-api does not use any such FHIR client
 
+Stephen Barrs indicated that:
+DEvOps team will send the Staging and Prod keys to Lynne Case, who will add them to those envs. We may have to submit some design docs prior to accessing Staging. For internal MAP Apps an SDD must be submitted, like the one they have for GetCare.  We may or may not need one at this level of detail but I think we should put something similar to this together as it will be something that they would like to see.
+
 
 
