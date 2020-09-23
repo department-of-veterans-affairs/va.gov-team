@@ -12,7 +12,7 @@
 Thanks for joining us today! My name is Leyda. I also have some colleagues on the line observing and taking notes.
 Today we're going to talk about Vet Centers. We're trying to learn about Veteran and service member experiences with Vet Centers.
 
-Before we start, a few things I want to mention:
+Before we get started, I want to give you an idea of what this call will be like:
 
 - **This entire session should take about 45 minutes.** 
 - **This session is going to resemble an interview where I will ask you many questions about your experience with Vet Centers.** There are no right or wrong answers, this is purely to guage actual client experiences. If at any time you don't feel comfortable answering a question, we can move on to the next question. 
