@@ -39,7 +39,7 @@ Includes links to Stories, Data Points, Invision High-level Wireframe Concepts:
 
 [Mural Story Board](https://app.mural.co/t/vsa0499/m/vsa0499/1597156877591/25248822b34df6bbf8041a9b11b3150974e51efb)
 
-[LIH Data points Spreadsheet](https://docs.google.com/spreadsheets/d/1fO3VxUj8U2M268GnpmNmlL8Jdl8E1as33SzuwoTneV8/edit#gid=1279308525)
+[LIH Data Points Spreadsheet](https://docs.google.com/spreadsheets/d/1fO3VxUj8U2M268GnpmNmlL8Jdl8E1as33SzuwoTneV8/edit#gid=1279308525)
 
 
 ### Feedback & Outcomes
