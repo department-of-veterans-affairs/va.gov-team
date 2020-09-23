@@ -48,8 +48,11 @@ Resources
 ### Designs
 Includes links to Invision highlevel wireframe concepts:
 
-We tracked all of the user stories in this [Mural Board](https://app.mural.co/t/vsa0499/m/vsa0499/1597156877591/25248822b34df6bbf8041a9b11b3150974e51efb)
+[Mobile Invision Screens](https://cassandraallen738782.invisionapp.com/overview/HP-desktop-logged-in-ckf3qguc91olj019242g490ji/screens/22765858)
 
+[Desktop Invision Screens](https://cassandraallen738782.invisionapp.com/overview/HP-desktop-logged-in-ckf3qguc91olj019242g490ji/screens/22765858)
+
+We tracked all of the user stories in this [Mural Board](https://app.mural.co/t/vsa0499/m/vsa0499/1597156877591/25248822b34df6bbf8041a9b11b3150974e51efb)
 
 We tracked all of the data points in this [LIH Datapoints Spreadsheet](https://docs.google.com/spreadsheets/d/1fO3VxUj8U2M268GnpmNmlL8Jdl8E1as33SzuwoTneV8/edit#gid=1279308525)
 
