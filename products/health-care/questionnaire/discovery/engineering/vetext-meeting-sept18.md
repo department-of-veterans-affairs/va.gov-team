@@ -27,7 +27,7 @@
 
 ---
 
-#### Questionnare List from questionnaire service
+#### 1. Questionnare List from questionnaire service
 
 the health quest service in vets-api will expose an endpoint to retrieve a list of questionnaires. This endpoint would not need the typical authentication, but possibly some type of key:
  
@@ -41,13 +41,13 @@ The endpoint would use the Fhir client to obtain all relevant questionnaire reco
 [{name: 'question-1', id: 444}, {name: 'question-2', id: 445}, {name: 'question-3', id: 446} ... ]
 ```
 
-#### VeText dropdown
+#### 2. VeText dropdown
 
-Inside of the VeText clinician admin area, VeText would display a drop down to select a questionnaire to be associated with a clinic or stop code. 
+Inside of the VeText clinician admin area, using the list from step 1, VeText would display a drop down to select a questionnaire to be associated with a clinic or stop code. 
 
-#### VeText questionnaire selector
+#### 3. VeText questionnaire selector
 
-Once the questionnaire is selected in VeText, then VeText will send a request to selector API in the health quest service 
+Once the questionnaire is selected in VeText from step 2, then VeText will send a request to selector API in the health quest service 
 
 ```
 /api.va.gov/health_quest/v0/questionnaire_selector
@@ -59,7 +59,7 @@ the data sent to the selector API would be of the form:
 {question_id: 445, component_id: 32, component_type: 'clinic'}
 ```
 
-#### questionnaire selector API returns a URL
+#### 4. questionnaire selector API returns a URL
 
 When the health quest service recieves the information from VeText as shown above. It will send back a url of the form below.
 This URL may be shortened using a shortening formula
@@ -67,3 +67,6 @@ This URL may be shortened using a shortening formula
 ```
 /api.va.gov/health_quest/v0/questionnaire_selected/{$questionnaire_id}/{$component_type}/{$component_id}
 ```
+
+VeText will send the veteran an appointment reminder and indicate that they have a secure message to check and that they should log into va.gov to
+check their messages. When they get the message in the secure area, this URL will then be available for them to click in order to answer the questionnaire
