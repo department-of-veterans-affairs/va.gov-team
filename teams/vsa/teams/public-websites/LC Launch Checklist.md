@@ -1,8 +1,8 @@
 # PW Learning Center Launch Checklist
 
 ###### Goal: Create a consolidated list of all of the steps needed to be ready for a public-facing launch for PW Learning Center MVP 1.0 and 1.1
-- Sprint 30: (9/9 - 9/22) [In-progress]
-- Sprint 31: (9/23 - 10/6)
+- Sprint 30: (9/9 - 9/22) 
+- Sprint 31: (9/23 - 10/6) [In-progress]
 - Sprint 32: (10/7 - 10/20)
 - Sprint 33: (10/21 - 11/11) 
 
