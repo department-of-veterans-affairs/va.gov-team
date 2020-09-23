@@ -6,6 +6,18 @@
 
 See summary of findings from search.gov call wrt learning center search: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/search-feature-inside-LC/README.md#summary-of-call-with-searchgov-on-918
 
+LC Search - MVP 1.0
+- In scope
+  - Search.gov-driven keyword search 
+  - Results will include document title and description
+- Not in scope
+  - LC content type in search results
+  
+Articles List - MVP 1.0
+- In scope
+  - Lists organized by: X LC Category, All articles tagged Y content tag
+- Not in scope
+  - LC content type embedded in the list items
 
 ## 9/22/20 
 
