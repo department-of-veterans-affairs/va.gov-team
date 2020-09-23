@@ -83,6 +83,11 @@ Similar to the previous decision, we will adjust UI designs for larger devices s
 ### Use Sketch. 
 We have found Sketch to be the quickest way to work with VA, iOS, and Android design elements. Additionally, it is DEPO's official tool. It would be nice to have multiple designers working in the same file at once and we see this as Figma's biggest plus. But for the time being we're using Sketch.
 
+### We are erring on the side of less detailed design reviews to speed up launching the MVP. 
+As a team, we decided to put an MVP lens on design review and err on the side of giving feedback at this point that feels critical. This will allow us to quickly get the UX work to front-end & meet the November soft/internal launch deadline, knowing we can come back and do more design explorations post-MVP.
+
+_Decision made between Bridget, Martha, Ryan on 9/23_
+
 -----
 
 # Accessibility decisions
