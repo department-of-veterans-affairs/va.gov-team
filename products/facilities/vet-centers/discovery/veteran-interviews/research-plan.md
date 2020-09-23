@@ -70,9 +70,9 @@ Vet Centers are unique VA facilities, separate from VA Medical Centers, benefit 
  
 ## Timeline
 
-Study dates: September 30 - Oct 16, 2020 Session length: 45 minutes 
-Pilot session: will be held on September 29, 2020 at 2:00pm EST 
-Session length: 45 minutes
+- Study dates: September 30 - Oct 16, 2020 Session length: 45 minutes 
+- Pilot session: will be held on September 29, 2020 at 2:00pm EST 
+- Session length: 45 minutes
 
 Date | Time in Eastern | Slots
 -----|-----------------------|-------
@@ -86,9 +86,8 @@ Thu, Oct 15 | 7-10a, 12-1p, 7-8p | 5
 Fri, Oct 16 | 7-9a | 2 
 
 
-
-
 ## Team Roles	
-Please list the people who will be serving in each role. 
+
 - Moderator: Leyda Hughes (leyda.hughes@adhocteam.us)
 - Research guide writing and task development: Leyda Hughes (leyda.hughes@adhocteam.us)
+- Project point of contact: Leyda Hughes  (leyda.hughes@adhocteam.us)
