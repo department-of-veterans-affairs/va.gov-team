@@ -101,4 +101,4 @@ Fri, Oct 16 | 7-9a | 2
   - ***Shawna Hein** <shawna@adhocteam.us> 
   - Gibran Rodriguez <grodriguez@governmentcio.com> 
   - Michael Pelz-Sherman <mpelzsherman@governmentcio.com> 
-  - Jessica <jessica.schiefer@va.gov> 
+  - Jessica Schiefer <jessica.schiefer@va.gov> 
