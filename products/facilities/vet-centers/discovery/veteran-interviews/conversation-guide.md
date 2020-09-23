@@ -16,7 +16,7 @@ Before we get started, I want to give you an idea of what this call will be like
 
 - **This entire session should take about 45 minutes.** 
 - **This session is going to resemble an interview where I will ask you many questions about your experience with Vet Centers.** There are no right or wrong answers, this is purely to guage actual client experiences. If at any time you don't feel comfortable answering a question, we can move on to the next question. 
-- **Toweards the end of our time, I'll share my screen and we'll look at a website together and I will ask for your opnion on certain items.** 
+- **Later, I'll share my screen and we'll look at a website together and I will ask for your opinion on certain items.** 
 - **In this session, we want to hear your honest opinions.** We are not testing you, instead we are testing our products and services to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
