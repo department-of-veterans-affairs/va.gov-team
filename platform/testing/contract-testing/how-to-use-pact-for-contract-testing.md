@@ -541,6 +541,25 @@ test_database_url: postgis://postgres:password@postgres:5432/vets_api_test
 
 The verification task can be run at any point in development, but it may be helpful to run frequently to point out failures during development iterations. 
 
+***Troubleshooting*** If you happen to see the following error in the console after updating the ```test_database_url``` in ```config/test.yml``` when following the docker workflow, the config/database.yml file may need to be changed instead of the test_database_url:
+
+``` 
+     PG::ConnectionBad:
+       could not connect to server: No such file or directory
+       	Is the server running locally and accepting
+       	connections on Unix domain socket "/var/run/postgresql/.s.PGSQL.5432"?
+
+```
+
+Make the following change to the ```test.url``` in ```config/database.yml```
+
+``` 
+test:
+  url: postgis://postgres:password@postgres:5432/vets_api_test
+
+```
+
+
 ### 4. Verify your results
 
 When the verification task completes, passing (green) and failing (red) interactions will display in the console. See example console output below. Verification status can also be viewed on the broker index page and in the verification matrix after commiting a change and CI runs the build workflow. See [broker matrix section](#broker-matrix-and-tagging) below.
