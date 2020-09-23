@@ -137,6 +137,11 @@ Once the BE engineer runs the pact verification task, possible adjustments to th
 
 
 #### Response Types and Matching
+Pact contracts test response types and not all response permutations. For example, if a response attribute is expected to be a string, you don’t necessarily care about the exact value, but rather that the value is present and it’s particular type. Ex: “Test string 1”, vs “Test String 2”. Testing response types ensures that the provider actually does provide the response the consumer expects. Often times the request and response values are difficult to determine beforehand( ex: timestamps or ids) and this is where regular expressions come into play when determining types. See [pact matching documentation](https://docs.pact.io/implementation_guides/ruby/matching/)
+
+It’s important to remember that pact contract testing is not functional testing.  Contract tests focus on the messages that flow between a consumer and provider, while functional tests ensure that the correct side effects have occured as well. When writing a test for an interaction, ask yourself what you are trying to cover. The goal here is not to create unnecessarily tight contracts and dig into the business logic, but rather verify that Consumers and Providers have a shared understanding of what requests and responses should be.
+
+
 ## Configuring the `vets-website` consumer codebase 
 
 ### Running contract tests
@@ -539,6 +544,8 @@ The verification task can be run at any point in development, but it may be help
 ### 4. Verify your results
 
 When the verification task completes, passing (green) and failing (red) interactions will display in the console. See example console output below. Verification status can also be viewed on the broker index page and in the verification matrix after commiting a change and CI runs the build workflow. See [broker matrix section](#broker-matrix-and-tagging) below.
+
+The diff formatter when running the verification task can be configured for development purposes based on personal preference. The default configuration is the list format. See [diff_formatter documentation](https://docs.pact.io/implementation_guides/ruby/configuration/#diff_formatter)
 
 ![](https://i.imgur.com/7scCEhi.png)
 
