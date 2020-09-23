@@ -18,4 +18,4 @@
 - [ ] If the issues are related to Leaflet or Mapbox, add the 508-issue-leaflet-mapbox label, then add to the [spreadsheet on the Vendor tab]((https://docs.google.com/spreadsheets/d/1v1TjvvXaTOun1ZFBoOVeDqZlQVr5leD_YVEnDPntxLI/edit#gid=0)). Keep the team assigned to the issue.
 
 
-Use [this accessibility review roadmap](https://docs.google.com/spreadsheets/d/19ZH_1imuTKHQfyMbOU5IKHwPDb_LGUqnnwoeMbKXH9I/edit#gid=0) this checklist to itemize and document review.
+Use [this accessibility review spreadsheet](https://docs.google.com/spreadsheets/d/19ZH_1imuTKHQfyMbOU5IKHwPDb_LGUqnnwoeMbKXH9I/edit#gid=0) to itemize and document review steps.
