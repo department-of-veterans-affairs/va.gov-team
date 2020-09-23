@@ -1,8 +1,9 @@
-# WIP Mobile App + VSP's Collaboration Cycle
+# VSP Collaboration Cycle
 
-This is where we will be documenting the mobile app team's process for designing, developing and deploying our app. 
+So you’re starting a new project — congratulations! This is a guide to required Veteran-facing Services Platform (VSP) collaboration points, written for all Veteran-facing Services (VFS) teams building on VA.gov. VSP’s mission is to provide a framework comprised of systems, tools, processes, documentation, and customer support, that helps VFS Teams create successful VA.gov products.
 
-Our process will leverage the VSP Collaboration Cycle when it makes sense for mobile and any deviations will documented here. 
+The VSP Collaboration Cycle was created for medium-to-large VFS work initiatives. Not sure if this process applies to your project? Not sure how your edge case fits in? Ask us in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) and we’d be happy to help customize a plan! 
+
 
 ##### Table of contents
 * [Project Kickoff](#project-kickoff)
@@ -20,12 +21,51 @@ Our process will leverage the VSP Collaboration Cycle when it makes sense for mo
 
 
 # Project Kickoff
-- Participated in VSP kickoff
-- Conducted mobile-specific kickoff to go over mobile-specifics 
+Start off by introducing your team and VSP to your new work initiative. Discuss existing solutions in the problem space, align team member expectations, and collaborate with VSP to identify any areas that may need additional support.
+
+## Timing
+- Development stage: **Define**
+- When you understand the problem you’re trying to solve (you don’t yet need to know exactly how you’re going to solve it).
+
+## Collaboration format: 30-minute meeting
+
+### Request process
+**VFS Product Manager** initiates scheduling by submitting ZenHub issue — use `Project Kickoff` issue template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd&labels=product+support%2C+content-ia-team%2C+collaboration-cycle&template=project-kickoff.md&title=Project+Kickoff+%5BFeature-Name%5D) to open a ticket)_. VSP will schedule the meeting. Meeting is recorded.
+
+### Meeting attendees
+- VFS brings: 
+  - Your Product Manager (required)
+  - Your DEPO Product Lead (required)
+  - Your entire VFS team (recommended)
+  - Any other stakeholders you want to invite
+- If VFS team is part of VSA contract, also include as optional: Accessibility (Jennifer), QA (Tze), Design (Shawna), Product (Mickin)
+- VSP brings (all optional): 
+  - Design (Crystabel & Emily)
+  - Accessibility (Trevor)
+  - Content (Peggy)
+  - Information architecture (Mikki)
+  - QA (Peter)
+  - Product (Andrea Hewitt)
+  - Analytics (Joanne)
+  - VSP’s DEPO co-leads (Rachael, Kevin & Dror)
+
+### Artifact inputs 
+You bring: 
+- A rough draft of your [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md) (stored in appropriate GitHub `va.gov-team/products` folder)
+- An explanation of the problem space
+- Any other artifacts you have so far
+- Any questions you have about the [staging accessibility review processes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md)
+- You **do not** need to prepare a presentation
+
+### Outcomes and artifact outputs
+We’ll work together to identify any areas of your project that need additional support or collaboration. Follow-ups and areas to expand upon should be called out in this meeting and scheduled after the fact. 
+
+## For further support at this point
+Reach out via Slack [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) with any questions, and you’ll be directed to the correct resource.
 
 ---
 
-# Design Intent Collaboration
+# Design Intent Collaboration (BRIDGET)
 Present a draft of your ideas to VSP and other expert designers. Learn about existing design components and research findings relevant to the problem space. Discuss accessibility considerations with accessibility experts.
 
 ## Timing
@@ -66,7 +106,7 @@ Reach out to design experts in Slack #design.
 
 ---
 
-# Usability Testing Prep
+# Usability Testing Prep (BRIDGET)
 Meet with VSP practice area reviewers to confirm that your prototypes or mockups are consistent with existing patterns and standards. Get feedback and ensure that your product is ready for successful usability testing. 
 
 ## Timing
@@ -116,7 +156,7 @@ Reach out to Platform team in Slack [#vfs-platform-support](https://dsva.slack.c
 
 ---
 
-# Research Plan Review
+# Research Plan Review (BRIDGET)
 Get approval from DEPO’s research expert on your research plan and script. Begin recruitment of Veterans for research.
 
 ## Timing
@@ -142,7 +182,7 @@ Message Lauren Alexanderson (@Lalexanderson) in Slack or reach out in the #desig
 ---
 
 
-# Information Architecture (IA) Request
+# Information Architecture (IA) Request (SOPHIE/BRIDGET)
 Collaborate with VSP’s Information Architect to finalize your URL and other key details before developing in staging. VSP’s Information Architect has a high-level view of the entire VA.gov experience and can help ensure that your new or updated content fits well in that ecosystem.
 
 ## Timing
@@ -173,7 +213,7 @@ Reach out to Information Architecture resources (@Mikki) in Slack [#vfs-platform
 
 ---
 
-# Analytics Request
+# Analytics Request (SOPHIE)
 Begin setup of Google Tag Manager and ForeSee so we can understand how Veterans are using VA.gov.
 
 ## Timing
@@ -226,7 +266,7 @@ Reach out to analytics experts on Slack via [#vfs-platform-support](https://dsva
 
 ---
 
-# Contact Center Review
+# Contact Center Review (SOPHIE)
 Ensure that VA contact center representatives are prepared to help Veterans troubleshoot VA.gov.
 
 ## Timing
@@ -252,7 +292,7 @@ Reach out to contact center leads in Slack via [#vsp-contact-center-support](htt
 
 ---
 
-# Staging Review
+# Staging Review (DF TESTING PLAN)
 Get feedback on your completed build before rolling out to users.
 
 ## Timing
@@ -318,7 +358,7 @@ Reach out to Platform team in Slack [#vfs-platform-support](https://dsva.slack.c
 
 ---
 
-# Privacy and Security Review
+# Privacy and Security Review (JONATHAN/PATRICK)
 Ensure your feature meets VSP's privacy and security standards.
 
 ## Timing
@@ -364,7 +404,7 @@ Reach out to Platform team in Slack [#vfs-platform-support](https://dsva.slack.c
 
 ---
 
-# Full Accessibility and 508 Office Audit
+# Full Accessibility and 508 Office Audit (DF ACCESSIBILITY CHECKLIST)
 Accessibility experts complete a full accessibility audit and coordinate with the VA’s 508 office for feedback and approval.
 
 ## Timing
