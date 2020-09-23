@@ -22,19 +22,18 @@
 ## Product Features
 
  1.  Display Visit Intro landing page to kick off the form and let the Veteran know expectations
-	 - [ ] Use the standard intro form landing page with Save For later, Prefill Message Box that launches the authentication steps.  
-	 - [ ] Display expanded verbiage for Urgent or sensitive information to contact emergency, crisis line, or 911
+	 - [x] Use the standard intro form landing page with Save For later, Prefill Message Box that launches the authentication steps.  
+	 - [x] Display expanded verbiage for Urgent or sensitive information to contact emergency, crisis line, or 911
 	 - [ ] Display verbiage for agreement on who will see the information entered in the form
-	 - [ ] Display Next Steps to complete the questionnarie
-	 - [ ] Display the additional steps to expect in the form on this page? 
+	 - [x] Display the additional steps to expect in the form on this page? 
 	 - [ ] - UX ? - do we show this page when they select the questionnaire from the list view?
 2. Display Review Form before submitting Questionnaire
-	 - [ ] Use the standard Forms Library Review Page with accordion content areas with in line edit
+	 - [x] Use the standard Forms Library Review Page with accordion content areas with in line edit
 	 - [ ] Display a button to Save and Send Questionnaire
 	 - [ ] Display a button to Save for Later 
-	 - [ ] Display simplified verbiage for Urgent or sensitive information to contact emergency, crisis line, or 911
+	 - [x] Display simplified verbiage for Urgent or sensitive information to contact emergency, crisis line, or 911
 3. Display a Confirmation that shows successful submission of questionnaire form
-	- [ ] Display a successful message for their form data going to their care team
+	- [x] Display a successful message for their form data going to their care team
 	- [ ] Display expectation for what to expect with the upcoming appt.  
 4. Display a list of Questionnaires that have been sent to the Veteran for an appt.
 	- [ ] Need to determine how long in advance to the questionnaires show up on the list. 
@@ -53,7 +52,7 @@
 	- [ ] Questionnaires that are in progress will leverage the Save in Progress feature of the forms library providing the ability to save data until the user selects to complete and send the questionnaire. 
 	- [ ] When an Appt. has been canceled the questionnaire should have a canceled status - What all do we need to show to the user about the questionnaire that is not being used now? 
 5.  Clipboard Feature Flag #12402
- - [ ] Provide the ability to have a flipper flag that makes the questionnaire available/viewable in staging and prod.
+ 	- [ ] Provide the ability to have a flipper flag that makes the questionnaire available/viewable in staging and prod.
 https://user-images.githubusercontent.com/1793923/90675376-5fad8d00-e228-11ea-95d2-9c31a309fd01.gif
 
 ## Mockup
