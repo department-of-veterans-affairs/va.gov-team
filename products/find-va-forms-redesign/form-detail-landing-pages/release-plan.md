@@ -16,7 +16,7 @@ Per product sync today - We will launch batches per steps:
 
 4. **Publish batch 2 forms - still behind basic auth gate.** 
 
-5. Monitor until we hit 300 users or 5 business days with less than 5% error rate. 
+5. Monitor until we hit 300 users or 5 business days with less than 5% error rate. (may have to move to after basic auth is lifted)
 
 6. Fix bugs if any. 
 
