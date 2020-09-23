@@ -12,7 +12,6 @@
   * [FE/BE Communications](#fe-be-communications)
     + [Example Workflow for Search](#example-workflow-for-search)
 	+ [Communication and Interaction](#communication-and-interaction)
-  * [Additional Information](#additional-information)
     + [Response Types and Matching](#response-types-and-matching)
 - [Configuring the `vets-website` consumer codebase](#configuring-the-vets-website-consumer-codebase)
   * [Running contract tests](#running-contract-tests)
@@ -134,8 +133,9 @@ If an adjustment needs to be made to a request/response defined in a pact, then 
 
 
 #### Communication and Interaction
-Once the BE engineer runs the pact verification task, possible adjustments to the expected requests and responses defined in the pact may be needed. BE and FE engineers will need to communicate pact request/response adjustments as necessary during the development process.
-### Additional Information 
+Once the BE engineer runs the pact verification task, possible adjustments to the expected requests and responses defined in the pact may be needed. BE and FE engineers will need to communicate pact request/response adjustments as necessary during the development process. Pact again is a collaborative effort and by no means does it amount to the team writing the tests getting to write the pact without collaborating with the backend team. The pact development process should have equal efforts from the respective backend and frontend team members. 
+
+
 #### Response Types and Matching
 ## Configuring the `vets-website` consumer codebase 
 
