@@ -8,11 +8,14 @@
 - Jonathan Julian (Engineering Lead, Ad Hoc)
 - Alastair Dawson (API Engineer, Ad Hoc)
 - Bridget Hapner (UX Lead, Ad Hoc)
-- TBD, (Digital Project Strategist, Digital Foundry)
-- TBD, (Mobile Engineer, Digital Foundry)
-- TBD, (Mobile Engineer, Digital Foundry)
-- TBD, (Mobile Engineer, Digital Foundry)
-- TBD, (Mobile QA, Digital Foundry)
+- Cat Greim (Program Manager, Ad Hoc)
+- Erik Breedlove (Program Manager, Digital Foundry)
+- Bess Green (Digital Project Strategist, Digital Foundry)
+- Ken Li (Mobile Engineer, Digital Foundry)
+- Ken Harrison (Mobile Engineer, Digital Foundry)
+- John Marchi (Mobile Engineering Lead, Digital Foundry)
+- Brandon Levinger (Engineering Support, Digital Foundry)
+- Brenda Rocha (Product Support, Digital Foundry)
 
 ## VFS Teams
 
@@ -78,6 +81,19 @@ Since the mobile app MVP is replicating functionality that exists on VA.gov toda
 **Tickets outside a sprint include these pipelines:**
 - Backlog
 - Icebox 
+
+**Story Point System**
+1 - the amount of time it takes to drink a cup of coffee  :coffee:
+
+2 - a morning :sunrise:
+
+3 - an afternoon :hamburger:
+
+5 - a full workday :bridge_at_night:
+
+8 - 1.5 days :beer:
+
+If a story is bigger than an 8, we try to break it down to smaller stories or sub-task it so it’s easier to track progress.
 
 ### Design tools
 - Sketch
