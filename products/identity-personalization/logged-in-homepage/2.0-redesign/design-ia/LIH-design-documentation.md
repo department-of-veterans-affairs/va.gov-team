@@ -24,13 +24,6 @@ Outcomes
 - Overall positive feedback based on the revised versions
 - Ready for Design Intent meeting with Platform team this week
 
-Resources
-
-[How to design a better dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/logged-in-homepage/my-va/research/articles)
-
-[Discovery & Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research)
-
-
 
 
 ## Iteration 1 - Sprint 30
