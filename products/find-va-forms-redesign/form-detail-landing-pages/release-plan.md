@@ -3,7 +3,7 @@
 __Summary of release plan steps:__
 Per product sync today - We will launch batches per steps: 
 
-**I. Batch 1 release** 
+**I. Batch 1 release** :check:
 
 1. **Publish batch 1 form pages to prod with a basic auth gate.**   `Blocked until CMS breadcrumb fixed by [ticket #2270](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2770)`
 
@@ -12,7 +12,7 @@ Per product sync today - We will launch batches per steps:
 3. Fix any reported bugs if any. 
 
 
-**II. Batch 2 release**
+**II. Batch 2 release** [In progress]
 
 4. **Publish batch 2 forms - still behind basic auth gate.** 
 
