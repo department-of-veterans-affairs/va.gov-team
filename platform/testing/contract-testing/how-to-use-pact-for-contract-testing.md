@@ -7,6 +7,13 @@
   * [Requirements](#requirements-draft)
   * [Process](#process)
   * [Implementation details](#implementation-details)
+    + [Naming Conventions](#naming-conventions)
+	+ [Naming Collisions](#naming-collisions)
+  * [FE/BE Communications](#fe-be-communications)
+    + [Example Workflow for Search](#example-workflow-for-search)
+	+ [Communication and Interaction](#communication-and-interaction)
+  * [Additional Information](#additional-information)
+    + [Response Types and Matching](#response-types-and-matching)
 - [Configuring the `vets-website` consumer codebase](#configuring-the-vets-website-consumer-codebase)
   * [Running contract tests](#running-contract-tests)
   * [Writing a contract test](#writing-a-contract-test)
@@ -27,6 +34,7 @@
     + [Naming Guidelines](#naming-guidelines)
     + [Authorization](#authorization)
     + [VCR](#vcr)
+	+ [Flipper](#flipper)
   * [2. Adjust developer configurations](#2-adjust-developer-configurations)
     + [Configure the `pact_uri/broker_url`](#configure-the--pact-uri-broker-url-)
   * [3. Run the verification task](#3-run-the-verification-task)
@@ -35,6 +43,11 @@
   * [5. Remove developer configurations](#5-remove-developer-configurations)
   *  [Broker matrix and tagging](#broker-matrix-and-tagging)
   *  [CircleCI](#circleci)
+  *  [CircleCI and the Build Process](#circleci-and-the-build-process)
+     + [Deploy Strategy and Tagging](#deploy-strategy-and-tagging)
+	 + [Frontend](#frontend)
+	 + [Backend](#backend)
+  *  [Pact FAQ](#pact-faq)
 
 ## Introduction
 
