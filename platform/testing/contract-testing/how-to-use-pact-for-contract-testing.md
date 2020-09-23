@@ -402,6 +402,8 @@ Once frontend has pushed a pact to the broker, a corresponding provider state wi
 
 *Important: If a provider state is not necessary, please define no_op inside of a wrapping provider state block.*
 
+A custom generator is in place to create a boiler plate provider state file for a given consumer. Just run ```rails pact new your_consumer_name_here```. See the [provider state generator USAGE file](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/generators/provider_state/USAGE) for further instructions.
+
 Please see the [provider state documentation](https://github.com/pact-foundation/pact-ruby/wiki/Provider-states#provider-codebase) for provider state instructions. Additionally, see the [search example](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/provider_states_for/search.rb#L3).
 
 #### Using a local file if blocked by frontend 
