@@ -18,21 +18,15 @@
 
 > As a Veteran, I need the ability to view, start, and update questionnaires that my care team has requested for an upcoming visit so that I can provide updates ahead of my visit. 
 
-* **Use Case:** Veterans need the ability to manage their questionnaire list on va.gov in addition to receiving a notification to complete the form. 
-
+* **Use Case:** Veterans need the ability to understand why Im recieving a questionnaire to complete along with the status and manage the list from multiple visits.  
 ## Product Features
 
  1.  Display Visit Intro landing page to kick off the form and let the Veteran know expectations
-	 - [ ] Use the standard intro form landing page with Save For later Message Box.
+	 - [ ] Use the standard intro form landing page with Save For later, Prefill Message Box that launches the authentication steps.  
 	 - [ ] Display expanded verbiage for Urgent or sensitive information to contact emergency, crisis line, or 911
 	 - [ ] Display verbiage for agreement on who will see the information entered in the form
-	 - [ ] Display Appointment information
-		 - [ ] Facility Name
-		 - [ ] Facility Address/Contact numbers
-		 - [ ] Appt. Type/Name
-		 - [ ] Appt. Time
-	 - [ ] Display Next Steps? 
-	 - [ ] - UX ? - do we want the additional steps to expect in the form on this page? 
+	 - [ ] Display Next Steps to complete the questionnarie
+	 - [ ] Display the additional steps to expect in the form on this page? 
 	 - [ ] - UX ? - do we show this page when they select the questionnaire from the list view?
 2. Display Review Form before submitting Questionnaire
 	 - [ ] Use the standard Forms Library Review Page with accordion content areas with in line edit
@@ -40,18 +34,23 @@
 	 - [ ] Display a button to Save for Later 
 	 - [ ] Display simplified verbiage for Urgent or sensitive information to contact emergency, crisis line, or 911
 3. Display a Confirmation that shows successful submission of questionnaire form
-	- UX - is this a separate page or is it part of the Worklist page with a dynamic confirm message at the top of the screen (is this dictated by forms library or can we decide?)
+	- [ ] Display a successful message for their form data going to their care team
+	- [ ] Display expectation for what to expect with the upcoming appt.  
 4. Display a list of Questionnaires that have been sent to the Veteran for an appt.
+	- [ ] Need to determine how long in advance to the questionnaires show up on the list. 
+		- [ ] If we use VeText there is a 24 hour delay in appt. status updates from CPRS
 	- [ ] Name of Questionnaire - there will be multiple
 	- [ ] Status
 		- [ ] Sent/Completed
 		- [ ] In progress
 		- [ ] Not Started
 		- [ ] Canceled
-	- [ ] Ability to select a Questionnaire to start the workflow 
+	- [ ] Display the Facility Name and date for the appt. associated to the questionnaire
+	- [ ] Consider a design that allows for a user to see the multiple sections of a clipboard (today we have Visit Intro in the future we will have Medications, Allergies, Pain, Clinical Remiders, Health Issues, Immunizations Procedures and Surgeries, Family History, etc examples) therefore the start/completed forms should have navigation to get to the sections easily
+	- [ ] Ability to select a Questionnaire from the list to start the workflow
 	- [ ] For Sent/Completed Questionnaires provide the ability to Print the form 
-	- [ ] For In progress or Not Started provide the ability to see due date of appt/questionnaire
-	- [ ] Questionnaires that have are in progress will leverage the Save in Progress feature of the forms library providing the ability to save data until the user selects to complete and send the questionnaire. 
+	- [ ] For In progress or Not Started provide the ability to see due date of appt/questionnaire - ie are we wanting to recommend a day or two ahead of appt, date? For care team to review in advance if they have time to prepare? if not then due date should  be day of appt. or any delay in FHIR submissio to PGD we need to consider for availabilty by care team?
+	- [ ] Questionnaires that are in progress will leverage the Save in Progress feature of the forms library providing the ability to save data until the user selects to complete and send the questionnaire. 
 	- [ ] When an Appt. has been canceled the questionnaire should have a canceled status - What all do we need to show to the user about the questionnaire that is not being used now? 
 5.  Clipboard Feature Flag #12402
  - [ ] Provide the ability to have a flipper flag that makes the questionnaire available/viewable in staging and prod.
@@ -124,6 +123,8 @@ https://user-images.githubusercontent.com/1793923/90675376-5fad8d00-e228-11ea-95
 </details>
 
 ## Out of scope 
+
+- Beed to consider Proxy accounts at some point for completing the questionnaire for someone other than the veteran logged in.
 
 
 ## OKR's
