@@ -46,15 +46,15 @@ Resources
 ## Iteration 1 - Sprint 30
 
 ### Designs
-Includes links to Invision highlevel wireframe concepts:
+Includes links to Stories, Data Points, Invision highlevel wireframe concepts:
 
 [Mobile Invision Screens](https://cassandraallen738782.invisionapp.com/overview/HP-mobile-logged-in-ckeyhydog01kz01xd3tao5pcj/screens/22766368)
 
 [Desktop Invision Screens](https://cassandraallen738782.invisionapp.com/overview/HP-desktop-logged-in-ckf3qguc91olj019242g490ji/screens/22765858)
 
-We tracked all of the user stories in this [Mural Board](https://app.mural.co/t/vsa0499/m/vsa0499/1597156877591/25248822b34df6bbf8041a9b11b3150974e51efb)
+[Mural Story Board](https://app.mural.co/t/vsa0499/m/vsa0499/1597156877591/25248822b34df6bbf8041a9b11b3150974e51efb)
 
-We tracked all of the data points in this [LIH Datapoints Spreadsheet](https://docs.google.com/spreadsheets/d/1fO3VxUj8U2M268GnpmNmlL8Jdl8E1as33SzuwoTneV8/edit#gid=1279308525)
+[LIH Datapoints Spreadsheet](https://docs.google.com/spreadsheets/d/1fO3VxUj8U2M268GnpmNmlL8Jdl8E1as33SzuwoTneV8/edit#gid=1279308525)
 
 
 ### Feedback & Outcomes
@@ -63,8 +63,12 @@ We tracked all of the data points in this [LIH Datapoints Spreadsheet](https://d
 Meeting date: 09/15/20  
 Attendees: Matt, Samara, Tressa, Cassandra, Sandra, Eric
 
-Outcomes
-- Bulleted list of outcomes 
-- Bulleted list of outcomes
-- Bulleted list of outcomes
+Feedback
+- Create tabbed version 
+- Create navigation version
+- Add content to shortcuts for Claims & Appointments
+- Add a link to Disability Rating
+- Add VA headers and footers on all screens
+- Remove flashy treatments (Veterans aren't looking for flashy treatments they just want to check account balances or claim status)
+- Remove accordion treatment from desktop, show cards and content as open
 
