@@ -113,7 +113,7 @@ The purpose of contract testing is to ensure that the consumer and provider have
 
 Pacts are namespaced per consumer in the broker and on the backend in the provider state files. This [example](https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.gov%20API/consumer/Search/latest) links to the interactions for the search consumer. A provider state file on the backend will then need to explicitly define a state for each interaction listed in the pact contract.
 
-The [search example](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/provider_states_for/search.rb) interaction explicitly states that “at least one matching result exists” and describes what’s expected for the interaction to be successful.  
+The [search example](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/provider_states_for/search.rb) interactionstates that “at least one matching result exists” and describes what’s expected for the interaction to be successful.  
 
 
 #### Naming Collisions
