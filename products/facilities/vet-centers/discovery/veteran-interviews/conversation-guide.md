@@ -34,13 +34,13 @@ Before we start, a few things I want to mention:
 
 Are you familiar with Vet Centers? 
 
-    If no, see “Contingency Plan” 
+ - If no, see “Contingency Plan” 
 
 What has been your experience with a Vet Center, if any? 
 
 When did you first learn about Vet Centers? 
 
-    How did you first learn about them? 
+ - How did you first learn about them? 
 
 How did you go about finding the location of your Vet Center before you first visited? 
 
