@@ -16,27 +16,20 @@ Includes links to Invision highlevel wireframe concepts:
 ### Feedback & Outcomes
 
 #### Meeting Title (e.g. "Initial Presentation to Team") :
-Meeting date: XX/XX/XXXX  
-Attendees: Name, Name, Name 
+Meeting date: 09/21/2020  
+Attendees: Samara, Tressa, Cassandra
 
 Outcomes
-- Bulleted list of outcomes 
-- Bulleted list of outcomes
-- Bulleted list of outcomes
-
-
-#### Meeting Title (e.g. "Usability Testing Research Readout") :
-Meeting date: XX/XX/XXXX  
-Attendees: Name, Name, Name 
-
-Outcomes
-- Bulleted list of outcomes 
-- Bulleted list of outcomes
-- Bulleted list of outcomes
+- Some concern about tabbed version for when user has no content
+- Overall positive feedback based on the revised versions
+- Ready for Design Intent meeting with Platform team this week
 
 Resources
-- e.g. link to research readout 
-- or other resources that came up
+
+[How to design a better dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/logged-in-homepage/my-va/research/articles)
+
+[Discovery & Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research)
+
 
 
 
