@@ -65,7 +65,7 @@ Reach out via Slack [#vfs-platform-support](https://dsva.slack.com/channels/vfs-
 
 ---
 
-# Design Intent Collaboration (BRIDGET)
+# Design Intent Collaboration
 Present a draft of your ideas to VSP and other expert designers. Learn about existing design components and research findings relevant to the problem space. Discuss accessibility considerations with accessibility experts.
 
 ## Timing
@@ -106,7 +106,7 @@ Reach out to design experts in Slack #design.
 
 ---
 
-# Usability Testing Prep (BRIDGET)
+# Usability Testing Prep
 Meet with VSP practice area reviewers to confirm that your prototypes or mockups are consistent with existing patterns and standards. Get feedback and ensure that your product is ready for successful usability testing. 
 
 ## Timing
@@ -156,7 +156,7 @@ Reach out to Platform team in Slack [#vfs-platform-support](https://dsva.slack.c
 
 ---
 
-# Research Plan Review (BRIDGET)
+# Research Plan Review
 Get approval from DEPO’s research expert on your research plan and script. Begin recruitment of Veterans for research.
 
 ## Timing
@@ -182,7 +182,7 @@ Message Lauren Alexanderson (@Lalexanderson) in Slack or reach out in the #desig
 ---
 
 
-# Information Architecture (IA) Request (SOPHIE/BRIDGET)
+# Information Architecture (IA) Request
 Collaborate with VSP’s Information Architect to finalize your URL and other key details before developing in staging. VSP’s Information Architect has a high-level view of the entire VA.gov experience and can help ensure that your new or updated content fits well in that ecosystem.
 
 ## Timing
@@ -213,7 +213,7 @@ Reach out to Information Architecture resources (@Mikki) in Slack [#vfs-platform
 
 ---
 
-# Analytics Request (SOPHIE)
+# Analytics Request
 Begin setup of Google Tag Manager and ForeSee so we can understand how Veterans are using VA.gov.
 
 ## Timing
@@ -266,7 +266,7 @@ Reach out to analytics experts on Slack via [#vfs-platform-support](https://dsva
 
 ---
 
-# Contact Center Review (SOPHIE)
+# Contact Center Review
 Ensure that VA contact center representatives are prepared to help Veterans troubleshoot VA.gov.
 
 ## Timing
@@ -292,7 +292,7 @@ Reach out to contact center leads in Slack via [#vsp-contact-center-support](htt
 
 ---
 
-# Staging Review (DF TESTING PLAN)
+# Staging Review
 Get feedback on your completed build before rolling out to users.
 
 ## Timing
@@ -358,7 +358,7 @@ Reach out to Platform team in Slack [#vfs-platform-support](https://dsva.slack.c
 
 ---
 
-# Privacy and Security Review (JONATHAN/PATRICK)
+# Privacy and Security Review
 Ensure your feature meets VSP's privacy and security standards.
 
 ## Timing
@@ -404,7 +404,7 @@ Reach out to Platform team in Slack [#vfs-platform-support](https://dsva.slack.c
 
 ---
 
-# Full Accessibility and 508 Office Audit (DF ACCESSIBILITY CHECKLIST)
+# Full Accessibility and 508 Office Audit
 Accessibility experts complete a full accessibility audit and coordinate with the VA’s 508 office for feedback and approval.
 
 ## Timing
@@ -473,4 +473,3 @@ _**VSA teams:**_
 
 ## For further support at this point
 Reach out in [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams) with questions
-
