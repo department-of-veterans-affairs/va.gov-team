@@ -30,22 +30,41 @@ Before we start, a few things I want to mention:
 
 - Can you tell me briefly about your service history?
 
-#### Learning about Vet Centers: 
+## Learning about Vet Centers: 
 
-Are you familiar with Vet Centers? 
+- Are you familiar with Vet Centers? 
 
  - If no, see “Contingency Plan” 
 
-What has been your experience with a Vet Center, if any? 
+- What has been your experience with a Vet Center, if any? 
 
-When did you first learn about Vet Centers? 
+- When did you first learn about Vet Centers? 
 
  - How did you first learn about them? 
 
-How did you go about finding the location of your Vet Center before you first visited? 
+- How did you go about finding the location of your Vet Center before you first visited? 
 
-Could finding your Vet Center have been easier in any way?
+- Could finding your Vet Center have been easier in any way?
 
+## Being a client: 
+
+- What kind of services, activities or resources does your Vet Center offer? 
+
+- Can you tell me a little about the services, activities or resources you’ve leveraged? 
+
+- Have the types of services or activities that you’ve engaged with changed at all over time? 
+
+- How do you learn about events or services that your Vet Center offers? 
+
+ - How would you like to learn about them?  
+
+- If you wanted to share information about a Vet Center event with a friend or family member, how would you like to do that? 
+
+- If you had to rank the things offered at a Vet Center in order of importance what would that look like for you? 
+
+- Have you visited multiple Vet Centers? 
+
+ - If yes, what makes you choose one over the other? 
 
 ### Scenario
 In this next scenario, 
