@@ -43,13 +43,13 @@ We will utilize the Perigean contract recruiting. We'd like to schedule 30 parti
   **Are you currently or have you ever been a client of a Vet Center whereby you have participated in any of the following?**
     (Answer must be yes)  
 
-    [following checkboxes] 
+      [following checkboxes] 
 
-    [ ] Group or individual counseling 
+      [ ] Group or individual counseling 
 
-    [ ] Participated in group activities or events 
+      [ ] Participated in group activities or events 
 
-    [ ] Received referral help from Vet Center staff for benefits or services 
+      [ ] Received referral help from Vet Center staff for benefits or services 
 
   **Vet Center Definition:**
   Vet Centers are unique VA facilities, separate from VA Medical Centers, benefit offices, VFWs, etc. If unsure, please visit [Vet Center's website: https://www.vetcenter.va.gov](https://www.vetcenter.va.gov/)
