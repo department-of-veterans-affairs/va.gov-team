@@ -25,7 +25,7 @@ Current Swagger for health quest service
   ],
   "servers": [
     {
-      "url": "https://api.va.gov/v0/health_quest/{version}",
+      "url": "https://api.va.gov/v0/health_quest/v0",
       "description": "VA.gov API production environment",
       "variables": {
         "version": {
@@ -232,6 +232,34 @@ Current Swagger for health quest service
         "responses": {
           "200": {
             "description": "Systems retrieved successfully",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "required": [
+                    "data"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/pgd_ques_responses": {
+      "post": {
+        "tags": [
+          "PGD"
+        ],
+        "summary": "Posts a PGD Questionnaire response",
+        "operationId": "postQuestionnaireResponse",
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Data posted successfully",
             "content": {
               "application/json": {
                 "schema": {
