@@ -88,17 +88,17 @@ Fri, Oct 16 | 7-9a | 2
 
 ## Team Roles	
 
-- Moderator: Leyda Hughes < leyda.hughes@adhocteam.us >
-- Research guide writing and task development: Leyda Hughes <leyda.hughes@adhocteam.us >
+- Moderator: Leyda Hughes <leyda.hughes@adhocteam.us>
+- Research guide writing and task development: Leyda Hughes <leyda.hughes@adhocteam.us>
 - Project point of contact: Leyda Hughes  <leyda.hughes@adhocteam.us>
 - Participant recruiting & screening: Perigean 
 - Notetaker: Perigean 
 - Participant(s) for pilot test: Meg Peters <meg.peters@va.gov> 
 - Observers (***include in Slack Channel**):  
-  - ***Dave Conlon** < david.conlon@va.gov > 
-  - ***Michelle Middaugh** < michelle.middaugh@adhocteam.us > 
-  - ***Meg Peters** < meg.peters@va.gov > 
-  - ***Shawna Hein** < shawna@adhocteam.us > 
-  - Gibran Rodriguez < grodriguez@governmentcio.com > 
-  - Michael Pelz-Sherman < mpelzsherman@governmentcio.com > 
-  - Jessica < jessica.schiefer@va.gov > 
+  - ***Dave Conlon** <david.conlon@va.gov> 
+  - ***Michelle Middaugh** <michelle.middaugh@adhocteam.us> 
+  - ***Meg Peters** <meg.peters@va.gov> 
+  - ***Shawna Hein** <shawna@adhocteam.us> 
+  - Gibran Rodriguez <grodriguez@governmentcio.com> 
+  - Michael Pelz-Sherman <mpelzsherman@governmentcio.com> 
+  - Jessica <jessica.schiefer@va.gov> 
