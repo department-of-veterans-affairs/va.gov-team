@@ -24,9 +24,6 @@ Outcomes
 - Bulleted list of outcomes
 - Bulleted list of outcomes
 
-Resources
-- e.g. link to research readout 
-- or other resources that came up
 
 #### Meeting Title (e.g. "Usability Testing Research Readout") :
 Meeting date: XX/XX/XXXX  
@@ -71,4 +68,9 @@ Feedback
 - Add VA headers and footers on all screens
 - Remove flashy treatments (Veterans aren't looking for flashy treatments they just want to check account balances or claim status)
 - Remove accordion treatment from desktop, show cards and content as open
+
+Resources
+[How to design a better dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/logged-in-homepage/my-va/research/articles)
+
+[Discovery & Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research)
 
