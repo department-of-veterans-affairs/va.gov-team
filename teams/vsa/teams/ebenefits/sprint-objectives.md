@@ -12,21 +12,21 @@
 ```diff
 - 67 issues over 21 issues
 ```
-## 1. Launch "Dependency Claims"
+### 1. Launch "Dependency Claims"
 - FE and BE: implement final pre-launch tasks, move to prod
 - Team: Perform e2e testing with partner systems
 - Product: Schedule and conduct moderated UAT
 - Product: Staging Review
-## 2. View My Payments: Dev Activities, Launch Prep
+### 2. View My Payments: Dev Activities, Launch Prep
 - Design: Iterate on product designs as needed
 - FE: (Stretch Goal) Feature complete
 - BE: Prepare new service for connection
 - Product: Draft launch activities
-## 3. PCPG (CH36): Design and Dev Iteration
+### 3. PCPG (CH36): Design and Dev Iteration
 - Design: Iterate on product designs and schedule usability sessions
 - FE: Continue building applications (forms and eligibility wizards)/ complete all development possible without BE in place
 - BE: PDF form and connect to Centralized Mail Service
-## 4. Representative: Design Iteration and Scaffolding (Stretch)
+### 4. Representative: Design Iteration and Scaffolding (Stretch)
 - Design: (Stretch Goal) Iterate on product designs (view, search, submit) and schedule further Collab Cycle activities as needed
 - FE: (Stretch Goal): Scaffold "View Representative" page (with links to eBen for search and submit)
 
