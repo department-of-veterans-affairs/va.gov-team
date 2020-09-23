@@ -5,12 +5,14 @@
 
 ## 1.0 - End of October -beta launch
 
-1 audience type: 
+Tags: Audience and Topics
 
+Categories: How content is organized on the LC homepage e.g. disability
+
+1 audience type: 
 - All Veterans
 
 2 categories:
-
 - VA account and profile
 - Other topics and questions
 
