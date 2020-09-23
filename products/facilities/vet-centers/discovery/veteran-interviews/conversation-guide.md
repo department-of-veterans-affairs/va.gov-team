@@ -56,7 +56,7 @@ Before we start, a few things I want to mention:
 
 - How do you learn about events or services that your Vet Center offers? 
 
- - How would you like to learn about them?  
+  - How would you like to learn about them?  
 
 - If you wanted to share information about a Vet Center event with a friend or family member, how would you like to do that? 
 
@@ -64,7 +64,7 @@ Before we start, a few things I want to mention:
 
 - Have you visited multiple Vet Centers? 
 
- - If yes, what makes you choose one over the other? 
+  - If yes, what makes you choose one over the other? 
 
 ### Scenario
 In this next scenario, 
