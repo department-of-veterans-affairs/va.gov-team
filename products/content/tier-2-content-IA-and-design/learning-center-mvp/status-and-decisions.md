@@ -2,6 +2,12 @@
 
 ## mm/dd/yy
 
+## 9/23/20 
+
+See summary of findings from search.gov call wrt learning center search: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/search-feature-inside-LC/README.md#summary-of-call-with-searchgov-on-918
+
+
+
 ## 09/18/20
 
 Liz Lantz, Ryan Thurwell, and Jennifer Strickland synced on how to move forward with responsive tables for the learning center.
