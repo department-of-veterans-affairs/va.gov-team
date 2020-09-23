@@ -8,13 +8,14 @@
 Tags: Audience and Topics
 
 Categories: How content is organized on the LC homepage e.g. disability
+- VA account and profile
+- Other topics and questions
+
+Content tags: 
+- **TBD** but tentatively 1 for audience tag = All Veterans
 
 1 audience type: 
 - All Veterans
-
-2 categories:
-- VA account and profile
-- Other topics and questions
 
 Templates for Oct launch:
 
