@@ -25,4 +25,37 @@
  3. Questionnaire team will create a relatively unique URL, and send it back to the VEText to include in the notification VEText sends to the veteran. 
  4. VEText can potentially expose to us an API to know when an appointment has been scheduled so we can populate our Questionnaire list on va.gov. This would also need to include the status updates so we know if an appointment has been re-scheduled or canceled. 
 
+---
+
+#### Questionnare List from questionnaire service
+
+the health quest service in vets-api will expose an endpoint to retrieve a list of questionnaires. This endpoint would not need the typical authentication, but possibly some type of key:
+ 
+
+```
+/api.va.gov/health_quest/v0/questionnaire_list
+```
+The endpoint would use the Fhir client to obtain all relevant questionnaire records from the PGD and build list such as
+
+```
+[{name: 'question-1', id: 444}, {name: 'question-2', id: 445}, {name: 'question-3', id: 446} ... ]
+```
+
+#### VeText dropdown
+
+VeText would create a drop down to select a questionnaire to be associated with a clinic or stop code. 
+
+#### VeText questionnaire selector
+
+Once the questionnaire is selected in VeText, then VeText will send a request to selector API in the health quest service 
+
+```
+/api.va.gov/health_quest/v0/questionnaire_selector
+```
+
+the data sent to the selector API would be of the form:
+
+```
+{question_id: 445, component_id: 32, component_type: 'clinic'}
+```
 
