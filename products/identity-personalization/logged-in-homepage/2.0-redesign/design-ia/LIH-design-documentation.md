@@ -41,40 +41,6 @@ Resources
 - or other resources that came up
 
 
-## Iteration 1 - Sprint 30
-
-### Designs
-Include flows, screencaps, links to InVision prototypes, whatever captures your iteration the best.
-
-
-### Feedback & Outcomes
-
-#### Meeting Title (e.g. "Initial Presentation to Team") :
-Meeting date: XX/XX/XXXX  
-Attendees: Name, Name, Name 
-
-Outcomes
-- Bulleted list of outcomes 
-- Bulleted list of outcomes
-- Bulleted list of outcomes
-
-Resources
-- e.g. link to research readout 
-- or other resources that came up
-
-#### Meeting Title (e.g. "VSP Design Intent Collaboration") :
-Meeting date: XX/XX/XXXX  
-Attendees: Name, Name, Name 
-
-Outcomes
-- Bulleted list of outcomes 
-- Bulleted list of outcomes
-- Bulleted list of outcomes
-
-Resources
-- e.g. link to research readout 
-- or other resources that came up
-
 
 ## Iteration 1 - Sprint 30
 
