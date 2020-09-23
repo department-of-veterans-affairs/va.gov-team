@@ -70,6 +70,7 @@ Feedback
 - Remove accordion treatment from desktop, show cards and content as open
 
 Resources
+
 [How to design a better dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/logged-in-homepage/my-va/research/articles)
 
 [Discovery & Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research)
