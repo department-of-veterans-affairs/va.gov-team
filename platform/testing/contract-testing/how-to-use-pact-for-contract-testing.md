@@ -611,5 +611,7 @@ The above steps apply to changes made from the FE. Assuming the pacts are alrea
 Additional Complex Questions are documented in  the [FAQ](https://docs.pact.io/faq/)
 
 #### Can I generate my pact file from something like Swagger?
+It’s generally not recommended to generate pact files from swagger docs. According to the Pact FAQ: “The pact file is the artifact that keeps these two sets of tests in sync. To generate the pact file from anything other than the consumer tests (or to hand code it) would be to defeat the purpose of this type of contract testing. The reason the pact file exists is to ensure the tests in both projects are kept in sync - it is not an end in itself. Manually writing or generating a pact file from something like a Swagger document would be like marking your own exam, and would do nothing to ensure that the code in the consumer and provider are compatibile with each other.”
 
 #### Why doesn't Pact use JSON Schema?
+“Whether you define a schema or not, you will still need a concrete example of the response to return from the mock server, and a concrete example of the request to replay against the provider. If you just used a schema, then the code would have to generate an example, and generated schemas are not very helpful when used in tests, nor do they give any readable, meaningful documentation. If you use a schema and an example, then you are duplicating effort. The schema can almost be implied from an example.”
