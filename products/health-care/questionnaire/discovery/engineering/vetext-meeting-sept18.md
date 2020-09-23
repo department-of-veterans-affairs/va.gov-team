@@ -43,7 +43,7 @@ The endpoint would use the Fhir client to obtain all relevant questionnaire reco
 
 #### VeText dropdown
 
-VeText would create a drop down to select a questionnaire to be associated with a clinic or stop code. 
+Inside of the VeText clinician admin area, VeText would display a drop down to select a questionnaire to be associated with a clinic or stop code. 
 
 #### VeText questionnaire selector
 
@@ -59,3 +59,11 @@ the data sent to the selector API would be of the form:
 {question_id: 445, component_id: 32, component_type: 'clinic'}
 ```
 
+#### questionnaire selector API returns a URL
+
+When the health quest service recieves the information from VeText as shown above. It will send back a url of the form below.
+This URL may be shortened using a shortening formula
+
+```
+/api.va.gov/health_quest/v0/questionnaire_selected/{$questionnaire_id}/{$component_type}/{$component_id}
+```
