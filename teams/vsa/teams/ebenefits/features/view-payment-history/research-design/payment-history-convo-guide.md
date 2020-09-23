@@ -49,49 +49,52 @@ User goes to staging link
 - Now I have a link in chat to the page we're testing; **please click on it.** (Clicks on staging link to the VPH screen)
 
 ### Task 1 / Identify the bank and account for C&P payments  / 1 minute
-User performs task one...
 - If you wanted to be sure your payments were going to the correct account, where would you check?
 - Can you tell me the bank and account number that C&P payments are going to?
 
 #### Things to look for:
-- Things to look for...
+- Can useers quickly find the Bank and Account Number columns
+- Do they understand the relationship of these columns?
 
 ### Task 2 / Find the earliest entry / 2 minutes
-User performs task one...
 - If you were looking for the first payment made to you, how would you find that?
 - What is the date of the earliest payment made?
 
 #### Things to look for:
-- Things to look for...
+- Do users identify the sort function?
+- Do participants use the pagination function to move to the end of the table?
 
 ### Task 3 / Determine the highest EDU payment / 2 minutes
-User performs task one...
 - This table shows different types payments, can you tell which kinds?
 - Can you find the highest Educational payment made since payment began?
 
 #### Things to look for:
-- Things to look for...
+- How quickly do users identifiy the payment type column?
+- Do user move through the table to find all payment types?
 
 ### Task 3A / Move to the last "page" of the table / 5 minutes
-User performs task one...
-- Task 1
+- This table has information arranged in pages; can you find the first entry on the last page?
 
 #### Things to look for:
-- Things to look for...
+- Can users easily find the pagination controls?
+- Are the pagination controls understandable?
+- Do users know what "page" of the table they're on?
 
 ### Task 4 / Determine if there are returned payments / 1 minutes
-User performs task one...
-- Task 1
+- Looking at this screen, can you tell if there are any returned payments?
 
 #### Things to look for:
-- Things to look for...
+- Where do users expect to find Returned Payments?
+- Do any users look to the Payments table
+- Do users readily scroll down?
 
 ### Task 5 / Identify path to report a missing payment / 3 minutes
-User performs task one...
-- Task 1
+- If you discovered you were missisng a payment, what should you do?
 
 #### Things to look for:
-- Things to look for...
+- Where do users go first?
+- Is there "Right-Rail Blindness"?
+- Which of the instances of the 800 number seems most "available" to the user?
 
 ## Final thoughts
 - If this were an actual application, what would expect to happen next?
