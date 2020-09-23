@@ -76,7 +76,6 @@ Session length: 45 minutes
 
 Date | Time in Eastern | Slots
 -----|-----------------------|-------
-
 Tues, Sept 29 [PILOT] | 2p | - 
 Wed, Sept 30 | 7-10a, 1-2p, 7-8p | 5 
 Thur, Oct 1 | 7-10a, 1-2p, 7-8p | 5 
