@@ -28,12 +28,15 @@ There are a few things I need to mention before we start:
 - Have you received VA career counseling or education benefits in the past? What do you know about Chapter 31 or 36?
 - (If user has disability rating) Would you mind telling us what your disability rating is?
 - How often do you visit the eBenefits site? How about VA.gov?
-- **Now we're ready to start.** OK, now could you share your screen with us?
+
+OK, we'll be doing a couple of things today: 
+- First, well take a quick look at the VA.gov home page to get an idea of where you might look for the new feature
+- Then we'll go to the prototype of the new feature we're testing
 
 ## Wayfinding
 ### User screenshares / 3 minutes
-- Before we go to the prototype we're testing, we'll take a quick look at VA.gov
 - **Please go to VA.gov.**
+- **Now we're ready to start.** OK, now could you share your screen with us?
 - If you heard VA could help with finding a job or getting training, where would you look on the site?
 - This is the actual home page; you're free to click on anything.
 
