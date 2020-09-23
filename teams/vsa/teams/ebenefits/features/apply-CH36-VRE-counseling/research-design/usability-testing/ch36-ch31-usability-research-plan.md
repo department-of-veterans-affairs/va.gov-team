@@ -79,7 +79,7 @@ Recruit for 5 fulfilled sessions using the following criteria:
 
 ### Team members/roles
 - James Adams | email: jadams@governmentcio.com -- Moderator, researcher
-- Steve Kovacs | email: steve.kovacs@va.gov -- DSVA lead
+- Steve Kovacs | email: steven.kovacs@va.gov -- DSVA lead
 - Jason Wolf | email: jwolf@governmentcio.com -- eBenefits product manager
 - Shawna Hein | email: shawna@adhocteam.us -- VSA design lead
 - Kathleen Crawford | email: kcrawford@governmentcio.com -- Backend engineer
