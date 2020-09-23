@@ -1,5 +1,5 @@
 
-# Design Principles
+# IRIS Design Principles
 ---
 
 ## Overview
