@@ -1,5 +1,5 @@
 # LIH Design Documentation
-Link to product brief:  
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/product/v1-plan.md)
 
 Designers: Cassandra, Tressa
 
