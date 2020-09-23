@@ -26,7 +26,7 @@ Current clients have a favorable view of Vet Centers and the services that they 
 
 Qualitative research interviews via Zoom. 
 
-## Participants and recruitment
+## Participants and Recruitment
 
 We will utilize the Perigean contract recruiting. We'd like to schedule 30 participants to reach our goal of observing **15-20 participants**. 
 
@@ -38,7 +38,7 @@ We will utilize the Perigean contract recruiting. We'd like to schedule 30 parti
 
 - Is or was a client of a Vet Center (user screener question) 
 
-  **Screener question:**
+  **Screener Question:**
   **Are you currently or have you ever been a client of a Vet Center whereby you have participated in any of the following?**
     (Answer must be yes)  
 
