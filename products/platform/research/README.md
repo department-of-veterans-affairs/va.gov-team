@@ -102,3 +102,16 @@ Q2 2020
 Q1 2020
 
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/developer-experience)
+
+<br>
+
+#### Test Account Discovery Sprint
+
+*Service Design: James Chasia, Naomi Marcussen*
+*QA Engineering: Peter Hill*
+*BE Engineering: Keifer Furzland*
+
+Q4 2019
+
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/testing)
+
