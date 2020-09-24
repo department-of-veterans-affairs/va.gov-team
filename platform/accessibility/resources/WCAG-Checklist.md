@@ -73,6 +73,9 @@ The page MUST have a meaningful title (e.g. About us), even when included via if
    <li>The page MUST have meaningful headings to label each major section, which SHOULD start with &lt;h1&gt; (at the beginning of the main content, or at the beginning of every section of aggregated content, or at the beginning of modal dialogs), and SHOULD NOT skip heading levels, to allow screen reader users to navigate the tree structure of the heading hierarchy.	[2.4.6]()</li>
 </ol>
 
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/resources/images/dodont-headers.png" alt="annotation of a webpage showing proper use of semantic headings and styling" width="70%" />
+
+
 #### 5. Links and Navigation
 (See also Custom Widgets in Part 3 for dynamic menus (drop-down accordion, etc.)
 
