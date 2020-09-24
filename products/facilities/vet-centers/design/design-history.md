@@ -19,7 +19,7 @@ Outcomes: Recommendations from team
     - Consider: Do qualitative research with Veterans before testing design ideas
     - Consider: Communicate tone via language (not just imagery)
 - IA: 
-    - Consider: how subpages and how that affects breadcrumbs
+    - Consider: if subpages, how that affects breadcrumbs, etc
 - Content:
     - Consider: Min required vs max content
     - Consider: Nat'l vs local areas (provide tight parameters for Drupal)
