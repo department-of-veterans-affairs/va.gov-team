@@ -12,7 +12,7 @@
 | Concept Mockups | [Sketch]() | Do not use for text | TBD | --- |
 | Prototype | [UXPin]() | Get text from prototype | TBD | --- |
 
-#### Information architecture & naming
+#### Information architecture
 
 [Direct deposit for EDU  user flows]()
 
@@ -20,7 +20,7 @@
 
 ### Discovery
 
-[Direct deposit for EDU discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/design-discovery.md)
+[Direct deposit for EDU discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/add-update-EDU-direct-deposit/research-design/dd-edu-user-flows.md)
 
 [Direct Deposit Info on VA.gov]()
 
