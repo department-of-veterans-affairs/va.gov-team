@@ -5,6 +5,18 @@
 
 Cassandra, Tressa
 
+## Design Intent Meeting  - Sprint 31
+
+[Design Intent Collaboration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13415)
+
+#### First Presentation to Platform & Accessibility teams:
+Meeting date: 09/24/2020  
+Attendees: Platform team, Accessibility team, Samara, Tressa, Cassandra
+
+#### Outcomes
+- Both teams to post comments and feedback here [Design Intent Collaboration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13415)
+- Setting up weekly check ins with Platform and Accessibility team
+
 
 ## Iteration 2 - Sprint 30
 
