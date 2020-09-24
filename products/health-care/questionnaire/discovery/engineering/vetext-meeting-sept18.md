@@ -68,5 +68,7 @@ This URL may be shortened using a shortening formula
 /api.va.gov/health_quest/v0/questionnaire_selected/{$questionnaire_id}/{$component_type}/{$component_id}
 ```
 
-VeText will send the veteran an appointment reminder and indicate that they have a secure message to check and that they should log into va.gov to
-check their messages. When they get the message in the secure area, this URL will then be available for them to click in order to answer the questionnaire
+1. This is outside of the scope and would require interfacing the VA Notify system, but sounded like a long range goal:
+VeText will send the veteran an appointment reminder and indicate that they have a secure message on the my healthy vet site to check and that they should log into check their messages. When they get the message in the secure area, this URL will then be available for them to click in order to answer the questionnaire
+
+2. Instead of #1 from above, the veteran would recieve a text message with a link. This link would direct them to the va.gov health care area to fill out the questionnaire. 
