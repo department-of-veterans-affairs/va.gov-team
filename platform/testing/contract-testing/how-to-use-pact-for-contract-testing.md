@@ -632,7 +632,9 @@ The above steps apply to changes made from the FE. Assuming the pacts are alrea
 
 ### Pact FAQ
 
-Additional Complex Questions are documented in  the [FAQ](https://docs.pact.io/faq/)
+Additional questions, particularly around the design, architecture, and patterns in Pact, are answered in the [official FAQ](https://docs.pact.io/faq/).
+
+Included below are some of the FAQs that are most relevant to us and our existing tools.
 
 #### Can I generate my pact file from something like Swagger?
 It’s generally not recommended to generate pact files from Swagger docs.
