@@ -54,7 +54,13 @@ Enter an issue title using the format [ERROR TYPE]: Brief description of the pro
 
 ## Acceptance Criteria
 
-<!-- As a keyboard user, I want to open the Level of Coverage widget by pressing Spacebar or pressing Enter. These keypress actions should not interfere with the mouse click event also opening the widget. -->
+<!-- User story: As a user with cognitive considerations, I expect to see a label and input pairing consistently styled as throughout the rest of the site, with the label just above the text/email/search input or to the right of a radio/checkbox input, so that I am clearly able to understand what entry is expected. -->
+
+<!-- Acceptance criteria: 
+- [ ] All inputs have associated label elements
+- [ ] Input labels are styled consistently
+- [ ] Input labels appear immediately above the input OR to the right of a radio / checkbox
+-->
 
 ## Environment
 
