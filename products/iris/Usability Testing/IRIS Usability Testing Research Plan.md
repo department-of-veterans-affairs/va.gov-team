@@ -19,7 +19,7 @@ Please view more about the IRIS project https://github.com/department-of-veteran
 
 - ACCESSIBLE: Is our design approach usable and respectful to those with any disability related challenges, especially cognitively? 
 
-- CHAPTERS: Have we divided the IRIS form into the right number of chapters as per the Form Library? Does having Veteran and person submitting the form on two separate chapters feel natural?
+- CHAPTERS: Have we divided the IRIS form into the right number of chapters as per the Form Library? Does having Veteran and person submitting the form on two separate chapters feel natural? Does having the Review page feel excessive?
 
 - CONTENT HIERARCHY: Is the content organized (and grouped) in an intuitive manner and is it an improvement over the existing IRIS experience
 
@@ -35,13 +35,17 @@ Please view more about the IRIS project https://github.com/department-of-veteran
 Some possible include: 
 - We believe that by using the VA design pattern library users of IRIS will find the form feels consistent with the existing va.gov experience 
 
-- We believe that by breaking the form up into separate chapters we will allow users to complete the form.  (need to tighten and draw back to problems).
+- We believe that by breaking the form up into separate chapters we will allow users to complete the form. 
 
+- We believe that when users have a form with multiple pages or chapters, they may require the ability to review it, especially if they experience any cognitive challenges that may affect their ability to remember content on the first page.  By allowing them to review the form before submitting we will allow users to feel empowered that they understand what they're submitting.
 
+(need to tighten and draw back to problems or validate approach is correct one).
+
+What we'll do is have a series of usability related tasks we measure the success of and the 
 
 ## Method	
 1.	What method of research are you planning? 	
-  - usability testing with medium or high-fidelity prototypes via remote moderated research
+  - Usability testing with medium or high-fidelity prototypes via remote moderated research
   	
 2.	Why this method? How does this methodology help you answer your research questions?
   - We want to run our redesigned product by our end users to ensure we're building the right thing in the right way at the right time - the right set of features and ensure that it's accessible.  Usability testing and an interview will allow us to answer research questions and validate our assumptions.
@@ -52,16 +56,22 @@ Some possible include:
 4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 		TO FINISH
  -  We will be testing a prototype - fidelity TBD.  We have been uploading designs to Invision, but may need to set up a lightscale prototype with code (i.e. on Staging) to allow users to add content and in order to properly validate our hypothesese.
 
+
+
+
+
 5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)		TO FINISH
 
 ## Participants and Recruitment	 TO FINISH
-1.	Participant criteria: What are you looking for in a participant? TO UPDATE
+1.	Participant criteria: TO UPDATE
+
+TO FINISH
+
+1. **Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.) - TO DELETE
 
  -  Our preference would be to test with the same users we originally interviewed at the start of the project to see if this addresses their pain points, and additionally test with users living with accessibility challenges.
+ -  We would also like to ensure that some of the people we test the redesign with have cognitive challenges
 
-
-Please list your participant criteria in two categories- 	TO FINISH
-1. **Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.) 
 
 2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?	TO FINISH
 
@@ -80,12 +90,15 @@ We will work with Perigean to have the same existing usrs we worked with (the sa
 
 2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) - TO FINISH	
 
-
+- Version on Staging which will allow users to interact with a live form
 
 3. Length of Sessions: How long do you estimate each session will be? - TO FINISH
 
-
+=
 (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
+
+- likely an hour.
+
 
 4.	Availability: If applicable, when would you like sessions scheduled?  - TO FINISH
 **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
