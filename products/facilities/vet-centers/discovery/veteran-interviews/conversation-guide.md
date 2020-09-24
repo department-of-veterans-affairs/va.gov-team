@@ -105,12 +105,14 @@ If this website could be improved for you, as a regular visitor to a Vet Center,
 
     - What's most important for you to know?
 
-## Post-Task Interview - 5 minutes
+## Post-Task Interview
+
+Those are all the questions that I had for you today. 
 
 - Do you have any questions for me?
 
 
-## Thank-You and Closing - 2 minutes
+## Thank-You and Closing 
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to improve our products and services for Veterans and service members.
 
@@ -120,11 +122,14 @@ Great, well thank you so much again, and enjoy the rest of your day!
 
 ## Contingency plan:  
 
+
 If no experience with Vet Center:
 
  - What do you think a Vet Center is?
 
 I'm going to pull up a website and we're going to look at it together.
+
+**[SHARE SCREEN]**
 
 [Show Vet Center website](https://www.vetcenter.va.gov/)
 
@@ -136,16 +141,38 @@ Are you familiar with this website?  Take a minute to look it over. I'm happy to
 
 - Is there anything that you don't like on this page?
 
-- What would compel you to call or visit a Vet Center? 
+I'm going to pull up another website and we're going to look at it together. 
 
-- How would you like to have been informed that these services existed? 
+#### Scenario 
 
-I'm going to pull up another website and we're going to look at it together. Let's imagine that you live in Atlanta and you want to visit your local Vet Center.
+Let's imagine that you just learned about Vet Centers and you want to know if there is a Vet Center near you. How would you go about finding out that information? 
 
-[Show Vet Center Detail page](https://www.va.gov/find-locations/facility/vc_0304V)
+If, no suggestion is given:
+
+We're going to imagine that you live in Atlanta: [Show Vet Center Detail page](https://www.va.gov/find-locations/facility/vc_0304V)
+
+Take a minute to look at this page. Let's focus on this area here:
 
 - What kind of services would you find most useful? 
 
     - Is there any other information about the services available at a Vet Center that you'd like to see?
 
+- What would make you want to call or visit a Vet Center? 
+
+- What would keep you from calling or visiting a Vet Center?
+
+- How would you like to have been informed that Vet Centers and these services existed? 
+
+## Post-Task Interview
+
+Those are all the questions that I had for you today. 
+
+- Do you have any questions for me?
+
+
+## Thank-You and Closing 
+
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to improve our products and services for Veterans and service members.
+
+Great, well thank you so much again, and enjoy the rest of your day!
 
