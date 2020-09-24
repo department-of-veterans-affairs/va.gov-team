@@ -98,7 +98,7 @@ Please list the people who will be serving in each role.
 
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/product-outline.md)	
 - [IRIS notes folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/iris)
-- Convo Guide (to come)	
+- [Convo Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/iris/contact-center-interview-1-conversation-guide.md)	
 - Synthesis (to come)
 - Lessons Learned (to come)
 - Read-Out/Results (to come)
