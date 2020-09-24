@@ -335,13 +335,48 @@ We considered hardware and OS mantenance issues more heavily than a larger user 
 We started with the thought of supporting API 21, which would cover most users from GA analysis.
 ## When, or under what conditions, would you recommend revisiting this design decision?
 This decision should be revisited at least yearly, as new OS releases are published. At that time we may consider keeping or dropping support for the oldest supported OS.
+# Decision 7: Device Testing Matrix
+## Describe the problem you are trying to solve.
+The VA Mobile App will need to test builds and UI accross a wide rage of screen sizes and operating system versions. We will need to decide what real devices are needed for testing.
 
+## Describe any design, technology, and/or policy constraints that impact the problem and/or its possible solutions.
+The VA mobile app will be on Android devices with Android Operating System (OS) 26+ and on iOS devices OS version 12+. We will need to find an array of devices that hit all of these OSes as well as hit a large number of viewport sizes. The goal is to maximize the cross sections of these constraints with the least number of devices. 
+
+## What did you decide on?
+VA Mobile app team has decided to use the following real devices for testing: 
+
+| OS      | DEVICE                     | SCREEN SIZE |
+|---------|----------------------------|-------------|
+| iOS     | iPhone SE                  | 320x568     |
+| iOS     | iPhone XR                  | 375x812     |
+| iOS     | iPhone 11                  | 414x896     |
+| Android | Samsung Galaxy S7          | 360x640     |
+| Android | Samsung Galaxy S9          | 360x740     |
+| Android | Samsung Galaxy Note9       | 412x846     |
+| Android | Motorola Moto G7 Power     | 360x760     |
+| Android | Google Pixel 3XL           | 412x846     |
+| Android | LG LM-Q720 Stylo 5         | 412x823     |
+
+These devices should cover the range of OSes and screen sizes to maximize the opportunity to fix any resolution or OS issues within the app before release. 
+
+## Document the people who agreed to the design decision (and their roles on the project)
+- Steve Kovac (VA DEPO)
+
+## What was the deciding factor for your decision?
+- Test devices should cover all of the current OS versions the app is targeting
+- Test devices should cover the widest array of screen viewport sizes possible
+- Test devices should not need to be rooted or jailbroken to load the target OS. It should have received the update from the phone vendor, not the user
+
+## What other options did you consider?
+A device at 320x658 was searched for to find the bottom-end of screen widths, but no devices we found were avaiable on Android version 26+. We decided to move these resolution tests to an emulated device and to add the Samsung Galaxy S7 to pick up the 360x640 resoltion sizes. 
+
+## When, or under what conditions, would you recommend revisiting this design decision?
+Recommendation to revisit this matrix at any time the taget OS versions are changed for the app, as well as any time a phone vendor releases a significantly different viewport size/configuration with high adoption. Consideration will also need to be made on a case by case basis on whether to test for newer format devices with folding screens or non-standard screen configurations like the LG Wing
 
 # Other Decisions we need to elaborate on:
 * Decision: the mobile app will not source any content from a CMS
 * more API work needed: we will work with VEText to define a push notification and preferences api for appointments (@alastair, @jonathan)
 * the app will only allow level 3 users. we are documenting flows for DSLogon/ID.me/MHV so we can design the UX for non-level-3 visitors to the app (@Patrick Saxton)
-* Decision: we agreed on device support matrix (@erik)
 * Decision: MVP will not have any specific tablet support
 * the app will be built and released under the official VA accounts
 * we will support accessibility WCAG, more discussion tomorro
