@@ -540,7 +540,7 @@ test_database_url: postgis://postgres:password@postgres:5432/vets_api_test
 
 The verification task can be run at any point in development, but it may be helpful to run frequently to point out failures during development iterations. 
 
-***Troubleshooting*** If you happen to see the following error in the console after updating the ```test_database_url``` in ```config/test.yml``` when following the docker workflow, the config/database.yml file may need to be changed instead of the test_database_url:
+***Troubleshooting*** You may encounter the following error in the console when following the Docker workflow:
 
 ``` 
      PG::ConnectionBad:
