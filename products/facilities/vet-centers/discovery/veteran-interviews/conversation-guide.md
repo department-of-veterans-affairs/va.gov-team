@@ -26,7 +26,7 @@ Before we get started, I want to give you an idea of what this call will be like
 - **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?" 
 
 
-## Warm-up Questions - 5 minutes
+## Warm-up Questions 
 
 - Can you tell me briefly about your service history?
 
@@ -62,9 +62,9 @@ Before we get started, I want to give you an idea of what this call will be like
 
 - If you had to rank the things offered at a Vet Center in order of importance what would that look like for you? 
 
-- Have you visited multiple Vet Centers? 
+- Have you visited more than one Vet Center? 
 
-  - If yes, what makes you choose one over the other? 
+  - If yes, do these Vet Centers differ in any way or do you prefer one over the other? 
   
 ## A client’s concept of a Vet Center: 
 
@@ -83,9 +83,11 @@ Before we get started, I want to give you an idea of what this call will be like
 
 I'd like you to imagine a scenario: 
 
-- You have a friend, a fellow [Veteran, service member], who you’ve noticed has been going through a rough time. You think he or she might benefit from visiting a Vet Center. What would be important for them to hear or to understand about a Vet Center to make them want to call or visit?
+You have a friend, a fellow [Veteran, service member], who you’ve noticed has been going through a rough time. You think he or she might benefit from visiting a Vet Center. 
 
-- What would deter them from calling or visiting a Vet Center? 
+    - What is the most important thing for someone to know before visiting for the first time?
+    - What would make them comfortable calling or visiting a Vet Center?
+    - What would deter them from calling or visiting a Vet Center? 
 
 
 ## Services critique: 
@@ -95,8 +97,13 @@ I'd like you to imagine a scenario:
 
 - Does this list match your experience and knowledge of a Vet Center? 
 
+    - Is there any other information that you would want as part of these service listings?
+
 - Could any of the services be renamed or changed to be more reflective of your experience? 
 
+If this website could be improved for you, as a regular visitor to a Vet Center, what would change?
+
+    - What's most important for you to know?
 
 ## Post-Task Interview - 5 minutes
 
@@ -113,12 +120,32 @@ Great, well thank you so much again, and enjoy the rest of your day!
 
 ## Contingency plan:  
 
-If no experience with Vet Center, [Show Vet Center website](https://www.vetcenter.va.gov/)
+If no experience with Vet Center:
+
+ - What do you think a Vet Center is?
+
+I'm going to pull up a website and we're going to look at it together.
+
+[Show Vet Center website](https://www.vetcenter.va.gov/)
+
+Are you familiar with this website?  Take a minute to look it over. I'm happy to click around for you as well.
 
 - What can you tell me about a Vet Center? 
 
-- What kind of services would you find most useful? 
+- Is there anything that interests you on this page? 
+
+- Is there anything that you don't like on this page?
 
 - What would compel you to call or visit a Vet Center? 
 
 - How would you like to have been informed that these services existed? 
+
+I'm going to pull up another website and we're going to look at it together. Let's imagine that you live in Atlanta and you want to visit your local Vet Center.
+
+[Show Vet Center Detail page](https://www.va.gov/find-locations/facility/vc_0304V)
+
+- What kind of services would you find most useful? 
+
+    - Is there any other information about the services available at a Vet Center that you'd like to see?
+
+
