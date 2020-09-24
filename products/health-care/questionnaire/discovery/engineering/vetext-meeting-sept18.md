@@ -25,6 +25,8 @@
  3. Questionnaire team will create a relatively unique URL, and send it back to the VEText to include in the notification VEText sends to the veteran. 
  4. VEText can potentially expose to us an API to know when an appointment has been scheduled so we can populate our Questionnaire list on va.gov. This would also need to include the status updates so we know if an appointment has been re-scheduled or canceled. 
 
+[Recent diagram from Shane Elliot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/assets/clipboard-VEText.jpg)
+
 ---
 
 #### 1. Questionnare List from questionnaire service
