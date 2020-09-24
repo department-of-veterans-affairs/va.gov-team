@@ -32,6 +32,8 @@
    - What other systems are being used?
    - What's working well for each contact center in terms of content creation and management?
    - What isn't working well?
+   - Who should we talk to next?
+   - Which parts of these content management processes are things we can observe and learn from?
 
 4. Our hypothesis for this research is that:
    - There will be a lot of variance between contact centers in terms of the team structure, size, and processes in place.
