@@ -16,11 +16,11 @@ We broke this strategy down into 3 phases.
 
 ## Phase 1: Create 2-3 high-level concepts for logged-in homepage: ~ 1 sprint
 
-- [ ] Storyboarding [#12861](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12861)
-- [ ] Data points [#12861](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12861)
-- [ ] Whiteboarding [#13251](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13251)
-- [ ] Wireframing (2-3 high level concepts) [#13251](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13251)
-- [ ] Review with team and pick preferred concept [#13251](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13251)
+- [x] Storyboarding [#12861](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12861)
+- [x] Data points [#12861](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12861)
+- [x] Whiteboarding [#13251](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13251)
+- [x] Wireframing (2-3 high level concepts) [#13251](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13251)
+- [x] Review with team and pick preferred concept [#13251](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13251)
 - [ ] Platform checkpoint [#13255](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13255) 
 
 ## Phase 2: Design Healthcare, Claims sections: ~ 3-4 sprints
