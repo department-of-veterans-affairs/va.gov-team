@@ -327,8 +327,7 @@ Supporting only newer operating systems reduces the maintenance complexity of th
 - iOS: support version 12 (previos), 13 (current), and 14 (beta, to be released in October 2020)
 - Android: support API version 26 and above
 ## Document the people who agreed to the design decision (and their roles on the project)
-- Patrick Saxton @lexicalninja (Mobile Engineer, Ad Hoc)
-- Brandon Levinger @BLevinger (Mobile Engineer SME, Digital Foundry)
+- Steve Kovacs (DEPO)
 ## What was the deciding factor for your decision?
 We considered hardware and OS mantenance issues more heavily than a larger user base. By accepting more users with older OS's, we will also be accepting more maintenance issues. Also noted was that many folks keep older Android devices for web browsing only, so the GA stats may be skewed older.
 ## What other options did you consider?
@@ -366,6 +365,7 @@ These devices should cover the range of OSes and screen sizes to maximize the op
 - Test devices should cover all of the current OS versions the app is targeting
 - Test devices should cover the widest array of screen viewport sizes possible
 - Test devices should not need to be rooted or jailbroken to load the target OS. It should have received the update from the phone vendor, not the user
+- For Android, even though the highest used devices were Samsung, it is important for VA to test devices from other companies as well (Motorola, Google and LG)
 
 ## What other options did you consider?
 A device at 320x658 was searched for to find the bottom-end of screen widths, but no devices we found were avaiable on Android version 26+. We decided to move these resolution tests to an emulated device and to add the Samsung Galaxy S7 to pick up the 360x640 resoltion sizes. 
