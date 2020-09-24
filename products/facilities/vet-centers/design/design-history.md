@@ -1,6 +1,7 @@
 # Vet Center Detail Page Design History
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/discovery-brief.md)
-Designers: Leyda Hughes
+
+Designer: Leyda Hughes
 
 ## Iteration 1 - Sprint 30
 
