@@ -1,6 +1,7 @@
 # New VAOS api notes
 
 Notes regarding the API defined at https://coderepo.mobilehealth.va.gov/projects/VAR/repos/vaos-service/browse/vaos-service/src/main/resources/swagger.json
+New MFS api WIP design: https://app.swaggerhub.com/apis-docs/crosbyb/MFS/2.0.0#/
 
 ## General
 
