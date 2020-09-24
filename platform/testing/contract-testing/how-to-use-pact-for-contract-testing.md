@@ -111,9 +111,14 @@ Pact is language agnostic and has packages for both Node.js and Ruby, so both `v
 
 The purpose of contract testing is to ensure that the consumer and provider have a shared understanding of the messages that will pass between them. It’s best practice for the interaction to be explicit to what the state of the interaction defined in the contract does. VSP is requiring an explicit/descriptive naming policy for interactions. The naming convention policy is in place as a best practice for developers to understand the purpose of the interaction. 
 
-Pacts are namespaced per consumer in the broker and on the backend in the provider state files. This [example](https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.gov%20API/consumer/Search/latest) links to the interactions for the search consumer. A provider state file on the backend will then need to explicitly define a state for each interaction listed in the pact contract.
+Pacts involve a consumer and provider pair that are named from the pact tests written on the consumer side (in vets-website). When writing pact tests, follow these naming conventions:
+- The consumers are the apps in vets-website and should be named accordingly. Every app's `manifest.json` has an `appName` value that may be referenced as the consumer name, whether in full or in shorthand (as long as it's clear).
+- The provider is vets-api and should be named as "VA.gov API" in the pacts.
+- For example, [this pact in the broker](https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.gov%20API/consumer/Search/latest) describes the interactions between the Search app and VA.gov API.
 
-The [search example](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/provider_states_for/search.rb) interactionstates that “at least one matching result exists” and describes what’s expected for the interaction to be successful.  
+Provider states are namespaced also by pairings of consumer and provider. When defining states in vets-api, the provider in this context is always "VA.gov API", so sets of states are effectively namespaced per consumer using provider state files. A provider state file defines all the provider states used in the pact for a given consumer.
+- In vets-api, provider state files are located in `spec/services_consumers/provider_states` and named after the vets-website apps that are consumers vets-api.
+- For example, [the provider state file for search](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/provider_states_for/search.rb) has a state described as “at least one matching result exists”, which sets up the expected preconditions for any interaction that uses this state in the search pact.
 
 
 #### Naming Collisions
