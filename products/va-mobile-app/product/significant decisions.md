@@ -359,7 +359,7 @@ VA Mobile app team has decided to use the following real devices for testing:
 These devices should cover the range of OSes and screen sizes to maximize the opportunity to fix any resolution or OS issues within the app before release. 
 
 ## Document the people who agreed to the design decision (and their roles on the project)
-- Steve Kovac (VA DEPO)
+- Steve Kovacs (VA DEPO)
 
 ## What was the deciding factor for your decision?
 - Test devices should cover all of the current OS versions the app is targeting
@@ -371,7 +371,7 @@ These devices should cover the range of OSes and screen sizes to maximize the op
 A device at 320x658 was searched for to find the bottom-end of screen widths, but no devices we found were avaiable on Android version 26+. We decided to move these resolution tests to an emulated device and to add the Samsung Galaxy S7 to pick up the 360x640 resoltion sizes. 
 
 ## When, or under what conditions, would you recommend revisiting this design decision?
-Recommendation to revisit this matrix at any time the taget OS versions are changed for the app, as well as any time a phone vendor releases a significantly different viewport size/configuration with high adoption. Consideration will also need to be made on a case by case basis on whether to test for newer format devices with folding screens or non-standard screen configurations like the LG Wing
+Recommendation to revisit this matrix any time the taget OS versions are changed for the app, as well as any time a phone vendor releases a significantly different viewport size/configuration with high adoption. **Basically once or twice a year.** Consideration will also need to be made on a case by case basis on whether to test for newer format devices with folding screens or non-standard screen configurations like the LG Wing.
 
 # Other Decisions we need to elaborate on:
 * Decision: the mobile app will not source any content from a CMS
