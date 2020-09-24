@@ -6,6 +6,8 @@
 
 See summary of findings from search.gov call wrt learning center search: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/search-feature-inside-LC/README.md#summary-of-call-with-searchgov-on-918
 
+Tl;dr - today, we can show the content type labels on FE generated article list pages; but search.gov does not have this ability for dynamic search results. In order to keep consistency between the 2 types of pages, in MVP 1.0 we are suppressing content type labels on the static article list landing pages.
+
 LC Search - MVP 1.0
 - In scope
   - Search.gov-driven keyword search 
@@ -18,6 +20,9 @@ Articles List - MVP 1.0
   - Lists organized by: X LC Category, All articles tagged Y content tag
 - Not in scope
   - LC content type embedded in the list items
+
+MVP 1.1 - Article list and search results pages:
+- PW FE will begin investigating custom options to include content type labels on the search results, so we can have consistent experience when we add content type labels in 1.1 static article list landing pages. 
 
 ## 9/22/20 
 
