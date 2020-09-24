@@ -1,4 +1,4 @@
-# Direct Deposit for EDU: inbound user flows
+# Direct Deposit for EDU: discovery & process flows
 **VSA AuthdExp/eBenefits Teams | October 2020**
 
 `James Adams, designer | Slack: @Jim Adams | GH: Sporeboy`
