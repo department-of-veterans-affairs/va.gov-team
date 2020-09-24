@@ -7,6 +7,12 @@
   * [Requirements](#requirements-draft)
   * [Process](#process)
   * [Implementation details](#implementation-details)
+    + [Naming Conventions](#naming-conventions)
+	+ [Naming Collisions](#naming-collisions)
+  * [FE/BE Communications](#fe-be-communications)
+    + [Example Workflow for Search](#example-workflow-for-search)
+	+ [Communication and Interaction](#communication-and-interaction)
+    + [Response Types and Matching](#response-types-and-matching)
 - [Configuring the `vets-website` consumer codebase](#configuring-the-vets-website-consumer-codebase)
   * [Running contract tests](#running-contract-tests)
   * [Writing a contract test](#writing-a-contract-test)
@@ -27,6 +33,7 @@
     + [Naming Guidelines](#naming-guidelines)
     + [Authorization](#authorization)
     + [VCR](#vcr)
+	+ [Flipper](#flipper)
   * [2. Adjust developer configurations](#2-adjust-developer-configurations)
     + [Configure the `pact_uri/broker_url`](#configure-the--pact-uri-broker-url-)
   * [3. Run the verification task](#3-run-the-verification-task)
@@ -35,6 +42,11 @@
   * [5. Remove developer configurations](#5-remove-developer-configurations)
   *  [Broker matrix and tagging](#broker-matrix-and-tagging)
   *  [CircleCI](#circleci)
+  *  [CircleCI and the Build Process](#circleci-and-the-build-process)
+     + [Deploy Strategy and Tagging](#deploy-strategy-and-tagging)
+	 + [Frontend](#frontend)
+	 + [Backend](#backend)
+  *  [Pact FAQ](#pact-faq)
 
 ## Introduction
 
@@ -42,7 +54,7 @@ Pact is a tool that enables consumer driven contract testing (CDCT) by defining 
 
 Pact is most valuable for designing and testing integrations where your organization controls the development of both the consumer (`vets-website`) and the provider (`vets-api`), and the requirements of the consumer are going to be used to drive the features of the provider.
 
-Pact enables VFS teams to test integration points with vets-api in a non-production environment. This gives VFS teams the ability to ensure that their app is production-ready, and helps VSP ensure that platform-wide changes are non-breaking. Pact allows VFS and VSP to catch issues with integrations before they reach production, and satisfies the need for end-to-end integration tests between  `vets-website`  and  `vets-api`  as part of VA.gov's automated testing processes. 
+Pact enables VFS teams to test integration points with vets-api. This gives VFS teams the ability to ensure that their app is production-ready, and helps VSP ensure that platform-wide changes are non-breaking. Pact allows VFS and VSP to catch issues with integrations before they reach production, and satisfies the need for end-to-end integration tests between  `vets-website`  and  `vets-api`  as part of VA.gov's automated testing processes. 
 
 [Learn more about Pact](https://docs.pact.io/)
 
@@ -94,6 +106,45 @@ Pact is language agnostic and has packages for both Node.js and Ruby, so both `v
 
 
 **Pact helper** - Pacts verified by the `pact:verify` task and configured in the `pact_helper.rb` file in your provider codebase. Currently, the `pact_helper` implements rspec and pact configurations as well as `git_sh`a and `git_branch tagging` for the consumer and provider in the broker. 
+
+#### Naming Conventions
+
+The purpose of contract testing is to ensure that the consumer and provider have a shared understanding of the messages that will pass between them. **To that end, we follow a policy of explicit or descriptive naming when defining interactions and provider states.** The goal is for developers to understand any interaction in a pact. 
+
+Pacts involve a consumer and provider pair that are named from the pact tests written on the consumer side (in vets-website). When writing pact tests, follow these naming conventions:
+- The consumers are the apps in vets-website and should be named accordingly. Every app's `manifest.json` has an `appName` value that may be referenced as the consumer name, whether in full or in shorthand (as long as it's clear).
+- The provider is vets-api and should be named as "VA.gov API" in the pacts.
+- For example, [this pact in the broker](https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.gov%20API/consumer/Search/latest) describes the interactions between the Search app and VA.gov API.
+
+Provider states are namespaced also by pairings of consumer and provider. When defining states in vets-api, the provider in this context is always "VA.gov API", so sets of states are effectively namespaced per consumer using provider state files. A provider state file defines all the provider states used in the pact for a given consumer.
+- In vets-api, provider state files are located in `spec/services_consumers/provider_states` and named after the vets-website apps that are consumers vets-api.
+- For example, [the provider state file for search](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/provider_states_for/search.rb) has a state described as “at least one matching result exists”, which sets up the expected preconditions for any interaction that uses this state in the search pact.
+
+
+#### Naming Collisions
+
+Interaction/provider state naming collisions will NOT exist outside of a consumer namespace, but could exist within the same consumer namespace. Ex: If a Search contract has an interaction defined as “test interaction” and the User contract has defined interaction of “test interaction” a naming collision will not exist because the two interactions exist within separate consumer namespaces. 
+
+The above described collision COULD exist within the same consumer namespace, so developers need to be explicit as to the state of the interaction when developing interactions within a consumer namespace. E.g. Search
+
+### FE/BE Communications
+
+When in the development process, FE and BE engineers may need to organize communication efforts. The pact workflow is a collaborative effort that developers will need to iterate on. As a first step in the process, the FE engineer will push a pact to the broker. The BE engineer will then use the pact from the broker to set up a matching provider state(s). Provider states follow strict naming conventions for the given consumer and its respective interactions. Often times, there will need to be adjustments to the expected response/requests defined in the pact following verification on the backend. 
+
+#### Example Workflow for Search
+In the search example, an interaction exists for the search contract with the name of “at least one matching result exists”
+On the [backend](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/provider_states_for/search.rb), a provider state matching the search consumer will need to be set up as an exact match the interaction defined in the pact
+If an adjustment needs to be made to a request/response defined in a pact, then the communication efforts will need to be coordinated between FE and BE engineers. 
+
+#### Communication and Interaction
+Once the BE engineer runs the pact verification task, possible adjustments to the expected requests and responses defined in the pact may be needed. BE and FE engineers will need to communicate pact request/response adjustments as necessary during the development process. Pact again is a collaborative effort and by no means does it amount to the development process being one sided. The development iterations should have equal efforts from the respective backend and frontend team members. 
+
+
+#### Response Types and Matching
+Pact contracts test response types and not all response permutations. For example, if a response attribute is expected to be a string, you don’t necessarily care about the exact value, but rather that the value is present and it’s particular type. Ex: “Test string 1”, vs “Test String 2”. Testing response types ensures that the provider actually does provide the response the consumer expects. Often times the request and response values are difficult to determine beforehand( ex: timestamps or ids) and this is where regular expressions come into play when determining types. See [pact matching documentation](https://docs.pact.io/implementation_guides/ruby/matching/)
+
+It’s important to remember that pact contract testing is not functional testing.  Contract tests focus on the messages that flow between a consumer and provider, while functional tests ensure that the correct side effects have occured as well. When writing a test for an interaction, ask yourself what you are trying to cover. The goal here is not to create unnecessarily tight contracts and dig into the business logic, but rather verify that Consumers and Providers have a shared understanding of what requests and responses should be.
+
 
 ## Configuring the `vets-website` consumer codebase 
 
@@ -406,6 +457,8 @@ A custom generator is in place to create a boiler plate provider state file for 
 
 Please see the [provider state documentation](https://github.com/pact-foundation/pact-ruby/wiki/Provider-states#provider-codebase) for provider state instructions. Additionally, see the [search example](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/provider_states_for/search.rb#L3).
 
+[Base states](https://docs.pact.io/implementation_guides/ruby/provider_states/#base-state) can be used to DRY up provider state files if the interaction requires code that should run before/after each interaction. For additional provider state settings see the [pact documentation](https://docs.pact.io/implementation_guides/ruby/provider_states/)
+
 #### Using a local file if blocked by frontend 
 
 If you're waiting on frontend to generate the contract and push to the broker, you can use a temporary (local) contract. You can verify a pact at any arbitrary local or remote URL using the `pact:verify:at` task. 
@@ -435,6 +488,12 @@ If an authorized `vets-api` user is needed for a request to an endpoint, a helpe
 #### VCR
 
 Many of the `vets-api` endpoints call out to external services. To mock external service calls, the pact helper has VCR configured for usage. VCR cassettes can be used to mock external service responses for many of the `vets-api` third party service calls. The defined provider state in the [search example](https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.gov%20API/consumer/Search/latest) makes use of a VCR cassette.
+
+***Important***:
+If using cassettes across provider states in the same file, you may want to explicily define the VCR cassette ejection. ```VCR.eject_cassette('search/success_utf8')``` There was a bug noted that the provider state tear downs were ejecting all cassettes and not just the one they load, resulting in odd VCR behavior.
+
+#### Flipper
+In the case that you don't have VCR tapes to cover multiple states for various interactions, you may need to utilize flipper feature toggle functionality. 
 
 ### 2. Adjust developer configurations
 
@@ -488,9 +547,30 @@ test_database_url: postgis://postgres:password@postgres:5432/vets_api_test
 
 The verification task can be run at any point in development, but it may be helpful to run frequently to point out failures during development iterations. 
 
+***Troubleshooting*** You may encounter the following error in the console when following the Docker workflow:
+
+``` 
+     PG::ConnectionBad:
+       could not connect to server: No such file or directory
+       	Is the server running locally and accepting
+       	connections on Unix domain socket "/var/run/postgresql/.s.PGSQL.5432"?
+
+```
+
+If you're still seeing the error after setting `test_database_url` in `config/test.yml`, try explicitly setting `test.url` in `config/database.yml` instead, but don't commit this change.
+
+``` 
+test:
+  url: postgis://postgres:password@postgres:5432/vets_api_test
+
+```
+
+
 ### 4. Verify your results
 
 When the verification task completes, passing (green) and failing (red) interactions will display in the console. See example console output below. Verification status can also be viewed on the broker index page and in the verification matrix after commiting a change and CI runs the build workflow. See [broker matrix section](#broker-matrix-and-tagging) below.
+
+The diff formatter when running the verification task can be configured for development purposes based on personal preference. The default configuration is the list format. See [diff_formatter documentation](https://docs.pact.io/implementation_guides/ruby/configuration/#diff_formatter)
 
 ![](https://i.imgur.com/7scCEhi.png)
 
@@ -531,3 +611,30 @@ The CircleCI build for vets-api is still under construction with respect to para
 The pact verification functionality is in working order for developer usage when a commit is pushed or when invoked via webhook from the pact broker during a contract content changed event. 
 
 When the pact verification task runs in CircleCI (via the build or verification workflow), verification results are pushed back to the broker after the workflow completes.
+
+### CircleCI and the Build Process
+
+#### Deploy Strategy and Tagging
+Every build of vets-website publishes pacts, tags the version with the name of the branch, and triggers the verification task from a master build of vets-api.
+
+
+* Every build of vets-api verifies pacts tagged as `master` as well as [work-in-progress (WIP) pacts](https://docs.pact.io/pact_broker/advanced_topics/wip_pacts). If verification was successful, the build will the results with the name of the vets-api branch.
+#### Frontend
+If verification was successful, the CI pipeline will proceed to deploy. If it failed, the pipeline will stop the deploy. For a feature branch, a successful verification allows a PR to be merged while a failed verification blocks a PR from merging. If the CI job responsible for the verification task fails to publish the verification results, the can-i-deploy check would also fail, since it's looking for a passing verification. It would be possible to re-run the verification task job in Circle CI in the event that it fails.
+
+#### Backend
+The above steps apply to changes made from the FE. Assuming the pacts are already in place, the only relevant step for the BE CI pipeline is running the verification Rake task to ensure that any API changes don't break existing contracts in the appropriate environments.
+
+
+### Pact FAQ
+
+Additional questions, particularly around the design, architecture, and patterns in Pact, are answered in the [official FAQ](https://docs.pact.io/faq/).
+
+Included below are some of the FAQs that are most relevant to us and our existing tools.
+
+#### Can I generate my pact file from something like Swagger?
+It’s generally not recommended to generate pact files from Swagger docs.
+> The pact file is the artifact that keeps these two sets of tests in sync. To generate the pact file from anything other than the consumer tests (or to hand code it) would be to defeat the purpose of this type of contract testing. The reason the pact file exists is to ensure the tests in both projects are kept in sync - it is not an end in itself. Manually writing or generating a pact file from something like a Swagger document would be like marking your own exam, and would do nothing to ensure that the code in the consumer and provider are compatibile with each other.
+
+#### Why doesn't Pact use JSON Schema?
+> Whether you define a schema or not, you will still need a concrete example of the response to return from the mock server, and a concrete example of the request to replay against the provider. If you just used a schema, then the code would have to generate an example, and generated schemas are not very helpful when used in tests, nor do they give any readable, meaningful documentation. If you use a schema and an example, then you are duplicating effort. The schema can almost be implied from an example.
