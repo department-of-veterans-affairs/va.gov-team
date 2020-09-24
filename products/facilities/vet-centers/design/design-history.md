@@ -28,6 +28,7 @@ Outcomes: Recommendations from team
     - Consider: right aligning images instead of left aligning to avoid any awkward alignments
     - Consider: “featured story” for the horizontal groups of 3 across the page
     - Consider: 'On this page' component OR left nav from VAMC 
+    - Consider: Photo descriptions for non-sighted
 - Accessibility: [#13728](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13729#issuecomment-696659540)
     - Must: Flesh out mobile designs to clarify hierarchy 
     - Should: Consider load times with imagery, load progressively (e.g. cellular connectivity)
