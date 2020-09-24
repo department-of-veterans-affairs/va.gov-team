@@ -1,11 +1,9 @@
-# Design Doc Template
+# Bundling forms library as a Node package
 
-_Replace the previous line with the the title of your project or component and replace the following lines with your name(s), email and the date._  
-**Author(s):** Albert J. Wong  
-**Last Updated:** January 24, 2020  
+**Author(s):** Brooks Johnson 
+**Last Updated:** September 24, 2020  
 **Status:** **Draft** | In Review | Approved  
-**Approvers:** _Person A_ \[ \], _Person B_ \[ \], ...  
-_Replace the previous line with 2-4 people, all of whom must explicitly approve your design proposal. An important part of the design doc is building consensus with key stakeholders, technical implementers who you'll work with, and technical contacts for other systems that this proposal affects or is affected by._
+**Approvers:** _Chris Valarida_ \[ \], _Andrew Gunsch_ \[ \], ...  
 
 _For the rest of the document, replace all the italicized text. The document is designed to guide your thinking through a general design process. Not all sections are always applicable. If a section is not applicable, just say so._
 
@@ -19,15 +17,34 @@ _The intended audience for this document is software engineers, but it should ma
 
 
 ## Overview
-_Nothing goes here; all the content belongs in the subsections._
 
 ### Objective
 _In the objective section you should include a succinct 1-3 sentence statement of the objective of your project. It is also useful to state non-goals. Bulleted lists are great. Finally, state who the intended audience for the document is._
+
+The goal of this project is to define clear boundaries around the collection of code, markup, and styling that is referred to as "the forms library".
+
+Some non-goals are:
+
+- Bug fixes to the forms library
+- Adding new features to the forms library
+- Refactoring the forms library beyond what is required to group the existing code together in the same package
 
 ### Background
 _The background section should contain information the reader needs to know to understand the problem being solved. This can be a combination of text and links to other documents._
 
 _Do **NOT** describe the solution here. That goes in High Level Design._
+
+The forms library is a collection of React components, CSS, and JS that allows an app team to build a form application for `vets-website` using a combination of JSON schemas.
+
+Right now in `vets-website` we have the following folders containing code for the forms library:
+
+- `src/platform/forms`
+- `src/platform/forms-system`
+
+We also have forms-adjacent code in the form of other dependencies
+
+- `@department-of-veterans-affairs/react-jsonschema-form`
+- `vets-json-schema`
 
 ### High Level Design
 _A high-level description of the system. This is the most valuable section of the document and will probably receive the most attention. You should explain, at a high level, how your system will work. Don't get bogged down with details; those belong later in the document._
@@ -36,8 +53,11 @@ _A diagram showing how the major components communicate is very useful and a gre
 
 _Most diagrams will need to be updated over time as the design evolves, so please create your diagrams with a program that is easily (and freely) available and attach the diagram source to the document to make it easy for a future maintainer (who could be you) to update the diagrams along with the document._
 
+**TODO: Add diagram**
+
+This change should not have a noticeable impact on individual app teams.
+
 ## Specifics
-_Nothing goes here; all the content belongs in the subsections._
 
 ### Detailed Design
 _Designs that are too detailed for the above High Level Design section belong here. Anything that will require a day or more of work to implement should be described here._
@@ -48,14 +68,23 @@ _It is important to include assumptions about what external systems will provide
 
 _Here's an easy rule of thumb for deciding what to write here: Think of anything that would be a pain to change if you were requested to do so in a code review. If you put that implementation detail in here, you'll be less likely to be asked to change it once you've written all the code._
 
+- Use the `no-unresolved-modules` ESLint plugin to find & remove unused code in the `forms` and `forms-library` directories
+- Copy what remains from `forms` into `forms-system`
+- [Add an alias to the `babelrc` file](https://github.com/department-of-veterans-affairs/vets-website/blob/055d96c54e1df54138b9efc589b98e55962333b3/.babelrc#L50-L55) that redirects imports from `platform/forms` to `platform/forms-system`
+- Edit the webpack config & use a custom `sass-loader` importer to rewrite imports from `forms` to `forms-system`
+
 ### Code Location
 _The path of the source code in the repository._
+
+The forms library package will live in `src/platform/packages/forms-library`
 
 ### Testing Plan
 _How you will verify the behavior of your system. Once the system is written, this section should be updated to reflect the current state of testing and future aspirations._
 
 ### Logging
 _What your system will record and how._
+
+N/A
 
 ### Debugging
 _How users can debug interactions with your system. When designing a system it's important to think about what tools you can provide to make debugging problems easier. Sometimes it's unclear whether the problem is in your system at all, so a mechanism for isolating a particular interaction and examining it to see if your system behaved as expected is very valuable. Once a system is in use, this is a great place to put tips and recipes for debugging. If this section grows too large, the mechanisms can be summarized here and individual tips can be moved to another document._
@@ -70,8 +99,12 @@ _To be determined._
 ### Security Concerns
 _This section should describe possible threats (denial of service, malicious requests, etc) and what, if anything, is being done to protect against them. Be sure to list concerns for which you don't have a solution or you believe don't need a solution. Security concerns that we don't need to worry about also belong here (e.g. we don't need to worry about denial of service attacks for this system because it only receives requests from the api server which already has DOS attack protections)._
 
+N/A
+
 ### Privacy Concerns
 _This section should describe any risks related to user data, PII that are added by this new application. Think about flows of user data through systems, places data is stored and logged, places data is displayed to users. Where is user data stored or logged? How long is it stored?_
+
+N/A
 
 ### Open Questions and Risks
 _This section should describe design questions that have not been decided yet, research that needs to be done and potential risks that could make make this system less effective or more difficult to implement._
@@ -94,5 +127,4 @@ _The table below should record the major changes to this document. You don't nee
 
 Date | Revisions Made | Author
 -----|----------------|--------
-Jan 24, 2020 | Added approvers, status, and privacy concerns. | Andrew Gunsch
-Jan 19, 2016 | Initial Draft based off [Arvados's template](https://dev.arvados.org/projects/arvados/wiki/Design_Doc_Template) which is reminiscent of Google's | Albert J. Wong
+Sep 24, 2020 | Began initial draft | Brooks Johnson
