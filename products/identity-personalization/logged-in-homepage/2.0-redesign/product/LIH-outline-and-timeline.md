@@ -172,7 +172,7 @@ Deliverables: Full design, layout and specs for LOA1 and LOA3 (user that does no
 
 ## Links
 
-- [User Stories]()
+- [User Stories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/product/lih-assets/LIH%20User%20Stories.pdf)
 
 - [Data Points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/product/lih-assets/LIH%20Outline.xlsx)
 
