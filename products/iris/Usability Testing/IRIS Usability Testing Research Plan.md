@@ -27,21 +27,23 @@ Please view more about the IRIS project https://github.com/department-of-veteran
 
 - DROP DOWN MENU: Are they able to interact with the drop down menus (having three) and is it an inuitive experience for them? Does the progressive disclosure (only shopwing approach 
 
-- SUCCESS METRICS: Are users able to succcessfully submit the form? Do they feel that the user experience has improved, and if so how? Can have a follow up set of questions re: reorganized content, rewritten content, feeling on brand etc.
+- SUCCESS METRICS: Are users able to succcessfully submit the form? Do they feel that the user experience has improved from the existing IRIS experience and if so how? 
 
 
-4. Hypothesis: What is your hypothesis for this research? 	TO FINISH
+4. Hypothesis: What is your hypothesis for this research? 	TO FINISH need to tighten and draw back to problems identified in research areas or validate approach is correct one).
 
-Some possible include: 
-- We believe that by using the VA design pattern library users of IRIS will find the form feels consistent with the existing va.gov experience 
+Some possible include:  - TO FINISH and tie to above.
 
-- We believe that by breaking the form up into separate chapters we will allow users to complete the form. 
 
-- We believe that when users have a form with multiple pages or chapters, they may require the ability to review it, especially if they experience any cognitive challenges that may affect their ability to remember content on the first page.  By allowing them to review the form before submitting we will allow users to feel empowered that they understand what they're submitting.
+- We hypothesize that the IRIS experience doesn't feel similar to the VA.gov experiency. By applying the VA Design System we will find users will feel that the new IRIS experience will feel consistent with the existing va.gov experience. We will know that this is true when we interview users as part of the usability testing.
 
-(need to tighten and draw back to problems or validate approach is correct one).
+- We hypothesize that the Contact us form in long pages with a lot of content will be cumbersome to fill out especially using a mobile device.  By breaking the form up into separate chapters we will find users are able to successfully complete the form. We will know that this is true when we see that users successfully complete and submit the form.
 
-What we'll do is have a series of usability related tasks we measure the success of and the 
+- We hypothesize that users with cognitive challenges that may affect their ability to remember content on the first page, or users using a mobile device may not remember information entered on a first screen of a form flow.  By breaking up the form into multiple pages or chapters users will be able review the form before submitting and feel empowered that they understand what they're submitting. We will know that this is true when we see that users successfully complete and submit the form and feel comfortable with the extra review step.
+
+What we'll do is have a series of usability related tasks we measure the success of the redesign and combine that with an interview here we ask questions re: reorganized content, rewritten content, if the experience feels part of the VA brand etc.
+
+
 
 ## Method	
 1.	What method of research are you planning? 	
@@ -104,7 +106,7 @@ We will work with Perigean to have the same existing usrs we worked with (the sa
 **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
 
-## Team Roles	TO FINISH
+## Who - Team Roles	TO FINISH
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 - Moderator:	
 - Research guide writing and task development (usually but not always same as moderator):	
