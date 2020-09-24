@@ -83,8 +83,9 @@ Deliverables: Full design, layout and specs for LOA3 (state when a user has bene
    - [ ] High fidelity mockups
    
  - View your direct deposit (link)
-  - [ ] High fidelity mockups
-  
+   - [ ] High fidelity mockups
+
+
 - [ ] Appropriate stakeholder reviews and approval along the way
 - [ ] User Research
 - [ ] Design updates from user research
