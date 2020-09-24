@@ -1,5 +1,5 @@
 # Vet Center Detail Page design
-Link to product brief:  
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/discovery-brief.md)
 Designers: Leyda Hughes
 
 ## Iteration 1 - Sprint 30
@@ -14,13 +14,20 @@ Meeting date: 09/18/2020
 Attendees: Leyda Hughes, Dave Conlon, Michelle Middaugh, Meg Peters, Ryan Thurlwell, Emily Waggoner, Jennifer Strickland, Trevor Pierce, Mikki Northuis, Peggy Gannon, Tze Lei 
 
 Outcomes: Recommendations from team
-- General: Do qualitative research with Veterans before testing design ideas
-- IA: consider subpages and how that affects breadcrumbs, consider "On this page"
+- General: 
+    - Consider: Do qualitative research with Veterans before testing design ideas
+    - Consider: Communicate tone via language (not just imagery)
+- IA: 
+    - Consider: how subpages and how that affects breadcrumbs
 - Content:
-- Design:
-    - Explore visual transitional cues (e.g. background color change from section to section)
-    - 
-- Accessibility: Think mobile first
+    - Consider: Min required vs max content
+    - Consider: Nat'l vs local areas (provide tight parameters for Drupal)
+- Design: [#20140](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/20140)
+    - Should: Flesh out mobile designs (how do horizontal rows of compnenents fare)
+    - Consider: right aligning images instead of left aligning to avoid any awkward alignments
+    - Consider: “featured story” for the horizontal groups of 3 across the page
+    - Consider: 'On this page' component OR left nav from VAMC 
+- Accessibility: [#13728](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13729#issuecomment-696659540)
     - Must: Flesh out mobile designs to clarify hierarchy 
     - Should: Consider load times with imagery, load progressively (e.g. cellular connectivity)
     - Should: Establish performance budget
@@ -28,26 +35,13 @@ Outcomes: Recommendations from team
     - Consider: Events - add an ics to add to calendar or easily share
     - Consider: Use microdata and/or json-ld to improve SEO, smart google results (address, hours, maps) 
     - Consider: 'On this page' component 
- 
+    - Consider: Explore visual transitional cues (e.g. background color change from section to section)
 
+## Discovery - Sprint 29
 
-Resources
-- e.g. link to research readout 
-- or other resources that came up
-
-#### Meeting Title (e.g. "VSP Design Intent Collaboration") :
-Meeting date: XX/XX/XXXX
-Attendees: Name, Name, Name 
-
-Outcomes
-- Bulleted list of outcomes 
-- Bulleted list of outcomes
-- Bulleted list of outcomes
-
-Resources
-- e.g. link to research readout 
-- or other resources that came up
-
+### Discovery
+- [Research Findings: Outreach Specialist Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/outreach-specialist-interviews/research-findings.md)
+- [Vet Centers taxonomy DRAFT](https://adhocteam-my.sharepoint.com/:x:/g/personal/leyda_hughes_adhocteam_onmicrosoft_com/EYZ6B8_w_GJGi93wBq3_x8MBZ4zZgwE9V7earuu0MfDeRg?e=GfbrNS)
 
 ## Inherited Work:
 
