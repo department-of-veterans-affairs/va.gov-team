@@ -165,7 +165,7 @@ Deliverables: Full design, layout and specs for LOA3 (state when a user has bene
 Deliverables: Full design, layout and specs for LOA1 and LOA3 (user that does not have benefits or healthcare). Includes all research and reviews.
  
 
-## Phase 5: Final validation and retirement of MyVA
+## Phase 5: Final validation and retirement of MyVA: ~ 1-2 sprints
 
 - [ ] User Research for the page as a whole
 - [ ] Retire MyVA
