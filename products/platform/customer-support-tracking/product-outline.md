@@ -31,7 +31,7 @@ VSP team members and Leadership.
 
 - Doing a [spike](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12787https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12787) VSP Engineering on a very simple Slack app for tracking support requests in collaboration. 
 - Goal is to reduce friction for VSP team members in logging support requests in the spreadsheet.
-- After the spike, we will teest the Slack app prototype to determine what gaps remain.
+- After the spike, we will test the Slack app prototype to determine what gaps remain.
 
 [Draft Engineering Design Doc](https://docs.google.com/document/d/1WD0sRAak8-r4kI85uYl0K6KaVGkAGKWVsH4fbuCsKCc/edit?usp=sharing)
 
