@@ -1,18 +1,32 @@
-# Usage of Feature Password Protection
+# Password-protecting URLs for testing and demo purposes
 
 Sept 21, 2020
 
-VFS teams have lately been leveraging a legacy Vets.gov/VA.gov function that lets you password protect a URL in production so you can share the new feature with a small controlled group of people without risking it getting out there in the wild.
+We recently gave permission to the Caregiver Team to use a legacy Vets.gov/VA.gov feature to password-protect a URL in production. They used this feature as a one-time workaround to share new functionality with a small, controlled group of people. Since then, other teams have asked us to help activate and troubleshoot this feature for other projects. Although we allowed the Caregiver Team to use this feature in an outlier situation, **going forward, other VFS teams must not use password protection on production URLs** as a testing and and demo solution.
 
-We originally pointed the Caregiver Team to this password protection route as a one-time workaround when they were struggling to create a rollout plan that would suit their stakeholder's needs. The reason this route isn't ideal however is this: though we have plans in a few months to provide VFS Teams with more experimentation and launch functionality, right now the DEPO Platform doesn't officially support that password protection functionality. We haven't shored it up, we don't have documentation or policy on how to use it, and it's generally kind of fragile and thus unreliable. As a result, the DEPO Platform has been getting troubleshooting questions and requests to help activate it, which VFS Teams have to wait on us for, and at least once it has even broken while a VFS Team was in the midst of using it.
+## Concerns with password-protecting URLs in production
 
-## DEPO Platform Policy:
-So! While the Caregiver Team did have our go ahead to use password protection in their outlier situation, **we're asking that VFS teams please stop using that feature, and forego password protecting your production URLs from here on out.**
+* We don't have documentation or policy on how to use it.
+* It's an unsupported feature.
+* It's unreliable. (It recently broke while a VFS Team was in the middle of using it.)
 
-### Alternative options
-We know you sometimes need to privately share new features in production for testing and demo purposes, without risking the feature being publicly discoverable, and we know our sanctioned tooling doesn't let you do quiiiite that. What we suggest is this: you can turn off indexing and keep the feature out of the VA.gov site navigation until you're ready to go live, and that will already prevent it from being easily discovered and used. If you want another layer to prevent discoverability, you can also create an unguessable path for the URL - and that's something your team can do completely on their own w/o needing to loop in any of the Platform teams.
+## What to do instead
+We know you sometimes need to privately share new features in production for testing and demo purposes, without risking the feature being publicly discoverable. Our sanctioned tooling doesn't let you do quite that. 
 
-This way, you don't have to wait on the Operations team to help you, and you don't have to be nervous that it'll stop working or that there'll be a regression introduced. It should thus be a quicker, and more stable route to pursue. This is better for the DEPO Platform as well, because it helps us stay focused on our prioritized work so we can move on to creating better experimentation and launch tooling soon.
+What we suggest is as an alternative is:
+* Turn off indexing
+* Keep the feature out of the VA.gov site navigation until you're ready to go live
+* Create an unguessable path for the URL (optional)
 
-No, this isn't an exact substitute for pw protecting, because folks w/the link could still technically share it beyond your small group. But in most cases, the risk of that happening (first of all) and the risk of its occurrence creating problems (second of all) is pretty low. There could possibly be exceptions - times when absolute secrecy is of utmost importance - and we can treat those on a case by case basis. At least until better tooling is available.
-Lastly, make sure you have your analytics set up before you start sharing the feature. That way, you'll know if visits to the feature are beyond your expected volume, and can react accordingly. You could take the feature back out of production, or could change the URL path, whatever seems necessary.
+Make sure you have your analytics set up before you start sharing the feature. That way, you'll know if visits to the feature are beyond your expected volume and can react accordingly. You could take the feature back out of production, change the URL path, or determine some other solution with your team.
+
+Your team can do this on your without support from any Platform teams and you don't have to worry about instabilaty concerns. This also helps us stay focused on our prioritized work so we can create better experimentation and launch tooling soon. 
+
+We know this isn't an exact substitute for password-protecting. Folks with the link could still share it beyond your small group. In most cases, however, the risk of that happening and causing problems is low. 
+
+## Exceptions to the password-protected URL policy
+There could be exceptions when absolute secrecy is of utmost importance. We can treat those on a case-bycase basis until better tooling is available. Contact your DEPO lead if you think your situation is an exception.
+
+## New platform features coming soon
+We have plans within a few months to provide VFS Teams with more experimentation and launch functionality. 
+
