@@ -109,7 +109,7 @@ Pact is language agnostic and has packages for both Node.js and Ruby, so both `v
 
 #### Naming Conventions
 
-The purpose of contract testing is to ensure that the consumer and provider have a shared understanding of the messages that will pass between them. It’s best practice for the interaction to be explicit to what the state of the interaction defined in the contract does. VSP is requiring an explicit/descriptive naming policy for interactions. The naming convention policy is in place as a best practice for developers to understand the purpose of the interaction. 
+The purpose of contract testing is to ensure that the consumer and provider have a shared understanding of the messages that will pass between them. **To that end, we follow a policy of explicit or descriptive naming when defining interactions and provider states.** The goal is for developers to understand any interaction in a pact. 
 
 Pacts involve a consumer and provider pair that are named from the pact tests written on the consumer side (in vets-website). When writing pact tests, follow these naming conventions:
 - The consumers are the apps in vets-website and should be named accordingly. Every app's `manifest.json` has an `appName` value that may be referenced as the consumer name, whether in full or in shorthand (as long as it's clear).
