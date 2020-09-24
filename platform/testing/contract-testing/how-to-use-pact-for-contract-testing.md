@@ -550,7 +550,7 @@ The verification task can be run at any point in development, but it may be help
 
 ```
 
-Make the following change to the ```test.url``` in ```config/database.yml```
+If you're still seeing the error after setting `test_database_url` in `config/test.yml`, try explicitly setting `test.url` in `config/database.yml` instead, but don't commit this change.
 
 ``` 
 test:
