@@ -610,7 +610,6 @@ When the pact verification task runs in CircleCI (via the build or verification 
 #### Deploy Strategy and Tagging
 Every build of vets-website publishes pacts, tags the version with the name of the branch, and triggers the verification task from a master build of vets-api.
 
-* We could also verify the pacts against prod vets-api (in addition to master) for more stability. This ensures that vets-website deploy won't be blocked by vets-api deploy failures and that PR's won't be able to merge with a stale verification status and break other builds. The downside is that vets-website PRs may have to sit an extra day to wait for any corresponding vets-api changes to go out to prod first.
 
 * Every build of vets-api verifies pacts tagged as `master` as well as [work-in-progress (WIP) pacts](https://docs.pact.io/pact_broker/advanced_topics/wip_pacts). If verification was successful, the build will the results with the name of the vets-api branch.
 * The WIP and pending pact features have been implemented. This allows any new pacts to be automatically verified without the provider team having to make configuration changes. When using this feature, it is best to also turn on the pending pacts feature, so that any failures caused by the WIP pacts do not cause the build to fail
