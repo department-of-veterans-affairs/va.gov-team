@@ -6,7 +6,7 @@
 
    Learning Center MVP, Public Websites
 
-2. Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
+2. Briefly, what is the background on this product? What would a new person on the team need to know about this product? 
 
    Call center content authors currently use two things to publish articles:
 
@@ -17,7 +17,9 @@
 
    All of the existing public facing IRIS content will be migrated into the learning center. We want to support the publication of future call center author content in the learning center, instead of KnowVA.
 
-   In this first round of research, we'd like to talk to contact center teams to better understand the team make-up and get a high level understanding of current content processes. We'll use what we learn to inform a second round of research that will give us a more in-depth understanding of how content is authored and managed at contact centers.
+   In this first round of research, we'd like to talk to contact center teams to better understand the team make-up and get a high level understanding of current content processes, with regard to contact center customer service and IRIS content creation. 
+
+   We'll use what we learn to inform a second round of research that will give us a more in-depth understanding of content management at contact centers.
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
 
@@ -26,7 +28,7 @@
    - What is the role of each person in the meeting?
    - What is the size and structure of each content team?
    - Who are the people on these teams, and what are they responsible for?
-   - What are the different types of content each team creates and manages?
+   - What are the different types of content each team creates and manages, with regard to contact center customer service and IRIS content creation?
    - Who is the audience for your content?
    - How do you determine when you need to create new content?
    - Do you have any content style guides?
