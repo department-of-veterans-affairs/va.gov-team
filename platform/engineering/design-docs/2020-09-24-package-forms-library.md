@@ -28,6 +28,9 @@ Some non-goals are:
 - Bug fixes to the forms library
 - Adding new features to the forms library
 - Refactoring the forms library beyond what is required to group the existing code together in the same package
+- Establishing a separate build & publish pipeline for the forms library (yet)
+
+The intended audience for this document is VSP and VFS frontend engineers.
 
 ### Background
 _The background section should contain information the reader needs to know to understand the problem being solved. This can be a combination of text and links to other documents._
@@ -68,7 +71,7 @@ _It is important to include assumptions about what external systems will provide
 
 _Here's an easy rule of thumb for deciding what to write here: Think of anything that would be a pain to change if you were requested to do so in a code review. If you put that implementation detail in here, you'll be less likely to be asked to change it once you've written all the code._
 
-- Use the `no-unresolved-modules` ESLint plugin to find & remove unused code in the `forms` and `forms-library` directories
+- Use the `no-unresolved-modules` ESLint plugin to [find & remove unused code](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8763) in the `forms` and `forms-library` directories
 - Copy what remains from `forms` into `forms-system`
 - [Add an alias to the `babelrc` file](https://github.com/department-of-veterans-affairs/vets-website/blob/055d96c54e1df54138b9efc589b98e55962333b3/.babelrc#L50-L55) that redirects imports from `platform/forms` to `platform/forms-system`
 - Edit the webpack config & use a custom `sass-loader` importer to rewrite imports from `forms` to `forms-system`
@@ -76,7 +79,8 @@ _Here's an easy rule of thumb for deciding what to write here: Think of anything
 ### Code Location
 _The path of the source code in the repository._
 
-The forms library package will live in `src/platform/packages/forms-library`
+The forms library package will live in `src/platform/packages/forms-library`.
+Since it will be a Node package, it will be added to the `package.json` file and apps will import it as a regular Node package instead of by its direct path.
 
 ### Testing Plan
 _How you will verify the behavior of your system. Once the system is written, this section should be updated to reflect the current state of testing and future aspirations._
@@ -92,9 +96,8 @@ _How users can debug interactions with your system. When designing a system it's
 ### Caveats
 _Gotchas, differences between the design and implementation, other potential stumbling blocks for users or maintainers, and their implications and workarounds. Unless something is known to be tricky ahead of time, this section will probably start out empty._
 
-_Rather than deleting it, it's recommended that you keep this section with a simple place holder, since caveats will almost certainly appear down the road._
-
-_To be determined._
+Though we will be creating a package for the forms library, we will not be following semantic versioning since it is _just_ a package and not a published module.
+The additional overhead of updating the forms-library's `package.json` file and updating the `yarn.lock` file in `vets-website` to target the newest (but unpublished) version seems like a burden without much benefit.
 
 ### Security Concerns
 _This section should describe possible threats (denial of service, malicious requests, etc) and what, if anything, is being done to protect against them. Be sure to list concerns for which you don't have a solution or you believe don't need a solution. Security concerns that we don't need to worry about also belong here (e.g. we don't need to worry about denial of service attacks for this system because it only receives requests from the api server which already has DOS attack protections)._
@@ -119,8 +122,13 @@ _Split the work into milestones that can be delivered, put them in the order tha
 ### Alternatives
 _This section contains alternative solutions to the stated objective, as well as explanations for why they weren't used. In the planning stage, this section is useful for understanding the value added by the proposed solution and why particular solutions were discarded. Once the system has been implemented, this section will inform readers of alternative solutions so they can find the best system to address their needs._
 
+See #./future-work
+
 ### Future Work
 _Features you'd like to (or will need to) add but aren't required for the current release. This is a great place to speculate on potential features and performance improvements._
+
+One possible option would be to take the package out of `vets-website` and give it its own repo.
+With this, we could publish it to npm, and we could completely remove the forms build & test process from `vets-website`, possibly speeding things up since we could avoid running forms tests on every build.
 
 ### Revision History
 _The table below should record the major changes to this document. You don't need to add an entry for typo fixes, other small changes or changes before finishing the initial draft._
