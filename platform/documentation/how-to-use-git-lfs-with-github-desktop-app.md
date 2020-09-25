@@ -10,19 +10,19 @@ Install the application on your computer.
 
 ## Access the va.gov-team repository 
 
-- Select `Clone a repository from the internet`
-- In the popup window that appears (`Clone a repository`) select GitHub.com > Sign In
-- Sign in with your GitHub username and password
-- Using the search bar within GitHub desktop app, look for the `va.gov-team` repository. It will be under the `department-of-veterans-afairs` organization (full name `department-of-veterans-affairs/va.gov-team`). 
-- If you are not seeing the `department-of-veterans-affairs` organization, you may need to confirm that you are in fact [a member of the org](https://github.com/orgs/department-of-veterans-affairs/people) _note that you don't actually need to be a member of the org to access and clone the va.gov-team repo; it is a public repo_
-- Select the blue button that says `Clone department-of-veterans-affairs/va.gov-team`
-- Choose where you want the files from the repo to save on your computer ("Local Path") and select Clone
-- Wait for the repo to clone to your computer — it's big! It's going to take a while! That's why we use Git LFS (to cut down on the size of the repo as much as we can)
+1. Select **Clone a repository from the internet**
+1. In the popup window that appears (`Clone a repository`), select **GitHub.com > Sign In**
+1. Sign in with your GitHub username and password
+1. Using the search bar within GitHub desktop app, look for the `va.gov-team` repository. It will be under the `department-of-veterans-afairs` organization (full name `department-of-veterans-affairs/va.gov-team`). 
+Note: If you are not seeing the `department-of-veterans-affairs` organization, you may need to confirm that you are in fact [a member of the org](https://github.com/orgs/department-of-veterans-affairs/people) _you don't actually need to be a member of the org to access and clone the va.gov-team repo; it is a public repo_
+1. Select the blue button that says **Clone `department-of-veterans-affairs/va.gov-team`**
+1. Choose where you want the files from the repo to save on your computer (**Local Path**) and select **Clone**
+1. Wait for the repo to clone to your computer — it's big! It's going to take a while! That's why we use Git LFS to cut down on the size of the repo as much as we can.
 
 ## Initialize Git LFS 
 
-- Once the repo is cloned you should see a pop up that says `Initialize Git LFS`
-- Select `Initialize Git LFS`
+1. Once the repo is cloned you should see a pop up that says `Initialize Git LFS`
+1. Select `Initialize Git LFS`
 
 ## Make sure your clone of the repo is up to date 
 
