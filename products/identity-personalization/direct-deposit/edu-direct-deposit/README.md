@@ -55,17 +55,41 @@ Last Updated September 25, 2020
 ## Requirements
 
 ### In Scope
+
+- Veterans need to be able to edit their direct deposit information for education benefits on VA.gov.
+- Veterans need to be able to add direct deposit information for education benefits on VA.gov if they currently receive paper checks. (**confirm this**)
+- Veterans should not be able to delete direct deposit information once it is added.
+- We need to adjust how we are showing "View payment history" in the profile because we will have one link that applies to both comp & pen and education benefits.
+- We need to be able to retire this feature on eBenefits at the end of this project. EBenefits should point to VA.gov to update direct deposit for edu.
+
 ### Out of Scope
 
+- We will not be adding any new functionality to how direct deposit for edu is handled beyond add/edit functionality.
+- We will not be consolidating direct deposit for comp & pen and edu even though it would be ideal to only have one direct deposit account.
+
 ## Solution Approach
+
+- Lihan has done backend discovery to confirm that we can consume the necessary endpoints from BGS.
+- Lihan will be able to complete the backend integration ahead of when design/frontend will be ready, so he will implement the necessary security precautions to make sure the edu endpoint can not be accessed by hackers on VA.gov.
+- This will be a cross team effort between the eBenefits team and the authenticated experience team. Jim Adams will be doing design, and Jason Wolf will be PM. Lihan will be working on the backend, and Sandra or Erik will be working on the frontend.
+- Jim will conduct discovery and confirm functionality and outstanding questions. We'll review those with the eBenefits team before moving into design. Beyond that, this project *should* be pretty traditional in terms of approach.
+
 ## Value Propositions
+
+- Direct deposit for edu will be more secure on VA.gov.
+- Migrating this feature to VA.gov moves us one step closer to being able to retire eBenefits.
+
 ## KPIs
+
+- Reduce traffic to direct deposit for education on eBenefits to 0%.
+- Increase traffic to direct deposif for education on VA.gov by 100%.
+- (Check in with Adam to see if there are separate fraud metrics for edu benefits)
 
 # Implementation Info
 
 ## Status
 
-- **September 2020**: Initial backend discovery
+- **September 2020**: Initial backend discovery; Design discovery; Initial stakeholder intro kickoff.
 
 ## Product Decisions
 ## Technical Details
@@ -73,4 +97,7 @@ Last Updated September 25, 2020
 ### Error Handling
 ## Screenshots
 ### Before
+
+
+
 ### After
