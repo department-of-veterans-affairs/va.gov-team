@@ -1,6 +1,4 @@
-# Usability Testing Research Plan for IRIS redesign, Fall 2020 - DRAFT IN PROGRESS
-
-This draft is in progress and not yet ready for review, but as always comments welcomed on the bottom.  The focus will be on the research questions
+# Usability Testing Research Plan for IRIS redesign, Fall 2020
 
 As a designer I need to create a research plan to share with my team.	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
 
@@ -27,7 +25,7 @@ Please view more about the IRIS project https://github.com/department-of-veteran
 
 - HOME/LANDING PAGE: Is having a landing page to route users to a particular option (health/education/etc.) a good experience? (We're assuming that having one question/place for them to funnel is a low lift).
 
-- DROP DOWN MENU: Are they able to navigate successfully to their topic with three drop down menus? 
+- DROP DOWN MENU: Are they able to navigate successfully to their topic with three drop down menus? Do users use the autosuggest feature at the top of the dropdown menu?
 
 - PROGRESSIVE DISCLOSURE: Does the progressive disclosure (only showing content that applies) feel natural? TBD if ASKING?
 
