@@ -3,7 +3,7 @@ name: Design Intent Collaboration
 about: Request to Schedule a Design intent Collaboration
 title: Design intent Collaboration [Feature-Name]
 labels: product support, collaboration-cycle
-assignees: andreahewitt-odd, crystabelreiter, emilywaggoner
+assignees: shiragoodman, crystabelreiter, emilywaggoner
 
 ---
 
@@ -12,7 +12,7 @@ assignees: andreahewitt-odd, crystabelreiter, emilywaggoner
 - [ ] Link to this issue once created in #design in Slack; tag @ Crystabel Reiter @ Emily
 - [ ] Crystabel and Emily to schedule meeting with VSP reviewers and **requesting team** attendees (as listed below)
 - [ ] At least 2 days before scheduled meeting, you must provide list of artifacts below
-- [ ] VSP <> **requesting team** design intent collaboration meeting completed
+- [ ] VSP <> **requesting team** design intent collaboration meeting completed and [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/u/1/d/1d219oL1zCvCvnv1Bx-dI-GMzwgbarLv9_bzMSa3ULjA/edit#gid=1341642809)is updated
 - [ ] Design experts leave feedback and relevant resources on this ticket
 - [ ] VFS designer acknowledge receipt of feedback/resources
 - [ ] VFS designer and all other requesting team attendees complete brief [VSP Collaboration Cycle Feedback](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) survey
