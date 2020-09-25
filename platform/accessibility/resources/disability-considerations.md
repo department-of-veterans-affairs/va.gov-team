@@ -1,4 +1,7 @@
-# Disability Considerations, by disability type _(Work-in-Progress)_
+```diff
+! Work-in-Progress
+```
+# Disability Considerations, by disability type 
 
 Based on this [material from Deque](https://www.jenstrickland.design/talks/design4performance-a11y/resources/Design_Considerations.pdf)
 
