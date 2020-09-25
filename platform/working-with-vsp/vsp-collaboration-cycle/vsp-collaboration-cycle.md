@@ -75,7 +75,7 @@ Present a draft of your ideas to VSP and other expert designers. Learn about exi
 ## Collaboration format: 30-minute meeting
 
 ### Request Process
-**VFS Designer or Product Manager** initiates scheduling by submitting ZenHub issue — use `Design Intent Collaboration` template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+meganhkelley%2C+crystabelreiter%2C+emilywaggoner&labels=product+support&template=design-intent-collaboration.md&title=Design+intent+Collaboration%5BFeature-Name%5D) to open a ticket)_. VSP will schedule the meeting. 
+**VFS Designer or Product Manager** initiates scheduling by submitting ZenHub issue — use `Design Intent Collaboration` template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=shiragoodman%2C+crystabelreiter%2C+emilywaggoner&labels=product+support%2C+collaboration-cycle&template=design-intent-collaboration.md&title=Design+intent+Collaboration+%5BFeature-Name%5D) to open a ticket)_. VSP will schedule the meeting. 
 
 ### Meeting attendees
 - VFS brings: 
