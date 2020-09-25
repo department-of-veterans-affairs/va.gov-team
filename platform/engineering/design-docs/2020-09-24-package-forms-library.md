@@ -46,7 +46,11 @@ _Most diagrams will need to be updated over time as the design evolves, so pleas
 
 **TODO: Add diagram**
 
-This change should not have a noticeable impact on individual app teams.
+The forms library will be consolidated into a single place and bundled as a Node package.
+This will allow VFS teams to import it as if it were any other Node module.
+
+This change should not have a noticeable functional impact on individual app teams.
+Towards the end the only change that should be made on the app side of things is changing where forms library code/styles are imported from.
 
 ## Specifics
 
@@ -64,6 +68,8 @@ _Here's an easy rule of thumb for deciding what to write here: Think of anything
 - [Add an alias to the `babelrc` file](https://github.com/department-of-veterans-affairs/vets-website/blob/055d96c54e1df54138b9efc589b98e55962333b3/.babelrc#L50-L55) that redirects imports from `platform/forms` to `platform/forms-system`
 - Edit the webpack config & use a custom `sass-loader` importer to rewrite imports from `forms` to `forms-system`
 
+Once the forms library is actually a package, app code can be updated to import from it directly instead of relying on the  aliases.
+
 ### Code Location
 _The path of the source code in the repository._
 
@@ -73,8 +79,12 @@ Since it will be a Node package, it will be added to the `package.json` file and
 ### Testing Plan
 _How you will verify the behavior of your system. Once the system is written, this section should be updated to reflect the current state of testing and future aspirations._
 
+We have ESLint rules in place which can verify that the right JS is imported as it relates to the forms library.
+Additionally, many of the end-to-end tests will fail if the forms library is not imported properly, so they will help with awareness.
+
+We don't have any automation in place to validate that theright SASS files are imported, so testing that forms styling is working properly will be a manual process.
+
 ### Logging
-_What your system will record and how._
 
 N/A
 
@@ -88,12 +98,10 @@ Though we will be creating a package for the forms library, we will not be follo
 The additional overhead of updating the forms-library's `package.json` file and updating the `yarn.lock` file in `vets-website` to target the newest (but unpublished) version seems like a burden without much benefit.
 
 ### Security Concerns
-_This section should describe possible threats (denial of service, malicious requests, etc) and what, if anything, is being done to protect against them. Be sure to list concerns for which you don't have a solution or you believe don't need a solution. Security concerns that we don't need to worry about also belong here (e.g. we don't need to worry about denial of service attacks for this system because it only receives requests from the api server which already has DOS attack protections)._
 
 N/A
 
 ### Privacy Concerns
-_This section should describe any risks related to user data, PII that are added by this new application. Think about flows of user data through systems, places data is stored and logged, places data is displayed to users. Where is user data stored or logged? How long is it stored?_
 
 N/A
 
