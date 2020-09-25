@@ -17,18 +17,19 @@ Please view more about the IRIS project https://github.com/department-of-veteran
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research?
 
-- ACCESSIBLE: Is our design approach usable and respectful to those with any disability related challenges, especially cognitively? 
+- ACCESSIBLE: Is our design approach usable and respectful to those with any disability related challenges, especially cognitively?  TO ADD BELOW
 
 - CHAPTERS: Have we divided the IRIS form into the right number of chapters as per the Form Library? Does having Veteran and person submitting the form on two separate chapters feel natural? Does having the Review page feel excessive?
 
-- CONTENT HIERARCHY: Is the content organized (and grouped) in an intuitive manner and is it an improvement over the existing IRIS experience
+- CONTENT HIERARCHY: Is the content organized (and grouped) in an intuitive manner and is it an improvement over the existing IRIS experience? Content here specifically refers to how we've reoganized Veteran's information TO ADD BELOW
 
 - HOME/LANDING PAGE: Is having a landing page to route users to a particular option (health/education/etc.) a good experience? (We're assuming that having one question/place for them to funnel is a low lift).
 
-- DROP DOWN MENU: Are they able to interact with the drop down menus (having three) and is it an inuitive experience for them? Does the progressive disclosure (only shopwing approach 
+- DROP DOWN MENU: Are they able to navigate successfully to their topic with three drop down menus? 
 
-- SUCCESS METRICS: Are users able to succcessfully submit the form? Do they feel that the user experience has improved from the existing IRIS experience and if so how? 
+- PROGRESSIVE DISCLOSURE: Does the progressive disclosure (only showing content that applies) feel natural? TBD if ASKING?
 
+- SUCCESS METRICS: Are users able to succcessfully submit the form? Do they feel that the user experience has improved from the existing IRIS experience and if so how?  TBD if actual question here.
 
 4. Hypothesis: What is your hypothesis for this research? 	TO FINISH need to tighten and draw back to problems identified in research areas or validate approach is correct one).
 
@@ -37,12 +38,11 @@ Some possible include:  - TO FINISH and tie to above.
 
 - We hypothesize that the IRIS experience doesn't feel similar to the VA.gov experiency. By applying the VA Design System we will find users will feel that the new IRIS experience will feel consistent with the existing va.gov experience. We will know that this is true when we interview users as part of the usability testing.
 
-- We hypothesize that the Contact us form in long pages with a lot of content will be cumbersome to fill out especially using a mobile device.  By breaking the form up into separate chapters we will find users are able to successfully complete the form. We will know that this is true when we see that users successfully complete and submit the form.
+- CHAPTERS: We hypothesize that the Contact us form in long pages with a lot of content will be cumbersome to fill out especially using a mobile device.  By breaking the form up into separate chapters we will find users are able to successfully complete the form. We will know that this is true when we see that users successfully complete and submit the form.
 
 - We hypothesize that users with cognitive challenges that may affect their ability to remember content on the first page, or users using a mobile device may not remember information entered on a first screen of a form flow.  By breaking up the form into multiple pages or chapters users will be able review the form before submitting and feel empowered that they understand what they're submitting. We will know that this is true when we see that users successfully complete and submit the form and feel comfortable with the extra review step.
 
-What we'll do is have a series of usability related tasks we measure the success of the redesign and combine that with an interview here we ask questions re: reorganized content, rewritten content, if the experience feels part of the VA brand etc.
-
+What we'll do is have a series of usability related tasks we measure the success of the redesign and combine that with an interview here we ask questions re: reorganized content, rewritten content, if the experience feels part of the VA brand etc.  We'll add the tasks to the Conversation Guide.
 
 
 ## Method	
@@ -58,11 +58,8 @@ What we'll do is have a series of usability related tasks we measure the success
 4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 		TO FINISH
  -  We will be testing a prototype - fidelity TBD.  We have been uploading designs to Invision, but may need to set up a lightscale prototype with code (i.e. on Staging) to allow users to add content and in order to properly validate our hypothesese.
 
-
-
-
-
-5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)		TO FINISH
+5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)
+ - We will be using Zoom
 
 ## Participants and Recruitment	 TO FINISH
 1.	Participant criteria: TO UPDATE
@@ -73,6 +70,8 @@ TO FINISH
 
  -  Our preference would be to test with the same users we originally interviewed at the start of the project to see if this addresses their pain points, and additionally test with users living with accessibility challenges.
  -  We would also like to ensure that some of the people we test the redesign with have cognitive challenges
+
+People who are dependents, who had a Veteran pass away?
 
 
 2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?	TO FINISH
@@ -94,34 +93,27 @@ We will work with Perigean to have the same existing usrs we worked with (the sa
 
 - Version on Staging which will allow users to interact with a live form
 
-3. Length of Sessions: How long do you estimate each session will be? - TO FINISH
+3. Length of Sessions: How long do you estimate each session will be?
 
-=
-(This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
-
-- likely an hour.
-
+These sessions will likely be one hour to allow for a relaxed conversation and the actual usability tests.
 
 4.	Availability: If applicable, when would you like sessions scheduled?  - TO FINISH
 **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
 
-## Who - Team Roles	TO FINISH
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
+## Who - Team Roles	TO FINISH (with email addresses)
+
+- Moderator: TBD	
+- Research:	Rachel M. Murray
+- Participant recruiting & screening:	Perigean
+- Project point of contact:	TBD
+- Participant(s) for pilot test: see above
+- Note-takers: ThoughtWorks team	
+- Observers: Interested parties in the VA
+
 
 ## Resources	
-- Project Brief - TO FINISH
-*Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
-
-- Convo Guide	- TO FINISH
-*Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
+- [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS-product-brief.md)
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/IRIS%20Usability%20Testing%20Conversation%20Guide.md)
 
 
