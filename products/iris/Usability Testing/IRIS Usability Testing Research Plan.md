@@ -1,4 +1,6 @@
-# Usability Testing Research Plan for IRIS redesign, Fall 2020
+# Usability Testing Research Plan for IRIS redesign, Fall 2020 - DRAFT IN PROGRESS
+
+This draft is in progress and not yet ready for review, but as always comments welcomed on the bottom.  The focus will be on the research questions
 
 As a designer I need to create a research plan to share with my team.	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
 
