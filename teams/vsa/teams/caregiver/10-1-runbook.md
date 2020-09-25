@@ -2,7 +2,7 @@
 
 | Time | Item | Owner | Status |
 |---|---|---|---|
-| 9:00am EST (or earlier) | Updated form is available at https://www.va.gov/vaforms/medical/pdf/10-10CG.pdf | Pam, Brian, Gail  |   | 
+| 9:00am EST (or earlier) | Updated form is updated in repository and available at https://www.va.gov/vaforms/medical/pdf/10-10CG.pdf  | Pam, Brian, Gail  |   | 
 | 9:30am EST (or earlier) | Eligibility info is updated on https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/    | Danielle 
 | 10:00am EST  | Online form in available at https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/  | Alayna, Ming, Kevin  |   
 | 10:00am EST  | Button to start online form is available on https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/  | Danielle | 
