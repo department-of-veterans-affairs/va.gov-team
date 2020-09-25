@@ -22,6 +22,8 @@ Last Updated September 25, 2020
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 |Luke Tickner | VBA Edu team | Lucas.Tickner@va.gov |
+|Tammy Hurley| VBA Edu team | tammy.hurley1@va.gov | 
+|Hope Coleman| VBA Edu team | Hope.Coleman@va.gov |
 
 ## The Problem
 
