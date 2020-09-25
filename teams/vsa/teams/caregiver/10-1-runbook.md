@@ -22,4 +22,3 @@
 - Team will alternate who is checking Slack/emails 5pm - 9pm EST
 #### Continuous
 - Automatic alerts & monitoring in place on VA.gov
-- #on-call in the VA Slack for systemic malfunction
