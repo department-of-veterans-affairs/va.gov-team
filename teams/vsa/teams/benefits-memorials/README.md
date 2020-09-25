@@ -53,6 +53,14 @@
   - Will likely be a higher priority shortly but waiting to see what AMO says
   - BGS technical discovery
 
+# Products (this section in work)
+- BDD
+- HLR
+- NOD
+- 4192
+- IDES
+- HLR Auto Establishment
+
 # Team Info
 
 ## Customer Support
