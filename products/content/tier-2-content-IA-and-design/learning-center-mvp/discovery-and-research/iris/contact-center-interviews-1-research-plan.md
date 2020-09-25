@@ -21,7 +21,7 @@
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
 
-   We'll be talking to teams at 6 different call centers (see participants). We'd like to get these questions answered by each team:
+   We'll be talking to teams at 6 different call centers (see participants). We'd like to get these questions answered by each team.  Since we only have an hour, some of the more specific questions may get punted to the 1:1 interviews in our next round of research:
 
    - What is the role of each person in the meeting?
    - What is the size and structure of each content team?
@@ -38,6 +38,7 @@
    - Which parts of these content management processes are things we can observe and learn from?
 
 4. Our hypothesis for this research is that:
+
    - There will be a lot of variance between contact centers in terms of the team structure, size, and processes in place.
    - Some contact centers don't have a formal content management process.
    - IRIS is a major part of their workflow, but there will be some other systems we want to observe people working in.
