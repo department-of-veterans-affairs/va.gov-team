@@ -12,7 +12,7 @@
 # Support
 
 #### Thursday, 10/1 - Friday, 10/2
-- Team will be on Slack and available to hop on a call from 9am - 9pm EST
+- Team will be on Slack and available to hop on a call from 9am - 6pm EST
 - Team will be checking Slack from 7am - 9pm EST
 #### Monday 10/5 - Friday 10/9
 - Team will be on Slack and available to hop on a call from 9am - 5pm EST
