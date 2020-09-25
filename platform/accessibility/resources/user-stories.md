@@ -1,4 +1,4 @@
-# User Stories _(Work in progress to adapt to VA)_
+# Accessibility User Stories _(Work in progress to adapt to VA)_
 
 ## Semantics
 • As a user with limited mobility who can use a keyboard but not a mouse, I want to be able to interact with webpage controls using my keyboard.
