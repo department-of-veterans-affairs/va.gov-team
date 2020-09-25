@@ -26,8 +26,10 @@
    - What is the role of each person in the meeting?
    - What is the size and structure of each content team?
    - Who are the people on these teams, and what are they responsible for?
-   - What are the different kinds of content each team creates and manages?
-   - What influences the creation of that content?
+   - What are the different types of content each team creates and manages?
+   - Who is the audience for your content?
+   - How do you determine when you need to create new content?
+   - Do you have any content style guides?
    - How does IRIS fit into each center's content flow? 
    - What other systems are being used?
    - What's working well for each contact center in terms of content creation and management?
