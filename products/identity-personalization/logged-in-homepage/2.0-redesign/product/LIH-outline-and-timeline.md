@@ -160,9 +160,9 @@ Deliverables: Full design, layout and specs for LOA3 (state when a user has bene
 - [ ] Hand-off to developers
 
 
-## Phase 4: Design 'Blank'state and LOA1 state: ~ 1 sprint
+## Phase 4: Design 'Blank'state, LOA1 state and banners/alerts: ~ 1-2 sprints
 
-Deliverables: Full design, layout and specs for LOA1 and LOA3 (user that does not have benefits or healthcare). Includes all research and reviews.
+Deliverables: Full design, layout and specs for LOA1, LOA3 (user that does not have benefits or healthcare) and banners/alerts. Includes all research and reviews.
  
 
 ## Phase 5: Final validation and retirement of MyVA: ~ 1-2 sprints
