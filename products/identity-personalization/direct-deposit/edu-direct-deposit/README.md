@@ -98,6 +98,6 @@ Last Updated September 25, 2020
 ## Screenshots
 ### Before
 
-
+![Direct deposit section of the profile without direct deposit for edu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/direct-deposit-before.jpg)
 
 ### After
