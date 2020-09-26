@@ -15,8 +15,8 @@ For an overview of WCAG, and distinctions between 2.0, 2.1, and 2.2, please see 
     * Section 508 is an amendment to the Rehabilitation Act of 1973. 
     * In 1998 the US Congress amended the Rehabilitation Act to require Federal agencies to make their electronic and information technology accessible to people with disabilities. Section 508 was enacted to eliminate barriers in information technology, to make available new opportunities for people with disabilities, and to encourage development of technologies that will help achieve these goals. 
 1973. 
-    * **All products and services purchased or created with federal money MUST be 508-compliant.** Source: [The ADA and Section 508](https://508compliantdocumentconversion.com/americans-with-disabilities-act/)
-    * The [Plain Writing Act of 2010](https://plainlanguage.gov/law/) includes requirements to ensure content is accessible.
+* Note: **All products and services purchased or created with federal money MUST be 508-compliant.** Source: [The ADA and Section 508](https://508compliantdocumentconversion.com/americans-with-disabilities-)
+* The [Plain Writing Act of 2010](https://plainlanguage.gov/law/) includes requirements to ensure content is accessible.
     
 * Since 2017, Section 508 references WCAG 2.0 Level A and Level AA Success Criteria and Conformance Requirements. The Access Board, who oversees Section 508, indicated they will wait for WCAG 3.0 (expected in 2021–2022) to update Section 508. WCAG 2.0 was published on December 11, 2008.
 
