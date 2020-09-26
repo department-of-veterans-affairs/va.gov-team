@@ -73,8 +73,8 @@ The page <strong>&#42;&#42;MUST&#42;&#42;</strong> have a meaningful title (e.g.
 #### 2. Language	
 
 <ol type="a">
-   <li>The page <strong>**MUST**</strong> specify the language (&lt;html lang="en"&gt;).	[3.1.1](https://www.wuhcag.com/language-of-page/)</li>
-   <li>Changes in the language within the page <strong>**MUST**</strong> be specified (e.g. &lt;span lang="es"&gt;Hola&lt;/span&gt;).	[3.1.2](https://www.wuhcag.com/language-of-parts/)
+   <li>The page <strong>**MUST**</strong> specify the language (&lt;html lang="en"&gt;). <a href="https://www.wuhcag.com/language-of-page/">3.1.1</a></li>
+   <li>Changes in the language within the page <strong>**MUST**</strong> be specified (e.g. &lt;span lang="es"&gt;Hola&lt;/span&gt;).	<a href="https://www.wuhcag.com/language-of-parts/">3.1.2</a></li>
 
 #### 3. Landmarks	
 
