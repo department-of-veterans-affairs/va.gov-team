@@ -49,6 +49,12 @@ The expectation is that both requirements and best practices are met in our work
 
 This checklist evolved from the [Deque WCAG 2.0 Checklist](https://www.jenstrickland.design/talks/design4performance-a11y/resources/WCAG_Checklist.pdf). Another useful reference is this W3C [How to Meet WCAG, Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/).
 
+<hr/>
+
+> > **For Veteran Facing Services teams, if there are 508-defect-0, 1, 2, 3, and some 4 issues logged for work it is not 508 compliant, according to the VA 508 Office.** Source: [VSP Accessibility Defect Severity Rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#accessibility-defect-severity-rubric)
+
+<hr/>
+
 <details><summary>Review WCAG 2.0 footnotes</summary>
   * Items marked with asterisk are required at the WCAG AAA level (not at the A or AA level, but are still best practices at all levels).
 
