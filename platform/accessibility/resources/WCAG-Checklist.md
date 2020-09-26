@@ -107,7 +107,7 @@ The page <strong>&#42;&#42;MUST&#42;&#42;</strong> have a meaningful title (e.g.
 (See also Custom Widgets in Part 3 for dynamic menus (drop-down accordion, etc.)
 
 <ol type="a">
-   <li>Links <strong>**MUST**</strong> have readable text. Be especially careful with links that contain only images (which need alt text) and background images/icon fonts (which need text via aria-label on the link or text within the link, hidden via CSS).	[4.1.2](), [2.4.9]()</li>
+   <li>Links <strong>**MUST**</strong> have readable text. Be especially careful with links that contain only images (which need alt text) and background images/icon fonts (which need text via aria-label on the link or text within the link, hidden via CSS).	<a href="https://www.wuhcag.com/name-role-value/">WCAG 4.1.2</a>, <a href="https://www.wuhcag.com/link-purpose-link-only/">2.4.9</a></li>
    <li>The link text <strong>**MUST**</strong> make sense in context, and should make sense when taken out of context (problematic phrases include: “click here,” “learn more,” “more,” “read more,” etc.).	<a href="https://www.wuhcag.com/link-purpose-link-only/">WCAG 2.4.9</a>, <a href="https://www.wuhcag.com/link-purpose-in-context/">WCAG 2.4.4</a></li>
    <li>Linked content *SHOULD* be grouped in a single link where appropriate. For example: an icon and its adjacent text *SHOULD NOT* be two separate links if they go to the same location.	<a href="https://www.wuhcag.com/consistent-identification/">WCAG 3.2.4</a></li>
    <li>Navigation features (e.g. main menu) <strong>**MUST**</strong> be placed in a consistent location across pages.	<a href="https://www.wuhcag.com/consistent-navigation/">WCAG 3.2.3</a></li>
@@ -127,16 +127,16 @@ The page <strong>&#42;&#42;MUST&#42;&#42;</strong> have a meaningful title (e.g.
 #### 7. Lists	
 
 <ol type="a">
-   <li>Lists <strong>**MUST**</strong> be marked up appropriately according to the semantics of the list (e.g. &lt;ul&gt;, &lt;ol&gt;, &lt;dl&gt;`).	1.3.1</li>
+   <li>Lists <strong>**MUST**</strong> be marked up appropriately according to the semantics of the list (e.g. &lt;ul&gt;, &lt;ol&gt;, &lt;dl&gt;`). <a href="https://www.wuhcag.com/info-and-relationships/">WCAG 1.3.1</a></li>
 </ol>
 
 
 #### 8. iframes	
 
 <ol type="a">
-   <li>Frame title attribute <strong>**MUST**</strong> be specified (&lt;iframe title="Video about..."`).	4.1.2</li>
-   <li>The page within the iframe <strong>**MUST**</strong> have an accurate, meaningful &lt;title&gt;.	2.4.2</li>
-   <li>iframes with no readable content (e.g. only JavaScript) *SHOULD* be set to aria-hidden="true".	4.1.2</li>
+   <li>Frame title attribute <strong>**MUST**</strong> be specified (&lt;iframe title="Video about..."`). <a href="https://www.wuhcag.com/name-role-value/">WCAG 4.1.2</a></li>
+   <li>The page within the iframe <strong>**MUST**</strong> have an accurate, meaningful &lt;title&gt;.	<a href="">WCAG 2.4.2</a></li>
+   <li>iframes with no readable content (e.g. only JavaScript) *SHOULD* be set to aria-hidden="true".	<a href="https://www.wuhcag.com/name-role-value/">WCAG 4.1.2</a></li>
 </ol>
 
 
@@ -144,20 +144,20 @@ The page <strong>&#42;&#42;MUST&#42;&#42;</strong> have a meaningful title (e.g.
 (See also Form Validation and Feedback in Part 3)	
 
 <ol type="a">
-   <li>Inputs, buttons, and controls <strong>**MUST**</strong> have labels which are programmatically-associated** (e.g. via &lt;label&gt;, aria-label, or aria-labelledby) and always visible on the screen** (they don’t disappear when the user starts typing).	1.3.1, 3.3.2</li>
-   <li>Required fields *SHOULD* be marked as such, e.g. via aria-required="true" (on the input, not on the label), or have the word “required” in the &lt;label&gt; text.	3.3.2</li>
-   <li>Form field instructions *SHOULD* be associated with inputs or buttons using techniques such as: Putting the instructions in the &lt;label&gt;. Associating the instructions with the field using aria-describedby (Note: text associated via aria-describedby *SHOULD* be relatively brief). Putting the instructions in a `<fieldset>` with `<legend>`	3.3.2</li>
-   <li>Groups of form elements <strong>**MUST**</strong> have group labels (e.g. &lt;fieldset&gt; and &lt;legend&gt;, or referenced from the inputs via aria-labelledby="id-of-group-label id-of-self-label" ).	1.3.1, 3.3.2</li>
+   <li>Inputs, buttons, and controls <strong>**MUST**</strong> have labels which are programmatically-associated** (e.g. via &lt;label&gt;, aria-label, or aria-labelledby) and always visible on the screen** (they don’t disappear when the user starts typing). <a href="https://www.wuhcag.com/info-and-relationships/">WCAG 1.3.1</a>, <a href="https://www.wuhcag.com/labels-or-instructions/">WCAG 3.3.2</a></li>
+   <li>Required fields *SHOULD* be marked as such, e.g. via aria-required="true" (on the input, not on the label), or have the word “required” in the &lt;label&gt; text.	<a href="https://www.wuhcag.com/labels-or-instructions/">WCAG 3.3.2</a></li>
+   <li>Form field instructions *SHOULD* be associated with inputs or buttons using techniques such as: Putting the instructions in the &lt;label&gt;. Associating the instructions with the field using aria-describedby (Note: text associated via aria-describedby *SHOULD* be relatively brief). Putting the instructions in a &lt;fieldset&gt; with &lt;legend&gt; <a href="https://www.wuhcag.com/labels-or-instructions/">WCAG 3.3.2</a></li>
+   <li>Groups of form elements <strong>**MUST**</strong> have group labels (e.g. &lt;fieldset&gt; and &lt;legend&gt;, or referenced from the inputs via aria-labelledby="id-of-group-label id-of-self-label" ). <a href="https://www.wuhcag.com/info-and-relationships/">WCAG 1.3.1</a>, <a href="https://www.wuhcag.com/labels-or-instructions/">WCAG 3.3.2</a></li>
 </ol>
 
 
 #### 10. Parsing and Validity	
 
 <ol type="a">
-   <li>The page <strong>**MUST**</strong> NOT contain duplicate IDs because accessibility features frequently reference IDs.	4.1.1</li>
-   <li>Attributes (e.g. ARIA) <strong>**MUST**</strong> contain only allowable values, in the proper parent-child hierarchy.	4.1.1</li>
-   <li>Parent-child relationships of elements & attributes (e.g. ARIA roles) <strong>**MUST**</strong> follow the specification.	4.1.1</li>
-   <li>The page **MUST NOT** contain syntax errors that affect semantic meaning (e.g. elements or attributes that don’t close properly, either explicitly or implicitly).	4.1.1</li>
+   <li>The page <strong>**MUST**</strong> NOT contain duplicate IDs because accessibility features frequently reference IDs. <a href="https://www.wuhcag.com/parsing/">WCAG 4.1.1</a></li>
+   <li>Attributes (e.g. ARIA) <strong>**MUST**</strong> contain only allowable values, in the proper parent-child hierarchy.	<a href="https://www.wuhcag.com/parsing/">WCAG 4.1.1</a></li>
+   <li>Parent-child relationships of elements & attributes (e.g. ARIA roles) <strong>**MUST**</strong> follow the specification.	<a href="https://www.wuhcag.com/parsing/">WCAG 4.1.1</a></li>
+   <li>The page **MUST NOT** contain syntax errors that affect semantic meaning (e.g. elements or attributes that don’t close properly, either explicitly or implicitly).	<a href="https://www.wuhcag.com/parsing/">WCAG 4.1.1</a></li>
 </ol>
 
 
