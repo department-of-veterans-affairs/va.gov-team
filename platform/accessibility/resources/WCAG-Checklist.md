@@ -29,11 +29,11 @@ For an overview of WCAG, and distinctions between 2.0, 2.1, and 2.2, please see 
 
 1. [Semantic Structure](#semantic-structure)
 
-2. [Sight & Sound](#sight-sound)
+2. [Sight & Sound](#sight--sound)
 
-3. [Interactivity & Dynamic Content](#interactivity-dynamic-content)
+3. [Interactivity & Dynamic Content](#interactivity--dynamic-content)
 
-4. [Understandability/Cognition](#understandability-cognition)
+4. [Understandability/Cognition](#understandability--cognition)
 
 
 **This list is based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practices (marked with “*SHOULD*”).** 
