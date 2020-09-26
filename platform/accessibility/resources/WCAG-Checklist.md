@@ -1,6 +1,14 @@
 ```diff
 ! Work-in-Progress
 ```
+
+<hr/>
+
+> > **For Veteran Facing Services teams, if there are 508-defect-0, 1, 2, 3, and some 4 issues logged for work it is not 508 compliant, according to the VA 508 Office.** Source: [VSP Accessibility Defect Severity Rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#accessibility-defect-severity-rubric)
+
+<hr/>
+
+
 # WCAG Checklist 
 
 The W3C's Web Content Accessibility Guidelines (WCAG) are the worldwide standard for accessibility compliance, and the WCAG 2.0 criteria are the requirements for Section 508. This checklist offers organized guidance to meet Section 508 and accessibility compliance. 
@@ -38,13 +46,6 @@ For an overview of WCAG, and distinctions between 2.0, 2.1, and 2.2, please see 
 **This list is based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practices (marked with “*SHOULD*”).** 
 
 The expectation is that both requirements and best practices are met in our work to deliver an experience that is accessible to all. 
-
-<hr/>
-
-> > **For Veteran Facing Services teams, if there are 508-defect-0, 1, 2, 3, and some 4 issues logged for work it is not 508 compliant, according to the VA 508 Office.** Source: [VSP Accessibility Defect Severity Rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#accessibility-defect-severity-rubric)
-
-<hr/>
-
 
 This checklist evolved from the [Deque WCAG 2.0 Checklist](https://www.jenstrickland.design/talks/design4performance-a11y/resources/WCAG_Checklist.pdf). Another useful reference is this W3C [How to Meet WCAG, Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/).
 
