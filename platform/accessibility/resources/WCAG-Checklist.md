@@ -75,11 +75,12 @@ The page <strong>&#42;&#42;MUST&#42;&#42;</strong> have a meaningful title (e.g.
 <ol type="a">
    <li>The page <strong>**MUST**</strong> specify the language (&lt;html lang="en"&gt;). <a href="https://www.wuhcag.com/language-of-page/">3.1.1</a></li>
    <li>Changes in the language within the page <strong>**MUST**</strong> be specified (e.g. &lt;span lang="es"&gt;Hola&lt;/span&gt;).	<a href="https://www.wuhcag.com/language-of-parts/">3.1.2</a></li>
+</ol>
 
 #### 3. Landmarks	
 
 <ol type="a">
-   <li>Pages *SHOULD* have accurate, logical landmark structure [2.4.6]() (e.g. &lt;header&gt;, &lt;nav&gt;, &lt;main&gt;, &lt;aside&gt;, &lt;footer&gt;), so screen reader users can navigate by landmark, and all content *SHOULD* be inside a landmark.</li>
+   <li>Pages *SHOULD* have accurate, logical landmark structure (e.g. &lt;header&gt;, &lt;nav&gt;, &lt;main&gt;, &lt;aside&gt;, &lt;footer&gt;), so screen reader users can navigate by landmark, and all content *SHOULD* be inside a landmark. <a href="https://www.wuhcag.com/headings-and-labels/">2.4.6</a></li>
 </ol>
 
 #### 4. Headings	
