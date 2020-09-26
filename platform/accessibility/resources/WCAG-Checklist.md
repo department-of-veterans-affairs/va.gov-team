@@ -27,13 +27,13 @@ For an overview of WCAG, and distinctions between 2.0, 2.1, and 2.2, please see 
 
 ## Section 508 success criteria can be organized into four areas: 
 
-1. Semantic Structure 
+1. [Semantic Structure](#semantic-structure)
 
-2. Sight & Sound
+2. [Sight & Sound](#sight-sound)
 
-3. Interactivity & Dynamic Content
+3. [Interactivity & Dynamic Content](#interactivity-dynamic-content)
 
-4. Understandability/Cognition
+4. [Understandability/Cognition]((#understandability-cognition)
 
 
 **This list is based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practices (marked with “*SHOULD*”).** 
@@ -58,9 +58,8 @@ This checklist originated from this [Deque WCAG 2.0 Checklist](https://www.jenst
   6. Refers to the information published by the W3C task force on cognitive disabilities https://www.w3.org/TR/coga-user-research/ 
 </details>
 
-### Part A: Semantic Structure
+### Semantic Structure
 
-<details><summary>Review semantic-related success criteria</summary>
   
 #### 1. Page title	
 The page **MUST** have a meaningful title (e.g. About us), even when included via iframe. [2.4.2]()
@@ -148,11 +147,10 @@ The page **MUST** have a meaningful title (e.g. About us), even when included vi
    <li>Parent-child relationships of elements & attributes (e.g. ARIA roles) **MUST** follow the specification.	4.1.1</li>
    <li>The page **MUST NOT** contain syntax errors that affect semantic meaning (e.g. elements or attributes that don’t close properly, either explicitly or implicitly).	4.1.1</li>
 </ol>
-</details>
 
-### Part B: Sight & Sound
 
-<details><summary>Review audio and visual related success criteria</summary>
+### Sight & Sound
+
 
 #### 1. Color and Other Sensory Characteristics	
 
@@ -240,13 +238,10 @@ The page **MUST** have a meaningful title (e.g. About us), even when included vi
 <ol type="a">
    <li>Designs *SHOULD NOT* rely on CSS-generated content to convey information, due to incomplete support across screen reader/browser combinations (especially IE). Supplement with CSS clipped content in the HTML4, aria-label/aria-labelledby (on focusable elements), or similar technique. 1.1.1</li>
 </ol>
-</details>
 
 
+### Interactivity & Dynamic Content
 
-### Part C: Interactivity & Dynamic Content
-
-<details><summary>Review interactive and dynamic content related success criteria</summary>
   
 #### 1. Keyboard Input
 
@@ -326,15 +321,10 @@ The page **MUST** have a meaningful title (e.g. About us), even when included vi
 </ol>
 
 
-</details>
 
 
 
-
-
-### Part D: Understandability/Cognition
-
-<details><summary>Review cognition-related success criteria</summary>
+### Understandability/Cognition
 
 #### Content 
 
@@ -359,7 +349,9 @@ The page **MUST** have a meaningful title (e.g. About us), even when included vi
    <li>Users *SHOULD NOT* be required to perform mathematical calculations, unless the fundamental purpose of the page requires them to do so. COG</li>
    <li>Users *SHOULD NOT* be required to remember data from one page (or view, or step of a process) to another, unless the fundamental purpose of the content requires them to do so. COG</li>
 </ol>
-</details>
+
+
+<hr/>
 
 
 ## WCAG 2.1 Success Criteria
@@ -368,9 +360,9 @@ The page **MUST** have a meaningful title (e.g. About us), even when included vi
 
 Published on June 5, 2018, WCAG 2.1 was released and **is the current standard for accessibility compliance.** It includes all the WCAG 2.0 success criteria and adds:
 
-### Part D: Understandability/Cognition, continued
+### Understandability/Cognition, continued
 
-### Part E: Mobile Design
+### Mobile Design
 
 
 ## WCAG 2.2 Draft Criteria
