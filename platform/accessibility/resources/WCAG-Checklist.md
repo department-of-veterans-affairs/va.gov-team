@@ -24,7 +24,9 @@ For an overview of WCAG, and distinctions between 2.0, 2.1, and 2.2, please see 
 
 ## Section 508 success criteria can be organized into four areas: 
 
-This list is based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practices (marked with “*SHOULD*”). The expectation is that both requirements and best practices are met in our work to deliver an experience that is accessible to all. For Veteran Facing Services teams, if there are 508-defect-0, 1, 2, 3, and some 4 issues logged for work it is not compliant. Source: [VSP Accessibility Defect Severity Rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#accessibility-defect-severity-rubric)
+**This list is based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practices (marked with “*SHOULD*”).** 
+
+The expectation is that both requirements and best practices are met in our work to deliver an experience that is accessible to all. For Veteran Facing Services teams, if there are 508-defect-0, 1, 2, 3, and some 4 issues logged for work it is not compliant. Source: [VSP Accessibility Defect Severity Rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#accessibility-defect-severity-rubric)
 
 This checklist originated from this [Deque WCAG 2.0 Checklist](https://www.jenstrickland.design/talks/design4performance-a11y/resources/WCAG_Checklist.pdf). Another useful reference is this W3C [How to Meet WCAG, Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/).
 
