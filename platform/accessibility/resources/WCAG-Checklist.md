@@ -3,7 +3,7 @@
 ```
 # WCAG Checklist 
 
-The W3C's Web Content Accessibility Guidelines (WCAG) are the worldwide standard for accessibility compliance. This checklist offers organized guidance to meet Section 508 and accessibility compliance. 
+The W3C's Web Content Accessibility Guidelines (WCAG) are the worldwide standard for accessibility compliance, and the WCAG 2.0 criteria are the requirements for Section 508. This checklist offers organized guidance to meet Section 508 and accessibility compliance. 
 
 For an overview of WCAG, and distinctions between 2.0, 2.1, and 2.2, please see the [W3C WCAG documentation](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
