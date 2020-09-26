@@ -136,7 +136,7 @@ The page <strong>&#42;&#42;MUST&#42;&#42;</strong> have a meaningful title (e.g.
    <li>Inputs, buttons, and controls <strong>**MUST**</strong> have labels which are programmatically-associated** (e.g. via &lt;label&gt;, aria-label, or aria-labelledby) and always visible on the screen** (they don’t disappear when the user starts typing).	1.3.1, 3.3.2</li>
    <li>Required fields *SHOULD* be marked as such, e.g. via aria-required="true" (on the input, not on the label), or have the word “required” in the &lt;label&gt; text.	3.3.2</li>
    <li>Form field instructions *SHOULD* be associated with inputs or buttons using techniques such as: Putting the instructions in the &lt;label&gt;. Associating the instructions with the field using aria-describedby (Note: text associated via aria-describedby *SHOULD* be relatively brief). Putting the instructions in a `<fieldset>` with `<legend>`	3.3.2</li>
-   <li>Groups of form elements <strong>**MUST**</strong> have group labels (e.g. `` and ``, or referenced from the inputs via aria-labelledby="id-of-group-label id-of-self-label" ).	1.3.1, 3.3.2</li>
+   <li>Groups of form elements <strong>**MUST**</strong> have group labels (e.g. &lt;fieldset&gt; and &lt;legend&gt;, or referenced from the inputs via aria-labelledby="id-of-group-label id-of-self-label" ).	1.3.1, 3.3.2</li>
 </ol>
 
 
