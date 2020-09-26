@@ -62,7 +62,7 @@ This checklist originated from this [Deque WCAG 2.0 Checklist](https://www.jenst
 
   
 #### 1. Page title	
-The page <strong>**MUST**</strong> have a meaningful title (e.g. About us), even when included via iframe. [2.4.2](https://www.wuhcag.com/page-titled/)
+The page <strong>&#42;&#42;MUST&#42;&#42;</strong> have a meaningful title (e.g. About us), even when included via iframe. [2.4.2](https://www.wuhcag.com/page-titled/)
 
 <ol type="a">
    <li>Unique information *SHOULD* go first (e.g. “WCAG Checklist”).</li>
