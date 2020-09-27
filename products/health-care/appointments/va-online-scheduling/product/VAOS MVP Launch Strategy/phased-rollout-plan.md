@@ -63,11 +63,11 @@ The goal of this phase is to fully launch the tool on VA.gov while paving the wa
 - [TBD] Banner in MHV / legacy tool indicating sunsetting of the old experience will take place in the future
 - Veterans can continue to use legacy VAOS to schedule appointments
 
-### Measurement of Success Go / No Go decision for continuing to Phase 4: - Status: [COMPLETE]
+### Measurement of Success Go / No Go decision for continuing to Phase 4:
   - [ ] The tool continues to perform acceptably compared to legacy VAOS as described in Phase 1
   - [ ] At least 8,000 scheduling attempts have been made
 
-## Phase 4: Marketed Launch of VAOS-R & Sunset Legacy VAOS
+## Phase 4: Marketed Launch of VAOS-R & Sunset Legacy VAOS - Status: [COMPLETE]
 The goal of this phase is to complete the scheduling transition from legacy VAOS to VA.gov and let the veteran community know about the new tool
 - Comms sent to VSOs, partner organizations, veterans, and any other interested parties
   - Waiting on external comms/marketing till this phase allows us to - 1. gradually ramp up volume to the tool and 2. incorporate  good feedback we've gotten into the actual comms
