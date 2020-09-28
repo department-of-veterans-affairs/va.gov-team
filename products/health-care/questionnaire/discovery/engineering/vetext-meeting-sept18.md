@@ -76,3 +76,7 @@ This URL may be shortened using a shortening formula
 VeText will send the veteran an appointment reminder and indicate that they have a secure message on the my healthy vet site to check and that they should log into check their messages. When they get the message in the secure area, this URL will then be available for them to click in order to answer the questionnaire
 
 2. Instead of #1 from above, the veteran would recieve a text message with a link. This link would direct them to the va.gov health care area to fill out the questionnaire. 
+
+## VETS-API/VeText flow
+
+![vetext flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/assets/vetext-flow.png?raw=true)
