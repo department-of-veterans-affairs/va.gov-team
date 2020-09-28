@@ -48,7 +48,7 @@ After completing the task, would you say it was easy or difficult to complete th
 - _Take note of anything the Veteran suggests to add._
 
 
-## Reviewing Screens in More Detail - minutes broken out below for each page
+## Reviewing Screens in More Detail - 26 minutes (total from all pages)
 
 Great, thank you for doing that exercise. Next, we are going to go back to the beginning of the questionnaire, so I can ask more questions about each page.
 _Help them navigate back to the introduction page._
