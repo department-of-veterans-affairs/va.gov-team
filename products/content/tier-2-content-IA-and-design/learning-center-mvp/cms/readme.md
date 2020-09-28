@@ -5,10 +5,11 @@
  -  LC go-to-market strategy: how will users find the Learning Center?
 </details>
 
-## Tuesday September 22
+## Tuesday September 29
 
 ### Agenda
 
+1. Reschedule Oct 6 check-in for Oct 5, 7 or other
 1. Review backlog for Sprint 16
 1. Custom link teasers - automation brainstorm
 1. 
