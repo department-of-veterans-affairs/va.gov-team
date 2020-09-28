@@ -31,9 +31,18 @@ Please view more about the IRIS project https://github.com/department-of-veteran
 
 - SUCCESS METRICS: Are users able to succcessfully submit the form? Do they feel that the user experience has improved from the existing IRIS experience and if so how?  TBD if actual question here.
 
-4. Hypothesis: What is your hypothesis for this research? 	TO FINISH need to tighten and draw back to problems identified in research areas or validate approach is correct one).
+4. Hypothesis: TO FINISH
 
-Some possible include:  - TO FINISH and tie to above.
+Using the following structure
+
+The problem is/
+By/
+we will...increase the understanding of the form...
+and know we are successful by.... user satisfaction
+
+[reference](https://app.slack.com/client/T03FECE8V/CLSD51H7U/thread/C0NGDDXME-1601299283.019400)
+
+
 
 
 - We hypothesize that the IRIS experience doesn't feel similar to the VA.gov experiency. By applying the VA Design System we will find users will feel that the new IRIS experience will feel consistent with the existing va.gov experience. We will know that this is true when we interview users as part of the usability testing.
@@ -41,6 +50,8 @@ Some possible include:  - TO FINISH and tie to above.
 - CHAPTERS: We hypothesize that the Contact us form in long pages with a lot of content will be cumbersome to fill out especially using a mobile device.  By breaking the form up into separate chapters we will find users are able to successfully complete the form. We will know that this is true when we see that users successfully complete and submit the form.
 
 - We hypothesize that users with cognitive challenges that may affect their ability to remember content on the first page, or users using a mobile device may not remember information entered on a first screen of a form flow.  By breaking up the form into multiple pages or chapters users will be able review the form before submitting and feel empowered that they understand what they're submitting. We will know that this is true when we see that users successfully complete and submit the form and feel comfortable with the extra review step.
+
+
 
 What we'll do is have a series of usability related tasks we measure the success of the redesign and combine that with an interview here we ask questions re: reorganized content, rewritten content, if the experience feels part of the VA brand etc.  We'll add the tasks to the Conversation Guide.
 
