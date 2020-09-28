@@ -1,6 +1,6 @@
 # Research Plan for Usability Testing the MVP Upcoming Appointment Questionnaire October 2020 
 
-_Amanda - Preference on a desktop or mobile test? As a program, we are pushing mobile first. We may not be able to see where someone specifically clicks when using the Zoom app, but that is really the only downside (and makig sure people download Zoom).
+_Amanda - Preference on a desktop or mobile test? As a program, we are pushing mobile first. We may not be able to see where someone specifically clicks when using the Zoom app, but that is really the only downside (and makig sure people download Zoom)._
 
 ## Goals	
 This research is to usability test the proposed design of the upcoming appointment questionnaire and gain feedback on the content/wording within the questionnaire. It will also gather initial feedback on a page that will list all questionnnaires for a Veteran. 
