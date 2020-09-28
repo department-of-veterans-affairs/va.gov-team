@@ -34,7 +34,7 @@ I'm going to send you a link in the chat. Once you pull up the link, will you sh
 
 [Prototype LINK](TBD)
 
-Task: Pretend that you just made an appointment and received a link to this questionnaire via text or email. Complete this questionnaire.
+**Task: Pretend that you just made an appointment and received a link to this questionnaire via text or email. Complete this questionnaire.**
 
 _Only give additional direction if the Veteran gets stuck completing the task._
 
