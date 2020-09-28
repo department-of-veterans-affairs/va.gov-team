@@ -29,8 +29,8 @@ I'm going to send you a link in the chat. Once you pull up the link, will you sh
 
 _Only give additional direction if the Veteran gets stuck completing the task._
 
-After completing the task, would you say it was easy or difficult to complete this questionnaire?
-- Why?
+- After completing the task, would you say it was easy or difficult to complete this questionnaire?
+    - Why?
 
 ### Things to watch/listen for:
 
