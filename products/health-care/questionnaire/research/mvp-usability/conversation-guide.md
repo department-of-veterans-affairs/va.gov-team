@@ -56,7 +56,7 @@ _Help them navigate back to the introduction page._
 - What are your impressions of this page?
 - Is there any other information we should include here?
 
-### On the Upcoming Appointment Questinnaire page - 7 minutes
+### On the This Visit page - 7 minutes
 - What are your impressions of this page?
 - Do the questions make sense to you?
 - How would you answer these questions?
@@ -84,7 +84,7 @@ Direct the Veteran to navigate the prototype to the Questionnaire Manager page.
     - Why would you access a completed questionnaire?
  
 
-## Follow-up questions - 5 minutes
+## Follow-up Questions - 5 minutes
 
 - Are there any topics or questions you'd like to see that weren't included in today's exercise?
 - Do you have any questions for me?
