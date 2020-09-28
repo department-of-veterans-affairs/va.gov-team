@@ -35,7 +35,7 @@ Last updated September 28, 2020
 
 # Implementation Information
 - [Status](#status)
-- [Discovery](#discovery)
+- [Discovery](#discovery-1)
 - [Development](#development)
 - [Design](#design)
 
