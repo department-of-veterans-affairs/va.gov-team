@@ -50,7 +50,7 @@ Recruit for 8 fulfilled sessions using the following criteria:
 
 ## Timeline 	
 #### Desired Timeline: October ?-?, 2020 
-_Amanda - what is our desired timeline? If I work on finalizing the research plan, conversation guide, and prototype this week, then I can get reviews the next week. Recruiting takes a week. So my estimation is starting sometime around Oct. 14-15th and going into the next week._
+_Amanda - what is our desired timeline? If I finalize the research plan and conversation guide this week, then try to get the prototype done by mid-next week (at the lastest). Shawna said to send it to her first and give her a day for feedback. Then, I might want a day to make changes, but I can schedule the VSP review when I send it off to Shawna, but they book 2-3 days out. Fingers crossed that we can get the VSP review done by the 9th. Right after VSP review, I can send everything to Lauren for review and recruiting. Recruiting takes a week. So my estimation is starting Oct. 15- 16th (if everything goes quickly), but probably Oct. 19th is more likely. Thoughts?_
 One hour sessions
 
 Team Availability | Time (EST)
