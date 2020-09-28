@@ -24,6 +24,7 @@ This will require customizing LC search.
 
 __Question still TBD__
 - Every article page has a search bar. 
-- The search comes above the H1. We need to verify this can be done without creating a senmantic header problem. 
+- The search comes above the H1. __We need to verify this can be done without creating a senmantic header problem.__
+- User error states: experience and messaging when a LC search brings back zero results. (I think Beth Potts has already provide a draft of this message somewhere.)
 
 __Other questions?__ 
