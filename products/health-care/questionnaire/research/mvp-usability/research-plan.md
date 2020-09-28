@@ -1,30 +1,27 @@
-# Research Plan for Healthcare Experience Team August 2020 
+# Research Plan for Usability Testing the MVP Upcoming Appointment Questionnaire October 2020 
 ## Goals	
-This research is to gain Veteran input on how to prioritize identified initiatives and inform the MVP. 
+This research is to usability test a wireframe prototype of an upcoming appointment questionnaire. 
 
 **Background**<br>
-Our goal is to improve the in-person and online pre and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners.
+Our goal is to improve the in-person and online pre and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners. Out MVP will focus on improving the pre-appointment experience when visiting primary care providers.
 
 **Research questions**
-- What topics/questions would Veterans find useful to answer ahead of an appointment?
-- What topics/questions do Veterans find most beneficial to their healthcare experience?
-- How do Veteran sorted priorities align with what we have learned from clinicians?
+- Are Veterans able to successful complete the questionnaire?
+- Is there any confusion caused by the question wording within the questionnaire?
 
 **Hypothesis & assumptions**
-- Veterans will rank topics/questions related to their medical history highly
-- Veterans will provide feedback on topics/questions not listed in the card sort
-- Veterans will want to fill out multiple forms for different appointments ahead of a trip to the VA
+- Veterans will provide feedback on topics/questions not listed in the X
 
 ## Method	
-We will conduct remote moderated closed card sort exercises via Zoom using the Perigean contract. This method will allow us to prioritize our existing list of initiatives while learning about new potential areas to explore through Veteran feedback. After the sort, we will share a lo-fidelity mockup to get Veteran feedback on an initial direction for the MVP. 
+We will conduct remote moderated usability testing via Zoom using the Perigean contract. This method will allow us to 
 
 ## Participants and Recruitment	
 
 Recruit for 8 fulfilled sessions using the following criteria:
+Do we want mobile and website (or mobile only)?
 
 **Must have for participants**
 - Have you visted the VA for primary care in the last year? (pass = yes)
-- Have you visted the VA for specialty care in the last six months? (pass = yes)
 
 **Good to have for participants**
 - At least 1 woman
@@ -43,28 +40,28 @@ Recruit for 8 fulfilled sessions using the following criteria:
 *This study requires participants to drag and drop elements and requires screensharing.*
 
 ## Timeline 	
-#### Desired Timeline: August 7-11, 2020
+#### Desired Timeline: October ?-?, 2020
 One hour sessions
 
 Team Availability | Time (EST)
 ------------------|--------------
-Friday, August 7 | 11am - 8pm
-Monday, August 10 | 12pm - 6pm
-Tuesday, August 11 | 12pm - 6pm
+Day, October ? | ?am - ?pm
+Day, October ? | ?am - ?pm
+Day, October ? | ?am - ?pm
 
-Pilot session: Thursday, August 6 11AM EST
+Pilot session: Day, October ? | ?am - ?pm
 	
 ## Team Roles	
-- Moderator: Aricka Lewis (aricka@adhocteam.us), Shawna Hein (shawna@adhocteam.us)
-- Research guide writing and task development: Aricka Lewis 
+- Moderator: Kristen McConnell (kristen.mcconnell@adhocteam.us)
+- Research guide writing and task development: Kristen McConnell
 - Participant recruiting & screening: Perigean
 - Project point of contact: Amanda Buckley (abuckley@governmentcio.com)
 - Participant(s) for pilot test: TBD	
 - Note-takers: Perigean
-- Observers: Amanda Buckley (abuckley@governmentcio.com), Laurence Guild (lguild@governmentcio.com), Mark Dewey (mdewey@governmentcio.com), Lacey Higley (lacey.higley@va.gov)
+- Observers: Amanda Buckley (abuckley@governmentcio.com), Laurence Guild (lguild@governmentcio.com), Mark Dewey (mdewey@governmentcio.com), Lacey Higley (lacey.higley@va.gov), Ming Ligh (ming.ligh@va.gov)
 
 ## Resources	
 - [Project Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/product-outline.md)
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/veteran-prioritization/conversation-guide.md)
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/mvp-usability/conversation-guide.md)
 - Synthesis
 - Read-Out/Results	
