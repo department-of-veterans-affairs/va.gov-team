@@ -5,6 +5,12 @@
 
 [Reference: MVP Document 1.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13983)
 
+## Preface - Information Management Process 
+When referencing various data sources related to the Learning Center MVP 1.0/1.1, please reference defined user stories below, followed by associated linked epics/sprint breakdown and mockups as a final step.   
+
+## Public Website Learning Center Launch Checklist  
+[Epic/Sprint Breakdown](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/LC%20Launch%20Checklist.md)
+
 ## 1.0 - End of October -beta launch
 
 <details>
@@ -16,8 +22,8 @@
   - Search experience that gives Veterans search results to legacy tier 2 content in support of veterans, caregivers, school administrators, VSOs, VA loan       appraisers, etc. 
   - [User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/pw-learning-center-takeaways-mvp-roadmap-082820.pptx)
 ### Articles lists 
-* As a Veteran and or veteran caregiver, a relevant article list is needed that displays most current and relevant articles to search results. 
-  - Article lists should help users self-resolve VA.gov issues that span benefits or that are agnostic of benefit issues. Intent is to funnel users to Tier 1 beneifits hubs for applying and managing benefits. 
+* As a Veteran and or Veteran caregiver, I need an relevant article list that guides me to content that appeals and is interesting to me. 
+  - Article lists should help users self-resolve VA.gov issues/questions that span benefits or that are agnostic of benefit issues. Intent is to funnel users to Tier 1 beneifits hubs for applying and managing benefits. 
   - [User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/view-all-articles-in-X-category-landing-pg-requirements.md)
 ### Templates
 * As a Veteran, I need a visual way to view a step-by-step process quick navigation to Tier 1 benefits tools and content. 
@@ -25,7 +31,7 @@
   - [User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#specific-lc-content-template-types)
 ### Content
 * As a Veteran content should point me to Tier 1 benefit tools and resources (eligibility, enrolling, filing, creating an account, signing in to do manage tasks) in order to save me time. 
-  - provide contextual content access points in unauthenticated and authenticated product experiences, but only if it’s truly relevant and related information.  All learning content should send people TO tier 1 benefit tools and content (eligibility, enrolling, filing, creating an account, signing in to do manage tasks). 
+  - Provide contextual content access points in unauthenticated and authenticated product experiences, but only if it’s truly relevant and related information.  All learning content should send people TO tier 1 benefit tools and content (eligibility, enrolling, filing, creating an account, signing in to do manage tasks). 
   - [User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#frontend-content-tags)
 ### Tags
 * As a Veteran, I wanted to browse, explore and discover VA services in a fun and engaging way through learning center tags.   
@@ -69,7 +75,7 @@ Finish manual migration of IRIS FAQs content into LC with:
 Remaining templates to add for Dec launch:
 - Videos template
 - Images template
-- Checklist
+- Checklist template
 
 Template iteration:
 LC homepage FE iteration – audience section, more topic categories
