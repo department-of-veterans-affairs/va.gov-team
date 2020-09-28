@@ -23,7 +23,7 @@ This does not include research for Appeals projects, which is stored in differen
 
 **Keywords:** categorization, nomenclature, tags, categories, audience, topics, labels, content authoring, tier 2, benefit-adjacent, VA account and profile, Records
 
-#### August 20-28 : Vet Center - Outreach Specialist (Discovery Interviews)
+#### August 20-28 : Vet Center - Outreach Specialist Discovery Interviews
 *Ad Hoc: VSA Facilities, Leyda Hughes*
 - 5 participants
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/outreach-specialist-interviews)
