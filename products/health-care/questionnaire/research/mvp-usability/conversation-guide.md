@@ -86,7 +86,7 @@ _We might be able to skip this page (if time looks to be running short)._
 
 - Are there any topics or questions you'd like to see that weren't included in today's exercise?
 - Do you have any questions for me?
-_Are there any other questions about Q4 work that we want to ask about? Questions to get at the IA placement of the form?_
+- _Are there any other questions about Q4 work that we want to ask about? Questions to get at the IA placement of the form?_
 
 ## Thank-You and Closing - 5 minutes
 
