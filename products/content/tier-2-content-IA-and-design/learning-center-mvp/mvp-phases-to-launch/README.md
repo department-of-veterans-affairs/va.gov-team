@@ -14,7 +14,7 @@
   - Search experience that gives Veterans search results to legacy tier 2 content in support of veterans, caregivers, school administrators, VSOs, VA loan       appraisers, etc. 
   - [User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/pw-learning-center-takeaways-mvp-roadmap-082820.pptx)
 ### Articles lists 
-* As a Veteran and or Veteran suppot provider a relevant article list is needed that displays most current and relevant articles to my search request. 
+* As a Veteran and or veteran caregiver a relevant article list is needed that displays most current and relevant articles to search results. 
   - Article lists should help users self-resolve VA.gov issues that span benefits or that are agnostic of benefit issues. Intent is to funnel users to Tier 1 beneifits hubs for applying and managing benefits. 
   - [User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/view-all-articles-in-X-category-landing-pg-requirements.md)
 ### Templates
