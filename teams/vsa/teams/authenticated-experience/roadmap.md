@@ -37,8 +37,8 @@ It is because of this that we are going to dedicate all of 2020, and as much of 
 
 |Project|Requesting team|Date of request| Status/Notes|
 |----|----|----|----|
-|[Logged-in navigation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/navigation-ia)| N/A | N/A| N/A|
-|Notification center| N/A | N/A| N/A|
-|Bad address functionality| N/A | N/A| N/A|
+|[Logged-in navigation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/navigation-ia)| Auth. exp. | N/A| N/A|
+|Notification center| Auth. exp. | N/A| N/A|
+|Bad address functionality| No request, but this is available to us via VA Profile | N/A| N/A|
 |Integrate "Military information" section of the profile through VA Profile backend| VA Profile | September 2020 | VA Profile is still working on their MVP, so this is not yet ready for us to integrate with|
 |Virtual hearing opt-in| Caseflow/Lighthouse | September 2020 | Caseflow/Lighthouse needs to do some research to determine who virtual hearing opt-in might work before coming back to VA.gov|
