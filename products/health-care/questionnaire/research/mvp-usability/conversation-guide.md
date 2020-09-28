@@ -73,15 +73,15 @@ _We might be able to skip this page (if time looks to be running short)._
 - What are your impressions of this page?
 - Is there any other information we should include here?
 
-## Questionnaire Manager Page Review - X minutes
+## Questionnaire Manager Page Review - 7 minutes
 
 Direct the Veteran to navigate the prototype to the Questionnaire Manager page.
 
 - Describe what you are seeing. What is the purpose of this page?
     - What does this mean? (Asking about statuses if it wasn't addressed in the first question.)
+- What do you expect to happen if you clicked on Medications?
 - How useful would a page like this be for you?
     - Why would you access a completed questionnaire?
-- What do you expect to happen if you clicked on Medications?
  
 
 ## Follow-up questions - 5 minutes
