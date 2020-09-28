@@ -1,7 +1,10 @@
 
 # This docuement pertains to the user query-based dynamic search in the learning center. 
 
+
 ## For static landing page requirements - articles list pages - see: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/view-all-articles-in-X-category-landing-pg-requirements.md
+
+See designs for the dynamic search results page and the static 'all articles' list pages here: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1588167553516/2773c854e8ff3a725a5e3ee03272b78e8519f78b
 
 
 ## Description of dynamic search basic requirements - technical and UX: 
