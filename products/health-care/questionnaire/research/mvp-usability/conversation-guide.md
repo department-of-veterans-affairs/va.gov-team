@@ -1,7 +1,5 @@
 # Conversation Guide for Upcoming Appointment Questionnaire MVP Usability Testing
 
-_If we decide to test on mobile devices, I will have to change some directions to either have the user download the Zoom app on their mobile device or talk them through the "laptop hugging method."_
-
 ## Intro - 5 minutes
 
 Thanks for joining us today! My name is Kristen and I also have some colleagues on the line observing and taking notes. Today we're going to review a prototype of a questionnaire that will help you and your doctor prepare for an upcoming appointment.
