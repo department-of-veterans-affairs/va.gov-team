@@ -31,7 +31,7 @@ Affected all mobile users accessing the facility locator since 09/11/20, the day
 _What caused this situation?_ The issue happened performing a clean up of some unused CSS.  
 
 ## Resolution
-_What steps were taken to resolve the issue?_ Identified the issue in a local environment and created a PR to fix it/
+_What steps were taken to resolve the issue?_ Identified the issue in a local environment and created a PR to fix it
 
 _Date/time of resolution_ Approximately 11 AM ET on September 25, 2020.
 
