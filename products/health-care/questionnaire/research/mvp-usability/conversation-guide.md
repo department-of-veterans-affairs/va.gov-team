@@ -19,16 +19,9 @@ Before we start, a few things I want to mention:
 
 - **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?"** 
 
-## Warm-up Questions - 3 minutes
-
-Before we begin, let’s start with a warm-up question.
-
-- Have you ever filled out a form or questionnaire prior to a doctor's apppointment? 
-    - If yes, how did that experience go?
-
 ## Usability Task: Complete the questionnaire - 10 minutes
 
-Next, I want to give you some context for our first exercise. I will give you a task and ask you to "narrate" your thoughts as you complete the task. 
+Before we begin, I want to give you some context for our first exercise. I will give you a task and ask you to "narrate" your thoughts as you complete the task. 
 
 I'm going to send you a link in the chat. Once you pull up the link, will you share your screen with me?
 
@@ -61,7 +54,7 @@ _Help them navigate back to the introduction page._
 - In what order would you display the emergency, sharing, and steps information?
 - Is there any other information we should include here?
 
-### On the Veteran Information page - 4 minutes
+### On the Veteran Information page - 3 minutes
 - What are your impressions of this page?
 - Is there any other information we should include here?
 
@@ -73,7 +66,7 @@ _Help them navigate back to the introduction page._
 - Is this information valuable for you to fill out before an appointment?
 - Is there any other information we should include here?
 
-### On the Review page - 4 minutes
+### On the Review page - 3 minutes
 _We might be able to skip this page (if time looks to be running short)._
 - What are your impressions of this page?
 - Were you expecting anything else to be available on a review page?
@@ -81,6 +74,16 @@ _We might be able to skip this page (if time looks to be running short)._
 ### On the Confirmation page - 4 minutes
 - What are your impressions of this page?
 - Is there any other information we should include here?
+
+## Questionnaire Manager Page Review - X minutes
+
+Direct the Veteran to navigate the prototype to the Questionnaire Manager page.
+
+- Describe what you are seeing. What is the purpose of this page?
+    - What does this mean? (Asking about statuses if it wasn't addressed in the first question.)
+- How useful would a page like this be for you?
+    - Why would you access a completed questionnaire?
+ 
 
 ## Follow-up questions - 5 minutes
 
