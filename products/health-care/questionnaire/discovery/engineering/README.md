@@ -285,6 +285,18 @@ but it is non-trivial. This is a risk that we will need to incur.
 
  The lighthouse team has been having meetings and discussions to solve this problem which is not a short term problem. We have needed to continue to monitor the slack discussions in lighthouse and to look for updates from Dave Mazik. Shawnee Petrosky and Beau Grantham have also provided some updates. 
 
+### Lighthouse team is working on a solution. 
+
+ As mentioned above, there is an authentication incompatability between VA.GOV and lighthouse. The lighthouse team is working on this
+
+ on 9/15, Shawnee Petrosky indicated that there will need to be some updates needed from the vets-api team and IAM. 
+ Lighthouse is currently working on things from their end, and at some point they will need to reconvene with both the vets-api 
+ engineering teams and IAM. The expected timeline is Q1 and she said that Amanda or our team could reach out to coordinate update meetings as needed.
+ 
+ Here is a Mural board where the lighthouse team has tried to diagram out some of the complexity of the VA.gov -> Health API use case, and for a general discussion of what authZ methods to support.
+ https://app.mural.co/t/adhocvasu2804/m/adhocvasu2804/1596560328863/3afc3bdff2efd491ca56e22e3ce7ac7d81e59318
+
+
 ---
 
 ### VistA API
