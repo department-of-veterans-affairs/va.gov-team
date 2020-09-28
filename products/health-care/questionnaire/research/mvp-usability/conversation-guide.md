@@ -28,7 +28,9 @@ Before we begin, let’s start with a warm-up question.
 
 ## Usability Task: Complete the questionnaire - 10 minutes
 
-Next, I want to give you some context for our first exercise. I will give you a task and ask you to "narrate" your thoughts as you complete the task. I'm going to send you a link in the chat. Once you pull up the link, will you share your screen with me?
+Next, I want to give you some context for our first exercise. I will give you a task and ask you to "narrate" your thoughts as you complete the task. 
+
+I'm going to send you a link in the chat. Once you pull up the link, will you share your screen with me?
 
 [Prototype LINK](TBD)
 
