@@ -1,5 +1,11 @@
 # Conversation Guide for Upcoming Appointment Questionnaire MVP Usability Testing
 
+## Session Setup/Logistics
+
+_Make sure everyone except the participant and moderator are on mute._
+_Make sure they are on the desktop version (unless we decide to do a mobile test)._
+_When the participant is ready, begin the session with the following intro._
+
 ## Intro - 5 minutes
 
 Thanks for joining us today! My name is Kristen and I also have some colleagues on the line observing and taking notes. Today we're going to review a prototype of a questionnaire that will help you and your doctor prepare for an upcoming appointment.
