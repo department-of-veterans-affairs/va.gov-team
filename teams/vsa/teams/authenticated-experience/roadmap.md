@@ -27,14 +27,14 @@ This has left us in a position where we don't have much of an authenticated expe
 
 It is because of this that we are going to dedicate all of 2020, and as much of 2021 as we need, to revisiting the logged-in experience at a high level. We will revisit the key logged-in pages — the logged-in homepage/dashboard and the user profile — explore a logged-in navigation, and finally establish a better system for on-site notifications (notification center). Our goal is to create the foundational elements we need to develop the logged-in experience over time for veterans and their larger communities (families, caregivers, VSOs, etc).
 
-### Projected timelines
+### Projected timelines for current projects
 
-|Project|Q3 2020|Q4 2020|Q1 2021|Q2 2021|Q3 2021|
-|----|----|----|----|----|----|
-|**Profile 2.0**| Build; QA; pre-launch | Launch | — | — |— |
-|**Logged-in homepage**| start technical discovery; start design | Design | Finish design; build; user testing and additional user research | — |— |
-|**Direct deposit for edu**| Begin discovery | Continue discovery; design; build | QA; pre-launch; launch| — |— |
-|**Preferred facility for VA.gov profile**| — | Discovery; figure out how work will be split between VAOS/Auth exp. | TBD | - | - |
+|Project|Q3 2020|Q4 2020|Q1 2021|Q2 2021|Q3 2021|Q4 2021|
+|----|----|----|----|----|----|----|
+|**Profile 2.0**| Build; QA; pre-launch | Launch | — | — | — | — |
+|**Logged-in homepage**| start technical discovery; start design | Design | Finish design; build; user testing and additional user research | — | — | — |
+|**Direct deposit for edu**| Begin discovery | Continue discovery; design; build | QA; pre-launch; launch| — | — | — |
+|**Preferred facility for VA.gov profile**| — | Discovery; figure out how work will be split between VAOS/Auth exp. | TBD |  — | — | — |
 
 ### Additional potential future projects & feature requests from other teams
 
