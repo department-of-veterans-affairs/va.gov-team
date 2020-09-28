@@ -1,4 +1,4 @@
-# Bundling forms library as a Node package
+# Bundling the forms library as a Node package
 
 **Author(s):** Brooks Johnson 
 **Last Updated:** September 24, 2020  
@@ -115,18 +115,21 @@ Do we want to separate the forms library build & testing stages from the main `v
 _Split the work into milestones that can be delivered, put them in the order that you think they should be done, and estimate roughly how much time you expect it each milestone to take. Ideally each milestone will take one week or less._
 
 ### Alternatives
-_This section contains alternative solutions to the stated objective, as well as explanations for why they weren't used. In the planning stage, this section is useful for understanding the value added by the proposed solution and why particular solutions were discarded. Once the system has been implemented, this section will inform readers of alternative solutions so they can find the best system to address their needs._
 
-See #./future-work
+See the section [Separate repo](#separate-repo) in Future Work. We are avoiding turning the forms library into its own node module with a separate repo because of the additional overhead involved in publishing, setting up CI pipelines, and general additional repo management. This _may_ be a path for the future.
 
 ### Future Work
-_Features you'd like to (or will need to) add but aren't required for the current release. This is a great place to speculate on potential features and performance improvements._
+
+#### Separate repo
 
 One possible option would be to take the package out of `vets-website` and give it its own repo.
 With this, we could publish it to npm, and we could completely remove the forms build & test process from `vets-website`, possibly speeding things up since we could avoid running forms tests on every build.
 
+#### Tighter dependencies
+
+Having a `package.json` specific to the forms library will allow us to treat it more like a product that we provide to VFS teams. It will be separate from the rest of the code in `vets-website`, so we could eliminate lodash from the forms library, or replace `moment` with something more appropriate without affecting the rest of the frontend.
+
 ### Revision History
-_The table below should record the major changes to this document. You don't need to add an entry for typo fixes, other small changes or changes before finishing the initial draft._
 
 Date | Revisions Made | Author
 -----|----------------|--------
