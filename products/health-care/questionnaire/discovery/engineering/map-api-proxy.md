@@ -76,6 +76,8 @@ hqva_mobile:
 
 ---
 
+## Version 2 of the Proxy
+
  Version 2 of the Ruby proxy can work with multiple proxies. It will still need the
  changes to settings.yml from above. It will try to install the mb node component and start it automatically. You just need to
  istall the gem. It will check for environment variables that you may be missing and notify you
