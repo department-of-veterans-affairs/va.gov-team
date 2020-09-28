@@ -74,6 +74,7 @@ Phase 2: Design Healthcare, Claims sections
 **PM**
 
 - [Platform checkpoint: Project kickoff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#project-kickoff)
+- Depending on where design is, maybe hold the [design intent checkpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#design-intent-collaboration) as well
 
 ### Preferred Facility technical discovery
 
