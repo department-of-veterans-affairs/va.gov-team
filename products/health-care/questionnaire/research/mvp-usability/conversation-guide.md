@@ -1,8 +1,10 @@
 # Conversation Guide for Upcoming Appointment Questionnaire MVP Usability Testing
 
+_If we decide to test on mobile devices, I will have to change some directions to either have the user download the Zoom app on their mobile device or talk them through the "laptop hugging method."
+
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Kristen and I also have some colleagues on the line observing and taking notes. Today we're going to review a prototype of a questionnaire that will help you and your doctor prepare for an upcoming appointment. Since this is a prototype, not everything will be clickable. We are looking for any feedback on the questionnaire, such as anything confusing, anything you like, if you would use this questionnaire, and more.
+Thanks for joining us today! My name is Kristen and I also have some colleagues on the line observing and taking notes. Today we're going to review a prototype of a questionnaire that will help you and your doctor prepare for an upcoming appointment. Since this is a prototype, not everything will be clickable or fully functioning. We are looking for any feedback on the questionnaire. For instance, let us know if anything is confusing or if you like anything.
 
 Before we start, a few things I want to mention:
 
@@ -16,80 +18,72 @@ Before we start, a few things I want to mention:
 
 - **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?" 
 
-## Warm-up Questions - 5 minutes
+## Warm-up Questions - 3 minutes
 
-Before we begin, let’s start with a few warm-up questions.
+Before we begin, let’s start with a warm-up question.
 
-- How often do you have appointments at the VA? 
-- What types of appointments do you have at the VA?
-- Have you ever had to answer questions about your health before, during, or after a VA appointment? (For example, on a form, screening tool, ipad, etc.) 
-    - If so, what was that experience like? 
+- Have you ever filled out a form or questionnaire prior to a doctor's apppointment? 
+    - If yes, How did that experience go?
 
-## First Task: Questionnaire Usability - 20 minutes
+## First Task: Questionnaire Usability - 10 minutes
 
-I'm going to send you a link in the chat. Once the link pulls up, will you share your screen with me?
+Before we begin, I want to give you some context for this exercise. I will give you a task and ask you to "narrate" your thoughts as you complete the task. 
+I'm going to send you a link in the chat. Once you pull up the link, will you share your screen with me?
 
 [Prototype LINK](TBD)
 
-Before we begin, I want to give you some context for this exercise. Think about the questions you are asked before, during, and after your appointments at the VA. Take a look at the items on the left side of the screen. We are going to do a sorting exercise so that I can understand which questions/topics would be most valuable to you and your care.
+Task: Pretend that you just made an appointment and received a link to this questionnaire via text or email. Complete this questionnaire.
 
-1. Will you sort these in order of importance to you and your healthcare experience?
+_Only give direction if the Veteran gets stuck completing the task._
 
-Let's say that you are able answer some of these questions ahead your visit through filling out a form. We will show you a set of topics and we'd like to know which of these topics, if any, would make sense for you to take the time to fill out ahead of time, instead of during the appointment.  
+After completing the task, would you say it was easy or difficult to complete this questionnaire?
+- Why?
 
-2. Great, now go ahead and drag an item from the left and drop it into a category. If you have questions or need clarification, feel free to ask me as you move through the exercise.
+### Things to watch/listen for:
+
+- _Note if the Veteran successfully completed the task, which is noted by getting to the screen with the alert box with "Your questionnaire has been sent to your provider."_
+- _Pay attention to Veteran commentary on confusing or pleasing portions of the questionnaire._
+- _Take note of anything the Veteran suggests to add._
 
 
-### Things to listen for:
+## Reviewing Screens in More Detail - X minutes
 
-- _If Veteran mentions want to save info for another time/appointment_
-- _Which questions/topics does the Veteran see as most important? Least important?_
-- _Pay attention to Veteran commentary on the topics/categories._
-- _Take note of any topics/questions the Veteran suggests to add._
+Great, thank you for doing that exercise. Next, we are going to go back to the beginning of the questionnaire, so I can ask more questions about each page.
+_Help them navigate back to the introduction page._
 
-## Topic: Sort within categories - 10 Minutes
-
-Now that all of the topics are sorted, let's look at the first category and sort one more time based on importance.
-
-Go ahead and click the "finish" button in the top right of the screen.
-
-**Questions to consider**
-- Talk me through why you chose this topic
-- Which topics/questions do you find most beneficial to your healthcare experience?
-- What does this topic mean in your words?
-- What has your experience been with this question/topic in your appointments?
-
-### Things to listen for:
-
-- _How does the Veteran interpret the categories?_
-- _How does the Veteran distinguish importance?_
-- _How many cards are sorted into each category?_
-
-## Topic: Form feedback
-
-Great, thank you for doing that exercise. I'm going to actually share my screen and show  you an example of what one of these forms may look like on the VA website. 
-
-Let's say that you just made an appointment and received a link to this form via text or email.
-
-- What are your first impressions of this page?
+### On the Introduction page - 7 minutes
+- What are your impressions of this page?
+- Review the "How will my personal health information be protected and shared if I use this questionnaire?" question. 
+    - What are your thoughts about the information provided? 
+    - Is it what you were expecting or not expecting?
+- In what order would you display the emergency, sharing, and steps information?
 - Is there any other information we should include here?
-- Do the labels make sense to you?
+
+### On the Veteran Information page - 3 minutes
+- What are your impressions of this page?
+- Is there any other information we should include here?
+
+### On the Upcoming Appointment Questinnaire page - 7 minutes
+- What are your impressions of this page?
+- Do the questions make sense to you?
 - How would you answer these questions?
-- What do you think these mean?
+    - If not explicitly mentioned, what do you think about ranking the questions that you enter?
 - Is this information valuable for you to fill out before an appointment?
-- Have you filled out forms online before?
-- Where would you want to find a form like this one?
+- Is there any other information we should include here?
 
-### Things to listen for:
+### On the Review page - 3 minutes
+- What are your impressions of this page?
+- Were you expecting anything else to be available on a review page?
 
-- _Take note of where a Veteran would want to find these forms_
-- _Does the Veteran understand what the questions are asking?_
-- _Initial impressions of filling out health information on VA.gov_
+### On the Confirmation page - 3 minutes
+- What are your impressions of this page?
+- Is there any other information we should include here?
 
 ## Follow-up questions - 5 minutes
 
 - Are there any topics or questions you'd like to see that weren't included in today's exercise?
 - Do you have any questions for me?
+_Are there any other questions about Q4 work that we want to ask about? Questions to get at the IA placement of the form?_
 
 ## Thank-You and Closing - 5 minutes
 
