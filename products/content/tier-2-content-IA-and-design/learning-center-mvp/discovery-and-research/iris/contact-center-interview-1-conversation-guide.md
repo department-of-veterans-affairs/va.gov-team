@@ -4,13 +4,15 @@
 
 Thanks for joining us today! My name is Liz and I also have some colleagues on the line observing and taking notes. I'm part of a team that is working on a new VA.gov product that will help Veterans find answers to questions they have about their VA benefits, account, records - all kinds of topics.
 
-I've invited you here today to better understand content processes in the context of your contact center's customer service, and IRIS content creation.  My hope is that by the end of this hour together we'll have an understanding of 
+I've invited you here today as part of a study to better understand the current content processes different contact center content teams have. We want to understand how customer service content is created and maintaned today. Though we're especially interested in the processes for the public Veteran-facing IRIS articles, we would also find it helpful to understand what the process is for internal scripts that support contact center reps, if they're different than the process for customer facing content.  
 
-- who participates in content creation on your team, 
-- get a high-level overview of the process, and 
-- identify individuals we can speak to more in-depth during a second round of interviews. 
+My hope is that by the end of this hour together we'll have an understanding of: 
 
- Since IRIS content will eventually be published in the learning center, it's important that we take your workflows and processes into consideration so we can support you moving forward.
+- who does what (create/review/approve content)
+- get a high-level overview of the process or processes, and 
+- identify individuals we can speak to more in-depth or observe as part of the ethnographic observational part of the study. 
+
+In better understanding what your current user journey is today, we hope to use this information to improve upon some of the authoring/content maintenance process with the Drupal CMS product we are creating (internally called learning center).
 
 Before we start, a few things I want to mention:
 
@@ -48,7 +50,8 @@ Thanks so much for sharing that. Now that I know how each of you contribute to c
 
 - Who's ultimately responsible for creating the content on your team? 
 
-- Maintaining the content?
+- Maintaining the content? (For example: updating an article when information changes)
+
 - Who do you recommend we talk to for our more in-depth interviews?
 
 ## Content creation/management
@@ -56,6 +59,7 @@ Thanks so much for sharing that. Now that I know how each of you contribute to c
 That is all really helpful information, thanks for sharing all of that! Let's talk more about the actual content creation and management.
 
 - What are the different kinds of content your team creates and manages?
+
 - Who is the audience for that content?
 
 - How do you determine when you need to create new content?
@@ -67,7 +71,7 @@ Okay, so lets say that [reiterate what they said, new content needs to be create
 *If it isn't already obvious, ask*:
 
 - How does IRIS fit into this process?
-- Are there other systems being used?
+- Are there other sites being used?
 - We'd like to observe people going through this process - who do you recommend we reach out to for that? Are those the same people we've already talked about?
 
 ## Success/Challenges
