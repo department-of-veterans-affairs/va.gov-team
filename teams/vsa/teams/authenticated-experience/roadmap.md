@@ -2,7 +2,7 @@
 
 **Updated September 2020**
 
-## Current project status
+## Current projects
 
 |Project|Status|
 |----|----|
@@ -29,14 +29,12 @@ It is because of this that we are going to dedicate all of 2020, and as much of 
 
 ### Projected timelines
 
-|Project|Q1 2020|Q2 2020|Q3 2020|Q4 2020|Q1 2021|
+|Project|Q3 2020|Q4 2020|Q1 2021|Q2 2021|Q3 2021|
 |----|----|----|----|----|----|
-|**Direct deposit for comp & pen**|Removal of direct deposit from eBenefits| — | — | — | — |
-|**Address validation**|QA; pre-launch checklist; launch| 508 review; post-launch updates; monitoring | — | — | — |
-|**Profile 2.0**|Design; technical discovery| User testing; build | Build; QA; pre-launch | Launch | — |
-|**Logged-in homepage**|Begin discovery| Complete design discovery;|  start technical discovery; start design | Design | Finish design; build; user testing and additional user research |
-|**Direct deposit for edu**| — | — | Begin discovery | Continue discovery; design; build | QA; pre-launch; launch|
-|**Preferred facility for VA.gov profile** | — | — | — | Discovery; figure out how work will be split between VAOS/Auth exp. | TBD |
+|**Profile 2.0**| Build; QA; pre-launch | Launch | — | — |— |
+|**Logged-in homepage**| start technical discovery; start design | Design | Finish design; build; user testing and additional user research | — |— |
+|**Direct deposit for edu**| Begin discovery | Continue discovery; design; build | QA; pre-launch; launch| — |— |
+|**Preferred facility for VA.gov profile**| — | Discovery; figure out how work will be split between VAOS/Auth exp. | TBD | - | - |
 
 ### Additional potential future projects & feature requests from other teams
 
