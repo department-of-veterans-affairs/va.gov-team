@@ -18,7 +18,7 @@
 - VDIFF is part of the data transfer between Vista and Cerner primarily but they are looking for new use cases and it was suggested that perhaps they could be a part of the solution.
 - Appointment data from CDW was mentioned, though Stephen said that CDW is a day behind and that it is difficult to work with.
 
-## Strategy 
+## Strategy overview
 
  1. Questionnaire team will expose an API endpoint that has a list of Questionnaires that VEText will use to populate a drop down in their admin tool. 
  2. Questionnaire team will expose an API endpoint for the VEText to notify the questionnaire service which questionnaire was selected for which user using the dropdown from point 1. 
@@ -28,6 +28,8 @@
 [Recent diagram from Shane Elliot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/assets/clipboard-VEText.jpg)
 
 ---
+
+## Strategy Details
 
 #### 1. Questionnare List from questionnaire service
 
