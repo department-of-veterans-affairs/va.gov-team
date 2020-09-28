@@ -1,52 +1,52 @@
 # Conversation Guide for Upcoming Appointment Questionnaire MVP Usability Testing
 
-_If we decide to test on mobile devices, I will have to change some directions to either have the user download the Zoom app on their mobile device or talk them through the "laptop hugging method."
+_If we decide to test on mobile devices, I will have to change some directions to either have the user download the Zoom app on their mobile device or talk them through the "laptop hugging method."_
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Kristen and I also have some colleagues on the line observing and taking notes. Today we're going to review a prototype of a questionnaire that will help you and your doctor prepare for an upcoming appointment. Since this is a prototype, not everything will be clickable or fully functioning. We are looking for any feedback on the questionnaire. For instance, let us know if anything is confusing or if you like anything.
+Thanks for joining us today! My name is Kristen and I also have some colleagues on the line observing and taking notes. Today we're going to review a prototype of a questionnaire that will help you and your doctor prepare for an upcoming appointment.
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about 45 mintues to an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **Since this is a prototype, not everything will be clickable or fully functioning.**
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve our tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+- **This entire session should take about an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording.*
 
-- **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?" 
+- **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?"** 
 
 ## Warm-up Questions - 3 minutes
 
 Before we begin, let’s start with a warm-up question.
 
 - Have you ever filled out a form or questionnaire prior to a doctor's apppointment? 
-    - If yes, How did that experience go?
+    - If yes, how did that experience go?
 
-## First Task: Questionnaire Usability - 10 minutes
+## Usability Task: Complete the questionnaire - 10 minutes
 
-Before we begin, I want to give you some context for this exercise. I will give you a task and ask you to "narrate" your thoughts as you complete the task. 
-I'm going to send you a link in the chat. Once you pull up the link, will you share your screen with me?
+Next, I want to give you some context for our first exercise. I will give you a task and ask you to "narrate" your thoughts as you complete the task. I'm going to send you a link in the chat. Once you pull up the link, will you share your screen with me?
 
 [Prototype LINK](TBD)
 
 Task: Pretend that you just made an appointment and received a link to this questionnaire via text or email. Complete this questionnaire.
 
-_Only give direction if the Veteran gets stuck completing the task._
+_Only give additional direction if the Veteran gets stuck completing the task._
 
 After completing the task, would you say it was easy or difficult to complete this questionnaire?
 - Why?
 
 ### Things to watch/listen for:
 
-- _Note if the Veteran successfully completed the task, which is noted by getting to the screen with the alert box with "Your questionnaire has been sent to your provider."_
+- _Did the Veteran successfully completed the task. Success = getting to the screen with the "Your questionnaire has been sent to your provider." alert box._
 - _Pay attention to Veteran commentary on confusing or pleasing portions of the questionnaire._
 - _Take note of anything the Veteran suggests to add._
 
 
-## Reviewing Screens in More Detail - X minutes
+## Reviewing Screens in More Detail - minutes broken out below for each page
 
 Great, thank you for doing that exercise. Next, we are going to go back to the beginning of the questionnaire, so I can ask more questions about each page.
 _Help them navigate back to the introduction page._
@@ -59,7 +59,7 @@ _Help them navigate back to the introduction page._
 - In what order would you display the emergency, sharing, and steps information?
 - Is there any other information we should include here?
 
-### On the Veteran Information page - 3 minutes
+### On the Veteran Information page - 4 minutes
 - What are your impressions of this page?
 - Is there any other information we should include here?
 
@@ -71,11 +71,12 @@ _Help them navigate back to the introduction page._
 - Is this information valuable for you to fill out before an appointment?
 - Is there any other information we should include here?
 
-### On the Review page - 3 minutes
+### On the Review page - 4 minutes
+_We might be able to skip this page (if time looks to be running short)._
 - What are your impressions of this page?
 - Were you expecting anything else to be available on a review page?
 
-### On the Confirmation page - 3 minutes
+### On the Confirmation page - 4 minutes
 - What are your impressions of this page?
 - Is there any other information we should include here?
 
