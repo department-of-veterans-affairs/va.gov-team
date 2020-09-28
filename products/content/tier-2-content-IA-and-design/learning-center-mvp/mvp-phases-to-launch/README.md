@@ -3,6 +3,8 @@
 
 [Reference: PPT deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/pw-learning-center-takeaways-mvp-roadmap-082820.pptx)
 
+[Reference: MVP Document](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13983)
+
 ## 1.0 - End of October -beta launch
 
 <details>
@@ -10,15 +12,15 @@
 <summary>Requirements</summary>
 
 ### Search
-* As a Veteran I want to search experience that will answer my benefit-adjacent support questions.  
+* As a Veteran, I need to search for LC articles so I can find more information about a benefit or service I'm interested in.  
   - Search experience that gives Veterans search results to legacy tier 2 content in support of veterans, caregivers, school administrators, VSOs, VA loan       appraisers, etc. 
   - [User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/pw-learning-center-takeaways-mvp-roadmap-082820.pptx)
 ### Articles lists 
-* As a Veteran and or veteran caregiver a relevant article list is needed that displays most current and relevant articles to search results. 
+* As a Veteran and or veteran caregiver, a relevant article list is needed that displays most current and relevant articles to search results. 
   - Article lists should help users self-resolve VA.gov issues that span benefits or that are agnostic of benefit issues. Intent is to funnel users to Tier 1 beneifits hubs for applying and managing benefits. 
   - [User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/view-all-articles-in-X-category-landing-pg-requirements.md)
 ### Templates
-* As a Veteran I need a visual way to view a step-by-step process quick navigation to Tier 1 benefits tools and content. 
+* As a Veteran, I need a visual way to view a step-by-step process quick navigation to Tier 1 benefits tools and content. 
   - The design of the learning center pages should make it easy to navigate and find information for primary users and caregivers. Visuals add to the UX and ease the process for visual learners. 
   - [User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#specific-lc-content-template-types)
 ### Content
@@ -26,7 +28,7 @@
   - provide contextual content access points in unauthenticated and authenticated product experiences, but only if it’s truly relevant and related information.  All learning content should send people TO tier 1 benefit tools and content (eligibility, enrolling, filing, creating an account, signing in to do manage tasks). 
   - [User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#frontend-content-tags)
 ### Tags
-* As a Veteran I wanted to browse, explore and discover VA services in a fun and engaging way through learning center tags.   
+* As a Veteran, I wanted to browse, explore and discover VA services in a fun and engaging way through learning center tags.   
   - Adapting content tags will encourage UX behavior to browse, explore and enagage content they otherwise wouldn't through legacy search options. Tags are not meant to be a substitute search in the learning center, but a way of filtering the ocean into a lake. Content relevance based on keyword-driven search will be the primary way users can quickly find content in the learning center.
   - [User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/view-all-articles-in-X-category-landing-pg-requirements.md)
   - [FE Content Tag Requirements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#frontend-content-tags) 
