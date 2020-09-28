@@ -68,7 +68,7 @@ Generally, we want to test components in the context a user is using them, which
    - Browser tests require us to run Webpack and fully bundle all our JS code before running any test, which is slow
    - Generally, [this article](https://kentcdodds.com/blog/unit-vs-integration-vs-e2e-tests) is a good breakdown of the types of testing and tradeoffs.
 
-## Integration tests
+## Integration test notes
 - Integration tests mean tests that cover multiple components/redux logic, but are not run in a browser
 - Good integration tests should
    - Render a high-level a component (like a component covering a whole page or tab)
@@ -80,7 +80,7 @@ Generally, we want to test components in the context a user is using them, which
 - We should still leave tests that incorporate React Router to the browser tests, but we should verify in these tests that we are pushing the correct urls to the router when necessary
 - React Testing Library is the easiest way to write tests that meet the guidelines above, but Enzyme is still usable.
 
-## Unit tests
+## Unit test notes
 - Write unit tests for plain JS code, like data transformations
 - Reducers should also be unit tested, if they have complex logic
 - Action creators can be unit tested or covered in integration tests, since they're typically coupled to specific component interactions
