@@ -18,7 +18,7 @@ Each category grouping will display up to 'n' number of article titles, and a li
 - The list should include all of the articles under that LC category as either the primary or additional categories. 
 - Articles in that category should be listed alphabetically by the article titles (H1s). 
 - The listing display should be the same as search results design: content template label, H1, article blurb. 
-- The article blurb will pull from the intro text and we will display the first 200 characters (with spaces) of the intro text. If the intro text has more than 200 characters, we will truncate it at the limit. 
+- The article blurb (clarificatin added: on these static landing pages) should pull from the intro text and we will display the first 200 characters (with spaces) of the intro text. If the intro text has more than 200 characters, we will truncate it at the limit. 
 
 Sample screenshot with FPO (for placeholder only) text:
 https://slack-files.com/T03FECE8V-F01B3LTDLTU-dea3800de3
@@ -34,5 +34,5 @@ https://slack-files.com/T03FECE8V-F01B3LTDLTU-dea3800de3
 - The list should include all of the articles tagged with Y. 
 - Articles should be listed alphabetically by the article titles (H1s). 
 - The listing display should be the same as search results design: content template label, H1, article blurb. 
-- The article blurb will pull from the intro text and we will display the first 200 characters (with spaces) of the intro text. If the intro text has more than 200 characters, we will truncate it at the limit. 
+- The article blurb (clarificatin added: on these static landing pages) should pull from the intro text and we will display the first 200 characters (with spaces) of the intro text. If the intro text has more than 200 characters, we will truncate it at the limit. 
 
