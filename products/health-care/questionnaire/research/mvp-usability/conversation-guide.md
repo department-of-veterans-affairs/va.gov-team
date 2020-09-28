@@ -39,7 +39,7 @@ _Only give additional direction if the Veteran gets stuck completing the task._
 - _Take note of anything the Veteran suggests to add._
 
 
-## Reviewing Screens in More Detail - 26 minutes (total from all pages)
+## Reviewing Screens in More Detail - 26 minutes (total for all pages)
 
 Great, thank you for doing that exercise. Next, we are going to go back to the beginning of the questionnaire, so I can ask more questions about each page.
 _Help them navigate back to the introduction page._
