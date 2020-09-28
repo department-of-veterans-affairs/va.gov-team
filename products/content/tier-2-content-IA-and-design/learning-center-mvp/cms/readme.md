@@ -13,6 +13,8 @@
 1. Review backlog for Sprint 16
 1. Process of releasing new LC categories
 1. Meta tag description populated by intro text
+1. ToC component on LC content types
+1. Default value in VA benefit Hub fields on existing content
 1. Table AX issues identified by Jen Strickland
 1. anything else
 
