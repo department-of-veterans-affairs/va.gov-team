@@ -11,8 +11,9 @@
 
 1. Reschedule Oct 6 check-in for Oct 5, 7 or other
 1. Review backlog for Sprint 16
+1. Process of releasing new LC categories
+1. Meta tag description populated by intro text
 1. Table AX issues identified by Jen Strickland
-1. Custom link teasers - automation brainstorm
 1. anything else
 
 ### Action items
