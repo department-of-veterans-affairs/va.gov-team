@@ -5,9 +5,40 @@
 
 ## 1.0 - End of October -beta launch
 
+<details>
+  
+<summary>Requirements</summary>
+
+### Search
 * user story
   - capability
   - link to the separate doc if appropriate
+* user story
+  - capability
+  - link to the separate doc if appropriate
+### Articles lists 
+* user story
+  - capability
+  - link to the separate doc if appropriate
+* user story
+  - capability
+  - link to the separate doc if appropriate
+### Templates
+* user story
+  - capability
+  - link to the separate doc if appropriate
+* user story
+  - capability
+  - link to the separate doc if appropriate
+### Content
+* user story
+  - capability
+  - link to the separate doc if appropriate
+* user story
+  - capability
+  - link to the separate doc if appropriate
+  
+</details>
 
 Tags: Audience and Topics
 
