@@ -9,7 +9,35 @@
 
 <details> <summary> September 2020</summary>
 
+
+
+
 ## Sept 25th, 2020
+
+**Product**
+ - [TOT Sept 22th](https://drive.google.com/file/d/116fi_l-16W2L6qo2O3dTb25Nn2pUPfC1/view?usp=sharing)
+ - [Sprint Demo](https://docs.google.com/presentation/d/1Sbq9okwrfF1bcaaPCo3TVYk-7RmV3Odf5VHzM2mqK3U/edit?usp=sharing)
+ - [Sprint Report](https://docs.google.com/document/d/1IfwJeN0HBbFTiD3DfA5yPXpTSmTigXVDZWcSvbtZNyM/edit?usp=sharing)
+ - Virtual Care Manager Demo - Derek Juang (SanDiego) for consideration for integration with PDG and CPRS workflows
+
+**Research and Design**
+- Starting R&D for Questionnaire Worklist
+
+**Engineering**
+- Began Intro UI
+- Reviewed strategy for the list loop Questions on Reason for Visit page- decided to go out of the box and push refresh position error to platform in hopes they will accept the bug fix. 
+- Documenation and reviewed questions on our VeText strategy to determine feasibility of solution - will continue to align with this team to build out our trigger strategy.  
+
+**Next Step/Followup**
+- Continue to validate the PGD data and start on data for appt. details in MAP.
+- Investigation into how eScreening tool is passing PGD into CPRS 
+	
+**Decisions:**
+- Virtual Care Manager will require front end coding to map our PGD fields which our team was unaware of.  Stephen has technical idea to leverage GetCare FHIR and field mapping API to pass our questions and will be available for display in Virtual Care without coding by that team.- will continue to work through this option.  
+
+**Blockers:**
+- No changes in status from previous week for blocker [Stakeholder Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
+- Both BE investigation for [VAMP/PGD #12406](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12406) and [Service for Retrieving Appt. Details #12404](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12404) have been un-blocked by gaining temp keys access for both environments but are still working on access to sandbox and getting test data in the staging environments. 
 
 ## Sept 18th, 2020
 **Product**
