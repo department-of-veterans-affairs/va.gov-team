@@ -35,7 +35,7 @@ It is because of this that we are going to dedicate all of 2020, and as much of 
 
 ### Additional potential future projects & feature requests from other teams
 
-|Project|Requesting team|Date of request| Status/Notes|
+|Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
 |[Logged-in navigation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/navigation-ia)| Auth. exp. | N/A| N/A|
 |Notification center| Auth. exp. | N/A| N/A|
