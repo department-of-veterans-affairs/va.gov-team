@@ -119,14 +119,12 @@ Additionally:
 
 ## Solution Approach
 
-### April 2020
+### Discovery
 
 - We are starting this project with a comprehensive round of discovery to help us answer questions around veteran needs and expectations, DEPO stakeholder needs and expectations, how we should involve stakeholders outside of DEPO, relevant past research and context setting, and existing models for usable and useful logged-in experiences.
 - Right now, I imagine that we will only be leveraging data and tools we have access to right now on VA.gov and not integrating entirely new data/backend systems that don't already exist or aren't already in the works. While the new logged-in homepage will grow and change over time, I think this will be a helpful line for us to draw for what is included in an initial build and what we may want to build and include in future phases.
 
-### June 2020
-
-#### Phase 1 plan (flexible pending technical discovery):
+### Phase 1 plan (flexible pending technical discovery):
 
 **In scope**
 
