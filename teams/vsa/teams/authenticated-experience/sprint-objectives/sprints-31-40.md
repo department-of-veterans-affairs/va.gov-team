@@ -69,6 +69,12 @@ Phase 2: Design Healthcare, Claims sections
 - Get feedback on health care section; make updates
 - Design disability/claims section
 
+### Direct deposit for Edu
+
+**PM**
+
+- [Platform checkpoint: Project kickoff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#project-kickoff)
+
 ### Preferred Facility technical discovery
 
 - What still needs to happen for [#12875](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12875)?
