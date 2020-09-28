@@ -29,7 +29,7 @@ Before we begin, I want to give you some context for our first exercise. I will 
 
 I'm going to send you a link in the chat. Once you pull up the link, will you share your screen with me?
 
-[Prototype LINK](TBD)
+[Prototype LINK TBD](TBD)
 
 **Task: Pretend that you just made an appointment and received a link to this questionnaire via text or email. Complete this questionnaire.**
 
