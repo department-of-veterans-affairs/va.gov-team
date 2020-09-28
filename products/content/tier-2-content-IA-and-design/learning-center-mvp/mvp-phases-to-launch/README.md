@@ -19,7 +19,7 @@
   - [User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/view-all-articles-in-X-category-landing-pg-requirements.md)
 ### Templates
 * As a Veteran I need a visual way to view a step-by-step process quick navigation to Tier 1 benefits tools and content. 
-  - capability
+  - The design of the learning center pages should make it easy to navigate and find information for primary users and caregivers. Visuals add to the UX and ease the process for visual learners. 
   - [User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#specific-lc-content-template-types)
 ### Content
 * As a Veteran content should point me to Tier 1 benefit tools and resources (eligibility, enrolling, filing, creating an account, signing in to do manage tasks) in order to save me time. 
