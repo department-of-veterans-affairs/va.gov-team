@@ -2,9 +2,9 @@
 
 ## Session Setup/Logistics
 
-_Make sure everyone except the participant and moderator are on mute._
-_Make sure they are on the desktop version (unless we decide to do a mobile test)._
-_When the participant is ready, begin the session with the following intro._
+- _Make sure everyone except the participant and moderator are on mute._
+- _Make sure they are on the desktop version (unless we decide to do a mobile test)._
+- _When the participant is ready, begin the session with the following intro._
 
 ## Intro - 5 minutes
 
@@ -81,7 +81,7 @@ _We might be able to skip this page (if time looks to be running short)._
 
 ## Questionnaire Manager Page Review - 7 minutes
 
-Direct the Veteran to navigate the prototype to the Questionnaire Manager page.
+_Direct the Veteran to navigate the prototype to the Questionnaire Manager page._
 
 - Describe what you are seeing. What is the purpose of this page?
     - What does this mean? (Asking about statuses if it wasn't addressed in the first question.)
