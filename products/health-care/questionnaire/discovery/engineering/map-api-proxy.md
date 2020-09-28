@@ -73,3 +73,99 @@ hqva_mobile:
   key_path: /Users/laurenceguild/my-play-certs/sandbox_rsa
   timeout: 15
 ```  
+
+---
+
+ Version 2 of the Ruby proxy can work with multiple proxies. It will still need the
+ changes to settings.yml from above. It will try to install the mb node component and start it automatically. You just need to
+ istall the gem. It will check for environment variables that you may be missing and notify you
+ 
+
+<details>
+  <summary>Ruby proxy Version 2</summary>
+
+```
+require 'mountebank'
+require 'yaml'
+
+
+VA_ROOT = '/Users/laurenceguild/src/pgd_pr1/vets-api'
+SPEC_PATH = 'spec/support/vcr_cassettes/health_quest'
+PORT = 4546
+
+class HealthQuestProxy
+  Proxies = [
+    {
+      path: "/appointments/v1/patients/\\w+/appointments/\\d+",
+      cas: 'appointments/get_appointment_by_id.yml'
+    },
+    {
+      path: '/appointments/v1/patients/\\w+/appointments',
+      cas: 'appointments/get_appointments.yml'
+    }
+  ]
+
+  def launch
+    Proxies.each do |prx|
+      path = "#{VA_ROOT}/#{SPEC_PATH}/#{prx[:cas]}"
+      cas_obj = YAML.load_file(path)
+      body = JSON.parse(cas_obj['http_interactions'][0]['response']['body']['string'])
+
+      status_code = 200
+      headers = {"Content-Type" => "application/json"}
+      data = {matches: {path: prx[:path]}}
+      predicate = Mountebank::Stub::Predicate.new(data)
+      response = Mountebank::Stub::HttpResponse.create(status_code, headers, body)
+
+      puts "\n\nADD IMPOSTER for #{path}\n\n"
+      @imposter.add_stub(response, predicate)
+      @imposter.save!
+    end
+  end
+
+  def start_mb
+    @mb_pid = Process.fork { system 'mb' }
+    if !@mb_pid 
+      system 'npm install -g mountebank'
+      start_mb
+    end
+  end
+
+  def initialize
+    ['MOUNTEBANK_SERVER', 'MOUNTEBANK_PORT'].each do |var|
+      unless ENV[var]
+        puts "You do not have the environment variable set for #{var}"
+        puts 'add these to ~/.zshrc'
+        puts 'export MOUNTEBANK_SERVER=127.0.0.1'
+        puts 'export MOUNTEBANK_PORT=2525'
+        exit
+      end
+    end
+
+    terminate_imposter = "curl -X DELETE http://localhost:2525/imposters/#{PORT}"
+    kill_mbserver = "ps -ef | grep 'usr/local/bin/mb' | grep -v grep | awk '{ print $2 }' | xargs kill"
+    system terminate_imposter
+    puts "**** KILL PREVIOUS SERVER ****"
+    system kill_mbserver
+    sleep 1
+    start_mb
+    puts "mb pid = #{@mb_pid}"
+    sleep 1
+
+    protocol = Mountebank::Imposter::PROTOCOL_HTTP
+    @imposter = Mountebank::Imposter.build(PORT, protocol)   
+    puts "-- LAUNCH --" 
+    launch
+    sleep 1
+    puts "Imposters: #{Mountebank.imposters}"
+  end
+
+end
+
+
+
+HealthQuestProxy.new
+
+```
+
+</details>
