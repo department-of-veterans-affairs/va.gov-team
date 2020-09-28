@@ -1,9 +1,8 @@
 # MOBILE Collaboration Cycle
 
-So you’re starting a new project — congratulations! This is a guide to required Veteran-facing Services Platform (VSP) collaboration points, written for all Veteran-facing Services (VFS) teams building on VA.gov. VSP’s mission is to provide a framework comprised of systems, tools, processes, documentation, and customer support, that helps VFS Teams create successful VA.gov products.
+## Purpose
 
-The VSP Collaboration Cycle was created for medium-to-large VFS work initiatives. Not sure if this process applies to your project? Not sure how your edge case fits in? Ask us in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) and we’d be happy to help customize a plan! 
-
+The VA mobile app is not a typical VA.gov product and therefore will deviate from the standard VSP collaboration cycle. The purpose of this document is to describe what the mobile app team did pre and post-launch to get VA's flagship mobile MVP shipped.
 
 ##### Table of contents
 * [Project Kickoff](#project-kickoff)
@@ -21,47 +20,12 @@ The VSP Collaboration Cycle was created for medium-to-large VFS work initiatives
 
 
 # Project Kickoff
-Start off by introducing your team and VSP to your new work initiative. Discuss existing solutions in the problem space, align team member expectations, and collaborate with VSP to identify any areas that may need additional support.
 
-## Timing
-- Development stage: **Define**
-- When you understand the problem you’re trying to solve (you don’t yet need to know exactly how you’re going to solve it).
-
-## Collaboration format: 30-minute meeting
-
-### Request process
-**VFS Product Manager** initiates scheduling by submitting ZenHub issue — use `Project Kickoff` issue template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd&labels=product+support%2C+content-ia-team%2C+collaboration-cycle&template=project-kickoff.md&title=Project+Kickoff+%5BFeature-Name%5D) to open a ticket)_. VSP will schedule the meeting. Meeting is recorded.
-
-### Meeting attendees
-- VFS brings: 
-  - Your Product Manager (required)
-  - Your DEPO Product Lead (required)
-  - Your entire VFS team (recommended)
-  - Any other stakeholders you want to invite
-- If VFS team is part of VSA contract, also include as optional: Accessibility (Jennifer), QA (Tze), Design (Shawna), Product (Mickin)
-- VSP brings (all optional): 
-  - Design (Crystabel & Emily)
-  - Accessibility (Trevor)
-  - Content (Peggy)
-  - Information architecture (Mikki)
-  - QA (Peter)
-  - Product (Andrea Hewitt)
-  - Analytics (Joanne)
-  - VSP’s DEPO co-leads (Rachael, Kevin & Dror)
-
-### Artifact inputs 
-You bring: 
-- A rough draft of your [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md) (stored in appropriate GitHub `va.gov-team/products` folder)
-- An explanation of the problem space
-- Any other artifacts you have so far
-- Any questions you have about the [staging accessibility review processes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md)
-- You **do not** need to prepare a presentation
-
-### Outcomes and artifact outputs
-We’ll work together to identify any areas of your project that need additional support or collaboration. Follow-ups and areas to expand upon should be called out in this meeting and scheduled after the fact. 
-
-## For further support at this point
-Reach out via Slack [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) with any questions, and you’ll be directed to the correct resource.
+## What Happened?
+- Prior to the official VSP orientation, the mobile app's Product Lead met with VSP's Product Manager to discuss areas where the app might deviate from the standard collaboration cycle (eg, accessibility review) however both product teams agreed that a VSP orientation would be beneficial to the entire mobile app team. 
+- During the official VSP orientation, the standard format was followed but there was mention of the areas where the mobile app team might do things differently. 
+## How Did It Go?
+- The mobile app team thought that the VSP orientation was valuable and it was helpful to learn about the various VSP resources. 
 
 ---
 
