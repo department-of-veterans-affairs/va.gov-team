@@ -29,7 +29,7 @@
 
 ### [Authenticated experience road map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap.md)
 
-### Current project status
+### Current projects
 
 |Project|Status|
 |----|----|
