@@ -5,6 +5,10 @@
 
 ## 1.0 - End of October -beta launch
 
+* user story
+  - capability
+  - link to the separate doc if appropriate
+
 Tags: Audience and Topics
 
 Categories: How content is organized on the LC homepage e.g. disability
