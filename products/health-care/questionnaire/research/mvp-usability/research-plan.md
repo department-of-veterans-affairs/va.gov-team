@@ -1,27 +1,36 @@
 # Research Plan for Usability Testing the MVP Upcoming Appointment Questionnaire October 2020 
+
+_Amanda - Preference on a desktop or mobile test? As a program, we are pushing mobile first. We may not be able to see where someone specifically clicks when using the Zoom app, but that is really the only downside (and makig sure people download Zoom).
+
 ## Goals	
-This research is to usability test a wireframe prototype of an upcoming appointment questionnaire. 
+This research is to usability test the proposed design of the upcoming appointment questionnaire and gain feedback on the content/wording within the questionnaire. It will also gather initial feedback on a page that will list all questionnnaires for a Veteran. 
 
 **Background**<br>
 Our goal is to improve the in-person and online pre and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners. Out MVP will focus on improving the pre-appointment experience when visiting primary care providers.
 
 **Research questions**
-- Are Veterans able to successful complete the questionnaire?
+- Are Veterans able to successfully complete the questionnaire?
 - Is there any confusion caused by the question wording within the questionnaire?
+- Are Veteran interested in sharing other information with their provider that the questionnaire currently doesn't include?
+- Do Veterans understand the purpose of the Questionnaire Manager page?
 
 **Hypothesis & assumptions**
-- Veterans will provide feedback on topics/questions not listed in the X
+- Veterans will be able to successfully complete the questionnaire.
+- There will be minimal confusion created by the content and question wording within the questionnaire. 
+- Veterans will provide feedback on additional topics/questions not shown in the current questionnaire.
+- Veterans will understand the purpose of the Questionnaire Manager page.
+
 
 ## Method	
-We will conduct remote moderated usability testing via Zoom using the Perigean contract. This method will allow us to 
+We will conduct remote moderated usability testing via Zoom using the Perigean contract. This method will allow us to share a high-fidelity wireframe prototype to confirm if our questionnaire is easily usable by Veterans. We will also gather feedback on ways to expand our MVP questionnaire scope.
 
 ## Participants and Recruitment	
 
 Recruit for 8 fulfilled sessions using the following criteria:
-Do we want mobile and website (or mobile only)?
 
 **Must have for participants**
-- Have you visted the VA for primary care in the last year? (pass = yes)
+- Have you visted a primary care provider at the VA in the last year? (pass = yes)
+	- If confused by the term "primary care provider," explain that a primary care provider is your main doctor, nurse practitioner, or physician’s assistant.
 
 **Good to have for participants**
 - At least 1 woman
@@ -37,10 +46,11 @@ Do we want mobile and website (or mobile only)?
 - The participants have Zoom downloaded prior to the session
 - The participants know how to screenshare
 
-*This study requires participants to drag and drop elements and requires screensharing.*
+*This study requires participants to screenshare, in order to click through a prototype.*
 
 ## Timeline 	
-#### Desired Timeline: October ?-?, 2020
+#### Desired Timeline: October ?-?, 2020 
+_Amanda - what is our desired timeline? If I work on finalizing the research plan, conversation guide, and prototype this week, then I can get reviews the next week. Recruiting takes a week. So my estimation is starting sometime around Oct. 14-15th and going into the next week._
 One hour sessions
 
 Team Availability | Time (EST)
