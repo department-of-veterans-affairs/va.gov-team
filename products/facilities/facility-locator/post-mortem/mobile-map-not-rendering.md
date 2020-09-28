@@ -10,7 +10,7 @@ Status: Resolved
 
 Dave Conlon notified in the VSA facility channel that the map on the facility locator was not appearing when using mobile devices (https://dsva.slack.com/archives/C0FQSS30V/p1601039702062600). This became a priority to fix.
 
-Micheal and Gibran, front end engineers from the team worked together to fix the issue. The issue ended up being a CSS value (height) for the map which was wrongly 
+Michael and Gibran, front end engineers from the team worked together to fix the issue. The issue ended up being a CSS value (height) for the map which was wrongly 
 
 applied. Michael Pelz-Sherman created and PR (https://github.com/department-of-veterans-affairs/vets-website/pull/14369) to fix it. Gibran Rodriguez discovered that the root cause of the change was in release - https://github.com/department-of-veterans-affairs/vets-website/releases/tag/vets-website%2Fv0.1.1047
 
