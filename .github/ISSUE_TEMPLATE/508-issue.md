@@ -41,22 +41,24 @@ Enter an issue title using the format [ERROR TYPE]: Brief description of the pro
 - **⚠️Should** if the feedback is best practice 
 - **✔️ Consider** for suggestions/enhancements 
 
-## Description
-
-<!-- This is a detailed description of the issue. It should include a restatement of the title, and provide more background information. -->
-
 ## Point of Contact
 
-<!-- If this issue is being opened by a VFS team member, please add a point of contact. Usually this is the same person who enters the issue ticket.
--->
+<!-- If this issue is being opened by a VFS team member, please add a point of contact. Usually this is the same person who enters the issue ticket. -->
 
 **VFS Point of Contact:** _First name only. Delete if not applicable._
 
+## User Story or Problem Statement
+
+<!-- Example: As a user with cognitive considerations, I expect to see a label and input pairing consistently styled as throughout the rest of the site, with the label just above the text/email/search input or to the right of a radio/checkbox input, so that I am clearly able to understand what entry is expected. -->
+
+## Details
+
+<!-- This is a detailed description of the issue. It should include a restatement of the title, and provide more background information. -->
+
 ## Acceptance Criteria
 
-<!-- User story: As a user with cognitive considerations, I expect to see a label and input pairing consistently styled as throughout the rest of the site, with the label just above the text/email/search input or to the right of a radio/checkbox input, so that I am clearly able to understand what entry is expected. -->
-
-<!-- Acceptance criteria: 
+<!--
+Example:
 - [ ] All inputs have associated label elements
 - [ ] Input labels are styled consistently
 - [ ] Input labels appear immediately above the input OR to the right of a radio / checkbox
@@ -82,7 +84,7 @@ Enter an issue title using the format [ERROR TYPE]: Brief description of the pro
 6. Verify the widget does not open when Spacebar is pressed
 -->
 
-## Possible Fixes (optional)
+## Solution (if known)
 
 <!--
 If the issue is one that can be fixed easily by changing HTML, CSS, or JavaScript markup, include the snippet in the issue description. If it is a longer fix or you do not have a ready solution, remove this section.
