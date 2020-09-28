@@ -12,6 +12,7 @@ On VA.gov today, nearly 40% of all traffic comes from users on their mobile devi
 - Jonathan Julian - Engineering Lead
 - Alastair Dawson - API Lead
 - Patrick Saxton - Mobile Engineer
+- Jayson Perkins - API Engineer
 - Ken Li - QA Engineer
 - Bess Green - Engagement Lead	
 - John Marchi - Technical Lead	
