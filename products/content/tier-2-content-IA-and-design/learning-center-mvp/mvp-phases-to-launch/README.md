@@ -13,13 +13,7 @@
 * user story
   - capability
   - link to the separate doc if appropriate
-* user story
-  - capability
-  - link to the separate doc if appropriate
 ### Articles lists 
-* user story
-  - capability
-  - link to the separate doc if appropriate
 * user story
   - capability
   - link to the separate doc if appropriate
@@ -27,13 +21,11 @@
 * user story
   - capability
   - link to the separate doc if appropriate
-* user story
-  - capability
-  - link to the separate doc if appropriate
 ### Content
 * user story
   - capability
   - link to the separate doc if appropriate
+### Tags
 * user story
   - capability
   - link to the separate doc if appropriate
