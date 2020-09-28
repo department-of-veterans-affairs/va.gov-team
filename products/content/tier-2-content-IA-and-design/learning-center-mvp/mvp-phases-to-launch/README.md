@@ -3,7 +3,7 @@
 
 [Reference: PPT deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/pw-learning-center-takeaways-mvp-roadmap-082820.pptx)
 
-[Reference: MVP Document](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13983)
+[Reference: MVP Document 1.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13983)
 
 ## 1.0 - End of October -beta launch
 
