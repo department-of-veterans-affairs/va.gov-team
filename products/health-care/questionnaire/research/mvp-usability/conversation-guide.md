@@ -81,6 +81,7 @@ Direct the Veteran to navigate the prototype to the Questionnaire Manager page.
     - What does this mean? (Asking about statuses if it wasn't addressed in the first question.)
 - How useful would a page like this be for you?
     - Why would you access a completed questionnaire?
+- What do you expect to happen if you clicked on Medications?
  
 
 ## Follow-up questions - 5 minutes
