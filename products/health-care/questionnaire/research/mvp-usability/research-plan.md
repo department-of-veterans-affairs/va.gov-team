@@ -6,12 +6,12 @@ _Amanda - Preference on a desktop or mobile test? As a program, we are pushing m
 This research is to usability test the proposed design of the upcoming appointment questionnaire and gain feedback on the content/wording within the questionnaire. It will also gather initial feedback on a page that will list all questionnnaires for a Veteran. 
 
 **Background**<br>
-Our goal is to improve the in-person and online pre and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners. Out MVP will focus on improving the pre-appointment experience when visiting primary care providers.
+Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners. Our MVP will focus on improving the pre-appointment experience when visiting primary care providers.
 
 **Research questions**
 - Are Veterans able to successfully complete the questionnaire?
-- Is there any confusion caused by the question wording within the questionnaire?
-- Are Veteran interested in sharing other information with their provider that the questionnaire currently doesn't include?
+- Is there any confusion caused by the content or question wording within the questionnaire?
+- Are Veteran interested in sharing other information with their provider or seeeing other content that the questionnaire currently doesn't include?
 - Do Veterans understand the purpose of the Questionnaire Manager page?
 
 **Hypothesis & assumptions**
