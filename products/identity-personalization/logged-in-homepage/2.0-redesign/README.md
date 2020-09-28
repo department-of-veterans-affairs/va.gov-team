@@ -1,6 +1,6 @@
 # Product Outline: Logged-in homepage redesign (Dashboard 2.0)
 
-Last updated July 17, 2020
+Last updated September 28, 2020
 
 ## Communications
 
@@ -11,10 +11,11 @@ Last updated July 17, 2020
 
 |Name|Role|Email|
 |----|----|-----|
-|Samara Strauss |DSVA Lead| samara.strauss@va.gov |
+|Samara Strauss |DEPO Lead| samara.strauss@va.gov |
 |Matt Shea |Product Manager| matt.shea@adhocteam.us |
 |Liz Lantz |Discovery researcher| liz.lantz@adhocteam.us |
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
+|Cassandra Allen |Designer| callen@governmentcio.com |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
 |Sandra Hallie| Designer|	shallie@governmentcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
@@ -33,7 +34,7 @@ Last updated July 17, 2020
 - [OKRs & KPIs](#okrs--kpis)
 
 # Implementation Information
-- [Solution Narrative](#solution-narrative)
+- [Status](#status)
 - [Discovery](#discovery)
 - [Development](#development)
 - [Design](#design)
@@ -169,9 +170,7 @@ https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIK
 
 # Implementation Info
 
-## Solution Narrative
-
-### Status
+## Status
 
 - **Summer 2019**: Personalization 2.0 initial discovery/strategy completed.
 - **March 2020**: Kicked off logged-in homepage discovery
@@ -180,6 +179,7 @@ https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIK
 - **June 2020**: Discovery and final readout complete.
 - **July 2020**: Project on hold while we get Profile 2.0 ready for QA and other pre-launch tasks. 
 - **August 2020**: Design onboarding; technical discovery.
+- **September 2020**: Initial design explorations; design intent platform checkpoint; design for health care section begins in earnest; continued discussion around technical approach.
 
 ### Key Decisions
 
