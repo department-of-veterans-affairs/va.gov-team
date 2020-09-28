@@ -3,7 +3,7 @@
 **Author(s):** Brooks Johnson 
 **Last Updated:** September 24, 2020  
 **Status:** **Draft** | In Review | Approved  
-**Approvers:** _Chris Valarida_ \[ \], _Andrew Gunsch_ \[ \], ...  
+**Approvers:** _Chris Valarida_ \[ \], _Michael Fleet_ \[ \], ...  
 
 ## Overview
 
@@ -21,9 +21,6 @@ Some non-goals are:
 The intended audience for this document is VSP and VFS frontend engineers.
 
 ### Background
-_The background section should contain information the reader needs to know to understand the problem being solved. This can be a combination of text and links to other documents._
-
-_Do **NOT** describe the solution here. That goes in High Level Design._
 
 The forms library is a collection of React components, CSS, and JS that allows an app team to build a form application for `vets-website` using a combination of JSON schemas.
 
@@ -66,12 +63,12 @@ _Here's an easy rule of thumb for deciding what to write here: Think of anything
 - Use the `no-unresolved-modules` ESLint plugin to [find & remove unused code](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8763) in the `forms` and `forms-library` directories
 - Copy what remains from `forms` into `forms-system`
 - [Add an alias to the `babelrc` file](https://github.com/department-of-veterans-affairs/vets-website/blob/055d96c54e1df54138b9efc589b98e55962333b3/.babelrc#L50-L55) that redirects imports from `platform/forms` to `platform/forms-system`
+- Configure the `no-restricted-imports` ESLint rule to [restrict imports of `src/platform/packages` directly](https://eslint.org/docs/rules/no-restricted-imports)
 - Edit the webpack config & use a custom `sass-loader` importer to rewrite imports from `forms` to `forms-system`
 
 Once the forms library is actually a package, app code can be updated to import from it directly instead of relying on the  aliases.
 
 ### Code Location
-_The path of the source code in the repository._
 
 The forms library package will live in `src/platform/packages/forms-library`.
 Since it will be a Node package, it will be added to the `package.json` file and apps will import it as a regular Node package instead of by its direct path.
@@ -89,10 +86,10 @@ We don't have any automation in place to validate that theright SASS files are i
 N/A
 
 ### Debugging
-_How users can debug interactions with your system. When designing a system it's important to think about what tools you can provide to make debugging problems easier. Sometimes it's unclear whether the problem is in your system at all, so a mechanism for isolating a particular interaction and examining it to see if your system behaved as expected is very valuable. Once a system is in use, this is a great place to put tips and recipes for debugging. If this section grows too large, the mechanisms can be summarized here and individual tips can be moved to another document._
+
+Since this project isn't about changing functionality of the forms library, we don't need to add any debugging tools. Validating that the app code can still access the forms library in its new location will be enough.
 
 ### Caveats
-_Gotchas, differences between the design and implementation, other potential stumbling blocks for users or maintainers, and their implications and workarounds. Unless something is known to be tricky ahead of time, this section will probably start out empty._
 
 Though we will be creating a package for the forms library, we will not be following semantic versioning since it is _just_ a package and not a published module.
 The additional overhead of updating the forms-library's `package.json` file and updating the `yarn.lock` file in `vets-website` to target the newest (but unpublished) version seems like a burden without much benefit.
@@ -111,6 +108,8 @@ _This section should describe design questions that have not been decided yet, r
 _Some examples are: Should we communicate using TCP or UDP? How often do we expect our users to interrupt running jobs? This relies on an undocumented third-party API which may be turned off at any point._
 
 _For each question you should include any relevant information you know. For risks you should include estimates of likelihood, cost if they occur and ideas for possible workarounds._
+
+Do we want to separate the forms library build & testing stages from the main `vets-website` build? By easing the load of what webpack and mocha are doing, we could speed things up. The downside is that since we wouldn't be running the forms library tests with every merge into master, we would have to have some other automation in place to make sure that any changes to `src/platform/packages/forms-library` passes the forms library tests.
 
 ### Work Estimates
 _Split the work into milestones that can be delivered, put them in the order that you think they should be done, and estimate roughly how much time you expect it each milestone to take. Ideally each milestone will take one week or less._
