@@ -38,7 +38,7 @@ __Other questions?__
 The following should be tracked for insights, given the unique experience on VA.gov of searching a directory or collection of content.
 
 - How often are users utilizing LC search vs. VA.gov search (e.g. toggling)?
-- How often are users using site search (from the header) while in the learning center?
+- How often are users using site search (from the header) while in the learning center? What are they searching for?
 - How effective is LC search in addressing users needs -- e.g. click-through rate on LC search results page vs. VA.gov search results page?
 - How often is Search used on article pages?
 - Search results pagination: how often do users click to next page, how many pages do users typically click to before refining their search? 
