@@ -10,6 +10,7 @@ See designs for the dynamic search results page and the static 'all articles' li
 ## Description of dynamic search basic requirements - technical and UX: 
 
 - Search bar will be available on all lc pages. 
+- Search bar on articles will use <fieldset> and <legend> markup for the heading, per [J Strickland's Accessibility recommendation](https://dsva.slack.com/archives/C0173CAJ7A6/p1601392656064300?thread_ts=1601327975.058800&cid=C0173CAJ7A6). 
 - User can search only for learning center or for whole VA.gov website, via radio button options. The default is for the lc. 
 - For 1.0 and 1.1, we will keep users within the LC  for both kinds of search results (LC and 'all va').
 - The user-inputted search term (e.g. service dogs) should be persistent in the search box, even when the user toggles between Search LC & Search VA.gov options.
