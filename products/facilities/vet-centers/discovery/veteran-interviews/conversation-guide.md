@@ -36,7 +36,7 @@ Before we get started, I want to give you an idea of what this call will be like
 
   - If no, see “Contingency Plan” 
 
-- How did you first learn about them? 
+- How did you first learn about them? (if not a referral, probe)
 
     - When did you first learn about Vet Centers? 
 
