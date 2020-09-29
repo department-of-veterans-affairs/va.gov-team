@@ -22,6 +22,7 @@ When referencing various data sources related to the Learning Center MVP 1.0/1.1
   - Search experience that gives Veterans search results to legacy tier 2 content in support of veterans, caregivers, school administrators, VSOs, VA loan appraisers, etc. 
   - [User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/pw-learning-center-takeaways-mvp-roadmap-082820.pptx)
   - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13983)
+  - [User query-based dynamic search](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/search-feature-inside-LC/LC-search-requirements.md)
 ### Articles lists 
 * As a Veteran and or Veteran caregiver, I need an relevant article list that guides me to content that appeals and is interesting to me. 
   - Article lists should help users self-resolve VA.gov issues/questions that span benefits or that are agnostic of benefit issues. Intent of article lists (by category or tag) is to funnel users to the articles within that category or tag. 
