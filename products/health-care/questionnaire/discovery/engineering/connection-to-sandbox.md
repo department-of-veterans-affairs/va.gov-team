@@ -39,8 +39,19 @@ The FHIR client will use the same URL and JWT in it's headers in order to access
 FHIR::Questionnaire.read(id)
 Currently vets-api does not use any such FHIR client
 
-Stephen Barrs indicated that:
-DEvOps team will send the Staging and Prod keys to Lynne Case, who will add them to those envs. We may have to submit some design docs prior to accessing Staging. For internal MAP Apps an SDD must be submitted, like the one they have for GetCare.  We may or may not need one at this level of detail but I think we should put something similar to this together as it will be something that they would like to see.
+#### Administrative set up
+
+The URLs for MAP are:
+
+Sandbox: https://vagovtest.mapsandbox.net
+Staging: https://veteran.apps-staging.va.gov
+Prod: https://veteran.apps.va.gov
+Each MAP environment will have a key pair associated with it.
+
+ We may have to submit some design docs prior to accessing Staging. For internal MAP Apps an SDD must be submitted, like the one they have for GetCare.  We may or may not need one at this level of detail but Stephen Barrs thinks we should put something similar to this together as it will be something that they would like to see.
+
+The Private key will be stored in vets-api CredStash and will be used to sign the originating token that will be passed to MAP/User-Service/JWT Exchange.
+The public key will be configured in each MAP environment as a Consul variable used by User-Service. These public keys will be delivered to Lynne Case by the dev ops team. Once we have an approved FHIR mapping, Lynne will create Jira tickets to have the public keys added and this will facilitate adding the keys to the environments.
 
 
 
