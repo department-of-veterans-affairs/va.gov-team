@@ -27,12 +27,12 @@ Users who want to initiate or manage direct deposit of their EDU payments must s
 - Click "Save My Changes" button
 
 <details>
-  <summary><strong>eBenefits user flow diagram</strong></summary>
+  <summary><strong>eBenefits user flow diagram</strong> (Click to show diagram)</summary>
   
   ![Current eBenefits user flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/DD_EDU_Breakdown_1.png)
 </details>
 <details>
-  <summary><strong>eBenefits screens</strong></summary>
+  <summary><strong>eBenefits screens</strong> (Click to show diagram)</summary>
   
   ![Current eBenefits DD screens](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/DD_EDU_Screens_1.png)
 </details>
