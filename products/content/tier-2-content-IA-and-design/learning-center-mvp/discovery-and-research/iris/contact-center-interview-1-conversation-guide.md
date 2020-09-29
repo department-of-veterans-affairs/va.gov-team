@@ -31,7 +31,7 @@ Before we start, there are a couple of things I want to mention:
 
 ## Introductions
 
-Chante passed along your names to me, but I don't know much more beyond that! I'd love to learn more about each of your roles and how they relate to content. I can start and we'll just go around the virtual room.  I'm going to take notes on a Mural board; I'll go ahead and share my screen.
+Chante passed along your names to me, but I don't know much more beyond that! I'd love to learn more about each of your roles and how they relate to content. I can start and we'll just go around the virtual room.  
 
 My name is Liz Lantz, and I'm the UX Designer and Researcher for the Public Websites team on VA.gov. My team handles all the content on the site you can see without logging in. My role in the content creation and management process is primarily to design templates used by content creators, and conduct research to inform those designs and help our team better understand content workflows.
 
