@@ -80,6 +80,10 @@ Phase 2: Design Healthcare, Claims sections
 
 - What still needs to happen for [#12875](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12875)?
 
+### VA Profile: Remove instances of "Vet360"
+
+- [BE/DevOps] Change instances of "https://env.vet360.va.gov/" to "https://env.vaprofile.va.gov/" in INT, QA, PPD, PRD environments #14188
+
 ## Sprint 33 (10/21 – 11/3)
 
 ### Logged-in homepage
