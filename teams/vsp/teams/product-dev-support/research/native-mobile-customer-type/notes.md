@@ -21,4 +21,4 @@ So, we have two commitments in our interaction with the VA Mobile team:
 - Unknown quality of accessibility helpers in React Native
   - This is heavily weighted to the development team, but there's a potential cost. I've never used React Native, so I'm not familiar with its accessibility API. AirBnB moved away from React Native in 2018, and one of the reasons was an incomplete accessibility API. This may not be the case any more, don't have newer data.
   - With or without React Native, team could end up writing native Java / Swift to patch accessibility. This is speculative, but possible.
-
+- To do a webview of VA.gov pages in the mobile app, seems like custom work is needed to hide the header and footer. [See this Slack thread for details](https://dsva.slack.com/archives/C5HP4GN3F/p1601322739034000).
