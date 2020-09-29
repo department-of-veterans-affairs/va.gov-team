@@ -11,6 +11,7 @@ Notes regarding the APIs defined at
 - Do we have a general idea of the timeframe for this and EAS?
 - Does this approach mean that EAS will no longer contain new functionality, just the FHIR interface?
 - It's not clear how video appointments fit in here
+  - Specifically ATLAS info and providers
 
 ## Schemas
 
