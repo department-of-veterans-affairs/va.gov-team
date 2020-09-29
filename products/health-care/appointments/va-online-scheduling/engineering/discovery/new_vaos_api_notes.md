@@ -1,6 +1,6 @@
 # New VAOS api notes
 
-- Notes regarding the APIs defined at
+Notes regarding the APIs defined at
 - https://coderepo.mobilehealth.va.gov/projects/VAR/repos/vaos-service/browse/vaos-service/src/main/resources/swagger.json
 - https://coderepo.mobilehealth.va.gov/projects/VDMS/repos/mobile-facility-service/browse/mobile-facility-service/src/main/resources/swagger.json?at=refs%2Fheads%2Fmain-v2
 
