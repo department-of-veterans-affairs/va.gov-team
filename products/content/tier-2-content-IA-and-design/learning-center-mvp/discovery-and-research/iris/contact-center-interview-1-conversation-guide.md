@@ -4,7 +4,7 @@
 
 Thanks for joining us today! My name is Liz and I also have some colleagues on the line observing and taking notes. I'm part of a team that is working on a new VA.gov product that will help Veterans find answers to questions they have about their VA benefits, account, records - all kinds of topics.
 
-I've invited you here today as part of a study to better understand the current content processes different contact center content teams have. We want to understand how customer service content is created and maintaned today. Though we're especially interested in the processes for the public Veteran-facing IRIS articles, we'd also find it helpful to understand what the process is for internal scripts that support contact center reps, if they're different than the process for customer facing content.  
+I've invited you here today as part of a study to better understand the current content processes different contact center content teams have. We want to understand how customer service content is created and maintained today. Though we're especially interested in the processes for the public Veteran-facing IRIS articles, we'd also find it helpful to understand what the process is for internal scripts that support contact center reps, if they're different than the process for customer facing content.  
 
 My hope is that by the end of this hour together we'll have an understanding of: 
 
@@ -17,7 +17,7 @@ In better understanding what your current user journey is today, we hope to use 
 Before we start, there are a couple of things I want to mention:
 
 - **We have an hour together today.** I want to be sure not to keep you much longer, so I may occasionally move us along to the next topic.
-- **In this session, we want to hear about your experience and opinions.** There's no right or wrong, and I'm hear to learn from you.  I will not be offended by any opinions you express, and I welcome any feedback you'd like to share.
+- **In this session, we want to hear about your experience and opinions.** There's no right or wrong, and I'm here to learn from you.  I will not be offended by any opinions you express, and I welcome any feedback you'd like to share.
 
 **Do you have any questions at this point?**
 
