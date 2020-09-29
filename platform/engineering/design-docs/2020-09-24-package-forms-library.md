@@ -31,7 +31,7 @@ Right now in `vets-website` we have the following folders containing code for th
 
 We also have forms-adjacent code in the form of other dependencies
 
-- `@department-of-veterans-affairs/react-jsonschema-form`
+- `@department-of-veterans-affairs/react-jsonschema-form` (See [Tighter dependencies](#tighter-dependencies))
 - `vets-json-schema`
 
 ### High Level Design
@@ -68,6 +68,9 @@ _Here's an easy rule of thumb for deciding what to write here: Think of anything
 
 Once the forms library is actually a package, app code can be updated to import from it directly instead of relying on the  aliases.
 
+- Each app team will update their code to use forms library JSS & SCSS from the package instead of by direct path
+- Remove the alias & custom SASS importer
+
 ### Code Location
 
 The forms library package will live in `src/platform/packages/forms-library`.
@@ -79,7 +82,7 @@ _How you will verify the behavior of your system. Once the system is written, th
 We have ESLint rules in place which can verify that the right JS is imported as it relates to the forms library.
 Additionally, many of the end-to-end tests will fail if the forms library is not imported properly, so they will help with awareness.
 
-We don't have any automation in place to validate that theright SASS files are imported, so testing that forms styling is working properly will be a manual process.
+We don't have any automation in place to validate that the right SASS files are imported, so testing that forms styling is working properly will be a manual process using the browser dev tools.
 
 ### Logging
 
@@ -128,6 +131,8 @@ With this, we could publish it to npm, and we could completely remove the forms 
 #### Tighter dependencies
 
 Having a `package.json` specific to the forms library will allow us to treat it more like a product that we provide to VFS teams. It will be separate from the rest of the code in `vets-website`, so we could eliminate lodash from the forms library, or replace `moment` with something more appropriate without affecting the rest of the frontend.
+
+Additionally, it might make more sense if we bundled `react-jsonschema-form` in with the forms library. This would help make the forms library feel more cohesive.
 
 ### Revision History
 
