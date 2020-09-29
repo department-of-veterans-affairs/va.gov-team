@@ -1,5 +1,5 @@
 ### 9/29 Update
-- As time/capacity allows (balancing #1 PW priority Learning Center and Iris), Liz is continuing to work on UX comps and Content documentation to detail changes and enhancements -- with focus on Disability and Education.
+- As time/capacity allows (balancing #1 PW priority Learning Center and Iris), Liz (with Peggy and Mikki's help) is continuing to work on UX comps and Content documentation to detail changes and enhancements -- with focus on Disability and Education.
 
   - Wizard migration - create consistent alerts, and provide messaging to indicate where the user is going across wizards va.gov-team #13379
   - Wizard migration - UX deliverables for education flow va.gov-team #13374
