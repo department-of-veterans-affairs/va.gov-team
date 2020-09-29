@@ -1,6 +1,8 @@
 # Note taking template: Vet Center - Veteran Interviews - P#
+
 Date: 
-Time
+
+Time:
 
 
 ## Intro - 3 minutes
