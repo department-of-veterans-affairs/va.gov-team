@@ -5,15 +5,17 @@
 
 ---
 
-#### Users
+### Users
 Recipients of VA compensation and pension (C&P), or educational (EDU) payments can elect to have deposits made directly to their checking or savings account via Electronic Funds Transfer (EFT). These recipients include Veterans and qualifying dependents, and payments are made from C&P, GI Bill and Veteran Readiness and Employment (VR&E) programs. Some recipients get all three payment types.
 
 Payment recipients can initiate or change their direct deposit information three ways: calling the Veteran's hotline, appearing in-person at their regional office, or using the VA.gov and eBenefits websites. Veterans without a bank may qualify for an account through the Veterans Benefits Banking Program (VBBP).
 
 Direct deposits for C&P and EDU (GI Bill and VR&E) payments are set up and managed independently. Currently C&P direct deposit is managed within the VA.gov user profile; EDU direct deposit is handled in eBenefits. The two DD features will be ultimately consolidated within the user profile.
 
-#### EDU Direct deposit change processes
-Users who want to initiate or manage direct deposit of their EDU payments must sign into eBenefits using a Premium DSLogon. Users who begin their path on VA.gov will be redirected to an eBenefits content page. The eBenefits user flow:
+### EDU Direct deposit change processes
+Users who want to initiate or manage direct deposit of their EDU payments must sign into eBenefits using a Premium DSLogon. Users who begin their path on VA.gov will be redirected to an eBenefits content page. 
+
+#### eBenefits current user flow:
 
 - Navigate to eBenefits
 - Click "Personal Contact and Direct Deposit" link under Manage Benefits or Log in
@@ -24,10 +26,15 @@ Users who want to initiate or manage direct deposit of their EDU payments must s
 - Input or amend Account Type, Bank Routing Number, and Bank Account Number, confirming the last two
 - Click "Save My Changes" button
 
+<details>
+  <summary>eBenefits user flow diagram</summary>
+  ![Current eBenefits user flow]()
+</details>
+
 #### Compensation & Pension direct deposit
 `Content TBD`
 
-#### eBenefits current user flow
+
 ![Current eBenefits user flow]()
 
 #### Proposed VA.gov user flow
