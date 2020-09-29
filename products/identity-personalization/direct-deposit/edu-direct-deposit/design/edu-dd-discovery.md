@@ -6,7 +6,11 @@
 ---
 
 #### Users
-`Content TBD`
+Recipients of VA compensation and pension (C&P), or educational (EDU) payments can elect to have deposits made directly to their checking or savings account via Electronic Funds Transfer (EFT). These recipients include Veterans and qualifiying dependents, and payments are made from C&P, GI Bill and Veteran Readiness and Employment (VR&E) programs. Some recipents get all three payment types.
+
+Payment recipients can intiate or change thier direct deposit information three ways: calling the Veteran's hotline, appearing in-person at their regional office, or using the VA.gov and eBenefits websites. Veterans without a bank may qualify for an account through the Veterans Benefits Banking Program (VBBP).
+
+Direct deposits for C&P and EDU (GI Bill and VR&E) payments are set up and managed independently.
 
 #### Direct deposit change processes
 `Content TBD`
