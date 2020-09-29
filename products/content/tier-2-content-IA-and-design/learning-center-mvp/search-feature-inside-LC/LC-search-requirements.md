@@ -29,7 +29,8 @@ __Question still TBD__
 - User error states: experience and messaging when a LC search brings back zero results. (I think Beth Potts has already provide a draft of this message somewhere.)
 
 __Other questions?__ 
-
+- Is there any part of the description that appears under the article title that we can influence? (e.g. # of characters, if it ends in ellipses or only in complete sentences, can ellipses be wrapped in a `<span aria-hidden="true">` for a11y, etc)
+- What is the # of results that turns on pagination? (UX recommends 10)
 
 
 
@@ -37,6 +38,7 @@ __Other questions?__
 The following should be tracked for insights, given the unique experience on VA.gov of searching a directory or collection of content.
 
 - How often are users utilizing LC search vs. VA.gov search (e.g. toggling)?
+- How often are users using site search (from the header) while in the learning center?
 - How effective is LC search in addressing users needs -- e.g. click-through rate on LC search results page vs. VA.gov search results page?
 - How often is Search used on article pages?
 - Search results pagination: how often do users click to next page, how many pages do users typically click to before refining their search? 
