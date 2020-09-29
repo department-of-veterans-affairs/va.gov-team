@@ -15,4 +15,10 @@ So, we have two commitments in our interaction with the VA Mobile team:
 
 - Design System react components don't work for react native
 - GTM is n/a
-- 
+- Accessibility testing will take roughly twice as long.
+  - Two code bases, with their own human-interface guidelines (HIG), and familiar UI elements
+  - Specialists will need to become familiar with VoiceOver, Talkback screen readers and gesture navigation
+- Unknown quality of accessibility helpers in React Native
+  - This is heavily weighted to the development team, but there's a potential cost. I've never used React Native, so I'm not familiar with its accessibility API. AirBnB moved away from React Native in 2018, and one of the reasons was an incomplete accessibility API. This may not be the case any more, don't have newer data.
+  - With or without React Native, team could end up writing native Java / Swift to patch accessibility. This is speculative, but possible.
+
