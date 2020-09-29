@@ -10,7 +10,7 @@ My hope is that by the end of this hour together we'll have an understanding of:
 
 - who does what in terms of creating, reviewing, and approving content
 - get a high-level overview of the process or processes, and 
-- identify individuals we can speak to more in-depth or observe as part of the observational part of the study. 
+- identify individuals we can speak to more in-depth or observe as part of the observational portion of our study. 
 
 In better understanding what your current user journey is today, we hope to use this information to improve upon some of the authoring/content maintenance process with the Drupal CMS product we are creating, which is internally called learning center.
 
@@ -54,7 +54,7 @@ Thanks so much for sharing that. Now that I know how each of you contribute to c
 
 - Who's ultimately responsible for creating the content on your team? 
 
-- Maintaining the content? (For example: updating an article when information changes)
+- Maintaining the content? For example: updating an article when information changes.
 
 - Who do you recommend we observe or talk to for our more in-depth interviews?
 
@@ -68,16 +68,22 @@ That is all really helpful information, thanks for sharing all of that! Let's ta
 
 - How do you determine when you need to create new content?
 
-Okay, so lets say that [reiterate what they said, new content needs to be created] - can you give me an overview of what happens between then and it being published?
+Okay, so lets say that [*reiterate what they said, new content needs to be created*] - can you give me an overview of what happens between then and it being published?
 
 - How does that process change for different types of content?
 
 ***If it isn't already obvious, ask*:**
 
-- How does IRIS fit into this process?
+- What is the process for internal scripts that support contact center reps?
+- How does IRIS fit into these processes?
 - Our understanding is that content is maintained in IRIS. Is that a correct?
 - Are there other sites being used?
-- We'd like to observe people going through this process - who do you recommend we reach out to for that? Are those the same people we've already talked about?
+- Do you use any content style guides for any of these types of content?
+
+For our next round of research, we'd like to observe people going through the processes you've described, and conduct more in-depth interviews to get a better understanding
+
+- Who do you recommend we reach out to for that? 
+- *Get names and whether they're best for interview, observation, or both*
 
 ## Success/Challenges
 
@@ -88,9 +94,13 @@ Got it, thank you. This is all really helpful as we start to talk about next ste
 
 ## Next steps and Closing
 
-- Do you have any questions for me?
-- Reiterate who we should talk to next.  
+I'd like to review the list of people we mentioned for our next round of research sessions:
+
+- Review list
+- Confirm observe/interview
+
 - Can you make an introduction, or should I just reach out to them and reference this meeting? I assume I can find them in the VA address book?
 - Next steps for me will be to reach out and schedule those sessions.
+- Do you have any questions for me?
 
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the learning center.  It was great to meet you - please feel free to reach out to me at any time if you have questions or thoughts to share along the way.
