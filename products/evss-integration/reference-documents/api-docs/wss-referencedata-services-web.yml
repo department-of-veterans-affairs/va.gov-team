@@ -1,0 +1,492 @@
+---
+swagger: "2.0"
+info:
+  version: "v2"
+  title: "wss-referencedata-services-web"
+basePath: "/wss-referencedata-services-web/rest"
+tags:
+- name: "referencedatav1"
+paths:
+  /referencedata/v1/contentiontypes:
+    get:
+      tags:
+      - "referencedatav1"
+      summary: "Get List of Contention Types"
+      description: "Returns a list of all contention types."
+      operationId: "getContentionTypes"
+      produces:
+      - "application/json"
+      parameters: []
+      responses:
+        200:
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/ContentionTypeResponse"
+        400:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        500:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        403:
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+  /referencedata/v1/countries:
+    get:
+      tags:
+      - "referencedatav1"
+      summary: "Get Countries List"
+      description: "Returns Countries List"
+      operationId: "getCountries"
+      produces:
+      - "application/json"
+      parameters: []
+      responses:
+        200:
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/CountryResponse"
+        400:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        500:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        403:
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+  /referencedata/v1/disabilities:
+    get:
+      tags:
+      - "referencedatav1"
+      summary: "Get List of Disabilities"
+      description: "Returns a list of all service related disabilities."
+      operationId: "getDisabilities"
+      produces:
+      - "application/json"
+      parameters: []
+      responses:
+        200:
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/DisabilityResponse"
+        400:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        500:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        403:
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+  /referencedata/v1/intakesites:
+    get:
+      tags:
+      - "referencedatav1"
+      summary: "Get Intake Sites List"
+      description: "Returns Intake Sites List"
+      operationId: "getIntakeSites"
+      produces:
+      - "application/json"
+      parameters: []
+      responses:
+        200:
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/IntakeSitesResponse"
+        400:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        500:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        403:
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+  /referencedata/v1/militarypaytypes:
+    get:
+      tags:
+      - "referencedatav1"
+      summary: "Get List of Military Pay Types"
+      description: "Returns a list of all military pay types."
+      operationId: "getMilitaryPayTypes"
+      produces:
+      - "application/json"
+      parameters: []
+      responses:
+        200:
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/MilitaryPayTypeResponse"
+        400:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        500:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        403:
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+  /referencedata/v1/servicebranches:
+    get:
+      tags:
+      - "referencedatav1"
+      summary: "Get List of Service Branches"
+      description: "Returns a list of all service branches."
+      operationId: "getServiceBranches"
+      produces:
+      - "application/json"
+      parameters: []
+      responses:
+        200:
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/ServiceBranchResponse"
+        400:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        500:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        403:
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+  /referencedata/v1/specialcircumstances:
+    get:
+      tags:
+      - "referencedatav1"
+      summary: "Get List of Special Circumstances"
+      description: "Returns a list of all special circumstances."
+      operationId: "getSpecialCircumstances"
+      produces:
+      - "application/json"
+      parameters: []
+      responses:
+        200:
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/SpecialCircumstanceResponse"
+        400:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        500:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        403:
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+  /referencedata/v1/states:
+    get:
+      tags:
+      - "referencedatav1"
+      summary: "Get States List"
+      description: "Returns States List"
+      operationId: "getStates"
+      produces:
+      - "application/json"
+      parameters: []
+      responses:
+        200:
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/StateResponse"
+        400:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        500:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        403:
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+  /referencedata/v1/treatmentcenter:
+    get:
+      tags:
+      - "referencedatav1"
+      summary: "Get VA Medical Treatment Facilities"
+      description: "Returns a list of VA Medical Treatment Facilities in US. This\
+        \ operation takes an optional query parameter stateCode which should be two\
+        \ characters in length with patterns [A-Z]{2}. If the state code query parameter\
+        \ is not passed in the URL, then the entire list is returned. If passed the\
+        \ response comprises the list that matches the stateCode. For instance /treatmentcenter?stateCode=TX\
+        \ would return only the treatment centers located in TX state. The url /treatmentcenter?stateCode=ABC\
+        \ would return HTTP 400 with error text \"must match \\\"[A-Z]{2}\\\"\"\n"
+      operationId: "getVATreatmentCenters"
+      produces:
+      - "application/json"
+      parameters:
+      - name: "stateCode"
+        in: "query"
+        description: "State Code"
+        required: false
+        type: "string"
+      responses:
+        200:
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/MedicalTreatmentFacilityResponse"
+        400:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        500:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        403:
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+definitions:
+  SpecialCircumstanceResponse:
+    type: "object"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+      specialCircumstances:
+        type: "array"
+        items:
+          $ref: "#/definitions/GenericCodeDescriptionType"
+        maxItems: 100
+        minItems: 0
+  Message:
+    type: "object"
+    properties:
+      key:
+        type: "string"
+      text:
+        type: "string"
+      severity:
+        type: "string"
+        enum:
+        - "FATAL"
+        - "ERROR"
+        - "WARN"
+        - "INFO"
+  StateResponse:
+    type: "object"
+    required:
+    - "states"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+      states:
+        type: "array"
+        items:
+          type: "string"
+        maxItems: 70
+        minItems: 50
+  ContentionTypeResponse:
+    type: "object"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+      contentionTypes:
+        type: "array"
+        items:
+          $ref: "#/definitions/GenericCodeDescriptionType"
+        maxItems: 100
+        minItems: 0
+  MilitaryPayTypeResponse:
+    type: "object"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+      militaryPayTypes:
+        type: "array"
+        items:
+          $ref: "#/definitions/GenericCodeDescriptionType"
+        maxItems: 100
+        minItems: 0
+  ServiceBranchResponse:
+    type: "object"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+      serviceBranches:
+        type: "array"
+        items:
+          $ref: "#/definitions/GenericCodeDescriptionType"
+        maxItems: 100
+        minItems: 0
+  MedicalTreatmentFacilityResponse:
+    type: "object"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+      facilities:
+        type: "array"
+        items:
+          $ref: "#/definitions/MedicalTreatmentFacility"
+        maxItems: 500
+        minItems: 0
+  MedicalTreatmentFacility:
+    type: "object"
+    required:
+    - "city"
+    - "id"
+    - "name"
+    - "state"
+    properties:
+      id:
+        type: "integer"
+        format: "int64"
+      name:
+        type: "string"
+      city:
+        type: "string"
+      state:
+        type: "string"
+  Disability:
+    type: "object"
+    required:
+    - "name"
+    properties:
+      name:
+        type: "string"
+      classificationCode:
+        type: "string"
+      endDate:
+        type: "string"
+        format: "date-time"
+  ServiceResponse:
+    type: "object"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+  GenericCodeDescriptionType:
+    type: "object"
+    required:
+    - "code"
+    properties:
+      code:
+        type: "string"
+      description:
+        type: "string"
+  DisabilityResponse:
+    type: "object"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+      disability:
+        type: "array"
+        items:
+          $ref: "#/definitions/Disability"
+        maxItems: 1500
+        minItems: 0
+  CountryResponse:
+    type: "object"
+    required:
+    - "countries"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+      countries:
+        type: "array"
+        items:
+          type: "string"
+        maxItems: 500
+        minItems: 100
+  IntakeSitesResponse:
+    type: "object"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+      intakeSites:
+        type: "array"
+        items:
+          $ref: "#/definitions/GenericCodeDescriptionType"
+        maxItems: 800
+        minItems: 0
+externalDocs:
+  description: "API Error Keys"
+  url: "ext-docs/referencedata-error-keys.html"

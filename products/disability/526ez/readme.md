@@ -35,7 +35,7 @@
 
 - Executive sponsor: Brad Houston (Brad.Houston@va.gov)
 - Comp Services policy and process partners: Paul Schute (paul.shute@va.gov)
-- Digital strategist: Andrea Schneider (Andrea.Schneider@va.gov)
+- Digital strategist: 
 - Product manager: Luke Majewski (lmajewski@governmentcio.com)
 - Design and Research: Kevin Stachura (kstachura@governmentcio.com), Christian Valla (cvalla@governmentcio.com)
 - Engineering: Anna Carey (anna@adhocteam.us), Robin Garrison (robin.garrison@adhocteam.us), Nick Sprinkle (nick.sprinkle@oddball.io), Sarah-Jaine Szekeresh (sarah-jaine@adhoc.team)
