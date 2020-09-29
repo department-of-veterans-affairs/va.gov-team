@@ -93,7 +93,16 @@ You have a friend, a fellow [Veteran, service member], who you’ve noticed has 
 
 
 ## Services critique: 
-[Show Vet Center Detail page](https://www.va.gov/find-locations/facility/vc_0304V)
+
+We're going to look at your local Vet Center website together: [Facility locator](https://www.va.gov/find-locations)
+
+  - What location should I enter?
+  
+   If none given: [Atlanta Vet Center Detail page](https://www.va.gov/find-locations/facility/vc_0304V)
+  
+I'm going to choose, Vet Center as the facility type. Are you familiar with this website?
+
+Are you familiar with this website? Take a minute to look it over.
 
 - What do you think about the list of services on this page?  
 
