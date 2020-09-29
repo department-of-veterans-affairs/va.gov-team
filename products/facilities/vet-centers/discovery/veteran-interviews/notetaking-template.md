@@ -5,120 +5,183 @@ Time
 
 ## Intro - 3 minutes
 
-
 ###### Start recording to the Cloud
 
-### Warm up  
+## Warm-up Questions 
 
-- How long have you been an outreach specialist at the VA? 
+- Can you tell me briefly about your service history?
 
-- What brought you to this line of work? 
+## Learning about Vet Centers: 
 
-- Have you worked as an outreach specialist in more than one district or region? 
+- Are you familiar with Vet Centers? 
 
-### Role 
+  - If no, see “Contingency Plan” 
 
-- How would you describe your role at VA?  
+- How did you first learn about them? 
+
+    - When did you first learn about Vet Centers? 
+
+- What has been your experience with a Vet Center? 
+
+- Before you first visited, how did you go about finding the location of your Vet Center? 
+
+- Could finding your Vet Center have been easier in any way?
+
+## Being a client: 
+
+- What kind of services, activities or resources does your Vet Center offer? 
+
+- Can you tell me a little about the services, activities or resources you’ve taken part of? 
+
+- Have the types of services or activities that you’ve engaged with changed at all over time? 
+
+- If you had to rank the different things offered at a Vet Center in order of importance **to you** what would that look like? 
+
+- How do you learn about new events or services that your Vet Center offers? 
+
+  - Are there other ways you'd like to be informed about them?  
+
+- If you wanted to share information about a Vet Center event with a friend or family member, how would you like to do that? 
+
+- Have you visited more than one Vet Center? 
+
+If yes:
+
+   - How do they differ or compare? 
   
-- If you had to break down these responsibilities into percentages, what might that look like? 
+## A client’s concept of a Vet Center: 
 
-- How about the role of the clinicians at your Vet Center, can you tell me what that role looks like? 
+- How would you describe what a Vet Center is to a friend who hasn’t heard of them? 
 
-- Once a client starts using services, does the relationship between you and the client end or change? 
+- Who would benefit from calling or visiting a Vet Center? 
 
-### Eligibility 
+- How would you describe eligibility requirements to a friend? 
 
-- Can you walk me through the process for determining eligibility for Vet Center services? 
+- How would you compare Vet Centers to other VA facilities? 
 
-- How does a potential client figure out their own eligibility? e.g., a non-married couple 
-
-- What questions do they ask you the most? Or is there anything potential clients find confusing about this process? 
+- Have your opinions or expectations of Vet Centers changed since you first learned about them? 
 
 
-### Clients 
+## Scenario: A friend is having a rough time
 
-- Can you describe the different types of clients that you work with? (Where in the journey are your clients. e.g. Newly separated, families during bereavement, family In crisis mode)
+I'd like you to imagine a scenario: 
 
-- If you had to break down the types into percentages that you work with, what might that look like? 
+You have a friend, a fellow [Veteran, service member], who you’ve noticed has been going through a rough time. You think he or she might benefit from visiting a Vet Center. 
+
+   - What is the most important thing for someone to know before visiting for the first time?
+    
+   - What would make them comfortable calling or visiting a Vet Center?
+    
+   - What would deter them from calling or visiting a Vet Center? 
+
+
+## Services critique: 
+
+I'm going to pull up a website to look at it together. We're going to find your local Vet Center website together: [Facility locator](https://www.va.gov/find-locations)
+
+  - What location should I enter?
   
-- Do different types of clients tend to need different services, e.g. a Veteran vs a spouse or child? 
-
-
-### Interacting with Clients 
-
-- What are the different ways in which you interact with your clients? e.g. Phone, in person, one-on-one, in a group setting, in the community? 
-
-- Can you tell me how Mobile Vet Centers get used in your area?
+   If none given: [Atlanta Vet Center Detail page](https://www.va.gov/find-locations/facility/vc_0304V)
   
-- How about Community access points? How might those vary? 
+I'm going to choose Vet Center as the facility type. 
 
-- Are there other ways you would see interacting with Veterans? (e.g., chatbot, email)  
+- Are you familiar with this website? 
 
+Take a minute to look it over. Let's focus on the list of services on this page.  
 
-### Services 
+- How does this list compare to your experience and knowledge of a Vet Center? 
 
-- What services are used most frequently by your clients?  
+    - Is there any other information that you would want as part of these service listings?
 
-- How about those used least frequently? 
+- Sould any of the services be changed or renamed to be more accurate of your experience? 
 
-- Are there other services you offer other than the official list?
+If this website could be improved for you, as a regular visitor to a Vet Center, what would change?
 
-- Does your Vet center offer recreational outings or other activities?
+    - What's most important for you to know?
 
-- If so, how are are these offerings categorized? Do they fall under counseling or events or are they their own category?
+## Post-Task Interview
 
-- How do groups get formed?
+Those are all the questions that I had for you today. 
 
-- How will Vets find out about these services and activities? 
-
-### Events 
-
-- What are some examples of events or recreational activities that you’ve put on or promoted (pre and post COVID)? 
-
-- How do you promote events? 
-
-- Are there recurring events that Vet Centers offer? 
-
-### Tools 
-
-- What tools, websites or resources do you use to plan and publicize outreach events? 
-
-- Do you use or keep mailing lists, listservs, social media? 
-
-- Partnership organizations, e.g. universities, print media? 
-
-- From a technology perspective, what could be improved to help you in your outreach? 
-
-- What is the most important thing a vet should get out of visiting your VC website for 1st time?
-
-- Is there information that you currently communicate in brochures or other promo materials that you think should get reflected on the website? 
-
-## Closing
-
-- Any questions for us?
-- Was there anything that I didn't ask that you think that I should know?
-- Thank yous...
+- Do you have any questions for me?
 
 
-- - -
-#### If time permits... but most likely a separate session
+## Thank-You and Closing 
 
-## Vet Center Page Critique
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to improve our products and services for Veterans and service members.
 
-[CRITIQUE OF CURRENT DETAIL PAGE – 15 MIN]  
+Great, well thank you so much again, and enjoy the rest of your day!
 
-[Current Vet Center page example](https://www.va.gov/find-locations/facility/vc_0342V)
+--- 
 
-This is what a Vet Center page looks like today, in an ideal world, what would the page look like if it was first exposure that a Veteran or service member had to your Vet Center, maybe after they did a google search.  
+## Contingency plan:  
 
- - What would be the most important thing(s) that they should be able to learn or understand.  
 
- - What could be improved about [this] website to improve your needs as an outreach specialist?  
+If no experience with Vet Center:
 
- - Thinking of all those first conversations with new and potential clients, what would they change? 
+ - What do you think a Vet Center is?
 
-[SWITCH TO EVENT PAGE]
+I'm going to pull up a website to look at it together.
 
-[Event page example](https://www.va.gov/outreach-and-events/events/sierra-vista-arizona-resource-fair/)
+**[SHARE SCREEN]**
 
-- What about a page like this? How does a page like this fit into your workflow? 
+[Show Vet Center website](https://www.vetcenter.va.gov/)
+
+Are you familiar with this website?  Take a minute to look it over. I'm happy to click around for you as well.
+
+- What can you tell me about a Vet Center? 
+
+- Is there anything that interests you on this page? 
+
+- Is there anything that you don't like on this page?
+
+I'm going to pull up another website to look at it together.
+
+#### Scenario 
+
+Let's imagine that you just learned about Vet Centers and you want to know if there is a Vet Center near you. How would you go about finding out that information? 
+
+
+We're going to find your local Vet Center website together: [Facility locator](https://www.va.gov/find-locations)
+
+  - What location should I enter?
+  
+   If none given: [Atlanta Vet Center Detail page](https://www.va.gov/find-locations/facility/vc_0304V)
+  
+I'm going to choose, Vet Center as the facility type. 
+
+- Are you familiar with this website? 
+
+  If, no suggestion is given:
+  We're going to imagine that you live in Atlanta: [Show Vet Center Detail page](https://www.va.gov/find-locations/facility/vc_0304V)
+
+Take a minute to look at this page. Let's focus on this area here:
+
+- What can you tell me about the different services?
+
+- What kind of services would you find most useful? 
+
+    - Is there any other information about the services available at this Vet Center that you'd like to see?
+    
+- Are there other services that you don't see on this list that you'd like to see?
+
+- Is there any other information that you don't see on this page that you would find helpful?
+
+- What would make you want to call or visit a Vet Center? 
+
+- What would keep you from calling or visiting a Vet Center?
+
+- How would you like to have been informed that Vet Centers and these services existed? 
+
+## Post-Task Interview
+
+Those are all the questions that I had for you today. 
+
+- Do you have any questions for me?
+
+
+## Thank-You and Closing 
+
+Well we really appreciate your taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to improve our products and services for Veterans and service members.
+
+Great, well thank you so much again, and enjoy the rest of your day!
