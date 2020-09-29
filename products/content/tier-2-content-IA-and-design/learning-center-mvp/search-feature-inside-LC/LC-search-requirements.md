@@ -9,7 +9,7 @@ See designs for the dynamic search results page and the static 'all articles' li
 
 ## Description of dynamic search basic requirements - technical and UX: 
 
-- Search bar will be availalbe on all lc pages. 
+- Search bar will be available on all lc pages. 
 - User can search only for learning center or for whole VA.gov website. The default is for the lc. 
 - If the user selects the All VA.gov option, the user will be taken to the full onsite search results experience _upon hitting the search button._ <-- This is early UX assumption, and may be updated based on UX recommendation. 
 - The user-inputted search term (e.g. service dogs) should be persistent in the search box, even when the user toggles between Search LC & Search VA.gov options.
@@ -25,7 +25,7 @@ This will require customizing LC search.
 
 __Question still TBD__
 - Every article page has a search bar. 
-- The search comes above the H1. __We need to verify this can be done without creating a senmantic header problem.__
+- The search comes above the H1. __We need to verify this can be done without creating a semantic header problem.__
 - User error states: experience and messaging when a LC search brings back zero results. (I think Beth Potts has already provide a draft of this message somewhere.)
 
 __Other questions?__ 
