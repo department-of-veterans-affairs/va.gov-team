@@ -8,4 +8,8 @@ Veterans using Google, Bing, Facebook and other popular "discovery engines" for 
 - The local search space is expanding and evolving (e.g. Facebook search, Alexa voice) and its tough to keep up without focused, expert effort
 - The value of local search in delivering "better veteran outcomes" is not well understood/defined.
 
-### 
+### What We Did
+
+To better understand the problem -- and the promise -- for VA and local search, we conducted research to determine (a) VA's local search "standing" and (b) options for improvement.
+
+
