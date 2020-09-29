@@ -21,7 +21,8 @@
 
 ### PatientAppointmentMetadataResponse
 
-- Missing request limit value?
+- Would be nice to have the request limit in here, too
+- Could we request multiple facility ids at once? We want to make a single request for the request limit check across multiple facilities for EC
 
 ## Clinics
 
