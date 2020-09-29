@@ -20,7 +20,7 @@
 
 ### Discovery
 
-[Direct deposit for EDU discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/add-update-EDU-direct-deposit/research-design/dd-edu-user-flows.md)
+[Direct deposit for EDU discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/edu-dd-discovery.md)
 
 [Direct Deposit Info on VA.gov]()
 
