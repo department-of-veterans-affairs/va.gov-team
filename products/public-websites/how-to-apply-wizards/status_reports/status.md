@@ -8,7 +8,7 @@
   - Wizard migration - UX deliverables for Chap 31 and Chap 36 va.gov-team #13381
   - Wizard migration - UX deliverables for HLR form va.gov-team #13382
 
- -  Ideally, user testing with veterans will be conducted prior to launch (or after launch) to validate key assumptions as [outlined here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/discovery/research/wizard-research-plan.md)
+ -  Ideally, user testing with veterans will be conducted prior to launch (or after launch) to address questions and/or validate assumptions as [outlined here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/discovery/research/wizard-research-plan.md)
  - In order to conduct upfront testing, we will need resource help -- either from a new UX/Researcher who is expected to join the Public Websites team in Oct-Nov timeframe or via another team involved in Wizard development (Liz to see if BAM 2/Education team can be of assistance).
 
 ### 9/10 Update
