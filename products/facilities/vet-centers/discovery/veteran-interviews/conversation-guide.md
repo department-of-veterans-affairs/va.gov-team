@@ -100,7 +100,7 @@ I'm going to pull up a website to look at it together. We're going to find your 
   
    If none given: [Atlanta Vet Center Detail page](https://www.va.gov/find-locations/facility/vc_0304V)
   
-I'm going to choose, Vet Center as the facility type. 
+I'm going to choose Vet Center as the facility type. 
 
 - Are you familiar with this website? 
 
