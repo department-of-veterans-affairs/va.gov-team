@@ -28,7 +28,9 @@ Users who want to initiate or manage direct deposit of their EDU payments must s
 
 <details>
   <summary>eBenefits user flow diagram</summary>
-  ![Current eBenefits user flow]()
+  
+  ![Current eBenefits user flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/DD_EDU_Breakdown_1.png)
+  
 </details>
 
 #### Compensation & Pension direct deposit
