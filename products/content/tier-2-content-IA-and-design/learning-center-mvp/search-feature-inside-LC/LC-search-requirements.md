@@ -11,17 +11,21 @@ See designs for the dynamic search results page and the static 'all articles' li
 
 - Search bar will be available on all lc pages. 
 - User can search only for learning center or for whole VA.gov website, via radio button options. The default is for the lc. 
-- If the user selects the All VA.gov option, the user will be taken to the full onsite search results experience _upon hitting the search button._ <-- This is early UX assumption, and may be updated based on UX recommendation. 
+- For 1.0 and 1.1, we will keep users within the LC  for both kinds of search results (LC and 'all va').
 - The user-inputted search term (e.g. service dogs) should be persistent in the search box, even when the user toggles between Search LC & Search VA.gov options.
 - LC search results will display article results based on relevance per user query (current search.gov functionality). 
 - LC search results will use the directory configured "collections" search.gov functionality. 
 
 __MVP 1.0__
-LC search results will not include the content type meta data. 
+- LC search results will not display the content type meta data. 
+- All VA search results will keep users in the LC.
+
 
 __MVP 1.1__
-LC search results will include the content type meta data - for parity with 1.1 static landing page listing elements. 
-This will require customizing LC search. 
+- LC search results will display the content type meta data - for parity with 1.1 static landing page listing elements. 
+- All VA search results will keep users in the LC.
+- On 'all VA' search results, we will hide content type labels on lc articles. 
+- This will require customizing LC search. 
 
 __Question still TBD__
 - Every article page has a search bar. 
@@ -43,3 +47,4 @@ The following should be tracked for insights, given the unique experience on VA.
 - How often is Search used on article pages?
 - Search results pagination: how often do users click to next page, how many pages do users typically click to before refining their search? 
 - Search refinement behavior
+- If over time, data shows that people are not using the 'all VA' search toggle, we can get rid of that toggle option in LC.
