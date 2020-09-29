@@ -13,7 +13,10 @@
 1. Review backlog for Sprint 16
 1. Articles List implementation
 1. Meta tag title / description clarification
+   1. Remove desc meta tag completely
+   1. Meta title - 70 chars title + ` | Veterans Affairs` - no case conversion
 1. ToC component on LC content types [3013](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3013)
+   1. enable component on all LC CTs, but Q&A
 1. MVP set of tags for Topics taxonomy [2892](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2892)
 1. Default value in VA benefit Hub fields on existing content [3007](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3007)
 1. Process of releasing new LC categories
@@ -22,7 +25,7 @@
 
 ### Action items
 
-1.
+1. Jen to confirm whether native CMS tag listing preview is sufficient for the MVP 1.1
 
 ## Tuesday September 22
 
