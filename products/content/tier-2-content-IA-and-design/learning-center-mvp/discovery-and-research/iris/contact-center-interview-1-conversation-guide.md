@@ -70,7 +70,7 @@ That is all really helpful information, thanks for sharing all of that! Let's ta
 
 Okay, so lets say that [*reiterate what they said, new content needs to be created*] - can you give me an overview of what happens between then and it being published?
 
-- How does that process change for different types of content?
+- How does that process change for different types of content, such as internal scripts for contact center reps?
 
 ***If it isn't already obvious, ask*:**
 
