@@ -20,6 +20,10 @@ Notes regarding the APIs defined at
 - I can see the appeal of making the preferred time to call values Periods, but seems like overkill
 - Where would we get the contact info associated with a request?
 
+### ScheduleConfiguration
+
+- We'd want to be able search by multiple parent sites here
+
 ### PatientAppointmentMetadataResponse
 
 - Would be nice to have the request limit in here, too
