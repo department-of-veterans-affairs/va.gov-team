@@ -5,7 +5,7 @@
 ### Setup
 
 - [ ] Notifications off
-- [ ] Turn off waiting room feature in Zoom
+- [ ] Manage waiting room feature in Zoom
 
 ## Intro - 3 minutes
 
