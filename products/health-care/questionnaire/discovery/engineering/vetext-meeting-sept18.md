@@ -84,3 +84,5 @@ VeText will send the veteran an appointment reminder and indicate that they have
 - component_type is either stop_code or client
 - component_id relates to what is the unique identifier for the given component_type
 
+There will also need to be some type of key based authentication for VeText to access the questionnaire service
+
