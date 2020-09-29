@@ -50,7 +50,7 @@ You must be connected to the VA network to try the following.
 
 [Swagger UI](https://int.ebenefits.va.gov/wss-lettergenerator-services-web/swagger-ui/index.html?url=https://int.ebenefits.va.gov/wss-lettergenerator-services-web/rest/swagger.yaml#/letters)
 
-[copy](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/?url=https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/veteran-military-records/swagger-va-letters.yaml)
+[copy](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/index.html?url=https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/veteran-military-records/swagger-va-letters.yaml)
 
 ### GI Bill Status
 
@@ -58,7 +58,7 @@ You must be connected to the VA network to try the following.
 
 Swagger yaml: https://int.ebenefits.va.gov/wss-education-services-web/rest/swagger.yaml
 
-[copy](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/?url=https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/education-careers/statement-of-benefits/engineering/swagger-education-services-schema.yaml)
+[copy](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/index.html?url=https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/education-careers/statement-of-benefits/engineering/swagger-education-services-schema.yaml)
 
 
 
