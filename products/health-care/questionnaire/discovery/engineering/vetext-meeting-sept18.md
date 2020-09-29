@@ -80,3 +80,7 @@ VeText will send the veteran an appointment reminder and indicate that they have
 ## VETS-API/VeText flow
 
 ![vetext flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/assets/vetext-flow.png?raw=true)
+
+- component_type is either stop_code or client
+- component_id relates to what is the unique identifier for the given component_type
+
