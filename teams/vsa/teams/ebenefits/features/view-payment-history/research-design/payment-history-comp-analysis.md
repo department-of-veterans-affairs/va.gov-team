@@ -1,4 +1,4 @@
-# eBenefits Payment History comparative analysis
+# eBenefits Payment History Comparative Analysis
 **VSA eBenefits Team | March 2020**
 
 [James Adams](jadams@governmentcio.com) UI/UX Designer
