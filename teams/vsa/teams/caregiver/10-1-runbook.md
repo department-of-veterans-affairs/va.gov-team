@@ -5,7 +5,7 @@
 | 6:30am EST (or earlier) | New form is updated in repository and available at https://www.va.gov/vaforms/medical/pdf/10-10CG.pdf  | Pam, Brian, Gail  |   | 
 | 6:45am EST (or earlier) | Eligibility info is updated on https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/    | Danielle 
 | 7:00am EST  | Online form in available at https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/  | Alayna, Ming, Kevin  |   
-| 7:00am EST  | Button to start online form is available on https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/  | Danielle | 
+| 7:00am EST  | Button to start online form is available on https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/  | Justin, Kevin, Alayna | 
 | 7:05am EST | Manual confirmation of launch (Button is available, form is available, download works on failure). Communicated to stakeholders is sent. | Justin, Kevin, VA.gov team | 
 | 11:00am EST | Update to Program team on application metrics | Alayna 
 | 12:30pm EST or later| Communication to public | Caregiver Program 
