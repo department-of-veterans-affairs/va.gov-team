@@ -29,21 +29,26 @@
    - What is the size and structure of each content team?
    - Who are the people on these teams, and what are they responsible for?
    - What are the different types of content each team creates and manages, with regard to contact center customer service and IRIS content creation?
-   - Who is the audience for your content?
-   - How do you determine when you need to create new content?
-   - Do you have any content style guides?
+   - Who is the audience for their content?
+   - What is the process for internal scripts that support contact center reps? 
+   - Are they different than the process for customer facing content?
+   - How does the team determine when they need to create new content?
+   - Do they have any content style guides?
    - How does IRIS fit into each center's content flow? 
+   - How is content maintained in IRIS?
    - What other systems are being used?
    - What's working well for each contact center in terms of content creation and management?
    - What isn't working well?
-   - Who should we talk to next?
+   - Who can we interview to gain a more in-depth understanding of these processes?
    - Which parts of these content management processes are things we can observe and learn from?
+   - Who can we observe going through these processes?
 
 4. Our hypothesis for this research is that:
 
    - There will be a lot of variance between contact centers in terms of the team structure, size, and processes in place.
    - Some contact centers don't have a formal content management process.
-   - IRIS is a major part of their workflow, but there will be some other systems we want to observe people working in.
+   - Content is maintained in IRIS.
+   - IRIS is a major part of their workflow, but there will be some other systems we'll want to observe people working in.
 
 ## Method	
 
