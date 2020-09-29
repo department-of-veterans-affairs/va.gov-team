@@ -13,9 +13,10 @@
 1. Review backlog for Sprint 16
 1. Process of releasing new LC categories
 1. Meta tag description populated by intro text
-1. ToC component on LC content types
-1. Default value in VA benefit Hub fields on existing content
-1. Table AX issues identified by Jen Strickland
+1. ToC component on LC content types [3013](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3013)
+1. MVP set of tags for Topics taxnomy [2892](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2892)
+1. Default value in VA benefit Hub fields on existing content [3007](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3007)
+1. Table AX issues identified by Jen Strickland [2877](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2877)
 1. anything else
 
 ### Action items
