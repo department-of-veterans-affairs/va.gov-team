@@ -39,7 +39,7 @@ When referencing various data sources related to the Learning Center MVP 1.0/1.1
   - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12933)
 ### Tags
 * As a Veteran, I wanted to browse, explore and discover VA services in a fun and engaging way through learning center tags.   
-  - Adapting content tags will encourage UX behavior to browse, explore and enagage content they otherwise wouldn't through legacy search options. Tags are not meant to be a substitute search in the learning center, but a way of filtering the ocean into a lake. Content relevance based on keyword-driven search will be the primary way users can quickly find content in the learning center.
+  - Adapting content tags will encourage UX behavior to browse, explore and enagage with content they otherwise wouldn't through legacy search options. Tags are not meant to be a substitute search in the learning center, but a way of filtering the ocean into a lake. Content relevance based on keyword-driven search will be the primary way users can quickly find content in the learning center.
   - [User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/view-all-articles-in-X-category-landing-pg-requirements.md)
   - [FE Content Tag Requirements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#frontend-content-tags)
   - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11491) 
