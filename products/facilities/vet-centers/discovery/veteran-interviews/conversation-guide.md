@@ -40,7 +40,7 @@ Before we get started, I want to give you an idea of what this call will be like
 
     - When did you first learn about Vet Centers? 
 
-- What has been your experience with a Vet Center, if any? 
+- What has been your experience with a Vet Center? 
 
 - Before you first visited, how did you go about finding the location of your Vet Center? 
 
