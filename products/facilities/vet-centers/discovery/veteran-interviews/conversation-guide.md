@@ -85,9 +85,11 @@ I'd like you to imagine a scenario:
 
 You have a friend, a fellow [Veteran, service member], who you’ve noticed has been going through a rough time. You think he or she might benefit from visiting a Vet Center. 
 
-    - What is the most important thing for someone to know before visiting for the first time?
-    - What would make them comfortable calling or visiting a Vet Center?
-    - What would deter them from calling or visiting a Vet Center? 
+   - What is the most important thing for someone to know before visiting for the first time?
+    
+   - What would make them comfortable calling or visiting a Vet Center?
+    
+   - What would deter them from calling or visiting a Vet Center? 
 
 
 ## Services critique: 
