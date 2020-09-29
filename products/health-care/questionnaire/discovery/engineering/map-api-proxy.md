@@ -86,10 +86,10 @@ hqva_mobile:
 <details>
   <summary>Ruby proxy Version 2</summary>
 
+
 ```
 require 'mountebank'
 require 'yaml'
-
 
 VA_ROOT = '/Users/laurenceguild/src/pgd_pr1/vets-api'
 SPEC_PATH = 'spec/support/vcr_cassettes/health_quest'
@@ -127,13 +127,18 @@ class HealthQuestProxy
 
   def start_mb
     @mb_pid = Process.fork { system 'mb' }
-    if !@mb_pid 
+    if !@mb_pid
+      # we need to guard against infinite recrusion
+      abort "could not start mountebank" if @installed_mb
       system 'npm install -g mountebank'
+      @installed_mb = true
+      sleep 1
       start_mb
     end
   end
 
   def initialize
+    @installed_mb = false
     ['MOUNTEBANK_SERVER', 'MOUNTEBANK_PORT'].each do |var|
       unless ENV[var]
         puts "You do not have the environment variable set for #{var}"
@@ -161,10 +166,7 @@ class HealthQuestProxy
     sleep 1
     puts "Imposters: #{Mountebank.imposters}"
   end
-
 end
-
-
 
 HealthQuestProxy.new
 
