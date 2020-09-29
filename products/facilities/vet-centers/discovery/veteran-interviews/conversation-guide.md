@@ -94,7 +94,7 @@ You have a friend, a fellow [Veteran, service member], who you’ve noticed has 
 
 ## Services critique: 
 
-We're going to find your local Vet Center website together: [Facility locator](https://www.va.gov/find-locations)
+I'm going to pull up a website to look at it together. We're going to find your local Vet Center website together: [Facility locator](https://www.va.gov/find-locations)
 
   - What location should I enter?
   
