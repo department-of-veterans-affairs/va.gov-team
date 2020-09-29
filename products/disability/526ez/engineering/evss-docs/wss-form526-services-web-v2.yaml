@@ -1,0 +1,897 @@
+---
+swagger: "2.0"
+info: {}
+basePath: "/wss-form526-services-web-v2/rest"
+tags:
+- name: "form526"
+paths:
+  /form526/v2/ratedDisabilities:
+    get:
+      tags:
+      - "form526"
+      summary: "Get Rated Disabilities"
+      description: "Gets the rated disabilities for the veteran"
+      operationId: "loadRatedDisabilities"
+      produces:
+      - "application/json"
+      parameters: []
+      responses:
+        "200":
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/LoadRatedDisabilityResponse"
+        "400":
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        "500":
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        "403":
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+  /form526/v2/submit:
+    post:
+      tags:
+      - "form526"
+      summary: "Submit 526"
+      description: "Submits a 526 form."
+      operationId: "submit"
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters:
+      - in: "body"
+        name: "body"
+        required: false
+        schema:
+          $ref: "#/definitions/SubmitRequest"
+      responses:
+        "200":
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/SubmitResponse"
+        "400":
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        "500":
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        "403":
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+  /form526/v2/validate:
+    post:
+      tags:
+      - "form526"
+      summary: "Validate 526"
+      description: "Validates a 526 form."
+      operationId: "validate"
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters:
+      - in: "body"
+        name: "body"
+        required: false
+        schema:
+          $ref: "#/definitions/ValidateRequest"
+      responses:
+        "200":
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/ValidateResponse"
+        "400":
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        "500":
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        "403":
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+definitions:
+  ValidateResponse:
+    type: "object"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+  CurrentlyHomeless:
+    type: "object"
+    required:
+    - "homelessSituationType"
+    properties:
+      homelessSituationType:
+        type: "string"
+        enum:
+        - "LIVING_IN_A_HOMELESS_SHELTER"
+        - "NOT_CURRENTLY_IN_A_SHELTERED_ENVIRONMENT"
+        - "STAYING_WITH_ANOTHER_PERSON"
+        - "FLEEING_CURRENT_RESIDENCE"
+        - "OTHER"
+      otherLivingSituation:
+        type: "string"
+        minLength: 1
+        maxLength: 500
+  MilitaryPay:
+    type: "object"
+    properties:
+      serviceBranch:
+        type: "string"
+      amount:
+        type: "number"
+        format: "double"
+  Confinement:
+    type: "object"
+    required:
+    - "confinementBeginDate"
+    - "confinementEndDate"
+    properties:
+      confinementBeginDate:
+        type: "string"
+        format: "date-time"
+      confinementEndDate:
+        type: "string"
+        format: "date-time"
+  Form526:
+    type: "object"
+    required:
+    - "applicationExpirationDate"
+    - "claimantCertification"
+    - "disabilities"
+    - "serviceInformation"
+    - "standardClaim"
+    - "veteran"
+    properties:
+      veteran:
+        $ref: "#/definitions/Veteran"
+      servicePay:
+        $ref: "#/definitions/ServicePay"
+      directDeposit:
+        $ref: "#/definitions/DirectDeposit"
+      serviceInformation:
+        $ref: "#/definitions/ServiceInformation"
+      disabilities:
+        type: "array"
+        items:
+          $ref: "#/definitions/Disability"
+        maxItems: 100
+        minItems: 1
+      treatments:
+        type: "array"
+        items:
+          $ref: "#/definitions/Treatment"
+        maxItems: 100
+        minItems: 0
+      specialCircumstances:
+        type: "array"
+        items:
+          $ref: "#/definitions/SpecialCircumstance"
+        maxItems: 100
+        minItems: 0
+      applicationExpirationDate:
+        type: "string"
+        format: "date-time"
+      claimDate:
+        type: "string"
+        format: "date-time"
+      claimantCertification:
+        type: "boolean"
+        default: false
+      standardClaim:
+        type: "boolean"
+        default: false
+      overflowText:
+        type: "string"
+        minLength: 0
+        maxLength: 1000
+      autoCestPDFGenerationDisabled:
+        type: "boolean"
+        default: false
+      bddQualified:
+        type: "boolean"
+        default: false
+  Message:
+    type: "object"
+    properties:
+      key:
+        type: "string"
+      text:
+        type: "string"
+      severity:
+        type: "string"
+        enum:
+        - "FATAL"
+        - "ERROR"
+        - "WARN"
+        - "INFO"
+  SubmitResponse:
+    type: "object"
+    required:
+    - "claimId"
+    - "endProductClaimCode"
+    - "endProductClaimName"
+    - "inflightDocumentId"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+      claimId:
+        type: "integer"
+        format: "int64"
+      inflightDocumentId:
+        type: "integer"
+        format: "int64"
+      endProductClaimCode:
+        type: "string"
+      endProductClaimName:
+        type: "string"
+  ChangeOfAddress:
+    type: "object"
+    required:
+    - "addressChangeType"
+    - "addressLine1"
+    - "beginningDate"
+    - "country"
+    - "type"
+    properties:
+      city:
+        type: "string"
+        minLength: 0
+        maxLength: 30
+        pattern: "([a-zA-Z0-9\\-'.#]([a-zA-Z0-9\\-'.# ])?)+$"
+      state:
+        type: "string"
+        pattern: "[a-z,A-Z]{2}"
+      zipFirstFive:
+        type: "string"
+        pattern: "\\d{5}"
+      zipLastFour:
+        type: "string"
+        pattern: "\\d{4}"
+      internationalPostalCode:
+        type: "string"
+      country:
+        type: "string"
+      militaryStateCode:
+        type: "string"
+        enum:
+        - "AA"
+        - "AE"
+        - "AP"
+      militaryPostOfficeTypeCode:
+        type: "string"
+        enum:
+        - "APO"
+        - "DPO"
+        - "FPO"
+      type:
+        type: "string"
+        enum:
+        - "DOMESTIC"
+        - "MILITARY"
+        - "INTERNATIONAL"
+      addressLine1:
+        type: "string"
+        minLength: 1
+        maxLength: 35
+        pattern: "([a-zA-Z0-9\\-'.,&#]([a-zA-Z0-9\\-'.,&# ])?)+$"
+      addressLine2:
+        type: "string"
+        minLength: 0
+        maxLength: 35
+        pattern: "([a-zA-Z0-9\\-'.,&#][a-zA-Z0-9\\-'.,&# ]?)*$"
+      addressLine3:
+        type: "string"
+        minLength: 0
+        maxLength: 35
+        pattern: "([a-zA-Z0-9\\-'.,&#][a-zA-Z0-9\\-'.,&# ]?)*$"
+      addressChangeType:
+        type: "string"
+        enum:
+        - "TEMPORARY"
+        - "PERMANENT"
+      beginningDate:
+        type: "string"
+        format: "date-time"
+      endingDate:
+        type: "string"
+        format: "date-time"
+  DirectDeposit:
+    type: "object"
+    required:
+    - "accountNumber"
+    - "accountType"
+    - "routingNumber"
+    properties:
+      accountType:
+        type: "string"
+        enum:
+        - "CHECKING"
+        - "SAVINGS"
+      accountNumber:
+        type: "string"
+        minLength: 4
+        maxLength: 17
+      bankName:
+        type: "string"
+        minLength: 1
+        maxLength: 2147483647
+      routingNumber:
+        type: "string"
+        pattern: "\\d{9}"
+  Disability:
+    type: "object"
+    required:
+    - "disabilityActionType"
+    - "name"
+    properties:
+      name:
+        type: "string"
+      classificationCode:
+        type: "string"
+      disabilityActionType:
+        type: "string"
+        enum:
+        - "NONE"
+        - "NEW"
+        - "SECONDARY"
+        - "INCREASE"
+        - "REOPEN"
+      ratedDisabilityId:
+        type: "string"
+      diagnosticCode:
+        type: "integer"
+        format: "int64"
+      specialIssues:
+        type: "array"
+        items:
+          type: "string"
+          enum:
+          - "ALS"
+          - "HEPC"
+          - "POW"
+          - "PTSD_1"
+          - "PTSD_2"
+          - "PTSD_4"
+          - "PTSD_3"
+        maxItems: 100
+        minItems: 0
+      serviceRelevance:
+        type: "string"
+        minLength: 1
+        maxLength: 500
+      approximateBeginDate:
+        $ref: "#/definitions/ApproximateDate"
+      secondaryDisabilities:
+        type: "array"
+        items:
+          $ref: "#/definitions/SecondaryDisability"
+        maxItems: 100
+        minItems: 0
+  ServicePay:
+    type: "object"
+    properties:
+      militaryRetiredPay:
+        $ref: "#/definitions/MilitaryRetiredPay"
+      retiredStatus:
+        type: "string"
+        enum:
+        - "RETIRED"
+        - "PERMANENT_DISABILITY_RETIRED_LIST"
+        - "TEMPORARY_DISABILITY_RETIRED_LIST"
+      separationPay:
+        $ref: "#/definitions/SeparationPay"
+      waiveVABenefitsToRetainTrainingPay:
+        type: "boolean"
+        default: false
+      waiveVABenefitsToRetainRetiredPay:
+        type: "boolean"
+        default: false
+  ApproximateDate:
+    type: "object"
+    required:
+    - "year"
+    properties:
+      day:
+        type: "string"
+        pattern: "\\d{1,2}"
+      month:
+        type: "string"
+        pattern: "\\d{1,2}"
+      year:
+        type: "string"
+        pattern: "^[1-9]\\d{3}$"
+  Homelessness:
+    type: "object"
+    required:
+    - "pointOfContact"
+    properties:
+      currentlyHomeless:
+        $ref: "#/definitions/CurrentlyHomeless"
+      homelessnessRisk:
+        $ref: "#/definitions/HomelessnessRisk"
+      pointOfContact:
+        $ref: "#/definitions/PointOfContact"
+  ServiceResponse:
+    type: "object"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+  Title10Activation:
+    type: "object"
+    required:
+    - "anticipatedSeparationDate"
+    - "title10ActivationDate"
+    properties:
+      title10ActivationDate:
+        type: "string"
+        format: "date-time"
+      anticipatedSeparationDate:
+        type: "string"
+        format: "date-time"
+  ValidateRequest:
+    type: "object"
+    required:
+    - "form526"
+    properties:
+      form526:
+        $ref: "#/definitions/Form526"
+  Phone:
+    type: "object"
+    required:
+    - "areaCode"
+    - "phoneNumber"
+    properties:
+      areaCode:
+        type: "string"
+        pattern: "\\d{3}"
+      phoneNumber:
+        type: "string"
+        pattern: "\\d{7}"
+  TreatmentCenter:
+    type: "object"
+    required:
+    - "country"
+    - "name"
+    properties:
+      name:
+        type: "string"
+        minLength: 1
+        maxLength: 100
+        pattern: "([a-zA-Z0-9\"\\/&\\(\\)\\-'.#]([a-zA-Z0-9(\\)\\-'.# ])?)+$"
+      type:
+        type: "string"
+        enum:
+        - "VA_MEDICAL_CENTER"
+        - "DOD_MTF"
+      country:
+        type: "string"
+        minLength: 1
+        maxLength: 50
+      state:
+        type: "string"
+        minLength: 0
+        maxLength: 30
+        pattern: "([a-zA-Z0-9\\-'.#]([a-zA-Z0-9\\-'.# ])?)+$"
+      city:
+        type: "string"
+        minLength: 0
+        maxLength: 30
+        pattern: "([a-zA-Z0-9\\-'.#]([a-zA-Z0-9\\-'.# ])?)+$"
+  SpecialCircumstance:
+    type: "object"
+    required:
+    - "code"
+    - "name"
+    - "needed"
+    properties:
+      name:
+        type: "string"
+      code:
+        type: "string"
+      needed:
+        type: "boolean"
+        default: false
+  Veteran:
+    type: "object"
+    required:
+    - "currentMailingAddress"
+    - "currentlyVAEmployee"
+    properties:
+      emailAddress:
+        type: "string"
+        minLength: 6
+        maxLength: 80
+        pattern: "^[_A-Za-z0-9-]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\\
+          .[A-Za-z]{2,})$"
+      currentMailingAddress:
+        $ref: "#/definitions/MailingAddress"
+      changeOfAddress:
+        $ref: "#/definitions/ChangeOfAddress"
+      daytimePhone:
+        $ref: "#/definitions/Phone"
+      eveningPhone:
+        $ref: "#/definitions/Phone"
+      cellPhone:
+        $ref: "#/definitions/Phone"
+      homelessness:
+        $ref: "#/definitions/Homelessness"
+      serviceNumber:
+        type: "string"
+        minLength: 1
+        maxLength: 9
+        pattern: "[a-zA-Z0-9]+"
+      currentlyVAEmployee:
+        type: "boolean"
+        default: false
+  LoadRatedDisabilityResponse:
+    type: "object"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+      ratedDisabilities:
+        type: "array"
+        items:
+          $ref: "#/definitions/RatedDisability"
+        maxItems: 100
+        minItems: 0
+  HomelessnessRisk:
+    type: "object"
+    required:
+    - "homelessnessRiskSituationType"
+    properties:
+      homelessnessRiskSituationType:
+        type: "string"
+        enum:
+        - "HOUSING_WILL_BE_LOST_IN_30_DAYS"
+        - "LEAVING_PUBLICLY_FUNDED_SYSTEM_OF_CARE"
+        - "OTHER"
+      otherLivingSituation:
+        type: "string"
+        minLength: 1
+        maxLength: 500
+  RatedDisability:
+    type: "object"
+    properties:
+      diagnosticText:
+        type: "string"
+      decisionCode:
+        type: "string"
+      decisionText:
+        type: "string"
+      diagnosticCode:
+        type: "integer"
+        format: "int64"
+      effectiveDate:
+        type: "string"
+        format: "date-time"
+      ratedDisabilityId:
+        type: "string"
+      ratedDisabilityDate:
+        type: "string"
+        format: "date-time"
+      ratingPercentage:
+        type: "integer"
+        format: "int64"
+      relatedDisabilityId:
+        type: "string"
+      relatedDisabilityDate:
+        type: "string"
+        format: "date-time"
+      ratingDecisionId:
+        type: "string"
+      specialIssues:
+        type: "array"
+        items:
+          $ref: "#/definitions/SpecialIssue"
+        maxItems: 100
+        minItems: 0
+  SubmitRequest:
+    type: "object"
+    required:
+    - "form526"
+    properties:
+      form526:
+        $ref: "#/definitions/Form526"
+  MailingAddress:
+    type: "object"
+    required:
+    - "addressLine1"
+    - "country"
+    - "type"
+    properties:
+      city:
+        type: "string"
+        minLength: 0
+        maxLength: 30
+        pattern: "([a-zA-Z0-9\\-'.#]([a-zA-Z0-9\\-'.# ])?)+$"
+      state:
+        type: "string"
+        pattern: "[a-z,A-Z]{2}"
+      zipFirstFive:
+        type: "string"
+        pattern: "\\d{5}"
+      zipLastFour:
+        type: "string"
+        pattern: "\\d{4}"
+      internationalPostalCode:
+        type: "string"
+      country:
+        type: "string"
+      militaryStateCode:
+        type: "string"
+        enum:
+        - "AA"
+        - "AE"
+        - "AP"
+      militaryPostOfficeTypeCode:
+        type: "string"
+        enum:
+        - "APO"
+        - "DPO"
+        - "FPO"
+      type:
+        type: "string"
+        enum:
+        - "DOMESTIC"
+        - "MILITARY"
+        - "INTERNATIONAL"
+      addressLine1:
+        type: "string"
+        minLength: 1
+        maxLength: 20
+        pattern: "([a-zA-Z0-9\\-'.,&#]([a-zA-Z0-9\\-'.,&# ])?)+$"
+      addressLine2:
+        type: "string"
+        minLength: 0
+        maxLength: 20
+        pattern: "([a-zA-Z0-9\\-'.,&#][a-zA-Z0-9\\-'.,&# ]?)*$"
+      addressLine3:
+        type: "string"
+        minLength: 0
+        maxLength: 20
+        pattern: "([a-zA-Z0-9\\-'.,&#][a-zA-Z0-9\\-'.,&# ]?)*$"
+  AlternateName:
+    type: "object"
+    required:
+    - "firstName"
+    - "lastName"
+    properties:
+      firstName:
+        type: "string"
+        minLength: 1
+        maxLength: 30
+        pattern: "([a-zA-Z0-9-/']+( ?))+$"
+      middleName:
+        type: "string"
+        minLength: 0
+        maxLength: 30
+        pattern: "([a-zA-Z0-9-/']+( ?))*$"
+      lastName:
+        type: "string"
+        minLength: 1
+        maxLength: 30
+        pattern: "([a-zA-Z0-9-/']+( ?))+$"
+  SeparationPay:
+    type: "object"
+    required:
+    - "received"
+    properties:
+      received:
+        type: "boolean"
+        default: false
+      receivedDate:
+        $ref: "#/definitions/ApproximateDate"
+      payment:
+        $ref: "#/definitions/MilitaryPay"
+  ServicePeriod:
+    type: "object"
+    required:
+    - "activeDutyBeginDate"
+    - "activeDutyEndDate"
+    - "serviceBranch"
+    properties:
+      serviceBranch:
+        type: "string"
+      activeDutyBeginDate:
+        type: "string"
+        format: "date-time"
+      activeDutyEndDate:
+        type: "string"
+        format: "date-time"
+  ReservesNationalGuardService:
+    type: "object"
+    required:
+    - "obligationTermOfServiceFromDate"
+    - "obligationTermOfServiceToDate"
+    - "unitName"
+    properties:
+      title10Activation:
+        $ref: "#/definitions/Title10Activation"
+      obligationTermOfServiceFromDate:
+        type: "string"
+        format: "date-time"
+      obligationTermOfServiceToDate:
+        type: "string"
+        format: "date-time"
+      unitName:
+        type: "string"
+        minLength: 1
+        maxLength: 256
+        pattern: "([a-zA-Z0-9\\-'.#][a-zA-Z0-9\\-'.# ]?)*$"
+      unitPhone:
+        $ref: "#/definitions/Phone"
+      receivingInactiveDutyTrainingPay:
+        type: "boolean"
+        default: false
+  Treatment:
+    type: "object"
+    required:
+    - "center"
+    - "startDate"
+    - "treatedDisabilityNames"
+    properties:
+      center:
+        $ref: "#/definitions/TreatmentCenter"
+      treatedDisabilityNames:
+        type: "array"
+        items:
+          type: "string"
+        maxItems: 100
+        minItems: 1
+      startDate:
+        $ref: "#/definitions/ApproximateDate"
+      endDate:
+        $ref: "#/definitions/ApproximateDate"
+  PointOfContact:
+    type: "object"
+    required:
+    - "pointOfContactName"
+    - "primaryPhone"
+    properties:
+      pointOfContactName:
+        type: "string"
+        minLength: 1
+        maxLength: 100
+        pattern: "([a-zA-Z0-9-/']+( ?))*$"
+      primaryPhone:
+        $ref: "#/definitions/Phone"
+  SpecialIssue:
+    type: "object"
+    required:
+    - "code"
+    - "name"
+    properties:
+      code:
+        type: "string"
+      name:
+        type: "string"
+  ServiceInformation:
+    type: "object"
+    required:
+    - "servicePeriods"
+    properties:
+      servicePeriods:
+        type: "array"
+        items:
+          $ref: "#/definitions/ServicePeriod"
+        maxItems: 100
+        minItems: 1
+      reservesNationalGuardService:
+        $ref: "#/definitions/ReservesNationalGuardService"
+      servedInCombatZone:
+        type: "boolean"
+        default: false
+      separationLocationName:
+        type: "string"
+        minLength: 0
+        maxLength: 256
+        pattern: "([a-zA-Z0-9\\/\\-'.#,*()&][a-zA-Z0-9\\/\\-'.#,*()& ]?)*$"
+      separationLocationCode:
+        type: "string"
+      alternateNames:
+        type: "array"
+        items:
+          $ref: "#/definitions/AlternateName"
+        maxItems: 100
+        minItems: 0
+      confinements:
+        type: "array"
+        items:
+          $ref: "#/definitions/Confinement"
+        maxItems: 100
+        minItems: 0
+  SecondaryDisability:
+    type: "object"
+    required:
+    - "disabilityActionType"
+    - "name"
+    properties:
+      name:
+        type: "string"
+      classificationCode:
+        type: "string"
+      disabilityActionType:
+        type: "string"
+        enum:
+        - "NONE"
+        - "NEW"
+        - "SECONDARY"
+        - "INCREASE"
+        - "REOPEN"
+      ratedDisabilityId:
+        type: "string"
+      diagnosticCode:
+        type: "integer"
+        format: "int64"
+      specialIssues:
+        type: "array"
+        items:
+          type: "string"
+          enum:
+          - "ALS"
+          - "HEPC"
+          - "POW"
+          - "PTSD_1"
+          - "PTSD_2"
+          - "PTSD_4"
+          - "PTSD_3"
+        maxItems: 100
+        minItems: 0
+      serviceRelevance:
+        type: "string"
+        minLength: 1
+        maxLength: 500
+      approximateBeginDate:
+        $ref: "#/definitions/ApproximateDate"
+  MilitaryRetiredPay:
+    type: "object"
+    required:
+    - "receiving"
+    properties:
+      receiving:
+        type: "boolean"
+        default: false
+      willReceiveInfuture:
+        type: "boolean"
+        default: false
+      futurePayExplanation:
+        type: "string"
+      payment:
+        $ref: "#/definitions/MilitaryPay"
+externalDocs:
+  description: "API Error Keys (work in progress)"
+  url: "ext-docs/error-keys.html"

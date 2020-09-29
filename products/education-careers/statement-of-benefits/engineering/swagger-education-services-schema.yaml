@@ -1,8 +1,6 @@
 ---
 swagger: "2.0"
-info:
-  version: "v2"
-  title: "wss-education-services-web"
+info: {}
 basePath: "/wss-education-services-web/rest"
 tags:
 - name: "educationchapter33"
@@ -71,8 +69,10 @@ definitions:
   Chapter33Education:
     type: "object"
     required:
+    - "activeDuty"
     - "firstName"
     - "lastName"
+    - "veteranIsEligible"
     properties:
       firstName:
         type: "string"
@@ -85,6 +85,12 @@ definitions:
         format: "date-time"
       vaFileNumber:
         type: "string"
+      activeDuty:
+        type: "boolean"
+        default: false
+      veteranIsEligible:
+        type: "boolean"
+        default: false
       regionalProcessingOffice:
         type: "string"
       eligibilityDate:
@@ -97,15 +103,12 @@ definitions:
         type: "integer"
         format: "int32"
       originalEntitlement:
-        type: "integer"
-        format: "int32"
+        $ref: "#/definitions/EntitlementType"
       usedEntitlement:
-        type: "integer"
-        format: "int32"
+        $ref: "#/definitions/EntitlementType"
       remainingEntitlement:
-        type: "integer"
-        format: "int32"
-      enrollmentList:
+        $ref: "#/definitions/EntitlementType"
+      enrollments:
         type: "array"
         items:
           $ref: "#/definitions/Enrollment"
@@ -144,6 +147,14 @@ definitions:
         type: "string"
       trainingType:
         type: "string"
+        enum:
+        - "UNDER_GRAD"
+        - "GRAD"
+        - "NON_COLLEGE"
+        - "FLIGHT"
+        - "OJT"
+        - "APPRENTICESHIP"
+        - "CORRESPONDENCE"
       termID:
         type: "string"
       hourType:
@@ -157,10 +168,10 @@ definitions:
       vacationDayCount:
         type: "integer"
         format: "int32"
-      residenceHours:
+      onCampusHours:
         type: "number"
         format: "double"
-      distanceHours:
+      onlineHours:
         type: "number"
         format: "double"
       yellowRibbonAmount:
@@ -168,16 +179,26 @@ definitions:
         format: "double"
       status:
         type: "string"
-      amendmentList:
+      amendments:
         type: "array"
         items:
           $ref: "#/definitions/Amendment"
         maxItems: 100
         minItems: 0
-  Chapter33EducationResponse:
+  EntitlementType:
     type: "object"
     required:
-    - "chapter33EducationInfo"
+    - "days"
+    - "months"
+    properties:
+      months:
+        type: "integer"
+        format: "int32"
+      days:
+        type: "integer"
+        format: "int32"
+  Chapter33EducationResponse:
+    type: "object"
     properties:
       messages:
         type: "array"
@@ -185,3 +206,6 @@ definitions:
           $ref: "#/definitions/Message"
       chapter33EducationInfo:
         $ref: "#/definitions/Chapter33Education"
+externalDocs:
+  description: "API Error Keys"
+  url: "ext-docs/education-error-keys.html"

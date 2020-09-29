@@ -1,0 +1,411 @@
+---
+swagger: "2.0"
+info: {}
+basePath: "/wss-ppiu-services-web/rest"
+tags:
+- name: "ppiuServices"
+paths:
+  /ppiuServices/v1/paymentInformation:
+    get:
+      tags:
+      - "ppiuServices"
+      summary: "Get C&P Payment Info"
+      description: "TODO: GET_CNP_PAYMENT_INFO_NOTES"
+      operationId: "getPaymentInfo"
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters:
+      - name: "paymentType"
+        in: "query"
+        required: false
+        type: "string"
+      responses:
+        "200":
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/PpiuResponse"
+        "400":
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        "500":
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        "403":
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+    post:
+      tags:
+      - "ppiuServices"
+      summary: "Update C&P Payment Info"
+      description: ""
+      operationId: "updatePaymentInfo"
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters:
+      - in: "body"
+        name: "body"
+        required: false
+        schema:
+          $ref: "#/definitions/PpiuUpdateRequest"
+      responses:
+        "200":
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/PpiuResponse"
+        "400":
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        "500":
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        "403":
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+  /ppiuServices/v1/restrictedRoutingNumbers:
+    get:
+      tags:
+      - "ppiuServices"
+      summary: "Get Restricted Routing Numbers"
+      description: ""
+      operationId: "getRestrictedRoutingNumbers"
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters: []
+      responses:
+        "200":
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/PpiuRoutingNumberResponse"
+        "400":
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        "500":
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        "403":
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+definitions:
+  PaymentInfoResponse:
+    type: "object"
+    required:
+    - "controlInformation"
+    - "paymentAccount"
+    - "paymentAddress"
+    - "paymentType"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+      paymentType:
+        type: "string"
+        enum:
+        - "CNP"
+      paymentAccount:
+        $ref: "#/definitions/EtfInformation"
+      paymentAddress:
+        $ref: "#/definitions/PpiuMailingAddress"
+      controlInformation:
+        $ref: "#/definitions/ControlInformation"
+  ServiceResponse:
+    type: "object"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+  PpiuMailingAddress:
+    type: "object"
+    required:
+    - "addressEffectiveDate"
+    - "addressOne"
+    - "type"
+    properties:
+      type:
+        type: "string"
+        description: "The type of address."
+        enum:
+        - "Domestic"
+        - "International"
+        - "Military"
+      addressEffectiveDate:
+        type: "string"
+        format: "date-time"
+        description: "The date the address became effective. Format: date or datetime."
+      addressOne:
+        type: "string"
+        description: "First street address line. Always required. Restricted by [-a-zA-Z0-9\
+          \ \\\"#%&'()+,./:@]{1,20}"
+      addressTwo:
+        type: "string"
+        description: "Second street address line. Always optional. Restricted by [-a-zA-Z0-9\
+          \ \\\"#%&'()+,./:@]{1,20}"
+      addressThree:
+        type: "string"
+        description: "Third street address line. Always optional. Restricted by [-a-zA-Z0-9\
+          \ \\\"#%&'()+,./:@]{1,20}"
+      city:
+        type: "string"
+        description: "The city. Required for Domestic and International; Optional\
+          \ for Military. Restricted by [-a-zA-Z0-9 \\\"#%&'()+,./:@]{1,20}"
+      stateCode:
+        type: "string"
+        description: "Abbreviated state code. Required for Domestic; N/A for International\
+          \ and Military. Restricted by /states API."
+        enum:
+        - "AL"
+        - "AK"
+        - "AZ"
+        - "AR"
+        - "CA"
+        - "CO"
+        - "CT"
+        - "DE"
+        - "FL"
+        - "GA"
+        - "HI"
+        - "ID"
+        - "IL"
+        - "IN"
+        - "IA"
+        - "KS"
+        - "KY"
+        - "LA"
+        - "ME"
+        - "MD"
+        - "MA"
+        - "MI"
+        - "MN"
+        - "MS"
+        - "MO"
+        - "MT"
+        - "NE"
+        - "NV"
+        - "NH"
+        - "NJ"
+        - "NM"
+        - "NY"
+        - "NC"
+        - "ND"
+        - "OH"
+        - "OK"
+        - "OR"
+        - "PA"
+        - "RI"
+        - "SC"
+        - "SD"
+        - "TN"
+        - "TX"
+        - "UT"
+        - "VT"
+        - "VA"
+        - "WA"
+        - "WV"
+        - "WI"
+        - "WY"
+        - "AS"
+        - "DC"
+        - "FM"
+        - "GU"
+        - "MH"
+        - "MP"
+        - "PW"
+        - "PR"
+        - "UM"
+        - "VI"
+        - "PI"
+      zipCode:
+        type: "string"
+        description: "Zip code. Required for Domestic and Military; N/A for International.\
+          \ Restricted by: \\\\d{5}"
+        pattern: "\\d{5}"
+      zipSuffix:
+        type: "string"
+        description: "Zip suffix code. Optional for Domestic and Military; N/A for\
+          \ International. Restricted by: -?\\\\d{4}"
+        pattern: "-?\\d{4}"
+      countryName:
+        type: "string"
+        description: "Country name. Optional for Domestic; Required for International;\
+          \ N/A for Military. Restricted by /countries API."
+        minLength: 3
+        maxLength: 50
+      militaryPostOfficeTypeCode:
+        type: "string"
+        description: "The military PO. Required for Military; N/A for Domestic and\
+          \ International."
+        enum:
+        - "APO"
+        - "FPO"
+        - "DPO"
+      militaryStateCode:
+        type: "string"
+        description: "The military state code. Required for Military; N/A for Domestic\
+          \ and International"
+        enum:
+        - "AA"
+        - "AE"
+        - "AP"
+    description: "A mailing address. An address can be one of three types: Domestic,\
+      \ International, or Military. For each type, various fields can be required,\
+      \ optional, or not applicable."
+  Message:
+    type: "object"
+    properties:
+      key:
+        type: "string"
+      text:
+        type: "string"
+      severity:
+        type: "string"
+        enum:
+        - "FATAL"
+        - "ERROR"
+        - "WARN"
+        - "INFO"
+  PpiuResponse:
+    type: "object"
+    required:
+    - "responses"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+      responses:
+        type: "array"
+        items:
+          $ref: "#/definitions/PaymentInfoResponse"
+        maxItems: 2147483647
+        minItems: 1
+  UpdateRequest:
+    type: "object"
+    required:
+    - "paymentAccount"
+    - "paymentType"
+    properties:
+      paymentType:
+        type: "string"
+      paymentAccount:
+        $ref: "#/definitions/EtfInformation"
+  ControlInformation:
+    type: "object"
+    properties:
+      canUpdateAddress:
+        type: "boolean"
+        default: false
+      corpAvailIndicator:
+        type: "boolean"
+        default: false
+      corpRecFoundIndicator:
+        type: "boolean"
+        default: false
+      hasNoBDNPaymentsIndicator:
+        type: "boolean"
+        default: false
+      isCompetentIndicator:
+        type: "boolean"
+        default: false
+      indentityIndicator:
+        type: "boolean"
+        default: false
+      indexIndicator:
+        type: "boolean"
+        default: false
+      noFiduciaryAssignedIndicator:
+        type: "boolean"
+        default: false
+      notDeceasedIndicator:
+        type: "boolean"
+        default: false
+      paymentAddressExistIndicator:
+        type: "boolean"
+        default: false
+      mailingAddressExistIndicator:
+        type: "boolean"
+        default: false
+    description: "Determines if the user can update their address. The canUpdateAddress\
+      \ indicator is the global flag for updatability. Updates are only allowed when\
+      \ all member variables of this object are 'true'."
+  EtfInformation:
+    type: "object"
+    required:
+    - "accountNumber"
+    - "accountType"
+    - "financialInstitutionRoutingNumber"
+    properties:
+      accountType:
+        type: "string"
+      accountNumber:
+        type: "string"
+      financialInstitutionRoutingNumber:
+        type: "string"
+      financialInstitutionName:
+        type: "string"
+  PpiuRoutingNumberResponse:
+    type: "object"
+    required:
+    - "routingNumbers"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+      routingNumbers:
+        type: "array"
+        items:
+          $ref: "#/definitions/RoutingNumberInfo"
+        maxItems: 2147483647
+        minItems: 1
+  RoutingNumberInfo:
+    type: "object"
+    properties:
+      accountNumber:
+        type: "string"
+      type:
+        type: "string"
+  PpiuUpdateRequest:
+    type: "object"
+    required:
+    - "requests"
+    properties:
+      requests:
+        type: "array"
+        items:
+          $ref: "#/definitions/UpdateRequest"
+        maxItems: 2147483647
+        minItems: 1
+externalDocs:
+  description: "API Error Keys"
+  url: "ext-docs/ppiu-error-keys.html"
