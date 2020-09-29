@@ -46,6 +46,7 @@ The URLs for MAP are:
 - Sandbox: https://vagovtest.mapsandbox.net
 - Staging: https://veteran.apps-staging.va.gov
 - Prod: https://veteran.apps.va.gov
+
 Each MAP environment will have a key pair associated with it.
 
  We may have to submit some design docs prior to accessing Staging. For internal MAP Apps an SDD must be submitted, like the one they have for GetCare.  We may or may not need one at this level of detail but Stephen Barrs thinks we should put something similar to this together as it will be something that they would like to see.
