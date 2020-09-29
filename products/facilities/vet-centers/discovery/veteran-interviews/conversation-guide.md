@@ -94,23 +94,23 @@ You have a friend, a fellow [Veteran, service member], who you’ve noticed has 
 
 ## Services critique: 
 
-We're going to look at your local Vet Center website together: [Facility locator](https://www.va.gov/find-locations)
+We're going to find your local Vet Center website together: [Facility locator](https://www.va.gov/find-locations)
 
   - What location should I enter?
   
    If none given: [Atlanta Vet Center Detail page](https://www.va.gov/find-locations/facility/vc_0304V)
   
-I'm going to choose, Vet Center as the facility type. Are you familiar with this website?
+I'm going to choose, Vet Center as the facility type. 
 
-Are you familiar with this website? Take a minute to look it over.
+- Are you familiar with this website? 
 
-- What do you think about the list of services on this page?  
+Take a minute to look it over the list of services on this page.  
 
 - Does this list match your experience and knowledge of a Vet Center? 
 
     - Is there any other information that you would want as part of these service listings?
 
-- Could any of the services be renamed or changed to be more reflective of your experience? 
+- Sould any of the services be changed or renamed to be more accurate of your experience? 
 
 If this website could be improved for you, as a regular visitor to a Vet Center, what would change?
 
@@ -138,7 +138,7 @@ If no experience with Vet Center:
 
  - What do you think a Vet Center is?
 
-I'm going to pull up a website and we're going to look at it together.
+I'm going to pull up a website to look at it together.
 
 **[SHARE SCREEN]**
 
@@ -152,21 +152,31 @@ Are you familiar with this website?  Take a minute to look it over. I'm happy to
 
 - Is there anything that you don't like on this page?
 
-I'm going to pull up another website and we're going to look at it together. 
+I'm going to pull up another website to look at it together.
 
 #### Scenario 
 
 Let's imagine that you just learned about Vet Centers and you want to know if there is a Vet Center near you. How would you go about finding out that information? 
 
-If, no suggestion is given:
 
-We're going to imagine that you live in Atlanta: [Show Vet Center Detail page](https://www.va.gov/find-locations/facility/vc_0304V)
+We're going to find your local Vet Center website together: [Facility locator](https://www.va.gov/find-locations)
+
+  - What location should I enter?
+  
+   If none given: [Atlanta Vet Center Detail page](https://www.va.gov/find-locations/facility/vc_0304V)
+  
+I'm going to choose, Vet Center as the facility type. 
+
+- Are you familiar with this website? 
+
+  If, no suggestion is given:
+  We're going to imagine that you live in Atlanta: [Show Vet Center Detail page](https://www.va.gov/find-locations/facility/vc_0304V)
 
 Take a minute to look at this page. Let's focus on this area here:
 
 - What kind of services would you find most useful? 
 
-    - Is there any other information about the services available at a Vet Center that you'd like to see?
+    - Is there any other information about the services available at this Vet Center that you'd like to see?
 
 - What would make you want to call or visit a Vet Center? 
 
@@ -183,7 +193,7 @@ Those are all the questions that I had for you today.
 
 ## Thank-You and Closing 
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to improve our products and services for Veterans and service members.
+Well we really appreciate your taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to improve our products and services for Veterans and service members.
 
 Great, well thank you so much again, and enjoy the rest of your day!
 
