@@ -28,3 +28,13 @@ __Question still TBD__
 - User error states: experience and messaging when a LC search brings back zero results. (I think Beth Potts has already provide a draft of this message somewhere.)
 
 __Other questions?__ 
+
+John Hashimoto suggested additions:
+
+**Technical & UX**
+- The user-inputted search term (e.g. service dogs) should be persistent in the search box when the user toggles between Search LC & Search VA.gov
+
+**Metrics for LC Search Experience** - the following should be tracked for insights, given the unique experience on VA.gov of searching a directory or collection of content
+- How often are users utilizing LC search vs. VA.gov search (e.g. toggling)?
+- How effective is LC search in addressing users needs -- e.g. click-through rate on LC search results page vs. VA.gov search page?
+- How often is Search used on the article page?
