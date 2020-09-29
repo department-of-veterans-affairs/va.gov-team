@@ -1,3 +1,16 @@
+### 9/29 Update
+- As time/capacity allows (balancing #1 PW priority Learning Center and Iris), Liz is continuing to work on UX comps and Content documentation to detail changes and enhancements -- with focus on Disability and Education.
+
+  - Wizard migration - create consistent alerts, and provide messaging to indicate where the user is going across wizards va.gov-team #13379
+  - Wizard migration - UX deliverables for education flow va.gov-team #13374
+  - Write documentation for teams implementing wizard migration effort va.gov-team #13375
+  - Wizard migration - UX deliverables for disability flow va.gov-team #13378
+  - Wizard migration - UX deliverables for Chap 31 and Chap 36 va.gov-team #13381
+  - Wizard migration - UX deliverables for HLR form va.gov-team #13382
+
+ -  Ideally, user testing with veterans will be conducted prior to launch (or after launch) to validate key assumptions as [outlined here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/discovery/research/wizard-research-plan.md)
+ - In order to conduct upfront testing, we will need resource help -- either from a new UX/Researcher who is expected to join the Public Websites team in Oct-Nov timeframe or via another team involved in Wizard development (Liz to see if BAM 2/Education team can be of assistance).
+
 ### 9/10 Update
 
 - John made Jen Lee aware that Platform review will result in more design/content work; we now need to determine if Liz has capacity and priority to tackle this effort in current or next PW sprint.
