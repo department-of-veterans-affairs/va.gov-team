@@ -18,13 +18,13 @@ When referencing various data sources related to the Learning Center MVP 1.0/1.1
 <summary>Requirements</summary>
 
 ### Search
-* As a Veteran, I need to search for LC articles so I can find more information about a benefit or service I'm interested in.  
-  - Search experience that gives Veterans search results to legacy tier 2 content in support of veterans, caregivers, school administrators, VSOs, VA loan       appraisers, etc. 
+* As a Veteran or beneficiary, I need to search for LC articles so I can find answers to questions I have about the site or about VA services or benefits. As a non-beneficiary who works with Veterans (like VSOs, fiduciaries), I want to find answers to questions I have about what I need to do in order to do my job (e.g., how to apply to become a fiduciary). 
+  - Search experience that gives Veterans search results to legacy tier 2 content in support of veterans, caregivers, school administrators, VSOs, VA loan appraisers, etc. 
   - [User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/pw-learning-center-takeaways-mvp-roadmap-082820.pptx)
   - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13983)
 ### Articles lists 
 * As a Veteran and or Veteran caregiver, I need an relevant article list that guides me to content that appeals and is interesting to me. 
-  - Article lists should help users self-resolve VA.gov issues/questions that span benefits or that are agnostic of benefit issues. Intent is to funnel users to Tier 1 beneifits hubs for applying and managing benefits. 
+  - Article lists should help users self-resolve VA.gov issues/questions that span benefits or that are agnostic of benefit issues. Intent of article lists (by category or tag) is to funnel users to the articles within that category or tag. 
   - [User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/view-all-articles-in-X-category-landing-pg-requirements.md)
   - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14114)
 ### Templates
@@ -32,14 +32,15 @@ When referencing various data sources related to the Learning Center MVP 1.0/1.1
   - The design of the learning center pages should make it easy to navigate and find information for primary users and caregivers. Visuals add to the UX and ease the process for visual learners. 
   - [User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#specific-lc-content-template-types)
   - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12365)
-### Content
-* As a Veteran content should point me to Tier 1 benefit tools and resources (eligibility, enrolling, filing, creating an account, signing in to do manage tasks) in order to save me time. 
-  - Provide contextual content access points in unauthenticated and authenticated product experiences, but only if it’s truly relevant and related information.  All learning content should send people TO tier 1 benefit tools and content (eligibility, enrolling, filing, creating an account, signing in to do manage tasks). 
+### Tier 2 learning/support content
+* As a Veteran, the learning center content should 1) answer my specific question, and 2) when relevant, point me to Tier 1 benefit tools or to eligibility, enrolling, filing, creating an account, signing in to do manage tasks. 
+  - Provide contextual content access points in unauthenticated and authenticated product experiences, but only if it’s truly relevant and related information.  All learning content should send people TO related tier 1 benefit hub. (EX: via the VA benefit hub component on all articles) 
   - [User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#frontend-content-tags)
   - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12933)
 ### Tags
-* As a Veteran, I wanted to browse, explore and discover VA services in a fun and engaging way through learning center tags.   
-  - Adapting content tags will encourage UX behavior to browse, explore and enagage with content they otherwise wouldn't through legacy search options. Tags are not meant to be a substitute search in the learning center, but a way of filtering the ocean into a lake. Content relevance based on keyword-driven search will be the primary way users can quickly find content in the learning center.
+* As a Veteran, I wanted to browse, explore and discover VA information in an engaging way through content tags.   
+  - Adapting content tags will encourage UX behavior to browse, explore and enagage with content they otherwise wouldn't through the learning center categories. Tags are not meant to be a substitute search in the learning center, but a way of filtering the ocean into a lake. Content relevance based on keyword-driven search will be the primary way users can quickly find content in the learning center.
+  - Example of a tag vs. category: Some "claims and appeals status" tagged article might live in the Disability category or Health care or Pension, etc. 
   - [User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/view-all-articles-in-X-category-landing-pg-requirements.md)
   - [FE Content Tag Requirements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#frontend-content-tags)
   - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11491) 
@@ -47,7 +48,7 @@ When referencing various data sources related to the Learning Center MVP 1.0/1.1
 </details>
 
 ### Designs 
-[Murial Mock Ups](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1588167553516/2773c854e8ff3a725a5e3ee03272b78e8519f78b) 
+[Mural Mock Ups](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1588167553516/2773c854e8ff3a725a5e3ee03272b78e8519f78b) 
 
 Tags: Audience and Topics
 
@@ -64,9 +65,11 @@ Content tags:
 Templates for Oct launch:
 
 - LC homepage
-- LC search results +  ‘view all X articles’ landing page
+- LC search results (dynamic page driven by search.gov)
+- ‘all articles in: Xcategory’ landing page (static FE page)
+- 'all articles tagged: Ytag' landing page (static FE page)
 - Multiple FAQs 
-- Single Q&A
+- Single Q&A ("Question and answer")
 - Step-by-step
 - About
 
@@ -76,7 +79,7 @@ Reusable FAQs infrastructure
 
 Finish manual migration of IRIS FAQs content into LC with:
 
-- Additional audience and topic categories
+- Additional audience and topic categories. [Complete list of LC categories for mvp 1.1 state](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#learning-center-categories)
 - Was this helpful component data integration with Google Analytics
 - LC add to IA
 

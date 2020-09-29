@@ -104,9 +104,9 @@ I'm going to choose Vet Center as the facility type.
 
 - Are you familiar with this website? 
 
-Take a minute to look it over the list of services on this page.  
+Take a minute to look it over. Let's focus on the list of services on this page.  
 
-- Does this list match your experience and knowledge of a Vet Center? 
+- How does this list compare to your experience and knowledge of a Vet Center? 
 
     - Is there any other information that you would want as part of these service listings?
 
@@ -174,9 +174,15 @@ I'm going to choose, Vet Center as the facility type.
 
 Take a minute to look at this page. Let's focus on this area here:
 
+- What can you tell me about the different services?
+
 - What kind of services would you find most useful? 
 
     - Is there any other information about the services available at this Vet Center that you'd like to see?
+    
+- Are there other services that you don't see on this list that you'd like to see?
+
+- Is there any other information that you don't see on this page that you would find helpful?
 
 - What would make you want to call or visit a Vet Center? 
 
