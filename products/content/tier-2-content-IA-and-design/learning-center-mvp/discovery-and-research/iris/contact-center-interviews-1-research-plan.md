@@ -101,8 +101,8 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development (usually but not always same as moderator): Liz Lantz
 - Participant recruiting & screening: Chante Lantos-Swett
 - Project point of contact: Liz Lantz
-- Note-takers: TBD
-- Invited observers:  Jen Lee, Chante Lantos-Swett, Danielle Thierry, Beth Potts, Laura Walsh, Randi Hecht, Oksana Cyrus, Ryan Thurlwell
+- Note-takers: Laura Walsh
+- Invited observers:  Jen Lee, Chante Lantos-Swett, and Beth Potts
 
 ## Resources	
 
