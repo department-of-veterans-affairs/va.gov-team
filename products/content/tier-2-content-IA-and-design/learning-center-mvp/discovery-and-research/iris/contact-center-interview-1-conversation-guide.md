@@ -4,7 +4,7 @@
 
 Thanks for joining us today! My name is Liz and I also have some colleagues on the line observing and taking notes. I'm part of a team that is working on a new VA.gov product that will help Veterans find answers to questions they have about their VA benefits, account, records - all kinds of topics.
 
-I've invited you here today as part of a study to better understand the current content processes different contact center content teams have. We want to understand how customer service content is created and maintained today. Though we're especially interested in the processes for the public Veteran-facing IRIS articles, we'd also find it helpful to understand what the process is for internal scripts that support contact center reps, if they're different than the process for customer facing content.  
+I've invited you here today as part of a study to better understand the current content processes different contact center content teams have. We want to understand how customer service content is created and maintaned today. Though we're especially interested in the processes for the public Veteran-facing IRIS articles, we'd also find it helpful to understand what the process is for internal scripts that support contact center reps, if they're different than the process for customer facing content.  
 
 My hope is that by the end of this hour together we'll have an understanding of: 
 
@@ -17,7 +17,7 @@ In better understanding what your current user journey is today, we hope to use 
 Before we start, there are a couple of things I want to mention:
 
 - **We have an hour together today.** I want to be sure not to keep you much longer, so I may occasionally move us along to the next topic.
-- **In this session, we want to hear about your experience and opinions.** There's no right or wrong, and I'm here to learn from you.  I will not be offended by any opinions you express, and I welcome any feedback you'd like to share.
+- **In this session, we want to hear about your experience and opinions.** There's no right or wrong, and I'm hear to learn from you.  I will not be offended by any opinions you express, and I welcome any feedback you'd like to share.
 
 **Do you have any questions at this point?**
 
@@ -31,7 +31,7 @@ Before we start, there are a couple of things I want to mention:
 
 ## Introductions
 
-Chante passed along your names to me, but I don't know much more beyond that! I'd love to learn more about each of your roles and how they relate to content. I can start and we'll just go around the virtual room.  
+Chante passed along your names to me, but I don't know much more beyond that! I'd love to learn more about each of your roles and how they relate to content. I can start and we'll just go around the virtual room.  I'm going to take notes on a Mural board; I'll go ahead and share my screen.
 
 My name is Liz Lantz, and I'm the UX Designer and Researcher for the Public Websites team on VA.gov. My team handles all the content on the site you can see without logging in. My role in the content creation and management process is primarily to design templates used by content creators, and conduct research to inform those designs and help our team better understand content workflows.
 
@@ -45,10 +45,10 @@ My name is Liz Lantz, and I'm the UX Designer and Researcher for the Public Webs
 
 Thanks so much for sharing that. Now that I know how each of you contribute to content creation, and your role, I want to dig in to learn more about your team, or teams. 
 
-- Who is part of the content process that isn't in this meeting today? 
+- Is there anyone who is part of the content process that isn't in this meeting today? 
 - What are they responsible for? 
 
-- Are there other people you work on content with that we haven't talked about yet? Business stakeholders?
+- Are there other people who are part of the content process that we haven't talked about yet? Business stakeholders?
 
 *If it isn't already obvious, ask*:
 
