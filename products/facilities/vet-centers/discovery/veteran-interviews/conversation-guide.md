@@ -36,11 +36,11 @@ Before we get started, I want to give you an idea of what this call will be like
 
   - If no, see “Contingency Plan” 
 
+- How did you first learn about them? 
+
+    - When did you first learn about Vet Centers? 
+
 - What has been your experience with a Vet Center, if any? 
-
-- When did you first learn about Vet Centers? 
-
-  - How did you first learn about them? 
 
 - Before you first visited, how did you go about finding the location of your Vet Center? 
 
@@ -64,7 +64,9 @@ Before we get started, I want to give you an idea of what this call will be like
 
 - Have you visited more than one Vet Center? 
 
-  - If yes, do these Vet Centers differ in any way or do you prefer one over the other? 
+If yes:
+
+   - How do they differ or compare? 
   
 ## A client’s concept of a Vet Center: 
 
