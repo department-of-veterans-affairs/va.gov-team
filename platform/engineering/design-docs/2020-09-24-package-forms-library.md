@@ -41,13 +41,15 @@ _A diagram showing how the major components communicate is very useful and a gre
 
 _Most diagrams will need to be updated over time as the design evolves, so please create your diagrams with a program that is easily (and freely) available and attach the diagram source to the document to make it easy for a future maintainer (who could be you) to update the diagrams along with the document._
 
-**TODO: Add diagram**
 
 The forms library will be consolidated into a single place and bundled as a Node package.
 This will allow VFS teams to import it as if it were any other Node module.
 
 This change should not have a noticeable functional impact on individual app teams.
 Towards the end the only change that should be made on the app side of things is changing where forms library code/styles are imported from.
+
+<!-- The source for this diagram is the `*.odg` file in the same directory, a LibreOffice Draw doc-->
+![Forms library bundling](images/forms-library-package/forms-library-package.svg)
 
 ## Specifics
 
