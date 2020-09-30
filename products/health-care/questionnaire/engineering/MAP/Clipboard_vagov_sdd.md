@@ -169,16 +169,16 @@ The following are a list of requests that are made by the Get Care Mobile applic
 
 | **Question**                                                                                                              | **YES** | **NO** | **Comment - explain why you are using non-standard technologies** |
 | :------------------------------------------------------------------------------------------------------------------------ | :-----: | :----: | :---------------------------------------------------------------: |
-| Are you using any technologies that are not on this page<br> https://wiki.mobilehealth.va.gov/display/DevHelp/Tech+Stack? |    X    |        |             ToDO: Description of vets-api tech stack              |
+| Are you using any technologies that are not on this page<br> https://wiki.mobilehealth.va.gov/display/DevHelp/Tech+Stack? |    X    |        |             vets-api is built on the Rails platform and utilzes Ruby as part of this service layer               |
 | Are you planning to use up to date versions?                                                                              |    X    |        |                                                                   |
 
 ### Additions / Deviations from Tech Stack
 
-//TODO - Elaborate on vets-api tech stack
+The Clipboard application is being built as part of the va.gov / vets-api platform and thus conforms to the tech stack associated with those platforms.  Notably, Rails is the framework supporting vets-api and is not part of the MAP tech stack linked above.  
 
 ## Logical Persistence Model :
 
-TODO If we are storing any data in Redis or another data store, maybe for mappiong appointment type/facility ID to Questionnaire ID, then describe it here.
+Redis is used as a temporary store for corelation of user session UUID with the MAP JWT
 
 ## Physical Design Perspective :
 
