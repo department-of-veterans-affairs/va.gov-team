@@ -3,7 +3,7 @@
 ## Goals	
 This research is to usability test a mobile and desktop version of the upcoming appointment questionnaire design and gain feedback on the content/wording within the questionnaire. 
 
-**Background**
+**Background**<br/>
 Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners. Our MVP will focus on improving the pre-appointment experience when visiting primary care providers.
 
 **Research questions**
