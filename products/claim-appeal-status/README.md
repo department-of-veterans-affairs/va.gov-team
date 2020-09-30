@@ -56,7 +56,7 @@ Our focus will be to incrememntally update the application (not just low hanging
 ### Expected Work
 This is based on our research findings, call center reports, and NCC requests. We will vet this list with our stakeholders.  This is not currently in prioritized order.
 
-1. Adding improved messaging around status
+#### 1. Adding improved messaging around status
 - Discovery
   - This is not a deeper integration with VBMS for more status data.  This is providing some improved wording when (as an example) the status reverts back to a previous state. Some additional information can likely reduce confusion and the need to seek call center support.
   - Find out if there is anything else in the metadata coming back from the currrent endpoints
@@ -67,7 +67,7 @@ This is based on our research findings, call center reports, and NCC requests. W
 - Includes UI design as well
   - Hi-fi designs
 
-2. Adding better features around document viewing/downloading 
+#### 2. Adding better features around document viewing/downloading 
 - Discovery
   - Chat with Ebenefits team (Jason Wolf) and connect with the right person in ebenefits platform to determine tech feasibility
   - Find out where data comes from
@@ -77,7 +77,7 @@ This is based on our research findings, call center reports, and NCC requests. W
 - Includes UI design as well
   - Hi-fi designs
 
-3. Exam scheduling integration 
+#### 3. Exam scheduling integration 
 - Discovery
   - Reach out to exam scheduling team and find out what API access we may have
   - Determine if it is better to integrate into the CST or just send veterans to the exam scheduling application
@@ -86,7 +86,7 @@ This is based on our research findings, call center reports, and NCC requests. W
   - Hi-fi designs
 - Include UAT testing
 
-4. Deeper data integrations
+#### 4. Deeper data integrations
 - Discovery
   - What other data or endpoints is there that we are not looking at?  Does BGS offer more information?  Can we talk to VBMS about creating different endponts?
   - Is this information overload? Does it help the veteran to know even MORE about their status?
@@ -95,7 +95,7 @@ This is based on our research findings, call center reports, and NCC requests. W
   - Hi-fi designs
 - Include UAT testing
 
-5. Time-to-decision or time-to-next-step
+#### 5. Time-to-decision or time-to-next-step
 - Discovery
   - As timing data has been removed, how do we bring it back in?  Research has shown that timing data is ciritical to veteran experience.
   - Who owns the timing data?  Who owns the "timing" algorithms?
