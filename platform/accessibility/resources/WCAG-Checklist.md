@@ -19,10 +19,16 @@ For an overview of WCAG, and distinctions between 2.0, 2.1, and 2.2, please see 
 ## What is Section 508?
 
 * Section 508 is the U.S. federal mandate for accessibility compliance. 
+
     * Section 508 is not part of the Americans with Disabilities Act of 1990 (ADA). That is a different law. 
+    
     * Section 508 is an amendment to the Rehabilitation Act of 1973. 
+    
     * In 1998 the US Congress amended the Rehabilitation Act to require Federal agencies to make their electronic and information technology accessible to people with disabilities. Section 508 was enacted to eliminate barriers in information technology, to make available new opportunities for people with disabilities, and to encourage development of technologies that will help achieve these goals. Source: [The ADA and Section 508](https://508compliantdocumentconversion.com/americans-with-disabilities-act/)
+    
     * **All products and services purchased or created with federal money MUST be 508-compliant.** 
+    
+    * **Section 508 = WCAG 2.0**
 
 * The [Plain Writing Act of 2010](https://plainlanguage.gov/law/) includes requirements to ensure **content is accessible**.
     
