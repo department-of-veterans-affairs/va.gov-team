@@ -73,6 +73,7 @@ That is all really helpful information, thanks for sharing all of that! Let's ta
 - Where is your content published? Internal KM, external, IRIS, etc?
 - Can you describe the publishing process? Is it the same author who created the content, or someone in a different role?
 - How does that process change for different types of content, such as internal scripts for contact center reps?
+- How do you organize content? (IA)
 
 #### Post-creation processes
 
