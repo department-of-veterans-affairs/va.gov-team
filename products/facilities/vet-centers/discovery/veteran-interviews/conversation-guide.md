@@ -18,7 +18,7 @@ Before we get started, I want to give you an idea of what this call will be like
 - **This session is going to resemble an interview where I will ask you many questions about your experience with Vet Centers.** There are no right or wrong answers, this is purely to understand actual client experiences. If at any time you don't feel comfortable answering a question, we can move on to the next question. 
 - **Later, I'll share my screen and we'll look at a website together and I will ask for your opinion on certain items.** 
 - **In this session, we want to hear your honest opinions.** We are not testing you, instead we are testing our products and services to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- This session will be recorded to confirm that I have captured your opinions accurately. The recordings are destroyed after the call is analyzed, and none of your comments will be attributed to you directly. **Are you comfortable if I record my screen and audio as we talk today?** 
+- This session will be recorded to ensure that I capture your opinions accurately. The recordings are destroyed after the call is analyzed, and none of your comments will be attributed to you directly. **Are you comfortable if I record my screen and audio as we talk today?** 
     - If yes: **Once I start recording, I will ask again to confirm that you're ok with me recording this session so that it's captured in the recording.** 
 
 ###### Start recording to the Cloud
