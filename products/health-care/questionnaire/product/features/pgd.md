@@ -17,11 +17,6 @@
 
  5.  Questionnaire is saved as a clinical note or discrete data so the clinical care team can easily view in preparation, during, or after the visit. 
 
-## Definition of done
-
-- [ ] #12406 - [BE] Spike for VAMF using smart-fhir-PGD
-
-
 > As a Veteran, ...
 > As an administrator of the MAP PGD, I need to understand what data fields will be captured by the Clipboard application, and how those data fields will be mapped to FHIR Questionnaire/Questionnaire Response Resources so I can confirm compliance with FHIR and PGD specifications. Additionally, I need to know if any discreet data being captured should also be stored in other relevant FHIR Resources in PGD.
 
@@ -110,7 +105,6 @@
 
 ## OKR's
 
-
 ---
 ## Issue Tracking 
 
@@ -118,6 +112,8 @@
 | ---------------------------------------------------| ---------- |  ---------    | ---------      | ---------       | --------- | ----- | 
 |[Visit Intro Initiative (Proof of Concept)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/visit-intro.md)| [#12102](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12102) |  -   | - | - |Q3 2020| N |
 |[Feature Outline- Patient Generated Data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/pgd.md) | [#12172](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12170) |  -   | - | - |Q3 2020| N |
+|BE- Spike for VAMF using smart-fhir-PGD | [#12406](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12406) |  -   | - | - |Q4 2020| N |
+
 
 * Instructions to access in Staging
 _Note: credentials should be stored in sensitive repos only_
