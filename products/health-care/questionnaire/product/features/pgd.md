@@ -31,7 +31,7 @@
 
 ## Product Features
 
-### FHIR Mapping to GetCare Questionnaire
+### FHIR Mapping to GetCare Questionnaire - see tech documentation below for MAP fields used for reference
 1. **reason** - What is the reason for this appointment? 
    - Questionnaire field = Are there any additional details you'd like to share with your provider about this appointment?
 2. **otherConcerns** - Do you have other concerns or life issues to discuss? 
@@ -44,6 +44,8 @@
 <img src="https://lh4.googleusercontent.com/SqKG7LYfCH1t3OvNWQIu1PtZAjFMtTsGYavm_qJdZKOydbaJ69SNRr7Zj9CHce-zExeCH2_zL5CAx0flntQfmG80NKO-GN_5NDnZWKBYUiLFmhdf06gAwrX-vZUxltjqXKELJHbK" width="500">
 
 # Technical Documentation 
+- [va.gov Clipboard System Design Document (SDD)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/engineering/MAP/Clipboard_vagov_sdd.md)
+- [Clipboard Fhir Mapping v1.0.xlsx](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/data/Clipboard%20Fhir%20Mapping%20v1.0.xlsx)
 
 ## Accessibility Checklist
 
