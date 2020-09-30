@@ -1,7 +1,7 @@
 # Research Plan for Usability Testing the MVP Upcoming Appointment Questionnaire October 2020 
 
 ## Goals	
-This research is to usability test the proposed mobile and desktop design of the upcoming appointment questionnaire and gain feedback on the content/wording within the questionnaire. 
+This research is to usability test a mobile and desktop version of the upcoming appointment questionnaire design and gain feedback on the content/wording within the questionnaire. 
 
 **Background**
 Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners. Our MVP will focus on improving the pre-appointment experience when visiting primary care providers.
@@ -15,20 +15,21 @@ Our goal is to improve the in-person and online pre- and post-appointment experi
 - There will be minimal confusion created by the content and question wording within the questionnaire. 
 
 ## Method	
-We will conduct remote moderated usability testing via Zoom using the Perigean contract. This method will allow us to share a high-fidelity wireframe prototype (mobile and desktop) to confirm if our questionnaire is easily usable by Veterans.
+We will conduct remote moderated usability testing via Zoom using the Perigean contract. This method will allow us to share a high-fidelity wireframe prototype (mobile and desktop versions) to confirm if our questionnaire is easily usable by Veterans.
 
 ## Participants and Recruitment
 
-Recruit for 12 fulfilled sessions (6 for desktop version of the test and 6 for mobile version of the test) using the following criteria:
+Recruit for 12 fulfilled sessions (6 for the desktop version and 6 for the mobile version of the test) using the following criteria:
 _Amanda, Lacey and Ming - I know that we discussed 12 as a number for recruitment, but what are your thoughts on 5 per desktop/5 per mobile? Even if we ended up with 3 on desktop and 3 on mobile - that would still tell us a lot._
 
 **Must have for participants**
 - Have you visted a primary care provider at the VA in the last year? (pass = yes)
 	- If confused by the term "primary care provider," explain that a primary care provider is your main doctor, nurse practitioner, or physician’s assistant.
 	- _Question to Amanda, Lacey, and Ming (or anyone who might know the answer to this): If primary care provider visits would be too difficult to recruit for, then we could change it to any medical appointment in the last 6 months. Thoughts? I don't know how hard it would be to recruit for that criteria._
-- Half (6) must have a mobile device and be willing to be complete the test on said device
 
 **Good to have for participants**
+- At least one iOS mobile device owner
+- At least one Android mobile device owner
 - At least 1 woman
 - At least 1 person of color
 - At least 1 participant 35 or under and 1 participant over 55
@@ -37,10 +38,10 @@ _Amanda, Lacey and Ming - I know that we discussed 12 as a number for recruitmen
 - At least one person who lives in a rural or remote area
 - At least one person who lives in a major metropolitan area
 - At least one person with a disability rating of 70% or greater
-- At least one iOS mobile device owner
-- At least one Android mobile device owner
 
 **Recruitment requirements**
+- Half (6) must have a mobile device and be willing to be complete the test on said device
+- Half (6) must have a laptop/desktop and be willing to be complete the test on said device
 - The participants have Zoom downloaded prior to the session
 - The participants know how to screenshare
 
@@ -49,7 +50,7 @@ _Amanda, Lacey and Ming - I know that we discussed 12 as a number for recruitmen
 ## Timeline 	
 #### Desired Timeline: October 12-16, 2020 
 One hour sessions
-_Amanda, Lacey, and Ming: Anyone open to evening (ET time) sessions so we can capture some Veterans who work during the day?_
+_Amanda, Lacey, and Ming: Anyone open to evening (ET time) sessions so we can capture some Veterans who work during the day or other time zones?_
 
 Team Availability | Time (EST)
 ------------------|--------------
