@@ -140,10 +140,10 @@
           <g>
            <defs>
             <linearGradient id="gradient1" x1="8420" y1="4556" x2="8420" y2="10906" gradientUnits="userSpaceOnUse">
-             <stop offset="0.5" style="stop-color:rgb(161,161,161)"/>
-             <stop offset="0.5" style="stop-color:rgb(161,161,161)"/>
-             <stop offset="1" style="stop-color:rgb(161,161,161)"/>
-             <stop offset="1" style="stop-color:rgb(161,161,161)"/>
+             <stop offset="0.5" style="stop-color:rgb(204,204,204)"/>
+             <stop offset="0.5" style="stop-color:rgb(204,204,204)"/>
+             <stop offset="1" style="stop-color:rgb(204,204,204)"/>
+             <stop offset="1" style="stop-color:rgb(204,204,204)"/>
             </linearGradient>
            </defs>
            <path style="fill:url(#gradient1)" d="M 6206,4556 L 10635,4556 10635,10906 6206,10906 6206,4556 Z"/>
@@ -250,10 +250,10 @@
           <g>
            <defs>
             <linearGradient id="gradient2" x1="13369" y1="4556" x2="13369" y2="10906" gradientUnits="userSpaceOnUse">
-             <stop offset="0.5" style="stop-color:rgb(179,179,179)"/>
-             <stop offset="0.5" style="stop-color:rgb(179,179,179)"/>
-             <stop offset="1" style="stop-color:rgb(179,179,179)"/>
-             <stop offset="1" style="stop-color:rgb(179,179,179)"/>
+             <stop offset="0.5" style="stop-color:rgb(204,204,204)"/>
+             <stop offset="0.5" style="stop-color:rgb(204,204,204)"/>
+             <stop offset="1" style="stop-color:rgb(204,204,204)"/>
+             <stop offset="1" style="stop-color:rgb(204,204,204)"/>
             </linearGradient>
            </defs>
            <path style="fill:url(#gradient2)" d="M 11032,4556 L 15707,4556 15707,10906 11032,10906 11032,4556 Z"/>
