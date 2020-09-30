@@ -150,7 +150,7 @@ When the user has completed the form in the Clipboard Application and tapped Sub
 
 ![](diagrams/postQuestionnaireResponse.png)
 
-The following are a list of requests that are made by the Get Care Mobile application:
+The following are a list of requests that are made by the Clipboard Mobile application:
 
 | **Endpoint Called**                                                             | **HTTP Action** | **Mobile/External Service** | **Description**                                                                                                                          |
 | :------------------------------------------------------------------------------ | :-------------- | :-------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
