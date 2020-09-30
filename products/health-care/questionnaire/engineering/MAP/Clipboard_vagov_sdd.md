@@ -27,9 +27,9 @@ Use Cases:
 
 - When an authenticated Veteran navigates to the Clipboard application on va.gov, a list of outstanding Questionnaires will be displayed. Selecting a Questionnaire will launch a form for the Veteran to complete the Questionnaire. The Veteran will also have an option to view past history of completed Questionnaire Responses.
 
-- Partner applications may utilize the Clipboard application to provide a link to a Questionnaire within the partner application. This link will contain the necessary information to launch the correct Questionnaire for the Veteran to complete.
+- Partner applications may utilize the Clipboard application to provide a link to a Questionnaire within the partner application. This link will contain the necessary information to launch the correct Questionnaire for the Veteran to complete. If the Veteran has not been authenticated they will be directed to the logon workflow on va.gov and then redirected to the Questionnaire.
 
-- TODO
+- TODO other use cases?
 
 This is the initial relase of the application, V1 of the Clipboard application on va.gov.
 
@@ -91,7 +91,8 @@ All data elements persisted in smart-pgd-fhir will have the [Clipboard Provenanc
 
 ## Component View
 
-- **Clipboard va.gov web application** - The subject of this SDD.
+- **Clipboard va.gov web application** - The user facing web application that is the subject of this SDD.
+- **Vets-api middleware** - The service layer providing abstraction between va.gov and external systems
 - **User Service** - The User Service is a microservice that operates on the current user session; providing login/logout cababilities. User-Service will be used to facilitate the exchange of a va.gov token for a MAP JWT.
 - **API Gateway** - The API Gateway is a customized Nginx-openresty based solution that enables the Mobile NextGen architecture to create a microservice-based architecture.
 - **Mobile Appointment Service** - The Mobile Appointment Service is a microservice that is used to retrieve patient appointment information (used to create Appointment Pre-Visit Agendas).
@@ -103,12 +104,26 @@ All data elements persisted in smart-pgd-fhir will have the [Clipboard Provenanc
 
 The Clipboard Application utilizes existing credentialing workflows on va.gov. Once the user is authenticated a Token is sent on the users behalf to the MAP user-service [JWT Exchange workflow](https://coderepo.mobilehealth.va.gov/projects/IUMS/repos/user-service/browse/docs/externalJwtExchange.md). The validated JWT is returned to vets-api and used for all subsequent calls to MAP resources. More information on the authentication and authorization workflow is available in the [va.gov authentication flow description document](vaos_vagov_authFlow.md).
 
-//TODO How is the JWT stored? is this in Redis? How do we map the users current sesssion to the JWT? How long does it persist?
+
+The MAP JWT is stored in a secure Redis instance and corelated to the authenticated user with a UUID:
+```Ruby
+module HealthQuest
+  class SessionStore < Common::RedisStore
+    redis_store REDIS_CONFIG[:va_mobile_session][:namespace]
+    redis_ttl REDIS_CONFIG[:va_mobile_session][:each_ttl]
+    redis_key :account_uuid
+    attribute :account_uuid, String
+    attribute :token, String
+  end
+end
+```
+
+//TODO How long does JWT persist in Redis?  What happens to that when a user logs out?
 
 ![](diagrams/JWT_Exchange.png "Figure 2 - Auth Diagram")
 
 **Logout**
-
+//TODO Will we really call user-service/logout or will we just invalidate/remove the MAP JWT?  What does VAOS do?
 To logout, the Clipboard Application simply calls the logout endpoint on user service.
 
 ![](diagrams/Clipboard_logout.png "Figure 3 - Logout Diagram")
