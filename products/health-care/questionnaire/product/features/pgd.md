@@ -23,6 +23,7 @@
 
 
 > As a Veteran, ...
+> As an administrator of the MAP PGD, I need to understand what data fields will be captured by the Clipboard application, and how those data fields will be mapped to FHIR Questionnaire/Questionnaire Response Resources so I can confirm compliance with FHIR and PGD specifications. Additionally, I need to know if any discreet data being captured should also be stored in other relevant FHIR Resources in PGD.
 
 * **Use Case:** Veterans need the ability 
 
@@ -30,11 +31,17 @@
 
 ## Product Features
 
-
-
+### FHIR Mapping to GetCare Questionnaire
+1. **reason** - What is the reason for this appointment? 
+   - Questionnaire field = Are there any additional details you'd like to share with your provider about this appointment?
+2. **otherConcerns** - Do you have other concerns or life issues to discuss? 
+   - Questionnaire field = Are there any other concerns or changes in your life that are affecting you or your health? 
+3. **talkingPoints** -  What do I want to talk about at this appointment?
+   - Questionnaire field = Do you have a question you want to ask your provider?  Please enter your most important quesition first. 
+   - **??? see mockup this field can have multiple questions entered seperately so is that possible with the GetCare mapping to 1 field as we would need 1-many of our questions mapped to their single.** 
 
 ## Mockup
-<img src="insertimage embedded" width="500">
+<img src="https://lh4.googleusercontent.com/SqKG7LYfCH1t3OvNWQIu1PtZAjFMtTsGYavm_qJdZKOydbaJ69SNRr7Zj9CHce-zExeCH2_zL5CAx0flntQfmG80NKO-GN_5NDnZWKBYUiLFmhdf06gAwrX-vZUxltjqXKELJHbK" width="500">
 
 # Technical Documentation 
 
