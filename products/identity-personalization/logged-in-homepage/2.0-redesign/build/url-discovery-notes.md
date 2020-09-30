@@ -1,3 +1,7 @@
+# URL discovery notes
+
+**Goal**: Learn more about how other sites handle having a logged-in and logged-out version of the homepage at the same URL
+
 We scoured the web to find out how other major sites handle changing the home page contents after logging in. There wasn't a whole lot to learn from our investigations:
 
 - Most sites redirect from the home page after logging in. And if you go back to the home page after logging in, you are again prompted to log in.
