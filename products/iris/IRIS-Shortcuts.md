@@ -21,7 +21,7 @@ VA design system for forms - if you want to see how pages look but don't want to
 - [VA Form Builder](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms)
 - [VA Staging test accounts](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts.md)
 - [UX status sheet](https://docs.google.com/spreadsheets/d/1td1GcNVYvYPqzfV7MwhFHeswqOwt7ACdJMtn0MmfXrM/edit#gid=0) - UX work (preflight checklist for UX, feedback, potential usability areas etc. (for TW team - Google Docs)
-- [Mindmap of conditional logic] (https://app.mindmup.com/map/_v2/b660f1e0f84511ea9fee4d45693349de) (for TW team only - requires authentication)
+- [Mindmap of conditional logic](https://app.mindmup.com/map/_v2/b660f1e0f84511ea9fee4d45693349de) (for TW team only - requires authentication)
 
 
 **Live forms created by others**
