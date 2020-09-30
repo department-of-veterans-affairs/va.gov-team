@@ -52,11 +52,6 @@ Towards the end the only change that should be made on the app side of things is
 ## Specifics
 
 ### Detailed Design
-_Designs that are too detailed for the above High Level Design section belong here. Anything that will require a day or more of work to implement should be described here._
-
-_This is a great place to put APIs, communication protocols, file formats, and the like._
-
-_It is important to include assumptions about what external systems will provide. For example if this system has a method that takes a user id as input, will your implementation assume that the user id is valid? Or if a method has a string parameter, does it assume that the parameter has been sanitized against injection attacks? Having such assumptions explicitly spelled out here before you start implementing increases the chances that misunderstandings will be caught by a reviewer before they lead to bugs or vulnerabilities. Please reference the external system's documentation to justify your assumption whenever possible (and if such documentation doesn't exist, ask the external system's author to document the behavior or at least confirm it in an email)._
 
 _Here's an easy rule of thumb for deciding what to write here: Think of anything that would be a pain to change if you were requested to do so in a code review. If you put that implementation detail in here, you'll be less likely to be asked to change it once you've written all the code._
 
@@ -65,6 +60,7 @@ _Here's an easy rule of thumb for deciding what to write here: Think of anything
 - [Add an alias to the `babelrc` file](https://github.com/department-of-veterans-affairs/vets-website/blob/055d96c54e1df54138b9efc589b98e55962333b3/.babelrc#L50-L55) that redirects imports from `platform/forms` to `platform/forms-system`
 - Configure the `no-restricted-imports` ESLint rule to [restrict imports of `src/platform/packages` directly](https://eslint.org/docs/rules/no-restricted-imports)
 - Edit the webpack config & use a custom `sass-loader` importer to rewrite imports from `forms` to `forms-system`
+- Add a `package.json` file to `src/platform/packages/forms-library`, complete with all of the forms library dependencies
 
 Once the forms library is actually a package, app code can be updated to import from it directly instead of relying on the  aliases.
 
@@ -77,7 +73,6 @@ The forms library package will live in `src/platform/packages/forms-library`.
 Since it will be a Node package, it will be added to the `package.json` file and apps will import it as a regular Node package instead of by its direct path.
 
 ### Testing Plan
-_How you will verify the behavior of your system. Once the system is written, this section should be updated to reflect the current state of testing and future aspirations._
 
 We have ESLint rules in place which can verify that the right JS is imported as it relates to the forms library.
 Additionally, many of the end-to-end tests will fail if the forms library is not imported properly, so they will help with awareness.
@@ -120,6 +115,8 @@ _Split the work into milestones that can be delivered, put them in the order tha
 ### Alternatives
 
 See the section [Separate repo](#separate-repo) in Future Work. We are avoiding turning the forms library into its own node module with a separate repo because of the additional overhead involved in publishing, setting up CI pipelines, and general additional repo management. This _may_ be a path for the future.
+Another reason why we don't want to do this right now is that we would lost the advantage of the ESLint configuration that is part of `vets-website`.
+Once this configuration is published we will be able to import it into any repo, and at that point it may make sense to move the forms library out of `vets-website`.
 
 ### Future Work
 
