@@ -131,11 +131,6 @@ The Clipboard Application will call smart-pgd-fhir service to retrieve all Quest
 
 ![](diagrams/QuestionnaireResponsesByUserID.png)
 
-**Get all Questionnaires created by the Clipboard application**
-The Clipboard application will display available Questionnaires to Staff users of the VEText and VA Notify applications so that specific Questionnaires can be included in the notifications sent to Veterans. 
-
-![](diagrams/getAllQuestionnairesForApp.png)
-
 **Get Appointment Pre-Visit Agenda Questionnaire**
 The Clipboard Application will call the mobile-appointment-service endpoint to retrieve upcoming appointments associated with the Veteran. Based on the Synthetic ID of the returned appointements and the ICN, existing Questionnaire Response (QR) Resources will be queried. If there is no QR Resource already associated with this Appointment ID, the approptiate Questionnaire Resource will be retrieved
 
@@ -159,7 +154,6 @@ The following are a list of requests that are made by the Clipboard Mobile appli
 | /smart-pgd-fhir/v1/Patient?identifier={icn}&\_sort:desc=\_lastUpdated&\_count=1 | GET             | smart-pgd-fhir              | Retrieves the user's Patient resource from SMART PGD FHIR via their ICN.                                                                 |
 | /smart-pgd-fhir/v1/Patient                                                      | POST            | smart-pgd-fhir              | Creates the user's Patient resource in SMART PGD FHIR                                                                                    |
 | /smart-pgd-fhir/v1/Questionnaire?id={questionnaire-title}                       | GET             | smart-pgd-fhir              | Retrieves a Questionnaire with matching id, which is used as a reference in subsequent QuestionnaireResponse requests to SMART PGD FHIR. |
-| /smart-pgd-fhir/v1//Questionnaire?publisher=clipboard.gov.va                       | GET             | smart-pgd-fhir           | Retrieves all Questionnaires created by the Clipboard application |
 | /smart-pgd-fhir/v1/QuestionnaireResponse?subject={appointment-id}               | GET             | smart-pgd-fhir              | Retrieves a QuestionnaireResponse, where the subject is equal to a given appointment id, from SMART PGD FHIR                             |
 | /smart-pgd-fhir/v1/QuestionnaireResponse                                        | POST            | smart-pgd-fhir              | Creates a QuestionnaireResponse in SMART PGD FHIR                                                                                        |
 | /smart-pgd-fhir/v1/QuestionnaireResponse?author={user-id}                       | GET             | smart-pgd-fhir              | Retrieves all QuestionnaireResponses, where the QuestionnaireResponse.author field is equal to the user id, from SMART PGD               |
