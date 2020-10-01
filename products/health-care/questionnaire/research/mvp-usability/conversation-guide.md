@@ -42,7 +42,7 @@ _Only give additional direction if the Veteran gets stuck completing the task._
 ### Things to watch/listen for:
 
 - _Did the Veteran successfully completed the task. Success = getting to the screen with the "Your questionnaire has been sent to your provider." alert box._
-_ _Did the Veteran immediately click the sign in button on the introduction page or did they take time to review the introduction page?_
+- _Did the Veteran immediately click the sign in button on the introduction page or did they take time to review the introduction page?_
 - _Pay attention to Veteran commentary on confusing or pleasing portions of the questionnaire._
 - _Take note of anything the Veteran suggests to add._
 
@@ -50,12 +50,11 @@ _ _Did the Veteran immediately click the sign in button on the introduction page
 ## Reviewing Screens in More Detail - 25 minutes (total for all pages)
 _Amanda, Lacey, Ming - Particularly in this section, can you think of any other questions to ask?_
 
-Great, thank you for doing that exercise. Next, we are going to go back to the beginning of the questionnaire, so I can ask more questions about each page.
+Great, thank you for doing that exercise. Next, we are going to go back to the beginning of the questionnaire, so I can ask more questions about each page.<br/>
 _Help them navigate back to the introduction page._
 
-### On the Introduction page - 8 minutes
-- _Ask if the Veteran didn't review the entire page during the Usability Task._ I saw that you immediately clicked the sign in button during the first activity, why?
-    _After answering "why,"_ Take some time now and review the rest of the page.
+### On the Introduction page - 10 minutes
+- _Ask if the Veteran didn't review the entire page during the Usability Task._ I saw that you immediately clicked the sign in button during the first activity. Take some time now and review the rest of the page.
 - What are your impressions of this page?
 - Review the "How will my personal health information be protected and shared if I use this questionnaire?" question. 
     - What are your thoughts about the information provided?
@@ -72,7 +71,7 @@ _Help them navigate back to the introduction page._
 - What are your impressions of this page?
 - Do the questions make sense to you?
 - How would you answer these questions?
-    - If not explicitly mentioned, what do you think about ranking the questions that you enter?
+    - _If not explicitly mentioned,_ what do you think about ranking the questions that you enter?
 - Is this information valuable for you to fill out before an appointment?
 
 ### On the Review page - 2 minutes
