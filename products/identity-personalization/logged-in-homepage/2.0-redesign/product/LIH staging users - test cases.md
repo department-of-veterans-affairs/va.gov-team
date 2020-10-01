@@ -20,12 +20,12 @@
 ### Test cases for "Healthcare"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User is elligble for education benefits but has not applied|user showin information on how to enroll|TBD|
-|User has education benefits|TBD|TBD|
-|User's application "In Progress"|TBD|TBD|
-|User's application "Enrolled"|TBD|TBD|
-|User's application "Decision"|TBD|TBD|
-|User's application "Update"|TBD|TBD|
+|User is elligble for education benefits but has not applied|user shown information on how to enroll|TBD|
+|User has education benefits|**TBD**|TBD|
+|User's healthcare application status is "In Progress"|TBD|TBD|
+|User's healthcare application status is "Enrolled"|TBD|TBD|
+|User's healthcare application status is "Decision"|TBD|TBD|
+|User's healthcare application status is "Update"|TBD|TBD|
 |User DOES have secure messages|TBD|TBD|
 |User DOES NOT have secure messages|TBD|TBD|
 |User DOES have prescriptions|TBD|TBD|
@@ -34,7 +34,6 @@
 |User DOES NOT have appointments|TBD|TBD|
 
 ### Test cases for "Claims"
-
 |Test case|Intended outcome|CTA/URL|Staging User| Error State|Error state Staging User|
 |----|----|----|----|----|----|
 |###|###|###|
