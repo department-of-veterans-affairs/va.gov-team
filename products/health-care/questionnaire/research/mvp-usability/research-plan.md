@@ -48,7 +48,7 @@ Recruit for 12 fulfilled sessions (6 for the desktop version and 6 for the mobil
 
 ## Timeline 	
 #### Desired Timeline: October 13-19, 2020 
-One hour sessions
+One hour sessions<br/>
 _Amanda, Lacey, and Ming: Anyone open to evening (ET time) sessions so we can capture some Veterans who work during the day or other time zones? I gave ourselves a day between the pilot and the rest of the test to make any changes to the prototype/test script, but could push the days maybe up one if need be. This current timeline would make analysis occur during the very end of next sprint/the beginning of the following sprint._
 
 Team Availability | Time (EST)
