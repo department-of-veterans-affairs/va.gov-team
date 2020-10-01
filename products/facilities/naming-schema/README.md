@@ -35,17 +35,13 @@ The example schema below is a hypothetical scenario. It represents a VAMC facili
 
 ## VBA benefits facilities naming schema - DRAFT
 
-> This schema is a work in progress. We have questions about certain aspects of existing facility names. We have questions for OFO, the Office of Field Operations, and the answers will affect the naming schema.
-
-Some VBA benefits facilities are standalone. The regional benefit offices are an example. Other VBA benefits facilities are located either 1) inside facilities VA owns such as medical centers, or 2) inside facilities VA does not own such as military hospitals or bases. 
+Some VBA benefits facilities are standalone. Regional benefit offices are an example. Other VBA benefits facilities are located either:
+1) inside facilities VA owns such as medical centers owned by VHA, or 
+2) inside facilities VA does not own such as military hospitals or bases. 
 
 > 
 **Facility names**
-- All facilities have an official name that will be used everywhere. No short names or truncating of official names will be used.  
-- The official name will be used in the H1, menu links, breadcrumb, browser title tag, and the URL.
-- (TBD) For standalone VBA offices, a plain-language name (or short name) will be created and will be used for the digital experience in the H1, menu links, breadcrumb, browser title tag, and the URL. The URL will exclude "VA" as part of the system name. 
-
-The example schema below is a hypothetical scenario. It represents a regional office facility network (i.e., regional office is parent facility, with intake centers, campus offices, and other VBA facilities as children facilities that are all part of a benefits system and customers get access to the entire network). It should apply to _all_ regional office systems.
+(TBD) For VBA offices, a plain-language name (or short name) will be created and used for the digital experience in the H1, menu links, breadcrumb, browser title tag, and the URL.  
 
 **For every example below, "at" is followed by the official location name. Official location names come from legislation, so we may not be able to change things that don't follow VA.gov style. Example: Veterans' (should not have an apostrophe).** 
 
