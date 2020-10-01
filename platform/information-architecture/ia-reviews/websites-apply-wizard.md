@@ -1,11 +1,11 @@
 # IA Design and Recommendations
 **STATUS:**
 
-**Team:** 
+**Team:** Public Websites for discovery/design + BAM1/BAM2/eBen for technical implemention and launch
 
-**Product/Featue:** 
+**Product/Featue:** Application "wizard" utilized in Education, Disability, VRE, PCPG and HLR (Decision reviews)
 
-**Background/Context:**
+**Background/Context:**  The existing wizard functionality that currently lives on static content pages (i.e. How to apply and Eligibility pages) will be moved onto the /introduction page of the individual React applications/forms.  This work impacts the wizard flow, messaging and entry points across the impacted benefit areas. 
 
 **IA Request:** 
 
@@ -54,6 +54,7 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 <hr>
 
 ### Meetings Notes and Background Info
+
 
 8/7/2020 - Kick-off
 - Wizards currently on the How to apply and Eligibility pages are being moved to the /introduction page of the applications
