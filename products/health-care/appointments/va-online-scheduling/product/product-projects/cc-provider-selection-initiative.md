@@ -2,7 +2,7 @@
 ---
 
 ## Overview
-*Idea:* Create in-app community care provider selection experience that allows for multi-select options for potential community providers based on veteran's location. 
+**Idea:** Create in-app community care provider selection experience that allows for multi-select options for potential community providers based on veteran's location. 
 
 ## Problem Statement
 Veteran's who are community care eligible have the option to seek care with community providers. For some veteran's this is a new option that they discover as part of the VA online scheduling flow. For other Veteran's, this is an optin they know/have used in the past and have a preferred, eligible community care provider in mind. 
@@ -13,31 +13,40 @@ Likewise, if Veteran's aren't doing this because the cumbersome in the app, the 
 
 Additionally, the existing source for community care provider data - Provider Profile Management System (contains the community care providers (PPMS) - has some limitations based on how it's structured and how it performs.
 
-*How might we:* Improve the provider selection experience while also improving the quality of data that's being displayed to veterans?
- 
-## Desired User Outcomes
+## Knowns:
+- 
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+## Known unknowns:
+- 
 
-## Undesired User Outcomes
+## Unknown unknowns:
+- 
+
+## Desired Outcomes
+
+- Improve the Community Care provider selection experience as part of a Veteran's scheduling experience
+- Improve understanding of available CC providers (based on VA network) for Veteran's interested in CC care
+- Decrease dropoff of Community Care requests in VAOS due to confusing and complicated provider information gathering
+
+## Undesired Outcomes
+- Creating a feature that has poor performance because data is performance/services used are poor
+
+## Hypothesis/Bet 
+We believe that by providing approved community care providers to Veterans during their community care request process in VAOS we will descrease request dropoff for these appointment types and also improve triage/booking time for Request Managers because information for these appointments is easier to find and easier to triage.
 
 
-## Desired Business Outcomes
+## How might we
+Improve the provider selection experience while also improving the quality of data that's being displayed to veterans?
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
-
-## Undesired Business Outcomes
-
+## Definition of Done
+- [ ] VAOS app will automatically search for closest community care providers based on my residential address and type of care selected (closest providers within the service-specific drive radius (30 minutes for primary care, 60 minutes for 1 of the 5 specialty care services: i.e. routine audiology exam (includes hearing aid support), routine optometry exam, routine podiatry, and nutrition services)
+- [ ] Ability to enter an alternate address so Veteran can request appointment with Community Care provider in my current location
+- [ ] Desirable to be able to display both provider name and group name
 
 ---
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
