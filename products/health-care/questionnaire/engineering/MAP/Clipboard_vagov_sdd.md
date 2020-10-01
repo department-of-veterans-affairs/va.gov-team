@@ -184,7 +184,7 @@ Redis is used as a temporary store for corelation of user session UUID with the 
 
 ### Deployment Environment
 
-The Clipboard Application front end will be deployed to va.gov and backend will be deployed to vets-api. Both va.gov and vets-api have Dev, Staging and Production instances that will connect to the appropriate environment in MAP.
+The Clipboard Application front end will be deployed to the [existing va.gov infrastucture](https://github.com/department-of-veterans-affairs/vets-website) and backend will be deployed to the existing [vets-api infrastructure](https://github.com/department-of-veterans-affairs/vets-api). Both va.gov and vets-api have Dev, Staging and Production instances that will connect to the appropriate environment in MAP.
 
 ## Security :
 
