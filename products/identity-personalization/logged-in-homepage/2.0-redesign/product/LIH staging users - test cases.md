@@ -34,7 +34,7 @@
 |User DOES NOT have appointments|TBD|TBD|
 
 ### Test cases for "Claims"
-|Test case|Intended outcome|CTA/URL|Staging User| Error State|Error state Staging User|
+|Test case|Intended outcome|Staging User|
 |----|----|----|
 |User DOES have a disability rating|###|###|
 |User DOES not have a disability rating|###|###|
@@ -43,15 +43,14 @@
 
 
 ### Test cases for "Records"
-|Test case|Intended outcome|CTA/URL|Staging User| Error State|Error state Staging User|
+|Test case|Intended outcome|Staging User|
 |----|----|----|
 |###|###|###|
 |###|###|###|
 |###|###|###|
 
 ### Test cases for "Applications in Progress"
-
-|Test case|Intended outcome|CTA/URL|Staging User| Error State|Error state Staging User|
+|Test case|Intended outcome|Staging User|
 |----|----|----|
 |User DOES have an application in progress|###|###|
 |User DOES NOT have an application in progress|###|###|
