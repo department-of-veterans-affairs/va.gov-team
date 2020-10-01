@@ -373,10 +373,33 @@ A device at 320x658 was searched for to find the bottom-end of screen widths, bu
 ## When, or under what conditions, would you recommend revisiting this design decision?
 Recommendation to revisit this matrix any time the taget OS versions are changed for the app, as well as any time a phone vendor releases a significantly different viewport size/configuration with high adoption. **Basically once or twice a year.** Consideration will also need to be made on a case by case basis on whether to test for newer format devices with folding screens or non-standard screen configurations like the LG Wing.
 
+# Decision 8: Only Users with logon credentials at Level of Assurace (LOA) 3 will be allowed into the app
+Users can have an account from one of three identity providers. Those accounts will have LOA 1, 2, or 3 based on what level of verification the user has completed. We need to decide what LOA is the minimum to access the credentialed areas of the app.
+
+## What did you decide on?
+Because of the way the VA Access page process has been made for mobile and how providers on that page currently work, we will require users have LOA3 in order to access the credentialed areas of the app. Depending on what testing from My Healthy Vet (MHV) shows for non-elevated accounts there may need to be some messaging on the log in screen.
+
+## Document the people who agreed to the design decision (and their roles on the project)
+- Steve Kovacs (VA DEPO)
+
+## What was the deciding factor for your decision?
+There were multiple factors that led to this decision:
+- The mobile team does not have strict control over the VA Access site to make major changes to the process
+- DS Logon no longer has LOA1 accounts. They only have the deprecated LOA2 and are moving all their accounts to LOA3
+- The request from the mobile app for log in on id.me is for LOA3 and if a user is not LOA3 the id.me site forces a user to initiate and complete verification for LOA3 before logging them into the application. 
+
+Because the identity providers rules and processes, it is not possible at this time for a user with an LOA1 identity to actually log in the app, there is currently no reason to design for LOA1 users.
+
+## What other options did you consider?
+- Allow LOA1 users into the app, but only show screens similar to the web application version on va.gov.
+- Only allow id.me users.
+
+## When, or under what conditions, would you recommend revisiting this design decision?
+This decision should be revisited once the MHV flow is able to be tested to ensure that the decision still holds. Barring any issues with that, this should be revisited after VA Access or any of the identify providers change what LOAs are allowed to log in through the mobile auth portal. 
+
 # Other Decisions we need to elaborate on:
 * Decision: the mobile app will not source any content from a CMS
 * more API work needed: we will work with VEText to define a push notification and preferences api for appointments (@alastair, @jonathan)
-* the app will only allow level 3 users. we are documenting flows for DSLogon/ID.me/MHV so we can design the UX for non-level-3 visitors to the app (@Patrick Saxton)
 * Decision: MVP will not have any specific tablet support
 * the app will be built and released under the official VA accounts
 * we will support accessibility WCAG, more discussion tomorro
