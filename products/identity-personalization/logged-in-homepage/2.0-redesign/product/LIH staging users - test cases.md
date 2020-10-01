@@ -11,11 +11,7 @@
 |User has verified their identity|User sees all relevant links, balances, widgets, etc |TBD|
 
 ### Test cases for "Education"
-|Test case|Intended outcome|Staging User|
-|----|----|----|
-|User is elligble for education benefits but has not applied|TBD|TBD|
-|User has education benefits|TBD|TBD|
-|User does NOT have education benefits and is NOT elligible|TBD|TBD|
+This is not dynamic and links remain the same regardless
 
 ### Test cases for "Healthcare"
 |Test case|Intended outcome|Staging User|
@@ -32,6 +28,7 @@
 |User DOES NOT have prescriptions|TBD|TBD|
 |User DOES have appointments|TBD|TBD|
 |User DOES NOT have appointments|TBD|TBD|
+**Any user with healthcare will show static lab results link**
 
 ### Test cases for "Claims"
 |Test case|Intended outcome|Staging User|
@@ -44,17 +41,13 @@
 
 ### Test cases for "Records"
 |Test case|Intended outcome|Staging User|
-|----|----|----|
-|###|###|###|
-|###|###|###|
-|###|###|###|
+**this will be a list of static links**
 
 ### Test cases for "Applications in Progress"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User DOES have an application in progress|###|###|
-|User DOES NOT have an application in progress|###|###|
-|###|###|###|
+**Do not need a no-application in progress user since this section will not show**
 
 
 
