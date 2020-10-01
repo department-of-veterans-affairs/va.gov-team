@@ -29,9 +29,12 @@ Q2 - Q3 2020
 
 ### External Services
 
-*Service Design: Andrea Chappelear, Emily Waggoner, Alex Pappas 
-*Product Support: James Chasia*
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/tools/backend/Product/external-services-research)
+*Service Design: Andrea Chappelear, Emily Waggoner, Alex Pappas*
+*Product Support: James Chasia*BE Tools: Emily Waggoner, Alex Pappas
+
+[Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/tools/backend/Product/external-services-research)
+
+[Mural](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1593009628548/8a1da1440784cefa594f30c86db195fc6330489f)
 
 
 ### Engineer User Journey Workshops
