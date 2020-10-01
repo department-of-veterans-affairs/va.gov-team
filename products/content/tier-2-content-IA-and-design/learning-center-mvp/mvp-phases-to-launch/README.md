@@ -17,16 +17,13 @@ When referencing various data sources related to the Learning Center MVP 1.0/1.1
   
 <summary>Requirements</summary>
 
-|user story|Phase|Epic|Resource/artifact/reqs|
-|---|---|---|---|
-|user story e.g. LC Search|1.0|Epic|Resource/artifact/reqs|
-
 ### Search
-* As a Veteran or beneficiary, I need to search for LC articles so I can find answers to questions I have about the site or about VA services or benefits. As a non-beneficiary who works with Veterans (like VSOs, fiduciaries), I want to find answers to questions I have about what I need to do in order to do my job (e.g., how to apply to become a fiduciary). 
-  - Search experience that gives Veterans search results to legacy tier 2 content in support of veterans, caregivers, school administrators, VSOs, VA loan appraisers, etc. 
-  - [User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/pw-learning-center-takeaways-mvp-roadmap-082820.pptx)
-  - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13983)
-  - [User query-based dynamic search](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/search-feature-inside-LC/LC-search-requirements.md)
+
+|User Story|Phase|Epic|Resource/artifact/reqs|
+|---|---|---|---|
+|As a Veteran or beneficiary, I need to search for LC articles so I can find answers to questions I have about the site or about VA services or benefits. As a non-beneficiary who works with Veterans (like VSOs, fiduciaries), I want to find answers to questions I have about what I need to do in order to do my job (e.g., how to apply to become a fiduciary)|1.0|[Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13983)|[User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/pw-learning-center-takeaways-mvp-roadmap-082820.pptx) [User query-based dynamic search](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/search-feature-inside-LC/LC-search-requirements.md) [Content Field Req](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#content-fields-on-all-learning-center-pages)|
+
+
 ### Articles lists 
 * As a Veteran and or Veteran caregiver, I need an relevant article list that guides me to content that appeals and is interesting to me. 
   - Article lists should help users self-resolve VA.gov issues/questions that span benefits or that are agnostic of benefit issues. Intent of article lists (by category or tag) is to funnel users to the articles within that category or tag. 
