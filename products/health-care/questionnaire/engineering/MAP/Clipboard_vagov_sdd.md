@@ -150,12 +150,16 @@ When the user has completed the form in the Clipboard Application and tapped Sub
 
 ![](diagrams/postQuestionnaireResponse.png)
 
+**Put | Delete Questionnaire Response**
+In some scenarios, a Clipboard application user may be able to edit or delete an existing QuestionnaireResponse.
+
+![](diagrams/get_delete_QuestionnaireResponse.png)
+
 The following are a list of requests that are made by the Clipboard Mobile application:
 
 | **Endpoint Called**                                                             | **HTTP Action** | **Mobile/External Service** | **Description**                                                                                                                          |
 | :------------------------------------------------------------------------------ | :-------------- | :-------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
-| /users/v2/login                                                                 | GET             | user-service                | Authenticates user                                                                                                                       |
-| /users/v2/session                                                               | GET             | user-service                | Facilitates JWT Exchange Workflow                                                                                                        |
+| /users/v2/session                                                               | POST, GET       | user-service                | POST Facilitates JWT Exchange Workflow and GET provides details to create a new Patient Resource                                                                                          |
 | /smart-pgd-fhir/v1/Patient?identifier={icn}&\_sort:desc=\_lastUpdated&\_count=1 | GET             | smart-pgd-fhir              | Retrieves the user's Patient resource from SMART PGD FHIR via their ICN.                                                                 |
 | /smart-pgd-fhir/v1/Patient                                                      | POST            | smart-pgd-fhir              | Creates the user's Patient resource in SMART PGD FHIR                                                                                    |
 | /smart-pgd-fhir/v1/Questionnaire?id={questionnaire-title}                       | GET             | smart-pgd-fhir              | Retrieves a Questionnaire with matching id, which is used as a reference in subsequent QuestionnaireResponse requests to SMART PGD FHIR. |
@@ -163,7 +167,7 @@ The following are a list of requests that are made by the Clipboard Mobile appli
 | /smart-pgd-fhir/v1/QuestionnaireResponse?subject={appointment-id}               | GET             | smart-pgd-fhir              | Retrieves a QuestionnaireResponse, where the subject is equal to a given appointment id, from SMART PGD FHIR                             |
 | /smart-pgd-fhir/v1/QuestionnaireResponse                                        | POST            | smart-pgd-fhir              | Creates a QuestionnaireResponse in SMART PGD FHIR                                                                                        |
 | /smart-pgd-fhir/v1/QuestionnaireResponse?author={user-id}                       | GET             | smart-pgd-fhir              | Retrieves all QuestionnaireResponses, where the QuestionnaireResponse.author field is equal to the user id, from SMART PGD               |
-| /smart-pgd-fhir/v1/QuestionnaireResponse/{id}                                   | DELETE          | smart-pgd-fhir              | Deletes a QuestionnaireResponse in SMART PGD FHIR                                                                                        |
+| /smart-pgd-fhir/v1/QuestionnaireResponse/{id}                                   | PUT, DELETE          | smart-pgd-fhir              | Update or Delete a QuestionnaireResponse in SMART PGD FHIR                                                                                        |
 | /patients/{icn}/appointments                                                    | GET             | mobile-appointment-service  | Retrieves appointments for the given user                                                                                                |
 
 ## Tech Stack :
