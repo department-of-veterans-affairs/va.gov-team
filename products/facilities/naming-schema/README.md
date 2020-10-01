@@ -43,9 +43,9 @@ Some VBA benefits facilities are standalone. Regional benefit offices are an exa
 **Facility names**
 (TBD) For VBA offices, a plain-language name (or short name) will be created and used for the digital experience in the H1, menu links, breadcrumb, browser title tag, and the URL.  
 
-VBA and OFO, the Office of Field Operations, approved [this naming scheme] in late September 2020. (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/naming-schema/VBA-facilties-name_DRAFT-%20v9.docx)
+VBA and OFO, the Office of Field Operations, approved [this naming scheme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/naming-schema/VBA-facilties-name_DRAFT-%20v9.docx) in late September 2020. 
 
-First we are updating the [names of facilities inside VA facilities] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/naming-schema/VBA%20Facility%20Names_v4.xlsx). See column E "Inside other official VA Location."
+First we are updating the [names of facilities inside VA facilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/naming-schema/VBA%20Facility%20Names_v4.xlsx). See column E "Inside other official VA Location."
 
 Next we will update the names of facilities not located inside VA facilities. 
 
