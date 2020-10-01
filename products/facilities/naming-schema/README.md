@@ -57,7 +57,7 @@ Regional benefit office | Standalone | Winston-Salem Regional Benefit Office |
 VR&E office | Standalone | Harrisburg Veteran Readiness and Employment Office |   
 VR&E office | VHA or non-VA | Veteran Readiness and Employment Office at Grand Junction VA Medical Center | 
 Regional office | VHA or non-VA | Regional Office at Samuel S. Stratton Department of Veterans Affairs Medical Center | 
-Outbased office | VHA or non-VA | Regional Benefit Office at New Bedford VA Clinic, Benefit Office at Rochester Calkins VA Clinic
+Outbased office | VHA or non-VA | Regional Benefit Office at New Bedford VA Clinic (If not regional, then Benefit Office at Rochester Calkins VA Clinic.)
 Satellite office | VHA or non-VA | Regional Benefit Office at William S. Middleton Memorial Veterans' Hospital
 Integrated Disability Evaluation System (IDES) Site | VHA or non-VA | Integrated Disability Evaluation System (IDES) Site at Fort Drum
 Intake site | VHA or non-VA | Intake Site at Twentynine Palms
