@@ -20,10 +20,14 @@
 ### Test cases for "Healthcare"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User is elligble for education benefits but has not applied|TBD|TBD|
+|User is elligble for education benefits but has not applied|user showin information on how to enroll|TBD|
 |User has education benefits|TBD|TBD|
-|User does NOT have education benefits and is NOT elligible|TBD|TBD|
-
+|User's application "In Progress"|TBD|TBD|
+|User's application "Enrolled"|TBD|TBD|
+|User's application "Decision"|TBD|TBD|
+|User's application "Update"|TBD|TBD|
+|User DOES have secure messages|TBD|TBD|
+|User DOES NOT have secure messages|TBD|TBD|
 
 
 ### Test cases for "Claims"
