@@ -28,7 +28,10 @@
 |User's application "Update"|TBD|TBD|
 |User DOES have secure messages|TBD|TBD|
 |User DOES NOT have secure messages|TBD|TBD|
-
+|User DOES have prescriptions|TBD|TBD|
+|User DOES NOT have prescriptions|TBD|TBD|
+|User DOES have appointments|TBD|TBD|
+|User DOES NOT have appointments|TBD|TBD|
 
 ### Test cases for "Claims"
 
