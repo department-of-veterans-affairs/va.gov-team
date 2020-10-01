@@ -188,11 +188,11 @@ Take a minute to look at this page. Let's focus on this area here:
     
 - If you needed one of these services and you didn't know Vet Centers existed, how would you go about finding it? (use their preferred example)
 
-If online,
+    If online,
     
-   - Where would you go? 
+     - Where would you go? 
     
-   - What would you search for?
+     - What would you search for?
 
 - Are there other services that you don't see on this list that you'd like to see?
 
