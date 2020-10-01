@@ -19,6 +19,7 @@
   - [Development] HLR: Is HLR Working? - Sprint 31
   - [Development] HLR: Get Staging (Sandbox?) API key #14003 - CLOSED
   - [Development] HLR: Investigate HLR Prefill Issues #13952 - Sprint 31
+  - [Testing] HLR: User Acceptance Testing for Higher Level Review #7802 - Sprint 32
   
   Missing Stories:
   - [Launch] HLR: Full 508 - Sprint 33
