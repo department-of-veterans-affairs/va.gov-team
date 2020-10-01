@@ -30,7 +30,7 @@ Q2 - Q3 2020
 ### External Services
 
 *Service Design: Andrea Chappelear, Emily Waggoner, Alex Pappas*
-*Product Support: James Chasia*BE Tools: Emily Waggoner, Alex Pappas
+*Product Support: James Chasia* 
 
 [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/tools/backend/Product/external-services-research)
 
