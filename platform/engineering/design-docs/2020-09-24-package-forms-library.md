@@ -34,13 +34,42 @@ We also have forms-adjacent code in the form of other dependencies
 - `@department-of-veterans-affairs/react-jsonschema-form` (See [Tighter dependencies](#tighter-dependencies))
 - `vets-json-schema`
 
+
+At the moment, the forms library code is entangled with other platform code, but also some app code.
+
+#### Application entanglement
+
+[This definition file](https://github.com/department-of-veterans-affairs/vets-website/blob/720a867817f5b83bd1d713bd51202863b41739b1/src/platform/forms/definitions/nonMilitaryJobs.js#L1) in the forms library imports some app code, yet the file itself is _only_ used in other app code.
+
+There is a [helper file](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4a3172edc242bf60c93aec5b170c734dc57985/src/applications/personalization/dashboard/helpers.jsx) in `src/applications/personalization` which exports a number of consts which are used in the following files within the forms library:
+
+- [`ApplicationStatus.jsx`](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4a3172edc242bf60c93aec5b170c734dc57985/src/platform/forms/save-in-progress/ApplicationStatus.jsx#L6-L10)
+- [`SaveInProgressIntro.jsx`](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4a3172edc242bf60c93aec5b170c734dc57985/src/platform/forms/save-in-progress/SaveInProgressIntro.jsx#L12-L15)
+- [`FormSaved.jsx`](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4a3172edc242bf60c93aec5b170c734dc57985/src/platform/forms/save-in-progress/FormSaved.jsx#L10)
+- [`AuthorizationComponent.jsx`](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4a3172edc242bf60c93aec5b170c734dc57985/src/platform/forms/components/AuthorizationComponent.jsx#L12)
+
+Finally, there are some testing helpers that live in the `src/applications/hca` directory and are used in forms library tests:
+
+- [`01-sip-autosave.e2e.spec.js`](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4a3172edc242bf60c93aec5b170c734dc57985/src/platform/forms/tests/save-in-progress/01-sip-autosave.e2e.spec.js#L4)
+- [`01-sip-fail-load.e2e.spec.js`](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4a3172edc242bf60c93aec5b170c734dc57985/src/platform/forms/tests/save-in-progress/01-sip-load-fail.e2e.spec.js#L3)
+- [`01-sip-finish-later.e2e.spec.js`](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4a3172edc242bf60c93aec5b170c734dc57985/src/platform/forms/tests/save-in-progress/01-sip-finish-later.e2e.spec.js#L4)
+- [`01-sip-review.e2e.spec.js`](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4a3172edc242bf60c93aec5b170c734dc57985/src/platform/forms/tests/save-in-progress/01-sip-review.e2e.spec.js#L3)
+
+
+#### Platform entanglement
+
+In addition to the forms library, the platform provides other code that is used both in the forms library and in applications. 
+
+- `utilities`
+- `monitoring`
+- `site-wide`
+- `user`
+- `static-data`
+
+These aren't strictly part of the forms library, but since the forms library makes use of its parent platform code, it becomes more difficult to place clear boundaries around the forms library.
+
 ### High Level Design
 _A high-level description of the system. This is the most valuable section of the document and will probably receive the most attention. You should explain, at a high level, how your system will work. Don't get bogged down with details; those belong later in the document._
-
-_A diagram showing how the major components communicate is very useful and a great way to start this section. If this system is intended to be a component in a larger system, a diagram showing how it fits in to the larger system will also be appreciated by your readers._
-
-_Most diagrams will need to be updated over time as the design evolves, so please create your diagrams with a program that is easily (and freely) available and attach the diagram source to the document to make it easy for a future maintainer (who could be you) to update the diagrams along with the document._
-
 
 The forms library will be consolidated into a single place and bundled as a Node package.
 This will allow VFS teams to import it as if it were any other Node module.
