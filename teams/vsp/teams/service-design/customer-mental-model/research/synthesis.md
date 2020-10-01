@@ -11,5 +11,5 @@
 
 ## Ways we might use this information in Platform initiatives
 
-## Strategies for a pilot
-Pilot Discuss next steps (how to move on to a pilot structure and tree test)
+## Thoughts around a pilot and next steps
+
