@@ -8,7 +8,6 @@ This is WIP and may evolve based on user research and technical findings. [Visua
 - **Required: Breadcrumb** –  pulled from H1, cannot manually customize
 - **Required: Search bar** - learning center search or  VA.gov (If user selects VA.gov search, user is taken to the normal site search results where results from all of VA.gov are pulled.)
 - **Required: H1** – new H1 limit for LC pages – 70 max characters including spaces, rigid in AX
-- **[Frontend content tags](#frontend-content-tags)** See also [Learning center categories](#learning-center-categories)** 
 - **Required: Intro text** – rich text formattable wysiwig – 1,000 characters max including spaces.
 - **Optional: Alert component:** reusable/not reusable
 - **Required: CTA buttons** – at least 1 required; up to 2; must restrict button text length to 40 characters to prevent wrapping button labels on mobile
@@ -16,6 +15,7 @@ This is WIP and may evolve based on user research and technical findings. [Visua
 - **Optional: H2 section header** - H2s (and other headings) should be hard limited to 70 characters max including spaces
 - [**Required: Body - content type template**](#specific-lc-content-template-types) (See section for specific article type specs: FAQ single, FAQs multiple, Checklist, Step-by-step, About, Image/Video, etc.)
 - **Optional: Repeat same CTA button(s)** – Example: User can omit repeat if page is short as in a single FAQ page 
+- **Required: [Frontend content tags](#frontend-content-tags)** See also [Learning center categories](#learning-center-categories)** 
 - **Required: User rating section** - "How do you rate your experience on this page?" (Formerly "Was this page helpful") Backend functionality is TBD Analytics team - GA or Medallia integration.
 - **Required: [Related information](#related-information-section)** - freeform list of links and text
 - **Required: [VA benefits section](#va-benefits-section)** 
