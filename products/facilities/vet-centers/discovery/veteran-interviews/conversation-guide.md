@@ -182,6 +182,8 @@ Take a minute to look at this page. Let's focus on this area here:
 
     - Is there any other information about the services available at this Vet Center that you'd like to see?
     
+- If you needed one of these services and you didn't know Vet Center existed, how would you go about finding it? (use their preferred example)
+
 - Are there other services that you don't see on this list that you'd like to see?
 
 - Is there any other information that you don't see on this page that you would find helpful?
