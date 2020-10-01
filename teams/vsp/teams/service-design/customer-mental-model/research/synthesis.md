@@ -1,4 +1,4 @@
-# Synthesis
+# Platform Card Sort Synthesis
 
 ## Takeaways
 
