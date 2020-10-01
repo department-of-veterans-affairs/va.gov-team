@@ -90,7 +90,7 @@ Q2 2020
 
 Q2 2020
 
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/tools/backend/Product/external-services-research)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/external%20services)
 
 
 <br>
