@@ -131,8 +131,12 @@ The Clipboard Application will call smart-pgd-fhir service to retrieve all Quest
 
 ![](diagrams/QuestionnaireResponsesByUserID.png)
 
-**Get Appointment Pre-Visit Agenda Questionnaire**
+**Get all Questionnaires created by the Clipboard application**
+The Clipboard application will display available Questionnaires to Staff users of the VEText and VA Notify applications so that specific Questionnaires can be included in the notifications sent to Veterans. 
 
+![](diagrams/getAllQuestionnairesForApp.png)
+
+**Get Appointment Pre-Visit Agenda Questionnaire**
 The Clipboard Application will call the mobile-appointment-service endpoint to retrieve upcoming appointments associated with the Veteran. Based on the Synthetic ID of the returned appointements and the ICN, existing Questionnaire Response (QR) Resources will be queried. If there is no QR Resource already associated with this Appointment ID, the approptiate Questionnaire Resource will be retrieved
 
 ![](diagrams/QAndQRFromApptID.png)
