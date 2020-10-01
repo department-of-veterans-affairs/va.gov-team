@@ -25,9 +25,9 @@ Last Updated October 1, 2020
 
 ## The Problem
 
-The VAOS (online scheduling) tool allows veterans to make an appointment at all of the facilities at which they're registered, but veterans are frustrated because being registered at a facility does not mean they are currently receiving care there. Veterans are still considered registered at facilities where they used to receive — but no longer receive — care, and at some facilities for reasons other than having ever been a patient. This is all tracked in MVI, and this list does not make a distinction between current/previous facilities. This is causing veterans to see facilities in VAOS that they don't go to, which has resulted in a considerable amount of complaints. They do not understand why they are being asked to make appointments at facilities they don't go to.
+The VAOS (online scheduling) tool allows veterans to make an appointment at all of the facilities at which they're registered, but veterans are frustrated because being registered at a facility does not mean they are currently receiving care there. Veterans are still considered registered at facilities where they used to receive — but no longer receive — care, and at some facilities for reasons other than having ever been a patient. This is info is tracked in/pulled from MVI, which does not distinguish between current/previous facilities. Therefore, veterans see facilities in VAOS that they don't go to, and they do not understand why they are being asked to make appointments at facilities they don't go to. This has resulted in a considerable amount of complaints. 
 
-While we can't change the historical list of facilities that is kept in MVI, we can allow veterans to indicate which facilities they are currently patients at and which they are not so that we don't show them old facilities in the VAOS tool. This information *is* currently available on MHV, but it does not currently exist on VA.gov.
+While we can't change the historical list of facilities that is kept in MVI, we can allow veterans to indicate their current facilities so that we don't show them old facilities in the VAOS tool. This information *is* currently available on MHV, but it does not currently exist on VA.gov.
 
 ### User Goals
 
