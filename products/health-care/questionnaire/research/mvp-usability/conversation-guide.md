@@ -24,15 +24,20 @@ Before we start, a few things I want to mention:
 
 - **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?"** 
 
+## Warm-up Questions - 5 minutes
+
+- Can you tell me about the last time that you saw your primary care provider at the VA?
+    - What was the experience prior to the appointment like? For example, did you have to fill out any forms before the appointment? Did the nurse ask you a lot of questions?
+
 ## Usability Task: Complete the questionnaire - 10 minutes
 
-Before we begin, I want to give you some context for our first exercise. I will give you a task and ask you to "narrate" your thoughts as you complete the task. 
+Keep that pre-appointment experience in mind as I tell you about our first exercise. I will give you a task and ask you to "narrate" your thoughts as you complete the task. 
 
 I'm going to send you a link in the chat. Once you pull up the link, will you share your screen with me?
 
 [Prototype LINK TBD](TBD)
 
-**Task: Pretend that you just made an appointment and received a link to this questionnaire via text or email. Complete this questionnaire.**
+**Task: Pretend that you just made another primary care appointment and received a link to this questionnaire via text or email. Complete this questionnaire.**
 
 _Only give additional direction if the Veteran gets stuck completing the task._
 
