@@ -53,8 +53,7 @@ Update from October 1, 2020:
 Facility type  |  Owned by  |  Official name  | Plain-language name | URL 
  -- | -- | -- | -- | -- 
 _Source:_<br>VAST |   | _Source:_<br>VAST | _Source:_<br>Drupal  | _Source:_<br>Facilities API
-Benefits system (?) | n/a | n/a | VA Winston-Salem benefits | www.va.gov/winston-salem-benefits
-Regional benefit office | Standalone | Winston-Salem Regional Benefit Office | n/a | www.va.gov/winston-salem-benefits/locations/winston-salem-regional-benefit-office
+Regional benefit office | Standalone | Winston-Salem Regional Benefit Office | 
 VR&E office | Standalone | Harrisburg Veteran Readiness and Employment Office |   
 VR&E office | VHA or non-VA | Veteran Readiness and Employment Office at Grand Junction VA Medical Center | 
 Regional office | VHA or non-VA | Regional Office at Samuel S. Stratton Department of Veterans Affairs Medical Center | 
