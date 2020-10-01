@@ -154,6 +154,10 @@ Are you familiar with this website?  Take a minute to look it over. I'm happy to
 
 - Is there anything that you don't like on this page?
 
+[navigate to eligibility]
+
+- What's your understanding of eligibility?
+
 I'm going to pull up another website to look at it together.
 
 #### Scenario 
