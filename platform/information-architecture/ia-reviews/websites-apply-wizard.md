@@ -5,11 +5,17 @@
 
 **Product/Featue:** Application "wizard" utilized in Education, Disability, VRE, PCPG and HLR (Decision reviews)
 
-**Background/Context:**  The existing wizard functionality that currently lives on static content pages (i.e. How to apply and Eligibility pages) will be moved onto the /introduction page of the individual React applications/forms.  This work impacts the wizard flow, messaging and entry points across the impacted benefit areas. 
+**Background/Context:**  The "How to apply wizards" help Veterans and others find the right online forms to apply for benefits. They currently live on static content pages (i.e. How to apply and Eligibility pages) will be moved onto the /introduction page of the individual React applications/forms.  This work impacts the wizard flow, messaging and entry points across the impacted benefit areas. 
 
-**IA Request:** 
+**IA Request:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/14193
 
 <hr>
+
+### User/Page Flows <br>
+- Currently the wizard lives on key static content pages (i.e. How to apply). However, not all content pages that provide links to the forms include the wizard, and users can easily bypass the wizard by direct linking to specific applications. This increases the possibility of users completing and submitting the wrong form 
+- Moving the wizard to the initial page of the React form, ensures the site always provides a validation option to direct them to the correct online form. 
+
+
 
 ### IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements. *
