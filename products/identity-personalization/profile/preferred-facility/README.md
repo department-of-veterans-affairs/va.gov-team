@@ -31,14 +31,23 @@ While we can't change the historical list of facilities that is kept in MVI, we 
 
 ### User Goals
 
+- As a veteran scheduling a medical appointment with VAOS, I only want to see the current facility(ies) at which I receive medical care when I am trying to schedule an appointment.
+- As a veteran scheduling a medical appointment with VAOS, I want to be able to update my list of current facilities at which I receive medical care in the event that my information has changed and the list I am seeing is not accurate.
 
 ### Business Goals
 
+- Be able to show a list of current facilities only for veternas using VAOS tool so they are not seeing old facilities at which they do not receive care.
+- Allow veterans making appointments through VAOS to easily be able to update their list of current facilities in the event information has changed or the VA does not have correct information.
+- Reduce the volume of complaints coming in from veterans about seeing old/out-of-date facilities in the VAOS tool.
 
 ## Assumptions
 
+- Veterans only want to see their current facility(ies) on the VAOS tool. (Note: this is well-confirmed through veteran feedback)
+- We can support preferred facilities in the VA.gov profile while the feature also exists in MHV.
+- Allowing veterans to update their list of preferred facilities will reduce complaints.
 
 ## Questions
+
 
 
 ## Requirements
