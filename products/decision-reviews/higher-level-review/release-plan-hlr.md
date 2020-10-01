@@ -8,21 +8,23 @@
 - Sprint 33: 10/21-???
 
 - Phase I:
-  - [Development] HLR: Schema Changes #11094 - In Validation
-  - [Design] HLR: Design and Content Wizard Updates #12891 - Sprint 29
-  - [Development] HLR: Wizard Implementation #12925 - Sprint 30
-  - [Development] HLR: Update to HLR Schema Based on LH Changes #12319 - Sprint 29
-  - [Analytics] HLR: Back-End Grafana Dashboard for Submission Success/Errors #10712 - Sprint 29
-  - [Launch] HLR: Prepare Launch Product Video for Higher Level Review #6209 - Sprint 30
-  - [Testing] HLR: User Acceptance Testing for Higher Level Review #7802 - Sprint 31/32
-  - [Launch] HLR: Prepare Final Steps of Collaboration Cycle in Preparation for Launch #9763 - Sprint 30
-  - [Development] HLR: Is HLR Working?  - Sprint 30/31
+  - [Development] HLR: Schema Changes #11094 - CLOSED
+  - [Design] HLR: Design and Content Wizard Updates #12891 - CLOSED
+  - [Development] HLR: Wizard Implementation #12925 - CLOSED
+  - [Development] HLR: Update to HLR Schema Based on LH Changes #12319 - CLOSED
+  - [Analytics] HLR: Back-End Grafana Dashboard for Submission Success/Errors #10712 - CLOSED
+  - [Launch] HLR: Prepare Launch Product Video for Higher Level Review #6209 - Sprint 32/33
+  - [Testing] HLR: User Acceptance Testing for Higher Level Review #7802 - Sprint 32/33
+  - [Launch] HLR: Prepare Final Steps of Collaboration Cycle in Preparation for Launch #9763 - Sprint 32
+  - [Development] HLR: Is HLR Working? - Sprint 31
+  - [Development] HLR: Get Staging (Sandbox?) API key #14003 - CLOSED
+  - [Development] HLR: Investigate HLR Prefill Issues #13952 - Sprint 31
   
   Missing Stories:
-  - [Launch] HLR: Full 508 - Sprint 31
-  - [Launch] HLR: Security Review - Sprint 31
-  - [Launch] HLR: Staging Review - Sprint 31/32
-  - [Development] HLR: React to staging and accessibility reviews - Sprint 31/32
+  - [Launch] HLR: Full 508 - Sprint 33
+  - [Launch] HLR: Security Review - Sprint 32
+  - [Launch] HLR: Staging Review - Sprint 32
+  - [Development] HLR: React to staging and accessibility reviews - Sprint 32/33
   
 - Phase II:
   - [Development] HLR: Triage Front-End Issues - Sprint 32/33
