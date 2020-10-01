@@ -35,40 +35,27 @@
 
 ### Test cases for "Claims"
 |Test case|Intended outcome|CTA/URL|Staging User| Error State|Error state Staging User|
-|----|----|----|----|----|----|
-|###|###|###|
-|###|###|###|
-|###|###|###|
+|----|----|----|
+|User DOES have a disability rating|###|###|
+|User DOES not have a disability rating|###|###|
+|User DOES have a pension/disability claim|###|###|
+|User DOES NOT have a pension/disability claim|###|###|
 
-
-### Test cases for "Education"
-
-|Test case|Intended outcome|CTA/URL|Staging User| Error State|Error state Staging User|
-|----|----|----|----|----|----|
-|###|###|###|
-|###|###|###|
-|###|###|###|
 
 ### Test cases for "Records"
 |Test case|Intended outcome|CTA/URL|Staging User| Error State|Error state Staging User|
-|----|----|----|----|----|----|
+|----|----|----|
 |###|###|###|
 |###|###|###|
 |###|###|###|
 
-### Test cases for "Discover other benefits"
-
-|Test case|Intended outcome|CTA/URL|Staging User| Error State|Error state Staging User|
-|----|----|----|----|----|----|
-|###|###|###|
-|###|###|###|
-|###|###|###|
-
-### Test cases for "TBD"
+### Test cases for "Applications in Progress"
 
 |Test case|Intended outcome|CTA/URL|Staging User| Error State|Error state Staging User|
-|----|----|----|----|----|----|
+|----|----|----|
+|User DOES have an application in progress|###|###|
+|User DOES NOT have an application in progress|###|###|
 |###|###|###|
-|###|###|###|
-|###|###|###|
+
+
 
