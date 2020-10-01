@@ -102,7 +102,7 @@ All data elements persisted in smart-pgd-fhir will have the [Clipboard Provenanc
 
 **Login/Authentication**
 
-The Clipboard Application utilizes existing credentialing workflows on va.gov. Once the user is authenticated a Token is sent on the users behalf to the MAP user-service [JWT Exchange workflow](https://coderepo.mobilehealth.va.gov/projects/IUMS/repos/user-service/browse/docs/externalJwtExchange.md). The validated JWT is returned to vets-api and used for all subsequent calls to MAP resources. More information on the authentication and authorization workflow is available in the [va.gov authentication flow description document](vaos_vagov_authFlow.md).
+The Clipboard Application utilizes existing credentialing workflows on va.gov. Once the user is authenticated a Token is sent on the users behalf to the MAP user-service [JWT Exchange workflow](https://coderepo.mobilehealth.va.gov/projects/IUMS/repos/user-service/browse/docs/externalJwtExchange.md). The validated JWT is returned to vets-api and used for all subsequent calls to MAP resources. More information on the authentication and authorization workflow is available in the [va.gov authentication flow description document](vaos_vagov_authFlow.md).  The MAP JWT expires after 10 minutes and is never exposed to the client application.
 
 
 The MAP JWT is stored in a secure Redis instance and corelated to the authenticated user with a UUID:
@@ -118,15 +118,7 @@ module HealthQuest
 end
 ```
 
-//TODO How long does JWT persist in Redis?  What happens to that when a user logs out?
-
 ![](diagrams/JWT_Exchange.png "Figure 2 - Auth Diagram")
-
-**Logout**
-//TODO Will we really call user-service/logout or will we just invalidate/remove the MAP JWT?  What does VAOS do?
-To logout, the Clipboard Application simply calls the logout endpoint on user service.
-
-![](diagrams/Clipboard_logout.png "Figure 3 - Logout Diagram")
 
 **Get/Create Patient**
 
