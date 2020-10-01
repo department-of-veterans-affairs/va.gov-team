@@ -25,6 +25,10 @@ Last Updated October 1, 2020
 
 ## The Problem
 
+The VAOS (online scheduling) tool shows people all of the facilities that they're registered at, but registration does not mean someone is a current patient. People can be registered at facilities for reasons other than being a patient there, and they can still be registered at facilities they haven't been to in a number of years. This is because the facility list is pulled in via MVI, and MVI does not make a distinction between the facilities someone currently goes to and old facilities. This is causing veterans to see facilities in their facility list that they don't go to, which has resulted in a considerable amount of complaints. They do not understand why they are being asked to make appointments at facilities they don't go to.
+
+While we can't change the historical list of facilities that is kept in MVI, we can allow veterans to indicate which facilities they are currently patients at and which they are not so that we don't show them old facilities in the VAOS tool. This information *is* currently available on MHV, but it does not currently exist on VA.gov.
+
 ### User Goals
 
 
