@@ -84,19 +84,32 @@ Towards the end the only change that should be made on the app side of things is
 
 ### Detailed Design
 
-_Here's an easy rule of thumb for deciding what to write here: Think of anything that would be a pain to change if you were requested to do so in a code review. If you put that implementation detail in here, you'll be less likely to be asked to change it once you've written all the code._
+A few things will have to happen in order pave the way for additional changes that will bundle the forms library.
 
+#### Preparation
+
+- The app-specific code mentioned in [Application Entanglement](#application-entanglement) will have to be moved so that it no longer lives in the forms library.
 - Use the `no-unresolved-modules` ESLint plugin to [find & remove unused code](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8763) in the `forms` and `forms-library` directories
+
+#### Beginning the bundling
+
 - Copy what remains from `forms` into `forms-system`
-- [Add an alias to the `babelrc` file](https://github.com/department-of-veterans-affairs/vets-website/blob/055d96c54e1df54138b9efc589b98e55962333b3/.babelrc#L50-L55) that redirects imports from `platform/forms` to `platform/forms-system`
-- Configure the `no-restricted-imports` ESLint rule to [restrict imports of `src/platform/packages` directly](https://eslint.org/docs/rules/no-restricted-imports)
+- Create `platform/packages/forms-library` and move the contents of `platform/forms-system` into it
+- Add a `package.json` file to the new `forms-library` package directory
+- [Add an alias to the `.babelrc` file](https://github.com/department-of-veterans-affairs/vets-website/blob/055d96c54e1df54138b9efc589b98e55962333b3/.babelrc#L50-L55) that redirects imports from `platform/forms` and `platform/forms-system` to the new package
 - Edit the webpack config & use a custom `sass-loader` importer to rewrite imports from `forms` to `forms-system`
-- Add a `package.json` file to `src/platform/packages/forms-library`, complete with all of the forms library dependencies
+- Fix broken relative imports
+- Add babel configuration to the new package because according to [Babel's docs](https://babeljs.io/docs/en/config-files):
 
-Once the forms library is actually a package, app code can be updated to import from it directly instead of relying on the  aliases.
+> Searching [for a config] will stop once a directory containing a `package.json` is found, so a relative config only applies within a single package
 
-- Each app team will update their code to use forms library JSS & SCSS from the package instead of by direct path
-- Remove the alias & custom SASS importer
+#### Final touches
+
+Once the forms library is actually a package, app code can be updated to import from it directly instead of relying on the aliases.
+
+- Each app team will update their code to use forms library JS & SCSS from the package instead of by direct path
+- Configure the `no-restricted-imports` ESLint rule to [restrict imports of `src/platform/packages` directly](https://eslint.org/docs/rules/no-restricted-imports)
+- Remove the `.babelrc` forms-library alias & custom SASS importer
 
 ### Code Location
 
