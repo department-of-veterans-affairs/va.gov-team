@@ -29,8 +29,6 @@ Use Cases:
 
 - Partner applications may utilize the Clipboard application to provide a link to a Questionnaire within the partner application. This link will contain the necessary information to launch the correct Questionnaire for the Veteran to complete. If the Veteran has not been authenticated they will be directed to the logon workflow on va.gov and then redirected to the Questionnaire.
 
-- TODO other use cases?
-
 This is the initial relase of the application, V1 of the Clipboard application on va.gov.
 
 ## High-Level App Categorization
@@ -85,7 +83,7 @@ The following describes top level data elements entered by the user into the app
 | :--------------------------- | :------------------------------------------------------ | :------------------ |
 | Appointment Pre-Visit Agenda | Questions/Answers pertaining to an upcoming appointment | smart-pgd-fhir      |
 
-All data elements persisted in smart-pgd-fhir will have the [Clipboard Provenance/Source mapping](). Additional information on how the data elements are persisted in smart-pgd-fhir can be found in the official Clipboard FHIR mappings at [url text](url).
+All data elements persisted in smart-pgd-fhir will have the [Clipboard Provenance/Source mapping](). Additional information on how the data elements are persisted in smart-pgd-fhir can be found in the official Clipboard FHIR mappings at [url text](url).  note: links will be updated when FHIR Mapping is approved.
 
 # Logical Design Perspective
 
@@ -122,7 +120,7 @@ end
 
 **Get/Create Patient**
 
-After login/authentication, the application will attempt to retrieve the user's Patient resource within SMART-PGD-FHIR. If the user does not have an existing Patient resource, then one will be created with the user name, ICN as an identifier, and Clipboard Provenance/Source Mapping.
+After authentication, the application will attempt to retrieve the user's Patient resource within SMART-PGD-FHIR. If the user does not have an existing Patient resource, then one will be created with the user name, ICN as an identifier, and Clipboard Provenance/Source Mapping.
 
 ![](diagrams/createPatient.png "Figure 4 - Create Patient Diagram")
 
@@ -132,7 +130,7 @@ The Clipboard Application will call smart-pgd-fhir service to retrieve all Quest
 ![](diagrams/QuestionnaireResponsesByUserID.png)
 
 **Get Appointment Pre-Visit Agenda Questionnaire**
-The Clipboard Application will call the mobile-appointment-service endpoint to retrieve upcoming appointments associated with the Veteran. Based on the Synthetic ID of the returned appointements and the ICN, existing Questionnaire Response (QR) Resources will be queried. If there is no QR Resource already associated with this Appointment ID, the approptiate Questionnaire Resource will be retrieved
+The Clipboard Application will call the mobile-appointment-service endpoint to retrieve upcoming appointments associated with the Veteran. Based on the Synthetic ID of the returned appointements, existing Questionnaire Response (QR) Resources will be queried. If there is no QR Resource already associated with this Appointment ID, the approptiate Questionnaire Resource will be retrieved
 
 ![](diagrams/QAndQRFromApptID.png)
 
@@ -153,7 +151,7 @@ The following are a list of requests that are made by the Clipboard Mobile appli
 | /users/v2/session                                                               | POST, GET       | user-service                | POST Facilitates JWT Exchange Workflow and GET provides details to create a new Patient Resource                                                                                          |
 | /smart-pgd-fhir/v1/Patient?identifier={icn}&\_sort:desc=\_lastUpdated&\_count=1 | GET             | smart-pgd-fhir              | Retrieves the user's Patient resource from SMART PGD FHIR via their ICN.                                                                 |
 | /smart-pgd-fhir/v1/Patient                                                      | POST            | smart-pgd-fhir              | Creates the user's Patient resource in SMART PGD FHIR                                                                                    |
-| /smart-pgd-fhir/v1/Questionnaire?id={questionnaire-title}                       | GET             | smart-pgd-fhir              | Retrieves a Questionnaire with matching id, which is used as a reference in subsequent QuestionnaireResponse requests to SMART PGD FHIR. |
+| /smart-pgd-fhir/v1/Questionnaire?id={questionnaire-id}                       | GET             | smart-pgd-fhir              | Retrieves a Questionnaire with matching id, which is used as a reference in subsequent QuestionnaireResponse requests to SMART PGD FHIR. |
 | /smart-pgd-fhir/v1/QuestionnaireResponse?subject={appointment-id}               | GET             | smart-pgd-fhir              | Retrieves a QuestionnaireResponse, where the subject is equal to a given appointment id, from SMART PGD FHIR                             |
 | /smart-pgd-fhir/v1/QuestionnaireResponse                                        | POST            | smart-pgd-fhir              | Creates a QuestionnaireResponse in SMART PGD FHIR                                                                                        |
 | /smart-pgd-fhir/v1/QuestionnaireResponse?author={user-id}                       | GET             | smart-pgd-fhir              | Retrieves all QuestionnaireResponses, where the QuestionnaireResponse.author field is equal to the user id, from SMART PGD               |
@@ -179,7 +177,7 @@ Redis is used as a temporary store for corelation of user session UUID with the 
 
 ### Deployment Environment
 
-The Clipboard Application front end will be deployed to the [existing va.gov infrastucture](https://github.com/department-of-veterans-affairs/vets-website) and backend will be deployed to the existing [vets-api infrastructure](https://github.com/department-of-veterans-affairs/vets-api). Both va.gov and vets-api have Dev, Staging and Production instances that will connect to the appropriate environment in MAP.
+The Clipboard Application front end will be deployed to the [existing va.gov infrastucture](https://github.com/department-of-veterans-affairs/vets-website) and middleware will be deployed to the existing [vets-api infrastructure](https://github.com/department-of-veterans-affairs/vets-api). Both va.gov and vets-api have Dev, Staging and Production instances that will connect to the appropriate environment in MAP.
 
 ## Security :
 
@@ -194,7 +192,6 @@ The Clipboard application authenticates with the existing va.gov authentication 
 | **Contract Development Team** | **VA E-Mail Address** | **Phone Number** |
 | Amanda Buckley | amanda.buckley@va.gov | |
 | Mark Dewey | mark.dewey@va.gov | |
-| Laurence Guild | laurence.guild@va.gov | |
 | Dillo Raju |||
 | **Developer Organization/Company** | **Contract Start Date** | **Contract End Date** |
 | GCIO | | |
