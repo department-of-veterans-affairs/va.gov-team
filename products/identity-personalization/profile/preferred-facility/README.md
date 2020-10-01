@@ -48,7 +48,10 @@ While we can't change the historical list of facilities that is kept in MVI, we 
 
 ## Questions
 
-
+- How do we support this feature on VA.gov while it also exists on MHV? How would that technical integration work?
+- Who is a technical POC we can work with for this project?
+- When we say something is "saved in MHV", what does that mean? Does MHV have its own database?
+- Are there examples of other features or settings that exist both on MHV and another website?
 
 ## Requirements
 
@@ -75,6 +78,14 @@ While we can't change the historical list of facilities that is kept in MVI, we 
 
 ## Product Decisions
 ## Technical Details
+
+### How the feature works on MHV
+
+As of the beginning of this project (October 2020), this is who the preferred medical facility feature works on MHV:
+
+- MHV pulls in all facilities a person is registered at into their MHV profile. Someone can be registered at a facility for a number of reasons, not all of which involve receiving medical care there.
+- People can then check a box to indicate at which facilities they currently receive care. This is only saved in MHV and used by MHV administrators. This information is not sent back to MVI.
+
 ### How to Access and Test
 ### Error Handling
 ## Screenshots
