@@ -1,4 +1,4 @@
-# Preferred medical facility(ies) in the VA.gov profile: Product Outline
+# Preferred medical facilities in the VA.gov profile: Product Outline
 
 Last Updated October 1, 2020
 
