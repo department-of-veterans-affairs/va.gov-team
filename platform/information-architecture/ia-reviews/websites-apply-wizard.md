@@ -55,8 +55,47 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 
 ### Meetings Notes and Background Info
 
+**9/3 Update Mtg** Mikki, Peggy, Liz, John
 
-8/7/2020 - Kick-off
+- The move of the How to Apply Wizards from the How To content pages to the actual Apply Now pages introduces more complexity than anticipated based on the variety of use cases (example: authenticate, start application, go back to Wizard because as a user I am confused).
+- Additionally, with multiple product teams implementing the Wizards at the same time (also not anticipated), the need to establish design pattern guidance (along with a fresh look at the Wizards as common react component) is needed.
+- As a result, the team has outlined the following steps to ensure successful, steamlined implementation AND to ensure we deliver improved outcomes for servicemembers who are applying for benefits at VA.gov:
+  - *More time/effort will be needed to articulate and illustrate "design system" level changes (including IA/UX, Content and Functional) to the Wizards* that takes into account the new complexity and use cases introduced by moving Wizards to the applicaton pages.
+  - Changes outlined so far (some of which will require additional definition and illustration):
+    - Tell the user in more explicit terms what form/application they are being routed to when they complete the wizard.  Currently, this is not clear in many cases.
+    - Add the ability for the user to "retake/start-over" the Wizard 
+    - Keep the Wizard persistent on the page so the user can go back and re-use it during their session (this will mean eliminating the session state cookie and exploring an alternative option that only hides the wizard on the immediate next form a user is routed to)
+    - Make sure the Wizard is open by default as seen [here](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction)
+    - Make sure the text for the “Already know this is the right form” text goes above the Wizard (specific guidance about the treatment for this text will be provided)
+    - Determine with Matt Self if the Education Wizard is needed on all application pages.  For example, does the Wizard need to be on highly specific scholarship pages  
+- Next steps planned by the meeting participants:
+  - Mikki will translate her IA recommendations into a format that allows for wider communication -- and use by Liz/Peggy/Danielle
+  - Liz will create more specific design comps detailing important guidance/requirements
+  - Peggy will work with Danielle to provide more specific content guidance for the teams
+  - John will provide this update to the all product leads (Education, Disability, eBenefits) as it may impact expectations and timelines -- and they can provide SME guidance on key questions -- e.g.should the Education Wizard go on all or select benefits pages?
+  - We will conduct usability testing with veterans to ensure we can validate key changes outlined above before going back to the product implementation teams to finalize development for staging review.   This will likely result in delayed implementation for the Education and Disability teams.
+  - We will provide more details to all the involved product teams (BAM 1/2, Booz-Allen and eBenefits) at a meeting set for next Thursday at 10am EST.
+
+**9/1/2020 - Regroup** w/John, Liz, Robin G, Leah, Luke, Amy K, Peggy, Danielle, Meg, Craig
+
+Goal is to sync on each of the wizards in flight
+	○ Disability in staging
+	○ HLR - was originally thinking of filing this into the existing flow for the 526, this will launch with the wizard
+	○ Ch 31/36 - prototypes complete, usability coming up on 36
+	○ STEM - changes happening in prod for STEM launch
+	○ Education in staging
+
+STEM launches mid-september, modifications need to be made to edu wizard to support this, so edu wizard will follow after STEM launches
+Disability wizard in staging, has not gone through any reviews
+
+John H's recap:
+
+- Rogers STEM (Amy + Neel) will implement content changes to the Education wizard -- prior to the Wizard’s move to the apply page — ahead of that team’s planned launch of their new application in mid-Sept. 
+- Public Websites (John, Liz + Danielle)  will work with Platform (Mikki, Peggy) to finalize the user flow, content changes as required/needed.  (I will schedule a follow-on conversation for us after Labor Day — e.g., to sync on whether there is need for “start over” in wizard and any other open items)
+- Accessibility feedback from Jen S. is ticketed here (#12211) (@Leah Keeler)
+- There will be close product/dev coordination/collaboration between BAM 2 (Education) + BAM 1 (Disability, HLR) as we complete the builds/refinements for staging review, ideally in September.  (Note: @Luke Majewski says the new HLR wizard will go live with the application — they are inextricably bound)
+
+**8/7/2020 - Kick-off**
 - Wizards currently on the How to apply and Eligibility pages are being moved to the /introduction page of the applications
 - Impacts:  Education, Disability, Higher level review
 - Additional wizard currently in flight on Ch31 and Ch36 work - reviews and collab cycle for this effort will continue with that team
