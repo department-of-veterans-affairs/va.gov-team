@@ -111,9 +111,13 @@ As of the beginning of this project (October 2020), this is who the preferred me
 ## Screenshots
 ### Before
 
-This feature does not currently exist on VA.gov. Here is the feature in MHV.
+This feature does not currently exist on VA.gov. Here is the feature in MHV for a staging user that only is registered at one facility. 
 
-[Get screenshot of feature on MHV]
+![Preferred facility feature on MHV with one facility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/MHV%20preferred%20facilities%20screenshot.png)
+
+Real people can be registered at more than one facility. Here is a screenshot of what that would look like:
+
+![Preferred facility feature on MHV with two facilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/MHV%20preferred%20facilities%20screenshot%20with%20two%20facilities.png)
 
 ### After
 
