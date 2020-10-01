@@ -17,6 +17,10 @@ When referencing various data sources related to the Learning Center MVP 1.0/1.1
   
 <summary>Requirements</summary>
 
+|user story|Phase|Epic|Resource/artifact/reqs|
+|---|---|---|---|
+|user story e.g. LC Search|1.0|Epic|Resource/artifact/reqs|
+
 ### Search
 * As a Veteran or beneficiary, I need to search for LC articles so I can find answers to questions I have about the site or about VA services or benefits. As a non-beneficiary who works with Veterans (like VSOs, fiduciaries), I want to find answers to questions I have about what I need to do in order to do my job (e.g., how to apply to become a fiduciary). 
   - Search experience that gives Veterans search results to legacy tier 2 content in support of veterans, caregivers, school administrators, VSOs, VA loan appraisers, etc. 
