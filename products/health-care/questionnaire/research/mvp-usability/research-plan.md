@@ -20,7 +20,6 @@ We will conduct remote moderated usability testing via Zoom using the Perigean c
 ## Participants and Recruitment
 
 Recruit for 12 fulfilled sessions (6 for the desktop version and 6 for the mobile version of the test) using the following criteria:
-_Amanda, Lacey and Ming - I know that we discussed 12 as a number for recruitment, but what are your thoughts on 5 per desktop/5 per mobile? Even if we ended up with 3 on desktop and 3 on mobile - that would still tell us a lot._
 
 **Must have for participants**
 - Have you visted a primary care provider at the VA in the last year? (pass = yes)
@@ -41,24 +40,24 @@ _Amanda, Lacey and Ming - I know that we discussed 12 as a number for recruitmen
 
 **Recruitment requirements**
 - Half (6) must have a mobile device and be willing to be complete the test on said device
-- Half (6) must have a laptop/desktop and be willing to be complete the test on said device
+- Half (6) must have a laptop/desktop and be willing to be complete the test on said laptop/desktop
 - The participants have Zoom downloaded prior to the session
 - The participants know how to screenshare
 
 *This study requires participants to screenshare, in order to click through a prototype.*
 
 ## Timeline 	
-#### Desired Timeline: October 12-16, 2020 
+#### Desired Timeline: October 13-19, 2020 
 One hour sessions
-_Amanda, Lacey, and Ming: Anyone open to evening (ET time) sessions so we can capture some Veterans who work during the day or other time zones?_
+_Amanda, Lacey, and Ming: Anyone open to evening (ET time) sessions so we can capture some Veterans who work during the day or other time zones? I gave ourselves a day between the pilot and the rest of the test to make any changes to the prototype/test script, but could push the days maybe up one if need be. This current timeline would make analysis occur during the very end of next sprint/the beginning of the following sprint._
 
 Team Availability | Time (EST)
 ------------------|--------------
-Day, October 14 | 9am - 8pm ET
 Day, October 15 | 9am - 8pm ET
 Day, October 16 | 9am - 8pm ET
+Day, October 19 | 9am - 8pm ET
 
-Mobile and Desktop Pilot Sessions (2 total sessions, 1 mobile and 1 desktop): Day, October 12 | 9am - 4pm ET
+Mobile and Desktop Pilot Sessions (2 total sessions, 1 mobile and 1 desktop): Day, October 13 | 9am - 4pm ET
 	
 ## Team Roles	
 - Moderator: Kristen McConnell (kristen.mcconnell@adhocteam.us)
@@ -66,7 +65,7 @@ Mobile and Desktop Pilot Sessions (2 total sessions, 1 mobile and 1 desktop): Da
 - Participant recruiting & screening: Perigean
 - Project point of contact: Amanda Buckley (abuckley@governmentcio.com)
 - Participant(s) for pilot test: TBD	
-- Note-takers: Perigean
+- Note-takers: TBD
 - Observers: Amanda Buckley (abuckley@governmentcio.com), Laurence Guild (lguild@governmentcio.com), Mark Dewey (mdewey@governmentcio.com), Lacey Higley (lacey.higley@va.gov), Ming Ligh (ming.ligh@va.gov)
 
 ## Resources	
