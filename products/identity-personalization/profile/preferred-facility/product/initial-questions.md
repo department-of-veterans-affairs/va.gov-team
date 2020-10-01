@@ -19,5 +19,21 @@ This is an email between Lenae/Carnetta Scrugs on 9.16.20:
 >
 > Where is MHV pulling/surfacing facility information for Veteran for this feature? [Carnetta's answer] **From MVI upon authentication**
 > Where does MHV currently store these Veteran's preferences for this feature? [Carnetta's answer] **In their MHV account**
-> We can also set up a quick call to chat about these questions as we do discovery for how to implement this type of feature on VA.gov.
 
+
+So, TL;DR
+
+- MHV pulls in all facilities a person is registered at into their MHV profile. Someone can be registered at a facility for a number of reasons, not all of which involve receiving medical care there.
+- People can then select which facilities they currently receive care at. This is only saved in MHV and has no effect on what is in MVI.
+
+## What we need to know
+
+- Who is a technical POC we can work with for this project?
+- When we say something is "saved in MHV", what does that mean? Does MHV have its own database?
+- Are there examples of other features or settings that exist both on MHV and another website?
+- Is it safe to assume that if we add this to VA.gov, preferred facilities will also continue to exist on MHV?
+
+### Additional questions for our team
+
+- How can we integrate with MHV to get this piece of information?
+- How can we save back to MHV so that what is in our profile is synced with what is in their profile?
