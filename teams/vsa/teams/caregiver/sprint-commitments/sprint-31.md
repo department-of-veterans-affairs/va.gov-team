@@ -17,8 +17,8 @@
 
 ## Design
   - Research plan for 10-10EZ
-  - Residential address on 10-10EZ
-  - Statement of truth checkboxes on 10-10CG
+  - Residential address on 10-10EZ (
+  - Statement of truth checkboxes on 10-10CG (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12794)
   
   ## Content
   - Finalizing the Product Guide
