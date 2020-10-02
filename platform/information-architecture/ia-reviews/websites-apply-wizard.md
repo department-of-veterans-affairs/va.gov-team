@@ -9,32 +9,46 @@
 
 **IA Request:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/14193
 
+**On this page:**
+- [User flows](#flows)
+- [IA structure, URLs and breadcrumbs](#ia)
+- [Navigation and entry points](#nav)
+- [Redirects](#redirects)
+- [Meeting notes](#notes)
+
+
+
 <hr>
 
-### User/Page Flows <br>
+### <a name="flows"></a>User/Page Flows <br>
 - Currently the wizard lives on key static content pages (i.e. How to apply). However, not all content pages that provide links to the forms include the wizard, and users can easily bypass the wizard by direct linking to specific applications. This increases the possibility of users completing and submitting the wrong form 
-- Moving the wizard to the initial page of the React form, ensures the site always provides a validation option to direct them to the correct online form. 
+- Moving the wizard to the initial page of the React form, ensures the user's scenario is always validated regardless of how they navigated to the application
+- Features of the wizard
+  - the wizard will notify the user of which form is the correct form and provide a CTA to get to it
+  - the user may skip the wizard or ignore's its recommendation if they want to continue forward on the current application
+  - the user can choose to start over and answer the wizard questions again
+
+![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/0b3dfa8d-64e6-4840-af31-dde44e8df3bb)
 
 
 
-### IA Structure, URLs and Breadcrumbs <br>
-*Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements. *
+### <a name="ia"></a>IA Structure, URLs and Breadcrumbs <br>
+- The wizard will be placed on the /introduction page of each applicable application
+- No new pages are needed, and existing urls and breadcrumbs will not be impacted
 
-**Approach:**
-
-- 
-
-
-Page | URL | Breadcrumb
---- | --- | ---
-
-**General Details**
-- Please connect with your writer/editor on the proper verbiage and capitalization of the last element of the breadcrumb
 
 <hr>
 
-### Navigation Changes and Entry and Exit Points <br>
-*The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
+### <a name="nav"></a>Navigation and Entry Points <br>
+
+- Entry points throughout the site will be modified as part of this work, and will vary for each implementation of this wizard.
+- General guidelines for application/apply CTAs:
+  - When context and user intent are clear, take user directly to the online form.  
+    - In this scenario, a primary button should be used to link to the online application.  In addition, provide a link under the button that goes to the "How to apply" page (or other primary content page for the benefit) for the user to learn more about how to apply/other ways to apply.
+  - When ux/design does not allow for a button (i.e. left nav), utilize a text link with clear, action oriented label (i.e "Apply online now").
+  - When the current context or user intent is not clear, default to taking user to the "How to apply" page or other primary content page for that form.  
+
+- ***Need to define specific entry point changes for each application: education, disability, vre, pcpg, hlr.  Need to also define if this new CTA standard impacts other applications that do not use a wizard (i.e. type of CTA and labeling)
 
 Priority | Placement | Description
 --- | --- | ---
@@ -43,23 +57,19 @@ Priority | Placement | Description
 
 <hr>
 
-### Redirects <br>
+### <a name="redirects"></a>Redirects <br>
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
-- 
+- No redirects are needed as part of this work
 
 Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
 *For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
 
 
 <hr>
-
-### Additional Details/Recommendations
-
-<hr>
 <hr>
 
-### Meetings Notes and Background Info
+### <a name="notes"></a>Meetings Notes and Background Info
 
 **9/3 Update Mtg** Mikki, Peggy, Liz, John
 
