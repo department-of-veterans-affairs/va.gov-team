@@ -32,7 +32,7 @@ This is not dynamic and links remain the same regardless
 |User DOES have appointments|User is shown scheduled and accepted appointments|TBD|
 |User DOES NOT have appointments|User is shown the following Messaging: Find out how to make a doctor’s appointment with a member of your VA health care team online or by phone.|TBD|
 
-**Any user with healthcare will show static lab results link**
+**Lab Results: Any user with healthcare will show static lab results link**
 
 ### Test cases for "Claims"
 |Test case|Intended outcome|Staging User|
