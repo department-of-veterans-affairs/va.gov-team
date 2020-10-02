@@ -31,17 +31,15 @@ https://github.com/GSA/search-gov-agency-collaboration/blob/master/va/microsites
 
 
 __SharePoint files:__
-
 - [VA.gov and 379 VA subdomain URLs as of 8/3/20](https://dvagov-my.sharepoint.com/:x:/g/personal/jennifer_lee27_va_gov/ETMp1K5EFLRFpI8OPQd0SB8Biep4j0CrGIo81qLlIWrAVQ?e=o5G25U)
 
 - [530 subdomains site maps as of 8/3/20](https://dvagov-my.sharepoint.com/:u:/g/personal/jennifer_lee27_va_gov/Eb5IL09uBT9AgqR1rz1LVkIBhEVtlomXNEwYbjQjOm6V9g?e=QGfb4X)
 
 
-* _We were able to crawl only 379 subdomains. The remaining subdomains had pages that could not be mapped (because of the way they were built) but probably do have content. So this is an undercount of what's really out there._
+_* We were able to crawl only 379 subdomains. The remaining subdomains had pages that could not be mapped (because of the way they were built) but probably do have content. So this is an undercount of what's really out there._
 
 
 __Draft deck for Jeff and Chris__
-
 This is a draft deck provided to Jeff Barnes, Mary O'Tool, and Chris Johnston re VA TeamSite contract situation.
 SharePoint: https://dvagov-my.sharepoint.com/:p:/g/personal/jennifer_lee27_va_gov/EcqD5iRhmaJAnJsPvZsjAx0BSGX3UsD01hXpIAscaxZDDQ
 
