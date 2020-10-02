@@ -17,7 +17,7 @@ This list of 450.3 URLs includes:
 > __Facilities:__
 > - __117.9K URLs__ (mostly for VHA facilities)
 > - 15.1K PDFs
-> - There are additional URLs for VBA facilities.
+> There are additional URLs for VBA facilities.
 <br>
 
 __Subdomain list:__
@@ -46,7 +46,7 @@ __Questions:__
 __Draft deck for Jeff and Chris__
 This is a draft deck provided to Jeff Barnes, Mary O'Tool, and Chris Johnston re VA TeamSite contract situation.
 SharePoint: https://dvagov-my.sharepoint.com/:p:/g/personal/jennifer_lee27_va_gov/EcqD5iRhmaJAnJsPvZsjAx0BSGX3UsD01hXpIAscaxZDDQ
-<br>
+<br></br>
 
 
 _* We were able to crawl only 379 subdomains. The remaining subdomains had pages that could not be mapped (because of the way they were built) but probably do have content. So this is an undercount of what's really out there._
