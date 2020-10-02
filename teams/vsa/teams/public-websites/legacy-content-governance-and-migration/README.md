@@ -17,6 +17,7 @@ This list of 450.3 URLs includes:
 > __Facilities:__
 > - __117.9K URLs__ (mostly for VHA facilities)
 > - 15.1K PDFs
+>
 > There are additional URLs for VBA facilities.
 <br>
 
