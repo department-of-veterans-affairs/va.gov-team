@@ -34,7 +34,7 @@ Users who want to initiate or manage direct deposit of their EDU payments must s
 <details>
   <summary><strong>eBenefits screens</strong> (Click to show diagram)</summary>
   
-  ![Current eBenefits DD screens](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/DD_EDU_Screens_1.png)
+  ![Current eBenefits DD screens](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/DD_EDU_User_Flows_1.png)
 </details>
 
 #### VA.gov (Compensation & Pension) current user flow:
@@ -49,8 +49,11 @@ Users who want to initiate or manage direct deposit of their EDU payments must s
 
 ![Current eBenefits user flow]()
 
-#### Proposed VA.gov user flow
-![DD-EDU User flow]()
+<details>
+  <summary><strong>VA.gov user flows</strong> (Click to show diagram)</summary>
+  
+  ![Current eBenefits DD screens](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/DD_EDU_Screens_1.png)
+</details>
 
 #### Questions for stakeholders
 `WIP`
