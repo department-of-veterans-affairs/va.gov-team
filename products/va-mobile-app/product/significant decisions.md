@@ -373,30 +373,53 @@ A device at 320x658 was searched for to find the bottom-end of screen widths, bu
 ## When, or under what conditions, would you recommend revisiting this design decision?
 Recommendation to revisit this matrix any time the taget OS versions are changed for the app, as well as any time a phone vendor releases a significantly different viewport size/configuration with high adoption. **Basically once or twice a year.** Consideration will also need to be made on a case by case basis on whether to test for newer format devices with folding screens or non-standard screen configurations like the LG Wing.
 
-# Decision 8: Only Users with logon credentials at Level of Assurace (LOA) 3 will be allowed into the app
-Users can have an account from one of three identity providers. Those accounts will have LOA 1, 2, or 3 based on what level of verification the user has completed. We need to decide what LOA is the minimum to access the credentialed areas of the app.
+
+
+# Decision 8: Only Users with logon credentials at Level of Assurace (LOA) 3 will be allowed to use the app
+Users can sign in using their account from one of three supported identity providers (DSLogon, ID.me, MHV). An account's level of verification determines their LOA classification: LOA1 (unverified), LOA2 (verified), LOA3 (fully verified with ID-proofing and/or MFA). We need to decide the minimum LOA required to allow access to the credentialed areas of the app.
 
 ## What did you decide on?
-Because of the way the VA Access page process has been made for mobile and how providers on that page currently work, we will require users have LOA3 in order to access the credentialed areas of the app. Depending on what testing from My Healthy Vet (MHV) shows for non-elevated accounts there may need to be some messaging on the log in screen.
+LOA3.
+
+_Note: vets-api considers "LOA2" and "LOA3" to be equal for the purposes of access._
+
+LOA1 users are permitted to sign in on VA.gov, but no personal information can be accessed or modified until they "ID-proof" with their identity provider (IdP). ID-proofing brings their credentials up to LOA3. Since the mobile app provides parallel access to features as VA.gov, we decided to mirror the VA.goc access threshold.
+
+Table of sign-in types
+| IdP | LOA | result after sign in |
+| ----- | ----- | ----- |
+| DSLogon | LOA2 | allowed in the app |
+| ID.me (no MFA) | LOA1 | ID.me flow asks the user to ID-proof before being allowed in the app |
+| ID.me (with MFA) | LOA3 | allowed in the app |
+| MHV Permium | LOA2 | allowed in the app |
+| MHV Advanced | LOA1 | _(needs confirmation)_ user is asked to ID-proof with ID.me |
+| MHV Basic | LOA1 | _(needs confirmation)_ user is asked to ID-proof with ID.me |
+
+We are considering adding some messaging on the login screen to set expectations with users before they enter the sign in flow.
 
 ## Document the people who agreed to the design decision (and their roles on the project)
 - Steve Kovacs (VA DEPO)
 
 ## What was the deciding factor for your decision?
 There were multiple factors that led to this decision:
-- The mobile team does not have strict control over the VA Access site to make major changes to the process
-- DS Logon no longer has LOA1 accounts. They only have the deprecated LOA2 and are moving all their accounts to LOA3
-- The request from the mobile app for log in on id.me is for LOA3 and if a user is not LOA3 the id.me site forces a user to initiate and complete verification for LOA3 before logging them into the application. 
+- The SSOe OAuth flow (and VA Access pages) define these rules. The mobile team does not have strict control over that process or the ability to make major changes to the process. SSOe does not allow LOA1 users to exit the sign in flow.
+- DSLogon no longer supports LOA1 accounts. They only have the deprecated LOA2 and are moving all their accounts to LOA3. This makes decision-making easier.
+- The request from the mobile app for log in on ID.me is for LOA3, and if a user is not LOA3 then ID.me forces a user to initiate and complete verification for LOA3 before logging them into the application. This helps us as well.
 
-Because the identity providers rules and processes, it is not possible at this time for a user with an LOA1 identity to actually log in the app, there is currently no reason to design for LOA1 users.
+Since the app is meant for users to get personalized task done quickly, not to browse documents or submit forms, there is currently no reason to design for LOA1 users.
 
 ## What other options did you consider?
-- Allow LOA1 users into the app, but only show screens similar to the web application version on va.gov.
-- Only allow id.me users.
+- Allow LOA1 users into the app, but restrict them from viewing personal information. This would require in-app ID-proofing to keep the app from being worthless to the LOA1 cohort. In-app ID-proofing was deemed to be a moderate lift, and the frustrating experience of LOA1 users was also considered: excitement in discovering the app, high effort sign-in process, only to be presented with no personal info and being asked to "do more". Allowing LOA1 is also a high-lift for the IAM team to modify SSOe OAuth service.
+
+- Only allow DSLogon and ID.me LOA3 users. This was discounted because it would prevent the high numbers of MHV users from accessing the app. 
 
 ## When, or under what conditions, would you recommend revisiting this design decision?
-This decision should be revisited once the MHV flow is able to be tested to ensure that the decision still holds. Barring any issues with that, this should be revisited after VA Access or any of the identify providers change what LOAs are allowed to log in through the mobile auth portal. 
+This decision should be revisited once the MHV flow is able to be tested and confirmed to ensure that the decision still holds. Barring any issues with that, this should be revisited after VA Access or any of the identify providers change what LOAs are allowed to log in through the mobile auth portal. IF VA.gov changes their access policies, the app should consider changing as well.
 
+
+
+
+------------------------------
 # Other Decisions we need to elaborate on:
 * Decision: the mobile app will not source any content from a CMS
 * more API work needed: we will work with VEText to define a push notification and preferences api for appointments (@alastair, @jonathan)
