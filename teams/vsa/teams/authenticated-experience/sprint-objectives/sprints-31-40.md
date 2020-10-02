@@ -62,24 +62,29 @@ Any tickets that aren't finished from sprint 31, plus:
 
 - Additional bug fixes and post-launch enhancements
 
-Note: I have regrouping with platform for a post-launch andinitiating the 508 review set for next sprint.
+Note: I have regrouping with platform for a post-launch and initiating the 508 review set for next sprint.
 
 ### Logged-in homepage
 
 **PM**
 
-- Help create tickets for the claims section design work.
+- Help create tickets for the disability/claims section design work.
 
 **Design**
 
-*Phase 2: Design Healthcare, Claims sections*
+*Phase 2: Design Healthcare, Disability/Claims sections*
 
+Note: The goal was to have the health care section largely completed in sprint 31 and then to start on the disability/claims section this sprint. Based on out 10/2 convo with Tressa and Cassandra, I think they're behind and I'm questioning whether the disability/claims section will be started this sprint. However, we should get the disability/claims section tickets created and talk about long term planning with them over the next 3ish sprints.
+
+Any tickets that aren't finished from sprint 31, plus:
+
+- Logged-in homepage on-page navigation work (if not wrapped up)
 - Healthcare: Send a secure message to your health care team #13920
 - Healthcare: Schedule and view your appointments #13921
 - Design for Health Care Application "status" update #7457
 - Copy/Messaging for Health Care Application (HCA) "status" section #7455
 - Work with copy on sections that are already complete
-- Design disability/claims section
+- Start design for disability/claims section
 
 ### Direct deposit for Edu
 
@@ -100,6 +105,8 @@ Any tickets that aren't finished from sprint 31, plus:
 - Samara to continue trying to get additional information to determine next steps
 
 ### VA Profile: Remove instances of "Vet360"
+
+Note: This is a DevOps tickets, and I am figuring out who can work on it. However, keeping it here since Lihan may be helping in come capacity and since I have to make sure it gets done.
 
 - [BE/DevOps] Change instances of "https://env.vet360.va.gov/" to "https://env.vaprofile.va.gov/" in INT, QA, PPD, PRD environments #14188
 
