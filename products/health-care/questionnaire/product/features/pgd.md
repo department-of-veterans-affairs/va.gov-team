@@ -20,9 +20,8 @@
 > As a Veteran, ...
 > As an administrator of the MAP PGD, I need to understand what data fields will be captured by the Clipboard application, and how those data fields will be mapped to FHIR Questionnaire/Questionnaire Response Resources so I can confirm compliance with FHIR and PGD specifications. Additionally, I need to know if any discreet data being captured should also be stored in other relevant FHIR Resources in PGD.
 
-* **Use Case:** Veterans need the ability 
+* **Use Case:** 
 
-* **Description:**
 
 ## Product Features
 
