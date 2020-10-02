@@ -20,10 +20,12 @@
 ## <a name="flows"></a>User/Page Flows <br>
 - Currently the wizard lives on key static content pages (i.e. How to apply). However, not all content pages that provide links to the forms include the wizard, and users can easily bypass the wizard by direct linking to specific applications. This increases the possibility of users completing and submitting the wrong form 
 - Moving the wizard to the initial page of the React form, ensures the user's scenario is always validated regardless of how they navigated to the application
-- Features of the wizard
+- Features/options of the wizard
+  - the H2 of the wizard can be customized to fit the scenario of its use (i.e. "Is this the form I need" versus "Find the right form")
   - the wizard will notify the user of which form is the correct form and provide a CTA to get to it
-  - the user may skip the wizard or ignore's its recommendation if they want to continue forward on the current application
   - the user can choose to start over and answer the wizard questions again
+  - Optional feature: the user can skip the wizard or ignore's its recommendation if they want to continue forward on the current application
+
 
 ![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/0b3dfa8d-64e6-4840-af31-dde44e8df3bb)
 
