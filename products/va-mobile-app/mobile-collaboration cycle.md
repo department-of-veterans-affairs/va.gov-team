@@ -411,7 +411,7 @@ You bring:
 Reach out to accessibility experts in [#vetsgov-accessibility](https://dsva.slack.com/channels/vetsgov-accessibility) in Slack.
 
 ## Mobile App Accessibility Checklist
-The team has compiled a [VA.gov Mobile App Accessibility Testing Plan] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/VA.gov%20Mobile%20a11y%20Testing%20Plan%20v0.1.pdf) based on WCAG 2.0 and Section 508 accessibility standards. The purpose of this document is to outline:
+The team has compiled a [VA.gov Mobile App Accessibility Testing Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/VA.gov%20Mobile%20a11y%20Testing%20Plan%20v0.1.pdf) based on WCAG 2.0 and Section 508 accessibility standards. The purpose of this document is to outline:
 
 - The checklist/ requirements that will guide the the VA.gov Mobile App build
 - The accessibility tools and materials that will be used during testing
