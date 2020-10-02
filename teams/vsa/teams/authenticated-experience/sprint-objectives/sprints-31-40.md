@@ -58,15 +58,24 @@ Note: Lihan will also be working on [#12089](https://github.com/department-of-ve
 
 ### Profile 2.0
 
-- 508 review, post launch review with platform team, any post-launch enhancements
+- Additional bug fixes and post-launch enhancements
+
+Note: I have regrouping with platform for a post-launch andinitiating the 508 review set for next sprint.
 
 ### Logged-in homepage
+
+**PM**
+
+- Help create tickets for the claims section design work.
 
 **Design**
 
 Phase 2: Design Healthcare, Claims sections
 
-- Get feedback on health care section; make updates
+- Finish up outstanding tickets from sprint 31
+- Work with copy on sections that are already complete
+- Design for Health Care Application "status" update #7457
+- Copy/Messaging for Health Care Application (HCA) "status" section #7455
 - Design disability/claims section
 
 ### Direct deposit for Edu
@@ -82,13 +91,22 @@ Phase 2: Design Healthcare, Claims sections
 
 ### Preferred Facility technical discovery
 
-- What still needs to happen for [#12875](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12875)?
+- Samara to continue trying to get additional information to determine next steps
 
 ### VA Profile: Remove instances of "Vet360"
 
 - [BE/DevOps] Change instances of "https://env.vet360.va.gov/" to "https://env.vaprofile.va.gov/" in INT, QA, PPD, PRD environments #14188
 
+### Pact work
+
+- [BE] - Setup Pact test #14234
+- [FE] - Write Pact test #14233
+
 ## Sprint 33 (10/21 – 11/3)
+
+### Profile
+
+- 508 review, post launch review with platform team, any post-launch enhancements
 
 ### Logged-in homepage
 
