@@ -28,7 +28,6 @@ __Subdomain list:__
 https://github.com/GSA/search-gov-agency-collaboration/blob/master/va/microsites.md 
 <br>
 
-
 __SharePoint files:__
 - [VA.gov and 379 VA subdomain URLs as of 8/3/20](https://dvagov-my.sharepoint.com/:x:/g/personal/jennifer_lee27_va_gov/ETMp1K5EFLRFpI8OPQd0SB8Biep4j0CrGIo81qLlIWrAVQ?e=o5G25U) (original spreadsheet without duplicates removed)
 
@@ -36,7 +35,7 @@ __SharePoint files:__
 <br>
 
 
-Questions:
+__Questions:__
 * How many URLs does VA currently have? 
 * Where are they managed (TeamSite, WordPress)? 
 * What's the usage data? 
