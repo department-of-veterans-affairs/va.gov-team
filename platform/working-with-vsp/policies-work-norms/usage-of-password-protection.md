@@ -16,7 +16,7 @@ So! While the Caregiver Team did have our go ahead to use password protection in
 
 We know you sometimes need to share new features in production for testing and demo purposes, without risking the feature being publicly discoverable. What we suggest is this: you can turn off indexing and keep the feature out of the VA.gov site navigation until you're ready to go live - that will already prevent it from being easily discovered and used.
 
-If you want another layer to prevent discoverability, you could also create an unguessable path for the URL, for example `https://www.va.gov/education/eligibility/joXEyY0BAGpBI3d`, and that's something your team can do completely on your own without any help from the Platform teams.  Here's a site where you can [generate a random string for your URL](https://www.random.org/strings/?num=10&len=15&digits=on&upperalpha=on&loweralpha=on&unique=on&format=html&rnd=new).
+If you want another layer to prevent discoverability, you could also create an unguessable path for the URL, for example `https://www.va.gov/education/eligibility/joXEyY0BAGpBI3d`, and that's something your team can do completely on your own without any help from the Platform teams.  [Here's a site where you can generate a random string for your URL](https://www.random.org/strings/?num=10&len=15&digits=on&upperalpha=on&loweralpha=on&unique=on&format=html&rnd=new).
 
 This way, you won't have to wait on the Platform, and you won't have to worry that the rickety password protection feature will break. It should thus be a quicker, and more stable route to pursue. It's better for the DEPO Platform this way too because we can focus our time and energy on creating better experimentation and launch tooling, instead of on supporting a sub-par tool.
 
