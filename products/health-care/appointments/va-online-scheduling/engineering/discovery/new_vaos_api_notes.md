@@ -33,6 +33,8 @@ Notes regarding the APIs defined at
 - We submit contact info with a request (phone and email), how would that be handled through here?
 - Appointment requests also have a visit type, which is office, phone, or video, I don't see a spot for that. Maybe type?
 - What's the slot field for?
+- I'm assuming cancelationReason can be used for both requests and appointments?
+   - We show different views depending on who cancelled an Express Care request
 
 ### Type
 
@@ -50,23 +52,44 @@ Notes regarding the APIs defined at
 ### PatientAppointmentMetadataResponse
 
 - Would be nice to have the request limit in here, too
-- Could we request multiple facility ids at once? We want to make a single request for the request limit check across multiple facilities for EC
+
+## VAOS service endpoints
+
+### Appointments
+
+- The appointments GET is missing start and end date parameters
 
 ### Slots
 
-- Does site code mean sta3n or sta6aid?
-
-## Services
-
-### Slots
-
-- We need to be able to search by facility (sta6aid)
+- Can we use clinicIds instead of clinicIens in the query params?
 
 ### Patient Appointment Metadata
 
-- We'd want to be able search by multiple parent sites here
+- Would it be feasible to request multiple facility ids at once? 
+   - We want to make a single request for the request limit check across multiple facilities for Express Care, and it could also be useful for regular VA requests
+
+## Mobile Facility Service endpoints
 
 ### Clinics
 
 - The clinics request doesn't have any patient context, but currently for primary care clinics are filtered by PACT (via CDW)
+   - Maybe there needs to be a clinics service in the VAOS service?
 - The FE has logic that only returns clinics that have been interacted with by a patient in the past two years, it would be nice to get that into the backend
+   - Another thing that would make more sense in the VAOS service, probably
+
+## Scheduling Configuration
+
+- Can the configurations GET have the same ids and children params that the facilities GET does? Or is the expectation that we query the facilities GET first and use those ids?
+   - It's more efficient for us to only fetch facility data after we filter out ones that aren't configured.
+- I don't think we'd use the express care reasons GET
+  
+## Mobile Facility Service schemas
+
+### Facility
+
+- This one would probably a good candidate for a more FHIR like structure, if we wanted to do that, since the output actually seems better (to me) than the current facility schema carried over from Lighthouse.
+   - `position` for lat/long
+   - Matching address schema
+   - Matching telecom schema
+   - hoursOfOperation for hours
+      - The Lighthouse hours are kind of a pain to parse, though
