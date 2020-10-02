@@ -74,11 +74,11 @@ Note: I have regrouping with platform for a post-launch andinitiating the 508 re
 
 *Phase 2: Design Healthcare, Claims sections*
 
-Any tickets that aren't finished from sprint 31, plus:
-
-- Work with copy on sections that are already complete
+- Healthcare: Send a secure message to your health care team #13920
+- Healthcare: Schedule and view your appointments #13921
 - Design for Health Care Application "status" update #7457
 - Copy/Messaging for Health Care Application (HCA) "status" section #7455
+- Work with copy on sections that are already complete
 - Design disability/claims section
 
 ### Direct deposit for Edu
