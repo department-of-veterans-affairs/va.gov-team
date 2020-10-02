@@ -58,11 +58,14 @@ There is a paper form to enroll in direct deposit, or change direct deposit info
   ![Current eBenefits DD screens](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/DD_EDU_User_Flows_1.png)
 </details>
 
-#### Questions for stakeholders
+#### Questions
 `WIP`
-- Does direct deposit info include **dependents’** C&P, education payments and DIC?
+- Do potential users of this feature include dependents?
+- Does direct deposit info include **dependents’** C&P, education and DIC payments?
+- Does direct deposit cover Special Monthly Payments (SMC) made to veterans?
 - Where is the C&P/EDU direct deposit crossover?
 - How often does a beneficiary choose different bank for C&P vs. EDU deposits?
-- How long does it take to initially set up direct deposit; how long to make a change?
+- How long does it take to initially enroll in and set up direct deposit; how long to see a change take effect?
+- How are user entry errors handled?
 
 ---
