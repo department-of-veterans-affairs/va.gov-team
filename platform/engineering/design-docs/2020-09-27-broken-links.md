@@ -10,6 +10,7 @@
    - [ ] Nick Sullivan
    - [ ] Dave Conlon
    - [ ] Jen Lee
+   - [ ] Jeff Barnes
 
 
 ## Overview
@@ -53,8 +54,8 @@ There are three phases of changes that would need to be implemented across the t
 1. Front end build makes broken link CSV public.  The CSV already gets built, it just needs to be saved as a public file.  (https://www.va.gov/data/vagov-broken-links.csv)
 
 2. The CMS builds the code to process the CSV and notify appropriate editors or Slack Channels.
-   a.  This process is triggered when the Vetsweb build hits `prod.cms.va.gov/api/govdelivery_bulletins/queue?EndTime=[unix timestamp] to confirm that the build has gone out.  An event will subscriber will be added to this on the CMS side.  The event subscriber will cause the CMS to read the broken link CSV and begin processing them.
-   b. For each item in the broken link report, the CMS will save in the CMS database, the following information:
+    a.  This process is triggered when the Vetsweb build hits `prod.cms.va.gov/api/govdelivery_bulletins/queue?EndTime=[unix timestamp] to confirm that the build has gone out.  An event will subscriber will be added to this on the CMS side.  The event subscriber will cause the CMS to read the broken link CSV and begin processing them.
+    b. For each item in the broken link report, the CMS will save in the CMS database, the following information:
      1. Page path  {'path/page-with-broken-link`}
      2. link text  {'click here'}
      3. link destination {'path/to/page-not-found`}
@@ -65,10 +66,10 @@ There are three phases of changes that would need to be implemented across the t
      8. Escalated to CMS Team (timestamp)  - Will be set when the CMS team has been notified.
      9. Resolved (timestamp) - Will be set when this no longer appears in a broken link CSV.
 
-   b.  The CMS will look up the page or menu item with the broken link.  If it is determined to be a CMS page or menu item, it will send a notification within the CMS to the last person who edited that page to that user's dashboard and send an email to that user using the notification queue.  If the same link text and broken destination appears on multiple pages, only one notification will be sent, to avoid sending a barrage of identical notifications (as would be the case of a broken menu item).
-   c. If the same page has a broken link for 3 separate content releases  _(~15 min span of time)_ notify other content owners responsible for the same section.
-    d. If the same page has a broken link for 5 separate content releases _(~25 min span of time)_, or there are no other editors for that section, alert Slack #CMS-team so the team can escalate the fix.
-    e. If it is not a CMS based page, notify the appropriate Slack channel based on the location of the broken link. (Will need an array lookup to pattern to match paths to content owner channels.)
+   c.  The CMS will look up the page or menu item with the broken link.  If it is determined to be a CMS page or menu item, it will send a notification within the CMS to the last person who edited that page to that user's dashboard and send an email to that user using the notification queue.  If the same link text and broken destination appears on multiple pages, only one notification will be sent, to avoid sending a barrage of identical notifications (as would be the case of a broken menu item).
+   d. If the same page has a broken link for 3 separate content releases  _(~15 min span of time)_ notify other content owners responsible for the same section.
+    e. If the same page has a broken link for 5 separate content releases _(~25 min span of time)_, or there are no other editors for that section, alert Slack #CMS-team so the team can escalate the fix.
+    f. If it is not a CMS based page, notify the appropriate Slack channel based on the location of the broken link. (Will need an array lookup to pattern to match paths to content owner channels.)
 
 3. The Front End build removes the requirement that broken links prevent the content release.
 
