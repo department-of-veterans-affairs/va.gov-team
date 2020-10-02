@@ -58,6 +58,8 @@ Note: Lihan will also be working on [#12089](https://github.com/department-of-ve
 
 ### Profile 2.0
 
+Any tickets that aren't finished from sprint 31, plus:
+
 - Additional bug fixes and post-launch enhancements
 
 Note: I have regrouping with platform for a post-launch andinitiating the 508 review set for next sprint.
@@ -70,9 +72,10 @@ Note: I have regrouping with platform for a post-launch andinitiating the 508 re
 
 **Design**
 
-Phase 2: Design Healthcare, Claims sections
+*Phase 2: Design Healthcare, Claims sections*
 
-- Finish up outstanding tickets from sprint 31
+Any tickets that aren't finished from sprint 31, plus:
+
 - Work with copy on sections that are already complete
 - Design for Health Care Application "status" update #7457
 - Copy/Messaging for Health Care Application (HCA) "status" section #7455
@@ -82,8 +85,11 @@ Phase 2: Design Healthcare, Claims sections
 
 **PM**
 
+Any tickets that aren't finished from sprint 31, plus:
+
 - [Platform checkpoint: Project kickoff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#project-kickoff)
 - Depending on where design is, maybe hold the [design intent checkpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#design-intent-collaboration) as well
+- [ ] **Jim Adams** Create Initial Mockup for EDU Direct Deposit #13810 
 
 ### 10/24 Cerner update
 
