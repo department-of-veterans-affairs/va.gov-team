@@ -2,20 +2,34 @@
 
 _How many URLs does VA currently have? Where are they managed (TeamSite, WordPress)? What's the usage data? How many of the URLs are legally required pages? How many are tier 1 or tier 2 Veteran-facing pages? How many are tier 3 administration/program/office content?_
 
-VA subdomain list via GSA GitHub, courtesy of Patrick Bateman:
-https://github.com/GSA/search-gov-agency-collaboration/blob/master/va/microsites.md 
-
 ## As of 8/03/20
 
-### There are more than 450.3K VA URLs.*
-Of these URLs, at least 43.4K are PDFs.
+VA had 530 subdomain sites. We could map only 379 of them.*
 
-__VA.gov/ URLs:__
+
+### The 379 subdomains contained over 450.3K URLs.*
+At least 43.4K are PDFs.
+
+
+__VA.gov:__
 - __56.9K URLs__
 
 - 19.6K PDFs
 
 - Unknown % of public pages with internal meeting notes, videos, and other meeting materials
+
+
+__Facilities:__
+- __117.9K URLs__ (mostly for VHA facilities)
+
+- 15.1K PDFs
+
+- There are additional URLs for VBA facilities.
+
+
+__Subdomain list:__
+Courtesy of Patrick Bateman:
+https://github.com/GSA/search-gov-agency-collaboration/blob/master/va/microsites.md 
 
 
 __SharePoint files:__
@@ -24,15 +38,9 @@ __SharePoint files:__
 
 - [530 subdomains site maps as of 8/3/20](https://dvagov-my.sharepoint.com/:u:/g/personal/jennifer_lee27_va_gov/Eb5IL09uBT9AgqR1rz1LVkIBhEVtlomXNEwYbjQjOm6V9g?e=QGfb4X)
 
-151 subdomains could not be mapped. 
 
+* _We were able to crawl only 379 subdomains. The remaining subdomains had pages that could not be mapped (because of the way they were built) but probably do have content. So this is an undercount of what's really out there._
 
-__blah.va.gov subdomain pages:__
-- VA currently has 530 subdomain sites. 
-
-- URLs: __468,856*__ (for the 379 subdomains we were able to map)
-
-* _We were able to crawl only 379 subdomains. The remaining sudomains didn't have pages that could be mapped (because of the way the pages are built) but probably do have content. So this is an under count of what's really out there._
 
 __Draft deck for Jeff and Chris__
 
