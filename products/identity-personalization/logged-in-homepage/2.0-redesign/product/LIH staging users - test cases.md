@@ -1,4 +1,5 @@
 # Logged-in Homepage Staging Users/Test Cases 
+[reference doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/readme.md)
 
 ### Test cases for "LOA1"
 |Test case|Intended outcome|Staging User|
@@ -21,9 +22,10 @@ This is not dynamic and links remain the same regardless
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User's healthcare application status is "In Progress"|User sees an application status of "In-Progress"|TBD|
-|User's healthcare application status is "Enrolled"|User sees an application status of "Enrolled"|TBD|
-|User's healthcare application status is "Decision"|User sees an application status of "Decision"|TBD|
-|User's healthcare application status is "Update"|User sees an application status of "Update"|TBD|
+|User's healthcare application status is "Deceased"|User sees an application status of "Deceased"|374:Deceased|
+|User's healthcare application status is "Enrolled"|User sees an application status of "Enrolled"|363:Enrolled|
+|User's healthcare application status is "Decision"|User sees an application status of "Decision"|369:We determined that you don’t qualify for VA health care, 366:Canceled or declined health care|
+|User's healthcare application status is "Update"|User sees an application status of "Update"|365:Update: We need more information, 367:Update: We're reviewing your application|
 |User DOES have secure messages|User sees current messages ("From" "Subject" "Date")|TBD|
 |User DOES NOT have secure messages|Messaging is as follows: "You don’t have any unread messages from your health care team"|TBD|
 |User DOES have prescriptions|User sees prescriptions in-progress|TBD|
