@@ -25,6 +25,7 @@ Recruit for 12 fulfilled sessions (6 for the desktop version and 6 for the mobil
 - Have you visted a primary care provider at the VA in the last year? (pass = yes)
 	- If confused by the term "primary care provider," explain that a primary care provider is your main doctor, nurse practitioner, or physician’s assistant.
 	- _Question to Amanda, Lacey, and Ming (or anyone who might know the answer to this): If primary care provider visits would be too difficult to recruit for, then we could change it to any medical appointment in the last 6 months. Thoughts? I don't know how hard it would be to recruit for that criteria._
+- At least one participant who had a virtual visit, since COVID began.
 
 **Good to have for participants**
 - At least one iOS mobile device owner
@@ -65,7 +66,7 @@ Mobile and Desktop Pilot Sessions (2 total sessions, 1 mobile and 1 desktop): Da
 - Participant recruiting & screening: Perigean
 - Project point of contact: Amanda Buckley (abuckley@governmentcio.com)
 - Participant(s) for pilot test: TBD	
-- Note-takers: TBD
+- Note-takers: Perigean
 - Observers: Amanda Buckley (abuckley@governmentcio.com), Dillo Raju (draju@governmentcio.com), Mark Dewey (mdewey@governmentcio.com), Lacey Higley (lacey.higley@va.gov), Ming Ligh (ming.ligh@va.gov)
 
 ## Resources	
