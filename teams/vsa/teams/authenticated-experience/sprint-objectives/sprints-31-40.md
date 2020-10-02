@@ -87,7 +87,7 @@ Note: I have regrouping with platform for a post-launch andinitiating the 508 re
 
 Any tickets that aren't finished from sprint 31, plus:
 
-- [Platform checkpoint: Project kickoff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#project-kickoff)
+- Project Kickoff [Direct Deposit for Education Benefits] #14167
 - Depending on where design is, maybe hold the [design intent checkpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#design-intent-collaboration) as well
 - **Jim Adams** Create Initial Mockup for EDU Direct Deposit #13810 
 
