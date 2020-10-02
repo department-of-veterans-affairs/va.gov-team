@@ -26,7 +26,7 @@ __Facilities:__
 
 
 __Subdomain list:__
-Courtesy of Patrick Bateman:
+<br>Courtesy of Patrick Bateman:
 https://github.com/GSA/search-gov-agency-collaboration/blob/master/va/microsites.md 
 
 
