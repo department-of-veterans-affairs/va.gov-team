@@ -42,10 +42,11 @@
   - When ux/design does not allow for a button (i.e. left nav), utilize a text link with clear, action oriented label (i.e "Apply online now").
   - When the current context or user intent is not clear, default to taking user to the "How to apply" page or other primary content page for that form.  
 
-- ***Need to define specific entry point changes for each application: education, disability, vre, pcpg, hlr.  Need to also define if this new CTA standard impacts other applications that do not use a wizard (i.e. type of CTA and labeling)
+- ***Need to define specific entry point changes for each application: education, disability, vre, pcpg, hlr.  Need to also define if this new CTA standard impacts other applications that do not use a wizard (i.e. type of CTA and labeling)***
 
 Priority | Placement | Description
 --- | --- | ---
+   |   |   |
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
