@@ -6,9 +6,7 @@ _How many URLs does VA currently have? Where are they managed (TeamSite, WordPre
 
 VA had 530 subdomain sites. We could map only 379 of them.*
 
-
-### The 379 subdomains contained over 450.3K URLs.*
-At least 43.4K are PDFs.
+__The 379 subdomains contained over 450.3K URLs, including 43.4K PDFs.__*
 
 
 __VA.gov:__
@@ -16,7 +14,7 @@ __VA.gov:__
 
 - 19.6K PDFs
 
-- Unknown % of public pages with internal meeting notes, videos, and other meeting materials
+We don't know how many of these public pages contain internal meeting notes, videos, and other materials.
 
 
 __Facilities:__
