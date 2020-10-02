@@ -43,7 +43,7 @@ No. This is an incremental update that improves interoperability across VA. But 
 | Scenario | Expected Outcome | Status/Other Notes |
 | --- | --- | --- |
 | Sign in to VA.gov with any LOA3 credential (ID.me/MHV/DSL), then navigate to MHV or Cerner | Arrive at MHV/Cerner in logged-in state. | Works, but as of 10/1/2020, only rolled out to 5% of users | 
-| Sign in to VA.gov with a DSLogon credential, then navigate to eBenefits | Arrive at eBenefits in logged-in state | |
+| Sign in to VA.gov with a DSLogon credential, then navigate to eBenefits | Arrive at eBenefits in logged-in state | Awaiting go-ahead from eBenefits team to enable SSOe-based linking. |
 | Sign in to VA.gov with an ID.me/MHV credential, then navigate to eBenefits | Arrive at eBenefits in logged-in state | Awaiting go-ahead from eBenefits team to enable navigation with these credentials. |
 | Sign in to VA.gov with any LOA1 credential, then navigate to MHV or Cerner | Error due to insufficient assurance | Functioning as expected, IAM gates non-LOA3 access to these sites | 
 |  Sign in to MHV using their IAM SSOe sign-in, then navigate to VA.gov | Arrive at VA.gov in logged-in state. | Functioning, rolled out to 100% of users. "Auto-login" functionality ensures VA.gov session gets established. |
