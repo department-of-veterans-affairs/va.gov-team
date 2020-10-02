@@ -7,7 +7,7 @@ https://github.com/GSA/search-gov-agency-collaboration/blob/master/va/microsites
 
 ## As of 8/03/20
 
-### Total VA URLs: 530,955 pages*
+### Total VA URLs: 530,955 URLs*
 
 
 __SharePoint files:__
@@ -17,7 +17,7 @@ __SharePoint files:__
 - [530 subdomains site maps as of 8/3/20](https://dvagov-my.sharepoint.com/:u:/g/personal/jennifer_lee27_va_gov/Eb5IL09uBT9AgqR1rz1LVkIBhEVtlomXNEwYbjQjOm6V9g?e=QGfb4X)
 
 
-__VA.gov/ pages:__
+__VA.gov/ URLs:__
 - URLs: __62,099__
 
 - URLs that are PDFs: 18,552
