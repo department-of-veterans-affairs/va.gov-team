@@ -69,7 +69,6 @@ In addition to the forms library, the platform provides other code that is used 
 These aren't strictly part of the forms library, but since the forms library makes use of its parent platform code, it becomes more difficult to place clear boundaries around the forms library.
 
 ### High Level Design
-_A high-level description of the system. This is the most valuable section of the document and will probably receive the most attention. You should explain, at a high level, how your system will work. Don't get bogged down with details; those belong later in the document._
 
 The forms library will be consolidated into a single place and bundled as a Node package.
 This will allow VFS teams to import it as if it were any other Node module.
