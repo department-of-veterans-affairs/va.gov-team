@@ -22,7 +22,7 @@
 - Moving the wizard to the initial page of the React form, ensures the user's scenario is always validated regardless of how they navigated to the application
 - Features/options of the wizard
   - the H2 of the wizard can be customized to fit the scenario of its use (i.e. "Is this the form I need" versus "Find the right form")
-  - Wizard intro content is specific to the application they are on - i.e. if they are on the 1990N form, the intro content should reference the 1990N, if they are on the 5495 the intro content should reference the 5495. 
+  - Wizard intro content needs to be "dynamic" and specific to the application they are on - i.e. if they are on the 1990N form, the intro content and links should reference the 1990N, if they are on the 5495, the intro content and links should reference the 5495. 
   - the wizard will notify the user of which form is the correct form and provide a CTA to get to it
   - the user can choose to start over and answer the wizard questions again
   - Optional feature: the user can skip the wizard or ignore's its recommendation if they want to continue forward on the current application
