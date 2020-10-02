@@ -4,11 +4,16 @@
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User has not verified their identity|User is shown a prompt to verify their identity|TBD|
+|User has an application in progress on VA.gov|User is shown "Application in progress"|TBD|
+|User does not have any of the above|User is shown links to all sections (claims, healthcare, education, records, other benefits|TBD|
+
 
  ### Test cases for "LOA3"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User has verified their identity|User sees all relevant links, balances, widgets, etc |TBD|
+|User has something|User sees relevant status |TBD|
+|User has nothing|User sees all relevant info links for all sections  |TBD|
+
 
 ### Test cases for "Education"
 This is not dynamic and links remain the same regardless
