@@ -5,8 +5,8 @@
 
 ---
 
-Since this is cross-team collaboration, design work may also be tracked in the eBenefits team folder here: 
-https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/add-update-EDU-direct-deposit
+Since this is cross-team collaboration, design work may also be tracked in the Authenticated Experience team folder here: 
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design
 
 ### Design
 
