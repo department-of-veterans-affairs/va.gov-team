@@ -28,4 +28,4 @@ We know this isn't an exact substitute for pw protection, because folks with th
 
 Thanks for your understanding!
 
-- The DEPO Platform
+`-` The DEPO Platform
