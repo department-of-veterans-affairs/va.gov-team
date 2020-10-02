@@ -9,7 +9,6 @@ __The 379 subdomains contained over 450.3K URLs, including 43.4K PDFs.__*
 
 > __VA.gov:__
 > - __56.9K URLs__
-
 > - 19.6K PDFs
 
 > We don't know how many of these public pages contain internal meeting notes, videos, and other materials.
@@ -17,16 +16,14 @@ __The 379 subdomains contained over 450.3K URLs, including 43.4K PDFs.__*
 
 > __Facilities:__
 > - __117.9K URLs__ (mostly for VHA facilities)
-
 > - 15.1K PDFs
-
 > - There are additional URLs for VBA facilities.
 <br>
 
 __Subdomain list:__
 <br>Courtesy of Patrick Bateman:
 https://github.com/GSA/search-gov-agency-collaboration/blob/master/va/microsites.md 
-<br>
+<br></br>
 
 
 __SharePoint files:__
@@ -43,7 +40,7 @@ __Questions:__
 * How many are legally required pages? 
 * How many are tier 1 or tier 2 Veteran-facing? 
 * How many are tier 3 administration, program, or office content?
-<br>
+<br></br>
 
 
 __Draft deck for Jeff and Chris__
