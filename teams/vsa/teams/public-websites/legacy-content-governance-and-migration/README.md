@@ -49,6 +49,6 @@ SharePoint: https://dvagov-my.sharepoint.com/:p:/g/personal/jennifer_lee27_va_go
 <br></br>
 
 
-_* We were able to crawl only 379 subdomains. The remaining subdomains had pages that could not be mapped (because of the way they were built) but probably do have content. So this is an undercount of what's really out there._
+_* We were able to crawl only VA.gov and 379 subdomains. The remaining subdomains had pages that could not be mapped (because of the way they were built) but probably do have content. So this is an undercount of what's really out there._
 
 
