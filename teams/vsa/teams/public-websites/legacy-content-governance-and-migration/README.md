@@ -45,7 +45,7 @@ __Questions:__
 
 
 __Draft deck for Jeff and Chris__
-<br>A draft deck for Jeff Barnes, Mary O'Tool, and Chris Johnston about VA TeamSite contract situation.
+<br>For Jeff Barnes, Mary O'Tool, and Chris Johnston to help with the VA TeamSite contract situation.
 SharePoint: https://dvagov-my.sharepoint.com/:p:/g/personal/jennifer_lee27_va_gov/EcqD5iRhmaJAnJsPvZsjAx0BSGX3UsD01hXpIAscaxZDDQ
 <br></br>
 
