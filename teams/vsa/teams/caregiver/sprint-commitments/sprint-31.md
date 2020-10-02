@@ -5,7 +5,7 @@
 ## Frontend
   - Feature toggles for 10/1 (see: https://github.com/department-of-veterans-affairs/vets-website/pull/14051)
   - Save in progress bug (https://github.com/department-of-veterans-affairs/va.gov-team/issues/12311)
-  - Finalize content for 10/1 launch
+  - Finalize content for 10/1 launch (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13993)
   - Statement of truth checkboxes
 
 ## Backend
