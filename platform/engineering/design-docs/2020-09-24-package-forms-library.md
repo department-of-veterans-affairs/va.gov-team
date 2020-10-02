@@ -35,7 +35,7 @@ We also have forms-adjacent code in the form of other dependencies
 - `vets-json-schema`
 
 
-At the moment, the forms library code is entangled with other platform code, but also some app code.
+Additionally, the forms library code is entangled with other platform code as well as some app code.
 
 #### Application entanglement
 
@@ -66,7 +66,7 @@ In addition to the forms library, the platform provides other code that is used 
 - `user`
 - `static-data`
 
-These aren't strictly part of the forms library, but since the forms library makes use of its parent platform code, it becomes more difficult to place clear boundaries around the forms library.
+These aren't _strictly_ part of the forms library, but since the forms library makes use of its parent platform code, it becomes more difficult to place clear boundaries around the forms library.
 
 ### High Level Design
 
@@ -101,6 +101,20 @@ A few things will have to happen in order pave the way for additional changes th
 - Add babel configuration to the new package because according to [Babel's docs](https://babeljs.io/docs/en/config-files):
 
 > Searching [for a config] will stop once a directory containing a `package.json` is found, so a relative config only applies within a single package
+
+#### Clarifying boundaries
+
+The [Platform Entanglement](#platform-entanglement) section mentions that forms library code imports from "parent" platform code. This makes the boundaries less clear, so an effort will be made to reduce or eliminate the forms library importing from platform code.
+
+- Move the `static-data/labels` file into the forms library, since it is only used in connection with forms library configuration
+- Prefer code that exists in the forms library, instead of in the parent platform directory.
+  - For example, we have a [`focusElement`](https://github.com/department-of-veterans-affairs/vets-website/blob/46000a4becae29ca72b505889713fd4b2b2718f0/src/platform/utilities/ui/index.js#L17-L32) that exists in `platform/utilities/ui`, but also one that exists in [`forms-system/src/js/utilities/ui`](https://github.com/department-of-veterans-affairs/vets-website/blob/46000a4becae29ca72b505889713fd4b2b2718f0/src/platform/forms-system/src/js/utilities/ui/index.js#L3-L18). This project would eliminate the duplicate code existing at the platform level and direct all imports to use the forms library version
+- Try to remove imports from `platform/monitoring` and instead import the relevant code in outside of the forms library and pass them in as props or config options.
+  - As an example, in the [`FormSignInModal`](https://github.com/department-of-veterans-affairs/vets-website/blob/1cc955b8d4f6b9f93f4553fdd4afa9878c75564f/src/platform/forms/save-in-progress/FormSignInModal.jsx#L12) component, remove the `platform/monitoring/record-event` import and instead put that function call inside of the function that gets passed as a prop. `FormSignInModal` is only used from `platform/site-wide`
+- Remove forms library dependence on platform re-implementations of 3rd party functions, like lodash's `get` and `set`.
+  - Some of these examples will be easy to avoid the lodash functions entirely, but for others we should switch to the lodash functions instead of the platform versions, with a longer term goal being to get away from lodash altogether
+- Remove imports for `src/platform/utilities/environment` and instead rely on global `const`s from webpack's DefinePlugin for environment-related `const`s (i.e. an api url) or branching
+
 
 #### Final touches
 
