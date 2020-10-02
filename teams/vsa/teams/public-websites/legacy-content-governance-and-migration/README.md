@@ -1,8 +1,8 @@
 # Placeholder folder for all things related to future legacy content migration and governance
 
-_Example: How many URLs does VA currently have? Where are they currently managed (TeamSite, WordPress)? What's the usage data on these? How many of these are legally required pages? How many of these are tier 1/2 Veteran-facing, how many tier 3 administration/program office content?_
+_How many URLs does VA currently have? Where are they managed (TeamSite, WordPress)? What's the usage data? How many of the URLs are legally required pages? How many are tier 1 or tier 2 Veteran-facing pages? How many are tier 3 administration/program/office content?_
 
-VA subdomain list via GSA GitHub, courtesy of Patrick Bateman:
+VA subdomain list via GSA GitHub, courtesy of Patrick Bateman: <br></br>
 https://github.com/GSA/search-gov-agency-collaboration/blob/master/va/microsites.md 
 
 ## As of 8/03/20
