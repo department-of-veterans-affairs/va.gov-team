@@ -31,6 +31,7 @@ This is not dynamic and links remain the same regardless
 |User DOES NOT have prescriptions|User sees no prescriptions in progress. Messaging is as follows: You don’t have any prescriptions being refilled. If you’ve refilled a prescription within the last 30 days, it may be out for delivery and not showing up here.  To view and track all of your prescriptions, please go to MyHealtheVet.|TBD|
 |User DOES have appointments|User is shown scheduled and accepted appointments|TBD|
 |User DOES NOT have appointments|User is shown the following Messaging: Find out how to make a doctor’s appointment with a member of your VA health care team online or by phone.|TBD|
+
 **Any user with healthcare will show static lab results link**
 
 ### Test cases for "Claims"
