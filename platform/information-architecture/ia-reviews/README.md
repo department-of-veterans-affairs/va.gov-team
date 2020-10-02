@@ -9,8 +9,7 @@ Team | Project | IA Work Status | Status Notes
 Facilities | Vet Centers | NOT STARTED | Design intent held 9/18 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/facilities-vet-centers.md
 BAM2 | eFolders migration | NOT STARTED | Kick-off held 8/13 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-efolders.md
 Orchid | IRIS Migration | NOT STARTED | Design intent held 8/18 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/orchid-iris.md
-Public Websites | Apply Wizards | STARTED | Kick-off held 8/7 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-apply-wizard.md
-CTO | COVID-19 Research/Trials | DRAFT COMPLETE  | IA Request not created yet <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/cto-covid-trials.md
+Public Websites | Apply Wizards | DRAFT COMPLETE | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-apply-wizard.md
 Health care Exp | Questionnaires | NOT STARTED | Usability testing prep held 8/6 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/healthcare-questionaires.md
 Public Websites | Learning Center | NOT STARTED | No kick-off, Design intent collab held 7/10 (was not able to attend) 
 eBenefits | VRE/Chapt 31 | DRAFT COMPLETE | Kick-off 5/8 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-chapt31.md
@@ -25,6 +24,7 @@ BAM 2 | Debt Letters | DRAFT COMPLETE | IA for initial phase complete, will need
 
 Team | Project | Review Status | IA Documentation 
 --- | --- | --- | --- 
+CTO | COVID-19 Research/Trials | COMPLETE 09/28/2020 | IA Request not created yet <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/cto-covid-trials.md
 eBenefits | PCPG/Chapt 36 Career Counseling | COMPLETE 09/15/2020 | Kick-off held 4/10 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-chapt36.md
 BAH | GIBCT Search & Filters | COMPLETE | No core IA work needed <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-gibct-search-filter.md
 BAH | School ratings | COMPLETE | No core IA work needed <br>https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-school-ratings.md
