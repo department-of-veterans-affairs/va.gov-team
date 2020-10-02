@@ -1,4 +1,4 @@
-# IRIS MVP Research Findings 
+# IRIS Research Findings 
 
 
 TO UPDATE:
