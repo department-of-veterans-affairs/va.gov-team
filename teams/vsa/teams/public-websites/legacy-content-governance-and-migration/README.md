@@ -7,26 +7,27 @@ VA had 530 subdomain sites. We could map only 379 of them.*
 __The 379 subdomains contained over 450.3K URLs, including 43.4K PDFs.__*
 <br>
 
-__VA.gov:__
-- __56.9K URLs__
+> __VA.gov:__
+> - __56.9K URLs__
 
-- 19.6K PDFs
+> - 19.6K PDFs
 
-We don't know how many of these public pages contain internal meeting notes, videos, and other materials.
+> We don't know how many of these public pages contain internal meeting notes, videos, and other materials.
 <br>
 
-__Facilities:__
-- __117.9K URLs__ (mostly for VHA facilities)
+> __Facilities:__
+> - __117.9K URLs__ (mostly for VHA facilities)
 
-- 15.1K PDFs
+> - 15.1K PDFs
 
-- There are additional URLs for VBA facilities.
+> - There are additional URLs for VBA facilities.
 <br>
 
 __Subdomain list:__
 <br>Courtesy of Patrick Bateman:
 https://github.com/GSA/search-gov-agency-collaboration/blob/master/va/microsites.md 
 <br>
+
 
 __SharePoint files:__
 - [VA.gov and 379 VA subdomain URLs as of 8/3/20](https://dvagov-my.sharepoint.com/:x:/g/personal/jennifer_lee27_va_gov/ETMp1K5EFLRFpI8OPQd0SB8Biep4j0CrGIo81qLlIWrAVQ?e=o5G25U) (original spreadsheet without duplicates removed)
