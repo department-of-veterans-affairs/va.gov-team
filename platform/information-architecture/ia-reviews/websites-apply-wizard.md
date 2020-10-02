@@ -17,10 +17,7 @@
 - [Meeting notes](#notes)
 
 
-
-<hr>
-
-### <a name="flows"></a>User/Page Flows <br>
+## <a name="flows"></a>User/Page Flows <br>
 - Currently the wizard lives on key static content pages (i.e. How to apply). However, not all content pages that provide links to the forms include the wizard, and users can easily bypass the wizard by direct linking to specific applications. This increases the possibility of users completing and submitting the wrong form 
 - Moving the wizard to the initial page of the React form, ensures the user's scenario is always validated regardless of how they navigated to the application
 - Features of the wizard
@@ -31,15 +28,12 @@
 ![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/0b3dfa8d-64e6-4840-af31-dde44e8df3bb)
 
 
-
-### <a name="ia"></a>IA Structure, URLs and Breadcrumbs <br>
+## <a name="ia"></a>IA Structure, URLs and Breadcrumbs <br>
 - The wizard will be placed on the /introduction page of each applicable application
 - No new pages are needed, and existing urls and breadcrumbs will not be impacted
 
 
-<hr>
-
-### <a name="nav"></a>Navigation and Entry Points <br>
+## <a name="nav"></a>Navigation and Entry Points <br>
 
 - Entry points throughout the site will be modified as part of this work, and will vary for each implementation of this wizard.
 - General guidelines for application/apply CTAs:
@@ -55,9 +49,8 @@ Priority | Placement | Description
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
-<hr>
 
-### <a name="redirects"></a>Redirects <br>
+## <a name="redirects"></a>Redirects <br>
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
 - No redirects are needed as part of this work
@@ -69,7 +62,7 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 <hr>
 <hr>
 
-### <a name="notes"></a>Meetings Notes and Background Info
+## <a name="notes"></a>Meetings Notes and Background Info
 
 **9/3 Update Mtg** Mikki, Peggy, Liz, John
 
