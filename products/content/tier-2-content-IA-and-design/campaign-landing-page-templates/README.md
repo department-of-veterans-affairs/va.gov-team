@@ -10,6 +10,14 @@ Many benefit-adjacent tier 2 content are not support/learning/help, product, or 
 - It may also be time based in nature, like a particular campaign (#BeThere) or a new legislation change (MISSION Act).
 - This category of tier 2 content could be better served as a campaign landing page.
 
+Examples of recent VA marketing initiatives that resulted in requests for Web support at VA.gov:
+
+- Veterans wear your mask campaign
+- Veterans get your flu shot campaign
+- VHA moving forward -- phased re-openings -- covid-19 campaign
+- VHA covid 19 research recruitment campaign
+
+
 ## Purpose
 
 The purpose of this template is to enable an easy way for VA businesses to create and manage this type of content in campaign landing page template in the new CMS, Drupal.   
