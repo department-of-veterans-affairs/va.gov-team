@@ -78,7 +78,7 @@ Note: The goal was to have the health care section largely completed in sprint 3
 
 Any tickets that aren't finished from sprint 31, plus:
 
-- Logged-in homepage on-page navigation work (if not wrapped up)
+- LIH Navigation #14360 (if not wrapped up)
 - Healthcare: Send a secure message to your health care team #13920
 - Healthcare: Schedule and view your appointments #13921
 - Design for Health Care Application "status" update #7457
