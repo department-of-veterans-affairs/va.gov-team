@@ -134,7 +134,7 @@ Since it will be a Node package, it will be added to the `package.json` file and
 We have ESLint rules in place which can verify that the right JS is imported as it relates to the forms library.
 Additionally, many of the end-to-end tests will fail if the forms library is not imported properly, so they will help with awareness.
 
-We don't have any automation in place to validate that the right SASS files are imported, so testing that forms styling is working properly will be a manual process using the browser dev tools.
+We don't have any automation in place to validate that the right SASS files are imported (other than webpack failing to resolve the file), so testing that forms styling is working properly will be a manual process using the browser dev tools.
 
 ### Logging
 
@@ -158,16 +158,36 @@ N/A
 N/A
 
 ### Open Questions and Risks
-_This section should describe design questions that have not been decided yet, research that needs to be done and potential risks that could make make this system less effective or more difficult to implement._
-
-_Some examples are: Should we communicate using TCP or UDP? How often do we expect our users to interrupt running jobs? This relies on an undocumented third-party API which may be turned off at any point._
-
-_For each question you should include any relevant information you know. For risks you should include estimates of likelihood, cost if they occur and ideas for possible workarounds._
 
 Do we want to separate the forms library build & testing stages from the main `vets-website` build? By easing the load of what webpack and mocha are doing, we could speed things up. The downside is that since we wouldn't be running the forms library tests with every merge into master, we would have to have some other automation in place to make sure that any changes to `src/platform/packages/forms-library` passes the forms library tests.
 
 ### Work Estimates
-_Split the work into milestones that can be delivered, put them in the order that you think they should be done, and estimate roughly how much time you expect it each milestone to take. Ideally each milestone will take one week or less._
+
+#### Prep work
+
+This involves removing unused forms code and rearranging things so that the forms library doesn't import from app code.
+
+**Estimate:** < 1 day
+
+#### Creating the package
+
+This captures the bulk of the work. Consolidating the forms library code into a single location, fixing broken imports, updating babel and webpack configuration.
+
+**Estimate**: < 4 days
+
+#### Creating the boundaries
+
+Once the package is created, there will still be pieces of code that will need to be shifted around in order to firmly solidfy the boundaries around the forms library.
+
+**Estimate:** < 1 week
+
+#### Updating app code
+
+By this point, the package will already exist, but due to some babel and webpack config it will be masquerading as if it were still spread across `platform/forms` and `platform/forms-system`. This is where each app team updates their code to import directly from the new package.
+
+Once app teams have done this, we will be able to remove those temporary configs and add an ESLint rule to prevent direct imports from `platform/packages/forms-library` in order to make sure that the forms library is treated like a package moving forward.
+
+Actual active time here will be fairly low (< 1 day), and will involve waiting for app teams before we will be able to finish the platform changes.
 
 ### Alternatives
 
