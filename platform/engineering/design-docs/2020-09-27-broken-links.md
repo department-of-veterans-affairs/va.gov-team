@@ -15,7 +15,7 @@
 ## Overview
 
 ### Objective
-To address broken links in a way that notifies the human source quickly, clearly, and without human intervention so that the link may be resolved.  If we can get broken links resolved rapidly, and we are doing rapid content releases every 3-5 minutes, we should not be holding up content releases for broken links.  Alerts, situation updates, and all other content should not be held hostage by a broken link somewhere in the website.
+To address broken links in a way that notifies the human source(s) quickly, clearly, and without human intervention so that the link may be resolved.  If we can get broken links resolved rapidly, and we are doing rapid content releases every 3-5 minutes, we should not be holding up content releases for broken links.  Alerts, situation updates, and all other content should not be held hostage by a broken link somewhere in the website.
 
 ### Background
 Broken links discovered during the Front End content build currently prevent content releases.  Notifications are sent to Slack #CMS-Team.  This pulls CMS team members away from their planned work, to triage the situation.  This includes:
@@ -27,18 +27,17 @@ Broken links discovered during the Front End content build currently prevent con
 The effort is time consuming and unproductive.
 While people are scrambling to investigate and notify affected editors, content is not going out.  Emergency alerts _(active shooter, hurricane closures, blizzard closures...)_ do not go out.  Email notifications from GovDelivery which are dependent on a FE content release, do not go out.  Timely releases of new initiatives, do not go out.
 
-The CMS team built the [Node Link Report](https://www.drupal.org/project/node_link_report) module (open sourced module) to detect and warn of broken links upon node save. So editors could have immediate feedback about potential broken links before publishing. This greatly reduced the number of broken link related content release stoppages.  We have done as much as we can on that front at the CMS layer.
+The CMS team built the [Node Link Report](https://www.drupal.org/project/node_link_report) module (open sourced module) to detect and warn of broken links upon node save. Editors now have immediate feedback about potential broken links before publishing. This greatly reduced the number of broken link related content release stoppages.  We have done as much as we can on that front at the CMS layer.
 
 
 ### Guiding Principles
-1. Veterans should not get 404 errors.
-2. Content on VA.gov should not have broken links to content on VA.gov.
-3. As the CMS scales from ~20 editors and daily content releases, up to ~500 editors and continuous content releases, we can not allow a broken link to prevent content releases.  Knowing about a storm closure or active shooter saves more souls than not getting a 404 when following a link.
-4. Developers currently waste far too much time chasing down broken links.
+1. Veterans should not get 404 errors. Content on VA.gov should not have broken links.
+2. As the CMS scales from ~20 editors and daily content releases, up to ~500 editors and continuous content releases, we can not allow a broken link to prevent content releases.  Knowing about a storm closure or active shooter [saves more souls](https://www.informationweek.com/government/dont-get-side-tracked-by-flashy-metrics-success-is-in-the-people/d/d-id/1331791) than not getting a 404 when following a link.
+3. Developers currently waste far too much time chasing down broken links.
 
 
 ### High Level Design
-Currently the Front End link checker creates a CSV file and exposes that to Jenkins.  The CSV contains the location of the broken link, the url it is pointing to.  I propose publishing that file to the website as open data (perhaps located at /data/vagov-broken-links.csv or as json).  Currently the Front End build process notifies the CMS when a content release has succeeded by pinging ______  The CMS could act on that ping as a trigger and read the broken link data.  It could process it immediately and take the following actions:
+Currently the Front End link checker creates a CSV file and exposes that to Jenkins.  The CSV contains the location of the broken link, the url it is pointing to.  I propose publishing that file to the website as open data (perhaps located at /data/vagov-broken-links.csv or as json).  Currently the Front End build process notifies the CMS when a content release has succeeded by pinging the CMS  The CMS could act on that ping as a trigger and read the broken link data.  It could process it immediately and take the following actions:
 1. Look up the location of the broken link, and determine if it is a CMS node.
 2. If it is a CMS node, notify the editor that created the published revision immediately in the CMS and send an email to them.
     1. If the same page has a broken link for 3 separate content releases  _(~15 min span of time)_ notify other content owners responsible for the same section.
@@ -98,7 +97,6 @@ There are no security concerns, as publicly revealing a list of active broken li
 There are no privacy concerns.  The CMS already has the email addresses of all editors in the CMS.
 
 ### Open Questions and Risks
-
 1.  There is a risk of a broken link being published at end of day and nobody being around to fix the broken link until the next morning.  This plan does not account for after-hours coverage, though it could easily notify anyone that might be on-call for such an emergency. Should it be planned that there is an editor on call to handle any after hours publishing that result in a broken link?
 
 
