@@ -1,7 +1,5 @@
 # Legacy VA content
 
-_How many URLs does VA currently have? Where are they managed (TeamSite, WordPress)? What's the usage data? How many are legally required pages? How many are tier 1 or tier 2 Veteran-facing? How many are tier 3 administration, program, or office content?_
-
 ## As of 8/03/20
 
 VA had 530 subdomain sites. We could map only 379 of them.*
@@ -23,18 +21,30 @@ __Facilities:__
 - 15.1K PDFs
 
 - There are additional URLs for VBA facilities.
-
+<br>
 
 __Subdomain list:__
 <br>Courtesy of Patrick Bateman:
 https://github.com/GSA/search-gov-agency-collaboration/blob/master/va/microsites.md 
 <br>
 
+
 __SharePoint files:__
-- [VA.gov and 379 VA subdomain URLs as of 8/3/20](https://dvagov-my.sharepoint.com/:x:/g/personal/jennifer_lee27_va_gov/ETMp1K5EFLRFpI8OPQd0SB8Biep4j0CrGIo81qLlIWrAVQ?e=o5G25U)
+- [VA.gov and 379 VA subdomain URLs as of 8/3/20](https://dvagov-my.sharepoint.com/:x:/g/personal/jennifer_lee27_va_gov/ETMp1K5EFLRFpI8OPQd0SB8Biep4j0CrGIo81qLlIWrAVQ?e=o5G25U) (original spreadsheet without duplicates removed)
 
 - [530 subdomains site maps as of 8/3/20](https://dvagov-my.sharepoint.com/:u:/g/personal/jennifer_lee27_va_gov/Eb5IL09uBT9AgqR1rz1LVkIBhEVtlomXNEwYbjQjOm6V9g?e=QGfb4X)
 <br>
+
+
+Questions:
+* How many URLs does VA currently have? 
+* Where are they managed (TeamSite, WordPress)? 
+* What's the usage data? 
+* How many are legally required pages? 
+* How many are tier 1 or tier 2 Veteran-facing? 
+* How many are tier 3 administration, program, or office content?
+<br>
+
 
 __Draft deck for Jeff and Chris__
 This is a draft deck provided to Jeff Barnes, Mary O'Tool, and Chris Johnston re VA TeamSite contract situation.
