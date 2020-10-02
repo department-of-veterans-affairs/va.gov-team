@@ -16,9 +16,9 @@ Direct deposits for C&P and EDU (GI Bill and VR&E) `confirm` payments are set up
 Users who want to initiate or manage direct deposit of their EDU payments must sign into eBenefits using a Premium DSLogon. Users who begin their path on VA.gov will be redirected to an eBenefits content page. 
 
 #### VA Form 29-0309
-It seems there is a paper form to add or change direct deposit information. VA Form 29-0309 is a simple one-page form that has two sections: contact and identifying info, and banking inof. It also includes a checkbox for the user to indicate participation in VAMatic. It is unclear whether this form is currently accepted by VA.
+There is a paper form to enroll in direct deposit, or change direct deposit information. VA Form 29-0309 is a simple one-page form that has two sections: contact and identifying info, and banking inof. It also includes a checkbox for the user to indicate participation in VAMatic. 
 
-[VA Form 29-0309](https://www.vba.va.gov/pubs/forms/VBA-29-0309-ARE.pdf)
+[VA Form 29-0309 Direct Deposit Enrollment/Change](https://www.vba.va.gov/pubs/forms/VBA-29-0309-ARE.pdf)
 
 #### eBenefits current user flow:
 
