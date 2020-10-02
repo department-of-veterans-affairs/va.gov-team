@@ -381,17 +381,17 @@ Users can sign in using their account from one of three supported identity provi
 ## What did you decide on?
 LOA3.
 
-_Note: vets-api considers "LOA2" and "LOA3" to be equal for the purposes of access._
+_Note: vets-api considers "LOA2" and "LOA3" to be equal for the purposes of access control._
 
-LOA1 users are permitted to sign in on VA.gov, but no personal information can be accessed or modified until they "ID-proof" with their identity provider (IdP). ID-proofing brings their credentials up to LOA3. Since the mobile app provides parallel access to features as VA.gov, we decided to mirror the VA.goc access threshold.
+LOA1 users are permitted to sign in on VA.gov, but no personal information can be accessed or modified until they "ID-proof" with their identity provider (IdP). ID-proofing brings their credentials up to LOA3. Since the mobile app provides parallel access to features as VA.gov, we decided to mirror the VA.gov access threshold.
 
 Table of sign-in types
-| IdP | LOA | result after sign in |
-| ----- | ----- | ----- |
+| IdP   | LOA   | result after sign in |
+| ----- | ----- | -----                |
 | DSLogon | LOA2 | allowed in the app |
 | ID.me (no MFA) | LOA1 | ID.me flow asks the user to ID-proof before being allowed in the app |
 | ID.me (with MFA) | LOA3 | allowed in the app |
-| MHV Permium | LOA2 | allowed in the app |
+| MHV Premium | LOA2 | allowed in the app |
 | MHV Advanced | LOA1 | _(needs confirmation)_ user is asked to ID-proof with ID.me |
 | MHV Basic | LOA1 | _(needs confirmation)_ user is asked to ID-proof with ID.me |
 
@@ -403,7 +403,7 @@ We are considering adding some messaging on the login screen to set expectations
 ## What was the deciding factor for your decision?
 There were multiple factors that led to this decision:
 - The SSOe OAuth flow (and VA Access pages) define these rules. The mobile team does not have strict control over that process or the ability to make major changes to the process. SSOe does not allow LOA1 users to exit the sign in flow.
-- DSLogon no longer supports LOA1 accounts. They only have the deprecated LOA2 and are moving all their accounts to LOA3. This makes decision-making easier.
+- DSLogon no longer supports LOA1 accounts. They only have the deprecated LOA2 and are moving all their accounts to LOA3. This helps us.
 - The request from the mobile app for log in on ID.me is for LOA3, and if a user is not LOA3 then ID.me forces a user to initiate and complete verification for LOA3 before logging them into the application. This helps us as well.
 
 Since the app is meant for users to get personalized task done quickly, not to browse documents or submit forms, there is currently no reason to design for LOA1 users.
@@ -414,7 +414,7 @@ Since the app is meant for users to get personalized task done quickly, not to b
 - Only allow DSLogon and ID.me LOA3 users. This was discounted because it would prevent the high numbers of MHV users from accessing the app. 
 
 ## When, or under what conditions, would you recommend revisiting this design decision?
-This decision should be revisited once the MHV flow is able to be tested and confirmed to ensure that the decision still holds. Barring any issues with that, this should be revisited after VA Access or any of the identify providers change what LOAs are allowed to log in through the mobile auth portal. IF VA.gov changes their access policies, the app should consider changing as well.
+This decision should be revisited once the MHV flow is able to be tested and confirmed to ensure that the decision still holds. Barring any issues with that, this should be revisited after VA Access or any of the identify providers change what LOAs are allowed to log in through the mobile auth portal. If VA.gov changes their access policies, the app should consider changing as well.
 
 
 
