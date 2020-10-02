@@ -8,12 +8,11 @@
 |User does not have any of the above|User is shown links to all sections (claims, healthcare, education, records, other benefits|TBD|
 
 
- ### Test cases for "LOA3"
+### Test cases for "LOA3"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User has signed up for something|User sees relevant statuses |TBD|
-|User has signed up for nothing|User sees all relevant sign-up info links for all sections  |TBD|
-
+|User has signed up for nothing|User sees all relevant sign-up info links for all sections|TBD|
 
 ### Test cases for "Education"
 This is not dynamic and links remain the same regardless
@@ -25,9 +24,9 @@ This is not dynamic and links remain the same regardless
 |User's healthcare application status is "Enrolled"|TBD|TBD|
 |User's healthcare application status is "Decision"|TBD|TBD|
 |User's healthcare application status is "Update"|TBD|TBD|
-|User DOES have secure messages|User sees current messages "From" "Subject" "Date"|TBD|
+|User DOES have secure messages|User sees current messages ("From" "Subject" "Date")|TBD|
 |User DOES NOT have secure messages|Messaging is as follows: "You don’t have any unread messages from your health care team"|TBD|
-|User DOES have prescriptions|User sees prescriptions in progress|TBD|
+|User DOES have prescriptions|User sees prescriptions in-progress|TBD|
 |User DOES NOT have prescriptions|User sees no prescriptions in progress. Messaging is as follows: You don’t have any prescriptions being refilled. If you’ve refilled a prescription within the last 30 days, it may be out for delivery and not showing up here.  To view and track all of your prescriptions, please go to MyHealtheVet.|TBD|
 |User DOES have appointments|User is shown scheduled and accepted appointments|TBD|
 |User DOES NOT have appointments|User is shown the following Messaging: Find out how to make a doctor’s appointment with a member of your VA health care team online or by phone.|TBD|
