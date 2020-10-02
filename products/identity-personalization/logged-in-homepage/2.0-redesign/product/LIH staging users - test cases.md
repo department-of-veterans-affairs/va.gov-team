@@ -38,8 +38,8 @@ This is not dynamic and links remain the same regardless
 ### Test cases for "Claims"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User DOES have a disability rating|User will see their disability rating|TBD|
-|User DOES not have a disability rating|this section will not appear|TBD|
+|User DOES have a disability rating|User will see their disability rating|38,228|
+|User DOES not have a disability rating|this section will not appear|10,17|
 |User DOES have a pension/disability claim|User will see claim information|TBD|
 |User DOES NOT have a pension/disability claim|User will see a link how to file a claim|TBD|
 
