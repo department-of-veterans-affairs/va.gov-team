@@ -11,8 +11,8 @@
  ### Test cases for "LOA3"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User has something|User sees relevant status |TBD|
-|User has nothing|User sees all relevant info links for all sections  |TBD|
+|User has signed up for something|User sees relevant statuses |TBD|
+|User has signed up for nothing|User sees all relevant sign-up info links for all sections  |TBD|
 
 
 ### Test cases for "Education"
@@ -22,7 +22,7 @@ This is not dynamic and links remain the same regardless
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User is elligble for education benefits but has not applied|user shown information on how to enroll|TBD|
-|User has education benefits|**TBD**|TBD|
+|User has education benefits|TBD|TBD|
 |User's healthcare application status is "In Progress"|TBD|TBD|
 |User's healthcare application status is "Enrolled"|TBD|TBD|
 |User's healthcare application status is "Decision"|TBD|TBD|
