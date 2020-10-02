@@ -8,6 +8,14 @@ https://github.com/GSA/search-gov-agency-collaboration/blob/master/va/microsites
 ## As of 8/03/20
 
 ### There are more than 450.3K VA URLs.*
+Of these URLs, at least 43.4K are PDFs.
+
+__VA.gov/ URLs:__
+- __56.9K URLs__
+
+- 19.6K PDFs
+
+- Unknown % of public pages with internal meeting notes, videos, and other meeting materials
 
 
 __SharePoint files:__
@@ -16,15 +24,7 @@ __SharePoint files:__
 
 - [530 subdomains site maps as of 8/3/20](https://dvagov-my.sharepoint.com/:u:/g/personal/jennifer_lee27_va_gov/Eb5IL09uBT9AgqR1rz1LVkIBhEVtlomXNEwYbjQjOm6V9g?e=QGfb4X)
 
-- 151 subdomains could not be mapped. 
-
-
-__VA.gov/ URLs:__
-- URLs: __62,099__
-
-- URLs that are PDFs: 18,552
-
-- Unknown % of pages are hosting internal meeting notes, videos,  and other meeting materials on public pages
+151 subdomains could not be mapped. 
 
 
 __blah.va.gov subdomain pages:__
@@ -32,7 +32,7 @@ __blah.va.gov subdomain pages:__
 
 - URLs: __468,856*__ (for the 379 subdomains we were able to map)
 
-* _We were able to crawl only 379 subdomains. The remaining sudomains didn't have pages that could be mapped (bc of the way the pages are built) but probably do have have content. So this is an under count of what's really out there._
+* _We were able to crawl only 379 subdomains. The remaining sudomains didn't have pages that could be mapped (because of the way the pages are built) but probably do have content. So this is an under count of what's really out there._
 
 __Draft deck for Jeff and Chris__
 
