@@ -6,11 +6,11 @@
 ---
 
 ### Users
-Recipients of VA compensation and pension (C&P), or educational (EDU) payments can elect to have deposits made directly to their checking or savings account via Electronic Funds Transfer (EFT). These recipients include Veterans and qualifying dependents, and payments are made from C&P, GI Bill and Veteran Readiness and Employment (VR&E) programs. Some recipients get all three payment types.
+Recipients of VA compensation and pension (C&P), or educational (EDU) payments can elect to have deposits made directly to their checking or savings account via Electronic Funds Transfer (EFT). These recipients include Veterans and qualifying dependents, and payments are made from C&P, GI Bill and Veteran Readiness and Employment (VR&E) programs. Some recipients get all three payment types. `confirm`
 
 Payment recipients can initiate or change their direct deposit information three ways: calling the Veteran's hotline, appearing in-person at their regional office, or using the VA.gov and eBenefits websites. Veterans without a bank may qualify for an account through the Veterans Benefits Banking Program (VBBP).
 
-Direct deposits for C&P and EDU (GI Bill and VR&E) payments are set up and managed independently. Currently C&P direct deposit is managed within the VA.gov user profile; EDU direct deposit is handled in eBenefits. The two DD features will be ultimately consolidated within the user profile.
+Direct deposits for C&P and EDU (GI Bill and VR&E) `confirm` payments are set up and managed independently. Currently C&P direct deposit self-service is managed within the VA.gov user profile; EDU direct deposit is handled in eBenefits. The two DD features will be ultimately consolidated within the user profile.
 
 ### EDU Direct deposit change processes
 Users who want to initiate or manage direct deposit of their EDU payments must sign into eBenefits using a Premium DSLogon. Users who begin their path on VA.gov will be redirected to an eBenefits content page. 
@@ -37,8 +37,15 @@ Users who want to initiate or manage direct deposit of their EDU payments must s
   ![Current eBenefits DD screens](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/DD_EDU_Screens_1.png)
 </details>
 
-#### Compensation & Pension direct deposit
-`Content TBD`
+#### VA.gov (Compensation & Pension) current user flow:
+
+- Navigate to VA.gov and sign in
+- Sign in using DSLogon/MyHealtheVet/ID.me
+- Click "Profile" link on Username drop-down
+- Click "Direct deposit" in sidebar nav
+- Click "Edit" in disability compensation account box
+- Input or amend Routing number, Account Number or Account type
+- Click "Update" button
 
 ![Current eBenefits user flow]()
 
