@@ -175,6 +175,8 @@ See the section [Separate repo](#separate-repo) in Future Work. We are avoiding 
 Another reason why we don't want to do this right now is that we would lost the advantage of the ESLint configuration that is part of `vets-website`.
 Once this configuration is published we will be able to import it into any repo, and at that point it may make sense to move the forms library out of `vets-website`.
 
+Another alternative would be to move the forms library build out of the overall `vets-website` build. One advantage of this would be saving time, since the forms library could be built once and then all apps could use the cached version. However, on my machine a webpack build takes about 30 seconds, so shaving a few seconds off of this time will not be a huge benefit compared to how long it takes to do a full build with content. The downside of this would be added complexity for managing which forms library build to use (i.e. production, localhost, staging), and CI builds would either have to increase pipeline complexity by dealing with cached builds or lose the time savings altogether. This increase in complexity for marginal time savings does not seem worth it.
+
 ### Future Work
 
 #### Separate repo
