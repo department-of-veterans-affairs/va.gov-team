@@ -12,7 +12,7 @@ We originally pointed the Caregiver Team to this password protection route as a 
 
 So! While the Caregiver Team did have our go ahead to use password protection in their outlier situation, **we're asking that VFS teams please stop using that feature, and forego password protecting your URLs from here on out.**
 
-### Alternative options
+## Alternative options
 
 We know you sometimes need to share new features in production for testing and demo purposes, without risking the feature being publicly discoverable. What we suggest is this: you can turn off indexing and keep the feature out of the VA.gov site navigation until you're ready to go live - that will already prevent it from being easily discovered and used.
 
