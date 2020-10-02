@@ -396,6 +396,7 @@ PO Box 4616
 Buffalo, NY 14240-4616  
 
 No documents required at this time { accordion, toggled closed by default }  { For print styles, suppress this accordion to not display on confirmation page print out}    
+
 In the future, you might need:  
 - Your reserve kicker  
 - Documentation of additional contributions that would increase your monthly benefits  
