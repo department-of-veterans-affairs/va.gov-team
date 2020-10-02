@@ -47,12 +47,10 @@ Users who want to initiate or manage direct deposit of their EDU payments must s
 - Input or amend Routing number, Account Number or Account type
 - Click "Update" button
 
-![Current eBenefits user flow]()
-
 <details>
   <summary><strong>VA.gov user flows</strong> (Click to show diagram)</summary>
   
-  ![Current eBenefits DD screens](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/DD_EDU_Screens_1.png)
+  ![Current eBenefits DD screens](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/DD_EDU_User_Flow_1.png)
 </details>
 
 #### Questions for stakeholders
