@@ -1,6 +1,6 @@
-# Placeholder folder for all things related to future legacy content migration and governance
+# Legacy VA content
 
-_How many URLs does VA currently have? Where are they managed (TeamSite, WordPress)? What's the usage data? How many of the URLs are legally required pages? How many are tier 1 or tier 2 Veteran-facing pages? How many are tier 3 administration/program/office content?_
+_How many URLs does VA currently have? Where are they managed (TeamSite, WordPress)? What's the usage data? How many are legally required pages? How many are tier 1 or tier 2 Veteran-facing? How many are tier 3 administration, program, or office content?_
 
 ## As of 8/03/20
 
