@@ -30,8 +30,8 @@ This is not dynamic and links remain the same regardless
 |User DOES NOT have secure messages|Messaging is as follows: "You don’t have any unread messages from your health care team"|TBD|
 |User DOES have prescriptions|User sees prescriptions in-progress|TBD|
 |User DOES NOT have prescriptions|User sees no prescriptions in progress. Messaging is as follows: You don’t have any prescriptions being refilled. If you’ve refilled a prescription within the last 30 days, it may be out for delivery and not showing up here.  To view and track all of your prescriptions, please go to MyHealtheVet.|TBD|
-|User DOES have appointments|User is shown scheduled and accepted appointments|**LENAE S**|
-|User DOES NOT have appointments|User is shown the following Messaging: Find out how to make a doctor’s appointment with a member of your VA health care team online or by phone.|**LENAE S**|
+|User DOES have appointments|User is shown scheduled and accepted appointments|**LENAE S to provide**|
+|User DOES NOT have appointments|User is shown the following Messaging: Find out how to make a doctor’s appointment with a member of your VA health care team online or by phone.|**LENAE S to provide**|
 
 **Lab Results: Any user with healthcare will show static lab results link**
 
@@ -40,8 +40,8 @@ This is not dynamic and links remain the same regardless
 |----|----|----|
 |User DOES have a disability rating|User will see their disability rating|38,228|
 |User DOES not have a disability rating|this section will not appear|10,17|
-|User DOES have a pension/disability claim|User will see claim information|**LUKE M**|
-|User DOES NOT have a pension/disability claim|User will see a link how to file a claim|**LUKE M**|
+|User DOES have a pension/disability claim|User will see claim information|**LUKE M to provide**|
+|User DOES NOT have a pension/disability claim|User will see a link how to file a claim|**LUKE M to provide**|
 
 
 ### Test cases for "Records"
@@ -50,8 +50,8 @@ This is not dynamic and links remain the same regardless
 ### Test cases for "Applications in Progress"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User DOES have an application in progress|User will see application information, status, last saved date, application expiration date, form number, and applicatoin title|**LUKE M**|
-|User DOES NOT have an application in progress|This section will not appear|**LUKE M**|
+|User DOES have an application in progress|User will see application information, status, last saved date, application expiration date, form number, and applicatoin title|**LUKE M to provide**|
+|User DOES NOT have an application in progress|This section will not appear|**LUKE M to provide**|
 
 
 
