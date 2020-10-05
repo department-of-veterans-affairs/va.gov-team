@@ -44,10 +44,6 @@ Notes regarding the APIs defined at
 - Can we name these fields like the FHIR slot resource: start, end, freeBusyType (for availability or booking status, not sure which)?
 - Do slots need an id? Or do we just send the dates back?
 
-### ScheduleConfiguration
-
-- We'd want to be able search by multiple parent sites here
-
 ### PatientAppointmentMetadataResponse
 
 - Would be nice to have the request limit in here, too
@@ -76,7 +72,7 @@ Notes regarding the APIs defined at
 - The FE has logic that only returns clinics that have been interacted with by a patient in the past two years, it would be nice to get that into the backend
    - Another thing that would make more sense in the VAOS service, probably
 
-## Scheduling Configuration
+### Scheduling Configuration
 
 - Can the configurations GET have the same ids and children params that the facilities GET does? Or is the expectation that we query the facilities GET first and use those ids?
    - It's more efficient for us to only fetch facility data after we filter out ones that aren't configured.
