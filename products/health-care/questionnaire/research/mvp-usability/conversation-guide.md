@@ -41,12 +41,9 @@ I'm going to send you a link in the chat. Once you pull up the link, will you sh
 
 [Prototype LINK TBD](TBD)
 
-**Task: Pretend that you just made another primary care appointment and received a link to this questionnaire via text or email. Complete this questionnaire.**
+**Task: Pretend that you just scheduled your annual physical exam with your primary care provider. To allow your care team to better meet your needs at the appointment, they are requesting you fill out a previsit questionnaire. Complete this questionnaire.**
 
-_Only give additional direction if the Veteran gets stuck completing the task._
-
-- After completing the task, would you say it was easy or difficult to complete this questionnaire?
-    - Why?
+_Only give additional direction if the Veteran gets stuck completing the task._<br/>
 
 ### Things to watch/listen for:
 
@@ -73,32 +70,44 @@ _Help them navigate back to the introduction page._
 - Is there any other information we should include here?
 
 ### On the Veteran Information page - 2 minutes
-- What are your impressions of this page?
+- Do you feel that VA.gov typically has the correct demographic information for you?
+- Do you find yourself updating contact information at primary care visits often?
 
 ### On the This Visit page - 7 minutes
+_Tell the Veteran before asking questions on this page._ This is the first version of these questions. We plan to expand this form, so you could review your mediations, allergies, medical conditions, and more prior to an appointment.
 - What are your impressions of this page?
-- Do the questions make sense to you?
-- How would you answer these questions?
-    - _If not explicitly mentioned,_ what do you think about ranking the questions that you enter?
-- In what situation do you think this would be helpful with regards to your primary care visit?
+- Do you see value or no value in sharing this information with your primary care provider?
 - How would you expect your doctor or primary care provider to use this information?
+- Do you feel the in-person part of your appointment with the doctor/nurse will be different after providing this information ahead of time?
+- _If not explicitly mentioned,_ what do you think about ranking the questions that you enter?
+- Should your questionnaire answers automatically appear in your next upcoming appointment questionnaire, so you can review and edit. Do you think the information that you enter for these questions will be very different each time?
 
 ### On the Review page - 2 minutes
 - What are your impressions of this page?
 
 ### On the Confirmation page - 4 minutes
 - What are your impressions of this page?
-- Where were your questionnaire answers sent?
+- Once you submit this questionnaire, who do you expect will have access to the answers that you entered?
+        - Is it what you were expecting or not expecting?
 - Is there any other information we should include here?
+- Where would you like to navigate to next after completing this form? (You can select more than one or none of the following options.)
+    - A list of your upcoming appointments
+    - A list of other questionnaires that you need to complete
+    - VA.gov home page
+    - Other:
 
 ## Follow-up Questions - 5 minutes
-
 - When would you fill out this questionnaire?
     - The day before my appointment
     - 2-3 days before my appointment
     - A week before my appointment
     - 2-3 weeks before my appointment
     - A month before my appointment
+    - Other:
+- How would you have liked to receive a notification that you had this questionnaire to complete? (You can select more than one or none of the following options.)
+    - text message
+    - email
+    - just visiting VA.gov and seeing it on the website.
     - Other:
 - Are there any topics or questions you'd like to see that weren't included in today's exercise?
 - Do you have any questions for me?
