@@ -4,6 +4,7 @@
 
 ## Frontend
 - Save in progress bug (https://github.com/department-of-veterans-affairs/va.gov-team/issues/12311)
+- Statement of truth checkboxes
 - Downtime setup (https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/downtime-notifications/)
 
 ## Backend
