@@ -49,10 +49,9 @@ Deliverables: Full design, layout and specs for LOA3 (state when a user has bene
 
 Deliverables: Full design, layout and specs for LOA3 (state when a user has benefits and / or healthcare). Includes all research and reviews.
 
-- Overall disability rating (shown conditionally if someone has a disability rating) S32
+- Overall disability rating (shown conditionally if someone has a disability rating)[#14400](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14400) S32
 
-
-- Check your claim or appeal status (shown conditionally if someone has a claim or appeal in progress) S32
+- Check your claim or appeal status (shown conditionally if someone has a claim or appeal in progress)[#14401](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14401) S32
  
 
 - Upload evidence to support your claim (link shown conditionally if someone has a claim or appeal in progress) S33
