@@ -30,22 +30,22 @@ We broke this strategy down into 3 phases.
 Deliverables: Full design, layout and specs for LOA3 (state when a user has benefits and / or healthcare). Includes all research and reviews.
 
 - Healthcare Overview (information changes dynamically depending on if a user has healthcare or not)
- [Design] Healthcare: Design Healthcare Overview section #13918
+- [[Design] Healthcare: Design Healthcare Overview section #13918](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13918)
   
 - Refill and track your prescriptions (shown conditionally if someone has prescriptions)
- [Design] Healthcare: Refill and track your prescriptions #13919
+- [[Design] Healthcare: Refill and track your prescriptions #13919](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13919)
   
 - Send a secure message to your health care team (shown conditionally if someone has messages)
-
+**enter ticket number** S32
   
 - Schedule and view your appointments (shown conditionally if someone has health care in general)
-
+**enter ticket number** S32
   
 - View your lab and test results (link shown conditionally if someone has health care in general)
-[Design] Healthcare: View your lab and test results #13922
+-[[Design] Healthcare: View your lab and test results #13922](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13922)
   
 - Apply now for VA health care (shown conditionally if someone does NOT have health care)
-[Design] Healthcare: Apply now for VA healthcare #13923
+- [[Design] Healthcare: Apply now for VA healthcare #13923](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13923)
   
 - [ ] Appropriate stakeholder reviews and approval along the way
 
@@ -53,25 +53,24 @@ Deliverables: Full design, layout and specs for LOA3 (state when a user has bene
 
 Deliverables: Full design, layout and specs for LOA3 (state when a user has benefits and / or healthcare). Includes all research and reviews.
 
-- Overall disability rating (shown conditionally if someone has a disability rating)
+- Overall disability rating (shown conditionally if someone has a disability rating) S32
 
 
-- Check your claim or appeal status (shown conditionally if someone has a claim or appeal in progress)
-  
+- Check your claim or appeal status (shown conditionally if someone has a claim or appeal in progress) S32
+ 
 
-- View your payment history (link)
-
-
-- Upload evidence to support your claim (link shown conditionally if someone has a claim or appeal in progress)
+- Upload evidence to support your claim (link shown conditionally if someone has a claim or appeal in progress) S33
 
  
-- File for a VA disability increase (link shown conditionally if someone has a disability rating)
+- File for a VA disability increase (link shown conditionally if someone has a disability rating) S33
   
  
-- File a claim for compensation
+- File a claim for compensation S33
 
    
- - View your direct deposit (link)
+ - View your direct deposit (link) S33
+ 
+ - View your payment history (link) this will be done last S33
 
 
 - [ ] Appropriate stakeholder reviews and approval along the way
