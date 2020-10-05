@@ -29,11 +29,9 @@ We broke this strategy down into 3 phases.
 
 Deliverables: Full design, layout and specs for LOA3 (state when a user has benefits and / or healthcare). Includes all research and reviews.
 
-- Healthcare Overview (information changes dynamically depending on if a user has healthcare or not)
- - [#13918](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13918)
+- Healthcare Overview (information changes dynamically depending on if a user has healthcare or not)[#13918](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13918)
   
-- Refill and track your prescriptions (shown conditionally if someone has prescriptions)
-- [#13919](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13919)
+- Refill and track your prescriptions (shown conditionally if someone has prescriptions) [#13919](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13919)
   
 - Send a secure message to your health care team (shown conditionally if someone has messages)
 **enter ticket number** S32
@@ -44,8 +42,7 @@ Deliverables: Full design, layout and specs for LOA3 (state when a user has bene
 - View your lab and test results (link shown conditionally if someone has health care in general)
  -[#13922](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13922)
   
-- Apply now for VA health care (shown conditionally if someone does NOT have health care)
- - [#13923](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13923)
+- Apply now for VA health care (shown conditionally if someone does NOT have health care) [#13923](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13923)
   
 - [ ] Appropriate stakeholder reviews and approval along the way
 
