@@ -26,7 +26,11 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions - 5 minutes
 
-- Can you tell me about the last time that you saw your primary care provider at the VA?
+- _For pre-COVID participants._ Can you tell me about the last time that you saw your primary care provider at the VA?
+    - What was the experience prior to the appointment like? For example, did you have to fill out any forms before the appointment? Did the nurse ask you a lot of questions?
+- _For post-COVID participants._ Did your primary care provider appointment experience change at all post-COVID?
+    - If so, how?
+    - Did the length of your appointment feel any different (shorter or longer)?
     - What was the experience prior to the appointment like? For example, did you have to fill out any forms before the appointment? Did the nurse ask you a lot of questions?
 
 ## Usability Task: Complete the questionnaire - 10 minutes
@@ -53,7 +57,6 @@ _Only give additional direction if the Veteran gets stuck completing the task._
 
 
 ## Reviewing Screens in More Detail - 25 minutes (total for all pages)
-_Amanda, Lacey, Ming - Particularly in this section, can you think of any other questions to ask?_
 
 Great, thank you for doing that exercise. Next, we are going to go back to the beginning of the questionnaire, so I can ask more questions about each page.<br/>
 _Help them navigate back to the introduction page._
@@ -89,6 +92,8 @@ _Help them navigate back to the introduction page._
 
 ## Follow-up Questions - 5 minutes
 
+- In what situation do you think this would be helpful with regards to your primary care visit?
+- How would you expect your doctor or primary care provider to use this information?
 - Are there any topics or questions you'd like to see that weren't included in today's exercise?
 - Do you have any questions for me?
 
