@@ -25,6 +25,7 @@
 - Ming: Investigate MPI duplicate errors
 - Ming: Investigate form errors as a page overlay
 - Alayna: Send daily report on metrics to Program team
+- Alayna: Project kickoff for 10-10EZ
 
 ## PTO
 - Kevin: 10/12 - 10/16
