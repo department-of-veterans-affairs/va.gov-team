@@ -13,7 +13,7 @@ Payment recipients can initiate or change their direct deposit information three
 Direct deposits for C&P and EDU (GI Bill and VR&E) `confirm` payments are set up and managed independently. Currently C&P direct deposit self-service is managed within the VA.gov user profile; EDU direct deposit is handled in eBenefits. The two DD features will be ultimately consolidated within the user profile.
 
 ### EDU Direct deposit change processes
-Users who want to initiate or manage direct deposit of their EDU payments must sign into eBenefits using a Premium DSLogon. Users who begin their path on VA.gov will be redirected to an eBenefits content page. 
+Users who want to set up(?) or manage direct deposit of their EDU payments must sign into eBenefits using a Premium DSLogon. Users who begin their path on VA.gov will be redirected to an eBenefits content page. 
 
 #### VA Form 29-0309
 There is a paper form to enroll in direct deposit, or change direct deposit information. VA Form 29-0309 is a simple one-page form that has two sections: contact and identifying info, and banking info. It also includes a checkbox for the user to indicate participation in VAMatic. There is some indication that direct deposit information is embedded in other VA.gov forms, such as the 526EZ.
