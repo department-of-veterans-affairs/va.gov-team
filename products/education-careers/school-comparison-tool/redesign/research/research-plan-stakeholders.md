@@ -72,9 +72,11 @@ Questionnaires/Email/Indirect Feedback:
  - Not applicable
 ## Team Roles	
 Please list the people who will be serving in each role.  	
+
 Moderator: Amy Knox; 301.254.0907; knox_amy@bah.com
 
 Research guide writing and task development (usually but not always same as moderator): Booz Allen UX team
+
 Participant recruiting & screening: Booz Allen team
 
 Project point of contact: Amy Knox
