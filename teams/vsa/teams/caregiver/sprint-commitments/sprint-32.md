@@ -24,6 +24,7 @@
 ## Product
 - Ming: Investigate MPI duplicate errors
 - Ming: Investigate form errors as a page overlay
+- Alayna: Send daily report on metrics to Program team
 
 ## PTO
 - Kevin: 10/12 - 10/16
