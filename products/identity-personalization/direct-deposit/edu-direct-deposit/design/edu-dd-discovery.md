@@ -16,7 +16,7 @@ Direct deposits for C&P and EDU (GI Bill and VR&E) `confirm` payments are set up
 Users who want to initiate or manage direct deposit of their EDU payments must sign into eBenefits using a Premium DSLogon. Users who begin their path on VA.gov will be redirected to an eBenefits content page. 
 
 #### VA Form 29-0309
-There is a paper form to enroll in direct deposit, or change direct deposit information. VA Form 29-0309 is a simple one-page form that has two sections: contact and identifying info, and banking inof. It also includes a checkbox for the user to indicate participation in VAMatic. There is some indictation that direct depost information is embedded in other VA.gov forms, such as the 526EZ.
+There is a paper form to enroll in direct deposit, or change direct deposit information. VA Form 29-0309 is a simple one-page form that has two sections: contact and identifying info, and banking info. It also includes a checkbox for the user to indicate participation in VAMatic. There is some indication that direct deposit information is embedded in other VA.gov forms, such as the 526EZ.
 
 [VA Form 29-0309 Direct Deposit Enrollment/Change](https://www.vba.va.gov/pubs/forms/VBA-29-0309-ARE.pdf)
 
@@ -65,10 +65,9 @@ There is a paper form to enroll in direct deposit, or change direct deposit info
 - Veteran wants to change bank used for direct deposit for one or both payment types
 - Veteran wants to change account (checking/savings) for direct deposit for one or both payment types
 - Dependent want to enroll in direct deposit
-- Dependant wants to change direct deposit details
+- Dependent wants to change direct deposit details
 
-#### Questions
-`WIP`
+#### Questions for team and/or business
 - Do potential users of this feature include **dependents**?
 - So, does direct deposit info include **dependents’** C&P, education and DIC payments?
 - Does direct deposit cover Special Monthly Payments (SMC) made to veterans?
