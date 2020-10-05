@@ -5,7 +5,7 @@ As a designer I need to create a research plan to share with my team.
  
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
 
-Many changes and improvements have been made to the Comparison Tool over several years.  EDU would like to gain a better understanding of all the different users that utilize the Comparison Tool and their respective needs.  From this research, EDU hopes to fully redesign the Comparison Tool to better meet the needs of its users.
+Many changes and improvements have been made to the Comparison Tool over the past few years.  EDU would like to gain a better understanding of all the different users that utilize the Comparison Tool and their respective needs.  From this research, EDU hopes to fully redesign the Comparison Tool to better meet the needs of its users.
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
 
@@ -42,16 +42,16 @@ Researchers believe that the design of the Comparison Tool can be optimized by i
 Goal:  15 participants total
 
 Directed interviews:
-- CT Stakeholder Group (VSOs + Veteran Education Success, Student Veterans of America): 5 - 8 individuals
+- CT Stakeholder Group (VSOs + Veteran Education Success, Student Veterans of America): 5 - 8 individuals - Working through client POC, Terry Warren
 - Employees of Education Services: 2 - 3 individuals
 - DEPO:  2 individuals
 - Individuals with knowledge of TAPS:  1 individual
-- Other VA employees who use the Comparison Tool: 2 - 3 individuals
+- Other VA employees who use the Comparison Tool: 2 - 3 individuals - Working through client POC, Terry Warren
 
 
 Questionnaires/Email/Indirect Feedback:
-- VA Help Desk: Email to determine if they have analytics on Comparison Tool
-- Congressional staffers:  Working through client POC, Terry Warren
+- VA Help Desk: Unknown number
+- Congressional staffers:  Unknown number - Working through client POC, Terry Warren
 
 
 2.	What is your recruitment strategy? 	
