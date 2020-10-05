@@ -58,6 +58,15 @@ There is a paper form to enroll in direct deposit, or change direct deposit info
   ![Current eBenefits DD screens](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/DD_EDU_User_Flows_1.png)
 </details>
 
+### EDU Direct deposit use cases
+
+- Veteran wants to enroll in direct deposit for educational benefits (CH33, CH31, others?)
+- Veteran wants to enroll in direct deposit for both C&P and EDU payments
+- Veteran wants to change bank used for direct deposit for one or both payment types
+- Veteran wants to change account (checking/savings) for direct deposit for one or both payment types
+- Dependent want to enroll in direct deposit
+- Dependant wants to change direct deposit details
+
 #### Questions
 `WIP`
 - Do potential users of this feature include **dependents**?
