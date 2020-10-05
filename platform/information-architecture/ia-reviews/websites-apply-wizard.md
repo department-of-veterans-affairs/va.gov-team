@@ -28,8 +28,7 @@
   - Optional feature: the user can skip the wizard or ignore's its recommendation if they want to continue forward on the current application
 
 
-
-![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/0b3dfa8d-64e6-4840-af31-dde44e8df3bb)
+![image](https://user-images.githubusercontent.com/20994159/95109312-0dee9280-0702-11eb-888b-d63cd1fe0779.png)
 
 
 ## <a name="ia"></a>IA Structure, URLs and Breadcrumbs <br>
