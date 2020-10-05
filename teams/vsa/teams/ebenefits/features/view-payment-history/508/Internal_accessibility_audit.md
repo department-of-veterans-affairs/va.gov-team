@@ -1,4 +1,4 @@
-# Accessibility: Personalized Career Planning & Guidance (PCPG - CH36) 
+# Accessibility: View Payment History 
 `eBenefits | September - 2020`
 
 ### Resources for internal a11y audit
@@ -9,37 +9,29 @@
 🙈 = Out of scope, note team(s) responsible, if known
 
 ### Credentials Used
-User (Jerry): vets.gov.user+271@gmail.com
+User (Jerry): vets.gov.user+14@gmail.com (has payments recieved and returned)
+User (Pauline): vets.gov.user+38@gmail.com (has payments recieved but NO payments returned)
 
 ## Starting staging url:   
-https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/introduction
+https://staging.va.gov/va-payment-history/payments/
 
 **Subsequent urls (behavior was the same for each):** 
-- [/claimant-information](https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/claimant-information)
-- [/claimant-address](https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/claimant-address)
-- [/status-selection](https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/status-selection)
-- [/veteran-information](https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832//veteran-information) (you will only see this URL if you choose that you are a child or spouse on /status-selection)  
+NA 
  
 
 ### 1. Scan with axe browser plugin  
 - 🙈 Results: "Heading levels should only increase by one"  
 ```HTML
-<h4 class="va-footer-linkgroup-title">Veteran programs and services</h4>
+<h3 id="paymentsRecievedHeader" class="vads-u-font-size--xl">Payments you received</h3>
 ```
-<details>
-  <summary>Screenshot   
-  </summary>
-  
-![CH36](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/images/CH36-axe.JPG)
-
-</details>
+The <h3> used above the payments tables when payments are present need to be changed to an <h2> so that the Heading levels on the page do not skip from <h3> to <h1> 
 
 ### 2. Scan with axe-coconut   
-- 🙈 Results: "Heading levels should only increase by one, this can be H2 and made to look like H4.  Even thought its in the right order, it needs to be sequential."   
+- 🙈 Results: "Heading levels should only increase by one, this can be H2 and made to look like H3.  Even thought its in the right order, it needs to be sequential."   
 ### 3. Lighthouse Scan (Chrome)  
 - Results: 100%
 ### 4. NVDA Scan (Firefox)  
-- Results: Links and buttons showed up in the elements list.  Reading sounded fine.
+- Results: Reading sounded fine.
 ### 5. VoiceOver (Safari)  
 - Results: Worked great
 ### 6. Keyboard Navigation  
