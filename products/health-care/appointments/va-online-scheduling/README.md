@@ -1,7 +1,6 @@
-[Contributors][1]:
 
 <br />
-  <h3 align="center">VA online scheduling on VA.gov</h3>
+  <h1 align="center">VA online scheduling on VA.gov</h1>
 
   <p align="center">
     Homepage for all VA online scheduling app (VAOSR) Documentation
