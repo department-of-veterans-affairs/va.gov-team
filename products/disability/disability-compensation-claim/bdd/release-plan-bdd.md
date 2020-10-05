@@ -15,6 +15,11 @@ Phase I, UAT:
   - [Testing] BDD: Prepare for BDD UAT#11900 - Benefits Sprint 27
   - [Launch] BDD: UAT Testing for Benefits Delivery at Discharge#10298 - Benefits Sprint 28
   - Staging review story - Benefits Sprint 28
+  - [Bug] BDD: Rated Disabilities Page Showed Up During UAT #14396 - Sprint 31
+  - [Content] BDD: Public Websites Update to BDD Information #14322 - Sprint 32
+  - [Development] 526: Decrypt Password Protected PDFs for the Veteran #14002 - Sprint 32
+  - [Development] BDD: Separation Location No Longer Hardcoded - Suggest Solution #13977 - Sprint 32
+  - [Development] BDD: Front End Changes to Add Password to Decrypt PDF #14416 - Sprint 32
 
 Phase II, 25-100% Rollout
   - [Launch] BDD: Triage Front-End BDD Sentry Issues#11820 - Benefits Sprint 32
