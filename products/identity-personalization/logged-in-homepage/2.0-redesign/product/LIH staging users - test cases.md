@@ -30,8 +30,8 @@ This is not dynamic and links remain the same regardless
 |User DOES NOT have secure messages|Messaging is as follows: "You don’t have any unread messages from your health care team"|TBD|
 |User DOES have prescriptions|User sees prescriptions in-progress|TBD|
 |User DOES NOT have prescriptions|User sees no prescriptions in progress. Messaging is as follows: You don’t have any prescriptions being refilled. If you’ve refilled a prescription within the last 30 days, it may be out for delivery and not showing up here.  To view and track all of your prescriptions, please go to MyHealtheVet.|TBD|
-|User DOES have appointments|User is shown scheduled and accepted appointments|**LENAE S to provide**|
-|User DOES NOT have appointments|User is shown the following Messaging: Find out how to make a doctor’s appointment with a member of your VA health care team online or by phone.|**LENAE S to provide**|
+|User DOES have appointments|User is shown scheduled and accepted appointments|judy.morrison@id.me, pw:Password!1234|
+|User DOES NOT have appointments|User is shown the following Messaging: Find out how to make a doctor’s appointment with a member of your VA health care team online or by phone.|judy.morrison@id.me, pw:Password!1234|
 
 **Lab Results: Any user with healthcare will show static lab results link**
 
