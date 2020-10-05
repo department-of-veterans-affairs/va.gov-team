@@ -14,6 +14,9 @@
   - Update St. Loius Healthcare System label (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14374)
   - Sentry/alerts (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/6703)
   - Google analytics to track backend failure sources (Lihan) (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12089)
+  
+  **Added Scope**
+  - PDF Delete Failure on Submission [GH Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14273)
 
 ## Design
   - Research plan for 10-10EZ
