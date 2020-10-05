@@ -1,4 +1,3 @@
-
 # Product Outline Debt Resolution- FST 
 
 
@@ -6,24 +5,30 @@
 ## Overview
 The Financial Status Report (FSR) is currently a paper form that  must be printed out, filled out, signed and mailed to the Debt Management Center (DMC) by the veteran in order to start the process for request for debt resolution; debt compromise, waver or monthly offsets/payments. This product will allow the Veteran to fill out the form on-line. A companion required document is a letter that the veteran is asked to write to justify why they should be granted a waiver, compromise or monthly payments.  
 
+As we develop this product, the global covid-19 pandemic has led to a suspension of debt collection from 3/2020 to 12/2020 during which time collection of debt was put on hold by the DMC, while historical data can be used as a guide, such widespread suspension makes it difficult to model the impact and associated  KPIs.
+
 ## Problem Statement
 If a Veteran has debt with the VA that they cannot pay, they can ask for debt resolution which can be debt waver, compromise or a monthly offset/payment they can afford.  The gatekeeper to start the debt resolution process is filling out and mailing or faxing in the FSR. The form is very confusing and while there is a how to guide for filling it out on va.gov/debtman, it is no less confusing. The process of printing, filling out and mailing/faxing in FSR form prevents Veterans from starting the process to resolving debts, which potentially leads to devastating benefits deductions and debt getting written off ruining credit. In addition to the FSR, the Veteran must write a letter explaining why they should be granted a waver, compromise or monthly payment plan which can be confusing and overwhelming, there are currently no guidelines or help as to what the letter must contain, or examples given. 
 
-Since the form and letter are confusing, the contact center gets many calls with questions about the FSR which increases volume and wait times
+Since the form and letter are confusing, the contact center gets many calls with questions about the FSR which increases volume and wait times. We have found out from research that many times the DMC is unable to assist the Veteran with the FSR and they get referred to local VSOs for assistance. Many times the FSR is sent back and forth my mail because there is omitted information and fields. 
 ## Desired User Outcomes
 
 - Allow the Veteran to fill out the form on-line 
 - Provide helpful, contextual help to the veteran to assist in filling out the form
 - Allow the Veteran to write a justification letter on-line to submit along with FSR and provide contextual assistance to include relevant information. 
+- Reduce the volume to returned forms for incomplete data, miscalculations and omissions by utilizing field validation and auto-calculated fields. 
+
 
 ## Undesired User Outcomes
 
  - Veterans not being able to fill out form online as tracked by abandon rates. 
- - Not providing enough helpful content at every step to where teh veteran still has to call contact center
+ - Not providing enough helpful content at every step to where the veteran still has to call contact center. 
+ - Allow disabled veterans to fill out form by having full 508 compliance - currently it is a paper form and the only way a veteran can fill it out is to visit VSO or have caregiver assistance. 
 
 ## Desired Business Outcomes
 
-- Increase the number of Veterans that start resolution process, so less debt is written off 
+- Increase the number of Veterans that start resolution process, so less debt is written off.
+- Decrease the times a form is returned to veteran for omissions and errors. 
 - Decrease calls to contact center asking for help filling out FSR
 
 ## Undesired Business Outcomes
@@ -34,9 +39,15 @@ Since the form and letter are confusing, the contact center gets many calls with
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-* 10% of all FSRs filled out on line first month after release with increase of 5% MoM, with goal of 50% filled out on-line by end of 2021 
+ 10% of all FSRs filled out on line first month after release with increase of 5% MoM, with goal of 50% filled out on-line by end of 2021 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+ Since the suspension of debt collection for covid-19 global pandemic the historical baseline values may be skewed as the debt suspension for the pandemic. 
+
+**FSR requests** per month -3100 per month (at a minimum)
+**Compromise requests** and approval ratio -Compromises: 122 average per month -Approval: 29%
+**Waiver requests** and approval ratio -3800 per month received-2500 per month granted-65% granted
+**What % of our addresses are correct?** -Bad address mail – 10,409 average per month
+**How many addresses changes do we get a month?** -3,896 average per month
 
 ### Objectives and Key results (OKRs)
 
@@ -64,7 +75,7 @@ Since the form and letter are confusing, the contact center gets many calls with
 
 ## Launch Dates
 - *Target Launch Date*
-  - tQ1 2021
+  - Q1 2021
 - *Actual Launch Date* 
   - tbd
 - *Number of FSRs filled out online, reduction in calls to contact center requesting help to fill out 
@@ -136,3 +147,7 @@ We follow a 2 week SCRUM development cycle
 |Backlog Grooming|Wednesdays mid-sprint|1:00pm CT|--|
 |Sprint Planning|Wednesday start of sprint|12:30pm CT|
 |Sprint Retro|Wednesday start of sprint|10:15am CT|--|
+
+
+
+
