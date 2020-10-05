@@ -70,6 +70,7 @@ Note: Users need a Premium DS Logon (LOA3) account to access this feature.
 - Dependent wants to change direct deposit details
 
 #### Questions for team and/or business
+- Can users use the eBenefits or VA.gov DD features to **enroll** in direct deposit?
 - Do potential users of this feature include **dependents**?
 - So, does direct deposit info include **dependents’** C&P, education and DIC payments?
 - Does direct deposit cover Special Monthly Payments (SMC) made to veterans?
