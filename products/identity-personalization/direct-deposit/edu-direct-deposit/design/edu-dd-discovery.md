@@ -16,7 +16,10 @@ Direct deposits for C&P and EDU (GI Bill and VR&E) `confirm` payments are set up
 It is unclear whether or not a user can "enroll" or "set up" direct deposit using the exisiting online tools. The "Debt Collection Improvement Act of 1996" which was signed into law on April 26, 1996 required all Federal payments to be made by Electronic Fund Transfer (EFT or Direct Deposit) beginning January 1, 1999. Waivers are available where the conversion(?) from paper checks imposes a hardship. This seems to indicate that EFT/DD is the default and may be set up when the decision to pay a benefit claim is made.
 
 ### EDU Direct deposit change processes
-Users who want to set up(?) or manage direct deposit of their EDU payments must sign into eBenefits using a Premium DSLogon. Users who begin their path on VA.gov will be redirected to an eBenefits content page. 
+Users who want to set up(?) or manage direct deposit of their EDU payments must sign into eBenefits using a Premium DSLogon. Users who begin their path on VA.gov will be redirected to an eBenefits content page. The program also helps Veterans without a bank to qualify for an account.
+
+#### Veterans Benefits Banking Program (VBBP)
+The Veterans Benefits Banking Program (VBBP) went on line December 2019. The program provides Veterans and their beneficiaries the chance to safely, reliably, and inexpensively receive and manage their VA monetary benefits through financial services at participating banks.
 
 #### VA Form 29-0309
 There is a paper form to enroll in direct deposit, or change direct deposit information. VA Form 29-0309 is a simple one-page form that has two sections: contact and identifying info, and banking info. It also includes a checkbox for the user to indicate participation in VAMatic. There is some indication that direct deposit information is embedded in other VA.gov forms, such as the 526EZ.
