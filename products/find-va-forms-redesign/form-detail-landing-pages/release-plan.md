@@ -51,6 +51,7 @@ Per product sync today - We will launch batches per steps:
   - PW team, DEPO volunteers, and forms stakeholders
 - **How you'll conduct the testing:** 
   - Provide people a list of form page links to test
+  - Collected stakeholder UAT bug/comments in this SharePoint folder: https://dvagov.sharepoint.com/sites/VA-forms-managers-and-SMEs/Shared%20Documents/Forms/AllItems.aspx 
 - **How you'll give the test users access to the product in production w/o making it findable on VA.gov:** 
   - This is a CMS content product. In order to test full functionality (such as form download behavior) we have to publish on va.gov. We will not be able to test form downloads in demo/staging/preview. 
 - **How will you make the product available in production while limiting the number of users who can find/access it:** 
