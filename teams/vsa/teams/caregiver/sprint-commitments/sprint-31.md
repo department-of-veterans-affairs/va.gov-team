@@ -17,6 +17,8 @@
   
   **Added Scope**
   - PDF Delete Failure on Submission [GH Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14273)
+  - Provide report for Caregiver Program on Launch Day
+  - Identify bugs on day one submissions
 
 ## Design
   - Research plan for 10-10EZ
