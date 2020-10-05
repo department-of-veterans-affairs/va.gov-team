@@ -88,4 +88,25 @@ Note: Users need a Premium DS Logon (LOA3) account to access this feature.
 - Are payment recipients allowed to use paper forms (e.g. the 29-0309)? Are they discouraged from this?
 - What other common questions might be better answered on the DD form screen itself vs. the landing page (e.g. timeframe when enrolling)?
 
+### Payment (compensation) use cases
+
+|   | [Disability](https://www.va.gov/disability/) | [Pension](https://www.va.gov/pension/) | [Chapter 35](https://www.va.gov/education/survivor-dependent-benefits/) | [CH33/GI Bill](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/) | [CH31/VR&E](https://www.va.gov/careers-employment/vocational-rehabilitation/) | [SMP](https://www.va.gov/disability/compensation-rates/special-monthly-compensation-rates/) | [DIC](https://www.va.gov/disability/dependency-indemnity-compensation/) |
+| ---: | :---: | :---: |  :---: | :---: | :---: | :---: | :---: |
+| Veteran | X | X |  | X | X | X |  |
+| Service member |  |  |  | ? | X |  |  |
+| Dependent |  |  | X | X |  | X | X |
+| Parent |  |  |  |  |  | X | X |
+
+#### Direct deposit category
+
+| | Comp & Pen | Education |
+| ---: | :---: | :---: |
+| Disability | X |  |
+| Pension | X |  |
+| Chapter 35 |  | ? |
+| CH33/GI Bill |  | X |
+| CH31/VR&E |  | X |
+| SMP | ? |  |
+| DIC | ? |  |
+
 ---
