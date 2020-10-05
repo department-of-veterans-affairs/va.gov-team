@@ -9,11 +9,10 @@ Notes regarding the APIs defined at
 - The api design of the new VAOS and MFS services is much better than the current api, but I don't believe it will making switching to FHIR later significantly easier
    - Conceptually, the data models are more similar, but the implementation is still very different, with different field names and structures within them
 - Do we have a general idea of the timeframe for this and EAS?
-   - Not really, though the VAOS service shouldn't be a huge lift and work will start soon
+   - Answer: not really, though the VAOS service shouldn't be a huge lift and work will start soon
 - Does this approach mean that EAS will no longer contain new functionality, just the FHIR interface?
-   - Probably? It seems like new functionality is going to be accessible through MFS and the new VAOS service
-- It's not clear how video appointments fit in here
-  - Specifically ATLAS info and providers
+   - Answer: Probably? It seems like new functionality is going to be accessible through MFS and the new VAOS service
+- It's not clear how video appointments fit in here. Specifically ATLAS info and providers
 
 ## VAOS service schemas
 
