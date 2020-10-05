@@ -1,3 +1,30 @@
+[Contributors][1]:
+
+# Table of Contents
+
+### Summary 
+- [User Problem Statement](#user-problem-statement)
+- [Solution Goals](#solution-goals)
+- [Assumptions](#assumptions)
+- [Requirements and Constraints](#requirements-and-constraints)
+- [Discovery Takeaways](#discovery-takeaways)
+- [Solution Approach](#solution-approach)
+    - [MVP](#mvp-implementation)
+- [Value Propositions](#value-propositions)
+- [OKRs](#okrs)
+
+### Implementation Information
+- [Status](#status)
+- [How to Access and Test](#how-to-access-and-test)
+- [Error Handling](#error-handling)
+- [Service Level Objective](#service-level-objective)
+- [API Calls and Dependent Systems](#api-calls-and-dependent-systems)
+- [Resources and Documentation](#resources-and-documentation)
+- [Keywords](#Keywords)
+- [Team](#team)
+- [Screenshots](#screenshots)
+
+---
 # VA Online Scheduling Product Outline
 - GitHub Label: [vaos](https://github.com/department-of-veterans-affairs/va.gov-team/issues#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vaos&repos=133843125&showPipelineDescriptions=false)
 - Chat
@@ -30,34 +57,7 @@
   - Product Manager Lead: Lenae Storey
 - Full VAOS-R User Experience Flow: [VAOS-R User Flow Mapped](https://app.flowmapp.com/share/0fdcf2559a4c55625591f89c2e5d7649/userflow/83089/)
 
----
-
-### Table of Contents
-
-# Executive Summary 
-- [User Problem Statement](#user-problem-statement)
-- [Solution Goals](#solution-goals)
-- [Assumptions](#assumptions)
-- [Requirements and Constraints](#requirements-and-constraints)
-- [Discovery Takeaways](#discovery-takeaways)
-- [Solution Approach](#solution-approach)
-    - [MVP](#mvp-implementation)
-- [Value Propositions](#value-propositions)
-- [OKRs](#okrs)
-
-# Implementation Information
-- [Status](#status)
-- [How to Access and Test](#how-to-access-and-test)
-- [Error Handling](#error-handling)
-- [Service Level Objective](#service-level-objective)
-- [API Calls and Dependent Systems](#api-calls-and-dependent-systems)
-- [Resources and Documentation](#resources-and-documentation)
-- [Keywords](#Keywords)
-- [Team](#team)
-- [Screenshots](#screenshots)
-
----
-
+____
 # Executive Summary
 
 ## North Star Goal of Online Scheduling 
