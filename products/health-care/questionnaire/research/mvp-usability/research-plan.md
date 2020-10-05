@@ -25,7 +25,8 @@ Recruit for 12 fulfilled sessions (6 for the desktop version and 6 for the mobil
 - Have you visted a primary care provider at the VA in the last year? (pass = yes)
 	- If confused by the term "primary care provider," explain that a primary care provider is your main doctor, nurse practitioner, or physician’s assistant.
 	- _If primary care appointments are too difficult to recruit for, then expand to having any medical appointment type within the last 6 months._
-- At least one participant who had a virtual visit, since COVID began.
+- At least three participants who had an appointment, since COVID began (mid-March 2020).
+	- One of the three must be a virtual visit.
 
 **Good to have for participants**
 - At least one iOS mobile device owner
@@ -50,7 +51,6 @@ Recruit for 12 fulfilled sessions (6 for the desktop version and 6 for the mobil
 ## Timeline 	
 #### Desired Timeline: October 13-19, 2020 
 One hour sessions<br/>
-_Amanda, Lacey, and Ming: Anyone open to evening (ET time) sessions so we can capture some Veterans who work during the day or other time zones? I gave ourselves a day between the pilot and the rest of the test to make any changes to the prototype/test script, but could push the days maybe up one if need be. This current timeline would make analysis occur during the very end of next sprint/the beginning of the following sprint._
 
 Team Availability | Time (EST)
 ------------------|--------------
