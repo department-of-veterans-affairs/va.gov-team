@@ -30,3 +30,4 @@
 ## PTO
 - Kevin: 10/12 - 10/16
 - Alayna: 10/12 - 10/16
+- Justin, Ming, Jonathan: 10/12
