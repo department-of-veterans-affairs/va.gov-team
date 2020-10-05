@@ -24,7 +24,7 @@ Recruit for 12 fulfilled sessions (6 for the desktop version and 6 for the mobil
 **Must have for participants**
 - Have you visted a primary care provider at the VA in the last year? (pass = yes)
 	- If confused by the term "primary care provider," explain that a primary care provider is your main doctor, nurse practitioner, or physician’s assistant.
-	- _If primary care appointments are too difficult to recruit for, then expand to having any medical appointment type within the last 6 months._
+	- _If primary care appointments are too difficult to recruit for, then expand to having any medical appointment type within the last year._
 - At least three participants who had an appointment, since COVID began (mid-March 2020).
 	- One of the three must be a virtual visit.
 
