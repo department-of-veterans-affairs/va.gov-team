@@ -10,10 +10,10 @@
 
 ## Backend
   - Unique SSN/validation (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13427)
-  - Finalize PDF generation
-  - Update St. Loius Healthcare System label
-  - Sentry/alerts
-  - Google analytics to track backend failure sources (Lihan)
+  - Finalize PDF generation (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14373)
+  - Update St. Loius Healthcare System label (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14374)
+  - Sentry/alerts (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/6703)
+  - Google analytics to track backend failure sources (Lihan) (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12089)
 
 ## Design
   - Research plan for 10-10EZ
@@ -21,15 +21,15 @@
   - Statement of truth checkboxes on 10-10CG (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12794)
   
   ## Content
-  - Finalizing the Product Guide
+  - Finalizing the Product Guide (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13422)
  
 
 ## Product
   - Schedule a meeting with Lauren A. & Joanne to discuss HCA
   - Follow up on dashboard access for 10-10CG
   - Intro meeting (after 10/1) to discuss secondary caregiver
-  - Share staging link with CG program
-  - Ensure VSP support for 10/1
+  - ~Share staging link with CG program~
+  - ~Ensure VSP support for 10/1~
  
   
   
