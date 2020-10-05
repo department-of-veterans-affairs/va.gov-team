@@ -11,6 +11,8 @@
 ### Credentials Used
 User (Jerry): vets.gov.user+14@gmail.com (has payments recieved and returned)  
 User (Pauline): vets.gov.user+38@gmail.com (has payments recieved but NO payments returned)  
+User (Colder Polar Bear, Jr. (👈👌)): vets.gov.user+228@gmail.com (has NO payments at all)  
+
 
 ## Starting staging url:   
 https://staging.va.gov/va-payment-history/payments/
