@@ -30,27 +30,22 @@ We broke this strategy down into 3 phases.
 Deliverables: Full design, layout and specs for LOA3 (state when a user has benefits and / or healthcare). Includes all research and reviews.
 
 - Healthcare Overview (information changes dynamically depending on if a user has healthcare or not)
-  - [ ] Visual design exploration
-  - [ ] High fidelity mockups
+ [Design] Healthcare: Design Healthcare Overview section #13918
   
 - Refill and track your prescriptions (shown conditionally if someone has prescriptions)
-  - [ ] Visual design exploration
-  - [ ] High fidelity mockups
+ [Design] Healthcare: Refill and track your prescriptions #13919
   
 - Send a secure message to your health care team (shown conditionally if someone has messages)
-  - [ ] Visual design exploration
-  - [ ] High fidelity mockups
+
   
 - Schedule and view your appointments (shown conditionally if someone has health care in general)
-  - [ ] Visual design exploration
-  - [ ] High fidelity mockups
+
   
 - View your lab and test results (link shown conditionally if someone has health care in general)
-  - [ ] High fidelity mockups
+[Design] Healthcare: View your lab and test results #13922
   
 - Apply now for VA health care (shown conditionally if someone does NOT have health care)
-  - [ ] Visual design exploration
-  - [ ] High fidelity mockups
+[Design] Healthcare: Apply now for VA healthcare #13923
   
 - [ ] Appropriate stakeholder reviews and approval along the way
 
@@ -59,31 +54,24 @@ Deliverables: Full design, layout and specs for LOA3 (state when a user has bene
 Deliverables: Full design, layout and specs for LOA3 (state when a user has benefits and / or healthcare). Includes all research and reviews.
 
 - Overall disability rating (shown conditionally if someone has a disability rating)
-  - [ ] Visual design exploration
-  - [ ] High fidelity mockups
+
 
 - Check your claim or appeal status (shown conditionally if someone has a claim or appeal in progress)
-  - [ ] Visual design exploration
-  - [ ] High fidelity mockups
+  
 
 - View your payment history (link)
-  - [ ] Visual design exploration
-  - [ ] High fidelity mockups
+
 
 - Upload evidence to support your claim (link shown conditionally if someone has a claim or appeal in progress)
-  - [ ] Visual design exploration
-  - [ ] High fidelity mockups
+
  
 - File for a VA disability increase (link shown conditionally if someone has a disability rating)
-   - [ ] Visual design exploration
-   - [ ] High fidelity mockups
+  
  
 - File a claim for compensation
-   - [ ] Visual design exploration
-   - [ ] High fidelity mockups
+
    
  - View your direct deposit (link)
-   - [ ] High fidelity mockups
 
 
 - [ ] Appropriate stakeholder reviews and approval along the way
