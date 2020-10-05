@@ -11,7 +11,7 @@ When referencing various data sources related to the Learning Center MVP 1.0/1.1
 ## Public Website Learning Center Launch Checklist  
 [Epic/Sprint Breakdown](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/LC%20Launch%20Checklist.md)
 
-## 1.0 - End of October -beta launch
+## 1.0 - End of October - beta launch
 
 <details>
   
@@ -60,6 +60,7 @@ Categories: How content is organized on the LC homepage e.g. disability
 
 Content tags: 
 - **TBD** but tentatively 1 for audience tag = All Veterans
+- **TBD** additional content tags for 1.0 based on card sort findings and IRIS 1.0 content audit: {NOTE LABELS TBD} claims and appeals status; payments/debts; sign in
 
 1 audience type: 
 - All Veterans
