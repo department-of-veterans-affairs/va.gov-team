@@ -25,27 +25,28 @@ When referencing various data sources related to the Learning Center MVP 1.0/1.1
 
 
 ### Articles lists 
-* As a Veteran and or Veteran caregiver, I need an relevant article list that guides me to content that appeals and is interesting to me. 
-  - Article lists should help users self-resolve VA.gov issues/questions that span benefits or that are agnostic of benefit issues. Intent of article lists (by category or tag) is to funnel users to the articles within that category or tag. 
-  - [User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/view-all-articles-in-X-category-landing-pg-requirements.md)
-  - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14114)
+
+|User Story|Phase|Epic|Resource/artifact/reqs|
+|---|---|---|---|
+|As a Veteran and or Veteran caregiver, I need an relevant article list that guides me to content that appeals and is interesting to me. - Article lists should help users self-resolve VA.gov issues/questions that span benefits or that are agnostic of benefit issues. Intent of article lists (by category or tag) is to funnel users to the articles within that category or tag|1.0|[Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14114)|[User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/view-all-articles-in-X-category-landing-pg-requirements.md)|
+  
 ### Templates
-* As a Veteran, I need a visual way to view a step-by-step process quick navigation to Tier 1 benefits tools and content. 
-  - The design of the learning center pages should make it easy to navigate and find information for primary users and caregivers. Visuals add to the UX and ease the process for visual learners. 
-  - [User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#specific-lc-content-template-types)
-  - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12365)
+
+|User Story|Phase|Epic|Resource/artifact/reqs|
+|---|---|---|---|
+|As a Veteran, I need a visual way to view a step-by-step process quick navigation to Tier 1 benefits tools and content. - The design of the learning center pages should make it easy to navigate and find information for primary users and caregivers. Visuals add to the UX and ease the process for visual learners.|1.0| [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12365)|[User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#specific-lc-content-template-types)|
+  
 ### Tier 2 learning/support content
-* As a Veteran, the learning center content should 1) answer my specific question, and 2) when relevant, point me to Tier 1 benefit tools or to eligibility, enrolling, filing, creating an account, signing in to do manage tasks. 
-  - Provide contextual content access points in unauthenticated and authenticated product experiences, but only if it’s truly relevant and related information.  All learning content should send people TO related tier 1 benefit hub. (EX: via the VA benefit hub component on all articles) 
-  - [User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#frontend-content-tags)
-  - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12933)
+
+|User Story|Phase|Epic|Resource/artifact/reqs|
+|---|---|---|---|
+|As a Veteran, the learning center content should 1) answer my specific question, and 2) when relevant, point me to Tier 1 benefit tools or to eligibility, enrolling, filing, creating an account, signing in to do manage tasks. Provide contextual content access points in unauthenticated and authenticated product experiences, but only if it’s truly relevant and related information.  All learning content should send people TO related tier 1 benefit hub. (EX: via the VA benefit hub component on all articles)|1.0|[Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12933)|[User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#frontend-content-tags)|
+
 ### Tags
-* As a Veteran, I wanted to browse, explore and discover VA information in an engaging way through content tags.   
-  - Adapting content tags will encourage UX behavior to browse, explore and enagage with content they otherwise wouldn't through the learning center categories. Tags are not meant to be a substitute search in the learning center, but a way of filtering the ocean into a lake. Content relevance based on keyword-driven search will be the primary way users can quickly find content in the learning center.
-  - Example of a tag vs. category: Some "claims and appeals status" tagged article might live in the Disability category or Health care or Pension, etc. 
-  - [User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/view-all-articles-in-X-category-landing-pg-requirements.md)
-  - [FE Content Tag Requirements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#frontend-content-tags)
-  - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11491) 
+
+|User Story|Phase|Epic|Resource/artifact/reqs|
+|---|---|---|---|
+|As a Veteran, I wanted to browse, explore and discover VA information in an engaging way through content tags. Adapting content tags will encourage UX behavior to browse, explore and enagage with content they otherwise wouldn't through the learning center categories. Tags are not meant to be a substitute search in the learning center, but a way of filtering the ocean into a lake. Content relevance based on keyword-driven search will be the primary way users can quickly find content in the learning center: Example of a tag vs. category: Some "claims and appeals status" tagged article might live in the Disability category or Health care or Pension, etc.|1.0|[Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11491)|[User Story Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/view-all-articles-in-X-category-landing-pg-requirements.md) [FE Content Tag Requirements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#frontend-content-tags) 
   
 </details>
 
