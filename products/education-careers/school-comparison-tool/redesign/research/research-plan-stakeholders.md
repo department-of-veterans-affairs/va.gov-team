@@ -28,45 +28,45 @@ Researchers believe that the design of the Comparison Tool can be optimized by i
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?
 
-Identified participants:
+Goal:  15 participants total
+
+Directed interviews:
 - CT Stakeholder Group (VSOs + Veteran Education Success, Student Veterans of America)
-- Employees of Education Services 
-- DEPO
-- VA Help Desk
-- Individuals with knowledge of TAPS
-- Other VA employees who use the Comparison Tool
-- Congressional staffers (put this elsewhere?)
+- Employees of Education Services: 2 - 3 individuals
+- DEPO:  2 individuals
+- Individuals with knowledge of TAPS:  1 individual
+- Other VA employees who use the Comparison Tool: 2 - 3 individuals
 
 
-Please list your participant criteria in two categories-
-1. **Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.) 
+Questionnaires/Email/Indirect Feedback:
+- VA Help Desk: Email to determine if they have analytics on Comparison Tool
+- Congressional staffers:  Working through client POC, Terry Warren
 
-2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
-
-*Pro tips for writing recruiting critera:* 
-- If you have specific screener questions that YOU would ask a potential participant to determine eligibility for your study, list them here. For example, instead of saying "We want someone who has been to an urgent care facility recently", say "Have you been to an urgent care facility in the last 6 months? (Answer should be yes)"
-- Do not assume that your recruiters or the participants know your products or requirements as well as you do. Provide links to products, clear descriptions, specifics, etc. 
 
 2.	What is your recruitment strategy? 	
-(If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract - Perigean - or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact Research Contract Lead.)	
+
+- Recruiting will be done through client connections (CT Stakeholder Group, Employees of EDU, Knowledge of TAPS, Other VA employees) and Booz Allen connections (DEPO and VA Help Desk).
 
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
 (IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 	
-2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
-3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
-4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
+2.	Prepare: When will the thing you are testing be ready? By COB on Oct 12th	
+3. Length of Sessions: How long do you estimate each session will be? 
+ - 60 minutes
+4.	Availability: If applicable, when would you like sessions scheduled? 
+ - Not applicable
+
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
+ - Not applicable
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
+Moderator: Amy Knox; 301.254.0907; knox_amy@bah.com
+Research guide writing and task development (usually but not always same as moderator): Booz Allen UX team
+Participant recruiting & screening: Perigean Technologies
+Project point of contact: Amy Knox
+Participant(s) for pilot test:
+Note-takers: Cindy Cruz cruz_cindy@bah.com; Jen Jones jones_jennifer2@bah.com; Emma Waters waters_emma@bah.com;
+Observers: Brian Grubb brian.grubb@va.gov; Desiree Turner turner_desiree@bah.com; Joe Preisser joseph.preisser@va.gov; Joe Welton joseph.welton@va.gov; Will McCormack mccormack_will@bah.com; Lauren Anderson lauren.alexanderson@va.gov; Lacey Higley lacey.higley@va.gov; Matt Self matthew.self2@va.gov; Dan Shawkey shawkey_daniel@bah.com; Darla VanNieukerk darla.vannieukerk@va.gov; Tammy Hurley tammy.hurley1@va.gov; Darrell Neel neel_darrell@bah.com;	
 ## Resources	
 - Project Brief: 	
 *Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
