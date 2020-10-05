@@ -22,6 +22,8 @@ There is a paper form to enroll in direct deposit, or change direct deposit info
 
 #### eBenefits current user flow:
 
+Note: Users need a Premium DS Logon (LOA3) account to access this feature.
+
 - Navigate to eBenefits
 - Click "Personal Contact and Direct Deposit" link under Manage Benefits or Log in
 - Log in using DSLogon via link on landing page
