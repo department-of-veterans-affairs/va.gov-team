@@ -12,6 +12,9 @@ Payment recipients can initiate or change their direct deposit information three
 
 Direct deposits for C&P and EDU (GI Bill and VR&E) `confirm` payments are set up and managed independently. Currently C&P direct deposit self-service is managed within the VA.gov user profile; EDU direct deposit is handled in eBenefits. The two DD features will be ultimately consolidated within the user profile.
 
+### EDU Direct Deposit enrollment
+It is unclear whether or not a user can "enroll" or "set up" direct deposit using the exisiting online tools. The "Debt Collection Improvement Act of 1996" which was signed into law on April 26, 1996 required all Federal payments to be made by Electronic Fund Transfer (EFT or Direct Deposit) beginning January 1, 1999. Waivers are available where the conversion(?) from paper checks imposes a hardship. This seems to indicate that EFT/DD is the default and may be set up when the decision to pay a benefit claim is made.
+
 ### EDU Direct deposit change processes
 Users who want to set up(?) or manage direct deposit of their EDU payments must sign into eBenefits using a Premium DSLogon. Users who begin their path on VA.gov will be redirected to an eBenefits content page. 
 
