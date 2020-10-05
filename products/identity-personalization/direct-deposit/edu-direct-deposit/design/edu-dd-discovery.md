@@ -39,7 +39,7 @@ There is a paper form to enroll in direct deposit, or change direct deposit info
 <details>
   <summary><strong>eBenefits screens</strong> (Click to show diagram)</summary>
   
-  ![Current eBenefits DD screens](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/DD_EDU_User_Flows_1.png)
+  ![Current eBenefits DD screens](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/DD_EDU_Screens_1.png)
 </details>
 
 #### VA.gov (Compensation & Pension) current user flow:
@@ -60,12 +60,15 @@ There is a paper form to enroll in direct deposit, or change direct deposit info
 
 #### Questions
 `WIP`
-- Do potential users of this feature include dependents?
-- Does direct deposit info include **dependents’** C&P, education and DIC payments?
+- Do potential users of this feature include **dependents**?
+- So, does direct deposit info include **dependents’** C&P, education and DIC payments?
 - Does direct deposit cover Special Monthly Payments (SMC) made to veterans?
-- Where is the C&P/EDU direct deposit crossover?
-- How often does a beneficiary choose different bank for C&P vs. EDU deposits?
+- Where is the C&P/EDU direct deposit crossover (did not find this in initial pass)?
+- How often do users choose different bank for C&P vs. EDU deposits?
 - How long does it take to initially enroll in and set up direct deposit; how long to see a change take effect?
-- How are user entry errors handled?
+- How are user's entry errors handled (e.g. incorrect account type or number)?
+- Account info confirmation was required in eBenefits; why is that absent on VA.gov?
+- Are payment recipients allowed to use paper forms (e.g. the 29-0309)? Are they discouraged from this?
+- What other common questions might be better answered on the DD form screen itself vs. the landing page (e.g. timeframe when enrolling)?
 
 ---
