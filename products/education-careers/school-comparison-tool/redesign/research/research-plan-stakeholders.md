@@ -15,6 +15,7 @@ Many changes and improvements have been made to the Comparison Tool over the pas
     - What challenges do they have with it?
  - Do users use/reference other tools to perform similar tasks?
  - Do users have any concerns or questions about the Comparison Tool?
+ - Is any information or functionality lacking from the Comparison Tool?
 
 4. Hypothesis: What is your hypothesis for this research? 	
 
