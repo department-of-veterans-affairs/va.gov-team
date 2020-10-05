@@ -7,6 +7,8 @@
   - Save in progress bug (https://github.com/department-of-veterans-affairs/va.gov-team/issues/12311)
   - Finalize content for 10/1 launch (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13993)
   - Statement of truth checkboxes
+  - New: <80 characters on facility
+  - New: Name + type required
 
 ## Backend
   - Unique SSN/validation (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13427)
@@ -14,6 +16,7 @@
   - Update St. Loius Healthcare System label (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14374)
   - Sentry/alerts (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/6703)
   - Google analytics to track backend failure sources (Lihan) (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12089)
+  - New: PDF creation erros
   
   **Added Scope**
   - PDF Delete Failure on Submission [GH Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14273)
