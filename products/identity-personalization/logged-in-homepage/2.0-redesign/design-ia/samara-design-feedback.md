@@ -1,7 +1,5 @@
 # Samara's design feedback
 
-The goal of this document is to track feedback about different sections of the logged-in homepage that might otherwise have been broken up between a bunch of tickets.
-
 ## Feedback 10.6.20
 
 ### Section: Health care
@@ -53,4 +51,6 @@ As a result, this overview area might look a little different than the other car
 I really, really appreciate that you focused on the layout and interaction aspects of this section, and all of this was exactly what I expected to see. However, now that the meat is mostly here, I do think there are some opportunities to add a little more visual interest. None of this is mandatory, just suggestions to consider:
 
 - On the logged-out homepage and on all the benefit landing pages, we have icons for all the major benefit categories. Can/Should those be incorporated here? 
-- 
+- The status-y messages on this page, eg. "You have 1 new appointment", "You have 3 active prescriptions," etc, look like headings right now. Could we style them information in a way that calls them out a little bit more? I think this could be a place where we have a little fun a bring the design system forward.
+
+Please feel free to hold off on these kind of details until you're ready for them. No rush, but wanted to make sure you had these thoughts for when you're ready to consider this level of detail.
