@@ -10,7 +10,7 @@ First, things look GREAT so far. I'm so excited to see this work, and I think it
 
 Overall, I'd like to simplify this section and have it take up less real estate. Here are some thoughts that might get us there:
 
-- I thought we had talked about **not** including preferred facility for now. We are currently pulling it from the HCA, which often has out-of-date information since it does not account for facility updates that happened after someone filled out the health care application. We *are* going to eventually have preferred facilities in the VA.govprofile, but we don't yet, so I'm inclined to say take it out and we can figure out how to handle that data later.
+- I thought we had talked about **not** including preferred facility for now. We are currently pulling it from the HCA, which often has out-of-date information since it does not account for facility updates that happened after someone filled out the health care application. We **are** going to eventually have preferred facilities in the VA.gov profile, but we don't yet, so I'm inclined to say take it out and we can figure out how to handle that data later.
 - I am questioning whether we need "applied on" date for people who have enrolled. I know I told you to keep that from the My VA dashboard, but on second thought, it doesn't seem very helpful for people who are already in the health care program. However, I do want to keep the date someone enrolled on. 
 - I also think we can pull out the "find your nearest facility" link since the Facility Locator tool is very prominently placed in the main navigation.
 
