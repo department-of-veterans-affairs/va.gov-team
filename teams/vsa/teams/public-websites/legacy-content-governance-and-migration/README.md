@@ -8,20 +8,20 @@ __VA.gov and 379 VA subdomains contained over 450.3K URLs, including 43.4K PDFs.
 <br>
 This list of 450.3 URLs includes: 
 
-> __VA.gov:__
+> __VA.gov__
 > - __56.9K URLs, including 19.6K PDFs__
 >
 > We don't know how many of these public pages contain internal meeting notes, videos, and other materials.
 <br>
 
-> __Facilities:__
+> __Facilities__
 > - __108.1K URLs__ (mostly for VHA facilities)
 > - 15.1K PDFs
 >
 > There are additional URLs for VBA facilities.
 <br>
 
-__VA.gov and subdomains:__
+__VA.gov and subdomains__
 - [List of subdomains via GSA GitHub, last updated May 2020](https://github.com/GSA/search-gov-agency-collaboration/blob/master/va/microsites.md) (courtesy of Patrick Bateman)
 
 - In SharePoint: [VA.gov and 379 VA subdomain URLs as of 8/3/20](https://dvagov-my.sharepoint.com/:x:/g/personal/jennifer_lee27_va_gov/ETMp1K5EFLRFpI8OPQd0SB8Biep4j0CrGIo81qLlIWrAVQ?e=o5G25U) (original spreadsheet without duplicates removed)
@@ -29,9 +29,9 @@ __VA.gov and subdomains:__
 - In SharePoint: [Site maps for VA.gov and all 530 subdomains as of 8/3/20](https://dvagov-my.sharepoint.com/:u:/g/personal/jennifer_lee27_va_gov/Eb5IL09uBT9AgqR1rz1LVkIBhEVtlomXNEwYbjQjOm6V9g?e=QGfb4X)
 <br>
 
-__Example subdomains:__
+__Example subdomains__
 
-The counts below are estimated. 
+URLs include redirects, PDFs, and other files. 
 
 | Subdomain  | Estimated URLs |
 | :--- | ---: |
@@ -45,9 +45,9 @@ The counts below are estimated.
 | ptsd.va.gov  | 2.8K  |
 | va.gov/oig  | 2.5K  |
 | hepatitis.va.gov  | 1.5K  |
+<br></br>
 
-
-__Questions:__
+__Questions__
 * How many URLs does VA currently have? 
 * Where are they managed (TeamSite, WordPress)? 
 * What's the usage data? 
