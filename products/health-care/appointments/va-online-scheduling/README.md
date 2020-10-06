@@ -8,6 +8,8 @@
     <a href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling"><strong>Explore the docs »</strong></a>
     <br />
     <br />
+    <a href="https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=180908234">Demo</a>
+    ·
     <a href="https://app.flowmapp.com/share/0fdcf2559a4c55625591f89c2e5d7649/userflow/83089/">View User Flow</a>
     ·
     <a href="https://github.com/department-of-veterans-affairs/va.gov-team/projects/13">Roadmap</a>
