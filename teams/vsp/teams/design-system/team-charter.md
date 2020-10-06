@@ -1,4 +1,4 @@
-# [Team Name] Charter
+# Design System Team Charter
 
 ---
 
@@ -8,7 +8,7 @@
 _Lorem ipsum_
 
 ### Product Suite (if applicable): 
-_i.e. Health Care, Education, Global UX, Authenticated Experience, etc - ask Chris J or your VA Product Lead if you're unsure!_
+VSP Global UX
 
 ### Team Mission Statement:
 _Lorem ipsum_
@@ -27,9 +27,12 @@ _Link to agile roadmap_
 ## Who we are
 
 ### Team Members:
-- DSVA Product Lead: _person’s name_
-- Team Product Manager: _person’s name_
-- _Additional Team Role_: _person’s name_
+- DSVA Product Lead: Kevin Hoffman
+- Team Product Manager: Carol Wong
+- UX Designer: Crystabel Reiter
+- Engineering Lead: Christopher Valarida
+- Engineer: Brooks Johnson 
+
 
 ---
 
@@ -40,28 +43,28 @@ _Link to agile roadmap_
 #### Stand-up
 Check in on people and product progress
 
-- Daily @ _time_
+- Daily @ 11:30AM ET
 - 15 min
 - 3 Question Format: What I did yesterday? What will I do today? Any impediments?
 
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
 
-- 1st Wednesday of every sprint @ _time_
+- 1st Wednesday of every sprint at 3PM ET?
 - 1 hour
 - _any other notes you have_
 
 #### Retro
 Review accomplishments from prior sprint, what went well, what can be improvemed, what questions people have, and any action items
 
-- 1st Wednesday of every sprint @ _time_
+- 1st Wednesday of every sprint at 2:30PM ET?
 - 30 min
 - _any other notes you have_
 
 #### Grooming
 Assess and update workload for remainder of sprint
 
-- 2nd Thursday of every sprint
+- 2nd Thursday of every sprint at 12PM ET? 
 - 1 hour
 - _any other notes you have_
 
