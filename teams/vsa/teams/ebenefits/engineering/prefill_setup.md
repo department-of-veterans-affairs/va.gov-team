@@ -53,7 +53,7 @@ end
 ```yaml
 claimantAddress: [contact_information, address]
 ```
-This very basic form profile mapping will map the `address` that is taken from the `contact_information` inside the FormProfile model and map it to the `claimantAddress` on the front end. You may wonder what the `contact_information` is and why we need it. If you take a look at `vets-api/app/models/form_profile.rb` you can see there is a an atrtribute ` attribute :contact_information, FormContactInformation`. That attribute is instantiating the class in this file called `FormContactInformation`. In that class you can see listed out what we get from there -
+>This very basic form profile mapping will map the `address` that is taken from the `contact_information` inside the FormProfile model and map it to the >`claimantAddress` on the front end. You may wonder what the `contact_information` is and why we need it. If you take a look at `vets->api/app/models/form_profile.rb` you can see there is a an atrtribute ` attribute :contact_information, FormContactInformation`. That attribute is instantiating >the class in this file called `FormContactInformation`. In that class you can see listed out what we get from there -
 ```ruby
 class FormContactInformation
   include Virtus.model
@@ -65,12 +65,12 @@ class FormContactInformation
   attribute :email, String
 end
 ```
-Since in our form profile mapping we are making use of the `address` we need to access it through the `contact_information` class. For any contact information it is reccomended that you use this `contact_information` class as it already loads this data for you. Let's say you wanted to also prefill the user's email and map it to a field on the front end called `claimantEmail` you would add this line to your form profile mapping -
+>Since in our form profile mapping we are making use of the `address` we need to access it through the `contact_information` class. For any contact information it >is reccomended that you use this `contact_information` class as it already loads this data for you. Let's say you wanted to also prefill the user's email and map >it to a field on the front end called `claimantEmail` you would add this line to your form profile mapping -
 ```yaml
 ...
 claimantEmail: [contact_information, email]
 ```
-That would tell the front end to map the email to the `claimantEmail` field when the prefill data is loaded.
+>That would tell the front end to map the email to the `claimantEmail` field when the prefill data is loaded.
 
 
 
