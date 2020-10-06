@@ -23,8 +23,6 @@ The list of 450.3 URLs includes:
 
 __Example subdomains__
 
-URLs include redirects and PDFs (and other files). 
-
 | Subdomain  | Estimated URLs |
 | :--- | :--- |
 | Facility sites  | 108.1K  |
