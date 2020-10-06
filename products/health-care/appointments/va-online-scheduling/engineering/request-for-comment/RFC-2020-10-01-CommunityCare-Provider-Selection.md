@@ -75,7 +75,7 @@ or AWS Lambda that runs at regular intervals. Details of the engineering work ah
 
 - Building a stand-alone service could have some unanticipated challenges since we'd likely be one of the first teams in a long time to take this new approach.
 - PPMS is actively working to address some of the performance issues, in particular including Type of Care as part of the initial query, so that the first list could be narroed down before doing N+1 queries for address information. If this is the main problem we want to solve, it might be prudent to wait and see if this adequately improves performance.
-- 
+- Building our own database is not without issues of its own. While it will be more performant based on how we structure the tables and data, there might be inconsistencies in how we approach geo-location as well data integrity issues with our localized database becoming stale, relative to PPMS's data.
 
 ## Alternatives
 
