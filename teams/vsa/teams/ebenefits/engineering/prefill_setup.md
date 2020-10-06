@@ -23,7 +23,7 @@ When you create your set of prefill files you will inherit from this model so yo
 
 ##### A prefill class
 
-Every form needs a prefill class that inherits from the FormProfile model. This file is to tell the back end what data you will need. Your prefill class goes in `vets-api/app/models/form_profiles/` and is named based on your form's ID. If all you need is the data listed above then the most basic implimentation of a prefill class looks like this
+>Every form needs a prefill class that inherits from the FormProfile model. This file is to tell the back end what data you will need. Your prefill class goes in >`vets-api/app/models/form_profiles/` and is named based on your form's ID. If all you need is the data listed above then the most basic implimentation of a >prefill class looks like this
 ```ruby
 # frozen_string_literal: true
 
@@ -37,7 +37,7 @@ class FormProfiles::VA288832 < FormProfile
   end
 end
 ```
-This is the prefill class for the form with an ID of 28-8832. You can see it inherits from the FormProfile model so it automatically gets access to all of the basic data we listed above. You can also see a few other things that need to be included inside a `metadata` object, those are -
+>This is the prefill class for the form with an ID of 28-8832. You can see it inherits from the FormProfile model so it automatically gets access to all of the >basic data we listed above. You can also see a few other things that need to be included inside a `metadata` object, those are -
 
 | item | value | notes |
 |------|--------|-------|
@@ -45,7 +45,7 @@ This is the prefill class for the form with an ID of 28-8832. You can see it inh
 | prefill | boolean | this is if you want to enable prefill for this form. This will generally always be set to true unless you want to turn prefill off |
 | returnUrl | string | this is the first real page of your form. Since prefill loads at the beginning of the form this URL is the place that the user will be sent to after prefill is loaded |
 
-This basic prefill class will give you access to all of the basic data we listed above. If you need to load more data than this we will provide a more indepth version of this file later in this document.
+>This basic prefill class will give you access to all of the basic data we listed above. If you need to load more data than this we will provide a more indepth >version of this file later in this document.
 
 ##### A Form profile mapping
 <hr>
