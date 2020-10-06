@@ -31,7 +31,7 @@ __VA.gov and subdomains__
 
 __Example subdomains__
 
-URLs include redirects, PDFs, and other files. 
+URLs include redirects and PDFs (and other files). 
 
 | Subdomain  | Estimated URLs |
 | :--- | ---: |
@@ -45,8 +45,8 @@ URLs include redirects, PDFs, and other files.
 | ptsd.va.gov  | 2.8K  |
 | va.gov/oig  | 2.5K  |
 | hepatitis.va.gov  | 1.5K  |
-<br></br>
 
+<br></br>
 __Questions__
 * How many URLs does VA currently have? 
 * Where are they managed (TeamSite, WordPress)? 
