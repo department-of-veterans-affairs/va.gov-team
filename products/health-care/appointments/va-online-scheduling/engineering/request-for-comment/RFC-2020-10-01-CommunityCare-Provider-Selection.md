@@ -20,7 +20,7 @@ care available at the facility. This N+1 querying is slow and error prone. It's 
 
 3. There is no way to query by provider name.
 
-4. The type of care taxonomy used by PPMS is different than that which is used by VHA and VAMC facilities. Currently PPMS allows 4 specialty codes to be sent in a single query. Given the different taxonomy used by PPMS, to identify all the providers for a particular service/specialty, you'll need to query more than 4 specialty codes. To properly support this mapping effort, they'd need to support querying by multiple type of care types simultaneously.
+4. The type of care taxonomy used by PPMS is different than that which is used by VHA and VAMC facilities. Currently PPMS allows 4 specialty codes to be sent in a single query. Given the different taxonomy used by PPMS, to identify all the providers for a particular service/specialty, you'll need to query more than 4 specialty codes.
 
 ## Motivation
 We want to have a more performant way of satisfying all three ways that this data might be injested, some supporting use cases specific to Facilities Locator
