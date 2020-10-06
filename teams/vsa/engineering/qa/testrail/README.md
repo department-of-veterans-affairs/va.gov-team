@@ -12,6 +12,6 @@ If you're brand-new to TestRail, be sure to read VSP's basic documentation first
 
 Read about specific TestRail topics below:
 
-- TestRail Test Plans (coming soon)
+- [TestRail Test Plans](vsa-qa-testrail-plans.md)
 - [TestRail Test Runs](vsa-qa-testrail-runs.md)
 - [TestRail Test Cases](vsa-qa-testrail-cases.md)
