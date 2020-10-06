@@ -28,6 +28,7 @@ Notes regarding the APIs defined at
 ### Appointment
 
 - What would be in the practitioner field?
+- It's not clear to me how Community Care provider info would come through.
 - Does facilityId mean sta3n or sta6aid? Are we using consistent names for facilities and sites in the new API?
 - We submit contact info with a request (phone and email), how would that be handled through here?
 - Appointment requests also have a visit type, which is office, phone, or video, I don't see a spot for that. Maybe type?
