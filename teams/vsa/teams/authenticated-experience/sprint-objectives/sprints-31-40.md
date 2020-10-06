@@ -113,6 +113,7 @@ Note: This is a DevOps tickets, and I am figuring out who can work on it. Howeve
 ### VA Profile: Issue with bogus addresses being saved
 
 - Critical: Investigate VA Profile issue to determine whether veteran account has been hacked [#175](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/175)
+- Add address form field validation to prevent users from entering web URLs #14471
 
 ### Pact work
 
