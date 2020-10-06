@@ -11,17 +11,20 @@ This Community Care provider data is currently available from Provider Profile M
 The VA.gov Facility Locator tool integrates with PPMS to provide care site information such as address, phone number, and specialties available. 
 This integration with PPMS has its limitations and some challenges have been encountered:
 
-1. The data is structured in a way that does not make it easy to query. The first call to PPMS returns a list of care facilities based on proximity using
-address or geolocation. A second query is then made for each of the results returned in the first response to fetch phone number, address, and types of 
-care available at the facility. This N+1 querying is slow and error prone.
 
-2. There is no mechanism to query by a combination of address and type of care directly via PPMS.
+1. There is no mechanism to query by a combination of geo-location and type of care directly via PPMS (PPMS is expected to deliver this capability in November).
+
+2. The data is structured in a way that does not make it easy to query. The first call to PPMS returns a list of care facilities based on proximity using
+address or geolocation. A second query is then made for each of the results returned in the first response to fetch phone number, address, and types of 
+care available at the facility. This N+1 querying is slow and error prone. It's worth noting that this is still a performance issue even after PPMS would make changes to include type of care in the initial query.
 
 3. There is no way to query by provider name.
 
+4. The type of care taxonomy used by PPMS is different than that which is used by VHA and VAMC facilities. Currently PPMS allows 4 specialty codes to be sent in a single query. Given the different taxonomy used by PPMS, to identify all the providers for a particular service/specialty, you'll need to query more than 4 specialty codes. To properly support this mapping effort, they'd need to support querying by multiple type of care types simultaneously.
+
 ## Motivation
 We want to have a more performant way of satisfying all three ways that this data might be injested, some supporting use cases specific to Facilities Locator
-and others 2 and 3 that might be more specific to VAOS. The VSA Facilities Team, Lighthouse, VAMF, and VAOS have all struggled with some variation of this problem
+and others that might be more specific to VAOS. The VSA Facilities Team, Lighthouse, VAMF, and VAOS have all struggled with some variation of this problem
 and there is strong motivation to create a new service that will offer a more performant solution.
 
 ## Design
@@ -70,9 +73,9 @@ or AWS Lambda that runs at regular intervals. Details of the engineering work ah
 
 ## Risks
 
-VSP Operations talent notwithstanding, the work they've done has not been fully vetted by any application teams. They are the subject matter expert there and our
-team is not sufficiently staffed to step in and triage should there be an issue. We would essentially be guinea-pigs. That being said, there really isn't anything
-particularly new to this model as it's all the same stuff that Vets-API uses and it was recently used in deploying Loki as well.
+- Building a stand-alone service could have some unanticipated challenges since we'd likely be one of the first teams in a long time to take this new approach.
+- PPMS is actively working to address some of the performance issues, in particular including Type of Care as part of the initial query, so that the first list could be narroed down before doing N+1 queries for address information. If this is the main problem we want to solve, it might be prudent to wait and see if this adequately improves performance.
+- 
 
 ## Alternatives
 
