@@ -24,6 +24,8 @@ When you create your set of prefill files you will inherit from this model so yo
 1. A prefill class
 2. A form profile mapping
 3. A unit test
+4. To edit the form_profile.rb file
+5. Set prefill to true for your form
 
 These files are detailed below
 
@@ -94,5 +96,77 @@ let(:v28_8832_expected) do
     }
   end
 ```
->You can see this is simply testing the address fields that come for free with the FormProfile model we indicated earlier inside `contact_information`.  
+>You can see this is simply testing the address fields that come for free with the FormProfile model we indicated earlier inside `contact_information`. In order to make sure that your unit tests run you also need to add your form ID to the `each do` loop somewhere near the end of this file that looks like this -
+```ruby
+%w[
+          22-1990
+          22-1990N
+          22-1990E
+          22-1995
+          22-5490
+          22-5495
+          40-10007
+          1010ez
+          22-0993
+          FEEDBACK-TOOL
+          686C-674
+          28-8832
+        ].each do |form_id|
+          it "returns prefilled #{form_id}" do
+            expect_prefilled(form_id)
+          end
+        end
+```
+You can see in sticking with our simple example we have added our form id `28-8832` to the list, this will make sure our unit tests get run.
 
+
+
+##### 4. Edit the form_profile.rb file
+>Once you have these other files in place and are ready for your prefill to be run you need to tell the `form_profile.rb` file about it. Inside that file you will see this object, named `FORM_ID_TO_CLASS`, of all the form IDs that have prefill running and you need to add your form ID to it -
+```ruby
+FORM_ID_TO_CLASS = {
+    '1010EZ' => ::FormProfiles::VA1010ez,
+    '20-0996' => ::FormProfiles::VA0996,
+    '21-526EZ' => ::FormProfiles::VA526ez,
+    '22-1990' => ::FormProfiles::VA1990,
+    '22-1990N' => ::FormProfiles::VA1990n,
+    '22-1990E' => ::FormProfiles::VA1990e,
+    '22-1995' => ::FormProfiles::VA1995,
+    '22-5490' => ::FormProfiles::VA5490,
+    '22-5495' => ::FormProfiles::VA5495,
+    '21P-530' => ::FormProfiles::VA21p530,
+    '21-686C' => ::FormProfiles::VA21686c,
+    '686C-674' => ::FormProfiles::VA686c674,
+    '40-10007' => ::FormProfiles::VA4010007,
+    '21P-527EZ' => ::FormProfiles::VA21p527ez,
+    '22-0993' => ::FormProfiles::VA0993,
+    '22-0994' => ::FormProfiles::VA0994,
+    'FEEDBACK-TOOL' => ::FormProfiles::FeedbackTool,
+    'MDOT' => ::FormProfiles::MDOT,
+    '22-10203' => ::FormProfiles::VA10203,
+    '28-8832' => ::FormProfiles::VA288832
+  }.freeze
+```
+>You can see we added our form ID for our 28-8832 example to the end along with the form profile class name we declared in our prefill class in step 1. You also need to make another edit to the `form_profile.rb` file in the object just above the one we just edited. This object is called `ALL_FORMS` and looks like this -
+```ruby
+ALL_FORMS = {
+    edu: %w[22-1990 22-1990N 22-1990E 22-1995 22-5490
+            22-5495 22-0993 22-0994 FEEDBACK-TOOL 22-10203],
+    evss: ['21-526EZ'],
+    hca: ['1010ez'],
+    pension_burial: %w[21P-530 21P-527EZ],
+    dependents: ['686C-674'],
+    decision_review: ['20-0996'],
+    mdot: ['MDOT'],
+    vre_counseling: ['28-8832']
+  }.freeze
+```
+>Again you can see that we added our form ID to the end of that object. You will also see that we named it `vre_counseling`, you will need to give your form ID a name that makes sense for your form. Our form is for counseling for Veterans so `vre_counseling` is what we went with but you can put whatever name you want in here, just make sure it makes sense with the form you are working on and that you remember it for the next step.
+
+##### 5. Set prefill to `true` for your form
+>The last thing you need to do is to set prefill to `true` for your form inside `vets-api/config/settings.yml`. Here you will need whatever you named your form in the previous step and you will add it to the `settings.yml` file like this -
+```yaml
+vre_counseling:
+  prefill: true
+```
+>In sticking with our same example where we named our form `vre_counseling`, we have set `prefill` to `true` for that form. You should now be able to test your prefill. It should be noted that much of the prefill will NOT work on your localhost and generally needs to be tested on staging.
