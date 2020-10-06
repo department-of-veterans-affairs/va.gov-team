@@ -788,16 +788,30 @@ Back to [Table of Contents](#table-of-contents)
 
 #### GI Bill Estimate Your Benefits
 
-**Audit Status:** _Staging review completed. VSP post-launch audit underway as of September 3, 2020._<br/>
+**Audit Status:** _Staging review completed. VSP post-launch audit finished as of October 5, 2020. Ready to send to VA 508 office._<br/>
 
 **Open issues**
 
+- [[AXE-CORE]: GIBCT EYB - Form elements MUST have labels - #14407](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14407)<br/>
+**Opened:** October 5, 2020 | **Severity:** 508-defect-1 - **_Critical_**
 - [[SCREENREADER]: GIBCT EYB - iOS VoiceOver MUST read out the aria-label of the learn more buttons - #10201](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10201)<br/>
 **Opened:** June 12, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER]: GIBCT EYB - Focus MUST be set on the first added item when Show Next 10 button is pressed - #9953](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9953)<br/>
 **Opened:** June 10, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER]: GIBCT EYB - IE11 MUST announce the updated live region after users press the Update benefits button - #11300](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11300)<br/>
 **Opened:** July 16, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+- [[MOBILE DESIGN]: GIBCT EYB: Skip to your estimated benefits link SHOULD be taller and spaced appropriately - #14409](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14409)<br/>
+**Opened:** October 5, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+- [[COGNITION]: GIBCT EYB - Learn more modal triggers MUST be moved outside labels for VETTEC estimated benefits - #14417](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14417)<br/>
+**Opened:** October 5, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+- [[HEADINGS]: GIBCT EYB - Additional resources headings SHOULD be H2s on all three profile types - #14419](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14419)<br/>
+**Opened:** October 5, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+- [[MOBILE DESIGN]: GIBCT EYB - Responsive tables SHOULD have HTML updated for better mobile presentation - #14420](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14420)<br/>
+**Opened:** October 5, 2020 | **Severity:** 508-defect-3 - **_Minor_**
+- [[DESIGN]: GIBCT EYB - CONSIDER re-aligning the benefits list items for VETTEC providers - #14422](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14422)<br/>
+**Opened:** October 5, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
+- [[DESIGN]: GIBCT EYB - CONSIDER shortening margin between benefit headers on college, OTJ profiles - #14424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14424)<br/>
+**Opened:** October 5, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
 
 Back to [Table of Contents](#table-of-contents)
 
