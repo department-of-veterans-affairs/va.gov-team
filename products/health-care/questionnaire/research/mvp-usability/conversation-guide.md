@@ -39,11 +39,12 @@ Keep that pre-appointment experience in mind as I tell you about our first exerc
 
 I'm going to send you a link in the chat. Once you pull up the link, will you share your screen with me?
 
-[Mobile Prototype](https://preview.uxpin.com/a15205c1bedcdfc8fe46fed26c22fa731cab8ae0cvhidm)
+[Mobile Prototype](https://preview.uxpin.com/a15205c1bedcdfc8fe46fed26c22fa731cab8ae0cvhidm)<br/>
 [Desktop Prototype](https://preview.uxpin.com/e9e0dc597bb076e74db05f77d35306496a89fca2cvhidm)
 
-**Task: Pretend that you just scheduled your annual physical exam with your primary care provider. To allow your care team to better meet your needs at the appointment, they are requesting you fill out a previsit questionnaire. Complete this questionnaire.**
+**Task: Pretend that you (your name in the prototype will be William Nelson) just scheduled your annual physical exam with your primary care provider. To allow your care team to better meet your needs at the appointment, they are requesting you fill out a previsit questionnaire. Complete this questionnaire.**
 
+_Guide the user to fill in no more than two questions on the Prepare for Your Appointment page._
 _Only give additional direction if the Veteran gets stuck completing the task._<br/>
 
 ### Things to watch/listen for:
