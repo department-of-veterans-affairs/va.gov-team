@@ -1,13 +1,13 @@
 # IA Design and Recommendations
 **STATUS:**
 
-**Team:** Public Websites for discovery/design + BAM1/BAM2/eBen for technical implemention and launch
+**Team:** 
 
-**Product/Featue:** Application "wizard" utilized in Education, Disability, VRE, PCPG and HLR (Decision reviews)
+**Product/Featue:** 
 
-**Background/Context:**  The "How to apply wizards" help Veterans and others find the right online forms to apply for benefits. They currently live on static content pages (i.e. How to apply and Eligibility pages) will be moved onto the /introduction page of the individual React applications/forms.  This work impacts the wizard flow, messaging and entry points across the impacted benefit areas. 
+**Background/Context:**   
 
-**IA Request:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/14193
+**IA Request:** 
 
 **On this page:**
 - [User flows](#flows)
