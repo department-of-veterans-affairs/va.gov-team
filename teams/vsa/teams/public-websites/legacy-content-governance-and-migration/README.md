@@ -15,7 +15,7 @@ This list of 450.3 URLs includes:
 <br>
 
 > __Facilities__
-> - __108.1K URLs, including 15.1K PDFs__ (most URLs are for VHA facilities, not VBA ones)
+> - __108.1K URLs, including 15.1K PDFs__ (most URLs are for VHA facilities)
 >
 > There are additional URLs for VBA facilities.
 <br>
@@ -33,7 +33,7 @@ __Example subdomains__
 URLs include redirects and PDFs (and other files). 
 
 | Subdomain  | Estimated URLs |
-| :--- | ---: |
+| :--- | :--- |
 | Facility sites  | 108.1K  |
 | oit.va.gov  | 85.5K  |
 | hsrd.research.va.gov  | 72.5K  |
@@ -44,7 +44,7 @@ URLs include redirects and PDFs (and other files).
 | ptsd.va.gov  | 2.8K  |
 | va.gov/oig  | 2.5K  |
 | hepatitis.va.gov  | 1.5K  |
-
+<br></br>
 
 __Questions__
 * How many URLs does VA currently have? 
