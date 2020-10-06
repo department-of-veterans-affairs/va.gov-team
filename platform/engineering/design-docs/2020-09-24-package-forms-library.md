@@ -9,7 +9,7 @@
 
 ### Objective
 
-The goal of this project is to define clear boundaries around the collection of code, markup, and styling that is referred to as "the forms library".
+The goal of this project is to define clear boundaries around the collection of code, markup, and styling that is referred to as "the forms library."
 
 Some non-goals are:
 
@@ -22,7 +22,7 @@ The intended audience for this document is VSP and VFS frontend engineers.
 
 ### Background
 
-The forms library is a collection of React components, CSS, and JS that allows an app team to build a form application for `vets-website` using a combination of JSON schemas.
+The forms library is a collection of React components, CSS, and JS that allows an app team to build a form application for `vets-website` using a form configuration.
 
 Right now in `vets-website` we have the following folders containing code for the forms library:
 
@@ -73,8 +73,8 @@ These aren't _strictly_ part of the forms library, but since the forms library m
 The forms library will be consolidated into a single place and bundled as a Node package.
 This will allow VFS teams to import it as if it were any other Node module.
 
-This change should not have a noticeable functional impact on individual app teams.
-Towards the end the only change that should be made on the app side of things is changing where forms library code/styles are imported from.
+This change should introduce minimal functional impact on individual application teams.
+The only application code changes will be updating the where forms library code and styles are imported from.
 
 <!-- The source for this diagram is the `*.odg` file in the same directory, a LibreOffice Draw doc-->
 ![Forms library bundling](images/forms-library-package/forms-library-package.svg)
@@ -87,7 +87,7 @@ A few things will have to happen in order pave the way for additional changes th
 
 #### Preparation
 
-- The app-specific code mentioned in [Application Entanglement](#application-entanglement) will have to be moved so that it no longer lives in the forms library.
+- Move the app-specific code mentioned in [Application Entanglement](#application-entanglement) outside the forms library directories.
 - Use the `no-unresolved-modules` ESLint plugin to [find & remove unused code](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8763) in the `forms` and `forms-library` directories
 
 #### Beginning the bundling
@@ -99,8 +99,7 @@ A few things will have to happen in order pave the way for additional changes th
 - Edit the webpack config & use a custom `sass-loader` importer to rewrite imports from `forms` to `forms-system`
 - Fix broken relative imports
 - Add babel configuration to the new package because according to [Babel's docs](https://babeljs.io/docs/en/config-files):
-
-> Searching [for a config] will stop once a directory containing a `package.json` is found, so a relative config only applies within a single package
+    > Searching [for a config] will stop once a directory containing a `package.json` is found, so a relative config only applies within a single package
 
 #### Clarifying boundaries
 
@@ -109,8 +108,9 @@ The [Platform Entanglement](#platform-entanglement) section mentions that forms 
 - Move the `static-data/labels` file into the forms library, since it is only used in connection with forms library configuration
 - Prefer code that exists in the forms library, instead of in the parent platform directory.
   - For example, we have a [`focusElement`](https://github.com/department-of-veterans-affairs/vets-website/blob/46000a4becae29ca72b505889713fd4b2b2718f0/src/platform/utilities/ui/index.js#L17-L32) that exists in `platform/utilities/ui`, but also one that exists in [`forms-system/src/js/utilities/ui`](https://github.com/department-of-veterans-affairs/vets-website/blob/46000a4becae29ca72b505889713fd4b2b2718f0/src/platform/forms-system/src/js/utilities/ui/index.js#L3-L18). This project would eliminate the duplicate code existing at the platform level and direct all imports to use the forms library version
-- Try to remove imports from `platform/monitoring` and instead import the relevant code in outside of the forms library and pass them in as props or config options.
-  - As an example, in the [`FormSignInModal`](https://github.com/department-of-veterans-affairs/vets-website/blob/1cc955b8d4f6b9f93f4553fdd4afa9878c75564f/src/platform/forms/save-in-progress/FormSignInModal.jsx#L12) component, remove the `platform/monitoring/record-event` import and instead put that function call inside of the function that gets passed as a prop. `FormSignInModal` is only used from `platform/site-wide`
+- Remove imports from `platform/monitoring`
+  - Instead, import the relevant code outside of the forms library and pass them in as props or config options.
+  - As an example, in the [`FormSignInModal`](https://github.com/department-of-veterans-affairs/vets-website/blob/1cc955b8d4f6b9f93f4553fdd4afa9878c75564f/src/platform/forms/save-in-progress/FormSignInModal.jsx#L12) component, remove the `platform/monitoring/record-event` import and instead put that function call inside of the function that gets passed as a prop. `FormSignInModal` is only used from `platform/site-wide`.
 - Remove forms library dependence on platform re-implementations of 3rd party functions, like lodash's `get` and `set`.
   - Some of these examples will be easy to avoid the lodash functions entirely, but for others we should switch to the lodash functions instead of the platform versions, with a longer term goal being to get away from lodash altogether
 - Remove imports for `src/platform/utilities/environment` and instead rely on global `const`s from webpack's DefinePlugin for environment-related `const`s (i.e. an api url) or branching
@@ -118,7 +118,7 @@ The [Platform Entanglement](#platform-entanglement) section mentions that forms 
 
 #### Final touches
 
-Once the forms library is actually a package, app code can be updated to import from it directly instead of relying on the aliases.
+Once the forms library is actually a package, app code will be updated to import from it directly instead of relying on the aliases.
 
 - Each app team will update their code to use forms library JS & SCSS from the package instead of by direct path
 - Configure the `no-restricted-imports` ESLint rule to [restrict imports of `src/platform/packages` directly](https://eslint.org/docs/rules/no-restricted-imports)
