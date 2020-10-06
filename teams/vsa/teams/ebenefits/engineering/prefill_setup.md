@@ -27,7 +27,7 @@ When you create your set of prefill files you will inherit from this model so yo
 
 These files are detailed below
 
-##### A prefill class
+##### 1. A prefill class
 
 >Every form needs a prefill class that inherits from the FormProfile model. This file is to tell the back end what data you will need. Your prefill class goes in `vets-api/app/models/form_profiles/` and is named based on your form's ID. If all you need is the data listed above then the most basic implimentation of a prefill class looks like this
 ```ruby
@@ -53,7 +53,7 @@ end
 
 >This basic prefill class will give you access to all of the basic data we listed above. If you need to load more data than this we will provide a more indepth >version of this file later in this document.
 
-##### A Form profile mapping
+##### 2. A Form profile mapping
 
 >Every form needs a YAML file that maps the data that is being loaded by your prefill class to what the data is called in the schema on the front end. This file will go in `vets-api/config/form_profile_mappings/` and should be named for the ID of your form. Here is the basic format of this file -
 ```yaml
@@ -78,5 +78,21 @@ claimantEmail: [contact_information, email]
 ```
 >That would tell the front end to map the email to the `claimantEmail` field when the prefill data is loaded.
 
-
+##### 3. A unit test
+>Just like any other code added to our codebase we need to add unit tests to make sure it functions as we want. The unit tests for prefill should be added to `vets-api/spec/models/form_profile_spec.rb`. Let's stick with our basic setup and see what a basic unit test for the `claimantAddress` would look like -
+```ruby
+let(:v28_8832_expected) do
+    {
+      'claimantAddress' => {
+        'street' => street_check[:street],
+        'street2' => street_check[:street2],
+        'city' => user.va_profile[:address][:city],
+        'state' => user.va_profile[:address][:state],
+        'country' => 'USA',
+        'postal_code' => user.va_profile[:address][:postal_code][0..4]
+      }
+    }
+  end
+```
+>You can see this is simply testing the address fields that come for free with the FormProfile model we indicated earlier inside `contact_information`.  
 
