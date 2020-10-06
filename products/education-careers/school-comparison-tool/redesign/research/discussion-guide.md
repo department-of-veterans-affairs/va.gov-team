@@ -20,7 +20,7 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions - X minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
@@ -53,6 +53,25 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Step 1
 - Step 2
 
+### Specific questions for "EDU":
+
+- What business needs do you hope to meet with a redesigned CT?
+- What business needs are not being met by current CT?
+- What could a new and improved CT do for you?
+- Where else within VA.gov could data from the CT be used? How might CT data be used elsewhere within VA.gov?
+- What are the most common questions EDU hears about education benefits?
+   - From SCOs? From Veterans? From non-Veteran beneficiaries?
+- Who has stats on GI Bill usage? 
+- Where else in VA is the CT used? 
+
+### Specific questions for "DEPO":
+
+- Any current concerns or design aspects that should be addressed in redesign?
+- Roadmap for VA.gov design enhancements - what should we be on the lookout for?  
+   - What's the roadmap for the VA.gov app? How does the CT get on that plan?
+- Guidance on incorporation of social media? 
+- Other data integration efforts that could leverage CT data? Other date integration efforts that CT would benefit from? (MATT SELF)
+
 ### Specific questions for "Other VA":
 
 - How can we determine the usage of individual GI Bills, such as Post-9/11?
@@ -73,16 +92,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Is there a plan for a TAP app?
 - Solid Start: who runs this? Does it include CT references? Could it?
 
-## Third Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
 
 ## Post-Task Interview - X minutes
 
