@@ -37,7 +37,7 @@ URLs include redirects and PDFs (and other files).
 | Facility sites  | 108.1K  |
 | oit.va.gov  | 85.5K  |
 | hsrd.research.va.gov  | 72.5K  |
-| veteranshealthlibrary.va.gov  | 22.3K  |
+| veteranshealthlibrary.va.gov  | 44K  |
 | research.va.gov  | 22.3K  |
 | data.va.gov  | 13.2K  |
 | mirecc.va.gov  | 4K  |
