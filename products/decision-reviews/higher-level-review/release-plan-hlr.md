@@ -14,11 +14,11 @@
   - [Development] HLR: Wizard Implementation #12925 - CLOSED
   - [Development] HLR: Update to HLR Schema Based on LH Changes #12319 - CLOSED
   - [Analytics] HLR: Back-End Grafana Dashboard for Submission Success/Errors #10712 - CLOSED
-  - [Testing] HLR: User Acceptance Testing for Higher Level Review #7802 - Sprint 32/33
-  - [Launch] HLR: Prepare Final Steps of Collaboration Cycle in Preparation for Launch #9763 - Sprint 32
+  - [Launch] HLR: Prepare Final Steps of Collaboration Cycle in Preparation for Launch #9763 - Sprint 31 - CLOSED
   - [Development] HLR: Is HLR Working? - Sprint 31 - CLOSED
   - [Development] HLR: Get Staging (Sandbox?) API key #14003 - CLOSED
   - [Development] HLR: Investigate HLR Prefill Issues #13952 - Sprint 31 - CLOSED
+  
   - [Content] HLR: Content review of contestable issue endpoint responses #10713 - Sprint 32
   - [Development] HLR: Final Wizard Work for Higher Level Review #14460 - Sprint 32 (Not a release blocker)
   
