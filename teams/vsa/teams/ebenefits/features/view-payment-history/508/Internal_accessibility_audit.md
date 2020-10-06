@@ -26,6 +26,9 @@ NA
 ```HTML
 <h3 id="paymentsRecievedHeader" class="vads-u-font-size--xl">Payments you received</h3>
 ```
+```HTML
+<h3 id="paymentsReturnedHeader" class="vads-u-font-size--xl">Payments returned</h3>
+```
 The h3 used above the payments tables when payments are present need to be changed to an h2 so that the Heading levels on the page do not skip from h3 to h1 
 
 ### 2. Scan with axe-coconut   
