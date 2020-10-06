@@ -38,6 +38,7 @@ end
 This is the prefill class for the form with an ID of 28-8832. You can see it inherits from the FormProfile model so it automatically gets access to all of the basic data we listed above. You can also see a few other things that need to be included inside a `metadata` object, those are -
 
 | item | values | notes |
+|------|--------|-------|
 | version | int | this is the version of prefill for your form this is. This number will generally start with 0 and then icrement as you pull in more data not included in the FormProfile model |
 
 
