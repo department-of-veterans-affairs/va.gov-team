@@ -21,21 +21,18 @@
 - Currently the wizard lives on key static content pages (i.e. How to apply). However, not all content pages that provide links to the forms include the wizard, and users can easily bypass the wizard by direct linking to specific applications. This increases the possibility of users completing and submitting the wrong form 
 - Moving the wizard to the initial page of the React form, ensures the user's scenario is always validated regardless of how they navigated to the application
 
-
-
-![image](https://user-images.githubusercontent.com/20994159/95109312-0dee9280-0702-11eb-888b-d63cd1fe0779.png)
+![image](https://user-images.githubusercontent.com/20994159/95248216-99d4ed00-07dc-11eb-848c-be0a43112598.png)
 
 Wizard functionality
 1. Skip/ignore wizard - This is an optional feature of the wizard pattern.  On the /introduction page while the wizard is displayed, an option may be provided that allows the user to skip the wizard or ignore's its recommendation if they want to continue forward on the current application.
 2. Shared wizards - The same wizard may be shared across multiple related applications - i.e. the wizard on each of the education applications will be the same wizard, however the wizards on the chapter 31 and 36 wizards are different.  
-  - If a wizard routes a user to a different application that shares the same wizard, the user will not need to complete the wizard again. 
-  - If a wizard routes a user to a different application with a different wizard, the user will need to complete that application's wizard. 
-- the user can choose to start over and answer the wizard questions again
+    - If a wizard routes a user to a different application that shares the same wizard, the user will not need to complete the wizard again. 
+    - If a wizard routes a user to a different application with a different wizard, the user will need to complete that application's wizard. 
 3. Start over - Once the user has either completed or skipped/ignored the wizard, the /introduction page of the application is refreshed with content about that application along with an option for the user to "start over".  When the user clicks this option, it should function like the browser 'Back' button - they should be returned to the original /introduction page with the wizard completely reset (i.e. their previous answers are cleared). This option only appears on the /introduction page.
-  - If the user did the wizard on application A, continued to application A, clicking "start over" would return them to the default state of application A
-  - If the user did the wizard on application A, was routed to application B, clicking "start over" would return them to the default state of application A
+    - If the user did the wizard on application A, continued to application A, clicking "start over" would return them to the default state of application A
+    - If the user did the wizard on application A, was routed to application B, clicking "start over" would return them to the default state of application A
 4. Abandon application - If a user abandons their application by either navigating away from an unsaved form, choosing to start a new application, or their saved application has expired,  their wizard status should be reset.  When starting the application again, they would need to complete the wizard again. 
-5. Saved applications - If a user resumes a saved application, they would not need to complete the wizard again.  The saved in progress application will return them to the appropriate place within the application form flow. 
+5. Resume saved application - If a user resumes a saved application, they would not need to complete the wizard again.  The saved in progress application will return them to the appropriate place within the application form flow. 
 
 
 
