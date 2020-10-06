@@ -48,9 +48,22 @@ end
 >This basic prefill class will give you access to all of the basic data we listed above. If you need to load more data than this we will provide a more indepth >version of this file later in this document.
 
 ##### A Form profile mapping
-<hr>
-Every form needs a YAML file that maps the data that is being loaded by your prefill class to what the data is called in the schema on the front end. This file will go in `vets-api/config/form_profile_mappings/` and should be named for the ID of your form. Here is the basic format of this file -
+
+>Every form needs a YAML file that maps the data that is being loaded by your prefill class to what the data is called in the schema on the front end. This file >will go in `vets-api/config/form_profile_mappings/` and should be named for the ID of your form. Here is the basic format of this file -
 ```yaml
 claimantAddress: [contact_information, address]
 ```
+This very basic form profile mapping will map the `address` that is taken from the `contact_information` inside the FormProfile model and map it to the `claimantAddress` on the front end. You may wonder what the `contact_information` is and why we need it. If you take a look at `vets-api/app/models/form_profile.rb` you can see there is a an atrtribute ```ruby attribute :contact_information, FormContactInformation```. That attribute is instantiating the class in this file called `FormContactInformation`. In that class you can see listed out what we get from there -
+```ruby
+class FormContactInformation
+  include Virtus.model
+
+  attribute :address, FormAddress
+  attribute :home_phone, String
+  attribute :us_phone, String
+  attribute :mobile_phone, String
+  attribute :email, String
+end
+```
+Since in our form profile mapping we are making use of the `address` we need to access it through the `contact_information` class.
 
