@@ -30,7 +30,7 @@ https://github.com/GSA/search-gov-agency-collaboration/blob/master/va/microsites
 __SharePoint files:__
 - [VA.gov and 379 VA subdomain URLs as of 8/3/20](https://dvagov-my.sharepoint.com/:x:/g/personal/jennifer_lee27_va_gov/ETMp1K5EFLRFpI8OPQd0SB8Biep4j0CrGIo81qLlIWrAVQ?e=o5G25U) (original spreadsheet without duplicates removed)
 
-- [530 subdomains site maps as of 8/3/20](https://dvagov-my.sharepoint.com/:u:/g/personal/jennifer_lee27_va_gov/Eb5IL09uBT9AgqR1rz1LVkIBhEVtlomXNEwYbjQjOm6V9g?e=QGfb4X)
+- [Site maps for VA.gov and all 530 subdomains as of 8/3/20](https://dvagov-my.sharepoint.com/:u:/g/personal/jennifer_lee27_va_gov/Eb5IL09uBT9AgqR1rz1LVkIBhEVtlomXNEwYbjQjOm6V9g?e=QGfb4X)
 <br>
 
 
