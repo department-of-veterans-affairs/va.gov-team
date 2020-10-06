@@ -29,6 +29,23 @@ __VA.gov and subdomains:__
 - In SharePoint: [Site maps for VA.gov and all 530 subdomains as of 8/3/20](https://dvagov-my.sharepoint.com/:u:/g/personal/jennifer_lee27_va_gov/Eb5IL09uBT9AgqR1rz1LVkIBhEVtlomXNEwYbjQjOm6V9g?e=QGfb4X)
 <br>
 
+__Example subdomains:__
+
+The counts below are estimated. 
+
+| Subdomain  | Estimated URLs |
+| :--- | ---: |
+| Facility sites  | 108.1K  |
+| oit.va.gov  | 85.5K  |
+| hsrd.research.va.gov  | 72.5K  |
+| veteranshealthlibrary.va.gov  | 22.3K  |
+| research.va.gov  | 22.3K  |
+| data.va.gov  | 13.2K  |
+| mirecc.va.gov  | 4K  |
+| ptsd.va.gov  | 2.8K  |
+| va.gov/oig  | 2.5K  |
+| hepatitis.va.gov  | 1.5K  |
+
 
 __Questions:__
 * How many URLs does VA currently have? 
