@@ -1,11 +1,12 @@
 # Release Plan Higher Level Review
 
-## HLR Remaining Work and Estimated Effort (as of 8/28/2020)
+## HLR Remaining Work and Estimated Effort (as of 10/6/2020)
 - Sprint 29: 8/26-9/8
 - Sprint 30: 9/9-9/22
 - Sprint 31: 9/23-8/6
 - Sprint 32: 10/7-10/20
 - Sprint 33: 10/21-11/3
+- Sprint 34: 11/4-11/17
 
 - Phase I Development:
   - [Development] HLR: Schema Changes #11094 - CLOSED
