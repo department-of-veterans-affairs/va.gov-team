@@ -46,7 +46,7 @@ URLs include redirects and PDFs (and other files).
 | va.gov/oig  | 2.5K  |
 | hepatitis.va.gov  | 1.5K  |
 
-<br></br>
+
 __Questions__
 * How many URLs does VA currently have? 
 * Where are they managed (TeamSite, WordPress)? 
