@@ -1,4 +1,4 @@
-# Research Plan for Comparison Tool Redesign
+# Research Plan for Comparison Tool Redesign for Stakeholders
 As a designer I need to create a research plan to share with my team.	
 1. What product & team are you doing this research for?	
  - Booz Allen research for Education Services / OIT
