@@ -4,7 +4,7 @@
 
 VA had 530 subdomains. We could map only 380 of them.*
 
-__VA.gov and 379 VA subdomains contained over 450.3K URLs, including 43.4K PDFs.__*
+__VA.gov and 379 VA subdomains contained over 450.3K URLs, including 57.7K PDFs.__*
 <br>
 This list of 450.3 URLs includes: 
 
