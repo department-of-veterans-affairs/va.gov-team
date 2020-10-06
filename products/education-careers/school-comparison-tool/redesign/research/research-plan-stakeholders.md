@@ -65,7 +65,7 @@ Questionnaires/Email/Indirect Feedback:
 2.	Prepare: When will the thing you are testing be ready? 
 - By COB on Oct 12th	
 3. Length of Sessions: How long do you estimate each session will be? 
- - 60 minutes
+ - 30-45 minutes
 4.	Availability: If applicable, when would you like sessions scheduled? 
  - Not applicable
 
