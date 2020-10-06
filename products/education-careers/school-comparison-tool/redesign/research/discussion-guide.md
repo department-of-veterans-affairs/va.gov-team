@@ -1,4 +1,4 @@
-# Conversation Guide Template for Moderated Research
+# Comparison Tool Redesign Discussion Guide for Stakeholders
 
 
 *When the participant is ready, begin the session with the following intro*
