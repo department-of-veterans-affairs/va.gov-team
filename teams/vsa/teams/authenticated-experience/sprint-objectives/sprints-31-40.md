@@ -110,6 +110,10 @@ Note: This is a DevOps tickets, and I am figuring out who can work on it. Howeve
 
 - [BE/DevOps] Change instances of "https://env.vet360.va.gov/" to "https://env.vaprofile.va.gov/" in INT, QA, PPD, PRD environments #14188
 
+### VA Profile: Issue with bogus addresses being saved
+
+- Critical: Investigate VA Profile issue to determine whether veteran account has been hacked [#175](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/175)
+
 ### Pact work
 
 - [BE] - Setup Pact test #14234
