@@ -18,7 +18,7 @@ Test Runs are containers\* for Test Cases.  Create your Test Cases first before 
 
 ### Create a Test Plan instead
 
-Instead of creating a Test Run by itself, it's usually better to create a Test Plan instead to house your Run.  There's often a need to re-run some tests during development of a product/feature, and a Test Plan can house multiple Test Runs for this very reason.  No harm if you only need to conduct a single Test Run, but say you do need a re-Run, you won't have to re-input Descriptions/References when you add a Run to your Plan, since these details were already saved at the Plan level.
+Instead of creating a Test Run by itself, it's usually better to create a Test Plan instead to house your Run.  There's often a need to re-run some tests during development of a product/feature, and a Test Plan can house multiple Test Runs for this very reason.  No harm if you only need to conduct a single Test Run, but say you do need a re-Run, you won't have to re-input Descriptions/References when you add a Run to your Plan, since these details were already saved at the Plan level.  [See [TestRail Test Plans](vsa-qa-testrail-plans.md) for details.]
 
 ### Close completed Test Runs
 
