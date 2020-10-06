@@ -22,14 +22,14 @@ NA
  
 
 ### 1. Scan with axe browser plugin  
-- 🙈 Results: "Heading levels should only increase by one"  
+- Results: "Heading levels should only increase by one"  
 ```HTML
 <h3 id="paymentsRecievedHeader" class="vads-u-font-size--xl">Payments you received</h3>
 ```
 The h3 used above the payments tables when payments are present need to be changed to an h2 so that the Heading levels on the page do not skip from h3 to h1 
 
 ### 2. Scan with axe-coconut   
-- 🙈 Results: "Heading levels should only increase by one, this can be H2 and made to look like H3.  Even thought its in the right order, it needs to be sequential."   
+- Results: "Heading levels should only increase by one, this can be H2 and made to look like H3.  Even thought its in the right order, it needs to be sequential."   
 ### 3. Lighthouse Scan (Chrome)  
 - Results: 100%
 ### 4. NVDA Scan (Firefox)  
