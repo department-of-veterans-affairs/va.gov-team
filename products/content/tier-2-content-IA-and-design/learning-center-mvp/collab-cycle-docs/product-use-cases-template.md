@@ -48,7 +48,8 @@ Link to product outline: [Resources and support (formerly called learning center
 ## Use Case C
 
 * **Description**
-  - lorem ipsum
+  - User clicks on one of the response options in the `How do you rate your experience on this page?` section. 
+  - User should receive a 'thank you-feedback' confirmation message. 
 
 * **Link to designs**
   - lorem ipsum
