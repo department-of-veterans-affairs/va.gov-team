@@ -18,7 +18,7 @@ Prefill uses a set of files on the back end to call services that have veteran d
 
 When you create your set of prefill files you will inherit from this model so you get these things for free. If you need more data than is listed here you still need to set up the same files but you will add more to the files to get that extra data. Let's look at the basic setup to get access to these items listed above as it will give you an idea of what files are always needed for prefill on the back end.
 
-** A basic prefill setup on the back end **
+**A basic prefill setup on the back end**
 If you only need to prefill the data listed above you will need
 
 - A prefill class - Every form needs a prefill class that inherits from the FormProfile model. This file is to tell the back end what data you will need. Your prefill class goes in `vets-website/app/models/form_profiles/` and is named based on your form's ID. If all you need is the data listed above then the most basic implimentation of a prefill class looks like this
