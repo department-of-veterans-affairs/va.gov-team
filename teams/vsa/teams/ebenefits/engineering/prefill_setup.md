@@ -5,7 +5,7 @@ When you need a form to be prefilled with data from one of our back end services
 In order to make Veteran's lives easier we have a feature that can prefill a form on VA.gov with data so that the Veteran does not have to fill that section of the form out manually. Prefill has a back end requirements as well as front end requirements to get it set up. Let's start with the back end -
 
 #### Back end for prefill
-Prefill uses a set of files on the back end to call services that have veteran data, such as VET360 or EVSS, and pass that data to the front end. Since we reuse prefill there is already a decent amount of data you can prefill with very minimal setup, these things are declared in `vets-website/app/models/form_profile.rb` and include -
+Prefill uses a set of files on the back end to call services that have veteran data, such as VET360 or EVSS, and pass that data to the front end. Since we reuse prefill there is already a decent amount of data you can prefill with very minimal setup, these things are declared in `vets-api/app/models/form_profile.rb` and include -
 
 - Full Name (first, middle, last)
 - Date of birth
@@ -22,7 +22,8 @@ When you create your set of prefill files you will inherit from this model so yo
 <p>If you only need to prefill the data listed above you will need</p>
 
 ##### A prefill class
-Every form needs a prefill class that inherits from the FormProfile model. This file is to tell the back end what data you will need. Your prefill class goes in `vets-website/app/models/form_profiles/` and is named based on your form's ID. If all you need is the data listed above then the most basic implimentation of a prefill class looks like this
+<hr>
+Every form needs a prefill class that inherits from the FormProfile model. This file is to tell the back end what data you will need. Your prefill class goes in `vets-api/app/models/form_profiles/` and is named based on your form's ID. If all you need is the data listed above then the most basic implimentation of a prefill class looks like this
 ```ruby
 # frozen_string_literal: true
 
@@ -46,5 +47,10 @@ This is the prefill class for the form with an ID of 28-8832. You can see it inh
 
 This basic prefill class will give you access to all of the basic data we listed above. If you need to load more data than this we will provide a more indepth version of this file later in this document.
 
-#####
+##### A Form profile mapping
+<hr>
+Every form needs a YAML file that maps the data that is being loaded by your prefill class to what the data is called in the schema on the front end. This file will go in `vets-api/config/form_profile_mappings/` and should be named for the ID of your form. Here is the basic format of this file -
+```yaml
+claimantAddress: [contact_information, address]
+```
 
