@@ -22,7 +22,7 @@ When you create your set of prefill files you will inherit from this model so yo
 <p>If you only need to prefill the data listed above you will need</p>
 
 ##### A prefill class
-</hr>
+
 Every form needs a prefill class that inherits from the FormProfile model. This file is to tell the back end what data you will need. Your prefill class goes in `vets-api/app/models/form_profiles/` and is named based on your form's ID. If all you need is the data listed above then the most basic implimentation of a prefill class looks like this
 ```ruby
 # frozen_string_literal: true
