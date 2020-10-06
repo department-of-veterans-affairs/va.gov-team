@@ -3,51 +3,98 @@ As a designer I need to create a research plan to share with my team.
 
 ## Goals	
 1. What product & team are you doing this research for?	
+ - Booz Allen research for Education Services / OIT
+ 
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
+
+Many changes and improvements have been made to the Comparison Tool over the past few years.  EDU would like to gain a better understanding of all the different users that utilize the Comparison Tool and their respective needs.  From this research, EDU hopes to fully redesign the Comparison Tool to better meet the needs of its users.
+
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
-4. Hypothesis: What is your hypothesis for this research? 	
+ - How did users learn about schools?
+ - How did users select a school?
+ - How did users hear about the Comparison Tool?
+ - What did the education journey look like for individuals who didn't use the Comparison Tool?
+ - How and where do users go to get help for questions on education benefits?
+ - How do individuals use the Comparison Tool?
+    - What does the tool do best?
+    - What are the biggest challenges with the tool?
+    - What do users want to know about the Yellow Ribbon program on the CT?
+ - What are the unique needs of non-Veteran users?
+ - What would be the "dream" CT look like from a user's perspective?
+ 
+4. Hypothesis: What is your hypothesis for this research? 
+
+Researchers believe that the design of the Comparison Tool can be optimized by identifying the users of the tool and redesigning the tool to meet their associated needs.
+
 ## Method	
 1.	What method of research are you planning? 	
-  - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 	
-  - **Also mention:** in-person moderated, remote moderated, remote unmoderated	
+  - Remote, moderated directed interviews 	
   	
 2.	Why this method? How does this methodology help you answer your research questions? 	
-3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*	
-4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
-5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
+  - Researchers need to obtain a full understanding of how the Comparison Tool is used by a variety of users and what their unique needs are. Researchers need to be able to ask follow-up questions and dig deeper into users' answers to gain insights into their needs. 
+  
+3.	Where are you planning to do your research? 
+  - Online
+4.	What will you be testing? 
+  - Researchers will be determining the functionality, features and content that should be housed on the Comparison Tool.
+  
+5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)
+  - Zoom
+  
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	  
-(Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
 
-Please list your participant criteria in two categories-
-1. **Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.) 
+- 11-13 participants
+  - 5 Veterans 
+     - 3 using Post 9/11 GI Bill benefits
+     - 2 using non-Post 9/11 GI Bill benefits
+  - 3-4 non-Veteran beneficiaries
+  - 3-4 School Certifying Officials (SCOs_
+     
+Age Range: 24-54
 
-2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
+Gender: Mix
 
-*Pro tips for writing recruiting critera:* 
-- If you have specific screener questions that YOU would ask a potential participant to determine eligibility for your study, list them here. For example, instead of saying "We want someone who has been to an urgent care facility recently", say "Have you been to an urgent care facility in the last 6 months? (Answer should be yes)"
-- Do not assume that your recruiters or the participants know your products or requirements as well as you do. Provide links to products, clear descriptions, specifics, etc. 
+Geography: Geographically dispersed across US
+
+Technology: Access to a computer, preferably running Google Chrome browser
+
+Familiarity with technology: Any
+
+Login requirements: None
 
 2.	What is your recruitment strategy? 	
-(If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract - Perigean - or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact Research Contract Lead.)	
+ - Recruiting for Veterans will be performed by Perigean Technologies
+ - Recruiting for non-Veteran beneficiaries and SCOs will be performed by the Booz Allen team through existing connections.
 
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
-(IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 	
-2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
-3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
+  - Oct 15 - 27th 	
+2.	Prepare: When will the thing you are testing be ready? 
+  - By COB Oct 9th
+3. Length of Sessions: How long do you estimate each session will be? 
+  - 45 minutes
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
+
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
+
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
+Please list the people who will be serving in each role.  	
+
+Moderator: Amy Knox; 301.254.0907; knox_amy@bah.com
+
+Research guide writing and task development (usually but not always same as moderator): Booz Allen UX team
+
+Participant recruiting & screening: Perigean Technologies and Booz Allen team
+
+Project point of contact: Amy Knox
+
+Participant(s) for pilot test: 
+
+Note-takers: Cindy Cruz cruz_cindy@bah.com; Jen Jones jones_jennifer2@bah.com; Emma Waters waters_emma@bah.com;
+
+Observers: Brian Grubb brian.grubb@va.gov; Desiree Turner turner_desiree@bah.com; Joe Preisser joseph.preisser@va.gov; Joe Welton joseph.welton@va.gov; Will McCormack mccormack_will@bah.com; Lauren Anderson lauren.alexanderson@va.gov; Lacey Higley lacey.higley@va.gov; Matt Self matthew.self2@va.gov; Dan Shawkey shawkey_daniel@bah.com; Darla VanNieukerk darla.vannieukerk@va.gov; Tammy Hurley tammy.hurley1@va.gov; Darrell Neel neel_darrell@bah.com;
+
 ## Resources	
 - Project Brief: 	
 *Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
