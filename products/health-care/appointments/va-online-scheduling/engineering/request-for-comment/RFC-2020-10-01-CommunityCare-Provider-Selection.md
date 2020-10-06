@@ -22,6 +22,8 @@ care available at the facility. This N+1 querying is slow and error prone. It's 
 
 4. The type of care taxonomy used by PPMS is different than that which is used by VHA and VAMC facilities. Currently PPMS allows 4 specialty codes to be sent in a single query. Given the different taxonomy used by PPMS, to identify all the providers for a particular service/specialty, you'll need to query more than 4 specialty codes.
 
+5. Data returned by PPMS currently includes duplicates. While it's relatively trivial to remove duplicates, this is something that could be fixed properly in building our own database so that it doesn't need to be done client side.
+
 ## Motivation
 We want to have a more performant way of satisfying all three ways that this data might be injested, some supporting use cases specific to Facilities Locator
 and others that might be more specific to VAOS. The VSA Facilities Team, Lighthouse, VAMF, and VAOS have all struggled with some variation of this problem
