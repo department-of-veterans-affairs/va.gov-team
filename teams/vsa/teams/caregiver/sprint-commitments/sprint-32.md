@@ -16,6 +16,11 @@
 - Stretch: Look into new Sentry 
 - Stretch: - Unique SSN/validation (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13427)
 
+**Additional Scope**
+- Get IP address of applicant who said they didn't apply
+- Create AWS Log query to count submissions successful, blocked, and failed for a given day
+- Create excel report on submission results since launch day
+
 ## Design
 - Talk through designs for Statement of Truth radios
 - Talk through the designs for address on 10-10EZ
