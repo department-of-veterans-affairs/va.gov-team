@@ -11,7 +11,7 @@ BAM2 | eFolders migration | NOT STARTED | Kick-off held 8/13 <br> https://github
 Orchid | IRIS Migration | NOT STARTED | Design intent held 8/18 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/orchid-iris.md
 Public Websites | Apply Wizards | DRAFT COMPLETE | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-apply-wizard.md
 Health care Exp | Questionnaires | NOT STARTED | Usability testing prep held 8/6 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/healthcare-questionaires.md
-Public Websites | Learning Center | NOT STARTED | No kick-off, Design intent collab held 7/10 (was not able to attend) 
+Public Websites | Learning Center | IN PROGRESS | No kick-off, Design intent collab held 7/10 (was not able to attend) <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-learning-center.md
 eBenefits | VRE/Chapt 31 | DRAFT COMPLETE | Kick-off 5/8 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-chapt31.md
 eBenefits | Representatives/POA | NOT STARTED | Kick-off held 3/24 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-representative.md
 BAM 2 | Debt Letters | DRAFT COMPLETE | IA for initial phase complete, will need review for second phase <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-debt-letters.md
