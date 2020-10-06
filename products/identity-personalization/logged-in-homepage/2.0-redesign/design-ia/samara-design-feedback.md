@@ -4,9 +4,7 @@
 
 ### Section: Health care
 
-First, things look GREAT so far. I'm so excited to see this work, and I think it's off to a great start. You both should be so proud!!
-
-Overall, I LOVE how streamlined everything looks. It is a way more efficient presentation than what we have on My VA.
+First, things look GREAT so far. I'm so excited to see this work, and I think it's off to a great start. Overall, I LOVE how streamlined everything looks. It is a way more efficient presentation than what we have on My VA. You both should be so proud!!
 
 **Overview area**
 
