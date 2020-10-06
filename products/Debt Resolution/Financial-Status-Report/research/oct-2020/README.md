@@ -9,5 +9,5 @@
   - [Session 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/research/oct-2020/10032020-sme-workshop.pdf)
   - [Session 4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/research/oct-2020/10052020-sme-workshop.pdf)
   - [Session 5]()
-- Workshop Board Export:
+- [Workshop Board](https://app.mural.co/t/vsa8243/m/vsa8243/1601045280397/5d3484bea26739d32e6b9ce23d425718b4a22498):
 ![Workshop board export](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/assets/fsr-sme-breakdown.png)
