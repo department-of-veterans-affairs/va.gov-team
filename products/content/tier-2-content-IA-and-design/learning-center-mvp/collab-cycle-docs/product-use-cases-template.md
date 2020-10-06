@@ -34,13 +34,16 @@ Link to product outline: [Resources and support (formerly called learning center
 ## Use Case B
 
 * **Description**
-  - lorem ipsum
+  - User enters a search query on the LC search bar using the default "Resources and support" selection. 
+  - User is taken to the LC search results page, and there, receives `null` results. 
+  - The user should receive a message telling them we couldn't find resources and support articles matching their query, and that they should try expanding their search query or searching all of VA.gov. 
 
 * **Link to designs**
   - lorem ipsum
 
-* **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - lorem ipsum
+* **Instructions to access in demo environment (for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
+  - http://learningcenter.demo.ci.cms.va.gov/
+
 
 ## Use Case C
 
