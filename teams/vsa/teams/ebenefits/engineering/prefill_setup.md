@@ -23,7 +23,7 @@ When you create your set of prefill files you will inherit from this model so yo
 
 ##### A prefill class
 
->Every form needs a prefill class that inherits from the FormProfile model. This file is to tell the back end what data you will need. Your prefill class goes in >`vets-api/app/models/form_profiles/` and is named based on your form's ID. If all you need is the data listed above then the most basic implimentation of a >prefill class looks like this
+>Every form needs a prefill class that inherits from the FormProfile model. This file is to tell the back end what data you will need. Your prefill class goes in `vets-api/app/models/form_profiles/` and is named based on your form's ID. If all you need is the data listed above then the most basic implimentation of a prefill class looks like this
 ```ruby
 # frozen_string_literal: true
 
@@ -37,7 +37,7 @@ class FormProfiles::VA288832 < FormProfile
   end
 end
 ```
->This is the prefill class for the form with an ID of 28-8832. You can see it inherits from the FormProfile model so it automatically gets access to all of the >basic data we listed above. You can also see a few other things that need to be included inside a `metadata` object, those are -
+>This is the prefill class for the form with an ID of 28-8832. You can see it inherits from the FormProfile model so it automatically gets access to all of the basic data we listed above. You can also see a few other things that need to be included inside a `metadata` object, those are -
 
 | item | value | notes |
 |------|--------|-------|
@@ -49,11 +49,11 @@ end
 
 ##### A Form profile mapping
 
->Every form needs a YAML file that maps the data that is being loaded by your prefill class to what the data is called in the schema on the front end. This file >will go in `vets-api/config/form_profile_mappings/` and should be named for the ID of your form. Here is the basic format of this file -
+>Every form needs a YAML file that maps the data that is being loaded by your prefill class to what the data is called in the schema on the front end. This file will go in `vets-api/config/form_profile_mappings/` and should be named for the ID of your form. Here is the basic format of this file -
 ```yaml
 claimantAddress: [contact_information, address]
 ```
->This very basic form profile mapping will map the `address` that is taken from the `contact_information` inside the FormProfile model and map it to the `claimantAddress` on the front end. You may wonder what the `contact_information` is and why we need it. If you take a look at `vets-api/app/models/form_profile.rb` you can see there is a an atrtribute ` attribute :contact_information, FormContactInformation`. That attribute is instantiating >the class in this file called `FormContactInformation`. In that class you can see listed out what we get from there -
+>This very basic form profile mapping will map the `address` that is taken from the `contact_information` inside the FormProfile model and map it to the `claimantAddress` on the front end. You may wonder what the `contact_information` is and why we need it. If you take a look at `vets-api/app/models/form_profile.rb` you can see there is a an atrtribute ` attribute :contact_information, FormContactInformation`. That attribute is instantiating the class in this file called `FormContactInformation`. In that class you can see listed out what we get from there -
 ```ruby
 class FormContactInformation
   include Virtus.model
@@ -65,7 +65,7 @@ class FormContactInformation
   attribute :email, String
 end
 ```
->Since in our form profile mapping we are making use of the `address` we need to access it through the `contact_information` class. For any contact information it >is reccomended that you use this `contact_information` class as it already loads this data for you. Let's say you wanted to also prefill the user's email and map >it to a field on the front end called `claimantEmail` you would add this line to your form profile mapping -
+>Since in our form profile mapping we are making use of the `address` we need to access it through the `contact_information` class. For any contact information it is reccomended that you use this `contact_information` class as it already loads this data for you. Let's say you wanted to also prefill the user's email and map it to a field on the front end called `claimantEmail` you would add this line to your form profile mapping -
 ```yaml
 ...
 claimantEmail: [contact_information, email]
