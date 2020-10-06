@@ -20,16 +20,29 @@
 ## <a name="flows"></a>User/Page Flows <br>
 - Currently the wizard lives on key static content pages (i.e. How to apply). However, not all content pages that provide links to the forms include the wizard, and users can easily bypass the wizard by direct linking to specific applications. This increases the possibility of users completing and submitting the wrong form 
 - Moving the wizard to the initial page of the React form, ensures the user's scenario is always validated regardless of how they navigated to the application
-- Features/options of the wizard
-  - the H2 of the wizard can be customized to fit the scenario of its use (i.e. "Is this the form I need" versus "Find the right form")
-  - Wizard intro content needs to be "dynamic" and specific to the application they are on - i.e. if they are on the 1990N form, the intro content and links should reference the 1990N, if they are on the 5495, the intro content and links should reference the 5495. 
-  - the wizard will notify the user of which form is the correct form and provide a CTA to get to it
-  - the user can choose to start over and answer the wizard questions again
-  - Optional feature: the user can skip the wizard or ignore's its recommendation if they want to continue forward on the current application
+
 
 
 ![image](https://user-images.githubusercontent.com/20994159/95109312-0dee9280-0702-11eb-888b-d63cd1fe0779.png)
 
+Wizard functionality
+1. Skip/ignore wizard - This is an optional feature of the wizard pattern.  On the /introduction page while the wizard is displayed, an option may be provided that allows the user to skip the wizard or ignore's its recommendation if they want to continue forward on the current application.
+2. Shared wizards - The same wizard may be shared across multiple related applications - i.e. the wizard on each of the education applications will be the same wizard, however the wizards on the chapter 31 and 36 wizards are different.  
+  - If a wizard routes a user to a different application that shares the same wizard, the user will not need to complete the wizard again. 
+  - If a wizard routes a user to a different application with a different wizard, the user will need to complete that application's wizard. 
+- the user can choose to start over and answer the wizard questions again
+3. Start over - Once the user has either completed or skipped/ignored the wizard, the /introduction page of the application is refreshed with content about that application along with an option for the user to "start over".  When the user clicks this option, it should function like the browser 'Back' button - they should be returned to the original /introduction page with the wizard completely reset (i.e. their previous answers are cleared). This option only appears on the /introduction page.
+  - If the user did the wizard on application A, continued to application A, clicking "start over" would return them to the default state of application A
+  - If the user did the wizard on application A, was routed to application B, clicking "start over" would return them to the default state of application A
+4. Abandon application - If a user abandons their application by either navigating away from an unsaved form, choosing to start a new application, or their saved application has expired,  their wizard status should be reset.  When starting the application again, they would need to complete the wizard again. 
+5. Saved applications - If a user resumes a saved application, they would not need to complete the wizard again.  The saved in progress application will return them to the appropriate place within the application form flow. 
+
+
+
+Design features/options of the wizard
+- the H2 of the wizard can be customized to fit the scenario of its use (i.e. "Is this the form I need" versus "Find the right form")
+- Wizard intro content needs to be "dynamic" and specific to the application they are on - i.e. if they are on the 1990N form, the intro content and links should reference the 1990N, if they are on the 5495, the intro content and links should reference the 5495. 
+- the wizard will notify the user of which form is the correct form and provide a CTA to get to it
 
 ## <a name="ia"></a>IA Structure, URLs and Breadcrumbs <br>
 - The wizard will be placed on the /introduction page of each applicable application
