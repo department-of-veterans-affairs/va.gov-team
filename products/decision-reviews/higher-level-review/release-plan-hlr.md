@@ -18,9 +18,10 @@
   - [Development] HLR: Is HLR Working? - Sprint 31 - CLOSED
   - [Development] HLR: Get Staging (Sandbox?) API key #14003 - CLOSED
   - [Development] HLR: Investigate HLR Prefill Issues #13952 - Sprint 31 - CLOSED
-  
   - [Content] HLR: Content review of contestable issue endpoint responses #10713 - Sprint 32
   - [Development] HLR: Final Wizard Work for Higher Level Review #14460 - Sprint 32 (Not a release blocker)
+  
+  Notes: There is a new wizard (determines if someone is eligible for HLR) but we are not considering this a release blocker at this time.  Largest blocker to HLR is our ongoing testing and release of Benefits Delivery at Discharge.
   
 - Phase I Launch Readiness:
   - [Testing] HLR: User Acceptance Testing for Higher Level Review #7802 - Sprint 32/33
