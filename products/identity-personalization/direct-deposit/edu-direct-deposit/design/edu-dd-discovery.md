@@ -99,14 +99,14 @@ Note: Users need a Premium DS Logon (LOA3) account to access this feature.
 
 #### Direct deposit category
 
-| | Comp & Pen | Education |
-| ---: | :---: | :---: |
-| Disability | X |  |
-| Pension | X |  |
-| Chapter 35 |  | ? |
-| CH33/GI Bill |  | X |
-| CH31/VR&E |  | X |
-| SMP | ? |  |
-| DIC | ? |  |
+| | Comp & Pen | Education | In Payment History |
+| ---: | :---: | :---: | :---: |
+| Disability | X |  | X |
+| Pension | X |  | X |
+| Chapter 35 |  | ? | X |
+| CH33/GI Bill |  | X | X |
+| CH31/VR&E |  | X | ? |
+| SMP | ? |  |  |
+| DIC | ? |  | X |
 
 ---
