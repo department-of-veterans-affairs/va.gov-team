@@ -10,10 +10,11 @@ As a designer I need to create a research plan to share with my team.
 Many changes and improvements have been made to the Comparison Tool over the past few years.  EDU would like to gain a better understanding of all the different users that utilize the Comparison Tool and their respective needs.  From this research, EDU hopes to fully redesign the Comparison Tool to better meet the needs of its users.
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
- - How did users learn about schools?
- - How did users select a school?
+ - If applicable, how did users learn about schools?
+ - If applicable, how did users select a school?
  - How did users hear about the Comparison Tool?
- - What did the education journey look like for individuals who didn't use the Comparison Tool?
+ - If applicable, what did the education journey look like for individuals who used the Comparison Tool? 
+ - If applicable, what did the education journey look like for individuals who didn't use the Comparison Tool? 
  - How and where do users go to get help for questions on education benefits?
  - How do individuals use the Comparison Tool?
     - What does the tool do best?
