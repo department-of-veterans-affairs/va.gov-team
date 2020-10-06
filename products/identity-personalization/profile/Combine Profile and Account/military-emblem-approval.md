@@ -1,6 +1,6 @@
 # Military Emblem Approval
 
-### As of 10.6.20, we have official approval from DoD to use the military emblems and logos in the profile on VA.gov
+### As of 10.6.20, the autheticated experience team has received official approval from DoD to use the military emblems and logos in the "name tag" (in the profile and future homepage) on VA.gov.
 
 ### Background
 
