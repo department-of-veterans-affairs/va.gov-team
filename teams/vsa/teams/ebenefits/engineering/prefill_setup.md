@@ -53,7 +53,7 @@ end
 ```yaml
 claimantAddress: [contact_information, address]
 ```
->This very basic form profile mapping will map the `address` that is taken from the `contact_information` inside the FormProfile model and map it to the >`claimantAddress` on the front end. You may wonder what the `contact_information` is and why we need it. If you take a look at `vets->api/app/models/form_profile.rb` you can see there is a an atrtribute ` attribute :contact_information, FormContactInformation`. That attribute is instantiating >the class in this file called `FormContactInformation`. In that class you can see listed out what we get from there -
+>This very basic form profile mapping will map the `address` that is taken from the `contact_information` inside the FormProfile model and map it to the >`claimantAddress` on the front end. You may wonder what the `contact_information` is and why we need it. If you take a look at `vets-api/app/models/form_profile.rb` you can see there is a an atrtribute ` attribute :contact_information, FormContactInformation`. That attribute is instantiating >the class in this file called `FormContactInformation`. In that class you can see listed out what we get from there -
 ```ruby
 class FormContactInformation
   include Virtus.model
