@@ -39,8 +39,7 @@ The h3 used above the payments tables when payments are present need to be chang
 
 <details>
  <summary>Screenshot</summary>
-
-
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/images/VP-Lighthouse-Report-Viewer.jpg)
 </details>
 
 ### 4. NVDA Scan (Firefox)  
