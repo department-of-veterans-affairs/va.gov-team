@@ -1,5 +1,5 @@
 # IA Design and Recommendations
-**STATUS:**
+**STATUS: DRAFT COMPLETE**
 
 **Team:** Public Websites for discovery/design + BAM1/BAM2/eBen for technical implemention and launch
 
@@ -49,28 +49,23 @@ Design features/options of the wizard
 ## <a name="nav"></a>Navigation and Entry Points <br>
 
 - Entry points throughout the site will be modified as part of this work, and will vary for each implementation of this wizard.
+  - Entry points will be specific to each wizard implementation - education, disability, vre, pcpg, hlr - and will be defined individually at the time the wizard is moved for that benefit area
 - General guidelines for application/apply CTAs:
-  - When context and user intent are clear, take user directly to the online form.  
-    - In this scenario, a primary button should be used to link to the online application.  In addition, provide a link under the button that goes to the "How to apply" page (or other primary content page for the benefit) for the user to learn more about how to apply/other ways to apply.
-  - When ux/design does not allow for a button (i.e. left nav), utilize a text link with clear, action oriented label (i.e "Apply online now").
-  - When the current context or user intent is not clear, default to taking user to the "How to apply" page or other primary content page for that form.  
+  - When context and user intent are clear, take the user directly to the online form whenever possible
+    - In this scenario, a primary button with an action oriented label (i.e. "Apply online now") should be used to link to the online application.  
+    - In addition, provide a link under the button that goes to the "How to apply" page (or other primary content page for the benefit) for the user to learn more about how to apply/other ways to apply (i.e pdf download, phone number, etc).
+    - When ux/design does not allow for a button (i.e. left nav), utilize a text link with clear, action oriented label (i.e "Apply online now").
+  - When the current context or user intent is not clear, default to taking the user to the "How to apply" page or other primary content page for that form.  
 
 ![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/75ab5b23-37af-4fb8-ab38-64900e99c14c)
 
 
-- ***Need to define specific entry point changes for each application: education, disability, vre, pcpg, hlr.  Need to also define if this new CTA standard impacts other applications that do not use a wizard (i.e. type of CTA and labeling)***
-
-Priority | Placement | Description
---- | --- | ---
-   |   |   |
-
-***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
 
 ## <a name="redirects"></a>Redirects <br>
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
-- No redirects are needed as part of this work
+- Not applicable
 
 Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
 *For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
