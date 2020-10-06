@@ -47,22 +47,31 @@ Before we look at the website, let’s start with a few warm-up questions.
   - Have you ever accessed the CT on mobile?  If yes, what were you looking at?
 
 
-### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Second Task: [TASK NAME] - X minutes
+## No to #3 - General Questions - X minutes
 
 - Step 1
 - Step 2
 
-### Things to watch for:
+### Specific questions for "Other VA":
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- How can we determine the usage of individual GI Bills, such as Post-9/11?
+- How many Veterans eligible for the GI Bill are not using their benefits?
+- How can we measure if usage of GI Bill benefits is increasing or decreasing?
+
+### Specific questions for "Help Desk":
+
+- What are the most common questions VA receives about education benefits? From Veterans? From SCOs?
+- How many questions are related to the Comparison Tool?
+
+### Specific questions for "TAPS":
+
+- Is there a standard TAPS syllabus? How is CT addressed via TAP?
+    - If standard curriculum, how often is it updated?
+- How could CT better serve separating service members?
+- Do separating service members have questions on CT during TAP?
+- Is there a plan for a TAP app?
+- Solid Start: who runs this? Does it include CT references? Could it?
 
 ## Third Task: [TASK NAME] - X minutes
 
