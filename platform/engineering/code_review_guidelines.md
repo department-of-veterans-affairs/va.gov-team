@@ -10,7 +10,7 @@ We expect developers to be familiar with GitHub and the pull request review proc
 
 ## Code owners
 
-Information on how VSP uses code owners can be found [here](code-owners.md).
+Information on how VSP uses code owners can be found [here](codeowners.md).
 
 ## The pull request review lifecycle in brief
 
@@ -54,7 +54,7 @@ When your code is reviewed, here are some of the things we're looking for:
 
 Q. I created a pull request and I meant to create a draft pull request instead. How do I change it to a draft pull request in GitHub?
 
-A.  Unfortunately, you can't change it. But as an alternative, please add "WIP" to the beginning of the title of your PR and we'll know what it means.
+A.  Underneath the list of reviewers, there's text that says "Still in progress? Convert to draft" and the `Convert to draft` text is a link to change the PR to a draft.
 
 Q. I need a review *right now*! How do I get one?
 
