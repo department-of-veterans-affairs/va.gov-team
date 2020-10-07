@@ -62,7 +62,7 @@
   - VAOS Suite Analyst/Scrum Master: Judy Mercado 
   - VA.gov Health Product Owner: Lauren Alexanderson 
   - Lead Designer: Ryan Thurlwell 
-  - Eng Lead: Stephen Brush 
+  - Eng Lead: Steven Brush 
   - Frontend Engineers:
     - Jeff Balboni 
     - Narin Ratana 
