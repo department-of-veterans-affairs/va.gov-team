@@ -198,7 +198,8 @@ The legacy tool has no performance monitoring, and developer speed is low due to
 # Implementation Info
 
 ## Status
-- [Phased rollout](product/phased-rollout-plan.md) in progress -- Currently live 100% on VA.gov with new VAOS-R
+- [MVP Phased release](product/phased-rollout-plan.md) -- Currently live 100% on VA.gov with new VAOS-R -- COMPLETE
+- [Express Care release]() -- Active at 1 VAMC -- COMPLETE
 
 ## How to Access and Test
 - Link: https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/
@@ -215,7 +216,6 @@ The legacy tool has no performance monitoring, and developer speed is low due to
 
 
 ## Resources and Documentation
-
 - Discovery and Research
 - Technical Documentation
 - Product specs
