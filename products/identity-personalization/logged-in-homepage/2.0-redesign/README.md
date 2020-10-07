@@ -36,6 +36,7 @@ Last updated October 7, 2020
 # Implementation Information
 - [Status](#status)
 - [Discovery](#discovery-1)
+- [Product](#product)
 - [Development](#development)
 - [Design](#design)
 
@@ -177,8 +178,6 @@ https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIK
 - **August 2020**: Design onboarding; technical discovery.
 - **September 2020**: Initial design explorations; design intent platform checkpoint; design for health care section begins in earnest; continued discussion around technical approach.
 - **October 2020**: Project pivots from logged-in homepage redesign to My VA dashboard 2.0; 
-
-### Key Decisions
 
 ## Discovery
 
