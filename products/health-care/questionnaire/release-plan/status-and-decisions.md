@@ -9,7 +9,32 @@
 
 <details> <summary> September 2020</summary>
 
+## Oct 2nd, 2020
 
+**Product**
+ - [TOT Sept 29th](https://drive.google.com/file/d/11Y_S_CWeSJpxIYZP-1d4ArZylWbwk_eb/view?usp=sharing)
+ - [PGD FHIR mapping for GetCare](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13833) integration with Virtual Care Manager
+ 
+**Research and Design**
+- [Questionnaire Worklist preliminary mockups](https://zpl.io/VOOek8j) reviewed with the team.
+- Started [Proof of Concept prototype in Mobile](https://preview.uxpin.com/a15205c1bedcdfc8fe46fed26c22fa731cab8ae0cvhidm)  
+- Started  [Proof of Concept prototype in Desktop](https://preview.uxpin.com/e9e0dc597bb076e74db05f77d35306496a89fca2cvhidm)
+- Created Usability Testing [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/mvp-usability/research-plan.md)  and  [conversation script](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/mvp-usability/conversation-guide.md)
+
+**Engineering**
+- Finalized FE code for Intro UI, Review steps and pushed to staging
+- KT with new BE engineer as the team transitioned second BE engineer off the team.  
+
+**Next Step/Followup**
+- Continue to validate the PGD data and start on data for appt. details in MAP.
+- Meetings scheduled to investigation into how eScreening tool is passing PGD into CPRS
+	
+**Decisions:**
+- None
+
+**Blockers:**
+- No changes in status from previous week for blocker [Stakeholder Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
+- FHIR Mapping has been submitted for review. [Jira Ticket](https://issues.mobilehealth.va.gov/browse/PGDG-75) Once this ticket has been resolved we should have access to view and post to PGD / get answers from the team for current authorize errors currently happening.
 
 
 ## Sept 25th, 2020
