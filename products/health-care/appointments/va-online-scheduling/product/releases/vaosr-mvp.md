@@ -1,5 +1,9 @@
 # VA online scheduling (VAOSR) MVP
 
+### [Phased rollout strategy for MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/VAOS%20MVP%20Launch%20Strategy/phased-rollout-plan.md)
+
+-------
+
 ### MVP Implementation
 The goal of the MVP is to improve usability of VAOS by rewritting the tool on VA.gov using existing design patterns already implemented there. We will not be introducing any new features compared to the existing tool, but will instead focus solely on veteran-centered usability.
 
