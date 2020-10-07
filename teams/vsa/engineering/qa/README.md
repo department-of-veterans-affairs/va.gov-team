@@ -6,7 +6,7 @@ NOTE: This documentation here is VSA-QA's adaptation of VSP's Quality Assurance 
 
 Content here will grow over time.  Below are links to our currently-available docs/tools/info:
 
-[Process](vsa-qa-process.md) (Manual, functional UI testing)
+[Process](vsa-qa-process.md) (Manual UI testing)
 
 [Tasks & Capacity](vsa-qa-tasks-capacity.md)
 
