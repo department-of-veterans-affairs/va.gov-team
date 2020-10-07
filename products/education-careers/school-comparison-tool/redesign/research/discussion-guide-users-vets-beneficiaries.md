@@ -19,7 +19,7 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Warm-up Questions - X minutes
+## Warm-up Questions - 5 minutes
 
 Let’s start with a few warm-up questions.
  
