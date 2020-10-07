@@ -7,7 +7,7 @@ assignees: joanneesteban
 
 ---
 
-# Request the ForeSee Survey
+# Request the Medallia Survey
 
 ## What this form is for
 Use this template to request adding the Medallia Survey to your product.
