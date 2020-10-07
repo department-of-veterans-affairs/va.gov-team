@@ -186,11 +186,11 @@ A school may ask us for a list of Veterans who rated their school, but we do not
 **{ Training provider }**  
 { Location }  
 
+**Preferred provider:** { Indicates Yes or No } { If Yes, display award icon }   
+
 **You may be eligible for up to:**  
 **Tuition:** { Tuition amount }  
 **Housing:** { Housing amount } { / month }  
-
-**Preferred provider:** { Indicates Yes or No } { If Yes, display award icon }   
 
 **Program length:** { N hours. If not availabie, display TBD }    
 
