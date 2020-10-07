@@ -5,7 +5,7 @@
  -  LC go-to-market strategy: how will users find the Learning Center?
 </details>
 
-## Tuesday September 29
+## Tuesday October 7
 
 ### Agenda
 
