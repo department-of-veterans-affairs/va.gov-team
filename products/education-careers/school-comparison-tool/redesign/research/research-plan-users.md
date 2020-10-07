@@ -53,8 +53,8 @@ Researchers believe that the design of the Comparison Tool can be optimized by i
 
 - 11-16 participants
   - 5-8 Veterans 
-     - 3 using Post 9/11 GI Bill benefits
-     - 2 using non-Post 9/11 GI Bill benefits
+     - 3 Veterans who are personally using Post 9/11 GI Bill benefits
+     - 2 Veterans who are personally using non-Post 9/11 GI Bill benefits
   - 3-4 non-Veteran beneficiaries
   - 3-4 School Certifying Officials (SCOs_
      
