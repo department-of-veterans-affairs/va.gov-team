@@ -13,7 +13,7 @@
 - Statement of truth checkboxes (backend) (schema)
 - Monitoring and looking into form errors
 - Daily report of yesterday's: number of submissions, number sent to CARMA, number of "failures" and why if available
-- Stretch: Look into new Sentry 
+- [x] Stretch: Familiarize with Sentry 10
 - Stretch: - Unique SSN/validation (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13427)
 
 **Additional Scope**
