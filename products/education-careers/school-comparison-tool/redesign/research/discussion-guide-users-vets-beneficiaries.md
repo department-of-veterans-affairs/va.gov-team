@@ -1,4 +1,4 @@
-# Conversation Guide for Comparison Tool Redesign (Veterans and Beneficiaries)
+# Discussion Guide for Comparison Tool Redesign (Veterans and Beneficiaries)
 ## Moderator logistics
 
 *When the participant is ready, begin the session with the following intro*
