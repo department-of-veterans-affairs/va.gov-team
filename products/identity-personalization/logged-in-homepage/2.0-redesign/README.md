@@ -1,6 +1,6 @@
 # Product Outline: My VA Dashboard 2.0
 
-Last updated September 28, 2020
+Last updated October 7, 2020
 
 ## Communications
 
@@ -43,11 +43,13 @@ Last updated September 28, 2020
 
 At a high level, this project aims to do the following things:
 
-1. Redesign the logged-in homepage so that it provides a personalized experience. Currently, the homepage does not change when users are logged out or logged in.
-2. Elevate status updates and notifications for logged in users.
-3. Retire the existing My VA dashboard in favor of a redesigned logged-in homepage.
+1. **Reduce redundancy** — Specifically, we should reduce redundancy between the My VA dashboard and the VA.gov homepage. This will happen in phases. As we redesign and re-launch the My VA dashboard, this frees up the homepage to be less task-management focused. As the homepage evolves away from a task management focus, it will be less redundant with My VA so both the homepage and My VA will have their own clear, unique purposes. However, in order for the homepage to evolve, we have to redesign My VA first.
+2. **Elevate personally relevant information** — Users should more easily be able to scan/evaluate their information.
+3. **Scale gracefully** — Our designs should allow for future updates and expansion, as new features are being added to VA.gov all the time.
+4. **Prioritize wayfinding** — We should make it easy for users to find the My VA dashboard.
+5. **Effectively use visual space** — We should avoid a single-column, "content page" approach. Design updates should more effectively employ the design system and update it as needed.
 
-This is part of the [Personalization 2.0 strategy from 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md). Personalization 2.0 includes the effort to combine the profile and account pages (profile 2.0) and this effort to redesign the logged-in homepage.
+This came out of the [Personalization 2.0 strategy from 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md). Personalization 2.0 includes the effort to combine the profile and account pages (profile 2.0) and this effort to redesign My VA.
 
 ## Problems
 
@@ -72,22 +74,20 @@ Additionally:
 
 ### Business Goals
 
-- To lay a foundation for a personalized logged-in homepage for veterans that shows content/links that are relevant to their experience at the VA.
-- To lay a foundation for a logged-in homepage for veterans that can accomodate growth and modification over time without quickly becoming unwieldy or cluttered.
-- To lay a foundation for logged-in homepage that could eventually be adapted to serve other user types once we're able to support more roles and permissions.
+- To lay a foundation for a user dashboard for veterans that can accomodate growth and modification over time without quickly becoming unwieldy or cluttered.
+- To lay a foundation for user dashboard that could eventually be adapted to serve other user types once we're able to support more roles and permissions.
 - Have a place to link to/highlight new tools so that we don't have to bury tools in content hubs where veterans can't easily find them.
 - Have a place to highlight health care tools to show the potential/viability of consolidating MHV into VA.gov.
 - To lay the foundation for how to better highlight status update/action item notifications for veterans.
 - To move the VA (outside of DEPO)further in the direction of building/highlighting tools in one place instead of building one-off, silo'd tools.
-- To retire My VA.
+- To create a strong enough user dashboard that the exsiting homepage no longer has to serve as a task router.
 
 ## Assumptions
 
-- People prefer the logged-in homepage to My VA. It's both more usable and more visually appealing.
+- People prefer the homepage to My VA. It's both more usable and more visually appealing.
 - People are reliant on the top 20 tasks on the homepage to navigate the site, and we should be mindful of this as we approach a redesign.
 - Status update/alert information is hard to find on My VA.
-- The logged-in homepage doesn't need to be too widget heavy. It needs to primarily serve as a router and a place to see status updates. Only a few widgets — e.g. upcoming appointments, your VAMC, etc — are necessary.
-- This is a risky project, as the logged-in homepage could easily become a dumping ground or fought-after real estate by VA stakeholders
+- The new dashboard doesn't need to be too widget heavy. It needs to primarily serve as a router and a place to see status updates. Only a few widgets — e.g. upcoming appointments, your VAMC, etc — are necessary.
 - This work, from a wayfinding/UX perspective, will be more successful if we accompany it with an authenticated tools menu/nav, but that may not necessarily be part of V1 of this project.
 
 ## Questions
