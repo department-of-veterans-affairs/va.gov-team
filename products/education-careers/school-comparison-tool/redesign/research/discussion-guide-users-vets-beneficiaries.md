@@ -44,7 +44,17 @@ Let's talk about when you first decided to go to school.
    - Was there any information you wanted to have, but couldn't find?
 
 - If you've started school, is there anything you know now that you wish you had known earlier?
-
+  
+  Are you familiar with any of the following programs:
+  - Student Vet Groups
+  - STEM Scholarship
+  - Yellow Ribbon
+  
+  On a scale of 1 to 5, where 1 is not interested and 5 is very interested.  How interested would you be in learning if a school you're researching has the following programs?
+  - Student Vet Groups
+  - STEM Scholarship
+  - Yellow Ribbon
+  
 
 ## Second Topic: Comparison Tool - 15 minutes
 
