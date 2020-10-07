@@ -1,4 +1,48 @@
-# VA Online Scheduling Product Outline
+
+<br />
+  <h1 align="center">VA online scheduling on VA.gov</h1>
+
+  <p align="center">
+    Homepage for all VA online scheduling app (VAOSR) Documentation
+    <br />
+    <a href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=180908234">Demo</a>
+    ·
+    <a href="https://app.flowmapp.com/share/0fdcf2559a4c55625591f89c2e5d7649/userflow/83089/">View User Flow</a>
+    ·
+    <a href="https://github.com/department-of-veterans-affairs/va.gov-team/projects/13">Roadmap</a>
+    ·
+    <a href="https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vaos&repos=133843125">Product Backlog</a>
+  </p>
+</p>
+
+# Table of Contents
+
+### About the product (VAOSR) 
+- [User Problem Statement](#user-problem-statement)
+- [Solution Goals](#solution-goals)
+- [Assumptions](#assumptions)
+- [Requirements and Constraints](#requirements-and-constraints)
+- [Discovery Takeaways](#discovery-takeaways)
+- [Solution Approach](#solution-approach)
+    - [MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/releases/vaosr-mvp.md)
+- [OKRs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/analytics/vaos-kpis.md)
+
+### Implementation Information
+- [Status](#status)
+- [How to Access and Test](#how-to-access-and-test)
+- [Error Handling](#error-handling)
+- [Service Level Objective](#service-level-objective)
+- [API Calls and Dependent Systems](#api-calls-and-dependent-systems)
+- [Resources and Documentation](#resources-and-documentation)
+- [Keywords](#Keywords)
+- [Team](#Key)
+- [Screenshots](#screenshots)
+
+---
+## Key Documents + Team Members
 - GitHub Label: [vaos](https://github.com/department-of-veterans-affairs/va.gov-team/issues#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vaos&repos=133843125&showPipelineDescriptions=false)
 - Chat
   - [DSVA Team Slack - #vaos-team](https://dsva.slack.com/channels/vaos-team)](https://app.slack.com/client/T03FECE8V/CMNQT72LX), [#vaos-eng](https://app.slack.com/client/T03FECE8V/CSCD0B1V3)
@@ -30,35 +74,7 @@
   - Product Manager Lead: Lenae Storey
 - Full VAOS-R User Experience Flow: [VAOS-R User Flow Mapped](https://app.flowmapp.com/share/0fdcf2559a4c55625591f89c2e5d7649/userflow/83089/)
 
----
-
-### Table of Contents
-
-# Executive Summary 
-- [User Problem Statement](#user-problem-statement)
-- [Solution Goals](#solution-goals)
-- [Assumptions](#assumptions)
-- [Requirements and Constraints](#requirements-and-constraints)
-- [Discovery Takeaways](#discovery-takeaways)
-- [Solution Approach](#solution-approach)
-    - [MVP](#mvp-implementation)
-- [Value Propositions](#value-propositions)
-- [OKRs](#okrs)
-
-# Implementation Information
-- [Status](#status)
-- [How to Access and Test](#how-to-access-and-test)
-- [Error Handling](#error-handling)
-- [Service Level Objective](#service-level-objective)
-- [API Calls and Dependent Systems](#api-calls-and-dependent-systems)
-- [Resources and Documentation](#resources-and-documentation)
-- [Keywords](#Keywords)
-- [Team](#team)
-- [Screenshots](#screenshots)
-
----
-
-# Executive Summary
+# About VA online scheduling product
 
 ## North Star Goal of Online Scheduling 
 Deliver a seamless and positive experience for any Veteran who wants to schedule an appointment online 
@@ -176,75 +192,13 @@ Rewritting the veteran-facing scheduling application on VA.gov will give us acce
 #### Improving SRE & DevOps capabilities will ultimately improve completion rates and veteran satisfaction with the scheduling tool
 The legacy tool has no performance monitoring, and developer speed is low due to challenges understanding the existing codebase & lack of dedicated SRE & devops expertise to help set the team up for success. Solving these key challenges will help us deliver a faster, more resilient, more efficient tool to veterans while reducing its long-term maintenance costs.
 
-### MVP Implementation
-The goal of the MVP is to improve usability of VAOS by rewritting the tool on VA.gov using existing design patterns already implemented there. We will not be introducing any new features compared to the existing tool, but will instead focus solely on veteran-centered usability.
-
-  - KPIs
-    - overall veteran usage of the tool
-    - Task completion rates (requests, self-schedules)
-    - Veteran satisfaction rates & contact center help requests
-  - Goals
-    - Increase the number of veterans entering the 'new appointment' flow compared to the existing tool
-    - Increase the percent of veterans who are able to successfully request or schedule an appointment after starting the 'new appointment' flow compared to the existing tool
-    - Decrease the number of contact center support tickets created about VAOS
-
-#### Acceptance Criteria
-To achieve these MVP goals we'll focus on implementing a tool on VA.gov that mostly mirrors the functionality of the existing VAOS tool
-- Veterans can see details for their pending & confirmed appointments
-- Veterans can cancel an existing confirmed or requested appointment
-- Veterans can directly schedule a new Primary Care or Mental Health appointment at clinic where they were seen previously
-- Veterans can request to schedule a new appointment for a type of care at a participating VA facility
-- Veterans can request to schedule a new appointment for Community Care for a given type of care when eligible based on static code or drive time eligibility
-- Veterans can message a scheduling clerk during the process of requesting an appointment
-- Preferred appointment times are captured for both requests and self-scheduled appointments so that the VA can continue to track wait times
-
-Additionally, the front end will need to talk to a new vets-api wrapper for the existing VAMF services. This wrapper will need to:
-- Authenticate with necessary VAMF services (via integration with User Service)
-- Send the front end data in a format that matches existing VAMF services as closely as possible
-
-## Value Propositions
-
-#### User Value
-Makes it easier for veterans to directly schedule or request a healthcare appointment, either with the VA or a Community Care provider. The experience is integrated and cohesive with VA.gov, which is already a property with which many veterans are familiar.
-
-#### Business Value
-Better trust and satisfaction with the VA. More appointments scheduled and requested online, reducing support costs for phone-based bookings. More maintainable solution by in-house teams over the long-term.
-
-## OKRs
-
-### Objectives
-- Increase number of logged in users on VAOS on VA.gov
-- Increase number of appointments scheduled online (including % increase) -- measured as completion/conversion
-- Improve perception of scheduling experience among veterans
-- Decrease percent of scheduled appointments that result in no-shows
-- Decrease processing time for schedulers
-- Decrease phone volume for appointment scheduling
-- Reduce volume of appointments scheduled via Secure Messaging
-
-### KRs
-
-- Number and Percent of veterans who are able to complete the scheduling flow
-  - Measure with GA events and GA user funnels
-- Type of care/speciality per scheduling type (VA request, CC request, or Self Schedule)
-  - Measure with GA events/users
-- Retention rate of Veterans returning back to VAOS tool
-- Number and Percent of overall appointments scheduled or requested online
-  - Cross-comparison of GA VAOS events to VHA Scheduling data
-- Percent of veterans who feel that they've accomplished what they set out to do
-  - Consider using Foresee in future to prompt in flow questions
-- Number of healthcare appointments scheduled over the phone
-  - Need to collect information from VHA scheduling data
-- Veteran satisfaction
-  - TBD
-- Latency, uptime, production bug volume, deploy speed
-  - Sentry Dashboarad collects these metrics
-
 ---
 
 # Implementation Info
 
 ## Status
-- [Phased rollout](product/phased-rollout-plan.md) in progress -- Currently live 100% on VA.gov with new VAOS-R
+- [MVP Phased release](product/phased-rollout-plan.md) -- Currently live 100% on VA.gov with new VAOS-R -- COMPLETE
+- [Express Care release]() -- Active at 1 VAMC -- COMPLETE
 
 ## How to Access and Test
 - Link: https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/
@@ -261,7 +215,6 @@ Better trust and satisfaction with the VA. More appointments scheduled and reque
 
 
 ## Resources and Documentation
-
 - Discovery and Research
 - Technical Documentation
 - Product specs

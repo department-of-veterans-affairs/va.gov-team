@@ -98,10 +98,10 @@ Assess and update workload for remainder of sprint
 | Point | Task Size | Approx Days/hours | Description |
 |-|-|-|-|
 | 1 | Easy  | ~1-2 days / ~8-16 hrs | Work is known, can be executed quickly |
-| 2 | Small  | ~3-5 days / ~24-40 hrs  | Work is known and can be completed in half a sprint |
-| 3 | Large | ~6-8 days / ~48-64 hrs | Work is known and can be completed in less than one sprint |
-| 5 | XLarge  | ~10days / ~80 hrs | Work is known and can be completed in one sprint sprint |
-| 8 | XLarge  |  | Work is complex and/or there are unknown factors that need to be discussed prior to planning. Once further information is known, the work should be broken down into smaller tasks that can be completed in a sprint. |
+| 2 | Small | ~2-3 days / ~16-24 hrs | Work is known, and can be completed with minimal hours |
+| 3 | Medium | ~3-4 days / ~24-48 hrs | Work is known, and can be completed in a couple days |
+| 5 | Large  | ~5 days / ~40 hrs | Work is known and can be completed in half a sprint | 
+| 8 | XLarge | ~6-8 days/ ~40-60 hrs | Work is complex and/or there might be unknown factors that need to be discussed prior to planning. Once further information is known, attempt to brake down into smaller tasks that can be completed in a sprint with certantity. |
 | 13 | XXLarge |  | Very complex, needs discovery or prototype before it can be planned for a sprint. |
 
 #### Retro

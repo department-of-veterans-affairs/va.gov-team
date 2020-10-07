@@ -1,6 +1,6 @@
 # InVision Prototypes for the new STEM VA Form 22-10203 (May 2020)  
 
-[STEM Form 10203 v0.6 - Desktop](https://bahdigital.invisionapp.com/share/FAIAEVUYVKN) - These enhancements address 2 updates from UAT and VSP, both on the Personal information page: Including sentence & checkbox about Twilio and Reformatting the page to address Best way to contact you / required fields be more in line with 1995.  
+[STEM Form 10203 v0.6 - Desktop](https://bahdigital.invisionapp.com/share/FAIAEVUYVKN) - These enhancements address 2 updates from UAT and VSP, both on the Personal information page: Including sentence & checkbox about Twilio and Reformatting the page to address best way to contact you / required fields be more in line with 1995.  
 
 [STEM Form 10203 v0.5 - Desktop](https://bahdigital.invisionapp.com/share/DGIAEP75WKA) - Includes VSP content feedback, UAT updates. WIP.
 

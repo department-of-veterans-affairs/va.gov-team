@@ -1,5 +1,13 @@
 # Accessibility Review Step-by-Step
 
+<hr/>
+
+**[Rate this documentation](https://forms.gle/D3urPe2VbLqVd5pcA)**
+
+We'd like to know if the documentation is meeting your needs, and welcome your feedback!
+
+<hr/>
+
 - [ ] Deque axe browser scan audit to identify accessibility issues
 - [ ] Deque axe-coconut browser scan audit to identify leading edge accessibility issues
 - [ ] Lighthouse browser scan audit to identify web performance impact

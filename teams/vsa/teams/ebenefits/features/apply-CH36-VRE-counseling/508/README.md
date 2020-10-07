@@ -1,5 +1,5 @@
 # Accessibility: Personalized Career Planning & Guidance (PCPG - CH36) 
-`eBenefits | September - 2020`
+`eBenefits | September - Ocotber 2020`
 
 ### Resources for internal a11y audit
 1. [A11y Test Case Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-test-cases-checklist.md)
@@ -18,7 +18,7 @@ https://staging.va.gov/careers-employment/education-and-career-counseling/apply-
 - [/claimant-information](https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/claimant-information)
 - [/claimant-address](https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/claimant-address)
 - [/status-selection](https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/status-selection)
-- [/veteran-information](https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832//veteran-information) (you will only see this URL if you choose that you are a child or spouse on /status-selection)  
+- [/veteran-information](https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832//veteran-information) _(you will only see this URL if you choose that you are a child or spouse on /status-selection)_  
  
 
 ### 1. Scan with axe browser plugin  

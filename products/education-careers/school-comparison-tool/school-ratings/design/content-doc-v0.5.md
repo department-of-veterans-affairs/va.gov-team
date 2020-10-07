@@ -1,5 +1,10 @@
 # School Ratings Content
 
+**Table of Contents:**  
+[IHLs - Search Results Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/school-ratings/design/content-doc-v0.5.md#ihls---search-results-page)  
+[IHLs - Profile Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/school-ratings/design/content-doc-v0.5.md#profile-page)  
+[VET TEC - Search Results Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/school-ratings/design/content-doc-v0.5.md#vet-tec---search-results-page)
+
 ## IHLs - Search Results Page 
 
 ### School cards:
@@ -39,7 +44,7 @@
 [View details]() { links to profile page }  { "View details" links are about 44px in height to provide enough clearance for mobile users to tap }    
 
 { End if Mobile } 
-## Profile page
+## IHLs - Profile page
 
 ### Institution details: 
 { Institution name }  
@@ -143,5 +148,52 @@ Veterans rate schools on a number of categories. Those ratings are averaged to c
 
 #### Veteran privacy
 
-A school may ask us for a list of Veterans who rated their school, but we do not share individual ratings with schools. If an institution asks us for information on who rated their school, no information beyond what is publicly available on the Comparison Tool is shared with them that would tie an individual to their ratings.
+A school may ask us for a list of Veterans who rated their school, but we do not share individual ratings with schools. If an institution asks us for information on who rated their school, no information beyond what is publicly available on the Comparison Tool is shared with them that would tie an individual to their ratings.  
 
+## VET TEC - Search Results Page 
+
+### Program cards: 
+
+{ If Desktop/Tablet: }  
+
+{ Program name spans full card width }   
+{ Caution / closing flags, if any }  
+
+{ Left column: }  
+
+**{ Training provider }**  
+{ Location }  
+
+**You may be eligible for up to:**  
+**Tuition:** { Tuition amount }  
+**Housing:** { Housing amount } { / month }   
+
+[View details]() { links to profile page } { "View details" links are about 44px in height to provide enough clearance for users to click } 
+
+{ Right column: }  
+
+**Preferred provider:** { Indicates Yes or No } { If Yes, display award icon } 
+
+**Program length:** { N hours. If not availabie, display TBD }    
+ 
+{ end if Desktop/Tablet }
+
+{ If Mobile: } 
+
+{ Institution name spans full card width }  
+{ Caution / closing flags, if any }  
+
+**{ Training provider }**  
+{ Location }  
+
+**You may be eligible for up to:**  
+**Tuition:** { Tuition amount }  
+**Housing:** { Housing amount } { / month }  
+
+**Preferred provider:** { Indicates Yes or No } { If Yes, display award icon }   
+
+**Program length:** { N hours. If not availabie, display TBD }    
+
+[View details]() { links to profile page } { "View details" links are about 44px in height to provide enough clearance for users to click }   
+
+{ End if Mobile } 

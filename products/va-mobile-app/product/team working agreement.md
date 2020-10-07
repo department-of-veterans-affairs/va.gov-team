@@ -83,6 +83,7 @@ Since the mobile app MVP is replicating functionality that exists on VA.gov toda
 - Icebox 
 
 **Story Point System**
+
 1 - the amount of time it takes to drink a cup of coffee  :coffee:
 
 2 - a morning :sunrise:
