@@ -2,7 +2,7 @@
 
 **Summary:** this document outlines Medallia surveys and how you can request one for your Veteran-facing service.
 
-**Background:** What is a Medallia survey? Medallia is the tool we use to receive feedback on VA.gov. Data from Medallia is shared with the VEO, is in compliance with PRA, and the template below has pre-approved platform design and content.
+**Background:** What is a Medallia survey? Medallia is the tool we use to receive veteran feedback on VA.gov. Data from Medallia is shared with the VEO, is in compliance with PRA, and the template below has pre-approved platform design and content.
 
 ## How to request a survey
 
