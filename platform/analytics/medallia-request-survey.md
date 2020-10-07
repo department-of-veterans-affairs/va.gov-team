@@ -2,6 +2,8 @@
 
 **Summary:** this document outlines Medallia surveys and how you can request one for your Veteran-facing service.
 
+**Background:** What is a Medallia survey? Medallia is the tool we use to receive feedback on VA.gov. Data from Medallia is shared with the VEO, is in compliance with PRA, and the template below has pre-approved platform design and content.
+
 ## How to request a survey
 
 Fill out the [survey implementation request template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+medallia&template=analytics-foresee-request-template.md&title=User+Survey+Request+for+%5BTeam%5D). 
@@ -26,4 +28,4 @@ We currently have one recommended survey for Veteran-facing Services:
   - 1 = Very dissatisfied
   - 5 = Very satisfied
 
-We recommend the above survey templates to create consistency across va.gov services. If you are looking to further customize your survey, please reach out to VSP Analytics & Insights on the DSVA Slack channel, #vfs-platform-support, and begin your message with `VA.gov survey inquiry`.
+We recommend the above survey templates to create consistency across va.gov services. If you have any questions, please reach out to VSP Analytics & Insights on the DSVA Slack channel, #vfs-platform-support, and begin your message with `VA.gov survey inquiry`.
