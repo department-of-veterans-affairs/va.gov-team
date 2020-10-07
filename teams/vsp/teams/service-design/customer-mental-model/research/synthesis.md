@@ -24,6 +24,7 @@
   - VSP communications, making sure we hit these themes regularly, or cycling through the themes.
   - There's a theme from retros that VSP folks don't feel recognized in the ongoing work we do). Like, we did the mobile month experiment. Maybe these themes could guide internal focuses, like we want to promote good work in this category, we want to see more demos from it,etc. Could make it a comms priority. LIke right now we have comms process and tools (newsletter, slack) but what if we consciously as comms strategy decide to cycle through our tools for 4 months and regulary post "did you know" type stuff. Each month try and educate ppl about a new category.
 - Slack automation
+  - Slackbot for example for staged vs phased
   - Could a bot help look for terms and remind ppl of the correct term
   - or "it looks like you're asking about testing tools. are you? if so, here's a section of docs about it"
   - Using these as keywords to which a bot could respond w/a canned response. point of contact, or links to docs in that category
@@ -44,4 +45,17 @@
   - Like we have new standards for Identity, the people who are doing those jobs might need to know about info being updated and might need orientation
 
 ## Thoughts around a pilot and next steps
+
+Next steps
+- What labels/terms are meaningfulness of categorization labels and names of products
+- What are our products/services? Like is review instances a standalone product? What do we call it?
+- Cross check w/word list and get to standard set of terms
+- Definition for the bounds of what we call a Platform product or service
+  - For example: IA Strategy, is something like that too granular? Or should it just be IA?
+  - Want it to be broad enough to encompass other things w/o expanding infinitely
+- 
+
+Desired behaviors once we have this established
+- Take a look at relative level of maturity for the products/services and decide if we want to put more effort into maturing
+- Revisit charters
 
