@@ -7,7 +7,7 @@
 |Project|Status|
 |----|----|
 |[Profile 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account) | Launched to 100% of users |
-|[Logged-in homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | Design|
+|[My VA 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | Design|
 |[Direct deposit for edu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/README.md) | Discovery |
 |Preferred facility for VA.gov profile | Discovery |
 
@@ -33,7 +33,7 @@ It is because of this that we are going to dedicate all of 2020, and as much of 
 |Project|Q3 2020|Q4 2020|Q1 2021|Q2 2021|Q3 2021|Q4 2021|
 |----|----|----|----|----|----|----|
 |**Profile 2.0**| Build; QA; pre-launch | Launch | — | — | — | — |
-|**Logged-in homepage**| start technical discovery; start design | Design | Finish design; build; user testing and additional user research | — | — | — |
+|**My VA 2.0**| start technical discovery; start design | Design | Finish design; build; user testing and additional user research | — | — | — |
 |**Direct deposit for edu**| Begin discovery | Continue discovery; design; build | QA; pre-launch; launch| — | — | — |
 |**Preferred facility for VA.gov profile**| — | Discovery; figure out how work will be split between VAOS/Auth exp. | TBD |  — | — | — |
 
