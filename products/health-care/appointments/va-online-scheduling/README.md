@@ -27,7 +27,7 @@
 - [Requirements and Constraints](#requirements-and-constraints)
 - [Discovery Takeaways](#discovery-takeaways)
 - [Solution Approach](#solution-approach)
-    - [MVP](#mvp-implementation)
+    - [MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/releases/vaosr-mvp.md)
 - [Value Propositions](#value-propositions)
 - [OKRs](#okrs)
 
