@@ -1,19 +1,23 @@
-# Research Plan for [Team, Product, Date]
+# Research Plan for STEM Scholarship Application (for 22-10203) enhancements
 As a designer I need to create a research plan to share with my team.	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
+
 ## Goals	
-1. What product & team are you doing this research for?	
-2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
-3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
-4. Hypothesis: What is your hypothesis for this research? 	
+1. What product & team are you doing this research for?	This research plan is related to the rollout of updates to the STEM Scholarship that will 
+  1. Display remaining entitlement to applicants who are logged in and have supporting EVSS entitlement data
+  2. Upon submission of eligible applications, SCOs for the institution most recently associated with the applicant will receieve an email notification so that they can preemptively begin the process of supplying the VA with data necessary to validate the scholarship application. 
+2. Background: This functionality was determined post-MVP from the initial 22-10203 form launch in September 2020 due to issues related to coordinating with and testing against EVSS. Since then, DEPO has approved the approach of launching and testing these two features in Production because we are unable to test this in the lower environments. 
+3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	Do these two features work as expected for Veterans, SCOs, and the STEM application processing team?
+4. Hypothesis: The features do work as expected. 
+
 ## Method	
 1.	What method of research are you planning? 	
-  - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 	
-  - **Also mention:** in-person moderated, remote moderated, remote unmoderated	
-  	
-2.	Why this method? How does this methodology help you answer your research questions? 	
-3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*	
-4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
-5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
+  - **Sample Methodologies**: Observation of remote moderated user acceptance testing 	
+2.	Why this method? How does this methodology help you answer your research questions? Observing applicants as they move through and submit the application will allow us to observe and capture any unexpected behavior or errors that arise during user acceptance testing. 
+3.	Where are you planning to do your research? Webex Web Conferencing
+4.	What will you be testing? Production application
+5.  If remote: What tool do you plan to use? Webex
+
+
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	  
 (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
@@ -37,6 +41,7 @@ Please list your participant criteria in two categories-
 3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
+
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 - Moderator:	
@@ -47,6 +52,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Note-takers:	
 - Observers:	
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
+
 ## Resources	
 - Project Brief: 	
 *Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
