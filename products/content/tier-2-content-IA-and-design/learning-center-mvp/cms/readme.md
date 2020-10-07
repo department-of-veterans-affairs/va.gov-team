@@ -9,6 +9,17 @@
 
 ### Agenda
 
+1. Review backlog
+1. standalone Q&A page template logic
+1. final URLs for Q&A team
+1. anything else
+
+### Action items
+
+## Tuesday September 29
+
+### Agenda
+
 1. Reschedule Oct 6 check-in for Oct 5, 7 or other
 1. Review backlog for Sprint 16
 1. Articles List implementation
@@ -26,6 +37,7 @@
 ### Action items
 
 1. Jen to confirm whether native CMS tag listing preview is sufficient for the MVP 1.1
+  1. confirmed [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13883#issuecomment-701535183)
 
 ## Tuesday September 22
 
