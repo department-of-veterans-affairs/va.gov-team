@@ -77,8 +77,8 @@
 | [FE] KT with new BE engineer | -- | # |
 | [FE] SPIKE - Cards Design| -- | #14313 |
 | [FE] Pre-fill RFV with Mock data | -- | #13670 |
-| [BE]  | All things KT for Onboarding new teammember | # |
-| [BE]  | Read and write appt. and PGD with questionnaire service | #13599 |
+| [BE] All things KT for Onboarding new teammember | # |
+| [BE] Read and write appt. and PGD with questionnaire service | #13599 |
 | [Product] Success Metris	| -- |  |
 
 
