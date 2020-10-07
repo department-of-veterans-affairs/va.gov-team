@@ -5,19 +5,41 @@
 ## Why we're here
 
 ### North Star:
-_Lorem ipsum_
+Facilitating VFS teams to design and build scalable digital experiences for Veterans that meet DEPO quality standards as well as improve standards based on Veteran needs and behaviors. 
 
-### Product Suite (if applicable): 
-VSP Global UX
+### Product Suite: 
+Design System 
 
 ### Team Mission Statement:
-_Lorem ipsum_
+Our mission is to provide a design system that helps designers and developers efficiently build products while also making self-sustaining, forward looking improvements to their product suite. 
 
 ### Product Portfolio:
-_List of products within your team's perview - make sure the list of products here aligns to what's captured in the [List of VA.gov Products doc](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit)_
+- React Library
+- Sketch Library
+- design.va.gov
+- Component Library 
+- Forms Library 
+   - Documentation 
+
+
+
 
 ### Responsibilities:
-_High level problem space and user goals for this team_
+Design System Backlog Problem Statement
+- We believe that VFS teams need regular improvements to the design system documentation, tools, and shared code.
+- We know this is true because they are impatient for progress, forking components into custom code, and applying components incorrectly.
+- We believe that establishing and shipping a biweekly update of components prioritized by the Design System Council will improve the speed with which VFS teams can design and develop an application without customizing and forking  common code and shared tools.
+
+Forms Library Problem Statement
+- We believe that VFS teams are not designing and building forms efficiently.
+- We know this is true because there are a lot of support requests in Slack for form related design and development.
+- We believe that improving form-related component and pattern documentation will improve the time from launch to production for form applications.
+
+Source of Truth Problem Statement
+- We believe that VFS Designers are confused by inconsistencies across design system documentation, tools, and production applications.
+- We know this is true because design critiques are more focused on proper usage of existing components as opposed to improvements or new components that will benefit all teams.
+- We believe that improving consistency by identifying and communicating a “source of truth” version for components and patterns will increase the number of new or variant components launched and help us track the actual usage of components and patterns across our production applications.
+
 
 ### Roadmap:
 _Link to agile roadmap_
@@ -50,21 +72,21 @@ Check in on people and product progress
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
 
-- 1st Wednesday of every sprint at 3PM ET?
+- 1st Wednesday of every sprint at 2pm ET
 - 1 hour
 - _any other notes you have_
 
 #### Retro
 Review accomplishments from prior sprint, what went well, what can be improvemed, what questions people have, and any action items
 
-- 1st Wednesday of every sprint at 2:30PM ET?
+- 1st Wednesday of every sprint at 1:00pm ET
 - 30 min
 - _any other notes you have_
 
 #### Grooming
 Assess and update workload for remainder of sprint
 
-- 2nd Thursday of every sprint at 12PM ET? 
+- 2nd Thursday of every sprint at 12PM ET 
 - 1 hour
 - _any other notes you have_
 
