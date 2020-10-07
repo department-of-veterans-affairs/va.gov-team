@@ -128,21 +128,19 @@ Additionally:
 
 **In scope**
 
-- Move the following My VA tools over to the homepage:
+- Updating the My VA dashboard redesign, including the following sections:
   - Your applications
   - Your claims
   - Health enrollment status (eg. enrolled; application pending, etc)
   - Prescriptions
   - Secure messages
   - Schedule appointments
-- A plan for how to incorporate top 20 tasks links, including directing veterans to the records and documents.
-- A visual redesign of the My VA elements moving over to the logged-in homepage.
 - A very basic first-time user experience that will account for users who have no benefits and no applications in flight.
-- Retiring My VA.
 - (Nice to have) Elevating overall disability ratings, GI bill balances, and upcoming appointments.
 
 **Out of scope**
 
+- **As of 10.7.2020**: Any updates to the homepage in a logged-in state.
 - Doing anything with the Find VA benefits content that currently exists on My VA.
 - Incorporating any new data or integrations that do not already exist on VA.gov.
 - Navigation work.
@@ -178,6 +176,7 @@ https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIK
 - **July 2020**: Project on hold while we get Profile 2.0 ready for QA and other pre-launch tasks. 
 - **August 2020**: Design onboarding; technical discovery.
 - **September 2020**: Initial design explorations; design intent platform checkpoint; design for health care section begins in earnest; continued discussion around technical approach.
+- **October 2020**: Project pivots from logged-in homepage redesign to My VA dashboard 2.0; 
 
 ### Key Decisions
 
@@ -185,6 +184,27 @@ https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIK
 
 - [Personalization 2.0 discovery write-up (2019)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md)
 - [Logged-in homepage discovery write-up (Spring 2020)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/discovery-summary.md)
+
+## Product 
+
+Initially, this project was scoped to be a logged-in homepage redesign. However, as of 10.7.2020, we have pivoted the project back to a My VA dashboard redesign.
+
+**Why**
+
+- This largely comes down to concerns about how we would have managed two different versions of the homepage, both from a technical perspective and from an organizational perspective. Organizationally, there are other teams at the VA who help manage the current homepage and we didn't want the user dashboard to get overtaken by outside needs/demands since it would have technically also been a homepage.
+
+**How this aligns with auth exp team goals**
+
+- A big goal of this project was removing the redundancy between the homepage and My VA in a logged in state. While we need to accept that redundancy might exist for more time, because we are redesigning My VA to be more effective and scalable, the homepage can now evolve over time, which may mean moving away from a task management focus (pending research, organizational discussions, etc). Greater variation between the homepage and the logged-in user dashboard would move us towards our goal of removing redundancy.
+- If user research proves that people who login from their homepage would prefer to be redirected to their dashboard instead of staying on the homepage, then this will move us towards our goal of elevating personal information. As we add features to the user dashboard as the site grows over time, and as the homepage moves away from a task management focus, we'll have even more reason to land people logging in from the homepage on their dashboard.
+- None of this stops us from pursuing the other goals of drastically improving the user dashboard and improving the logged-in experience. This is still seriously valuable work.
+
+**Other thoughts**
+
+- Ultimately, this approach is going to be easier for both development and design, and I think it's more "MVP", so that's good.
+- Naturally, I am disappointed, as I've had big dreams of a new logged-in homepage. But I do think this makes sense from an organizational perspective and from a design/dev perspective, so that's also good.
+- Users still win with a newly designed dashboard, so we're not leaving them behind.
+- The logged in experience will continue to evolve. This is not an end game, and there are a lot of ways in which I think we can take this initial approach and continue to improve how people log in and manage their benefits.
 
 ## Development
 
@@ -202,26 +222,20 @@ https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIK
 
 *From the [Personalization 2.0 strategy from 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md)*
 
-1. **Reduce redundancy** — Specifically, we should reduce redundancy between the My VA dashboard and the VA.gov homepage.
-2. **Get users where they need to go** — We should balance bubbling up content with showing a succinct list of links to quickly route people to tools.
-3. **Elevate personally relevant information** — Users should see themselves in these updates.
-4. **Scale gracefully** — Our designs should allow for future updates and expansion. 
-5. **Prioritize wayfinding** — We should make it easy for users to find information that is relevant to them, and we should guide users accordingly depending on where they are in their journey at the VA.
-6. **Effectively use visual space** — We should avoid a single-column, "content page" approach. Design updates should more effectively employ [the design system](https://design.va.gov/) and update it as needed.
+1. **Elevate personally relevant information** — Users should more easily be able to scan/evaluate their information.
+2. **Scale gracefully** — Our designs should allow for future updates and expansion, as new features are being added to VA.gov all the time.
+3. **Prioritize wayfinding** — We should make it easy for users to find the My VA dashboard.
+4. **Effectively use visual space** — We should avoid a single-column, "content page" approach. Design updates should more effectively employ the design system and update it as needed.
 
 ### Important docs
 
-- [Logged-in homepage use cases MURAL board](https://app.mural.co/t/vsa0499/m/vsa0499/1597156877591/25248822b34df6bbf8041a9b11b3150974e51efb)
-- [Logged-in homepage data points spreadsheet](https://docs.google.com/spreadsheets/d/1fO3VxUj8U2M268GnpmNmlL8Jdl8E1as33SzuwoTneV8/edit#gid=1279308525)
+- [My VA use cases MURAL board](https://app.mural.co/t/vsa0499/m/vsa0499/1597156877591/25248822b34df6bbf8041a9b11b3150974e51efb)
+- [My VA data points spreadsheet](https://docs.google.com/spreadsheets/d/1fO3VxUj8U2M268GnpmNmlL8Jdl8E1as33SzuwoTneV8/edit#gid=1279308525)
 - [Design process outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/product/LIH-outline-and-timeline.md)
 
 ### Screenshots
 
 ### Before
-
-#### Logged-in homepage
-
-![2019 VA.gov homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/screenshots/VA.gov%20homepage.png)
 
 #### My VA
 
