@@ -37,19 +37,35 @@ Users were given a link to the CH36 wizard and asked, "Please take a look at thi
 - When the wizard question led to a "stop," users understood they did not qualify; several wanted links to alternate resources or information
 
 #### Will users identify the differences between the CH31 and CH36 programs and select the right form(s)?
+Three users navigated to the CH31 wizard. They were asked, "So do you know why you were sent here?", "How is this different from the previous page/screen/form?", and  "Please look at this page and see if you qualify."
+
+- Jumping from one wizard/form to the next seemd to disorient participants, though two understood they were taken to another page
+- One user was irritated to "have to do everything over again," but continued on to successfully determine eligibility and complete the form
+- A couple of users identified the link to the CH31 wizard (on the CH36 screens), but did not click on it
 
 #### What challenges prevent users from quickly and accurately completing the forms?
+No participants qualified for CH36 benefits since all were too far removed from their separation dates. At the point in the wizard they were told, "Seems you don't qualify according to our questions; but what if you were within a year of separation?" The users who proceeded to the CH 31 form qualified on their own merits and completed the form (21-1900).
+
+- Many participants found the various mentions of the programs and form numbers confusing; i.e. they were shown Chapter 36, 21-8832 and Personalized Career Planning and Guidance at various points, with Chapter 31 terminology mixed-in as well
+- Once in the forms themselves users easily navigated to submission
+- Users were uniformly tripped-up by language around timeframes; e.g. the "have you been discarged in the last year" question; users wanted to know if this meant 2019 or within the last 12 months
 
 ### Hypotheses
 
 #### Users will have some difficulty locating the landing pages/logins for the CH31 and CH36 forms on VA.gov
 Not entirely. Participants tended to find CH36 and CH31 content pages via the Chapter 33 screens. Generally, users believed career guidance and job readiness were part of the CH33 GI Bill.
 
-#### User will generally understand the function of the screening wizards, but will miss the "bypass" link
+#### Users will generally understand the function of the screening wizards, but will miss the "bypass" link
+This was confirmed: only one user saw the link and recognized it went straight to the form.
 
 #### The language in the wizards and intro will confuse users; they may misunderstand when they can apply for both CH36 and CH31 benefits.
+This did seem to be the case, only one participant clearly understood there were two wizards and forms from end-to-end. One saw there were two programs and forms, but opted to complete only the 19-8832 (CH36). And two users saw links to the 21-1900 (CH31) at the end, with one following the link and applying for CH31 benefits.
 
 #### The forms themselves will be very easy for users to complete
+This proved true. Once the users made it into the two forms, they proceeded quickly and easily to submission.
+
+### Other notes
+- All but one participant opted to "sign-in" to proceed
 
 ### Resources
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-research-plan.md)
