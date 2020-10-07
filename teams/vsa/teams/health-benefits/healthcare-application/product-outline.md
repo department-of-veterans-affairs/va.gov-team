@@ -1,4 +1,4 @@
-# Product Outline Template
+# Product Outline - Healthcare Application
 ---
 
 ## Overview
