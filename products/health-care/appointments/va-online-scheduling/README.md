@@ -28,8 +28,7 @@
 - [Discovery Takeaways](#discovery-takeaways)
 - [Solution Approach](#solution-approach)
     - [MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/releases/vaosr-mvp.md)
-- [Value Propositions](#value-propositions)
-- [OKRs](#okrs)
+- [OKRs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/analytics/vaos-kpis.md)
 
 ### Implementation Information
 - [Status](#status)
