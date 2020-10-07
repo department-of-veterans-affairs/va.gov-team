@@ -3,7 +3,7 @@
 **Table of Contents:**  
 [IHLs - Search Results Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/school-ratings/design/content-doc-v0.5.md#ihls---search-results-page)  
 [IHLs - Profile Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/school-ratings/design/content-doc-v0.5.md#profile-page)
-[VET TEC - Search Results Page]()
+[VET TEC - Search Results Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/school-ratings/design/content-doc-v0.5.md#vet-tec---search-results-page)
 
 ## IHLs - Search Results Page 
 
@@ -152,12 +152,12 @@ A school may ask us for a list of Veterans who rated their school, but we do not
 
 ## VET TEC - Search Results Page 
 
-### Program cards:
+### Program cards: 
+
+{ If Desktop/Tablet: }  
 
 { Program name spans full card width }   
 { Caution / closing flags, if any }  
-
-{ If Desktop/Tablet: }  
 
 { Left column: }  
 
