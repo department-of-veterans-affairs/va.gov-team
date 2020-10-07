@@ -43,6 +43,8 @@ Additionally, the forms library code is entangled with other platform code as we
 
 There is a [helper file](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4a3172edc242bf60c93aec5b170c734dc57985/src/applications/personalization/dashboard/helpers.jsx) in `src/applications/personalization` which exports a number of consts which are used in the following files within the forms library:
 
+(This will be resolved in `vets-website` [PR #14468](https://github.com/department-of-veterans-affairs/vets-website/pull/14468).
+
 - [`ApplicationStatus.jsx`](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4a3172edc242bf60c93aec5b170c734dc57985/src/platform/forms/save-in-progress/ApplicationStatus.jsx#L6-L10)
 - [`SaveInProgressIntro.jsx`](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4a3172edc242bf60c93aec5b170c734dc57985/src/platform/forms/save-in-progress/SaveInProgressIntro.jsx#L12-L15)
 - [`FormSaved.jsx`](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4a3172edc242bf60c93aec5b170c734dc57985/src/platform/forms/save-in-progress/FormSaved.jsx#L10)
@@ -183,9 +185,9 @@ Once the package is created, there will still be pieces of code that will need t
 
 #### Updating app code
 
-By this point, the package will already exist, but due to some babel and webpack config it will be masquerading as if it were still spread across `platform/forms` and `platform/forms-system`. This is where each app team updates their code to import directly from the new package.
+By this point, the package will already exist, but due to some babel and webpack config it will be masquerading as if it were still spread across `platform/forms` and `platform/forms-system`. This is where we open a PR for each app team and update their code to import directly from the new package. Separate PRs for each app team will make each one easier to merge without requiring a codeowner review from every single team.
 
-Once app teams have done this, we will be able to remove those temporary configs and add an ESLint rule to prevent direct imports from `platform/packages/forms-library` in order to make sure that the forms library is treated like a package moving forward.
+Once app teams approve these PRs that we create, we will be able to remove those temporary configs and add an ESLint rule to prevent direct imports from `platform/packages/forms-library` in order to make sure that the forms library is treated like a package moving forward.
 
 Actual active time here will be fairly low (< 1 day), and will involve waiting for app teams before we will be able to finish the platform changes.
 
