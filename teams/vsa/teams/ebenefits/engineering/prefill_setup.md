@@ -4,7 +4,9 @@ When you need a form to be prefilled with data from one of our back end services
 ### How prefill works
 In order to make Veteran's lives easier we have a feature that can prefill a form on VA.gov with data so that the Veteran does not have to fill that section of the form out manually. Prefill has a back end requirements as well as front end requirements to get it set up. Let's start with the back end -
 
-#### Back end for prefill
+<details><summary>Back end for prefillE</summary>
+
+
 Prefill uses a set of files on the back end to call services that have veteran data, such as VET360 or EVSS, and pass that data to the front end. Since we reuse prefill there is already a decent amount of data you can prefill with very minimal setup, these things are declared in `vets-api/app/models/form_profile.rb` and include -
 
 - Full Name (first, middle, last)
@@ -170,3 +172,4 @@ vre_counseling:
   prefill: true
 ```
 >In sticking with our same example where we named our form `vre_counseling`, we have set `prefill` to `true` for that form. You should now be able to test your prefill. It should be noted that much of the prefill will NOT work on your localhost and generally needs to be tested on staging.
+</details>
