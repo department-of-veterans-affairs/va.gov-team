@@ -45,7 +45,7 @@ Let's talk about when you first decided to go to school.
 
 - If you've started school, is there anything you know now that you wish you had known earlier?
   
-  Are you familiar with any of the following programs:
+- Are you familiar with any of the following programs:
   - Student Vet Groups
   - STEM Scholarship
   - Yellow Ribbon
