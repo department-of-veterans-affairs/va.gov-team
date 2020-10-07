@@ -2,7 +2,7 @@
 
 **Table of Contents:**  
 [IHLs - Search Results Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/school-ratings/design/content-doc-v0.5.md#ihls---search-results-page)  
-[IHLs - Profile Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/school-ratings/design/content-doc-v0.5.md#profile-page)
+[IHLs - Profile Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/school-ratings/design/content-doc-v0.5.md#profile-page)  
 [VET TEC - Search Results Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/school-ratings/design/content-doc-v0.5.md#vet-tec---search-results-page)
 
 ## IHLs - Search Results Page 
