@@ -1,10 +1,10 @@
-# Product Outline: Logged-in homepage redesign (Dashboard 2.0)
+# Product Outline: My VA Dashboard 2.0
 
 Last updated September 28, 2020
 
 ## Communications
 
-- **GitHub Label**: vsa-authenticated-exp; personalization-2.0; auth-homepage; My VA
+- **GitHub Label**: vsa-authenticated-exp; personalization-2.0; my-va-dashboard
 - **Slack channel**: vsa-authd-exp
 
 ### Roles
