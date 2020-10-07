@@ -95,7 +95,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - Team Name: 
 - GitHub Label: #vsa-caregiver 
 - Slack channel: #vsa-caregiver
-- Product POCs: Alayna, Ming
+- Product POCs: Alayna, Ming, Danielle Thierry
 - Stakeholders: Lauren A, Dione D-L,/ Andrea S
 
 </details>
@@ -104,7 +104,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: Ming
+ - DEPO Lead: Ming, Danielle
  - PM: Alayna
  - Engineering: Justin, Kevin
  - Research/Design: Jonathan
