@@ -9,7 +9,7 @@ Thanks for joining us today! My name is Amy and I also have some colleagues on t
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record the audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
@@ -47,10 +47,16 @@ Let's talk about when you first decided to go to school.
 - If you've started school, is there anything you know now that you wish you had known earlier?
 
 
-## Second Topic: Comparison Tool - X minutes
+## Second Topic: Comparison Tool - 15 minutes
 
-You said you had used the Comparison Tool before.
+### Prior Users ###
+You said you had used the Comparison Tool before. *Facilitator brings up CT and runs a quick demo*
 
+- Does this look familiar to you?
+  - If yes, continue with questions in this section
+  - If no, jump to "Not Familiar with Tool" questions
+  
+  
 - How did you originally hear about the Comparison Tool?
 - Do you remember when you used it (while researching schools, after you had picked a school)?  
 - What were you looking for?
@@ -59,8 +65,15 @@ You said you had used the Comparison Tool before.
     - What did you think of the information you saw?
     - Was there anything you struggled with?
 
+### Not Familiar with Tool ###
 
-## Third Topic: Interactions with the VA - X minutes
+Facilitator gives brief demo of the Comparison Tool - search for school, quick overview of SRP and open school profile page
+
+- When you were looking at schools, how did you determine if your education benefits would cover housing and tuition?
+- Was there any Veteran-specific information you wanted to know about the schools you were looking at?
+- What do you think of the tool?
+
+## Third Topic: Interactions with the VA - 10 minutes
   
 - If you have questions about education benefits, how do you go about finding the answer?
 - Have you ever contacted the VA with questions about your education benefits?
@@ -74,11 +87,13 @@ You said you had used the Comparison Tool before.
   If yes:
    - How has that process gone? 
    - Who have you talked to during this process (the VA, SCOs, other individuals)?
+   - What has gone well?
+   - What has not gone well?
   
   If no:
    - How will you start that process?
 
-## Final Topic: Making It Easier - X minutes
+## Final Topic: Making It Easier - 5 minutes
 
 We've talked about researching and picking a school, VA education resources (including the Comparison Tool) and applying for your education benefits.
 
