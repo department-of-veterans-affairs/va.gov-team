@@ -175,12 +175,11 @@ vre_counseling:
 </details>
 
 <details><summary>Front end for prefill</summary>
-In order for prefill to work we need to do some setup on the front end. The main things we need to do are -
-1. Set `prefillEnabled` to `true` in our formConfig file
+In order for prefill to work we need to do some setup on the front end. The main thing we need to do is set `prefillEnabled` to `true` in our formConfig file
 
 
 ##### 1. Set prefill enabled to `true`
-The biggest thing we need to do is to make sure that in our `formConfig.js` file inside the formConfig object that `prefillEnabled` is set to `true` like this -
+>The biggest thing we need to do is to make sure that in our `formConfig.js` file inside the formConfig object that `prefillEnabled` is set to `true` like this -
 ```javascript
 const formConfig = {
 ...
@@ -188,7 +187,27 @@ prefillEnabled: true,
 ...
 }
 ```
+
+>Once prefill is set to `true` you should be all set to go on the front end.
 </details>
 
+<details><summary>Troubleshooting prefill</summary>
+Since prefill works from the BE forward to the FE there are a few common failure points when setting it up. These failure points begin at the back end and then move forward through the stack. It is worth mentioning that prefill generally does not work on local machines so most testing and troubleshooting needs to be done in staging.
+  
+To test if your prefill works or not you should be able to hit the prefill endpoint for your prefill directly on staging and see the prefill data you mapped in your form profile mapping. The prefill endpoint will follow this standard -
+
+`https://staging-api.va.gov/v0/in_progress_forms/{your_form_ID}`
+
+So for instance, in the back end prefill example we used earlier in this document our form ID was 28-8832, so our prefill URL would be
+
+`https://staging-api.va.gov/v0/in_progress_forms/28-8832`
+
+Here are a few common troubleshooting scenarios you might run into when going to that URL-
+
+1. I get a 401 Unauthorized error - This is generally because you are not signed into VA.gov as a user so the prefill is returning a 401. Try signing into VA.gov on staging and try the URL again.
+2. I get a 500 error - This could either indicate there is an error in one of your prefill files or that staging is having an error. Try combing through your prefill files to make sure nothing is mispelled or anything like that.
 
 
+  
+The easiest way to begin troubleshooting prefill issues starts with downloading the [Redux Devtools Chrome Exstension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en). Since all of the prefill data is loaded to the front end via Redux you can use this chrome exstension to diagnose if the prefill data is getting to the 
+</details>
