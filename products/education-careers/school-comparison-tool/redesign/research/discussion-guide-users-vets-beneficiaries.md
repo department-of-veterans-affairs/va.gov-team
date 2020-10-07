@@ -36,7 +36,7 @@ Let’s start with a few warm-up questions.
     
 ## First Topic: Researching and Picking Schools - 15 minutes
 
-Let's take a step back and talk about when you first decided to go to school.
+Let's talk about when you first decided to go to school.
 
 - What made you decide to continue your education?
 - What was most important to you when you were looking for potential schools?
