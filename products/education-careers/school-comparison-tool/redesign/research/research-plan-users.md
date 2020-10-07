@@ -51,8 +51,8 @@ Researchers believe that the design of the Comparison Tool can be optimized by i
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	  
 
-- 11-13 participants
-  - 5 Veterans 
+- 11-16 participants
+  - 5-8 Veterans 
      - 3 using Post 9/11 GI Bill benefits
      - 2 using non-Post 9/11 GI Bill benefits
   - 3-4 non-Veteran beneficiaries
@@ -81,9 +81,14 @@ Login requirements: None
   - By COB Oct 9th
 3. Length of Sessions: How long do you estimate each session will be? 
   - 45 minutes
-4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
-
-5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
+4.	Availability: If applicable, when would you like sessions scheduled? 
+ - Thurs, Oct 15th:  10:30-11:15AM; 1-1:45PM;
+ - Fri, Oct 16th:  10:30-11:15AM; 12-12:45PM; 1:15-2PM;
+ - Tues, Oct 20th: 10:30-11:15AM; 12-12:45PM; 
+ - Wed, Oct 21st:  10:30-11:15AM; 12-12:45PM;
+ 
+5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
+ - TBD
 
 ## Team Roles	
 Please list the people who will be serving in each role.  	
