@@ -16,15 +16,32 @@
 - This is like a mental model of how other ppl would describe how our products ar organized, but not necessarily a path throgh all of this, or the most efficient path to take. We need those other slices. "I'm a BE eng, and I'm trying to  build a thing, how do I know what I need to do along the way?"
 - Designers have a list of things they need to do when designing, so as they go forth this probably wouldn't be helpful for them.
 - Might there be some error if the ppl who took it weren't 100% of what all the technical categories were?
+- Do we want to be seen as enforcement or gate keepers? Or as a nice collab team? A little of both (National Park Service metaphor)
 
 
 ## Ways we might use this information in Platform initiatives
-- Internal comms
+- Internal communications
+  - VSP communications, making sure we hit these themes regularly, or cycling through the themes.
+  - There's a theme from retros that VSP folks don't feel recognized in the ongoing work we do). Like, we did the mobile month experiment. Maybe these themes could guide internal focuses, like we want to promote good work in this category, we want to see more demos from it,etc. Could make it a comms priority. LIke right now we have comms process and tools (newsletter, slack) but what if we consciously as comms strategy decide to cycle through our tools for 4 months and regulary post "did you know" type stuff. Each month try and educate ppl about a new category.
 - Slack automation
   - Could a bot help look for terms and remind ppl of the correct term
-  - or "it looks like you're asking about testing tools. are you? if so, here's a section of docs about it)
+  - or "it looks like you're asking about testing tools. are you? if so, here's a section of docs about it"
+  - Using these as keywords to which a bot could respond w/a canned response. point of contact, or links to docs in that category
+- Categories in the newsletter, almost like the sections of a newspaper
 - Could we work it into VSP documentation guidelines that Gretchen has already developed (normalizing a taxonomy at scale to be a point of reference for all teams to use in any comms things they might do)
   - So you're going to talk about the Platform? Here's a doc to help w/labeling choices, how to orient what the topic is in the larger context of the platform
+- Roadshow deck about what we do
+- Internal VSP onboarding deck about what we do
+- VFS onboarding deck about what Platform does
+- Team doc/deck/collateral that's like "so you're gonna talk about Platform and explain what we do. Here's how."
+- Point of contact list organized by theme. "Who to talk to about x"
+- Documentation workflow, like if you're writing a doc about this thing, what's the process for knowing you  have approval from appropriate ppl to get the doc into the wild. Point of contact for these themes for the purposes of publishing docs.
+- RACI as leadership team against these columns/themes/categories
+- Team Charters (in the section about what Platform products teams are responsible for)
+- VSP Products folder in the documentation site, instead of one flat list
+- Targeting specific groups like designers, engineers, product people
+  - Some of the categories align w/discipline (like analytics), could we target comms to certain ppl who'd need to know that info.
+  - Like we have new standards for Identity, the people who are doing those jobs might need to know about info being updated and might need orientation
 
 ## Thoughts around a pilot and next steps
 
