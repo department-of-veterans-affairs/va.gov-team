@@ -1,3 +1,11 @@
+### 10/2 Update
+
+- In meeting with Matt Self, we finalized two requirements:
+  - The wizard should be placed on all education form application pages.
+  - The skip button should be a global element for the wizard.
+- Rationale: One of the key drivers of this initiative is to reduce number of “incorrect” applications for benefits (e.g. the veteran is not eligible), so the Wizard should serve as a lite-weight gating tool.  The  skip button makes this relatively frictionless.
+- Follow up: John and Matt to connect with Amy Knox and Luke Tickner early next week to make sure there is alignment/agreement on this "global approach" as Amy had indicated earlier that she did not believe the Wizard was necessary for the Rogers STEM application.
+
 ### 9/29 Update
 - As time/capacity allows (balancing #1 PW priority Learning Center and Iris), Liz (with Peggy and Mikki's help) is continuing to work on UX comps and Content documentation to detail changes and enhancements -- with focus on Disability and Education.
 

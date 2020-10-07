@@ -1,4 +1,49 @@
-# VA Online Scheduling Product Outline
+
+<br />
+  <h1 align="center">VA online scheduling on VA.gov</h1>
+
+  <p align="center">
+    Homepage for all VA online scheduling app (VAOSR) Documentation
+    <br />
+    <a href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=180908234">Demo</a>
+    ·
+    <a href="https://app.flowmapp.com/share/0fdcf2559a4c55625591f89c2e5d7649/userflow/83089/">View User Flow</a>
+    ·
+    <a href="https://github.com/department-of-veterans-affairs/va.gov-team/projects/13">Roadmap</a>
+    ·
+    <a href="https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vaos&repos=133843125">Product Backlog</a>
+  </p>
+</p>
+
+# Table of Contents
+
+### About the product (VAOSR) 
+- [User Problem Statement](#user-problem-statement)
+- [Solution Goals](#solution-goals)
+- [Assumptions](#assumptions)
+- [Requirements and Constraints](#requirements-and-constraints)
+- [Discovery Takeaways](#discovery-takeaways)
+- [Solution Approach](#solution-approach)
+    - [MVP](#mvp-implementation)
+- [Value Propositions](#value-propositions)
+- [OKRs](#okrs)
+
+### Implementation Information
+- [Status](#status)
+- [How to Access and Test](#how-to-access-and-test)
+- [Error Handling](#error-handling)
+- [Service Level Objective](#service-level-objective)
+- [API Calls and Dependent Systems](#api-calls-and-dependent-systems)
+- [Resources and Documentation](#resources-and-documentation)
+- [Keywords](#Keywords)
+- [Team](#team)
+- [Screenshots](#screenshots)
+
+---
+## Key Documents + Team Members
 - GitHub Label: [vaos](https://github.com/department-of-veterans-affairs/va.gov-team/issues#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vaos&repos=133843125&showPipelineDescriptions=false)
 - Chat
   - [DSVA Team Slack - #vaos-team](https://dsva.slack.com/channels/vaos-team)](https://app.slack.com/client/T03FECE8V/CMNQT72LX), [#vaos-eng](https://app.slack.com/client/T03FECE8V/CSCD0B1V3)
@@ -30,35 +75,7 @@
   - Product Manager Lead: Lenae Storey
 - Full VAOS-R User Experience Flow: [VAOS-R User Flow Mapped](https://app.flowmapp.com/share/0fdcf2559a4c55625591f89c2e5d7649/userflow/83089/)
 
----
-
-### Table of Contents
-
-# Executive Summary 
-- [User Problem Statement](#user-problem-statement)
-- [Solution Goals](#solution-goals)
-- [Assumptions](#assumptions)
-- [Requirements and Constraints](#requirements-and-constraints)
-- [Discovery Takeaways](#discovery-takeaways)
-- [Solution Approach](#solution-approach)
-    - [MVP](#mvp-implementation)
-- [Value Propositions](#value-propositions)
-- [OKRs](#okrs)
-
-# Implementation Information
-- [Status](#status)
-- [How to Access and Test](#how-to-access-and-test)
-- [Error Handling](#error-handling)
-- [Service Level Objective](#service-level-objective)
-- [API Calls and Dependent Systems](#api-calls-and-dependent-systems)
-- [Resources and Documentation](#resources-and-documentation)
-- [Keywords](#Keywords)
-- [Team](#team)
-- [Screenshots](#screenshots)
-
----
-
-# Executive Summary
+# About VA online scheduling product
 
 ## North Star Goal of Online Scheduling 
 Deliver a seamless and positive experience for any Veteran who wants to schedule an appointment online 

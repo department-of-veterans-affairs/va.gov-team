@@ -11,13 +11,13 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 | Submit Disability Comp (526ez Original Claim)       | vsa-bam-1     | Q1        | --        | Q2        | Q3        | **(COMPELETE 07072020)**
 | Submit BDD Claim (526ez)                            | vsa-bam-1     | Q1        | Q3        | Q3        | Q4        | External dependencies; in testing Aug 2020
 | View Rated Disabilities                             | vsa-ebenefits | Q1        | Q1        | Q1        | Q2        | **(COMPELETE 05022020)**; redev to BGS Q4
-| BGS Platform Integration                       | vsa-ebenefits | Q1        | --        | Q2        | Q4        | Must complete for Dependency Claims, Payments, and other features
+| BGS Platform Integration                            | vsa-ebenefits | Q1        | --        | Q2        | Q4        | Must complete for Dependency Claims, Payments, and other features
 | View Dependents on Award                            | vsa-ebenefits | Q1        | Q1        | Q2        | Q4        | Launch with Modify
 | Modify Dependents (686c/ 674)                       | vsa-ebenefits | Q2        | Q2        | Q2        | Q4        | New dev on full 2018 686c (EBN using 2014 686c), BGS integration
 | Dependency Verification                             | TBD           | Q4        | Q4        | Q1 FY2021 | Q1 FY2021 | New USB priority as of Q4
 | Pension Automation: Dependency Claims               | vsa-ebenefits | TBD       | TBD       | TBD       | TBD       | New USB priority as of Q4
 | View My Payments                                    | vsa-ebenefits | Q2        | Q2        | Q3        | Q4        | BGS integration
-| Apply for PCPG CH36 (8832)                          | vsa-ebenefits | Q3        | Q3        | Q3        | Q4        | Submit to Central Mail; project Oct 22 2020 launch for program alignment
+| Apply for PCPG CH36 (8832)                          | vsa-ebenefits | Q3        | Q3        | Q3        | Q2 FY2021 | Submit to Central Mail; project Jan 4 2021 launch for program alignment
 | Apply for VRE CH31 (1900)                           | vsa-ebenefits | Q3        | Q3        | Q3        | Q1 FY2021 | New VRE (CMS) integration required; project Dec 2020 MVP launch for program alignment
 | Update Direct Deposit (EDU)                         | vsa-ebenefits | Q1 FY2021 | --        | --        | Q1 FY2021 | BGS Integration
 | View My Documents (eFolder)                         | vsa-bam-2     | Q3        | Q3        | Q4        | Q4        | VBMS integration, filtering only to my uploads/ my POA uploads

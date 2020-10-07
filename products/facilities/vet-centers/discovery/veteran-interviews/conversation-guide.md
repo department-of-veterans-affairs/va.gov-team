@@ -154,6 +154,10 @@ Are you familiar with this website?  Take a minute to look it over. I'm happy to
 
 - Is there anything that you don't like on this page?
 
+[navigate to eligibility]
+
+- What's your understanding of eligibility?
+
 I'm going to pull up another website to look at it together.
 
 #### Scenario 
@@ -182,6 +186,14 @@ Take a minute to look at this page. Let's focus on this area here:
 
     - Is there any other information about the services available at this Vet Center that you'd like to see?
     
+- If you needed one of these services and you didn't know Vet Centers existed, how would you go about finding it? (use their preferred example)
+
+    If online,
+    
+     - Where would you go? 
+    
+     - What would you search for?
+
 - Are there other services that you don't see on this list that you'd like to see?
 
 - Is there any other information that you don't see on this page that you would find helpful?

@@ -17,26 +17,29 @@
 
  5.  Questionnaire is saved as a clinical note or discrete data so the clinical care team can easily view in preparation, during, or after the visit. 
 
-## Definition of done
-
-- [ ] #12406 - [BE] Spike for VAMF using smart-fhir-PGD
-
-
 > As a Veteran, ...
+> As an administrator of the MAP PGD, I need to understand what data fields will be captured by the Clipboard application, and how those data fields will be mapped to FHIR Questionnaire/Questionnaire Response Resources so I can confirm compliance with FHIR and PGD specifications. Additionally, I need to know if any discreet data being captured should also be stored in other relevant FHIR Resources in PGD.
 
-* **Use Case:** Veterans need the ability 
+* **Use Case:** 
 
-* **Description:**
 
 ## Product Features
 
-
-
+### FHIR Mapping to GetCare Questionnaire - see tech documentation below for MAP fields used for reference
+1. **reason** - What is the reason for this appointment? 
+   - Questionnaire field = Are there any additional details you'd like to share with your provider about this appointment?
+2. **otherConcerns** - Do you have other concerns or life issues to discuss? 
+   - Questionnaire field = Are there any other concerns or changes in your life that are affecting you or your health? 
+3. **talkingPoints** -  What do I want to talk about at this appointment?
+   - Questionnaire field = Do you have a question you want to ask your provider?  Please enter your most important quesition first. 
+   - **??? see mockup this field can have multiple questions entered seperately so is that possible with the GetCare mapping to 1 field as we would need 1-many of our questions mapped to their single.** 
 
 ## Mockup
-<img src="insertimage embedded" width="500">
+<img src="https://lh4.googleusercontent.com/SqKG7LYfCH1t3OvNWQIu1PtZAjFMtTsGYavm_qJdZKOydbaJ69SNRr7Zj9CHce-zExeCH2_zL5CAx0flntQfmG80NKO-GN_5NDnZWKBYUiLFmhdf06gAwrX-vZUxltjqXKELJHbK" width="500">
 
 # Technical Documentation 
+- [va.gov Clipboard System Design Document (SDD)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/engineering/MAP/Clipboard_vagov_sdd.md)
+- [Clipboard Fhir Mapping v1.0.xlsx](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/data/Clipboard%20Fhir%20Mapping%20v1.0.xlsx)
 
 ## Accessibility Checklist
 
@@ -101,7 +104,6 @@
 
 ## OKR's
 
-
 ---
 ## Issue Tracking 
 
@@ -109,6 +111,8 @@
 | ---------------------------------------------------| ---------- |  ---------    | ---------      | ---------       | --------- | ----- | 
 |[Visit Intro Initiative (Proof of Concept)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/visit-intro.md)| [#12102](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12102) |  -   | - | - |Q3 2020| N |
 |[Feature Outline- Patient Generated Data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/pgd.md) | [#12172](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12170) |  -   | - | - |Q3 2020| N |
+|BE- Spike for VAMF using smart-fhir-PGD | [#12406](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12406) |  -   | - | - |Q4 2020| N |
+
 
 * Instructions to access in Staging
 _Note: credentials should be stored in sensitive repos only_
