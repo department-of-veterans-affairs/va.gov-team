@@ -2,9 +2,9 @@
 When you need a form to be prefilled with data from one of our back end services it can be hard to know where to start or what files need to be set up. This document provides a basic overview of how prefill works as well as how to get a very basic prefill setup for a specific form.
 
 ### How prefill works
-In order to make Veteran's lives easier we have a feature that can prefill a form on VA.gov with data so that the Veteran does not have to fill that section of the form out manually. Prefill has a back end requirements as well as front end requirements to get it set up. Let's start with the back end -
+In order to make Veteran's lives easier we have a feature that can prefill a form on VA.gov with data so that the Veteran does not have to fill that section of the form out manually. Prefill has a back end requirements as well as front end requirements to get it set up. 
 
-<details><summary>Back end for prefillE</summary>
+<details><summary>Back end for prefill</summary>
 
 
 Prefill uses a set of files on the back end to call services that have veteran data, such as VET360 or EVSS, and pass that data to the front end. Since we reuse prefill there is already a decent amount of data you can prefill with very minimal setup, these things are declared in `vets-api/app/models/form_profile.rb` and include -
@@ -173,3 +173,22 @@ vre_counseling:
 ```
 >In sticking with our same example where we named our form `vre_counseling`, we have set `prefill` to `true` for that form. You should now be able to test your prefill. It should be noted that much of the prefill will NOT work on your localhost and generally needs to be tested on staging.
 </details>
+
+<details><summary>Front end for prefill</summary>
+In order for prefill to work we need to do some setup on the front end. The main things we need to do are -
+1. Set `prefillEnabled` to `true` in our formConfig file
+
+
+##### 1. Set prefill enabled to `true`
+The biggest thing we need to do is to make sure that in our `formConfig.js` file inside the formConfig object that `prefillEnabled` is set to `true` like this -
+```javascript
+const formConfig = {
+...
+prefillEnabled: true,
+...
+}
+```
+</details>
+
+
+
