@@ -40,7 +40,7 @@ Users were given a link to the CH36 wizard and asked, "Please take a look at thi
 - When the wizard question led to a "stop," users understood they did not qualify; several wanted links to alternate resources or information
 
 #### Will users identify the differences between the CH31 and CH36 programs and select the right form(s)?
-Three users navigated to the CH31 wizard. They were asked, "So do you know why you were sent here?", "How is this different from the previous page/screen/form?", and  "Please look at this page and see if you qualify."
+Three users navigated to the CH31 wizard. They were asked, "Why were you were sent here?", "How is this different from the previous page/screen/form?", and  "Please look at this page and see if you qualify."
 
 - The VA program "branding," PCPG and VR&E was lost on participants; CH36 and CH31 were more meaningful to some users
 - A couple of users identified the link(s) to the CH31 wizard (on the CH36 intro and confirmation screens); they generally confused this link with CH36 when seeing it on the intro screen, but understood it was another program when they saw it on the confirmation screen
