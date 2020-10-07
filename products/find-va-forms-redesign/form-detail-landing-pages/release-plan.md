@@ -12,7 +12,7 @@ Per product sync today - We will launch batches per steps:
 3. Fix any reported bugs if any. 
 
 
-**II. Batch 2 release** :arrows_counterclockwise:
+**II. Batch 2 release** :white_check_mark:
 
 4. **Publish batch 2 forms - still behind basic auth gate.** 
 
@@ -20,10 +20,10 @@ Per product sync today - We will launch batches per steps:
 
 6. Fix bugs if any. 
 
-7. Remove basic auth. and Add to sitemap :arrow_left:
+7. Remove basic auth. and Add to sitemap 
 
 
-**III. After basic auth removed**
+**III. After basic auth removed** :arrows_counterclockwise:
 
 8. Implement Batch 1 form pages redirects - 1:1 redirects
 
