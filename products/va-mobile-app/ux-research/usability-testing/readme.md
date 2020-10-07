@@ -22,13 +22,15 @@ Between now and late November (9 weeks) we would like to focus on the following:
 - Develop the UI/UX for each screen, guided by R1 feedback 
 - Define accessibility criteria for each screen
 - Build screens
+- Design QA and QA screens 
 - Deliver MVP into Test Flight
 - Release on Test Flight to a small group of internal folks
+  - When we do release the app on Test Flight to internal folks, we want to have an open communication line for their feedback.
 
 ### Post-November: what's next?
-After delivering the MVP into Test Flight in late November, we would like to test the app in Test Flight with Veterans. We'd like to do this to: 
-- Usability test the app, and move away from focusing on content feedback. Test Flight rather than Invision will create a testing environment where we can best identify where the usability of the app needs to be improved pre-release and get a sense of how Veterans interact with the live code on a mobile device. 
-- Test accessibility features such as Voice Over with blind or low vision users. 
+After delivering the MVP into Test Flight in late November, we would like to test the app in Test Flight with Veterans that we recruit with Perigean using the VSP research cycle. We'd like to do this to: 
+1. Identify where the usability of the app needs to be improved pre-release by testing the live app on device
+2. Test accessibility features such as Voice Over with blind or low vision users
 
 #### Assumptions and unknowns 
 - We do not yet have a launch date for the app store, but that date will likely be sometime early-mid 2021. 
