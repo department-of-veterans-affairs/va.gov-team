@@ -1,5 +1,24 @@
 # Samara's design feedback
 
+## Feedback 10.7.20
+
+**Overview area**
+
+*Enrolled view*
+
+- Thank you for removing the information I asked you to remove. 
+- I think you can handle this area more elegantly. You're repeating a lot of information. With the large "Health care" heading, "Your VA Health Care" and "You are enrolled in VA health care" become redundant. By this section being there, the user knows they are enrolled in VA health care. How can you clean up this section? This pattern does not need to be reused for people whose applications are incomplete, rejected, or closed or people who haven't applied.
+
+*Not enrolled*
+
+- This feels like the information is floating out in the middle of nowhere. I realize this changes some things in the data spreadsheet, but this is how I think we should handle this section:
+  - If a peron has not applied, **do not show this section**. We can include messaging on how to apply elsewhere on the page.
+  - If a user has applied but their application is either incomplete, rejected, or closed, we **should** show this section with that application status.
+  
+**Appointments**
+
+- I'd like to see how you would handle multiple appointments.
+
 ## Feedback 10.6.20
 
 ### Section: Health care
