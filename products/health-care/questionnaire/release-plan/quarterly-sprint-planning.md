@@ -11,95 +11,25 @@
 - [q4-2020-target-launch](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q4-2020-target-launch.md)
 
 
-## Sprint 37 - MVP Ready for Production
-12/16/2020 - 12/29/2020
-- [Milestone 371](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/371)
-
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
-| [UI]  | -- | # |
-| [FE]  | -- | # |
-| [BE]  | -- | # |
-
-## Sprint 36 - Theme Name
-12/2/2020 - 12/15/2020
-- [Milestone 370](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/370)
-
-| Goal/Objective | Status Notes | Epic/Issue#	|
-|-|:-:|:-:|
-| [UI]  | -- | # |
-| [FE]  | -- | # |
-| [BE]  | -- | # |
-
-
-## Sprint 35 - Theme Name
-11/18/2020 - 12/1/2020
-- [Milestone 369](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/369)
-
-| Goal/Objective | Status Notes | Epic/Issue#	|
-|-|:-:|:-:|
-| [UX] Create interactive MVP prototype   	| -- |  |
-| [UI] MVP Usability Testing 	| -- |  |
-| [FE]  | -- | # |
-| [BE]  | -- | # |
-
-## Sprint 34 - Theme Name
-11/4/2020 - 11/17/2020
-- [Milestone 368](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/368)
-
-| Goal/Objective | Status Notes | Epic/Issue#	|
-|-|:-:|:-:|
-| [UI]  | -- | # |
-| [FE]  | -- | # |
-| [BE]  | -- | # |
-
-
-## Sprint 33 - Theme Name
-10/21/2020 - 11/3/2020
-- [Milestone 367](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/367)
-
-| Goal/Objective | Status Notes | Epic/Issue#	|
-|-|:-:|:-:|
-| [UI] Questionnaire List Complete | -- | #  |
-| [UX/FE] IA for navigation on va.gov	| -- |  |
-| [FE]  | -- | # |
-| [BE]  | -- | # |
-
-
-## Sprint 32 - Proof of Concept Usability Testing
-10/7/2020 - 10/20/2020
-- [Milestone 366](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/366)
-
-| Goal/Objective | Status Notes | Epic/Issue#	|
-|-|:-:|:-:|
-| [UI] Create Usablity Testing Prototype  	| -- | #13627 |
-| [UI] Hold Usability Testing Sessions	| -- | #14208 |
-| [FE] KT with new BE engineer | -- | # |
-| [FE] SPIKE - Cards Design| -- | #14313 |
-| [FE] Pre-fill RFV with Mock data | -- | #13670 |
-| [BE] All things KT for Onboarding new teammember | # |
-| [BE] Read and write appt. and PGD with questionnaire service | #13599 |
-| [Product] Success Metris	| -- |  |
-
-
-
-
-### Not assigned to a sprint 
-
-| Goal/Objective | Status Notes | Epic/Issue#	|
-|-|:-:|:-:|
-| [BE] Start tech implementation Questionnaire Trigger Service | -- | #  |
+| [BE] Start tech implementationQuestionnaire Trigger Service | -- | #  |
 | [UX/FE] Save in Progress | -- | #  |
 | [UX/FE] Print PDF of Questionnaire | -- | #  |
-| [FE] Questionnaire List | -- | #  |
+| [UI/FE] Questionnaire List | -- | #  |
 | [BE] Appt Status updates | -- | #  |
 | [UX/BE/FE] Notifications via Appt Reminders/link | -- | #  |
 | [UX/FE] Demographics Banner  | -- | #  |
+| [UX] Create interactive MVP prototype   	| -- |  |
+| [UI] Usability Testing 	| -- |  |
 | [Product] Change Management for Implementation 	| -- |  |
 | [Product] External /Call Center troubleshooting Documentation	| -- |  |
 | [All] Collab Cycle Approvals for Pros 	| -- |  |
+| [UX/FE] Demographics Standards update with Platform if approved	| -- |  |
+| [UX/FE] List Loop enhancement with Platform if approved	| -- |  |
+| [UX/FE] IA for navigation on va.gov	| -- |  |
 | [UX/FE] Analytics	| -- |  |
-
+| [Product] Success Metris	| -- |  |
 
 </details>
 

@@ -1,24 +1,15 @@
 # VSA Accessibility Review Process 
 
-
-<hr/>
-
-**[Rate this documentation](https://forms.gle/D3urPe2VbLqVd5pcA)**
-
-We'd like to know if the documentation is meeting your needs, and welcome your feedback!
-
-<hr/>
-
-
 For reference: [508, Accessibility, and Inclusive Design Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md)
 
+<hr>
 
 **Please note:** 
 VSP just rolled out the [VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle) for medium-to-large projects. For small-to-medium projects, it is still necessary to contact them in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) to determine which steps of the cycle are appropriate. 
 
 VSA has additional accessibility processes. 
 
-
+<hr>
 
 ## Table of contents
 

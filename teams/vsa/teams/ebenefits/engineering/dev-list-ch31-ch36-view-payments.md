@@ -101,7 +101,7 @@ Total = 7
 - Unit test the non-static Veteran Info page  (3)
 - Unit test the Veteran Address page  (3)
 - Unit test Communication Preferences  (3)
-- [#12050](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12050) Unit test Additional Info page  (3)
+- Unit test Additional Info page  (3)
 - Add schema to `vets-json-schema`  (5)
 - Unit test schema  (3)
 - Connect and test BE endpoint for CH31 (2)

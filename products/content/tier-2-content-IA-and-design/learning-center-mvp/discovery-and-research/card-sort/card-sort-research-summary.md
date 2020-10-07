@@ -369,7 +369,7 @@ In most cases, the unexpected associations people made were logical, and seemed 
 - With many of our key data points near 50%, the data doesn't conclusively support any changes one way or the other.
 - This validates that our plan to include articles in multiple topic categories will help surface content for Veterans with a variety of mental models.
 
-#### There was a high association between `claims` and `disability`; 2 Veteran participants created a category called `Claims`.
+#### There was a high association between `claims` and `disability`; 2 participants (Veterans or SMEs?) created a category called `Claims`.
 
 The majority of participants mapped articles with the word `claim` in it to the `Disability` category, instead of the topic we identified as being primary.   This suggests that Veterans think about claims in the context of disability benefits, even though other VA benefits are also claims and have claims status.
 

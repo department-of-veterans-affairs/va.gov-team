@@ -5,15 +5,12 @@
 
 ---
 
-Since this is cross-team collaboration, design work may also be tracked in the Authenticated Experience team folder here: 
-https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design
-
 ### Design
 
 | Screens | Links | Text Sources | Last Rev | |
 | :--- | :--- | :--- | :--- | :--- |
-| Concept Mockups | [Adobe XD](https://xd.adobe.com/view/532272b2-b423-4e1b-a8c6-d1a583da3d37-0671/?x_product=cc-slack%2F1.5.0) | Do not use for text | TBD | --- |
-| Prototype | [UXPin]() | Not yet available | TBD | --- |
+| Concept Mockups | [Sketch]() | Do not use for text | TBD | --- |
+| Prototype | [UXPin]() | Get text from prototype | TBD | --- |
 
 #### Information architecture
 
@@ -25,24 +22,18 @@ https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/produc
 
 [Direct deposit for EDU discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/edu-dd-discovery.md)
 
-[Prior direct deposit discovery document for Compensation and Pension](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/discovery-research#post-911-gi-bill)
+[Direct Deposit Info on VA.gov]()
 
-#### Existing web pages
+[Direct Deposit Info on VA.gov]()
 
-[Change your VA direct deposit information (VA.gov)](https://www.va.gov/change-direct-deposit/)
-
-[Direct Deposit and Contact Information Update (eBenefits)](https://www.ebenefits.va.gov/ebenefits/about/feature?feature=direct-deposit-and-contact-information)
-
-#### VA Form
-
-[VA From 29-0309](https://www.vba.va.gov/pubs/forms/VBA-29-0309-ARE.pdf) `Is this current?`
+[Direct Deposit Info on VA.gov]()
 
 ---
 
 ### Mockups Changelog
 
-**October 1, 2020**
-- WIP initial concepts
+**Initial concepts**
+- TBD
 
 ### Prototype Changelog
 

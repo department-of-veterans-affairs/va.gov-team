@@ -58,73 +58,33 @@ Note: Lihan will also be working on [#12089](https://github.com/department-of-ve
 
 ### Profile 2.0
 
-Any tickets that aren't finished from sprint 31, plus:
-
-- Additional bug fixes and post-launch enhancements
-
-Note: I have regrouping with platform for a post-launch and initiating the 508 review set for next sprint.
+- 508 review, post launch review with platform team, any post-launch enhancements
 
 ### Logged-in homepage
 
-**PM**
-
-- Help create tickets for the disability/claims section design work.
-
 **Design**
 
-*Phase 2: Design Healthcare, Disability/Claims sections*
+Phase 2: Design Healthcare, Claims sections
 
-Note: The goal was to have the health care section largely completed in sprint 31 and then to start on the disability/claims section this sprint. Based on out 10/2 convo with Tressa and Cassandra, I think they're behind and I'm questioning whether the disability/claims section will be started this sprint. However, we should get the disability/claims section tickets created and talk about long term planning with them over the next 3ish sprints.
-
-Any tickets that aren't finished from sprint 31, plus:
-
-- LIH Navigation #14360 (if not wrapped up)
-- Healthcare: Send a secure message to your health care team #13920
-- Healthcare: Schedule and view your appointments #13921
-- Design for Health Care Application "status" update #7457
-- Copy/Messaging for Health Care Application (HCA) "status" section #7455
-- Work with copy on sections that are already complete
-- Start design for disability/claims section
+- Get feedback on health care section; make updates
+- Design disability/claims section
 
 ### Direct deposit for Edu
 
 **PM**
 
-Any tickets that aren't finished from sprint 31, plus:
-
-- Project Kickoff [Direct Deposit for Education Benefits] #14167
+- [Platform checkpoint: Project kickoff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#project-kickoff)
 - Depending on where design is, maybe hold the [design intent checkpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#design-intent-collaboration) as well
-- **Jim Adams** Create Initial Mockup for EDU Direct Deposit #13810 
-
-### 10/24 Cerner update
-
-- [FE] My VA: Cerner go-live updates for Spokane facilities on 10/24 #13832
 
 ### Preferred Facility technical discovery
 
-- Samara to continue trying to get additional information to determine next steps
+- What still needs to happen for [#12875](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12875)?
 
 ### VA Profile: Remove instances of "Vet360"
 
-Note: This is a DevOps tickets, and I am figuring out who can work on it. However, keeping it here since Lihan may be helping in come capacity and since I have to make sure it gets done.
-
 - [BE/DevOps] Change instances of "https://env.vet360.va.gov/" to "https://env.vaprofile.va.gov/" in INT, QA, PPD, PRD environments #14188
 
-### VA Profile: Issue with bogus addresses being saved
-
-- Critical: Investigate VA Profile issue to determine whether veteran account has been hacked [#175](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/175)
-- Add address form field validation to prevent users from entering web URLs #14471
-
-### Pact work
-
-- [BE] - Setup Pact test #14234
-- [FE] - Write Pact test #14233
-
 ## Sprint 33 (10/21 – 11/3)
-
-### Profile
-
-- 508 review, post launch review with platform team, any post-launch enhancements
 
 ### Logged-in homepage
 

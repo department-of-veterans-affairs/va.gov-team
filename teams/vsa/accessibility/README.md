@@ -2,14 +2,6 @@
 
 In this folder, you'll find information specific to how 508 Accessibility works on VA.gov.
 
-<hr/>
-
-**[Rate this documentation](https://forms.gle/D3urPe2VbLqVd5pcA)**
-
-We'd like to know if the documentation is meeting your needs, and welcome your feedback!
-
-<hr/>
-
 ## Table of Contents
 
 * [Communication channels](#communication-channels)

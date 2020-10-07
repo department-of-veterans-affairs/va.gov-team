@@ -3,13 +3,13 @@
 ---
 
 ## Guideposts
-### Mission:
+### Team Mission:
 Provides Veterans, family members, caregivers, service members and other audiences access to vital information about VA benefits and services.
 
-### Vision:
+### Team Vision:
 We envision a world where it takes less time to find information about VA benefits and services than it does on Google. 
 
-### North Stars:
+### Team North Stars:
 1. Increase the use of self-service tools and associated number of conversions
 2. Decrease time users spend waiting for an outcome
 3. Consistent Customer satisfaction, reliability and secure online UX

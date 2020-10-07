@@ -1,6 +1,6 @@
 # Product Outline: Combine Profile and Account (Profile 2.0)
 
-Last Updated September 30, 2020
+Last Updated September 28, 2020
 
 ## Communications
 
@@ -238,7 +238,7 @@ Currently, the profile satisfaction score is pretty low. My hypothesis is that p
 - **June 2020**: Build; additional design as needed.
 - **July 2020**: Finish build; QA; pre-launch.
 - **Aug 2020**: Pre-launch; UAT.
-- **Sept 2020**: **LAUNCH! 25% of users on September 16; 50% of users on September 23; 100% of users on September 30.**
+- **Sept 2020**: **LAUNCH! 25% of users on September 16; 50% of users on September 23; 100% of users on X.**
 
 ## How to Access and Test
 

@@ -2,14 +2,6 @@
 
 ## mm/dd/yy
 
-## 10/6/20 
-
-__Decision__
-
-Final name of learning center per PW content and IA teams: Resources and support
-
-
-
 ## 9/23/20 
 
 See summary of findings from search.gov call wrt learning center search: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/search-feature-inside-LC/README.md#summary-of-call-with-searchgov-on-918

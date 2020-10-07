@@ -24,39 +24,48 @@ VFS Engineers who are tracking errors for their application.
 
 ---
 
+## Assumptions
+- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+
 ## Solution Approach
 
 ### Initial Launch
 
+- Sentry 10 needs to be deployed in the new infrastructure defined by the Operations team on the VSP.
 - Sentry 10 needs to be configured with the correct enviornment tags
-- All exisiting Projects need to be configured to be using Sentry 10
 - Teams need to be setup and users added to their corresponding teams.
-
-Note: Sentry 10 will be accessed through sentry10.vfs.va.gov, Sentry 9 will still be available at sentry.vfs.va.gov
-
-#### Phase 2 - URL Updates
-
-Sentry 10 will be available through the following URls:
-- sentry.vfs.va.gov
-- sentry10.vfs.va.gov (will become an alias)
-
-Sentry 9 will have a new URL (TBD by Ops team) and will remain active for a certain amount of time before being deprecated (deprecation will be determined by Ops)
+- All integrations need to be setup and conigured appropraitly.
 
 
 ### Integration Additions
-
-These additions have been slated to be included in Q4 of 2020 and not as part of the initial release.
 
 - GitHub Integration is complete and connected to the relevent repositories that need to be tracked as well as github teams are utilized to organize users.
 - Slack integration is complete
 
 ## Launch Dates
-- *Initial Launch Date*: October 6th, 2020
-- *URl Update* October 13, 2020
-- *Integration Launch Date*: TBD (Q4 2020)
+- *Initial Launch Date*: End of Q3
+- *Integration Launch Date*: TBD
 
 
 ---
+   
+## Screenshots
+
+_Include before/after screenshots, if applicable. Delete this section otherwise._
+
+### Before
+
+### After
+
+---
+
+## Reference Material
+
+_Link to the following materials as relevant._
+
+- VFS-facing Product README (in `/platform`)
+- Release Plan
+- Any product health or success dashboards
 
 ### Communications
 

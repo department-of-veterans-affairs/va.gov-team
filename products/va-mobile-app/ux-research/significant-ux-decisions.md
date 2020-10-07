@@ -2,7 +2,7 @@
 
 Last updated: September 23, 2020 
 
-_Decisions made Monday September 21 in alignment between Bridget, Ryan, Martha, Steve, Sophie unless otherwise noted_
+_Decisions made Monday September 21 in alignment between Bridget, Ryan, Martha, Steve, Sophie_
 
 # Background and goals
 In discovery work beginning March 2020, we determined that Veterans desire a VA mobile app with authenticated features. Through tech and design discovery we decided on an MVP feature set. We are now designing the UX/UI for the MVP app, which will be built in React Native for iOS and Android. 
@@ -63,12 +63,6 @@ After discussions with teammates with Android development experience and reviewi
     - A toolbar is within the "thumb zone", allowing some users who are able to navigate the app with one hand. 
  
 We anticipate redesigning the navigation post-MVP when the feature set expands. Eventually if the app expands to more areas (e.g. education, pension) and stays as one flagship app, the toolbar navigation will not fit. This will be necessary especially once our app branches out into more features and key features may not fit into a bottom navigation as they do with the MVP. 
-
-
-### We will deliver a consistent UI across iOS and Android for MVP. This will help make the app more efficient to build and maintain. 
-Apple's Human Interface Guidelines and Material Design each have different styling conventions that we have become aware of and taken into account during the UI design process. We are designing for iOS first, but have taken care to not focus too heavily on a UI that feels distinctly Apple and would need significant rework for Android. For MVP, we will follow an approach of making the app more efficient to build and maintain, meaning a fairly high level of consistency across Apple and iOS UI. We will lean into platform conventions for each (e.g. top navigation, bottom bar, pick lists) but not drastically change the rest of the UI to be different on each platform.
-
-_Decision made 10/5_
 
 
 -----

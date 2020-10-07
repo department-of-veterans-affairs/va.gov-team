@@ -32,16 +32,11 @@
    - Who is the audience for their content?
    - What is the process for internal scripts that support contact center reps? 
    - Are they different than the process for customer facing content?
-   - What are the processes related to
-     - Creating new content?
-     - Updating existing content?
-     - Retiring existing content?
+   - How does the team determine when they need to create new content?
    - Do they have any content style guides?
    - How does IRIS fit into each center's content flow? 
    - How is content maintained in IRIS?
-   - What other systems are being used? 
-   - What is the process for reviewing drafts?
-   - If they aren't authoring in content in IRIS, what are they using?
+   - What other systems are being used?
    - What's working well for each contact center in terms of content creation and management?
    - What isn't working well?
    - Who can we interview to gain a more in-depth understanding of these processes?
@@ -107,7 +102,7 @@ Please list the people who will be serving in each role.
 - Participant recruiting & screening: Chante Lantos-Swett
 - Project point of contact: Liz Lantz
 - Note-takers: Laura Walsh
-- Invited observers:  Jen Lee, Chante Lantos-Swett, Luciana Morais and Beth Potts
+- Invited observers:  Jen Lee, Chante Lantos-Swett, and Beth Potts
 
 ## Resources	
 

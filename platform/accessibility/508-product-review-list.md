@@ -138,6 +138,8 @@ Back to [Table of Contents](#table-of-contents)
 **Production** | **Opened:** June 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 - [[IMPROVEMENT]: STEM Standalone - CONSIDER using a higher resolution image for the personal check in Step 5 - #12343](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12343)<br/>
 **Production** | **Opened:** August 10, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
+- [[EXPLORATION]: Reconsider structure of multiple pages within a single "part" of a form - #1145](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10095)<br/>
+**Production** | **Opened:** August 20, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
 - [[USABILITY]: Application saved message could be missed by assistive devices - #182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182)<br/>
 **Production** | **Opened:** June 5, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
 - [[COGNITION]: CONSIDER revising content and adding aria-describedby to online form calls to action - #12723](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12723)<br/>
@@ -250,7 +252,8 @@ Back to [Table of Contents](#table-of-contents)
 #### Profile Direct Deposit Feature
 
 **Audit Status:** _Audited by VSP Product Support Team August 2019. Request sent to VA 508 Office October 2019._<br/>
-**No open issues**
+- [508-defect-4 [MOBILE DESIGN] Consider abutting mobile subnav to the top of viewport - #11890](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11890)<br/>
+**Opened:** August 17, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -298,6 +301,8 @@ Back to [Table of Contents](#table-of-contents)
 **Open issues** identified by VA 508 office
 
 - [508-defect-1 ❗ Launchblocker [AXE-CORE, SCREENREADER]: IDs of active elements MUST be unique - #12674](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12674)<br/>
+**Opened:** August 20, 2020 | **Severity:** 508-defect-1 — **_Critical_**
+- [508-defect-1 ❗ Launchblocker [COGNITION, FOCUS MGMT]: Upon completion of processing the form, focus MUST announce the context change - #12691](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12691)<br/>
 **Opened:** August 20, 2020 | **Severity:** 508-defect-1 — **_Critical_**
 - [Sitewide - #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
   **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
@@ -416,6 +421,7 @@ Back to [Table of Contents](#table-of-contents)
 **Open issues**
 
 - [508-defect-2 Fast Follow! [DOCUMENTS]: PDFs MUST be accessibility compliant - #12918](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12918)<br/>**Production** | **Opened:** August 26, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+- [508-defect-3 [SEMANTIC MARKUP]: Radio inputs with the same name attribute value MUST be part of a group - #9174](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9174)<br/>**Production** | **Opened:** May 15, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -453,6 +459,7 @@ Back to [Table of Contents](#table-of-contents)
 - [[COGNITION]: CONSIDER removing duplicated content for child's additional evidence needed accordion - #13017](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13017)<br/>**Staging** | **Opened:** August 28, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
 - [[COGNITION]: CONSIDER updating the label Hours for 18-23 year old students who are enrolled part time - #13018](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13018)<br/>**Staging** | **Opened:** August 28, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
 - [[DESIGN]: CONSIDER re-ordering the confirmation page to support assistive tech better - #13019](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13019)<br/>**Staging** | **Opened:** August 28, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
+- [[CI/CD]: Review coverage of accessibility checks in 686/686c-674 end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7315)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -706,6 +713,8 @@ Back to [Table of Contents](#table-of-contents)
   **Opened:** December 3, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 - [[COGNITION]: GIBCT - "Learn more" is used for modals and windows to new content - #1132](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1132)<br/>
   **Opened:** August 20, 2019 | **Severity:** 508-defect-3 - **_Minor_**
+- [[COGNITION]: GIBCT® - Consider making the tuition and housing breakdowns into definition lists - #1277](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1277)<br/>
+**Opened:** August 23, 2019 | **Severity:** 508-defect-3 - **_Minor_**
   
 Back to [Table of Contents](#table-of-contents)
 
@@ -788,30 +797,19 @@ Back to [Table of Contents](#table-of-contents)
 
 #### GI Bill Estimate Your Benefits
 
-**Audit Status:** _Staging review completed. VSP post-launch audit finished as of October 5, 2020. Ready to send to VA 508 office._<br/>
+**Audit Status:** _Staging review completed. VSP post-launch audit underway as of September 3, 2020._<br/>
 
 **Open issues**
 
-- [[AXE-CORE]: GIBCT EYB - Form elements MUST have labels - #14407](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14407)<br/>
-**Opened:** October 5, 2020 | **Severity:** 508-defect-1 - **_Critical_**
 - [[SCREENREADER]: GIBCT EYB - iOS VoiceOver MUST read out the aria-label of the learn more buttons - #10201](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10201)<br/>
 **Opened:** June 12, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER]: GIBCT EYB - Focus MUST be set on the first added item when Show Next 10 button is pressed - #9953](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9953)<br/>
 **Opened:** June 10, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER]: GIBCT EYB - IE11 MUST announce the updated live region after users press the Update benefits button - #11300](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11300)<br/>
 **Opened:** July 16, 2020 | **Severity:** 508-defect-2 - **_Serious_**
-- [[MOBILE DESIGN]: GIBCT EYB: Skip to your estimated benefits link SHOULD be taller and spaced appropriately - #14409](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14409)<br/>
-**Opened:** October 5, 2020 | **Severity:** 508-defect-2 - **_Serious_**
-- [[COGNITION]: GIBCT EYB - Learn more modal triggers MUST be moved outside labels for VETTEC estimated benefits - #14417](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14417)<br/>
-**Opened:** October 5, 2020 | **Severity:** 508-defect-2 - **_Serious_**
-- [[HEADINGS]: GIBCT EYB - Additional resources headings SHOULD be H2s on all three profile types - #14419](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14419)<br/>
-**Opened:** October 5, 2020 | **Severity:** 508-defect-2 - **_Serious_**
-- [[MOBILE DESIGN]: GIBCT EYB - Responsive tables SHOULD have HTML updated for better mobile presentation - #14420](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14420)<br/>
-**Opened:** October 5, 2020 | **Severity:** 508-defect-3 - **_Minor_**
-- [[DESIGN]: GIBCT EYB - CONSIDER re-aligning the benefits list items for VETTEC providers - #14422](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14422)<br/>
-**Opened:** October 5, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
-- [[DESIGN]: GIBCT EYB - CONSIDER shortening margin between benefit headers on college, OTJ profiles - #14424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14424)<br/>
-**Opened:** October 5, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
+**Opened:** July 16, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+- [[COGNITION]: GIBCT School Locations - Tables SHOULD be responsive when the new component is ready - #11055](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11055)<br/>
+**Opened:** July 8, 2020 | **Severity:** 508-defect-3 - **_Minor_**
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -834,6 +832,7 @@ Back to [Table of Contents](#table-of-contents)
 
 - [[KEYBOARD]: STEM Standalone - Focus MUST be returned to the Edit button when Update page is pressed or clicked - #12338](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12338) <br/>**Opened:** August 10, 2020 | **Severity:** _508-defect-2_ **Serious**_
 - [[COGNITION]: STEM Standalone - CONSIDER revising the optional / required pattern for contacting a user in step 5 - #12341](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12341) <br/>**Opened:** August 10, 2020 | **Severity:** _508-defect-3_ **Minor**_
+- [[TESTING]: STEM Standalone - All accordions SHOULD be opened and tested with axe in E2E suite - #12344](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12344) <br/>**Opened:** August 10, 2020 | **Severity:** _508-defect-4_ **Trivial**_
   
 Back to [Table of Contents](#table-of-contents)
 
@@ -890,8 +889,6 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open issues**
 
-- [508-defect-1 ❗ Launchblocker [SEMANTIC MARKUP]: Loud buzzing occurs using VoiceOver - #14440](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14440)<br/>**Production** | **Opened:** October 5, 2020 | **Severity:** _508-defect-1 - **Critical**_
-- [508-defect-2 [COGNITION]: The page MUST specify the language - #14432](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14432)<br/>**Production** | **Opened:** October 5, 2020 | **Severity:** _508-defect-2 - **Serious**_
 - [[#8248 components, design system [SCREENREADER] Aside MUST not be contained in another landmark](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8248)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
 - [[#8250 sitewide [AXE-CORE]: Landmarks MUST have a unique role or role/label/title (i.e. accessible name) combination](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8250)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
 - [[#8253 sitewide, CMS [SCREENREADER, KEYBOARD, COGNITION]: Links SHOULD look like links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8253)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
@@ -944,7 +941,10 @@ Back to [Table of Contents](#table-of-contents)
 
 **Audit status:** _Staging review completed by VSA, May 12, 2020._<br/>
 
-**Open issues** 
+**Open issues**
+
+* [#8964 [SCREENREADER]: For the current page CONSIDER adding `aria-current="page"` attribute to the sidenav link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8964)<br/>**Staging** | **Opened:** May 11, 2020 | **Severity:** _508-defect-3 - **Minor**_  
+
 * [#8975 [FOCUS MANAGEMENT]: Focus outline SHOULD be consistent - individual nav links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8975)<br/>**Staging** | **Opened:** May 11, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
 
 Back to [Table of Contents](#table-of-contents)
@@ -1018,6 +1018,8 @@ Back to [Table of Contents](#table-of-contents)
 
 - [508-defect-2 Fast Follow! [COGNITION]: Downloaded files SHOULD be consistent with what the user clicked to download - #12184](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12184)<br/>**Staging** | **Opened:** August 6, 2020 | **Severity:** _508-defect-2 Fast Follow - **Serious**_
 - [508-defect-2 [HEADING, COGNITION]: Heading levels SHOULD only increase by one - #12430](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12430)<br/>**Staging** | **Opened:** August 12, 2020 | **Severity:** _508-defect-2 - **Serious**_
+- [508-defect-2 [SCREENREADER, COGNITION]: if links are different, they MUST communicate their differences - #12414](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12414)<br/>**Staging** | **Opened:** August 12, 2020 | **Severity:** _508-defect-2 - **Serious**_
+- [508-defect-4 Enhancement [SCREENREADER, COGNITION]: Consider consolidating the information for the debt letter download links - #12192](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12192)<br/>**Staging** | **Opened:** August 6, 2020 | **Severity:** _508-defect-4 - **Trivial**_
   
 Back to [Table of Contents](#table-of-contents)
 

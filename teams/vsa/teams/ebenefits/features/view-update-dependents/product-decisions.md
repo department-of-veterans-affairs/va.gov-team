@@ -3,25 +3,6 @@
 
 This is to help guide and memorialize decisions made about different functionalities and behaviors for the feature we are working with.  
 -------------
-## Dynamic Form Attribute for 686/674 
-`Date decided`  
-**We send a specific attribute based on what is submitted and this poses an issue when the 674 workflow gets selected because we can't submit two at once.**  
-Options
-- 686 and 674 could be duplicated and submitted separately down to two email confirmations ✔
-- limit workflows based on another selection (eh)
-
-Short term
-- limit with a check box?
-
-Long term
-- establish view dependents and manage the submissions based on that
-  
-_Note/ Guiding principle_
-- Derek is going to game out some steps to take and propose them 
-
-**TL;DR - what does this mean?  what do we do next?**
-
-
 ## Silent Submission Failures  
 `Team Meeting July 16, 2020`  
 **Ticket: [[SPIKE] Cross Discipline Analysis of User Feedback for Form Submissions #11270](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11270)**  
