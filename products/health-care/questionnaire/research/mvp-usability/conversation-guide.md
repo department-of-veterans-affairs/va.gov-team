@@ -69,7 +69,7 @@ I'm going to send you a link in the chat. Once you pull up the link, will you sh
 [Mobile Prototype](https://preview.uxpin.com/a15205c1bedcdfc8fe46fed26c22fa731cab8ae0cvhidm)<br/>
 [Desktop Prototype](https://preview.uxpin.com/e9e0dc597bb076e74db05f77d35306496a89fca2cvhidm)
 
-**Task: Pretend that you (your name in the prototype will be William Nelson) just scheduled your annual physical exam with your primary care provider. To allow your care team to better meet your needs at the appointment, they are requesting you fill out a previsit questionnaire. Complete this questionnaire.**
+**Task: Pretend that you (your name in the prototype will be Hector Allen) just scheduled your annual physical exam with your primary care provider. To allow your care team to better meet your needs at the appointment, they are requesting you fill out a previsit questionnaire. Complete this questionnaire.**
 
 _Guide the user to fill in no more than two questions on the Prepare for Your Appointment page._
 _Only give additional direction if the Veteran gets stuck completing the task._<br/>
@@ -85,7 +85,7 @@ _Only give additional direction if the Veteran gets stuck completing the task._<
 ## Reviewing Screens in More Detail - 25 minutes (total for all pages)
 
 Great, thank you for doing that exercise. Next, we are going to go back to the beginning of the questionnaire, so I can ask more questions about each page.<br/>
-_Help them navigate back to the introduction page._
+_Help them navigate back to the introduction page by clicking the header of the confirmation page._
 
 ### On the Introduction page - 10 minutes
 - _Ask if the Veteran didn't review the entire page during the Usability Task._ I saw that you immediately clicked the sign in button during the first activity. Take some time now and review the rest of the page.
