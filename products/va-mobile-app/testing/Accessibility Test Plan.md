@@ -13,7 +13,7 @@ The following items are based on WCAG 2.0 and Section 508 accessibility standard
 - Applicable WCAG 2.1 requirements are also included to reference best practice and may be followed in cases where added implementation scope is minimal.
 - Accessibility standards that relate to non-existent functionality in the app are marked N/A. In the event that the app’s design changes to include relevant functionality, these standards will be candidates to prioritize as requirements. 
 
-
+*See Table for Checklist:*
 
 ## Section 2: Test Environment 
 
@@ -24,6 +24,7 @@ These devices will be selected from the Device Matrix based on availability duri
 
 While additional configurations may exist on other devices (i.e. non-Samsung Android devices), these settings are likely to be driven by personal user preferences and to go beyond fundamental platform accessibility capabilities.
 
+
 ### Test Tools 
 Multiple testing tools will be used to ensure adequate testing coverage. Where possible, platform specific assistive technology will be used to inspect accessibility properties that manifest differently across platforms. 
 - Voiceover (iOS), and Talkback (Android) will be used to test Screen Reader capabilities 
@@ -32,8 +33,12 @@ Multiple testing tools will be used to ensure adequate testing coverage. Where p
 - Deque mobile app testing for iOS and Android may be used to audit the app as a comprehensive set of functionality is developed. 
 - If needed, the results of the full app scan will be shared with the 508 Office nearing the end of the development cycle. 
 
+*See Table for Checklist:*
+
 
 ## Section 3: Testing Protocol 
 
 This testing protocol will be used to guide the testing process. This testing plan may be adjusted in cases where a requirement has been de-prioritized or is determined to be unfeasible for MVP. 
 - In the criteria section, [P] and [F] denote passing and failing criteria, respectively. 
+
+*See Table for Checklist:*
