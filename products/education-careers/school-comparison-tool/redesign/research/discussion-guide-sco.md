@@ -1,0 +1,92 @@
+# Discussion Guide for Comparison Tool Redesign (School Certifying Officials)
+
+*When the participant is ready, begin the session with the following intro*
+
+## Intro - 5 minutes
+
+Thanks for joining us today! My name is Amy and I also have some colleagues on the line observing and taking notes. Today we're going to talk about the Comparison Tool. 
+
+Before we start, a few things I want to mention:
+
+- **This entire session should take about 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+- **If for any reason and at any time you want to stop the session, please let me know.** 
+- **Are you comfortable if I record the audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
+    - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
+
+*Start recording.*
+
+- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
+
+## Warm-up Questions - 5 minutes
+
+Let’s start with a few warm-up questions.
+ 
+ - How long have you been a School Certifying Official?
+ - How many GI Bill students are at your school?
+ - How many people at your school support military-connected students?
+ 
+   
+ - Have you used the GI Bill Comparison Tool before? 
+
+
+## First Topic: Usage of the Comparison Tool - 20 minutes
+
+You said you had used the Comparison Tool before. 
+
+- How often do you visit the tool?
+- How did you originally hear about the Comparison Tool?
+- What common tasks are you typically trying to accomplish on the tool?
+    - What kind of information are you typically looking at?
+    - The tool is geared towards Veterans, but is there any additional information or functionality that would help you?
+    - How accurate is the information on your school?
+      - If information on your school isn't accurate, what do you do?
+      - How long does it take for information to be fixed?
+- Did you receive any training on the Comparison Tool?
+  - Do you train others in how to use it? (Veteran or fellow employees)
+  - How do you find out about changes/updates to the Comparison Tool?
+  
+
+## Second Topic: Interactions with the VA - 10 minutes
+  
+- If you have questions about education benefits, how do you go about finding the answer?
+- Have you ever contacted the VA with questions?
+     If yes:
+      - Do you remember what you were asking about?
+      - How did you contact them (by phone, chat, etc.)?
+- Do you reference other VA sites for your work?
+   - If yes, which ones?
+   - What information are you looking for?
+
+- How often do you field questions from Veterans or non-Veteran beneficiaries about applying for education benefits?
+  - What questions do they typically ask?
+  - How does the process for applying for benefits typically go?
+  - Are there any pain points that you frequently encounter?
+  
+
+## Final Topic: Making It Easier - 5 minutes
+
+We've talked about the Comparison Tool and finding out information on education benefits.
+
+- If you could change the Comparison Tool to meet your needs as a SCO, talk me through what the tool would look like.
+   - What would it do?
+   - What would you change?
+   - What would you keep the same?
+
+## Post-Task Interview - X minutes
+
+- Any questions for me? 
+
+## Thank-You and Closing - X minutes
+
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+
+Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
+    If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
+
+Great, well thank you so much again, and enjoy the rest of your day!
+
+## Sample Conversation Guides _(note: these links point to resources in the va.gov-team GitHub repo)_
+
+- [Scheduling Accessibility and Usability Study: Complex Recruit, Highly Variable based on User Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/2017-studies/access-usability/access-usability-conversation-guide.md) 
+- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
