@@ -15,6 +15,7 @@
 - Link to their webpage where users can learn more about the app and where to get it
 - Brief overview description of the app and how it is useful to Veterans. App description can be up to 415 characters and must be reviewed by Lighthouse UX.
 - A list of devices/platforms this app is available on (eg. iOS, iPhone, iPad, Android tablet, Android phone, web browser, etc.)
+- Which OAuth scopes the app will request
 
 ## List of Third-Party Apps in Production
 
