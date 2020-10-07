@@ -34,10 +34,10 @@ Deliverables: Full design, layout and specs for LOA3 (state when a user has bene
 - Refill and track your prescriptions (shown conditionally if someone has prescriptions) [#13919](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13919)
   
 - Send a secure message to your health care team (shown conditionally if someone has messages)
-**enter ticket number** S32
+[#13920](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13920) S32
   
 - Schedule and view your appointments (shown conditionally if someone has health care in general)
-**enter ticket number** S32
+[#13921](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13921) S32
   
 - View your lab and test results (link shown conditionally if someone has health care in general) [#13922](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13922)
   
