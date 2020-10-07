@@ -1,11 +1,18 @@
 # MVP Mobile App User Research Plan
 
+## Purpose
+To date, the VA Mobile App team has conducted three disocvery studies with VA users and one usability test. The previous studies used various UX prototypes and activities to understand whether Veterans find value in a mobile app and specifically, what features are most valuable. Going forward, we recommend using a working prototype of the app (rather than an UX invision prototype) as a way of continuously getting and incorporating user feedback. 
+
+Using the feedback that we get from users, we also recommend evaluating the technical and organizational feasibility of the features. This will help steer the overall direction of the product and ensure decisions about feature priortization are contextualized within the known constraints (eg, a VFS team is working on this feature for VA.gov today). 
+
+Below we summarize our proposed approach to both **Usability Testing** and **Product Planning Research.**  
+
 Last updated October 2020
 
 ## Usability Testing
-**Goal:** evaluate the usability of the MVP app, identity barriers to using it
+**Goal:** evaluate the usability of the MVP app, identify barriers to using it
 
-### September 9-11: MVP App Usability Testing R1
+### September 9-11, 2020: MVP App Usability Testing R1
 In September we tested the high-fi prototype of the MVP mobile app. Our research goals were:
 - Assess the effectiveness and clarity of the app IA and navigation UI
 - Assess the desired content on Profile, Direct Deposit, Letters and Documents, and Settings
@@ -17,7 +24,7 @@ In R1, we used the final 10 minutes of each session to allow the participant to 
 
 [Link to research summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/round-1/research-summary.md)
 
-### October and November: what's next?
+### October and November, 2020: what's next?
 Between now and late November (9 weeks) we would like to focus on the following: 
 - Develop the UI/UX for each screen, guided by R1 feedback 
 - Define accessibility criteria for each screen
@@ -39,7 +46,7 @@ After delivering the MVP into Test Flight in late November, we would like to tes
 ---
 
 ## Product Planning Research
-Goal: Evaluate Veteran desirability, technical feasibility, and business feasibility of features
+**Goal:** Contextualize Veteran desirability within the known technical and business constraints.
 
 ### March-July 2020: discovery research
 In addition to September usability testing, we have done 3 additional rounds of discovery research with Veterans that we can lean on to identity post-MVP features on our roadmap:
