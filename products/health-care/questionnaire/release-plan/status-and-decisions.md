@@ -17,8 +17,6 @@
  
 **Research and Design**
 - [Questionnaire Worklist preliminary mockups](https://zpl.io/VOOek8j) reviewed with the team.
-- Started [Proof of Concept prototype in Mobile](https://preview.uxpin.com/a15205c1bedcdfc8fe46fed26c22fa731cab8ae0cvhidm)  
-- Started  [Proof of Concept prototype in Desktop](https://preview.uxpin.com/e9e0dc597bb076e74db05f77d35306496a89fca2cvhidm)
 - Created Usability Testing [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/mvp-usability/research-plan.md)  and  [conversation script](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/mvp-usability/conversation-guide.md)
 
 **Engineering**
