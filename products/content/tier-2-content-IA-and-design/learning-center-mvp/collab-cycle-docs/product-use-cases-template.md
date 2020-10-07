@@ -15,13 +15,14 @@ Link to product outline: [Resources and support (formerly called learning center
 - [Use Case A](#use-case-a) 
 - [Use Case B](#use-case-b)
 - [Use Case C](#use-case-c) 
+- [Use Case D](#use-case-D) 
 
 </details>
 
 ## Use Case A
 
-* **Description**
-  - A user clicks on a link or CTA button on an article and it doesn't work. 
+* **Description - broken link**
+  - A user clicks on a link or CTA button or a tag on an article and it doesn't work. 
   - The link could be in the form of a CTA button or a content link in the `Related information` section; the `VA benefits` section; a text link within body text. 
 
 * **Link to designs**
@@ -33,7 +34,7 @@ Link to product outline: [Resources and support (formerly called learning center
 
 ## Use Case B
 
-* **Description**
+* **Description - no search results**
   - User enters a search query on the LC search bar using the default "Resources and support" selection. 
   - User is taken to the LC search results page, and there, receives `null` results. 
   - The user should receive a message telling them we couldn't find resources and support articles matching their query, and that they should try expanding their search query or searching all of VA.gov. 
@@ -47,9 +48,22 @@ Link to product outline: [Resources and support (formerly called learning center
 
 ## Use Case C
 
-* **Description**
+* **Description - feedback confirmation**
   - User clicks on one of the response options in the `How do you rate your experience on this page?` section. 
   - User should receive a 'thank you-feedback' confirmation message. 
+
+* **Link to designs**
+  - lorem ipsum
+
+* **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
+  - lorem ipsum
+  
+  ## Use Case D
+
+* **Description - wrong breadcrumb links**
+  - User is on an article that belongs to X primary category. (One primary category is selected in the CMS for each article.) 
+  - **TBD IA CONFIRMATION FROM MIKKI:** The breadcrumb should show: `Home > Resources and support > {Primary-category-label} > {Article H1}`  but doesn't show the correct path. 
+
 
 * **Link to designs**
   - lorem ipsum
