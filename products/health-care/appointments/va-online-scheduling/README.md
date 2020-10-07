@@ -38,7 +38,7 @@
 - [API Calls and Dependent Systems](#api-calls-and-dependent-systems)
 - [Resources and Documentation](#resources-and-documentation)
 - [Keywords](#Keywords)
-- [Team](#team)
+- [Team](#Key Documents + Team Members)
 - [Screenshots](#screenshots)
 
 ---
