@@ -10,18 +10,24 @@ As a designer I need to create a research plan to share with my team.
 Many changes and improvements have been made to the Comparison Tool over the past few years.  EDU would like to gain a better understanding of all the different users that utilize the Comparison Tool and their respective needs.  From this research, EDU hopes to fully redesign the Comparison Tool to better meet the needs of its users.
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
- - If applicable, how did users learn about schools?
- - If applicable, how did users select a school?
- - How did users hear about the Comparison Tool?
- - If applicable, what did the education journey look like for individuals who used the Comparison Tool? 
- - If applicable, what did the education journey look like for individuals who didn't use the Comparison Tool? 
- - How and where do users go to get help for questions on education benefits?
- - How do individuals use the Comparison Tool?
-    - What does the tool do best?
-    - What are the biggest challenges with the tool?
-    - What do users want to know about the Yellow Ribbon program on the CT?
- - What are the unique needs of non-Veteran users?
- - What would be the "dream" CT look like from a user's perspective?
+ 
+- What did the education journey look like for participants?
+	 - How did participants discover/search for schools?
+  - How/what criteria did they use to select a school?
+		
+  - Did they use the Comparison Tool?
+		    	
+       a. If yes, how and when during their education journey?
+         1) What does the tool do best?
+			      2) What are the biggest challenges with the tool?
+			      3) Is there any additional information or functionality they would like to see on the tool?
+          
+	   b. If no, had they heard about it prior to starting their journey?
+- What would have made the education journey easier?
+- How and where do participants get help for questions on education benefits?
+- What are the unique needs of non-Veteran users?
+- From a user’s perspective, what would be the ideal Comparison Tool?
+
  
 4. Hypothesis: What is your hypothesis for this research? 
 
