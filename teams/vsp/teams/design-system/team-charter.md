@@ -5,13 +5,13 @@
 ## Why we're here
 
 ### North Star:
-Facilitating VFS teams to design and build scalable digital experiences for Veterans that meet DEPO quality standards as well as improve standards based on Veteran needs and behaviors. 
+Any team charged with building a Veteran Facing Service (VFS) can quickly design, test and build an application that builds an application that meets or improves VA’s standards of quality for the Veteran experience.  
 
 ### Product Suite: 
 Design System 
 
 ### Team Mission Statement:
-Our mission is to provide a design system that helps designers and developers efficiently build products while also making self-sustaining, forward looking improvements to their product suite. 
+Our mission is to provide simple, scalable, high quality tools that enable teams to rapidly build and improve the Veteran facing digital applications provided by VA.  
 
 ### Product Portfolio:
 - React Library
