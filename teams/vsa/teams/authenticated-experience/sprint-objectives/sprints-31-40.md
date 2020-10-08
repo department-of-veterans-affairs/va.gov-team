@@ -140,6 +140,10 @@ Phase 2: Design Healthcare, Claims sections
 - Plan for usability testing, including normal [review of the research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#research-plan-review)
 - [Usability Test Prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#usability-testing-prep) checkpoint meeting
 
+### VA Profile-related work
+
+- VA Profile: Consider changing the amount of time we cache an address #14626
+
 ## Sprint 34 (11/4 – 11/17)
 
 ### Logged-in homepage
