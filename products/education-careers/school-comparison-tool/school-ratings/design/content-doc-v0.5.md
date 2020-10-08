@@ -163,7 +163,7 @@ A school may ask us for a list of Veterans who rated their school, but we do not
  
 { Learn more modal content }  
 
-### Program cards: 
+### Program cards   
 
 { If Desktop/Tablet: }  
 
