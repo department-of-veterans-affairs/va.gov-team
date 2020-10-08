@@ -24,7 +24,7 @@ As of 10.7.20, it was determined this work is a My VA redesign and we will be le
 - Moving over records links from the homepage.  (**Should we link off to the records hub?**).
 - Any consideration of the current "Find VA Benefits" functionality.
 
-## Summer 2020
+## Initial Summer 2020 plan
 
 **This was the initial plan for when the work was a logged-in homepage redesign.**
 
