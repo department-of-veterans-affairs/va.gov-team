@@ -78,6 +78,7 @@ This proved true. Once the users made it into the two forms, they proceeded quic
 - Some users wanted shorter, better defined "bullet points" to outline the process 
 - Users were uniformly tripped-up by language around timeframes; e.g. the "have you been discharged in the last year" question in the wizard; users wanted to know if this meant 2019 or within the last 12 months
 - Users who were asked to make an address change expected (but were not hopeful) that the change would populate all VA systems
+- Several users wanted email confoirmation that their forms were submitted
 
 ### Resources
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-research-plan.md)
