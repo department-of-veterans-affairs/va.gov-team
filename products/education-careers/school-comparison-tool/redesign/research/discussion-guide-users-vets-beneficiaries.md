@@ -22,12 +22,13 @@ Before we start, a few things I want to mention:
 
 Let’s start with a few warm-up questions.
  
- - Are you a Veteran or a non-Veteran beneficiary?
- - Are you currently using or have you ever used your education benefits?
-   - If yes, which benefit are you using?  
+ - Are you currently using or have you ever used VA education benefits?
+   - If yes, which benefit are you using? 
+       - Was that benefit yours or was it transferred to you?
        - When did you start school?
    - If no, do you plan on using your benefits in the near future?  
        - Which benefit?  
+       - Is that benefit yours or was the benefit transferred to you?
        - Where are you in the school selection process?
    
  - Have you ever used the GI Bill Comparison Tool before? 
@@ -37,15 +38,17 @@ Let’s start with a few warm-up questions.
 
 Let's talk about when you first decided to go to school.
 
-- What made you decide to continue your education?
+- What made you decide to go back to school?
 - What was most important to you when you were looking for potential schools?
    - What resources did you use to research schools?
    - What was the most difficult part about picking a school?
    - Was there any information you wanted to have, but couldn't find?
 
-- If you've started school, is there anything you know now that you wish you had known earlier?
+- If you've started school, is there anything you know now about the school that you wish you had known earlier?
   
-- Are you familiar with any of the following programs:
+- Are there any specific programs that you as a military-connected student are interested in?
+
+Are you familiar with any of the following programs:
   - Student Vet Groups
   - STEM Scholarship
   - Yellow Ribbon
@@ -54,9 +57,12 @@ Let's talk about when you first decided to go to school.
   - Student Vet Groups
   - STEM Scholarship
   - Yellow Ribbon
+  - Priority enrollment for student Veterans
+  - Principles of Excellence
+  - 8 Keys to Vet Success
   
 
-## Second Topic: Comparison Tool - 15 minutes
+## Second Topic: Education Benefits and Comparison Tool - 15 minutes
 
 ### Prior Users ###
 You said you had used the Comparison Tool before. *Facilitator brings up CT and runs a quick demo*
@@ -70,37 +76,30 @@ You said you had used the Comparison Tool before. *Facilitator brings up CT and 
 - Do you remember when you used it (while researching schools, after you had picked a school)?  
 - What were you looking for?
     - Did you find what you were looking for?
-    - Was any information or functionality missing that you were expecting to see?
+    - Was there anything you were hoping to see here that you couldn't find?
     - What did you think of the information you saw?
     - Was there anything you struggled with?
-
-### Not Familiar with Tool ###
-
-Facilitator gives brief demo of the Comparison Tool - search for school, quick overview of SRP and open school profile page
-
-- When you were looking at schools, how did you determine if your education benefits would cover housing and tuition?
-- Was there any Veteran-specific information you wanted to know about the schools you were looking at?
-- What do you think of the tool?
-
-## Third Topic: Interactions with the VA - 10 minutes
-  
+    
 - If you have questions about education benefits, how do you go about finding the answer?
 - Have you ever contacted the VA with questions about your education benefits?
      If yes:
       - Do you remember what you were asking about?
-      - How did you contact them (by phone, chat, etc.)?
-- Have you referenced any other VA sites to learn more about your education benefits?
-   - If yes, which ones?
-     
-- Have you either completed or started the process of getting education benefits from the VA?
-  If yes:
-   - How has that process gone? 
-   - Who have you talked to during this process (the VA, SCOs, other individuals)?
-   - What has gone well?
-   - What has not gone well?
-  
-  If no:
-   - How will you start that process?
+
+### Not Familiar with Tool ###
+
+- When you were looking at schools, what drove your decision-making about what would be a good school?
+- How did you determine if your education benefits would cover housing and tuition?
+- Was there any Veteran-specific information you wanted to know about the schools you were looking at?
+
+*Facilitator briefly shows Comparison Tool*
+- What do you think of the tool?
+
+- If you have questions about education benefits, how do you go about finding the answer?
+- Have you ever contacted the VA with questions about your education benefits?
+     If yes:
+      - Do you remember what you were asking about?
+
+   
 
 ## Final Topic: Making It Easier - 5 minutes
 
