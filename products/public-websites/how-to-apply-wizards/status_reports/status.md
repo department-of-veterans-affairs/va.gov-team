@@ -5,7 +5,7 @@
       - Designer Kevin Stachura of BAM 1 will create hi-fi mock-ups and documentation based on the HLR flow (#13382)
   - Liz is now working to determine if she can conduct a light-weight usability session with a small group of veterans to get insight into some [key questions.]( https://github.com/department-of-veterans-affairsz/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/discovery/research/wizard-research-plan.md) 
 - John is following up with ...
-  - Analytics to make sure they understand the changes given the possible implications to the original[instrumentation approach.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13060)
+  - Analytics to make sure they understand the changes given the possible implications to the original [instrumentation approach.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13060)
   - Jen Lee to confirm that there is no hard deadline driving our progress/delivery date for Education and Disability (e.g. Links from the Find a Form page).
 
 ### 10/2 Update
