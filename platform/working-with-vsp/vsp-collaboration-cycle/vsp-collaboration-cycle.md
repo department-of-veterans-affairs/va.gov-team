@@ -387,7 +387,7 @@ Ensure your feature meets VSP's privacy and security standards.
 
 ### Outcomes and artifact outputs
 - VSP provides a list of concrete action items that need to be addressed, or approval to roll out
-- Once VFS team has complete those action items, assign the security review issue back to @gunsch, who will confirm completion and close out the issue, signalling approval of the security review.
+- Once VFS team has complete those action items, assign the security review issue back to @Michael Fleet, who will confirm completion and close out the issue, signalling approval of the security review.
 
 ### Meeting attendees 
 - VFS brings:
@@ -397,7 +397,7 @@ Ensure your feature meets VSP's privacy and security standards.
   - Anyone else on your team whose presence is needed to speak to the technical architecture and security concerns (required)
 - If VFS team is part of VSA contract, also include as optional: VSA Engineering Lead
 - VSP brings: 
-  - Engineering experts (Andrew Gunsch or Michael Fleet, others as needed)
+  - Engineering experts (Michael Fleet, others as needed)
 
 ## For further support at this point
 Reach out to Platform team in Slack [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) with any questions, and you’ll be directed to the correct resource.
