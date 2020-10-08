@@ -1,5 +1,33 @@
 # Samara's design feedback
 
+## Feedback 10.8.20
+
+**General**
+
+- Don't forget to add "My VA" back into the main nav!!
+- My VA has a breadcrumb (you can check how we handle that in staging), so you'll want to add that back into this page.
+
+**Name tag**
+
+- Since this page will now have a breadcrumb and therefore whitespace between the name tag and navigation, I think we should make the nametag area dark gray again. It pops more and looks more refined/finished.
+
+**Health care overview**
+
+- This looks so good. I love it!!
+
+**Appointments**
+
+- This was mentioned in the platform team meeting, but please replace the CTAs here with "View all appointments." However, if there are no appointments I think the CTA should remain "Schedule an appointment." That should be no problem for Erik and Sandra to handle conditionally.
+- I realize we talked a ton about tables in the platform team meeting, but could I see a treatment here where the appointment data appears stacked and not across a row? This is what I mean:
+
+**Next appointment**
+
+Dr. Shakatullah Shah Ansari
+Wednesday, October 1, 2020
+2:00 pm EST
+
+To me, it would be much more natural to view this information like so (whereas I think we're used to seeing emails/messages in a table-like view, so that makes sense). I realize I'm not the user, and we should validate everything, but I would love to at least see how you might handle this in a mockup.
+
 ## Feedback 10.7.20
 
 **Overview area**
