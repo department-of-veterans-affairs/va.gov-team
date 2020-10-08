@@ -53,10 +53,14 @@ Researchers believe that the design of the Comparison Tool can be optimized by i
 
 - 11-16 participants
   - 5-8 Veterans 
-     - 3 Veterans who are personally using Post 9/11 GI Bill benefits
-     - 2 Veterans who are personally using non-Post 9/11 GI Bill benefits
+     - 3-5 Veterans who are personally using Post 9/11 GI Bill benefits
+     - 2-3 Veterans who are personally using non-Post 9/11 GI Bill benefits
+     - All Veterans should meet one of the following:
+       - Have personally started using their GI Bill benefits in the last 6 months
+       - Be currently using their GI Bill benefit
+       - Plan to personally use their GI Bill benefit in the next 2-3 months
   - 3-4 non-Veteran beneficiaries
-  - 3-4 School Certifying Officials (SCOs_
+  - 3-4 School Certifying Officials (SCOs)
      
 Age Range: 24-54
 
@@ -76,13 +80,13 @@ Login requirements: None
 
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
-  - Oct 15 - 27th 	
+  - Oct 15 - 27, 2020 	
 2.	Prepare: When will the thing you are testing be ready? 
   - By COB Oct 9th
 3. Length of Sessions: How long do you estimate each session will be? 
   - 45 minutes
 4.	Availability: If applicable, when would you like sessions scheduled? 
- - Thurs, Oct 15th:  10:30-11:15AM; 1-1:45PM;
+ - Thurs, Oct 15th:  10:30-11:15AM;
  - Fri, Oct 16th:  10:30-11:15AM; 12-12:45PM; 1:15-2PM;
  - Tues, Oct 20th: 10:30-11:15AM; 12-12:45PM; 
  - Wed, Oct 21st:  10:30-11:15AM; 12-12:45PM;
