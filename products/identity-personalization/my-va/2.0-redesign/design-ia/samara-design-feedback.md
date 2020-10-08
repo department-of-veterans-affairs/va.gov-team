@@ -20,11 +20,10 @@
 - This was mentioned in the platform team meeting, but please replace the CTAs here with "View all appointments." However, if there are no appointments I think the CTA should remain "Schedule an appointment." That should be no problem for Erik and Sandra to handle conditionally.
 - I realize we talked a ton about tables in the platform team meeting, but could I see a treatment here where the appointment data appears stacked and not across a row? This is what I mean:
 
-> **Next appointment**
->
-> Dr. Shakatullah Shah Ansari
-> Wednesday, October 1, 2020
-> 2:00 pm EST
+**Next appointment**
+Dr. Shakatullah Shah Ansari<br></br>
+Wednesday, October 1, 2020<br></br>
+2:00 pm EST<br></br>
 
 To me, it would be much more natural to view this information like so (whereas I think we're used to seeing emails/messages in a table-like view, so that makes sense). I realize I'm not the user, and we should validate everything, but I would love to at least see how you might handle this in a mockup.
 
