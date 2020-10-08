@@ -31,6 +31,7 @@ Last updated October 7, 2020
 - [Business Goals](#business-goals)
 - [Assumptions](#assumptions)
 - [Questions](#questions)
+- [Solution Approach](#solution-approach)
 - [OKRs & KPIs](#okrs--kpis)
 
 # Implementation Information
