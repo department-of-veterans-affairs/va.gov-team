@@ -96,7 +96,7 @@ As applicable:
 ### Specific questions for "TAPS":
 
 - Is there a standard TAPS syllabus? How is CT addressed via TAP?
-    - If standard curriculum, how often is it updated?
+    - If a standard curriculum, how often is it updated?
     - Do separating service members have questions about the CT during TAP?
     - What kind of questions do separating service members typically have about their education benefits?
 - How could CT better serve separating service members?
