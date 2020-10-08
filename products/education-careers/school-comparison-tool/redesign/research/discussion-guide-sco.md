@@ -36,32 +36,34 @@ You said you had used the Comparison Tool before.
 
 - How often do you visit the tool?
 - How did you originally hear about the Comparison Tool?
+- Did you receive any training on the Comparison Tool?
+  - Do you train others in how to use it?
 - What common tasks are you typically trying to accomplish on the tool?
     - What kind of information are you typically looking at?
-    - The tool is geared towards Veterans, but is there any additional information or functionality that would help you?
+    - The tool is geared towards Veterans, but is there any information that is helpful for you?  
+        - Is there any additional information or functionality that you would like to see?
     - How accurate is the information on your school?
       - If information on your school isn't accurate, what do you do?
       - How long does it take for information to be fixed?
-- Did you receive any training on the Comparison Tool?
-  - Do you train others in how to use it? (Veteran or fellow employees)
+
   - How do you find out about changes/updates to the Comparison Tool?
+  - Are there any other sites that you use to perform similar tasks?
   
 
-## Second Topic: Interactions with the VA - 10 minutes
+## Second Topic: Handling Questions - 10 minutes
   
 - If you have questions about education benefits, how do you go about finding the answer?
 - Have you ever contacted the VA with questions?
      If yes:
       - Do you remember what you were asking about?
-      - How did you contact them (by phone, chat, etc.)?
 - Do you reference other VA sites for your work?
    - If yes, which ones?
    - What information are you looking for?
 
-- How often do you field questions from Veterans or non-Veteran beneficiaries about applying for education benefits?
-  - What questions do they typically ask?
-  - How does the process for applying for benefits typically go?
-  - Are there any pain points that you frequently encounter?
+ - What kind of questions do you typically field from Veterans? From non-Veteran beneficiaries?
+     - What do they ask about the most?
+     - What do they ask about your school?
+     - Are there any pain points 
   
 
 ## Final Topic: Making It Easier - 5 minutes
