@@ -35,7 +35,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 With a full redesign, there are a lot of changes that can be made to the Comparison Tool.
 
-* Comparison Tool Usage - Business Usage *
+*Comparison Tool Usage - Business Usage*
 - How does EDU utilize the Comparison Tool?
    - Is it treated as an authoritative source of knowledge by anyone?
    - What information would be critical to keep?
@@ -48,12 +48,12 @@ With a full redesign, there are a lot of changes that can be made to the Compari
    - What information would it provide?
    - What functionality would be available?
    
-* Comparison Tool Usage - VA Usage *   
+*Comparison Tool Usage - VA Usage*   
 - Is the CT used other places within the VA?
 - Could the CT data be used in other places within VA.gov? How might CT data be used elsewhere within VA.gov?
 - Who has stats on GI Bill usage?
 
-* Comparison Tool Usage - Customer Focus *
+*Comparison Tool Usage - Customer Focus*
 - What are the most common questions EDU hears about the Comparison Tool?
 - What are the most common questions EDU hears about education benefits?
    - From SCOs? From Veterans? From non-Veteran beneficiaries?  From VA employees?
