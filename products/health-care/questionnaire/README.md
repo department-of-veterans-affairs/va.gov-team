@@ -19,6 +19,10 @@ When going to a healthcare visit, I want to share my current health status and m
 
 [Meet the Healthcare Experience Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/team-charter.md#who-we-are)
 
+## Current MVP Description
+
+[Our MVP description](./product/initiatives/visit-intro.md)
+
 ## Repo Menu 
 
 [Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery) 
