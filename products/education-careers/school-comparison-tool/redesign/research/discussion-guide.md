@@ -44,7 +44,7 @@ With a full redesign, there are a lot of changes that can be made to the Compari
 - From a business perspective, what does the Comparison Tool do well?
 - What business needs do you hope to meet with a redesigned CT?
 - If you had to choose one thing, what would you most want to improve about the CT?
-- In an ideal world, what would the Comparison Tool do for EDU?
+- What would an "ideal" Comparison Tool do for EDU?
    - What information would it provide?
    - What functionality would be available?
    
