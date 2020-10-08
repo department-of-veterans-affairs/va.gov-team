@@ -156,9 +156,10 @@ A school may ask us for a list of Veterans who rated their school, but we do not
 
 { Note that only the Preferred Provider filter's icon is being updated from a star to an award icon: }   
 
-{ Preferred provider filter: }   
+{ Preferred provider filter: } 
 
- Preferred provider { award icon} (Learn more) { modal link } { checkbox; default selection = none }   
+ Preferred provider { checkbox; default selection = none } { award icon - goes from gray to blue when checkbox is selected }  
+ (Learn more) { modal link }  
  
 { Learn more modal content }  
 
