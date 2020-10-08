@@ -9,6 +9,9 @@ _(previously Vocational Rehabilitaion and Employment)_
 - Form: https://www.vba.va.gov/pubs/forms/VBA-28-1900-ARE.pdf
 - VA.gov link (unauth landing page): https://www.va.gov/careers-employment/vocational-rehabilitation/
 - VA.gov link (tool page): TBD
+- VA.gov link (unauth landing page): https://staging.va.gov/careers-employment/vocational-rehabilitation/
+- VA.gov link (tool page): https://staging.va.gov/careers-employment/vocational-rehabilitation/apply/
+
 ## WIP
 
 ### Table of Contents
