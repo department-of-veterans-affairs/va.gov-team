@@ -9,7 +9,7 @@
   * [Implementation details](#implementation-details)
     + [Naming Conventions](#naming-conventions)
 	+ [Naming Collisions](#naming-collisions)
-  * [FE/BE Communications](#fe-be-communications)
+  * [FE/BE Communications](#febe-communications)
     + [Example Workflow for Search](#example-workflow-for-search)
 	+ [Communication and Interaction](#communication-and-interaction)
     + [Response Types and Matching](#response-types-and-matching)
@@ -159,8 +159,10 @@ yarn test:contract
 To run a specific contract test:
 
 ```sh
-yarn test:unit src/applications/my-app/tests/example.pact.spec.js
+BUILDTYPE=localhost yarn test:unit src/applications/my-app/tests/example.pact.spec.js
 ```
+
+Make sure to set `BUILDTYPE=localhost` when running a specific test. Without it, the test will fail.
 
 ### Writing a contract test
 
