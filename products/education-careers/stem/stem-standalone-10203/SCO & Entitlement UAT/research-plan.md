@@ -2,9 +2,9 @@
 
 ## Goals	
 1. What product & team are you doing this research for?	
-  This research plan is related to the rollout of updates to the STEM Scholarship that will:
-  1. Display remaining entitlement to applicants who are logged in and have supporting EVSS entitlement data
-  2. Upon submission of eligible applications, SCOs for the institution most recently associated with the applicant will receieve an email notification so that they can preemptively begin the process of supplying the VA with data necessary to validate the scholarship application. 
+   This research plan is related to the rollout of updates to the STEM Scholarship that will:
+   1. Display remaining entitlement to applicants who are logged in and have supporting EVSS entitlement data
+   2. Upon submission of eligible applications, SCOs for the institution most recently associated with the applicant will receieve an email notification so that they can preemptively begin the process of supplying the VA with data necessary to validate the scholarship application. 
 2. Background: 
    1. This functionality was determined post-MVP from the initial 22-10203 form launch in September 2020 due to issues related to coordinating with and testing against EVSS. Since then, DEPO has approved the approach of launching and testing these two features in Production because data to test in lower environments is unavailable. 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
