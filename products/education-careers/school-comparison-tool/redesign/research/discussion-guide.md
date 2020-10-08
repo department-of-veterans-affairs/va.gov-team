@@ -62,11 +62,11 @@ With a full redesign, there are a lot of changes that can be made to the Compari
 
 ### Specific questions for "DEPO":
 
-- Any current concerns or design aspects that should be addressed in redesign?
 - Roadmap for VA.gov design enhancements - what should we be on the lookout for?  
    - What's the roadmap for the VA.gov app? How does the CT get on that plan?
-- Guidance on incorporation of social media? 
-- Other data integration efforts that could leverage CT data? Other date integration efforts that CT would benefit from? (MATT SELF)
+- Are there any current concerns or design aspects that should be addressed in redesign?
+- What is the current guidance on the incorporation of social media? 
+- Are there any other data integration efforts that could leverage CT data? Or other date integration efforts that CT would benefit from? (MATT SELF)
 
 ### Specific questions for "Other VA":
 
