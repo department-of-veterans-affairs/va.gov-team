@@ -1,3 +1,7 @@
+### 10/8 Update
+
+- User Research Plan https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/discovery/research/wizard-research-plan.md
+
 ### 10/2 Update
 
 - In meeting with Matt Self, we finalized two requirements:
