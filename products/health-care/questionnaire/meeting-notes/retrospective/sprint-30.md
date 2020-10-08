@@ -5,8 +5,9 @@
 
 ## Action Items
 
- - [ ]  Going to better integrate with accessibility- Mark&Kristen to document new process and share with team
- - [ ] Take 1-2 tickets from backend that need clarity and break down for this sprint. - Laurence and Dillo
- - [ ] Continue to have DEPO - PO meetings to ensure strategy is discussed early and often before dev. - Amanda
- - [ ] All team members will have at least 1 retro added for sprint 31 before the meeting
- - [ ] Keep refining process of reviews and feedback with other VSA/VSP groups - Kristen
+ - [X]  Going to better integrate with accessibility- Mark&Kristen to document new process and share with team (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14385)
+ - [x] Take 1-2 tickets from backend that need clarity and break down for this sprint. - Laurence and Dillo
+ - [x] Continue to have DEPO - PO meetings to ensure strategy is discussed early and often before dev. - Amanda
+ - [x] All team members will have at least 1 retro added for sprint 31 before the meeting
+ - [ ] Keep refining process of reviews and feedback with other VSA/VSP groups - Kristen 
+  - Accessiility and Usailtiy Prep review will start. 
