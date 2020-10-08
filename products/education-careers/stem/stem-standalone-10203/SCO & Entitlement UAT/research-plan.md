@@ -2,7 +2,7 @@
 
 ## Goals	
 1. What product & team are you doing this research for?	
-   This research plan is related to the rollout of updates to the STEM Scholarship that will:
+    This research plan is related to the rollout of updates to the STEM Scholarship that will:
    1. Display remaining entitlement to applicants who are logged in and have supporting EVSS entitlement data
    2. Upon submission of eligible applications, SCOs for the institution most recently associated with the applicant will receieve an email notification so that they can preemptively begin the process of supplying the VA with data necessary to validate the scholarship application. 
 2. Background: 
@@ -13,18 +13,16 @@
    1. The features do work as expected. 
 
 ## Method	
-1.	What method of research are you planning? 	
-  - **Sample Methodologies**: Observation of remote moderated user acceptance testing 	
-2.	Why this method? How does this methodology help you answer your research questions? 
-   1. Observing applicants as they move through and submit the application will allow us to observe and capture any unexpected behavior or errors that arise during user acceptance testing. 
+1.	What method of research are you planning? Observation of remote moderated user acceptance testing 	
+2.	Why this method? How does this methodology help you answer your research questions?  Observing applicants as they move through and submit the application will allow us to observe and capture any unexpected behavior or errors that arise during user acceptance testing. 
 3.	Where are you planning to do your research? Webex Web Conferencing
 4.	What will you be testing? Production application
-5.  If remote: What tool do you plan to use? Webex
+5. If remote: What tool do you plan to use? Webex
 
 
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	  
-    1. **Primary criteria / Must have**
+**Primary criteria / Must have**
 We want to recruit 6 participants that meet the following criteria: 
 - Willing to submit an application for the Rogers STEM Scholarship (https://www.va.gov/education/other-va-education-benefits/stem-scholarship/)
 - 6 months or less of entitlement remaining or have exhausted their education benefits (can be validated here: https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)
@@ -40,10 +38,10 @@ And 6 more participants that meet the following critieria:
 - More than 6 months of entitlement remaining (can be validated here: https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)
 - Have previously been or are currently enrolled in an education institution using GI Bill education benefits
 
-2. **Secondary criteria / Would like to have** 
+**Secondary criteria / Would like to have** 
 None
 
-3.	What is your recruitment strategy? 	
+2.	What is your recruitment strategy? 	
 - Draw from the existing recruiting contract - Perigean 
 - Draw from professional relationships in existing networks
 
