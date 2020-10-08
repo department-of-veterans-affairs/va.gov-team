@@ -152,6 +152,16 @@ A school may ask us for a list of Veterans who rated their school, but we do not
 
 ## VET TEC - Search Results Page 
 
+### Filters
+
+{ Note that only the Preferred Provider filter's icon is being updated from a star to an award icon: }   
+
+{ Preferred provider filter: }   
+
+ Preferred provider { award icon} (Learn more) { modal link } { checkbox; default selection = none }   
+ 
+{ Learn more modal content }  
+
 ### Program cards: 
 
 { If Desktop/Tablet: }  
