@@ -29,8 +29,21 @@ Let’s start with a few warm-up questions.
    
  - Have you used the GI Bill Comparison Tool before? 
 
+## First Topic: Handling Questions - 10 minutes
+ 
+ - What kind of questions do you typically field from Veterans? From non-Veteran beneficiaries?
+     - What do they ask about the most?
+     - What do they ask about your school?
+     - Are there any pain points
+     
+- If you have questions about education benefits, how do you go about finding the answer?
+  - What types of questions do you normally have?
 
-## First Topic: Usage of the Comparison Tool - 20 minutes
+- Do you reference VA sites for your work?
+   - If yes, which ones?
+   - What information are you looking for?
+
+## Second Topic: Usage of the Comparison Tool - 20 minutes
 
 You said you had used the Comparison Tool before. 
 
@@ -47,23 +60,7 @@ You said you had used the Comparison Tool before.
       - How long does it take for information to be fixed?
 
   - How do you find out about changes/updates to the Comparison Tool?
-  - Are there any other sites that you use to perform similar tasks?
-  
-
-## Second Topic: Handling Questions - 10 minutes
-  
-- If you have questions about education benefits, how do you go about finding the answer?
-- Have you ever contacted the VA with questions?
-     If yes:
-      - Do you remember what you were asking about?
-- Do you reference other VA sites for your work?
-   - If yes, which ones?
-   - What information are you looking for?
-
- - What kind of questions do you typically field from Veterans? From non-Veteran beneficiaries?
-     - What do they ask about the most?
-     - What do they ask about your school?
-     - Are there any pain points 
+  - Are there any other sites that you use to perform similar tasks? 
   
 
 ## Final Topic: Making It Easier - 5 minutes
