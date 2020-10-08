@@ -1,6 +1,6 @@
 ## How to configure this issue
 - [ ] Attached to an Epic (what body of work is this a part of?)
-- [ ] Labeled with Team (`vsa-healthcare-exp`)
+- [ ] Labeled with Team (`vsa-healthcare-exp`)(`research`)
 - [ ] Prepend [Research] to the beginning of the ticket title
 - [ ] Fill in User Stories
 - [ ] Fill in Documentation 
