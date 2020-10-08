@@ -29,40 +29,36 @@ Before we look at the website, let’s start with a few warm-up questions.
 3. Have you heard of the GI Bill Comparison Tool?
    - If yes, what have you heard?  Have you used it before?
    - If no, give brief description on Comparison Tool and redesign effort.
-   
-   
 
-## Yes to #3 - General Questions - X minutes
-
-- How did/do you use the Comparison Tool?  
-- How often do you use it?
-- What information are you looking for?
-- What does it do best?
-- What have been your biggest challenges with it?
-- Are there any other resources you use to perform similar tasks (or to supplement the info on the CT)?
-- What could a new and improved CT do for you?
-- Are there any other sites on VA education benefits that you visit?
-- If you have a question regarding VA education benefits, how do you go about finding an answer?
-- How do you normally access VA resources?  On desktop?  Do you ever use mobile?
-  - Have you ever accessed the CT on mobile?  If yes, what were you looking at?
-
-
-
-## No to #3 - General Questions - X minutes
-
-- Step 1
-- Step 2
 
 ### Specific questions for "EDU":
 
+With a full redesign, there are a lot of changes that can be made to the Comparison Tool.
+
+* Comparison Tool Usage - Business Usage *
+- How does EDU utilize the Comparison Tool?
+   - Is it treated as an authoritative source of knowledge by anyone?
+   - What information would be critical to keep?
+   - Are there any features or functionality that are critically important?
+   - How much support and maintenance is required?
+- From a business perspective, what does the Comparison Tool do well?
 - What business needs do you hope to meet with a redesigned CT?
-- What business needs are not being met by current CT?
-- What could a new and improved CT do for you?
-- Where else within VA.gov could data from the CT be used? How might CT data be used elsewhere within VA.gov?
+- If you had to choose one thing, what would you most want to improve about the CT?
+- In an ideal world, what would the Comparison Tool do for EDU?
+   - What information would it provide?
+   - What functionality would be available?
+   
+* Comparison Tool Usage - VA Usage *   
+- Is the CT used other places within the VA?
+- Could the CT data be used in other places within VA.gov? How might CT data be used elsewhere within VA.gov?
+- Who has stats on GI Bill usage?
+
+* Comparison Tool Usage - Customer Focus *
+- What are the most common questions EDU hears about the Comparison Tool?
 - What are the most common questions EDU hears about education benefits?
-   - From SCOs? From Veterans? From non-Veteran beneficiaries?
-- Who has stats on GI Bill usage? 
-- Where else in VA is the CT used? 
+   - From SCOs? From Veterans? From non-Veteran beneficiaries?  From VA employees?
+
+ 
 
 ### Specific questions for "DEPO":
 
@@ -74,6 +70,20 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ### Specific questions for "Other VA":
 
+General:
+- How did/do you use the Comparison Tool?  
+- How often do you use it?
+- What information are you looking for?
+- What does it do best?
+- What have been your biggest challenges with it?
+- Are there any other resources you use to perform similar tasks (or to supplement the info on the CT)?
+- What could a new and improved CT do for you?
+- Are there any other sites on VA education benefits that you visit?
+- If you have a question regarding VA education benefits, how do you go about finding an answer?
+- How do you normally access VA resources?  On desktop?  Do you ever use mobile?
+  - Have you ever accessed the CT on mobile?  If yes, what were you looking at?
+  
+As applicable:
 - How can we determine the usage of individual GI Bills, such as Post-9/11?
 - How many Veterans eligible for the GI Bill are not using their benefits?
 - How can we measure if usage of GI Bill benefits is increasing or decreasing?
@@ -87,16 +97,15 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - Is there a standard TAPS syllabus? How is CT addressed via TAP?
     - If standard curriculum, how often is it updated?
+    - Do separating service members have questions about the CT during TAP?
+    - What kind of questions do separating service members typically have about their education benefits?
 - How could CT better serve separating service members?
-- Do separating service members have questions on CT during TAP?
 - Is there a plan for a TAP app?
 - Solid Start: who runs this? Does it include CT references? Could it?
 
 
 ## Post-Task Interview - X minutes
 
-- Question 1
-- Question 2
 - Any questions for me? 
 
 ## Thank-You and Closing - X minutes
