@@ -41,6 +41,6 @@ $ SOCKS_NETWORK="USB 10/100/1000 LAN" ./socks.sh off
 The socks script will start the socks proxy, configure the proxy settings on your computer to use a `proxy.pac` file, and start a small webserver to serve that file up. The proxy.pac file will send only a few URLs to the proxy, sending everything else directly to the internet.
 
 Finally, you'll need to configure your browser to use the system proxy if you use this script. This has been tested on OSX 10.14
-and 10.15, and works with Firefox and Chrome (but not Safari).
+and 10.15, and works with Safari, Firefox, and Chrome.
 
 If you don't want to use the proxy.pac route, another option is to install a proxy switcher into your browser - [details here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#chrome--firefox).
