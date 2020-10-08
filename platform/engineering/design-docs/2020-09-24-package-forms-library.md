@@ -72,6 +72,7 @@ In addition to the forms library, the platform provides other code that is used 
 - `static-data`
 
 These aren't _strictly_ part of the forms library, but since the forms library makes use of its parent platform code, it becomes more difficult to place clear boundaries around the forms library.
+In a properly structured package, any dependencies are called out in the `package.json`, rather than imported from outside of the package's root directory.
 
 ### High Level Design
 
@@ -88,22 +89,24 @@ The only application code changes will be updating the where forms library code 
 
 ### Detailed Design
 
-A few things will have to happen in order pave the way for additional changes that will bundle the forms library.
+The VSP Design System team will make several changes that will result in a packaged forms library.
 
 #### Preparation
 
-- Move the app-specific code mentioned in [Application Entanglement](#application-entanglement) outside the forms library directories.
-- Use the `no-unresolved-modules` ESLint plugin to [find & remove unused code](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8763) in the `forms` and `forms-library` directories
+1. Move the app-specific code mentioned in [Application Entanglement](#application-entanglement) outside the forms library directories.
+1. Use the `no-unresolved-modules` ESLint plugin to [find & remove unused code](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8763) in the `forms` and `forms-library` directories
 
 #### Beginning the bundling
 
-- Copy what remains from `forms` into `forms-system`
-- Create `platform/packages/forms-library` and move the contents of `platform/forms-system` into it
-- Add a `package.json` file to the new `forms-library` package directory
-- [Add an alias to the `.babelrc` file](https://github.com/department-of-veterans-affairs/vets-website/blob/055d96c54e1df54138b9efc589b98e55962333b3/.babelrc#L50-L55) that redirects imports from `platform/forms` and `platform/forms-system` to the new package
-- Edit the webpack config & use a custom `sass-loader` importer to rewrite imports from `forms` to `forms-system`
-- Fix broken relative imports
-- Add babel configuration to the new package because according to [Babel's docs](https://babeljs.io/docs/en/config-files):
+1. Copy what remains from `forms` into `forms-system`
+1. Create `platform/packages/forms-library` and move the contents of `platform/forms-system` into it
+1. Add a `package.json` file to the new `forms-library` package directory
+  - Any dependencies that are exclusively used by the forms library will go in here, and a `yarn install` from the `vets-website` root will install them.
+1. [Add a temporary alias to the `.babelrc` file](https://github.com/department-of-veterans-affairs/vets-website/blob/055d96c54e1df54138b9efc589b98e55962333b3/.babelrc#L50-L55) that redirects imports from `platform/forms` and `platform/forms-system` to the new package
+1. Edit the webpack config & use a custom `sass-loader` importer to _temporarily_ rewrite imports from `forms` to `forms-system`
+  - This will prevent webpack from failing when it can't resolve the `.scss` files
+1. Fix broken relative imports
+1. Add babel configuration to the new package because according to [Babel's docs](https://babeljs.io/docs/en/config-files):
     > Searching [for a config] will stop once a directory containing a `package.json` is found, so a relative config only applies within a single package
 
 #### Clarifying boundaries
