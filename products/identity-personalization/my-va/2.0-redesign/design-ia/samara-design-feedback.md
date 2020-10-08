@@ -21,6 +21,7 @@
 - I realize we talked a ton about tables in the platform team meeting, but could I see a treatment here where the appointment data appears stacked and not across a row? This is what I mean:
 
 **Next appointment**
+
 Dr. Shakatullah Shah Ansari<br></br>
 Wednesday, October 1, 2020<br></br>
 2:00 pm EST<br></br>
