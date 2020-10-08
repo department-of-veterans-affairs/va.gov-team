@@ -1,7 +1,8 @@
 # Research Plan for STEM Scholarship Application (for 22-10203) enhancements
 
 ## Goals	
-1. What product & team are you doing this research for?	This research plan is related to the rollout of updates to the STEM Scholarship that will 
+1. What product & team are you doing this research for?	
+  This research plan is related to the rollout of updates to the STEM Scholarship that will:
   1. Display remaining entitlement to applicants who are logged in and have supporting EVSS entitlement data
   2. Upon submission of eligible applications, SCOs for the institution most recently associated with the applicant will receieve an email notification so that they can preemptively begin the process of supplying the VA with data necessary to validate the scholarship application. 
 2. Background: 
