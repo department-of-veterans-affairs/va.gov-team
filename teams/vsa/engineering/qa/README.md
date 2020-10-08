@@ -10,8 +10,10 @@ Content here will grow over time.  Below are links to our currently-available do
 
 [Tasks & Capacity](vsa-qa-tasks-capacity.md)
 
-[Regression Testing](vsa-qa-regression.md)
-
 [Test Cases](vsa-qa-test-cases.md)
 
 [TestRail help](testrail/README.md)
+
+[E2E Testing](vsa-qa-e2e-testing.md)
+
+[Regression Testing](vsa-qa-regression.md)
