@@ -1,0 +1,43 @@
+# Learning Center Milestone Laydown 
+
+## Product Outline
+[Learning center templates MVP product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/product-outline.md)
+
+## Milestones  
+
+### MVP 1.0
+|Milestone|Target Date|Collab Cycle Checkpoint|Status 'Complete' or 'Not Complete'|
+|---|---|---|---|
+
+- [x] [Define] Kickoff-Intent - We had a PW + CMS project kickoff.
+- [x] [Define] Design intent 
+  - [Ticket: #10955 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10955)
+  -  Asynch review for step-by-step #13626 (completed 9/22)
+  -  Asynch review for responsive tables #13825 
+- [x] [Discover] Usability Testing Prep - Ticket #10965 
+- [x] [Discover] Research Plan Review - usability test submitted to Lauren on 7/16
+- [ ] Contextual inquiry research study - IRIS
+- [ ]  [Discover] IA Request  [Ticket #14445](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14445)
+- [ ] 1.0 BUILD COMPLETE (ALL 1.0 LAYERS) - **~10/12**
+- [ ] INTERNAL QA
+  - [X] **SPIN UP SEPARATE QA [DEMO ENVIRONMENT](http://learningcenter.demo.ci.cms.va.gov/admin/content/learning-center)**
+  - [ ] VALIDATE
+- [X] EXTERNAL QA REQUEST 
+- [ ] [Discover] Analytics Request 
+  - VSP REQUEST #14408 
+  - TBD PW INTERNAL ANALYTICS WORK - #ticket
+- [ ] [Build] Contact Center Review  - of the VA.gov account/profile content for MVP launch
+  - Product Guide - #ticket
+- [ ] **[Build] Pre-Staging Review activities**
+  - [ ] [Accessibility checklist in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=staging-review-accessibility-checklist.md&title=%3CInitiative%3E+x+Staging+Accessibility+Checklist) - #(ticket)
+  - [ ] [Compile QA test cases](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=product-use-cases.md&title=%3CProduct%2FInitiative%3E+Use+Cases) - #11581
+  - [ ] [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=product-release-plan.md&title=%3Cproduct%2Finitiative%2Ffeature%3E+x+Release+plan) - #(ticket)
+  - [ ] Request QA test plan - #(ticket)
+- [ ] **Launch LC 1.0 - DRUPAL PROD-PREVIEW - DATE**
+- [ ] **Launch LC 1.0 - PROD VA.GOV - TEMPLATES - DATE**
+- [ ] SEARCH.GOV STARTS INDEXING - #epic-ticket
+- [ ] **Launch LC 1.0 - PROD VA.GOV - SEARCH - DATE**
+
+
+### MVP 1.1
+- [ ] [Build] Staging Review [ all of these templates will be built in Drupal cms.prod environment] - #ticket
