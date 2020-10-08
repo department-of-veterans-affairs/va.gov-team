@@ -1,3 +1,33 @@
+# Project planning for the My VA redesign
+
+## My VA redesign pivot
+
+As of 10.7.20, it was determined this work is a My VA redesign and we will be leaving the homepage alone. Therefore, our plan changes as follows:
+
+### Phase 1: Initial redesign
+
+**In scope**
+
+- Redesign the following content on My VA:
+  - Your applications.
+  - Disability-related content (claims, your rating, prompts to get started if you don't have disabiity benefits).
+  - Health care-related content (overview, application status, Rx, messages, appointments, prompts to get started if you don't have health care).
+- Revisiting the profile "nametag" area.
+- Basic on-page navigation and information architecture.
+  - (Nice to have/not required) Incorporate Profile into this navigation.
+- A very basic first-time user experience that will account for users who have no benefits and no applications in flight.
+- LOA1 experience.
+ 
+ **Out of scope**
+ 
+- Moving over education links from the homepage. (**Should we link off to the education hub?**).
+- Moving over records links from the homepage.  (**Should we link off to the records hub?**).
+- Any consideration of the current "Find VA Benefits" functionality.
+
+## Summer 2020
+
+**This was the initial plan for when the work was a logged-in homepage redesign.**
+
 ### Phase 1: Adding personalized application, claim, and benefit info to the logged-in homepage; Retiring My VA
 
 When considering next steps, we had to think about what would both be a manageable first step and what would elevate personalized, task-based information. While the easiest next step — removing links from the top 20 tasks that do not apply to individual users when they log in – would be manageable, we did not feel it would adequately elevate the personal information veterans repeatedly stated they wanted to see.
