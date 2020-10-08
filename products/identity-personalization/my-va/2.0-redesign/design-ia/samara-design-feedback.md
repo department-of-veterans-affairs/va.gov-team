@@ -22,9 +22,7 @@
 
 **Next appointment**
 
-Dr. Shakatullah Shah Ansari<br></br>
-Wednesday, October 1, 2020<br></br>
-2:00 pm EST<br></br>
+Dr. Shakatullah Shah Ansari<br></br>Wednesday, October 1, 2020<br></br>2:00 pm EST
 
 To me, it would be much more natural to view this information like so (whereas I think we're used to seeing emails/messages in a table-like view, so that makes sense). I realize I'm not the user, and we should validate everything, but I would love to at least see how you might handle this in a mockup.
 
