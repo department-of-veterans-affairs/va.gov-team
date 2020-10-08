@@ -31,6 +31,7 @@ Between now and late November (9 weeks) we would like to focus on the following:
 - Build screens
 - Design QA and QA screens 
 - Deliver MVP into Test Flight
+- Share with 508 Office along the way for their accessibility input and feedback
 - Release on Test Flight to a small group of internal folks
   - When we do release the app on Test Flight to internal folks, we want to have an open communication line for their feedback.
 
