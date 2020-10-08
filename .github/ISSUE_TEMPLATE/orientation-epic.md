@@ -36,15 +36,14 @@ As a new VA.gov team member, I need to complete onboarding activities so I can s
   - [ ] [Set up internal tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md)
  - [ ] [Process for when a teammate leaves](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/contractoroffboarding.md)
 - [ ] Designers: Attend breakout session
-- [ ] Engineers: Attend breakout session
 - [ ] Front-end Engineers: Attend deep-dive session
 - [ ] Back-end Engineers: Attend deep-dive session
-- [ ] PM, Designers and Content Writer(s): Request content and IA intro 
-- [ ] PM and Front-End Engineers: Request analytics intro
-- [ ] Full team: Request KPI workshop with analytics team
-- [ ] PM Request 508 intro
-- [ ] PM and Engineers: Request load testing & QA intro
-- [ ] PM and Engineering Lead: Request ATO intro
+- [ ] PM, Designers and Content Writer(s): Request content and IA intro with @Liani Lye in slack
+- [ ] PM and Front-End Engineers: Request analytics intro with @Joanne Esteban in slack
+- [ ] Full team: Request KPI workshop with analytics team with @Joanne Esteban in slack
+- [ ] PM, Designers, FE devs: Request 508 intro with @Trevor Pierce in slack
+- [ ] PM and Engineers: Request QA intro with @Peter Hill in slack
+- [ ] PM and Engineering Lead: Request ATO intro with @Faith Owusu-Sekyere in slack
 
 
 ## Notes:
