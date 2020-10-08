@@ -1,10 +1,10 @@
-# Program of Comprehensive Assistance for Caregivers
+# Program of Comprehensive Assistance for Family Caregivers
 
 ## Communications
-- GitHub Label: 
-- Slack channel:
-- Product POCs: 
-- Stakeholders: 
+- GitHub Label: #vsa-caregiver
+- Slack channel: #vsa-caregiver
+- Product POCs: Alayna Abel, Ming Ligh
+- Stakeholders: Pam Wright, Cari Malcolm
 
 ## The Problem
 
