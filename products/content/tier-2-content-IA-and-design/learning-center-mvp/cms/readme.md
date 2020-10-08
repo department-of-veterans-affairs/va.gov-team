@@ -11,10 +11,11 @@
 
 1. Review backlog
 1. standalone Q&A page template logic
-1. final URLs for Q&A team
-1. anything else
+1. final URLs for QA team
 
 ### Action items
+
+1. Resource and support content creator role OR short-term new content access conversation (CMS team to brainstorm).
 
 ## Tuesday September 29
 
