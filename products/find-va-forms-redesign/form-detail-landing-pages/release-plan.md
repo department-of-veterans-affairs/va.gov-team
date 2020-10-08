@@ -20,7 +20,7 @@ Per product sync today - We will launch batches per steps:
 
 6. Fix bugs if any. 
 
-7. Remove basic auth. and Add to sitemap 
+7. Remove basic auth. and Add to sitemap - **October 7, 2020**
 
 
 **III. After basic auth removed** :arrows_counterclockwise:
