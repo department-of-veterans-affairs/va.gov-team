@@ -39,6 +39,9 @@ Additionally, the forms library code is entangled with other platform code as we
 
 #### Application entanglement
 
+We have several examples of the forms library importing application code, which is the opposite of what should happen.
+The forms library is meant to be a library that is used _by_ applications. Having certain parts of applications import forms library code while the forms library also imports application code leads multiple problems and blurs the lines of responsibility.
+
 [This definition file](https://github.com/department-of-veterans-affairs/vets-website/blob/720a867817f5b83bd1d713bd51202863b41739b1/src/platform/forms/definitions/nonMilitaryJobs.js#L1) in the forms library imports some app code, yet the file itself is _only_ used in other app code.
 
 There is a [helper file](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4a3172edc242bf60c93aec5b170c734dc57985/src/applications/personalization/dashboard/helpers.jsx) in `src/applications/personalization` which exports a number of consts which are used in the following files within the forms library:
@@ -107,14 +110,13 @@ A few things will have to happen in order pave the way for additional changes th
 
 The [Platform Entanglement](#platform-entanglement) section mentions that forms library code imports from "parent" platform code. This makes the boundaries less clear, so an effort will be made to reduce or eliminate the forms library importing from platform code.
 
-- Move the `static-data/labels` file into the forms library, since it is only used in connection with forms library configuration
+- Move the [`static-data/labels` file](https://github.com/department-of-veterans-affairs/vets-website/blob/58c48c6fd116db6e875162f540a0d072678a68d2/src/platform/static-data/labels.jsx) into the forms library, since it is only used in connection with forms library configuration
 - Prefer code that exists in the forms library, instead of in the parent platform directory.
   - For example, we have a [`focusElement`](https://github.com/department-of-veterans-affairs/vets-website/blob/46000a4becae29ca72b505889713fd4b2b2718f0/src/platform/utilities/ui/index.js#L17-L32) that exists in `platform/utilities/ui`, but also one that exists in [`forms-system/src/js/utilities/ui`](https://github.com/department-of-veterans-affairs/vets-website/blob/46000a4becae29ca72b505889713fd4b2b2718f0/src/platform/forms-system/src/js/utilities/ui/index.js#L3-L18). This project would eliminate the duplicate code existing at the platform level and direct all imports to use the forms library version
 - Remove imports from `platform/monitoring`
   - Instead, import the relevant code outside of the forms library and pass them in as props or config options.
   - As an example, in the [`FormSignInModal`](https://github.com/department-of-veterans-affairs/vets-website/blob/1cc955b8d4f6b9f93f4553fdd4afa9878c75564f/src/platform/forms/save-in-progress/FormSignInModal.jsx#L12) component, remove the `platform/monitoring/record-event` import and instead put that function call inside of the function that gets passed as a prop. `FormSignInModal` is only used from `platform/site-wide`.
-- Remove forms library dependence on platform re-implementations of 3rd party functions, like lodash's `get` and `set`.
-  - Some of these examples will be easy to avoid the lodash functions entirely, but for others we should switch to the lodash functions instead of the platform versions, with a longer term goal being to get away from lodash altogether
+- Remove forms library dependence on platform re-implementations of 3rd party functions, like lodash's `get` and `set`. Use the forms library implementations where possible.
 - Remove imports for `src/platform/utilities/environment` and instead rely on global `const`s from webpack's DefinePlugin for environment-related `const`s (i.e. an api url) or branching
 
 
@@ -211,6 +213,8 @@ With this, we could publish it to npm, and we could completely remove the forms 
 Having a `package.json` specific to the forms library will allow us to treat it more like a product that we provide to VFS teams. It will be separate from the rest of the code in `vets-website`, so we could eliminate lodash from the forms library, or replace `moment` with something more appropriate without affecting the rest of the frontend.
 
 Additionally, it might make more sense if we bundled `react-jsonschema-form` in with the forms library. This would help make the forms library feel more cohesive.
+
+Part of the forms library uses re-implementations of 3rd party functions from lodash in the `utilities/data` directory. Several of these usages could be replaced with "native" or vanilla versions ([example](https://github.com/department-of-veterans-affairs/vets-website/blob/32f6e006b36f9cbaa749ff33e41df322a4934d7f/src/platform/forms/save-in-progress/SaveInProgressIntro.jsx#L52)), and where that isn't possible we could add a dependency to `package.json` rather than reinvent the wheel.
 
 ### Revision History
 
