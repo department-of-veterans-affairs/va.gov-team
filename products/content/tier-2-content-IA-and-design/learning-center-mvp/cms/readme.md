@@ -5,6 +5,22 @@
  -  LC go-to-market strategy: how will users find the Learning Center?
 </details>
 
+## Tuesday October 13
+
+### Agenda
+
+1. Review backlog
+1. LC content forms access - new "Content Creator - Resources and support" role is in the backlog
+   1. [#3132 "Content Creator - Resources and support" role + permissions](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3132)
+   1. [#3133 New VA Forms form available to Content Admins only](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3133)
+1. URL alias + breadcrumb patterns decision check-in [#2818](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2818)
+1. anything else
+
+### Action items
+
+1. 
+
+
 ## Tuesday October 7
 
 ### Agenda
