@@ -9,7 +9,7 @@
 
 ### Agenda
 
-1. Review backlog
+1. Review [backlog](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1975)
 1. LC content forms access - new "Content Creator - Resources and support" role is in the backlog
    1. [#3132 "Content Creator - Resources and support" role + permissions](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3132)
    1. [#3133 New VA Forms form available to Content Admins only](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3133)
