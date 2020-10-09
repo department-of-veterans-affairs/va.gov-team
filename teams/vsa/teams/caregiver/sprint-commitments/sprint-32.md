@@ -6,7 +6,7 @@
 - Save in progress bug (https://github.com/department-of-veterans-affairs/va.gov-team/issues/12311)
 - Statement of truth checkboxes
 - Downtime setup discovery/tickets (https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/downtime-notifications/)
-- 10-10CG QA Fixes 
+- 10-10CG QA Fixes https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14054)
 - Stretch: front-end/back-end not validating errors (client failures)
 
 ## Backend
