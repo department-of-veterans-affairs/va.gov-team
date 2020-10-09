@@ -15,30 +15,40 @@
 
 Thanks for joining us today! My name is Kristen and I also have some colleagues on the line observing and taking notes. Today we're going to review a prototype of a questionnaire that will help you and your doctor prepare for an upcoming appointment.
 
+**If mobile participant**
+- First I want to make sure your technology is ready to go for this session. Can you confirm for me what type of device you're using to join today?
+    -Great, that helps me troubleshoot with you if we run into any problems.
+    
+_For iPhone:_
+- OK great. When you are inside the zoom application on your phone, you'll see a few buttons at the bottom. Audio, Video, Share content, Participants, and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "chat" and "share content." Any questions?
+- Tap ‘Share content’ (Green button at bottom middle of the screen)
+- Tap on Screen
+- Tap Zoom
+- Tap start broadcast. After a count of 3, the entire device screen will be shared into the meeting
+- Tap the red bar at the top of your screen when you are ready to end the share
+- Great, now I can see your phone screen! I'm going to begin now if that's ok with you. We will return to this in a few moments.
+_For troubleshooting screen sharing in iOS, reference the Zoom documentation here https://support.zoom.us/hc/en-us/articles/115005890803-iOS-Screen-Sharing_
+
+_For Android:_
+- OK great. When you are inside the zoom application on your phone, you'll see a few buttons at the bottom. For instance, Share and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "chat" and "share." Any questions?
+- Tap "Share"
+- Tap "Screen"
+- May give a "sensitive info" alert
+- May ask you to give Zoom permission to display over other apps, toggle yes. The hit the back arrow . Then it might just share your screen.
+- Tap "Start now" (maybe)
+_For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen_
+
+_Backup plan if they cannot figure out how to share screen:_
+
+- Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "Drive". You will tell me what to do, what to tap, on, etc. Does that sound ok?
+- [Share your screen]. Can you confirm if you can see my screen?
+
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording.*
 
 - **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?"** 
-
-**If mobile participant**
-- First I want to make sure your technology is ready to go for this session. Can you confirm for me what type of device you're using to join today?
-    -Great, that helps me troubleshoot with you if we run into any problems.
-    
-- OK great. When you are inside the zoom application on your phone, you'll see a few buttons at the bottom. Audio, Video, Share content, Participants, and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "chat" and "share content." Any questions?
-
-- First I'd like you to share your screen with me. Tap on the arrow that says "Share content" and hit "share screen". Select that button. You should be prompted with an option to share "Zoom" and then "Screen". Then select "Start Broadcast". If you see any additional prompts please read them aloud and I will help.
-
-- Ok, tap anywhere on the screen to go back to the Zoom application.
-
-- Great, now I can see your phone screen! We are going to use this prototype in our session today. I'm going to begin now if that's ok with you. We will return to this in a few moments.
-
-_Backup plan if they cannot figure out how to share screen:_
-
-- Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "Drive". You will tell me what to do, what to tap, on, etc. Does that sound ok?
-
-[Share your screen]. Can you confirm if you can see my screen?
 
 Great. Now we're really ready to begin!
 
@@ -64,7 +74,7 @@ Before we start, a few things I want to mention:
 
 Keep that pre-appointment experience in mind as I tell you about our first exercise. I will give you a task and ask you to "narrate" your thoughts as you complete the task. 
 
-I'm going to send you a link in the chat. Once you pull up the link, will you share your screen with me?
+I'm going to send you a link in the chat.
 
 [Mobile Prototype](https://preview.uxpin.com/a15205c1bedcdfc8fe46fed26c22fa731cab8ae0cvhidm)<br/>
 [Desktop Prototype](https://preview.uxpin.com/e9e0dc597bb076e74db05f77d35306496a89fca2cvhidm)
