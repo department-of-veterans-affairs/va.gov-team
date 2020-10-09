@@ -136,6 +136,10 @@ Note: This is a DevOps tickets, and I am figuring out who can work on it. Howeve
 
 Phase 2: Design Healthcare, Claims sections
 
+- Overall disability rating #14400
+- Check your claim or appeal status #14401
+
+
 - Get feedback on disability claims section; make updates
 - Plan for usability testing, including normal [review of the research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#research-plan-review)
 - [Usability Test Prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#usability-testing-prep) checkpoint meeting
