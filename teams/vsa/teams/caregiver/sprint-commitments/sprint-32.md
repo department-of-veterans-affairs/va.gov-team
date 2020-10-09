@@ -3,18 +3,18 @@
 ##### 10/7 - 10/20
 
 ## Frontend
-- Save in progress bug (https://github.com/department-of-veterans-affairs/va.gov-team/issues/12311)
-- Statement of truth checkboxes (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14697
-- Downtime setup discovery/tickets (https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/downtime-notifications/)
-- 10-10CG QA Fixes https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14054)
-- Stretch: front-end/back-end not validating errors (client failures) (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14696)
+- [Save in progress bug](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12311)
+- [Statement of truth checkboxes](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14697)
+- [Downtime setup discovery/tickets](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/downtime-notifications/)
+- [10-10CG QA Fixes](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14054)
+- [Stretch: front-end/back-end not validating errors (client failures)](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14696)
 
 ## Backend
 - Statement of truth checkboxes [backend](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14702) [schema](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14701)
-- Monitoring and looking into form errors (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14703)
-- Daily report of yesterday's: number of submissions, number sent to CARMA, number of "failures" and why if available (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14700)
+- [Monitoring and looking into form errors](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14703)
+- [Daily report of yesterday's: number of submissions, number sent to CARMA, number of "failures" and why if available](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14700)
 - [x] Stretch: Familiarize with Sentry 10
-- Stretch: - Unique SSN/validation (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13427)
+- [Stretch: - Unique SSN/validation](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13427)
 
 **Additional Scope**
 - [x] Get IP address of applicant who said they didn't apply
@@ -22,9 +22,9 @@
 - [x] Identify the carma cases where attachment was not likely set (where `attachments`: `{}` or `{ has_errors: true }`)
 
 ## Design
-- Talk through designs for Statement of Truth radios (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12794)
-- Talk through the designs for address on 10-10EZ (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13389)
-- Start research plan for 10-10EZ cumulative study (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14698)
+- [Talk through designs for Statement of Truth radios](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12794)
+- [Talk through the designs for address on 10-10EZ](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13389)
+- [Start research plan for 10-10EZ cumulative study](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14698)
 
 ## Product
 - Ming: Investigate MPI duplicate errors
