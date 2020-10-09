@@ -77,7 +77,6 @@ Deliverables: Full design, layout and specs for LOA3 (state when a user has bene
    
 **Applications in progress** 
 
-- Application in progress
    - [ ] Visual design exploration
    - [ ] High fidelity mockups
    
