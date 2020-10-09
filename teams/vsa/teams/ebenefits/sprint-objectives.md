@@ -8,6 +8,48 @@
 - Measure outcomes where possible
 - Remember the Contact Center (Alamo!) and the issues they deal with
 ----
+## Sprint 32 (10/7 - 10/22)
+```diff
+- 53 points over 16 issues
+```
+### 1. Automate "Dependency Claims" Submissions
+- BE: iterate and implement latest changes for RBPS integration
+- Team: Perform e2e testing with partner systems
+- Product: Review OKRs and KPIs
+### 2. View My Payments: Dev Activities, Launch Prep
+- Design: Iterate on product designs as needed
+- BE: Test new service for connection
+- Product: schedule and attend collab cycle activities as needed
+- Product: Draft launch activities
+### 3. PCPG (CH36): Design and Dev Iteration
+- Design: Draft analysis and summary readout from usability sessions
+- FE: Feature complete (for stakeholder sharing)
+- Product: Schedule Collab Cycle activities as needed
+### 4. EDU DD
+- Design: Conduct discovery adn research on direct deposit funtionality for EDU (Auth Exp)
+- Design: Create intial draft of resarch plan and conversation guide for usability sessions
+
+## Sprint 31 (9/12 - 10/6)
+```diff
+- 71 issues over 20 issues
+```
+### 1. Automate "Dependency Claims" Submissions
+- BE: iterate and implement latest changes for RBPS integration
+- Team: Perform e2e testing with partner systems
+- Product: Review OKRs and KPIs
+### 2. View My Payments: Dev Activities, Launch Prep
+- Design: Iterate on product designs as needed
+- FE: Feature complete
+- BE: Prepare new service for connection
+- Product: Draft launch activities
+### 3. PCPG (CH36): Design and Dev Iteration
+- Design: Iterate on product designs and conduct usability sessions
+- FE: Complete all development possible without BE in place
+- BE: Connect to Centralized Mail Service
+### 4. EDU DD
+- Design: Conduct discovery adn research on direct deposit funtionality for EDU (Auth Exp)
+- Design: Create intial mockups for Auth Exp review
+
 ## Sprint 30 (9/9 - 9/22)
 ```diff
 - 67 issues over 21 issues
