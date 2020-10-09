@@ -11,11 +11,25 @@
     - _If participanting in mobile version, make sure they are setup on Zoom app and ready to screenshare._
 - _When the participant is ready, begin the session with the following intro._
 
-## Project-specific setup - 5 minutes
+## Project-specific setup and Intro - 10 minutes
 
 Thanks for joining us today! My name is Kristen and I also have some colleagues on the line observing and taking notes. Today we're going to review a prototype of a questionnaire that will help you and your doctor prepare for an upcoming appointment.
 
+**If desktop participant**
+
+- [Screen share and walk through this document](https://docs.google.com/presentation/d/1lo44N4rTBDaHfcsjX6bCV1a--YJSTPXSXnZbywB71J0/edit?usp=sharing)
+- **Since this is a prototype, not everything will be clickable or fully functioning.**
+- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve our tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+- **This entire session should take about an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **If for any reason and at any time you want to stop the session, please let me know.** 
+- Talk them through Zoom screen sharing and chat features shown in document.
+
 **If mobile participant**
+
+- **Since this is a prototype, not everything will be clickable or fully functioning.**
+- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve our tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+- **This entire session should take about an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **If for any reason and at any time you want to stop the session, please let me know.** 
 - First I want to make sure your technology is ready to go for this session. Can you confirm for me what type of device you're using to join today?
     -Great, that helps me troubleshoot with you if we run into any problems.
     
@@ -38,7 +52,7 @@ _For Android:_
 - Tap "Start now" (maybe)
 _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen_
 
-_Backup plan if they cannot figure out how to share screen:_
+**Backup plan if they cannot figure out how to share screen:**
 
 - Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "Drive". You will tell me what to do, what to tap, on, etc. Does that sound ok?
 - [Share your screen]. Can you confirm if you can see my screen?
@@ -53,15 +67,6 @@ _Backup plan if they cannot figure out how to share screen:_
 - **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?"** 
 
 Great. Now we're really ready to begin!
-
-## Intro - 5 minutes
-
-Before we start, a few things I want to mention:
-
-- **Since this is a prototype, not everything will be clickable or fully functioning.**
-- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve our tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- **This entire session should take about an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **If for any reason and at any time you want to stop the session, please let me know.** 
 
 ## Warm-up Questions - 5 minutes
 
