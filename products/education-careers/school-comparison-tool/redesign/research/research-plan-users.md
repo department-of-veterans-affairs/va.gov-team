@@ -59,7 +59,11 @@ Researchers believe that the design of the Comparison Tool can be optimized by i
        - Have personally started using their GI Bill benefits in the last 6 months
        - Be currently using their GI Bill benefit
        - Plan to personally use their GI Bill benefit in the next 2-3 months
-  - 3-4 non-Veteran beneficiaries
+  - 3-4 dependents (non-Veteran beneficiaries)
+    - Dependents should meet one of the following:
+      - Have started using their GI Bill benefits in the last 6 months
+      - Be currently using their GI Bill benefit
+      - Plan to use their GI Bill benefit in the next 2-3 months
   - 3-4 School Certifying Officials (SCOs)
      
 Age Range: 24-54
@@ -75,8 +79,8 @@ Familiarity with technology: Any
 Login requirements: None
 
 2.	What is your recruitment strategy? 	
- - Recruiting for Veterans will be performed by Perigean Technologies
- - Recruiting for non-Veteran beneficiaries and SCOs will be performed by the Booz Allen team through existing connections.
+ - Recruiting for Veterans and Dependents will be performed by Perigean Technologies
+ - Recruiting for SCOs will be performed by the Booz Allen team through existing connections.
 
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
@@ -86,9 +90,10 @@ Login requirements: None
 3. Length of Sessions: How long do you estimate each session will be? 
   - 45 minutes
 4.	Availability: If applicable, when would you like sessions scheduled? 
- - Thurs, Oct 15th:  10:30-11:15AM;
+ - Thurs, Oct 15th:  9:15-10AM; 10:30-11:15AM;
  - Fri, Oct 16th:  10:30-11:15AM; 12-12:45PM; 1:15-2PM;
- - Tues, Oct 20th: 10:30-11:15AM; 12-12:45PM; 
+ - Mon, Oct 19th:  10-10:45AM; 12-12:45PM; 
+ - Tues, Oct 20th: 9:15-10AM; 10:30-11:15AM; 12-12:45PM; 
  - Wed, Oct 21st:  10:30-11:15AM; 12-12:45PM;
  
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
