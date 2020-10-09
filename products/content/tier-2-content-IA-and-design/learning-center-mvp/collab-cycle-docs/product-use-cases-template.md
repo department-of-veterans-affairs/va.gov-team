@@ -40,7 +40,7 @@ Link to product outline: [Resources and support (formerly called learning center
   - The user should receive a message telling them we couldn't find resources and support articles matching their query, and that they should try expanding their search query or searching all of VA.gov. 
 
 * **Link to designs**
-  - lorem ipsum
+  - Mural board: [search - user query with no results](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1588167553516/2773c854e8ff3a725a5e3ee03272b78e8519f78b?wid=0-1602257201953)
 
 * **Instructions to access in demo environment (for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - http://learningcenter.demo.ci.cms.va.gov/
@@ -53,7 +53,7 @@ Link to product outline: [Resources and support (formerly called learning center
   - User should receive a 'thank you-feedback' confirmation message. 
 
 * **Link to designs**
-  - lorem ipsum
+  - Mural board: [Thank you for your feedback.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1588167553516/2773c854e8ff3a725a5e3ee03272b78e8519f78b?wid=0-1602252163376)
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - lorem ipsum
