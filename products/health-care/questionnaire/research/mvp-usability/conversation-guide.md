@@ -126,7 +126,7 @@ _Tell the Veteran before asking questions on this page._ This is the first versi
 - How would you expect your doctor or primary care provider to use this information?
 - Do you feel the in-person part of your appointment with the doctor/nurse will be different after providing this information ahead of time?
 - _If not explicitly mentioned,_ what do you think about ranking the questions that you enter?
-- Should your questionnaire answers automatically appear in your next upcoming appointment questionnaire, so you can review and edit. Do you think the information that you enter for these questions will be very different each time?
+- Should your questionnaire answers automatically appear in your next upcoming appointment questionnaire, so you can review and edit? Do you think the information that you enter for these questions will be very different each time?
 
 ### On the Review page - 2 minutes (Optional)
 - What are your impressions of this page?
