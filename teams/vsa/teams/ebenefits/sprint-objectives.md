@@ -25,7 +25,10 @@
 - Design: Draft analysis and summary readout from usability sessions
 - FE: Feature complete (for stakeholder sharing)
 - Product: Schedule Collab Cycle activities as needed
-### 4. EDU DD
+### 4. VRE (CH31): Design and Dev Iteration
+- FE: Iterate on product designs as needed, unit tests
+- Product: Schedule Collab Cycle activities as needed
+### 5. EDU DD
 - Design: Conduct discovery adn research on direct deposit funtionality for EDU (Auth Exp)
 - Design: Create intial draft of resarch plan and conversation guide for usability sessions
 
