@@ -38,3 +38,9 @@
 - Kevin: 10/12 - 10/16
 - Alayna: 10/12 - 10/16
 - Justin, Ming, Jonathan: 10/12
+
+## Backlog//to discuss
+- Secondary caregiver
+- POA attachment
+- Facility list changes/clinic references
+- Update rules around sending PDFs
