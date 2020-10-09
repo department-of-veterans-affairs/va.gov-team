@@ -12,7 +12,7 @@ We broke this strategy down into 3 phases.
 
 - Phase 1: Create 2-3 high-level concepts for logged-in homepage
 - Phase 2: Design Healthcare and Disability sections
-- Phase 3: Design Education and Records sections
+- Phase 3: 
 
 ## Phase 1: Create 2-3 high-level concepts for logged-in homepage: ~ 1 sprint
 
@@ -69,6 +69,7 @@ Deliverables: Full design, layout and specs for LOA3 (state when a user has bene
 
 
 - [ ] Appropriate stakeholder reviews and approval along the way
+- [ ] Navigation exploration, including possible addition of Profile links
 - [ ] User Research
 - [ ] Design updates from user research
 - [ ] Stakeholder Review (Depending on research outcome)
@@ -76,85 +77,33 @@ Deliverables: Full design, layout and specs for LOA3 (state when a user has bene
 - [ ] Hand-off to developers 
   
    
-## Phase 3: Design Education, Records, Applications in Progress, discover additional benefits sections: ~ 2 sprints
-
-**Education**
-
-- View your payment history
-   - [ ] Visual design exploration
-   - [ ] High fidelity mockups
-   
-- Change your current education benefits
-   - [ ] Visual design exploration
-   - [ ] High fidelity mockups
-
-- Compare GI Bill benefits by school
-   - [ ] Visual design exploration
-   - [ ] High fidelity mockups
-   
-- Apply for education benefits
-   - [ ] Visual design exploration
-   - [ ] High fidelity mockups
-
-**Records**
-
-- Get Veteran ID cards
-   - [ ] Visual design exploration
-   - [ ] High fidelity mockups
-   
-- Get your VA medical records
-   - [ ] Visual design exploration
-   - [ ] High fidelity mockups
-   
-- Download your benefit letters
-   - [ ] Visual design exploration
-   - [ ] High fidelity mockups
-   
-- Change your address
-   - [ ] Visual design exploration
-   - [ ] High fidelity mockups
-   
-- Request your military records (DD214)
-   - [ ] Visual design exploration
-   - [ ] High fidelity mockups
-   
-- Change your direct deposit information (note: this is not currently on the homepage now, but there's enough evidence that we should add it.)
-   - [ ] Visual design exploration
-   - [ ] High fidelity mockups
+## Phase 3: Design Applications in Progress, Blank'state and LOA1 state ~ 2 sprints
    
 **Applications in progress** 
 
 - Application in progress
    - [ ] Visual design exploration
    - [ ] High fidelity mockups
-
    
-**Discover other benefits**
+**Blank State (LOA3 user that does not have benefits or healthcare)** 
 
-- List of available benefits 
    - [ ] Visual design exploration
    - [ ] High fidelity mockups
    
-- [ ] User Research
-- [ ] Design updates from user research for both education and records
-- [ ] Stakeholder Review (Depending on research outcome) for both education and records
-- [ ] Platform checkpoints for both education and records
-- [ ] Hand-off to developers
+**LOA1** 
 
-
-## Phase 4: Design 'Blank'state and LOA1 state: ~ 1-2 sprints
-
-Deliverables: Full design, layout and specs for LOA1, LOA3 (user that does not have benefits or healthcare). Includes all research and reviews.
+   - [ ] Visual design exploration
+   - [ ] High fidelity mockups
  
 
-## Phase 5: Final validation and retirement of MyVA: ~ 1-2 sprints
+## Phase 4: Final validation and retirement of MyVA: ~ 1-2 sprints
 
 - [ ] User Research for the page as a whole
-- [ ] Retire MyVA
+- [ ] Replace MyVA
 
 ## Links
 
-- [User Stories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/product/lih-assets/LIH%20User%20Stories.pdf)
+- [User Stories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/lih-assets/LIH%20User%20Stories.pdf)
 
-- [Data Points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/product/lih-assets/LIH%20Outline.xlsx)
+- [Data Points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/lih-assets/LIH%20Outline.xlsx)
 
