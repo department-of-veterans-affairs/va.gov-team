@@ -56,6 +56,7 @@ Our team is working on re-imagining the GI Bill Comparison Tool.  As we appoach 
 
 *Comparison Tool Usage - Customer Focus*
 - What are the most common questions EDU hears about the Comparison Tool?
+- From your perspective, what are the major pain points that you hear from Veterans regarding the Comparison Tool?
 
  
 
