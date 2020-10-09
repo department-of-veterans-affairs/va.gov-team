@@ -5,11 +5,7 @@
 
 > [Roadmap Release Plan Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/README.md)
 
-
-
-<details> <summary> September 2020</summary>
-
-
+<details> <summary> October 2020</summary>
 
 ## Oct 9th, 2020
 
@@ -69,7 +65,11 @@
 
 **Blockers:**
 - No changes in status from previous week for blocker [Stakeholder Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
-- FHIR Mapping has been submitted for review. [Jira Ticket](https://issues.mobilehealth.va.gov/browse/PGDG-75) Once this ticket has been resolved we should have access to view and post to PGD / get answers from the team for current authorize errors currently happening.
+- FHIR Mapping has been submitted for review. [Jira Ticket](https://issues.mobilehealth.va.gov/browse/PGDG-75) Once this ticket has been resolved we should have access to view and post to PGD / get answers from the team for current authorize errors currently happening.	
+	
+</details>
+
+<details> <summary> September 2020</summary>
 
 
 ## Sept 25th, 2020
