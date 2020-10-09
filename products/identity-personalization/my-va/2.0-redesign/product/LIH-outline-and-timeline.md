@@ -1,18 +1,20 @@
 **** We need to keep the team/engineers in the loop throughout the process in order to get valuable feedback as we go along vs having them just see final designs
 
-# Logged-in homepage outline and timeline
+# MyVA 2.0 outline and timeline
 
-Based on the [V1 plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/product/v1-plan.md) and [Logged-in homepage discovery summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/discovery-summary.md) that Liz Lantz put together, we have planned out phases to design and build the new Logged-in homepage. 
+Based on the [V1 plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/product/v1-plan.md) and [Logged-in homepage discovery summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/discovery-summary.md) that Liz Lantz put together, we have planned out phases to design and build the updated MyVA. 
 
 The strategy that we outlined below is based on the following direction:
 
 Decide on our high level concept, code the most MVP version of all benefits categories and then iterate up from there on all categories. 
 
-We broke this strategy down into 3 phases.
+We broke this strategy down into 4 phases.
 
 - Phase 1: Create 2-3 high-level concepts for logged-in homepage
 - Phase 2: Design Healthcare and Disability sections
-- Phase 3: 
+- Phase 3: Phase 3: Design Applications in Progress, Blank'state and LOA1 state
+- Phase 4: Final validation and implementation of MyVA 2.0
+   
 
 ## Phase 1: Create 2-3 high-level concepts for logged-in homepage: ~ 1 sprint
 
@@ -91,7 +93,7 @@ Deliverables: Full design, layout and specs for LOA3 (state when a user has bene
    - [ ] High fidelity mockups
  
 
-## Phase 4: Final validation and retirement of MyVA: ~ 1-2 sprints
+## Phase 4: Final validation and implementation of MyVA 2.0: ~ 1-2 sprints
 
 - [ ] User Research for the page as a whole
 - [ ] Replace MyVA
