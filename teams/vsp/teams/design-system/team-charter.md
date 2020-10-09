@@ -5,7 +5,7 @@
 ## Why we're here
 
 ### North Star:
-Any team charged with building a Veteran Facing Service (VFS) can quickly design, test and build an application that builds an application that meets or improves VA’s standards of quality for the Veteran experience.  
+Any team charged with building a Veteran Facing Service (VFS) has the tools to quickly design, test and build an application that builds an application that meets or improves VA’s standards of quality for the Veteran experience.  
 
 ### Product Suite: 
 Design System 
