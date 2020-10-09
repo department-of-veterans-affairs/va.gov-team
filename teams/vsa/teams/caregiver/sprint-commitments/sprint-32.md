@@ -10,13 +10,13 @@
 - [Stretch: front-end/back-end not validating errors (client failures)](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14696)
 
 ## Backend
-- Statement of truth checkboxes [backend](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14702) [schema](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14701)
+- Statement of truth checkboxes [backend](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14702) & [schema](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14701)
 - [Monitoring and looking into form errors](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14703)
 - [Daily report of yesterday's: number of submissions, number sent to CARMA, number of "failures" and why if available](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14700)
-- [x] Stretch: Familiarize with Sentry 10
 - [Stretch: - Unique SSN/validation](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13427)
 
 **Additional Scope**
+- [x] Stretch: Familiarize with Sentry 10
 - [x] Get IP address of applicant who said they didn't apply
 - [x] Create AWS Log query to count submissions successful, blocked, and failed for a given day
 - [x] Identify the carma cases where attachment was not likely set (where `attachments`: `{}` or `{ has_errors: true }`)
