@@ -11,7 +11,7 @@ We expect developers to be familiar with GitHub and the pull request review proc
 ## The pull request review lifecycle in brief
 
 1. For initial review by your project team, create a [Draft Pull Request](https://github.blog/2019-02-14-introducing-draft-pull-requests/)
-2. Automated checks will run against your code. These should be responded too and may block your code from being merged.
+2. Automated checks will run against your code. These should be responded to and may block your code from being merged.
 3. A VSP engineer will review your code when it is marked "ready for review."  These will typically be completed in one business day.
   - This step is unnecessary for code-owners. (Information on how VSP uses code owners can be found [here](codeowners.md).)
   - For frontend PRs, the [additional automated checks](./manual-review-triggers.md) can trigger a review from the **frontend-review-group** regardless of the use of code-owners.
