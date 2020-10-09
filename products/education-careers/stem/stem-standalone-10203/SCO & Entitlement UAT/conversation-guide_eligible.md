@@ -26,7 +26,7 @@ As we begin, I want to note that there are a number of warnings built into the f
 
 A few more things I want to mention:
 •	** There are a few other individuals on the line observing.**  They are watching for any errors or unexpected behavior that may arise in the system during the application process.
-•	** This entire session should take no more than 30 minutes.** 
+•	** This entire session should take no more than 45 minutes.** 
 •	** In this session, we want to hear your honest opinions.**  We will not be offended by any opinions you express, and we welcome your feedback.
 •	** If for any reason and at any time you want to stop the session, please let me know.** 
 
@@ -39,18 +39,17 @@ A few more things I want to mention:
 5.	Now that the applicant is signed in, have them scroll down to the "How do I apply" section and click the green "Find your education benefits form" button
 6.	The applicant should select the "Applying to extend my Post-9/11 or Fry Scholarship benefits using the Edith Nourse Rogers STEM Scholarship" radio button
 7.	The applicant should select the "Yes" radio button in response to the following question "Based on the eligibility requirements above, do you want to apply for this scholarship?" followed by selecting the green "Apply now" button.
-8.	The applicant should now be prompted for the "basic auth" credentials. The facilitator should take control back from the participant and enter the credentials so as to keep them secure. The credentials can be found in the team's Keybase chat.
 
 #### Things to watch for:
-1.	The individual needs to be signed in on VA.gov prior to accessing the wizard in order to be routed correctly to the 22-10203
-2.	Confirm that after clicking "Apply now" the applicant is routed to https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction
+1.	The individual needs to be signed in on VA.gov prior to accessing the wizard in order to see the expected functionality in the application.
+2.	Confirm that after clicking "Apply now" the applicant is routed to va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction
 4.	The applicant will continue through the application and pre-fill information should be included as available on the "Applicant information" screen.
 
 ### Second Task: Start & Complete the application
 1.	On the application introduction screen, confirm that variation of the following alert appears at the top of the application and includes remaining entitlement:
 "You may not be eligible....Months you have left to use: XX months, XX days" (seen here: https://bahdigital.invisionapp.com/share/JHIAE4UVKA4#/screens/296040759)
 2. The applicant should scroll to the bottom of the screen and click the button to begin their application.
-3.	The applicant will continue through the application and pre-fill information will be included as available on the "Applicant Information" screen. See "things to watch for" for the list of screens where we want to review entitlement information. 
+3.	The applicant will continue through the application and pre-fill information will be included as available on the "Applicant Information" screen. See "things to watch for" for the list of screens where we want to review entitlement information [TBD].
 
 #### Things to watch for:
 1. Pages to review "entitlement" information: TBD
@@ -66,7 +65,7 @@ A few more things I want to mention:
 - Does the user see the eligibility alerts? 
 - Does prefill data populate correctly? 
 - Does the form data populate “Review application” correctly?  
-- Does the form submit? 
+- Does the form submit? If not, be sure to capture any errors. If yes, be sure to capture the confirmation number
 
 ### Post-Task Interview - X minutes
 - How did you think that went?
@@ -75,5 +74,4 @@ A few more things I want to mention:
 - Any questions for me?
 
 ### Thank-You and Closing - X minutes
-
 We really appreciate you taking the time to do this today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for other Veterans.
