@@ -77,7 +77,7 @@ Deliverables: Full design, layout and specs for LOA3 (state when a user has bene
 - [ ] Hand-off to developers 
   
    
-## Phase 3: Design Applications in Progress, Blank'state and LOA1 state ~ 2 sprints
+## Phase 3: Design Applications in Progress, 'Blank' state and LOA1 state ~ 2 sprints
    
 **Applications in progress** 
 
