@@ -47,11 +47,14 @@ A few more things I want to mention:
 4.	The applicant will continue through the application and pre-fill information should be included as available on the "Applicant information" screen.
 
 ### Second Task: Start & Complete the application
-1.	The applicant should scroll to the bottom of the screen and click the button to begin their application.
-2.	The applicant will continue through the application and pre-fill information will be included as available on the "Applicant Information" screen.  
+1.	On the application introduction screen, confirm that variation of the following alert appears at the top of the application and includes remaining entitlement:
+"You may not be eligible....Months you have left to use: XX months, XX days" (seen here: https://bahdigital.invisionapp.com/share/JHIAE4UVKA4#/screens/296040759)
+2. The applicant should scroll to the bottom of the screen and click the button to begin their application.
+3.	The applicant will continue through the application and pre-fill information will be included as available on the "Applicant Information" screen. See "things to watch for" for the list of screens where we want to review entitlement information. 
 
 #### Things to watch for:
-•	On the direct deposit screen, applicants who do not want to impact any current payments they are receiving can select "I don't want to use direct deposit"
+1. Pages to review "entitlement" information: TBD
+2. On the direct deposit screen, applicants who do not want to impact any current payments they are receiving can select "I don't want to use direct deposit"
 
 ### Third Task: Review & Submit Application
 1.	On the Application Review screen, have the applicant expand each accordion to ensure that the content matches their entries. You may want them to update their responses on this screen to see that all updates occur as expected. 
@@ -73,46 +76,4 @@ A few more things I want to mention:
 
 ### Thank-You and Closing - X minutes
 
-We really appreciate you taking the time to do this today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for other Veterans.
-
-
-
-
-## Script for participants who are NOT Signed In
-***Note that we want at least one participant to complete the application not signed in***
-### First Task: Webex Sharing & Accessing the Application - 5 minutes
-1.	The webex facilitator closes all additional screens, programs and windows that might interfere The webex facilitator opens the following screen in Google Chrome: https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction
-2.	The facilitator should be prompted for the "basic auth" credentials. The facilitator should enter the credentials so as to keep them secure. The credentials can be found in the team's Keybase chat or by contacting Desiree Turner.
-3.	During the Screen or Application share, move your mouse to the top of the screen to the Webex panel and click the Assign button.
-4.	Select "Pass Keyboard and Mouse Control", then select the participant you would like to assign control to.
-
-#### Things to watch for:
-1. NA
-
-### Second Task: Start & Complete the application
-1.	The applicant will need to scroll to the bottom of the screen and select the link "Start your application without signing in" (locate below the blue "Sign in or create account" button).
-2.	The applicant will continue through the application and NO pre-fill information will be included.
-
-#### Things to watch for:
-•	On the direct deposit screen, applicants who do not want to impact any current payments they are receiving can select "I don't want to use direct deposit" 
-
-### Third Task: Review & Submit Application
-1.	On the Application Review screen, have the applicant expand each accordion to ensure that the content matches their entries. You may want them to update their responses on this screen to see that all updates occur as expected. 
-2.	When the applicant has confirmed everything is as expected, ask them to submit their application
-3.	Capture their confirmation number so that it can be passed along to Education Services for review.
-4.	Ask the applicant to log out of the application.
-
-#### Things to watch for:
-- Does the user see the eligibility alerts? 
-- Does prefill data populate correctly? 
-- Does the form data populate “Review application” correctly?  
-- Does the form submit? 
-
-### Post-Task Interview - X minutes
-- How did you think that went?
-- Was there anything that was unclear as you were filling in the application? 
-- What would you expect would happen next? 
-- Any questions for me?
-
-### Thank-You and Closing - X minutes
 We really appreciate you taking the time to do this today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for other Veterans.
