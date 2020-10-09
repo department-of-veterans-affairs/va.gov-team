@@ -7,6 +7,9 @@
 - John is following up with ...
   - Analytics to make sure they understand the changes given the possible implications to the original [instrumentation approach.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13060)
   - Jen Lee to confirm that there is no hard deadline driving our progress/delivery date for Education and Disability (e.g. Links from the Find a Form page).
+ - Next up for Liz and team:
+   - [Disability prototype with refinements](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/13378)
+   - [Chapter 31/36 prototype with refinements](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/13381)
 
 ### 10/2 Update
 
