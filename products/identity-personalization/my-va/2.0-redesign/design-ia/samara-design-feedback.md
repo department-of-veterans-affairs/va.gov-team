@@ -1,5 +1,29 @@
 # Samara's design feedback
 
+## Feedback 10.9.20
+
+**General**
+
+- This is really coming together! I love the name tag area in the dark gray. It makes the page so much stronger.
+
+**Nav**
+
+- I love the nav. I think, for now, it might be OK to leave it like this without further incorporating profile info. We can just link off to profile like you have shown.
+
+**Health care overview section**
+
+- Cassandra had mocked up a version of this with the health care icon from the homepage, the health care heading, enrolled date, and "learn more about your benefits." Can you add that version of the overview section into the mockup? 
+
+**Appointment**
+
+- I think the stacked version of appointment info looks much more natural. 
+- One suggestion: Can we maybe put those into a gray block or something (one for each appointment)? The info looks like it's floating in the middle of nowhere right now.
+- Can I see a version where each appointment field is not labeled? That may mean adjusting the placement of the data points. I just want to see this and if we hate it, we can scrap it.
+
+**Lab & test results**
+
+- This feels like it's broken (because no additional data is shown) and like it's floating in the middle of nowhere. I'm not sure exactly what to do with this, but feel free to play around with some ideas. You may end up not treating this like the heading --> CTA pattern that we're using in other sections.
+
 ## Feedback 10.8.20
 
 **General**
