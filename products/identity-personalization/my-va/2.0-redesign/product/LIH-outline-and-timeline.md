@@ -66,6 +66,8 @@ Deliverables: Full design, layout and specs for LOA3 (state when a user has bene
    - [ ] View your payment history (link) this will be done last S33
 
 
+**Overall**
+
 - [ ] Appropriate stakeholder reviews and approval along the way
 - [ ] Navigation exploration, including possible addition of Profile links
 - [ ] User Research
