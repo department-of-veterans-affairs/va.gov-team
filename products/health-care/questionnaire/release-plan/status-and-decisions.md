@@ -9,6 +9,43 @@
 
 <details> <summary> September 2020</summary>
 
+
+
+## Oct 9th, 2020
+
+**Product**
+ - [TOT Sept 29th](https://drive.google.com/file/d/11aawiqofQ0Z1gSSG_0_QqPKFv1vXeeXp/view?usp=sharing)
+ - [Sprint Demo](https://docs.google.com/presentation/d/1hTO5HVSY7yW7ZkjixaQuuORDPGdBjUdLc72KUkiSL7s/edit?usp=sharing)
+ - [Sprint Report](https://docs.google.com/document/d/1y1KkscweOw_e1a_l6sqORZGJ6SZ0wbt8fUSwyI4hWWw/edit?usp=sharing)
+ - [Q4 Milestones and Release Plan Drafted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/quarterly-sprint-planning.md)
+ - Meetings held to investigation into how eScreening tool is passing PGD into CPRS
+ - Technical review with Virtual Care Manager
+ - [Retro Sprint 31](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/sprint-31.md) 
+
+**Research and Design**
+- Continue to work on [Questionnaire Worklist preliminary mockups](https://zpl.io/VOOek8j) 
+- Finalizing [Proof of Concept prototype in Mobile](https://preview.uxpin.com/a15205c1bedcdfc8fe46fed26c22fa731cab8ae0cvhidm)  
+- Finalizing  [Proof of Concept prototype in Desktop](https://preview.uxpin.com/e9e0dc597bb076e74db05f77d35306496a89fca2cvhidm)
+- Finalized Usability Testing [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/mvp-usability/research-plan.md)  and  [conversation script](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/mvp-usability/conversation-guide.md)
+- [VSP - Usability Testing Prep for Collab Cycle](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14473)
+
+**Engineering**
+- Finalized FE code for Confirm steps and pushed to staging
+- Sprint Demo of Proof of Concept Questionnaire design
+- KT with new BE engineer starting to plan and prioritize tickets from previous BE engineer   
+
+**Next Step/Followup**
+- Continue to validate the PGD data and appt. details in MAP.
+
+	
+**Decisions:**
+ none
+
+**Blockers:**
+- No changes in status from previous week for blocker [Stakeholder Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
+- FHIR Mapping has been submitted for review. [Jira Ticket](https://issues.mobilehealth.va.gov/browse/PGDG-75) Once this ticket has been resolved we should have access to view and post to PGD / get answers from the team for current authorize errors currently happening.
+
+
 ## Oct 2nd, 2020
 
 **Product**
