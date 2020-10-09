@@ -187,11 +187,12 @@ These steps assume your SSH keys have been authorized and that you're running on
 > The next steps are going to create a `~/.ssh/config` file. If you already have a `~/.ssh/config` file and would like to keep it intact, you can save the file to a different name `~/.ssh/config_va` and edit `~/.ssh/config` to add this line at the top: `Include ~/.ssh/config_va`. Alternatively, you can use the following command within the terminal to automate this process: `grep -qxF 'Include ~/.ssh/config_va' ~/.ssh/config || echo -e "Include ~/.ssh/config_va\n$(cat ~/.ssh/config)" > ~/.ssh/config`.
 
 1. Save the SSH configuration that you'll need locally to access the remote SSH servers.
-    * Click <a href="https://github.com/department-of-veterans-affairs/devops/raw/master/ssh/config" target="_blank">this link</a> and copy the entire URL of the new tab.
-      1. From within the terminal (Mac/Linux) or Git Bash (Windows), run the following command making sure to change `$URL` to the one you now have copied (i.e. `https://raw.githubusercontent.com/department-of-veterans-affairs/devops/master/ssh/config\?token\=ANNHPNCZI2YPEPZFLIAOGQS7GVQSE`): `curl -o ~/.ssh/config $URL`. 
+    * Click <a href="https://github.com/department-of-veterans-affairs/devops/raw/master/ssh/config" target="_blank">this link</a>
+    * Right click and save the resulting file to ~/.ssh/config, or alternately,
+    * copy the entire URL of the new tab and from within the terminal (Mac/Linux) or Git Bash (Windows), run the following command making sure to change `$URL` to the one you now have copied (i.e. `https://raw.githubusercontent.com/department-of-veterans-affairs/devops/master/ssh/config?token=xxxyyy`): `curl -o ~/.ssh/config $URL`. 
 
 ```
-❯ curl -o ~/.ssh/config https://raw.githubusercontent.com/department-of-veterans-affairs/devops/master/ssh/config\?token\=ANNHPNCZI2YPEPZFLIAOGQS7GVQSE
+❯ curl -o ~/.ssh/config https://raw.githubusercontent.com/department-of-veterans-affairs/devops/master/ssh/config?token=xxxyyy
 % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100  5804  100  5804    0     0  15602      0 --:--:-- --:--:-- --:--:-- 15602
@@ -247,7 +248,13 @@ To test your proxy connectivity, the best option is to run the following command
 
 You should get output that includes `HTTP/1.1 302 FOUND`. If not, check that the SOCKS proxy server is running. You can run `$ nc -z 127.0.0.1 2001` as a first step.
 
-### Chrome & Firefox
+### Connecting your browser to the proxy
+There are two alternatives to connecting your browser to the proxy.
+
+1. Install SwitchyOmega: browser extension that will let you use the proxy just for certain domains
+1. Use the `socks.sh` script: a script will set up OSX with a system-level proxy - this is useful for those who want to use Safari, or who don't want to use browser extensions
+
+#### Set up SwitchyOmega for Chrome & Firefox
 
 1. Install Proxy SwitchyOmega.
 
@@ -277,7 +284,7 @@ You should get output that includes `HTTP/1.1 302 FOUND`. If not, check that the
 
 1. Check your connection by navigating to Sentry at http://sentry.vfs.va.gov.
 
-### Socks script
+#### Use the Socks script
 An alternative to SwitchyOmega is to use [the `socks` script](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/scripts/socks). The `socks` script loads your key into the SSH agent, starts the socks proxy, and sets up your system to proxy only URLs that require the proxy. It has the advantage of not requiring any third-party extensions, and it works with Chrome and Firefox browsers.
 
 ### Using the va.sh helper script
