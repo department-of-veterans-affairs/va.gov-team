@@ -17,7 +17,7 @@ Last updated October 7, 2020
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
 |Cassandra Allen |Designer| callen@governmentcio.com |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
-|Sandra Hallie| Designer|	shallie@governmentcio.com |
+|Sandra Hallie| FE Engineer|	shallie@governmentcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 |Tze-chiu Lei | QA Analyst | tze@adhocteam.us |
 |Jennifer Strickland | 508/Accessibility support| jennifer.strickland@adhocteam.us |
