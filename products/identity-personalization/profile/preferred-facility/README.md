@@ -83,7 +83,7 @@ While we can't change the historical list of facilities that is kept in MVI, we 
 
 ## KPIs
 
-- Check in with Lenae about this (how much do we want to reduce VAOS drop offs and complaints?)
+- Reduce dropoff from the facility selection page in the VAOS tool by 15%. ([Per Lenae](https://dsva.slack.com/archives/C909ZG2BB/p1601989754166700?thread_ts=1601576792.114600&cid=C909ZG2BB))
 
 # Implementation Info
 
