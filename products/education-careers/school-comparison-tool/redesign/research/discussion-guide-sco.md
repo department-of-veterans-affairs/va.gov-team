@@ -22,26 +22,35 @@ Before we start, a few things I want to mention:
 
 Let’s start with a few warm-up questions.
  
- - How long have you been a School Certifying Official?
+ - Briefly, what is your role, how long have you been a SCO or School administrator, and how do you interact with service-connected students?
  - How many GI Bill students are at your school?
- - How many people at your school support military-connected students?
+ - Does your school have a Veteran center? 
+   - If so, how large is it?
+   - If not, is there additional staff that supports military-connected students and processes certifications?
+
  
    
  - Have you used the GI Bill Comparison Tool before? 
 
 ## First Topic: Handling Questions - 10 minutes
  
- - What kind of questions do you typically field from Veterans? From non-Veteran beneficiaries?
+ - What kind of questions do you typically field from Veterans? From other beneficiaries such as spouses or dependents?
      - What do they ask about the most?
      - What do they ask about your school?
-     - Are there any pain points
+     - Are there any pain points?
+     - Is there anything you aren't able to help them with?
+     - How much interest is there from your GI Bill students for the Yellow Ribbon program?
      
 - If you have questions about education benefits, how do you go about finding the answer?
   - What types of questions do you normally have?
+  - How do you learn about new benefits or changes with the GI Bill?
+  - How do you pass that information to students?
 
 - Do you reference VA sites for your work?
    - If yes, which ones?
+   - How often do you visit these sites?
    - What information are you looking for?
+   - Do you use non-VA, third party sites for your work?
 
 ## Second Topic: Usage of the Comparison Tool - 20 minutes
 
@@ -51,6 +60,7 @@ You said you had used the Comparison Tool before.
 - How did you originally hear about the Comparison Tool?
 - Did you receive any training on the Comparison Tool?
   - Do you train others in how to use it?
+  - How long did it take you to feel comfortable using the tool?
 - What common tasks are you typically trying to accomplish on the tool?
     - What kind of information are you typically looking at?
     - The tool is geared towards Veterans, but is there any information that is helpful for you?  
@@ -71,6 +81,8 @@ We've talked about the Comparison Tool and finding out information on education 
    - What would it do?
    - What would you change?
    - What would you keep the same?
+   
+*Consider asking about Yellow Ribbon program again*
 
 ## Post-Task Interview - X minutes
 
