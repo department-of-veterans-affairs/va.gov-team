@@ -10,12 +10,15 @@ _Note: Danielle and Beth to review and decide which of these to include in final
 - [ ] Text uses consistent terms and avoids synonyms (ie, "sign in" is always "sign in" and not "log in" in some instances, "click twice" is always "click twice" and not "double click" in some instances).
 - [ ] Sentences are between 5 and 20 words.
 - [ ] Each sentence conveys 1 thought and contains 1 active verb.
-- [ ] Text avoids standalone phrases, except in headlines and subheadings
+- [ ] Each sentence is complete. It begins with a capital letter, includes at least one main clause, and has an ending punctuation. _For discussion: What should we do about our approach to bullets with no periods and sometimes phrases rather than complete sentences?_
+- [ ] Text avoids standalone phrases, except in headlines and subheadings.
 - [ ] Lead-ins to bulleted lists are complete sentences.
 - [ ] In bulleted lists, each list item is complete and parallel.
 - [ ] Text is as free as possible of amibigous words (example, use "after" or "when" instead of "once").
-- [ ] Text has as few pronouns as possible (especially avoiding the pronoun "it").
+- [ ] Text specifies nouns with "the."
+- [ ] Text has as few pronouns as possible (especially avoiding the pronoun "it"). Repeat the noun in a sentences rather than using a pronoun.
 - [ ] Text avoids demonstrative pronouns (ex. replace "This allows you to" with "This function allows you to").
+- [ ] Text avoids or limits compound words.
 - [ ] Text avoids the conditional (ex. replace "This would open the window" with "This will open the window").
 - [ ] Dates are written in non-numeric format.
 - [ ] Text avoids abbreviations whenever possible (including Latin abbreviations such as "i.e.: and "etc.").
