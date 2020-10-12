@@ -143,6 +143,11 @@ _Tell the Veteran before asking questions on this page._ This is the first versi
     - Other:
 
 ## Follow-up Questions - 5 minutes
+- Where on va.gov would you expect all of your healthcare questionnaires to live?
+    - Within a "Get healthcare benefits" section
+    - Within a "Manage your healthcare benefits" section
+    - Within a "More healthcare resources" section
+    - Within a "VA healthcare appointments" section
 - When would you fill out this questionnaire?
     - The day before my appointment
     - 2-3 days before my appointment
