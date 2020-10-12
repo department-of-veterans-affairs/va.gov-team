@@ -9,7 +9,8 @@ Description:        This computes an average time (in seconds) between the begin
 /***************************************************************************************************/
 WITH sessions AS (
     SELECT
-        date,
+        -- date (dimension)
+        PARSE_DATE("%Y%m%d", date) as date,
         CONCAT(fullVisitorId, CAST(visitStartTime AS STRING)) AS sessionID,
         hits.eventInfo.eventLabel AS event_label,
         (
@@ -22,7 +23,7 @@ WITH sessions AS (
         `vsp-analytics-and-insights.176188361.ga_sessions_*` AS ga,
         UNNEST(ga.hits) AS hits
     WHERE
-        _TABLE_SUFFIX BETWEEN "20200901" AND "20200913"
+        _TABLE_SUFFIX BETWEEN "20200901" AND "20200915"
         AND hits.eventInfo.eventLabel IN (
             'caregivers-10-10cg-start-form',
             'caregivers-10-10cg--submission-successful'

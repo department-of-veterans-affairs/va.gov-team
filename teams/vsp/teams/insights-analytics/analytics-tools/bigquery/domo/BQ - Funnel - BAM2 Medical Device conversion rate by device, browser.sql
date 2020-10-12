@@ -9,7 +9,8 @@ Description:        This returns daily the conversion rate for the BAM2 / medica
 #standardSQL
 WITH ga AS (
     SELECT
-        date,
+        -- date (dimension)
+        PARSE_DATE("%Y%m%d", date) as date, 
         fullVisitorId,
         visitStartTime,
         ga.hits AS hits,
@@ -18,7 +19,8 @@ WITH ga AS (
     FROM
         `vsp-analytics-and-insights.176188361.ga_sessions_*` AS ga
     WHERE
-        _TABLE_SUFFIX BETWEEN "20200827" AND"20200830"
+        --_TABLE_SUFFIX BETWEEN "20200715" AND "20200920"
+        _TABLE_SUFFIX = FORMAT_DATE('%Y%m%d',DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY))
         AND totals.visits = 1
         AND NOT (
             SELECT
@@ -116,8 +118,8 @@ Steps_Combined AS (
         Step_1.date,
         Step_1.browser,
         Step_1.device_category,
-        COUNT(DISTINCT(Step_1.session_id)) AS bam2_starts,
-        COUNT(DISTINCT(Step_2.session_id)) AS bam2_finishes
+        COUNT(DISTINCT(Step_1.fullVisitorId)) AS bam2_starts,
+        COUNT(DISTINCT(Step_2.fullVisitorId)) AS bam2_finishes
     FROM
         Step_1
         LEFT JOIN Step_2 ON Step_1.fullVisitorId = Step_2.fullVisitorID
@@ -131,7 +133,7 @@ SELECT
     browser,
     device_category,
     1 AS step,
-    bam2_starts AS sessions
+    bam2_starts AS users
 FROM
     Steps_Combined
 
@@ -142,7 +144,7 @@ SELECT
     browser,
     device_category,
     2 AS step,
-    bam2_finishes AS sessions
+    bam2_finishes AS users
 FROM
     Steps_Combined
 ORDER BY
