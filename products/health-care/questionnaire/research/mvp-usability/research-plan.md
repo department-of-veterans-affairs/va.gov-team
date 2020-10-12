@@ -39,6 +39,7 @@ Recruit for 12 fulfilled sessions (6 for the desktop version and 6 for the mobil
 - At least one person who lives in a rural or remote area
 - At least one person who lives in a major metropolitan area
 - At least one person with a disability rating of 70% or greater
+- At least one person with an identified cognitive consideration of PTSD or TBI
 
 **Recruitment requirements**
 - Half (6) must have a mobile device and be willing to be complete the test on said device
@@ -46,7 +47,7 @@ Recruit for 12 fulfilled sessions (6 for the desktop version and 6 for the mobil
 - The participants have Zoom downloaded prior to the session
 - The participants know how to screenshare
 
-*This study requires participants to screenshare, in order to click through a prototype.*
+*This study requires participants to screenshare, in order to click through a prototype. It will not be able to accommodate non-sighted users due to the prototype technology.*
 
 ## Timeline 	
 #### Desired Timeline: October 13-19, 2020 
