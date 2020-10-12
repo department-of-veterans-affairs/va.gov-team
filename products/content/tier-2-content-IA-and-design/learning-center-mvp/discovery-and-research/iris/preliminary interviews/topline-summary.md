@@ -14,7 +14,7 @@ Prepared by: Liz Lantz, Public Websites
 
 This topline summary is a high level, top of mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered.
 
-This document includes sessions with 5 call centers (OCC, DMC, NCC, NCA, VEO), and the Oracle Service Cloud administrator.
+As of 10/12/20, this document includes sessions with 5 call centers (OCC, DMC, NCC, NCA, VEO), and the Oracle Service Cloud administrator.
 
 **The goal of this document is:**
 
