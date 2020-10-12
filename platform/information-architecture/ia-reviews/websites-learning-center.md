@@ -80,9 +80,9 @@ Article page
   - navigating to other pages from links within the article
   - navigating to other pages from the header/footer
 
-- Users may flow into and out of R&S at any point during their visit.  Some visits may start within R&S and others may end there. 
+- Users may go back and forth between the core experience and R&S content during their visit, creating some complex user flows.  Clear link labels and good CTAs on articles will be critical to ensuring users can move between the areas of the site without losing their way. 
 
-
+![image](https://user-images.githubusercontent.com/20994159/95799580-c09e9200-0cba-11eb-8f52-aa6b212e08be.png)
 
 ## <a name="nav"></a>Navigation and Entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
