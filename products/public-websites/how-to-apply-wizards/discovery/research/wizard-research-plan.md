@@ -14,6 +14,5 @@ Capturing some questions we can answer through future research studies
 - When do users want to go back to the wizard?
 - There may be other small, content PW website questions to tack on to this research (Peggy will check with Danielle / Peggy)
 
-## Content / IA
-Participants
+## Participants
 - Veterans or beneficiaries who have applied for education benefits in the last 12 months, or are planning on applying in the next 6 months.
