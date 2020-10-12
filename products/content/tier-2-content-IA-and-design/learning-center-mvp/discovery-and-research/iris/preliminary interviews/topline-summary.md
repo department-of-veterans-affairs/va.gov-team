@@ -25,6 +25,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 - Most teams we spoke to had about 2-4 people on the team, and had a director supported by by 2-3 analysts, assistant chiefs/directors, etc.
 - These teams are supported by quality teams who help verify the content they publish is accurate
+- IRIS content authoring and updating is managed by one person
 
 **Who are the people on these teams and what are they responsible for?**
 
@@ -33,6 +34,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 - A couple of teams had dedicated people who are responsible for entering content and publishing in eGain. NCC has someone who "chunks out content", uses accordions, etc - sounded like someone doing the Drupal work our editors do.
 - Training team members - Developing training curriculum and materials
 - NCA doesn't have one person or team responsible for content creation and management. All content work is an ancillary responsibility.
+- IRIS administrator receives requests to update/add content in IRIS via help desk tickets; publishes in the system
 
 **What are the different types of content each team creates and manages, with regard to contact center customer service and IRIS content creation?**
 
@@ -73,7 +75,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 **Do they have any content style guides?**
 
-- Teams have formatting guides but not guides for voice and tone
+- Teams have formatting guides, but not guides for voice and tone
 
 **How does IRIS fit into each center's content flow?** 
 
@@ -90,14 +92,16 @@ This topline summary is a high level, top of mind summary of trends found in the
 - Sharepoint (DMC)
 - Views, for task tracking (NCA)
 - Oracle Cloud Service
-- "KM" - I assumed this was eGain but may not be.
+  - This is the platform for 3 other help systems: GI Bill, MHV tech support, and a support platform for the Oracle UI
+- "KM" - we assumed this was eGain for all contact centers, but may not be. Need to confirm in follow up interviews
 - "A sales force version of eGain"
 - PatR is possibly coming up
 - Microsoft Dynamics (MD) was mentioned as "not in the cards, but we'd love that" by VEO, and Michelle said PatR **is** MD so.. ?
 
 **What is the process for reviewing drafts?**
 
-- Typically done by word docs going back and forth via email, or reviewed in meetings
+- Typically done by word docs going back and forth via email, or reviewed in meetings.
+- IRIS admin assumes all content is reviewed and approved when request is submitted to publish in IRIS
 
 **If they aren't authoring in content in IRIS, what are they using?**
 
@@ -112,7 +116,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 **What isn't working well?**
 
-- Not enough people
+- Teams need more resources to manage content; many have responsibilities outside of content authoring/management
 - Hard to pin down SMEs or get business lines to take ownership of their content
 
 **Who can we interview/observe to gain a more in-depth understanding of these processes?**
@@ -124,31 +128,36 @@ Possibly team analysts, if we are interested in the internal content processes. 
 - OCC: Janiece, internal content
 - DMC: Julie Lawrence, COO for "external relations" so she may know about any of their external content, need to review recording for other people
 - VEO: possibly Dorian Adeymi or Mike Cippioni. Not totally sure what they do.
+- IRIS: Michelle
 
 **Which parts of these content management processes are things we can observe and learn from?**
 
-- Publishing in eGain may be useful to us
-- If there is some kind of back-end to IRIS that agents are using to send FAQs to people, that could be useful
+The content management processes we heard about are largely manual and related to internal content. Need to clarify with team how processes related to content for agents (job aides, SOPs, training material) might be helpful for the learning center effort. 
+
+We got more clarity from Michelle about the IRIS process. Since we learned requests to update/publish content hasn't come through in years, we should also re-visit how a better understanding of IRIS will be helpful for the learning center effort in order to identify the processes we should observe.
+
+- May be helpful to observe process of publishing in eGain, since that is what VEO wants people to use for public facing content now.
+- 
 
 
 
 ## Hypotheses & Answers
 
-**Hypothesis**
+**There will be a lot of variance between contact centers in terms of the team structure, size, and processes in place.**
 
- - Answer
 
- **Hypothesis**
 
- - Answer
+**Some contact centers don't have a formal content management process.**
 
- **Hypothesis**
 
- - Answer
 
-**Hypothesis**
+**Content is maintained in IRIS.**
 
- - Answer
+This seems to be false. Teams said they don't use IRIS, and the IRIS administrator we spoke to said she hasn't received a request to update or publish new content in years.
+
+**IRIS is a major part of their workflow, but there will be some other systems we'll want to observe people working in.**
+
+False. IRIS isn't a major part of the workflow for the teams we spoke to. There are other systems, but at this this time, it's not clear whether or not we will benefit from observing people working in these other systems.
 
 ## Other Findings
 
