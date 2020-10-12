@@ -97,7 +97,7 @@ Q2 2020
 
 #### Documentation Tooling Research
 
-*Content and IA: Megan Kelley, Gretchen Maciolek*
+*Content and IA: Megan Kelley, Gretchen Maciolek, Bill Fienberg, Kristina Gore*
 
 Q2 2020
 
