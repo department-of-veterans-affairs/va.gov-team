@@ -2,7 +2,7 @@
 name: Forms Library Request
 about: Use this template to request a change to the forms library, including new features, enhancements, or bugs.
 labels: design-system-team, needs-grooming, triage
-assignees: cvalarida
+assignees: cvalarida, caw310
 
 ---
 
