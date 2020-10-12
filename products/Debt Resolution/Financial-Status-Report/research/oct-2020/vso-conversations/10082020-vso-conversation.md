@@ -2,6 +2,50 @@
 
 October 8, 2020 
 
+## Topline summary
+
+_There were two VSOs in this meeting_
+
+- Assists with at least 2 FSRs a month, but once the form is submitted they don’t hear anything back about whether or not a waiver, compromise offer, or extended payment plan was approved
+
+- Veterans come to VSOs for help when their benefits stop and they aren’t sure why
+
+- VSOs always suggest submitting for a waiver if they’re in hardship; if the Veteran isn’t experiencing hardship then they suggest a compromise or payment plan
+
+- Block 21 is the most challenging section for Veterans because they include things that may not count as living expenses such as cell phones
+
+- Younger Veterans don’t have file numbers, so their SSN counts as the file number 
+
+- Some Veterans write “homeless” or “unemployed” in box 3
+
+- If a Veteran or their spouse is unemployed, VSOs have to write “N/A” in all corresponding boxes that require an employment response
+
+- Sometimes it’s difficult to find all the information for 14 a-d
+
+- It isn’t clear if Veterans should include their VA benefit amount if it’s being used to offset the debt, so VSOs tell them to put what they’re receiving at the time the form is being completed
+
+- VSOs aren’t sure what the criteria is for “other living expenses” (line 21)
+
+- The amount from the second page of the form isn’t carried over to line 22
+
+- People include expenses in line 21 that are covered in 22
+
+- The VSOs don’t often submit compromise offers 
+
+- Veterans often don’t know if they should include their vehicle because either they’re worried they may have to sell it or they don’t think it’s relevant due to not contributing to their income
+
+- Section 5: “The whole section makes it seem like it’s negative information.”
+
+- The VSOs didn’t know about an additional letter, but said that explanations for waiver requests or extended payment plan is included in line 36
+
+- The VSOs rarely see forms with spouse information. This might be because most of the Veterans they help aren’t married
+
+- The VSOs fill out the form on the computer for the Veteran
+
+---
+
+## The transcript 
+
 **M: Can you tell me about your experience with the FSR?**
 
 C: The overall experience requires a lot of information especially on the part where they have debts, and obtaining that information. More or less the time to complete when the veterans don’t have all that information. When they get it mailed out to them and they don’t fill out every single block or fill out 0’s and it gets kicked back because they didn’t fill it out all the way. If you put the numbers in the PDF form it’ll calculate everything for you, and a lot of Veterans don’t know to pull the information from the second to first page
