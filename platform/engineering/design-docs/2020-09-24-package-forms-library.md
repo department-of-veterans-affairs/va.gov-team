@@ -115,6 +115,7 @@ The [Platform Entanglement](#platform-entanglement) section mentions that forms 
 
 - Move the [`static-data/labels` file](https://github.com/department-of-veterans-affairs/vets-website/blob/58c48c6fd116db6e875162f540a0d072678a68d2/src/platform/static-data/labels.jsx) into the forms library, since it is only used in connection with forms library configuration
 - Prefer code that exists in the forms library, instead of in the parent platform directory.
+  - Anything used by the forms library should be _in_ the forms library, or declared as a dependency.
   - For example, we have a [`focusElement`](https://github.com/department-of-veterans-affairs/vets-website/blob/46000a4becae29ca72b505889713fd4b2b2718f0/src/platform/utilities/ui/index.js#L17-L32) that exists in `platform/utilities/ui`, but also one that exists in [`forms-system/src/js/utilities/ui`](https://github.com/department-of-veterans-affairs/vets-website/blob/46000a4becae29ca72b505889713fd4b2b2718f0/src/platform/forms-system/src/js/utilities/ui/index.js#L3-L18). This project would eliminate the duplicate code existing at the platform level and direct all imports to use the forms library version
 - Remove imports from `platform/monitoring`
   - Instead, import the relevant code outside of the forms library and pass them in as props or config options.
@@ -127,8 +128,9 @@ The [Platform Entanglement](#platform-entanglement) section mentions that forms 
 
 Once the forms library is actually a package, app code will be updated to import from it directly instead of relying on the aliases.
 
-- Each app team will update their code to use forms library JS & SCSS from the package instead of by direct path
+- Each app team will update their code to use forms library JS & SCSS from the package instead of by direct path. This will help to establish the boundaries of the package for VFS teams.
 - Configure the `no-restricted-imports` ESLint rule to [restrict imports of `src/platform/packages` directly](https://eslint.org/docs/rules/no-restricted-imports)
+- Add an `.eslintrc` file to the new forms library package and configure `no-restricted-imports` to block imports from application code and platform code.
 - Remove the `.babelrc` forms-library alias & custom SASS importer
 
 ### Code Location
@@ -138,7 +140,7 @@ Since it will be a Node package, it will be added to the `package.json` file and
 
 ### Testing Plan
 
-We have ESLint rules in place which can verify that the right JS is imported as it relates to the forms library.
+We have an ESLint rule (`import/no-unresolved-modules`) in place which can verify that the right JS is imported as it relates to the forms library.
 Additionally, many of the end-to-end tests will fail if the forms library is not imported properly, so they will help with awareness.
 
 We don't have any automation in place to validate that the right SASS files are imported (other than webpack failing to resolve the file), so testing that forms styling is working properly will be a manual process using the browser dev tools.
@@ -198,7 +200,14 @@ Actual active time here will be fairly low (< 1 day), and will involve waiting f
 
 ### Alternatives
 
-See the section [Separate repo](#separate-repo) in Future Work. We are avoiding turning the forms library into its own node module with a separate repo because of the additional overhead involved in publishing, setting up CI pipelines, and general additional repo management. This _may_ be a path for the future.
+See the section [Separate repo](#separate-repo) in Future Work. We are avoiding turning the forms library into its own node module with a separate repo because of the additional overhead of:
+
+- publishing the package
+- setting up CI pipelines
+- additional repo management.
+
+This _may_ be a path for the future.
+
 Another reason why we don't want to do this right now is that we would lost the advantage of the ESLint configuration that is part of `vets-website`.
 Once this configuration is published we will be able to import it into any repo, and at that point it may make sense to move the forms library out of `vets-website`.
 
@@ -213,7 +222,7 @@ With this, we could publish it to npm, and we could completely remove the forms 
 
 #### Tighter dependencies
 
-Having a `package.json` specific to the forms library will allow us to treat it more like a product that we provide to VFS teams. It will be separate from the rest of the code in `vets-website`, so we could eliminate lodash from the forms library, or replace `moment` with something more appropriate without affecting the rest of the frontend.
+Since the forms library will have its own `package.json`, we can treat it more like a product that we provide to VFS teams. It will be separate from the rest of the code in `vets-website`, so we could eliminate lodash from the forms library, or replace `moment` with something more appropriate without affecting the rest of the frontend.
 
 Additionally, it might make more sense if we bundled `react-jsonschema-form` in with the forms library. This would help make the forms library feel more cohesive.
 
