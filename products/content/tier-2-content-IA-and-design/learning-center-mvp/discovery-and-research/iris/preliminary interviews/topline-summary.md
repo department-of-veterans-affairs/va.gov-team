@@ -1,6 +1,6 @@
 # IRIS Research, Preliminary Interviews Topline Summary
 
-`DRAFT`
+`DRAFT: Final planned contact center session (HRC) to take place on 10/16/20 `
 
 Prepared by: Liz Lantz, Public Websites
 
@@ -13,6 +13,8 @@ Prepared by: Liz Lantz, Public Websites
 [Mural Boards in Public Websites Room](https://app.mural.co/t/vsa8243/r/1588361641721) (created 1 per session) 
 
 This topline summary is a high level, top of mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered.
+
+This document includes sessions with 5 call centers (OCC, DMC, NCC, NCA, VEO), and the Oracle Service Cloud administrator.
 
 **The goal of this document is:**
 
@@ -68,6 +70,7 @@ This topline summary is a high level, top of mind summary of trends found in the
   - In IRIS, new content requests would come via a help desk ticket, and admin would create the content in Oracle service cloud and publish to IRIS. Admin assumes content is approved and ready to be published
 - Updating existing content?
   - Similar process to creating new content for both scenarios
+  - Some centers have a quality team who reviews content regularly and notifies team when updates are needed. This quality team isn't integrated directly into the content creation process all the time.
 - Retiring existing content?
   - Usually brought to teams attention by a SME or agent, content is archived, not usually deleted
   - Sometimes content is updated to point to new source of content
@@ -76,6 +79,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 **Do they have any content style guides?**
 
 - Teams have formatting guides, but not guides for voice and tone
+- One team said they think eGain has some style guides but unclear exactly what those consist of.
 
 **How does IRIS fit into each center's content flow?** 
 
@@ -92,7 +96,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 - Sharepoint (DMC)
 - Views, for task tracking (NCA)
 - Oracle Cloud Service
-  - This is the platform for 3 other help systems: GI Bill, MHV tech support, and a support platform for the Oracle UI
+  - This is the platform for IRIS and 3 other help systems: GI Bill, MHV tech support, and a support platform for the Oracle UI
 - "KM" - we assumed this was eGain for all contact centers, but may not be. Need to confirm in follow up interviews
 - "A sales force version of eGain"
 - PatR is possibly coming up
@@ -116,19 +120,23 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 **What isn't working well?**
 
-- Teams need more resources to manage content; many have responsibilities outside of content authoring/management
+- Teams need more resources to manage content; many have responsibilities outside of content authoring/management. 
+
+  > We're responsible for a whole lot. The capacity of the team is stretched.
+
 - Hard to pin down SMEs or get business lines to take ownership of their content
 
 **Who can we interview/observe to gain a more in-depth understanding of these processes?**
 
-Possibly team analysts, if we are interested in the internal content processes. Generally, didn't feel like the work these people are doing is obviously relevant to the learning center.  Might be helpful to get insights into the content publishing process for eGain?
+Possibly team analysts, if we are interested in the internal content processes. Might be helpful to get insights into the content publishing process for eGain, or more insight into the quality teams who review content for some contact cent
 
-- NCC: Lindsay/Regina for content review/approval process, Billy for eGain publishing process
+- NCC: Lindsay/Regina for content review/approval process, Billy for eGain publishing process.
 - NCA: Jim Lapaglia - "he's with web services and has his hands in a lot of different things"
 - OCC: Janiece, internal content
 - DMC: Julie Lawrence, COO for "external relations" so she may know about any of their external content, need to review recording for other people
-- VEO: possibly Dorian Adeymi or Mike Cippioni. Not totally sure what they do.
-- IRIS: Michelle
+- VEO: possibly Dorian Adeymi or Mike Cippioni. Need to get more clarity on their roles.
+- IRIS: Michelle Hoxsie-Quinn
+- Quality team members if we are interested in that aspect.
 
 **Which parts of these content management processes are things we can observe and learn from?**
 
@@ -136,8 +144,12 @@ The content management processes we heard about are largely manual and related t
 
 We got more clarity from Michelle about the IRIS process. Since we learned requests to update/publish content hasn't come through in years, we should also re-visit how a better understanding of IRIS will be helpful for the learning center effort in order to identify the processes we should observe.
 
-- May be helpful to observe process of publishing in eGain, since that is what VEO wants people to use for public facing content now.
-- 
+Depending on how we want to move forward as this research relates to the learning center, it may be helpful to observe:
+
+- The eGain publishing process, since that is what VEO wants people to use for public facing content now.
+
+- How content teams vet requests for internal content creation/updating, since they said they sometimes reference public-facing VA.gov sites to cross-check/conduct research on the topic.
+- Michelle doing a walk through of Oracle Service Cloud - maybe she can show us her side *and* what agents/content centers would see? Not sure how helpful this will be considering it's not used much and is going away.
 
 
 
@@ -145,15 +157,21 @@ We got more clarity from Michelle about the IRIS process. Since we learned reque
 
 **There will be a lot of variance between contact centers in terms of the team structure, size, and processes in place.**
 
+Although there are some commonalities/trends across teams, there is enough variance that we won't be able to observe one or two particular roles at a call center and get a good understanding of the process for all.
 
+A couple of teams were larger than the rest, but for the most part there are about 3-5 people overseeing  content.  There's a structure in place for all the call centers where there are 2-3 content authors/editors under a director or chief.  
+
+A few content centers had someone supporting the content authors in a more technical capacity, actually putting content into the KM and publishing. One call center has someone who puts content into accordions or searchable tables to make things easier for agents to scan before publishing.  
+
+There were also a few who talked about a quality team regularly reviewing their work to help w/ content inaccuracies or outdated information.
 
 **Some contact centers don't have a formal content management process.**
 
-
+All contact centers had a consistent "cycle" for content - e.g. receive request > specific people review request and create a draft > draft is reviewed by specific people > content published. But, the request and review process takes place over emails or in meetings for many contact centers so it's not formalized in the sense of being well documented or traceable. 
 
 **Content is maintained in IRIS.**
 
-This seems to be false. Teams said they don't use IRIS, and the IRIS administrator we spoke to said she hasn't received a request to update or publish new content in years.
+This seems to be false. Teams said they don't use IRIS, and the IRIS administrator we spoke to said she hasn't received a request to update or publish new content in years.  It's possible that teams use another word/name for what we are calling IRIS.  The back end of what they see may be called "Oracle service cloud" when they log in.
 
 **IRIS is a major part of their workflow, but there will be some other systems we'll want to observe people working in.**
 
@@ -161,18 +179,10 @@ False. IRIS isn't a major part of the workflow for the teams we spoke to. There 
 
 ## Other Findings
 
-**Finding**
+**We heard from contact centers and the IRIS administrator that it's very challenging to get business lines to ownership for their content.**
 
-- Answer
+A few contact centers cited this as a pain point in their process, because it adds time to the flow and additional work trying to track down the right people to review/approve content.  This lack of ownership has resulted in IRIS essentially being abandoned by business lines.
 
-**Finding**
+**Most contact centers have moved away from scripts.**
 
-- Answer
-
-**Finding**
-
-- Answer
-
-**Finding**
-
-- Answer
+Agents prefer to use FAQs, KM articles, and other guides to help Veterans over scripts, because they want to flexibility to provide individualized service to the Veteran they're helping.
