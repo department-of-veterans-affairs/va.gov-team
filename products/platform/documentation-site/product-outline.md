@@ -54,8 +54,11 @@ Link to the following materials as relevant.
 
 ### Communications
 Team Name: VSP Content + Information Architecture
+
 GitHub Label: #content-ia-team
+
 Slack channel: #vsp-content-ia
+
 Product POCs: Liani Lye, Product Manager
 
 ### Stakeholders
