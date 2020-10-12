@@ -1,9 +1,10 @@
 /***************************************************************************************************
-Name:               BQ - Funnel - 
-URL:                https://va-gov.domo.com/datasources/
-Create Date:        2020-09-01
+Name:               BQ - VAOS Scheduling Completion Rate by day 
+URL:                https://va-gov.domo.com/datasources/df0acc2b-b035-4829-ab04-8f42ddc4721b/details/overview
+Create Date:        2020-10-09
 Author:             Brian Martin
-Description:        This...       
+Description:        This returns a daily conversion rate (session and user) for a funnel that starts with
+                    'vaos-schedule-appointment-button-clicked' and ends with 'vaos-.*-submission-successful$'
  /***************************************************************************************************/
 #standardSQL
 WITH ga AS (
