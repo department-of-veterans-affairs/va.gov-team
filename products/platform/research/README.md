@@ -95,6 +95,18 @@ Q2 2020
 
 <br>
 
+#### Documentation Tooling Research
+
+*Content and IA: Megan Kelley, Gretchen Maciolek*
+
+Q2 2020
+
+- [Readout](https://docs.google.com/presentation/d/1FUMIikoxUuMAKd5NhHcOHd6OvP9bnukhALsW6xG5_vY/edit#slide=id.p1)
+- [Tooling Recommendation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/v2/confluence-recommendation-5-2020.md)
+
+
+<br>
+
 #### Developer Experience Needs Finding
 
 *FE Tools: David Brusstar*
