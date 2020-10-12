@@ -16,3 +16,4 @@ Capturing some questions we can answer through future research studies
 
 ## Participants
 - Veterans or beneficiaries who have applied for education benefits in the last 12 months, or are planning on applying in the next 6 months.
+- May want to specify people who have applied to VetTech or STEM, to specifically test these edge cases starting on the 1990.
