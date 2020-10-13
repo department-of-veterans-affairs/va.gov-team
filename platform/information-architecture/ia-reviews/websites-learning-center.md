@@ -34,6 +34,7 @@
   - The benefit categories are not mutually exclusive but only 1 can be selected.   This would likely create a situation where content publishers may not assign similar articles to a consistent primary category resulting in articles not being displayed in an expected category list, or being displayed in a category that seems in accurate.  (i.e. an article about decision reviews may be categorized "decision reviews" most of the time, but some may be categorized "disability"; a user looking for information pertaining to their education appeal may not find it or may be confused that the information does not apply to them). 
   - The "other topics" category does not provide helpful context or description for users or search engines.  Given there are only 2 categories in the initial launch, this may not provide much benefit. 
   - The future amount and type of content that will be moved into the resources and support experience is still a bit unclear, which means that the categories could evolve requiring a reclassification of articles.
+  - Landing on clear categories from the start is highly recommended - once the URLs are implemented with the category included, making changes to this structure will require a significant lift and all articles will require redirects. 
 
 **Page**  | **URL** | **Breadcrumb** | **Notes**
 --- | --- | --- | ---
