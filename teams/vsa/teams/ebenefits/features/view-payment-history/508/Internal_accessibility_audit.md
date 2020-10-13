@@ -31,7 +31,7 @@ NA
 ```
 The h3 used above the payments tables when payments are present need to be changed to an h2 so that the Heading levels on the page do not skip from h3 to h1 
 
-**Note: There _is_ an H2 here, but axe didn't see it for seom reason**
+**Note: There _is_ an H2 here; we may need to rescan**
 <details>
  
  <summary>Screenshot of H2 present</summary>
