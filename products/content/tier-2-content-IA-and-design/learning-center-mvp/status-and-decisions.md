@@ -2,6 +2,17 @@
 
 ## mm/dd/yy
 
+## 10/13/20
+
+__Decision re Video article template__
+
+Per today's CMS weekly check in, with Kevin, Kelson, Clarence, Mickin, Nick, Steve, Jen:
+
+- Video meta data should be pulled in via CMS, not FE.
+- LC CMS technical work can be done for this post 1.1. 
+
+
+
 ## 10/6/20 
 
 __Decision__
