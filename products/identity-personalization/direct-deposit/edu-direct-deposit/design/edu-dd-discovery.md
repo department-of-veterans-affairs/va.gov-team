@@ -76,16 +76,19 @@ Note: Users need a Premium DS Logon (LOA3) account to access this feature.
 - Dependent wants to change direct deposit details
 
 #### Questions for team and/or business
-- Can users use the eBenefits or VA.gov DD features to **enroll** in direct deposit?
-- Do potential users of this feature include **dependents**?
-- So, does direct deposit info include **dependents’** C&P, education and DIC payments?
-- Does direct deposit cover Special Monthly Payments (SMC) made to veterans?
-- Where is the C&P/EDU direct deposit crossover (did not find this in initial pass)?
-- How often do users choose different bank for C&P vs. EDU deposits?
+For business:
+- Can users use the eBenefits or VA.gov DD features to **enroll** in direct deposit, or does enrollment occur when a person begins receiving benefits?
 - How long does it take to initially enroll in and set up direct deposit; how long to see a change take effect?
+- Do potential users of this feature on VA.gov include **dependents**?
+- So, would direct deposit arrangements (C&P ans EDU) cover **dependents’** C&P, education and DIC payments?
+- Does direct deposit cover Special Monthly Payments (SMC) made to veterans? Is that folded-in with C&P payments?
+- Are payment recipients allowed to use paper forms for DD changes (e.g. the 29-0309)? Are they discouraged from this?
+- Where is the C&P/EDU direct deposit crossover (did not find this in initial pass)? That is where would a change in EDU DD affect C&P paymnet's DD?
+- How often do users choose different bank for C&P vs. EDU deposits?
+
+For team:
 - How are user's entry errors handled (e.g. incorrect account type or number)?
 - Account info confirmation was required in eBenefits; why is that absent on VA.gov?
-- Are payment recipients allowed to use paper forms (e.g. the 29-0309)? Are they discouraged from this?
 - What other common questions might be better answered on the DD form screen itself vs. the landing page (e.g. timeframe when enrolling)?
 
 ### Payment (compensation) use cases
