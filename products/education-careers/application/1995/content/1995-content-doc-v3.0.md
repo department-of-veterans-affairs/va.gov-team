@@ -1,11 +1,11 @@
-# VA Form 22-1995: Update your education benefits
+# VA Form 22-1995: Change your education benefits 
 
-Breadcrumb: [Home]() > [Education]() [How to apply]() > **Request for change of program or place of training**    
+Breadcrumb: [Home]() > [Education and training]() [Change your GI Bill school or program]() > **Change your benefits VA Form 22-1995**    
 
-Mobile breadcrumb: < [How to apply]()
+Mobile breadcrumb: < [Change your benefits VA Form 22-1995]()
 
 
-## Form Title: Update your education benefits
+## Form Title: Change your education benefits 
 
 Equal to VA Form 22-1995 (Request for Change of Program or Place of Training).
 
@@ -90,7 +90,7 @@ Expiration date: **10/31/2021**
 
 ________________________________________
 
-## Form Title: Update your education benefits
+## Form Title: Change your education benefits 
 
 Form 22-1995 
 
@@ -121,7 +121,7 @@ You aren't required to fill in all fields, but we can review your application fa
 
 ________________________________________
 
-## Form Title: Update your education benefits
+## Form Title: Change your education benefits 
 Form 22-1995
 
 #### 1995 Screen No. { to come } 
@@ -140,7 +140,7 @@ Which benefit are you currently using?  { radio buttons }
 
 ________________________________________
 
-## Form Title: Update your education benefits
+## Form Title: Change your education benefits 
 Form 22-1995
 
 #### 1995 Screen No. { to come } 
@@ -168,7 +168,7 @@ Add another service period { button – on-click turns entered Service period da
 
 ________________________________________
 
-## Form Title: Update your education benefits  
+## Form Title: Change your education benefits  
 Form 22-1995  
 
 #### 1995 Screen No. { to come }  
@@ -183,7 +183,7 @@ Do you have any periods of service that began before 1978? { radio buttons }
 [ Back | Continue ] { buttons } [Finish this application later]()  
 ________________________________________
 
-## Form Title: Update your education benefits  
+## Form Title: Change your education benefits  
 Form 22-1995  
 
 #### 1995 Screen No. { to come } 
@@ -219,7 +219,7 @@ Are you getting benefits from the U.S. government as a civilian employee at the 
 
 ________________________________________
 
-## Form Title: Update your education benefits  
+## Form Title: Change your education benefits 
 Form 22-1995  
 
 #### 1995 Screen No. { to come } 
@@ -247,7 +247,7 @@ Form 22-1995
 
 ________________________________________
 
-## Form Title: Update your education benefits  
+## Form Title: Change your education benefits   
 Form 22-1995  
 
 #### 1995 Screen No. { to come } 
@@ -279,7 +279,7 @@ Please enter as much contact information as possible so we can get in touch with
 
 ________________________________________
 
-## Form Title: Update your education benefits  
+## Form Title: Change your education benefits  
 Form 22-1995  
 
 #### 1995 Screen No. { to come } 
@@ -307,7 +307,7 @@ Do you have a parent who depends on you for financial support? (* Required)  { r
 
 ________________________________________
 
-## Form Title: Update your education benefits  
+## Form Title: Change your education benefits  
 Form 22-1995  
 
 #### 1995 Screen No. { to come } 
@@ -338,7 +338,7 @@ If you choose not to enroll, you’ll need to call the Department of the Treasur
     
 ________________________________________
 
-## Form Title: Update your education benefits  
+## Form Title: Change your education benefits 
 Form 22-1995  
 
 ### Page with updates
@@ -363,7 +363,7 @@ I have read and accept the privacy policy (* Required) { checkbox }
 
 ________________________________________
 
-## Form Title: Update your education benefits  
+## Form Title: Change your education benefits 
 Form 22-1995  
 
 #### 1995 Screen No. { to come } 
