@@ -1,21 +1,18 @@
 # Missing text equivalent
 
 ## Table of contents
-
-- [Missing text equivalent](#missing-text-equivalent)
-  - [Table of contents](#table-of-contents)
-  - [Statement of the issue](#statement-of-the-issue)
-  - [Definition of done](#definition-of-done)
-  - [Add alt text to your images](#add-alt-text-to-your-images)
-    - [Write meaningful alt text](#write-meaningful-alt-text)
-  - [Test for compliance in Microsoft Word](#test-for-compliance-in-microsoft-word)
-  - [Export an accessible PDF from Microsoft Word](#export-an-accessible-pdf-from-microsoft-word)
-  - [Verify compliance using Adobe Acrobat Pro accessibility tools](#verify-compliance-using-adobe-acrobat-pro-accessibility-tools)
-  - [Learn more](#learn-more)
+ - [Statement of the issue](#statement-of-the-issue)
+ - [Definition of done](#definition-of-done)
+ - [Add alt text to your images](#add-alt-text-to-your-images)
+   - [Write meaningful alt text](#write-meaningful-alt-text)
+ - [Test for compliance in Microsoft Word](#test-for-compliance-in-microsoft-word)
+ - [Export an accessible PDF from Microsoft Word](#export-an-accessible-pdf-from-microsoft-word)
+ - [Verify compliance using Adobe Acrobat Pro accessibility tools](#verify-compliance-using-adobe-acrobat-pro-accessibility-tools)
+ - [Learn more](#learn-more)
 
 ## Statement of the issue
 
-- **Synopsis:** PDFs (portable document files) MUST have text equivalent (alt text) to explain descriptive or important images for assistive technology.
+- **Synopsis:** PDFs (portable document files) MUST have text equivalent (`<alt>` text) to explain descriptive or important images for assistive technology.
 - **Severity:** Critical
 - **Deque University help link:** https://dequeuniversity.com/rules/comply-pdf/1.0/image-no-alt
 - **WCAG Success Criteria:** [1.1.1 Non-text Content](https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html)
@@ -26,15 +23,18 @@
 - There MUST be **0 figures alternative text - failed violations** in the Adobe Acrobat [Accessibility Checker](https://www.adobe.com/accessibility/products/acrobat/using-acrobat-pro-accessibility-checker.html)
 - Consider exporting an accessibility report from Adobe Acrobat while running the Accessibility Checker
 
-## Add alt text to your images
+## Alt text overview
 
-Alt text should be added to your images as you are editing a document in Microsoft Word. Any image that provides meaningful information or adds context to your document MUST have alt text. Images that are used for visual flourish or interest are considered decorative and do not require alt text.
+Any image that provides meaningful information or adds context to your document MUST have alt text (alternative text). 
 
-Older version of Microsoft Word do not allow users to mark an image as decorative, so it is recommended to remove all images that are decorative or for visual interest. If you are using a current version of Microsoft Word 365, you can [check a box to mark images as decorative](https://ccconlineed.instructure.com/courses/3303/pages/decorative-images-word-365-tutorial).
+Best practices for writing alt text:
+- Alt text should be meaningful and explain the core concept being illustrated with an image. 
+- Try to keep alt text to 150 characters or less. 
+- Consider reaching out to a content specialist for help writing your alt text.
 
-### Write meaningful alt text
+Images that are used for visual flourish or interest are considered decorative and do not require alt text. Older version of Microsoft Word do not allow users to mark an image as decorative. If you're using a version of Microsoft Word that doesn't allow you to mark images as decorative, it's best to remove the decorative images. If you are using a current version of Microsoft Word 365, you can [check a box to mark images as decorative](https://ccconlineed.instructure.com/courses/3303/pages/decorative-images-word-365-tutorial).
 
-Alt text should be meaningful, and explain the core concept being illustrated with an image. Try to keep alt text to 150 characters or less. Consider reaching out to a content specialist for help writing your alt text.
+## Add alt text to an image
 
 1. Verify there is an image that needs alt text
 2. Right-click the image you want to add alt text to
@@ -80,12 +80,13 @@ We recommend you check your Word document for accessibility while working. At a 
 
 ## Verify compliance using Adobe Acrobat Pro accessibility tools
 
-1. Run the Acrobat Accessibility Checker by clicking the purple **Accessibility** button on the top right of your application window
-2. Select **Accessibility Check** in the accessibility panel
+1. Run the Acrobat Accessibility Checker by clicking the purple **Accessibility** button on the top right of your application window.
+2. Select **Accessibility Check** in the accessibility panel.
 3. Ensure the **Document is tagged PDF** checkbox is checked, then select the **Start Checking** button. This will run the accessibility checker, and report any issues in a panel on the left of your document.
-4. Select the **Alternate Text** accordion and verify that all alt text requirements have green checkmarks and say **Passed**
+4. Select the **Alternate Text** accordion and verify that all alt text requirements have green checkmarks and say **Passed**.
 5. If your image(s) include text, select the **Document** accordion and verify the **Image-only PDF** requirement has a green checkmark and says **Passed**
-6. When you are finished with steps 4 and 5, your document has proper alt text for meaningful images, and [decorative images have been marked appropriately](https://ccconlineed.instructure.com/courses/3303/pages/decorative-images-word-365-tutorial) or removed.
+
+When you're finished with steps 4 and 5, your document has proper alt text for meaningful images, and [decorative images have been marked appropriately](https://ccconlineed.instructure.com/courses/3303/pages/decorative-images-word-365-tutorial) or removed.
 
 ![All five alternate text checks have a green checkmark and Passed text](https://user-images.githubusercontent.com/934879/91470008-c4389f80-e859-11ea-8fa5-9bc2d7b8a495.jpg)
 
