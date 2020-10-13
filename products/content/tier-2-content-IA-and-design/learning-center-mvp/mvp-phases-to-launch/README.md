@@ -59,9 +59,11 @@ Categories: How content is organized on the LC homepage e.g. disability
 - VA account and profile
 - Other topics and questions
 
-Content tags: 
-- **TBD** but tentatively 1 for audience tag = All Veterans
-- **TBD** additional content tags for 1.0 based on card sort findings and IRIS 1.0 content audit: {NOTE LABELS TBD} claims and appeals status; payments/debts; sign in
+Content tags in 1.0 beta launch: 
+- All Veterans
+- Sign in
+- Claims and appeals status
+- Payments and debt
 
 1 audience type: 
 - All Veterans
