@@ -11,7 +11,7 @@ Any team charged with building a Veteran Facing Service (VFS) has the tools to q
 Design System 
 
 ### Team Mission Statement:
-Our mission is to provide simple, scalable, high quality tools that enable teams to rapidly build and improve the Veteran facing digital applications provided by VA.  
+Provide simple, scalable, high quality tools and guidelines that enable teams to rapidly build and improve the Veteran facing digital applications provided by VA.   
 
 ### Product Portfolio:
 - React Library
