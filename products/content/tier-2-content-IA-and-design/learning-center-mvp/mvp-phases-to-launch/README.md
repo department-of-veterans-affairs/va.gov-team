@@ -65,8 +65,6 @@ Content tags in 1.0 beta launch:
 - Claims and appeals status
 - Payments and debt
 
-1 audience type: 
-- All Veterans
 
 Templates for Oct launch:
 
