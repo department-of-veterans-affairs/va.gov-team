@@ -11,13 +11,13 @@ Based on mean velocities from the past 10 sprints or so, FE and BE should be com
 
 
 ### Product
-- Request formal 508 audit (1)  
-- Load TestRail (2)  
-- 🌀 Request QA Audit (1) 
-- 🌀 Usability Prep and sessions (2)
-- 🌀 UAT (2)
+- ✔ Request formal 508 audit (1)  (Happening in staging review)
+- ✔ Load TestRail (2)  
+- 🌀✔ Request QA Audit (1) 
+- 🌀✔ Usability Prep and sessions (2)
 - 🌀 Staging Review (1)  
-- 🌀 Privacy and Security Audit (2)  
+- 🌀 Privacy and Security Audit (2) 
+- 🌀 UAT (2)   
 Total = 11
 
 ### Front End
@@ -43,8 +43,8 @@ Total = 49
 
 ### Backend
 - ✔ [#12901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12901) PDF creation from CH36 form 
-- [#12877](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12877) Submits via Central Mail Submission for CH36 (3)
-- [#12101](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12101) Set up the controller (3)
+- ✔ [#12877](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12877) Submits via Central Mail Submission for CH36 (3)
+- ✔ [#12101](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12101) Set up the controller (3)
 - ✔ [#12105](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12105) Set up the model (5)
 - ❌ [#12142](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12142) Set up a sidekiq job  (3)
 - ✔ [#13273](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13273) Send SSN and DOB data to BGS (3)
@@ -66,23 +66,23 @@ Total = 7
 ### Frontend
 - ✔ [#12263](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12263) Implement copy edits (3)
 - 🔽 [#11926](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11926) Unit test `ViewPaymentsHeader` (5)
-- 👉 [#11925](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11925) Unit test `ViewPaymentsLists` (5)
-- 👉 [#11924](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11924) Unit test `Payments` (5)
+- ✔ [#11925](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11925) Unit test `ViewPaymentsLists` (5)
+- ✔ [#11924](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11924) Unit test `Payments` (5)
 - 🔽 [#11991](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11991) Unit test `ViewPaymentsSidebar` (3) `low priority`
-- 👉 [#12000](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12000) Swap dummy content with real data from API call (BE + FE get together) (3)
+- ✔ [#12000](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12000) Swap dummy content with real data from API call (BE + FE get together) (3)
 - ✔ [#11991](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11991) Unit test Redux (3)
-- 👉 [#12003](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12003) E2E test (5)
-- [#13512](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13512) Meet with GA team (1)
-- [#13513](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13513) Implement event names from GA team (2)
+- ✔ [#12003](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12003) E2E test (5)
+- ✔ [#13512](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13512) Meet with GA team (1)
+- ❌ [#13513](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13513) Implement event names from GA team (2)
 - ✔ [#12001](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12001) Internal a11y audit (2)  
 Total = 37
 
 ### Backend
-- Build a serializer (5)
-- Set up the controller (3)
-- Set up the model (5)
-- Set up a sidekiq job  (3)
-- Set up sentry events  (5)
+- ✔ Build a serializer (5)
+- ✔ Set up the controller (3)
+- ❌ Set up the model (5)
+- ❌ Set up a sidekiq job  (3)
+- ✔ Set up sentry events  (5)
 - Test submission against environment (5)  
 Total = 26
 
