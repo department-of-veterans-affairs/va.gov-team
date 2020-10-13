@@ -55,15 +55,15 @@ Deliverables: Full design, layout and specs for LOA3 (state when a user has bene
 
    - [ ] Check your claim or appeal status (shown conditionally if someone has a claim or appeal in progress)[#14401](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14401) S32
 
-   - [ ] Upload evidence to support your claim (link shown conditionally if someone has a claim or appeal in progress) S33
+   - [ ] Upload evidence to support your claim (link shown conditionally if someone has a claim or appeal in progress)[#14755](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14401) S33
 
-   - [ ] File for a VA disability increase (link shown conditionally if someone has a disability rating) S33 
+   - [ ] File for a VA disability increase (link shown conditionally if someone has a disability rating)[#14756](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14756)S33 
 
-   - [ ] File a claim for compensation S33
+   - [ ] File a claim for compensation [#14757](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14757)S33
 
-   - [ ] View your direct deposit (link) S33
+   - [ ] View your direct deposit (link) []()S33
 
-   - [ ] View your payment history (link) this will be done last S33
+   - [ ] View your payment history (link) []()S33
 
 
 **Overall**
