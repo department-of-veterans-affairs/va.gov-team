@@ -190,6 +190,9 @@ This collaboration point happens _before beginning development_. The accessibili
 
 The VSP and VSA accessibility specialists will forward teams' webpages and applications to the VA 508 office after production launch. Accessibility specialists meet with the 508 office representative every month, and will notify them of new products to test during that meeting, or via email as needed.
 
+While the Staging Review and Full Accessibility Audit look similar, they are separate. The Full A11y & 508 Office Audit will consist of the VSA a11y specialist running through the work again, then sending to the VA 508 Office for their audit. Hopefully issues caught during the Staging Review could be remediated. Any known issues need to be itemized and linked in the Full A11y Audit request. We send those to the VA 508 Office, so they know we're aware of those.
+
+
 ### Post-launch Audit 
 
 Review the guidance in the [VSP Accessibility Post-Launch Audit Processes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/de7ab3f6310b46569ff48d0796338fc50863f03c/platform/accessibility/guidance/post-launch-audit-processes.md).
