@@ -787,8 +787,6 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open issues**
 
-- [[AXE-CORE]: GIBCT EYB - Form elements MUST have labels - #14407](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14407)<br/>
-**Opened:** October 5, 2020 | **Severity:** 508-defect-1 - **_Critical_**
 - [[SCREENREADER]: GIBCT EYB - iOS VoiceOver MUST read out the aria-label of the learn more buttons - #10201](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10201)<br/>
 **Opened:** June 12, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER]: GIBCT EYB - Focus MUST be set on the first added item when Show Next 10 button is pressed - #9953](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9953)<br/>
@@ -798,8 +796,6 @@ Back to [Table of Contents](#table-of-contents)
 - [[MOBILE DESIGN]: GIBCT EYB: Skip to your estimated benefits link SHOULD be taller and spaced appropriately - #14409](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14409)<br/>
 **Opened:** October 5, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[COGNITION]: GIBCT EYB - Learn more modal triggers MUST be moved outside labels for VETTEC estimated benefits - #14417](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14417)<br/>
-**Opened:** October 5, 2020 | **Severity:** 508-defect-2 - **_Serious_**
-- [[HEADINGS]: GIBCT EYB - Additional resources headings SHOULD be H2s on all three profile types - #14419](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14419)<br/>
 **Opened:** October 5, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[MOBILE DESIGN]: GIBCT EYB - Responsive tables SHOULD have HTML updated for better mobile presentation - #14420](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14420)<br/>
 **Opened:** October 5, 2020 | **Severity:** 508-defect-3 - **_Minor_**
@@ -885,7 +881,6 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open issues**
 
-- [508-defect-1 ❗ Launchblocker [SEMANTIC MARKUP]: Loud buzzing occurs using VoiceOver - #14440](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14440)<br/>**Production** | **Opened:** October 5, 2020 | **Severity:** _508-defect-1 - **Critical**_
 - [508-defect-2 [COGNITION]: The page MUST specify the language - #14432](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14432)<br/>**Production** | **Opened:** October 5, 2020 | **Severity:** _508-defect-2 - **Serious**_
 - [[#8248 components, design system [SCREENREADER] Aside MUST not be contained in another landmark](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8248)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
 - [[#8250 sitewide [AXE-CORE]: Landmarks MUST have a unique role or role/label/title (i.e. accessible name) combination](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8250)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
