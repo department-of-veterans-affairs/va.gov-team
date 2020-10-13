@@ -26,7 +26,7 @@ Link to product outline: [Resources and support (formerly called learning center
   - The link could be in the form of a CTA button or a content link in the `Related information` section; the `VA benefits` section; a text link within body text. 
 
 * **Link to designs**
-  - lorem ipsum
+  - [Mural mockups](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1588167553516/2773c854e8ff3a725a5e3ee03272b78e8519f78b?wid=0-1602122053838) - see 1.0 section for beta launch mockups
 
 * **Instructions to access in demo environment (for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - http://learningcenter.demo.ci.cms.va.gov/
