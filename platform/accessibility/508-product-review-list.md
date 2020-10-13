@@ -783,7 +783,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### GI Bill Estimate Your Benefits
 
-**Audit Status:** _Staging review completed. VSP post-launch audit finished as of October 5, 2020. Ready to send to VA 508 office._<br/>
+**Audit Status:** _Staging review completed. VSP post-launch audit finished as of October 5, 2020. Sent to to VA 508 office on October 13, 2020._<br/>
 
 **Open issues**
 
