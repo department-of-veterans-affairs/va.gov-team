@@ -53,7 +53,7 @@ Category landing page
 
 Tag landing page
 - Tag: Claims and appeals status
-- URL: www.va.gov/resources/claims-and-appeals-status/
+- URL: www.va.gov/resources/claims-and-appeals-status/ <-- Mikki: have you already considered clarifying the url for tags so that it's always clear that it's page for tagged articles? For example for audience tags, it might be clearer when the url is: .gov/resources/all-veterans-tag/ or /women-veterans-tag/ ?  
 - BC: Home > Resources and support > All articles tagged: claims and appeals status
 
 Article page
