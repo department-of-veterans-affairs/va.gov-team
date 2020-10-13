@@ -125,4 +125,4 @@ Recruit for 5 fulfilled sessions using the following criteria:
 ---
 
 #### Approval
-_Plan approval TBA_
+_Plan approved 9/18/20_
