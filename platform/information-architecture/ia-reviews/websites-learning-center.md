@@ -40,27 +40,27 @@
 Resources and support landing page   | www.va.gov/resources/   |  Home  > Resources and support   |  |
 Resources and support search results   | www.va.gov/resources/search/[query-parms]/   |  Home  > Resources and support > Search results for "[user entered search]  | Include sub-text on page " Showing 1-x of xx results for "[user entered search]" |
 Resources and support category landing page   | www.va.gov/resources/[category-name]/   |  Home  > Resources and support > [Category name]   | Category name should be pulled directly from Drupal  |
-Resources and support topic landing page   | www.va.gov/resources/[topic-name]/   |  Home  > Resources and support > [Topic name]   | Topic name should be pulled directly from Drupal  |
+Resources and support ~topic~ tag landing page   | www.va.gov/resources/[topic-name]/   |  Home  > Resources and support > [~Topic~ Tag name]   | ~Topic~ Tag name should be pulled directly from Drupal  |
 Resources and support article   | www.va.gov/resources/[article-title]/   |  Home  > Resources and support > [Article title]   | Article title should be pulled directly from Drupal  |
 
 **Examples**
 
 Category landing page
 - Category: Account and profile
-- H1: SResources and support for account and profile
+- H1: SResources and support for account and profile  _<--Prefer the clarity of `Articles in: <category-label>` I believe this provides more info scent to the user that they are seeing content for a category that they clicked on. Also allows us to make the category part of the H1 dynamic without worrying about if the gramatical structure will be awkward for some category names - or when the category label is long. JL_
 - URL: www.va.gov/resources/account-and-profile/
 - BC: Home > Resources and support > Account and profile
 
 Tag landing page
 - Tag: Claims and appeals status
-- H1: Resources and support for claims and appeals status
+- H1: Resources and support for claims and appeals status  _<-- Prefer the clarity of `Articles tagged: <tag-label>`  This way, it is clear that to the user that they are seeing content they got to by clicking on a tag. Also, this pattern works better for a variety of tag labels, text length, etc., and allows us to make the tag label part of the H1 dynamic without concern wrt gramatical structure. /JL_
 - URL: www.va.gov/resources/claims-and-appeals-status/
 - BC: Home > Resources and support > Claims and appeals status
 
 Article page
 - H1: How to check the status of your disability claim
 - URL: www.va.gov/resources/other-topics-and-questions/how-to-check-the-status-of-your-disability-claim
-- BC: Home > Resources and support > Other topics and questions > How to check the status of your disability claim
+- BC: Home > Resources and support > ~Other topics and questions >~ How to check the status of your disability claim  [@Mikki - your URL example in the table above uses the pattern: home > resources> article titl; but this one includes the category name. Which is your intended recommendation? __Copy/pasted from your table: www.va.gov/resources/[article-title]/__
 
 
 
