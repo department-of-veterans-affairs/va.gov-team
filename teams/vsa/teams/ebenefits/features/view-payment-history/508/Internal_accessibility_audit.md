@@ -39,6 +39,7 @@ The h3 used above the payments tables when payments are present need to be chang
 ![axe-h2](https://user-images.githubusercontent.com/15097156/95778186-95557c00-0c95-11eb-8cb9-b60456bed411.png)
 
 </details>
+
 ### 2. Scan with axe-coconut   
 - Results: "Heading levels should only increase by one, this can be H2 and made to look like H3.  Even thought its in the right order, it needs to be sequential."   
 ### 3. Lighthouse Scan (Chrome)  
