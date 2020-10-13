@@ -38,11 +38,11 @@
 
 **Page**  | **URL** | **Breadcrumb** | **Notes**
 --- | --- | --- | ---
-landing page   | www.va.gov/resources/   |  Home  > Resources and support   |  |
-search results   | www.va.gov/resources/search/[query-parms]/   |  Home  > Resources and support > Search results for "[user entered search]  | Include sub-text on page " Showing 1-x of xx results for "[user entered search]" |
-category landing page   | www.va.gov/resources/[category-name]/   |  Home  > Resources and support > [h1]   | Category name should be pulled directly from Drupal. <br> The current page component of the breadcrumb should pull from the H1.  |
-topic landing page   | www.va.gov/resources/[tag-name]/   |  Home  > Resources and support > [h1]   | Topic name should be pulled directly from Drupal. <br> The current page component of the breadcrumb should pull from the H1.   |
-article   | www.va.gov/resources/[category-name]/[article-title]/   |  Home  > Resources and support > [Category name] > [Article title]   | Article title should be pulled directly from Drupal. <br> The current page component of the breadcrumb should pull from the H1.   |
+Landing page   | www.va.gov/resources/   |  Home  > Resources and support   |  |
+Search results   | www.va.gov/resources/search/[query-parms]/   |  Home  > Resources and support > Search results for "[user entered search]  | Include sub-text on page " Showing 1-x of xx results for "[user entered search]" |
+Category landing page   | www.va.gov/resources/[category-name]/   |  Home  > Resources and support > [h1]   | Category name should be pulled directly from Drupal. <br> The current page component of the breadcrumb should pull from the H1.  |
+Tag landing page   | www.va.gov/resources/[tag-name]/   |  Home  > Resources and support > [h1]   | Tag name should be pulled directly from Drupal. <br> The current page component of the breadcrumb should pull from the H1.   |
+Article   | www.va.gov/resources/[category-name]/[article-title]/   |  Home  > Resources and support > [Category name] > [Article title]   | Article title should be pulled directly from Drupal. <br> The current page component of the breadcrumb should pull from the H1.   |
 
 **Examples**
 
