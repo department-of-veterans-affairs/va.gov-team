@@ -1,5 +1,5 @@
 # Accessibility: View Payment History 
-`eBenefits | September - 2020`
+`eBenefits | September, October - 2020`
 
 ### Resources for internal a11y audit
 1. [A11y Test Case Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-test-cases-checklist.md)
