@@ -1,5 +1,3 @@
-Placeholder wip
-
 # Product Use Cases Template
 
 _Track and maintain the various use cases that exist for a given product and is best maintained alongside the product outline._
