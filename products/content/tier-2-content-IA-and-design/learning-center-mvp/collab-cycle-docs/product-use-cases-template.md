@@ -60,9 +60,11 @@ Link to product outline: [Resources and support (formerly called learning center
   
   ## Use Case D
 
-* **Description - wrong breadcrumb links**
-  - User is on an article that belongs to X primary category. (One primary category is selected in the CMS for each article.) 
-  - **TBD IA CONFIRMATION FROM MIKKI:** The breadcrumb should show: `Home > Resources and support > {Primary-category-label} > {Article H1}`  but doesn't show the correct path. 
+* **Description - wrong breadcrumb links** TBD
+  - User is on an article that belongs to X primary category. (One primary category is selected in the CMS for each article.) The breadcrumb should show: `Home > Resources and support > {Primary-category-label} > {Article H1}`  but doesn't show the correct path. 
+  - The user is on an 'all articles' landing page for a category. The breadcrumb should show: `Home > Resources and support > All articles in: {category-name}`  or if it is a tag landing page: `Home > Resources and support > All articles tagged: {tag-label}` 
+  - The user is on an 'all articles' landing page for a tag. The breadcrumb should show: `Home > Resources and support > All articles tagged: {tag-label}` 
+
 
 
 * **Link to designs**
