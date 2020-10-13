@@ -36,37 +36,35 @@ Per product sync today - We will launch batches per steps:
 
 ---
 
-## Phase I: Unmoderated internal production testing (also known as User Acceptance Testing, or UAT)
+## Phase I: Unmoderated Q/A demo testing
 
 ### Planning - 1.0 October/Nov beta launch release**:
 
-- **Date range:**
-  - Starting ~Oct 29 - Nov. 5 
-- **Test duration:**
+- **QA and internal demo validation date range:**
+  - Starting ~Oct 23 - 28
+- **QA and internal demo validation duration:**
   - 5 business days
-- **Desired number of users:** 
-  - 25
+  
+- **Prod validation date range:**
+  - Starting Oct 29 - Nov. 5 
+- **Prod validation duration:**
+  - 3 business days
 - **How you'll recruit the right production test users:** 
-  - PW team, DEPO volunteers, and forms stakeholders
+  - PW team
 - **How you'll conduct the testing:** 
-  - Provide people a list of form page links to test
-  - Collected stakeholder UAT bug/comments in this SharePoint folder: https://dvagov.sharepoint.com/sites/VA-forms-managers-and-SMEs/Shared%20Documents/Forms/AllItems.aspx 
-- **How you'll give the test users access to the product in production w/o making it findable on VA.gov:** 
-  - This is a CMS content product. In order to test full functionality (such as form download behavior) we have to publish on va.gov. We will not be able to test form downloads in demo/staging/preview. 
-- **How will you make the product available in production while limiting the number of users who can find/access it:** 
-  - We will do a 'hidden' launch, with basic auth gate in front of the form page directory. 
-  - We will not do redirects until post-UAT.
-  - We will UAT launch the first batch - (the top mvp top form pages)[#11155](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11155)
+  - Provide people a list of URL links to test
+  - Collected UAT bug/comments in this SharePoint folder: <link to sharepoint doc here>
+
 
 - **What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:** 
-  - We will invite VA forms and business SMEs to visit their form detail page and test form download and links are working for them. 
   - We will check error rate after we hit 25 users or 7 business days. We want < 5% error rate.
   
   We will track errors for:
 
-  - Form download links
-  - Online tool links on the form detail page
-  - Related forms links, if any, on the form detail page
+  - invalid/broken links
+  - CTA buttons
+  - tags
+  - category landing pages
 
 ### Results:
 
@@ -80,45 +78,10 @@ Per product sync today - We will launch batches per steps:
 
 
 
-### Planning - Batch 2 form pages: 
-
-(Batch 2 - MVP non-top forms) [#12213](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12213)
-
-- We will do a 'hidden' launch, no redirects of remaining legacy form detail pages. Second batch -   'non-top' MVP form detail pages (around 400 - this number changes based on the VA forms database). 
- - We will do a 'hidden' launch, with basic auth gate in front of the form page directory. 
- - We will remove basic auth after 300 users or 5 business days with less than 5% error rate.
- - We will not do redirects until post-UAT.
-
-#### Planning
-
-- **Length of time: **
-  - 5 business days
-- ~~Percentage of~~ **Users (and roughly how many users do you expect this to be):** 
-  - We will check error rate after we hit 300 users or 5 business days. We want < 5% error rate.
-  - Remove basic auth after ^. 
-
-We will track errors for:
-
-- Form download links
-- Online tool links on the form detail page
-- Related forms links, if any, on the form detail page
-
-#### Results:
-
-- Number of unique users: x
-- Metrics at this stage (per your "success criteria"): x
-- ~~Was the data submitted (if any) easy for VA to process?~~ There's nothing to submit.
-- Types of errors logged: 
-- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
-
 _More stages? Sure! If it makes sense for your product! Plan them out with the same structure as above._
 
 
 ## Go Live! - Open launch (~remove noindex [#12242]~ & implement redirects [#5549](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5549))
-
-Remove no-index from modern form detail pages. 
-
-Implement the 2 types of redirects:
 
 - 1:1 redirects of top trafficked/high value forms (about 70)
 - Bulk redirect to the modernized search page
