@@ -67,14 +67,22 @@ An article called "Can I get a service dog through VA?"
 - if the user clicks on "service dogs" tag, they would go to a landing page with all/any articles tagged with that content theme, not just disability articles about service dogs -- i.e., health care category article about service dogs, a service dog article for fiduciaries, etc. 
 
 
+### 1.0 FE tags
+
+- All Veterans
+- Sign in
+- Claims and appeals status
+- Payments and debt
+
+
 ### Audience labels for FE tags
 
 Authors can select 1 beneficiary **or** 1 non-beneficiary audience. 
 
 **Beneficiaries ("you're a Veteran or receive VA benefits"):** 
 
-- All Veterans 
-- Veterans age 65+ with complex care needs <-- TBD card sort
+- All Veterans (1.0 beta launch)
+- ~Veterans age 65+ with complex care needs~ <--Based on card sort results, we will not go out with this audience tag in 1.0 or 1.1
 - Former prisoners of war
 - Gulf War Veterans
 - Incarcerated Veterans
@@ -155,26 +163,7 @@ __~Backend (BE) tags - these are used in the CMS AX and do not display as FE tag
 ~The FE tags do not need to match the BE categories. ~By default, the "primary" BE tag should be one of the 4 FE tags~ -- ~this gives the author the ability to select 3 more as FE tags.~
 
 
-## ~FE topic tags~
 
-~We're separating LC topic tags from the global benefit hub taxonomy. We are also separating Administration info from tags.~ 
-
-~This list of FE tags may grow in the future, but it will depend on user data, as well as patterns of frequent article topics during tier 2 content migrations. We may also deprecate FE tags if users don't interact with it as a way to browse content.~ 
-
-__~MVP list of FE topic tags are:~__
-
-1. ~Burials and memorials~
-2. ~Careers and employment~
-3. ~Decision reviews and appeals~ 
-4. ~Disability~
-5. ~Education and training~
-6. ~Health care~
-7. ~Housing assistance and home loans~
-8. ~Life insurance~
-9. ~Pension~
-10. ~Records~
-11. ~VA account and profile~
-12. ~Other topics and questions~ <--Label TBD card sort 
 
 
 ## Administration taxonomy
