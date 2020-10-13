@@ -18,8 +18,9 @@ VSP team members and Leadership.
 
 ### Key Performance Indicators (KPIs)
 
-- % of customer support requests that are automatically logged and tagged
-- time it takes to compile customer support reports
+- % of customer support requests that are automatically logged and tagged.
+- time it takes to compile customer support reports.
+- % of tracked links that go to platform documentation.
 
 ------
 
