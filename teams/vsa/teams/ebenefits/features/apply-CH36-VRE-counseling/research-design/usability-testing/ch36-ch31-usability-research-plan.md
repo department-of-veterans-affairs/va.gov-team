@@ -96,7 +96,7 @@ Recruit for 5 fulfilled sessions using the following criteria:
 ### Resources
 - [Project brief for Personalized Career Planning & Guidance (Chapter 36)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling)
 
-- [Conversation guide]() (Available soon.)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-convo-guide.md)
 
 - [CH31 prototype](https://preview.uxpin.com/e291c4ac8956d804d774160cdb82ecb724044689#/pages/129526673)
 
@@ -104,11 +104,11 @@ Recruit for 5 fulfilled sessions using the following criteria:
 
 - [CH36 form flow diagram](https://xd.adobe.com/view/0bfd10fc-c184-4d65-bee2-26498f854cfc-5eae/)
 
-- [Session notes]() (Available after research sessions.)
-
-- [Topline summary]() (Available at conclusion of research.)
+- [Topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-topline-summary.md)
 
 - [Research synthesis]() (Available at conclusion of research.)
+
+- [Session notes]() (Available after research sessions.)
 
 ### References
 
