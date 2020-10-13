@@ -38,28 +38,26 @@
 
 **Page**  | **URL** | **Breadcrumb** | **Notes**
 --- | --- | --- | ---
-Resources and support landing page   | www.va.gov/resources/   |  Home  > Resources and support   |  |
-Resources and support search results   | www.va.gov/resources/search/[query-parms]/   |  Home  > Resources and support > Search results for "[user entered search]  | Include sub-text on page " Showing 1-x of xx results for "[user entered search]" |
-Resources and support category landing page   | www.va.gov/resources/[category-name]/   |  Home  > Resources and support > [Category name]   | Category name should be pulled directly from Drupal  |
-Resources and support topic landing page   | www.va.gov/resources/[topic-name]/   |  Home  > Resources and support > [Topic name]   | Topic name should be pulled directly from Drupal  |
-Resources and support article   | www.va.gov/resources/[category-name]/[article-title]/   |  Home  > Resources and support > [Category name] > [Article title]   | Article title should be pulled directly from Drupal  |
+landing page   | www.va.gov/resources/   |  Home  > Resources and support   |  |
+search results   | www.va.gov/resources/search/[query-parms]/   |  Home  > Resources and support > Search results for "[user entered search]  | Include sub-text on page " Showing 1-x of xx results for "[user entered search]" |
+category landing page   | www.va.gov/resources/[category-name]/   |  Home  > Resources and support > [h1]   | Category name should be pulled directly from Drupal  |
+topic landing page   | www.va.gov/resources/[tag-name]/   |  Home  > Resources and support > [h1]   | Topic name should be pulled directly from Drupal  |
+article   | www.va.gov/resources/[category-name]/[article-title]/   |  Home  > Resources and support > [Category name] > [Article title]   | Article title should be pulled directly from Drupal  |
 
 **Examples**
 
 Category landing page
 - Category: Account and profile
-- H1: SResources and support for account and profile
 - URL: www.va.gov/resources/account-and-profile/
-- BC: Home > Resources and support > Account and profile
+- BC: Home > Resources and support > All articles in: account and profile
 
 Tag landing page
 - Tag: Claims and appeals status
-- H1: Resources and support for claims and appeals status
 - URL: www.va.gov/resources/claims-and-appeals-status/
-- BC: Home > Resources and support > Claims and appeals status
+- BC: Home > Resources and support > All articles tagged: claims and appeals status
 
 Article page
-- H1: How to check the status of your disability claim
+- Example H1: How to check the status of your disability claim
 - URL: www.va.gov/resources/other-topics-and-questions/how-to-check-the-status-of-your-disability-claim
 - BC: Home > Resources and support > Other topics and questions > How to check the status of your disability claim
 
