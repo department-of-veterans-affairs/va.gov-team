@@ -1,4 +1,4 @@
-# Summary of release plan Steps - 1.0 Learning Center Beta Launch
+# Summary of Release Plan Steps - 1.0 Learning Center Beta Launch
 
 __Summary of release plan steps:__
 Per product sync today - We will launch batches per steps: 
