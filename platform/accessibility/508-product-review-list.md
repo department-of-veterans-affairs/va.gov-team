@@ -329,9 +329,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### 2346
 
-**Open issues**
-
-- [[CI/CD]: Review coverage of accessibility checks in 2346 end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7318)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+**No open issues**
 
 Back to [Table of Contents](#table-of-contents)
 
