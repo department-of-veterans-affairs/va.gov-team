@@ -1,5 +1,25 @@
 # Samara's design feedback
 
+## Feedback 10.13.20
+
+**Name tag**
+
+- Why do you have "VA appointment" under the "Appointments" heading? This feels redundant. What happened to the facility OR doctor name?
+- Also, maybe "Appointments" should be "Next Appointment" since there is only one appointment there.
+- Do we show data in XX/XX/XXXX format, or is always written out in words? This is something to check with content (and if we just have too much info to put in this block, we can revisit it altogether).
+
+**Health care header**
+
+- Can you right align "Learn more about your VA health benefits"?
+
+**Lab and test results**
+
+- This treatment still doesn't work. What else can you do? Create a heading-copy-button section for lab and test results? Add a link to View lab and test results in the health care header area? Something else? 
+
+**Prescriptions**
+
+- This is not a big deal, but there is an erroneous question mark in the first prescription right before "Submitted."
+
 ## Feedback 10.9.20
 
 **General**
