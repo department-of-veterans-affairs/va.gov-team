@@ -41,7 +41,7 @@
 Resources and support landing page   | www.va.gov/resources/   |  Home  > Resources and support   |  |
 Resources and support search results   | www.va.gov/resources/search/[query-parms]/   |  Home  > Resources and support > Search results for "[user entered search]  | Include sub-text on page " Showing 1-x of xx results for "[user entered search]" |
 Resources and support category landing page   | www.va.gov/resources/[category-name]/   |  Home  > Resources and support > [Category name]   | Category name should be pulled directly from Drupal  |
-Resources and support topic landing page   | www.va.gov/resources/[topic-name]/   |  Home  > Resources and support > [Topic name]   | Topic name should be pulled directly from Drupal  |
+Resources and support ~topic~tag landing page   | www.va.gov/resources/[~topic~tag-name]/   |  Home  > Resources and support > [~Topic~ Tag name]   | ~Topic~Tag name should be pulled directly from Drupal  |
 Resources and support article   | www.va.gov/resources/[category-name]/[article-title]/   |  Home  > Resources and support > [Category name] > [Article title]   | Article title should be pulled directly from Drupal  |
 
 **Examples**
