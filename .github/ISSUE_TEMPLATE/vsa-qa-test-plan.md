@@ -17,9 +17,8 @@ assignees: 'tlei123'
 Product/Feature Outline: \[provide link]
 Product/Feature Epic: \[provide link]
 Product/Feature Pre-Launch Checklist: \[provide link]
-Product/Feature Copy deck(s): \[provide link]
+Product/Feature Copy deck(s): \[provide link, or type "In Design prototypes"]
 Product/Feature Design prototypes: \[provide links]
-Product/Feature Copy Decks: \[provide links]
 
 ## Product-team SMEs
 
