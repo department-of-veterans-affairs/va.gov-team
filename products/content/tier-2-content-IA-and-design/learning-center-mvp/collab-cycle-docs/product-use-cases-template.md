@@ -208,7 +208,7 @@ Templates
 
 - Required: [Need more help?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#need-more-help-section) - This section includes contact info based  on a pre-set list of options
 
-- Optional: Back to top links: dynamic based on page height.
+- Back to top links: dynamic based on page height.
 
  
 
