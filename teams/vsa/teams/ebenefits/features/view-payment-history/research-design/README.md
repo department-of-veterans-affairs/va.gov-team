@@ -34,6 +34,10 @@
 
 ### Mockups Changelog
 
+**October 13, 2020**
+
+- Reason column added to far right of the Returned Payments table
+
 **September 16, 2020**
 
 Changes made to null-data and error states
