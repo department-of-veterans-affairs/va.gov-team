@@ -5,8 +5,6 @@
 
 ---
 
-`WIP`
-
 ## Goals
 We conducted usability testing to determine if the new forms and wizards are intuitive and functional for users needing to submit either form VA 28-1900 or 28-8832. This is a high-level summary of initial observations, but not the final analysis.
 
