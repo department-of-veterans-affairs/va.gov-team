@@ -18,7 +18,10 @@
 
 ### Action items
 
-1. 
+1. Jen will update #2677 about videos in MVP 1.1 
+2. Oksana will confirm if LC content team (Randi) has all fields needed to enter all test content. 
+3. Decision forthcoming from Mikki and Jen on breadcrumbs/URLs.
+4. Beth will look at casing of tags and provide final recommendation.
 
 
 ## Tuesday October 7
