@@ -1,21 +1,23 @@
-# Release Plan - WIP - 1.0 Learning Center Beta Launch
+# Summary of release plan Steps - 1.0 Learning Center Beta Launch
 
 __Summary of release plan steps:__
 Per product sync today - We will launch batches per steps: 
 
-**I. 1.0 October/Nov beta launch release: ~Oct 29 - Nov. 5 prod**
+**I. 1.0 October/Nov beta launch release: ~Oct 29 - Nov. 5 prod (Sprint 33/34)**
 
 1. [See MVP phases to launch](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/mvp-phases-to-launch)   
 
 2. QA and internally validate in [demo environment](http://learningcenter.demo.ci.cms.va.gov/): ~Oct 23 -28
 
-3. Fix any reported bugs in prod. 
+3. Fix any reported bugs in production environment. 
 
-4. Beta launch on prod: Oct 29 - Nov. 5 
+4. Beta launch on prod: Oct 29 - Nov. 5. 
 
-5. Implement search.gov index of lc pages.
+5. Implement search.gov index of LC pages in Prod.
 
-6. Test lc search. (There's no way to test product search in demo environment or in staging because search.gov needs to index learning center directory on live site.)
+6. Test LC search component. (There's no way to test product search in demo environment or in staging because search.gov needs to index learning center directory on live 'Prod' site.)
+
+7. Follow on with post-launch page updates/BUGs: Incorporate into MVP 1.1 as observed fixes/updates to MVP 1.0 environment. 
 
 
 **II. 1.1 December release: ~Dec 21 - 30** 
@@ -24,69 +26,58 @@ Per product sync today - We will launch batches per steps:
 
 5. Internally validate 1.1 prod articles in [demo environment](http://learningcenter.demo.ci.cms.va.gov/).
 
-6. Fix bugs if any.
+6. Fix identified bugs (if any) ensure any MVP 1.0 bugs/updates are implimented prior to next step.
 
 7. Publish on prod. 
 
-8. Validate on prod. 
+8. Validate on prod.   
 
 9. Redirect and retire legacy content. 
 
-
-
 ---
 
-## Phase I: Unmoderated Q/A demo testing
+## Phase I: Unmoderated internal production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning - 1.0 October/Nov beta launch release**:
 
-- **QA and internal demo validation date range:**
-  - Starting ~Oct 23 - 28
-- **QA and internal demo validation duration:**
+- **Date range:**
+  - Starting ~Oct 29 - Nov. 5 
+- **Test duration:**
   - 5 business days
-  
-- **Prod validation date range:**
-  - Starting Oct 29 - Nov. 5 
-- **Prod validation duration:**
-  - 3 business days
+- **Desired number of users:** 
+  - 25
 - **How you'll recruit the right production test users:** 
-  - PW team
+  - PW team, DEPO volunteers, and forms stakeholders
 - **How you'll conduct the testing:** 
-  - Provide people a list of URL links to test
-  - Collected UAT bug/comments in this SharePoint folder: <link to sharepoint doc here>
-
+  - Provide testers with a list of key word search options as related to available LC content. 
+  - Collected stakeholder UAT bug/comments in this SharePoint folder: https://dvagov.sharepoint.com/sites/VA-forms-managers-and-SMEs/Shared%20Documents/Forms/AllItems.aspx 
+- **How you'll give the test users access to the product in production w/o making it findable on VA.gov:** 
+  - This is a CMS content product. In order to test full functionality (such as form download behavior) we have to publish on va.gov. We will not be able to test form downloads in demo/staging/preview. 
+- **How will you make the product available in production while limiting the number of users who can find/access it:** 
+  - We will do a 'hidden' launch, with only those participating in the UAT will have access to 'prod' url in order to test in prod. environment and validate bets and assumptions. 
 
 - **What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:** 
-  - We will check error rate after we hit 25 users or 7 business days. We want < 5% error rate.
+  - We will invite VA stakeholders and business SMEs to visit LC detail page and test funcationality and style components. 
+  - We will check error rate after we hit 25 users or 5 business days. We want < 5% error rate.
   
   We will track errors for:
-
-  - invalid/broken links
-  - CTA buttons
-  - tags
-  - category landing pages
-
+  TBD
+  
 ### Results:
 
 - Number of users: 
 - Number of bugs identified / fixed: x/x
 - ~Was the data submitted (if any) easy for VA to process?~ There is nothing to submit.
-- Types of errors logged: lorem ipsum
+- Types of errors logged: x/x
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
-- Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
+- If yes, what: x/x
+- Links to dashboard(s) showing "success criteria" metrics: TBD
 
+## Go Live! - Open launch 
 
+- No redirect Implimentations: Not using basic/auth removal based on lack of availability. 
 
-_More stages? Sure! If it makes sense for your product! Plan them out with the same structure as above._
-
-
-## Go Live! - Open launch (~remove noindex [#12242]~ & implement redirects [#5549](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5549))
-
-- 1:1 redirects of top trafficked/high value forms (about 70)
-- Bulk redirect to the modernized search page
-
-
+- Take into consideration Accessibility/QA needs as well as Product, Technical, and Design requirements.
 
 ### Planning:
 
@@ -111,9 +102,9 @@ _More stages? Sure! If it makes sense for your product! Plan them out with the s
 ### 1-month results:
 
 - Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
+- Post-launch KPI 1 actual: Decrease in Contact Center calls coded for Account/Profile issues (MyVA311)
+- Post-launch KPI 2 actual: Majority of feedback responses are positive (3/5+ or primarily ‘good’)
+- Post-launch KPI 3 actual: Increase traffic to benefit hubs
 - Any issues with VA handling/processing?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
@@ -122,16 +113,8 @@ _More stages? Sure! If it makes sense for your product! Plan them out with the s
 ## Post-launch Questions 
 
 Post-launch iterations/metrics
-- We will track CTRs from the forms search to the corresponding form detail page 
-    - :arrow_right: *Note: CTR cannot be calculated until we've iterated the search results to provide a link to form detail pages* [#11453](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11453)
+- Validate success of [OKR's](https://docs.google.com/document/d/1aigEaAp43e59Y5_Ow10q04OfZUuhR-Jxd-9uEpdYezg/edit) through GA Dashboard and DOMO results. 
 
-
-_To be completed once you have gathered your initial set of data, as outlined above._ 
-
-1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
-2. What qualitative feedback have you gathered from users or other stakeholders, if any?
-3. Which of the assumptions you listed in your product outline were/were not validated? 
-4. How might your product evolve now or in the future based on these results?
 
 
 
