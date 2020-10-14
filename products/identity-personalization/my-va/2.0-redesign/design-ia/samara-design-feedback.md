@@ -1,5 +1,39 @@
 # Samara's design feedback
 
+## Feedback 10.14.20
+
+**Name tag**
+
+This is all same as yesterday.
+
+- Why do you have "VA appointment" under the "Appointments" heading? This feels redundant. What happened to the facility OR doctor name?
+- Also, maybe "Appointments" should be "Next Appointment" since there is only one appointment there.
+- Do we show data in XX/XX/XXXX format, or is always written out in words? This is something to check with content (and if we just have too much info to put in this block, we can revisit it altogether).
+
+**Health care header**
+
+Same as yesterday.
+
+- Can you right align "Learn more about your VA health benefits"?
+
+**Appointments**
+
+- I really like this treatment.
+- Same question about date — per the content style guide, I would check in with Peggy or someone about acceptable formats if you have not already. We need to make sure XX/XX/XXXX is acceptable and that it does not need to be written out in words.
+
+
+**Lab and test results**
+
+Same as yesterday.
+
+- This treatment still doesn't work. What else can you do? Create a heading-copy-button section for lab and test results? Add a link to View lab and test results in the health care header area? Something else? 
+
+**General**
+
+- I REALLY like the header row for the tables. It's so much cleaner. However, then it's weird to have the header row be gray and then one of the rows in the table be gray. It makes the header/the row feel related, and obviously they aren't. I would probably just not have the second row of the table be gray.
+- Please confirm with Erik and Sandra that we can actually show "Showing 1 -3 of X." Also, you need to be careful about that because it could be confusing. For example, is it 1 - 3 of 5 active prescriptions being refilled? Or is 5 all prescriptions? Is 1 - 3 of 5 all secure messages, or only new secure messages? Same with appointments — are those upcoming, does that include canceled/pending, etc. It might be easier to leave that out and to use more descriptive headings instead. "Upcoming appointments" and "Prescription refills" might be clearer for those two categories; "Secure messages" is probably clear as-is. 
+
+
 ## Feedback 10.13.20
 
 **Name tag**
