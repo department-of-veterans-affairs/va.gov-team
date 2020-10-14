@@ -1,5 +1,5 @@
 # High Level Product Decisions: 21-686c Application
-**VSA eBenefits Team | May 2020**  
+**VSA eBenefits Team | August 2019 - Present**  
 
 This is to help guide and memorialize decisions made about different functionalities and behaviors for the feature we are working with.  
 -------------
