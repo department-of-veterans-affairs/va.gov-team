@@ -33,6 +33,8 @@ Let’s start with a few warm-up questions.
    
  - Have you ever used the GI Bill Comparison Tool before? 
     - If yes, what did you use it for?
+    - How did you hear about it?
+    - Do you remember when you used it (while researching schools, after you had picked a school)?  
     
 ## First Topic: Researching and Picking Schools - 15 minutes
 
@@ -47,67 +49,44 @@ Let's talk about when you first decided to go to school.
 - If you've started school, is there anything you know now about the school that you wish you had known earlier?
   
 - Are there any specific programs that you as a military-connected student are interested in?
+  
 
-Are you familiar with any of the following programs:
+## Second Topic: Comparison Tool - 15 minutes
+
+*Facilitator brings up CT*
+I'm going to bring up the GI Bill Comparison Tool so we can walk through it together.  As we go through it, let me know what catches your eye or what information you think is valuable.
+
+Landing page:
+- What would you do on this first page?
+
+Search Results page:
+- What do you think of the search results?
+  - Do you see the school you're looking for?
+  - What do you think of the information you see?
+
+School profile:
+- What do you think of what you're seeing?
+   - What stands out to you?
+   - What do you think of the information you see?
+   - From what you see here, what information would be most helpful to you?
+   - What information is NOT important to you?
+   - Is there anything else you would like to see here? 
+
+ Are you familiar with any of the following programs:
   - Student Vet Groups
   - STEM Scholarship
   - Yellow Ribbon
-  
-  On a scale of 1 to 5, where 1 is not interested and 5 is very interested.  How interested would you be in learning if a school you're researching has the following programs?
-  - Student Vet Groups
-  - STEM Scholarship
-  - Yellow Ribbon
-  - Priority enrollment for student Veterans
-  - Principles of Excellence
-  - 8 Keys to Vet Success
-  
-
-## Second Topic: Education Benefits and Comparison Tool - 15 minutes
-
-### Prior Users ###
-You said you had used the Comparison Tool before. *Facilitator brings up CT and runs a quick demo*
-
-- Does this look familiar to you?
-  - If yes, continue with questions in this section
-  - If no, jump to "Not Familiar with Tool" questions
-  
-  
-- How did you originally hear about the Comparison Tool?
-- Do you remember when you used it (while researching schools, after you had picked a school)?  
-- What were you looking for?
-    - Did you find what you were looking for?
-    - Was there anything you were hoping to see here that you couldn't find?
-    - What did you think of the information you saw?
-    - Was there anything you struggled with?
-    
-- If you have questions about education benefits, how do you go about finding the answer?
-- Have you ever contacted the VA with questions about your education benefits?
-     If yes:
-      - Do you remember what you were asking about?
-
-### Not Familiar with Tool ###
-
-- When you were looking at schools, what drove your decision-making about what would be a good school?
-- How did you determine if your education benefits would cover housing and tuition?
-- Was there any Veteran-specific information you wanted to know about the schools you were looking at?
-
-*Facilitator briefly shows Comparison Tool*
-- What do you think of the tool?
-
-- If you have questions about education benefits, how do you go about finding the answer?
-- Have you ever contacted the VA with questions about your education benefits?
-     If yes:
-      - Do you remember what you were asking about?
-
-   
+  - Would you be interested in learning more about these programs? 
 
 ## Final Topic: Making It Easier - 5 minutes
 
-We've talked about researching and picking a school, VA education resources (including the Comparison Tool) and applying for your education benefits.
+We've talked about researching and picking a school and also the Comparison Tool.
 
-- If you could change the process to make it simple and easy, talk me through what the ideal process would look like.
-   - What would you change?
-   - What would you keep the same?
+- If you could make the process of selecting a school simple and easy, talk me through what the ideal process would look like.
+   - What type of information about a school would be critical to know?
+   - What people or websites would you talk to to help make a decision?
+   - Are there any parts of the Comparison Tool that you would change?
+   - Are there any parts of the Comparison Tool you would keep the same?
 
 ## Post-Task Interview - X minutes
 
