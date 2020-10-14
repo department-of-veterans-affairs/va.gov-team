@@ -5,8 +5,8 @@
 | -------------       | -------------                     | -------------             | -------------          | -------------                                    |
 | Product             | Disability (526),   HLR (20-0996) | Education (1990, etc.)          | Rogers STEM (22-10203) | Personalized Care & Planning Guidance (Ch 36/31) |
 | Product Leads       | Matt Self, Luke Wajewski          | Matt Self, Leah Keeler    | Amy Knox               | Jason Wolf                                       |
-| Product Outline     | Done                              | Done                      | Done                   | Done                                             |
-| IA/Research/Design  | Done                              | Done                      | Done                   | Done                                             |
+| Wizard Design Spec  | Done                              | Done                      | Done                   | Done                                             |
+| Platform Review  | Done                              | Done                      | Done                   | Done                                             |
 | Development         | Disability on Staging; HLR in progress | Done-Staging         | Done                   | In Progress                                      |
 | Platform Review     | Ready                             | In Progress               | Done                   | Not Started                                      |
 | Refinement          | Not Started                       | Not Started               | Done                   | Not Started                                      |
