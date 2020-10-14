@@ -7,8 +7,8 @@
 | Product Leads       | Matt Self, Luke Wajewski          | Matt Self, Leah Keeler    | Amy Knox               | Jason Wolf           
 | Wizard UX Guide (via Prototype)| Done                   | TBD                       | N/A                    | TBD
 | Wizard User Test(via Prototype)| TBD                    | TBD                       | N/A                    | TBD 
-| Wizard Development    | In Progress                        | In Progress               | N/A                    | In Progress 
-| Wizard Staging Review | In Progress                        | In Progress               | N/A                    | In Progress 
+| Wizard Development    | In Progress                     | In Progress               | N/A                    | TBD
+| Wizard Staging Review | TBD                             | TBD                       | N/A                    | TBD
 
 ## Reference Links
 
