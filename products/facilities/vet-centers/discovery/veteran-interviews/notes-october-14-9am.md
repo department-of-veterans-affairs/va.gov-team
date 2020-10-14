@@ -1,4 +1,9 @@
-# Vet Center User Research - Oct 14 9am
+# Vet Center Veteran Interview 
+
+**Interview date:** October 14, 2020 <br></br>
+**Time:** 9:00am
+
+VC = Vet Center
 
 *Service history:* 
 Initially planned to join out of high school. Talked out of it by a recruiter. Bachelors of Chemistry in college. Worked after college for a bit.
