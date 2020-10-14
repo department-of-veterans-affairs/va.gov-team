@@ -11,7 +11,7 @@ If the application we are building allows the user to do more than one main thin
 7. [Unit test Redux code](/teams/vsa/teams/ebenefits/template/simple_app_iteration/templates/7.unit-test-redux.md)
 8. [Swap dummy API call in Redux for correct URL and adjust data structure as needed](/teams/vsa/teams/ebenefits/template/simple_app_iteration/templates/8.swap-api-call.md)
 9. Work with back end team on outgoing payload structure
-10. [Meet with Analytics team and get Google Analytics event names](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/engineering/product-templates/view-task/ticket-templates/9-meet-with-google-analytics.md)
-11. [Add Google events to components](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/engineering/product-templates/view-task/ticket-templates/10-add-google-analytics-event-names,md)
+10. [Meet with Analytics team and get Google Analytics event names](/teams/vsa/teams/ebenefits/template/simple_app_iteration/templates/10.meet-with-analytics-team.md)
+11. [Add Google events to components](/teams/vsa/teams/ebenefits/template/simple_app_iteration/templates/11.add-GA-events.md)
 12. [Internal accessibility audit]()
 13. [508 testing]()
