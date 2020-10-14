@@ -70,7 +70,7 @@ She has done this many times. Lives between Rochester and Buffalo VCs. Tells peo
 
 She has told VC staff about the people she sent to the VC. 
 
-“I fee safe there, and that’s a big thing bc I don’t feel safe many places.” 
+“I feel safe there, and that’s a big thing bc I don’t feel safe many places.” 
 
 She has given people she refers the 1-800 number. 
 
@@ -82,7 +82,7 @@ She has given people she refers the 1-800 number.
 
 “One of the biggest barriers is the stigma associated with mental illness.” She mentioned that it’s seen as weakness. 
 
-“The VC is separate from the VA, but its’ not…. There is something comforting about it being part of the VA.” No insurance problems, all that extra red tape. 
+“The VC is separate from the VA, but it's not…. There is something comforting about it being part of the VA.” No insurance problems, all that extra red tape. 
 
 “The VC feels like the safe middle ground. It feels like you’re getting private care yet it’s backed by the VA.” 
 
