@@ -41,9 +41,9 @@
 --- | --- | --- | ---
 Landing page   | www.va.gov/resources/   |  Home  > Resources and support   |  |
 Category landing page   | www.va.gov/resources/[category-name]/   |  Home  > Resources and support > [category-name] | Category name should be pulled directly from Drupal and used for both the URL and breadcrumb.  
-Article   | www.va.gov/resources/[category-name]/[article-title]/   |  Home  > Resources and support > [category-name] > [Article title]   | Article title should be pulled directly from Drupal. <br> The current page component of the breadcrumb should pull from the H1.   |
-Tag landing page   | www.va.gov/resources/tag/[tag-name]/   |  Home  > Resources and support > [h1]   | The url will include a "tag" sub-directory that does not contain any content.  This will provide context to search engines and users that it is a listing page for a specific tag. The tag label should be pulled directly from Drupal. <br> The current page component of the breadcrumb should pull from the H1. The breadcrumb will not include any additional levels so as to not expose an empty directory. <br> If preferred, this url could be redirected to the R&S landing page to avoid any URL hacking resulting in a 404 or used for a future designed landing page for navigating by any/all tags.    |
-Search results   | www.va.gov/resources/search/[query-parms]/   |  Home  > Resources and support > [h1]  | Repeat user's search entry within the sub-text on page "Showing 1-x of xx results for "[user entered search]" |
+Article page   | www.va.gov/resources/[category-name]/[article-title]/   |  Home  > Resources and support > [category-name] > [Article title]   | Article title should be pulled directly from Drupal and used for both the URL and breadcrumb.   |
+Tag landing page   | www.va.gov/resources/tag/[tag-name]/   |  Home  > Resources and support > [h1]   | The url will include a "tag" sub-directory that does not contain any content.  This will provide context to search engines and users that it is a listing page for a specific tag. <br> The actual tag label should be pulled directly from Drupal and be used for the final segment of the url. <br> The breadcrumb will not include the generic "tag" level because it is not part of the content hierarchy and to avoid exposing an empty directory.  |
+Search results   | www.va.gov/resources/search/[query-parms]/   |  Home  > Resources and support > [h1]  | The H1 should include what the user entered for their search.  <Br> Also repeat user's search entry within the sub-text on page "Showing 1-x of xx results for "[user entered search]" |
 
 **Examples**
 
@@ -75,7 +75,7 @@ Search results page
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
 Public websites team will be defining the following:
-- Deep links into specific articles from across VA.gov
+- Placement of deep links into specific articles from across VA.gov
 - CTAs on each article that flow out of the R&S experience
 - Navigation design within the R&S experience
 
@@ -92,7 +92,7 @@ Consider | va.gov/search   |  Provide link in right column to go to "Resources a
 ## <a name="redirects"></a>Redirects <br>
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
--  none at this time
+-  Option: Redirect the www.va.gov/resources/tag/ url could be redirected to the R&S landing page to avoid any URL hacking resulting in a 404.  This url could also be used for a future designed landing page for navigating by any/all tags.
 
 Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
 *For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
