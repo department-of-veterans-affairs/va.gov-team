@@ -76,7 +76,7 @@ Public websites team will be defining the following:
 Must | Footer | 
 --- | Ask a question page | 
 --- | Contact us page | 
-Consider | va.gov/search   |  Provide link in left column to go to "Resources and support"  |
+Consider | va.gov/search   |  Provide link in right column to go to "Resources and support"  |
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
