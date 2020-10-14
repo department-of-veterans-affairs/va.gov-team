@@ -2,28 +2,42 @@
 ---
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+Veterans will have the information they need to understand search results within the context of the search area and have a method to adjust the 
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
- 
+Following a change expected to be implemented as part of PPMS 10.0 in early November...
+- when a Veteran uses the Facility Locator to search for a Community care facility, the list of search results will be limited to facilities within 250 miles. 
+
+This is an issue because, _with current functionality_...
+- there is no method to notify the Veteran about this search limitation.
+- there is no accessible wayfor a user to trigger a new search after interacting with the map or changing location search parameters
+- the map will continue to zoom out, autosearching for a result which could be an unreasonable distance from the Veteran
+
+How might we....
+make changes which support Veterans following this change, resolve other existing usability issues, and make  the search expereince better overall 
+
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+_With this problem solved, what should users be able to do/achieve that they couldn't before?_
+
+- Veterans will understand the search results in the context of the search area
+- Veterans will have an accessible way to adjust centerpoint of the map and/or zoom level
+- Veterans can trigger a search after adjusting search area
 
 ## Undesired User Outcomes
 
+- Search results are confusing and/or misleading to Veterans. 
+- The autosearch experience and perceived poor quality of search results create a negative impression about the Facility Locator for Veterans. 
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Improved relationship with stakeholders from the Office of Community Care
 
 ## Undesired Business Outcomes
-
+ 
+ - Decreasing Veteran satisfaction scores
+ - Stakeholder complaints
 
 ---
 ## Measuring Success
@@ -55,6 +69,24 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *Why this solution / approach over other solutions / approaches?*
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+
+1. Update Mapbox to JS GL, then layer on the following enhancements [#14786](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14786)
+   - A recent [Discovery effort](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8535) validated our assumption that a move to the JS GL version would provide enough value in the form of increased functionality, support and access to accessibility plug-ins to offset the level of effort. By upgrading the version first, we can maintain only the desired functionality to minimize throw-away code and allow us to test future enhancements in the context of the upgraded version. This upgrade will also enable access to an accessibility plug-in, which should help to resolve 508 defects.   
+
+2. Decrease initial zoom radius from 80 miles to 40 miles [#14792](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14792). 
+   - Future: Default zoom level based on facility type and/or location density. 
+   
+3. Implement accessible way for Veteran to adjust the centerpoint of map and zoom level 
+
+4. Implement method for Veteran to trigger search after making adjustments. 
+
+ 
+
+
+Create search UX wireframes [#14818]
+Finalize search UX design [#14867]
+Add filter to allow Veteran to specify radius [#14789]
+Add some sort of visual indicator of search area [#14795]
 
 --- 
 
