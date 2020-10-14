@@ -2,6 +2,40 @@
 
 _There are two participants in this call. They are labled as 'P' and 'P2'_
 
+## Topline Summary
+
+- Veterans come in for help filling out the form and they don’t have any references for parts of the form they need to complete, but VSOs don’t want to leave any form input fields empty for fear it’ll negatively impact the final decision
+
+- “I think they’re bewildered. If it’s a large debt they’re freaked out when we see them, especially the older ones. They’re panic-stricken.”
+
+- Veterans usually come for assistance after their benefits are already being seized
+
+- One of the VSOs mentioned that they spend time making sure the Veteran’s debt is legitimate and get it fixed if it’s not an appropriate debt
+
+- Sometimes VSOs have to write in “waiver” for box 3 because that field will be blank
+
+- Most Veterans they help are on pension or social security, retired from the military, so they’re unemployed 
+
+- They think it should be sufficient to just put down take-home pay in section 2
+
+- Even if a Veteran’s benefits were being offset for the debt, both VSOs stated that they’d tell the Veteran to put the gross amount they’d receive
+
+- Veterans usually know their spouse’s net income, but not the breakdown of payroll deductions
+
+- These VSOs work in the same building as DMC, so they’ll oftentimes go to the DMC’s office to haggle for payment plans or compensation offers
+
+- Sometimes Veterans can’t afford to pay anything, so the amount in 24b will be blank or have a negative number even though DMC will require some sort of payment amount
+
+- VSOs have to look up car values in blue book 
+
+- Some Veterans have other debts (included in section 6) that they can’t afford to pay and they no longer know how much the debt is for
+
+- The VSOs have Veterans complete VA form 21-4138 when providing additional information about their waiver/payment plan request rather than filling out box 36 
+
+- If the Veteran needs to get a spouse’s signature, one of the VSOs stated that they have the Veteran bring the form back rather than mail it to DMC because it’s time sensitive and the VSOs can go upstairs directly to DMC
+
+## Transcript
+
 ## General Questions
 
 **M: Can you tell me more about your experiences dealing with the FSR?**
