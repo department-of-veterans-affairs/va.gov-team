@@ -8,7 +8,7 @@ This is to help guide and memorialize decisions made about different functionali
 `October 14, 2020`  
 **Pick up existing users and provide easier removal of them through the application**  
   
-_Note/ Guiding principle_
+_Note/ Guiding principles_
 - There is more than one gateway into the application; View Dependents AND in the application itself
 - We could inject the list of available dependents within the workflow adn allow them to be selected and move on through the form and have the dependents represented exactly as in the system.  
 - Some logic might need to be involved to check and see who is on award, or who is applicable for that based on aging out etc
