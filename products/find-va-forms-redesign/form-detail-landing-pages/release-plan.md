@@ -23,11 +23,11 @@ Per product sync today - We will launch batches per steps:
 7. Remove basic auth. and Add to sitemap - **October 7, 2020**
 
 
-**III. After basic auth removed** :arrows_counterclockwise:
+**III. After basic auth removed** :white_check_mark: 
 
 8. Implement Batch 1 form pages redirects - 1:1 redirects
 
-9. Implement Batch 2  form pages redirects - bulk redirects to search
+9. Implement Batch 2  form pages redirects - bulk redirects to search - **October 14, 2020**
 
 **IV. Search page updates**
 
