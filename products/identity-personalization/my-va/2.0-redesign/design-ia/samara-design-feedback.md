@@ -19,10 +19,12 @@
 
 - Can we rename this section "Prescription refills"?
 - "Active" is inside lingo on our end, so we should remove that word from "active prescriptions".
+- Can we change the CTA to "View all prescriptions"?
 
 **Secure messages**
 
 - Did y'all confirm we can actually detect which messages are new? Sorry if you already have, but I don't remember getting clarification on that. We should confirm (if you haven't already) before showing the word "new" there. Also, if you can detect and show what is "new", please use a lowercase "n" in the word.
+- Can we change the CTA to "View all messages"?
 
 **General**
 
