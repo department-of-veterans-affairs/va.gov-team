@@ -49,10 +49,11 @@ A few more things I want to mention:
 1.	On the application introduction screen, confirm that variation of the following alert appears at the top of the application and includes remaining entitlement:
 "You may not be eligible....Months you have left to use: XX months, XX days" (seen here: https://bahdigital.invisionapp.com/share/JHIAE4UVKA4#/screens/296040759)
 2. The applicant should scroll to the bottom of the screen and click the button to begin their application.
-3.	The applicant will continue through the application and pre-fill information will be included as available on the "Applicant Information" screen. See "things to watch for" for the list of screens where we want to review entitlement information [TBD].
+3.	The applicant will continue through the application and pre-fill information will be included as available on the "Applicant Information" screen. 
+4. On the "Program Details: Rogers STEM Scholarship eligibility summary" (Chapter 3) ensure that remaining entitlement is displayed in the "Your remaining education benefits" alert.
 
 #### Things to watch for:
-1. Pages to review "entitlement" information: TBD
+1. Pages to review "entitlement" information: Introduction screen, Chapter 3
 2. On the direct deposit screen, applicants who do not want to impact any current payments they are receiving can select "I don't want to use direct deposit"
 
 ### Third Task: Review & Submit Application
