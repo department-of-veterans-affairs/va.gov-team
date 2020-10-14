@@ -48,7 +48,7 @@ Search results   | www.va.gov/resources/search/[query-parms]/   |  Home  > Resou
 **Examples**
 
 Category landing page
-- Category: Other topics
+- Category: Account and profile
 - URL: www.va.gov/resources/account-and-profile/
 - BC: Home > Resources and support > Account and profile
 
@@ -60,10 +60,10 @@ Article page
 Tag landing page
 - Tag: Claims and appeals status
 - Example H1: All articles tagged: Claims and appeals status
-- URL: www.va.gov/resources/claims-and-appeals-status/ 
+- URL: www.va.gov/resources/tag/claims-and-appeals-status/ 
 - BC: Home > Resources and support > All articles tagged: Claims and appeals status
 
-Tag landing page
+Search results page
 - Example search: claim status
 - Example H1: Search results for: "claim status"
 - URL: www.va.gov/resources/search/?query=claim+status
@@ -92,7 +92,7 @@ Consider | va.gov/search   |  Provide link in right column to go to "Resources a
 ## <a name="redirects"></a>Redirects <br>
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
--  not applicable
+-  none at this time
 
 Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
 *For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
