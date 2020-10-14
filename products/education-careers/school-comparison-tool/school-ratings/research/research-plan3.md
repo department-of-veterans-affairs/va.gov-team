@@ -36,7 +36,7 @@ Researchers need to be able to see how users react and interact with school rati
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	  
 	
-- 10 participants total
+- 8 participants total
    - Actively looking for a school to attend for themselves where they'll use their VA education benefits or
    - In the last 6 months, looked for a school to attend for themselves where they'd use their VA education benefits
 - GI Bill beneficiaries
@@ -44,8 +44,8 @@ Researchers need to be able to see how users react and interact with school rati
 - Gender: Mix
 - Geography: Geographically dispersed across US
 - VA Benefit requirement:
-    - 6 participants personally using or planning to use Chapter 33 Post-9/11 benefits in the next 3 months
-    - 4 participants personally using or planning to use education benefits other than Chapter 33 Post-9/11 in the next 3 months
+    - 5 participants personally using or planning to use Chapter 33 Post-9/11 benefits in the next 3 months
+    - 3 participants personally using or planning to use education benefits other than Chapter 33 Post-9/11 in the next 3 months
 - Technology: Access to a computer, preferably running Google Chrome browser
 - Familiarity with technology: Any
 - Login requirements: None
@@ -55,15 +55,15 @@ Researchers need to be able to see how users react and interact with school rati
 
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	  
-*   Oct 28 - 30, 2020
+*   Nov 3 - 6, 2020
 2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 
-* By COB: Monday, Oct 26, 2020
+* By COB: Friday Oct 30, 2020
 3. Length of Sessions: How long do you estimate each session will be? 
   - 45 minutes
 4.	Availability: If applicable, when would you like sessions scheduled? 
  
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
-*  Oct 27
+*  Monday, Nov 2nd
 
 ## Team Roles	
 Please list the people who will be serving in each role.  	
@@ -71,7 +71,6 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development (usually but not always same as moderator):	Booz Allen UX team
 - Participant recruiting & screening:	Perigean Technologies
 - Project point of contact:	Amy Knox
-- Prototype designer: Cindy Cruz
 - Participant(s) for pilot test:	
 - Note-takers:	Cindy Cruz cruz_cindy@bah.com; Jen Jones jones_jennifer2@bah.com; Emma Waters waters_emma@bah.com;
 - Observers:	Brian Grubb brian.grubb@va.gov; Desiree Turner turner_desiree@bah.com; Joe Preisser joseph.preisser@va.gov; Joe Welton joseph.welton@va.gov; Will McCormack mccormack_will@bah.com; Lauren Anderson lauren.alexanderson@va.gov; Lacey Higley lacey.higley@va.gov; Matt Self matthew.self2@va.gov; Dan Shawkey shawkey_daniel@bah.com; Darla VanNieukerk darla.vannieukerk@va.gov; Tammy Hurley tammy.hurley1@va.gov; Darrell Neel neel_darrell@bah.com;Luke Tickner Lucas.Tickner@va.gov	
