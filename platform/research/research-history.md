@@ -147,6 +147,11 @@ This does not include research for Appeals projects, which is stored in differen
 - 10 participants 
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool/research/usability-march20)
 
+#### April 6-10: Combining profile and account (Profile 2.0)
+*Authenticated Experience, Tressa Furner*
+- 5 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research)
+
 #### April 2-20: COVID-19 Information & Chatbot
 *ThoughtWorks, Todd Stanich*
 - 13 participants (two rounds)
