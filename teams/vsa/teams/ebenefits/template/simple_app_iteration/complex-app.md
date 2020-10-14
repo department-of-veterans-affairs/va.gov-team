@@ -3,7 +3,7 @@ If the application we are building allows the user to do more than one main thin
 
 ## Table of Contents
 1. [Scaffold component structure for 1 new task](/teams/vsa/teams/ebenefits/template/simple_app_iteration/templates/scaffold-component-structure.md) (a task is a thing to be accomplished by a user, it can be more than one disparate step)
-2. Add basic logic to a main component (repeat for as many main components as needed)
+2. [Add basic logic to a main component](/teams/vsa/teams/ebenefits/template/simple_app_iteration/templates/Add-basic-logic.md) (repeat for as many main components as needed)
 3. Add more complex logic to a main component (repeat for as many main components as needed)
 4. Initial Redux code for API calls
 5. Refine components to better match mockup (repeat for as many main components as needed)
