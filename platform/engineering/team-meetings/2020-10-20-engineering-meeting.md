@@ -4,6 +4,9 @@ tags: 2020, October, VFS, VSP
 
 # VSP & VFS Engineering Meeting
 
+[![hackmd-github-sync-badge](https://hackmd.io/5_ITf74TRK6c-zAMnEs1WQ/badge)](https://hackmd.io/5_ITf74TRK6c-zAMnEs1WQ)
+
+
 _2020 October 20, 2:30-3:20p ET_
 
 - https://zoom.us/j/93387192601
