@@ -65,7 +65,7 @@ Not a big fan of groups. Good thing that her therapist forced her to go to this 
 
 “It’s kind of like Cheers where everyone knows your name.”
 
-**What woud you tell a friend about VCs?** 
+**What would you tell a friend about VCs?** 
 She has done this many times. Lives between Rochester and Buffalo VCs. Tells people, “I would go. It’s not threatening.” Usually tells them about her experiences. She has gone with people for their first appt. 
 
 She has told VC staff about the people she sent to the VC. 
