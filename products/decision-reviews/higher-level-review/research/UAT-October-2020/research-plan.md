@@ -82,7 +82,7 @@ We are looking to start sessions \*\*Friday, October 22, 2020. We will test with
 
 1. Prepare: When will the thing you are testing be ready?
 
-HLR should be live on production October 9, 2020.
+HLR should be live on production October 22, 2020.
 
 1. Length of Sessions: How long do you estimate each session will be?
 
@@ -90,7 +90,7 @@ We expect sessions to be 60 minutes. Please schedule sessions for 60 minutes wit
 
 1. Availability: If applicable, when would you like sessions scheduled?
 
-Between 7 am and 2 pm EST.
+Between 9 am and 2 pm EST.
 
 1. \*\*Pilot: There will be no pilot session \*\*
 
