@@ -13,5 +13,4 @@ If the application we are building allows the user to do more than one main thin
 9. Work with back end team on outgoing payload structure
 10. [Meet with Analytics team and get Google Analytics event names](/teams/vsa/teams/ebenefits/template/simple_app_iteration/templates/10.meet-with-analytics-team.md)
 11. [Add Google events to components](/teams/vsa/teams/ebenefits/template/simple_app_iteration/templates/11.add-GA-events.md)
-12. [Internal accessibility audit]()
-13. [508 testing]()
+12. [Internal accessibility audit](/teams/vsa/teams/ebenefits/template/simple_app_iteration/templates/12.internal-accessibility-audit.md)
