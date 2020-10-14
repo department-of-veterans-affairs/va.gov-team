@@ -35,27 +35,38 @@ Researchers need to be able to see how users react and interact with school rati
  
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	  
-(Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
-
+	
+- 10 participants total
+   - Actively looking for a school to attend for themselves where they'll use their VA education benefits or
+   - In the last 6 months, looked for a school to attend for themselves where they'd use their VA education benefits
+- GI Bill beneficiaries
+- Age range: 18-45
+- Gender: Mix
+- Geography: Geographically dispersed across US
+- VA Benefit requirement:
+    - 6 participants personally using or planning to use Chapter 33 Post-9/11 benefits in the next 3 months
+    - 4 participants personally using or planning to use education benefits other than Chapter 33 Post-9/11 in the next 3 months
+- Technology: Access to a computer, preferably running Google Chrome browser
+- Familiarity with technology: Any
+- Login requirements: None
 
 2.	What is your recruitment strategy? 	
 - Recruitment will be performed by Perigean Technologies	
 
 ## When? 	
-1.	Timeline: What dates do you plan to do research? 	
-(IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.)  
-*      
+1.	Timeline: What dates do you plan to do research? 	  
+*   Oct 28 - 30, 2020
 2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 
-* By COB: 
+* By COB: Monday, Oct 26, 2020
 3. Length of Sessions: How long do you estimate each session will be? 
-  - 
+  - 45 minutes
 4.	Availability: If applicable, when would you like sessions scheduled? 
  
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
-* 
+*  Oct 27
 
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
+Please list the people who will be serving in each role.  	
 - Moderator:	Amy Knox; 301.254.0907; knox_amy@bah.com
 - Research guide writing and task development (usually but not always same as moderator):	Booz Allen UX team
 - Participant recruiting & screening:	Perigean Technologies
