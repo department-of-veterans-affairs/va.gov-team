@@ -11,7 +11,6 @@
 
 **On this page:**
 - [IA structure, URLs and breadcrumbs](#ia)
-- [User flows](#flows)
 - [Navigation and entry points](#nav)
 - [Redirects](#redirects)
 - [Meeting notes](#notes)
@@ -63,25 +62,21 @@ Article page
 
 
 
-## <a name="flows"></a>User/Page Flows <br>
-*Description of how users will flow through the experience*
+## <a name="nav"></a>Navigation and Entry Points <br>
+*The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
 Public websites team will be defining the following:
 - Deep links into specific articles from across VA.gov
 - CTAs on each article that flow out of the R&S experience
-- Users will flow into the resources and support content (R&S) through
 - Navigation design within the R&S experience
 
-## <a name="nav"></a>Navigation and Entry Points <br>
-*The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
-
-Priority | Placement | Description
+**Priority** | **Placement** | **Description**
 --- | --- | ---
+--- | Header |  
 Must | Footer | 
-Must | Ask a question page | 
- | Contact us page |
-Should  | va.gov/search   |  Provide link in left column to go to "Resources and support"  |
-Must  | Contextual links across site | When possibe and appropriate, include links directly to articles from other content pages within the site
+--- | Ask a question page | 
+--- | Contact us page | 
+Consider | va.gov/search   |  Provide link in left column to go to "Resources and support"  |
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
