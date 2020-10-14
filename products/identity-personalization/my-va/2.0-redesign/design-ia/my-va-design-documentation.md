@@ -1,4 +1,4 @@
-# LIH Design Documentation
+# My VA Design Documentation
 [Logged-in homepage V1 plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/product/v1-plan.md)
 
 ### Designers
