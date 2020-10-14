@@ -111,6 +111,7 @@ The page <strong>&#42;&#42;MUST&#42;&#42;</strong> have a meaningful title (e.g.
    <li>The page <strong>**MUST**</strong> have meaningful headings to label each major section, which *SHOULD* start with &lt;h1&gt; (at the beginning of the main content, or at the beginning of every section of aggregated content, or at the beginning of modal dialogs), and *SHOULD NOT* skip heading levels, to allow screen reader users to navigate the tree structure of the heading hierarchy.	<a href="https://www.wuhcag.com/headings-and-labels/">WCAG 2.4.6</a></li>
 </ol>
 
+The image below will be replaced with a corrected version, with the 'dt' followed by a 'dd'. 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/resources/images/dodont-headers.png" alt="annotation of a webpage showing proper use of semantic headings and styling" width="70%" />
 
 
