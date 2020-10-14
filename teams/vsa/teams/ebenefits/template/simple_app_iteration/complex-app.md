@@ -6,7 +6,7 @@ If the application we are building allows the user to do more than one main thin
 2. [Add basic logic to a main component](/teams/vsa/teams/ebenefits/template/simple_app_iteration/templates/Add-basic-logic.md) (repeat for as many main components as needed)
 3. [Add more complex logic to a main component](/teams/vsa/teams/ebenefits/template/simple_app_iteration/templates/3.add-complex-logic.md) (repeat for as many main components as needed)
 4. [Initial Redux code for API calls](/teams/vsa/teams/ebenefits/template/simple_app_iteration/templates/4.initial-redux-code.md)
-5. Refine components to better match mockup (repeat for as many main components as needed)
+5. [Refine components to better match mockup](/teams/vsa/teams/ebenefits/template/simple_app_iteration/templates/5.refine-components.md) (repeat for as many main components as needed)
 6. Unit test component logic (reoeat for as many main components as needed)
 7. Unit test Redux code
 8. Swap dummy API call in Redux for correct URL and adjust data structure as needed
