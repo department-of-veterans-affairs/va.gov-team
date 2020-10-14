@@ -30,7 +30,8 @@ Setting up all of the following tools while you onboard will make time on the DE
     * This process is managed by the VA GitHub admins, not by VSP, and may take a few days to process. 
 
 1. Once your ticket is processed, check your email for an invitation to the VA GitHub Organization, and join!
-
+    * Note: Make sure you are signed into the correct github account before you accept the invitation.
+    
 1. Once you've been added, add information to your Github profile:
     * Organization: ```Your company name```
     * Working on: ```The project your team is working on```, e.g., "526 ancillary forms"
