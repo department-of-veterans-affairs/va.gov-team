@@ -17,12 +17,13 @@ Thanks for joining us today! My name is Kristen and I also have some colleagues 
 
 **If desktop participant**
 
-- [Screen share and walk through this document](https://docs.google.com/presentation/d/1lo44N4rTBDaHfcsjX6bCV1a--YJSTPXSXnZbywB71J0/edit?usp=sharing)
 - **Since this is a prototype, not everything will be clickable or fully functioning.**
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve our tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **This entire session should take about an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - Talk them through Zoom screen sharing and chat features shown in document.
+- [Screen share and walk through this document if necessary](https://docs.google.com/presentation/d/1lo44N4rTBDaHfcsjX6bCV1a--YJSTPXSXnZbywB71J0/edit?usp=sharing)
+
 
 **If mobile participant**
 
@@ -125,8 +126,9 @@ _Tell the Veteran before asking questions on this page._ This is the first versi
 - Do you see value or no value in sharing this information with your primary care provider?
 - How would you expect your doctor or primary care provider to use this information?
 - Do you feel the in-person part of your appointment with the doctor/nurse will be different after providing this information ahead of time?
-- _If not explicitly mentioned,_ what do you think about ranking the questions that you enter?
-- Should your questionnaire answers automatically appear in your next upcoming appointment questionnaire, so you can review and edit? Do you think the information that you enter for these questions will be very different each time?
+- _If they didn't edit the "additional details" field,_ why didn't you edit the additional details question?
+- _If not explicitly mentioned,_ If you have a lot of questions for your visit, do you think ranking the questions would help get your most important questions answered first?
+- Should your questionnaire answers automatically appear in your next upcoming appointment questionnaire as a reminder of what you wanted to discuss/discussed with your provider, then you can make edits? Do you think the information that you enter for these questions will differ drastically each time, so it isn't worth transferring that information to the new questionnaire?
 
 ### On the Review page - 2 minutes (Optional)
 - What are your impressions of this page?
@@ -144,10 +146,10 @@ _Tell the Veteran before asking questions on this page._ This is the first versi
 
 ## Follow-up Questions - 5 minutes
 - Where on va.gov would you expect all of your healthcare questionnaires to live?
-    - Within a "Get healthcare benefits" section
     - Within a "Manage your healthcare benefits" section
     - Within a "More healthcare resources" section
     - Within a "VA healthcare appointments" section
+    - On the va.gov homepage
 - When would you fill out this questionnaire?
     - The day before my appointment
     - 2-3 days before my appointment
