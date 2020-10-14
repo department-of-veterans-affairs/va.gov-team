@@ -78,7 +78,7 @@ We will work with Perigean to recruit for this study.
 
 1. Timeline: What dates do you plan to do research?
 
-We are looking to start sessions \*\*Friday, October 22, 2020. We will test with users October 22 and 28 from 9am - 2pm EST (and any additional days as needed)  \*\*.
+We are looking to start sessions \*\*. October, dependent on BDD UAT.  \*\*.
 
 1. Prepare: When will the thing you are testing be ready?
 
