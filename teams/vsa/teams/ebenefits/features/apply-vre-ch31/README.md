@@ -7,9 +7,9 @@ _(previously Vocational Rehabilitaion and Employment)_
 - Staging EBN link: https://sqa.eauth.va.gov/ebenefits/vre
 - Staging EBN Apply: https://sqa.eauth.va.gov/wssweb/wss-common-webparts/mvc/ebn/verifyVRE1900Application 
 - Form: https://www.vba.va.gov/pubs/forms/VBA-28-1900-ARE.pdf
+- Staging VA.gov link (unauth landing page): https://staging.va.gov/careers-employment/vocational-rehabilitation/
+- Staging VA.gov link (tool page): https://staging.va.gov/careers-employment/vocational-rehabilitation/apply/
 - VA.gov link (unauth landing page): https://www.va.gov/careers-employment/vocational-rehabilitation/
-- VA.gov link (tool page): TBD
-- VA.gov link (unauth landing page): https://staging.va.gov/careers-employment/vocational-rehabilitation/
 - VA.gov link (tool page): https://staging.va.gov/careers-employment/vocational-rehabilitation/apply/
 
 ## WIP
