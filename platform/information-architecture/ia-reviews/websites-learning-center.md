@@ -53,7 +53,7 @@ Category landing page
 
 Tag landing page
 - Tag: Claims and appeals status
-- URL: www.va.gov/resources/claims-and-appeals-status/ <-- Mikki: have you already considered clarifying the url for tags so that it's always clear that it's page for tagged articles? For example for audience tags, it might be clearer when the url is: .gov/resources/all-veterans-tag/ or /women-veterans-tag/ ?  
+- URL: www.va.gov/resources/claims-and-appeals-status/ 
 - BC: Home > Resources and support > All articles tagged: claims and appeals status
 
 Article page
@@ -66,22 +66,11 @@ Article page
 ## <a name="flows"></a>User/Page Flows <br>
 *Description of how users will flow through the experience*
 
+Public websites team will be defining the following:
+- Deep links into specific articles from across VA.gov
+- CTAs on each article that flow out of the R&S experience
 - Users will flow into the resources and support content (R&S) through
-  - internal/external links leading directly to the Resources and support landing page
-  - internal/external links leading to a category or topic landing page
-  - internal/external links leading directly to individual articles
-- Once within R&S, users can move between R&S pages by searching within R&S, clicking on links to category or topic landing pages, clicking on breadcrumb components, or clicking directly into articles.
-- The search function within R&S will allow users to execute a search within just R&S content or across va.gov - results are displayed for both searches within the R&S experience. 
-- Each article will also contain a CTA provided by the content publisher that will lead the user out of the R&S area to a relevant page.
-- From within R&S, users may exit the experience by 
-  - clicking on a link within the va.gov search results
-  - clicking on a CTA on one of the article pages
-  - navigating to other pages from links within the article
-  - navigating to other pages from the header/footer
-
-- Users may go back and forth between the core experience and R&S content during their visit, creating some complex user flows.  Clear link labels and good CTAs on articles will be critical to ensuring users can move between the areas of the site without losing their way. 
-
-![image](https://user-images.githubusercontent.com/20994159/95799580-c09e9200-0cba-11eb-8f52-aa6b212e08be.png)
+- Navigation design within the R&S experience
 
 ## <a name="nav"></a>Navigation and Entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
@@ -90,6 +79,7 @@ Priority | Placement | Description
 --- | --- | ---
 Must | Footer | 
 Must | Ask a question page | 
+ | Contact us page |
 Should  | va.gov/search   |  Provide link in left column to go to "Resources and support"  |
 Must  | Contextual links across site | When possibe and appropriate, include links directly to articles from other content pages within the site
 
@@ -99,7 +89,7 @@ Must  | Contextual links across site | When possibe and appropriate, include lin
 ## <a name="redirects"></a>Redirects <br>
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
--  
+-  not applicable
 
 Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
 *For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
