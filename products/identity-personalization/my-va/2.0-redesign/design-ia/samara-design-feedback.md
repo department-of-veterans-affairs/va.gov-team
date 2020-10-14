@@ -1,6 +1,34 @@
 # Samara's design feedback
 
-## Feedback 10.14.20
+## Feedback 10.14.20 -- Afternoon feedback
+
+**Name tag**
+
+- I really like the name tag in blue! Would love to also see an iteration without the tab and with the bread crumbs either in the name tag or below the name tag above the side navigation. We should have this in our back pocket depending on who makes final calls about updates to the navigation.
+
+**Learn more about VA health benefits**
+
+- I liked when this was on the same line as enrollment date. Can you move it back to that line but right align it to the opposite margin instead of having it left aligned under enrollment date? Let me know if this doesn't work for whatever reason. I realize it will all be stacked on mobile anyway, but that link can easily move responsively.
+
+**Appointments**
+
+- Can we rename this "Upcoming appointments"? Also, if we do that, we can remove the word "upcoming" in "disaplaying X upcoming appointments."
+- Also, can we change the CTA to "View all appointments"? That will clue in the user that there is more than what is listed in the event that they have many appointments already scheduled.
+
+**Prescriptions**
+
+- Can we rename this section "Prescription refills"?
+- "Active" is inside lingo on our end, so we should remove that word from "active prescriptions".
+
+**Secure messages**
+
+- Did y'all confirm we can actually detect which messages are new? Sorry if you already have, but I don't remember getting clarification on that. We should confirm (if you haven't already) before showing the word "new" there. Also, if you can detect and show what is "new", please use a lowercase "n" in the word.
+
+**General**
+
+- For the table headings, can you remove the colon: after each header label?
+
+## Feedback 10.14.20 -- Morning feedback
 
 **Name tag**
 
