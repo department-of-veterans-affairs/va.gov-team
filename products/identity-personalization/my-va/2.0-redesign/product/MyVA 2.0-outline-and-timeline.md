@@ -41,7 +41,7 @@ Deliverables: Full design, layout and specs for LOA3 (state when a user has bene
    - [ ]  Schedule and view your appointments (shown conditionally if someone has health care in general)
 [#13921](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13921) S32
   
-   - [ ] View your lab and test results (link shown conditionally if someone has health care in general) [#13922](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13922) S32
+   - [ ] View your lab and test results (link shown conditionally if someone has health care in general) [#13922](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13922) S32 LINK
   
    - [ ] Apply now for VA health care (shown conditionally if someone does NOT have health care) [#13923](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13923)
   
