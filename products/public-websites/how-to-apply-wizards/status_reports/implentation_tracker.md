@@ -8,7 +8,9 @@
 | Wizard UX Guide (via Prototype)| Done                   | TBD                       | N/A                    | TBD
 | Wizard User Test(via Prototype)| TBD                    | TBD                       | N/A                    | TBD 
 | Wizard Development    | In Progress                     | In Progress               | N/A                    | TBD
-| Wizard Staging Review | TBD                             | TBD                       | N/A                    | TBD
+| Wizard Staging Review/Q-A | TBD                         | TBD                       | N/A                    | TBD
+| Wizard Launch Date    | TBD                             | TBD                       | N/A                    | TBD
+
 
 ## Reference Links
 
