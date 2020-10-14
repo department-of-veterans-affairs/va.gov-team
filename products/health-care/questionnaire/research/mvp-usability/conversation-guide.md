@@ -137,7 +137,7 @@ _Tell the Veteran before asking questions on this page._ This is the first versi
 - What are your impressions of this page?
 - Once you submit this questionnaire, who do you expect will have access to the answers that you entered?
         - Is it what you were expecting or not expecting?
-- Is there any other information we should include here?
+- Is there any other information we should include here? Anything about what to bring to your appointment or how to contact?
 - Where would you like to navigate to next after completing this form? (You can select more than one or none of the following options.)
     - A list of your upcoming appointments
     - A list of other questionnaires that you need to complete
