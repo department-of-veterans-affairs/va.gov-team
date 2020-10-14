@@ -23,6 +23,7 @@ _Note/ Guiding principles_
 
 
 **TL;DR - what does this mean?  what do we do next?**
+Tickets to write:
 - For removal functions, lets define everything beyond the simple remove button
 - [What is in the View Dependents call](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/dependents_applications/getDependents)
 
