@@ -4,8 +4,9 @@
 | TEAM                | BAM 1                             | BAM 2                     | Booz-Allen             |  eBenefits                                       |
 | -------------       | -------------                     | -------------             | -------------          | -------------                                    |
 | Product             | Disability (526),   HLR (20-0996) | Education (1990, etc.)          | Rogers STEM (22-10203) | Personalized Care & Planning Guidance (Ch 36/31) |
-| Product Leads       | Matt Self, Luke Wajewski          | Matt Self, Leah Keeler    | Amy Knox               | Jason Wolf                                       |
-| Wizard Design Spec  | Done                              | Done                      | Done                   | Done                                             |
+| Product Leads       | Matt Self, Luke Wajewski          | Matt Self, Leah Keeler    | Amy Knox               | Jason Wolf           
+
+| Wizard UX Spec      | Done                              | Done                      | Done                   | Done                                             |
 | Platform Review  | Done                              | Done                      | Done                   | Done                                             |
 | Development         | Disability on Staging; HLR in progress | Done-Staging         | Done                   | In Progress                                      |
 | Platform Review     | Ready                             | In Progress               | Done                   | Not Started                                      |
