@@ -127,7 +127,7 @@ _Tell the Veteran before asking questions on this page._ This is the first versi
 - How would you expect your doctor or primary care provider to use this information?
 - Do you feel the in-person part of your appointment with the doctor/nurse will be different after providing this information ahead of time?
 - _If they didn't edit the "additional details" field,_ why didn't you edit the additional details question?
-- _If not explicitly mentioned,_ If you have a lot of questions for your visit, do you think ranking the questions would help get your most important questions answered first?
+- _If not explicitly mentioned,_ if you have a lot of questions for your visit, do you think ranking the questions here would help get your most important questions answered first?
 - Should your questionnaire answers automatically appear in your next upcoming appointment questionnaire as a reminder of what you wanted to discuss/discussed with your provider, then you can make edits? Do you think the information that you enter for these questions will differ drastically each time, so it isn't worth transferring that information to the new questionnaire?
 
 ### On the Review page - 2 minutes (Optional)
@@ -150,6 +150,7 @@ _Tell the Veteran before asking questions on this page._ This is the first versi
     - Within a "More healthcare resources" section
     - Within a "VA healthcare appointments" section
     - On the va.gov homepage
+    - Other: 
 - When would you fill out this questionnaire?
     - The day before my appointment
     - 2-3 days before my appointment
