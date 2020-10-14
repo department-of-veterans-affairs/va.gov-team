@@ -3,6 +3,21 @@
 
 This is to help guide and memorialize decisions made about different functionalities and behaviors for the feature we are working with.  
 -------------
+
+## Deeper View Dependents Functionality  
+`October 14, 2020`  
+**Pick up existing users and provide easier removal of them through the application**  
+  
+_Note/ Guiding principle_
+- There is more than one gateway into the application; View Dependents AND in the application itself
+- We could inject the list of available dependents within the workflow adn allow them to be selected and move on through the form and have the dependents represented exactly as in the system.  
+- Some logic might need to be involved to check and see who is on award, or who is applicable for that based on aging out etc
+
+
+
+**TL;DR - what does this mean?  what do we do next?**
+
+------------
 ## Dynamic Form Attribute for 686/674 
 `Date decided`  
 **We send a specific attribute based on what is submitted and this poses an issue when the 674 workflow gets selected because we can't submit two at once.**  
@@ -21,6 +36,7 @@ _Note/ Guiding principle_
 
 **TL;DR - what does this mean?  what do we do next?**
 
+------------
 
 ## Silent Submission Failures  
 `Team Meeting July 16, 2020`  
