@@ -7,11 +7,11 @@
 | Product Leads       | Matt Self, Luke Wajewski          | Matt Self, Leah Keeler    | Amy Knox               | Jason Wolf                                       |
 | Product Outline     | Done                              | Done                      | Done                   | Done                                             |
 | IA/Research/Design  | Done                              | Done                      | Done                   | Done                                             |
-| Development         | Disability on Staging; HLR in progress | Done-Staging         | Done-Staging           | In Progress                                      |
-| Platform Review     | Ready                             | In Progress               | Ready                  | Not Started                                      |
-| Refinement          | Not Started                       | Not Started               | Not Started            | Not Started                                      |
-| Q-A                 | Not Started                       | Not Started               | Not Started            | Not Started                                      |
-| Deploy (Target)     | Mid-Sept?                         | Late Sept?                | Targeting 9/10         | TBD                                              |
+| Development         | Disability on Staging; HLR in progress | Done-Staging         | Done                   | In Progress                                      |
+| Platform Review     | Ready                             | In Progress               | Done                   | Not Started                                      |
+| Refinement          | Not Started                       | Not Started               | Done                   | Not Started                                      |
+| Q-A                 | Not Started                       | Not Started               | Done                   | Not Started                                      |
+| Deploy (Target)     | Mid-Sept?                         | Late Sept?                | LIVE                   | TBD                                              |
 | BLOCKERS            |                                   |                           |                        |                                                  |
 
 
