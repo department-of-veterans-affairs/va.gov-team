@@ -14,8 +14,8 @@
 
 | Session Notes   | Session Day & Time | Session Status | Appointment Type         | Device        |Role                                                  | Gender | Ethnicity                                               | Age      | Education                | Branch             | Location | 
 | ------------------------------------------------------------ | ------------ | ------------ | ------------ | ----------------------------------------------------- | ------ | ------------------------------------------------------- | -------- | ------------------------ | ------------------ | -------- | ------------------------ |
-| [P01]() | Oct. 15, 9 - 10 a.m. | | Virtual during COVID | Computer | Veteran | Male | Hispanic, Latino, or Spanish Origin | 55 - 64  | Master's degree | Army | FL |
-| [P02]() | Oct. 15 10:30 - 11:30 a.m. | | Virtual during COVID | Android | Veteran | Male | White or Caucasian | 55 - 64 | Master's degree | Army | SC |
+| [P01]() | Oct. 15, 9 - 10 a.m. | Attended | Virtual during COVID | Computer | Veteran | Male | Hispanic, Latino, or Spanish Origin | 55 - 64  | Master's degree | Army | FL |
+| [P02]() | Oct. 15 10:30 - 11:30 a.m. | Attended | Virtual during COVID | Android | Veteran | Male | White or Caucasian | 55 - 64 | Master's degree | Army | SC |
 | [P03]() | Oct. 15 Noon - 1 p.m. | | In-person during COVID | Android | Veteran, Veteran's family member | Female | White or Caucasian | 55 - 64 | Bachelor's degree | Army | IL |
 | [P04]() | Oct. 15 1:30 - 2:30 p.m. | | Virtual during COVID | Computer | Veteran | Male | White or Caucasian | 35 - 44 | Some college (no degree) | Marine Corps | NC |
 | [P05]() | Oct. 15 3 - 4 p.m. | | In-person during COVID | iPhone | Veteran | Female | Black or African American | 45 - 54 | Master's degree | Army | KY |
