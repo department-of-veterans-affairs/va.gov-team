@@ -38,12 +38,12 @@ As a new VA.gov team member, I need to complete onboarding activities so I can s
 - [ ] Designers: Attend breakout session
 - [ ] Front-end Engineers: Attend deep-dive session
 - [ ] Back-end Engineers: Attend deep-dive session
-- [ ] PM, Designers and Content Writer(s): Request content and IA intro with @Liani Lye in slack
-- [ ] PM and Front-End Engineers: Request analytics intro with @Joanne Esteban in slack
-- [ ] Full team: Request KPI workshop with analytics team with @Joanne Esteban in slack
-- [ ] PM, Designers, FE devs: Request 508 intro with @Trevor Pierce in slack
-- [ ] PM and Engineers: Request QA intro with @Peter Hill in slack
-- [ ] PM and Engineering Lead: Request ATO intro with @Faith Owusu-Sekyere in slack
+- [ ] PM, Designers and Content Writer(s): Request content and IA intro with @ Liani Lye in slack
+- [ ] PM and Front-End Engineers: Request analytics intro with @ Joanne Esteban in slack
+- [ ] Full team: Request KPI workshop with analytics team with @ Joanne Esteban in slack
+- [ ] PM, Designers, FE devs: Request 508 intro with @ Trevor Pierce in slack
+- [ ] PM and Engineers: Request QA intro with @ Peter Hill in slack
+- [ ] PM and Engineering Lead: Request ATO intro with @ Faith Owusu-Sekyere in slack
 
 
 ## Notes:
