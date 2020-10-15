@@ -14,6 +14,16 @@
  
 ## Desired User Outcomes
 - Define & prioritize customers (primary, secondary with Veterans as primary)
+   - Veterans
+   - Non-veteran beneficiaries
+   - Service Members
+   - School Officials
+   - Congressional Members/Staff
+   - Call center/help desk
+   - GI Bill Monthly Stakeholder Meeting (Groups include VSOs + Veteran Education Success, Student Veterans of America)
+   - VA Employees
+   - Data providers
+   - Schools as data providers
 - List of critical functionality for the user has been captured. Consider the following: 
    - Compare schools
    - "logical searching" for schools
@@ -100,6 +110,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ### Current Status
 
 ### Key Decisions
+
+### Supporting Documentation
+- PI 8 Redesign Discovery Mural: https://app.mural.co/t/bahdigitalexperience6902/m/bahdigitalexperience6902/1600376509169/ef6ddf5aef1fab297cdaa8b800048d8fb4df4ef7
 
 ---
    
