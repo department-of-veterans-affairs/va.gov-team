@@ -11,7 +11,7 @@ VSP uses GitHub's [code owners](https://help.github.com/en/github/creating-cloni
 By default, [`frontend-review-group`](https://github.com/orgs/department-of-veterans-affairs/teams/frontend-review-group) is the code owner of `vets-website` and [`backend-review-group`](https://github.com/orgs/department-of-veterans-affairs/teams/backend-review-group) is the code owner of `vets-api`.
 
 ## VSA Code Owndes
-VSA teams can optionally create a GitHub team under the [Department of Veteran Affairs GitHub organization](https://github.com/orgs/department-of-veterans-affairs/teams) by clicking on the **New team** button. This must be done for the team to become a code owner.
+VSA teams can optionally [create a GitHub team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/vsp_user_managment_process.md#creating-a-github-team) under the [Department of Veteran Affairs GitHub organization](https://github.com/orgs/department-of-veterans-affairs/teams) by clicking on the **New team** button. This must be done for the team to become a code owner.
 
 In `vets-website`, a VSA team can be assigned as a code owner of [application folders](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications). **This will remove `frontend-review-group` as a required reviewer when changes are made to those folders.** Follow the conventions in the [`CODEOWNERS` configuration file](https://github.com/department-of-veterans-affairs/vets-website/blob/master/.github/CODEOWNERS) to assign your team to an application folder.
 
