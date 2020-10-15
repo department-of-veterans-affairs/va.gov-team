@@ -6,7 +6,7 @@
 | Product             | Disability (526),   HLR (20-0996) | Education (1990, etc.)    | Rogers STEM (22-10203) | Personalized Care & Planning Guidance (Ch 36/31) |
 | Product Leads       | Matt Self, Luke Wajewski          | Matt Self, Leah Keeler    | Amy Knox               | Jason Wolf           
 | Wizard UX Guide (via Prototype)| Done                   | TBD                       | N/A                    | TBD
-| Wizard User Test(via Prototype)| TBD                    | TBD                       | N/A                    | TBD 
+| Wizard User Test(via Prototype)| In progress            | In progress               | N/A                    | Done 
 | Wizard Development    | In Progress                     | In Progress               | N/A                    | TBD
 | Wizard Staging Review/Q-A | TBD                         | TBD                       | N/A                    | TBD
 | Wizard Launch Date    | TBD                             | TBD                       | N/A                    | TBD
