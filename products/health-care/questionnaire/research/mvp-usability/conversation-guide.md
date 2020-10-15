@@ -73,12 +73,12 @@ Great. Now we're really ready to begin!
 
 - _For pre-COVID participants._ Can you tell me about the last time that you saw your primary care provider at the VA?
     - What was the experience prior to the appointment like? For example, did you have to fill out any forms before the appointment? Did the nurse ask you a lot of questions?
-    - How does this compare to any civilian providers that you see?
+    - How does this compare to any non-VA providers that you see?
 - _For post-COVID participants._ Think about your last primary care provider visit at the VA. Did your appointment experience change at all post-COVID?
     - If so, how?
     - Did the length of your appointment feel any different (shorter or longer)?
     - What was the experience prior to the appointment like? For example, did you have to fill out any forms before the appointment? Did the nurse ask you a lot of questions?
-    - How does this compare to any civilian providers that you see?
+    - How does this compare to any non-VA providers that you see?
 
 ## Usability Task: Complete the questionnaire - 10 minutes
 
