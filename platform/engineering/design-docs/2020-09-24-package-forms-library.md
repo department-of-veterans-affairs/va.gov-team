@@ -91,47 +91,13 @@ The only application code changes will be updating the where forms library code 
 
 The VSP Design System team will make several changes that will result in a packaged forms library.
 
-#### Preparation
+First, there will be some prep work to make it easier to bundle all of the forms library code into a single location. After this, the code can be consolidated into a single directory: `src/platform/packages/forms-library`. This is where the package will be created.
+This will involve some temporary configuration changes so that app code is still able to import the code from the new location using the old import paths. These temporary measures will be removed once the forms library is properly packaged and all apps have been updated to import from it directly.
 
-1. Move the app-specific code mentioned in [Application Entanglement](#application-entanglement) outside the forms library directories.
-1. Use the `no-unresolved-modules` ESLint plugin to [find & remove unused code](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8763) in the `forms` and `forms-library` directories
+Moving all of this code to a new directory will leave "trailing ends", a.k.a.  relative imports from directories outside of the package root (`src/platform/monitoring`, etc).
+We will work towards eliminating these kinds of out-of-package imports.
 
-#### Beginning the bundling
-
-1. Copy what remains from `forms` into `forms-system`
-1. Create `platform/packages/forms-library` and move the contents of `platform/forms-system` into it
-1. Add a `package.json` file to the new `forms-library` package directory
-  - Any dependencies that are exclusively used by the forms library will go in here, and a `yarn install` from the `vets-website` root will install them.
-1. [Add a temporary alias to the `.babelrc` file](https://github.com/department-of-veterans-affairs/vets-website/blob/055d96c54e1df54138b9efc589b98e55962333b3/.babelrc#L50-L55) that redirects imports from `platform/forms` and `platform/forms-system` to the new package
-1. Edit the webpack config & use a custom `sass-loader` importer to _temporarily_ rewrite imports from `forms` to `forms-system`
-  - This will prevent webpack from failing when it can't resolve the `.scss` files
-1. Fix broken relative imports
-1. Add babel configuration to the new package because according to [Babel's docs](https://babeljs.io/docs/en/config-files):
-    > Searching [for a config] will stop once a directory containing a `package.json` is found, so a relative config only applies within a single package
-
-#### Clarifying boundaries
-
-The [Platform Entanglement](#platform-entanglement) section mentions that forms library code imports from "parent" platform code. This makes the boundaries less clear, so an effort will be made to reduce or eliminate the forms library importing from platform code.
-
-- Move the [`static-data/labels` file](https://github.com/department-of-veterans-affairs/vets-website/blob/58c48c6fd116db6e875162f540a0d072678a68d2/src/platform/static-data/labels.jsx) into the forms library, since it is only used in connection with forms library configuration
-- Prefer code that exists in the forms library, instead of in the parent platform directory.
-  - Anything used by the forms library should be _in_ the forms library, or declared as a dependency.
-  - For example, we have a [`focusElement`](https://github.com/department-of-veterans-affairs/vets-website/blob/46000a4becae29ca72b505889713fd4b2b2718f0/src/platform/utilities/ui/index.js#L17-L32) that exists in `platform/utilities/ui`, but also one that exists in [`forms-system/src/js/utilities/ui`](https://github.com/department-of-veterans-affairs/vets-website/blob/46000a4becae29ca72b505889713fd4b2b2718f0/src/platform/forms-system/src/js/utilities/ui/index.js#L3-L18). This project would eliminate the duplicate code existing at the platform level and direct all imports to use the forms library version
-- Remove imports from `platform/monitoring`
-  - Instead, import the relevant code outside of the forms library and pass them in as props or config options.
-  - As an example, in the [`FormSignInModal`](https://github.com/department-of-veterans-affairs/vets-website/blob/1cc955b8d4f6b9f93f4553fdd4afa9878c75564f/src/platform/forms/save-in-progress/FormSignInModal.jsx#L12) component, remove the `platform/monitoring/record-event` import and instead put that function call inside of the function that gets passed as a prop. `FormSignInModal` is only used from `platform/site-wide`.
-- Remove forms library dependence on platform re-implementations of 3rd party functions, like lodash's `get` and `set`. Use the forms library implementations where possible.
-- Remove imports for `src/platform/utilities/environment` and instead rely on global `const`s from webpack's DefinePlugin for environment-related `const`s (i.e. an api url) or branching
-
-
-#### Final touches
-
-Once the forms library is actually a package, app code will be updated to import from it directly instead of relying on the aliases.
-
-- Each app team will update their code to use forms library JS & SCSS from the package instead of by direct path. This will help to establish the boundaries of the package for VFS teams.
-- Configure the `no-restricted-imports` ESLint rule to [restrict imports of `src/platform/packages` directly](https://eslint.org/docs/rules/no-restricted-imports)
-- Add an `.eslintrc` file to the new forms library package and configure `no-restricted-imports` to block imports from application code and platform code.
-- Remove the `.babelrc` forms-library alias & custom SASS importer
+Now that the forms library is actually a package, app code will be updated to import from it directly.
 
 ### Code Location
 
@@ -172,31 +138,59 @@ Do we want to separate the forms library build & testing stages from the main `v
 
 ### Work Estimates
 
-#### Prep work
+Note: These estimates do not account for extensive support requests
 
-This involves removing unused forms code and rearranging things so that the forms library doesn't import from app code.
+#### Preparation
 
 **Estimate:** < 1 day
 
-#### Creating the package
+1. Move the app-specific code mentioned in [Application Entanglement](#application-entanglement) outside the forms library directories.
+1. Use the `no-unresolved-modules` ESLint plugin to [find & remove unused code](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8763) in the `forms` and `forms-library` directories
 
-This captures the bulk of the work. Consolidating the forms library code into a single location, fixing broken imports, updating babel and webpack configuration.
+#### Beginning the bundling
 
-**Estimate**: < 4 days
+**Estimate:** ~ 4 days
 
-#### Creating the boundaries
+1. Copy what remains from `forms` into `forms-system`
+1. Create `platform/packages/forms-library` and move the contents of `platform/forms-system` into it
+1. Add a `package.json` file to the new `forms-library` package directory
+  - Any dependencies that are exclusively used by the forms library will go in here, and a `yarn install` from the `vets-website` root will install them.
+1. [Add a temporary alias to the `.babelrc` file](https://github.com/department-of-veterans-affairs/vets-website/blob/055d96c54e1df54138b9efc589b98e55962333b3/.babelrc#L50-L55) that redirects imports from `platform/forms` and `platform/forms-system` to the new package
+1. Edit the webpack config & use a custom `sass-loader` importer to _temporarily_ rewrite imports from `forms` to `forms-system`
+  - This will prevent webpack from failing when it can't resolve the `.scss` files
+1. Fix broken relative imports
+1. Add babel configuration to the new package because according to [Babel's docs](https://babeljs.io/docs/en/config-files):
+    > Searching [for a config] will stop once a directory containing a `package.json` is found, so a relative config only applies within a single package
 
-Once the package is created, there will still be pieces of code that will need to be shifted around in order to firmly solidfy the boundaries around the forms library.
+#### Clarifying boundaries
 
-**Estimate:** < 1 week
+**Estimate:** ~ 5 days
 
-#### Updating app code
+The [Platform Entanglement](#platform-entanglement) section mentions that forms library code imports from "parent" platform code. This makes the boundaries less clear, so an effort will be made to reduce or eliminate the forms library importing from platform code.
+
+- Move the [`static-data/labels` file](https://github.com/department-of-veterans-affairs/vets-website/blob/58c48c6fd116db6e875162f540a0d072678a68d2/src/platform/static-data/labels.jsx) into the forms library, since it is only used in connection with forms library configuration
+- Prefer code that exists in the forms library, instead of in the parent platform directory.
+  - Anything used by the forms library should be _in_ the forms library, or declared as a dependency.
+  - For example, we have a [`focusElement`](https://github.com/department-of-veterans-affairs/vets-website/blob/46000a4becae29ca72b505889713fd4b2b2718f0/src/platform/utilities/ui/index.js#L17-L32) that exists in `platform/utilities/ui`, but also one that exists in [`forms-system/src/js/utilities/ui`](https://github.com/department-of-veterans-affairs/vets-website/blob/46000a4becae29ca72b505889713fd4b2b2718f0/src/platform/forms-system/src/js/utilities/ui/index.js#L3-L18). This project would eliminate the duplicate code existing at the platform level and direct all imports to use the forms library version
+- Remove imports from `platform/monitoring`
+  - Instead, import the relevant code outside of the forms library and pass them in as props or config options.
+  - As an example, in the [`FormSignInModal`](https://github.com/department-of-veterans-affairs/vets-website/blob/1cc955b8d4f6b9f93f4553fdd4afa9878c75564f/src/platform/forms/save-in-progress/FormSignInModal.jsx#L12) component, remove the `platform/monitoring/record-event` import and instead put that function call inside of the function that gets passed as a prop. `FormSignInModal` is only used from `platform/site-wide`.
+- Remove forms library dependence on platform re-implementations of 3rd party functions, like lodash's `get` and `set`. Use the forms library implementations where possible.
+- Remove imports for `src/platform/utilities/environment` and instead rely on global `const`s from webpack's DefinePlugin for environment-related `const`s (i.e. an api url) or branching
+
+
+#### Final touches (updating app code)
 
 By this point, the package will already exist, but due to some babel and webpack config it will be masquerading as if it were still spread across `platform/forms` and `platform/forms-system`. This is where we open a PR for each app team and update their code to import directly from the new package. Separate PRs for each app team will make each one easier to merge without requiring a codeowner review from every single team.
 
+- Update app code to use forms library JS & SCSS from the package instead of by direct path. This will help to establish the boundaries of the package for VFS teams.
+- Configure the `no-restricted-imports` ESLint rule to [restrict imports of `src/platform/packages` directly](https://eslint.org/docs/rules/no-restricted-imports)
+- Add an `.eslintrc` file to the new forms library package and configure `no-restricted-imports` to block imports from application code and platform code.
+- Remove the `.babelrc` forms-library alias & custom SASS importer
+
 Once app teams approve these PRs that we create, we will be able to remove those temporary configs and add an ESLint rule to prevent direct imports from `platform/packages/forms-library` in order to make sure that the forms library is treated like a package moving forward.
 
-Actual active time here will be fairly low (< 1 day), and will involve waiting for app teams before we will be able to finish the platform changes.
+Actual active time here will be fairly low (1-2 days), and will involve waiting for app teams before we will be able to finish the platform changes.
 
 ### Alternatives
 
@@ -218,7 +212,7 @@ Another alternative would be to move the forms library build out of the overall 
 #### Separate repo
 
 One possible option would be to take the package out of `vets-website` and give it its own repo.
-With this, we could publish it to npm, and we could completely remove the forms build & test process from `vets-website`, possibly speeding things up since we could avoid running forms tests on every build.
+With this, we could publish it to npm, and we could completely remove the forms build & test process from `vets-website` repo, possibly speeding things up since we could avoid running forms tests on every build.
 
 #### Tighter dependencies
 
