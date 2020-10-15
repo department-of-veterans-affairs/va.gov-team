@@ -24,9 +24,9 @@ Attendees: Platform team, Accessibility team, Samara, Tressa, Cassandra
 ### Designs
 Includes links to Invision High-level Wireframe Concepts:
 
-[Mobile Invision Screens](https://cassandraallen738782.invisionapp.com/overview/HP-mobile-logged-in-ckeyhydog01kz01xd3tao5pcj/screens/22766369)
+[Mobile Invision Screens](https://cassandraallen738782.invisionapp.com/overview/HP-mobile-logged-in-ckeyhydog01kz01xd3tao5pcj/screens/24691243)
 
-[Desktop Invision Screens](https://cassandraallen738782.invisionapp.com/overview/HP-desktop-logged-in-ckf3qguc91olj019242g490ji/screens/22765860)
+[Desktop Invision Screens](https://cassandraallen738782.invisionapp.com/overview/HP-desktop-logged-in-ckf3qguc91olj019242g490ji/screens/23893397)
 
 ### Feedback & Outcomes
 
