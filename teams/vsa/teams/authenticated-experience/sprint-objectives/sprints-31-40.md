@@ -122,27 +122,35 @@ Note: This is a DevOps tickets, and I am figuring out who can work on it. Howeve
 
 ## Sprint 33 (10/21 – 11/3)
 
+For every project, this sprint includes all outstanding tickets from sprint 32, plus:
+
 ### Profile
 
-- 508 review, post launch review with platform team, any post-launch enhancements
-
-### Logged-in homepage
+- What outstanding tickets do we still have?
 
 **PM**
 
-- Schedule [Usability Test Prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#usability-testing-prep) checkpoint meeting
+- [Request full accessibility and 508 office review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#full-accessibility-and-508-office-audit)
+
+### Logged-in homepage
 
 **Design**
 
-Phase 2: Design Healthcare, Claims sections
+- Finish health care section
+- Finish nametag design
+- Have a discussion with whoever owns the navigation/IA
 
-- Overall disability rating #14400
-- Check your claim or appeal status #14401
+### Direct deposit for Edu
 
+**Design**
 
-- Get feedback on disability claims section; make updates
-- Plan for usability testing, including normal [review of the research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#research-plan-review)
-- [Usability Test Prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#usability-testing-prep) checkpoint meeting
+- Complete design if not done
+- (Maybe) Start research prep (plan and convo guide)
+  - **Note**: We are still waiting on some answers from Luke Tickner about some things, so this might put design and research on pause.
+
+**Dev**
+
+- Where are we with initial build? If not done, finish this this sprint.
 
 ### VA Profile-related work
 
@@ -154,16 +162,9 @@ Phase 2: Design Healthcare, Claims sections
 
 **PM**
 
-- Schedule [IA check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#information-architecture-ia-request)
+- [Post-launch review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#post-launch-check-in)
 
 **Design**
-
-Phase 2: Design Healthcare, Claims sections
-
-- Conduct usability testing on health care and claims sections
-- Make updates
-- Hand off to frontend to begin build
-- [IA check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#information-architecture-ia-request)
 
 ## Sprint 35 (11/18 – 12/1)
 
@@ -171,20 +172,7 @@ Phase 2: Design Healthcare, Claims sections
 
 **Design**
 
-Phase 2: Design Healthcare, Claims sections
-
-- Finish any final documentation
-
-Phase 3: Design Education, Records, Applications in progress, Discover additional benefits sections
-
-- Design these sections
-- Get feedback; make updates
-
 **Dev**
-
-Phase 2: Design Healthcare, Claims sections
-
-- Begin FE build
 
 ## Sprint 36 (12/2 – 12/15)
 
@@ -192,16 +180,7 @@ Phase 2: Design Healthcare, Claims sections
 
 **Design**
 
-Phase 3: Design Education, Records, Applications in progress, Discover additional benefits sections
-
-- Design these sections
-- Get feedback; make updates
-
 **Dev**
-
-Phase 2: Design Healthcare, Claims sections
-
-- Continue FE build
 
 ## Sprint 37 (12/16 – 12/29)
 
@@ -209,16 +188,7 @@ Phase 2: Design Healthcare, Claims sections
 
 **Design**
 
-Phase 4: Design 'Blank'state and LOA1 state
-
-- Design blank state and LOA1 states
-- Collect feedback; make updates
-
 **Dev**
-
-Phase 2: Design Healthcare, Claims sections
-
-- Continue FE build
 
 ## Sprint 38 (12/30 – 1/12)
 
@@ -226,42 +196,14 @@ Phase 2: Design Healthcare, Claims sections
 
 **Design**
 
-Phase 5: Final user testing/validation
-
-- Plan user testing
-- Conduct user testing on final mockups of LOA3 "full" and "blank" states
-
 **Dev**
-
-Phase 3: Design Education, Records, Applications in progress, Discover additional benefits sections
-
-- FE build
 
 ## Sprint 39 (1/13 – 1/26)
 
 **Design**
 
-Phase 5: Final user testing/validation
-
-- Implement updates from user testing
-- Finalize documentation for FE
-
-Initial design phase complete.
-
 **Dev**
-
-Phase 3: Design Education, Records, Applications in progress, Discover additional benefits sections
-
-- FE build
 
 ## Sprint 40 (1/27 – 2/9)
 
 **Dev**
-
-Phase 4: Design 'Blank'state and LOA1 state
-
-- FE build
-
-------
-
-Up next: LIH - Finish build; Prep for QA and 508; All pre-launch activities
