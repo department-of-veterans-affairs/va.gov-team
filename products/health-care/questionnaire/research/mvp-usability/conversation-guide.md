@@ -153,6 +153,8 @@ _Tell the Veteran before asking questions on this page._ This is the first versi
     - Within a "VA healthcare appointments" section
     - On the va.gov homepage
     - Other: 
+- Would you fill out this questionnaire? 
+- Would you fill it out on a desktop or phone?
 - When would you fill out this questionnaire?
     - The day before my appointment
     - 2-3 days before my appointment
