@@ -13,7 +13,7 @@ When Veterans are looking for schools within the Comparison tool, they want to k
 - What do users think of the new school card layout?
 - How does the overall rating weigh into the user’s perception of the school?
 - How do the individual ratings weigh into the user’s perception of the school?
-- Do users understand the “Not yet rated” indication?
+- Do users understand the “Not yet rated” indicators?
 - Do users think the “Not yet rated” scores affect the overall score?
 - What do users believe “True to expectations” means?
 - What do users think of the “About Ratings” content?
