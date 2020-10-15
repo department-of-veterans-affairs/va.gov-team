@@ -16,10 +16,9 @@ The VSP IA Team supports teams building on VA.gov by providing guidance and best
 If you need a hand with anything IA-related, don't hesitate to contact us.
 
 * Mikki Northius, IA - Slack @Mikki
-* Megan Kelley, PM - Slack @Megan Kelley
+* Shira Goodman, PM - Slack @Shira Goodman
 
-Slack channels: [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support), [#vsp-content-ia](https://dsva.slack.com/channels/vsp-content-ia)
-
+Slack channels: [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)
 Github/Zenhub labels: `content-ia-team`
 
 ## What we do
