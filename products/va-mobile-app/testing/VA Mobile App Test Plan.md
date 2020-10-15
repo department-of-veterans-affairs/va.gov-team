@@ -69,7 +69,7 @@ In order to support testing activities we will need test user accounts with test
 - User address / location (international, domestic)
 - User name and profile information (including long format names)
 - User bank account information (including different bank account information formats)
-- User military history (including users with service in multiple forces)
+- User military history (including users with service in multiple service branches)
 - Users with multi-page letters
 - Users with different levels of access to letters (including accounts with no permitted letters)
 - Users with multiple locations for claims and appointments, including:
