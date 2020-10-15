@@ -1,6 +1,6 @@
 # Development Tasks for CH31, CH36, View Payments
 Ascertain remaining tasks for these features  
-## Chapter 36 (Deadline October 26)
+## Chapter 36 (Deadline January 4, 2020)
 Based on mean velocities from the past 10 sprints or so, FE and BE should be completed by September 22 (Sprint 30)
 
 👉 = In progress  
@@ -87,7 +87,7 @@ Total = 37
 - Test submission against environment (5)  
 Total = 26
 
-## Chapter 31
+## Chapter 31 (Deadline December 2020)
 ### Product
 - Request formal 508 audit (1)
 - Load TestRail (2)
