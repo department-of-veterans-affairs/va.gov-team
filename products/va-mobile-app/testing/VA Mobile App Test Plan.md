@@ -73,7 +73,7 @@ In order to support testing activities we will need test user accounts with test
 - Users with multi-page letters
 - Users with different levels of access to letters (including accounts with no permitted letters)
 - Users with multiple locations for claims and appointments, including:
-  - A user with appointments in different timezones
+  - A user with appointments in different time zones
   - A user with appointments in international time zones
 - Users with different volumes of claims and appointments (including accounts with no claims or appointments)
 
