@@ -2,6 +2,39 @@
 
 ## mm/dd/yy
 
+## 10/15/20
+
+__Decision: breadcrumb and URL pattern__ 
+
+For details: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-learning-center.md
+
+__LC homepage__
+
+- URL: www.va.gov/resources/
+- Breadcrumb: Home > Resources and support
+
+__Article page__
+
+- URL pattern: /resources/primary-category/article-h1/ 
+- Breadcrumb pattern: Home > Resources and support > [Category] > [Article H1]
+
+Example: `How to check the status of your disability claim` article with a `primary category` of Disability 
+- URL pattern: www.va.gov/resources/disability/how-to-check-the-status-of-your-disability-claim 
+
+__Dynamic search results page__
+- URL pattern: www.va.gov/resources/search/[query-parms]/
+- Breadcrumb: Home > Resources and support > Search results for "[user entered search]"
+
+__Category article list landing page__
+- URL pattern: www.va.gov/resources/[category-name]/	
+- Breadcrumb pattern: Home > Resources and support > [Category-name]  --> 	Home > Resources and support > {Pension} 
+
+__Tagged article list landing page__
+- URL pattern: www.va.gov/resources/tag/[tag-name]/
+- Breadcrumb pattern: 	Home > Resources and support > [h1]  --> 	Home > Resources and support > All articles tagged: {Tag name}
+
+
+
 ## 10/13/20
 
 __Decision re Video article template__
