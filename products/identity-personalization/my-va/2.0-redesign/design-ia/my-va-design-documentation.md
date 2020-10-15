@@ -5,6 +5,45 @@
 
 Cassandra, Tressa
 
+## Design Intent Meeting  - Sprint 32
+
+[Design Intent Collaboration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13415)
+
+#### Second Presentation to Platform & Accessibility teams:
+Meeting date: 10/08/2020  
+Attendees: Platform team, Accessibility team, Samara, Tressa, Cassandra
+
+#### Outcomes
+- Sync with Accessibility team on tables and drop open feature
+- Review style guide tables
+- Review with Ryan on more specific feedback next week
+
+
+## Iteration 3 - Sprint 32
+
+### Designs
+Includes links to Invision High-level Wireframe Concepts:
+
+[Mobile Invision Screens](https://cassandraallen738782.invisionapp.com/overview/HP-mobile-logged-in-ckeyhydog01kz01xd3tao5pcj/screens/22766369)
+
+[Desktop Invision Screens](https://cassandraallen738782.invisionapp.com/overview/HP-desktop-logged-in-ckf3qguc91olj019242g490ji/screens/22765860)
+
+### Feedback & Outcomes
+
+#### Second Presentation to Samara:
+Meeting date: 10/14/2020  
+Attendees: Samara, Ryan, Tressa, Cassandra
+
+#### Outcomes
+- Remove breadcrumb
+- Try mocking up a version with My VA in a tabbed treatment
+- Try a blue or different color than grey to add contrast on tab
+- Appointments: look at date formatting, square edges on cards to look less like a button, add appointment type, date, phone number
+- Ryan liked that we are trying different solutions for mobile instead of just stacking for example only showing two cards for appointments on mobile vs. 3 cards on desktop
+- Has questions around overview section and table padding with regard to responsive on tablet
+
+
+
 ## Design Intent Meeting  - Sprint 31
 
 [Design Intent Collaboration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13415)
@@ -18,7 +57,7 @@ Attendees: Platform team, Accessibility team, Samara, Tressa, Cassandra
 - Setting up weekly check-ins with Platform and Accessibility team
 
 
-## Iteration 2 - Sprint 30
+## Iteration 2 - Sprint 31
 
 ### Designs
 Includes links to Invision High-level Wireframe Concepts:
