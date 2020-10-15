@@ -1,4 +1,4 @@
-# Research Plan for IRIS
+# IRIS Research Plan
 **7/21/2020**
 
 This document outlines a research plan for understanding the IRIS experience for those using VA.gov.
