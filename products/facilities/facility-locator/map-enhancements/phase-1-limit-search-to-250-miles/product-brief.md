@@ -118,6 +118,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ### Current Status
 
+[Video of current functionality, October 2020](https://www.loom.com/share/ca23460f62bc4ad89091867976ba2c07)
+
+
 ### Key Decisions
 
 ---
