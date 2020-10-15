@@ -9,6 +9,16 @@ When Veterans are looking for schools within the Comparison tool, they want to k
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
 
+- What do users think of the ratings?
+- What do users think of the new school card layout?
+- How does the overall rating weigh into the user’s perception of the school?
+- How do the individual ratings weigh into the user’s perception of the school?
+- Do users understand the “Not yet rated” indication?
+- Do users think the “Not yet rated” scores affect the overall score?
+- What do users believe “True to expectations” means?
+- What do users think of the “About Ratings” content?
+- Are there any aspects of the ratings design that users find confusing?
+- Do users think the ratings are useful?
 
 
 4. Hypothesis: What is your hypothesis for this research? 
@@ -37,15 +47,15 @@ Researchers need to be able to see how users react and interact with school rati
 1.	Participant criteria: What are you looking for in a participant?	  
 	
 - 8 participants total
-   - Actively looking for a school to attend for themselves where they'll use their VA education benefits or
+   - Actively looking for a school to attend for themselves where they'll use their VA education benefits in the next 2-3 months or
    - In the last 6 months, looked for a school to attend for themselves where they'd use their VA education benefits
 - GI Bill beneficiaries
 - Age range: 18-45
 - Gender: Mix
 - Geography: Geographically dispersed across US
 - VA Benefit requirement:
-    - 5 participants personally using or planning to use Chapter 33 Post-9/11 benefits in the next 3 months
-    - 3 participants personally using or planning to use education benefits other than Chapter 33 Post-9/11 in the next 3 months
+    - 5 participants personally using or planning to use Chapter 33 Post-9/11 benefits
+    - 3 participants personally using or planning to use education benefits other than Chapter 33 Post-9/11
 - Technology: Access to a computer, preferably running Google Chrome browser
 - Familiarity with technology: Any
 - Login requirements: None
@@ -61,7 +71,10 @@ Researchers need to be able to see how users react and interact with school rati
 3. Length of Sessions: How long do you estimate each session will be? 
   - 45 minutes
 4.	Availability: If applicable, when would you like sessions scheduled? 
- 
+- Tues, Nov 3:  9:30 - 10:15AM; 10:45 - 11:30AM; 1:15 - 2PM
+- Wed, Nov 4: 1 - 1:45 PM; 2:15- 3PM;
+- Fri, Nov 6: 9:30 - 10:15AM; 10:45 - 11:30 AM; 2:15 - 3PM;
+
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
 *  Monday, Nov 2nd
 
@@ -71,8 +84,8 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development (usually but not always same as moderator):	Booz Allen UX team
 - Participant recruiting & screening:	Perigean Technologies
 - Project point of contact:	Amy Knox
-- Participant(s) for pilot test:	
-- Note-takers:	Cindy Cruz cruz_cindy@bah.com; Jen Jones jones_jennifer2@bah.com; Emma Waters waters_emma@bah.com;
+- Participant(s) for pilot test: TBD
+- Note-takers:	Jen Jones jones_jennifer2@bah.com; Emma Waters waters_emma@bah.com;
 - Observers:	Brian Grubb brian.grubb@va.gov; Desiree Turner turner_desiree@bah.com; Joe Preisser joseph.preisser@va.gov; Joe Welton joseph.welton@va.gov; Will McCormack mccormack_will@bah.com; Lauren Anderson lauren.alexanderson@va.gov; Lacey Higley lacey.higley@va.gov; Matt Self matthew.self2@va.gov; Dan Shawkey shawkey_daniel@bah.com; Darla VanNieukerk darla.vannieukerk@va.gov; Tammy Hurley tammy.hurley1@va.gov; Darrell Neel neel_darrell@bah.com;Luke Tickner Lucas.Tickner@va.gov	
 
 ## Resources	
