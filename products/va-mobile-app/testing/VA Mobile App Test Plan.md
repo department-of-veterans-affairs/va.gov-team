@@ -72,8 +72,7 @@ In order to support testing activities we will need test user accounts with test
 - User military history (including users with service in multiple service branches)
 - Users with multi-page letters
 - Users with different levels of access to letters (including accounts with no permitted letters)
-- Users with multiple locations for claims and appointments, including:
-  - A user with appointments in different time zones
+- Users with multiple locations for claims and appointments (including a user with appointments in different time zones)
 - Users with different volumes of claims and appointments (including accounts with no claims or appointments)
 
 ## Issue tracking
