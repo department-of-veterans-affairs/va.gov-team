@@ -1,8 +1,8 @@
-# Product Outline Template
+# Facility Locator Map Enhancements: Phase 1- Limit Search to 250 miles
 ---
 
 ## Overview
-Veterans will have the information they need to understand search results within the context of the search area and have a method to adjust the 
+Veterans will have the information they need to understand search results within the context of the search area and have a method to adjust the location parameters as needed to make the outcome meaningful and relevant. 
 
 ## Problem Statement
 
@@ -63,6 +63,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Assumptions
 - *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
 
+- Veterans want to see search results displayed on a map by default.
+- Veterans want to be able to filter search results by distance. 
+- The same optimal initial zoom level will apply to all facility types and location searches. 
+
 ## Solution Approach
 
 - *What are you going to build now, and why have you decided to start there?*
@@ -70,23 +74,20 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
-1. Update Mapbox to JS GL, then layer on the following enhancements [#14786](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14786)
-   - A recent [Discovery effort](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8535) validated our assumption that a move to the JS GL version would provide enough value in the form of increased functionality, support and access to accessibility plug-ins to offset the level of effort. By upgrading the version first, we can maintain only the desired functionality to minimize throw-away code and allow us to test future enhancements in the context of the upgraded version. This upgrade will also enable access to an accessibility plug-in, which should help to resolve 508 defects.   
+**1. Update Mapbox to JS GL, then layer on the following enhancements [#14786](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14786)**
+   - A recent [Discovery effort](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8535) validated our assumption that a move to the JS GL version would provide enough value through increased functionality, support and enhanced accessibility options to offset the level of effort. We will implement only the desired functionality during this process, rather than replicating the entire existing functionality. This allows us to prune away the unwanted usability quirks during the upgrade, saving us the future trouble of fixing the issues separately. By upgrading the version first, we will also minimize throw-away code and test future enhancements in the context of the new version. This upgrade will also enable access to an accessibility plug-in, which should help to resolve 508 defects.   
 
-2. Decrease initial zoom radius from 80 miles to 40 miles [#14792](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14792). 
-   - Future: Default zoom level based on facility type and/or location density. 
+**2. Decrease initial zoom radius from 80 miles to ~40 miles [#14792](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14792).**
+   - This is a one size fits all solution which is a bet about the optimal zoom level. Data layer analytics for current use and future Veteran research will be used to validate this hypothesis.
    
-3. Implement accessible way for Veteran to adjust the centerpoint of map and zoom level 
+   - Future iteration: Default zoom level based on facility type and/or location density. 
+   
+**3. Implement accessible way for Veteran to adjust the centerpoint of map and zoom level** 
+   - Design to be wireframed and prototyped for input and solutioning
 
-4. Implement method for Veteran to trigger search after making adjustments. 
+**4. Implement method for Veteran to trigger search after making adjustments.**
+   - Design to be wireframed and prototyped for input and solutioning
 
- 
-
-
-Create search UX wireframes [#14818]
-Finalize search UX design [#14867]
-Add filter to allow Veteran to specify radius [#14789]
-Add some sort of visual indicator of search area [#14795]
 
 --- 
 
