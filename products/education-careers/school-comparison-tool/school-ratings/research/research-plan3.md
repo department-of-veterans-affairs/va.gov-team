@@ -11,6 +11,7 @@ When Veterans are looking for schools within the Comparison tool, they want to k
 
 - What do users think of the ratings?
 - What do users think of the new school card layout?
+- Are users interested in sorting or filtering search results by star ratings?
 - How does the overall rating weigh into the user’s perception of the school?
 - How do the individual ratings weigh into the user’s perception of the school?
 - Do users understand the “Not yet rated” indicators?
