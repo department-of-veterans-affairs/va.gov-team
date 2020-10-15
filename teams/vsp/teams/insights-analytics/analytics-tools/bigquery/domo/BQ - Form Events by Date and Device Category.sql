@@ -39,7 +39,7 @@ FROM
     UNNEST(ga.hits) AS hits
 WHERE
     _TABLE_SUFFIX = FORMAT_DATE('%Y%m%d',DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY))
-    --_TABLE_SUFFIX BETWEEN "20200911" AND "20200912"
+    --_TABLE_SUFFIX BETWEEN "20200913" AND "20200916"
     AND totals.visits = 1
     AND hits.type = 'EVENT'
     AND REGEXP_CONTAINS(hits.eventInfo.eventAction, '^Forms - .*')

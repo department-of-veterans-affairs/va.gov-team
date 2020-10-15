@@ -1,8 +1,8 @@
 /***************************************************************************************************
 Name:               BQ - BAM2 Medical Device pageviews, users 
-URL:                
+URL:                https://va-gov.domo.com/datasources/6e4a3a1b-c5fa-42df-8d85-7d5fddd8cf2d/details/overview
 Create Date:        2020-09-04
-Author:             Jon Wehausen
+Author:             Brian Martin
 Description:        This returns daily totals for sessions, users (DON'T ADD JUST ADD TOGETHER!  USE A MONTHLY QUERY!),
                     pageviews, unique pageviews and bounces for BAM2 / Medical Device pages
 /***************************************************************************************************/
@@ -45,7 +45,7 @@ FROM (
         totals.bounces AS totals_bounces,
         COUNT(DISTINCT CONCAT(CAST(fullVisitorId AS STRING), CAST(visitStartTime AS STRING))) AS unique_pageviews,
     FROM
-        `vsp-analytics-and-insights.176188361.ga_sessions_20*` ga,
+        `vsp-analytics-and-insights.176188361.ga_sessions_*` ga,
         UNNEST(ga.hits) as hits
     WHERE
         _TABLE_SUFFIX = FORMAT_DATE('%Y%m%d',DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY))

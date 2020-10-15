@@ -19,41 +19,11 @@ WITH ga AS (
     FROM
         `vsp-analytics-and-insights.176188361.ga_sessions_*` AS ga
     WHERE
-        _TABLE_SUFFIX = FORMAT_DATE(
-            '%Y%m%d',
-            DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY)
-        )    
-        --_TABLE_SUFFIX BETWEEN "20200715" AND "20200912"
-        AND NOT (
-            SELECT
-                COUNT(1) > 0
-            FROM
-                ga.hits
-            WHERE
-                (
-                    SELECT
-                        value
-                    FROM
-                        UNNEST(hits.customDimensions)
-                    WHERE
-                        INDEX = 57
-                ) = 'accessories_bam-ineligibility-no-prescription'
-        )
-        AND NOT (
-            SELECT
-                COUNT(1) > 0
-            FROM
-                ga.hits
-            WHERE
-                (
-                    SELECT
-                        value
-                    FROM
-                        UNNEST(hits.customDimensions)
-                    WHERE
-                        INDEX = 57
-                ) = 'batteries_bam-ineligibility-no-prescription'
-        )
+        -- _TABLE_SUFFIX = FORMAT_DATE(
+        --     '%Y%m%d',
+        --     DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY)
+        -- )    
+        _TABLE_SUFFIX BETWEEN "20200715" AND "20200916"
 )
 SELECT
     -- date (dimension)

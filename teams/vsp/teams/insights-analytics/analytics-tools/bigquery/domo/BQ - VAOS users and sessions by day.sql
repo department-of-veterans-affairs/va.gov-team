@@ -33,7 +33,7 @@ WHERE
         '%Y%m%d',
         DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY)
     )
-    --_TABLE_SUFFIX BETWEEN "20200301" AND "20200912"
+    --_TABLE_SUFFIX BETWEEN "20200301" AND "20200916"
     AND totals.visits = 1
     AND (
         SELECT

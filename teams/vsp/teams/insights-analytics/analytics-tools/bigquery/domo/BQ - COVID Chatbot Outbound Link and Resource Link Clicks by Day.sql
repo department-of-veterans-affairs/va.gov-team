@@ -43,8 +43,8 @@ FROM
     `vsp-analytics-and-insights.176188361.ga_sessions_*` AS ga,
     UNNEST(ga.hits) AS hits
 WHERE
-    --_TABLE_SUFFIX = FORMAT_DATE('%Y%m%d',DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY))
-    _TABLE_SUFFIX BETWEEN '20200831' and '20200902'
+    _TABLE_SUFFIX = FORMAT_DATE('%Y%m%d',DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY))
+    --_TABLE_SUFFIX BETWEEN '20200422' and '20200916'
     AND hits.type = 'EVENT'
     AND REGEXP_CONTAINS(hits.eventInfo.eventAction, '^(Chatbot - COVID - Resource Link|Outbound Link)')
     AND REGEXP_CONTAINS(hits.page.pagePath, '^www.va.gov/coronavirus-chatbot.*')

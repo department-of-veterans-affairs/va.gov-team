@@ -1,6 +1,6 @@
 /***************************************************************************************************
 Name:               BQ - COVID Navigational Events by Date with Frequently Asked Question
-URL:                https://va-gov.domo.com/datasources/1bb613d8-8ebe-43be-9668-e30190e6595a/details/data/table
+URL:                  https://va-gov.domo.com/datasources/1bb613d8-8ebe-43be-9668-e30190e6595a/details/data/table
 Create Date:        2020-09-09
 Author:             Jon Wehausen
 Description:        This returns daily total and unique events for all navigational events within the frequently
@@ -35,7 +35,7 @@ FROM
   `vsp-analytics-and-insights.176188361.ga_sessions_*` AS t,
   UNNEST(t.hits) AS h
 WHERE 
-  _table_suffix BETWEEN '20200301' AND FORMAT_DATE('%Y%m%d',DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY))
+  _TABLE_SUFFIX = FORMAT_DATE('%Y%m%d',DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY))
   AND h.type = 'EVENT'
   AND h.eventInfo.eventLabel = 'nav-covid-link-click'
 GROUP BY 
