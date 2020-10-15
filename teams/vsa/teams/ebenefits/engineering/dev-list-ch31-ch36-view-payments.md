@@ -7,7 +7,7 @@ Based on mean velocities from the past 10 sprints or so, FE and BE should be com
 ❌ = No longer needed  
 ✔ = Done  
 🌀 = Collaboration cycle  
-🔽 = Lower priority
+🔽 = Lower priority  
 ⭐ = For stakeholder review 
 
 
@@ -55,13 +55,13 @@ Total = 49
 Total = 24  
 2 Sprints should be doable based on BE sprint average of: 21 points across 7 issues
 
-## View my VA payment history
+## View my VA payment history (No established deadline)
 ### Product
-- Request formal 508 audit (1)
-- Load TestRail (2)
-- Request QA Audit (1)
-- Staging Review (1)
-- Privacy and Security Audit (2)  
+- Request formal 508 audit (1)  
+- Load TestRail (2)  
+- Request QA Audit (1)  
+- Staging Review (1)  
+- Privacy and Security Audit (2)   
 Total = 7
 
 ### Frontend
