@@ -89,11 +89,6 @@ PRs related to Pacts will go through the standard [code review process](https://
 4. The provider (`vets-api`) runs a rake task to verify the pacts. This verification task replays the requests defined in the pacts against the provider (`vets-api`) and validates that the actual response matches the expected response.
 5. Results of the verification are published back to the broker.
 
-Builds depend on successful verification results to deploy.
-
-*Note: In future iterations of the VSP Pact Process, we plan to integrate the rake verification task into CircleCI as part of the build step.* 
-
-
 ![](https://i.imgur.com/zQMyDS0.png)
 
 ### Implementation details
@@ -104,19 +99,23 @@ Pact is language agnostic and has packages for both Node.js and Ruby, so both `v
 
 **Provider states** -- Allows the consumer to define a state in which the provider should be in when making making a request for response codes, data, etc. Provider states define the state of the provider and how it will handle a response given it's current state and the data that should exist.
 
-
 **Pact helper** - Pacts verified by the `pact:verify` task and configured in the `pact_helper.rb` file in your provider codebase. Currently, the `pact_helper` implements rspec and pact configurations as well as `git_sh`a and `git_branch tagging` for the consumer and provider in the broker. 
 
 #### Naming Conventions
 
-The purpose of contract testing is to ensure that the consumer and provider have a shared understanding of the messages that will pass between them. **To that end, we follow a policy of explicit or descriptive naming when defining interactions and provider states.** The goal is for developers to understand any interaction in a pact. 
+The purpose of contract testing is to ensure that the consumer and provider have a shared understanding of the messages that will pass between them. **To that end, we follow a policy of explicit or descriptive naming when defining interactions.** The goal is for developers to understand any interaction in a pact.
 
-Pacts involve a consumer and provider pair that are named from the pact tests written on the consumer side (in vets-website). When writing pact tests, follow these naming conventions:
+Pacts involve a consumer and provider pair that are named from the pact tests written on the consumer side (in vets-website). For these tests, **name the consumer and provider according to these conventions**:
 - The consumers are the apps in vets-website and should be named accordingly. Every app's `manifest.json` has an `appName` value that may be referenced as the consumer name, whether in full or in shorthand (as long as it's clear).
 - The provider is vets-api and should be named as "VA.gov API" in the pacts.
-- For example, [this pact in the broker](https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.gov%20API/consumer/Search/latest) describes the interactions between the Search app and VA.gov API.
 
-Provider states are namespaced also by pairings of consumer and provider. When defining states in vets-api, the provider in this context is always "VA.gov API", so sets of states are effectively namespaced per consumer using provider state files. A provider state file defines all the provider states used in the pact for a given consumer.
+There are some key attributes to consider the naming of when describing interactions: provider state, request description, consumer, and provider. 
+> Given `<provider state>`, upon receiving `<request description>` from `<consumer>`, with `request object` `<provider>` will respond with `<response object>`.
+> Given **at least one matching result exists**, upon receiving **a search query** from **Search**, with `<request>` **VA.gov API** will respond with `<response>`.
+
+- For example, [this pact in the broker](https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.gov%20API/consumer/Search/latest) describes the interactions between the *Search app* and *VA.gov API*.
+
+Provider states are also namespaced by these pairings of consumer and provider. The provider for our purposes is always "VA.gov API", so sets of states are effectively namespaced per consumer using provider state files in vets-api. A provider state file defines all the provider states used in the pact for a given consumer.
 - In vets-api, provider state files are located in `spec/services_consumers/provider_states` and named after the vets-website apps that are consumers vets-api.
 - For example, [the provider state file for search](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/provider_states_for/search.rb) has a state described as “at least one matching result exists”, which sets up the expected preconditions for any interaction that uses this state in the search pact.
 
@@ -138,7 +137,6 @@ If an adjustment needs to be made to a request/response defined in a pact, then 
 
 #### Communication and Interaction
 Once the BE engineer runs the pact verification task, possible adjustments to the expected requests and responses defined in the pact may be needed. BE and FE engineers will need to communicate pact request/response adjustments as necessary during the development process. Pact again is a collaborative effort and by no means does it amount to the development process being one sided. The development iterations should have equal efforts from the respective backend and frontend team members. 
-
 
 #### Response Types and Matching
 Pact contracts test response types and not all response permutations. For example, if a response attribute is expected to be a string, you don’t necessarily care about the exact value, but rather that the value is present and it’s particular type. Ex: “Test string 1”, vs “Test String 2”. Testing response types ensures that the provider actually does provide the response the consumer expects. Often times the request and response values are difficult to determine beforehand( ex: timestamps or ids) and this is where regular expressions come into play when determining types. See [pact matching documentation](https://docs.pact.io/implementation_guides/ruby/matching/)
