@@ -1,5 +1,28 @@
 # Samara's design feedback
 
+## Feedback 10.15.20
+
+**Name tag**
+
+We already discussed most of this:
+
+- Move link to profile back to the side nav.
+- Continue to iterate on color treatment, since white text on this shade of blue does not pass accessibility standards.
+
+**Health care overview**
+
+- Not that I want us to waste space, but this feels a little too close to the name tag area. I think we need a little more white space between them.
+
+**Lab and test results**
+
+- Can you move this below Secure messages?
+- This section is still not working at all. What else can we do here? Could we have a "You might also be interested in" section at the bottom of the page for links? Do we move this below secure messages and add some detail copy (heading > copy > CTA) to make this feel less weird? What else can you do with this link/CTA so it doesn't feel so random?
+
+**General**
+
+- Can we remove the divider lines between each section. I think we can just have the right amount of white space between sections to differentiate between them.
+
+
 ## Feedback 10.14.20 -- Afternoon feedback
 
 **Name tag**
