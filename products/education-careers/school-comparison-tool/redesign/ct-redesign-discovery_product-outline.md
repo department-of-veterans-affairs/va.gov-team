@@ -13,8 +13,20 @@
 ### How might we build a tool that will be more widely utilized by the target user?
  
 ## Desired User Outcomes
-- List of critical functionality for the user has been captured
+- Define & prioritize customers (primary, secondary with Veterans as primary)
+- List of critical functionality for the user has been captured. Consider the following: 
+   - Compare schools
+   - "logical searching" for schools
+   - Apply for benefits from the CT
+   - Geolocation/Mapping
+   - Record updates by verified School Official
+   - Could VA.gov app incorporate CT?
+   - Reporting features
+   - Most popular programs/degrees
+   - School-specific costs & data  (beyond tuition & housing)
 - The reasons why people use the tool is well understood
+   - Understand customer needs and requirements
+   - Understand government needs and requirements
 
 ## Undesired User Outcomes
 - A representative group of users is not included in the discovery effort
@@ -34,8 +46,17 @@
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-A tool that is more widely used by the target audience
-- A challenge with this approach might be the ability to differentiate the types of users who are visiting the site now. 
+Short-term: number of stakeholders engaged in the discovery effort, diversity of stakeholders involved
+Long-term: 
+- A tool that is more widely used by the target audience
+  - A challenge with this approach might be the ability to differentiate the types of users who are visiting the site now. 
+  - Potentially utilize direct user feedback on the tool (Medallia / Foresee)
+  - Increased utilization (Google Analytics)
+  - More use of GI Bill benefits
+  - Increased Yellow Ribbon usage
+  - # of users who apply after searching/from the GIBCT
+  - Increasing rates of those who attend schools found using the tool
+  - Fewer help desk calls/questions
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
