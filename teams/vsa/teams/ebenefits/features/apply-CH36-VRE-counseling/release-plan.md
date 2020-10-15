@@ -11,7 +11,7 @@ That's what this Release Plan Template is for!
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
-- Desired date range or test duration: October 13
+- Desired date range or test duration: Early January 2021
 - Desired number of users: 10
 - How you'll recruit the right production test users: Perigean
 - How you'll conduct the testing: Zoom
@@ -62,7 +62,7 @@ Other exceptions to this requirement can be approved by DEPO VSP leads.
 
 ### Planning
 
-- Desired date range: October 20
+- Desired date range: January 2021
 - How will you make the product available in production while limiting the number of users who can find/access it: Whitelist and feature toggle for unauthenticated access
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: Abandonment rate < 20% , Error rate < 5%, etc
 - Links to dashboard(s) showing "success criteria" metrics: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/README.md#kpis-okrs
