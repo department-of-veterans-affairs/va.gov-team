@@ -1,4 +1,4 @@
-# Overview | VA Mobile App Test Plan v0.1
+# Overview | VA Mobile App Test Plan
 
 A test plan is a documented approach to testing a software product. It is an agreement between the project developers, product managers and quality assurance on the process for testing and verifying the delivery of product functionality.
 
