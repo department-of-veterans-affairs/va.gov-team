@@ -64,7 +64,7 @@
    - Increased utilization (Google Analytics)
    - More use of GI Bill benefits
    - Increased Yellow Ribbon usage
-   - # of users who apply after searching/from the GIBCT
+   - Number of users who apply after searching/from the GIBCT
    - Increasing rates of those who attend schools found using the tool
    - Fewer help desk calls/questions
 
