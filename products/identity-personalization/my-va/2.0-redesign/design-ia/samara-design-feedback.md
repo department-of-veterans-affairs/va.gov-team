@@ -4,7 +4,7 @@
 
 **Name tag**
 
-We already discussed most of this:
+We already discussed both of these:
 
 - Move link to profile back to the side nav.
 - Continue to iterate on color treatment, since white text on this shade of blue does not pass accessibility standards.
@@ -20,7 +20,7 @@ We already discussed most of this:
 
 **General**
 
-- Can we remove the divider lines between each section. I think we can just have the right amount of white space between sections to differentiate between them.
+- Can we remove the divider lines between each section? I think we can just have the right amount of white space between sections to differentiate between them.
 
 
 ## Feedback 10.14.20 -- Afternoon feedback
