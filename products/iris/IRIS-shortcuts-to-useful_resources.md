@@ -1,5 +1,5 @@
 
-***IRIS shortcut to frequently used links***
+***IRIS shortcut to useful links
 
 **Invision prototype**
 
@@ -15,7 +15,7 @@
 **References**
 
 - [VA Design System](https://design.va.gov/)
-- [VA Design System in Invision](https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406903388) - has templates of the 
+- [VA Design System in Invision](https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406903388?browse) - has templates of the 
 VA design system for forms - if you want to see how pages look but don't want to hunt in design.va.gov
 - [VA Form label standards](https://design.va.gov/patterns/form-labels)
 - [VA Form Builder](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms)
