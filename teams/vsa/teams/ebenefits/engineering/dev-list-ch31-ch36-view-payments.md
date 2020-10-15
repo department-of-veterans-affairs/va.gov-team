@@ -7,7 +7,8 @@ Based on mean velocities from the past 10 sprints or so, FE and BE should be com
 ❌ = No longer needed  
 ✔ = Done  
 🌀 = Collaboration cycle  
-🔽 = lower priority
+🔽 = Lower priority
+⭐ = For stakeholder review 
 
 
 ### Product
@@ -102,9 +103,9 @@ Total = 7
 - [14918](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14918) Unit test the Veteran Address page  (3)
 - ✔[12034](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12034) Unit test Communication Preferences  (3)
 - [#12050](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12050) Unit test Additional Info page  (3)
-- [14910](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14910) Add schema to `vets-json-schema`  (5)
-- [14911](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14911) Unit test schema  (3)
-- [12471](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12471) Connect and test BE endpoint for CH31 (2)
+- [14910](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14910) Add schema to `vets-json-schema`  (5) ⭐
+- [14911](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14911) Unit test schema  (3) 
+- [12471](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12471) Connect and test BE endpoint for CH31 (2) ⭐
 - E2E auth & unauth (3)
 - Meet with GA team (1)
 - Implement event names from GA team (2)
