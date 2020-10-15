@@ -89,7 +89,7 @@ I'm going to send you a link in the chat.
 [Mobile Prototype](https://preview.uxpin.com/a15205c1bedcdfc8fe46fed26c22fa731cab8ae0cvhidm)<br/>
 [Desktop Prototype](https://preview.uxpin.com/e9e0dc597bb076e74db05f77d35306496a89fca2cvhidm)
 
-**Task: Pretend that you (your name in the prototype will be Hector Allen) just scheduled your annual physical exam with your primary care provider. To allow your care team to better meet your needs at the appointment, they are requesting you fill out a previsit questionnaire. Complete this questionnaire.**
+**Task: Pretend that you (your name in the prototype will be Hector Allen) just scheduled your annual physical exam with your primary care provider. When you booked it with the call center, you told them that you were having pain in your right knee. To allow your care team to better meet your needs at the appointment, they are requesting you fill out a previsit questionnaire. Complete this questionnaire. Fill it out like you would be filling out a for first form.**
 
 _Guide the user to fill in no more than two questions on the Prepare for Your Appointment page._
 _Only give additional direction if the Veteran gets stuck completing the task._<br/>
@@ -141,6 +141,7 @@ _Tell the Veteran before asking questions on this page._ This is the first versi
         - Is it what you were expecting or not expecting?
 - Is there any other information we should include here? Anything about what to bring to your appointment or how to contact?
 - Where would you like to navigate to next after completing this form? (You can select more than one or none of the following options.)
+_Pause to let them answer, then provide options._
     - A list of your upcoming appointments
     - A list of other questionnaires that you need to complete
     - VA.gov home page
@@ -148,6 +149,7 @@ _Tell the Veteran before asking questions on this page._ This is the first versi
 
 ## Follow-up Questions - 5 minutes
 - Where on va.gov would you expect all of your healthcare questionnaires to live?
+_Pause to let them answer, then provide options._
     - Within a "Manage your healthcare benefits" section
     - Within a "More healthcare resources" section
     - Within a "VA healthcare appointments" section
@@ -156,6 +158,7 @@ _Tell the Veteran before asking questions on this page._ This is the first versi
 - Would you fill out this questionnaire? 
 - Would you fill it out on a desktop or phone?
 - When would you fill out this questionnaire?
+_Pause to let them answer, then provide options._
     - The day before my appointment
     - 2-3 days before my appointment
     - A week before my appointment
@@ -163,6 +166,7 @@ _Tell the Veteran before asking questions on this page._ This is the first versi
     - A month before my appointment
     - Other:
 - How would you have liked to receive a notification that you had this questionnaire to complete? (You can select more than one or none of the following options.)
+_Pause to let them answer, then provide options._
     - text message
     - email
     - just visiting VA.gov and seeing it on the website.
