@@ -3,11 +3,11 @@
 ##### 10/7 - 10/20
 
 ## Frontend
-- [Save in progress bug](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12311)
-- [Statement of truth checkboxes](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14697)
-- [Downtime setup discovery/tickets](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/downtime-notifications/)
-- [10-10CG QA Fixes](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14054)
-- [Stretch: front-end/back-end not validating errors (client failures)](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14696)
+- [x] [Save in progress bug](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12311)
+- [ ] [Statement of truth checkboxes](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14697)
+- [x] [Downtime setup discovery/tickets](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/downtime-notifications/)
+- [ ] [10-10CG QA Fixes](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14054)
+- [ ] [Stretch: front-end/back-end not validating errors (client failures)](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14696)
 
 ## Backend
 - Statement of truth checkboxes [backend](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14702) & [schema](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14701)
