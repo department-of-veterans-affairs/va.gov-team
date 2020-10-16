@@ -56,13 +56,18 @@
 ## Participants and Recruitment	
 
 1. Participant criteria: What are you looking for in a participant?	  
-   We'd like to speak to 5-8 Veterans who have experience with education benefits, or are planning on applying for education benefits in the next 3 months.  
 
-   Please recruit 10-16 Veterans to account for no-shows; we'll cancel rem
+   - We'd like to speak to 6-8 Veterans who have experience with education benefits, or are planning on applying for education benefits in the next 3 months.  
+
+   - We'd like for 3-4 participants to complete the session on a smart phone, and 3-4 participants to complete the session on a desktop device.
+
+   - Please recruit 12-16 Veterans to account for no-shows; we'll cancel remaining participants once we hit our quota.
 
    **Primary criteria / Must have**
 
    - Veterans who have applied for education benefits in the last 12 months, or are planning on applying for education benefits within the next 3 months. 
+   - 50% participants must be able to participate on a desktop/laptop
+   - 50% participants must be able to participant on a smart phone (iPhone, Galaxy, etc)
 
    - For this session, we are unable to include:
      -  Those who use assistive technology, such as screen readers (JAWS, NVDA, VoiceOver, and ChromeVox).
@@ -83,46 +88,44 @@
 ## When? 	
 
 1. Timeline: What dates do you plan to do research? 	
-   TBD	
+   October 27-29	
 
 2. Prepare: When will the thing you are testing be ready?
 
-   TBD
+   October 23
 
 3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) 
 
    Sessions will be 30-45 minutes; please allow 15 minutes between each session
 
-4. Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
+4. Availability:
 
-   TBD
+   Please include both Liz and Christian on all emails; we'll be splitting up facilitation duties
+
+   - October 27: 7am - 9pm EST
+   - October 28: 7am - 3pm EST, 4:30 - 9pm EST
+   - October 29: 7am - 9pm EST
 
 5. Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
 
-   TBD
+   October 26, team member TBD
 
 ## Team Roles	
 
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
+Please list the people who will be serving in each role. 
 
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator): Liz Lantz
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:	
-- Note-takers:	
-- Observers:	
+- **Moderator:** Liz Lantz (843-898-4463, liz.lantz@adhocteam.us) and Christian Valla (cvalla@governmentcio.com)
+- Research guide writing and task development (usually but not always same as moderator): Liz Lantz and Christian Valla
+- Participant recruiting & screening: Perigean
+- Project point of contact: Liz Lantz
+- Participant(s) for pilot test:	TBD
+- Note-takers:	TBD
+- Observers:	TBD
 
 ## Resources	
 
-- Project Brief: 	
-  *Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
-- Convo Guide	
-  *Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
-- Synthesis	
-  *Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
-- Lessons Learned	
-  *Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.* 	
-- Read-Out/Results	
-  - *Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.* 	
-  - ** Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md](
+- [Product epic](https://app.zenhub.com/workspaces/vsa-5dcabe208aade000013aafba/issues/department-of-veterans-affairs/va.gov-team/9665)
+- Convo Guide - to come
+- Synthesis - to come	
+- Lessons Learned - to come		
+- Read-Out/Results - to come	
