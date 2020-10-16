@@ -4,13 +4,13 @@
 | TEAM                | BAM 1                             | BAM 1                     | BAM 2                   |  eBenefits                                       |
 | -------------       | -------------                     | -------------             | -------------           | -------------                                    |
 | Product             | Disability (526)                  | HLR                       | Education (1990, STEM)  | Personalized Care & Planning Guidance (Ch 36/31) |
-| Product Leads       | John H,Luke Wajewski              | Matt Self, Leah Keeler    |                         | Jason Wolf           
-| Wizard UX Spec (via Prototype) | Done                   | Done                      | Done                    | TBD
-| Wizard User Test (via Prototype)| In progress           | In progress               | In progress             | Done 
+| Product Leads       | Hashimoto/Self/Majewski           | Hashimoto/Self/Majewski   | Self/Keeler             | Jason Wolf           
+| Wizard UX Spec (via Prototype) | Done                   | Done                      | Done                    | In Progress (Jim)
+| Wizard User Test (via Prototype)| In progress           | In progress               | In progress             | N/A
 | Wizard Development  |On hold pending usability          | On hold pending usability | N/A                     | TBD
 | Wizard Staging Review/Q-A | TBD                         | TBD                       | N/A                     | TBD
 | PW Entry Points     | TBD                               | TBD                       | N/A                     | TBD
-| Launch Date         | November                          | November                  | November?                     | Launch of app delayed
+| Launch Date         | November                          | November                  | November?               | Launch of app delayed
 
 
 ## Reference Links
