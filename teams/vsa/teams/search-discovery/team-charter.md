@@ -34,6 +34,7 @@ Unauthenticated Experience for VA.gov
 
 ### Roadmap:
 
+- [Phase One plan (May-Dec 2020)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/search/phase_one.md)
 
 ---
 
