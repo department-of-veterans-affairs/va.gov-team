@@ -3,11 +3,11 @@
 
 | TEAM                | BAM 1                             | BAM 2                     | Booz-Allen             |  eBenefits                                       |
 | -------------       | -------------                     | -------------             | -------------          | -------------                                    |
-| Product             | Disability (526),   HLR (20-0996) | Education (1990, etc.)    | Rogers STEM (22-10203) | Personalized Care & Planning Guidance (Ch 36/31) |
-| Product Leads       | Matt Self, Luke Wajewski          | Matt Self, Leah Keeler    | Amy Knox               | Jason Wolf           
-| Wizard UX Spec (via Prototype)| Done                   | TBD                       | N/A                    | TBD
-| Wizard User Test (via Prototype)| In progress            | In progress               | N/A                    | Done 
-| Wizard Development    | In progress                     | In progress               | N/A                    | TBD
+| Product             | Disability (526), HLR (20-0996) | Education (1990, etc.)    | Rogers STEM (22-10203) | Personalized Care & Planning Guidance (Ch 36/31) |
+| Product Leads       | John H.,Luke Wajewski          | Matt Self, Leah Keeler    | Amy Knox               | Jason Wolf           
+| Wizard UX Spec (via Prototype)| Done                   | TBD                        | N/A                    | TBD
+| Wizard User Test (via Prototype)| In progress           | In progress               | N/A                    | Done 
+| Wizard Development    |On hold pending usability        | On hold pending usability | N/A                    | TBD
 | Wizard Staging Review/Q-A | TBD                         | TBD                       | N/A                    | TBD
 | Wizard Launch Date    | TBD                             | TBD                       | N/A                    | Launch of app delayed
 
