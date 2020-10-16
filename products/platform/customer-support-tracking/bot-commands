@@ -15,5 +15,3 @@
 - '@Support add link <anything no set format >'  => add a link to the tracked thread
 - '@Support list links' => list the links added to this thread
 - '@Support remove link' => remove a link from this thread
-
-
