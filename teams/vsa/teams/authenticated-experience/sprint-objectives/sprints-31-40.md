@@ -134,11 +134,21 @@ For every project, this sprint includes all outstanding tickets from sprint 32, 
 
 ### Logged-in homepage
 
+**PM**
+
+Create tickets for claims section. These are the tickets:
+
+- 
+
 **Design**
 
-- Finish health care section
-- Finish nametag design
-- Have a discussion with whoever owns the navigation/IA
+- My VA Overview section
+- Meet with the following folks re: general My VA questions OR health care section. **Ideally, these are as soon as possible**
+  - IA (Talk about nav/bread crumb treatment; On page navigation) — Schedule for week of October 26 (Meg is out next week)
+  - Design system council (Review new health care patterns)
+  - Accessibility (Review new health care patterns)
+  - Content (copy in the health care section)
+  - VAOS (to make sure appointment details are correct)
 
 ### Direct deposit for Edu
 
