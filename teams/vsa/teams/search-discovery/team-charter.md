@@ -1,4 +1,4 @@
-# Public Websites Charter
+# Search & Discovery Charter
 
 ---
 
