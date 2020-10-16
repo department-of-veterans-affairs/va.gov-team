@@ -33,7 +33,8 @@ Let’s start with a few warm-up questions.
  - Have you ever used the GI Bill Comparison Tool before? 
     - If yes, what did you use it for?
     
-  
+**As a disclaimer, we will be looking at ratings data for several schools.  This data is fabricated and does not represent the actual thoughts or experiences of Veterans. **
+
 ## First Task: Feedback on School Cards - 5 minutes
 
 Let's say you've done your research and you're interested in attending **University of California-San Francisco**.  How would you go about finding **University of California-San Francisco** on the Comparison Tool?  When you find what you're looking for, you can say "I found it".
@@ -79,33 +80,7 @@ Research questions:
 - Are there any aspects of the ratings design that users find confusing?
 - Do users think the ratings are useful?
 
- 
- ## Third Task - Compare Campuses - 15 minutes (Alternate to Fourth Task)
- 
-Let's say that you've done more research and **University of California-Berkeley** also looks like a good option for you.  Both **San Francisco** and **Berkeley** have the program you're interested in and if you decide to take classes in person, both schools would have a similar commute. How would you use the Comparison Tool to figure out which campus would be a better fit for you?
-
-_Potential prompt_ You're strongly considering taking classes online.
-
-Things to watch for:
-- How does the user compare schools (look at them one at a time, open multiple tabs, etc.)?
-
-Upon completion of task:
-- How did you think that went? 
-- What do you think of the schools now that you've seen the ratings?
-- Which school would be a better fit?  Why?
-
-Research questions:
-- Are users interested in the different rating categories or just the overall score?
-- Which categories are valuable to users?  Are there any categories that aren't valuable?  Are there any additional categories they would like to see?
-- What do users think the different categories mean?
-- How do users think the rating scores are determined (average of submitted scores, calculated value, etc.)?
-- How trustworthy are the ratings?
-- How do users think ratings are collected?
-- What level of privacy do users expect if they would provide a rating?
-- Do users think the ratings are useful?
-
-
- ## Fourth Task - Comparing Prestigious Schools - 15 minutes (Alternate to Third Task)
+ ## Third Task - Comparing Prestigious Schools - 15 minutes
  
 Let's say you are considering attending either **Stanford University** or **Dartmouth College**. Both schools have the program you're interested in and you plan on moving to an apartment close to the school you attend.  Walk me through how you'd use the Comparison Tool to help you decide which school you'd attend.
  
