@@ -16,7 +16,7 @@ Some non-goals are:
 - Bug fixes to the forms library
 - Adding new features to the forms library
 - Refactoring the forms library beyond what is required to group the existing code together in the same package
-- Establishing a separate build & publish pipeline for the forms library (yet)
+- Publishing the forms library (yet)
 
 The intended audience for this document is VSP and VFS frontend engineers.
 
@@ -97,6 +97,13 @@ This will involve some temporary configuration changes so that app code is still
 Moving all of this code to a new directory will leave "trailing ends", a.k.a.  relative imports from directories outside of the package root (`src/platform/monitoring`, etc).
 We will work towards eliminating these kinds of out-of-package imports.
 
+The new forms library package will also have its own webpack & mocha configuration and can be built separately from the rest of the site. CI builds will always build the forms library, since caching previous builds would add some unwanted complexity.
+Unit tests for the forms library _won't_ be run along with all the other tests in each CI build.
+
+- The `vets-website` repo will be configured so that any changes to `src/platform/packages/forms-library` must pass a required check in CircleCI which will run all of the forms library tests
+- Forms library unit tests won't be run in PRs where only application code is being changed
+- This forms library-specific build process will happen so that engineers will _not_ be committing the built `/dist` folder to git
+
 Now that the forms library is actually a package, app code will be updated to import from it directly.
 
 ### Code Location
@@ -134,7 +141,9 @@ N/A
 
 ### Open Questions and Risks
 
-Do we want to separate the forms library build & testing stages from the main `vets-website` build? By easing the load of what webpack and mocha are doing, we could speed things up. The downside is that since we wouldn't be running the forms library tests with every merge into master, we would have to have some other automation in place to make sure that any changes to `src/platform/packages/forms-library` passes the forms library tests.
+#### Do we want to run forms library unit tests on each CI build+deploy
+
+The current plan is to run forms library unit tests each time the forms library source is changed. Would we gain any additional protection by also running these on each deploy?
 
 ### Work Estimates
 
@@ -178,6 +187,15 @@ The [Platform Entanglement](#platform-entanglement) section mentions that forms 
 - Remove forms library dependence on platform re-implementations of 3rd party functions, like lodash's `get` and `set`. Use the forms library implementations where possible.
 - Remove imports for `src/platform/utilities/environment` and instead rely on global `const`s from webpack's DefinePlugin for environment-related `const`s (i.e. an api url) or branching
 
+#### Package configuration
+
+**Estimate:** 3-5 days
+
+This is separate from updating the imports. We want the forms library not to depend on the "global" webpack & mocha configuration for `vets-website`, so we will add appropriate config files so that it can be built and tested as a standalone package.
+
+- CircleCI config to run forms library unit test on forms library changes
+- `vets-website` changes to config/scripts to prevent the forms library from getting build & tested as part of each PR
+
 
 #### Final touches (updating app code)
 
@@ -204,8 +222,6 @@ This _may_ be a path for the future.
 
 Another reason why we don't want to do this right now is that we would lost the advantage of the ESLint configuration that is part of `vets-website`.
 Once this configuration is published we will be able to import it into any repo, and at that point it may make sense to move the forms library out of `vets-website`.
-
-Another alternative would be to move the forms library build out of the overall `vets-website` build. One advantage of this would be saving time, since the forms library could be built once and then all apps could use the cached version. However, on my machine a webpack build takes about 30 seconds, so shaving a few seconds off of this time will not be a huge benefit compared to how long it takes to do a full build with content. The downside of this would be added complexity for managing which forms library build to use (i.e. production, localhost, staging), and CI builds would either have to increase pipeline complexity by dealing with cached builds or lose the time savings altogether. This increase in complexity for marginal time savings does not seem worth it.
 
 ### Future Work
 
