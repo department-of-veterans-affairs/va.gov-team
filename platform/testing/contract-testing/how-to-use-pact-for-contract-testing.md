@@ -103,7 +103,7 @@ The process is a collaborative effort where front-end (FE) and back-end (BE) eng
 6. If verification has failed for any pact, FE engineers should discuss with BE engineers to resolve the failure.
    **The branch should not be merged until the `can-i-deploy` task is successful.**
    FE should adjust the pact or BE should update provider states or API responses to accommodate the pact.
-   If the resolution only involves BE changes, wait for tohse changes to get merged and re-run the vets-website CI pipeline.
+   If the resolution only involves BE changes, wait for those changes to get merged and re-run the vets-website CI pipeline.
 
 #### Back-end workflow
 
@@ -116,7 +116,7 @@ The process is a collaborative effort where front-end (FE) and back-end (BE) eng
 
 ![](https://i.imgur.com/zQMyDS0.png)
 
-#### Naming Conventions
+### Naming Conventions
 
 The purpose of contract testing is to ensure that the consumer and provider have a shared understanding of the messages that will pass between them. **To that end, we follow a policy of explicit or descriptive naming when defining interactions.** The goal is for developers to understand any interaction in a pact.
 
@@ -132,11 +132,11 @@ When defining interactions, it's important to consider how you name these key at
 - Interactions are first defined in the Pact tests written in vets-website, where all of these attributes must be provided.
 - Of these attributes, the provider states and consumer name must match when handling the provider states in vets-api.
 
-The consumer and provider should be named by these conventions:
+The **consumer** and **provider** should be named by these conventions:
 - The consumers are the apps in vets-website and should be named accordingly. Every app's `manifest.json` has an `appName` value that may be referenced as the consumer name, whether in full or in shorthand (as long as it's clear).
 - The provider is vets-api and should be named as "VA.gov API" in the pacts.
 
-Provider states are namespaced per contract between a consumer and provider pair.
+**Provider states** are namespaced per contract between a consumer and provider pair.
 - You may use the same provider state across multiple interactions within the same contract when writing Pact tests in vets-website.
   - However, be aware that states sharing the same name will all be handled the same way in vets-api.
   - Name states uniquely if there are even any minor differences in how their setup and teardown are handled during verification.
@@ -148,12 +148,12 @@ Provider states are namespaced per contract between a consumer and provider pair
   - From the Search pact, "at least one matching result exists" is set up the same way if used in multiple interactions. If you need a state that is more specific, you might have another one called "exactly one matching result exists", for example.
   - There won't be any name collisions between different contracts that use the same names for their provider states. If an app other than Search used a state with the same value, "at least one matching result exists", it would be handled differently in its own provider state file.
 
-Request descriptions are namespaced by provider states within a contract.
+**Request descriptions** are namespaced by provider states within a contract.
 - You may use the same request description across multiple interactions *only if* each of those interactions use different provider states.
 - The request description without any provider state is also another unique interaction.
 - Examples:
   - Recall that the Search pact has a request described as "a search query".
-  - In the Search pact, the request described as "a search query" could be paired with the state "at least one matching result exists" in one interaction and paired with the state "no matching resulst exist" in another interaction. Furthermore, the same request description can be used without any provider states to form another unique interaction.
+  - In the Search pact, the request described as "a search query" could be paired with the state "at least one matching result exists" in one interaction and paired with the state "no matching results exist" in another interaction. Furthermore, the same request description can be used without any provider states to form another unique interaction.
   - There won't be any name collision if Search and another app happen to use "a search query", whether both use the same state description or not.
 
 #### Response Types and Matching
