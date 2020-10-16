@@ -33,10 +33,7 @@
    - The skip and start over links will be missed by some people, but those who are interested on those actions will easily be able to find it.
    - People will be able to complete the wizard flows on desktop and mobile with the same level of ease.
    - People will think the intro/step-list page is overwhelming.
-
---JH suggestion/s--
-
-  - People will feel more confident about completing the online benefit application because the wizard indicates they may be eligible
+   - People will feel more confident about completing the online benefit application because the wizard indicates they may be eligible.
 
 ## Method	
 
