@@ -7,13 +7,13 @@
 
 **Categories**
 
-- '@Support add category <anything including spaces>' => add a category to the tracked thread
-- '@Support list categories' => list the categories added to this thread
+- '@Support add category <anything including spaces>' => add a category to the tracked thread.
+- '@Support list categories' => list the categories added to this tracked thread.
 
 **Links**
 
-- '@Support add link <anything no set format >'  => add a link to the tracked thread
-- '@Support list links' => list the links added to this thread
-- '@Support remove link' => remove a link from this thread
+- '@Support add link <anything no set format >'  => add a link to the tracked thread.
+- '@Support list links' => list the links added to this tracked thread.
+- '@Support remove link' => remove a link from this tracked thread.
 
 
