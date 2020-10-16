@@ -136,9 +136,7 @@ For every project, this sprint includes all outstanding tickets from sprint 32, 
 
 **PM**
 
-Create tickets for claims section. These are the tickets:
-
-- 
+Create ticket for create of claims section. We only need one ticket for the whole section. [Here are the tech specs](https://docs.google.com/spreadsheets/d/1fO3VxUj8U2M268GnpmNmlL8Jdl8E1as33SzuwoTneV8/edit#gid=312700153).
 
 **Design**
 
