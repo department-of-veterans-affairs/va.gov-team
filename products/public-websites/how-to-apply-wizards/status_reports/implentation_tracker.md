@@ -7,7 +7,7 @@
 | Product Leads       | Hashimoto/Self/Majewski           | Hashimoto/Self/Majewski   | Self/Keeler             | Jason Wolf           
 | Wizard UX Spec (via Prototype) | Done                   | Done                      | Done                    | In Progress (Jim)
 | Wizard User Test (via Prototype)| In progress           | In progress               | In progress             | N/A
-| Wizard Development  |On hold pending usability          | On hold pending usability | N/A                     | TBD
+| Wizard Development  |On hold pending usability          | On hold pending usability | On hold pending usability                     | TBD
 | Wizard Staging Review/Q-A | TBD                         | TBD                       | N/A                     | TBD
 | PW Entry Points     | TBD                               | TBD                       | N/A                     | TBD
 | Launch Date         | November                          | November                  | November?               | Launch of app delayed
