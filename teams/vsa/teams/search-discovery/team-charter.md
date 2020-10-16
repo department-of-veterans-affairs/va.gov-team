@@ -20,12 +20,13 @@ TBD
 Unauthenticated Experience for VA.gov
 
 ### Product Portfolio:
--	Global on-site search 
--	On-site search utilities/wizards (e.g. Find a Form, Yellow Ribbon Program, Learning Center)
--	Site Map
-- Structured Data
-- Optimization for Off-site search (Google, Bing)
-
+-	[On-site search](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/onsite-search):
+  - Search features, including Type-Ahead, Collections, Click-tracking, etc. 
+  - On-site search utilities/wizards (e.g. Find a Form, Yellow Ribbon Program, Learning Center)
+  - Site Map
+  - Structured Data
+  
+- [Off-site search](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/offsite-search)
 
 
 ### Responsibilities (Problem space and user goals):
