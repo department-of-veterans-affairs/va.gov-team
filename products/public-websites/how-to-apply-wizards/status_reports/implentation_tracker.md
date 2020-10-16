@@ -8,8 +8,8 @@
 | Wizard UX Spec (via Prototype) | Done                   | Done                      | Done                    | In Progress (Jim)
 | Wizard User Test (via Prototype)| In progress           | In progress               | In progress             | N/A
 | Wizard Development  |50% Complete/Hold                  | 50% Complete/Hold         | 50% Complete/Hold       | TBD
-| Wizard Staging Review/Q-A | TBD                         | TBD                       | N/A                     | TBD
-| PW Entry Points     | TBD                               | TBD                       | N/A                     | TBD
+| Wizard Staging Review/Q-A | TBD                         | TBD                       | TBD                     | TBD
+| PW Entry Points     | TBD                               | TBD                       | TBD                     | TBD
 | Launch Date         | November                          | November                  | November?               | Launch delayed
 
 
