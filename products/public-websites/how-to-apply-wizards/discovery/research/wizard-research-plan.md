@@ -24,12 +24,21 @@
    - When do users want to go back to the wizard?
    - There may be other small, content PW website questions to tack on to this research (Peggy will check with Danielle / Peggy)
 
+--JH suggestion/s--
+
+  - Do people understand the wizard questions?
+  - Are people confident they are applying for the right benefit after they take the wizard?
+
 4. Hypothesis: What is your hypothesis for this research? 	
 
    - People will understand the wizard outcomes, and where they're being routed to.
    - The skip and start over links will be missed by some people, but those who are interested on those actions will easily be able to find it.
    - People will be able to complete the wizard flows on desktop and mobile with the same level of ease.
    - People will think the intro/step-list page is overwhelming.
+   
+--JH suggestion/s--
+
+  - People will feel more confident about their filling out the benefit application because the wizard indicates they are eligible
 
 ## Method	
 
