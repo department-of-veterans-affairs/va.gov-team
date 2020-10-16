@@ -1,26 +1,28 @@
 ### How to Apply Wizards: Implementation Tracker
 
 
-| TEAM                | BAM 1                             | BAM 2                     | BAM 1             |  eBenefits                                       |
-| -------------       | -------------                     | -------------             | -------------          | -------------                                    |
-| Product             | Disability (526), HLR (20-0996) | Education (1990, Rogers etc.)    |HLR | Personalized Care & Planning Guidance (Ch 36/31) |
-| Product Leads       | John H.,Luke Wajewski          | Matt Self, Leah Keeler    | Amy Knox               | Jason Wolf           
-| Wizard UX Spec (via Prototype)| Done                   | Done                        | N/A                    | TBD
-| Wizard User Test (via Prototype)| In progress           | In progress               | N/A                    | Done 
-| Wizard Development    |On hold pending usability        | On hold pending usability | N/A                    | TBD
-| Wizard Staging Review/Q-A | TBD                         | TBD                       | N/A                    | TBD
-| PW Entry Points       | TBD                             | TBD                       | N/A                    | TBD
-| Wizard Launch Date    | TBD                             | TBD                       | N/A                    | Launch of app delayed
+| TEAM                | BAM 1                             | BAM 1                     | BAM 2                   |  eBenefits                                       |
+| -------------       | -------------                     | -------------             | -------------           | -------------                                    |
+| Product             | Disability (526)                  | HLR                       | Education (1990, STEM)  | Personalized Care & Planning Guidance (Ch 36/31) |
+| Product Leads       | John H,Luke Wajewski              | Matt Self, Leah Keeler    |                         | Jason Wolf           
+| Wizard UX Spec (via Prototype) | Done                   | Done                      | Done                    | TBD
+| Wizard User Test (via Prototype)| In progress           | In progress               | In progress             | Done 
+| Wizard Development  |On hold pending usability          | On hold pending usability | N/A                     | TBD
+| Wizard Staging Review/Q-A | TBD                         | TBD                       | N/A                     | TBD
+| PW Entry Points     | TBD                               | TBD                       | N/A                     | TBD
+| Launch Date         | November                          | November                  | November?                     | Launch of app delayed
 
 
 ## Reference Links
 
 - Disability ([on Staging](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction))
+  - Wizard prototype - https://preview.uxpin.com/e8c5c39f8978d9c1a3f9bd200db25376170a6860#/pages/133183067/simulate/sitemap?mode=i
 - HLR (application almost ready, but Wizard dev has not yet started.)
   - Staging URL will be https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction
   - Wizard prototype (Invision) is https://vsateams.invisionapp.com/share/W5U21BDFTQK#/screens/430329538
   - Wizard dev ticket is https://github.com/department-of-veterans-affairs/va.gov-team/issues/12925
 - Education ([on Staging](https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction))
+  - Wizard prototype - https://preview.uxpin.com/ca08f3dbf63475b2b62f3e8c00050ad1b19c4cb5#/pages/133085100/simulate/sitemap?mode=i
   - Rogers STEM ([is live on VA.gov](https://www.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction))
 - Personalized Care & Planning Guidance (Chapter 36) ([new Wizard prototype](https://preview.uxpin.com/2dbde8d15bf667f5c584fe4a8a6d011cf9f0a14d#/pages/132088565/simulate/sitemap))
 
