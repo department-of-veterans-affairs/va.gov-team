@@ -40,7 +40,7 @@ Additionally, the forms library code is entangled with other platform code as we
 #### Application entanglement
 
 We have several examples of the forms library importing application code, which is the opposite of what should happen.
-The forms library is meant to be a library that is used _by_ applications. Having certain parts of applications import forms library code while the forms library also imports application code leads multiple problems and blurs the lines of responsibility.
+The forms library is meant to be a library that is used _by_ applications. Having certain parts of applications import forms library code while the forms library also imports application code leads to multiple problems and blurs the lines of responsibility.
 
 [This definition file](https://github.com/department-of-veterans-affairs/vets-website/blob/720a867817f5b83bd1d713bd51202863b41739b1/src/platform/forms/definitions/nonMilitaryJobs.js#L1) in the forms library imports some app code, yet the file itself is _only_ used in other app code.
 
@@ -91,10 +91,10 @@ The only application code changes will be updating the where forms library code 
 
 The VSP Design System team will make several changes that will result in a packaged forms library.
 
-First, there will be some prep work to make it easier to bundle all of the forms library code into a single location. After this, the code can be consolidated into a single directory: `src/platform/packages/forms-library`. This is where the package will be created.
+First, there will be some prep work to make it easier to bundle all of the forms library code into a single location. After this, the code can be consolidated into a single directory: `src/platform/packages/forms-library`. This is where the package will live.
 This will involve some temporary configuration changes so that app code is still able to import the code from the new location using the old import paths. These temporary measures will be removed once the forms library is properly packaged and all apps have been updated to import from it directly.
 
-Moving all of this code to a new directory will leave "trailing ends", a.k.a.  relative imports from directories outside of the package root (`src/platform/monitoring`, etc).
+Moving all of this code to a new directory will leave "trailing ends" - relative imports from directories outside of the package root (`src/platform/monitoring`, etc).
 We will work towards eliminating these kinds of out-of-package imports.
 
 The new forms library package will also have its own webpack & mocha configuration and can be built separately from the rest of the site. CI builds will always build the forms library, since caching previous builds would add some unwanted complexity.
@@ -104,12 +104,12 @@ Unit tests for the forms library _won't_ be run along with all the other tests i
 - Forms library unit tests won't be run in PRs where only application code is being changed
 - This forms library-specific build process will happen so that engineers will _not_ be committing the built `/dist` folder to git
 
-Now that the forms library is actually a package, app code will be updated to import from it directly.
+Once the forms library is actually a package, app code will be updated to import from it directly.
 
 ### Code Location
 
 The forms library package will live in `src/platform/packages/forms-library`.
-Since it will be a Node package, it will be added to the `package.json` file and apps will import it as a regular Node package instead of by its direct path.
+Since it will be a Node package, it will be added to the `package.json` file and apps will import it as a regular Node package instead of by its path in the repo.
 
 ### Testing Plan
 
@@ -117,7 +117,7 @@ We have an ESLint rule (`import/no-unresolved-modules`) in place which can verif
 Additionally, many of the end-to-end tests will fail if the forms library is not imported properly, so they will help with awareness.
 
 We don't have any automation in place to validate that the right SASS files are imported (other than webpack failing to resolve the file), so testing that forms styling is working properly will be a manual process using the browser dev tools.
-
+Visual Regression Testing would help automate this process if it were in place.
 ### Logging
 
 N/A
@@ -129,7 +129,7 @@ Since this project isn't about changing functionality of the forms library, we d
 ### Caveats
 
 Though we will be creating a package for the forms library, we will not be following semantic versioning since it is _just_ a package and not a published module.
-The additional overhead of updating the forms-library's `package.json` file and updating the `yarn.lock` file in `vets-website` to target the newest (but unpublished) version seems like a burden without much benefit.
+The additional overhead of updating the forms-library's `package.json` file and updating the `yarn.lock` file in `vets-website` to target the newest (but unpublished) version would be a burden without much benefit.
 
 ### Security Concerns
 
@@ -163,11 +163,11 @@ Note: These estimates do not account for extensive support requests
 1. Copy what remains from `forms` into `forms-system`
 1. Create `platform/packages/forms-library` and move the contents of `platform/forms-system` into it
 1. Add a `package.json` file to the new `forms-library` package directory
-  - Any dependencies that are exclusively used by the forms library will go in here, and a `yarn install` from the `vets-website` root will install them.
-  - Shared dependencies (like `react` and `react-redux`) will be configured to be [peer dependencies](https://flaviocopes.com/npm-peer-dependencies/)
+    - Any dependencies that are exclusively used by the forms library will go in here, and a `yarn install` from the `vets-website` root will install them.
+    - Shared dependencies (like `react` and `react-redux`) will be configured to be [peer dependencies](https://flaviocopes.com/npm-peer-dependencies/)
 1. [Add a temporary alias to the `.babelrc` file](https://github.com/department-of-veterans-affairs/vets-website/blob/055d96c54e1df54138b9efc589b98e55962333b3/.babelrc#L50-L55) that redirects imports from `platform/forms` and `platform/forms-system` to the new package
 1. Edit the webpack config & use a custom `sass-loader` importer to _temporarily_ rewrite imports from `forms` to `forms-system`
-  - This will prevent webpack from failing when it can't resolve the `.scss` files
+    - This will prevent webpack from failing when it can't resolve the `.scss` files
 1. Fix broken relative imports
 1. Add babel configuration to the new package because according to [Babel's docs](https://babeljs.io/docs/en/config-files):
     > Searching [for a config] will stop once a directory containing a `package.json` is found, so a relative config only applies within a single package
