@@ -888,4 +888,4 @@ They like to keep things simple, they like to use a kiss method. And that's what
 Unknown 39:48
 Well thank you, I appreciate that. All right, well we're pretty much at time then, and I really appreciate you, bearing with us all the technical difficulties that we run into. And I'll say it out So Rob to this one Julian. So,
 
-Transcribed by https://otter.ai
+---
