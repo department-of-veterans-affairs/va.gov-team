@@ -155,12 +155,6 @@ A pact must define the **consumer** and **provider** and should name them by the
   - In the Search pact, the request described as "a search query" could be paired with the state "at least one matching result exists" in one interaction and paired with the state "no matching results exist" in another interaction. Furthermore, the same request description can be used without any provider states to form another unique interaction.
   - There won't be any name collision if Search and another app happen to use "a search query", whether both use the same state description or not.
 
-#### Response Types and Matching
-Pact contracts test response types and not all response permutations. For example, if a response attribute is expected to be a string, you don’t necessarily care about the exact value, but rather that the value is present and it’s particular type. Ex: “Test string 1”, vs “Test String 2”. Testing response types ensures that the provider actually does provide the response the consumer expects. Often times the request and response values are difficult to determine beforehand( ex: timestamps or ids) and this is where regular expressions come into play when determining types. See [pact matching documentation](https://docs.pact.io/implementation_guides/ruby/matching/)
-
-It’s important to remember that pact contract testing is not functional testing.  Contract tests focus on the messages that flow between a consumer and provider, while functional tests ensure that the correct side effects have occured as well. When writing a test for an interaction, ask yourself what you are trying to cover. The goal here is not to create unnecessarily tight contracts and dig into the business logic, but rather verify that Consumers and Providers have a shared understanding of what requests and responses should be.
-
-
 ## Configuring the `vets-website` consumer codebase
 
 ### Running contract tests
@@ -285,6 +279,10 @@ const interaction = {
 }
 ```
 
+It’s important to remember that pact contract testing is not functional testing. Contract tests focus on the messages that flow between a consumer and provider, while functional tests ensure that the correct side effects have occurred as well.
+
+When writing a test for an interaction, ask yourself what you are trying to cover. The goal here is not to create unnecessarily tight contracts and dig into the business logic, but rather verify that consumers and providers have a shared understanding of what requests and responses should be.
+
 #### Provider states
 
 The `state` key in an interaction specifies the state of the backend, or the *provider state*, for that interaction. Use provider states to test different responses to the same request.
@@ -312,6 +310,10 @@ The backend needs to handle all states in a pact in order for the verification t
 #### Responses
 
 The expected response is defined with `willRespondWith`. Define the expected `status` and use [matchers](#matching) to define the expected `body`. You can also define the expected `headers`.
+
+Be sure to test response types but not all response permutations. For example, if a response attribute is expected to be a string, you don’t necessarily care about the exact value, but rather its type and that the value is present. Testing response types ensures that the provider actually does provide the response the consumer expects.
+
+Sometimes response values are difficult to determine beforehand (e.g., timestamps or ids). This is where regular expression matching can be useful.
 
 **If the interaction involves a request that's made with the `apiRequest` helper, you will need to include an expectation for the `Content-Type` header as follows.**
 - This is because the helper only parses the response as JSON if it detects the content type as such, so the test needs to be explicit about that.
