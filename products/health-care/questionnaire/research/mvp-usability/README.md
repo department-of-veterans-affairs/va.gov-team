@@ -26,7 +26,7 @@
 | [P10]() | Oct. 16 Noon - 1 p.m. | Attended | Virtual during COVID | Computer | Veteran | Female | Hispanic, Latino, or Spanish Origin | 25 - 34 | Bachelor's degree | Army | CA |
 | [P11]() | Oct. 16 1:30 - 2:30 p.m. | | Virtual during COVID | Computer | Veteran | Male | Black or African American, White or Caucasian | 25 - 34 | Some college (no degree) | Army | NY |
 | [P12]() | Oct. 16 3 - 4 p.m. | | In-person during COVID | Computer | Veteran | Male | White or Caucasian | 45 - 54 | Bachelor's degree | Marine Corps | Navy | PA |
-| [P13]() | Oct. 16 4:30 - 5:30 p.m. | | Virtual during COVID | iPhone | Veteran | Female | Black or African American | 55 - 64 | Some college (no degree) | Marine Corps | GA |
+| P13 | Oct. 16 4:30 - 5:30 p.m. | Canceled | Virtual during COVID | iPhone | Veteran | Female | Black or African American | 55 - 64 | Some college (no degree) | Marine Corps | GA |
 | [P14]() | Oct. 16 6 - 7 p.m. | | In-person and Virtual during COVID | iPhone | Veteran | Female | Other | 45 - 54 | Master's degree | Air Force, Navy | MI |
 | [P15]() | Oct. 19 Noon - 1 p.m. | | Virtual during COVID | iPhone | Veteran | Male | White or Caucasian | 45 - 54 | Master's degree | Navy | HI |
 | [P16]() | Oct. 19 1:30 - 2:30 p.m. | | Virtual during COVID | iPhone | Veteran | Male | White or Caucasian | 55 - 64 | Some college (no degree) | Navy | PA |
