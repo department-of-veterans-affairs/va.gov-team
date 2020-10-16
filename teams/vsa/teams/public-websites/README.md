@@ -38,6 +38,8 @@ Unauthenticated Experience for VA.gov
 ### Roadmap:
 [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Public-website-2020-priorities-vision-012320.pdf)
 
+[Learning Center Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Learning%20Center%20OKR%20Road%20Map.pdf)
+
 ---
 
 ## Who we are
@@ -140,7 +142,7 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 #### Decision Etiquette
 Decisions are part of our daily routine, the below questions can help kickstart the decision making and creative thinking process.
 1. Is it my decision to make?
-2. Do I have all the inforamtion to make the decision?
+2. Do I have all the information to make the decision?
 3. Do I have to make the decision now?
 
 #### Communication Best Practices 
