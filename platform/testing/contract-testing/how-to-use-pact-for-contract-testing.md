@@ -60,13 +60,12 @@ Pact enables VFS teams to test integration points with vets-api. This gives VFS 
 
 ### Terminology
 
-* **Consumer** -- The consumer `vets-website` generates pacts.
-* **Provider** -- The provider `vets-api` verifies pacts.
-* **Pact** -- A contract between a consumer and provider is called a _pact_. Each pact is a collection of _interactions_.
-* **Interaction** -- A request and response pair.
-* **Broker** -- Central location where pacts are hosted. The Pact broker is currently hosted on [Heroku](https://vagov-pact-broker.herokuapp.com/). You can view the interactions per endpoint and the verification matrix from the broker index.
-* **Provider states** -- Allow the consumer to define a state in which the provider should be in when making making a request for response codes, data, etc. Provider states define the state of the provider and how it will handle a response given its current state and the data that should exist.
-* **Pact helper** - Pacts verified by the `pact:verify` task and configured in the `pact_helper.rb` file in your provider codebase. Currently, the `pact_helper` implements Rspec and Pact configurations as well as `git_sha` and `git_branch` tagging for the consumer and provider in the broker.
+- **consumer**: The consumer (`vets-website`) in the contract makes requests. In the Pact testing process, it generates pacts.
+- **provider**: The provider (`vets-api`) in the contract provides responses. In the Pact testing process, it verifies pacts.
+- **pact**: A contract between a consumer and provider is called a _pact_. Each pact is a collection of _interactions_.
+- **interaction**: A request and response pair.
+- **provider state**: The description of a state that the consumer expects the provider to be in. In a test, the provider handles a state by doing the necessary setup to acccommodate a request.
+- **broker**: The central location where pacts are hosted. The Pact broker is currently hosted on [Heroku](https://vagov-pact-broker.herokuapp.com/). You can view the interactions per endpoint and the verification matrix from the broker index.
 
 ### Requirements (draft)
 
@@ -128,15 +127,15 @@ In that pact, there is an interaction with this description:
 Note how the description is structured according to this pattern:
 > Given `<provider state>`, upon receiving `<request description>` from `<consumer>`, with `<request object>` `<provider>` will respond with `<response object>`.
 
-When defining interactions, it's important to consider how you name these key attributess: **provider state, request description, consumer, and provider**.
+When defining pacts and their interactions, it's important to consider how you name these key attributess: **provider state, request description, consumer, and provider**.
 - Interactions are first defined in the Pact tests written in vets-website, where all of these attributes must be provided.
 - Of these attributes, the provider states and consumer name must match when handling the provider states in vets-api.
 
-The **consumer** and **provider** should be named by these conventions:
+A pact must define the **consumer** and **provider** and should name them by these conventions:
 - The consumers are the apps in vets-website and should be named accordingly. Every app's `manifest.json` has an `appName` value that may be referenced as the consumer name, whether in full or in shorthand (as long as it's clear).
 - The provider is vets-api and should be named as "VA.gov API" in the pacts.
 
-**Provider states** are namespaced per contract between a consumer and provider pair.
+**Provider states** are namespaced per contract.
 - You may use the same provider state across multiple interactions within the same contract when writing Pact tests in vets-website.
   - However, be aware that states sharing the same name will all be handled the same way in vets-api.
   - Name states uniquely if there are even any minor differences in how their setup and teardown are handled during verification.
