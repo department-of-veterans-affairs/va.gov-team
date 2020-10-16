@@ -38,7 +38,7 @@
    
 --JH suggestion/s--
 
-  - People will feel more confident about their filling out the benefit application because the wizard indicates they are eligible
+  - People will feel more confident about completing the online benefit application because the wizard indicates they are eligible
 
 ## Method	
 
