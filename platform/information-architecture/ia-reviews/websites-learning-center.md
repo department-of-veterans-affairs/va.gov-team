@@ -50,9 +50,10 @@ Search results   | www.va.gov/resources/search/[query-parms]   |  Home  > Resour
 **Examples**
 
 Category landing page
+**UPDATE 10/16/2020**
 - Category: Account and profile
 - URL: www.va.gov/resources/account-and-profile/
-- BC: Home > Resources and support > Account and profile
+- BC: Home > Resources and support > All articles in: Account and profile
 
 Article page
 **UPDATE 10/16/2020**
