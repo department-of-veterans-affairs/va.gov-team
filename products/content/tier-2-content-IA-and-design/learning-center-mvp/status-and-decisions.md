@@ -16,6 +16,16 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platfo
 - The CMS will auto generate the breadcrumb and URL based on the article's H1. 
 - The CMS still needs to enable functionality that 'locks' the URL upon publication, even if the H1 changes. 
 
+__Clarification/update: Both category and tag static list pages will use the same breadcrumb pattern__ 
+
+__Category article list landing page__
+- URL pattern: www.va.gov/resources/[category-name]/	
+- Breadcrumb pattern: Home > Resources and support > H1  --> 	Home > Resources and support > All articles in: {Category} 
+
+__Tagged article list landing page__
+- URL pattern: www.va.gov/resources/tag/[tag-name]/
+- Breadcrumb pattern: 	Home > Resources and support > H1  --> 	Home > Resources and support > All articles tagged: {Tag name}
+
 
 ## 10/15/20
 
@@ -42,7 +52,7 @@ __Dynamic search results page__
 
 __Category article list landing page__
 - URL pattern: www.va.gov/resources/[category-name]/	
-- Breadcrumb pattern: Home > Resources and support > [Category-name]  --> 	Home > Resources and support > {Pension} 
+- Breadcrumb pattern: Home > Resources and support > ~[Category-name]~  --> 	Home > Resources and support > ~{Pension}~ 
 
 __Tagged article list landing page__
 - URL pattern: www.va.gov/resources/tag/[tag-name]/
