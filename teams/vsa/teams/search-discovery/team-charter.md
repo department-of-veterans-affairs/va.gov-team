@@ -33,7 +33,7 @@ Unauthenticated Experience for VA.gov
 
 
 ### Roadmap:
-[Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Public-website-2020-priorities-vision-012320.pdf)
+
 
 ---
 
