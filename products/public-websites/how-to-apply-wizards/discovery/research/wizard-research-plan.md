@@ -20,14 +20,12 @@
    - Are people able to find the skip link?
    - How easily do people understand how to start over?
    - How do people understand various entry points and ways of getting to the form?
+   - In the education flow, do people get confused by being started on the 1990 form page from the How to apply page? How about when they're routed to a different from from the 1990?
    - Can users get back to the wizard once they've navigated away from a form page?
    - When do users want to go back to the wizard?
    - There may be other small, content PW website questions to tack on to this research (Peggy will check with Danielle / Peggy)
-
---JH suggestion/s--
-
-  - Do people understand the wizard questions?
-  - Are people confident they are applying for the right benefit after they take the wizard?
+   - Do people understand the wizard questions?
+   - Are people confident they are applying for the right benefit after they take the wizard?
 
 4. Hypothesis: What is your hypothesis for this research? 	
 
@@ -35,7 +33,7 @@
    - The skip and start over links will be missed by some people, but those who are interested on those actions will easily be able to find it.
    - People will be able to complete the wizard flows on desktop and mobile with the same level of ease.
    - People will think the intro/step-list page is overwhelming.
-   
+
 --JH suggestion/s--
 
   - People will feel more confident about completing the online benefit application because the wizard indicates they may be eligible
@@ -80,8 +78,8 @@
 
    - For this session, we are unable to include:
      -  Those who use assistive technology, such as screen readers (JAWS, NVDA, VoiceOver, and ChromeVox).
-     - People with significant vision loss.
-     - People who use magnification tools.
+     -  People with significant vision loss.
+     -  People who use magnification tools.
 
    **Secondary criteria / Would like to have** 
 
@@ -91,7 +89,7 @@
    - At least one person with a disability rating of 70% or greater
    - At least two participants that have identified cognitive impairments and/or functional disabilities. Examples of diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), autism, and vertigo. Other conditions may be aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
 
-2.	What is your recruitment strategy? 	
+2. What is your recruitment strategy? 	
    We'd like to have Perigean recruit our participants for this study.
 
 ## When? 	
