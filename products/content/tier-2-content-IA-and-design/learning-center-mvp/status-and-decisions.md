@@ -2,6 +2,21 @@
 
 ## mm/dd/yy
 
+## 10/16/20
+
+__Decision - change: breadcrumb and URL pattern for article pages__
+
+Article URL pattern: __/resources/article-h1/__
+
+Article breadcrumb pattern: __Home > Resources and support > Article h1__
+
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-learning-center.md
+
+- Article pages will not use category in the URL and breadcrumb. 
+- The CMS will auto generate the breadcrumb and URL based on the article's H1. 
+- The CMS still needs to enable functionality that 'locks' the URL upon publication, even if the H1 changes. 
+
+
 ## 10/15/20
 
 __Decision: breadcrumb and URL pattern__ 
@@ -15,11 +30,11 @@ __LC homepage__
 
 __Article page__
 
-- URL pattern: /resources/primary-category/article-h1/ 
-- Breadcrumb pattern: Home > Resources and support > [Category] > [Article H1]
+- URL pattern: /resources/~primary-category~/article-h1/ 
+- Breadcrumb pattern: Home > Resources and support > ~[Category]~ > [Article H1]
 
 Example: `How to check the status of your disability claim` article with a `primary category` of Disability 
-- URL pattern: www.va.gov/resources/disability/how-to-check-the-status-of-your-disability-claim 
+- U~RL pattern: www.va.gov/resources/disability/how-to-check-the-status-of-your-disability-claim~ 
 
 __Dynamic search results page__
 - URL pattern: www.va.gov/resources/search/[query-parms]/
