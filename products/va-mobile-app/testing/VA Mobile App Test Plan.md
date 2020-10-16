@@ -21,7 +21,7 @@ Testing will be performed throughout the development process based on the priori
 - All delivered features related to app home screen
 - All delivered features related to profile and contact information
 - All delivered features related to letters and documentation
-- All delivered features related to Veteran crisis line
+- All delivered features related to Veteran Crisis Line
 - All delivered features related to notifications including push notifications
 - All delivered features related to claims and appeals
 - All delivered features related to application settings
