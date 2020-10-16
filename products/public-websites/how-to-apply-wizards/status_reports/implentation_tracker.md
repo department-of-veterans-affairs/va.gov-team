@@ -9,7 +9,7 @@
 | Wizard User Test (via Prototype)| In progress           | In progress               | N/A                    | Done 
 | Wizard Development    |On hold pending usability        | On hold pending usability | N/A                    | TBD
 | Wizard Staging Review/Q-A | TBD                         | TBD                       | N/A                    | TBD
-| PW Links To           | TBD                             | TBD                       | N/A                    | TBD
+| PW Entry Points       | TBD                             | TBD                       | N/A                    | TBD
 | Wizard Launch Date    | TBD                             | TBD                       | N/A                    | Launch of app delayed
 
 
