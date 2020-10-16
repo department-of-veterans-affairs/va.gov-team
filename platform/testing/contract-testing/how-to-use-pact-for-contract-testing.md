@@ -65,6 +65,8 @@ Pact enables VFS teams to test integration points with vets-api. This gives VFS 
 * **Pact** -- A contract between a consumer and provider is called a _pact_. Each pact is a collection of _interactions_.
 * **Interaction** -- A request and response pair.
 * **Broker** -- Central location where pacts are hosted. The Pact broker is currently hosted on [Heroku](https://vagov-pact-broker.herokuapp.com/). You can view the interactions per endpoint and the verification matrix from the broker index.
+* **Provider states** -- Allow the consumer to define a state in which the provider should be in when making making a request for response codes, data, etc. Provider states define the state of the provider and how it will handle a response given its current state and the data that should exist.
+* **Pact helper** - Pacts verified by the `pact:verify` task and configured in the `pact_helper.rb` file in your provider codebase. Currently, the `pact_helper` implements Rspec and Pact configurations as well as `git_sha` and `git_branch` tagging for the consumer and provider in the broker.
 
 ### Requirements (draft)
 
@@ -81,25 +83,38 @@ VSP does not currently actively enforce this requirement (last updated 9/2020).
 
 PRs related to Pacts will go through the standard [code review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/code_review_guidelines.md).
 
-### Process
+### Workflow
 
-1. `vets-website`  runs unit tests to validate its request and response interactions with `vets-api` endpoints.
-2. `vets-website` generates contracts (referred to as **pacts** in the Pact framework)
-3. Pacts publish to a central location/broker ([Heroku](https://vagov-pact-broker.herokuapp.com/)) to be versioned and shared with the provider (`vets-api`).
-4. The provider (`vets-api`) runs a rake task to verify the pacts. This verification task replays the requests defined in the pacts against the provider (`vets-api`) and validates that the actual response matches the expected response.
-5. Results of the verification are published back to the broker.
+The process is a collaborative effort where front-end (FE) and back-end (BE) engineers should communicate and may need to iterate on the pacts to get them successfully verified.
+
+#### Front-end workflow
+
+1. FE engineers write Pact tests in feature branches in vets-website.
+2. The vets-website CI pipeline runs the contract tests job.
+   - The job runs all Pact tests, which generate pacts if they pass.
+   - The pacts are then published to a central broker.
+3. The vets-website CI pipeline runs a job to check `can-i-deploy`.
+   - The `can-i-deploy` task returns the verification statuses of all pacts against vets-api's master branch.
+     This determines whether it's safe to merge this vets-website feature branch.
+   - If there is no status yet for a pact, it will poll for 30 seconds while the pacts are asynchronously verified.
+   - If the status of any pact can't be determined, the job times out with a failure.
+4. The broker triggers the verification job in the vets-api CI pipeline, which publishes its results to the broker.
+5. If all pacts in the branch are successfully verified, the branch can be merged.
+6. If verification has failed for any pact, FE engineers should discuss with BE engineers to resolve the failure.
+   **The branch should not be merged until the `can-i-deploy` task is successful.**
+   FE should adjust the pact or BE should update provider states or API responses to accommodate the pact.
+   If the resolution only involves BE changes, wait for tohse changes to get merged and re-run the vets-website CI pipeline.
+
+#### Back-end workflow
+
+1. BE engineers update API endpoints and/or provider states in a feature branch in vets-api.
+2. The vets-api CI pipeline runs the verification job, which verifies the all of the latest pacts on the vets-website master branch.
+3. If the verification job passes, the branch can be merged.
+4. If the verification has failed for any pact, BE engineers should discuss with FE engineers to resolve the failure.
+   BE should adjust provider states or API responses to accommodate the pact or FE should update the pact.
+   If the resolution only involves FE changes, wait for those changes to get merged and re-run the vets-api CI pipeline.
 
 ![](https://i.imgur.com/zQMyDS0.png)
-
-### Implementation details
-
-Pact is language agnostic and has packages for both Node.js and Ruby, so both `vets-website` and `vets-api` have access to their language-specific implementations of the Pact spec.
-- `vets-website` will install the `@pact-foundation/pact` package.
-- `vets-api` will install the `pact` gem.
-
-**Provider states** -- Allows the consumer to define a state in which the provider should be in when making making a request for response codes, data, etc. Provider states define the state of the provider and how it will handle a response given it's current state and the data that should exist.
-
-**Pact helper** - Pacts verified by the `pact:verify` task and configured in the `pact_helper.rb` file in your provider codebase. Currently, the `pact_helper` implements rspec and pact configurations as well as `git_sh`a and `git_branch tagging` for the consumer and provider in the broker.
 
 #### Naming Conventions
 
@@ -140,18 +155,6 @@ Request descriptions are namespaced by provider states within a contract.
   - Recall that the Search pact has a request described as "a search query".
   - In the Search pact, the request described as "a search query" could be paired with the state "at least one matching result exists" in one interaction and paired with the state "no matching resulst exist" in another interaction. Furthermore, the same request description can be used without any provider states to form another unique interaction.
   - There won't be any name collision if Search and another app happen to use "a search query", whether both use the same state description or not.
-
-### FE/BE Communications
-
-When in the development process, FE and BE engineers may need to organize communication efforts. The pact workflow is a collaborative effort that developers will need to iterate on. As a first step in the process, the FE engineer will push a pact to the broker. The BE engineer will then use the pact from the broker to set up a matching provider state(s). Provider states follow strict naming conventions for the given consumer and its respective interactions. Often times, there will need to be adjustments to the expected response/requests defined in the pact following verification on the backend.
-
-#### Example Workflow for Search
-In the search example, an interaction exists for the search contract with the name of “at least one matching result exists”
-On the [backend](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/provider_states_for/search.rb), a provider state matching the search consumer will need to be set up as an exact match the interaction defined in the pact
-If an adjustment needs to be made to a request/response defined in a pact, then the communication efforts will need to be coordinated between FE and BE engineers.
-
-#### Communication and Interaction
-Once the BE engineer runs the pact verification task, possible adjustments to the expected requests and responses defined in the pact may be needed. BE and FE engineers will need to communicate pact request/response adjustments as necessary during the development process. Pact again is a collaborative effort and by no means does it amount to the development process being one sided. The development iterations should have equal efforts from the respective backend and frontend team members.
 
 #### Response Types and Matching
 Pact contracts test response types and not all response permutations. For example, if a response attribute is expected to be a string, you don’t necessarily care about the exact value, but rather that the value is present and it’s particular type. Ex: “Test string 1”, vs “Test String 2”. Testing response types ensures that the provider actually does provide the response the consumer expects. Often times the request and response values are difficult to determine beforehand( ex: timestamps or ids) and this is where regular expressions come into play when determining types. See [pact matching documentation](https://docs.pact.io/implementation_guides/ruby/matching/)
