@@ -7,7 +7,7 @@
 
 ## Participant 1
 
-`Raw text/unedited`
+`Raw transcript/unedited`
 
 Says extensively since leaving in 2018, the VA currently is my primary source for health care. I receive monthly disability compensation from the VA previously I have used the chapter 33 post 9/11 GI Bill benefits and currently I'm a student at the University of North Carolina School of Medicine and that is being funded in part by chapter 31 vocational rehabilitation and employment benefit. 
 
