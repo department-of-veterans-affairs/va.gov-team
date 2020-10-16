@@ -9,14 +9,14 @@ When Veterans are looking for schools within the Comparison tool, they want to k
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
 
-- What are users’ overall impressions of ratings
+- What are users’ overall impressions of ratings?
    - What do users think of the ratings?
    - Do users think the ratings are useful?
    - Are there any aspects of the ratings design that users find confusing?
-   - What’s users’ impression of how scores are calculated (NEW QUESTION)
+   - What’s users’ impression of how scores are calculated?
    - Do users think the “Not yet rated” scores affect the overall score?
 
-- Do users understand the UI & supporting content
+- Do users understand the UI & supporting content?
    - Do users understand the “Not yet rated” indicators?
    - What do users believe “True to expectations” means?
    - What do users think of the “About Ratings” content?
