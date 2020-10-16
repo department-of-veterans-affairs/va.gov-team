@@ -12,7 +12,7 @@ Following a change expected to be implemented as part of PPMS 10.0 in early Nove
 
 This is an issue because, _with current functionality_...
 - there is no method to notify the Veteran about this search limitation.
-- there is no accessible wayfor a user to trigger a new search after interacting with the map or changing location search parameters
+- there is no accessible way for a user to trigger a new search after interacting with the map or changing location search parameters
 - the map will continue to zoom out, autosearching for a result which could be an unreasonable distance from the Veteran
 
 How might we....
