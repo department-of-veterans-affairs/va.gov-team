@@ -84,7 +84,8 @@ I can apply for CH36 benefits quickly and without mailing in a form or visiting 
   - % of people who abandon (Abandonment Rate) (Activitation)
   - % of people who complete the form
   - number of people who complete the form
-- Customer satisfaction (?)
+- Customer satisfaction 
+  - 
 
 ##### Baseline KPIs
 tbd
