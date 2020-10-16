@@ -80,12 +80,12 @@ I can apply for CH36 benefits quickly and without mailing in a form or visiting 
 ### KPIs-OKRs
 #### KPIs
 - Conversion rate
-  - % of people who land on wizard and start the application (Acquisition)
-  - % of people who abandon (Abandonment Rate) (Activitation)
-  - % of people who complete the form
-  - number of people who complete the form
-- Customer satisfaction 
-  - 
+  - % of people who land on wizard and start the application (Acquisition)  
+  - % of people who abandon (Abandonment Rate) (Activitation)  
+  - % of people who complete the form  
+  - number of people who complete the form  
+- Customer satisfaction  
+  - form has an increasing score value  
 
 ##### Baseline KPIs
 tbd
