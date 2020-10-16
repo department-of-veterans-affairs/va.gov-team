@@ -164,6 +164,7 @@ Note: These estimates do not account for extensive support requests
 1. Create `platform/packages/forms-library` and move the contents of `platform/forms-system` into it
 1. Add a `package.json` file to the new `forms-library` package directory
   - Any dependencies that are exclusively used by the forms library will go in here, and a `yarn install` from the `vets-website` root will install them.
+  - Shared dependencies (like `react` and `react-redux`) will be configured to be [peer dependencies](https://flaviocopes.com/npm-peer-dependencies/)
 1. [Add a temporary alias to the `.babelrc` file](https://github.com/department-of-veterans-affairs/vets-website/blob/055d96c54e1df54138b9efc589b98e55962333b3/.babelrc#L50-L55) that redirects imports from `platform/forms` and `platform/forms-system` to the new package
 1. Edit the webpack config & use a custom `sass-loader` importer to _temporarily_ rewrite imports from `forms` to `forms-system`
   - This will prevent webpack from failing when it can't resolve the `.scss` files
