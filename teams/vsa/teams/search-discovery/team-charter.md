@@ -42,7 +42,7 @@ Unauthenticated Experience for VA.gov
 
 |**Roles**              |**Assigned**                        |
 |-----------------------|------------------------------------|
-|DSVA Product Owner     |John Hashimo                        |
+|DSVA Product Owner     |John Hashimoto                        |
 |Product Manager        |Denise Coveyduc                     |
 |Front End Engineer     |TBH                                 |
 |Design/Research        |TBH                                 |
