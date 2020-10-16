@@ -1,11 +1,11 @@
-## eBenefits Chapter36/Chapter31 usability session 8
-#### Conducted: September 30, 2019 via Zoom
+## eBenefits Chapter36/Chapter31 usability session 3
+#### Conducted: September 28, 2019 via Zoom
 #### Moderator: James Adams
 #### Participants: 1
 #### Session Recorded: Yes
 #### Note-taker: Digital transcription
 
-## Participant 8
+## Participant 3
 
 `Raw transcript/unedited`
 
