@@ -9,17 +9,29 @@ When Veterans are looking for schools within the Comparison tool, they want to k
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
 
-- What do users think of the ratings?
-- What do users think of the new school card layout?
-- Are users interested in sorting or filtering search results by star ratings?
-- How does the overall rating weigh into the user’s perception of the school?
-- How do the individual ratings weigh into the user’s perception of the school?
-- Do users understand the “Not yet rated” indicators?
-- Do users think the “Not yet rated” scores affect the overall score?
-- What do users believe “True to expectations” means?
-- What do users think of the “About Ratings” content?
-- Are there any aspects of the ratings design that users find confusing?
-- Do users think the ratings are useful?
+- What are users’ overall impressions of ratings
+   - What do users think of the ratings?
+   - Do users think the ratings are useful?
+   - Are there any aspects of the ratings design that users find confusing?
+   - What’s users’ impression of how scores are calculated (NEW QUESTION)
+   - Do users think the “Not yet rated” scores affect the overall score?
+
+- Do users understand the UI & supporting content
+   - Do users understand the “Not yet rated” indicators?
+   - What do users believe “True to expectations” means?
+   - What do users think of the “About Ratings” content?
+
+- How do users (want to) engage with ratings?
+   - Are users interested in filtering search results by star ratings?
+   - Are users interested in sorting search results by star ratings? 
+   - Do users engage with the ratings category accordions? 
+
+- How do ratings’ impact decision making?
+   - How does the overall rating weigh into the user’s perception of the school?
+   - How do the individual ratings weigh into the user’s perception of the school?
+
+- What are users’ impressions of the new school card layout?
+
 
 
 4. Hypothesis: What is your hypothesis for this research? 
