@@ -78,7 +78,7 @@ We will work with Perigean to recruit for this study.
 
 1. Timeline: What dates do you plan to do research?
 
-We are looking to start sessions \*\*. October, dependent on BDD UAT.  \*\*.
+We are looking to start sessions: \*\*. One user 23 October if possible, and 5 users spread out on  3, 4, 5 November.  \*\*.
 
 1. Prepare: When will the thing you are testing be ready?
 
