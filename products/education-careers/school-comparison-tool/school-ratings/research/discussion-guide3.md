@@ -34,39 +34,65 @@ Let’s start with a few warm-up questions.
     - If yes, what did you use it for?
     
   
-## First Task: Initial Look at Ratings - 10 minutes
+## First Task: Feedback on School Cards - 5 minutes
 
-Let's say you've done your research and you're interested in attending **University of California-San Francisco**.  How would you use the Comparison Tool to figure out if **University of California-San Francisco** is a good fit for you?  
+Let's say you've done your research and you're interested in attending **University of California-San Francisco**.  How would you go about finding **University of California-San Francisco** on the Comparison Tool?  When you find what you're looking for, you can say "I found it".
  
- Things to watch for:
-- How does the participant open the school profile page (School name or View Details link)?
+Things to watch for:
 - Does the user notice the ratings on the school cards?
-- How does the user compare schools (look at them one at a time, open multiple tabs, etc.)?
-- Does the user interact with the individual categories?
 
 Upon completion of task:
 - How did you think that went?
 - What do you think of school card?
-- From the ratings you see, which ones are important to you?
+- What do you think of the ratings that you see?
+
+Research questions:
+- What do users think of the new school card layout?
+- Are users interested in sorting or filtering search results by star ratings?
+- What do users think of the ratings?
+
+
+## Second Task: Initial Look at Ratings - 15 minutes
+
+Since you've found the school, how would you go about determining if **University of California-San Francisco** would be a good fit for you?
+ 
+ Things to watch for:
+- How does the participant open the school profile page (School name or View Details link)?
+
+Upon completion of task:
+- How did you think that went?
+- What do you think of the school now that you've seen the ratings?
+- What do you think of the categories?
+  - What do you think "True to expectations" means?
+  - Some categories say that a certain number of individuals did not rate, what do you think of that?
+- Where do you think the ratings come from?
+- Do you have any questions about the ratings?
 
 Research questions:
 - What do users think of the star ratings?
-- Who do users think are providing the ratings?
-
+- How does the overall rating weigh into the user’s perception of the school?
+- How do the individual ratings weigh into the user’s perception of the school?
+- Do users understand the “Not yet rated” indicators?
+- Do users think the “Not yet rated” scores affect the overall score?
+- What do users believe “True to expectations” means?
+- What do users think of the “About Ratings” content?
+- Are there any aspects of the ratings design that users find confusing?
+- Do users think the ratings are useful?
 
  
- ## Second Task - Compare Campuses - 15 minutes
+ ## Third Task - Compare Campuses - 15 minutes (Alternate to Fourth Task)
  
-Let's say that you've done more research and **University of California-Berkeley** also looks like a good option for you.  Both **San Francisco** and **Berkeley** have the program you're interested in and both schools would have a similar commute. How would you use the Comparison Tool to figure out which campus would be a better fit for you?
+Let's say that you've done more research and **University of California-Berkeley** also looks like a good option for you.  Both **San Francisco** and **Berkeley** have the program you're interested in and if you decide to take classes in person, both schools would have a similar commute. How would you use the Comparison Tool to figure out which campus would be a better fit for you?
+
+_Potential prompt_ You're strongly considering taking classes online.
 
 Things to watch for:
-- How does the user select the school (School name or View Details)?
-- Where does the user initially look for information?
-- Does the user go to the ratings accordion without a prompt?
+- How does the user compare schools (look at them one at a time, open multiple tabs, etc.)?
 
 Upon completion of task:
 - How did you think that went? 
-- What do you think of the school now that you've seen the ratings?
+- What do you think of the schools now that you've seen the ratings?
+- Which school would be a better fit?  Why?
 
 Research questions:
 - Are users interested in the different rating categories or just the overall score?
@@ -79,21 +105,26 @@ Research questions:
 - Do users think the ratings are useful?
 
 
- ## Third Task - Comparing Various Rating Aspects - 10 minutes
+ ## Fourth Task - Comparing Prestigious Schools - 15 minutes (Alternate to Third Task)
  
-Let's say you want to attend the **University of California** and are trying to decide on the campus where you'll take classes.  You plan on living on-campus and all the schools offer the classes you want to take.  Walk me through how you'd use the Comparison Tool to help you decide which campus you'd attend.
+Let's say you are considering attending either **Stanford University** or **Dartmouth College**. Both schools have the program you're interested in and you plan on moving to an apartment close to the school you attend.  Walk me through how you'd use the Comparison Tool to help you decide which school you'd attend.
  
- Things to watch for:
--  Does the user look at the overall rating or delve into the detailed ratings?
--  Does the user pause or read the caution flag?
+Things to watch for:
+- How does the user compare schools (look at them one at a time, open multiple tabs, etc.)?
 
 Upon completion of task:
 - How did you think that went? 
-- What made you decide to pick that particular campus?
+- What do you think of the schools now that you've seen the ratings?
+- Which school would be a better fit?  Why?
 
 Research questions:
-- Would ratings affect the school selection process?
-- How does the number of ratings weigh into a user's perception of a particular school?
+- Are users interested in the different rating categories or just the overall score?
+- Which categories are valuable to users?  Are there any categories that aren't valuable?  Are there any additional categories they would like to see?
+- What do users think the different categories mean?
+- How do users think the rating scores are determined (average of submitted scores, calculated value, etc.)?
+- How trustworthy are the ratings?
+- How do users think ratings are collected?
+- What level of privacy do users expect if they would provide a rating?
 - Do users think the ratings are useful?
 
 
