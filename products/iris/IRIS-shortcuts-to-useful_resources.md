@@ -1,9 +1,9 @@
 
-***IRIS shortcut to useful links
+***IRIS shortcut to useful links***
 
 **Invision prototype**
 
-- [Invision prototype](https://thoughtworks.invisionapp.com/share/C8YJHBHNZQF#/screens?browse)
+- [Invision prototype](https://thoughtworks.invisionapp.com/share/C8YJHBHNZQF#/screens?browse) - please see the backlog and speak to the team to understand the priority of stories
 
 **Sites potentially in scope**
 
