@@ -102,7 +102,7 @@ _To be completed once you have gathered your initial set of data, as outlined ab
 
 1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"? 
 - Customer satisfaction (Foresee score) went from 2.8 --> 4.0
-- Searches for "direct deposit" descreased
+- Searches for "direct deposit" decreased
 - Searches from the profile decreased
 - Avg time spent on profile decreased
 
