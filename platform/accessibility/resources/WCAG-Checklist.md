@@ -1,10 +1,19 @@
 ```diff
 ! Work-in-Progress
+
+! The Section 508 criteria listed here **do not** map directly to the VSP 508-defect severity rubric. 
+
+! 508-defect-0 means the issue is harmful, _such as_, bullet #7 under Sight & Sound regarding strobing effects ([WCAG 2.3.1](https://www.wuhcag.com/three-flashes-or-below/)). Making a determination that an issue is harmful relies on the experienced expertise of an accessibility professional.
+
+! 508-defect-1 means the experience is **broken**. A user is unable to proceed, access, or understand the content. The severity rubric provides examples, such as keyboard traps, content not available for assistive technology users, etc.
+
+
 ```
 
 <hr/>
 
 > > **For Veteran Facing Services teams, if there are 508-defect-0, 1, 2, 3, and some 4 issues logged for work it is not 508 compliant, according to the VA 508 Office.** Source: [VSP Accessibility Defect Severity Rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#accessibility-defect-severity-rubric)
+
 
 <hr/>
 
