@@ -7,6 +7,7 @@
 
 ! 508-defect-1 means the experience is **broken**. A user is unable to proceed, access, or understand the content. The severity rubric provides examples, such as keyboard traps, content not available for assistive technology users, etc.
 
+! A direct mapping of severity to WCAG success criteria is **not possible**, as it varies by implementation and the degree of human impact.
 
 ```
 
