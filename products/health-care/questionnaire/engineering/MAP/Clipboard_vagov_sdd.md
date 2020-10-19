@@ -74,7 +74,6 @@ This is the initial relase of the application, V1 of the Clipboard application o
 ## Conceptual Diagram
 
 ![](diagrams/ClipboardConceptualDiagram.png "Figure 1 - Conceptual Diagram")
-![](diagrams/Clipboard%20Application%20Architecture.png "Figure 2 - Clipboard Architecture Diagram")
 
 ## Data Entered / Retrieved with Application
 
