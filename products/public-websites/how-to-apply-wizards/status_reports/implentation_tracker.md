@@ -10,7 +10,7 @@
 | Wizard Development  |50% Complete/Hold                  | 50% Complete/Hold         | 50% Complete/Hold       | TBD
 | Wizard Staging Review/Q-A | TBD                         | TBD                       | TBD                     | TBD
 | PW Entry Points     | TBD                               | TBD                       | TBD                     | TBD
-| Launch Date         | November                          | November                  | November?               | Ch 36/Jan 4  Ch 31/Early Dec
+| Launch Date         | November                          | November                  | November?               |Ch 31 (Early Dec), Ch 36 (Jan 4)
 
 
 ## Reference Links
