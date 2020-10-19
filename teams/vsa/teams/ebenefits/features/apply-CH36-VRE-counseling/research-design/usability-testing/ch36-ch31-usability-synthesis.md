@@ -86,14 +86,13 @@ No participants actually qualified for CH36 benefits since all were too far remo
 - Users generally felt both forms were "straight-forward" and easy to complete
 
 ## Additional insights
-- Many participants found the inconsistency in terminology about the two programs confusing; i.e. they were shown Chapter 36, 21-8832 and Personalized Career Planning and Guidance at various points, with Chapter 31 terminology mixed-in as well
-- Only one person noticed the "skip to form" link(s)
 - All but one participant opted to "sign-in" to proceed
 - A few users felt to intro screen copy wasn't informative enough
 - Some users wanted shorter, better defined "bullet points" to outline the process 
 - Users were uniformly tripped-up by language around timeframes; e.g. the "have you been discharged in the last year" question in the wizard; users wanted to know if this meant 2019 or within the last 12 months
 - Users who were asked to make an address change expected (but were not hopeful) that the change would populate all VA systems
-- Several users wanted email confoirmation that their forms were submitted
+- Several users wanted email confirmation that their forms were submitted
+- The education level of participants in this study was extremely high: 6/7 had masters degrees
 
 ## Recommendations
 
