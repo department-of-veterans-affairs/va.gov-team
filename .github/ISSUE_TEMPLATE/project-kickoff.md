@@ -1,8 +1,8 @@
 ---
 name: Project Kickoff
 about: Request to Schedule a Project Kickoff 
-title: Project Kickoff [Feature-Name]
-labels: product support, content-ia-team, collaboration-cycle
+title: Project Kickoff [Team Name - Feature Name]
+labels: vsp product support, content-ia-team, collaboration-cycle, collab cycle review
 assignees: andreahewitt-odd, shiragoodman
 
 ---
@@ -12,8 +12,8 @@ assignees: andreahewitt-odd, shiragoodman
 - [ ] Attach all relevent artifacts to the ticket
 - [ ] Link to this issue once created in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) in Slack; tag @ Shira Goodman and @ AndreaHewitt 
 - [ ] Shira will schedule meeting with VSP reviewers and **requesting team** attendees (as listed below)
-- [ ] VSP <> **requesting team** kickoff meeting completed and [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/u/1/d/1d219oL1zCvCvnv1Bx-dI-GMzwgbarLv9_bzMSa3ULjA/edit#gid=1341642809) is updated
-- [ ] All requesting team attendees complete brief [VSP Collaboration Cycle Feedback](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) survey
+- [ ] Kickoff meeting completed 
+- [ ] [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/u/1/d/1d219oL1zCvCvnv1Bx-dI-GMzwgbarLv9_bzMSa3ULjA/edit#gid=1341642809) is updated
 
 
 ## Artifacts - _please bring the following to the kickoff meeting_
