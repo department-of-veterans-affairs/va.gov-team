@@ -30,7 +30,7 @@ Start off by introducing your team and VSP to your new work initiative. Discuss 
 ## Collaboration format: 30-minute meeting
 
 ### Request process
-**VFS Product Manager** initiates scheduling by submitting ZenHub issue — use `Project Kickoff` issue template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+shiragoodman&labels=product+support%2C+content-ia-team%2C+collaboration-cycle&template=project-kickoff.md&title=Project+Kickoff+%5BFeature-Name%5D) to open a ticket)_. VSP will schedule the meeting. Meeting is recorded.
+**VFS Product Manager** initiates scheduling by submitting ZenHub issue — use `Project Kickoff` issue template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+shiragoodman&labels=vsp-product-support%2C+content-ia-team%2C+collaboration-cycle%2C+collab-cycle-review&template=project-kickoff.md&title=Project+Kickoff+%5BTeam+Name+-+Feature+Name%5D) to open a ticket)_. VSP will schedule the meeting. Meeting is recorded.
 
 ### Meeting attendees
 - VFS brings: 
