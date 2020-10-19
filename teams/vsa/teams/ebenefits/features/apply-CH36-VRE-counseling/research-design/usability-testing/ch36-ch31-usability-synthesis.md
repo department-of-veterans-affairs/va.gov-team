@@ -77,7 +77,7 @@ Three users navigated to the CH31 wizard. They were asked, "Why were you were se
 - Jumping from one wizard/form to the next seemed to disorient participants who clicked there, though two did understand they were taken to another page
 - The other user was irritated to "have to do everything over again," but continued on to successfully determine eligibility and complete the form, not knowing he completed the CH31 form
 
-### 3. What challenges prevent users from quickly and accurately completing the forms?
+### 4. What challenges prevent users from quickly and accurately completing the forms?
 No participants actually qualified for CH36 benefits since all were too far removed from their separation dates. At that point in the wizard they were told, "Seems you don't qualify according to our questions; but what if you were within a year of separation?"
 
 - Users easily navigated through the 28-8832 (CH36) 
