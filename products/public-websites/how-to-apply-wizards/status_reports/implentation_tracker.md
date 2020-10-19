@@ -7,9 +7,9 @@
 | Product Leads       | Hashimoto/Self/Majewski           | Hashimoto/Self/Majewski   | Self/Keeler             | Jason Wolf           
 | Wizard UX Spec (via Prototype) | Done                   | Done                      | Done                    | Done
 | Wizard User Test (via Prototype)| In progress           | In progress               | In progress             | Done
-| Wizard Development  |50% Complete/Hold                  | 50% Complete/Hold         | 50% Complete/Hold       | TBD
+| Wizard Development  |50% Complete/Hold                  | 50% Complete/Hold         | 50% Complete/Hold       | In progress
 | Wizard Staging Review/Q-A | TBD                         | TBD                       | TBD                     | TBD
-| PW Entry Points     | TBD                               | TBD                       | TBD                     | TBD
+| PW Entry Points     | In progress                       | In progress               | In progress             | In progress
 | Launch Date         | November                          | November                  | November?               |Ch 31 (Early Dec), Ch 36 (Jan 4)
 
 
