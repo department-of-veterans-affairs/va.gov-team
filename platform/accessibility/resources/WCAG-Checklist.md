@@ -10,7 +10,7 @@ For an overview of WCAG, and distinctions between 2.0, 2.1, and 2.2, please see 
 
 The Section 508 criteria listed here **do not** map directly to the VSP 508-defect severity rubric. 
 
-- 508-defect-0 means the issue is harmful, _such as_, bullet #7 under Sight & Sound regarding strobing effects ([WCAG 2.3.1](https://www.wuhcag.com/three-flashes-or-below/)). Making a determination that an issue is harmful relies on the experienced expertise of an accessibility professional.
+- 508-defect-0 means the issue is **harmful**, _such as_, bullet #7 under Sight & Sound regarding strobing effects ([WCAG 2.3.1](https://www.wuhcag.com/three-flashes-or-below/)). Making a determination that an issue is harmful relies on the experienced expertise of an accessibility professional.
 
 - 508-defect-1 means the experience is **broken**. A user is unable to proceed, access, or understand the content. The severity rubric provides examples, such as keyboard traps, content not available for assistive technology users, etc.
 
