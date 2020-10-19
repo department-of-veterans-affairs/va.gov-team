@@ -132,18 +132,14 @@ For every project, this sprint includes all outstanding tickets from sprint 32, 
 
 - [Request full accessibility and 508 office review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#full-accessibility-and-508-office-audit)
 
-### Logged-in homepage
-
-**PM**
-
-Create ticket for create of claims section. We only need one ticket for the whole section. [Here are the tech specs](https://docs.google.com/spreadsheets/d/1fO3VxUj8U2M268GnpmNmlL8Jdl8E1as33SzuwoTneV8/edit#gid=312700153).
+### My VA redesign
 
 **Design**
 
 - My VA Overview section
 - Meet with the following folks re: general My VA questions OR health care section. **Ideally, these are as soon as possible**
   - IA (Talk about nav/bread crumb treatment; On page navigation) — Schedule for week of October 26 (Meg is out next week)
-  - Design system council (Review new health care patterns)
+  - Design system council (Review new health care patterns) 
   - Accessibility (Review new health care patterns)
   - Content (copy in the health care section)
   - VAOS (to make sure appointment details are correct)
@@ -152,9 +148,12 @@ Create ticket for create of claims section. We only need one ticket for the whol
 
 **Design**
 
+**Note**: We are still waiting on some answers from Luke Tickner about some things, so this might put design and research on pause.
+
 - Complete design if not done
+- Copy review for profile wireframes (this should just be a formality since I think all content was copied from the direct deposit for comp & pen designs)
+- Content for Direct Deposit Landing Page #14367
 - (Maybe) Start research prep (plan and convo guide)
-  - **Note**: We are still waiting on some answers from Luke Tickner about some things, so this might put design and research on pause.
 
 **Dev**
 
@@ -166,7 +165,7 @@ Create ticket for create of claims section. We only need one ticket for the whol
 
 ## Sprint 34 (11/4 – 11/17)
 
-### Logged-in homepage
+### My VA redesign
 
 **PM**
 
@@ -176,7 +175,7 @@ Create ticket for create of claims section. We only need one ticket for the whol
 
 ## Sprint 35 (11/18 – 12/1)
 
-### Logged-in homepage
+### My VA redesign
 
 **Design**
 
@@ -184,7 +183,7 @@ Create ticket for create of claims section. We only need one ticket for the whol
 
 ## Sprint 36 (12/2 – 12/15)
 
-### Logged-in homepage
+### My VA redesign
 
 **Design**
 
@@ -192,7 +191,7 @@ Create ticket for create of claims section. We only need one ticket for the whol
 
 ## Sprint 37 (12/16 – 12/29)
 
-### Logged-in homepage
+### My VA redesign
 
 **Design**
 
@@ -200,7 +199,7 @@ Create ticket for create of claims section. We only need one ticket for the whol
 
 ## Sprint 38 (12/30 – 1/12)
 
-### Logged-in homepage
+### My VA redesign
 
 **Design**
 
