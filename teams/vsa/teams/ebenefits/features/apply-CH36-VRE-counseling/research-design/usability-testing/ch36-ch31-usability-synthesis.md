@@ -40,8 +40,54 @@ The moderator prompted users with tasks from the conversation guide. Participant
 - The forms themselves will be very easy for users to complete
 
 ## Key findings
+1. While users in this study rarely went directly to CH31/CH36 links, they did tend to find CH36 and CH31 content pages via the Chapter 33 screens. Two users found CH31/CH36 easilty using the search feature. Generally, users believed career guidance and job readiness were part of the CH33 GI Bill.
+
+2. Users were immediately comfortable navigating the screening wizard, and usually went straight to answering its questions. Only one user saw the "skip" wizard link and recognized that it went straight to the form.
+
+3. The language in the wizards and intro--and even the forms--often confused users. Only one participant clearly understood there were two wizards and forms. Generally, users proceeded with the CH36 wizard and form not seeing that they might also be eligible for CH31 benefits. A few noticed the CH31 section on the confirmation screen and expressed interest in applying.
+
+Participants found little value in the "branding" of programs preferring more generic erms like "VocRehab." Decoupling the form numbers from their program deepened the confusion when cross-program info was presented on the intro screens.
+
+The details of questions need more clarity when asking about time periods, e.g. "separation in the past year," or "years of education."
+
+4. The forms themselves proved easy for users to complete. Once the users made it into the two forms, they proceeded quickly and easily to submission. Participants were generally satisfied with the confirmation page, though some users wanted a different presentation or more details.
 
 ## Details of findings
+
+### 1. Where and how (what links/navigation) do participants expect to find CH31 and CH36 forms?
+Participants went to the VA.gov home and were asked, "If you heard VA could help with finding a job or getting training, where would you look on the site?"
+
+- Users were drawn to the white quadrants
+- They tended to look in the Education box
+- Several users mentioned they'd use the search feature, two did
+- Only two users scrolled the page to the featured benefits links
+
+### 2. Do participants understand the function of the wizard features?
+Users were given a link to the CH36 wizard and asked, "Please take a look at this page and see if you qualify for Chapter 36 or other benefits."
+
+- Some users were thrown-off by the varying references to the programs and forms (e.g. Personalized Career Planning and Guidance, CH36, 21-8832)
+- However, all users went fairly quickly to the wizard and started answering questions; no prompting was needed
+- Most users felt they qualified for CH36 benefits using the scenario given them (that they were within a year of leaving the service)
+- The users who went to the CH31 wizard all qualified on their own merits
+- Many users found the language around timeframe ("the past year") ambiguous and wanted clarification/specifics
+- When the wizard question led to a "stop," users understood they did not qualify; several wanted links to alternate resources or information
+
+### 3. Will users identify the differences between the CH31 and CH36 programs and select the right form(s)?
+Three users navigated to the CH31 wizard. They were asked, "Why were you were sent here?", "How is this different from the previous page/screen/form?", and  "Please look at this page and see if you qualify."
+
+- The VA program "branding," PCPG and VR&E, was lost on participants; CH36 and CH31 were more meaningful to some users
+- A few users noticed the link(s) to the CH31 wizard (on the CH36 intro and confirmation screens); they generally confused this link with CH36 when seeing it on the intro screen, but understood it was another program when they saw the same link on the confirmation screen
+- No user encountered the CH31 link/crossover within the wizard
+- Jumping from one wizard/form to the next seemed to disorient participants who clicked there, though two did understand they were taken to another page
+- The other user was irritated to "have to do everything over again," but continued on to successfully determine eligibility and complete the form, not knowing he completed the CH31 form
+
+### 3. What challenges prevent users from quickly and accurately completing the forms?
+No participants actually qualified for CH36 benefits since all were too far removed from their separation dates. At that point in the wizard they were told, "Seems you don't qualify according to our questions; but what if you were within a year of separation?"
+
+- Users easily navigated through the 28-8832 (CH36) 
+- All participants who went to the 21-1900 (CH31) were all confused by the "years of education" question and wanted clarification
+- Participants paused on the he communication options screen; all users answered reading only the questions themselves
+- Users generally felt both forms were "straight-forward" and easy to complete
 
 ## Additional insights
 - Many participants found the inconsistency in terminology about the two programs confusing; i.e. they were shown Chapter 36, 21-8832 and Personalized Career Planning and Guidance at various points, with Chapter 31 terminology mixed-in as well
@@ -71,60 +117,5 @@ The moderator prompted users with tasks from the conversation guide. Participant
 - [PCPG (Chapter 36) User Flows](https://xd.adobe.com/view/f2e4cdec-1fa1-42ab-5cbf-e2a3c74c6663-84d5/)
 
 - [Usability matrix]()
-
----
-
-## Guiding questions
-
-### Where and how (what links/navigation) do participants expect to find CH31 and CH36 forms?
-Participants went to the VA.gov home and were asked, "If you heard VA could help with finding a job or getting training, where would you look on the site?"
-
-- Users were drawn to the white quadrants
-- They tended to look in the Education box
-- Several users mentioned they'd use the search feature, two did
-- Only two users scrolled the page to the featured benefits links
-
-### Do participants understand the function of the wizard features?
-Users were given a link to the CH36 wizard and asked, "Please take a look at this page and see if you qualify for Chapter 36 or other benefits."
-
-- Some users were thrown-off by the varying references to the programs and forms (e.g. Personalized Career Planning and Guidance, CH36, 21-8832)
-- However, all users went fairly quickly to the wizard and started answering questions; no prompting was needed
-- Most users felt they qualified for CH36 benefits using the scenario given them (that they were within a year of leaving the service)
-- The users who went to the CH31 wizard all qualified on their own merits
-- Many users found the language around timeframe ("the past year") ambiguous and wanted clarification/specifics
-- When the wizard question led to a "stop," users understood they did not qualify; several wanted links to alternate resources or information
-
-### Will users identify the differences between the CH31 and CH36 programs and select the right form(s)?
-Three users navigated to the CH31 wizard. They were asked, "Why were you were sent here?", "How is this different from the previous page/screen/form?", and  "Please look at this page and see if you qualify."
-
-- The VA program "branding," PCPG and VR&E, was lost on participants; CH36 and CH31 were more meaningful to some users
-- A few users noticed the link(s) to the CH31 wizard (on the CH36 intro and confirmation screens); they generally confused this link with CH36 when seeing it on the intro screen, but understood it was another program when they saw the same link on the confirmation screen
-- No user encountered the CH31 link/crossover within the wizard
-- Jumping from one wizard/form to the next seemed to disorient participants who clicked there, though two did understand they were taken to another page
-- The other user was irritated to "have to do everything over again," but continued on to successfully determine eligibility and complete the form, not knowing he completed the CH31 form
-
-### What challenges prevent users from quickly and accurately completing the forms?
-No participants actually qualified for CH36 benefits since all were too far removed from their separation dates. At that point in the wizard they were told, "Seems you don't qualify according to our questions; but what if you were within a year of separation?"
-
-- Users easily navigated through the 28-8832 (CH36) 
-- All participants who went to the 21-1900 (CH31) were all confused by the "years of education" question and wanted clarification
-- Participants paused on the he communication options screen; all users answered reading only the questions themselves
-- Users generally felt both forms were "straight-forward" and easy to complete
-
-## Hypotheses
-
-### Users will have some difficulty locating the landing pages/logins for the CH31 and CH36 forms on VA.gov
-Not entirely. Participants tended to find CH36 and CH31 content pages via the Chapter 33 screens. Generally, users believed career guidance and job readiness were part of the CH33 GI Bill.
-
-### Users will generally understand the function of the screening wizards, but will miss the "bypass" link
-This was confirmed: only one user saw the link and recognized it went straight to the form.
-
-### The language in the wizards and intro will confuse users; they may misunderstand when they can apply for both CH36 and CH31 benefits.
-This did seem to be the case, only one participant clearly understood there were two wizards and forms. Generally, users proceeded with the CH36 wizard and form not seeing that they might also be eligible for CH31 benefits. A few noticed the CH31 section on the confirmation screen and expressed interest in applying.
-
-### The forms themselves will be very easy for users to complete
-This proved true. Once the users made it into the two forms, they proceeded quickly and easily to submission. Participants were generally satisfied with the confirmation page, though some users wanted a different presentation or more details.
-
-## Other notes
 
 ---
