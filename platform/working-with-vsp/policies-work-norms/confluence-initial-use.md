@@ -1,7 +1,7 @@
  
 
 # Overview
-As of late Oct, 2020, we’re providing the option for anyone on VSP to use personal spaces in Confluence experimentally. e
+As of late Oct, 2020, we’re providing the option for anyone on VSP to use personal spaces in Confluence. 
 
 # What is a personal space?
 Once you have been provided your Confluence account, you will have your own your Confluence [personal space](https://vfs.atlassian.net/wiki/spaces/VI/pages/579928112/Your+personal+Confluence+space) . You can choose to use this space for drafting documentation by yourself or in collaboration with other team members. You may also come up with other ways you’d like to use your space. At this time, however, the VSP leadership team is not requiring you to create or host anything related to your VSP work in Confluence.
