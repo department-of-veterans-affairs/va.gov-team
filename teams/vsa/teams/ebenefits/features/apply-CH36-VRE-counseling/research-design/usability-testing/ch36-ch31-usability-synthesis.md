@@ -95,8 +95,21 @@ No participants actually qualified for CH36 benefits since all were too far remo
 - The education level of participants in this study was extremely high: 6/7 had masters degrees
 
 ## Recommendations
+1. Make language regarding program and its requisite form more clear.
+- Establish link between U.S.C. chapter, program name, acronym and form number (e.g. Chapter 36, Personalized Career Planning and Guidance, PCPG, and VA Form 28-8832)
+- Consistently couple acronym and form number in content
+2. Make "skip to form" link more prominent.
+3. Add clarifying language to potentially vague requirements and questions.
+- "Within the last 12 month"s vs. "the past year"
+- "Years of education including elementary, secondary and all college"
+4. Put detailed information regarding CH31 communiction options into "tell-me-more" accordions to reduce page depth and visual clutter.
+5. Offload CH31 language from CH36 intro screen to the CH36 confirmation screen, and increase its prominence there.
+6. Provide email confirmation of sucessful submissions.
 
 ## Next steps
+1. Review recommendations with team.
+2. Share research finding with business stakeholders.
+3. Work with content team to refine, clarify and minimize introduction text and wizard questions, along with form labels and instructions. 
 
 ## Appendix
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-research-plan.md)
