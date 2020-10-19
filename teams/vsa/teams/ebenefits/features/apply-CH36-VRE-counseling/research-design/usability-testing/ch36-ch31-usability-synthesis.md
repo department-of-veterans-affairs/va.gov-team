@@ -44,11 +44,7 @@ The moderator prompted users with tasks from the conversation guide. Participant
 
 2. Users were immediately comfortable navigating the screening wizard, and usually went straight to answering its questions. Only one user saw the "skip" wizard link and recognized that it went straight to the form.
 
-3. The language in the wizards and intro--and even the forms--often confused users. Only one participant clearly understood there were two wizards and forms. Generally, users proceeded with the CH36 wizard and form not seeing that they might also be eligible for CH31 benefits. A few noticed the CH31 section on the confirmation screen and expressed interest in applying.
-
-Participants found little value in the "branding" of programs preferring more generic erms like "VocRehab." Decoupling the form numbers from their program deepened the confusion when cross-program info was presented on the intro screens.
-
-The details of questions need more clarity when asking about time periods, e.g. "separation in the past year," or "years of education."
+3. The language in the wizards and intro--and even the forms--often confused users. Only one participant clearly understood there were two wizards and forms. Generally, users proceeded with the CH36 wizard and form not seeing that they might also be eligible for CH31 benefits. A few noticed the CH31 section on the confirmation screen and expressed interest in applying. </br>Participants found little value in the "branding" of programs preferring more generic erms like "VocRehab." Decoupling the form numbers from their program deepened the confusion when cross-program info was presented on the intro screens. </br>The details of questions need more clarity when asking about time periods, e.g. "separation in the past year," or "years of education."
 
 4. The forms themselves proved easy for users to complete. Once the users made it into the two forms, they proceeded quickly and easily to submission. Participants were generally satisfied with the confirmation page, though some users wanted a different presentation or more details.
 
