@@ -1,116 +1,198 @@
-# Wizard Migration Conversation Guide
+Wizard Migration Conversation Guide
+===================================
 
-## Moderator logistics
+Moderator logistics
+-------------------
 
-*Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
+Use[  #feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
 
-*Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).*
+Before the session, send out the[  observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into[  #feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 
-*In the Attendees section, make sure everyone except the participant is on mute*
+In the Attendees section, make sure everyone except the participant is on mute
 
-*In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked*
+In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
 
-*In the More section, make sure everyone has permissions to share screen.*
+In the More section, make sure everyone has permissions to share screen.
 
-*Check your [screensharing setup]*
+Check your [screensharing setup]
 
 ### Project-specific setup
 
-- [ ] Have mobile prototype available - NEED LINK
-- [ ] Have desktop prototype available - NEED LINK
+-   Have mobile prototype available - links to come
 
-*When the participant is ready, begin the session with the following intro*
+-   Have desktop prototype available - links to come
 
-## Intro - 5 minutes
+When the participant is ready, begin the session with the following intro
 
-Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about finding the right form when you want to apply for education or disability benefits on VA.gov. 
+Intro - 3 minutes
+-----------------
+
+Thanks for joining us today! My name is (Christian/Liz) and I also have some colleagues on the line observing and taking notes. Today we're going to talk about finding the right form when you want to apply for education or disability benefits on VA.gov.
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- **You'll be interacting with a prototypes.** This is a prototype that may not function exactly the way you expect. Some areas will be clickable, and some will not. Since it's a prototype, none of your actions will affect your actual VA information or benefits.
-- **If for any reason and at any time you want to stop the session, please let me know.** 
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
-  - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
+-   This entire session should take about 30 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 
-*Start recording.*
+-   In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 
-- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and audio as we talk today? 
+-   You'll be interacting with a prototype. This is a prototype that may not function exactly the way you expect. Some areas will be clickable, and some will not. Since it's a prototype, none of your actions will affect your actual VA information or benefits.
 
-## Warm-up Questions (Optional) - X minutes
+-   If for any reason and at any time you want to stop the session, please let me know.
 
-Before we look at the website, let’s start with a few warm-up questions.
+-   Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
 
-- Have you ever applied for benefits through a form on VA.gov before?
+-   If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
-- What was that experience like?
+Start recording.
 
-  
+-   I have started recording. I'd like to confirm: Are you comfortable if I record my screen and audio as we talk today?
 
-## First Task: Edu wizard scenario 1 - 8 minutes
+Warm-up Questions (Optional) - 5 minutes
+----------------------------------------
 
-DRAFT NOTES: initially thinking of setting this up to guide people to 1990, and then task 2 would go to 1990N, but maybe we just let it be more organic and wherever people go, we just guide them to the next scenario on the 2nd task
+Before we look at the website, I'd like to understand if you have any experience with forms on VA.gov
 
-- I'm going to send you a link to the prototype, and then have you share your screen.
+-   Have you ever applied for benefits through a form on VA.gov before?
 
-  *Send user link to prototype, starting on How to Apply education page*
+-   What was that experience like?
 
-- Imagine you wanted to go to use your education benefits, and you made your way to this page.  Show me what you'd do from here to start that process.
+As we go through the session, it'll be a great if you can think out loud and talk about what you're seeing. I've found it can be helpful if we go through a warm up page first.  
 
-  **If needed**:
+- Can you share your screen and then go to VA.gov?
 
-  - Guide participant to `how to apply` button
-  - Guide participant to complete wizard to trigger 1990 outcome
+- Thank you. Now, take a look at this page, and talk me through what you see, and what you can do on this page.
 
-- How did that experience line up with what you expected? 
+*Offer feedback to participant on how they're doing.  Suggest they talk more if they're too quiet, or point out anything that is especially helpful that they've done.*
 
-- Do you feel like those questions took you to the right place?
+First Task: Find form to apply for new benefits - 8 minutes
+-----------------------------------------------------------
 
-### Things to watch for:
+-   Great! Thank you for doing that.  Now, I'm going to send you a link to the prototype in the chat. The chat box can be tricky to find in Zoom when you're already sharing your screen - look for the 3 dots in the bar that tells you you are sharing content.
+-   It'll be really helpful for you to think out loud as much as possible as we go through this.
+-   INSERT LINK TO MOBILE AND DESKTOP PROTOTYPES
+-   Send user link to prototype, starting on How to Apply education page
+-   Imagine you wanted to go to use your education benefits for the first time, and you made your way to this page.  
+-   Show me what you'd do from here to start that process, and please remember to think aloud.
+    **If needed:**
+    -   Guide participant to how to apply button
 
-- How easily does the participant find the `how to apply` button, and go to the wizard?
-- Does the participant notice they were sent to a form start page (1990) from the How to Apply page?
-- How easily does the participant complete the wizard?
-- [Etc]
+    -   Guide participant to complete wizard to trigger 1990 outcome
 
-## Second Task: Starting Over - X minutes
+***Participant should be on the 1990 form intro (subway map) page***
 
-**From intro / subway map page:**
+-   How did that experience line up with what you expected?
 
-- Now imagine you wanted to apply for one of the other education programs the VA offers (e.g. National Call to Service or the Edith Norse STEM scholarship). How would you go back and find the form for one of those?
+-   Do you feel like those questions took you to the right place?
 
-### Things to watch for:
+-   Is anything here unclear? 
 
-- Does the participant notice the text link to start over?
-
-## Third Task: Edu wizard scenario 2 - X minutes
-
-- Step 1
-- Step 2
+-   Is anything here helpful?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+-   How easily does the participant find the how to apply button, and go to the wizard?
 
-## Post-Task Interview - X minutes
+-   Does the participant notice they were sent to a form start page (1990) from the How to Apply page?
 
-- Question 1
-- Question 2
-- Any questions for me? 
+-   Did the participant notice the skip link?
 
-## Thank-You and Closing - X minutes
+-   How easily does the participant complete the wizard?
+
+-   Does the sign-in alert present any usability challenges?
+
+Second Task: Start Over - 2 minutes
+-----------------------------------
+
+***Participant should be on the 1990 intro / subway map page:***
+
+- Now imagine this scenario: you already have education benefits, you've decided to move to a new school and need to update your school info with the VA. Show me how you would do that from here.
+
+  **If needed:**
+
+  -   Guide participant back to the how to apply page to start the wizard again.
+
+### Things to watch for:
+
+-   Does the participant know they need to fill out a form to update education benefits?
+
+-   Does the participant notice the text link to start over?
+
+-   Does the participant understand that the wizard has routed them somewhere?
+
+Third Task: Find form to update benefits (change school) - 5 minutes
+--------------------------------------------------------------------
+
+***Participant should be on how to apply page***
+
+- Now, please answer the questions as if you are going to update the school info associated with your education benefits.
+
+  **If needed:**
+
+  -   Guide participant through wizard to 1995.
+
+***Participant should be on the 1995 form intro (subway map) page***
+
+-   How did that experience line up with what you expected?
+
+-   Do you feel like those questions took you to the right place?
+
+-   Is anything here unclear? 
+
+-   Is anything here helpful?
+
+### Things to watch for:
+
+-   Does the participant understand they've been routed to a new form page than where they started? 
+
+-   Are they confused about where they've landed?
+
+-   Did the participant notice the skip link?
+
+Fourth Task: Review STEM scholarship eligibility info - 3 minutes
+-----------------------------------------------------------------
+
+***Participant should be on the 1995 page***
+
+I'm going to have you go through one more set of questions.  Are you familiar with the Edith Nourse Rogers STEM Scholarship? 
+
+*If not, okay to offer context: it allows some eligible Veterans and dependents in high-demand fields to extend their Post-9/11 GI Bill or Fry Scholarship benefits.*
+
+- Imagine you wanted to use STEM scholarship to extend your benefits.  Show me how you'd go through that.
+
+  **If needed:** 
+
+  -   Guide participant back to wizard, and to select 3rd option in first question:
+      *"Applying to extend my Post-9/11 or Fry Scholarship benefits using the Edith Nourse Rogers STEM Scholarship"*
+
+*After reading eligibility info, it's fine for them to select yes or no.*
+
+-   What do you think about the information you see here? 
+
+-   Is anything here unclear? 
+
+-   What is most helpful on this page?
+
+### Things to watch for:
+
+-   Did the participant get confused during this step?
+
+-   Did the participant read the eligibility information?
+
+Post-Task Interview - 5 minutes
+-------------------------------
+
+- If participant didn't notice or address this yet:
+  - Did you ever notice a way to skip the wizard?
+
+  - Can you think of a time when you wouldn't want to take the wizard?
+
+  - Did you ever notice a way to start over?
+
+  - Can you think of a time when you'd want to start over after getting to the intro page with the list of things you need to prepare for filling out the form?
+
+- Any questions for me?
+
+Thank-You and Closing - 1 minute
+--------------------------------
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
-
-Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
-    If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
-
-Great, well thank you so much again, and enjoy the rest of your day!
-
-## Sample Conversation Guides _(note: these links point to resources in the va.gov-team GitHub repo)_
-
-- [Scheduling Accessibility and Usability Study: Complex Recruit, Highly Variable based on User Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/2017-studies/access-usability/access-usability-conversation-guide.md) 
-- [Veteran ID Card Discovery Interview](
