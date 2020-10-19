@@ -2,6 +2,12 @@
 ! Work-in-Progress
 ```
 
+# WCAG Checklist 
+
+The W3C's Web Content Accessibility Guidelines (WCAG) are the worldwide standard for accessibility compliance, and the WCAG 2.0 criteria are the requirements for Section 508. This checklist offers organized guidance to meet Section 508 and accessibility compliance. 
+
+For an overview of WCAG, and distinctions between 2.0, 2.1, and 2.2, please see the [W3C WCAG documentation](https://www.w3.org/WAI/standards-guidelines/wcag/).
+
 The Section 508 criteria listed here **do not** map directly to the VSP 508-defect severity rubric. 
 
 - 508-defect-0 means the issue is harmful, _such as_, bullet #7 under Sight & Sound regarding strobing effects ([WCAG 2.3.1](https://www.wuhcag.com/three-flashes-or-below/)). Making a determination that an issue is harmful relies on the experienced expertise of an accessibility professional.
@@ -16,13 +22,6 @@ A direct mapping of severity to WCAG success criteria is **not possible**, as it
 
 
 <hr/>
-
-
-# WCAG Checklist 
-
-The W3C's Web Content Accessibility Guidelines (WCAG) are the worldwide standard for accessibility compliance, and the WCAG 2.0 criteria are the requirements for Section 508. This checklist offers organized guidance to meet Section 508 and accessibility compliance. 
-
-For an overview of WCAG, and distinctions between 2.0, 2.1, and 2.2, please see the [W3C WCAG documentation](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
 
 ## What is Section 508?
