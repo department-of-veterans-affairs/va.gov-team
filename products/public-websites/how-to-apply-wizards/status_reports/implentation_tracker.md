@@ -5,10 +5,10 @@
 | -------------       | -------------                     | -------------             | -------------           | -------------                                    |
 | Product             | Disability (526)                  | HLR                       | Education (1990, STEM)  | Personalized Care & Planning (Ch 36/31) |
 | Product Leads       | Hashimoto/Self/Majewski           | Hashimoto/Self/Majewski   | Self/Keeler             | Jason Wolf           
-| Wizard UX Spec (via Prototype) | Done                   | Done                      | Done                    | Done
-| Wizard User Test (via Prototype)| In progress           | In progress               | In progress             | Done
-| Wizard Development  |50% Complete/Hold                  | 50% Complete/Hold         | 50% Complete/Hold       | 90% Complete
-| Wizard Staging Review/Q-A | TBD                         | TBD                       | TBD                     | TBD
+| UX Spec (via Prototype) | Done                   | Done                      | Done                    | Done
+| User Test (via Prototype)| In progress           | In progress               | In progress             | Done
+| Development  |50% Complete/Hold                  | 50% Complete/Hold         | 50% Complete/Hold       | 90% Complete
+| Staging Review/Q-A | TBD                         | TBD                       | TBD                     | TBD
 | Site Links (PW)     | In progress                       | In progress               | In progress             | In progress
 | Launch Date         | November                          | November                  | November?               |Ch 31 (Early Dec), Ch 36 (Jan 4)
 
@@ -24,7 +24,10 @@
 - Education ([on Staging](https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction))
   - Wizard prototype - https://preview.uxpin.com/ca08f3dbf63475b2b62f3e8c00050ad1b19c4cb5#/pages/133085100/simulate/sitemap?mode=i
   - Rogers STEM ([is live on VA.gov](https://www.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction))
-- Personalized Care & Planning Guidance (Chapter 36) ([new Wizard prototype](https://preview.uxpin.com/2dbde8d15bf667f5c584fe4a8a6d011cf9f0a14d#/pages/132088565/simulate/sitemap))
+- Personalized Care & Planning Guidance (Chapter 36) 
+  - ([new Wizard prototype](https://preview.uxpin.com/2dbde8d15bf667f5c584fe4a8a6d011cf9f0a14d#/pages/132088565/simulate/sitemap))
+  - https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/introduction
+veterans / am3rica
 
 - Platform Review/Feedback
   - [IA Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12244)
