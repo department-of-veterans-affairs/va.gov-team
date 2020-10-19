@@ -126,7 +126,7 @@ For every project, this sprint includes all outstanding tickets from sprint 32, 
 
 ### Profile
 
-- What outstanding tickets do we still have?
+- Profile code clean-up
 
 **PM**
 
@@ -143,6 +143,10 @@ For every project, this sprint includes all outstanding tickets from sprint 32, 
   - Accessibility (Review new health care patterns)
   - Content (copy in the health care section)
   - VAOS (to make sure appointment details are correct)
+  
+**Frontend**
+
+- Create wrapper for showing dashboard 1.0 and dashboard 2.0
 
 ### Direct deposit for Edu
 
