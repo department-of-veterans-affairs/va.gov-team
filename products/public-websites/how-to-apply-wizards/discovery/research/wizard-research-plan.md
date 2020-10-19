@@ -129,7 +129,7 @@ Please list the people who will be serving in each role.
 ## Resources	
 
 - [Product epic](https://app.zenhub.com/workspaces/vsa-5dcabe208aade000013aafba/issues/department-of-veterans-affairs/va.gov-team/9665)
-- Convo Guide - to come
+- [Convo Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/discovery/research/wizard-migration-convo-guide.md)
 - Synthesis - to come	
 - Lessons Learned - to come		
 - Read-Out/Results - to come	
