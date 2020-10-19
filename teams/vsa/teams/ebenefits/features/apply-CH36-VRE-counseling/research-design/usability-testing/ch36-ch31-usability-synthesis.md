@@ -1,7 +1,9 @@
 # Research analysis of usability testing for Chapters 31 and 36
 **VSA eBenefits Team | October 2020**
 
-`James Adams, designer/researcher`
+`James Adams, designer | Slack: @Jim Adams | GH: Sporeboy`
+
+[CH36/CH31 usability testing research plan](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-research-plan.md)
 
 ---
 
@@ -23,6 +25,20 @@ Our primary goal is to move the Chapter 31 and Chapter 36 features--currently fo
 - The forms themselves will be very easy for users to complete
 
 ## Research methodology
+
+**Our methodology:** Usability testing was conducted remotely using Zoom. We held seven sessions beginning September 24; the last scheduled call was October 1. Seven of eight participants attended, and sessions typically went 45 minutes. Participants were spilt into two groups and were given either “add spouse & child/remove child” or “add student/remove student” tasks. Users were given tasks covering wayfinding, wizard use and form completion. Users were presented with a high-fidelity, fully functioning prototype created using UXPin.
+
+The moderator prompted users with tasks from the conversation guide. Participants were encouraged to talk through their exploration of the prototypes, and to speak candidly about their impressions. Remote observers and note takers were in attendance, and all sessions were recorded.
+
+#### Who we talked to:
+
+- Seven Veterans total; four men, three women
+- Age range was 25 to 74
+- All but one have a VA disability rating; four had ratings of 80% or higher
+- All but one participant lived in or near major metroploitan areas
+- All had masters degrees except one who had a bachelors degree; **educational level was extremely high** in this study
+- Participants were primarily from the middle Eastern Seaboard, with several in the Washington DC area: NC, VA, MD, DC, CA, PA
+- Three recalled experience with educational/training benefits
 
 ## Key findings
 
@@ -58,17 +74,6 @@ Our primary goal is to move the Chapter 31 and Chapter 36 features--currently fo
 - [Usability matrix]()
 
 ---
-
-We conducted usability testing to determine if the new forms and wizards are intuitive and functional for users needing to submit either form VA 28-1900 or 28-8832. This is a high-level summary of initial observations, but not the final analysis.
-
-**The goals of this document are to:**
-
-- Ensure everyone who observed the study is in alignment with the perceived findings
-- Gain insight from team/stakeholder/designers and determine specific directions to pursue as we analyze the data
-
-## Participants and testing sessions
-
-We held seven sessions beginning September 24; the last scheduled call was October 1. Seven of eight participants attended, and sessions typically went 45 minutes.
 
 ## Guiding questions
 
