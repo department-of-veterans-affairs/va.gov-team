@@ -22,9 +22,9 @@ The moderator prompted users with tasks from the conversation guide. Participant
 - Seven Veterans total; four men, three women
 - Age range was 25 to 74
 - All but one have a VA disability rating; four had ratings of 80% or higher
-- All but one participant lived in or near major metroploitan areas
-- All had masters degrees except one who had a bachelors degree; **educational level was extremely high** in this study
-- Participants were primarily from the middle Eastern Seaboard, with several in the Washington DC area: NC, VA, MD, DC, CA, PA
+- All but one participant live in or near major metropolitan areas
+- Participants live primarily on the middle Eastern Seaboard, with several in the Washington DC area (NC, VA, MD, DC, CA, PA)
+- All have masters degrees except one who had a bachelors degree; **educational level was extremely high** in this study
 - Three recalled experience with educational/training benefits
 
 #### Research questions
