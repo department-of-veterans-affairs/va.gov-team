@@ -2,7 +2,7 @@
 
 Breadcrumb: [Home]() > [Education and training]() > [Change your GI Bill school or program]() > **Change your benefits VA Form 22-1995**    
 
-Mobile breadcrumb: < [Change your benefits VA Form 22-1995]()
+Mobile breadcrumb: < [Change your GI Bill school or program]()
 
 
 ## Form Title: Change your education benefits 
