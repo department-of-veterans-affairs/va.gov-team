@@ -58,6 +58,8 @@ Participants went to the VA.gov home and were asked, "If you heard VA could help
 - Several users mentioned they'd use the search feature, two did
 - Only two users scrolled the page to the featured benefits links
 
+> "I guess I would have to go up to the search box here. And I would type that in. Because I don't see it, it's not as obvious anywhere else."
+
 ### 2. Do participants understand the function of the wizard features?
 Users were given a link to the CH36 wizard and asked, "Please take a look at this page and see if you qualify for Chapter 36 or other benefits."
 
@@ -67,6 +69,8 @@ Users were given a link to the CH36 wizard and asked, "Please take a look at thi
 - The users who went to the CH31 wizard all qualified on their own merits
 - Many users found the language around timeframe ("the past year") ambiguous and wanted clarification/specifics
 - When the wizard question led to a "stop," users understood they did not qualify; several wanted links to alternate resources or information
+
+> "...if programs are are designated specifically Chapter 31, Chapter 33, Chapter 36, why not include that up here so that, you know, someone applying can kind of get the assurance that if they're on a mission to apply for Chapter 36, ...that's still what they're applying for."
 
 ### 3. Will users identify the differences between the CH31 and CH36 programs and select the right form(s)?
 Three users navigated to the CH31 wizard. They were asked, "Why were you were sent here?", "How is this different from the previous page/screen/form?", and  "Please look at this page and see if you qualify."
