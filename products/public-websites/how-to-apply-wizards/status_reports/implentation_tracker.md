@@ -9,7 +9,7 @@
 | Wizard User Test (via Prototype)| In progress           | In progress               | In progress             | Done
 | Wizard Development  |50% Complete/Hold                  | 50% Complete/Hold         | 50% Complete/Hold       | 90% Complete
 | Wizard Staging Review/Q-A | TBD                         | TBD                       | TBD                     | TBD
-| PW Entry Points     | In progress                       | In progress               | In progress             | In progress
+| Site Links (PW)     | In progress                       | In progress               | In progress             | In progress
 | Launch Date         | November                          | November                  | November?               |Ch 31 (Early Dec), Ch 36 (Jan 4)
 
 
