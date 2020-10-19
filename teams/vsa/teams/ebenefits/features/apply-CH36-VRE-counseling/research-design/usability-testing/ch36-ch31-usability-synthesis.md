@@ -10,9 +10,24 @@
 `This document is a WIP`
 
 ## Research goals
-Our primary goal is to move the Chapter 31 and Chapter 36 features--currently form submissions--to VA.gov, maintaining all existing functionality. Secondarily, we want to reduce confusion between the two programs using screening wizards on the form introduction pages. We're conducting usability testing of the features to determine if the new forms and wizards are intuitive and functional for users needing to submit either form VA 28-1900 or 28-8832.
+Our primary goal is to move the Chapter 31 and Chapter 36 (CH31/CH36) features--currently form submissions--to VA.gov, maintaining all existing functionality. Secondarily, we want to reduce confusion between the two programs using screening wizards on the form introduction pages. We're conducting usability testing of the features to determine if the new forms and wizards are intuitive and functional for users needing to submit either form VA 28-1900 or 28-8832.
 
-#### Guiding questions
+## Research methodology
+
+**Our methodology:** Usability testing was conducted remotely using Zoom. We held seven sessions beginning September 24; the last scheduled call was October 1. Seven of eight participants attended, and sessions typically went 45 minutes. Participants were given tasks covering wayfinding, wizard use and form completion. Users were presented with a high-fidelity, fully functioning prototype created using UXPin.
+
+The moderator prompted users with tasks from the conversation guide. Participants were encouraged to talk through their exploration of the prototypes, and to speak candidly about their impressions. Remote observers and note takers were in attendance, and all sessions were recorded.
+
+#### Who we talked to:
+- Seven Veterans total; four men, three women
+- Age range was 25 to 74
+- All but one have a VA disability rating; four had ratings of 80% or higher
+- All but one participant lived in or near major metroploitan areas
+- All had masters degrees except one who had a bachelors degree; **educational level was extremely high** in this study
+- Participants were primarily from the middle Eastern Seaboard, with several in the Washington DC area: NC, VA, MD, DC, CA, PA
+- Three recalled experience with educational/training benefits
+
+#### Research questions
 - Where and how (what links/navigation) do participants expect to find CH31 and CH36 forms?
 - Do participants understand the function of the wizard features?
 - Will users identify the differences between the CH31 and CH36 programs and select the right form(s)?
@@ -23,22 +38,6 @@ Our primary goal is to move the Chapter 31 and Chapter 36 features--currently fo
 - User will generally understand the function of the screening wizards, but will miss the "bypass" link
 - The language in the wizards and intro will confuse users; they may misunderstand when they can apply for both CH36 and CH31 benefits.
 - The forms themselves will be very easy for users to complete
-
-## Research methodology
-
-**Our methodology:** Usability testing was conducted remotely using Zoom. We held seven sessions beginning September 24; the last scheduled call was October 1. Seven of eight participants attended, and sessions typically went 45 minutes. Participants were spilt into two groups and were given either “add spouse & child/remove child” or “add student/remove student” tasks. Users were given tasks covering wayfinding, wizard use and form completion. Users were presented with a high-fidelity, fully functioning prototype created using UXPin.
-
-The moderator prompted users with tasks from the conversation guide. Participants were encouraged to talk through their exploration of the prototypes, and to speak candidly about their impressions. Remote observers and note takers were in attendance, and all sessions were recorded.
-
-#### Who we talked to:
-
-- Seven Veterans total; four men, three women
-- Age range was 25 to 74
-- All but one have a VA disability rating; four had ratings of 80% or higher
-- All but one participant lived in or near major metroploitan areas
-- All had masters degrees except one who had a bachelors degree; **educational level was extremely high** in this study
-- Participants were primarily from the middle Eastern Seaboard, with several in the Washington DC area: NC, VA, MD, DC, CA, PA
-- Three recalled experience with educational/training benefits
 
 ## Key findings
 
