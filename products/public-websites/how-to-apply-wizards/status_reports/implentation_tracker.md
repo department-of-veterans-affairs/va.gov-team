@@ -5,12 +5,12 @@
 | -------------       | -------------                     | -------------             | -------------           | -------------                                    |
 | Product             | Disability (526)                  | HLR                       | Education (1990, STEM)  | Personalized Care & Planning (Ch 36/31) |
 | Product Leads       | Hashimoto/Self/Majewski           | Hashimoto/Self/Majewski   | Self/Keeler             | Jason Wolf           
-| Wizard UX Spec (via Prototype) | Done                   | Done                      | Done                    | In Progress (Jim)
-| Wizard User Test (via Prototype)| In progress           | In progress               | In progress             | N/A
+| Wizard UX Spec (via Prototype) | Done                   | Done                      | Done                    | Done
+| Wizard User Test (via Prototype)| In progress           | In progress               | In progress             | Done
 | Wizard Development  |50% Complete/Hold                  | 50% Complete/Hold         | 50% Complete/Hold       | TBD
 | Wizard Staging Review/Q-A | TBD                         | TBD                       | TBD                     | TBD
 | PW Entry Points     | TBD                               | TBD                       | TBD                     | TBD
-| Launch Date         | November                          | November                  | November?               | Launch delayed
+| Launch Date         | November                          | November                  | November?               | Ch 36/Jan 4  Ch 31/Early Dec
 
 
 ## Reference Links
