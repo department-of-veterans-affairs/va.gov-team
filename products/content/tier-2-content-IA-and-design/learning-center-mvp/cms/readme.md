@@ -10,6 +10,20 @@
 ### Agenda
 
 1. Review [backlog](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1975)
+1. URL generation
+1. Taxonomy term URLs
+1. Rebuilding environment without data wiping, but also pulling in new FE
+1. Release date MVP1.0 - Oct 29. Validation in demo environment on the 23rd.
+
+### Action items
+
+1. Follow up on FE rebuild in a demo environment
+
+## Tuesday October 13
+
+### Agenda
+
+1. Review [backlog](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1975)
 1. LC content forms access - new "Content Creator - Resources and support" role is in the backlog
    1. [#3132 "Content Creator - Resources and support" role + permissions](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3132)
    1. [#3133 New VA Forms form available to Content Admins only](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3133)
