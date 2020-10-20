@@ -5,7 +5,18 @@
  -  LC go-to-market strategy: how will users find the Learning Center?
 </details>
 
-## Tuesday October 13
+## Tuesday October 27
+
+### Agenda
+
+1. Review [backlog](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1975)
+1. anything else
+
+### Action items
+
+1.
+
+## Tuesday October 20
 
 ### Agenda
 
