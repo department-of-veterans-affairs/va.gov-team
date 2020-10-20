@@ -1,13 +1,13 @@
 # IA Review and Recommendations
-**STATUS:**
+**STATUS: NOT STARTED**
 
-**Team:** 
+**Team:** Authenticated experience
 
-**Product/Featue:** 
+**Product/Featue:** Iteration on the MY VA dashboard.  
 
-**Background/Context:**
+**Background/Context:** Originally planned as an authenticated home page, but direction changed to start with a dashboard iteration. 
 
-**IA Request:** 
+**IA Request:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/14642
 
 <hr>
 
@@ -54,6 +54,27 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 <hr>
 
 ### Meetings Notes and Background Info
+
+**10/8/2020 - Regroup**
+
+- Will no longer replace the home page, will live as iteration of dashboard
+- Page includes
+  - Name/badge section includes link to profile and small bits of info - dis rating, claims in progress and upcoming appointments
+  - Health care section
+  - Upcoming appointments, active prescriptions, link to lab and test results, secure message/inbox
+  - Learn more about your VA health benefits
+- Questions posed
+  - My VA and My Health - with initial heavy focus on health care, what what will the relationship between these entities?
+	- "Go to" links / "Learn more about your VA health benefits"
+    - Hub pages give primary focus to getting benefits, what is the most relevant destination for each?
+    - Hub page is very focused on getting benefits, is there a more helpful place to take users or something they may be commonly looking for from this experience?
+	- CTAs
+    - Scheduling takes you into tool
+		- Others take you to MHV
+    - Recommend minimizing CTAs
+
+**9/24/2020 - Design intent**
+- Meg attended: https://github.com/department-of-veterans-affairs/va.gov-team/issues/13415
 
 **4/16/20 - Kick-off**
 - when logged in you have the home page and the My VA Dashboard - they compete for attention with the Veteran
