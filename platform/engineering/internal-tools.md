@@ -136,7 +136,7 @@ If you don't already have an SSH public key, or you're not sure if you do, compl
 
 3. To generate your public and private keys, run the following command:
    
-   `ssh-keygen -f id_rsa_vagov`
+   `ssh-keygen -f ~/.ssh/id_rsa_vagov`
    
 Enter a passphrase to encrypt your key and then confirm the passphrase when prompted. ****Warning**** the lines for entering a passphrase will not show your keystrokes or input, so make sure you write this down and repeat it exactly. This is highly recommended to be set and remembered. You will see a "randomart" picture in your terminal if all previous steps have been successful (example below).
 
