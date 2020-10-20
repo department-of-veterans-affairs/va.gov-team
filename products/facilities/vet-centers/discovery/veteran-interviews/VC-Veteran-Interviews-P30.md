@@ -1,4 +1,4 @@
-**Note taking template: Vet Center - Veteran Interviews - P#30: 7am**
+**Note taking template: Vet Center - Veteran Interviews - P#30: 8am**
 
 **Intro - 3 minutes**
 
