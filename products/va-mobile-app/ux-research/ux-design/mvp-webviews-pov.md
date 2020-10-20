@@ -2,7 +2,7 @@
 
 September 2, 2020
 
-## Background & goals
+## Purpose of this document
 This document summarizes where we may use webviews in the MVP mobile app & the pros and cons of doing so.
 
 ## Things we're definitely using a webview for and why
