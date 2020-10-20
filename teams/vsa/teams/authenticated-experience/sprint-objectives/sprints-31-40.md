@@ -148,9 +148,7 @@ Week 2 of sprint 33
 
 - ?? We'll let the exploration work help us figure out next steps.
 
------
-
-**No need to include this in the objectives epic. We might do this stuff depending on how the exploration/wireframe week goes.**
+**Note:** No need to include the following design tasks in the objectives epic. We might do this stuff depending on how the exploration/wireframe week goes, but plans might change as a result of the explorations.
 
 - My VA Overview section
 - Meet with the following folks re: general My VA questions OR health care section. **Ideally, these are as soon as possible**
