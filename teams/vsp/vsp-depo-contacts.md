@@ -12,6 +12,8 @@ PMs, please make sure you have at least a bi-weekly meeting set up with the indi
 
 **Note 3:** *It might make sense at some point to consolidate this information into the [List of VSP Services](https://docs.google.com/spreadsheets/d/1Fn2lD419WE3sTZJtN2Ensrjqaz0jH3WvLaBtn812Wjo/edit#gid=0).*
 
+**Note 4:** *In case of an emergency, you can always message @depo-vsp-leads in Slack. 
+
 ---
 
 ## Escalation Path
@@ -33,8 +35,21 @@ Default to the initiative point of contact for any work that involves that initi
 ### Chante
 - Anything related to contact centers
 
+Teams: 
+- Contact Center Team
+
 ### Cory
 - Anything related to identity and login
+
+Teams: 
+- Identity
+- End to End Testing
+
+### John
+- Anything related to identity and login
+
+Teams: 
+- Identity
 
 ### Dror
 
@@ -52,7 +67,6 @@ Teams:
 - Operations
 - FE Tools
 - BE Tools
-- End to End Testing
 
 ### Jeff H
 - Anything related to our current contract
@@ -66,12 +80,12 @@ General topics:
 
 Initiatives / services:
 - Documentation site
-- Design system
+- Design system and related (form library, Sketch library, etc.) 
 
 Teams:
 - Service Design
 - Content & IA
-- Analytics & Insights
+- Design System
 
 ### Meg
 - Anything related to overall IA strategy
@@ -88,3 +102,4 @@ Initiatives / services:
 
 Teams:
 - Product Support
+- Analytics & Insights
