@@ -73,8 +73,34 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 		- Others take you to MHV
     - Recommend minimizing CTAs
 
-**9/24/2020 - Design intent**
-- Meg attended: https://github.com/department-of-veterans-affairs/va.gov-team/issues/13415
+**9/24/2020 - Design intent** - Crystabel, Tze, Cassandra Allen, Emily W, Jennifer S, Matt Shea, Peggy, Ryan, Tressa F, Trevor, Rachel R, Kevin H, Samara 
+Meg attended in place of Mikki, her notes below, feedback here: https://github.com/department-of-veterans-affairs/va.gov-team/issues/13415
+ 
+- Wireframes showed left nav versus tabs. 
+- TF - retiring the MyVA dashboard. 
+- LLantz did research around this. Most imp things were claims and disability - what $ they cd get from VA. 
+- Phase 1 is to retire MyVA, no notifications or nav. See timeline on Git page. 
+- Complicated page, high visibility. 
+- High-level wires, not designed at all. Have not really thought thru design. 
+- Each phase has a platform checkpoint planned. TF wants to set up informal meeting or Slack checkins every week or 2. 
+- Phase 2 - Healthcare and claims, Starting on this this sprint. 
+- Phase 3 - Educ, etc. - See Git page. 
+- Phase 4 - Design “blank” state and LOA1 state.
+- Phase 5 - Validation and retirement of MyVA. 
+- Eventually hoping to have 1 streamlined, personalized hub. 
+- Samara Strauss to Everyone: (1:41 PM)Disability rating and claims were the highest priority information stated by veterans in the user research sessions Liz conducted, and that’s also supported by analytics and other data.
+- Cassandra -Issue for tabs if there is no content to show. Maybe if don’t have healthcare, wd give them opportunity to enroll.
+- TF - profile will still exist. 
+- Peggy - * What if users want to look at content of current homepage? TF - showed where on wire the main sections from hp are. Links will be dynamic, for ex, if you have healthcare. 
+- Meg - Filling in for MIkki. Love the idea of regular check-ins. Thinking about complexities like disability rating — overall versus other disability ratings. Also thinking about integration with content on MHV (not as much on eBenes). 
+- Jennifer S - Accessibility of icons. Progressive web techniques for browsers. 
+- Trevor - Dynamic CTA for Vets who don’t have healthcare. Really like this! Having prompts that say, “You are eligible; let’s get started!” I lean towards left nav over tabs, which take up vertical real estate on mobile. There is also conflicting research on how to move thru tabs. We don’t have a pattern in Design System library yet. 
+- Emily - Crystabel and I are also drawn to the left side nav. Easier to stack, more flexible. Use Font Awesome 5 icons, and we can put these in our library. 
+- Crystabel - Maybe we can make the rounded boxes a Design System component. 
+- Ryan - Similarities to mobile app. Task based! One thing the mobile app team is discovering is that what we want to do and what we can do are very different. Your boxes for summaries, etc — keep these extremely flexible. Think about names being long, etc. Do we need a nav at all? Can we treat this as a product page? Like your mobile mockup. This is almost verbatim what Bridget has done for mobile app. I love this focused, nav-less version. I have a lot more ideas!
+- Samara Strauss to Everyone: (1:55 PM)BTW, Tressa and Cassandra have been syncing with the mobile team regularly, so we are already on the cross-team collaboration for these efforts. 
+- Samara Strauss to Everyone: (1:57 PM)All of the data represented here is data we have access to in VA.gov (maybe with the exception of the doctor’s name) — most of it already exists on the My VA dashboard.
+
 
 **4/16/20 - Kick-off**
 - when logged in you have the home page and the My VA Dashboard - they compete for attention with the Veteran
