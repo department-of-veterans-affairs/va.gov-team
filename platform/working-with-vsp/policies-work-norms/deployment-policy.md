@@ -64,7 +64,7 @@ When in doubt on whether an issue is _critical_ enough for out-of-band deploymen
 
 ## Step-by-step process for out-of-band deployment approval
 
-1. You must reach out to VSP DEPO leadership (currently, Kevin Hoffman or Dror Matalon) who will escalate this request to Chris Johnston for approval.
+1. You must reach out to VSP DEPO leadership (currently, Kevin Hoffman, Dror Matalon, or Rachael Roueche) who will escalate this request to Chris Johnston for approval.
 1. Once approved, contact the [VSP DevOps oncall](https://dsva.pagerduty.com/schedules#PGIEA8Q) through the [#oncall channel](https://dsva.slack.com/archives/C30LCU8S3) to coordinate the release.
 1. Within two business days of this incident, send a PR with a [postmortem](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Postmortems), including any relevant stakeholders, VSP DEPO leadership, and any VSP team members involved in resolving the incident as reviewers.
 
