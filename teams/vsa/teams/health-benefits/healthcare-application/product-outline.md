@@ -57,22 +57,24 @@
 --- 
 
 ## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
+- Coordinating with other VA outreach initiatives 
+- Support from VAMCs
 - [Link to Release Plan](#go-to-market-strategy)
 
 ## Launch Dates
-- *Target Launch Date*
-  - tbd
+- *Initial Launch Date*
+  - January 2021
 - *Actual Launch Date* 
-  - tbd
+  - Coming soon
 - *What date will you evaluate impact after launch?*
-  - 
+  - March 2021
 ---
 
 ## Solution Narrative
 
 ### Current Status
+
+- 10/2020: Project kickoff, starting research plan
 
 ### Key Decisions
 
