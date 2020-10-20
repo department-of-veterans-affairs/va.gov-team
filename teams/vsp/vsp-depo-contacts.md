@@ -12,8 +12,6 @@ PMs, please make sure you have at least a bi-weekly meeting set up with the indi
 
 **Note 3:** *It might make sense at some point to consolidate this information into the [List of VSP Services](https://docs.google.com/spreadsheets/d/1Fn2lD419WE3sTZJtN2Ensrjqaz0jH3WvLaBtn812Wjo/edit#gid=0).*
 
-**Note 4:** *In case of an emergency, you can always message @depo-vsp-leads in Slack.* 
-
 ---
 
 ## Escalation Path
