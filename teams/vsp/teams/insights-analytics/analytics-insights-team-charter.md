@@ -5,7 +5,7 @@
 ## Why we're here
 
 ### North Star:
-Number of Va.gov teams reporting metrics every quarter for product decisions.
+Number of Va.gov teams reporting metrics (product KPIs) every month for product decisions.
 
 ### Product Suite (if applicable): 
 
@@ -93,7 +93,7 @@ Empower Veteran Facing Services teams to make holistic data-informed decisions f
 ## Who we are
 
 ### Team Members:
-- DEPO Platform Product Leads: _Kevin Hoffman & Dror Matalon_
+- DEPO Platform Product Leads: _Rachael Roueche_
 - DEPO Contact Center Product Lead: _Chante Lantos-Swett_
 - Product Manager: _Joanne Esteban_
 - Implementation Specialist: _Jon Wehausen_
