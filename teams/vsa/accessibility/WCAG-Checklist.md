@@ -180,7 +180,9 @@ a. Header cells `<th>` **MUST** be associated with their respective data cells (
 ```
 
 
-b. Tables *SHOULD* have an accessible name (e.g. `<caption>`, aria-label, or aria-labelledby).[4.1.2[(https://www.wuhcag.com/name-role-value/)
+b. Tables *SHOULD* have an accessible name (e.g. `<caption>`, aria-label, or aria-labelledby).[4.1.2](https://www.wuhcag.com/name-role-value/)
+
+
 
 c. Layout tables (no header/data associations) **MUST NOT** contain `<th>` or other header markup.	[WCAG 1.3.1](https://www.wuhcag.com/info-and-relationships/)
 
