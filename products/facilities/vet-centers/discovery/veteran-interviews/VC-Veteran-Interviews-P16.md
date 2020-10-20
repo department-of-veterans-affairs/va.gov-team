@@ -1,5 +1,5 @@
 
-**Note taking template: Vet Center - Veteran Interviews - P#16:9am**
+**Note taking template: Vet Center - Veteran Interviews - P#16:9am - Oct 13, 2020**
 
 **Intro - 3 minutes**
 
