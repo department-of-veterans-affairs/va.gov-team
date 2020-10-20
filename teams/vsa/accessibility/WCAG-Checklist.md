@@ -169,7 +169,7 @@ a. Header cells `<th>` **MUST** be associated with their respective data cells (
 <thead>
   <tr>
 !   <th>Heading for a column</th>
-!   <thcolspan="3">Heading for a group of columns</th>
+!   <th colspan="3">Heading for a group of columns</th>
   </tr>
 </thead>
 <tbody>
