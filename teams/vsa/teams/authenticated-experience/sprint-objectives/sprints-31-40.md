@@ -136,13 +136,21 @@ For every project, this sprint includes all outstanding tickets from sprint 32, 
 
 **Design**
 
+Week 1 of sprint 33
+
 - Revisit direction: Wireframe explorations
   - Details for ticket
     - This should be one week
     - My VA goals: Get users to personalized information and tasks as quickly as possible. The page should be personalized, actionable, and scalable.
     - We should produce sketches/low-fi wireframes with real data, but do not focus on visual design.
 
-**We might do this stuff depending on how the exploration/wireframe week goes, but you don't need to add it to the sprint yet**
+Week 2 of sprint 33
+
+- ?? We'll let the exploration work help us figure out next steps.
+
+-----
+
+**No need to include this in the objectives epic. We might do this stuff depending on how the exploration/wireframe week goes.**
 
 - My VA Overview section
 - Meet with the following folks re: general My VA questions OR health care section. **Ideally, these are as soon as possible**
