@@ -117,13 +117,14 @@ The page <strong>&#42;&#42;MUST&#42;&#42;</strong> have a meaningful title (e.g.
 
 #### 4. Headings	
 
-<ol type="a">
-   <li>The page <strong>**MUST**</strong> have meaningful headings to label each major section, which *SHOULD* start with &lt;h1&gt; (at the beginning of the main content, or at the beginning of every section of aggregated content, or at the beginning of modal dialogs), and *SHOULD NOT* skip heading levels, to allow screen reader users to navigate the tree structure of the heading hierarchy.	<a href="https://www.wuhcag.com/headings-and-labels/">WCAG 2.4.6</a></li>
-</ol>
+The page **MUST** have meaningful headings to label each major section, which *SHOULD* start with `<h1>` (at the beginning of the main content, or at the beginning of every section of aggregated content, or at the beginning of modal dialogs), and *SHOULD NOT* skip heading levels, to allow screen reader users to navigate the tree structure of the heading hierarchy. [WCAG 2.4.6](https://www.wuhcag.com/headings-and-labels/)
+
+<details><summary>Review WCAG 2.4.6 example</summary>
 
 The image below will be replaced with a corrected version, with the 'dt' followed by a 'dd'. 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/resources/images/dodont-headers.png" alt="annotation of a webpage showing proper use of semantic headings and styling" width="70%" />
 
+</details>
 
 #### 5. Links and Navigation
 (See also Custom Widgets in Part 3 for dynamic menus (drop-down accordion, etc.)
@@ -140,6 +141,8 @@ The image below will be replaced with a corrected version, with the 'dt' followe
 #### 6. Tables	
 
 a. Header cells `<th>` **MUST** be associated with their respective data cells (via scope or headers + id). [WCAG 1.3.1](https://www.wuhcag.com/info-and-relationships/)
+
+<details><summary>Review WCAG 1.3.1 example</summary>
 
 **Do:**
 
@@ -178,7 +181,7 @@ a. Header cells `<th>` **MUST** be associated with their respective data cells (
   </tr>
 </tbody>
 ```
-
+</details>
 
 b. Tables *SHOULD* have an accessible name (e.g. `<caption>`, aria-label, or aria-labelledby).[4.1.2](https://www.wuhcag.com/name-role-value/)
 
