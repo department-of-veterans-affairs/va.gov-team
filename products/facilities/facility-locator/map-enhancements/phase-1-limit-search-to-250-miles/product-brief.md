@@ -1,5 +1,5 @@
 # Product Brief
-Facility Locator Map Enhancements: Phase 1- Limit Search to 250 miles
+Facility Locator Map Enhancements: Phase 1- Limit Search to 500 miles
 ---
 
 ## Overview
@@ -8,7 +8,7 @@ Veterans will have the information they need to understand search results within
 ## Problem Statement
 
 Following a change expected to be implemented as part of PPMS 10.0 in early November...
-- when a Veteran uses the Facility Locator to search for a Community care facility, the list of search results will be limited to facilities within 250 miles. 
+- when a Veteran uses the Facility Locator to search for a Community care facility, the list of search results will be limited to facilities within 500 miles. 
 
 This is an issue because, _with current functionality_...
 - there is no method to notify the Veteran about this search limitation.
