@@ -12,13 +12,13 @@ Click here to sign up: https://mailchi.mp/d59e37e19d1a/vagov-platform-newsletter
 
 ## Documentation
 
-* Newsletter archive - [view past issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/platform-newsletter/archive.md)
+Newsletter archive - [view past issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/platform-newsletter/archive.md)
 
 ------
 
 ## Point of contact
 
-* Slack channel: [platform-newsletter](https://dsva.slack.com/archives/C0126N46NLS)
+Slack channel: [#platform-newsletter](https://dsva.slack.com/archives/C0126N46NLS)
 
 ------
 
