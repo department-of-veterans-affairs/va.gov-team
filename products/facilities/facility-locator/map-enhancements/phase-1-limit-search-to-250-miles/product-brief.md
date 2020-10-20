@@ -116,6 +116,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
  
 ---
 
+## Links to relevant documentation
+
+- [Competitive analysis PDF](https://app.zenhub.com/files/133843125/315c0bd6-e7c8-4144-9222-19670e7b25e2/download) used to inform wireframes
+- [Recommendations based on analysis with supporting visual examples](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/map-enhancements/Map%20Behavior%20-%20Recommendations.pdf)
+
 ## Solution Narrative
 
 ### Current Status
@@ -139,10 +144,13 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
+- Team Name: Facilities
 - GitHub Label: 
-- Slack channel: 
+- Slack channel: #vsa-facilities
 - Product POCs:
+  - DEPO Product Lead: Dave Conlon
+  - Product Manager: Michelle Middaugh
+  
 - Stakeholders: 
 
 </details>
@@ -151,10 +159,16 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ DEPO Product Lead: Dave Conlon
+ Product Manager: Michelle Middaugh
+ Front end engineers
+ - Michael Pelz-Sherman
+ - Gibran Rodriguez
+ Back end engineer
+ - Lance Sanchez
+ Design/Research
+ - Leyda Hughes
+ - Chris Logan
  
 </details>
 
