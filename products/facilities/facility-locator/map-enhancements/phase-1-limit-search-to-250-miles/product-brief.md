@@ -16,7 +16,9 @@ This is an issue because, _with current functionality_...
 - the map will continue to zoom out, autosearching for a result which could be an unreasonable distance from the Veteran
 
 How might we....
-make changes which support Veterans following this change, resolve other existing usability issues, and make  the search expereince better overall 
+- make changes which support Veterans following this change
+- resolve other existing usability issues
+- make  the search expereince better overall 
 
 ## Desired User Outcomes
 
@@ -48,23 +50,24 @@ _With this problem solved, what should users be able to do/achieve that they cou
 * _What are the most important metrics that track with this product/initiative's success?_
 * _Include links to Domo or Google Analytics Dashboards/Reports_
 
+#### Baseline KPI Values
+* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+
 <details>
  <summary> **User satisfaction** </summary>
  
 ![5 star Feedback through September 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/5-star-feedback-oct2020.png)
 
 </details>
- 
-
-#### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
-- Objective:
-  - Key result: Veterans can find a Community care provider beyond the limit of the original search parameters
-  - Key result: 
+- Objective:Veterans can find a Community care provider beyond the limit of the original search parameters
+  - Key result: Improved veteran user satisfaction scores
+  - Key result: Decrease total number of search requests (due to auto-firing of search due to map movement)
+  - Key result: Decrease the number of PPMS search requests for the same care type (due to auto-zoom)
+ 
 
 
 ---
