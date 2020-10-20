@@ -1,13 +1,9 @@
-# Product Outline - Healthcare Application
+# Product Outline - Health care application
 ---
 
-## Overview
-*How might we improve the experience of Veterans applying for VA health care online?
-
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
 
-*How might we improve the experience of Veterans who are applying for VA health care online?
+- How might we improve the experience of Veterans who are applying for VA health care online?
  
 ## Desired User Outcomes
 
