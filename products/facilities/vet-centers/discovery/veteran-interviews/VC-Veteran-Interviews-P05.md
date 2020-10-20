@@ -1,5 +1,5 @@
 
-**Vet Center - Veteran Interviews - P#5: 7pm**
+**Vet Center - Veteran Interviews - P#5: 7pm - Sept 30, 2020**
 
 **Intro - 3 minutes**
 
