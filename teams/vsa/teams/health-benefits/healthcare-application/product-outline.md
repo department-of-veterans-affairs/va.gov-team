@@ -2,44 +2,43 @@
 ---
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+*How might we improve the experience of Veterans applying for VA health care online?
 
 ## Problem Statement
 *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+*How might we improve the experience of Veterans who are applying for VA health care online?
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Increase in the number of online applications
+- Less time to complete an application
+- Fewer dropoffs/incomplete applications
 
 ## Undesired User Outcomes
-
+- Longer time to apply, more complex application
 
 ## Desired Business Outcomes
-
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Veterans are comfortable and confident applying online, and fewer opt to apply in person
 
 ## Undesired Business Outcomes
-
+- False/incorrect applciations
 
 ---
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
+* Key drop off points along the application
+* Time to commplete
+* Number of completed applications
+* https://va-gov.domo.com/page/290380612?userId=1492182741
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+* Coming soon
 
 ### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
 
-- Objective:
+- Objective: More Veterans apply for health care online
   - Key result: 
   - Key result: 
 
@@ -47,14 +46,17 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- If we make the online health care application easier, Veterans who would have preferred to apply in person will instead opt to apply online
+
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+- As of 10/2020, we're going to focus on:
+   - Understanding what Veteran pain points are with the current applicaiton process
+   - Updating the UI to meet VA.gov design & accessibility standards
+   - Adding a question distinguishing between mailing & residential addressses
+   - Updating any content around the health care application pages that may be a source of confusion
+   - Updating the questions on the online form to align with the new 10-10EZ
 
 --- 
 
