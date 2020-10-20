@@ -139,11 +139,50 @@ The image below will be replaced with a corrected version, with the 'dt' followe
 
 #### 6. Tables	
 
-<ol type="a">
-   <li>Header cells (&lt;th&gt;) <strong>**MUST**</strong> be associated with their respective data cells (via scope or headers + id).	<a href="https://www.wuhcag.com/info-and-relationships/">WCAG 1.3.1</a></li>
-   <li>Tables *SHOULD* have an accessible name (e.g. &lt;caption&gt;, aria-label, or aria-labelledby).	<a href="https://www.wuhcag.com/name-role-value/">WCAG 4.1.2</a></li>
-   <li>Layout tables (no header/data associations) **MUST NOT** contain &lt;th&gt; or other header markup.	<a href="https://www.wuhcag.com/info-and-relationships/">WCAG 1.3.1</a></li>
-</ol>
+a. Header cells `<th>` **MUST** be associated with their respective data cells (via scope or headers + id). [WCAG 1.3.1](https://www.wuhcag.com/info-and-relationships/)
+
+**Do:**
+
+```diff
+<thead>
+  <tr>
+    <th scope="col">Heading for a column</th>
+    <th scope="colgroup" colspan="3">Heading for a group of columns</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th scope="row">First column of the first row heading</th>
+    <td>Table cell data</td>
+    <td>Table cell data</td>
+    <td>Table cell data</td>
+  </tr>
+</tbody>
+```
+
+**Don't:**
+
+```diff
+<thead>
+  <tr>
+!   <th>Heading for a column</th>
+!   <thcolspan="3">Heading for a group of columns</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+!   <th>First column of the first row heading</th>
+    <td>Table cell data</td>
+    <td>Table cell data</td>
+    <td>Table cell data</td>
+  </tr>
+</tbody>
+```
+
+
+b. Tables *SHOULD* have an accessible name (e.g. `<caption>`, aria-label, or aria-labelledby).[4.1.2[(https://www.wuhcag.com/name-role-value/)
+
+c. Layout tables (no header/data associations) **MUST NOT** contain `<th>` or other header markup.	[WCAG 1.3.1](https://www.wuhcag.com/info-and-relationships/)
 
 
 #### 7. Lists	
