@@ -136,6 +136,10 @@ For every project, this sprint includes all outstanding tickets from sprint 32, 
 
 **Design**
 
+- Revisit direction: Wireframe explorations
+
+**We might do this stuff depending on how the exploration/wireframe week goes, but you don't need to add it to the sprint yet**
+
 - My VA Overview section
 - Meet with the following folks re: general My VA questions OR health care section. **Ideally, these are as soon as possible**
   - IA (Talk about nav/bread crumb treatment; On page navigation) — Schedule for week of October 26 (Meg is out next week)
