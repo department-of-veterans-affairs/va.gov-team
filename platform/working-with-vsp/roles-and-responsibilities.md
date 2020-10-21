@@ -6,7 +6,7 @@ Here you can find finalized documentation on each of the practices and services 
 
 ## Roles and Responsibilities by Practice
 
-* [Accessibility](/roles-and-responsibilities/accessibility.md)
+* [Accessibility](/platform/working-with-platform/roles-and-responsibilities/accessibility.md)
 
 ### To come 
 
