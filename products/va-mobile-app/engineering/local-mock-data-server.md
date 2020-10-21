@@ -11,11 +11,15 @@ Open a terminal and run the commands below to check out the mobile mock data bra
 ```bash
 # clone the api
 git clone git@github.com:department-of-veterans-affairs/vets-api.git
+cd vets-api
 git checkout mobile-api-mock-data
+cd ..
 
 # clone the mock data repo
 git clone git@github.com:department-of-veterans-affairs/vets-api-mockdata.git
+cd vets-api-mockdata
 git checkout mobile-api-mock-data
+cd ..
 ```
 
 ### First run
