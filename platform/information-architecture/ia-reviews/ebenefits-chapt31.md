@@ -1,5 +1,5 @@
 # IA Design and  Recommendations
-**STATUS: IN PROGRESS**
+**STATUS: COMPLETE 09/15/2020**
 
 **Team:** eBenefits
 
