@@ -979,8 +979,6 @@ Back to [Table of Contents](#table-of-contents)
 **Opened:** July 8, 2020
 - [A11y-Should: Semantic markup changes to form input - #9606](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9606)<br/>
 **Opened:** May 28, 2020
-- [A11y-Must: Add whitespace above H1 - #9600](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9600)<br/>
-**Opened:** May 28, 2020
   
 Back to [Table of Contents](#table-of-contents)
 
