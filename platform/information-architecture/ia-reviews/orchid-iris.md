@@ -61,8 +61,12 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 - combined form from iris and gibill? mhv? May start out with single form and then fold others in. still unsure if they will be combined or not. 
 - they are thinking about a more global contact us "experience", so we should continue to collaborate on that
 - unauthenticated form, but need to consider authenticated experience - gibill currently requires login
-IA feedback/questions in design intent ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/12613
-
+- IA feedback/questions in design intent ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/12613
+- In order to effectively complete IA work, some decisions will need to be made:
+  - Will we be implementing 3 independent forms, or will they be combined?
+  - If they are 3 independent forms, what is the focus/scope/purpose of each one compared to the other?
+  - Will there be additional content either on the page or in a separate page for more indepth information about the form, introduction to the form, etc. Would also like to discuss this in the context of an overall site "Contact us" page/experience.
+  
 8/12/2020 - Kick-off
 - 3 forms - IRIS, GI Bill cust help, MHV
 - IRIS interface is what sits behind the contact us option on va.gov
