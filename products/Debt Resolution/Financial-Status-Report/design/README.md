@@ -33,6 +33,6 @@
 - Confirmation
 
 **Notes:**
-- Profile contact information pattern to be 
+- Profile contact information pattern tbd
 - Loop list pattern being assessed (Pension, VAOS, calculator patterns)
 - Not-so-happy paths tbd
