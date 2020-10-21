@@ -34,7 +34,7 @@ A wireframes set for [feature name] will be delivered with the technical specifi
 
 ## Acceptance Criteria
 > when is the ticket done 
-- [ ] UI review meeting with product for feature capabilities
+- [ ] UI review meeting with product/team for feature capabilities
 - [ ] UI review meeting with engineering for layout and callouts (can be the same meeting as above)
 - [ ] Published mockup link exists and it is added/updated within the product feature outline
 - [ ] Accessibility review is complete and feedback is incorporated into the mockup
