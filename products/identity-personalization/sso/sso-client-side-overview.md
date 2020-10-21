@@ -47,7 +47,7 @@ The exceptions to Redux come in utilities that are called outside of the direct 
 
 ## Testing
 
-The general model for development of SSO functionality has been adding unit tests for all common scenarios and testable edge cases encountered. This has mostly been for  `sso/index.js`, `AutoSSO.jsx`, and user/authentication/utilities.js`. vets-website` has recently started using Cypress for E2E testing, but there haven't been any tests written with that.
+The general model for development of SSO functionality has been adding unit tests for all common scenarios and testable edge cases encountered. This has mostly been for  `sso/index.js`, `AutoSSO.jsx`, and `user/authentication/utilities.js`. `vets-website` has recently started using Cypress for E2E testing, but there haven't been any tests written with that.
 
 
 
