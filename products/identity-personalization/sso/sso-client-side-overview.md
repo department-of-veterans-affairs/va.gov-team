@@ -33,7 +33,7 @@ In iterating on code with dependencies on the response from `/keepalive`, we ini
 
 ### Caveats with local development
 
-Due to CORS issues, the keep-alive endpoint can't currently be reached when developing locally. This is currently circumvented with a mocked keep-alive call that returns null values (avoiding any code failures while also not triggering automatic logins or logouts). For minor debugging locally, `mockKeepAliveSSO.js`  still accepts `keepalive-ttl`and `keepalive-ttl` query parameters on any URL to test different values in lieu of `session-timeout` and `va_eauth_csid`.
+Due to CORS issues, the keep-alive endpoint can't currently be reached when developing locally. This is currently circumvented with a mocked keep-alive call that returns null values (avoiding any code failures while also not triggering automatic logins or logouts). For minor debugging locally, `mockKeepAliveSSO.js`  still accepts `keepalive-ttl`and `keepalive-authn` query parameters on any URL to test different values in lieu of `session-timeout` and `va_eauth_csid`.
 
 
 
