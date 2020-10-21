@@ -77,6 +77,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [GI Bill Section 103](#gi-bill-section-103)
       - [GI Bill STEM Standalone Form](#gi-bill-stem-standalone-form)
     - [VFS Veterans Affairs Online Scheduler (VAOS)](#vfs-veterans-affairs-online-scheduler-vaos)
+      - [VAOS Express Care Appointments](#vaos-express-care-appointments)
     - [Covid-19 Resources (VSA Public Websites)](#covid-19-resources-vsa-public-websites)
     - [SSOe Single Sign On](#ssoe-single-sign-on)
     - [COVID-19 Chatbot](#covid-19-chatbot)
@@ -832,6 +833,27 @@ Back to [Table of Contents](#table-of-contents)
 **Open issues**
 - [[COGNITION]: VAOS Appointment Tabs - CONSIDER adding SR-only text to the visual tab labels - #11470](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11470)<br/>**Production** | **Opened:** June 15, 2020 | **Severity:** _508-defect-4 - **Trivial**_
 
+Back to [Table of Contents](#table-of-contents)
+
+---
+#### VAOS Express Care Appointments
+
+**Audit status:** _VSP full audit completed October 2020_<br/>
+
+**Open issues**
+- [[KEYBOARD] 508-defect-1: VAOS appointment tabs MUST be keyboard accessible - #15015](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15015)<br/>**Limited production** | **Opened:** October 19, 2020 | **Severity:** _508-defect-1 - **Critical**_
+- [[SCREENREADER]: 508-defect-2: Focus MUST be managed when users cancel an appointment - #15016](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15016)<br/>**Limited production** | **Opened:** October 19, 2020 | **Severity:** _508-defect-2 - **Serious**_
+- [[COGNITION] 508-defect-3: Telephone numbers SHOULD be well-formed and use the accessible React component - #15046](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15046)<br/>**Limited production** | **Opened:** October 20, 2020 | **Severity:** _508-defect-3 - **Minor**_
+- [[COGNITION] 508-defect-3: Cancel appointment buttons SHOULD have an accessible label - #15050](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15050)<br/>**Limited production** | **Opened:** October 20, 2020 | **Severity:** _508-defect-3 - **Minor**_
+- [[COGNITION] 508-defect-3: Appointment tabs SHOULD have an accessible label - #15052](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15052)<br/>**Limited production** | **Opened:** October 20, 2020 | **Severity:** _508-defect-3 - **Minor**_
+- [[COGNITION] 508-defect-3: Character counts MUST announce properly in IE11 + JAWS - #15079](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15079)<br/>**Limited production** | **Opened:** October 20, 2020 | **Severity:** _508-defect-3 - **Minor**_
+- [[COGNITION] 508-enhancement: CONSIDER adding aria-labelledby attributes to emergency care exclusion lists - #15102](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15102)<br/>**Limited production** | **Opened:** October 20, 2020 | **Severity:** _508-defect-enhancement_
+- [[MOBILE]: Should buttons be full-width at mobile size for creating an Express Care appointment? - #15086](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15086)<br/>**Limited production** | **Opened:** October 20, 2020
+- [[DESIGN]: Should the primary action be on the left in modals with two action buttons? - #15082](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15082)<br/>**Limited production** | **Opened:** October 20, 2020
+- [[DESIGN]: Mobile breadcrumb looks indented a bit too much on the form views - #15083](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15083)<br/>**Limited production** | **Opened:** October 20, 2020
+- [[DESIGN]: Should the Express Care radio button labels be bold, or regular weight like requesting an in-person appointment? - #15084](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15084)<br/>**Limited production** | **Opened:** October 20, 2020
+- [[DESIGN]: Definition lists are not spaced evenly in IE11 - #15103](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15103)<br/>**Limited production** | **Opened:** October 20, 2020
+  
 Back to [Table of Contents](#table-of-contents)
 
 ---
