@@ -102,6 +102,6 @@
 ### Sprint 31, ending October 6, 2020
 ![Sprint 31](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/images/sprint%20retro%2031.png)
 
-### Sprint 32, enging October 20, 2020
+### Sprint 32, ending October 20, 2020
 ![Sprint 32](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/images/Sprint%2032.png)
 
