@@ -20,7 +20,7 @@
 
 
 ## Description
-> this should be a plain english description of what the ticket is. What will the team get at the end of this ticket?
+> this should be a plain english description of what the ticket is. What will the team get at the end of this ticket? A research report detailing findings and design recommendations from the research study.
 
 ##Reference Materials
 - Review [research checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/lead-researcher-checklist.md)
