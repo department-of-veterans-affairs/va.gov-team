@@ -29,18 +29,18 @@ The moderator prompted users with tasks from the conversation guide. Participant
 
 #### Research questions
 - Where and how (what links/navigation) do participants expect to find CH31 and CH36 forms?
-- Do participants understand the function of the wizard features?
+- Do participants understand the language and function of the wizard features?
 - Will users identify the differences between the CH31 and CH36 programs and select the right form(s)?
 - What challenges prevent users from quickly and accurately completing the forms?
 
 #### Hypotheses
 - Users will have some difficulty locating the landing pages/logins for the CH31 and CH36 forms on VA.gov
 - User will generally understand the function of the screening wizards, but will miss the "bypass" link
-- The language in the wizards and intro will confuse users; they may misunderstand when they can apply for both CH36 and CH31 benefits.
+- The language in the wizards and intro will confuse users; they may misunderstand when they can apply for both CH36 and CH31 benefits
 - The forms themselves will be very easy for users to complete
 
 ## Key findings
-1. While users in this study rarely went directly to CH31/CH36 links, they did tend to find CH36 and CH31 content pages via the Chapter 33 screens. Two users found CH31/CH36 easilty using the search feature. Generally, users believed career guidance and job readiness were part of the CH33 GI Bill.
+1. While users in this study rarely went directly to CH31/CH36 links, they did tend to find CH36 and CH31 content pages via the Chapter 33 screens. Two users found CH31/CH36 easily using the search feature. Generally, users believed career guidance and job readiness were part of the CH33 GI Bill.
 
 2. Users were immediately comfortable navigating the screening wizard, and usually went straight to answering its questions. Only one user saw the "skip" wizard link and recognized that it went straight to the form.
 
