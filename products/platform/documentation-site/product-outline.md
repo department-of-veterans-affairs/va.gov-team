@@ -10,26 +10,29 @@ VSP has created a myriad of documentation to help our customers (i.e. VFS teams)
 - Frustrating our customers, and 
 - Potentially resulting in products on VA.gov that don't meet VSP standards. 
 
-On 2020-09-15, VSP finalized acquisition of Confluence.  Confluence will be able to address these challenges, but there is a lot of work to be done between acquisition and global release.
-
 _HMW leverage Confluence to improve the findability of documentation for VFS teams?_
 
+**This quarter (2020 Q4), the Content/IA team is running a pilot to identify how VFS developers prioritiza and group tasks, in order to develop an IA that is easily navigable.**
+
+
 ## Personas
-* VFS designers and content writers
 * VFS developers
-* VFS PMs and POs
+* VFS PMs and POs (out of scope for pilot)
+* VFS designers and content writers (out of scope for pilot)
 
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
+For the quarter:
+* VFS sentiment around proposed platform developer documentation
+
+Overall:
 * Volume of support requests
 * Complexity of support given
 * VSF sentiment around navigating and consuming Confluence content
-* Placeholder: [Explore what analytics Confluence has built in that we can leverage](https://confluence.atlassian.com/confeval/confluence-evaluator-resources/confluence-analytics-statistics)
-  * To investigate if covered by Confluence analytics: Time spent finding documentation, or number of clicks needed to find desired documentation
  
 #### Baseline KPI Values
-- VSF sentiment around current platform documentation: [MURAL board](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1587506427611/4fb63eb007eadec05ce8634499699ff610706a7d)
+- VFS sentiment around current platform documentation: [MURAL board](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1587506427611/4fb63eb007eadec05ce8634499699ff610706a7d)
 
 ## Assumptions
 
