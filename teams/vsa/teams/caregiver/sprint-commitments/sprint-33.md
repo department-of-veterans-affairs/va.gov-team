@@ -4,7 +4,7 @@
 
 ## Frontend
 - [ ] [Statement of truth checkboxes](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14697)
-- [ ] Look into removing facility questions from schema
+- [ ] Look into unnesting recent medical care questions in schema
 - [ ] 10-10EZ Accessibility bugs/tech debt
 - [ ] Stretch: Start looking into 10-10EZ Address 
 
