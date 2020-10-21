@@ -1,9 +1,10 @@
-# Conversation Guide Template for Moderated Research
+# VSP Conversation Guide Template for Moderated Research with VFS teams
+
 ## Moderator logistics
 
 *Use [#vsp-research](https://dsva.slack.com/archives/C013Y167YTB) in Slack for real-time feedback from observers.*
 
-*Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel).*
+*Before the session, send out the observer instructions to your observers*
 
 *In the Attendees section, make sure everyone except the participant is on mute*
 
@@ -36,20 +37,17 @@ Before we start, a few things I want to mention:
 
 Before we look at the [thing you’re testing], let’s start with a few background questions.
 
-What team are you on?
-What is your role on the team?
-How long have you been working on this project?
-What has your experience been like with X?
-Add more if relevant/needed
+- What team are you on?
+- What is your role on the team?
+- How long have you been working on this project?
+- What has your experience been like with X?
+- _Add more if relevant/needed_
 
 ## First Task: [TASK NAME] - X minutes
-Step 1
-Step 2
-
-
+- Step 1
+- Step 2
 
 ### Things to watch for:
-
 
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
