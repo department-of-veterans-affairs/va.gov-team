@@ -12,9 +12,6 @@ VSP has created a myriad of documentation to help our customers (i.e. VFS teams)
 
 _HMW leverage Confluence to improve the findability of documentation for VFS teams?_
 
-**This quarter (2020 Q4), the Content/IA team is running a pilot to identify how VFS developers prioritiza and group tasks, in order to develop an IA that is easily navigable.**
-
-
 ## Personas
 * VFS developers
 * VFS PMs and POs (out of scope for pilot)
@@ -41,9 +38,9 @@ Overall:
 * The VSP team will be able to customize Confluence without undue burden.
  
 ## Solution Approach
-We will start with two sub-initiatives (unprioritized):
-* Defining what pilot parameters would be.  Methodology to come.
-* Familiarizing ourselves with Confluence from a baseline user and an admin user perspective 
+This quarter (2020 Q4), the Content/IA team is running a pilot to identify how VFS developers prioritize and group tasks, in order to develop an IA that is easily navigable.
+
+With the pilot, we can establish a process of uncovering and understanding VFS developers' task/categorization association, and apply this process to tasks that other practitioners perform. 
 
 ## Launch Dates
 Launch Date: TBD
