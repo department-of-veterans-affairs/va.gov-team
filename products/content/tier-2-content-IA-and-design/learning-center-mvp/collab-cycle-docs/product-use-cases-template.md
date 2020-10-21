@@ -30,7 +30,7 @@ Link to product outline: [Resources and support (formerly called learning center
 
 * **Instructions to access in demo environment (for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - http://learningcenter.demo.ci.cms.va.gov/
-  - the final/real URL for the LC homepage will be available once the LC homepage is created in the CMS - still TBD.
+  - the URL for the LC homepage will be va.gov/resources/   {updated 10/21 with final IA recommendation}
 
 ## Use Case B
 
@@ -55,30 +55,23 @@ Link to product outline: [Resources and support (formerly called learning center
 * **Link to designs**
   - Mural board: [Thank you for your feedback.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1588167553516/2773c854e8ff3a725a5e3ee03272b78e8519f78b?wid=0-1602252163376)
 
-* **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - lorem ipsum
-  
-  ## Use Case D
 
-* **Description - wrong breadcrumb links** TBD
-  - User is on an article that belongs to X primary category. (One primary category is selected in the CMS for each article.) The breadcrumb should show: `Home > Resources and support > {Primary-category-label} > {Article H1}`  but doesn't show the correct path. 
-  - The user is on an 'all articles' landing page for a category. The breadcrumb should show: `Home > Resources and support > All articles in: {category-name}`  or if it is a tag landing page: `Home > Resources and support > All articles tagged: {tag-label}` 
+## Use Case D
+
+* **Description - wrong breadcrumb links** {updated 10/21 with final IA recommendation}
+  - User is on an article that belongs to X primary category. (One primary category is selected in the CMS for each article.) The breadcrumb should show: `Home > Resources and support > {Article H1}`  but doesn't show the correct path. 
+  - The user is on an 'all articles' landing page for a category. The breadcrumb should show: `Home > Resources and support > All articles in: {category-name}`  
   - The user is on an 'all articles' landing page for a tag. The breadcrumb should show: `Home > Resources and support > All articles tagged: {tag-label}` 
 
 
 
-* **Link to designs**
-  - lorem ipsum
-
-* **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - lorem ipsum
 
 
   ## Use Case E
 
-* **Description - global article template fields are not showing/missing**
+* **Description - required global article template fields are not showing/missing**
 
-  - All articles share a set of 'global' article sections/fields. All articles should include the following global fields:
+  - All articles share a set of 'global' article sections/fields. All articles should include the following required global fields:
     - H1 title of article
     - Intro text (This is the answer text for single Q&A article)
     - At least 1 tag. [See doc for list of 1.0 tags[(https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/mvp-phases-to-launch#designs)
@@ -94,7 +87,7 @@ Link to product outline: [Resources and support (formerly called learning center
 
 Templates
 
-- some templates pull certain     fields, whereas others don't
+- some templates pull certain fields, whereas others don't
 
 
 **Multiple FAQs article template content fields:**
