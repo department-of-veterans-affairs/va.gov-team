@@ -1,6 +1,6 @@
 # Product questions and answers for VBA/eBenefits/BGS
 
-## VBA/Ebenefits
+## Ebenefits
 
 **Can you add direct deposit information if you are eligible but have not yet set up direct deposit (eg. You currently receive payment via checks, or didn’t give bank info on a benefit application)?**
 
@@ -8,7 +8,13 @@ Jeffrey Pomietlarz via email on 10.21.20 over Teams:
 
 - He's not sure; check-in with eBenefits team.
 
+**How much traffic should we expect weekly/monthly for this feature?**
+
+## VBA
+
 **Can people still use VA Form 29-0309 to enroll in direct deposit, or is this being phased out like form 0296?**
+
+Answered by Luke Tickner.
 
 Even though this form appears to be for direct deposit for any benefit, it's not. This form is actually for direct deposit for insurance purposes only. It is not an edu direct deposit form.
 
