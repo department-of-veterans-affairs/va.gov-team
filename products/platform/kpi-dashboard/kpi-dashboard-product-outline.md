@@ -12,6 +12,7 @@
 | Team Member  | Slack         |
 |--------------|---------------|
 | Amy Cesal    | @amy cesal    |
+| Ben McGrady  | @ben mcgrady  |
 | Brian Martin | @brian martin |
 | Jon Wehausen | @jon wehausen |
 
@@ -26,13 +27,13 @@ Holistic veteran facing services data is difficult to access and interpret becau
  
 ## Desired User Outcomes
 
-As a VA product decision maker, I want to see my product’s success metrics in one place so that I can easily measure my product’s performance and use data to inform my product decisions.
+As a VA product decision maker (product managers and product owners), I want to see my product’s updated success metrics in one place so that I can easily measure my product’s performance and use data to inform my product decisions.
 
 **Product Decision Maker:**
 - Product Leads: Product Owners & Product Managers
 - Secondary/Proxy: Product Teams
 
-By not addressing product decision makers’ ability to see metrics & KPIs in one place, Insights risks KPIs and data not being tracked and therefore specific performance, usability, and outcomes metrics not being used to improve products being built and maintained on VA.gov.
+By not addressing product decision makers’ ability to easily see see and understand updates to , the risk is that KPIs and data not being tracked and therefore specific performance, usability, and outcomes metrics not being used to improve products being built and maintained on VA.gov.
 
 **Future Scope:**
 
@@ -213,29 +214,68 @@ Use the new BI Tool, Domo, to deliver the previous front end approach.
 - Users wanted training on how to use Domo
 - Users were **still not logging in and checking** the data
 
-### Current Status
+---
+**4th Platform Iteration**
 
-Q1-Q2 2020
+Q2 2020
 
 **User Approach:** 
-If we provide a tool that surfaces user/team-identified KPIs, will users be interested in using data to inform their product workflow?
+If we build a KPI dashboard that has a surfaces team-driven KPIs (after providing VFS teams with resources for more robust KPIs), will users analyze the data and return to the product?
 
 **Solution:** 
-Use Domo to deliver team-identified KPIs. We asked that the KPIs be completed, mapped to their product, and to OKRs.
+Use Domo to deliver team-identified KPIs. 
+- We asked that the KPIs be completed, mapped to their product, and to OKRs.
+- We created and sent out a self-serve KPI setting workshop on Mural to facilitate KPI setting
 
-**Current Findings** (as of April 1, 2020)
+**Findings as of April 1, 2020**
 - Users were very excited about using the data and had a good understanding of how to proceed with product and business decisions using the data
 - Users were consistently returning to the tool
 - Metrics are limited to whichever metrics the team deems important. Some of these metrics are still unavailable or unautomated without a data warehouse.
 
-**Current Approach**
-Expand KPI bet to other VFS teams. Test user stickiness and check in for user sentiment.
+---
+
+#### Current Iteration
+
+Q3 2020-Present
+
+**Findings as of October, 2020**
+Data Quality
+  - Increased the quality of available user interaction data:
+     - Funnels: Google Analytics simplifies how users go through a funnel. With BigQuery, we have been testing using raw data & adding our own business logic
+     - Time to Complete: We didn't have this with Google Analytics. This would have required a lot of customized, manual effort, and would have been brittle in how would have been implemented (nuanced user behavior would not have been accounted for).
+Dashboard Stickiness
+  - 213 Dashboard Views in Q3
+    - Avg. 6 users/week
+    - 3 dashboard exports/Q3. We need a better metric that we can automate for task completion.
+Data Sharing
+  - We had 3 out of 14 VFS teams (21.4%) present data *directly* from their KPI dashboards in Team of Teams, which isn't a great percentage but it's a start
+  - We have an average of 5 VFS teams (36%) presenting analytics in Team of Teams per week, with 2-3 teams sharing data tracked by the Analytics team. 
+  - While data sharing in general has improved over the year, it's not at the place we'd like it to be *and* we are looking to improve the quality of the metrics shared for decision making (such as number of successful submissions *and* funnel conversion percentage instead of number of successful submissions to paint a wider picture)
+Sentiment
+  - Some frustration with Domo features & “ill-defined” KPIs make it difficult to measure success
+
+**User Approach:**
+If we continue to expand on team-driven KPI dashboarding *and* provide user support to make it easier to create success measurements, will more VFS teams set, use and share KPIs more often?
+
+If we give control back to the VFS teams while giving them basic product-analytics resources and support, will they use the right data to make product decisions?
+
+**Solution Approach:**
+Expand team-driven product KPI dashboards to other VFS teams, provide non-technical resources to help facilitate quality KPI setting, and increase data availability.
+
+- Build and create robust product KPI dashboards so that users can easily access and analyze their product success metrics. 
+- Use the dashboard in tandem with our data reporting processes so that users have incentive to use the data and add it to their workflow. 
+- Ask for standardized KPIs, not mapped back to OKRs, but mapped back to user goals and outcomes so that VFS teams can set quality success metrics.
+- Begin to build out BigQuery so that users can analyze more valuable metrics and their metrics on Domo can be more accurate and up-to-date
+- Create non-technical resources, like an opinionated KPI framework and Analytics Playbook, so that users can more easily start KPI setting and create analytics-informed habits
+- Research and MVP what a phased rollout dashboard might look like so that users can understand if they can continue rolling out or if they need pause and fix something
+- MVP a “performance dashboard” so that users can review historical baseline website performance that would need to be healthy in order for teams to be able to focus on KPIs.
+
 
 ---
    
 ## Screenshots
 
-[See Google Docs Outline](https://docs.google.com/document/d/1GuuhRXT8-NjEHdFHysNg1VA1o89Qr0_Mkrg46Q8kBeI/edit#)
+[See Original Google Docs Outline](https://docs.google.com/document/d/1GuuhRXT8-NjEHdFHysNg1VA1o89Qr0_Mkrg46Q8kBeI/edit#)
 
 ### Before
 
