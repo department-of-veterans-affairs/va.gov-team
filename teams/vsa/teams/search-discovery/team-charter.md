@@ -28,7 +28,7 @@
   - Click-tracking
   - Best Bets/Top Recommendations
   - Site Map XML and indexing 
-- [GitHub Document Directory]((https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/onsite-search)
+- [GitHub Document Directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/onsite-search)
   
 - Custom on-site search utilities for VA.gov content, forms and lists, including:
   - [Learning Center](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1588167553516/2773c854e8ff3a725a5e3ee03272b78e8519f78b) - launching in Oct-Dec, 2020.
@@ -43,6 +43,29 @@
 
 
 ### Responsibilities (Problem space and user goals):
+
+- On-Site Search
+
+   - As a Veteran, I am able to find the information I need to on the VA.gov Website (Desktop and Mobile) as quickly and easily as possible using the search feature.
+
+  - User Goals
+   - As I veteran, I want to easily and quickly find the information I need with few clicks as possible on the VA.gov Website.
+   - As a veteran, I want to avoid reading long pages of content in order to get to my desired outcome.
+   - As a veteran, I want to get the most relevant results when I use VA.gov search.
+   - As a veteran, I want to get the most relevant results even if I am not precise about the information I seek or make a mistake in my search terms.
+
+ - Product Goals
+  - Modernize the on-site search experience on VA.gov with features and functions which enable more directed search (e.g. type-ahead, faceted search, etc.)
+  - Make VA.gov on-site search results more relevant and reliable
+  - Measurably improve customer satisfaction with VA.gov on-site search
+  - Create a cohesive brand across the VA through direct control of the search page layout and look (To be better defined and verified as a goal)
+
+- Off-Site Search 
+
+  - User Goals
+   - As I veteran, I want to easily and quickly find the link to the information I need with few clicks as possible using a search engine.
+  - Business Goals
+   - As a Veterans Affairs business stakeholder, I want to ensure veterans are provided links/paths to the most authoritative and up-to-date information available on the VA.gov Website.
 
 
 ### Roadmap:
