@@ -7,13 +7,13 @@ Per product sync today - We will launch batches per steps:
 
 1. [See MVP phases to launch](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/mvp-phases-to-launch)   
 
-2. QA and internally validate in [demo environment](http://learningcenter.demo.ci.cms.va.gov/): ~Oct 23 -28
+2. QA and internally validate in [demo environment](http://learningcenter.demo.ci.cms.va.gov/): ~Oct 28 - Nov 3
 
 3. Fix any reported bugs in production environment. 
 
 4. Beta launch on prod: Nov. 4. 
 
-5. Implement search.gov index of LC pages in Prod.
+5. Implement search.gov index of LC pages in Prod on Nov. 4 once in Prod.
 
 6. Test LC search component. (There's no way to test product search in demo environment or in staging because search.gov needs to index learning center directory on live 'Prod' site.)
 
@@ -41,7 +41,7 @@ Per product sync today - We will launch batches per steps:
 ### Planning - 1.0 October/Nov beta launch release**:
 
 - **Date range:**
-  - Starting ~Oct 29 - Nov. 5 
+  - Starting ~Oct 28 - Nov. 3 
 - **Test duration:**
   - 5 business days
 - **Desired number of users:** 
@@ -114,8 +114,6 @@ Per product sync today - We will launch batches per steps:
 
 Post-launch iterations/metrics
 - Validate success of [OKR's](https://docs.google.com/document/d/1aigEaAp43e59Y5_Ow10q04OfZUuhR-Jxd-9uEpdYezg/edit) through GA Dashboard and DOMO results. 
-
-
 
 
 ## Background
