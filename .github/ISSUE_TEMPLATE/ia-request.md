@@ -1,15 +1,16 @@
 ---
 name: IA Request
 about: Finalize the IA of your product for VA.gov
-title: IA Request [Feature-Name]
-labels: product support, content-ia-team, collaboration-cycle
-assignees: mnorthuis
+title: IA Request [Team-Name, Feature-Name]
+labels: vsp-product-support, collaboration-cycle, collab-cycle-review
+assignees: mnorthuis, shiragoodman
 
 ---
+## What this is:
+Work with VSP Information Architecture experts to finalize the IA of your product for VA.gov
 
-What this is: Work with VSP Information Architecture experts to finalize the IA of your product for VA.gov
-
-When to use this: After completion of usability/protyping, prior to moving to development
+## When to use this: 
+After completion of usability/protyping, prior to moving to development
 
 ## Required Inputs:
 - Link to product outline ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md))
@@ -35,8 +36,7 @@ Provide the following information, as available, to support the final informatio
 **Redirects/canonical tags** - Will existing pages/tools need to be redirected or canonicalized?
 
 ## Definition of Done
-- [ ] Issue is created, tagged and assigned to Content and IA team
+- [ ] Issue is created, tagged and assigned to VSP Product Support
 - [ ] Required information above is complete and optional information provided where available
 - [ ] IA reviews information and provides final feedback/recommendation on ticket
 - [ ] Requesting team closes issue upon implementation
-- [ ] Requesting team member complete brief [VSP Collaboration Cycle Feedback](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) survey
