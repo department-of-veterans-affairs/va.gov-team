@@ -7,8 +7,6 @@
 
 ---
 
-`This document is a WIP`
-
 ## Research goals
 Our primary goal is to move the Chapter 31 and Chapter 36 (CH31/CH36) features--currently form submissions--to VA.gov, maintaining all existing functionality. Secondarily, we want to reduce confusion between the two programs using screening wizards on the form introduction pages. We're conducting usability testing of the features to determine if the new forms and wizards are intuitive and functional for users needing to submit either form VA 28-1900 or 28-8832.
 
