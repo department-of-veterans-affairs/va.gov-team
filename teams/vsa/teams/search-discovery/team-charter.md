@@ -121,7 +121,7 @@ Assess and update workload for remainder of sprint
 * On a [zoom meeting](https://us02web.zoom.us/j/93282204164)
 
 #### Issue Etiquette
-**For Requests originating outside the Public Websites team** - please use our [Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=lunascoop&labels=vsa-public-websites%2C+vsa%2C+vsa-public-websites-intake%2C+needs-grooming%2C+Epic&template=public-websites-intake.md&title=%3CType+of+Request%3E+from+%3CTeam%3E)
+**For Requests originating outside the Search team** - please use our [Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=lunascoop&labels=vsa-public-websites%2C+vsa%2C+vsa-public-websites-intake%2C+needs-grooming%2C+Epic&template=public-websites-intake.md&title=%3CType+of+Request%3E+from+%3CTeam%3E)
 
 For an issue to go into the Current Sprint column, it must have the following (created using the [Standard Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=standard-issue.md&title=):
 
@@ -137,7 +137,7 @@ All work should be validated either in staging or production, as defined by the 
 If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
 
 #### Team Norms
-
+- Be a Search subject matter expert - read-up, attend (free) Webinars, subscribe to topic emails, etc.
 - Be on time and present for programmed meetings
 - Be respectful, both online and off
 - Show your face (Webcam) at meetings / calls
@@ -163,7 +163,7 @@ Decisions are part of our daily routine, the below questions can help kickstart 
 - Email - least effective communication method (Email communications are not easily searchable or archivable. Use this as a last resort for communication.)
 
 #### Slack:
-#vsa-public-websites
+#va-search
 
 #### GitHub
 label: vsa-search-discovery
