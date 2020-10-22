@@ -192,7 +192,7 @@ Collaborate with VSP’s Information Architect to finalize your URL and other ke
 ## Collaboration format: asynchronous
 
 ### Request process
-**VFS Product Manager** initiates by completing `IA Request` template in ZenHub _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+meganhkelley%2C+mnorthuis&labels=product+support%2C+content-ia-team&template=ia-request.md&title=IA+Request+%5BFeature-Name%5D) to open a ticket)_. VSP Information Architect provides feedback and finalized information architecture asynchronously on the ZenHub ticket.
+**VFS Product Manager** initiates by completing `IA Request` template in ZenHub _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis%2C+shiragoodman&labels=vsp-product-support%2C+collaboration-cycle%2C+collab-cycle-review&template=ia-request.md&title=IA+Request+%5BTeam-Name%2C+Feature-Name%5D) to open a ticket)_. VSP Information Architect provides feedback and finalized information architecture asynchronously on the ZenHub ticket.
 
 ### Artifact inputs
 You bring: 
