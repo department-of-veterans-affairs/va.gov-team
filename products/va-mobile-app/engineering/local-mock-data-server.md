@@ -27,6 +27,7 @@ Change into the `vets-api` repo and run the `make up` command to download the im
 
 ```bash
 cd vets-api
+make build
 make up
 ```
 
@@ -48,6 +49,12 @@ You can confirm it's running by making a request to `http://localhost:3000/mobil
 ```bash
 curl http://localhost:3000/mobile
 {"data":{"attributes":{"message":"Welcome to the mobile API"}}}
+```
+
+You can stop the server with CTRL-C, and start the server again with just the `up` command.
+
+```bash
+make up
 ```
 
 ## Making API calls
