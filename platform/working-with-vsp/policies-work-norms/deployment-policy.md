@@ -1,4 +1,4 @@
-*Last updated 2020-09-11*
+*Last updated 2020-10-21*
 
 # Deployment Policies
 
@@ -38,7 +38,7 @@ The holiday release freeze is in effect during the following dates:
 * 09/07 - **Labor Day**
 * 11/11 - **Veteran's Day**
 * 11/25 - 11/27 - **Thanksgiving**
-* 12/23 - 1/1/2020 - **Winter holiday freeze** (note: *eight business days*)
+* 12/23 - 1/1/2021 - **Winter holiday freeze** (note: *eight business days*)
 
 # Requesting out-of-band deploys
 
