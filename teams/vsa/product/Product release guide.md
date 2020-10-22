@@ -21,11 +21,11 @@ It is beneficial to conduct internal QA. This consisf of the team allocating 1 h
 - [ ] API calls and dependent systems
 - [ ] Detailed staging user documentation
 - [ ] Update product outline
-- [ ] Update go-to-market strategy
+- [ ] Update go-to-market strategy/communications plan
 
 ### Coordinating with relevant parties regarding important upcoming dates (re-directs, changes to content, changes that affect other teams)
 - [ ] Create issues in Github for changes that will take place, add dates, and tag relevant people/teams (re-directs, content changes, UI changes, etc)
-- [ ] Update accordingly as launch approaches
+- [ ] Update dates/parties accordingly as launch approaches
 
 
 
