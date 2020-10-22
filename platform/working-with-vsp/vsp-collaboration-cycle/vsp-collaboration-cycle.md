@@ -223,7 +223,7 @@ Begin setup of Google Tag Manager and ForeSee so we can understand how Veterans 
 ## Collaboration Format: 30-minute kickoff meeting for Google Tag Manager
 
 ### Request process
-**VFS Product Manager** submits request using `Analytics Implementation and QA Request` template for Google Tag Manager implementation _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+jonwehausen%2C+nedierecel&labels=analytics-insights%2C+analytics-request&template=analytics-implementation-and-qa-request-template.md&title=Analytics+Implementation+or+QA+Support+for+%5BProduct%5D) to open a ticket)_. Slack [#vfs-analytics](https://dsva.slack.com/channels/vfs-analytics) for ForeSee setup.
+**VFS Product Manager** submits request using `Analytics Implementation and QA Request` template for Google Tag Manager implementation _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+bsmartin-ep%2C+jonwehausen%2C+bmcgrady-ep&labels=analytics-insights%2C+analytics-request%2C+collaboration-cycle%2C+collab-cycle-review&template=analytics-implementation-and-qa-request-template.md&title=Analytics+Implementation+or+QA+Support+for+%5BTeam+Name+-+Feature+Name%5D) to open a ticket)_. Slack [#vfs-analytics](https://dsva.slack.com/channels/vfs-analytics) for ForeSee setup.
 
 ### Meeting attendees 
 
