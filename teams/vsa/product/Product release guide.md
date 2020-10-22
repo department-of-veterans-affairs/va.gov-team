@@ -8,7 +8,7 @@ In the "Build" phase of the VSP cycle, prior to the Staging review:
 #### Internal QA Session
 - [ ] Internal QA has been conducted
 
-List of issues coming out of internal QA session:
+#### List of issues coming out of internal QA session:
 - [ ] TBD
 - [ ] TBD
 - [ ] TBD
