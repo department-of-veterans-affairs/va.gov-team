@@ -97,7 +97,7 @@ file path: `vets-api-mockdata/evss/letters/list`
 - 228 Mark Webb: `796104437.yml`
 
 ### Letters - /mobile/v0/letters/beneficiary
-file path: `vets-api-mockdata/evss/letters/list`
+file path: `vets-api-mockdata/evss/letters/beneficiary`
 - 1 Greg Anderson: `796121200.yml`
 - 14 Jerry Brooks: `796122306.yml`
 - 228 Mark Webb: `796104437.yml`
