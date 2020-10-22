@@ -28,6 +28,7 @@
   - Click-tracking
   - Best Bets/Top Recommendations
   - Site Map XML and indexing 
+- [GitHub Document Directory]((https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/onsite-search)
   
 - Custom on-site search utilities for VA.gov content, forms and lists, including:
   - [Learning Center](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1588167553516/2773c854e8ff3a725a5e3ee03272b78e8519f78b) - launching in Oct-Dec, 2020.
@@ -38,16 +39,7 @@
  - SEO optimization to improve VA.gov performance on Google, Bing, etc. (encompasses IA, Content and site performance)
  - Structured markup
  - Business Listings for VA medical entities
- 
-
-### Product Portfolio:
--	[On-site search](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/onsite-search):
-    - Search features, including Type-Ahead, Collections, Click-tracking, etc. 
-    - On-site search utilities/wizards (e.g. Find a Form, Yellow Ribbon Program, Learning Center)
-    - Site Map
-    - Structured Data
-  
-- [Off-site search](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/offsite-search)
+- [Github Document Directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/offsite-search)
 
 
 ### Responsibilities (Problem space and user goals):
