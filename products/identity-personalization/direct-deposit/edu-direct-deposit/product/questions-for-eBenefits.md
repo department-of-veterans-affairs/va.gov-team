@@ -4,9 +4,9 @@
 
 **Can you add direct deposit information if you are eligible but have not yet set up direct deposit (eg. You currently receive payment via checks, or didn’t give bank info on a benefit application)?**
 
-Jeffrey Pomietlarz on 10.21.20 via Teams:
+Melissa Rebstock on 10.22.20 via email:
 
-- He's not sure; check-in with eBenefits team.
+> If you’re asking whether a person in receipt of a paper check can go online to change it to and establish DD/EFT, then, yes, they can. 
 
 **How much traffic should we expect weekly/monthly for this feature?**
 
