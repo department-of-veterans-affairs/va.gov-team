@@ -9,7 +9,7 @@ TBD
 ### Vision:
 TBD
 
-### North Stars:
+### VA.gov North Stars:
 1. Increase the use of self-service tools and associated number of conversions
 2. Decrease time users spend waiting for an outcome
 3. Consistent Customer satisfaction, reliability and secure online UX
@@ -17,7 +17,11 @@ TBD
 ## What we work on
 
 ### Product Suite
-Unauthenticated Experience for VA.gov
+- VA.gov global search
+- Custom search utilities for VA.gov content, forms and lists, including:
+  - [Learning Center](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1588167553516/2773c854e8ff3a725a5e3ee03272b78e8519f78b) - launching in Oct-Dec, 2020.
+  - [Find a Form](https://www.va.gov/find-forms/)
+  - [Yellow Ribbon Program[(https://www.va.gov/education/yellow-ribbon-participating-schools/)
 
 ### Product Portfolio:
 -	[On-site search](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/onsite-search):
