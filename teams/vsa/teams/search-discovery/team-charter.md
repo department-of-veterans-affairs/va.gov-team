@@ -34,7 +34,7 @@
   - [Find a Form](https://www.va.gov/find-forms/)
   - [Yellow Ribbon Program](https://www.va.gov/education/yellow-ribbon-participating-schools/)
   
--Off-site search (as SMEs), including:
+- Off-site search (as SMEs), including:
  - SEO optimization to improve VA.gov performance on Google, Bing, etc. (encompasses IA, Content and site performance)
  - Structured markup
  - Business Listings for VA medical entities
