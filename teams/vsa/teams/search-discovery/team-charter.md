@@ -3,11 +3,17 @@
 ---
 
 ## Guideposts
-### Mission:
-To enable veterans to find the essential information, tools and services they need as easily and quickly as possible on VA.gov.
+### Our Team Mission:
+(WORKING DRAFT) To enable veterans to find the essential information, tools and services they need as easily and quickly as possible on VA.gov.
 
-### Vision:
-To make VA.gov the indispensible "source of truth" for veteran benefit information by simply searching for what they need.
+### Our Team Vision:
+(WORKING DRAFT) To make VA.gov the indispensible "source of truth" for veteran benefit information through the power of a world class search experience.
+
+### How We Measure Our Success:
+(WORKING DRAFT)
+- Better search experiences as measured by: 
+  - faster, more relevant outcomes
+  - satisfaction
 
 ### VA.gov North Stars:
 1. Increase the use of self-service tools and associated number of conversions
