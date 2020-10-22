@@ -53,14 +53,15 @@ Warm-up Questions (Optional) - 5 minutes
 Before we look at the website, I'd like to understand if you have any experience with forms on VA.gov
 
 -   Have you ever applied for benefits through a form on VA.gov before?
-
 -   What was that experience like?
+-   Do you remember going to any pages about eligibility before you applied? What did you think about those pages?
 
 As we go through the session, it'll be a great if you can think out loud and talk about what you're seeing. I've found it can be helpful if we go through a warm up page first.  
 
-- Can you share your screen and then go to VA.gov?
+*Ask participant to share screen, and guide them to a benefit hub page on VA.gov relevant to the experience they described above - e.g. [Disability eligibility page](https://www.va.gov/disability/eligibility/), https://www.va.gov/disability/how-to-file-claim/, [education how to apply](https://www.va.gov/education/how-to-apply/), [education eligibility](https://www.va.gov/education/eligibility/)*
 
 - Thank you. Now, take a look at this page, and talk me through what you see, and what you can do on this page.
+- Is there anything confusing or unclear about this page?
 
 *Offer feedback to participant on how they're doing.  Suggest they talk more if they're too quiet, or point out anything that is especially helpful that they've done.*
 
@@ -189,7 +190,7 @@ Post-Task Interview - 5 minutes
   - Did you ever notice a way to start over?
 
   - Can you think of a time when you'd want to start over after getting to the intro page with the list of things you need to prepare for filling out the form?
-
+- Thinking back to the warm-up page we looked at in this session about [eligibility/applying] - what do you think about that information compared going through a series of questions that tells you where to go?
 - Any questions for me?
 
 Thank-You and Closing - 1 minute
