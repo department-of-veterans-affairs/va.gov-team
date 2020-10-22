@@ -10,6 +10,12 @@ Melissa Rebstock on 10.22.20 via email:
 
 **How much traffic should we expect weekly/monthly for this feature?**
 
+Michael Harlow on 10.22.20 via email:
+
+> Here’s the activity for eBenefits users who have updated their DDEFT info for CH33 within the past two weeks. The chart shows we get between 79-228 successful requests per day. 
+
+The information they sent was in a line graph that was hard to read just from the image (exact values weren't shown per day), so my best approximation is to take the range — 79-228 — and take the average, which is about 150 updates per day. So, this is about 1000 direct deposit for edu updates per week.
+
 ## VBA
 
 **Can people still use VA Form 29-0309 to enroll in direct deposit, or is this being phased out like form 0296?**
