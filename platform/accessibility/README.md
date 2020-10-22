@@ -17,7 +17,7 @@ VSP Accessibility supports teams building on VA.gov to ensure that nobody is exc
 **Teams need to fix all severity defect 0-4 accessibility issues**.
 
 **Launch requirements:**<br/>
-VFS teams must fix[ 508-defect-0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#508-defect-0) and[ 508-defect-1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#508-defect-1) issues before launching a Veteran-facing service. The DEPO Platform will enforce this minimum standard. <sup id="f1">[[1]](#f1)</sup>
+VFS teams must fix[ 508-defect-0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#508-defect-0) and[ 508-defect-1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#508-defect-1) issues before launching a Veteran-facing service. The DEPO Platform will enforce this minimum standard. <sup id="footnote1">[[1]](#f1)</sup>
 
 **Post-launch requirements:**<br/>
 VFS teams must iterate to resolve open[ 508-defect-2 through 508-defect-4 issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#post-launch-issues) to keep VA legally compliant. The DEPO Platform sends a public, weekly report to inform DEPO leadership of teams’ progress towards resolving issues.
@@ -95,7 +95,7 @@ Accessibility guidance is included in the following phases of the VSP Collaborat
 * [Screen Reader Fieldset Plus Legend Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/research/screenreader-fieldset-legend-label.md)
 
 ## Footnotes
-* <b id="f1">Footnote 1:</b>Some services must be launched into production before they can be reviewed for accessibility. Teams should coordinate a staging review with the DEPO Platform as soon as possible. [↩](#f1)
+* <b id="f1">Footnote 1:</b>Some services must be launched into production before they can be reviewed for accessibility. Teams should coordinate a staging review with the DEPO Platform as soon as possible. [↩](#footnote1)
 
 ---
 ##### Revision History
