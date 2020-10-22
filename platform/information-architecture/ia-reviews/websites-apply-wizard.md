@@ -76,6 +76,10 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 
 ## <a name="notes"></a>Meetings Notes and Background Info
 
+**10/22/2020 - Usability testing prep**
+
+
+
 **9/3 Update Mtg** Mikki, Peggy, Liz, John
 
 - The move of the How to Apply Wizards from the How To content pages to the actual Apply Now pages introduces more complexity than anticipated based on the variety of use cases (example: authenticate, start application, go back to Wizard because as a user I am confused).
