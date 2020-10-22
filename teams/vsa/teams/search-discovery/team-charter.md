@@ -17,11 +17,22 @@ TBD
 ## What we work on
 
 ### Product Suite
-- VA.gov global search
-- Custom search utilities for VA.gov content, forms and lists, including:
+- VA.gov global search (powered via API by Search.gov), including capabilities and features such as:
+  - Type Ahead
+  - Click-tracking
+  - Best Bets/Top Recommendations
+  - Site Map XML and indexing 
+  
+- Custom on-site search utilities for VA.gov content, forms and lists, including:
   - [Learning Center](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1588167553516/2773c854e8ff3a725a5e3ee03272b78e8519f78b) - launching in Oct-Dec, 2020.
   - [Find a Form](https://www.va.gov/find-forms/)
-  - [Yellow Ribbon Program[(https://www.va.gov/education/yellow-ribbon-participating-schools/)
+  - [Yellow Ribbon Program](https://www.va.gov/education/yellow-ribbon-participating-schools/)
+  
+-Off-site search (as SMEs), including:
+ - SEO optimization to improve VA.gov performance on Google, Bing, etc. (encompasses IA, Content and site performance)
+ - Structured markup
+ - Business Listings for VA medical entities
+ 
 
 ### Product Portfolio:
 -	[On-site search](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/onsite-search):
