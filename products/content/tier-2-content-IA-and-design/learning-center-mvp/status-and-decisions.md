@@ -2,6 +2,15 @@
 
 ## mm/dd/yy
 
+## 10/22/20
+
+__Confirmation of prior decision re search__
+
+- We will submit LC directory index (xml file) to the search.gov team on launching the 1.0 live pages. 
+- John H confirmed there's no value in indexing 'faux' pages for the demo. 
+
+
+
 ## 10/19/20
 
 __Summary of 10/16 call with Mikki and Oksana re URLs in the CMS:__
