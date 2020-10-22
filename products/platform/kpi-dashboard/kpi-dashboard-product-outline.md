@@ -76,15 +76,34 @@ Insights is currently able to provide ad hoc reporting to leadership requests
 4. Centralize metrics & make self-service simple
 5. Incorporate targets & data comparisons in a centralized tool
 6. Generate buy in from VFS teams
-7. Automate system for self-service
+7. Connect additional data sources
+8. Stretch: Automate system for self-service
 
-## KPIs
+## Target Outcomes
 - Use of both qualitative and quantitative data in decision making 
 - Reported metrics throughout VFS public forums, such as Team of Teams and Slack
 - Set product targets and tracked KPIs
 - Number of available data sets (offline metrics, related services) 
 - Automated data aggregation vs. manual upload 
 *Positive Veteran user sentiment and decrease in frequency of errors on VA.gov so that Veterans have a better digital experience
+
+### KPIs
+Service Completion
+- Adoption: % of VA.gov products with requested KPI dashboards
+- Stickiness: % of recurring users 
+- **North Star Metric - Task completion: % of users reporting KPI updates**
+Satisfaction
+- Customer Sentiment
+
+### OKRs
+O: Improve Data Quality: VFS teams use task completion in their success measurements to measure service completion.
+KR: Publish standard queries for time to complete tasks metrics for 3 additional products.
+KR: Increase new funneling conversions to 3 additional products.
+
+O: Increase Product Stickiness: Increase active dashboard usage. 
+KR: 100% of products launching through the Collaboration Cycle have quality KPIs set.
+KR: Increase product KPIs tracked in Domo to 2.
+KR: Increase average weekly product KPIs shared in Team of Teams to 4 teams
 
 ---
 
