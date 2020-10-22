@@ -4,7 +4,7 @@
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/mvp-usability/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/mvp-usability/conversation-guide.md)
-- [Session notes]()
+- [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/research/mvp-usability/session-notes)
 - [Research report]()
 - [Participants](#participants)
 - [Top takeaways](#top-takeaways)
@@ -14,7 +14,7 @@
 
 | Session Notes   | Session Day & Time | Session Status | Appointment Type         | Device        |Role                                                  | Gender | Ethnicity                                               | Age      | Education                | Branch             | Location | 
 | ------------------------------------------------------------ | ------------ | ------------ | ------------ | ----------------------------------------------------- | ------ | ------------------------------------------------------- | -------- | ------------------------ | ------------------ | -------- | ------------------------ |
-| [P01]() | Oct. 15, 9 - 10 a.m. | Attended | Virtual during COVID | Computer | Veteran | Male | Hispanic, Latino, or Spanish Origin | 55 - 64  | Master's degree | Army | FL |
+| [P01](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/mvp-usability/session-notes/P01.md) | Oct. 15, 9 - 10 a.m. | Attended | Virtual during COVID | Computer | Veteran | Male | Hispanic, Latino, or Spanish Origin | 55 - 64  | Master's degree | Army | FL |
 | [P02]() | Oct. 15 10:30 - 11:30 a.m. | Attended | Virtual during COVID | Android | Veteran | Male | White or Caucasian | 55 - 64 | Master's degree | Army | SC |
 | [P03]() | Oct. 15 Noon - 1 p.m. | Attended | In-person during COVID | Android | Veteran, Veteran's family member | Female | White or Caucasian | 55 - 64 | Bachelor's degree | Army | IL |
 | P04 | Oct. 15 1:30 - 2:30 p.m. | No show | Virtual during COVID | Computer | Veteran | Male | White or Caucasian | 35 - 44 | Some college (no degree) | Marine Corps | NC |
