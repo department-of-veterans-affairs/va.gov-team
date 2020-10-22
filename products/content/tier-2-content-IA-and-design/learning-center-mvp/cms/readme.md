@@ -5,6 +5,31 @@
  -  LC go-to-market strategy: how will users find the Learning Center?
 </details>
 
+## Tuesday October 27
+
+### Agenda
+
+1. Review [backlog](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1975)
+1. anything else
+
+### Action items
+
+1.
+
+## Tuesday October 20
+
+### Agenda
+
+1. Review [backlog](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1975)
+1. URL generation
+1. Taxonomy term URLs
+1. Rebuilding environment without data wiping, but also pulling in new FE
+1. Release date MVP1.0 - Oct 29. Validation in demo environment on the 23rd.
+
+### Action items
+
+1. Follow up on FE rebuild in a demo environment
+
 ## Tuesday October 13
 
 ### Agenda

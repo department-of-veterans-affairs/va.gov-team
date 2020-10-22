@@ -1,8 +1,8 @@
 ---
 name: Staging Review
 about: Request a VSP staging review
-title: Staging Review [Feature-Name]
-labels: product support, content-ia-team, collaboration-cycle, staging-review
+title: Staging Review [Team Name - Feature Name]
+labels: vsp-product-support, collaboration-cycle, staging-review, collab-cycle-review
 assignees: andreahewitt-odd, Shiragoodman
 
 ---
@@ -11,13 +11,12 @@ assignees: andreahewitt-odd, Shiragoodman
 
 - [ ] Product Manager: create this issue and fill in feature name in the title and other bolded information appropriately
 - [ ] Attach all artifacts before requesting the meeting
-- [ ] Link to this issue once created in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) in Slack; tag @shira goodman and @ AndreaHewitt 
+- [ ] Link to this issue once created in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) in Slack; tag @ Shira Goodman and @ Andrea Hewitt 
 - [ ] Shira to schedule meeting with VSP reviewers and **requesting team** attendees (as listed below)
 - [ ] At least 2 days before scheduled meeting, you must complete list of artifacts below
-- [ ] VSP <> **requesting team** review meeting completed
-- [ ] Practice area reviewers create sub-issues attached to this one with feedback for your team on *feature name*
+- [ ] Staging Review meeting completed
+- [ ] Practice area reviewers create sub-issues attached to this one with feedback for your team on **feature name**
 - [ ] **Requesting team** completes attached feedback tickets based on definition of done included in each practice area feedback ticket (may differ for each practice area, please refer to attached tickets for further instruction)
-- [ ] All requesting team attendees complete brief [VSP Collaboration Cycle Feedback](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) survey
 
 ## Artifacts - _please provide the following artifacts at least 2 days before scheduled review meeting_
 - Link to product outline ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md))

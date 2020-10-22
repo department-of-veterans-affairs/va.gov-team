@@ -117,13 +117,14 @@ The page <strong>&#42;&#42;MUST&#42;&#42;</strong> have a meaningful title (e.g.
 
 #### 4. Headings	
 
-<ol type="a">
-   <li>The page <strong>**MUST**</strong> have meaningful headings to label each major section, which *SHOULD* start with &lt;h1&gt; (at the beginning of the main content, or at the beginning of every section of aggregated content, or at the beginning of modal dialogs), and *SHOULD NOT* skip heading levels, to allow screen reader users to navigate the tree structure of the heading hierarchy.	<a href="https://www.wuhcag.com/headings-and-labels/">WCAG 2.4.6</a></li>
-</ol>
+The page **MUST** have meaningful headings to label each major section, which *SHOULD* start with `<h1>` (at the beginning of the main content, or at the beginning of every section of aggregated content, or at the beginning of modal dialogs), and *SHOULD NOT* skip heading levels, to allow screen reader users to navigate the tree structure of the heading hierarchy. [WCAG 2.4.6](https://www.wuhcag.com/headings-and-labels/)
+
+<details><summary>Review WCAG 2.4.6 example</summary>
 
 The image below will be replaced with a corrected version, with the 'dt' followed by a 'dd'. 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/resources/images/dodont-headers.png" alt="annotation of a webpage showing proper use of semantic headings and styling" width="70%" />
 
+</details>
 
 #### 5. Links and Navigation
 (See also Custom Widgets in Part 3 for dynamic menus (drop-down accordion, etc.)
@@ -131,7 +132,7 @@ The image below will be replaced with a corrected version, with the 'dt' followe
 <ol type="a">
    <li>Links <strong>**MUST**</strong> have readable text. Be especially careful with links that contain only images (which need alt text) and background images/icon fonts (which need text via aria-label on the link or text within the link, hidden via CSS).	<a href="https://www.wuhcag.com/name-role-value/">WCAG 4.1.2</a>, <a href="https://www.wuhcag.com/link-purpose-link-only/">2.4.9</a></li>
    <li>The link text <strong>**MUST**</strong> make sense in context, and should make sense when taken out of context (problematic phrases include: “click here,” “learn more,” “more,” “read more,” etc.).	<a href="https://www.wuhcag.com/link-purpose-link-only/">WCAG 2.4.9</a>, <a href="https://www.wuhcag.com/link-purpose-in-context/">WCAG 2.4.4</a></li>
-   <li>Linked content *SHOULD* be grouped in a single link where appropriate. For example: an icon and its adjacent text *SHOULD NOT* be two separate links if they go to the same location.	<a href="https://www.wuhcag.com/consistent-identification/">WCAG 3.2.4</a></li>
+   <li>_[Provide code example here]_ Linked content *SHOULD* be grouped in a single link where appropriate. For example: an icon and its adjacent text *SHOULD NOT* be two separate links if they go to the same location.	<a href="https://www.wuhcag.com/consistent-identification/">WCAG 3.2.4</a></li>
    <li>Navigation features (e.g. main menu) <strong>**MUST**</strong> be placed in a consistent location across pages.	<a href="https://www.wuhcag.com/consistent-navigation/">WCAG 3.2.3</a></li>
    <li>Navigation features <strong>**MUST**</strong> be identified in a consistent way across pages.	<a href="https://www.wuhcag.com/consistent-identification/">WCAG 3.2.4</a></li>
    <li>A “skip navigation” or “skip to main content” *SHOULD* be provided as the first link in the design, to allow sighted keyboard users to quickly arrive at the main content (Note: the link can be invisible until the user tabs to it, but it **MUST NOT** remain invisible when it receives keyboard focus).	<a href="https://www.wuhcag.com/multiple-ways/">WCAG 2.4.5</a></li>
@@ -139,11 +140,54 @@ The image below will be replaced with a corrected version, with the 'dt' followe
 
 #### 6. Tables	
 
-<ol type="a">
-   <li>Header cells (&lt;th&gt;) <strong>**MUST**</strong> be associated with their respective data cells (via scope or headers + id).	<a href="https://www.wuhcag.com/info-and-relationships/">WCAG 1.3.1</a></li>
-   <li>Tables *SHOULD* have an accessible name (e.g. &lt;caption&gt;, aria-label, or aria-labelledby).	<a href="https://www.wuhcag.com/name-role-value/">WCAG 4.1.2</a></li>
-   <li>Layout tables (no header/data associations) **MUST NOT** contain &lt;th&gt; or other header markup.	<a href="https://www.wuhcag.com/info-and-relationships/">WCAG 1.3.1</a></li>
-</ol>
+a. Header cells `<th>` **MUST** be associated with their respective data cells (via scope or headers + id). [WCAG 1.3.1](https://www.wuhcag.com/info-and-relationships/)
+
+<details><summary>Review WCAG 1.3.1 example</summary>
+
+**Do:**
+
+```diff
+<thead>
+  <tr>
+    <th scope="col">Heading for a column</th>
+    <th scope="colgroup" colspan="3">Heading for a group of columns</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th scope="row">First column of the first row heading</th>
+    <td>Table cell data</td>
+    <td>Table cell data</td>
+    <td>Table cell data</td>
+  </tr>
+</tbody>
+```
+
+**Don't:**
+
+```diff
+<thead>
+  <tr>
+!   <th>Heading for a column</th>
+!   <th colspan="3">Heading for a group of columns</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+!   <th>First column of the first row heading</th>
+    <td>Table cell data</td>
+    <td>Table cell data</td>
+    <td>Table cell data</td>
+  </tr>
+</tbody>
+```
+</details>
+
+b. Tables *SHOULD* have an accessible name (e.g. `<caption>`, aria-label, or aria-labelledby).[4.1.2](https://www.wuhcag.com/name-role-value/)
+
+
+
+c. Layout tables (no header/data associations) **MUST NOT** contain `<th>` or other header markup.	[WCAG 1.3.1](https://www.wuhcag.com/info-and-relationships/)
 
 
 #### 7. Lists	

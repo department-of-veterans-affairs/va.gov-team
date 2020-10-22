@@ -1,6 +1,6 @@
 # Contact Center
 
-You can request the Contact Center review with [this issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Kimberley+Daniels%2C+Chante+LantosSwett&labels=contact+center%2C+analytics-insights%2C+analytics-request%2C+collaboration+cycle&template=request-contact-center-review-template.md&title=Contact+Center+Review+for+%5BTool%5D).
+You can request the Contact Center review with [this issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=clantosswett%2C+kimberley2019&labels=contact+center%2C+analytics-insights%2C+analytics-request%2C+collaboration+cycle%2C+collab-cycle-review&template=request-contact-center-review-template.md&title=Contact+Center+Review+for+%5BTeam+Name+-+Feature+Name%5D).
 
 ## Overview
 

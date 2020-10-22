@@ -110,7 +110,7 @@ Ensure that visitors to VA.gov have a uniform and consistent experience, free fr
     *   Summarize the defects uncovered during test case execution as well as a percentage of defects that were resolved vs. unresolved in a [Summary(Defects) Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#summarydefects-report).
 
 
-### Engineering
+## Engineering
 _Coming soon..._
 
 

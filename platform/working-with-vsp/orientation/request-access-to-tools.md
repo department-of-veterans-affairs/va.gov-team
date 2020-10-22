@@ -56,7 +56,7 @@ Several internal tools for development are only accessible within the VA network
 
 1. Create new SSH keys.
     * [Windows instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#creating-an-ssh-keypair-in-windows)
-    * [Mac/Linux instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key).
+    * [Mac/Linux instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#creating-an-ssh-keypair-in-mac-or-linux).
 
 ### Request access
 

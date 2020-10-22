@@ -134,7 +134,8 @@ Strategy to be drafted here based on https://github.com/department-of-veterans-a
   - 
 
 ## CMS Team Discovery (Links)
-- [Proof of concept for editorial experience and content model here.](http://pr2251.ci.cms.va.gov/node/add/campaign_landing_page) You can log in as u:kevin.walsh / p:drupal8 to see this.
+- [Proof of concept for editorial experience and content model here.](http://pr2251.ci.cms.va.gov/node/add/campaign_landing_page) You can log in as u:kevin.walsh / p:drupal8 to see this. (THIS HAS BEEN REMOVED FROM CMS)
+- [Screenshots of CMS based on rough POC build](https://app.mural.co/t/vagov6717/m/vagov6717/1591838049193/415eaeb7a88bc0210575dbea9038f542d193d865)
 - [Backlog](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/1475) created here, ready for grooming/estimating by team (note: more accurate than our original high level product estimates provided a couple weeks ago, and  be believe lower!).
 - [Discovery Mural with screenshots from POC](https://app.mural.co/t/vagov6717/m/vagov6717/1591838049193/415eaeb7a88bc0210575dbea9038f542d193d865) Screenshots added for further clarification of requirements, which would be next steps.
 

@@ -37,7 +37,7 @@ It doesn’t include the typical timeline of assumed features. Rather, it’s a 
   - [Revisiting the Product Spec](https://svpg.com/revisiting-the-product-spec/)
   
 ### Problem brief
-- [SCQA problem brief template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/process-briefs/SCQA-problem-brief-template.md)
+- [SCQA problem brief template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/problem-briefs/SCQA-problem-brief-template.md)
 
 Examples
 - [Problem briefs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product/problem-briefs)

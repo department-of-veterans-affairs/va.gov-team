@@ -1,6 +1,6 @@
 # VSP Product Outline Template
 
-# Product Title
+# VSP Orientation
 
 ## Overview
 *When a new VFS team joins or a new person joins a VFS team, VSP conducts orientation (a series of meetings and reading material) to introduce VFS teams to processes, standards and expectations of developing on platform.*

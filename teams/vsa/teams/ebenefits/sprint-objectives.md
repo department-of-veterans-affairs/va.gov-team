@@ -7,6 +7,7 @@
 - Stay organized and help your future self and team
 - Measure outcomes where possible
 - Remember the Contact Center (Alamo!) and the issues they deal with
+- Try to focus on a fewer number of features at a time
 ----
 ## Sprint 32 (10/7 - 10/22)
 ```diff

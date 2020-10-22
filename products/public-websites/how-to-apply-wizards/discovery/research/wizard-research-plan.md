@@ -1,4 +1,4 @@
-# Research Plan for Wizard Migration, VSA, October 2020
+# Research Plan for Wizard Migration, VSA, November 2020
 
 ## Goals	
 
@@ -92,27 +92,27 @@
 ## When? 	
 
 1. Timeline: What dates do you plan to do research? 	
-   October 27-29	
+   November 3-5, 2020	
 
 2. Prepare: When will the thing you are testing be ready?
 
-   October 23
+   October 29
 
-3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) 
+3. Length of Sessions: How long do you estimate each session will be?
 
-   Sessions will be 30-45 minutes; please allow 15 minutes between each session
+   Sessions will be ~30 minutes; please schedule 45 minutes and allow 15 minutes between each session
 
 4. Availability:
 
    Please include both Liz and Christian on all emails; we'll be splitting up facilitation duties
 
-   - October 27: 7am - 9pm EST
-   - October 28: 7am - 3pm EST, 4:30 - 9pm EST
-   - October 29: 7am - 9pm EST
+   - November 3: 11:30am - 9pm EST
+   - November 4: 7am - 3pm EST, 4:30 - 9pm EST
+   - November 5: 7am - 9pm EST
 
 5. Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
 
-   October 26, team member TBD
+   October 29, team member TBD
 
 ## Team Roles	
 

@@ -1,6 +1,6 @@
 # IA Review and Recommendations
 
-**STATUS: DRAFT**  
+**STATUS: COMPLETE**  
 
 **Team:** Benefits & Memorials 2
 

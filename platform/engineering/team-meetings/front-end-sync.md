@@ -1,3 +1,31 @@
+# 20201021
+
+## Agenda
+- Tests
+- Org changes
+- Guild
+- Webpack 5
+
+## Notes
+
+- Unit tests
+  - add remove retry logic to the app isolation ticket [Rian]
+  - write up documentation how to write unit tests (using JSDom mocks instead of window directly, isolating network requests) 
+- org changes
+  - testing team 
+- FE guild 
+  - reducing the complexity of the platform 
+  - norms and best practices 
+- webpack 5
+  - improved tree shaking 
+  - federated modules
+- yarn vs npm 
+  - workspaces??
+  - build speed 
+  - features like workspaces?
+  - security scanner?
+  - monorepos? 
+
 # 20200826
 
 ## Agenda 

@@ -20,7 +20,7 @@
 
 
 ## Description
-> this should be a plain english description of what the ticket is. What will the team get at the end of this ticket?
+> this should be a plain english description of what the ticket is. What will the team get at the end of this ticket? Finalized documentation of who we plan to test with, utilizing what research methodlogy, and what questions we plan to ask/get answers for during the study.
 
 ## Tasks
 > this is a list of design tasks that are needed for this ticket 

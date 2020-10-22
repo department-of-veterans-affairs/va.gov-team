@@ -1,5 +1,5 @@
 # Product Brief
-Facility Locator Map Enhancements: Phase 1- Limit Search to 250 miles
+Facility Locator Map Enhancements: Phase 1- Limit Search to 500 miles
 ---
 
 ## Overview
@@ -8,7 +8,7 @@ Veterans will have the information they need to understand search results within
 ## Problem Statement
 
 Following a change expected to be implemented as part of PPMS 10.0 in early November...
-- when a Veteran uses the Facility Locator to search for a Community care facility, the list of search results will be limited to facilities within 250 miles. 
+- when a Veteran uses the Facility Locator to search for a Community care facility, the list of search results will be limited to facilities within 500 miles. 
 
 This is an issue because, _with current functionality_...
 - there is no method to notify the Veteran about this search limitation.
@@ -16,7 +16,9 @@ This is an issue because, _with current functionality_...
 - the map will continue to zoom out, autosearching for a result which could be an unreasonable distance from the Veteran
 
 How might we....
-make changes which support Veterans following this change, resolve other existing usability issues, and make  the search expereince better overall 
+- make changes which support Veterans following this change
+- resolve other existing usability issues
+- make  the search expereince better overall 
 
 ## Desired User Outcomes
 
@@ -48,23 +50,24 @@ _With this problem solved, what should users be able to do/achieve that they cou
 * _What are the most important metrics that track with this product/initiative's success?_
 * _Include links to Domo or Google Analytics Dashboards/Reports_
 
+#### Baseline KPI Values
+* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+
 <details>
  <summary> **User satisfaction** </summary>
  
 ![5 star Feedback through September 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/5-star-feedback-oct2020.png)
 
 </details>
- 
-
-#### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
-- Objective:
-  - Key result: Veterans can find a Community care provider beyond the limit of the original search parameters
-  - Key result: 
+- Objective:Veterans can find a Community care provider beyond the limit of the original search parameters
+  - Key result: Improved veteran user satisfaction scores
+  - Key result: Decrease total number of search requests (due to auto-firing of search due to map movement)
+  - Key result: Decrease the number of PPMS search requests for the same care type (due to auto-zoom)
+ 
 
 
 ---
@@ -113,6 +116,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
  
 ---
 
+## Links to relevant documentation
+
+- [Competitive analysis PDF](https://app.zenhub.com/files/133843125/315c0bd6-e7c8-4144-9222-19670e7b25e2/download) used to inform wireframes
+- [Recommendations based on analysis with supporting visual examples](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/map-enhancements/Map%20Behavior%20-%20Recommendations.pdf)
+
 ## Solution Narrative
 
 ### Current Status
@@ -136,10 +144,13 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
+- Team Name: Facilities
 - GitHub Label: 
-- Slack channel: 
+- Slack channel: #vsa-facilities
 - Product POCs:
+  - DEPO Product Lead: Dave Conlon
+  - Product Manager: Michelle Middaugh
+  
 - Stakeholders: 
 
 </details>
@@ -148,10 +159,16 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ DEPO Product Lead: Dave Conlon
+ Product Manager: Michelle Middaugh
+ Front end engineers
+ - Michael Pelz-Sherman
+ - Gibran Rodriguez
+ Back end engineer
+ - Lance Sanchez
+ Design/Research
+ - Leyda Hughes
+ - Chris Logan
  
 </details>
 

@@ -7,8 +7,6 @@
 
 ---
 
-`This document is a WIP`
-
 ## Research goals
 Our primary goal is to move the Chapter 31 and Chapter 36 (CH31/CH36) features--currently form submissions--to VA.gov, maintaining all existing functionality. Secondarily, we want to reduce confusion between the two programs using screening wizards on the form introduction pages. We're conducting usability testing of the features to determine if the new forms and wizards are intuitive and functional for users needing to submit either form VA 28-1900 or 28-8832.
 
@@ -29,18 +27,18 @@ The moderator prompted users with tasks from the conversation guide. Participant
 
 #### Research questions
 - Where and how (what links/navigation) do participants expect to find CH31 and CH36 forms?
-- Do participants understand the function of the wizard features?
+- Do participants understand the language and function of the wizard features?
 - Will users identify the differences between the CH31 and CH36 programs and select the right form(s)?
 - What challenges prevent users from quickly and accurately completing the forms?
 
 #### Hypotheses
 - Users will have some difficulty locating the landing pages/logins for the CH31 and CH36 forms on VA.gov
 - User will generally understand the function of the screening wizards, but will miss the "bypass" link
-- The language in the wizards and intro will confuse users; they may misunderstand when they can apply for both CH36 and CH31 benefits.
+- The language in the wizards and intro will confuse users; they may misunderstand when they can apply for both CH36 and CH31 benefits
 - The forms themselves will be very easy for users to complete
 
 ## Key findings
-1. While users in this study rarely went directly to CH31/CH36 links, they did tend to find CH36 and CH31 content pages via the Chapter 33 screens. Two users found CH31/CH36 easilty using the search feature. Generally, users believed career guidance and job readiness were part of the CH33 GI Bill.
+1. While users in this study rarely went directly to CH31/CH36 links, they did tend to find CH36 and CH31 content pages via the Chapter 33 screens. Two users found CH31/CH36 easily using the search feature. Generally, users believed career guidance and job readiness were part of the CH33 GI Bill.
 
 2. Users were immediately comfortable navigating the screening wizard, and usually went straight to answering its questions. Only one user saw the "skip" wizard link and recognized that it went straight to the form.
 
@@ -58,6 +56,8 @@ Participants went to the VA.gov home and were asked, "If you heard VA could help
 - Several users mentioned they'd use the search feature, two did
 - Only two users scrolled the page to the featured benefits links
 
+> "I guess I would have to go up to the search box here. And I would type that in. Because I don't see it, it's not as obvious anywhere else."
+
 ### 2. Do participants understand the function of the wizard features?
 Users were given a link to the CH36 wizard and asked, "Please take a look at this page and see if you qualify for Chapter 36 or other benefits."
 
@@ -67,6 +67,8 @@ Users were given a link to the CH36 wizard and asked, "Please take a look at thi
 - The users who went to the CH31 wizard all qualified on their own merits
 - Many users found the language around timeframe ("the past year") ambiguous and wanted clarification/specifics
 - When the wizard question led to a "stop," users understood they did not qualify; several wanted links to alternate resources or information
+
+> "...if programs are are designated specifically Chapter 31, Chapter 33, Chapter 36, why not include that up here so that, you know, someone applying can kind of get the assurance that if they're on a mission to apply for Chapter 36, ...that's still what they're applying for."
 
 ### 3. Will users identify the differences between the CH31 and CH36 programs and select the right form(s)?
 Three users navigated to the CH31 wizard. They were asked, "Why were you were sent here?", "How is this different from the previous page/screen/form?", and  "Please look at this page and see if you qualify."

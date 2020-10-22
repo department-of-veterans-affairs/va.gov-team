@@ -1,8 +1,8 @@
-# Caregivers MVP Product Outline
-- GitHub Label: [#caregivers](https://dsva.slack.com/channels/caregivers)
+# Caregivers Product Outline
+- GitHub Label: [#vsa-caregivers]
 - Slack channel: [#vsa-caregivers](https://dsva.slack.com/channels/vsa-caregivers)
-- VA.gov link: https://www.va.gov/health-care/family-caregiver-benefits/comprehensive-assistance/
-- Product POCs: C.C. Gong, Alayna Abel
+- VA.gov link: https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/
+- Product POCs: Alayna Abel, Ming Ligh
 
 ---
 
