@@ -6,13 +6,13 @@
 VSP Accessibility supports teams building on VA.gov to ensure that nobody is excluded from using products on VA.gov. We provide best practice guidance throughout the development cycle, build and recommend automated testing tools to flag accessibility issues, reducing the manual effort required to fix issues immediately before launch and post-la
 
 ## Table of contents
-* [DEPO mandate on Section 508 compliance](#depo-mandate-on-section-508-compliance)
+* [DEPO Platform accessibility standards](#depo-platform-accessibility-standards)
 * [How to contact us](#how-to-contact-us)
 * [What we do](#what-we-do)
 * [Working with us](#working-with-us)
 * [Resources and guides](#resources-and-guides)
 
-## DEPO mandate on Section 508 compliance
+## DEPO Platform accessibility standards
 
 **Teams need to fix all severity defect 0-4 accessibility issues**.
 
