@@ -14,11 +14,12 @@ It is beneficial to conduct internal QA. This consisf of the team allocating 1 h
 - [ ] TBD
 - [ ] TBD
 - [ ] TBD
+- [ ] Notes
 
 ### Preparing all necessary documentation
-- product guide
-- product video
-- detailed staging user documentation
+- [ ] How to use flipper
+- [ ] Error/alerts definitions/causes documentation
+- [ ] Detailed staging user documentation
 
 ### Coordinating with relevant parties regarding important upcoming dates (re-directs, changes to content, changes that affect other teams)
 
