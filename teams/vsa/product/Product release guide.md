@@ -17,8 +17,8 @@ It is beneficial to conduct internal QA. This consisf of the team allocating 1 h
 - [ ] Notes
 
 ### Preparing all necessary documentation
-- [ ] How to use flipper
-- [ ] Error/alerts definitions/causes documentation
+- [ ] How to use flipper/feature flags [example](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/flipper-feature-flags)
+- [ ] Error/alerts causes/solutions documentation 
 - [ ] Detailed staging user documentation
 
 ### Coordinating with relevant parties regarding important upcoming dates (re-directs, changes to content, changes that affect other teams)
