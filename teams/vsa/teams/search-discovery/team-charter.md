@@ -4,10 +4,10 @@
 
 ## Guideposts
 ### Mission:
-TBD
+To enable veterans to find the essential information, tools and services they need as easily and quickly as possible on VA.gov.
 
 ### Vision:
-TBD
+To make VA.gov the indispensible "source of truth" for veteran benefit information by simply searching for what they need.
 
 ### VA.gov North Stars:
 1. Increase the use of self-service tools and associated number of conversions
