@@ -1,8 +1,9 @@
 # Language considerations
 
 ## Summary
-•	As of 2016, approximately 40,000 immigrants served in the armed forces, 5,000 noncitizens enlisted each year, and 511,000 Veterans were born outside of the U.S. In addition, net growth in the U.S. population of 18- to 29-year-olds (the segment most likely to enlist) is predicted to come entirely from immigrants and the children of immigrants. [Reference]
-•	Based on data of the most common language for LEP U.S. residents and the most common languages other than English spoken in the homes of immigrant Veterans, the top languages to consider for translation are (in order): Spanish, Tagalog, Chinese, Vietnamese, and Korean.
+- As of 2016, approximately 40,000 immigrants served in the armed forces, 5,000 noncitizens enlisted each year, and 511,000 Veterans were born outside of the U.S. In addition, net growth in the U.S. population of 18- to 29-year-olds (the segment most likely to enlist) is predicted to come entirely from immigrants and the children of immigrants. [Reference]
+
+- Based on data of the most common language for LEP U.S. residents and the most common languages other than English spoken in the homes of immigrant Veterans, the top languages to consider for translation are (in order): Spanish, Tagalog, Chinese, Vietnamese, and Korean.
 
 ## Languages common for LEP U.S. residents
 
