@@ -18,7 +18,7 @@ VFS teams are sometimes confused about what the DEPO Platform's standards are: w
 - [ ] Update docs, and share in ToT, so it's clear that VFS teams need to come to the staging review w/their testing and artifacts complete
 - [ ] Update docs so it's easy for VFS teams to follow the steps necessary to do their required testing and artifacts
 - [ ] Create automated dashboard of outstanding 508 issues
-- [ ] Remove VFS personnel from Practice Area Review Group channel, from Collab Cycle meetings, and from the Weekly Review Team Standup
+- [ ] Remove VFS personnel from governance/enforcement activities and Slack channels 
 - [ ] Remove DEPO Platfrom personnel from VFS-specific meetings (if there are any)
 - [ ] Do [DEPO Platform workflow evaluation](https://app.mural.co/t/vspproduct9990/m/vspproduct9990/1602273732125/413b2daecfe8e7bccdce52af12ecf518e1f5a695) and cut / adjust steps where possible so the workflow is more manageable
 
@@ -27,7 +27,7 @@ VFS teams are sometimes confused about what the DEPO Platform's standards are: w
 - [ ] Clearly separate out guidance content from requirements content in the documentation
 - [ ] Update docs, and share in ToT, so it's clear that VFS teams need to come to the staging review w/their testing and artifacts complete
 - [ ] Update docs so it's easy for VFS teams to follow the steps necessary to do their testing and artifacts
-- [ ] Remove VFS personnel from Practice Area Review Group channel, from Collab Cycle meetings, and from the Weekly Review Team Standup
+- [ ] Remove VFS personnel from governance/enforcement activities and Slack channels 
 - [ ] Remove DEPO Platfrom personnel from VFS-specific meetings (if there are any)
 - [ ] Do DEPO Platform workflow evaluation and cut / adjust steps where possible so the workflow is more manageable
 
