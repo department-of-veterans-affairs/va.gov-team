@@ -67,8 +67,10 @@ Of the 8 Clients:
 ### Details of Findings
 
 #### 1.  Vet Centers are not well known among Veterans.
-Non-clients confuse Vet Centers with any place you get medical care within the VA system. Most of the non-client participants were convinced that they had been going to Vet Centers and only 1 truly knew what a Vet Center was.  
+Non-clients confuse Vet Centers with any place you get medical care within the VA system. Most of the non-client participants were convinced that they had been going to Vet Centers. Of the 7 non-clients, only 1 was familiar Vet Centers.  
+
 -How clients in this study learned about Vet Centers:
+
    - 3-Referred by a VA medical professional (often another counselor)
    - 2-Internet search
    - 1-CBOC (2 negative experiences with CBOCS by MST participants)
