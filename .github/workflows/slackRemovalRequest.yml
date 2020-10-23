@@ -15,11 +15,7 @@ jobs:
           reaction-type: "eyes"
           allow-edits: "false"
 
-  slack-notification-with-optional-parameters:
-    runs-on: ubuntu-latest
-    name: Sends a Slack message to the admins to request removal of offboarding user
-    steps:
-      - name: Send message
+      - name: Send Slack message
         uses: archive/github-actions-slack@v1.0.3
         with:
           slack-bot-user-oauth-access-token: ${{ secrets.SLACK_BOT_USER_OAUTH_ACCESS_TOKEN }}
