@@ -19,7 +19,7 @@ If you need a hand with anything IA-related, don't hesitate to contact us.
 * Shira Goodman, PM - Slack @Shira Goodman
 
 Slack channels: [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)
-Github/Zenhub labels: `content-ia-team``vsp-product-support`
+Github/Zenhub labels: `content-ia-team` `vsp-product-support`
 
 ## What we do
 >*”Information Architecture focuses on organizing, structuring, and labeling content…The goal is to help users find information and complete tasks.“* - Usability.gov
