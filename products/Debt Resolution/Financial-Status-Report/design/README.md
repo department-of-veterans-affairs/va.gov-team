@@ -3,7 +3,7 @@
 ## Wireflow V1
 **Date:** October 21, 2020
 
-![V1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/assets/fsr-wireflow-1.jpg)
+![V1.1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/assets/fsr-wireflow-1-1.jpg)
 
 [View full design change log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/design/wireflows-change-log.md)
 
