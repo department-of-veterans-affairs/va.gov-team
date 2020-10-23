@@ -158,8 +158,9 @@ Veterans felt Vet Center staff and counselors do a good job of asking questions 
 ## Next Steps
 
 * Share with stakeholders
-* Second pass synthesis to inform health services taxonomy and copywriting for Vet Centers website
-* Prototype Vet Center website
+* Second pass language synthesis to inform any needed updates to health services taxonomy and copywriting for Vet Center website MVP
+* Work with team to explore keyword, SEO, and search improvement opportunities to connect Veteran needs to Vet Center services
+* Prototype Vet Center website MVP
 
 ## Appendix
 
