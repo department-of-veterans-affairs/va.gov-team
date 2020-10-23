@@ -1,7 +1,7 @@
 ### 10/23 Update
 
   - User Testing recruitment is underway; sessions are scheduled to start on Nov. 2
-  - Disability and Education Wizard prototype/spec is done -- we only have to incorporate changes from usability.
+  - Disability and Education Wizard prototype/specs are done -- we only have to incorporate changes from usability.
   - Button issue (which is on how to apply pages) - Mikki wants to have a conversation about what each Apply Online Button now says (questions about character count, etc.)
 
 
