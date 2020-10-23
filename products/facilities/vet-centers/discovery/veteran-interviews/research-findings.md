@@ -53,16 +53,16 @@ Of the 8 Clients:
 
 ### Key Findings
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6.
-7.
-8.
-9. 
-10. 
+1. Vet Centers are not well known among Veterans.
+2. 8 of 8 Clients had a favorable view of Vet Centers.
+3. 7 of 8 Clients expressed being “separate from VA” as a key benefit of Vet Centers.
+4. Overall clients expressed the notion of feeling deeply understood at Vet Centers.
+5. Clients value the Veteran to Veteran approach to counseling, outreach and staffing of Vet Centers.
+6. 6 participant, 4 clients mentioned wanting to see "help with benefits" if that was available.
+7. Military culture can be especially difficult for clients dealing with MST
+8. 4 Clients suggested listing staff background and contact info on a Vet Center website
+9. 3 Clients were surprised to see employment referral as a Vet Center service
+10. 2 Clients called out flexibility in scheduling as a benefit that should be highlighted on a website.
 
 ### Details of Findings
 
@@ -158,7 +158,7 @@ In this study 4 of the 5 participants dealing with MST were also dealing with PT
 #### 9. 3 Clients were surprised to see employment referral as a Vet Center service
 > "That tracks with my understanding but I didn't know they did employment referral and that's what I actually do I work with job seeking veterans."
 
-#### 10. 2 Clients called out flexibility as a benefit that should be highlighted more.
+#### 10. 2 Clients called out flexibility in scheduling as a benefit that should be highlighted on a website.
 
  > " I also know that they have some flexible scheduling and make some appointments available to come in early or later in the day and weekend times but it is on a case by case basis."
  
@@ -179,16 +179,15 @@ In this study 4 of the 5 participants dealing with MST were also dealing with PT
 
 #### 1. Services should be illustrated and described in a less clinical manner, mirroring Veteran language [taxonomy research to inform this]. Explore keyword search analytics, SEO, and search improvement opportunities to connect Vet Center services to Veteran needs, e.g. PTSD, MST. 
 #### 2. Detail pages must feel distinct from VA Medical Centers and communicate Vet Centers’ “welcoming environment and hospitable culture”.
-#### 3. Calling the Vet Center should be the primary call to action on any Vet Center page.
+#### 3. Calling the Vet Center should be the primary call to action on any Vet Center page. Give alternative means of contacting a Vet Center and stress the flexible nature scheduling.
 #### 4. Avoid describing official eligibility requirements in favor of a generic, ‘just call, we’ll help’ message. 
-#### 5. Highlight and describe what “referral services” are in simple language with concrete examples. Explain how this relates to the types of benefit help Veterans are seeking.
+#### 5. Highlight and describe what “referral services” are in simple language with concrete examples. Explain how this relates to the types of benefit help Veterans are able to expect.
 #### 6. Communicate a Vet Center’s potential reach via Mobile Vet Centers, Community Access Points and Outstations.
 #### 7. Highlight “Group” activities visually with real photos of Vets doing fun things that don’t look clinical.
 #### 8. Incorporate staff summary, individual bios and photos.
 #### 9. Create an events listing or calendar tool for Vet Center staff to manage and publicize public events.
-#### 10.Create a contact form for potential clients to request information or refer a friend.
-#### 11.Consider a separate page or section dedicated to MST.
-#### 12.Consider social media for managing closed group events.
+#### 10. Consider a separate page or section dedicated to MST.
+#### 11. Consider social media for managing closed group events.
 
 
 ## Next Steps
