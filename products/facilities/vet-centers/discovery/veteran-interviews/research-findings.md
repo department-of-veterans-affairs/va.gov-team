@@ -13,7 +13,8 @@ Prior to the study, we hypothesized that:
 
 ## Research Methodology 
 
-45 minute generative questioning interview sessions conducted via Zoom.
+- 45 minute generative questioning interview sessions conducted via Zoom
+- Review of current Vet Center facility detail page
 
 ### Who we talked to
 
