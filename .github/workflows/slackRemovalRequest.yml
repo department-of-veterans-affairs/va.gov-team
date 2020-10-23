@@ -9,7 +9,7 @@ jobs:
         id: request
         uses: xt0rted/slash-command-action@v1
         with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          repo-token: ${{ secrets.BOT_GITHUB_TOKEN }}
           command: request
           reaction: "true"
           reaction-type: "eyes"
