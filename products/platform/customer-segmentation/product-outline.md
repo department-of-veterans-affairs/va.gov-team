@@ -1,4 +1,4 @@
-# Customer Segmentation [Draft]
+# Customer Segmentation
 
 ## Overview
 
@@ -17,7 +17,7 @@ VSP teams and leadership, DEPO
 ### Key Performance Indicators (KPIs)
 
 - The number of VSP initiatives targeting specific customer segments.
-- Increase in overall customer satisfaction.
+- Increase in customer satisfaction.
 
 ------
 
