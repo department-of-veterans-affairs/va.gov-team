@@ -1,6 +1,6 @@
 # Financial Status Report Design
 
-## Wireflow V1
+## Current Wireflow
 **Date:** October 21, 2020
 
 ![V1.1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/assets/fsr-wireflow-1-1.jpg)
