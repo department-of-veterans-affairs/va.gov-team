@@ -27,6 +27,9 @@
 ![V1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/assets/fsr-wireflow-1.jpg)
 
 **Feedback/Notes:**
-- Profile contact information pattern tbd
-- Loop list pattern being assessed (Pension, VAOS, calculator patterns)
-- Not-so-happy paths tbd
+- **Designer**  
+  - Profile contact information pattern tbd
+  - Loop list pattern being assessed (Pension, VAOS, calculator patterns)
+  - Not-so-happy paths tbd
+- **VSP Design Intent:**
+  - [VSP Design Intent Ticket](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14769)
