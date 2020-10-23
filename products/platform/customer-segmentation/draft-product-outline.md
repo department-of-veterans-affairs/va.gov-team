@@ -17,7 +17,7 @@ VSP teams and leadership, DEPO
 ### Key Performance Indicators (KPIs)
 
 - The number of VSP initiatives targeting specific customer segments.
-- Increase in customer satisfaction for the 3 top segments.
+- Increase in overall customer satisfaction.
 
 ------
 
