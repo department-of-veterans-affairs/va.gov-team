@@ -47,8 +47,8 @@ Of the 8 Clients:
 ## Findings
 
 ### Findings by hypothesis
-* Clients have a favorable view of Vet Centers and the services that they offer: True
-* Clients view Vet Centers as distinct entities from other VA facilities: True
+* Clients have a favorable view of Vet Centers and the services that they offer: **TRUE**
+* Clients view Vet Centers as distinct entities from other VA facilities: **TRUE**
 
 
 ### Key Findings
