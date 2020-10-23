@@ -14,16 +14,15 @@ VFS teams are sometimes confused about what the DEPO Platform's standards are: w
 
 ### Accessibility
 - [ ] Publish clear standards that the DEPO Platform will enforce
-  - [ ] Update
+  - [x] Update existing docs
+  - [ ] Publicize (ToTs)
 - [ ] Clearly separate out guidance content from requirements content in the documentation
-- [ ] Update docs, and share in ToT, so it's clear that VFS teams need to come to the staging review w/their testing and artifacts complete
-- [ ] Update docs so it's easy for VFS teams to follow the steps necessary to do their required testing and artifacts
+  - [ ] Update docs, and share in ToT, so it's clear that VFS teams need to come to the staging review w/their testing and artifacts complete, and the specifics of tasks that fall on VFS, VFS w/SME, vs VSP
+  - [ ] Update docs so it's easy for VFS teams to follow the steps necessary to do their required testing and artifacts
 - [ ] Create automated dashboard of outstanding 508 issues
 - [ ] Remove VFS personnel from governance/enforcement activities and Slack channels
   - [ ] Brief all parties that VSP will deliver feedback in review meetings
   - [ ] Brief all parties that VSP may change the severity of an issue based on our review, and that'll be communicated to the VFS team members as a part of the staging review.
-  - [ ] ^ start following that  policy!
-  - [ ] 
 - [ ] Remove DEPO Platfrom personnel from VFS-specific activities
   - [ ] Brief all parties that VFS teams need to alert the VA 508 Office (w/VSP cc'd) once they've launched
 - [ ] Do [DEPO Platform workflow evaluation](https://app.mural.co/t/vspproduct9990/m/vspproduct9990/1602273732125/413b2daecfe8e7bccdce52af12ecf518e1f5a695) and cut / adjust steps where possible so the workflow is more manageable
