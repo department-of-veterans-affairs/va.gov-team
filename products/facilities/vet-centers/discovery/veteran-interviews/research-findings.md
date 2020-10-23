@@ -141,14 +141,14 @@ Many participants faced administrative challenges when dealing with VA benefits 
 #### 7. Military culture can be especially difficult for clients dealing with MST
 In this study 4 of the 5 participants dealing with MST were also dealing with PTSD. In this study all MST participants were women and while the majority of these Veterans were satisfied with their care, they shared similar accounts of having to endure "military culture" which makes their situation extra challenging. Making this demographic feel comfortable is important to understand.
 
+> "I went to the VA, first and they always asked me if I'm here with my dad, or husband but I am like I spent this time in Iraq and you can't even respect me as a veteran so that's what changed now. [with Vet Center]"
+
+> "When me and my friend started working to get more women to use the VA, they changed the layout of the lobby so that when a female goes in there, you don't have to sit and listen to guys talking about who they screwed over the weekend. I don't have to sit in an environment like that. They starting putting signs up to watch your languages."
+
 > "After experiencing and going to the vet center it changed my thought. When I first heard of them it seemed like a place to hangout but due to my experiences, I didn't want to go hangout with a lot of bros and that were hanging out but not getting paid. I was surprised to learn it was more personalized and not so many people."
 
 
 > "For MST, they are going to be particular about the gender of the person, keyed in on how confidential it is. I can envision some that would be comfortable doing it in group but others that would be terrified of group sessions. Maybe spelling it out what resources for MST is available for the vet center and how it is different from the medical center would be useful."
-
-> "I went to the VA, first and they always asked me if I'm here with my dad, or husband but I am like I spent this time in Iraq and you can't even respect me as a veteran so that's what changed now. [with Vet Center]"
-
-> "When me and my friend started working to get more women to use the VA, they changed the layout of the lobby so that when a female goes in there, you don't have to sit and listen to guys talking about who they screwed over the weekend. I don't have to sit in an environment like that. They starting putting signs up to watch your languages."
 
 
 #### 8. 4 Clients suggested listing staff background and contact info on a Vet Center website 
@@ -158,8 +158,18 @@ In this study 4 of the 5 participants dealing with MST were also dealing with PT
 #### 9. 3 Clients were surprised to see employment referral as a Vet Center service
 > "That tracks with my understanding but I didn't know they did employment referral and that's what I actually do I work with job seeking veterans."
 
+#### 10. 2 Clients called out flexibility as a benefit that should be highlighted more.
 
+## Other Insights
 
+#### 1. Transitioning into civilian life can be lifelong. One Veteran mentioned waiting 50 years and another 30 years before finally seeking professional help to deal with their military trauma.
+#### 2. Eligibility details: "prior to Jan 2, 13" was confusing and "combat" requirement was problematic:
+ > "could alienate 90% of the veteran population because they may think that's were just combat guys go. The truth of the tell is that only 10% have had direct combat so the other 90% is just supporting them. "
+#### 3. Hearing loss made one Vietnam Veteran an avid user of text over calling and choose individual counseling over group. 
+#### 4. One Veteran was confused as to why PTSD was not listed within the services.
+#### 5. Not all VA's promote Vet Centers. One Memphis Client was angry about this: 
+
+ > "In all the time I have gotten care at the VA for mental health in the past 16 years I do not recall anyone saying anything about the Vet center. I don't think that is right. The psychiatrists are more into medication and the counselors do not mention it either and I think that is a failure on the VA's part because the groups aren't like the VA groups. They are better in some ways. That's all I have to say about that."
 
 ## Recommendations
 
