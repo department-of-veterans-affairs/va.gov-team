@@ -33,3 +33,16 @@ Jeffrey Pomietlarz on 10.21.20 via Teams:
 ## BGS
 
 - BGS has confirmed that there should be no restriction on non-veteran dependents accessing direct deposit for edu info if they're eligible to view it. This was confirmed on 10/19/20 by Mahesh Raparti from CSRA.
+
+## Adam Kinder from the fraud team
+
+Via email on 10.23.20:
+
+**Do you all monitor direct deposit for education payments in the same way you monitor direct deposit for comp & pen payments, or do you not differentiate?**
+
+> Not currently, but we have plans to do so.
+
+**If you do monitor direct deposit for edu payments, do you all differentiate whether fraudsters go after comp & pen or edu payments? I’m trying to understand if we should expect to see a further reduction in fraud numbers after we move the direct deposit for edu functionality to our site, or if fraud primarily affects comp & pen payments only.**
+
+> See above. We don’t have a good understanding right now on the fraud that occurs in EDU space.  This is on our radar though.
+ 
