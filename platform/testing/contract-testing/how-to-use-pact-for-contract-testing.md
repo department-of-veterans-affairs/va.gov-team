@@ -95,18 +95,18 @@ The process is a collaborative effort where front-end (FE) and back-end (BE) eng
    - If the status of any pact can't be determined, the job times out with a failure.
 4. The broker triggers the verification job in the vets-api CI pipeline, which publishes its results to the broker.
 5. If all pacts in the branch are successfully verified, the branch can be merged.
-6. If verification has failed for any pact, FE engineers should discuss with BE engineers to resolve the failure.
-   **The branch should not be merged until the `can-i-deploy` task is successful.**
-   FE should adjust the pact or BE should update provider states or API responses to accommodate the pact.
+6. If verification has failed for any pact, FE engineers should discuss with BE engineers to resolve the failure. 
+   **The branch should not be merged until the `can-i-deploy` task is successful.** 
+   FE should adjust the pact or BE should update provider states or API responses to accommodate the pact. 
    If the resolution only involves BE changes, wait for those changes to get merged and re-run the vets-website CI pipeline.
 
 #### Back-end workflow
 
 1. BE engineers update API endpoints and/or provider states in a feature branch in vets-api.
-2. The vets-api CI pipeline runs the verification job, which verifies the all of the latest pacts on the vets-website master branch.
+2. The vets-api CI pipeline runs the verification job, which verifies all of the latest pacts on the vets-website master branch.
 3. If the verification job passes, the branch can be merged.
-4. If the verification has failed for any pact, BE engineers should discuss with FE engineers to resolve the failure.
-   BE should adjust provider states or API responses to accommodate the pact or FE should update the pact.
+4. If the verification has failed for any pact, BE engineers should discuss with FE engineers to resolve the failure. 
+   BE should adjust provider states or API responses to accommodate the pact or FE should update the pact. 
    If the resolution only involves FE changes, wait for those changes to get merged and re-run the vets-api CI pipeline.
 
 ![](https://i.imgur.com/zQMyDS0.png)
@@ -123,7 +123,7 @@ In that pact, there is an interaction with this description:
 Note how the description is structured according to this pattern:
 > Given `<provider state>`, upon receiving `<request description>` from `<consumer>`, with `<request object>` `<provider>` will respond with `<response object>`.
 
-When defining pacts and their interactions, it's important to consider how you name these key attributess: **provider state, request description, consumer, and provider**.
+When defining pacts and their interactions, it's important to consider how you name these key attributes: **provider state, request description, consumer, and provider**.
 - Interactions are first defined in the Pact tests written in vets-website, where all of these attributes must be provided.
 - Of these attributes, the provider states and consumer name must match when handling the provider states in vets-api.
 
@@ -623,9 +623,9 @@ After the vets-api feature branch is merged to master, that pact should be abl
 
 The CircleCI build for vets-api is still under construction with respect to parallelizing our test suite. Tests currently fail simplecov minimum coverage standards due to processes overriding results from other parallel test processes. A solution is in the works to properly merge simplecov results.
 
-The pact verification functionality is in working order for developer usage when a commit is pushed or when invoked via webhook from the pact broker during a contract content changed event.
+The pact verification functionality is in working order for developer usage when a commit is pushed or when invoked via webhook from the Pact Broker during a "contract content changed" event. Information about the consumer (name, commit hash, and branch) that triggered the event is saved in a text file as an artifact.
 
-When the pact verification task runs in CircleCI (via the build or verification workflow), verification results are pushed back to the broker after the workflow completes.
+When the pact verification task runs in CircleCI (via the build or verification workflow), verification results are pushed back to the broker after the workflow completes. The verification results can also be viewed in CircleCI.
 
 ### CircleCI and the Build Process
 
