@@ -5,7 +5,7 @@ Leyda Hughes (leyda.hughes@adhocteam.us), 10/23/2020
 
 ## Research Goals 
 
-As part of the larger discovery effort to understand the services offered by Vet Centers for the purpose of upgrading existing Vet Center facility detail pages, the goal of this study was to understand a Vet Center client’s experience, impression and relationship with Vet Centers.
+As part of the larger discovery effort to understand the services offered by Vet Centers for the purpose of upgrading existing Vet Center facility detail pages, the goal of this study was to understand a Vet Center client’s experience, impression, and relationship with Vet Centers.
 
 Prior to the study, we hypothesized that:
 
@@ -23,7 +23,7 @@ All participants:
 * Ages: 1-(25-34), 1-(35-44), 2-(45-54), 2-(55-64), 6-(65-74), 1-(75+), 2-(Undisclosed)
 * 9-male, 6-female. Clients: 4-male, 4-female 
 * 5-Vietnam Veteran, 5-GWOT Veteran, 3-Undisclosed, 1-Army reservist (not deployed), 1-Marine (not deployed)
-* 5-PTSD, 4-PTSD+MST, 4-Undisolosed, 1-MST.  
+* 5-PTSD, 4-PTSD+MST, 4-Undisclosed, 1-MST.  
 
 Of the 8 Clients:
 * Ages: 1-(25-34), 1-(35-44), 2-(45-54), 1-(55-64), 2-(65-74), 1-(Undisclosed)
