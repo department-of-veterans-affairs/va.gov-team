@@ -14,7 +14,7 @@ VSP Content supports VFS teams in their content needs by providing guidance, fee
  - Shira Goodman, PM VSP Product support, @shira goodman on Slack
  
 - Slack channels: [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)
-- Github labels: `[Content-ia-team]` `[VSP product support]`
+- Github labels: `[Content-ia-team]` `[vsp-product-support]`
 
 
 ### <a id="whatwedo"></a> What we do
