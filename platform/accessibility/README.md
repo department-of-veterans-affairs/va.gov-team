@@ -95,7 +95,7 @@ Accessibility guidance is included in the following phases of the VSP Collaborat
 * [Screen Reader Fieldset Plus Legend Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/research/screenreader-fieldset-legend-label.md)
 
 ## Footnotes
-* <b id="f1">Footnote 1:</b> Some services must be launched into production before they can be reviewed for accessibility. Teams should coordinate a staging review with the DEPO Platform as soon as possible post-launch. [↩](#footnote1)
+* <b id="f1">Footnote 1:</b> DEPO Platform acknowledges that some services must be launched into production before they can be reviewed for accessibility. Teams should coordinate a staging review with the DEPO Platform as soon as possible post-launch. [↩](#footnote1)
 
 ---
 ##### Revision History
