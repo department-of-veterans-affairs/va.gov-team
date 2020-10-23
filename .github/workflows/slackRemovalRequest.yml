@@ -26,4 +26,3 @@ jobs:
           slack-channel: vsp-operations
           slack-text: Hello! Please remove ${{ steps.request.outputs.command-arguments }} from DSVA Slack
           slack-optional-icon_emoji: ":wave:"
-          slack-optional-as_user: false
