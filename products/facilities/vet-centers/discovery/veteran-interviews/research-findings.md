@@ -187,7 +187,6 @@ In this study 4 of the 5 participants dealing with MST were also dealing with PT
 #### 8. Incorporate staff summary, individual bios and photos.
 #### 9. Create an events listing or calendar tool for Vet Center staff to manage and publicize public events.
 #### 10. Consider a separate page or section dedicated to MST.
-#### 11. Consider social media for managing closed group events.
 
 
 ## Next Steps
