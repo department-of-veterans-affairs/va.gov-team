@@ -133,11 +133,11 @@ Veterans felt Vet Center staff and counselors do a good job of asking questions 
 
 > "..."
 
-#### 9. [4 clients mention staff bios]
+#### 9. 4 Clients suggested listing staff background and contact info  
 
 > "..."
 
-#### 10. [3 surprised to see employment referral]
+#### 10. 3 were surprised to see employment referral as a Vet Center service
 
 > "..."
 
