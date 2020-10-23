@@ -95,9 +95,9 @@ The process is a collaborative effort where front-end (FE) and back-end (BE) eng
    - If the status of any pact can't be determined, the job times out with a failure.
 4. The broker triggers the verification job in the vets-api CI pipeline, which publishes its results to the broker.
 5. If all pacts in the branch are successfully verified, the branch can be merged.
-6. If verification has failed for any pact, FE engineers should discuss with BE engineers to resolve the failure. 
-   **The branch should not be merged until the `can-i-deploy` task is successful.** 
-   FE should adjust the pact or BE should update provider states or API responses to accommodate the pact. 
+6. If verification has failed for any pact, FE engineers should discuss with BE engineers to resolve the failure.  
+   **The branch should not be merged until the `can-i-deploy` task is successful.**  
+   FE should adjust the pact or BE should update provider states or API responses to accommodate the pact.  
    If the resolution only involves BE changes, wait for those changes to get merged and re-run the vets-website CI pipeline.
 
 #### Back-end workflow
@@ -105,8 +105,8 @@ The process is a collaborative effort where front-end (FE) and back-end (BE) eng
 1. BE engineers update API endpoints and/or provider states in a feature branch in vets-api.
 2. The vets-api CI pipeline runs the verification job, which verifies all of the latest pacts on the vets-website master branch.
 3. If the verification job passes, the branch can be merged.
-4. If the verification has failed for any pact, BE engineers should discuss with FE engineers to resolve the failure. 
-   BE should adjust provider states or API responses to accommodate the pact or FE should update the pact. 
+4. If the verification has failed for any pact, BE engineers should discuss with FE engineers to resolve the failure.  
+   BE should adjust provider states or API responses to accommodate the pact or FE should update the pact.  
    If the resolution only involves FE changes, wait for those changes to get merged and re-run the vets-api CI pipeline.
 
 ![](https://i.imgur.com/zQMyDS0.png)
