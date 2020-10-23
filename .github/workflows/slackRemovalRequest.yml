@@ -24,6 +24,6 @@ jobs:
         with:
           slack-bot-user-oauth-access-token: ${{ secrets.SLACK_BOT_USER_OAUTH_ACCESS_TOKEN }}
           slack-channel: vsp-operations
-          slack-text: Hello! Please remove ${{ check_comments.steps.request.outputs.command-arguments }} from DSVA Slack
+          slack-text: Hello! Please remove ${{ steps.request.outputs.command-arguments }} from DSVA Slack
           slack-optional-icon_emoji: ":wave:"
           slack-optional-as_user: false
