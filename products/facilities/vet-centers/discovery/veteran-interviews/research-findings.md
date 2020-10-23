@@ -139,24 +139,19 @@ Many participants faced administrative challenges when dealing with VA benefits 
 > "they can access a liaison at the VA if needed. If you call and ask to talk to a counselor it's like jumping through 1000 loops and the vet center can break those barriers and if you need to go to the va the Vet center can work as a liaison for you."
 
 #### 7. Military culture can be especially difficult for clients dealing with MST
-
-- Military culture
-- Waiting room - Bros talking about getting laid when you’re an MST client, imagery on walls
+In this study 4 of the 5 participants dealing with MST were also dealing with PTSD. In this study all MST participants were women and while the majority of these Veterans were satisfied with their care, they shared similar accounts of having to endure "military culture" which makes their situation extra challenging. 
 
 > "..."
-
-
-#### 9. 3 Clients were surprised to see employment referral as a Vet Center service
-> "That tracks with my understanding but I didn't know they did employment referral and that's what I actually do I work with job seeking veterans."
-
-**When reviewing their local Vet Center facility detail page:**
-
-
 
 
 #### 8. 4 Clients suggested listing staff background and contact info on a Vet Center website 
 
 > "For a specific center it may be helpful having information about the staff that is there and what their background is or specialists or prior service staff. That is what a lot of veterans would key in on."
+
+#### 9. 3 Clients were surprised to see employment referral as a Vet Center service
+> "That tracks with my understanding but I didn't know they did employment referral and that's what I actually do I work with job seeking veterans."
+
+
 
 
 ## Recommendations
