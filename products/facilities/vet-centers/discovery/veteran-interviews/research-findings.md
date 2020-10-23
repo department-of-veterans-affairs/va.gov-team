@@ -53,16 +53,16 @@ Of the 8 Clients:
 
 ### Key Findings
 
-1. Vet Centers are not well known among Veterans.
-2. 8 of 8 Clients had a favorable view of Vet Centers.
-3. 7 of 8 Clients expressed being “separate from VA” as a key benefit of Vet Centers.
-4. 5 of 8 Clients mentioned the importance of the Veteran to Veteran approach to counseling, outreach and overall staffing of Vet Centers.
-5. 5 of 8 Clients said “I would share my experience” when asked what they would say to someone who had never been or could benefit from contacting a Vet Center.
-6. Clients expressed the notion of feeling deeply understood at Vet Centers. 
-7. [4 clients mention - things that make it less friendly for women]
-8. [4 & 6 clients mention  - benefit help]
-9. [4 clients mention staff bios]
-10. [3 surprised to see employment referral]
+1. 
+2. 
+3. 
+4. 
+5. 
+6.
+7.
+8.
+9. 
+10. 
 
 ### Details of Findings
 
