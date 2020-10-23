@@ -1,7 +1,7 @@
-# Research Findings: Outreach Specialist Interviews
+# Research Findings: Vet Center - Client Interviews
 **Digital Services Veterans Affairs (DSVA), VSA, Facility Locator**<br>
 
-Leyda Hughes (leyda.hughes@adhocteam.us), 09/08/2020
+Leyda Hughes (leyda.hughes@adhocteam.us), 10/23/2020
 
 ## Research Goals 
 
