@@ -78,16 +78,17 @@ Non-clients confuse Vet Centers with any place you get medical care within the V
 
 
 #### 2. 8 of 8 Clients had a favorable view of Vet Centers.
-Clients valued Vet Center’s unique ability to help Veterans, with diverse needs and at different stages of their journey, navigate the transition into civilian life, especially when they had already hit brick walls with care or eligibility
-How clients describe Vet Centers:
+Clients value Vet Center’s unique ability to help Veterans with diverse needs, at different stages of their journey, navigate the transition to civilian life, especially when they had already hit brick walls with care or eligibility
+
+How clients view Vet Centers:
 
 > "Just doing some internet research looking for resources that I could use to help me and my family with some issues we had been having. I went from 0 to 100 having stumbled upon it and having no expectations to advocating for it."
 
 > "I think with vet centers they do their best to help folks because it can be stressful when you have veteran friends that get benefits but you don't so you feel isolated or targeted because you don't get what they get. The vet center is able to show you that you can get help that is not contingent on va medical care."
 
-> "[A Vet Center is] an institution that was established to respect the privacy of veterans that were distrustful of the VA hospitals. I held it in when it happened almost 30 years ago. [Of a Vet Center counselor:] I told her she saved my life because that’s how I feel."
-
 > "I can see how easily it is to walk out of the military with bad paperwork. I have seen really good guys get bad discharges that should have never gotten it. To watch them get hammered by the system for doing what everyone thinks it is right but the rules being the rules took it the other way. All veterans can benefits. [from Vet Centers]"
+
+> "[A Vet Center is] an institution that was established to respect the privacy of veterans that were distrustful of the VA hospitals. I held it in when it happened almost 30 years ago. [Of a Vet Center counselor:] I told her she saved my life because that’s how I feel."
 
 #### 3. 7 of 8 Clients expressed being “separate from VA” as a key benefit of Vet Centers.
 This sentiment was expressed most often when asked “What is the most important thing for someone to know before visiting a Vet Center for the first time?” or when asked to compare a Vet Center with other VA facilities.
@@ -95,7 +96,7 @@ What does “separate from VA” mean to a Veteran:
 
  - **Confidentiality** - 5 of 8 Clients interviewed expressed the importance of privacy and confidentiality that Vet Centers provide. Veterans felt confident that counseling would remain “off the record” and could not be used against them. Privacy and confidentiality needs were expressed by 100% of the female participants in this study. 
  
- - **Location and environment** - The physical location being away from other VA facilities seemed to reinforce the sense of confidentiality for clients.  Clients often mentioned the “small”, “intimate”, nondescript nature of a Vet Center that seemed to create the “safe” environment that made them comfortable. Many also mentioned that it wasn’t as “big”, “intimidating”, “bureaucratic”. 
+ - **Location and environment** - The physical location being away from other VA facilities seemed to reinforce the sense of confidentiality for clients.  Clients often mentioned the “small”, "warm", “intimate”, nondescript nature of a Vet Center that creates the “safe” environment that makes them comfortable. Many also mentioned that it wasn’t “big”, “intimidating” or “bureaucratic” like other VA facilities can be. 
 
 > "Make sure they know they are separate from the VA and what you tell them is between you and them unless you want it in your VA records. A lot of people like the vet centers because they don't want it in the VA records."
 
@@ -103,24 +104,7 @@ What does “separate from VA” mean to a Veteran:
 
 > "I would say confidentiality, for myself when I started it was really important to me because of the military culture and my situation. I was worried that if I said anything I thought it would get back to the VA and would prevent me from benefits. I think most veterans are spooked and kind of in the mindset that what you said will be used against you. To let them know confidentiality is highly important."
 
-#### 4. 5 of 8 Clients valued Veteran to Veteran approach to counseling, outreach and the overall staffing of Vet Centers.
-Veterans brought up peer or Vet Center staff's military background throughout the interviews in different contexts but all as a beneficial aspect of Vet Centers. 
-
-> "I still go to the vet center; I had a group Saturday on Zoom. They set us up for online yoga, the air force person just got out and was like I can teach yoga. Which is cool because the vet center counselor now is former army captain and the counselor prior, he was air force, and went back in that's why he left. Everyone was in the military."
-
-> "Us taking care of us."
-
-> "The vet center for me was a great fit because we all are similar."
-
-
-#### 5. 5 of 8 Clients said “I would share my experience” when asked what they would say to someone who had never been or could benefit from contacting a Vet Center. 
-Sharing of their own personal experiences was the way most clients said that they would approach describing a Vet Center to friend who might benefit from their services or to make them comfortable visiting. 
-
-> "I would tell them my experience, having a group of veterans from your era then the leader starts the topic and then talking about the issues like living with PTSD with family. It was instructional the first time I heard it because it was the same issues I was having. Meeting with people that you were in war with is the number one way to deal with it."
-
-> "Knowing that someone else has gone through it and has been there. I put myself out there so they know they aren't alone. The biggest thing is the stigma with mental health, you're not weak for asking for help."
-
-#### 6. Overall clients expressed the notion of feeling deeply understood at Vet Centers. 
+#### 4. Overall clients expressed the notion of feeling deeply understood at Vet Centers. 
 Clients felt Vet Center staff and counselors do a good job of asking questions and understanding a Veteran’s context when assessing their needs and helping them find solutions. 
 
 > "The VA has gotten better with bad paper discharges but there are still hard lines where anything less than an honorable discharge then they don't get services whereas Vet Centers are able to interpret what happened. Vet centers ask why they made them do it and they get the answers. The army, there is little room to recover or grieve. Like 45 minutes to grieve then get back out to the mission, we lost 19 guys and we had the highest casualty rate. You come in grieve then go back out to combat, you get water and eat, cry, and get back out there."
@@ -131,24 +115,49 @@ Clients felt Vet Center staff and counselors do a good job of asking questions a
 
 > "I am not really a group person because I don't really like people... but I have found the women's group to be surprising, wonderful and I can go and not feel judged or that it is too much. I am still a skeptic of group and not a big fan of it. Since my therapist forced me to go it is a pretty good thing, even though I won't tell her that."
 
-#### 7. [4 clients mention - things that make it less friendly for women]
+#### 5. Clients value the Veteran to Veteran approach to counseling, outreach and staffing of Vet Centers.
+Shared military experiences helps to creates a sense of belonging and similtude among clients, especially those that engaged in group counseling. Sharing of their own personal experiences was the way most clients said that they would approach describing a Vet Center to friend who might benefit from contacting a Vet Center or to make them comfortable visiting. 
+
+> "The vet center is where I felt like I belonged and not alone in what I was feeling. I am from a nonmilitary family so I came home feeling screwed up. Knowing that someone else has gone through it and has been there. I put myself out there so they know they aren't alone. The biggest thing is the stigma with mental health, you're not weak for asking for help. "
+
+> "I would tell them my experience, having a group of veterans from your era then the leader starts the topic and then talking about the issues like living with PTSD with family. It was instructional the first time I heard it because it was the same issues I was having. Meeting with people that you were in war with is the number one way to deal with it."
+
+> "That they are not alone and the Vet Center is the place to go to get help without judgement."
+
+> "The vet center for me was a great fit because we all are similar. Us taking care of us."
+
+
+#### 6. 6 participant, 4 clients mentioned wanting to see "help with benefits" if that was available.
+Many participants faced administrative challenges when dealing with VA benefits disability ratings, claims and eligibility that created barriers for them before they were able to begin managing their mental health. Clients valued the help that Vet Centers can offer in navigating the VA system for benefits but some were unaware of the help available to them. Participants wanted to see this spelled out more clearly.
+
+> "It doesn't seem like they can help with benefits at least not from what I am aware of."
+
+> "Most veterans need help with claims so if they help with va claims and appeals you need to say that and it be prominent. They are not VSO's like people that help with claims so if they are you need to spell that out."
+
+> "They did help me, I just had eligibility issues so they helped to provide records of my PTSD to further show that I deserve the care at the VA which is frustration that you need to prove and then do everything expept give up your first born."
+
+> "they can access a liaison at the VA if needed. If you call and ask to talk to a counselor it's like jumping through 1000 loops and the vet center can break those barriers and if you need to go to the va the Vet center can work as a liaison for you."
+
+#### 7. Military culture can be especially difficult for clients dealing with MST
 
 - Military culture
 - Waiting room - Bros talking about getting laid when you’re an MST client, imagery on walls
 
 > "..."
 
-#### 8. 6 participant / 4 clients mentioned wanting to see "help with benefits" if that was available.
 
-> "..."
+#### 9. 3 Clients were surprised to see employment referral as a Vet Center service
+> "That tracks with my understanding but I didn't know they did employment referral and that's what I actually do I work with job seeking veterans."
 
-#### 9. 4 Clients suggested listing staff background and contact info on a Vet Center website 
+**When reviewing their local Vet Center facility detail page:**
+
+
+
+
+#### 8. 4 Clients suggested listing staff background and contact info on a Vet Center website 
 
 > "For a specific center it may be helpful having information about the staff that is there and what their background is or specialists or prior service staff. That is what a lot of veterans would key in on."
 
-#### 10. 3 Clients were surprised to see employment referral as a Vet Center service
-
-> "..."
 
 ## Recommendations
 
