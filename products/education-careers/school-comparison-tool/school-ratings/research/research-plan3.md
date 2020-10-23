@@ -62,6 +62,7 @@ Researchers need to be able to see how users react and interact with school rati
 - 8 participants total
    - Actively looking for a school to attend for themselves where they'll use their VA education benefits in the next 2-3 months or
    - In the last 6 months, looked for a school to attend for themselves where they'd use their VA education benefits
+- 2 participants on mobile, 6 participants on desktop
 - GI Bill beneficiaries
 - Age range: 18-45
 - Gender: Mix
