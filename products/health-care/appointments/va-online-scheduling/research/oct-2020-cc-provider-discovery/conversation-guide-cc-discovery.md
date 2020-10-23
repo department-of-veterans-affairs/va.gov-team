@@ -1,16 +1,16 @@
-# Conversation Guide Template for Moderated Research
+# Conversation Guide Template for Moderated Research [DRAFT]
+
 
 ## Moderator logistics
 
 [ ] Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to the [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-
+[ ] Have the prototype link available
+[ ] Update the Zoom sharing section
 [ ] In the Attendees section, make sure everyone except the participant is on mute
-
-[ ] In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked*
-
+[ ] In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
 [ ] Check your [screensharing setup]
+[ ]When the participant is ready, begin the session with the following intro:
 
-[ ]When the participant is ready, begin the session with the following intro
 
 ### Project-specific setup
 
@@ -19,7 +19,7 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Peter and I also have some colleagues on the line observing and taking notes. Today we're going to talk about [scheduling health care appointments]. 
+Thanks for joining us today! My name is Peter Russo and I also have some colleagues on the line observing and taking notes. We have a team working on improving the process for scheduling health care appointments. Today, I'd like to hear about your experience in scheduling appointments, and go through a prototype of this tool and get your thoughts on it.
 
 Before we start, a few things I want to mention:
 
@@ -38,12 +38,19 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+* [Do we want to ask about their experience with choosing a provider? Or wait until the prototype?]
+* [Do we want to ask about their understanding of community care? Or wait until the prototype?]
 
-## First Task: [TASK NAME] - X minutes
+## Section 1: Start an appointment
 
-- Step 1
-- Step 2
+Next, we're going to take a look at the prototype. As I mentioned earlier, this is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a prototype, none of your actions will affect your actual VA information or benefits.
+u think it might be?
+
+## First Task: *Start appointment* - X minutes
+
+* Take a look at this page, scroll around. Tell me what this page is for and what you think you can do here. It'll be really helpful if you can think out loud as much as possible moving forward.
+
+* What do you think about the different ways you can find information on this page?
 
 ### Things to watch for:
 

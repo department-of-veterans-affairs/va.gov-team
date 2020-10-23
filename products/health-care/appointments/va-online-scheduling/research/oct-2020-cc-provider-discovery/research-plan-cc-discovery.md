@@ -7,55 +7,50 @@
 This research is for the VA Online Scheduling (VAOS) team.
 
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
-VAOS allows veterans to schedule health care appointments at VAMCs, or with providers in their community if the veteran meets certain eligibility requirements. 
 
-Community care appointments allow veterans to receive care from providers in their area. Community care appointments have grown significantly since it was We want to learn how best to communicate the difference between community care and VA appointments to veterans. We also want to learn about the ways veterans prefer to choose providers.
+VAOS allows veterans to schedule health care appointments at VAMCs, or with providers in their community if the veteran meets certain eligibility requirements. Currently veterans communicate their preferred providers by finding them in the Facility Location tool, copying the provider's contact information and pasting it back into the scheduling tool.
+
+The provider selection prototype is designed to support the following goals:
+  * Help veterans schedule community care appointments by letting them search for providers directly in VAOS.
+  * Help Veterans understand their type of care options, whether a VAMC or Community Care.
+  * Make it clear to Veterans that they can opt out of choosing a provider.
+  * Decrease the amount of time it takes veterans to schedule a community care appointment when selecting a provider.
+  * Help veterans find their pending appointments.
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research?
 
-[Note: we're still narrowing this list down - PR]
-
-* What is the clearest way to explain community care to a veteran scheduling a cc appointment for the first time?
-* How do veterans prefer to choose a community care provider? We'll test [narrow these down]:
-  * Search for a specific provider
-  * Let the scheduler choose provider based on distance from their location or prefereed address
-  * Select up to three providers and let the VA scheduler make the final choice
-  * Ask them to rank provider choices
-  * Skip the selection process entirely and let the VA choose a provider for them?
-* In what ways do veterans want to schedule a new appointment with a provider they've previously seen?
-  * Start with the provider already selected, then fill out everything else?
-  * Make recurring appointments with that provider?
-  * Get reminders to schedule annual appointments?
-
-We may also test usability for features unrelated to community care:
-* Do veterans know how to find their scheduled appointments on the home page?
-* Do the new descriptions under the type of care options help veterans find the type of care they need?
-
-
+  * Is it easy to understand the difference between community care and VA care
+  * Can veterans easily find providers?
+  * Is it easier to find providers on the map or list?
+  * Is it clear what skipping the step of adding a provider means?
+  * Are there other ways veterans expect to be able to find a provider?
+  * Can veterans find their requested pending appointments?
+  
 4. Hypothesis: What is your hypothesis for this research? 
-* Veterans will want to be able to return to the same provider repeatedly.
-* Veterans will be able to request a community care appointment.
-
+  * Veterans will be able to understand the type of care options presented.
+  * It will be easy for veterans to choose a provider.
+  * Veterans will be able to complete the scheduling process without outside support.
 	
 ## Method	
 1.	What method of research are you planning? 	
-This is a remote moderated usability study, via Zoom
+
+We're planning on doing a remote, moderated usability study. We'll ask participants to go through a clickable prototype.
   		
 2.	Why this method? How does this methodology help you answer your research questions?
-By asking veterans to talk about their needs around community care and provider selection, we hope to learn how their mental model about this service differs from what we've presented. We believe asking them to interact with a conceptual prototype is the fastest way to understand their needs.
 
-3.	What will you be testing? 
-A concept prototype in InVision.
+Having veterans complete tasks in a clickable prototype will help us understand how easily they're able to find the information they're looking for, and gain insight into how they would go about looking for information they can't find. The presence of a moderator will allow us to ask follow-up questions and guide the participant through the tasks.
 	
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	  
 (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
 
-* 5-8 veterans
+* 5-8 Veterans
 * Generally matching the typical demographic breakdown of veterans
 * Familiarity with community care is not required
+To ensure inclusivity, we request at least one participant that has identified cognitive impairments and/or functional disabilities. Diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), Autism, and Vertigo. Other conditions may be autism, aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
 
 Please list your participant criteria in two categories-
+
 1. **Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.) 
 
 TBD
