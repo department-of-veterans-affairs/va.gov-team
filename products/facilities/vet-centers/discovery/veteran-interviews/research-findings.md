@@ -177,21 +177,23 @@ In this study 4 of the 5 participants dealing with MST were also dealing with PT
 
 ## Recommendations
 
-#### 1. 
-#### 2. 
-#### 3. 
-#### 4. 
-#### 5. 
-#### 6. 
-#### 7. 
-#### 8. 
-#### 9. 
-#### 10. 
-#### 11.
+#### 1. Services should be illustrated and described in a less clinical manner, mirroring Veteran language [taxonomy research to inform this]. Explore keyword search analytics, SEO, and search improvement opportunities to connect Vet Center services to Veteran needs, e.g. PTSD, MST. 
+#### 2. Detail pages must feel distinct from VA Medical Centers and communicate Vet Centers’ “welcoming environment and hospitable culture”.
+#### 3. Calling the Vet Center should be the primary call to action on any Vet Center page.
+#### 4. Avoid describing official eligibility requirements in favor of a generic, ‘just call, we’ll help’ message. 
+#### 5. Highlight and describe what “referral services” are in simple language with concrete examples. Explain how this relates to the types of benefit help Veterans are seeking.
+#### 6. Communicate a Vet Center’s potential reach via Mobile Vet Centers, Community Access Points and Outstations.
+#### 7. Highlight “Group” activities visually with real photos of Vets doing fun things that don’t look clinical.
+#### 8. Incorporate staff summary, individual bios and photos.
+#### 9. Create an events listing or calendar tool for Vet Center staff to manage and publicize public events.
+#### 10.Create a contact form for potential clients to request information or refer a friend.
+#### 11.Consider a separate page or section dedicated to MST.
+#### 12.Consider social media for managing closed group events.
+
 
 ## Next Steps
 
-* Share with stakeholders
+* Share findings with stakeholders and discuss highest priority needs for MVP. 
 * Second pass language synthesis to inform any needed updates to health services taxonomy and copywriting for Vet Center website MVP
 * Work with team to explore keyword, SEO, and search improvement opportunities to connect Veteran needs to Vet Center services
 * Prototype Vet Center website MVP
