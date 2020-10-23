@@ -21,9 +21,11 @@ VFS teams are sometimes confused about what the DEPO Platform's standards are: w
 - [ ] Create automated dashboard of outstanding 508 issues
 - [ ] Remove VFS personnel from governance/enforcement activities and Slack channels
   - [ ] Brief all parties that VSP will deliver feedback in review meetings
-  - [ ] Brief all parties that VSP will be the decider about severity
+  - [ ] Brief all parties that VSP may change the severity of an issue based on our review, and that'll be communicated to the VFS team members as a part of the staging review.
   - [ ] ^ start following that  policy!
-- [ ] Remove DEPO Platfrom personnel from VFS-specific meetings (if there are any)
+  - [ ] 
+- [ ] Remove DEPO Platfrom personnel from VFS-specific activities
+  - [ ] Brief all parties that VFS teams need to alert the VA 508 Office (w/VSP cc'd) once they've launched
 - [ ] Do [DEPO Platform workflow evaluation](https://app.mural.co/t/vspproduct9990/m/vspproduct9990/1602273732125/413b2daecfe8e7bccdce52af12ecf518e1f5a695) and cut / adjust steps where possible so the workflow is more manageable
 
 ### QA
