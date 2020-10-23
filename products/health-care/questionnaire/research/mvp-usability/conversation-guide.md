@@ -110,17 +110,18 @@ _Help them navigate back to the introduction page by clicking the header of the 
 ### On the Introduction page - 10 minutes
 - _Ask if the Veteran didn't review the entire page during the Usability Task._ I saw that you immediately clicked the sign in button during the first activity. Take some time now and review the rest of the page.
 - What are your impressions of this page?
-- Review the "How will my personal health information be protected and shared if I use this questionnaire?" question. 
-    - What are your thoughts about the information provided?
+- What are your thoughts about the information provided?
     - Is it what you were expecting or not expecting?
-- Review the steps information. (_Explain if necessary where the steps are._)
-    - What are your thoughts about the information provided?
-- In what order would you display the emergency, sharing, and steps information?
+        - in "How will VA protect..."?
+        - in the blue box (don't use for emergencies)?
+        - in "What happens after I answer..."?
 - Is there any other information we should include here?
 
 ### On the Veteran Information page - 2 minutes
 - Do you feel that VA.gov typically has the correct demographic information for you?
-- Do you find yourself updating contact information at primary care visits often?
+- Have you ever updated your contact information?
+    - If so, can you tell me about the process? Where did you update it? How did it go?
+- If updating online, would you want to update it in this questionnaire or within a profile section?
 
 ### On the This Visit page - 7 minutes
 _Tell the Veteran before asking questions on this page._ This is the first version of these questions. We plan to expand this form, so you could review your mediations, allergies, medical conditions, and more prior to an appointment.

@@ -144,3 +144,4 @@ Strategy to be drafted here based on https://github.com/department-of-veterans-a
 
 ### Status & Decisions
 - A running tally of project status and decisions is [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/status/status_decisions.md)
+

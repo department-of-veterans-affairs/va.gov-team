@@ -32,27 +32,30 @@
 - [Keywords](#Keywords)
 - [Team](#team)
 
-# Priorities (Updated 8/25/2020)
+# Priorities (Updated 10/23/2020)
 - Launch BDD
   - Remaining UAT
   - Remaining rollout at % points
   - Keep track of metrics
+- Higher Level Review
+  - Has been bouncing around for months due to COVID and then due to BDD and Original Claims
+  - Will likely be a higher priority shortly but waiting to see what AMO says
+  - BGS technical discovery
+- Letters Issues
+- 526/BDD Usability (Design focused)
+  - We have identified many potential issues we would like to look at related to BDD
+  - 526 Usability research plan in work.
 - Veteran Support
   - This will never be zero and we need to find time for at least two engagements a week
-  - Should be factored into our planning - it was not for sprint 27 
-- Original Claims Post Launch Analyis and Technical 
-  - Reducing Original Claims and 526 errors (no longer going to Grafana differences between 526, will ask VBA to help)
-  - This should not be starved out in any sprint but it does not mean it will always be higher than anything else
+  - Should be factored into our planning - it was not for sprint 27
 - Claims and Appeals Status
   - This has high visibility and therefore some work on this has to keep moving forward
   - Expected to focus one group of engineers HLR and one group in CST as we continue to move forward over the next few weeks
   - Fix bugs and existing "issues"
   - Work on decision information showing in tool
-- Higher Level Review
-  - Has been bouncing around for months due to COVID and then due to BDD and Original Claims
-  - Will likely be a higher priority shortly but waiting to see what AMO says
-  - BGS technical discovery
-
+- Notice of Disagreement
+- Supplemental Claims
+  
 # Products (this section in work)
 - BDD
 - HLR

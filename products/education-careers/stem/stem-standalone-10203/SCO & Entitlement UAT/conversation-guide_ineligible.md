@@ -1,23 +1,17 @@
 # STEM Standalone 10203 - UAT Conversation Guide
 
 # STEM UAT Testing Script
-August 2020
+October 26 - November 6, 2020
 
 ## Moderator logistics
 1. In the Attendees section, make sure everyone except the participant is on mute
 1. Check your screensharing setup: 
    1. Close all additional screens, programs and windows that might interfere with the participant's experience while controlling your computer screen
    1. Clear all pre-fill data in your browser in advance of the session. 
-1. The webex facilitator locks the webex meeting when all participants are in attendance and ready to get started. 
-1. Do not begin the session until the facilitator has received the consent form from the participant: [va-consent-form-10203.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/stem/stem-standalone-10203/UAT/va-consent-form-10203.pdf)
-
 *When the participant is ready and all required attendees (UX, BA, Development, Facilitator) are present,  begin the session with the following intro*
 
-### Project-specific setup
-- Ensure that the participant has signed a consent form: [va-consent-form-10203.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/stem/stem-standalone-10203/UAT/va-consent-form-10203.pdf)
-
 ## Introduction
-Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. The purpose of today's session is for us to observe you submitting an application for the VA's STEM Scholarship using the 22-10203 form on VA.gov. To reiterate what we've discussed during our earlier conversations, the Edith Nourse Rogers STEM Scholarship provides up to nine months of additional Post-9/11 GI Bill benefits (to a maximum of $30,000) to qualifying Veterans and Fry Scholars seeking an undergraduate STEM degree or who have earned a STEM degree and are seeking a teaching certification.
+Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. The purpose of today's session is for us to observe you submitting an application for the VA's STEM Scholarship using the 22-10203 form on VA.gov. The Edith Nourse Rogers STEM Scholarship provides up to nine months of additional Post-9/11 GI Bill benefits (to a maximum of $30,000) to qualifying Veterans and Fry Scholars seeking an undergraduate STEM degree or who have earned a STEM degree and are seeking a teaching certification.
 
 Before we get started, I want to begin by thanking you for your willingness to participate in this session. Your participation allows us to ensure that other veterans who will be using this form in the future will have a good experience.
 
@@ -33,17 +27,14 @@ A few more things I want to mention:
 ## Script for Signed In participants
 ### First Task: Webex Sharing & Accessing the Application - 5 minutes
 1.	The WebEx facilitator closes all additional screens, programs and windows that might interfere The WebEx facilitator opens the following screen in Google Chrome: https://staging.va.gov/education/how-to-apply/ and shares the Chrome window.
-2.	During the Screen or Application share, move your mouse to the top of the screen to the Webex panel and click the Assign button.
-3.	Select "Pass Keyboard and Mouse Control", then select the participant you would like to assign control to.
-4.	Now that the participant has control, have them sign in to VA.gov by clicking the blue "Sign in" button in the top right corner of the screen
-5.	Now that the applicant is signed in, have them scroll down to the "How do I apply" section and click the green "Find your education benefits form" button
-6.	The applicant should select the "Applying to extend my Post-9/11 or Fry Scholarship benefits using the Edith Nourse Rogers STEM Scholarship" radio button
-7.	The applicant should select the "Yes" radio button in response to the following question "Based on the eligibility requirements above, do you want to apply for this scholarship?" followed by selecting the green "Apply now" button.
+2. Request that the participant sign in to VA.gov by clicking the blue "Sign in" button in the top right corner of the screen. As they sign in, let them know that you will need the email address they use to sign in in order to grant them access to the features we're testing today.
+3. After the applicant is signed in, have them scroll down to the "How do I apply" section and click the green "Find your education benefits form" button.
+4. The applicant should select the "Applying to extend my Post-9/11 or Fry Scholarship benefits using the Edith Nourse Rogers STEM Scholarship" radio button
+5. The applicant should select the "Yes" radio button in response to the following question "Based on the eligibility requirements above, do you want to apply for this scholarship?" followed by selecting the green "Apply now" button.
 
 #### Things to watch for:
 1.	The individual needs to be signed in on VA.gov prior to accessing the wizard in order to see the expected functionality in the application.
 2.	Confirm that after clicking "Apply now" the applicant is routed to va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction
-4.	The applicant will continue through the application and pre-fill information should be included as available on the "Applicant information" screen.
 
 ### Second Task: Start & Complete the application
 1.	On the application introduction screen, confirm that variation of the following alert appears at the top of the application and includes remaining entitlement:

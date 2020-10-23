@@ -1,5 +1,6 @@
 # Conversation Guide Template for Moderated Research [DRAFT]
 
+
 ## Moderator logistics
 
 [ ] Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to the [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
@@ -9,6 +10,7 @@
 [ ] In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
 [ ] Check your [screensharing setup]
 [ ]When the participant is ready, begin the session with the following intro:
+
 
 ### Project-specific setup
 

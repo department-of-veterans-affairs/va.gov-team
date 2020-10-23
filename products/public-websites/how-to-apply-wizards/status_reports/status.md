@@ -1,3 +1,10 @@
+### 10/23 Update
+
+  - User Testing recruitment is underway; sessions are scheduled to start on Nov. 2
+  - Disability and Education Wizard prototype/specs are done -- we only have to incorporate changes from usability.
+  - Button issue (which is on how to apply pages) - Mikki wants to have a conversation about what each Apply Online Button now says (questions about character count, etc.)
+
+
 ### 10/8 Update
 
   - Liz completed UX/Content refinements outlined for the Education Wizard via an page-by-page [interactive prototype](https://preview.uxpin.com/ca08f3dbf63475b2b62f3e8c00050ad1b19c4cb5#/pages//simulate/no-panels?mode=i)

@@ -16,6 +16,28 @@
 
 1.
 
+## Tuesday October 23 - 12pmET
+
+
+### Agenda
+
+1. Review LC AX issues identified by Jen L.
+   1. 1/ ghost alert rendered on front-end
+   2. 2/ + 2A/ FAQ template Q&A group section header should be optional + choice to display a question inside an accordion or not
+   3. 3/ N/A option in Tags Audience
+
+#### Notes:
+
+1/ ghost alerts are an FE issue. FE templates should not render gray box wrapper when the alert value is set to na
+
+2/ + 2A / the CMS team understands the request and since this is a simple one field addition, we can commit to delivering it by EOD Tue 27th. Noting that neither template spec, not template mockups provided to us specified requested field changes [#3283](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3283).
+
+3/ Tag component N/A option - reviewed via screenshare. Jen, Kevin and I were not able to reproduce. This is likely related to outdated JS file cached in browser.
+
+### Action items
+
+1.
+
 ## Tuesday October 20
 
 ### Agenda

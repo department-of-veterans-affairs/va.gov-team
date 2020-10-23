@@ -11,7 +11,7 @@
 ----
 ## Sprint 32 (10/7 - 10/22)
 ```diff
-- 53 points over 16 issues
+- 58 points over 17 issues
 ```
 ### 1. Automate "Dependency Claims" Submissions
 - BE: iterate and implement latest changes for RBPS integration

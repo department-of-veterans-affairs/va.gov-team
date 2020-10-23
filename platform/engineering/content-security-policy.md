@@ -1,5 +1,7 @@
 # Content Security Policy 
 
+"Content Security Policy (CSP) is an added layer of security that helps to detect and mitigate certain types of attacks, including Cross Site Scripting (XSS) and data injection attacks. These attacks are used for everything from data theft to site defacement to distribution of malware." —[Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+
 This document is an overview of how Va.gov implements, uses, and manages a content security policy. This document assumes you have an understanding of CSP, CSP directives and a high level understanding of Va.gov's infrastructure (specifically where the reverse proxy sits in the content delivery flow).
 
 ## Generation of CSP

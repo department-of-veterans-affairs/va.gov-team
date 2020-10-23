@@ -3,17 +3,17 @@
 __Summary of release plan steps:__
 Per product sync today - We will launch batches per steps: 
 
-**I. 1.0 October/Nov beta launch release: ~Oct 29 - Nov. 5 prod (Sprint 33/34)**
+**I. 1.0 October/Nov beta launch release: ~ Nov. 4 prod (Sprint 33/34)**
 
 1. [See MVP phases to launch](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/mvp-phases-to-launch)   
 
-2. QA and internally validate in [demo environment](http://learningcenter.demo.ci.cms.va.gov/): ~Oct 23 -28
+2. QA and internally validate in [demo environment](http://learningcenter.demo.ci.cms.va.gov/): ~Oct 28 - Nov 3
 
 3. Fix any reported bugs in production environment. 
 
-4. Beta launch on prod: Oct 29 - Nov. 5. 
+4. Beta launch on prod: Nov. 4. 
 
-5. Implement search.gov index of LC pages in Prod.
+5. Implement search.gov index of LC pages in Prod on Nov. 4 once in Prod.
 
 6. Test LC search component. (There's no way to test product search in demo environment or in staging because search.gov needs to index learning center directory on live 'Prod' site.)
 
@@ -41,7 +41,7 @@ Per product sync today - We will launch batches per steps:
 ### Planning - 1.0 October/Nov beta launch release**:
 
 - **Date range:**
-  - Starting ~Oct 29 - Nov. 5 
+  - Starting ~Oct 28 - Nov. 3 
 - **Test duration:**
   - 5 business days
 - **Desired number of users:** 
@@ -81,21 +81,21 @@ Per product sync today - We will launch batches per steps:
 
 ### Planning:
 
-- Desired date: mm/dd/yy
-- Post-launch KPI 1: xx lorem ipsum
-- Post-launch KPI 2: xx lorem ipsum
-- Post-launch KPI 3: xx lorem ipsum
+- Desired date: 11/4/20
+- Post-launch KPI 1: Decrease in Contact Center calls coded for Account/Profile issues (MyVA311)
+- Post-launch KPI 2: Majority of feedback responses are positive (3/5+ or primarily ‘good’)
+- Post-launch KPI 3: Increase traffic to benefit hubs
 - etc
 - Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
 
 ### 1-week results:
 
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
+- Number of unique users: 25
+- Post-launch KPI 1 actual: Decrease in Contact Center calls coded for Account/Profile issues (MyVA311)
+- Post-launch KPI 2 actual: Majority of feedback responses are positive (3/5+ or primarily ‘good’)
+- Post-launch KPI 3 actual: Increase traffic to benefit hubs
+- Any issues with VA handling/processing?: yes/no, (follow up)
+- Types of errors logged: 
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
 
@@ -114,8 +114,6 @@ Per product sync today - We will launch batches per steps:
 
 Post-launch iterations/metrics
 - Validate success of [OKR's](https://docs.google.com/document/d/1aigEaAp43e59Y5_Ow10q04OfZUuhR-Jxd-9uEpdYezg/edit) through GA Dashboard and DOMO results. 
-
-
 
 
 ## Background
