@@ -1,0 +1,29 @@
+name: Request Slack Removal for Offboarding Users
+on: issue_comment
+jobs:
+  check_comments:
+    runs-on: ubuntu-latest
+    name: Check comments for /request
+    steps:
+      - name: Check for command
+        id: request
+        uses: xt0rted/slash-command-action@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          command: request
+          reaction: "true"
+          reaction-type: "eyes"
+          allow-edits: "false"
+
+  slack-notification-with-optional-parameters:
+    runs-on: ubuntu-latest
+    name: Sends a Slack message to the admins to request removal of offboarding user
+    steps:
+      - name: Send message
+        uses: archive/github-actions-slack@v1.0.3
+        with:
+          slack-bot-user-oauth-access-token: ${{ secrets.SLACK_BOT_USER_OAUTH_ACCESS_TOKEN }}
+          slack-channel: vsp-operations
+          slack-text: Hello! Please remove ${{ jobs.check_comments.steps.request.outputs.command-arguments }} from DSVA Slack
+          slack-optional-icon_emoji: ":wave:"
+          slack-optional-as_user: false
