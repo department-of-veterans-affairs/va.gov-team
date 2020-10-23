@@ -38,7 +38,7 @@ The remainder spoke a wide range of languages, including:
 
 Reference: https://www.migrationpolicy.org/article/immigrant-veterans-united-states-2018#EnglishProficiency
   
-## VA.gov researh findings
+## VA.gov usability researh findings
 
 What people are looking for on VA.gov:
 “On VA website but in English, and will share info with wife but verbally Like survivor benefit info in Spanish would be useuful in case anything ever happened to him, became incapicated or died. I served with many Latino veterans but they were all fluent in English. But it would be for their family members maybe it could be helpful.”
@@ -48,3 +48,6 @@ I expected the link to be in the top right hand corner. Took a second but found 
 
 "If I can go back and forth with my wife, flip back n forth from Spanish to English, [to help his wife but verify with English for himself]. For example with paper applications, like for food stamps, I put it side by side, the English and Spanish version. Usually can't do that with websites. Thinking more from the point of view of a mother or spouse, who would find Spanish helpful, not so much Veterans.
 
+## VA.gov coronavirus FAQs analytics
+
+[coronavirus faqs page image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/spanish-translation/coronavirus-mvp/images/coronavirus%20faqs%20other%20languages%20image.png)
