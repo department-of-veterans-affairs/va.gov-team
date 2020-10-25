@@ -34,7 +34,7 @@
 #### Risks & drawbacks 
 
 - More complex implementation
-- Cost: https://cloud.google.com/translate/pricing
+- Cost after free period ends. However, it appears there is a free tier for the service that allows users to test the capabilities for the first 500,000 characters per month. [Read more about pricing](https://cloud.google.com/translate/pricing)
 
 ### More information
 
