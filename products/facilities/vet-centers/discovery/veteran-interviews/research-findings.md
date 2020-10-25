@@ -167,8 +167,15 @@ In this study 4 of the 5 participants dealing with MST were also dealing with PT
 ## Other Insights
 
 #### 1. Transitioning into civilian life can be lifelong. One Veteran mentioned waiting 50 years and another 30 years before finally seeking professional help to deal with their military trauma.
-#### 2. Eligibility details: "prior to Jan 2, 13" was confusing and "combat" requirement was problematic:
+
+ > "I have been dealing with the PTSD since Vietnam and have just started talk to them last December so I have been hanging on and just letting it go for 50 years before I said something. "
+ 
+#### 2. Some eligibility details are unclear and/or may create a barrier to Veterans seeking assistance. 
+
  > "could alienate 90% of the veteran population because they may think that's were just combat guys go. The truth of the tell is that only 10% have had direct combat so the other 90% is just supporting them. "
+ 
+ > " I have no idea. I wouldn’t even be eligible would I? The Vietnam era veterans that had used it prior to January 2013, I doubt that they kept my paper from that short time I went. 
+"
 #### 3. Hearing loss made one Vietnam Veteran choose individual counseling over group and avid user of text over phone. 
 #### 4. One Veteran was confused as to why PTSD was not listed within the services.
 #### 5. Not all VA's promote Vet Centers. One Memphis Client was angry about this: 
