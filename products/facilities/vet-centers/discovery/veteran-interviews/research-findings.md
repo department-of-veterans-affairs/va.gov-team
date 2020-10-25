@@ -177,16 +177,10 @@ In this study 4 of the 5 participants dealing with MST were also dealing with PT
 
 ## Recommendations
 
-#### 1. Services should be illustrated and described in a less clinical manner, mirroring Veteran language [taxonomy research to inform this]. Explore keyword search analytics, SEO, and search improvement opportunities to connect Vet Center services to Veteran needs, e.g. PTSD, MST. 
-#### 2. Detail pages must feel distinct from VA Medical Centers and communicate Vet Centers’ “welcoming environment and hospitable culture”.
-#### 3. Calling the Vet Center should be the primary call to action on any Vet Center page. Give alternative means of contacting a Vet Center and stress the flexible nature scheduling.
-#### 4. Avoid describing official eligibility requirements in favor of a generic, ‘just call, we’ll help’ message. Give Veterans an indication that a bad discharge might not preclude them from receiving help.  
-#### 5. Highlight and describe what “referral services” are in simple language with concrete examples. Explain how this relates to the types of benefit help Veterans are able to expect.
-#### 6. Communicate a Vet Center’s potential reach via Mobile Vet Centers, Community Access Points and Outstations.
-#### 7. Highlight Group Counseling sessions and activities visually with aspiration photos of real Vets doing fun things that don’t look clinical. List accurate examples of affinity groups available at each Vet Center. 
-#### 8. Incorporate staff summary, individual bios and photos.
-#### 9. Create an events listing or calendar tool for Vet Center staff to manage and publicize public events.
-#### 10. Consider a separate page or section dedicated to MST. 
+#### [Opportunities exploration Mural board](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/veteran-interviews/conversation-guide.md)
+
+
+https://app.mural.co/t/vsa8243/m/vsa8243/1603629469594/94d7825c23f0eff800a5271bf396293535ef5de7
 
 
 ## Next Steps
