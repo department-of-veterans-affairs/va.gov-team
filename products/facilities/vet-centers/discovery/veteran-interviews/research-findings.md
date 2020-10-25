@@ -177,10 +177,7 @@ In this study 4 of the 5 participants dealing with MST were also dealing with PT
 
 ## Recommendations
 
-#### [Opportunities exploration Mural board](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/veteran-interviews/conversation-guide.md)
-
-
-https://app.mural.co/t/vsa8243/m/vsa8243/1603629469594/94d7825c23f0eff800a5271bf396293535ef5de7
+#### [Opportunities exploration Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1603629469594/94d7825c23f0eff800a5271bf396293535ef5de7)
 
 
 ## Next Steps
