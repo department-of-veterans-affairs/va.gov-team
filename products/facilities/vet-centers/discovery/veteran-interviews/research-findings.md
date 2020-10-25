@@ -176,11 +176,28 @@ In this study 4 of the 5 participants dealing with MST were also dealing with PT
  
  > " I have no idea. I wouldn’t even be eligible would I? The Vietnam era veterans that had used it prior to January 2013, I doubt that they kept my paper from that short time I went. 
 "
-#### 3. Hearing loss made one Vietnam Veteran choose individual counseling over group and avid user of text over phone. 
-#### 4. One Veteran was confused as to why PTSD was not listed within the services.
+#### 3. Client expressed an awareness of underrepresented populations difficulty getting VA benefits.
+
+ > "It is a tough thing because it depends where and when you service, character discharged, gender identity because some people have gotten bad discharges due to don't ask don't tell or being transgender."
+ 
+ > "One of the biggest groups that were hit by it was the LQB community because of don't ask don't tell. "
+
+> "Also Homeless veterans because an issues people have at VA medical centers you have to go through red tape and if you are homeless the resources at the medical center you may not be eligible for if you didn't go to combat or were in the reserves so vet centers are better for the community resources and are not contingent on service obligations."
+
+#### 4. 3 male clients expressed an awareness of MST as important.
+
+> "Also focusing on MST, I think if there were a subpage for that because it has a whole lot of stigma and the servicemember/veterans suffering from MST. It is one of those things that it is a mind field as where they are and how they are coping with it. I think if there were maybe something that those that are suffering from it they could click on it and get a little more specific information about how a vet center may be able to offer them resources and service along the way."
+
+> "All veterans can benefits [from Vet Centers] but the MST portion of it, I don't know much about it but it is talked about heavily because the MST service is needed and you can come if that happens to you, it is away from the VA and the commands."
+
+> "Yes that is what my vet center offered expect for MST because they didn't have a counselor for that. [wife was in need of this]"
+
 #### 5. Not all VA's promote Vet Centers. One Memphis Client was angry about this: 
 
  > "In all the time I have gotten care at the VA for mental health in the past 16 years I do not recall anyone saying anything about the Vet center. I don't think that is right. The psychiatrists are more into medication and the counselors do not mention it either and I think that is a failure on the VA's part because the groups aren't like the VA groups. They are better in some ways. That's all I have to say about that."
+
+#### 6. One Veteran was confused as to why PTSD was not listed within the services.
+#### 7. Hearing loss made one Vietnam Veteran choose individual counseling over group and avid user of text over phone. 
 
 ## Recommendations
 
