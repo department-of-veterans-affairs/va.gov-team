@@ -33,7 +33,7 @@ In 2017, 38 percent of immigrant veterans reported speaking only English at home
 The remainder spoke a wide range of languages, including:
 1.	Spanish (26%)
 2.	Tagalog (9%)
-3.	Chinese (3 %) and French/Haitian Creole (3%)
+3.	Chinese (3%) and French/Haitian Creole (3%)
 4.	Vietnamese (2%), German (2%), and Korean (2%)
 
 Reference: https://www.migrationpolicy.org/article/immigrant-veterans-united-states-2018#EnglishProficiency
