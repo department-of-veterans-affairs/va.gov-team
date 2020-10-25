@@ -40,7 +40,7 @@
 
 •	**Translation API Basic:** Translates text and includes support for translating HTML and automatic language detection. This is a general purpose, “quick and dirty” way to get localization, but doesn’t do a good job of translating domain-specific language. It doesn't appear to offer much, if any value, beyond Google translate in the user's browser or the Google translate widget (with the exception of being available/supported long-term vs. the widget).
 
-•	**Translation API Advanced:** Adds features, including batch translation (for processing large document sets stored in the cloud), translations with glossaries, and custom-trained machine learning models (AutoML Translation). Within 
+•	**Translation API Advanced:** Adds features, including batch translation (for processing large document sets stored in the cloud), translations with glossaries, and custom-trained machine learning models (AutoML Translation). 
 
 #### AutoML translation model features:
 
