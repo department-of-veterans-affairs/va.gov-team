@@ -1,14 +1,16 @@
-# Google translate widget 
+# Google translate assessment 
 
-## Initial research summary
+## Google translate widget
 
-### Benefits 
+### Initial research summary
+
+#### Benefits 
 
 - The free Google translate widget is available for government sites during the coronavirus pandemic. 
 
 - This approach requires a low level of tech effort, and would be a quick solution to providing COVID-19 content and gathering data.
 
-### Risks & drawbacks 
+#### Risks & drawbacks 
 
 - Given that this widget wasn’t supported in the past, and is being supported again for the COVID-19 pandemic, this will likely not be a long-term solution.
 
@@ -19,3 +21,54 @@
 - The widget quality will not scale to other languages. Reading of the literature available on this topic shows that Spanish is one of the best quality outputs for Google Translate. The translation quality goes down especially for languages such as Chinese. This is an issue in particular because data shows that Chinese is the 2nd most common language spoken by low English proficiency (LEP) U.S. residents (Spanish is #1) and the 3rd most common language other than English that Veterans who are immigrants to the U.S. report speaking at home. Further, our current Coronavirus FAQs page analytics data shows that, while a small audience, users who are changing the language of the page currently are choosing Spanish most often, but Chinese 2nd most often. 
 
 -	The ability to gather accurate usage data may be limited by the on-page nature of the widget. If we don’t have a separate Spanish-language page, the Spanish content won’t appear in search results. If we only provide a translation option on one page with no translation of site navigation, users navigating the site will only know this translated content exists if they’re on this one page. Both of these limit findability and awareness of Spanish-language content.
+
+## Google translate API
+
+### Initial research summary
+
+#### Benefits 
+
+- The Google translate API would allow us to create a glossary to consistently translate our specific terminology. This can include words we do not want translated (such as "Veterans Affairs") as well as ambigious words that we want translated a certain way. This can help solve some of the problems we saw in the Coronavirus FAQs quality assessment. [Read more about the glossary option](https://cloud.google.com/translate/docs/advanced/glossary)
+- If we use the AuotML translation model, we can further train the base model for our domain-specific text.
+
+#### Risks & drawbacks 
+
+- More complex implementation
+- Cost: https://cloud.google.com/translate/pricing
+
+### More information
+
+•	**Translation API Basic:** Translates text and includes support for translating HTML and automatic language detection. This is a general purpose, “quick and dirty” way to get localization, but doesn’t do a good job of translating domain-specific language. It doesn't appear to offer much, if any value, beyond Google translate in the user's browser or the Google translate widget (with the exception of being available/supported long-term vs. the widget).
+
+•	**Translation API Advanced:** Adds features, including batch translation (for processing large document sets stored in the cloud), translations with glossaries, and custom-trained machine learning models (AutoML Translation). Within 
+
+#### AutoML translation model features:
+
+Starts with the general Google Translation API, and adds a layer that specifically helps the model get the right translation for domain-specific content. This allows you to train the system to recognize patterns from translated sentence pairs.
+
+#### How it works:
+
+You supply matching pairs of sentences in the source and target languages (ie, a sentence in English and a sentence in Spanish that hold the same meaning). 
+
+Google splits data into 3 buckets: Train (must have at least 3 sentence pairs), Validate (must have 100 – 10,000 sentence pairs), and Test (must have 100 – 10,000 sentence pairs). Google recommends using at least 500 sentence pair s for each of the 3 buckets, and more if possible to help the model learn patterns and have more data for validating and testing, as well as to help the model generalize to a wider variety of scenarios in your domain.
+
+In doing this, you:
+
+- Try to choose sentence that are 200 words or less.
+- Try to capture the full diversity of semantics you expect to encounter if possible
+- Get text samples from multiple authors and translators to help ensure that the model will work for different authors who will write slightly differently
+- Make sure a person who understands both languages well validates that the sentence pairs match up correctly and represent understandable, accurate translations.
+- Make sure the data set is clean.
+- Import your data as a TSV or TMX file.
+
+Once your model is trained, you receive a summary of its performance. This allows you to debug the data if needed. And it allows you to evaluate those models using a BLEU (BiLingual Evaluation Understudy), a metric for automatically evaluating machine-translated text, as well as manually. It has been shown that BLEU scores correlate well with human judgment of translation quality. You can test specific cases that you worry might adversely impact users if there’s a mistake or if the translation introduces bias.
+
+Next, you create a dataset and import the training sentence pairs into it. You can have multiple datasets.
+
+Next, you use your prepared dataset to create a custom model. AutoML Translation creates a new model each time you start training, so you may have multiple models.
+
+AutoML Translation then uses items from the Validation and Test sets to evaluate the quality and accuracy of the new model. Again, this happens via a BLEU score. And you can also test manually.
+
+If you’re not happy with the quality of the model, you can add more (and more diverse) training sentence pairs and keep training and testing until you get the quality you want. You can also reevaluate existing models using new sets of test data.
+
+
