@@ -164,7 +164,7 @@ In this study 4 of the 5 participants dealing with MST were also dealing with PT
  
  > "Another thing I don't like is the hours of operation, their hours are more broad and they have someone that stays late, if you are working 9-5 then you think this may not work for me because they end at 4:30. It doesn't give you the idea that someone is [available] there until 8pm. Stuff like that, you feel more comfortable calling in if I need a late appointment but this website doesn't indicate that. "
 
-## Other Insights
+## Additional Findings
 
 #### 1. Transitioning into civilian life can be lifelong. One Veteran mentioned waiting 50 years and another 30 years before finally seeking professional help to deal with their military trauma.
 
