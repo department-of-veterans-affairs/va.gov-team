@@ -2,12 +2,12 @@
 name: VFS Orientation Epic
 about: For managing the VSP orientation of VFS teams
 title: Orientation for ______ Team
-labels: product support
+labels: vsp-product-support
 assignees: ''
 
 ---
 
-## Onboarding User Story
+## Orientation User Story
 ______ team going through orientation to work on the VSP, they need support to get up and running. This epic contains the tasks our team will perform to support them through their orientation stage.
 
 ## Goal
@@ -28,5 +28,5 @@ Schedule times to meet with team
 ```
 
 ## How to configure this issue
-- [ ] **Labeled with `Product Support` Team**
+- [ ] **Labeled with `vsp-product-support` Team**
 - [ ] **Orientation is complete and new VFS team is operating in their development workflow**
