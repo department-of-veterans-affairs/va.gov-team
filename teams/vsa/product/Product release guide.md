@@ -22,6 +22,8 @@ It is beneficial to conduct internal QA. This consisf of the team allocating 1 h
 - [ ] Detailed staging user documentation
 - [ ] Update product outline
 - [ ] Update go-to-market strategy/communications plan
+- [ ] UAT plan
+- [ ] UAT converation guide
 
 ### Coordinating with relevant parties regarding important upcoming dates (re-directs, changes to content, changes that affect other teams)
 - [ ] Create issues in Github for changes that will take place, add dates, and tag relevant people/teams (re-directs, content changes, UI changes, etc)
