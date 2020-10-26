@@ -147,7 +147,6 @@ In this study 4 of the 5 participants dealing with MST were also dealing with PT
 
 > "After experiencing and going to the vet center it changed my thought. When I first heard of them it seemed like a place to hangout but due to my experiences, I didn't want to go hangout with a lot of bros and that were hanging out but not getting paid. I was surprised to learn it was more personalized and not so many people."
 
-
 > "For MST, they are going to be particular about the gender of the person, keyed in on how confidential it is. I can envision some that would be comfortable doing it in group but others that would be terrified of group sessions. Maybe spelling it out what resources for MST is available for the vet center and how it is different from the medical center would be useful."
 
 
@@ -155,16 +154,17 @@ In this study 4 of the 5 participants dealing with MST were also dealing with PT
 
 > "I think that would lessen some of the unknowns, for me when I first went in I had very few expectations and was open to it but I didn't know what I was getting into so if I had the opportunity to learn a bit about the staff that were there I would have taken advantage and read it before my first visit. "
 
-> "Maybe one more thing, they could put the counselors name and/or pictures of who are the people that operate that Vet Center, like introducing themselves and telling a little about themselves, so maybe the person will know who they are going to see, what to expect more or less. I look at this but I don't know who I'm going to meet, their experience or what they look like. "
+> "Maybe one more thing, they could put the counselor's name and/or pictures of who are the people that operate that Vet Center, like introducing themselves and telling a little about themselves, so maybe the person will know who they are going to see, what to expect more or less. I look at this but I don't know who I'm going to meet, their experience or what they look like."
 
 #### 9. 3 Clients were surprised to see employment referral as a Vet Center service
-> "That tracks with my understanding but I didn't know they did employment referral and that's what I actually do I work with job seeking veterans."
+
+> [After reviewing the list of services on Vet Center website] "That tracks with my understanding but I didn't know they did employment referral and that's what I actually do I work with job seeking veterans."
 
 #### 10. 2 Clients called out flexibility in scheduling as a benefit that should be highlighted on a website
 
- > " I also know that they have some flexible scheduling and make some appointments available to come in early or later in the day and weekend times but it is on a case by case basis."
+ > "I also know that they have some flexible scheduling and make some appointments available to come in early or later in the day and weekend times but it is on a case by case basis."
  
- > "Another thing I don't like is the hours of operation, their hours are more broad and they have someone that stays late, if you are working 9-5 then you think this may not work for me because they end at 4:30. It doesn't give you the idea that someone is [available] there until 8pm. Stuff like that, you feel more comfortable calling in if I need a late appointment but this website doesn't indicate that. "
+ > "Another thing I don't like is the hours of operation, their hours are more broad and they have someone that stays late, if you are working 9-5 then you think this may not work for me because they end at 4:30. It doesn't give you the idea that someone is [available] there until 8pm. Stuff like that, you feel more comfortable calling in if I need a late appointment but this website doesn't indicate that."
 
 ## Additional Findings
 
