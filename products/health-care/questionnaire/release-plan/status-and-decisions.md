@@ -16,7 +16,8 @@
  - [Sprint Report](https://docs.google.com/document/d/17QuC6QZfhEJ64sjFauDJflgddbBbWYWeozspp51d80M/edit?usp=sharing)
  - Meetings held to investigation into how eScreening tool is passing PGD into CPRS
  - Technical review with Virtual Care Manager
- - [Retro Sprint 32](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/sprint-32.md) 
+ - [Retro Sprint 32](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/sprint-32.md)
+ - Analytics Playbook review and assistance with team KPI planning.
 
 **Research and Design**
 - Finalize and feedback from team on [Questionnaire Worklist preliminary mockups](https://zpl.io/VOOek8j) 
