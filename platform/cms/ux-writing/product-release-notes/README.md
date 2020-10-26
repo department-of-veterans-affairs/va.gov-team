@@ -41,21 +41,29 @@ The CMS team will be putting out regular communications that help both technical
 * 🟥 Use the maroon colored "release notes" label
 * ➕ Add the following AC: 
   - [ ] What day will your work make it to end users? As soon as you know, @ the UX writer in a comment in this issue
-  - [ ] Connect w/ UX writer for a very short (10 min or less) release notes interview about your work 
+  - [ ] Be prepared to connect w/ UX writer for a very short (10 min or less) release notes interview about your work 
 
 **👀 More details:**
-* 🧹 Best done right when the ticket is created, such as in planning or grooming
-* 📎 Product manager and UX writer (Kevin + Rachel) will review flagged items weekly
-* 💎 UX writer may follow up for details after item is demoed
-* ⛵️ Release notes are posted in [#cms-support](https://dsva.slack.com/channels/cms-support)
+* 🧹 It's best to identify release note items when the ticket is created, such as in planning or refinement
+* 📎 Product manager and UX writer (Kevin/Oksana + Rachel) will review flagged items weekly
+* ⛵️ Release notes are posted in two channels: [#cms-support](https://dsva.slack.com/channels/cms-support) and in the [Announcements and Release notes page](https://prod.cms.va.gov/help/support/release-notes) in the CMS
+* 📝 The person responsible for drafting release note content defaults to the UX writer, but may be reassigned to another team member if the UX writer isn't available. 
 
 ## Editorial process
 
-1. Team and product manager identifies items for release notes during grooming and demo by adding the maroon “release notes” label to tickets
-2. UX writer tracks the status of individual release note items in the Editorial calendar
-3. UX writer + product manager meet weekly to verify the status of release note items
-4. Draft the release note in the [AT release note log](https://airtable.com/tblulo3XrMLuh4N0l/viwL2poNtFAZMeS6Z?blocks=hide)
-5. Ask the person who did the work to review their item by adding the text to their ticket and @ing them.
-6. Review entire release note with product manager and get approval
-7. Migrate content into markdown file in va.gov-cms/product-release-notes using a correct naming convention
-8. Post in Slack: @here in [#cms-support](https://dsva.slack.com/channels/cms-support)
+1. **Identify release note items** (*during planning*)
+- [ ] Team and product manager identifies items for release notes by adding the maroon “release notes” label to issues. 
+
+2. **Refine release note items** (*at the start of sprint*)
+- [ ] UX writer tracks the status of individual release note items in the Editorial calendar. 
+- [ ] UX writer + product manager meet weekly (or check in in Slack) to verify the status of release note items
+- [ ] PM/UX writer assigns each release note a writer. Usually this is the UX writer.
+
+4. **Draft** (*1-2 days before release*)
+- [ ] If you're new to writing release notes, review this guide (TK)
+- [ ] Use this template to draft the release note content in the [AT release note log](https://airtable.com/tblulo3XrMLuh4N0l/viwL2poNtFAZMeS6Z?blocks=hide). 
+- [ ] Post the drafted release note in #cms-team. Tag the product manager and teammate who worked on it. Work out any clarifications/edits in the thread, and then get 👍🏻 from PM.
+
+8. **Publish** (*directly after release, ~ 3:30/4:00 ET*)
+- Post in #cms-support Slack using this template (TK)
+- Post in the Announcements and Release Notes page using this template (TK)
