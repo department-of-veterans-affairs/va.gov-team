@@ -40,7 +40,7 @@ Start off by introducing your team and VSP to your new work initiative. Discuss 
   - Any other stakeholders you want to invite
 - If VFS team is part of VSA contract, also include as optional: Accessibility (Jennifer), QA (Tze), Design (Shawna), Product (Mickin)
 - VSP brings (all optional): 
-  - Design (Crystabel & Emily)
+  - Design (Allison & Emily)
   - Accessibility (Trevor)
   - Content (Peggy)
   - Information architecture (Mikki)
@@ -75,7 +75,7 @@ Present a draft of your ideas to VSP and other expert designers. Learn about exi
 ## Collaboration format: 30-minute meeting
 
 ### Request Process
-**VFS Designer or Product Manager** initiates scheduling by submitting ZenHub issue — use `Design Intent Collaboration` template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=shiragoodman%2C+crystabelreiter%2C+emilywaggoner&labels=vsp-product-support%2C+collaboration-cycle%2C+collab-cycle-review&template=design-intent-collaboration.md&title=Design+intent+Collaboration+%5BTeam+Name+-+Feature-Name%5D) to open a ticket)_. VSP will schedule the meeting. 
+**VFS Designer or Product Manager** initiates scheduling by submitting ZenHub issue — use `Design Intent Collaboration` template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=shiragoodman%2C+allison0034%2C+emilywaggoner&labels=vsp-product-support%2C+collaboration-cycle%2C+collab-cycle-review&template=design-intent-collaboration.md&title=Design+intent+Collaboration+%5BTeam+Name+-+Feature+Name%5D) to open a ticket)_. VSP will schedule the meeting. 
 
 ### Meeting attendees
 - VFS brings: 
@@ -84,7 +84,7 @@ Present a draft of your ideas to VSP and other expert designers. Learn about exi
   - DEPO design lead (required as applicable)
 - If VFS team is part of VSA contract, also include as optional: Accessibility (Jennifer), Design (Shawna)
 - Design experts bring: 
-  - VSP designers (Emily and/or Crystabel) - required
+  - VSP designers (Emily and/or Allison) - required
   - Accessibility (Trevor) - required
   - VSP’s DEPO co-leads (Rachael, Kevin & Dror) - Optional
 
@@ -142,7 +142,7 @@ VSP brings:
   - Anyone else from your team who significantly contributed to the artifacts provided (required)
 - If VFS team is part of VSA contract, also include as optional: Accessibility (Jennifer), Design (Shawna), QA (Tze)
 - VSP brings: 
-  - Design (Crystabel & Emily) - required
+  - Design (Allison & Emily) - required
   - Accessibility (Trevor) - required
   - Content (Peggy) - required
   - Information architecture (Mikki) - required
@@ -344,7 +344,7 @@ VSP brings:
   - Anyone else from your team who significantly contributed to the artifacts provided (required)
 - If VFS team is part of VSA contract, also include as optional: Accessibility (Jennifer), Design (Shawna), QA (Tze)
 - VSP brings: 
-  - Design (Crystabel & Emily) - required
+  - Design (Allison & Emily) - required
   - Accessibility (Trevor) - required
   - Content (Peggy) - required
   - QA (Peter) - required
