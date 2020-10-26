@@ -147,7 +147,7 @@ The current plan is to run forms library unit tests each time the forms library 
 
 ### Work Estimates
 
-Note: These estimates do not account for extensive support requests
+Note: These estimates do not account for time spent on other team duties such as support requests.
 
 #### Preparation
 
