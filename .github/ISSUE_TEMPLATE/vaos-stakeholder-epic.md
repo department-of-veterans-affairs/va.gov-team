@@ -36,6 +36,8 @@ _Add any supporting qualitative or quantitative data to support this need/opport
 
 ---
 # Next iteration of Epic after initial Stakeholder input:
+## Create & link to Product Outline (if applicable)
+- _You can find the outline template [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)_
 
 ## Definition of done
 ### What must be true in order for you to consider this epic complete? 
