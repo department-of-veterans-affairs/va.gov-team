@@ -1,16 +1,16 @@
 ---
 name: Design Intent Collaboration
 about: Request to Schedule a Design intent Collaboration
-title: Design intent Collaboration [Team Name - Feature-Name]
+title: Design intent Collaboration [Team Name - Feature Name]
 labels: vsp-product-support, collaboration-cycle, collab-cycle-review
-assignees: shiragoodman, crystabelreiter, emilywaggoner
+assignees: shiragoodman, allison0034, emilywaggoner
 
 ---
 
 ## Steps to complete Design Intent Collaboration
 - [ ] Product Manager or Designer: create this issue and fill in team name and feature name in the title and other bolded information appropriately
-- [ ] Link to this issue once created in #design in Slack; tag @ Crystabel Reiter @ Emily
-- [ ] Crystabel and Emily to schedule meeting with VSP reviewers and **requesting team** attendees (as listed below)
+- [ ] Link to this issue once created in #design in Slack; tag @ Allison Christman & @ Emily Waggoner
+- [ ] Allison and Emily to schedule meeting with VSP reviewers and **requesting team** attendees (as listed below)
 - [ ] At least 2 days before scheduled meeting, you must provide list of artifacts below
 - [ ] Design Intent collaboration meeting completed 
 - [ ] [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/u/1/d/1d219oL1zCvCvnv1Bx-dI-GMzwgbarLv9_bzMSa3ULjA/edit#gid=1341642809) is updated
