@@ -2,8 +2,8 @@
 name: VAOS Stakeholder Epic
 about: For VAOS stakeholders to provide input into product roadmap
 title: VAOS Stakeholder Epic
-labels: vaos, roadmapOCC, VAMF, discovery,
-assignees: ''
+labels: vaos, roadmapVAOSR
+assignees: '@laurenernest @lenaecb'
 projects: VAOS-R Roadmap
 
 ---
@@ -23,7 +23,7 @@ _Measurable benefit in addressing the request / problem / opportunity_
 _What outcome(s) do we want to see?_ 
 
 ## Supporting data we should consider (feedback, analytics)
-_Add any supporting qualitative or quantitative data to support this need/opporunity_
+_Add any supporting qualitative or quantitative data to support this need/opportunity_
 
 ## Stakeholder AC Checklist:
 - [ ] Does this ask make it easier for a Veteran to schedule an appointment regardless of which electronic health record their facility or provider uses? 
@@ -53,5 +53,5 @@ _Link to Additional Implementation artifacts- requirements based on policy, data
 ```
 
 ## How to configure this issue
-- [ ] **Labeled with `roadmapOCC` and `VAMF` and `vaos`**
+- [ ] **Labeled with `roadmapVAOSR` and `vaos`**
 - [ ] **Add Epic to VAOS-R Roadmap Project in Github - must do this in GH, not Zenhub**
