@@ -1,9 +1,9 @@
-# DEPO Platform Product Evaluatino Board.md
+# DEPO Platform Product Evaluation Process
 https://github.com/department-of-veterans-affairs/va.gov-team/projects/21
 
 ## Purpose
 
-The DEPO Platform has a large mission and thus has lots of opportunities of things to work on. And we often get ideas from customers and platform team members for new ideas or enhancements that would add value. The purpose of the product evaluation process is to leverage a concrete set of criteria to determine the objective value of these ideas as they come in, which then informs prioritization and roadmapping, and helps us report out Platform goings on to stakeholders.
+The DEPO Platform has a large mission and thus has lots of opportunities of things to work on. And we often get ideas from customers and platform team members for new ideas or enhancements that would add value. The purpose of the product evaluation process is to leverage a [concrete set of criteria](https://docs.google.com/spreadsheets/d/1W5FVsMDI7gTxVkoFmJXZaLRGd8mmyJDXXejeBmscKo0/edit#gid=1904403801) to determine the objective value of these ideas as they come in, which then informs prioritization and roadmapping, and helps us report out Platform goings on to stakeholders.
 
 
 ## Structure
