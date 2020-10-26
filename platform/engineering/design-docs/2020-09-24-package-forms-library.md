@@ -44,14 +44,11 @@ The forms library is meant to be a library that is used _by_ applications. Havin
 
 [This definition file](https://github.com/department-of-veterans-affairs/vets-website/blob/720a867817f5b83bd1d713bd51202863b41739b1/src/platform/forms/definitions/nonMilitaryJobs.js#L1) in the forms library imports some app code, yet the file itself is _only_ used in other app code.
 
-There is a [helper file](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4a3172edc242bf60c93aec5b170c734dc57985/src/applications/personalization/dashboard/helpers.jsx) in `src/applications/personalization` which exports a number of consts which are used in the following files within the forms library:
-
-(This will be resolved in `vets-website` [PR #14468](https://github.com/department-of-veterans-affairs/vets-website/pull/14468).
+There is a [helper file](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4a3172edc242bf60c93aec5b170c734dc57985/src/applications/personalization/dashboard/helpers.jsx) in `src/applications/personalization` which exports a number of consts which are used in the following file within the forms library:
 
 - [`ApplicationStatus.jsx`](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4a3172edc242bf60c93aec5b170c734dc57985/src/platform/forms/save-in-progress/ApplicationStatus.jsx#L6-L10)
-- [`SaveInProgressIntro.jsx`](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4a3172edc242bf60c93aec5b170c734dc57985/src/platform/forms/save-in-progress/SaveInProgressIntro.jsx#L12-L15)
-- [`FormSaved.jsx`](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4a3172edc242bf60c93aec5b170c734dc57985/src/platform/forms/save-in-progress/FormSaved.jsx#L10)
-- [`AuthorizationComponent.jsx`](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4a3172edc242bf60c93aec5b170c734dc57985/src/platform/forms/components/AuthorizationComponent.jsx#L12)
+
+(The `vets-website` [PR #14468](https://github.com/department-of-veterans-affairs/vets-website/pull/14468) made some progress here, but `ApplicationStatus` presented some additional complexities.
 
 Finally, there are some testing helpers that live in the `src/applications/hca` directory and are used in forms library tests:
 
@@ -117,7 +114,14 @@ We have an ESLint rule (`import/no-unresolved-modules`) in place which can verif
 Additionally, many of the end-to-end tests will fail if the forms library is not imported properly, so they will help with awareness.
 
 We don't have any automation in place to validate that the right SASS files are imported (other than webpack failing to resolve the file), so testing that forms styling is working properly will be a manual process using the browser dev tools.
-Visual Regression Testing would help automate this process if it were in place.
+This manual testing is low risk and will involve:
+
+- Identifying an HTML node that uses a CSS class defined in the forms library
+- Building & running the site
+- Navigating to the page where the specific HTML node is used
+- Inspecting the element
+- Ensuring that the forms library class is applying the expected styles
+
 ### Logging
 
 N/A
@@ -158,13 +162,16 @@ Note: These estimates do not account for time spent on other team duties such as
 
 #### Beginning the bundling
 
+This work should all be done together in one PR, so that the changed location of files won't cause any errors.
+
 **Estimate:** ~ 4 days
 
-1. Copy what remains from `forms` into `forms-system`
+1. Copy what remains from `forms` into `forms-system`, removing any duplicate files
 1. Create `platform/packages/forms-library` and move the contents of `platform/forms-system` into it
 1. Add a `package.json` file to the new `forms-library` package directory
     - Any dependencies that are exclusively used by the forms library will go in here, and a `yarn install` from the `vets-website` root will install them.
     - Shared dependencies (like `react` and `react-redux`) will be configured to be [peer dependencies](https://flaviocopes.com/npm-peer-dependencies/)
+1. Add this new package as a dependency in the `vets-website` package.json file
 1. [Add a temporary alias to the `.babelrc` file](https://github.com/department-of-veterans-affairs/vets-website/blob/055d96c54e1df54138b9efc589b98e55962333b3/.babelrc#L50-L55) that redirects imports from `platform/forms` and `platform/forms-system` to the new package
 1. Edit the webpack config & use a custom `sass-loader` importer to _temporarily_ rewrite imports from `forms` to `forms-system`
     - This will prevent webpack from failing when it can't resolve the `.scss` files
@@ -194,8 +201,10 @@ The [Platform Entanglement](#platform-entanglement) section mentions that forms 
 
 This is separate from updating the imports. We want the forms library not to depend on the "global" webpack & mocha configuration for `vets-website`, so we will add appropriate config files so that it can be built and tested as a standalone package.
 
+- New webpack & mocha configuration files for the forms library
 - CircleCI config to run forms library unit test on forms library changes
-- `vets-website` changes to config/scripts to prevent the forms library from getting build & tested as part of each PR
+- `vets-website` changes to webpack & mocha config/scripts to prevent the forms library from getting built & tested as part of each PR
+- Add an `.eslintrc` file to the new forms library package and configure `no-restricted-imports` to block imports from application code and platform code.
 
 
 #### Final touches (updating app code)
@@ -204,7 +213,6 @@ By this point, the package will already exist, but due to some babel and webpack
 
 - Update app code to use forms library JS & SCSS from the package instead of by direct path. This will help to establish the boundaries of the package for VFS teams.
 - Configure the `no-restricted-imports` ESLint rule to [restrict imports of `src/platform/packages` directly](https://eslint.org/docs/rules/no-restricted-imports)
-- Add an `.eslintrc` file to the new forms library package and configure `no-restricted-imports` to block imports from application code and platform code.
 - Remove the `.babelrc` forms-library alias & custom SASS importer
 
 Once app teams approve these PRs that we create, we will be able to remove those temporary configs and add an ESLint rule to prevent direct imports from `platform/packages/forms-library` in order to make sure that the forms library is treated like a package moving forward.
