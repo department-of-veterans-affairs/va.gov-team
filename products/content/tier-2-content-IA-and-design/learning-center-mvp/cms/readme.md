@@ -9,6 +9,7 @@
 
 ### Agenda
 
+1. Review launch support protocol and define severity levels for pre-launch issues [3055](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3055)
 1. Review [backlog](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1975)
 1. anything else
 
