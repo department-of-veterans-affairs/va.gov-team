@@ -190,7 +190,7 @@ In this study 4 of the 5 participants dealing with MST were also dealing with PT
 
 > "All veterans can benefits [from Vet Centers] but the MST portion of it, I don't know much about it but it is talked about heavily because the MST service is needed and you can come if that happens to you, it is away from the VA and the commands."
 
-> "Yes that is what my vet center offered expect for MST because they didn't have a counselor for that. [wife was in need of this]"
+> "Yes that is what my vet center offered except for MST because they didn't have a counselor for that. [wife was in need of this]"
 
 #### 5. Not all VA's promote Vet Centers. One Memphis Client was angry about this: 
 
