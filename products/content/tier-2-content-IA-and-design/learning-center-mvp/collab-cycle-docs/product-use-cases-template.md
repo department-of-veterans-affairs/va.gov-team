@@ -29,7 +29,7 @@ Link to product outline: [Resources and support (formerly called learning center
   - [Mural mockups](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1588167553516/2773c854e8ff3a725a5e3ee03272b78e8519f78b?wid=0-1602122053838) - see 1.0 section for beta launch mockups
 
 * **Instructions to access in demo environment (for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - http://learningcenter.demo.ci.cms.va.gov/
+  - ~http://learningcenter.demo.ci.cms.va.gov/~  http://learningcenter.web.demo.ci.cms.va.gov/
   - the URL for the LC homepage will be va.gov/resources/   {updated 10/21 with final IA recommendation}
 
 ## Use Case B
@@ -90,7 +90,7 @@ Templates
 - some templates pull certain fields, whereas others don't
 
 
-**Multiple FAQs article template content fields:**
+**Multiple FAQs article template content fields:** 
 
 - Required: H1 – new H1 limit for LC pages – 70 max characters including spaces
 
@@ -104,7 +104,7 @@ Templates
 
 - Optional: H2 section  header - H2s (and other headings) should be hard limited to 70     characters max including spaces
 
-- Required: List of question and  answers – can be in accordions or not. See [Required:      Body - content type template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#specific-lc-content-template-types) for  details.
+- Required: List of question and  answers – can be in accordions or not. See [Required: Body - content type template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#specific-lc-content-template-types) for  details.
 
 - - Each answer block can also include  an alert component below the answer block.
   - No images, videos, tables,  subway maps, number callouts, etc. are enabled for FAQs.
@@ -114,7 +114,7 @@ Templates
 
 - Required: At least 1 tag.  [See doc for list of 1.0 tags[(https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/mvp-phases-to-launch#designs)
 
-- Required component:  Article rating - "How do you rate your experience on this page?" (Component is required – user response  is NOT)
+- STETCH FOR 1.0 - WE MAY NOT LAUNCH WITH: Required component:  Article rating - "How do you rate your experience on this page?" (Component is required – user response  is NOT)
 
 - Required: [Related information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#related-information-section) - freeform list of links and text
 
@@ -122,7 +122,7 @@ Templates
 
 - Required: [Need more help?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#need-more-help-section) - This section includes contact info based   on a pre-set list of options
 
-- Back to top links: dynamic based on page height.
+- STETCH FOR 1.0 - WE MAY NOT LAUNCH WITH: Back to top links: dynamic based on page height.
 
 **Question and Answer article template (aka “single Q&A”)**
 
@@ -159,12 +159,18 @@ Templates
   - Steps can be chunked up in  multiple subway map groupings (eg., Part 1 steps; then Part 2 steps)
 
 - Optional: Repeat same CTA  button(s) 
+
 - Required: At least 1 tag.  [See doc for list of 1.0 tags](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/mvp-phases-to-launch#designs)
-- Required component:  Article rating - "How do you rate your experience on this page?" (Component is required – user response is NOT required)
+
+- STETCH FOR 1.0 - WE MAY NOT LAUNCH WITH: Required component:  Article rating - "How do you rate your experience on this page?" (Component is required – user response is NOT required)
+
 - Required: [Related information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#related-information-section) - freeform list of links and text
+
 - Required: [VA benefits section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#va-benefits-section)
+
 - Required: [Need more help?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#need-more-help-section) - This section includes contact info based on a pre-set list of options
-- Back to top links: dynamic  based on page height.
+
+- STETCH FOR 1.0 - WE MAY NOT LAUNCH WITH: Back to top links: dynamic  based on page height.
 
  
 
@@ -193,7 +199,7 @@ Templates
 
 - Required: At least 1 tag.   [See doc for list of 1.0 tags](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/mvp-phases-to-launch#designs)
 
-- Required component:  Article rating - "How do you rate  your experience on this page?" (Component is required – user response is NOT)
+- STETCH FOR 1.0 - WE MAY NOT LAUNCH WITH: Required component:  Article rating - "How do you rate  your experience on this page?" (Component is required – user response is NOT)
 
 - Required: [Related information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#related-information-section) - freeform list of links and text
 
@@ -201,7 +207,7 @@ Templates
 
 - Required: [Need more help?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#need-more-help-section) - This section includes contact info based  on a pre-set list of options
 
-- Back to top links: dynamic based on page height.
+- STETCH FOR 1.0 - WE MAY NOT LAUNCH WITH: Back to top links: dynamic based on page height.
 
  
 
