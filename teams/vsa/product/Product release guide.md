@@ -1,7 +1,7 @@
 # Product Release Guide 
 How do we ensure a smooth and successful launch?
 
-## Steps can be taken prior to release to ensure a smoothe and successful launch.
+## Pre-Launch
 In the "Build" phase of the VSP cycle, prior to the Staging review:
 
 ### Internal QA Session
