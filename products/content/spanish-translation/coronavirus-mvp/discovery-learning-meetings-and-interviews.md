@@ -1,9 +1,11 @@
 # Localization discovery: Meetings and interviews
 
 [MedlinePlus en español](#medline)
+[Designing for translation: A Digital.gov multilingual and content web managers community meeting](#designing) 
 
 ### MedlinePlus en español
 Met with head of Medline Plus and lead for bilingual content
+(_notes not verbatim_) 
 
 - Have a Language Access Committee.
 
@@ -35,6 +37,7 @@ Met with head of Medline Plus and lead for bilingual content
 ## Designing for translation: A Digital.gov multilingual and content web managers community meeting 
 
 ### Design guidance
+(_notes not verbatim_) 
 
 - Take a comprehensive approach to language. Who needs to know this information? Would non-English speaking groups benefit from it? If yes, what languages are needed? Plan your content with these answers in mind.
 - Design with the differences in languages in mind: 
@@ -48,8 +51,34 @@ Met with head of Medline Plus and lead for bilingual content
 - Layout and imagery:
   - Allow space for the text to fit in the layout. Consider designing for longer languages first. (Consider this for buttons, H1s, etc!)
   -	Take into account the direction of the text.
--	Use international symbols. 
--	For images – think about culture. Do they convey the same meaning in different cultures?
--	Beware of automatic hyphenation 
+  -	Use international symbols. 
+  - For images – think about culture. Do they convey the same meaning in different cultures?
+  -	Beware of automatic hyphenation 
+- Q. What is meaningful access under the law? A. This varies with each person's and agency's interpretation. Generally, check the agency's Office of Civil Rights intepretation.
+- Q. If not all content is translated, what’s the best practice for menus? Should we translate the menu text even if it’s linking to a non-translated page? A. Yes, so people can navigate.
+- Q. We’re not able to translate all material. Should we create a language page? A. When you have just portions of your website that will be in other languages, that brings up a different issue. YOu're always going to have in English page, you’re going to have portions of pages translated. Give those portions a url even if all of the comment elements are still in English.
+  - Comment from attendee who manages content for IRS.gov: We use Drupal's multilingual module and it allows multilingual children if needed. The user can select to be in one of the language channels and it will automatically populate a banner on an English-only page that says "This page is not available in Spanish." We really like the experience; came from open text. It's very easy and simple to create a translation for any given page. We've done some usability testing.
+- Q. We don't use machine translation because it's not always accurate. How do you use that?
+  - A. IRS attendee: We don’t use machine translation at all. We have translation services that we use. Drupal multilingual is just like any other content updating – we go in and make the changes.
+  - A. Presenter: We really recommend not using Google translate. I want to be very clear because there’s a lot of machine translation that is done well, but nothing can published without editing. It’s gotten a lot better, but it must be edited. Check that it’s in your voice. We really discourage a Google translate button. 
+  - Q. Are machine translations ever a good idea for the interim?
+  - A. Presenter: No. You’re responsible for offering information that may be completely inaccurate. I mean, we’re the government.
+  - A. Another attendee: Auto translation is not a good idea. Not just because it’s bad…Spanish speakers will notice that you didn’t put any effort into it. You lose a lot of credibility when you use an automatic translation and people notice.
+  - A. Presenter: Also the URL, you will get different translations.
+  - Q. How do you educate your leadership about this?
+  - A. Presenter: That's the million dollar question. It goes to relationships and education.
+  - Q. But when is perfect the enemy of good? What are the tipping points for different agencies, priorities, and budgets? Machine translation has 90% or higher accuracy. The language is stilted, yes, but there's a difference between stilted language and inaccurate language.
+  - A. Presenter: In the case of the pandemic, you don't want to add to the disinformation and misinformation that's already out there. It's an individual decision for each agency.  
+  - Q. Do we have a way of coming up with criteria for "when it hits this mark, it's good enough"?
+  - A. Presenter: Not at this time. Someone could undertake that as a study.
+- Q. What kind of testing do you do to see if the chosen tone or language is working?
+- A. Right now, almost no testing.
+- Q. How do you balance the cost of translation with so many languages?
+- A. Go with your population or with what the Census tells you. Do a cut off.
+- Attendee tip: We use Clay Tablet to send our translations to the vendor. This takes a huge amount of the day-to-day CMS work largely out of the equation in terms of the work required by the web team to manage translations. Also, our translation vendor provides us with several rush options that are helpful in emergencies.
+- Attendee tip: Cistran out-of-the-box is a lot better, but it's a heavy lift of a product. In an emergency if you don't have an editor, you can put it up.
+- Attendee tip: Check out HHS.gov Language Plan of Access.
+
+  
 
 
