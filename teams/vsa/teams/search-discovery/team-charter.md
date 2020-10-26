@@ -89,7 +89,6 @@
 
 * vsa
 * vsa-search
-* vsa-public-websites-intake
 * frontend
 * content
 * needs-grooming
@@ -101,40 +100,20 @@
 * un-planned
 
 Milestones are set up as:
-* Search Sprint xx
+* Search+Discovery Sprint xx
 
 ---
 ### **Workflow + Cadence**
 
-**Stand-up**
+|**Ceremonies**         |**When**         |**Duration**                   | **Where**        |**Agenda/Focus** |
+|-----------------------|------------------------------|------|------------------|-----------------|
+|*Stand-Up*               |Daily @ 11:00am ET |30 mins         |[Zoom meeting](https://zoom.us/j/3399042357)| 3 Question Format: What I did yesterday? What will I do today? Any impediments?|
+|*Sprint Planning*        |1st Wednesday of every sprint  @ 1:00pm ET|1.5 hrs| [Zoom meeting](https://zoom.us/j/3399042357)|Outline team and member focus, goals for sprint.
+|*Retro*                  |Last Tuesday of every sprint @ 2pm ET | 30 mins|[Zoom meeting](https://zoom.us/j/3399042357)| Review accomplishments, ways to improve from prior sprint. Questions to Go Over: What went well? Areas for improvement? What to start doing?|
+|*Grooming* | 2nd Wednesday of every sprint, @ 1:00 ET|1 hour |[Zoom meeting](https://zoom.us/j/3399042357)|Assess and update workload for remainder of sprint|
 
-M,W,Th,Fri on a [zoom meeting](https://us02web.zoom.us/j/95694473204) @ 11:30am ET/ 10:30am CT/ 9:30am MT/ 8:30am PT 
-* Tues on Slack
-* 30 min total
 
-3 Question Format: What I did yesterday? What will I do today? Any impediments?
-
-**Sprint Planning**
-
-Outline team and member focus, goals for sprint
-* 1st Wednesday of every sprint @ 1:00pm ET/ 12:00pm CT/ 11:00am MT/ 10:00am PT
-* On a [zoom meeting](https://us02web.zoom.us/j/98086497393)
-* 1.5 hours
-
-**Retro**
-
-Review accomplishments, ways to improve from prior sprint: [Funretro] (https://funretro.io/dashboard)
-* Last Wednesday of every sprint @ 11:30am ET/ 10:30am CT/ 9:30am MT/ 8:30am PT
-* On a [zoom meeting](https://us02web.zoom.us/j/99104113238)
-
-Questions to Go Over: What went well? Areas for improvement? What to start doing?
-
-**Grooming** 
-
-Assess and update workload for remainder of sprint
-* 2nd Wednesday of every sprint, 1-hour
-* On a [zoom meeting](https://us02web.zoom.us/j/93282204164)
-
+---
 #### Issue Etiquette
 **For Requests originating outside the Search team** - please use our [Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=lunascoop&labels=vsa-public-websites%2C+vsa%2C+vsa-public-websites-intake%2C+needs-grooming%2C+Epic&template=public-websites-intake.md&title=%3CType+of+Request%3E+from+%3CTeam%3E)
 
