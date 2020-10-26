@@ -5,6 +5,8 @@
 
 ---
 
+`Revisions relating to CH31 will be logged here pending a dedicated punchlist`
+
 Revisions to text, formatting, features and design based on:
 - [CH36 Content review](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12440)
 - [CH31 Usability prep feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14847)
