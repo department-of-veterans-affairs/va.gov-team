@@ -205,6 +205,22 @@ In this study 4 of the 5 participants dealing with MST were also dealing with PT
 
 #### [Opportunities exploration Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1603629469594/94d7825c23f0eff800a5271bf396293535ef5de7)
 
+1. Explore keyword search analytics, SEO, and search improvement opportunities to connect VC services
+to Vet needs, eg PTSD, MST [Language analysis to inform this]
+2. Improve findability of Vet Center locations from Google
+3. Stress 100% confidential
+4. Leverage by Veterans for Veterans mission statement on website
+5. Mirror Vet language in content writing [Language analysis to inform this]
+6. Give concrete examples of the types of benefit & employment help Veterans can expect
+7. Communicate Vet Centers’ intimate, casual, non-intimidating environment on website
+8. Highlight client testimonial on website
+9. List accurate examples of affinity groups available at each Vet Center
+10. Give MST a dedicated section or page with tailored information and imagery
+11. Highlight flexibility in scheduling
+12. List key personnel with a brief background on website
+13. Simplify and clarify eligibility with an emphasis on "just call, we'll help"
+14. Highlight Vet Center's inclusivity and broad ability to help Vets in need
+
 
 ## Next Steps
 
