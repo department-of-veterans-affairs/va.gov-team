@@ -92,7 +92,7 @@ How clients view Vet Centers:
 
 #### 3. 7 of 8 Clients expressed being “separate from VA” as a key benefit of Vet Centers
 This sentiment was expressed most often when asked “What is the most important thing for someone to know before visiting a Vet Center for the first time?” or when asked to compare a Vet Center with other VA facilities.
-What does “separate from VA” mean to a Veteran:
+What “separate from VA” means to a Veteran:
 
  - **Confidentiality** - 5 of 8 Clients interviewed expressed the importance of privacy and confidentiality that Vet Centers provide. Veterans felt confident that counseling would remain “off the record” and could not be used against them. Privacy and confidentiality needs were expressed by 100% of the female participants in this study. 
  
@@ -113,10 +113,10 @@ Clients felt Vet Center staff and counselors do a good job of asking questions a
 
 > "I think the folks at the vet center have worked in units or with veterans in general they are good at removing the fear and understanding where they are coming from and their thoughts. They are able to evaluate the fears for the veterans."
 
-> "I am not really a group person because I don't really like people... but I have found the women's group to be surprising, wonderful and I can go and not feel judged or that it is too much. I am still a skeptic of group and not a big fan of it. Since my therapist forced me to go it is a pretty good thing, even though I won't tell her that."
+> "I am not really a group person because I don't really like people... but I have found the women's group to be surprisingly wonderful and I can go and not feel judged or that it is too much. I am still a skeptic of group and not a big fan of it. Since my therapist forced me to go it is a pretty good thing, even though I won't tell her that."
 
 #### 5. Clients value the Veteran to Veteran approach to counseling, outreach and staffing of Vet Centers.
-Shared military experiences helps to creates a sense of belonging and similtude among clients, especially those that engaged in group counseling. Sharing of their own personal experiences was the way most clients said that they would approach describing a Vet Center to friend who might benefit from contacting a Vet Center or to make them comfortable visiting. 
+Shared military experiences helps to creates a sense of belonging and similitude among clients, especially those that engaged in group counseling. Sharing of their own personal experiences was the way most clients said that they would approach describing a Vet Center to friend who might benefit from contacting a Vet Center or to make them comfortable visiting. 
 
 > "The vet center is where I felt like I belonged and not alone in what I was feeling. I am from a nonmilitary family so I came home feeling screwed up. Knowing that someone else has gone through it and has been there. I put myself out there so they know they aren't alone. The biggest thing is the stigma with mental health, you're not weak for asking for help. "
 
@@ -134,9 +134,9 @@ Many participants faced administrative challenges when dealing with VA benefits 
 
 > "Most veterans need help with claims so if they help with va claims and appeals you need to say that and it be prominent. They are not VSO's like people that help with claims so if they are you need to spell that out."
 
-> "They did help me, I just had eligibility issues so they helped to provide records of my PTSD to further show that I deserve the care at the VA which is frustration that you need to prove and then do everything expept give up your first born."
+> "They did help me, I just had eligibility issues so they helped to provide records of my PTSD to further show that I deserve the care at the VA which is frustration that you need to prove and then do everything except give up your first born."
 
-> "they can access a liaison at the VA if needed. If you call and ask to talk to a counselor it's like jumping through 1000 loops and the vet center can break those barriers and if you need to go to the va the Vet center can work as a liaison for you."
+> "they can access a liaison at the VA if needed. If you call and ask to talk to a counselor it's like jumping through 1000 hoops and the vet center can break those barriers and if you need to go to the VA the Vet center can work as a liaison for you."
 
 #### 7. Military culture can be especially difficult for clients dealing with MST
 In this study 4 of the 5 participants dealing with MST were also dealing with PTSD. In this study all MST participants were women and while the majority of these Veterans were satisfied with their care, they shared similar accounts of having to endure "military culture" which makes their situation extra challenging. Making this demographic feel comfortable is important to understand.
