@@ -155,8 +155,9 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open Issues**
   
-- [CMS [COGNITION]: Multiple ambiguities with linked text in content block - #3556](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3556)<br/>
-**Production** | **Opened:** November 19, 2019 | **Severity:** 508-defect-2 - **_Serious_*
+- [CMS [COGNITION]: Multiple ambiguities with linked text in content block - #3556](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3556)<br/>**Production** | **Opened:** November 19, 2019 | **Severity:** 508-defect-2 - **_Serious_*
+- [sitewide, CMS - 508-defect-2 [FOCUS MGMT]: Ensure focus moves when same page links are activated (IE11) - #15244](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15244)<br/>
+**Production** | **Opened:** October 23, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER]: Legends must be first child element of fieldesets for tabbing navigation - #767](https://github.com/department-of-veterans-affairs/va.gov-team/issues/767)<br/>
 **Production** | **Opened:** July 31, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER]: JAWS does not announce some sections of the multi-step forms when loaded - #317](https://github.com/department-of-veterans-affairs/va.gov-team/issues/317)<br/>
