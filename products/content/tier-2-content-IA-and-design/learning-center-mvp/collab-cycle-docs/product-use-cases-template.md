@@ -43,7 +43,7 @@ Link to product outline: [Resources and support (formerly called learning center
   - Mural board: [search - user query with no results](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1588167553516/2773c854e8ff3a725a5e3ee03272b78e8519f78b?wid=0-1602257201953)
 
 * **Instructions to access in demo environment (for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - http://learningcenter.demo.ci.cms.va.gov/
+  - http://learningcenter.web.demo.ci.cms.va.gov/
 
 
 ## Use Case C
@@ -91,6 +91,7 @@ Templates
 
 
 **Multiple FAQs article template content fields:** 
+http://learningcenter.web.demo.ci.cms.va.gov/node/8233?_format=static_html
 
 - Required: H1 – new H1 limit for LC pages – 70 max characters including spaces
 
@@ -124,7 +125,8 @@ Templates
 
 - STETCH FOR 1.0 - WE MAY NOT LAUNCH WITH: Back to top links: dynamic based on page height.
 
-**Question and Answer article template (aka “single Q&A”)**
+**Question and Answer article template (aka “single Q&A”)** 
+http://learningcenter.web.demo.ci.cms.va.gov/node/8540/?_format=static_html
 
 - Required: H1 – new H1 limit for LC pages – 70 max characters including spaces, rigid in AX
 - Required: Answer text - 1,000  characters max including spaces. 
@@ -136,7 +138,9 @@ Templates
 - Required: [VA benefits section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#va-benefits-section)
 - Required: [Need more help?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#need-more-help-section) - This section includes contact info based  on a  pre-set list of options
 
+
 **Step-by-step article template (uses “subway map” design)**
+http://learningcenter.web.demo.ci.cms.va.gov/node/8417?_format=static_html
 
 - Required: H1 – new H1  limit for LC pages – 70 max characters including spaces, rigid in AX
 
@@ -175,6 +179,7 @@ Templates
  
 
 **About article template**
+http://learningcenter.web.demo.ci.cms.va.gov/node/8427?_format=static_html
 
 - Required: H1 – new H1  limit for LC pages – 70 max characters including spaces
 
