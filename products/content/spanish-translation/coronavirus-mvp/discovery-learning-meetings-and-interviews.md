@@ -1,11 +1,13 @@
 # Localization discovery: Meetings and interviews
 
+[MedlinePlus en español](#medline)
+
 ### MedlinePlus en español
 Met with head of Medline Plus and lead for bilingual content
 
 - Have a Language Access Committee.
 
-- Refer to Real Academia Espanola (https://www.rae.es/), the gold standard for proper Spanish.
+- Refer to Real Academia Espanola (https://www.rae.es/), the gold standard for proper Spanish. We also look at bilingual media for terms that we know our resonating.
 
 - Many sites use Google translate first. If you start with machine first, usually your product is somewhat machine line. We have humans involved from the start. When we go back to technology, we do it to confirm, little nuances of cultural, grammar checks. But ideally it does start and end with a human set of eyes with technology in the middle. 
 
@@ -17,8 +19,15 @@ Met with head of Medline Plus and lead for bilingual content
 
 - The more translators you have look at content, the better. This brings different perspectives. For the most part, we take on translations across the board in a team effort. Either my colleague initiates and I polish or vice versa. Try to have 2 people look at it. Sometimes debate and discuss to collaborate on final product. Sometimes have to go outside agency to see how others are talking about a topic. Collaboration is key. 
 
-- When we make updates in English, it prompts an immediate reaction on the Spanish side. We don't view translation as an "extra" step. It is an integral part of the task. We hold the release of content until both English and Spanish are ready.
+- When we make updates in English, it prompts an immediate reaction on the Spanish side. Edits to multiple pages may require a rewrite. We don't view translation as an "extra" step. It is an integral part of the task. We hold the release of content until both English and Spanish are ready. We have to be able to prioritize requests.
 
+- $25/page for PDF; 6 to 10 cents per word for web content. It's expensive.
+
+- Must read for context and readilibility. Have an editorial board. Takes a lot of staff time, cultural sensitivity, and specialized expertise. 
+
+- Quality over quantity. Make sure the synopsis is translated well and is culturally sensitive. A lot of people who are bilingual benefit from a high quality synopsis. Then they'll go seek Google translate or another way of translating for the rest.
+
+- The consumers of translated content is not always the target audience. Consider the caregiver perspective as well.
 
 
 
