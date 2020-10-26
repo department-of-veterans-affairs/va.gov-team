@@ -55,18 +55,18 @@ Of the 8 Clients:
 
 1. Vet Centers are not well known among Veterans.
 2. 8 of 8 Clients had a favorable view of Vet Centers.
-3. 7 of 8 Clients expressed being “separate from VA” as a key benefit of Vet Centers.
-4. Overall clients expressed the notion of feeling deeply understood at Vet Centers.
-5. Clients value the Veteran to Veteran approach to counseling, outreach and staffing of Vet Centers.
-6. 6 participant, 4 clients mentioned wanting to see "help with benefits" if that was available.
+3. 7 of 8 Clients expressed being “separate from VA” as a key benefit of Vet Centers
+4. Clients feel deeply understood at Vet Centers
+5. Clients value the Veteran to Veteran approach to counseling, outreach and staffing of Vet Centers
+6. Veterans often need help with VA benefits and want to know what help is available at a Vet Center
 7. Military culture can be especially difficult for clients dealing with MST
 8. 4 Clients suggested listing staff background and contact info on a Vet Center website
 9. 3 Clients were surprised to see employment referral as a Vet Center service
-10. 2 Clients called out flexibility in scheduling as a benefit that should be highlighted on a website.
+10. 2 Clients called out flexibility in scheduling as a benefit that should be highlighted on a website
 
 ### Details of Findings
 
-#### 1.  Vet Centers are not well known among Veterans.
+#### 1.  Vet Centers are not well known among Veterans
 Non-clients confuse Vet Centers with any place you get medical care within the VA system. Most of the non-client participants were convinced that they had been going to Vet Centers. Of the 7 non-clients, only 1 was familiar Vet Centers.  
 
   How clients in this study learned about Vet Centers:
@@ -77,7 +77,7 @@ Non-clients confuse Vet Centers with any place you get medical care within the V
    - 1-Another Veteran
 
 
-#### 2. 8 of 8 Clients had a favorable view of Vet Centers.
+#### 2. 8 of 8 Clients had a favorable view of Vet Centers
 Clients value Vet Center’s unique ability to help Veterans with diverse needs, at different stages of their journey, navigate the transition to civilian life, especially when they had already hit brick walls with care or eligibility
 
 How clients view Vet Centers:
@@ -90,7 +90,7 @@ How clients view Vet Centers:
 
 > "[A Vet Center is] an institution that was established to respect the privacy of veterans that were distrustful of the VA hospitals. I held it in when it happened almost 30 years ago. [Of a Vet Center counselor:] I told her she saved my life because that’s how I feel."
 
-#### 3. 7 of 8 Clients expressed being “separate from VA” as a key benefit of Vet Centers.
+#### 3. 7 of 8 Clients expressed being “separate from VA” as a key benefit of Vet Centers
 This sentiment was expressed most often when asked “What is the most important thing for someone to know before visiting a Vet Center for the first time?” or when asked to compare a Vet Center with other VA facilities.
 What does “separate from VA” mean to a Veteran:
 
@@ -104,7 +104,7 @@ What does “separate from VA” mean to a Veteran:
 
 > "I would say confidentiality, for myself when I started it was really important to me because of the military culture and my situation. I was worried that if I said anything I thought it would get back to the VA and would prevent me from benefits. I think most veterans are spooked and kind of in the mindset that what you said will be used against you. To let them know confidentiality is highly important."
 
-#### 4. Overall clients expressed the notion of feeling deeply understood at Vet Centers. 
+#### 4. Clients feel deeply understood at Vet Centers 
 Clients felt Vet Center staff and counselors do a good job of asking questions and understanding a Veteran’s context when assessing their needs and helping them find solutions. 
 
 > "The VA has gotten better with bad paper discharges but there are still hard lines where anything less than an honorable discharge then they don't get services whereas Vet Centers are able to interpret what happened. Vet centers ask why they made them do it and they get the answers. The army, there is little room to recover or grieve. Like 45 minutes to grieve then get back out to the mission, we lost 19 guys and we had the highest casualty rate. You come in grieve then go back out to combat, you get water and eat, cry, and get back out there."
@@ -127,7 +127,7 @@ Shared military experiences helps to creates a sense of belonging and similtude 
 > "The vet center for me was a great fit because we all are similar. Us taking care of us."
 
 
-#### 6. 6 participant, 4 clients mentioned wanting to see "help with benefits" if that was available.
+#### 6. Veterans often need help with VA benefits and want to know what help is available at Vet Center
 Many participants faced administrative challenges when dealing with VA benefits disability ratings, claims and eligibility that created barriers for them before they were able to begin managing their mental health. Clients valued the help that Vet Centers can offer in navigating the VA system for benefits but some were unaware of the help available to them. Participants wanted to see this spelled out more clearly.
 
 > "It doesn't seem like they can help with benefits at least not from what I am aware of."
@@ -158,7 +158,7 @@ In this study 4 of the 5 participants dealing with MST were also dealing with PT
 #### 9. 3 Clients were surprised to see employment referral as a Vet Center service
 > "That tracks with my understanding but I didn't know they did employment referral and that's what I actually do I work with job seeking veterans."
 
-#### 10. 2 Clients called out flexibility in scheduling as a benefit that should be highlighted on a website.
+#### 10. 2 Clients called out flexibility in scheduling as a benefit that should be highlighted on a website
 
  > " I also know that they have some flexible scheduling and make some appointments available to come in early or later in the day and weekend times but it is on a case by case basis."
  
