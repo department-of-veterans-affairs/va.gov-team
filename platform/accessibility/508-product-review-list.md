@@ -841,7 +841,6 @@ Back to [Table of Contents](#table-of-contents)
 **Audit status:** _VSP full audit completed October 2020_<br/>
 
 **Open issues**
-- [[KEYBOARD] 508-defect-1: VAOS appointment tabs MUST be keyboard accessible - #15015](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15015)<br/>**Limited production** | **Opened:** October 19, 2020 | **Severity:** _508-defect-1 - **Critical**_
 - [[SCREENREADER]: 508-defect-2: Focus MUST be managed when users cancel an appointment - #15016](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15016)<br/>**Limited production** | **Opened:** October 19, 2020 | **Severity:** _508-defect-2 - **Serious**_
 - [[COGNITION] 508-defect-3: Telephone numbers SHOULD be well-formed and use the accessible React component - #15046](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15046)<br/>**Limited production** | **Opened:** October 20, 2020 | **Severity:** _508-defect-3 - **Minor**_
 - [[COGNITION] 508-defect-3: Cancel appointment buttons SHOULD have an accessible label - #15050](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15050)<br/>**Limited production** | **Opened:** October 20, 2020 | **Severity:** _508-defect-3 - **Minor**_
