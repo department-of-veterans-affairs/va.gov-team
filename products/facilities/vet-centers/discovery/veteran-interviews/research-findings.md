@@ -60,7 +60,7 @@ Of the 8 Clients:
 5. Clients value the Veteran to Veteran approach to counseling, outreach and staffing of Vet Centers
 6. Veterans often need help with VA benefits and want to know what help is available at a Vet Center
 7. Military culture can be especially difficult for clients dealing with MST
-8. 4 Clients suggested listing staff background and contact info on a Vet Center website
+8. Clients would like to know the name and background of VC staff before calling or visiting
 9. 3 Clients were surprised to see employment referral as a Vet Center service
 10. 2 Clients called out flexibility in scheduling as a benefit that should be highlighted on a website
 
@@ -151,9 +151,11 @@ In this study 4 of the 5 participants dealing with MST were also dealing with PT
 > "For MST, they are going to be particular about the gender of the person, keyed in on how confidential it is. I can envision some that would be comfortable doing it in group but others that would be terrified of group sessions. Maybe spelling it out what resources for MST is available for the vet center and how it is different from the medical center would be useful."
 
 
-#### 8. 4 Clients suggested listing staff background and contact info on a Vet Center website 
+#### 8. Clients would like to know the name and background of VC staff before calling or visiting. 4 Clients offered this suggestion as a website improvement.
 
-> "For a specific center it may be helpful having information about the staff that is there and what their background is or specialists or prior service staff. That is what a lot of veterans would key in on."
+> "I think that would lessen some of the unknowns, for me when I first went in I had very few expectations and was open to it but I didn't know what I was getting into so if I had the opportunity to learn a bit about the staff that were there I would have taken advantage and read it before my first visit. "
+
+> "Maybe one more thing, they could put the counselors name and/or pictures of who are the people that operate that Vet Center, like introducing themselves and telling a little about themselves, so maybe the person will know who they are going to see, what to expect more or less. I look at this but I don't know who I'm going to meet, their experience or what they look like. "
 
 #### 9. 3 Clients were surprised to see employment referral as a Vet Center service
 > "That tracks with my understanding but I didn't know they did employment referral and that's what I actually do I work with job seeking veterans."
