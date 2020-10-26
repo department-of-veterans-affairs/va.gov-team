@@ -29,7 +29,20 @@ It is beneficial to conduct internal QA. This consisf of the team allocating 1 h
 - [ ] Create issues in Github for changes that will take place, add dates, and tag relevant people/teams (re-directs, content changes, UI changes, etc)
 - [ ] Update dates/parties accordingly as launch approaches
 
+## Analytics
 
+## Release Plan
+
+## UAT
+
+
+## Phased Launch
+
+
+## Monitoring
+
+
+## Post Launch
 
 
 
