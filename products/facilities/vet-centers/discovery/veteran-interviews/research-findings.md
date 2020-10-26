@@ -31,7 +31,7 @@ Of the 8 Clients:
 * 4-Caucasian, 2-Hispanic/Latino, 1-African American, 1-Native Hawaiian/Pac Islander
 * All clients received group or individual counseling
 * 7 major metro, 1 rural
-* Wide range of disability ratings and cognative disabilities
+* Wide range of disability ratings and cognitive disabilities
 * 3-PTSD, 2-PTSD+MST, MST-1
 
 
