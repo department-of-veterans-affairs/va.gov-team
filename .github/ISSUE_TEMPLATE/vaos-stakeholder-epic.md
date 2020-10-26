@@ -7,25 +7,34 @@ assignees: ''
 projects: VAOS-R Roadmap
 
 ---
-# Stakeholder input:
-## High Level User Story / Problem / Opportunity
+# Stakeholder input
+## Who is the target user?
+
+## High Level User Need / Problem / Opportunity
 _As a _____, I need _____ so I can _____ ._
 
 _When [situation], I want to [motivation], so I can [expected outcome]._
 
+## Hypothesis or Bet
+**If** _we make this change_ **then** _we expect this to happen_.
 
-## Goals / Outcomes
+## Outcomes / how will we define success
 _Measurable benefit in addressing the request / problem / opportunity_
 _What outcome(s) do we want to see?_ 
 
-## Stakeholder AC Score:
-_(Calculations made [here](https://docs.google.com/spreadsheets/d/1fuGBtMRYTze0Z8_fvw4EmqiSVOwjC1ZIv8E5JECL2o0/edit#gid=836967960))_
+## Supporting data we should consider (feedback, analytics)
 
+## Stakeholder AC Checklist:
+- [ ] Does this ask make it easier for a Veteran to schedule an appointment regardless of which electronic health record their facility or provider uses? 
+- [ ] Does this ask make it easier for a Veteran to access care when and where they need it? (community care, telehealth) 
+- [ ] Is this ask directly contributing to scheduling an appointment? 
+- [ ] Does this feature solve a current and persistent problem for the user? 
+- [ ] Does this feature have downstream impacts on schedulers & providers, where fixing it delivers a better user experience to Veterans, without exposing the guts of the system to them? 
+- [ ] What is the urgency and why? 
+- [ ] Who wants this feature and why? 
 
 ---
 # Next iteration of Epic after initial Stakeholder input:
-## Hypothesis or Bet
-**If** _we make this change_ **then** _we expect this to happen_.
 
 ## Definition of done
 ### What must be true in order for you to consider this epic complete? 
