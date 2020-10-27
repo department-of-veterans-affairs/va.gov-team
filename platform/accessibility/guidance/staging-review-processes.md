@@ -271,7 +271,7 @@ Unresolved keyboard navigation issues are documented in issue tickets and listed
 
 **Who:** Any team member with time to review
 
-**When:** At a minimum, before your staging review. There is a bit of a learning curve to screen reader testing that comes with experience. If you are new to screen reader testing, don’t hesitate to [ask for help](#what-to-do-if-you-have-questions-or-need-help) early and often.
+**When:** Recommended before your staging review. There is a bit of a learning curve to screen reader testing that comes with experience. If you are new to screen reader testing, don’t hesitate to [ask for help](#what-to-do-if-you-have-questions-or-need-help) early and often.
 
 All [happy path user flows or pages](https://en.wikipedia.org/wiki/Happy_path) must be possible to complete on [VA.gov supported browsers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/request-for-comment/browser-support.md) with at least 1 screen reader tool to catch difficult or incomplete user actions. This is meant to be a quick pass to catch difficult or incomplete user interactions.
 
