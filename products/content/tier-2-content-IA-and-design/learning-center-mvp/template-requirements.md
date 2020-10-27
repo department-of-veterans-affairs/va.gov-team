@@ -235,7 +235,7 @@ This template is for multiple question-and-answers.
 
 Specs- not including the basic requirements on all LC pages:
 
-- Section headers (H2s, ~H3s, etc.~)
+- Optional: Section headers (H2s, ~H3s, etc.~)
 - Wysiwyg answer block 
 - Alert (can be enabled below intro text; and on body content)
 - ~React widget~  Updated 9/15 CMS call.
@@ -254,7 +254,7 @@ Specs - not including the basic requirements on all LC pages:
 
 - Wysiwig 
 - React enabled - below BODY wysiwig (not the intro wysiwig): Updated 9/15 cms call. 
-- Section headers (H2s, H3s, etc.)
+- Optional: Section headers (H2s, H3s, etc.)
 - Accordion group (not as Q/As)
 - Additional information
 - Alert (can be enabled below intro text or within body content; not stackable)
@@ -271,7 +271,7 @@ This template modifies the existing 'subway map' component to allow screenshots 
 Specs - not including the basic requirements on all LC pages:
 
 - Everything that current subway maps allow, plus screenshots 
-- Section headers (H2s, H3s, etc.) - But the first section header after intro must be an H2 (don't allow H1 to jump to H3, etc.)
+- Optional: Section headers (H2s, H3s, etc.) - But the first section header after intro must be an H2 (don't allow H1 to jump to H3, etc.)
 - Alert (can be enabled below intro text, and within steps) - this is in addition to the alert that can be enabled as part of the 'shell' below intro block.
 - Can include multiple 'subway maps' with section headers. 
 - No videos, no tables, no callouts, etc.
@@ -288,7 +288,7 @@ This template is for visually-rich information such as images or videos.
 **A.** Video template specs - not including the basic requirements on all LC pages:
 
 - There's no customizable text on this page except the intro text and section headers. 
-- Section headers (H2s, H3s, etc.) But the first section header after intro must be an H2 (don't allow H1 to jump to H3, etc.)
+- Optional: Section headers (H2s, H3s, etc.) But the first section header after intro must be an H2 (don't allow H1 to jump to H3, etc.)
 - Video title, description, video length, date/time publication stamp should all get pulled from the YouTube source. 
 - Max up to 5 videos.
 - FE progressive enhancement display/loading for low-bandwidth and mobile users. 
@@ -298,7 +298,7 @@ This template is for visually-rich information such as images or videos.
 
 **B.** Image template specs - not including the basic requirements on all LC pages:
 
-- Section headers (H2s, H3s, etc.) But the first section header after intro must be an H2 (don't allow H1 to jump to H3, etc.)
+- Optional: Section headers (H2s, H3s, etc.) But the first section header after intro must be an H2 (don't allow H1 to jump to H3, etc.)
 - Image file (min requirements/size limit - use same as those in VAMC and Outreach products)
 - Image ~filename~ title field - 70 characters max including spaces
 - Image description field - short optional description, max 300 characters incl spaces
@@ -313,7 +313,7 @@ This template is for list content that Veterans (or non-beneficiaries) can use t
 
 Specs - not including the basic requirements on all LC pages:
 
-- Section headers (H2s, H3s, etc.) But the first section header after intro must be an H2 (don't allow H1 to jump to H3, etc.)
+- Optional: Section headers (H2s, H3s, etc.) But the first section header after intro must be an H2 (don't allow H1 to jump to H3, etc.)
 - Alert (can be enabled below intro text or within body content; not stackable)
 - Section text blurb - plain text, max 300 characters including spaces  <-- added 8/31
 - Checkbox text field, max 300 characters including spaces
