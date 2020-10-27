@@ -1,6 +1,5 @@
 
 
-
 <details>
   <summary>VR&E Reemployment track</summary>
 https://www.va.gov/careers-employment/vocational-rehabilitation/programs/reemployment/
@@ -112,8 +111,27 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/programs/indepen
 </details>
 
 
+<details>
+  <summary>How to apply for Veteran Readiness and Employment</summary>
+https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/
+
+<details>
+  <summary>Current</summary>
+
+ ![Screen Shot 2020-10-27 at 11 34 54 AM](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/images/ch31/Screen%20Shot%202020-10-27%20at%2011.34.54%20AM.png)
+
+</details>
+
+<details>
+  <summary>Proposed</summary>
+
+ ![Screen Shot 2020-10-27 at 11 42 00 AM](https://user-images.githubusercontent.com/1899695/97347021-73d5c200-1849-11eb-945b-e38dc0d5e153.png)
 
 
-  - [VR&E Independent Living track](https://www.va.gov/careers-employment/vocational-rehabilitation/programs/independent-living/)
+</details>
+
+</details>
+
+
   - [How to apply for Veteran Readiness and Employment](https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/) :point_left: No "**Ready to apply?**" text above button
   - [Eligibility for Veteran Readiness and Employment](https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/) :point_left: No **subway map** currently for eBenefits (edited)
