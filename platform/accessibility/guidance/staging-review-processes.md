@@ -16,7 +16,7 @@ Staging reviews test the [happy path](https://en.wikipedia.org/wiki/Happy_path) 
 
 ## Recommended accessibility tests
 
-- [ ] Screen reader tests (VoiceOver + Safari or NVDA + Firefox) - [read more about getting started with screen readers](#screen-reader-tests). Teams are encouraged to conduct their own screen reader tests, but DEPO platform acknowledges this is aspirational.
+- [ ] Screen reader tests (VoiceOver + Safari or NVDA + Firefox) - [read more about getting started with screen readers](#screen-reader-tests). Teams are encouraged to conduct their own screen reader tests as part of the software development lifecycle (SDC), but DEPO platform acknowledges this is aspirational.
 - [ ] Axe-coconut scans in daily development - [read more about the axe-coconut experimental plugin](https://www.deque.com/blog/test-leading-edge-accessibility-axe-coconut-axe-core-3-0/)
 - [ ] WAVE tool spot checks - [read more about the WebAIM WAVE tool](https://wave.webaim.org/)
 
