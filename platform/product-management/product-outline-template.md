@@ -28,6 +28,11 @@
 ---
 ## Measuring Success
 
+| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
+|----------|-------------|--------------------|--------------------|--------|
+| KPI      |             |                    |                    |        |
+| KPI      |             |                    |                    |        |
+
 ### Key Performance Indicators (KPIs)
 * *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
 * _What are the most important metrics that track with this product/initiative's success?_
