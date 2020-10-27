@@ -135,7 +135,7 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/
 
 
 <details>
-  <summary>How to apply for Veteran Readiness and Employment</summary>
+  <summary>Eligibility for Veteran Readiness and Employment</summary>
 https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/
 
 <details>
