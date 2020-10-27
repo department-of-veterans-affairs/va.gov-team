@@ -11,12 +11,17 @@ _See team [Zenhub Roadmap](https://github.com/department-of-veterans-affairs/va.
 |[VA Global Onsite Search- User Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11638) | Define |
 |[VA Global Onsite Search- Click Tracking](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14955) | Define |
 |[VA Global Onsite Search - Type Ahead POC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8896) | Discovery |
-|[VA Global Onsite Search - Best Bets/Top Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9538) | Define |
-|[VA Global Onsite Search - Site Map XML + Indexing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13939) | Discovery |
-|[VA Offsite Search - Optimization](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11026) | Define |
 |[VA Forms 1.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10758) | Define |
+|[VA Global Onsite Search - Best Bets/Top Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9538) | Define |
+
+
+## Future projects
+|Project|Status|
+|----|----|
+|[VA Global Onsite Search - Site Map XML + Indexing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13939) | Discovery |
 |[Yellow Ribbon](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8347) | Define |
 |[Resources & Support (LC) - Post 1.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11254) | Define |
+|[VA Offsite Search - Optimization](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11026) | Define |
 
 ### Projected timelines for current projects
 
