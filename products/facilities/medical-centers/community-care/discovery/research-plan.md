@@ -1,6 +1,6 @@
 # Research Plan: Community Care Manager Interviews 
 
-**September - October 2020 Discovery**<br>
+**November 2020 Discovery**<br>
 
 ## Goals
 
@@ -31,7 +31,7 @@ Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audi
 
 ### Hypothesis 
 
-Current clients have a favorable view of Vet Centers and the services that they offer and view them as distinct entities from other VA facilities. 
+- Update with hypothesis 
 
 ## Method
 
@@ -39,7 +39,7 @@ Qualitative research interviews via Zoom.
 
 ## Participants and Recruitment
 
-<mark style="background-color: lightblue">Marked text</mark>
+- Needs recruiter update
 
 ### Participant Criteria:
 
@@ -54,7 +54,7 @@ Qualitative research interviews via Zoom.
 
 #### Secondary criteria / Would like to have - 
 
-- Needs update 
+- Update with secondary criteria 
 
  
 ## Timeline
@@ -80,8 +80,8 @@ Day of week, Nov 00 |  -p | -
 - Moderator: Chris Logan <clogan@governmentcio.com>
 - Research guide writing and task development: Chris Logan <clogan@governmentcio.com>
 - Project point of contact: Chris Logan <clogan@governmentcio.com>
-- Participant recruiting & screening: - - - 
-- Notetaker: - - - 
+- Participant recruiting & screening: [name] [email address] 
+- Notetaker: [name] [email address] 
 - Participant(s) for pilot test: [name] [email address]
 - Observers (***include in Slack Channel**):  
   - ***Dave Conlon** <david.conlon@va.gov> 
