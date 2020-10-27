@@ -3,13 +3,13 @@
 
 ## Moderator logistics
 
-[ ] Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to the [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-[ ] Have the prototype link available
-[ ] Update the Zoom sharing section
-[ ] In the Attendees section, make sure everyone except the participant is on mute
-[ ] In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
-[ ] Check your [screensharing setup]
-[ ]When the participant is ready, begin the session with the following intro:
+- [ ] Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to the [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+- [ ] Have the prototype link available
+- [ ] Update the Zoom sharing section
+- [ ] In the Attendees section, make sure everyone except the participant is on mute
+- [ ] In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
+- [ ] Check your [screensharing setup]
+- [ ] When the participant is ready, begin the session with the following intro:
 
 
 ### Project-specific setup
@@ -36,55 +36,175 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions (Optional) - X minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
+Before we look at the website, let’s start with a warm-up question.
 
-* [Do we want to ask about their experience with choosing a provider? Or wait until the prototype?]
-* [Do we want to ask about their understanding of community care? Or wait until the prototype?]
+Today we're going to be testing a process for scheduling a community care appointment. We know not all veterans are eligible for community care, but it's helpful for us to talk to veterans who have used it as well as those who haven't. Are you familiar with community care?
+
+* If YES *
+*  Tell me what you know about community care.
+*  Have you used it?
+
+* If NO *
+*  Thank you, that’s helpful to know
 
 ## Section 1: Start an appointment
 
-Next, we're going to take a look at the prototype. As I mentioned earlier, this is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a prototype, none of your actions will affect your actual VA information or benefits.
-u think it might be?
+Okay, thank you for explaining that to me. Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
+* Use chat to send user link to prototype, starting on home page of learning center. [Prototype link]
+* Talk user through screen sharing so they can share their screen.
 
-## First Task: *Start appointment* - X minutes
+As I mentioned earlier, this is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a prototype, none of your actions will affect your actual VA information or benefits.
 
-* Take a look at this page, scroll around. Tell me what this page is for and what you think you can do here. It'll be really helpful if you can think out loud as much as possible moving forward.
+I'm going to ask you to schedule an appointment through the VA Online Scheduling website. 
 
-* What do you think about the different ways you can find information on this page?
+### Task 1 - Home Page general impression
 
-### Things to watch for:
+* Take a look at this page, scroll around. Tell me what this page is for and what you think you can do here. It'll be really helpful if you can think out loud as much as possible moving forward. 
+* Is the information on this page what you expect it to be? 
+### Prompt 2 - Choose type of care
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+* Imagine you need to schedule an appointment with a provider in your community to treat an ankle injury. How would you start from here?
 
-## Second Task: [TASK NAME] - X minutes
+* Should be on Choose the type of care you need page
 
-- Step 1
-- Step 2
+* In your own words, what is this page asking you? 
+* Is the information on this page what you expect it to be?
 
-### Things to watch for:
+If needed:
+* What would you do next if [whatever thing they're looking for/ can't find / can't do] 
+* Follow up questions if needed:
+    * What else would be helpful to tell you at this point in the process?
+    * What are your options if your type of care isn’t listed?
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+Before they tap “Continue”, do you have any questions?
 
-## Third Task: [TASK NAME] - X minutes
+* If they haven’t clicked “Continue” : Continue scheduling your appointment.
 
-- Step 1
-- Step 2
+### Prompt 3 - Choose where you want to receive care
 
-### Things to watch for:
+* User should be on `Choose where you want to receive care`
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+* In your own words, what is this page asking you? 
+* Is the information on this page what you expect it to be?
 
-## Post-Task Interview - X minutes
+* Follow up questions if needed:
+    * Do you feel comfortable making the choice, or do you want more information about community care?
+    * What else would be helpful to tell you at this point in the process?
 
-- Question 1
-- Question 2
-- Any questions for me? 
+### Prompt 4 - Select an appointment time
+
+* Next, schedule your appointment for November 19th.
+
+* In your own words, what is this page asking you? 
+* Is the information on this page what you expect it to be?
+
+## Section 2 - Choose a provider
+
+### Prompt 5 - Choice landing page
+
+* In your own words, what is this page asking you? 
+* Is the information on this page what you expect it to be?
+
+* Thinking again about your previous experience scheduling health care, which of these options might be the most helpful to you?
+
+* Follow up questions if needed:
+    * How might we make that clearer?
+    * How would YOU describe that to a friend or fellow Veteran?
+    * What else would be helpful to tell you at this point in the process?
+    * Is this how you would expect to choose a health care provider?
+
+### Prompt 6 - Choose a provider from a list
+
+* Next find the provider who lives closest to your address.
+    * If needed: You want to see Daniel Yarmel.
+
+* In your own words, what is this page asking you? 
+* Is the information on this page what you expect it to be?
+
+If needed:
+* If you were searching for a health care provider for a health care appointment, would distance from your address be the most useful way for you to find them?
+
+Watch for:
+* Do they attempt to open the map?
+
+Before they tap “Continue”, do you have any questions ?
+
+* If they haven’t clicked “Continue” : Continue choosing your provider.
+
+### Prompt 7 - Choose a provider from a map
+
+* I’d like you to select an additional provider, using the map this time
+    * Howard Osterman 
+* In your own words, what is this page telling you? 
+* Is the information on this page what you expect it to be?
+
+* If needed:
+    * Thinking about past times you’ve scheduled appointments, would this have been helpful?
+
+### Prompt 8 - Remove a Provider
+
+* Remove Daniel Yarmel
+
+* In your own words, what is this page asking you? 
+* Is the information on this page what you expect it to be?
+
+* Thinking again about how you have chosen health care providers in the past:
+    * How does this differ from the way you would expect to find a provider in your community?
+    * 
+
+* Before they tap “Continue”, do you have any questions?
+
+## Section 3 (If time) - Complete appointment
+
+### Prompt 9 - Language preference - (Maybe remove)
+
+* In your own words, what is this page asking you? 
+* Is the information on this page what you expect it to be?
+
+### Prompt 10 - Tell us the reason for your appointment - (Maybe remove)
+
+* In your own words, what is this page asking you? 
+* Is the information on this page what you expect it to be?
+
+### Prompt 11 - Contact information - (Maybe remove)
+
+* In your own words, what is this page asking you? 
+* Is the information on this page what you expect it to be?
+
+### Prompt 12 - Request appointment
+
+* In your own words, what is this page asking you? 
+* Is the information on this page what you expect it to be?
+
+* Follow up questions if needed:
+    * How might we make that clearer?
+    * How would YOU describe that to a friend or fellow Veteran?
+    * What else would be helpful to tell you at this point in the process?
+
+### Prompt 13 - Appointment submitted
+
+* In your own words, what is this page asking you? 
+* Is the information on this page what you expect it to be?
+
+Fourth task (If time) - Manage appointments
+
+### Prompt 14 - Confirm appointment details
+
+* In your own words, what is this page asking you? 
+* Is the information on this page what you expect it to be?
+
+* Find your appointment and double-check that the provider is right
+
+### Prompt 15 - Find an upcoming video connect appointment
+
+[ Note - let’s clarify this part of the flow more before finalizing]
+
+## Post-Task Questions
+
+Thank you for working through that with me. I just have a few more questions before we break.
+
+Is there any other feedback you would like to share? 
+Do you have any other questions for me?
 
 ## Thank-You and Closing - X minutes
 
