@@ -142,7 +142,7 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/
 <details>
   <summary>Current</summary>
   
-- Remove subway itself, button header and button itself
+- Remove subway itself and button itself
 
  ![Screen Shot 2020-10-27 at 11 34 54 AM](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/images/ch31/Screen%20Shot%202020-10-27%20at%2011.34.07%20AM.png)
 
