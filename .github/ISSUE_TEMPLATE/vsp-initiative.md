@@ -18,6 +18,12 @@ assignees: ''
 ## We will know we're done when... ("Definition of Done")
 *What requirements does this project need to meet for you to finish this initiative?*
 
+## Known Blockers/Dependencies 
+*List any blockers or dependencies for this work to be completed*
+
+## Projected Launch Date
+* When do you expect to be completed rolling out this initiative*
+
 ## Launch Checklist
 
 ### Guidance (delete before posting)
