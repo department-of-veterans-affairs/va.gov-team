@@ -4,14 +4,14 @@
   <summary>VR&E Reemployment track</summary>
 https://www.va.gov/careers-employment/vocational-rehabilitation/programs/reemployment/
 
-<details>
+><details>
   <summary>Current</summary>
 
  ![Screen Shot 2020-10-27 at 11 34 54 AM](https://user-images.githubusercontent.com/1899695/97346891-4721aa80-1849-11eb-8363-861bd67b3687.png)
 
 </details>
 
-<details>
+><details>
   <summary>Proposed</summary>
 
  ![Screen Shot 2020-10-27 at 11 42 00 AM](https://user-images.githubusercontent.com/1899695/97347021-73d5c200-1849-11eb-945b-e38dc0d5e153.png)
