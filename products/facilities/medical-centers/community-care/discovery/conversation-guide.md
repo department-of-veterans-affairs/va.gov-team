@@ -36,7 +36,7 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 
 ### Warm up  
 
-- How long have you been an community care manager at the VA? 
+- How long have you been a community care manager at the VA? 
 
 - What brought you to this line of work? 
 
