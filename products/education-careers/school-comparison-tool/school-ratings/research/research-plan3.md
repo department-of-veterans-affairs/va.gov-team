@@ -107,7 +107,7 @@ Please list the people who will be serving in each role.
 - Project Brief: 	
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/school-ratings/product-outline.md
 
-- Convo Guide: 
+- Convo Guide: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/school-ratings/research/discussion-guide3.md
 - Synthesis	
 *Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
 - Lessons Learned	
