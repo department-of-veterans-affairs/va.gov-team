@@ -28,11 +28,7 @@ I’ll be recording the audio as we talk today, so that we capture your opinions
 
 I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-###### Start recording to the Cloud
-
-[GENERATIVE QUESTIONING – 30 MIN]
-
-## Warm up  
+## Warm-up Questions  
 
 - How long have you been a community care manager at the VA? 
 
