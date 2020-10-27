@@ -13,15 +13,18 @@ _Delete this guidance stanza and any italicized guidance in the template before 
 ---
 
 # Product Title
+Implement Storybook for the component library.
 
 ## Overview
-*A brief description of the product.*
+Storybook is a robust solution for our component library documentation, as well as a much more developer-friendly platform for implementing and updating design system components.
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address.*
+The existing design system component documentation is not kept in sync with the actual use of a component. The documentation is non-interactive, so it's difficult for engineers and designers to see how changing props affects the component.
 
 ## Personas
-*Who are the users of this product?*
+VFS Engineers
+VFS Designers
+Design System Team 
 
 ## Measuring Success
 
@@ -75,20 +78,12 @@ _Link to the following materials as relevant._
 - Any product health or success dashboards
 
 ### Communications
-
-<details>
-
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-
-</details>
+- Team Name: Design System Team
+- GitHub Label: design-system-team
+- Slack channel: vsp-design-system (for general communications) and vfs-platform-support (for support)
+- Product POCs: Carol Wong
 
 ### Stakeholders
-
-<details>
+ - DEPO leads
+ - VFS teams using the platform to build on VA.gov
  
-_What offices/departments are critical to make this initiative successful?_
- 
-</details>
