@@ -19,7 +19,10 @@ _Note: as always, use the [#vfs-platform-support](https://dsva.slack.com/channel
 - [ ] Everything is [508 Accessible](https://github.com/department-of-veterans-affairs/va.gov-team/blob/de1d32ebfc17d4b887133e33d946ece5a12913d8/platform/accessibility/README.md) and there are no Sev 1 accessibility bugs `*`
 - [ ] Everything is written in [plain language](https://design.va.gov/content-style-guide/) `*`
 - [ ] Everything is consistent with VA's [Design System](https://design.va.gov/) `*`
-- [ ] [Downtime notifications and error messages](https://design.va.gov/patterns/messaging-error-messages) are documented 
+- [ ] Downtime notifications and error messages:
+  - [ ] [Error message style guide](https://design.va.gov/patterns/messaging-error-messages) are documented 
+  - [ ] [Error message verbiage](https://design.va.gov/patterns/messaging-dictionary)
+  - [ ] [Error message configuration instructions](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/downtime-notifications/)
 - [ ] [End-to-end manual QA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/README.md) is complete and no Sev1 bugs `*`
 - [ ] [End-to-end UAT](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-uat.md)(with real users) complete and no Sev1 bugs
 - [ ] Availability and latency targets are defined `*`
