@@ -12,7 +12,14 @@ This does not include research for Appeals projects, which is stored in differen
 - List of keywords
 
 ------
-### September 2020
+###  2020
+
+### October 2020
+
+#### September 30 - October 16 : Vet Center - Veteran Client - Discovery Interviews
+*Ad Hoc: VSA Facilities, Leyda Hughes*
+- 15 participants (8 clients)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/veteran-interviews)
 
 ### August 2020
 
@@ -23,7 +30,7 @@ This does not include research for Appeals projects, which is stored in differen
 
 **Keywords:** categorization, nomenclature, tags, categories, audience, topics, labels, content authoring, tier 2, benefit-adjacent, VA account and profile, Records
 
-#### August 20-28 : Vet Center - Outreach Specialist Discovery Interviews
+#### August 20-28 : Vet Center - Outreach Specialist - Discovery Interviews
 *Ad Hoc: VSA Facilities, Leyda Hughes*
 - 5 participants
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/outreach-specialist-interviews)
