@@ -12,18 +12,18 @@
 |[VA Forms 1.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10758) | Define |
 |[Yellow Ribbon](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8347) | Define |
 |[Best Bets/Top Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9538) | Define |
-|[VA Global Onsite Search - Site Map XML + Indexing| Project 4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13939) | Discovery |
+|[VA Global Onsite Search - Site Map XML + Indexing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13939) | Discovery |
 |[Resources & Support (LC) - Post 1.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11254) | Define |
 
 ### Projected timelines for current projects
 
-|Project|Q3 2020|Q4 2020|Q1 2021|Q2 2021|Q3 2021|Q4 2021|
-|----|----|----|----|----|----|----|
-|**Project 1**| status notes| info | — | — | — | — |
-|**Project 2**| status notes| info | — | — | — | — |
-|**Project 3**| status notes| info | — | — | — | — |
-|**Project 4**| status notes| info | — | — | — | — |
-|**Project 5**| status notes| info | — | — | — | — |
+|Project|Q4 2020|Q1 2021|Q2 2021|Q3 2021|Q4 2021|
+|----|----|----|----|----|----|
+|**Project 1**| - | - | — | — | — |
+|**Project 2**| - | - | — | — | — |
+|**Project 3**| - | - | — | — | — |
+|**Project 4**| - | - | — | — | — |
+|**Project 5**| - | - | — | — | — |
 
 
 
