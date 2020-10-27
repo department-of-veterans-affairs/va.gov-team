@@ -37,25 +37,25 @@ Veteran-facing services (VFS) teams are responsible for ensuring the accessibili
 
 These are the expected responsibilities and division of labor for teams with one or more accessibility specialists. This section will outline each collaboration cycle meeting.
 
-- **[Project kickoff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#project-kickoff)**
+- **[Project Kickoff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#project-kickoff)**
 
   - VFS accessibility specialists are encouraged to attend the project kickoff meeting. Project kickoffs are a good opportunity for teams to ask questions and learn about the new product or feature.
   - DEPO platform will collect specialist feedback (if any) and provide it to the VFS product team
 
-- **[Design intent](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#design-intent-collaboration)**
+- **[Design Intent](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#design-intent-collaboration)**
 
   - VFS accessibility specialists are encouraged to attend the design intent meeting
   - DEPO platform will collect specialist feedback and provide it to the VFS product team. DEPO platform will comment or add guidance as needed.
   - VFS specialists will answer questions and consult on accessibility issues
   - VFS specialists will work with DEPO platform if there is a conflict or further collaboration is needed
 
-- **[Usability testing prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#usability-testing-prep)**
+- **[Usability Testing Prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#usability-testing-prep)**
 
   - VFS accessibility specialists should work with DEPO platform to conduct usability test prep asynchronously as much as possible
   - DEPO platform will collect specialist feedback and provide it to the VFS product team. DEPO platform will comment or add guidance as needed.
   - DEPO platform will help VFS product teams prepare for remote research sessions when requested
 
-- **[Staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)**
+- **[Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)**
 
   - VFS accessibility specialists are encouraged to attend the staging review meeting
   - VFS specialists will conduct the staging review using DEPO platform's [staging review guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md) after product teams have completed their foundational accessibility testing
@@ -64,7 +64,7 @@ These are the expected responsibilities and division of labor for teams with one
   - DEPO platform will deliver findings and notify the product team of any launch blocking issues
   - VFS specialists will answer questions and help the product team resolve issues
 
-- **[Full accessibility and 508 office audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#full-accessibility-and-508-office-audit)**
+- **[Full Accessibility and 508 Office Audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#full-accessibility-and-508-office-audit)**
   - VFS accessibility specialists will conduct the post-launch audit using DEPO platform's [post-launch audit guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/post-launch-audit-processes.md)
   - VFS specialists will enter issue tickets into a ZenHub epic
   - DEPO platform will review the feedback tickets and discuss any questions with the team
