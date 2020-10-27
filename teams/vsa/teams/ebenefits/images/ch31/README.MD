@@ -6,7 +6,9 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/programs/reemplo
 <blockquote>
   <details>
     <summary>Current</summary>
-
+```diff
+- Remove Subway header, subway itself, button header and button itself
+```
    ![Screen Shot 2020-10-27 at 11 34 54 AM](https://user-images.githubusercontent.com/1899695/97346891-4721aa80-1849-11eb-8363-861bd67b3687.png)
 
   </details>
