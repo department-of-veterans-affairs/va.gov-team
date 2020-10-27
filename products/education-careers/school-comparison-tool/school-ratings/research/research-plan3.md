@@ -20,6 +20,7 @@ When Veterans are looking for schools within the Comparison tool, they want to k
    - Do users understand the “Not yet rated” indicators?
    - What do users believe “True to expectations” means?
    - What do users think of the “About Ratings” content?
+   - Do users understand accordions can be expanded by clicking or tapping?
 
 - How do users (want to) engage with ratings?
    - Are users interested in filtering search results by star ratings?
