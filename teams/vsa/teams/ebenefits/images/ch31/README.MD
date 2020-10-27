@@ -25,7 +25,7 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/programs/reemplo
 <details>
   <summary>VR&E Rapid Access to Employment track</summary>
 https://www.va.gov/careers-employment/vocational-rehabilitation/programs/rapid-access-to-employment/
-
+<blockquote>
 <details>
   <summary>Current</summary>
 
@@ -40,14 +40,14 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/programs/rapid-a
 
 
 </details>
-
+</blockquote>
 </details>
 
 
 <details>
   <summary>VR&E Self-Employment track</summary>
 https://www.va.gov/careers-employment/vocational-rehabilitation/programs/self-employment/
-
+<blockquote>
 <details>
   <summary>Current</summary>
 
@@ -62,7 +62,7 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/programs/self-em
 
 
 </details>
-
+</blockquote>
 </details>
 
 
@@ -70,7 +70,7 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/programs/self-em
 <details>
   <summary>VR&E Employment Through Long-Term Services track</summary>
 https://www.va.gov/careers-employment/vocational-rehabilitation/programs/long-term-services/
-
+<blockquote>
 <details>
   <summary>Current</summary>
 
@@ -85,14 +85,14 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/programs/long-te
 
 
 </details>
-
+</blockquote>
 </details>
 
 
 <details>
   <summary>VR&E Independent Living track</summary>
 https://www.va.gov/careers-employment/vocational-rehabilitation/programs/independent-living/
-
+<blockquote>
 <details>
   <summary>Current</summary>
 
@@ -107,14 +107,14 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/programs/indepen
 
 
 </details>
-
+</blockquote>
 </details>
 
 
 <details>
   <summary>How to apply for Veteran Readiness and Employment</summary>
 https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/
-
+<blockquote>
 <details>
   <summary>Current</summary>
 
@@ -129,7 +129,7 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/
 
 
 </details>
-
+</blockquote>
 </details>
 
 
@@ -137,7 +137,7 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/
 <details>
   <summary>Eligibility for Veteran Readiness and Employment</summary>
 https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/
-
+<blockquote>
 <details>
   <summary>Current</summary>
 
@@ -152,7 +152,7 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/
 
 
 </details>
-
+</blockquote>
 </details>
 
 
