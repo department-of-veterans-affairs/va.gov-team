@@ -18,6 +18,8 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/programs/reemplo
 
   <details>
     <summary>Proposed</summary>
+  
+- replace with flipper widget code
 
    ![Screen Shot 2020-10-27 at 11 42 00 AM](https://user-images.githubusercontent.com/1899695/97347021-73d5c200-1849-11eb-945b-e38dc0d5e153.png)
 
@@ -34,6 +36,8 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/programs/rapid-a
 <blockquote>
 <details>
   <summary>Current</summary>
+  
+- Remove Subway header, subway itself, button header and button itself
 
  ![Screen Shot 2020-10-27 at 11 34 54 AM](https://user-images.githubusercontent.com/1899695/97346891-4721aa80-1849-11eb-8363-861bd67b3687.png)
 
@@ -41,6 +45,8 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/programs/rapid-a
 
 <details>
   <summary>Proposed</summary>
+  
+- replace with flipper widget code
 
  ![Screen Shot 2020-10-27 at 11 42 00 AM](https://user-images.githubusercontent.com/1899695/97347021-73d5c200-1849-11eb-945b-e38dc0d5e153.png)
 
@@ -56,6 +62,8 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/programs/self-em
 <blockquote>
 <details>
   <summary>Current</summary>
+  
+- Remove Subway header, subway itself, button header and button itself
 
  ![Screen Shot 2020-10-27 at 11 34 54 AM](https://user-images.githubusercontent.com/1899695/97346891-4721aa80-1849-11eb-8363-861bd67b3687.png)
 
@@ -63,6 +71,8 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/programs/self-em
 
 <details>
   <summary>Proposed</summary>
+  
+- replace with flipper widget code
 
  ![Screen Shot 2020-10-27 at 11 42 00 AM](https://user-images.githubusercontent.com/1899695/97347021-73d5c200-1849-11eb-945b-e38dc0d5e153.png)
 
@@ -79,6 +89,8 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/programs/long-te
 <blockquote>
 <details>
   <summary>Current</summary>
+  
+- Remove Subway header, subway itself, button header and button itself
 
  ![Screen Shot 2020-10-27 at 11 34 54 AM](https://user-images.githubusercontent.com/1899695/97346891-4721aa80-1849-11eb-8363-861bd67b3687.png)
 
@@ -86,6 +98,8 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/programs/long-te
 
 <details>
   <summary>Proposed</summary>
+  
+- replace with flipper widget code
 
  ![Screen Shot 2020-10-27 at 11 42 00 AM](https://user-images.githubusercontent.com/1899695/97347021-73d5c200-1849-11eb-945b-e38dc0d5e153.png)
 
@@ -101,6 +115,8 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/programs/indepen
 <blockquote>
 <details>
   <summary>Current</summary>
+  
+- Remove Subway header, subway itself, button header and button itself
 
  ![Screen Shot 2020-10-27 at 11 34 54 AM](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/images/ch31/Screen%20Shot%202020-10-27%20at%2011.51.59%20AM.png)
 
@@ -108,6 +124,8 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/programs/indepen
 
 <details>
   <summary>Proposed</summary>
+  
+- replace with flipper widget code
 
  ![Screen Shot 2020-10-27 at 11 42 00 AM](https://user-images.githubusercontent.com/1899695/97347021-73d5c200-1849-11eb-945b-e38dc0d5e153.png)
 
@@ -123,6 +141,8 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/
 <blockquote>
 <details>
   <summary>Current</summary>
+  
+- Remove subway itself, button header and button itself
 
  ![Screen Shot 2020-10-27 at 11 34 54 AM](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/images/ch31/Screen%20Shot%202020-10-27%20at%2011.34.54%20AM.png)
 
@@ -130,6 +150,8 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/
 
 <details>
   <summary>Proposed</summary>
+  
+- replace with flipper widget code
 
  ![Screen Shot 2020-10-27 at 11 42 00 AM](https://user-images.githubusercontent.com/1899695/97347021-73d5c200-1849-11eb-945b-e38dc0d5e153.png)
 
@@ -146,6 +168,8 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/
 <blockquote>
 <details>
   <summary>Current</summary>
+  
+- Remove button itself
 
  ![Screen Shot 2020-10-27 at 11 34 54 AM](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/images/ch31/Screen%20Shot%202020-10-27%20at%2011.34.32%20AM.png)
 
@@ -153,6 +177,8 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/
 
 <details>
   <summary>Proposed</summary>
+  
+- replace with flipper widget code
 
  ![Screen Shot 2020-10-27 at 11 42 00 AM](https://user-images.githubusercontent.com/1899695/97347021-73d5c200-1849-11eb-945b-e38dc0d5e153.png)
 
