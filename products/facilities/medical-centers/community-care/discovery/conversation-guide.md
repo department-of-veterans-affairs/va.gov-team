@@ -23,7 +23,8 @@ If for any reason and at any time you want to stop the session, please let me kn
 I’ll be recording the audio as we talk today, so that we capture your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. Are you ok if I record audio?
 
 - If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
-Start recording.
+
+[Start recording]
 
 I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
