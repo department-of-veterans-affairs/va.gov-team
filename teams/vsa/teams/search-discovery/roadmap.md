@@ -1,5 +1,8 @@
 # Search & Discovery Roadmap
 
+_Outlines current projects and projected timelines for Search & Discovery._
+
+_See team [Zenhub Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/issues#workspaces/vft-59c95ae5fda7577a9b3184f8/roadmap?labels=vsa-search-discovery&repos=133843125) which aligns to GitHub Epics & Issues in more detail._
 
 ## Current projects
 
@@ -7,8 +10,8 @@
 |----|----|
 |[VA Global Onsite Search- User Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11638) | Define |
 |[VA Global Onsite Search- Click Tracking](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14955) | Define |
-|[VA Global Offsite Search - Search Optimization]() | Define |
 |[VA Global Onsite Search - Type Ahead POC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8896) | Discovery |
+|[VA Offsite Search - Optimization](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11026) | Define |
 |[VA Forms 1.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10758) | Define |
 |[Yellow Ribbon](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8347) | Define |
 |[Best Bets/Top Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9538) | Define |
@@ -27,8 +30,8 @@
 
 
 
-### Additional potential future projects & feature requests from other teams
+### Additional/Potential future projects & feature requests from other teams
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
-|[Future Project 1]()| Team Name | Date if applicable| Status Note|
+|[Future Project TBD]()| Team Name | Date if applicable| Status Note|
