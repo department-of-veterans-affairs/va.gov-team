@@ -22,7 +22,7 @@ Staging reviews test the [happy path](https://en.wikipedia.org/wiki/Happy_path) 
 
 
 ## Future accessibility tests
-* **Keyboard end-to-end tests**<br/>These tests are currently written in Nightwatch, and will be ported to Cypress in the future. [Read more about the legacy Nightwatch tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/testing/508-automated-testing.md)
+* **Keyboard end-to-end tests**<br/>These tests are currently written in Nightwatch, and will be ported to Cypress in the future. [Read more about the legacy Nightwatch tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/testing/508-automated-testing.md).
 
 ## How to document that your team has completed the checklist
 
