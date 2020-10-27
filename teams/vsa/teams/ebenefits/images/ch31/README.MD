@@ -3,7 +3,7 @@
 <details>
   <summary>VR&E Reemployment track</summary>
 https://www.va.gov/careers-employment/vocational-rehabilitation/programs/reemployment/
-</hr>
+<hr>
   <details>
     <summary>Current</summary>
 
@@ -18,7 +18,7 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/programs/reemplo
 
 
   </details>
-</hr>
+<hr>
 </details>
 
 
