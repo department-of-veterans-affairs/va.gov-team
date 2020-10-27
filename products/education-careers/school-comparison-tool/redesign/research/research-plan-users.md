@@ -118,11 +118,12 @@ Observers: Brian Grubb brian.grubb@va.gov; Desiree Turner turner_desiree@bah.com
 
 ## Resources	
 - Project Brief: 	
-*Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/redesign/ct-redesign-discovery_product-outline.md	
 - Convo Guide	
-*Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
+1 - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/redesign/research/discussion-guide-users-vets-beneficiaries.md
+2 - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/redesign/research/discussion-guide-sco.md
 - Synthesis	
-*Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
+https://app.mural.co/t/bahdigitalexperience6902/m/bahdigitalexperience6902/1603279285871/f4978fd8967974485698cf7905b13cc79f90091f 	
 - Lessons Learned	
 *Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.* 	
 - Read-Out/Results	
