@@ -11,11 +11,13 @@
 
 1. Review launch support protocol and define severity levels for pre-launch issues [3055](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3055)
 1. Review [backlog](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1975)
-1. anything else
+
+Oct 28th morning - QA kickoff.
 
 ### Action items
 
-1.
+1. Jen to check-in w/ content team and let the CMS team know the exact time when to rebuild demo environment in prep for QA
+1. Oksana to update homepage w/ tepm category URLs today
 
 ## Tuesday October 23 - 12pmET
 
