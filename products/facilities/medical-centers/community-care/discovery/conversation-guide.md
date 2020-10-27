@@ -9,9 +9,7 @@
 
 ## Intro
 
-Thanks for joining us today! The session should take 30 minutes. Our goal is to understand your role as a Community Care Manager working with Veterans, service members and their families.
-
-Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about scheduling Veterans for community care.
+Thanks for joining us today! My name is Chris and I also have some colleagues on the line observing and taking notes. Today we're going to talk about scheduling Veterans for community care. Our goal is to understand your role as a Community Care Manager working with Veterans, service members and their families.
 
 Before we start, a few things I want to mention:
 
