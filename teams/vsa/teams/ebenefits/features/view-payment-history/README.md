@@ -97,12 +97,13 @@ The eBenefits Team will migrate this functionality from EBN to the modern front 
 --- 
 
 ## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
+- Update link on VA.gov to not revert back to eBenefits
+- Possibly update lanugage on eBenefits to repoint
+- Redirect eBenefit feature to VA.gov
 
 ## Target Launch Date
-- *What is your target launch date of your MVP/iteration?*
-- *What is your date for when you'll evaluate impact after launch?*
+- Target launch: December 2020
+- Post launch review: January 2021
 
 --- 
  
