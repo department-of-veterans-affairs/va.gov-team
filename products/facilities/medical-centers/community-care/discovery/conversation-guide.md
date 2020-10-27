@@ -30,11 +30,9 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 
 ###### Start recording to the Cloud
 
-## Questions
+[GENERATIVE QUESTIONING – 30 MIN]
 
-[GENERATIVE QUESTIONING – 30 MIN]  
-
-### Warm up  
+## Warm up  
 
 - How long have you been a community care manager at the VA? 
 
@@ -42,7 +40,7 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 
 - Have you worked as a community care manager in more than one district or region? 
 
-### Interview Questions 
+## Section 1 - Processing Requests 
 
 Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audiology) and non-VAOS specialties (suggest Chiropractor and Dermatology): 
 
@@ -53,6 +51,8 @@ Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audi
 
 - What information do you see from the VAOS request? Of that information, what do you use? What is helpful?
 
+## Section 2 - Searching for Care
+
 - How do you search for type of care/specialities? Where do you search for that data + providers?
    - What words/categories are used by the schedulers when searching?
    - Which specialties are the most commonly searched? Rarely searched? Never searched?
@@ -62,6 +62,8 @@ Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audi
    - What happens if no providers meet the criteria?
    
 - How do they handle naming ( individual provider name vs group practice name)?
+
+## Section 3 - Open Feedback
 
 - If you could change anything about community care online scheduling through VAOS what would it be?
 
