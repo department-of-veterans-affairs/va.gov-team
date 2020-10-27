@@ -13,10 +13,10 @@ Staging reviews test the [happy path](https://en.wikipedia.org/wiki/Happy_path) 
 - [ ] Color tests for proper contrast and colorblindness - [read more about contrast and colorblindness](#color-tests)
 - [ ] Content zoomed to 200%, 300%, 400% - [read more about zoomed layouts](#content-resize-check)
 - [ ] Keyboard navigation - [read more about navigating with the keyboard](#keyboard-navigation-check)
-- [ ] Screen reader tests (VoiceOver + Safari or NVDA + Firefox) - [read more about getting started with screen readers](#screen-reader-tests)
 
 ## Recommended accessibility tests
 
+- [ ] Screen reader tests (VoiceOver + Safari or NVDA + Firefox) - [read more about getting started with screen readers](#screen-reader-tests). Teams are encouraged to conduct their own screen reader tests, but DEPO platform acknowledges this is aspirational.
 - [ ] Axe-coconut scans in daily development - [read more about the axe-coconut experimental plugin](https://www.deque.com/blog/test-leading-edge-accessibility-axe-coconut-axe-core-3-0/)
 - [ ] WAVE tool spot checks - [read more about the WebAIM WAVE tool](https://wave.webaim.org/)
 
@@ -45,14 +45,21 @@ OR
 
 ## What to expect from accessibility specialists during staging review
 
-After you request a staging review, the accessibility specialist reviews your work and documents any defects in GitHub/ZenHub tickets. Accessibility issues should be fixed according to the following schedule:
+After you request a staging review, the accessibility specialist will review your foundational tests. When the foundational tests have been verified, the specialist will review your product using several browser and screen reader combinations:
+
+- Windows 10 + IE11/Chrome + JAWS
+- Windows 10 + Firefox + NVDA
+- MacOS + Safari + VoiceOver
+- iOS + Safari + Mobile VoiceOver (as time permits)
+
+The accessibility specialist attaches the tickets to a single ZenHub epic and assigns the epic to the person who requested the staging review. During the staging review meeting, you and your team can ask questions about any of the issues identified. Applications are not considered Section 508 compliant until all severity 0, 1, 2, and 3 issues are remediated. Severity 4 items include minor issues that must be fixed, enhancements, and research.
+
+Accessibility issues should be fixed according to the following schedule:
 
 * **Issues with a 508 defect rating of “0” or “1” are launch blockers.** These issues must be fixed before your product launches.
 * **508-defect-2** issues should be fixed in 1-2 sprints post-launch
 * **508-defect-3** issues should be fixed in 1-3 sprints
 * **508-defect-4** issues should be considered for fixes or exploration in 2-4 sprints
-
-The accessibility specialist attaches the tickets to a single ZenHub epic and assigns the epic to the person who requested the staging review. During the staging review meeting, you and your team can ask questions about any of the issues identified. Applications are not considered Section 508 compliant until all severity 0, 1, 2, and 3 issues are remediated. Severity 4 items include minor issues that must be fixed, enhancements, and research.
 
 All defect severities can be reviewed in detail in the [defect severity rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md).
 
