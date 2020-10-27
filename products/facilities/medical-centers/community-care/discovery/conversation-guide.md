@@ -43,7 +43,7 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 ## Section 1 - Processing Requests 
 
 Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audiology) and non-VAOS specialties (suggest Chiropractor and Dermatology): 
-
+ 
 - How does a community care request get processed by Request managers once it is received in Schedule Manager?
    - What are the different systems a Scheduler uses to process a community care request?
    
