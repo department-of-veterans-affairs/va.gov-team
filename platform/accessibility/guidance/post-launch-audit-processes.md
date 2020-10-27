@@ -16,6 +16,8 @@ The post-launch audit will focus on manual testing with mobile and assistive tec
 ## Issue Gathering and Triage
 * Issues will be collected as issues in a new ZenHub epic. The accessibility specialist will assign this epic to the project manager (PM) after the audit is complete.
 * Issues will be triaged according to their severity. Severity 0 and 1 issues must be fixed as soon as possible. Severity 2-4 issues should be prioritized and fixed in upcoming sprints. Teams should review the [accessibility defect severity rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md) if they have questions about issue severity or impact.
-* The project manager will email the VA 508 office when their application or content is ready for review. The project manager should notify the VA 508 office by email, and CC the VSP accessibility specialist. This email will list staging URLs, test user credentials, and any known issues.
-* The VSP accessibilty specialist will communicate any VA 508 office suggestions to the project manager who requested the full audit.
-* VFS accessibility specialists will work with stakeholders as issues are ready to be re-tested. When an issue has been resolved, the specialist or project manager should close it with a brief comment like _"Issue has been tested, and success criteria met. Moving to close."_
+* The project manager will email the VA 508 office when their application or content is ready for review. The project manager should notify the VA 508 office by email, and CC their VSP/VFS accessibility specialist. This email will list staging URLs, test user credentials, and any known issues.
+* VA 508 office suggestions or defects will be communicated to the project manager who requested the full audit:
+  * VSP will create tickets for teams who do not have an accessibility specialist
+  * VFS accessibility specialists will create tickets for their teams
+* VSP/VFS accessibility specialists will work with stakeholders as issues are ready to be re-tested. When an issue has been resolved, the specialist or project manager should close it with a brief comment like _"Issue has been tested, and success criteria met. Moving to close."_
