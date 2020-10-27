@@ -19,23 +19,29 @@ Revisions to text, formatting, features and design based on:
 
 
 ### CH36 screening wizard
-- [ ] Thing
-- [ ] More
-- [ ] Stuff
+- [ ] Increase prominence of "skip link" per mockups
+- [ ] Add "start over" feature per mockups
+- [ ] Revised intro copy per mockups
+- [ ] Change all message boxes within wizard from blue to light gray
+- [ ] Reformat final button CTA per mockups
+- [ ] Revise questions per content feedback
 
 ### Form intro screen
-- [ ] Thing
-- [ ] More
-- [ ] Stuff
+- [ ] Include wizard "start over" feature per mockups
+- [ ] Revise headers and all paragraph copy per mockups
+- [ ] Revise breadcrumbs to match IA feedback
+- [ ] Remove CH31 crossover language
+- [ ] Revise content to reflect "eligibility" over "form" in all headers
 
 ### VA form 22-8832
-- [ ] Thing
-- [ ] More
-- [ ] Stuff
+- [ ] Revise questions per content feedback
+- [ ] Change form stepper to match current form conventions
+- [ ] Fix stepper sequence to align with current step
+- [ ] Place details of communicationoptions copy into accordions
 
 ### Confirmation screen
-- [ ] Thing
-- [ ] More
+- [ ] Align screen formattion to current form conventions
+- [ ] Revise questions per content feedback
 - [ ] Stuff
 
 ---
