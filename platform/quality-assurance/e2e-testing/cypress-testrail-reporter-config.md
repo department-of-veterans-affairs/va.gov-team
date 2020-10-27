@@ -8,23 +8,47 @@ In order to begin writing your execution records from your Cypress e2e teests in
 
 ## TestRail API Key
 1. Log in to TestRail
-1. In the upper right of the interface find your name and click it to spawn a menu
-1. Select 'My Settings'
-1. Select the 'API KEYS' tab
-1. Click 'Add Key' link
-1. Use 'Add API Key' dialog to name the key something relevant like 'Cypress Integration'
-1. Click 'Generate Key'
-1. Copy the displayed key out and save it somewhere secure
-1. Click 'Add Key'
-1. Verify that key was added to list of API Keys
-1. Click 'Save Settings' **THIS IS VERY IMPORTANT. DON'T FORGET THIS STEP!**
+2. In the upper right of the interface find your name and click it to spawn a menu
+
+![Spawn Menu](spawnmenu.PNG)
+
+3. Select 'My Settings'
+4. Select the 'API KEYS' tab
+
+![API Keys Tab](apikeystab.PNG)
+
+5. Click 'Add Key' link
+6. Use 'Add API Key' dialog to name the key something relevant like 'Cypress Integration'
+
+![Generate Key](generatekey.PNG)
+
+7. Click 'Generate Key'
+8. Copy the displayed key out and save it somewhere secure
+
+![Add key](addkey.png)
+
+9. Click 'Add Key'
+10. Verify that key was added to list of API Keys
+
+![Verify key added](verifykeyadded.PNG)
+
+11. Click 'Save Settings' **THIS IS VERY IMPORTANT. DON'T FORGET THIS STEP!**
 
 ## Corresponding TestRail Objects
 1. Navigate to project dashboard
-1. Verify `projectID` in URL
-1. Navigate to 'Test Cases' tab
-1. Verify `suiteID` in URL
-1. Tag test cases in your Cypress test file by using the unique identifier of the test case in the test title
+2. Verify `projectID` in URL
+
+![Verify projectID](projectid.PNG)
+
+3. Navigate to 'Test Cases' tab
+4. Verify `suiteID` in URL
+
+![Verify suiteID](suiteid.PNG)
+
+5. Tag test cases in your Cypress test file by using the unique identifier of the test case in the test title
+
+![Use test case IDs in test](testcaseid.PNG)
+
 
 ## Environment Variables Set
 ```
