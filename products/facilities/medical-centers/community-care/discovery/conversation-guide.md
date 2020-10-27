@@ -20,8 +20,8 @@ This entire session should take about 30 minutes. I want to be sure not to keep 
 - I won’t be offended by any opinions you express.
 
 If for any reason and at any time you want to stop the session, please let me know.
-Are you comfortable if I record  audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
-If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
+I’ll be recording the audio as we talk today, so that we capture your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. Are you ok if I record audio?
+- **If yes** Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 Start recording.
 
 I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
