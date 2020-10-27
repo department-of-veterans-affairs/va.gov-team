@@ -1,0 +1,413 @@
+
+
+## Content outlines for Education forms wizard page and alerts
+
+
+1. {for 1990}
+
+# Apply for VA education benefits
+
+Equal to VA Form 22-1990 (Application for VA Education Benefits)
+
+## Is this the form I need?
+
+Answer a few questions to find out if VA Form 22-1990 is the right education form for you. If you’re an eligible dependent or family member you might need to apply for education benefits using a different form. 
+If you already know this is the correct form, you can go directly to the online application without answering questions. [Apply online with VA Form 22-1990](va.gov/education/apply-for-education-benefits/application/1990/introduction)
+
+Not sure you’re eligible for VA education benefits? [Find out if you’re eligible for education benefits](https://www.va.gov/education/eligibility/)
+
+Are you applying for a benefit or updating your program or place of training?
+
+    - I’m applying for a new benefit
+
+Are you a Veteran or service member claiming a benefit based on your own service?
+
+	   - Yes
+  
+Are you claiming a National Call to Service education benefit? (Learn more about eligibility requirements for [the National Call to Service program]( https://www.va.gov/education/other-va-education-benefits/national-call-to-service-program/)).
+
+	- No
+  
+Are you applying for Veteran Employment Through Technology Education Courses (VET TEC)? (You need to be a Veteran with at least 1 day of unexpired education benefits to be eligible for VET TEC).
+
+- No
+
+{alert} 
+Based on your responses, the right form for you is **VA Form 22-1990.**
+
+{CTA button} Apply online with VA Form 22-1990 
+
+[Learn about other ways you can apply for education benefits](https://www.va.gov/education/how-to-apply/)
+
+{end alert}
+
+
+{1990 H1 for form subway map intro page} 
+# Apply for VA education benefits with VA Form 22-1990
+
+
+-----------
+
+2. {For 1990N}
+
+# Apply for benefits under the National Call to Service program
+Equal to VA Form 22-1990N (VA Education Benefits under the NCS Program)
+
+## Is this the form I need? 
+
+Answer a few questions to find out if VA Form 22-1990N is the right education form for you. 
+If you already know this is the correct form, you can go directly to the online application without answering questions. [Apply online with VA Form 22-1990N](va.gov/education/apply-for-education-benefits/application/1990N/introduction)
+
+Not sure you’re eligible for VA education benefits? [Find out if you’re eligible for education benefits](https://www.va.gov/education/eligibility/)
+
+Are you applying for a benefit or updating your program or place of training?
+
+- I’m applying for a new benefit
+
+Are you a Veteran or service member claiming a benefit based on your own service?
+
+	- Yes
+  
+Are you applying for benefits under the National Call to Service program? (Learn more about eligibility requirements for [the National Call to Service program]( https://www.va.gov/education/other-va-education-benefits/national-call-to-service-program/)).
+
+	- Yes
+  
+{alert} 
+Based on your responses, the right form for you is **VA Form 22-1990N.**
+
+{CTA button} Apply online with VA Form 22-1990N 
+
+[Learn about other ways you can apply for education benefits](https://www.va.gov/education/how-to-apply/)
+
+{end alert}
+
+
+{1990N H1 for form subway map intro page} 
+
+# Apply for benefits under the National Call to Service program with VA Form 22-1990N
+
+
+----------
+
+3. {For 1995}
+
+# Change your education benefits 
+Equal to VA Form 22-1995 (Request for Change of Program or Place of Training)
+
+## Is this the form I need? 
+Answer a few questions to find out if VA Form 22-1995 is the right education form for you. If you already know this is the correct form, you can go directly to the online application without answering questions. [Apply online with VA Form 22-1995](va.gov/education/apply-for-education-benefits/application/1995/introduction)
+
+Not sure you’re eligible for VA education benefits? [Find out if you’re eligible for education benefits](https://www.va.gov/education/eligibility/)
+
+
+Are you applying for a benefit or updating your program or place of training?
+
+	- I’m updating my program of study or place of training
+  
+Are you using your own benefits or transferred benefits from a sponsor Veteran?
+
+- Yes 
+
+{alert}
+
+Based on your responses,  the right form for you is **VA Form 22-1995.** 
+
+{CTA button} Apply online with VA Form 22-1995 
+
+[Learn about other ways you can apply for education benefits](https://www.va.gov/education/how-to-apply/)
+
+{end alert}
+
+
+{1995 H1 for form subway map intro page} 
+
+# Change your education benefits with VA Form 22-1995 
+
+
+------
+
+4. {For 1990E}
+
+# Apply to use transferred education benefits
+Equal to VA Form 22-1990E (Application for Family Member to Use Transferred Benefits). 
+
+## Is this the form I need?
+Answer a few questions to find out if VA Form 22-1990E is the right education form for you. If you already know this is the correct form, you can go directly to the online application without answering questions. [Apply online with VA Form 22-1990E](va.gov/education/apply-for-education-benefits/application/1990E/introduction)
+
+Not sure you’re eligible for VA education benefits? [Find out if you’re eligible for education benefits](https://www.va.gov/education/eligibility/)
+
+Are you applying for a benefit or updating your program or place of training?
+
+- I’m applying for a new benefit
+
+Are you a Veteran or service member claiming a benefit based on your own service?
+
+	- No
+  
+Is your sponsor deceased, 100% permanently disabled, MIA, or a POW?
+
+	- No
+  
+Has your sponsor transferred their benefits to you?
+
+	- Yes
+
+{alert}:
+
+Based on your responses, the right form for you is **VA Form 22-1990E.** 
+
+{CTA button} Apply online with VA Form 22-1990E 
+
+[Learn about other ways you can apply for education benefits](https://www.va.gov/education/how-to-apply/)
+
+{end alert}
+
+
+{1990E H1 for form subway map intro page} 
+
+# Apply to use transferred education benefits with VA Form 22-1990E 
+
+---------
+
+
+5. {For 5490)
+
+# Change your dependent education benefits
+Equal to VA Form 22-5490 (Dependents’ Application for VA Education Benefits)
+
+## Is this the form I need?
+Answer a few questions to find out if VA Form 22-5490 is the right education form for you. If you already know this is the correct form, you can go directly to the online application without answering questions. [Apply online with VA Form 22-5490](va.gov/education/apply-for-education-benefits/application/5490/introduction)
+
+Not sure you’re eligible for VA education benefits? [Find out if you’re eligible for education benefits](https://www.va.gov/education/eligibility/)
+
+Are you applying for a benefit or updating your program or place of training?
+
+- I’m applying for a new benefit
+
+Are you a Veteran or service member claiming a benefit based on your own service?
+
+	- No
+  
+Is your sponsor deceased, 100% permanently disabled, MIA, or a POW?
+
+	- Yes
+
+{Alert} 
+
+Based on your responses, the right form for you is **VA Form 22-5490.** 
+
+{CTA button} Apply online with VA Form 22-5490 
+
+[Learn about other ways you can apply for education benefits](https://www.va.gov/education/how-to-apply/)
+
+{end alert}
+
+
+{5490 H1 for form intro page} 
+
+# Change your dependent education benefits with VA Form 22-5490
+
+
+
+---------
+
+
+
+6. {For 5495)
+
+# Manage your education benefits
+Equal to VA Form 22-5495 (Dependents’ Request for Change or Program or Place of Training)
+
+## Is this the form I need?
+Answer a few questions to find out if VA Form 22-5495 is the right education form for you. If you already know this is the correct form, you can go directly to the online application without answering questions. [Apply online with VA Form 22-5495](va.gov/education/apply-for-education-benefits/application/5495/introduction)
+
+Not sure you’re eligible for VA education benefits? [Find out if you’re eligible for education benefits](https://www.va.gov/education/eligibility/)
+
+Are you applying for a benefit or updating your program or place of training?
+
+	- I’m updating my program of study or place of training
+  
+Are you using your own benefits or transferred benefits from a sponsor Veteran?
+
+	- No. I’m using Fry Scholarship or DEA (Chapter 35) benefits
+  
+{alert} 
+
+Based on your responses, the right form for you is **VA Form 22-5495.**
+
+{CTA button} Apply online with VA Form 22-5495 
+
+[Learn about other ways you can apply for education benefits](https://www.va.gov/education/how-to-apply/)
+
+{end alert}
+
+
+{5495 H1 for form intro page} 
+# Manage your education benefits with VA Form 22-5495 
+
+
+--------
+
+
+7. {For Rogers STEM)
+
+# Apply for the Rogers STEM Scholarship
+Equal to VA Form 22-10203 (Application for Edith Nourse Rogers STEM Scholarship)
+
+## Is this the form I need?
+Answer a few questions to find out if VA Form 22-10203 is the right education form for you. If you already know this is the correct form, you can go directly to the online application without answering questions. [Apply online with VA Form 22-10203](https://www.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction)
+
+Not sure you’re eligible for VA education benefits? [Find out if you’re eligible for education benefits] (https://www.va.gov/education/eligibility/)
+
+Are you applying for a benefit or updating your program or place of training?
+
+	-I’m applying to extend my Post-9/11 or Fry Scholarship benefits using the Edith Nourse STEM Scholarship
+  
+{begin alert}
+**To be eligible for the [Rogers STEM Scholarship]( https://www.va.gov/education/other-va-education-benefits/stem-scholarship/), you need to meet all of these requirements**
+
+- You're using Post-9/11 GI Bill or Fry Scholarship benefits.
+
+o	You're enrolled in an undergraduate degree program for science, technology, engineering, or math (STEM), **or**
+o	You've already earned a STEM undergraduate degree and are working toward a teaching certification. [See eligible degree programs]( https://www.va.gov/education/other-va-education-benefits/stem-scholarship/) 
+
+o	have 6 months or less of your Post-9/11 or Fry Scholarship benefits left. Check your remaining benefits
+{end alert}
+
+Based on these eligibility requirements, do you want to apply for this scholarship?
+
+	Yes
+  
+{alert} 
+
+Based on your responses, the right form for you is **VA Form 22-10203.**
+
+{CTA} Apply online with VA Form 22-10203 
+
+[Learn about other ways you can apply for education benefits](https://www.va.gov/education/how-to-apply/)
+
+{end alert}
+
+
+{Rogers STEM H1 for form intro page} 
+#  Apply for the Rogers Stem Scholarship with VA Form 22-10203 
+
+-------
+
+8. {VET TEC}
+
+# Apply for Veteran Employment Through Technology Education Courses (VET TEC)
+Equal to VA Form 22-0994 Application for Veteran Employment Through Technology Education Courses (VET TEC).
+
+## Is this the form I need?
+Answer a few questions to find out if VA Form 22-0994 is the right education form for you. If you already know this is the correct form, you can go directly to the online application without answering questions. [Apply online with VA Form 22-0994](va.gov/education/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994/introduction)
+
+Not sure you’re eligible for VA education benefits? [Find out if you’re eligible for education benefits] (https://www.va.gov/education/eligibility/)
+
+
+Are you applying for a benefit or updating your program or place of training?
+
+- I’m applying for a new benefit
+
+Are you a Veteran or service member claiming a benefit based on your own service?
+
+	- Yes
+  
+Are you claiming a National Call to Service education benefit? 
+
+	- No
+  
+Are you applying for Veteran Employment Through Technology Education Courses (VET TEC)? (You need to be a Veteran with at least 1 day of unexpired education benefits to be eligible for VET TEC).
+
+	- Yes
+  
+{alert} 
+
+Based on your responses, the right form for you is **VA Form 22-0994.** 
+
+{CTA button} Apply online with VA Form 22-0994 
+
+[Learn about other ways you can apply for education benefits](https://www.va.gov/education/how-to-apply/)
+
+{end alert}
+
+{22-0994 H1 form intro page} 
+
+# Apply for Veteran Employment Through Technology Education Courses with VA Form 22-0994
+
+
+
+--------
+
+9. {user flow 9 
+
+#  Apply for VA education benefits
+Equal to VA Form 22-1990 (Application for VA Education Benefits)
+
+## Is this the form I need?
+
+Answer a few questions to find out if VA Form 22-1990 is the right education form for you. If you’re an eligible dependent or family member you might need to apply for education benefits using a different form. 
+
+If you already know this is the correct form, you can go directly to the online application without answering questions. [Apply online with VA Form 22-1990](va.gov/education/apply-for-education-benefits/application/1990/introduction)
+
+Not sure you’re eligible for VA education benefits? [Find out if you’re eligible for education benefits] (https://www.va.gov/education/eligibility/)
+
+Are you applying for a benefit or updating your program or place of training?
+
+	- I’m applying for new benefit
+  
+Are you a Veteran or service member claiming a benefit based on your own service?
+
+	- No
+  
+Is your sponsor deceased, 100% permanently disabled, MIA, or a POW?
+
+	- No
+  
+Has your sponsor transferred their benefits to you?
+
+	- No
+
+{alert} 
+
+Your sponsor needs to transfer their benefits to you so you can apply for education benefits. Your sponsor can [make a transfer request through milConnect] (https://milconnect.dmdc.osd.mil/milconnect/public/faq/Education_Benefits-How_to_Transfer_Benefits)
+
+[Learn more about using transferred Post-9/11 benefits]( https://www.va.gov/education/transfer-post-9-11-gi-bill-benefits/)
+
+{end alert}
+
+
+
+-------
+
+10. {user flow 10}
+Are you applying for a benefit or updating your program or place of training?
+
+	- I’m applying to extend my Post-9/11 or Fry Scholarship benefits using the Edith Nourse STEM Scholarship 
+  
+{begin alert}
+**To be eligible for the [Rogers STEM scholarship]( https://www.va.gov/education/other-va-education-benefits/stem-scholarship/), you need to meet all of these requirements**
+
+	You're using Post-9/11 GI Bill or Fry Scholarship benefits.
+
+o	You're enrolled in an undergraduate degree program for science, technology, engineering, or math (STEM), **or**
+o	You've already earned a STEM undergraduate degree and are working toward a teaching certification. [See eligible degree programs]( https://www.va.gov/education/other-va-education-benefits/stem-scholarship/) 
+
+o	You have 6 months or less of your Post-9/11 or Fry Scholarship benefits left. Check your remaining benefits
+{end alert}
+
+Based on these eligibility requirements do you want to apply for this scholarship?
+
+	No
+  
+{Alert}
+You may be eligible to get other VA education benefits or assistance. Learn more about [GI Bill and other education benefit eligibility]]( https://www.va.gov/education/eligibility/)
+
+{end alert}
+
+-----
+
+{Go back link on subway map page}
+
+If you don’t think this is the right form for you, [go back and answer questions again](return user to wizard they came from) 
+
