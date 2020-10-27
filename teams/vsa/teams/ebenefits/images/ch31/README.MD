@@ -25,7 +25,7 @@ https://www.va.gov/careers-employment/vocational-rehabilitation/programs/reemplo
   </details>
 </blockquote>
 
-```html
+```diff
 <div data-template="paragraphs/q_a_section" data-entity-id="4677">
   <div
     data-template="paragraphs/q_a"
