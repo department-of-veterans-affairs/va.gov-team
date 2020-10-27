@@ -18,5 +18,5 @@ _Team folder for the Search & Discovery Team (part of the Unauthenticated portfo
 ### Key Documents
 
 - [Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/search-discovery/team-charter.md)
-- [Roadmap- [Coming Soon]]()
+- [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/search-discovery/roadmap.md)
 
