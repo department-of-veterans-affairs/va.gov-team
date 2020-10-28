@@ -54,11 +54,12 @@ Cons:
 [Insert mock]
 
 ## Next Steps
-Choose direction (potentially focus on Option 1:Simple)
-Start working on all states
-What does the news feed section look like?
-Think about the journey, start on non-logged in VA page, what does the flow look like?
-Ryan believes testing both options is not necessary.
+- Make recommended changes
+- Start working on all states
+- What does the news feed section look like?
+- Get answers to questions listed above
+- Think about the journey, start on non-logged in VA page, what does the flow look like?
+- Ryan believes testing both options is not necessary and we should focus on the Simplified option.
 
 
 
