@@ -15,13 +15,56 @@ We should be conducting **generative user research** with all of these groups as
 
 ## User research process
 
+DEPO has written up a [process for doing research with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-process.md), but there are some different details to consider for doing research with VFS teams, which will be outlined in this document.
+
+
 - Make a plan
 - Recruit participants
 - Conduct sessions
 - Synthesize data
 - Read out results
 
-### Make a plan
+### 1. Make a plan
+
+#### Get organized
+
+Create a folder in the relevant product directory to house the research documents. Follow [these instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/repo-guidelines.md#naming-conventions) for naming your files and folders in Github.
+
+Put all project-related research in this folder, including:
+- Research plan
+- Conversation guide
+- Session notes
+- Synthesis
+- Readout
+
+Create a research epic to track the work in Zenhub. Tag Emily Waggoner, Naomi Marcussen, and Kevin Hoffman on the epic for awareness.
+
+#### Write a research plan
+
+Filling out the research plan will guide you through decisions about your research:
+
+- What are your goals?
+- What methodology will you use? (More on that below.)
+- Who do you want to talk to?
+- What is your timing?
+- Who will do what during the sessions?
+
+If you have a designer on your team, they should fill out this plan. 
+
+Copy the [VSP Research Plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/vsp-research-plan-template.md) into a new markdown file in your research folder and answer all the questions. If you need help making any decisions, reach out to Naomi, Emily, or Kevin.
+
+#### Write a conversation guide
+
+Once you’ve filled out your research plan, write a conversation guide. Use the [VSP Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/vsp-conversation-guide-template.md) template as a starting place. Whoever the moderator will be should generally write the conversation guide. (If you have a designer on your team, they should usually be the moderator.)
+
+A conversation guide is a script that organizes how you’d like each user research session to go. The moderator should plan to use it during each session and read directly from it. Feel free to go off-script and follow the natural flow of the conversation.
+
+These are most commonly used in synchronous research sessions, but can be adapted as a set of instructions to be given to the user asynchronously if necessary.
+
+**Pro tips:**
+- When drafting questions, write down every question you can think of and get input from all team members. Organize later.
+- When organizing, start with high level and general questions, then get more specific
+- Always begin with an intro that sets the stage of the project and session (start with the intro included in the template)
 
 
 #### Choosing a methodology
