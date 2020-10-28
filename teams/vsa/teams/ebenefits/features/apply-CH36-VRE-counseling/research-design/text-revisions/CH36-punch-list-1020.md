@@ -44,7 +44,7 @@ Revisions to text, formatting, features and design based on:
 
 ### Confirmation screen
 - [ ] Align screen formattion to current form conventions
-- [ ] Revise questions per content feedback
-- [ ] Stuff
+- [ ] Revise text blocks per content feedback
+- [ ] More...
 
 ---
