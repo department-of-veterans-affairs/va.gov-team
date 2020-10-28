@@ -1,10 +1,9 @@
-# Localization discovery: Meetings and interviews
+# Localization discovery: Meetings
 
 [MedlinePlus en español](#medline) <br>
 [Designing for translation: A Digital.gov multilingual and content web managers community meeting](#designing) 
 
 ### MedlinePlus en español
-Met with head of Medline Plus and lead for bilingual content
 (_notes not verbatim_) 
 
 - Have a Language Access Committee.
@@ -35,9 +34,9 @@ Met with head of Medline Plus and lead for bilingual content
 
 
 ## Designing for translation: A Digital.gov multilingual and content web managers community meeting 
+(_notes not verbatim_) 
 
 ### Design guidance
-(_notes not verbatim_) 
 
 - Take a comprehensive approach to language. Who needs to know this information? Would non-English speaking groups benefit from it? If yes, what languages are needed? Plan your content with these answers in mind.
 - Design with the differences in languages in mind: 
@@ -76,7 +75,7 @@ Met with head of Medline Plus and lead for bilingual content
 - Q. How do you balance the cost of translation with so many languages?
 - A. Go with your population or with what the Census tells you. Do a cut off.
 - Attendee tip: We use Clay Tablet to send our translations to the vendor. This takes a huge amount of the day-to-day CMS work largely out of the equation in terms of the work required by the web team to manage translations. Also, our translation vendor provides us with several rush options that are helpful in emergencies.
-- Attendee tip: Cistran out-of-the-box is a lot better, but it's a heavy lift of a product. In an emergency if you don't have an editor, you can put it up.
+- Attendee tip: Systran out-of-the-box is a lot better, but it's a heavy lift of a product. In an emergency if you don't have an editor, you can put it up.
 - Attendee tip: Check out HHS.gov Language Plan of Access.
 
   
