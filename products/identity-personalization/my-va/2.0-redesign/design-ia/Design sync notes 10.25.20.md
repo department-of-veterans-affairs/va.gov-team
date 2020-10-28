@@ -2,7 +2,14 @@
 Following last meeting, we have narrowed down the approach to two primary options. Listed here as "Simplified" and "Detailed".
 This document will discuss some of the proposed changes to each option, general feedback, questions to be answered, and next steps.
 
-## Option 1: Simplified
+## Option A: Simplified
+
+### Screenshots
+
+![myVA option A1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/design-ia/assets/myVA%20A1.jpg)
+
+![myVA option A2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/design-ia/assets/myVA%20A2.jpg)
+
 ### Feedback
 Change "View updates" or "View" anything to to "Go to". (Accessibility reasons)
 
@@ -33,7 +40,16 @@ How do we want to handle this?
 
 [Insert mock]
 
-## Option 2: Detailed
+## Option B: Detailed
+
+### Screenshots
+
+
+![myVA option B1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/design-ia/assets/myVA%20B1.jpg)
+
+![myVA option B2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/design-ia/assets/myVA%20B2.jpg)
+
+
 ### Feedback
 
 This is the accordion option.
