@@ -148,4 +148,9 @@ _To be completed once you have gathered your initial set of data, as outlined ab
 1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
 1. What qualitative feedback have you gathered from users or other stakeholders, if any?
 1. Which of the assumptions you listed in your product outline were/were not validated? 
-1. How might your product evolve now or in the future based on these results?
+   1. The 22-10203 STEM Scholarship application form will not change going forward. - This was mostly the case. There were some minor updates (text message opt-in) that required an update post-launch
+   1. The 22-10203 STEM Scholarship application can be completed without involving a School Certifying Official (SCO) in digital application process. - This is true. SCO involvement begins after submission
+1. How might your product evolve now or in the future based on these results? 
+   1. UAT is taking place with Veterans between 10/26 and 11/06 to validate the following features that were not released in our initial launch (set to go live in November 2020 assuming successful UAT)
+      1. Email is sent to the School Certifying Official associated with the applicant's previous enrollment data available via EVSS to notify them of what they need to do in support of the application process with Education Services. 
+      1. Remaining benefit entitlement data is displayed notifying ineligible applicants of the reason for their ineligibility when EVSS data is available. 
