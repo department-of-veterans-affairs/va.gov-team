@@ -185,17 +185,21 @@ Week 2 of sprint 33
 
 ### Profile
 
+**PM**
+
+- [Post-launch review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#post-launch-check-in)
+
 **PM/Design/FE**
 
 - Complete the tests and provide documentation for accessibility tests mentioned in #15247
 
 ### My VA redesign
 
-**PM**
-
-- [Post-launch review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#post-launch-check-in)
-
 **Design**
+
+**FE**
+
+- Reduce Javascript bundle size #1969
 
 ## Sprint 35 (11/18 – 12/1)
 
