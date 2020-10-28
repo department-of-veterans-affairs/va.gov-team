@@ -7,7 +7,7 @@ Per product sync today - We will launch batches per steps:
 
 1. [See MVP phases to launch](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/mvp-phases-to-launch)   
 
-2. QA and internally validate in [demo environment](http://learningcenter.demo.ci.cms.va.gov/): ~Oct 28 - Nov 3
+2. QA and internally validate in [demo environment](http://learningcenter.web.demo.ci.cms.va.gov/resources/): ~Oct 28 - Nov 3
 
 3. Fix any reported bugs in production environment. 
 
