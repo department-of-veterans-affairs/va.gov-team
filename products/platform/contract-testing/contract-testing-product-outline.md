@@ -20,14 +20,16 @@ How might we enable VFS teams to test integrations with vets-api in a non-produc
 ### Key Performance Indicators (KPIs)
 1. Number of incidents/quarter requiring postmortems related to `vets-api` integrations
 1. Number of CDCTs (Pacts) in [broker](https://vagov-pact-broker.herokuapp.com/)
+1. % of Pact tests that are passing
 1. % of VFS teams who self-report using Pact for all new integrations with `vets-api` 
 1. Qualitative feedback from VFS teams
 
 #### Baseline KPI Values
 1. _need to gather baseline_
-1. 0 baseline, 4 before testing with VFS teams
-1. 0 baseline
-1. baseline N/A
+1. N/A
+1. N/A
+1. N/A
+1. N/A
 
 ---
 
