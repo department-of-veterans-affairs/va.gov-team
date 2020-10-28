@@ -179,16 +179,15 @@ BE Subtotal (79-84)
 - 🌀 UAT (2)
 
 ### Building View VA Rep
-- Initial feature scaffolding
-- First pass at custom view components
-- Initial Redux code for API calls
-- Refine custom view components to better match mockup
-- Build one custom view component action
-- Unit tests for Redux implementation
-- Unit tests for custom view component
-- Swap dummy API call in Redux for correct URL and adjust data structure
-- Meet with Analytics team and get Google Analytics event names
-- Add Google events to View Task
+- [15545](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15545) Initial feature scaffolding
+- [15549](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15549) First pass at custom view components
+- [15551](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15551) Initial Redux code for API calls
+- [15552](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15552) Refine custom view components to better match mockup
+- [15553](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15553) Unit tests for Redux implementation
+- [15555](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15555) Unit tests for custom view component
+- [15556](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15556) Swap dummy API call in Redux for correct URL and adjust data structure
+- [15557](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15557) Meet with Analytics team and get Google Analytics event names
+- [15558](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15558) Add Google events to View Task
 - Internal accessibility audit
 - 508 testing
 
