@@ -7,11 +7,9 @@ Below are descriptions of potential solutions recommended by colleagues at DEPO 
 
 - Free for open source projects
 - Integrates well with GitHub
-- Provides a way to collaborate simultaneously with translators from one or more agencies on the same project (including voting on best translation option and tools to discuss translations, ask questions, mark irrelevant translations, and request more context). This could be particularly helpful if we have VHA's community of volunteers, as we could work with both them and professional translators on the same platform. 
-- Can find a translator find via Crowdin (or invite others to join project)
-- Automates source 
-- Provides automated quality assusrance
-- Provides 
+- Provides a way to collaborate simultaneously with translators from one or more agencies on the same project (including voting on best translation option and tools to discuss translations, ask questions, mark irrelevant translations, and request more context). This could be particularly helpful if we have VHA's community of volunteers, as we could work with both them and professional translators on the same platform. Can find a translator find via Crowdin (or invite others to join project).
+- Provides automated quality assurance
+
 - Provides option for in-context overlay that allows translators and proofreaders to work in the live application and instantly preview translations in context: https://support.crowdin.com/in-context-localization/
 
 
