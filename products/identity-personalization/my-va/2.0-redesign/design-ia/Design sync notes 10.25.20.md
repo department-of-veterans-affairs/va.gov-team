@@ -1,6 +1,6 @@
 # Design Sync notes from 10.25.20
 Following last meeting, we have narrowed down the approach to two primary options. Listed here as "Simplified" and "Detailed".
-This document will discuss some of the changes to each option, the pros/cons, questions to be answered, and next steps.
+This document will discuss some of the proposed changes to each option, general feedback, questions to be answered, and next steps.
 
 ## Option 1: Simplified
 Change "View updates" or "View" anything to to "Go to". (Accessibility reasons)
@@ -32,7 +32,7 @@ How do we want to handle this?
 
 [Insert image]
 
-Detailed:
+## Option 2: Detailed
 Insert photo
 
 ## Complication(s)
