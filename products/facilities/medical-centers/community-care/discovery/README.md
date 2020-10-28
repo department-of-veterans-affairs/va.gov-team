@@ -7,7 +7,7 @@ The Facilities and VAOS teams need better understanding of the process for searc
 
 ## What we need to do
 
-- Research and streamline the PPMS taxonomy for community care providers where possible
+- Research and streamline the PPMS taxonomy for Veterans and community care providers where possible
 
 ## Goals
 
