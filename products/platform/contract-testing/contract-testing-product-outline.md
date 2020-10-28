@@ -1,4 +1,4 @@
-# Contract Testing Product Outline [DRAFT]
+# Contract Testing Product Outline
 
 ## Overview
 Consumer-driven contract testing (CDCT) defines a contract between service consumers and providers (e.g. `vets-website` applications and `vets-api`). In this way, CDCT enables VFS teams to test integration points with `vets-api` in a non-production environment. This gives VFS teams the ability to ensure that their app is production-ready, and helps VSP ensure that platform-wide changes are non-breaking. 
@@ -11,7 +11,7 @@ How might we enable VFS teams to test integrations with vets-api in a non-produc
 ## Personas
 * VFS Teams 
   * Developers (FE & BE) — _primary persona_
-  * Product Managers — _need to understand impact that VSP's contract testing requirment will have on their teams_
+  * Product Managers
 * Other teams that integrate with `vets-api`
   * Lighthouse team
 
@@ -46,15 +46,14 @@ Pact has been identified as VSP's chosen contract testing tool, which will allow
 --- 
 
 ## Launch Dates
-- *Launch Date*: Estimated launch Oct 2020
+- *Launch Date*: Estimated launch Nov 2020
 
 ---
    
 ## Screenshots
 
-_Include before/after screenshots, if applicable. Delete this section otherwise._
-
 ### Before
+N/A
 
 ### After
 
@@ -83,6 +82,7 @@ _Link to the following materials as relevant._
 
 <details>
  
-_What offices/departments are critical to make this initiative successful?_
+DEPO
+VFS teams
  
 </details>
