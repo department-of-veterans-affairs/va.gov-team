@@ -232,6 +232,11 @@ This _may_ be a path for the future.
 Another reason why we don't want to do this right now is that we would lost the advantage of the ESLint configuration that is part of `vets-website`.
 Once this configuration is published we will be able to import it into any repo, and at that point it may make sense to move the forms library out of `vets-website`.
 
+#### Yarn workspaces
+
+Yarn workspaces were considered as a solution to this, they are added complexity without any significant benefit.
+We can use `yarn add link:./src/platform/packages/forms-library` to add the forms library to the `vets-website` package.json file and have it symlinked in the lock file automatically.
+
 ### Future Work
 
 #### Separate repo
