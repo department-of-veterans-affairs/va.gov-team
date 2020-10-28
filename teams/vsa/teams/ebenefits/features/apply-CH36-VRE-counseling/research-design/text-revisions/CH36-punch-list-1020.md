@@ -19,17 +19,19 @@ Revisions to text, formatting, features and design based on:
 
 
 ### CH36 screening wizard
-- [ ] Increase prominence of "skip link" per mockups
+- [ ] Change H1 to: "Apply for Personalized Career Planning and Guidance with VA Form 28-8832"
+- [ ] Revise paragraphy copy in "Is this the form I need?" section to match prototype
+- [ ] Remove "I know this is the form I need" section
+- [ ] Remove the "Do you have a service connected disability" section
 - [ ] Add "start over" feature per mockups
-- [ ] Revised intro copy per mockups
-- [ ] Change all message boxes within wizard from blue to light gray
+- [x] Change all message boxes within wizard from blue to light gray (#F1F1F1)
 - [ ] Reformat final button CTA per mockups
 - [ ] Revise questions per content feedback
 
 ### Form intro screen
 - [ ] Include wizard "start over" feature per mockups
 - [ ] Revise headers and all paragraph copy per mockups
-- [ ] Revise breadcrumbs to match IA feedback
+- [x] Revise breadcrumbs to: "Home > Careers and employment > Career planning and guidance > Apply for Personalized Career Planning and Guidance Form 28-8832"
 - [ ] Remove CH31 crossover language
 - [ ] Revise content to reflect "eligibility" over "form" in all headers
 
