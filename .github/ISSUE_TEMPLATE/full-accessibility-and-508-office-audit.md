@@ -1,9 +1,9 @@
 ---
 name: Full Accessibility & 508 Office Audit
 about: Request a full accessibility review during the rollout process
-title: Full Accessibility & 508 Office Audit [Feature-Name]
-labels: 508/Accessibility, product support, collaboration-cycle
-assignees: 1Copenut, jenstrickland
+title: Full Accessibility & 508 Office Audit [Team Name - Feature Name]
+labels: 508/Accessibility, vsp-product-support, collaboration-cycle, collab-cycle-review
+assignees: 1Copenut, shiragoodman
 
 ---
 
@@ -15,15 +15,12 @@ assignees: 1Copenut, jenstrickland
 
 ## Artifacts - _please provide the following artifacts when you request a full review_
 - Access information for the tool or feature in staging _**do not put staging credentials in your `va.gov-team` ticket; store or reference them in a .md file in the `va.gov-team-sensitive` repository**_
-- Link to your accessibility test plan:
-  - **TestRail** [TestRail VSP accessibility test plan template](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc) **OR**
-  - Complete/check-off the required items here:
-    - [ ] [Axe scans in daily development](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#axe-scans-in-daily-development)
-    - [ ] [Axe scans in end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#axe-scans-in-end-to-end-tests)
-    - [ ] [Color tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#color-tests)  
-    - [ ] [Content resize check](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#content-resize-check)
-    - [ ] [Keyboard navigation check](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#keyboard-navigation-check)
-    - [ ] [Screen reader tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#screen-reader-tests)
+- Link to verification that accessibility checks are complete:
+  - (preferred) Link to your [TestRail VSP accessibility test plan template](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc).
+OR
+  - Link to a doc in your product folder that indicates all required checks from the accessibility [staging review prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md) doc are complete.
+- List of known issues (with links to tickets when applicable)
+
 
 
 ## Additional Notes
