@@ -191,7 +191,7 @@ BE Subtotal (79-84)
 - Add Google events to View Task
 - Internal accessibility audit
 - 508 testing
-**Building Search**
+- **Building Search**
 - Scaffold component structure for Search form
 - Scaffold component structure for Search results
 - Scaffold component for confirmation page
