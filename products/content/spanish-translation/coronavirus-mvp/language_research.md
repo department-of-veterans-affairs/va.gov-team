@@ -52,15 +52,14 @@ I expected the link to be in the top right hand corner. Took a second but found 
 
 From March 15, 2020, to October 11, 2020, these are the total number of users visting the coronavirus FAQs in languages other than English:
 
-es-us - Spanish (United States): 11,459
-es-419 - Spanish (Latin America and Caribbean region): 4,658
-es-xl - Spanish (Latin America?): 4,569
-es-es - Spanish (Spain): 3,507
-zh-ch - Chinese (People's Republic of China): 684
-ko-kr - Korean (Korea): 422
-de-de - German (Germany): 124
-ko - Korean: 97
-fr-fr - French (France): 51
-
+1. es-us - Spanish (United States): 11,459
+2. es-419 - Spanish (Latin America and Caribbean region): 4,658
+3. es-xl - Spanish (Latin America?): 4,569
+4. es-es - Spanish (Spain): 3,507
+5. zh-ch - Chinese (People's Republic of China): 684
+6. ko-kr - Korean (Korea): 422
+7. de-de - German (Germany): 124
+8. ko - Korean: 97
+9. fr-fr - French (France): 51
 
 [coronavirus faqs page image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/spanish-translation/coronavirus-mvp/images/coronavirus%20faqs%20other%20languages%20image.png)
