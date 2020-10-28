@@ -185,7 +185,7 @@ Week 2 of sprint 33
 
 ### Profile
 
-**FE**
+**PM/Design/FE**
 
 - Complete the tests and provide documentation for accessibility tests mentioned in #15247
 
