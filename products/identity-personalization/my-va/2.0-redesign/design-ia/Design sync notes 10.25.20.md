@@ -60,6 +60,7 @@ Cons:
 - Get answers to questions listed above
 - Think about the journey, start on non-logged in VA page, what does the flow look like?
 - Ryan believes testing both options is not necessary and we should focus on the Simplified option.
+- Determine if we will test both options first before moving forward.
 
 
 
