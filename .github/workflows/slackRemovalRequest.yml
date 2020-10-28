@@ -22,6 +22,9 @@ jobs:
 
       - name: Send Slack message
         uses: archive/github-actions-slack@v1.0.3
+        if: |
+          github.event_name == 'issue_comment' && github.event.action == 'created'
+          && startsWith(github.event.comment.body, '/request')
         with:
           slack-bot-user-oauth-access-token: ${{ secrets.SLACK_BOT_USER_OAUTH_ACCESS_TOKEN }}
           slack-channel: vsp-operations
