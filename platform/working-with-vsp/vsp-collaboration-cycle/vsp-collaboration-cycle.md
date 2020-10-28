@@ -417,7 +417,7 @@ Accessibility experts complete a full accessibility audit and coordinate with th
 ### Request Process
 **VFS Product Manager** Two options: 
 
-1. [Request Full Accessibility & 508 Office Audit](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+product+support&template=full-accessibility-and-508-office-audit.md&title=Full+Accessibility+%26+508+Office+Audit+%5BFeature-Name%5D) 
+1. [Request Full Accessibility & 508 Office Audit](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+shiragoodman&labels=508%2FAccessibility%2C+vsp-product-support%2C+collaboration-cycle%2C+collab-cycle-review&template=full-accessibility-and-508-office-audit.md&title=Full+Accessibility+%26+508+Office+Audit+%5BTeam+Name+-+Feature+Name%5D) 
 1. Or select `Full Accessibility & 508 Office Audit` template in the Zenhub dropdown
 
 ### Artifact inputs
