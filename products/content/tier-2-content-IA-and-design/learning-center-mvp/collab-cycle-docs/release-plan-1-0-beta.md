@@ -61,7 +61,13 @@ Per product sync today - We will launch batches per steps:
   - We will check error rate after we hit 25 users or 5 business days. We want < 5% error rate.
   
   We will track errors for:
-  TBD
+  - Tags component
+  - Related information component
+  - VA benefits component
+  - Need more help? component
+  
+  We will not track errors for:
+   -  Functionality drop for 1.0 rolling to MVP 1.1: How do you rate your experience on this page? <--We updated this design and text to meet Medallia requirements, but we learned late that Medallia is not ready for implimentation and Foresee will not support our design concepts. 
   
 ### Results:
 
