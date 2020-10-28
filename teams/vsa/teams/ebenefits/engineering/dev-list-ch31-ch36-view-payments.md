@@ -191,13 +191,18 @@ BE Subtotal (79-84)
 - Add Google events to View Task
 - Internal accessibility audit
 - 508 testing
-**Building Search inside the form**
-- Scaffold component structure for 1 new task (a task is a thing to be accomplished by a user, it can be more than one disparate step)
-- Add basic logic to a main component (repeat for as many main components as needed)
-- Add more complex logic to a main component (repeat for as many main components as needed)
+**Building Search**
+- Scaffold component structure for Search form
+- Scaffold component structure for Search results
+- Scaffold component for confirmation page
+- Add basic logic to search form and search results
+- Add basic logic for confirmation page
+- Add more complex logic to search form and search results
 - Initial Redux code for API calls
 - Refine components to better match mockup (repeat for as many main components as needed)
-- Unit test component logic (reoeat for as many main components as needed)
+- Unit test component logic for search form component
+- Unit test component logic for search results component
+- Unit test component logic for confirmation page
 - Unit test Redux code
 - Swap dummy API call in Redux for correct URL and adjust data structure as needed
 - Work with back end team on outgoing payload structure
