@@ -90,11 +90,12 @@ Total = 26
 ## Chapter 31 (Deadline December 2020)
 ### Product
 - Request formal 508 audit (1)
-- Load TestRail (2)
-- Request QA Audit (1)
+- ✔ Load TestRail (2)
+- ✔ Request QA Audit (1)
+- Contact Center documentation (3)
 - Staging Review (1)
 - Privacy and Security Audit (2)  
-Total = 7  
+Total = 10  
 
 ### Front End
 - [12473](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12473) Flipper component on unauth landing page (8*)
