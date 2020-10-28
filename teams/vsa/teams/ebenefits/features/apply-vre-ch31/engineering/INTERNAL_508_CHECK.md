@@ -8,6 +8,9 @@
 - Hidden elements: Incompatible browser warning and hidding nav
 - Telephone component: element must have their visible text as part of their accessible name
 
+## Audit with Axe/-Coconut, and WAVE
+
+
 ### Introduction Page & Wizard
 - Wizard: 0 app specific issues found
 - Form Introduction Page: 1 non-app specific issue found:
@@ -36,3 +39,6 @@
     
 ### Review Page
 - 0 app specific issues found
+
+## Audit with VoiceOver
+- 1 issue found: Content inside `<AdditionalInfo />` Component is not focusable or read by VoiceOver. 
