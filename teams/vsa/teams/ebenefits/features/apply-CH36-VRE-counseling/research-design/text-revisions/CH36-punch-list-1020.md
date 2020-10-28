@@ -23,10 +23,11 @@ Revisions to text, formatting, features and design based on:
 - [ ] Revise paragraphy copy in "Is this the form I need?" section to match prototype
 - [ ] Remove "I know this is the form I need" section
 - [ ] Remove the "Do you have a service connected disability" section
-- [ ] Add "start over" feature per mockups
 - [x] Change all message boxes within wizard from blue to light gray (#F1F1F1)
 - [ ] Reformat final button CTA per mockups
-- [ ] Revise questions per content feedback
+- [ ] Capitalize Vocational Rehabilitation Counselor in stop alert: "Please contact your Vocational Rehabilitation Counselor to learn more about how to get  career planning and guidance benefits."
+- [ ] Add link, "Learn more about VA career planning and guidance eligibility" (https://www.va.gov/careers-employment/education-and-career-counseling/) to stop/alert: "To be eligible for Chapter 36 career planning and guidance, you must be a Veteran or service member, or a dependent of one."
+- [ ] Change final stop/alert text to, "When you’re ready to apply for career planning and guidance, just come back to this page to begin your application."
 
 ### Form intro screen
 - [ ] Include wizard "start over" feature per mockups
