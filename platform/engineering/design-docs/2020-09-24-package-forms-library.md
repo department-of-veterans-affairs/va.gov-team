@@ -48,7 +48,7 @@ There is a [helper file](https://github.com/department-of-veterans-affairs/vets-
 
 - [`ApplicationStatus.jsx`](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4a3172edc242bf60c93aec5b170c734dc57985/src/platform/forms/save-in-progress/ApplicationStatus.jsx#L6-L10)
 
-(The `vets-website` [PR #14468](https://github.com/department-of-veterans-affairs/vets-website/pull/14468) made some progress here, but `ApplicationStatus` presented some additional complexities.
+(The `vets-website` [PR #14468](https://github.com/department-of-veterans-affairs/vets-website/pull/14468) made some progress here, but `ApplicationStatus` presented some additional complexities.)
 
 Finally, there are some testing helpers that live in the `src/applications/hca` directory and are used in forms library tests:
 
@@ -99,7 +99,7 @@ Unit tests for the forms library _won't_ be run along with all the other tests i
 
 - The `vets-website` repo will be configured so that any changes to `src/platform/packages/forms-library` must pass a required check in CircleCI which will run all of the forms library tests
 - Forms library unit tests won't be run in PRs where only application code is being changed
-- This forms library-specific build process will happen so that engineers will _not_ be committing the built `/dist` folder to git
+- This forms library-specific build process will happen so that engineers will _not_ be committing the built files and folders to git
 
 Once the forms library is actually a package, app code will be updated to import from it directly.
 
@@ -171,7 +171,7 @@ This work should all be done together in one PR, so that the changed location of
 1. Add a `package.json` file to the new `forms-library` package directory
     - Any dependencies that are exclusively used by the forms library will go in here, and a `yarn install` from the `vets-website` root will install them.
     - Shared dependencies (like `react` and `react-redux`) will be configured to be [peer dependencies](https://flaviocopes.com/npm-peer-dependencies/)
-1. Add this new package as a dependency in the `vets-website` package.json file
+1. Add this new package as a symlinked dependency in the `vets-website` package.json file
 1. [Add a temporary alias to the `.babelrc` file](https://github.com/department-of-veterans-affairs/vets-website/blob/055d96c54e1df54138b9efc589b98e55962333b3/.babelrc#L50-L55) that redirects imports from `platform/forms` and `platform/forms-system` to the new package
 1. Edit the webpack config & use a custom `sass-loader` importer to _temporarily_ rewrite imports from `forms` to `forms-system`
     - This will prevent webpack from failing when it can't resolve the `.scss` files
