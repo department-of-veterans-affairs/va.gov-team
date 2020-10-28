@@ -112,7 +112,22 @@ active-duty service member or active-duty service NOT Active Duty service
 
 --------
 
-**5.  Bulleted lists**
+
+**5. Serial comma**
+We use the serial comma, also called the Oxford comma. We use a comma before a conjunction (and, or) in a sentence with a series of 3 or more items. The sentence can be misread if the serial comma is omitted.
+ 
+Learn about the benefits you may qualify for as a spouse, dependent, or survivor. 
+
+NOT
+
+Learn about the benefits you may qualify for as a spouse, dependent or survivor.
+
+
+
+-------
+
+
+**6.  Bulleted lists**
 When using “and” or “or” at the end of each bullet point, use a comma and bold the “and”/”or” at the end of each bullet point.
 
 For example: 
