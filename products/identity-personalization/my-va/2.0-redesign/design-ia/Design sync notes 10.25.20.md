@@ -36,12 +36,12 @@ How do we want to handle this?
 ## Option 2: Detailed
 ### Feedback
 
-This is the accordion option
+This is the accordion option.
 
 Appointments: View list chronologically by status
 
 We don’t need the “Go to recent activity/updates at the very top”.
-Test w/o it first. If Vets request it, test the option with it.
+- Test w/o it first. If Vets request it, test the option with it.
 
 Pros
 - Don’t have to go to the tool to see your stuff
