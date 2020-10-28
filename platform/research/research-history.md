@@ -56,6 +56,15 @@ This does not include research for Appeals projects, which is stored in differen
 
 ### July 2020
 
+#### July 7-30: VAOSr and Express Care
+*DEPO team, Melissa Schaff*
+
+- 15 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/july-2020-user-research)
+- [Report/synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/july-2020-user-research/2020-july-VAOSR-EC-research-report.md)
+
+**Keywords**: vaos, vaosr, online scheduling, express care, covid, coronavirus, user research, usabilty testing 
+
 #### July 13-16: Facility Locator - Urgent Care Mashup (usability test)
 *Ad Hoc: VSA Facilities, Leyda Hughes*
 - 8 participants
@@ -130,6 +139,15 @@ This does not include research for Appeals projects, which is stored in differen
 - This study was part of a larger discovery effort including [stakeholder interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/stakeholder-interviews/stakeholder-interview-synthesis.md), a [comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/comparative-analysis.md), a [review of analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/analytics/analytics-summary.md), and a [review of past research studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/previous-research-review.md).
 
 **Keywords**: personalization, dashboard, notifications, alerts, co-design, collaborative design, participatory design, generative research
+ 
+#### May 1-8: Express Care
+*DEPO team, Melissa Schaff*
+
+- 11 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/express-care-research/2020-may-research)
+- [Report/synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/express-care-research/2020-may-research/express-care-research-report.md)
+
+**Keywords**: express care, virtual care, online appointments, video appointments, urgent care, vaos, covid, coronavirus, user research, usabilty testing 
  
 #### May 06: Comparative analysis. Status tracking
 *BaM 1, Lead Researcher: Christian Valla*
