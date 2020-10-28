@@ -69,16 +69,16 @@ Always capitalize the following:
 **3. Time and dates**
 
 Write out times using a.m. and p.m. with periods
- 9:00 a.m. NOT: 9 am or 9 a.m.
+ - 9:00 a.m. NOT: 9 am or 9 a.m.
 
 Spell out noon and midnight NOT: 12:00 p.m. or 12:00 a.m.
 
 Time zones should be written with no periods
 
-ET  Not E.T.<br>
-CT  Not C.T.<br>
-MT  Not M.T.<br> 
-PT  Not P.T.<br> 
+- ET  Not E.T.<br>
+- CT  Not C.T.<br>
+- MT  Not M.T.<br> 
+- PT  Not P.T.<br> 
 
 For dates:
 Use numbers (1, 2, 3, 4, etc.) by themselves, without the st, nd, rd, th. 
@@ -100,9 +100,9 @@ active-duty service member or active-duty service NOT Active Duty service
 
 **sign in, sign out:** Don’t use log in, log out, or sign on
 
-Log in = sign in
-Log out = sign out
-Sign on = sign in
+- Log in = sign in <br>
+- Log out = sign out<br>
+- Sign on = sign in
 
 **email:** no hyphen. Not: e-mail
 
