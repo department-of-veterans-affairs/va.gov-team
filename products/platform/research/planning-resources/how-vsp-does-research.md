@@ -25,7 +25,7 @@ DEPO has written up a [process for doing research with Veterans](https://github.
 - Read out results
 
 ### 1. Make a plan
-
+---
 #### Get organized
 
 Create a folder in the relevant product directory to house the research documents. Follow [these instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/repo-guidelines.md#naming-conventions) for naming your files and folders in Github.
@@ -68,6 +68,27 @@ These are most commonly used in synchronous research sessions, but can be adapte
 
 
 #### Choosing a methodology
+
+Defining your research goals (as you write your research plan) will help you select a methodology (or a combination of them). In order to answer your research questions, you’ll need to get information somehow, but how? And what kind of information?
+
+**Are you looking for...**
+
+**... Quantitative or qualitative data?**
+- Qualitative data: observational findings that identify tasks as easy or hard to complete
+- Quantitative data: in the form of one or more metrics (such as task completion rates or task times) that reflect whether the tasks were easy to perform
+
+**... Behavioral or attitudinal information?**
+- Behavioral: What people do
+- Attitudinal: What people say, how they feel
+
+**... Formative or evaluative information?**
+- Formative: Starting from scratch, understanding a problem, discovery
+- Evaluative: You have a thing to test and want to know how it performs
+
+**How would you like to gather this information? What would be most effective?**
+- Synchronously: Researcher is present and moderates the data gathering
+- Asynchronously: Researcher is not present, data gathering is unmoderated
+
 
 
 ### Recruit participants
