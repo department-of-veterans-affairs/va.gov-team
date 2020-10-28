@@ -44,12 +44,12 @@ We don’t need the “Go to recent activity/updates at the very top”.
 Test w/o it first. If Vets request it, test the option with it.
 
 Pros
-Don’t have to go to the tool to see your stuff
-Detailed: 1 click to get to detailed info
+- Don’t have to go to the tool to see your stuff
+- Detailed: 1 click to get to detailed info
 
 Cons: 
-Becomes a problem when you have a lot of stuff
-Feels less like a dashboard
+- Becomes a problem when you have a lot of stuff
+- Feels less like a dashboard
 
 [Insert mock]
 
