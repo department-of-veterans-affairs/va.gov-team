@@ -35,9 +35,9 @@ We will = we’ll
 
 Some exceptions:
 
---Use “it’s” ONLY for a contraction of “it is,” never “it has”  or “its”
+- Use “it’s” ONLY for a contraction of “it is,” never “it has”  or “its”
 
---Don’t use non-standard contractions for the following: 
+- Don’t use non-standard contractions for the following: 
 
 **NO contractions for the following words:** 
 
@@ -74,10 +74,11 @@ Write out times using a.m. and p.m. with periods
 Spell out noon and midnight NOT: 12:00 p.m. or 12:00 a.m.
 
 Time zones should be written with no periods
-E.T. = ET
-C.T. = CT
-M.T. = MT
-P.T.  = PT
+
+ET  Not E.T.<br>
+CT  Not C.T.<br>
+MT  Not M.T.<br> 
+PT  Not P.T.<br> 
 
 For dates:
 Use numbers (1, 2, 3, 4, etc.) by themselves, without the st, nd, rd, th. 
@@ -91,14 +92,13 @@ Use numbers (1, 2, 3, 4, etc.) by themselves, without the st, nd, rd, th.
 **active duty:** Hyphenate when it modifies a noun. Don’t capitalize. 
 active-duty service member or active-duty service NOT Active Duty service 
 
-**federal:** don't capitalize for generic usage For example, a federal agency NOT a Federal agency
+**federal:** don't capitalize for generic usage For example. NOT: a Federal agency
 
 **GI:** no periods. Don't write as G.I.
 
 **PO Box:** no periods. Don't write as P.O. Box
 
-**sign in, sign out:** We use sign in and sign out on VA.gov. 
-Don’t use log in, log out, or sign on
+**sign in, sign out:** Don’t use log in, log out, or sign on
 
 Log in = sign in
 Log out = sign out
@@ -106,7 +106,7 @@ Sign on = sign in
 
 **email:** no hyphen. Not: e-mail
 
-**Social Security number:** Don’t capitalize number. NOT Social Security Number
+**Social Security number:** Don’t capitalize "number". NOT Social Security Number
 
 **health care:** Two words. Not: healthcare
 
