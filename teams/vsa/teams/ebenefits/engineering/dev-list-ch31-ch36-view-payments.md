@@ -98,7 +98,7 @@ Total = 7
 
 ### Front End
 - [12473](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12473) Flipper component on unauth landing page (8*)
-- [12421](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12421) Unit test static Veteran Info page  (3)
+- ✔ [12421](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12421) Unit test static Veteran Info page  (3)
 - ✔ Unit test the non-static Veteran Info page (3)
 - ✔ [14918](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14918) Unit test the Veteran Address page  (3)
 - ✔ [12034](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12034) Unit test Communication Preferences  (3)
