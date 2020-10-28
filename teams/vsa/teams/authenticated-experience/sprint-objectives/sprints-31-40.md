@@ -183,6 +183,12 @@ Week 2 of sprint 33
 
 ## Sprint 34 (11/4 – 11/17)
 
+### Profile
+
+**FE**
+
+- Complete the tests and provide documentation for accessibility tests mentioned in #15247
+
 ### My VA redesign
 
 **PM**
