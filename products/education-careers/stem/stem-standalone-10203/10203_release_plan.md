@@ -149,12 +149,9 @@ _To be completed once you have gathered your initial set of data, as outlined ab
 
 1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"? **Need to get numbers from Buffalo on eligible applications**
 1. What qualitative feedback have you gathered from users or other stakeholders, if any?
-  
-  Users have remarked that it’s fairly easy for them to complete the form.  They appreciate the prefill information.  
-
-  The PDF with STEM majors is still a challenge for them, though.  
-
-  Ineligible applicants who find the STEM Scholarship application may still submit an application, even though they see and understand the ineligibility alerts, because “You never know unless you ask.”  
+> Users have remarked that it’s easy to complete the application.  They appreciate the prefill information.  
+> The PDF with STEM majors is still a challenge for them, though.  
+> Ineligible applicants who find the STEM Scholarship application may still submit an application, even though they see and understand the ineligibility alerts, because “You never know unless you ask.”  
 
   
 1. Which of the assumptions you listed in your product outline were/were not validated? 
