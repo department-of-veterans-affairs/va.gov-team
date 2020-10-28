@@ -12,8 +12,6 @@ Below are descriptions of potential solutions recommended by colleagues at DEPO 
 
 - Provides option for in-context overlay that allows translators and proofreaders to work in the live application and instantly preview translations in context: https://support.crowdin.com/in-context-localization/
 
-
-
 ## Translations.com
 
 - Uses machine translation to speed up high-volume workloads, with human translators checking each step. Achieved full certification to the ISO 18587 standard for translation quality using artificial intelligence methods.
@@ -30,3 +28,13 @@ Below are descriptions of potential solutions recommended by colleagues at DEPO 
   - Allows for greater customization (not a lot of info on this)
 - Chat translation (WorldLingo) for real-time multilingual chat
   
+## Drupal multilingual modules
+
+- A .gov site content manager noted using and liking Drupal multilingual modules. This content manager noted that they use this for managing the translated content, but still use human translators for the actual translation. This may be a longer-term option, dependent on CMS team capacity. More information: https://www.drupal.org/docs/multilingual-guide
+- A 
+
+## SYSTRAN
+
+## Clay Tablet
+
+## Lilt
