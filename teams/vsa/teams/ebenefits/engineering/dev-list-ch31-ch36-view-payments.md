@@ -136,6 +136,102 @@ Product Subtotal (21)
 FE Subtotal (128)  
 BE Subtotal (79-84)  
   
+## View my VA Representative
+### Product
+- Request formal 508 audit (1)  (Now happening in staging review)
+- Load TestRail (2)  
+- 🌀 Request QA Audit (1) 
+- 🌀 Usability Prep and sessions (2)
+- 🌀 Staging Review (1)  
+- 🌀 Privacy and Security Audit (2) 
+- 🌀 UAT (2)
+
+### Frontend
+- Initial feature scaffolding
+- First pass at custom view components
+- Initial Redux code for API calls
+- Refine custom view components to better match mockup
+- Build one custom view component action
+- Unit tests for Redux implementation
+- Unit tests for custom view component
+- Swap dummy API call in Redux for correct URL and adjust data structure
+- Meet with Analytics team and get Google Analytics event names
+- Add Google events to View Task
+- Internal accessibility audit
+- 508 testing
+
+### Backend
+- Build a serializer (5)
+- Set up the controller (3)
+- Set up the model (5)
+- Set up a sidekiq job  (3)
+- Set up sentry events  (5)
+- Test submission against environment (5) 
+
+## Appoint my VA Representative (with Search inline with form)
+### Product
+- Request formal 508 audit (1)  (Now happening in staging review)
+- Load TestRail (2)  
+- 🌀 Request QA Audit (1) 
+- 🌀 Usability Prep and sessions (2)
+- 🌀 Staging Review (1)  
+- 🌀 Privacy and Security Audit (2) 
+- 🌀 UAT (2)
+
+### Frontend
+- Initial feature scaffolding
+- First pass at custom view components
+- Initial Redux code for API calls
+- Refine custom view components to better match mockup
+- Build one custom view component action
+- Unit tests for Redux implementation
+- Unit tests for custom view component
+- Swap dummy API call in Redux for correct URL and adjust data structure
+- Meet with Analytics team and get Google Analytics event names
+- Add Google events to View Task
+- Internal accessibility audit
+- 508 testing
+**Building Search inside the form**
+- Scaffold component structure for 1 new task (a task is a thing to be accomplished by a user, it can be more than one disparate step)
+- Add basic logic to a main component (repeat for as many main components as needed)
+- Add more complex logic to a main component (repeat for as many main components as needed)
+- Initial Redux code for API calls
+- Refine components to better match mockup (repeat for as many main components as needed)
+- Unit test component logic (reoeat for as many main components as needed)
+- Unit test Redux code
+- Swap dummy API call in Redux for correct URL and adjust data structure as needed
+- Work with back end team on outgoing payload structure
+- Meet with Analytics team and get Google Analytics event names
+- Add Google events to components
+- Internal accessibility audit
+
+
+### Backend
+- Request formal 508 audit (1)  (Now happening in staging review)
+- Load TestRail (2)  
+- 🌀 Request QA Audit (1) 
+- 🌀 Usability Prep and sessions (2)
+- 🌀 Staging Review (1)  
+- 🌀 Privacy and Security Audit (2) 
+- 🌀 UAT (2)
+
+## Search for a VA Representative
+### Product
+- Request formal 508 audit (1)  (Now happening in staging review)
+- Load TestRail (2)  
+- 🌀 Request QA Audit (1) 
+- 🌀 Usability Prep and sessions (2)
+- 🌀 Staging Review (1)  
+- 🌀 Privacy and Security Audit (2) 
+- 🌀 UAT (2)
+
+### Frontend
+### Backend
+
+  
+  
+  
+  
 Mean FE Velocity/sprint [30 points across 9 issues]   
 Mean BE Velocity/sprint [21 points across 7 issues]   
 
