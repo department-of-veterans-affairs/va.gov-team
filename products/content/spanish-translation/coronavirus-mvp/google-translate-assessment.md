@@ -22,6 +22,8 @@
 
 -	The ability to gather accurate usage data may be limited by the on-page nature of the widget. If we don’t have a separate Spanish-language page, the Spanish content won’t appear in search results. If we only provide a translation option on one page with no translation of site navigation, users navigating the site will only know this translated content exists if they’re on this one page. Both of these limit findability and awareness of Spanish-language content.
 
+- The user experience is also limited by the widget. Best practice is to not make people go through the English content to get to the translated content.
+
 ## Google translate API
 
 ### Initial research summary
