@@ -35,17 +35,20 @@ It is beneficial to conduct internal QA. This consisf of the team allocating 1 h
 
 ## Release
 
+### Release Plan
+- [ ] Complete release plan [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Release%20Plan.md)
 
+### UAT
+- [ ] Conduct UAT Go/No-Go meeting [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/uat-go-nogo.md)
+- [ ] UAT has been conducted
+- [ ] Issues have been logged/added to the [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Release%20Plan.md)
+- [ ] Critical UAT issues have been resolved
 
+### Phased Launch
 
-
-## Release Plan
-
-## UAT
-
-## Phased Launch
 
 ## Monitoring
+
 
 ## Post Launch
 
