@@ -8,6 +8,8 @@
 
 ## Appointment Type
 
+There is a type on the appointment object. But there are some questions around it. 
+
 ### Questions
 
 1. In the data for appointmenet types, where does the ID come from? 
