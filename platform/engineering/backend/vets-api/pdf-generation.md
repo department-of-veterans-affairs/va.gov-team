@@ -65,26 +65,32 @@ PdfFill::Filler.fill_form(burial_claim) # => "tmp/pdfs/21P-530_1.pdf"
 5. Add your form the the common `filler` spec.
     - Add your form's ID to the list in `spec/lib/pdf_fill/filler_spec.rb`
 ```ruby
-  # ...
-  `%w[21P-530 21P-527EZ 10-10CG].each do |form_id|`
-  # ...
-  fact_names = {
-    '21P-527EZ' => :pension_claim,
-    '21P-530' => :burial_claim,
-    '10-10CG' => :caregivers_assistance_claim
-  }
+  describe '#fill_form', run_at: '2017-07-25 00:00:00 -0400' do
+    [
+      {
+        form_id: '21P-530',
+        factory: :burial_claim
+      },
+      {
+        form_id: '21P-527EZ',
+        factory: :pension_claim
+      },
+      #...
 ```
    - Add the related fixtures in `spec/fixtures/pdf_fill/{YOUR_FORM_ID}/`: `simple.json`, `simple.pdf`, `kitchen_sink.json`, `kitchen_sink.pdf`, `overflow.json`, `overflow.pdf`, `overflow_extras.pdf`
 
 ## FAQ
 - How do I find the field names, or "keys", of my new pdf form?
 
-You can call `PdfForms#get_fields` to get a list of the available fields in your pdf.
+You can call `PdfForms#get_fields` to get a list of the available fields in your pdf. In irb:
   ```ruby
+  require 'pdf-forms'
   pdftk = PdfForms.new('/usr/local/bin/pdftk')
-  fields = pdftk.get_fields '/Users/kevinmircovich/Documents/code/va/vets-api/lib/pdf_fill/forms/pdfs/10-10CG.pdf'
-  fields[12] #<PdfForms::Field:0x00007f95884ea938 @type="Text", @name="form1[0].#subform[2].TextField3[9]", @name_alt="Alternate Telephone Number (Including area code).", @flags="8388608", @justification="Left">
-  fields[16] #<PdfForms::Field:0x00007f95884fa900 @type="Button", @name="form1[0].#subform[2].FACILITYMEDTREATMENT[0]", @name_alt="Name of facility where you last received medical treatment. Hospital. ", @flags="0", @justification="Left", @value="Off", @options=["2", "Off"]> 
+  fields = pdftk.get_fields "#{Dir.pwd}/lib/pdf_fill/forms/pdfs/10-10CG.pdf"
+  fields[12]
+  # => #<PdfForms::Field:0x00007feeaf8b2cc0 @type="Text", @name="form1[0].#subform[2].TextField3[9]", @name_alt="Alternate Telephone Number (Including area code).", @flags="8388608", @justification="Left">
+  fields[16].name
+  # => "form1[0].#subform[2].FACILITYMEDTREATMENT[0]" 
 
   ```
 

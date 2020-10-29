@@ -90,7 +90,19 @@ Q2 2020
 
 Q2 2020
 
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/tools/backend/Product/external-services-research)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/external%20services)
+
+
+<br>
+
+#### Documentation Tooling Research
+
+*Content and IA: Megan Kelley, Gretchen Maciolek, Bill Fienberg, Kristina Gore*
+
+Q2 2020
+
+- [Readout](https://docs.google.com/presentation/d/1FUMIikoxUuMAKd5NhHcOHd6OvP9bnukhALsW6xG5_vY/edit#slide=id.p1)
+- [Tooling Recommendation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/v2/confluence-recommendation-5-2020.md)
 
 
 <br>
@@ -102,3 +114,16 @@ Q2 2020
 Q1 2020
 
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/developer-experience)
+
+<br>
+
+#### Test Account Discovery Sprint
+
+*Service Design: James Chasia, Naomi Marcussen*
+*QA Engineering: Peter Hill*
+*BE Engineering: Keifer Furzland*
+
+Q4 2019
+
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/testing)
+

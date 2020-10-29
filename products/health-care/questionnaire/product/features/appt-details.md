@@ -25,18 +25,26 @@ Status of Appointment
 Encounter for Appointment to match our questionnaire to the clipbaord
 
 5. **Form Type** 
+- [ ] Display Appointment information
+		 - [ ] Facility Name
+		 - [ ] Facility Address/Contact numbers
+		 - [ ] Appt. Type/Name 
+         - [ ] We need to know the appt. type ie. New Patient, Established Patient, Followup, Adult Physical..etc. and then the appt. header should be specific to the appt. type.  These names are super cryptic so the idea is that we could have a mapping to allow for a display as in patient friendly speak. 
+		 - [ ] Appt. Time
     - Primary Care Questionnaire Title
-    - Facility
-    - Dr. Name? Does this come from the api for appointments? 
-    - Date and Time.
     - [See Loma Linda example for content](https://dsva.slack.com/files/U5HMZDQSK/F016MHJ9MMJ/605-10318183-9694-3200611-140444-pvs_1_.pdf) 
 6.  Questionnaire Trigger - VAOS/CPRS - association of facility/encounter to trigger questionnaire that applies.
+
 
 
 ## Mockup
 <img src="insertimage embedded" width="500">
 
 # Technical Documentation 
+
+- [Notes with VetText team for Technical Implementation Options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/vetext-meeting-sept18.md) 
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/assets/clipboard-VEText.jpg" width="500">
 
 ## Accessibility Checklist
 
@@ -96,8 +104,8 @@ Encounter for Appointment to match our questionnaire to the clipbaord
 </details>
 
 ## Out of scope 
+- When moving to Cerner EHR will need to consider Provider Name as an appt. detail to add to the form 
 
- 1. 
 ## OKR's
 
 

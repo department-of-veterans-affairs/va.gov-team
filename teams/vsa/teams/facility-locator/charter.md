@@ -42,9 +42,10 @@ ________________________________________
 - VA UI Design Lead: Ryan Thurlwell
 - UX/Design: 
   - Leyda Hughes (June 2020 - present)
+  - Chris Logan (October 2020 - present)
   - Aricka Lewis (September 2019 - June 2020) 
 - Back End Engineer
-   - Lance Sanchez (October 2019 - shared resource beginning June 2020)
+   - Lance Sanchez (October 2019)
 - Front End Engineer
   - Michael Pelz-Sherman (June 2020- present)
   - Gilbran Rodriguez (October 2019 - present)

@@ -4,6 +4,7 @@
 
   - [Checklists](#checklists)
   - [Accessibility Tips for Designers, Researchers, and Developers](#accessibility-tips-for-designers-researchers-and-developers)
+  - [Inclusive Best Practices for Development](#inclusive-best-practices-for-development)
   - [Semantic Markup](#semantic-markup)
   - [Formation Design System](#formation-design-system)
   - [Automated Accessibility/508 Testing](#automated-accessibility508-testing)
@@ -29,6 +30,15 @@
 Accessibility is an outcome, generally linked to compliance, ensuring solutions are usable by everyone. Inclusive design is a human-centered process considering user diversity, by including and learning from a range of perspectives. Accessibility and inclusive design should be a part of all product design and development conversations to ensure no one is excluded from using the solutions.
 
 The following recommendations have been put together to help teams identify and mitigate accessibility errors during the design, research, and development cycles. There will always be errors that are identified during test and promotion cycles; the goal is to minimize errors called out by clients and end users.
+
+## Inclusive Best Practices for Development
+
+Within the code itself there is accessibility work to be done, as the code must be accessible for others. There are devs who have disabilities, as well as those with situational or temporary considerations such as being new, non-native speakers, tired, depressed, stressed, cognitively fatigued, overwhelmed, etc. Proper commenting and thoughtful architecture can meet people where they are. All documentation must be accessible — 508 compliant at a minimum. 
+
+- Incorporate comments throughout the codebase to clarify the reasoning for each part and component of the work, whether it is a website, app, or API
+- When using test data, make it incredibly obvious it’s not real data; Use obviously silly strings and name variables to make it easy to scan a test and understand what’s going on
+- Provide development documentation in accessible formats, and validate with accessibility reviews of said documents
+- Establish CI/CD automated accessibility scans, paired with manual audits for keyboard, color contrast, screen readers, cognition, etc.
 
 ## Semantic Markup
 

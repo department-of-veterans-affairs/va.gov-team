@@ -115,37 +115,49 @@ _More stages? Sure! If it makes sense for your product! Plan them out with the s
 
 ### Planning:
 - Desired date: 9/10/2020
-- Post-launch KPI 1: xx lorem ipsum
-- Post-launch KPI 2: xx lorem ipsum
-- Post-launch KPI 3: xx lorem ipsum
-- etc
+- Post-launch KPI 1: Successful 22-10203 STEM Scholarship Application submissions esp. compared to applications via 22-1995
+- Post-launch KPI 2: Valid 22-10203 Application submissions, # and %
+
 - Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
 
 ### 1-week results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Number of unique users: 233/572 conversions, 39% conversion rate (Google Analytics)
+- Post-launch KPI 1 actual: 233 successful submissions (Google Analytics)
+- Post-launch KPI 2 actual: **Need to get numbers from Buffalo on eligible applications week 1**
+- Any issues with VA handling/processing?: **yes/no, lorem ipsum**
+- Types of errors logged: **lorem ipsum**
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? Yes
+- If yes, what: 
+  - Updating the “Sign in or create an account” button color, per DEPO input
+  - Minor modifications to application intro & application chapters, per usability testing
+  - Incorporating “Do you want to receive text messages” question on Personal information page, per VA request
+  - Updating breadcrumbs, per DEPO input
+
 
 ### 1-month results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Number of unique users: 959/2,233 conversions, 41% conversion rate (Google Analytics)
+- Post-launch KPI 1 actual: 959 successful submissions (Google Analytics)
+- Post-launch KPI 2 actual: **Need to get numbers from Buffalo on eligible applications month 1**
+- Any issues with VA handling/processing?: **yes/no, lorem ipsum**
+- Types of errors logged: **lorem ipsum**
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? No UX changes necessary
+
 
 ## Post-launch Questions 
 
 _To be completed once you have gathered your initial set of data, as outlined above._ 
 
-1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
+1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"? **Need to get numbers from Buffalo on eligible applications**
 1. What qualitative feedback have you gathered from users or other stakeholders, if any?
+> Users have remarked that it’s easy to complete the application.  They appreciate the prefill information.  
+> The PDF with STEM majors is still a challenge for them, though.  
+> Ineligible applicants who find the STEM Scholarship application may still submit an application, even though they see and understand the ineligibility alerts, because “You never know unless you ask.”  
+
+  
 1. Which of the assumptions you listed in your product outline were/were not validated? 
-1. How might your product evolve now or in the future based on these results?
+   1. The 22-10203 STEM Scholarship application form will not change going forward. - This was mostly the case. There were some minor updates (text message opt-in) that required an update post-launch
+   1. The 22-10203 STEM Scholarship application can be completed without involving a School Certifying Official (SCO) in digital application process. - This is true. SCO involvement begins after submission
+1. How might your product evolve now or in the future based on these results? 
+   1. UAT is taking place with Veterans between 10/26 and 11/06 to validate the following features that were not released in our initial launch (set to go live in November 2020 assuming successful UAT)
+      1. Email is sent to the School Certifying Official associated with the applicant's previous enrollment data available via EVSS to notify them of what they need to do in support of the application process with Education Services. 
+      1. Remaining benefit entitlement data is displayed notifying ineligible applicants of the reason for their ineligibility when EVSS data is available. 

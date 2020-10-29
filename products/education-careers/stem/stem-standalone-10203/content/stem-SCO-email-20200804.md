@@ -47,7 +47,7 @@ VA Buffalo Regional Processing Office
 > **OMB Expiration Date:** 6/30/2023
 
 
-[Privacy Act Statement]() { Available online at <https://www.va.gov/education/apply-for-education-benefits/application/1995/introduction> }
+[Privacy Act Statement]() { Available online at <https://www.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction#privacy_policy> }
 
 cc: { Student email address }
 

@@ -20,7 +20,7 @@ Ideally, once Test Plan and Test Cases are mature, VSA-QA will handle actual Tes
 
 ### Process Flow
 
-![Flowchart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/images/VSA-QA-Process-Flow.png)
+![Flowchart](images/VSA-QA-Process-Flow.png)
 
 The required steps of the VSA-QA Process are as follows:
 

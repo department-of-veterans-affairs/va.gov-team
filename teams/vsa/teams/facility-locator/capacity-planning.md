@@ -1,6 +1,7 @@
 # Capacity Planning
 
 ## Table of Contents
+[November 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/capacity-planning.md#november-2020)
 
 [September 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/capacity-planning.md#september-2020)
 
@@ -26,8 +27,10 @@
 ### Additional out of office
 
 ## November 2020
+    -  Gibran: November 23-27 (Thanksgiving week)
+   
 ### Holidays
-    -  Thanksgiving observed: Thursday, Novmber 26 (GCIO, VA, Ad Hoc, CivicActions)
+    -  Thanksgiving observed: Thursday, Novmber 26 (GCIO, VA, Ad Hoc, CivicActions 
     
 ### Additional out of office
 

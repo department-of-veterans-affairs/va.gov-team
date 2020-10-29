@@ -55,6 +55,15 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 
 ### Meetings Notes and Background Info
 
+10/9/2020 - Usability testing prep for pre-visit questionnaire
+- initially only for primary care
+- users may need/want to access these forms after they submit them
+- Team discussed their idea of a "questionnaire manager page" - something that provides info about all forms and access to any form to be completed or already completed
+- potentially need an unauthenticated view of a form?
+- users will primarily get to these questionnaires via direct link or text, but can also get here from link on appointment list page...and others?
+- Feedback documented in issue: https://github.com/department-of-veterans-affairs/va.gov-team/issues/14473
+
+
 8/6/2020 - Usability testing prep
 - no major IA feedback at this time
 - Need to review user flows that are mapped out

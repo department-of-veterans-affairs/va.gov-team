@@ -12,9 +12,29 @@ This does not include research for Appeals projects, which is stored in differen
 - List of keywords
 
 ------
+###  2020
 
+### October 2020
+
+#### September 30 - October 16 : Vet Center - Veteran Client - Discovery Interviews
+*Ad Hoc: VSA Facilities, Leyda Hughes*
+- 15 participants (8 clients)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/veteran-interviews)
 
 ### August 2020
+
+#### August 31 - September 11: Learning center nomenclature card sort
+*Public Websites: Liz Lantz*
+- 39 Veteran participnts, 9 SME participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort)
+
+**Keywords:** categorization, nomenclature, tags, categories, audience, topics, labels, content authoring, tier 2, benefit-adjacent, VA account and profile, Records
+
+#### August 20-28 : Vet Center - Outreach Specialist - Discovery Interviews
+*Ad Hoc: VSA Facilities, Leyda Hughes*
+- 5 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/outreach-specialist-interviews)
+
 
 #### August 10-14 Veteran PGD Discovery Research
 *VA Lighthouse APIs: Lauryl Zenobi*
@@ -22,7 +42,6 @@ This does not include research for Appeals projects, which is stored in differen
 - 9 participants, 1 round
 - [Research folder](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/patient-generated-data)
 - Veteran and clinician perspectives on patient generated data
-
 
 #### August 10 - 12
 *CTO health team: Ryan Thurlwell*
@@ -44,6 +63,15 @@ This does not include research for Appeals projects, which is stored in differen
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research)
 
 ### July 2020
+
+#### July 7-30: VAOSr and Express Care
+*DEPO team, Melissa Schaff*
+
+- 15 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/july-2020-user-research)
+- [Report/synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/july-2020-user-research/2020-july-VAOSR-EC-research-report.md)
+
+**Keywords**: vaos, vaosr, online scheduling, express care, covid, coronavirus, user research, usabilty testing 
 
 #### July 13-16: Facility Locator - Urgent Care Mashup (usability test)
 *Ad Hoc: VSA Facilities, Leyda Hughes*
@@ -111,14 +139,28 @@ This does not include research for Appeals projects, which is stored in differen
 
 **Keywords**: covid, coronavirus, screener, mobile, user research, usabilty testing
 
-#### May 11-15: Logged-in Homepage Redesign, Co-design sessions
+#### May 11-15: My VA Redesign discovery (formerly logged-in homepage discovery)
 *Authenticated Experience, Liz Lantz*
 
-- 10 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research) 
-- This study was part of a larger discovery effort including [stakeholder interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/stakeholder-interviews/stakeholder-interview-synthesis.md), a [comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/comparative-analysis.md), a [review of analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/analytics/analytics-summary.md), and a [review of past research studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/previous-research-review.md).
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research) 
+- [Full discovery summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md)
+- This discovery included:
+  - [Veteran dashboard co-design sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md)
+  - [Stakeholder interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/stakeholder-interviews/stakeholder-interview-synthesis.md)
+  - [Comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/comparative-analysis.md)
+  - [Review of analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/analytics/analytics-summary.md)
+  - [Review of past research studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/previous-research-review.md)
 
-**Keywords**: personalization, dashboard, notifications, alerts, co-design, collaborative design, participatory design, generative research
+**Keywords**: My VA redesign, personalization, dashboard, notifications, alerts, co-design, collaborative design, participatory design, generative research
+ 
+#### May 1-8: Express Care
+*DEPO team, Melissa Schaff*
+
+- 11 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/express-care-research/2020-may-research)
+- [Report/synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/express-care-research/2020-may-research/express-care-research-report.md)
+
+**Keywords**: express care, virtual care, online appointments, video appointments, urgent care, vaos, covid, coronavirus, user research, usabilty testing 
  
 #### May 06: Comparative analysis. Status tracking
 *BaM 1, Lead Researcher: Christian Valla*
@@ -142,6 +184,11 @@ This does not include research for Appeals projects, which is stored in differen
 *BaM2, Rebecca Walsh & Riley Orr*
 - 10 participants 
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool/research/usability-march20)
+
+#### April 6-10: Combining profile and account (Profile 2.0)
+*Authenticated Experience, Tressa Furner*
+- 5 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research)
 
 #### April 2-20: COVID-19 Information & Chatbot
 *ThoughtWorks, Todd Stanich*

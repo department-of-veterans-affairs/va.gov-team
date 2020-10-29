@@ -5,6 +5,144 @@
  -  LC go-to-market strategy: how will users find the Learning Center?
 </details>
 
+## Tuesday October 27
+
+### Agenda
+
+1. Review launch support protocol and define severity levels for pre-launch issues [3055](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3055)
+1. Review [backlog](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1975)
+
+Oct 28th morning - QA kickoff.
+
+### Action items
+
+1. Jen to check-in w/ content team and let the CMS team know the exact time when to rebuild demo environment in prep for QA
+1. Oksana to update homepage w/ tepm category URLs today
+
+## Tuesday October 23 - 12pmET
+
+
+### Agenda
+
+1. Review LC AX issues identified by Jen L.
+   1. 1/ ghost alert rendered on front-end
+   2. 2/ + 2A/ FAQ template Q&A group section header should be optional + choice to display a question inside an accordion or not
+   3. 3/ N/A option in Tags Audience
+
+#### Notes:
+
+1/ ghost alerts are an FE issue. FE templates should not render gray box wrapper when the alert value is set to na
+
+2/ + 2A / the CMS team understands the request and since this is a simple one field addition, we can commit to delivering it by EOD Tue 27th. Noting that neither template spec, not template mockups provided to us specified requested field changes [#3283](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3283).
+
+3/ Tag component N/A option - reviewed via screenshare. Jen, Kevin and I were not able to reproduce. This is likely related to outdated JS file cached in browser.
+
+### Action items
+
+1.
+
+## Tuesday October 20
+
+### Agenda
+
+1. Review [backlog](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1975)
+1. URL generation
+1. Taxonomy term URLs
+1. Rebuilding environment without data wiping, but also pulling in new FE
+1. Release date MVP1.0 - Oct 29. Validation in demo environment on the 23rd.
+
+### Action items
+
+1. Follow up on FE rebuild in a demo environment
+
+## Tuesday October 13
+
+### Agenda
+
+1. Review [backlog](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1975)
+1. LC content forms access - new "Content Creator - Resources and support" role is in the backlog
+   1. [#3132 "Content Creator - Resources and support" role + permissions](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3132)
+   1. [#3133 New VA Forms form available to Content Admins only](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3133)
+1. URL alias + breadcrumb patterns decision check-in [#2818](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2818)
+1. anything else
+
+### Action items
+
+1. Jen will update #2677 about videos in MVP 1.1 
+2. Oksana will confirm if LC content team (Randi) has all fields needed to enter all test content. 
+3. Decision forthcoming from Mikki and Jen on breadcrumbs/URLs.
+4. Beth will look at casing of tags and provide final recommendation.
+
+
+## Tuesday October 7
+
+### Agenda
+
+1. Review backlog
+1. standalone Q&A page template logic
+1. final URLs for QA team
+
+### Action items
+
+1. Resource and support content creator role OR short-term new content access conversation (CMS team to brainstorm).
+
+## Tuesday September 29
+
+### Agenda
+
+1. Reschedule Oct 6 check-in for Oct 5, 7 or other
+1. Review backlog for Sprint 16
+1. Articles List implementation
+1. Meta tag title / description clarification
+   1. Remove desc meta tag completely
+   1. Meta title - 70 chars title + ` | Veterans Affairs` - no case conversion
+1. ToC component on LC content types [3013](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3013)
+   1. enable component on all LC CTs, but Q&A
+1. MVP set of tags for Topics taxonomy [2892](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2892)
+1. Default value in VA benefit Hub fields on existing content [3007](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3007)
+1. Process of releasing new LC categories
+1. Table AX issues identified by Jen Strickland [2877](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2877)
+1. anything else
+
+### Action items
+
+1. Jen to confirm whether native CMS tag listing preview is sufficient for the MVP 1.1
+  1. confirmed [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13883#issuecomment-701535183)
+
+## Tuesday September 22
+
+### Agenda
+
+1. CTA button classes
+1. Articles by tag: truncated body options
+1. LC Search vs. LC Article Lists
+1. Transformers for LC content model
+1. Review backlog for Sprint 15
+1. anything else
+
+### Action items
+
+1. CTA button classes. 
+   1. authors will keep using https://www.va.gov/?next=%2Fprofile%2F as the CTA URL link
+   1. another example https://www.va.gov/coronavirus-veteran-frequently-asked-questions/#what-should-i-do-if-i-need-to
+1. Meta description for LC content types - remove Meta description fields.
+1. By Sep 30, Nick/Kelson to confirm GraphQL return the data required to generate static pages for taxonomy terms a.k.a "articles tagged by".
+
+## Tuesday September 15
+
+### Agenda
+
+1. Review backlog for Sprint 15
+1. React widget capability for Single Q&A and in other LC templates.
+1. Custom link teasers - automation brainstorm
+1. Tagged content option (New)
+1. other
+
+### Action items
+
+1. Identify an MVP set of "Topic" terms by Fri, Sep 25
+
+
 ## Tuesday September 8
 
 ### Agenda

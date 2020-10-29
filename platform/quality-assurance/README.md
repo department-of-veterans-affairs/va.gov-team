@@ -26,6 +26,6 @@ The Quality Assurance practice area points of contact are:
 1. [**TestRail**](testrail/README.md)
 1. [**End-to-end Testing**](e2e-testing/README.md)
 1. [**Load Testing**](load-testing/README.md)
-1. [**Unit Testing**](unit-testing/README.md)
+1. [**Unit Testing**](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-unit-test/) (Maintained on the Client application documentation site)
 1. [**Archival Examples**](archival-examples/README.md)
 1. [**QA Check-in Process**](check-ins/README.md)

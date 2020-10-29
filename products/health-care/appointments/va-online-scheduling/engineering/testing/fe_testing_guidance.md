@@ -1,7 +1,5 @@
 # Front end VAOS testing guidance
 
-This is a work in progress, don't take it for "official" guidance yet.
-
 ## Testing tools used
 
 - Cypress (test runner for browser tests)
@@ -16,7 +14,48 @@ This is a work in progress, don't take it for "official" guidance yet.
 - Enzyme (React testing utility library)
    - Moving away from in favor of React Testing Library
 
-## Browser (e2e) tests
+## What type of test should I write?
+
+Most of our tests should be tests that render a single page and test all the Redux and component logic associated with that page through React Testing Library. When we need to test the overall flow of the application through different pages and paths through the forms, we should use Cypress. There's a grey area here about how to test behavior that doesn't require going through the full flow, but interacts with more than one page. In cases like that, we should choose wherever is easier to write a reliable test. If there's plain JS logic we want to test separate from React component where it's used, we can write plain JS unit tests. We might want to do this for JS that is used in multiple components, or for logic that is difficult to cover all branches in a UI component test.
+
+## What types of things should I test?
+
+Generally, we want to focus on verifying that things that are important to the user are happening. We want to avoid testing things that are only important to us developers, like implementation details in a component. So you should test things like:
+
+- Validation messages appear under the correct conditions
+- The appropriate UI is displayed depending on data fetched
+- Error messages are displayed during the different failure states
+- When a user takes an action on the page, the appropriate UI changes and data fetches are made
+- Focus is maintained at the correct place and important text/content is rendered semantically
+  - This may seem like testing implementation details, but a header marked up incorrectly or focus being lost can have significant impact on screen reader users
+  
+You can use our code coverage tooling locally or the Code Climate plugin on your PR to find code that hasn't been covered in your tests, though make sure you're thinking through what `expect` statements you need to write. Code coverage only tells you that code was run, it doesn't tell you that your test will actually fail when something breaks.
+  
+For form pages, you'll often want to have tests for each of these:
+
+- The page renders with the correct number of form elements
+- The page displays validation messages for required data if you submit without entering them
+- The page submits successfully if all required info is filled out
+- If you unmount and remount the page with the same store, the previously entered form data is still there
+
+Plus any other conditional UI logic that exists on the page.
+
+## My page depends on data setup on other pages, how should I create that in my integration test?
+
+Generally, we want to test components in the context a user is using them, which means hooked up to Redux and after other component logic on other pages has been executed. This isn't always feasible, like if we're testing that the form confirmation page displays data correctly and we'd need to essentially render all the pages before it for each test. Here's what we should try in priority order:
+
+1. Write or use a helper that renders a page and sets data for a particular field
+   - We do this with the type of care page pretty often
+   - This route isn't feasible if you have 3 or 4 pages you need to set up
+2. Call the Redux actions that set up your data directly
+   - Most integration tests create a test store, so you can call `store.dispatch` to dispatch actions
+3. Mock the initial state of the Redux store directly
+   - You may need to copy over elements from the normal initial state, which is in the reducer code
+   - This should be a last resort, since it means that if we change the structure of the Redux state in the future, the test must change.
+4. Mount an version of the component unconnected to Redux and pass props directly
+   - You should almost never need to do this.
+
+## Browser (e2e) test notes
 
 - Browser tests on the va.gov platform (called e2e tests) are tests that are run in a real browser, with a mock backend
 - We have both Nightwatch and Cypress available to write these tests, we should move to Cypress as we have time
@@ -29,7 +68,7 @@ This is a work in progress, don't take it for "official" guidance yet.
    - Browser tests require us to run Webpack and fully bundle all our JS code before running any test, which is slow
    - Generally, [this article](https://kentcdodds.com/blog/unit-vs-integration-vs-e2e-tests) is a good breakdown of the types of testing and tradeoffs.
 
-## Integration tests
+## Integration test notes
 - Integration tests mean tests that cover multiple components/redux logic, but are not run in a browser
 - Good integration tests should
    - Render a high-level a component (like a component covering a whole page or tab)
@@ -41,7 +80,7 @@ This is a work in progress, don't take it for "official" guidance yet.
 - We should still leave tests that incorporate React Router to the browser tests, but we should verify in these tests that we are pushing the correct urls to the router when necessary
 - React Testing Library is the easiest way to write tests that meet the guidelines above, but Enzyme is still usable.
 
-## Unit tests
+## Unit test notes
 - Write unit tests for plain JS code, like data transformations
 - Reducers should also be unit tested, if they have complex logic
 - Action creators can be unit tested or covered in integration tests, since they're typically coupled to specific component interactions

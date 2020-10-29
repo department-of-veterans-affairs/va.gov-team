@@ -14,7 +14,7 @@ Medallia Contact: @sarkis
 
 ### Table of Contents
 
-- [How to request a survey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/medallia/medallia-survey-how-to-request.md)
+- [How to request a survey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/medallia-request-survey.md)
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/medallia/medallia-rollout.md)
 - [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/medallia/medallia-release-notes.md)
 - [Rollout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/medallia/medallia-product-outline.md)
@@ -99,4 +99,4 @@ This the the survey that is used to collect user feedback for specific Veteran F
    - [Free text]
 3. What is your overall satisfaction with this site?
    - 1 = Very dissatisfied
-   - 10 = Very satisfied
+   - 5 = Very satisfied

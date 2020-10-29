@@ -14,14 +14,11 @@ As of March 2018, va.gov relies on the following EVSS services, which are availa
   * PCIU Services: `https://$HOSTNAME/wss-pciu-services-web/rest/pciuServices/v1`
 
 There are a number of EVSS environments, but the ones we care about are
-  * CI: `https://csraciapp6.evss.srarad.com` (use this for local development; requires a connection to the CSRA VPN)
   * INT: `https://int.ebenefits.va.gov` (connects to `dev-api.vets.gov`)
   * PINT: `https://pint.ebenefits.va.gov` (connects to `staging-api.vets.gov`)
   * PROD:
 
 ## API Documentation
-
-[Instructions for connecting to the CSRA VPN](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/evss-integration/engineering-assets.md)
 
   * Common Services
     * Swagger docs: ?
@@ -33,16 +30,20 @@ There are a number of EVSS environments, but the ones we care about are
     * Swagger docs: ?
     * va.gov-team docs: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/claims-status/file-claim
   * Education Services
-    * Swagger docs: https://csraciapp6.evss.srarad.com/wss-education-services-web/swagger-ui/index.html
+    * Swagger docs: [Original](https://int.ebenefits.va.gov/wss-education-services-web/swagger-ui/index.html?url=https://int.ebenefits.va.gov/wss-education-services-web/rest/swagger.yaml#/educationchapter33) (on VA network), 
+[our copy](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/index.html?url=https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/education-careers/statement-of-benefits/engineering/swagger-education-services-schema.yaml)
+    
     * va.gov-team docs: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/statement-of-benefits
   * Letter Services
-    * Swagger docs: https://csraciapp6.evss.srarad.com/wss-lettergenerator-services-web/swagger-ui/index.html
+
+    * Swagger docs: [Original](https://int.ebenefits.va.gov/wss-lettergenerator-services-web/swagger-ui/index.html?url=https://int.ebenefits.va.gov/wss-lettergenerator-services-web/rest/swagger.yaml#/letters) (on VA network), [our copy](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/index.html?url=https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/veteran-military-records/swagger-va-letters.yaml)
+    
     * va.gov-team docs: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records and https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems/eBenefits-EVSS
   * PCIU Services
     * Swagger docs: https://csraciapp6.evss.srarad.com/wss-pciu-services-web/swagger-ui/index.html
     * va.gov-team docs: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems/eBenefits-EVSS
     
-Note that the earlier EVSS services were built with no swagger documentation. _TODO: ask CSRA to provide API specs in some format_
+Note that the earlier EVSS services were built with no swagger documentation.
 
 ### EVSS Roadmap
 
@@ -52,24 +53,20 @@ This section is a placeholder for a link to the current EVSS Roadmap.  _TODO: de
 
 ## EVSS Team Collaborations
 
-There are 2 separate contract teams responsible for EVSS software:
   1. EVSS Sustainment Team (contractor: Insignia): responsible for maintaining and fixing production EVSS services
-  1. EVSS Development Team (contractor: CSRA): responsible for building new EVSS services that vets.gov will consume
 
 ### EVSS Sustainment Team
 
-For any issues with services vets.gov is currently consuming in production, contact the EVSS Sustainment Team. Ways to do this:
+For any issues with services VA.gov is currently consuming in production, contact the EVSS Sustainment Team. Ways to do this:
   * **Slack:** the [#evss-prod](https://dsva.slack.com/channels/evss-prod) channel includes DSVA, Ad Hoc, Insignia, and CSRA members. This might be the first place you inquire about an issue you're seeing in production. However, Insignia folks aren't glued to Slack, so you should almost always follow up with an email message
   * **Email:** as with all government things, there are numerous people who should be included on an email inquiring about a production issue
-  * **Meetings:** the EVSS sustainment and development teams meet with va.gov every Monday and Thursday at 2:30pm ET. Ask for the meeting info if you'd like to join.
-  
-_Why are CSRA people included in the the `#evss-prod channel`,_ you might ask? There is a bit of fuzziness around how long a service is live in production before it is considered to be in maintenance mode. E.g., if a new service goes live and bugs or issues become apparent shortly afterward, CSRA is likely still responsible for addressing those issues. If you are not sure which team to ask about a given issue, get on [#evss-internal](https://dsva.slack.com/channels/evss-internal) and see if @mattpointzxer0 and @MaryO-USDS can help make that call.
+  * **Meetings:** the EVSS sustainment and development teams meet with va.gov every Friday and Thursday at 12:00pm ET. Ask for the meeting info if you'd like to join.
 
 ### EVSS Development Team
 
 When designing and developing new services for va.gov to consume, contact the EVSS Development Team. Ways to do this:
-  * **Slack:** the [#evss](https://dsva.slack.com/channels/evss) channel includes DSVA, Ad Hoc, and CSRA members. CSRA members are fairly responsive on this channel, and will usually help by @ mentioning a specific developer on that channel who can help you out.
-  * **Meetings:** the EVSS development team and vets.gov have a daily 1pm ET standup which you are welcome to join any day. It's best to post on [#evss](https://dsva.slack.com/channels/evss) that you'd like to discuss X with the team at the next standup if there's time, and someone will respond and get you added to the event. Thursdays are typically platform discussion days, so team leads join to discuss CSRA's migration of services from the VA AITC environment to AWS GovCloud.
+  * **Slack:** the [#evss](https://dsva.slack.com/channels/evss) channel includes DSVA, Ad Hoc, and Insignia members. 
+ 
 
 ### Slack
 

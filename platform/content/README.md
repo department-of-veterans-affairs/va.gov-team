@@ -11,10 +11,10 @@ VSP Content supports VFS teams in their content needs by providing guidance, fee
 
 ### <a id="howtocontact"></a> How to contact us
  - Peggy Gannon, VSP content editor, @peggygannon on Slack 
- - Megan Kelley, PM Content & I/A team, @Megan Kelley on Slack
+ - Shira Goodman, PM VSP Product support, @shira goodman on Slack
  
-- Slack channels: [#vsp-content-ia](https://dsva.slack.com/channels/vsp-content-ia), [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)
-- Github labels: `[Content-ia-team]`
+- Slack channels: [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)
+- Github labels: `[Content-ia-team]` `[vsp-product-support]`
 
 
 ### <a id="whatwedo"></a> What we do

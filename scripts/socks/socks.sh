@@ -18,8 +18,8 @@ AUTOCONFIG_PORT=9500
 # from https://stackoverflow.com/a/246128/4907881
 PROXY_PAC_LOCATION="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 
-socks_add_key_cmd="ssh-add -K ${VA_SOCKS_KEYFILE:-~/.ssh/*gov*}"
-socks_del_key_cmd="ssh-add -d ${VA_SOCKS_KEYFILE:-~/.ssh/*gov*}"
+socks_add_key_cmd="ssh-add -K ${VA_SOCKS_KEYFILE:-~/.ssh/id_rsa_vagov}"
+socks_del_key_cmd="ssh-add -d ${VA_SOCKS_KEYFILE:-~/.ssh/id_rsa_vagov}"
 socks_start_cmd="ssh socks -D ${WEB_PORT} -N";
 socks_kill_cmd="pkill -f \"$socks_start_cmd\"";
 webserver_start_cmd="ruby -run -e httpd ${PROXY_PAC_LOCATION} -p ${AUTOCONFIG_PORT} --bind-address 127.0.0.1"

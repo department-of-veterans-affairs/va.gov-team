@@ -59,5 +59,4 @@ _Note: as always, use the [#vfs-platform-support](https://dsva.slack.com/channel
 - [ ] [Contact centers know how to help users who call in about the feature](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md) `*`
 
 ### ...marketable?
-- [ ] Product brief (with visuals), outlining the value and functionality of your product is in github
 - [ ] You've done a [Go/No Go meeting](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md)

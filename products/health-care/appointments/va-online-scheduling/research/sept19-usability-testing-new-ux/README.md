@@ -13,7 +13,7 @@ Research questions included:
 - RQ4: Do the new user interface components introduce any pain points or confusion?
 - RQ5: What content is needed to facilitate decision support at key moments in the appointment scheduling process?
 
-[Screen-by-screen synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/sept19-usability-testing-new-ux/request_usability/requesting%20research%20documentation%20.pdf)
+[Screen-by-screen synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/sept19-usability-testing-new-ux/request_usability/requesting%20research%20documentation%20.pdf)
 
 [Link to Optimal Workshop](https://www.optimalworkshop.com/a/adhoc/reframer/projects/29160a53-8928-4bce-b92e-371c3d3cbc76/)
 

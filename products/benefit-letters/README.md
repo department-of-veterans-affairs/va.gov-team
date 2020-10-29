@@ -38,6 +38,8 @@
 
 ## Technical Decisions
 
+See the [swagger docs for EVSS's `lettergenerator` services ](https://pint.ebenefits.va.gov/wss-lettergenerator-services-web/swagger-ui/index.html?url=https://pint.ebenefits.va.gov/domain1/wss-lettergenerator-services-web/rest/swagger.yaml#/) (must be on VA network) -or- [copy](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/index.html?url=https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/veteran-military-records/swagger-va-letters.yaml)
+
 ## Product Decisions
 
 ## Team

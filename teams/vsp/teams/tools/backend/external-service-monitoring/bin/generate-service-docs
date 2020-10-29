@@ -1,0 +1,83 @@
+#!/usr/bin/env ruby
+
+# frozen_string_literal: true
+
+require 'csv'
+require 'erb'
+require 'json'
+require 'optparse'
+require 'tty-table'
+
+DEVOPS_DOCUMENT_BASE = 'https://github.com/department-of-veterans-affairs/devops/blob/master/docs/'
+GRAFANA_BASE         = 'http://grafana.vfs.va.gov/d/pEgVdRlZk/external-service-performance-indicators'
+TEMPLATES_PATH       = 'config/templates/'
+SERVICES_FILE        = 'config/external-service-details.csv'
+
+csv = CSV.table(SERVICES_FILE, headers: true, header_converters: nil, skip_blanks: true)
+services = csv.map(&:to_hash)
+services.reject! { |s| s['HAPROXY_LABEL'].nil? }
+
+puts '-------------'
+puts "> Generating SLO documents for #{services.size} services..."
+puts '-------------'
+
+services.each do |service|
+  NOTES               = service['NOTES']
+  SERVICE_NAME_FULL   = service['SERVICE_NAME_FULL']
+  SERVICE_NAME_SHORT  = service['SERVICE_NAME_SHORT']
+  API_SERVICE_TAG     = service['API_SERVICE_TAG']
+  API_INTEGRATION_0   = service['API_INTEGRATION_0']
+  API_INTEGRATION_1   = service['API_INTEGRATION_1']
+  API_INTEGRATION_2   = service['API_INTEGRATION_2']
+  HAPROXY_LABEL       = service['HAPROXY_LABEL']
+  HAPROXY_LABEL_FULL  = service['HAPROXY_LABEL_FULL']
+  NGINX_COMPONENT     = service['NGINX_COMPONENT']
+  GRAFANA_SLI         = service['GRAFANA_SLI']
+  L50_LATENCY         = service['50_LATENCY']
+  L90_LATENCY         = service['90_LATENCY']
+  L99_LATENCY         = service['99_LATENCY']
+  AVAILABILITY        = service['AVAILABILITY']
+  AUTHOR              = service['AUTHOR'] || 'Keifer Furzland'
+  DOC_STATUS          = service['STATUS'] || 'DRAFT'
+
+  DEVOPS_URL         = ->(_service_label) { 'test' }
+  GRAFANA_URL        = ->(haproxy_label) { GRAFANA_BASE + "?orgId=1&var-backend=#{haproxy_label}" }
+  DATE               = `date`.freeze
+
+  # TODO: This needs to variate based on "generate docs" or "generate PDF report"
+  template_source = 'report-template.md.erb'
+  template = File.read(TEMPLATES_PATH + template_source)
+  markdown = ERB.new(template).result(binding)
+
+  filename = SERVICE_NAME_SHORT.gsub(' ', '-').downcase + '-slo.md'
+  puts "Writing #{filename} for #{SERVICE_NAME_FULL}...."
+  File.write("tmp/#{filename}", markdown)
+  puts '...done'
+end
+
+DATE_FMT    =  Time.now.strftime('%F')
+REPORT_DATE =  Time.now.strftime('%F')
+REPORTS_OUT_PATH = __dir__ + '/reports/'
+
+# Render the frontmatter overview pages
+template = File.read("#{TEMPLATES_PATH}/report-overview-template.md.erb")
+markdown = ERB.new(template).result(binding)
+
+File.write('tmp/all-overview.md', markdown)
+
+# Use `mdpdf` to generate nice-looking PDF from Markdown files
+puts 'Writing out the PDFs...'
+`for f in tmp/*.md; do mdpdf --format=legal $f && rm $f; done;`
+
+# Merge PDFs using ghostscript
+puts 'PDFs written, merging into a single report...'
+outfile = "#{REPORT_DATE}-vsp-external-slo-report.pdf"
+`gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress -sOutputFile=#{outfile} tmp/*.pdf`
+
+puts 'Cleaning up... '
+`mv tmp/ reports/#{REPORT_DATE}/`
+`mv #{outfile} reports/`
+
+# Cleanup
+puts "Done! - Report for #{REPORT_DATE} is found in #{REPORTS_OUT_PATH}/#{outfile}"
+

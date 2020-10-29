@@ -10,6 +10,14 @@ Many benefit-adjacent tier 2 content are not support/learning/help, product, or 
 - It may also be time based in nature, like a particular campaign (#BeThere) or a new legislation change (MISSION Act).
 - This category of tier 2 content could be better served as a campaign landing page.
 
+Examples of recent VA marketing initiatives that resulted in requests for Web support at VA.gov:
+
+- Veterans wear your mask campaign
+- Veterans get your flu shot campaign
+- VHA moving forward -- phased re-openings -- covid-19 campaign
+- VHA covid 19 research recruitment campaign
+
+
 ## Purpose
 
 The purpose of this template is to enable an easy way for VA businesses to create and manage this type of content in campaign landing page template in the new CMS, Drupal.   
@@ -126,7 +134,8 @@ Strategy to be drafted here based on https://github.com/department-of-veterans-a
   - 
 
 ## CMS Team Discovery (Links)
-- [Proof of concept for editorial experience and content model here.](http://pr2251.ci.cms.va.gov/node/add/campaign_landing_page) You can log in as u:kevin.walsh / p:drupal8 to see this.
+- [Proof of concept for editorial experience and content model here.](http://pr2251.ci.cms.va.gov/node/add/campaign_landing_page) You can log in as u:kevin.walsh / p:drupal8 to see this. (THIS HAS BEEN REMOVED FROM CMS)
+- [Screenshots of CMS based on rough POC build](https://app.mural.co/t/vagov6717/m/vagov6717/1591838049193/415eaeb7a88bc0210575dbea9038f542d193d865)
 - [Backlog](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/1475) created here, ready for grooming/estimating by team (note: more accurate than our original high level product estimates provided a couple weeks ago, and  be believe lower!).
 - [Discovery Mural with screenshots from POC](https://app.mural.co/t/vagov6717/m/vagov6717/1591838049193/415eaeb7a88bc0210575dbea9038f542d193d865) Screenshots added for further clarification of requirements, which would be next steps.
 
@@ -135,3 +144,4 @@ Strategy to be drafted here based on https://github.com/department-of-veterans-a
 
 ### Status & Decisions
 - A running tally of project status and decisions is [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/status/status_decisions.md)
+

@@ -1,4 +1,4 @@
-# _Vet Center Feature Brief_
+# _Vet Center Product Brief_
 
 This document will focus on Vet Center detail page enhancement 
 

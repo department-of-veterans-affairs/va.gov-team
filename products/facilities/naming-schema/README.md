@@ -33,35 +33,31 @@ The example schema below is a hypothetical scenario. It represents a VAMC facili
 
 
 
-## VBA benefits facilities naming schema - DRAFT
+## VBA benefits facilities naming schema
 
-> This schema is a work in progress. We have questions about certain aspects of existing facility names. We have questions for OFO, the Office of Field Operations, and the answers will affect the naming schema.
-
-Some VBA benefits facilities are standalone. The regional benefit offices are an example. Other VBA benefits facilities are located either 1) inside facilities VA owns such as medical centers, or 2) inside facilities VA does not own such as military hospitals or bases. 
+Some VBA benefits facilities are standalone. Regional benefit offices are an example. Other VBA benefits facilities are located either:
+1) inside facilities VA owns such as medical centers owned by VHA, or 
+2) inside facilities VA does not own such as military hospitals or bases. 
 
 > 
-**Benefit systems**
-- All locations are networked and should roll up to a benefits system. (?) 
-- Most networked areas do not currently have an official system name. We may assign a system name based on the regional benefit office or regional office name. (?)
-- For standalone VBA offices, a plain-language name (or short name) will be created and will be used for the digital experience in the H1, menu links, breadcrumb, browser title tag, and the URL. The URL will exclude "VA" as part of the system name. 
-
 **Facility names**
-- All facilities have an official name that will be used everywhere. No short names or truncating of official names will be used.  
-- The official name will be used in the H1, menu links, breadcrumb, browser title tag, and the URL.  
+<br></br>(TBD) For VBA offices, a plain-language name (or short name) will be created and used for the digital experience in the H1, menu links, breadcrumb, browser title tag, and the URL.  
 
-The example schema below is a hypothetical scenario. It represents a regional office facility network (i.e., regional office is parent facility, with intake centers, campus offices, and other VBA facilities as children facilities that are all part of a benefits system and customers get access to the entire network). It should apply to _all_ regional office systems.
+Update from October 1, 2020:
+* VBA and OFO, the Office of Field Operations, just approved [this naming scheme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/naming-schema/VBA-facilties-name_DRAFT-%20v9.docx). 
+* First we are updating the [names of facilities inside VA facilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/naming-schema/VBA%20Facility%20Names_v4.xlsx). See column E "Inside other official VA Location."
+* Next we will update the names of facilities not located inside VA facilities. 
 
-**For every example below, "at" is followed by the official location name. Official location names come from legislation, so we may not be able to change things that don't follow VA.gov style. Example: Veterans' (should not have an apostrophe).** 
+**For every example below, "at" is followed by the official location name. Official location names come from legislation, so we may not be able to change things that don't follow VA.gov style.** Example: Veterans' (should not have an apostrophe). 
 
 Facility type  |  Owned by  |  Official name  | Plain-language name | URL 
  -- | -- | -- | -- | -- 
 _Source:_<br>VAST |   | _Source:_<br>VAST | _Source:_<br>Drupal  | _Source:_<br>Facilities API
-Benefits system (?) | n/a | n/a | VA Winston-Salem benefits | www.va.gov/winston-salem-benefits
-Regional benefit office | Standalone | Winston-Salem Regional Benefit Office | n/a | www.va.gov/winston-salem-benefits/locations/winston-salem-regional-benefit-office
+Regional benefit office | Standalone | Winston-Salem Regional Benefit Office | 
 VR&E office | Standalone | Harrisburg Veteran Readiness and Employment Office |   
 VR&E office | VHA or non-VA | Veteran Readiness and Employment Office at Grand Junction VA Medical Center | 
 Regional office | VHA or non-VA | Regional Office at Samuel S. Stratton Department of Veterans Affairs Medical Center | 
-Outbased office | VHA or non-VA | Regional Benefit Office at New Bedford VA Clinic
+Outbased office | VHA or non-VA | Regional Benefit Office at New Bedford VA Clinic (If not regional, then Benefit Office at Rochester Calkins VA Clinic.)
 Satellite office | VHA or non-VA | Regional Benefit Office at William S. Middleton Memorial Veterans' Hospital
 Integrated Disability Evaluation System (IDES) Site | VHA or non-VA | Integrated Disability Evaluation System (IDES) Site at Fort Drum
 Intake site | VHA or non-VA | Intake Site at Twentynine Palms

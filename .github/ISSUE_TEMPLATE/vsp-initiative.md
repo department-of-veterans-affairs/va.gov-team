@@ -2,7 +2,7 @@
 name: VSP Initiative
 about: Top-level epic to track a VSP Initiative
 title: ''
-labels: initiative
+labels: VSP-Initiative
 assignees: ''
 
 ---
@@ -18,13 +18,19 @@ assignees: ''
 ## We will know we're done when... ("Definition of Done")
 *What requirements does this project need to meet for you to finish this initiative?*
 
+## Known Blockers/Dependencies 
+*List any blockers or dependencies for this work to be completed*
+
+## Projected Launch Date
+* When do you expect to be completed rolling out this initiative*
+
 ## Launch Checklist
 
 ### Guidance (delete before posting)
 
 _This checklist is intended to be used to help answer, "is my VSP initiative ready for launch?". All of the items in this checklist should be completed, with artifacts linked---or have a brief explanation of why they've been skipped---before launching a given VSP initiative. All links or explanations can be provided in **Required Artifacts** sections. The items that can be skipped are marked as such._
 
-_Keep in mind the distinction between **Product** and **Initiative** --- each Product needs specific supporting documentation, but Initiatives to improve existing Products should reuse existing documentation for that Product. See (VSP Product Terminology)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/product-management/product-terminology.md] for details._
+_Keep in mind the distinction between **Product** and **Initiative** --- each Product needs specific supporting documentation, but Initiatives to improve existing Products should reuse existing documentation for that Product.  [VSP Product Terminology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/product-management/product-terminology.md) for details._
 
 ### Is this service / tool / feature...
 

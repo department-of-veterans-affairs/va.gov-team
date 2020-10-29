@@ -1,8 +1,6 @@
 ---
 swagger: "2.0"
-info:
-  version: "v2"
-  title: "wss-lettergenerator-services-web"
+info: {}
 basePath: "/wss-lettergenerator-services-web/rest"
 tags:
 - name: "letters"
@@ -13,7 +11,13 @@ paths:
       - "letters"
       summary: "Get List of Letters"
       description: "Returns list of letters for user. Only returns letters eligible\
-        \ for the user"
+        \ for the user. Veterans are potentially eligible for [service_verification,\
+        \ commissary, benefit_verification, proof_of_service, medicare_partd, minimum_essential_coverage,\
+        \ civil_service, benefit_summary]. Dependents are potentially eligibile for\
+        \ [medicare_partd, minimum_essential_coverage, civil_service, benefit_summary_dependent].\
+        \ If unable to determine eligibility because a partner is down a \"letterGeneration.letterEligibilityError\"\
+        \ message will be returned as well any lettersthat were able to be determined\
+        \ to be eligibile. "
       operationId: "getLetters"
       produces:
       - "application/json"
@@ -24,6 +28,46 @@ paths:
             \ may contain \"messages\" that could describe warnings or further information."
           schema:
             $ref: "#/definitions/LettersResponse"
+        400:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        500:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        403:
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+  /letters/v1/letterBeneficiary:
+    get:
+      tags:
+      - "letters"
+      summary: "Get Letter Beneficiary Details"
+      description: "Returns details of the letter beneficiary. Only options the user\
+        \ has will be returned (ie. if the user doesn't have a monthly award in the\
+        \ system, monthlyAwardAmount will not be returned). Veterans can have the\
+        \ following possible options [militaryService, monthlyAwardAmount, awardEffectiveDate,\
+        \ hasChapter35Eligibility, hasServiceConnectedDisabilities, hasNonServiceConnectedPension,\
+        \ hasIndividualUnemployabilityGranted, hasSpecialMonthlyCompensation, hasAdaptedHousing]\
+        \ . Dependents can have the following possible options [militaryService, monthlyAwardAmount,\
+        \ awardEffectiveDate, hasChapter35Eligibility, hasSurvivorsPensionAward, hasSurvivorsIndemnityCompensationAward,\
+        \ hasDeathResultOfDisability]. "
+      operationId: "getLetterBeneficiaryDetails"
+      produces:
+      - "application/json"
+      parameters: []
+      responses:
+        200:
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/LetterBeneficiary"
         400:
           description: "There was an error encountered processing the Request.  Response\
             \ will contain a  \"messages\" element that will provide further information\
@@ -57,15 +101,76 @@ paths:
         required: true
         type: "string"
         enum:
-        - "BENEFITSUMMARY"
-        - "BENEFITSUMMARYDEPENDENT"
-        - "BENEFITVERIFICATION"
-        - "CIVILSERVICE"
-        - "COMMISSARY"
-        - "PROOFOFSERVICE"
-        - "SERVICEVERIFICATION"
-        - "MEDICAREPARTD"
-        - "MINIMUMESSENTIALCOVERAGE"
+        - "benefit_summary"
+        - "benefit_summary_dependent"
+        - "benefit_verification"
+        - "civil_service"
+        - "commissary"
+        - "proof_of_service"
+        - "service_verification"
+        - "medicare_partd"
+        - "minimum_essential_coverage"
+      responses:
+        200:
+          description: "Actual PDF File, application/pdf"
+        400:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        500:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        403:
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+  /letters/v1/{letterType}/generate:
+    post:
+      tags:
+      - "letters"
+      summary: "Generate Letter By Type"
+      description: "Returns the letter in PDF format. From the beneficiary details\
+        \ this is what sections will be generated. If the beneficiary has: hasServiceConnectedDisabilities\
+        \ then generate using serviceConnectedDisabilities : serviceConnectedPercentage\
+        \ then generate using serviceConnectedEvaluation : hasNonServiceConnectedPension\
+        \ then generate using nonServiceConnectedPension : monthlyAwardAmount and\
+        \ awardEffectiveDate then generate using monthlyAward : hasIndividualUnemployabilityGranted\
+        \ then generate using unemployable : hasSpecialMonthlyCompensation then generate\
+        \ using specialMonthlyCompensation : hasAdaptedHousing then generate using\
+        \ adaptedHousing : hasChapter35Eligibility then generate using chapter35Eligibility\
+        \ : hasDeathResultOfDisability then generate using deathResultOfDisability\
+        \ : hasSurvivorsPensionAward OR hasSurvivorsIndemnityCompensationAward  then\
+        \ generate using survivorsAward"
+      operationId: "generateLetterByType"
+      produces:
+      - "application/json"
+      - "application/pdf"
+      parameters:
+      - name: "letterType"
+        in: "path"
+        description: "Letter Type"
+        required: true
+        type: "string"
+        enum:
+        - "benefit_summary"
+        - "benefit_summary_dependent"
+        - "benefit_verification"
+        - "civil_service"
+        - "commissary"
+        - "proof_of_service"
+        - "service_verification"
+        - "medicare_partd"
+        - "minimum_essential_coverage"
+      - in: "body"
+        name: "body"
+        required: false
+        schema:
+          $ref: "#/definitions/GenerateRequest"
       responses:
         201:
           description: "Actual PDF File, application/pdf"
@@ -97,15 +202,68 @@ definitions:
       letterType:
         type: "string"
         enum:
-        - "BENEFITSUMMARY"
-        - "BENEFITSUMMARYDEPENDENT"
-        - "BENEFITVERIFICATION"
-        - "CIVILSERVICE"
-        - "COMMISSARY"
-        - "PROOFOFSERVICE"
-        - "SERVICEVERIFICATION"
-        - "MEDICAREPARTD"
-        - "MINIMUMESSENTIALCOVERAGE"
+        - "benefit_summary"
+        - "benefit_summary_dependent"
+        - "benefit_verification"
+        - "civil_service"
+        - "commissary"
+        - "proof_of_service"
+        - "service_verification"
+        - "medicare_partd"
+        - "minimum_essential_coverage"
+  GenerateRequest:
+    type: "object"
+    properties:
+      militaryService:
+        type: "boolean"
+        default: false
+      serviceConnectedDisabilities:
+        type: "boolean"
+        default: false
+      serviceConnectedEvaluation:
+        type: "boolean"
+        default: false
+      nonServiceConnectedPension:
+        type: "boolean"
+        default: false
+      monthlyAward:
+        type: "boolean"
+        default: false
+      unemployable:
+        type: "boolean"
+        default: false
+      specialMonthlyCompensation:
+        type: "boolean"
+        default: false
+      adaptedHousing:
+        type: "boolean"
+        default: false
+      chapter35Eligibility:
+        type: "boolean"
+        default: false
+      deathResultOfDisability:
+        type: "boolean"
+        default: false
+      survivorsAward:
+        type: "boolean"
+        default: false
+  LetterBeneficiary:
+    type: "object"
+    required:
+    - "benefitInformation"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+      militaryService:
+        type: "array"
+        items:
+          $ref: "#/definitions/MilitaryService"
+        maxItems: 100
+        minItems: 0
+      benefitInformation:
+        $ref: "#/definitions/BenefitInformation"
   ServiceResponse:
     type: "object"
     properties:
@@ -127,22 +285,117 @@ definitions:
         - "ERROR"
         - "WARN"
         - "INFO"
+  LetterDestination:
+    type: "object"
+    required:
+    - "addressLine1"
+    properties:
+      foreignCode:
+        type: "string"
+      country:
+        type: "string"
+      militaryPostOfficeTypeCode:
+        type: "string"
+      addressLine1:
+        type: "string"
+      addressLine2:
+        type: "string"
+      addressLine3:
+        type: "string"
+      city:
+        type: "string"
+      state:
+        type: "string"
+      zipCode:
+        type: "string"
+      militaryPostalTypeCode:
+        type: "string"
+      fullName:
+        type: "string"
+  MilitaryService:
+    type: "object"
+    required:
+    - "branch"
+    - "characterOfService"
+    - "enteredDate"
+    properties:
+      branch:
+        type: "string"
+      characterOfService:
+        type: "string"
+        enum:
+        - "HONORABLE"
+        - "OTHER_THAN_HONORABLE"
+        - "UNDER_HONORABLE_CONDITIONS"
+        - "GENERAL"
+        - "UNCHARACTERIZED"
+        - "UNCHARACTERIZED_ENTRY_LEVEL"
+        - "DISHONORABLE"
+      releasedDate:
+        type: "string"
+        format: "date-time"
+      enteredDate:
+        type: "string"
+        format: "date-time"
   LettersResponse:
     type: "object"
     required:
-    - "letter"
+    - "letters"
     properties:
       messages:
         type: "array"
         items:
           $ref: "#/definitions/Message"
-      letter:
+      letters:
         type: "array"
         items:
           $ref: "#/definitions/Letter"
         maxItems: 10
         minItems: 1
+      letterDestination:
+        $ref: "#/definitions/LetterDestination"
+  BenefitInformation:
+    type: "object"
+    properties:
+      serviceConnectedPercentage:
+        type: "integer"
+        format: "int32"
+      awardEffectiveDate:
+        type: "string"
+        format: "date-time"
+      monthlyAwardAmount:
+        type: "number"
+        format: "double"
+      hasServiceConnectedDisabilities:
+        type: "boolean"
+        default: false
+      hasNonServiceConnectedPension:
+        type: "boolean"
+        default: false
+      hasSurvivorsPensionAward:
+        type: "boolean"
+        default: false
+      hasSurvivorsIndemnityCompensationAward:
+        type: "boolean"
+        default: false
+      hasIndividualUnemployabilityGranted:
+        type: "boolean"
+        default: false
+      hasChapter35Eligibility:
+        type: "boolean"
+        default: false
+      hasSpecialMonthlyCompensation:
+        type: "boolean"
+        default: false
+      hasAdaptedHousing:
+        type: "boolean"
+        default: false
+      hasDeathResultOfDisability:
+        type: "boolean"
+        default: false
+      chapter35EligibilityDate:
+        type: "string"
+        format: "date-time"
 externalDocs:
   description: "API Error Keys"
   url: "ext-docs/lettergenerator-error-keys.html"
-  

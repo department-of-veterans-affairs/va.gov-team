@@ -1,6 +1,6 @@
 # Product Outline: Combine Profile and Account (Profile 2.0)
 
-Last Updated August 11, 2020
+Last Updated September 30, 2020
 
 ## Communications
 
@@ -14,6 +14,7 @@ Last Updated August 11, 2020
 |Samara Strauss |DEPO Lead| samara.strauss@va.gov |
 |Matt Shea |Product Manager| matt.shea@adhocteam.us |
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
+|Cassandra Allen |Designer| callen@governmentcio.com |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
 |Sandra Hallie | FE Engineer| shallie@governmentcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
@@ -35,7 +36,6 @@ Last Updated August 11, 2020
 
 # Implementation Information
 - [Status](#status)
-- [Solution Narrative](#solution-narrative)
 - [How to Access and Test](#how-to-access-and-test)
 - [Error Handling](#error-handling)
 - [Service Level Objective](#service-level-objective)
@@ -215,25 +215,18 @@ Currently, the profile satisfaction score is pretty low. My hypothesis is that p
 - The VA.gov profile is an existing feature
 
 *What marketing, outreach, or communications are necessary for this product to be successful?*
-- We will put a pop up to inform the user of changes that have been made for roughly 2 months after launching
+- After having worked with the VA comms team, they determined we did not need to do additional marketing to support this feature launch.
 
 ## Target Launch Date
-- Target launch date is mid-September 2020
-- We will begin measuring success as soon as we launch via GA analytics data. We should have materially significant data to     view within 1 week of launch.
+- Target launch date is mid-September 2020.
+- We will begin measuring success as soon as we launch via GA analytics data. We should have materially significant data to view within 1 week of launch.
 
 ---
 
 # Implementation Info
 
-## Status (as of 7/29/20)
-- **QA**: began 7/20/20 and is still underway
-- **Accessibility review/scans**: completed in preparation for staging review 8/3/20
-- **Staging review**: scheduled for 8/3/20
-- **Privacy and Security Review**: not needed per Andrew Gunsch due to the fact it was a front end/UI change.
-- **Call Center Review**: Making final changes to Product guide and creating Product Video in preparation for Call Center review in sprint 27
+## Status 
 
-
-## Solution Narrative
 - **Summer 2019**: Discovery completed.
 - **September 2019**: Initial design explorations
 - **October 2019**: Project put on hold due to other team needs.
@@ -244,6 +237,8 @@ Currently, the profile satisfaction score is pretty low. My hypothesis is that p
 - **May 2020**: Build; additional design as needed.
 - **June 2020**: Build; additional design as needed.
 - **July 2020**: Finish build; QA; pre-launch.
+- **Aug 2020**: Pre-launch; UAT.
+- **Sept 2020**: **LAUNCH! 25% of users on September 16; 50% of users on September 23; 100% of users on September 30.**
 
 ## How to Access and Test
 

@@ -64,7 +64,7 @@ Sources: https://www.rand.org/pubs/monographs/MG720.html and https://www.rand.or
 <table>
   <tr>
     <td>
-    <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc03-cognitive-considerations/rates-mentalhealth-tbi.png" alt="Rates of PTSD, depression, traumatic brain injury pie chart" aria-describedby="rates-of-mental-health" />
+    <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc03-cognitive-considerations/rates-mentalhealth-tbi.png" alt="Rates of PTSD, depression, traumatic brain injury pie chart" aria-describedby="rates-of-mental-health" width="70%" />
     </td>
     <td>
       <table id="rates-of-mental-health">

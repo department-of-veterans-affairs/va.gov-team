@@ -10,7 +10,7 @@ assignees: ''
 # Instructions
 1. Fill out **Description**
 2. Add the label used by your team (eg: `BAH-526`)
-3. Add a comment @department-of-veterans-affairs/vsp-operations to ping the operations team
+3. Do not remove `operations` label; this will notify the VSP Operations team of your request
 4. When the issue is closed you will be notified and can continue with on-boarding setup
 
 # Description

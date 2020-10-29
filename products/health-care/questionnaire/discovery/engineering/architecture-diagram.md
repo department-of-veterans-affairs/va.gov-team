@@ -19,7 +19,7 @@ Our preliminary idea is to use the Lighthouse Health API to access a vet's medic
 
 As of Sept 2nd, the Lighthouse team is looking into how to solve the Cerner integration problem. 
 
-We have future plans (in pink) to use the FHIR abilities of Lighthouse. Lighthouse plans to have have read and write of FHIR data for appointments, questionnaires and other relevant healthcare information.  The APIs are not yet created, but we will start to utilize them when they are released.
+We have future plans (in pink) to use the FHIR abilities of Lighthouse. Lighthouse plans to have have read and write of FHIR data for appointments, questionnaires and other relevant healthcare information.  The APIs are not yet created, but we will start to utilize them when they are released. When the APIs are available in Lighthouse, we will decided when and if to move away from MAP. 
 
 Check out more in out [tech doc](README.md)
 

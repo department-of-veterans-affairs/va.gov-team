@@ -39,6 +39,19 @@ No. This is an incremental update that improves interoperability across VA. But 
 * Users starting at a site like MHV and navigating to VA.gov will generally be logged in without issue at VA.gov if they are LOA3, and if they are either using an ID.me credential or have signed in to VA.gov in the past.
 * Users starting at a site like MHV and navigating to VA.gov who have not signed in to VA.gov with their DSLogon or MHV credential since August 2018 will need to do a one-time re-authentication. This step is needed to match any existing data they may have on VA.gov that is currently indexed under an ID.me identifier (since ID.me brokers MHV and DSLogon credentials for VA.gov). This issue is described in more detail in  https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/request-for-comment/2020-01-17-sso-symmetry-and-identifiers.md
 
+**What Works, What Doesn't**
+| Scenario | Expected Outcome | Status/Other Notes |
+| --- | --- | --- |
+| Sign in to VA.gov with any LOA3 credential (ID.me/MHV/DSL), then navigate to MHV or Cerner | Arrive at MHV/Cerner in logged-in state. | Works, but as of 10/1/2020, only rolled out to 5% of users | 
+| Sign in to VA.gov with a DSLogon credential, then navigate to eBenefits | Arrive at eBenefits in logged-in state | Awaiting go-ahead from eBenefits team to enable SSOe-based linking. |
+| Sign in to VA.gov with an ID.me/MHV credential, then navigate to eBenefits | Arrive at eBenefits in logged-in state | Awaiting go-ahead from eBenefits team to enable navigation with these credentials. |
+| Sign in to VA.gov with any LOA1 credential, then navigate to MHV or Cerner | Error due to insufficient assurance | Functioning as expected, IAM gates non-LOA3 access to these sites | 
+|  Sign in to MHV using their IAM SSOe sign-in, then navigate to VA.gov | Arrive at VA.gov in logged-in state. | Functioning, rolled out to 100% of users. "Auto-login" functionality ensures VA.gov session gets established. |
+|  Sign in to MHV using their native MHV sign-in option, then navigate to VA.gov | *Not signed-in at VA.gov* | Functioning as expected, no SSOe session is established hence user is not logged in to VA.gov when they arrive. |
+| Sign in to Cerner, then navigate to VA.gov | Arrive at VA.gov in logged-in state. | Functioning. "Auto-login" functionality ensures VA.gov session gets established. Sign in to Cerner is via VA.gov static login page (https://www.va.gov/sign-in) |
+| Sign in to eBenefits, then navigate to VA.gov | Arrive at VA.gov in logged-in state. | Will work if sign in to eBenefits was via SSOe, which should be most cases. |
+| Arrive at VA.gov with no SSOe session | User remains logged out; if a latent VA.gov session is present it will be terminated. | Functioning as expected. "Auto-logout" functionality ensures latent VA.gov session is terminated. | 
+
 #### What if users need help or have trouble signing in?
 [TK] Need to make contact center aware of this change and any new error screens/messages/content that might be added.
 
@@ -59,7 +72,7 @@ To mitigate this, we plan to add a configuration mechanism (intended to be enabl
 
 #### So is ID.me still our Identity Provider, or SSOe?
 Why not both? In strict protocol terms, the immediate SAML request that vets-api makes is to SSOe, and the SAML response that comes back is issued by SSOe. But, we expect to receive a response that is brokered through ID.me. SAML supports this notion of federated or proxied SAML requests so while we are adding complexity we are not operating outside of accepted norms. 
-
+| 
 #### Are we still doing multiple SAML requests for LOA1 and LOA3?
 Yes. The up-leveling process of authenticating a user at LOA1 and then optionally re-authenticating them at LOA3 remains as-is. vets-api also retains the contract it has with ID.me for selecting the credential. 
 

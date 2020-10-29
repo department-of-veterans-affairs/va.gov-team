@@ -102,7 +102,7 @@ Outreach may include:
 
 ## Launch Dates
 - *Target Launch Date*
-  - October 15, 2020 for first iteration (translate widget on coronavirus FAQs page)
+  - October 15, 2020 for first iteration (translate widget on coronavirus FAQs page) - Delayed due to lack of people and ability to implement as well as concerns with Google Translate widget quality
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch?*
@@ -112,6 +112,8 @@ Outreach may include:
 ## Solution Narrative
 
 ### Current Status
+
+Delayed due to lack of people and ability to implement as well as concerns with Google Translate widget quality
 
 ### Key Decisions
 

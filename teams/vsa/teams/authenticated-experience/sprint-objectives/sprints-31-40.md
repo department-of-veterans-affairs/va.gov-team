@@ -13,159 +13,236 @@
 
 ## Sprint 31 (9/23 - 10/6)
 
+Any outstanding tickets from last sprint, plus the following:
+
 ### Profile 2.0
 
-- Post launch/Up next: 100% and monitoring, 508 review, post launch review with platform team, any post-launch enhancements
+- Launch to 50%
+- Assuming launch to 50% goes well, launch to 100%
+- FE backlog updates we can bring in
 
 ### Logged-in homepage
 
 **Design**
 
-Phase 2: Design Healthcare, Claims sections
+- LIH Design Intent checkpoint #13255 (I moved this from sprint 30)
+- Plan for how to work with the platform team #10516
+- Start: Design health care section of the homepage
 
-- Design health care section
+**FE**
+
+- Technical comparative analysis: How do other websites handle having a logged out and logged in homepage?
+
+### Direct deposit for Edu
+
+**Design**
+
+Jason from eBenefits will create these tickets, but it's OK to include them in our sprint epic.
+
+- Review the feature on eBenefits
+- Talk to eBenefits: What functionality is not clear/shown? What questions do we have?
+- Understand what education benefits gets updated with DD edu and what does not, and document this
+- Mockups?
+
+**Backend**
+
+- Begin: Create BGS CH33 DDEFT Service integration #13286
+
+Note: Lihan will also be working on [#12089](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12089) for the Caregiver team, so he will likely not finish the direct deposit work this sprint.
+
+### Pact work
+
+- VSA Auth Experience - Pact setup for [product name] #13336
 
 ## Sprint 32 (10/7 – 10/20)
 
+### Profile 2.0
+
+Any tickets that aren't finished from sprint 31, plus:
+
+- Additional bug fixes and post-launch enhancements
+
+Note: I have regrouping with platform for a post-launch and initiating the 508 review set for next sprint.
+
 ### Logged-in homepage
+
+**PM**
+
+- Help create tickets for the disability/claims section design work.
 
 **Design**
 
-Phase 2: Design Healthcare, Claims sections
+*Phase 2: Design Healthcare, Disability/Claims sections*
 
-- Get feedback on health care section; make updates
-- Design disability/claims section
+Note: The goal was to have the health care section largely completed in sprint 31 and then to start on the disability/claims section this sprint. Based on out 10/2 convo with Tressa and Cassandra, I think they're behind and I'm questioning whether the disability/claims section will be started this sprint. However, we should get the disability/claims section tickets created and talk about long term planning with them over the next 3ish sprints.
+
+Any tickets that aren't finished from sprint 31, plus:
+
+- LIH Navigation #14360 (if not wrapped up)
+- Healthcare: Send a secure message to your health care team #13920
+- Healthcare: Schedule and view your appointments #13921
+- Design for Health Care Application "status" update #7457
+- Copy/Messaging for Health Care Application (HCA) "status" section #7455
+- Work with copy on sections that are already complete
+- Start design for disability/claims section
+
+### Direct deposit for Edu
+
+**PM**
+
+Any tickets that aren't finished from sprint 31, plus:
+
+- Project Kickoff [Direct Deposit for Education Benefits] #14167
+- Depending on where design is, maybe hold the [design intent checkpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#design-intent-collaboration) as well
+- **Jim Adams** Create Initial Mockup for EDU Direct Deposit #13810 
+
+### 10/24 Cerner update
+
+- [FE] My VA: Cerner go-live updates for Spokane facilities on 10/24 #13832
+
+### Preferred Facility technical discovery
+
+- Samara to continue trying to get additional information to determine next steps
+
+### VA Profile: Remove instances of "Vet360"
+
+Note: This is a DevOps tickets, and I am figuring out who can work on it. However, keeping it here since Lihan may be helping in come capacity and since I have to make sure it gets done.
+
+- [BE/DevOps] Change instances of "https://env.vet360.va.gov/" to "https://env.vaprofile.va.gov/" in INT, QA, PPD, PRD environments #14188
+
+### VA Profile: Issue with bogus addresses being saved
+
+- Critical: Investigate VA Profile issue to determine whether veteran account has been hacked [#175](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/175)
+- Add address form field validation to prevent users from entering web URLs #14471
+
+### Pact work
+
+- [BE] - Setup Pact test #14234
+- [FE] - Write Pact test #14233
 
 ## Sprint 33 (10/21 – 11/3)
 
-### Logged-in homepage
+For every project, this sprint includes all outstanding tickets from sprint 32, plus:
+
+### Profile
+
+- Profile code clean-up
 
 **PM**
 
-- Schedule [Usability Test Prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#usability-testing-prep) checkpoint meeting
+- [Request full accessibility and 508 office review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#full-accessibility-and-508-office-audit)
+
+### My VA redesign
 
 **Design**
 
-Phase 2: Design Healthcare, Claims sections
+Week 1 of sprint 33
 
-- Get feedback on disability claims section; make updates
-- Plan for usability testing, including normal [review of the research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#research-plan-review)
-- [Usability Test Prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#usability-testing-prep) checkpoint meeting
+- Revisit direction: Wireframe explorations
+  - Details for ticket
+    - This should be one week
+    - My VA goals: Get users to personalized information and tasks as quickly as possible. The page should be personalized, actionable, and scalable.
+    - We should produce sketches/low-fi wireframes with real data, but do not focus on visual design.
+
+Week 2 of sprint 33
+
+- ?? We'll let the exploration work help us figure out next steps.
+
+**Note:** No need to include the following design tasks in the objectives epic. We might do this stuff depending on how the exploration/wireframe week goes, but plans might change as a result of the explorations.
+
+- My VA Overview section
+- Meet with the following folks re: general My VA questions OR health care section. **Ideally, these are as soon as possible**
+  - IA (Talk about nav/bread crumb treatment; On page navigation) — Schedule for week of October 26 (Meg is out next week)
+  - Design system council (Review new health care patterns) 
+  - Accessibility (Review new health care patterns)
+  - Content (copy in the health care section)
+  - VAOS (to make sure appointment details are correct)
+  
+**Frontend**
+
+- Create wrapper for showing dashboard 1.0 and dashboard 2.0
+
+### Direct deposit for Edu
+
+**Design**
+
+**Note**: We are still waiting on some answers from Luke Tickner about some things, so this might put design and research on pause.
+
+- Complete design if not done
+- Copy review for profile wireframes (this should just be a formality since I think all content was copied from the direct deposit for comp & pen designs)
+- Content for Direct Deposit Landing Page #14367
+- (Maybe) Start research prep (plan and convo guide)
+
+**Dev**
+
+- Where are we with initial build? If not done, finish this this sprint.
+
+### VA Profile-related work
+
+- VA Profile: Consider changing the amount of time we cache an address #14626
 
 ## Sprint 34 (11/4 – 11/17)
 
-### Logged-in homepage
+### Profile
 
 **PM**
 
-- Schedule [IA check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#information-architecture-ia-request)
+- [Post-launch review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#post-launch-check-in)
+
+**PM/Design/FE**
+
+- Complete the tests and provide documentation for accessibility tests mentioned in #15247
+
+### My VA redesign
 
 **Design**
 
-Phase 2: Design Healthcare, Claims sections
+**FE**
 
-- Conduct usability testing on health care and claims sections
-- Make updates
-- Hand off to frontend to begin build
-- [IA check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#information-architecture-ia-request)
+- Reduce Javascript bundle size #1969
 
 ## Sprint 35 (11/18 – 12/1)
 
-### Logged-in homepage
+### My VA redesign
 
 **Design**
 
-Phase 2: Design Healthcare, Claims sections
-
-- Finish any final documentation
-
-Phase 3: Design Education, Records, Applications in progress, Discover additional benefits sections
-
-- Design these sections
-- Get feedback; make updates
-
 **Dev**
-
-Phase 2: Design Healthcare, Claims sections
-
-- Begin FE build
 
 ## Sprint 36 (12/2 – 12/15)
 
-### Logged-in homepage
+### My VA redesign
+
+**PM**
+
+Are we ready for Matt to work on staging users list yet?
 
 **Design**
 
-Phase 3: Design Education, Records, Applications in progress, Discover additional benefits sections
-
-- Design these sections
-- Get feedback; make updates
-
 **Dev**
-
-Phase 2: Design Healthcare, Claims sections
-
-- Continue FE build
 
 ## Sprint 37 (12/16 – 12/29)
 
-### Logged-in homepage
+### My VA redesign
 
 **Design**
 
-Phase 4: Design 'Blank'state and LOA1 state
-
-- Design blank state and LOA1 states
-- Collect feedback; make updates
-
 **Dev**
-
-Phase 2: Design Healthcare, Claims sections
-
-- Continue FE build
 
 ## Sprint 38 (12/30 – 1/12)
 
-### Logged-in homepage
+### My VA redesign
 
 **Design**
 
-Phase 5: Final user testing/validation
-
-- Plan user testing
-- Conduct user testing on final mockups of LOA3 "full" and "blank" states
-
 **Dev**
-
-Phase 3: Design Education, Records, Applications in progress, Discover additional benefits sections
-
-- FE build
 
 ## Sprint 39 (1/13 – 1/26)
 
 **Design**
 
-Phase 5: Final user testing/validation
-
-- Implement updates from user testing
-- Finalize documentation for FE
-
-Initial design phase complete.
-
 **Dev**
-
-Phase 3: Design Education, Records, Applications in progress, Discover additional benefits sections
-
-- FE build
 
 ## Sprint 40 (1/27 – 2/9)
 
 **Dev**
-
-Phase 4: Design 'Blank'state and LOA1 state
-
-- FE build
-
-------
-
-Up next: LIH - Finish build; Prep for QA and 508; All pre-launch activities

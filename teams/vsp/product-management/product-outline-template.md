@@ -1,27 +1,17 @@
-# VSP Product Outline Template
-
-_**Guidance**_
-
-_This Product Outline is intended primarily for VSP teams building VSP. Details of what's being built, how it's being built, how its success will be evaluated, and roadmaps are all relevant._
-
-_Because this is VSP-internal, the Product Outline should be located in `/products/platform/`. VFS-facing documentation about this product should be located in `/platform/`._
-
-_Fill out the template below, following italicized guidance for each section._
-
-_Delete this guidance stanza and any italicized guidance in the template before checking in your Product Outline._
-
----
 
 # Product Title
+Storybook Implementation Product Outline
 
 ## Overview
-*A brief description of the product.*
+Storybook is an open source tool for developing UI components for React, Vue and Angular. Storybook provides a sandbox so that engineers and designers can build, design and update UI components in a developer-friend environment. 
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address.*
+The existing design system component documentation is not kept in sync with the actual use of a component. The documentation is non-interactive, so it's difficult for engineers and designers to see how changing props affects the component.
 
 ## Personas
-*Who are the users of this product?*
+VFS Engineers
+VFS Designers
+Design System Team 
 
 ## Measuring Success
 
@@ -75,20 +65,12 @@ _Link to the following materials as relevant._
 - Any product health or success dashboards
 
 ### Communications
-
-<details>
-
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-
-</details>
+- Team Name: Design System Team
+- GitHub Label: design-system-team
+- Slack channel: vsp-design-system (for general communications) and vfs-platform-support (for support)
+- Product POCs: Carol Wong
 
 ### Stakeholders
-
-<details>
+ - DEPO leads
+ - VFS teams using the platform to build on VA.gov
  
-_What offices/departments are critical to make this initiative successful?_
- 
-</details>

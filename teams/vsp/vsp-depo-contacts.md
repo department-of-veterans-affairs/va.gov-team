@@ -33,8 +33,21 @@ Default to the initiative point of contact for any work that involves that initi
 ### Chante
 - Anything related to contact centers
 
+Teams: 
+- Contact Center Team
+
 ### Cory
 - Anything related to identity and login
+
+Teams: 
+- Identity
+- End to End Testing
+
+### John
+- Anything related to identity and login
+
+Teams: 
+- Identity
 
 ### Dror
 
@@ -52,7 +65,6 @@ Teams:
 - Operations
 - FE Tools
 - BE Tools
-- End to End Testing
 
 ### Jeff H
 - Anything related to our current contract
@@ -66,12 +78,12 @@ General topics:
 
 Initiatives / services:
 - Documentation site
-- Design system
+- Design system and related (form library, Sketch library, etc.) 
 
 Teams:
 - Service Design
 - Content & IA
-- Analytics & Insights
+- Design System
 
 ### Meg
 - Anything related to overall IA strategy
@@ -88,3 +100,4 @@ Initiatives / services:
 
 Teams:
 - Product Support
+- Analytics & Insights

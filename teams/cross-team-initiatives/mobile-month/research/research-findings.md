@@ -71,9 +71,11 @@ All participants successfully used the menu button when asked to find content on
 
 No one used the Contact Us link, and only 3 participants used the sign in link in the header.  This could be due to the tasks we gave people. No task explicitly encouraged contacting the VA, and we only asked participants to sign in if they had claims in progress.
 
-![https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/cross-team-initiatives/mobile-month/images/mobile-header-homepage.png]()
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/cross-team-initiatives/mobile-month/images/mobile-header-homepage.png" alt="the VA.gov header area in mobile view" width="40%"  />
 
-**Implications: **
+
+
+**Implications:**
 
 *   Our current design helps people find what they’re looking for and is easy for them to use, specifically our menu button.  
 *   The study didn’t reveal any usability issues encountered by having Contact Us and Sign In available in the header, but it’s worth taking a closer look in a future study dedicated to better understanding the usefulness of these options.
@@ -87,7 +89,8 @@ When we asked if they had noticed it, 5 of the 6 had not.  Expectations varied a
 
 > It's actually pretty cool that that's there, I just wish it was a little more noticeable because then it gives you a little more information instead of having to scroll through everything. The topics are highlighted and would make it much easier to look into.
 
-![https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/cross-team-initiatives/mobile-month/images/more-in-this-section.png]()
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/cross-team-initiatives/mobile-month/images/more-in-this-section.png" alt="the VA.gov more in this section component in mobile view" width="40%"  />
+
 
 **Implications:**
 
@@ -95,8 +98,7 @@ When we asked if they had noticed it, 5 of the 6 had not.  Expectations varied a
 *   We may want to consider a different label such as “More on [this topic]” so it’s more clear to people that they’ll be able view more on the topic itself, not only more on the specific page they’re on.
 *   We should consider using Ryan’s redesign of this component across our site, since it tested well when Tressa tested it.
 
-![https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/cross-team-initiatives/mobile-month/images/new-more-in-this-section.png]()
-
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/cross-team-initiatives/mobile-month/images/new-more-in-this-section.png" alt="the VA.gov more in this section new component in mobile view" width="40%"  />
 
 ### 5 of 6 participants had a hard time finding urgent care facilities for COVID testing.
 
@@ -128,7 +130,7 @@ Once people found the tool, it was straightforward and easy for them to use. All
 
 > The ability to just click Get directions and then go to my maps app, that's super helpful.
 
-![https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/cross-team-initiatives/mobile-month/images/facility-locator-get-directions.png]()
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/cross-team-initiatives/mobile-month/images/facility-locator-get-directions.png" alt="the VA.gov Find Locations get directions component in mobile view" width="40%"  />
 
 People encountered some small usability issues when using the tool:
 
@@ -211,7 +213,8 @@ One participant navigated back to the homepage twice to start over, because they
 
 >*Clicked on Eligibility from Education menu*. Oh, I thought that would give me eligibility information as far as education, but [I backed out of it because] nothing came up.  
 
-![https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/cross-team-initiatives/mobile-month/images/mobile-header-homepage.png]()
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/cross-team-initiatives/mobile-month/images/mobile-header-homepage.png" alt="the VA.gov homepage mobile header component" width="40%"  />
+
 
 **Implications**
 

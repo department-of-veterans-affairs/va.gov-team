@@ -48,7 +48,7 @@ The oncall developer may reach out to the frontend support dev to assist with tr
 
 Production website Sentry errors should be reviewed at least once a rotation and up to weekdaily as time permits. 
 
-Browse [website-production Sentry](http://sentry.vfs.va.gov/vets-gov/website-production/) and monitor the [#vfs-sentry-alerts](https://dsva.slack.com/channels/vfs-sentry-alerts) channel.
+Browse [website-production Sentry](http://sentry10.vfs.va.gov/organizations/vsp/issues/?environment=production&project=4&query=is%3Aunresolved&statsPeriod=14d) and monitor the [#vfs-sentry-alerts](https://dsva.slack.com/channels/vfs-sentry-alerts) channel.
 The [#vfs-sentry-alerts](https://dsva.slack.com/channels/vfs-sentry-alerts) channel is configured to receive alerts that meet one of the following criteria:
 * First occurrence of an issue
 * High volume of an error occurring

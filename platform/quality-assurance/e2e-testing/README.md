@@ -4,3 +4,4 @@ End-to-end tests are created using Cypress, the documentation for which is maint
 * [How to write end-to-end tests](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-end-to-end-test/)
 * [How to use the form tester](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/platform/testing/e2e/cypress/support/form-tester)
 * [How to migrate existing Nightwatch tests to Cypress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/testing/end-to-end/cypress-migration-guide.md)
+* [How to configure cypress-testrail-reporter](cypress-testrail-reporter-config.md)

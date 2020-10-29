@@ -30,7 +30,7 @@ Start off by introducing your team and VSP to your new work initiative. Discuss 
 ## Collaboration format: 30-minute meeting
 
 ### Request process
-**VFS Product Manager** initiates scheduling by submitting ZenHub issue — use `Project Kickoff` issue template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd&labels=product+support%2C+content-ia-team%2C+collaboration-cycle&template=project-kickoff.md&title=Project+Kickoff+%5BFeature-Name%5D) to open a ticket)_. VSP will schedule the meeting. Meeting is recorded.
+**VFS Product Manager** initiates scheduling by submitting ZenHub issue — use `Project Kickoff` issue template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+shiragoodman&labels=vsp-product-support%2C+content-ia-team%2C+collaboration-cycle%2C+collab-cycle-review&template=project-kickoff.md&title=Project+Kickoff+%5BTeam+Name+-+Feature+Name%5D) to open a ticket)_. VSP will schedule the meeting. Meeting is recorded.
 
 ### Meeting attendees
 - VFS brings: 
@@ -40,12 +40,12 @@ Start off by introducing your team and VSP to your new work initiative. Discuss 
   - Any other stakeholders you want to invite
 - If VFS team is part of VSA contract, also include as optional: Accessibility (Jennifer), QA (Tze), Design (Shawna), Product (Mickin)
 - VSP brings (all optional): 
-  - Design (Crystabel & Emily)
+  - Design (Allison & Emily)
   - Accessibility (Trevor)
   - Content (Peggy)
   - Information architecture (Mikki)
   - QA (Peter)
-  - Product (Andrea Hewitt)
+  - Product (Shira)
   - Analytics (Joanne)
   - VSP’s DEPO co-leads (Rachael, Kevin & Dror)
 
@@ -75,7 +75,7 @@ Present a draft of your ideas to VSP and other expert designers. Learn about exi
 ## Collaboration format: 30-minute meeting
 
 ### Request Process
-**VFS Designer or Product Manager** initiates scheduling by submitting ZenHub issue — use `Design Intent Collaboration` template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+meganhkelley%2C+crystabelreiter%2C+emilywaggoner&labels=product+support&template=design-intent-collaboration.md&title=Design+intent+Collaboration%5BFeature-Name%5D) to open a ticket)_. VSP will schedule the meeting. 
+**VFS Designer or Product Manager** initiates scheduling by submitting ZenHub issue — use `Design Intent Collaboration` template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=shiragoodman%2C+allison0034%2C+emilywaggoner&labels=vsp-product-support%2C+collaboration-cycle%2C+collab-cycle-review&template=design-intent-collaboration.md&title=Design+intent+Collaboration+%5BTeam+Name+-+Feature+Name%5D) to open a ticket)_. VSP will schedule the meeting. 
 
 ### Meeting attendees
 - VFS brings: 
@@ -84,7 +84,7 @@ Present a draft of your ideas to VSP and other expert designers. Learn about exi
   - DEPO design lead (required as applicable)
 - If VFS team is part of VSA contract, also include as optional: Accessibility (Jennifer), Design (Shawna)
 - Design experts bring: 
-  - VSP designers (Emily and/or Crystabel) - required
+  - VSP designers (Emily and/or Allison) - required
   - Accessibility (Trevor) - required
   - VSP’s DEPO co-leads (Rachael, Kevin & Dror) - Optional
 
@@ -116,7 +116,7 @@ Meet with VSP practice area reviewers to confirm that your prototypes or mockups
 ## Collaboration format: 30-minute meeting 
 
 ### Request Process
-**VFS Product Manager** initiates scheduling by submitting ZenHub issue — use `Usability Testing Prep` template _(select in ZenHub dropdown or click [here]( https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd&labels=product+support%2C+content-ia-team%2C+collaboration-cycle&template=usability-testing-prep.md&title=Usability+Testing+Prep+%5BFeature-Name%5D) to open a ticket)_. VSP will schedule the meeting.
+**VFS Product Manager** initiates scheduling by submitting ZenHub issue — use `Usability Testing Prep` template _(select in ZenHub dropdown or click [here]( https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+shiragoodman&labels=vsp-product-support%2C+content-ia-team%2C+collaboration-cycle%2C+collab-cycle-review&template=usability-testing-prep.md&title=Usability+Testing+Prep+%5BTeam+Name%2C+Feature+Name%5D) to open a ticket)_. VSP will schedule the meeting.
 
 ### Artifact inputs
 You bring: 
@@ -142,12 +142,12 @@ VSP brings:
   - Anyone else from your team who significantly contributed to the artifacts provided (required)
 - If VFS team is part of VSA contract, also include as optional: Accessibility (Jennifer), Design (Shawna), QA (Tze)
 - VSP brings: 
-  - Design (Crystabel & Emily) - required
+  - Design (Allison & Emily) - required
   - Accessibility (Trevor) - required
   - Content (Peggy) - required
   - Information architecture (Mikki) - required
   - QA (Peter) - required
-  - Product (Andrea Hewitt) - required
+  - Product (Shira) - required
   - VSP’s DEPO co-leads (Rachael, Kevin & Dror) - Optional
   - Analytics (Joanne) - optional
 
@@ -192,7 +192,7 @@ Collaborate with VSP’s Information Architect to finalize your URL and other ke
 ## Collaboration format: asynchronous
 
 ### Request process
-**VFS Product Manager** initiates by completing `IA Request` template in ZenHub _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+meganhkelley%2C+mnorthuis&labels=product+support%2C+content-ia-team&template=ia-request.md&title=IA+Request+%5BFeature-Name%5D) to open a ticket)_. VSP Information Architect provides feedback and finalized information architecture asynchronously on the ZenHub ticket.
+**VFS Product Manager** initiates by completing `IA Request` template in ZenHub _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis%2C+shiragoodman&labels=vsp-product-support%2C+collaboration-cycle%2C+collab-cycle-review&template=ia-request.md&title=IA+Request+%5BTeam-Name%2C+Feature-Name%5D) to open a ticket)_. VSP Information Architect provides feedback and finalized information architecture asynchronously on the ZenHub ticket.
 
 ### Artifact inputs
 You bring: 
@@ -223,7 +223,7 @@ Begin setup of Google Tag Manager and ForeSee so we can understand how Veterans 
 ## Collaboration Format: 30-minute kickoff meeting for Google Tag Manager
 
 ### Request process
-**VFS Product Manager** submits request using `Analytics Implementation and QA Request` template for Google Tag Manager implementation _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+jonwehausen%2C+nedierecel&labels=analytics-insights%2C+analytics-request&template=analytics-implementation-and-qa-request-template.md&title=Analytics+Implementation+or+QA+Support+for+%5BProduct%5D) to open a ticket)_. Slack [#vfs-analytics](https://dsva.slack.com/channels/vfs-analytics) for ForeSee setup.
+**VFS Product Manager** submits request using `Analytics Implementation and QA Request` template for Google Tag Manager implementation _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+bsmartin-ep%2C+jonwehausen%2C+bmcgrady-ep&labels=analytics-insights%2C+analytics-request%2C+collaboration-cycle%2C+collab-cycle-review&template=analytics-implementation-and-qa-request-template.md&title=Analytics+Implementation+or+QA+Support+for+%5BTeam+Name+-+Feature+Name%5D) to open a ticket)_. Slack [#vfs-analytics](https://dsva.slack.com/channels/vfs-analytics) for ForeSee setup.
 
 ### Meeting attendees 
 
@@ -302,7 +302,7 @@ Get feedback on your completed build before rolling out to users.
 ## Collaboration format: 30-minute meeting
 
 ### Request Process
-**VFS Product Manager** requests meeting using the `Staging Review` template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd&labels=product+support%2C+content-ia-team%2C+collaboration-cycle%2C+staging-review&template=staging-review.md&title=Staging+Review+%5BFeature-Name%5D) to open a ticket)_. VSP will schedule the meeting.
+**VFS Product Manager** requests meeting using the `Staging Review` template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+Shiragoodman&labels=vsp-product-support%2C+collaboration-cycle%2C+staging-review%2C+collab-cycle-review&template=staging-review.md&title=Staging+Review+%5BTeam+Name+-+Feature+Name%5D) to open a ticket)_. VSP will schedule the meeting.
 
 ### Artifact inputs
 You bring: 
@@ -344,11 +344,11 @@ VSP brings:
   - Anyone else from your team who significantly contributed to the artifacts provided (required)
 - If VFS team is part of VSA contract, also include as optional: Accessibility (Jennifer), Design (Shawna), QA (Tze)
 - VSP brings: 
-  - Design (Crystabel & Emily) - required
+  - Design (Allison & Emily) - required
   - Accessibility (Trevor) - required
   - Content (Peggy) - required
   - QA (Peter) - required
-  - Product (Andrea Hewitt) - required
+  - Product (Shira) - required
   - Information architecture (Mikki) — optional
   - VSP’s DEPO co-leads (Rachael, Kevin & Dror)
   - Analytics (Joanne) - optional
@@ -387,7 +387,7 @@ Ensure your feature meets VSP's privacy and security standards.
 
 ### Outcomes and artifact outputs
 - VSP provides a list of concrete action items that need to be addressed, or approval to roll out
-- Once VFS team has complete those action items, assign the security review issue back to @gunsch, who will confirm completion and close out the issue, signalling approval of the security review.
+- Once VFS team has complete those action items, assign the security review issue back to @Michael Fleet, who will confirm completion and close out the issue, signalling approval of the security review.
 
 ### Meeting attendees 
 - VFS brings:
@@ -397,7 +397,7 @@ Ensure your feature meets VSP's privacy and security standards.
   - Anyone else on your team whose presence is needed to speak to the technical architecture and security concerns (required)
 - If VFS team is part of VSA contract, also include as optional: VSA Engineering Lead
 - VSP brings: 
-  - Engineering experts (Andrew Gunsch or Michael Fleet, others as needed)
+  - Engineering experts (Michael Fleet, others as needed)
 
 ## For further support at this point
 Reach out to Platform team in Slack [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) with any questions, and you’ll be directed to the correct resource.
@@ -417,7 +417,7 @@ Accessibility experts complete a full accessibility audit and coordinate with th
 ### Request Process
 **VFS Product Manager** Two options: 
 
-1. [Request Full Accessibility & 508 Office Audit](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+product+support&template=full-accessibility-and-508-office-audit.md&title=Full+Accessibility+%26+508+Office+Audit+%5BFeature-Name%5D) 
+1. [Request Full Accessibility & 508 Office Audit](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+shiragoodman&labels=508%2FAccessibility%2C+vsp-product-support%2C+collaboration-cycle%2C+collab-cycle-review&template=full-accessibility-and-508-office-audit.md&title=Full+Accessibility+%26+508+Office+Audit+%5BTeam+Name+-+Feature+Name%5D) 
 1. Or select `Full Accessibility & 508 Office Audit` template in the Zenhub dropdown
 
 ### Artifact inputs
@@ -458,7 +458,7 @@ Now that you’ve released your product and gathered some initial KPI data, eval
 ## Collaboration format: asynchronous
 
 ### Request Process
-**VFS Product Manager** link to your completed Release Plan in Slack [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams) and tag @andreahewitt
+**VFS Product Manager** link to your completed Release Plan in Slack [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams) and tag @shira goodman
 
 ### Artifact inputs
 You bring: 
@@ -473,4 +473,3 @@ _**VSA teams:**_
 
 ## For further support at this point
 Reach out in [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams) with questions
-

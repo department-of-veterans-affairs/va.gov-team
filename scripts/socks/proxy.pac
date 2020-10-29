@@ -1,9 +1,14 @@
 function FindProxyForURL(url, host) {
-  PROXY = "SOCKS5 127.0.0.1:2001"
+  PROXY = "SOCKS5 127.0.0.1:2001;SOCKS 127.0.0.1:2001"
 
-  if (shExpMatch(host,"*.vfs.va.gov|*.vetsgov-internal")) {
+  if (shExpMatch(host,"*.vfs.va.gov")) {
     return PROXY;
   }
+
+  if (shExpMatch(host,"*.vetsgov-internal")) {
+    return PROXY;
+  }
+
   // Everything else directly!
   return "DIRECT";
 }

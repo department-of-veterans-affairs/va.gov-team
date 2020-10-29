@@ -87,6 +87,12 @@ Service members being able to apply for their first VA benefits on VA.gov versus
 - Convert from BDD to "All Claims"
 - % of "rejected / diverged" BDD claims (input KPI)
 
+- Time to complete BDD form
+  - Does anyone get stuck on a screen for some time?
+  - How many people eventually give up (as a rate/%)
+  - Can we compare this to legacy methods (eBenefits)
+  - Time on page
+
 - Number of BDD claims successfully "adjudicated" within *n* days  (North Star Metric)
 
 **Lifecycle (Conversion funnel)**

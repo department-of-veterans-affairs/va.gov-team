@@ -164,11 +164,43 @@ As a Yellow Ribbon data producer, I want to submit timely up-to-date Yellow Ribb
 
 ## Measuring Success
 
-### KPIs
-- [Number of people visiting YR pages per month](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/explorer-table.filter=benefits.va.gov~2Fgibill~2Fyellow_ribbon~2F&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=500&explorer-graphOptions.selected=analytics.nthMonth/)
+### Analytics 
+**View: _Production - Education Modernized View_**
 
-- [Searches on Yellow Ribbon Prod](https://analytics.google.com/analytics/web/template?uid=_dGj-n8oRPebRu1FlLdJQQ)
-  - View: _Production - Education Modernized View_
+- [Number of people visiting YR pages per month](https://analytics.google.com/analytics/web/?authuser=1#/report/content-pages/a50123418w177519031p184334251/_u.date00=20200101&_u.date01=20200914&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:~2Feducation~2Fyellow-ribbon-participating-schools~2Findex.html&explorer-graphOptions.selected=analytics.nthMonth)
+
+
+- [Yellow Ribbon Searches and Refinements](https://analytics.google.com/analytics/web/?authuser=1#/report/content-site-search-pages/a50123418w177519031p184334251/explorer-segmentExplorer.segmentId=analytics.searchKeyword&_r.drilldown=analytics.searchStartPage:~2Feducation~2Fyellow-ribbon-participating-schools~2Findex.html&explorer-table.plotKeys=%5B%5D)
+
+- [Yellow Ribbon Exit Pages](https://analytics.google.com/analytics/web/?authuser=1#/report/content-pages/a50123418w177519031p184334251/_r.drilldown=analytics.pagePath:~2Feducation~2Fyellow-ribbon-participating-schools~2Findex.html&_r.tabId=navigationsummary)
+
+### KPIs
+**Experience Metrics**
+- % exit to university pages 
+- % exit to other VA.gov links  
+  - Find out if you qualify for the Yellow Ribbon Program
+  - Find out if you're eligible for the Post-9/11 GI Bill
+  - Apply for Post-9/11 GI Bill benefits
+- Avg. number of search refinements
+- Frequency of search criteria usage
+- Search results load speed
+
+**Outcomes Metrics**
+- % of Post-911 GI Bill benefit applications started in session with a visit to YR
+- % of sessions with successful logins following a visit to YR
+- % of sessions with success account creations following a visit to YR
+
+**Consider for a Domo Dashboard**
+Many of these are currently available in GA (see Yellow Ribbon Searches and Refinements above). And I'm not sure how this'll translate to Domo, if at all. 
+
+|Metric|Value|
+|--|--|
+|Frequency of search criteria usage |bc it explains whether/how people use the YR tool|  
+|% exit to university pages|bc it indicates whether we're triggering users to take the next step to research individual institutions. We cannot, however, know what happens next.|
+|% exit to other VA.gov links|bc it indicates whether users are continuing the benefit discovery process|
+|% of Post-911 GI Bill benefit applications started in session with a visit to YR|bc we want to enable wider usage of benefits specifically the Post-911 GI Bill benefit, which is necessary for participation in the YR program|
+|% of sessions with successful logins following a visit to YR|bc we want to learn if we're prompting Veterans to leverage their existing profiles|
+|% of sessions with success account creations following a visit to YR|bc we want to learn if we're incentivizing Veterans to create accounts and eventually start the benefit application process|
 
 ### OKRs
 

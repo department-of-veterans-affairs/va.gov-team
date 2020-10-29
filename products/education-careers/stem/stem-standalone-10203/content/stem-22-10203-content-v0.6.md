@@ -113,10 +113,12 @@ Start the education application >> { button }
 
 { end if logged in }  
 
+{ OMB / Privacy Policy anchor #privacy_policy (link for SCO email https://www.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction#privacy_policy )}
+
 Respondent burden: **15 minutes**  
 OMB Control #: **2900-0878**  
 Expiration date: **06/30/2023**  
-[Privacy Act Statement]()  { add anchor to this link }
+[Privacy Act Statement]()  
 
 ________________________________________
 
@@ -396,10 +398,16 @@ Please enter your contact details below so we can get in touch with you, if nece
 - Email address (*Required) { text field with email validation, prefill if present }
 - Re-enter email address (*Required) { text field with email validation, prefill if present }
 - Home phone number { text field, phone number validation (10 digit string, Required if "Home phone" is selected, prefill if present }
-- Mobile phone number { text field, phone number validation (10 digit string), Required if "Home phone" is selected, prefill if present  }
-- [ ] I would like to receive text message updates from VA regarding my GI Bill benefits { if selected and the mobile phone number text field is empty, ignore value in data file }
+- Mobile phone number { text field, phone number validation (10 digit string), Required if "Mobile phone" is selected; required after "I would like to receive text messages" is selected, prefill if present  }
+- [ ] I would like to receive text message from VA about my GI Bill benefits { if selected and the mobile phone number text field is empty, display conditional text message alert below, add required label to mobile field and validate as required field on "Continue" click }
 
-**Note:** Text messages may include updates, status messages, requests to verify school attendance, etc. Message and data rates may apply. 
+**Note:** Text messages may include status updates or requests to verify school attendance or other GI Bill benefit information. Message and data rates may apply. 
+
+{ conditional text message alert - Background color only warning alert }
+
+Since you've opted to receive text message updates, you need to enter your mobile phone number so we can send updates to your device.
+
+{ end conditional alert }
         
  [ Back | Continue ] { buttons }   
  [Finish this application later]()

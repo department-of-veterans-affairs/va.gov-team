@@ -80,5 +80,5 @@ Since this is an unmoderated study, there will be no team members present for th
 - [Recruiting email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-recruit-email-veterans.md)
 - [Audience label card sort](https://adhoc.optimalworkshop.com/optimalsort/eaihc576-0)
 - [Topic label card sort](https://adhoc.optimalworkshop.com/optimalsort/eaihc576) 
-- Synthesis - will be available 1 week after close of study
-- Read-Out/Results  - will be available 1 week after close of study
+- [Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-summary.md)
+- [Read-Out/Results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-sprint-readout.md)

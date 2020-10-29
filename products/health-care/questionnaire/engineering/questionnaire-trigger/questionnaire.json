@@ -1,0 +1,72 @@
+{
+  "resourceType" : "Questionnaire",
+  "url" : "https://www.va.gov/healthcare/questionnaire", // Canonical identifier for this questionnaire, represented as a URI (globally unique)
+  "version" : "1.0", // Business version of the questionnaire
+  "name" : "HC-QSTNR", // C? Name for this questionnaire (computer friendly)
+  "title" : "Pre-appointment Questionnaire", // Name for this questionnaire (human friendly)
+  "status" : "active", // R!  draft | active | retired | unknown
+  "date" : "<dateTime>", // Date last changed
+  "publisher" : "Veterans Affair", // Name of the publisher (organization or individual)
+  "description" : "lorem ipsum.....", // Natural language description of the questionnaire
+  "purpose" : "to collect pre-appointment information", // Why this questionnaire is defined
+  "copyright" : "Oct 28th, 2020", // Use and/or publishing restrictions
+  "approvalDate" : "<date>", // When the questionnaire was approved by publisher
+  "lastReviewDate" : "<date>", // When the questionnaire was last reviewed
+  "effectivePeriod" : { Period }, // When the questionnaire is expected to be used
+  "code" : [{ Coding }], // Concept that represents the overall questionnaire
+  "item" : [{ // C? Questions and sections within the Questionnaire
+    "linkId" : "<string>", // R!  Unique id for item in questionnaire
+    "definition" : "<uri>", // ElementDefinition - details for the item
+    "code" : [{ Coding }], // C? Corresponding concept for this item in a terminology
+    "prefix" : "<string>", // E.g. "1(a)", "2.5.3"
+    "text" : "<string>", // Primary text for the item
+    "type" : "<code>", // R!  group | display | boolean | decimal | integer | date | dateTime +
+    "enableWhen" : [{ // Only allow data when
+      "question" : "<string>", // R!  Question that determines whether item is enabled
+      "operator" : "<code>", // R!  exists | = | != | > | < | >= | <=
+      // answer[x]: Value for question comparison based on operator. One of these 10:
+      "answerBoolean" : <boolean>
+      "answerDecimal" : <decimal>
+      "answerInteger" : <integer>
+      "answerDate" : "<date>"
+      "answerDateTime" : "<dateTime>"
+      "answerTime" : "<time>"
+      "answerString" : "<string>"
+      "answerCoding" : { Coding }
+      "answerQuantity" : { Quantity }
+      "answerReference" : { Reference(Any) }
+    }],
+    "enableBehavior" : "<code>", // C? all | any
+    "required" : <boolean>, // C? Whether the item must be included in data results
+    "repeats" : <boolean>, // C? Whether the item may repeat
+    "readOnly" : <boolean>, // C? Don't allow human editing
+    "maxLength" : <integer>, // C? No more than this many characters
+    "answerValueSet" : { canonical(ValueSet) }, // C? Valueset containing permitted answers
+    "answerOption" : [{ // C? Permitted answer
+      // value[x]: Answer value. One of these 6:
+      "valueInteger" : <integer>,
+      "valueDate" : "<date>",
+      "valueTime" : "<time>",
+      "valueString" : "<string>",
+      "valueCoding" : { Coding },
+      "valueReference" : { Reference(Any) },
+      "initialSelected" : <boolean> // Whether option is selected by default
+    }],
+    "initial" : [{ // C? Initial value(s) when item is first rendered
+      // value[x]: Actual value for initializing the question. One of these 12:
+      "valueBoolean" : <boolean>
+      "valueDecimal" : <decimal>
+      "valueInteger" : <integer>
+      "valueDate" : "<date>"
+      "valueDateTime" : "<dateTime>"
+      "valueTime" : "<time>"
+      "valueString" : "<string>"
+      "valueUri" : "<uri>"
+      "valueAttachment" : { Attachment }
+      "valueCoding" : { Coding }
+      "valueQuantity" : { Quantity }
+      "valueReference" : { Reference(Any) }
+    }],
+    "item" : [{ Content as for Questionnaire.item }] // C? Nested questionnaire items
+  }]
+}

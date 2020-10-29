@@ -1,5 +1,5 @@
 # IA Review and Recommendations
-**STATUS: IN PROGRESS**  
+**STATUS: COMPLETE**  
 
 **Team:** eBenefits
 
@@ -9,7 +9,7 @@
 
 **IA Request:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/9082
 
-**IA Completed Date:** 
+**IA Completed Date:** 9/15/2020
 
 <hr>
 
@@ -23,6 +23,17 @@
 ![image](https://user-images.githubusercontent.com/20994159/90075840-fa0b4f00-dcc3-11ea-9b31-ed9b3d1425ed.png)
 
 
+**User Flow(s)**
+- Users will be able to access the new form through the existing content page or directly - they do not need to pass through the content page to access the form.
+- The introduction page of the new form will include a "wizard" that checks the user's eligibility for the program.  Users will be able to skip the wizard or still complete the application despite the results of the wizard. 
+- In the case the wizard finds the user may not be eligible, they will receive a message and/or a link to a related content page.
+- In some cases, the wizard may also promote the VRE/chapter 31 program but the user will not be automatically sent there. If the user chooses to go to the Ch 31 application, they will need to complete the corresponding wizard on that form. 
+
+Wizard flow:
+
+![image](https://user-images.githubusercontent.com/20994159/93143426-8c30b980-f6ad-11ea-895a-58bfa3ddd6c5.png)
+
+
 
 **URLs and Breadcrumbs:**
 
@@ -31,21 +42,26 @@ _Please confirm the proper verbiage and capitalization with your writer_
 
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
-Static Page | www.va.gov/careers-employment/education-and-career-counseling/ | Home > Careers and employment > Career guidance |  Need to confirm H1 and breadcrumb labeling
-Application | www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/ | Home > Careers and employment > Career guidance > Apply for Personalized Career Planning and Guidance form 28-8832 |  Need to confirm H1 and breadcrumb labeling
+Static Page | www.va.gov/careers-employment/education-and-career-counseling/ | Home > Careers and employment > Career planning and guidance |  
+Application | www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/ | Home > Careers and employment > Career planning and guidance > Apply for Personalized Career Planning and Guidance Form 28-8832 | 
 
 <hr>
 
-### Navigation Changes and Entry and Exit Points <br>
+### Navigation Changes and Entry <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
 Priority | Placement | Link to | Notes/Description
 --- | --- | --- | ---
-tbd | [Ch36 PCPG page](https://www.va.gov/careers-employment/education-and-career-counseling/) | www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/ | Apply now CTA under "How do I get these benefits?"
-tbd | [Dependent benefits page](https://www.va.gov/careers-employment/dependent-benefits/) |  www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/ | Apply now CTA under "How do I get these benefits?"
-tbd | [Family member benefits hub page](https://www.va.gov/family-member-benefits/) | www.va.gov/careers-employment/education-and-career-counseling/ | Or a link is just added to the Education Survivor and dependent benefit page
-tbd | [Education dependent benefits page](https://www.va.gov/education/survivor-dependent-benefits/) | www.va.gov/careers-employment/education-and-career-counseling/ | Add link and content as related benefit
-tbd | [CareerScope page](https://www.va.gov/careers-employment/careerscope-skills-assessment/) |  www.va.gov/careers-employment/education-and-career-counseling/ | possibly add a related benefits box to bottom of page
+MUST | Top nav - Careers and employment | https://www.va.gov/careers-employment/education-and-career-counseling/ | Add a link to the PCPG static page from the top nav.  The link should be placed in the left "Get benefits" column and placed immediately after "How to apply". 
+MUST | Hub page - Careers and employment <br> https://www.va.gov/careers-employment/ | www.va.gov/careers-employment/education-and-career-counseling/ | Update link label and teaser for new program name.
+MUST | Hub page - Service member benefits <br> https://www.va.gov/service-member-benefits/ | www.va.gov/careers-employment/education-and-career-counseling/ | Update link label and teaser for new program name.
+SHOULD | Hub page - Family member benefits <br> https://www.va.gov/family-member-benefits/ | https://www.va.gov/careers-employment/dependent-benefits/ | Add link and teaser text to the "Benefits for spouses, dependents and survivors" section.  Place after "Education and training" option. 
+MUST | Left nav - Careers and employment <br> https://www.va.gov/careers-employment/ | www.va.gov/careers-employment/education-and-career-counseling/ | Update link label for new program name.
+MUST | Left nav - Careers and employment <br> https://www.va.gov/careers-employment/ | www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/ | Add link to left nav to "Apply now".  The link will be a child of the Career planning and guidance option. 
+MUST | Content page - Ch36/PCPG <br> https://www.va.gov/careers-employment/education-and-career-counseling/ | www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/ | Replace "Go to eBenefits to apply" button with green button that goes directly to application. 
+MUST | Content page - Dependent benefits <br> https://www.va.gov/careers-employment/dependent-benefits/ |  www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/ | Replace "Go to eBenefits to apply" button with green button that goes directly to application. 
+CONSIDER | Content page - Education dependent benefits <br> https://www.va.gov/education/survivor-dependent-benefits/ | https://www.va.gov/careers-employment/dependent-benefits/ | Consider adding a link and content as a related benefit to the dependents version of the PCPG page. 
+CONSIDER | Content page - CareerScope <br> https://www.va.gov/careers-employment/careerscope-skills-assessment/ |  www.va.gov/careers-employment/education-and-career-counseling/ | Consider adding content and link for the PCPG program that links to the static content page.
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 

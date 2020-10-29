@@ -35,7 +35,7 @@ FROM
   `vsp-analytics-and-insights.176188361.ga_sessions_*` AS t,
   UNNEST(t.hits) AS h
 WHERE 
-  _table_suffix BETWEEN '20200301' AND FORMAT_DATE('%Y%m%d',DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY))
+  _TABLE_SUFFIX = FORMAT_DATE('%Y%m%d',DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY))
   AND h.type = 'EVENT'
   AND h.eventInfo.eventLabel = 'nav-covid-link-click'
 GROUP BY 

@@ -75,7 +75,7 @@ We have a React/Redux/Node front end with a Ruby-on-Rails back end, plus static 
 
 - React
 - Redux
-- Node.js (_only for scripting and building; S3/CDN for production? Check into this_ ....)
+- Node.js (_mostly for scripting and building_)
 - Yarn (_for package management_)
 - Metalsmith (for static content generation)
 - Key Libraries:
@@ -122,11 +122,11 @@ Slack is preferred over emails; however, you will get meeting requests via email
 | #general                   |
 | [#forms-library](https://dsva.slack.com/channels/forms-library)             | A channel to chat about the VA Form library |
 | #random                    |
-| [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams)             |
+| [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams)             | Weekly Team of Teams slides are here |
 | [#vfs-backend](https://dsva.slack.com/channels/vfs-backend)               | Backend Developers, Technical               |
 | [#vfs-engineers](https://dsva.slack.com/channels/vfs-engineers)             | Jenkins deploy, VSP announcements           |
 | [#vfs-frontend](https://dsva.slack.com/channels/vfs-frontend)              | Frontend Developers, Technical              |
-| [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)      | VSP Platform Support (Help)                 |
+| [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)      | VSP Platform Support (Help). Developers spend a lot of time here.|
 | #vsa                       | VSA all teams and practice areas            |
 | [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp)             | Team: Authenticated Experience              |
 | [#vsa-bam-2](https://dsva.slack.com/channels/vsa-bam-2)                 | Team: Benefits And Memorial #2              |
@@ -140,6 +140,7 @@ Slack is preferred over emails; however, you will get meeting requests via email
 | [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites)       | Team: Public Websites                       |
 | [#vsa-vamc-upgrade](https://dsva.slack.com/channels/vsa-vamc-upgrade)          | Team: Medical Center                        |
 | [#vsa-clipboard](https://dsva.slack.com/channels/vsa-clipboard)             | Team: Healthcare                            |
+| [#vsa-clipboard-tech-questions](https://dsva.slack.com/channels/vsa-clipboard-tech-questions) | Team: Healthcare (just devs/technical) |
 
 - If you still have questions about getting started or where to find certain resources (after having internally checked within your team and lead), the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) channel is a good place to get some visibility to your question. It is the best way for team members to engage with the VSP Platform Support Team.
 - **Bots**: **_/wtf_** On the DSVA slack, you can look up VA Acronyms (source/data: https://github.com/department-of-veterans-affairs/acronyms)
@@ -162,7 +163,9 @@ https://drive.google.com/drive/folders/0ACZ1e6Rs_6sDUk9PVA
 ## Google Calendar (Shared): PTO
 
 https://www.google.com/calendar/render?cid=governmentcio.com_rae2ref7gb5p67nmcuj2l7ege0@group.calendar.google.com \
-PTO Calendar: put your days off (approved vacation, sick, etc.) on our shared Google PTO Calendar.
+PTO Calendar: after approval from your PM and lead, put your days off (approved vacation, sick, etc.) on our shared Google PTO Calendar. Usage tips:
+- Please do not send meeting invitations to let people know you will be out of office. Those clutter our calendars so most people will decline or delete/ignore. Just add your PTO/OOO to this calendar.
+- When creating meetings remember to check this calendar to see who is out, but don't send invitations to this calendar.
 
 ## Google Calendar: Work Account
 
@@ -318,10 +321,10 @@ Although we do not dictate whether developers should use Windows vs Linux vs Mac
 
 - Macbook Pro issued by US Resources to GovernmentCIO employees:
   - You’ll have to call US Resources to get the password (account is not integrated into Active Directory)
-  - The good news is that I was already set up as admin. If you are not admin, let US Resources know immediately, because you need to be.
-  - If you upgrade to Catalina (recommended) you may need to acknowledge a few additional security prompts. I believe this came up with video and DisplayLink drivers though (dual monitor support), not the development software itself.
+  - If you are not admin, let US Resources know immediately, because you need to be.
+  - If you upgrade to Catalina (recommended) you may need to acknowledge a few additional security prompts.
 - Most tools are open source.
-- While Microsoft doesn't have a desktop version of Visio for macOS, you can use "Visio for the Web" (Office 365) from your Mac in a web browser.
+- You can only get so far with words, so we encourage developers to use diagrams to communicate architecture, design, and business/data flow. We recommend [diagrams.net](https://app.diagrams.net/) (previously known as Draw.io) because it's free and open source. It's a well-known Progressive Web App (PWA) based on MxGraph that comes in both online or offline versions. Alternatives include Lucidchart and Visio; however, neither of those are free. 
 
 ### Software List
 
@@ -332,7 +335,7 @@ In order to dogfood VSP's install instructions, VSA developers are expected to h
 | Slack                                            | https://slack.com/downloads                                                                                                                                    | Slack isn't directly used for builds, but it is our main team collaboration/messaging hub (preferred over email), so you'll need it installed first in order to reach out to people for help. On your development system, please use the installed/desktop version to get all the features (the web version isn't enough.)                                                               |
 | Homebrew                                         | https://brew.sh                                                                                                                                                | Package manager for macOS. Used via the terminal to install node.js, nvm, ruby, yarn and all the other software needed. Must be updated regularly in order to keep the repositories up to date.                                                                                                                                                                                          |
 | Yarn                                             | https://yarnpkg.com                                                                                                                                            | Dependency manager used on the VA frontend. Install using the [VA.gov Client Platform "Getting Started" Guide](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/)                                                                                                                                                                          |
-| NVM                                              | [NVM install guide]https://github.com/nvm-sh/nvm/blob/master/README.md                                                                                         | Version manager for Node.js. We use `10.15.3`. Recommended to set that as default using the command `nvm install 10.15.3` and then `nvm alias default 10.15.3`. If you are using Homebrew(you should) on a Mac, you will also have to add a line this line (`[[ -s $HOME/.nvm/nvm.sh ]] && . $HOME/.nvm/nvm.sh # This loads NVM`) to your `.bash_profile`, `.zshrc`, or `.profile file.` |
+| NVM                                              | https://github.com/nvm-sh/nvm ([install guide](https://github.com/nvm-sh/nvm#installing-and-updating)) | Version manager for Node.js. We use `10.15.3`. Recommended to set that as default using the command `nvm install 10.15.3` and then `nvm alias default 10.15.3`. If you are using Homebrew(you should) on a Mac, you will also have to add a line this line (`[[ -s $HOME/.nvm/nvm.sh ]] && . $HOME/.nvm/nvm.sh # This loads NVM`) to your `.bash_profile`, `.zshrc`, or `.profile file.` |
 | Node.js                                          | https://nodejs.org                                                                                                                                             | Needed to execute the website frontend. Install using the [VA.gov Client Platform "Getting Started" Guide](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/)                                                                                                                                                                              |
 | GitHub Desktop                                   | https://desktop.github.com                                                                                                                                     | Desktop Git client that allows us to work with the GitHub-hosted VA repositories. It addition to a UI, it also installs the Git command-line client.                                                                                                                                                                                                                                     |
 | Visual Studio Code                               | https://code.visualstudio.com                                                                                                                                  | IDE to modify and debug code, especially front-end React, but also back-end Ruby/Rails. Sticking to this popular IDE makes it easier to recommend and standardize code-assist/quality extensions (plug-ins).                                                                                                                                                                             |
