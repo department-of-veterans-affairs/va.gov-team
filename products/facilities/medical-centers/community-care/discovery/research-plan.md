@@ -36,7 +36,7 @@ Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audi
 
 ### Assumptions 
 
-- Research findings are based on the assumption that the all Veteran appointments are made by submitting a request to Community Care managers, and that no appointments are made by Veterans themselves through via an automated process. 
+- Research findings are based on the assumption that the all Veteran appointments are made via request to Community Care managers. No appointments are made by Veterans themselves via an automated process. 
 
 
 ## Method
