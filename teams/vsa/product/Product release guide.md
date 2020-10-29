@@ -45,7 +45,7 @@ It is beneficial to conduct internal QA. This consisf of the team allocating 1 h
 - [ ] Critical UAT issues have been resolved
 
 ### Phased Launch
-
+- [ ] Phased launch has been completed
 
 ## Monitoring
 
