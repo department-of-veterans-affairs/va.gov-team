@@ -34,6 +34,11 @@ Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audi
 
 - By understanding how Community Care schedulers use systems to process requests, and how they search for facilities, we can determine how the taxonomy can be better organized. 
 
+### Assumptions 
+
+- Research findings are based on the assumption that the all Veteran appointments are made by submitting a request to Community Care managers, and that no appointments are made by Veterans themselves through via an automated process. 
+
+
 ## Method
 
 Generative research 
