@@ -22,12 +22,13 @@ Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audi
 - How do you search for type of care/specialities? Where do you search for that data + providers?
    - What words/categories are used by the schedulers when searching?
    - ~Which specialties are the most commonly searched? Rarely searched? Never searched?~ This can be answered through analytics
-- What search parameters do they use to identify the appropriate community care provider?
-   - What are their expectations for search results (such as the number of results and distance/drive time)?
+- What search parameters do community care managers use to identify the appropriate community care provider?
+   - What are community care managers' expectations for search results (such as the number of results and distance/drive time) vs. reality?
+    - Does that align with Veterans' expectations?
    - What happens if no providers meet the criteria?
-- How do they handle naming ( individual provider name vs group practice name)?
+- How do community care managers handle naming ( individual provider name vs group practice name)?
 - If you could change anything about community care online scheduling through VAOS what would it be?
-- If the schedulers are able to share anecdotal experience, we'd love to know what factors are important to a Veteran so that we can present Facility Locator Community care provider search results accordingly.
+- If the community care managers are able to share anecdotal experience, we'd love to know what factors are important to a Veteran so that we can present Facility Locator Community care provider search results accordingly.
 
 ### Hypothesis 
 
