@@ -57,16 +57,17 @@ It is beneficial to conduct internal QA. This consisf of the team allocating 1 h
 - [ ] Resolve issues (if applicacble)
 
 #### Go-live to 100% of traffic
-- [ ] Conduct Go-live go/no go meeting [example]()
+- [ ] Conduct Go-live go/no go meeting [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Launch%20go%20no-go.md)
 - [ ] Resolve issues (if applicable)
 - [ ] Launch to 100 of users!
 
-
 ## Monitoring
-
-
+- [ ] Monitor analytics daily to ensure there are no abnormalities/errors
+- [ ] Resolve any issues (if applicable)
 
 ## Post Launch
+- [ ] Fill in post launch metrics in the Release Plan
+
 
 
 
