@@ -55,11 +55,11 @@ Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audi
 
 ----------
 ### Scenario (TBD whether to include) ###
-- I am a Veteran with a referral to an Audiology care provider
-   - I don't have a preferred provider, and am requesting an appointment
+- I am a Veteran with a referral to an Audiology care provider.
+   - I have a preferred care provider in hand, and am requesting an appointment.
    - <b>Walk me through the search for a provider.</b>
    
-- If I were a Veteran with a referal to a non-specialty, and requesting an appointment, would the process/search differ in any way?
+- What if I, as a Veteran, do not have a preferred care provider in hand?
 ----------
 
 ## Section 2 - Searching for Care
