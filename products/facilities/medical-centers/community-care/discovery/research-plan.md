@@ -40,7 +40,7 @@ Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audi
 
 ## Method
 
-Generative research 
+Qualitative research 
 
 ## Participants and Recruitment
 
