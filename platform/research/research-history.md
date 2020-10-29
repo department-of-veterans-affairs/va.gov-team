@@ -35,6 +35,14 @@ This does not include research for Appeals projects, which is stored in differen
 - 5 participants
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/outreach-specialist-interviews)
 
+
+#### August 10-14
+*VA Lighthouse APIs: Lauryl Zenobi*
+- 9 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/patient-generated-data)
+**Key words:** Veterans, Clinicians, PGD, Wearables, Data-sharing, Clinical workflows
+
+
 #### August 10 - 12
 *CTO health team: Ryan Thurlwell*
 
