@@ -31,11 +31,11 @@ Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audi
 
 ### Hypothesis 
 
-- Update with hypothesis 
+- By understanding how Community Care schedulers use systems to process requests, and how they search for facilities, we can determine how the taxonomy can be better organized. 
 
 ## Method
 
-Qualitative research interviews via Zoom. 
+Generative research 
 
 ## Participants and Recruitment
 
@@ -51,11 +51,6 @@ Qualitative research interviews via Zoom.
   
 - Are you currenty a Community Care Manager who schedules appointment for Veterans?
   - (Answer must be yes)
-
-#### Secondary criteria / Would like to have - 
-
-- Update with secondary criteria 
-
  
 ## Timeline
 
