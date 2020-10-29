@@ -141,7 +141,7 @@ This does not include research for Appeals projects, which is stored in differen
   - [Stakeholder interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/stakeholder-interviews/stakeholder-interview-synthesis.md)
   - [Comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/comparative-analysis.md)
   - [Review of analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/analytics/analytics-summary.md)
-  - [Review of past research studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/previous-research-review.md).
+  - [Review of past research studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/previous-research-review.md)
 
 **Keywords**: My VA redesign, personalization, dashboard, notifications, alerts, co-design, collaborative design, participatory design, generative research
  
