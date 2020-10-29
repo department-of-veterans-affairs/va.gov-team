@@ -17,6 +17,8 @@ Revisions to text, formatting, features and design based on:
 - [CH31/CH36 usability testing recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-synthesis.md#recommendations)
 - [New stakeholder CH31 orientation requirements](https://forms.office.com/Pages/ResponsePage.aspx?id=xUHAIKHMVEu8eusWOxuMFPIlzBAHyVxArtObba5apaZURVVTOVlNUktRN0xHUFVJVkZSMUtQVzMzVi4u)
 
+### Throughout
+- [ ] Revise breadcrumbs to: "Home > Careers and employment > Career planning and guidance > Apply for Personalized Career Planning and Guidance Form 28-8832"
 
 ### CH36 screening wizard
 - [ ] Change H1 to: "Apply for Personalized Career Planning and Guidance with VA Form 28-8832"
@@ -30,17 +32,17 @@ Revisions to text, formatting, features and design based on:
 - [ ] Change final stop/alert text to, "When you’re ready to apply for career planning and guidance, just come back to this page to begin your application."
 
 ### Form intro screen
-- [ ] Include wizard "start over" feature per mockups
-- [ ] Revise headers and all paragraph copy per mockups
-- [x] Revise breadcrumbs to: "Home > Careers and employment > Career planning and guidance > Apply for Personalized Career Planning and Guidance Form 28-8832"
-- [ ] Remove CH31 crossover language
-- [ ] Revise content to reflect "eligibility" over "form" in all headers
+- [ ] Include wizard "start over" feature: "If you're not sure this is the right form, you can go back and answer the questions again." This is above and below the subway map
+- [ ] Change green-button text to: "Apply for career planning and guidance"
+- [ ] Revise subway map content to remove section regarding: "Do you have a service-connected disability?"
+- [ ] Add feature box below subway map; see prototype for content and formatting
+- [ ] Revise content to reflect "eligibility" over "form" in all headers (?)
 
 ### VA form 22-8832
-- [ ] Revise questions per content feedback
-- [ ] Change form stepper to match current form conventions
-- [ ] Fix stepper sequence to align with current step
-- [ ] Place details of communicationoptions copy into accordions
+- [ ] Change "Claimant" to "Applicant" in all step headers
+- [ ] Change form stepper to match current form conventions in mockups
+- [ ] Fix stepper sequence to align with current step in mockups
+- [ ] Place details of communicatio options copy into accordions
 
 ### Confirmation screen
 - [ ] Align screen formattion to current form conventions
