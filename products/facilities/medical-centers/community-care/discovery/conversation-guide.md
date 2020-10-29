@@ -49,9 +49,9 @@ Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audi
 
 - Tell me, what was the last scheduling like?
 
-- Can you share an example of a past successful appointment scheduling?
+- Can you share an example of a past appointment request that was processed successfully?
 
-- Can you share an example of a past appointment scheduling that was difficult to complete? Why was it challenging?
+- Can you share an example of a past appointment request that was challenging to process? Why was it challenging?
 
 ----------
 ### Scenario ### (TBD whether to include)
