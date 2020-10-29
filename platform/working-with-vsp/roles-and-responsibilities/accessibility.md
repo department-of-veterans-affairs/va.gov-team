@@ -71,7 +71,7 @@ These are the expected responsibilities and division of labor for teams with one
   - VFS specialists will answer questions and help the produt team resolve issues
   - The VFS product team requesting the full audit will notify the VA 508 office of the product or feature in production.
     - The product team should email the VA 508 office and CC the DEPO platform accessibility specialist. This email should include information such as a staging URL, test user credentials, user flows, and any known issues.
-    - The DEPO platform accessibilty specialist will communicate any VA 508 office fixes to the project manager (PM) who requested the full audit
+    - The DEPO platform accessibilty specialist will communicate any VA 508 office fixes to the product manager (PM) who requested the full audit
 
 ## Collaboration cycle for VFS teams without an accessibility specialist
 
