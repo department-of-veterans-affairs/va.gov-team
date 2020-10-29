@@ -40,7 +40,7 @@ These are the expected responsibilities and division of labor for teams with one
 - **[Project Kickoff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#project-kickoff)**
 
   - VFS accessibility specialists are encouraged to attend the project kickoff meeting. Project kickoffs are a good opportunity for teams to ask questions and learn about the new product or feature.
-  - DEPO platform will collect specialist feedback (if any) and provide it to the VFS product team
+  - DEPO platform will collect and review specialist feedback
 
 - **[Design Intent](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#design-intent-collaboration)**
 
