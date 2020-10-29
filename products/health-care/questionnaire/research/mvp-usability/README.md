@@ -5,10 +5,8 @@
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/mvp-usability/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/mvp-usability/conversation-guide.md)
 - [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/research/mvp-usability/session-notes)
-- [Research report]()
+- [Research report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/mvp-usability/research-findings.md)
 - [Participants](#participants)
-- [Top takeaways](#top-takeaways)
-- [Background](#background)
 
 ## Participants
 
@@ -32,21 +30,4 @@
 | [P16](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/mvp-usability/session-notes/P16.md) | Oct. 19 1:30 - 2:30 p.m. | Attended | Virtual during COVID | iPhone | Veteran | Male | White or Caucasian | 55 - 64 | Some college (no degree) | Navy | PA |
 
 ## 
-
-
-## Top takeaways
-
-| Takeaway                                                     | #    | %    |
-| ------------------------------------------------------------ | ---- | ---- |
-|                                                              |      |      |
-
-******
-
-## Background
-
-
-## Some starting research questions:
-
-
-## Questions / outside scope of this specific research:
 
