@@ -45,7 +45,7 @@ These are the expected responsibilities and division of labor for teams with one
 - **[Design Intent](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#design-intent-collaboration)**
 
   - VFS accessibility specialists are encouraged to attend the design intent meeting
-  - DEPO platform will collect specialist feedback and provide it to the VFS product team. DEPO platform will comment or add guidance as needed.
+  - DEPO platform will collect and review specialist feedback. DEPO platform will comment or add guidance as needed.
   - VFS specialists will answer questions and consult on accessibility issues
   - VFS specialists will work with DEPO platform if there is a conflict or further collaboration is needed
 
