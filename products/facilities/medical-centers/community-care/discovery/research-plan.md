@@ -26,7 +26,7 @@ Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audi
    - What are community care managers' expectations for search results (such as the number of results and distance/drive time) vs. reality?
     - Does that align with Veterans' expectations?
    - What happens if no providers meet the criteria?
-- What do those search results look like, what is useful, and what do schedulers convey to the Veterans about the provider?
+- What do those search results look like, what is useful to schedule the appointment, and what do schedulers convey to the Veterans about the provider? And what is a waste of time?
 - If you could change anything about community care online scheduling through VAOS what would it be?
 - If the community care managers are able to share anecdotal experience, we'd love to know what factors are important to a Veteran so that we can present Facility Locator Community care provider search results accordingly.
 
