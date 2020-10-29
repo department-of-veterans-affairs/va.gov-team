@@ -81,6 +81,10 @@ how do we get this infront of PM's
  - Run by 2-3 PM's/PO's/Platform team to get feedback (bring a few open-ended/research questions)
  - Megan (Platform), Samara, PM's, engineers/designers
  - weekly product sync
+ - fix typos
+ - add examples
+ 
+ Show at next weeks product sync, meet with Mickin prior
 
 
 
