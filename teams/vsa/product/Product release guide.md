@@ -1,7 +1,7 @@
 # Product Release Guide 
 How do we ensure a smooth and successful launch?
 
-## Pre-Launch
+## Pre-Release
 In the "Build" phase of the VSP cycle, prior to the Staging review:
 
 ### Internal QA Session
@@ -15,15 +15,18 @@ It is beneficial to conduct internal QA. This consisf of the team allocating 1 h
 - [ ] TBD
 - [ ] Notes
 
-### Preparing all necessary documentation
+### Analytics
+- [ ] Dashboards have been created and link directly to your OKR/KPI's
+- [ ] Dashboards work correctly
+
+### Preparing/Updating all necessary documentation
 - [ ] How to use flipper/feature flags [example](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/flipper-feature-flags)
-- [ ] Error handling
-- [ ] API calls and dependent systems
-- [ ] Detailed staging user documentation
-- [ ] Update product outline
+- [ ] API calls and dependent systems 
+- [ ] Update product outline with updated release date and links to analytics dashboards
 - [ ] Update go-to-market strategy/communications plan
-- [ ] UAT plan
-- [ ] UAT converation guide
+
+## Release
+- [ ] Develop UAT plan [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/UAT/profile-research-plan-UAT.md)
 
 ### Coordinating with relevant parties regarding important upcoming dates (re-directs, changes to content, changes that affect other teams)
 - [ ] Create issues in Github for changes that will take place, add dates, and tag relevant people/teams (re-directs, content changes, UI changes, etc)
