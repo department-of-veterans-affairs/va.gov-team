@@ -26,7 +26,7 @@ A wireframes set for [feature name] will be delivered with the technical specifi
 ## Tasks
 > this is a list of design tasks that are needed for this ticket 
 - [ ] Finalize detailed mockup and callouts of [feature name](link to prototype)
-- [ ] Write accessibility review ticket
+- [ ] Write accessibility review ticket - follow Dev Intent Review (https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=vsa_request_dev_review.md&title=Request+a+VSA+dev+intent+or+spot+check+review+for+ENTER_PRODUCT_NAME)
 - [ ] Incorporate or document accessibility feedback into the wireframes for the team review
 - [ ] Complete a content review by sending Peggy Gannon a message within the vfs-platform-support channel and tagging her within the comments section of this story
 - [ ] %Add any additional Tasks%
