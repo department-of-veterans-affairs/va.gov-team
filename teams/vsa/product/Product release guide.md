@@ -69,7 +69,18 @@ It is beneficial to conduct internal QA. This consisf of the team allocating 1 h
 - [ ] Fill in post launch metrics in the Release Plan
 - [ ] Remove old code (if applicable)
 
-
+## Notes
+Pre requisites to product release:
+Privacy ans security review
+Call Center review 
+  - product guide
+  - call center guide
+  
+Next step:
+how do we get this infront of PM's
+ - Run by 2-3 PM's/PO's/Platform team to get feedback (bring a few open-ended/research questions)
+ - Megan (Platform), Samara, PM's, engineers/designers
+ - weekly product sync
 
 
 
