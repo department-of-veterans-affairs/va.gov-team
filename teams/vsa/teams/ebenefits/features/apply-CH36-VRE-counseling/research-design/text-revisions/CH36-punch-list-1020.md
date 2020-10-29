@@ -17,6 +17,8 @@ Revisions to text, formatting, features and design based on:
 - [CH31/CH36 usability testing recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-synthesis.md#recommendations)
 - [New stakeholder CH31 orientation requirements](https://forms.office.com/Pages/ResponsePage.aspx?id=xUHAIKHMVEu8eusWOxuMFPIlzBAHyVxArtObba5apaZURVVTOVlNUktRN0xHUFVJVkZSMUtQVzMzVi4u)
 
+## Chapter 36 wizard and VA form 22-8832
+
 ### CH36 throughout
 - [ ] Revise breadcrumbs to: "Home > Careers and employment > Career planning and guidance > Apply for Personalized Career Planning and Guidance Form 28-8832"
 
