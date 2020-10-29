@@ -26,18 +26,17 @@ Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audi
    - What are community care managers' expectations for search results (such as the number of results and distance/drive time) vs. reality?
     - Does that align with Veterans' expectations?
    - What happens if no providers meet the criteria?
-- What do those search results look like, what is useful to schedule the appointment, and what do schedulers convey to the Veterans about the provider? And what is a waste of time?
+- What do those search results look like, what is useful to schedule the appointment, and what do schedulers convey to the Veterans about the provider? And what is a waste of time (unnecessary/confusing)?
 - If you could change anything about community care online scheduling through VAOS what would it be?
 - If the community care managers are able to share anecdotal experience, we'd love to know what factors are important to a Veteran so that we can present Facility Locator Community care provider search results accordingly.
 
 ### Hypothesis 
 
-- By understanding how Community Care schedulers use systems to process requests, and how they search for facilities, we can determine how the taxonomy can be better organized. 
+- By understanding how Community Care schedulers use systems to manually process specific requests, and how they search for care providers on behalf of Veterans, we can better understand how to automate/simplify this search experience on Facility locator and VAOS. 
 
 ### Assumptions 
 
-- Research and findings are based on the assumption that the all Veteran appointments are made via request to Community Care managers who search for providers and schedule appointments. No appointments are made by Veterans themselves via an automated process. 
-
+- Research and findings are based on the assumption that the all Community Care appointments require a referral and are made via request to Community Care managers who search for providers and schedule appointments. No Community Care appointments are made by Veterans themselves (excluding urgent care, pharmacy and emergency). 
 
 ## Method
 
