@@ -59,6 +59,7 @@ Specifically, we want 6 participants: The 6 Veterans must understand that they a
 We would like 6 participants who MUST meet the following criteria:
 
 - Participants must have a DS Logon account.
+- **Participants must have a desire to apply for / request a Higher-Level Review of their disability claim.**
 - Participants must have all documents needed to apply for a Higher Level Review, (to contest at least _one_ claim decision or a supplemental claim decision).
 - Participants must be able to see the content on the screen clearly and hear the moderator clearly.
 - Participants should not have to use a screen reader or other assistive devices.
