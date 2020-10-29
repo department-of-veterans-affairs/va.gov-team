@@ -54,6 +54,7 @@ Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audi
    - <b>Walk me through the search for a provider.</b>
    
 - If I were a Veteran with a referal to a non-specialty, and requesting an appointment, would the process be identical?
+----------
 
 ## Section 2 - Searching for Care
 
