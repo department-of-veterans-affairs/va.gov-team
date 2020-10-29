@@ -54,7 +54,7 @@ Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audi
 - Can you share an example of a past appointment request that was challenging to process? Why was it challenging?
 
 ----------
-### Scenario ### (TBD whether to include)
+### Scenario (TBD whether to include) ###
 - I am a Veteran with a referral to an Audiology care provider
    - I don't have a preferred provider, and am requesting an appointment
    - <b>Walk me through the search for a provider.</b>
