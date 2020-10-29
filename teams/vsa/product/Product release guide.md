@@ -45,17 +45,25 @@ It is beneficial to conduct internal QA. This consisf of the team allocating 1 h
 - [ ] Issues have been logged/added to the [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Release%20Plan.md)
 - [ ] Critical UAT issues have been resolved
 
-### Phased Launch (depends on phases in your launch)
+### Phased Launch (depends on phases in your launch)*
 - [ ] Conduct Launch Go/No-Go meeting
 - [ ] Resolve any issues (if applicable)
-- [ ] Launch to 25% of traffic
-- [ ] Issues (If any)
-- [ ] Launch to 50% of traffic
-- [ ] Issues (if any)
-- [ ] Launch to 100% of traffic
-- [.] Issues (if any)
+
+##### Launch to 25% of traffic*
+- [ ] Add Issues (if applicable) to the Release Plan
+- [ ] Resolve issues (if applicacble)
+#### Launch to 50% of traffic
+- [ ] Add Issues (if applicable) to the Release Plan
+- [ ] Resolve issues (if applicacble)
+
+#### Go-live to 100% of traffic
+- [ ] Conduct Go-live go/no go meeting [example]()
+- [ ] Resolve issues (if applicable)
+- [ ] Launch to 100 of users!
+
 
 ## Monitoring
+
 
 
 ## Post Launch
