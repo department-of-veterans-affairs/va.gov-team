@@ -38,5 +38,11 @@ Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audi
 - If the schedulers are able to share anecdotal experience, we'd love to know what factors are important to a Veteran so that we can present Facility Locator Community care provider search results accordingly.
  
 ---
-## Assumptions and early discussions
-- 
+---
+### Hypothesis 
+
+- By understanding how Community Care schedulers use systems to manually process specific requests, and how they search for care providers on behalf of Veterans, we can better understand how to automate/simplify this search experience on Facility locator and VAOS. 
+
+### Assumptions 
+
+- Research and findings are based on the assumption that the all Community Care appointments require a referral and are made via request to Community Care managers who search for providers and schedule appointments. No Community Care appointments are made by Veterans themselves (excluding urgent care, pharmacy and emergency). 
