@@ -8,19 +8,16 @@ Below is a list of final and in-progress VSP content work. If your team/work is 
 Team | Project | Content review stage | Notes 
 --- | --- | --- | --- 
 Authenicated Experience | Logged-in homepage |
-BAH | Yellow Ribbon modal content | in process | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/8298 
-BAH | School Ratings  | Usability prep | https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12607 Kickoff held 6/2
-BAH | CT search and filter enhancements  | NOT STARTED |  Kickoff held 7/15
 BAM 1 | Benefits Delivery at Discharge |  Staging  |  https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12653 
 BAM 2 | Debtman FSR form | NOT STARTED | Kickoff held 10/7 
-Caregivers | Health care application | NOT STARTED |  Kickoff held 
-Clipboard | Health questionnaire | Usability prep | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12178
+Caregivers | Health care application | NOT STARTED |  Kickoff held 10/20
+Clipboard | Health questionnaire | Usability prep | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/14552
 eBenefits | View Dependents form | Staging |  https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12956 
-eBenefits | Chapt 31 VRE | Usability prep  | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12439 <br> 
+eBenefits | Chapt 31 VRE | Usability prep  | https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/12440 https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12439 <br> 
 eBenefits | Chapt 36 Career Counseling | Usability prep  | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12440  <br> 
 eBenefits | Representatives/POA | NOT STARTED | Kick-off held 3/24 <br> 
-eBenefits | Payment History | Usability prep | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/11794 Kick-off held 3/19 <br> 
-eBenefits | Education direct deposit |NOT STARTED | Kickoff held 10/14
+eBenefits | Payment History | Usability prep | https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/15440  <br> 
+eBenefits | Education direct deposit |pre-usability prep | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/15518 
 Thoughtworks (Team orchid) | IRIS form | Content outline feedback | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12906 
 Wizards | EDU | Staging | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12243
 Wizards | VRE | Usability prep | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12642 
@@ -39,13 +36,16 @@ Team | Project | Review Status | Zenhub ticket
 
 Authenticated Experience | Profile 2.0 | Usability prep | https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/9927<br>
 Authenticated Experience | Profile 2.0| Staging | | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/11972<br>
-
+BAH | School Ratings  | Usability prep | https://github.com/department-of-veterans-affairs/va.gov-team/issues/14971
 BAH | STEM Scholarship form | Staging | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12288 <br>
 BAH | School Certifying Officials content page | Completed  |  <br>
 BAH | Estimated benefits page | Completed  |  <br>
 BAH | Section 103 content for GBCT | Completed  |  https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/9233 <br>
 eBenefits | Rated Disabilities Tool | Completed |  <br>
 BAH | STEM Scholarship form | Usability prep | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/9680<br>
+BAH | Yellow Ribbon modal content | completed | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/8298 
+BAH | CT search and filter enhancements  | Completed| 
+BAH | School Ratings  | pre-Usability prep | https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12607 
 
 BAM 1 | Benefits Delivery at Discharge |  Usability prep | Usability prep feedback given, waiting research results <br> https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/6695<br>
 BAM 2 | Medical Device Ordering |  Staging   | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12378 
@@ -58,10 +58,14 @@ BAM 2 | Debt Letters | Staging | https://app.zenhub.com/workspaces/vsp-5cedc9cce
 Caregivers | 10-10cg Form | Pre-staging review | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/8565<br>
 Caregivers | 10-10cg Form | Staging |  https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/9849 
 
-Clipboard | Health questionnaire | pre-Usability prep |  https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/14552
+Clipboard | Health questionnaire | pre-Usability prep | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12178 
 
 eBenefits | View Dependents form | Usability prep  | Mockup link: https://xd.adobe.com/view/8cdfe895-c907-4662-7234-305056778b2a-faee/ <br> 
 eBenefits | View Dependents form | Usability prep |  https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/11615 
+eBenefits | Payment History | pre-Usability prep | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/11794 Kick-off held 
+eBenefits | DD for Education benefits | Kickoff held 10/14
+eBenefits | Chapt 31 VRE | pre-Usability prep  | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12439 
+eBenefits | Chapt 31 VRE | pre-Usability prep  | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12439 
 
 Public Websites | Yellow Ribbon Tool | Completed | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/8850 <br> 
 Public websites | VA Form Search landing page | Completed | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/8246 <br>
