@@ -17,7 +17,7 @@ Revisions to text, formatting, features and design based on:
 - [CH31/CH36 usability testing recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/usability-testing/ch36-ch31-usability-synthesis.md#recommendations)
 - [New stakeholder CH31 orientation requirements](https://forms.office.com/Pages/ResponsePage.aspx?id=xUHAIKHMVEu8eusWOxuMFPIlzBAHyVxArtObba5apaZURVVTOVlNUktRN0xHUFVJVkZSMUtQVzMzVi4u)
 
-### Throughout
+### CH36 throughout
 - [ ] Revise breadcrumbs to: "Home > Careers and employment > Career planning and guidance > Apply for Personalized Career Planning and Guidance Form 28-8832"
 
 ### CH36 screening wizard
@@ -31,12 +31,11 @@ Revisions to text, formatting, features and design based on:
 - [ ] Add link, "Learn more about VA career planning and guidance eligibility" (https://www.va.gov/careers-employment/education-and-career-counseling/) to stop/alert: "To be eligible for Chapter 36 career planning and guidance, you must be a Veteran or service member, or a dependent of one."
 - [ ] Change final stop/alert text to, "When you’re ready to apply for career planning and guidance, just come back to this page to begin your application."
 
-### Form intro screen
+### VA form 22-8832 intro screen
 - [ ] Include wizard "start over" feature: "If you're not sure this is the right form, you can go back and answer the questions again." This is above and below the subway map
 - [ ] Change green-button text to: "Apply for career planning and guidance"
 - [ ] Revise subway map content to remove section regarding: "Do you have a service-connected disability?"
 - [ ] Add feature box below subway map; see prototype for content and formatting
-- [ ] Revise content to reflect "eligibility" over "form" in all headers (?)
 
 ### VA form 22-8832
 - [ ] Change "Claimant" to "Applicant" in all step headers
@@ -45,12 +44,10 @@ Revisions to text, formatting, features and design based on:
 - [ ] Change "If you need assistance..." paragraph on Applicant Info screen to: "If you need If you need to update your personal information, please call Veterans Benefits Assistance at 800-827-1000, Monday through Friday, between 8:00 a.m. and 9:00 p.m. ET."
 - [ ] Place details of communication options copy into accordions
 - [ ] Adjust form address blocks to new pattern (see prototype)
-- [ ] Change Veteran info header in dependent flow to "Your sponsoring Veteran or service membe" 
+- [ ] Change Veteran info header in dependent flow to "Your sponsoring Veteran or service member" 
 
-### Confirmation screen
-- [ ] Align screen formattion to current form conventions
+### VA form 22-8832 confirmation screen
 - [ ] Remove the "Do you have a service connected disability" section
 - [ ] Add feature box content per prototype
-- [ ] More...
 
 ---
