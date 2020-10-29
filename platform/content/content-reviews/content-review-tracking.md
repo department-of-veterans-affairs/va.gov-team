@@ -13,7 +13,7 @@ BAM 2 | Debtman FSR form | NOT STARTED | Kickoff held 10/7
 Caregivers | Health care application | NOT STARTED |  Kickoff held 10/20
 Clipboard | Health questionnaire | Usability prep | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/14552
 eBenefits | View Dependents form | Staging |  https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12956 
-eBenefits | Chapt 31 VRE | Usability prep  | https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/12440 https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12439 <br> 
+eBenefits | Chapt 31 VRE | Usability prep | https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/14992 <br> 
 eBenefits | Chapt 36 Career Counseling | Usability prep  | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12440  <br> 
 eBenefits | Representatives/POA | NOT STARTED | Kick-off held 3/24 <br> 
 eBenefits | Payment History | Usability prep | https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/15440  <br> 
@@ -64,7 +64,7 @@ eBenefits | View Dependents form | Usability prep  | Mockup link: https://xd.ado
 eBenefits | View Dependents form | Usability prep |  https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/11615 <br>
 eBenefits | Payment History | pre-Usability prep | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/11794 <br>
 eBenefits | DD for Education benefits | Kickoff held 10/14 <br>
-eBenefits | Chapt 31 VRE | pre-Usability prep  | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12439 
+eBenefits | Chapt 31 VRE | pre-Usability prep  |  https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12439 
 eBenefits | Chapt 36 VRE | pre-Usability prep  | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12439 
 
 Public Websites | Yellow Ribbon Tool | Completed | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/8850 <br> 
