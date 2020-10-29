@@ -27,6 +27,7 @@ It is beneficial to conduct internal QA. This consisf of the team allocating 1 h
 
 ### UAT 
 - [ ] Create UAT plan [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/UAT/profile-research-plan-UAT.md)
+- INSERT TEMPLATE (ask design)
 
 ### Release Plan
 - [ ] Complete release plan [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Release%20Plan.md)
