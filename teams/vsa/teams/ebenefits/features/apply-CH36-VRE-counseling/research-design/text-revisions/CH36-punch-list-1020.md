@@ -42,11 +42,15 @@ Revisions to text, formatting, features and design based on:
 - [ ] Change "Claimant" to "Applicant" in all step headers
 - [ ] Change form stepper to match current form conventions in mockups
 - [ ] Fix stepper sequence to align with current step in mockups
-- [ ] Place details of communicatio options copy into accordions
+- [ ] Change "If you need assistance..." paragraph on Applicant Info screen to: "If you need If you need to update your personal information, please call Veterans Benefits Assistance at 800-827-1000, Monday through Friday, between 8:00 a.m. and 9:00 p.m. ET."
+- [ ] Place details of communication options copy into accordions
+- [ ] Adjust form address blocks to new pattern (see prototype)
+- [ ] Change Veteran info header in dependent flow to "Your sponsoring Veteran or service membe" 
 
 ### Confirmation screen
 - [ ] Align screen formattion to current form conventions
-- [ ] Revise text blocks per content feedback
+- [ ] Remove the "Do you have a service connected disability" section
+- [ ] Add feature box content per prototype
 - [ ] More...
 
 ---
