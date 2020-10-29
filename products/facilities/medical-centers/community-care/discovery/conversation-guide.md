@@ -47,8 +47,14 @@ Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audi
 
 - What information do you see from the VAOS request? Of that information, what do you use? What is helpful?
 
+- Tell me, what was the last scheduling like?
+
+- Can you share an example of a past successful appointment scheduling?
+
+- Can you share an example of a past appointment scheduling that was difficult to complete? Why was it challenging?
+
 ----------
-### Scenario ###
+### Scenario ### (TBD whether to include)
 - I am a Veteran with a referral to an Audiology care provider
    - I don't have a preferred provider, and am requesting an appointment
    - <b>Walk me through the search for a provider.</b>
