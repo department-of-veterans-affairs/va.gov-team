@@ -88,5 +88,3 @@ Day of week, Nov 00 |  -p | -
   - Leyda Hughes <leyda.hughes@adhocteam.us>
   - Gibran Rodriguez <grodriguez@governmentcio.com> 
   - Michael Pelz-Sherman <mpelzsherman@governmentcio.com> 
-  - Jessica Schiefer <jessica.schiefer@va.gov> 
-
