@@ -49,7 +49,7 @@ It is beneficial to conduct internal QA. This consisf of the team allocating 1 h
 - [ ] Conduct Launch Go/No-Go meeting
 - [ ] Resolve any issues (if applicable)
 
-##### Launch to 25% of traffic*
+#### Launch to 25% of traffic*
 - [ ] Add Issues (if applicable) to the Release Plan
 - [ ] Resolve issues (if applicacble)
 #### Launch to 50% of traffic
