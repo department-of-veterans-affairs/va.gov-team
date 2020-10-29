@@ -1,11 +1,12 @@
 # Appointment Data Breakdown
 
 - [Appointment Data Breakdown](#appointment-data-breakdown)
-  - [Type](#type)
+  - [Appointment Type](#appointment-type)
     - [Questions](#questions)
       - [Appointment Types used in VOAS](#appointment-types-used-in-voas)
       - [Appointment Datastruture from MAP](#appointment-datastruture-from-map)
-## Type
+
+## Appointment Type
 
 ### Questions
 
