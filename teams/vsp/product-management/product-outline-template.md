@@ -1,9 +1,9 @@
 
 # Product Title
-Implement Storybook for the component library.
+Storybook Implementation Product Outline
 
 ## Overview
-Storybook is a robust solution for our component library documentation, as well as a much more developer-friendly platform for implementing and updating design system components.
+Storybook is an open source tool for developing UI components for React, Vue and Angular. Storybook provides a sandbox so that engineers and designers can build, design and update UI components in a developer-friend environment. 
 
 ## Problem Statement
 The existing design system component documentation is not kept in sync with the actual use of a component. The documentation is non-interactive, so it's difficult for engineers and designers to see how changing props affects the component.
