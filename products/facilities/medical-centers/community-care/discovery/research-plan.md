@@ -21,7 +21,7 @@ Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audi
 - What information do you see from the VAOS request? Of that information, what do you use? What is helpful?
 - How do you search for type of care/specialities? Where do you search for that data + providers?
    - What words/categories are used by the schedulers when searching?
-   - Which specialties are the most commonly searched? Rarely searched? Never searched?
+   - ~Which specialties are the most commonly searched? Rarely searched? Never searched?~ This can be answered through analytics
 - What search parameters do they use to identify the appropriate community care provider?
    - What are their expectations for search results (such as the number of results and distance/drive time)?
    - What happens if no providers meet the criteria?
