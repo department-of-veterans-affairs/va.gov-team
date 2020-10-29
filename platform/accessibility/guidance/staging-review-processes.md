@@ -6,7 +6,7 @@ Teams must conduct their own accessibility testing **before** scheduling a VSP C
 Staging reviews test the [happy path](https://en.wikipedia.org/wiki/Happy_path) through the application or content page(s). This may not catch all accessibility issues, but will ensure basic functionality is accessible. (Accessibility specialists conduct a [more thorough post-launch audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/post-launch-audit-processes.md) when an application is relatively code-stable in production.)
 
 
-## Required accessibility tests
+## Foundational accessibility tests (required)
 
 - [ ] Axe scans in daily development - [read more about the axe browser plugin](#axe-scans-in-daily-development)
 - [ ] Axe scans included in end-to-end (e2e) tests - [read more about e2e tests with axe checks](#axe-scans-in-end-to-end-tests)
@@ -14,7 +14,7 @@ Staging reviews test the [happy path](https://en.wikipedia.org/wiki/Happy_path) 
 - [ ] Content zoomed to 200%, 300%, 400% - [read more about zoomed layouts](#content-resize-check)
 - [ ] Keyboard navigation - [read more about navigating with the keyboard](#keyboard-navigation-check)
 
-## Recommended accessibility tests
+## Advanced accessibility tests (recommended)
 
 - [ ] Screen reader tests (VoiceOver + Safari or NVDA + Firefox) - [read more about getting started with screen readers](#screen-reader-tests). Teams are encouraged to conduct their own screen reader tests as part of the software development lifecycle (SDC), but DEPO platform acknowledges this is aspirational.
 - [ ] Axe-coconut scans in daily development - [read more about the axe-coconut experimental plugin](https://www.deque.com/blog/test-leading-edge-accessibility-axe-coconut-axe-core-3-0/)
