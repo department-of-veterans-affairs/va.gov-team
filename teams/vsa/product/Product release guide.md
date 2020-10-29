@@ -28,15 +28,15 @@ It is beneficial to conduct internal QA. This consisf of the team allocating 1 h
 ### UAT 
 - [ ] Create UAT plan [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/UAT/profile-research-plan-UAT.md)
 
+### Release Plan
+- [ ] Complete release plan [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Release%20Plan.md)
+
 ### Coordination with relevant parties (IMPORTANT)
 #### Ex:(re-directs, changes to content, changes that affect other teams) 
 - [ ] Create issues in Github for changes that will take place, add dates, and tag relevant people/teams (re-directs, content changes, UI changes, etc)
 - [ ] Update dates/parties accordingly as launch approaches and dates are finalized
 
 ## Release
-
-### Release Plan
-- [ ] Complete release plan [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Release%20Plan.md)
 
 ### UAT
 - [ ] Conduct UAT Go/No-Go meeting [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/uat-go-nogo.md)
@@ -55,7 +55,6 @@ It is beneficial to conduct internal QA. This consisf of the team allocating 1 h
 #### Launch to 50% of traffic
 - [ ] Add Issues (if applicable) to the Release Plan
 - [ ] Resolve issues (if applicacble)
-
 #### Go-live to 100% of traffic
 - [ ] Conduct Go-live go/no go meeting [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Launch%20go%20no-go.md)
 - [ ] Resolve issues (if applicable)
@@ -67,6 +66,7 @@ It is beneficial to conduct internal QA. This consisf of the team allocating 1 h
 
 ## Post Launch
 - [ ] Fill in post launch metrics in the Release Plan
+- [ ] Remove old code (if applicable)
 
 
 
