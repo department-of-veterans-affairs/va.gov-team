@@ -40,12 +40,20 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 
 Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audiology) and non-VAOS specialties (suggest Chiropractor and Dermatology): 
  
-- How does a community care request get processed by Request managers once it is received in Schedule Manager?
-   - What are the different systems a Scheduler uses to process a community care request?
+- How does a community care request get processed by community care managers once it is received in Schedule Manager?
+   - What are the different systems a scheduler uses to process a community care request?
    
-- What type of data is a Request manager looking for from a Veteran when processing community care requests?
+- What type of data is a community care manager looking for from a Veteran when processing community care requests?
 
 - What information do you see from the VAOS request? Of that information, what do you use? What is helpful?
+
+----------
+### Scenario Question Option A ###
+- I am a Veteran with a referral to an Audiology care provider
+   - I don't have a preferred provider, and am requesting an appointment
+   - <b>Walk me through the search for a provider.</b>
+   
+- If I were a Veteran with a referal to a non-specialty, and requesting an appointment, would the process be identical?
 
 ## Section 2 - Searching for Care
 
@@ -57,7 +65,7 @@ Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audi
    - What are their expectations for search results (such as the number of results and distance/drive time)?
    - What happens if no providers meet the criteria?
    
-- How do they handle naming ( individual provider name vs group practice name)?
+- How do they handle naming (individual provider name vs group practice name)?
 
 ## Section 3 - Open Feedback
 
