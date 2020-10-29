@@ -28,7 +28,8 @@ It is beneficial to conduct internal QA. This consisf of the team allocating 1 h
 ### UAT 
 - [ ] Create UAT plan [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/UAT/profile-research-plan-UAT.md)
 
-## Coordinating with relevant parties regarding important upcoming dates (re-directs, changes to content, changes that affect other teams) IMPORTANT
+### Coordination with relevant parties (IMPORTANT)
+#### Ex:(re-directs, changes to content, changes that affect other teams) 
 - [ ] Create issues in Github for changes that will take place, add dates, and tag relevant people/teams (re-directs, content changes, UI changes, etc)
 - [ ] Update dates/parties accordingly as launch approaches and dates are finalized
 
