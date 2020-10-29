@@ -48,12 +48,12 @@ Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audi
 - What information do you see from the VAOS request? Of that information, what do you use? What is helpful?
 
 ----------
-### Scenario Question Option A ###
+### Scenario ###
 - I am a Veteran with a referral to an Audiology care provider
    - I don't have a preferred provider, and am requesting an appointment
    - <b>Walk me through the search for a provider.</b>
    
-- If I were a Veteran with a referal to a non-specialty, and requesting an appointment, would the process be identical?
+- If I were a Veteran with a referal to a non-specialty, and requesting an appointment, would the process/search differ in any way?
 ----------
 
 ## Section 2 - Searching for Care
