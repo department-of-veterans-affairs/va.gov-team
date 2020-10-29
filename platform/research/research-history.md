@@ -131,12 +131,17 @@ This does not include research for Appeals projects, which is stored in differen
 
 **Keywords**: covid, coronavirus, screener, mobile, user research, usabilty testing
 
-#### May 11-15: Logged-in Homepage Redesign, Co-design sessions
+#### May 11-15: My VA Redesign discovery (formerly logged-in homepage discovery)
 *Authenticated Experience, Liz Lantz*
 
-- 10 participants
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research) 
-- This study was part of a larger discovery effort including [stakeholder interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/stakeholder-interviews/stakeholder-interview-synthesis.md), a [comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/comparative-analysis.md), a [review of analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/analytics/analytics-summary.md), and a [review of past research studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/previous-research-review.md).
+- [Full discovery summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md)
+- This discovery included:
+  - [Veteran dashboard co-design sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md)
+  - [Stakeholder interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/stakeholder-interviews/stakeholder-interview-synthesis.md)
+  - [Comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/comparative-analysis.md)
+  - [Review of analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/analytics/analytics-summary.md)
+  - [Review of past research studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/previous-research-review.md).
 
 **Keywords**: My VA redesign, personalization, dashboard, notifications, alerts, co-design, collaborative design, participatory design, generative research
  
