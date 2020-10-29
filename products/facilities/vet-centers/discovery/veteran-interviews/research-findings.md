@@ -198,8 +198,9 @@ In this study 4 of the 5 participants dealing with MST were also dealing with PT
 
  > "In all the time I have gotten care at the VA for mental health in the past 16 years I do not recall anyone saying anything about the Vet center. I don't think that is right. The psychiatrists are more into medication and the counselors do not mention it either and I think that is a failure on the VA's part because the groups aren't like the VA groups. They are better in some ways. That's all I have to say about that."
 
-#### 6. One Veteran was confused as to why PTSD was not listed within the services.
-#### 7. Hearing loss made one Vietnam Veteran choose individual counseling over group and avid user of text over phone. 
+#### 6. Clients who'd tried group therapy at the VA preferred Vet Centers' affinity grouping approach over VA's mixing of Veterans of different eras.
+#### 7. One Veteran was confused as to why PTSD was not listed within the services.
+#### 8. Hearing loss made one Vietnam Veteran choose individual counseling over group and avid user of text over phone. 
 
 ## Recommendations
 
