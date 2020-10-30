@@ -8,7 +8,7 @@
 
 ## Up next (unprioritized)
 
-- Support additional languages in the online for,(Spanish, etc)
+- Support additional languages in the online form (Spanish, etc)
 - Ability for a Veteran/caregiver to attach Power of Attorney (POA) documentation to online application
 - Ability for VA.gov to send a confirmation receipt to Veterans and/or caregivers after submission
 - Ability to re-submit the form after failure
