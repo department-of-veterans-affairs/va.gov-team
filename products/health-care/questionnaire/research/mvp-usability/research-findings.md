@@ -1,4 +1,3 @@
-_Still in draft_
 # Upcoming appointment questionnaire MVP usability study
 
 **Prepared by:** Kristen McConnell (kristen.mcconnell@adhocteam.us)<br>
