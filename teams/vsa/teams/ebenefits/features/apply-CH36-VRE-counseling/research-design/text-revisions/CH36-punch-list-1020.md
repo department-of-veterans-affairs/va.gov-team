@@ -48,6 +48,7 @@ Revisions to text, formatting, features and design based on:
 - [ ] Change Veteran info header in dependent flow to "Your sponsoring Veteran or service member" 
 
 ### VA form 22-8832 confirmation screen
+- [ ] Add "wahat happens after I appy?" text block above "How long..." section
 - [ ] Remove the "Do you have a service connected disability" section
 - [ ] Add feature box content per prototype
 - Change paragraph at botton of page to: "Please call our toll-free hotline at 800-827-1000. We’re here Monday through Friday, 8:00 am to 
