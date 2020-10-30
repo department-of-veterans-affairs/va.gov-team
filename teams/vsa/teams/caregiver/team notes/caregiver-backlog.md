@@ -1,25 +1,25 @@
 # Caregiver Backlog
 
 ## In progress
-- Signature certification - this is not really signature certification. This is about checking the appropriate box based on if they are a relative or not. I would suggest you put it in a user story.
-- Secondary caregiver only applications - Ability to use the 10-10CG online form to add a secondary caregiver
-- Integration with downtime notifications - I would have a screen shot of what this looks like or write it as a user story.
-- Retry sending PDF if it fails the first time - this is a solution to the problem that some submissions to CARMA are missing PDFs
+- Allow caregiver applicants to select a signature certification checkbox
+- Ability to use the 10-10CG online form to add only a secondary caregiver
+- Ability to temporarily disable the form using the VA.gov Platform downtime servce if we know a service (MVI, CARMA) is down
+- Retry sending PDF if it fails the first time (should resolve cases of submissions to CARMA that are missing PDFs)
 
 ## Up next (unprioritized)
 
-- Support additional languages (Spanish, etc)
-- Attach Power of Attorney (POA) documentation
-- Confirmation receipt (email, attach CARMA case ID) - I don't know what this means
-- Allow re-submission after failure
-- Create a separate page for application failures - This is to create a cleaner experience for the applicant. I think you would have to show how it looks now and it could be confusing and what an separate page will look like
+- Support additional languages in the online for,(Spanish, etc)
+- Ability for a Veteran/caregiver to attach Power of Attorney (POA) documentation to online application
+- Ability for VA.gov to send a confirmation receipt to Veterans and/or caregivers after submission
+- Ability to re-submit the form after failure
+- Create a separate page for application failures (to create a cleaner experience for the applicant)
 - Improve facility labels/mapping to clinics
-- Notifications on application status - Not sure what this is?
-- 10-10CG Form shanges - I think you mean changes
-- Store application payload in CARMA - what does this mean and what is the impact to the applicant or the Program team. This would be clearer if you write it as a user story.
+- 10-10CG form content change
+- Work with CARMA to store the original submission data (payload), so that original data from the online applicaton can be stored
 - Allow user to download PDF after successful submission
 
 ## Long term (unprioritized) 
-- Allow Caregivers to check application status (unauthenticated portal?)
-- Portal to track/manage benefits
-- Allow authenticated submissions - I would another term vs. autheniticated. Drupal and authenticate are very VA.gov terms and most people would use terms like Intro or landing page. For autheniticted, I would suggest using words like when they have logged in or signed into VA.gov.
+- Notify Veterans/caregivers via email or text when their application status changes
+- Allow Caregivers to check their application status online
+- Portal to allow Veterans/caregiver to track and manage benefits
+- Allow Veterans to submit the 10-10CG from their logged-in account
