@@ -413,10 +413,10 @@ c. Layout tables (no header/data associations) **MUST NOT** contain `<th>` or ot
 #### Content 
 
 <ol type="a">
-   <li>The text <strong>**MUST**</strong> be written in the simplest and clearest language possible, appropriate to the content. COG<sup>6</sup></li>
-   <li>Uncommon words and phrases – including technical terms, idioms, jargon, foreign phrases, etc. – <strong>**MUST**</strong> be defined or explained in the text. 3.1.3<sup>*</sup></li>
-   <li>Abbreviations and acronyms <strong>**MUST**</strong> be expanded or explained in the text. 3.1.4<sup>*</sup></li>
-   <li>The page <strong>**MUST**</strong> provide supplemental versions of the content (e.g. illustrations, videos, audio, simplified text version, etc.) to enhance comprehension, if the reading level is more advanced than a lower secondary education level. 3.1.5<sup>*</sup></li>
+   <li>The text <strong>**MUST**</strong> be written in the simplest and clearest language possible, appropriate to the content. COG<sup>6</sup> [Plain Language](https://plainlanguage.gov/guidelines/)</li>
+   <li>Uncommon words and phrases – including technical terms, idioms, jargon, foreign phrases, etc. – <strong>**MUST**</strong> be defined or explained in the text. 3.1.3<sup>*</sup> [Plain Language](https://plainlanguage.gov/guidelines/)</li>
+   <li>Abbreviations and acronyms <strong>**MUST**</strong> be expanded or explained in the text. 3.1.4<sup>*</sup> [Plain Language](https://plainlanguage.gov/guidelines/)</li>
+   <li>The page <strong>**MUST**</strong> provide supplemental versions of the content (e.g. illustrations, videos, audio, simplified text version, etc.) to enhance comprehension, if the reading level is more advanced than a lower secondary education level. 3.1.5<sup>*</sup> [Plain Language](https://plainlanguage.gov/guidelines/)</li>
 </ol>
 
 #### User Experience
