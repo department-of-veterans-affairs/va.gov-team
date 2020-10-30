@@ -1,5 +1,9 @@
 # Appointment Type
 
+## Date
+
+10/29/2020 @ 4pm EST. 
+
 ## Attendees
 
 - Mark Dewey
