@@ -3,7 +3,7 @@
 ## In progress
 - Allow caregiver applicants to select a signature certification checkbox
 - Ability to use the 10-10CG online form to add only a secondary caregiver
-- Ability to temporarily disable the form using the VA.gov Platform downtime servce if we know a service (MVI, CARMA) is down
+- Ability to temporarily disable the form using the VA.gov Platform downtime service if we know a service (MVI, CARMA) is down
 - Retry sending PDF if it fails the first time (should resolve cases of submissions to CARMA that are missing PDFs)
 
 ## Up next (unprioritized)
@@ -15,7 +15,7 @@
 - Create a separate page for application failures (to create a cleaner experience for the applicant)
 - Improve facility labels/mapping to clinics
 - 10-10CG form content change
-- Work with CARMA to store the original submission data (payload), so that original data from the online applicaton can be stored
+- Work with CARMA to store the original submission data (payload), so that original data from the online application can be stored
 - Allow user to download PDF after successful submission
 
 ## Long term (unprioritized) 
