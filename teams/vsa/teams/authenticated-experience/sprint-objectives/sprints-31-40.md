@@ -193,6 +193,15 @@ Week 2 of sprint 33
 
 - Complete the tests and provide documentation for accessibility tests mentioned in #15247
 
+**Design**
+
+- **If** design has time while they are waiting for My VA research recruiting, pull in this ticket (and if they don't have time, then no need to do these):
+  - Look into error messaging/location #10722
+
+**FE**
+
+- Any FE work left? OK if not.
+
 ### My VA redesign
 
 **Design**
@@ -216,8 +225,8 @@ Week 2 of sprint 33
 
 **Design**
 
-- Research plan
-- Conversation guide
+- Research Plan for Usability Testing of EDU Direct Deposit #13807
+- Conversation Guide for Usability Testing of EDU Direct Deposit #13808
 - Help Jason/Matt prep for usability test prep meeting as needed
 
 ## Sprint 35 (11/18 – 12/1)
