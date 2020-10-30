@@ -3,6 +3,7 @@
 - [Appointment Data Breakdown](#appointment-data-breakdown)
   - [Appointment Type](#appointment-type)
     - [Questions](#questions)
+  - [Answers](#answers)
       - [Appointment Types used in VOAS](#appointment-types-used-in-voas)
       - [Appointment Datastruture from MAP](#appointment-datastruture-from-map)
 
@@ -15,6 +16,9 @@ There is a type on the appointment object. But there are some questions around i
 1. In the data for appointmenet types, where does the ID come from? 
 2. In the return structure of an appointment, the type is now "REGULAR". That is no where in the predefined types.  Where did that come from and where did the type go? 
 
+## Answers
+
+[Answered here](../meetings/2020-10-29-appointment-type.md)
 
 #### Appointment Types used in VOAS
 
