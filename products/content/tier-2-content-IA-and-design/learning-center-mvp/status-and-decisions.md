@@ -2,6 +2,12 @@
 
 ## mm/dd/yy
 
+## 10/30/20
+
+[See summary of decision to change to client-side search for 1.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/search-feature-inside-LC/README.md#1030-summary-of-decision-to-change-to-client-side-search-for-10)
+
+
+
 ## 10/22/20
 
 __Confirmation of prior decision re search__
