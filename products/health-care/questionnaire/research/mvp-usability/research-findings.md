@@ -134,12 +134,33 @@ Additional findings: Review page
    - Two Veterans wanted more descriptive address labels on this page, such as mailing and home.
 
 ## Actionable Recommendations
+Changes to MVP Scope
+- Remove the button to start the questionnaire from the top of the introduction page.
+- Reorder the introduction page content, so “What happens after I answer the questions?” is listed first.
+- Add the information that  a provider will not review this questionnaire with the Veteran until their appointment in more locations and add more visual emphasis to it.
+- When determining how far in advance a Veteran can complete this questionnaire, take the two week to 2 day Veteran-proposed timeframe in mind.
+- Add links to the Questionnaire Manager and VAOS on our confirmation page.
+- Add VAMC and clinic phone numbers to the confirmation page.
+-When working with IA to determine where our questionnaires lives on VA.gov propose they live amongst all of the other medical record information.
+   - VAOS would just link to specific questionnaires.
+- Change the additional details field to a textarea in order to help Veterans believe they can edit this information.
+- Add more descriptive address labels on the review page.
 
-- 
+Additions to future roadmap
+- Explore elegant solutions for jumping from questionnaires to the profile section to update demographic information.
+- Explore the possibility of editing a questionnaire multiple times.
+- Explore adding more detailed widgets of appointment and other questionnaire information to the confirmation page.
+- Work with the authenticated team to have questionnaires appear on the dashboard.
+- Explore adding the capability to send images.
+- Implement email and text notifications.
+- Add provider’s name to questionnaire.
+- Further look into the need to transfer information entered in one questionnaire into the next questionnaire.
+- Look into a branching strategy (or machine learning) for questions, so we can probe further into problems that Veterans are facing.
 
 ## Resources
 
-- [Research plan]()
-- [Conversation guide]()
-- [Desktop prototype]()
-- [Mobile Prototype]()
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/mvp-usability/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/mvp-usability/conversation-guide.md)
+- [Desktop prototype](https://preview.uxpin.com/e9e0dc597bb076e74db05f77d35306496a89fca2cvhidm)
+- [Mobile Prototype](https://preview.uxpin.com/a15205c1bedcdfc8fe46fed26c22fa731cab8ae0cvhidm)
+- [Research Findings Presentation PDF]()
