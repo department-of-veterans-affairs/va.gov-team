@@ -19,7 +19,7 @@
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research?
 
-	* Is it easy to understand the difference between community care and VA care
+	* Do veterans understand the difference between community care and VA care
 	* Can veterans easily find providers?
   	* Is it easier to find providers on the map or list?
   	* Is it clear what skipping the step of adding a provider means?
@@ -43,60 +43,58 @@
 	
 ## Participants and Recruitment	
 1. Participant criteria: What are you looking for in a participant?	  
-(Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
+	
 
-	* 5-8 Veterans
-	* Generally matching the typical demographic breakdown of veterans
-	* Familiarity with community care is not required
-	* To ensure inclusivity, we request at least one participant that has identified cognitive impairments and/or functional disabilities. Diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), Autism, and Vertigo. Other conditions may be autism, aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
+**Primary criteria / Must have** 
 
-Please list your participant criteria in two categories-
+* 8-10 Veteran participants 
 
-1. **Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.) 
+**Secondary criteria / Would like to have** 
 
-**TBD**
+* Representative of all branches of the Armed Forces 
+* An even split of men and women
+* At least one person in each of the following age brackets: 18-30, 31-50, 50+.
+* At least one participant to have a disability rating of 30% or greater.
 
-2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
+2. What is your recruitment strategy? 	
 
-*Pro tips for writing recruiting critera:* 
-- If you have specific screener questions that YOU would ask a potential participant to determine eligibility for your study, list them here. For example, instead of saying "We want someone who has been to an urgent care facility recently", say "Have you been to an urgent care facility in the last 6 months? (Answer should be yes)"
-- Do not assume that your recruiters or the participants know your products or requirements as well as you do. Provide links to products, clear descriptions, specifics, etc. 
+TBD from Lauren A and Perigean
 
-2.	What is your recruitment strategy? 	
-(If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract - Perigean - or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact Research Contract Lead.)	
-
-We will ask Perigean to recruit veterans for this study.
 
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
-(IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.)
+
+November 9th-13th, 2020
 
 **TBD**
 
-2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.)
+2.	Prepare: When will the thing you are testing be ready? 
+
+November 3rd, 2020
 
 **TBD**
 
-3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
+3. Length of Sessions: How long do you estimate each session will be? 
 
-< 1 hour
+1 hour with a 15m buffer after sessions.
 
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
 
 **TBD**
+All times below are PST
 
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?
 
-**TBD**
+November 3rd, 2020 with Emily Waggoner
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 
 - Moderator: Peter Russo - 510 529 9874 - peter.russo@adhocteam.us
-- Research guide writing and task development (usually but not always same as moderator):	Peter Russo
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:	
+- Research guide writing and task development (usually but not always same as moderator): Peter Russo
+- Participant recruiting & screening: Lauren Alexanderson/Perigean
+- Project point of contact: Same as moderator	
+- Participant(s) for pilot test: Emily Waggoner
 - Note-takers:	
 - Observers:	
 
