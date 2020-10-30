@@ -10,7 +10,7 @@
 - Dillo Raju
 - Stephen Barrs
 - Ming Ligh
-- Marcy ????
+- Marcy Nadeau
 
 ## Subject
 
