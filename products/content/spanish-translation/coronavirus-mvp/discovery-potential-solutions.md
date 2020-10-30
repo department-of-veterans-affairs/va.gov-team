@@ -32,7 +32,11 @@ Below are descriptions of potential solutions recommended by colleagues at DEPO 
 
 - A .gov site content manager noted using and liking Drupal multilingual modules. This content manager noted that they use this for managing the translated content, but still use human translators for the actual translation. This may be a longer-term option, dependent on CMS team capacity. More information: https://www.drupal.org/docs/multilingual-guide
 - A 
-
+## Prismic
+- Allows you to create re usable content and layouts and query documents via a headless API. example graphl query: 
+http://tiny.cc/0f71tz
+- https://user-guides.prismic.io/en/collections/22473-multi-language-localization
+- https://prismic.io/feature/localization-and-multilanguage
 ## SYSTRAN
 
 ## Clay Tablet
