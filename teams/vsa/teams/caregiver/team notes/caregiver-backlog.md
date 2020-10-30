@@ -15,7 +15,7 @@
 - Create a separate page for application failures (to create a cleaner experience for the applicant)
 - Improve facility labels/mapping to clinics
 - 10-10CG form content change
-- Work with CARMA to store the original submission data (payload), so that original data from the online application can be stored
+- Work with CARMA to store the original submission data (payload), so that original data from the online application can be referenced
 - Allow user to download PDF after successful submission
 
 ## Long term (unprioritized) 
