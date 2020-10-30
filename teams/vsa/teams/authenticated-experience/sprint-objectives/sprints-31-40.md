@@ -187,7 +187,8 @@ Week 2 of sprint 33
 
 **PM**
 
-- [Post-launch review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#post-launch-check-in)
+- Prep for [post-launch review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#post-launch-check-in)
+- Schedule post-launch review
 
 **PM/Design/FE**
 
