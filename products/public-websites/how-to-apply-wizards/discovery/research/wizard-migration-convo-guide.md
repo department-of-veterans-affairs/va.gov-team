@@ -20,7 +20,7 @@ Check your [screensharing setup]
 
 -   Have mobile prototype available - links to come
 
--   Have desktop prototype available - links to come
+-   Have [desktop prototype available](https://vsateams.invisionapp.com/share/ZVZ7DXLYEQ3)
 
 When the participant is ready, begin the session with the following intro
 
@@ -70,8 +70,9 @@ First Task: Find form to apply for new benefits - 8 minutes
 
 -   Great! Thank you for doing that.  Now, I'm going to send you a link to the prototype in the chat. 
 -   It'll be really helpful for you to think out loud as much as possible as we go through this.
--   https://vsateams.invisionapp.com/share/ZVZ7DXLYEQ3#/screens/435658984
 -   Send user link to prototype, starting on How to Apply education page
+    -   [Desktop prototype](https://vsateams.invisionapp.com/share/ZVZ7DXLYEQ3)
+    -   Mobile prototype (NEED LINK)
 -   Imagine you wanted to go to use your education benefits for the first time, and you made your way to this page.  
 -   Show me what you'd do from here to start that process, and please remember to think aloud.
     **If needed:**
