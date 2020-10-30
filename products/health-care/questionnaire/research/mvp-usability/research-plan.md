@@ -73,5 +73,4 @@ Mobile and Desktop Pilot Sessions (2 total sessions, 1 mobile and 1 desktop): Da
 ## Resources	
 - [Project Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/product-outline.md)
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/mvp-usability/conversation-guide.md)
-- Synthesis
-- Read-Out/Results	
+- [Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/mvp-usability/research-findings.md)	
