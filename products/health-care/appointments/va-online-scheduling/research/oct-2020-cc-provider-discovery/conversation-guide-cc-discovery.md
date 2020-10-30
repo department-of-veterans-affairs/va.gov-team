@@ -3,7 +3,7 @@
 
 ## Moderator logistics
 
-- [ ] Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to the [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+- [ ] Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to the [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel).
 - [ ] Have the prototype link available
 - [ ] Update the Zoom sharing section
 - [ ] In the Attendees section, make sure everyone except the participant is on mute
@@ -23,9 +23,9 @@ Thanks for joining us today! My name is Peter Russo and I also have some colleag
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about [one hour].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
@@ -50,7 +50,7 @@ Today we're going to be testing a process for scheduling a community care appoin
 ## Section 1: Start an appointment
 
 Okay, thank you for explaining that to me. Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
-* Use chat to send user link to prototype, starting on home page of learning center. [Prototype link]
+* Use chat to send user link to prototype. [Prototype link]
 * Talk user through screen sharing so they can share their screen.
 
 As I mentioned earlier, this is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a prototype, none of your actions will affect your actual VA information or benefits.
@@ -59,19 +59,22 @@ I'm going to ask you to schedule an appointment through the VA Online Scheduling
 
 ### Task 1 - Home Page general impression
 
-* Take a look at this page, scroll around. Tell me what this page is for and what you think you can do here. It'll be really helpful if you can think out loud as much as possible moving forward. 
-* Is the information on this page what you expect it to be? 
-### Prompt 2 - Choose type of care
+* Take a look at this page, scroll around. Tell me what this page is for and what you think you can do here. It'll be really helpful if you can think out loud as much as possible moving forward.
 
-* Imagine you need to schedule an appointment with a provider in your community to treat an ankle injury. How would you start from here?
+* Is the information on this page what you expect it to be?
+
+* Imagine you need to schedule a general check-up with a primary care provider in your community. How would you start from here?
+
+### Prompt 2 - Choose type of care
 
 * Should be on Choose the type of care you need page
 
-* In your own words, what is this page asking you? 
+* In your own words, what is this page asking you?
 * Is the information on this page what you expect it to be?
 
 If needed:
-* What would you do next if [whatever thing they're looking for/ can't find / can't do] 
+* What would you do next if [whatever thing they're looking for/ can't find / can't do]
+
 * Follow up questions if needed:
     * What else would be helpful to tell you at this point in the process?
     * What are your options if your type of care isn’t listed?
