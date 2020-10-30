@@ -64,7 +64,7 @@ A direct mapping of severity to WCAG success criteria is **not possible**, as it
 4. [Understandability/Cognition](#understandabilitycognition)
 
 
-**This list is based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practices (marked with “*SHOULD*”).** 
+**This list is based on WCAG 2.0 AA requirements.** 
 
 The VA 508 Office expectation is that both requirements and best practices are met in our work to deliver an experience that is accessible to all. 
 
@@ -97,9 +97,9 @@ This checklist evolved from the [Deque WCAG 2.0 Checklist](https://www.jenstrick
 The page <strong>&#42;&#42;MUST&#42;&#42;</strong> have a meaningful title (e.g. About us), even when included via iframe. [WCAG 2.4.2](https://www.wuhcag.com/page-titled/)
 
 <ol type="a">
-   <li>Unique information *SHOULD* go first (e.g. “WCAG Checklist”).</li>
-   <li>Result pages *SHOULD* describe the result (e.g. “Error on form” or “Search results loaded”).</li>
-   <li>Single-page applications and AJAX scripts *SHOULD* update the title when the URL changes or, when the page content changes significantly.</li>
+   <li>Unique information <strong>**MUST**</strong> go first (e.g. “WCAG Checklist”).</li>
+   <li>Result pages <strong>**MUST**</strong> describe the result (e.g. “Error on form” or “Search results loaded”).</li>
+   <li>Single-page applications and AJAX scripts <strong>**MUST**</strong> update the title when the URL changes or, when the page content changes significantly.</li>
 </ol>
 
 #### 2. Language	
@@ -112,12 +112,12 @@ The page <strong>&#42;&#42;MUST&#42;&#42;</strong> have a meaningful title (e.g.
 #### 3. Landmarks	
 
 <ol type="a">
-   <li>Pages *SHOULD* have accurate, logical landmark structure (e.g. &lt;header&gt;, &lt;nav&gt;, &lt;main&gt;, &lt;aside&gt;, &lt;footer&gt;), so screen reader users can navigate by landmark, and all content *SHOULD* be inside a landmark. <a href="https://www.wuhcag.com/headings-and-labels/">WCAG 2.4.6</a></li>
+   <li>Pages <strong>**MUST**</strong> have accurate, logical landmark structure (e.g. &lt;header&gt;, &lt;nav&gt;, &lt;main&gt;, &lt;aside&gt;, &lt;footer&gt;), so screen reader users can navigate by landmark, and all content <strong>**MUST**</strong> be inside a landmark. <a href="https://www.wuhcag.com/headings-and-labels/">WCAG 2.4.6</a></li>
 </ol>
 
 #### 4. Headings	
 
-The page **MUST** have meaningful headings to label each major section, which *SHOULD* start with `<h1>` (at the beginning of the main content, or at the beginning of every section of aggregated content, or at the beginning of modal dialogs), and *SHOULD NOT* skip heading levels, to allow screen reader users to navigate the tree structure of the heading hierarchy. [WCAG 2.4.6](https://www.wuhcag.com/headings-and-labels/)
+The page **MUST** have meaningful headings to label each major section, which **MUST** start with `<h1>` (at the beginning of the main content, or at the beginning of every section of aggregated content, or at the beginning of modal dialogs), and **MUST NOT** skip heading levels, to allow screen reader users to navigate the tree structure of the heading hierarchy. [WCAG 2.4.6](https://www.wuhcag.com/headings-and-labels/)
 
 <details><summary>Review WCAG 2.4.6 example</summary>
 
@@ -132,10 +132,10 @@ The image below will be replaced with a corrected version, with the 'dt' followe
 <ol type="a">
    <li>Links <strong>**MUST**</strong> have readable text. Be especially careful with links that contain only images (which need alt text) and background images/icon fonts (which need text via aria-label on the link or text within the link, hidden via CSS).	<a href="https://www.wuhcag.com/name-role-value/">WCAG 4.1.2</a>, <a href="https://www.wuhcag.com/link-purpose-link-only/">2.4.9</a></li>
    <li>The link text <strong>**MUST**</strong> make sense in context, and should make sense when taken out of context (problematic phrases include: “click here,” “learn more,” “more,” “read more,” etc.).	<a href="https://www.wuhcag.com/link-purpose-link-only/">WCAG 2.4.9</a>, <a href="https://www.wuhcag.com/link-purpose-in-context/">WCAG 2.4.4</a></li>
-   <li>_[Provide code example here]_ Linked content *SHOULD* be grouped in a single link where appropriate. For example: an icon and its adjacent text *SHOULD NOT* be two separate links if they go to the same location.	<a href="https://www.wuhcag.com/consistent-identification/">WCAG 3.2.4</a></li>
+   <li>_[Provide code example here]_ Linked content <strong>**MUST**</strong> be grouped in a single link where appropriate. For example: an icon and its adjacent text **MUST NOT** be two separate links if they go to the same location.	<a href="https://www.wuhcag.com/consistent-identification/">WCAG 3.2.4</a></li>
    <li>Navigation features (e.g. main menu) <strong>**MUST**</strong> be placed in a consistent location across pages.	<a href="https://www.wuhcag.com/consistent-navigation/">WCAG 3.2.3</a></li>
    <li>Navigation features <strong>**MUST**</strong> be identified in a consistent way across pages.	<a href="https://www.wuhcag.com/consistent-identification/">WCAG 3.2.4</a></li>
-   <li>A “skip navigation” or “skip to main content” *SHOULD* be provided as the first link in the design, to allow sighted keyboard users to quickly arrive at the main content (Note: the link can be invisible until the user tabs to it, but it **MUST NOT** remain invisible when it receives keyboard focus).	<a href="https://www.wuhcag.com/multiple-ways/">WCAG 2.4.5</a></li>
+   <li>A “skip navigation” or “skip to main content” <strong>**MUST**</strong> be provided as the first link in the design, to allow sighted keyboard users to quickly arrive at the main content (Note: the link can be invisible until the user tabs to it, but it <strong>**MUST**</strong> remain invisible when it receives keyboard focus).	<a href="https://www.wuhcag.com/multiple-ways/">WCAG 2.4.5</a></li>
 </ol>
 
 #### 6. Tables	
@@ -183,7 +183,7 @@ a. Header cells `<th>` **MUST** be associated with their respective data cells (
 ```
 </details>
 
-b. Tables *SHOULD* have an accessible name (e.g. `<caption>`, aria-label, or aria-labelledby).[4.1.2](https://www.wuhcag.com/name-role-value/)
+b. Tables **MUST** have an accessible name (e.g. `<caption>`, aria-label, or aria-labelledby).[4.1.2](https://www.wuhcag.com/name-role-value/)
 
 
 
@@ -202,7 +202,7 @@ c. Layout tables (no header/data associations) **MUST NOT** contain `<th>` or ot
 <ol type="a">
    <li>Frame title attribute <strong>**MUST**</strong> be specified (&lt;iframe title="Video about..."`). <a href="https://www.wuhcag.com/name-role-value/">WCAG 4.1.2</a></li>
    <li>The page within the iframe <strong>**MUST**</strong> have an accurate, meaningful &lt;title&gt;.	<a href="">WCAG 2.4.2</a></li>
-   <li>iframes with no readable content (e.g. only JavaScript) *SHOULD* be set to aria-hidden="true".	<a href="https://www.wuhcag.com/name-role-value/">WCAG 4.1.2</a></li>
+   <li>iframes with no readable content (e.g. only JavaScript) <strong>**MUST**</strong> be set to aria-hidden="true".	<a href="https://www.wuhcag.com/name-role-value/">WCAG 4.1.2</a></li>
 </ol>
 
 
@@ -211,8 +211,8 @@ c. Layout tables (no header/data associations) **MUST NOT** contain `<th>` or ot
 
 <ol type="a">
    <li>Inputs, buttons, and controls <strong>**MUST**</strong> have labels which are programmatically-associated** (e.g. via &lt;label&gt;, aria-label, or aria-labelledby) and always visible on the screen** (they don’t disappear when the user starts typing). <a href="https://www.wuhcag.com/info-and-relationships/">WCAG 1.3.1</a>, <a href="https://www.wuhcag.com/labels-or-instructions/">WCAG 3.3.2</a></li>
-   <li>Required fields *SHOULD* be marked as such, e.g. via aria-required="true" (on the input, not on the label), or have the word “required” in the &lt;label&gt; text.	<a href="https://www.wuhcag.com/labels-or-instructions/">WCAG 3.3.2</a></li>
-   <li>Form field instructions *SHOULD* be associated with inputs or buttons using techniques such as: Putting the instructions in the &lt;label&gt;. Associating the instructions with the field using aria-describedby (Note: text associated via aria-describedby *SHOULD* be relatively brief). Putting the instructions in a &lt;fieldset&gt; with &lt;legend&gt; <a href="https://www.wuhcag.com/labels-or-instructions/">WCAG 3.3.2</a></li>
+   <li>Required fields <strong>**MUST**</strong> be marked as such, e.g. via aria-required="true" (on the input, not on the label), or have the word “required” in the &lt;label&gt; text.	<a href="https://www.wuhcag.com/labels-or-instructions/">WCAG 3.3.2</a></li>
+   <li>Form field instructions <strong>**MUST**</strong> be associated with inputs or buttons using techniques such as: Putting the instructions in the &lt;label&gt;. Associating the instructions with the field using aria-describedby (Note: text associated via aria-describedby <strong>**MUST**</strong> be relatively brief). Putting the instructions in a &lt;fieldset&gt; with &lt;legend&gt; <a href="https://www.wuhcag.com/labels-or-instructions/">WCAG 3.3.2</a></li>
    <li>Groups of form elements <strong>**MUST**</strong> have group labels (e.g. &lt;fieldset&gt; and &lt;legend&gt;, or referenced from the inputs via aria-labelledby="id-of-group-label id-of-self-label" ). <a href="https://www.wuhcag.com/info-and-relationships/">WCAG 1.3.1</a>, <a href="https://www.wuhcag.com/labels-or-instructions/">WCAG 3.3.2</a></li>
 </ol>
 
@@ -223,7 +223,7 @@ c. Layout tables (no header/data associations) **MUST NOT** contain `<th>` or ot
    <li>The page <strong>**MUST**</strong> NOT contain duplicate IDs because accessibility features frequently reference IDs. <a href="https://www.wuhcag.com/parsing/">WCAG 4.1.1</a></li>
    <li>Attributes (e.g. ARIA) <strong>**MUST**</strong> contain only allowable values, in the proper parent-child hierarchy.	<a href="https://www.wuhcag.com/parsing/">WCAG 4.1.1</a></li>
    <li>Parent-child relationships of elements & attributes (e.g. ARIA roles) <strong>**MUST**</strong> follow the specification.	<a href="https://www.wuhcag.com/parsing/">WCAG 4.1.1</a></li>
-   <li>The page **MUST NOT** contain syntax errors that affect semantic meaning (e.g. elements or attributes that don’t close properly, either explicitly or implicitly).	<a href="https://www.wuhcag.com/parsing/">WCAG 4.1.1</a></li>
+   <li>The page <strong>**MUST**</strong> NOT contain syntax errors that affect semantic meaning (e.g. elements or attributes that don’t close properly, either explicitly or implicitly). <a href="https://www.wuhcag.com/parsing/">WCAG 4.1.1</a></li>
 </ol>
 
 
@@ -233,8 +233,8 @@ c. Layout tables (no header/data associations) **MUST NOT** contain `<th>` or ot
 #### 1. Color and Other Sensory Characteristics	
 
 <ol type="a">
-   <li>Sensory characteristics (e.g. color, size, shape, visual placement, visual orientation, sound, etc.) **MUST NOT** be the only way to convey information.	1.1.1, 1.3.3</li>
-   <li>Color **MUST NOT** be used as the only way to distinguish links from regular text.	1.4.1</li>
+   <li>Sensory characteristics (e.g. color, size, shape, visual placement, visual orientation, sound, etc.) <strong>**MUST**</strong> NOT be the only way to convey information.	1.1.1, 1.3.3</li>
+   <li>Color <strong>**MUST**</strong> NOT be used as the only way to distinguish links from regular text.	1.4.1</li>
 </ol>
 
 
@@ -253,7 +253,7 @@ c. Layout tables (no header/data associations) **MUST NOT** contain `<th>` or ot
    <li>CAPTCHAs <strong>**MUST**</strong> have alternatives that do not rely on sensory experiences (i.e. vision, sound). 1.1.1</li>
    <li>Complex images (images requiring more than about 200 characters to describe them) <strong>**MUST**</strong> be given extended text descriptions. Provide the text below (or above) the image, or on a separate page (via a link), or in a dialog (via a button), or similar technique. 1.1.1</li>
    <li>Non-informative decorative or redundant Images <strong>**MUST**</strong> be coded to be ignored by screen readers by using alt="" on the <img> or Putting the image in the background with CSS. 1.1.1</li>
-   <li>Images **MUST NOT** be used to convey text, except in logos and other essential situations (use real text instead, so users can magnify it, change contrast, change colors, etc.). 1.4.5
+   <li>Images <strong>**MUST**</strong> NOT be used to convey text, except in logos and other essential situations (use real text instead, so users can magnify it, change contrast, change colors, etc.). 1.4.5
 
 #### 4. Videos and Audio
 
@@ -261,7 +261,7 @@ c. Layout tables (no header/data associations) **MUST NOT** contain `<th>` or ot
    <li>Videos (prerecorded or live) <strong>**MUST**</strong> have synchronized captions for the deaf. 1.2.2, 1.2.4</li>
    <li>Videos <strong>**MUST**</strong> have narrated audio descriptions for the blind, if the audio track (dialog, narration, sounds) of the video does not convey all important visual information.<sup>2</sup> 1.2.3, 1.2.5</li>
    <li>Videos and audio (prerecorded) <strong>**MUST**</strong> have a text transcript for the deaf and deafblind, on the page, available via a link, available via a dialog (activated by a button), or similar technique. 1.2.1</li>
-   <li>Videos and audio *SHOULD* not auto-play to avoid interfering with screen reader speech. (1.4.2)</li>
+   <li>Videos and audio <strong>**MUST**</strong> NOT auto-play to avoid interfering with screen reader speech. (1.4.2)</li>
    <li>Volume level <strong>**MUST**</strong> be adjustable via a control in the media player. 1.4.2</li>
 </ol>
 
@@ -270,51 +270,51 @@ c. Layout tables (no header/data associations) **MUST NOT** contain `<th>` or ot
 
 <ol type="a">
    <li>Users <strong>**MUST**</strong> be able to use pinch-to-zoom on touch devices. 1.4.4</li>
-   <li>A responsive design (with text reflow relative to the viewport width) *SHOULD* be available on desktop as well as mobile designs for the benefit of people with low vision who zoom in. 1.4.4</li>
+   <li>A responsive design (with text reflow relative to the viewport width) <strong>**MUST**</strong> be available on desktop as well as mobile designs for the benefit of people with low vision who zoom in. 1.4.4</li>
 </ol>
 
 
 #### 6. Visual Proximity
 
 <ol type="a">
-   <li>Related information (labels, descriptions, feedback, controls, etc.) *SHOULD* be close in visual proximity so that screen magnifier users can see the related parts on the screen at the same time.LV3</li>
+   <li>Related information (labels, descriptions, feedback, controls, etc.) <strong>**MUST**</strong> be close in visual proximity so that screen magnifier users can see the related parts on the screen at the same time.LV3</li>
 </ol>
 
 
 #### 7. Flashing Effects
 
 <ol type="a">
-   <li>**508-defect-0 :exclamation: Launchblocker – Harmful** There **MUST NOT* be any flashing or blinking effects faster than 3 times in any one-second period, to avoid causing a seizure in people susceptible to them. 2.3.1</li>
+   <li>**508-defect-0 :exclamation: Launchblocker – Harmful** There <strong>**MUST**</strong> NOT be any flashing or blinking effects faster than 3 times in any one-second period, to avoid causing a seizure in people susceptible to them. 2.3.1</li>
 </ol>
 
 
 #### 8.Typographic Design
 
 <ol type="a">
-   <li>Fonts *SHOULD* be easy to read (avoid cursive fonts, overly decorative fonts, etc.). n/</li>
-   <li>Text *SHOULD NOT* be full-justified, to improve readability. 1.4.8</li>
-   <li>Within paragraphs, line spacing *SHOULD* be at least 1.5 whenever possible. 1.4.8*</li>
-   <li>Between paragraphs, spacing *SHOULD* be at least 1.5 times larger than the line spacing. 1.4.8*</li>
-   <li>The design *SHOULD* use standard font face wherever possible (eliminate or minimize phrases written in all capitals, long sections of italic or bold text, etc.).n/a</li>
+   <li>Fonts <strong>**MUST**</strong> be easy to read (avoid cursive fonts, overly decorative fonts, etc.). n/</li>
+   <li>Text <strong>**MUST**</strong> NOT be full-justified, to improve readability. 1.4.8</li>
+   <li>Within paragraphs, line spacing <strong>**MUST**</strong> be at least 1.5 whenever possible. 1.4.8*</li>
+   <li>Between paragraphs, spacing <strong>**MUST**</strong> be at least 1.5 times larger than the line spacing. 1.4.8*</li>
+   <li>The design <strong>**MUST**</strong> use standard font face wherever possible (eliminate or minimize phrases written in all capitals, long sections of italic or bold text, etc.).n/a</li>
    <li>If emphasis is critical to understand the text, it <strong>**MUST**</strong> be written in words (e.g. “important” or “warning”) in the text or in alternative text. Text variants (bold, italic, all capitals) aren’t enough. 1.1.1</li>
 </ol>
 
 #### 9. Screen Orientation
 
 <ol type="a">
-   <li>Designs *SHOULD* support both vertical (portrait) and horizontal (landscape) orientation, so that the design displays correctly for users who cannot switch orientation (e.g. if they have the device attached to a wheelchair). n/a</li>
+   <li>Designs <strong>**MUST**</strong> support both vertical (portrait) and horizontal (landscape) orientation, so that the design displays correctly for users who cannot switch orientation (e.g. if they have the device attached to a wheelchair). n/a</li>
 </ol>
 
 #### 10. Hidden Content
 
 <ol type="a">
-   <li>Content that is hidden from sighted users *SHOULD* also be hidden from screen reader users (e.g. using CSS display:none), except where the hidden content is intended only for screen reader users. 1.3.2</li>
+   <li>Content that is hidden from sighted users <strong>**MUST**</strong> also be hidden from screen reader users (e.g. using CSS display:none), except where the hidden content is intended only for screen reader users. 1.3.2</li>
 </ol>
 
 #### 11. CSS Generated Content (e.g. font icons, etc.)
 
 <ol type="a">
-   <li>Designs *SHOULD NOT* rely on CSS-generated content to convey information, due to incomplete support across screen reader/browser combinations (especially IE). Supplement with CSS clipped content in the HTML4, aria-label/aria-labelledby (on focusable elements), or similar technique. 1.1.1</li>
+   <li>Designs <strong>**MUST**</strong> NOT rely on CSS-generated content to convey information, due to incomplete support across screen reader/browser combinations (especially IE). Supplement with CSS clipped content in the HTML4, aria-label/aria-labelledby (on focusable elements), or similar technique. 1.1.1</li>
 </ol>
 
 
@@ -325,17 +325,23 @@ c. Layout tables (no header/data associations) **MUST NOT** contain `<th>` or ot
 
 <ol type="a">
    <li>All features <strong>**MUST**</strong> be fully functional when using only the keyboard (drop-down menus, etc.) 2.1.1</li>
-   <li>Keyboard tab order <strong>**MUST**</strong> be logical, and *SHOULD* match the order of the visual design (Note: Achieve this via proper order in the DOM. Avoid tabindex of positive values). 2.4.3</li>
+   <li>Keyboard tab order <strong>**MUST**</strong> be logical, and match the order of the visual design (Note: Achieve this via proper order in the DOM. Avoid tabindex of positive values). 2.4.3</li>
    <li>Keyboard focus <strong>**MUST**</strong> follow the action (e.g. the focus goes to a dialog when the dialog is activated, and when the dialog is dismissed, the focus returns to the button that activated the dialog). 2.4.3</li>
    <li>Visual focus indicator <strong>**MUST**</strong> always be visible when tabbing through the page. 2.4.7</li>
    <li>The page **MUST NOT** have a keyboard trap. Users <strong>**MUST**</strong> be able to navigate to and past all links, buttons, inputs, and controls, both forward (using the tab key) and backward (using shift + tab). 2.1.2</li>
    <li>Keyboard shortcuts **MUST NOT** interfere with shortcuts in the browser, screen reader, or OS. 2.1.1</li>
-   <li>Touch Input All features *SHOULD* be fully functional when using only touch. M</li>
-   <li>All features *SHOULD* be fully functional by touch with the screen reader turned on. Click actions are required, because JavaScript swipe events, and similar, are disabled when the screen reader is on. M</li>
-   <li>Whenever possible, the clickable target *SHOULD* be at least 9mm high and 9mm wide, so that users can activate them with their finger, without having to zoom in. M</li>
 </ol>
 
-#### 2. Form Validation and Feedback
+
+#### 2. TOUCH Input
+
+<ol type="a">
+   <li>All features *SHOULD* be fully functional when using only touch. M [WCAG 2.1]</li>
+   <li>All features *SHOULD* be fully functional by touch with the screen reader turned on. Click actions are required, because JavaScript swipe events, and similar, are disabled when the screen reader is on. M [WCAG 2.1]</li>
+   <li>Whenever possible, the clickable target *SHOULD* be at least 9mm high and 9mm wide, so that users can activate them with their finger, without having to zoom in. M [WCAG 2.1]</li>
+</ol>
+
+#### 3. Form Validation and Feedback
 (See also Form Markup in Part 1)
 
 <ol type="a">
@@ -350,7 +356,7 @@ c. Layout tables (no header/data associations) **MUST NOT** contain `<th>` or ot
    <li>Forms with legal, financial, or data functions <strong>**MUST**</strong> protect users from errors by one of the following: 1) allow actions to be reversible, 2) automatically check and correct errors, or 3) allow users to review/confirm/correct submissions. 3.3.4</li>
 </ol>
 
-#### Custom Widgets
+#### 4. Custom Widgets
 
 <ol type="a">
    <li>Labels <strong>**MUST**</strong> be specified on all controls and buttons (e.g. via <label>, aria-label, or aria-labelledby) 3.3.2</li>
@@ -361,7 +367,7 @@ c. Layout tables (no header/data associations) **MUST NOT** contain `<th>` or ot
 </ol>
 
 
-#### Manage Focus
+#### 5. Manage Focus
 
 <ol type="a">
    <li>Scripts <strong>**MUST**</strong> manage keyboard focus when necessary (but only when necessary) (e.g. clicking on a button sends the focus to a dialog; closing the dialog sends the focus back to the original button). 2.4.3</li>
@@ -369,14 +375,14 @@ c. Layout tables (no header/data associations) **MUST NOT** contain `<th>` or ot
 </ol>
 
 
-#### Motion and Animation
+#### 6. Motion and Animation
 
 <ol type="a">
    <li>Users <strong>**MUST**</strong> be able to pause, stop, hide, or control the timing of content that blinks, moves, autoscrolls, or auto-updates. 2.2.2</li>
 </ol>
 
 
-#### Dynamic Updates
+#### 7. Dynamic Updates
 (including in a singlepage application framework)
 
 <ol type="a">
@@ -390,11 +396,11 @@ c. Layout tables (no header/data associations) **MUST NOT** contain `<th>` or ot
    <li>“On input” **MUST NOT** trigger a change of context unless the user is advised in advance. 3.2.2</li>
 </ol>
 
-#### Objects and Plugins
+#### 8. Objects and Plugins
 
 <ol type="a">
    <li>All &lt;object&gt; elements <strong>**MUST**</strong> have alternative text. 1.1.1</li>
-   <li>An object or plugin *SHOULD* conform to the best practices of the accessibility API of that object or plugin, if available (e.g. the PDF format has an accessibility API). n/a</li>
+   <li>An object or plugin <strong>**MUST**</strong> conform to the best practices of the accessibility API of that object or plugin, if available (e.g. the PDF format has an accessibility API). n/a</li>
    <li>If an object or plugin is not compatible with assistive technologies, an alternative representation <strong>**MUST**</strong> be available in an accessible format. 1.1.1</li>
 </ol>
 
@@ -407,25 +413,25 @@ c. Layout tables (no header/data associations) **MUST NOT** contain `<th>` or ot
 #### Content 
 
 <ol type="a">
-   <li>The text *SHOULD* be written in the simplest and clearest language possible, appropriate to the content. COG<sup>6</sup></li>
-   <li>Uncommon words and phrases – including technical terms, idioms, jargon, foreign phrases, etc. – *SHOULD* be defined or explained in the text. 3.1.3<sup>*</sup></li>
-   <li>Abbreviations and acronyms *SHOULD* be expanded or explained in the text. 3.1.4<sup>*</sup></li>
-   <li>The page *SHOULD* provide supplemental versions of the content (e.g. illustrations, videos, audio, simplified text version, etc.) to enhance comprehension, if the reading level is more advanced than a lower secondary education level. 3.1.5<sup>*</sup></li>
+   <li>The text <strong>**MUST**</strong> be written in the simplest and clearest language possible, appropriate to the content. COG<sup>6</sup></li>
+   <li>Uncommon words and phrases – including technical terms, idioms, jargon, foreign phrases, etc. – <strong>**MUST**</strong> be defined or explained in the text. 3.1.3<sup>*</sup></li>
+   <li>Abbreviations and acronyms <strong>**MUST**</strong> be expanded or explained in the text. 3.1.4<sup>*</sup></li>
+   <li>The page <strong>**MUST**</strong> provide supplemental versions of the content (e.g. illustrations, videos, audio, simplified text version, etc.) to enhance comprehension, if the reading level is more advanced than a lower secondary education level. 3.1.5<sup>*</sup></li>
 </ol>
 
 #### User Experience
 
 <ol type="a">
-   <li>The information architecture of the site and design *SHOULD* be intuitive, allowing the user to easily find, navigate, read, and interact with the content. COG</li>
-   <li>The design *SHOULD* eliminate or minimize visual distractions. COG</li>
-   <li>The site *SHOULD* minimize the number of steps required for users to complete actions. COG</li>
-   <li>The site *SHOULD* provide ways for users to find or request help (e.g. context-sensitive help, tutorials, online chat with a customer service representative, discussion forum, a form to submit a question, contact information to call or write for assistance, etc.). 3.3.5<sup>*</sup></li>
-   <li>Functionality *SHOULD* be easily discoverable (e.g. a menu that can be revealed only by a finger gesture swiping across the screen from the left to the right would not be easily discoverable). COG</li>
-   <li>The design *SHOULD* follow common conventions for design and user interaction, unless there is a compelling (e.g. research-validated) reason to break from convention. COG</li>
-   <li>Users *SHOULD NOT* be required to react quickly to information or user interface features. 2.1.1</li>
-   <li>Users *SHOULD NOT* be interrupted by scripted events, or *SHOULD* be able to suppress or postpone interruptions, except in the case of emergencies. (2.2.4*)</li>
-   <li>Users *SHOULD NOT* be required to perform mathematical calculations, unless the fundamental purpose of the page requires them to do so. COG</li>
-   <li>Users *SHOULD NOT* be required to remember data from one page (or view, or step of a process) to another, unless the fundamental purpose of the content requires them to do so. COG</li>
+   <li>The information architecture of the site and design <strong>**MUST**</strong> be intuitive, allowing the user to easily find, navigate, read, and interact with the content. COG</li>
+   <li>The design <strong>**MUST**</strong> eliminate or minimize visual distractions. COG</li>
+   <li>The site <strong>**MUST**</strong> minimize the number of steps required for users to complete actions. COG</li>
+   <li>The site <strong>**MUST**</strong> provide ways for users to find or request help (e.g. context-sensitive help, tutorials, online chat with a customer service representative, discussion forum, a form to submit a question, contact information to call or write for assistance, etc.). 3.3.5<sup>*</sup></li>
+   <li>Functionality <strong>**MUST**</strong> be easily discoverable (e.g. a menu that can be revealed only by a finger gesture swiping across the screen from the left to the right would not be easily discoverable). COG</li>
+   <li>The design <strong>**MUST**</strong> follow common conventions for design and user interaction, unless there is a compelling (e.g. research-validated) reason to break from convention. COG</li>
+   <li>Users <strong>**MUST**</strong> NOT be required to react quickly to information or user interface features. 2.1.1</li>
+   <li>Users <strong>**MUST**</strong> NOT be interrupted by scripted events, or <strong>**MUST**</strong> be able to suppress or postpone interruptions, except in the case of emergencies. (2.2.4*)</li>
+   <li>Users <strong>**MUST**</strong> NOT be required to perform mathematical calculations, unless the fundamental purpose of the page requires them to do so. COG</li>
+   <li>Users <strong>**MUST**</strong> NOT be required to remember data from one page (or view, or step of a process) to another, unless the fundamental purpose of the content requires them to do so. COG</li>
 </ol>
 
 
