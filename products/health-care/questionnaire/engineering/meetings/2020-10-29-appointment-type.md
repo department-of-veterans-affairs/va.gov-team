@@ -27,10 +27,12 @@ Those are not related. That appointment type is for organizational purposes, not
 - Stop code is probably a safe bet to determine appointment type
 - Stop codes are assigned to a clinics type
   - for example, all Womans Health Clinics have the same Stop Code
+- All clinics of the same type have the same stop code, regardless of Facility. 
 - There 500+ stop codes
 - We would only care about the 10 or so that VOAS has,
 - Updated on a cadence of at least once a year.
   - Manual Process to update the stop codes
+  - Not all codes are updated every year
 - In theory, a required piece of information.
   - Stephen tried to call some APIs to see that information and that information was not present
 
@@ -42,6 +44,10 @@ Using the MAP/MAS endpoints, the clinic information is not always returned with 
 
 >I have asked the MAS devs to have MAS make the call into CDW Service and populate this data.  They asked us to provide a list of any data fields we would like to see and they will analyze (due Monday - we can look at the MAS Swagger VDSSchedulingClinic structure). Until then we should be able to pull the clinicName from the current appointment response and query CDW to get the primary stop code.  For example, in the response from the URL above, searching for PHR PACT 5 will return data for a specific clinic based on clinic name.
 >> From Stephen
+
+## Questions
+
+- How do we know when new stop codes are released?
 
 ## Action Items
 
