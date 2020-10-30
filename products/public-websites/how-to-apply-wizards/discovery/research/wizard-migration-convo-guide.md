@@ -50,7 +50,7 @@ Start recording.
 Warm-up Questions (Optional) - 5 minutes
 ----------------------------------------
 
-Before we look at the website, I'd like to understand if you have any experience with forms on VA.gov
+Before we look at the prototype, I'd like to understand if you have any experience with forms on VA.gov
 
 -   Have you ever applied for benefits through a form on VA.gov before?
 -   What was that experience like?
@@ -58,7 +58,7 @@ Before we look at the website, I'd like to understand if you have any experience
 
 As we go through the session, it'll be a great if you can think out loud and talk about what you're seeing. I've found it can be helpful if we go through a warm up page first.  
 
-*Ask participant to share screen, and guide them to a benefit hub page on VA.gov relevant to the experience they described above - e.g. [Disability eligibility page](https://www.va.gov/disability/eligibility/), https://www.va.gov/disability/how-to-file-claim/, [education how to apply](https://www.va.gov/education/how-to-apply/), [education eligibility](https://www.va.gov/education/eligibility/)*
+*Make the participant the presenter and ask participant to share screen, and guide them to a benefit hub page on VA.gov relevant to the experience they described above - e.g. [Disability eligibility page](https://www.va.gov/disability/eligibility/), https://www.va.gov/disability/how-to-file-claim/, [education how to apply](https://www.va.gov/education/how-to-apply/), [education eligibility](https://www.va.gov/education/eligibility/)*
 
 - Thank you. Now, take a look at this page, and talk me through what you see, and what you can do on this page.
 - Is there anything confusing or unclear about this page?
@@ -68,9 +68,9 @@ As we go through the session, it'll be a great if you can think out loud and tal
 First Task: Find form to apply for new benefits - 8 minutes
 -----------------------------------------------------------
 
--   Great! Thank you for doing that.  Now, I'm going to send you a link to the prototype in the chat. The chat box can be tricky to find in Zoom when you're already sharing your screen - look for the 3 dots in the bar that tells you you are sharing content.
+-   Great! Thank you for doing that.  Now, I'm going to send you a link to the prototype in the chat. 
 -   It'll be really helpful for you to think out loud as much as possible as we go through this.
--   INSERT LINK TO MOBILE AND DESKTOP PROTOTYPES
+-   https://vsateams.invisionapp.com/share/ZVZ7DXLYEQ3#/screens/435658984
 -   Send user link to prototype, starting on How to Apply education page
 -   Imagine you wanted to go to use your education benefits for the first time, and you made your way to this page.  
 -   Show me what you'd do from here to start that process, and please remember to think aloud.
@@ -110,7 +110,7 @@ Second Task: Start Over - 2 minutes
 
   **If needed:**
 
-  -   Guide participant back to the how to apply page to start the wizard again.
+  -   Guide participant back to the how to apply page to start the wizard again, or to click on the `go back` link.
 
 ### Things to watch for:
 
