@@ -197,9 +197,28 @@ Week 2 of sprint 33
 
 **Design**
 
+- Research plan #13925
+- Conversation guide #13926
+- Conduct research (Depending on scheduling, this may carry over into the next sprint)
+
 **FE**
 
 - Reduce Javascript bundle size #1969
+
+### Direct deposit for edu
+
+**PM**
+
+- Figure out what VA.gov staging users we can use for direct deposit for edu QA (or do we need to get them set up?)
+- Start preparing for [Usability testing prep review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#usability-testing-prep)
+  - Note: Talk to Tze about whether we can use the same test plan we used for direct deposit for comp & pen QA. We probably can use the same test scenarios, **however**, we will need different staging users.
+- Schedule the usability testing prep review for some time the following sprint (or whenever we're sure we can have the required materials together)
+
+**Design**
+
+- Research plan
+- Conversation guide
+- Help Jason/Matt prep for usability test prep meeting as needed
 
 ## Sprint 35 (11/18 – 12/1)
 
