@@ -82,6 +82,17 @@ The following list is a set of resources to help you do your work and answer que
 
 * [Additional VSP Accessibility Resources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/accessibility)
 
+### Additional accessibility resources
+
+* [Apple Human Interface Guidelines, Accessibility](https://developer.apple.com/design/human-interface-guidelines/accessibility/overview/best-practices/)
+
+* [Android - accessibility guidelines](https://developer.android.com/guide/topics/ui/accessibility/apps)
+
+* [W3C Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)
+
+* [WUHCAG WCAG Checklist - a plain language interpretation of the W3C guidelines](https://www.wuhcag.com/wcag-checklist/)
+
+
 ## VSA Accessibility Dashboard
 
 The VSA accessibility specialist is measuring and monitoring a number of metrics to evaluate if processes and resources are improving the quality of accessibility in our work. The [VSA Accessibility Dashboard](https://sites.google.com/d/1TaKZ5-By8oAv9M-HBhyylpw14-3UXDdp/p/1doeOzfSq_zSeBl7_iBzezsaNJWqUgsDy/edit) is available for anyone who has access to GCIO's Google Drive. Please contact Jennifer if you don't have access and would like to review.
