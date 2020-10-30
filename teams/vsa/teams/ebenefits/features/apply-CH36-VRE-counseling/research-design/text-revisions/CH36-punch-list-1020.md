@@ -28,7 +28,6 @@ Revisions to text, formatting, features and design based on:
 - [ ] Remove "I know this is the form I need" section
 - [ ] Remove the "Do you have a service connected disability" section
 - [ ] Change all stop/alert message boxes within wizard from blue to light gray (#F1F1F1)
-- [ ] Reformat final button CTA per mockups
 - [ ] Capitalize Vocational Rehabilitation Counselor in stop alert: "Please contact your Vocational Rehabilitation Counselor to learn more about how to get  career planning and guidance benefits."
 - [ ] Add link, "Learn more about VA career planning and guidance eligibility" (https://www.va.gov/careers-employment/education-and-career-counseling/) to stop/alert: "To be eligible for Chapter 36 career planning and guidance, you must be a Veteran or service member, or a dependent of one."
 - [ ] Change final stop/alert text to, "When you’re ready to apply for career planning and guidance, just come back to this page to begin your application."
@@ -40,9 +39,9 @@ Revisions to text, formatting, features and design based on:
 - [ ] Add feature box below subway map; see prototype for content and formatting
 
 ### VA form 22-8832
-- [ ] Change "Claimant" to "Applicant" in all step headers
-- [ ] Change form stepper to match current form conventions in mockups
-- [ ] Fix stepper sequence to align with current step in mockups
+- [ ] Change "Claimant" to "Applicant" in Section 1 step headers
+- [X] Change form stepper to match current form conventions in mockups
+- [X] Fix stepper sequence to align with current step in mockups
 - [ ] Change "If you need assistance..." paragraph on Applicant Info screen to: "If you need If you need to update your personal information, please call Veterans Benefits Assistance at 800-827-1000, Monday through Friday, between 8:00 a.m. and 9:00 p.m. ET."
 - [ ] Place details of communication options copy into accordions
 - [ ] Adjust form address blocks to new pattern (see prototype)
@@ -51,5 +50,26 @@ Revisions to text, formatting, features and design based on:
 ### VA form 22-8832 confirmation screen
 - [ ] Remove the "Do you have a service connected disability" section
 - [ ] Add feature box content per prototype
+- Change paragraph at botton of page to: "Please call our toll-free hotline at 800-827-1000. We’re here Monday through Friday, 8:00 am to 
+8:00 pm ET."
+
+---
+
+## Chapter 31 wizard and VA form 22-1900
+
+### CH31 throughout
+- [ ] 
+
+### CH36 screening wizard
+- [ ] 
+
+### VA form 22-1900 intro screen
+- [ ] 
+
+### VA form 22-1900
+- [ ] 
+
+### VA form 22-1900 confirmation screen
+- [ ] 
 
 ---
