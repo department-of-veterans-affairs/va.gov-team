@@ -64,8 +64,6 @@ A direct mapping of severity to WCAG success criteria is **not possible**, as it
 4. [Understandability/Cognition](#understandabilitycognition)
 
 
-**This list is based on WCAG 2.0 AA requirements.** 
-
 The VA 508 Office expectation is that both requirements and best practices are met in our work to deliver an experience that is accessible to all. 
 
 This checklist evolved from the [Deque WCAG 2.0 Checklist](https://www.jenstrickland.design/talks/design4performance-a11y/resources/WCAG_Checklist.pdf). Another useful reference is this W3C [How to Meet WCAG, Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/).
