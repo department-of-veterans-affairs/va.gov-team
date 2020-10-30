@@ -7,6 +7,24 @@ __Search product owner:__ John Hashimoto
 
 
 
+## 10/30: Summary of decision to change to client-side search for 1.0
+
+Nick Sullivan: 
+
+Summary is that we went with a client-side search instead of a search.gov-powered one. Reasons for this -
+
+Search.gov-powered search would have required many action items immediately post-launch to index the pages and test a brand new search tool. This carried with it many unknowns and became an increasing source of anxiety for engineering.
+
+Search.gov's search response data carried with it several limitations - no article category/tag data, no ability to search by category/tag, ellipses scattered throughout the article description created an odd/inconsistent experience, etc.
+
+MVP rollout was defined to include about 25 articles - this is a very limited set of pages, opening the door to a client-side-powered search.
+Engineer realized the possibility of a client-side search after learning the MVP would be scoped to only 25 articles and exploring this strategy by generating a JSON file representing the entire LC search dataset. This was immediately actionable; had no unknowns; has data in sync with Drupal in terms of rollout (page data updates immediately once content is deployed) and has access to any Drupal fields, including article category; and opens the door for an instant lookup after the initial search is performed, as their are no external dependences or network requests sent from the browser (besides the JSON file on the page load.)
+
+Ref
+
+erence ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/14288#issuecomment-718787849
+
+
 ## Summary of call with Search.gov on 9/18
 
 https://dsva.slack.com/archives/C0173CAJ7A6/p1600459778011100?thread_ts=1600183994.185700&cid=C0173CAJ7A6
