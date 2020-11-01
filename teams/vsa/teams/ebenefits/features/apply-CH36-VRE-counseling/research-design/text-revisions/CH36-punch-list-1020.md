@@ -24,8 +24,8 @@ Revisions to text, formatting, features and design based on:
 
 ### CH36 screening wizard
 - [ ] Change H1 to: "Apply for Personalized Career Planning and Guidance with VA Form 28-8832"
-- [ ] Revise paragraphy copy in "Is this the form I need?" section to match prototype
 - [ ] Remove "I know this is the form I need" section
+- [ ] Add "Is this the form I need?" section to match prototype
 - [ ] Remove the "Do you have a service connected disability" section
 - [ ] Change all stop/alert message boxes within wizard from blue to light gray (#F1F1F1)
 - [ ] Capitalize Vocational Rehabilitation Counselor in stop alert: "Please contact your Vocational Rehabilitation Counselor to learn more about how to get  career planning and guidance benefits."
@@ -62,7 +62,11 @@ Revisions to text, formatting, features and design based on:
 - [ ] 
 
 ### CH36 screening wizard
-- [ ] 
+- [ ] Change H1 to: "Apply for Veteran Readiness and Employment with VA Form 28-1900"
+- [ ] Remove "I know this is the form I need" section
+- [ ] Add "Is this the form I need?" section to match prototype
+- [ ] Change question: "Did you receive an other than dishonorable discharge?" to "Did you receive a discharge status other than dishonorable?"
+- [ ] Change all stop/alert message boxes within wizard from blue to light gray (#F1F1F1)Revisons...
 
 ### VA form 22-1900 intro screen
 - [ ] 
