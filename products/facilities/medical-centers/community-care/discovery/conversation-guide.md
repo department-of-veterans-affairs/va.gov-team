@@ -9,11 +9,11 @@
 
 ## Intro
 
-Thanks for joining us today! My name is Chris and I also have some colleagues on the line observing and taking notes. Today we're going to talk about scheduling Veterans for community care. Our goal is to understand your role as a Community Care Manager working with Veterans, service members and their families.
+Thanks for joining us today! My name is Chris and I also have some colleagues on the line observing and taking notes. Today we're going to talk about scheduling Veterans for community care appointments. Our goal is to understand your role as a Community Care manager who works with Veterans, service members and their families.
 
 Before we start, a few things I want to mention:
 
-This entire session should take about 30 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+This entire session should take about 45 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 
 - We aren’t trying to sell or promote any product or service to you.
 - There are no right or wrong answers. We just want to hear your opinions, so that we can improve the application and meet Veterans' needs.
@@ -30,20 +30,18 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 
 ## Warm-up Questions  
 
-- How long have you been a community care manager at the VA? 
+- How long have you been a Community Care manager at the VA? 
 
 - What brought you to this line of work? 
 
-- Have you worked as a community care manager in more than one district or region? 
-
 ## Section 1 - Processing Requests 
 
-Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audiology) and non-VAOS specialties (suggest Chiropractor and Dermatology): 
+Based on VAOS specialties, for example Food/Nutrition/Dietary, Primary Care, and non-VAOS specialties, such as Dermatology: 
  
-- How does a community care request get processed by community care managers once it is received in Schedule Manager?
-   - What are the different systems a scheduler uses to process a community care request?
+- How does a Community Care request get processed by Community Care managers once it is received in Schedule Manager?
+   - What are the different systems a manager uses to process a Community Care request?
    
-- What type of data is a community care manager looking for from a Veteran when processing community care requests?
+- What type of data is a Community Care manager looking for from a Veteran when processing Community Care requests?
 
 - What information do you see from the VAOS request? Of that information, what do you use? What is helpful?
 
@@ -66,19 +64,22 @@ Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audi
 
 - How do you search for type of care/specialities? Where do you search for that data + providers?
    - What words/categories are used by the schedulers when searching?
-   - ~Which specialties are the most commonly searched? Rarely searched? Never searched?~ This can be answered through analytics
    
 - What search parameters do community care managers use to identify the appropriate community care provider?
    - What are community care managers' expectations for search results (such as the number of results and distance/drive time) vs. reality?
-    - Does that align with Veterans' expectations?
-   - What happens if no providers meet the criteria?
-- What do those search results look like, what is useful to schedule the appointment, and what do schedulers convey to the Veterans about the provider? And what is a waste of time (unnecessary/confusing)?
+   - Does that align with Veterans' expectations?
+   - What happens if no providers meet the search criteria?
+
+- What do those search results look like? 
+- What is useful to schedule the appointment?
+- What do schedulers convey to the Veterans about the provider?
+- What is a waste of time (unnecessary/confusing)?
 
 ## Section 3 - Open Feedback
 
-- If you could change anything about community care online scheduling through VAOS what would it be?
+- If you could change anything about Community Care online scheduling through VAOS, what would it be?
 
-- If the schedulers are able to share anecdotal experience, we'd love to know what factors are important to a Veteran so that we can present Facility Locator Community care provider search results accordingly.
+- If the managers are able to share anecdotal experience, we'd love to know what factors are important to a Veteran so that we can present Facility Locator Community Care provider search results accordingly.
 
  ## Closing
 
