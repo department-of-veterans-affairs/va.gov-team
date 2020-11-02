@@ -6,7 +6,7 @@
 - Product POCs: Andrea Schneider and Luke Majewski
 - va.gov link: https://www.va.gov/decision-reviews/higher-level-review/
 - Phyical form: https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf
-- Stakeholders: AMO and Paul Shute
+- Stakeholders: AMO (Jane Chi jane.chi1@va.gov, Lauren Sylvia Lauren.Sylvia@va.gov), Lighthouse (Kelly Lein Kelly.Lein@va.gov, Premal Shaw Premal.Shah@va.gov) and VBA (Paul Shute Paul.Shute@va.gov)
 
 ## The Problem
 Currently VA.gov does not support any appeals or decision review paths. The existing path is only through the paper form.  This does not exist on eBenefits either, so this digitization is the first step in bringing the review process to veterans using VA.gov.  It is also the first step before supplemental claims and Notice of Disagreement.  We believe that bringing this to VA.gov will greatly reduce the time-to-a-decision for veterans.  This will be talked about further below.
