@@ -19,7 +19,7 @@ When the participant is ready, begin the session with the following intro
 Intro - 3 minutes
 -----------------
 
-Thanks for joining us today! My name is (NAME) and I also have some colleagues on the line observing and taking notes. Today we're going to talk about finding the right form when you want to apply for education or disability benefits on VA.gov.
+Thanks for joining us today! My name is (NAME) and I also have some colleagues on the line observing and taking notes. Today we're going to talk about finding the right form when you want to apply for education benefits on VA.gov.
 
 Before we start, a few things I want to mention:
 
@@ -57,7 +57,7 @@ As appropriate:
   - How will you know which forms to submit?
   - Will you apply online?
 
-As we go through the session, it'll be a great if you can think out loud and talk about what you're seeing. I've found it can be helpful if we go through a warm up page first.  
+As we go through the session, it'll be great if you can think out loud and talk about what you're seeing. I've found it can be helpful if we go through a warm up page first.  
 
 *Make the participant the presenter and ask participant to share screen.*
 
@@ -79,7 +79,7 @@ First Task: Find form to apply for new benefits - 8 minutes
 
   -   [Desktop prototype](https://vsateams.invisionapp.com/share/ZVZ7DXLYEQ3)
 
-- Imagine you wanted to go to use your education benefits for the first time, and you made your way to this page.  
+- Imagine you wanted to go to use your education benefits for the first time, and you made your way to this page.  You already know you're eligible for these benefits.
 
 - Show me what you'd do from here to start that process, and please remember to think aloud.
 
