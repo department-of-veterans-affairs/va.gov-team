@@ -16,7 +16,7 @@ Staging reviews test the [happy path](https://en.wikipedia.org/wiki/Happy_path) 
 
 ## Advanced accessibility tests (recommended)
 
-- [ ] Screen reader tests (VoiceOver + Safari or NVDA + Firefox) - [read more about getting started with screen readers](#screen-reader-tests). Teams are encouraged to conduct their own screen reader tests as part of the software development lifecycle (SDC), but DEPO platform acknowledges this is aspirational.
+- [ ] Screen reader tests (VoiceOver + Safari or NVDA + Firefox) - [read more about getting started with screen readers](#screen-reader-tests). Teams are encouraged to conduct their own screen reader tests as part of the software development lifecycle (SDC). _DEPO Platform acknowledges this testing is aspirational._
 - [ ] Axe-coconut scans in daily development - [read more about the axe-coconut experimental plugin](https://www.deque.com/blog/test-leading-edge-accessibility-axe-coconut-axe-core-3-0/)
 - [ ] WAVE tool spot checks - [read more about the WebAIM WAVE tool](https://wave.webaim.org/)
 
@@ -31,24 +31,25 @@ After you request a staging review, the accessibility specialist will review you
 - Windows 10 + IE11/Chrome + JAWS
 - Windows 10 + Firefox + NVDA
 - MacOS + Safari + VoiceOver
-- iOS + Safari + Mobile VoiceOver (as time permits)
+- iOS + Safari + Mobile VoiceOver _(as time permits)_
 
 ### VFS teams that have an accessibility specialist
+- VFS product teams will create accessibility tickets for any known issues that could not be resolved in foundational testing
+- VFS specialists will start the staging review after product teams have completed the [foundational testing checklist](#how-to-document-that-your-team-has-completed-the-checklist). VFS specialists have the right to stop a staging review if foundational testing was not completed.
+- VFS specialists will gather known issues and enter any new tickets into a ZenHub epic
+- DEPO Platform will review the feedback tickets and discuss any questions with the VFS product team
+- DEPO Platform will deliver findings in the staging review meeting, and notify the product team of any launch blocking issues
 - VFS accessibility specialists are encouraged to attend the staging review meeting
-- VFS specialists will conduct the staging review after product teams have completed the [foundational testing checklist](#how-to-document-that-your-team-has-completed-the-checklist)
-- VFS team will enter accessibility tickets into a ZenHub epic
-- DEPO platform will review the feedback tickets and discuss any questions with the VFS product team
-- DEPO platform will deliver findings in the staging review meeting, and notify the product team of any launch blocking issues
 - VFS specialists will answer questions and help the product team resolve issues
 
 ### VFS teams that do not have an accessibility specialist
-VFS product teams who do not have their own accessibility specialist will work directly with the DEPO platform to complete their Collaboration Cycle accessibility requirements.
+VFS product teams who do not have their own accessibility specialist will work directly with the DEPO Platform to complete their Collaboration Cycle accessibility requirements.
 
-- VFS team will create accessibility tickets for any known issues that could not be resolved in foundational testing
-- DEPO platform will conduct the staging review after product teams have completed the [foundational testing checklist](#how-to-document-that-your-team-has-completed-the-checklist)
-- DEPO platform will gather known issues and enter any new tickets into a ZenHub epic
-- DEPO platform will deliver findings in the staging review meeting, and notify the product team of any launch blocking issues
-- DEPO platform will answer questions and help the product team resolve issues
+- VFS product teams will create accessibility tickets for any known issues that could not be resolved in foundational testing
+- DEPO Platform will start the staging review after product teams have completed the [foundational testing checklist](#how-to-document-that-your-team-has-completed-the-checklist).  DEPO Platform the right to stop a staging review if foundational testing was not completed.
+- DEPO Platform will gather known issues and enter any new tickets into a ZenHub epic
+- DEPO Platform will deliver findings in the staging review meeting, and notify the product team of any launch blocking issues
+- DEPO Platform will answer questions and help the product team resolve issues
 
 ## How to document that your team has completed the checklist
 
@@ -58,7 +59,7 @@ VFS product teams who do not have their own accessibility specialist will work d
 OR
     *   Copy the required and recommended checklists from this doc into a doc in your product folder. _Note that this artifact can be used for the Collaboration Cycle staging review._
 
-2. Link to any open accessibility issues in your staging review request ticket. See an example of an [open accessibility issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182).
+2. Link to any open accessibility issues in your staging review request ticket. These issues should be recorded using the [508 accessibility issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=) template. See an example of an [open accessibility issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182).
 
 ## How to request help
 
