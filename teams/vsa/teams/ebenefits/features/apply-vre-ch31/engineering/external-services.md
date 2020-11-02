@@ -16,8 +16,8 @@ The primary configuration requirement for this integration is for forward proxie
 #### Assumptions
 - The vets-api codebase needs to be on the va network to work with the VRE API/endpoint(s)
   - This shouldn't be a problem in staging/prod
-  - We think we need an ssh/proxy like we have for BGS to dev/test 
-- We have credentials we need to get to 'someone' likely in DevOps so they can add them to the secrets manager
+  - We need an ssh/proxy (like we have for BGS to dev/test)
+- We have credentials (and urls) we need to get to someone (likely in DevOps) so they can add them to the secrets manager
   - Credentials for development
   - Credentials for Staging
   - Credentials for production
