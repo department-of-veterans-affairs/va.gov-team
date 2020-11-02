@@ -8,12 +8,24 @@ more detailed description
 
 ## Integration Endpoints
 
-endpoints for the integration
+**Staging**
+External urls:
+Internal VA urls:
+
+**Dev**
+External urls: 
+Internal VA urls: (`in private slack`)
+
+**Prod**
+External urls: 
+Internal VA urls: 
+
 
 ## Required Configuration
 
 The primary configuration requirement for this integration is for forward proxies that are in place to allow access to AWS, also allow proxy access to the VRE API.
-#### Assumptions
+
+### Assumptions
 - The vets-api codebase needs to be on the va network to work with the VRE API/endpoint(s)
   - This shouldn't be a problem in staging/prod
   - We need an ssh/proxy (like we have for BGS to dev/test)
