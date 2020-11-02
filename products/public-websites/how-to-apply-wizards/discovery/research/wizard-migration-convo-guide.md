@@ -42,17 +42,26 @@ Start recording.
 Warm-up Questions (Optional) - 5 minutes
 ----------------------------------------
 
-Before we look at the prototype, I'd like to understand if you have any experience with forms on VA.gov
+Before we look at the prototype, I'd like to understand more about your experience with education benefits on VA.gov.
 
--   Have you ever applied for benefits through a form on VA.gov before?
--   What was that experience like?
--   Do you remember going to any pages about eligibility before you applied? What did you think about those pages?
+As appropriate:
+
+- I understand you applied for benefits in the last 12 months, can you tell me what that experience was like? 
+  - What steps did you take before you submitted the application form?
+  - Do you remember going to any pages about eligibility before you applied? What did you think about those pages?
+  - How did you know which was the correct form to use?
+  - Did you apply online?
+- I see you're planning on applying for education benefits in the next 3 months, can you tell me more about where you are in the process?
+  - What steps have you taken so far?
+  - Do you remember going to any pages about eligibility? What did you think about those pages?
+  - How will you know which forms to submit?
+  - Will you apply online?
 
 As we go through the session, it'll be a great if you can think out loud and talk about what you're seeing. I've found it can be helpful if we go through a warm up page first.  
 
 *Make the participant the presenter and ask participant to share screen.*
 
-*Guide them to a benefit hub page on VA.gov relevant to the experience they described above - e.g. [Disability eligibility page](https://www.va.gov/disability/eligibility/), https://www.va.gov/disability/how-to-file-claim/, [education how to apply](https://www.va.gov/education/how-to-apply/), [education eligibility](https://www.va.gov/education/eligibility/)*
+*Guide them to a benefit hub page on VA.gov relevant to the experience they described above - e.g. [education how to apply](https://www.va.gov/education/how-to-apply/), [education eligibility](https://www.va.gov/education/eligibility/)*
 
 - Thank you. Now, take a look at this page, and talk me through what you see, and what you can do on this page.
 - Is there anything confusing or unclear about this page?
