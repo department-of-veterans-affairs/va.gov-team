@@ -1,3 +1,5 @@
+Moved to sensitive repo
+<!-- moved to sensitive repo 
 # VRE API Integration
 
 The Veteran Readiness and Employment line of business has a form that communicates to new Veterans their options for services upon leaving the military and working outside the service.  This is primarily transacted through the CH31 form 28-1900.  Previously, this form was submitted by the Veteran and taken to Central Mail where it would presumably be routed to the correct regional office.  Currently, there is an attempt to send the structured data from the form and submit it through a an API that is managaed directly with the line of buisiness within the VA network.
@@ -59,3 +61,4 @@ TBD
 |---------------|--------------------|----------------------------|
 | POC (VRE)       | sample            | sample@sample.com           |
 | POC (EBN)       | sample            | sample@sample.com           |
+-->
