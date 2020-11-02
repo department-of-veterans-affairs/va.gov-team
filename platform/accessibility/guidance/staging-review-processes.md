@@ -35,7 +35,7 @@ After you request a staging review, the accessibility specialist will review you
 
 ### VFS teams that have an accessibility specialist
 - VFS accessibility specialists are encouraged to attend the staging review meeting
-- VFS specialists will conduct the staging review after product teams have completed the [foundational testing checklist](#how-to-document-that-your-team-has completed-the-checklist)
+- VFS specialists will conduct the staging review after product teams have completed the [foundational testing checklist](#how-to-document-that-your-team-has-completed-the-checklist)
 - VFS team will enter accessibility tickets into a ZenHub epic
 - DEPO platform will review the feedback tickets and discuss any questions with the VFS product team
 - DEPO platform will deliver findings in the staging review meeting, and notify the product team of any launch blocking issues
@@ -45,7 +45,7 @@ After you request a staging review, the accessibility specialist will review you
 VFS product teams who do not have their own accessibility specialist will work directly with the DEPO platform to complete their Collaboration Cycle accessibility requirements.
 
 - VFS team will create accessibility tickets for any known issues that could not be resolved in foundational testing
-- DEPO platform will conduct the staging review after product teams have completed the [foundational testing checklist](#how-to-document-that-your-team-has completed-the-checklist)
+- DEPO platform will conduct the staging review after product teams have completed the [foundational testing checklist](#how-to-document-that-your-team-has-completed-the-checklist)
 - DEPO platform will gather known issues and enter any new tickets into a ZenHub epic
 - DEPO platform will deliver findings in the staging review meeting, and notify the product team of any launch blocking issues
 - DEPO platform will answer questions and help the product team resolve issues
