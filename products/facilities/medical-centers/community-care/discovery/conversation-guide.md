@@ -58,8 +58,9 @@ Based on VAOS specialties, for example Dietary and Primary Care, and non-VAOS sp
 - Can you share an example of a past appointment request that was challenging to process? Why was it challenging?
 
 ----------
-### Scenario - If possible, an end-to-end demo of the process (TBD whether to include) ###
-- I am a Veteran with a referral to an Audiology care provider.
+### Scenario ###
+[If possible, it would be great to get an end-to-end demo of the scheduling process (TBD whether to include)]
+- I am a Veteran with a referral to an Audiology care provider..
    - I have a preferred care provider in hand, and am requesting an appointment.
    - <b>Walk me through the search for a provider.</b>
    
