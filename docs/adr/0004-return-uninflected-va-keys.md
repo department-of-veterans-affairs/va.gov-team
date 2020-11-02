@@ -4,6 +4,10 @@ Date: 2020-10-30
 
 Whom:
 - Philip Becker
+- Michael Fleet
+- Lindsey Hattamer
+- Keifer Furzland
+- Alex Pappas
 
 ## Status
 
