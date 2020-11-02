@@ -1,4 +1,4 @@
-# Conversation Guide Template for Moderated Research [DRAFT]
+# Conversation Guide - Community Care Provider Selection
 
 
 ## Moderator logistics
@@ -11,11 +11,6 @@
 - [ ] Check your [screensharing setup]
 - [ ] When the participant is ready, begin the session with the following intro:
 
-
-### Project-specific setup
-
-- [ ] Step 1
-- [ ] Step 2
 
 ## Intro - 5 minutes
 
@@ -40,17 +35,17 @@ Before we look at the website, let’s start with a warm-up question.
 
 Today we're going to be testing a process for scheduling a community care appointment. We know not all veterans are eligible for community care, but it's helpful for us to talk to veterans who have used it as well as those who haven't. Are you familiar with community care?
 
-* If YES *
-*  Tell me what you know about community care.
-*  Have you used it?
+* If *YES*
+    *  Tell me what you know about community care.
+    *  Have you gone to a community care provider?
 
-* If NO *
-*  Thank you, that’s helpful to know
+* If *NO*
+    * Thank you, that’s helpful to know
 
 ## Section 1: Start an appointment
 
 Okay, thank you for explaining that to me. Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
-* Use chat to send user link to prototype. [Prototype link]
+* Use chat to send user link to prototype. [Prototype link](https://adhoc.invisionapp.com/share/QWZ7WD9GTPJ#/435681239_VAOS-CC-Pick-1)
 * Talk user through screen sharing so they can share their screen.
 
 As I mentioned earlier, this is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a prototype, none of your actions will affect your actual VA information or benefits.
@@ -87,7 +82,7 @@ Before they tap “Continue”, do you have any questions?
 
 * User should be on `Choose where you want to receive care`
 
-* In your own words, what is this page asking you? 
+* In your own words, what is this page asking you?
 * Is the information on this page what you expect it to be?
 
 * Follow up questions if needed:
@@ -98,7 +93,7 @@ Before they tap “Continue”, do you have any questions?
 
 * Next, schedule your appointment for November 19th.
 
-* In your own words, what is this page asking you? 
+* In your own words, what is this page asking you?
 * Is the information on this page what you expect it to be?
 
 ## Section 2 - Choose a provider
@@ -121,7 +116,7 @@ Before they tap “Continue”, do you have any questions?
 * Next find the provider who lives closest to your address.
     * If needed: You want to see Daniel Yarmel.
 
-* In your own words, what is this page asking you? 
+* In your own words, what is this page asking you?
 * Is the information on this page what you expect it to be?
 
 If needed:
@@ -138,7 +133,7 @@ Before they tap “Continue”, do you have any questions ?
 
 * I’d like you to select an additional provider, using the map this time
     * Howard Osterman 
-* In your own words, what is this page telling you? 
+* In your own words, what is this page telling you?
 * Is the information on this page what you expect it to be?
 
 * If needed:
@@ -148,7 +143,7 @@ Before they tap “Continue”, do you have any questions ?
 
 * Remove Daniel Yarmel
 
-* In your own words, what is this page asking you? 
+* In your own words, what is this page asking you?
 * Is the information on this page what you expect it to be?
 
 * Thinking again about how you have chosen health care providers in the past:
@@ -161,12 +156,12 @@ Before they tap “Continue”, do you have any questions ?
 
 ### Prompt 9 - Language preference - (Maybe remove)
 
-* In your own words, what is this page asking you? 
+* In your own words, what is this page asking you?
 * Is the information on this page what you expect it to be?
 
 ### Prompt 10 - Tell us the reason for your appointment - (Maybe remove)
 
-* In your own words, what is this page asking you? 
+* In your own words, what is this page asking you?
 * Is the information on this page what you expect it to be?
 
 ### Prompt 11 - Contact information - (Maybe remove)
@@ -217,8 +212,3 @@ Thanks! Lastly, do you know any other Veterans, caregivers, or service members w
     If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
 
 Great, well thank you so much again, and enjoy the rest of your day!
-
-## Sample Conversation Guides _(note: these links point to resources in the va.gov-team GitHub repo)_
-
-- [Scheduling Accessibility and Usability Study: Complex Recruit, Highly Variable based on User Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/2017-studies/access-usability/access-usability-conversation-guide.md) 
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
