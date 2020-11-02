@@ -16,7 +16,7 @@ Before we start, a few things I want to mention:
 This entire session should take about 45 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 
 - We aren’t trying to sell or promote any product or service to you.
-- There are no right or wrong answers. We just want to hear your opinions, so that we can improve the application and meet Veterans' needs.
+- There are no right or wrong answers. We're hoping to make the process of searching for providers on Facility Locator easier for Veterans.
 - I won’t be offended by any opinions you express.
 
 If for any reason and at any time you want to stop the session, please let me know.
@@ -40,7 +40,7 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 
 ## Section 1 - Processing Requests 
 
-Based on VAOS specialties, for example Food/Nutrition/Dietary, Primary Care, and non-VAOS specialties, such as Dermatology: 
+Based on VAOS specialties, for example Dietary and Primary Care, and non-VAOS specialties, such as Dermatology: 
  
 - How does a Community Care request get processed by Community Care managers once it is received in Schedule Manager?
    - What are the different systems a manager uses to process a Community Care request?
@@ -89,9 +89,9 @@ Based on VAOS specialties, for example Food/Nutrition/Dietary, Primary Care, and
 
 - If you could change anything about Community Care online scheduling through VAOS, what would it be?
 
-- If you would be willing to share anecdotal experience from scheduling Veterans' appointments, we'd love to know what factors are important to a Veteran so that we can present Facility Locator Community Care provider search results accordingly.
-
 - Have you seen or used the Facility locator on the VA.gov website?
+
+- If you would be willing to share anecdotal experience from scheduling Veterans' appointments, we'd love to know what factors are important to a Veteran so that we can present Facility Locator Community Care provider search results accordingly.
 
  ## Closing
 
