@@ -1,7 +1,7 @@
 # Upcoming appointment questionnaire MVP usability study
 
 **Prepared by:** Kristen McConnell (kristen.mcconnell@adhocteam.us)<br>
-October 2020
+October 2020<br/>
 [Downloadable PDF](https://drive.google.com/file/d/1gLF26dSrNTMd-1h2-LdJkpNFm86K03uG/view?usp=sharing)
 
 ## Background
