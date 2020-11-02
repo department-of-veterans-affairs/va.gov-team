@@ -60,7 +60,7 @@ Based on VAOS specialties, for example Dietary and Primary Care, and non-VAOS sp
 ----------
 ### Scenario ###
 [If possible, it would be great to get an end-to-end demo of the scheduling process (TBD whether to include)]
-- I am a Veteran with a referral to an Audiology care provider..
+- I am a Veteran with a referral to an Audiology care provider.
    - I have a preferred care provider in hand, and am requesting an appointment.
    - <b>Walk me through the search for a provider.</b>
    
