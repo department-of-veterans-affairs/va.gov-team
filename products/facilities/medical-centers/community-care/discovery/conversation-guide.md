@@ -43,7 +43,9 @@ Based on VAOS specialties, for example Food/Nutrition/Dietary, Primary Care, and
    
 - What type of data is a Community Care manager looking for from a Veteran when processing Community Care requests?
 
-- What information do you see from the VAOS request? Of that information, what do you use? What is helpful?
+- What information do you see from the VAOS request? 
+ - Of that information, what do you use? 
+ - What is helpful?
 
 - Tell me, what was the last scheduling like?
 
@@ -62,24 +64,28 @@ Based on VAOS specialties, for example Food/Nutrition/Dietary, Primary Care, and
 
 ## Section 2 - Searching for Care
 
-- How do you search for type of care/specialities? Where do you search for that data + providers?
+- How do you search for type of care/specialities?
+   - Where do you search for that data + providers?
    - What words/categories are used by the schedulers when searching?
    
 - What search parameters do community care managers use to identify the appropriate community care provider?
-   - What are community care managers' expectations for search results (such as the number of results and distance/drive time) vs. reality?
-   - Does that align with Veterans' expectations?
+   - What are your expectations in terms of number of results and distance vs. what results come back from your search?
+   - Do your expectations align with Veterans' expectations?
    - What happens if no providers meet the search criteria?
 
 - What do those search results look like? 
-- What is useful to schedule the appointment?
-- What do schedulers convey to the Veterans about the provider?
+
+- From the search results, what is useful to schedule the appointment?
+
+- What do Community Care managers convey to the Veterans about the provider?
+
 - What is a waste of time (unnecessary/confusing)?
 
 ## Section 3 - Open Feedback
 
 - If you could change anything about Community Care online scheduling through VAOS, what would it be?
 
-- If the managers are able to share anecdotal experience, we'd love to know what factors are important to a Veteran so that we can present Facility Locator Community Care provider search results accordingly.
+- If you would be willing to share anecdotal experience from scheduling Veterans' appointments, we'd love to know what factors are important to a Veteran so that we can present Facility Locator Community Care provider search results accordingly.
 
  ## Closing
 
