@@ -201,6 +201,7 @@ Week 2 of sprint 33
 
 **FE**
 
+- (Maybe) Update links and text within Profile that currently go to sign-in FAQ #14998
 - Any FE work left? OK if not.
 
 ### My VA redesign
