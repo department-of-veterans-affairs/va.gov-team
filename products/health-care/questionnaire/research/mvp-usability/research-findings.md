@@ -39,7 +39,7 @@ We conducted 8 remote moderated usability tests via Zoom using the Perigean cont
 1. Nurses, who normally ask intake questions, are less (or not at all) involved in virtual appointments.
 2. The usability and value of our questionnaire was reconfirmed.
 3. All of the Veterans almost immediately clicked to the next page without reviewing any content on the introduction page.
-4. Experiences when updating demographic information differed amongst the Veterans, but most wanted to edit their demographic information within a profile section and not within the questionnaire.
+4. Experiences when updating demographic information differed amongst the Veterans, but Veterans see the profile as the place of authority on VA.gov to edit their demographic information.
 5. Veteran expectations on when providers would review this information differed, so their expectations on when they would complete this questionnaire also varied.
 6. Veterans expect access to their completed questionnaires and other medical information shared with the VA. 
 7. Veterans expect to find and be notified of questionnaires to complete in a variety of ways.
@@ -79,9 +79,8 @@ Experiences when updating demographic information differed amongst the Veterans.
    - being routed to multiple departments within a building before being successful.
    - the change didn’t populate to all of the VA departments that they interact with.
    
-Veterans wanted to edit their demographic information within a profile section and not within the questionnaire.
-- Six out of six Veterans preferred to edit within a profile section, because it was seen as a place of authority.
-   - Many Veterans mentioned that they thought the changes would disseminate further across the VA from a profile section.
+Veterans see the profile section as the place of authority on VA.gov to edit their demographic information.
+- Six out of six Veterans stated that they wanted to edit within a profile section, because they thought the changes would disseminate further across the VA from a profile section.
 
 Veteran expectations on when providers would review this information differed.
 - Half of the Veterans expected their providers were reading their questionnaire responses well in advance of the appointment.
