@@ -61,7 +61,7 @@ As we go through the session, it'll be a great if you can think out loud and tal
 
 *Make the participant the presenter and ask participant to share screen.*
 
-*Guide them to a benefit hub page on VA.gov relevant to the experience they described above - e.g. [education how to apply](https://www.va.gov/education/how-to-apply/), [education eligibility](https://www.va.gov/education/eligibility/)*
+*Guide them to a benefit hub page on VA.gov relevant to the experience they described above - e.g. [education eligibility](https://www.va.gov/education/eligibility/)*
 
 - Thank you. Now, take a look at this page, and talk me through what you see, and what you can do on this page.
 - Is there anything confusing or unclear about this page?
