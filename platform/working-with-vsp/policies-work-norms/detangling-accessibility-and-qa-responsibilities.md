@@ -20,10 +20,11 @@ VFS teams are sometimes confused about what the DEPO Platform's standards are: w
   - [ ] Update docs, and share in ToT, so it's clear that VFS teams need to come to the staging review w/their testing and artifacts complete, and the specifics of tasks that fall on VFS, VFS w/SME, vs VSP
   - [ ] Update docs so it's easy for VFS teams to follow the steps necessary to do their required testing and artifacts
 - [ ] Create automated dashboard of outstanding 508 issues
-- [ ] Archive the #practice-area-reviewers Slack channel
-- [ ] Create internal channel just for the Product Support team + respective leadership to collaborate
+- [ ] Cancel Weekly Review Team Standup
+- [ ] Archive #practice-area-reviewers Slack channel
+- [ ] Create internal Slack channel just for the Product Support team and respective leadership to collaborate
 - [ ] Create cross-team channel for the Collaboration Cycle product just for collab cycle reviewers
-- [ ] Remove VFS personnel from governance/enforcement activities, but include them in collaboration cycle meetings
+- [ ] Remove VFS personnel from governance/enforcement activities, but include them in appropriate collaboration cycle meetings by default
   - [ ] Brief all parties that VSP will deliver feedback in review meetings
   - [ ] Brief all parties that VSP may change the severity of an issue based on our review, and that'll be communicated to the VFS team members as a part of the staging review.
 - [ ] Remove DEPO Platfrom personnel from the shared Support meeting
