@@ -64,28 +64,28 @@ TBD from Lauren A and Perigean
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
 
-November 9th-13th, 2020
+	November 9th-13th, 2020
 
 **TBD**
 
 2.	Prepare: When will the thing you are testing be ready? 
 
-November 3rd, 2020
+	November 3rd, 2020
 
 **TBD**
 
 3. Length of Sessions: How long do you estimate each session will be? 
 
-1 hour with a 15m buffer after sessions.
+	1 hour with a 15m buffer after sessions.
 
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
 
-**TBD**
-All times below are PST
+	**TBD**
+	All times are PST
 
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?
 
-November 3rd, 2020 with Emily Waggoner
+	November 3rd, 2020 with Emily Waggoner
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
