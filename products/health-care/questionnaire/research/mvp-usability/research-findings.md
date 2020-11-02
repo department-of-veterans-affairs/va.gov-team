@@ -131,29 +131,41 @@ Additional findings: Review page
       - “I already reviewed the information earlier on in the form.”
    - Two Veterans wanted more descriptive address labels on this page, such as mailing and home.
 
-## Actionable Recommendations
-Changes to MVP Scope
+## Actionable Recommendations: Changes to MVP scope
+Changes that can be completed by the product team
 - Remove the button to start the questionnaire from the top of the introduction page.
 - Reorder the introduction page content, so “What happens after I answer the questions?” is listed first.
-- Add the information that  a provider will not review this questionnaire with the Veteran until their appointment in more locations and add more visual emphasis to it.
+- Add the information that a provider will not review this questionnaire with the Veteran until their appointment in more locations and add more visual emphasis to it.
 - When determining how far in advance a Veteran can complete this questionnaire, take the two week to 2 day Veteran-proposed timeframe in mind.
 - Add links to the Questionnaire Manager and VAOS on our confirmation page.
 - Add VAMC and clinic phone numbers to the confirmation page.
--When working with IA to determine where our questionnaires lives on VA.gov propose they live amongst all of the other medical record information.
-   - VAOS would just link to specific questionnaires.
+- When working with IA to determine where our questionnaires lives on VA.gov propose they live amongst all of the other medical record information.
+   - VAOS would link to specific questionnaires.
 - Change the additional details field to a textarea in order to help Veterans believe they can edit this information.
 - Add more descriptive address labels on the review page.
 
-Additions to future roadmap
-- Explore elegant solutions for jumping from questionnaires to the profile section to update demographic information.
-- Explore the possibility of editing a questionnaire multiple times.
-- Explore adding more detailed widgets of appointment and other questionnaire information to the confirmation page.
-- Work with the authenticated team to have questionnaires appear on the dashboard.
-- Explore adding the capability to send images.
-- Implement email and text notifications.
-- Add provider’s name to questionnaire.
+Changes to work with platform on
+- Remove the button to start the questionnaire from the top of the introduction page.
+
+
+## Actionable Recommendations: Additions to future roadmap
+Additions that can be explored by the product team
+- Explore adding other questionnaire information to the confirmation page.
 - Further look into the need to transfer information entered in one questionnaire into the next questionnaire.
 - Look into a branching strategy (or machine learning) for questions, so we can probe further into problems that Veterans are facing.
+
+Additions to explore by working with other VA.gov product teams
+- Work with VAOS, authenticated and mobile teams to have questionnaire information appropriately appear.
+- Explore adding more detailed widgets of appointment to the confirmation page.
+
+Additions to explore by working with platform (possible holistic changes)
+- Explore elegant solutions for jumping from questionnaires to the profile section to update demographic information or add editing demographic information in the questionnaire.
+   - Should all forms have editable demographics or link to the profile section? Are the labels in the demographic sections consistent in all forms (within the main content area and the review pages)?
+- Explore the possibility of editing a questionnaire multiple times.
+   - Enhancement to save in-progress
+- Explore adding the capability to send images.
+- Add provider’s name to questionnaire.
+
 
 ## Resources
 
