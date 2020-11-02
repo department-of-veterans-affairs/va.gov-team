@@ -32,6 +32,10 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 
 - How long have you been a Community Care manager at the VA? 
 
+- Is scheduling the primary job for Community Care managers?
+
+- What other roles do Community Care managers perform as part of the job? 
+
 - What brought you to this line of work? 
 
 ## Section 1 - Processing Requests 
@@ -54,7 +58,7 @@ Based on VAOS specialties, for example Food/Nutrition/Dietary, Primary Care, and
 - Can you share an example of a past appointment request that was challenging to process? Why was it challenging?
 
 ----------
-### Scenario (TBD whether to include) ###
+### Scenario - If possible, an end-to-end demo of the process (TBD whether to include) ###
 - I am a Veteran with a referral to an Audiology care provider.
    - I have a preferred care provider in hand, and am requesting an appointment.
    - <b>Walk me through the search for a provider.</b>
@@ -86,6 +90,8 @@ Based on VAOS specialties, for example Food/Nutrition/Dietary, Primary Care, and
 - If you could change anything about Community Care online scheduling through VAOS, what would it be?
 
 - If you would be willing to share anecdotal experience from scheduling Veterans' appointments, we'd love to know what factors are important to a Veteran so that we can present Facility Locator Community Care provider search results accordingly.
+
+- Have you seen or used the Facility locator on the VA.gov website?
 
  ## Closing
 
