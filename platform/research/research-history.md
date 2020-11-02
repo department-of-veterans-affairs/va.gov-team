@@ -20,7 +20,7 @@ This does not include research for Appeals projects, which is stored in differen
 *Ad Hoc: VSA Health care Experience/Questionnaires, Kristen McConnell*
 - 8 participants
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/research/mvp-usability)
-**Keywords:** Veterans, Questionnaires, Upcoming appointment, Primary care, Health care 
+- **Keywords:** Veterans, Questionnaires, Upcoming appointment, Primary care, Health care, Usability testing 
 
 #### September 30 - October 16 : Vet Center - Veteran Client - Discovery Interviews
 *Ad Hoc: VSA Facilities, Leyda Hughes*
