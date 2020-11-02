@@ -1,7 +1,7 @@
 # Release Plan Benefits Delivery at Discharge
-Sprint 32: Oct 21 - Nov 3
-Sprint 33: Nov 4 - Nov 17
-Sprint 34: Nov 18 - Dec 1\
+  - Sprint 32: Oct 21 - Nov 3
+  - Sprint 33: Nov 4 - Nov 17
+  -Sprint 34: Nov 18 - Dec 1
 
 Overview of phased approach and remaining work.
 Phase I, UAT:
