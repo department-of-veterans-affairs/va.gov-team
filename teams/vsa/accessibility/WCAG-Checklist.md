@@ -14,6 +14,7 @@ For an overview of WCAG, and distinctions between 2.0, 2.1, and 2.2, please see 
 
 <hr/>
 
+Federal agencies were required to comply with the Revised 508 Standards by January 2018, which incorporate by reference the WCAG 2.0 Level A and AA Success Criteria. | [Read more about the Section 508 Baseline](https://section508coordinators.github.io/ICTTestingBaseline/introduction.html)
 
 ## Section 508 (WCAG 2.0) and the 508-defect severity rubric
 
