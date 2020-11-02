@@ -62,7 +62,7 @@ As I mentioned earlier, this is a demo tool that may not function exactly the wa
 
 * Imagine you need to schedule a general check-up with a primary care provider in your community. How would you start from here?
 
-### Prompt 2 - Choose type of care
+### Task 2 - Choose type of care
 
 * `Starting from: Choose the type of care you need page`
 
@@ -78,7 +78,7 @@ If needed:
 
 * If they haven’t clicked “Continue” : Continue scheduling your appointment.
 
-### Prompt 3 - Choose where you want to receive care
+### Task 3 - Choose where to receive care
 
 * `Starting from: Choose where you want to receive care`
 
@@ -95,7 +95,7 @@ If needed:
     
 * Prompt: Schedule your appointment at a non-VA provider.
 
-### Prompt 4 - Select an appointment time
+### Task 4 - Select an appointment time
 
 * `Starting from: Select an appointment time`
 
@@ -107,7 +107,7 @@ If needed:
 
 ## Section 2 - Choose a provider
 
-### Prompt 5 - Choice landing page
+### Task 5 - Add a provider
 
 * `Starting from: Initial provider selection screen`
 
@@ -124,7 +124,7 @@ If needed:
  * Prompt: Find and add the provider closest to you.
     * If lost: click Add provider
 
-### Prompt 6 - Choose a provider from a list
+### Task 6 - Choose a provider from a list
 
 * In your own words, what is this page asking you?
 
@@ -140,7 +140,7 @@ Watch for:
 * Prompt: Choose the provider closest to you.
     * If needed: Click on the first provider in the list, and select Add provider
 
-### Prompt 7 - Choose a provider from a map
+### Task 7 - Choose a provider from a map
 
 * I’d like you to add another provider, this time using the map.
     * Select the third provider (or provider C)
@@ -156,7 +156,7 @@ Watch for:
     * Are they able to easily navigate the map?
     * Does the map make more sense than the list
 
-### Prompt 8 - Remove a Provider
+### Task 8 - Remove a Provider
 
 * `Starting from: Two providers added screen`
 
@@ -168,7 +168,7 @@ Watch for:
 
 * Prompt: Remove the first provider
 
-### Prompt 9 - Confirm remove provider
+### Task 9 - Confirm remove provider
 
 * `Starting from: Removal confirmation modal`
 
@@ -178,7 +178,7 @@ Watch for:
 
 * Prompt: Finish removing the provider
 
-### Prompt 10 - Provider removed
+### Task 10 - Review provider
 
 * Thinking about your own scheduling needs, if you were to schedule an appointment for yourself, would you add providers in the way we just did? Or select "no preference" ?
 
@@ -186,7 +186,7 @@ Watch for:
 
 ## Section 3 (If time) - Complete appointment
 
-### Prompt 11 - Language preference
+### Task 11 - Set language preference
 
 * In your own words, what is this page asking you?
 
@@ -194,7 +194,7 @@ Watch for:
 
 * Prompt: Continue scheduling your appointment
 
-### Prompt 12 - Tell us the reason for your appointment
+### Task 12 - Tell us the reason for your appointment
 
 * In your own words, what is this page asking you?
 
@@ -202,7 +202,7 @@ Watch for:
 
 * Prompt: Continue scheduling your appointment
 
-### Prompt 13 - Contact information
+### Task 13 - Review contact information
 
 * In your own words, what is this page asking you?
 
@@ -210,7 +210,7 @@ Watch for:
 
 * Prompt: Continue scheduling your appointment
 
-### Prompt 14 - Review appointment request details
+### Task 14 - Review appointment request details
 
 * In your own words, what is this page asking you?
 
@@ -228,7 +228,7 @@ Watch for:
     
  Prompt: Finish the appointment request
 
-### Prompt 15 - Appointment submitted
+### Task 15 - Appointment submitted
 
 * In your own words, what is this page asking you?
 
@@ -241,7 +241,7 @@ Watch for:
 
 ## Section 4 (If time) - Manage appointments
 
-### Prompt 16 - View appointments
+### Task 16 - View appointments
 
 * In your own words, what is this page asking you?
 
@@ -249,13 +249,13 @@ Watch for:
 
 * Find your appointment request and double-check that the provider is right
 
-### Prompt 17 - Appointment detail
+### Task 17 - Appointment detail
 
 * In your own words, what is this page asking you?
 
 * Is the information on this page what you expect it to be?
 
-### Prompt 18 - Find all upcoming appointments
+### Task 18 - Find all upcoming appointments
 
 * Prompt: Review all of your your scheduled appointments
     * Back to appointments
@@ -267,7 +267,6 @@ Watch for:
     
 * Watch for: 
     * Can they easily find the dropdown and appointments?
-
 
 ## Post-Task Questions
 
