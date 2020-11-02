@@ -16,6 +16,12 @@ This does not include research for Appeals projects, which is stored in differen
 
 ### October 2020
 
+#### October 15 - 19 : Usability Testing the MVP Upcoming Appointment Questionnaire
+*Ad Hoc: VSA Health care Experience/Questionnaires, Kristen McConnell*
+- 8 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/research/mvp-usability)
+**Keywords:** Veterans, Questionnaires, Upcoming appointment, Primary care, Health care 
+
 #### September 30 - October 16 : Vet Center - Veteran Client - Discovery Interviews
 *Ad Hoc: VSA Facilities, Leyda Hughes*
 - 15 participants (8 clients)
