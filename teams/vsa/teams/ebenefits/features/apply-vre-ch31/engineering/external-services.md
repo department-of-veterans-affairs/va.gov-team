@@ -13,6 +13,14 @@ endpoints for the integration
 ## Required Configuration
 
 The primary configuration requirement for this integration is for forward proxies that are in place to allow access to AWS, also allow proxy access to the VRE API.
+#### Assumptions
+- The vets-api codebase needs to be on the va network to work with the VRE API/endpoint(s)
+  - This shouldn't be a problem in staging/prod
+  - We think we need an ssh/proxy like we have for BGS to dev/test 
+- We have credentials we need to get to 'someone' likely in DevOps so they can add them to the secrets manager
+- Credentials for development
+- Credentials for Staging
+- Credentials for production
 
 ## Known External Dependencies
 
@@ -24,11 +32,18 @@ troubleshooting steps to go through
 
 ## Outage Status and Maintenance Windows
 
+TBD
+
 ## Service Level Agreement
 
+TBD
+
 ## Escalation Procedure
+
+TBD
 
 ## Contacts
 | Role          | Name               | E-mail                     |
 |---------------|--------------------|----------------------------|
-| a role        | sample            | sample@sample.com           |
+| POC (VRE)       | sample            | sample@sample.com           |
+| POC (EBN)       | sample            | sample@sample.com           |
