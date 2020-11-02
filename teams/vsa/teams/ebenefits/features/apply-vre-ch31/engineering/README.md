@@ -3,7 +3,7 @@
 **Establishing what we need**
 
 - Gain access to VRE develeoper: Fatjon K.
-- We need to get the `vets-api` codebase needs to be on the VA network to work with the VRE API/endpoint(s): config proxies to access VRE API
+- The `vets-api` codebase needs to be on the VA network to work with the VRE API/endpoint(s): config proxies to access VRE API
 - ATO conversation, ESI doc, MOU
 
 **Next Steps**
