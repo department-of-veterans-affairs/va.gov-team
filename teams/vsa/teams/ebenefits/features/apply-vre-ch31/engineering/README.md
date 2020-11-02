@@ -1,4 +1,4 @@
-# Notes for integration with VRE API
+# Notes for Integration with VRE API
 
 **Establishing what we need**
 
