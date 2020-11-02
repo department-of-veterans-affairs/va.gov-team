@@ -9,6 +9,6 @@
 **Next Steps**
 
 - Set up the CH31 model, submit draft PR
-  - Until sercret manager issue/ proxy config for submission is in place, this will be a draft PR
+  - Until secret manager issue/ proxy config for submission is in place, this will be a draft PR
 - Adjust testing environment while testing against external urls
 - Test with Fatjon K. and adjust code and urls accordingly as we gain access
