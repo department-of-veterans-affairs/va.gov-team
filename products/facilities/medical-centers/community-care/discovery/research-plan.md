@@ -59,7 +59,7 @@ Qualitative research
  
 ## Timeline
 
-- Study dates: November -, 2020 Session length: 30 minutes 
+- Study dates: November -, 2020 Session length: 45 minutes 
 - Pilot session: will be held on November -, 2020 at -:00pm EST 
 - Session length: 30 minutes
 
