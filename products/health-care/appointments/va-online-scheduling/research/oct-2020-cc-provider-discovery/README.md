@@ -1,4 +1,4 @@
-# Community Care Provider Research [DRAFT]
+# Community Care Provider Research
 
 Research materials for the October/November study to learn about veteran preferences when selecting of providers in the community.
 
