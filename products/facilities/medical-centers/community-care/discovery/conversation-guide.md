@@ -98,7 +98,7 @@ Based on VAOS specialties, for example Dietary and Primary Care, and non-VAOS sp
 - Any questions for us?
 - Was there anything that I didn't ask that you think that I should know?
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
