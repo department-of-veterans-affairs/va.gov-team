@@ -29,7 +29,7 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions (Optional) - 3 minutes
 
 Before we look at the website, let’s start with a warm-up question.
 
@@ -42,7 +42,7 @@ Today we're going to be testing a process for scheduling a community care appoin
 * If *NO*
     * Thank you, that’s helpful to know
 
-## Section 1: Start an appointment
+## Section 1: Start an appointment - x minutes
 
 Okay, thank you for explaining that to me. Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
 * Use chat to send user link to prototype. [Prototype link](https://adhoc.invisionapp.com/share/QWZ7WD9GTPJ#/435681239_VAOS-CC-Pick-1)
@@ -50,11 +50,13 @@ Okay, thank you for explaining that to me. Now I'm going to have you share your 
 
 As I mentioned earlier, this is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a prototype, none of your actions will affect your actual VA information or benefits.
 
-I'm going to ask you to schedule an appointment through the VA Online Scheduling website. 
+`Start Task 1 when screen is shared`
 
 ### Task 1 - Home Page general impression
 
-* Take a look at this page, scroll around. Tell me what this page is for and what you think you can do here. It'll be really helpful if you can think out loud as much as possible moving forward.
+* I'm going to ask you to schedule an appointment request through the VA Online Scheduling website.
+
+* First, take a look at this page, scroll around. Tell me what this page is for and what you think you can do here. It'll be really helpful if you can think out loud as much as possible moving forward.
 
 * Is the information on this page what you expect it to be?
 
@@ -62,147 +64,218 @@ I'm going to ask you to schedule an appointment through the VA Online Scheduling
 
 ### Prompt 2 - Choose type of care
 
-* Should be on Choose the type of care you need page
+* `Starting from: Choose the type of care you need page`
 
 * In your own words, what is this page asking you?
+
 * Is the information on this page what you expect it to be?
 
 If needed:
-* What would you do next if [whatever thing they're looking for/ can't find / can't do]
-
-* Follow up questions if needed:
     * What else would be helpful to tell you at this point in the process?
     * What are your options if your type of care isn’t listed?
 
-Before they tap “Continue”, do you have any questions?
+* Before they tap “Continue”: do you have any questions?
 
 * If they haven’t clicked “Continue” : Continue scheduling your appointment.
 
 ### Prompt 3 - Choose where you want to receive care
 
-* User should be on `Choose where you want to receive care`
+* `Starting from: Choose where you want to receive care`
 
 * In your own words, what is this page asking you?
+
 * Is the information on this page what you expect it to be?
 
 * Follow up questions if needed:
     * Do you feel comfortable making the choice, or do you want more information about community care?
     * What else would be helpful to tell you at this point in the process?
+    
+* Watch for:
+    * How do they describe community care? 
+    
+* Prompt: Schedule your appointment at a non-VA provider.
 
 ### Prompt 4 - Select an appointment time
 
-* Next, schedule your appointment for November 19th.
+* `Starting from: Select an appointment time`
 
 * In your own words, what is this page asking you?
+
 * Is the information on this page what you expect it to be?
+
+* Prompt: Schedule your appointment for November 19th.
 
 ## Section 2 - Choose a provider
 
 ### Prompt 5 - Choice landing page
 
-* In your own words, what is this page asking you? 
+* `Starting from: Initial provider selection screen`
+
+* In your own words, what is this page asking you?
+
 * Is the information on this page what you expect it to be?
 
-* Thinking again about your previous experience scheduling health care, which of these options might be the most helpful to you?
+* Thinking again about your previous experience scheduling health care, would you prefer to find a specific provider near you, or would you not know?
 
 * Follow up questions if needed:
-    * How might we make that clearer?
-    * How would YOU describe that to a friend or fellow Veteran?
     * What else would be helpful to tell you at this point in the process?
     * Is this how you would expect to choose a health care provider?
+    
+ * Prompt: Find and add the provider closest to you.
+    * If lost: click Add provider
 
 ### Prompt 6 - Choose a provider from a list
 
-* Next find the provider who lives closest to your address.
-    * If needed: You want to see Daniel Yarmel.
-
 * In your own words, what is this page asking you?
+
 * Is the information on this page what you expect it to be?
 
 If needed:
-* If you were searching for a health care provider for a health care appointment, would distance from your address be the most useful way for you to find them?
+    * If you were searching for a health care provider for a health care appointment, would this be the useful way for you to find them?
 
 Watch for:
-* Do they attempt to open the map?
+    * Do they attempt to open the map?
+    * Do they understand that this list is organized by distance? Is that expected/useful?
 
-Before they tap “Continue”, do you have any questions ?
-
-* If they haven’t clicked “Continue” : Continue choosing your provider.
+* Prompt: Choose the provider closest to you.
+    * If needed: Click on the first provider in the list, and select Add provider
 
 ### Prompt 7 - Choose a provider from a map
 
-* I’d like you to select an additional provider, using the map this time
-    * Howard Osterman 
+* I’d like you to add another provider, this time using the map.
+    * Select the third provider (or provider C)
+    
 * In your own words, what is this page telling you?
+
 * Is the information on this page what you expect it to be?
 
 * If needed:
     * Thinking about past times you’ve scheduled appointments, would this have been helpful?
+    
+* Watch for:
+    * Are they able to easily navigate the map?
+    * Does the map make more sense than the list
 
 ### Prompt 8 - Remove a Provider
 
-* Remove Daniel Yarmel
-
-* In your own words, what is this page asking you?
-* Is the information on this page what you expect it to be?
+* `Starting from: Two providers added screen`
 
 * Thinking again about how you have chosen health care providers in the past:
-    * How does this differ from the way you would expect to find a provider in your community?
-    * 
+    * How does this differ from the way you would expect to find a provider?
+    * What do you expect will happen when you complete this appointment request with two providers added?
 
 * Before they tap “Continue”, do you have any questions?
 
+* Prompt: Remove the first provider
+
+### Prompt 9 - Confirm remove provider
+
+* `Starting from: Removal confirmation modal`
+
+* In your own words, what is this page asking you?
+
+* Is the information on this page what you expect it to be?
+
+* Prompt: Finish removing the provider
+
+### Prompt 10 - Provider removed
+
+* Thinking about your own scheduling needs, if you were to schedule an appointment for yourself, would you add providers in the way we just did? Or select "no preference" ?
+
+* Prompt: Continue scheduling your appointment
+
 ## Section 3 (If time) - Complete appointment
 
-### Prompt 9 - Language preference - (Maybe remove)
+### Prompt 11 - Language preference
 
 * In your own words, what is this page asking you?
+
 * Is the information on this page what you expect it to be?
 
-### Prompt 10 - Tell us the reason for your appointment - (Maybe remove)
+* Prompt: Continue scheduling your appointment
+
+### Prompt 12 - Tell us the reason for your appointment
 
 * In your own words, what is this page asking you?
+
 * Is the information on this page what you expect it to be?
 
-### Prompt 11 - Contact information - (Maybe remove)
+* Prompt: Continue scheduling your appointment
 
-* In your own words, what is this page asking you? 
+### Prompt 13 - Contact information
+
+* In your own words, what is this page asking you?
+
 * Is the information on this page what you expect it to be?
 
-### Prompt 12 - Request appointment
+* Prompt: Continue scheduling your appointment
 
-* In your own words, what is this page asking you? 
+### Prompt 14 - Review appointment request details
+
+* In your own words, what is this page asking you?
+
 * Is the information on this page what you expect it to be?
+
+* How would you expect to be able to change this information?
 
 * Follow up questions if needed:
     * How might we make that clearer?
     * How would YOU describe that to a friend or fellow Veteran?
     * What else would be helpful to tell you at this point in the process?
+    
+ * Watch for:
+    * Do they expect the appointment will be set after this, or that this is a request?
+    
+ Prompt: Finish the appointment request
 
-### Prompt 13 - Appointment submitted
+### Prompt 15 - Appointment submitted
 
-* In your own words, what is this page asking you? 
+* In your own words, what is this page asking you?
+
 * Is the information on this page what you expect it to be?
 
-Fourth task (If time) - Manage appointments
+* Do you have any questions?
 
-### Prompt 14 - Confirm appointment details
+* Prompt: Review your upcoming appointments
+    * If needed: click "View your appointments"
 
-* In your own words, what is this page asking you? 
+## Section 4 (If time) - Manage appointments
+
+### Prompt 16 - View appointments
+
+* In your own words, what is this page asking you?
+
 * Is the information on this page what you expect it to be?
 
-* Find your appointment and double-check that the provider is right
+* Find your appointment request and double-check that the provider is right
 
-### Prompt 15 - Find an upcoming video connect appointment
+### Prompt 17 - Appointment detail
 
-[ Note - let’s clarify this part of the flow more before finalizing]
+* In your own words, what is this page asking you?
+
+* Is the information on this page what you expect it to be?
+
+### Prompt 18 - Find all upcoming appointments
+
+* Prompt: Review all of your your scheduled appointments
+    * Back to appointments
+    * Find Upcoming appointments in dropdown
+    
+* In your own words, what is this page asking you?
+
+* Is the information on this page what you expect it to be?
+    
+* Watch for: 
+    * Can they easily find the dropdown and appointments?
+
 
 ## Post-Task Questions
 
 Thank you for working through that with me. I just have a few more questions before we break.
 
-Is there any other feedback you would like to share? 
-Do you have any other questions for me?
+* Is there any other feedback you would like to share?
+
+* Do you have any other questions for me?
 
 ## Thank-You and Closing - X minutes
 
