@@ -15,7 +15,9 @@ Accepted
 
 ## Context
 
-Using the Rails 6 zeitwerk file loader requires strict naming conventions of files.  So without a Rails inflection, `va_something` class files are expected to have the class name of `VaSomething`.  With an inflection, that file would be the expected `VASomething`. Using this inflection has a downstream affect on the named attributes in serializers and thus, json responses transformed into camelCase by the [olive_branch](https://github.com/vigetlabs/olive_branch) gem.
+Using the Rails 6 zeitwerk file loader requires strict naming conventions of files. So without a Rails inflection, `va_something` class files are expected to have the class name of `VaSomething`. With an inflection, that class name would be `VASomething`. `vets-api` uses a mix of `VA` and `Va` in class names. To make things consistent, as well as support instances of `humanize` outputing `VA` in caps as an acronym, the inflection will be introduced.
+
+However, using this inflection has a downstream affect on json responses transformed into camelCase by the [olive_branch](https://github.com/vigetlabs/olive_branch) gem. Previously keys structured like `the_va_something` were transformed into `theVaSomething`, but with inflection they will now be `theVASomething`.
 
 ## Decision
 
