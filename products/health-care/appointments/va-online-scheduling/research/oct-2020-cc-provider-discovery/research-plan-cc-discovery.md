@@ -1,4 +1,4 @@
-# Research Plan for VAOS Community Care Discovery, October 2020 [DRAFT]
+# Research Plan for VAOS Community Care Discovery, October 2020
 
 *Problem:* As a veteran, I would like the VAOS app to automatically find community care providers closest to my residential address and auto populate the providers I've selected into the VAOS provider fields so I don't have to manually enter or copy-paste this information.
 
@@ -15,7 +15,7 @@
   	* Help Veterans understand their type of care options, whether a VAMC or Community Care.
   	* Make it clear to Veterans that they can opt out of choosing a provider.
   	* Decrease the amount of time it takes veterans to schedule a community care appointment when selecting a provider.
-  	* Help veterans find their pending appointments.
+  	* Help veterans find their requested appointments.
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research?
 
@@ -66,15 +66,11 @@ TBD from Lauren A and Perigean
 
 	November 9th-13th, 2020
 
-**TBD**
-
 2.	Prepare: When will the thing you are testing be ready? 
 
 	November 3rd, 2020
 
-**TBD**
-
-3. Length of Sessions: How long do you estimate each session will be? 
+3. 	Length of Sessions: How long do you estimate each session will be? 
 
 	1 hour with a 15m buffer after sessions.
 
@@ -95,16 +91,14 @@ Please list the people who will be serving in each role. **Include the primary p
 - Participant recruiting & screening: Lauren Alexanderson/Perigean
 - Project point of contact: Same as moderator	
 - Participant(s) for pilot test: Emily Waggoner
-- Note-takers:	
-- Observers:	
+- Note-takers: **TBD**
+- Observers: kam@adhocteam.us, jeff@adhocteam.us, narin@adhocteam.us, **Brad Gross**, **Lance Gunderson**,lauren.ernest@adhocteam.us, lenae.storey@adhocteam.us, tony.williams@va.gov
 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
 
 ## Resources	
-- Project Brief: 	
-*Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
-- Convo Guide	
-*Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
+- Project Brief: 		
+- Convo Guide: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/oct-2020-cc-provider-discovery/conversation-guide-cc-discovery.md
 - Synthesis	
 *Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
 - Lessons Learned	
