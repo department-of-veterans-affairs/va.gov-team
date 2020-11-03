@@ -45,9 +45,9 @@ Create and maintain solutions for VFS teams to deliver high-quality and cohesive
 #### Stand-up
 Check in on people and product progress
 
-- Daily 11:30AM ET
-- 15 min
-- 3 Question Format: What I did yesterday? What will I do today? Any impediments?
+- Daily 12 PM ET
+- 15 min standup, 15 min parking lot as needed
+- Give updates by project
 
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
