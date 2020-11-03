@@ -303,8 +303,6 @@ Back to [Table of Contents](#table-of-contents)
 **Opened:** August 20, 2020 | **Severity:** 508-defect-1 — **_Critical_**
 - [Sitewide - #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
   **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
-- [508-Defect-2 [AXE-CORE]: Heading levels SHOULD only increase by one - #12675](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12675)<br/>
-**Opened:** August 20, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [508-defect-2 [USABILITY, MOBILE DESIGN]: Interactive elements SHOULD have at least 24px space between - #12671](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12671)<br/>
 **Opened:** August 20, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [508-defect-2 [AXECORE]: Page MUST contain a level-one heading - #12666](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12666)<br/>
