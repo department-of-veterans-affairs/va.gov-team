@@ -113,7 +113,7 @@ ________________________________________
 
 #### 0994 Screen No. { to come } 
 
-#### Chapter Title: 2 of 7 Military service
+#### Chapter Title: Step 2 of 7: Military service
 
 
 Are you on full-time duty in the Armed Forces? (This doesn't include active-duty training for Reserve and National Guard members.) (*Required) { radio buttons, conditional content }
@@ -135,7 +135,7 @@ ________________________________________
 
 #### 0994 Screen No. { to come } 
 
-#### Chapter Title: 3 of 7 Education history
+#### Chapter Title: Step 3 of 7: Education history
 
 What’s the highest level of education you’ve completed? { Dropdown }  
 
@@ -205,7 +205,7 @@ ________________________________________
 
 #### 0994 Screen No. { to come } 
 
-#### Chapter Title: Step 5 of 7 Program selection
+#### Chapter Title: Step 5 of 7: Program selection
 
 Have you picked a program you’d like to attend using VET TEC? { radio buttons }
  * Yes
@@ -234,17 +234,17 @@ What’s the name of the program’s provider? { text field }
 What’s the name of the program? { text field }
 
 Is it an in-person or online program? { radio, conditional (*Required) only if “What’s the name of the program?” has an entry}
-•	In person
-•	Online
-•	Both online and in person
+* In person
+* Online
+* Both online and in person
 
 { if In person or Both }
 
 Where will you take this training? (* Required) 
 
-•	City { text field } (* Required)
+* City { text field } (* Required)
 
-•	State { dropdown } (* Required)
+* State { dropdown } (* Required)
 
 { end if }
 
@@ -272,7 +272,9 @@ This is the contact information we have on file for you. We’ll send any import
 * Phone number (* Required) { text field, prefilled if present. } 
 * Alternate phone number { text field, prefilled if present }
 * Email address (* Required) { text field, prefilled if present. }  
+
 [ Edit | Done ] { buttons }
+
 [ Save | Cancel ] {Save button, Cancel link if no data is present}
 
 **Mailing address**
@@ -294,7 +296,7 @@ ________________________________________
 
 #### 0994 Screen No. { to come } 
 
-#### Chapter Title: Step 7 of 8: Personal information
+#### Chapter Title: Step 6 of 7: Personal information
 
 #### Page Title: Direct deposit information
 
@@ -351,17 +353,17 @@ ________________________________________
 
 #### 0994 Screen No. { to come } 
 
-#### Chapter Title: Step 7 of 7 Review application
+#### Chapter Title: Step 7 of 7: Review application
 
 
 { Summary Review / Edit functionality  }
 
-•	Applicant information
-•	Military service
-•	Education history
-•	Work experience
-•	Program selection
-•	Personal information
+* Applicant information
+* Military service
+* Education history
+* Work experience
+* Program selection
+* Personal information
 
 
 **Note:** According to federal law, there are criminal penalties including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)
