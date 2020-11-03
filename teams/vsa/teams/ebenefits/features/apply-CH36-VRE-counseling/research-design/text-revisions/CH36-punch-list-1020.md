@@ -69,7 +69,11 @@ Revisions to text, formatting, features and design based on:
 - [ ] Change all stop/alert message boxes within wizard from blue to light gray (#F1F1F1)Revisons...
 
 ### VA form 22-1900 intro screen
-- [ ] 
+- [ ] Remove hyphen from "Start your application without signing in" link
+- [ ] Fix typo in Prepare section: lower-case i on "(if you know it)"
+- [ ] Fix typo in Prepare section: comma after "phone number"
+- [ ] In Apply section, change first line to: "Complete this Veteran Readiness and Employment form."
+- [ ] In Decision section chanege paragraph to match prototype
 
 ### VA form 22-1900
 - [ ] 
