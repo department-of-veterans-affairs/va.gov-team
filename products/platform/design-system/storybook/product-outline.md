@@ -49,7 +49,7 @@ Design System Team
 
 
 #### Baseline KPI Values
-- can send out a satisfaction survey to engineers and designers to get some sort of a baseline
+- Send out a satisfaction survey to engineers and designers to get some sort of a baseline
 
 ---
 
