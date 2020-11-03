@@ -5,7 +5,7 @@
 
 1. [Sauce Labs](https://saucelabs.com/) is available using the credentials stored in [*va.gov-team-sensitive*](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/quality-assurance/cross-platform-testing-plan.md). It supports over 800 [platforms](https://saucelabs.com/platforms) for testing and is [free for open source projects](https://saucelabs.com/open-source).
 
-2. [BrowserStack](https://accounts.browserstack.com/jointeam/335d37232d79083f9fa736431a074264) has a similar offering of platforms. You should be able to click the [BrowserStack](https://accounts.browserstack.com/jointeam/335d37232d79083f9fa736431a074264) link in order to request access to our organization. Detailed documentation on the use of BrowserStack is not available at this time. You may want to check back in at this location in the future for more details regarding BrowserStack.
+2. [BrowserStack](https://accounts.browserstack.com/jointeam/335d37232d79083f9fa736431a074264) has a similar offering of platforms. You should be able to click the [BrowserStack](https://accounts.browserstack.com/jointeam/335d37232d79083f9fa736431a074264) link in order to request access to our organization. For any open-source projects, you can separately request free Open-Source licenses [here](https://www.browserstack.com/open-source), by submitting the open-source repo's URL for review & approval.  Detailed documentation on the use of BrowserStack is not available at this time. You may want to check back in at this location in the future for more details regarding BrowserStack.
 
 ## Policies
 
