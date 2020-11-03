@@ -11,10 +11,9 @@
 - [ ] Check your [screensharing setup]
 - [ ] When the participant is ready, begin the session with the following intro:
 
-
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Peter Russo and I also have some colleagues on the line observing and taking notes. We have a team working on improving a tool veterans can use to requesting health care appointments. Today, I'd like to hear about your experience with requesting appointments, and go through a prototype of this tool and get your thoughts on it.
+Thanks for joining us today! My name is Peter Russo and I also have some colleagues on the line observing and taking notes. We have a team working on improving a tool veterans can use to request health care appointments. Today, I'd like to hear about your experience with requesting appointments, and go through a prototype of this tool and get your thoughts on it.
 
 Before we start, a few things I want to mention:
 
@@ -35,9 +34,17 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions (Optional) - 3 minutes
 
-Before we look at the website, let’s start with a warm-up question.
+Before we look at the website, let’s start with a couple of warm-up questions.
 
-Today we're going to be testing a process for requesting a community care health care appointment. We know not all veterans are eligible for community care, but it's helpful for us to talk to veterans who have used it as well as those who haven't. Are you familiar with community care?
+1. Have you scheduled health care appointments online before?
+* If *YES*
+    * Where have you scheduled online appointments?    
+
+* If *NO*
+    * Thank you, that’s helpful to know
+
+
+2. Today we're going to be testing a process for requesting a community care health care appointment. We know not all veterans are eligible for community care, but it's helpful for us to talk to veterans who have used it as well as those who haven't. Are you familiar with community care?
 
 * If *YES*
     *  Tell me what you know about community care.
@@ -50,7 +57,7 @@ Today we're going to be testing a process for requesting a community care health
 
 Okay, thank you for explaining that to me. Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
 
-* `Use chat to send user link to prototype.` [Prototype link](https://adhoc.invisionapp.com/share/QWZ7WD9GTPJ#/435681239_VAOS-CC-Pick-1)
+* `Use chat to send user link to prototype.` [Prototype link](https://adhoc.invisionapp.com/share/VDZB8MN48AZ)
 
 * `Talk user through screen sharing so they can share their screen.`
 
@@ -136,10 +143,14 @@ If needed:
 
 * Is the information on this page what you expect it to be?
 
+* What's important to you when searching for a health care provider?
+    * Are you finding that information here?
+
 If needed:
     * If you were searching for a health care provider for a health care appointment, would this be the useful way for you to find them?
 
 Watch for:
+    * 'How' do they expect to look up providers - do they look for names/locations first?
     * Do they attempt to open the map?
     * Do they understand that this list is organized by distance? Is that expected/useful?
 
