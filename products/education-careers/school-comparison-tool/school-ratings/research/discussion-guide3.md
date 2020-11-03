@@ -37,7 +37,7 @@ Let’s start with a few warm-up questions.
 
 ## First Task: Feedback on School Cards - 5 minutes
 
-Let's say you've done your research and you're interested in attending **Dartmouth Collegeo**.  How would you go about finding **Dartmouth College** on the Comparison Tool?  When you find what you're looking for, you can say "I found it".
+Let's say you've done your research and you're interested in attending **Dartmouth College**.  How would you go about finding **Dartmouth College** on the Comparison Tool?  When you find what you're looking for, you can say "I found it".
  
 Things to watch for:
 - Does the user notice the ratings on the school cards?
