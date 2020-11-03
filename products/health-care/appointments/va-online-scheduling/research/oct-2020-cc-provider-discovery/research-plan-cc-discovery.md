@@ -48,25 +48,25 @@
 ## Participants and Recruitment	
 1. Participant criteria: What are you looking for in a participant?	  
 	
-**Primary criteria / Must have** 
+	**Primary criteria / Must have** 
 
-* 8-10 Veteran participants 
+	* 8-10 Veteran participants 
 
-**Secondary criteria / Would like to have** 
+	**Secondary criteria / Would like to have** 
 
-* Representative of all branches of the Armed Forces 
-* An even split of men and women
-* At least one person in each of the following age brackets: 18-30, 31-50, 50+.
-* At least one participant to have a disability rating of 30% or greater.
+	* Representative of all branches of the Armed Forces 
+	* An even split of men and women
+	* At least one person in each of the following age brackets: 18-30, 31-50, 50+.
+	* At least one participant to have a disability rating of 30% or greater.
 
 2. What is your recruitment strategy? 	
 
-TBD from Lauren A and Perigean
+	TBD from Lauren A and Perigean
 
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
 
-	November 9th-13th, 2020
+	November 9th-13th, 2020 (**Note:** this may change depending on when the CC Scheduler research study happens - Ideally we'd run one after the other so key stakeholders can be present at both)
 
 2.	Prepare: When will the thing you are testing be ready? 
 
