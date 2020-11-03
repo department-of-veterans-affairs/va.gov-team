@@ -52,6 +52,7 @@ Before we look at the website, let’s start with a couple of warm-up questions.
 
 * If *NO*
     * Thank you, that’s helpful to know
+    * If, after we're done, you want to learn more about community care, you can find information about it on VA.gov.
 
 ## Section 1: Start an appointment - x minutes
 
