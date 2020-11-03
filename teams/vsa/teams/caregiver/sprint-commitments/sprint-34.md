@@ -11,6 +11,9 @@
 
 ## Backend
 - [ ] Connect to CARMA from Review Instance for testing
+- [ ] Research
+     - How many PDFs haven't been sent?
+     - How long do submissions take (on average)?
 - [ ] Backend work to support secondary caregiver only applciations
 - [ ] Automate downtime message when MPI is down
 - [ ] Resolving 10-10CG submission errors
