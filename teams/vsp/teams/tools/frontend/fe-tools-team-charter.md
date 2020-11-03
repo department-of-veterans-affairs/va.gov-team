@@ -8,12 +8,11 @@
 - Product Manager: @Megan Kelley
 - Frontend engineering lead: @Rian Fowler
 - Frontend engineer: @eugene_doan
-- Frontend engineer: @Brooks Johnson
+- Frontend engineer: @Tim Wright
 - Frontend engineer: @Jhonny Gonzalez
 - Frontend engineer: @Bill Fienberg
 - Frontend engineer: @Dan Shank
 - Frontend engineer: @Theo Bentum
-- Frontend engineer: @chris.valarida
 
 ---
 
