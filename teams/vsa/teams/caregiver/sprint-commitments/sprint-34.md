@@ -4,12 +4,15 @@
 
 ## Frontend
 - [ ] [Statement of truth checkboxes](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14697) (blocked/on hold)
-- [ ] [Get Secondary Caregiver only into PR] (
+- [ ] [Frontend work to support secondary caregiver only applications] (
+- [ ] [Look into unnesting recent medical care questions in schema](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15160)
+
 
 
 ## Backend
-- [ ] Automate downtime message when MPI is down
 - [ ] Connect to CARMA from Review Instance for testing
+- [ ] Backend work to support secondary caregiver only applciations
+- [ ] Automate downtime message when MPI is down
 - [ ] Resolving 10-10CG submission errors
      - [PDFs not being sent - research](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14429)
      - [Logging](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15146)
