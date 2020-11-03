@@ -2,6 +2,9 @@
 - Date: 2020-10-29
 - Related Issue: N/A
 
+## Summary
+After the conversation associated with this PR, the best course of action seems to be to _not_ disable the ESLint rule. Instead we will create a new Babel alias that allows us to use `~` as a shortcut to `/src`. So in the future an import like: `import A from 'platform/A'` will become: `import A from '~/platform/A'`. There is still no immediate plan to force the use of a `~` prefix when importing from direct children of `/src`. Using the prefix will simply be a clearer option that we should be encouraged to use instead of the old method.
+
 ## Background and Motivation
 Reading [this blog post](https://medium.com/bootstart/why-you-should-use-babel-resolvers-210615fc41d) has gotten me thinking about how we use our Babel aliases.
 
