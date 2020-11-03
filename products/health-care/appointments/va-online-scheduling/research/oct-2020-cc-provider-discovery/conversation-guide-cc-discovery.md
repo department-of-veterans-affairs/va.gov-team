@@ -14,14 +14,18 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Peter Russo and I also have some colleagues on the line observing and taking notes. We have a team working on improving the process for scheduling health care appointments. Today, I'd like to hear about your experience in scheduling appointments, and go through a prototype of this tool and get your thoughts on it.
+Thanks for joining us today! My name is Peter Russo and I also have some colleagues on the line observing and taking notes. We have a team working on improving a tool veterans can use to requesting health care appointments. Today, I'd like to hear about your experience with requesting appointments, and go through a prototype of this tool and get your thoughts on it.
 
 Before we start, a few things I want to mention:
 
 - **This entire session should take about [one hour].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+
 - **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+
 - **If for any reason and at any time you want to stop the session, please let me know.** 
+
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
@@ -33,7 +37,7 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, let’s start with a warm-up question.
 
-Today we're going to be testing a process for scheduling a community care appointment. We know not all veterans are eligible for community care, but it's helpful for us to talk to veterans who have used it as well as those who haven't. Are you familiar with community care?
+Today we're going to be testing a process for requesting a community care health care appointment. We know not all veterans are eligible for community care, but it's helpful for us to talk to veterans who have used it as well as those who haven't. Are you familiar with community care?
 
 * If *YES*
     *  Tell me what you know about community care.
@@ -45,8 +49,10 @@ Today we're going to be testing a process for scheduling a community care appoin
 ## Section 1: Start an appointment - x minutes
 
 Okay, thank you for explaining that to me. Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
-* Use chat to send user link to prototype. [Prototype link](https://adhoc.invisionapp.com/share/QWZ7WD9GTPJ#/435681239_VAOS-CC-Pick-1)
-* Talk user through screen sharing so they can share their screen.
+
+* `Use chat to send user link to prototype.` [Prototype link](https://adhoc.invisionapp.com/share/QWZ7WD9GTPJ#/435681239_VAOS-CC-Pick-1)
+
+* `Talk user through screen sharing so they can share their screen.`
 
 As I mentioned earlier, this is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a prototype, none of your actions will affect your actual VA information or benefits.
 
@@ -54,13 +60,13 @@ As I mentioned earlier, this is a demo tool that may not function exactly the wa
 
 ### Task 1 - Home Page general impression
 
-* I'm going to ask you to schedule an appointment request through the VA Online Scheduling website.
+* I'm going to ask you to request an appointment through the VA Online Scheduling website.
 
 * First, take a look at this page, scroll around. Tell me what this page is for and what you think you can do here. It'll be really helpful if you can think out loud as much as possible moving forward.
 
 * Is the information on this page what you expect it to be?
 
-* Imagine you need to schedule a general check-up with a primary care provider in your community. How would you start from here?
+* Imagine you need to schedule a general check-up with a primary care provider you haven't seen before. How would you start from here?
 
 ### Task 2 - Choose type of care
 
