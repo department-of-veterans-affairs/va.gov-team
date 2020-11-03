@@ -4,21 +4,25 @@
 
 ## Goals	
 1. What product & team are you doing this research for?	
+
 	This research is for the VA Online Scheduling (VAOS) team.
 
-2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
+2. Background 	
 
-	VAOS allows veterans to schedule health care appointments at VAMCs, or with providers in their community if the veteran meets certain eligibility requirements. Currently veterans communicate their preferred providers by finding them in the Facility Location tool, copying the provider's contact information and pasting it back into the scheduling tool.
+	VAOS allows veterans to request health care appointments at VAMCs or with providers in their community if the veteran meets certain eligibility requirements. 	We expect that veterans use VAOS to find a health care provider and request their first appointment. Then they will schedule follow-up appointments directly with the provider.
+	
+	Currently, veterans who want to use a specific provider have to first find them in the Facility Locator tool, copy the provider's contact information and paste it back into the scheduling tool.
+	
+	Additionally, the [Express Care research study of July 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/july-2020-user-research/2020-july-VAOSR-EC-research-report.md) found that veterans struggled to find appointments in the current UI.
 
 	The provider selection prototype is designed to support the following goals:
-  	* Help veterans schedule community care appointments by letting them search for providers directly in VAOS.
-  	* Help Veterans understand their type of care options, whether a VAMC or Community Care.
+  	* Help veterans request community care appointments by letting them search for providers directly in VAOS.
+  	* Help Veterans choose whether to go to a VAMC or find a provider in their community
   	* Make it clear to Veterans that they can opt out of choosing a provider.
   	* Decrease the amount of time it takes veterans to schedule a community care appointment when selecting a provider.
   	* Help veterans find their requested appointments.
 
-3. Research questions: What question(s) do you hope to be able to answer after completing this research?
-
+3. Research questions:
 	* Do veterans understand the difference between community care and VA care
 	* Can veterans easily find providers?
   	* Is it easier to find providers on the map or list?
@@ -27,15 +31,15 @@
   	* Can veterans find their requested pending appointments?
   
 4. Hypothesis: What is your hypothesis for this research?
-
-  	* Veterans will be able to understand the type of care options presented.
+  	* Veterans will be able to understand the difference between VA care and community care.
   	* It will be easy for veterans to choose a provider.
-  	* Veterans will be able to complete the scheduling process without outside support.
+	* Veterans will clearly see the value of selecting multiple providers.
+  	* Veterans will be able to easily find appointments they requested and scheduled.
 	
 ## Method	
 1. What method of research are you planning? 	
 
-	We're planning on doing a remote, moderated usability study. We'll ask participants to go through a clickable prototype.
+	This is a remote, moderated usability study. We'll ask participants to go through a clickable prototype.
   		
 2. Why this method? How does this methodology help you answer your research questions?
 
@@ -44,7 +48,6 @@
 ## Participants and Recruitment	
 1. Participant criteria: What are you looking for in a participant?	  
 	
-
 **Primary criteria / Must have** 
 
 * 8-10 Veteran participants 
@@ -60,7 +63,6 @@
 
 TBD from Lauren A and Perigean
 
-
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
 
@@ -74,10 +76,17 @@ TBD from Lauren A and Perigean
 
 	1 hour with a 15m buffer after sessions.
 
-4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
+4.	Availability: If applicable, when would you like sessions scheduled? 
 
-	**TBD**
-	All times are PST
+All times are EST
+
+| Date      | Available time |
+| --------- |----------------|
+| 11/09 Mon | **TBD**        |
+| 11/10 Tue | **TBD**        |
+| 11/11 Wed | **TBD**        |
+| 11/12 Thu | **TBD**        |
+| 11/13 Fri | **TBD**        |
 
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?
 
@@ -96,8 +105,7 @@ Please list the people who will be serving in each role. **Include the primary p
 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
 
-## Resources	
-- Project Brief: 		
+## Resources			
 - Convo Guide: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/oct-2020-cc-provider-discovery/conversation-guide-cc-discovery.md
 - Synthesis	
 *Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
