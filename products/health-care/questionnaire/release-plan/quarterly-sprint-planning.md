@@ -60,11 +60,8 @@
 | [UX] Print | -- | #15158  |
 | [FE] Questionnaire List | -- | #15525  |
 | [FE] Usability Testing Feedback Updates | -- | #many  |
-| [BE] POST questionnaire responses to appointment in staging(PGD sandbox) | -- | #15006  |
-| [BE] generate a PDF file for questionnaire responses | -- | #15010|
-| [BE] responses for an appointment in staging(PGD sandbox) | -- | #15007|
-
-
+| [BE] POST/GET questionnaire responses to appointment in staging(PGD sandbox) | -- | #15006 need ticket # |
+| [BE] FHIR Mapping in MAP| -- | #|
 
 
 
