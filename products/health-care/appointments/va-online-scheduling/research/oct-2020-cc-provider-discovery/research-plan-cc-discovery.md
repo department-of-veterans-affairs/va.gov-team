@@ -101,7 +101,17 @@ Please list the people who will be serving in each role. **Include the primary p
 - Project point of contact: Same as moderator	
 - Participant(s) for pilot test: Emily Waggoner
 - Note-takers: **TBD**
-- Observers: kam@adhocteam.us, jeff@adhocteam.us, narin@adhocteam.us, **Brad Gross**, **Lance Gunderson**,lauren.ernest@adhocteam.us, lenae.storey@adhocteam.us, tony.williams@va.gov
+- Observers: (**Note** still working on this list)
+	- kam@adhocteam.us
+	- jeff@adhocteam.us
+	- narin@adhocteam.us
+	- **Brad Gross**
+	- **Lance Gunderson**
+	- lauren.ernest@adhocteam.us
+	- lenae.storey@adhocteam.us
+	- tony.williams@va.gov
+	- **Ryan Thurlwell**
+	
 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
 
