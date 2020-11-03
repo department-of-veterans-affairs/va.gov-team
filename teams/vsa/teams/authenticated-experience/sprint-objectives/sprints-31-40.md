@@ -227,6 +227,10 @@ Week 2 of sprint 33
 - Research Plan for Usability Testing of EDU Direct Deposit #13807
 - Conversation Guide for Usability Testing of EDU Direct Deposit #13808
 
+### Preferred facility
+
+- Technical discovery
+
 ## Sprint 35 (11/18 – 12/1)
 
 ### My VA redesign
