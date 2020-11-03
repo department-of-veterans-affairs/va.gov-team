@@ -985,6 +985,16 @@ Back to [Table of Contents](#table-of-contents)
 
 [Technical Discovery - Public and Automated PDF Accessibility - #10907](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10907)<br/>
 **Opened:** July 6, 2020
+[Documentation - PDF Error - Associate table data with header rows - #15550](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15550)<br/>
+**Opened:** October 28, 22020
+[Documentation - PDF Error - Manual review required - #15548](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15548)<br/>
+**Opened:** October 28, 22020
+[Documentation - PDF Error - Invalid table structure - #15547](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15547)<br/>
+**Opened:** October 28, 22020
+[Documentation - PDF Error - Missing tooltip in form field - #15546](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15546)<br/>
+**Opened:** October 28, 22020
+[Documentation - PDF Error - Image invalid alt text - #15544](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15544)<br/>
+**Opened:** October 28, 22020
   
 Back to [Table of Contents](#table-of-contents)
 
