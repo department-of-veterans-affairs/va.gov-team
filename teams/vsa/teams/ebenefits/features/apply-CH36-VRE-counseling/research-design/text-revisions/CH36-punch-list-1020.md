@@ -61,7 +61,7 @@ Revisions to text, formatting, features and design based on:
 ### CH31 throughout
 - [ ] 
 
-### CH36 screening wizard
+### CH31 screening wizard
 - [ ] Change H1 to: "Apply for Veteran Readiness and Employment with VA Form 28-1900"
 - [ ] Remove "I know this is the form I need" section
 - [ ] Add "Is this the form I need?" section to match prototype
@@ -76,7 +76,9 @@ Revisions to text, formatting, features and design based on:
 - [ ] In Decision section chanege paragraph to match prototype
 
 ### VA form 22-1900
-- [ ] 
+- [ ] Change first section header to "Applicant information"
+- [ ] Change label parens for Your VA file number to "(only if different than your SSN)"
+- [ ] Adjust form address blocks to new pattern (see prototype)
 
 ### VA form 22-1900 confirmation screen
 - [ ] 
