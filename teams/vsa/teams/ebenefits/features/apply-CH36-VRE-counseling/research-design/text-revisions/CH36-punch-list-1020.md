@@ -1,4 +1,4 @@
-# Personalized Career Planning and Guidance (Chapter 36) pre-launch text/content punch list
+# PCPG (CH36) / VRE (CH31) pre-launch text/content punch list
 **VSA eBenefits Team | October 2020**
 
 `James Adams, designer`
