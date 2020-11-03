@@ -123,7 +123,7 @@ Service members being able to apply for their first VA benefits on VA.gov versus
 
 ## Launch Date
 - *Target Launch Date*
-  - September 18th for UAT
+  - November for UAT
 - *Actual Launch Date*
   - tbd
 - *What date will you evaluate impact after launch?*
@@ -143,20 +143,23 @@ Service members being able to apply for their first VA benefits on VA.gov versus
 1. MVP design completed.
 2. Front-end implementation almost complete.
 3. Back-end schema changes to LH API almost complete (8/17)
+4. Integration
 
-## Technical Decisions/Discovery\
+## Technical Decisions/Discovery
 
 ## Product Decisions
 
-
-
 ## Team
 
-- VA Digital Strategist(s): Andrea Schneider
+- VA Digital Strategist(s): Matt Self
 - Product Manager: Luke Majewski 
 - Research Lead: Christian Valla
 - Design Lead: Kevin Stachura
-- Engineers: Anna Carey, Nick Sprinkle, Robin Garrison
+- Engineers: Anna Carey, Nick Sprinkle, Robin Garrison, Ed Mangimelli)
+
+## Incident Response
+- Primary POCs (Luke Majewski, Matt Self, John Hashimoto)
+- Engineering POCs (Ed Mangimelli, Robin Garrison)
    
 ## Screenshots
 
