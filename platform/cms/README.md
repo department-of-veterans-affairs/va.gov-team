@@ -6,11 +6,9 @@ The CMS team's mission is to empower VA content editors with the tools they need
 
 Our work includes
 * Content modeling
-* Structured content templates
+* Structured content 
 * Editorial workflows
 * Governance
-
-
 
 ## A guide to CMS Documentation 
 
@@ -31,46 +29,47 @@ Documentation about the CMS lives in various places
 
 A product is defined as a set of related features that drive specific outcomes with vets or other audiences. They typically are built with a cluster of content types.  
 
-The CMS is built with Drupal and currently supports 6 main products at VA:
-1. Benefits hubs (eg www.va.gov/health-care and 10 other benefits hubs)
-1. VAMC systems (eg www.va.gov/pittsburgh-health-care). Eventually housing 1200+ VHA facilities
-1. Homepage and Global UX elements such as the header, footer, and homepage alerts
-1. The Benefits outreach hub at https://www.va.gov/outreach-and-events/
+Products owned by Facilities team
+1. VAMC system (eg www.va.gov/pittsburgh-health-care). Eventually housing 1200+ VHA facilities across 150 VAMC systems. 
 1. Facility status for VBA facilities, NCA facilities, and Vet Centers (each of these represent stubs of future products)
-1. VA forms (launching early July 2020)
 
-In development
-* VA Forms (Public Websites)
-
-In design/discovery
-* Campaign landing page (Public Websites)
-* Learning center (Public Websites)
-* Covid chatbot (Covid Chatbot team)
-* Covid screener (Covid Screener team)
+Products owened by Public Websites 
+1. Homepage and Global UX elements such as the header, and homepage alerts
+1. Benefits hubs (www.va.gov/health-care and 10 other benefits hubs)
+1. The Benefits outreach hub at https://www.va.gov/outreach-and-events/
+1. VA forms www.va.gov/find-forms
+1. Resources and support www.va.gov/resources
+1. Campaign Landing Page 
 
 
 ## How to Reach Us
 
-The CMS points of contact are:  
-- Kevin Walsh, Product Manager - Slack `@Kevin Walsh`
-- Clarence Maeng, Delivery Manager - Slack `@Clarence Maeng`
-- Jeff Brauer, Program Manager - Slack `@Jeff Brauer`
-- Steve Wirt, Tech Lead - Slack `@Steve Wirt`
+The CMS has two teams, a Core Application and Product Support team.
+
+
+Core Application
+- Oksana Cyrwus, Product Manager - Slack `@Oksana Cyrwus`
+- David Addison, Delivery Manager - Slack `@David Addison`
 - Elijah Lynn, DevOps Lead - Slack `@Elijah Lynn`
 - Jordana Mello, Design Lead - Slack `@Jordana Mello`
-- Howard Brande, Help Desk / Support manager Slack `@Howard Brande`
+
+Product Support
+- Kevin Walsh, Product Manager - Slack `@Kevin Walsh`
+- Clarence Maeng, Delivery Manager - Slack `@Clarence Maeng`
+- Steve Wirt, Tech Lead - Slack `@Steve Wirt`
+
+- Jeff Brauer, Program Manager - Slack `@Jeff Brauer`
+
 
 Slack channels:
 - [#cms-support](https://dsva.slack.com/channels/cms-support) 
 - [#cms-team](https://dsva.slack.com/channels/cms-team)
 
-Github/Zenhub labels:
-- `cms-team`? (TBD)
 
 ## Table of contents
 
 **CMS documentation**
-- prod.cms.va.gov/documentation
+- prod.cms.va.gov/help
 
-**How to Work with IA Team**
+**How to Work with CMS team**
 - [Working with the CMS team (Rules of Engagement)](working-with-cms-team.md)
