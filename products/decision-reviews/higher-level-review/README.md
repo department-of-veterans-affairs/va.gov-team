@@ -160,6 +160,9 @@ Service members being able to apply for their first VA benefits on VA.gov versus
 ## Incident Response
 - Primary POCs (Luke Majewski, Matt Self, John Hashimoto)
 - Engineering POCs (Ed Mangimelli, Robin Garrison)
+- Dashboards:
+  - Production: http://grafana.vfs.va.gov/d/qCRjZjDMk/hlr-higher-level-review?orgId=1&var-data_source=Prometheus%20(Production)
+  - Staging: http://grafana.vfs.va.gov/d/qCRjZjDMk/hlr-higher-level-review?orgId=1&var-data_source=Prometheus%20(Staging)
    
 ## Screenshots
 
