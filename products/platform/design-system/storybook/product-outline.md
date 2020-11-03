@@ -23,12 +23,11 @@ Storybook will allow frontend developers to build UI components in isolation and
 
 ## Solution Approach
 
-_Describe, in a few sentences and/or bullet points, what you plan to build, and how it will solve the problem. Some questions to think about:_
-
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+- We selected Storybook because it is a full featured, extensible, well-supported, widely-adopted industry-standard platform. Storybook solves the all the same needs that our current documentation site does with many quality-of-life improvements.
+- Storybook helps to document components for reuse and automatically visually test your components to prevent bugs.
+- Storybook makes development faster and easier by isolating components. This allows developers to work on one component at a time. 
+- Storybook could be adapted in the future to stitch stories together to demonstrate patterns. 
+- Storybook has additional add-ons that could accommodate other future use cases. 
 
 _For non-trivial technical solutions, an [engineering design doc](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/design-docs) should be written to deeply explain **How** this product will be built._
 
@@ -42,28 +41,21 @@ Design System Team
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Grafana or other dashboards/reports where possible_
+- Improved usability for both engineers and designers (qualitative)
+- Testing any changes to components will be easier resulting in
+   -- Reduced defect rate
+   -- Reduced time to make the changes
+   -- Reduced time to review the changes 
+
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics, if possible._
+- can send out a satisfaction survey to engineers and designers to get some sort of a baseline
 
 ---
-
 
 ## Launch Dates
-- *Launch Date*: TBD
-
----
-   
-## Screenshots
-
-_Include before/after screenshots, if applicable. Delete this section otherwise._
-
-### Before
-
-### After
+- Pilot for evaluation: Mid-November
+- Launch Date: TBD
 
 ---
 
