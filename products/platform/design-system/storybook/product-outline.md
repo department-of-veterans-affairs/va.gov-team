@@ -14,7 +14,7 @@ Storybook will allow frontend developers to build UI components in isolation and
 --- 
 
 ## Assumptions
-- The VFS team experience of adding and testing components is quite bad resulting in fewer improvements and additions to the design system component library
+- The VFS team experience of adding and testing components is slow. 
 - The overhead in publishing and using the updated package results in changes not being made to vets-website for a while which in turn results in things breaking unexpectedly. 
 - Having component library documentation in two places is confusing and  is exacerbated when the documentation of a component on the two sites don't match.
 - The current documentation isn't interactive making it difficult to test the behavior of components.
@@ -34,22 +34,27 @@ _For non-trivial technical solutions, an [engineering design doc](https://github
 --- 
 
 ## Personas
-VFS Engineers
-VFS Designers
-Design System Team 
+- VFS Engineers
+- VFS Designers
+- Design System Team 
 
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
 - Improved usability for both engineers and designers (qualitative)
-- Testing any changes to components will be easier resulting in
-   -- Reduced defect rate
-   -- Reduced time to make the changes
-   -- Reduced time to review the changes 
+- Increased number of components being added 
+- Increased number of component updates 
+- Reduced time to add a component
+- Reduced time to update a component
+- Reduced defect rate (with improved testing)
+
 
 
 #### Baseline KPI Values
-- Send out a satisfaction survey to engineers and designers to get some sort of a baseline
+- Number of components being updated
+- Time spent adding a component
+- Time spent updating a component
+- Satisfaction survey to engineers and designers 
 
 ---
 
