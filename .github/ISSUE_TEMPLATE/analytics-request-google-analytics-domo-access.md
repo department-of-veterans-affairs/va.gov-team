@@ -3,7 +3,7 @@ name: Analytics - Google Analytics/Domo - Request Template
 about: To request access to Google Analytics and/or Domo
 title: Request access to Google Analytics and/or Domo
 labels: analytics-insights, analytics-request
-assignees: joanneesteban, bsmartin-ep, jonwehausen, ben
+assignees: joanneesteban, bsmartin-ep, jonwehausen, bmcgrady-ep 
 
 ---
 
