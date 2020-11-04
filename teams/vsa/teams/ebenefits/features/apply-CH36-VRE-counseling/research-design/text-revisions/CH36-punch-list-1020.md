@@ -1,4 +1,4 @@
-# PCPG (CH36) / VRE (CH31) pre-launch text/content punch list
+# Personalized Career Planning and Guidance (Chapter 36) pre-launch text/content punch list
 **VSA eBenefits Team | October 2020**
 
 `James Adams, designer`
@@ -48,18 +48,20 @@ Revisions to text, formatting, features and design based on:
 - [ ] Change Veteran info header in dependent flow to "Your sponsoring Veteran or service member" 
 
 ### VA form 22-8832 confirmation screen
-- [ ] Add "wahat happens after I appy?" text block above "How long..." section
+- [ ] Remove "Thank you for submitting your application" from blue box
+- [ ] Add "What happens after I apply?" text block above "How long..." section
 - [ ] Remove the "Do you have a service connected disability" section
 - [ ] Add feature box content per prototype
-- Change paragraph at botton of page to: "Please call our toll-free hotline at 800-827-1000. We’re here Monday through Friday, 8:00 am to 
+- [ ] Change paragraph at botton of page to: "Please call our toll-free hotline at 800-827-1000. We’re here Monday through Friday, 8:00 am to 
 8:00 pm ET."
+- [ ] Confirm with SMEs that processing takes one week
 
 ---
 
 ## Chapter 31 wizard and VA form 22-1900
 
 ### CH31 throughout
-- [ ] 
+- [ ] TBD
 
 ### CH31 screening wizard
 - [ ] Change H1 to: "Apply for Veteran Readiness and Employment with VA Form 28-1900"
@@ -79,8 +81,14 @@ Revisions to text, formatting, features and design based on:
 - [ ] Change first section header to "Applicant information"
 - [ ] Change label parens for Your VA file number to "(only if different than your SSN)"
 - [ ] Adjust form address blocks to new pattern (see prototype)
+- [ ] Change paragraph on Additional info screen to: "The below information is optional. You don’t have to answer these questions now, but we may ask for this information again when we process your application."
+- [ ] Revise all text on Communication pref screen to match prototype
 
 ### VA form 22-1900 confirmation screen
-- [ ] 
+- [ ] Remove "Thank you for submitting your application" from blue box
+- [ ] Add "What happens after I apply?" text block above "How long..." section
+- [ ] Recompose subway map section per prototype
+- [ ] Confirm with SMEs that processing takes one week
+- [ ] Confirm 800 number(s)
 
 ---
