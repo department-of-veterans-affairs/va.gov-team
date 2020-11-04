@@ -48,7 +48,7 @@ uiSchema:
 
 - We have a S3 bucket that we store the uploaded file. 
 - The endpoint accepts the form data
-- Note sure on the specifics past that. 
+- Returns an id that can be used later to access the file on S3
 
 sample request: 
 
@@ -75,3 +75,5 @@ curl 'https://staging-api.va.gov/v0/upload_supporting_evidence' \
   --compressed
 
   ```
+
+  [Full code sample](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/claims_api/app/controllers/claims_api/v0/forms/disability_compensation_controller.rb#L35)
