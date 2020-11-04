@@ -63,10 +63,10 @@ Connected apps — We should see if the connected apps team has a prod account o
 
 We will launch the new profile behind a feature flag and and control what % of users see it using Flipper. 
 
-- Launch behind a feature flag. Test with team. (1 day)
-- If things go well, we'll launch to 25% of traffic. (1 week)
-- If things go well, we'll launch to 50% of users. (1 week)
-- If everything looks good, we'll then launch to 100% of users. Launched to 100% on Oct 1, 2020
+- Launch behind a feature flag. Test with team. (1 day) **Done**
+- If things go well, we'll launch to 25% of traffic. (1 week) **Done 9/16/20**
+- If things go well, we'll launch to 50% of users. (1 week) **Done 9/23/20**
+- If everything looks good, we'll then launch to 100% of users. **Done 9/30/20**
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:** 
 
@@ -75,6 +75,7 @@ We will monitor the following metrics to ensure there are no issues:
 - Profile visits
 
 For each section:
+
 - Successful retrievals 
 - Failed retrievals
 - Form Submits
@@ -82,7 +83,7 @@ For each section:
 - Failed form submissions
 - Error counts
 
-Links to dashboards showing "success criteria" metrics: [Profile 2.0 KR Domo dashboard](https://va-gov.domo.com/page/492918243)
+KPI "success criteria" metrics: [Profile 2.0 KR Domo dashboard](https://va-gov.domo.com/page/492918243)
 
 ## Go Live!
 
