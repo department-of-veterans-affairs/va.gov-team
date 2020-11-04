@@ -3,14 +3,14 @@
 
 | TEAM                | BAM 1                             | BAM 1                     | BAM 2                   |  eBenefits                                       |
 | -------------       | -------------                     | -------------             | -------------           | -------------                                    |
-| Product             | Disability (526)                  | HLR                       | Education (1990, STEM)  | Personalized Care & Planning (Ch 36/31) |
-| Product Leads       | Hashimoto/Self/Majewski           | Hashimoto/Self/Majewski   | Self/Keeler             | Jason Wolf           
-| UX Spec (via Prototype) | Done                   | Done                      | Done                    | Done
-| User Test (via Prototype)| In progress           | In progress               | In progress             | Done
-| Development  |50% Complete/Hold                  | 50% Complete/Hold         | 50% Complete/Hold       | 90% Complete
-| Staging Review/Q-A | TBD                         | TBD                       | TBD                     | TBD
-| Site Links (PW)     | In progress                       | In progress               | In progress             | In progress
-| Launch Date         | November                          | November                  | November?               |Ch 31 (Early Dec), Ch 36 (Jan 4)
+| <b>Product<b>           | Disability (526)                  | HLR                       | Education (1990, STEM)  | Personalized Care & Planning (Ch 36/31) |
+| <b>Product Leads<b>       | Hashimoto/Self/Majewski           | Hashimoto/Self/Majewski   | Self/Keeler             | Jason Wolf           
+| <b>UX Spec (via Prototype)<b> | Done                   | Done                      | Done                    | Done
+| <b>User Test (via Prototype)<b>| In progress           | In progress               | In progress             | Done
+| <b>Development<b>  |50% Complete/Hold                  | 50% Complete/Hold         | 50% Complete/Hold       | 90% Complete
+| <b>Staging Review/Q-A<b> | TBD                         | TBD                       | TBD                     | TBD
+| <b>Site Links(PW)<b>   | In progress                       | In progress               | In progress             | In progress
+| <b>Launch Date<b>        | November                          | November                  | November?               |Ch 31 (Early Dec), Ch 36 (Jan 4)
 
 
 ## Reference Links
