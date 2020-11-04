@@ -18,7 +18,8 @@ This is a simple solution and allows the heavy lifting of the determining if a u
 
 ### Questions
 
-- What does the current text message look like for an appointmenet coming up in roughly 10 days? 
+- What does the current text message look like for an appointment coming up in roughly 10 days? 
 - Can we control which appointment types get the extra notification. For example, only send this to Primary Care appointments at Facility XYZ? Who manages that?
 - What is the character limit for a text message? 
 - What page do we want to send the users to? Drupal or Questionnaire Manager.
+- Does va.gov have a url shortener service?
