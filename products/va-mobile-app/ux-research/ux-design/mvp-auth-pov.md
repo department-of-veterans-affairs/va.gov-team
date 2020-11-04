@@ -36,12 +36,12 @@ The ideal UX of the sign in page is likely will be very similar to the design of
 
 
 ### Post-MVP: LOA allowance
-We have previously discussed the pros and cons of maintaining our IAM integration post-MVP or securing a new integration that allows LOA 1 users in. Here are key considerations we are thinking about:   
+We have previously discussed the pros and cons of maintaining our IAM integration post-MVP or working to secure a new integration that allows LOA 1 users in. Here's what we see as the key considerations in making a post-MVP integration decision:     
 
 #### UX 
 - We're not sure if it would be a better UX to allow LOA 1 users into a “locked” state of the app. We hypothesize that doing this may reduce frustration at initial sign in and get more users into the app successfully, but we also think this could increase frustration once users are signed in and unable to perform any actions. These are hypotheses we'd like to test before investing in technical work for a new integration. We think we can test this by recruiting LOA 1 Veterans and designing a study to evaluate the value of a “locked” state of the app.
 - For the forseeable future, we see the app’s goal as continuing to make transactions easier for Veterans already interacting with VA, and mintaining an LOA 3 user base supports this purpose. We don’t foresee adding any authenticated features that an LOA 1 user would find utility in. 
-- Allowing only LOA 3 users in requires the fewest steps for users: **Login Screen > gating screen >  log in > (check for LOA) upverify > success > back to app**. 
+- Allowing only LOA 3 users in requires the fewest steps for users: **Login Screen > gating screen >  log in > (check for LOA) upverify > success > back to app**.  
 
 #### Tech
 - Accepting LOA 1 users would require an integration request with ID.me or VA Access for a LOA 3 SAML request, so we don’t know if we can get a redirect on uplevel if we send users out of the app. Right now the requests are just to authorize the app at a certain level. To make the app do an uplevel request is not currently anywhere in the API for oATUHe, so it would require discovery to find out if this is possible and to ask IAM to add this to the API if it is.
