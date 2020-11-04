@@ -1,7 +1,7 @@
 Wizard Migration Topline Summary
 `DRAFT`
 
-Prepared by: Liz Lantz, Public Websites
+Prepared by: Liz Lantz, Megan Gayle, and Josh Kim for Public Websites
 
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/discovery/research/wizard-research-plan.md)
 
