@@ -90,13 +90,14 @@ Based on VAOS specialties, for example Dietary and Primary Care, and non-VAOS sp
 
 - What is a waste of time (unnecessary/confusing)?
 
-## Section 3 - Open Feedback
+---------
+## Additional Questions
 
 - If you could change anything about Community Care online scheduling through VAOS, what would it be?
 
-- Have you seen or used the Facility locator on the VA.gov website?
-
 - If you would be willing to share anecdotal experience from scheduling Veterans' appointments, we'd love to know what factors are important to a Veteran so that we can present Facility Locator Community Care provider search results accordingly.
+
+- Have you seen or used the Facility locator on the VA.gov website?
 
 ## Closing
 
