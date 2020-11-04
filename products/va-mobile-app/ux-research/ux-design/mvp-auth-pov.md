@@ -21,7 +21,7 @@ Given this, we will briefly communicate to users the need to verify prior to the
 - Understanding where major stumbling blocks are in the entire sign in flow, from the unauth home screen to being successfully returned to the app
 - Seeking feedback about language and how to best communicate the need to be LOA 3 to use the app
 
-**One additional note about uplevelling UX:** Users who are LOA 1 will need to sign in twice as part of their initial logon flow - once to sign in and have their LOA detected, and again before beginning the verification flow. This is because on the web, the cookie is set by ID.me, but we don’t and can't use the cookies.
+**One additional note about uplevelling UX:** Users who are LOA 1 will need to sign in twice as part of their initial logon flow - once to sign in and begin/complete the verification flow and a second time to log in with their new LOA3 creds.This is because on the web, the cookie is set by ID.me, but we don’t and can't use the cookies. If they are already LOA2/3 they just log in one time and no extra log in. 
 
 
 # Post-MVP
