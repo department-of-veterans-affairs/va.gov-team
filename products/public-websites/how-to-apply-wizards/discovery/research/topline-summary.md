@@ -1,4 +1,4 @@
-Wizard Migration Research Study Topline Summary
+Wizard Migration Usability Study Topline Summary
 ================================
 
 Prepared by: Liz Lantz, Megan Gayle, and Josh Kim for Public Websites
@@ -7,7 +7,7 @@ Prepared by: Liz Lantz, Megan Gayle, and Josh Kim for Public Websites
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/discovery/research/wizard-migration-convo-guide.md)
 
-[Session Notes]()
+[Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/discovery/research/wizard-migration-study-notes.xlsx)
 
 This topline summary is a high level, top of mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered.
 
