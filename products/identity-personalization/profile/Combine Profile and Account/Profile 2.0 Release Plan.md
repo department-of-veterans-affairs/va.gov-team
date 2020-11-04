@@ -87,14 +87,25 @@ Links to dashboards showing "success criteria" metrics: [Profile 2.0 KR Domo das
 ## Go Live!
 
 ### Planning:
-- Desired date: Oct 1st, 2020.
-- Go / No Go: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md)
+- Desired date: Oct 1st, 2020
+- Actual date: Sept 30th, 2020
+- Go / No Go: [Results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Launch%20go%20no-go.md)
 
 ### 1-week results:
-[DOMO Dashboard](https://va-gov.domo.com/page/492918243?userId=1719046699)
+
+- [DOMO Dashboard](https://va-gov.domo.com/page/492918243?userId=1719046699)
+- [Section pageview dashboard 9/30 - 10/6](https://analytics.google.com/analytics/web/#/report/content-drilldown/a50123418w177519031p184624291/_u.date00=20200930&_u.date01=20201006&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePathLevel1:~2Fprofile~2F/)
+- [Contact information dashboard 9/30 - 10/6](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/_u.date00=20200930&_u.date01=20201006/)
+- [Address validation dashboard 9/30 - 10/6](https://analytics.google.com/analytics/web/#/dashboard/pq_-PrkvQleUdCBbV7eq7Q/a50123418w177519031p176188361/_u.date00=20200930&_u.date01=20201006/)
+- [Direct deposit dashboard 9/30 - 10/6](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/naG_-UneTxy50WvvIH0GGQ/a50123418w177519031p176188361/_u.date00=20200930&_u.date01=20201006/)
 
 ### 1-month results:
-[DOMO Dashboard](https://va-gov.domo.com/page/492918243?userId=1719046699)
+
+- [DOMO Dashboard](https://va-gov.domo.com/page/492918243?userId=1719046699)
+- [Section pageview dashboard 9/30 - 10/30](https://analytics.google.com/analytics/web/#/report/content-drilldown/a50123418w177519031p184624291/_u.date00=20200930&_u.date01=20201030&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePathLevel1:~2Fprofile~2F/)
+- [Contact information dashboard 9/30 - 10/30](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/_u.date00=20200930&_u.date01=20201030/)
+- [Address validation dashboard 9/30 - 10/30](https://analytics.google.com/analytics/web/#/dashboard/pq_-PrkvQleUdCBbV7eq7Q/a50123418w177519031p176188361/_u.date00=20200930&_u.date01=20201030/)
+- [Direct deposit dashboard 9/30 - 10/30](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/naG_-UneTxy50WvvIH0GGQ/a50123418w177519031p176188361/_u.date00=20200930&_u.date01=20201030/)
 
 ## Post-launch Questions 
 
