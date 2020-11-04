@@ -97,6 +97,8 @@ See [VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/
 
 Throughout the design work, communicate and collaborate with the VSA accessibility specialist to ensure designs and plans are inclusive and accessible.
 
+**[>> Request a design collaboration review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=vsa_request_dev_review.md&title=Request+a+VSA+dev+intent+or+spot+check+review+for+ENTER_PRODUCT_NAME)** 
+
 <!-- ~~For medium to large projects, there are **three required checkpoints**. These reviews are integrated with [VSP's Design Rules of Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md#whentorequest) and align with [VSA's Design Review Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/vsa-design-review-process.md). Accessibility, Content, IA, and Design practice reviews happen in the same checkpoint. VSA team members are also welcome to additional, casual checks with accessibility specialists.
 
 <!-- ~~1. **Design Intent Checkpoint** — *Integrated with VSP design check-ins*  <br/> **[>> Schedule a design intent review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=emilywaggoner%2C+sshein%2C+CrystabelReiter%2Cjenstrickland%2C+1copenut%2C+tzelei123%2C+meganhkelley%2C+peggygannon&labels=508%2FAccessibility%2C+design%2C+design+review%2C+product+support&template=request_design_review_vsa.md&title=Request+VSA+design+review+for+ENTER_PRODUCT_NAME)**
