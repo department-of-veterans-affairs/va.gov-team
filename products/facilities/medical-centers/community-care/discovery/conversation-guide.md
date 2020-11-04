@@ -38,7 +38,7 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 
 - What brought you to this line of work? 
 
-## Scenario & Walk-through Demo
+## Scenario - Walk-through Demo
 
 [If possible, it would be great to get an end-to-end demo of the scheduling process (TBD whether to include)]
 - I am a Veteran with a referral to an Audiology care provider.
