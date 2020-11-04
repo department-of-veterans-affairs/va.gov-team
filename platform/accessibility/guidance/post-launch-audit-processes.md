@@ -30,7 +30,7 @@ Teams must conduct their own accessibility testing **before** scheduling a VSP C
 - [ ] Axe-coconut scans in daily development - [read more about the axe-coconut experimental plugin](https://www.deque.com/blog/test-leading-edge-accessibility-axe-coconut-axe-core-3-0/)
 - [ ] WAVE tool spot checks - [read more about the WebAIM WAVE tool](https://wave.webaim.org/)
 
-## What to expect from accessibility specialists during post-launch audit audit
+## What to expect from accessibility specialists during post-launch audit
 After you request a post-launch audit, the accessibility specialist will review your foundational tests. When the foundational tests have been verified, the specialist will review your product.
 
 ### VFS teams that have an accessibility specialist
