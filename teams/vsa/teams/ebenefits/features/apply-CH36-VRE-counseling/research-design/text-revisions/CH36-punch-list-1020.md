@@ -70,6 +70,8 @@ Revisions to text, formatting, features and design based on:
 - [ ] Change question: "Did you receive an other than dishonorable discharge?" to "Did you receive a discharge status other than dishonorable?"
 - [ ] Change all stop/alert message boxes within wizard from blue to light gray (#F1F1F1)Revisons...
 
+`VR&E orientation module in design TBD; will be added to intro screen`
+
 ### VA form 22-1900 intro screen
 - [ ] Remove hyphen from "Start your application without signing in" link
 - [ ] Fix typo in Prepare section: lower-case i on "(if you know it)"
@@ -78,6 +80,8 @@ Revisions to text, formatting, features and design based on:
 - [ ] In Decision section chanege paragraph to match prototype
 
 ### VA form 22-1900
+- [X] Change form stepper to match current form conventions in mockups
+- [X] Fix stepper sequence to align with current step in mockups
 - [ ] Change first section header to "Applicant information"
 - [ ] Change label parens for Your VA file number to "(only if different than your SSN)"
 - [ ] Adjust form address blocks to new pattern (see prototype)
