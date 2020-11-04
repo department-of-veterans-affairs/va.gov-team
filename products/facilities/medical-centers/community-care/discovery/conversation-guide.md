@@ -38,7 +38,19 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 
 - What brought you to this line of work? 
 
-## Section 1 - Processing Requests 
+## Scenario & Walk-through Demo
+
+[If possible, it would be great to get an end-to-end demo of the scheduling process (TBD whether to include)]
+- I am a Veteran with a referral to an Audiology care provider.
+   - I have a preferred care provider in hand, and am requesting an appointment.
+   - <b>Walk me through the search for a provider.</b>
+   
+- What if I, as a Veteran, do not have a preferred care provider in hand?
+
+--------------
+[The questions below are to cover anything not answered in the demo.]
+
+## Follow-up Questions - Processing Requests 
 
 Based on VAOS specialties, for example Dietary and Primary Care, and non-VAOS specialties, such as Dermatology: 
  
@@ -57,17 +69,9 @@ Based on VAOS specialties, for example Dietary and Primary Care, and non-VAOS sp
 
 - Can you share an example of a past appointment request that was challenging to process? Why was it challenging?
 
-----------
-### Scenario ###
-[If possible, it would be great to get an end-to-end demo of the scheduling process (TBD whether to include)]
-- I am a Veteran with a referral to an Audiology care provider.
-   - I have a preferred care provider in hand, and am requesting an appointment.
-   - <b>Walk me through the search for a provider.</b>
-   
-- What if I, as a Veteran, do not have a preferred care provider in hand?
-----------
 
-## Section 2 - Searching for Care
+
+## Follow-up Questions - Searching for Care
 
 - How do you search for type of care/specialities?
    - Where do you search for that data + providers?
@@ -94,7 +98,7 @@ Based on VAOS specialties, for example Dietary and Primary Care, and non-VAOS sp
 
 - If you would be willing to share anecdotal experience from scheduling Veterans' appointments, we'd love to know what factors are important to a Veteran so that we can present Facility Locator Community Care provider search results accordingly.
 
- ## Closing
+## Closing
 
 - Any questions for us?
 - Was there anything that I didn't ask that you think that I should know?
@@ -106,4 +110,6 @@ Well we really appreciate you taking the time to share your thoughts with us tod
 Great, well thank you so much again, and enjoy the rest of your day!
 
 - - -
+
+
 
