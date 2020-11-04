@@ -33,7 +33,7 @@ Products owned by Facilities team
 1. VAMC system (eg www.va.gov/pittsburgh-health-care). Eventually housing 1200+ VHA facilities across 150 VAMC systems. 
 1. Facility status for VBA facilities, NCA facilities, and Vet Centers (each of these represent stubs of future products)
 
-Products owened by Public Websites 
+Products owned by Public Websites 
 1. Homepage and Global UX elements such as the header, and homepage alerts
 1. Benefits hubs (www.va.gov/health-care and 10 other benefits hubs)
 1. The Benefits outreach hub at https://www.va.gov/outreach-and-events/
@@ -41,11 +41,14 @@ Products owened by Public Websites
 1. Resources and support www.va.gov/resources
 1. Campaign Landing Page 
 
+Libraries that cut across products
+1. Alert blocks and homepage alert banners
+1. Multimedia library
+1. Promo blocks
 
 ## How to Reach Us
 
-The CMS has two teams, a Core Application and Product Support team.
-
+The CMS has two teams, a Core Application Team and Product Support Team.
 
 Core Application
 - Oksana Cyrwus, Product Manager - Slack `@Oksana Cyrwus`
@@ -72,4 +75,4 @@ Slack channels:
 - prod.cms.va.gov/help
 
 **How to Work with CMS team**
-- [Working with the CMS team (Rules of Engagement)](working-with-cms-team.md)
+- [Working with the CMS team (Rules of Engagement)](working-with-cms-team.md) (work in progress)
