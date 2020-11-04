@@ -82,6 +82,7 @@ Revisions to text, formatting, features and design based on:
 - [ ] Change label parens for Your VA file number to "(only if different than your SSN)"
 - [ ] Adjust form address blocks to new pattern (see prototype)
 - [ ] Change paragraph on Additional info screen to: "The below information is optional. You don’t have to answer these questions now, but we may ask for this information again when we process your application."
+- [ ] Add "(include K-12 and each year of college)" to years of school question
 - [ ] Revise all text on Communication pref screen to match prototype
 
 ### VA form 22-1900 confirmation screen
