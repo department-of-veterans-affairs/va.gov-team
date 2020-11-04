@@ -1,11 +1,18 @@
 # Research Plan for [Design System, Nov, 2020]
 
 ## Goals	
-1. What product [tool/service/document/process] & VSP team are you doing this research for? (VSP teams: Product Support, Content & IA, Insights & Analytics, Operations, Service Design, Front-End Tools, Back-End Tools, Identity, Design System, Testing Team, Contact Center Team)
+1. What product [tool/service/document/process] & VSP team are you doing this research for? Design System
 	
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? Link to the product outline.
+The Design System team is just getting started and we want to conduct generative research to learn where to best focus efforts in Q1 2021.
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
+We hope to learn what things are slowing VFS teams down when using the design system.
+- is it the number of components available in the design system?
+- is it knowing the process to follow for when the available components don't fit your needs?
+- is it understanding how to start building a form?
+- is it finding documentation on how to customize components in the design system?
+
 
 4. Hypothesis: What is your hypothesis for this research? 	
 
