@@ -99,9 +99,8 @@ Based on VAOS specialties, for example Dietary and Primary Care, and non-VAOS sp
 
 - Have you seen or used the Facility locator on the VA.gov website?
 
-## Closing
-
 - Any questions for us?
+
 - Was there anything that I didn't ask that you think that I should know?
 
 ## Thank-You and Closing
