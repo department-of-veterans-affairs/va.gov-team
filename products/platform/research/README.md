@@ -14,6 +14,18 @@ You can contact any of the following about research or adding your reach here:
 
 ## In this folder
 
+### Planning Resources
+
+You can find resources to get you started with your research
+
+- [How VSP does research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/how-vsp-does-research.md) 
+
+- [VSP conversation guide template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/vsp-conversation-guide-template.md) 
+
+- [VSP research plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/vsp-research-plan-template.md) 
+
+<br>
+
 ### Customer Insights
 
 You can find all quartly roundups and survey readouts here.
