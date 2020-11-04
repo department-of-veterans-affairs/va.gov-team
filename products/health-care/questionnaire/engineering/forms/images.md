@@ -13,7 +13,7 @@ So that I can better explain my concerns to the clinic staff.
 - There is already helpers set up for the front end. 
 - We need a endpoint on the vets-api to accept the file and return an id
 - Seems to get sent to the server when the file is uploaded orginally, not at the end of the form
-- The id is now treated like any sort of informtation in the form
+- The id is now treated like any sort of information in the form
 
 
 
@@ -43,6 +43,10 @@ Schema
 uiSchema: 
 [UI](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/disability-benefits/686c-674/config/chapters/add-a-child/add-child-additional-evidence/addChildAdditionalEvidence.js#L14)
 
+
+Sample implementation 
+
+![upload widget on va.gov](assets/file-upload.png)
 
 ## Back end
 
