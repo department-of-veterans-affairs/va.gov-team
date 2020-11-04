@@ -46,5 +46,5 @@ We have previously discussed the pros and cons of maintaining our IAM integratio
 #### Tech
 - Accepting LOA 1 users would require an integration request with ID.me or VA Access for a LOA 3 SAML request, so we don’t know if we can get a redirect on uplevel if we send users out of the app. Right now the requests are just to authorize the app at a certain level. To make the app do an uplevel request is not currently anywhere in the API for oATUHe, so it would require discovery to find out if this is possible and to ask IAM to add this to the API if it is.
 
-#### Product
-- We think there could be value in breaking from how VA.gov handles LOA upleveling to see if our app can help push the tide towards more users becoming LOA 3. - We would like to understand and keep talking about if there are business reasons that support either allowing LOA 1 users into the app to view a “locked” state of features, or continuing to allow only LOA 3 via the upleveling integrated into the auth flow currently used in MVP.
+#### Other considerations 
+We would like to understand and keep talking about if there are business reasons that support either allowing LOA 1 users into the app to view a “locked” state of features, or continuing to allow only LOA 3 via the upleveling integrated into the auth flow currently used in MVP. We think there could be value in breaking from how VA.gov handles LOA upleveling to handle it differently.
