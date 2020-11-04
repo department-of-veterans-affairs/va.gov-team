@@ -26,9 +26,9 @@ Products owned by Public Websites
 1. Resources and support www.va.gov/resources
 1. Campaign Landing Page 
 
-Libraries that cut across products
-1. Alert blocks and homepage alert banners
-1. Multimedia library
+Content libraries that are shared across products
+1. Alert blocks and homepage alert banners (owned primarily by Public Websites, but other products can create alert blocks)
+1. Multimedia library (videos, images, PDFs)
 1. Promo blocks
 
 
