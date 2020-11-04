@@ -50,7 +50,7 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 --------------
 [The questions below are to cover anything not answered in the demo.]
 
-## Follow-up Questions - Processing Requests 
+### Follow-up Questions - Processing Requests 
 
 Based on VAOS specialties, for example Dietary and Primary Care, and non-VAOS specialties, such as Dermatology: 
  
@@ -71,7 +71,7 @@ Based on VAOS specialties, for example Dietary and Primary Care, and non-VAOS sp
 
 
 
-## Follow-up Questions - Searching for Care
+### Follow-up Questions - Searching for Care
 
 - How do you search for type of care/specialities?
    - Where do you search for that data + providers?
