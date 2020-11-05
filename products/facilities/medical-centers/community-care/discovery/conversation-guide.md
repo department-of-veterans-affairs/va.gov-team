@@ -32,7 +32,7 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 
 - How long have you been a Community Care manager at the VA? 
 
-- Is scheduling the primary job for Community Care managers?
+- Aside from scheduling, what other roles do you perform as Community Care manager?
 
 - What other roles do Community Care managers perform as part of the job? 
 
@@ -48,6 +48,8 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 [The questions below are to cover anything not answered in the demo.]
 
 ### Follow-up Questions - Processing Requests 
+
+Are there scenarios where you must contact the Veteran by phone, or is scheduling handled solely through the systems you use?
 
 Based on VAOS specialties, for example Dietary and Primary Care, and non-VAOS specialties, such as Dermatology: 
  
@@ -72,7 +74,7 @@ Based on VAOS specialties, for example Dietary and Primary Care, and non-VAOS sp
 
 - How do you search for type of care/specialities?
    - Where do you search for that data + providers?
-   - What words/categories are used by the schedulers when searching?
+   - How do you go about determining what search terms to use when searching?
    
 - What search parameters do community care managers use to identify the appropriate community care provider?
    - What are your expectations in terms of number of results and distance vs. what results come back from your search?
@@ -95,6 +97,7 @@ Based on VAOS specialties, for example Dietary and Primary Care, and non-VAOS sp
 - If you would be willing to share anecdotal experience from scheduling Veterans' appointments, we'd love to know what factors are important to a Veteran so that we can present Facility Locator Community Care provider search results accordingly.
 
 - Have you seen or used the Facility locator on the VA.gov website?
+   - One of the goals of our team is to simplify the taxonomy for Community Care categories. As an example, under Podiatry, there are 10 different subcategories. Would you have any suggestions on how we might simplify?
 
 - Any questions for us?
 
