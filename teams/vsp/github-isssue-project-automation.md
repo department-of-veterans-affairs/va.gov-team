@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Automatically add new issues to projects based on their labels.
+Automatically add new issues to Github projects based on issue labels.
 
 ## Setup
 
@@ -30,3 +30,7 @@ To create a new automation edit [assign-to-one-project.yml](https://github.com/d
 - The action can take a few minutes to run. The status is available [here](https://github.com/department-of-veterans-affairs/va.gov-team/actions?query=workflow%3A%22Assign+to+One+Project%22).
 - The indentation of `.yml` files is important, so make sure it matches exactly.
 - The column name is required, so if the column name is changed in the project then the action config will have to be updated to match.
+
+
+## See also
+[Automate Github Projects - Analytics Team Pilot #15245](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15245)
