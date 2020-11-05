@@ -36,8 +36,6 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 
 - What other roles do Community Care managers perform as part of the job? 
 
-- What brought you to this line of work? 
-
 ## Scenario - Walk-through Demo
 
 - I am a Veteran with a referral to an Audiology care provider.
