@@ -11,6 +11,8 @@
 ## The Problem
 Currently VA.gov does not support any appeals or decision review paths. The existing path is only through the paper form.  This does not exist on eBenefits either, so this digitization is the first step in bringing the review process to veterans using VA.gov.  It is also the first step before supplemental claims and Notice of Disagreement.  We believe that bringing this to VA.gov will greatly reduce the time-to-a-decision for veterans.  This will be talked about further below.
 
+![Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/higher-level-review/Appeals_Process_Higher_Level_Review_Flowchart-1.png)
+
 ### Program Requirements
 If you disagree with VA’s decision, you can request to have a senior reviewer take a new look at your case. The reviewer will determine whether the decision can be changed based on a difference of opinion or an error.
 
