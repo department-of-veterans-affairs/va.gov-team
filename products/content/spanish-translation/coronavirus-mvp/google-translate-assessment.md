@@ -30,8 +30,8 @@
 
 #### Benefits 
 
-- The Google translate API would allow us to create a glossary to consistently translate our specific terminology. This can include words we do not want translated (such as "Veterans Affairs") as well as ambigious words that we want translated a certain way. This can help solve some of the problems we saw in the Coronavirus FAQs quality assessment. [Read more about the glossary option](https://cloud.google.com/translate/docs/advanced/glossary)
-- If we use the AuotML translation model, we can further train the base model for our domain-specific text.
+- The Google translate API would allow us to create a glossary to consistently translate our specific terminology. This can include words we do not want translated (such as "Veterans Affairs") as well as ambiguous words that we want translated a certain way. This can help solve some of the problems we saw in the Coronavirus FAQs quality assessment. [Read more about the glossary option](https://cloud.google.com/translate/docs/advanced/glossary)
+- If we use the AutoML translation model, we can further train the base model for our domain-specific text.
 
 #### Risks & drawbacks 
 
