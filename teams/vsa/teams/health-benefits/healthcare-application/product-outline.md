@@ -89,8 +89,30 @@
 ## Screenshots
 
 ### Before
+ <details>
+  <summary>How to apply</summary>
+ 
+![How to Apply](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/screenshots/How%20to%20Apply.png)
+</details>
 
-
+ <details>
+  <summary>Start your application</summary>
+ 
+![Start your application](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/screenshots/Apply%20for%20heatlh%20care%20benefits.png)
+</details>
+ 
+ <details>
+  <summary>Subway map</summary>
+ 
+![Subway map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/screenshots/Subway%20Map.png)
+</details>
+ 
+ <details>
+  <summary>Review page</summary>
+ 
+![Review page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/screenshots/Review%20Page.png)
+</details>
+ 
 
 ### After
 
