@@ -12,10 +12,12 @@
 - Fewer dropoffs/incomplete applications
 
 ## Undesired User Outcomes
-- Longer time to apply, more complex application
+- Longer time to apply
+- More complex application
 
 ## Desired Business Outcomes
-- Veterans are comfortable and confident applying online, and fewer opt to apply in person
+- Veterans are comfortable and confident applying online
+- Fewer opt to apply in person
 
 ## Undesired Business Outcomes
 - False/incorrect applciations
@@ -24,9 +26,10 @@
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-* Key drop off points along the application
-* Time to commplete
-* Number of completed applications
+* Number of completed online applications
+* Proprotion of applications submitted online vs. on paper
+* Steepess of drop off points along the application
+* Time to commplete online form
 * https://va-gov.domo.com/page/290380612?userId=1492182741
 
 #### Baseline KPI Values
@@ -35,20 +38,18 @@
 ### Objectives and Key results (OKRs)
 
 - Objective: More Veterans apply for health care online
-  - Key result: 
-  - Key result: 
-
+  - Key result: Number of applications increase
+  - Key result: Proportion of applications submitted online vs. in person increases 
 
 ---
 
 ## Assumptions
-- If we make the online health care application easier, Veterans who would have preferred to apply in person will instead opt to apply online
-
+- If we make the online health care application easier, fewer Veterans will feel uncomfortable applying online.
 
 ## Solution Approach
 
 - As of 10/2020, we're going to focus on:
-   - Understanding what Veteran pain points are with the current applicaiton process
+   - Understanding what Veteran pain points are with the current applicaiton process (research and discovery)
    - Updating the UI to meet VA.gov design & accessibility standards
    - Adding a question distinguishing between mailing & residential addressses
    - Updating any content around the health care application pages that may be a source of confusion
@@ -59,11 +60,11 @@
 ## Go-to-market Strategy
 - Coordinating with other VA outreach initiatives 
 - Support from VAMCs
-- [Link to Release Plan](#go-to-market-strategy)
+- [Coming soon: Link to Release Plan](#go-to-market-strategy)
 
 ## Launch Dates
 - *Initial Launch Date*
-  - January 2021
+  - January 2021 for address work
 - *Actual Launch Date* 
   - Coming soon
 - *What date will you evaluate impact after launch?*
@@ -74,7 +75,12 @@
 
 ### Current Status
 
-- 10/2020: Project kickoff, starting research plan
+- As of 10/2020, we're going to focus on:
+   - Understanding what Veteran pain points are with the current applicaiton process (research and discovery)
+   - Updating the UI to meet VA.gov design & accessibility standards
+   - Adding a question distinguishing between mailing & residential addressses
+   - Updating any content around the health care application pages that may be a source of confusion
+   - Updating the questions on the online form to align with the new 10-10EZ
 
 ### Key Decisions
 
@@ -83,6 +89,8 @@
 ## Screenshots
 
 ### Before
+
+
 
 ### After
 
@@ -95,7 +103,7 @@
 - Team Name: 
 - GitHub Label: #vsa-caregiver 
 - Slack channel: #vsa-caregiver
-- Product POCs: Alayna, Ming, Danielle Thierry
+- Product POCs: Alayna, Ming, Danielle T
 - Stakeholders: Lauren A, Dione D-L,/ Andrea S
 
 </details>
@@ -116,6 +124,7 @@
 
 <details>
  
-VHA, DEPO
+- VHA, DEPO
+- Dione D-L,/ Andrea S
  
 </details>
