@@ -17,6 +17,7 @@ Additionally, the existing source for community care provider data - Provider Pr
 - PPMs is the data source we need to make this happen
 - PPMS has some technical issues we need to work through
 - Most Veterans using VAOS that are CC eligible discover they are CC eligible for the first time while using the app
+- Launch heavily dependent on technical solution for PPMS data taxonomy mapping to VHA healthcare taxonomy 
 
 ## Known unknowns:
 - Question: Should results be displayed based on drive time radius based on time, no miles?
