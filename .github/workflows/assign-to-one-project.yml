@@ -12,21 +12,22 @@ env:
 jobs:
   assign_one_project:
     runs-on: ubuntu-latest
-    name: Add issues to VSP Analytics & Insights - Customer Support project
+    name: Add issues to Github projects based on labels
     steps:
-    - name: Assign issues with `analytics-insights` label
+    - name: Add issues to VSP Analytics & Insights project
       uses: srggrs/assign-one-project-github-action@1.2.0
       if: |
-        github.event.action == 'opened' && 
-        contains(github.event.issue.labels.*.name, 'analytics-insights')
+        github.event.action == 'opened' &&
+        (contains(github.event.issue.labels.*.name, 'analytics-insights') ||
+        contains(github.event.issue.labels.*.name, 'analytics-request'))
       with:
         project: 'https://github.com/department-of-veterans-affairs/va.gov-team/projects/20'
         column_name: 'Backlog - New'
-    - name: Assign issues with `analytics-request` label
+    - name: Add issues with `documentation-support` label to VSP Documentation project
       uses: srggrs/assign-one-project-github-action@1.2.0
       if: |
         github.event.action == 'opened' && 
-        contains(github.event.issue.labels.*.name, 'analytics-request')
+        contains(github.event.issue.labels.*.name, 'documentation-support')
       with:
-        project: 'https://github.com/department-of-veterans-affairs/va.gov-team/projects/20'
-        column_name: 'Backlog - New'
+        project: 'https://github.com/department-of-veterans-affairs/va.gov-team/projects/16'
+        column_name: 'New'
