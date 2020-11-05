@@ -1,5 +1,4 @@
 # IRIS / Contact Center Research Findings Supplement 
-`DRAFT`
 
 **Digital Services Veterans Affairs (DSVA), VSA, Public Websites**
 
@@ -53,21 +52,6 @@ The [complete list of research questions](https://github.com/department-of-veter
 
    
 
-## Oracle Service Cloud and IRIS findings
-
-- The IRIS FAQs we sought to understand are part of a platform called Oracle Service Cloud (OSvC), which was first implemented at the VA 20 years ago.
-  - IRIS was launched in 2002 as an internal VA-hosted product, which they continued to do for a number of years.
-  - Right Now Technologies took over the system from the VA - first data migration.
-  - Oracle bought Right Now Technologies in 2011 - second data migration
-- Originally, IRIS FAQs were created from a team with members from the 4 business lines at the VA.
-- IRIS didn't have a single agency sponsor, so governance became a problem - nobody owned it.
-  - We were hopeful that we could identify the original content authors through data logs, but that isn't possible since what we see in the system today reflects mass-data migrations that took place when the system changed hands.  
-- The VA decided to retire OSvC and gave teams 30 days notice.  DMC and other contact centers raised red flags since the Ask-A-Question feature is critical to a Veteran's ability to submit inquiries to the VA. This is particularly critical for Veterans who aren't able to place a call to a contact center. The timeline to retire OScV has been extended; update as of 10/26/2020 is that data migration will take place in Q4 2021.
-- 6 IRIS workgroups were formed, containing contact center SMEs. 
-  - Workgroups were focused on inquiry response and creating/managing cases. 
-  - No workgroup was formed to address IRIS FAQs.
-  - The OSvC administrator hasn't been part of the workgroups.
-
 ## Contact center findings
 
 ### National Call Center (NCC)
@@ -78,15 +62,32 @@ The [complete list of research questions](https://github.com/department-of-veter
 
 ### Office of Community Care (OCC)
 
+- Team leverages a variety of authoring guides during their process, including voice and tone, 508 compliance, and a peer review checklist
+
+- Content team receives requests from 3 different areas of OCC: Community Care Contact Center (C4), Family Members (FM), and ChampVA
+
+  - They have designated contacts within C4 and FM who submit requests for content.  They rely on these content owners to tell them when things have changed in order to keep their content in sync with VA.gov.
+  - Those contacts act as liaisons to SMEs
+
+- The team heavily relies on what's on VA.gov for their articles.
+
+  > If you're giving me a resource I want to know the last date. We love that about the field guidebook and VA.gov - we can look in and see that it hasn't changed since that day.
+
 - Has moved away from the term "scripts" - Agents prefer FAQs
+
 - Has an upcoming initiative to re-do their taxonomy in the KM.
-- \- sometimes there is duplication. 
-   \- Cross team/cross-program governance is a problem.
-   \- Don’t have a good way for routing. Requests come in via email, IM, hallway conversations, etc.
-   \- Business owners want to put things in the KM that don’t belong there (e.g. IT info).
-- Heavy reliance on SMEs to verify content. Sometimes request contains contradictory information
-- many times have to go back for additional info because it doesn’t make sense, the flow isn’t right, or there is contradictory information.
--  lots of back and forth, waiting for approval. Timeliness is a problem. Sometimes requestor doesn’t have a response.
+
+- Painpoints:
+
+  - Cross team/cross-program governance is a problem.
+  - Don’t have a good way for routing. Requests come in via email, IM, hallway conversations, etc.
+  - Business owners want to put things in the KM that don’t belong there (e.g. IT info).
+
+- Heavy reliance on SMEs to verify content, and sometimes SMEs are unresponsive. 
+
+  - Many times have to go back for additional info because it doesn’t make sense, the flow isn’t right, or there is contradictory information.
+
+-  Lots of back and forth, waiting for approval. Timeliness is a problem. Sometimes requestor doesn’t have a response.
 
 ### Veteran Experience Office Tier 1 Contact Center (VEO)
 
@@ -174,6 +175,30 @@ This team wasn't familiar with IRIS or eGain.  They "use their own Sales Force v
   - suggested edit or change
   - last update
   - audience
+
+  
+
+## Oracle Service Cloud and IRIS findings
+
+- The IRIS FAQs we sought to understand are part of a platform called Oracle Service Cloud (OSvC), which was first implemented at the VA 20 years ago.
+
+  - IRIS was launched in 2002 as an internal VA-hosted product, which they continued to do for a number of years.
+  - Right Now Technologies took over the system from the VA - first data migration.
+  - Oracle bought Right Now Technologies in 2011 - second data migration
+
+- Originally, IRIS FAQs were created from a team with members from the 4 business lines at the VA.
+
+- IRIS didn't have a single agency sponsor, so governance became a problem - nobody owned it.
+
+  - We were hopeful that we could identify the original content authors through data logs, but that isn't possible since what we see in the system today reflects mass-data migrations that took place when the system changed hands.  
+
+- The VA decided to retire OSvC and gave teams 30 days notice.  DMC and other contact centers raised red flags since the Ask-A-Question feature is critical to a Veteran's ability to submit inquiries to the VA. This is particularly critical for Veterans who aren't able to place a call to a contact center. The timeline to retire OScV has been extended; update as of 10/26/2020 is that data migration will take place in Q4 2021.
+
+- 6 IRIS workgroups were formed, containing contact center SMEs. 
+
+  - Workgroups were focused on inquiry response and creating/managing cases. 
+  - No workgroup was formed to address IRIS FAQs.
+  - The OSvC administrator hasn't been part of the workgroups.
 
   
 
