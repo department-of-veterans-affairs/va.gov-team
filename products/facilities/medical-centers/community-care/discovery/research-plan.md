@@ -44,7 +44,27 @@ Qualitative research
 
 ## Participants and Recruitment
 
-- Needs recruiter update
+- A total of 10 participants will be interviewed:
+
+1.Lois Bowen, RN (lois.bowen@va.gov)
+
+2. Jonathan Sacks, RN (jonathan.sacks@va.gov)
+
+3. Angela Finch, AMSA (angela.finch@va.gov)
+
+4. Chadburn Campbell, AMSA (chadburn.campbell@va.gov)
+
+5. Tyson, Desiree N. (Portland) <Desiree.Tyson@va.gov>
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
 
 ### Participant Criteria:
 
