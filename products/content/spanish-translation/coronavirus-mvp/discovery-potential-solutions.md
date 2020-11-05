@@ -1,18 +1,24 @@
 
-# Potential solutions for localization
+# Potential solutions for localization management
 
 Below are descriptions of potential solutions recommended by colleagues at DEPO and USDS as well as the digital.gov multicultural community presentation.
 
-## Crowdin
+## [Crowdin](https://crowdin.com/)
 
 - Free for open source projects
 - Integrates well with GitHub
-- Provides a way to collaborate simultaneously with translators from one or more agencies on the same project (including voting on best translation option and tools to discuss translations, ask questions, mark irrelevant translations, and request more context). This could be particularly helpful if we have VHA's community of volunteers, as we could work with both them and professional translators on the same platform. Can find a translator find via Crowdin (or invite others to join project).
-- Provides automated quality assurance
-
+- Provides a way to collaborate simultaneously with translators from one or more agencies on the same project (including voting on best translation option and tools to discuss translations, ask questions, mark irrelevant translations, and request more context). This could be particularly helpful if we have VHA's community of volunteers + VBA's translation contract folks, as we could work with both them and our own professional translators on the same platform. We can also find a translator find via Crowdin (or invite others to join project).
+- Connects with the most popular machine translation engines (including Google Translate) so we can integrate machine translation + post-editing. Note that Google Translate does have support for Tagalog.
+  - Provides translation memory capabilities
+  - Provides automated quality assurance
+  - Allows us to provide contextual information and screenshots to translators for better quality
+  - Allows us to use a glossary to ensure correct, consistent terminology
+- Offers ability to automate source content updates for translations and make decisions about merging and publication
 - Provides option for in-context overlay that allows translators and proofreaders to work in the live application and instantly preview translations in context: https://support.crowdin.com/in-context-localization/
+- Offers real-time translation status and project activites, budget, and cost reports
 
-## Translations.com
+
+## [Translations.com](https://translations.com/)
 
 - Uses machine translation to speed up high-volume workloads, with human translators checking each step. Achieved full certification to the ISO 18587 standard for translation quality using artificial intelligence methods.
 - Instant website translator option (WorldLingo):
