@@ -1,8 +1,9 @@
-# Contact Center Research Findings Supplement 
+# IRIS / Contact Center Research Findings Supplement 
+`DRAFT`
 
-**Digital Services Veterans Affairs (DSVA), VSA, Public Websites**<br>
+**Digital Services Veterans Affairs (DSVA), VSA, Public Websites**
 
-Liz Lantz (liz.lantz@adhocteam.us), ADD DATE WHEN COMPLETE
+Liz Lantz (liz.lantz@adhocteam.us), November 2020
 
 View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/iris/contact-center-interviews-1-research-plan.md).
 
@@ -23,12 +24,12 @@ The primary goals for this research study were to:
 
 The preliminary round of research took place over Zoom. We conducted 1 hour remote interviews with teams at 6 contact centers:
 
-- Health Resource Center (HRC)
-- Veterans Experience Office Tier 1 Contact Center
-- National Cemetery Administration (NCA)
-- Office of Care Coordination (OCC)
 - Debt Management Center (DMC)
+- Health Resource Center (HRC)
+- National Cemetery Administration (NCA)
 - National Call Center (NCC)
+- Office of Care Coordination (OCC)
+- Veterans Experience Office Tier 1 Contact Center (VEO)
 
 We also interviewed the team lead for Oracle Service Cloud, the platform IRIS runs on.
 
@@ -46,12 +47,28 @@ The [complete list of research questions](https://github.com/department-of-veter
 
 4. Only IRIS administrators can publish or update IRIS content. 
 
-5. A new IRIS FAQs hasn't been added in at least 7 years, and a request to update an IRIS FAQ hasn't been submitted in at least 4 years (**need to check this timeline**).
+5. A new IRIS FAQs hasn't been added in at least 7 years, and a request to update an IRIS FAQ hasn't been submitted in at least 2 years.
+
+6. 1 team (HRC) has a mature content management process with formalized routing and feedback/publication loops.
 
    
 
+## Oracle Service Cloud and IRIS findings
 
-## Contact Center Details
+- The IRIS FAQs we sought to understand are part of a platform called Oracle Service Cloud (OSvC), which was first implemented at the VA 20 years ago.
+  - IRIS was launched in 2002 as an internal VA-hosted product, which they continued to do for a number of years.
+  - Right Now Technologies took over the system from the VA - first data migration.
+  - Oracle bought Right Now Technologies in 2011 - second data migration
+- Originally, IRIS FAQs were created from a team with members from the 4 business lines at the VA.
+- IRIS didn't have a single agency sponsor, so governance became a problem - nobody owned it.
+  - We were hopeful that we could identify the original content authors through data logs, but that isn't possible since what we see in the system today reflects mass-data migrations that took place when the system changed hands.  
+- The VA decided to retire OSvC and gave teams 30 days notice.  DMC and other contact centers raised red flags since the Ask-A-Question feature is critical to a Veteran's ability to submit inquiries to the VA. This is particularly critical for Veterans who aren't able to place a call to a contact center. The timeline to retire OScV has been extended; update as of 10/26/2020 is that data migration will take place in Q4 2021.
+- 6 IRIS workgroups were formed, containing contact center SMEs. 
+  - Workgroups were focused on inquiry response and creating/managing cases. 
+  - No workgroup was formed to address IRIS FAQs.
+  - The OSvC administrator hasn't been part of the workgroups.
+
+## Contact center findings
 
 ### National Call Center (NCC)
 
@@ -86,15 +103,42 @@ This team wasn't familiar with IRIS or eGain.  They "use their own Sales Force v
 
 ### Debt Management Center (DMC)
 
-- Doesn't have a dedicated content team
+- Has 2 divisions that work with content:
+
+  1. Veteran Experience Division (VED), focused on agent-facing customer service content (not accessible to the public).
+     - This team does not have access to Oracle Service Cloud, or IRIS.
+  2. Treasury, External Relations and Education Division, focused on external, public-facing content primarily targeted to Veteran Service Officers, School Certifying Officials, and Veterans.
+     - This team does have access to Oracle Service Cloud and IRIS, and logs in daily to respond to IRIS inquiries.
+     - They manage their own version of IRIS standard text in a Word document shared among the team. They call these "pattern paragraphs" and use them in email responses.
+     - This division would be the main entry point into DMC. We'd be the point of contact for the FAQS to validate that the answers are correct and coordinate the team to draft/edit content. Since they don't really have a formal process, division chief would approve and put it out there.
+
+- Neither of these divisions has a dedicated content team.
 
   > We truly don't have the resources to devote somebody to this type of work. It's collateral work for everybody that is doing it.
 
-- Team lead doesn't feel like there is a set process in place.
+- VED team lead doesn't feel like there is a set process in place.
 
   > As we talk about it, I'm feeling like we're fragmented when it comes to our content.
 
+- VED team works with members from the Internal Controls and Process Improvement Division, internally referred to as "Quality". 
+
+  - This team is involved in the review and publication process. 
+
+    > Our role has become trying to make sure that we give space for everyone to give some feedback, and make sure that all the interested parties know what is going on
+
+  - It doesn't give the final approval to publish content, but reviews proposed content to ensure consistency across content, and that there aren't any discrepancies, redundancies, misinformation, etc. 
+
+  - This team also manages DMC's Sharepoint instance and publishes content once it's approved by division chiefs.
+
 - Pain point: Inability to include attachments when responding to IRIS inquiries.
+
+- DMC is rolling out a new debt portal in early 2021 that replace va.gov/debtman.  Julie's team is helping with the content transition to the new debt portal. They are currently not sure how any content publication processes will work, or how if the content will stay in the format it is in today (e.g. they have FAQs on the site, and are unsure whether or not it'll stay in an FAQ format)
+
+- DMC is also in the process of implementing Veterans Account Management System (VAMS), which is a CRM based on Sales Force.  Some of the teams "pattern paragraphs" (used to standardized agent email responses, DMC equivalent of IRIS standard text) have been moved from a shared drive into a VAMS' called "S Docs".  Eventually all of the pattern paragraphs will live in VAMS within the S Docs feature.
+
+- DMC VED agents primaries provide phone support; the Treasury, External Relations and Education Division handles Ask-A-Question IRIS inquiries. 
+
+  - IRIS inquires that indicate the customer prefers a call back, or has missing email information will be routed to the VED team.
 
 ### National Cemetery Association (NCA)
 
@@ -114,8 +158,6 @@ This team wasn't familiar with IRIS or eGain.  They "use their own Sales Force v
 
 - Jay's team will act as a SME for training content other teams are going to create.
 
-### Oracle Service Cloud (IRIS)
-
 ### Health Resource Center (HRC)
 
 - Agents primary focus is to answer phones. They rotate email duty w/ phone duty every 4-6 weeks
@@ -132,6 +174,17 @@ This team wasn't familiar with IRIS or eGain.  They "use their own Sales Force v
   - suggested edit or change
   - last update
   - audience
+
+  
+
+## Education, Client Applications findings
+
+We interviewed Tammy Hurley, who manages the FAQs on gibill.custhelp.gov (GI Bill equivalent of IRIS), to gain insights into their content processes.
+
+- The content management process is intentionally informal and flexible. Tammy strives to maintain consistency while being flexible with the way different folks like to work.  Communication takes place primarily via email.
+- Stakeholder engagement team are "the people telling us how to communicate all the policy and procedures. They come up with a communications plan". Terry Warren worked with the DMC team to create GI Bill specific content related to debt; could be a good contact for R&S content.
+- This team doesn't leverage the workflow and analytics functionality in OSvC
+- Tammy has been working on moving the GI Bill FAQs into eGain. Once they're migrated over, she'll figure out who will manage and own that information within Education services. They still don't know who that person would be. 
 
 ## Recommendations
 
