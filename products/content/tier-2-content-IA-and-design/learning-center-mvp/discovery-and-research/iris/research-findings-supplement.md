@@ -82,12 +82,9 @@ The [complete list of research questions](https://github.com/department-of-veter
   - Cross team/cross-program governance is a problem.
   - Don’t have a good way for routing. Requests come in via email, IM, hallway conversations, etc.
   - Business owners want to put things in the KM that don’t belong there (e.g. IT info).
-
-- Heavy reliance on SMEs to verify content, and sometimes SMEs are unresponsive. 
-
+  - Heavy reliance on SMEs to verify content, and sometimes SMEs are unresponsive. 
   - Many times have to go back for additional info because it doesn’t make sense, the flow isn’t right, or there is contradictory information.
-
--  Lots of back and forth, waiting for approval. Timeliness is a problem. Sometimes requestor doesn’t have a response.
+  - Lots of back and forth, waiting for approval. Timeliness is a problem. Sometimes requestor doesn’t have a response.
 
 ### Veteran Experience Office Tier 1 Contact Center (VEO)
 
@@ -161,7 +158,11 @@ This team wasn't familiar with IRIS or eGain.  They "use their own Sales Force v
 
 ### Health Resource Center (HRC)
 
-- Agents primary focus is to answer phones. They rotate email duty w/ phone duty every 4-6 weeks
+- Agents primary focus is to answer phones. They rotate email duty w/ phone duty every 4-6 weeks.
+- This team has the most mature content management process of the contact centers we observed. 
+- They leverage the LEAF system to manage review, approval, and publication of contet.
+- The LEAF system has groups set up with specific individuals authorized to perform different actions in the content process. All members of the group are notified when that action takes place.
+- The Member Services, Knowledge Management team supports HRC content in the form of drafting, editing, publishing and auditing.
 
 - Fields/metadata observed in LEAF request:
 
@@ -228,4 +229,4 @@ Put together initial recommendations here based on your findings. Review with yo
 
 [Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/iris/preliminary%20interviews/notes)
 
-[Mural boards used for synthesis available in README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/iris/README.md)
+[Mural boards used for synthesis available in README](
