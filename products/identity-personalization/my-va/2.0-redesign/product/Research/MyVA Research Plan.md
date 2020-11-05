@@ -6,7 +6,7 @@ Prepared by Tressa Furner and Cassandra Allen, Ad Hoc & GCIO | November 2020
 The goal of this research is to understand what information/how much information needs to be elevated on the MyVA Dashboard 2.0 page. We also aim to understand which page structure (i.e. information hierarchy, update layout etc.) makes the most sense to Veterans. This includes:
 
 - can the user find the information that they are looking for effectively
-- does the page structure (scrolling vs navigation) effect ease of visibility
+- does the page structure (scrolling vs navigation) affect ease of visibility
 - can the user easily access and understand any personal updates (claims, healthcare, or forms)
 - how easily can the user navigate to the sections they are looking for
 - is the new dashboard layout more effective than the current MyVA page
