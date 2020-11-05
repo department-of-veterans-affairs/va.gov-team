@@ -23,7 +23,7 @@ Wizards | EDU | Staging | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335d
 Wizards | VRE | Usability prep | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12642 
 Wizards | Disability | Usability prep | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12248 
 Wizards | HLR | Usability prep | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/13398
-VAOS | VA appointments tool | ongoing content work
+VAOS | CC request flow | Kickoff held 11/5 | https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/15711
 
 
 
