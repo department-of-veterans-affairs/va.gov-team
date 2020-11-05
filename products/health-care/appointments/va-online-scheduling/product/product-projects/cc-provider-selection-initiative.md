@@ -14,13 +14,15 @@ Likewise, if Veteran's aren't doing this because the cumbersome in the app, the 
 Additionally, the existing source for community care provider data - Provider Profile Management System (contains the community care providers (PPMS) - has some limitations based on how it's structured and how it performs.
 
 ## Knowns:
-- 
+- PPMs is the data source we need to make this happen
+- PPMS has some technical issues we need to work through
+- Most Veterans using VAOS that are CC eligible discover they are CC eligible for the first time while using the app
 
 ## Known unknowns:
-- 
-
-## Unknown unknowns:
-- 
+- Question: Should results be displayed based on drive time radius based on time, no miles?
+- Question for stakeholders: do we limit results to the service-specific drive radius? (30 minutes for primary care, 60 minutes for 1 of the 5 specialty care services)
+- Question: Should a Veteran be able to enter an alternate address (other than the residential address on file) so Veteran can request appointment with Community Care provider in my current location?
+-  Question: Has the PACT requirement for community care been resolved with CCE API team/Dave M.?
 
 ## Desired Outcomes
 
@@ -45,18 +47,15 @@ Improve the provider selection experience while also improving the quality of da
 
 ---
 ## Measuring Success
+- Improve the community care provider selection experience as part of a Veteran's scheduling experience
+- Improve understanding of available community care providers (based on CCN) for Veteran's interested in community care
+- Decrease dropoff of Community Care requests in VAOS due to confusing and complicated provider information gathering
 
 ### Key Performance Indicators (KPIs)
+- adding in some potential baseline kpis soon
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
-
-### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
-
-- Objective:
-  - Key result: 
-  - Key result: 
 
 
 ---
