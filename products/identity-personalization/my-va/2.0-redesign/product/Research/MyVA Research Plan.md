@@ -16,9 +16,9 @@ The goal of this research is to understand what information/how much information
 The [My VA Dashboard 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md) effort aims to: 
 
 - Reduce redundancy
-- Elevate personally relevant information
+- Elevate personal information
 - Scale gracefully 
-- Prioritize wayfinding — We should make it easy for users to find the My VA dashboard.
+- Prioritize wayfinding
 - Effectively use visual space
 
 The goal of the My VA Dashboard 2.0 is to essentially surface a Veteran's personalized information so they can more easily navigate to sections like Claims or Healthcare. This is based of research from the [Personalization 2.0 discovery write-up (2019)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md) and [Logged-in homepage discovery write-up (Spring 2020)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/discovery-summary.md)
