@@ -44,9 +44,9 @@ Qualitative research
 
 ## Participants and Recruitment
 
-- A total of 10 participants will be interviewed:
+A total of 10 participants will be interviewed:
 
-1.Lois Bowen, RN (lois.bowen@va.gov)
+1. Lois Bowen, RN (lois.bowen@va.gov)
 
 2. Jonathan Sacks, RN (jonathan.sacks@va.gov)
 
