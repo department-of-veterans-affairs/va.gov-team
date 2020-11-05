@@ -31,6 +31,9 @@ To create a new automation edit [assign-to-one-project.yml](https://github.com/d
 - The indentation of `.yml` files is important, so make sure it matches exactly.
 - The column name is required, so if the column name is changed in the project then the action config will have to be updated to match.
 
+## Support
+
+For any questions please ask in [#github_information](https://dsva.slack.com/archives/C01CZKYSGE6) or [#github-management](https://dsva.slack.com/archives/C9E1DRVJ7).
 
 ## See also
 [Automate Github Projects - Analytics Team Pilot #15245](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15245)
