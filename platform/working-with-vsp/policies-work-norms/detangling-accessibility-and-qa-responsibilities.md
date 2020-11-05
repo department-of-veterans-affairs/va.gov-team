@@ -30,6 +30,10 @@ VFS teams are sometimes confused about what the DEPO Platform's standards are: w
 - [ ] Remove DEPO Platfrom personnel from the shared Support meeting
   - [ ] Inform all parties that questions about best practices should always go in the #vfs-platform-support channel
 - [ ] Do [DEPO Platform workflow evaluation](https://app.mural.co/t/vspproduct9990/m/vspproduct9990/1602273732125/413b2daecfe8e7bccdce52af12ecf518e1f5a695) and cut / adjust steps where possible so the workflow is more manageable
+- [ ] Extend staging review SLA to 4 days instead of 2
+  - [ ] Update collab cycle md file
+  - [ ] Update staging revie template
+  - [ ] Announce to VFS teams
 
 ### QA
 - [ ] Publish clear standards that the DEPO Platform will enforce
