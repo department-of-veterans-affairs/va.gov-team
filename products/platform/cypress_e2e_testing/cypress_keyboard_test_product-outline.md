@@ -61,7 +61,7 @@ _Link to the following materials as relevant._
 - Team Name: (VSP Testing Team)
 - GitHub Label: 
 - Slack channel: 
-- Product POCs:
+- Product POCs: Trevor Pierce, Noah Gelman
 
 </details>
 
