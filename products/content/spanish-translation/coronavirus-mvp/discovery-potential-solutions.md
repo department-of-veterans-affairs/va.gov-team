@@ -8,7 +8,7 @@ Below are descriptions of potential solutions recommended by colleagues at DEPO 
 - Free for open source projects
 - Integrates well with GitHub
 - Provides a way to collaborate simultaneously with translators from one or more agencies on the same project (including voting on best translation option and tools to discuss translations, ask questions, mark irrelevant translations, and request more context). This could be particularly helpful if we have VHA's community of volunteers + VBA's translation contract folks, as we could work with both them and our own professional translators on the same platform. We can also find a translator find via Crowdin (or invite others to join project).
-- Connects with the most popular machine translation engines (including Google Translate) so we can integrate machine translation + post-editing. Note that Google Translate does have support for Tagalog.
+- Connects with the most popular [machine translation engines](https://support.crowdin.com/configuring-machine-translation-engines/) so we can integrate machine translation + post-editing. Note that Google Translate supports Tagalog.  
   - Provides translation memory capabilities
   - Provides automated quality assurance
   - Allows us to provide contextual information and screenshots to translators for better quality
@@ -37,12 +37,13 @@ Below are descriptions of potential solutions recommended by colleagues at DEPO 
 ## Drupal multilingual modules
 
 - A .gov site content manager noted using and liking Drupal multilingual modules. This content manager noted that they use this for managing the translated content, but still use human translators for the actual translation. This may be a longer-term option, dependent on CMS team capacity. More information: https://www.drupal.org/docs/multilingual-guide
-- A 
+
 ## Prismic
 - Allows you to create re usable content and layouts and query documents via a headless API. example graphl query: 
 http://tiny.cc/0f71tz
 - https://user-guides.prismic.io/en/collections/22473-multi-language-localization
 - https://prismic.io/feature/localization-and-multilanguage
+
 ## SYSTRAN
 
 ## Clay Tablet
