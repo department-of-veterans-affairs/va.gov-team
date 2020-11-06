@@ -160,7 +160,7 @@ Day, November TBD | 9am - 8pm ET
 Day, November TBD | 9am - 8pm ET
 Day, November TBD | 9am - 8pm ET
 	
-Mobile and Desktop Pilot Sessions (2 total sessions, 1 mobile and 1 desktop): Day, November TBD | 9am - 4pm ET
+Mobile Pilot Sessions (1 total sessions, 2 mobile, A vs B): Day, November TBD | 9am - 4pm ET
 
 ## Team Roles
 * Moderator: Cassandra Allen & Tressa Furner (callen@governmentcio.com, tressa.furner@adhocteamus.com) 
