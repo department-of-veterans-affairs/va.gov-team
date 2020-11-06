@@ -126,7 +126,6 @@ The page **MUST** have meaningful headings to label each major section, which **
 </details>
 
 #### 5. Links and Navigation
-(See also Custom Widgets in Part 3 for dynamic menus (drop-down accordion, etc.)
 
 1. Links **MUST** have readable text. Be especially careful with links that contain only images (which need alt text) and background images/icon fonts (which need text via aria-label on the link or text within the link, hidden via CSS). | [WCAG 2.0 Level A - 4.1.2](https://www.wuhcag.com/name-role-value/), [WCAG 2.0 Level AAA - 2.4.9](https://www.wuhcag.com/link-purpose-link-only/)
 
