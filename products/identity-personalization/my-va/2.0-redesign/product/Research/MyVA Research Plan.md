@@ -61,7 +61,7 @@ We will conduct remote moderated usability testing via Zoom using the Perigean c
 Recruit for 12 fulfilled sessions (showing each user versions A & B) using the following criteria:
 
 ### Must have for participants
-* Either have VA healthcare or claims (pass = yes)
+* Either be signed up for VA healthcare or have active or past claims (pass = yes)
     * If healthcare or claims users are too difficult to recruit for, then expand to having used logged in to va.gov within the last year.
 
 ### Good to have for participants
