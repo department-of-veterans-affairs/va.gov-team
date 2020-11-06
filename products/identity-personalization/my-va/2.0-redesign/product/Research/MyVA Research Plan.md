@@ -1,4 +1,4 @@
-# Research Plan for VSA Authenticated Experience: MyVA Redesign
+# Research Plan for VSA Authenticated Experience: MyVA Redesign November 2020
 Prepared by Tressa Furner and Cassandra Allen, Ad Hoc & GCIO | November 2020
 
 ## Goals
@@ -102,4 +102,75 @@ Please list the people who will be serving in each role.
 - [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md)
 - [Conversation Guide]()
 - [Synthesis]()
+
+
+___________________________________________________________________________________________________________________________________________
+
+#Updated Version based on research plan template
+
+## Goals
+This research is to usability test two mobile versions of the My VA dashboard re-design and gain feedback on the preferred design direction (A vs. B).
+
+Background Our goal is to create a My VA dashboard design that will improve the online experience for Veterans, by better integrating Veteran-provided data onto the My VA dashboard. Our MVP will focus on surfacing their healthcare and claims information into widgets and notificaitons to help Veterans access their critical information and status updates.
+
+## Research questions
+* Do Veterans prefer design version A or B?
+* Is there any confusion caused by the status update styles in A vs B design?
+
+## Hypothesis & assumptions
+* Veterans will be able to successfully see and take action on their status updates as well as to get a quick scanable view of their key information without having to dig.
+* There will be minimal confusion created by the status updates in their healthcare, claims, and appeal sections on version B. However there will be more confusion on version A. This is because version B organizes status updates under each category and is more scan-able for the user using an accordion style design. While version A has all of the status updates at the top of the page and its less clear which status update is for which category and has a long scrolling page design.
+
+## Method
+We will conduct remote moderated usability testing via Zoom using the Perigean contract. This method will allow us to share a high-fidelity wireframe prototype (mobile and A & B versions) to confirm if our My VA dashboard design is easily usable by Veterans.
+
+## Participants and Recruitment
+Recruit for 12 fulfilled sessions (showing each user versions A & B) using the following criteria:
+
+# Must have for participants
+* Have you signed up for and used VA healthcare and claims in the last year? (pass = yes)
+    * If healthcare or claims users  are too difficult to recruit for, then expand to having used My VA within the last year.
+
+# Good to have for participants
+* At least one iOS mobile device owner
+* At least one Android mobile device owner
+* At least 1 woman
+* At least 1 person of color
+* At least 1 participant 35 or under and 1 participant over 55
+* At least one person that does not have a college degree (to include enlisted Vets)
+* At least one person that has a college degree (to include of officer Vets)
+* At least one person who lives in a rural or remote area
+* At least one person who lives in a major metropolitan area
+* At least one person with a disability rating of 70% or greater
+* At least one person with an identified cognitive consideration of PTSD or TBI
+# Recruitment requirements
+* All (half) must have a mobile device and be willing to be complete the test on said device
+* The participants have Zoom downloaded prior to the session
+* The participants know how to screen-share.
+This study requires participants to the healthcare, claims, appeals and disability , in order to click through a prototype. It will not be able to accommodate non-sighted users due to the prototype technology.
+
+## Timeline
+
+Desired Timeline: November TBD
+One hour sessions 
+Team Availability	Time (EST)
+Day, November TBD	9am - 8pm ET
+Day, November TBD	9am - 8pm ET
+Day, November TBD	9am - 8pm ET
+Mobile and Desktop Pilot Sessions (2 total sessions, 1 mobile and 1 desktop): Day, October 13 | 9am - 4pm ET
+
+## Team Roles
+* Moderator: Cassandra Allen & Tressa Furner (callen@governmentcio.com, tressa.furner@adhocteamus.com) 
+* Research guide writing and task development: Cassandra Allen, Tressa Furner
+* Participant recruiting & screening: Perigean
+* Project point of contact: Samara Strauss
+* Participant(s) for pilot test: TBD
+* Note-takers: Perigean
+* Observers: Matt Shea (matt.shea@adhocteam.us), Samara Strauss (Samara.Strauss@va.gov), Erik Hansen (erik@adhocteam.us), Lihan Li (lihan@adhocteam.us), Shawna Hein (shawna@adhocteam.us), Sandra Hallie (shallie@governmentcio.com), Ryan Thurlwell (ryan.thurlwell@va.gov)
+* 
+## Resources
+* [Project Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md)
+* Conversation Guide
+* Research Findings
+
 
