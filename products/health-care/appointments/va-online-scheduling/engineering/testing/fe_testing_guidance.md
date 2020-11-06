@@ -14,7 +14,7 @@
 
 ## What type of test should I write?
 
-Most of our tests should be tests that render a single page and test all the Redux and component logic associated with that page through React Testing Library. When we need to test the overall flow of the application through different pages and paths through the forms, we should use Cypress. There's a grey area here about how to test behavior that doesn't require going through the full flow, but interacts with more than one page. In cases like that, we should choose wherever is easier to write a reliable test. If there's plain JS logic we want to test separate from React component where it's used, we can write plain JS unit tests. We might want to do this for JS that is used in multiple components, or for logic that is difficult to cover all branches in a UI component test.
+Most of our tests should be tests that render a single page and test all the Redux and component logic associated with that page through React Testing Library. When we need to test the overall flow of the application through different pages and paths through the forms, we should use Cypress. There's a grey area here about how to test behavior that doesn't require going through the full flow, but interacts with more than one page. In cases like that, we should choose wherever is easier to write a reliable test. If there's plain JS logic we want to test separate from the React component where it's used, we can write plain JS unit tests. We might want to do this for JS that is used in multiple components, or for logic that is difficult to cover all branches in a UI component test.
 
 ## What types of things should I test?
 
