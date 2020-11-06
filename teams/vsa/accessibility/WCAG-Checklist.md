@@ -122,8 +122,7 @@ The page **MUST** have meaningful headings to label each major section, which **
 
 <details><summary>Review WCAG 2.4.6 example</summary>
 
-The image below will be replaced with a corrected version, with the 'dt' followed by a 'dd'. 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/resources/images/dodont-headers.png" alt="annotation of a webpage showing proper use of semantic headings and styling" width="70%" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/images/4a.png" alt="annotation of a webpage showing proper use of semantic headings and styling" width="70%" />
 
 </details>
 
