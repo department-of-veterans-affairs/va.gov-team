@@ -25,22 +25,26 @@ We'd like to know if the documentation is meeting your needs, and welcome your f
 - Slack channels: [#vetsgov-accessibility](https://dsva.slack.com/channels/vetsgov-accessibility)
 - Github labels: `508/Accessibility`
 
-#### VSA Accessibility Specialist Point of Contact
+#### VSA Accessibility Specialist Contacts
 - Jennifer Strickland, @Jennifer_S in Slack, @jenstrickland in Github, jennifer.strickland@adhocteam.us
+- Josh Kim, @Josh in Slack, @joshkimux in Github, josh.kim@adhocteam.us
 
 ### How does accessibility fit into our product lifecycle?
 
 #### Product
-* Define accessibility and performance budgets as business requirements from the start — and stick to them 
-* Meaningfully measure, monitor, and evaluate success goals, such as: call center volume, time on site, web performance metrics, accessibility  and Section 508 compliance
+* Define accessibility as a business requirement from the start
+* Train the team
+* Plan for inclusive research
+* Meaningfully measure, monitor, and evaluate success goals, including accessibility and Section 508 compliance
 
 #### Research
-* Define inclusive research strategies (good start reference)
-* Define goals, and strategies, for including people with disabilities (specific KPIs?)
+* Define inclusive research strategies ([review inclusive research guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/inclusive-research-recommendations.md))
+* Define goals and strategies for including people with disabilities (consider specific KPIs)
 
 #### Design
-* Define how we will cultivate cognitive empathy with marginalized populations across the project (economically and technology challenged individuals, people with disabilities)
-* Define criteria to evaluate the accessibility of designs, such as starting mobile-first, ensuring states, headings, focus management, behavior is documented and accessible
+* Define how to cultivate cognitive empathy with marginalized populations across the project (economically- and technology-challenged individuals, people with disabilities)
+* Interaction behavior is documented and accessible
+* Define criteria to evaluate the accessibility of designs, such as mobile-first, defining states, heading order, focus management
 
 #### Development
 * Establish e2e tests that include the axe checks
