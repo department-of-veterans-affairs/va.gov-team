@@ -201,26 +201,30 @@ Our goal is to create a My VA dashboard design that will improve the online expe
 ## Research questions
 - Do Veterans prefer design version A or B?
 - Is there any confusion caused by the status update styles in A vs B design?
-
 - Can people find what they're looking for on the dashboard?
 - Overall, is there enough relevant information on the dashboard to be valuable?
 - Does the placement of the disability rating make sense to users?
 - In the claims and healthcare sections, do users understand what is being displayed? Is it enough information?
 - What information is important for them to see first?
+- What information related to healthcare, claims and applications/benefits do users want to see?
+- Is any information missing on the dashboard?
+- Do users expect to see more information on a desktop view?
+- How do people think the new dashboard compares to the current MyVA?
+- What updates are most important to users?
+- Do people want to see all of their most recent updates?
+
+### A Design questions
+
 - Does the dashboard layout/structure feel intuitive?
 - Do people understand what the updates to their dashboard are?
-- Do users think the updates are valuable?
-- What updates are most important to users?
-- Which update structure do users prefer?
-- Do people want to see all of their most recent updates?
-- Do users want to see their upcoming appointments on the dashboard?
-- What information related to healthcare do users want to see?
-- What information related to claims do users want to see?
-- What information related to applications in progress/benefits do users want to see?
-- What information is missing on the dashboard?
-- Can people easily find what they are looking for without a navigation?
-- Do users expect to see more information on a desktop view?
-- How do people think the new dashboard compares to the current MyVA? 
+- Do users want to see updates grouped all together?
+
+### B Design questions
+- Does the dashboard layout/structure feel intuitive?
+- Do people understand what the updates to their dashboard are?
+- Do users want to see updates in each specific section?
+- Can people easily find what they are looking for with information collapsed in accordions?
+
 
 ## Hypothesis & assumptions
 * Version B will be more successful than version A.
@@ -233,14 +237,14 @@ Other assumptions include:
 - The new myVA dashboard layout will overall be intuitive and scan-able
 
 ## Method
-We will conduct remote moderated usability testing via Zoom using the Perigean contract. This method will allow us to share a high-fidelity wireframe prototype (mobile and A & B versions) to confirm if our My VA dashboard design is easily usable by Veterans.
+We will conduct remote moderated usability testing via Zoom using the Perigean contract. This method will allow us to share a high-fidelity wireframe prototype (mobile A & B versions).
 
 ## Participants and Recruitment
 Recruit for 12 fulfilled sessions (showing each user versions A & B) using the following criteria:
 
 ### Must have for participants
-* Have you signed up for and used VA healthcare and claims in the last year? (pass = yes)
-    * If healthcare or claims users  are too difficult to recruit for, then expand to having used My VA within the last year.
+* Either have VA healthcare or claims (pass = yes)
+    * If healthcare or claims users are too difficult to recruit for, then expand to having used logged in to va.gov within the last year.
 
 ### Good to have for participants
 * At least one iOS mobile device owner
@@ -256,10 +260,11 @@ Recruit for 12 fulfilled sessions (showing each user versions A & B) using the f
 * At least one person with an identified cognitive consideration of PTSD or TBI
 
 ### Recruitment requirements
-* All (half) must have a mobile device and be willing to be complete the test on said device
+* Half must have a mobile device and be willing to be complete the test on said device
 * The participants have Zoom downloaded prior to the session
 * The participants know how to screen-share.
-This study requires participants to the healthcare, claims, appeals and disability , in order to click through a prototype. It will not be able to accommodate non-sighted users due to the prototype technology.
+
+We will not be able to accommodate non-sighted users due to the prototype technology.
 
 ## Timeline 	
 #### Desired Timeline: November TBD, 2020 
