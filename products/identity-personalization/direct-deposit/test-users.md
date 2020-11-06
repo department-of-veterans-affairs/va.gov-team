@@ -1,4 +1,4 @@
-# Direct deposit test users
+# Direct deposit test users for comp & pen
 
 ### Test cases for viewing payment information
 
