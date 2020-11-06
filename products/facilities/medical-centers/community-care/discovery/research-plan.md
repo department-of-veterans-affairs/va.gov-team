@@ -62,9 +62,9 @@ A total of 10 participants will be interviewed:
 
 8. Kansas City: Doris.Mack@va.gov
 
-9.    
+9. TBD
 
-10.    
+10. TBD
 
 ### Participant Criteria:
 
