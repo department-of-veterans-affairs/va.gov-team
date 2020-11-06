@@ -152,8 +152,8 @@ This study requires participants to the healthcare, claims, appeals and disabili
 
 ## Timeline
 
-Desired Timeline: November TBD
-Team Availability
+Desired Timeline: November TBD, 
+Team Availability,
 One hour sessions
 
 Day, November TBD | 9am - 8pm ET
