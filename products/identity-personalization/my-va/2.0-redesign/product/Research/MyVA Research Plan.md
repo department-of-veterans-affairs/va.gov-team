@@ -151,7 +151,7 @@ Recruit for 12 fulfilled sessions (showing each user versions A & B) using the f
 This study requires participants to the healthcare, claims, appeals and disability , in order to click through a prototype. It will not be able to accommodate non-sighted users due to the prototype technology.
 
 ## Timeline 	
-#### Desired Timeline: October 13-19, 2020 
+#### Desired Timeline: November TBD, 2020 
 One hour sessions<br/>
 
 Team Availability | Time (EST)
