@@ -153,11 +153,15 @@ This study requires participants to the healthcare, claims, appeals and disabili
 ## Timeline
 
 Desired Timeline: November TBD
-One hour sessions 
-Team Availability	Time (EST)
-Day, November TBD	9am - 8pm ET
-Day, November TBD	9am - 8pm ET
-Day, November TBD	9am - 8pm ET
+Team Availability
+One hour sessions
+
+Day, November TBD | 9am - 8pm ET
+-----|-------
+Day, November TBD | 9am - 8pm ET
+-----|-------
+Day, November TBD | 9am - 8pm ET
+	
 Mobile and Desktop Pilot Sessions (2 total sessions, 1 mobile and 1 desktop): Day, October 13 | 9am - 4pm ET
 
 ## Team Roles
