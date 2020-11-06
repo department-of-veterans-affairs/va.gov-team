@@ -15,7 +15,7 @@
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-* VFS Teams use the Keyboar Tests, based on a search for the use of helpers
+* VFS Teams use the keyboard tests, based on a search for the use of helpers
 * Tests are not breaking, based on number of support requests received
 
 ---
