@@ -3,9 +3,11 @@
 
 ### What's the purpose of the Form Confirmation page?
 
-The Form Confirmation page gives users information about what they can expect after they submit an online application. This page also provides users a summary of the benefit they applied for, a confirmation number, and the date they submitted their claim. 
+The form confirmation page gives users information about what they can expect after they submit an online application. This page also provides users a summary of the benefit they applied for, a confirmation number, and the date they submitted their claim. 
 
 Our current confirmation pages vary in format and content. Below are some of the default components on our current confirmation pages. Teams should tailor the layout and content as needed based on the benefit type and/or stakeholder feedback. 
+
+------------
 
 In general the confirmation page should include the following elements: 
 
@@ -14,7 +16,7 @@ In general the confirmation page should include the following elements:
 1. The H1 for this page should carry over from H1 for the online form. <br>
 File for [benefit] or Apply for [benefit] and the VA paper form equivalency appears next to or below the H1.<br> 
    
-# File for disability compensation (Form 21-526EZ)
+## File for disability compensation (Form 21-526EZ)
 
 2. After the H1 there should be a line of content letting users know that they successfully submitted their application. <br>
   
