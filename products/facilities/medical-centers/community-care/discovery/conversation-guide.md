@@ -34,8 +34,6 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 
 - Aside from scheduling, what other roles do you perform as Community Care manager?
 
-- What other roles do Community Care managers perform as part of the job? 
-
 ## Scenario - Walk-through Demo
 
 - I am a Veteran with a referral to an Audiology care provider.
