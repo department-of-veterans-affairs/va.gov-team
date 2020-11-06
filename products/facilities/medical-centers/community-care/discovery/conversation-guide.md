@@ -41,8 +41,8 @@ So what I would like to do now, if it is ok, is provide you with a scheduling sc
 - I am a Veteran with a referral to an Audiology care provider.
    - I have a preferred care provider in hand, and am requesting an appointment.
    - <b>Can you walk me through the scheduling process?</b>
-   
-- What if I, as a Veteran, do not have a preferred care provider in hand?
+
+Thank you! In the same scenario, is there anything different in the scheduling process if I do not have a preferred care provider in hand?
 
 --------------
 [The questions below are to cover anything not answered in the demo.]
