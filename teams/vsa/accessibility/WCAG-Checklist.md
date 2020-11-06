@@ -130,51 +130,51 @@ The page **MUST** have meaningful headings to label each major section, which **
 
 1. Links **MUST** have readable text. Be especially careful with links that contain only images (which need alt text) and background images/icon fonts (which need text via aria-label on the link or text within the link, hidden via CSS). | [WCAG 2.0 Level A - 4.1.2](https://www.wuhcag.com/name-role-value/), [WCAG 2.0 Level AAA - 2.4.9](https://www.wuhcag.com/link-purpose-link-only/)
 
-<details><summary>Review example of links with readable text</summary>
+      <details><summary>Review example of links with readable text</summary>
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/images/5a.png" alt="examples of good and bad use of link labelling, showing a bad example of map zoom controls only showing plus and negative signs versus a good example with the linked words zoom in and zoom out paired with the icons" width="70%" />
+      <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/images/5a.png" alt="examples of good and bad use of link labelling, showing a bad example of map zoom controls only showing plus and negative signs versus a good example with the linked words zoom in and zoom out paired with the icons" width="70%" />
 
-</details>
+      </details>
 
 2. The link text **MUST** make sense in context, and should make sense when taken out of context (problematic phrases include: “click here,” “learn more,” “more,” “read more,” etc.).	| [WCAG 2.0 Level AAA - 2.4.9](https://www.wuhcag.com/link-purpose-link-only/), [WCAG 2.0 Level A - 2.4.4](https://www.wuhcag.com/link-purpose-in-context/)
 
-<details><summary>Review example of link text context</summary>
+      <details><summary>Review example of link text context</summary>
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/images/5b.png" alt="bad examples include links with only apply online, download now, or descargar ahora, versus good examples with more specific text such as apply online for VA health care, Download VA form 10-10EZ (PDF), and Descargar formulario 10-10EZ (PDF)" width="70%" />
+      <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/images/5b.png" alt="bad examples include links with only apply online, download now, or descargar ahora, versus good examples with more specific text such as apply online for VA health care, Download VA form 10-10EZ (PDF), and Descargar formulario 10-10EZ (PDF)" width="70%" />
 
-</details>
+      </details>
 
 3. Linked content **MUST** be grouped in a single link where appropriate. For example: an icon and its adjacent text **MUST NOT** be two separate links if they go to the same location. | [WCAG 2.0 Level AA - 3.2.4](https://www.wuhcag.com/consistent-identification/)
 
-<details><summary>Review example of grouped link content</summary>
+      <details><summary>Review example of grouped link content</summary>
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/images/5c.png" alt="" width="70%" />
+      <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/images/5c.png" alt="" width="70%" />
 
-</details>
+      </details>
 
 4. Navigation features (e.g. main menu) **MUST** be placed in a consistent location across pages. | [WCAG 2.0 Level AA - 3.2.3](https://www.wuhcag.com/consistent-navigation/)
 
-<details><summary>Review example of consistent navigation location</summary>
+      <details><summary>Review example of consistent navigation location</summary>
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/images/5d.png" alt="" width="70%" />
+      <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/images/5d.png" alt="example showing breadcrumb link placed in different places" width="70%" />
 
-</details>
+      </details>
 
 5. Navigation features **MUST** be identified in a consistent way across pages. | [WCAG 2.0 Level AA - 3.2.4](https://www.wuhcag.com/consistent-identification/)
 
-<details><summary>Review example of consistent navigation identification</summary>
+      <details><summary>Review example of consistent navigation identification</summary>
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/images/5e.png" alt="" width="70%" />
+      <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/images/5e.png" alt="examples of labelling navigation, in the good example the same labels are used, and in the bad example different words and styling are used for the same functionality" width="70%" />
 
-</details>
+      </details>
 
 6. A “skip navigation” or “skip to main content” **MUST** be provided as the first link in the design, to allow sighted keyboard users to quickly arrive at the main content (Note: the link can be invisible until the user tabs to it, but it **MUST** remain invisible when it receives keyboard focus). | [WCAG 2.0 Level AA - 2.4.5](https://www.wuhcag.com/multiple-ways/)
 
-<details><summary>Review example of skip content link</summary>
+      <details><summary>Review example of skip content link</summary>
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/images/5f.png" alt="" width="70%" />
+      <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/images/5f.png" alt="example of the skip to content link displayed with a focus outline" width="70%" />
 
-</details>
+      </details>
 
 #### F. Tables	
 
