@@ -180,7 +180,7 @@ Mobile Pilot Sessions (1 total sessions, 2 mobile, A vs B): Day, November TBD | 
 
 ___________________________________________________________________________________________________________________________________________
 
-# Updated version based on research plan template
+# Updated version based on research plan template (v2)
 
 ## Goals
 This research is to usability test two mobile versions of the My VA dashboard re-design and gain feedback on the preferred design direction (A vs. B). This includes:
@@ -228,8 +228,7 @@ This is because version B organizes status updates under each category and is mo
 
 Other assumptions include:
 
-- Overall users might be confused about update structure
-- Participants will be able to address surfaced updates easily
+- Overall users will be able to see and understand the update section
 - People will want to see more detailed personalized information than what is shown (i.e. upcoming appointments)
 - The new myVA dashboard layout will overall be intuitive and scan-able
 
