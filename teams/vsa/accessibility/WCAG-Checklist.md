@@ -94,7 +94,8 @@ This checklist evolved from the [Deque WCAG 2.0 Checklist](https://www.jenstrick
 
 ### Semantic Structure
   
-#### 1. Page title	
+#### A. Page title
+
 The page **MUST** have a meaningful title (e.g. About us), even when included via iframe. | [WCAG 2.0 Level A - 2.4.2](https://www.wuhcag.com/page-titled/)
 
 Specifically:
@@ -103,19 +104,19 @@ Specifically:
 * Single-page applications and AJAX scripts **MUST** update the title when the URL changes or, when the page content changes significantly.
 
 
-#### 2. Language	
+#### B. Language	
 
 1. The page **MUST** specify the language (`<html lang="en">`). | [WCAG 2.0 Level A - 3.1.1](https://www.wuhcag.com/language-of-page/)
 
 2. Changes in the language within the page **MUST** be specified (e.g. `<span lang="es">Hola</span>`). | [WCAG 2.0 Level AA - 3.1.2](https://www.wuhcag.com/language-of-parts/)
 
 
-#### 3. Landmarks	
+#### C. Landmarks	
 
 Pages **MUST** have accurate, logical landmark structure (e.g. `<header>`, `<nav>`, `<main>`, `<aside>`, `<footer>`), so screen reader users can navigate by landmark, and all content **MUST** be inside a landmark. | [WCAG 2.0 Level AA - 2.4.6](https://www.wuhcag.com/headings-and-labels/)
 
 
-#### 4. Headings	
+#### D. Headings	
 
 The page **MUST** have meaningful headings to label each major section, which **MUST** start with `<h1>` (at the beginning of the main content, or at the beginning of every section of aggregated content, or at the beginning of modal dialogs), and **MUST NOT** skip heading levels, to allow screen reader users to navigate the tree structure of the heading hierarchy. | [WCAG 2.0 Level AA - 2.4.6](https://www.wuhcag.com/headings-and-labels/)
 
@@ -125,7 +126,7 @@ The page **MUST** have meaningful headings to label each major section, which **
 
 </details>
 
-#### 5. Links and Navigation
+#### E. Links and Navigation
 
 1. Links **MUST** have readable text. Be especially careful with links that contain only images (which need alt text) and background images/icon fonts (which need text via aria-label on the link or text within the link, hidden via CSS). | [WCAG 2.0 Level A - 4.1.2](https://www.wuhcag.com/name-role-value/), [WCAG 2.0 Level AAA - 2.4.9](https://www.wuhcag.com/link-purpose-link-only/)
 
@@ -175,9 +176,9 @@ The page **MUST** have meaningful headings to label each major section, which **
 
 </details>
 
-#### 6. Tables	
+#### F. Tables	
 
-a. Header cells `<th>` **MUST** be associated with their respective data cells (via scope or headers + id). [WCAG 1.3.1](https://www.wuhcag.com/info-and-relationships/)
+1. Header cells `<th>` **MUST** be associated with their respective data cells (via scope or headers + id). [WCAG 1.3.1](https://www.wuhcag.com/info-and-relationships/)
 
 <details><summary>Review WCAG 1.3.1 example</summary>
 
@@ -220,21 +221,19 @@ a. Header cells `<th>` **MUST** be associated with their respective data cells (
 ```
 </details>
 
-b. Tables **MUST** have an accessible name (e.g. `<caption>`, aria-label, or aria-labelledby).[4.1.2](https://www.wuhcag.com/name-role-value/)
+2. Tables **MUST** have an accessible name (e.g. `<caption>`, aria-label, or aria-labelledby).[4.1.2](https://www.wuhcag.com/name-role-value/)
 
 
 
-c. Layout tables (no header/data associations) **MUST NOT** contain `<th>` or other header markup.	[WCAG 1.3.1](https://www.wuhcag.com/info-and-relationships/)
+3. Layout tables (no header/data associations) **MUST NOT** contain `<th>` or other header markup.	[WCAG 1.3.1](https://www.wuhcag.com/info-and-relationships/)
 
 
-#### 7. Lists	
+#### G. Lists	
 
-<ol type="a">
-   <li>Lists <strong>**MUST**</strong> be marked up appropriately according to the semantics of the list (e.g. &lt;ul&gt;, &lt;ol&gt;, &lt;dl&gt;`). <a href="https://www.wuhcag.com/info-and-relationships/">WCAG 1.3.1</a></li>
-</ol>
+Lists **MUST** be marked up appropriately according to the semantics of the list (e.g. `<ul>`, `<ol>`, `<dl>`). | [WCAG 2.0 Level A - 1.3.1](https://www.wuhcag.com/info-and-relationships/)
 
 
-#### 8. iframes	
+#### H. iframes	
 
 <ol type="a">
    <li>Frame title attribute <strong>**MUST**</strong> be specified (&lt;iframe title="Video about..."`). <a href="https://www.wuhcag.com/name-role-value/">WCAG 4.1.2</a></li>
@@ -243,7 +242,7 @@ c. Layout tables (no header/data associations) **MUST NOT** contain `<th>` or ot
 </ol>
 
 
-#### 9. Form Markup
+#### I. Form Markup
 (See also Form Validation and Feedback in Part 3)	
 
 <ol type="a">
@@ -254,7 +253,7 @@ c. Layout tables (no header/data associations) **MUST NOT** contain `<th>` or ot
 </ol>
 
 
-#### 10. Parsing and Validity	
+#### J. Parsing and Validity	
 
 <ol type="a">
    <li>The page <strong>**MUST**</strong> NOT contain duplicate IDs because accessibility features frequently reference IDs. <a href="https://www.wuhcag.com/parsing/">WCAG 4.1.1</a></li>
