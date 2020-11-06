@@ -91,34 +91,32 @@ This checklist evolved from the [Deque WCAG 2.0 Checklist](https://www.jenstrick
   6. Refers to the information published by the W3C task force on cognitive disabilities https://www.w3.org/TR/coga-user-research/ 
 </details>
 
-### Semantic Structure
 
+### Semantic Structure
   
 #### 1. Page title	
-The page <strong>&#42;&#42;MUST&#42;&#42;</strong> have a meaningful title (e.g. About us), even when included via iframe. [WCAG 2.4.2](https://www.wuhcag.com/page-titled/)
+The page **MUST** have a meaningful title (e.g. About us), even when included via iframe. | [WCAG 2.0 Level A - 2.4.2](https://www.wuhcag.com/page-titled/)
+Examples:
+* Unique information **MUST** go first (e.g. “WCAG Checklist”).
+* Result pages **MUST** describe the result (e.g. “Error on form” or “Search results loaded”).
+* Single-page applications and AJAX scripts **MUST** update the title when the URL changes or, when the page content changes significantly.
 
-<ol type="a">
-   <li>Unique information <strong>**MUST**</strong> go first (e.g. “WCAG Checklist”).</li>
-   <li>Result pages <strong>**MUST**</strong> describe the result (e.g. “Error on form” or “Search results loaded”).</li>
-   <li>Single-page applications and AJAX scripts <strong>**MUST**</strong> update the title when the URL changes or, when the page content changes significantly.</li>
-</ol>
 
 #### 2. Language	
 
-<ol type="a">
-   <li>The page <strong>**MUST**</strong> specify the language (&lt;html lang="en"&gt;). <a href="https://www.wuhcag.com/language-of-page/">WCAG 3.1.1</a></li>
-   <li>Changes in the language within the page <strong>**MUST**</strong> be specified (e.g. &lt;span lang="es"&gt;Hola&lt;/span&gt;).	<a href="https://www.wuhcag.com/language-of-parts/">WCAG 3.1.2</a></li>
-</ol>
+1. The page **MUST** specify the language (`<html lang="en">`). | [WCAG 2.0 Level A - 3.1.1](https://www.wuhcag.com/language-of-page/)
+
+2. Changes in the language within the page **MUST** be specified (e.g. `<span lang="es">Hola</span>`). | [WCAG 2.0 Level AA - 3.1.2](https://www.wuhcag.com/language-of-parts/)
+
 
 #### 3. Landmarks	
 
-<ol type="a">
-   <li>Pages <strong>**MUST**</strong> have accurate, logical landmark structure (e.g. &lt;header&gt;, &lt;nav&gt;, &lt;main&gt;, &lt;aside&gt;, &lt;footer&gt;), so screen reader users can navigate by landmark, and all content <strong>**MUST**</strong> be inside a landmark. <a href="https://www.wuhcag.com/headings-and-labels/">WCAG 2.4.6</a></li>
-</ol>
+Pages **MUST** have accurate, logical landmark structure (e.g. `<header>`, `<nav>`, `<main>`, `<aside>`, `<footer>`), so screen reader users can navigate by landmark, and all content **MUST** be inside a landmark. | [WCAG 2.0 Level AA - 2.4.6](https://www.wuhcag.com/headings-and-labels/)
+
 
 #### 4. Headings	
 
-The page **MUST** have meaningful headings to label each major section, which **MUST** start with `<h1>` (at the beginning of the main content, or at the beginning of every section of aggregated content, or at the beginning of modal dialogs), and **MUST NOT** skip heading levels, to allow screen reader users to navigate the tree structure of the heading hierarchy. [WCAG 2.4.6](https://www.wuhcag.com/headings-and-labels/)
+The page **MUST** have meaningful headings to label each major section, which **MUST** start with `<h1>` (at the beginning of the main content, or at the beginning of every section of aggregated content, or at the beginning of modal dialogs), and **MUST NOT** skip heading levels, to allow screen reader users to navigate the tree structure of the heading hierarchy. | [WCAG 2.0 Level AA - 2.4.6](https://www.wuhcag.com/headings-and-labels/)
 
 <details><summary>Review WCAG 2.4.6 example</summary>
 
@@ -129,14 +127,18 @@ The page **MUST** have meaningful headings to label each major section, which **
 #### 5. Links and Navigation
 (See also Custom Widgets in Part 3 for dynamic menus (drop-down accordion, etc.)
 
-<ol type="a">
-   <li>Links <strong>**MUST**</strong> have readable text. Be especially careful with links that contain only images (which need alt text) and background images/icon fonts (which need text via aria-label on the link or text within the link, hidden via CSS).	<a href="https://www.wuhcag.com/name-role-value/">WCAG 4.1.2</a>, <a href="https://www.wuhcag.com/link-purpose-link-only/">2.4.9</a></li>
-   <li>The link text <strong>**MUST**</strong> make sense in context, and should make sense when taken out of context (problematic phrases include: “click here,” “learn more,” “more,” “read more,” etc.).	<a href="https://www.wuhcag.com/link-purpose-link-only/">WCAG 2.4.9</a>, <a href="https://www.wuhcag.com/link-purpose-in-context/">WCAG 2.4.4</a></li>
-   <li>_[Provide code example here]_ Linked content <strong>**MUST**</strong> be grouped in a single link where appropriate. For example: an icon and its adjacent text **MUST NOT** be two separate links if they go to the same location.	<a href="https://www.wuhcag.com/consistent-identification/">WCAG 3.2.4</a></li>
-   <li>Navigation features (e.g. main menu) <strong>**MUST**</strong> be placed in a consistent location across pages.	<a href="https://www.wuhcag.com/consistent-navigation/">WCAG 3.2.3</a></li>
-   <li>Navigation features <strong>**MUST**</strong> be identified in a consistent way across pages.	<a href="https://www.wuhcag.com/consistent-identification/">WCAG 3.2.4</a></li>
-   <li>A “skip navigation” or “skip to main content” <strong>**MUST**</strong> be provided as the first link in the design, to allow sighted keyboard users to quickly arrive at the main content (Note: the link can be invisible until the user tabs to it, but it <strong>**MUST**</strong> remain invisible when it receives keyboard focus).	<a href="https://www.wuhcag.com/multiple-ways/">WCAG 2.4.5</a></li>
-</ol>
+1. Links **MUST** have readable text. Be especially careful with links that contain only images (which need alt text) and background images/icon fonts (which need text via aria-label on the link or text within the link, hidden via CSS). |	[WCAG 2.0 Level A - 4.1.2](https://www.wuhcag.com/name-role-value/), [WCAG 2.0 Level AAA - 2.4.9](https://www.wuhcag.com/link-purpose-link-only/)
+
+2. The link text <strong>**MUST**</strong> make sense in context, and should make sense when taken out of context (problematic phrases include: “click here,” “learn more,” “more,” “read more,” etc.).	<a href="https://www.wuhcag.com/link-purpose-link-only/">WCAG 2.4.9</a>, <a href="https://www.wuhcag.com/link-purpose-in-context/">WCAG 2.4.4</a></li>
+
+3. _[Provide code example here]_ Linked content <strong>**MUST**</strong> be grouped in a single link where appropriate. For example: an icon and its adjacent text **MUST NOT** be two separate links if they go to the same location.	<a href="https://www.wuhcag.com/consistent-identification/">WCAG 3.2.4</a></li>
+
+4. Navigation features (e.g. main menu) <strong>**MUST**</strong> be placed in a consistent location across pages.	<a href="https://www.wuhcag.com/consistent-navigation/">WCAG 3.2.3</a></li>
+
+5. Navigation features <strong>**MUST**</strong> be identified in a consistent way across pages.	<a href="https://www.wuhcag.com/consistent-identification/">WCAG 3.2.4</a></li>
+
+6. A “skip navigation” or “skip to main content” <strong>**MUST**</strong> be provided as the first link in the design, to allow sighted keyboard users to quickly arrive at the main content (Note: the link can be invisible until the user tabs to it, but it <strong>**MUST**</strong> remain invisible when it receives keyboard focus).	<a href="https://www.wuhcag.com/multiple-ways/">WCAG 2.4.5</a>
+
 
 #### 6. Tables	
 
