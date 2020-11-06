@@ -5,6 +5,18 @@
  -  LC go-to-market strategy: how will users find the Learning Center?
 </details>
 
+## Tuesday November 10
+
+### Agenda
+
+1. Checklist template https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15915
+1. Review [backlog](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1975)
+
+### Action items
+
+1. 
+
+
 ## Tuesday November 3
 
 ### Agenda
