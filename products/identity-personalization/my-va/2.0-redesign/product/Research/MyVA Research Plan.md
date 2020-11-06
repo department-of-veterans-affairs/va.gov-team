@@ -58,7 +58,7 @@ The goal of the My VA Dashboard 2.0 is to essentially surface a Veteran's person
 
 - We will use Zoom to conduct remote moderated usability testing sessions.  We will be using primarily mobile views in InVision.
 
-## Participants and Recruitment
+### Participants and Recruitment
 
 We will work with Perigean to reach our goal of observing 8-10 participants.
 
@@ -128,11 +128,11 @@ We will conduct remote moderated usability testing via Zoom using the Perigean c
 ## Participants and Recruitment
 Recruit for 12 fulfilled sessions (showing each user versions A & B) using the following criteria:
 
-# Must have for participants
+### Must have for participants
 * Have you signed up for and used VA healthcare and claims in the last year? (pass = yes)
     * If healthcare or claims users  are too difficult to recruit for, then expand to having used My VA within the last year.
 
-# Good to have for participants
+### Good to have for participants
 * At least one iOS mobile device owner
 * At least one Android mobile device owner
 * At least 1 woman
@@ -144,7 +144,7 @@ Recruit for 12 fulfilled sessions (showing each user versions A & B) using the f
 * At least one person who lives in a major metropolitan area
 * At least one person with a disability rating of 70% or greater
 * At least one person with an identified cognitive consideration of PTSD or TBI
-# Recruitment requirements
+### Recruitment requirements
 * All (half) must have a mobile device and be willing to be complete the test on said device
 * The participants have Zoom downloaded prior to the session
 * The participants know how to screen-share.
