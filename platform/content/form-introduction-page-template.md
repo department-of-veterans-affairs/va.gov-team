@@ -25,11 +25,11 @@ https://www.va.gov/health-care/apply/application/introduction
 
 ## Sample Template
 
-## File for [name of benefit]** or **Apply for [name of benefit]** <br>
+## File for [name of benefit] or ## Apply for [name of benefit] <br>
 VA paper form equivalency statement appears under this H1.
 
 For example: 
-H1:**File for disability compensation**<br>
+H1: **File for disability compensation**<br>
 Equal to VA Form 21-526EZ (Application for Disability Compensation and Related Compensation Benefits).
 
 ## **Sign-in message** (blue informational alert box)
