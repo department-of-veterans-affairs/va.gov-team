@@ -95,7 +95,7 @@ VSA has additional collaboration and review options to support teams in ensuring
 
 See [VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md) official checkpoints for medium-to-large projects.
 
-Throughout the design work, communicate and collaborate with the VSA accessibility specialist to ensure designs and plans are inclusive and accessible.
+Designers are encouraged to collaborate with the VSA accessibility specialist throughout the design work to ensure designs and plans are inclusive and accessible. Feel free to tag them in your team's Slack channel, Github issues and PRs, or DM for guidance. Teams are also encouraged to request design collaboration reviews. These may happen asynchronously or in a scheduled meeting.
 
 **[>> Request a design collaboration review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=vsa_request_dev_review.md&title=Request+a+VSA+dev+intent+or+spot+check+review+for+ENTER_PRODUCT_NAME)** 
 
