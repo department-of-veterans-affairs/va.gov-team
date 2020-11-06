@@ -56,11 +56,11 @@ A total of 10 participants will be interviewed:
 
 5. Tyson, Desiree N. (Portland) <Desiree.Tyson@va.gov>
 
-6. 
+6. STL: Paula.Swope@va.gov
 
-7. 
+7. MRN: Laura.Gilmore2@va.gov
 
-8. 
+8. Kansas City: Doris.Mack@va.gov
 
 9. 
 
