@@ -56,7 +56,7 @@ Generally, we want to test components in the context a user is using them, which
 ## Browser (e2e) test notes
 
 - Browser tests on the va.gov platform (called e2e tests) are tests that are run in a real browser, with a mock backend
-- We have both Nightwatch and Cypress available to write these tests, we should move to Cypress as we have time
+- We use Cypress to write these tests, though there are legacy Nightwatch tests elsewhere on va.gov
 - Our Cypress tests should cover the major paths through the application and fail if a user gets stuck.
 - Any routing related logic should be covered in browser tests (i.e. redirects, path logic, etc)
 - In an ideal world, all our tests would be run in a browser, but the current downsides to Cypress/browser testing are:
@@ -67,7 +67,7 @@ Generally, we want to test components in the context a user is using them, which
    - Generally, [this article](https://kentcdodds.com/blog/unit-vs-integration-vs-e2e-tests) is a good breakdown of the types of testing and tradeoffs.
 
 ## Integration test notes
-- Integration tests mean tests that cover multiple components/redux logic, but are not run in a browser
+- Integration tests for us mean tests that cover multiple components/redux logic, but are not run in a browser
 - Good integration tests should
    - Render a high-level a component (like a component covering a whole page or tab)
    - Verify that the component is working by checking for things a user would see, like text or DOM elements with specific roles, rather than class names
