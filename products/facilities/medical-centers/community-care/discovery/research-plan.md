@@ -8,21 +8,21 @@
 - Understand/gather feedback (where possible) about the VAOS requests for community care coming into Community Care request manages 
 - In addition, and more specific to the Facility Locator team, we want to understand how and where Community Care Request managers search for type of care/specialties and providers. 
 
-The VAOS team and the Facility Locator team will both benefit from understanding the type of data Request Manager get and use to process a community care request.  
+The VAOS team and the Facility Locator team will both benefit from understanding the type of data Community Care Request managers get and use to process a community care request.  
 
 
 ### Research questions
 
 Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audiology) and non-VAOS specialties (suggest Chiropractor and Dermatology):
 
-- How does a community care request get processed by Request managers once it is received in Schedule Manager?
+- How does a community care request get processed by Community Care Request managers once it is received in Schedule Manager?
    - What are the different systems a Scheduler uses to process a community care request?
 - What type of data is a Request manager looking for from a Veteran when processing community care requests?
 - What information do you see from the VAOS request? Of that information, what do you use? What is helpful?
 - How do you search for type of care/specialities? Where do you search for that data + providers?
    - What words/categories are used by the schedulers when searching?
    - ~Which specialties are the most commonly searched? Rarely searched? Never searched?~ This can be answered through analytics
-- What search parameters do community care managers use to identify the appropriate community care provider?
+- What search parameters do Community Care Request managers use to identify the appropriate community care provider?
    - What are community care managers' expectations for search results (such as the number of results and distance/drive time) vs. reality?
     - Does that align with Veterans' expectations?
    - What happens if no providers meet the criteria?
