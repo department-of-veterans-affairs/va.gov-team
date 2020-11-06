@@ -36,9 +36,11 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 
 ## Scenario - Walk-through Demo
 
+So what I would like to do now, if it is ok, is provide you with a scheduling scenario, and it would be great if you could demonstrate the process you work through to schedule a Veteran. For this scenario - 
+
 - I am a Veteran with a referral to an Audiology care provider.
    - I have a preferred care provider in hand, and am requesting an appointment.
-   - <b>Walk me through the search for a provider.</b>
+   - <b>Can you walk me through the scheduling process?</b>
    
 - What if I, as a Veteran, do not have a preferred care provider in hand?
 
