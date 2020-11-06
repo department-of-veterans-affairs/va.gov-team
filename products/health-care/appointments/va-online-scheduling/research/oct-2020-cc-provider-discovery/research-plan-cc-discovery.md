@@ -50,7 +50,7 @@
 	
 	**Primary criteria / Must have** 
 
-	* 8-10 Veteran participants 
+	* 8-10 Veterans who have VA health care
 
 	**Secondary criteria / Would like to have** 
 
@@ -66,8 +66,8 @@
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
 
-	November 9th-13th, 2020 (**Note:** this may change depending on when the CC Scheduler research study happens - Ideally we'd run one after the other so key stakeholders can be present at both)
-
+	November 12th-20th, 2020 
+	
 2.	Prepare: When will the thing you are testing be ready? 
 
 	November 3rd, 2020
@@ -78,40 +78,37 @@
 
 4.	Availability: If applicable, when would you like sessions scheduled? 
 
-All times are EST
+All times are **EST**
 
-| Date      | Available time |
-| --------- |----------------|
-| 11/09 Mon | **TBD**        |
-| 11/10 Tue | **TBD**        |
-| 11/11 Wed | **TBD**        |
-| 11/12 Thu | **TBD**        |
-| 11/13 Fri | **TBD**        |
+| Date      | Available time                   |
+| --------- |----------------------------------|
+| 11/12 Thu | 1pm-3pm, 7pm-10pm                |
+| 11/13 Fri | 10am-12pm, 4pm-10pm              |
+| 11/16 Mon | 4pm-10pm                         |
+| 11/17 Tue | 10am-12pm, 6:30pm-10pm           |
+| 11/18 Wed | 10am-12pm, 12:30pm-2pm, 5pm-10pm |
+| 11/19 Thu | 1pm-2pm, 5pm-10pm                |
+| 11/20 Fri | 10am-12pm, 1pm-2pm, 5pm-10pm     |
 
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?
 
 	November 3rd, 2020 with Emily Waggoner
 
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
+Please list the people who will be serving in each role.	
 
 - Moderator: Peter Russo - 510 529 9874 - peter.russo@adhocteam.us
 - Research guide writing and task development (usually but not always same as moderator): Peter Russo
 - Participant recruiting & screening: Lauren Alexanderson/Perigean
 - Project point of contact: Same as moderator	
 - Participant(s) for pilot test: Emily Waggoner
-- Note-takers: **TBD**
-- Observers: (**Note** still working on this list)
+- Note-takers: We'll ask Perigean to take notes
+- Observers:
 	- lauren.ernest@adhocteam.us
 	- lenae.storey@adhocteam.us
 	- kam@adhocteam.us
-	- jeff@adhocteam.us
-	- narin@adhocteam.us
-	- bradley.gross@b3groupinc.com
-	- lance.gundersen@b3groupinc.com
-	- tony.williams@va.gov
 	- ryan.thurlwell@va.gov
-	- michelle.middaugh@adhocteam.us
+	- emily@adhocteam.us
 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
 
