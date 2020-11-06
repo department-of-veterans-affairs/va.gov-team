@@ -112,7 +112,7 @@ ________________________________________________________________________________
 This research is to usability test two mobile versions of the My VA dashboard re-design and gain feedback on the preferred design direction (A vs. B).
 
 ## Background
-Our goal is to create a My VA dashboard design that will improve the online experience for Veterans, by better integrating Veteran-provided data onto the My VA dashboard. Our MVP will focus on surfacing their healthcare and claims information into widgets and notificaitons to help Veterans access their critical information and status updates.
+Our goal is to create a My VA dashboard design that will improve the online experience for Veterans, by better integrating Veteran-provided data onto the My VA dashboard. Our MVP will focus on surfacing their healthcare and claims information into widgets and notificaitons to help Veterans access their critical information and to take action on status updates.
 
 ## Research questions
 * Do Veterans prefer design version A or B?
