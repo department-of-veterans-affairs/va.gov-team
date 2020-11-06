@@ -111,15 +111,15 @@ ________________________________________________________________________________
 ## Goals
 This research is to usability test two mobile versions of the My VA dashboard re-design and gain feedback on the preferred design direction (A vs. B).
 
-Background Our goal is to create a My VA dashboard design that will improve the online experience for Veterans, by better integrating Veteran-provided data onto the My VA dashboard. Our MVP will focus on surfacing their healthcare and claims information into widgets and notificaitons to help Veterans access their critical information and status updates.
+## Background
+Our goal is to create a My VA dashboard design that will improve the online experience for Veterans, by better integrating Veteran-provided data onto the My VA dashboard. Our MVP will focus on surfacing their healthcare and claims information into widgets and notificaitons to help Veterans access their critical information and status updates.
 
 ## Research questions
 * Do Veterans prefer design version A or B?
 * Is there any confusion caused by the status update styles in A vs B design?
 
 ## Hypothesis & assumptions
-* Veterans will be able to successfully see and take action on their status updates as well as to get a quick scanable view of their key information without having to dig.
-* There will be minimal confusion created by the status updates in their healthcare, claims, and appeal sections on version B. However there will be more confusion on version A. This is because version B organizes status updates under each category and is more scan-able for the user using an accordion style design. While version A has all of the status updates at the top of the page and its less clear which status update is for which category and has a long scrolling page design.
+* Version B - veterans will be able to successfully see and take action on their status updates as well as to get a quick scanable view of their key information without having to dig. However there will be more confusion on version A. This is because version B organizes status updates under each category and is more scan-able for the user using an accordion style design. While version A has all of the status updates at the top of the page and its less clear which status update is for which category and has a long scrolling page design.
 
 ## Method
 We will conduct remote moderated usability testing via Zoom using the Perigean contract. This method will allow us to share a high-fidelity wireframe prototype (mobile and A & B versions) to confirm if our My VA dashboard design is easily usable by Veterans.
