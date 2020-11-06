@@ -157,9 +157,9 @@ Team Availability
 One hour sessions
 
 Day, November TBD | 9am - 8pm ET
------|-------
+
 Day, November TBD | 9am - 8pm ET
------|-------
+
 Day, November TBD | 9am - 8pm ET
 	
 Mobile and Desktop Pilot Sessions (2 total sessions, 1 mobile and 1 desktop): Day, October 13 | 9am - 4pm ET
