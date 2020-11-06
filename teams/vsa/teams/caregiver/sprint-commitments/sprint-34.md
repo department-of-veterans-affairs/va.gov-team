@@ -13,7 +13,8 @@
 - [ ] Connect to CARMA from Review Instance for testing
 - [ ] Research
      - How many PDFs haven't been sent?
-     - How long do submissions API calls take (on average)?
+     - [x] How long do submissions API calls take (on average)?
+       - https://dsva.slack.com/archives/CMJ2V70UV/p1604702251367000 
 - [ ] Backend work to support secondary caregiver only applciations
 - [ ] Automate downtime message when MPI is down
 - [ ] Resolving 10-10CG submission errors
