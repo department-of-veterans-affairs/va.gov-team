@@ -72,6 +72,8 @@ Based on VAOS specialties, for example Dietary and Primary Care, and non-VAOS sp
 
 ### Follow-up Questions - Searching for Care
 
+I would like to dive a little deeper on the search aspect during scheduling.
+
 - How do you search for type of care/specialities?
    - Where do you search for that data + providers?
    - How do you go about determining what search terms to use when searching?
