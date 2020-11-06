@@ -78,7 +78,7 @@ Recruit for 12 fulfilled sessions (showing each user versions A & B) using the f
 * At least one person with an identified cognitive consideration of PTSD or TBI
 
 ### Recruitment requirements
-* Half must have a mobile device and be willing to be complete the test on said device
+* All must use a mobile device and be farmilar with using the VA website on thier mobile device.
 * The participants have Zoom downloaded prior to the session
 * The participants know how to screen-share.
 
