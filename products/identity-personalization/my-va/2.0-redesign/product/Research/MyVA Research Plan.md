@@ -45,8 +45,8 @@ Our goal is to create a My VA dashboard design that will improve the online expe
 
 
 ## Hypothesis & assumptions
-* Version B will be more successful than version A.
-This is because version B organizes status updates under each category and is more scan-able for the user using an accordion style design. While version A has all of the status updates at the top of the page, is more wordy and its less clear which status update is for which category. Version A has a long scrolling page design instead of a more scan-able accordion style design.
+* Version B will be more slightly more successful than version A.
+This might be because version B organizes status updates under each category and is more scan-able for the user using an accordion style design. While version A has all of the status updates at the top of the page, is more wordy and its less clear which status update is for which category. Version A has a long scrolling page design instead of a more scan-able accordion style design. However, both designs will be of value to the veterans as far as having accesss to thier updates and other important healthcare and claims information.
 
 Other assumptions include:
 
