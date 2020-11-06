@@ -27,8 +27,9 @@ https://www.va.gov/health-care/apply/application/introduction
 
 ## Sample Template
 
-The H1 for page makes it clear to the user the benefit they are applying for. For example, File for [name of benefit] or Apply for [name of benefit] <br>
-THe VA paper form equivalency statement appears under this H1.
+The H1 for page makes it clear to the user the benefit they are applying for. 
+For example: File for [name of benefit] or Apply for [name of benefit]>br>
+The VA paper form equivalency statement appears under this H1.
 
 For example: 
 # File for disability compensation<br>
