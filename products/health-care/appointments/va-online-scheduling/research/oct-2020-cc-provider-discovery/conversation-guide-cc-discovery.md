@@ -13,6 +13,8 @@
 
 ## Intro - 5 minutes
 
+- [//] In your introduction I recommend that you spend a bit of time reviewing some of the functions of Zoom, and where they can find the chat function. It may be helpful to have them go through the process of clicking on the link to your prototype in zoom before you get started, so your flow is not interrupted with logistics.       
+
 Thanks for joining us today! My name is Peter Russo and I also have some colleagues on the line observing and taking notes. We have a team working on improving a tool veterans can use to request health care appointments. Today, I'd like to hear about your experience with requesting appointments, and go through a prototype of this tool and get your thoughts on it.
 
 Before we start, a few things I want to mention:
@@ -27,6 +29,8 @@ Before we start, a few things I want to mention:
 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
+    
+
 
 *Start recording.*
 
@@ -36,29 +40,32 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, let’s start with a couple of warm-up questions.
 
-1. Have you scheduled health care appointments online before?
+1. Have you ever scheduled your VA health care appointments online?
+[//]: (Recommend specifying VA health care appts versus ANY appointmentment.)
 * If *YES*
-    * Where have you scheduled online appointments?    
+    * Can you walk me through the steps you take to schedule an appointment online? 
+    [//]: (Recommend asking them to talk you through how they do it to understand if they are talking about what you think they're talking about.) 
 
 * If *NO*
     * Thank you, that’s helpful to know
 
 
-2. Today we're going to be testing a process for requesting a community care health care appointment. We know not all veterans are eligible for community care, but it's helpful for us to talk to veterans who have used it as well as those who haven't. Are you familiar with community care?
+2. Today we're going to be testing a process for requesting a community care health care appointment. We know not all Veterans are eligible for community care, but it's helpful for us to talk to Veterans who have used community care as well as those who haven't. Are you familiar with community care?
 
 * If *YES*
-    *  Tell me what you know about community care.
+    *  In your own words, tell me what you know about community care.
     *  Have you gone to a community care provider?
 
 * If *NO*
-    * Thank you, that’s helpful to know
-    * If, after we're done, you want to learn more about community care, you can find information about it on VA.gov.
+    * Have you heard of VA Choice? 
+    * After we're done, if you want to learn more about community care, we can ask our recruiting team to send you some additional information. Would you be interested in that? 
 
 ## Section 1: Start an appointment - x minutes
 
-Okay, thank you for explaining that to me. Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
+Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
 
 * `Use chat to send user link to prototype.` [Prototype link](https://adhoc.invisionapp.com/share/VDZB8MN48AZ)
+
 
 * `Talk user through screen sharing so they can share their screen.`
 
@@ -68,27 +75,31 @@ As I mentioned earlier, this is a demo tool that may not function exactly the wa
 
 ### Task 1 - Home Page general impression
 
-* I'm going to ask you to request an appointment through the VA Online Scheduling website.
+* Our first task today will be to have you request an appointment through the VA Online Scheduling website.
 
-* First, take a look at this page, scroll around. Tell me what this page is for and what you think you can do here. It'll be really helpful if you can think out loud as much as possible moving forward.
+* First, take a look at this page, scroll around. Tell me what this page is for and what you think you can do here. Share any thoughts, questions, or things that you find confusing or helpful. 
 
 * Is the information on this page what you expect it to be?
+[//] What are you looking to answer with this question? This is really vague. Recommend revising.  
 
-* Imagine you need to schedule a general check-up with a primary care provider you haven't seen before. How would you start from here?
+* Today, I'd like to ask you to schedule a general check-up with a primary care provider. How would you start from this page?
+[//] Veterans have a pretty strong continuum of care, so the concept of "with someone you haven't seen before" will be hard to understand. I also generally avoid "imagine' language in convo guides with veterans and just give them direct tasks. 
 
 ### Task 2 - Choose type of care
 
 * `Starting from: Choose the type of care you need page`
 
-* In your own words, what is this page asking you?
+* In your own words, what is this page asking you to choose?
 
 * Is the information on this page what you expect it to be?
+[//] What are you looking to answer with this question? This is really vague. Veterans will not have expectations about something they have not seen before. Recommend revising.  
 
 If needed:
-    * What else would be helpful to tell you at this point in the process?
+    * What other information would be helpful at this point in the process?
     * What are your options if your type of care isn’t listed?
 
-* Before they tap “Continue”: do you have any questions?
+* Before they tap “Continue”: What questions do you have on this page? 
+[//] Recommend using "what questions do you have?" instead of "Do you have questions?". Veteran participants tend to be "pleasers" and may choose not to ask a question to keep the flow moving. Acknowledging that they probably DO have questions gives them the space to ask them. 
 
 * If they haven’t clicked “Continue” : Continue scheduling your appointment.
 
@@ -99,23 +110,31 @@ If needed:
 * In your own words, what is this page asking you?
 
 * Is the information on this page what you expect it to be?
+[//] What are you looking to answer with this question? This is really vague. Veterans will not have expectations about something they have not seen before. Recommend revising.  
 
 * Follow up questions if needed:
-    * Do you feel comfortable making the choice, or do you want more information about community care?
-    * What else would be helpful to tell you at this point in the process?
+    * Do you feel comfortable making the choice at this time?
+    * Do you want more information about community care?
+    * What other information would you need to make a choice? 
     
+[//] Recommend not combining 2 questions into one. 
+
 * Watch for:
     * How do they describe community care? 
+    [//] I do not think you'll be getting that info with these questions. You WILL get questions they have about the choice between VA and community care.  
+
     
-* Prompt: Schedule your appointment at a non-VA provider.
+* Prompt: Schedule your appointment with a non-VA provider.
+
 
 ### Task 4 - Select an appointment time
 
 * `Starting from: Select an appointment time`
 
-* In your own words, what is this page asking you?
+* In your own words, what is this page asking you to do?
 
 * Is the information on this page what you expect it to be?
+[//] What are you looking to answer with this question? This is really vague. Veterans will not have expectations about something they have not seen before. Recommend revising.  
 
 * Prompt: Schedule your appointment for November 19th.
 
@@ -125,15 +144,18 @@ If needed:
 
 * `Starting from: Initial provider selection screen`
 
-* In your own words, what is this page asking you?
+* In your own words, what is this page asking you to do?
 
 * Is the information on this page what you expect it to be?
+[//] What are you looking to answer with this question? This is really vague. Veterans will not have expectations about something they have not seen before. Recommend revising or cutting.  
 
-* Thinking again about your previous experience scheduling health care, would you prefer to find a specific provider near you, or would you not know?
+* Thinking about your previous experiences scheduling health care. How have you approached your search for a doctor? 
+* What's important to you when searching for a health care provider?
 
-* Follow up questions if needed:
-    * What else would be helpful to tell you at this point in the process?
-    * Is this how you would expect to choose a health care provider?
+    
+* Follow up questions if needed:  
+    * What questions do you have about this page? 
+    * What additional information would you want to have to continue?     
     
  * Prompt: Find and add the provider closest to you.
     * If lost: click Add provider
@@ -143,13 +165,18 @@ If needed:
 * In your own words, what is this page asking you?
 
 * Is the information on this page what you expect it to be?
+[//] What are you looking to answer with this question? This is really vague. Veterans will not have expectations about something they have not seen before. Recommend revising.  
 
-* What's important to you when searching for a health care provider?
-    * Are you finding that information here?
+On the previous screen, you told me that ___ and ___ were critera you use to find a new provider. Are you seeing that information represented here? 
+    * IF no: What is missing? 
 
 If needed:
-    * If you were searching for a health care provider for a health care appointment, would this be the useful way for you to find them?
+    * If you were searching for a health care provider for an appointment, would this be a useful way for you to find them?
+[//] The phrasing on this question is priming them to say this is useful. Recommend revising.     
 
+* What questions do you have about this page? 
+    * What additional information would you want to have to continue?     
+    
 Watch for:
     * 'How' do they expect to look up providers - do they look for names/locations first?
     * Do they attempt to open the map?
@@ -163,13 +190,14 @@ Watch for:
 * I’d like you to add another provider, this time using the map.
     * Select the third provider (or provider C)
     
-* In your own words, what is this page telling you?
-
-* Is the information on this page what you expect it to be?
+* In your own words, what is this page telling you to do?
 
 * If needed:
-    * Thinking about past times you’ve scheduled appointments, would this have been helpful?
-    
+    * Thinking about past times you’ve scheduled appointments, would a map have been helpful?
+
+* What questions do you have about this page? 
+    * What additional information would you want to have to continue?        
+   
 * Watch for:
     * Are they able to easily navigate the map?
     * Does the map make more sense than the list
@@ -179,10 +207,12 @@ Watch for:
 * `Starting from: Two providers added screen`
 
 * Thinking again about how you have chosen health care providers in the past:
-    * How does this differ from the way you would expect to find a provider?
-    * What do you expect will happen when you complete this appointment request with two providers added?
+    * How does this differ from the way you have searched for a provider?
+    * How is this similar to the way you have searched for a provider? 
+    * What do you think will happen when you complete this appointment request with two providers added?
 
-* Before they tap “Continue”, do you have any questions?
+* * What questions do you have about this page? 
+    * What additional information would you want to have to continue?     
 
 * Prompt: Remove the first provider
 
@@ -192,13 +222,18 @@ Watch for:
 
 * In your own words, what is this page asking you?
 
-* Is the information on this page what you expect it to be?
-
+* What questions do you have about this page? 
+    * What additional information would you want to have to continue?     
+    
 * Prompt: Finish removing the provider
 
 ### Task 10 - Review provider
 
-* Thinking about your own scheduling needs, if you were to schedule an appointment for yourself, would you add providers in the way we just did? Or select "no preference" ?
+* Thinking about your own scheduling needs, if you were to schedule an appointment for yourself, would you prefer to specify preferred providers, as we just did? 
+    * Or select "no preference" ?
+    
+    * What questions do you have about this page? 
+    * What additional information would you want to have to continue?     
 
 * Prompt: Continue scheduling your appointment
 
@@ -208,37 +243,40 @@ Watch for:
 
 * In your own words, what is this page asking you?
 
-* Is the information on this page what you expect it to be?
-
+* What questions do you have about this page? 
+    * What additional information would you want to have to continue?     
+    
 * Prompt: Continue scheduling your appointment
 
 ### Task 12 - Tell us the reason for your appointment
 
 * In your own words, what is this page asking you?
 
-* Is the information on this page what you expect it to be?
-
+]* What questions do you have about this page? 
+    * What additional information would you want to have to continue?     
 * Prompt: Continue scheduling your appointment
 
 ### Task 13 - Review contact information
 
 * In your own words, what is this page asking you?
 
-* Is the information on this page what you expect it to be?
-
+* What questions do you have about this page? 
+    * What additional information would you want to have to continue?     
+    
 * Prompt: Continue scheduling your appointment
 
 ### Task 14 - Review appointment request details
 
 * In your own words, what is this page asking you?
 
-* Is the information on this page what you expect it to be?
-
-* How would you expect to be able to change this information?
+* What questions do you have about this page? 
+    * What additional information would you want to have to continue?     
+    
+* How would you change this information?
 
 * Follow up questions if needed:
     * How might we make that clearer?
-    * How would YOU describe that to a friend or fellow Veteran?
+    * How would YOU describe this process to a friend or fellow Veteran?
     * What else would be helpful to tell you at this point in the process?
     
  * Watch for:
@@ -250,10 +288,9 @@ Watch for:
 
 * In your own words, what is this page asking you?
 
-* Is the information on this page what you expect it to be?
-
-* Do you have any questions?
-
+* What questions do you have about this page? 
+    * What additional information would you want to have to continue?    
+    
 * Prompt: Review your upcoming appointments
     * If needed: click "View your appointments"
 
@@ -263,16 +300,18 @@ Watch for:
 
 * In your own words, what is this page asking you?
 
-* Is the information on this page what you expect it to be?
-
+* What questions do you have about this page? 
+    * What additional information would you want to have to continue?     
+    
 * Find your appointment request and double-check that the provider is right
 
 ### Task 17 - Appointment detail
 
 * In your own words, what is this page asking you?
 
-* Is the information on this page what you expect it to be?
-
+* What questions do you have about this page? 
+    * What additional information would you want to have to continue?     
+    
 ### Task 18 - Find all upcoming appointments
 
 * Prompt: Review all of your your scheduled appointments
@@ -281,7 +320,8 @@ Watch for:
     
 * In your own words, what is this page asking you?
 
-* Is the information on this page what you expect it to be?
+* What questions do you have about this page? 
+    * What additional information would you want to have to continue?     
     
 * Watch for: 
     * Can they easily find the dropdown and appointments?
