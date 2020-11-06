@@ -22,15 +22,19 @@ https://www.va.gov/pension/application/527EZ/introduction
 
 https://www.va.gov/health-care/apply/application/introduction
 
+------
+
 
 ## Sample Template
 
-## File for [name of benefit] or ## Apply for [name of benefit] <br>
-VA paper form equivalency statement appears under this H1.
+The H1 for page makes it clear to the user the benefit they are applying for. For example, File for [name of benefit] or Apply for [name of benefit] <br>
+THe VA paper form equivalency statement appears under this H1.
 
 For example: 
-H1: **File for disability compensation**<br>
+# File for disability compensation<br>
 Equal to VA Form 21-526EZ (Application for Disability Compensation and Related Compensation Benefits).
+
+-----
 
 ## **Sign-in message** (blue informational alert box)
 
@@ -54,11 +58,11 @@ The exception is Disability Compensation form. Users need to sign in to start th
 
 ![signed out.png](https://images.zenhubusercontent.com/59b0414bb0222d5de476aa22/1d5d3f75-9047-44d1-8ebb-93c5c7c25e53)
 
+------
 
 ## Subway map/Process list
 
 Subway map, or [process list](https://design.va.gov/components/process-list), describes the process to apply for a beneift. The heading start with action words and are short/concise. We’ve made these consistent across forms. 
-
 
 **Prepare**
 
@@ -80,7 +84,8 @@ This steps tells the user what they need to fill out the form (Social Security n
 The standard langauge we use across forms: 
 Complete this [benefits] form. After submitting the form, you’ll get a confirmation message. You can print this page for your records.
 
-**What if I need help filling out my application?** 
+**What if I need help filling out my application?**
+
 An accredited representative, like a Veterans Service Officer (VSO) can [help you fill out your claim](https://www.va.gov/disability/get-help-filing-claim/).
 
 **VA review**
@@ -99,12 +104,14 @@ Some examples:
 - Loreum upsem
 
 **Decision**
+
 This step tells users when they'll be informed about the status of their application (if denied or approved) and the next steps.
 It also sets the user’s expectation for how long it takes to receive a response.
 
 
 {CTA blue button} Sign in to start your [benefit] application
 
+-----
 
 ### OMB information 
 
@@ -113,10 +120,13 @@ This information is taken from the paper form (or provided by a VA stakeholder).
 - OMB control numer
 - Privacy statement (link)
 
+----
+
 
 ### Need help footer 
 
 This footer appears on the bottom of every page of the form. This content lets users know how to get additional help with the form or the benefits. 
+
 #### Need help?
 
 If you have questions or need help filling out this form, please call us at 800-827-1000(hyperlink phone number). 
@@ -124,12 +134,13 @@ We're here [days and hours, time zone].
 
 If you have hearing loss, call TTY: 711(hyperlink).
 
+----
 
-## Other components on the intro page
+## Other components on the introduction page
 
 ### Alert boxes (optional)
 
-Depending on the type of benefit, we sometimes include an [informational alert box](https://design.va.gov/components/alertboxes) with specific info about that benefit
+Depending on the type of benefit, we sometimes include an [informational alert box](https://design.va.gov/components/alertboxes) with specific information about that benefit. 
 
 This is an optional component and should only be used if there is important benefit or part of the application process to call out to the applicant. 
 
