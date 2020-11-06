@@ -106,7 +106,7 @@ Please list the people who will be serving in each role.
 
 ___________________________________________________________________________________________________________________________________________
 
-#Updated version based on research plan template
+# Updated version based on research plan template
 
 ## Goals
 This research is to usability test two mobile versions of the My VA dashboard re-design and gain feedback on the preferred design direction (A vs. B).
