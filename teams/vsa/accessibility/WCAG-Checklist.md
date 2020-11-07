@@ -96,12 +96,12 @@ This checklist evolved from the [Deque WCAG 2.0 Checklist](https://www.jenstrick
   
 #### A. Page title
 
-The page **MUST** have a meaningful title (e.g. About us), even when included via iframe. | [WCAG 2.0 Level A - 2.4.2](https://www.wuhcag.com/page-titled/)
+   The page **MUST** have a meaningful title (e.g. About us), even when included via iframe. | [WCAG 2.0 Level A - 2.4.2](https://www.wuhcag.com/page-titled/)
 
-Specifically:
-* Unique information **MUST** go first (e.g. “WCAG Checklist”).
-* Result pages **MUST** describe the result (e.g. “Error on form” or “Search results loaded”).
-* Single-page applications and AJAX scripts **MUST** update the title when the URL changes or, when the page content changes significantly.
+   Specifically:
+   * Unique information **MUST** go first (e.g. “WCAG Checklist”).
+   * Result pages **MUST** describe the result (e.g. “Error on form” or “Search results loaded”).
+   * Single-page applications and AJAX scripts **MUST** update the title when the URL changes or, when the page content changes significantly.
 
 
 #### B. Language	
@@ -113,18 +113,18 @@ Specifically:
 
 #### C. Landmarks	
 
-Pages **MUST** have accurate, logical landmark structure (e.g. `<header>`, `<nav>`, `<main>`, `<aside>`, `<footer>`), so screen reader users can navigate by landmark, and all content **MUST** be inside a landmark. | [WCAG 2.0 Level AA - 2.4.6](https://www.wuhcag.com/headings-and-labels/)
+   Pages **MUST** have accurate, logical landmark structure (e.g. `<header>`, `<nav>`, `<main>`, `<aside>`, `<footer>`), so screen reader users can navigate by landmark, and all content **MUST** be inside a landmark. | [WCAG 2.0 Level AA - 2.4.6](https://www.wuhcag.com/headings-and-labels/)
 
 
 #### D. Headings	
 
-The page **MUST** have meaningful headings to label each major section, which **MUST** start with `<h1>` (at the beginning of the main content, or at the beginning of every section of aggregated content, or at the beginning of modal dialogs), and **MUST NOT** skip heading levels, to allow screen reader users to navigate the tree structure of the heading hierarchy. | [WCAG 2.0 Level AA - 2.4.6](https://www.wuhcag.com/headings-and-labels/)
+   The page **MUST** have meaningful headings to label each major section, which **MUST** start with `<h1>` (at the beginning of the main content, or at the beginning of every section of aggregated content, or at the beginning of modal dialogs), and **MUST NOT** skip heading levels, to allow screen reader users to navigate the tree structure of the heading hierarchy. | [WCAG 2.0 Level AA - 2.4.6](https://www.wuhcag.com/headings-and-labels/)
 
-<details><summary>Review example of heading order</summary>
+   <details><summary>Review example of heading order</summary>
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/images/4a.png" alt="annotation of a webpage showing proper use of semantic headings and styling" width="70%" />
+   <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/images/4a.png" alt="annotation of a webpage showing proper use of semantic headings and styling" width="70%" />
 
-</details>
+   </details>
 
 #### E. Links and Navigation
 
