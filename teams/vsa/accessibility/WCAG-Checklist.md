@@ -148,7 +148,7 @@ The page **MUST** have meaningful headings to label each major section, which **
 
       <details><summary>Review example of grouped link content</summary>
 
-      <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/images/5c.png" alt="" width="70%" />
+      <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/images/5a.png" alt="" width="70%" />
 
       </details>
 
@@ -172,7 +172,7 @@ The page **MUST** have meaningful headings to label each major section, which **
 
       <details><summary>Review example of skip content link</summary>
 
-      <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/images/5f.png" alt="example of the skip to content link displayed with a focus outline" width="70%" />
+      <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/images/5f.png" alt="example of the skip to content link displayed with a focus outline" width="40%" />
 
       </details>
 
