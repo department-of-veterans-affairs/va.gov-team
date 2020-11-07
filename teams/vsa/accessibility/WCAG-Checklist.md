@@ -168,7 +168,7 @@ This checklist evolved from the [Deque WCAG 2.0 Checklist](https://www.jenstrick
 
       </details>
 
-6. A “skip navigation” or “skip to main content” **MUST** be provided as the first link in the design, to allow sighted keyboard users to quickly arrive at the main content (Note: the link can be invisible until the user tabs to it, but it **MUST** remain invisible when it receives keyboard focus). | [WCAG 2.0 Level AA - 2.4.5](https://www.wuhcag.com/multiple-ways/)
+6. A “skip navigation” or “skip to main content” **MUST** be provided as the first link in the design, to allow sighted keyboard users to quickly arrive at the main content (Note: the link can be invisible until the user tabs to it, but it **MUST** remain visible when it receives keyboard focus). | [WCAG 2.0 Level AA - 2.4.5](https://www.wuhcag.com/multiple-ways/)
 
       <details><summary>Review example of skip content link</summary>
 
