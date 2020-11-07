@@ -25,7 +25,7 @@ Congress has recently asked VHA to provide  COVID-19 content (and other essentia
 
 ## Undesired User Outcomes
 
-- Veterans and family members find machine-translated content confusing or unhelpful
+- Veterans and family members find content confusing or unhelpful
 - Veterans and family members can't easily find or use translated content
 
 ## Desired Business Outcomes
@@ -69,15 +69,17 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
 
 - Some Veterans and their family members need or prefer COVID-19 content about VA health care and benefits in Spanish.
-- We can optimize our content for translation enough that the Google translate widget will be an acceptable translation option for our MVP.
+- We can optimize our content for translation enough that the Google translate widget will be an acceptable translation option for our MVP. **Update:** We are finding through best practice research, conversations with localization experts, and quality assessments, that we likely will need to incorporate a human factor into translation. 
 - Users will be able to find and easily toggle to translated content.
 
 ## Solution Approach
 
 - *What are you going to build now, and why have you decided to start there?*
-We are going to start with a Google translate widget on the coronavirus FAQs page. We'll then widen translation (widget or API) to the health care benefit hub, and then further as data shows is warranted. We've decided to start there for 2 primary reasons:
+We are going to start with translating the coronavirus FAQs page via front-end solution (not involving Drupal). We'll then widen translation to the health care benefit hub, and then further as data shows is warranted. **Update:** We may prioritize other content (specifically the coronavirus research content and caregiver content) ahead of the hub.
+
+We've decided to start there for 2 primary reasons:
 1) VA doesn't have the data to show user needs at this time. This solution allows us to begin gathering data quickly to help inform a longer-term solution.
-2) This approach requires no Drupal integration. At this time, we don't have the resources for efforts that do require Drupal support.
+2) This approach requires no Drupal integration. At this time, we don't have the people capacity for efforts that do require Drupal support.
 
 - *Why this solution / approach over other solutions / approaches?*
 This is the quickest and simplest solution that allows us to start providing translated content while quickly gathering the data we need to inform a longer-term solution.
@@ -102,18 +104,18 @@ Outreach may include:
 
 ## Launch Dates
 - *Target Launch Date*
-  - October 15, 2020 for first iteration (translate widget on coronavirus FAQs page) - Delayed due to lack of people and ability to implement as well as concerns with Google Translate widget quality
+  - October 15, 2020 for first iteration (translate widget on coronavirus FAQs page) - Delayed due to lack of people capacity and ability to implement as well as concerns with Google Translate widget quality
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch?*
-  - December 31, 2020 (for synthesizing data)
+  - December 31, 2020 (for synthesizing data) - tbd based on when we can launch
 ---
 
 ## Solution Narrative
 
 ### Current Status
 
-Delayed due to lack of people and ability to implement as well as concerns with Google Translate widget quality
+Preparation work continued, but development work was delayed due to lack of people and ability to implement as well as concerns with Google Translate widget quality. We picked this back up in mid-October and are now ready to formally kick off the project.
 
 ### Key Decisions
 
@@ -135,7 +137,7 @@ Delayed due to lack of people and ability to implement as well as concerns with 
 - GitHub Label: 
 - Slack channel: 
 - Product POCs:
-- Stakeholders: Jenny Heiland-Luedtke
+- Stakeholders: Jenny Heiland-Luedtke (VHA), Sandy Tadeo (VBA)
 
 </details>
 
@@ -143,8 +145,8 @@ Delayed due to lack of people and ability to implement as well as concerns with 
 
 <details>
  
- - DEPO Lead: Danielle Thierry 
- - PM: TBD
+ - DEPO Lead: Danielle Thierry (
+ - PM: NA for now 
  - Engineering: Mike Chelen (consulting)
  - Research/Design: TBD
  
