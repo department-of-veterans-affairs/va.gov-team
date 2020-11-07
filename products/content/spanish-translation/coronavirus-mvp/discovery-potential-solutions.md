@@ -1,5 +1,5 @@
 
-# Potential solutions for localization management
+# Potential longer-term solutions for localization management
 
 Below are descriptions of potential solutions recommended by colleagues at DEPO and USDS as well as the digital.gov multicultural community presentation.
 
@@ -44,7 +44,8 @@ http://tiny.cc/0f71tz
 - https://user-guides.prismic.io/en/collections/22473-multi-language-localization
 - https://prismic.io/feature/localization-and-multilanguage
 
-## SYSTRAN
+## [SYSTRAN](https://www.systransoft.com/)
+- 
 
 ## Clay Tablet
 
