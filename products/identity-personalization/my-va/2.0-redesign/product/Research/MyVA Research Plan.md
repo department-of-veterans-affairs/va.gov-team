@@ -17,6 +17,8 @@ Our goal is to create a My VA dashboard design that will improve the online expe
 - [Logged-in homepage discovery write-up (Spring 2020)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/discovery-summary.md)
 
 ## Research questions
+
+### Overall questions
 - Do Veterans prefer design version A or B?
 - Is there any confusion caused by the status update styles in A vs B design?
 - Can people find what they're looking for on the dashboard?
@@ -31,13 +33,13 @@ Our goal is to create a My VA dashboard design that will improve the online expe
 - What updates are most important to users?
 - Do people want to see all of their most recent updates?
 
-### A Design questions
+### A Design specific questions
 
 - Does the dashboard layout/structure feel intuitive?
 - Do people understand what the updates to their dashboard are?
 - Do users want to see updates grouped all together?
 
-### B Design questions
+### B Design specific questions
 - Does the dashboard layout/structure feel intuitive?
 - Do people understand what the updates to their dashboard are?
 - Do users want to see updates in each specific section?
@@ -61,8 +63,9 @@ We will conduct remote moderated usability testing via Zoom using the Perigean c
 Recruit for 12 fulfilled sessions (showing each user versions A & B) using the following criteria:
 
 ### Must have for participants
-* Either be signed up for VA healthcare or have active or past claims (pass = yes)
-    * If healthcare or claims users are too difficult to recruit for, then expand to having used logged in to va.gov within the last year.
+
+* Are you eligible for/recieve VA healthcare, have active or past claims or recieve any benefits from the VA? (pass = yes)
+    * If participants with healthcare, claims or benefits are too difficult to recruit for, then expand to having logged-in to va.gov within the last year.
 
 ### Good to have for participants
 * At least one iOS mobile device owner
@@ -78,7 +81,7 @@ Recruit for 12 fulfilled sessions (showing each user versions A & B) using the f
 * At least one person with an identified cognitive consideration of PTSD or TBI
 
 ### Recruitment requirements
-* All must use a mobile device and be farmilar with using the VA website on thier mobile device.
+* All participants must use a mobile device.
 * The participants have Zoom downloaded prior to the session
 * The participants know how to screen-share.
 
