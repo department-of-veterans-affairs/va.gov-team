@@ -170,7 +170,7 @@ This checklist evolved from the [Deque WCAG 2.0 Checklist](https://www.jenstrick
 
 6. A “skip navigation” or “skip to main content” **MUST** be provided as the first link in the design, to allow sighted keyboard users to quickly arrive at the main content (Note: the link can be invisible until the user tabs to it, but it **MUST** remain visible when it receives keyboard focus). | [WCAG 2.0 Level AA - 2.4.5](https://www.wuhcag.com/multiple-ways/)
 
-      <details><summary>Review example of skip content link</summary>
+      <details><summary>Review example of skip link</summary>
 
       <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/images/5f.png" alt="example of the skip to content link displayed with a focus outline" width="40%" />
 
