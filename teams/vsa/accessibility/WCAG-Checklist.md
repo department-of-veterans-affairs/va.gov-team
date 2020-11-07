@@ -148,7 +148,7 @@ This checklist evolved from the [Deque WCAG 2.0 Checklist](https://www.jenstrick
 
       <details><summary>Review example of grouped link content</summary>
 
-      <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/images/5a.png" alt="" width="70%" />
+      <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/images/5c.png" alt="good example shows the link wrapping the icon and label, bad example shows the icon as one link and the label as another" width="70%" />
 
       </details>
 
