@@ -4,22 +4,13 @@
 
 # WCAG Checklist 
 
+Federal agencies were required to comply with the Revised 508 Standards by January 2018, which incorporate by reference the WCAG 2.0 Level A and AA Success Criteria. | [Read more about the Section 508 Baseline](https://section508coordinators.github.io/ICTTestingBaseline/introduction.html)
+
 The W3C's Web Content Accessibility Guidelines (WCAG) are the worldwide standard for accessibility compliance, and the WCAG 2.0 criteria are the requirements for Section 508. This checklist offers organized guidance to meet Section 508 and accessibility compliance. 
 
 For an overview of WCAG, and distinctions between 2.0, 2.1, and 2.2, please see the [W3C WCAG documentation](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
 >> **Section 508 = WCAG 2.0**
-
-<hr/>
-
-Federal agencies were required to comply with the Revised 508 Standards by January 2018, which incorporate by reference the WCAG 2.0 Level A and AA Success Criteria. | [Read more about the Section 508 Baseline](https://section508coordinators.github.io/ICTTestingBaseline/introduction.html)
-
-
-<!-- - 508-defect-0 means the issue is **harmful**, _such as_, bullet #7 under Sight & Sound regarding strobing effects ([WCAG 2.3.1](https://www.wuhcag.com/three-flashes-or-below/)). Making a determination that an issue is harmful relies on the experienced expertise of an accessibility professional. -->
-
-<!-- - 508-defect-1 means the experience is **broken**. A user is unable to proceed, access, or understand the content. The severity rubric provides examples, such as keyboard traps, content not available for assistive technology users, etc.  -->
-
-<hr/>
 
 > > **For Veteran Facing Services teams, if there are 508-defect-0, 1, 2, 3, and some 4 issues logged for work it is not 508 compliant, according to the VA 508 Office.** Source: [VSP Accessibility Defect Severity Rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#accessibility-defect-severity-rubric)
 
