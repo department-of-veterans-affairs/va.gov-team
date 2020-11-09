@@ -21,23 +21,44 @@ This reserach is being conducted on the Health Care Application by the Caregiver
 - Do Veterans prefer to complete the application online or via the paper process? Why?
 
 **Our hypothesis**
+- There is an overall drop in online applications 
 - There are obstacles preventing the Vetern from completing the digital HCA 
-- Is this an overall drop in application or just online?
-- Customer journey or service journey 
 - TBD (informed by analytics) 
 
 ## Method	
-1.	What method of research are you planning? 	
-  - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 	
-  - **Also mention:** in-person moderated, remote moderated, remote unmoderated	
-  	
-2.	Why this method? How does this methodology help you answer your research questions? 	
+
+**Analytics**
+
+Leverage Google Analytics to understand current behavior and interactions of Veterans with the HCA (10-10EZ) 
+
+- Completion trend for online applications 
+- What is the entry point for the intro page (subway map) of the HCA? 
+- What are the drop off points within the HCA? 
+
+**Qualitative Interviews**
+
+Qualitative Interviews will be conducted remotely with Zoom. Qualitative Interviews explore the views, experiences, beliefs and/or motivations of individuals. Remote observers and note takers will be in attendance.  
+
+**Why this method?**
+
+How does this methodology help you answer your research questions? 	
 3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*	
 4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
 5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
 ## Participants and Recruitment	
-1.	Participant criteria: What are you looking for in a participant?	  
-(Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
+
+We would like to work with Perigean to recruit remote users. We would like to interview 6-8 Veterans. Participant criteria:
+All participants must be Veterans.
+
+Participant pool should be diverse in:
+- Branch of service
+- Gender (30% or more women)
+- Race
+- Age (ideally two people each from 18-30, 31-50, 50-64, 65+, but can be flexible)
+- Geography
+- Density (rural)
+- Veterans with a disability rating of 80% or higher
+
 
 Please list your participant criteria in two categories-
 1. **Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.) 
