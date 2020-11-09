@@ -5,6 +5,11 @@ This reserach is being conducted on the Health Care Application by the Caregiver
 
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?
 
+**Research Objectives**
+
+- Understand if there are any opportunities to improve the online experience in applying for health care benefits with the VA. 
+- Prioritize recommendations, including design and technical solutions, based on these findings.
+
 **The research questions we want to address are:**
 - How do Veterans learn of the HCA and what are their motivations when applying? 
 - What is the Veteran’s journey when accessing the digital HCA? 
@@ -15,7 +20,12 @@ This reserach is being conducted on the Health Care Application by the Caregiver
 - What is the average time an application takes to be processed? 
 - Do Veterans prefer to complete the application online or via the paper process? Why?
 
-4. Hypothesis: What is your hypothesis for this research? 	
+**Our hypothesis**
+- There are obstacles preventing the Vetern from completing the digital HCA 
+- Is this an overall drop in application or just online?
+- Customer journey or service journey 
+- TBD (informed by analytics) 
+
 ## Method	
 1.	What method of research are you planning? 	
   - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 	
