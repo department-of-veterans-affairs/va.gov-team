@@ -10,7 +10,7 @@ The W3C's Web Content Accessibility Guidelines (WCAG) are the worldwide standard
 
 For an overview of WCAG, and distinctions between 2.0, 2.1, and 2.2, please see the [W3C WCAG documentation](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
-**Section 508 = WCAG 2.0**
+**Section 508 = WCAG 2.0** — Teams are likely to hear accessibility specialists refer to WCAG (pronounced 'wuh-cag') and may be confused since they thought the expectation was to meet Section 508. The two terms are used interchangeably.
 
 **For Veteran Facing Services teams, if there are 508-defect-0, 1, 2, 3, and some 4 issues logged for work it is not 508 compliant, according to the VA 508 Office.** | Source: [VSP Accessibility Defect Severity Rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#accessibility-defect-severity-rubric)
 
