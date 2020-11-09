@@ -12,7 +12,7 @@ For an overview of WCAG, and distinctions between 2.0, 2.1, and 2.2, please see 
 
 >> **Section 508 = WCAG 2.0**
 
-> > **For Veteran Facing Services teams, if there are 508-defect-0, 1, 2, 3, and some 4 issues logged for work it is not 508 compliant, according to the VA 508 Office.** Source: [VSP Accessibility Defect Severity Rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#accessibility-defect-severity-rubric)
+> > **For Veteran Facing Services teams, if there are 508-defect-0, 1, 2, 3, and some 4 issues logged for work it is not 508 compliant, according to the VA 508 Office.** | Source: [VSP Accessibility Defect Severity Rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#accessibility-defect-severity-rubric)
 
 
 <hr/>
@@ -26,7 +26,7 @@ For an overview of WCAG, and distinctions between 2.0, 2.1, and 2.2, please see 
     
     * Section 508 is an amendment to the Rehabilitation Act of 1973. 
     
-    * In 1998 the US Congress amended the Rehabilitation Act to require Federal agencies to make their electronic and information technology accessible to people with disabilities. Section 508 was enacted to eliminate barriers in information technology, to make available new opportunities for people with disabilities, and to encourage development of technologies that will help achieve these goals. Source: [The ADA and Section 508](https://508compliantdocumentconversion.com/americans-with-disabilities-act/)
+    * In 1998 the US Congress amended the Rehabilitation Act to require Federal agencies to make their electronic and information technology accessible to people with disabilities. Section 508 was enacted to eliminate barriers in information technology, to make available new opportunities for people with disabilities, and to encourage development of technologies that will help achieve these goals. | Source: [The ADA and Section 508](https://508compliantdocumentconversion.com/americans-with-disabilities-act/)
     
     * **All products and services purchased or created with federal money MUST be 508-compliant.** 
     
