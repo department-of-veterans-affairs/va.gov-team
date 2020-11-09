@@ -79,9 +79,8 @@ A total of 10 participants will be interviewed:
  
 ## Timeline
 
-- Study dates: November -, 2020 Session length: 45 minutes 
-- Pilot session: will be held on November -, 2020 at -:00pm EST 
-- Session length: 30 minutes
+- Study dates: November 12th - 20th, 2020 Session length: 45 minutes 
+- Pilot session: will be held on November 6, 2020 at 2 pm EST 
 
 Date | Time in Eastern | Slots
 -----|-----------------------|-------
