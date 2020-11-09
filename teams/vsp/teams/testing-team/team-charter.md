@@ -33,13 +33,15 @@ Establish and champion rich testing approaches and partner with VFS teams to ens
 ## Who we are
 
 ### Team Members:
--  Product Manager:		@Joe Tice		Eastern
--  Team lead / QA Specialist:	@Peter Hill		Eastern
--  Accessibility Lead:		@Trevor Pierce	Central
--  Full stack engineer:		@Ryan Johnson	Eastern
--  Front-end engineer:		@Bill Fienberg		Central
--  Back-end engineer:		@Holden Hinkle	Eastern
--  Accessibility Engineer:	@Noah Gelman	Pacific
+*Including Time Zone*
+
+-  Product Manager:		@Joe Tice		*Eastern Time Zone*
+-  Team lead / QA Specialist:	@Peter Hill		*Eastern Time Zone*
+-  Accessibility Lead:		@Trevor Pierce	*Central Time Zone*
+-  Full stack engineer:		@Ryan Johnson	*Eastern Time Zone*
+-  Front-end engineer:		@Bill Fienberg		*Central Time Zone*
+-  Back-end engineer:		@Holden Hinkle	*Eastern Time Zone*
+-  Accessibility Engineer:	@Noah Gelman	*Pacific Time Zone*
 
 ---
 
