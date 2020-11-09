@@ -1,4 +1,4 @@
-# Mobile Month Conversation Guide
+# Conversation Guide for MyVA
 
 ## Moderator logistics
 
@@ -17,13 +17,11 @@
 ### Project-specific setup
 
 - [ ] Make sure you have the [mobile research guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/mobile-research-guidelines.md) and are prepared to walk someone through how to install zoom on their phones if they don't have it, or the laptop hugging technique 
-- [ ] Open VA.gov in a new tab and hit Command+Alt+J to put it in mobile view in case moderator needs to share screen as a backup
-- [ ] have the mobile prototype available if person doesn't have any claims in progress: https://vsateams.invisionapp.com/share/4XYGXZU9B5T
-- [ ] have this link open so you can get the password for our staging user if necessary https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md
+- [ ] have the mobile prototype available if person doesn't have any claims in progress: *add link*
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Shawna/Liz and I also have some colleagues on the line observing and taking notes. Today we're going to have you take a look at VA.gov on your phone and explore what's working and not working about that experience.
+Thanks for joining us today! My name is Tressa/Cassandra and I also have some colleagues on the line observing and taking notes. Today we're going to have you take a look at  VA.gov on your phone and explore what's working and not working about that experience.
 
 Before we start, a few things I want to mention:
 
