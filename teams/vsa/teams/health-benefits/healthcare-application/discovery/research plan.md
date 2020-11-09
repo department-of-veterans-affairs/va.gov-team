@@ -1,4 +1,4 @@
-# Research Plan for [Caregiver, Health Care Application, November 2020]
+# Draft Research Plan for [Caregiver, Health Care Application, November 2020]
 As a designer I need to create a research plan to share with my team.	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
 ## Goals	
 This reserach is being conducted on the health Care Application by the Caregiver team.
