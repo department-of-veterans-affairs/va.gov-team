@@ -17,7 +17,7 @@
        - avg: 10.370 seconds
        - more stats: https://dsva.slack.com/archives/CMJ2V70UV/p1604702251367000 
 - [ ] Backend work to support secondary caregiver only applciations
-- [ ] Automate downtime message when MPI is down
+- [ ] Real-time downtime message when MPI is down
 - [ ] Resolving 10-10CG submission errors
      - [PDFs not being sent - research](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14429)
      - [Logging](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15146)
