@@ -892,16 +892,24 @@ Back to [Table of Contents](#table-of-contents)
 ---
 ### Find Forms MVP
 
-**Audit status:** _Staging review completed by VSA, April 22, 2020._<br/>
+**Audit status:** _Full A11y Audit completed by VSA, November 9, 2020; Staging review completed by VSA, April 22, 2020._<br/>
 
 **Open issues**
 
-- [508-defect-2 [COGNITION]: The page MUST specify the language - #14432](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14432)<br/>**Production** | **Opened:** October 5, 2020 | **Severity:** _508-defect-2 - **Serious**_
+- [[#14432 508-defect-2 COGNITION]: The page MUST specify the language](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14432)<br/>**Production** | **Opened:** October 5, 2020 | **Severity:** _508-defect-2 - **Serious**_
+
+- [[#15772 508-defect-2 AXE-CORE]: Heading levels SHOULD increase by one](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15772)<br/>**Production** | **Opened:** November 4, 2020 | **Severity:** _508-defect-2 - **Serious**_
+
+- [[#15785 508-defect-2 AXE-CORE]: Heading levels SHOULD increase by one](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15785)<br/>**Production** | **Opened:** November 4, 2020 | **Severity:** _508-defect-2 - **Serious**_
+
 - [[#8248 components, design system [SCREENREADER] Aside MUST not be contained in another landmark](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8248)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
+
 - [[#8250 sitewide [AXE-CORE]: Landmarks MUST have a unique role or role/label/title (i.e. accessible name) combination](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8250)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
+
 - [[#8253 sitewide, CMS [SCREENREADER, KEYBOARD, COGNITION]: Links SHOULD look like links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8253)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
-- [[#8254 design system, components [KEYBOARD]: Focus outline MUST be visible around focused content, pagination](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8254)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
+
 - [[#8255 sitewide, design system, components [KEYBOARD]: Focused item MUST be contained by focus outline, pagination Next >](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8255)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
+
 - [[#8279 [FOCUS MANAGEMENT]: Focus outline SHOULD be removed from non-linked heading](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8279)<br/>**Production** | **Opened:** April 22, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
 
 Back to [Table of Contents](#table-of-contents)
