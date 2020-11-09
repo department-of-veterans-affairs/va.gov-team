@@ -36,16 +36,17 @@ Veteran-facing services (VFS) teams are responsible for ensuring the accessibili
 - Reduce the backlog of post-launch accessibility improvements over time, as prioritized by their DEPO product lead
 
 ## VFS accessibility FAQs
+
 <details><summary><b>Can VFS leads and specialists attend collaboration cycle meetings?</b></summary>
-  That’s up to you. VFS teams are responsible for requesting which VFS folks they'd like to attend collaboration cycle meetings. If you'd like them to include you, you may need to communicate that within your program, but that's totally fine by the DEPO Platform!
+  That’s up to you. VFS teams are responsible for requesting which VFS folks they'd like to attend collaboration cycle meetings. If you'd like them to include you, you may need to communicate that within your program, but that's totally fine by the DEPO Platform.
 </details>
 
 <details><summary><b>Is there an expected timeline for fixing 2-4 defect issues?</b></summary>
-VFS teams should review the time frame guidance in the [508 defect severity rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md). The time frame guidance was put in place to reflect the realities of 2 week sprint cycles, and how important the severity level is in terms of human impact. Teams should work with their DEPO lead to prioritize accessibility fixes based on the defect level and other product initiatives.</details>
+  
+VFS teams should review the time frame guidance in the [508 defect severity rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md). The time frame guidance was put in place to reflect the realities of 2-week sprint cycles, and how important the severity level is in terms of human impact. Teams should work with their DEPO lead to prioritize accessibility fixes based on the defect level and other product initiatives.</details>
 
-<details>
-  <summary><b>Will the Must/Should/Consider framework be retained?</b></summary>
-  No, not in its current state. The Must Should Consider framework for accessibility issues has proven to be confusing for VFS teams. The DEPO Platform wants to go much simpler, and also take into consideration work being done on the WCAG checklist by VSA and DEPO. For the immediate future, the DEPO Platform is leaning into the following:
+<details><summary><b>Will the Must/Should/Consider framework be retained?</b></summary>
+No, not in its current state. The Must/Should/Consider framework for accessibility issues has proven to be confusing for VFS teams. The DEPO Platform wants to go much simpler, and also take into consideration work being done on the WCAG checklist by VSA and DEPO. For the immediate future, the DEPO Platform is leaning into the following:
   
   * All 508 issues must be fixed, defect level 0-4
   * Defect levels 0 and 1 must be fixed before launch
@@ -53,19 +54,18 @@ VFS teams should review the time frame guidance in the [508 defect severity rubr
   * The DEPO Platform is going to revise the defect severity rubric for human impact and future changes like WCAG 2.1.
 </details>
 
-<details>
-  <summary><b>How would you like VFS specialists to engage with VSP accessibility documentation?</b></summary>
-  DEPO Platform welcomes teams contributing suggested updates to the documentation. VFS teams should do the following:
+<details><summary><b>How would you like VFS specialists to engage with VSP accessibility documentation?</b></summary>
+  DEPO Platform welcomes teams contributing and making suggested updates to the documentation. To suggest a change, VFS teams should do the following:
   
   * Add your changes or new document in a feature branch
   * Create a pull request and add Gretchen and Trevor as reviewers
     * Gretchen will review your documents for style
     * Trevor will review your documents for technical accuracy
-  * When your changes or new document are approved, feel free to merge them into the main branch and delete your feature branch. Do not merge changes without a pull request and review cycle.
+  * When your changes or new document are approved, you can merge them into the main branch and delete your feature branch. Do not merge changes without a pull request and review cycle.
 </details>
 
 <details><summary><b>Are there issues with VFS specialists helping others out in Slack channels?</b></summary>
-  DEPO Platform has no issues, as long as answers are posted in the public #vetsgov-accessibility or #vfs-platform-support channels for all to review and use. If the DEPO Platform accessibility specialists hold a contrary opinion, VFS teams should follow the platform answer.
+  DEPO Platform has no issues, as long as answers are posted in the public #vetsgov-accessibility or #vfs-platform-support channels for all to review and use. If the DEPO Platform accessibility specialists hold a contrary opinion, VFS teams should follow the Platform answer.
 </details>
 
 <details><summary><b>Will VSP communicate with the 508 office on behalf of VFS teams?</b></summary>
