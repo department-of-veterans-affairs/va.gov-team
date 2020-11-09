@@ -8,6 +8,9 @@ As part of the Health Care Application Discovery Sprint, we will conduct an anal
 
 Analytics are an especially good way of seeing what people are doing. They can't tell us "why," but they can tell us "what." The team wanted to gain insight into the following:
 
+- Completion trend for the online HCA application  
+- What is the entry point for the intro page (subway map) of the HCA? 
+What are the drop off points within the HCA? 
 The assumption is that the online application for the Health Care Application (10-10EZ) has declined
 - Want to validate this with data 
 What’s date frame (i.e. last six months, last year, etc) that can provide an accurate picture of this
