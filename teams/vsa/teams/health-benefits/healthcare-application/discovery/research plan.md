@@ -1,7 +1,7 @@
 # Draft Research Plan for [Caregiver, Health Care Application, November 2020]
 As a designer I need to create a research plan to share with my team.	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
 ## Goals	
-This reserach is being conducted on the health Care Application by the Caregiver team.
+This reserach is being conducted on the Health Care Application by the Caregiver team.
 
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
