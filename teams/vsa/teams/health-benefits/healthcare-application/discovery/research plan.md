@@ -3,8 +3,18 @@ As a designer I need to create a research plan to share with my team.	(This shou
 ## Goals	
 This reserach is being conducted on the Health Care Application by the Caregiver team.
 
-2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
-3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
+2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?
+
+**The research questions we want to address are:**
+- How do Veterans learn of the HCA and what are their motivations when applying? 
+- What is the Veteran’s journey when accessing the digital HCA? 
+- What is the Veteran experience of the online HCA? 
+- Do Veterans understand the application process? Some common questions Veterans have when applying with the online application?  
+- What are the drop off points within the HCA?
+- What do Veterans expect to happen after they’ve submitted the form?
+- What is the average time an application takes to be processed? 
+- Do Veterans prefer to complete the application online or via the paper process? Why?
+
 4. Hypothesis: What is your hypothesis for this research? 	
 ## Method	
 1.	What method of research are you planning? 	
