@@ -50,11 +50,15 @@ A total of 10 participants will be interviewed:
 
 2. Jonathan Sacks, RN (jonathan.sacks@va.gov)
 
+3. Tyson, Desiree N. (Portland) <Desiree.Tyson@va.gov>
+
+4. Doris Mack (Kansas City)  Doris.Mack@va.gov
+
 3. Angela Finch, AMSA (angela.finch@va.gov)
 
 4. Chadburn Campbell, AMSA (chadburn.campbell@va.gov)
 
-5. Tyson, Desiree N. (Portland) <Desiree.Tyson@va.gov>
+5. 
 
 6. STL: Paula.Swope@va.gov
 
