@@ -3,6 +3,7 @@
 ## Goals
 This research is to test two mobile versions of the My VA dashboard re-design and gain feedback on the preferred design direction (A vs. B). This includes:
 
+- 0verall, is there enough relevant information on the dashboard to be valuable
 - can the user find the information that they are looking for effectively
 - does the page structure (scrolling vs navigation) affect ease of visibility
 - can the user easily access and understand any personal updates (claims, healthcare, or forms)
@@ -22,7 +23,6 @@ Our goal is to create a My VA dashboard design that will improve the online expe
 - Do Veterans prefer design version A or B?
 - Is there any confusion caused by the status update styles in A vs B design?
 - Can people find what they're looking for on the dashboard?
-- Overall, is there enough relevant information on the dashboard to be valuable?
 - Does the placement of the disability rating make sense to users?
 - In the claims and healthcare sections, do users understand what is being displayed? Is it enough information?
 - What information is important for them to see first?
@@ -60,7 +60,7 @@ Other assumptions include:
 We will conduct remote moderated usability testing via Zoom using the Perigean contract. This method will allow us to share a high-fidelity wireframe prototype (mobile A & B versions).
 
 ## Participants and Recruitment
-Recruit for 12 fulfilled sessions (showing each user versions A & B) using the following criteria:
+Recruit for 8 fulfilled sessions (showing each user versions A & B) using the following criteria:
 
 ### Must have for participants
 
@@ -70,9 +70,10 @@ Recruit for 12 fulfilled sessions (showing each user versions A & B) using the f
 ### Good to have for participants
 * At least one iOS mobile device owner
 * At least one Android mobile device owner
-* At least 1 woman
+* At least 2 women
 * At least 1 person of color
-* At least 1 participant 35 or under and 1 participant over 55
+* At least 2 participants 35 or under and 1 participant over 55
+* At least 1 participant who currently receives VA healthcare
 * At least one person that does not have a college degree (to include enlisted Vets)
 * At least one person that has a college degree (to include of officer Vets)
 * At least one person who lives in a rural or remote area
