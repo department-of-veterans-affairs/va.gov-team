@@ -70,18 +70,7 @@ Let's start by making sure you can figure out how to share your screen on Zoom.
 
 ## First Task: VA.gov navigation and content - 7 minutes
 
-- I'd like you to go to VA.gov on your device. Now imagine you're interested in going back to school and you've heard there are benefits that can help you with that. How would you look for these benefits?  
-
-When they land on a content page, say 
-- Let's say this page wasn't what you were looking for. How would you explore a different aspect of Education benefits? 
-
-If they don't use "More in this section" ask them if they saw it / their thoughts
 
 ### Things to watch for:
 
-- Do they use search or browse?
-- If they search, what is that like? What about browsing?
-- How do they interact with the header if at all?
-- How do they interact with navigation if at all?
-- How do they switch between content pages using the navigation? Do they see the "More in this section" bar?
-- If they don't get to the "hub page" show this to them https://www.va.gov/education/
+- 
