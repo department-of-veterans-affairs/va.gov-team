@@ -46,29 +46,24 @@ Qualitative research
 
 A total of 10 participants will be interviewed:
 
-1. Lois Bowen, RN (lois.bowen@va.gov)
+1. Lois Bowen, RN <lois.bowen@va.gov>
 
-2. Jonathan Sacks, RN (jonathan.sacks@va.gov)
+2. Jonathan Sacks, RN <jonathan.sacks@va.gov>
 
 3. Tyson, Desiree N. (Portland) <Desiree.Tyson@va.gov>
 
-4. Doris Mack (Kansas City)  Doris.Mack@va.gov
+4. Doris Mack (Kansas City) <Doris.Mack@va.gov>
 
-3. Angela Finch, AMSA (angela.finch@va.gov)
+5. Chadburn Campbell, AMSA () (chadburn.campbell@va.gov)
 
-4. Chadburn Campbell, AMSA (chadburn.campbell@va.gov)
+7. Angela Finch, AMSA () <angela.finch@va.gov>
 
-5. 
+8. Chadburn Campbell, AMSA () <chadburn.campbell@va.gov>
 
-6. STL: Paula.Swope@va.gov
+9. Laura Gilmore () <Laura.Gilmore2@va.gov>
 
-7. MRN: Laura.Gilmore2@va.gov
+10. Paula Swope (Seattle) <Paula.Swope@va.gov>
 
-8. Kansas City: Doris.Mack@va.gov
-
-9. TBD
-
-10. TBD
 
 ### Participant Criteria:
 
