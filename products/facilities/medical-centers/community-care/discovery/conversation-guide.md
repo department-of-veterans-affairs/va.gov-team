@@ -12,9 +12,10 @@
 Thanks for joining us today! My name is Chris and I also have some colleagues on the line observing and taking notes. Today we're going to talk about scheduling Veterans for community care appointments. Our goal is to understand your role as a Community Care manager who works with Veterans, service members and their families. 
 
 /--- Integrate this with intro section above ---
-what data they use to process community care requests for veterans
-how they query for providers and care types
-and what factors are important to a Veteran so that we can present Facility Locator Community care provider search results accordingly. 
+
+- what data they use to process community care requests for veterans
+- how they query for providers and care types
+- and what factors are important to a Veteran so that we can present Facility Locator Community care provider search results accordingly. 
 ---/
 
 Before we start, a few things I want to mention:
