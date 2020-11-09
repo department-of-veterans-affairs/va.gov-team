@@ -44,7 +44,7 @@ Qualitative research
 
 ## Participants and Recruitment
 
-A total of 9 participants will be interviewed:
+A total of 8 participants will be interviewed:
 
 1. Lois Bowen, RN <lois.bowen@va.gov>
 
@@ -54,15 +54,13 @@ A total of 9 participants will be interviewed:
 
 4. Doris Mack (Kansas City) <Doris.Mack@va.gov>
 
-5. Chadburn Campbell, AMSA () (chadburn.campbell@va.gov)
+5. Chadburn Campbell, AMSA () <chadburn.campbell@va.gov>
 
 6. Angela Finch, AMSA () <angela.finch@va.gov>
 
-7. Chadburn Campbell, AMSA () <chadburn.campbell@va.gov>
+7. Laura Gilmore () <Laura.Gilmore2@va.gov>
 
-8. Laura Gilmore () <Laura.Gilmore2@va.gov>
-
-9. Paula Swope (Seattle) <Paula.Swope@va.gov>
+8. Paula Swope (Seattle) <Paula.Swope@va.gov>
 
 
 ### Participant Criteria:
