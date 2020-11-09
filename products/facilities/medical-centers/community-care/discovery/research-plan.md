@@ -44,7 +44,7 @@ Qualitative research
 
 ## Participants and Recruitment
 
-A total of 8 participants will be interviewed:
+A total of 12 participants will be interviewed:
 
 1. Lois Bowen, RN <lois.bowen@va.gov>
 
@@ -61,6 +61,14 @@ A total of 8 participants will be interviewed:
 7. Laura Gilmore () <Laura.Gilmore2@va.gov>
 
 8. Paula Swope (Seattle) <Paula.Swope@va.gov>
+
+9. Robin Toohey () <Robin.Toohey2@va.gov>
+
+10. Amberli Russell () <Amberli.Russell@va.gov>
+
+11. Claudetta Barnes () <Claudetta.Barnes@va.gov>
+
+12. Valerie Simmons () <Valerie.Simmons@va.gov>
 
 
 ### Participant Criteria:
