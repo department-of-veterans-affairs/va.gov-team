@@ -3,7 +3,7 @@
 ## Goals
 This research is to test two mobile versions of the My VA dashboard re-design and gain feedback on the preferred design direction (A vs. B). This includes:
 
-- 0verall, is there enough relevant information on the dashboard to be valuable
+- overall, is there enough relevant information on the dashboard to be valuable
 - can the user find the information that they are looking for effectively
 - does the page structure (scrolling vs navigation) affect ease of visibility
 - can the user easily access and understand any personal updates (claims, healthcare, or forms)
