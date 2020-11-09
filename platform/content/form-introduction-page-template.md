@@ -117,9 +117,9 @@ It also sets the user’s expectation for how long it takes to receive a respons
 ### OMB information 
 
 This information is taken from the paper form (or provided by a VA stakeholder). It appears at the bottom of the form introduction page:
-- Respondent burden
-- OMB control numer
-- Privacy statement (link)
+- Respondent burden (pulled from the paper form)
+- OMB control number (pulled from the paper form)
+- Privacy Act Statement (link)
 
 ----
 
