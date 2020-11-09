@@ -82,7 +82,7 @@ A total of 12 participants will be interviewed:
 - Are you currenty a Community Care Manager who schedules appointment for Veterans?
   - (Answer must be yes)
  
-## Timeline
+## Timeline (Updated as time slots are filled)
 
 - Study dates: November 12th - 20th, 2020 Session length: 45 minutes 
 - Pilot session: will be held on November 6, 2020 at 2 pm EST 
