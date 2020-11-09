@@ -85,10 +85,10 @@ A total of 10 participants will be interviewed:
 
 Date | Time in Eastern | Slots
 -----|-----------------------|-------
-Friday, Nov 6 [PILOT] | 2p | 3p 
-Day of week, Nov 00 |  -p | - 
-Day of week, Nov 00 |  -p | -  
-Day of week, Nov 00 |  -p | -  
+Friday, Nov 6 [PILOT] | 2 pm | 3 pm
+Thursday, Nov 12 |  4 pm | 5 pm 
+Friday, Nov 13 |  12:30 pm | 1:30 pm  
+Friday, Nov 13 |  3:15 pm | 4:15 pm  
 Day of week, Nov 00 |  -p | -  
 Day of week, Nov 00 |  -p | -  
 Day of week, Nov 00 |  -p | -  
