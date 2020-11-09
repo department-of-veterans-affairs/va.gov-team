@@ -18,13 +18,17 @@ Federal agencies were required to comply with the Revised 508 Standards by Janua
 
 ## Section 508 (WCAG 2.0) and the 508-defect severity rubric
 
-The Section 508 criteria listed here **do not** map directly to the VSP 508-defect severity rubric. 
+The Section 508 criteria listed here **do not** map directly to the VSP 508-defect severity rubric. A direct mapping of severity to WCAG success criteria is **not possible**, as it varies by implementation and the degree of human impact. Severity levels indicate the human impact for prioritization. So, there could be a must that is a 508-defect-4 if the implementation isn't going to have much human impact.
 
-- 508-defect-0 means the issue is **harmful**, _such as_, bullet #7 under Sight & Sound regarding strobing effects ([WCAG 2.3.1](https://www.wuhcag.com/three-flashes-or-below/)). Making a determination that an issue is harmful relies on the experienced expertise of an accessibility professional.
+* **508-defect-0 :exclamation:️ Potentially Harmful.** — Must be fixed immediately.
+* **508-defect-1 :exclamation:️ Critical.** — Must be fixed before launch.
+* **508-defect-2 — :warning: Serious.** — Should be fixed in 1-2 sprints post-launch.
+* **508-defect-3 — :warning: Minor.** — Should be fixed in 1-3 sprints post-launch.
+* **508-defect-4 — :heavy_check_mark: Trivial.** — Consider fixing or exploring in 2-4 sprints post-launch.
 
-- 508-defect-1 means the experience is **broken**. A user is unable to proceed, access, or understand the content. The severity rubric provides examples, such as keyboard traps, content not available for assistive technology users, etc.
+<!-- - 508-defect-0 means the issue is **harmful**, _such as_, bullet #7 under Sight & Sound regarding strobing effects ([WCAG 2.3.1](https://www.wuhcag.com/three-flashes-or-below/)). Making a determination that an issue is harmful relies on the experienced expertise of an accessibility professional. -->
 
-A direct mapping of severity to WCAG success criteria is **not possible**, as it varies by implementation and the degree of human impact.
+<!-- - 508-defect-1 means the experience is **broken**. A user is unable to proceed, access, or understand the content. The severity rubric provides examples, such as keyboard traps, content not available for assistive technology users, etc.  -->
 
 <hr/>
 
@@ -50,11 +54,16 @@ A direct mapping of severity to WCAG success criteria is **not possible**, as it
 
 * The [Plain Writing Act of 2010](https://plainlanguage.gov/law/) includes requirements to ensure **content is accessible**.
     
-* **Since 2017, Section 508 references WCAG 2.0 Level A and Level AA Success Criteria and Conformance Requirements.** The Access Board, who oversees Section 508, indicated they will wait for WCAG 3.0 (expected in 2021–2022) to update Section 508. WCAG 2.0 was published on December 11, 2008.
-
+* **Since 2017, Section 508 references WCAG 2.0 Level A and Level AA Success Criteria and Conformance Requirements, which were published on December 11, 2008.** The Access Board, who oversees Section 508, indicated they will wait for WCAG 3.0 (expected in 2021–2022) to update Section 508. 
 
 * On June 5, 2018, WCAG 2.1 was released and is the current worldwide standard for accessibility compliance. Half of U.S. Veterans have an identified cognitive disability, and it's likely even more do. VA.gov mobile traffic continues to increase and accounts for half of the arrivals. WCAG 2.1's focus on cognitive and mobile design success criteria are useful for supporting these needs. Building on that, there are additional draft criteria in WCAG 2.2 that are not yet part of the standard, and continue to ensure accessibility for people with cognitive disabilities and those on mobile. 
 
+### Section 508 violations and best practices
+
+The criteria below includes a combination of success criteria that the VA 508 Program office describes as violations and best practices.
+
+* Musts are violations of Section 508 (WCAG 2.0 AA & AA).
+* Shoulds are best practices, not current Section 508 requirements (WCAG 2.0 AAA, WCAG 2.1).
 
 ## Section 508 success criteria can be organized into four areas: 
 
