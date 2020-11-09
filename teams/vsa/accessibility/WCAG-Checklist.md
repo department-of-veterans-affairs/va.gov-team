@@ -8,23 +8,12 @@ The W3C's Web Content Accessibility Guidelines (WCAG) are the worldwide standard
 
 For an overview of WCAG, and distinctions between 2.0, 2.1, and 2.2, please see the [W3C WCAG documentation](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
-<hr/>
-
 >> **Section 508 = WCAG 2.0**
 
 <hr/>
 
 Federal agencies were required to comply with the Revised 508 Standards by January 2018, which incorporate by reference the WCAG 2.0 Level A and AA Success Criteria. | [Read more about the Section 508 Baseline](https://section508coordinators.github.io/ICTTestingBaseline/introduction.html)
 
-## Section 508 (WCAG 2.0) and the 508-defect severity rubric
-
-The Section 508 criteria listed here **do not** map directly to the VSP 508-defect severity rubric. A direct mapping of severity to WCAG success criteria is **not possible**, as it varies by implementation and the degree of human impact. Severity levels indicate the human impact for prioritization. So, there could be a must that is a 508-defect-4 if the implementation isn't going to have much human impact.
-
-* **508-defect-0 :exclamation:️ Potentially Harmful.** — Must be fixed immediately.
-* **508-defect-1 :exclamation:️ Critical.** — Must be fixed before launch.
-* **508-defect-2 — :warning: Serious.** — Should be fixed in 1-2 sprints post-launch.
-* **508-defect-3 — :warning: Minor.** — Should be fixed in 1-3 sprints post-launch.
-* **508-defect-4 — :heavy_check_mark: Trivial.** — Consider fixing or exploring in 2-4 sprints post-launch.
 
 <!-- - 508-defect-0 means the issue is **harmful**, _such as_, bullet #7 under Sight & Sound regarding strobing effects ([WCAG 2.3.1](https://www.wuhcag.com/three-flashes-or-below/)). Making a determination that an issue is harmful relies on the experienced expertise of an accessibility professional. -->
 
@@ -64,6 +53,19 @@ The criteria below includes a combination of success criteria that the VA 508 Pr
 
 * Musts are violations of Section 508 (WCAG 2.0 AA & AA).
 * Shoulds are best practices, not current Section 508 requirements (WCAG 2.0 AAA, WCAG 2.1).
+
+### Section 508 (WCAG 2.0) and the 508-defect severity rubric
+
+The Section 508 criteria listed here **do not** map directly to the VSP 508-defect severity rubric. A direct mapping of severity to WCAG success criteria is **not possible**, as it varies by implementation and the degree of human impact. Severity levels indicate the human impact for prioritization. So, there could be a must that is a 508-defect-4 if the implementation isn't going to have much human impact.
+
+* **508-defect-0 :exclamation:️ Potentially Harmful.** — Must be fixed immediately.
+* **508-defect-1 :exclamation:️ Critical.** — Must be fixed before launch.
+* **508-defect-2 — :warning: Serious.** — Should be fixed in 1-2 sprints post-launch.
+* **508-defect-3 — :warning: Minor.** — Should be fixed in 1-3 sprints post-launch.
+* **508-defect-4 — :heavy_check_mark: Trivial.** — Consider fixing or exploring in 2-4 sprints post-launch.
+
+Severity levels indicate the human impact for prioritization. So, there could be a must that is a 508-defect-4 if the implementation isn't going to have much human impact.
+
 
 ## Section 508 success criteria can be organized into four areas: 
 
