@@ -111,5 +111,5 @@ Mobile Pilot Sessions (1 total sessions, 2 mobile, A vs B): Day, November TBD | 
 * 
 ## Resources
 * [Project Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md)
-* Conversation Guide
+* [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-conversation-guide.md)
 * Research Findings
