@@ -14,7 +14,8 @@
 - [ ] Research
      - How many PDFs haven't been sent?
      - [x] How long do submissions API calls take (on average)?
-       - https://dsva.slack.com/archives/CMJ2V70UV/p1604702251367000 
+       - avg: 10.370 seconds
+       - more stats: https://dsva.slack.com/archives/CMJ2V70UV/p1604702251367000 
 - [ ] Backend work to support secondary caregiver only applciations
 - [ ] Automate downtime message when MPI is down
 - [ ] Resolving 10-10CG submission errors
