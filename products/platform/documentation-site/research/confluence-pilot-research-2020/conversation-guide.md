@@ -22,11 +22,11 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Liani and I also have some colleagues on the line observing and taking notes. We are creating new platform documentation, and a big part of that is readjusting the information architecture, aka info is organized and structured.  This session will be split into 3 parts: 
+Thanks for joining us today! My name is Liani and I also have some colleagues on the line observing and taking notes. We are creating new platform documentation, and a big part of that is readjusting the information architecture, aka how info is organized and structured.  This session will be split into 3 parts: 
 
-(1) a conversation about XYZ, then
-(2) a short activity that'll help us do a coherence check on our experimental structure, and finally
-(3) we'd love to hear your thoughts on the activity.
+1. A conversation about XYZ, then
+2. A short activity that'll help us do a coherence check on our experimental structure, and finally
+3. We'd love to hear your thoughts on the activity.
 
 Before we start, a few things I want to mention:
 
