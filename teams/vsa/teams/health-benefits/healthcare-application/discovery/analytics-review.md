@@ -12,6 +12,6 @@ Analytics are an especially good way of seeing what people are doing. They can't
 - What is the entry point for the intro page (subway map) of the HCA?
 - What are the drop off points within the HCA?
 
-**Examine data from Call Centers ((key word search, calls regarding HCA)**
-**Satisfaction surveys**
-**Was there a simpler trend in paper applications as well (Lauren Alexanderson)**
+- **Examine data from Call Centers (key word search, calls regarding HCA)**
+- **Satisfaction surveys**
+- **Was there a simpler trend in paper applications as well (Lauren Alexanderson)**
