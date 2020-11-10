@@ -6,7 +6,7 @@
 - [Cypress Custom Commands](#cypress-custom-commands)
   - [Mock User: `cy.login(userData)`](#mock-user-cyloginuserdata)
   - [Test Data: `cy.syncFixtures(fixtures)`](#test-data-cysyncfixturesfixtures)
-  - [File uploads: `cy.upload(fileName, fileType)`](#file-uploads-cyuploadfilename-filetype)
+  - [File Uploads: `cy.upload(fileName, fileType)`](#file-uploads-cyuploadfilename-filetype)
   - [Accessibility - `cy.axeCheck(context)`](#accessibility-cyaxecheckcontext)
   - [Expand Accordions: `cy.expandAccordions()`](#expand-accordions-cyexpandaccordions)
 - [Viewports](#viewports)
@@ -35,12 +35,13 @@ Custom Cypress commands abstract away common behaviors that are required across 
 - Accessibility - `cy.axeCheck(context)`
 - Expand Accordions: `cy.expandAccordions()`
 ### Mock User: cy.login(userData)
-**Source file:** https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/login.js 
+**Source file:**  
+https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/login.js 
 
-**Description:**
+**Description:**  
 Allows us to simulate a signed-in session. 
 
-**Arguments:**
+**Arguments:**  
 `cy.login()` takes an optional argument which is assigned to the `userData` parameter which defaults to the following `mockUser` object if no argument is given:
 
 ``` javascript
@@ -109,15 +110,16 @@ const mockUser = {
 
 To sign in as a custom-defined user, copy the `mockUser` object, modify it as needed, and pass it as an argument to `cy.login()`.  The custom-defined user object should have the same shape as the response body for the /v0/user API endpoint.
 ### Test Data: cy.syncFixtures(fixtures)
-**Source file:** https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/syncFixtures.js
+**Source file:**  
+https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/syncFixtures.js
 
-**Description:**
+**Description:**  
 Allows us to access fixtures stored in different directories within your application, something that Cypress doesn’t support.
 
-**Arguments:**
+**Arguments:**  
 `cy.syncFixtures()` takes an argument that is assigned to the fixtures parameter. The argument should be an object that contains one or more key/value pairs that represent the name of the fixture and the path to it.
 
-**Usage:**
+**Usage:**  
 `src/applications/hca/tests/schema` contains test data for the hca application. You can load the file as a fixture like so:
 
 ``` javascript
@@ -150,13 +152,14 @@ cy.route('/v0/foo', 'fixture:data/foo');
 cy.route('/v0/bar', 'fixture:data/bar');
 ```
 ### File uploads: cy.upload(fileName, fileType)
-**Source file:** https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/upload.js
+**Source file:**  
+https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/upload.js
 
-**Description:**
+**Description:**  
 Allows us to upload files, which Cypress does not natively support. This implementation is based on this [workaround](https://github.com/cypress-io/cypress/issues/170#issuecomment-619758213). 
 
-**Arguments:**</br>
-fileName -- a string</br>
+**Arguments:**  
+fileName -- a string  
 file Type -- a string
 
 This function must be chained from a command that retrieves an upload input element.
@@ -166,12 +169,13 @@ cy.findByText('Upload', { selector: 'button' })
   .upload('src/platform/testing/example-upload.png', 'image/jpg');
 ```
 ### Accessibility: cy.axeCheck(context)
-**Source file:** https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/axeCheck.js
+**Source file:**  
+https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/axeCheck.js
 
-**Description:**
+**Description:**  
 Checks the current page for aXe violations.
 
-**Arguments:**
+**Arguments:**  
 `cy.axeCheck()` takes an optional argument which is assigned to the context parameter which defaults to ‘main’ if no argument is given.
 
 To add aXe checks to your tests use the custom `cy.axeCheck()` command based off the `cy.checkA11y()` [command](https://github.com/component-driven/cypress-axe#cychecka11y).
@@ -195,10 +199,10 @@ Please note: Tests written with the form tester automatically check for accessib
 ### Expand Accordions: cy.expandAccordions()
 **Source file:** https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/expandAccordions.js 
 
-**Description:**
+**Description:**  
 The custom command -- cy.expandAccordions() -- expands all accordions and `AdditionalInfo` components.
 
-**Arguments:**
+**Arguments:**  
 None
 ## Viewports
 Cypress’ default viewport size is 1000px by 660px.
