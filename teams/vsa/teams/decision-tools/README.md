@@ -100,6 +100,19 @@ _Update as you see fit! These are some starter norms for you to consider_
 - Let’s have fun and do great work!
 - Family comes first!
 
+#### Estimating:
+_Values from other teams (maybe a good starting point):_
+1 - trivial task (less than an hour)
+2 - hour to half-dayish
+3 - day of work
+5 - couple days of work
+8 - week of work (should probably be split into smaller tasks)
+---------
+1 - Easy task, work is known, can be executed quickly
+2 - Mostly known, doable 3 - Becoming complex
+5 - Very complex, may take a full sprint or longer
+8 - Needs to be broken down into smaller user stories
+
 #### Slack:
 
 This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication.
