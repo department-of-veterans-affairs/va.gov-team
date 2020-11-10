@@ -17,8 +17,8 @@
 
 ### Action items
 
-1. `CMS` Checklist: remove top level Section Heading and Section intro fields from Checklist paragraph.
-1. `CMS` Images: Stop prepopulating image titles when new images are upload (Icebox)
+1. `CMS` Checklist: remove top level Section Heading and Section intro fields from Checklist paragraph (sprint 20)
+1. `CMS` Images: Stop prepopulating image titles when new images are uploaded (Icebox)
 1. `CMS` Step by Step: add heading above rich text (Icebox)
 
 
