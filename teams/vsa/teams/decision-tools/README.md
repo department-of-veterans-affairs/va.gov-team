@@ -47,7 +47,8 @@ _Link to agile roadmap_
 #### Stand-up
 Check in on people and product progress
 
-- Daily @ 10:30 AM (subject to change)
+- Mon, Tue, Thu, Fri @ 10:30 AM (subject to change).  Not held on last Tue of sprint (Sprint Review and Demo & team Retro will take its place)
+- Zoom call
 - 15 min
 - 3 Question Format: What I did yesterday? What will I do today? Any impediments?
 
@@ -62,6 +63,7 @@ Outline work to be done this sprint in order to accomplish the team's goals
 Review accomplishments from prior sprint, what went well, what can be improvemed, what questions people have, and any action items
 
 - 1st Tue of every sprint 10:00 AM
+- Zoom call
 - 30 min
 
 
@@ -69,6 +71,7 @@ Review accomplishments from prior sprint, what went well, what can be improvemed
 Assess and update workload for remainder of sprint
 
 - 2nd Wed of every sprint @ 2:00 PM
+- Zoom call
 - 1 hour
 - _any other notes you have_
 
