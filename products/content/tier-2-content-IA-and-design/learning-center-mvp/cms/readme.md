@@ -11,12 +11,15 @@
 
 1. Checklist template https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15915
 1. Image article template fields
+1. Step by step component
 1. Transition for VA Forms collaboration
 1. Review [backlog](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1975)
 
 ### Action items
 
-1. 
+1. `CMS` Checklist: remove top level Section Heading and Section intro fields from Checklist paragraph.
+1. `CMS` Images: Stop prepopulating image titles when new images are upload (Icebox)
+1. `CMS` Step by Step: add heading above rich text (Icebox)
 
 
 ## Tuesday November 3
