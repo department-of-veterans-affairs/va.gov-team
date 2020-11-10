@@ -54,21 +54,21 @@ A total of 12 participants will be interviewed:
 
 4. Doris Mack (Kansas City) <Doris.Mack@va.gov>
 
-5. Chadburn Campbell, AMSA () <chadburn.campbell@va.gov>
+5. Chadburn Campbell, AMSA <chadburn.campbell@va.gov>
 
-6. Angela Finch, AMSA () <angela.finch@va.gov>
+6. Angela Finch, AMSA <angela.finch@va.gov>
 
-7. Laura Gilmore () <Laura.Gilmore2@va.gov>
+7. Laura Gilmore <Laura.Gilmore2@va.gov>
 
 8. Paula Swope (Seattle) <Paula.Swope@va.gov>
 
-9. Robin Toohey () <Robin.Toohey2@va.gov>
+9. Robin Toohey <Robin.Toohey2@va.gov>
 
-10. Amberli Russell () <Amberli.Russell@va.gov>
+10. Amberli Russell <Amberli.Russell@va.gov>
 
-11. Claudetta Barnes () <Claudetta.Barnes@va.gov>
+11. Claudetta Barnes <Claudetta.Barnes@va.gov>
 
-12. Valerie Simmons () <Valerie.Simmons@va.gov>
+12. Valerie Simmons <Valerie.Simmons@va.gov>
 
 
 ### Participant Criteria:
