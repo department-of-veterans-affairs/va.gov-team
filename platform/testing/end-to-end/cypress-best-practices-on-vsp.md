@@ -9,7 +9,7 @@
   - [File Uploads: `cy.upload(fileName, fileType)`](#file-uploads-cyuploadfilename-filetype)
   - [Accessibility - `cy.axeCheck(context)`](#accessibility-cyaxecheckcontext)
   - [Expand Accordions: `cy.expandAccordions()`](#expand-accordions-cyexpandaccordions)
-- [Viewports](#viewports)
+<!---- [Viewports](#viewports)--->
 - [Cypress Testing Library Selectors](#cypress-testing-library-selectors)
 - [`data-testid` Attribute](#data-testid-attribute)
 
@@ -204,6 +204,7 @@ The custom command -- cy.expandAccordions() -- expands all accordions and `Addit
 
 **Arguments:**  
 None
+<!---
 ## Viewports
 Cypress’ default viewport size is 1000px by 660px.
 
@@ -259,6 +260,7 @@ describe('Logo', () => {
   })
 })
 ```
+--->
 ## Cypress Testing Library Selectors
 In addition to Cypress’ [comprehensive API](https://docs.cypress.io/api/api/table-of-contents.html) for interacting with elements, the VSP platform utilizes the [Cypress Testing Library](https://testing-library.com/docs/cypress-testing-library/intro/) which allows us to test UI components in a user-centric way. This library gives us access to all of [DOM Testing Library's](https://testing-library.com/docs/dom-testing-library/api-queries/) `findBy*`, `findAllBy*`, `queryBy` and `queryAllBy` commands off the global `cy` object.
 
