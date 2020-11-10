@@ -30,15 +30,23 @@ Before we start, a few things I want to mention:
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
+- **We are only looking at prototypes today** We will be interacting with screens that aren't fully designed out...something about it's just about content, grayscale prototypes
 
 *Start recording.*
 
-- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today? 
+- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
 ## Warm-up Questions - 5 minutes
 
-- Before we look at the website, can you tell me a little about yourself? What part of the country do you live in? What branch did you serve?
-- What type of phone do you use? How do you typically use your phone versus your desktop if you have one?  
+- Before we look at the website, can you tell me a little about yourself? 
+    - What part of the country do you live in? What branch did you serve?
+- What type of phone do you use? How do you typically use your phone versus your desktop if you have one?
+- Do you currently or have you ever received benefits from the VA?
+- Do you currently or have you ever received healthcare from the VA?
+- Do you currently or have you ever filed a claim or appeal with the VA?
+
+    - If user answers no to healthcare, benefits or claims, ask if they have logged onto va.gov within the last year.
+
 
 ## Logistics: figure out how to share your screen - 5 minutes
 
@@ -66,11 +74,218 @@ Let's start by making sure you can figure out how to share your screen on Zoom.
 * For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen
 
 **Ask participant to be mindful of thinking outloud since you will not be able to see a mouse cursor go through the prototype**
+**Alternate between starting with version A and B for each participant**
 
+Today we are going to be comparing two versions of the same page.  We are going to start with version (A or B), and I'll send you the link right now. And just a reminder, these screens are intentionally grayscale.
 
-## First Task: VA.gov navigation and content - 7 minutes
+### VERSION A
+
+## First task: Overview
+
+Go ahead and scroll through this page and walk me through your thoughts.
+
+- Is there any information that you feel is missing? COME BACK TO THIS
+- If you clicked on the disability rating, where do you expect it to take you?
+- If you clicked on one of the updates, where would you expect it to take you?
+- If you clicked on one of the specific sections, for example 'secure messages', where would you expect it to take you?
+- If you click on 'Go to all recent updates' what would you expect to see?
+
+### Things to watch for:
+
+- Does the user notice disability rating?
+- 
+
+## Second task: Claims scenario
+
+Imagine you've recently submitted a claim and you are waiting to see if it has been approved. You've just landed on this page, where would you go to find the update on your claim status?
+
+If they look for the update in the updates section:
+
+- question 1
+
+If they look for the update in the claims section:
+
+- question 2
 
 
 ### Things to watch for:
 
+- Does the user notice the updates section?
+- Are they confused about where claims is located?
+
+## Third task: Healthcare scenario
+
+Okay, we're now going to move on to another scenario. Imagine you are currently enrolled in healthcare with the VA. You've come to this page to see when your next appointment is.  Can you walk me through how you would do that?
+
+If they look for appointments in the updates section:
+
+- Can you tell me why you think it would be in the updates section?
+- If it was in the updates section, what information would be included?
+
+If they look for appointments in the healthcare section:
+
+- question 2
+
+
+- What information would you like to see on this page related to your appointments?
+
+- Can you give me your thoughts on the secure messages and prescription refills sections?
+- If you clicked on 'new messages', where would you expect that to go?
+- If you clicked on 'prescription refills', where would you expect that to go?
+- Overall, what information is the most important related to your healthcare?
+- Is there any information that you would add?
+
+
+### Things to watch for:
+
+- Can the user easily find their appointments?
+- blah blah
+
+## Fourth task: Benefits
+
+If you could go ahead and scroll down to the section that says 'Benefit applications'. Can you walk me through your thoughts about this section?
+
+- Do you find anything confusing?
+- Do you think anything is missing here?
+
+
+### Things to watch for:
+
+- Does ....?
+
+### VERSION B
+
+## First task: Overview
+
+Go ahead and scroll through this page and walk me through your thoughts.
+
+- Is there any information that you feel is missing? COME BACK TO THIS
+- If you clicked on the disability rating, where do you expect it to take you?
+- If you clicked on one of the updates, where would you expect it to take you?
+- If you clicked on one of the specific sections, for example 'secure messages', where would you expect it to take you?
+- If you click on 'Go to all recent updates' what would you expect to see?
+
+### Things to watch for:
+
+- Does the user notice disability rating?
 - 
+
+## Second task: Claims scenario
+
+Imagine you've recently submitted a claim and you are waiting to see if it has been approved. You've just landed on this page, where would you go to find the update on your claim status?
+
+If they look for the update in the updates section:
+
+- question 1
+
+If they look for the update in the claims section:
+
+- question 2
+
+
+### Things to watch for:
+
+- Does the user notice the updates section?
+- Are they confused about where claims is located?
+
+## Third task: Healthcare scenario
+
+Okay, we're now going to move on to another scenario. Imagine you are currently enrolled in healthcare with the VA. You've come to this page to see when your next appointment is.  Can you walk me through how you would do that?
+
+If they look for appointments in the updates section:
+
+- Can you tell me why you think it would be in the updates section?
+- If it was in the updates section, what information would be included?
+
+If they look for appointments in the healthcare section:
+
+- question 2
+
+
+- What information would you like to see on this page related to your appointments?
+
+- Can you give me your thoughts on the secure messages and prescription refills sections?
+- If you clicked on 'new messages', where would you expect that to go?
+- If you clicked on 'prescription refills', where would you expect that to go?
+- Overall, what information is the most important related to your healthcare?
+- Is there any information that you would add?
+
+
+### Things to watch for:
+
+- Can the user easily find their appointments?
+- blah blah
+
+## Fourth task: Benefits
+
+If you could go ahead and scroll down to the section that says 'Benefit applications'. Can you walk me through your thoughts about this section?
+
+- Do you find anything confusing?
+- Do you think anything is missing here?
+
+
+### Things to watch for:
+
+- Does ....?
+
+## Comparison
+
+*pull up side by side screens*
+
+- Which prototype do you prefer? Why?
+- Do you prefer to see updates at the top of the screen or collapsed in each section?
+
+## Wrap-up
+
+- Thank you so much! After interacting with your personalized page on va.gov, what are your overall thoughts on the experience?
+- What would you call this page?
+- What are our overall thoughts about what should be a priority to improve?
+- What is working?
+- Is this a page that you would be interested in using?
+
+
+
+### Things to watch for:
+
+- Does ....?
+
+
+
+
+
+
+- If you clicked on the disability rating, where do you expect it to take you?
+- If you clicked on one of the updates, where would you expect it to take you?
+- If you clicked on one of the specific sections, for example 'secure messages', where would you expect it to take you?
+- If you click on 'Go to all recent updates' what would you expect to see?
+- Overall, is there anything you would add to this page? 
+
+
+
+
+
+
+
+
+### Things to watch for:
+
+- Do you find anything to be confusing?
+- What would you do differently on the page?
+
+
+scenario 1 - Claims
+
+Scenario 2 - healthcare, look up your next appointment 
+    - appointments
+    - prescriptions
+    - messages
+
+Scenario 3 - benefits
+
+Compare the two prototypes, show side by side
+
+Follow up questions:
+- what would you call this page?
+- what are your thoughts on navigating this page?
+- What do you like/dislike?
+- What did you find confusing?
