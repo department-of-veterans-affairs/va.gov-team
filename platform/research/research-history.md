@@ -41,6 +41,11 @@ This does not include research for Appeals projects, which is stored in differen
 - 5 participants
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/outreach-specialist-interviews)
 
+#### August 19-20: VA.gov mobile study (mobile month)
+*VSA: Shawna Hein and Liz Lantz*
+- 6 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/cross-team-initiatives/mobile-month/research)
+**Keywords:** mobile usability, mobile header, navigation, more in this section, right rail, claim status, facility locator, map view, alert usability
 
 #### August 10-14
 *VA Lighthouse APIs: Lauryl Zenobi*
