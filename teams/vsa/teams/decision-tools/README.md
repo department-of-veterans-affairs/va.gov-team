@@ -1,4 +1,4 @@
-# Decision Tools Team Charter
+# Decision Tools Charter
 
 ---
 
@@ -8,16 +8,19 @@
 _Lorem ipsum_
 
 ### Product Suite (if applicable): 
-Find a VA Form, Yellow Ribbon Program
+Unauthenticated Experience for VA.gov
 
 ### Team Mission Statement:
-_Lorem ipsum_
+Provides Veterans, family members, caregivers, service members and other audiences access to the tools they need to make decisions about services to which they are entitled.
 
 ### Product Portfolio:
-_List of products within your team's perview - make sure the list of products here aligns to what's captured in the [List of VA.gov Products doc](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit)_
+*Find a VA Form
+*Yellow Ribbon Participating Schools Tool
 
 ### Responsibilities:
-_High level problem space and user goals for this team_
+1. We will develop and deliver the content, navigation, and tools that provide our customers the easiest way to [scope TBD]
+
+2. We will strategize, write, develop, and collaborate with others in [scope TBD] on VA.gov. 
 
 ### Roadmap:
 _Link to agile roadmap_
