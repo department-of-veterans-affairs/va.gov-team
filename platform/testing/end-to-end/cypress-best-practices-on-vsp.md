@@ -8,7 +8,7 @@
   - [Test Data: `cy.syncFixtures(fixtures)`](#test-data-cysyncfixturesfixtures)
   - [File uploads: `cy.upload(fileName, fileType)`](#file-uploads-cyuploadfilename-filetype)
   - [Accessibility - `cy.axeCheck(context)`](#accessibility-cyaxecheckcontext)
-  - [Expand Accordions: `cy.expandAccordians()`](#expand-accordions-cyexpandaccordians)
+  - [Expand Accordions: `cy.expandAccordions()`](#expand-accordions-cyexpandaccordions)
 - [Viewports](#viewports)
 - [Cypress Testing Library Selectors](#cypress-testing-library-selectors)
 - [`data-testid` Attribute](#data-testid-attribute)
@@ -31,7 +31,7 @@ Custom Cypress commands abstract away common behaviors that are required across 
 - Test Data: `cy.syncFixtures(fixtures)`
 - File uploads: `cy.upload(fileName, fileType)`
 - Accessibility - `cy.axeCheck(context)`
-- Expand Accordions: `cy.expandAccordians()`
+- Expand Accordions: `cy.expandAccordions()`
 ### Mock User: cy.login(userData)
 **Source file:** https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/login.js 
 
@@ -182,7 +182,7 @@ cy.injectAxe();
 cy.axeCheck();
 ```
 
-Depending on the content of a page, it may be more thorough to test accessibility after expanding all accordions (and expandable content in general) on the page. Use the `cy.expandAccordians()` command for that purpose:
+Depending on the content of a page, it may be more thorough to test accessibility after expanding all accordions (and expandable content in general) on the page. Use the `cy.expandAccordions()` command for that purpose:
 
 ``` javascript
 cy.expandAccordions();
@@ -190,11 +190,11 @@ cy.axeCheck(); // Run the aXe check after expanding everything.
 ```
 
 Please note: Tests written with the form tester automatically check for accessibility, so this command does not need to be used explicitly in such tests.
-### Expand Accordions: cy.expandAccordians()
+### Expand Accordions: cy.expandAccordions()
 **Source file:** https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/expandAccordions.js 
 
 **Description:**
-The custom command -- cy.expandAccordians() -- expands all accordions and `AdditionalInfo` components.
+The custom command -- cy.expandAccordions() -- expands all accordions and `AdditionalInfo` components.
 
 **Arguments:**
 None
