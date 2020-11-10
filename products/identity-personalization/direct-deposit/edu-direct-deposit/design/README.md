@@ -18,7 +18,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/
 
 #### Information architecture
 
-[Direct deposit for EDU  user flows]()
+[Direct deposit for EDU  user flows](https://xd.adobe.com/view/b1df79ab-e636-4aea-9929-a8ee3d06e2a9-e48c/)
 
 ---
 
@@ -36,16 +36,23 @@ https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/
 
 #### VA Form
 
-[VA From 29-0309](https://www.vba.va.gov/pubs/forms/VBA-29-0309-ARE.pdf) `Is this current?`
+[VA From 29-0309](https://www.vba.va.gov/pubs/forms/VBA-29-0309-ARE.pdf) `Used for insurance payments`
 
 ---
 
 ### Mockups Changelog
 
+**November 6, 2020**
+- Single payment-type mockups created
+
+**November 2, 2020**
+- Text of labels and errors updated per content review
+
 **October 1, 2020**
 - WIP initial concepts
 
 ### Prototype Changelog
+- No prototype
 
 **Initial concepts**
 - TBD
