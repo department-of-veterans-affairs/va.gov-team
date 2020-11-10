@@ -3,6 +3,8 @@
 
 ### **Project-specific setup**
 
+- Make sure you are allowing sharing!
+
 - Sign into VA.gov through DS Logon
 - We will be having users share their screens (after they have logged on) and submitting a HLR.
 - When the participant is ready, pass presenter roles to them and have them share their screen.
