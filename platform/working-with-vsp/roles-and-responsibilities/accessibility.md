@@ -35,6 +35,51 @@ Veteran-facing services (VFS) teams are responsible for ensuring the accessibili
   - Post-launch audit guidance for VFS teams with an accessibility specialist **TODO: add link**
 - Reduce the backlog of post-launch accessibility improvements over time, as prioritized by their DEPO product lead
 
+## VFS accessibility FAQs
+
+<details><summary><b>Can VFS leads and specialists attend collaboration cycle meetings?</b></summary>
+  That’s up to you. VFS teams are responsible for requesting which VFS folks they'd like to attend collaboration cycle meetings. If you'd like them to include you, you may need to communicate that within your program, but that's totally fine by the DEPO Platform.
+</details>
+
+<details><summary><b>Is there an expected timeline for fixing 2-4 defect issues?</b></summary>
+  
+VFS teams should review the time frame guidance in the [508 defect severity rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md). The time frame guidance was put in place to reflect the realities of 2-week sprint cycles, and how important the severity level is in terms of human impact. Teams should work with their DEPO lead to prioritize accessibility fixes based on the defect level and other product initiatives.</details>
+
+<details><summary><b>Will the Must/Should/Consider framework be retained?</b></summary>
+No, not in its current state. The Must/Should/Consider framework for accessibility issues has proven to be confusing for VFS teams. The DEPO Platform wants to go much simpler, and also take into consideration work being done on the WCAG checklist. For the immediate future, the DEPO Platform is leaning into the following:
+  
+  * All 508 issues must be fixed, defect level 0-4
+    * Defect levels 0 and 1 must be fixed before launch
+    * Defect levels 2-4 must be fixed post-launch
+  * The DEPO Platform is going to revise the defect severity rubric for human impact and future changes like WCAG 2.1.
+</details>
+
+<details><summary><b>How would you like VFS specialists to engage with VSP accessibility documentation?</b></summary>
+  DEPO Platform welcomes teams contributing and making suggested updates to the documentation. To suggest a change, VFS teams should do the following:
+  
+  * Add your changes or new document in a feature branch
+  * Create a pull request and add Gretchen and Trevor as reviewers
+    * A platform documentation specialist will review your documents for style
+    * A platform accessibility specialist will review your documents for technical accuracy
+  * When your changes or new document are approved, you can merge them into the main branch and delete your feature branch. Do not merge changes without a pull request and review cycle.
+</details>
+
+<details><summary><b>Are there issues with VFS specialists helping others out in Slack channels?</b></summary>
+  DEPO Platform has no issues, as long as answers are posted in the public #vetsgov-accessibility or #vfs-platform-support channels for all to review and use. If the DEPO Platform accessibility specialists hold a contrary opinion, VFS teams should follow the Platform answer.
+</details>
+
+<details><summary><b>Will VSP communicate with the 508 office on behalf of VFS teams?</b></summary>
+  No. VFS teams should discuss issues with the VA 508 office directly. If a VFS team needs contact information for the VA 508 office, the DEPO Platform accessibility specialists can provide that information or make introductions.
+</details>
+
+<details><summary><b>Will VFS specialists be invited to the VA 508 Office monthly call?</b></summary>
+ Yes. The DEPO Platform sees benefits in VFS specialists attending the monthly calls. Teams can get direct feedback from the VA 508 office about their issues and questions.
+</details>
+
+<details><summary><b>Will VSP manage the reports with the VA 508 Office?</b></summary>
+ The DEPO Platform encourages VFS teams to continue submitting their own reports to the VA 508 office. All VFS communications with the VA 508 office should be made through email and CC the DEPO Platform accessibility specialist(s).
+</details>
+
 ## Read more about accessibility
 - [508, Accessibility, and Inclusive Design Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#zoom-to-400)
 
