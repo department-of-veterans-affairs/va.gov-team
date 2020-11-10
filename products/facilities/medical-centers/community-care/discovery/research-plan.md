@@ -91,7 +91,7 @@ Date | Time in Eastern | Slots
 -----|-----------------------|-------
 Friday, Nov 6 [PILOT] | 2 pm | 1
 Thursday, Nov 12 |  4 pm | 1 
-Friday, Nov 13 |  12:30 pm, 3:15 pm | 2  
+Friday, Nov 13 |  12:30 pm, 2 pm 3:15 pm | 3  
 Monday, Nov 16 |  11 am | 1  
 Thursday, Nov 19 |  2 pm | 1  
 Friday, Nov 20 |  12 pm | 1  
