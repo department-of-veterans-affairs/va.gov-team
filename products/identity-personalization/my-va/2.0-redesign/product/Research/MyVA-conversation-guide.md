@@ -25,12 +25,12 @@ Thanks for joining us today! My name is Tressa/Cassandra and I also have some co
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
-- **We are only looking at prototypes today** We will be interacting with screens that aren't fully designed out...something about it's just about content, grayscale prototypes
+- **We will be looking at prototypes today** We are in the early stages of design for these pages, so this means most of the prototype will not be clickable, and the design is intentionally grayscale.
 
 *Start recording.*
 
@@ -38,13 +38,13 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions - 5 minutes
 
-- Before we look at the website, can you tell me a little about yourself? 
+1. Before we look at the website, can you tell me a little about yourself? 
     - What part of the country do you live in? What branch did you serve?
-- What type of phone do you use? How do you typically use your phone versus your desktop if you have one?
-- Do you currently or have you ever received benefits from the VA?
-- Do you currently or have you ever received healthcare from the VA?
-- Do you currently or have you ever filed a claim or appeal with the VA?
-
+2. What type of phone do you use? How do you typically use your phone versus your desktop if you have one?
+3. Have you 
+3. Do you currently or have you ever received benefits from the VA?
+4. Do you currently or have you ever received healthcare from the VA?
+5. Do you currently or have you ever filed a claim or appeal with the VA?
     - If user answers no to healthcare, benefits or claims, ask if they have logged onto va.gov within the last year.
 
 
@@ -77,27 +77,30 @@ Let's start by making sure you can figure out how to share your screen on Zoom.
 
 **Alternate between starting with version A and B for each participant**
 
-Today we are going to be comparing two versions of the same page.  We are going to start with version (A or B), and I'll send you the link right now. And just a reminder, these screens are intentionally grayscale.
+Okay great. We have been working on re-designing a personalized page for veterans, and we would love your input.  Today we are going to be comparing two versions of the same page.  We are going to start with version (A or B), and I'll send you the link right now. And just a reminder, these screens are intentionally grayscale.
 
 ### VERSION A
+
+**Skip question one if prototype is shown second**
 
 ## First task: Overview & Updates
 
 Go ahead and scroll through this page and walk me through your thoughts.
 
-- If you clicked on the disability rating, where would you expect that to go?
+1. If you clicked on the disability rating, where would you expect that to go?
 
-Okay, now we are going to take a look at the updates section. What are your thoughts about this section? 
+Okay, now we are going to take a look at the updates section. 
 
-- If you clicked on 'Go to all recent updates' where would you expect that to go?
-- Is there anything that you would add to or change about this section?
+1. What are your thoughts about this section? 
+2. If you clicked on 'Go to all recent updates' where would you expect that to go?
+3. Is there anything that you would add or change about this section?
 
 ### Things to watch for:
 
 - Does the user notice the disability rating?
 - Is the user able to find the 'Go to all recent updates' section 
 - Does the user understand what the updates are?
-- Does the user understand where the updates go?
+- Does the user understand what clicking on an update would do?
 - Does the user understand the difference between the updates at the top and the sections below?
 
 ## Second task: Claims scenario
@@ -124,18 +127,21 @@ If they look for the update in the claims section:
 
 ## Third task: Healthcare scenario
 
-Okay, we're now going to move on to another scenario. Imagine you are currently enrolled in healthcare with the VA. You've come to this page to see when your next appointment is. Can you walk me through how you would do that?
+Okay, we're now going to move on to another scenario. Imagine you are currently enrolled in healthcare with the VA. You've come to this page to see when your next appointment is.
+
+1. Can you walk me through how you would do that?
 
 If they look for appointments in the updates section:
 
-- Can you tell me why you think it would be in the updates section?
-- If it was in the updates section, what information should be included?
+1. Can you tell me why you think it would be in the updates section?
+2. What information would you expect to be included for your appointments?
 
 If they look for appointments in the healthcare section:
 
-- Do you feel like this upcoming appointment is in the correct place on the page?
-- What information would you like to see on this page related to your appointments?
-- Is there any thing that you would add or change about this upcoming appointment?
+1. Was it easy or hard to find your upcoming appointment?
+2. What information would you like to see on this page related to your appointments?
+
+3. Is there any thing that you would add or change about the appointments section?
 
 - Can you give me your thoughts on the secure messages and prescription refills sections?
 - If you clicked on 'new messages', where would you expect that to go?
@@ -166,27 +172,39 @@ If you could go ahead and scroll down to the section that says 'Benefit applicat
 
 ### VERSION B
 
+**Skip question one if prototype is shown second**
+
 ## First task: Overview
 
 Take a look at this page, and let me know your thoughts.
 
-- If you clicked on the disability rating, where would you expect that to go?
-- What are your thoughts about the updates on this page?
-- If you were to click on 'claims and appeals' (don't do it yet), what would you expect to see?
+1. If you clicked on the disability rating, where would you expect that to go?
+2. What are your thoughts about finding updates on this page?
+3. Don't do it yet, but if you were to click on 'claims and appeals', what would you expect to see?
 
-Go ahead and click on claims and appeals. What are your thoughts about this section?
+Go ahead and click on claims and appeals. 
 
-- If you clicked on 'Go to recent claims updates' where would you expect that to go?
-- Is there anything that you would add to this section?
+1. What are your thoughts about this section?
+2. If you clicked on 'Go to recent claims updates' where would you expect that to go?
+3. Was it easy or hard to understand your updates?
+4. Is there anything that you would add to this section?
 
 ### Things to watch for:
 
-- Does the user notice disability rating?
-- 
+- Does the user notice their disability rating?
+- Is the user able to find the 'Go to all recent claims updates' section 
+- Does the user understand what the updates are?
+- Does the user understand what clicking on an update would do?
+- Does the user understand the difference between the updates at the top and the sections below?
 
 ## Second task: Claims scenario
 
-Imagine you are trying to view all of your claims in progress. Where would you go to do that?
+Okay great, I'm now going to give you a scenario. Imagine you are trying to view all of your claims in progress.
+
+1. Where would you go to do that? Why?
+2. What information would you expect to see on this page about your claims?
+3. 
+
 
 
 ### Things to watch for:
