@@ -2,54 +2,53 @@
 
 1. To start, I'm going to have you talk through different parts of your typical appointment experience. Let us know if there are any big differences based upon appointment type (new patient, follow-up, physical, etc.)
    - First, how do you prepare for the appointment?
-     - What is your process for reviewing any patient information prior to an appointment?
+     - What is your process for reviewing any patient information prior to an appointment? 
+         - How long before seeing the Veteran do/would you open their chart to prepare for their appt.?
+     - Is there information about your patient that you wish you had prior to your appointment?
+     - Is there anything that you would like the patient to do before their appointment with you (Examples, lab tests, medical imaging, answer questions, etc.)
+         - Do you feel you have a personal view of the veteran and what is important to them both medically and lifestyle/family?
      - What systems/accounts do you use?
      - What does your work station look like? How many monitors, etc?
    - Next, we will talk about during and after the appointment?   
      - What are the standard questions you're required to ask Veterans?
      - Are there questions that you like to regularly include that are not in the clinical documentation?
-     - Do you utilize any different systems/accounts during or after the appointment? 
-   
-   
+     - Do you utilize any different systems/accounts during or after the appointment?  
    
 2. Do your patients fill out any forms or questionnaires before, during, or after appointments with you?
    - If yes...
+     - What forms or questionnaires do they fill out?
+     - Do you use eScreening or Virtual Care Manager?
+         - If yes, what are your impressions of those systems?
      - Do these questionnaires differ based upon new or returning patients?
-     - How are these questionnaires helpful to you? 
-      - Do you refer to this information at other points then right before or during an appointment?
+     - Do you feel more, less, or equally prepared for your appointments with patients, because of these questionnaires? 
+     - Do you refer to this information at other points than right before or during an appointment?
+     - Do your patients complete the questionnaires via paper, electronically, or verbally?
+         - Do you notice the answers change frequently from the last visit when the Veteran was asked the questions?
+         - Are nurses or office administrators involved in the process?
+               - How does the nurse communicate this information to you before an appointment?
+         - How do you organize/store information provided by the patient?
+      - How are in advance of an appointment do you send questionnaires to the patients?
+      - How is the patient notified that they have a questionnaire to complete?
+      - 
    - If no, why?
 
-2. How often do you see new patients?
-   - What is the intake process like?
-   - what forms do they have to fill out?
+3. Do you see patients via telehealth appointments?
+   - If yes...
+      - Has your intake process changed due to COVID/the increase in telehealth appointments?
+      - Are nurses less involved in the intake process?
+      - What is the impact of these process changes? 
 
-3. How often are you seeing return patients?
-    - How long have you seen the same patients?
-    - What paperwork is involved with treating these patients?
-
-4. Do patients complete questionnaires via paper, electronically, or verbally? 
-    - Do you notice the answers change frequently from the last visit when the Veteran was asked the questions?
-    - Are nurses or office administrators involved in the process?
-      - How does the nurse communicate this information to you before an appointment?
-   - How do you organize/store information provided by the patient?
-        
-5. Has this process changed due to COVID/the increase in telehealth appointments?
-    - Are nurses less involved in the intake process?
-       - What is the impact of these process changes? 
-
+4. Do you use secure messaging with patients in your practice?
+   - 
 6. Where do you go to access/view information you receive from patients? 
     - Would you like the information sent directly to the EHR?
       - If no, do you want to decide what information gets sent to the EHR? What information would you like to send to the EHR?
     - How long do you typically spend with screening questions?
     - Do you have an easily accessible view of the previous answers to the questions to reference?
     
-4. Where do you typically document these questions - paper or digital (which section of the EHR)?
+4. Where do you typically document the answers to these questions - paper or digital (which section of the EHR)?
 
 5. Is there heatlh record information about the Veteran that could be helpful to reference when talking /documenting screening questions? 
-
-6. Is there information about your Veteran patient that you wish you had prior to your appointment?
-    - how long before seeing the Veteran before the appt. woudl you open their chart to prepare for their appt.?
-    - Do you feel you have a personal view of the veteran and what is improtant to them both medically and lifestyle/family?
 
 7. Who do you refer patients to for specialty care?
     - Do they have pre-appointment digital forms/experiences for patients?
