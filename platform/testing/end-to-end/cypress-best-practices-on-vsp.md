@@ -24,6 +24,8 @@ https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/p
 The form tester is a utility that automates Cypress end-to-end (E2E) tests on forms contained within applications on VA.gov. The form tester automatically fills out forms using data from JSON files that represent the body of the API request that's sent upon submitting the form.
 
 Use the form tester to test forms on VA.gov applications.
+
+Please see the [Cypress Form Tester documentation](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/platform/testing/e2e/cypress/support/form-tester) for more information.
 ## Cypress Custom Commands
 Custom Cypress commands abstract away common behaviors that are required across VA.gov applications. The following custom commands are available:
 
