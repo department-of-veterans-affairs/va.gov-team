@@ -8,7 +8,7 @@
   - [Test Data: `cy.syncFixtures(fixtures)`](#test-data-cysyncfixturesfixtures)
   - [File uploads: `cy.upload(fileName, fileType)`](#file-uploads-cyuploadfilename-filetype)
   - [Accessibility - `cy.axeCheck(context)`](#accessibility-cyaxecheckcontext)
-  - [Expand Accordions: `cy.expandAccordians()`](#expand-accordions-cy.expandaccordians())
+  - [Expand Accordions: `cy.expandAccordians()`](#expand-accordions-cyexpandaccordians)
 - [Viewports](#viewports)
 - [Cypress Testing Library Selectors](#cypress-testing-library-selectors)
 - [`data-testid` Attribute](#data-testid-attribute)
