@@ -46,11 +46,11 @@ Veteran-facing services (VFS) teams are responsible for ensuring the accessibili
 VFS teams should review the time frame guidance in the [508 defect severity rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md). The time frame guidance was put in place to reflect the realities of 2-week sprint cycles, and how important the severity level is in terms of human impact. Teams should work with their DEPO lead to prioritize accessibility fixes based on the defect level and other product initiatives.</details>
 
 <details><summary><b>Will the Must/Should/Consider framework be retained?</b></summary>
-No, not in its current state. The Must/Should/Consider framework for accessibility issues has proven to be confusing for VFS teams. The DEPO Platform wants to go much simpler, and also take into consideration work being done on the WCAG checklist by VSA and DEPO. For the immediate future, the DEPO Platform is leaning into the following:
+No, not in its current state. The Must/Should/Consider framework for accessibility issues has proven to be confusing for VFS teams. The DEPO Platform wants to go much simpler, and also take into consideration work being done on the WCAG checklist. For the immediate future, the DEPO Platform is leaning into the following:
   
   * All 508 issues must be fixed, defect level 0-4
-  * Defect levels 0 and 1 must be fixed before launch
-  * Defect levels 2-4 must be fixed post-launch
+    * Defect levels 0 and 1 must be fixed before launch
+    * Defect levels 2-4 must be fixed post-launch
   * The DEPO Platform is going to revise the defect severity rubric for human impact and future changes like WCAG 2.1.
 </details>
 
@@ -59,8 +59,8 @@ No, not in its current state. The Must/Should/Consider framework for accessibili
   
   * Add your changes or new document in a feature branch
   * Create a pull request and add Gretchen and Trevor as reviewers
-    * Gretchen will review your documents for style
-    * Trevor will review your documents for technical accuracy
+    * A platform documentation specialist will review your documents for style
+    * A platform accessibility specialist will review your documents for technical accuracy
   * When your changes or new document are approved, you can merge them into the main branch and delete your feature branch. Do not merge changes without a pull request and review cycle.
 </details>
 
