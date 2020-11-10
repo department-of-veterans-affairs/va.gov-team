@@ -90,30 +90,37 @@ Go ahead and scroll through this page and walk me through your thoughts.
 Okay, now we are going to take a look at the updates section. What are your thoughts about this section? 
 
 - If you clicked on 'Go to all recent updates' where would you expect that to go?
-- Is there anything that you would add to this section?
+- Is there anything that you would add to or change about this section?
 
 ### Things to watch for:
 
-- Does the user notice disability rating?
-- 
+- Does the user notice the disability rating?
+- Is the user able to find the 'Go to all recent updates' section 
+- Does the user understand what the updates are?
+- Does the user understand where the updates go?
+- Does the user understand the difference between the updates at the top and the sections below?
 
 ## Second task: Claims scenario
 
 Imagine you've recently submitted a claim and you are waiting to see if it has been approved. You've just landed on this page, where would you go to find the update on your claim status?
 
-If they look for the update in the updates section:
+If they look for the claimns update in the updates section:
 
-- question 1
+- What action would you take if you wanted to learn more about your claim status update?
+- Is there any thing you feel we could improve on or add too for the claim status update?
 
 If they look for the update in the claims section:
 
-- question 2
+- Did you see the claim update at the top of the page?
+- Was there a reason you missed the claim update at the top of the page?
+- Is there any thing you feel we could improve so that you didn't miss the claim status at the top of the page?
+- If you click on 'claims in progress' what would you expect to see?
 
 
 ### Things to watch for:
 
 - Does the user notice the updates section?
-- Are they confused about where claims is located?
+- Are they confused about where claims or claim status updates are located?
 
 ## Third task: Healthcare scenario
 
