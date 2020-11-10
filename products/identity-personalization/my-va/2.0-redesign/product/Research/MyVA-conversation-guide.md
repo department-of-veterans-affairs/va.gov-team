@@ -151,15 +151,17 @@ If they look for appointments in the healthcare section:
 
 ## Fourth task: Benefits
 
-If you could go ahead and scroll down to the section that says 'Benefit applications'. Can you walk me through your thoughts about this section?
+If you could go ahead and scroll down to the section that says 'Benefit applications'. Can you walk me through your thoughts about this section? If you wanted to learn more about other benefits the VA offers where would you click on this page?
 
 - Do you find anything confusing?
-- Do you think anything is missing here?
+- Do you think anything is missing here? 
+- Is there any thing you feel we could improve on or add too for the benefits section?
 
 
 ### Things to watch for:
 
-- Does ....?
+- Can the user easily find the 'What benefits does the VA offer?' link?
+- Is the user confused by any of the information in the benefit applicaiton cards?
 
 
 ### VERSION B
