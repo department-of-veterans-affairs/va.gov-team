@@ -32,7 +32,7 @@
    
 ### Holidays
     -  Thanksgiving observed: Thursday, Novmber 26 (GCIO, VA, Ad Hoc, CivicActions 
-    -  Veteran's Day: Wed, Nov 11 (GCIO)
+    -  Veteran's Day: Wed, Nov 11 (GCIO, VA)
     
 ### Additional out of office
 
