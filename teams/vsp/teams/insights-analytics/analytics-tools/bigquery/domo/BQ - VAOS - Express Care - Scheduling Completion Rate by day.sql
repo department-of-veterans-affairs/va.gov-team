@@ -1,10 +1,9 @@
 /***************************************************************************************************
-Name:               BQ - VAOS Scheduling Completion Rate by day 
-URL:                https://va-gov.domo.com/datasources/df0acc2b-b035-4829-ab04-8f42ddc4721b/details/overview
-Create Date:        2020-10-09
+Name:               BQ - VAOS - Express Care - Scheduling Completion Rate by day 
+URL:                https://va-gov.domo.com/datasources/
+Create Date:        2020-10-13
 Author:             Brian Martin
-Description:        This returns a daily conversion rate (session and user) for a funnel that starts with
-                    'vaos-schedule-appointment-button-clicked' and ends with 'vaos-.*-submission-successful$'
+Description:        This returns a daily conversion rate (session and user) for a...
  /***************************************************************************************************/
 #standardSQL
 WITH ga AS (
@@ -25,8 +24,8 @@ WITH ga AS (
         UNNEST(ga.hits) AS hits
     WHERE
         --_TABLE_SUFFIX BETWEEN "20200715" AND "20200920"
-        _TABLE_SUFFIX = FORMAT_DATE('%Y%m%d',DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY))
-        AND REGEXP_CONTAINS(hits.eventInfo.eventLabel, '^vaos-(schedule-appointment-button-clicked|.*-submission-successful)$')
+        _TABLE_SUFFIX BETWEEN "20200601" AND FORMAT_DATE('%Y%m%d',DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY))
+        AND REGEXP_CONTAINS(hits.eventInfo.eventLabel, '^vaos-express-care-(path-started|submission-successful)$')
 )
 SELECT
     date,    
@@ -38,10 +37,10 @@ SELECT
     FORMAT_DATE('%B', date) AS month_name,
     -- day (dimension)
     FORMAT_DATE('%d', date) AS day,
-    COUNT(DISTINCT(CASE WHEN REGEXP_CONTAINS(next_event_label, '^vaos-.*-submission-successful$') THEN fullVisitorId END))  
-        / COUNT(DISTINCT(CASE WHEN event_label = 'vaos-schedule-appointment-button-clicked' THEN fullVisitorId END)) AS users_rate,
-    COUNT(DISTINCT(CASE WHEN REGEXP_CONTAINS(next_event_label, '^vaos-.*-submission-successful$') THEN session_id END))  
-        / COUNT(DISTINCT(CASE WHEN event_label = 'vaos-schedule-appointment-button-clicked' THEN session_id END)) AS sessions_rate
+    SAFE_DIVIDE(COUNT(DISTINCT(CASE WHEN event_label = 'vaos-express-care-submission-successful' THEN fullVisitorId END))  
+        , COUNT(DISTINCT(CASE WHEN event_label = 'vaos-express-care-path-started' THEN fullVisitorId END))) AS users_rate,
+    SAFE_DIVIDE(COUNT(DISTINCT(CASE WHEN event_label = 'vaos-express-care-submission-successful' THEN session_id END))  
+        , COUNT(DISTINCT(CASE WHEN event_label = 'vaos-express-care-path-started' THEN session_id END))) AS sessions_rate
 FROM
     ga
 GROUP BY
