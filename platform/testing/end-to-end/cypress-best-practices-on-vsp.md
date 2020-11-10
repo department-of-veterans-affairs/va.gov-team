@@ -4,11 +4,11 @@
 - [Introduction](#introduction)
 - [Cypress Form Tester](#cypress-form-tester)
 - [Cypress Custom Commands](#cypress-custom-commands)
-  - [Mock User -- `cy.login(userData)`](#mock-user----cyloginuserdata)
-  - [Test Data -- `cy.syncFixtures(fixtures)`](#test-data----cysyncfixturesfixtures)
-  - [File uploads -- `cy.upload(fileName, fileType)`](#file-uploads----cyuploadfilename-filetype)
-  - [Accessibility - `cy.axeCheck(context)`](#accessibility----cyaxecheckcontext)
-  - [Expand Accordions -- `cy.expandAccordians()`](#expand-accordions----cy.expandaccordians())
+  - [Mock User: `cy.login(userData)`](#mock-user-cyloginuserdata)
+  - [Test Data: `cy.syncFixtures(fixtures)`](#test-data-cysyncfixturesfixtures)
+  - [File uploads: `cy.upload(fileName, fileType)`](#file-uploads-cyuploadfilename-filetype)
+  - [Accessibility - `cy.axeCheck(context)`](#accessibility-cyaxecheckcontext)
+  - [Expand Accordions: `cy.expandAccordians()`](#expand-accordions-cy.expandaccordians())
 - [Viewports](#viewports)
 - [Cypress Testing Library Selectors](#cypress-testing-library-selectors)
 - [`data-testid` Attribute](#data-testid-attribute)
@@ -27,12 +27,12 @@ Use the form tester to test forms on VA.gov applications.
 ## Cypress Custom Commands
 Custom Cypress commands abstract away common behaviors that are required across VA.gov applications. The following custom commands are available:
 
-- Mock User -- `cy.login(userData)`
-- Test Data -- `cy.syncFixtures(fixtures)`
-- File uploads -- `cy.upload(fileName, fileType)`
+- Mock User: `cy.login(userData)`
+- Test Data: `cy.syncFixtures(fixtures)`
+- File uploads: `cy.upload(fileName, fileType)`
 - Accessibility - `cy.axeCheck(context)`
-- Expand Accordions -- `cy.expandAccordians()`
-### Mock User -- cy.login(userData)
+- Expand Accordions: `cy.expandAccordians()`
+### Mock User: cy.login(userData)
 **Source file:** https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/login.js 
 
 **Description:**
@@ -106,7 +106,7 @@ const mockUser = {
 ```
 
 To sign in as a custom-defined user, copy the `mockUser` object, modify it as needed, and pass it as an argument to `cy.login()`.  The custom-defined user object should have the same shape as the response body for the /v0/user API endpoint.
-### Test Data -- cy.syncFixtures(fixtures)
+### Test Data: cy.syncFixtures(fixtures)
 **Source file:** https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/syncFixtures.js
 
 **Description:**
@@ -147,7 +147,7 @@ cy.syncFixtures({
 cy.route('/v0/foo', 'fixture:data/foo');
 cy.route('/v0/bar', 'fixture:data/bar');
 ```
-### File uploads -- cy.upload(fileName, fileType)
+### File uploads: cy.upload(fileName, fileType)
 **Source file:** https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/upload.js
 
 **Description:**
@@ -163,7 +163,7 @@ This function must be chained from a command that retrieves an upload input elem
 cy.findByText('Upload', { selector: 'button' })
   .upload('src/platform/testing/example-upload.png', 'image/jpg');
 ```
-### Accessibility -- cy.axeCheck(context)
+### Accessibility: cy.axeCheck(context)
 **Source file:** https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/axeCheck.js
 
 **Description:**
@@ -190,7 +190,7 @@ cy.axeCheck(); // Run the aXe check after expanding everything.
 ```
 
 Please note: Tests written with the form tester automatically check for accessibility, so this command does not need to be used explicitly in such tests.
-### Expand Accordions -- cy.expandAccordians()
+### Expand Accordions: cy.expandAccordians()
 **Source file:** https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/expandAccordions.js 
 
 **Description:**
