@@ -6,15 +6,19 @@
 ---
 
 #### Background
-Background TBD
+Recipients of VA compensation and pension (C&P), or educational (EDU) payments can elect to have deposits made directly to their checking or savings account via Electronic Funds Transfer (EFT). These recipients include Veterans and qualifying dependents, and payments are made from C&P, GI Bill and Veteran Readiness and Employment (VR&E) programs.
+
+Direct deposits for C&P and EDU (GI Bill and VR&E) payments are set up and managed independently. Management of EDU payments is being migrated from eBenefits to be co-located with the C&P direct deposit feature in VA.gov profile. Users will be able to view and edit their direct deposit information for both types of payments in their profile.
 
 ### Goals
 Goal TBD
 
 #### Guiding questions
-- Lorem ipsum dolor sit amet?
-- Consequetor unum dolorum stelare pluribus?
-- Questions TBD
+- Where on VA.gov do users expect to find direct deposit (DD) information? 
+- How often do users expect to review and/or update their DD information?
+- What barriers prevent users from easily submitting changes to their DD info?
+- How do users react to the two different "categories" of payments--and having to change them separately? 
+- What other features do users expect on the DD screen?
 
 #### Hypotheses
 - Participants will have some questions/hesitatation about **two** distinct Direct Deposit features
