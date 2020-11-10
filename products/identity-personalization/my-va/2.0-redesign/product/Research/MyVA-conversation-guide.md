@@ -74,21 +74,23 @@ Let's start by making sure you can figure out how to share your screen on Zoom.
 * For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen
 
 **Ask participant to be mindful of thinking outloud since you will not be able to see a mouse cursor go through the prototype**
+
 **Alternate between starting with version A and B for each participant**
 
 Today we are going to be comparing two versions of the same page.  We are going to start with version (A or B), and I'll send you the link right now. And just a reminder, these screens are intentionally grayscale.
 
 ### VERSION A
 
-## First task: Overview
+## First task: Overview & Updates
 
 Go ahead and scroll through this page and walk me through your thoughts.
 
-- Is there any information that you feel is missing? COME BACK TO THIS
-- If you clicked on the disability rating, where do you expect it to take you?
-- If you clicked on one of the updates, where would you expect it to take you?
-- If you clicked on one of the specific sections, for example 'secure messages', where would you expect it to take you?
-- If you click on 'Go to all recent updates' what would you expect to see?
+- If you clicked on the disability rating, where would you expect that to go?
+
+Okay, now we are going to take a look at the updates section. What are your thoughts about this section? 
+
+- If you clicked on 'Go to all recent updates' where would you expect that to go?
+- Is there anything that you would add to this section?
 
 ### Things to watch for:
 
@@ -153,17 +155,21 @@ If you could go ahead and scroll down to the section that says 'Benefit applicat
 
 - Does ....?
 
+
 ### VERSION B
 
 ## First task: Overview
 
-Go ahead and scroll through this page and walk me through your thoughts.
+Take a look at this page, and let me know your thoughts.
 
-- Is there any information that you feel is missing? COME BACK TO THIS
-- If you clicked on the disability rating, where do you expect it to take you?
-- If you clicked on one of the updates, where would you expect it to take you?
-- If you clicked on one of the specific sections, for example 'secure messages', where would you expect it to take you?
-- If you click on 'Go to all recent updates' what would you expect to see?
+- If you clicked on the disability rating, where would you expect that to go?
+- What are your thoughts about the updates on this page?
+- If you were to click on 'claims and appeals' (don't do it yet), what would you expect to see?
+
+Go ahead and click on claims and appeals. What are your thoughts about this section?
+
+- If you clicked on 'Go to recent claims updates' where would you expect that to go?
+- Is there anything that you would add to this section?
 
 ### Things to watch for:
 
@@ -172,15 +178,7 @@ Go ahead and scroll through this page and walk me through your thoughts.
 
 ## Second task: Claims scenario
 
-Imagine you've recently submitted a claim and you are waiting to see if it has been approved. You've just landed on this page, where would you go to find the update on your claim status?
-
-If they look for the update in the updates section:
-
-- question 1
-
-If they look for the update in the claims section:
-
-- question 2
+Imagine you are trying to view all of your claims in progress. Where would you go to do that?
 
 
 ### Things to watch for:
