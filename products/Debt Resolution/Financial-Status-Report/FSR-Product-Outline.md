@@ -39,7 +39,11 @@ Since the form and letter are confusing, the contact center gets many calls with
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
- 10% of all FSRs filled out on line first month after release with increase of 5% MoM, with goal of 50% filled out on-line by end of 2021 
+
+-20% of FSRs filled out on line in first month with 5% MoM inclease 
+-10% QoQ in bad addresses (letters returned) 
+-<15% abandon rate from start of form, but track 48 hours after form start since there is save in progress option
+-Would like to measure how many FSR forms are returned for corrections - will need DMC tracking on this 
 #### Baseline KPI Values
  Since the suspension of debt collection for covid-19 global pandemic the historical baseline values may be skewed as the debt suspension for the pandemic. 
 
