@@ -155,8 +155,8 @@ cy.route('/v0/bar', 'fixture:data/bar');
 **Description:**
 Allows us to upload files, which Cypress does not natively support. This implementation is based on this [workaround](https://github.com/cypress-io/cypress/issues/170#issuecomment-619758213). 
 
-**Arguments:**
-fileName -- a string
+**Arguments:**</br>
+fileName -- a string</br>
 file Type -- a string
 
 This function must be chained from a command that retrieves an upload input element.
