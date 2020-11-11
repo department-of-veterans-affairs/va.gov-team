@@ -28,7 +28,7 @@
     - Systems can be notified about a pull request and provide change approval to the GitHub pull request process 
     - Pull requests must be both approved by peer developers and by the automated CI checks (system) before they can be merged.
   - Vets-website initiates several automated checks when a pull request is created (i.e. when GitHub notifies the continuous integration system)
-    - ![Platform CI overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/tools/blue-ocean-overview.png)
+    - ![Platform CI overview](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/blue-ocean-overview.png)
     - Platform tools - (tools that the platform team maintains. These generally run inside of Jenkins)
       - Unit tests 
       - Linting
@@ -40,7 +40,7 @@
       - Code Climate - analyzes various factors and provide suggests for improving code quality 
     - All of the testing provided by the platform must be successful before a developer can merge a their feature branch. The code climate feedback is optional and is mainly to facilitate code review 
   - The Required reviews UI
-    - ![Required review UI](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/tools/required-reviews.png)
+    - ![Required review UI](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/required-reviews.png)
     - The required reviews UI is the provides developers with an overview of the change approval 
     - It's summarizes manual and automated approvals 
     - Once all approvals are met, the developer can click the Squash and Merge button on the reviews UI to close out their pull request and merge their change into master 
