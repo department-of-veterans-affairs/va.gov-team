@@ -4,32 +4,24 @@
 
 ## Goals
 
-The goal of this study is to understand a Vet Center client’s experience, impression and relationship with Vet Centers. 
+[fill in...] 
 
 ### Research questions
 
-- How do Veterans and service members first learn about Vet Centers? 
-
-- What is the client experience for different demographics? 
-
-- What services, resources or activities are most valuable to Veterans, service members and their families? 
-
-- How long do clients typically engage with Vet Centers and does their engagement or opinion of Vet Centers change over time? 
-
-- What information do Veterans and service members want or expect to see on a website? 
+- [fill in...]
 
 ### Hypothesis 
 
-Current clients have a favorable view of Vet Centers and the services that they offer and view them as distinct entities from other VA facilities. 
+[fill in...]
 
 ## Method
 
-Qualitative research interviews via Zoom. 
+Moderated qualitative research sessions with generative questioning and usability preference testing via Zoom. 
 
 ## Participants and Recruitment
 
 - We will utilize the Perigean contract recruiting.
-- We'd like to schedule 15 participants to reach our goal of observing **7-9 participants**. 
+- We'd like to schedule 16 participants to reach our goal of observing **7-9 participants**. 
 
 ### Primary participant criteria:
 
@@ -86,15 +78,17 @@ At least:
  
 ## Timeline
 
-- Study dates: September 30 - Oct 16, 2020 Session length: 45 minutes 
-- Pilot session: will be held on September 29, 2020 at 2:00pm EST 
-- Session length: 45 minutes
+- Study dates: December 1 - 4, 2020  
+- Pilot session: will be held on Nov 24, 2020 
+- Session length: 1 hour
 
 Date | Time in Eastern | Slots
 -----|-----------------------|-------
-Tues, Sept 29 [PILOT] | 2p | - 
-Wed, Sept 30 | 7-10a, 1-2p, 7-8p | 5 
-
+Tue, Nov 24 [PILOT] | -:--p | 
+Tue, Dec 1 | 7-10a, 7-8p | 4 
+Wed, Dec 2 | 7-10a, 7-8p | 4
+Thu, Dec 3 | 7-10a, 7-8p | 4
+Fri, Dec 4 | 7-10a, 7-8p | 4
 
 
 ## Team Roles	
