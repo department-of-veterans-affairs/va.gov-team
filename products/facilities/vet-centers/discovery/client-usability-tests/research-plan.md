@@ -58,6 +58,7 @@ Moderated qualitative research sessions with generative questioning and usabilit
 
     State:
 
+Perigean to validate against Vet Centers listed on [Facility Locator](https://www.va.gov/find-locations/?facilityType=vet_center).
 
 ### Secondary criteria / Would like to have - 
 
