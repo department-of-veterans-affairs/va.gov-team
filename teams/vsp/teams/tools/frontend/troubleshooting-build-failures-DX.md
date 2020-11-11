@@ -36,7 +36,14 @@
     ![Auto deploy job details](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-autodeploy-details.png)
     
 #### Testing job
-    
+  - [Testing job](http://jenkins.vfs.va.gov/job/testing/job/vets-website/) summary shows the testing job history. 
+    - The Blue Sky [view](http://jenkins.vfs.va.gov/blue/organizations/jenkins/testing%2Fvets-website/activity) is usually easier for viewing most things in the testing job 
+    - [Filtered](http://jenkins.vfs.va.gov/blue/organizations/jenkins/testing%2Fvets-website/activity?branch=master) by the master branch, this view will show if there are any immediate problems with the current master branch build. 
+    - The job detail view will show the workflow pipeline. Test failures can be viewed in the testing tab and each test failure has an accompanying stacktrace. 
+    ![Testing job details](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-testing-job-detail.png)
+        ![Testing job failure test detail](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-testing-job-failure-tests-view.png)
+    ![Testing job failure](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-testing-job-failure.png)
+
   
 ## Typical process for deploying features 
    - Developers pull the entire code base onto their computers to make their changes. This enables them to run their application locally for testing
@@ -98,6 +105,7 @@
     - Stakesholders current watch the #vfs-engineers channel for failures announcement- acknowledge a failure as soon as possible 
     - Proactively update status of failure resolution. It's good practice to link to the jobs you are monitoring or waiting for. 
     - Escalate failures as needed to engineering leadership. 
+  - The autodeploy will wait until the latest master build finishes. Keeping the [master branch](http://jenkins.vfs.va.gov/blue/organizations/jenkins/testing%2Fvets-website/activity?branch=master) job passing is a good way to avoid delaying the production deployment 
       
 ## Summary of feedback UIs 
   - Command line logs 
