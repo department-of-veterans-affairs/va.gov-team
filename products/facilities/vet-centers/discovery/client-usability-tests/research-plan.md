@@ -31,7 +31,7 @@ Qualitative research interviews via Zoom.
 - We will utilize the Perigean contract recruiting.
 - We'd like to schedule 15 participants to reach our goal of observing **7-9 participants**. 
 
-### Participant Criteria:
+### Primary participant Criteria:
 
 #### MUST: 
 
