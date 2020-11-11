@@ -36,8 +36,6 @@
       - Full application builds for each environment (development, staging, production)
       - Accessibility tests 
       - End to end tests 
-    - Third party tools - (these run outside of our system) 
-      - Code Climate - analyzes various factors and provide suggests for improving code quality 
     - All of the testing provided by the platform must be successful before a developer can merge a their feature branch. The code climate feedback is optional and is mainly to facilitate code review 
   - The Required reviews UI
     - ![Required review UI](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/required-reviews.png)
