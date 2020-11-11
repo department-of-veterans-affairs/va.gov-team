@@ -45,10 +45,9 @@ Qualitative research interviews via Zoom.
 
 ### Screener Questions:
   
-**1. Are you currently or have you ever been a client of a Vet Center whereby you have participated in any of the following?** 
-**(Answer must be yes)**
+**1. Are you currently or have you ever been a client of a Vet Center whereby you have participated in any of the following?** (Answer must be yes)
 
-   [following checkboxes] 
+    [following checkboxes] 
 
     [ ] Group counseling
 
@@ -59,30 +58,30 @@ Qualitative research interviews via Zoom.
       
 **2. What is the name and address of the Vet Center that you visited/frequented?**
 
-Name:
+    Name:
 
-Street address:
+    Street address:
 
-City:
+    City:
 
-State:
+    State:
 
- 
 
 ### Secondary criteria / Would like to have - 
 
-- At least 3 women 
-- At least 2 persons of color 
-- At least 2 participants 35 or under 
-- At least 2 participants 36 - 45 
-- At least 2 participants 46 - 55 
-- At least 2 participants 56 or over 
-- At least 2 participants with cognitive disabilities 
-- At least 2 participants living in a rural or remote area 
-- At least 2 participants that do not have a college degree 
-- At least one person that has a college degree (to include officer Vets) 
-- At least one person who lives in a major metropolitan area 
-- At least one person with a disability rating of 70% or greater 
+At least: 
+- 2 women 
+- 2 participants living in a rural or remote area 
+- 1 participant of color 
+- 1 participant 35 or under 
+- 1 participant 36 - 45 
+- 1 participant 46 - 55 
+- 1 participant 56 or over 
+- 1 participant with cognitive disabilities 
+- 1 participant that do not have a college degree 
+- 1 participant without a college degree (to include officer Vets) 
+- 1 participant living in a major metropolitan area 
+- 1 participant with a disability rating of 70% or greater 
 
  
 ## Timeline
