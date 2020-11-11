@@ -35,7 +35,7 @@ Qualitative research interviews via Zoom.
 
 #### MUST: 
 
-- Be a Veteran, active duty service member, reservist, national guard member
+- Be a Veteran, active duty service member, reservist, or national guard member. OR received treatment for MST.
 
 **AND**
 
@@ -45,7 +45,7 @@ Qualitative research interviews via Zoom.
 
 ### Screener Questions:
   
-** 1. Are you currently or have you ever been a client of a Vet Center whereby you have participated in any of the following?** 
+**1. Are you currently or have you ever been a client of a Vet Center whereby you have participated in any of the following?** 
 **(Answer must be yes)**
 
    [following checkboxes] 
@@ -57,7 +57,7 @@ Qualitative research interviews via Zoom.
     [ ] Family counseling 
       
       
-** 2. What is the name and address of the Vet Center that you visited/frequented?
+**2. What is the name and address of the Vet Center that you visited/frequented?
 
 Name:
 
