@@ -1,8 +1,8 @@
-# Community Care Provider Brain Dump
+# Community Care Provider Taxonomy Brain Dump
 
 ## Source of data
 
-The source of the data comes from PPMS. The API for querying PPMS supports geo-location and type of care (specialty code) filtering, both of which are needed to build the type of UI we feel is most suitable for veterans to select their provider based on proximity and medical needs.
+The source of the data comes from PPMS. The API for querying PPMS supports geo-location, search radius, and type of care (specialty code) filtering, all of which are needed to build the type of UI we feel is most suitable for veterans to select their provider based on proximity and medical needs.
 
 ## Problems with the data
 
@@ -10,17 +10,35 @@ The source of the data comes from PPMS. The API for querying PPMS supports geo-l
 2. While PPMS does have slightly more generic specialty codes, commonly referred to as "rollup specialty codes," there are still 244 of these more generic specialty codes. Furthmore, not all 6 million records necessarily have a roll-up specialty code associated with them.
 3. The PPMS API is limited in allowing you to only query by 4 of specialty codes at a time. This is a problem since the VAOS notion of type of care is far more generic than the types of care that PPMS has (even their rollup).
 
-###
+### "Type of Care" taxonomies across the VA 
 
 There are many different "Type of Care" classifications or taxonomies. A few of the most relevant ones are referenced below:
 
 |           Taxonomy          |    Count    | Reference Documentation | Additional Notes |
 |:---------------------------:|:-----------:|:-----------------------:|:----------------:|
 | VHA                         | unknown     |                         |                  |
-| VAOS                        | 12 VA, 6 CC | https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/vaos/utils/constants.js#L61 |                  |
+| VAOS                        | 6 (CC)      | https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/vaos/utils/constants.js#L61 |                  |
 | Lighthouse Service Types    | 14          | https://developer.va.gov/explore/health/docs/community_care?version=current                                             |                  |
-| PPMS Specialty Codes        | 800+        |                         |                  |
+| PPMS Specialty Codes        | 800+        | https://staging-api.va.gov/v1/facilities/ccp/specialties.json                        |                  |
 | PPMS Specialty Rollup Codes | 244         |                         |                  |
 | Cerner                      | unknown     |                         |                  |
+| HSRM                        | unknown     |                         |                  |
 
-We currently have an effective way of mapping VAOS -> Lighthouse Service Types, but mapping from Lighthouse Service Types -> PPMS Specialty Codes is challenging; even if we come up with an effective mapping, we're still limited in our ability to only query for 4 of those mapped specialty codes at a time for a given geo-location.
+VAOS currently supports 6 CC types of care.
+
+1. Primary Care
+2. Audiology - Routine hearing exam
+3. Audiology - Hearing aid support
+4. Nutrition
+5. Podiatry
+6. Optometry
+
+The Light house facility API maps to 5 of these 6 types uniquely. The two Audiology type of care, are captured by the same type of care on Facilities API. For all intents and purposes, if we use the Facilities API to return results, we really only have 5 "Types of Care" to be concerned with in mapping to PPMS. If we instead, want to integrate with PPMS directly, we would have 6, and the mapping for Audiology would use distinct subsets of PPMS specialty codes in the query to return the most accurate result.
+
+###  Examining PPMS Specialty Codes more closely
+
+#### Primary Care
+
+
+
+
