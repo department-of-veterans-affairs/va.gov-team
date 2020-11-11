@@ -114,7 +114,7 @@ Fri, Dec 4 | 7-10a, 7-8p | 4
 - Research guide writing and task development: Leyda Hughes <leyda.hughes@adhocteam.us>
 - Project point of contact: Leyda Hughes  <leyda.hughes@adhocteam.us>
 - Participant recruiting & screening: Perigean 
-- **Notetaker: Perigean **
+- **Notetaker: Perigean**
 - Participant(s) for pilot test: <michelle.middaugh@adhocteam.us>
 - Observers (***include in Slack Channel**):  
   - ***Dave Conlon** <david.conlon@va.gov> 
