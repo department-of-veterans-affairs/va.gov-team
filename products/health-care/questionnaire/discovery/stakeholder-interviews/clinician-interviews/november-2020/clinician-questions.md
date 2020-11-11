@@ -4,7 +4,7 @@
    - First, how do you prepare for the appointment?
      - What health record information is helpful to review before an appointment?
          - How long before seeing the Veteran do/would you open their chart to prepare for their appt.?
-     - What information do you want a Veteran to review/update ahead of your visit?
+     - What information would be helpful to have a Veteran review/update ahead of their visit?
      - Is there information about your patient that you wish you had prior to your appointment?
          - Do you feel you have a personal view of the veteran and what is important to them both medically and lifestyle/family?
          - Is there anything that you would like patients to do before their appointment such as, lab tests, medical imaging, answer questions, etc?
