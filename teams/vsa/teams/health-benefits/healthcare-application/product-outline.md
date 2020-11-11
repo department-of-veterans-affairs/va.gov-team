@@ -26,10 +26,12 @@
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-* Number of completed online applications
+* ~Number of completed online applications~
+* Number of people who start the form who complete it
+* Proportion of eligible veterans that apply online
 * Proprotion of applications submitted online vs. on paper
 * Steepess of drop off points along the application
-* Time to commplete online form
+* Time to complete online form
 * Veteran experience (Foresee data/call center data)
 * https://va-gov.domo.com/page/290380612?userId=1492182741
 
