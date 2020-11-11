@@ -65,7 +65,7 @@
   - Unit test failure 
 		- Unit tests typically target a single function and validate its behavior. Unit test failures occur because a change caused a regression. These failures are usually very atomic and require changing the code to fix (i.e. either updating the test or updating the code change to pass the test) 
 		- Could display a command to run all unit tests locally or just the unit tests that failed 
-  - Integration tests: Accessibility / end to end test failure
+  - Functional tests: Accessibility / end to end test failure
 		- Integration tests require running the website and performing browser interactions. These validate run time behavior of the application 
 		- They validate behavior by checking the DOM for specific html markup 
 		- Errors in these tests can be cryptic and difficult to understand from the console output. Troubleshooting these failures generally requires a deep understanding of the app's behavior.  Sometimes to troubleshoot these failures, the developer will need to run the tests locally with the browser visible and insert pauses in the test script- observing the behavior in the browser and inspecting the markup using chrome developer tools. 
