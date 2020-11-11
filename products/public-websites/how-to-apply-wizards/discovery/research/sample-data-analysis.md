@@ -1,5 +1,18 @@
 # Sample Data and Analysis
 
+## Risk Analysis
+
+### Issues
+- For the amount of tasks and devices needed in this study, the requested sample of 6-8 users and ultimately final sample of 5 users is not enough to provide confident recommendations. 
+- Specifically, findings from this study cannot be confidently applied to any of the dimensions marked with a :heavy_exclamation_mark: below. 
+- For dimensions that do not have a :heavy_exclamation_mark:, confidence can only be determined based on whether or not clear patterns in behavior emerge from the study.
+- No mobile testing was conducted in this study due to unforeseen constraints.
+- It is uncertain what kinds of disabilities this study can confidently address due to a lack of information. 
+
+### Potential Solutions
+- Testing with more users on mobile and assistive technology will significantly improve confidence in results.
+- As a secondary addition or alternative, interviewing educational councilors may serve as a relatively accurate and fast proxy for gaps in research.
+
 ## Gap Analysis
 This gap analysis is in reference to the [original sampling request](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/discovery/research/wizard-research-plan.md)
 
@@ -16,20 +29,6 @@ This gap analysis is in reference to the [original sampling request](https://git
 | Not White | 50% | 60% |
 | <35 yrs old | 1 | 1 |
 | >55 yrs old | 1 | 2 |
-
-## Risk Analysis
-
-### Issues
-- For the amount of tasks and devices needed in this study, the requested sample of 6-8 users and ultimately final sample of 5 users is not enough to provide confident recommendations. 
-- Specifically, findings from this study cannot be confidently applied to any of the dimensions marked with a :heavy_exclamation_mark: below. 
-- For dimensions that do not have a :heavy_exclamation_mark:, confidence can only be determined based on whether or not clear patterns in behavior emerge from the study.
-- No mobile testing was conducted in this study due to unforeseen constraints.
-- It is uncertain what kinds of disabilities this study can confidently address due to a lack of information. 
-
-### Potential Solutions
-- Testing with more users on mobile and assistive technology will significantly improve confidence in results.
-- As a secondary addition or alternative, interviewing educational councilors may serve as a relatively accurate and fast proxy for gaps in research.
-
 
 ## Sampled Demographics
 
