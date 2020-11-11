@@ -45,10 +45,10 @@ Qualitative research interviews via Zoom.
      
      Vet Centers are not medical clinics. They are unique VA facilities, separate from VA Medical Centers, clinics, benefit offices, VFWs, etc. If unsure, please visit [Vet Center's website: https://www.vetcenter.va.gov](https://www.vetcenter.va.gov/)
 
-  **Screener Questions:**
+### Screener Questions:
   
-   **Are you currently or have you ever been a client of a Vet Center whereby you have participated in any of the following?** 
-   **(Answer must be yes)**
+**Are you currently or have you ever been a client of a Vet Center whereby you have participated in any of the following?** 
+**(Answer must be yes)**
 
    [following checkboxes] 
 
@@ -59,16 +59,19 @@ Qualitative research interviews via Zoom.
     [ ] Family counseling 
       
       
-Please supply the name and address of the Vet Center that you visited/frequented:
+### Please supply the name and address of the Vet Center that you visited/frequented:
 
 Name:
+
 Street address:
+
 City:
+
 State:
 
  
 
-#### Secondary criteria / Would like to have - 
+### Secondary criteria / Would like to have - 
 
 - At least 3 women 
 - At least 2 persons of color 
