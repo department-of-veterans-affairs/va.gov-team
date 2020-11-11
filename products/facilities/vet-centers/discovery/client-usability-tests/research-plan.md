@@ -45,10 +45,13 @@ We will utilize the Perigean contract recruiting. We'd like to schedule 15 parti
    **Are you currently or have you ever been a client of a Vet Center whereby you have participated in any of the following?** 
    **(Answer must be yes)**
 
-[following checkboxes] 
-      [ ] Group counseling
-      [ ] Individual counseling 
-      [ ] Family counseling 
+   [following checkboxes] 
+
+    [ ] Group counseling
+
+    [ ] Individual counseling 
+
+    [ ] Family counseling 
       
       
 Please supply the name and address of the Vet Center that you visited/frequented:
