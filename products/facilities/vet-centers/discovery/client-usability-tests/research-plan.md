@@ -76,7 +76,21 @@ At least:
 - 1 participant with a disability rating of 70% or greater 
 
  
-## Timeline
+## Timeline A
+
+- Study dates: Nov 19 - 24, 2020  
+- Pilot session: will be held on Nov 18, 2020 
+- Session length: 1 hour
+
+Date | Time in Eastern | Slots
+-----|-----------------------|-------
+Tue, Nov 18 [PILOT] | -:--p | 
+Thu, Nov 19 | 7-10a, 7-8p | 4 
+Fri, Nov 20 | 7-10a, 7-8p | 4
+Mon, Nov 23 | 7-10a, 7-8p | 4
+Tue, Nov 24 | 7-10a, 7-8p | 4
+
+## Timeline B
 
 - Study dates: December 1 - 4, 2020  
 - Pilot session: will be held on Nov 24, 2020 
