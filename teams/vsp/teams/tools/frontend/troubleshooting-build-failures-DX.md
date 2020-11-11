@@ -51,7 +51,7 @@
     - Developer turns on SOCKS proxy and clicks details link 
     - The SOCKS proxy requires browser configuration during initial set up and is ran as a command line app in the terminal. The command is cryptic (not user friendly):  ssh socks -D 2001 -N
       - The socks proxy must be re-activated anytime the user turns off their terminal or wakes up their machine. 
-- ![Platform CI exception](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/teams/vsp/teams/tools/frontend/blue-ocean-exception.png)
+- ![Platform CI exception](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/blue-ocean-exception.png)
 - Jenkins provides a view of each of the stages of the CI validation. The stage that failed is marked with a red x. Developers can click on that to see a log of the process that triggered the failure along with an error message
 	- A few troubleshooting steps can happen at this point
 		- Lint, security, and Unit tests are usually simple failures. The errors are straight forward and easy to understand and running the tests locally will always give the same result as the CI. To find the command to run, they can refer to the vets-website readme or to the log (e.g. the example above ran npm --no-color run lint). Often the developer will not want to run the command ran by the CI- the commands documented in the readme will provide better output for developers
