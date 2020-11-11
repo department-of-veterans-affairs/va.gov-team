@@ -4,15 +4,15 @@
 
 ## Goals
 
-[fill in...] 
+[...] 
 
 ### Research questions
 
-- [fill in...]
+- [...] 
 
 ### Hypothesis 
 
-[fill in...]
+[...] 
 
 ## Method
 
