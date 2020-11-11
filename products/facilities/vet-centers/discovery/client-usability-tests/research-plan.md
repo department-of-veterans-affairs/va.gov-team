@@ -43,7 +43,7 @@ Qualitative research interviews via Zoom.
 
      **Vet Center Definition:**
      
-        Vet Centers are not medical clinics. They are unique VA facilities, separate from VA Medical Centers, clinics, benefit offices, VFWs, etc. If unsure, please visit [Vet Center's website: https://www.vetcenter.va.gov](https://www.vetcenter.va.gov/)
+     Vet Centers are not medical clinics. They are unique VA facilities, separate from VA Medical Centers, clinics, benefit offices, VFWs, etc. If unsure, please visit [Vet Center's website: https://www.vetcenter.va.gov](https://www.vetcenter.va.gov/)
 
   **Screener Questions:**
   
