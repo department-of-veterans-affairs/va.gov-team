@@ -30,6 +30,7 @@
 * Proprotion of applications submitted online vs. on paper
 * Steepess of drop off points along the application
 * Time to commplete online form
+* Veteran experience (Foresee data/call center data)
 * https://va-gov.domo.com/page/290380612?userId=1492182741
 
 #### Baseline KPI Values
