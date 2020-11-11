@@ -3,7 +3,7 @@
 
 Josh Kim (josh.kim@adhocteam.us), Megan Gayle (mgayle@governmentcio.com), 11/11/2020
 
-View the [Research Plan](link here).
+View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/discovery/research/wizard-research-plan.md).
 ## Research Goals 
 
 Description of research goals
