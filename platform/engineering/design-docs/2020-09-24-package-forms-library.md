@@ -77,7 +77,7 @@ The forms library will be consolidated into a single place and bundled as a Node
 This will allow VFS teams to import it as if it were any other Node module.
 
 This change should introduce minimal functional impact on individual application teams.
-The only application code changes will be updating the where forms library code and styles are imported from.
+The only application code changes will be updating where the forms library code and styles are imported from.
 
 <!-- The source for this diagram is the `*.odg` file in the same directory, a LibreOffice Draw doc-->
 ![Forms library bundling](images/forms-library-package/forms-library-package.svg)
@@ -88,8 +88,12 @@ The only application code changes will be updating the where forms library code 
 
 The VSP Design System team will make several changes that will result in a packaged forms library.
 
-First, there will be some prep work to make it easier to bundle all of the forms library code into a single location. After this, the code can be consolidated into a single directory: `src/platform/packages/forms-library`. This is where the package will live.
-This will involve some temporary configuration changes so that app code is still able to import the code from the new location using the old import paths. These temporary measures will be removed once the forms library is properly packaged and all apps have been updated to import from it directly.
+Before we can begin to treat the forms library as a package, we will need to resolve the [application entanglement](#application-entanglement).
+`ApplicationStatus` will need to be refactored to use the `save-in-progress-messages` helpers rather than application code.
+Additionally, the `static-pages` contexts that `ApplicationStatus` is used in will need to be updated to lazy load & pass in the `formConfig` that those helpers will use. `createEducationApplicationStatus` will require a bit more work since it has the potential to be using one of many `formConfig`s. The best approach is likely to turn `ApplicationStatus` into a functional component so that an async/await function can be used to select the appropriate `formConfig`.
+
+Next, there will be some prep work to make it easier to bundle all of the forms library code into a single location. After this, the code can be consolidated into a single directory: `src/platform/packages/forms-library`. This is where the package will live.
+This will involve some temporary configuration changes so that app code is still able to import the code from the new location using the old import paths. These temporary measures will be removed once the forms library is properly packaged and all apps have been updated to import from it as a package, not as a path.
 
 Moving all of this code to a new directory will leave "trailing ends" - relative imports from directories outside of the package root (`src/platform/monitoring`, etc).
 We will work towards eliminating these kinds of out-of-package imports.
@@ -153,11 +157,16 @@ The current plan is to run forms library unit tests each time the forms library 
 
 Note: These estimates do not account for time spent on other team duties such as support requests.
 
+#### Fix Application Entanglement
+
+**Estimate:** ~ 2 days
+
+1. Move the app-specific code mentioned in [Application Entanglement](#application-entanglement) outside the forms library directories.
+
 #### Preparation
 
 **Estimate:** < 1 day
 
-1. Move the app-specific code mentioned in [Application Entanglement](#application-entanglement) outside the forms library directories.
 1. Use the `no-unresolved-modules` ESLint plugin to [find & remove unused code](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8763) in the `forms` and `forms-library` directories
 
 #### Beginning the bundling
