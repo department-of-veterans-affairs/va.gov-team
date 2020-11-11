@@ -29,7 +29,7 @@
   - [Auto deploy job](http://jenkins.vfs.va.gov/job/deploys/job/vets-gov-autodeploy-vets-website/) summary shows the job history and has links to starting a new auto deployment. **Never** rerun an autodeploy job- always start a **new** auto deploy job. 
     ![Auto deploy job summary](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-auto-deploy-summary.png)
     - You can usually rule out an ops vs fe tools issue by looking at what stage failed. 
-    - The test job is triggered at **Wait for a valid build status** - this is the most likely failure step. Troubleshooting this will likely require looking at the testing job. 
+    - The test job is triggered at **Wait for a valid build status** - this is the most likely step to fail. Troubleshooting this will likely require looking at the testing job. 
     ![Auto deploy job steps](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-autodeploy-summary-steps.png)
     - The auto deploy detail view has links to the logs and what triggered the build e.g. va-cms-bot is what starts the content deployments 
     - Most of the information on this view is not correct. 
