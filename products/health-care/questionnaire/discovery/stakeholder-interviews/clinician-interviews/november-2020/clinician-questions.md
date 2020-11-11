@@ -26,36 +26,34 @@
 2. Do your patients fill out any forms or questionnaires before, during, or after appointments with you?
    - If yes...
      - What forms or questionnaires do they fill out?
-     - Do you have an easily accessible view of questionnaire answers (current or past) to reference?
-     - Do you use eScreening, Virtual Care Manager, or any other questionnaire products?
-         - If yes, what are your impressions of those systems?
      - Do these questionnaires differ based upon new or returning patients?
      - Do you feel more, less, or equally prepared for your appointments with patients, because of these questionnaires? 
      - Do you refer to this information at other points than right before or during an appointment?
      - Do your patients complete the questionnaires via paper, electronically, or verbally?
-         - Do you notice the answers change frequently from the last visit when the Veteran was asked the questions?
          - Are nurses or office administrators involved in the process?
                - How does the nurse communicate this information to you before an appointment?
          - How do you organize/store information provided by the patient?
+         - Do you have an easily accessible view of questionnaire answers (current or past) to reference?
+         - Do you use eScreening, Virtual Care Manager, or any other questionnaire products?
+               - If yes, what are your impressions of those systems?
+      - Do you notice the answers change frequently from the last visit when the Veteran was asked the questions?
       - How are in advance of an appointment do you send questionnaires to the patients?
       - How is the patient notified that they have a questionnaire to complete?
    - If no, why?
-   - Who do you refer patients to for specialty care?
-      - Do they have pre-appointment digital forms/experiences for patients?
+   - Do any offices that you frequently refer patients to have pre-appointment digital forms/experiences that you know of?
 
 3. Do you see patients via telehealth appointments?
    - If yes...
       - Has your intake process changed due to COVID/the increase in telehealth appointments?
-      - Are nurses less involved in the intake process?
+      - Are nurses involved more, less, or the same amount in the intake process?
       - What is the impact of these process changes? 
 
 4. Do you use secure messaging with patients in your practice?
    - Do you have the ability to add documents from a message to the patient's chart?
    - If a veteran had a question about an intake form ahead of a visit would sending a secure message/text/call to the clinic be preferred?
-
-5. If a Veteran enters self reporting data in myHealtheVet, what does that data look like for you? How does it appear in the EHR or some other system?
    
 5. Do you regularly review any other form of patient submitted data besides questionnaires?
+    - Do you review self reported data from myHealtheVet, what does that data look like for you?
     - Where do you go to access/view information you receive from patients? 
     - Would you like patient generated information sent directly to the EHR?
       - If no, do you want to decide what information gets sent to the EHR? What information would you like to send to the EHR?
