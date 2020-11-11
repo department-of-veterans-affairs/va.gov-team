@@ -2,20 +2,19 @@
 
 1. To start, I'm going to have you talk through different parts of your typical appointment experience. Let us know if there are any big differences based upon appointment type (new patient, follow-up, physical, etc.)
    - First, how do you prepare for the appointment?
-     - What is your process for reviewing any patient information prior to an appointment? 
+     - What health record information is helpful to review before an appointment?
          - How long before seeing the Veteran do/would you open their chart to prepare for their appt.?
-     - Is there information about your patient that you wish you had prior to your appointment?
      - What information do you want a Veteran to review/update ahead of your visit?
-     - Are there questions that should only be asked by a clinician and documented vs. having the Veteran provide in an intake form? 
-         - if yes, which ones and why?
-     - Is there anything that you would like the patient to do before their appointment with you (Examples, lab tests, medical imaging, answer questions, etc.)
+     - Is there information about your patient that you wish you had prior to your appointment?
          - Do you feel you have a personal view of the veteran and what is important to them both medically and lifestyle/family?
-     - Is there health record information about the Veteran that could be helpful to reference when talking /documenting screening questions? 
+         - Is there anything that you would like patients to do before their appointment such as, lab tests, medical imaging, answer questions, etc?
      - What systems/accounts do you use?
      - What does your work station look like? How many monitors, etc?
    - Next, we will talk about during and after the appointment?   
      - What are the standard questions you're required to ask Veterans?
      - Are there questions that you like to regularly include that are not in the clinical documentation?
+     - Are there questions that should only be asked by a clinician and documented vs. having the Veteran provide in an intake form? 
+         - if yes, which ones and why?
      - How long do you typically spend on intake/screening questions?
      - Do you have an easily accessible view of the previous answers to the questions to reference?
      - Do you utilize any different systems/accounts during or after the appointment? 
