@@ -16,7 +16,6 @@
      - Are there questions that you like to regularly include that are not in the clinical documentation?
      - Are there questions that should only be asked by a clinician and documented vs. having the Veteran provide in an intake form? 
          - if yes, which ones and why?
-     - Do you have an easily accessible view of the previous answers to the questions to reference?
      - Do you utilize any different systems/accounts during or after the appointment? 
          - Where do you typically document the answers to these intake/screening questions - paper or digital (which section of the EHR)?
       - Do you typically find the reason for visit documented from the scheduling soluiton matches the verbial description the veteran provides why they are there. ie. Chief Complaint?
@@ -27,6 +26,7 @@
 2. Do your patients fill out any forms or questionnaires before, during, or after appointments with you?
    - If yes...
      - What forms or questionnaires do they fill out?
+     - Do you have an easily accessible view of the previous answers to the questions to reference?
      - Do you use eScreening, Virtual Care Manager, or any other questionnaire products?
          - If yes, what are your impressions of those systems?
      - Do these questionnaires differ based upon new or returning patients?
