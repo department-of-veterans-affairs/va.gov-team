@@ -11,7 +11,7 @@ Recipients of VA compensation and pension (C&P), or educational (EDU) payments c
 Direct deposits for C&P and EDU (GI Bill and VR&E) payments are set up and managed independently. Management of EDU payments is being migrated from eBenefits to be co-located with the C&P direct deposit feature in VA.gov profile. Users will be able to view and edit their direct deposit information for both types of payments in their profile.
 
 ### Goals
-Goal TBD
+The goal of this usability study is to assess how easily participants locate, understand and can change their direct deposit information. We also want to determine what value users place on having both DD payment types displayed, whether the user receives both types of payments or not.
 
 #### Guiding questions
 - Where on VA.gov do users expect to find direct deposit (DD) information? 
@@ -21,10 +21,11 @@ Goal TBD
 - What other features do users expect on the DD screen?
 
 #### Hypotheses
+- Users may have some difficulty locating their direct deposit information
+- Users will rarely, some occasionally, change theri direct deposit information
+- Participants will accept and easily navigate the DD edit function
 - Participants will have some questions/hesitatation about **two** distinct Direct Deposit features
-- Users will generally understand the presentation of the Direct Deposit information
-- Participant will accept and easily navigate the DD edit function
-- Users will have questions regading the DD process that the feature/screen itself won't answer
+- Users may want more information about the DD change process
 
 ### Method
 We will engage in moderated usability testing conducted remotely using Zoom. Remote testing is currently the only viable option, but the method should yield acceptable observations on which to base findings. Participants will be recruited using Perigean. These users will be provided links to the DD-EDU feature in staging (or corresponding prototypes). The sessions will be recorded, and observers and notetakers may be in attendance.
@@ -42,7 +43,7 @@ We will engage in moderated usability testing conducted remotely using Zoom. Rem
 Recruit for 5 fulfilled sessions using the following criteria:
 
 **Must have for participants**
-- No special requirements: can be Veteran, service member or dependent.
+- Participants must receive some type of VA payments
 
 **Good to have for participants**
 - At least 1 woman
@@ -90,9 +91,9 @@ Recruit for 5 fulfilled sessions using the following criteria:
 - Observers -- various as available
 
 ### Resources
-- [Project brief]()
+- [Project brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/edu-direct-deposit)
 
-- [Conversation guide]()
+- [Conversation guide]() `Avalable soon`
 
 - [Session notes]() (Available after research sessions.)
 
@@ -102,11 +103,11 @@ Recruit for 5 fulfilled sessions using the following criteria:
 
 ### References
 
-- [Mockups]()
+- [Mockups](https://xd.adobe.com/view/532272b2-b423-4e1b-a8c6-d1a583da3d37-0671/)
 
-- [Prototypes]()
+- [Prototypes]() `Avalable soon`
 
-- [Feature flow diagrams]()
+- [Feature flow diagrams](https://xd.adobe.com/view/b1df79ab-e636-4aea-9929-a8ee3d06e2a9-e48c/)
  
 ---
 
