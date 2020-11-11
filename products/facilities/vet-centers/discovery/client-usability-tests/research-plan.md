@@ -36,12 +36,14 @@ Qualitative research interviews via Zoom.
 #### MUST: 
 
 - Be a Veteran, active duty service member, reservist, national guard member
-AND
-- Is or was a client of a Vet Center (user screener question) 
+
+**AND**
+
+- Is or was a client of a Vet Center (see definition of a Vet Center) 
 
      **Vet Center Definition:**
      
-        Vet Centers are unique VA facilities, separate from VA Medical Centers, clinics, benefit offices, VFWs, etc. If unsure, please visit [Vet Center's website: https://www.vetcenter.va.gov](https://www.vetcenter.va.gov/)
+        Vet Centers are not medical clinics. They are unique VA facilities, separate from VA Medical Centers, clinics, benefit offices, VFWs, etc. If unsure, please visit [Vet Center's website: https://www.vetcenter.va.gov](https://www.vetcenter.va.gov/)
 
   **Screener Questions:**
   
