@@ -29,17 +29,19 @@ Qualitative research interviews via Zoom.
 ## Participants and Recruitment
 
 - We will utilize the Perigean contract recruiting.
-- We'd like to schedule 15 participants to reach our goal of observing **8-10 participants**. 
+- We'd like to schedule 15 participants to reach our goal of observing **7-10 participants**. 
 
 ### Participant Criteria:
 
-#### Primary criteria / Must have - 
+#### MUST: 
 
-- Veterans & active duty service members 
+- Be a Veteran, active duty service member, reservist, national guard member
+AND
 - Is or was a client of a Vet Center (user screener question) 
 
-**Vet Center Definition:**
-  Vet Centers are unique VA facilities, separate from VA Medical Centers, clinics, benefit offices, VFWs, etc. If unsure, please visit [Vet Center's website: https://www.vetcenter.va.gov](https://www.vetcenter.va.gov/)
+     **Vet Center Definition:**
+     
+        Vet Centers are unique VA facilities, separate from VA Medical Centers, clinics, benefit offices, VFWs, etc. If unsure, please visit [Vet Center's website: https://www.vetcenter.va.gov](https://www.vetcenter.va.gov/)
 
   **Screener Questions:**
   
