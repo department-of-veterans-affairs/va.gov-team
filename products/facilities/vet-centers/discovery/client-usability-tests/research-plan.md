@@ -31,7 +31,7 @@ Qualitative research interviews via Zoom.
 - We will utilize the Perigean contract recruiting.
 - We'd like to schedule 15 participants to reach our goal of observing **7-9 participants**. 
 
-### Primary participant Criteria:
+### Primary participant criteria:
 
 #### MUST: 
 
@@ -45,7 +45,8 @@ Qualitative research interviews via Zoom.
 
 ### Screener Questions:
   
-**1. Are you currently or have you ever been a client of a Vet Center whereby you have participated in any of the following?** (Answer must be yes)
+**1. Are you currently or have you ever been a client of a Vet Center whereby you have participated in any of the following?** 
+(Answer must be yes)
 
     [following checkboxes] 
 
