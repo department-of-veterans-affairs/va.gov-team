@@ -41,13 +41,11 @@ Qualitative research interviews via Zoom.
 
 - Is or was a client of a Vet Center (see definition of a Vet Center) 
 
-     **Vet Center Definition:**
-     
-     Vet Centers are not medical clinics. They are unique VA facilities, separate from VA Medical Centers, clinics, benefit offices, VFWs, etc. If unsure, please visit [Vet Center's website: https://www.vetcenter.va.gov](https://www.vetcenter.va.gov/)
+     **Vet Center Definition:** Vet Centers are not medical clinics. They are unique VA facilities, separate from VA Medical Centers, clinics, benefit offices, VFWs, etc. If unsure, please visit [Vet Center's website: https://www.vetcenter.va.gov](https://www.vetcenter.va.gov/)
 
 ### Screener Questions:
   
-**Are you currently or have you ever been a client of a Vet Center whereby you have participated in any of the following?** 
+** 1. Are you currently or have you ever been a client of a Vet Center whereby you have participated in any of the following?** 
 **(Answer must be yes)**
 
    [following checkboxes] 
@@ -59,7 +57,7 @@ Qualitative research interviews via Zoom.
     [ ] Family counseling 
       
       
-### Please supply the name and address of the Vet Center that you visited/frequented:
+** 2. What is the name and address of the Vet Center that you visited/frequented?
 
 Name:
 
