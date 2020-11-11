@@ -1,7 +1,7 @@
-# DRAFT: Title Research Findings 
-**Digital Services Veterans Affairs (DSVA), VSA, Team Name**<br>
+# DRAFT-- Wizard Migration Usability Study Synthesis
+**Digital Services Veterans Affairs (DSVA), VSA, Public Websites**<br>
 
-Designer 1 (email), Designer 2 (email), MM/DD/YYYY
+Josh Kim (josh.kim@adhocteam.us), Megan Gayle (mgayle@governmentcio.com), 11/11/2020
 
 View the [Research Plan](link here).
 ## Research Goals 
