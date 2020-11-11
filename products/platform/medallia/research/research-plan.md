@@ -79,8 +79,8 @@ Testing assets are currently available on the staging environment of VA.gov.
 
 **Pilot Attendess:** *There will be two pilot sessions; one regular pilot and a pilot with a screen reader*
 
-- Amy Cesal, Chante Lantos-Swett, Joanne Esteban (optional)
-- Trevor Pierce (for accessibility pilot)
+- *Regular Pilot:* Amy Cesal, Chante Lantos-Swett, Joanne Esteban (optional)
+- *Accessibility Pilot:* Trevor Pierce, Amy Cesal (optional)
 
 ## Team Roles
 
