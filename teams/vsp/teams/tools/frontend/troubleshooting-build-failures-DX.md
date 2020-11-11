@@ -17,7 +17,17 @@
     - **The feedback is not pushed to developers**: when a pull request is submitted, the CI takes an indeterminant amount of time to through all of its validation stages and there's no estimate or notification to the engineer when the process is complete 
       - There can be significant cognitive friction associated with troubleshooting CI failures especially for users who are not familiar with the stack. There is not a clear mental model new engineers can use to understand everything the CI does.
   - Developers should be able to focus on hard problems related to their domain not on understanding the platform's CI tech stack
-
+  
+### Jenkins jobs 
+![Overview of vets-website Jenkins jobs](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-jenkins-overview.png)
+  - Jenkins runs the test, build, and deploy scripts for the va.gov frontend 
+  - The **Testing** job runs all of the build and testing scripts. The [Jenkinsfile](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile) configures the workflow. 
+  - Some steps are optionally run: 
+    - CMS triggered: does not run the app build- uses the last successful app release
+    - Master branch change triggered: does not run the Cache Drupal content step
+  - [Auto deploy job](http://jenkins.vfs.va.gov/job/deploys/job/vets-gov-autodeploy-vets-website/) summary shows the job history and has links to starting a new auto deployment. **Never** rerun an autodeploy job- always start a **new** auto deploy job. 
+    ![Auto deploy job summary](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-auto-deploy-summary.png)
+  
 ## Typical process for deploying features 
    - Developers pull the entire code base onto their computers to make their changes. This enables them to run their application locally for testing
   - Once a change has been made locally, they bundle the changes together into a feature branch. This is a code change request that represents the differences between the main code branch (which is deployed to production every day) and their feature branch. Feature branches are part of git. 
@@ -71,6 +81,13 @@
 		- Build failures generally occur for two reasons: 
 			- There was something internally inconsistent about overall code. Linting generally catches errors in a single file while a build failure signals that there is something wrong with the way the files work together. 
 			-  There was something wrong with an external system (e.g. querying the Drupal CMS failed). These failures are often the hardest to troubleshoot because they require a deep understanding of the build process itself. Currently our build failure logging is not very sophisticated 
+			
+## Handling production deployment failures 
+  - Frontend tools team is responsible for resolving production deployment failures. **The website must be deployed every business day**.
+  - Since many teams rely on this, failures should be handled with **proactive communication**
+    - Stakesholders current watch the #vfs-engineers channel for failures announcement- acknowledge a failure as soon as possible 
+    - Proactively update status of failure resolution. It's good practice to link to the jobs you are monitoring or waiting for. 
+    - Escalate failures as needed to engineering leadership. 
       
 ## Summary of feedback UIs 
   - Command line logs 
@@ -85,3 +102,5 @@
 		- Highest level summary of approvals 
 		- Relies on a webhook to communicate failures / successes for approval management: https://developer.github.com/v3/repos/hooks/
 		- We may have some ability to customize what gets displayed here (e.g. we might be able to convey a summary of the failure) 
+  - #vfs-engineers
+  	- production deployment failures are announced here 
