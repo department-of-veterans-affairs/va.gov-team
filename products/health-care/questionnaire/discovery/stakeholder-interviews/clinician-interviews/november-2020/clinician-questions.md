@@ -11,11 +11,11 @@
      - What systems/accounts do you use?
      - What does your work station look like? How many monitors, etc?
    - Next, we will talk about during and after the appointment?   
+     - How long do you typically spend on intake/screening questions?
      - What are the standard questions you're required to ask Veterans?
      - Are there questions that you like to regularly include that are not in the clinical documentation?
      - Are there questions that should only be asked by a clinician and documented vs. having the Veteran provide in an intake form? 
          - if yes, which ones and why?
-     - How long do you typically spend on intake/screening questions?
      - Do you have an easily accessible view of the previous answers to the questions to reference?
      - Do you utilize any different systems/accounts during or after the appointment? 
          - Where do you typically document the answers to these intake/screening questions - paper or digital (which section of the EHR)?
