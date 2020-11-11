@@ -10,9 +10,9 @@
 - It is uncertain what kinds of disabilities this study can confidently address due to a lack of information. 
 
 ### Potential Solutions
-- Testing with more users on mobile and assistive technology will significantly improve confidence in results.
+- Conduct tests with users on mobile and assistive technology to significantly improve confidence in results. More abbreviated studies can be conducted using deviant case sampling to account for more extreme use cases which in theory would address simpler use cases. e.g. testing specifically with only screen reader and keyboard users would improve usability for all users.
 - As a secondary addition or alternative, interviewing educational councilors may serve as a relatively accurate and fast proxy for gaps in research.
-- As a tertiary alternative, findings can be delivered as educated guesses provided risk is documented and understood. Ideally potential solutions would be backlogged for future sprints.
+- As a tertiary alternative, findings can be delivered as educated guesses provided risk is documented and understood. Ideally primary and secondary solutions would be backlogged for future sprints.
 
 ## Gap Analysis
 This gap analysis is in reference to the [original sampling request](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/discovery/research/wizard-research-plan.md)
