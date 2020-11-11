@@ -7,7 +7,7 @@
      - What information would be helpful to have a Veteran review/update ahead of their visit?
      - Is there information about your patient that you wish you had prior to your appointment?
          - Do you feel you have a personal view of the veteran and what is important to them both medically and lifestyle/family?
-         - Is there anything that you would like patients to do before their appointment such as, lab tests, medical imaging, answer questions, etc?
+         - Is there anything that you like patients to do before their appointment like lab tests, medical imaging, answer questions, etc?
      - What systems/accounts do you use?
      - What does your work station look like? How many monitors, etc?
    - Next, we will talk about during and after the appointment?   
