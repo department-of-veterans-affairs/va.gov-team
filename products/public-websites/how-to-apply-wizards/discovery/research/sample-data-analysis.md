@@ -86,8 +86,8 @@ This gap analysis is in reference to the [original sampling request](https://git
 | Low :heavy_exclamation_mark:    |      |      |      |      |      |
 
 
-### Disability :heavy_exclamation_mark:
-| Category                | JK-1 | JK-2 | JK-3 | JK-4 | MG-5 |
+### Disability 
+| Category :heavy_exclamation_mark:               | JK-1 | JK-2 | JK-3 | JK-4 | MG-5 |
 |---------------------------|------|------|------|------|------|
 | Blindness                 |      |      |      |      |      |
 | Low Vision                |      |      |      |      |      |
