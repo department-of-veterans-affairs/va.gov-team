@@ -41,7 +41,7 @@ Before we start, a few things I want to mention:
 1. Before we look at the website, can you tell me a little about yourself? 
     - What part of the country do you live in? What branch did you serve?
 2. What type of phone do you use? How do you typically use your phone versus your desktop if you have one?
-3. Have you 
+3. Have you ever used the MyVA page on va.gov?
 3. Do you currently or have you ever received benefits from the VA?
 4. Do you currently or have you ever received healthcare from the VA?
 5. Do you currently or have you ever filed a claim or appeal with the VA?
