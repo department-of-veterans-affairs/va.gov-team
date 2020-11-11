@@ -26,7 +26,7 @@
 2. Do your patients fill out any forms or questionnaires before, during, or after appointments with you?
    - If yes...
      - What forms or questionnaires do they fill out?
-     - Do you have an easily accessible view of the previous answers to the questions to reference?
+     - Do you have an easily accessible view of questionnaire answers (current or past) to reference?
      - Do you use eScreening, Virtual Care Manager, or any other questionnaire products?
          - If yes, what are your impressions of those systems?
      - Do these questionnaires differ based upon new or returning patients?
