@@ -2,7 +2,7 @@
 
 **Digital Services Veterans Affairs (DSVA), VSA, Public Websites**
 
-Liz Lantz (liz.lantz@adhocteam.us), November 11, 2020
+Liz Lantz (liz.lantz@adhocteam.us), November 2020
 
 View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/iris/contact-center-interviews-1-research-plan.md).
 
@@ -215,4 +215,4 @@ We interviewed Tammy Hurley, who manages the FAQs on gibill.custhelp.gov (GI Bil
 
 [Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/iris/preliminary%20interviews/notes)
 
-[Mural boards used for synthesis available in README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/iris/README.md)
+[Links to Mural boards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/iris/README.md#secondary-interviews) used for synthesis available in README
