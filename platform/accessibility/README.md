@@ -26,7 +26,7 @@ VFS teams must iterate to resolve open[ 508-defect-2 through 508-defect-4 issues
 
 ## DEPO Platform and VFS accessibility roles and responsibilities
 
-Veteran-facing services (VFS) teams are responsible for the accessibility of their products. The Digital Experience and Product Office (DEPO) Platform supports their work at scale by creating and maintaining VA.gov accessibility standards required for production and by providing guidance as VFS teams work to meet those standards. Code quality -- including meeting overall accessibility standards (including both Section 508 and selected WCAG recommendations) -- is the responsibility of each individual VFS team.
+Veteran-facing services (VFS) teams are responsible for ensuring the accessibility of the products. The Digital Experience and Product Office (DEPO) platform supports their work at scale by creating and maintaining VA.gov accessibility standards required for production and by providing guidance as VFS teams work to meet those standards. Code quality -- including meeting [Section 508](https://www.section508.gov/) compliance ([WCAG 2.0](https://www.w3.org/TR/WCAG20/) Level A and AA) -- is the responsibility of each individual VFS team.
 
 **Read more about roles and responsibilities**
 
@@ -38,7 +38,7 @@ Documentation about accessibility best practices is always available to VFS team
 
 VFS teams also receive guidance and assessments from the DEPO Platform as a part of the [Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle), which is the process for interacting with DEPO Platform personnel to ensure your [VA.gov](https://www.va.gov/) product meets or exceeds DEPO's standards.
 
-As a part of the collaboration cycle, VFS teams must do foundational accessibility testing and resolve or document any resulting issues prior to the staging review.  Teams with their own accessibility experts may be expected to do advanced accessibility testing prior to the staging review. The DEPO Platform will spot check products to catch major issues prior to launch, and will assign issues to the VFS team for resolution. Post-launch is when the VA 508 Office will do a more robust review of the product, and you'll be responsible for resolving any additional issues that are found.
+As a part of the collaboration cycle, VFS teams must do [foundational accessibility testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#foundational-accessibility-tests-required) and resolve or document any resulting issues prior to the staging review.  Teams with their own accessibility experts may be expected to do [advanced accessibility testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#advanced-accessibility-tests-recommended) prior to the staging review. The DEPO Platform will spot check products to catch major issues prior to launch, and will assign issues to the VFS team for resolution. Post-launch is when the VA 508 Office will do a more robust review of the product, and you'll be responsible for resolving any additional issues that are found.
 
 **Read more about best practices, testing tools, and the collaboration cycle**
 
@@ -52,8 +52,6 @@ As a part of the collaboration cycle, VFS teams must do foundational accessibili
   * [Staging Review Processes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md)
   * [Post-launch Audit Processes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/post-launch-audit-processes.md)
 * [Accessibility Dev Review Step-by-Step](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/accessibility-dev-review-step-by-step.md)
-* [Test Credentials Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-credentials-template.md)
-* [Markdown Test Case Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-credentials-template.md)
 * [TestRail Test Case Template](https://dsvavsp.testrail.io/index.php?/projects/overview/13)
    
 **Questions? Here's how to contact the DEPO Accessibility folks**
