@@ -225,9 +225,13 @@ Unmoderated A/B testing will be needed to make a confident recommendation on wha
 4/5 participants spoke to a school counselor. Consider interviewing school counselors to better understand veterans’ pain points. What are common frustrations and frequently asked questions? This will help inform us as to why veterans may feel uncomfortable and what changes can be made to make veterans feel comfortable completing forms without external help. 
 Besides school counselors, where else they are going to research this, are they going to an external site? Asking friends?
 
-### Test on mobile and other assistive technologies
-A significant portion, 39.59% of VA.gov of users, are on mobile. 
-25% of veterans have a disability.
+### Test on mobile and assistive technologies
+
+- A significant portion, 39.59% of VA.gov of users, are on mobile. 
+- 25% of veterans have a disability.
+
+Testing will need to be conducted with mobile and assistive technologies (keyboard, screen readers) as we hypothesize there will be significant usability issues unique to each of them. If we choose not to test, we will need to acknowledge taking on potential risks for a statistically significant percentage of the veteran population.
+
 For more on recommendations based on sampling and future testing, reference our [sample data and analysis document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/discovery/research/sample-data-analysis.md)
 
 ### Conduct unmoderated user testing
