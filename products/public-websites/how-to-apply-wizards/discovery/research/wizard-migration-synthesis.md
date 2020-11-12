@@ -242,13 +242,11 @@ Leading questions from the moderator, talk out loud methodology, and observers o
 ## Appendix
 ### [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/discovery/research/wizard-migration-convo-guide.md)
 
+### [Sample Data and Analysis document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/discovery/research/sample-data-analysis.md)
+
 ### [Interview transcripts](https://docs.google.com/spreadsheets/d/1WrFzDU3ps-gLkM2IoDk3QNAkq9tZJy4HuYFZ0g9Vs6w/edit?usp=sharing)
 
 ### [Synthesis Board](https://app.mural.co/invitation/mural/wizardtesting3761/1604525980427?sender=u2134c22982ad9c7b41798011&key=b3727704-d2fb-4280-8a6c-1a18bb02e841)
 
-### Pages and applications used
-Link to prototypes or pages that were tested
-
-### Other supporting documents created
-e.g. user flows, personas, etc.
+### [Prototype](https://vsateams.invisionapp.com/share/ZVZ7DXLYEQ3#/screens/435900207)
 
