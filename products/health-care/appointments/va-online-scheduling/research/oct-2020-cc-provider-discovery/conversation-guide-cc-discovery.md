@@ -51,7 +51,7 @@ Before we start, a few things I want to mention:
 - Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "Drive". You will tell me what to do, what to tap, on, etc. Does that sound ok?
 [Share your screen]. Can you confirm if you can see my screen?
 
-## Warm-up Questions (Optional) - 3 minutes
+## Warm-up Questions (Optional) - 5 minutes
 
 Before we look at the website, let’s start with a couple of warm-up questions.
 
@@ -73,7 +73,7 @@ Before we look at the website, let’s start with a couple of warm-up questions.
     * Have you heard of VA Choice? 
     * After we're done, if you want to learn more about community care, we can ask our recruiting team to send you some additional information. Would you be interested in that? 
 
-## Section 1: Start an appointment - x minutes
+## Section 1: Start an appointment
 
 Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
 
@@ -140,6 +140,8 @@ If needed:
 
 * What's important to you when searching for a health care provider?
 
+* If you wanted to move forward without adding a provider, how would you do that?
+
 * Follow up questions if needed:  
     * What questions do you have about this page? 
     * What additional information would you want to have to continue?     
@@ -155,7 +157,10 @@ If needed:
     * IF no: What is missing?    
 
 * What questions do you have about this page? 
-    * What additional information would you want to have to continue?     
+    * What additional information would you want to have to continue?  
+    
+* If needed:
+    * How far do you usually plan to travel for appointments?
     
 Watch for:
     * How do they expect to look up providers - do they look for names/locations first?
@@ -180,7 +185,7 @@ Watch for:
    
 * Watch for:
     * Are they able to easily navigate the map?
-    * Does the map make more sense than the list
+    * Does the map make more sense to them than the list?
 
 ### Task 8 - Remove a Provider
 
@@ -210,7 +215,7 @@ Watch for:
 ### Task 10 - Review provider
 
 * Thinking about your own scheduling needs, if you were to schedule an appointment for yourself, would you prefer to specify preferred providers, as we just did? 
-    * Or select "no preference"?
+    * Or select skip this step?
     * What questions do you have about this page? 
     * What additional information would you want to have to continue?     
 
@@ -268,10 +273,12 @@ Watch for:
 
 * In your own words, what is this page asking you?
 
+* Who do you expect would contact you to finalize your community care appt?
+
 * What questions do you have about this page? 
     * What additional information would you want to have to continue?    
     
-* Prompt: Review your upcoming appointments
+* Prompt: Review your appointments
     * If needed: click "View your appointments"
 
 ## Section 4 (If time) - Manage appointments
