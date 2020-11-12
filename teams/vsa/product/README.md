@@ -75,8 +75,8 @@ MVP is an often overused/convoluted term. And, there can be many definitions of 
 
 It's up to the product team to determine what makes up their MVPs. The PO, the PM, and the cross-functional team determine their MVP after they've defined the problem and before they've started to build. It contains:
 - questions/problems they'd like to answer/solve
-- features that make it into address those questions/problems
-- a target date for launching the feature set 
+- features that might address those questions/problems
+- a target date for launching the feature set that answers those queestions
 
 At the end of the day, an MVP is a tool. Along with generating lessons that may be taken into subsequent iterations, it helps rally the team around a common goal. 
 </details>
