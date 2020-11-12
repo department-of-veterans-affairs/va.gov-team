@@ -113,19 +113,19 @@ Okay, great. Now, I'm going to give you a scenario. Imagine you've recently subm
 
 1. Could you walk me through how you would do that?
 
-*If they look for the update in the updates section:*
+    *If they look for the update in the updates section:*
 
-1. Why would you expect it to be in this section?
-2. What information would you expect to see related to your claim?
+    1. Why would you expect it to be in this section?
+    2. What information would you expect to see related to your claim?
 
-*If they look for the update in the claims section:*
+    *If they look for the update in the claims section:*
 
-1. Why would you expect it to be in this section?
+    1. Why would you expect it to be in this section?
 
-**Skip questions 2 and 3 if prototype is shown second**
+    **Skip questions 2 and 3 if prototype is shown second**
 
-2. What information would you expect to see related to your claims here?
-3. If you were to click on 'claims in progress' what would you expect to see?
+    2. What information would you expect to see related to your claims here?
+    3. If you were to click on 'claims in progress' what would you expect to see?
 
 ### Things to watch for:
 
@@ -139,25 +139,25 @@ Okay, we're now going to move on to another scenario. Imagine you are currently 
 
 1. Can you walk me through how you would do that?
 
-*If they look for appointments in the updates section:*
+    *If they look for appointments in the updates section:*
 
-1. Was it easy or hard to find your upcoming appointment?
-2. Can you tell me why you think it would be in the updates section?
+    1. Was it easy or hard to find your upcoming appointment?
+    2. Can you tell me why you think it would be in the updates section?
 
-**Skip questions 3-4 if prototype is shown second**
+    **Skip questions 3-4 if prototype is shown second**
 
-3. What information would you expect to be included for your appointments?
-4. Is there any thing that you would add or change about the appointments section?
+    3. What information would you expect to be included for your appointments?
+    4. Is there any thing that you would add or change about the appointments section?
 
-*If they look for appointments in the healthcare section:*
+    *If they look for appointments in the healthcare section:*
 
-1. Was it easy or hard to find your upcoming appointment?
-2. Can you tell me why you think it would be in the healthcare section?
+    1. Was it easy or hard to find your upcoming appointment?
+    2. Can you tell me why you think it would be in the healthcare section?
 
-**Skip questions 3-4 if prototype is shown second**
+    **Skip questions 3-4 if prototype is shown second**
 
-3. What information would you like to see on this page related to your appointments?
-4. Is there any thing that you would add or change about the appointments section?
+    3. What information would you like to see on this page related to your appointments?
+    4. Is there any thing that you would add or change about the appointments section?
 
 Okay great, thank you.
 
@@ -200,11 +200,11 @@ Okay great, now let's move onto the second prototype, this is version (A or B). 
 
 ### VERSION B
 
-**Skip question one if prototype is shown second**
-
 ## First task: Overview
 
 Take a look at this page, and let me know your thoughts.
+
+**Skip question one if prototype is shown second**
 
 1. If you clicked on the disability rating, where would you expect that to go?
 2. What are your thoughts about finding updates on this page?
@@ -232,19 +232,19 @@ Okay great, I'll have you go back to the previous screen. I'm now going to give 
 
 1. Could you walk me through how you would do that?
 
-*If they look for their claims in progress in the updates section:*
+    *If they look for their claims in progress in the updates section:*
 
-1. Why would you expect it to be in this section?
-2. What information would you expect to see related to your claim?
+    1. Why would you expect it to be in this section?
+    2. What information would you expect to see related to your claim?
 
-*If they look for their claims in progress in the claims section:*
+    *If they look for their claims in progress in the claims section:*
 
-1. Why would you expect it to be in this section?
+    1. Why would you expect it to be in this section?
 
-**Skip questions 2 and 3 if prototype is shown second**
+    **Skip questions 2 and 3 if prototype is shown second**
 
-2. What information would you expect to see related to your claims here?
-3. If you were to click on 'claims in progress' what would you expect to see?
+    2. What information would you expect to see related to your claims here?
+    3. If you were to click on 'claims in progress' what would you expect to see?
 
 ### Things to watch for:
 
@@ -258,26 +258,26 @@ Okay, we're now going to move on to another scenario. Imagine you are currently 
 
 1. Can you walk me through how you would do that?
 
-*If they look for messages in the updates section:*
+    *If they look for messages in the updates section:*
 
-1. Was it easy or hard to find your new messages?
-2. Can you tell me why you think it would be in the updates section?
+    1. Was it easy or hard to find your new messages?
+    2. Can you tell me why you think it would be in the updates section?
 
 
-**Skip questions 3-4 if prototype is shown second**
+    **Skip questions 3-4 if prototype is shown second**
 
-3. What information would you expect to be included for your messages?
-4. Is there any thing that you would add or change about the messages section?
+    3. What information would you expect to be included for your messages?
+    4. Is there any thing that you would add or change about the messages section?
 
-*If they look for messages in the healthcare section:*
+    *If they look for messages in the healthcare section:*
 
-1. Was it easy or hard to find your new messages?
-2. Can you tell me why you think it would be in the healthcare section?
+    1. Was it easy or hard to find your new messages?
+    2. Can you tell me why you think it would be in the healthcare section?
 
-**Skip questions 3-4 if prototype is shown second**
+    **Skip questions 3-4 if prototype is shown second**
 
-3. What information would you like to see on this page related to your messages?
-4. Is there any thing that you would add or change about the messages section?
+    3. What information would you like to see on this page related to your messages?
+    4. Is there any thing that you would add or change about the messages section?
 
 Okay great, thank you.
 
