@@ -69,17 +69,13 @@ Liz Lantz acted as the primary facilitator and interviewer for all sessions. Not
 
 
 ## Key Findings
-1. 4/5 participants got help from an education counselor. Education counselors may play a significant role in navigating veterans through the education flow.
-2. 2/5 participants did not notice the skip link and 4/5 participants did not notice the link to start over. Veterans were more interested in links that could provide them information relevant to them. 
-3. Participants weren't aware updating education benefits would be done through a form. Only 1/5 participants was able to complete this task without clear guidance from the facilitator.
-4. All participants understood when the wizard routed them elsewhere for the first time, but 2/5 became confused when routed to a different form the second time.
-5. Majority of the barriers to task completion for the veterans were a result of mismatched content or not having enough information to make a choice.
-6. All participants read eligibility information, but this may have been positively influenced by the nature of the moderated read out loud activity.
-7. It is unclear from this study whether or not veterans will prefer a block of content type of page vs. the wizard. When asked, 2/5 participants said they would prefer a hybrid approach- but this should not be taken with confidence as users are bad at imagining what they want.
+1. 2/5 participants did not notice the skip link and 4/5 participants did not notice the link to start over. Veterans were more interested in links that could provide them information relevant to them. 
+2. All participants understood when the wizard routed them elsewhere for the first time, but 2/5 became confused when routed to a different form the second time.
+3. Participants consistently wanted more information before taking any actions. Majority of the barriers to task completion for the veterans were a result of mismatched content or not having enough information to make a choice.
+4. All participants read eligibility information, but this may have been positively influenced by the nature of the moderated read out loud activity.
 
 
 ## Details of Findings
-
 
 ### 2/5 participants did not notice the skip link and 4/5 participants did not notice the link to start over. Veterans were usually only interested in links that were relevant to them.
 
