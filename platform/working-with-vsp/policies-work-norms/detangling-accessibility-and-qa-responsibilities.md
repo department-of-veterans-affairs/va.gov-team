@@ -22,7 +22,7 @@ VFS teams are sometimes confused about what the DEPO Platform's standards are: w
 - [ ] Create automated dashboard of outstanding 508 issues
 - [ ] Cancel Weekly Review Team Standup
 - [ ] Archive #practice-area-reviewers Slack channel
-- [ ] Create internal Slack channel just for the Product Support team and respective leadership to collaborate
+- [X] Create internal Slack channel just for the Product Support team and respective leadership to collaborate
 - [ ] Create cross-team channel for the Collaboration Cycle product just for collab cycle reviewers
 - [ ] Remove VFS personnel from governance/enforcement activities, but include them in appropriate collaboration cycle meetings by default
   - [ ] Brief all parties that VSP will deliver feedback in review meetings
