@@ -82,7 +82,7 @@ Let's start by making sure you can figure out how to share your screen on Zoom.
 
 Okay great.
 
-So, just a little bit of background, today we are going to be talking about a personalized overview page, which is basically where you would go to view all of your personal information.  This would include any recent updates as well as an overview of your healthcare, benefit or claims information. This page is intended to just be an overview of your information - if you wanted to change or manage any of your information that would be done on another page. Does that make sense? 
+So, just a little bit of background, today we are going to be talking about a personalized overview page, which is basically where you would go to view all of your recent updates as well as an overview of your healthcare, benefit or claims information. This page is intended to just be an overview of your information - if you wanted to change or manage any of your information that would be done on another page. Does that make sense? 
 
 Any questions before we get started?
 
@@ -94,7 +94,7 @@ We are going to start with version (A or B), and I'll send you the link. *send l
 
 ## First task: Overview & Updates
 
-Go ahead and scroll through this page and walk me through your thoughts on each section, starting with where you see your name (Charles).
+Go ahead and scroll through this page and walk me through your thoughts on each section, starting with where you see your name (Charles) in the dark grey box.
 
 * Nametag area/disability rating
 * Updates
