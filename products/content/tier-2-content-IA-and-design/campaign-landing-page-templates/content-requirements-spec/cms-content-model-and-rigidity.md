@@ -15,7 +15,7 @@
 
 ## 2. Why this matters (required)
 
-**Q:** "This page is for" panel: Can this reuse the audience taxonomies from Resources & support? If so, how? 
+**Q:** "This page is for" panel: Can this reuse the audience taxonomies from Resources & support? Some of the labels are different, but we strongly recommend aligning this (should be a Content & IA collaboration)
 
 **A:**
 
@@ -30,6 +30,8 @@ No questions.
 ## 4. Video (optional)
 
 "Duration" and "intro text" fields are not yet supported (see Resource and support product, similar issue.) We can add these fields to the video component CMS-wide, with the idea that in the future this content could be pulled in via Youtube API. 
+
+Q (for Jen and Ryan): Confirm the video caption come from YouTube --  or is it both -- by default, the YT caption is pulled in, but author has the option to write-over.  (Latest comps: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/content-requirements-spec/CLP-Maximal-markup-updated-060320.pdf)
 
 For MVP, this will need to be a manual copy/paste. 
 
@@ -100,12 +102,19 @@ The rigidity of "either 0 FAQs or 3-10" is somewhat complex and expensive to imp
 
 ## 10. Connect with us (optional)
 
-This panel overlaps has some commonalities with two existing objects from existing products 
+We should try to standardize this with the display of the "Connect with us" component on benefits landing pages, such as www.va.gov/health-care
 
-1) the right rail of benefits hub landing pages, which gets content out of the Section taxonomy term 
-2) Resources and support component
+Currently, all but the phone number are contained within the component, albeit with slightly different wording. 
 
-We'd like to standardize around some existing patterns if possible. More questions coming. 
+**Q:** Can this be standardized with Connect with us on Benefits Landing Pages?
+
+**A:**
+
+**Q:** What kind of flexibility around phone numbers is required, and is this 100% needed for MVP?
+
+**A:**
+
+
 
 ## 11. VA Benefits panel (required)
 

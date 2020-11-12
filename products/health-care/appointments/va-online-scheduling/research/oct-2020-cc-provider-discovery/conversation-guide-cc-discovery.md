@@ -4,7 +4,7 @@
 ## Moderator logistics
 
 - [ ] Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to the [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel).
-- [ ] Have the prototype link available
+- [ ] Have the [prototype link](https://adhoc.invisionapp.com/share/QWZ7WD9GTPJ#/screens/435681239_VAOS-CC-Pick-1) available
 - [ ] Update the Zoom sharing section
 - [ ] In the Attendees section, make sure everyone except the participant is on mute
 - [ ] In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
@@ -36,6 +36,7 @@ Before we start, a few things I want to mention:
 
     - Great, that helps me troubleshoot with you if we run into any problems.
     
+**If phone:**
 - OK great. When you are inside the zoom application on your phone, you'll see a few buttons at the bottom. Audio, Video, Share content, Participants, and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "chat" and "share content." Any questions?
 
 - First I'd like you to share your screen with me. Tap on the arrow that says "Share content" and hit "share screen". Select that button. You should be prompted with an option to share "Zoom" and then "Screen". Then select "Start Broadcast". If you see any additional prompts please read them aloud and I will help.
@@ -44,12 +45,13 @@ Before we start, a few things I want to mention:
 
 - Great, now I can see your phone screen! We are going to use this prototype in our session today. I'm going to begin now if that's ok with you. We will return to this in a few moments.
 
+**If can't share**
 - Backup plan if they cannot figure out how to share screen:
 
 - Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "Drive". You will tell me what to do, what to tap, on, etc. Does that sound ok?
 [Share your screen]. Can you confirm if you can see my screen?
 
-## Warm-up Questions (Optional) - 3 minutes
+## Warm-up Questions (Optional) - 5 minutes
 
 Before we look at the website, let’s start with a couple of warm-up questions.
 
@@ -71,7 +73,7 @@ Before we look at the website, let’s start with a couple of warm-up questions.
     * Have you heard of VA Choice? 
     * After we're done, if you want to learn more about community care, we can ask our recruiting team to send you some additional information. Would you be interested in that? 
 
-## Section 1: Start an appointment - x minutes
+## Section 1: Start an appointment
 
 Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
 
@@ -138,6 +140,8 @@ If needed:
 
 * What's important to you when searching for a health care provider?
 
+* If you wanted to move forward without adding a provider, how would you do that?
+
 * Follow up questions if needed:  
     * What questions do you have about this page? 
     * What additional information would you want to have to continue?     
@@ -153,7 +157,10 @@ If needed:
     * IF no: What is missing?    
 
 * What questions do you have about this page? 
-    * What additional information would you want to have to continue?     
+    * What additional information would you want to have to continue?  
+    
+* If needed:
+    * How far do you usually plan to travel for appointments?
     
 Watch for:
     * How do they expect to look up providers - do they look for names/locations first?
@@ -178,7 +185,7 @@ Watch for:
    
 * Watch for:
     * Are they able to easily navigate the map?
-    * Does the map make more sense than the list
+    * Does the map make more sense to them than the list?
 
 ### Task 8 - Remove a Provider
 
@@ -208,7 +215,7 @@ Watch for:
 ### Task 10 - Review provider
 
 * Thinking about your own scheduling needs, if you were to schedule an appointment for yourself, would you prefer to specify preferred providers, as we just did? 
-    * Or select "no preference"?
+    * Or select skip this step?
     * What questions do you have about this page? 
     * What additional information would you want to have to continue?     
 
@@ -266,10 +273,12 @@ Watch for:
 
 * In your own words, what is this page asking you?
 
+* Who do you expect would contact you to finalize your community care appt?
+
 * What questions do you have about this page? 
     * What additional information would you want to have to continue?    
     
-* Prompt: Review your upcoming appointments
+* Prompt: Review your appointments
     * If needed: click "View your appointments"
 
 ## Section 4 (If time) - Manage appointments
@@ -312,7 +321,7 @@ Thank you for working through that with me. I just have a few more questions bef
 
 * Do you have any other questions for me?
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 

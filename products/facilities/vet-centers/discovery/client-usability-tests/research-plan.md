@@ -87,7 +87,7 @@ At least:
 
 Date | Time in Eastern | Slots
 -----|-----------------------|-------
-Tue, Nov 18 [PILOT] | -:--p | 
+Wed, Nov 18 [PILOT] | -:--p | 
 Thu, Nov 19 | 7-10a, 7-8p | 4 
 Fri, Nov 20 | 7-10a, 7-8p | 4
 Mon, Nov 23 | 7-10a, 7-8p | 4
