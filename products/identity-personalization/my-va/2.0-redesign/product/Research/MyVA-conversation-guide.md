@@ -75,17 +75,19 @@ Let's start by making sure you can figure out how to share your screen on Zoom.
 
 **Ask participant to be mindful of thinking outloud since you will not be able to see a mouse cursor go through the prototype**
 
-**Alternate between starting with version A and B for each participant**
+**ALTERNATE STARTING WITH VERSIONS A AND B FOR EACH PARTICIPANT**
 
-Okay great. We have been working on re-designing a personalized page for veterans, and we would love your input.  Today we are going to be comparing two versions of the same page.  We are going to start with version (A or B), and I'll send you the link right now. Once you have it open, please imagine that all of the information shown on the page is your information. And just a reminder, these screens are intentionally grayscale.
+Okay great, let's get started. Just a little bit of background, we have been working on re-designing a personalized page for veterans, and we would love your input.  Today we are going to be comparing two versions of the same page. Please imagine that all of the information shown on the page is your information. And just a reminder, these screens are intentionally grayscale.
+
+We are going to start with version (A or B), and I'll send you the link. *send link*
 
 ### VERSION A
-
-**Skip question one if prototype is shown second**
 
 ## First task: Overview & Updates
 
 Go ahead and scroll through this page and walk me through your thoughts.
+
+**Skip question 1 if prototype is shown second**
 
 1. If you clicked on the disability rating, where would you expect that to go?
 2. If you were looking for personal updates, where would you expect those to be?
