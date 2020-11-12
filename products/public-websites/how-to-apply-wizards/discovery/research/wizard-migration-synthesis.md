@@ -221,7 +221,7 @@ Unmoderated A/B testing will be needed to make a confident recommendation on wha
   - Consider breaking up the wizard questions to [one thing per page](https://designnotes.blog.gov.uk/2015/07/03/one-thing-per-page/) to reduce cognitive load and better address users with low confidence.
   - > "If I'm eligible for it I wanna apply for it."
 - The link to start over on the step list page can be removed as users intuitively made use of the browser's back button.
-> {L: ok so you had clicked here... I'm interested in say you were interested in applying... can you talk me through how you would get back to where you were?} I would go to these arrows in the top left [browser back button] that's how I would do things. And I've learned through the times working through gov websites- if you x out at the top sometimes you can never get back to where you want to be easily.
+  - > {L: ok so you had clicked here... I'm interested in say you were interested in applying... can you talk me through how you would get back to where you were?} I would go to these arrows in the top left [browser back button] that's how I would do things. And I've learned through the times working through gov websites- if you x out at the top sometimes you can never get back to where you want to be easily.
 - Adjusting the visual hierarchy of the skip link may help users. An unmoderated user test exploring this with users who have a reason to use the link would help our team provide more confident recommendations.
 
 ## Next Steps
