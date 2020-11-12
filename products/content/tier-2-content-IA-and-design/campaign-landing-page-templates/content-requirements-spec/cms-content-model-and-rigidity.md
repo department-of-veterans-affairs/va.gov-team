@@ -1,6 +1,11 @@
+# On this page
+
+1. [Panels](#panels)
+2. [Other issues](#other-issues)
+
 # Panels
 
-**Q:** Shall we prioritize the required panels, then tackle optional ones? That would unblock FE development. Can content for these panels be prioritized as well? 
+**Q:** Shall we prioritize the four _required_ panels, then tackle the 7 _optional_ ones? That would unblock FE development. Can content for these panels be prioritized as well? 
 
 **A:**
 
@@ -24,16 +29,10 @@ No questions.
 
 ## 4. Video (optional)
 
-Duration is not yet supported (see Resource and support)
-Intro text is not yet supported. 
+"Duration" and "intro text" fields are not yet supported (see Resource and support product, similar issue.) We can add these fields to the video component CMS-wide, with the idea that in the future this content could be pulled in via Youtube API. 
 
-We can add these fields to the video component CMS-wide, with the idea that in the future this content could be pulled in via Youtube API. 
+For MVP, this will need to be a manual copy/paste. 
 
-But the intro text field would be stored with the video in the CMS media library, not specific to this placement. 
-
-**Q:** Do we want to store this description "upstream" in the media library? Or make it specific to the 
-
-**A:**
 
 ## 5. Spotlight (optional)
 
@@ -84,14 +83,29 @@ CMS can support CMS-managed events, but it poses some tricky editorial experienc
 
 ## 9. FAQs (optional)
 
-No questions. The rigidity of "either 0 FAQs or 3-10" is somewhat complex and expensive to implement. We recommend going with clear guidelines / help text instead of enforced rigidity (form validation) for MVP.  
+We will be reusing the component created for Resource and support, with the new reusable Q&A. 
+
+The rigidity of "either 0 FAQs or 3-10" is somewhat complex and expensive to implement. We recommend going with clear guidelines / help text instead of enforced rigidity (form validation) for MVP.  
+
+**Q:** Are guardrails acceptable for # of questions? 
+
+**A:**
+
+**Q:** The "Q&A group" component allows Q&As to be displayed as accordions, or not, via a boolean. We assume this is still desired. 
+
+**A:**
+
+
+
 
 ## 10. Connect with us (optional)
 
-This panel overlaps has some commonalities with 
+This panel overlaps has some commonalities with two existing objects from existing products 
 
 1) the right rail of benefits hub landing pages, which gets content out of the Section taxonomy term 
 2) Resources and support component
+
+We'd like to standardize around some existing patterns if possible. More questions coming. 
 
 ## 11. VA Benefits panel (required)
 
@@ -102,17 +116,30 @@ No questions.
 
 ## Metadata
 
-Meta title
-Meta description
-Meta image
-any other meta specs? 
+
+**Q:** What should the meta title pattern be? Should it be automated or should someone be able to specify it? We assume the latter. 
+
+**A:**
+
+
+**Q:** What should the meta description pattern be? Should it be automated or should someone be able to specify it? We assume the latter. 
+
+
+**A:**
+
+**Q:** We assume meta image should be drawn from the hero image. Any other specs? 
+
+**A:**
+
+
+**Q:** any other meta specs? 
+
+**A:**
+
 
 ## MVP governance
 
 Sections: [what sections do these belong to, during MVP?]
 Role: [who can edit during MVP?] 
 URL alias: [what is the url alias pattern?]
-
-
-
 

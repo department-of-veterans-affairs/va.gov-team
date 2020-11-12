@@ -237,19 +237,27 @@ Week 2 of sprint 33
 
 **Design**
 
+- Conduct research #15684 
+- Research summary
+- Make design updates for mobile design based on user testing feedback
+
 **Dev**
 
 ### Direct deposit for edu
 
 PM
 
-- Hold usability test prep session
+- Hold usability test prep session #15686
 
 Design
 
 - Build prototype
 - Run research
 - Start summary (if time)
+
+### Analytics update
+
+- Add error codes for address save failures to GA dashboard #16088
 
 ## Sprint 36 (12/2 – 12/15)
 
@@ -261,6 +269,9 @@ Are we ready for Matt to work on staging users list yet?
 
 **Design**
 
+- Convert mobile wireframes to desktop
+- (AFTER desktop wireframe has been finished) Start visual design
+
 **Dev**
 
 ## Sprint 37 (12/16 – 12/29)
@@ -269,19 +280,35 @@ Are we ready for Matt to work on staging users list yet?
 
 **Design**
 
+- Finish initial pass at visual design
+- Gather feedback from design team
+
 **Dev**
 
 ## Sprint 38 (12/30 – 1/12)
 
 ### My VA redesign
 
+**PM**
+
 **Design**
+
+- Finalize My VA copy
 
 **Dev**
 
 ## Sprint 39 (1/13 – 1/26)
 
+### My VA redesign
+
+**PM**
+
+- Prep for usability test prep review
+
 **Design**
+
+- Research plan for usability testing of finalized designs
+- Convo guide for usability testing of finalized designs
 
 **Dev**
 
