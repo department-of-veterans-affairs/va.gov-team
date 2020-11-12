@@ -124,4 +124,4 @@ Fri, Dec 4 | 7-10a, 7-8p | 4
   - Chris D Logan <clogan@governmentcio.com>
   - Gibran Rodriguez <grodriguez@governmentcio.com> 
   - Michael Pelz-Sherman <mpelzsherman@governmentcio.com> 
-  - Jessica Schiefer <jessica.schiefer@va.gov> 
+
