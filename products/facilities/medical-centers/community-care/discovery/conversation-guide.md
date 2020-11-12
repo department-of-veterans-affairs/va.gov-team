@@ -14,7 +14,7 @@ Thanks for joining us today! My name is Chris and I also have some colleagues on
 Before we start, a few things I want to mention:
 
 This entire session should take about 45 minutes. I want to be sure not to keep you longer, so I may occasionally prompt you with the next question or topic.
-Also,
+
 - We aren’t trying to sell or promote any product or service to you.
 - There are no right or wrong answers. We're hoping to make the process of searching for providers on VA online scheduling app and Facility Locator easier for Veterans.
 - I won’t be offended by any opinions you express.
