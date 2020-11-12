@@ -221,11 +221,23 @@ Unmoderated A/B testing will be needed to make a confident recommendation on wha
 
 
 ## Recommendations
-Put together initial recommendations here based on your findings. Review with your team, then edit as needed.
+- Participants wanted to learn more about what benefits they qualified for by clicking links which would lead them away from the wizard. Consider adding a shortened eligibility checklist on the page. 
+- Open benefit eligibility links in a way that users will not lose their place in the wizard.
+- Revisiting language in the subway map so that it re-enforces the form's purpose (e.g. instead of "apply", say "change" to match the h1 on the 1995 form.)
+- Double checking links in the subway map (e.g. it may be confusing that a link on "career counselors" goes to a page in the disability hub.)
+- Consider breaking up the wizard questions to one question per page with a progress bar so users will not be overwhelmed with content on one page. 
+- The link to start over to update education benefits can be removed as users would use their back button.
 
 
 ## Next Steps
-Next steps here
+### Interview school counselors
+4/5 participants spoke to a school counselor. Consider interviewing school counselors to better understand Veterans’ pain points. What are common frustrations and frequently asked questions? This will help inform us as to why veterans may feel uncomfortable and what changes can be made to make veterans feel comfortable completing forms without external help. 
+Besides school counselors, where else they are going to research this, are they going to an external site? Asking friends?
+### Test on mobile
+A significant portion, 39.59% of VA.gov of users, are on mobile. 
+### Unmoderated user testing
+Questions from the moderator and talking out loud may have caused participants to act differently than they usually would. 
+
 
 
 ## Appendix
