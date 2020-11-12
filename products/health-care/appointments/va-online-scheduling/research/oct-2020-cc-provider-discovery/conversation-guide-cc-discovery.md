@@ -4,7 +4,7 @@
 ## Moderator logistics
 
 - [ ] Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to the [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel).
-- [ ] Have the prototype link available
+- [ ] Have the [prototype link](https://adhoc.invisionapp.com/share/QWZ7WD9GTPJ#/screens/435681239_VAOS-CC-Pick-1) available
 - [ ] Update the Zoom sharing section
 - [ ] In the Attendees section, make sure everyone except the participant is on mute
 - [ ] In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
