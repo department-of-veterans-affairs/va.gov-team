@@ -98,6 +98,8 @@ This panel overlaps has some commonalities with
 1) the right rail of benefits hub landing pages, which gets content out of the Section taxonomy term 
 2) Resources and support component
 
+We'd like to standardize around some existing patterns if possible. More questions coming. 
+
 ## 11. VA Benefits panel (required)
 
 No questions.
@@ -107,17 +109,30 @@ No questions.
 
 ## Metadata
 
-Meta title
-Meta description
-Meta image
-any other meta specs? 
+
+**Q:** What should the meta title pattern be? Should it be automated or should someone be able to specify it? We assume the latter. 
+
+**A:**
+
+
+**Q:** What should the meta description pattern be? Should it be automated or should someone be able to specify it? We assume the latter. 
+
+
+**A:**
+
+**Q:** We assume meta image should be drawn from the hero image. Any other specs? 
+
+**A:**
+
+
+**Q:** any other meta specs? 
+
+**A:**
+
 
 ## MVP governance
 
 Sections: [what sections do these belong to, during MVP?]
 Role: [who can edit during MVP?] 
 URL alias: [what is the url alias pattern?]
-
-
-
 
