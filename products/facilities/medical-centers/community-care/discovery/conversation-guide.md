@@ -9,13 +9,12 @@
 
 ## Intro
 
-Thanks for joining us today! My name is Chris and I also have some colleagues on the line observing and taking notes. Today we're going to talk about scheduling Veterans for community care appointments. Our goal is to understand your role as a Community Care manager who works with Veterans, service members and their families. This will help us understand what factors are important to a Veteran, so that we can present them with them with better search results when they are searching for a Community Care provider.
+Thanks for joining us today! My name is Chris and I also have some colleagues on the line observing and taking notes. Today we're going to talk about scheduling Veterans for community care appointments. Our goal is to understand your role as a Community Care manager who works with Veterans, service members and their families. This will help us understand what is important to a Veteran, so that we can present them with them with better search results when they are searching for a Community Care provider.
 
 Before we start, a few things I want to mention:
 
 This entire session should take about 45 minutes. I want to be sure not to keep you longer, so I may occasionally prompt you with the next question or topic.
-
-A quick note - I want to mention some key points as we begin:
+Also,
 - We aren’t trying to sell or promote any product or service to you.
 - There are no right or wrong answers. We're hoping to make the process of searching for providers on VA online scheduling app and Facility Locator easier for Veterans.
 - I won’t be offended by any opinions you express.
