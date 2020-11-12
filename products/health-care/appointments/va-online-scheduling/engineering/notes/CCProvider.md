@@ -91,7 +91,7 @@ keywords searched: 'Primary', 'General', 'Internal Medicine'
 
 #### Audiology
 
-Lighthouses Facility API only supports one categorization for both of the VAOS Audiology types. 
+Lighthouses Facility API only supports one categorization for both of the VAOS Audiology types when searching with Service Type. However they also expose the ability to provide Specialty Code for querying PPMS. We can therefore map these two to our own taxonomy as deemed most relevant. 
 
 1. Audiology - Routine hearing exam
 2. Audiology - Hearing aid support
@@ -113,7 +113,7 @@ keywords searched: 'hearing exam', 'hearing', 'audiology', 'routine', 'hearing a
 
 #### Nutrition
 
-keywords searched 'nutrit', 'dietician'
+keywords searched: 'nutrit', 'dietician'
 
 | Prefix |    ID      |  Name                                   |
 |:------:|:----------:|:---------------------------------------:|
@@ -133,7 +133,8 @@ keywords searched 'nutrit', 'dietician'
 
 #### Podiatry
 
-keyword searched 'foot', 'ankle', 'podiatr'
+keyword searched: 'foot', 'ankle', 'podiatr'
+
 | Prefix |    ID      |  Name                                   |
 |:------:|:----------:|:---------------------------------------:|
 |  211D  | 211D00000X	| Assistant, Podiatric |
@@ -150,7 +151,7 @@ keyword searched 'foot', 'ankle', 'podiatr'
 
 #### Optometry
 
-keyword searched 'vision', 'eye', 'optom', 'opti'
+keyword searched: 'vision', 'eye', 'optom', 'opti'
 
 | Prefix |    ID      |  Name                                   |
 |:------:|:----------:|:---------------------------------------:|
