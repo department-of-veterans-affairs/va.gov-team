@@ -79,13 +79,13 @@ Liz Lantz acted as the primary facilitator and interviewer for all sessions. Not
 
 ### 2/5 participants did not notice the skip link and 4/5 participants did not notice the link to start over. Veterans were usually only interested in links that were relevant to them.
 
-> "Uh.. I think there is a way... but I didn't do that. Is this the form I need... oh right here {Apply for VA education beenfits with VA form 22-1990}. Well if you wanted to find this form number you could probably just put it in google to start the form." 
+> "Uh.. I think there is a way... but I didn't do that. Is this the form I need... oh right here {Apply for VA education benefits with VA form 22-1990}. Well if you wanted to find this form number you could probably just put it in google to start the form." 
 
-> "I guess I didn't really look um... hmm... I guess I did not notice anything to skip. I'd like to have a continue button if I've already started. Something like "continue" or having a link to reference to that continue."
+> "I guess I didn't really look um... hmm... I guess I did not notice anything to skip. I'd like to have a continue button if I've already started. Something like "continue" or having a link to reference to continue."
 
-> "Its asking me if VA form 22-1990 is the right education form for me..." Hovering over the link: "I would click the 22-1990" "If I already knew this was the correct form, I wouldn't have gone through and read anything else."
+> "It's asking me if VA form 22-1990 is the right education form for me..." Hovering over the link: "I would click the 22-1990." "If I already knew this was the correct form, I wouldn't have gone through and read anything else."
 
-> "{On the other page you said you'd never notice the go back link} Uh I think it's the font. The font is ... everything that's large or draws my attention that's what I need to pay attention to. So I would have go back to the top if the go back was at the top. I would go straight back to the larger fonts, the number and then I'd go back up to the top and then I'd scroll down and eventually see it but..."
+> "{L: On the other page you said you'd never notice the go back link} Uh I think it's the font. The font is ... everything that's large or draws my attention that's what I need to pay attention to. So I would have to go back to the top if the go back [link] was at the top. I would go straight back to the larger fonts, the number, and then I'd go back up to the top and then I'd scroll down and eventually see it but..."
 
 The variation in responses implies more testing will be needed. Behavior may depend on the following:
 
@@ -117,16 +117,16 @@ This may only be a temporary solution until a more intuitive one is designed (e.
 
 > "Sometimes I just miss information. I don't see a place where I can change my program or anything." {LZ: what would you do next?} Hmm... call! {laughing} That's what I do. There's a number "Need help?" but I have a separate number in my house that I use that directs straight to the education office."
 
-> "GI comparison tool... Would that show the different options? That's what I'm thinking if you click on this it could let you search for the school or what additional benefits they might have. I'm assuming if they have a veteran office there they would show application."
+> "GI comparison tool... Would that show the different options? That's what I'm thinking if you click on this it could let you search for the school or what additional benefits they might have. I'm assuming if they have a veteran office there they would show an application."
 
-We hypothesize veterans may be losing track of their tasks or becoming confused by the volume of learn more links on any given page. We observed several participants falling through rabbit holes of content which distracted them away from the facilitated tasks. We also observed participants often attempting to click on learn more links within the wizard itself which would lead to larger pages of content.
+We hypothesize veterans may be losing track of their tasks or becoming confused by the volume of 'learn more' links on any given page. We observed several participants falling through rabbit holes of content which distracted them away from the facilitated tasks. We also observed participants often attempting to click on 'learn more' links within the wizard itself which would lead to larger pages of content.
 
 An unmoderated study may help us better determine if this is a significant usability issue that should be addressed. In the interim, **we recommend conducting another content review to see where we can make things more clear for veterans.**
 
 Alternative solutions may be uncovered through tests with:
 
 - [GOV.uk's one thing per page](https://www.gov.uk/service-manual/design/form-structure#start-with-one-thing-per-page) to keep low-confidence users on track to task completion. 
-- Reducing the amount of (or removing) learn more links within the wizard itself.
+- Reducing the amount of (or removing) 'learn more' links within the wizard itself.
 
 
 ### All participants read eligibility information, but this may have been positively influenced by the nature of the moderated read out loud activity.
@@ -136,9 +136,9 @@ Since no clear usability issues were observed, we believe this pattern will work
 ## Additional Insights
 
 
-### When asked, 2/3 participants expected more information within the wizard to open up in a new tab as they were were hesitant about losing the selections they filled into the wizard upon leaving and returning to it.
+### When asked, 2/3 participants expected more information within the wizard to open up in a new tab as they were hesitant about losing the selections they filled into the wizard upon leaving and returning to it.
 
-> "{here or this page?} I think it would open up another page to see what I'm referencing. Alot of times after you hit the back button it resets all your submissions. If it resets the page forcing me to re-select things becomes tedious after a while... {Okay got it. I can understand the frustration of an experience like that}."
+> "{here or this page?} I think it would open up another page to see what I'm referencing. A lot of times after you hit the back button it resets all your submissions. If it resets the page forcing me to re-select things becomes tedious after a while... {Okay got it. I can understand the frustration of an experience like that}."
 
 > "{one more thing, for the meet eligibility requirements link, if you were to click on that link, what would you expect? would you expect for that to open in a new tab/window/link?} I would expect it to be a whole new tab that would explain it and then I could go back and look and answer that question."
 
@@ -148,7 +148,7 @@ Since no clear usability issues were observed, we believe this pattern will work
 
 > Upon being prompted by the facilitator to return to the wizard page, the participant expressed frustration thinking she was starting over again before realizing there is an option to update her program within it.
 
-Due to the variance in participant expectations and known risks related to opening content in a new tab, we cannot recommend opening more information in a new tab until further unmoderated testing is conducted. [WCAG 2.0 technique G200 states this is permissible](https://www.w3.org/TR/WCAG20-TECHS/G200.html), but cautions that users with disabilties in particular may become disorientated. 
+Due to the variance in participant expectations and known risks related to opening content in a new tab, we cannot recommend opening more information in a new tab until further unmoderated testing is conducted. [WCAG 2.0 technique G200 states this is permissible](https://www.w3.org/TR/WCAG20-TECHS/G200.html), but cautions that users with disabilities in particular may become disorientated. 
 
 The Cooper Group and [Nielsen Norman Group also warns off taking control away from the user](https://www.nngroup.com/articles/the-top-ten-web-design-mistakes-of-1999/) as a user who <em>does not</em> expect a new tab to open will not have control over whether or not it occurs vs. a user who can still use right click -> open in new tab.
 
@@ -158,21 +158,21 @@ Without further testing we cannot make any strong recommendations. A future test
 
 Potential solutions may include:
 - Using one thing per page to split apart the wizard's questions into individual pages. This would allow for more information and hint text to be naturally included and reduce cognitive load to the user. However, there may be technical constraints due to the form system.
-- Removing links from within the wizard itself in favor of summarized plain language descriptions through progressive disclosure similar to the format used for STEM eligibility. In theory, while users who are still confused could contact their education councilor (as observed).
+- Removing links from within the wizard itself in favor of summarized plain language descriptions through progressive disclosure similar to the format used for STEM eligibility. In theory, while users who are still confused could contact their education counselor (as observed).
 
 
 ### 1 participant expressed panic upon viewing the sign-in alert on mobile which distracted her from understanding the purpose of the page.
 
-> "{What stands out?} That I need to sign in. Save work is always of interest. Um... I would start trying to rack my brain on a password because... when I see this I would pause because I'd be thinking of what's my password do I remember the password? Do I need my password? I would panic a bit."
+> "{What stands out?} That I need to sign in. Save work is always of interest. Um... I would start trying to rack my brain on a password because... when I see this I would pause because I'd be thinking of what's my password? Do I remember the password? Do I need my password? I would panic a bit."
 
-> "Um... I see its different because it has requirements but it still feels like I'm starting over... and I'm signing in again... I know initially I clicked that I'm updating but it does not... {reads header}. Down in the {subway map} I don't see {the header} that lets me know or confirms that I'm where I want to be. So when I scroll all the way up I see change... but where I am {in the subway map} I can't see this is the right place."
+> "Um... I see it's different because it has requirements but it still feels like I'm starting over... and I'm signing in again... I know initially I clicked that I'm updating but it does not... {reads header}. Down in the {subway map} I don't see {the header} that lets me know or confirms that I'm where I want to be. So when I scroll all the way up I see change... but where I am {in the subway map} I can't see if this is the right place."
 
-We recommend conducting mobile testing to determine if this is usability issue is compounded on smaller screen sizes where the sign-in alert has more prominence on the page and more scrolling is necessary to parse through content. We hypothesize there is a possibility users may become confused, miss important content information, abandon the flow, or become anxious.
+We recommend conducting mobile testing to determine if this is a usability issue is compounded on smaller screen sizes where the sign-in alert has more prominence on the page and more scrolling is necessary to parse through content. We hypothesize there is a possibility users may become confused, miss important content information, abandon the flow, or become anxious.
 
 
 ### Participants weren't aware updating education benefits would be done through a form. Only 1/5 participants was able to complete this task without clear guidance from the facilitator.
 
-> "I'm looking for something that says account information that would have my name and a contact us link to ask someone how to update my information. Or if there's a "update your account information" where you could update your home address. {L: What if I told you you'd have to do a form} Like an online form or a paper form? {L: An online form} A web form or a PDF? {L: A web form} Oh yea i'd prefer that since it would be easier. I could click it make the updates and save. {L: knowing it's a web form does that change how you'd look for it} No, I'd assume it would be under my account information."
+> "I'm looking for something that says account information that would have my name and a contact us link to ask someone how to update my information. Or if there's a "update your account information" where you could update your home address. {L: What if I told you you'd have to do a form} Like an online form or a paper form? {L: An online form} A web form or a PDF? {L: A web form} Oh yea i'd prefer that since it would be easier. I could click it, make the updates, and save. {L: knowing it's a web form does that change how you'd look for it} No, I'd assume it would be under my account information."
 
 It is not clearly intuitive for veterans to update education benefits through a form. This is a semantics mismatch due to the existing process. 
 Although not directly related to the research questions of the study, this is a usability issue that should be investigated more.
@@ -188,20 +188,20 @@ Although not directly related to the research questions of the study, this is a 
 
 In future studies we may want to investigate this behavior more including: 
 
-- How can we make it easier for Veterans go through this process w/out having to call someone for help? 
+- How can we make it easier for veterans to go through this process w/out having to call someone for help? 
 - Where else do veterans reach out for help?
 - Consider interviewing school/education counselors for a SME's perspective and heuristic evaluation on the wizard.
 
 
 ### It is unclear from this study whether or not veterans will prefer a block of content type of page vs. the wizard. When asked, 2/5 participants said they would prefer a hybrid approach- but this should not be taken with confidence as users are bad at imagining what they want.
 
-> "I thought the content block was simpler. I like that. You don't need to read as much. Some government websites you have to dig down for more. {to clarify which one..} yea the block one was easier instead of reading through alot of information {wizard}."
+> "I thought the content block was simpler. I like that. You don't need to read as much. Some government websites you have to dig down for more. {to clarify which one..} yea the block one was easier instead of reading through a lot of information {wizard}."
 
-> "I prefer concise {wizard}. Reading through all those paragraphs and stuff I might not be able to focus. And I'm more of a get to the point kinda person. That's why I prefer the counselor who can just tell me what to do. It's alot more to the point. If I wrote down the step and if it's still confusing than I'd go to the lengthy page and go from there."
+> "I prefer concise {wizard}. Reading through all those paragraphs and stuff I might not be able to focus. And I'm more of a get to the point kinda person. That's why I prefer the counselor who can just tell me what to do. It's a lot more to the point. If I wrote down the step and if it's still confusing than I'd go to the lengthy page and go from there."
 
 > "I think a hybrid approach is better. I do like the bullet format. Most people in the military read bullet format. Bam bam bam that's what I need to know with additional links and additional options. Having these bullets and a guided flow to narrow down... maybe a hybrid approach."
 
-> "I like the option to have lengthy and have more concise for everyone's personality. Everybody's different. Sometimes you'll have people like me. Sometimes I'll want to get to the point but sometimes I'll also want more information. As I said it just depends on how my headspace is on that day."
+> "I like the option to have a lengthy and have a more concise [option] for everyone's personality. Everybody's different. Sometimes you'll have people like me. Sometimes I'll want to get to the point but sometimes I'll also want more information. As I said it just depends on how my headspace is on that day."
 
 Unmoderated A/B testing will be needed to make a confident recommendation on what is better for veterans.
 
@@ -213,11 +213,11 @@ Unmoderated A/B testing will be needed to make a confident recommendation on wha
 - Conduct content review for the following: 
   - Revisiting language in the subway map so that it re-enforces the form's purpose (e.g. instead of "apply", say "change" to match the h1 on the 1995 form.) 
   - Double checking links in the subway map (e.g. it may be confusing that a link on "career counselors" goes to a page in the disability hub.)
-- Participants consistently wanted more information before taking any actions, they were not familar with certain programs and wanted to know if they qualified for them. 
+- Participants consistently wanted more information before taking any actions, they were not familiar with certain programs and wanted to know if they qualified for them. 
   - Consider breaking up the wizard questions to [one thing per page](https://designnotes.blog.gov.uk/2015/07/03/one-thing-per-page/) to reduce cognitive load and better address users with low confidence.
   - > "If I'm eligible for it I wanna apply for it."
 - The link to start over on the step list page can be removed as users intuitively made use of the browser's back button.
-  - > {L: ok so you had clicked here... I'm interested in say you were interested in applying... can you talk me through how you would get back to where you were?} I would go to these arrows in the top left [browser back button] that's how I would do things. And I've learned through the times working through gov websites- if you x out at the top sometimes you can never get back to where you want to be easily.
+  - > {L: ok so you had clicked here... I'm interested in, say you were interested in applying... can you talk me through how you would get back to where you were?} I would go to these arrows in the top left [browser back button] that's how I would do things. And I've learned through the times working through gov websites- if you x out at the top sometimes you can never get back to where you want to be easily.
 - Adjusting the visual hierarchy of the skip link may help users. An unmoderated user test exploring this with users who have a reason to use the link would help our team provide more confident recommendations.
 
 ## Next Steps
