@@ -63,6 +63,8 @@ Pact enables VFS teams to test integration points with vets-api. This gives VFS 
 - **provider state**: The description of a state that the consumer expects the provider to be in. In a test, the provider handles a state by doing the necessary setup to acccommodate a request.
 - **broker**: The central location where pacts are hosted. The [Pact broker](https://dev.va.gov/_vfs/pact-broker) is hosted internally. You can view the interactions per endpoint and the verification matrix from the broker index.
 
+**Important** The pact broker is in the process of moving into the AWS infrastructure. The old pact broker url can be found at , but we are currently in the process of updating configuration to function properly with the new location https://vagov-pact-broker.herokuapp.com/ and CircleCI. 
+
 ### Requirements (draft)
 
 VFS teams are required to use Pact for contract testing in the following scenarios:
