@@ -4,6 +4,7 @@
 Josh Kim (josh.kim@adhocteam.us), Megan Gayle (mgayle@governmentcio.com), 11/11/2020
 
 View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/discovery/research/wizard-research-plan.md).
+
 ## Research Goals 
 
 This research was to test proposed changes to the wizard flow, which impacts both BAM teams, BAH team, and Public Websites.
@@ -79,32 +80,103 @@ The facilitator of the study was also the designer of the prototype being tested
 8. It is unclear from this study whether or not veterans will prefer a block of content type of page vs. the wizard. When asked, 2/5 participants said they would prefer a hybrid approach- but this should not be taken with confidence as users are bad at imagining what they want.
 
 ## Details of Findings
-**4/5 participants got help from an education counselor. Education counselors may play a significant role in navigating veterans through the education flow.**
-Quotes here
 
-**2/5 participants did not notice the skip link and 4/5 participants did not notice the link to start over. Veterans were more interested in links that could provide them information relevant to them.**
-Quotes here
+### 4/5 participants got help from an education counselor. Education counselors may play a significant role in navigating veterans through the education flow.
 
-**Participants weren't aware updating education benefits would be done through a form. Only 1/5 participants was able to complete this task without clear guidance from the facilitator.**
-Quotes here
+> "Most of the stuff was directly through the school. [The VA representative at my school] sent me all the documents and digital forms to sign and they took care of everything else."
 
-**All participants understood when the wizard routed them elsewhere for the first time, but 2/5 became confused when routed to a different form the second time.**
-Quotes here
+> "I have a bunch of scrambled knowledge from years ago, so I put the education councilor to the test to make sure I was doing things correctly..."
 
-**2/5 participants were hesitant about losing the selections they filled into the wizard upon leaving and returning to it.**
-Quotes here
+> "I used the councilor at the school to help me figure out if they had what they needed."
 
-**Majority of the barriers to task completion for the veterans were a result of mismatched content or not having enough information to make a choice.**
-Quotes here
+In future studies we may want to investigate this behavior more including: 
 
-**All participants read eligibility information, but this may have been positively influenced by the nature of the moderated read out loud activity.**
-Quotes here
+- How can we make it easier for Veterans go through this process w/out having to call someone for help? 
+- Where else do veterans reach out for help?
+- Consider interviewing school/education counselors for a SME's perspective and heuristic evaluation on the wizard.
 
-**It is unclear from this study whether or not veterans will prefer a block of content type of page vs. the wizard. When asked, 2/5 participants said they would prefer a hybrid approach- but this should not be taken with confidence as users are bad at imagining what they want.**
-Quotes here
+### 2/5 participants did not notice the skip link and 4/5 participants did not notice the link to start over. Veterans were usually only interested in links that were relevant to them.
+
+> "Uh.. I think there is a way... but I didn't do that. Is this the form I need... oh right here {Apply for VA education beenfits with VA form 22-1990}. Well if you wanted to find this form number you could probably just put it in google to start the form." 
+
+> "I guess I didn't really look um... hmm... I guess I did not notice anything to skip. I'd like to have a continue button if I've already started. Something like "continue" or having a link to reference to that continue."
+
+> "Its asking me if VA form 22-1990 is the right education form for me..." Hovering over the link: "I would click the 22-1990" "If I already knew this was the correct form, I wouldn't have gone through and read anything else."
+
+The variation in responses implies more testing will be needed. Behavior may depend on the following:
+
+- Moderated vs. unmoderated study: would users still notice the skip/start over link if they weren't reading out their thoughts deliberately?
+- Participant sampling: if we conducted an A/B test with participants with a use for the skip link/start over link vs. participants without a use for the skip/start over link change the findings?
+- Visual hierarchy: if we were to increase the prominence of the links slightly, would more users who need it access it? Conversely, would this cause the negative effect of users who don't need it clicking it?
+- Content: is this a matter of semantics? Would wording these links differently change behavior?
+
+### Participants weren't aware updating education benefits would be done through a form. Only 1/5 participants was able to complete this task without clear guidance from the facilitator.
+
+> "I'm looking for something that says account information that would have my name and a contact us link to ask someone how to update my information. Or if there's a "update your account information" where you could update your home address. {L: What if I told you you'd have to do a form} Like an online form or a paper form? {L: An online form} A web form or a PDF? {L: A web form} Oh yea i'd prefer that since it would be easier. I could click it make the updates and save. {L: knowing it's a web form does that change how you'd look for it} No, I'd assume it would be under my account information."
+
+It is not clearly intuitive for veterans to update education benefits through a form. This is a semantics mismatch due to the existing process. 
+Although not directly related to the research questions of the study, this is a usability issue that should be investigated more.
+
+### All participants understood when the wizard routed them elsewhere for the first time, but 2/5 became confused when routed to a different form the second time.
+
+> "That is exactly where I thought it would lead me to" {1990 form}
+
+> "Down in here {subway map} I don't see {the header} that lets me know or confirms that I'm where I want to be. So when I scroll all the way up I see change... but where I am {in the subway map} I can't see this is the right place." {1995 form}
+
+> "It doesn't seem like updating because it seems like I'm applying to a new school."
+
+The variation in responses implies more testing will be needed. Confusion may have stemmed from the nature of the content of the 1995 form as opposed to the wizard itself. Content changes that may help include:
+
+- Revisiting language in the subway map so that it re-enforces the form's purpose (e.g. instead of "apply", say "change" to match the h1 on the 1995 form.)  
+- Double checking links in the subway map (e.g. it may be confusing that a link on "career counselors" goes to a page in the disability hub.)
+
+This may only be a temporary solution until a more intuitive one is designed e.g. moving updating education benefits into the user's account page
+
+### Participants consistently wanted more information before taking any actions. Majority of the barriers to task completion for the veterans were a result of mismatched content or not having enough information to make a choice.
+
+> "I would expect there to be a link for me to have a chat which would be ideal or there would be additional information that would include what I need if I want to transfer schools."
+
+> "Sometimes I just miss information. I don't see a place where I can change my program or anything." {LZ: what would you do next?} Hmm... call! {laughing} That's what I do. There's a number "Need help?" but I have a separate number in my house that I use that directs straight to the education office."
+
+> "GI comparison tool... Would that show the different options? That's what I'm thinking if you click on this it could let you search for the school or what additional benefits they might have. I'm assuming if they have a veteran office there they would show application."
+
+We hypothesize veterans may be losing track of their tasks or becoming confused by the volume of learn more links on any given page. We observed several participants falling through rabbit holes of content which distracted them away from the facilitated tasks. We also observed participants often attempting to click on learn more links within the wizard itself which would lead to larger pages of content.
+
+An unmoderated study may help us better determine if this is a significant usability issue that should be addressed. In the interim, **we recommend conducting another content review to see where we can make things more clear for veterans.**
+
+Alternative solutions may be uncovered through tests with:
+
+- [GOV.uk's one thing per page](https://www.gov.uk/service-manual/design/form-structure#start-with-one-thing-per-page) to keep low-confidence users on track to task completion. 
+- Reducing the amount of (or removing) learn more links within the wizard itself.
+
+
+### All participants read eligibility information, but this may have been positively influenced by the nature of the moderated read out loud activity.
+Since no clear usability issues were observed, we believe this pattern will work well on desktop. However, it is important to note that this recommendation cannot be made with confidence until an unmoderated study is conducted.
+
+We cannot recommend this pattern for mobile until testing is conducted as we hypothesize the sign-in alert may pose significant usability issues.
+
+### It is unclear from this study whether or not veterans will prefer a block of content type of page vs. the wizard. When asked, 2/5 participants said they would prefer a hybrid approach- but this should not be taken with confidence as users are bad at imagining what they want.
+
+> "I thought the content block was simpler. I like that. You don't need to read as much. Some government websites you have to dig down for more. {to clarify which one..} yea the block one was easier instead of reading through alot of information {wizard}."
+
+> "I prefer concise {wizard}. Reading through all those paragraphs and stuff I might not be able to focus. And I'm more of a get to the point kinda person. That's why I prefer the councilor who can just tell me what to do. It's alot more to the point. If I wrote down the step and if it's still confusing than I'd go to the lengthy page and go from there."
+
+> "I think a hybrid approach is better. I do like the bullet format. Most people in the military read bullet format. Bam bam bam that's what I need to know with additional links and additional options. Having these bullets and a guided flow to narrow down... maybe a hybrid approach."
+
+> "I like the option to have lengthy and have more concise for everyone's personality. Everybody's different. Sometimes you'll have people like me. Sometimes I'll want to get to the point but sometimes I'll also want more information. As I said it just depends on how my headspace is on that day."
+
+Unmoderated A/B testing will be needed to make a confident recommendation on what is better for veterans.
+
 
 ## Additional Insights
-Any additional insights that aren't "top findings."
+
+### 2/5 participants were hesitant about losing the selections they filled into the wizard upon leaving and returning to it.
+
+> "I'm looking for a form or something that will take me to that particular page because I wouldn't think I would need to fill out another application because I'm already in the program. I wouldn't want to answer questions again because I'm already in the program."
+
+> Upon being prompted by the facilitator to return to the wizard page, the participant expressed frustration thinking she was starting over again before realizing there is an option to update her program within it.
+
+Since 2/5 users expressed frustration on this, more testing may be needed to determine if this is a more universal frustration/expectation.
 
 ## Recommendations
 Put together initial recommendations here based on your findings. Review with your team, then edit as needed.
