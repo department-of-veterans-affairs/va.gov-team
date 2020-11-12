@@ -222,7 +222,7 @@ Unmoderated A/B testing will be needed to make a confident recommendation on wha
 
 ## Recommendations
 - Participants wanted to learn more about what benefits they qualified for by clicking links which would lead them away from the wizard. 
-  -Consider adding a shortened eligibility checklist on the page. 
+  - Consider adding a shortened eligibility checklist on the page. 
   - Conduct testing or additional research to determine alternative ways to help users gather more information without losing their place in the wizard.
 - Conduct content review for the following: 
   - Revisiting language in the subway map so that it re-enforces the form's purpose (e.g. instead of "apply", say "change" to match the h1 on the 1995 form.) 
