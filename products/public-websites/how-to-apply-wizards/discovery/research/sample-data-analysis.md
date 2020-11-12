@@ -23,12 +23,12 @@ This gap analysis is in reference to the [original sampling request](https://git
 | Relevant experience | 100% | 100% |
 | Mobile :heavy_exclamation_mark: | 3-4 | 0 |
 | Desktop | 3-4 | 4 |
-| 70%+ disability | 2 | 4 |
-| No college degree :heavy_exclamation_mark: | 2 | 1 |
-| Women | 50% | 80% |
-| Men :heavy_exclamation_mark: | 50% | 20% |
-| Not White | 50% | 60% |
-| <35 yrs old | 1 | 1 |
+| 70%+ disability | 2 | 5 |
+| No college degree :heavy_exclamation_mark: | 2 | 0 |
+| Women | 50% | 60% |
+| Men  | 50% | 40% |
+| Not White | 50% | 80% |
+| <35 yrs old :heavy_exclamation_mark: | 1 | 0 |
 | >55 yrs old | 1 | 2 |
 
 ## Sampled Demographics
@@ -37,10 +37,10 @@ This gap analysis is in reference to the [original sampling request](https://git
 ### Race
 |              | JK-1 | JK-2 | JK-3 | JK-4 | MG-5 |
 |------------------|------|------|------|------|------|
-| White            | x    |      |      |      | x    |
+| White            | x    |      |      |      |      |
 | Asian            |      |      | x    |      |      |
 | Latinx :heavy_exclamation_mark:           |      |      |      |      |      |
-| Black            |      | x    |      | x    |      |
+| Black            |      | x    |      | x    | x    |
 | Native :heavy_exclamation_mark:          |      |      |      |      |      |
 | Pacific Islander :heavy_exclamation_mark: |      |      |      |      |      |
 
@@ -48,8 +48,8 @@ This gap analysis is in reference to the [original sampling request](https://git
 ### Gender
 |              | JK-1 | JK-2 | JK-3 | JK-4 | MG-5 |
 |-------------|------|------|------|------|------|
-| Woman       | x    | x    |      | x    | x    |
-| Man         |      |      | x    |      |      |
+| Woman       | x    | x    |      | x    |      |
+| Man         |      |      | x    |      |  x   |
 | Transgender :heavy_exclamation_mark: |      |      |      |      |      |
 | Non-binary :heavy_exclamation_mark:  |      |      |      |      |      |
 
@@ -57,8 +57,9 @@ This gap analysis is in reference to the [original sampling request](https://git
 ### Age
 |              | JK-1 | JK-2 | JK-3 | JK-4 | MG-5 |
 |---------------|------|------|------|------|------|
-| 25-34 |      |      |      |      | x    |
+| 25-34 |      |      |      |      |      |
 | 35-44 |      |      | x    |      |      |
+| 45-54 |      |      | x    |      | x    |
 | 55-64 |      | x    |      |      |      |
 | 65-74 | x    |      |      |      |      |
 | 75-84 :heavy_exclamation_mark: |      |      |      |      |      |
@@ -106,7 +107,7 @@ This gap analysis is in reference to the [original sampling request](https://git
 
 | Disability Rating | JK-1 | JK-2 | JK-3 | JK-4 | MG-5 |
 |-------------------|------|------|------|------|------|
-| 0                 |      |      |      |      | x    |
+| 0                 |      |      |      |      |      |
 | 10                |      |      |      |      |      |
 | 20                |      |      |      |      |      |
 | 30                |      |      |      |      |      |
@@ -116,15 +117,16 @@ This gap analysis is in reference to the [original sampling request](https://git
 | 70                |      |      |      |      |      |
 | 80                |      |      |      |      |      |
 | 90                |      |      | x    |      |      |
-| 100               | x    | x    |      | x    |      |
+| 100               | x    | x    |      | x    |  x   |
 
 
 ### Education
 |     | JK-1 | JK-2 | JK-3 | JK-4 | MG-5 |
 |--------------|------|------|------|------|------|
 | No degree :heavy_exclamation_mark:    |      |      |      |      |      |
-| Some college |      |      |      |      | x    |
+| Some college |      |      |      |      |      |
 | Associates   |      | x    | x    |      |      |
+| Bachelors   |      |      |      |      | x    |
 | Masters      | x    |      |      | x    |      |
 | Ph.D :heavy_exclamation_mark:        |      |      |      |      |      |
 
@@ -132,9 +134,9 @@ This gap analysis is in reference to the [original sampling request](https://git
 ### Branch
 |        | JK-1 | JK-2 | JK-3 | JK-4 | MG-5 |
 |--------------|------|------|------|------|------|
-| Army         | x    |      |      |      |      |
+| Army         | x    |      |      |      | x    |
 | Navy :heavy_exclamation_mark:        |      |      |      |      |      |
 | Air Force    |      | x    | x    | x    |      |
-| Marine Corps |      |      |      |      | x    |
+| Marine Corps |      |      |      |      |      |
 | Coast Guard :heavy_exclamation_mark: |      |      |      |      |      |
 
