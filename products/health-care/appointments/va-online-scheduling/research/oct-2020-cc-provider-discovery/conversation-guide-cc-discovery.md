@@ -36,6 +36,7 @@ Before we start, a few things I want to mention:
 
     - Great, that helps me troubleshoot with you if we run into any problems.
     
+**If phone:**
 - OK great. When you are inside the zoom application on your phone, you'll see a few buttons at the bottom. Audio, Video, Share content, Participants, and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "chat" and "share content." Any questions?
 
 - First I'd like you to share your screen with me. Tap on the arrow that says "Share content" and hit "share screen". Select that button. You should be prompted with an option to share "Zoom" and then "Screen". Then select "Start Broadcast". If you see any additional prompts please read them aloud and I will help.
@@ -44,6 +45,7 @@ Before we start, a few things I want to mention:
 
 - Great, now I can see your phone screen! We are going to use this prototype in our session today. I'm going to begin now if that's ok with you. We will return to this in a few moments.
 
+**If can't share**
 - Backup plan if they cannot figure out how to share screen:
 
 - Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "Drive". You will tell me what to do, what to tap, on, etc. Does that sound ok?
