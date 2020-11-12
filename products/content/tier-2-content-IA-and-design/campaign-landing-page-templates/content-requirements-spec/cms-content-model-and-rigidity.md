@@ -15,7 +15,7 @@
 
 ## 2. Why this matters (required)
 
-**Q:** "This page is for" panel: Can this reuse the audience taxonomies from Resources & support? If so, how? 
+**Q:** "This page is for" panel: Can this reuse the audience taxonomies from Resources & support? Some of the labels are different, but we strongly recommend aligning this (should be a Content & IA collaboration)
 
 **A:**
 
