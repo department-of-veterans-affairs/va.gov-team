@@ -92,6 +92,8 @@ We are going to start with version (A or B), and I'll send you the link. *send l
 
 ### VERSION A
 
+
+
 ## First task: Overview & Updates
 
 Go ahead and scroll through this page and walk me through your thoughts on each section, starting with where you see your name (Charles) in the dark grey box.
@@ -126,6 +128,8 @@ Okay, now let's take a look at the updates section.
 - Does the user understand what clicking on an update would do?
 - Does the user understand the difference between the updates at the top and the sections below?
 
+
+
 ## Second task: Claims scenario
 
 Okay, great. Now, I'm going to give you a scenario. Imagine you've recently submitted a claim and you are waiting to see if it has been approved. You've just landed on this page.
@@ -151,6 +155,8 @@ Okay, great. Now, I'm going to give you a scenario. Imagine you've recently subm
 - Does the user notice the updates section? 
 - Are they confused about where claims or claim status updates are located?
 - Does the user feel they are receiving enough information?
+
+
 
 ## Third task: Healthcare scenario
 
@@ -194,9 +200,11 @@ Okay great, thank you.
 - Does the user think there should be more or less information?
 - Does the user notice the links in the healthcare section?
 
-**Skip the fourth task if prototype is shown second**
+
 
 ## Fourth task: Benefits
+
+**Skip the fourth task if prototype is shown second**
 
 If you could go ahead and scroll down to the section that says 'Benefit applications'. 
 
@@ -245,6 +253,8 @@ Take a look at this page, and let me know your thoughts starting with where you 
 - Does the user understand what clicking on an update would do?
 - Does the user understand the difference between the updates at the top and the sections below?
 
+
+
 ## Second task: Claims scenario
 
 Go ahead and click on claims and appeals.
@@ -276,6 +286,8 @@ Okay great. Go ahead and go back to the previous screen by clicking 'Claims and 
 - Does the user notice the updates section? 
 - Are they confused about where claims or claim status updates are located?
 - Does the user feel they are receiving enough information?
+
+
 
 ## Third task: Healthcare scenario
 
@@ -318,9 +330,11 @@ Okay great, thank you.
 - Does the user notice the links in the healthcare section?
 - What information would you like to see on this page related to your appointments?
 
-**Skip the fourth task if prototype is shown second**
+
 
 ## Fourth task: Benefits
+
+**Skip the fourth task if prototype is shown second**
 
 If you could go ahead and scroll down to the section that says 'Benefit applications'. 
 
