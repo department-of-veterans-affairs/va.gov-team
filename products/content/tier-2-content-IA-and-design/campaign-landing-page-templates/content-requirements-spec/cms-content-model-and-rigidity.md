@@ -1,6 +1,6 @@
 # Panels
 
-**Q:** Prioritize the required panels, then tackle optional ones?
+**Q:** Shall we prioritize the required panels, then tackle optional ones? That would unblock FE development. Can content for these panels be prioritized as well? 
 
 **A:**
 
