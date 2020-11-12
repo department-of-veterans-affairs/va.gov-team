@@ -11,7 +11,6 @@ _See team [Zenhub Roadmap](https://github.com/department-of-veterans-affairs/va.
 |[VA Global Onsite Search- User Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11638) | Define |
 |[VA Global Onsite Search- Click Tracking](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14955) | Define |
 |[VA Global Onsite Search - Type Ahead POC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8896) | Discovery |
-|[VA Forms 1.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10758) | Define |
 |[VA Global Onsite Search - Best Bets/Top Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9538) | Define |
 
 
