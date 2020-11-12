@@ -252,8 +252,12 @@ PM
 Design
 
 - Build prototype
-- Run research
+- Conduct research
 - Start summary (if time)
+
+### Preferred medical facility
+
+- Backend build #16107
 
 ### Analytics update
 
