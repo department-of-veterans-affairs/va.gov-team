@@ -223,15 +223,18 @@ Unmoderated A/B testing will be needed to make a confident recommendation on wha
 ## Recommendations
 - Participants wanted to learn more about what benefits they qualified for by clicking links which would lead them away from the wizard. Consider adding a shortened eligibility checklist on the page. 
 - Open benefit eligibility links in a way that users will not lose their place in the wizard.
-- Revisiting language in the subway map so that it re-enforces the form's purpose (e.g. instead of "apply", say "change" to match the h1 on the 1995 form.)
-- Double checking links in the subway map (e.g. it may be confusing that a link on "career counselors" goes to a page in the disability hub.)
-- Consider breaking up the wizard questions to one question per page with a progress bar so users will not be overwhelmed with content on one page. 
-- The link to start over to update education benefits can be removed as users would use their back button.
-
+- Conduct content review for the following: 
+  - Revisiting language in the subway map so that it re-enforces the form's purpose (e.g. instead of "apply", say "change" to match the h1 on the 1995 form.) 
+  - Double checking links in the subway map (e.g. it may be confusing that a link on "career counselors" goes to a page in the disability hub.)
+- Participants consistently wanted more information before taking any actions, they were not familar with certain programs and wanted to know if they qualified for them. Consider breaking up the wizard questions to one question per page with a progress bar so users will not be overwhelmed with content on one page. 
+> "If I'm eligible for it I wanna apply for it."
+- The link to start over on the step list page can be removed as users would use their back button.
+> {L: ok so you had clicked here... I'm interested in say you were interested in applying... can you talk me through how you would get back to where you were?} I would go to these arrows in the top left [browser back button] that's how I would do things. And I've learned through the times working through gov websites- if you x out at the top sometimes you can never get back to where you want to be easily.
+- A change in the hierarchy of the skip link may help users. An unmoderated user test exploring hierarchy of the skip link with users who have a reason to use the link would help determine this.
 
 ## Next Steps
 ### Interview school counselors
-4/5 participants spoke to a school counselor. Consider interviewing school counselors to better understand Veterans’ pain points. What are common frustrations and frequently asked questions? This will help inform us as to why veterans may feel uncomfortable and what changes can be made to make veterans feel comfortable completing forms without external help. 
+4/5 participants spoke to a school counselor. Consider interviewing school counselors to better understand veterans’ pain points. What are common frustrations and frequently asked questions? This will help inform us as to why veterans may feel uncomfortable and what changes can be made to make veterans feel comfortable completing forms without external help. 
 Besides school counselors, where else they are going to research this, are they going to an external site? Asking friends?
 ### Test on mobile
 A significant portion, 39.59% of VA.gov of users, are on mobile. 
