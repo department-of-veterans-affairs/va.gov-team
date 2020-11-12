@@ -13,14 +13,17 @@
 - [ ] Connect to CARMA from Review Instance for testing
 - [ ] Research
      - [ ] How many PDFs haven't been sent?
-     - [x] How long do **successful** submissions API calls take (on average)?
-       |date|metric|value|
-       |----|------|-----|
-       | 11-05-20 UTC | Average            | 10.370s |
-       | 11-05-20 UTC | Min                | &nbsp;&nbsp;6.365s |
-       | 11-05-20 UTC | Max                | 53.528s |
-       | 11-05-20 UTC | 95th Percential    | 13.283s |
-       | 11-05-20 UTC | Standard Deviation | &nbsp;&nbsp;3.475s |
+     - [x] How long do submissions API calls take (on average)?
+       
+       Response time of successful API responses for form submissions on 11-05-20 UTC, in seconds.
+
+       |metric|value|
+       |------|----:|
+       | Average            | 10.370 |
+       | Min                |  6.365 |
+       | Max                | 53.528 |
+       | 95th Percential    | 13.283 |
+       | Standard Deviation |  3.475 |
        
        \* *more details here*: https://dsva.slack.com/archives/CMJ2V70UV/p1604702251367000
 
