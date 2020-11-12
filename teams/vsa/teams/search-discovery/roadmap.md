@@ -27,16 +27,18 @@ _See team [Zenhub Roadmap](https://github.com/department-of-veterans-affairs/va.
 |[VA Offsite Search - Structured Data Rick Results]() | Define |
 
 ## To Validate:
-|[Resources & Support (LC) - Post 1.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11254) | Define |
-|[VA Global Onsite Search - Local Listings (Covid etc.)]() | Discovery |
+|Project|Status|
+|----|----|
+|[Resources & Support (LC) - Post 1.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11254) | TBD |
+|[VA Global Onsite Search - Local Listings (Covid etc.)]() | TBD |
 
 ### Projected timelines for current projects
 
 |Project|Q4 2020|Q1 2021|Q2 2021|Q3 2021|Q4 2021|
 |----|----|----|----|----|----|
-|**Discovery/Problem Framing**| - | - | — | — | — |
-|**Click Tracking**| - | - | — | — | — |
-|**Type Ahead POC**| - | - | — | — | — |
+|**Discovery/Problem Framing**| -| - | — | — | — |
+|**Click Tracking**| Validation | - | — | — | — |
+|**Type Ahead POC**| POC Launch | - | — | — | — |
 |**Project 4**| - | - | — | — | — |
 |**Project 5**| - | - | — | — | — |
 
