@@ -18,18 +18,23 @@
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
 | [UI]  | -- | # |
-| [FE]  | -- | # |
+| [FE]  Accessability | -- | # |
+| [FE]  Clean up | -- | # |
 | [Product] External /Call Center troubleshooting Documentation	| -- |  |
 | [All] Collab Cycle Approvals for Pros 	| -- |  |
 
-## Sprint 36 - Integraion Testing 
+## Sprint 36 - Integraion Testing / Analytics 
 12/2/2020 - 12/15/2020
 - [Milestone 370](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/370)
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
 | [UI]  | -- | # |
-| [FE]  | -- | # |
+| [FE] Analytics | -- | # |
+| [FE] Integration with vets API for pulling in a appointment data | -- | # |
+| [FE] Integration with vets API for pulling in all questionnaires list| -- | # |
+| [FE] Integration with vets API for subitting data | -- | # |
+| [UX/FE] Print PDF of Questionnaire | -- | #  |
 | [BE]  | -- | # |
 | [Product] Change Management for Implementation 	| -- |  |
 
@@ -42,8 +47,9 @@
 |-|:-:|:-:|
 | [UX] Create interactive MVP prototype   	| -- |  |
 | [UI] MVP Usability Testing 	| -- |  |
-| [UX/FE] Print PDF of Questionnaire | -- | #  |
-| [UX/FE] Analytics	| -- |  |
+| [UX] Analytics	| -- |  |
+| [FE] Questionnaire List | -- | | 
+| [FE] Clean up | -- | |
 | [BE] Appt Status updates | -- | #  |
 | [BE/FE] Implementation for Questionnaire Trigger Service | -- | #  |
 | [UX/BE/FE] Notifications via Appt Reminders/link | -- | #  |
