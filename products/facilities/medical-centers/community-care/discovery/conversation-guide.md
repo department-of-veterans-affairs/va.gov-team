@@ -5,7 +5,7 @@
 ### Setup
 
 - [ ] Notifications off
-- [ ] Manage waiting room
+- [ ] Turn off waiting room
 
 ## Intro
 
