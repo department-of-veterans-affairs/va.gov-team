@@ -31,6 +31,8 @@ No questions.
 
 "Duration" and "intro text" fields are not yet supported (see Resource and support product, similar issue.) We can add these fields to the video component CMS-wide, with the idea that in the future this content could be pulled in via Youtube API. 
 
+Q (for Jen and Ryan): Does the video caption come from YouTube -- or is it a custom field for authors to input -- or is it both -- by default, the YT caption is pulled in, but author has the option to write-over.
+
 For MVP, this will need to be a manual copy/paste. 
 
 
