@@ -31,7 +31,7 @@ No questions.
 
 "Duration" and "intro text" fields are not yet supported (see Resource and support product, similar issue.) We can add these fields to the video component CMS-wide, with the idea that in the future this content could be pulled in via Youtube API. 
 
-Q (for Jen and Ryan): Does the video caption come from YouTube -- or is it a custom field for authors to input -- or is it both -- by default, the YT caption is pulled in, but author has the option to write-over.
+Q (for Jen and Ryan): Confirm the video caption come from YouTube --  or is it both -- by default, the YT caption is pulled in, but author has the option to write-over.  (Latest comps: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/content-requirements-spec/CLP-Maximal-markup-updated-060320.pdf)
 
 For MVP, this will need to be a manual copy/paste. 
 
