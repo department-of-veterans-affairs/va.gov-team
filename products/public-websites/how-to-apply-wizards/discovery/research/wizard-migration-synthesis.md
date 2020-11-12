@@ -41,16 +41,6 @@ Liz Lantz acted as the primary facilitator and interviewer for all sessions. Not
 - Although disability ratings were provided, categories of disabilities were not. Therefore findings related to any category of disability cannot be made confidently.
 - For a more complete list of risks and potential solutions, [view the sample data and analysis document.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/discovery/research/sample-data-analysis.md)
 
-
-### Facilitation
-- Talk out loud methodology may have caused participants to be more conscious about their actions and more likely to read through content. Consequently, research questions related to understanding information cannot be answered with confidence and are in need of unmoderated validation or other studies that can triangulate findings.
-- As the prototype did not have all links mapped, some behavior was left unobserved which may have altered findings.
-The facilitator of the study was also the designer of the prototype being tested. Liz rightly flagged this as a potential source of confirmation bias and recruited Megan and Josh to conduct synthesis in order to introduce practitioner triangulation.
-- Participants were given “imagined” prompts to nudge them through the tasks when they exhibited unexpected behavior.
-- Several leading questions were posed. The post-task question on preferred format (block content vs. the wizard) was consistently asked in a leading manner. Note: this is common in interviews for all researchers.
-- Josh conducted transcription of 4 of 5 interviews and collected patterns under tasks for synthesis which may bias findings. To mitigate risk through practitioner triangulation, a group synthesis activity was conducted. 
-
-
 ## Research Questions
 
 - Are people still able to understand the wizard outcome in the new, simplified, icon-free design?
