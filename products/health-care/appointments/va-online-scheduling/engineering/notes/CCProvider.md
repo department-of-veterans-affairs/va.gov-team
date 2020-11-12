@@ -17,10 +17,10 @@ There are many different "Type of Care" classifications or taxonomies. A few of 
 |           Taxonomy          |    Count    | Reference Documentation | Additional Notes |
 |:---------------------------:|:-----------:|:-----------------------:|:----------------:|
 | VHA                         | unknown     |                         |                  |
-| VAOS                        | 6 (CC)      | https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/vaos/utils/constants.js#L61 |                  |
-| Lighthouse Service Types    | 14          | https://developer.va.gov/explore/health/docs/community_care?version=current                                             |                  |
-| PPMS Specialty Codes        | 800+        | https://staging-api.va.gov/v1/facilities/ccp/specialties.json                        |                  |
-| PPMS Specialty Rollup Codes | 244         |                         |                  |
+| VAOS                        | 6 (CC)      | [https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/vaos/utils/constants.js#L61](Vets-Website Code) |  Only look at the ccID   |
+| Lighthouse Service Types    | 14          | [https://developer.va.gov/explore/health/docs/community_care?version=current](Facilities API Swagger)                                             |  Have to drill down into parameteers to see supporter Service Types |
+| PPMS Specialty Codes        | 800+        | [https://staging-api.va.gov/v1/facilities/ccp/specialties.json](PPMS Specialties JSON)                        | This is a complete set of specialty codes from PPMS |
+| PPMS Specialty Rollup Codes | 245         | [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/notes/PPMS/20201111_ppms_specialties.csv](Sorted PPMS Specialties by Rollup) | The Specialty Code for the first row of each rollup is the actual rollup id                 |
 | Cerner                      | unknown     |                         |                  |
 | HSRM                        | unknown     |                         |                  |
 
