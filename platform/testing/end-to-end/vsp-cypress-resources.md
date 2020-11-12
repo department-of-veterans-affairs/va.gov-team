@@ -24,7 +24,17 @@ The following guide is a comprehensive guide of Cypress related resources curren
    7. [contactInfoTest](#contact-info-test)
    8. [reviewTest](#review-test)
    9. [confirmationPageTest](#confirmation-page-test)
-3. [Mocks - TBD](#mocks)
+3. [Mocks](#mocks)
+   1. [confirmedVA](#confirmed-va)
+   2. [confirmedCC](#confirmed-cc)
+   3. [requests](#requests)
+   4. [cancelResons](#cancel-reasons)
+   5. [supportedSites](#supported-sites)
+   6. [facilities](#facilities)
+   7. [facilities983](#facilities-983)
+   8. [clinicList983](#clinic-list-983)
+   9. [slots](#slots)
+4. [Auth](#auth)
 
 # Cypress & VAOS Helperss <a name="cypress-vaos-helpers"></a>
 
@@ -530,3 +540,216 @@ export function confirmationPageTest(additionalInfo) {
 ```
 
 # Mocks <a name="mocks"></a>
+
+Many Cypress test and helpers are dependent on JSON data located within the `/services/mocks` directory. The following provides context to mocks used in various Cypress testing.
+
+#### ConfirmedVA <a name="confirmed-va"></a>
+
+Returns a data array filled with objects of the following attributes:
+
+```javascript
+{
+"id": "20abc6741c00ac67b6cbf6b972d084c1",
+"type": "va_appointments",
+"attributes": {
+"startDate": "2020-09-19T16:00:00Z",
+"clinicId": "308",
+"clinicFriendlyName": "Neighborhood Clinic",
+"facilityId": "983",
+"sta6aid": "983GC",
+"communityCare": true,
+"vdsAppointments": [
+{
+"bookingNote": "CC vista appt",
+"appointmentLength": "60",
+"appointmentTime": "2020-09-19T16:00:00Z",
+"clinic": {
+"name": "CHY OPT VAR1",
+"askForCheckIn": false,
+"facilityCode": "983"
+},
+"type": "REGULAR",
+"currentStatus": "NO ACTION TAKEN/TODAY"
+}
+],
+"vvsAppointments": []
+}
+}
+
+```
+
+#### confirmedCC <a name="#confirmed-cc"></a>
+
+Returns a data array filled with objects of the following attributes:
+
+```javascript
+    {
+      "id": "8a4812b77035101201703a2086750033",
+      "type": "cc_appointments",
+      "attributes": {
+        "appointmentRequestId": "8a4812b77035101201703a2086750033",
+        "distanceEligibleConfirmed": true,
+        "name": { "firstName": "Dr", "lastName": "Hyde" },
+        "providerPractice": "Jeckle and Hyde",
+        "providerPhone": "(407) 555-1212",
+        "address": {
+          "street": "123 Main Street",
+          "city": "Orlando",
+          "state": "FL",
+          "zipCode": "32826"
+        },
+        "instructionsToVeteran": "Date test",
+        "appointmentTime": "06/18/2021 20:00:00",
+        "timeZone": "-06:00 MDT"
+      }
+    }
+```
+
+#### requests <a name="requests"></a>
+
+Returns a data array filled with objects of the following attributes:
+
+```javascript
+
+```
+
+#### cancelReasons<a name="cancel-reasons"></a>
+
+Returns a data array filled with objects of the following attributes:
+
+```javascript
+    {
+      "id": "1",
+      "type": "cancel_reason",
+      "attributes": {
+        "number": "1",
+        "text": "WEATHER",
+        "type": "B",
+        "inactive": false
+      }
+    }
+```
+
+#### supportedSites <a name="supported-sites"></a>
+
+Returns a data array filled with objects of the following attributes:
+
+```javascript
+    {
+      "id": "984",
+      "type": "object_type",
+      "attributes": {
+        "name": "Dayton",
+        "timezone": "US/Eastern"
+      }
+    }
+```
+
+#### facilities <a name="facilities"></a>
+
+Returns a data array filled with objects of the following attributes:
+
+```javascript
+    {
+      "id": "983",
+      "type": "facility",
+      "attributes": {
+        "institutionCode": "983",
+        "city": "Cheyenne",
+        "stateAbbrev": "WY",
+        "authoritativeName": "CHYSHR-Cheyenne VA Medical Center",
+        "rootStationCode": "983",
+        "adminParent": true,
+        "parentStationCode": "983"
+      }
+    }
+```
+
+#### facilities983 <a name="facilities-983"></a>
+
+Returns a data array filled with objects of the following attributes:
+
+```javascript
+    {
+      "id": "983",
+      "type": "direct_scheduling_facility",
+      "attributes": {
+        "institutionCode": "983",
+        "city": "Cheyenne",
+        "stateAbbrev": "WY",
+        "authoritativeName": "CHYSHR-Cheyenne VA Medical Center",
+        "rootStationCode": "983",
+        "adminParent": true,
+        "parentStationCode": "983",
+        "requestSupported": true,
+        "directSchedulingSupported": true,
+        "expressTimes": null,
+        "institutionTimezone": "America/Denver"
+      }
+    }
+```
+
+#### clinicList983 <a name="clinic-list-983"></a>
+
+Returns a data array filled with objects of the following attributes:
+
+```javascript
+    {
+      "id": "983",
+      "type": "clinic",
+      "attributes": {
+        "siteCode": "983",
+        "clinicId": "308",
+        "clinicName": "CHY PC KILPATRICK",
+        "clinicFriendlyLocationName": "Green Team Clinic1",
+        "primaryStopCode": "323",
+        "secondaryStopCode": "",
+        "directSchedulingFlag": "Y",
+        "displayToPatientFlag": "Y",
+        "institutionName": "CHYSHR-Cheyenne VA Medical Center",
+        "institutionCode": "983",
+        "objectType": "CdwClinic",
+        "link": []
+      }
+    },
+```
+
+#### slots <a name="slots"></a>
+
+Returns a data array filled with objects of the following attributes:
+
+```javascript
+    {
+      "id": "308",
+      "type": "availability",
+      "attributes": {
+        "clinicId": "308",
+        "clinicName": "CHY PC KILPATRICK",
+        "appointmentLength": 20,
+        "clinicDisplayStartTime": "9",
+        "displayIncrements": "3",
+        "stopCode": "296",
+        "askForCheckIn": false,
+        "maxOverbooksPerDay": 3,
+        "hasUserAccessToClinic": true,
+        "primaryStopCode": "323",
+        "secondaryStopCode": "",
+        "listSize": 92,
+        "empty": false,
+        "appointmentTimeSlot": [
+          {
+            "startDateTime": "2020-02-06T14:00:00.000+00:00",
+            "endDateTime": "2020-02-06T14:20:00.000+00:00",
+            "bookingStatus": "1",
+            "remainingAllowedOverBookings": "3",
+            "availability": true
+          }
+          ...
+        ]
+      }
+    }
+```
+
+# Auth <a name="auth"></a>
+
+Auth functions located within /platform/testing/e2e can be used to perform commonly used auth requests.
