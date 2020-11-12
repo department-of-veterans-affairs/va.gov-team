@@ -321,7 +321,7 @@ Okay great, now let's move onto the second prototype, this is version (A or B). 
 
 ## Comparison
 
-Thanks so much! Now I'll ask you to stop sharing your screen. Now we are going to take a look at versions A and B side by side.
+Thanks so much! If you could go ahead and stop sharing your screen. Let's take a look at versions A and B side by side.
 
 *Moderator shares screen and pulls up side by side screens*
 
