@@ -100,12 +100,19 @@ The rigidity of "either 0 FAQs or 3-10" is somewhat complex and expensive to imp
 
 ## 10. Connect with us (optional)
 
-This panel overlaps has some commonalities with two existing objects from existing products 
+We should try to standardize this with the display of the "Connect with us" component on benefits landing pages, such as www.va.gov/health-care
 
-1) the right rail of benefits hub landing pages, which gets content out of the Section taxonomy term 
-2) Resources and support component
+Currently, all but the phone number are contained within the component, albeit with slightly different wording. 
 
-We'd like to standardize around some existing patterns if possible. More questions coming. 
+**Q:** Can this be standardized with Connect with us on Benefits Landing Pages?
+
+**A:**
+
+**Q:** What kind of flexibility around phone numbers is required, and is this 100% needed for MVP?
+
+**A:**
+
+
 
 ## 11. VA Benefits panel (required)
 
