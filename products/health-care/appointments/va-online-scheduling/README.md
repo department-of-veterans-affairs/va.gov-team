@@ -54,14 +54,15 @@
 - Product POCs:
   - VAOS Suite Business Owners:
     - Dr. Kathleen Frisbee
+    - Dr. John Murphy
     - Dr. Neil Evans
     - Dr. Clinton Greenstone
-    - Dr. Michael Davies
+    - Ms. Flo Jenkinks
   - Mobile Portfolio Manager: Steve Eaton 
   - VAOS Suite Project Manager: Eric Hopkins 
   - VAOS Suite Analyst/Scrum Master: Judy Mercado 
   - VA.gov Health Product Owner: Lauren Alexanderson 
-  - Lead Designer: Ryan Thurlwell 
+  - Lead Designer: Ryan Thurlwell, Peter Russo
   - Eng Lead: Steven Brush 
   - Frontend Engineers:
     - Jeff Balboni 
