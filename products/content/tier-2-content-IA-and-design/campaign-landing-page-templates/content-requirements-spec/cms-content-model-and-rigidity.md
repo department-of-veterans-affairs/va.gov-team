@@ -1,3 +1,8 @@
+# On this page
+
+1. [Panels](#panels)
+2. [Other issues](#other-issues)
+
 # Panels
 
 **Q:** Shall we prioritize the required panels, then tackle optional ones? That would unblock FE development. Can content for these panels be prioritized as well? 
