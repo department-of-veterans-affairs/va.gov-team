@@ -53,7 +53,7 @@ Below you can find links to research conducted by VSP. If you've done research, 
 - List of keywords
 
 ------
-###Upcoming Research
+### Upcoming Research
 
 #### Documentation - Content and IA
 
@@ -66,6 +66,8 @@ Below you can find links to research conducted by VSP. If you've done research, 
 #### Monitoring Tools - OPS
 
 <br>
+
+### Completed Research
 
 #### Collaboration Cycle v1 Research
 
