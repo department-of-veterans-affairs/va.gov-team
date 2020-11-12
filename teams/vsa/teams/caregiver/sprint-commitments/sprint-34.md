@@ -12,10 +12,18 @@
 ## Backend
 - [ ] Connect to CARMA from Review Instance for testing
 - [ ] Research
-     - How many PDFs haven't been sent?
-     - [x] How long do submissions API calls take (on average)?
-       - avg: 10.370 seconds
-       - more stats: https://dsva.slack.com/archives/CMJ2V70UV/p1604702251367000 
+     - [ ] How many PDFs haven't been sent?
+     - [x] How long do **successful** submissions API calls take (on average)?
+       |date|metric|value|
+       |----|------|-----|
+       | 11-05-20 UTC | Average            | 10.370s |
+       | 11-05-20 UTC | Min                |  6.365s |
+       | 11-05-20 UTC | Max                | 53.528s |
+       | 11-05-20 UTC | 95th Percential    | 13.283s |
+       | 11-05-20 UTC | Standard Deviation |  3.475s |
+       
+       \* *more details here*: https://dsva.slack.com/archives/CMJ2V70UV/p1604702251367000
+
 - [ ] Backend work to support secondary caregiver only applciations
      | Repo    | Ticket | PR |
      |---------|--------|----|
