@@ -13,8 +13,9 @@ Thanks for joining us today! My name is Chris and I also have some colleagues on
 
 Before we start, a few things I want to mention:
 
-This entire session should take about 45 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+This entire session should take about 45 minutes. I want to be sure not to keep you longer, so I may occasionally prompt you with the next question or topic.
 
+A quick note - I want to mention some key points as we begin:
 - We aren’t trying to sell or promote any product or service to you.
 - There are no right or wrong answers. We're hoping to make the process of searching for providers on VA online scheduling app and Facility Locator easier for Veterans.
 - I won’t be offended by any opinions you express.
@@ -101,13 +102,11 @@ I would like to dive a little deeper on the search aspect during scheduling.
 - Have you seen or used the Facility locator on the VA.gov website?
    - One of the goals of our team is to simplify the taxonomy for Community Care categories. As an example, under Podiatry, there are 10 different subcategories. Would you have any suggestions on how we might simplify?
 
-- Any questions for us?
-
 - Was there anything that I didn't ask that you think that I should know?
 
 ## Thank-You and Closing
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is helpful to us as we continue to work on search and make sure it really works for Veterans.
 
 Great, well thank you so much again, and enjoy the rest of your day!
 
