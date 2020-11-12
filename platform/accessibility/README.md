@@ -8,7 +8,7 @@ Accessibility is crucial to design and development because it ensures no one is 
 
 ## Table of contents
 * [DEPO Platform accessibility standards](#depo-platform-accessibility-standards)
-* [DEPO Platform and VFS accessibility roles and responsibilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/roles-and-responsibilities/accessibility.md)
+* [DEPO Platform and VFS accessibility roles and responsibilities](#DEPO-Platform-and-VFS-accessibility-roles-and-responsibilities)
 * [Working with us](#working-with-us)
 * [Resources and guides](#resources-and-guides)
 
