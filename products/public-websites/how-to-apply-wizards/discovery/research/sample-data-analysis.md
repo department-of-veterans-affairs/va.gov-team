@@ -59,7 +59,7 @@ This gap analysis is in reference to the [original sampling request](https://git
 |---------------|------|------|------|------|------|
 | 25-34 |      |      |      |      |      |
 | 35-44 |      |      | x    |      |      |
-| 45-54 |      |      | x    |      | x    |
+| 45-54 |      |      |     |  x    | x    |
 | 55-64 |      | x    |      |      |      |
 | 65-74 | x    |      |      |      |      |
 | 75-84 :heavy_exclamation_mark: |      |      |      |      |      |
@@ -137,6 +137,6 @@ This gap analysis is in reference to the [original sampling request](https://git
 | Army         | x    |      |      |      | x    |
 | Navy :heavy_exclamation_mark:        |      |      |      |      |      |
 | Air Force    |      | x    | x    | x    |      |
-| Marine Corps |      |      |      |      |      |
+| Marine Corps :heavy_exclamation_mark: |      |      |      |      |      |
 | Coast Guard :heavy_exclamation_mark: |      |      |      |      |      |
 
