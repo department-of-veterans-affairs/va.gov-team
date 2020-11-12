@@ -17,10 +17,10 @@
        |date|metric|value|
        |----|------|-----|
        | 11-05-20 UTC | Average            | 10.370s |
-       | 11-05-20 UTC | Min                |  6.365s |
+       | 11-05-20 UTC | Min                | &nbsp;&nbsp;6.365s |
        | 11-05-20 UTC | Max                | 53.528s |
        | 11-05-20 UTC | 95th Percential    | 13.283s |
-       | 11-05-20 UTC | Standard Deviation |  3.475s |
+       | 11-05-20 UTC | Standard Deviation | &nbsp;&nbsp;3.475s |
        
        \* *more details here*: https://dsva.slack.com/archives/CMJ2V70UV/p1604702251367000
 
