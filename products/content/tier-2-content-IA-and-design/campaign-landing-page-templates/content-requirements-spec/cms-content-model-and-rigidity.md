@@ -29,16 +29,10 @@ No questions.
 
 ## 4. Video (optional)
 
-Duration is not yet supported (see Resource and support)
-Intro text is not yet supported. 
+"Duration" and "intro text" fields are not yet supported (see Resource and support product, similar issue.) We can add these fields to the video component CMS-wide, with the idea that in the future this content could be pulled in via Youtube API. 
 
-We can add these fields to the video component CMS-wide, with the idea that in the future this content could be pulled in via Youtube API. 
+For MVP, this will need to be a manual copy/paste. 
 
-But the intro text field would be stored with the video in the CMS media library, not specific to this placement. 
-
-**Q:** Do we want to store this description "upstream" in the media library? Or make it specific to the 
-
-**A:**
 
 ## 5. Spotlight (optional)
 
@@ -89,11 +83,24 @@ CMS can support CMS-managed events, but it poses some tricky editorial experienc
 
 ## 9. FAQs (optional)
 
-No questions. The rigidity of "either 0 FAQs or 3-10" is somewhat complex and expensive to implement. We recommend going with clear guidelines / help text instead of enforced rigidity (form validation) for MVP.  
+We will be reusing the component created for Resource and support, with the new reusable Q&A. 
+
+The rigidity of "either 0 FAQs or 3-10" is somewhat complex and expensive to implement. We recommend going with clear guidelines / help text instead of enforced rigidity (form validation) for MVP.  
+
+**Q:** Are guardrails acceptable for # of questions? 
+
+**A:**
+
+**Q:** The "Q&A group" component allows Q&As to be displayed as accordions, or not, via a boolean. We assume this is still desired. 
+
+**A:**
+
+
+
 
 ## 10. Connect with us (optional)
 
-This panel overlaps has some commonalities with 
+This panel overlaps has some commonalities with two existing objects from existing products 
 
 1) the right rail of benefits hub landing pages, which gets content out of the Section taxonomy term 
 2) Resources and support component
