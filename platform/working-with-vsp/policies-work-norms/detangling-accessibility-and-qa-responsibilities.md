@@ -34,6 +34,7 @@ VFS teams are sometimes confused about what the DEPO Platform's standards are: w
   - [ ] Update collab cycle md file
   - [ ] Update staging revie template
   - [ ] Announce to VFS teams
+- [ ] Update docs, and share in ToT, so it's clear that VFS teams need to come to the staging review w/their testing and artifacts complete
 
 ### QA
 - [ ] Publish clear standards that the DEPO Platform will enforce
