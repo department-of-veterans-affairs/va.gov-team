@@ -20,7 +20,7 @@ This entire session should take about 45 minutes. I want to be sure not to keep 
 - I won’t be offended by any opinions you express.
 
 If for any reason and at any time you want to stop the session, please let me know.
-I’ll be recording the audio as we talk today, so that we capture your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. Are you ok if I record audio?
+I’ll be recording as we talk today, so that we capture your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. Are you ok if I record?
 
 - If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
