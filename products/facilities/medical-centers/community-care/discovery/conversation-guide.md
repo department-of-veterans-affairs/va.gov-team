@@ -9,7 +9,7 @@
 
 ## Intro
 
-Thanks for joining us today! My name is Chris and I also have some colleagues on the line observing and taking notes. Today we're going to talk about scheduling Veterans for community care appointments. Our goal is to understand your role as a Community Care manager who works with Veterans, service members and their families. This will help us understand what is important to a Veteran, so that we can present them with them with better search results when they are searching for a Community Care provider.
+Thanks for joining us today! My name is Chris and I also have some colleagues on the line observing and taking notes. Today we're going to talk about scheduling Veterans for community care appointments. Our goal is to understand your role as a Community Care manager who works with Veterans, service members and their families. This will help us understand what is important to a Veteran, so that we can present them with better search results when they are searching for a Community Care provider.
 
 Before we start, a few things I want to mention:
 
