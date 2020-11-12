@@ -7,12 +7,12 @@
 - Specifically, findings from this study cannot be confidently applied to any of the dimensions marked with a :heavy_exclamation_mark: below. 
 - For dimensions that do not have a :heavy_exclamation_mark:, confidence can only be determined based on whether or not clear patterns in behavior emerge from the study between similar dimensions. Otherwise, if no clear patterns emerge, more testing will be required before providing confident recommendations. 
 - No mobile testing was conducted in this study due to unforeseen constraints.
-- It is uncertain what kinds of disabilities this study can confidently address due to a lack of information. 
+- It is uncertain what kinds of disabilities this study can confidently address due to a lack of categorical data. 
 
 ### Potential Solutions
-- Conduct tests with users on mobile and assistive technology to significantly improve confidence in results. More abbreviated studies can be conducted using deviant case sampling to account for more extreme use cases which in theory would address simpler use cases. e.g. testing specifically with only screen reader and keyboard users would improve usability for all users.
-- As a secondary addition or alternative, interviewing educational councilors may serve as a relatively accurate and fast proxy for gaps in research.
-- As a tertiary alternative, findings can be delivered as educated guesses provided risk is documented and understood. Ideally primary and secondary solutions would be backlogged for future sprints.
+- We strongly recommend to conduct additional testing with users on mobile and assistive technologies. Ideally, we would recommend at least 4 test participants per type of technology. For example, 4 mobile users, 4 screen reader users, 4 keyboard users, etc.
+- Should time constraints limit the sample size of a future test, abbreviated tests can be conducted. For example, instead of 4 test participants per type of technology, a future test could use more purposeful sampling techniques such as [deviant case sampling](http://www.qualres.org/HomeExtr-3808.html) to intentionally select a smaller group of more complicated use cases. e.g. testing with 2 screen reader users (using Wizard of Oz method for prototype), 2 mobile users, and 2 users over the age of 80. Should no major usability defects emerge from more complicated use cases, we will be able to more confidently provide recommendations for all use cases.
+- Should testing not be possible, any recommendations from the research synthesis should be delievered along with a documented list of risks to be acknowledged by the project team. Ideally more testing would be backlogged for the future.
 
 ## Gap Analysis
 This gap analysis is in reference to the [original sampling request](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/discovery/research/wizard-research-plan.md)
