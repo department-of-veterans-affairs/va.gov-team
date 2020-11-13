@@ -85,8 +85,6 @@ I would like to dive a little deeper on the search aspect during scheduling.
    - Do your expectations align with Veterans' expectations?
    - What happens if no providers meet the search criteria?
 
-- What do those search results look like? 
-
 - From the search results, what is useful to schedule the appointment?
 
 - What do Community Care managers convey to the Veterans about the provider?
