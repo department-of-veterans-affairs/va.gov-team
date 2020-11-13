@@ -245,17 +245,23 @@ Week 2 of sprint 33
 
 ### Direct deposit for edu
 
-PM
+**PM**
 
 - Hold usability testing platform review #15686
 
-Design
+**Design**
 
 - Build prototype
 - Conduct research
 - Start summary (if time)
 
 ### Preferred medical facility
+
+**PM**
+
+- Schedule/hold [project kickoff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#project-kickoff)
+
+**BE**
 
 - Backend build #16107
 
