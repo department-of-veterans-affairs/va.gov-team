@@ -107,11 +107,7 @@ I’m going to send another link to a specific page in the chat.
 
 *Send the link to the* [*West Los Angeles VA Medical Center*](https://staging.va.gov/find-locations/facility/vha_691) *page in the chat.*
 
-When you opened this page, did a form overlay on top of the page?
-```You may want to have another way of describing this.``` 
-
-- *If no:* Can you please try refreshing the page?
-- *If yes:* Great! 
+*On page load, make sure the intercept survey appears. If it does not, have the user refresh the page. If the form continues to not load, share your screen and pull up the form.*
 
 **Task: How would you go about providing feedback on this page? Again, once you locate the form, you do not need to fill it out and submit it.**
 
