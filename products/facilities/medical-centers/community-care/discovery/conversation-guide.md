@@ -12,7 +12,7 @@
 Thanks for joining us today! My name is Chris and I also have some colleagues on the line observing and taking notes. Today we're going to talk about scheduling Veterans for community care appointments. In today's interview, we have a couple of goals.
 
 - Our first goal is to understand and gather feedback (where possible) about the VA online scheduling requests for community care that you receive as Community Care request managers.
-- Our second goal is to improve the search results that Veterans see when they use the Facility Locator on VA.gov. To help acheive our goal, we want to understand your role as a Community Care manager who works with Veterans, service members and their families. This will help us understand what is important to a Veteran, so that we can present them with better search results when they are searching for a Community Care provider. 
+- Our second goal is to improve the search results that Veterans see when they use the Facility Locator on VA.gov. To help acheive our goal, we want to understand your role as a Community Care manager who works with Veterans. This will help us understand what is important to a Veteran, so that we can present  better search results when they search for a Community Care provider. 
 
 Before we start, a few things I want to mention:
 
