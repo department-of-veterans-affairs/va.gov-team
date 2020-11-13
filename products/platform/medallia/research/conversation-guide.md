@@ -29,9 +29,6 @@ In order to get the most out of this session, I would like to be able to see you
 
 **If mobile participant**
 
-- First I want to make sure your technology is ready to go for this session. Can you confirm for me what type of device you're using to join today?
-``` This looks like a dupe of earlier question ``` 
-
 *For iPhone:*
 
 - When you are inside the zoom application on your phone, you'll see a few buttons at the bottom. Audio, Video, Share content, Participants, and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "chat" and "share content." Any questions?
@@ -69,34 +66,15 @@ Great. Now we're really ready to begin!
 
 ## Warm-up Questions - 7 minutes
 
-```Recommend restructuring some of the questions in this section as follows (your original questions and comments are below).```
-
 - Are you aware of any options that va.gov offers for providing feedback on the website?
-  - if YES: 
+  - If YES: 
     - Can you describe which options you are aware of? 
     - Have you ever used any of these options?
     - Why / why not? 
-      - If YES to submitting feedbacK: How did you figure out how to submit the feedback? 
+      - If YES to submitting feedback: How did you figure out how to submit the feedback? 
       - Were you able to submit the feedback you wanted to submit? 
-
-  - if NO: 
+  - If NO: 
     - Can you describe a situation in which you might want to submit feedback to VA.gov?
-
-------
-- Have you ever submitted feedback regarding your experience on the VA.gov website?
-```Are you looking for them to tell you if they have used the feedback tool on va.gov, or if they have ever submitted feedback on website problems anywhere? The specific phrasing on this question may get you more answers for the latter. Consider rephrasing or using a series of questions to get to this answer.``` 
-
-e.g. " If yes: Tell me which options you're aware of? Have you ever used any of these options? Why or why not?; if No: ... continue```
-  - *If yes:* Can you tell me about the experience of submitting feedback?
-    - Was it easy to figure out how to submit feedback?
-    ```You're priming them to say that they thought it was easy.```
-    - Were you able to accurately provide the feedback you were looking to provide?
-    ```What are you trying to answer with this question? It's a bit wordy and confusing. My read on it is that you're asking Veterans if they were able to tell VA what they wanted to tell VA about the problem they experienced.```
-  - *If no:* Would you be able to walk us through reasons, if there any, for not submitting feedback?
-  
-- Can you describe a situation in which you would feel compelled to submit feedback?
-------
-
     
 ## First Task: Feedback Survey - 7 minutes
 
@@ -105,7 +83,6 @@ I’m going to send a link to a specific page in the chat.
 *Send the link to the* [*Find VA Locations*](https://staging.va.gov/find-locations/) *page in the chat.*
 
 **Task: You would like to submit feedback on this Find VA Locations page on the VA.gov website. What would be your process for submitting that feedback?**
-```I recommend not using hypotheticals.```
 
 As you’re performing this task, please talk us through your thoughts as you interact with the site.
 
@@ -118,10 +95,8 @@ As you’re performing this task, please talk us through your thoughts as you in
 ### Follow-up Questions
 
 - On a scale of 1-5 where 1 is very difficult, and 5 is very easy, please describe your experience in trying to find the feedback form. 
-```Why I'm recommending this change: When you say "how easy was this" you are priming them to say it was easy. Give them the option to say its hard.```
   - Follow-up, based on the number they give you (1, 2, 3 for challenging, 4 or 5 easy): What did you find challenging about this form? OR What did you find easy to use about this form? 
 - What questions do you have about how to fill out the form?
-```Again, give them the opportunity to ask questions. They almost always have one, but when you ask if they have any, Veterans frequently go into "pleaser" mode and say 'NO.' ``` 
 - Which questions do you think could be clarified?
 - Would you, personally, fill out this form?
   - *If yes:* Would you fill it out on your desktop or phone?
@@ -151,10 +126,8 @@ As you’re performing this task, please talk us through your thoughts as you in
 ### Follow-up Questions
 
 - On a scale of 1-5 where 1 is very difficult, and 5 is very easy, please describe your experience in trying to find the feedback form. 
-```Why I'm recommending this change: When you say "would you say this was easy" you are priming them to say it was easy. Give them the option to say its hard.```
 - - Follow-up, based on the number they give you (1, 2, 3 for challenging, 4 or 5 easy): What did you find challenging about this form? OR What did you find easy to use about this form? 
 - What questions do you have about how to fill out the form?
-```Again, give them the opportunity to ask questions. They almost always have one, but when you ask if they have any, Veterans frequently go into "pleaser" mode and say 'NO.' ``` 
 - Take a moment to review all the questions on the survey. Are there any questions you don’t understand or need clarification on?
 - Would you, personally, fill out this survey?
   - *If yes:* Would you fill it out on your desktop or phone?
@@ -163,12 +136,9 @@ As you’re performing this task, please talk us through your thoughts as you in
 
 That’s it for the tasks, but I have a few general questions in reference to both of these forms?
 
-- Do you feel comfortable or confident submitting this feedback form?
-```pick one - comfortable or confident --- i recommend confident.``` 
-- Have there been any instances or experiences you’ve had on VA.gov that would cause you to want to provide feedback?
-```plain language```
-- Who or what organization do you think is responsible for submitting this feedback form?
-```I don't understand this question. Revise.```
+- Do you feel confident submitting this feedback form?
+- Have there been any experiences you’ve had on VA.gov that would cause you to want to provide feedback?
+- Who do you think is responsible for creating this feedback form?
 - What do you think happens after you submit feedback?
 
 ## Thank-You and Closing - 5 minutes
