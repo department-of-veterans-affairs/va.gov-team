@@ -37,6 +37,8 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 
 - Aside from scheduling, what other roles do you perform as Community Care manager?
 
+- Do you manage VA Online Scheduling cc requests
+
 ## Scenario - Walk-through Demo
 
 So what I would like to do now, if it is ok, is provide you with a scheduling scenario, and it would be great if you could demonstrate the process you work through to schedule a Veteran. And if you could call out the systems you are using, that would be really helpful. 
