@@ -93,3 +93,57 @@ Dependent applies for educational transfer of benefits from a deceased or totall
       - Phone number
 -   Review/Submit
 
+
+## Form Title: Apply for education benefits as an eligible dependent
+Form 22-5490
+
+#### 5490 Confirmation Screen
+{ Confirmation screen } 
+
+#### We've received your application. 
+
+We usually process applications within **30 days**.
+
+We may contact you if we need more information or documents.
+
+Print this page { button }
+
+{ blue box }
+
+#### Education Benefit Application  								
+(Form 22-5490)  
+
+for { Fname Lname }
+
+**Selected benefit**
+{ Selected benefit info } 
+
+**Confirmation number**
+{ confirmation number } 
+
+**Date received**
+{ Mon. NN, YYYY }
+
+**Your claim was sent to**
+{ Region }
+{ Regional office }   
+{ Street }
+{ City, ST Zip+4 }  
+
+
+{ end blue box }
+
+
+**What happens after I apply?**
+
+We usually decide on applications within 30 days.  
+
+You’ll get a Certificate of Eligibility (COE) or decision letter in the mail. If we’ve approved your application, you can bring the COE to the VA certifying official at your school.  
+
+[Learn more about what happens after you apply](https://www.va.gov/education/after-you-apply/) 
+
+
+
+[Go Back to VA.gov]() { button }
+
+
