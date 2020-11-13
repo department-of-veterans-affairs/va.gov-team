@@ -19,4 +19,4 @@ For V1, we should explore whether features that are already being built, like PO
 For V1, we should add them as we find them to the backlog and look to Martha/Steve to help us prioritize in sprint planning.
 
 ### Q4: What is our release date?
-For V1, we will release it to a group of VA employees and conduct usability testing in late December/early January. Once we have collected enough data, we will analyze it to determine whether we are ready to release the app to the public in its current form or whether we need more time to add additional features. During this period, developers will also continue building Secure Messaging so that that feature could potentially be added before our public release. 
+For V1, we will release it to a group of VA employees and conduct usability testing in January. Once we have collected enough data, we will analyze it to determine whether we are ready to release the app to the public in its current form or whether we need more time to add additional features. During this period, developers will also continue building Secure Messaging so that that feature could potentially be added before our public release. 
