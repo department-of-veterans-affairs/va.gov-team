@@ -124,7 +124,7 @@ This gap analysis is in reference to the [original sampling request](https://git
 |     | JK-1 | JK-2 | JK-3 | JK-4 | MG-5 |
 |--------------|------|------|------|------|------|
 | No degree :heavy_exclamation_mark:    |      |      |      |      |      |
-| Some college |      |      |      |      |      |
+| Some college :heavy_exclamation_mark: |      |      |      |      |      |
 | Associates   |      | x    | x    |      |      |
 | Bachelors   |      |      |      |      | x    |
 | Masters      | x    |      |      | x    |      |
