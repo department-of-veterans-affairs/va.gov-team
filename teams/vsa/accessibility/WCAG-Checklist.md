@@ -50,7 +50,7 @@ For an overview of WCAG, and distinctions between 2.0, 2.1, and 2.2, please see 
 
 The criteria below includes a combination of success criteria that the VA 508 Program office describes as violations and best practices.
 
-* Musts are violations of Section 508 (WCAG 2.0 AA & AA).
+* Musts are violations of Section 508 (WCAG 2.0 A & AA).
 * Shoulds are best practices, not current Section 508 requirements (WCAG 2.0 AAA, WCAG 2.1).
 
 ### Section 508 (WCAG 2.0) and the 508-defect severity rubric
