@@ -9,7 +9,7 @@ Veterans and their families need a trustworthy way to provide feedback for the d
 ### Usability Study Goals:
 
 - Document and prioritize any outstanding usability issues that might come up when Veterans and their families fill out a feedback survey
-- Help VSP and VFS teams understand veteran priorities when it comes to potential new survey designs
+- Help VSP and VFS teams understand Veteran priorities when it comes to potential new survey designs
 - Determine whether Veterans have a clear and realistic understanding of how their feedback will be used once the form is submitted
 
 ### Research Questions:
@@ -17,6 +17,7 @@ Veterans and their families need a trustworthy way to provide feedback for the d
 - Are users able to locate the feedback form easily?
 - Are veterans able to navigate through the form easily?
 - Are veterans empowered to start and complete the form? Do veteran trust that the survey is provided by the VA?
+```what would make them "empowered"? How will you evaluate this?```
 - Do veterans understand the questions and answers that are asked of them?
 - Do veterans understand how to answer each question?
 - Do veterans understand that their survey responses will not be responded to by the VA?
@@ -53,7 +54,7 @@ We are seeking to perform this test with 10 participants
 
 **Good to have for participants**
 
-- Users that have a VA.gov login
+- Users that have a DSLogon Premium, MHV Premium, or ID.me login
 - *If possible, would like to have roughly 2-3 participants who would answer "yes" to the follow question:*
   - Do you currently use a screen reader to navigate website?
 
