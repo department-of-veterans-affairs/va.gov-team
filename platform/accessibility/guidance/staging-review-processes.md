@@ -1,7 +1,9 @@
 
 # Accessibility staging review preparation
 
-Teams must conduct their own accessibility testing **before** scheduling a VSP Collaboration Cycle [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review). 
+Teams must conduct their own accessibility testing **before** scheduling a VSP Collaboration Cycle [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review). VSP accessibility specialists will verify teams have completed foundational accessibility testing before the staging review can start. Teams are **required** to complete the [foundational accessibility tests](#foundational-accessibility-tests-required) and encouraged to complete as many of the [advanced accessibility tests](advanced-accessibility-tests-recommended) as time and techincal proficiency allow.
+
+If teams have not completed their foundational testing, the VSP accessibility specialist will escalate to DEPO leadership.
 
 Staging reviews test the [happy path](https://en.wikipedia.org/wiki/Happy_path) through the application or content page(s). This may not catch all accessibility issues, but will ensure basic functionality is accessible. (Accessibility specialists conduct a [more thorough post-launch audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/post-launch-audit-processes.md) when an application is relatively code-stable in production.)
 
