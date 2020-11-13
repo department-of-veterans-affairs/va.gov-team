@@ -7,3 +7,5 @@ Questions
 - What is LC?
 - Who does CMS define as a "user"? Do you use the word "customer" for anything?
 - How might we create a streamlined process between a single source of truth for a design component and changes or additions brought about by content model changes in that component? 
+
+Mural from initial connections discussion: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1604425871513/f507ccb413e15144028d2563d91b75b7a8a5f92a
