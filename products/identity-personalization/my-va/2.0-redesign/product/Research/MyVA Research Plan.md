@@ -101,7 +101,7 @@ November 30, 2020 | 11am - 6pm ET
 Mobile Pilot Sessions (1 total sessions, 2 mobile, A vs B): November 19, 2020 | 11am - 5pm ET
 
 ## Team Roles
-* Moderator: Cassandra Allen & Tressa Furner (callen@governmentcio.com, tressa.furner@adhocteamus.com) 
+* Moderator: Tressa Furner & Cassandra Allen (tressa.furner@adhocteamus.com, callen@governmentcio.com) 
 * Research guide writing and task development: Cassandra Allen, Tressa Furner
 * Participant recruiting & screening: Perigean
 * Project point of contact: Samara Strauss
