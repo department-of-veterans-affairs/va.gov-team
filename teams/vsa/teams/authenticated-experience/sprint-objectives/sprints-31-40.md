@@ -263,6 +263,10 @@ Design
 
 - Add error codes for address save failures to GA dashboard #16088
 
+### Maintenance/bug fixes
+
+- Cache VA profile get_person calls that return 404s #15971
+
 ## Sprint 36 (12/2 – 12/15)
 
 ### My VA redesign
