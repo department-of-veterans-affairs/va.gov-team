@@ -4,14 +4,14 @@
 This research is to test two mobile versions of the My VA dashboard re-design and gain feedback on the preferred design direction (A vs. B). This includes:
 
 - overall, is there enough relevant information on the dashboard to be valuable
-- can the user find the information that they are looking for effectively
+- can the user quickly find the information that they are looking 
 - does the page structure (scrolling vs navigation) affect ease of visibility
-- can the user easily access and understand any personal updates (claims, healthcare, or forms)
+- can the user easily access and understand any personal updates (claims, health care, or forms)
 - how easily can the user navigate to the sections they are looking for
 - is the new dashboard layout more effective than the current MyVA page
 
 ## Background
-Our goal is to create a My VA dashboard design that will improve the online experience for Veterans, by better integrating Veteran-provided data onto the My VA dashboard. Our MVP will focus on surfacing their healthcare and claims information into widgets and notifications to help Veterans access their critical information and to take action on status updates.
+Our goal is to create a My VA dashboard design that will improve the online experience for Veterans, by better integrating Veteran-provided data onto the My VA dashboard. Our MVP will focus on surfacing their health care and claims information into widgets and notifications to help Veterans access their critical information and to take action on status updates.
 
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md) 
 - [Personalization 2.0 discovery write-up (2019)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md)
@@ -21,12 +21,13 @@ Our goal is to create a My VA dashboard design that will improve the online expe
 
 ### Overall questions
 - Do Veterans prefer design version A or B?
+```What is different between the two? Are you making micro changes that could be statistically compared, or are you looking at sweeping big changes? It could be really hard to evaluate next steps if you're comparing apples and oranges.```
 - Is there any confusion caused by the status update styles in A vs B design?
 - Can people find what they're looking for on the dashboard?
 - Does the placement of the disability rating make sense to users?
 - In the claims and healthcare sections, do users understand what is being displayed? Is it enough information?
 - What information is important for them to see first?
-- What information related to healthcare, claims and applications/benefits do users want to see?
+- What information related to health care, claims and applications/benefits do users want to see?
 - Is any information missing on the dashboard?
 - Do users expect to see more information on a desktop view?
 - How do people think the new dashboard compares to the current MyVA?
@@ -74,9 +75,11 @@ Recruit for 12 sessions (8 fulfilled sessions showing each user versions A & B) 
 * At least 2 women
 * At least 1 person of color
 * At least 2 participants 35 or under and 1 participant over 55
-* At least 1 participant who currently receives VA healthcare
+* At least 1 participant who currently receives VA health care
 * At least one person with a disability rating of 70% or greater
 * At least one person with an identified cognitive consideration of PTSD or TBI
+
+```If you're doing A/B testing, you need to have the same profile on both sides, so you need a woman on both sides, a young person on both sides, and older person on both sides, etc. Recommend updating your ask so you are clear that you need 2 of each.``` 
 
 ### Recruitment requirements
 * All participants must use a mobile device.
@@ -107,7 +110,7 @@ Mobile Pilot Sessions (1 total sessions, 2 mobile, A vs B): November 19, 2020 | 
 * Project point of contact: Samara Strauss
 * Participant(s) for pilot test: November TBD
 * Note-takers: Perigean
-* Observers: Matt Shea (matt.shea@adhocteam.us), Samara Strauss (Samara.Strauss@va.gov), Erik Hansen (erik@adhocteam.us), Lihan Li (lihan@adhocteam.us), Shawna Hein (shawna@adhocteam.us), Sandra Hallie (shallie@governmentcio.com), Ryan Thurlwell (ryan.thurlwell@va.gov), Bridget Hapner (bridget@adhocteam.us), Meli Manak (meli.manak@adhocteam.us), Josh Kim (josh.kim@adhocteam.us)
+* Observers: Matt Shea (matt.shea@adhocteam.us), Samara Strauss (Samara.Strauss@va.gov), Erik Hansen (erik@adhocteam.us), Lihan Li (lihan@adhocteam.us), Shawna Hein (shawna@adhocteam.us), Sandra Hallie (shallie@governmentcio.com), Ryan Thurlwell (ryan.thurlwell@va.gov), Bridget Hapner (bridget@adhocteam.us), Meli Manak (meli.manak@adhocteam.us), Josh Kim (josh.kim@adhocteam.us), Lauren ALexanderson (lauren.alexanderson@va.gov), Meg Peters (meg.peters@va.gov), Emily Mann (emily.mann1@va.gov), Kimberly McManus <Kimberly.McManus@va.gov>; Marian Adly (Adly, Marian H. <Marian.Adly@va.gov>)
  
 ## Resources
 * [Project Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md)
