@@ -11,7 +11,7 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Ian and I also have some colleagues on the line observing and taking notes. Today we're going to talk about online methods of giving feedback for the digital services that the VA offers.
+Thanks for joining us today! My name is Ian and I also have some colleagues on the line observing and taking notes. Today we're going to talk about methods of giving feedback, like complaints or compliments, for the tools and services found on VA.gov.
 
 Before we start, a few things I want to mention:
 
@@ -83,7 +83,7 @@ I’m going to send a link to a specific page in the chat.
 
 **Task: Pretend you would like to submit feedback on this Find VA Locations page on the VA.gov website. What would be your process for submitting that feedback? Note: once you locate the form, you don’t need to fill it out or submit it.**
 
-As you’re performing this task, please “narrate” your thoughts as you interact with the site.
+As you’re performing this task, please talk us through your thoughts as you interact with the site.
 
 ### Things to watch for:
 
@@ -112,7 +112,7 @@ When you opened this page, did a form overlay on top of the page?
 
 **Task: How would you go about providing feedback on this page? Again, once you locate the form, you do not need to fill it out and submit it.**
 
-As you’re performing this task, please “narrate” your thoughts as you interact with the site.
+As you’re performing this task, please talk us through your thoughts as you interact with the site.
 
 ### Things to watch for:
 
