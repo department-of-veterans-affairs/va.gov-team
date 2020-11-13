@@ -60,7 +60,8 @@ Other assumptions include:
 We will conduct remote moderated usability testing via Zoom using the Perigean contract. This method will allow us to share a high-fidelity wireframe prototype (mobile A & B versions).
 
 ## Participants and Recruitment
-Recruit for 8 fulfilled sessions (showing each user versions A & B) using the following criteria:
+
+Recruit for 12 sessions (8 fulfilled sessions showing each user versions A & B) using the following criteria:
 
 ### Must have for participants
 
@@ -85,16 +86,19 @@ Recruit for 8 fulfilled sessions (showing each user versions A & B) using the fo
 We will not be able to accommodate non-sighted users due to the prototype technology.
 
 ## Timeline 	
-#### Desired Timeline: November TBD, 2020 
-One hour sessions<br/>
+#### Desired Timeline: November 20-30, 2020 
+
+Please schedule sessions for 60 minutes with a 30 minute buffer between sessions.
 
 Team Availability | Time (EST)
 ------------------|--------------
-Day, November TBD | 9am - 8pm ET
-Day, November TBD | 9am - 8pm ET
-Day, November TBD | 9am - 8pm ET
+November 20, 2020 | 11am - 6pm ET
+November 23, 2020 | 11am - 6pm ET
+November 24, 2020 | 11am - 6pm ET
+November 25, 2020 | 11am - 3pm ET
+November 30, 2020 | 11am - 6pm ET
 	
-Mobile Pilot Sessions (1 total sessions, 2 mobile, A vs B): Day, November TBD | 9am - 4pm ET
+Mobile Pilot Sessions (1 total sessions, 2 mobile, A vs B): November 19, 2020 | 11am - 5pm ET
 
 ## Team Roles
 * Moderator: Cassandra Allen & Tressa Furner (callen@governmentcio.com, tressa.furner@adhocteamus.com) 
@@ -103,7 +107,7 @@ Mobile Pilot Sessions (1 total sessions, 2 mobile, A vs B): Day, November TBD | 
 * Project point of contact: Samara Strauss
 * Participant(s) for pilot test: November TBD
 * Note-takers: Perigean
-* Observers: Matt Shea (matt.shea@adhocteam.us), Samara Strauss (Samara.Strauss@va.gov), Erik Hansen (erik@adhocteam.us), Lihan Li (lihan@adhocteam.us), Shawna Hein (shawna@adhocteam.us), Sandra Hallie (shallie@governmentcio.com), Ryan Thurlwell (ryan.thurlwell@va.gov), Bridget Hapner (bridget@adhocteam.us), Meli Manak (meli.manak@adhocteam.us)
+* Observers: Matt Shea (matt.shea@adhocteam.us), Samara Strauss (Samara.Strauss@va.gov), Erik Hansen (erik@adhocteam.us), Lihan Li (lihan@adhocteam.us), Shawna Hein (shawna@adhocteam.us), Sandra Hallie (shallie@governmentcio.com), Ryan Thurlwell (ryan.thurlwell@va.gov), Bridget Hapner (bridget@adhocteam.us), Meli Manak (meli.manak@adhocteam.us), Josh Kim (josh.kim@adhocteam.us)
  
 ## Resources
 * [Project Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md)
