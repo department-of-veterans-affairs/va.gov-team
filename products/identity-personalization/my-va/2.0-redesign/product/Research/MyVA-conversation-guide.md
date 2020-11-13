@@ -41,7 +41,7 @@ Before we start, a few things I want to mention:
 1. Before we look at the website, can you tell me a little about yourself? 
     - If stuck: What branch did you serve in?
 2. What type of phone do you use? How do you typically use your phone versus your desktop if you have one?
-3. Do you currently or have you ever received any benefits from the VA?
+3. Do you currently, or have you ever, received any benefits from the VA?
     - If yes: How do you manage your benefits online? (specifically what sites do they use)
         - How often do you go online to manage your benefits?
         - What do you typically do to manage your benefits online?
@@ -89,7 +89,7 @@ Let's start by making sure you can figure out how to share your screen on Zoom.
 
 Okay great.
 
-So, just a little bit of background, today we are going to be talking about a personalized overview page, which is basically where you would go to view all of your recent updates as well as an overview of your healthcare, benefit or claims information. This page is intended to just be an overview of your information - if you wanted to change or manage any of your information that would be done on another page. Does that make sense? 
+So, just a little bit of background, today we are going to be talking about a personalized overview page, which is basically where you would go to view all of your recent updates as well as an overview of your health care, benefit or claims information. This page is intended to just be an overview of your information - if you wanted to change or manage any of your information that would be done on another page. Does that make sense? 
 
 1. What information would you expect to be on your overview page?
 
@@ -110,7 +110,7 @@ Go ahead and scroll through this page and walk me through your thoughts on each 
 * Nametag area/disability rating
 * Updates
 * Claims
-* Healthcare
+* Health care
 * Benefit applications
 
 1. What are your overall thoughts about this page? 
@@ -141,7 +141,7 @@ Okay, now let's take a look at the updates section.
 
 ## Second task: Claims scenario
 
-Okay, great. Now, I'm going to give you a scenario. Imagine you've recently submitted a claim and you are waiting to see if it has been approved. You've just landed on this page.
+Okay, great. Now, I'm going to give you a scenario. You've recently submitted a claim and you are waiting to see if it has been approved. You've just landed on this page.
 
 1. Could you walk me through how you would do that?
 
@@ -167,9 +167,9 @@ Okay, great. Now, I'm going to give you a scenario. Imagine you've recently subm
 
 
 
-## Third task: Healthcare scenario
+## Third task: Health care scenario
 
-Okay, we're now going to move on to another scenario. Imagine you are currently enrolled in healthcare with the VA. You've come to this page to see when your next appointment is.
+Okay, we're now going to move on to another scenario. Imagine you are currently enrolled in health care with the VA. You've come to this page to see when your next appointment is.
 
 1. Can you walk me through how you would do that?
 
@@ -183,7 +183,7 @@ Okay, we're now going to move on to another scenario. Imagine you are currently 
     3. What information would you expect to be included for your appointments?
     4. Is there any thing that you would add or change about the appointments section?
 
-    *If they look for appointments in the healthcare section:*
+    *If they look for appointments in the health care section:*
 
     1. Was it easy or hard to find your upcoming appointment?
     2. Can you tell me why you think it would be in the healthcare section?
@@ -197,7 +197,7 @@ Okay great, thank you.
 
 **Skip questions 1-5 if prototype is shown second**
 
-1. What information would you expect to see related to your healthcare here?
+1. What information would you expect to see related to your health care here?
 2. What information related to your prescriptions do you expect to see on this page?
 3. What information related to your messages do you expect to see on this page?
 4. Can you look over all of the information shown here, is there anything that you would add?
@@ -205,9 +205,9 @@ Okay great, thank you.
 ### Things to watch for:
 
 - Can the user easily find their appointments?
-- Is the user confused about anything within the healthcare section?
+- Is the user confused about anything within the health care section?
 - Does the user think there should be more or less information?
-- Does the user notice the links in the healthcare section?
+- Does the user notice the links in the health care section?
 
 
 
@@ -301,13 +301,13 @@ Okay great. Go ahead and go back to the previous screen by clicking 'Claims and 
 
 
 
-## Third task: Healthcare scenario
+## Third task: Health care scenario
 
-Okay, we're now going to move on to another scenario. Imagine you are currently enrolled in healthcare with the VA. You've come to this page to see the latest message from your doctor.  Can you walk me through how you would do that?
+Okay, we're now going to move on to another scenario. Imagine you are currently enrolled in health care with the VA. You've come to this page to see the latest message from your doctor.  Can you walk me through how you would do that?
 
 1. Can you walk me through how you would do that?
 
-    *If they look for messages in the healthcare updates section:*
+    *If they look for messages in the health care updates section:*
 
     1. Was it easy or hard to find your new messages?
     2. Can you tell me why you think it would be in the updates section?
@@ -316,10 +316,10 @@ Okay, we're now going to move on to another scenario. Imagine you are currently 
 
     3. Is there any thing that you would add or change about the messages section?
 
-    *If they look for messages in the healthcare section:*
+    *If they look for messages in the health care section:*
 
     1. Was it easy or hard to find your new messages?
-    2. Can you tell me why you think it would be in the healthcare section?
+    2. Can you tell me why you think it would be in the health care section?
 
     **Skip questions 3 if prototype is shown second**
 
@@ -329,7 +329,7 @@ Okay great, thank you.
 
 **Skip questions 1-5 if prototype is shown second**
 
-1. Overall, what information is the most important related to your healthcare?
+1. Overall, what information is the most important related to your health care?
 2. What information related to your prescriptions do you expect to see on this page?
 3. What information related to your messages do you expect to see on this page?
 4. Can you look over all of the information shown here, is there anything that you would add?
@@ -337,9 +337,9 @@ Okay great, thank you.
 ### Things to watch for:
 
 - Can the user easily find their appointments?
-- Is the user confused about anything within the healthcare section?
+- Is the user confused about anything within the health care section?
 - Does the user think there should be more or less information?
-- Does the user notice the links in the healthcare section?
+- Does the user notice the links in the health care section?
 - What information would you like to see on this page related to your appointments?
 
 
