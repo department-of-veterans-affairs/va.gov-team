@@ -22,6 +22,8 @@
 | [FE]  Clean up | -- | # |
 | [Product] External /Call Center troubleshooting Documentation	| -- |  |
 | [All] Collab Cycle Approvals for Pros 	| -- |  |
+| [UI] MVP Usability Testing 	| -- |  |
+| [UX] Analytics	| -- |  |
 
 ## Sprint 36 - Integraion Testing / Analytics 
 12/2/2020 - 12/15/2020
@@ -30,6 +32,7 @@
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
 | [UI]  | -- | # |
+| [UX] Create interactive MVP prototype   	| -- |  |
 | [FE] Analytics | -- | # |
 | [FE] Integration with vets API for pulling in a appointment data | -- | # |
 | [FE] Integration with vets API for pulling in all questionnaires list| -- | # |
@@ -37,6 +40,7 @@
 | [UX/FE] Print PDF of Questionnaire | -- | #  |
 | [BE]  | -- | # |
 | [Product] Change Management for Implementation 	| -- |  |
+| [BE/FE] Implementation for Questionnaire Trigger Service | -- | #  |
 
 
 ## Sprint 35 - Print /Analytics and Security/ Notifications
@@ -45,14 +49,13 @@
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
-| [UX] Create interactive MVP prototype   	| -- |  |
-| [UI] MVP Usability Testing 	| -- |  |
-| [UX] Analytics	| -- |  |
-| [FE] Questionnaire List | -- | | 
+| [UX/Product] Stakeholder/Clinician Interviews  | -- | #15049  |
+| [UX] Notifications via Appt Reminders/link | -- | #  |
+| [FE] Questionnaire Manager  | -- | | 
 | [FE] Clean up | -- | |
 | [BE] Appt Status updates | -- | #  |
-| [BE/FE] Implementation for Questionnaire Trigger Service | -- | #  |
-| [UX/BE/FE] Notifications via Appt Reminders/link | -- | #  |
+
+
 
 ## Sprint 34 - Questionnaire List / Print
 11/4/2020 - 11/17/2020
@@ -62,14 +65,12 @@
 |-|:-:|:-:|
 | [Product] VCM and eScreening strategy docs submitted | -- |   |
 | [UX] Demographics Banner  | -- | #13153  |
-| [UX/Product] Stakeholder/Clinician Interviews  | -- | #15049  |
+| [UX/Product] Stakeholder/Clinician Interviews Script/conversation guides  | -- | #  |
 | [UX] Print | -- | #15158  |
 | [FE] Questionnaire List | -- | #15525  |
 | [FE] Usability Testing Feedback Updates | -- | #many  |
 | [BE] POST/GET questionnaire responses to appointment in staging(PGD sandbox) | -- | #15006 need ticket # |
 | [BE] FHIR Mapping in MAP| -- | #|
-
-
 
 
 ## Sprint 33 - Questionnaire Trigger and Usability Feedback Implemented
@@ -79,7 +80,7 @@
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
 | [UI] Usability Testing Feedback | -- | #  |
-| [UI] Questionnaire List Complete | -- | #  |
+| [UI] Questionnaire List Started | -- | #  |
 | [UX/FE] IA for navigation on va.gov	| -- |  |
 | [FE] Save in Progress | -- | #  |
 | [BE/FE] Land implementation strategy Questionnaire Trigger Service | -- | #  |
