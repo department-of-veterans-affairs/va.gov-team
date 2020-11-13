@@ -8,6 +8,6 @@ Also, to reset users ourselves, we would need access to SHARE.
 
 New test users as they are created, though, will not work locally, only in staging.  Currently we are teting locally because that allows us access t ologs to troubleshoot errors which is difficult in staging.
 
-Currently waiting to hear back from HLINC about what their procedure might be. _Novmber 12, 2020_
+Currently waiting to hear back from HLINC about what their procedure might be. _Email sent Novmber 13, 2020_
 
 
