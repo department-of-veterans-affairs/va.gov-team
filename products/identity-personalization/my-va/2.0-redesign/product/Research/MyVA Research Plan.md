@@ -101,7 +101,7 @@ Mobile Pilot Sessions (1 total sessions, 2 mobile, A vs B): Day, November TBD | 
 * Research guide writing and task development: Cassandra Allen, Tressa Furner
 * Participant recruiting & screening: Perigean
 * Project point of contact: Samara Strauss
-* Participant(s) for pilot test: TBD
+* Participant(s) for pilot test: November TBD
 * Note-takers: Perigean
 * Observers: Matt Shea (matt.shea@adhocteam.us), Samara Strauss (Samara.Strauss@va.gov), Erik Hansen (erik@adhocteam.us), Lihan Li (lihan@adhocteam.us), Shawna Hein (shawna@adhocteam.us), Sandra Hallie (shallie@governmentcio.com), Ryan Thurlwell (ryan.thurlwell@va.gov), Bridget Hapner (bridget@adhocteam.us), Meli Manak (meli.manak@adhocteam.us)
  
