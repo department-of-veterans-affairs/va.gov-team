@@ -6,3 +6,4 @@ Questions
 - If you look at the proposed DEPO Platform mission, how do you think the CMS does/doesn't align? What parts of the proposed mission feel off given the mission of the CMS product?
 - What is LC?
 - Who does CMS define as a "user"? Do you use the word "customer" for anything?
+- How might we create a streamlined process between a single source of truth for a design component and changes or additions brought about by content model changes in that component? 
