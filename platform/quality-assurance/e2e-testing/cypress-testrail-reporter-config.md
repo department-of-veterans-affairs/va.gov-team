@@ -1,10 +1,10 @@
 # Cypress to TestRail Reporter Plugin Configuration
 
 In order to begin writing your execution records from your Cypress e2e teests into related test cases in TestRail you will need the following configurations --
-* [TestRail API Key](##testrail-api-key)
-* [Corresponding Project, Test Suite, and Test Cases in TestRail](##corresponding-testrail-objects)
-* [Environment Variables Set](##environment-variables-set)
-* [Invoke Cypress with Reporter Options from Environment Variables](##invoke-cypress-with-custom-reporter-options)
+* [TestRail API Key](#testrail-api-key)
+* [Corresponding Project, Test Suite, and Test Cases in TestRail](#corresponding-testrail-objects)
+* [Environment Variables Set](#environment-variables-set)
+* [Invoke Cypress with Reporter Options from Environment Variables](#invoke-cypress-with-custom-reporter-options)
 
 ## TestRail API Key
 1. Log in to TestRail
