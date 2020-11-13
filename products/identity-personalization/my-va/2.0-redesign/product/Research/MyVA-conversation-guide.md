@@ -42,8 +42,12 @@ Before we start, a few things I want to mention:
     - If stuck: What branch did you serve in?
 2. What type of phone do you use? How do you typically use your phone versus your desktop if you have one?
 3. Do you currently or have you ever received any benefits from the VA?
+    - If yes: How do you manage your benefits online? (specifically what sites do they use)
+        - How often do you go online to manage your benefits?
+        - What do you typically do to manage your benefits online?
+    
 4. Do you currently or have you ever filed a claim or appeal with the VA?
-    - If user answers no to healthcare, benefits or claims, ask if they have logged onto va.gov within the last year.
+    - If user answers no to benefits and claims, ask if they have logged onto va.gov within the last year.
     
 Okay great, for this next question I'm going to share my screen really quick. *Moderator share screen with MyVA*
 
@@ -80,9 +84,14 @@ Let's start by making sure you can figure out how to share your screen on Zoom.
 
 **ALTERNATE STARTING WITH VERSIONS A AND B FOR EACH PARTICIPANT**
 
+
+## Intro
+
 Okay great.
 
 So, just a little bit of background, today we are going to be talking about a personalized overview page, which is basically where you would go to view all of your recent updates as well as an overview of your healthcare, benefit or claims information. This page is intended to just be an overview of your information - if you wanted to change or manage any of your information that would be done on another page. Does that make sense? 
+
+1. What information would you expect to be on your overview page?
 
 Any questions before we get started?
 
@@ -111,14 +120,14 @@ Go ahead and scroll through this page and walk me through your thoughts on each 
 **Skip question 4 if prototype is shown second**
 
 4. If you clicked on the disability rating, where would you expect that to go?
-5. If you were looking for any changes to your information, where would you expect those to be?
 
 Okay, now let's take a look at the updates section. 
 
 1. Can you describe to me what what you're looking at?
 2. What kind of updates would be helpful to you? 
 3. If you clicked on 'Go to all recent updates' where would you expect that to go?
-4. What is not working with these updates?
+4. What works well? 
+5. What doesn't work well?
 
 ### Things to watch for:
 
@@ -243,7 +252,6 @@ Take a look at this page, and let me know your thoughts starting with where you 
 **Skip question 4 if prototype is shown second**
 
 4. If you clicked on the disability rating, where would you expect that to go?
-5. If you were looking for any changes to your information, where would you expect those to be?
 
 ### Things to watch for:
 
@@ -279,7 +287,9 @@ Okay great. Go ahead and go back to the previous screen by clicking 'Claims and 
     **Skip questions 2 if prototype is shown second**
 
     2. What information would you expect to see related to your claims here?
-    3. Did you think it was easy or hard to find your claims in progress? 
+    3. Did you think it was easy or hard to find your claims in progress?
+    4. What works well? 
+    5. What doesn't work well?
 
 ### Things to watch for:
 
@@ -362,10 +372,12 @@ Thanks so much! If you could go ahead and stop sharing your screen. Let's take a
 
 1. Overall, which prototype do you prefer? Why?
 2. Do you prefer to see updates at the top of the screen or collapsed in each section?
-3. Do you think you would or would not use this page when you log in to VA.gov? Why?
+3. How did these pages meet your expectations? 
+4. How did these pages not meet your expectations?
+5. Do you think you would or would not use this page when you log in to VA.gov? Why?
     - if no: What would make this page more useful to you?
-4. What would you call this page?
-5. Any other thoughts?
+6. What would you call this page?
+7. Any other thoughts?
 
 ## Wrap-up and close
 
