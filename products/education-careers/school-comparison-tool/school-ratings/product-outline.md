@@ -90,8 +90,9 @@ How might we bolster GI Bill beneficiaries' confidence and level of comfort when
 - Users view ratings by clicking jumplink from top of profile page
 - Users scroll to / past About ratings content
 
-Longer term KPI (can begin tracking after a viable number of ratings have been collected across schools)
+Longer term KPIs.  Both KPIs require the collection of a viable number of ratings to be collected across schools and coordination across other areas of VA to calculate benefit payments. 
 - VA benefits to lower rated schools decrease
+- Over time, schools with baseline "low" ratings work to increase the rating scores
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
