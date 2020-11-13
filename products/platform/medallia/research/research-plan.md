@@ -72,6 +72,8 @@ We are seeking to perform this test with 10 participants
 | Friday, November 20    | 9am - 6pm  |
 | Monday, November 23    | 9am - 7pm  |
 | Tuesday, November 24   | 9am - 7pm  |
+| Monday, November 30    | 9am - 7pm  |
+| Tuesday, December 1    | 9am - 7pm  |
 
 Testing assets are currently available on the staging environment of VA.gov. 
 
