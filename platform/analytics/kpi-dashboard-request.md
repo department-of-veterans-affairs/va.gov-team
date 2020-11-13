@@ -8,7 +8,7 @@
 
 Once you have your product's KPIs, fill out the [Github request template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+bsmartin-ep%2C+jonwehausen%2C+amycesal&labels=analytics-insights%2C+analytics-request&template=analytics-request-kpi-dashboard.md&title=Analytics+KPI+dashboard+request+for+%5BTeam%5D) with your KPIs on your Product Outline linked to the template.
 
-In order to ensure that KPIs will be tracked for product decisions, please ensure that your KPIs are **clearly mapped back to veteran goals/outcomes.** 
+In order to ensure that KPIs will be tracked for product decisions, please ensure that your KPIs are **clearly mapped back to veteran goals/outcomes.** The product outline template on Github has current guidelines to ensure that your goals are linked back to Findability, Ease of Use, Service Completion, and Trust.
 
 *If you need support with determining your KPIs, please take a look at the [data journey deck](https://docs.google.com/presentation/d/1OGdCLFYGA4cb5nDUTJOme_7UBdAM49bX5zpYZ-zg6rw/edit#slide=id.g6d866f9dc2_0_165), the [KPI Setting workshop](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1591285060838/5b950dfe08c860feb2b26d049665f8a043ee278d) or feel free to reach out to VSP Analytics & Insights on the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) channel for "in-person" support.
 
