@@ -432,7 +432,7 @@ Lists **MUST** be marked up appropriately according to the semantics of the list
 (including in a singlepage application framework)
 
 <ol type="a">
-   <li>Screen reader users <strong>**MUST**</strong> be made aware of important updates or changes to the content (e.g. content loaded by AJAX or changed by JavaScript, etc.) by methods such as the following [1.3.2]():
+   <li>Screen reader users <strong>**MUST**</strong> be made aware of important updates or changes to the content (e.g. content loaded by AJAX or changed by JavaScript, etc.) by methods such as the following [WCAG 2.1 Level A - 1.3.2](https://www.wuhcag.com/meaningful-sequence/):
     <ul>
        <li>aria-live announcement (appropriate when the keyboard focus should not move) OR</li>
        <li>move the keyboard focus to the new content (only applicable if the user performs an action to request the content change, e.g. by clicking a button or link).</li>
