@@ -247,7 +247,7 @@ Week 2 of sprint 33
 
 PM
 
-- Hold usability test prep session #15686
+- Hold usability testing platform review #15686
 
 Design
 
