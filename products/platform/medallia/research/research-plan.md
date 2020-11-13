@@ -86,7 +86,7 @@ Testing assets are currently available on the staging environment of VA.gov.
 
 ## Team Roles
 
-- **Moderator:** Ian McCullough ([ian.mccullough@oddball.io](mailto:ian.mccullough@oddball.io))
+- **Moderator:** Ian McCullough ([ian.mccullough@oddball.io](mailto:ian.mccullough@oddball.io), 330-842-3427)
 - **Research guide writing and task development:** Ian McCullough ([ian.mccullough@oddball.io](mailto:ian.mccullough@oddball.io))
 - **Participant recruiting & screening:** Perigean
 - **Project point of contact:** Chante Lantos-Swett ([chante.lantosswett@va.gov](mailto:chante.lantosswett@va.gov))
