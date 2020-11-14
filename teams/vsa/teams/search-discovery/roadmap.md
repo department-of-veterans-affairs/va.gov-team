@@ -23,7 +23,7 @@ _See team [Zenhub Roadmap](https://github.com/department-of-veterans-affairs/va.
 |VA Global Onsite Search - Collections | Discovery |
 |VA Global Onsite Search - Results Page Redesign | Discovery |
 |VA Global Onsite Search - Filtered Tags | Discovery |
-|[VA Offsite Search - Optimization (SEO)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16187) | Define |
+|[VA Offsite Search - Optimization (SEO)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16128) | Define |
 |VA Offsite Search - Structured Data Rick Results| Define |
 |VA Global Onsite Search - Local Listings (Covid etc.)| TBD |
 
