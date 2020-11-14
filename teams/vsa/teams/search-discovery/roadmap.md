@@ -17,20 +17,15 @@ _See team [Zenhub Roadmap](https://github.com/department-of-veterans-affairs/va.
 ## Future projects
 |Project|Status|
 |----|----|
-|[VA Global Onsite Search - Improvements]() | Discovery |
+|VA Global Onsite Search - Improvements | Discovery |
 |[VA Global Onsite Search - Best Bets/Top Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9538) | Define |
 |[VA Global Onsite Search - Site Map XML + Indexing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13939) | Discovery |
-|[VA Global Onsite Search - Collections]() | Discovery |
-|[VA Global Onsite Search - Results Page Redesign]() | Discovery |
-|[VA Global Onsite Search - Filtered Tags]() | Discovery |
-|[VA Offsite Search - Optimization (SEO)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11026) | Define |
-|[VA Offsite Search - Structured Data Rick Results]() | Define |
-
-## To Validate:
-|Project|Status|
-|----|----|
-|[Resources & Support (LC) - Post 1.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11254) | TBD |
-|[VA Global Onsite Search - Local Listings (Covid etc.)]() | TBD |
+|VA Global Onsite Search - Collections | Discovery |
+|VA Global Onsite Search - Results Page Redesign | Discovery |
+|VA Global Onsite Search - Filtered Tags | Discovery |
+|[VA Offsite Search - Optimization (SEO)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16187) | Define |
+|VA Offsite Search - Structured Data Rick Results| Define |
+|VA Global Onsite Search - Local Listings (Covid etc.)| TBD |
 
 ### Projected timelines for current projects
 
