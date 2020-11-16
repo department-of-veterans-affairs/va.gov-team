@@ -10,7 +10,7 @@
          - Is there anything that you like patients to do before their appointment like lab tests, medical imaging, answer questions, etc?
      - What systems/accounts do you use?
      - What does your work station look like? How many monitors, etc?
-   - Next, we will talk about during and after the appointment?   
+   - Next, we will talk about during and after the appointment.   
      - How long do you typically spend on intake/screening questions?
      - What are the standard questions you're required to ask Veterans?
      - Are there questions that you like to regularly include that are not in the clinical documentation?
@@ -18,7 +18,7 @@
          - if yes, which ones and why?
      - Do you utilize any different systems/accounts during or after the appointment? 
          - Where do you typically document the answers to these intake/screening questions - paper or digital (which section of the EHR)?
-      - Do you typically find the reason for visit documented from the scheduling soluiton matches the verbial description the veteran provides why they are there. ie. Chief Complaint?
+      - Do you typically find the reason for visit documented from the scheduling solution matches the verbal description the veteran provides why they are there. ie. Chief Complaint?
          - Would you want the patient stated reason for visit to populate the Chief Complaint in your clinical note - if you could/add to it?
       - If you had to summarize the top 3-5 areas Veterans routinely want to discuss with you and their Dr. what would they be?
       - If you had a magical wand, what would you like to be able to do to maximize your time with your patient?
@@ -37,7 +37,7 @@
          - Do you use eScreening, Virtual Care Manager, or any other questionnaire products?
                - If yes, what are your impressions of those systems?
       - Do you notice the answers change frequently from the last visit when the Veteran was asked the questions?
-      - How are in advance of an appointment do you send questionnaires to the patients?
+      - How far in advance of an appointment do you send questionnaires to the patients?
       - How is the patient notified that they have a questionnaire to complete?
    - If no, why?
    - Do any offices that you frequently refer patients to have pre-appointment digital forms/experiences that you know of?
