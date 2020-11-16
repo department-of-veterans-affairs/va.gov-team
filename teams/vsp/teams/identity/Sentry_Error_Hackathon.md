@@ -58,5 +58,5 @@ Goals:
 - 1530-1600 (ET): Present findings, closing remarks
 
 ## Links
-[Sentry Issue Owner settings](http://sentry.vfs.va.gov/settings/vsp/projects/platform-api/ownership/)
-[Vets API lib SAML Errors](https://github.com/department-of-veterans-affairs/vets-api/blob/9254a93af093aba9ce4651a18e43209c36bbccf9/lib/saml/errors.rb)
+- [Sentry Issue Owner settings](http://sentry.vfs.va.gov/settings/vsp/projects/platform-api/ownership/)
+- [Vets API lib SAML Errors](https://github.com/department-of-veterans-affairs/vets-api/blob/9254a93af093aba9ce4651a18e43209c36bbccf9/lib/saml/errors.rb)
