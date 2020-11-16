@@ -27,6 +27,8 @@ assignees: andreahewitt-odd, shiragoodman
 - DEPO Product Lead (required): **name**
 - Entire VFS team (recommended): **names**
 
+VSP will only invite those specified, so be sure to list your content, IA, accessibility and QA specialists, if applicable.
+
 **Do you anticipate this initiative requiring updates to and/or creation of unauthenticated static content pages?** YES/NO
 
 ## Scheduling
