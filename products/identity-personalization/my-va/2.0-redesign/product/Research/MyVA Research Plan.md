@@ -1,7 +1,7 @@
 # Research Plan for VSA Authenticated Experience: MyVA Redesign November 2020
 
 ## Goals
-This research is to test two mobile versions of the My VA dashboard re-design and gain feedback on the preferred design direction (A vs. B). This includes:
+This research is to compare two mobile versions of the My VA dashboard re-design and gain feedback on the preferred design direction. This includes:
 
 - overall, is there enough relevant information on the dashboard to be valuable
 - can the user find the information that they are looking for effectively
