@@ -52,8 +52,8 @@ _For non-trivial technical solutions, an [engineering design doc](https://github
 
 #### Baseline KPI Values
 - Number of components being updated
-- Time spent adding a component
-- Time spent updating a component
+- Average time to add a component
+- Average time to update a component
 - Satisfaction survey to engineers and designers 
 
 ---
