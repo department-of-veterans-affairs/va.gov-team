@@ -34,7 +34,9 @@ The following guide is a comprehensive guide of Cypress related resources curren
    7. [facilities983](#facilities-983)
    8. [clinicList983](#clinic-list-983)
    9. [slots](#slots)
-4. [Auth](#auth)
+   10. [getVAAppointmentMock](#get-va-appointment-mock)
+   11. [getExpressCareRequestCriteriaMock](#get-express-care-request-criteria-mock)
+   12. [getParentSiteMock](#get-parent-site-mock)
 
 # Cypress & VAOS Helperss <a name="cypress-vaos-helpers"></a>
 
@@ -750,6 +752,82 @@ Returns a data array filled with objects of the following attributes:
     }
 ```
 
-# Auth <a name="auth"></a>
+#### getVAAppointmentMock <a name="get-va-appointment-mock"></a>
 
-Auth functions located within /platform/testing/e2e can be used to perform commonly used auth requests.
+Returns a mock appointment object with the following properties:
+
+```javascript
+return {
+  id: "21cdc6741c00ac67b6cbf6b972d084c1",
+  type: "va_appointments",
+  attributes: {
+    clinicFriendlyName: "Fake",
+    clinicId: "fake",
+    facilityId: "fake",
+    sta6aid: "fake",
+    communityCare: false,
+    vdsAppointments: [
+      {
+        bookingNote: null,
+        appointmentLength: "60",
+        appointmentTime: "fake",
+        clinic: {
+          name: "fake",
+          askForCheckIn: false,
+          facilityCode: "fake",
+        },
+        type: "REGULAR",
+        currentStatus: "fake",
+      },
+    ],
+    vvsAppointments: [],
+  },
+};
+```
+
+#### getExpressCareRequestCriteriaMock <a name="get-express-care-request-criteria-mock"></a>
+
+Requires params for id and schedulingDays. Returns a request eligibility criteria object with the following properties:
+
+```javascript
+return [
+  {
+    id,
+    type: "request_eligibility_criteria",
+    attributes: {
+      id,
+      requestSettings: [],
+      customRequestSettings: [
+        {
+          id: "CR1",
+          typeOfCare: "Express Care",
+          submittedRequestLimit: 2,
+          enterpriseSubmittedRequestLimit: 2,
+          supported: !!schedulingDays,
+          schedulingDays: schedulingDays || [],
+        },
+      ],
+    },
+  },
+];
+```
+
+#### getParentSiteMock <a name="get-parent-site-mock"></a>
+
+Returns a fake facility object with the following properties:
+
+```javascript
+return {
+  id: "fake",
+  type: "facility",
+  attributes: {
+    institutionCode: "fake",
+    city: "fake",
+    stateAbbrev: "FK",
+    authoritativeName: "fake",
+    rootStationCode: "fake",
+    adminParent: true,
+    parentStationCode: "fake",
+  },
+};
+```
