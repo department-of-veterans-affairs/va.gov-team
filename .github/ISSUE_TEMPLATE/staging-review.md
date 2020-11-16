@@ -13,7 +13,7 @@ assignees: andreahewitt-odd, Shiragoodman
 - [ ] Attach all artifacts before requesting the meeting
 - [ ] Link to this issue once created in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) in Slack; tag @ Shira Goodman and @ Andrea Hewitt 
 - [ ] Shira to schedule meeting with VSP reviewers and **requesting team** attendees (as listed below)
-- [ ] At least 2 days before scheduled meeting, you must complete list of artifacts below
+- [ ] At least 4 days before scheduled meeting, you must complete list of artifacts below
 - [ ] Staging Review meeting completed
 - [ ] Practice area reviewers create sub-issues attached to this one with feedback for your team on **feature name**
 - [ ] **Requesting team** completes attached feedback tickets based on definition of done included in each practice area feedback ticket (may differ for each practice area, please refer to attached tickets for further instruction)
