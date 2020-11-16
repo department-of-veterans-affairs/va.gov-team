@@ -16,15 +16,13 @@ _Delete this guidance stanza and any italicized guidance in the template before 
 # Automate API Documentation Initiative Outline
 
 ## Overview
-*A brief description of the product.*
+Automate forms library API documentation updates. Add static typing to forms library to allow teams to make changes more confidently to the forms library. Separate different functionality from a form to allows users more flexibility to building a form 
+
 
 ## Problem Statement
-The Design System Team (DST) believes that VFS teams are not designing and building forms efficiently because there are a lot of support requests in Slack for form related design and development.
-We believe that improving form-related component and pattern documentation will improve the time from launch to production for form applications.
+The Design System Team (DST) believes that VFS teams are not designing and building forms efficiently because there are a lot of support requests in Slack for form related design and development. We believe that improving form-related component and pattern documentation will improve the time from launch to production for form applications.
 
-The existing Forms library is very complex as it has many configuration options. There isn’t any centralized or organized documentation with information on what options are available for a form.  
-It is not clear what options are available because documentation does not have enough details about how features work, what the forms library is capable of and how to use the capability.  
-Even if you know about an option, it isn’t clear what acceptable values are for these configurations. We believe that teams are redoing the same work again b/c they cannot find the forms pattern or option within a form. 
+The existing Forms library is very complex as it has many configuration options. There isn’t any centralized or organized documentation with information on what options are available for a form. It is not clear what options are available because documentation does not have enough details about how features work, what the forms library is capable of and how to use the capability. Even if you know about an option, it isn’t clear what acceptable values are for these configurations. We believe that teams are redoing the same work again b/c they cannot find the forms pattern or option within a form. 
 
 
 
