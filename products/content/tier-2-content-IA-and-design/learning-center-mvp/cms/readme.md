@@ -5,6 +5,17 @@
  -  LC go-to-market strategy: how will users find the Learning Center?
 </details>
 
+## Tuesday November 17
+
+### Agenda
+
+1. Priotity of being able to use "Audience non-beneficiaries" tags in content forms [#3494](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3494)
+1. Backlog
+
+### Action items
+
+1. 
+
 ## Tuesday November 10
 
 ### Agenda
