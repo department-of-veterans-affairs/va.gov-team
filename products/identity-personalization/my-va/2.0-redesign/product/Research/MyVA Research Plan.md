@@ -1,14 +1,16 @@
 # Research Plan for VSA Authenticated Experience: MyVA Redesign November 2020
 
 ## Goals
-This research is to compare two mobile versions of the My VA dashboard re-design and gain feedback on the preferred design direction. This includes:
+This research is to compare two mobile versions of the My VA dashboard re-design and gain feedback on the preferred wireframe direction.  Each version (A and B) contains the same information, just structured differently. We are trying to understand which direction makes the most sense to users. This includes:
 
 - overall, is there enough relevant information on the dashboard to be valuable
-- can the user quickly find the information that they are looking 
+- can the user quickly find the information that they are looking for 
 - does the page structure (scrolling vs navigation) affect ease of visibility
 - can the user easily access and understand any personal updates (claims, health care, or forms)
 - how easily can the user navigate to the sections they are looking for
 - is the new dashboard layout more effective than the current MyVA page
+
+*Note - this is not an A/B test, this is a preference test
 
 ## Background
 Our goal is to create a My VA dashboard design that will improve the online experience for Veterans, by better integrating Veteran-provided data onto the My VA dashboard. Our MVP will focus on surfacing their health care and claims information into widgets and notifications to help Veterans access their critical information and to take action on status updates.
@@ -21,7 +23,6 @@ Our goal is to create a My VA dashboard design that will improve the online expe
 
 ### Overall questions
 - Do Veterans prefer design version A or B?
-```What is different between the two? Are you making micro changes that could be statistically compared, or are you looking at sweeping big changes? It could be really hard to evaluate next steps if you're comparing apples and oranges.```
 - Is there any confusion caused by the status update styles in A vs B design?
 - Can people find what they're looking for on the dashboard?
 - Does the placement of the disability rating make sense to users?
@@ -78,8 +79,7 @@ Recruit for 12 sessions (8 fulfilled sessions showing each user versions A & B) 
 * At least 1 participant who currently receives VA health care
 * At least one person with a disability rating of 70% or greater
 * At least one person with an identified cognitive consideration of PTSD or TBI
-
-```If you're doing A/B testing, you need to have the same profile on both sides, so you need a woman on both sides, a young person on both sides, and older person on both sides, etc. Recommend updating your ask so you are clear that you need 2 of each.``` 
+ 
 
 ### Recruitment requirements
 * All participants must use a mobile device.
@@ -91,7 +91,7 @@ We will not be able to accommodate non-sighted users due to the prototype techno
 ## Timeline 	
 #### Desired Timeline: November 20-30, 2020 
 
-Please schedule sessions for 60 minutes with a 30 minute buffer between sessions.
+Please schedule sessions for 75 minutes with a 30 minute buffer between sessions.
 
 Team Availability | Time (EST)
 ------------------|--------------
