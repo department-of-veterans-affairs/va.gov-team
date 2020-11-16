@@ -3,7 +3,7 @@
 ##### 11/4 - 11/17
 
 ## Frontend
-- [ ] [Statement of truth checkboxes](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14697) (blocked/on hold)
+- [ ] [~Statement of truth checkboxes~](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14697) (blocked/on hold)
 - [ ] [Frontend work to support secondary caregiver only applications] (
 - [ ] [Look into unnesting recent medical care questions in schema](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15160)
 
@@ -27,7 +27,7 @@
        
        \* *more details here*: https://dsva.slack.com/archives/CMJ2V70UV/p1604702251367000
 
-- [ ] Backend work to support secondary caregiver only applciations
+- [x] Backend work to support secondary caregiver only applciations
      | Repo    | Ticket | PR |
      |---------|--------|----|
      |Schema   |        | [537](https://github.com/department-of-veterans-affairs/vets-json-schema/pull/537) |
@@ -39,8 +39,9 @@
      - [Attempt resubmission of PDF on failure](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15147)
 
 ## Design
-- [ ] [Rough draft designs for secondary caregiver flows](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15161)
+- [x] [Rough draft designs for secondary caregiver flows](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15161)
 - [ ] [Discovery plan for 10-10EZ](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14698)
+- [x] Research plan for testing secondary caregviver 
 
 ## PTO
 - Justin: 11/9 - 11/13
