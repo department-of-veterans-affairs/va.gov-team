@@ -1,8 +1,11 @@
 
-# Research Plan for Dependent Verification Workflow for VA Debt Reduction (Forms 686C Dependent Verification Form, 0538 Dependent Verification Letter, and associated process and Veteran mental model)
+# Research Plan for Dependent Verification Workflow for VA Debt Reduction 
+
+Related: Forms 686C Dependent Verification Form, 0538 Dependent Verification Letter, associated VA processes, Veteran mental model and/or customer journey
+
 ## Goals
 ### Product and team
-Working with USDS team lead Steve Kovacs, this research will explore how we might improve the ease with which Veterans maintain an accurate list of their dependents with the VA. The business goal for this research is to develop approaches or product improvements that will reduce the amount of Veteran debt owed to the VA around overpayments based on a change in dependency status, brought about by life events such as divorce, aging, or death. 
+Working with USDS team lead Steve Kovacs, this research explores how we might improve the ease with which Veterans maintain an accurate list of their dependents with the VA. The business goal is to develop approaches or product improvements that will reduce the amount of Veteran debt owed to the VA around overpayments based on a change in dependency status, brought about by life events such as divorce, aging, or death. 
 
 The research lead for this project will be Kevin M. Hoffman. The design lead for this project will be Martha Wilkes. 
 
