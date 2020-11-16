@@ -1,6 +1,6 @@
 ## How We Work
 
-While each team works differently due to its mission, make-up and team-member preference as outlined in their charter, here are key commonalities.
+While each team works differently due to its mission, make-up and team-member preference as outlined in their charter, here are key commonalities and helpful guidance about how we work.
 
 ### Our Delivery Process
 Live Google Sheets version: https://docs.google.com/spreadsheets/d/1izUIMwzl7NRvNwX5jddgUEAX-AlRODa_HEASg4eav6A/edit?usp=sharing
