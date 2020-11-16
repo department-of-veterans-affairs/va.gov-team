@@ -233,6 +233,8 @@ Week 2 of sprint 33
 
 ## Sprint 35 (11/18 – 12/1)
 
+Any outstanding work from sprint 34, plus:
+
 ### My VA redesign
 
 **Design**
@@ -241,13 +243,11 @@ Week 2 of sprint 33
 - Research summary
 - Make design updates for mobile design based on user testing feedback
 
-**Dev**
-
 ### Direct deposit for edu
 
 **PM**
 
-- Hold usability testing platform review #15686
+- Schedule/hold usability testing platform review #15686
 
 **Design**
 
@@ -270,6 +270,8 @@ Week 2 of sprint 33
 - Add error codes for address save failures to GA dashboard #16088
 
 ### Maintenance/bug fixes
+
+Don't include if this is done before the sprint:
 
 - Cache VA profile get_person calls that return 404s #15971
 
