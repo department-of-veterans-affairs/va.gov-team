@@ -41,6 +41,8 @@
 
 ### Navigation/Entry Points
 
+***The following work was done as part of Decision Reviews hub work in early 2020:***
+
 **Top Nav, Header and Footer**
 - No additional options to be added to the top nav, header or footer
 - Consider changing the “File an Appeal” link and label within the top nav (under Disability fly-out) to prioritize the Decision Review process over the legacy appeals process
@@ -48,14 +50,9 @@
   - Change the links to go to the main Decision Review page instead of the legacy appeals page in disability: https://www.va.gov/decision-reviews/
 
 **Decision Reviews Hub**
-- DONE: Add a left nav component to the Decision Reviews content area as either part of this work, or as follow up work, to improve navigation within this section of content.  
+- Add a left nav component to the Decision Reviews content area as either part of this work, or as follow up work, to improve navigation within this section of content.  
   -Left nav was defined for this area previously but should be reviewed and revised as needed based on the addition of this option : https://github.com/department-of-veterans-affairs/vets.gov-team/issues/16360
-- Include a link to this new online form as a child of the Higher-Level Review content page
-  - Link text should closely match H1 of form but should not include form number, i.e. "Request a Higher-Level Review"
 - A link directly to this form should not be added to the hub page at this time
-
-**Higher-Level Review static page**
-- Revise section on how to request an HLR to include information and CTA/button to complete the online form
 
 **Disability Hub**
 - Change the existing “File an Appeal” option to include the Decision Review language – i.e. “File an Appeal or Request a Decision Review” (discuss with writer to finalize)
@@ -66,6 +63,16 @@
   - Entry point from “File a VA disability appeal” page already exists and should remain as is: https://www.va.gov/disability/file-an-appeal/
 - From main Decision Reviews page
   - The main Decision Reviews landing page contains a link to the HLR content page and a PDF download - replace the pdf link with a link to the online form, or add a link to the online form within the content so both options are available. 
+
+
+***Open items to be done with launch of HLR online form:***
+
+**Decision Reviews Left Nav**
+- Include a link to this new online form as a child of the Higher-Level Review content page
+  - Link text should closely match H1 of form but should not include form number, i.e. "Request a Higher-Level Review"
+
+**Higher-Level Review static page**
+- Revise section on how to request an HLR to include information and CTA/button to complete the online form
 
 
 **Crosslinking**<br>
