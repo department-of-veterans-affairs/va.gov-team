@@ -1,25 +1,26 @@
 This lists all formal research with CMS users. Feature-specific research should reside in the cross-disciplinary directory (such as [Editorial Workflow and Assignements](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/content-ops/editorial-workflow/assignments/)), but should be linked to from here. 
 
-#### [WIP] April - May, 2020: Editorial workflow and assignments study 
+#### November, 2020: Claro Design System study 
+
+_VA.gov CMS team: Hayley Evans, Jordana Mello_
+
+* x participants
+* [Research folder]()
+
+
+#### April - May, 2020: Editorial workflow and assignments study 
 
 _VA.gov CMS team: Jordana Mello, Rachek Kauff_
 
-* X participants
+* 5 participants
 * [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/content-ops/editorial-workflow/assignments/README.md)
 
-#### [WIP] February - March, 2020: Content proofing usability study 
+
+#### March, 2020: CMS personas and journey maps 
 
 _VA.gov CMS team: Jordana Mello, Rachek Kauff_
 
-* X participants
-* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/content-proofing-usability-study)
-
-
-#### [WIP] March, 2020: CMS personas and journey maps 
-
-_VA.gov CMS team: Jordana Mello, Rachek Kauff_
-
-* X participants
+* 4 participants
 * [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/cms-personas-journeys)
 
 #### CMS support channels log analysis 
@@ -27,7 +28,7 @@ _VA.gov CMS team: Jordana Mello, Rachek Kauff_
 _VA.gov CMS team: Jordana Mello, Rachek Kauff, Howard Brande_
 
 * [January - February 2020](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/support-channels-log-analysis)
-* [WIP] March - April 2020
+
 
 #### August 22 - 23, 2019: AX operating status 
 
