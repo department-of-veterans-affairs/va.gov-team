@@ -14,17 +14,17 @@ Our objective for this research is to **gather first impressions about the Claro
 * ...
 
 #### What knowledge will make us feel like the research process has been successful?
-Developing an uderstanding of how Claro Admin UI impacts people's experiences in the CMS will show our research process has been successful. In particular, if adjustments to general UI elements needed to be made in order to mitigate the transition to this design system.
+Developing an uderstanding of how Claro Admin UI impacts people's experiences in the CMS will show our research process has been successful. In particular, identifying visual adjustments that would ease the transition to Claro.
 
 ## Method	
 
 **What method of research are you planning?**
-20-minute remote _5 Second Test_, combined with moderated usability test to have users perform relevant tasks in the context of the Claro Admin UI. 
+20-minute remote _Thinking Aloud Test_ in a demi environment with Claro Admin UI installed, followed by the Post-Study System Usability Questionnaire (PSSUQ) and follow-up questions.
 
 This session will not be recorded. We'll use verbatim notes to register the session, followed by synthesized notes on our observations.
 
 **Why this method? How does this methodology help you answer your research questions?**
-We chose the _5 Second Test_ because it is used to capture the first impressions users have of designs within the first five seconds of exposure to it. In order to gather complementary insights, we'll ask participants to perform relevant tasks in the context of Claro Admin UI's look and feel.
+The _Thinking Aloud Test_ was chosen because we're interested in users' thoughts and reactions as they move through the user interface. The _Post-Study System Usability Questionnaire_ is used to measure users' perceived satisfaction (usefulness, information quality, and interface quality) of a system at the end of a usability study.
 
 **Where are you planning to do your research?**
 Online, via Zoom. Remote observers and note takers will be in attendance.
@@ -33,8 +33,9 @@ Online, via Zoom. Remote observers and note takers will be in attendance.
 Demo environment with Claro Admin UI installed.
 
 ## Participants and Recruitment	
-* CMS frequent CMS users: 2 participants.
-* CMS new? sporadic? CMS users: 2 participants.
+* CMS frequent CMS users: 3 participants.
+* CMS new users: 3 participants.
+*...
 
 Interview invitations to be done directly via email and/or Slack.
 
