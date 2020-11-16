@@ -6,7 +6,7 @@ The support tracker is a standardized way to log customer support requests so th
 
 ***
 
-[Support tracking process flow](https://docs.google.com/drawings/d/1cprv0JpMq12q7dic2r9Cq5pP7iVmfX4cPXIbbwf99H0/edit?usp=sharing)
+[Support tracking process flow](https://docs.google.com/drawings/d/1GA9aIKZP-BVE1sPtygQyZ8wGlJOa1crK3E-qpiUYDUM/edit?usp=sharing)
 
 ***
 
