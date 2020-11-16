@@ -1,7 +1,7 @@
 
-# Research Plan for Dependent Verification Workflow for VA Debt Reduction 
+# Research Plan for Dependency Verification Workflow to Reduce Veteran Debt Owed to VA 
 
-Related: Forms 686C Dependent Verification Form, 0538 Dependent Verification Letter, associated VA processes, Veteran mental model and/or customer journey
+Related concepts: Forms 686C Dependent Verification Form, 0538 Dependent Verification Letter, associated VA business processes, Veteran mental model and/or customer journey
 
 ## Goals
 ### Product and team
