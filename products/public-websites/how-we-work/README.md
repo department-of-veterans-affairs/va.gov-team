@@ -3,6 +3,7 @@
 While each team works differently due to its mission, make-up (and team-member preference as outlined in their charter), here are key commonalities.
 
 ### Our Delivery Process
+Live Google Sheets version: https://docs.google.com/spreadsheets/d/1izUIMwzl7NRvNwX5jddgUEAX-AlRODa_HEASg4eav6A/edit?usp=sharing
 
 <img width="812" alt="Screen Shot 2020-11-16 at 4 25 06 PM" src="https://user-images.githubusercontent.com/63107147/99309992-4d8fba80-2828-11eb-8724-35d1673aff8c.png">
 
