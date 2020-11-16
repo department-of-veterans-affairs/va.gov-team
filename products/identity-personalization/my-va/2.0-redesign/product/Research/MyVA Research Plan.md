@@ -10,7 +10,7 @@ This research is to compare two mobile versions of the My VA dashboard re-design
 - how easily can the user navigate to the sections they are looking for
 - is the new dashboard layout more effective than the current MyVA page
 
-*Note - this is not an A/B test, this is a preference test
+*Note - This is a preference test, **not** an A/B test
 
 ## Background
 Our goal is to create a My VA dashboard design that will improve the online experience for Veterans, by better integrating Veteran-provided data onto the My VA dashboard. Our MVP will focus on surfacing their health care and claims information into widgets and notifications to help Veterans access their critical information and to take action on status updates.
