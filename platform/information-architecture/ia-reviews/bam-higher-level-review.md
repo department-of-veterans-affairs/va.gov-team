@@ -51,7 +51,7 @@
 - DONE: Add a left nav component to the Decision Reviews content area as either part of this work, or as follow up work, to improve navigation within this section of content.  
   -Left nav was defined for this area previously but should be reviewed and revised as needed based on the addition of this option : https://github.com/department-of-veterans-affairs/vets.gov-team/issues/16360
 - Include a link to this new online form as a child of the Higher-Level Review content page
-  - Link text should closely match H1 of Form 
+  - Link text should closely match H1 of form but should not include form number, i.e. "Request a Higher-Level Review"
 - A link directly to this form should not be added to the hub page at this time
 
 	
