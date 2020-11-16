@@ -30,6 +30,8 @@ assignees: andreahewitt-odd, shiragoodman
 - DEPO product lead (required): **name**
 - Anyone else from your team who significantly contributed to the artifacts provided (required): **names**
 
+VSP will only invite those specified, so be sure to list your content, IA, accessibility and QA specialists, if applicable.
+
 ## Scheduling
 - Please reference the [VSP Collaboration Meetings Calendar](https://calendar.google.com/calendar/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0%40group.calendar.google.com&ctz=America%2FNew_York) (times shown are ET)
 - Note an available time slot within a recurring "[CALENDAR BLOCK] Review Group Office Hours" slot that works for your team and is at least 2 business days from now
