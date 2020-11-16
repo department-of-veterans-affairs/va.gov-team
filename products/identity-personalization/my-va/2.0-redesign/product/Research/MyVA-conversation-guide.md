@@ -46,7 +46,7 @@ Before we start, a few things I want to mention:
         - How often do you go online to manage your benefits?
         - What do you typically do to manage your benefits online?
     
-4. Do you currently or have you ever filed a claim or appeal with the VA?
+4. Do you currently, or have you ever, filed a claim or appeal with the VA?
     - If user answers no to benefits and claims, ask if they have logged onto va.gov within the last year.
     
 Okay great, for this next question I'm going to share my screen really quick. *Moderator share screen with MyVA*
@@ -186,7 +186,7 @@ Okay, we're now going to move on to another scenario. Imagine you are currently 
     *If they look for appointments in the health care section:*
 
     1. Was it easy or hard to find your upcoming appointment?
-    2. Can you tell me why you think it would be in the healthcare section?
+    2. Can you tell me why you think it would be in the health care section?
 
     **Skip questions 3-4 if prototype is shown second**
 
@@ -244,7 +244,7 @@ Take a look at this page, and let me know your thoughts starting with where you 
 
 * Nametag area/disability rating
 * Claims and appeals/updates
-* Healthcare/updates
+* Health care/updates
 * Benefit applications
 
 1. What are your overall thoughts about this page? 
