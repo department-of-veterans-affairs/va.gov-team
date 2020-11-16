@@ -13,6 +13,19 @@ This does not include research for Appeals projects, which is stored in differen
 
 ------
 ###  2020
+### November 2020
+
+#### November 2 - 4 : Wizard Migration Usability Study
+*Public Websites: Liz Lantz, Christian Valla, Megan Gayle, Josh Kim*
+- 5 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards/discovery/research)
+- **Keywords:** wizard pattern, education benefits, alerts
+
+#### September 17 - November 9 : IRIS / Contact Center Content Process Research
+*Public Websites: Liz Lantz*
+- 31 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/iris)
+- **Keywords:** Call center, contact center, content governance, IRIS, Oracle Service Cloud, help desk, GI Bill help desk, MHV technical support, LEAF
 
 ### October 2020
 
