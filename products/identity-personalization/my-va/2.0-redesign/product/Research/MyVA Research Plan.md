@@ -26,7 +26,7 @@ Our goal is to create a My VA dashboard design that will improve the online expe
 - Is there any confusion caused by the status update styles in A vs B design?
 - Can people find what they're looking for on the dashboard?
 - Does the placement of the disability rating make sense to users?
-- In the claims and healthcare sections, do users understand what is being displayed? Is it enough information?
+- In the claims and health care sections, do users understand what is being displayed? Is it enough information?
 - What information is important for them to see first?
 - What information related to health care, claims and applications/benefits do users want to see?
 - Is any information missing on the dashboard?
@@ -50,7 +50,7 @@ Our goal is to create a My VA dashboard design that will improve the online expe
 
 ## Hypothesis & assumptions
 * Version A will be more slightly more successful than version B.
-Version A has all of the status updates elevate to the top of the page, and we hypothesize it will have less of a cognitive load. Version A has a long scrolling page design so all information is readily accessed, instead of being buried. However, both designs will be of value to the veterans as far as having accesss to thier updates and other important healthcare and claims information.
+Version A has all of the status updates elevate to the top of the page, and we hypothesize it will have less of a cognitive load. Version A has a long scrolling page design so all information is readily accessed, instead of being buried. However, both designs will be of value to the veterans as far as having accesss to thier updates and other important health care and claims information.
 
 Other assumptions include:
 
@@ -67,8 +67,8 @@ Recruit for 12 sessions (8 fulfilled sessions showing each user versions A & B) 
 
 ### Must have for participants
 
-* Are you eligible for/recieve VA healthcare, have active or past claims or recieve any benefits from the VA? (pass = yes)
-    * If participants with healthcare, claims or benefits are too difficult to recruit for, then expand to having logged-in to va.gov within the last year.
+* Are you eligible for/recieve VA health care, have active or past claims or recieve any benefits from the VA? (pass = yes)
+    * If participants with health care, claims or benefits are too difficult to recruit for, then expand to having logged-in to va.gov within the last year.
 
 ### Good to have for participants
 * At least one iOS mobile device owner
