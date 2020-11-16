@@ -17,7 +17,6 @@ Veterans and their families need a trustworthy way to provide feedback for the d
 - Are users able to locate the feedback form easily?
 - Are veterans able to navigate through the form easily?
 - Are veterans empowered to start and complete the form? Do veteran trust that the survey is provided by the VA?
-```what would make them "empowered"? How will you evaluate this?```
 - Do veterans understand the questions and answers that are asked of them?
 - Do veterans understand how to answer each question?
 - Do veterans understand that their survey responses will not be responded to by the VA?
@@ -106,7 +105,7 @@ Testing assets are currently available on the staging environment of VA.gov.
 ## Resources
 
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/medallia/medallia-product-outline.md)
-- Convo Guide
+- [Convo Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/medallia/research/conversation-guide.md)
 - Synthesis 
 - Lessons Learned 
 - Read-Out/Results  
