@@ -390,17 +390,20 @@ Lists **MUST** be marked up appropriately according to the semantics of the list
 #### 3. Form Validation and Feedback
 (See also Form Markup in Part 1)
 
-<ol type="a">
-   <li>Screen reader users <strong>**MUST**</strong> receive either a confirmation message or error message immediately after the form is submitted (silence is bad) through methods such as [3.3.1, 3.3.3]():
-    <ul>
-       <li>Focus is sent to the confirmation/error message OR</li>
-       <li>Focus is sent to the first field with an error (and the error is associated with the field) OR</li>
-       <li>The page &lt;title&gt; contains the confirmation/error message (if the user is sent to a new page or if the page reloads when the form is submitted).</li>
-      </ul></li>
-   <li>Error messages about an input (as opposed to the form as a whole) <strong>**MUST**</strong> be associated with that input (e.g. via <label> or aria-describedby). 3.3.3</li>
-   <li>Error messages <strong>**MUST**</strong> describe the error in enough detail to allow users to fix the error. 3.3.3</li>
-   <li>Forms with legal, financial, or data functions <strong>**MUST**</strong> protect users from errors by one of the following: 1) allow actions to be reversible, 2) automatically check and correct errors, or 3) allow users to review/confirm/correct submissions. 3.3.4</li>
-</ol>
+1. Screen reader users **MUST** receive either a confirmation message or error message immediately after the form is submitted (silence is bad) through methods such as | [WCAG 2.0 Level A - 3.3.1](https://www.wuhcag.com/error-identification/), [WCAG 2.0 Level AA - 3.3.3](https://www.wuhcag.com/error-suggestion/):
+    * Focus is sent to the confirmation/error message OR
+    * Focus is sent to the first field with an error (and the error is associated with the field) OR
+    * The page `<title>` contains the confirmation/error message (if the user is sent to a new page or if the page reloads when the form is submitted).
+    
+2. Error messages about an input (as opposed to the form as a whole) **MUST** be associated with that input (e.g. via `<label>` or `aria-describedby`). | [WCAG 2.0 Level AA - 3.3.3](https://www.wuhcag.com/error-suggestion/)
+
+3. Error messages **MUST** describe the error in enough detail to allow users to fix the error. | [WCAG 2.0 Level AA - 3.3.3](https://www.wuhcag.com/error-suggestion/)
+
+4. Forms with legal, financial, or data functions **MUST** protect users from errors by one of the following | [WCAG 2.0 Level AA - 3.3.4](https://www.wuhcag.com/error-prevention-legal-financial-data/): 
+    * allow actions to be reversible
+    * automatically check and correct errors
+    * allow users to review/confirm/correct submissions. 
+
 
 #### 4. Custom Widgets
 
