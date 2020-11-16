@@ -9,6 +9,8 @@
 
 **IA Request:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/14193
 
+**Mock-ups with documentation:** []()
+
 **On this page:**
 - [User flows](#flows)
 - [IA structure, URLs and breadcrumbs](#ia)
@@ -29,8 +31,8 @@ Wizard functionality
     - If a wizard routes a user to a different application that shares the same wizard, the user will not need to complete the wizard again. 
     - If a wizard routes a user to a different application with a different wizard, the user will need to complete that application's wizard. 
 3. Start over - Once the user has either completed or skipped/ignored the wizard, the /introduction page of the application is refreshed with content about that application along with an option for the user to "start over".  When the user clicks this option, it should function like the browser 'Back' button - they should be returned to the original /introduction page with the wizard completely reset (i.e. their previous answers are cleared). This option only appears on the /introduction page.
-    - If the user did the wizard on application A, continued to application A, clicking "start over" would return them to the default state of application A
-    - If the user did the wizard on application A, was routed to application B, clicking "start over" would return them to the default state of application A
+    - If the user did the wizard on application A, continued to application A, clicking "start over" or using the broswer back button would return them to the default state of application A
+    - If the user did the wizard on application A, was routed to application B, clicking "start over" or using the broswer back button would return them to the default state of application A
 4. Abandon application - If a user abandons their application by either navigating away from an unsaved form, choosing to start a new application, or their saved application has expired,  their wizard status should be reset.  When starting the application again, they would need to complete the wizard again. 
 5. Resume saved application - If a user resumes a saved application, they would not need to complete the wizard again.  The saved in progress application will return them to the appropriate place within the application form flow. 
 
