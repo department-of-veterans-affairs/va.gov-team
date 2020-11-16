@@ -4,7 +4,7 @@ While each team works differently due to its mission, make-up (and team-member p
 
 ### Our Delivery Process
 
-
+<img width="812" alt="Screen Shot 2020-11-16 at 4 25 06 PM" src="https://user-images.githubusercontent.com/63107147/99309992-4d8fba80-2828-11eb-8724-35d1673aff8c.png">
 
 
 ### Role of the DEPO Product Owner (Source:Andrew Fichter)
