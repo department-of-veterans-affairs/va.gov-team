@@ -15,21 +15,28 @@ Our work includes
 A product is defined as a set of related features that drive specific outcomes with vets or other audiences. They typically are built with a cluster of content types.  
 
 Products owned by Facilities team
-1. VAMC system (eg www.va.gov/pittsburgh-health-care). Eventually housing 1200+ VHA facilities across 150 VAMC systems. 
-1. Facility status for VBA facilities, NCA facilities, and Vet Centers (each of these represent stubs of future products)
+1. **VAMC system** (eg www.va.gov/pittsburgh-health-care). Eventually housing 1200+ VHA facilities across 150 VAMC systems. 
+1. **Facility status** for VBA facilities, NCA facilities, and Vet Centers (each of these represent stubs of future products)
 
 Products owned by Public Websites 
-1. Homepage and Global UX elements such as the header, and homepage alerts
-1. Benefits hubs (www.va.gov/health-care and 10 other benefits hubs)
-1. The Benefits outreach hub at https://www.va.gov/outreach-and-events/
-1. VA forms www.va.gov/find-forms
-1. Resources and support www.va.gov/resources
-1. Campaign Landing Page 
+1. **VA.gov megamenu** (and possibly in the future, footer)
+1. **VA.gov homepage** 
+1. **Benefits hubs** (www.va.gov/health-care and 10 other benefits hubs)
+1. The Benefits **Outreach hub* at https://www.va.gov/outreach-and-events/
+1. **Resources and support** www.va.gov/resources
+1. **Campaign Landing Page** 
+
+Products owned by Decisions Tools team
+1. **VA forms** www.va.gov/find-forms (formerly owned by Public Websites) 
 
 Content libraries that are shared across products
-1. Alert blocks and homepage alert banners (owned primarily by Public Websites, but other products can create alert blocks)
-1. Multimedia library (videos, images, PDFs)
-1. Promo blocks
+1. **Banners and alerts** (owned primarily by Public Websites, but other products can create alert blocks)
+1. **Media library** (videos, images, PDFs)
+
+Products in the queue
+1. **Cemetery**
+1. **Vet Center**
+1. **Regional Office**
 
 
 ## A guide to CMS Documentation 
@@ -63,8 +70,8 @@ Product Support
 - Clarence Maeng, Delivery Manager - Slack `@Clarence Maeng`
 - Steve Wirt, Tech Lead - Slack `@Steve Wirt`
 
+Program management
 - Jeff Brauer, Program Manager - Slack `@Jeff Brauer`
-
 
 Slack channels:
 - [#cms-support](https://dsva.slack.com/channels/cms-support) 
