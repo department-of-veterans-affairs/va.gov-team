@@ -44,6 +44,7 @@ Goals:
 1. Create PRs for as many of the error corrections that we can make
 
 ## Agenda
+-Note: Soft agenda to guide us, but this is not rigid, we will take the most productive path
 - 1200-1230 (ET): Food, talk through any last minute requirements
 - 1230-1300 (ET): SSO Error Overview
   - Agenda Overview
