@@ -14,8 +14,9 @@ design.va.gov.
 design.va.gov is a Jekyll site. The documentation in it is manually updated. The
 repo can be found at
 [`vets-design-system-documentation`](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/).
-It's deployed daily by <this Jenkins job> to the S3 bucket from which the static
-site is served.
+It's deployed daily by [this Jenkins
+job](http://jenkins.vfs.va.gov/job/deploys/job/vets-gov-autodeploy-vets-design-system-documentation/)
+to the S3 bucket from which the static site is served.
 
 ## Motivation
 We want to serve the component library documentation from Storybook on
@@ -32,28 +33,26 @@ code lives in
 [`vets-website`](https://github.com/department-of-veterans-affairs/vets-website),
 or its own repo, as we may move it later.
 
-For now, however, we're planning on moving the component library to its own repo.
-
 ## Design
 - Storybook will be deployed to the S3 bucket from which design.va.gov is served
-  - **Question:** How will we be able to ensure deploying the Jekyll site won't
-    override the Storybook directory? What [`aws
-    s3`](https://docs.aws.amazon.com/cli/latest/reference/s3/) command do we
-    use?
+  - It will have its own directory in the bucket: `storybook/`
+  - This directory will be `--exclude`d from the Jekyll site deploy's `aws s3`
+    command to copy the files over to avoid deleting Storybook
+  - This will be the only directory which the Storybook deploy will copy files
+    to
 - Deployment will happen at the end of a successful `master` branch build if
   there have been changes to the library
-  - This means continual deployment, which is a slight deviation of the pattern
-    we use for all other deploys
-  - If the component library is not in its own repo (which is not the plan for
-    now), the check will be performed by a script which:
+  - This means continual deployment, which is a deviation of the pattern we use
+    for all other deploys
+  - If the component library is not in its own repo, the check will be performed
+    by a script which:
     - Checks for the commit hash of the last time Storybook was deployed
       - We'll have to save it to the deployed site like we do with `BUILD.txt`
     - Runs `git diff --name-only HEAD <last-hash>`
     - Iterating through the output in search of the component library directory
 
 ## Risks
-- Reverting changes to the Jekyll site without reverting Storybook changes?
-- Reverting Storybook changes without reverting changes to the Jekyll site?
+- ??
 
 ## Alternatives
 
