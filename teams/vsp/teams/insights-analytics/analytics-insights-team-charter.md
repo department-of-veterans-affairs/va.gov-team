@@ -101,8 +101,8 @@ Empower Veteran Facing Services teams to make holistic data-informed decisions f
 #### Stand-up
 Check in on people and product progress
 
-- Zoom M, T, W, F @ 10:00am ET
-    - 15 min
+- Zoom M, T, F @ 11:30am ET
+    - 15-30 min
 - Slack Up Th @ 10:00am ET
 - 3 Question Format (based on team objectives): What did I accomplish yesterday? What will I do today? Any impediments?
 
