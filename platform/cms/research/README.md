@@ -21,7 +21,7 @@ _VA.gov CMS team: Jordana Mello, Rachek Kauff_
 _VA.gov CMS team: Jordana Mello, Rachek Kauff_
 
 * 4 participants
-* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/cms-personas-journeys)
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research/cms-personas-journeys)
 
 #### CMS support channels log analysis 
 
