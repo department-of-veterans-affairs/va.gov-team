@@ -28,13 +28,14 @@ The goal of this usability study is to assess how easily participants locate, un
 - Users may want more information about the DD change process
 
 ### Method
-We will engage in moderated usability testing conducted remotely using Zoom. Remote testing is currently the only viable option, but the method should yield acceptable observations on which to base findings. Participants will be recruited using Perigean. These users will be provided links to the DD-EDU feature in staging (or corresponding prototypes). The sessions will be recorded, and observers and notetakers may be in attendance.
+We will engage in moderated usability testing conducted remotely using Zoom. Remote testing is currently the only viable option, but the method should yield acceptable observations on which to base findings. Participants will be recruited using Perigean. These users will be asked to explore VA.gov (home), then will be provided links to a prototype of the DD-EDU feature (likely to include some protion of Profile). The sessions will be recorded, and observers and notetakers may be in attendance.
 
 #### The process
 - There will be a quick warm-up and introduction to usability testing
-- The user will be provided a link to VA.gov staging
-- The user will be given a test account password and email, and the participant will log in
+- The user will be aked to navigate to VA.gov 
 - The moderator will outline a scenario (use case) for the participant to follow
+- The participant will aske to locate the DD feature
+- After a brief period exploring a pth to DD, the users will be provided a link to the DD prototype
 - The user will potentially proceed through review and editing of direct deposit info
 - There will be a quick Q/A and wrap-up
 
@@ -51,9 +52,11 @@ Recruit for 5 fulfilled sessions using the following criteria:
 - At least 1 participant 35 or under and 1 participant over 55
 - At least one person that does not have a college degree (to include enlisted Veterans)
 - At least one person that has a college degree (to include of officer Veterans)
-- At least one person who lives in a rural or remote area
 - At least one person who lives in a major metropolitan area
 - At least one person with a disability rating of 80% or greater
+
+**Please consider**
+- At least one person who lives in a rural or remote area
 
 **Recruitment requirements**
 - The participants have Zoom downloaded prior to the session
