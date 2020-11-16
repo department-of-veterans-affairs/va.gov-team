@@ -22,9 +22,9 @@ The goal of this usability study is to assess how easily participants locate, un
 
 #### Hypotheses
 - Users may have some difficulty locating their direct deposit information
-- Users will rarely, some occasionally, change theri direct deposit information
+- Users will rarely, some occasionally, change their direct deposit information
 - Participants will accept and easily navigate the DD edit function
-- Participants will have some questions/hesitatation about **two** distinct Direct Deposit features
+- Participants will have some questions/hesitation about **two** distinct Direct Deposit features
 - Users may want more information about the DD change process
 
 ### Method
@@ -93,7 +93,7 @@ Recruit for 5 fulfilled sessions using the following criteria:
 ### Resources
 - [Project brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/edu-direct-deposit)
 
-- [Conversation guide]() `Avalable soon`
+- [Conversation guide]() `Avialable soon`
 
 - [Session notes]() (Available after research sessions.)
 
@@ -105,7 +105,7 @@ Recruit for 5 fulfilled sessions using the following criteria:
 
 - [Mockups](https://xd.adobe.com/view/532272b2-b423-4e1b-a8c6-d1a583da3d37-0671/)
 
-- [Prototypes]() `Avalable soon`
+- [Prototypes]() `Available soon`
 
 - [Feature flow diagrams](https://xd.adobe.com/view/b1df79ab-e636-4aea-9929-a8ee3d06e2a9-e48c/)
  
