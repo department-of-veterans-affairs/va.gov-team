@@ -5,7 +5,7 @@ While each team works differently due to its mission, make-up and team-member pr
 ### Our Delivery Process
 Live Google Sheets version: https://docs.google.com/spreadsheets/d/1izUIMwzl7NRvNwX5jddgUEAX-AlRODa_HEASg4eav6A/edit?usp=sharing
 
-<img width="812" alt="Screen Shot 2020-11-16 at 4 25 06 PM" src="https://user-images.githubusercontent.com/63107147/99309992-4d8fba80-2828-11eb-8724-35d1673aff8c.png">
+<img width="812" alt="Screen Shot 2020-11-16 at 5 12 43 PM" src="https://user-images.githubusercontent.com/63107147/99314402-0f49c980-282f-11eb-8048-e92894885395.png">
 
 
 ### Role of the DEPO Product Owner (Credit: Andrew Fichter)
