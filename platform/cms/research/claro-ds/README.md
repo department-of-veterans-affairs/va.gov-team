@@ -8,7 +8,7 @@ The VFS-CMS is VA.gov's content management system that provides the structured c
 Our objective for this research is to **gather first impressions about the Claro Admin UI and identify opportunities to mitigate impacts during the transition from the current Drupal design system to Claro Admin UI**. 
 
 #### Solution Hypothesis
-...
+* ...
 
 #### Research Questions
 * ...
@@ -35,7 +35,6 @@ Demo environment with Claro Admin UI installed.
 ## Participants and Recruitment	
 * CMS frequent CMS users: 3 participants.
 * CMS new users: 3 participants.
-*...
 
 Interview invitations to be done directly via email and/or Slack.
 
