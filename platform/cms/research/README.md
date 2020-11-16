@@ -13,7 +13,7 @@ _VA.gov CMS team: Hayley Evans, Jordana Mello_
 _VA.gov CMS team: Jordana Mello, Rachek Kauff_
 
 * 5 participants
-* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/content-ops/editorial-workflow/assignments/README.md)
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/content-ops/editorial-workflow/assignments)
 
 
 #### March, 2020: CMS personas and journey maps 
