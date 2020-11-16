@@ -6,6 +6,7 @@
 * What doesn’t work as well as it could?
 * What problems does that create for the Veteran?
 * What problems does that create for Veterans Affairs?
+* Do you feel like there are specific aspects of the Application Request to Add and/or Remove Dependents (21-686c) or the Status of Dependents Questionnaire (21-0538) that work or don't work well? Why? 
 * Do you believe that Veterans remember to manage dependent benefits with the VA? Why or why not?
 What ways do Veterans do business with VA that may be good opportunities to remind them to update their dependents’ information?
 * Do you think there are unique aspects to Veterans that have been overpaid due to inaccurate information about dependents that would help us identify them?
