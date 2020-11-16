@@ -22,7 +22,7 @@ Products owned by Public Websites
 1. **VA.gov megamenu** (and possibly in the future, footer)
 1. **VA.gov homepage** 
 1. **Benefits hubs** (www.va.gov/health-care and 10 other benefits hubs)
-1. The Benefits **Outreach hub* at https://www.va.gov/outreach-and-events/
+1. The Benefits **Outreach hub** at https://www.va.gov/outreach-and-events/
 1. **Resources and support** www.va.gov/resources
 1. **Campaign Landing Page** 
 
