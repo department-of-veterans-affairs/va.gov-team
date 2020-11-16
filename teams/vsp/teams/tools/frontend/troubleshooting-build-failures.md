@@ -1,31 +1,29 @@
-## Context 
-  - Documenting developer experience can be used to identify issues with specific parts of the platform and create a cross discipline domain langauge
-    - Objective of documenting developer experience includes identifying friction points in common processes and tasks
-    - Current DX is nebulous and difficult to discuss with a common language across practices: UX, PM, and dev
-    - Development work can be described in terms of common behaviors like change management and business processes
-  - Important to have other disciplines engage the DX improvement process - UX + PM offer contextualization to the business and can help facilitate gathering feedback from users 
-  - This document focuses on front end concerns 
-  
-## What are builds and how do they fit into the overall development process? 
+- <details>
+	<summary>What are builds and how do they fit into the overall development process?</summary>
+	
   - The output of software development is features for users. Vets-website utilizes a **continuous integration** (CI) process to deliver new features to users. CI is an umbrella term that encompasses 
 	  - Change management - e.g. tracking of all changes made to the code using git, facilitating and enforcing peer review 
 	  - Quality control - e.g. running automated tests against every change
 	  - Build process - includes all of the tasks to transform developer source code into the deliverable that users run on their computers 
 	  - Feedback - providing actionable feedback to developers about each of these pieces
-  - The **focus** of this document is **developer feedback** par of the platform CI. The current feedback from the platform CI has a few broad issues 
+  - The **focus** of this document is **developer feedback** part of the platform CI needed to troubleshoot build failures. The current feedback from the platform CI has a couple of broad issues 
 	  - **It's not always clearly actionable**: developers are often told that a failure has occurred but not how to resolve it. There can be many research steps involved to determine why something failed 
     - **The feedback is not pushed to developers**: when a pull request is submitted, the CI takes an indeterminant amount of time to through all of its validation stages and there's no estimate or notification to the engineer when the process is complete 
       - There can be significant cognitive friction associated with troubleshooting CI failures especially for users who are not familiar with the stack. There is not a clear mental model new engineers can use to understand everything the CI does.
   - Developers should be able to focus on hard problems related to their domain not on understanding the platform's CI tech stack
+</details>
   
-### Jenkins jobs 
+- <details>
+	<summary>Jenkins jobs</summary>
 ![Overview of vets-website Jenkins jobs](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-jenkins-overview.png)
   - Jenkins runs the test, build, and deploy scripts for the va.gov frontend 
   - The **Testing** job runs all of the build and testing scripts. The [Jenkinsfile](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile) configures the workflow. 
   - Some steps are optionally run: 
     - CMS triggered: does not run the app build- uses the last successful app release
-    - Master branch change triggered: does not run the Cache Drupal content step
-#### Auto deploy job
+    - Master branch change triggered: does not run the Cache Drupal content step</details>
+    
+  - <details>
+	<summary>Auto deploy job</summary>
   - [Auto deploy job](http://jenkins.vfs.va.gov/job/deploys/job/vets-gov-autodeploy-vets-website/) summary shows the job history and has links to starting a new auto deployment. **Never** rerun an autodeploy job- always start a **new** auto deploy job. 
     ![Auto deploy job summary](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-auto-deploy-summary.png)
     - You can usually rule out an ops vs fe tools issue by looking at what stage failed. 
@@ -33,7 +31,7 @@
     ![Auto deploy job steps](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-autodeploy-summary-steps.png)
     - The auto deploy detail view has links to the logs and what triggered the build e.g. va-cms-bot is what starts the content deployments 
     - Most of the information on this view is not correct. 
-    ![Auto deploy job details](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-autodeploy-details.png)
+    ![Auto deploy job details](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-autodeploy-details.png)</details>
     
 #### Testing job
   - [Testing job](http://jenkins.vfs.va.gov/job/testing/job/vets-website/) summary shows the testing job history. 
