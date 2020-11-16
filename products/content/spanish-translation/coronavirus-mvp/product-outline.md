@@ -58,10 +58,12 @@ Congress has recently asked VHA to provide  COVID-19 content (and other essentia
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
 - Objective: Meet Veterans' and their family members' need for COVID-19 information about VA health care and benefits in Spanish.
-  - Key result: Users select the option to translate the COVID-19 FAQs page into Spanish.
-  - Key result: Users report a satisfactory experience with the translated content.
+  - Key result 1: Provide high-quality translation of the coronavirus FAQs page and coronavirus research volunteer list page/form by January 20, 2020.
+  - Key result 2: Users report 
+- Objective: Gather data around usage of, and need for, VA content in Spanish.
   - Key result: 
 
+  
 
 ---
 
