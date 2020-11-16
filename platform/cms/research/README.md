@@ -5,7 +5,7 @@ This lists all formal research with CMS users. Feature-specific research should 
 _VA.gov CMS team: Hayley Evans, Jordana Mello_
 
 * x participants
-* [Research folder]()
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research/claro-ds)
 
 
 #### April - May, 2020: Editorial workflow and assignments study 
