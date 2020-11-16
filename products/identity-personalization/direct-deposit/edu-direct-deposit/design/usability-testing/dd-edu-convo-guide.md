@@ -48,14 +48,14 @@ OK, we'll be doing a couple of things today:
 - What interactive elements does the user look for (e.g. menu, links, footer...)?
 - What content/section does the user expect to find a direct deposit feature?
 
-<!--
-
 ## Usability tasks
 User goes to prototype
 - I have a link in chat to the prototype we're testing; **please click on it.** (Clicks on prototype link to DD-EDU prototype)
 - For the purpose of this test, we'll say you've moved.
-- We'll be using made-up scenarios that may not necessarily apply to you. We'll be completing a form (or forms), and you're free to use whatever names and dates come to mind--fake names and numbers are fine. 
-- Nothing will be submitted because this is a prototype. However, we're recording this, so please don't use real social security numbers--1234567890 should work in those cases.
+- We'll be using made-up scenarios that may not necessarily apply to you. We'll be filling-out a small form (or forms), and you're free to use whatever info comes to mind--fake numbers are fine. 
+- Nothing will be submitted because this is a prototype. However, we're recording this, so please don't use real account numbers--1234567890 etc. should work.
+
+<!--
 
 ### Task 1 / Chapter 36 wizard / 5 minutes
 User determines if 28-8832 is the sole form to use to apply for career and education benefits
@@ -95,13 +95,13 @@ User jumps to VR&E wizard, then the 28-1900 form
 - Does the confirmation screen satisfy the user regarding confirmation and next steps?
 - Where are users confused by the similarities of the two forms?
 
--->
-
 ## Final thoughts
-- If this were an actual application, what would expect to happen next?
+- If this were real information, what would expect to happen next?
 - What are your thoughts about the questions at the start of the form?
 - What on the site would you do/look at next?
 - How could we make things more clear?
+
+-->
 
 ---
 
