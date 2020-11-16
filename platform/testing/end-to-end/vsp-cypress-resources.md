@@ -393,7 +393,7 @@ export function initVAAppointmentMock() {
 
 Imports: Appointment helpers are typically imported altogether as the parent package using `import * as newApptTests from './vaos-cypress-schedule-appointment-helpers';` then invoked according to the function name, i.e. `newApptTests.chooseTypeOfCareTest(param);`.
 
-#### chooseTypeOfCareTest
+#### chooseTypeOfCareTest <a name="choose-type-of-care-test"></a>
 
 Purpose: Sets a type of care test via passing a param, i.e. 'Primary care', 'Sleep medicine', 'Eye care'.
 
@@ -408,7 +408,7 @@ export function chooseTypeOfCareTest(label) {
 }
 ```
 
-#### chooseVAFacilityTest
+#### chooseVAFacilityTest <a name="choose-va-facility-test"></a>
 
 Purpose: Sets a VA facility by default to Cheyenne, WY.
 
