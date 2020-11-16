@@ -41,16 +41,17 @@ The [complete list of research questions](https://github.com/department-of-veter
 ## Key Findings
 
 1. None of the contact center teams we spoke with publish or update IRIS FAQ content.
-2. The contact center teams we spoke with are primarily authoring and managing internal content for contact center agents; most do not handle any external, Veteran-facing content.
-3. Three of the teams have a dedicated content staff. Content management is an ancillary responsibility for the other 3 teams.
-4. Only IRIS administrators can publish or update IRIS content. 
-5. A new IRIS FAQs hasn't been added in at least 7 years, and a request to update an IRIS FAQ hasn't been submitted in at least 2 years.
-6. One team (HRC) has a mature content management process with formalized routing and feedback/publication loops.
-7. We identified 3 teams responsible for Oracle FAQs; this new responsibility was assigned to 2 teams as a result of the decision to retire the system.
+2. When IRIS FAQs were initially created in 2002, SMEs from the business lines were responsible for creating and maintaining the content.  All information available suggests that they created the original FAQ content, but did not do any further work on the FAQs after the initial creation.
+3. The contact center teams we spoke with are primarily authoring and managing internal content for contact center agents; most do not handle any external, Veteran-facing content.
+4. Three of the teams have a dedicated content staff. Content management is an ancillary responsibility for the other 3 teams.
+5. Only IRIS administrators can publish or update IRIS content. 
+6. A new IRIS FAQs hasn't been added in at least 7 years, and a request to update an IRIS FAQ hasn't been submitted in at least 2 years.
+7. One team (HRC) has a mature content management process with formalized routing and feedback/publication loops.
+8. We identified 3 teams responsible for Oracle FAQs; this new responsibility was assigned to 2 teams as a result of the decision to retire the system.
    - NCC recently took ownership of the FAQs, and hasn't touched them.
    - The NCA external content team believes they *would* be responsible for these moving forward; no current owner of this content today. The NCA executive correspondence updated some NCA FAQs based on VA.gov content and then migrated them to KnowVA via eGain.
    - The Education, Client Applications team has always managed the GI Bill help desk FAQs, and has begun the process of migrating them to KnowVA.
-8. Content governance is a pain point for teams across VA contact centers. We heard repeatedly that many teams struggle with tracking down SMEs to verify information, and that there is a sense of a lack of content ownership beyond the initial ask to have the content created.
+9. Content governance is a pain point for teams across VA contact centers. We heard repeatedly that many teams struggle with tracking down SMEs to verify information, and that there is a sense of a lack of content ownership beyond the initial ask to have the content created.
 
 ## Supplemental Findings
 
