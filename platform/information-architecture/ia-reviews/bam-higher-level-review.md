@@ -54,7 +54,9 @@
   - Link text should closely match H1 of form but should not include form number, i.e. "Request a Higher-Level Review"
 - A link directly to this form should not be added to the hub page at this time
 
-	
+**Higher-Level Review static page**
+- Revise section on how to request an HLR to include information and CTA/button to complete the online form
+
 **Disability Hub**
 - Change the existing “File an Appeal” option to include the Decision Review language – i.e. “File an Appeal or Request a Decision Review” (discuss with writer to finalize)
 - Change the link to go to the main Decision Review page instead of the legacy appeals page in disability: https://www.va.gov/decision-reviews/
