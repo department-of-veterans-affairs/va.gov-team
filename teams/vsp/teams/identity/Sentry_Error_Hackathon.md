@@ -35,9 +35,14 @@ Requirements:
   - [Grafana SSO Board link](http://grafana.vfs.va.gov/d/ioicprRMk/ssoe-launch?orgId=1&from=now-6h&to=now&var-api_version=v1)
 
 ## Agenda
-- 1200-1230: Food
-- 1230-1000: SSO Error Overview
+- 1200-1230 (ET): Food, talk through any last minute requirments
+- 1230-1300 (ET): SSO Error Overview
   - Agenda Overview
   - Where are the errors generated from (source code)
     - Internal Errors, external errors, missing errors...oh my!
   - How to test changes
+  - Create issues in [Zenhub/Github](https://github.com/department-of-veterans-affairs/va.gov-team/issues) 
+- 1300-1400 (ET): Error documentation/trace errors to code
+- 1400-1430 (ET): Choose/create tickets for error improvements; Rank and talk about documentation 
+- 1430-1530  (ET): Work on tickets to fix errors
+- 1530-1600 (ET): Present findings, closing remarks
