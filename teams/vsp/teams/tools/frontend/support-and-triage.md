@@ -24,6 +24,10 @@ During the sprint, you should monitor the following Slack groups for issues:
 
 _Your primary responsibility is to remain available to quickly acknowledge and triage issues in these channels. You can enlist help from the FE tools team if needed to maintain this availability._
 
+### Monitor deployment
+
+See [this](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/tools/frontend/troubleshooting-build-failures-DX.md) document about monitoring and troubleshooting deployments
+
 ### Support requests
 
 Support requests include every interaction you have with a VSF team member. Even trivial interactions should be tracked for oversight and process improvement. 
