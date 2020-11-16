@@ -57,7 +57,7 @@ The research will be piloted with Kevin Walsh, VFS-CMS Product Manager
 
 ## Resources	
 * [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms)
-* [Conversation Guide]()
+* [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research/claro-ds/conversation-guide)
 * [Readout/Results]()
 
 ------
