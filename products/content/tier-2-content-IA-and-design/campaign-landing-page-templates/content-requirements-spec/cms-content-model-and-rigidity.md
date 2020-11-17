@@ -75,13 +75,17 @@ For MVP, this will need to be a manual copy/paste.
 
 ## 6. Stories (optional)
 
-**Q:** Is the plan still to link out to other stories? see also "8. Events" below. 
+**Q:** Is the plan still to link out to other websites, eg www.blogs.va.gov? 
 
 **A:** 
 
-**Q:** If the plan is still to link out to other stories, can we standardize around the 140 character count used in other places here? 
+**Q:** If so: can we standardize around the 140 character count used in similar places in this design, instead of 100?
 
 **A:**
+
+**Q:** If not: that means editors will need to add stories to CMS, and we'll need to decide where to pull these teaser texts from. 
+
+**A:** 
 
 ## 7. Downloadable resources (optional)
 
@@ -91,11 +95,11 @@ The most challenging part of this will be some new content attributes for downlo
 
 **A:**
 
-**Q:** Has this gone through accessibility review? Eg "Download (PDF)"
+**Q:** Has this gone through accessibility review? Eg "Download (PDF)" is probably not accessible. 
 
 **A:**
 
-**Q:** Can we standardize around the 140 character count used in other places here? 
+**Q:** Can we standardize around the 140 character count used in other places here, instead of 100? 
 
 **A:**
 
@@ -124,7 +128,7 @@ The rigidity of "either 0 FAQs or 3-10" is somewhat complex and expensive to imp
 
 **A:**
 
-**Q:** The "Q&A group" component allows Q&As to be displayed as accordions, or not, via a boolean. We assume this is still desired. 
+**Q:** The "Q&A group" component allows Q&As to be displayed as accordions, or not, via a boolean. We assume this is option is still desired. 
 
 **A:**
 
@@ -137,7 +141,7 @@ We should try to standardize this with the display of the "Connect with us" comp
 
 Currently, all but the phone number are contained within the component, albeit with slightly different wording. 
 
-**Q:** Can this be standardized with Connect with us on Benefits Landing Pages?
+**Q:** Can this be standardized with Connect with us on Benefits Landing Pages? 
 
 **A:**
 
