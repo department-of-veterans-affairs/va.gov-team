@@ -139,9 +139,9 @@ You don't have to work through this whole form, just the first question and we c
 
 ## Post-Task Interview - 10 minutes
 
-That’s it for the tasks, but I have a few general questions in reference to both of these forms?
+That’s it for the tasks, but I have a few general questions in reference to both of these forms.
 
-- Do you feel confident submitting this feedback form?
+- Do you feel confident submitting these feedback forms?
 - Have there been any experiences you’ve had on VA.gov that would cause you to want to provide feedback?
 - Who do you think is responsible for creating this feedback form?
 - What do you think happens after you submit feedback?
