@@ -29,7 +29,7 @@ There are a few things I need to mention before we start:
 - Would you tell us a little bit about yourself? Your service experience, where you live, general experiences with the VA...
 - Do you receive direct deposit payments (of any kind) from VA?
 - (If "yes") How did you set up your direct deposit? if you had to change it, what was that experience like?
-- (if "no") Etcetera...
+- (if "no") How do you receive payments from VA?
 - How often do you visit the eBenefits site? How about VA.gov?
 
 OK, we'll be doing a couple of things today: 
@@ -37,71 +37,65 @@ OK, we'll be doing a couple of things today:
 - Then we'll go to the prototype of the new feature we're testing
 
 ## Wayfinding
-### User screenshares / 3 minutes
+### User screenshares / 5 minutes
 - **Please go to VA.gov.**
 - **Now we're ready to start.** OK, now could you share your screen with us?
-- You heard there was a place on VA.gov that you could change your direct deposit info, where would you look?
+- You heard there was a place on VA.gov that you could change your direct deposit info for your education payments, where would you look?
 - This is the actual home page; you're free to click on anything.
 
 #### Things to look for:
 - What is the user's thought process?
 - What interactive elements does the user look for (e.g. menu, links, footer...)?
-- What content/section does the user expect to find a direct deposit feature?
+- What content/section does the user expect to find the educational direct deposit feature?
+- Where does the user's search end? Do they make it to the DD landing page? Do they consider logging-in?
 
 ## Usability tasks
-User goes to prototype
+User is directed to the prototype.
 - I have a link in chat to the prototype we're testing; **please click on it.** (Clicks on prototype link to DD-EDU prototype)
 - For the purpose of this test, we'll say you've moved.
 - We'll be using made-up scenarios that may not necessarily apply to you. We'll be filling-out a small form (or forms), and you're free to use whatever info comes to mind--fake numbers are fine. 
 - Nothing will be submitted because this is a prototype. However, we're recording this, so please don't use real account numbers--1234567890 etc. should work.
 
-<!--
-
-### Task 1 / Chapter 36 wizard / 5 minutes
-User determines if 28-8832 is the sole form to use to apply for career and education benefits
-- Please take a **look at this page and see if you qualify for Chapter 36 or other benefits.**
-- (When user gets to the time-limit Q) Does this disqualify you? Let's say that it's been only six months.
-
-### Task 1A / Chapter 31 wizard / 5 minutes
-Users with a disability rating may jump to the 21-1900
-- So do you know why you were sent here? 
-- How is this different from the previous page/screen/form?
-- Please **look at this page and see if you qualify.** 
-- (When user gets to the time-limit Q) Does this disqualify you? Let's say that it's been only two years.
+### Task 1 / View direct deposit info / 5 minutes
+User reviews direct deposit information available for one or both payment types.
+- Please take a **look at this screen and find the direct deposit information for educational payments.**
+- Describe what else is on this screen? ...What other payments types do you see?
+- Why do you think there are two sets of payment info?
+- What could you do if you thought you were the victim of fraud?
 
 #### Things to look for:
-- Does the user read/understand the intro copy?
-- Are the mechanics of the wizard intuitive? What other (wizard) features are users expecting?
-- Do any users see or use the "skip to form" link?
-- Can the user determine from the wizard if the form is right for them? Will they (and when) jump to the 28-1900?
-- Are users thrown-off by the final "do you want to apply" question at the end of wizards?
-- Where are users confused by the similarities of the two wizards?
+- How quickly does the user find the DD info?
+- How do users react to **two** types of DD info on the screen? Why do they thing there are two?
+- Can users quickly locate the "fraud" box at the bottom of the screen?
 
-### Task 2 / Completing the form / 3 minutes
-User completes the 28-8832 or 28-1900 form
-- (If prompt needed) OK, looks like you qualify, so now **take the next step to apply for benefits.**
-- (ALT) Seems you don't qualify according to our questions; but what if you were told to complete the form any way? Please **go ahead and apply for benefits.** 
-
-### Task 2A / Completing the alternate form / 3 minutes
-User jumps to VR&E wizard, then the 28-1900 form
-- (If prompt needed) OK, looks like you qualify, so now **take the next step to apply for benefits.**
-- (ALT) Seems you don't qualify according to our questions; but what if you were told to complete the form any way? Please **go ahead and apply for benefits.** 
-- (At end of form) How was this form different from the last form?
+### Task 2 / Change direct deposit info / 10 minutes
+User changes the direct deposit info to a "new" savings account.
+- Let's say you moved and you had a new savings account. **Update the information for your educational payments.**
+- How can you be sure of the account and routing numbers?
+- How often do you expect you'd need to update your info? 
+- If this were real information, what would expect to happen after you updated?
 
 #### Things to look for:
-- Do users choose to sign in? Or do they prefer to submit the form unauthenticated?
-- Is the flow of the form intuitive? What language trips-up the user?
-- Do users review their submission info? Do they understand the intended function of the accordions?
-- Does the confirmation screen satisfy the user regarding confirmation and next steps?
-- Where are users confused by the similarities of the two forms?
+- Do users immediately use the correct edit function (education)?
+- Do users find the inline editing easy-to-use?
+- Do users understand the tell-me-more accordion? Is the info regarding account and routing numbers clear and understandable?
+- Are users satisfied with the success messaging?
+
+### Task 3 / One payment type only / 5 minutes
+User advances to a screen showing only compensation and pension direct deposit info.
+- Please take a **look at this screen and find the direct deposit information for educational payments.**
+- What would you do if you thought this was an error?
+- Let's say you know this is right, and you don't get educational payments. How do you feel about showing the message?
+
+#### Things to look for:
+- How do users react to the "You don't receive payments" messaging?
+- What alternatives (if any) would users expect when they don't receive one or the other type of payment?
+- Would users gravitate toward the View Payment History link at all?
 
 ## Final thoughts
-- If this were real information, what would expect to happen next?
-- What are your thoughts about the questions at the start of the form?
+- Where could you find a record of payments made to you? What other features might be helpful on this screen?
 - What on the site would you do/look at next?
 - How could we make things more clear?
-
--->
 
 ---
 
