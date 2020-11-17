@@ -1,4 +1,4 @@
-# COVID-19 Patient Manager MVP Description for VDIF Team
+# COVID-19 Patient Manager MVP Description
 ## Problem statement
 COVID-19 is a novel disease that presents myriad challenges to clinicians caring for patients who have or may have COVID-19. Caring for these patients requires clinicians to keep up with new clinical guidelines, rapidly evolving inpatient data, outpatient symptoms monitoring and other patient-generated data, and an increasing volume of telehealth appointments. Helpful tools exist and/or are being developed (e.g., clinical decision support applications that provide recommendations at the point of care, outpatient symptoms monitoring applications, telehealth managers); however, they are not well integrated into the electronic health record, which is the centerpiece of clinician workflow. 
 ## Solutions
