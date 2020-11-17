@@ -2,13 +2,19 @@
 
 **November 2020 Discovery**<br>
 
-## Goals
+## Goal
 
-[...] 
+The goal of this study is to get Vet Center Client feedback on high level designs and concepts that attempt to position Vet Centers in a way that reflects actual client experiences and opinions.
 
 ### Research questions
 
-- [...] 
+Do clients think the designs:
+- accurately portray a Vet Center?
+- accurately prioritze the highest value factors of Vet Centers?
+- differentiate Vet Centers from other VA facilities?
+- provide enough information in order to visit or call?
+What words resonate most with clients?
+Are there improvements to the designs that should be considered for MVP or future iterations?
 
 ### Hypothesis 
 
