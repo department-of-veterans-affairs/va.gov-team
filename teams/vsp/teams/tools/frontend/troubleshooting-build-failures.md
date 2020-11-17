@@ -49,8 +49,10 @@
         ![Testing job failure test detail](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-testing-job-failure-tests-view.png)
     ![Testing job failure](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-testing-job-failure.png)</details>
 
-  
-## Typical process for deploying features 
+## Troubleshooting 
+
+<details>
+	<summary>Typical process for deploying features</summary>
 
    - Developers pull the entire code base onto their computers to make their changes. This enables them to run their application locally for testing
   - Once a change has been made locally, they bundle the changes together into a feature branch. This is a code change request that represents the differences between the main code branch (which is deployed to production every day) and their feature branch. Feature branches are part of git. 
@@ -75,9 +77,10 @@
     - The required reviews UI is the provides developers with an overview of the change approval 
     - It's summarizes manual and automated approvals 
     - Once all approvals are met, the developer can click the Squash and Merge button on the reviews UI to close out their pull request and merge their change into master 
-    - Squash and merge is a specific type of merging supported by git - every change made to a branch is called a commit, and when a feature branch is merged into the master branch, we like to have developers "squash" their changes into a single commit before it's merged into master. This keeps the change history cleaner 
+    - Squash and merge is a specific type of merging supported by git - every change made to a branch is called a commit, and when a feature branch is merged into the master branch, we like to have developers "squash" their changes into a single commit before it's merged into master. This keeps the change history cleaner.</details> 
       
-## Typical exception flow
+<details>
+	<summary>Typical exception flow</summary>
 - Developer is notified through the Required Reviews UI that the continuous integration failed 
     - Developer turns on SOCKS proxy and clicks details link 
     - The SOCKS proxy requires browser configuration during initial set up and is ran as a command line app in the terminal. The command is cryptic (not user friendly):  ssh socks -D 2001 -N
@@ -86,9 +89,10 @@
 - Jenkins provides a view of each of the stages of the CI validation. The stage that failed is marked with a red x. Developers can click on that to see a log of the process that triggered the failure along with an error message
 	- A few troubleshooting steps can happen at this point
 		- Lint, security, and Unit tests are usually simple failures. The errors are straight forward and easy to understand and running the tests locally will always give the same result as the CI. To find the command to run, they can refer to the vets-website readme or to the log (e.g. the example above ran npm --no-color run lint). Often the developer will not want to run the command ran by the CI- the commands documented in the readme will provide better output for developers
-		- Integration tests (accessibility, end to end) and build failures are generally harder to troubleshoot. Their logs can span many hundreds of lines, their error outputs usually only give clues to why something failed, and it can be unclear if the failure was caused by the developer's change or an issue with the build script itself. Usually these failures will not manifest when locally testing
+		- Integration tests (accessibility, end to end) and build failures are generally harder to troubleshoot. Their logs can span many hundreds of lines, their error outputs usually only give clues to why something failed, and it can be unclear if the failure was caused by the developer's change or an issue with the build script itself. Usually these failures will not manifest when locally testing.</details>
     
-## Common CI exception types 
+<details>
+	<summary>Common CI exception types</summary>
   - Lint failure 
 		- Linting enforces the code style of vets-website (e.g. spacing, indentation, order of operations). These failures are usually very atomic and usually can be corrected automatically by software. 
 		- The way vets-website is set up, linting is ran as part of the commit process locally. It's sufficiently fast enough to not interfere with the git commit process. Also most editors support auto correcting linting errors so linting failures are not common in CI. Some engineers don't use auto correction in their editing tools
@@ -103,17 +107,19 @@
   - Build failures 
 		- Build failures generally occur for two reasons: 
 			- There was something internally inconsistent about overall code. Linting generally catches errors in a single file while a build failure signals that there is something wrong with the way the files work together. 
-			-  There was something wrong with an external system (e.g. querying the Drupal CMS failed). These failures are often the hardest to troubleshoot because they require a deep understanding of the build process itself. Currently our build failure logging is not very sophisticated 
+			-  There was something wrong with an external system (e.g. querying the Drupal CMS failed). These failures are often the hardest to troubleshoot because they require a deep understanding of the build process itself. Currently our build failure logging is not very sophisticated.</details>
 			
-## Handling production deployment failures 
+<details>
+	<summary>Handling production deployment failures</summary>
   - Frontend tools team is responsible for resolving production deployment failures. **The website must be deployed every business day**.
   - Since many teams rely on this, failures should be handled with **proactive communication**
     - Stakesholders current watch the #vfs-engineers channel for failures announcement- acknowledge a failure as soon as possible 
     - Proactively update status of failure resolution. It's good practice to link to the jobs you are monitoring or waiting for. 
     - Escalate failures as needed to engineering leadership. 
-  - The autodeploy will wait until the latest master build finishes. Keeping the [master branch](http://jenkins.vfs.va.gov/blue/organizations/jenkins/testing%2Fvets-website/activity?branch=master) job passing is a good way to avoid delaying the production deployment 
+  - The autodeploy will wait until the latest master build finishes. Keeping the [master branch](http://jenkins.vfs.va.gov/blue/organizations/jenkins/testing%2Fvets-website/activity?branch=master) job passing is a good way to avoid delaying the production deployment. </details>
       
-## Summary of feedback UIs 
+<details>
+	<summary>Summary of feedback UIs</summary>
   - Command line logs 
 		- The most low level output of our processes 
 		- We have a high level of control over what gets output 
@@ -127,4 +133,4 @@
 		- Relies on a webhook to communicate failures / successes for approval management: https://developer.github.com/v3/repos/hooks/
 		- We may have some ability to customize what gets displayed here (e.g. we might be able to convey a summary of the failure) 
   - #vfs-engineers
-  	- production deployment failures are announced here 
+  	- production deployment failures are announced here</details>
