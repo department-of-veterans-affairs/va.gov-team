@@ -16,6 +16,8 @@ We'd like to know if the documentation is meeting your needs, and welcome your f
 
 * [How does accessibility fit into our product lifecycle?](#how-does-accessibility-fit-into-our-product-lifecycle)
 
+* [VSA accessibility on-boarding](#vsa-accessibility-on-boarding)
+
 * [VSA accessibility reviews](#vsa-accessibility-reviews)
 
 * [Accessibility resources](#accessibility-resources)
@@ -56,6 +58,11 @@ We'd like to know if the documentation is meeting your needs, and welcome your f
 #### QA
 * UX QA techniques to evaluate accessibility and usability: manual processes, Web Vitals, CrUX dashboard
 * Accessibility and 508 compliance processes before and after deployment
+
+
+### VSA accessibility on-boarding
+
+Information coming soon!
 
 
 ### VSA accessibility reviews
