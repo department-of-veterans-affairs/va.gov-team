@@ -11,7 +11,8 @@ Our objective for this research is to **gather first impressions about the Claro
 * ...
 
 #### Research Questions
-* ...
+* How useful and usable will CMS users find the Claro UI?
+* Are there particular aspects of the Claro UI our team should consider as we transition to the new system? More specifically, are there any changes needed to the UI? Are there areas which will require training for users?
 
 #### What knowledge will make us feel like the research process has been successful?
 Developing an uderstanding of how Claro Admin UI impacts people's experiences in the CMS will show our research process has been successful. In particular, identifying visual adjustments that would ease the transition to Claro.
