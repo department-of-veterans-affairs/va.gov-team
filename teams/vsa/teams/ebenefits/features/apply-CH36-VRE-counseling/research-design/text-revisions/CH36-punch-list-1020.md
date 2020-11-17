@@ -68,7 +68,7 @@ Revisions to text, formatting, features and design based on:
 - [ ] Remove "I know this is the form I need" section
 - [ ] Add "Is this the form I need?" section to match prototype
 - [ ] Change question: "Did you receive an other than dishonorable discharge?" to "Did you receive a discharge status other than dishonorable?"
-- [ ] Change all stop/alert message boxes within wizard from blue to light gray (#F1F1F1}
+- [ ] Change all stop/alert message boxes within wizard from blue to light gray (#F1F1F1)
 - [ ] Change link in second alert box (discharge question) to: "Learn more about how to apply for a discharge upgrade"
 - [ ] Add link in years of separation alert box: "Learn more about VR&E eligibility"
 
@@ -92,11 +92,11 @@ Revisions to text, formatting, features and design based on:
 - [ ] Revise all text on Communication pref screen to match prototype
 
 ### VA form 22-1900 confirmation screen
-- [ ] Remove "Thank you for submitting your application" from blue box
+- [ ] ~~Remove "Thank you for submitting your application" from blue box~~  Keep
 - [ ] Add "What happens after I apply?" text block above "How long..." section
 - [ ] Confirm with SMEs that processing takes one week
 - [X] Confirm 800 number(s): Number is 1-800-827-1000 per [fact sheet](https://www.benefits.va.gov/BENEFITS/factsheets/serviceconnected/CH31FactSheet.pdf)
-- [ ] Change paragraph at botom of page to: "Please call our toll-free hotline at 800-827-1000. We’re here Monday through Friday, 8:00 am to 
+- [ ] Change paragraph at bottom of page to: "Please call our toll-free hotline at 800-827-1000. We’re here Monday through Friday, 8:00 am to 
 8:00 pm ET."
 
 ---
