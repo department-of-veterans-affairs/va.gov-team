@@ -11,7 +11,7 @@ Problem: Mobile Facility Locator Map is not interactive and missing key informat
 - How can display useful information for each map location,independently from the List view?
 - How can we design this information to be accessible with screen readers?
 
-[Mobile Exploration] https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/hackathon-2020.md
+[Mobile Exploration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/hackathon-2020.md)
 
 
 **When searching for PTSD treatment on VA.gov...**
