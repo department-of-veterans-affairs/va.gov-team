@@ -1,6 +1,8 @@
-# Cypress Overview & Guide
+# Cypress Resources Overview & Guide
 
-The following guide is a comprehensive guide of Cypress related resources currently active within VSP.
+This guide is a comprehensive guide of Cypress related resources currently active within VSP (as of 11/2020).
+
+The following helpers and mocks are currently used within Cypress tests on `vets-website`. In addition to their directories, the purpose, an import method, and a reference of the function is supplied.
 
 # Table of Contents
 
