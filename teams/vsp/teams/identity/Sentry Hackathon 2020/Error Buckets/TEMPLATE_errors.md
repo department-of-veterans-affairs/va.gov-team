@@ -12,6 +12,8 @@ Table of contents
 Error Label
 ============
 
+**Label Description**: Description here
+
 - [Error Name]()
   - Error Level, criticality, do we need to resolve this within some SLA?
   - Description of error
