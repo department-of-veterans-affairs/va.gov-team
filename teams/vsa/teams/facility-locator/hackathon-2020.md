@@ -16,7 +16,7 @@ Problem: Mobile Facility Locator Map is not interactive and missing key informat
 
 **When searching for on VA.gov**
 
-Problem: VA.gov chronically presents more information to a user before they ask for it, creating visual problems, information overload and congnitive processing issues, e.g. Covid allerts causing wayfinding obstacles.
+Problem: VA.gov often presents more information than a user needs and before they need it. This creates visual problems, information overload and congnitive processing issues, e.g. Covid allerts causing wayfinding obstacles.
 - How might reduce cognitive load for our users?
 - How might we help focus users to accomplish a task with less noise?
 
