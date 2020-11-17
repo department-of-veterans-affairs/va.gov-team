@@ -36,12 +36,12 @@
 
 **Goals:**
 1. Every Identity team member should feel comfortable explaining each of the errors inside Sentry
-  - This may come in the form of a collection of error documentation for the Identity team
-  - Clear understanding of each of the Sentry Errors that the Identity team is responsible for
-1. Document research and resolution flows for as many errors/groups of errors as we can
-1. Ensure current errors have the appropriate level assigned to them (warning, info, etc.)
-1. Document a "parking lot" to ensure we can continue the work required for all team members to feel comfortable with the errors that being reported
-1. Create PRs for as many of the error corrections that we can make
+    1. This may come in the form of a collection of error documentation for the Identity team
+    2. Clear understanding of each of the Sentry Errors that the Identity team is responsible for
+2. Document research and resolution flows for as many errors/groups of errors as we can
+3. Ensure current errors have the appropriate level assigned to them (warning, info, etc.)
+4. Document a "parking lot" to ensure we can continue the work required for all team members to feel comfortable with the errors that being reported
+5. Create PRs for as many of the error corrections that we can make
 
 ## Buckets
 The following is a breakdown of the current `vsp-identity` issues into high level categories that should be helpful for consolidating and addressing the issues.
@@ -59,7 +59,7 @@ The following is a breakdown of the current `vsp-identity` issues into high leve
 These 8 errors don't fall into any of the above buckets and need to be resolved individually.
 
 ## Agenda
--Note: Soft agenda to guide us, but this is not rigid, we will take the most productive path
+Note: Soft agenda to guide us, but this is not rigid, we will take the most productive path
 - 1200-1230 (ET): Food, talk through any last minute requirements
 - 1230-1300 (ET): SSO Error Overview
   - Agenda Overview
@@ -75,6 +75,12 @@ These 8 errors don't fall into any of the above buckets and need to be resolved 
 ## Links
 - [Sentry Issue Owner settings](http://sentry.vfs.va.gov/settings/vsp/projects/platform-api/ownership/)
 - [Vets API lib SAML Errors](https://github.com/department-of-veterans-affairs/vets-api/blob/9254a93af093aba9ce4651a18e43209c36bbccf9/lib/saml/errors.rb)
+
+Sentry Error Links:
+  - [MVI errors](http://sentry.vfs.va.gov/organizations/vsp/issues/?environment=production&groupStatsPeriod=14d&project=3&project=4&query=is%3Aunresolved+assigned%3A%23vsp-identity+level%3Aerror+message%3A%22MVI%3A%3AErrors%22&statsPeriod=14d)
+  - [keepalive errors](http://sentry.vfs.va.gov/organizations/vsp/issues/?groupStatsPeriod=14d&project=3&project=4&query=is%3Aunresolved+assigned%3A%23vsp-identity+level%3Aerror+message%3A%22SSOe+error%3A%22&statsPeriod=14d)
+  - [non-errors](http://sentry.vfs.va.gov/organizations/vsp/issues/?environment=production&groupStatsPeriod=14d&project=3&project=4&query=is%3Aunresolved+assigned%3A%23vsp-identity+%21level%3Aerror&statsPeriod=14d)
+  - [to be resolved](http://sentry.vfs.va.gov/organizations/vsp/issues/?environment=production&groupStatsPeriod=14d&project=3&project=4&query=is%3Aunresolved+assigned%3A%23vsp-identity+level%3Aerror+%21message%3A%22SSOe+error%3A%22+%21message%3A%22MVI%3A%3AErrors%22&statsPeriod=14d)
 
 ## Issue Creation Instructions
 - All changes to which we want to make to the errors should start with an issue being created [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues).
