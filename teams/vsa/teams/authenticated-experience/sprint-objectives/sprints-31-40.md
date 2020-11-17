@@ -239,7 +239,7 @@ Any outstanding work from sprint 34, plus:
 
 **FE**
 
-- Add 2FA prompt for when someone is LOA3 but not 2FA and is eligible for direct deposit #16255
+- Add 2FA prompt for when someone is LOA3 but not 2FA and is eligible for direct deposit #16218
 
 ### My VA redesign
 
