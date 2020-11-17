@@ -7,17 +7,17 @@
 - **Location**: Virtual/Zoom
 - **Attendee information**: [Join Zoom Meeting](https://zoom.us/j/93025140718)
 
-Background:
+**Background:**
 - Sentry Error reporting is an excellent solution to ensure the VSP Identity team is aware of all potential systemic issues regarding SSO. Over time the people who created the rules for the metrics, errors, and logs have rolled onto other projects. It is time for the error reporting to be reviewed again to ensure all new functions are reporting errors correctly and also to modify old error reporting to ensure any systemic issues are resolved as quickly as possible.
 
-Scope:
+**Scope:**
 - This hackathon is restricted towards errors that are currently being reported by all SSO functions. If an error is not reporting into Sentry, or is not reporting required details to ensure the error can be investigated for a potential fix, then **it is** in scope of this exercise.
 - Error reporting from downstream systems is also in scope, with the understanding we may be limited as to the action that can be taken to remediation any discrepancies.
 - Error reporting for SSO from ID.me, MHV, EAuth/ISAM and DSLogon.
 - Out of scope: Errors which do not provide information directly about any of the SSO functions.
 - Note: This exercise may result in some tickets that require research and coordination with other teams, this is fine, but the main focus is to document all error improvements, then break it out by responsibility. A portion of the hackathon is going to be focused on documententing where we are via issues in Github [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues). We will then pivot towards picking out some of the tickets and writing code to improve them.
 
-Participant Requirements Before Hackathon Kickoff:
+**Participant Requirements Before Hackathon Kickoff:**
 - [Sentry Access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md#request-access) - [Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key) for how to obtain access to several internl solutions. Typically requires a few days lead time to gain access. 
   - This facilitates the requirement of having SOCKS proxy access to internal VA tools, follow the instructions in the [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key).
 - Zenhub Access - Request from PM, ensure you have access to the Identity Team board [here](https://app.zenhub.com/workspaces/vsp-identity-5f5bab705a94c9001ba33734/board?labels=sso-login&repos=133843125)
@@ -34,7 +34,7 @@ Participant Requirements Before Hackathon Kickoff:
     - [Prometheus Link](http://prometheus-prod.vfs.va.gov:9090/prometheus/graph)
   - [Grafana SSO Board link](http://grafana.vfs.va.gov/d/ioicprRMk/ssoe-launch?orgId=1&from=now-6h&to=now&var-api_version=v1)
 
-Goals:
+**Goals:**
 1. Every Identity team member should feel comfortable explaining each of the errors inside Sentry
   - This may come in the form of a collection of error documentation for the Identity team
   - Clear understanding of each of the Sentry Errors that the Identity team is responsible for
