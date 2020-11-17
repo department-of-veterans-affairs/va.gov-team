@@ -1,18 +1,19 @@
 # TEMPLATE Errors
 
+[Sentry Query Link]()
+
 About: This page serves as the template for the different error labels that we create during the hackathon. In this about section, describe what the error in this page is about. Each error page should use the following to get started with documenting the errors we encounter.
 
 Table of contents
 =================
 
-  * Error Label
   * Label Description
   * [List error names]()
 
-Error Label
-============
+## Label Description 
+[Description here]
 
-**Label Description**: Description here
+## Errors
 
 - [Error Name]()
   - Error Level, criticality, do we need to resolve this within some SLA?
