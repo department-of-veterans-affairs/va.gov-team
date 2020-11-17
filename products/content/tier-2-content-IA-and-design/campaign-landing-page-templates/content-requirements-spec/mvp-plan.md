@@ -14,6 +14,9 @@ By end of December ...
 - Product: Have at least one VA stakeholder build out a demo Campaign Landing page with available panels to provide UX/AX feedback
 
 
+<b> Questions: </b>
+- What FE effort will be needed to accomplish our MVP goals?  Will those resources be available (given Transformers and R&S)
+- 
 
 
 | Task.                         | Status                                                                                    
