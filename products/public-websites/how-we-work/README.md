@@ -2,6 +2,18 @@
 
 While each team works differently due to its mission, make-up and team-member preference as outlined in their charter, here are key commonalities and helpful guidance about how we work.
 
+### Our Portfolio Board
+
+https://github.com/department-of-veterans-affairs/va.gov-team/projects/15
+
+### Our GitHub Team Sites 
+
+- Public Websites
+
+- [Search & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/search-discovery/team-charter.md)
+
+- Decision Tools
+
 ### Our Delivery Process
 Live Google Sheets version: https://docs.google.com/spreadsheets/d/1izUIMwzl7NRvNwX5jddgUEAX-AlRODa_HEASg4eav6A/edit?usp=sharing
 
