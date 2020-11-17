@@ -34,8 +34,8 @@
   - Production deployment is triggered by the auto deploy job
   - Most of the work happens in the **testing** job 
     - runs all of the build and testing scripts
-    - This [Jenkinsfile](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile) configures the workflow</details>
-    - The bulk of the logic is in [this](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/common.groovy) groovy file
+    - This [Jenkinsfile](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile) configures the workflow
+    - The bulk of the logic is in [this](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/common.groovy) groovy file</details>
   
     
 <details>
