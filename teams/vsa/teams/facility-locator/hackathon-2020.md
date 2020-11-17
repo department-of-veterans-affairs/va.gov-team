@@ -19,6 +19,7 @@ Problem: Mobile Facility Locator Map is not interactive and missing key informat
 Problem: VA.gov chronically uses more words than are necessary to communicate information, creating visual problems and congnitive processing issues, e.g. Covid allerts causing wayfinding obstacles.
 - How might reduce cognitive load for our users?
 - How might we help focus users to accomplish a task with less noise?
+
 [UXPin screens](https://preview.uxpin.com/c300973e45a11d90a87d54bc788f6461da080480#/pages/134295035/simulate/sitemap?mode=i)
 
 ---
