@@ -1,11 +1,11 @@
 # Welcome to the Identity Team Sentry Hackathon
 
 ### Table of contents
-  * [Getting Started](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/identity/Sentry%20Hackathon%202020/README.md#Getting%20Started)
-  * [Scope](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/identity/Sentry%20Hackathon%202020/README.md#Scope%20of%20Hackathon)
-  * [Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/identity/Sentry%20Hackathon%202020/README.md#Goals)
-  * [Agenda](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/identity/Sentry%20Hackathon%202020/README.md#Agenda)
-  * [Error Buckets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/identity/Sentry%20Hackathon%202020/README.md#Error%20Buckets)
+  * [Getting Started](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/identity/Sentry%20Hackathon%202020/README.md#getting-started)
+  * [Scope](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/identity/Sentry%20Hackathon%202020/README.md#scope-of-hackathon)
+  * [Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/identity/Sentry%20Hackathon%202020/README.md#goals)
+  * [Agenda](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/identity/Sentry%20Hackathon%202020/README.md#agenda)
+  * [Error Buckets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/identity/Sentry%20Hackathon%202020/README.md#error-buckets)
 
 ### Getting Started
 The hackathon event is broken into buckets of errors which the team reviews within Sentry and other locations. The error buckets have been broken out in this folder. Review the descriptions of each one below to determine where the error information is stored. This is a temporary location for this event only. Once we have all the errors and proper troubleshooting steps documented then we will move them to another area of this repo. If you find an error related to SSO that is not yet documented in this folder please use this [Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/identity/Sentry%20Hackathon%202020/Error%20Buckets/TEMPLATE_errors.md) as a guide for all error bucket breakouts.
