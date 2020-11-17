@@ -10,10 +10,11 @@
 	    - **Required peer reviews** that leverage [codeowners](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/codeowners.md)
 	    - Quality control like running **required automated tests** against every change
 	  - **Build process** - includes static content and webapp builds 
-	  - **Feedback views** - provides actionable feedback to developers about each of these pieces</details>
+	  - **Feedback views** - provides actionable feedback to developers about each of these parts</details>
 	  
 <details>
 	<summary>Current state of vets-website CI</summary>
+	
   - The **focus** of this document is **developer feedback** part of the platform CI needed to troubleshoot build failures. The current feedback from the platform CI has a couple of broad issues 
 	  - **It's not always clearly actionable**: developers are often told that a failure has occurred but not how to resolve it. There can be many research steps involved to determine why something failed 
     - **The feedback is not pushed to developers**: when a pull request is submitted, the CI takes an indeterminant amount of time to through all of its validation stages and there's no estimate or notification to the engineer when the process is complete 
