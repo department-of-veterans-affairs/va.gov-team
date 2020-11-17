@@ -235,6 +235,12 @@ Week 2 of sprint 33
 
 Any outstanding work from sprint 34, plus:
 
+### Profile
+
+**FE**
+
+- Add 2FA prompt for when someone is LOA3 but not 2FA and is eligible for direct deposit #16255
+
 ### My VA redesign
 
 **Design**
