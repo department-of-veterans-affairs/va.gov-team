@@ -89,7 +89,7 @@ At least:
 
 ## Timeline
 
-- Study dates: December 1 - 3, 2020  
+- Study dates: November 30 - December 3, 2020  
 - Pilot session: will be held on Nov 24, 2020 
 - Session length: 1 hour
 
