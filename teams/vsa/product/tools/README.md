@@ -25,6 +25,10 @@ These are some common commands you might find useful:
 1. Navigate to folder via command line 
 1. Run the sprint report tool - `ruby sprint-report.rb` and follow the prompts
 1. Open up the new sprint-report.html file with your issues
-1. Paste your issues into your sprint report. You'll still need to indicate which epics your tickets belong to.
+1. Add your issues to [this spreadsheet](https://docs.google.com/spreadsheets/d/1SVoqZvAEfQxQxT2ZjZ5C7vH2Drim9NNYCKCmJJnlqcM/edit#gid=1262994286) to do any clean-up
+  - Replace "open" and "closed" with "Incomplete" and "Complete" 
+  - Indicate which epics your issues belong to
+  - Ensure issues are estimated
+1. Paste your issues into your sprint report and fix formatting
 
 </details>
