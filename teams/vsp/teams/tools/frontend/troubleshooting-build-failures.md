@@ -3,6 +3,9 @@
 <details>
 	<summary>What are builds and how do they fit into the overall development process?</summary>
 	
+  - Va.gov is a static site
+    - html, js, and css are built and deployed to S3
+    - requests for pages and assets are routed through the reverse proxy to S3 
   - Vets-website is deployed through a [**continuous integration** (CI)](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment) process.
   - Vets-website CI is a change management process that performs / provides
 	  - **Change tracking** with [git](https://www.git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F) 
@@ -28,10 +31,11 @@
 	
 ![Overview of vets-website Jenkins jobs](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-jenkins-overview.png)
   - Jenkins runs the test, build, and deploy scripts for the va.gov frontend 
-  - The **Testing** job runs all of the build and testing scripts. The [Jenkinsfile](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile) configures the workflow. 
-  - Some steps are optionally run: 
-    - CMS triggered: does not run the app build- uses the last successful app release
-    - Master branch change triggered: does not run the Cache Drupal content step</details>
+  - Production deployment is triggered by the auto deploy job
+  - Most of the work happens in the **testing** job 
+    - runs all of the build and testing scripts
+    - This [Jenkinsfile](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile) configures the workflow
+  
     
 <details>
 	<summary>Auto deploy Jenkins job</summary>
@@ -54,6 +58,9 @@
     ![Testing job details](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-testing-job-detail.png)
         ![Testing job failure test detail](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-testing-job-failure-tests-view.png)
     ![Testing job failure](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-testing-job-failure.png)</details>
+    - Some steps are optionally run in the testing job: 
+    	- CMS triggered: does not run the app build- uses the last successful app release
+    	- Master branch change triggered: does not run the Cache Drupal content step</details>
 
 ## Troubleshooting 
 
@@ -87,6 +94,7 @@
       
 <details>
 	<summary>Typical exception flow</summary>
+	
 - Developer is notified through the Required Reviews UI that the continuous integration failed 
     - Developer turns on SOCKS proxy and clicks details link 
     - The SOCKS proxy requires browser configuration during initial set up and is ran as a command line app in the terminal. The command is cryptic (not user friendly):  ssh socks -D 2001 -N
@@ -99,6 +107,7 @@
     
 <details>
 	<summary>Common CI exception types</summary>
+	
   - Lint failure 
 		- Linting enforces the code style of vets-website (e.g. spacing, indentation, order of operations). These failures are usually very atomic and usually can be corrected automatically by software. 
 		- The way vets-website is set up, linting is ran as part of the commit process locally. It's sufficiently fast enough to not interfere with the git commit process. Also most editors support auto correcting linting errors so linting failures are not common in CI. Some engineers don't use auto correction in their editing tools
@@ -117,6 +126,7 @@
 			
 <details>
 	<summary>Handling production deployment failures</summary>
+	
   - Frontend tools team is responsible for resolving production deployment failures. **The website must be deployed every business day**.
   - Since many teams rely on this, failures should be handled with **proactive communication**
     - Stakesholders current watch the #vfs-engineers channel for failures announcement- acknowledge a failure as soon as possible 
@@ -126,6 +136,7 @@
       
 <details>
 	<summary>Summary of feedback UIs</summary>
+	
   - Command line logs 
 		- The most low level output of our processes 
 		- We have a high level of control over what gets output 
