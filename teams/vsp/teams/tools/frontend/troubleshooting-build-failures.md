@@ -34,7 +34,7 @@
   - Production deployment is triggered by the auto deploy job
   - Most of the work happens in the **testing** job 
     - runs all of the build and testing scripts
-    - This [Jenkinsfile](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile) configures the workflow
+    - This [Jenkinsfile](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile) configures the workflow</details>
   
     
 <details>
