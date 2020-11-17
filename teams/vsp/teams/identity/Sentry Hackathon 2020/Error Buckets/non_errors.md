@@ -1,20 +1,22 @@
-# TEMPLATE Errors
+# Non-errors
 
-[Sentry Query Link]()
+[Sentry Query Link](http://sentry.vfs.va.gov/organizations/vsp/issues/?environment=production&groupStatsPeriod=14d&project=3&project=4&query=is%3Aunresolved+assigned%3A%23vsp-identity+%21level%3Aerror&statsPeriod=14d) 
 
-About: This page serves as the template for the different error labels that we create during the hackathon. In this about section, describe what the error in this page is about. Each error page should use the following to get started with documenting the errors we encounter.
+15 warning/info issues relalted to known error cases. For example the user's MVI record may be in a state that needs resolution and we opt not to log the user in until their MVI record has been fixed.
 
-Table of contents
+**About:** In this about section, describe what the error in this page is about. Each error page should use the following to get started with documenting the errors we encounter.
+
+Table of Contents
 =================
 
   * Label Description
   * [List error names]()
 
+
 ## Label Description 
 [Description here]
 
 ## Errors
-
 - [Error Name]()
   - Error Level, criticality, do we need to resolve this within some SLA?
   - Description of error
