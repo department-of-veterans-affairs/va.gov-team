@@ -170,7 +170,7 @@ No questions.
 
 **Q:** Will CLPs sit in a new sub-directory? 
 
-**A:** Yes -- va.gov/campaigns/name-of-campaign
+**A:** No -- they would be nested in the most logical sub-directory -- e.g. a VBA va.gov/campaigns/name-of-campaign
 
 ## Metadata
 
