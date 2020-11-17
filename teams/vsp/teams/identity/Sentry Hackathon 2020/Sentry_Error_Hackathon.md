@@ -10,13 +10,6 @@
 **Background:**
 - Sentry Error reporting is an excellent solution to ensure the VSP Identity team is aware of all potential systemic issues regarding SSO. Over time the people who created the rules for the metrics, errors, and logs have rolled onto other projects. It is time for the error reporting to be reviewed again to ensure all new functions are reporting errors correctly and also to modify old error reporting to ensure any systemic issues are resolved as quickly as possible.
 
-**Scope:**
-- This hackathon is restricted towards errors that are currently being reported by all SSO functions. If an error is not reporting into Sentry, or is not reporting required details to ensure the error can be investigated for a potential fix, then **it is** in scope of this exercise.
-- Error reporting from downstream systems is also in scope, with the understanding we may be limited as to the action that can be taken to remediation any discrepancies.
-- Error reporting for SSO from ID.me, MHV, EAuth/ISAM and DSLogon.
-- Out of scope: Errors which do not provide information directly about any of the SSO functions.
-- Note: This exercise may result in some tickets that require research and coordination with other teams, this is fine, but the main focus is to document all error improvements, then break it out by responsibility. A portion of the hackathon is going to be focused on documententing where we are via issues in Github [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues). We will then pivot towards picking out some of the tickets and writing code to improve them.
-
 **Participant Requirements Before Hackathon Kickoff:**
 - [Sentry Access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md#request-access) - [Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key) for how to obtain access to several internl solutions. Typically requires a few days lead time to gain access. 
   - This facilitates the requirement of having SOCKS proxy access to internal VA tools, follow the instructions in the [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key).
@@ -33,30 +26,6 @@
   - Prometheus metric access/understanding
     - [Prometheus Link](http://prometheus-prod.vfs.va.gov:9090/prometheus/graph)
   - [Grafana SSO Board link](http://grafana.vfs.va.gov/d/ioicprRMk/ssoe-launch?orgId=1&from=now-6h&to=now&var-api_version=v1)
-
-**Goals:**
-1. Every Identity team member should feel comfortable explaining each of the errors inside Sentry
-    1. This may come in the form of a collection of error documentation for the Identity team
-    2. Clear understanding of each of the Sentry Errors that the Identity team is responsible for
-2. Document research and resolution flows for as many errors/groups of errors as we can
-3. Ensure current errors have the appropriate level assigned to them (warning, info, etc.)
-4. Document a "parking lot" to ensure we can continue the work required for all team members to feel comfortable with the errors that being reported
-5. Create PRs for as many of the error corrections that we can make
-
-## Buckets
-The following is a breakdown of the current `vsp-identity` issues into high level categories that should be helpful for consolidating and addressing the issues.
-
-#### [MVI errors](http://sentry.vfs.va.gov/organizations/vsp/issues/?environment=production&groupStatsPeriod=14d&project=3&project=4&query=is%3Aunresolved+assigned%3A%23vsp-identity+level%3Aerror+message%3A%22MVI%3A%3AErrors%22&statsPeriod=14d)
-17 errors related to MVI request problems
-
-#### [keepalive errors](http://sentry.vfs.va.gov/organizations/vsp/issues/?groupStatsPeriod=14d&project=3&project=4&query=is%3Aunresolved+assigned%3A%23vsp-identity+level%3Aerror+message%3A%22SSOe+error%3A%22&statsPeriod=14d)
-14 errors related to making `https://eauth.va.gov/keepalive` calls
-
-#### [non-errors](http://sentry.vfs.va.gov/organizations/vsp/issues/?environment=production&groupStatsPeriod=14d&project=3&project=4&query=is%3Aunresolved+assigned%3A%23vsp-identity+%21level%3Aerror&statsPeriod=14d)
-15 warning/info issues relalted to known error cases.  For example the user's MVI record may be in a state that needs resolution and we opt not to log the user in until their MVI record has been fixed.
-
-#### [to be resolved](http://sentry.vfs.va.gov/organizations/vsp/issues/?environment=production&groupStatsPeriod=14d&project=3&project=4&query=is%3Aunresolved+assigned%3A%23vsp-identity+level%3Aerror+%21message%3A%22SSOe+error%3A%22+%21message%3A%22MVI%3A%3AErrors%22&statsPeriod=14d)
-These 8 errors don't fall into any of the above buckets and need to be resolved individually.
 
 ## Agenda
 Note: Soft agenda to guide us, but this is not rigid, we will take the most productive path
