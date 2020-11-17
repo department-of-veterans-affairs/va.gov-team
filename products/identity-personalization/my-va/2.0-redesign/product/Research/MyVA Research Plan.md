@@ -101,7 +101,7 @@ November 24, 2020 | 11am - 6pm ET
 November 25, 2020 | 11am - 3pm ET
 November 30, 2020 | 11am - 6pm ET
 	
-Mobile Pilot Sessions (1 total sessions, 2 mobile, A vs B): November 19, 2020 | 11am - 5pm ET
+Mobile Pilot Sessions (1 total sessions, 2 mobile, A vs B): Jonathan Nelson, jonathan.nelson@adhocteam.us on November 19, 2020 | 3:30am - 4:45pm ET
 
 ## Team Roles
 * Moderator: Tressa Furner & Cassandra Allen (tressa.furner@adhocteamus.com, callen@governmentcio.com) 
