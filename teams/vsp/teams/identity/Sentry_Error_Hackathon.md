@@ -36,8 +36,8 @@ Participant Requirements Before Hackathon Kickoff:
 
 Goals:
 1. Every Identity team member should feel comfortable explaining each of the errors inside Sentry
-  1. This may come in the form of a collection of error documentation for the Identity team
-  1. Clear understanding of each of the Sentry Errors that the Identity team is responsible for
+  - This may come in the form of a collection of error documentation for the Identity team
+  - Clear understanding of each of the Sentry Errors that the Identity team is responsible for
 1. Document research and resolution flows for as many errors/groups of errors as we can
 1. Ensure current errors have the appropriate level assigned to them (warning, info, etc.)
 1. Document a "parking lot" to ensure we can continue the work required for all team members to feel comfortable with the errors that being reported
@@ -76,5 +76,17 @@ These 8 errors don't fall into any of the above buckets and need to be resolved 
 - [Sentry Issue Owner settings](http://sentry.vfs.va.gov/settings/vsp/projects/platform-api/ownership/)
 - [Vets API lib SAML Errors](https://github.com/department-of-veterans-affairs/vets-api/blob/9254a93af093aba9ce4651a18e43209c36bbccf9/lib/saml/errors.rb)
 
-## Ticket Creation Instructions
-Add details here
+## Issue Creation Instructions
+All changes to which we want to make to the errors should start with an issue being created [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues).
+
+## Error Questions
+- What to do to suppress, reclassify, reassign, or change error level
+  
+## Parking Lot
+- Note: area where we throw questions into so we can move forward
+  
+## Issue List
+- List out tickets created during Hackathon here
+  
+## Closing Remarks and Feedback
+- Add feedback here, improvements for next hackathon, current status of sentry error cleanup
