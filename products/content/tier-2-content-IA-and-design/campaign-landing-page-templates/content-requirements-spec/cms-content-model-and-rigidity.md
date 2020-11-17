@@ -7,21 +7,51 @@
 
 **Q:** Shall we prioritize the four _required_ panels, then tackle the 7 _optional_ ones? That would unblock FE development. Can content for these panels be prioritized as well? 
 
-**A:**
+**A:**. Yes.  The required panels are (latest design comps - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/content-requirements-spec/CLP-Maximal-markup-updated-060320.pdf):
+
+- Hero Banner
+- Why This Matters to You
+- What You Can Do
+- VA Benefits
+
 
 ## 1. Hero (required)
 
-**Q:** Image: What size does the front end neeed? What aspect ratio? 
+**Q:** Image: What size does the front end need? What aspect ratio? 
 
 ## 2. Why this matters (required)
 
 **Q:** "This page is for" panel: Can this reuse the audience taxonomies from Resources & support? Some of the labels are different, but we strongly recommend aligning this (should be a Content & IA collaboration)
 
-**A:**
+**A:** 
 
-**Q:** Social media: it's indicated as optional... should that just be a boolean? Under what circumstances would an editor _not_ want social media links?
+CLP (in design comp)
+- Veterans
+- Family caregivers
+- Transitioning service members
 
-**A:**
+R&S
+
+- Beneficiaries audiences:
+  - All Veterans
+  - Former prisoners of war
+  - Gulf War Veterans
+  - Incarcerated Veterans
+  - Korean War Veterans
+  - LGBTQ Veterans
+  - Minority Veterans
+  - Native American Veterans
+  - Vietnam War Veterans
+  - Women Veterans
+  - World War II Veterans
+  - Family members and caregivers
+  - Service members
+- Non-beneficiaries audiences:
+  - TBD
+
+**Q:** Social media: it's indicated as optional, so should that just be a boolean? Under what circumstances would an editor _not_ want social media links?
+
+**A:** 
 
 ## 3. What you can do (required)
 
@@ -31,7 +61,7 @@ No questions.
 
 "Duration" and "intro text" fields are not yet supported (see Resource and support product, similar issue.) We can add these fields to the video component CMS-wide, with the idea that in the future this content could be pulled in via Youtube API. 
 
-Q (for Jen and Ryan): Confirm the video caption come from YouTube --  or is it both -- by default, the YT caption is pulled in, but author has the option to write-over.  (Latest comps: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/content-requirements-spec/CLP-Maximal-markup-updated-060320.pdf)
+Q (for Jen and Ryan): Confirm the video caption comes from YouTube --  or is it both? (e.g., by default, the YT caption is pulled in, but author has the option to write-over.)  (Latest comps: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/content-requirements-spec/CLP-Maximal-markup-updated-060320.pdf)
 
 For MVP, this will need to be a manual copy/paste. 
 
@@ -40,7 +70,7 @@ For MVP, this will need to be a manual copy/paste.
 
 **Q:** The "Read the press release for details" link field is a CTA, and we'd recommend storing it as a separate field from the "Spotlight intro text" field field, especially if that `>` carat is desired. Then the intro text field can be set to plain text.  
 
-**A:**
+**A:** OK
 
 ## 6. Stories (optional)
 
