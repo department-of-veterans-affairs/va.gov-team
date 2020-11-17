@@ -33,9 +33,20 @@
   - Jenkins runs the test, build, and deploy scripts for the va.gov frontend 
   - Production deployment is triggered by the auto deploy job
   - Most of the work happens in the **testing** job 
-    - runs all of the build and testing scripts
-    - This [Jenkinsfile](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile) configures the workflow
-    - The bulk of the logic is in [this](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/common.groovy) groovy file</details>
+    - runs all of the build and testing scripts</details>
+    
+<details>
+	<summary>List of all of the build script and configs files and how they're related</summary>
+  - Scripts for running the production deploy
+    - This [Jenkinsfile](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile) configures the workflow- most of the testing calls are configured here.
+    - The Jenkins file references [this](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/common.groovy) groovy file which has the bulk of the build calls</details>
+    - The groovyfile references [this](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/build.sh) bash script 
+    - The bash script calls the `npm build command` with some arguments 
+    - The build command calls [this](https://github.com/department-of-veterans-affairs/vets-website/blob/master/script/build.sh) other bash script  
+    - This other bash script either calls the yarn scripts `yarn build:webpack` and `yarn build:content`
+    	- `build:webpack` calls the webpack build using the webpack [config](https://github.com/department-of-veterans-affairs/vets-website/blob/master/config/webpack.config.js)
+	- `build:content` [calls](https://github.com/department-of-veterans-affairs/vets-website/blob/master/script/build-content.js) this script</details>
+    
   
     
 <details>
