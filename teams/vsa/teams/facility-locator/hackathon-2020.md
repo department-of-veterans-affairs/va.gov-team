@@ -4,11 +4,14 @@ This folder to house the artifacts and deliverables from the Facilities Hackatho
 
 ## Design
 
+**Mobile Facility Locator Map**
 
-Problems to be solved: When searching for PTSD treatment on VA.gov 
-- How might reduce cognitive load for our users?
-- How might we help focus users to accomplish a task with less noise?
-Leyda's solution ideas: [UXPin screens](https://preview.uxpin.com/c300973e45a11d90a87d54bc788f6461da080480#/pages/134295035/simulate/sitemap?mode=i)
+Problem: Mobile Facility Locator Map is not interactive and missing key information
+
+- How can display useful information for each map location,independently from the List view?
+- How can we design this information to be accessible with screen readers?
+
+
 
 ---
 ## Engineering
