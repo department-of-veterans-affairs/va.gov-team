@@ -41,7 +41,7 @@
 |File|Contains   |
 |---|---|
 |[Jenkinsfile](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile)|configures the workflow- most of the testing calls are configured here.|
-|[Groovy file](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/common.groovy)|build script call|
+|[Groovy file](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/common.groovy)|jenkins/build script call|
 |[jenkins/Bash script](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/build.sh)|configures npm build script arguments|
 |`npm run build`|calls script/bash script|
 |[script/Bash script](https://github.com/department-of-veterans-affairs/vets-website/blob/master/script/build.sh)|conditionally calls `yarn build:webpack` and `yarn build:content`|
