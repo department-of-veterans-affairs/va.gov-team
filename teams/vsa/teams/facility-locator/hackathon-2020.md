@@ -12,6 +12,10 @@ Problem: Mobile Facility Locator Map is not interactive and missing key informat
 - How can we design this information to be accessible with screen readers?
 
 
+**When searching for PTSD treatment on VA.gov...**
+- How might reduce cognitive load for our users?
+- How might we help focus users to accomplish a task with less noise?
+[UXPin screens](https://preview.uxpin.com/c300973e45a11d90a87d54bc788f6461da080480#/pages/134295035/simulate/sitemap?mode=i)
 
 ---
 ## Engineering
