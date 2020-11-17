@@ -75,3 +75,6 @@ These 8 errors don't fall into any of the above buckets and need to be resolved 
 ## Links
 - [Sentry Issue Owner settings](http://sentry.vfs.va.gov/settings/vsp/projects/platform-api/ownership/)
 - [Vets API lib SAML Errors](https://github.com/department-of-veterans-affairs/vets-api/blob/9254a93af093aba9ce4651a18e43209c36bbccf9/lib/saml/errors.rb)
+
+## Ticket Creation Instructions
+Add details here
