@@ -1,19 +1,20 @@
 # MVI Errors
-(http://sentry.vfs.va.gov/organizations/vsp/issues/?environment=production&groupStatsPeriod=14d&project=3&project=4&query=is%3Aunresolved+assigned%3A%23vsp-identity+level%3Aerror+message%3A%22MVI%3A%3AErrors%22&statsPeriod=14d)
+[Sentry Query Link](http://sentry.vfs.va.gov/organizations/vsp/issues/?environment=production&groupStatsPeriod=14d&project=3&project=4&query=is%3Aunresolved+assigned%3A%23vsp-identity+level%3Aerror+message%3A%22MVI%3A%3AErrors%22&statsPeriod=14d)
+
 17 errors related to MVI request problems
 
-About: This page serves as the template for the different error labels that we create during the hackathon. In this about section, describe what the error in this page is about. Each error page should use the following to get started with documenting the errors we encounter.
+**About:** In this about section, describe what the error in this page is about. Each error page should use the following to get started with documenting the errors we encounter.
 
 Table of contents
 =================
 
-  * Error Label
   * Label Description
   * [List error names]()
 
-Error Label
-============
+## Label Description 
+[Description here]
 
+## Errors
 - [Error Name]()
   - Error Level, criticality, do we need to resolve this within some SLA?
   - Description of error
