@@ -16,6 +16,8 @@ We'd like to know if the documentation is meeting your needs, and welcome your f
 
 * [How does accessibility fit into our product lifecycle?](#how-does-accessibility-fit-into-our-product-lifecycle)
 
+* [VSA accessibility reviews](#vsa-accessibility-reviews)
+
 * [Accessibility resources](#accessibility-resources)
 
 * [VSA Accessibility Dashboard](#vsa-accessibility-dashboard)
@@ -54,6 +56,11 @@ We'd like to know if the documentation is meeting your needs, and welcome your f
 #### QA
 * UX QA techniques to evaluate accessibility and usability: manual processes, Web Vitals, CrUX dashboard
 * Accessibility and 508 compliance processes before and after deployment
+
+
+### VSA accessibility reviews
+
+In addition to the VSP Collaboration Cycle, VSA offers extra collaboration points for research, design, and development. [Check out the VSA accessibility review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md).
 
 ### Accessibility resources
 The following list is a set of resources to help you do your work and answer questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the [dsva.slack.com](https://dsva.slack.com/#vetsgov-accessibility) channel or your VSA accessibility POC directly.
