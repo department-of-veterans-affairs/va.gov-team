@@ -8,11 +8,11 @@ https://github.com/department-of-veterans-affairs/va.gov-team/projects/15
 
 ### Our GitHub Team Sites 
 
-- Public Websites
+- [Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites)
 
 - [Search & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/search-discovery/team-charter.md)
 
-- Decision Tools
+- [Decision Tools](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/decision-tools)
 
 ### Our Delivery Process
 Live Google Sheets version: https://docs.google.com/spreadsheets/d/1izUIMwzl7NRvNwX5jddgUEAX-AlRODa_HEASg4eav6A/edit?usp=sharing
