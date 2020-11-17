@@ -1,4 +1,6 @@
-- <details>
+## Troubleshooting overview 
+
+<details>
 	<summary>What are builds and how do they fit into the overall development process?</summary>
 	
   - The output of software development is features for users. Vets-website utilizes a **continuous integration** (CI) process to deliver new features to users. CI is an umbrella term that encompasses 
@@ -12,9 +14,12 @@
       - There can be significant cognitive friction associated with troubleshooting CI failures especially for users who are not familiar with the stack. There is not a clear mental model new engineers can use to understand everything the CI does.
   - Developers should be able to focus on hard problems related to their domain not on understanding the platform's CI tech stack
 </details>
-  
-- <details>
-	<summary>Jenkins jobs</summary>
+
+## Jenkins jobs
+
+<details>
+	<summary>Overview</summary>
+	
 ![Overview of vets-website Jenkins jobs](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-jenkins-overview.png)
   - Jenkins runs the test, build, and deploy scripts for the va.gov frontend 
   - The **Testing** job runs all of the build and testing scripts. The [Jenkinsfile](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile) configures the workflow. 
@@ -22,8 +27,9 @@
     - CMS triggered: does not run the app build- uses the last successful app release
     - Master branch change triggered: does not run the Cache Drupal content step</details>
     
-  - <details>
-	<summary>Auto deploy job</summary>
+<details>
+	<summary>Auto deploy Jenkins job</summary>
+	
   - [Auto deploy job](http://jenkins.vfs.va.gov/job/deploys/job/vets-gov-autodeploy-vets-website/) summary shows the job history and has links to starting a new auto deployment. **Never** rerun an autodeploy job- always start a **new** auto deploy job. 
     ![Auto deploy job summary](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-auto-deploy-summary.png)
     - You can usually rule out an ops vs fe tools issue by looking at what stage failed. 
@@ -33,17 +39,19 @@
     - Most of the information on this view is not correct. 
     ![Auto deploy job details](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-autodeploy-details.png)</details>
     
-#### Testing job
+<details>
+	<summary>Testing jenkins job</summary>
   - [Testing job](http://jenkins.vfs.va.gov/job/testing/job/vets-website/) summary shows the testing job history. 
     - The Blue Sky [view](http://jenkins.vfs.va.gov/blue/organizations/jenkins/testing%2Fvets-website/activity) is usually easier for viewing most things in the testing job 
     - [Filtered](http://jenkins.vfs.va.gov/blue/organizations/jenkins/testing%2Fvets-website/activity?branch=master) by the master branch, this view will show if there are any immediate problems with the current master branch build. 
     - The job detail view will show the workflow pipeline. Test failures can be viewed in the testing tab and each test failure has an accompanying stacktrace. 
     ![Testing job details](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-testing-job-detail.png)
         ![Testing job failure test detail](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-testing-job-failure-tests-view.png)
-    ![Testing job failure](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-testing-job-failure.png)
+    ![Testing job failure](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-testing-job-failure.png)</details>
 
   
 ## Typical process for deploying features 
+
    - Developers pull the entire code base onto their computers to make their changes. This enables them to run their application locally for testing
   - Once a change has been made locally, they bundle the changes together into a feature branch. This is a code change request that represents the differences between the main code branch (which is deployed to production every day) and their feature branch. Feature branches are part of git. 
   - Pull requests are a manual review process enabled by GitHub and are initiated by the developer through the GitHub UI. 
