@@ -95,7 +95,7 @@ At least:
 
 Date | Time in Eastern | Slots
 -----|-----------------------|-------
-Tue, Nov 24 [PILOT] | 10-11a |
+Tue, Nov 24 [PILOT] | 10-11a | -
 Mon, Nov 30 | 10a-11p | 1 
 Tue, Dec 1 | 7-11a, 7-8p | 5 
 Wed, Dec 2 | 7-11a, 7-8p | 5
