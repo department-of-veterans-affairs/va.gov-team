@@ -36,18 +36,21 @@
     - runs all of the build and testing scripts</details>
     
 <details>
-	<summary>List of all of the build script and configs files and how they're related</summary>
-	
-    - This [Jenkinsfile](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile) configures the workflow- most of the testing calls are configured here.
-    - The Jenkins file references [this](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/common.groovy) groovy file which has the bulk of the build calls</details>
-    - The groovyfile references [this](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/build.sh) bash script 
-    - The bash script calls the `npm build command` with some arguments 
-    - The build command calls [this](https://github.com/department-of-veterans-affairs/vets-website/blob/master/script/build.sh) other bash script  
-    - This other bash script either calls the yarn scripts `yarn build:webpack` and `yarn build:content`
-    	- `build:webpack` calls the webpack build using the webpack [config](https://github.com/department-of-veterans-affairs/vets-website/blob/master/config/webpack.config.js)
-	- `build:content` [calls](https://github.com/department-of-veterans-affairs/vets-website/blob/master/script/build-content.js) this script</details>
-    
+	<summary>List of all of the build script and configs files and how they are related</summary>
   
+|File|Contains   |
+|---|---|
+|[Jenkinsfile](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile)|configures the workflow- most of the testing calls are configured here.|
+|[Groovy file](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/common.groovy)|build script call|
+|[jenkins/Bash script](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/build.sh)|configures npm build script arguments|
+|`npm run build`|calls script/bash script|
+|[script/Bash script](https://github.com/department-of-veterans-affairs/vets-website/blob/master/script/build.sh)|conditionally calls `yarn build:webpack` and `yarn build:content`|
+|`yarn build:webpack`|calls the webpack build using the webpack [config](https://github.com/department-of-veterans-affairs/vets-website/blob/master/config/webpack.config.js)|
+|`yarn build:content`|calls [this](https://github.com/department-of-veterans-affairs/vets-website/blob/master/script/build-content.js) node script which is the main metalsmith build script|
+
+_File order generally corresponds to call order._
+  
+  </details>
     
 <details>
 	<summary>Auto deploy Jenkins job</summary>
