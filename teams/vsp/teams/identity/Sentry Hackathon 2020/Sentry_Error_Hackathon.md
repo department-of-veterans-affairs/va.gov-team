@@ -77,10 +77,12 @@ These 8 errors don't fall into any of the above buckets and need to be resolved 
 - [Vets API lib SAML Errors](https://github.com/department-of-veterans-affairs/vets-api/blob/9254a93af093aba9ce4651a18e43209c36bbccf9/lib/saml/errors.rb)
 
 ## Issue Creation Instructions
-All changes to which we want to make to the errors should start with an issue being created [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues).
+- All changes to which we want to make to the errors should start with an issue being created [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues).
+- Each issue should use the [Standard Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=standard-issue.md&title=) to start, and reference the appropriate Error bucket file for more details.
 
 ## Error Questions
-- What to do to suppress, reclassify, reassign, or change error level
+- What to do to suppress, reclassify, reassign, or change error level:
+  - Each error is up for discussion in regards to if the level of the error is appropriate. If we want to change the level we need to include this request, along with the justification inside a PR.
   
 ## Parking Lot
 - Note: area where we throw questions into so we can move forward
