@@ -9,12 +9,13 @@
 
 ### Agenda
 
+1. Meeting schedule/timing
 1. Priotity of being able to use "Audience non-beneficiaries" tags in content forms [#3494](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3494)
 1. Backlog
 
 ### Action items
 
-1. 
+1. reschedule Public Websites / CMS check-in for a different time [Clarence]
 
 ## Tuesday November 10
 
