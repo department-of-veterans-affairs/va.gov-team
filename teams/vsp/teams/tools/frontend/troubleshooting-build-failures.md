@@ -37,7 +37,7 @@
     
 <details>
 	<summary>List of all of the build script and configs files and how they're related</summary>
-  - Scripts for running the production deploy
+	
     - This [Jenkinsfile](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile) configures the workflow- most of the testing calls are configured here.
     - The Jenkins file references [this](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/common.groovy) groovy file which has the bulk of the build calls</details>
     - The groovyfile references [this](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/build.sh) bash script 
