@@ -89,17 +89,17 @@ At least:
 
 ## Timeline
 
-- Study dates: December 1 - 4, 2020  
+- Study dates: December 1 - 3, 2020  
 - Pilot session: will be held on Nov 24, 2020 
 - Session length: 1 hour
 
 Date | Time in Eastern | Slots
 -----|-----------------------|-------
-Tue, Nov 24 [PILOT] | -:--p | 
-Tue, Dec 1 | 7-10a, 7-8p | 4 
-Wed, Dec 2 | 7-10a, 7-8p | 4
-Thu, Dec 3 | 7-10a, 7-8p | 4
-Fri, Dec 4 | 7-10a, 7-8p | 4
+Tue, Nov 24 [PILOT] | 10-11a |
+Mon, Nov 30 | 10a-11p | 1 
+Tue, Dec 1 | 7-11a, 7-8p | 5 
+Wed, Dec 2 | 7-11a, 7-8p | 5
+Thu, Dec 3 | 7-11a, 7-8p | 5
 
 
 ## Team Roles	
