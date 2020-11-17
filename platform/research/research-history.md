@@ -119,7 +119,7 @@ This does not include research for Appeals projects, which is stored in differen
 #### June 25-29: Claim status tool. Usability test / Collaborative design exersise 
 *GovernmentCIO, BAM 1. Lead researcher: Christian Valla
 
--12 participants
+-12 participants 
 
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/research/co-design-usability-June)
 
