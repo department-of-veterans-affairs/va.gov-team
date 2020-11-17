@@ -52,7 +52,7 @@ R&S
 
 **Q:** Social media: it's indicated as optional, so should that just be a boolean? Under what circumstances would an editor _not_ want social media links?
 
-**A:** 
+**A:** Yes, make it boolean/optional.
 
 ## 3. What you can do (required)
 
