@@ -834,9 +834,11 @@ Back to [Table of Contents](#table-of-contents)
 #### VAOS Express Care Appointments
 
 **Audit status:** _VSP full audit completed October 2020. Sent to VA 508 office November 2020._<br/>
+**Audit epic:** [Full Accessibility & 508 Office Audit [Express Care] - #13272](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13272)
 
 
 **Open issues**
+- [[SEMANTIC MARKUP] VAOS Appointment Cards - Bold section-heading like text must be marked up as headings - #16293](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16293)<br/>**Limited production** | **Opened:** November 17, 2020 | **Severity:** _508-defect-2 - **Serious**_
 - [[MOBILE]: Should buttons be full-width at mobile size for creating an Express Care appointment? - #15086](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15086)<br/>**Limited production** | **Opened:** October 20, 2020
 - [[DESIGN]: Mobile breadcrumb looks indented a bit too much on the form views - #15083](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15083)<br/>**Limited production** | **Opened:** October 20, 2020
 - [[DESIGN]: Should the Express Care radio button labels be bold, or regular weight like requesting an in-person appointment? - #15084](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15084)<br/>**Limited production** | **Opened:** October 20, 2020
