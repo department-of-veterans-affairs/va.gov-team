@@ -50,11 +50,11 @@ I expected the link to be in the top right hand corner. Took a second but found 
 
 ## VA.gov coronavirus FAQs analytics
 
-From March 15, 2020, to October 11, 2020, these are the total number of users visting the coronavirus FAQs in languages other than English:
+From March 15, 2020, to October 11, 2020, these are the total number of users visiting the coronavirus FAQs in languages other than English:
 
 1. es-us - Spanish (United States): 11,459
 2. es-419 - Spanish (Latin America and Caribbean region): 4,658
-3. es-xl - Spanish (Latin America?): 4,569
+3. es-xl - Spanish (Mexico?): 4,569
 4. es-es - Spanish (Spain): 3,507
 5. zh-ch - Chinese (People's Republic of China): 684
 6. ko-kr - Korean (Korea): 422
