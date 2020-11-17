@@ -16,7 +16,8 @@
 ## Reference Links
 
 - UX, IA and Content documentation for implementation teams - https://github.com/department-of-veterans-affairs/va.gov-team/issues/13375
-- Usability Study Top Line Summary - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/discovery/research/topline-summary.md
+- Usability Study Synthesis - https://github.com/department-of-veterans-affairs/va.gov-team/files/5548107/Wizard.Migration.Usability.Study.Synthesis.pdf
+  
 - Disability ([on Staging](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction))
   - Wizard prototype - https://preview.uxpin.com/e8c5c39f8978d9c1a3f9bd200db25376170a6860#/pages/133183067/simulate/sitemap?mode=i
 - HLR (application almost ready, but Wizard dev has not yet started.)
