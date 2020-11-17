@@ -7,13 +7,14 @@
 
 **Q:** Shall we prioritize the four _required_ panels, then tackle the 7 _optional_ ones? That would unblock FE development. Can content for these panels be prioritized as well? 
 
-**A:**. Yes.  The required panels are (latest design comps - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/content-requirements-spec/CLP-Maximal-markup-updated-060320.pdf):
+**A:**. Yes.  The required panels are:
 
 - Hero Banner
 - Why This Matters to You
 - What You Can Do
 - VA Benefits
 
+[Up-to-date design comps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/content-requirements-spec/CLP-Maximal-markup-updated-060320.pdf)
 
 ## 1. Hero (required)
 
