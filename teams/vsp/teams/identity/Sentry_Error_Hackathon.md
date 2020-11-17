@@ -43,6 +43,21 @@ Goals:
 1. Document a "parking lot" to ensure we can continue the work required for all team members to feel comfortable with the errors that being reported
 1. Create PRs for as many of the error corrections that we can make
 
+## Buckets
+The following is a breakdown of the current `vsp-identity` issues into high level categories that should be helpful for consolidating and addressing the issues.
+
+#### [MVI errors](http://sentry.vfs.va.gov/organizations/vsp/issues/?environment=production&groupStatsPeriod=14d&project=3&project=4&query=is%3Aunresolved+assigned%3A%23vsp-identity+level%3Aerror+message%3A%22MVI%3A%3AErrors%22&statsPeriod=14d)
+17 errors related to MVI request problems
+
+#### [keepalive errors](http://sentry.vfs.va.gov/organizations/vsp/issues/?groupStatsPeriod=14d&project=3&project=4&query=is%3Aunresolved+assigned%3A%23vsp-identity+level%3Aerror+message%3A%22SSOe+error%3A%22&statsPeriod=14d)
+14 errors related to making `https://eauth.va.gov/keepalive` calls
+
+#### [non-errors](http://sentry.vfs.va.gov/organizations/vsp/issues/?environment=production&groupStatsPeriod=14d&project=3&project=4&query=is%3Aunresolved+assigned%3A%23vsp-identity+%21level%3Aerror&statsPeriod=14d)
+15 warning/info issues relalted to known error cases.  For example the user's MVI record may be in a state that needs resolution and we opt not to log the user in until their MVI record has been fixed.
+
+#### [to be resolved](http://sentry.vfs.va.gov/organizations/vsp/issues/?environment=production&groupStatsPeriod=14d&project=3&project=4&query=is%3Aunresolved+assigned%3A%23vsp-identity+level%3Aerror+%21message%3A%22SSOe+error%3A%22+%21message%3A%22MVI%3A%3AErrors%22&statsPeriod=14d)
+These 8 errors don't fall into any of the above buckets and need to be resolved individually.
+
 ## Agenda
 -Note: Soft agenda to guide us, but this is not rigid, we will take the most productive path
 - 1200-1230 (ET): Food, talk through any last minute requirements
