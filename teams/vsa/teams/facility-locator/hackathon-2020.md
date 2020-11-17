@@ -7,6 +7,8 @@ This folder to house the artifacts and deliverables from the Facilities Hackatho
 ---
 ## Engineering
 
+- Michael Pelz-Sherman: [Support manual geolocation](https://github.com/department-of-veterans-affairs/vets-website/pull/14963)
+
 ---
 
 ## Product 
