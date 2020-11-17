@@ -143,7 +143,7 @@ _The stages and number of users below are provided as example values recommended
 ### 1-week results:
 - Number of unique users: 233/572 conversions, 39% conversion rate (Google Analytics)
 - Post-launch KPI 1 actual: 233 successful submissions (Google Analytics)
-- Post-launch KPI 2 actual: **Need to get numbers from Buffalo on eligible applications week 1**
+- Post-launch KPI 2 actual: 129 eligible scholarships, 170 rejected. **43%** approval rate.
 - Any issues with VA handling/processing?: **yes/no, lorem ipsum**
 - Types of errors logged: **lorem ipsum**
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? Yes
@@ -157,7 +157,7 @@ _The stages and number of users below are provided as example values recommended
 ### 1-month results:
 - Number of unique users: 959/2,233 conversions, 41% conversion rate (Google Analytics)
 - Post-launch KPI 1 actual: 959 successful submissions (Google Analytics)
-- Post-launch KPI 2 actual: **Need to get numbers from Buffalo on eligible applications month 1**
+- Post-launch KPI 2 actual: 421 eligible scholarships, 467 rejected. **47%** approval rate.
 - Any issues with VA handling/processing?: **yes/no, lorem ipsum**
 - Types of errors logged: **lorem ipsum**
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? No UX changes necessary
