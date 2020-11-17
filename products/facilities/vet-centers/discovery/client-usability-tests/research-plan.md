@@ -18,7 +18,9 @@ Are there improvements to the designs that should be considered for MVP or futur
 
 ### Hypothesis 
 
-[...] 
+Past and present clients will:
+- find that the messages conveyed in the designs match their perception of Vet Centers 
+- want more imagery and less copy heavy designs
 
 ## Method
 
@@ -71,8 +73,8 @@ Perigean to validate against Vet Centers listed on [Facility Locator](https://ww
 ### Secondary criteria / Would like to have - 
 
 At least: 
-- 2 women 
-- 2 participants living in a rural or remote area 
+- 4 participants living in a rural or remote area 
+- 2 females
 - 1 participant of color 
 - 1 participant 35 or under 
 - 1 participant 36 - 45 
@@ -84,22 +86,8 @@ At least:
 - 1 participant living in a major metropolitan area 
 - 1 participant with a disability rating of 70% or greater 
 
- 
-## Timeline A
 
-- Study dates: Nov 19 - 24, 2020  
-- Pilot session: will be held on Nov 18, 2020 
-- Session length: 1 hour
-
-Date | Time in Eastern | Slots
------|-----------------------|-------
-Wed, Nov 18 [PILOT] | -:--p | 
-Thu, Nov 19 | 7-10a, 7-8p | 4 
-Fri, Nov 20 | 7-10a, 7-8p | 4
-Mon, Nov 23 | 7-10a, 7-8p | 4
-Tue, Nov 24 | 7-10a, 7-8p | 4
-
-## Timeline B
+## Timeline
 
 - Study dates: December 1 - 4, 2020  
 - Pilot session: will be held on Nov 24, 2020 
