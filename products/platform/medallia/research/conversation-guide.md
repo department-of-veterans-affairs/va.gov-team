@@ -19,6 +19,9 @@ Before we start, a few things I want to mention:
 - In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - If for any reason and at any time you want to stop the session, please let me know.
 
+*If participant is using assistive technology, ask them:*
+- If you use assisitve techonology, is it running? Is your screen reader running?
+
 ## Set Up - 5 minutes
 
 In order to get the most out of this session, I would like to be able to see your screen. Can you let me know what kind of device you’re using, laptop/desktop or a mobile device?
@@ -52,6 +55,9 @@ In order to get the most out of this session, I would like to be able to see you
 
 - Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "Drive". You will tell me what to do, what to tap, on, etc. Does that sound ok?
 - [Share your screen]. Can you confirm if you can see my screen?
+
+**If participant is using assistive technology, ask them:**
+- As you are tabbing through to get to your screen share, before you reach that there should be an opption to "share computer audio." Can you enable that for me? That way we can hear your assistive tech read out.
 
 **Recording Instructions**
 
@@ -112,6 +118,9 @@ I’m going to send another link to a specific page in the chat.
 **Task: How would you go about providing feedback on this page? Again, once you locate the form, you do not need to fill it out and submit it.**
 
 As you’re performing this task, please talk us through your thoughts as you interact with the site.
+
+*If participant is using assistive techonology:*
+You don't have to work through this whole form, just the first question and we can move on to the follow-up questions.
 
 ### Things to watch for:
 
