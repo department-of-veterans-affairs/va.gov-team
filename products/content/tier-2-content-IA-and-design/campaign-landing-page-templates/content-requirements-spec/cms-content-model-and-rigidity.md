@@ -154,6 +154,24 @@ No questions.
 
 # Other issues
 
+## IA & Content
+
+**Q:** Will new content be created to support CLPs and where will that content sit (directory/URL)?
+
+**A:** No.
+
+**Q:** Will CLP expire or live on?
+
+**A:** Live on.  We will not delete it.
+
+**Q:** How will CLPs be found?
+
+**A:** Search, Offline Marketing/Communications.  CLPs will not sit in the primary VA.gov navigation.
+
+**Q:** Will CLPs sit in a new sub-directory? 
+
+**A:** Yes -- va.gov/campaigns/name-of-campaign
+
 ## Metadata
 
 
