@@ -6,11 +6,11 @@
 | <b>Product<b>           | Disability (526)                  | HLR                       | Education (1990, STEM)  | Personalized Care & Planning (Ch 36/31) |
 | <b>Product Leads<b>       | Hashimoto/Self/Majewski           | Hashimoto/Self/Majewski   | Self/Keeler             | Jason Wolf           
 | <b>UX Spec (via Prototype)<b> | Done                   | Done                      | Done                    | Done
-| <b>User Test (via Prototype)<b>| In progress           | In progress               | In progress             | Done
+| <b>User Test (via Prototype)<b>| Done                  | Done                      | Done                    | Done
 | <b>Development<b>  |50% Complete/Hold                  | 50% Complete/Hold         | 50% Complete/Hold       | 90% Complete
 | <b>Staging Review/Q-A<b> | TBD                         | TBD                       | TBD                     | TBD
 | <b>Site Links(PW)<b>   | In progress                       | In progress               | In progress             | In progress
-| <b>Launch Date<b>        | November                          | November                  | November?               |Ch 31 (Early Dec), Ch 36 (Jan 4)
+| <b>Launch Date<b>        | TBD                          | December                  | TBD             |Ch 31 (Early Dec), Ch 36 (Jan 4)
 
 
 ## Reference Links
