@@ -14,7 +14,7 @@ Problem: Mobile Facility Locator Map is not interactive and missing key informat
 [Mobile Exploration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/images/Facility%20Locator%20Mobile%20Chris.pdf)
 
 
-**When searching for PTSD treatment on VA.gov...**
+**When searching for on VA.gov**
 
 Problem: VA.gov chronically uses more words than are necessary to communicate information, creating visual problems and congnitive processing issues, e.g. Covid allerts causing wayfinding obstacles.
 - How might reduce cognitive load for our users?
