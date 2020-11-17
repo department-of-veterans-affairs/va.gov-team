@@ -8,19 +8,17 @@ require 'JSON'
 
 file = File.open("sprint-report.html", "w")
 
-#Indicates whether the person is looking for planned-work or unplanned-work in Github. 
 puts "Are you looking for \"planned-work\" or \"unplanned-work\"?"
 puts "Note: your issues need to be labeled accordingly in GitHub."
 label = gets.chomp
 puts "******************"
-#Indicates the specific milestone/sprint to grab issues from
 puts "What's the 3-digit ID of the milestone/sprint you need issues from?" 
 puts "You can find this number from https://github.com/department-of-veterans-affairs/va.gov-team/milestones"
 milestone = gets.chomp
 
 #GITHUB REQUEST
 
-gh_uri = URI.parse("https://api.github.com/repos/department-of-veterans-affairs/va.gov-team/issues?state=all&milestone=#{milestone}") 
+gh_uri = URI.parse("https://api.github.com/repos/department-of-veterans-affairs/va.gov-team/issues?state=all&per_page=100&milestone=#{milestone}&labels=#{label}") 
 gh_issue_url = "https://github.com/department-of-veterans-affairs/va.gov-team/issues/"
 gh_request = Net::HTTP::Get.new(gh_uri)
 gh_req_options = {   use_ssl: gh_uri.scheme == "https", }
@@ -32,11 +30,13 @@ end
 gh_response.body
 gh_json = JSON.parse(gh_response.body)
 
+file.puts label 
+
 #Zenhub processing and request
 file.puts "<table>"
 
 gh_json.each do |issue|
-	zh_api_key=#<Generate an API Token from your ZenHub account profile>
+	zh_api_key="68599b2c7a300e5680c14f80ca9f9172304e5668134bd85a5ff062f6a0f5c31220910034847e72fc"
 	zh_uri = URI.parse("https://api.zenhub.com/p1/repositories/133843125/issues/#{issue["number"]}")
 
 	zh_request = Net::HTTP::Get.new(zh_uri)
