@@ -51,13 +51,14 @@
     
 <details>
 	<summary>Testing jenkins job</summary>
+	
   - [Testing job](http://jenkins.vfs.va.gov/job/testing/job/vets-website/) summary shows the testing job history. 
     - The Blue Sky [view](http://jenkins.vfs.va.gov/blue/organizations/jenkins/testing%2Fvets-website/activity) is usually easier for viewing most things in the testing job 
     - [Filtered](http://jenkins.vfs.va.gov/blue/organizations/jenkins/testing%2Fvets-website/activity?branch=master) by the master branch, this view will show if there are any immediate problems with the current master branch build. 
     - The job detail view will show the workflow pipeline. Test failures can be viewed in the testing tab and each test failure has an accompanying stacktrace. 
     ![Testing job details](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-testing-job-detail.png)
         ![Testing job failure test detail](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-testing-job-failure-tests-view.png)
-    ![Testing job failure](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-testing-job-failure.png)</details>
+    ![Testing job failure](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-testing-job-failure.png)
     - Some steps are optionally run in the testing job: 
     	- CMS triggered: does not run the app build- uses the last successful app release
     	- Master branch change triggered: does not run the Cache Drupal content step</details>
