@@ -8,14 +8,14 @@ require 'JSON'
 
 file = File.open("sprint-report.html", "w")
 
-
-puts "Navigate to the link below to get your sprint ID"
-puts "Hover over your milestone/sprint name"
-puts "Note the milestone ID in the url. It's typically a 3 digit number."
-puts ""
-puts "https://github.com/department-of-veterans-affairs/va.gov-team/milestones"
-
-puts "Enter your milestone (aka sprint) ID e.g. 184"
+#Indicates whether the person is looking for planned-work or unplanned-work in Github. 
+puts "Are you looking for \"planned-work\" or \"unplanned-work\"?"
+puts "Note: your issues need to be labeled accordingly in GitHub."
+label = gets.chomp
+puts "******************"
+#Indicates the specific milestone/sprint to grab issues from
+puts "What's the 3-digit ID of the milestone/sprint you need issues from?" 
+puts "You can find this number from https://github.com/department-of-veterans-affairs/va.gov-team/milestones"
 milestone = gets.chomp
 
 #GITHUB REQUEST
