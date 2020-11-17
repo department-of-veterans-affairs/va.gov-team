@@ -1,7 +1,7 @@
 # Product Team tools
 
 ## Sprint Report tool
-<details>
+
   
 ### Common commands
 
@@ -31,4 +31,4 @@ These are some common commands you might find useful:
    - Ensure issues are estimated
 1. Paste your issues into your sprint report and fix formatting
 
-</details>
+
