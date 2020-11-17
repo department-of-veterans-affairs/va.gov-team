@@ -143,6 +143,10 @@ design - this channel has all designers across VA.gov. It’s nice to ask questi
 * Coordinating Scrum ceremonies e.g. Sprint Demo, Team of Teams
 * Re-posting links from other DSVA channels that we want to make sure the product team sees
 
+[#product](https://dsva.slack.com/channels/product) - this is a cross-VA channel meant to connect people working in product across programs/contracts. Right now, we use it to:
+* Share useful articles, podcasts, videos 
+* Share sample work including results of experiments and launches
+
 ### Engineering
 
 #### DSVA Channels
