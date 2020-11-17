@@ -35,7 +35,7 @@ Moderated qualitative research sessions with generative questioning and usabilit
 
 #### MUST: 
 
-- Be a Veteran, active duty service member, reservist, or national guard member. OR received treatment for MST.
+- Be a Veteran, active duty service member, reservist, or national guard member OR received treatment for MST.
 
 **AND**
 
