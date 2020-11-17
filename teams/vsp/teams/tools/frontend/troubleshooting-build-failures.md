@@ -3,17 +3,22 @@
 <details>
 	<summary>What are builds and how do they fit into the overall development process?</summary>
 	
-  - The output of software development is features for users. Vets-website utilizes a **continuous integration** (CI) process to deliver new features to users. CI is an umbrella term that encompasses 
-	  - Change management - e.g. tracking of all changes made to the code using git, facilitating and enforcing peer review 
-	  - Quality control - e.g. running automated tests against every change
-	  - Build process - includes all of the tasks to transform developer source code into the deliverable that users run on their computers 
-	  - Feedback - providing actionable feedback to developers about each of these pieces
+  - Vets-website is deployed through a [**continuous integration** (CI)](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment) process.
+  - Vets-website CI is a change management process that performs / provides
+	  - **Change tracking** with [git](https://www.git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F) 
+	  - [**Required reviews**](https://help.github.jp/enterprise/2.11/user/articles/about-required-reviews-for-pull-requests/) that include
+	    - **Required peer reviews** that leverage [codeowners](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/codeowners.md)
+	    - Quality control like running **required automated tests** against every change
+	  - **Build process** - includes static content and webapp builds 
+	  - **Feedback views** - provides actionable feedback to developers about each of these pieces</details>
+	  
+<details>
+	<summary>Current state of vets-website CI</summary>
   - The **focus** of this document is **developer feedback** part of the platform CI needed to troubleshoot build failures. The current feedback from the platform CI has a couple of broad issues 
 	  - **It's not always clearly actionable**: developers are often told that a failure has occurred but not how to resolve it. There can be many research steps involved to determine why something failed 
     - **The feedback is not pushed to developers**: when a pull request is submitted, the CI takes an indeterminant amount of time to through all of its validation stages and there's no estimate or notification to the engineer when the process is complete 
       - There can be significant cognitive friction associated with troubleshooting CI failures especially for users who are not familiar with the stack. There is not a clear mental model new engineers can use to understand everything the CI does.
-  - Developers should be able to focus on hard problems related to their domain not on understanding the platform's CI tech stack
-</details>
+  - Developers should be able to focus on hard problems related to their domain not on understanding the platform's CI tech stack</details>
 
 ## Jenkins jobs
 
