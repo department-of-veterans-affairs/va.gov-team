@@ -87,6 +87,16 @@ how do we get this infront of PM's
  Show at next weeks product sync, meet with Mickin prior
 
 
+Tze: 
+Staging review scheduling: 
+As a regular process, check in with Tze a week prior to opening the staging review ticket, or when you open the ticket , have artifacts in and tag Tze 1 week in advance. This makes it possible for Tze to get to it w/o being rushed (2day before meeting).
+
+Give 1 week notice prior to opening staging review ticket. 
+tag Tze in ticket, also tag him in slack. Things get lost in the process.
+
+Utlize "Use cases template" and provide to Tze
+
+When you open test plan ticket (with test cases included using Mickins use case template) 2 weeks ahead of staging review
 
 
 
