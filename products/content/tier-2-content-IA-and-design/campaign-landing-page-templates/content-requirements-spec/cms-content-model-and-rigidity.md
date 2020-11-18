@@ -77,11 +77,11 @@ For MVP, this will need to be a manual copy/paste.
 
 **Q:** Is the plan still to link out to other websites, eg www.blogs.va.gov? 
 
-**A:** 
+**A:** Yes.
 
 **Q:** If so: can we standardize around the 140 character count used in similar places in this design, instead of 100?
 
-**A:**
+**A:** Yes.
 
 **Q:** If not: that means editors will need to add stories to CMS, and we'll need to decide where to pull these teaser texts from. 
 
@@ -93,15 +93,15 @@ The most challenging part of this will be some new content attributes for downlo
 
 **Q:** Do we still expect Spanish language items? If so, can they just go in their own panel? 
 
-**A:**
+**A:** Yes, if you mean this be a separate panel option.
 
 **Q:** Has this gone through accessibility review? Eg "Download (PDF)" is probably not accessible. 
 
-**A:**
+**A:** This is based on the Find a Form tool download feature -- and yes, that went through accessibility review.
 
 **Q:** Can we standardize around the 140 character count used in other places here, instead of 100? 
 
-**A:**
+**A:** Yes
 
 ## 8. Events (optional)
 
@@ -143,11 +143,11 @@ Currently, all but the phone number are contained within the component, albeit w
 
 **Q:** Can this be standardized with Connect with us on Benefits Landing Pages? 
 
-**A:**
+**A:** To confirm: only email and social accounts are part of the existing benefits landing page component -- there is no option to add phone number and multiple social accounts, correct?   
 
 **Q:** What kind of flexibility around phone numbers is required, and is this 100% needed for MVP?
 
-**A:**
+**A:** Not needed for MVP (demo/prototype) -- but will be needed for first production-ready release.
 
 
 
