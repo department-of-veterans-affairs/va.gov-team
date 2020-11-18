@@ -1,6 +1,6 @@
 ---
 name: Analytics Product KPI Dashboard - Request Template
-about: To request a KPI dashboard on Domo for your product
+about: To request a KPI dashboard on Domo for your product, either new or an iteration
 title: Analytics KPI dashboard request for [Team]
 labels: analytics-insights, analytics-request, kpi-dashboard
 assignees: joanneesteban
@@ -17,6 +17,10 @@ Use this template to request a KPI dashboard on Domo for your product.
 - [ ] Your KPIs are clearly linked back to Veteran outcomes
 - [ ] Link your KPIs below (KPIs should be in your Product Outline)
 - [ ] Add your team label to follow progress
+
+Is this a new KPI dashboard request? Or is this an iteration? Please check the corrrect response.
+- [ ] New dashboard
+- [ ] Iteration of current dashboard
 
 ## VFS Information
 
