@@ -1,4 +1,4 @@
-# Keepalive Errors
+# Keepalive Errors - DRAFT
 
 14 errors related to making https://eauth.va.gov/keepalive calls
 [Sentry Error Page for Keepalive](http://sentry.vfs.va.gov/organizations/vsp/issues/?groupStatsPeriod=14d&project=3&project=4&query=is%3Aunresolved+assigned%3A%23vsp-identity+level%3Aerror+message%3A%22SSOe+error%3A%22&statsPeriod=14d)
@@ -10,7 +10,7 @@ About: In this about section, describe what the error in this page is about. Eac
 
 
 ## Label Description 
-[Description here]
+These sets of errors are related to the Javascript TypeError class from the fetch function. The naturally come with very little stack information as the errors often come from the browsers themselves and not from the servers we host va.gov on.
 
 ## Errors
 - [Error Name]()
