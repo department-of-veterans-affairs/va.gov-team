@@ -167,11 +167,11 @@ No questions.
 
 **Q:** Will new content be created to support CLPs and where will that content sit (directory/URL)?
 
-**A:** No.
+**A:** New content created: No, this will be a single landing page linking to existing content.
 
 **Q:** Will CLP expire or live on?
 
-**A:** Live on.  We will not delete it.
+**A:** An "expiration" feature is not necessary.  However, it is possible we -- with the VA user/stakeholder -- will review the performance of their individual CLPs after a period of time for its performance and usefulness and remove it.  One other possibility: Some CLP's will be annual in nature "Veteran Mental Health Awareness Month" -- whereby the content on the CLP would be over-written or updated. 
 
 **Q:** How will CLPs be found?
 
@@ -179,20 +179,18 @@ No questions.
 
 **Q:** Will CLPs sit in a new sub-directory? 
 
-**A:** No -- they would be nested in the most logical sub-directory -- e.g. a VBA va.gov/campaigns/name-of-campaign
+**A:** TBD
 
 ## Metadata
 
 
 **Q:** What should the meta title pattern be? Should it be automated or should someone be able to specify it? We assume the latter. 
 
-**A:**
-
+**A:** Someone should be able to specify it.
 
 **Q:** What should the meta description pattern be? Should it be automated or should someone be able to specify it? We assume the latter. 
 
-
-**A:**
+**A:** Someone should be able to specify it.
 
 **Q:** We assume meta image should be drawn from the hero image. Any other specs? 
 
