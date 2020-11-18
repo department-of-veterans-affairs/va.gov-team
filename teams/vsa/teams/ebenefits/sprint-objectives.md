@@ -22,11 +22,10 @@
 ### 2. Prepare EDU DD for Usability
 - Create prototype
 - Conduct usability sessions research plan and conversation guide
-- PRODUCT schedule collab cycle/ review activities
 
 ### 3. Add Pension questions to Dependency Claims
 - PRODUCT Add content to call center product guide
-- [#15155?] BE add new blank sheet to end of PDF which captures answers to questions (discuss details)
+- BE add new blank sheet to end of PDF which captures answers to questions (discuss details)
 
 ### 4. Prepare Dependency Claims for launch
 - BE continue to iterate on last-mile problems
@@ -38,7 +37,7 @@
 - FE Create flipper component
 
 ### 6. [Stretch] Confirm PCPG (CH36) CM Portal submission 
-- BE Trouble shoot payload issues
+- BE Troubleshoot payload issues
 - Depends on participation from CMP
 - Launch date moved to 1/4
 
