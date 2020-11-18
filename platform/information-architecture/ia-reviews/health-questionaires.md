@@ -27,15 +27,15 @@
 
 **Page** | **URL** | **Breadcrumb** | Notes
 --- | --- | --- | ---
-Static content page | www.va.gov/health-care/health-questionnaires/  | [Home](www.va.gov) > [Health care](www.va.gov/health-care/) > Health questionnaires |    
-Questionnaire list page | www.va.gov/health-care/health-questionnaires/questionnaires/ |[Home](www.va.gov) > [Health care](www.va.gov/health-care/) > Your health questionnaires | Note that breadcrumb does not include reference to the static page since it is bypassed for authenticated users. 
-Questionnaire/form | www.va.gov/health-care/health-questionnaires/questionnaires/answer-questions?id=[id#] | [Home](www.va.gov) > [Health care](www.va.gov/health-care/) > [Your health questionnaires](www.va.gov/health-care/health-questionnaires/questionnaires/) > Answer questions for your upcoming appointment | Note that breadcrumb does not include reference to the static page since it is bypassed for authenticated users. 
+Static content page | www.va.gov/health-care/health-questionnaires/  | [Home](https://www.va.gov) > [Health care](https://www.va.gov/health-care/) > Health questionnaires |    
+Questionnaire list page | www.va.gov/health-care/health-questionnaires/questionnaires/ |[Home](https://www.va.gov) > [Health care](https://www.va.gov/health-care/) > Your health questionnaires | Note that breadcrumb does not include reference to the static page since it is bypassed for authenticated users. 
+Questionnaire/form | www.va.gov/health-care/health-questionnaires/questionnaires/answer-questions?id=[id#] | [Home](https://www.va.gov) > [Health care](https://www.va.gov/health-care/) > [Your health questionnaires](https://www.va.gov/health-care/health-questionnaires/questionnaires/) > Answer questions for your upcoming appointment | Note that breadcrumb does not include reference to the static page since it is bypassed for authenticated users. 
 
 
 <hr>
 
-### Navigation, user flows and entry Points <br>
-*The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
+### Navigation, user flows and VA.gov entry points <br>
+*How users will navigate to and flow through the proposed experience.  Includes the primary entry points and changes to global navigation elements.*
 
 
 ![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/f0a7c9e3-0586-41c6-a90b-9d216a454c27)
@@ -47,8 +47,11 @@ Questionnaire/form | www.va.gov/health-care/health-questionnaires/questionnaires
   - Alternate flow: Bypass the unauthenticated view of the questionnaire and take users directly to to sign in/authentication and then to questionnaire list - this is similar to other flows and doesn't give potential false impression that the questionnaire is available to complete. 
 
 
-**Priority** | **Placement** | **Description**
---- | --- | ---
+**Priority** | **Placement** | **Label** | **Destination** | **Description** 
+--- | --- | --- | --- | ---
+tbd | [Health care hub landing page](https://www.va.gov/health-care) | tbd | Questionnaire static content page (https://www.va.gov/health-care/health-questionnaires/) | tbd
+tbd | Health care hub left nav | tbd | Questionnaire static content page (https://www.va.gov/health-care/health-questionnaires/) | tbd
+tbd | [VA appointments list page](https://www.va.gov/health-care/schedule-view-va-appointments/appointments/) | tbd | Questionnaire list tool (https://www.va.gov/health-care/health-questionnaires/questionnaires/) | tbd
 
 
 *Priority: Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
