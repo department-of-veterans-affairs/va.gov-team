@@ -7,10 +7,11 @@
 - [Cypress Custom Commands](#cypress-custom-commands)
   - [Mock User: `cy.login(userData)`](#mock-user-cyloginuserdata)
   - [Test Data: `cy.syncFixtures(fixtures)`](#test-data-cysyncfixturesfixtures)
-  - [Viewport Presets: `cy.viewportPreset(name, orientation, options)`](#)
+  - [Viewport Presets: `cy.viewportPreset(preset, orientation, options)`](#)
   - [File Uploads: `cy.upload(fileName, fileType)`](#file-uploads-cyuploadfilename-filetype)
-  - [Accessibility - `cy.axeCheck(context)`](#accessibility-cyaxecheckcontext)
   - [Expand Accordions: `cy.expandAccordions()`](#expand-accordions-cyexpandaccordions)
+  - [Accessibility - `cy.axeCheck(context)`](#accessibility-cyaxecheckcontext)
+  - [Title: `injectAxeThenAxeCheck()`](#)
 - [Viewports](#viewports)
 - [Cypress Testing Library Selectors](#cypress-testing-library-selectors)
 - [`data-testid` Attribute](#data-testid-attribute)
@@ -257,6 +258,16 @@ cy.findByText('Upload', { selector: 'button' }).upload(
 );
 ```
 
+### Expand Accordions: cy.expandAccordions()
+
+**Source file:** https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/expandAccordions.js
+
+**Description:**  
+The custom command -- cy.expandAccordions() -- expands all accordions and `AdditionalInfo` components.
+
+**Arguments:**  
+None
+
 ### Accessibility: cy.axeCheck(context)
 
 **Source file:**  
@@ -287,15 +298,9 @@ cy.axeCheck(); // Run the aXe check after expanding everything.
 
 Please note: Tests written with the form tester automatically check for accessibility, so this command does not need to be used explicitly in such tests.
 
-### Expand Accordions: cy.expandAccordions()
+### Title: injectAxeThenAxeCheck()
 
-**Source file:** https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/expandAccordions.js
-
-**Description:**  
-The custom command -- cy.expandAccordions() -- expands all accordions and `AdditionalInfo` components.
-
-**Arguments:**  
-None
+Documentation goes here...
 
 ## Viewports
 
