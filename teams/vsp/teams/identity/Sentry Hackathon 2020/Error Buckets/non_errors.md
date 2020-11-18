@@ -6,8 +6,7 @@
 
 **About:** In this about section, describe what the error in this page is about. Each error page should use the following to get started with documenting the errors we encounter.
 
-Table of Contents
-=================
+## Table of Contents
 
   * Label Description
   * [List error names]()
