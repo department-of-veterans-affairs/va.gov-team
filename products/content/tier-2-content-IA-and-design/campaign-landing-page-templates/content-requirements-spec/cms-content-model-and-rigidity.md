@@ -20,6 +20,11 @@
 
 **Q:** Image: What size does the front end need? What aspect ratio? 
 
+
+**Q:** Image: How important is support for truly responsive images (Content API serving different image densities for different screen sizes) 
+
+
+
 ## 2. Why this matters (required)
 
 **Q:** "This page is for" panel: Can this reuse the audience taxonomies from Resources & support? Some of the labels are different, but we strongly recommend aligning this (should be a Content & IA collaboration)
