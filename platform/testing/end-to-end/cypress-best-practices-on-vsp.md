@@ -7,6 +7,7 @@
 - [Cypress Custom Commands](#cypress-custom-commands)
   - [Mock User: `cy.login(userData)`](#mock-user-cyloginuserdata)
   - [Test Data: `cy.syncFixtures(fixtures)`](#test-data-cysyncfixturesfixtures)
+  - [Viewport Presets: `cy.viewportPreset(name, orientation, options)`](#)
   - [File Uploads: `cy.upload(fileName, fileType)`](#file-uploads-cyuploadfilename-filetype)
   - [Accessibility - `cy.axeCheck(context)`](#accessibility-cyaxecheckcontext)
   - [Expand Accordions: `cy.expandAccordions()`](#expand-accordions-cyexpandaccordions)
@@ -161,6 +162,79 @@ cy.syncFixtures({
 cy.route('/v0/foo', 'fixture:data/foo');
 cy.route('/v0/bar', 'fixture:data/bar');
 ```
+
+### Viewport Presets: cy.viewportPreset(preset, orientation, options)
+
+**Source file:**  
+The link is not available yet. The PR for this feature has not been approved yet.
+
+**Description:**  
+Presets are available for:
+
+- The top 5 viewports for mobile, tablet, and desktop, updated monthly from VA.gov's Google Analytics
+- All iPhone and iPad devices
+
+**Arguments:**
+
+- preset -- a `String`, the preset name
+- orientation -- a `String`, `portrait` or `landscape`, defaults to `portrait`
+- options -- an `Object`, `log` property is set to a `boolean`, defaults to `true`
+
+#### Preset Names
+
+##### Top 5 Presets by Traffic Percentage, Descending
+
+The viewport values these presets point to is updated monthly. The last number in the preset name represents the traffic rank where 1 is highest. For example, if you want to set the viewport to the logical width and height of the mobile device most used on VA.gov, use preset `mobile-top5-1`.
+
+| Mobile          | Tablet          | Desktop          |
+| --------------- | --------------- | ---------------- |
+| `mobile-top5-1` | `tablet-top5-1` | `desktop-top5-1` |
+| `mobile-top5-2` | `tablet-top5-2` | `desktop-top5-2` |
+| `mobile-top5-3` | `tablet-top5-3` | `desktop-top5-3` |
+| `mobile-top5-4` | `tablet-top5-4` | `desktop-top5-4` |
+| `mobile-top5-5` | `tablet-top5-5` | `desktop-top5-5` |
+
+##### iOS Presets
+
+| iPhone              | iPad               |
+| ------------------- | ------------------ |
+| `iphone-1st-gen`    | `ipad-1`           |
+| `iphone-3g`         | `ipad-2`           |
+| `iphone-3gs`        | `ipad-3`           |
+| `iphone-4`          | `ipad-mini-1`      |
+| `iphone-4s`         | `ipad-4`           |
+| `iphone-5`          | `ipad-air-1`       |
+| `iphone-5c`         | `ipad-mini-2`      |
+| `iphone-5s`         | `ipad-air-2`       |
+| `iphone-6-plus`     | `ipad-mini-3`      |
+| `iphone-6`          | `ipad-mini-4`      |
+| `iphone-6s-plus`    | `ipad-pro-1-12.9`  |
+| `iphone-6s`         | `ipad-pro-1-9.7`   |
+| `iphone-se-1st-gen` | `ipad-5`           |
+| `iphone-7-plus`     | `ipad-pro-2-12.9`  |
+| `iphone-7`          | `ipad-pro-2--10.5` |
+| `iphone-8-plus`     | `ipad-6`           |
+| `iphone-8`          | `ipad-pro-3-12.9`  |
+| `iphone-x`          | `ipad-pro-3-11`    |
+| `iphone-xs-max`     | `ipad-air-3`       |
+| `iphone-xs`         | `ipad-mini-5`      |
+| `iphone-xr`         | `ipad-7`           |
+| `iphone-11-pro-max` | `ipad-pro-4-12.9`  |
+| `iphone-11`         | `ipad-pro-4-11`    |
+| `iphone-11-pro`     |
+| `iphone-se-2nd-gen` |
+| `iphone-12-pro-max` |
+| `iphone-12`         |
+| `iphone-12-pro`     |
+| `iphone-12-mini`    |
+
+#### Usage
+
+To set the viewport, simply call `cy.viewportPreset()` and pass in one of the above preset names as an argument, like so: `cy.viewportPreset('iphone-12');`.
+
+To set the orientation to landscape, pass in 'landscape' as a second argument, like so: `cy.viewportPreset('iphone-12', 'landscape');`.
+
+To prevent the command from being displayed in the command log, pass in `{ log: false }` as a third argument, like so: `cy.viewportPreset('iphone-12', 'landscape', { log: false });`.
 
 ### File uploads: cy.upload(fileName, fileType)
 
