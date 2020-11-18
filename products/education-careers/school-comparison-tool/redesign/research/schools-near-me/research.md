@@ -67,7 +67,7 @@ irb(main):009:0> Geocoder.search("29424").filter{|r| r.country_code == 'us'}
 ```
 
 
-### Vets-website
+## Vets-website
 Both of these are currently used by https://staging.va.gov/find-locations
 - https://react-leaflet.js.org/ for a visual map
 - https://github.com/mapbox/mapbox-sdk-js and https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API for zip code and latitude and longitude values 
