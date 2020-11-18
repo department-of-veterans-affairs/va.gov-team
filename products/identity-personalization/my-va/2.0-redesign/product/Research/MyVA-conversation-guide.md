@@ -372,6 +372,8 @@ Thanks so much! If you could go ahead and stop sharing your screen. Let's take a
 
 *Moderator shares screen and pulls up side by side screens*
 
+Link: https://vsateams.invisionapp.com/boards/AX415Z9VRDY/
+
 1. Overall, which prototype do you prefer? Why?
 2. Do you prefer to see updates at the top of the screen or collapsed in each section?
 3. How did these pages meet your expectations? 
