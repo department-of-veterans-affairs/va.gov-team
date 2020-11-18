@@ -35,7 +35,6 @@ It is because of this that we are going to dedicate all of 2020, and as much of 
 
 |Project|Q3 2020|Q4 2020|Q1 2021|Q2 2021|Q3 2021|Q4 2021|
 |----|----|----|----|----|----|----|
-|**Profile 2.0**| Build; QA; pre-launch | Launch | — | — | — | — |
 |**My VA 2.0**| Start technical discovery; start design | Design | Finish design; user testing; FE build | QA; pre-launch; launch | — | — |
 |**Direct deposit for edu**| Begin discovery | Continue discovery; design; build | QA; pre-launch; launch| — | — | — |
 |**Preferred facility for VA.gov profile**| — | Discovery; BE implementation; Design | User testing; FE build; QA; launch |  — | — | — |
