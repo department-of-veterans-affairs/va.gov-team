@@ -21,7 +21,8 @@ File for [benefit] or Apply for [benefit] and the VA paper form equivalency appe
 2. After the H1 there should be a line of content letting users know that they successfully submitted their application. <br>
   
       **Thank you for submitting your application** or <br>
-      **Your claim has been submitted** <br>
+      **We've received your application**
+    
    
 3. A line of content letting users know that they can print the page for their records. <br>
 
