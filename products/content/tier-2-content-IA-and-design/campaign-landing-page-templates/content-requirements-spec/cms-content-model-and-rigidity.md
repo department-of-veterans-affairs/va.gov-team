@@ -165,6 +165,10 @@ No questions.
 
 ## IA & Content
 
+**Q:** How will the URL be specified?
+
+**A:** TBD
+
 **Q:** Will new content be created to support CLPs and where will that content sit (directory/URL)?
 
 **A:** New content created: No, this will be a single landing page linking to existing content.
