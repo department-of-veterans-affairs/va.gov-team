@@ -54,15 +54,15 @@ Congress has recently asked VHA to provide COVID-19 content (and other essential
 
 From March 15, 2020, to October 11, 2020, these are the total number of users visiting the coronavirus FAQs in languages other than English:
 
-es-us - Spanish (United States): 11,459
-es-419 - Spanish (Latin America and Caribbean region): 4,658
-es-xl - Spanish (Mexico?): 4,569
-es-es - Spanish (Spain): 3,507
-zh-ch - Chinese (People's Republic of China): 684
-ko-kr - Korean (Korea): 422
-de-de - German (Germany): 124
-ko - Korean: 97
-fr-fr - French (France): 51
+- es-us - Spanish (United States): 11,459 
+- es-419 - Spanish (Latin America and Caribbean region): 4,658
+- es-xl - Spanish (Mexico?): 4,569
+- es-es - Spanish (Spain): 3,507
+- zh-ch - Chinese (People's Republic of China): 684
+- ko-kr - Korean (Korea): 422
+- de-de - German (Germany): 124
+- ko - Korean: 97
+- fr-fr - French (France): 51
 
 ### Objectives and Key results (OKRs)
 
