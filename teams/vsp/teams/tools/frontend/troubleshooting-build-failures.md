@@ -177,13 +177,20 @@ _The test job is triggered at **Wait for a valid build status** - this is the mo
 			
 <details>
 	<summary>Handling production deployment failures</summary>
-	
+
   - Frontend tools team is responsible for resolving production deployment failures. **The website must be deployed every business day**.
   - Since many teams rely on this, failures should be handled with **proactive communication**
-    - Stakesholders current watch the #vfs-engineers channel for failures announcement- acknowledge a failure as soon as possible 
+    - Stakeholders currently watch the #vfs-engineers channel for failures announcement; acknowledge a failure as soon as possible 
     - Proactively update status of failure resolution. It's good practice to link to the jobs you are monitoring or waiting for. 
     - Escalate failures as needed to engineering leadership. 
-  - The autodeploy will wait until the latest master build finishes. Keeping the [master branch](http://jenkins.vfs.va.gov/blue/organizations/jenkins/testing%2Fvets-website/activity?branch=master) job passing is a good way to avoid delaying the production deployment. </details>
+  - The autodeploy will wait until the latest master build finishes.
+    - The release will include commits up to the most recent one as of starting the job.
+    - Keeping the [master branch](http://jenkins.vfs.va.gov/blue/organizations/jenkins/testing%2Fvets-website/activity?branch=master) job passing is a good way to avoid delaying the production deployment.
+  - **Before manually running the autodeploy, make sure that the most recent commits have been deployed to staging.**
+    - Production should not have commits that have not been deployed to staging.
+    - The simplest way to deploy the most recent commit to staging is to re-run the presumably failed build at the head of master until it passes.
+    - You can inspect the [BUILD.txt on staging](https://staging.va.gov/BUILD.txt) to confirm what commit it's on.
+</details>
       
 <details>
 	<summary>Summary of feedback UIs</summary>
