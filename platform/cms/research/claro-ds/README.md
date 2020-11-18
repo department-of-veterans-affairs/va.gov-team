@@ -7,7 +7,7 @@ The VFS-CMS is VA.gov's content management system that provides the structured c
 
 Our objective for this research is to **gather first impressions about the Claro Design System and identify opportunities to mitigate impacts during the transition from the current Drupal design system to Claro design dystem**. 
 
-#### Solution Hypothesis
+#### Hypothesis
 * ...
 
 #### Research Questions
