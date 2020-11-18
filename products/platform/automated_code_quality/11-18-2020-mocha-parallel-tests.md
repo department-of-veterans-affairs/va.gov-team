@@ -22,6 +22,7 @@ We discussed multiple options including:
 
 - Exclude these tests and run them separately without parallelization (this didn't work and would also result in a whack-a-mole process if other tests started using similar mocks).
 - Assigning a specific port to each call (needs discovery)
+- Rewrite all the tests that aren't working and using mocks
 - Turning off the tests using mock API calls and convert them into Cypress (re-writing the tests).
 
 ## Decision
