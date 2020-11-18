@@ -2,7 +2,7 @@
 
 This guide is a comprehensive guide of Cypress related resources currently active within VSP (as of 11/2020).
 
-The following helpers and mocks are currently used within Cypress tests on `vets-website`. In addition to their directories, the purpose, an import method, and a reference of the function is supplied.
+The following helpers and mocks are currently used within Cypress tests on `vets-frontend`. In addition to their directories, the purpose, an import method, and a reference of the function is supplied.
 
 # Table of Contents
 
@@ -40,7 +40,7 @@ The following helpers and mocks are currently used within Cypress tests on `vets
    11. [getExpressCareRequestCriteriaMock](#get-express-care-request-criteria-mock)
    12. [getParentSiteMock](#get-parent-site-mock)
 
-# Cypress & VAOS Helperss <a name="cypress-vaos-helpers"></a>
+# Cypress & VAOS Helpers <a name="cypress-vaos-helpers"></a>
 
 Custom helpers are reusable components for commonly needed test situations, like loading custom data, profiles, or appointments. Below is a list of helpers currently written along with import methods, purpose, and a reference guide.
 
