@@ -61,6 +61,7 @@ Sentry Error Links:
   
 ## Parking Lot
 - Note: area where we throw questions into so we can move forward
+- [User attributes is missing an ID.me UUID](http://sentry.vfs.va.gov/organizations/vsp/issues/418/?environment=production&project=3&project=4&query=is%3Aunresolved+assigned%3A%23vsp-identity+%21level%3Aerror&statsPeriod=14d) walk through from Eric was offered.
   
 ## Issue List
 - List out tickets created during Hackathon here
