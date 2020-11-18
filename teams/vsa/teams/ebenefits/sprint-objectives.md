@@ -9,7 +9,7 @@
 - Remember the Contact Center (Alamo!) and the issues they deal with
 - Try to focus on a fewer number of features at a time
 ----
-## Sprint 354 (11/18 - 12/1)
+## Sprint 35 (11/18 - 12/1)
 ```diff
 - TBD
 ```
