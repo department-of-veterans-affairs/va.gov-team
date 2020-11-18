@@ -52,8 +52,7 @@ _File order generally corresponds to call order._
   
   </details>
     
-<details>
-	<summary>Auto deploy Jenkins job</summary>
+### Auto deploy Jenkins job
 	
   <details>
 	<summary> Auto deploy job summary shows the job history and has links to starting a new auto deployment. **Never** rerun an autodeploy job- always start a **new** auto deploy job. </summary>
@@ -75,10 +74,12 @@ _The test job is triggered at **Wait for a valid build status** - this is the mo
 	<summary>Auto deploy detail view</summary>
 - The auto deploy detail view has links to the logs and what triggered the build e.g. va-cms-bot is what starts the content deployments 
 
-![Auto deploy job details](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-autodeploy-details.png)</details></details>
-    
+![Auto deploy job details](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-autodeploy-details.png)</details>
+
+### Testing jenkins job
+
 <details>
-	<summary>Testing jenkins job</summary>
+	<summary>summary / detail views</summary>
 	
   - [Testing job](http://jenkins.vfs.va.gov/job/testing/job/vets-website/) summary shows the testing job history. 
     - The Blue Sky [view](http://jenkins.vfs.va.gov/blue/organizations/jenkins/testing%2Fvets-website/activity) is usually easier for viewing most things in the testing job 
