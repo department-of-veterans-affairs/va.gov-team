@@ -7,6 +7,8 @@
 - In the Attendees section, make sure everyone except the participant is on mute
 - In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
 - Check your [screensharing setup]
+  - *Change your name if necessary:* View > Show Manage Participants > More
+  - *Enable user to share scrren:* Click arrow beside "Share Screen" > Advanced Sharing Options... ? > Who can share? Check "All Participants"
 - When the participant is ready, begin the session with the following intro
 
 ## Intro - 5 minutes
