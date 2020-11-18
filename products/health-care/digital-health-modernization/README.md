@@ -69,4 +69,14 @@ How does this map to our North Star?
 It IS our North Star. 
 
 How will we measure success?
-- Engagement with tools, improved health outcomes, ratio of appts in person to other methods, Contact Center data, etc. 
+- Engagement with tools, improved health outcomes, ratio of appts in person to other methods, Contact Center data, etc.
+
+## Milestones / Timeline
+November 2020:
+- Stakeholder interviews across VA Health Products to map current health product landscape
+December 11, 2020:
+- First round of user research studies completed
+- Analytics analysis complete
+January 2020:
+- Present recommendations of prioritized updates for the va.gov, which may include new features and updating/integrating existing functionality
+- Start building
