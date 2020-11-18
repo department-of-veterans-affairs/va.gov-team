@@ -14,14 +14,14 @@
 - TBD
 ```
 ### 1. Finish VRE CMS integration and application (CH31)
-- TEST IN STAGING Tues Dec 1
+- **TEST IN STAGING Tues Dec 1**
     - BE finish endpoint integration
 - FE finalize GA events
 - PRODUCT schedule collab cycle/ review activities
 
 ### 2. Prepare EDU DD for Usability
-- Create prototype
-- Conduct usability sessions research plan and conversation guide
+- DE: Create prototype
+- DE: Conduct usability sessions research plan and conversation guide
 
 ### 3. Add Pension questions to Dependency Claims
 - PRODUCT Add content to call center product guide
