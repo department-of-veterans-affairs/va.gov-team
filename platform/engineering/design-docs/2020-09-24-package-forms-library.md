@@ -198,9 +198,10 @@ The [Platform Entanglement](#platform-entanglement) section mentions that forms 
 - Prefer code that exists in the forms library, instead of in the parent platform directory.
   - Anything used by the forms library should be _in_ the forms library, or declared as a dependency.
   - For example, we have a [`focusElement`](https://github.com/department-of-veterans-affairs/vets-website/blob/46000a4becae29ca72b505889713fd4b2b2718f0/src/platform/utilities/ui/index.js#L17-L32) that exists in `platform/utilities/ui`, but also one that exists in [`forms-system/src/js/utilities/ui`](https://github.com/department-of-veterans-affairs/vets-website/blob/46000a4becae29ca72b505889713fd4b2b2718f0/src/platform/forms-system/src/js/utilities/ui/index.js#L3-L18). This project would eliminate the duplicate code existing at the platform level and direct all imports to use the forms library version
-- Remove imports from `platform/monitoring`
+- Remove imports from `platform/monitoring` _where feasible_
   - Instead, import the relevant code outside of the forms library and pass them in as props or config options.
   - As an example, in the [`FormSignInModal`](https://github.com/department-of-veterans-affairs/vets-website/blob/1cc955b8d4f6b9f93f4553fdd4afa9878c75564f/src/platform/forms/save-in-progress/FormSignInModal.jsx#L12) component, remove the `platform/monitoring/record-event` import and instead put that function call inside of the function that gets passed as a prop. `FormSignInModal` is only used from `platform/site-wide`.
+  - Removing imports of `<DowntimeNotification>` will be covered in Future Work
 - Remove forms library dependence on platform re-implementations of 3rd party functions, like lodash's `get` and `set`. Use the forms library implementations where possible.
 - Remove imports for `src/platform/utilities/environment` and instead rely on global `const`s from webpack's DefinePlugin for environment-related `const`s (i.e. an api url) or branching
 
@@ -247,6 +248,18 @@ Yarn workspaces were considered as a solution to this, they are added complexity
 We can use `yarn add link:./src/platform/packages/forms-library` to add the forms library to the `vets-website` package.json file and have it symlinked in the lock file automatically.
 
 ### Future Work
+
+#### Further disentangling
+
+Some of the directories mentioned in [Platform Entanglement](#platform-entanglement) will require larger, out-of-scope refactoring. This includes:
+
+- imports of `<DowntimeNotification>` from `platform/monitoring`
+- imports of `toggleLoginModal` from `platform/site-wide`
+- imports of `logOut` and `removeSavedForm` from `platform/user`
+
+One option would be to create sibling packages to `forms-library` (each with their own webpack config, etc.) so that the forms library can declare these external dependencies and import them as a package.
+
+Another option would be to refactor the code so that these imports are no longer necessary.
 
 #### Separate repo
 
