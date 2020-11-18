@@ -101,6 +101,21 @@ _The test job is triggered at **Wait for a valid build status** - this is the mo
 ## Troubleshooting 
 
 <details>
+	<summary>👀 What to watch 👀</summary>
+
+### Failed [master branch jobs](http://jenkins.vfs.va.gov/blue/organizations/jenkins/testing%2Fvets-website/activity?branch=master) should be restarted- investigate details if they continue to fail 
+
+![master job list restart](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vets-website-master-job-list-restart.png)
+
+### Production deploy failure notifications in slack in #vfs-engineers
+
+![vfs-engineers-vets-website-deploy-failure](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsp/teams/tools/frontend/vfs-engineers-vets-website-failure.png)
+
+### Manual deployment [documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/deploy)
+
+</details>
+
+<details>
 	<summary>Typical process for deploying features</summary>
 
    - Developers pull the entire code base onto their computers to make their changes. This enables them to run their application locally for testing
