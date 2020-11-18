@@ -212,6 +212,9 @@ The [Platform Entanglement](#platform-entanglement) section mentions that forms 
 This is separate from updating the imports. We want the forms library not to depend on the "global" webpack & mocha configuration for `vets-website`, so we will add appropriate config files so that it can be built and tested as a standalone package.
 
 - New webpack & mocha configuration files for the forms library
+  - The webpack config will need to specify all of the `entry` fields (`components`, `definitions`, `pages`, ...) that applications will be importing from
+    - Having the build output organized like this will allow imports to be structured like: `import { address } from 'forms-library/definitions'`, rather than having everything be bundled into a single file.
+  - The `src/platform/packages` directory will also be excluded from the root-level `vets-website` webpack config
 - CircleCI config to run forms library unit test on forms library changes
 - `vets-website` changes to webpack & mocha config/scripts to prevent the forms library from getting built & tested as part of each PR
 - Add an `.eslintrc` file to the new forms library package and configure `no-restricted-imports` to block imports from application code and platform code.
