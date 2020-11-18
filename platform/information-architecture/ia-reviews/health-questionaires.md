@@ -14,26 +14,44 @@
 ### IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements. *
 
-**Approach:**
+- Health questionnaires will live within the health care benefit hub along with all other health care tools and content. 
+- The experience will include
+  - Static content landing page  - Primarily used for unauthenticated experience.  Content will be optimized for SEO. Page is bypassed for authenticated users. 
+  - Questionnaire list - Dynamic tool showing all of the open and completed questionnaires for the user.
+  - Questionnaires - Online form
+  - Completed questionnaire PDFs - completed questionnaires will be stored as PDFs and available for download
 
-- 
+
+![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/7a36bc0e-6d15-4ca2-a109-c35d713e2dc5)
 
 
-Page | URL | Breadcrumb
---- | --- | ---
+**Page** | **URL** | **Breadcrumb** | Notes
+--- | --- | --- | ---
+Static content page | www.va.gov/health-care/health-questionnaires/  | [Home](www.va.gov) > [Health care](www.va.gov/health-care/) > Health questionnaires |    
+Questionnaire list page | www.va.gov/health-care/health-questionnaires/questionnaires/ |[Home](www.va.gov) > [Health care](www.va.gov/health-care/) > Your health questionnaires | Note that breadcrumb does not include reference to the static page since it is bypassed for authenticated users. 
+Questionnaire/form | www.va.gov/health-care/health-questionnaires/questionnaires/answer-questions?id=[id#] | [Home](www.va.gov) > [Health care](www.va.gov/health-care/) > [Your health questionnaires](www.va.gov/health-care/health-questionnaires/questionnaires/) > Answer questions for your upcoming appointment | Note that breadcrumb does not include reference to the static page since it is bypassed for authenticated users. 
 
-**General Details**
-- Please connect with your writer/editor on the proper verbiage and capitalization of the last element of the breadcrumb
 
 <hr>
 
-### Navigation Changes and Entry and Exit Points <br>
+### Navigation, user flows and entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
-Priority | Placement | Description
+
+![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/f0a7c9e3-0586-41c6-a90b-9d216a454c27)
+
+
+1. Bypass the static page if the user is already authenticated.  
+2. The sign in/create account process is bypassed if user is already authenticated. 
+3. When linking directly to a questionnaire, an unauth view of the requested questionnaire is displayed, then users are prompted to sign in (if needed) and then either the questionnaire is displayed for them to continue, or an error message is displayed if the questionnaire is no longer available/valid
+  - Alternate flow: Bypass the unauthenticated view of the questionnaire and take users directly to to sign in/authentication and then to questionnaire list - this is similar to other flows and doesn't give potential false impression that the questionnaire is available to complete. 
+
+
+**Priority** | **Placement** | **Description**
 --- | --- | ---
 
-***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
+
+*Priority: Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
 <hr>
 
