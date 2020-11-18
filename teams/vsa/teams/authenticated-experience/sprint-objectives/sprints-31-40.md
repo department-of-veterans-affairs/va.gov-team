@@ -294,6 +294,12 @@ Are we ready for Matt to work on staging users list yet?
 - Convert mobile wireframes to desktop
 - (AFTER desktop wireframe has been finished) Start visual design
 
+### VA Profile notification preferences
+
+**PM**
+
+- Create product outline
+
 **Dev**
 
 ## Sprint 37 (12/16 – 12/29)
@@ -306,6 +312,16 @@ Are we ready for Matt to work on staging users list yet?
 - Gather feedback from design team
 
 **Dev**
+
+### VA Profile notification preferences
+
+**PM**
+
+- Hold platform kickoff
+
+**BE**
+
+- Technical discovery
 
 ## Sprint 38 (12/30 – 1/12)
 
