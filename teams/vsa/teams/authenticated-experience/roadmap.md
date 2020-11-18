@@ -19,7 +19,7 @@
 |[Direct deposit for comp & pen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/README.md) | Launch completed Jan 2020|
 |[Duplicate health care application indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/181023hcachanges.md) | Launch completed May 2019 |
 |VA Profile (formerly Vet360) initial integration | Launch completed Summer 2018 |
-|Dashboard/Profile/Account MVPs | Launch completed Spring 2018 |
+|[Dashboard/Profile/Account MVPs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-mvp) | Launch completed Spring 2018 |
 
 ## Roadmap
 
