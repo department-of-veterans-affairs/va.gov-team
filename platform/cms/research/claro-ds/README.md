@@ -5,14 +5,14 @@ This research plan is for the VFS-CMS - VFS-CMS team.
 
 The VFS-CMS is VA.gov's content management system that provides the structured content templates, workflows and governance that help various teams at VA serve veterans accurate, accessible, up-to-date content.
 
-Our objective for this research is to **gather first impressions about the Claro Design System and identify opportunities to mitigate impacts during the transition from the current Drupal design system to Claro Design System**. 
+Our objective for this research is to **gather first impressions about the Claro Design System and identify opportunities to mitigate impacts during the transition from the current Drupal design system to Claro design dystem**. 
 
 #### Solution Hypothesis
 * ...
 
 #### Research Questions
-* How useful and usable will CMS users find the Claro Design System?
-* Are there particular aspects of the Claro Design System our team should consider as we transition to the new system? More specifically, are there any changes needed to the UI? Are there areas which will require training for users?
+* How useful and usable will CMS users find the Claro design system?
+* Are there particular aspects of the Claro design system our team should consider as we transition to the new system? More specifically, are there any changes needed to the UI? Are there areas which will require training for users?
 
 #### What knowledge will make us feel like the research process has been successful?
 Developing an uderstanding of how Claro Admin UI impacts people's experiences in the CMS will show our research process has been successful. In particular, identifying visual adjustments that would ease the transition to Claro.
@@ -20,7 +20,7 @@ Developing an uderstanding of how Claro Admin UI impacts people's experiences in
 ## Method	
 
 **What method of research are you planning?**
-20-minute remote _Thinking Aloud Test_ in a demi environment with Claro Design System installed, followed by the Post-Study System Usability Questionnaire (PSSUQ) and follow-up questions.
+20-minute remote _Thinking Aloud Test_ in a demi environment with Claro design system installed, followed by the Post-Study System Usability Questionnaire (PSSUQ) and follow-up questions.
 
 This session will not be recorded. We'll use verbatim notes to register the session, followed by synthesized notes on our observations.
 
@@ -31,7 +31,7 @@ The _Thinking Aloud Test_ was chosen because we're interested in users' thoughts
 Online, via Zoom. Remote observers and note takers will be in attendance.
 
 **What will you be testing?**
-Demo environment with Claro Admin UI installed.
+Demo environment with Claro design system installed.
 
 ## Participants and Recruitment	
 * [TBD] CMS frequent CMS users: 3 participants.
