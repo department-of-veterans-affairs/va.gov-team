@@ -95,8 +95,7 @@ Give 1 week notice prior to opening staging review ticket.
 tag Tze in ticket, also tag him in slack. Things get lost in the process.
 
 Utlize "Use cases template" and provide to Tze
-
-When you open test plan ticket (with test cases included using Mickins use case template) 2 weeks ahead of staging review
+usability testing review ticket - include use cases document
 
 
 
