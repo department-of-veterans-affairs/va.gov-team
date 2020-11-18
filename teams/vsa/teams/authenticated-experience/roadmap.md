@@ -39,7 +39,7 @@ It is because of this that we are going to dedicate all of 2020, and as much of 
 |**Direct deposit for edu**| Begin discovery | Continue discovery; design; build | QA; pre-launch; launch| — | — | — |
 |**Preferred facility for VA.gov profile**| — | Discovery; BE implementation; Design | User testing; FE build; QA; launch |  — | — | — |
 
-### Additional potential future projects & feature requests from other teams
+### Potential future projects & feature requests from other teams
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
