@@ -59,4 +59,7 @@ These sets of errors are related to the Javascript TypeError class from the fetc
 - Figure out how to add more context than what we get from the js typeerrors today, also look at sentry potentially providing more info.
 - Reclassify all other remaining errors within this bucket
 - Document each of the errors being reporting inside this bucket
+
+#### Related Issues:
+https://github.com/department-of-veterans-affairs/va.gov-team/issues/16388
    
