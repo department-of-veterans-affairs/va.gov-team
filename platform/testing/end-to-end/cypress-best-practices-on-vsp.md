@@ -1,6 +1,7 @@
 # Cypress Best Practices on VSP
 
 ## Table of Contents
+
 - [Introduction](#introduction)
 - [Cypress Form Tester](#cypress-form-tester)
 - [Cypress Custom Commands](#cypress-custom-commands)
@@ -9,15 +10,18 @@
   - [File Uploads: `cy.upload(fileName, fileType)`](#file-uploads-cyuploadfilename-filetype)
   - [Accessibility - `cy.axeCheck(context)`](#accessibility-cyaxecheckcontext)
   - [Expand Accordions: `cy.expandAccordions()`](#expand-accordions-cyexpandaccordions)
-<!---- [Viewports](#viewports)--->
+- [Viewports](#viewports)
 - [Cypress Testing Library Selectors](#cypress-testing-library-selectors)
 - [`data-testid` Attribute](#data-testid-attribute)
 
 ## Introduction
+
 End-to-end (e2e) testing on VA.gov is accomplished using a frontend testing framework called Cypress. Cypress tests run in the browser and programmatically simulate a real user using a web application, or product. These tests are used to verify that the product works as expected across different browsers and viewport dimensions.
 
 The following documentation details Cypress best practices on VSP.
+
 ## Cypress Form Tester
+
 **Source file:**
 https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/platform/testing/e2e/cypress/support/form-tester
 
@@ -26,7 +30,9 @@ The form tester is a utility that automates Cypress end-to-end (E2E) tests on fo
 Use the form tester to test forms on VA.gov applications.
 
 Please see the [Cypress Form Tester documentation](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/platform/testing/e2e/cypress/support/form-tester) for more information.
+
 ## Cypress Custom Commands
+
 Custom Cypress commands abstract away common behaviors that are required across VA.gov applications. The following custom commands are available:
 
 - Mock User: `cy.login(userData)`
@@ -34,17 +40,19 @@ Custom Cypress commands abstract away common behaviors that are required across 
 - File uploads: `cy.upload(fileName, fileType)`
 - Accessibility - `cy.axeCheck(context)`
 - Expand Accordions: `cy.expandAccordions()`
+
 ### Mock User: cy.login(userData)
+
 **Source file:**  
-https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/login.js 
+https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/login.js
 
 **Description:**  
-Allows us to simulate a signed-in session. 
+Allows us to simulate a signed-in session.
 
 **Arguments:**  
 `cy.login()` takes an optional argument which is assigned to the `userData` parameter which defaults to the following `mockUser` object if no argument is given:
 
-``` javascript
+```javascript
 const mockUser = {
   data: {
     attributes: {
@@ -108,8 +116,10 @@ const mockUser = {
 };
 ```
 
-To sign in as a custom-defined user, copy the `mockUser` object, modify it as needed, and pass it as an argument to `cy.login()`.  The custom-defined user object should have the same shape as the response body for the /v0/user API endpoint.
+To sign in as a custom-defined user, copy the `mockUser` object, modify it as needed, and pass it as an argument to `cy.login()`. The custom-defined user object should have the same shape as the response body for the /v0/user API endpoint.
+
 ### Test Data: cy.syncFixtures(fixtures)
+
 **Source file:**  
 https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/syncFixtures.js
 
@@ -122,10 +132,10 @@ Allows us to access fixtures stored in different directories within your applica
 **Usage:**  
 `src/applications/hca/tests/schema` contains test data for the hca application. You can load the file as a fixture like so:
 
-``` javascript
+```javascript
 cy.syncFixtures({
   data: 'src/applications/hca/tests/schema',
-  'minimal-test.json': 'src/applications/hca/tests/schema/minimal-test.json', 
+  'minimal-test.json': 'src/applications/hca/tests/schema/minimal-test.json',
   'maximal-test': 'src/applications/hca/tests/schema/maximal-test.json',
 });
 
@@ -134,15 +144,15 @@ cy.fixture('maximal-test').as('testData');
 
 To access the contents of the file, call `.then()` on `cy.get()` like so:
 
-``` javascript
-cy.get('@testData').then(testData => {
+```javascript
+cy.get('@testData').then((testData) => {
   cy.findByLabelText(/first name/i).type(testData.veteranFullName.first);
 });
 ```
 
 Once you've synced your fixtures, you can also use the fixture shorthand form of `cy.route()`.
 
-``` javascript
+```javascript
 cy.syncFixtures({
   foo: path.join(__dirname, 'fixtures', 'foo'),
   bar: path.join(__dirname, 'fixtures', 'bar'),
@@ -151,12 +161,14 @@ cy.syncFixtures({
 cy.route('/v0/foo', 'fixture:data/foo');
 cy.route('/v0/bar', 'fixture:data/bar');
 ```
+
 ### File uploads: cy.upload(fileName, fileType)
+
 **Source file:**  
 https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/upload.js
 
 **Description:**  
-Allows us to upload files, which Cypress does not natively support. This implementation is based on this [workaround](https://github.com/cypress-io/cypress/issues/170#issuecomment-619758213). 
+Allows us to upload files, which Cypress does not natively support. This implementation is based on this [workaround](https://github.com/cypress-io/cypress/issues/170#issuecomment-619758213).
 
 **Arguments:**  
 fileName -- a string  
@@ -164,11 +176,15 @@ file Type -- a string
 
 This function must be chained from a command that retrieves an upload input element.
 
-``` javascript
-cy.findByText('Upload', { selector: 'button' })
-  .upload('src/platform/testing/example-upload.png', 'image/jpg');
+```javascript
+cy.findByText('Upload', { selector: 'button' }).upload(
+  'src/platform/testing/example-upload.png',
+  'image/jpg'
+);
 ```
+
 ### Accessibility: cy.axeCheck(context)
+
 **Source file:**  
 https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/axeCheck.js
 
@@ -182,7 +198,7 @@ To add aXe checks to your tests use the custom `cy.axeCheck()` command based off
 
 As documented by the plugin, be sure to call `cy.injectAxe()` after each `cy.visit()`, after which `cy.axeCheck()` can be invoked any number of times.
 
-``` javascript
+```javascript
 cy.visit(PAGE_URL);
 cy.injectAxe();
 cy.axeCheck();
@@ -190,99 +206,135 @@ cy.axeCheck();
 
 Depending on the content of a page, it may be more thorough to test accessibility after expanding all accordions (and expandable content in general) on the page. Use the `cy.expandAccordions()` command for that purpose:
 
-``` javascript
+```javascript
 cy.expandAccordions();
 cy.axeCheck(); // Run the aXe check after expanding everything.
 ```
 
 Please note: Tests written with the form tester automatically check for accessibility, so this command does not need to be used explicitly in such tests.
+
 ### Expand Accordions: cy.expandAccordions()
-**Source file:** https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/expandAccordions.js 
+
+**Source file:** https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/expandAccordions.js
 
 **Description:**  
 The custom command -- cy.expandAccordions() -- expands all accordions and `AdditionalInfo` components.
 
 **Arguments:**  
 None
-<!---
+
 ## Viewports
-Cypress’ default viewport size is 1000px by 660px.
 
-To ensure that an application behaves correctly across a wide variety of devices we recommend testing it using a number of popular mobile and desktop viewport sizes.
+The Cypress default viewport size is 1000px by 660px.
 
-To make it easy to test the applicable viewports, we have included the following key/value pairs in the `config/cypress.json` file:
+### Iterate Through Arrays of Common VA.gov Viewports
 
-``` javascript
-"mobileViewports": [
-  "ipad-2", 
-  "ipad-mini", 
-  "iphone-3", 
-  "iphone-5", 
-  "i-phone-5", 
-  "i-phone-6", 
-  "iphone-6", 
-  "iphone-6+", 
-  "iphone-7",
-  "iphone-8",
-  "iphone-x",
-  "iphone-xr",
-  "iphone-xr",
-  "iphone-se2"
-],
-"desktopViewports": [
-  [1024, 768],
-  "macbook-11",
-  "macbook-13",
-  "macbook-15",
-  "macbook-16"
-]
+To ensure that an application behaves correctly across the viewport sizes most commonly used by va.gov users, we've provided the following Cypress environment variables in the `config/cypress.json` file that each contain an array of objects, each describing a viewport:
+
+- `vaTop5MobileViewports`
+- `vaTop5TabletViewports`
+- `vaTop5DesktopViewports`
+
+The objects in the arrays are updated once a month so we're always testing against the viewports VA.gov users are actually using.
+
+Each viewport object contains a `name`, `percentTraffic`, `percentTrafficPeriod`, `width` and `height` property. Here is an example of a mobile viewport object from the `vaTop5MobileViewports` Cypress environment variable:
+
+```javascript
+{
+  "name": "iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro Max",
+  "percentTraffic": 9.75,
+  "percentTrafficPeriod": "October, 2020",
+  "width": 414,
+  "height": 896
+}
 ```
 
-These values are updated regularly as necessary and are accessible using the `Cypress.env["mobileViewports"]` and  `Cypress.env["desktopViewports"]` environment variables. 
+To access Cypress environment variables, simply call `Cypress.env()` followed by the name of the variable. For example, `Cypress.env().vaTop5MobileViewports` returns the following array:
 
-In your tests, simply iterate through each viewport in the array and make the required assertions. Here’s a modified example from the [Cypress documentation](https://docs.cypress.io/api/commands/viewport.html#Width-Height):
-
-``` javascript
-describe('Logo', () => {
-  Cypress.env["mobileViewports"].forEach((size) => {
-    // make assertions on the logo using
-    // an array of different viewports
-    it(`Should display logo on ${size} screen`, () => {
-      if (Cypress._.isArray(size)) {
-        cy.viewport(size[0], size[1])
-      } else {
-        cy.viewport(size)
-      }
-
-      cy.visit('https://www.cypress.io')
-      cy.get('#logo').should('be.visible')
-    })
-  })
-})
+```javascript
+[
+  {
+    name: 'iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro Max',
+    percentTraffic: 9.75,
+    percentTrafficPeriod: 'October, 2020',
+    width: 414,
+    height: 896,
+  },
+  {
+    name: 'iPhone 6, iPhone 6s, iPhone 7, iPhone 8',
+    percentTraffic: 5.52,
+    percentTrafficPeriod: 'October, 2020',
+    width: 375,
+    height: 667,
+  },
+  {
+    name: 'iPhone X, iPhone XS, iPhone 11 Pro',
+    percentTraffic: 5.5,
+    percentTrafficPeriod: 'October, 2020',
+    width: 375,
+    height: 812,
+  },
+  {
+    name: 'iPhone 6 Plus, iPhone 6s Plus, iPhone 7 Plus, iPhone 8 Plus',
+    percentTraffic: 3.25,
+    percentTrafficPeriod: 'October, 2020',
+    width: 414,
+    height: 736,
+  },
+  {
+    name: 'iPhone 5, iPhone 5s, iPhone 5c, iPhone SE 1st gen',
+    percentTraffic: 1.49,
+    percentTrafficPeriod: 'October, 2020',
+    width: 360,
+    height: 640,
+  },
+];
 ```
---->
+
+To test against each of the viewports in the array, simply iterate through the array using `.forEach()` in the callback of an `it` function call, like so:
+
+```javascript
+it.only('should render in mobile layouts and tabs actions work', () => {
+  Cypress.env().vaTop5MobileViewports.forEach((viewportData) => {
+    const { name, width, height, percentTraffic, percentTrafficPeriod } = viewportData;
+
+    cy.log(`Device Group: ${name}`);
+    cy.log(`% traffic for the month of ${percentTrafficPeriod}: ${percentTraffic}%`);
+
+    cy.visit('/find-locations');
+    cy.injectAxe();
+    cy.viewport(width, height);
+    cy.checkSearch();
+  });
+```
+
+In addition to the Cypress environment variables already mentioned, there is also a variable called `allIPhoneViewports` which contains an array of viewport objects whose structure is identicle to the objects in the other arrays already mentioned, except they do not contain `percentTraffic` and `percentTrafficPeriod` properties.
+
 ## Cypress Testing Library Selectors
+
 In addition to Cypress’ [comprehensive API](https://docs.cypress.io/api/api/table-of-contents.html) for interacting with elements, the VSP platform utilizes the [Cypress Testing Library](https://testing-library.com/docs/cypress-testing-library/intro/) which allows us to test UI components in a user-centric way. This library gives us access to all of [DOM Testing Library's](https://testing-library.com/docs/dom-testing-library/api-queries/) `findBy*`, `findAllBy*`, `queryBy` and `queryAllBy` commands off the global `cy` object.
 
 Please note: The Cypress Testing Library queries should be preferred over Cypress’ `cy.get()` or `cy.contains()` for selecting elements.
 
-The following is a list of queries provided by the Cypress Testing Library, [in the order in which we recommend them](https://testing-library.com/docs/guide-which-query/)<sup>*</sup> (e.g., prefer `findByLabelText` over `findByRole` over `findByTestId`).
+The following is a list of queries provided by the Cypress Testing Library, [in the order in which we recommend them](https://testing-library.com/docs/guide-which-query/)<sup>\*</sup> (e.g., prefer `findByLabelText` over `findByRole` over `findByTestId`).
 
-find | findAll
----- | -------
-findByLabelText | findByPlaceholderText
-findByText | findByAltText
-findByTitle | findByDisplayValue
-findByRole | findByTestId
-findAllByLabelText | findAllByPlaceholderText
-findAllByText | findAllByAltText
-findAllByTitle | findAllByDisplayValue
-findAllByRole | findAllByTestId
+| find               | findAll                  |
+| ------------------ | ------------------------ |
+| findByLabelText    | findByPlaceholderText    |
+| findByText         | findByAltText            |
+| findByTitle        | findByDisplayValue       |
+| findByRole         | findByTestId             |
+| findAllByLabelText | findAllByPlaceholderText |
+| findAllByText      | findAllByAltText         |
+| findAllByTitle     | findAllByDisplayValue    |
+| findAllByRole      | findAllByTestId          |
 
-<sup>*</sup>Note: the `get*` queries are not supported because for reasonable Cypress tests you need retryability and `find*` queries already support that.
+<sup>_</sup>Note: the `get_`queries are not supported because for reasonable Cypress tests you need retryability and`find\*` queries already support that.
 
-The `TestId` queries look at the `data-testid` attributes of DOM elements (see the next section). 
+The `TestId` queries look at the `data-testid` attributes of DOM elements (see the next section).
+
 ## data-testid Attribute
+
 While the official Cypress documentation [recommends the `data-cy` attribute](https://docs.cypress.io/guides/references/configuration.html#Options), we recommend that you use the `data-testid` attribute because it is test-framework agnostic.
 
 Add the `data-testid` attribute to your markup when your test would otherwise need to reference elements by CSS attributes as a last resort. As much as possible, prefer writing selectors for `data-testid` attributes over CSS selectors (ids and classes).
