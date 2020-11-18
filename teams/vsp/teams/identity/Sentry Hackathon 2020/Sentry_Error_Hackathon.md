@@ -61,10 +61,12 @@ Sentry Error Links:
   
 ## Parking Lot
 - Note: area where we throw questions into so we can move forward
+- [User attributes is missing an ID.me UUID](http://sentry.vfs.va.gov/organizations/vsp/issues/418/?environment=production&project=3&project=4&query=is%3Aunresolved+assigned%3A%23vsp-identity+%21level%3Aerror&statsPeriod=14d) walk through from Eric was offered.
   
 ## Issue List
 - List out tickets created during Hackathon here
 - [CODEOWNERS file changes for VSP Identity #16228](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16228)
+- [SSOe Errors](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16388)
   
 ## Closing Remarks and Feedback
 - Add feedback here, improvements for next hackathon, current status of sentry error cleanup
