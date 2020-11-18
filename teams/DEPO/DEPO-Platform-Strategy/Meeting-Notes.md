@@ -1,3 +1,5 @@
+Mural from initial connections discussion: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1604425871513/f507ccb413e15144028d2563d91b75b7a8a5f92a
+
 # CMS
 
 ## Questions
@@ -49,4 +51,5 @@ What is LC?
 - [ ] Rachael meet with Jeff Barnes, Oksana Cyrwus, and David Addison to coordinate Q1 planning
 - [ ] Rachael schedule follow up with Kevin H and Jeff B to better define possible CMS/Design System/FE Tool initiatives prior to roadmapping
 
-Mural from initial connections discussion: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1604425871513/f507ccb413e15144028d2563d91b75b7a8a5f92a
+## Initiatives that would need cross-collaboration
+- 
