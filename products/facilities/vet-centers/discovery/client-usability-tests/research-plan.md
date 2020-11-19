@@ -8,10 +8,9 @@ The goal of this study is to get Vet Center Client feedback on high level design
 
 ### Research questions
 
-Do clients think the designs:
-- accurately portray a Vet Center?
+From the designs will clients:
+- understanding that Vet Centers are different than other VA facilities?
 - accurately prioritze the highest value factors of Vet Centers?
-- differentiate Vet Centers from other VA facilities?
 - provide enough information in order to visit or call?
 What words resonate most with clients?
 Are there improvements to the designs that should be considered for MVP or future iterations?
