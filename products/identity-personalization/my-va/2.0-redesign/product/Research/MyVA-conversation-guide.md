@@ -63,7 +63,7 @@ Okay great, for this next question I'm going to share my screen really quick. *M
 Let's start by making sure you can figure out how to share your screen on Zoom.
 
 **If they are on an iPhone**
-* Tap ‘Share content’ (Green button at bottom middle of the screen) If you can’t see the zoom menu, tap anywhere on your screen once ant it should appear.
+* Tap ‘Share content’ (Green button at bottom middle of the screen) If you can’t see the zoom menu, tap anywhere on your screen once and it should appear.
 * Tap on Screen
 * Tap Zoom
 * Tap start broadcast. After a count of 3, the entire device screen will be shared into the meeting
@@ -75,6 +75,7 @@ Let's start by making sure you can figure out how to share your screen on Zoom.
 **If they are on Android**
 * Tap "Share"
 * Tap "Screen"
+* Tap Zoom
 * May give a "sensitive info" alert
 * May ask you to give Zoom permission to display over other apps, toggle yes. The hit the back arrow . Then it might just share your screen.
 * Tap "Start now" (maybe)
