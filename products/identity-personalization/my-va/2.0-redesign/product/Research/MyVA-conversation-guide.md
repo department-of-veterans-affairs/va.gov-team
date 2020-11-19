@@ -28,9 +28,9 @@ Before we start, a few things I want to mention:
 - **This entire session should take about an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
+- **We will be looking at prototypes today.** We are in the early stages of design for these pages, so this means most of the prototype will not be clickable, and the design is intentionally grayscale.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
-- **We will be looking at prototypes today** We are in the early stages of design for these pages, so this means most of the prototype will not be clickable, and the design is intentionally grayscale.
 
 *Start recording.*
 
@@ -51,7 +51,7 @@ Before we start, a few things I want to mention:
     
 Okay great, for this next question I'm going to share my screen really quick. *Moderator share screen with MyVA*
 
-5. Do you remember if you have ever used this page on va.gov?
+1. Do you remember if you have ever used this page on va.gov?
     - If yes: Do you remember what you did?
     - If no: Not a problem at all.
  
@@ -85,7 +85,6 @@ Let's start by making sure you can figure out how to share your screen on Zoom.
 
 **ALTERNATE STARTING WITH VERSIONS A AND B FOR EACH PARTICIPANT**
 
-
 ## Intro
 
 Okay great.
@@ -108,27 +107,26 @@ Link: https://vsateams.invisionapp.com/share/EDZFDJ7UWTC#/437719085_myVA_Mobile_
 
 Go ahead and scroll through this page and walk me through your thoughts on each section, starting with where you see your name (Charles) in the dark grey box.
 
-* Nametag area/disability rating
-* Updates
-* Claims
-* Health care
-* Benefit applications
-
 1. What are your overall thoughts about this page? 
 2. What is working? 
 3. What is not working?
 
-**Skip question 4 if prototype is shown second**
+# Nametag area/disability rating
 
-4. If you clicked on the disability rating, where would you expect that to go?
+**Skip question 1 if prototype is shown second**
 
-Okay, now let's take a look at the updates section. 
+1. If you clicked on the disability rating, where would you expect that to go?
+
+# Updates
 
 1. Can you describe to me what what you're looking at?
-2. What kind of updates would be helpful to you? 
-3. If you clicked on 'Go to all recent updates' where would you expect that to go?
-4. What works well? 
-5. What doesn't work well?
+2. What works well? 
+3. What doesn't work well?
+
+**Skip question 4-5 if prototype is shown second**
+
+4. What kind of updates would be helpful to you? 
+5. If you clicked on 'Go to all recent updates' where would you expect that to go?
 
 ### Things to watch for:
 
@@ -138,7 +136,41 @@ Okay, now let's take a look at the updates section.
 - Does the user understand what clicking on an update would do?
 - Does the user understand the difference between the updates at the top and the sections below?
 
+ **Skip claims, healthcare and benefits questions if prototype is shown second**
 
+# Claims
+
+1. What information would you expect to see related to your claims and appeals?
+2. What information is missing in this section?
+
+# Health care
+
+1. What information would you expect to see related to your health care here?
+2. What information related to your appointments do you expect to see on this page?
+2. What information related to your prescriptions do you expect to see on this page?
+3. What information related to your messages do you expect to see on this page?
+4. Can you look over all of the information shown here, is there anything that you would add?
+
+### Things to watch for:
+
+- Can the user easily find their appointments?
+- Is the user confused about anything within the health care section?
+- Does the user think there should be more or less information?
+- Does the user notice the links in the health care section?
+
+# Benefit applications
+
+If you could go ahead and scroll down to the section that says 'Benefit applications'. 
+
+1. What information is the most important to see about your benefit applications?
+2. Do you find anything confusing at all?
+3. Is there any thing that you would add or change about the benefits section?
+
+### Things to watch for:
+
+- Is the user confused that there is more information showing for the benefits section?
+- Can the user easily find the 'What benefits does the VA offer?' link?
+- Is the user confused by any of the information in the benefit application cards?
 
 ## Second task: Claims scenario
 
@@ -154,19 +186,12 @@ Okay, great. Now, I'm going to give you a scenario. You've recently submitted a 
     *If they look for the update in the claims section:*
 
     1. Why would you expect it to be in this section?
-
-    **Skip questions 2 and 3 if prototype is shown second**
-
-    2. What information would you expect to see related to your claims and appeals here?
-    3. What information is missing in this section?
    
 ### Things to watch for:
 
 - Does the user notice the updates section? 
 - Are they confused about where claims or claim status updates are located?
 - Does the user feel they are receiving enough information?
-
-
 
 ## Third task: Health care scenario
 
@@ -179,29 +204,12 @@ Okay, we're now going to move on to another scenario. Imagine you are currently 
     1. Was it easy or hard to find your upcoming appointment?
     2. Can you tell me why you think it would be in the updates section?
 
-    **Skip questions 3-4 if prototype is shown second**
-
-    3. What information would you expect to be included for your appointments?
-    4. Is there any thing that you would add or change about the appointments section?
-
     *If they look for appointments in the health care section:*
 
     1. Was it easy or hard to find your upcoming appointment?
     2. Can you tell me why you think it would be in the health care section?
 
-    **Skip questions 3-4 if prototype is shown second**
-
-    3. What information would you expect to see on this page related to your appointments?
-    4. Is there any thing that you would add or change about the appointments section?
-
 Okay great, thank you.
-
-**Skip questions 1-5 if prototype is shown second**
-
-1. What information would you expect to see related to your health care here?
-2. What information related to your prescriptions do you expect to see on this page?
-3. What information related to your messages do you expect to see on this page?
-4. Can you look over all of the information shown here, is there anything that you would add?
 
 ### Things to watch for:
 
@@ -210,11 +218,80 @@ Okay great, thank you.
 - Does the user think there should be more or less information?
 - Does the user notice the links in the health care section?
 
+**Transitioning between prototypes**
 
+Okay great, now let's move onto the second prototype, this is version (A or B). I'm going to drop another link in the chat. 
 
-## Fourth task: Benefits
+### VERSION B
 
-**Skip the fourth task if prototype is shown second**
+Link: https://vsateams.invisionapp.com/share/HDZFDLY3WEZ#/437720005_myVA_Mobile_B
+
+## First task: Overview & Updates
+
+Without clicking on anything, go ahead and scroll through this page and walk me through your thoughts on each section, starting with where you see your name (Charles) in the dark grey box.
+
+1. What are your overall thoughts about this page? 
+2. What is working? 
+3. What is not working?
+
+# Nametag area/disability rating
+
+**Skip if prototype is shown second**
+
+1. If you clicked on the disability rating, where would you expect that to go?
+
+# Section overview
+
+1. Can you describe to me what what you're looking at?
+2. What kind of update would expect to see here?
+
+### Things to watch for:
+
+- Does the user notice the disability rating?
+- Does the user notice the 'Go to all recent updates' section? 
+- Does the user understand what the updates are?
+- Does the user understand what clicking on an update would do?
+- Does the user understand the difference between the updates at the top and the sections below?
+
+Go ahead and click on claims and appeals.
+ 
+# Claims
+
+1. Can you describe to me what what you're looking at?
+2. What works well? 
+3. What doesn't work well?
+
+**Skip question 4-7 if prototype is shown second**
+
+4. What kind of updates would be helpful to you? 
+5. If you clicked on 'Go to all recent updates' where would you expect that to go?
+6. What information would you expect to see related to your claims and appeals?
+7. What information is missing in this section?
+
+Go ahead and click on Health care.
+
+# Health care
+
+1. Can you describe to me what what you're looking at?
+
+**Skip question 2-6 if prototype is shown second**
+
+2. What information would you expect to see related to your health care here?
+3. What information related to your appointments do you expect to see on this page?
+4. What information related to your prescriptions do you expect to see on this page?
+5. What information related to your messages do you expect to see on this page?
+6. Can you look over all of the information shown here, is there anything that you would add?
+
+### Things to watch for:
+
+- Can the user easily find their appointments?
+- Is the user confused about anything within the health care section?
+- Does the user think there should be more or less information?
+- Does the user notice the links in the health care section?
+
+**Skip benefit applications if prototype is shown second**
+
+# Benefit applications
 
 If you could go ahead and scroll down to the section that says 'Benefit applications'. 
 
@@ -228,51 +305,7 @@ If you could go ahead and scroll down to the section that says 'Benefit applicat
 - Can the user easily find the 'What benefits does the VA offer?' link?
 - Is the user confused by any of the information in the benefit application cards?
 
-**Transitioning between prototypes**
-
-Okay great, now let's move onto the second prototype, this is version (A or B). I'm going to drop another link in the chat. 
-
-
-
-
-### VERSION B
-
-Link: https://vsateams.invisionapp.com/share/HDZFDLY3WEZ#/437720005_myVA_Mobile_B
-
-## First task: Overview
-
-Take a look at this page, and let me know your thoughts starting with where you see your name (Charles).
-
-* Nametag area/disability rating
-* Claims and appeals/updates
-* Health care/updates
-* Benefit applications
-
-1. What are your overall thoughts about this page? 
-2. What is working? 
-3. What is not working?
-
-**Skip question 4 if prototype is shown second**
-
-4. If you clicked on the disability rating, where would you expect that to go?
-
-### Things to watch for:
-
-- Does the user notice their disability rating?
-- Is the user able to find the 'Go to all recent claims updates' section 
-- Does the user understand what the updates are?
-- Does the user understand what clicking on an update would do?
-- Does the user understand the difference between the updates at the top and the sections below?
-
-
-
 ## Second task: Claims scenario
-
-Go ahead and click on claims and appeals.
-
-1. What are your thoughts about this section?
-2. Is there anything that you would add or change about this section?
-3. If you clicked on 'Go to recent claims updates' where would you expect that to go?
 
 Okay great. Go ahead and go back to the previous screen by clicking 'Claims and appeals' again. I'm now going to give you a scenario - imagine you are trying to view all of your claims in progress and you've just landed on this page.
 
@@ -287,24 +320,15 @@ Okay great. Go ahead and go back to the previous screen by clicking 'Claims and 
 
     1. Why would you expect it to be in this section?
 
-    **Skip questions 2 if prototype is shown second**
-
-    2. What information would you expect to see related to your claims here?
-    3. Did you think it was easy or hard to find your claims in progress?
-    4. What works well? 
-    5. What doesn't work well?
-
 ### Things to watch for:
 
 - Does the user notice the updates section? 
 - Are they confused about where claims or claim status updates are located?
 - Does the user feel they are receiving enough information?
 
-
-
 ## Third task: Health care scenario
 
-Okay, we're now going to move on to another scenario. Imagine you are currently enrolled in health care with the VA. You've come to this page to see the latest message from your doctor.  Can you walk me through how you would do that?
+Okay, we're now going to move on to another scenario. Imagine you are currently enrolled in health care with the VA. You've come to this page to see the latest message from your doctor.
 
 1. Can you walk me through how you would do that?
 
@@ -313,27 +337,12 @@ Okay, we're now going to move on to another scenario. Imagine you are currently 
     1. Was it easy or hard to find your new messages?
     2. Can you tell me why you think it would be in the updates section?
 
-    **Skip questions 3 if prototype is shown second**
-
-    3. Is there any thing that you would add or change about the messages section?
-
     *If they look for messages in the health care section:*
 
     1. Was it easy or hard to find your new messages?
     2. Can you tell me why you think it would be in the health care section?
 
-    **Skip questions 3 if prototype is shown second**
-
-    3. Is there any thing that you would add or change about the messages section?
-
 Okay great, thank you.
-
-**Skip questions 1-5 if prototype is shown second**
-
-1. Overall, what information is the most important related to your health care?
-2. What information related to your prescriptions do you expect to see on this page?
-3. What information related to your messages do you expect to see on this page?
-4. Can you look over all of the information shown here, is there anything that you would add?
 
 ### Things to watch for:
 
@@ -343,29 +352,9 @@ Okay great, thank you.
 - Does the user notice the links in the health care section?
 - What information would you like to see on this page related to your appointments?
 
-
-
-## Fourth task: Benefits
-
-**Skip the fourth task if prototype is shown second**
-
-If you could go ahead and scroll down to the section that says 'Benefit applications'. 
-
-1. What information is the most important to see about your benefit applications?
-2. Do you find anything confusing at all?
-3. Is there any thing that you would add or change about the benefits section?
-
-### Things to watch for:
-
-- Is the user confused that there is more information showing for the benefits section?
-- Can the user easily find the 'What benefits does the VA offer?' link?
-- Is the user confused by any of the information in the benefit application cards?
-
 **Transitioning between prototypes**
 
 Okay great, now let's move onto the second prototype, this is version (A or B). I'm going to drop another link in the chat. 
-
-
 
 ## Comparison
 
