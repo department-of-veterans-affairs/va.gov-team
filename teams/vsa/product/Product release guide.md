@@ -48,7 +48,7 @@ It is beneficial to conduct an internal QA session prior to actual QA. This cons
 - TBD
 - [ ] All issues that came from internal QA have been completed
 
-### [Request Staging Review]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
+### [Request Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
 - [ ] Provide all required artifacts in the request
 - [ ] Schedule/hold staging review
 - [ ] Complete all IA feedback tickets
