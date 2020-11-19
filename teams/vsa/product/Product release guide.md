@@ -87,7 +87,8 @@ how do we get this infront of PM's
  Show at next weeks product sync, meet with Mickin prior
 
 
-===========================
+=================================================================
+
 **QA feedback:**
 Staging review scheduling: 
 As a regular process, check in with Tze a week prior to opening the staging review ticket, or when you open the ticket , have artifacts in and tag Tze 1 week in advance. This makes it possible for Tze to get to it w/o being rushed (2day before meeting).
