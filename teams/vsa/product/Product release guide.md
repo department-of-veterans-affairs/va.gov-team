@@ -60,6 +60,8 @@ It is beneficial to conduct an internal QA session prior to actual QA. This cons
 - [ ] Complete all Product feedback tickets
 
 ### Analytics follow up
+- [ ] Analytics are complete
+- [ ] Frontend has implemented analytics data layer changes
 - [ ] Dashboards have been created and link directly to your OKR/KPI's
 - [ ] Review dashboard(s) with Analytics team to ensure understanding of all metrics/calculations
 - [ ] Dashboards are finalized/work correctly
@@ -71,19 +73,19 @@ It is beneficial to conduct an internal QA session prior to actual QA. This cons
 - [ ] Update product outline with updated release information and links to analytics dashboards
 
 ### Create UAT plan
-- [ ] Create UAT plan [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/UAT/profile-research-plan-UAT.md)
+- [ ] Create UAT plan 
 - [UAT Template](www.google.com)** enter template
+- [UAT Plan Example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/UAT/profile-research-plan-UAT.md)
 
-### Coordination with relevant parties regarding any changes that affect other teams/stakeholders
+### Coordinate with relevant parties regarding any changes that affect other teams/stakeholders
 #### Ex:(re-directs, changes to content, changes that affect other teams) 
 - [ ] Create issues in Github for changes that will take place, add dates, and tag relevant people/teams (re-directs, content changes, UI changes, etc)
 - [ ] Update dates/parties accordingly as launch approaches and dates are finalized
 
-
 ## Release
 ### UAT
-- [ ] Conduct UAT Go/No-Go meeting [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/uat-go-nogo.md)
-- [ ] Resolve any issues (if applicable)
+- [ ] Conduct UAT Go/No-Go meeting 
+- [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/uat-go-nogo.md)
 - [ ] UAT has been conducted
 - [ ] Issues have been logged/added to the [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Release%20Plan.md)
 - [ ] Critical UAT issues have been resolved
@@ -91,22 +93,20 @@ It is beneficial to conduct an internal QA session prior to actual QA. This cons
 ### Phased Launch (depends on phases in your launch)*
 - [ ] Conduct Launch Go/No-Go meeting
 - [ ] Resolve any issues (if applicable)
+- [ ] Continue with phased launch, resolving issues if they arise, monitoring analytics daily
 
-#### Launch to 25% of traffic*
-- [ ] Add Issues (if applicable) to the Release Plan
-- [ ] Resolve issues (if applicacble)
-#### Launch to 50% of traffic
-- [ ] Add Issues (if applicable) to the Release Plan
-- [ ] Resolve issues (if applicacble)
 #### Go-live to 100% of traffic
-- [ ] Conduct Go-live go/no go meeting [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Launch%20go%20no-go.md)
+- [ ] Conduct Go-live go/no go meeting 
+- [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Launch%20go%20no-go.md)
 - [ ] Resolve issues (if applicable)
-- [ ] Launch to 100 of users!
+- [ ] Launch to 100% of users
 
 ## Monitoring
 - [ ] Monitor analytics daily to ensure there are no abnormalities/errors
 - [ ] Resolve any issues (if applicable)
 
+
+------------------------------------------
 ## Post Launch
 - [ ] Fill in post launch metrics in the Release Plan
 - [ ] Remove old code (if applicable)
