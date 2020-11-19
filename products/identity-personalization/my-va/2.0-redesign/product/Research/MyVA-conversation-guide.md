@@ -113,7 +113,7 @@ Go ahead and scroll through this page and walk me through your thoughts on each 
 
 **Skip nametag area/disability rating if prototype is shown second**
 
-# Nametag area/disability rating
+#### Nametag area/disability rating
 
 1. If you clicked on the disability rating, where would you expect that to go?
 
