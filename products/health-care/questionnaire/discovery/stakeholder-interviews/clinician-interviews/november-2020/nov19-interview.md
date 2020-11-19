@@ -12,7 +12,7 @@
     - Can you explain more about the types of forms or questionnaires that Veterans fill out?
          - How do these questionnaires differ?
     - How much do these questionnaires impact your work?
-    - How often do you refer to this questionnaire information?
+    - How often do you refer to this questionnaire information? 
     - How do you organize/store information provided by the patient?
     - How many days do you normally give Veterans to complete a questionnaire?
     - How is the patient notified that they have a questionnaire to complete?
