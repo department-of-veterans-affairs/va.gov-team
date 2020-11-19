@@ -8,7 +8,7 @@
 
 - The free Google translate widget is available for government sites during the coronavirus pandemic. 
 
-- This approach requires a low level of tech effort, and would be a quick solution to providing COVID-19 content and gathering data.
+- This approach requires a low level of tech effort, and would be a quick solution to providing some level of translated COVID-19 content and gathering some data.
 
 #### Risks & drawbacks 
 
