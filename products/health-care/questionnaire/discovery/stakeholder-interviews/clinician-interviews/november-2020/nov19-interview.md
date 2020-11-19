@@ -17,7 +17,7 @@
     - How many days do you normally give Veterans to complete a questionnaire?
     - How is the patient notified that they have a questionnaire to complete?
 
-3. Do you see Veteran via telehealth methods?
+3. Do you see Veterans via telehealth methods?
    - If yes...
       - Has your intake or questionnaire process changed due to COVID/the increase in telehealth?
       - Are the other personnel that you mentioned earlier (nurses, etc) involved more, less, or the same amount in the questionnaire or intake process?
