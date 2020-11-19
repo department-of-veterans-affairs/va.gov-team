@@ -121,7 +121,7 @@ It is beneficial to conduct an internal QA session prior to actual QA. This cons
 - [ ] Prepare next steps and potential iterations if applicable
 
 
-=================================================================
+=========================================================================================================================
 **QA feedback:**
 Staging review scheduling: 
 As a regular process, check in with Tze a week prior to opening the staging review ticket, or when you open the ticket , have artifacts in and tag Tze 2 weeks in advance. This makes it possible for Tze to get to it w/o being rushed (2day before meeting).
