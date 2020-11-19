@@ -2,6 +2,9 @@
 How do we ensure a smooth and successful launch?
 - Note: This document starts from the BUILD phase.
 - Update Collaboration Tracker
+- Add time estimates maybe
+- how to roll this out
+- put in epic format?
 
 ## Pre-Release 
 
