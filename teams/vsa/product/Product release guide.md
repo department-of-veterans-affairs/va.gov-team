@@ -5,7 +5,8 @@ NOTE: This document starts from the BUILD phase...
 ## Pre-Release 
 
 ### [Privacy and security review]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review)
-- [ ] Use Privacy and Security Review template in va.gov-team-sensitive repository (select in ZenHub dropdown
+- [ ] Use Privacy and Security Review template in va.gov-team-sensitive repository 
+- (select in ZenHub dropdown)
 - [ ] Provide artifacts atleast 48 hours prior to the review
 - [ ] Schedule/hold Privacy and Security Review
 - [ ] Complete any tickets that came out of Privacy/Security review (if any)
@@ -72,10 +73,8 @@ It is beneficial to conduct an internal QA session prior to actual QA. This cons
 
 
 ### Preparing/Updating all necessary supporting documentation for your product
-- [ ] How to use flipper/feature flags [example](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/flipper-feature-flags)
 - [ ] API calls and dependent systems [Example](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account#api-calls-and-dependent-systems)
 - [ ] Update product outline with updated release information and links to analytics dashboards
-
 
 ### Coordinate with relevant parties regarding any changes that affect other teams/stakeholders
 #### Ex:(re-directs, changes to content, changes that affect other teams) 
@@ -87,17 +86,19 @@ It is beneficial to conduct an internal QA session prior to actual QA. This cons
 - [ ] Conduct UAT Go/No-Go meeting 
 - [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/uat-go-nogo.md)
 - [ ] UAT has been conducted
-- [ ] Issues have been logged/added to the [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Release%20Plan.md)
+- [ ] Issues have been logged/added to the Release Plan. [Example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Release%20Plan.md)
 - [ ] Critical UAT issues have been resolved
 
 ### Phased Launch (depends on phases in your launch)*
 - [ ] Conduct Launch Go/No-Go meeting
+-  [Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md)
+- Invite your entire team, analytics, platform team members, etc
 - [ ] Resolve any issues (if applicable)
 - [ ] Continue with phased launch, resolving issues if they arise, monitoring analytics daily
 
 #### Go-live to 100% of traffic
 - [ ] Conduct Go-live go/no go meeting 
-- [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Launch%20go%20no-go.md)
+- [Example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Launch%20go%20no-go.md)
 - [ ] Resolve issues (if applicable)
 - [ ] Launch to 100% of users
 
@@ -105,8 +106,6 @@ It is beneficial to conduct an internal QA session prior to actual QA. This cons
 - [ ] Monitor analytics daily to ensure there are no abnormalities/errors
 - [ ] Resolve any issues (if applicable)
 
-
-------------------------------------------
 ## Post Launch
 - [ ] Fill in post launch metrics in the Release Plan
 - [ ] Remove old code (if applicable)
