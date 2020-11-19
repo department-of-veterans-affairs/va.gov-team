@@ -27,6 +27,7 @@ assignees: shiragoodman, allison0034, emilywaggoner
 - Designer(s) (required): **name(s)**
 - Product Manager (optional): **name**
 - DEPO design lead (required as applicable): **name**
+- Other specialists: **names**
 
 VSP will only invite those specified, so be sure to list your content, IA, accessibility and QA specialists, if applicable.
 
