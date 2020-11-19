@@ -45,15 +45,15 @@ Recruit for 5 fulfilled sessions using the following criteria:
 
 **Must have for participants**
 - Participants must receive some type of VA payments
+- At least 1 woman of color
+- At least 1 participant 55 or older
+- At least one person that does not have a college degree (to include enlisted Veterans)
+- At least one person with a disability rating of 80% or greater
 
 **Good to have for participants**
-- At least 1 woman
-- At least 1 person of color
 - At least 1 participant 35 or under and 1 participant over 55
-- At least one person that does not have a college degree (to include enlisted Veterans)
 - At least one person that has a college degree (to include of officer Veterans)
 - At least one person who lives in a major metropolitan area
-- At least one person with a disability rating of 80% or greater
 
 **Please consider**
 - At least one person who lives in a rural or remote area
