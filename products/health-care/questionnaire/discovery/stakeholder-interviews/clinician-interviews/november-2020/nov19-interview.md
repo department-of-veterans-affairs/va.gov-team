@@ -7,8 +7,8 @@
     - What are your impressions of the system?
     - Do you utilize any other questionnaire products in your work?
     - Do Veterans you interact with complete questionnaires any other way (via paper, verbally over the phone or verbally in-person)?
-       - Are nurses or office administrators involved in the process?
-            - How does the nurse communicate this information to you?
+       - Are nurses, office administrators, research assistants, or other personnell involved in the process?
+            - How does that person communicate this information to you?
     - Can you explain more about the types of forms or questionnaires that Veterans fill out?
          - How do these questionnaires differ?
     - How much do these questionnaires impact your work?
@@ -17,10 +17,10 @@
     - How many days do you normally give Veterans to complete a questionnaire?
     - How is the patient notified that they have a questionnaire to complete?
 
-3. Do you see patients/research participants via telehealth appointments?
+3. Do you see Veteran via telehealth methods?
    - If yes...
-      - Has your intake or questionnaire process changed due to COVID/the increase in telehealth appointments?
-      - Are nurses involved more, less, or the same amount in the intake process?
+      - Has your intake or questionnaire process changed due to COVID/the increase in telehealth?
+      - Are the other personnel that you mentioned earlier (nurses, etc) involved more, less, or the same amount in the questionnaire or intake process?
       - What is the impact of these process changes? 
       
 4. Do you have experience not just utilizing but creating questionnnaires?
