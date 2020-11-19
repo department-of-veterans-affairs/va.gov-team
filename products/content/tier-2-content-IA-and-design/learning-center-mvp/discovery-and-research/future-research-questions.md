@@ -1,7 +1,10 @@
 # Outstanding research questions for resources and support
 
 ## General
-- We should run an unmoderated study on mobile and see how the UX tests. We didn't do any testing on mobile
+- I think it'd be useful to revisit all of our [original research questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md#research-questions) through an unmoderated study.
+- Re-evaluate the ease of navigating between the learning center and benefit hub
+- To ensure we are meeting the needs of Veterans using non-laptop or desktop devices, we should test mobile versions of our designs. 
+- We should make to include users using assistive technology.
 
 ## Tables
 - How are content authors using them? 
