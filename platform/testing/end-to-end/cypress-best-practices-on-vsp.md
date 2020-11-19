@@ -12,7 +12,7 @@
   - [Expand Accordions: `cy.expandAccordions()`](#expand-accordions-cyexpandaccordions)
   - [Accessibility - `cy.axeCheck(context, tempOptions)`](#accessibility-cyaxecheckcontext)
   - [Accessibility Convience Function: `injectAxeThenAxeCheck(context, tempOptions)`](#accessibility-convience-function-injectaxethenaxecheckcontext-tempoptions)
-- [Viewports](#viewports)
+- [Iterate Through Top VA.gov Viewports](#viewports)
 - [Cypress Testing Library Selectors](#cypress-testing-library-selectors)
 - [`data-testid` Attribute](#data-testid-attribute)
 
@@ -312,11 +312,7 @@ The following arguments are passed to `cy.axeCheck()` when called inside `cy.inj
 context -- a `String`, defaults to `main`
 tempOptions -- an `Object`, defaults to an empty `Object`
 
-## Viewports
-
-The Cypress default viewport size is 1000px by 660px.
-
-### Iterate Through Arrays of Common VA.gov Viewports
+## Iterate Through Top VA.gov Viewports
 
 To ensure that an application behaves correctly across the viewport sizes most commonly used by va.gov users, we've provided the following Cypress environment variables in the `config/cypress.json` file that each contain an array of objects, each describing a viewport:
 
