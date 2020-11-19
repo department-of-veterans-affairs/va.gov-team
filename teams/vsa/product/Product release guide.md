@@ -16,7 +16,7 @@ NOTE: This document starts from the BUILD phase...
 
 ### Release Plan
 - [ ] Create UAT plan
-- [UAT Template](www.google.com)** enter template
+- [UAT Template](www.google.com)*
 - [UAT Plan Example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/UAT/profile-research-plan-UAT.md)
 - [ ] Complete release plan 
 - [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Release%20Plan.md)
