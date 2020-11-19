@@ -16,6 +16,8 @@ NOTE: This document starts from the BUILD phase...
 - [ ] Schedule/hold Privacy and Security Review
 - [ ] Complete any tickets that came out of Privacy/Security review (if any)
 
+### [Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#analytics-request)
+- [ ] [Analytics request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+bsmartin-ep%2C+jonwehausen%2C+bmcgrady-ep&labels=analytics-insights%2C+analytics-request%2C+collaboration-cycle%2C+collab-cycle-review&template=analytics-implementation-and-qa-request-template.md&title=Analytics+Implementation+or+QA+Support+for+%5BTeam+Name+-+Feature+Name%5D) submitted
 
 ### Staging Review PREP (2 weeks prior to Staging Review)
 #### QA
@@ -23,7 +25,7 @@ NOTE: This document starts from the BUILD phase...
 - [ ] Create list of use cases/user stories and submit to Tze so he can create test cases/regression tests
 - [ ] Create “Coverage for references report” OR a add a link to the Epic for the product you are releasing  
 #### Accessibility
-- Complete the [required accessibility checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
+- [ ] Complete the [required accessibility checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
 - [ ] Axe scans in daily development
 - [ ] Axe scans included in end-to-end tests
 - [ ] Color tests for proper contrast and colorblindness
@@ -37,11 +39,11 @@ It is beneficial to conduct an internal QA session prior to actual QA. This cons
 - [ ] Internal QA has been conducted
 
 #### List of issues coming out of internal QA session:
-- [ ] TBD
-- [ ] TBD
-- [ ] TBD
-- [ ] TBD
-- [ ] All issues completed
+- TBD
+- TBD
+- TBD
+- TBD
+- [ ] All issues that came from internal QA have been completed
 
 ### [Request Staging Review]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
 - [ ] Complete Staging Reviews
@@ -52,11 +54,11 @@ It is beneficial to conduct an internal QA session prior to actual QA. This cons
 - [ ] Complete all Design feedback tickets
 - [ ] Complete all Product feedback tickets
 
-
-### Analytics
+### Analytics follow up
 - [ ] Dashboards have been created and link directly to your OKR/KPI's
 - [ ] Review dashboard(s) with Analytics team to ensure understanding of all metrics/calculations
 - [ ] Dashboards are finalized/work correctly
+
 
 ### Preparing/Updating all necessary supporting documentation for your product
 - [ ] How to use flipper/feature flags [example](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/flipper-feature-flags)
