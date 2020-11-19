@@ -4,17 +4,17 @@
 
 2. Current workflow
     - We heard that you utilize eScreening, can you tell us briefly how you utilize eScreening?    
-       - What are your impressions of the system?
-       - Do you utilize any other questionnaire products in your work?
+    - What are your impressions of the system?
+    - Do you utilize any other questionnaire products in your work?
     - Do Veterans you interact with complete questionnaires any other way (via paper, verbally over the phone or verbally in-person)?
        - Are nurses or office administrators involved in the process?
                - How does the nurse communicate this information to you?
-    - What forms or questionnaires do Veterans fill out?
+    - Can you explain more about the types of forms or questionnaires that Veterans fill out?
          - How do these questionnaires differ?
     - How much do these questionnaires impact your work?
     - How often do you refer to this questionnaire information?
-    - How many days do you normally give Veterans to complete a questionnaire?
     - How do you organize/store information provided by the patient?
+    - How many days do you normally give Veterans to complete a questionnaire?
     - How is the patient notified that they have a questionnaire to complete?
 
 3. Do you see patients/research participants via telehealth appointments?
@@ -27,13 +27,22 @@
    - If yes...
       - How do you create a questionnaire (pull from a template or create your own)?
       - What is your clinic's ability to make custom versus standardized questionnaires?
+      
+5. Do you regularly review any other form of patient submitted data besides questionnaires?
+    - Do you review self reported data from myHealtheVet, what does that data look like for you?
+    - Where do you go to access/view information you receive from patients? 
+    - Would you like patient generated information sent directly to the EHR?
+      - If no, do you want to decide what information gets sent to the EHR? What information would you like to send to the EHR?
+  
+6. Would you be interested in reviewing a clinical note in a patients chart with questionnaire answers?
+   - When would you want to see data from questionnaires across patients versus for only one patient?
 
-5. Does anyone see patients in a clinicial setting? not just research-based? (Take names and maybe follow-up later)
+7. Does anyone see patients in a clinicial setting? not just research-based? (Take names and maybe follow-up later)
 
-6. Review our prototype and ask for feedback.
+8. Review our prototype and ask for feedback.
 
 
-If there is time...(questions for clinician settings)
+If there is time...(questions for more clinician settings and not so much research)
       
 1. What health record information is helpful to review before interacting with a Veteran?
          - How long before seeing the Veteran do/would you open their chart to prepare for their appt.?
@@ -60,12 +69,3 @@ If there is time...(questions for clinician settings)
    - Do you have the ability to add documents from a message to the patient's chart?
    - If a veteran had a question about an intake form ahead of a visit would sending a secure message/text/call to the clinic be preferred?
    
-5. Do you regularly review any other form of patient submitted data besides questionnaires?
-    - Do you review self reported data from myHealtheVet, what does that data look like for you?
-    - Where do you go to access/view information you receive from patients? 
-    - Would you like patient generated information sent directly to the EHR?
-      - If no, do you want to decide what information gets sent to the EHR? What information would you like to send to the EHR?
-   
-6. Would you be interested in reviewing a clinical note in a patients chart with questionnaire answers?
-   - When would you want to see data from questionnaires across patients versus for only one patient?
-      
