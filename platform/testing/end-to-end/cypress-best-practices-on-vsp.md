@@ -187,6 +187,14 @@ Presets are available for:
 
 The viewport values these presets point to is updated monthly. The last number in the preset name represents the traffic rank where 1 is highest. For example, if you want to set the viewport to the logical width and height of the mobile device most used on VA.gov, use preset `mobile-top5-1`.
 
+Please note: These presets are available in the following Cypress environment variable arrays:
+
+- `vaTop5MobileViewports`
+- `vaTop5TabletViewports`
+- `vaTop5DesktopViewports`
+
+See [Iterate Through Top VA.gov Viewports](#iterate-through-top-vagov-viewports) for more details.
+
 | Mobile          | Tablet          | Desktop          |
 | --------------- | --------------- | ---------------- |
 | `mobile-top5-1` | `tablet-top5-1` | `desktop-top5-1` |
