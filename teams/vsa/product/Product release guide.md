@@ -118,7 +118,7 @@ It is beneficial to conduct an internal QA session prior to actual QA. This cons
 ### [Post Launch Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#post-launch-check-in)
 - [ ] Update Release Plan with "post-launch questions" completed
 - [ ] Schedule/Hold check-in
-- [ ] Measure success against OKRs
+- [ ] Measure results against OKRs
 - [ ] Prepare next steps and potential iterations if applicable
 
 
