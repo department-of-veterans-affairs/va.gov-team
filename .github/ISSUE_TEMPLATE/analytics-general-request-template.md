@@ -1,9 +1,9 @@
 ---
-name: Metrics Reporting Request Template
-about: To request ad hoc data or metrics
-title: Analytics Reporting Request for [person or team]
+name: General Analytics Request Template
+about: To request ad hoc metrics or general support with analytics
+title: General Analytics Request for [person or team]
 labels: analytics-insights, analytics-request
-assignees: joanneesteban, bsmartin-ep, jonwehausen, bmcgrady-ep
+assignees: joanneesteban
 
 ---
 
@@ -36,10 +36,15 @@ Who is this request for?
     _this adds context for the data_
     - [Insert team and project)
     
+- What type of analytics support are you looking for?
+  - [ ] one time metrics report (this is not a KPI dashboard, but a temporary or a one time report)
+  - [ ] metrics clarification (verification that the metrics you are looking at are being read accurately)
+  - [ ] analytics discussion (please share if you're looking for a general conversation, a KPI setting meeting, etc. in the "additional comments" section)
+    
 
 ## Timeframe for Analytics Requested
 _Please provide the timeframe for the metrics you are requesting._
-What timeframes are you looking to analyze (e.g. before vs. after)?
+What timeframes are you looking to analyze (e.g. before vs. after dd/mm/yy)?
 
 
 ## Analytics to Track Down
@@ -58,6 +63,9 @@ What timeframes are you looking to analyze (e.g. before vs. after)?
 - What is your hypothesis that you're hoping the data will support?
 - What area of the VA are you hoping to assess?
 - How frequently do you need this data?
+
+## Link to Metrics
+_Please link your report if you are seeking verification of metrics._
 
 ## Additional Comments
 _Add any comments or questions for the Insights team here (if applicable)._
