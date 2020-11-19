@@ -79,6 +79,8 @@ All of you (except shared resources) have been assigned a team when you first jo
 
 * Caregiver - [#vsa-caregiver](https://dsva.slack.com/channels/vsa-caregiver)
 
+* Decision Tools - [#vsa-decision-tools](https://dsva.slack.com/channels/vsa-decision-tools) 
+
 * eBenefits - [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)
 
 * Facility Locator - [#vsa-facilities](https://dsva.slack.com/channels/vsa-facilities)
