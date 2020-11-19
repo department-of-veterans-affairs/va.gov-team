@@ -4,12 +4,6 @@ NOTE: This document starts from the BUILD phase...
 
 ## Pre-Release 
 
-### [Contact Center review]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#contact-center-review)
-- [ ] Create Product guide
-- [ ] Create Product video
-- [ ] Submit request for Contact Center Review
-- [ ] Complete Contact Center Review
-
 ### [Privacy and security review]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review)
 - [ ] Use Privacy and Security Review template in va.gov-team-sensitive repository (select in ZenHub dropdown
 - [ ] Provide artifacts atleast 48 hours prior to the review
@@ -62,6 +56,12 @@ It is beneficial to conduct an internal QA session prior to actual QA. This cons
 - [ ] Complete all Content feedback tickets
 - [ ] Complete all Design feedback tickets
 - [ ] Complete all Product feedback tickets
+
+### [Contact Center review]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#contact-center-review)
+- [ ] Create Product guide
+- [ ] Create Product video
+- [ ] Submit request for Contact Center Review
+- [ ] Complete Contact Center Review
 
 ### Analytics follow up
 - [ ] Analytics are complete
