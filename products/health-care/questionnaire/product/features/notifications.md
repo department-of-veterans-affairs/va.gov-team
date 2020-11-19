@@ -18,22 +18,28 @@
 
 > As a Veteran, ...
 
-* **Use Case:** Veterans need the ability 
+* **Use Case:** 
 
 * **Description:**
 
 14.  Email Appointment Confirmation - VAOS/CPRS - sends an email confirmation of appointment booked - show link to clipboard that is due for the visit.
 15.  Text Appointment Reminder - VeText - show link to clipboard that is due for the visit
+Email Appointment Reminders - show a link (not form specific) to the questionnaire manager letting them know they have a clipboard to complete
+Send a notification if the clipboard is not completed within 2 days of the appt. maybe even Save in progress message to come back and complete
+Need to determine the time frame for appointments too far out and when we send a notification they have a questionnarie.
+
 
 ## Product Features
-
+[Form to fill out for VeText and VANotify](https://app.smartsheet.com/b/form/2fe7e01103d44ae58706e72e12647c08)
 
 
 
 ## Mockup
-<img src="insertimage embedded" width="500">
+[Mockups draft](https://zpl.io/aNepDW9)
 
 # Technical Documentation 
+[Notification tech feasability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/engineering/questionnaire-trigger/notification.md)
+[Trigger tech feasability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/engineering/questionnaire-trigger/trigger.md)
 
 ## Accessibility Checklist
 
