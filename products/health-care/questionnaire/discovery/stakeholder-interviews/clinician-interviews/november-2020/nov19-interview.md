@@ -42,7 +42,9 @@
 8. Review our prototype and ask for feedback.
 
 
-If there is time...(questions for more clinician settings and not so much research)
+
+
+If there is time, but probably won't get to...(questions for more clinician settings and not so much research)
       
 1. What health record information is helpful to review before interacting with a Veteran?
          - How long before seeing the Veteran do/would you open their chart to prepare for their appt.?
@@ -68,4 +70,3 @@ If there is time...(questions for more clinician settings and not so much resear
 2. Do you use secure messaging with patients in your practice?
    - Do you have the ability to add documents from a message to the patient's chart?
    - If a veteran had a question about an intake form ahead of a visit would sending a secure message/text/call to the clinic be preferred?
-   
