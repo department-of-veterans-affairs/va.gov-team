@@ -315,7 +315,7 @@ The other designer:
 **Design**
 
 - (If not done last sprint) Mock up first-time user experience
-- Finish initial pass at visual design
+- Initial pass at visual design
 - Gather feedback from design team
 - Submit wireframes for copy review
 
@@ -341,6 +341,7 @@ Are we ready for Matt to work on staging users list yet?
 
 **Design**
 
+- Review visual design with team; Get feedback
 - Finalize visual design
 - Finalize My VA copy
 
