@@ -1,10 +1,6 @@
 # Product Release Guide 
 How do we ensure a smooth and successful launch?
-- Note: This document starts from the BUILD phase.
-- Update Collaboration Tracker
-- Add time estimates maybe
-- how to roll this out
-- put in epic format?
+- Note: This document starts from the BUILD phase
 
 ## Pre-Release 
 
@@ -143,3 +139,8 @@ It is beneficial to conduct an internal QA session prior to actual QA. This cons
 - For individual meeting/mini reviews use this [GH template](Enter link to template)
 - Have an "Engineering intent review" and include accessibility (in addition to design intent review).
 
+**PM Feedback:**
+- Update Collaboration Tracker
+- Add time estimates maybe
+- how to roll this out
+- put in epic format?
