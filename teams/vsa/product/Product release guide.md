@@ -4,8 +4,35 @@ NOTE: This document starts from the BUILD phase...
 
 ## Pre-Release 
 
+### [Contact Center review]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#contact-center-review)
+- [ ] Create Product guide
+- [ ] Create Product video
+- [ ] Submit request for Contact Center Review
+- [ ] Complete Contact Center Review
 
-### Internal QA Session
+### [Privacy and security review]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review)
+- [ ] Use Privacy and Security Review template in va.gov-team-sensitive repository (select in ZenHub dropdown
+- [ ] Provide artifacts atleast 48 hours prior to the review
+- [ ] Schedule/hold Privacy and Security Review
+- [ ] Complete any tickets that came out of Privacy/Security review (if any)
+
+
+### Staging Review PREP (2 weeks prior to Staging Review)
+#### QA
+- [ ] Create list of staging users
+- [ ] Create list of use cases/user stories and submit to Tze so he can create test cases/regression tests
+- [ ] Create “Coverage for references report” OR a add a link to the Epic for the product you are releasing  
+#### Accessibility
+- Complete the [required accessibility checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
+- [ ] Axe scans in daily development
+- [ ] Axe scans included in end-to-end tests
+- [ ] Color tests for proper contrast and colorblindness
+- [ ] Content zoomed to 200%, 300%, 400%
+- [ ] Keyboard navigation check
+- [ ] Screen reader tests (VoiceOver + Safari or NVDA + Firefox)
+- [ ] Complete QA/Accessiblilty tickets that came out of Staging review prep (if any)
+
+### Conduct Internal QA Session
 It is beneficial to conduct an internal QA session prior to actual QA. This consists of the team allocating 1 hour to meet look for bugs and or issues with the product. This is beneficial because the engineers and designers have in-depth knowledge of potential problem areas that QA might not have the time/resources to look into.
 - [ ] Internal QA has been conducted
 
@@ -14,6 +41,17 @@ It is beneficial to conduct an internal QA session prior to actual QA. This cons
 - [ ] TBD
 - [ ] TBD
 - [ ] TBD
+- [ ] All issues completed
+
+### [Request Staging Review]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
+- [ ] Complete Staging Reviews
+- [ ] Complete all IA feedback tickets
+- [ ] Complete all Accessibility feedback tickets
+- [ ] Complete all QA feedback tickets
+- [ ] Complete all Content feedback tickets
+- [ ] Complete all Design feedback tickets
+- [ ] Complete all Product feedback tickets
+
 
 ### Analytics
 - [ ] Dashboards have been created and link directly to your OKR/KPI's
