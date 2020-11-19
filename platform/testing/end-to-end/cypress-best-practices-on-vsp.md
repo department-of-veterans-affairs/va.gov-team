@@ -12,7 +12,7 @@
   - [Expand Accordions: `cy.expandAccordions()`](#expand-accordions-cyexpandaccordions)
   - [Accessibility - `cy.axeCheck(context, tempOptions)`](#accessibility-cyaxecheckcontext)
   - [Accessibility Convience Function: `injectAxeThenAxeCheck(context, tempOptions)`](#accessibility-convience-function-injectaxethenaxecheckcontext-tempoptions)
-- [Iterate Through Top VA.gov Viewports](#viewports)
+- [Iterate Through Top VA.gov Viewports](#iterate-through-top-vagov-viewports)
 - [Cypress Testing Library Selectors](#cypress-testing-library-selectors)
 - [`data-testid` Attribute](#data-testid-attribute)
 
