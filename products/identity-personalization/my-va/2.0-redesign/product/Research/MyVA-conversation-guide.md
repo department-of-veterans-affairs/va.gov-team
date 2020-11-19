@@ -51,7 +51,7 @@ Before we start, a few things I want to mention:
     
 Okay great, for this next question I'm going to share my screen really quick. *Moderator share screen with MyVA*
 
-1. Do you remember if you have ever used this page on va.gov?
+5. Do you remember if you have ever used this page on va.gov?
     - If yes: Do you remember what you did?
     - If no: Not a problem at all.
  
@@ -111,9 +111,9 @@ Go ahead and scroll through this page and walk me through your thoughts on each 
 2. What is working? 
 3. What is not working?
 
-# Nametag area/disability rating
+**Skip nametag area/disability rating if prototype is shown second**
 
-**Skip question 1 if prototype is shown second**
+# Nametag area/disability rating
 
 1. If you clicked on the disability rating, where would you expect that to go?
 
@@ -147,9 +147,9 @@ Go ahead and scroll through this page and walk me through your thoughts on each 
 
 1. What information would you expect to see related to your health care here?
 2. What information related to your appointments do you expect to see on this page?
-2. What information related to your prescriptions do you expect to see on this page?
-3. What information related to your messages do you expect to see on this page?
-4. Can you look over all of the information shown here, is there anything that you would add?
+3. What information related to your prescriptions do you expect to see on this page?
+4. What information related to your messages do you expect to see on this page?
+5. Can you look over all of the information shown here, is there anything that you would add?
 
 ### Things to watch for:
 
