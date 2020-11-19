@@ -5,7 +5,7 @@ NOTE: This document starts from the BUILD phase...
 ## Pre-Release 
 
 ### [Privacy and security review]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review)
-- [ ] Use Privacy and Security Review template in va.gov-team-sensitive repository 
+- [ ] Submit ticket for review: Use Privacy and Security Review template in va.gov-team-sensitive repository 
 - (select in ZenHub dropdown)
 - [ ] Provide artifacts atleast 48 hours prior to the review
 - [ ] Schedule/hold Privacy and Security Review
