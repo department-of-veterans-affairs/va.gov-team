@@ -2,7 +2,7 @@
 
 **Digital Services Veterans Affairs (DSVA), VSA, Public Websites**
 
-Liz Lantz (liz.lantz@adhocteam.us), November 2020
+Liz Lantz (liz.lantz@adhocteam.us), November 19, 2020
 
 View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/iris/contact-center-interviews-1-research-plan.md).
 
@@ -45,12 +45,12 @@ The [complete list of research questions](https://github.com/department-of-veter
 3. The contact center teams we spoke with are primarily authoring and managing internal content for contact center agents; most do not handle any external, Veteran-facing content.
 4. Three of the teams have a dedicated content staff. Content management is an ancillary responsibility for the other 3 teams.
 5. Only IRIS administrators can publish or update IRIS content. 
-6. A new IRIS FAQs hasn't been added in at least 7 years, and a request to update an IRIS FAQ hasn't been submitted in at least 2 years.
+6. A new IRIS FAQ hasn't been added in at least 7 years, and a request to update an IRIS FAQ hasn't been submitted in at least 2 years.
 7. One team (HRC) has a mature content management process with formalized routing and feedback/publication loops.
 8. We identified 3 teams responsible for Oracle FAQs; this new responsibility was assigned to 2 teams as a result of the decision to retire the system.
    - NCC recently took ownership of the FAQs, and hasn't touched them.
    - The NCA external content team believes they *would* be responsible for these moving forward; no current owner of this content today. The NCA executive correspondence updated some NCA FAQs based on VA.gov content and then migrated them to KnowVA via eGain.
-   - The Education, Client Applications team has always managed the GI Bill help desk FAQs, and has begun the process of migrating them to KnowVA.
+   - The Education, Client Applications team has always managed the GI Bill help FAQs, and has begun the process of migrating them to KnowVA.
 9. Content governance is a pain point for teams across VA contact centers. We heard repeatedly that many teams struggle with tracking down SMEs to verify information, and that there is a sense of a lack of content ownership beyond the initial ask to have the content created.
 
 ## Supplemental Findings
@@ -168,7 +168,7 @@ We spoke with members of two teams:
 - They leverage the LEAF system to manage review, approval, and publication of contet.
 - The LEAF system has groups set up with specific individuals authorized to perform different actions in the content process. All members of the group are notified when that action takes place.
 - The Member Services, Knowledge Management team supports HRC content in the form of drafting, editing, publishing and auditing. They also administer the LEAF system
-  - KM System Liaison, Beki Lund, is incredibly knowledgable and helpful with all things LEAF, eGain, and KnowVA.
+  - KM System Liaison, Beki Laird, is incredibly knowledgable and helpful with all things LEAF, eGain, and KnowVA.
 
 - Fields/metadata observed in LEAF request:
   - request number
@@ -192,7 +192,7 @@ We spoke with members of two teams:
 - Originally, IRIS FAQs were created from a team with members from the 4 business lines at the VA.
 - IRIS didn't have a single agency sponsor, so governance became a problem - nobody owned it.
   - We were hopeful that we could identify the original content authors through data logs, but that isn't possible since what we see in the system today reflects mass-data migrations that took place when the system changed hands. 
-- The VA decided to retire OSvC and gave teams 30 days notice. DMC and other contact centers raised red flags since the Ask-A-Question feature is critical to a Veteran's ability to submit inquiries to the VA. This is particularly critical for Veterans who aren't able to place a call to a contact center. The timeline to retire OScV has been extended; update as of 10/26/2020 is that data migration will take place in Q4 2021.
+- The VA decided to retire OSvC and gave teams 30 days notice. DMC and other contact centers raised red flags since the Ask-A-Question feature is critical to a Veteran's ability to submit inquiries to the VA. This is particularly critical for Veterans who aren't able to place a call to a contact center. The timeline to retire OSvC has been extended; update as of 10/26/2020 is that data migration will take place in Q4 2021.
 - 6 IRIS workgroups were formed, containing contact center SMEs. 
   - Workgroups were focused on inquiry response and creating/managing cases. 
   - No workgroup was formed to address IRIS FAQs.
@@ -206,7 +206,7 @@ We interviewed Tammy Hurley, who manages the FAQs on gibill.custhelp.gov (GI Bil
 - The content management process is intentionally informal and flexible. Tammy strives to maintain consistency while being flexible with the way different folks like to work. Communication takes place primarily via email.
 - Stakeholder engagement team are "the people telling us how to communicate all the policy and procedures. They come up with a communications plan". Terry Warren worked with the DMC team to create GI Bill specific content related to debt; could be a good contact for R&S content.
 - This team doesn't leverage the workflow and analytics functionality in OSvC
-- Tammy has been working on moving the GI Bill FAQs into eGain. Once they're migrated over, she'll figure out who will manage and own that information within Education services. They still don't know who that person would be. 
+- Tammy has been working on moving the GI Bill Help FAQs into eGain. Once they're migrated over, she'll figure out who will manage and own that information within Education services. They still don't know who that person would be. 
 
 ## Appendix
 
@@ -217,4 +217,3 @@ We interviewed Tammy Hurley, who manages the FAQs on gibill.custhelp.gov (GI Bil
 [Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/iris/preliminary%20interviews/notes)
 
 [Links to Mural boards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/iris/README.md#secondary-interviews) used for synthesis available in README
-
