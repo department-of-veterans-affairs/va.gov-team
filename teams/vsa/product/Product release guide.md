@@ -1,10 +1,12 @@
 # Product Release Guide 
 How do we ensure a smooth and successful launch?
+NOTE: This document starts from the BUILD phase...
 
 ## Pre-Release 
 
+
 ### Internal QA Session
-It is beneficial to conduct internal QA. This consisf of the team allocating 1 hour to meet and have the team look for bugs and or issues with the product. This is beneficial because the engineers and designers have in-depth knowledge of potential problem areas that QA might not have the time/resources to look into.
+It is beneficial to conduct an internal QA session prior to actual QA. This consists of the team allocating 1 hour to meet look for bugs and or issues with the product. This is beneficial because the engineers and designers have in-depth knowledge of potential problem areas that QA might not have the time/resources to look into.
 - [ ] Internal QA has been conducted
 
 #### List of issues coming out of internal QA session:
@@ -12,18 +14,16 @@ It is beneficial to conduct internal QA. This consisf of the team allocating 1 h
 - [ ] TBD
 - [ ] TBD
 - [ ] TBD
-- [ ] Notes
 
 ### Analytics
 - [ ] Dashboards have been created and link directly to your OKR/KPI's
 - [ ] Review dashboard(s) with Analytics team to ensure understanding of all metrics/calculations
 - [ ] Dashboards are finalized/work correctly
 
-### Preparing/Updating all necessary documentation
+### Preparing/Updating all necessary supporting documentation for your product
 - [ ] How to use flipper/feature flags [example](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/flipper-feature-flags)
-- [ ] API calls and dependent systems 
+- [ ] API calls and dependent systems [Example](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account#api-calls-and-dependent-systems)
 - [ ] Update product outline with updated release date and links to analytics dashboards
-- [ ] Update go-to-market strategy/communications plan
 
 ### UAT 
 - [ ] Create UAT plan [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/UAT/profile-research-plan-UAT.md)
