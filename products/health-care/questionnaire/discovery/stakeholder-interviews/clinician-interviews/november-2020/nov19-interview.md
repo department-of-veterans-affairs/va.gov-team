@@ -29,7 +29,6 @@
       - What is your clinic's ability to make custom versus standardized questionnaires?
       
 5. Do you regularly review any other form of patient submitted data besides questionnaires?
-    - Do you review self reported data from myHealtheVet, what does that data look like for you?
     - Where do you go to access/view information you receive from patients? 
     - Would you like patient generated information sent directly to the EHR?
       - If no, do you want to decide what information gets sent to the EHR? What information would you like to send to the EHR?
@@ -67,3 +66,6 @@ If there is time, but probably won't get to...(questions for more clinician sett
 2. Do you use secure messaging with patients in your practice?
    - Do you have the ability to add documents from a message to the patient's chart?
    - If a veteran had a question about an intake form ahead of a visit would sending a secure message/text/call to the clinic be preferred?
+   
+3. Do you review self reported data from myHealtheVet, what does that data look like for you?
+
