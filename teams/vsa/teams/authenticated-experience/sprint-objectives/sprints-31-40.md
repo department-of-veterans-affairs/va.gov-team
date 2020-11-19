@@ -319,6 +319,10 @@ The other designer:
 - Gather feedback from design team
 - Submit wireframes for copy review
 
+**FE**
+
+- If ready, start FE build
+
 **Dev**
 
 ### VA Profile notification preferences
@@ -345,7 +349,9 @@ Are we ready for Matt to work on staging users list yet?
 - Finalize visual design
 - Finalize My VA copy
 
-**Dev**
+**FE**
+
+- Start/continue FE build
 
 ## Sprint 39 (1/13 – 1/26)
 
@@ -359,6 +365,10 @@ Are we ready for Matt to work on staging users list yet?
 
 - Research plan for usability testing of finalized designs
 - Convo guide for usability testing of finalized designs
+
+**FE**
+
+- Continue FE build
 
 **Dev**
 
@@ -375,6 +385,10 @@ Are we ready for Matt to work on staging users list yet?
 - Recruit for research
 - Conduct research
 
+**FE**
+
+- Continue FE build
+
 ## Sprint 41 (2/10 – 2/23)
 
 ### My VA redesign
@@ -385,3 +399,7 @@ Are we ready for Matt to work on staging users list yet?
 
 - Research summary
 - Hand off final designs to FE
+
+**FE**
+
+- FE to begin incorporating visual design
