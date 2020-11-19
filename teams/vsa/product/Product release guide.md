@@ -125,20 +125,17 @@ It is beneficial to conduct an internal QA session prior to actual QA. This cons
 # Feedback from other teams
 
 **QA feedback:**
-Staging review scheduling: 
-As a regular process, check in with Tze a week prior to opening the staging review ticket, or when you open the ticket , have artifacts in and tag Tze 2 weeks in advance. This makes it possible for Tze to get to it w/o being rushed (2day before meeting).
-
-Give 1 week notice prior to opening staging review ticket. 
-tag Tze in ticket, also tag him in slack. 
+- Staging review scheduling: Have artifacts in and tag Tze 2 weeks in advance from the Staging Review. This makes it possible for Tze to get to it w/o being rushed.
+- When you schedule the Staging review, also tag Tze in Slack.
 
 **Platform feedback:**
-The biggest blocker to a successful launch would be not implementing platform feedback earlier in the process. It would be ideal to implement the feedback prior to the staging review. Also more frequent 
-communication of changes/issues via the slack channel would be beneficial.
+- The biggest blocker to a successful launch would be not implementing platform feedback earlier in the process. 
+- It would be ideal to implement the feedback prior to the staging review. 
+- More frequent communication of changes/issues via the slack channel would be beneficial.
 
 **Accessibility feedback:**
-Include accessibility in design syncs, design-intent review, and anytime large changes are made.
-More frequent communication with Accessibility (ex: Biweekly accessibility meetings)
-For individual meeting/mini reviews use this [GH template](Enter link to template)
-
-Have an "Engineering intent review" and include accessibility (in addition to design intent review).
+- Include accessibility in design syncs, design-intent review, and anytime large changes are made.
+- More frequent communication with Accessibility (ex: Biweekly accessibility meetings)
+- For individual meeting/mini reviews use this [GH template](Enter link to template)
+- Have an "Engineering intent review" and include accessibility (in addition to design intent review).
 
