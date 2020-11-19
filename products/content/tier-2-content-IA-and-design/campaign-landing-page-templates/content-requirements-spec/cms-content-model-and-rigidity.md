@@ -26,7 +26,7 @@
 
 **Q:** Image: How important is support for truly responsive images (Content API serving different image densities for different screen sizes) 
 
-**A:** No needed for CLP.
+**A:** Not needed for CLP.
 
 ## 2. Why this matters (required)
 
