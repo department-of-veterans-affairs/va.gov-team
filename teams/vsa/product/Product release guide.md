@@ -22,6 +22,9 @@ NOTE: This document starts from the BUILD phase...
 ### Release Plan
 - [ ] Complete release plan 
 - [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Release%20Plan.md)
+- [ ] Create UAT plan
+- [UAT Template](www.google.com)** enter template
+- [UAT Plan Example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/UAT/profile-research-plan-UAT.md)
 
 ### Staging Review PREP (2 weeks prior to Staging Review)
 #### QA
@@ -72,10 +75,6 @@ It is beneficial to conduct an internal QA session prior to actual QA. This cons
 - [ ] API calls and dependent systems [Example](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account#api-calls-and-dependent-systems)
 - [ ] Update product outline with updated release information and links to analytics dashboards
 
-### Create UAT plan
-- [ ] Create UAT plan 
-- [UAT Template](www.google.com)** enter template
-- [UAT Plan Example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/UAT/profile-research-plan-UAT.md)
 
 ### Coordinate with relevant parties regarding any changes that affect other teams/stakeholders
 #### Ex:(re-directs, changes to content, changes that affect other teams) 
