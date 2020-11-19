@@ -8,7 +8,7 @@ This is the list for v1 of My VA 2.0.
 
 |Benefit type|Update type|Proposed copy/structure|Link destination|
 |----------|----------|------------|----------|
-|Disability|Claim status update|Your [claim/appeal] — [Claim/appeal title] — has been updated to [status]. [View [claim/appeal]]()]| https://www.va.gov/claim-or-appeal-status/your-claims|
+|Disability|Claim status update|Your [claim/appeal] — [Claim/appeal title] — has been updated to [status]. [View [claim/appeal]]()| https://www.va.gov/claim-or-appeal-status/your-claims|
 |Health care|Secure message|You have a new secure message from [name of provider]. [View message]()|Link to MHV secure messaging tool|
 |Health care|Prescription|Your prescription has been refilled — [prescription name and dose].[View prescription]()|Link to MHV prescriptions tool|
 |Health care|Upcoming appointment|[Appointment block] [View appointment]()|https://va.gov/health-care/schedule-view-va-appointments/appointments/|
