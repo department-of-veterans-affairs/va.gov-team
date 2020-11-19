@@ -1,6 +1,6 @@
 # Product Release Guide 
 How do we ensure a smooth and successful launch?
-NOTE: This document starts from the BUILD phase...
+- Note: This document starts from the BUILD phase.
 
 ## Pre-Release 
 
