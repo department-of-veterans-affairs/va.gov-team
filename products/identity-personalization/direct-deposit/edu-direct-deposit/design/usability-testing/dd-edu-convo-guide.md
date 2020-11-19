@@ -40,7 +40,8 @@ OK, we'll be doing a couple of things today:
 ### User screenshares / 5 minutes
 - **Please go to VA.gov.**
 - **Now we're ready to start.** OK, now could you share your screen with us?
-- You heard there was a place on VA.gov that you could change your direct deposit info for your education payments, where would you look?
+- Here's a scenario: you moved changed banks so you need VA to make deposits into your new account.
+- You heard there was a place on VA.gov that you could update your direct deposit info for your education payments, where would you go to make a change?
 - This is the actual home page; you're free to click on anything.
 
 #### Things to look for:
@@ -52,16 +53,16 @@ OK, we'll be doing a couple of things today:
 ## Usability tasks
 User is directed to the prototype.
 - I have a link in chat to the prototype we're testing; **please click on it.** (Clicks on prototype link to DD-EDU prototype)
-- For the purpose of this test, we'll say you've moved.
 - We'll be using made-up scenarios that may not necessarily apply to you. We'll be filling-out a small form (or forms), and you're free to use whatever info comes to mind--fake numbers are fine. 
 - Nothing will be submitted because this is a prototype. However, we're recording this, so please don't use real account numbers--1234567890 etc. should work.
+- For the purpose of this test, we'll go with what we said earlier: you moved changed banks so you need VA to make deposits into your new account.
 
 ### Task 1 / View direct deposit info / 5 minutes
 User reviews direct deposit information available for one or both payment types.
 - Please take a **look at this screen and find the direct deposit information for educational payments.**
 - Describe what else is on this screen? ...What other payments types do you see?
 - Why do you think there are two sets of payment info?
-- What could you do if you thought you were the victim of fraud?
+- If you thought you were the victim of bank fraud, what could you do?
 
 #### Things to look for:
 - How quickly does the user find the DD info?
@@ -71,9 +72,8 @@ User reviews direct deposit information available for one or both payment types.
 ### Task 2 / Change direct deposit info / 10 minutes
 User changes the direct deposit info to a "new" savings account.
 - Let's say you moved and you had a new savings account. **Update the information for your educational payments.**
-- How can you be sure of the account and routing numbers?
-- How often do you expect you'd need to update your info? 
-- If this were real information, what would expect to happen after you updated?
+- How often have you updated your info? 
+- If this were real information, what would expect to happen after you updated? How long do you think that would take?
 
 #### Things to look for:
 - Do users immediately use the correct edit function (education)?
@@ -84,7 +84,7 @@ User changes the direct deposit info to a "new" savings account.
 ### Task 3 / One payment type only / 5 minutes
 User advances to a screen showing only compensation and pension direct deposit info.
 - Please take a **look at this screen and find the direct deposit information for educational payments.**
-- What would you do if you thought this was an error?
+- If you thought this was an error, what could you do?
 - Let's say you know this is right, and you don't get educational payments. How do you feel about showing the message?
 
 #### Things to look for:
