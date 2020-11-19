@@ -121,7 +121,7 @@ It is beneficial to conduct an internal QA session prior to actual QA. This cons
 - [ ] Prepare next steps and potential iterations if applicable
 
 
-## FEEDBACK from other teams
+# Feedback from other teams
 
 **QA feedback:**
 Staging review scheduling: 
