@@ -20,7 +20,8 @@ NOTE: This document starts from the BUILD phase...
 - [ ] [Analytics request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+bsmartin-ep%2C+jonwehausen%2C+bmcgrady-ep&labels=analytics-insights%2C+analytics-request%2C+collaboration-cycle%2C+collab-cycle-review&template=analytics-implementation-and-qa-request-template.md&title=Analytics+Implementation+or+QA+Support+for+%5BTeam+Name+-+Feature+Name%5D) has been submitted and finalized
 
 ### Release Plan
-- [ ] Complete release plan [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Release%20Plan.md)
+- [ ] Complete release plan 
+- [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Release%20Plan.md)
 
 ### Staging Review PREP (2 weeks prior to Staging Review)
 #### QA
