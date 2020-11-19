@@ -1,6 +1,7 @@
 # Product Release Guide 
 How do we ensure a smooth and successful launch?
 - Note: This document starts from the BUILD phase.
+- Update Collaboration Tracker
 
 ## Pre-Release 
 
