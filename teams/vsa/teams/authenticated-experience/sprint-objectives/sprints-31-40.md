@@ -287,7 +287,6 @@ Don't include if this is done before the sprint:
 
 **PM**
 
-
 **Design**
 
 One designer:
@@ -299,6 +298,18 @@ One designer:
 The other designer:
 
 - Research summary (should take no more than a week)
+
+### Direct deposit for edu
+
+**Design**
+
+- Finish research
+- Research summary
+- Final design updates
+
+**FE** 
+
+- Begin FE build
 
 ### VA Profile notification preferences
 
