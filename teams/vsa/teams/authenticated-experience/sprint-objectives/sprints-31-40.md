@@ -287,12 +287,18 @@ Don't include if this is done before the sprint:
 
 **PM**
 
-Are we ready for Matt to work on staging users list yet?
 
 **Design**
 
+One designer:
+
+- Incorportate user feedback into designs
 - Convert mobile wireframes to desktop
-- (AFTER desktop wireframe has been finished) Start visual design
+- (If time) Mock up first-time user experience
+
+The other designer:
+
+- Research summary (should take no more than a week)
 
 ### VA Profile notification preferences
 
@@ -308,8 +314,10 @@ Are we ready for Matt to work on staging users list yet?
 
 **Design**
 
+- (If not done last sprint) Mock up first-time user experience
 - Finish initial pass at visual design
 - Gather feedback from design team
+- Submit wireframes for copy review
 
 **Dev**
 
@@ -329,8 +337,11 @@ Are we ready for Matt to work on staging users list yet?
 
 **PM**
 
+Are we ready for Matt to work on staging users list yet?
+
 **Design**
 
+- Finalize visual design
 - Finalize My VA copy
 
 **Dev**
@@ -352,4 +363,24 @@ Are we ready for Matt to work on staging users list yet?
 
 ## Sprint 40 (1/27 – 2/9)
 
-**Dev**
+### My VA redesign
+
+**PM**
+
+- Hold usability testing review at beginning of sprint
+
+**Design**
+
+- Recruit for research
+- Conduct research
+
+## Sprint 41 (2/10 – 2/23)
+
+### My VA redesign
+
+**PM**
+
+**Design**
+
+- Research summary
+- Hand off final designs to FE
