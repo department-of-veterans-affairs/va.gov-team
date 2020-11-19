@@ -87,15 +87,22 @@ how do we get this infront of PM's
  Show at next weeks product sync, meet with Mickin prior
 
 
-Tze: 
+===========================
+**QA feedback:**
 Staging review scheduling: 
 As a regular process, check in with Tze a week prior to opening the staging review ticket, or when you open the ticket , have artifacts in and tag Tze 1 week in advance. This makes it possible for Tze to get to it w/o being rushed (2day before meeting).
 
 Give 1 week notice prior to opening staging review ticket. 
 tag Tze in ticket, also tag him in slack. Things get lost in the process.
 
-Utlize "Use cases template" and provide to Tze
-usability testing review ticket - include use cases document
+**Platform feedback:**
+The biggest blocker to a successful launch would be not implementing platform feedback earlier in the process. It would be ideal to implement the feedback prior to the staging review. Also more frequent 
+communication of changes/issues via the slack channel would be beneficial.
 
+**Accessibility feedback:**
+Include accessibility in design syncs, and anytime large changes are made.
+More frequent communication with Accessibility (ex: Biweekly accessibility meetings)
+for one off meetings use [this GH template](www.google.com)
 
+Have an "Engineering intent review" and include accessibility (in addition to design intent review) 
 
