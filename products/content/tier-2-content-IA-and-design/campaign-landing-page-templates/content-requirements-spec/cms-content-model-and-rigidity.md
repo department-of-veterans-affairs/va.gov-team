@@ -20,44 +20,30 @@
 
 **Q:** Image: What size does the front end need? What aspect ratio? 
 
+**A:** Short term: Focus on this product for now.   Use one of existing aspect ratio specs (this should account for full width).   No responsive need as we hide it on smaller screen sizes.  (Ryan will get back w/ chosen aspect ratio)    
+
+- Long term for other projects: Consider as part of a more global design system process.
 
 **Q:** Image: How important is support for truly responsive images (Content API serving different image densities for different screen sizes) 
 
-
+**A:** No needed for CLP.
 
 ## 2. Why this matters (required)
 
 **Q:** "This page is for" panel: Can this reuse the audience taxonomies from Resources & support? Some of the labels are different, but we strongly recommend aligning this (should be a Content & IA collaboration)
 
 **A:** 
+CLP (in design comp) - Leverage R&S or allow it to be free-form, with specs to restrict to no more than three audience types -- and a character count restriction; we need to define sentence casing; we will provide examples in the product guide.
 
-CLP (in design comp)
+Examples:
 - Veterans
 - Family caregivers
 - Transitioning service members
 
-R&S
 
-- Beneficiaries audiences:
-  - All Veterans
-  - Former prisoners of war
-  - Gulf War Veterans
-  - Incarcerated Veterans
-  - Korean War Veterans
-  - LGBTQ Veterans
-  - Minority Veterans
-  - Native American Veterans
-  - Vietnam War Veterans
-  - Women Veterans
-  - World War II Veterans
-  - Family members and caregivers
-  - Service members
-- Non-beneficiaries audiences:
-  - TBD
+**Q:** Share on Social media: it's indicated as optional, so should that just be a boolean? Under what circumstances would an editor _not_ want social media links?
 
-**Q:** Social media: it's indicated as optional, so should that just be a boolean? Under what circumstances would an editor _not_ want social media links?
-
-**A:** Yes, make it boolean/optional.
+**A:** Yes,**absolutely** make it boolean/optional.
 
 ## 3. What you can do (required)
 
@@ -67,14 +53,13 @@ No questions.
 
 "Duration" and "intro text" fields are not yet supported (see Resource and support product, similar issue.) We can add these fields to the video component CMS-wide, with the idea that in the future this content could be pulled in via Youtube API. 
 
-Q (for Jen and Ryan): Confirm the video caption comes from YouTube --  or is it both? (e.g., by default, the YT caption is pulled in, but author has the option to write-over.)  (Latest comps: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/content-requirements-spec/CLP-Maximal-markup-updated-060320.pdf)
+**Q:** Pull from YouTube (like R&S) or require (or allow) author to write?
 
-For MVP, this will need to be a manual copy/paste. 
-
+**A:** Requirement is to pull from YouTube (like R&S) **but for MVP, let's require the author to copy/paste the description/duration from YouTube.** (Note: We will solve the dynamic info pull from YT API for R&S and CLP post-MVP -- ideally the follow-on point release.)
 
 ## 5. Spotlight (optional)
 
-**Q:** The "Read the press release for details" link field is a CTA, and we'd recommend storing it as a separate field from the "Spotlight intro text" field field, especially if that `>` carat is desired. Then the intro text field can be set to plain text.  
+**Q:** The "Read the press release for details" link field is a CTA, and we'd recommend storing it as a separate field from the "Spotlight intro text" field field, especially if that `>` carat is desired. Then the intro text field can be set to plain text. 
 
 **A:** OK
 
@@ -82,7 +67,7 @@ For MVP, this will need to be a manual copy/paste.
 
 **Q:** Is the plan still to link out to other websites, eg www.blogs.va.gov? 
 
-**A:** Yes.
+**A:** Yes! (We are **not** doing the same thing here as VAMC.)
 
 **Q:** If so: can we standardize around the 140 character count used in similar places in this design, instead of 100?
 
@@ -98,15 +83,24 @@ The most challenging part of this will be some new content attributes for downlo
 
 **Q:** Do we still expect Spanish language items? If so, can they just go in their own panel? 
 
-**A:** Yes, if you mean this be a separate panel option.
+**A:** Yes, if you mean this be a separate panel option. (One download per card/block)
 
 **Q:** Has this gone through accessibility review? Eg "Download (PDF)" is probably not accessible. 
 
-**A:** This is based on the Find a Form tool download feature -- and yes, that went through accessibility review.
+**A:** The comp is not correct; Ryan will update the comp to reflect spec.  **MVP Requirement: Author puts URL in for PDF.**
+
+(Note: These PDFs can come from various VA PDF data sources -- not just CMS.  We don't want the user to have to upload those PDFs into the CMS -- they should be able to link to the where the forms are located (could be in VA forms federated database -- e.g. user pastes url for the PDF.  We don't want VA stakeholders to create duplicate versions of PDF -- just point to one source of truth.)
+
+Use Cases:
+1. For MVP: Author has assets already available in legacy publications database -- they should be able to link to this as a downloadable asset
+2. For MVP: Author has assets already in Drupal CMS; author should be able to point to that asset (requirement is the author must use the in production URL not the node URL)
+
+3. **This is another problem to solve not to be considered for CLP** Author uploads asset into the CMS via this CLP page building tool 
+
 
 **Q:** Can we standardize around the 140 character count used in other places here, instead of 100? 
 
-**A:** Yes
+**A:** Yes!
 
 ## 8. Events (optional)
 
