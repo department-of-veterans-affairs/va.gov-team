@@ -16,8 +16,11 @@ NOTE: This document starts from the BUILD phase...
 - [ ] Schedule/hold Privacy and Security Review
 - [ ] Complete any tickets that came out of Privacy/Security review (if any)
 
-### [Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#analytics-request)
-- [ ] [Analytics request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+bsmartin-ep%2C+jonwehausen%2C+bmcgrady-ep&labels=analytics-insights%2C+analytics-request%2C+collaboration-cycle%2C+collab-cycle-review&template=analytics-implementation-and-qa-request-template.md&title=Analytics+Implementation+or+QA+Support+for+%5BTeam+Name+-+Feature+Name%5D) submitted
+### [Submit Analytics request](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#analytics-request)
+- [ ] [Analytics request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+bsmartin-ep%2C+jonwehausen%2C+bmcgrady-ep&labels=analytics-insights%2C+analytics-request%2C+collaboration-cycle%2C+collab-cycle-review&template=analytics-implementation-and-qa-request-template.md&title=Analytics+Implementation+or+QA+Support+for+%5BTeam+Name+-+Feature+Name%5D) has been submitted and finalized
+
+### Release Plan
+- [ ] Complete release plan [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Release%20Plan.md)
 
 ### Staging Review PREP (2 weeks prior to Staging Review)
 #### QA
@@ -46,7 +49,8 @@ It is beneficial to conduct an internal QA session prior to actual QA. This cons
 - [ ] All issues that came from internal QA have been completed
 
 ### [Request Staging Review]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
-- [ ] Complete Staging Reviews
+- [ ] Provide all required artifacts in the request
+- [ ] Schedule/hold staging review
 - [ ] Complete all IA feedback tickets
 - [ ] Complete all Accessibility feedback tickets
 - [ ] Complete all QA feedback tickets
@@ -63,22 +67,19 @@ It is beneficial to conduct an internal QA session prior to actual QA. This cons
 ### Preparing/Updating all necessary supporting documentation for your product
 - [ ] How to use flipper/feature flags [example](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/flipper-feature-flags)
 - [ ] API calls and dependent systems [Example](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account#api-calls-and-dependent-systems)
-- [ ] Update product outline with updated release date and links to analytics dashboards
+- [ ] Update product outline with updated release information and links to analytics dashboards
 
-### UAT 
+### Create UAT plan
 - [ ] Create UAT plan [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/UAT/profile-research-plan-UAT.md)
-- INSERT TEMPLATE (ask design)
+- [UAT Template](www.google.com)** enter template
 
-### Release Plan
-- [ ] Complete release plan [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Release%20Plan.md)
-
-### Coordination with relevant parties (IMPORTANT)
+### Coordination with relevant parties regarding any changes that affect other teams/stakeholders
 #### Ex:(re-directs, changes to content, changes that affect other teams) 
 - [ ] Create issues in Github for changes that will take place, add dates, and tag relevant people/teams (re-directs, content changes, UI changes, etc)
 - [ ] Update dates/parties accordingly as launch approaches and dates are finalized
 
-## Release
 
+## Release
 ### UAT
 - [ ] Conduct UAT Go/No-Go meeting [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/uat-go-nogo.md)
 - [ ] Resolve any issues (if applicable)
@@ -111,7 +112,6 @@ It is beneficial to conduct an internal QA session prior to actual QA. This cons
 
 
 =================================================================
-
 **QA feedback:**
 Staging review scheduling: 
 As a regular process, check in with Tze a week prior to opening the staging review ticket, or when you open the ticket , have artifacts in and tag Tze 1 week in advance. This makes it possible for Tze to get to it w/o being rushed (2day before meeting).
