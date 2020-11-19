@@ -26,6 +26,7 @@ assignees: andreahewitt-odd, shiragoodman
 - Product Manager (required): **name**
 - DEPO Product Lead (required): **name**
 - Entire VFS team (recommended): **names**
+- Other specialists: **names**
 
 VSP will only invite those specified, so be sure to list your content, IA, accessibility and QA specialists, if applicable.
 
