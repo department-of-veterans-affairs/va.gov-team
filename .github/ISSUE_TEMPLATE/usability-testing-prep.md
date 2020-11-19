@@ -29,6 +29,7 @@ assignees: andreahewitt-odd, shiragoodman
 - Product Manager (required): **name**
 - DEPO product lead (required): **name**
 - Anyone else from your team who significantly contributed to the artifacts provided (required): **names**
+- Other specialists: **names**
 
 VSP will only invite those specified, so be sure to list your content, IA, accessibility and QA specialists, if applicable.
 
