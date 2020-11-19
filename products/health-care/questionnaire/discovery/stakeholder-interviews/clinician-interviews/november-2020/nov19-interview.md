@@ -39,10 +39,7 @@
 
 7. Does anyone see patients in a clinicial setting? not just research-based? (Take names and maybe follow-up later)
 
-8. Review our prototype and ask for feedback.
-
-
-
+8. Review our prototype and ask for feedback.<br/><br/><br/>
 
 If there is time, but probably won't get to...(questions for more clinician settings and not so much research)
       
