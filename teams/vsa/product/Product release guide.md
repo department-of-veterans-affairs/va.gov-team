@@ -107,26 +107,36 @@ It is beneficial to conduct an internal QA session prior to actual QA. This cons
 - [ ] Resolve any issues (if applicable)
 
 ## Post Launch
-- [ ] Fill in post launch metrics in the Release Plan
+- [ ] Fill in post-launch metrics in the Release Plan
 - [ ] Remove old code (if applicable)
+
+### [Full Accessiblity and 508 Office Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#full-accessibility-and-508-office-audit)
+- [ ] Request [Full Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+shiragoodman&labels=508%2FAccessibility%2C+vsp-product-support%2C+collaboration-cycle%2C+collab-cycle-review&template=full-accessibility-and-508-office-audit.md&title=Full+Accessibility+%26+508+Office+Audit+%5BTeam+Name+-+Feature+Name%5D)
+- [ ] Complete required scans/tests
+- [ ] Make required changes (if any)
+
+### [Post Launch Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#post-launch-check-in)
+- [ ] Update Release Plan with "post-launch questions" completed
+- [ ] Schedule/Hold check-in
+- [ ] Prepare next steps and potential iterations if applicable
 
 
 =================================================================
 **QA feedback:**
 Staging review scheduling: 
-As a regular process, check in with Tze a week prior to opening the staging review ticket, or when you open the ticket , have artifacts in and tag Tze 1 week in advance. This makes it possible for Tze to get to it w/o being rushed (2day before meeting).
+As a regular process, check in with Tze a week prior to opening the staging review ticket, or when you open the ticket , have artifacts in and tag Tze 2 weeks in advance. This makes it possible for Tze to get to it w/o being rushed (2day before meeting).
 
 Give 1 week notice prior to opening staging review ticket. 
-tag Tze in ticket, also tag him in slack. Things get lost in the process.
+tag Tze in ticket, also tag him in slack. 
 
 **Platform feedback:**
 The biggest blocker to a successful launch would be not implementing platform feedback earlier in the process. It would be ideal to implement the feedback prior to the staging review. Also more frequent 
 communication of changes/issues via the slack channel would be beneficial.
 
 **Accessibility feedback:**
-Include accessibility in design syncs, and anytime large changes are made.
+Include accessibility in design syncs, design-intent review, and anytime large changes are made.
 More frequent communication with Accessibility (ex: Biweekly accessibility meetings)
-for one off meetings use [this GH template](www.google.com)
+For individual meeting/mini reviews use this [GH template](Enter link to template)
 
-Have an "Engineering intent review" and include accessibility (in addition to design intent review) 
+Have an "Engineering intent review" and include accessibility (in addition to design intent review).
 
