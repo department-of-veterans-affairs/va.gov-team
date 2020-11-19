@@ -8,7 +8,7 @@
     - Do you utilize any other questionnaire products in your work?
     - Do Veterans you interact with complete questionnaires any other way (via paper, verbally over the phone or verbally in-person)?
        - Are nurses or office administrators involved in the process?
-               - How does the nurse communicate this information to you?
+            - How does the nurse communicate this information to you?
     - Can you explain more about the types of forms or questionnaires that Veterans fill out?
          - How do these questionnaires differ?
     - How much do these questionnaires impact your work?
