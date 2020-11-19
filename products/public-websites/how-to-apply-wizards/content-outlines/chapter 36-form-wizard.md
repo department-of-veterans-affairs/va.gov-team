@@ -19,3 +19,20 @@ Which of these describes you?
 
 - I'm a Veteran
 
+Are you receiving Chapter 31 Veteran Readiness and Employment benefits? 
+
+-  No
+
+Are you using VA education benefits to go to school? 
+
+Would you like to apply for personalized career planning and guidance benefits now? 
+
+{if yes}
+CTA button Apply online with VA Form 28-8832(goes to form intro page)
+
+{if no} 
+{alert}You can come back and apply for career planning and guidance benefits when you’re ready. When you return, you can go directly to the online form.
+
+[Apply online with VA Form 28-8832](link to 8832 form intro page)
+
+
