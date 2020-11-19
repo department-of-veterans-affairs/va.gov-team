@@ -263,7 +263,7 @@ export function createPastVAAppointments() {
 
 Import: `import { initCommunityCareMock } from './vaos-cypress-helpers';`
 
-Purpose:
+Purpose: Load scheduling mocks, pull up confirmed appointment dates, make sample POST requests for appointments and associated messages.
 
 Reference:
 
