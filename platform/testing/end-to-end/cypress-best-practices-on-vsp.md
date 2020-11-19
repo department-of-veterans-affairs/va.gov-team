@@ -10,8 +10,8 @@
   - [Viewport Presets: `cy.viewportPreset(preset, orientation, options)`](#)
   - [File Uploads: `cy.upload(fileName, fileType)`](#file-uploads-cyuploadfilename-filetype)
   - [Expand Accordions: `cy.expandAccordions()`](#expand-accordions-cyexpandaccordions)
-  - [Accessibility - `cy.axeCheck(context)`](#accessibility-cyaxecheckcontext)
-  - [Title: `injectAxeThenAxeCheck()`](#)
+  - [Accessibility - `cy.axeCheck(context, tempOptions)`](#accessibility-cyaxecheckcontext)
+  - [Accessibility Convience Function: `injectAxeThenAxeCheck(context, tempOptions)`](#)
 - [Viewports](#viewports)
 - [Cypress Testing Library Selectors](#cypress-testing-library-selectors)
 - [`data-testid` Attribute](#data-testid-attribute)
@@ -246,8 +246,8 @@ https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/p
 Allows us to upload files, which Cypress does not natively support. This implementation is based on this [workaround](https://github.com/cypress-io/cypress/issues/170#issuecomment-619758213).
 
 **Arguments:**  
-fileName -- a string  
-file Type -- a string
+fileName -- a `String`  
+file Type -- a `String`
 
 This function must be chained from a command that retrieves an upload input element.
 
@@ -268,7 +268,7 @@ The custom command -- cy.expandAccordions() -- expands all accordions and `Addit
 **Arguments:**  
 None
 
-### Accessibility: cy.axeCheck(context)
+### Accessibility: cy.axeCheck(context, tempOptions)
 
 **Source file:**  
 https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/axeCheck.js
@@ -277,7 +277,8 @@ https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/p
 Checks the current page for aXe violations.
 
 **Arguments:**  
-`cy.axeCheck()` takes an optional argument which is assigned to the context parameter which defaults to ‘main’ if no argument is given.
+context -- a `String`, defaults to `main`
+tempOptions -- an `Object`, defaults to an empty `Object`
 
 To add aXe checks to your tests use the custom `cy.axeCheck()` command based off the `cy.checkA11y()` [command](https://github.com/component-driven/cypress-axe#cychecka11y).
 
@@ -298,9 +299,18 @@ cy.axeCheck(); // Run the aXe check after expanding everything.
 
 Please note: Tests written with the form tester automatically check for accessibility, so this command does not need to be used explicitly in such tests.
 
-### Title: injectAxeThenAxeCheck()
+### Accessibility Convience Function: injectAxeThenAxeCheck(context, tempOptions)
 
-Documentation goes here...
+**Source file:**  
+The link is not available yet. The PR for this feature has not been approved yet.
+
+**Description:**  
+A common pattern in Cypress testing on VA.gov is to call `cy.injectAxe()` followed by `cy.axeCheck()`. This custom command is a convenience function for calling these two sequential function calls.
+
+**Arguments:**  
+The following arguments are passed to `cy.axeCheck()` when called inside `cy.injectAxeThenAxeCheck()`.
+context -- a `String`, defaults to `main`
+tempOptions -- an `Object`, defaults to an empty `Object`
 
 ## Viewports
 
@@ -375,16 +385,25 @@ To test against each of the viewports in the array, simply iterate through the a
 ```javascript
 it.only('should render in mobile layouts and tabs actions work', () => {
   Cypress.env().vaTop5MobileViewports.forEach((viewportData) => {
-    const { name, width, height, percentTraffic, percentTrafficPeriod } = viewportData;
+    const {
+      name,
+      width,
+      height,
+      percentTraffic,
+      percentTrafficPeriod,
+    } = viewportData;
 
     cy.log(`Device Group: ${name}`);
-    cy.log(`% traffic for the month of ${percentTrafficPeriod}: ${percentTraffic}%`);
+    cy.log(
+      `% traffic for the month of ${percentTrafficPeriod}: ${percentTraffic}%`
+    );
 
     cy.visit('/find-locations');
     cy.injectAxe();
     cy.viewport(width, height);
     cy.checkSearch();
   });
+});
 ```
 
 In addition to the Cypress environment variables already mentioned, there is also a variable called `allIPhoneViewports` which contains an array of viewport objects whose structure is identicle to the objects in the other arrays already mentioned, except they do not contain `percentTraffic` and `percentTrafficPeriod` properties.
