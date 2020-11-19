@@ -18,7 +18,8 @@
 - [ ] Merge secondary caregiver work
 - [ ] Connect to CARMA in Review Instance (*requires support from Platform)
 - [Attempt resubmission of PDF on failure](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15147)
-- [Logging](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15146)
+- Add filters to Form 10-10CG Logging
+- [Logging PDF Gen Errors](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15146)
 - [Federated States of Micronesia](https://en.wikipedia.org/wiki/Federated_States_of_Micronesia)
 - Cookie research (Dev ops?)
 
