@@ -7,7 +7,7 @@
 - [Cypress Custom Commands](#cypress-custom-commands)
   - [Mock User: `cy.login(userData)`](#mock-user-cyloginuserdata)
   - [Test Data: `cy.syncFixtures(fixtures)`](#test-data-cysyncfixturesfixtures)
-  - [Viewport Presets: `cy.viewportPreset(preset, orientation, options)`](#)
+  - [Viewport Presets: `cy.viewportPreset(preset, orientation, options)`](#viewport-presets-cyviewportpresetpreset-orientation-options)
   - [File Uploads: `cy.upload(fileName, fileType)`](#file-uploads-cyuploadfilename-filetype)
   - [Expand Accordions: `cy.expandAccordions()`](#expand-accordions-cyexpandaccordions)
   - [Accessibility - `cy.axeCheck(context, tempOptions)`](#accessibility-cyaxecheckcontext)
@@ -24,7 +24,8 @@ The following documentation details Cypress best practices on VSP.
 
 ## Cypress Form Tester
 
-**Source file:**
+#### Source file:
+
 https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/platform/testing/e2e/cypress/support/form-tester
 
 The form tester is a utility that automates Cypress end-to-end (E2E) tests on forms contained within applications on VA.gov. The form tester automatically fills out forms using data from JSON files that represent the body of the API request that's sent upon submitting the form.
@@ -45,13 +46,16 @@ Custom Cypress commands abstract away common behaviors that are required across 
 
 ### Mock User: cy.login(userData)
 
-**Source file:**  
+#### Source file:
+
 https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/login.js
 
-**Description:**  
+#### Description:
+
 Allows us to simulate a signed-in session.
 
-**Arguments:**  
+#### Arguments:
+
 `cy.login()` takes an optional argument which is assigned to the `userData` parameter which defaults to the following `mockUser` object if no argument is given:
 
 ```javascript
@@ -122,16 +126,20 @@ To sign in as a custom-defined user, copy the `mockUser` object, modify it as ne
 
 ### Test Data: cy.syncFixtures(fixtures)
 
-**Source file:**  
+#### Source file:
+
 https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/syncFixtures.js
 
-**Description:**  
+#### Description:
+
 Allows us to access fixtures stored in different directories within your application, something that Cypress doesn’t support.
 
-**Arguments:**  
+#### Arguments:
+
 `cy.syncFixtures()` takes an argument that is assigned to the fixtures parameter. The argument should be an object that contains one or more key/value pairs that represent the name of the fixture and the path to it.
 
-**Usage:**  
+#### Usage:
+
 `src/applications/hca/tests/schema` contains test data for the hca application. You can load the file as a fixture like so:
 
 ```javascript
@@ -166,16 +174,18 @@ cy.route('/v0/bar', 'fixture:data/bar');
 
 ### Viewport Presets: cy.viewportPreset(preset, orientation, options)
 
-**Source file:**  
+#### Source file:
+
 The link is not available yet. The PR for this feature has not been approved yet.
 
-**Description:**  
+#### Description:
+
 Presets are available for:
 
 - The top 5 viewports for mobile, tablet, and desktop, updated monthly from VA.gov's Google Analytics
 - All iPhone and iPad devices
 
-**Arguments:**
+#### Arguments:
 
 - preset -- a `String`, the preset name
 - orientation -- a `String`, `portrait` or `landscape`, defaults to `portrait`
@@ -237,7 +247,7 @@ See [Iterate Through Top VA.gov Viewports](#iterate-through-top-vagov-viewports)
 | `iphone-12-pro`     |
 | `iphone-12-mini`    |
 
-#### Usage
+#### Usage:
 
 To set the viewport, simply call `cy.viewportPreset()` and pass in one of the above preset names as an argument, like so: `cy.viewportPreset('iphone-12');`.
 
@@ -247,13 +257,16 @@ To prevent the command from being displayed in the command log, pass in `{ log: 
 
 ### File uploads: cy.upload(fileName, fileType)
 
-**Source file:**  
+#### Source file:
+
 https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/upload.js
 
-**Description:**  
+#### Description:
+
 Allows us to upload files, which Cypress does not natively support. This implementation is based on this [workaround](https://github.com/cypress-io/cypress/issues/170#issuecomment-619758213).
 
-**Arguments:**  
+#### Arguments:
+
 fileName -- a `String`  
 file Type -- a `String`
 
@@ -268,23 +281,30 @@ cy.findByText('Upload', { selector: 'button' }).upload(
 
 ### Expand Accordions: cy.expandAccordions()
 
-**Source file:** https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/expandAccordions.js
+#### Source file:
 
-**Description:**  
+https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/expandAccordions.js
+
+#### Description:
+
 The custom command -- cy.expandAccordions() -- expands all accordions and `AdditionalInfo` components.
 
-**Arguments:**  
+#### Arguments:
+
 None
 
 ### Accessibility: cy.axeCheck(context, tempOptions)
 
-**Source file:**  
+#### Source file:
+
 https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/axeCheck.js
 
-**Description:**  
+#### Description:
+
 Checks the current page for aXe violations.
 
-**Arguments:**  
+#### Arguments:
+
 context -- a `String`, defaults to `main`
 tempOptions -- an `Object`, defaults to an empty `Object`
 
@@ -309,13 +329,16 @@ Please note: Tests written with the form tester automatically check for accessib
 
 ### Accessibility Convience Function: injectAxeThenAxeCheck(context, tempOptions)
 
-**Source file:**  
+#### Source file:
+
 The link is not available yet. The PR for this feature has not been approved yet.
 
-**Description:**  
+#### Description:
+
 A common pattern in Cypress testing on VA.gov is to call `cy.injectAxe()` followed by `cy.axeCheck()`. This custom command is a convenience function for calling these two sequential function calls.
 
-**Arguments:**  
+#### Arguments:
+
 The following arguments are passed to `cy.axeCheck()` when called inside `cy.injectAxeThenAxeCheck()`.
 context -- a `String`, defaults to `main`
 tempOptions -- an `Object`, defaults to an empty `Object`
@@ -431,7 +454,7 @@ The following is a list of queries provided by the Cypress Testing Library, [in 
 | findAllByTitle     | findAllByDisplayValue    |
 | findAllByRole      | findAllByTestId          |
 
-<sup>_</sup>Note: the `get_`queries are not supported because for reasonable Cypress tests you need retryability and`find\*` queries already support that.
+<sup>\*</sup>Note: the `get_`queries are not supported because for reasonable Cypress tests you need retryability and`find\*` queries already support that.
 
 The `TestId` queries look at the `data-testid` attributes of DOM elements (see the next section).
 
