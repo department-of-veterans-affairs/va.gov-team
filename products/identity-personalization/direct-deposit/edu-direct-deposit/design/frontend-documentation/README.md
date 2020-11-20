@@ -103,9 +103,9 @@ Now that we have two types of direct deposit in the profile, we have a scenario 
 
 ### If someone is eligible for comp & pen but NOT edu payments
 
-[Direct deposit if someone eligible for comp & pen but NOT edu payments](https://xd.adobe.com/view/532272b2-b423-4e1b-a8c6-d1a583da3d37-0671/screen/11a0357f-5fbe-487b-a60a-6d415a0eae17)
-
 *Specs*
+
+[Direct deposit if someone eligible for comp & pen but NOT edu payments](https://xd.adobe.com/view/532272b2-b423-4e1b-a8c6-d1a583da3d37-0671/screen/11a0357f-5fbe-487b-a60a-6d415a0eae17)
 
 - We should always show the edu module even if someone is not eligible for it. If someone is not eligible for it, we will have messaging that explains this.
 
@@ -117,9 +117,9 @@ Our records show that you're not receiving education benefit payments. If you th
 
 ### If someone is eligible for edu but NOT comp & penpayments
 
-[Direct deposit if someone eligible for edu but NOT comp & penpayments](https://xd.adobe.com/view/532272b2-b423-4e1b-a8c6-d1a583da3d37-0671/screen/b24aaba3-b810-4472-87e4-ade9db63467d)
-
 *Specs*
+
+[Direct deposit if someone eligible for edu but NOT comp & pen payments](https://xd.adobe.com/view/532272b2-b423-4e1b-a8c6-d1a583da3d37-0671/screen/b24aaba3-b810-4472-87e4-ade9db63467d)
 
 - We should always show the comp & pen module even if someone is not eligible for it. If someone is not eligible for it, we will have messaging that explains this.
 
