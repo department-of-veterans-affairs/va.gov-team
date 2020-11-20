@@ -70,4 +70,22 @@ This is all the same as the comp & pen module **except** for the following field
 
 [Direct deposit for edu add state](https://xd.adobe.com/view/532272b2-b423-4e1b-a8c6-d1a583da3d37-0671/screen/51b79b7f-f94e-4edd-85ee-642deb647e6f)
 
+*Specs*
+
+This also functions the exact same way the comp & pen module does: If someone is eligible for edu payments but has not yet set up their bank information, they should see a link to add direct deposit info.
+
+*Copy*
+
+This is the same as the add state for the comp & pen module:
+
+- Please add your bank information
+
 #### Save state
+
+[Direct deposit for edu save state](https://xd.adobe.com/view/532272b2-b423-4e1b-a8c6-d1a583da3d37-0671/screen/5c80aa6a-f3f2-4e0b-afd8-36d88ba3fa98)
+
+*Copy*
+
+Per Peggy, we are changing the save state copy (ticket for updating comp & pen copy to match is [#16470](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16470)):
+
+- We’ve updated your bank account information for your **education benefits**
