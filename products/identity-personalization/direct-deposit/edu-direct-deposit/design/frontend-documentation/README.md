@@ -114,3 +114,19 @@ Now that we have two types of direct deposit in the profile, we have a scenario 
 Our records show that you're not receiving education benefit payments. If you think this is an error, please call us at [800-827-1000]().
 
 [Find out if you’re eligible for VA education benefits](https://www.va.gov/education/eligibility/)
+
+### If someone is eligible for edu but NOT comp & penpayments
+
+[Direct deposit if someone eligible for edu but NOT comp & penpayments](https://xd.adobe.com/view/532272b2-b423-4e1b-a8c6-d1a583da3d37-0671/screen/b24aaba3-b810-4472-87e4-ade9db63467d)
+
+*Specs*
+
+- We should always show the comp & pen module even if someone is not eligible for it. If someone is not eligible for it, we will have messaging that explains this.
+
+*Copy*
+
+Our records show that you're not receiving disability compensation or pension payments. If you think this is an error, please call us at [800-827-1000]().
+
+[Find out if you're eligible for VA disability benefits](https://www.va.gov/disability/eligibility/)
+
+[Find out if you're eligible for VA pension benefits](https://www.va.gov/pension/eligibility/)
