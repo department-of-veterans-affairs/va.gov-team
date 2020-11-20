@@ -99,9 +99,7 @@ We would like to conduct this research post Thanksgiving.
 
 These sessions will likely be one hour to allow for a relaxed conversation and the actual usability tests.
 
-
 4.	Availability: If applicable, when would you like sessions scheduled? 
-**Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.Specify how much time you want between sessions, if any.
 
 We can work with Perigean to determine schedule needs - post Thanksgiving is our requirement.
 
