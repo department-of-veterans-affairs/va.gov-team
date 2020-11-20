@@ -60,4 +60,6 @@ export TR_USER=<your-testrail-email-here> TR_API_KEY=<your-API-key> TR_PROJECTID
 yarn cy:testrail-run --spec src/applications/<your app>/tests/e2e/<your test file>
 ```
 The above yarn script is using your previously set environment variables to set the reporter options --
-```"cy:testrail-run": "cypress run --config-file config/cypress-testrail.json --reporter-options domain=dsvavsp.testrail.io,username=$TR_USER,password=$TR_API_KEY,projectId=$TR_PROJECTID,suiteId=$TR_SUITEID,runName=$TR_RUN_NAME,includeAllInTestRun=$TR_INCLUDE_ALL,groupId=$TR_GROUPID,filter=$TR_FILTER",```
+```
+"cy:testrail-run": "cypress run --config-file config/cypress-testrail.json --reporter-options domain=dsvavsp.testrail.io,username=$TR_USER,password=$TR_API_KEY,projectId=$TR_PROJECTID,suiteId=$TR_SUITEID,runName=$TR_RUN_NAME,includeAllInTestRun=$TR_INCLUDE_ALL,groupId=$TR_GROUPID,filter=$TR_FILTER",
+```
