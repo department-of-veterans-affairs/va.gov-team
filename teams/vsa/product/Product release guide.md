@@ -25,7 +25,7 @@ How do we ensure a smooth and successful launch?
 ### Staging Review PREP (2 weeks prior to Staging Review)
 #### QA
 - [ ] Create list of staging users
-- [ ] Create list of use cases/user stories and submit to Tze so he can create test cases/regression tests
+- [ ] Create list of use cases [see [Use Cases template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/product-use-cases-template.md)] and submit to Tze so he can create test cases/regression tests
 - [ ] Create “Coverage for references report” OR a add a link to the Epic for the product you are releasing  
 #### Accessibility
 - [ ] Complete the [required accessibility checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
