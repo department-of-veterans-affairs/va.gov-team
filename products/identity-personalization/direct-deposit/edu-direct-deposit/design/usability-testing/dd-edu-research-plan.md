@@ -71,9 +71,12 @@ Recruit for 5 fulfilled sessions using the following criteria:
 **Team availability**
 | Dates | Times (EDT) |
 | --- | --- |
-| Dates TBD | Times TBD |
-| Dates TBD | Times TBD |
-| Dates TBD | Times TBD |
+| November 30 | 9 AM to 5 PM |
+| December 1 | N/A |
+| December 2 | 9 AM to Noon |
+| December 3 | 9 AM to 5 PM |
+| December 4 | 9 AM to Noon |
+| December 7 | 9 AM to 5 PM |
 
 - Please leave 30 minutes between sessions 
 - Please do not exceed 3 sessions a day 
