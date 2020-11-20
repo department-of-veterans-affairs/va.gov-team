@@ -5,17 +5,33 @@
  -  LC go-to-market strategy: how will users find the Learning Center?
 </details>
 
+## Tuesday November 17
+
+### Agenda
+
+1. Meeting schedule/timing
+1. Priotity of being able to use "Audience non-beneficiaries" tags in content forms [#3494](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3494)
+1. Backlog
+
+### Action items
+
+1. reschedule Public Websites / CMS check-in for a different time [Clarence]
+
 ## Tuesday November 10
 
 ### Agenda
 
 1. Checklist template https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15915
-1. image article template fields 
+1. Image article template fields
+1. Step by step component
+1. Transition for VA Forms collaboration
 1. Review [backlog](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1975)
 
 ### Action items
 
-1. 
+1. `CMS` Checklist: remove top level Section Heading and Section intro fields from Checklist paragraph (sprint 20)
+1. `CMS` Images: Stop prepopulating image titles when new images are uploaded (Icebox)
+1. `CMS` Step by Step: add heading above rich text (Icebox)
 
 
 ## Tuesday November 3

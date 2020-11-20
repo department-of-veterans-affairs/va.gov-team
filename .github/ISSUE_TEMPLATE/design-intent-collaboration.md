@@ -27,6 +27,9 @@ assignees: shiragoodman, allison0034, emilywaggoner
 - Designer(s) (required): **name(s)**
 - Product Manager (optional): **name**
 - DEPO design lead (required as applicable): **name**
+- Other specialists: **names**
+
+VSP will only invite those specified, so be sure to list your content, IA, accessibility and QA specialists, if applicable.
 
 ## Scheduling
 - Please reference the [VSP Collaboration Meetings Calendar](https://calendar.google.com/calendar/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0%40group.calendar.google.com&ctz=America%2FNew_York) (times shown are ET)

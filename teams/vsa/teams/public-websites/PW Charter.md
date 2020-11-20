@@ -23,8 +23,6 @@ Unauthenticated Experience for VA.gov
 -	Header / Footer 
 -	Redirect Benefit Hubs 2.0 
 -	On-site Search 2.0
--	Find a VA Form
-- Yellow Ribbon Participating Schools Tool
 -	Contact Us/ Help Utility
 - Metrics - baseline and goals
 - Learning Center Content / IA 

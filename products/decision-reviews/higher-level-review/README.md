@@ -150,6 +150,15 @@ Service members being able to apply for their first VA benefits on VA.gov versus
 ## Technical Decisions/Discovery
 
 ## Product Decisions
+Rewriting this as I lost the tab with the edits before I could save post meeting.
+
+#### Meeting Minutes 11/13:
+Goal of meeting was to determine the logic for filtering contestable issues. A contestable issue and HLR eligibilty are very different.  There were some previous assumptions about who owns the filtering of the contestable issues into eligible HLR issues.
+
+During UAT testing, we ran into a major issue where the contestable issues list contained essentially every denied decision.  Since HLR has relatively strict timelines (a year after the decision date) and only a handful of exceptions, we realized a major change to the filtering/business logic needs to occur. It was decided that MVP would filter strictly on decision date and that we would add some content updates to explain (further) why an issue may not be showing up.  The exceptions are going to require a paper form and possible making a call to a number that can help them etc.
+
+1. Update content with further details on why you do not see an issue you thought was contestable (like Blue Water items) and what to do in case you do not see it.
+2. Update filter to only show < year old decisions.
 
 ## Team
 

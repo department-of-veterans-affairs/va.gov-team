@@ -45,8 +45,6 @@ We will be testing a navigational prototype in Adobe XD.
 ## Participants and Recruitment	
 * Public Website Team: 4 participants.
 * Platform Content and IA: 1 participant.
-* VAMC PAO: 1 participant.
-* VISN Web Editor: 1 participant.
 
 Interview invitations to be done directly via email and/or Slack.
 

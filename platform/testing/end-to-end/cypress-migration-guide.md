@@ -42,6 +42,8 @@ vets-website
 - `plugins` contains custom tasks, which allow you to [tap into the Node environment](https://docs.cypress.io/guides/tooling/plugins-guide.html). This is valuable because all Cypress test code is executed in the browser, so plugins allow us to execute code in the Node process running outside of the browser.
 - `support` contains [custom Cypress commands](https://docs.cypress.io/api/cypress-api/custom-commands.html#Syntax). By default, the custom commands imported in `commands/index.js` are available to all of our Cypress tests. These commands can be invoked similarly to the built in commands. This feature is similar to [Nightwatch's custom commands](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-end-to-end-test/#custom-nightwatch-commands). This is also where custom commands from Cypress plugins are imported, as can be seen in `index.js`.
 
+For a list of currently used custom written Cypress helpers and mocks for `vets-frontend` browse the [Cypress Resources Overview & Guide](vsp-cypress-resources.md).
+
 ### Test dependencies
 You generally do not need to import any modules for helpers, timeouts, etc. as with Nightwatch.
 

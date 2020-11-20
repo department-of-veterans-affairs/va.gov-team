@@ -1,4 +1,4 @@
-# My Payment History
+# View your VA payment history
 `WIP`
 - GitHub Label: [vsa-ebenefits](https://github.com/department-of-veterans-affairs/va.gov-team/#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-ebenefits&repos=133843125&showPipelineDescriptions=false)
 - Slack channel: [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)
@@ -33,7 +33,7 @@
 
 ## Abstract
 
-Migrate View Payment history from eBenefits to VA.gov. View Payment History enables logged in users to view a list of payments made by the VA, and details about each payment.
+Migrate "View your VA payment history" from eBenefits to VA.gov. View Payment History enables logged in users to view a list of payments made by the VA, and details about each payment.
 
 ## User Problem Statement
 

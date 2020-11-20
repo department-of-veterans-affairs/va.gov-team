@@ -15,7 +15,7 @@ Analytics are an especially good way of seeing what people are doing. They can't
 **Further data**
 - **Examine data from Call Centers (key word search, calls regarding HCA)**
 - **Satisfaction surveys**
-- **Was there a simpler trend in paper applications as well (Lauren Alexanderson)**
+- **Was there a similar trend in paper applications as well (Lauren Alexanderson)**
 
 ## What are the completion trends for the online HCA application?  
 

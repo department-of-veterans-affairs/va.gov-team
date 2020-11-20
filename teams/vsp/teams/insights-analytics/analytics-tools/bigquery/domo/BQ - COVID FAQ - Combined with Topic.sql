@@ -60,7 +60,7 @@ WITH ga AS (
     --_TABLE_SUFFIX BETWEEN '20200401' AND '20200930'
     _TABLE_SUFFIX = FORMAT_DATE(
       '%Y%m%d',
-      DATE_SUB(CURRENT_DATE(), INTERVAL 2 DAY)
+      DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY)
     )
     AND h.type = 'EVENT'
     AND REGEXP_CONTAINS(h.eventInfo.eventLabel, '(nav-accordion-expand|nav-covid-link-click|chatbot-button-click)')
@@ -123,7 +123,8 @@ FROM
             (
                 CASE
                     WHEN REGEXP_CONTAINS(pagePath, 'frequently') THEN 'FAQ'
-                    WHEN REGEXP_CONTAINS(pagePath, 'chatbot') THEN 'chatbot'
+                    WHEN REGEXP_CONTAINS(pagePath, 'chatbot') THEN 'chatbot'                    
+                    WHEN REGEXP_CONTAINS(pagePath, 'coronavirus-research') THEN 'coronavirus-research'
                 END
             ) AS source,
             SUM(total_events) AS total_events,

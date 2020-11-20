@@ -1,7 +1,7 @@
 # Product Team tools
 
 ## Sprint Report tool
-<details>
+
   
 ### Common commands
 
@@ -16,15 +16,19 @@ These are some common commands you might find useful:
 
 ### Setting things up
 1. Save the sprint-report.rb file to your machine as "sprint-report.rb" 
-2. Confirm you have ruby on your machine. If you don't, download a version that works for machine
-3. Generate a new Zenhub API Token from your personal Zenhub profile - https://app.zenhub.com/dashboard/tokens
-5. Replace the placeholder text with your Zenhub API Token in " " 
+1. Confirm you have ruby on your machine. If you don't, download a version that works for machine
+1. Generate a new Zenhub API Token from your personal Zenhub profile - https://app.zenhub.com/dashboard/tokens
+1. Replace the placeholder text with your Zenhub API Token in " " 
 
 ### Running the tool
 1. [Grab your sprint/milestone ID](https://github.com/department-of-veterans-affairs/va.gov-team/milestones) Typically a 3-digit number
-2. Navigate to folder via command line 
-3. Run the sprint report tool - `ruby sprint-report.rb` and follow the prompts
-4. Open up the new sprint-report.html file with your issues
-5. Paste your issues into your sprint report. You'll still need to indicate which epics your tickets belong to.
+1. Navigate to folder via command line 
+1. Run the sprint report tool - `ruby sprint-report.rb` and follow the prompts
+1. Open up the new sprint-report.html file with your issues
+1. Add your issues to [this spreadsheet](https://docs.google.com/spreadsheets/d/1SVoqZvAEfQxQxT2ZjZ5C7vH2Drim9NNYCKCmJJnlqcM/edit#gid=1262994286) to do any clean-up
+   - Replace "open" and "closed" with "Incomplete" and "Complete" 
+   - Indicate which epics your issues belong to
+   - Ensure issues are estimated
+1. Paste your issues into your sprint report and fix formatting
 
-</details>
+

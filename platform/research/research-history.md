@@ -13,6 +13,25 @@ This does not include research for Appeals projects, which is stored in differen
 
 ------
 ###  2020
+### November 2020
+
+#### October 15 - November 3:  Comparison Tool Redesign Research
+*Booz Allen: Amy Knox, Jen Jones, Emma Waters*
+ - 10 Veteran/non-Veteran beneficiaries, 5 School Certifying Officials, 20+ stakeholders
+ - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/school-comparison-tool/redesign/research)
+ - **Keywords:** Comparison Tool, school search, school selection 
+
+#### November 2 - 4 : Wizard Migration Usability Study
+*Public Websites: Liz Lantz, Christian Valla, Megan Gayle, Josh Kim*
+- 5 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards/discovery/research)
+- **Keywords:** wizard pattern, education benefits, alerts
+
+#### September 17 - November 9 : IRIS / Contact Center Content Process Research
+*Public Websites: Liz Lantz*
+- 31 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/iris)
+- **Keywords:** Call center, contact center, content governance, IRIS, Oracle Service Cloud, help desk, GI Bill help desk, MHV technical support, LEAF
 
 ### October 2020
 
@@ -41,6 +60,11 @@ This does not include research for Appeals projects, which is stored in differen
 - 5 participants
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/outreach-specialist-interviews)
 
+#### August 19-20: VA.gov mobile study (mobile month)
+*VSA: Shawna Hein and Liz Lantz*
+- 6 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/cross-team-initiatives/mobile-month/research)
+**Keywords:** mobile usability, mobile header, navigation, more in this section, right rail, claim status, facility locator, map view, alert usability
 
 #### August 10-14
 *VA Lighthouse APIs: Lauryl Zenobi*
@@ -101,7 +125,7 @@ This does not include research for Appeals projects, which is stored in differen
 #### June 25-29: Claim status tool. Usability test / Collaborative design exersise 
 *GovernmentCIO, BAM 1. Lead researcher: Christian Valla
 
--12 participants
+-12 participants 
 
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/research/co-design-usability-June)
 

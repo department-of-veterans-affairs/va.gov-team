@@ -18,7 +18,7 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 | Pension Automation: Dependency Claims               | vsa-ebenefits | Q4        | Q4        | Q1 FY2021 | Q1 FY2021 | New USB priority as of Q4
 | View My Payments                                    | vsa-ebenefits | Q2        | Q2        | Q3        | Q1 FY2021 | BGS integration
 | Apply for PCPG CH36 (8832)                          | vsa-ebenefits | Q3        | Q3        | Q3        | Q2 FY2021 | Submit to Central Mail; project Jan 4 2021 launch for program alignment
-| Apply for VRE CH31 (1900)                           | vsa-ebenefits | Q3        | Q3        | Q3        | Q2 FY2021 | New VRE (CMS) integration required; project Dec 2020 MVP launch for program alignment
+| Apply for VRE CH31 (1900)                           | vsa-ebenefits | Q3        | Q3        | Q3        | Q2 FY2021 | New VRE (CMS) integration required; Mar 4 MVP launch for program alignment
 | Update Direct Deposit (EDU)                         | vsa-ebenefits | Q1 FY2021 | --        | --        | Q1 FY2021 | BGS Integration
 | View My Documents (eFolder)                         | vsa-bam-2     | Q3        | Q3        | Q4        | Q1 FY2021 | VBMS integration, filtering only to my uploads/ my POA uploads
 | View POA (Representative)                           | vsa-ebenefits | Q3        | Q3        | Q1 FY2021 | Q2 FY2021 | Lighthouse integration (BGS), launch with Modify

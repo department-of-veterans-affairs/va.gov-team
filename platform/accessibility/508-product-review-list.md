@@ -786,14 +786,10 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open issues**
 
-- [[SCREENREADER]: GIBCT EYB - Focus MUST be set on the first added item when Show Next 10 button is pressed - #9953](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9953)<br/>
-**Opened:** June 10, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER]: GIBCT EYB - IE11 MUST announce the updated live region after users press the Update benefits button - #11300](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11300)<br/>
 **Opened:** July 16, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[COGNITION]: GIBCT EYB - Learn more modal triggers MUST be moved outside labels for VETTEC estimated benefits - #14417](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14417)<br/>
 **Opened:** October 5, 2020 | **Severity:** 508-defect-2 - **_Serious_**
-- [[MOBILE DESIGN]: GIBCT EYB - Responsive tables SHOULD have HTML updated for better mobile presentation - #14420](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14420)<br/>
-**Opened:** October 5, 2020 | **Severity:** 508-defect-3 - **_Minor_**
 - [[DESIGN]: GIBCT EYB - CONSIDER re-aligning the benefits list items for VETTEC providers - #14422](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14422)<br/>
 **Opened:** October 5, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
 - [[DESIGN]: GIBCT EYB - CONSIDER shortening margin between benefit headers on college, OTJ profiles - #14424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14424)<br/>
@@ -837,17 +833,14 @@ Back to [Table of Contents](#table-of-contents)
 ---
 #### VAOS Express Care Appointments
 
-**Audit status:** _VSP full audit completed October 2020_<br/>
+**Audit status:** _VSP full audit completed October 2020. Sent to VA 508 office November 2020._<br/>
+**Audit epic:** [Full Accessibility & 508 Office Audit [Express Care] - #13272](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13272)
+
 
 **Open issues**
-- [[SCREENREADER]: 508-defect-2: Focus MUST be managed when users cancel an appointment - #15016](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15016)<br/>**Limited production** | **Opened:** October 19, 2020 | **Severity:** _508-defect-2 - **Serious**_
-- [[COGNITION] 508-defect-3: Telephone numbers SHOULD be well-formed and use the accessible React component - #15046](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15046)<br/>**Limited production** | **Opened:** October 20, 2020 | **Severity:** _508-defect-3 - **Minor**_
-- [[COGNITION] 508-defect-3: Cancel appointment buttons SHOULD have an accessible label - #15050](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15050)<br/>**Limited production** | **Opened:** October 20, 2020 | **Severity:** _508-defect-3 - **Minor**_
-- [[COGNITION] 508-defect-3: Appointment tabs SHOULD have an accessible label - #15052](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15052)<br/>**Limited production** | **Opened:** October 20, 2020 | **Severity:** _508-defect-3 - **Minor**_
-- [[COGNITION] 508-defect-3: Character counts MUST announce properly in IE11 + JAWS - #15079](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15079)<br/>**Limited production** | **Opened:** October 20, 2020 | **Severity:** _508-defect-3 - **Minor**_
-- [[COGNITION] 508-enhancement: CONSIDER adding aria-labelledby attributes to emergency care exclusion lists - #15102](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15102)<br/>**Limited production** | **Opened:** October 20, 2020 | **Severity:** _508-defect-enhancement_
+- [[COGNITION] Global Timeout Modal - Language should not depend on color descriptions like "blue button" for users to extend their session - #16301](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16301)<br/>**Limited production** | **Opened:** November 17, 2020 | **Severity:** _508-defect-2 - **Serious**_
+- [[SEMANTIC MARKUP] VAOS Appointment Cards - Bold section-heading like text must be marked up as headings - #16293](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16293)<br/>**Limited production** | **Opened:** November 17, 2020 | **Severity:** _508-defect-2 - **Serious**_
 - [[MOBILE]: Should buttons be full-width at mobile size for creating an Express Care appointment? - #15086](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15086)<br/>**Limited production** | **Opened:** October 20, 2020
-- [[DESIGN]: Should the primary action be on the left in modals with two action buttons? - #15082](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15082)<br/>**Limited production** | **Opened:** October 20, 2020
 - [[DESIGN]: Mobile breadcrumb looks indented a bit too much on the form views - #15083](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15083)<br/>**Limited production** | **Opened:** October 20, 2020
 - [[DESIGN]: Should the Express Care radio button labels be bold, or regular weight like requesting an in-person appointment? - #15084](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15084)<br/>**Limited production** | **Opened:** October 20, 2020
 - [[DESIGN]: Definition lists are not spaced evenly in IE11 - #15103](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15103)<br/>**Limited production** | **Opened:** October 20, 2020
@@ -897,19 +890,12 @@ Back to [Table of Contents](#table-of-contents)
 **Open issues**
 
 - [[#14432 508-defect-2 COGNITION]: The page MUST specify the language](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14432)<br/>**Production** | **Opened:** October 5, 2020 | **Severity:** _508-defect-2 - **Serious**_
-
 - [[#15772 508-defect-2 AXE-CORE]: Heading levels SHOULD increase by one](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15772)<br/>**Production** | **Opened:** November 4, 2020 | **Severity:** _508-defect-2 - **Serious**_
-
 - [[#15785 508-defect-2 AXE-CORE]: Heading levels SHOULD increase by one](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15785)<br/>**Production** | **Opened:** November 4, 2020 | **Severity:** _508-defect-2 - **Serious**_
-
 - [[#8248 components, design system [SCREENREADER] Aside MUST not be contained in another landmark](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8248)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
-
 - [[#8250 sitewide [AXE-CORE]: Landmarks MUST have a unique role or role/label/title (i.e. accessible name) combination](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8250)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
-
 - [[#8253 sitewide, CMS [SCREENREADER, KEYBOARD, COGNITION]: Links SHOULD look like links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8253)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
-
 - [[#8255 sitewide, design system, components [KEYBOARD]: Focused item MUST be contained by focus outline, pagination Next >](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8255)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
-
 - [[#8279 [FOCUS MANAGEMENT]: Focus outline SHOULD be removed from non-linked heading](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8279)<br/>**Production** | **Opened:** April 22, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
 
 Back to [Table of Contents](#table-of-contents)
@@ -992,17 +978,17 @@ Back to [Table of Contents](#table-of-contents)
 **Open issues**
 
 [Technical Discovery - Public and Automated PDF Accessibility - #10907](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10907)<br/>
-**Opened:** July 6, 2020
+**Opened:** July 6, 2020<br/>
 [Documentation - PDF Error - Associate table data with header rows - #15550](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15550)<br/>
-**Opened:** October 28, 22020
+**Opened:** October 28, 22020<br/>
 [Documentation - PDF Error - Manual review required - #15548](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15548)<br/>
-**Opened:** October 28, 22020
+**Opened:** October 28, 22020<br/>
 [Documentation - PDF Error - Invalid table structure - #15547](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15547)<br/>
-**Opened:** October 28, 22020
+**Opened:** October 28, 22020<br/>
 [Documentation - PDF Error - Missing tooltip in form field - #15546](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15546)<br/>
-**Opened:** October 28, 22020
+**Opened:** October 28, 22020<br/>
 [Documentation - PDF Error - Image invalid alt text - #15544](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15544)<br/>
-**Opened:** October 28, 22020
+**Opened:** October 28, 22020<br/>
   
 Back to [Table of Contents](#table-of-contents)
 

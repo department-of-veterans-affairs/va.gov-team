@@ -54,6 +54,7 @@ Examples
   
 | Issue Type | Examples |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Collab Cycle Planning Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=collab-cycle-initiative.md&title=%3CInitiative%3E+x+Collab+Cycle+Plan) | * [Learning center x Collab Cycle Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10953)<br> * [PW Cerner Health Pages x Collab Cycle Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10928)<br> * [Form Detail Pages x Collab Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11083)|
 | [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=epic-issue.md&title=) | * [Facility Locator Urgent Care MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4193)<br> * [Product Success Tool - Iterate to include Predictive Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3670) |
 | [User Story](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=standard-issue.md&title=) | * [Suppress urgent care pharmacy searches within Community Care](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5129)<br> * [[User Testing] BDD Conduct User Testing Sessions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5096)<br> * [[Launch on 1/29] Redirect from facility detail pages to new VAMC Pittsburgh pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3564) |
 | [Bug](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=bug&template=bug-issue.md&title=) | * [[Bug] Letters: Javascript error seen when address is undefined.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5107)<br> * [Move Breadcrumbs to Higher Location](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4938) |
@@ -75,8 +76,8 @@ MVP is an often overused/convoluted term. And, there can be many definitions of 
 
 It's up to the product team to determine what makes up their MVPs. The PO, the PM, and the cross-functional team determine their MVP after they've defined the problem and before they've started to build. It contains:
 - questions/problems they'd like to answer/solve
-- features that make it into address those questions/problems
-- a target date for launching the feature set 
+- features that might address those questions/problems
+- a target date for launching the feature set that answers those queestions
 
 At the end of the day, an MVP is a tool. Along with generating lessons that may be taken into subsequent iterations, it helps rally the team around a common goal. 
 </details>

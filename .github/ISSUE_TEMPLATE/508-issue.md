@@ -35,11 +35,20 @@ Enter an issue title using the format [ERROR TYPE]: Brief description of the pro
 
 <!-- It's okay to delete the instructions above, but leave the link to the 508 defect severity level for your issue. -->
 
-**Feedback framework**
+## Feedback framework
 
 - **❗️ Must** for if the feedback must be applied 
 - **⚠️ Should** if the feedback is best practice 
 - **✔️ Consider** for suggestions/enhancements 
+
+## Definition of done
+
+1. Review and acknowledge feedback.
+1. Fix and/or document decisions made.
+1. Accessibility specialist will close ticket after reviewing documented decisions / validating fix.
+
+<hr/>
+
 
 ## Point of Contact
 
@@ -64,11 +73,6 @@ Example:
 - [ ] Input labels appear immediately above the input OR to the right of a radio / checkbox
 -->
 
-## Definition of done
-
-1. Review and acknowledge feedback.
-1. Fix and/or document decisions made.
-1. Accessibility specialist will close ticket after reviewing documented decisions / validating fix.
 
 ## Environment
 

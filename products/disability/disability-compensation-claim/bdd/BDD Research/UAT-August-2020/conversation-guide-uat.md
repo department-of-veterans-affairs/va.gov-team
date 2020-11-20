@@ -3,6 +3,7 @@
 ### Project-specific setup
 
 - Sign into VA.gov through DS Logon
+- Whitelist their email address
 - We will be having users share their screens (after they have logged on) and submitting a claim. When the participant is ready, pass presenter roles to them and have them share their screen.
 - When their screen is shared, send the beta link https://www.va.gov/disability/how-to-file-claim/
 - **Note: We will not be recording these sessions**.
@@ -34,6 +35,7 @@ OK,let's get started.
 6. Can you tell me which web browser you are using?
 7. Today we are going to observe you interacting with the new tools on your computer. Would you feel comfortable sharing your screen with me at this time?  
   - If no: Explain this is necessary for testing. If they are still unwilling, end the call.
+8. How did you get recruited to participate in this call?
 
 **(Pass presenter rights).**
 

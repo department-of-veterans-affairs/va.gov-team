@@ -1,7 +1,9 @@
 
 # Accessibility staging review preparation
 
-Teams must conduct their own accessibility testing **before** scheduling a VSP Collaboration Cycle [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review). 
+Teams must conduct their own accessibility testing **before** scheduling a DEPO Platform Collaboration Cycle [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review). DEPO Platform accessibility specialists will verify teams have completed foundational accessibility testing before the staging review can start. Teams are **required** to complete the [foundational accessibility tests](#foundational-accessibility-tests-required) and encouraged to complete as many of the [advanced accessibility tests](#advanced-accessibility-tests-recommended) as time and techincal proficiency allow.
+
+If teams have not completed their foundational testing, DEPO Platform will escalate to DEPO leadership.
 
 Staging reviews test the [happy path](https://en.wikipedia.org/wiki/Happy_path) through the application or content page(s). This may not catch all accessibility issues, but will ensure basic functionality is accessible. (Accessibility specialists conduct a [more thorough post-launch audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/post-launch-audit-processes.md) when an application is relatively code-stable in production.)
 
@@ -55,7 +57,7 @@ VFS product teams who do not have their own accessibility specialist will work d
 
 1. Choose one of these 2 options: 
 
-    * **(preferred)** Use the [TestRail VSP foundational accessibility testing checklist](https://dsvavsp.testrail.io/index.php?/projects/overview/13). The accessibility test cases template is available in TestRail for you to copy into your test plan and includes all the required accessibility checks.   \
+    * **(preferred)** Use the [TestRail foundational accessibility testing checklist](https://dsvavsp.testrail.io/index.php?/projects/overview/13). The accessibility test cases template is available in TestRail for you to copy into your test plan and includes all the required accessibility checks.   \
 OR
     *   Copy the required and recommended checklists from this doc into a doc in your product folder. _Note that this artifact can be used for the Collaboration Cycle staging review._
 

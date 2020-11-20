@@ -12,12 +12,13 @@ https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/
 
 | Screens | Links | Text Sources | Last Rev | |
 | :--- | :--- | :--- | :--- | :--- |
-| Concept Mockups | [Adobe XD](https://xd.adobe.com/view/532272b2-b423-4e1b-a8c6-d1a583da3d37-0671/?x_product=cc-slack%2F1.5.0) | Do not use for text | TBD | --- |
+| Concept Mockups | [Adobe XD](https://xd.adobe.com/view/532272b2-b423-4e1b-a8c6-d1a583da3d37-0671/?x_product=cc-slack%2F1.5.0) | Pull text from mock | TBD | --- |
+| Single Payment-Type Mockups | [Adobe XD](https://xd.adobe.com/view/5315e9ba-69ee-4082-bb26-29605bc4ae67-0646/) | Do not use for text | TBD | --- |
 | Prototype | [UXPin]() | Not yet available | TBD | --- |
 
 #### Information architecture
 
-[Direct deposit for EDU  user flows]()
+[Direct deposit for EDU  user flows](https://xd.adobe.com/view/b1df79ab-e636-4aea-9929-a8ee3d06e2a9-e48c/)
 
 ---
 
@@ -35,16 +36,23 @@ https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/
 
 #### VA Form
 
-[VA From 29-0309](https://www.vba.va.gov/pubs/forms/VBA-29-0309-ARE.pdf) `Is this current?`
+[VA From 29-0309](https://www.vba.va.gov/pubs/forms/VBA-29-0309-ARE.pdf) `Used for insurance payments`
 
 ---
 
 ### Mockups Changelog
 
+**November 6, 2020**
+- Single payment-type mockups created
+
+**November 2, 2020**
+- Text of labels and errors updated per content review
+
 **October 1, 2020**
 - WIP initial concepts
 
 ### Prototype Changelog
+- No prototype
 
 **Initial concepts**
 - TBD

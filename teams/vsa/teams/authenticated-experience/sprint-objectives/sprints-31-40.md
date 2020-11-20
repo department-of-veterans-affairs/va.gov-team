@@ -233,11 +233,53 @@ Week 2 of sprint 33
 
 ## Sprint 35 (11/18 – 12/1)
 
+Any outstanding work from sprint 34, plus:
+
+### Profile
+
+**FE**
+
+- Add 2FA prompt for when someone is LOA3 but not 2FA and is eligible for direct deposit #16218
+
 ### My VA redesign
 
 **Design**
 
-**Dev**
+- Conduct research #15684 
+- Research summary
+- Make design updates for mobile design based on user testing feedback
+
+### Direct deposit for edu
+
+**PM**
+
+- Schedule/hold usability testing platform review #15686
+
+**Design**
+
+- Build prototype
+- Conduct research
+- Start summary (if time)
+
+### Preferred medical facility
+
+**PM**
+
+- Schedule/hold [project kickoff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#project-kickoff)
+
+**BE**
+
+- Backend build #16107
+
+### Analytics update
+
+- Add error codes for address save failures to GA dashboard #16088
+
+### Maintenance/bug fixes
+
+Don't include if this is done before the sprint:
+
+- Cache VA profile get_person calls that return 404s #15971
 
 ## Sprint 36 (12/2 – 12/15)
 
@@ -245,9 +287,46 @@ Week 2 of sprint 33
 
 **PM**
 
-Are we ready for Matt to work on staging users list yet?
+**Design**
+
+One designer:
+
+- Incorportate user feedback into designs
+- Convert mobile wireframes to desktop
+- (If time) Mock up first-time user experience
+
+The other designer:
+
+- Research summary (should take no more than a week)
+
+### Direct deposit for edu
+
+**PM**
+
+- Put QA spreadsheet test cases into TestRail
 
 **Design**
+
+- Finish research
+- Research summary
+- Final design updates
+
+**FE** 
+
+- Direct deposit for edu build #16479
+  - If this was broken down into smaller tickets, let's figure out what is doable this sprint. 
+
+### Preferred medical facility
+
+**BE**
+
+- Continue backend build #16107 (if necessary)
+
+### VA Profile notification preferences
+
+**PM**
+
+- Create product outline
 
 **Dev**
 
@@ -257,22 +336,92 @@ Are we ready for Matt to work on staging users list yet?
 
 **Design**
 
+- (If not done last sprint) Mock up first-time user experience
+- Initial pass at visual design
+- Gather feedback from design team
+- Submit wireframes for copy review
+
+**FE**
+
+- If ready, start FE build
+
 **Dev**
+
+### VA Profile notification preferences
+
+**PM**
+
+- Hold platform kickoff
+
+**BE**
+
+- Technical discovery
 
 ## Sprint 38 (12/30 – 1/12)
 
 ### My VA redesign
 
+**PM**
+
+Are we ready for Matt to work on staging users list yet?
+
 **Design**
 
-**Dev**
+- Review visual design with team; Get feedback
+- Finalize visual design
+- Finalize My VA copy
+
+**FE**
+
+- Start/continue FE build
 
 ## Sprint 39 (1/13 – 1/26)
 
+### My VA redesign
+
+**PM**
+
+- Prep for usability test prep review
+
 **Design**
+
+- Research plan for usability testing of finalized designs
+- Convo guide for usability testing of finalized designs
+
+**FE**
+
+- Continue FE build
 
 **Dev**
 
 ## Sprint 40 (1/27 – 2/9)
 
-**Dev**
+### My VA redesign
+
+**PM**
+
+- Hold usability testing review at beginning of sprint
+
+**Design**
+
+- Recruit for research
+- Conduct research
+
+**FE**
+
+- Continue FE build
+
+## Sprint 41 (2/10 – 2/23)
+
+### My VA redesign
+
+**PM**
+
+**Design**
+
+- Research summary
+- Hand off final designs to FE
+
+**FE**
+
+- FE to begin incorporating visual design

@@ -39,13 +39,12 @@ Start with open-ended question “How can I help you today?” brings focus to t
 
  [Mural Workflow Diagram](https://app.mural.co/t/vsa8243/m/vsa8243/1596561661701/0afd94dfc8598b105524e87c8828b10dba98bbf2)
  
- ### Wireflow Diagram  
- <img src="https://lh3.googleusercontent.com/y_lDEBr_ZzIr2Ye02zu5FyNOgDWq1IlrrHJb7_aGl4UvVAi3xVbAFB5ER4zthCgZyixlyuG_hwpGdiklcTTuKyiQV5uDKhEHuabafra2dBhXgCzCJZRQfza_iVPbkfGr_IYNDNogplRXG65s5SzSx9yDcW6HecpmgM5oimOm2G735Wp1TsrFat6VaHV9H39X_ZtQKTXX6kHqhLxuXXiauRZZQToxEWQp9PiloP_ORr8EKhGCdJ39rRidMYRozk9uoCfpHLKnppL_4VyDO6bsrdmRNdtCioAxK72cIrjBHr32q5GNu1pzWoeIyiSEqtBuAMpsq8HJ4ovhW4pi1B8TLPMYa-uH5brfeIcripxak4bcdxm1NivUmYCHWxbk7w5sS-KVcidFOJ8SHoiNCwKjZra_Y2J20HrYt1p0wmLtspQNSZXawOLxi99EPhw1oXZ-vfB0wSUie_xZhYJeqjDYgcXx_g32SEHbBw3wvb3nJBFY-3ebZ-llucFu_uaQKQPWKJinBAYnxJQ76CBfzFdZ2qiLIT52766g8ROX3XqGBbjP3Rl0-p5n6tk9_p7Muk8WeChqRmY60G2_dsGAfdx6dMghhWtVP8Viv2KKvEx40mqX_d4XioiQ3xWeVZFX6MWbagbC-4luQN83tMpApG4eov-j9hKQNE475j2MIThMtYycCJoDjdZomWh-NVsm=w1047-h348-no?authuser=0" width="500">
-
- [Zeplin File](https://zpl.io/aNepDW9)
+ ### IA and Wireflow
+- IA: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/health-questionaires.md
+- Wireflow: (Zeplin File) https://zpl.io/aNepDW9 or https://scene.zeplin.io/project/5f3d86a458ea2231e60a4780
 
 ### Wireframes
-[Zeplin File](https://zpl.io/VOOek8j)
+Zeplin File: https://zpl.io/aNepDW9 or https://scene.zeplin.io/project/5f3d86a458ea2231e60a4780
 
 ### Avoid having to repeat health history across the continuum of care
 

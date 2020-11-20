@@ -128,6 +128,6 @@ VA.gov will attempt to query MVI using a probabilistic search of MVI based on 4-
 
 
 ### Vet360
-If MVI returns a vet360_id we can use it to get a user's contact information from Vets 360.  
+If MVI returns a vet360_id we can use it to get a user's contact information from VA-Profile (formerly Vet360).  
 
-This is data from Vets 360 we serialize to the User.  Consider (https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/user/getUser) the authoritative source of this documentation, under the vet360_contact_information attribute.
+This is data from VA Profile we serialize to the User.  Consider (https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/user/getUser) the authoritative source of this documentation, under the vet360_contact_information attribute.

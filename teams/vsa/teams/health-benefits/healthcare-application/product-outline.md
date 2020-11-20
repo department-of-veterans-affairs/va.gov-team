@@ -26,10 +26,13 @@
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-* Number of completed online applications
+* ~Number of completed online applications~
+* Number of people who start the form who complete it
+* Proportion of eligible veterans that apply online
 * Proprotion of applications submitted online vs. on paper
 * Steepess of drop off points along the application
-* Time to commplete online form
+* Time to complete online form
+* Veteran experience (Foresee data/call center data)
 * https://va-gov.domo.com/page/290380612?userId=1492182741
 
 #### Baseline KPI Values
@@ -49,11 +52,14 @@
 ## Solution Approach
 
 - As of 10/2020, we're going to focus on:
-   - Understanding what Veteran pain points are with the current applicaiton process (research and discovery)
+   - Understanding what Veteran pain points are with the current application process (research and discovery)
    - Updating the UI to meet VA.gov design & accessibility standards
    - Adding a question distinguishing between mailing & residential addressses
    - Updating any content around the health care application pages that may be a source of confusion
    - Updating the questions on the online form to align with the new 10-10EZ
+- As of 11/2020, we're going to focus on:
+   - Validating assumptions regarding usage of the online form pre- and during COVID
+   - Using that research to guide whether to focus our Q1 efforts on the form itself or how Veterans get to the form. 
 
 --- 
 

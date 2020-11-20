@@ -27,16 +27,15 @@ WITH ga AS (
                 hcd.index = 110
         ) AS facility_type
     FROM
-        `vsp-analytics-and-insights.176884211.ga_sessions_*` AS ga,
+        `vsp-analytics-and-insights.176188361.ga_sessions_*` AS ga,
         UNNEST(ga.hits) AS hits
     WHERE
-        _TABLE_SUFFIX BETWEEN '20200901'
-        AND FORMAT_DATE(
+        _TABLE_SUFFIX = FORMAT_DATE(
             '%Y%m%d',
             DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY)
         )
         AND hits.type = 'EVENT'
-        AND hits.eventInfo.eventLabel = 'fl-search-results'
+        AND REGEXP_CONTAINS(hits.eventInfo.eventAction, '^Facility Locator - Search - ')
         AND totals.visits = 1
     ORDER BY
         date ASC,
@@ -74,11 +73,17 @@ FROM
                 PARTITION BY session_id
                 ORDER BY
                     hitNumber ASC
-            ) AS next_hitNumber
+            ) AS next_hitNumber,
+            LEAD(facility_type, 1) OVER(
+                PARTITION BY session_id
+                ORDER BY
+                    hitNumber ASC
+            ) AS next_facility_type
         FROM
             ga
     )
 GROUP BY
     1, 6
 ORDER BY
-  date ASC    
+  date ASC,
+  facility_type ASC

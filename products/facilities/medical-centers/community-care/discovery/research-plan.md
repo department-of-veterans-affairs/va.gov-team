@@ -54,21 +54,21 @@ A total of 12 participants will be interviewed:
 
 4. Doris Mack (Kansas City) <Doris.Mack@va.gov>
 
-5. Chadburn Campbell, AMSA () <chadburn.campbell@va.gov>
+5. Chadburn Campbell, AMSA <chadburn.campbell@va.gov>
 
-6. Angela Finch, AMSA () <angela.finch@va.gov>
+6. Angela Finch, AMSA <angela.finch@va.gov>
 
-7. Laura Gilmore () <Laura.Gilmore2@va.gov>
+7. Laura Gilmore <Laura.Gilmore2@va.gov>
 
 8. Paula Swope (Seattle) <Paula.Swope@va.gov>
 
-9. Robin Toohey () <Robin.Toohey2@va.gov>
+9. Robin Toohey <Robin.Toohey2@va.gov>
 
-10. Amberli Russell () <Amberli.Russell@va.gov>
+10. Amberli Russell <Amberli.Russell@va.gov>
 
-11. Claudetta Barnes () <Claudetta.Barnes@va.gov>
+11. Claudetta Barnes <Claudetta.Barnes@va.gov>
 
-12. Valerie Simmons () <Valerie.Simmons@va.gov>
+12. Valerie Simmons <Valerie.Simmons@va.gov>
 
 
 ### Participant Criteria:
@@ -91,7 +91,7 @@ Date | Time in Eastern | Slots
 -----|-----------------------|-------
 Friday, Nov 6 [PILOT] | 2 pm | 1
 Thursday, Nov 12 |  4 pm | 1 
-Friday, Nov 13 |  12:30 pm, 3:15 pm | 2  
+Friday, Nov 13 |  12:30 pm, 2 pm 3:15 pm | 3  
 Monday, Nov 16 |  11 am | 1  
 Thursday, Nov 19 |  2 pm | 1  
 Friday, Nov 20 |  12 pm | 1  

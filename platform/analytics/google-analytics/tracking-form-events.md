@@ -15,11 +15,11 @@ In the table where it lists \<product\>, please reference the Product prefix tab
 
 | Step in Form Process       | Interaction                                                                                 | dataLayer Event                     |
 |----------------------------|---------------------------------------------------------------------------------------------|-------------------------------------|
-| Form Starts                | Form Start - Starting application without logging in                                        | no-login-start-form                 |
-| Form Starts                | Form Start - Call-to-action to **Sign In** to start form                                        | login-link-clicked-cta-form         |
-| Form Starts                | Form Start - Begin form button after successful sign in                                     | login-successful-start-form         |
-| Form Saves and Submissions | Form Saves - Event is triggered for auto form saves                                         | \<product\>-sip-form-saved          |
-| Form Saves and Submissions | Form Prefill Failures - Tracks when form prefill cannot be retrieved                        | \<product\>-sip-form-prefill-failed |
-| Form Saves and Submissions | Form Submission - Measure the form submission; Success and failures are measured distinctly | \<product\>--submission             |
-| Form Saves and Submissions | Form Submission Successful - Triggered when the form has been successfully submitted        | \<product\>--submission-successful  |
-| Form Saves and Submissions | Form Failures - Triggered when the form has failed client or server-side                    | \<product\>--submission-failed      |
+| Form Starts                | Form Start - Starting application without logging in                                        | `no-login-start-form`                 |
+| Form Starts                | Form Start - Call-to-action to **Sign In** to start form                                        | `login-link-clicked-cta-form`         |
+| Form Starts                | Form Start - Begin form button after successful sign in                                     | `login-successful-start-form`        |
+| Form Saves and Submissions | Form Saves - Event is triggered for auto form saves                                         | `\<product\>-sip-form-saved`          |
+| Form Saves and Submissions | Form Prefill Failures - Tracks when form prefill cannot be retrieved                        | `\<product\>-sip-form-prefill-failed` |
+| Form Saves and Submissions | Form Submission - Measure the form submission; Success and failures are measured distinctly | `\<product\>--submission`             |
+| Form Saves and Submissions | Form Submission Successful - Triggered when the form has been successfully submitted        | `\<product\>--submission-successful`  |
+| Form Saves and Submissions | Form Failures - Triggered when the form has failed client or server-side                    | `\<product\>--submission-failed`      |

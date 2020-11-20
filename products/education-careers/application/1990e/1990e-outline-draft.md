@@ -61,3 +61,60 @@ Used by dependents applying to use the benefits of a sponsor servicemember who h
     - Secondary phone
     - How would you prefer to be contacted if VA has questions about your application?
 -   Review/Submit
+
+
+________________________________________
+
+## Form Title: Apply to use transferred education benefits
+Form 22-1990E  
+
+#### 1990E Screen
+{ Confirmation screen } 
+
+#### We've received your application. 
+
+We usually process applications within **30 days**.
+
+We may contact you if we need more information or documents.
+
+Print this page { button }
+
+{ blue box }
+
+#### Education Benefit Application  								
+(Form 22-1990E)  
+
+for { Fname Lname }
+
+**Selected benefit**
+{ benefit claimed / relinquished } 
+
+**Confirmation number**
+{ confirmation number } 
+
+**Date received**
+{ Mon. NN, YYYY }
+
+**Your claim was sent to**
+{ Region }
+{ Regional office }   
+{ Street }
+{ City, ST Zip+4 }  
+
+
+{ end blue box }
+
+
+**What happens after I apply?**
+
+We usually decide on applications within 30 days.  
+
+You’ll get a Certificate of Eligibility (COE) or decision letter in the mail. If we’ve approved your application, you can bring the COE to the VA certifying official at your school.  
+
+[Learn more about what happens after you apply](https://www.va.gov/education/after-you-apply/) 
+
+
+
+[Go Back to VA.gov]() { button }
+
+

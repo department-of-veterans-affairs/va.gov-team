@@ -28,9 +28,11 @@
 
 ## November 2020
     -  Gibran: November 23-27 (Thanksgiving week)
+    -  Leyda: November 25-27 (Wed-Fri)
    
 ### Holidays
     -  Thanksgiving observed: Thursday, Novmber 26 (GCIO, VA, Ad Hoc, CivicActions 
+    -  Veteran's Day: Wed, Nov 11 (GCIO, VA)
     
 ### Additional out of office
 

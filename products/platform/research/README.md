@@ -53,8 +53,21 @@ Below you can find links to research conducted by VSP. If you've done research, 
 - List of keywords
 
 ------
+### Upcoming Research
 
+#### Documentation - Content and IA
 
+#### Design System - Storybook - Design System
+
+#### Designer User Journey Workshop - Service Design
+
+#### Orientation - Product Support
+
+#### Monitoring Tools - OPS
+
+<br>
+
+### Completed Research
 
 #### Collaboration Cycle v1 Research
 

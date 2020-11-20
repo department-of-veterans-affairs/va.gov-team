@@ -1,5 +1,7 @@
 # VA Vet Center Facility Product
 
+Product owner: David Conlon
+
 This is the new VA.gov facility product for VA's Vet Centers.
 
 - VHA runs 300 Vet Centers
@@ -24,14 +26,15 @@ This is the new VA.gov facility product for VA's Vet Centers.
 
 We need to reach parity with our new Vet Center products so we can turn off all the old sites.
 
-- Vet Center program site: https://www.vetcenter.va.gov/
 - Facility Locator facility detail page: https://www.va.gov/find-locations/facility/vc_0201V
+
+We need to consider what to do with the Vet Center program site: https://www.vetcenter.va.gov/ as this site may be partially offices site, partially veteran-facing
 
 Vet Centers do not have their own facility detail pages outside the Faciltiy Locator tool.
 
 ## Assumptions and early discussions
 
-- Vet Centers form a lot of partnerships with local community groups, so they need an Events section to highlight and promote events
 - Vet Centers are an under-utilized and -promoted benefit/service for Veterans, so we will need to explain the value proposition of a Vet Center in our content design
-- We need to design a Make An Appointment page that applies to all Vet Centers
-- We need to design a Connect With A Counselor Now page that applies to all Vet Centers
+- ~~We need to design a Make An Appointment page that applies to all Vet Centers (not MVP)~~
+- We need to design a Connect With A Counselor Now page that applies to all Vet Centers (not MVP)
+- Vet Centers form a lot of partnerships with local community groups, so they need an Events section to highlight and promote events (not MVP)

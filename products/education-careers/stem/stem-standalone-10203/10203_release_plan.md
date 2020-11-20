@@ -67,7 +67,7 @@ Right now, [feature toggles](https://department-of-veterans-affairs.github.io/ve
 
 Other exceptions to this requirement can be approved by DEPO VSP leads.
 
-### Planning
+### Planning - Initial Launch
 
 - Desired date range: 08/12/2020-08/28/2020
 - How will you make the product available in production while limiting the number of users who can find/access it: \[_lorem ipsum_\]
@@ -101,7 +101,6 @@ _Test a larger population of users to make sure there are no issues exposed by l
 - Length of time: 3 days (planning to start Monday 08/31 - Wednesday 09/2)
 - Percentage of Users (and roughly how many users do you expect this to be): 30% of users out of ~500 = ~150 applications (3 days)
 
-
 #### Results:
 - Number of unique users: x
 - Metrics at this stage (per your "success criteria"): x
@@ -111,10 +110,31 @@ _Test a larger population of users to make sure there are no issues exposed by l
 
 _More stages? Sure! If it makes sense for your product! Plan them out with the same structure as above._
 
+### Planning - Subsequent launch of SCO email/remaining entitlement
+
+- Desired date range: 11/10/2020
+- How will you make the product available in production while limiting the number of users who can find/access it: \[_lorem ipsum_\]
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
+- Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
+
+_The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
+
+#### Planning
+
+- Length of time: 2.5-3 weeks 
+- Percentage of Users (and roughly how many users do you expect this to be): 50% of users (1,000 users submit applications each month, so expecting around 335 to be rounted to the new features)
+
+#### Results:
+- Number of unique users: x
+- Metrics at this stage (per your "success criteria"): x
+- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
+- Types of errors logged: lorem ipsum
+- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
+
 ## Go Live!
 
 ### Planning:
-- Desired date: 9/10/2020
+- Desired date for initial launch: 9/10/2020
 - Post-launch KPI 1: Successful 22-10203 STEM Scholarship Application submissions esp. compared to applications via 22-1995
 - Post-launch KPI 2: Valid 22-10203 Application submissions, # and %
 
@@ -123,8 +143,8 @@ _More stages? Sure! If it makes sense for your product! Plan them out with the s
 ### 1-week results:
 - Number of unique users: 233/572 conversions, 39% conversion rate (Google Analytics)
 - Post-launch KPI 1 actual: 233 successful submissions (Google Analytics)
-- Post-launch KPI 2 actual: **Need to get numbers from Buffalo on eligible applications week 1**
-- Any issues with VA handling/processing?: **yes/no, lorem ipsum**
+- Post-launch KPI 2 actual: 129 eligible scholarships, 170 rejected. **43%** approval rate.
+- Any issues with VA handling/processing?: **none that we are aware of but need to check the logs/confirm with Buffalo**
 - Types of errors logged: **lorem ipsum**
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? Yes
 - If yes, what: 
@@ -137,8 +157,8 @@ _More stages? Sure! If it makes sense for your product! Plan them out with the s
 ### 1-month results:
 - Number of unique users: 959/2,233 conversions, 41% conversion rate (Google Analytics)
 - Post-launch KPI 1 actual: 959 successful submissions (Google Analytics)
-- Post-launch KPI 2 actual: **Need to get numbers from Buffalo on eligible applications month 1**
-- Any issues with VA handling/processing?: **yes/no, lorem ipsum**
+- Post-launch KPI 2 actual: 421 eligible scholarships, 467 rejected. **47%** approval rate.
+- Any issues with VA handling/processing?: **none that we are aware of but need to check the logs/confirm with Buffalo**
 - Types of errors logged: **lorem ipsum**
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? No UX changes necessary
 
@@ -158,6 +178,6 @@ _To be completed once you have gathered your initial set of data, as outlined ab
    1. The 22-10203 STEM Scholarship application form will not change going forward. - This was mostly the case. There were some minor updates (text message opt-in) that required an update post-launch
    1. The 22-10203 STEM Scholarship application can be completed without involving a School Certifying Official (SCO) in digital application process. - This is true. SCO involvement begins after submission
 1. How might your product evolve now or in the future based on these results? 
-   1. UAT is taking place with Veterans between 10/26 and 11/06 to validate the following features that were not released in our initial launch (set to go live in November 2020 assuming successful UAT)
+   1. UAT was completed with Veterans between 10/26 and 11/10 to validate the following features that were not released in our initial launch (set to go live in November 2020)
       1. Email is sent to the School Certifying Official associated with the applicant's previous enrollment data available via EVSS to notify them of what they need to do in support of the application process with Education Services. 
-      1. Remaining benefit entitlement data is displayed notifying ineligible applicants of the reason for their ineligibility when EVSS data is available. 
+      1. Remaining benefit entitlement data is displayed notifying applicants who are ineligible due to remaining entitlement of the reason for their ineligibility when EVSS data is available. 

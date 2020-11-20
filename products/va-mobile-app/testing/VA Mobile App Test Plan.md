@@ -66,7 +66,6 @@ In addition the testing methods listed above we will employ several tools to aid
 
 In order to support testing activities we will need test user accounts with test data that is representative of the variations anticipated in production user data. The purpose of test accounts and test data is to simulate the possible variations that may occur in production data to stress test the application and ensure it has been designed and built to accommodate real world user variance. Specific test cases will be built out and executed on a sprint by sprint basis depending on priority in the then-current product backlog but some examples of test user data variance include:
 
-- User address / location (international, domestic)
 - User name and profile information (including long format names)
 - User bank account information (including different bank account information formats)
 - User military history (including users with service in multiple service branches)
