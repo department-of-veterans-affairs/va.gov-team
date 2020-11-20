@@ -18,7 +18,7 @@ assignees: andreahewitt-odd, Shiragoodman
 - [ ] Practice area reviewers create sub-issues attached to this one with feedback for your team on **feature name**
 - [ ] **Requesting team** completes attached feedback tickets based on definition of done included in each practice area feedback ticket (may differ for each practice area, please refer to attached tickets for further instruction)
 
-## Artifacts - _please provide the following artifacts at least 2 days before scheduled review meeting_
+## Artifacts - _please provide the following artifacts at least 4 days before scheduled review meeting_
 - Link to product outline ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md))
 - Link to [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
 - Access information for the tool or feature in staging _**do not put staging credentials in your `va.gov-team` ticket; store or reference them in a .md file in the `va.gov-team-sensitive` repository**_
