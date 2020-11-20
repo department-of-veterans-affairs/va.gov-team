@@ -49,6 +49,11 @@ In order to begin writing your execution records from your Cypress e2e teests in
 
 ![Use test case IDs in test](testcaseid.PNG)
 
+6. In order to run a subset of tests available in your project's test suite, you will need to organize them into a section in TestRail and discover that section's `groupId`.
+
+![Select relevant section](clickSection.png)
+
+![Note your section's groupId](groupID.PNG)
 
 ## Environment Variables Set
 ```
