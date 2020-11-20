@@ -1,5 +1,5 @@
 # IA Review and Recommendations
-**STATUS: IN PROGRESS**
+**STATUS: DRAFT COMPLETE**
 
 **Team:** Health care experience
 
@@ -48,9 +48,9 @@ Questionnaire | www.va.gov/health-care/health-questionnaires/questionnaires/answ
 
 **Priority** | **Placement** | **Destination** | **Description** 
 --- | --- | --- | --- 
-HIGH | Health care hub left nav | Questionnaire static content page (https://www.va.gov/health-care/health-questionnaires/) | Option should be placed immediately after "Schedule and view appointments". <br>  Standards for options in the "Manage" spoke call for an action-oriented label (i.e. "Find or coomplete health questionnaires") - Public Websites team to determine exact label. 
-HIGH | [VA appointments list page](https://www.va.gov/health-care/schedule-view-va-appointments/appointments/) | Questionnaire list tool (https://www.va.gov/health-care/health-questionnaires/questionnaires/) | A link should be added to each appointment block that has a corresponding questionnaire. 
-Not recommended | [Health care hub landing page](https://www.va.gov/health-care) | Questionnaire static content page (https://www.va.gov/health-care/health-questionnaires/) | The standard for the hub pages is a max of 10 links per spoke/grouping. The health care hub page already has 10 items within the "Manage benefits" spoke.  If this option is added, another option should be removed.  In reviewing analytics, the least clicked option within the Manage spoke over the last 3 months is "Pay copay bill".  I do not recommend this task replacing another option within this list at this time. Analytics and research should continue to inform this decision, as well as continuing evolution of design standards for the hub page. 
+MUST | Health care hub left nav | Questionnaire static content page (https://www.va.gov/health-care/health-questionnaires/) | Option should be placed immediately after "Schedule and view appointments". <br>  Standards for options in the "Manage" spoke call for an action-oriented label (i.e. "Find or coomplete health questionnaires") - Public Websites team to determine exact label. 
+MUST | [VA appointments list page](https://www.va.gov/health-care/schedule-view-va-appointments/appointments/) | Questionnaire list tool (https://www.va.gov/health-care/health-questionnaires/questionnaires/) | A link should be added to each appointment block that has a corresponding questionnaire. 
+Not recommended at this time | [Health care hub landing page](https://www.va.gov/health-care) | Questionnaire static content page (https://www.va.gov/health-care/health-questionnaires/) | The standard for the hub pages is a max of 10 links per spoke/grouping. The health care hub page already has 10 items within the "Manage benefits" spoke.  If this option is added, another option should be removed.  In reviewing analytics, the least clicked option within the Manage spoke over the last 3 months is "Pay copay bill".  I do not recommend this task replacing another option within this list at this time. Analytics and research should continue to inform this decision, as well as continuing evolution of design standards for the hub page. 
 
 *Priority: Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
@@ -59,7 +59,7 @@ Not recommended | [Health care hub landing page](https://www.va.gov/health-care)
 ### Redirects <br>
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
-- 
+- No redirects are anticipated at this time. 
 
 Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
 *For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
