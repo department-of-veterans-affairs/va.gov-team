@@ -90,6 +90,7 @@ Present a draft of your ideas to VSP and other expert designers. Learn about exi
 You bring:
 - Whiteboard sketch or other lo-fi prototypes or mockups
 - A general idea of the toolset you intend to use in your designs
+- **_Please provide these artifacts at least 2 days before the scheduled review meeting._**
 
 Design experts provide after the meeting:
 - A list of relevant design components and patterns (with URLs)
@@ -325,7 +326,7 @@ You bring:
     - [ ] [Axe-coconut scans in daily development](https://www.deque.com/blog/test-leading-edge-accessibility-axe-coconut-axe-core-3-0/)
     - [ ] [WAVE tool spot checks](https://wave.webaim.org/)
 - List of known issues (with links to tickets when applicable)
-- **_Please provide these artifacts at least 2 days before the scheduled review meeting._**
+- **_Please provide these artifacts at least 4 days before the scheduled review meeting._**
 
 VSP brings:
 - Feedback on the artifacts you’ve provided from the following practice areas: design, accessibility, content, QA, and optional: product, analytics, engineering
