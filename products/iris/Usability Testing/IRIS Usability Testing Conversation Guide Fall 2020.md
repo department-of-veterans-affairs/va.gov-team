@@ -1,7 +1,7 @@
 # IRIS Usability Testing Conversation Guide Fall 2020
 **11/20/2020**
 
-## Introduction
+# Introduction
 
 Thanks for joining us today! My name is Rachel and I’m a designer working with the VA.  We’re looking to understand how to improve the Contact us experience so we’re speaking to users like yourself to better understand what your experiences have been like.  Today we're going to talk about your experiences with Contact Us, or IRIS, the Inquiry Routing & Information System (available at https://iris.custhelp.va.gov/), It’s the form you see when you go to  ‘Contact Us’ > ‘Ask a Question’ at the top of the va.gov site you can go to the FAQs or Ask a Question.  Before we get start, a few things I want to mention:
 
@@ -23,11 +23,11 @@ Thanks for joining us today! My name is Rachel and I’m a designer working with
 
 
 
-## Warm-up Questions
+# Warm-up Questions
 
 (Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session)  Will also validate: Do you have any accessibility requirements - do you use any assistive technology to access any part of va.gov (a screen reader or magnifier, for example)? 
 
-Tech and mobile usage
+## Tech and mobile usage
 
 Before we get into your experiences with the VA site, I’d love to know more about your experiences with technology.
 
@@ -40,7 +40,7 @@ What browser do you use to access IRIS?
 
 Generally, how comfortable would you say you are with technology? Novice/Intermediate/Savvy
 
-Product Experience
+## Product Experience
 
 Have you contacted the VA? If so, when and how 
 - When
@@ -50,7 +50,7 @@ Do you always contact the VA the same way? Prompt for why they called vs. using 
  
 How often have you used IRIS? Did you use the COVID-19 Chatbot - how was that experience using it? What was the reason you were using IRIS? Tell us about a time when you used it and the purpose - what were you looking to do the last time you contacted the VA using IRIS.  
 
-## Usability tests
+# Usability tests
 
 _Instructions for notetakers in italics_
 
@@ -82,20 +82,20 @@ that what you expected to happen?
 So we’re going to review the pages you went through and I’m going to ask you for feedback on what you experienced.
 
 
-## Questions on the redesigned IRIS form
+# Questions on the redesigned IRIS form
 
-Intro page
+## Intro page
 
 Now that you’e seen the full form, would you sign in before completing the form - why or why not?
 As we go through these pages again I wanted to ask you your thoughts about the following: (go back to first page and slowly walk through these again).
 
-Chapters
+## Chapters
 
 - Did the number of chapters/pages feel like the right number? (Chapters are the individual ‘screens’ - inquiry, vet info, contact info).  
 - Was it correctly organized? Was it frustrating to have to click through multiple chapters - would all on one screen be a better experience?
 Would you use this on your phone?
 
-Content strategy
+## Content strategy
 
 - Is the content organized properly on the individual pages - the order of fields (i.e. dates all together,  time of service?)
 - Do you understand the topics in the drop down menu? If you didn’t, how would you resolve that? 
@@ -109,22 +109,22 @@ Probe for any extra fields (from an end user perspective)
 - Were there any moments of confusion?
 - Did you understand where you were filling out your contact information vs. the Veteran’s information?
 
-# Mobile
+##  Mobile
 - Would you complete this form on your phone - why or why not? 
  
-# Review chapter
+## Review chapter
 - What did you think would happen after you’ve submitted the form? What do they want to happen after submitting the form? Does the confirmation message provide enough info?
 - Do you find the the ability to review before submitting valuable?
 - If we had a ‘review and submit’ button, would you use it as opposed to directly submitting the form?
 
-# In general
+##  In general
 - Comparing the existing version of IRIS to this redesign, is this an improvement? Why or why not? What part is an improvement?
 Probe for va.gov look and feel
 
 - Content: We simplified the categories in the drop down menu - what was that experience like?
 
 
-## Closing
+# Closing
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work 
 on the site and make sure it really works for Veterans.
