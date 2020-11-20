@@ -32,30 +32,37 @@ Going forward, we are pulling out the payments section (the payments section cov
 
 ## Education module specs
 
-### Design
-
 [Direct deposit screens](https://xd.adobe.com/view/532272b2-b423-4e1b-a8c6-d1a583da3d37-0671/)
 
-**Edit state**
+### Edit state
 
 You'll notice the direct deposit section for edu looks exactly like the one for comp & pen. They're basically the same, minus the connection to different backend endpoints, of course.
 
-*Read-only state copy*
+#### Read-only state
+
+*Specs*
+
+The read-only state is structured the same as the comp & pen section, and it functions the same as the comp & pen section.
+
+*Copy*
+
+All read only copy is the same as the comp & pen module except:
 
 - **Section title**: Education benefit
-- **Field title**: Account
 
-*Edit state copy*
+#### Edit state 
+
+*Specs*
+
+The edit state is structured the same as the comp & pen section, and it functions the same as the comp & pen section. **This includes all frontend validation.** When it doubt, apply the same validation that we have for the comp & pen module for the edu module. [The mockups show the required state](https://xd.adobe.com/view/532272b2-b423-4e1b-a8c6-d1a583da3d37-0671/screen/ab5e191e-7c12-4ed8-90f9-1c967365fe1d) but they don't outline every validation use case. If there's something you have questions about, let's regroup on what to apply.
+
+*Copy*
 
 - **Field labels**
 
-This is all the same as the comp & pen module **except** for the following fields that Peggy has suggested we update (ticket for updating comp & pen copy to match is []())
+This is all the same as the comp & pen module **except** for the following fields that Peggy has suggested we update (ticket for updating comp & pen copy to match is [#16470](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16470)):
 
   - Routing number (Your bank’s name will appear after you add the 9-digit routing number)
   - Account number (This should be no more than 17 digits)
   
 **Add state**
-
-### Backend
-
-Lihan has already set up the endpoints, though they will need to be unblocked before you can start connecting to the backend. Please connect with Lihan on any questions you have about connecting frontend <> backend.
