@@ -52,6 +52,8 @@ All read only copy is the same as the comp & pen module except:
 
 #### Edit state 
 
+[Direct deposit for edu edit state](https://xd.adobe.com/view/532272b2-b423-4e1b-a8c6-d1a583da3d37-0671/screen/59f1a007-7073-476a-a0e5-9d9df06c3059)
+
 *Specs*
 
 The edit state is structured the same as the comp & pen section, and it functions the same as the comp & pen section. **This includes all frontend validation.** When it doubt, apply the same validation that we have for the comp & pen module for the edu module. [The mockups show the required state](https://xd.adobe.com/view/532272b2-b423-4e1b-a8c6-d1a583da3d37-0671/screen/ab5e191e-7c12-4ed8-90f9-1c967365fe1d) but they don't outline every validation use case. If there's something you have questions about, let's regroup on what to apply.
@@ -65,4 +67,8 @@ This is all the same as the comp & pen module **except** for the following field
   - Routing number (Your bank’s name will appear after you add the 9-digit routing number)
   - Account number (This should be no more than 17 digits)
   
-**Add state**
+#### Add state
+
+[Direct deposit for edu add state](https://xd.adobe.com/view/532272b2-b423-4e1b-a8c6-d1a583da3d37-0671/screen/51b79b7f-f94e-4edd-85ee-642deb647e6f)
+
+#### Save state
