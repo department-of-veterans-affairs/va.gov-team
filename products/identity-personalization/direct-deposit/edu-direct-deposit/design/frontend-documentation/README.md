@@ -91,6 +91,26 @@ Per Peggy, we are changing the save state copy (ticket for updating comp & pen c
 
 ## VA payment history specs
 
-We are separating out the payment history link from the comp & pen module because the payment history tool
+We are separating out the payment history link from the comp & pen module because the payment history tool covers all payment types.
+
+*Copy*
+
+- Still pending Peggy's approval.
 
 ## When someone has one type of direct deposit but not the other
+
+Now that we have two types of direct deposit in the profile, we have a scenario that we did not have before: someone may be eligible for one type of direct deposit but not the other. As mentioned above, we will show the direct deposit section in the profile as long as someone is eligible for at least **one** type of direct deposit. This is how we'll handle those use cases.
+
+### If someone is eligible for comp & pen but NOT edu payments
+
+[Direct deposit if someone eligible for comp & pen but NOT edu payments](https://xd.adobe.com/view/532272b2-b423-4e1b-a8c6-d1a583da3d37-0671/screen/11a0357f-5fbe-487b-a60a-6d415a0eae17)
+
+*Specs*
+
+- We should always show the edu module even if someone is not eligible for it. If someone is not eligible for it, we will have messaging that explains this.
+
+*Copy*
+
+Our records show that you're not receiving education benefit payments. If you think this is an error, please call us at [800-827-1000]().
+
+[Find out if you’re eligible for VA education benefits](https://www.va.gov/education/eligibility/)
