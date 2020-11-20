@@ -115,7 +115,7 @@ We will pilot with the TW team internally to prepare for the session.
 - Moderator: Rachel M. Murray, UX Designer at TW
 - Research: Rachel M. Murray, UX Designer at TW
 - Participant recruiting & screening:	Perigean
-- Project point of contact:	Katie Ho, project manager at TW
+- Project point of contact: Laura Prietula
 - Participant(s) for pilot test: see above
 - Note-takers: ThoughtWorks team	
 - Observers: Interested parties in the VA
