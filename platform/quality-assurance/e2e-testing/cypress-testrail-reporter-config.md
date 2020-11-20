@@ -53,7 +53,7 @@ In order to begin writing your execution records from your Cypress e2e teests in
 
 ![Select relevant section](clickSection.png)
 
-![Note your section's groupId](groupID.PNG)
+![Note your section's groupId](groupID.png)
 
 ## Environment Variables Set
 ```
