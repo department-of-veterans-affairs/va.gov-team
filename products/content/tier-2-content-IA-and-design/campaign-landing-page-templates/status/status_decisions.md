@@ -1,5 +1,15 @@
 ## Status/decisions
 
+### 11/19/2020
+
+- Completed round-one of [top-line Q-and-As related to CMS-Content rigidity](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/content-requirements-spec/cms-content-model-and-rigidity.md) -- needed to keep CMS devs on track for Nov-Dec sprint work.
+- User Group kickoff/info sessions have been set with following VA stakeholder/beta user groups:
+  - 11/19 - Sandy Tadeo & Paul Shute of VBA (Completed - follow up in Dec)
+  - 11/23 - Jenny Heiland-Luedtke, Jeff Grandon, Steve Tokar of VHA Digital Comms
+  - VEO: Tim Hudak, Melissa Rebstock, Laura Petrola
+  - VACO: Josh Tuscher, Gary Hicks
+- Archived Campaign Page content for initial content modeling can be 
+
 ### 7/13/2020
 
 Content/IA & Business Requirements session to work-through questions about use, authorship, governance, KPIs. Participants included: Jen Lee, Meg Peters, Mikki Northuis, Ryan Thurwell, Mickin Sahni, Kevin Walsh. At the meeting, we fleshed out answers for key questions [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/content-requirements-spec/content_business_rules.md).  John will convert this into a table-formatted requirements document and update the Product Outline to reflect latest thinking.   
