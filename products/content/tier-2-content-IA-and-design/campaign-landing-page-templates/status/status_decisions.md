@@ -8,7 +8,7 @@
   - 11/23 - Jenny Heiland-Luedtke, Jeff Grandon, Steve Tokar of VHA Digital Comms
   - VEO: Tim Hudak, Melissa Rebstock, Laura Petrola
   - VACO: Josh Tuscher, Gary Hicks
-- Archived Campaign Page content for initial content modeling can be 
+- Archived Campaign Page content for initial content modeling can be based on VA Solid Start - https://benefits.va.gov/transition/solid-start.asp
 
 ### 7/13/2020
 
