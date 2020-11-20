@@ -7,7 +7,7 @@
 - [When to show the direct deposit section](#when-to-show-the-direct-deposit-section)
 - [Overall page structure](#overall-page-structure)
 - [Education module specs](#education-module-specs)
-- [VA payment history specs]()
+- [VA payment history specs](#va-payment-history-specs)
 - [When someone has one type of direct deposit but not the other]()
 
 ## When to show the direct deposit section
