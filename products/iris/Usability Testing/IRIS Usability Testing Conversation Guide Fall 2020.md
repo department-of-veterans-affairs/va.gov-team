@@ -126,8 +126,13 @@ Probe for va.gov look and feel
 
 # Additional topics for roadmap
 
-TO FINISH
+If time allows we may also discuss three additional topics - both asking questions and sharing early concepts for feedback.
 
+- Authentication: How users feel the need to sign it affects the IRIS experience (showing mockup)
+
+- GI Bill: How users feel about having 2 forms vs one consolidated form for GI Bill and IRIS inquiries and how confusing it might be (may be question vs. mockup)
+
+- Secure Messaging: How users feel about the simplified approach we have (showing mockup)
 
 
 # Closing
