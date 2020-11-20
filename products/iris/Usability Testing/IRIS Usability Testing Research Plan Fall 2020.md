@@ -27,7 +27,7 @@ See conversation guide for details questions and tests.
 
 Exit questions
 
-We would also ask questions at the end of the session from earlier in this document (‘Did the number of chapters/pages of the form feel like the right length?’). We may also use the System Usability Scale (source).
+We would also ask questions at the end of the session from earlier in this document (‘Did the number of chapters/pages of the form feel like the right length?’). We may also use the System Usability Scale but may leave off until final usability test which tests the whole experience.
 
 I think that I would like to use this system frequently.
 I found the system unnecessarily complex.
