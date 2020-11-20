@@ -4,7 +4,7 @@
 
 ## Contents
 
-- When to show the direct deposit section
+- [When to show the direct deposit section](#when-to-show-the-direct-deposit-section)
 - Overall page structure
 - Education module specs
 - VA payment history specs
