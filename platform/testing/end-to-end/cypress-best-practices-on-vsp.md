@@ -176,7 +176,7 @@ cy.route('/v0/bar', 'fixture:data/bar');
 
 #### Source file:
 
-The link is not available yet. The PR for this feature has not been approved yet.
+https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/viewportPreset.js
 
 #### Description:
 
@@ -331,7 +331,7 @@ Please note: Tests written with the form tester automatically check for accessib
 
 #### Source file:
 
-The link is not available yet. The PR for this feature has not been approved yet.
+https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/injectAxeThenAxeCheck.js
 
 #### Description:
 
@@ -345,7 +345,7 @@ tempOptions -- an `Object`, defaults to an empty `Object`
 
 ## Iterate Through Top VA.gov Viewports
 
-To ensure that an application behaves correctly across the viewport sizes most commonly used by va.gov users, we've provided the following Cypress environment variables in the `config/cypress.json` file that each contain an array of objects, each describing a viewport:
+To ensure that an application behaves correctly across the viewport sizes most commonly used by va.gov users, we've provided the following Cypress environment variables in the [`config/cypress.json`](https://github.com/department-of-veterans-affairs/vets-website/blob/master/config/cypress.json) file that each contain an array of objects, each describing a viewport:
 
 - `vaTop5MobileViewports`
 - `vaTop5TabletViewports`
