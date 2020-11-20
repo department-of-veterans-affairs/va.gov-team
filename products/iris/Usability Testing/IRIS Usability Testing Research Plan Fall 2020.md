@@ -67,17 +67,50 @@ We will be using Zoom.
 
 1. **Primary criteria / Must have** 
 
-TBD
+1.	Participant criteria:
 
-2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?	TO FINISH
+- what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.)
 
-TBD
+We would like to find Veterans (or their family members, but ideally Veterans) who have used the IRIS form in the past year.
+
+Our preference is to test with the same users we originally interviewed at the start of the project to see if this addresses their pain points and because we have built rapport with these people, but are open to testing with others. 
+
+We will work with Perigean who will identify users with an aim to have sessions with 10 users.
+
+
+2.	What is your recruitment strategy? 
+
+We will work with Perigean who will identify users with an aim to have sessions with 10 users.
+
 
 ## When?
+
+1.	Timeline: What dates do you plan to do research? 	
+(If you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 	
+
+We would like to conduct this research post Thanksgiving.
+
+2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.)
+
+- Version on Staging which will allow users to interact with a live form, with possible Invision prototype we could screen share.
+
 
 3. Length of Sessions: How long do you estimate each session will be?
 
 These sessions will likely be one hour to allow for a relaxed conversation and the actual usability tests.
+
+
+4.	Availability: If applicable, when would you like sessions scheduled? 
+**Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.Specify how much time you want between sessions, if any.
+
+We can work with Perigean to determine schedule needs - post Thanksgiving is our requirement.
+
+We would like it limit it to about 3 sessions per day maximum, with at least ½ hour in between each session.
+
+
+5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
+	
+We will pilot with the TW team internally to prepare for the session.
 
 
 ## Who - Team Roles	
