@@ -27,7 +27,7 @@ Thanks for joining us today! My name is Rachel and I’m a designer working with
 
 (Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session)  Will also validate: Do you have any accessibility requirements - do you use any assistive technology to access any part of va.gov (a screen reader or magnifier, for example)? 
 
-# Tech and mobile usage#
+Tech and mobile usage
 
 Before we get into your experiences with the VA site, I’d love to know more about your experiences with technology.
 
@@ -52,24 +52,51 @@ How often have you used IRIS? Did you use the COVID-19 Chatbot - how was that ex
 
 ## Usability tests
 
+_Instructions for notetakers in italics_
 
-TO ADD
+_Note if the task is completed, not completed, where they stopped or struggled and why (‘couldn’t find button etc.) and anything useful about the problem.  Don’t focus on solutioning - just how they experience the product._
+
+_Decide on laptop hugging method and if testing for mobile - Reference  _
+
+**Scenario: filling out the form **
+
+We have an early version of the IRIS form we want to share with you - not everything will be working but want to get your feedback. 
+
+Go to this address: https://staging.va.gov/ask-a-question/introduction 
+
+Go ahead and talk me through what you see on this page and what you can do here.
+
+Imagine you’re dealing with a problem with your eye glasses, and your local VA is in Atlanta.  Show me how you would send a question to the VA about glasses, indicating it’s for yourself.
+
+_Note if they go to sign in or not_
+_Note if they select the right values from the drop downs_
+_Health and Medical...then Prosthetics then Eyeglasses then medical facilities_
+
+Now go ahead and fill in the rest of the form - you can just use fake data. (test@test.com)
+
+_Stop them after they’ve filled out their contact info, before they get to the submit page_
+
+Now before you click submit, what do you think will happen? (Now go ahead and click on submit).  Is 
+that what you expected to happen?
+
+So we’re going to review the pages you went through and I’m going to ask you for feedback on what you experienced.
 
 
-##Questions on the redesigned IRIS form##
+## Questions on the redesigned IRIS form
 
-# Intro page #
+Intro page
 
 Now that you’e seen the full form, would you sign in before completing the form - why or why not?
 As we go through these pages again I wanted to ask you your thoughts about the following: (go back to first page and slowly walk through these again).
 
-# Chapters #
+Chapters
 
-Did the number of chapters/pages feel like the right number? (Chapters are the individual ‘screens’ - inquiry, vet info, contact info).  
-Was it correctly organized? Was it frustrating to have to click through multiple chapters - would all on one screen be a better experience?
+- Did the number of chapters/pages feel like the right number? (Chapters are the individual ‘screens’ - inquiry, vet info, contact info).  
+- Was it correctly organized? Was it frustrating to have to click through multiple chapters - would all on one screen be a better experience?
 Would you use this on your phone?
 
-# Content strategy #
+Content strategy
+
 - Is the content organized properly on the individual pages - the order of fields (i.e. dates all together,  time of service?)
 - Do you understand the topics in the drop down menu? If you didn’t, how would you resolve that? 
 - ON HOLD: Did you notice any help text and would you use it? Why or why not? Is more help needed (i.e. a glossary?) 
@@ -78,6 +105,7 @@ Would you use this on your phone?
 Probe for ‘removed Middle Initial and Title in order to simplify the form’ if they ask for what changed?
 Probe/watch for too many options for Branch of Service 
 Probe for any extra fields (from an end user perspective)
+
 - Were there any moments of confusion?
 - Did you understand where you were filling out your contact information vs. the Veteran’s information?
 
@@ -94,8 +122,6 @@ Probe for any extra fields (from an end user perspective)
 Probe for va.gov look and feel
 
 - Content: We simplified the categories in the drop down menu - what was that experience like?
-
-
 
 
 ## Closing
