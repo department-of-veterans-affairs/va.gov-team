@@ -4,22 +4,22 @@
 
 ## Goal
 
-The goal of this study is to get Vet Center Client feedback on high level designs and concepts that attempt to position Vet Centers in a way that reflects actual client experiences and opinions.
+The goal of this study is to get Vet Center Client feedback on high level concepts and information design in order to position Vet Centers accurately according to actual client experiences and opinions so that potential clients feel able to make an informed decision about their own care options.
 
 ### Research questions
 
+- How would clients go about searching for services on a search engine? 
 From the designs will clients:
-- understanding that Vet Centers are different than other VA facilities?
-- accurately prioritze the highest value factors of Vet Centers?
-- provide enough information in order to visit or call?
-What words resonate most with clients?
-Are there improvements to the designs that should be considered for MVP or future iterations?
+ - understand that Vet Centers are different from other VA facilities?
+ - understand that they can get care at satellite locations throughout the region? 
+ - have enough information in order to visit or call? 
+- Do our service descriptions give Veterans the information that they need to make an informed decision about their care?
 
 ### Hypothesis 
 
-Past and present clients will:
-- find that the messages conveyed in the designs match their perception of Vet Centers 
-- want more imagery and less copy heavy designs
+Clients will feel that have adequate logistical information in order to visit or call assuming they are already familiar with Vet Centers.
+Clients will feel that the concepts don't communicate the warmth that they experience at Vet Centers.
+
 
 ## Method
 
