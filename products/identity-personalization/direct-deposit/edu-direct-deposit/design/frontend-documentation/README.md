@@ -60,10 +60,9 @@ The edit state is structured the same as the comp & pen section, and it function
 
 *Copy*
 
-- **Field labels**
-
 This is all the same as the comp & pen module **except** for the following fields that Peggy has suggested we update (ticket for updating comp & pen copy to match is [#16470](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16470)):
 
+- **Field labels**
   - Routing number (Your bank’s name will appear after you add the 9-digit routing number)
   - Account number (This should be no more than 17 digits)
   
