@@ -52,7 +52,7 @@ In order to begin writing your execution records from your Cypress e2e teests in
 
 ## Environment Variables Set
 ```
-export TR_USER=<your-testrail-email-here> TR_API_KEY=<your-API-key> TR_PROJECTID=<your-projectid> TR_SUITEID=<your-suiteid> TR_RUN_NAME=<human readable name> TR_INCLUDE_ALL=<TRUE/FALSE> TR_GROUPID=<subset of test cases collected into group>
+export TR_USER=<your-testrail-email-here> TR_API_KEY=<your-API-key> TR_PROJECTID=<your-projectid> TR_SUITEID=<your-suiteid> TR_RUN_NAME=<human readable name> TR_INCLUDE_ALL=<TRUE/FALSE> TR_GROUPID=<subset of test cases collected into group> TR_FILTER=<a string to filter on (can be blank)>
 ```
 
 ## Invoke Cypress with Custom Reporter Options
