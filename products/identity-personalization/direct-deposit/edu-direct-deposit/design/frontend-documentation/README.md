@@ -5,11 +5,10 @@
 ## Contents
 
 - [When to show the direct deposit section](#when-to-show-the-direct-deposit-section)
-- Overall page structure
-- Education module specs
-- VA payment history specs
-- "Add" states
-- When someone has one type of direct deposit but not the other
+- [Overall page structure](#overall-page-structure)
+- [Education module specs]()
+- [VA payment history specs]()
+- [When someone has one type of direct deposit but not the other]()
 
 ## When to show the direct deposit section
 
