@@ -101,7 +101,7 @@ These sessions will likely be one hour to allow for a relaxed conversation and t
 
 4.	Availability: If applicable, when would you like sessions scheduled? 
 
-We can work with Perigean to determine schedule needs - post Thanksgiving is our requirement.
+We can work with Perigean to determine schedule needs - post Thanksgiving is our requirement. Availability Monday to Friday 9 - 5 EST 
 
 We would like it limit it to about 3 sessions per day maximum, with at least ½ hour in between each session.
 
