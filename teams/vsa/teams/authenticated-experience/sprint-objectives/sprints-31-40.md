@@ -316,6 +316,12 @@ The other designer:
 - Direct deposit for edu build #16479
   - If this was broken down into smaller tickets, let's figure out what is doable this sprint. 
 
+### Preferred medical facility
+
+**BE**
+
+- Continue backend build #16107 (if necessary)
+
 ### VA Profile notification preferences
 
 **PM**
