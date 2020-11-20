@@ -55,6 +55,14 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 
 ### Meetings Notes and Background Info
 
+**11/17/2020 - Usability testing prep**
+- Veterans are confused about vet center vs va clinic
+- Awareness is the biggest thing we are trying to solve
+- Are we striking the right tone for messaging, then circling back to where does that messaging live.
+- Potential separate campaign landing page to help
+- These will be individual sites, not sure if they will live as part of facility locator. They are technically equivalents to medical centers. 
+IA feedback documented here: https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/16235
+
 **9/18/20 - Design intent**
 
 Questions
