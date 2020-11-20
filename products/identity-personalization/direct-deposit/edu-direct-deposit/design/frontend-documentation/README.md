@@ -91,4 +91,6 @@ Per Peggy, we are changing the save state copy (ticket for updating comp & pen c
 
 ## VA payment history specs
 
+We are separating out the payment history link from the comp & pen module because the payment history tool
+
 ## When someone has one type of direct deposit but not the other
