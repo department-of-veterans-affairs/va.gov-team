@@ -27,7 +27,7 @@ Thanks for joining us today! My name is Rachel and I’m a designer working with
 
 (Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session)  Will also validate: Do you have any accessibility requirements - do you use any assistive technology to access any part of va.gov (a screen reader or magnifier, for example)? 
 
-#Tech and mobile usage:#
+# Tech and mobile usage#
 
 Before we get into your experiences with the VA site, I’d love to know more about your experiences with technology.
 
@@ -40,7 +40,7 @@ What browser do you use to access IRIS?
 
 Generally, how comfortable would you say you are with technology? Novice/Intermediate/Savvy
 
-#Product Experience#
+# Product Experience #
 
 Have you contacted the VA? If so, when and how 
 - When
@@ -58,18 +58,18 @@ TO ADD
 
 ##Questions on the redesigned IRIS form##
 
-#Intro page:#
+# Intro page #
 
 Now that you’e seen the full form, would you sign in before completing the form - why or why not?
 As we go through these pages again I wanted to ask you your thoughts about the following: (go back to first page and slowly walk through these again).
 
-#Chapters: #
+# Chapters #
 
 Did the number of chapters/pages feel like the right number? (Chapters are the individual ‘screens’ - inquiry, vet info, contact info).  
 Was it correctly organized? Was it frustrating to have to click through multiple chapters - would all on one screen be a better experience?
 Would you use this on your phone?
 
-#Content strategy: #
+# Content strategy #
 - Is the content organized properly on the individual pages - the order of fields (i.e. dates all together,  time of service?)
 - Do you understand the topics in the drop down menu? If you didn’t, how would you resolve that? 
 - ON HOLD: Did you notice any help text and would you use it? Why or why not? Is more help needed (i.e. a glossary?) 
@@ -81,15 +81,15 @@ Probe for any extra fields (from an end user perspective)
 - Were there any moments of confusion?
 - Did you understand where you were filling out your contact information vs. the Veteran’s information?
 
-#Mobile:#
+# Mobile #
 - Would you complete this form on your phone - why or why not? 
  
-#Review chapter? #
+# Review chapter #
 - What did you think would happen after you’ve submitted the form? What do they want to happen after submitting the form? Does the confirmation message provide enough info?
 - Do you find the the ability to review before submitting valuable?
 - If we had a ‘review and submit’ button, would you use it as opposed to directly submitting the form?
 
-#In general:#
+# In general #
 - Comparing the existing version of IRIS to this redesign, is this an improvement? Why or why not? What part is an improvement?
 Probe for va.gov look and feel
 
