@@ -88,3 +88,7 @@ This is the same as the add state for the comp & pen module:
 Per Peggy, we are changing the save state copy (ticket for updating comp & pen copy to match is [#16470](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16470)):
 
 - We’ve updated your bank account information for your **education benefits**
+
+## VA payment history specs
+
+## When someone has one type of direct deposit but not the other
