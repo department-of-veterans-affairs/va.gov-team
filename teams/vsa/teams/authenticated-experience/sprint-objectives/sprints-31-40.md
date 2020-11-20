@@ -309,7 +309,8 @@ The other designer:
 
 **FE** 
 
-- Begin FE build
+- Direct deposit for edu build #16479
+  - If this was broken down into smaller tickets, let's figure out what is doable this sprint. 
 
 ### VA Profile notification preferences
 
