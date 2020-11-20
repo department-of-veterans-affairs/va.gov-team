@@ -41,7 +41,7 @@ Start with open-ended question “How can I help you today?” brings focus to t
  
  ### IA and Wireflow
 - IA: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/health-questionaires.md
-- Wireflow: Zeplin File: https://zpl.io/aNepDW9 or https://scene.zeplin.io/project/5f3d86a458ea2231e60a4780
+- Wireflow: (Zeplin File) https://zpl.io/aNepDW9 or https://scene.zeplin.io/project/5f3d86a458ea2231e60a4780
 
 ### Wireframes
 Zeplin File: https://zpl.io/aNepDW9 or https://scene.zeplin.io/project/5f3d86a458ea2231e60a4780
