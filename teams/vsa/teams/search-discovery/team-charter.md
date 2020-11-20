@@ -107,11 +107,10 @@ Milestones are set up as:
 
 |**Ceremonies**         |**When**         |**Duration**                   | **Where**        |**Agenda/Focus** |
 |-----------------------|------------------------------|------|------------------|-----------------|
-|*Stand-Up*               |Daily @ 11:00am ET |30 mins         |[Zoom meeting](https://zoom.us/j/3399042357)| 3 Question Format: What I did yesterday? What will I do today? Any impediments?|
-|*Sprint Planning*        |1st Wednesday of every sprint  @ 1:00pm ET|1.5 hrs| [Zoom meeting](https://zoom.us/j/3399042357)|Outline team and member focus, goals for sprint.
-|*Retro*                  |Last Tuesday of every sprint @ 2:30pm ET | 30 mins|[Zoom meeting](https://zoom.us/j/3399042357)| Review accomplishments, ways to improve from prior sprint. Questions to Go Over: What went well? Areas for improvement? What to start doing?|
-|*Grooming* | 2nd Wednesday of every sprint, @ 1:00 ET|1 hour |[Zoom meeting](https://zoom.us/j/3399042357)|Assess and update workload for remainder of sprint|
-
+|*Stand-Up*               |Daily @ 10:00am ET |15 mins         |[Zoom meeting](https://zoom.us/j/3399042357)| 3 Question Format: What I did yesterday? What will I do today? Any impediments?|
+|*Sprint Planning*        |1st Wednesday of every sprint  @ 11:00am ET|1 hr| [Zoom meeting](https://zoom.us/j/3399042357)|Outline team and member focus, goals for sprint.
+|*Retro*                  |Last Monday of every sprint @ 1:00pm ET | 30 mins|[Zoom meeting](https://zoom.us/j/3399042357)| Review accomplishments, ways to improve from prior sprint. Questions to Go Over: What went well? Areas for improvement? What to start doing?|
+|*Grooming* | 2nd Wednesday of every sprint, @ 11:00am ET|1 hour |[Zoom meeting](https://zoom.us/j/3399042357)|Assess and update workload for remainder of sprint|
 
 ---
 #### Issue Etiquette
