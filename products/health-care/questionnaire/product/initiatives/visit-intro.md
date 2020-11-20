@@ -40,8 +40,8 @@ Start with open-ended question “How can I help you today?” brings focus to t
  [Mural Workflow Diagram](https://app.mural.co/t/vsa8243/m/vsa8243/1596561661701/0afd94dfc8598b105524e87c8828b10dba98bbf2)
  
  ### IA and Wireflow
-IA: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/health-questionaires.md
-Wireflow: Zeplin File: https://zpl.io/aNepDW9 or https://scene.zeplin.io/project/5f3d86a458ea2231e60a4780
+- IA: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/health-questionaires.md
+- Wireflow: Zeplin File: https://zpl.io/aNepDW9 or https://scene.zeplin.io/project/5f3d86a458ea2231e60a4780
 
 ### Wireframes
 Zeplin File: https://zpl.io/aNepDW9 or https://scene.zeplin.io/project/5f3d86a458ea2231e60a4780
