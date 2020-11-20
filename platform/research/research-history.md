@@ -15,6 +15,12 @@ This does not include research for Appeals projects, which is stored in differen
 ###  2020
 ### November 2020
 
+#### October 15 - November 3:  Comparison Tool Redesign Research
+*Booz Allen: Amy Knox, Jen Jones, Emma Waters*
+ - 10 Veteran/non-Veteran beneficiaries, 5 School Certifying Officials, 20+ stakeholders
+ - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/school-comparison-tool/redesign/research)
+ - **Keywords:** Comparison Tool, school search, school selection 
+
 #### November 2 - 4 : Wizard Migration Usability Study
 *Public Websites: Liz Lantz, Christian Valla, Megan Gayle, Josh Kim*
 - 5 participants
