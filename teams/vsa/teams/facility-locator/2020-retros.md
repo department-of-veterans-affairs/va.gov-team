@@ -115,5 +115,5 @@
 ![Sprint 33](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/images/Sprint%2033%20retro.png)
 
 ### Sprint 34, ending November 17, 2020
-![Sprint 34]https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/images/Sprint%20retro%2034.png)
+![Sprint 34](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/images/Sprint%20retro%2034.png)
 
