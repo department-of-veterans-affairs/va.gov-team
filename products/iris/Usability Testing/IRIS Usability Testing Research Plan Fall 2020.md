@@ -125,4 +125,4 @@ We will pilot with the TW team internally to prepare for the session.
 ## Resources	
 
 - [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS-product-brief.md )
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/IRIS%20Usability%20Testing%20Conversation%20Guide.md )
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/IRIS%20Usability%20Testing%20Conversation%20Guide%20Fall%202020.md)
