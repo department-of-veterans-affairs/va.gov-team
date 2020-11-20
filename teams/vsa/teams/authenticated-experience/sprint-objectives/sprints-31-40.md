@@ -301,6 +301,10 @@ The other designer:
 
 ### Direct deposit for edu
 
+**PM**
+
+- Put QA spreadsheet test cases into TestRail
+
 **Design**
 
 - Finish research
