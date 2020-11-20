@@ -104,7 +104,7 @@ November 30, 2020 | 11am - 6pm ET
 Mobile Pilot Sessions (1 total sessions, 2 mobile, A vs B): Jonathan Nelson, jonathan.nelson@adhocteam.us on November 19, 2020 | 3:30pm - 4:45pm ET
 
 ## Team Roles
-* Moderator: Tressa Furner & Cassandra Allen (tressa.furner@adhocteamus.com, callen@governmentcio.com) 
+* Moderator: Tressa Furner & Cassandra Allen (tressa.furner@adhocteam.us, callen@governmentcio.com) 
 * Research guide writing and task development: Cassandra Allen, Tressa Furner
 * Participant recruiting & screening: Perigean
 * Project point of contact: Samara Strauss
