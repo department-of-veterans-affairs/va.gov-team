@@ -29,7 +29,7 @@
 --- | --- | --- | ---
 Static content page | www.va.gov/health-care/health-questionnaires/  | [Home](https://www.va.gov) > [Health care](https://www.va.gov/health-care/) > Health questionnaires |    
 Questionnaire list page | www.va.gov/health-care/health-questionnaires/questionnaires/ |[Home](https://www.va.gov) > [Health care](https://www.va.gov/health-care/) > Your health questionnaires | Note that breadcrumb does not include reference to the static page since it is bypassed for authenticated users. 
-Questionnaire/form | www.va.gov/health-care/health-questionnaires/questionnaires/answer-questions?id=[id#] | [Home](https://www.va.gov) > [Health care](https://www.va.gov/health-care/) > [Your health questionnaires](https://www.va.gov/health-care/health-questionnaires/questionnaires/) > Answer [stop code] questionnaire | Note that breadcrumb does not include reference to the static page since it is bypassed for authenticated users. <br> The final breadcrumb component will mimic the H1 of the page.
+Questionnaire | www.va.gov/health-care/health-questionnaires/questionnaires/answer-questions?id=[id#] | [Home](https://www.va.gov) > [Health care](https://www.va.gov/health-care/) > [Your health questionnaires](https://www.va.gov/health-care/health-questionnaires/questionnaires/) > Answer [stop code] questionnaire | Note that breadcrumb does not include reference to the static page since it is bypassed for authenticated users. <br> The final breadcrumb component will mimic the H1 of the page.
 
 
 <hr>
@@ -38,21 +38,19 @@ Questionnaire/form | www.va.gov/health-care/health-questionnaires/questionnaires
 *How users will navigate to and flow through the proposed experience.  Includes the primary entry points and changes to global navigation elements.*
 
 
-![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/f0a7c9e3-0586-41c6-a90b-9d216a454c27)
+![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/bb31a656-b6c0-4ab1-9aea-bfc2776893ba)
 
 
-1. Bypass the static page if the user is already authenticated.  
-2. The sign in/create account process is bypassed if user is already authenticated. 
-3. When linking directly to a questionnaire, an unauth view of the requested questionnaire is displayed, then users are prompted to sign in (if needed) and then either the questionnaire is displayed for them to continue, or an error message is displayed if the questionnaire is no longer available/valid
-  - Alternate flow: Bypass the unauthenticated view of the questionnaire and take users directly to to sign in/authentication and then to questionnaire list - this is similar to other flows and doesn't give potential false impression that the questionnaire is available to complete. 
+1. The static page and sign in process are bypassed if the user is already authenticated. 
+2. When linking directly to a questionnaire, if user is not authenticated, an unauth view of the requested questionnaire is displayed, users are then prompted to sign in and are either sent to the questionnaire to complete/continue or to the questionnaire list page if the questionnaire is no longer available/valid.  
+  - The desired future state is that the links within the emails and texts will take users directly to a specific questionnaire rather than the list page, thereby following the same flow as direct external link (i.e. bookmark).
+  
 
-
-**Priority** | **Placement** | **Label** | **Destination** | **Description** 
---- | --- | --- | --- | ---
-tbd | [Health care hub landing page](https://www.va.gov/health-care) | tbd | Questionnaire static content page (https://www.va.gov/health-care/health-questionnaires/) | tbd
-tbd | Health care hub left nav | tbd | Questionnaire static content page (https://www.va.gov/health-care/health-questionnaires/) | tbd
-tbd | [VA appointments list page](https://www.va.gov/health-care/schedule-view-va-appointments/appointments/) | tbd | Questionnaire list tool (https://www.va.gov/health-care/health-questionnaires/questionnaires/) | tbd
-
+**Priority** | **Placement** | **Destination** | **Description** 
+--- | --- | --- | --- 
+HIGH | Health care hub left nav | Questionnaire static content page (https://www.va.gov/health-care/health-questionnaires/) | Option should be placed immediately after "Schedule and view appointments". <br>  Standards for options in the "Manage" spoke call for an action-oriented label (i.e. "Find or coomplete health questionnaires") - Public Websites team to determine exact label. 
+HIGH | [VA appointments list page](https://www.va.gov/health-care/schedule-view-va-appointments/appointments/) | Questionnaire list tool (https://www.va.gov/health-care/health-questionnaires/questionnaires/) | A link should be added to each appointment block that has a corresponding questionnaire. 
+Not recommended | [Health care hub landing page](https://www.va.gov/health-care) | Questionnaire static content page (https://www.va.gov/health-care/health-questionnaires/) | The standard for the hub pages is a max of 10 links per spoke/grouping. The health care hub page already has 10 items within the "Manage benefits" spoke.  If this option is added, another option should be removed.  In reviewing analytics, the least clicked option within the Manage spoke over the last 3 months is "Pay copay bill".  I do not recommend this task replacing another option within this list at this time. Analytics and research should continue to inform this decision, as well as continuing evolution of design standards for the hub page. 
 
 *Priority: Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
