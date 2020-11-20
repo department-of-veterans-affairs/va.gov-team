@@ -40,7 +40,7 @@ What browser do you use to access IRIS?
 
 Generally, how comfortable would you say you are with technology? Novice/Intermediate/Savvy
 
-# Product Experience #
+Product Experience
 
 Have you contacted the VA? If so, when and how 
 - When
@@ -58,7 +58,7 @@ _Note if the task is completed, not completed, where they stopped or struggled a
 
 _Decide on laptop hugging method and if testing for mobile - Reference  _
 
-**Scenario: filling out the form **
+Scenario: filling out the form
 
 We have an early version of the IRIS form we want to share with you - not everything will be working but want to get your feedback. 
 
@@ -109,15 +109,15 @@ Probe for any extra fields (from an end user perspective)
 - Were there any moments of confusion?
 - Did you understand where you were filling out your contact information vs. the Veteran’s information?
 
-# Mobile #
+# Mobile
 - Would you complete this form on your phone - why or why not? 
  
-# Review chapter #
+# Review chapter
 - What did you think would happen after you’ve submitted the form? What do they want to happen after submitting the form? Does the confirmation message provide enough info?
 - Do you find the the ability to review before submitting valuable?
 - If we had a ‘review and submit’ button, would you use it as opposed to directly submitting the form?
 
-# In general #
+# In general
 - Comparing the existing version of IRIS to this redesign, is this an improvement? Why or why not? What part is an improvement?
 Probe for va.gov look and feel
 
