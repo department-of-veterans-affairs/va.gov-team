@@ -56,6 +56,14 @@ In order to begin writing your execution records from your Cypress e2e teests in
 ![Note your section's groupId](groupID.png)
 
 ## Environment Variables Set
+1. `TR_USER` : the email address for your TestRail account
+1. `TR_API_KEY` : the API key that you created for use by Cypress to TestRail reporter in TestRail
+1. `TR_PROJECTID` : the unique identifier for your TestRail project
+1. `TR_SUITEID` : the unique identifier for the test suite from your project (by default a project is set up with only one test suite)
+1. `TR_RUN_NAME` : the name that you would like to see in TestRail for this run
+1. `TR_INCLUDE_ALL` : **true** if you want to run all test cases in the test suite || **false** if you want to run a subset of test cases available in your test suite
+1. `TR_GROUPID` : the unique identifier of your section/group of automated tests in your test suite
+1. `TR_FILTER` : a string to match the names of your test cases to (even if you don't want to filter, you must include this variable set to an empty string)
 ```
 export TR_USER=<your-testrail-email-here> TR_API_KEY=<your-API-key> TR_PROJECTID=<your-projectid> TR_SUITEID=<your-suiteid> TR_RUN_NAME=<human readable name> TR_INCLUDE_ALL=<TRUE/FALSE> TR_GROUPID=<subset of test cases collected into group> TR_FILTER=<a string to filter on (can be blank)>
 ```
