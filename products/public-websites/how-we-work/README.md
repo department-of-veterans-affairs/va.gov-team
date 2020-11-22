@@ -14,10 +14,19 @@ https://github.com/department-of-veterans-affairs/va.gov-team/projects/15
 
 - [Decision Tools](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/decision-tools)
 
-### Our Delivery Process
+### Our Product Delivery Process
 Live Google Sheets version: https://docs.google.com/spreadsheets/d/1izUIMwzl7NRvNwX5jddgUEAX-AlRODa_HEASg4eav6A/edit?usp=sharing
 
 <img width="812" alt="Screen Shot 2020-11-16 at 5 12 43 PM" src="https://user-images.githubusercontent.com/63107147/99314402-0f49c980-282f-11eb-8048-e92894885395.png">
+
+
+### How We Manage Our Products
+
+- Product Performance Dashboards (OKRs, KPIs)
+- Product Guides (How This Works)
+
+### Role of the Agile Team Product Manager
+
 
 ### Role of the DEPO Product Owner (Credit: Andrew Fichter)
 
