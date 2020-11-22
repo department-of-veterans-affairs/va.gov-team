@@ -2,13 +2,15 @@
 
 | Phase                   | Task                              | Who                       | When                    | Status        |      
 | -------------           | -------------                     | -------------             | -------------           | ------------- |                          
-| <b>Define<b>            | Kickoff/Design intent             | Platform-Product          | June 2020               | DONE          |            
+| <b>Define<b>            | Kickoff/Design intent             | Platform-Product          | June                    | DONE          |            
 | <b>Discover<b>          | Usability                         | Product                   | N/A                     | SKIPPED       |
 | <b>Build<b>             |                                   |                           |                         |               |
-|                         | CMS Conent Panels (Required)      | CMS-Product               | Nov-Dec 2020            | IN PROGRESS   |    
-|                         | CMS Content Panels (Optional)     | CMS-Product               | Dec-Jan 2020            |               | 
-|                         | CMS Content Panels (Optional      | CMS-Product               | Dec-Jan 2020            |               |      
-| <b>Validate<b>          | TBD                               | TBD                       | TBD                     |               |
-
+|                         | CMS Conent Panels (Required)      | CMS-Product               | Nov-Dec                 | IN PROGRESS   |    
+|                         | CMS Content Panels (Optional-1)   | CMS-Product               | Dec-Jan                 |               | 
+|                         | FE Development                    | CMS-Product               | Jan-Feb                 |               |      
+| <b>Validate<b>          |                                   |                           |                         |               |
+|                         | User/Stakeholder Testing Rd.1     | Product-CMS               | Jan-Feb                 |               |
+|                         | User/Stakeholder Testing Rd.2     | Product-CMS               | Jan-Feb                 |               |
+| <b>Deploy<b>            |                                   |                           |                         |               |
       
 
