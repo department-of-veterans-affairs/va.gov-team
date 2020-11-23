@@ -67,6 +67,7 @@ Sentry Error Links:
 - List out tickets created during Hackathon here
 - [CODEOWNERS file changes for VSP Identity #16228](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16228)
 - [SSOe Errors](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16388)
+- [Failed to fetch errors](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15883)
   
 ## Closing Remarks and Feedback
 - Add feedback here, improvements for next hackathon, current status of sentry error cleanup
