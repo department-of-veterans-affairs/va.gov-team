@@ -52,7 +52,14 @@ What is LC?
 - [ ] Rachael schedule follow up with Kevin H and Jeff B to better define possible CMS/Design System/FE Tool initiatives prior to roadmapping
 
 ## Initiatives that would need cross-collaboration
-- 
+1. Web components
+1. Parent and child design system model
+1. A “ship it to everywhere at once” feature for new design system components
+1. A “greatest hits” audit + revision initiative to make content and react experiences consistent for top priority parts of VA.gov 
+1. Full site preview functionality for content editors
+1. Broken link prevention and resolution
+1. Redirect strategy
+1. CMS-related VFS interactions in collab cycle
 
 # Chatbot
 
