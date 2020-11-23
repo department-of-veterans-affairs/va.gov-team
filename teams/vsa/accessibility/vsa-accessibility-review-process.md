@@ -25,6 +25,8 @@ VSA has additional collaboration and review options to support teams in ensuring
 * [Small projects](#small-projects)
 
     * [Feature workflow](#feature-workflow)
+    
+* [Product reviews](#product-reviews)
 
 * [Design reviews](#design-reviews)
 
@@ -88,6 +90,12 @@ VSA has additional collaboration and review options to support teams in ensuring
 * **Design & research** - Once design or research plan is ready, request an accessibility review by messaging Jennifer. Together we'll discuss any recommendations, concerns, and next steps. This may be async or a meeting, depending on the needs.
  
  * **Front-end development** - Before coding any designs, check with accessibility for semantic markup guidance and any known concerns. Conduct manual and automated testing as documented in the [Accessibility Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md). Larger accessibility audits, such as Staging Review and Full Accessibility & 508 Office Audit, are part of the VSP Collab Cycle. When bandwidth allows, the accessibility specialist may provide spot checks of work ahead of these audits.
+
+<hr>
+
+## Product reviews
+
+While the team is crafting their product outline at the start of a project, this is a good time to collaborate with the VSA accessibility specialist. There area couple of templates, the [accessibility testing plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/product/test-plan.md) and [use cases ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/product-use-cases-template.md#product-use-cases-template) that are recommended to pair with each product outline. This is when it's a good time to discuss potential inclusive design needs and providing guidance for the team to ensure the outcome is accessible.
 
 <hr>
 
