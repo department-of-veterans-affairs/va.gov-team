@@ -126,13 +126,54 @@ Probe for va.gov look and feel
 
 # Additional topics for roadmap
 
-If time allows we may also discuss three additional topics - both asking questions and sharing early concepts for feedback.
+If time allows we may also discuss the topics below - both asking questions and sharing early concepts for feedback.
 
-- Authentication: How users feel the need to sign it affects the IRIS experience (showing mockup)
+**Authentication**
 
-- GI Bill: How users feel about having 2 forms vs one consolidated form for GI Bill and IRIS inquiries and how confusing it might be (may be question vs. mockup)
+*How do users feel the need to sign it affects the IRIS experience?* 
 
-- Secure Messaging: How users feel about the simplified approach we have (showing mockup)
+We have a few approaches we want to share with you about how a logged in experience (where you have to provide your username and password) might look like; some of the areas in the VA require it and so we want to see how this might be made easy for you.  The benefits of authentication is that you wouldn’t have to fill in as many fields - it would pre-populate with your VA profile.   So we want to explore this and have a few early ideas here.
+
+- One option has authentication the topic level in the drop down menu and then you sign in as necessary.
+- One option has the ‘select administration’ segmentation outside of a drop down and then sign in 
+
+Questions:  
+- Do you have a preference of which approach? Why or why not?
+- Does having to authenticate discourage you from completing the form? If yes, what your next step be to resolve it (probe for phone or email)
+
+**Form consolidation of IRIS and GI Bill**
+
+*Do users prever to have the GI BIll contact us form integrated into IRIS?*
+
+Hypothesis - users are wiling for now to have TWO places to view messaging - MHV/’medical stuff’ in one place and IRIS/GI Bill in another.
+
+Have you used the GI BIll or access GI Bill related content on the va.gov site? (if yes, ask question)
+
+Show me where you would go to find GI BIll related help  (should be https://gibill.custhelp.va.gov/app/home) 
+
+Do you remember where to go? Is there a preference for all in one place (all in IRIS)?
+
+Have a mockup (or in staging) showing GI BIll topics integrated into the IRIS page - and get feedback on preference on that experience vs. current state separate part of VA.gov
+
+The idea is that there would be two experiences: 
+-MHV would be logged in and messaging
+- IRIS would be the main contact form and Gi BIll, and the ability to see inquiries/messages you’ve sent the VA. Would you prefer having IRIS and GI BIll together - why or why not?
+
+
+**Secure Messaging**
+
+*Do users want a secure messaging system - and if so, is a simple messaging design sufficient to meet their needs?*
+
+Issues:
+A basic secure messaging alternative to a secure messaging tool
+Build a tabular view to display all messages received by the user  
+
+We are exploring having a way to send messages back and forth between users and the VA - and have a design we want to run by you.
+You would be able to view your inquiry history with the VA - this is similar to the GI Bill way it is in GI Bill.
+Is this right amount of information to see for messages?
+There are also ways to make this more like traditional email (with the ability to have folders etc.). Would you find that useful, why or why not? 
+MHV would be separate from this.  Would that be ok - why or why not? 
+
 
 
 # Closing
