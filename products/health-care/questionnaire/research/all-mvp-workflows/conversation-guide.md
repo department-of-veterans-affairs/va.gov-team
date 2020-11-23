@@ -159,9 +159,9 @@ _(Only ask this if the participant hasn’t completed Scenario 1 yet)_<br/>
 Click on the “View and print questions” button, what are your impressions of this PDF?
 - @abuckley: Did you have particular questions about the demo banner that you wanted to ask?
 - When (if at all) would you view this PDF? When (if at all) would you print this PDF?
-- Would you want any additional information added to this PDF?<br/>
+- Would you want any additional information added to this PDF?
 <br/>
-Ask to all participants.
+Ask to all participants.<br/>
 - Would you want to see questionnaire responses over time?
 	- When?
 	- What is the questionnaire resulted in a score? Would you be interested in seeing your score over time?
