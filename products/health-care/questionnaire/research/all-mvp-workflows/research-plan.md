@@ -68,5 +68,5 @@ Pilot Session: Day, ? | ?am - ?pm EST
 
 ## Resources	
 - [Project Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/product-outline.md)
-- [Conversation Guide]()
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/all-mvp-workflows/conversation-guide.md)
 - [Research Findings]()	
