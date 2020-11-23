@@ -1,5 +1,12 @@
 ## Status/decisions
 
+### Week of 11/23/2020
+
+- In kickoff session held on 11/23 with Jenny Heiland-Luedtke and Jeffrey Grandon, the following points came-up:
+  - How will URl be specified?  Sometimes, they are asked to use a specific naming convention -- eg. agency.gov/hurricaneiris/ (Jenny conceded that redirects can be used to handle these)
+  - Can we make sure to include Open Graph tags to ensure a unique image -- at the very least, the hero image  (vs. the standard VA logo) -- can be used when sharing the CLP.
+  - Can we consider enabling the ability to publish a multi-language (in particular Spanish, followed by Tagalog) version of a CLP?
+
 ### 11/19/2020
 
 - Completed round-one of [top-line Q-and-As related to CMS-Content rigidity](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/content-requirements-spec/cms-content-model-and-rigidity.md) -- needed to keep CMS devs on track for Nov-Dec sprint work.
