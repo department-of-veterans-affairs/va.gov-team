@@ -53,3 +53,23 @@ What is LC?
 
 ## Initiatives that would need cross-collaboration
 - 
+
+# Chatbot
+
+## Questions
+
+- Any plans for Q1 planning?
+
+- Do you currently use terminology like "user" or "customer"?
+
+- How might we agree on priorities?
+
+- How might chatbot fit in (or not) to the collaboration cycle?
+
+## Action items
+- [ ] 
+
+## Initiatives that would need cross-collaboration
+- 
+
+# Chatbot
