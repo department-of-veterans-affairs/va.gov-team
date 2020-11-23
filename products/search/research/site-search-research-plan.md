@@ -19,15 +19,17 @@
    - What are people searching for on VA.gov? 
    - How effective is VA.gov's search tool at providing the information people are seeking?
    - At what point in their visit do Veterans use site search?
+   - Do veterans see where they can use search? Or is the hidden input box make it harder to find and to utilize?
    - How can search results be improved to improve scanning behavior?
    - How do Veterans scan search results?
    - Is there a cognitive disconnect and/or issues for folks that the search results use such a tiny font compared to the rest of the site?
    - Do people understand the difference between “top recommendations” and the rest of the results and what are their thoughts on that?
    - Do people utilize or see “More VA search tools”? (get some data on the right rail)
+   - Do veterans know about other search utilities - find a facility, yellow ribbon
    - How is the search experience different for Veterans across benefit hubs?
-   - How do Veterans perceive of the search experience on VA.gov?
+   - How do Veterans perceive the search experience on VA.gov?
    - What, if any, pain points do Veterans experience when using search?
-   - How do those painpoints differ from mobile to desktop?
+   - How do those pain points differ from mobile to desktop?
    - What, if any, advanced search features do Veterans expect? (refinements, type ahead, etc)
    - Where do Veterans look for information if they don't find it via VA.gov search?
    - How do you see VA.gov search separate from google?
@@ -48,13 +50,13 @@
 
    - Veterans will go to a search engine or decide to engage with a person if they don't find what they're looking for via site search.
 
-   - Veterans will use site search immediately when coming to VA.gov with task in mind, especially if they have not completed that task recently (or ever).
+   - Veterans will use site search immediately when coming to VA.gov with a task in mind, especially if they have not completed that task recently (or ever).
 
    - Veterans use Google and online groups (such as Facebook or Reddit) for broader queries, and they come to VA.gov with more specific information in mind found through those other avenues.
 
    - Veterans likely won't pay attention to the label `Top Recommendations`; if they do, they won't understand it means.
 
-   - Benefits that have a clear associated task, such as, disability (filing a claim) are easier to navigate via search than education or another benefit that has multiple, or less clear, outcomes.
+   - Benefits that have a clear associated task, such as disability (filing a claim) are easier to navigate via search than education or another benefit that has multiple, or less clear, outcomes.
 
    - The way our search engine works is not up to people's expectations.
 
