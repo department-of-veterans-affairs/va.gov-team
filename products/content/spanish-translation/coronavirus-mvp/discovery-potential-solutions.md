@@ -43,6 +43,7 @@ Below are descriptions of potential solutions recommended by colleagues at DEPO 
 http://tiny.cc/0f71tz
 - https://user-guides.prismic.io/en/collections/22473-multi-language-localization
 - https://prismic.io/feature/localization-and-multilanguage
+- See POC in action here: https://github.com/department-of-veterans-affairs/va.gov-team/issues/15568
 
 ## [SYSTRAN](https://www.systransoft.com/)
 - 
