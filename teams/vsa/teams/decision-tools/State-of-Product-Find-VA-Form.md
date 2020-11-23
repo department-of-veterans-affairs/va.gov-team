@@ -19,6 +19,7 @@ Over the next 6-8 weeks, the team expects to remediate serious accessibility def
 Our near-term work will require coordination with the following teams:
 |Team|How Impacted  |
 |--|--|
+| Accessibility | Reviewing and approving 508 fixes  |
 | Search and Discovery | Determining how primary search should be associated with Find a VA Form search  |
 |  Public Websites|Occasional guidance from Nick and Kelson related to the Lighthouse API|
 |QA|Guidance on using TestRail, testing new features |
