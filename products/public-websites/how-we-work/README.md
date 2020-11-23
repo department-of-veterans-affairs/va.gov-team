@@ -19,11 +19,15 @@ Live Google Sheets version: https://docs.google.com/spreadsheets/d/1izUIMwzl7NRv
 
 <img width="812" alt="Screen Shot 2020-11-16 at 5 12 43 PM" src="https://user-images.githubusercontent.com/63107147/99314402-0f49c980-282f-11eb-8048-e92894885395.png">
 
-
 ### How We Manage Our Products
 
-- Product Performance Dashboards (OKRs, KPIs)
 - Product Guides (How This Works)
+  - Product Performance Dashboards (OKRs, KPIs)
+- Quarterly Product Reviews
+
+### Roadmap Process
+
+- 
 
 ### Role of the Agile Team Product Manager
 
