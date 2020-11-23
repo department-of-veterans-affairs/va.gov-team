@@ -1,6 +1,6 @@
 # Summary of Identity Team Sentry Error Hackathon November 2020
 
-## Intro the overall event and why I wanted to have it
+## Intro the overall event and why we wanted to have it
 - Lots of noise
 - Lack of knowledge about errors by new team members
 
