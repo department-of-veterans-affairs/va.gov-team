@@ -4,7 +4,8 @@
 ### **Project-specific setup**
 
 - Make sure you are allowing sharing!
-- Make sure to confirm we have the right email address for the white listing
+- Make sure to confirm we have the right email address for the white listin
+- For debugging https://api.va.gov/v0/user
 
 - Sign into VA.gov through DS Logon
 - We will be having users share their screens (after they have logged on) and submitting a HLR.
