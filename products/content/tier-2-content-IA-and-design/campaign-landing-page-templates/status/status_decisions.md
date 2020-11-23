@@ -3,7 +3,7 @@
 ### Week of 11/23/2020
 
 - In kickoff session held on 11/23 with Jenny Heiland-Luedtke and Jeffrey Grandon, the following points came-up:
-  - How will URl be specified?  Sometimes, they are asked to use a specific naming convention -- eg. agency.gov/hurricaneiris/ (Jenny conceded that redirects can be used to handle these)
+  - How will URL be specified?  Sometimes, they are asked to use a specific naming convention -- eg. agency.gov/hurricaneiris/ (Jenny conceded that redirects can be used to handle these)
   - Can we make sure to include Open Graph tags to ensure a unique image -- at the very least, the hero image  (vs. the standard VA logo) -- can be used when sharing the CLP.
   - Can we consider enabling the ability to publish a multi-language (in particular Spanish, followed by Tagalog) version of a CLP?
 
