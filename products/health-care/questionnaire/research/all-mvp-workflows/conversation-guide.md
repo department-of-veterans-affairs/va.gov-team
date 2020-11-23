@@ -76,10 +76,10 @@ I'm going to send you a link in the chat.
 
 [Mobile Prototype with Email option]()<br/>
 [Mobile Prototype with Text option]()<br/>
-
-### Scenario 1
 _Send half of participants the email example and send half a text example._
 
+
+### Scenario 1
 Don’t click on anything yet. Just read the notification. 
 - What are your impressions of this notification?
 - Why do you believe that you would have been sent this notification?
