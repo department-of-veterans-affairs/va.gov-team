@@ -21,13 +21,19 @@ Live Google Sheets version: https://docs.google.com/spreadsheets/d/1izUIMwzl7NRv
 
 ### How We Manage Our Products
 
-- Product Guides (How This Works)
-  - Product Performance Dashboards (OKRs, KPIs)
+- Product Guides 
+  - The Problem
+  - The Solution
+  - The Success Metrics (OKRs, KPIs, Dashboard link)
+  - How It Works (System Diagram, Technical Description, Tech Doc Links)
+  - How It Is Maintained (e.g., Data feeds, Content updates, etc.)
+
 - Quarterly Product Reviews
 
 ### Roadmap Process
 
-- 
+- Annual process in November-December
+- Quarterly updates in March, June, September
 
 ### Role of the Agile Team Product Manager
 
