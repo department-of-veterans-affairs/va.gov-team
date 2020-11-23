@@ -8,10 +8,10 @@
 3) Downtime integration
 
 ## Frontend
-- [ ] [Frontend work to support secondary caregiver only applications](ticket)
-- [ ] [Set up & test downtime on 10-10CG](link)
-- [ ] [Unnest secondary caregiver 1 & 2](link)
+- [ ] [Frontend work to support secondary caregiver only applications](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15160)
+- [ ] [Set up & test downtime on 10-10CG](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15753)
 - [ ] [Look into unnesting recent medical care questions in schema](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15160)
+- [ ] [Unnest secondary caregiver 1 & 2]
 
 
 ## Backend
