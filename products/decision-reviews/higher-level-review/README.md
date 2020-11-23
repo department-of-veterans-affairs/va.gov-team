@@ -113,7 +113,9 @@ Service members being able to apply for their first VA benefits on VA.gov versus
 - % of "rejected" HLR claims (input KPI)
 
 ### Baseline KPIs
-- TBD
+- HLR Submissions: Total HLR EPs established FY 2020 through July.
+- HLR ADC: Monthly and FYTD average days pending, through July.
+- HLR Grant Rates: Grant rates, from PA&I’s monthly AMA Reports website.
 
 ## Key Results (KRs)
 
