@@ -65,7 +65,21 @@ What is LC?
 
 ## Questions
 
-- Is Chatbot in fact a VSP product? 
+- Is Chatbot in fact a VSP product?
+  - It's something that just sort of happened, was there an evaluation as to why it's VSP vs VFS?
+  - It's a Veteran-facing tool
+  - We would want VFS teams contributing to it (as in as they launch products, if it makes sense to have support for theirproduct through the chatbot)
+  - We don't know yet how it's going to grow and eveolve, and in what situations it'll be the most helpful
+  - Contact Center work has been mostly platform, bc the delivery of contact center data and that coordination is more helpful through the platform hub
+  - Chatbot may not fall into that place
+  - This may be a platform produc if the chatbot will be trained in a specific way to answer things if it's on the Health Care Application vs the Home Loan page for example, because then it would be more of a component that VFS teams may want to use in their solutions.
+  - Dennis would think of this as a platform product "here's a feature, you can use this bot wherever you need to on your page"
+  - DEPO looks at it as in: we have ONE chatbot you can interact with when you're on VA.gov, and VFS teams can say "it would be nice if this function were a part of the chatbot" and then the Chatbot team can decide whether that's something they could train the chatbot to be hepful for.
+  - If you have a bunch of separate bots, you can't control the trainability.
+  - A chatbot that anyone can pick up and use anywhere could result in chaos
+  - Maybe this is more of a VFS product than a platform product...
+  - At the end of the day, the chatbot's main user is a Veteran
+  - This doesn't mean it wouldn't be a part of the collab cycle, like we can point VFS teams to the chatbot intake form if they need to get it trained for their product's needs or something
 
 - Any plans for Q1 planning?
 
@@ -74,6 +88,15 @@ What is LC?
 - How might we agree on priorities?
 
 - How might chatbot fit in (or not) to the collaboration cycle?
+
+- What's happening w/chatbot rightnow?
+  - VEO believes bot ought to open up to questions. Can ask a Q to it.
+  - Architect of BE wants first iteration which takes you to a live chat, real human component. So 3 prongs: IVR team, live chat, chatbot AI (which will also send you to a human but will attempt to answer your Qs first).
+  - DEPO wants to have more influence on the AI part of the chatbot.
+
+- Can we connect analytics from Microsoft into DOMO
+  - Current covid chatbot info measured in DOMO
+  - Future, at some point Azure for machine learning and PowerBI
 
 ## Action items
 - [ ] 
