@@ -15,7 +15,7 @@
 
 
 ## Backend
-- [ ] Merge secondary caregiver work
+- [x] Merge secondary caregiver work
 - [ ] Connect to CARMA in Review Instance (*requires support from Platform)
 - [ ] [Attempt resubmission of PDF on failure](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15147)
 - [x] Add filters to Form 10-10CG Logging
