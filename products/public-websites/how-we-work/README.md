@@ -27,6 +27,7 @@ Live Google Sheets version: https://docs.google.com/spreadsheets/d/1izUIMwzl7NRv
 
 ### Role of the Agile Team Product Manager
 
+- TBD
 
 ### Role of the DEPO Product Owner (Credit: Andrew Fichter)
 
