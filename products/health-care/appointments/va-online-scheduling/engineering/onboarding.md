@@ -19,7 +19,7 @@ We use a combination of Github and JIRA. Most of our issues and backlog will alw
 
 ### Getting Access to DSVA Slack
 
-Please provide your team lead or PM, Kam or Lenae, with the email address you wish to use. They will submit a request to add you as either a limited participant or full member to the DSVA slack community. 
+Please provide your team lead, Kam or Lenae, with the email address you wish to use. They will submit a request to add you as either a limited participant or full member to the DSVA slack community. 
 
 For example, if I was submitting a request for myself I would provide: "kam@adhocteam.us" as my email as that is the email I most commonly use for business purposes.
 
