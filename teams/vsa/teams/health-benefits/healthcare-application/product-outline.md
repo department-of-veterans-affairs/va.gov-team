@@ -26,14 +26,23 @@
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-* ~Number of completed online applications~
-* Number of people who start the form who complete it
+
+
+
+* How many Veterans are looking at the How to Apply page?
+* How are Veterans getting to the How to Apply page?
+* How many Veterans are completing and submitting the form online? 
+* How does form completion compare to other forms on VA.gov?
+* How many Veterans start the form but don’t complete it?
+* Are there any points within the form where Veterans tend to get stuck?
+* How are Veterans rating their experience using the form?
+* How long does it take Veterans to fill out the online form?
+* How many Veterans start filling out the form, save their progress, and then come back to it?
+* What places in the form do Veterans tend to step away?
+* How many Veterans don't complete the form after saving one in progress?
+Stretch: 
 * Proportion of eligible veterans that apply online
 * Proprotion of applications submitted online vs. on paper
-* Steepess of drop off points along the application
-* Time to complete online form
-* Veteran experience (Foresee data/call center data)
-* https://va-gov.domo.com/page/290380612?userId=1492182741
 
 #### Baseline KPI Values
 * Coming soon
