@@ -10,7 +10,7 @@
 | <b>Development<b>  |50% Complete/Hold                  | 90% Complete/Hold         | 50% Complete/Hold       | 90% Complete
 | <b>Staging Review/Q-A<b> | TBD                         | TBD                       | TBD                     | TBD
 | <b>Site Links(PW)<b>   | In progress                       | In progress               | In progress             | In progress
-| <b>Target Launch Date<b>        | December (BDD)                          | December (HLR)                 | Mid-late Jan             |Ch 31 (Early Dec), Ch 36 (Jan 4)
+| <b>Target Launch Date<b>        | December (BDD)                          | December (HLR)                 | Mid/Late Jan             |Ch 31 (Early Dec), Ch 36 (Jan 4)
 
 
 ## Reference Links
@@ -19,10 +19,11 @@
 - Additional UX guidance captured in [UXPin documentation](https://preview.uxpin.com/ca08f3dbf63475b2b62f3e8c00050ad1b19c4cb5#/pages/132986657/documentation/no-panels?mode=i) (using Edu flow as an example)
 - Content outlines of wizard user flows
     - [Education wizard content outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/content-outlines/education-forms-wizard.md)
+       - [Development Guide Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16473)
      - [Disability wizard content outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/content-outlines/disability-form.md)
+       -  [Development Guide Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16517)
      - [Chapter 31 wizard content outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/content-outlines/chapter%2031-form-wizard.md)
      - Chapter 36 wizard content outline coming soon
-     - Higher Level Review wizard content outline coming soon
 - [Usability Study Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/files/5548107/Wizard.Migration.Usability.Study.Synthesis.pdf)
 - [Updated Analytics Data Layer Implementation spec](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/tracking-how-to-wizards.md)
   
