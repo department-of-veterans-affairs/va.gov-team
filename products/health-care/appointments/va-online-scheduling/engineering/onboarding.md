@@ -35,9 +35,9 @@ Please provide Kam or Lenae the following:
 
 First familiarize yourself with the high level overview of best practices for your respective engineering discipline:
 
-[Front End Onboarding Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/back_end_eng_practices.md)
+[Front End Onboarding Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/front_end_eng_practices.md)
 
-[Back End Onboarding Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/front_end_eng_practices.md)
+[Back End Onboarding Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/back_end_eng_practices.md)
 
 Next you'll want to get your local stack setup. Front engineers will most likely need both the backend and the frontend stacks available. It's advisable to have both of these setup though for all disciplines. Instructions and additional resources for contributing to the platform can be found here:
 
