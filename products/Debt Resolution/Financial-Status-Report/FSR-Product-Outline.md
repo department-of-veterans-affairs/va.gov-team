@@ -46,15 +46,21 @@ Since the form and letter are confusing, the contact center gets many calls with
 
 -<15% abandon rate from start of form, but track 48 hours after form start since there is save in progress option
 
+-Track how long it takes to complete the form and where Veterans abandon 
+
 -Would like to measure how many FSR forms are returned for corrections - will need DMC tracking on this 
 #### Baseline KPI Values
  Since the suspension of debt collection for covid-19 global pandemic the historical baseline values may be skewed as the debt suspension for the pandemic. 
 
-**FSR requests** per month -3100 per month (at a minimum)
-**Compromise requests** and approval ratio -Compromises: 122 average per month -Approval: 29%
-**Waiver requests** and approval ratio -3800 per month received-2500 per month granted-65% granted
-**What % of our addresses are correct?** -Bad address mail – 10,409 average per month
-**How many addresses changes do we get a month?** -3,896 average per month
+-**FSR requests** per month -3100 per month (at a minimum)
+
+-**Compromise requests** and approval ratio -Compromises: 122 average per month -Approval: 29%
+
+-**Waiver requests** and approval ratio -3800 per month received-2500 per month granted-65% granted
+
+-**What % of our addresses are correct?** -Bad address mail – 10,409 average per month
+
+-**How many addresses changes do we get a month?** -3,896 average per month
 
 ### Objectives and Key results (OKRs)
 
