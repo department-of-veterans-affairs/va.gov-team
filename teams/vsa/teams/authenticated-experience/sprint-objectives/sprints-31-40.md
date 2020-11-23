@@ -283,9 +283,9 @@ Don't include if this is done before the sprint:
 
 ## Sprint 36 (12/2 – 12/15)
 
-### My VA redesign
+Anything outstanding from sprint 35, plus:
 
-**PM**
+### My VA redesign
 
 **Design**
 
