@@ -2,8 +2,8 @@
 
 ## Quick links
 
-- [Research plan]()
-- [Conversation guide]()
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/all-mvp-workflows/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/all-mvp-workflows/conversation-guide.md)
 - [Session notes]()
 - [Research report]()
 - [Participants](#participants)
