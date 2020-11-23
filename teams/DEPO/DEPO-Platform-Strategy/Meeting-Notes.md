@@ -58,6 +58,8 @@ What is LC?
 
 ## Questions
 
+- Is Chatbot in fact a VSP product? 
+
 - Any plans for Q1 planning?
 
 - Do you currently use terminology like "user" or "customer"?
