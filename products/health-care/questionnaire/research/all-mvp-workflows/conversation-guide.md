@@ -102,7 +102,7 @@ On the Introduction page, take some time now to review this page.
 	- What are your thoughts about the information provided?
 	- Is there any other information we should include here?
 
-_(_Only ask this group of questions if participant hasn’t completed Scenario 2a yet.)_<br/> 
+_(Only ask this group of questions if participant hasn’t completed Scenario 2a yet.)_<br/> 
 On the confirmation page, 
 - What are your impressions of this page?
 - Which of the buttons on the page would you most likely be interested in viewing next? 
@@ -159,7 +159,7 @@ _(Only ask this if the participant hasn’t completed Scenario 1 yet)_<br/>
 Click on the “View and print questions” button, what are your impressions of this PDF?
 - @abuckley: Did you have particular questions about the demo banner that you wanted to ask?
 - When (if at all) would you view this PDF? When (if at all) would you print this PDF?
-- Would you want any additional information added to this PDF?
+- Would you want any additional information added to this PDF?<br/>
 
 - Would you want to see questionnaire responses over time?
 	- When?
