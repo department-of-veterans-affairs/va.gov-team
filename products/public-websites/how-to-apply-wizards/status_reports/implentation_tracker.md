@@ -10,7 +10,7 @@
 | <b>Development<b>  |50% Complete/Hold                  | 90% Complete/Hold         | 50% Complete/Hold       | 90% Complete
 | <b>Staging Review/Q-A<b> | TBD                         | TBD                       | TBD                     | TBD
 | <b>Site Links(PW)<b>   | In progress                       | In progress               | In progress             | In progress
-| <b>Target Launch Date<b>        | December (BDD)                          | December (HLR)                 | TBD             |Ch 31 (Early Dec), Ch 36 (Jan 4)
+| <b>Target Launch Date<b>        | December (BDD)                          | December (HLR)                 | Mid-late Jan             |Ch 31 (Early Dec), Ch 36 (Jan 4)
 
 
 ## Reference Links
