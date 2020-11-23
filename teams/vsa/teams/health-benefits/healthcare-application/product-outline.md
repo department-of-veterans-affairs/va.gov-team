@@ -40,9 +40,9 @@
 * How many Veterans start filling out the form, save their progress, and then come back to it?
 * What places in the form do Veterans tend to step away?
 * How many Veterans don't complete the form after saving one in progress?
-Stretch: 
-* Proportion of eligible veterans that apply online
-* Proprotion of applications submitted online vs. on paper
+* Stretch: 
+    * Proportion of eligible veterans that apply online
+    * Proprotion of applications submitted online vs. on paper
 
 #### Baseline KPI Values
 * Coming soon
