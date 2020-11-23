@@ -1,4 +1,4 @@
-# Accessibility Resources for Product
+# Accessibility Guidance for Product
 
 1. Define accessibility as a business requirement from the start.
 
