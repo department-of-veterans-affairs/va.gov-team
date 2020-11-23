@@ -113,25 +113,28 @@ Service members being able to apply for their first VA benefits on VA.gov versus
 - % of "rejected" HLR claims (input KPI)
 
 ### Baseline KPIs
-- HLR Submissions: Total HLR EPs established FY 2020 through July.
-- HLR ADC: Monthly and FYTD average days pending, through July.
-- HLR Grant Rates: Grant rates, from PA&I’s monthly AMA Reports website.
+- HLR Submissions: Total HLR EPs established FY 2020 through July. Average: 7k a month
+- HLR ADC: Monthly and FYTD average days pending, through July. 
+- HLR Grant Rates: Grant rates, from PA&I’s monthly AMA Reports website. Average 17.1%
 
-## Key Results (KRs)
+Note: I thought average grant rate for HLR was much higher - where did we hear this?
 
-1. TBD
-
+Details Here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/higher-level-review/metrics/HLR_FY2020.xlsx
 --- 
 
 ## Go-to-market Strategy
+1. Banner on eBenefits
+2. Ads in Miltary Times Magazine
+3. TAP
 
 ## Launch Date
 - *Target Launch Date*
   - November for UAT
+  - Early December for Launch
 - *Actual Launch Date*
-  - tbd
+  - Early December
 - *What date will you evaluate impact after launch?*
-  - tbd
+  - End of January
 
 ---
 ## Results and Recommendations
