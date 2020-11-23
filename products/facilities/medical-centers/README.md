@@ -2,9 +2,9 @@
 
 This product folder contains all research, design, engineering, and product documentation about the new VAMC Facility Site product. It also includes documentation about scaling the product to upgrade all VAMC websites to the new product design.
 
-**Product owner:** Jenny Heiland-Luedtke (Jennifer.Heiland-Luedtke@va.gov) VHA Digital Media, 
+**Product owner:** Dave Conlon (David.Conlon@va.gov), DEPO
 
-**Supporting product owner:** Dave Conlon (David.Conlon@va.gov), DEPO
+**Business stakeholder:** Jenny Heiland-Luedtke (Jennifer.Heiland-Luedtke@va.gov) VHA Digital Media 
 
 ## VAMC upgrade work - July 1, 2020 thru Sep. 30, 2020
 
