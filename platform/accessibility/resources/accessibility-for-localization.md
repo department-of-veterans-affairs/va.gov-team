@@ -23,12 +23,19 @@ Adding a placeholder to collect notes from early discussion with DEPO Content Le
   </a>
   ```
   
-* We'll also want to make sure that `aria-labels` contain full phrases so that the text translates accurately. For example, if a button's visible text is "Enroll now," the aria label text should include "Enroll now in VA health care."
+* We'll also want to make sure that `aria-labels` contain full phrases so that the text translates accurately. For example, if a button's visible text is "Submit my application", the aria label text might be "Submit my application for education benefits".
 * Accessibility experts can provide more guidance for how to make translated content successful for screen readers.
-* We can also wrap individual pieces of translated content in `"lang-es"` so that screen readers will use the right pronunciation to read the translated text. We are going to try this in a test environment for the block of helper text on [va.gov/health-care/how-to-apply](va.gov/health-care/how-to-apply).
-  * https://codepen.io/tpierce_402/full/wvWZJdB offers two "How to apply" content blocks
-    * The first expandable section has `lang="es"` on the container. This causes screen readers to change their pronunciation and inflection to better localize the Spanish content.
-    * The second content block will be read as Spanish, but the screen reader will attempt to pronounce words as English.
+* We can also wrap content in localized containers: 
+  ```html
+  <!-- This content will be read in Spanish -->
+  <div lang="es">
+    Localized Spanish content
+  </div>
+  ````
+  We are going to try this in a test environment for the block of helper text on [va.gov/health-care/how-to-apply](va.gov/health-care/how-to-apply).
+  * https://codepen.io/tpierce_402/full/wvWZJdB offers two **"How to apply"** content blocks
+    * The first expandable section has `<div lang="es">` declared on the container. This causes screen readers to change their pronunciation and inflection to  localize the Spanish content.
+    * The second content block will be read as Spanish, but the screen reader will attempt to pronounce words in English.
   * We should be using the `lang` attribute on containers when we change languages for part of a page
   * We should be using the `lang` attribute on the HTML tag when an entire page is in a single language. Examples:
     * Default: `<html lang="en">` for pages in English
