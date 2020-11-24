@@ -21,7 +21,7 @@ Live Google Sheets version: https://docs.google.com/spreadsheets/d/1izUIMwzl7NRv
 
 ### How We Manage Our Products
 
-- Product Guides 
+- State of the Product (with following additional components) [Note: This is different from a Product Guide for Customer Care]
   - The Problem
   - The Solution
   - The Success Metrics (OKRs, KPIs, Dashboard link)
