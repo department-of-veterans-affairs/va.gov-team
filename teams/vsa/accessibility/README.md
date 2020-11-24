@@ -37,7 +37,7 @@ We'd like to know if the documentation is meeting your needs, and welcome your f
 
 #### [Product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/product)
 * Define accessibility as a business requirement from the start.
-* Ensure the team has sufficent accessibility expertise.
+* Ensure the team has sufficient accessibility expertise.
 * Plan for inclusive research.
 * Meaningfully measure, monitor, and evaluate success goals, including accessibility and Section 508 compliance.
 
