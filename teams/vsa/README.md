@@ -9,7 +9,7 @@
 - [#vsa-benefits-memorial](https://dsva.slack.com/channels/vsa-benefits-memorial)
 - [#vsa-vamc-upgrade](https://dsva.slack.com/channels/vsa-vamc-upgrade)
 - [#vsa-bam-2](https://dsva.slack.com/channels/vsa-bam-2)
-- [#vsa-decision-tools](https://dsva.slack.com/channels/decision-tools)
+- [#vsa-decision-tools](https://dsva.slack.com/channels/vsa-decision-tools)
 - [#vsa-facilities](https://dsva.slack.com/channels/vsa-facilities)
 - [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites)
 - [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)
