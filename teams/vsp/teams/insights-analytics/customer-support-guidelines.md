@@ -8,11 +8,14 @@ Resources: Please see the [Team Charter](https://github.com/department-of-vetera
 
 ## Rotation Responsibilities
 
-If you are on Rotation, you are responsible for responding to customer inquiries & requests within the business day (your time zone):
+If you are on Rotation, you are responsible for 
+- Updating the [customer support tracker](https://www.google.com/url?sa=t&rct=j&esrc=s&source=appssearch&uact=8&cd=0&cad=rja&q&sig2=cbQjnVK0JLUOHGGqJ6Y92w&ved=0ahUKEwjy6MSzopztAhWxQKsCHdWmCeM4ABABKAAwAA&url=https://drive.google.com/a/adhocteam.us/open?id%3D1BmFJKmkJsgXaj_kebn16veLVJ5H52wlCjmbpS5JdXKo%26usp%3Dchrome_omnibox&usg=AOvVaw3M4ssAuoz4H98w0TKceJzJ) with new requests from the week
+- Updating the #vfs-platform-support Slack channel description with your name
+- responding to customer inquiries & requests within the business day (your time zone):
 
 **Slack**
 
-- Responding to Slack messages.
+- Update the support tracker with new requests and update your- Respond to Slack messages.
 
   - The customer should have a response within 2-3 hours during the business day.
   - These channels should be monitored: `#vfs-platform-support`, `#vfs-analytics`, `#vsp-analytics`
@@ -33,9 +36,12 @@ Here are some responses you can copy and paste:
 - "Hey [@username], thanks for sending this over. Can you please submit this as a Github issue using this template [add template link], and we'll be able to take a look at it this week."
 - "Hey [@username], thanks! Can you please submit this as a Github issue using this template [add template link], and we'll get back to you on this."
 
+*Slackbot*
+- A VSP slackbot is currently piloting with the VSP engineering teams. We will look to change our customer support cadence once we are able to use the bot. [Github documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/customer-support-tracking)
+
 **Zenhub**
 
-- Monitoring the Github Project Board/Zenhub for new access/offboarding issues.
+- Monitor the Github Project Board/Zenhub for new access/offboarding issues.
   - If one of the following requests is made, please pull this into your queue and complete the request within 2-3 business days:
     - Google Analytics access
     - Domo access
