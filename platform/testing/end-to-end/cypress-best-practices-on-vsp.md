@@ -3,6 +3,12 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Running Tests](#running-tests)
+  - [Headless Mode](#headless-mode)
+  - [Test Runner](#test-runner)
+- [Things to Note](#things-to-note)
+  - [Automatic Waiting](#automatic-waiting)
+  - [Third-Party Plugings](#third-party-plugins)
 - [Cypress Form Tester](#cypress-form-tester)
 - [Cypress Custom Commands](#cypress-custom-commands)
   - [Mock User: `cy.login(userData)`](#mock-user-cyloginuserdata)
@@ -21,6 +27,48 @@
 End-to-end (e2e) testing on VA.gov is accomplished using a frontend testing framework called Cypress. Cypress tests run in the browser and programmatically simulate a real user using a web application, or product. These tests are used to verify that the product works as expected across different browsers and viewport dimensions.
 
 The following documentation details Cypress best practices on VSP.
+
+## Running tests <a name="running-tests"></a>
+
+Cypress supports Chrome, Edge, Firefox, and a few [others](https://docs.cypress.io/guides/guides/launching-browsers.html#Browsers). You can run tests in headless mode or via the test runner.
+
+### Headless mode <a name="headless-mode"></a>
+
+To run headless tests, run `yarn cy:run`.
+
+By default, `yarn cy:run` runs Cypress tests headlessly in an Electron browser. You may specify another browser, and if you would like to run headless tests in another browser, you will have to explicitly include the `--headless` flag.
+
+```
+yarn cy:run --headless --browser firefox
+```
+
+You may experience some performance issues where particular long-running tests (such as an exhaustive test of a form) may take an extremely long time (unless your setup is optimized for them, as in the case of our CI, which tests the production build and also has the specs to cancel out the performance burden).
+
+For this reason, for local development, it might be better to run specific specs, even more so in the test runner. The Cypress team is [investigating various issues regarding performance](https://github.com/cypress-io/cypress/issues/6388#issuecomment-648795870) that may likely be related to this.
+
+### Test runner <a name="test-runner"></a>
+
+To run tests in the Cypress [test runner](https://docs.cypress.io/guides/core-concepts/test-runner.html#Overview), run `yarn cy:open`.
+
+There is a dropdown menu in the top right of the test runner that allows you to select a browser in which to run your tests. In our experience, Firefox has yielded the fastest test runs when testing locally, although it is currently a beta feature. The tests in CI will run in the default browser, which is Electron.
+
+The test runner provides the ability to pause tests, and [time travel](https://docs.cypress.io/guides/getting-started/writing-your-first-test.html#Time-travel), which allows you to see snapshots of your tests.
+
+With the test runner, you are able to use Cypress's "Selector Playground". This allows you to click on elements in the DOM and copy that element's selector to use in your test. However, [as mentioned earlier](#interacting-with-page-elements), selecting elements by CSS attributes is discouraged in favor of selecting by test id, which is in turn considered a fallback if selecting by other attributes (label text, role, etc.) is not feasible. In fact, the Selector Playground follows this best practice and automatically attempts to determine the selector by looking at `data-cy`, `data-test`, and `data-testid` before falling back to a CSS selector.
+
+You may find it useful to append certain [options](https://docs.cypress.io/guides/guides/command-line.html#Commands) to the commands above.
+
+## Things to note <a name="things-to-note"></a>
+
+### Automatic waiting
+
+Cypress automatically waits for commands to execute before moving on to the next one. This eliminates the need to use the timeout constants in `platform/testing/e2e/timeouts.js`.
+
+Cypress queues its commands instead of running them synchronously, so doing something like [this](https://docs.cypress.io/guides/references/best-practices.html#Assigning-Return-Values) will not work.
+
+### Third-party plugins
+
+Cypress has many third party [plugins](https://docs.cypress.io/plugins/) available. If you find yourself needing to do something that isn't natively supported, there may be a plugin for it.
 
 ## Cypress Form Tester
 
@@ -46,6 +94,22 @@ Custom Cypress commands abstract away common behaviors that are required across 
 
 ### Mock User: cy.login(userData)
 
+Without providing any arguments, it will use a default user. To be signed in as a custom-defined user, you may pass in a compatible object as the argument. It should have the same shape as the response body for the `/v0/user` API endpoint. See `src/platform/testing/e2e/cypress/support/commands/login.js` for the default user object as an example to copy and modify as needed.
+
+```javascript
+cy.login();
+
+const myUser = {
+  data: {
+    attributes: {
+      ...
+    },
+  },
+};
+
+cy.login(myUser);
+```
+
 #### Source file:
 
 https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/login.js
@@ -64,19 +128,19 @@ const mockUser = {
     attributes: {
       profile: {
         sign_in: {
-          service_name: 'idme',
+          service_name: "idme",
         },
-        email: 'fake@fake.com',
+        email: "fake@fake.com",
         loa: { current: 3 },
-        first_name: 'Jane',
-        middle_name: '',
-        last_name: 'Doe',
-        gender: 'F',
-        birth_date: '1985-01-01',
+        first_name: "Jane",
+        middle_name: "",
+        last_name: "Doe",
+        gender: "F",
+        birth_date: "1985-01-01",
         verified: true,
       },
       veteran_status: {
-        status: 'OK',
+        status: "OK",
         is_veteran: true,
         served_in_military: true,
       },
@@ -88,30 +152,30 @@ const mockUser = {
       ],
       prefills_available: [VA_FORM_IDS.FORM_21_526EZ],
       services: [
-        'facilities',
-        'hca',
-        'edu-benefits',
-        'evss-claims',
-        'form526',
-        'user-profile',
-        'health-records',
-        'rx',
-        'messaging',
+        "facilities",
+        "hca",
+        "edu-benefits",
+        "evss-claims",
+        "form526",
+        "user-profile",
+        "health-records",
+        "rx",
+        "messaging",
       ],
       va_profile: {
-        status: 'OK',
-        birth_date: '19511118',
-        family_name: 'Hunter',
-        gender: 'M',
-        given_names: ['Julio', 'E'],
-        active_status: 'active',
+        status: "OK",
+        birth_date: "19511118",
+        family_name: "Hunter",
+        gender: "M",
+        given_names: ["Julio", "E"],
+        active_status: "active",
         facilities: [
           {
-            facility_id: '983',
+            facility_id: "983",
             isCerner: false,
           },
           {
-            facility_id: '984',
+            facility_id: "984",
             isCerner: false,
           },
         ],
@@ -125,6 +189,42 @@ const mockUser = {
 To sign in as a custom-defined user, copy the `mockUser` object, modify it as needed, and pass it as an argument to `cy.login()`. The custom-defined user object should have the same shape as the response body for the /v0/user API endpoint.
 
 ### Test Data: cy.syncFixtures(fixtures)
+
+In Cypress, because everything in a test is executed inside of the browser, [fixtures](https://docs.cypress.io/api/commands/fixture.html#Syntax) are used to get access to data in tests.
+
+By default, Cypress doesn't support fixtures in separate directories, so we have a custom command for accessing fixtures stored in your app's directory.
+
+For example, `src/applications/hca/tests/schema` contains test data for the `hca` application. You can load the file as a fixture like so:
+
+```javascript
+cy.syncFixtures({
+  data: "src/applications/hca/tests/schema",
+  "minimal-test.json": "src/applications/hca/tests/schema/maximal-test.json",
+  "maximal-test": "src/applications/hca/tests/schema/maximal-test.json",
+});
+
+cy.fixture("maximal-test").as("testData");
+```
+
+To access the contents of the file, you can use a combination of `cy.get()` and `cy.then()`:
+
+```javascript
+cy.get("@testData").then((testData) => {
+  cy.findByLabelText(/first name/i).type(testData.veteranFullName.first);
+});
+```
+
+Once you've synced your fixtures, you can also use the [fixture shorthand form](https://docs.cypress.io/api/commands/route.html#Fixtures) of `cy.route()`.
+
+```javascript
+cy.syncFixtures({
+  foo: path.join(__dirname, "fixtures", "foo"),
+  bar: path.join(__dirname, "fixtures", "bar"),
+});
+
+cy.route("/v0/foo", "fixture:data/foo");
+cy.route("/v0/bar", "fx:data/bar");
+```
 
 #### Source file:
 
@@ -144,18 +244,18 @@ Allows us to access fixtures stored in different directories within your applica
 
 ```javascript
 cy.syncFixtures({
-  data: 'src/applications/hca/tests/schema',
-  'minimal-test.json': 'src/applications/hca/tests/schema/minimal-test.json',
-  'maximal-test': 'src/applications/hca/tests/schema/maximal-test.json',
+  data: "src/applications/hca/tests/schema",
+  "minimal-test.json": "src/applications/hca/tests/schema/minimal-test.json",
+  "maximal-test": "src/applications/hca/tests/schema/maximal-test.json",
 });
 
-cy.fixture('maximal-test').as('testData');
+cy.fixture("maximal-test").as("testData");
 ```
 
 To access the contents of the file, call `.then()` on `cy.get()` like so:
 
 ```javascript
-cy.get('@testData').then((testData) => {
+cy.get("@testData").then((testData) => {
   cy.findByLabelText(/first name/i).type(testData.veteranFullName.first);
 });
 ```
@@ -164,12 +264,12 @@ Once you've synced your fixtures, you can also use the fixture shorthand form of
 
 ```javascript
 cy.syncFixtures({
-  foo: path.join(__dirname, 'fixtures', 'foo'),
-  bar: path.join(__dirname, 'fixtures', 'bar'),
+  foo: path.join(__dirname, "fixtures", "foo"),
+  bar: path.join(__dirname, "fixtures", "bar"),
 });
 
-cy.route('/v0/foo', 'fixture:data/foo');
-cy.route('/v0/bar', 'fixture:data/bar');
+cy.route("/v0/foo", "fixture:data/foo");
+cy.route("/v0/bar", "fixture:data/bar");
 ```
 
 ### Viewport Presets: cy.viewportPreset(preset, orientation, options)
@@ -257,6 +357,15 @@ To prevent the command from being displayed in the command log, pass in `{ log: 
 
 ### File uploads: cy.upload(fileName, fileType)
 
+File uploads are not yet natively supported in Cypress. We have a custom command for uploading files that is based off of [this workaround](https://github.com/cypress-io/cypress/issues/170#issuecomment-619758213). It must be chained from a command that retrieves an upload input element.
+
+```javascript
+cy.findByText("Upload", { selector: "button" }).upload(
+  "src/platform/testing/example-upload.png",
+  "image/jpg"
+);
+```
+
 #### Source file:
 
 https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/cypress/support/commands/upload.js
@@ -273,9 +382,9 @@ file Type -- a `String`
 This function must be chained from a command that retrieves an upload input element.
 
 ```javascript
-cy.findByText('Upload', { selector: 'button' }).upload(
-  'src/platform/testing/example-upload.png',
-  'image/jpg'
+cy.findByText("Upload", { selector: "button" }).upload(
+  "src/platform/testing/example-upload.png",
+  "image/jpg"
 );
 ```
 
@@ -370,37 +479,37 @@ To access Cypress environment variables, simply call `Cypress.env()` followed by
 ```javascript
 [
   {
-    name: 'iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro Max',
+    name: "iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro Max",
     percentTraffic: 9.75,
-    percentTrafficPeriod: 'October, 2020',
+    percentTrafficPeriod: "October, 2020",
     width: 414,
     height: 896,
   },
   {
-    name: 'iPhone 6, iPhone 6s, iPhone 7, iPhone 8',
+    name: "iPhone 6, iPhone 6s, iPhone 7, iPhone 8",
     percentTraffic: 5.52,
-    percentTrafficPeriod: 'October, 2020',
+    percentTrafficPeriod: "October, 2020",
     width: 375,
     height: 667,
   },
   {
-    name: 'iPhone X, iPhone XS, iPhone 11 Pro',
+    name: "iPhone X, iPhone XS, iPhone 11 Pro",
     percentTraffic: 5.5,
-    percentTrafficPeriod: 'October, 2020',
+    percentTrafficPeriod: "October, 2020",
     width: 375,
     height: 812,
   },
   {
-    name: 'iPhone 6 Plus, iPhone 6s Plus, iPhone 7 Plus, iPhone 8 Plus',
+    name: "iPhone 6 Plus, iPhone 6s Plus, iPhone 7 Plus, iPhone 8 Plus",
     percentTraffic: 3.25,
-    percentTrafficPeriod: 'October, 2020',
+    percentTrafficPeriod: "October, 2020",
     width: 414,
     height: 736,
   },
   {
-    name: 'iPhone 5, iPhone 5s, iPhone 5c, iPhone SE 1st gen',
+    name: "iPhone 5, iPhone 5s, iPhone 5c, iPhone SE 1st gen",
     percentTraffic: 1.49,
-    percentTrafficPeriod: 'October, 2020',
+    percentTrafficPeriod: "October, 2020",
     width: 360,
     height: 640,
   },
@@ -410,7 +519,7 @@ To access Cypress environment variables, simply call `Cypress.env()` followed by
 To test against each of the viewports in the array, simply iterate through the array using `.forEach()` in the callback of an `it` function call, like so:
 
 ```javascript
-it.only('should render in mobile layouts and tabs actions work', () => {
+it.only("should render in mobile layouts and tabs actions work", () => {
   Cypress.env().vaTop5MobileViewports.forEach((viewportData) => {
     const {
       name,
@@ -425,7 +534,7 @@ it.only('should render in mobile layouts and tabs actions work', () => {
       `% traffic for the month of ${percentTrafficPeriod}: ${percentTraffic}%`
     );
 
-    cy.visit('/find-locations');
+    cy.visit("/find-locations");
     cy.injectAxe();
     cy.viewport(width, height);
     cy.checkSearch();
