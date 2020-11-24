@@ -9,6 +9,7 @@
 - [#vsa-benefits-memorial](https://dsva.slack.com/channels/vsa-benefits-memorial)
 - [#vsa-vamc-upgrade](https://dsva.slack.com/channels/vsa-vamc-upgrade)
 - [#vsa-bam-2](https://dsva.slack.com/channels/vsa-bam-2)
+- [#vsa-decision-tools](https://dsva.slack.com/channels/decision-tools)
 - [#vsa-facilities](https://dsva.slack.com/channels/vsa-facilities)
 - [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites)
 - [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)
@@ -18,7 +19,7 @@
 
 
 ### Github Labels
-- `vsa` `vsa-authenticated-exp` `vsa-benefits` `vsa-benefits-2` `vsa-decision-reviews` `vsa-ebenefits` `vsa-facilities` `vsa-public-websites` `VAMC-upgrade`
+- `vsa` `vsa-authenticated-exp` `vsa-benefits` `vsa-benefits-2` `vsa-decision-reviews` `vsa-ebenefits` `vsa-decision-tools` `vsa-facilities` `vsa-public-websites` `VAMC-upgrade`
 
 
 ### Points of Contact 
@@ -34,6 +35,7 @@
 - [Authenticated Experience](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/authenticated-experience)
 - [Benefits and Memorials](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/authenticated-experience)
 - [Benefits and Memorials 2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/benefits-memorials-2)
+- [Decision Tools](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/decision-tools)
 - [eBenefits](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits)
 - [Facilities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator)
 - [Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/global-ux)
