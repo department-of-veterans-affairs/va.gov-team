@@ -8,6 +8,18 @@
 ## Tuesday November 17
 
 ### Agenda
+1. Video authoring workflow
+1. Backlog
+  1. MVP 1.1 epic
+  1. MVP 1.2 epic
+1. anything else
+
+### Action items
+1. 
+
+## Tuesday November 17
+
+### Agenda
 
 1. Meeting schedule/timing
 1. Priotity of being able to use "Audience non-beneficiaries" tags in content forms [#3494](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3494)
