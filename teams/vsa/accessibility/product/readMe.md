@@ -2,11 +2,13 @@
 
 1. Define accessibility as a business requirement from the start.
 
-1. Ensure the team has sufficent accessibility expertise.
+1. Ensure the team has sufficient accessibility expertise.
 
 1. Plan for inclusive research.
 
-1. Meaningfully measure, monitor, and evaluate success goals, including accessibility, Section 508 compliance, and web performance metrics.
+1. Meaningfully measure, monitor, and evaluate success goals, including accessibility and Section 508 compliance.
+
+More to come.
 
 
 ## Recommended templates
