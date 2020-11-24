@@ -68,10 +68,20 @@ Think about your last primary care provider visit at the VA.
 Keep that pre-appointment experience in mind through the next series of scenarios that we are going to discuss. I will give you a task and ask you to "narrate" your thoughts as you complete the task. 
 
 - _Rotate the order in which participants are presented the following scenarios._
-	- _Participant 1: 1 (email), 2  (b), then 2 (a)_
-	- _Participant 2: 2 (b), 2 (a), then 1 (text)._
-	- _Etc._
-
+	- _Participant 1: 1 (email), 2  (a), then 2 (b)_
+	- _Participant 2: 1 (text), 2 (a), then 2 (b)._
+	- _Participant 3: 1 (email), 2 (b), then 2 (a)._
+	- _Participant 4: 1 (text), 2 (b), then 2 (a)._
+	- _Participant 5: 2 (b), 2 (a), then 1 (email)._
+	- _Participant 6: 2 (b), 2 (a), then 1 (text)._
+	- _Participant 7: 2 (a), 2 (b), then 1 (email)._
+	- _Participant 8: 2 (a), 2 (b), then 1 (text)._
+	________________________________________________
+	- _Participant 9: 1 (email), 2 (a), then 2 (b)._
+	- _Participant 10: 1 (text), 2 (b), then 2 (a)._
+	- _Participant 11: 2 (b), 2 (a), then 1 (email)._
+	- _Participant 12: 2 (a), 2 (b), then 1 (text)._
+	
 I'm going to send you a link in the chat.
 
 [Mobile Prototype with Email option]()<br/>
