@@ -2,7 +2,7 @@
 Adding a placeholder to collect notes from early discussion with DEPO Content Lead
 
 ## Points to consider
-* Google Translate (and other machine translations) won't automatically translate hidden content that's only for screen readers. And if human translators are only reviewing the visible content on a page, they'll miss it as well. Therefore, we need to incorporate into our translation process a step to check the template/source content and update `aria-label` and screen reader only content.
+* Google Translate (and other machine translations) won't automatically translate hidden content that's only for screen readers. And if human translators are only reviewing the visible content on a page, they'll miss it as well. Therefore, we need to incorporate into our translation process a step to check the template/source content and update **aria-label** and screen reader only content.
   ```diff
   ! aria-label will be announced instead of the visual text
   
@@ -23,7 +23,7 @@ Adding a placeholder to collect notes from early discussion with DEPO Content Le
   </a>
   ```
   
-* We'll also want to make sure that `aria-labels` contain full phrases so that the text translates accurately. For example, if a button's visible text is "Submit my application", the aria label text might be "Submit my application for education benefits".
+* We'll also want to make sure that **aria-labels** contain full phrases so that the text translates accurately. For example, if a button's visible text is "Submit my application", the aria-label text might be "Submit my application for education benefits".
 * Accessibility experts can provide more guidance for how to make translated content successful for screen readers.
 * We can also wrap content in localized containers: 
   ```html
@@ -36,7 +36,7 @@ Adding a placeholder to collect notes from early discussion with DEPO Content Le
   * https://codepen.io/tpierce_402/full/wvWZJdB offers two **"How to apply"** content blocks
     * The first expandable section has `<div lang="es">` declared on the container. This causes screen readers to change their pronunciation and inflection to  localize the Spanish content.
     * The second content block will be read as Spanish, but the screen reader will attempt to pronounce words in English.
-  * We should be using the `lang` attribute on containers when we change languages for part of a page
-  * We should be using the `lang` attribute on the HTML tag when an entire page is in a single language. Examples:
+  * We should be using the **lang** attribute on containers when we change languages for part of a page
+  * We should be using the **lang** attribute on the HTML tag when an entire page is in a single language. Examples:
     * Default: `<html lang="en">` for pages in English
     * Español: `<html lang="es">` when entire pages are in Spanish
