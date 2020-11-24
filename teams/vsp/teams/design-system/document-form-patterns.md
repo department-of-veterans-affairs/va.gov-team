@@ -11,17 +11,12 @@
 
 
 ## Overview
-There are two types of review instances we use on VA.gov. the first is for testing content or any visual changes (Heroku instance) that may need to be made. The second is a way to test a service or application on VA.gov or a backend change. These review instances are a deployment of a combination of vets.api and vets-website at specified versions.
-
-The work we are undertaking is to make improvements to the second, in order to give the ability to developers to test against live backends in staging in order to improve the testing experience overall. 
-
-In the past, review instances (instances of the website spun up when mailing out PRs, but before merging it) were in "dev", which had some networking implications but also the backend connections were mocked out. Now they are pointing to staging and connected to pre-production live backends. 
+The Design System Team mission statement is to provide simple, scalable, high quality tools and guidelines that enable teams to rapidly build and improve the Veteran facing digital applications provided by VA. Currently the established form patterns are not documented or are documented poorly. 
 
 
 ## Problem Statement
-Testing on VA.gov can be changeling for both VFS and VSP teams. A poor testing experience can slow down development and prevent  features reaching veterans in a timely manner. 
 
-How might we make testing a pleasant, easy, and self severice experience for all, so that teams can have a faster and more stable launch of their products. 
+
 
 ## Desired User Outcomes
 Users find review instances make testing easier and some pain points around testing are resolved. 
