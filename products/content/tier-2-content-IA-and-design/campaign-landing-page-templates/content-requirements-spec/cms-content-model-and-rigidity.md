@@ -203,6 +203,10 @@ No questions.
 ## MVP governance
 
 Sections: [what sections do these belong to, during MVP?]
+
 Role: [who can edit during MVP?] 
+
+User administration: [How will users be given access during MVP] 
+
 URL alias: [what is the url alias pattern?]
 
