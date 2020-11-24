@@ -237,7 +237,7 @@ USAA did a good job of splitting different offerings (Insurance, Services, Banki
 
 USAA added sections for offerings the user hasn't signed up for yet (see Services and Banking sections) with "learn more" calls to action.  While it adds to clutter on the page, the approach could inform how we help Veterans learn about benefits they are eligible for, but haven't applied for yet. The way it's presented here feels a little tricky since it is seamlessly integrated with the items the user did sign up for, but it also doesn't feel like marketing noise.
 
-![](hhttps://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/USAA-Desktop-Auth-Home.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/USAA-Desktop-Auth-Home.png)
 
 ### Quality Payment Program (QPP)
 
