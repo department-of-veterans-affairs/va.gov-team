@@ -68,8 +68,8 @@ Think about your last primary care provider visit at the VA.
 Keep that pre-appointment experience in mind through the next series of scenarios that we are going to discuss. I will give you a task and ask you to "narrate" your thoughts as you complete the task. 
 
 - _Rotate the order in which participants are presented the following scenarios._
-	- _Participant 1: 1 (email), then 2 (a)_
-	- _Participant 2: 2 (b), then 1 (text)._
+	- _Participant 1: 1 (email), 2  (b), then 2 (a)_
+	- _Participant 2: 2 (b), 2 (a), then 1 (text)._
 	- _Etc._
 
 I'm going to send you a link in the chat.
@@ -77,8 +77,6 @@ I'm going to send you a link in the chat.
 [Mobile Prototype with Email option]()<br/>
 [Mobile Prototype with Text option]()<br/>
 _Half of participants will go through the email example and half the text example._
-_Half of participants will go through the in-progress (2a) questionnaire example and half the completed (2b) questionnaire example._
-
 
 ### Scenario 1
 Don’t click on anything yet. Just read the notification. 
