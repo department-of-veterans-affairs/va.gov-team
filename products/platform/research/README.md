@@ -88,7 +88,7 @@ Q2 - Q3 2020
 *Service Design: Andrea Chappelear*
 *Product Support: James Chasia*
 
-Q3 2020
+Q3 and Q4 2020 
 
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/support%20tracking)
 
