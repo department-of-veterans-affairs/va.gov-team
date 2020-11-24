@@ -81,9 +81,7 @@ cy.visit("health-care/apply/application");
 
 ### Interacting with page elements <a name="interacting-with-page-elements"></a>
 
-Cypress has a [comprehensive API](https://docs.cypress.io/api/api/table-of-contents.html) that allows for easy interaction with elements.
-
-See Cypress Testing Library Selectors section in Cypress Best Practices for details on specific Cypress page use.
+See [Interacting with Page Elements in the Cypress Resources Overview & Guide](vsp-cypress-resources.md#interacting-with-page-elements) for a detailed use case guide.
 
 The most common interactions you will probably need to convert from Nightwatch tests are clicking, selecting elements from dropdowns, and entering text inputs. Below are examples of these interactions in Cypress.
 
@@ -190,15 +188,15 @@ We have custom commands to acccomplish some common tasks, which are highlighted 
 
 For simulating a signed-in session with a mock user, use `cy.login()`.
 
-See Mock User in Cypress Best Practices for detailed usage.
+See [Mock Users in Cypress Best Practices for detailed usage](vsp-cypress-resources.md#mock-users)
 
 #### Test data (fixtures) <a name="test-data"></a>
 
-To use fixtures (which get access to data in tests) see usage in Test Data in Cypress Best Practices.
+To use fixtures (which get access to data in tests) see usage in [Test Data in Cypress Best Practices](vsp-cypress-resources.md#test-data).
 
 #### File uploads <a name="file-uploads"></a>
 
-To see custom commands for uploading files using Cypress see File Uploads in Cypress Best Practices.
+To see custom commands for uploading files using Cypress see [File Uploads in Cypress Best Practices](vsp-cypress-resources.md#file-uploads).
 
 #### Accessibility <a name="accessibility"></a>
 
