@@ -10,8 +10,8 @@
 ### Agenda
 1. Video authoring workflow
 1. Backlog
-  1. MVP 1.1 epic
-  1. MVP 1.2 epic
+   1. [MVP 1.1 epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2915)
+   1. [MVP 1.2 epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3585) - _looking ahead_
 1. anything else
 
 ### Action items
