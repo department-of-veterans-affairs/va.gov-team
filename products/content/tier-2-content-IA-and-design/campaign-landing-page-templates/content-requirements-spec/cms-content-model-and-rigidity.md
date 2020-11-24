@@ -106,7 +106,7 @@ Use Cases:
 
 **Q:** Where do these events link to? will they be modernized va.gov event detail pages? 
 
-**A:**
+**A:** For MVP: Editors can select existing events in Drupal (VAMC or Outreach Hub events).
 
 
 **Background:**
@@ -119,17 +119,13 @@ CMS can support CMS-managed events, but it poses some tricky editorial experienc
 
 ## 9. FAQs (optional)
 
-We will be reusing the component created for Resource and support, with the new reusable Q&A. 
+~We will be reusing the component created for Resource and support, with the new reusable Q&A.~ 
 
-The rigidity of "either 0 FAQs or 3-10" is somewhat complex and expensive to implement. We recommend going with clear guidelines / help text instead of enforced rigidity (form validation) for MVP.  
+~The rigidity of "either 0 FAQs or 3-10" is somewhat complex and expensive to implement. We recommend going with clear guidelines / help text instead of enforced rigidity (form validation) for MVP.~
 
-**Q:** Are guardrails acceptable for # of questions? 
+~Q&As cannot be added "on the fly".~
 
-**A:**
-
-**Q:** The "Q&A group" component allows Q&As to be displayed as accordions, or not, via a boolean. We assume this is option is still desired. 
-
-**A:**
+Decision November 24: Use Q&A approach currently in use on Benefits Detail Pages, where are not reusable. 
 
 
 
