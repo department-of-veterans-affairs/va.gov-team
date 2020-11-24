@@ -314,17 +314,18 @@ You bring:
   - **(preferred)** Use the [TestRail VSP accessibility testing checklist](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc).
   <br/>**OR**
   - Certify the checklist of required accessibility items in the staging review issue. All required items should be checked off so the accessibility specialist can start their review on time.
-  - **Required accessibility checklist**
-    - [ ] [Axe scans in daily development](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#axe-scans-in-daily-development)
-    - [ ] [Axe scans included in end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#axe-scans-in-end-to-end-tests)
-    - [ ] [Color tests for proper contrast and colorblindness](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#color-tests)
-    - [ ] [Content zoomed to 200%, 300%, 400%](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#content-resize-check)
-    - [ ] [Keyboard navigation check](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#keyboard-navigation-check)
-    - [ ] [Screen reader tests (VoiceOver + Safari or NVDA + Firefox)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#screen-reader-tests)
-  - **Recommended accessibility checklist**
-    - [ ] [Keyboard end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/testing/508-automated-testing.md)
+  - **Foundational accessibility checklist (required)**
+    - [ ] [Axe scans in daily development](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#axe-scans-in-daily-development)
+    - [ ] [Axe scans included in end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#axe-scans-in-end-to-end-tests)
+    - [ ] [Color tests for proper contrast and colorblindness](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#color-tests)
+    - [ ] [Content resized to 200%, 300%, 400%](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#content-resize-check)
+    - [ ] [Keyboard navigation check](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#keyboard-navigation-check)
+  - **Advanced accessibility checklist (recommended)**
+    - [ ] [Screen reader tests (VoiceOver + Safari or NVDA + Firefox)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#screen-reader-tests)
     - [ ] [Axe-coconut scans in daily development](https://www.deque.com/blog/test-leading-edge-accessibility-axe-coconut-axe-core-3-0/)
     - [ ] [WAVE tool spot checks](https://wave.webaim.org/)
+  - **Future accessibility checklist**
+    - [ ] [Keyboard end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/testing/508-automated-testing.md)
 - List of known issues (with links to tickets when applicable)
 - **_Please provide these artifacts at least 4 days before the scheduled review meeting._**
 
