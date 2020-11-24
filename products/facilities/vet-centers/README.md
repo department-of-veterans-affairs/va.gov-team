@@ -1,6 +1,8 @@
 # VA Vet Center Facility Product
 
-Product owner: David Conlon
+**Product owner:** Dave Conlon
+
+**Business partner:** Jessica Schiefer, VHA Vet Center Communications Officer (Jessica.Schiefer@va.gov)
 
 This is the new VA.gov facility product for VA's Vet Centers.
 
@@ -12,9 +14,7 @@ This is the new VA.gov facility product for VA's Vet Centers.
 - Vet Centers also serve Veterans not eligible for other VA services (e.g. less than honorable discharge) and may serve the families of existing, active-duty service men and women who are deployed
 - Services that Vet Centers offer can be similar to those offered at a Medical Center but the way in which the service is provided may be very different (e.g. Group therapy, Equestrian Therapy, no ability to prescribe medication)
 
-**Business partner:**
 
-- Jessica Schiefer, VHA Vet Center Communications Officer (Jessica.Schiefer@va.gov)
 
 ## What we need to do
 
