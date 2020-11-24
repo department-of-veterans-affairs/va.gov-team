@@ -8,7 +8,7 @@ Please refer to [Product Release Guide](https://github.com/department-of-veteran
 ## Collaboration Cycle: Deploying Changes to Existing Products
 | Step | Required | Responsible | Team(s) to Include | Link to Request | Comments
 |--|--|--|--|--|--|
-|1. Project Kickoff  |Yes/No/Optional | Role Responsible | Name of teams needed for this step| Link to request if applicable | Any comments about lead time, required documents |
+|1. Project Kickoff  |Yes/No/Optional | Product Manager | Name of teams needed for this step| Link to request if applicable | Any comments about lead time, required documents |
 |2. Design Intent Collaboration  |Yes/No/Optional | Role Responsible | Name of teams needed for this step| Link to request if applicable | Any comments about lead time, required documents |
 |3. Usability Testing Prep  |Yes/No/Optional | Role Responsible | Name of teams needed for this step| Link to request if applicable | Any comments about lead time, required documents |
 |4. Research Plan Review  |Yes/No/Optional | Role Responsible | Name of teams needed for this step| Link to request if applicable | Any comments about lead time, required documents |
