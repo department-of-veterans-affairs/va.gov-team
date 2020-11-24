@@ -59,11 +59,35 @@ _Why should this project be a priority?_
 _What's in and what's out?_
 
 **3Q 2020**
-- By establishing Veteran facing taxonomy for services offered at Vet Centers during 3Q 2020, we can support our long term goal of enhancing the online presence for Vet Centers 
+- By establishing Veteran facing taxonomy for services offered at Vet Centers during 3Q 2020, we can support our long term goal of enhancing the online presence for Vet Centers
+
+**4Q 2020**
+- By establishing the content model for Vet Centers during 4Q 2020, we can be prepared to execute on that model in Q1 2021 and support our long-term goal of 10 pilot vet centers built in Q4 2021
+
+**MVP**
+- Vet Center intro
+- Link to "What is a Vet Center" content (to be built) (Call to action?)
+- Call to action "Call us"
+- Prepare for your visit (new veterans)
+- Vet Center service taxonomy (national, integrated with VA Service Taxonomy)
+- Vet Center services local content for each vet center location
+- Convey how these services are not "cold" and are of a different flavor than a VA Clinic/VAMC
+- Relationship to Oustation, as applicable, and Outstation information (hours, location) (note: unsure about services)
+- Relationship to Community Access Point (CAP), as applicable, and CAP information (hours, location) (note: unsure about services but likely out-of-scope)
+- Definition/Delineation between national content and locally-maintained (field) content
 
 ### Not currently in scope
+- Staff Profiles
+- Events
+- Social Media
+- Stories
 
 ### Measuring Success
+- SEO optimization, search results rankings
+- Increased phone calls of Vet Centers (call to action?)
+- Decreased conflation of Vet Center = VA Clinic (possibly through phone calls?)
+- Increased utilization of Vet Center services (?)
+- Increased understanding of Vet Center services (scroll depth, expansion)
 
 ### Dependencies
 _Are other features dependent on this one? What do we need from partners? What do we need outside of engineering?_
