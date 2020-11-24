@@ -185,11 +185,11 @@ Chase took a unique approach to a few things:
 
 -   Their overall navigation is a hamburger nav, so it doesn't have to change drastically once logged in. Navigation consistency helps users feel rooted, and there is plenty of room to add authenticated nav items without feeling too cluttered.
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/chase-unauth-menu.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/chase-unauth-menu.png)
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/chase-dashboard.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/chase-dashboard.png)
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/chase-widget-pay-card.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/chase-widget-pay-card.png)
 
 ### Fidelity Investments
 
@@ -197,11 +197,11 @@ Fidelity had a unique "welcome" screen upon logging in that screenshot contribut
 
 Folks mentioned they prefer the app when asked for screenshots. The mobile app provides a more personalized experience with direct access to common tasks via the horizontal app menu across the bottom of the screen.
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/01-fidelity-post-login.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/01-fidelity-post-login.png)
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/02-fidelity-all-accounts.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/02-fidelity-all-accounts.png)
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/03-fidelity-mobile-logged-in-feed.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/03-fidelity-mobile-logged-in-feed.png)
 
 ### Schwab
 
