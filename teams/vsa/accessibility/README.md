@@ -35,27 +35,27 @@ We'd like to know if the documentation is meeting your needs, and welcome your f
 
 ### How does accessibility fit into our product lifecycle?
 
-#### Product
+#### [Product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/product)
 * Define accessibility as a business requirement from the start
 * Train the team
 * Plan for inclusive research
 * Meaningfully measure, monitor, and evaluate success goals, including accessibility and Section 508 compliance
 
-#### Research
+#### [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/research)
 * Define inclusive research strategies ([review inclusive research guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/inclusive-research-recommendations.md))
 * Define goals and strategies for including people with disabilities (consider specific KPIs)
 
-#### Design
+#### [Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/design)
 * Define how to cultivate cognitive empathy with marginalized populations across the project (economically- and technology-challenged individuals, people with disabilities)
 * Interaction behavior is documented and accessible
 * Define criteria to evaluate the accessibility of designs, such as mobile-first, defining states, heading order, focus management
 
-#### Development
+#### [Development](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/development)
 * Establish e2e tests that include the axe checks
 * Ensure engineering knows how to customize tests to ensure hidden and dynamic content is also evaluated
 * Define workflow processes to evaluate 508 compliance and accessibility during development
 
-#### QA
+#### [QA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/qa)
 * UX QA techniques to evaluate accessibility and usability: manual processes, Web Vitals, CrUX dashboard
 * Accessibility and 508 compliance processes before and after deployment
 
