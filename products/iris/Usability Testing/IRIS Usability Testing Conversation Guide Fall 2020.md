@@ -153,7 +153,7 @@ Show me where you would go to find GI BIll related help  (should be https://gibi
 
 Do you remember where to go? Is there a preference for all in one place (all in IRIS)?
 
-Have a mockup (or in staging) showing GI BIll topics integrated into the IRIS page - and get feedback on preference on that experience vs. current state separate part of VA.gov
+_Have a mockup (or in staging) showing GI BIll topics integrated into the IRIS page - and get feedback on preference on that experience vs. current state separate part of VA.gov.  Note the full list of IRIS topics is still being solidified with the lines of business so they won't yet be on staging.
 
 The idea is that there would be two experiences: 
 -MHV would be logged in and messaging

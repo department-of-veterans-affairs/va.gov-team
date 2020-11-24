@@ -289,15 +289,24 @@ Anything outstanding from sprint 35, plus:
 
 **Design**
 
+Both designers
+
+- Take an afternoon/a day to agree on what major conclusions came out of research
+
 One designer:
 
-- Incorportate user feedback into designs
-- Convert mobile wireframes to desktop
-- (If time) Mock up first-time user experience
-
-The other designer:
-
 - Research summary (should take no more than a week)
+
+The other designer (designer #1 can help with this once the write-up is done):
+
+- Incorportate user feedback into designs
+- Clean up wireframes so they are ready for desktop conversion:
+  - Notification block template that works for all notification types
+  - "Overview" blocks need a title and proper CTA (confirm with accessibility on what we need on screen vs. what we can use an aria-label)
+  - Page title (H1)
+  - Blank states 
+  - FTUX discussion
+- If time, start desktop conversion
 
 ### Direct deposit for edu
 
@@ -336,22 +345,16 @@ The other designer:
 
 **Design**
 
-- (If not done last sprint) Mock up first-time user experience
+- Convert mobile wireframes to desktop
+- (If time/in scope) Mock up first-time user experience
 - Initial pass at visual design
-- Gather feedback from design team
 - Submit wireframes for copy review
-
-**FE**
-
-- If ready, start FE build
-
-**Dev**
 
 ### VA Profile notification preferences
 
 **PM**
 
-- Hold platform kickoff
+- Hold platform kickoff (maybe)
 
 **BE**
 
@@ -363,19 +366,36 @@ The other designer:
 
 **PM**
 
-Are we ready for Matt to work on staging users list yet?
+- Make a list of staging test cases based on wireframes
+
+**Design**
+
+- Visual design
+- Gather feedback from design team
+- Finalize My VA copy
+
+**FE**
+
+- Start FE build
+
+## Sprint 39 (1/13 – 1/26)
+
+### My VA redesign
+
+**PM**
 
 **Design**
 
 - Review visual design with team; Get feedback
 - Finalize visual design
-- Finalize My VA copy
 
 **FE**
 
-- Start/continue FE build
+- Continue FE build
 
-## Sprint 39 (1/13 – 1/26)
+**Dev**
+
+## Sprint 40 (1/27 – 2/9)
 
 ### My VA redesign
 
@@ -392,9 +412,7 @@ Are we ready for Matt to work on staging users list yet?
 
 - Continue FE build
 
-**Dev**
-
-## Sprint 40 (1/27 – 2/9)
+## Sprint 41 (2/10 – 2/23)
 
 ### My VA redesign
 
@@ -409,9 +427,9 @@ Are we ready for Matt to work on staging users list yet?
 
 **FE**
 
-- Continue FE build
+- FE to begin incorporating visual design
 
-## Sprint 41 (2/10 – 2/23)
+## Sprint 42 (2/24 - 3/9)
 
 ### My VA redesign
 
@@ -421,7 +439,3 @@ Are we ready for Matt to work on staging users list yet?
 
 - Research summary
 - Hand off final designs to FE
-
-**FE**
-
-- FE to begin incorporating visual design

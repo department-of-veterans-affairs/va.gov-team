@@ -35,29 +35,37 @@ We'd like to know if the documentation is meeting your needs, and welcome your f
 
 ### How does accessibility fit into our product lifecycle?
 
-#### Product
-* Define accessibility as a business requirement from the start
-* Train the team
-* Plan for inclusive research
-* Meaningfully measure, monitor, and evaluate success goals, including accessibility and Section 508 compliance
+#### [Product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/product)
+* Define accessibility as a business requirement from the start.
+* Ensure the team has sufficient accessibility expertise.
+* Plan for inclusive research.
+* Meaningfully measure, monitor, and evaluate success goals, including accessibility and Section 508 compliance.
 
-#### Research
-* Define inclusive research strategies ([review inclusive research guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/inclusive-research-recommendations.md))
-* Define goals and strategies for including people with disabilities (consider specific KPIs)
 
-#### Design
-* Define how to cultivate cognitive empathy with marginalized populations across the project (economically- and technology-challenged individuals, people with disabilities)
-* Interaction behavior is documented and accessible
-* Define criteria to evaluate the accessibility of designs, such as mobile-first, defining states, heading order, focus management
+#### [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/research)
+* Define inclusive research strategies ([review inclusive research guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/inclusive-research-recommendations.md)).
+* Define goals and strategies for including people with disabilities (consider specific KPIs).
+* Document gaps as potential risks to inform future research.
 
-#### Development
-* Establish e2e tests that include the axe checks
-* Ensure engineering knows how to customize tests to ensure hidden and dynamic content is also evaluated
-* Define workflow processes to evaluate 508 compliance and accessibility during development
 
-#### QA
-* UX QA techniques to evaluate accessibility and usability: manual processes, Web Vitals, CrUX dashboard
-* Accessibility and 508 compliance processes before and after deployment
+#### [Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/design)
+* Define how to help teams develop empathy for the diverse range of users, such as race, socio-economics, technology challenged, and people with disabilities.
+* Document interaction behavior, and ensure it is accessible.
+* Define criteria to evaluate the accessibility of designs, such as mobile-first, defining states, heading order, and focus management.
+* Annotate semantic markup, reading order, focus management in designs to ensure development understands the fully designed experience.
+* Use inclusive, accessible prototyping tools, such as Adobe XD and coded prototypes.
+
+
+#### [Development](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/development)
+* Establish e2e tests that include the axe checks.
+* Ensure engineers know how to customize tests to ensure hidden and dynamic content is also evaluated.
+* Define workflow processes to evaluate 508 compliance and accessibility throughout development.
+* Ensure foundational accessibility testing is complete ahead of reviews. | [Read about VSP-required foundational accessibility testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md).
+
+
+#### [QA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/qa)
+* Use QA techniques to evaluate accessibility and usability: manual processes, Web Vitals, CrUX dashboard.
+* Define accessibility and 508 compliance QA processes for both before and after deployment.
 
 
 ### VSA accessibility on-boarding

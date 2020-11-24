@@ -21,7 +21,7 @@ Live Google Sheets version: https://docs.google.com/spreadsheets/d/1izUIMwzl7NRv
 
 ### How We Manage Our Products
 
-- Product Guides 
+- State of the Product (with following additional components) [Note: This is different from a Product Guide for Customer Care]
   - The Problem
   - The Solution
   - The Success Metrics (OKRs, KPIs, Dashboard link)
@@ -37,7 +37,19 @@ Live Google Sheets version: https://docs.google.com/spreadsheets/d/1izUIMwzl7NRv
 
 ### Role of the Agile Team Product Manager
 
-- TBD
+- Have a deep understanding of the team problem space and products
+- Work with DSVA counterparts to prioritize and define outcomes for the problem space
+- Publish artifacts that detail problems to be solved, assumptions, and hypotheses
+- Establish relevant measures of success for their team's products
+- Ensure their cross-functional team has a deep understanding of product initiatives and facilitates breaking down and organizing discovery efforts 
+- Ensure team is organized and prepared to build functionality, including that the team has an effective workflow in place that includes UX, QA, and accessibility.
+- Lead team through Agile ceremonies
+- Develop and document a project specific onboarding plan, including all associated materials, and implement when new team members join (confirm that all existing team members are familiar with and understand the content of the onboarding plan)
+
+- “Deliverable” requirements
+  - Responsible for knowing all deliverables that they or their team are required to create, including all associated due dates for both initial deliverable and any required updates/modifications
+  - Create quality project deliverables for which they are individually responsible that meet or exceed specified requirements, following all associated GCIO or VA processes, and submit deliverable on time for transmission to the VA
+  - Responsible for ensuring that all deliverables created by their team are high quality, meet or exceed specified requirements, were created pursuant all associated GCIO or VA processes, and are submitted on time for transmission to the VA
 
 ### Role of the DEPO Product Owner (Credit: Andrew Fichter)
 
