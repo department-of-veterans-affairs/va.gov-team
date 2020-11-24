@@ -4,7 +4,7 @@
 - Lots of noise
     - Sentry is an excellent solution to use to record different types of errors from your applications and add contextual data that would otherwise be time consuming to put together manually. This type of solution is often a double edged sword in how it collects errors and then how it alerts you to them. We found that within the Identity team we getting hundreds of thousands of error messages a week, but many of them were either not labeled with the correct criticality of the error, the error message did not contain enough information to discern what actually caused the error, and there wasn't a full understanding of how to trace and troubleshoot the errors. This all leads to the errors becoming mostly noise and distracting from making progress on the Identity Teams current goals of a successful rollout of a single signon function for all of va.gov.
 - Lack of knowledge about errors by new team members
-    - The other major reason to conduct the event was that most of the team nearly completely rolled over to new team members with the exception of one person. It was critical for all the team members to work with this one individual to 
+    - Most of the Identity Team has rolled over to new members. Only one member of the team outside of the PM has been on the team longer than 3 months. The knowledge of the errors, their purpose, and priority is not known by the entire team. We felt an event such as a hackathon could facilitate the knowledge transfer and provide an opportunity to apply this new knowledge to validate the team could cover down on all aspects of Sentry errors related to the Identity team.
 - Focus effort into one task to reduce context switching
 
 ## Talk about what we did before the event to prepare
