@@ -171,9 +171,9 @@ Bank of America's dashboard is straightforward, providing the user a clear list 
 
 The activity center on the left contains a variety of actions that could be performed directly on the homepage, though the design looks cluttered and feels clunky to navigate.
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/bofa-dashboard.png)
+![Bofa dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/bofa-dashboard.png)
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/bofa-dashboard-quickview.png)
+![bofa-dashboard-quickview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/bofa-dashboard-quickview.png)
 
 ### Chase
 
