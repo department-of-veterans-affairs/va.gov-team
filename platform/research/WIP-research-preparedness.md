@@ -8,9 +8,12 @@ On 11.23.20, Emily M., Emily W., Shawna, and Samara met to discuss concerns arou
 
 ## Goals
 
-- To come up with documentation that can help us do the following:
-  - Evaluate designers' research abilities on the contract
-  - Based on capabilities, make sure there are clear guidelines on what we think people need to do to be ready to independently run research
+- To figure out the following:
+  - How to evaluate designers' research abilities on the contract
+  - How to ensure people are ready to independently run research
+- To create documentation that clearly outlines:
+  - How to evaluate people.
+  - How to "train" people or ensure preparedness based on people's skill levels.
 
 ## Problems to solve/Questions
 
