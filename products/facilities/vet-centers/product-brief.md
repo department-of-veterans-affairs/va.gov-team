@@ -81,6 +81,7 @@ _What's in and what's out?_
 - Events
 - Social Media
 - Stories
+- Spanish Translation (at least for the first 10 pilot facilities, but need to consider for full roll-out)
 
 ### Measuring Success
 - SEO optimization, search results rankings
