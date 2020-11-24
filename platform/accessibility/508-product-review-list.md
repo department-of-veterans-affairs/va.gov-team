@@ -1027,6 +1027,20 @@ Back to [Table of Contents](#table-of-contents)
 Back to [Table of Contents](#table-of-contents)
 
 ---
+### App Directory
+
+**Audit status:** _[VSP Staging Review under way](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16432)_<br/>
+**Open issues**
+
+- [508-defect-2 [AXE-CORE]: App Directory - Heading levels should increase by one - #16437](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16437)<br/>**Production** | **Opened:** November 19, 2020 | **Severity:** _508-defect-2 - **Serious**_
+- [508-defect-2 [COGNITION]: App Directory - Accessible labels for "Find app" should describe which app - #16441](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16441)<br/>**Production** | **Opened:** November 19, 2020 | **Severity:** _508-defect-2 - **Serious**_
+- [508-defect-3 [COGNITION]: App Directory - Additional information buttons must have aria-expanded attribute to give screen readers context - #16464](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16464)<br/>**Production** | **Opened:** November 19, 2020 | **Severity:** _508-defect-3 -  **Moderate**_
+- [508-defect-4 [COGNITION]: App Directory - Links with same name should have similar purposes - #16450](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16450)<br/>**Production** | **Opened:** November 19, 2020 | **Severity:** _508-defect-4 -  **Trivial**_
+- [508-defect-4 [COGNITION]: App Directory - Additional information lists should be unordered lists - #16466](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16466)<br/>**Production** | **Opened:** November 19, 2020 | **Severity:** _508-defect-4 -  **Trivial**_
+  
+Back to [Table of Contents](#table-of-contents)
+
+---
 ### New Project Name
 
 **Audit status:** _Audit status, team, and date_<br/>
