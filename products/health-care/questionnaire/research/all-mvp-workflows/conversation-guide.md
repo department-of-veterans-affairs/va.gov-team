@@ -68,15 +68,16 @@ Think about your last primary care provider visit at the VA.
 Keep that pre-appointment experience in mind through the next series of scenarios that we are going to discuss. I will give you a task and ask you to "narrate" your thoughts as you complete the task. 
 
 - _Rotate the order in which participants are presented the following scenarios._
-	- _Participant 1: 1 (email), 2a, then 2b._
-	- _Participant 2: 2b, 2a, then 1 (text)._
+	- _Participant 1: 1 (email), then 2 (a)_
+	- _Participant 2: 2 (b), then 1 (text)._
 	- _Etc._
 
 I'm going to send you a link in the chat.
 
 [Mobile Prototype with Email option]()<br/>
 [Mobile Prototype with Text option]()<br/>
-_Send half of participants the email example and send half a text example._
+_Half of participants will go through the email example and half the text example._
+_Half of participants will go through the in-progress (2a) questionnaire example and half the completed (2b) questionnaire example._
 
 
 ### Scenario 1
@@ -132,6 +133,9 @@ _(Start them on the va.gov homepage…if they get stuck, then direct them to the
 	- Is there any other information that we should include on this page?
 
 #### Scenario 2a
+Have the participant click to the Questionnaire list (To do tab)
+- Can you tell me what you think the difference is between the cards shown on the screen?
+
 You (in the prototype, your name will be Hector Allen) were sent a questionnaire to complete for your upcoming appointment with your primary care provider on January 4, 2021. You started to fill it out, but you didn’t complete it. Find the questionnaire and finish filling it out.		
 - _Things to watch/listen for:_
 	- _Did the Veteran successfully complete the task. Success = getting to the screen with the "Your questionnaire has been sent to your provider." alert box._
@@ -162,6 +166,7 @@ Click on the “View and print questions” button, what are your impressions of
 - Would you want any additional information added to this PDF?
 
 _(Ask to all participants.)_<br/>
+- _Have the participant go back to the Questionnaire list (completed tab)_ Can you tell me what you think the difference is between the cards shown on the screen?
 - Would you want to see questionnaire responses over time?
 	- When?
 	- What is the questionnaire resulted in a score? Would you be interested in seeing your score over time?
