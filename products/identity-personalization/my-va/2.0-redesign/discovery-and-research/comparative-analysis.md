@@ -209,13 +209,15 @@ Schwab's logged in experience was more modern than the other investment-focused 
 
 Their approach to navigation was complex- a top level navigation, where each item triggered a sectioned megamenu.  When you were in a top level section, a secondary navigation with those sections as navigation points appeared below the main navigation.  While complicated, it appears to be an effective way to help users understand their options without necessarily having to parse through the entire mega menu every time.
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/Schwab-Logged-In-Dashboard.jpg)![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/Schwab-Accounts-MegaMenu.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/Schwab-Accounts-MegaMenu.png)
 
 ### Geico
 
 Geico's unique logged-in homepage is a hyper focused, two column view dedicated to the users policies and actions.  Even the navigation is mostly hidden.  Alerts appear above the two columns, along a large welcome message.  This approach is effective in providing the user with direct access to tasks. However, navigating away from the dashboard turned out to be messy  without a consistent visual approach, and navigation changing throughout the experience.  The user was also repeatedly asked to log in again, even though his name was reflected back to him. Geico's site demonstrated the important role navigation plays in orienting the user and building trust.
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/geico-desktop-dashboard-welcome.png)![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/GEICO.3-Logged-In_Dashboard2.jpeg)![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/geico-desktop-logged-in-go-to-geico.com.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/geico-desktop-dashboard-welcome.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/GEICO.3-Logged-In_Dashboard2.jpeg)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/geico-desktop-logged-in-go-to-geico.com.png)
 
 ### State Farm
 
@@ -223,9 +225,9 @@ State Farm's logged in homepage was one of the easiest to navigate, largely due 
 
 The way users navigated from authenticated to unauthenticated content was particularly interesting - they had two small links above the overall navigation that allowed users to toggle between the two experiences.  Although subtle, the labeling is clear once noticed, and from there it's effortless to go between the two options.
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/state-farm-desktop-dashboard.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/state-farm-desktop-dashboard.png)
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/state-farm-main-menu-active.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/state-farm-main-menu-active.png)
 
 *(second screenshot shows navigation when "main menu" is clicked from the "my account" view shown in first screenshot)*
 
@@ -235,7 +237,7 @@ USAA did a good job of splitting different offerings (Insurance, Services, Banki
 
 USAA added sections for offerings the user hasn't signed up for yet (see Services and Banking sections) with "learn more" calls to action.  While it adds to clutter on the page, the approach could inform how we help Veterans learn about benefits they are eligible for, but haven't applied for yet. The way it's presented here feels a little tricky since it is seamlessly integrated with the items the user did sign up for, but it also doesn't feel like marketing noise.
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/USAA-Desktop-Auth-Home.png)
+![](hhttps://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/USAA-Desktop-Auth-Home.png)
 
 ### Quality Payment Program (QPP)
 
@@ -243,7 +245,7 @@ QPP's logged-in experience was most notably distinct from many of the other site
 
 The vertical navigation creates more of a "dashboard" vs "homepage" feeling, which is important to take under consideration as we get closer to determining our approach.
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/QPP-dash.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/QPP-dash.png)
 
 ### Delta
 
@@ -251,7 +253,9 @@ Delta's logged-in experience was the most subtle of them all, with the homepage 
 
 Their approach to alerts and accessing personalized content in the site was interesting - clicking on the user name or the notification icon triggered the same tabbed modal, with a different tab active depending on what you clicked on.  While this can't replace a logged-in homepage, the approach is effective at providing personalized information quickly from anywhere in the site.
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/delta-menu-user.png)![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/delta-menu-feed-notifications.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/delta-menu-user.png)
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/delta-menu-feed-notifications.png)
 
 ### Google
 
@@ -259,4 +263,4 @@ Google's use case is quite different from VA.gov, but it was worth evaluating th
 
 The account dashboard felt like the most relevant area to evaluate for this research. Despite the different use cases, similar patterns such as content groupings and text links to complete tasks are used on Google's dashboard. Like State Farm, it was easy to scan the content on the page thanks to lots of white space and clean typography.  This is another example  of left-hand vertical navigation, which was easy to navigate and distinct from the overall navigation.
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/google-account-dashboard.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/images/google-account-dashboard.png)
