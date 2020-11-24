@@ -84,6 +84,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     - [Public and Automated PDF Technical Discovery](#public-and-automated-pdf-technical-discovery)
     - [COVID-19 Screener](#covid-19-screener)
     - [VA Medical Sites](#va-medical-sites)
+    - [App Directory](#app-directory)
     - [New Project Name](#new-project-name)
 
 ## Helpful links
