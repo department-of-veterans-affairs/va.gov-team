@@ -21,9 +21,10 @@
     - [Education wizard content outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/content-outlines/education-forms-wizard.md)
        - [Development Guide Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16473)
      - [Disability wizard content outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/content-outlines/disability-form.md)
+     - [Higher Level Review wizard content outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/content-outlines/higher-level-review-form-wizard.md)
        -  [Development Guide Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16517)
      - [Chapter 31 wizard content outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/content-outlines/chapter%2031-form-wizard.md)
-     - Chapter 36 wizard content outline coming soon
+     - [Chapter 36 wizard content outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/content-outlines/chapter%2036-form-wizard.md)
 - [Usability Study Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/files/5548107/Wizard.Migration.Usability.Study.Synthesis.pdf)
 - [Updated Analytics Data Layer Implementation spec](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/tracking-how-to-wizards.md)
   
