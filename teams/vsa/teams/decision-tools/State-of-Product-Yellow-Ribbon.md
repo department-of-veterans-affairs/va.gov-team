@@ -1,4 +1,4 @@
-# State of the Product: Yellow Ribbon School Search
+# State of the Product: Find a Yellow Ribbon School
 
 ## Current Focus and Status of Team
 The Decision Tools Team is comprised of two members - Marci McGuire (PM) and Zach Morel (FE Engineer), who are responsible for the **[Find a Yellow Ribbon School search](https://www.va.gov/education/yellow-ribbon-participating-schools/)** and the **[Find a VA Form search tool](https://www.va.gov/find-forms/)**.   John Hashimoto with the US Digital Service is the Product Owner for both products.
