@@ -103,7 +103,53 @@ We are going to start with version (A or B), and I'll send you the link. *send l
 
 Link: https://vsateams.invisionapp.com/share/EDZFDJ7UWTC#/437719085_myVA_Mobile_A
 
-## First task: Overview & Updates
+## First task: Claims scenario
+
+Okay, great. Now, I'm going to give you a scenario. You've recently submitted a claim and you are waiting to see if it has been approved. You've just landed on this page.
+
+1. Could you walk me through how you would do that?
+
+    *If they look for the update in the updates section:*
+
+    1. Why would you expect it to be in this section?
+    2. What information would you expect to see related to your claim?
+
+    *If they look for the update in the claims section:*
+
+    1. Why would you expect it to be in this section?
+   
+#### Things to watch for:
+
+- Does the user notice the updates section? 
+- Are they confused about where claims or claim status updates are located?
+- Does the user feel they are receiving enough information?
+
+## Second task: Health care scenario
+
+Okay, we're now going to move on to another scenario. Imagine you are currently enrolled in health care with the VA. You've come to this page to see when your next appointment is.
+
+1. Can you walk me through how you would do that?
+
+    *If they look for appointments in the updates section:*
+
+    1. Was it easy or hard to find your upcoming appointment?
+    2. Can you tell me why you think it would be in the updates section?
+
+    *If they look for appointments in the health care section:*
+
+    1. Was it easy or hard to find your upcoming appointment?
+    2. Can you tell me why you think it would be in the health care section?
+
+Okay great, thank you.
+
+#### Things to watch for:
+
+- Can the user easily find their appointments?
+- Is the user confused about anything within the health care section?
+- Does the user think there should be more or less information?
+- Does the user notice the links in the health care section?
+
+## Third task: Overview & Updates
 
 Go ahead and scroll through this page and walk me through your thoughts on each section, starting with where you see your name (Charles) in the dark grey box.
 
@@ -172,21 +218,30 @@ If you could go ahead and scroll down to the section that says 'Benefit applicat
 - Can the user easily find the 'What benefits does the VA offer?' link?
 - Is the user confused by any of the information in the benefit application cards?
 
-## Second task: Claims scenario
 
-Okay, great. Now, I'm going to give you a scenario. You've recently submitted a claim and you are waiting to see if it has been approved. You've just landed on this page.
+**Transitioning between prototypes**
+
+Okay great, now let's move onto the second prototype, this is version (A or B). I'm going to drop another link in the chat. 
+
+# VERSION B
+
+Link: https://vsateams.invisionapp.com/share/HDZFDLY3WEZ#/437720005_myVA_Mobile_B
+
+## First task: Claims scenario
+
+Okay great. Go ahead and go back to the previous screen by clicking 'Claims and appeals' again. I'm now going to give you a scenario - imagine you are trying to view all of your claims in progress and you've just landed on this page.
 
 1. Could you walk me through how you would do that?
 
-    *If they look for the update in the updates section:*
+    *If they look for their claims in progress in the claims updates section:*
 
     1. Why would you expect it to be in this section?
     2. What information would you expect to see related to your claim?
 
-    *If they look for the update in the claims section:*
+    *If they look for their claims in progress in the claims section:*
 
     1. Why would you expect it to be in this section?
-   
+
 #### Things to watch for:
 
 - Does the user notice the updates section? 
@@ -195,18 +250,18 @@ Okay, great. Now, I'm going to give you a scenario. You've recently submitted a 
 
 ## Third task: Health care scenario
 
-Okay, we're now going to move on to another scenario. Imagine you are currently enrolled in health care with the VA. You've come to this page to see when your next appointment is.
+Okay, we're now going to move on to another scenario. Imagine you are currently enrolled in health care with the VA. You've come to this page to see the latest message from your doctor.
 
 1. Can you walk me through how you would do that?
 
-    *If they look for appointments in the updates section:*
+    *If they look for messages in the health care updates section:*
 
-    1. Was it easy or hard to find your upcoming appointment?
+    1. Was it easy or hard to find your new messages?
     2. Can you tell me why you think it would be in the updates section?
 
-    *If they look for appointments in the health care section:*
+    *If they look for messages in the health care section:*
 
-    1. Was it easy or hard to find your upcoming appointment?
+    1. Was it easy or hard to find your new messages?
     2. Can you tell me why you think it would be in the health care section?
 
 Okay great, thank you.
@@ -217,16 +272,9 @@ Okay great, thank you.
 - Is the user confused about anything within the health care section?
 - Does the user think there should be more or less information?
 - Does the user notice the links in the health care section?
+- What information would you like to see on this page related to your appointments?
 
-**Transitioning between prototypes**
-
-Okay great, now let's move onto the second prototype, this is version (A or B). I'm going to drop another link in the chat. 
-
-# VERSION B
-
-Link: https://vsateams.invisionapp.com/share/HDZFDLY3WEZ#/437720005_myVA_Mobile_B
-
-## First task: Overview & Updates
+## Third task: Overview & Updates
 
 Without clicking on anything, go ahead and scroll through this page and walk me through your thoughts on each section, starting with where you see your name (Charles) in the dark grey box.
 
@@ -304,53 +352,6 @@ If you could go ahead and scroll down to the section that says 'Benefit applicat
 - Is the user confused that there is more information showing for the benefits section?
 - Can the user easily find the 'What benefits does the VA offer?' link?
 - Is the user confused by any of the information in the benefit application cards?
-
-## Second task: Claims scenario
-
-Okay great. Go ahead and go back to the previous screen by clicking 'Claims and appeals' again. I'm now going to give you a scenario - imagine you are trying to view all of your claims in progress and you've just landed on this page.
-
-1. Could you walk me through how you would do that?
-
-    *If they look for their claims in progress in the claims updates section:*
-
-    1. Why would you expect it to be in this section?
-    2. What information would you expect to see related to your claim?
-
-    *If they look for their claims in progress in the claims section:*
-
-    1. Why would you expect it to be in this section?
-
-#### Things to watch for:
-
-- Does the user notice the updates section? 
-- Are they confused about where claims or claim status updates are located?
-- Does the user feel they are receiving enough information?
-
-## Third task: Health care scenario
-
-Okay, we're now going to move on to another scenario. Imagine you are currently enrolled in health care with the VA. You've come to this page to see the latest message from your doctor.
-
-1. Can you walk me through how you would do that?
-
-    *If they look for messages in the health care updates section:*
-
-    1. Was it easy or hard to find your new messages?
-    2. Can you tell me why you think it would be in the updates section?
-
-    *If they look for messages in the health care section:*
-
-    1. Was it easy or hard to find your new messages?
-    2. Can you tell me why you think it would be in the health care section?
-
-Okay great, thank you.
-
-#### Things to watch for:
-
-- Can the user easily find their appointments?
-- Is the user confused about anything within the health care section?
-- Does the user think there should be more or less information?
-- Does the user notice the links in the health care section?
-- What information would you like to see on this page related to your appointments?
 
 **Transitioning between prototypes**
 
