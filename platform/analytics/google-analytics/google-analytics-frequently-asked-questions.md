@@ -23,6 +23,8 @@
   - [Why do I not have the same tracking on eBenefits or MHV?](#why-do-i-not-have-the-same-tracking-on-ebenefits-or-mhv)
   - [What is DOMO?](#what-is-domo)
   - [How do we get a product success tool built for our team?](#how-do-we-get-a-product-success-tool-built-for-our-team) 
+  - [What time frame is data from the Benefit Hubs and Products content groupings available?](#what-time-frame-is-data-from-the-benefit-hubs-and-products-content-groupings-available) 
+  - [Why is the data for the Benefit Hubs content grouping different than the data in the Products content grouping?](#why-is-the-data-for-the-benefit-hubs-content-grouping-different-than-the-data-in-the-products-content-grouping) 
  
 ## General Google Analytics Questions
   - [What is a "dimension" in Google Analytics?](#what-is-a-dimension-in-google-analytics)
@@ -145,3 +147,9 @@ DOMO is a business intelligence tool purchased by the Analytics & Insights team 
 
 ### How do we get a Product Success Tool built for our team? 
 Please submit a request for the Product Success tool [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/product-success-tool-request.md). Before submitting, we please ask to have your teams KPIs established and close-to final product. Our team is here to assist with any questions you may have around KPI setting. 
+
+### What time frame is data from the Benefit Hubs and Products content groupings available? 
+Content groupings can only be used once they are created. They cannot be retroactively applied to look at historical data. The conent groupings are only available in Google Analytics from July 20th (Benefit Hubs content grouping) and July 30th (Products content grouping).
+
+## Why is the data for the Benefit Hubs content grouping different than the data in the Products content grouping?
+The two content groupings were built using different rules for grouping the content. The Benefit Hubs content grouping groups data into buckets based on the domain of each Benefit Hub and the Products content grouping groups data into buckets based on the products in the Benefit Hubs. 
