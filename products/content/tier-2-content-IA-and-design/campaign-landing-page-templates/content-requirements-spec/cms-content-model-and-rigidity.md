@@ -2,7 +2,7 @@
 
 1. [Panels](#panels)
 2. [Other issues](#other-issues)
-3. [Governance] (#governance)
+3. [Governance](#governance)
 
 # Panels
 
