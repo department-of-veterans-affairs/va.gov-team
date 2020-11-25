@@ -1,3 +1,5 @@
+# Veteran Interview Conversation Guide
+
 Hello! My name is [researcher name]. I’m an employee at Veterans Affairs, and we are working on a project to make it easier for Veterans to tell Veterans Affairs about any changes in the people that are financially dependent on them. For example, things like getting married, having a baby, or adopting a child. Would it be okay if I ask you some questions about those topics, so that Veterans Affairs can make it as simple as possible to keep that information up to date? 
 
 (Get confirmation) 
@@ -6,10 +8,10 @@ We’d like to record this interview for research purposes, but once we are done
 
 (Get confirmation, record if permission is given) 
 
-# (Introduction)
+## (Introduction)
 Tell me briefly about your service. 
 
-# (Part 1: Questions to inform flow and intercept design)
+## (Part 1: Questions to inform flow and intercept design)
 When was the last time you visited VA.gov?
 
 What did you go to VA.gov to do? 
@@ -20,7 +22,7 @@ When logging in, how would you feel about being asked to verify the information 
 
 What are other ways that you might do business with VA that may be good opportunity to remind you to update their dependents’ information?
 
-# (Part 2: Questions related to benefits and dependents) 
+## (Part 2: Questions related to benefits and dependents) 
 Are you receiving VA benefits?
 
 Do you have any dependents? 
@@ -37,12 +39,12 @@ What’s the best way for you to learn how those dependents would affect those b
 
 We know that sometimes a benefit status change might happen as the result of a sensitive issue. If that status of your dependents changed to to a life change that might be sensitive or upsetting, how would you like VA to ask you about that? 
 
-# (Part 3: Questions about overpayment)
+## (Part 3: Questions about overpayment)
 If you are overpaid for a benefit because the VA doesn’t have accurate information about your dependents, you can end up owing the VA money. We want to avoid that any way possible. 
 
 If your benefits had been overpaid as a result of a change in the status of your dependents, how would you like to find about that?
 
-# (Part 4: Closing questions)
+## (Part 4: Closing questions)
 Is there anything else that we didn’t discuss regarding the relationship between your dependents and your benefits that you think we should be aware of? 
 
 Do you have any questions for me about this work? 
