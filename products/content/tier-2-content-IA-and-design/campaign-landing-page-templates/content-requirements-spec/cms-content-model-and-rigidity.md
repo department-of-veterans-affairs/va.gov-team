@@ -1,7 +1,10 @@
+Decisions log from CMS implementation of MVP, November 2020
+
 # On this page
 
 1. [Panels](#panels)
 2. [Other issues](#other-issues)
+3. [Governance](#governance) 
 
 # Panels
 
@@ -203,7 +206,7 @@ No questions.
 **A:**
 
 
-## MVP governance
+## Governance
 
 Sections: [what sections do these belong to, during MVP?]
 
