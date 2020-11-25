@@ -1,10 +1,8 @@
-Decisions log from CMS implementation of MVP, November 2020
-
 # On this page
 
 1. [Panels](#panels)
 2. [Other issues](#other-issues)
-3. [Governance](#governance) 
+3. [Governance] (#governance)
 
 # Panels
 
@@ -206,13 +204,40 @@ No questions.
 **A:**
 
 
-## Governance
+# Governance
 
-Sections: [what sections do these belong to, during MVP?]
+**Editorial Workflow Role Assignments:** 
 
-Role: [who can edit during MVP?] 
+For MVP - The only editors will be Content Admins, except possibly for editorial experience testing.
 
-User administration: [How will users be given access during MVP] 
+Post-MVP: CMS team will support Public Websites team with guidelines. 
 
-URL alias: [what is the url alias pattern?]
+**User Administration Policy:** 
+
+For MVP - Public websites POs request new users to be added, and decide on their editorial workflow roles.  
+
+Post MVP: CMS team will support the Public Websites team in the design of a User Administration policy.
+
+**Content creation:** 
+
+For MVP - editors will be Content Admins. 
+* Content Admins will implement whatever IA is designed by the Content & IA team.
+
+Post MVP - A content lifecycle document should describe the method by which Campaign Landing Pages are “applied for”, created, edited, and published.
+
+**Sections/content ownership:**
+
+For MVP - Proposal: MVP content will live in a new Section called “Campaign Landing Pages” under DEPO > Public Websites > 
+
+Post-MVP: Sections can be added elsewhere in the Sections hierarchy, such as under VHA > Campaign Landing Page, depending on editor base.  
+
+**Content lifecycle:** 
+
+For MVP -  sunset will be sunset manually, if at all. 
+
+**CMS Team point-of-contact:**   
+
+Kevin Walsh
+
+
 
