@@ -15,7 +15,12 @@ The Design System Team mission statement is to provide simple, scalable, high qu
 
 
 ## Problem Statement
+As stated above, the existing patterns in the forms library either aren't documented at all or aren’t well documented. This problem has resulted in the following:
 
+- VFS engineers encountering challenges when implementing and/or VFS designers creating new patterns.  
+- VSA team has created their own documentation for form patterns which is  internal to their own team. 
+- The lack of documentation leads to a knowledge gap between designers and developers and wasted time spent on designing and building a form pattern that already exists. 
+- Current form templates are out of date 
 
 
 ## Desired User Outcomes
