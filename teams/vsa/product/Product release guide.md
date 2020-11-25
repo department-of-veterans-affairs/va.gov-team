@@ -19,7 +19,7 @@ How do we ensure a smooth and successful launch?
 - [UAT Template](www.google.com)*
 - [UAT Plan Example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/UAT/profile-research-plan-UAT.md)
 - [ ] Complete Release Plan 
-- [Example Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Release%20Plan.md)
+- [Release Plan Example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Release%20Plan.md)
 
 
 ### Staging Review PREP (2 weeks prior to Staging Review)
@@ -29,12 +29,6 @@ How do we ensure a smooth and successful launch?
 - [ ] Create “Coverage for references report” OR a add a link to the Epic for the product you are releasing  
 #### Accessibility
 - [ ] Complete the [required accessibility checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
-- [ ] Axe scans in daily development
-- [ ] Axe scans included in end-to-end tests
-- [ ] Color tests for proper contrast and colorblindness
-- [ ] Content zoomed to 200%, 300%, 400%
-- [ ] Keyboard navigation check
-- [ ] Screen reader tests (VoiceOver + Safari or NVDA + Firefox)
 - [ ] Complete QA/Accessiblilty tickets that came out of Staging review prep (if any)
 
 ### Conduct Internal QA Session
@@ -56,10 +50,10 @@ It is beneficial to conduct an internal QA session prior to actual QA. This cons
 - [ ] Complete all QA feedback tickets
 - [ ] Complete all Content feedback tickets
 - [ ] Complete all Design feedback tickets
-- [ ] Complete all Product feedback tickets
 
 ### [Contact Center review]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#contact-center-review)
 - [ ] Create Product guide
+      - [Product Guide example]()
 - [ ] Create Product video
 - [ ] Submit request for Contact Center Review
 - [ ] Complete Contact Center Review
@@ -74,7 +68,7 @@ It is beneficial to conduct an internal QA session prior to actual QA. This cons
 
 ### Preparing/Updating all necessary supporting documentation for your product
 - [ ] API calls and dependent systems [Example](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account#api-calls-and-dependent-systems)
-- [ ] Update product outline with updated release information and links to analytics dashboards
+- [ ] Update product outline with updated release information and links to analytics dashboards [Product Outline Example](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account)
 
 ### Coordinate with relevant parties regarding any changes that affect other teams/stakeholders
 #### Ex:(re-directs, changes to content, changes that affect other teams) 
@@ -84,10 +78,10 @@ It is beneficial to conduct an internal QA session prior to actual QA. This cons
 ## Release
 ### UAT
 - [ ] Conduct UAT Go/No-Go meeting 
-- [example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/uat-go-nogo.md)
+- [Example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/uat-go-nogo.md)
 - [ ] UAT has been conducted
 - [ ] Issues have been logged/added to the Release Plan. [Example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Release%20Plan.md)
-- [ ] Critical UAT issues have been resolved
+- [ ] Launch-Critical UAT issues have been resolved
 
 ### Phased Launch (depends on phases in your launch)*
 - [ ] Conduct Launch Go/No-Go meeting
@@ -111,7 +105,7 @@ It is beneficial to conduct an internal QA session prior to actual QA. This cons
 - [ ] Remove old code (if applicable)
 
 ### [Full Accessiblity and 508 Office Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#full-accessibility-and-508-office-audit)
-- [ ] Request [Full Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+shiragoodman&labels=508%2FAccessibility%2C+vsp-product-support%2C+collaboration-cycle%2C+collab-cycle-review&template=full-accessibility-and-508-office-audit.md&title=Full+Accessibility+%26+508+Office+Audit+%5BTeam+Name+-+Feature+Name%5D)
+- [ ] Request [Full 508/Accessibility Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+shiragoodman&labels=508%2FAccessibility%2C+vsp-product-support%2C+collaboration-cycle%2C+collab-cycle-review&template=full-accessibility-and-508-office-audit.md&title=Full+Accessibility+%26+508+Office+Audit+%5BTeam+Name+-+Feature+Name%5D)
 - [ ] Complete required scans/tests
 - [ ] Make required changes (if any)
 
