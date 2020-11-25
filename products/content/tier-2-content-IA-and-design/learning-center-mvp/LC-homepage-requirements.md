@@ -10,7 +10,7 @@ This is WIP and may evolve based on user research and technical findings.
 - LC homepage must allow in-body alert component (reusable or non-reusable) - TBD ux recommendation: below the search bar
 - LC homepage CMS governance - owned and managed by PW. - Up to 5 articles can be displayed per category and then a link to see all of the articles in that category - 'Go to all articles' (in this category). 
 - On 1.0 and 1.1 launch, the PW content team should have the ability to curate which 5 articles to surface on the homepage under each category. (In the future, we'd like this curation to be automated based on analytics, such as what article users view most often each month or X timeframe TBD.) 
-- The categories in the 'Find articles by topics' should appear alphabetically by the category name, with the exception of the 'Other' category which should always be the last category. 
+- The categories in the 'Browse ~Find articles~ by topics' should appear alphabetically by the category name, with the exception of the 'Other' category which should always be the last category. 
 - The audience labels under the beneficiary vs. non-beneficiary boxes should appear in alpha list. Up to 5, and then expand link to show more. 
 - Must enable default analytics tracking
 
@@ -21,9 +21,11 @@ This is WIP and may evolve based on user research and technical findings.
 ## Browse by audience section
 - Audiences are listed alphabetically.
 - Audience labels are based on the <beneficiary> and <non-beneficiary> audience tag meta data in the CMS.
-- Display audience only when RS content in the CMS has that audience checked. (I.e., If NO articles are using that audience tag, do not display as an audience in this section.)
+- Display audience only when RS content in the CMS has that audience checked. 
+  -  I.e., __If NO articles are using that audience tag__, do not display as an audience in the Browse by audience section.
 - On default show up to 5 audience lables. 
 - When there are more than 5, display the "Show more" expander link. On clicking "Show more," display all of the remaining audiences that articles have enabled in the CMS. 
+- When a user clicks on an audience lable in this section, they should go to the "All articles tagged: <tag lable>" page. 
   
 
 ## Browse by topics section
