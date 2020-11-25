@@ -48,6 +48,13 @@ This does not include research for Appeals projects, which is stored in differen
 
 ### August 2020
 
+#### August 20 - November 30: UAT testing. HLR and BDD.
+*GovernmentCIO, BAM 1. Lead researcher: Christian Valla
+
+-12 participants 
+
+- [Research folder] N/A.
+
 #### August 31 - September 11: Learning center nomenclature card sort
 *Public Websites: Liz Lantz*
 - 39 Veteran participnts, 9 SME participants
