@@ -91,4 +91,4 @@ Detail
 
 #### [Interview notes and takeaways](https://docs.google.com/spreadsheets/d/1sFzgAGHp_9EPYCc_CjioXgvWzlBVOewg6qFYEJm_jOU/edit?ts=5fb6d64d#gid=0)
 
-#### [Synthesis spreadsheet]()
+#### [Synthesis spreadsheet]
