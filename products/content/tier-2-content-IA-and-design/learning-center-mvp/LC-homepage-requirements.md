@@ -1,9 +1,9 @@
-# Learning center homepage requirements
+# Learning center (global) homepage requirements
 
 This is WIP and may evolve based on user research and technical findings.
 
 - Final name: Resources and support. 
-- H1: Resources and support for your VA benefits and services
+- H1: Resources and support
 - Lc homepage will include search option prominently. It will include both LC and 'all va' options. 
 - Must enable search error messages and standard system error messages.
 - LC homepage must allow full width banner alert component
@@ -14,4 +14,26 @@ This is WIP and may evolve based on user research and technical findings.
 - The audience labels under the beneficiary vs. non-beneficiary boxes should appear in alpha list. Up to 5, and then expand link to show more. 
 - Must enable default analytics tracking
 
+# Learning center homepage 1.1 FE logic and UX
+
+1.1 design has been updated to reflect interim, continuous content publishing mode. (Note: once all audiences, etc. are available, the RS homepage design may need to be updated again.)
+
+## Browse by audience section
+- Audiences are listed alphabetically.
+- Audience labels are based on the <beneficiary> and <non-beneficiary> audience tag meta data in the CMS.
+- Display audience only when RS content in the CMS has that audience checked. (I.e., If NO articles are using that audience tag, do not display as an audience in this section.)
+- On default show up to 5 audience lables. 
+- When there are more than 5, display the "Show more" expander link. On clicking "Show more," display all of the remaining audiences that articles have enabled in the CMS. 
+  
+
+## Browse by topics section
+- Display categories in the FE only when articles in the CMS has it selected as a __PRIMARY category__. 
+- Always display "VA account and profile" as the first category in the section. 
+- Display benefit categories alphabetically, after "VA account and profile."  
+- Always display "Other topics and questions" as the last category in the section. 
+- Category topics pull from the <Articles primary category> field in the CMS.
+- On default show up to 2 rows (6 categories). 
+- When there are more than 6 categories with live content, display "Show all topics" button/link. Clicking it should display everything remaining that has live content. 
+
+  
 
