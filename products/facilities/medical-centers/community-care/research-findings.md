@@ -30,7 +30,6 @@ Remote, moderated sessions were conducted via Teams for generative questioning.
 - What information do you see from the VAOS request? Of that information, what do you use? What is helpful?
 - How do you search for type of care/specialities? Where do you search for that data + providers?
    - What words/categories are used by the schedulers when searching?
-   - ~Which specialties are the most commonly searched? Rarely searched? Never searched?~ This can be answered through analytics
 - What search parameters do Community Care Request managers use to identify the appropriate community care provider?
    - What are community care managers' expectations for search results (such as the number of results and distance/drive time) vs. reality?
     - Does that align with Veterans' expectations?
@@ -38,4 +37,31 @@ Remote, moderated sessions were conducted via Teams for generative questioning.
 - What do those search results look like, what is useful to schedule the appointment, and what do schedulers convey to the Veterans about the provider? And what is a waste of time (unnecessary/confusing)?
 - If you could change anything about community care online scheduling through VAOS what would it be?
 - If the community care managers are able to share anecdotal experience, we'd love to know what factors are important to a Veteran so that we can present Facility Locator Community care provider search results accordingly.
+
+## Findings
+
+### Findings by Hypothesis
+
+* We can automate/simplify the search experience in VAOS.
+  * Finding: 
+* We can automate/simplify the search experience in Facility Locator.
+  * Finding: 
+
+### Key Findings
+
+1. 
+
+### Details of Findings
+
+#### 1. Finding
+Detail
+
+#### 2. Finding
+Detail
+
+#### 3. Finding
+Detail
+
+#### 4. Finding
+Detail
 
