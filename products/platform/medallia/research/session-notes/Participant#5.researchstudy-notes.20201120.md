@@ -1,5 +1,6 @@
 Set Up
 ------
+*Participant feedback in bold*
 
 Can you let me know what kind of device you’re using, laptop/desktop or a mobile device?
 
