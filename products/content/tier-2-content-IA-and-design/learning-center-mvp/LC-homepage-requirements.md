@@ -20,12 +20,12 @@ This is WIP and may evolve based on user research and technical findings.
 
 ## Browse by audience section
 - Audiences are listed alphabetically.
-- Audience labels are based on the <beneficiary> and <non-beneficiary> audience tag meta data in the CMS.
+- Audience labels are based on the {beneficiary} and {non-beneficiary} audience tag meta data in the CMS.
 - Display audience only when RS content in the CMS has that audience checked. 
   -  I.e., __If NO articles are using that audience tag__, do not display as an audience in the Browse by audience section.
 - On default show up to 5 audience lables. 
 - When there are more than 5, display the "Show more" expander link. On clicking "Show more," display all of the remaining audiences that articles have enabled in the CMS. 
-- When a user clicks on an audience lable in this section, they should go to the "All articles tagged: <tag lable>" page. 
+- When a user clicks on an audience lable in this section, they should go to the "All articles tagged: {tag lable}" page. 
   
 
 ## Browse by topics section
@@ -33,9 +33,13 @@ This is WIP and may evolve based on user research and technical findings.
 - Always display "VA account and profile" as the first category in the section. 
 - Display benefit categories alphabetically, after "VA account and profile."  
 - Always display "Other topics and questions" as the last category in the section. 
-- Category topics pull from the <Articles primary category> field in the CMS.
+- Category topics pull from the {Articles primary category} field in the CMS.
 - On default show up to 2 rows (6 categories). 
 - When there are more than 6 categories with live content, display "Show all topics" button/link. Clicking it should display everything remaining that has live content. 
 
   
+## Desktop 1.1 - collapsed/hide and expanded/unhide states
 
+
+
+## Mobile 1.1
