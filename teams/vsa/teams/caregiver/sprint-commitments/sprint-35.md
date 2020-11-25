@@ -16,14 +16,16 @@
 
 ## Backend
 - [x] Merge secondary caregiver work
-- [ ] Connect to CARMA in Review Instance (*requires support from Platform)
+- [x] Connect to CARMA in Review Instance (*requires support from Platform)
+  - Unable to connect due to seprate error: https://github.com/department-of-veterans-affairs/va.gov-team/issues/15486#issuecomment-733407735
 - [ ] [Attempt resubmission of PDF on failure](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15147)
 - [x] Add filters to Form 10-10CG Logging
   - [5355](https://github.com/department-of-veterans-affairs/vets-api/pull/5355)
 - [x] [Logging PDF Gen Errors](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15146)
   - [5360](https://github.com/department-of-veterans-affairs/vets-api/pull/5360)
-- [ ] [Federated States of Micronesia](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16226)
-- [ ] [Add logging/query to track # of secondary only applications](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16548) 
+- [x] [Federated States of Micronesia](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16226)
+  - Tested all non-continential states and reported to CARMA
+- [x] [Add logging/query to track # of secondary only applications](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16548) 
 - [ ] Cookie research (Dev ops?)
 
 ## Design
