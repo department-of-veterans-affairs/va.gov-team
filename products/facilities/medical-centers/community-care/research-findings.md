@@ -2,7 +2,7 @@
 
 **VAOS, Facility Locator**<br>
 
-Chris Logan (clogan@governmentcio.com), 11/25/2020
+11/25/2020
 
 ## Research Goals 
 
@@ -50,6 +50,9 @@ Remote, moderated sessions were conducted via Teams for generative questioning.
 ### Key Findings
 
 1. 
+2.
+3.
+4.
 
 ### Details of Findings
 
