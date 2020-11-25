@@ -38,8 +38,7 @@ This is WIP and may evolve based on user research and technical findings.
 - When there are more than 6 categories with live content, display "Show all topics" button/link. Clicking it should display everything remaining that has live content. 
 
   
-## Desktop 1.1 - collapsed/hide and expanded/unhide states
+## Desktop and mobile 1.1 mockups  
 
+[See ticket #15649](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15649)
 
-
-## Mobile 1.1
