@@ -188,7 +188,7 @@ We have custom commands to acccomplish some common tasks, which are highlighted 
 
 For simulating a signed-in session with a mock user, use `cy.login()`.
 
-See [Mock Users in Cypress Best Practices for detailed usage](vsp-cypress-resources.md#mock-users)
+See [Mock Users in Cypress Best Practices](vsp-cypress-resources.md#mock-users) for detailed usage.
 
 #### Test data (fixtures) <a name="test-data"></a>
 
