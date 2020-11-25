@@ -5,7 +5,17 @@
  -  LC go-to-market strategy: how will users find the Learning Center?
 </details>
 
-## Tuesday November 17
+## Tuesday December 2
+
+### Agenda
+
+1. Video Description / Duration - required fields
+
+### Action items
+
+1. 
+
+## Tuesday November 25
 
 ### Agenda
 1. Video authoring workflow
@@ -15,6 +25,8 @@
 1. anything else
 
 ### Action items
+1. Adding Videos to Media list- Videos pages / CLP: Release note (as we release new fields) + CMS user guide (Q1 2021). 
+1. Video URL - Unique throghout the Media library, so that authors are not duplicating content [New Story]
 1. 
 
 ## Tuesday November 17
