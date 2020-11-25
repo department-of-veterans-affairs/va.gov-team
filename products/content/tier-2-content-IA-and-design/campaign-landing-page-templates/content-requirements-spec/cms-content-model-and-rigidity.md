@@ -125,7 +125,7 @@ CMS can support CMS-managed events, but it poses some tricky editorial experienc
 
 ~Q&As cannot be added "on the fly".~
 
-Decision November 24: Use Q&A approach currently in use on Benefits Detail Pages, where are not reusable. 
+Decision November 24: Use Q&A approach currently in use on Benefits Detail Pages, which, are not reusable, but hide all the additional options for other answer types. 
 
 
 
@@ -143,6 +143,13 @@ Currently, all but the phone number are contained within the component, albeit w
 **Q:** What kind of flexibility around phone numbers is required, and is this 100% needed for MVP?
 
 **A:** Not needed for MVP (demo/prototype) -- but will be needed for first production-ready release.
+
+
+**For MVP:**
+
+Editors will select one of four administrations (VBA, VHA, NCA or "Veterans Affairs") and the content will be pulled from the same place as the Benefits Hubs landing pages "Connect with us" component.
+
+Editors will not be able to specify a specific social media handle (eg facebook for Mental Health awareness month)
 
 
 
