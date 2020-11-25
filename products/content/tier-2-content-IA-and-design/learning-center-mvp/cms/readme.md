@@ -5,7 +5,7 @@
  -  LC go-to-market strategy: how will users find the Learning Center?
 </details>
 
-## Tuesday December 2
+## Wednesday December 2
 
 ### Agenda
 
@@ -15,7 +15,7 @@
 
 1. 
 
-## Tuesday November 25
+## Wednesday November 25
 
 ### Agenda
 1. Video authoring workflow
