@@ -89,6 +89,5 @@ Detail
 
 #### [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/community-care/discovery/conversation-guide.md)
 
-#### [Interview notes and takeaways](https://docs.google.com/spreadsheets/d/1sFzgAGHp_9EPYCc_CjioXgvWzlBVOewg6qFYEJm_jOU/edit?ts=5fb6d64d#gid=0)
+#### [Interview notes / takeaways for synthesis](https://docs.google.com/spreadsheets/d/1sFzgAGHp_9EPYCc_CjioXgvWzlBVOewg6qFYEJm_jOU/edit?ts=5fb6d64d#gid=0)
 
-#### [Synthesis spreadsheet]
