@@ -15,7 +15,7 @@ If you are on Rotation, you are responsible for
 
 **Slack**
 
-- Update the support tracker with new requests and update your- Respond to Slack messages.
+- Update the support tracker with new requests and update your- Respond to Slack messages to all customers, including VFS teams and VSP teams.
 
   - The customer should have a response within 2-3 hours during the business day.
   - These channels should be monitored: `#vfs-platform-support`, `#vfs-analytics`, `#vsp-analytics`
