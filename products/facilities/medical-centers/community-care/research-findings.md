@@ -68,3 +68,29 @@ Detail
 #### 4. Finding
 Detail
 
+## Additional Insights
+
+1. 
+2.
+3.
+4.
+
+## Recommendations
+
+*  
+
+## Next Steps
+
+* 
+
+## Appendix
+
+#### [Reaearch plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/community-care/discovery/research-plan.md)
+
+#### [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/community-care/discovery/conversation-guide.md)
+
+#### [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/user-research/urgent-care-mashup/notes)
+
+#### [Synthesis spreadsheet](https://docs.google.com/spreadsheets/d/19S2NyqP-DvlhojIlXf-KKFZT_uCY-dYH6zXfbUGmIFk/edit?usp=sharing)
+
+#### [UXPin Prototype of Facility Locator](https://preview.uxpin.com/dc9108ce2d9bbd5ad9a53d1173d77e605e0a985d#/pages/131055877/simulate/no-panels)
