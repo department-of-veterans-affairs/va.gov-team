@@ -92,7 +92,7 @@ Outside of access requests, anything that will take you longer than 5-10 minutes
   - Implementing GTM tagging
   - Configuring GA & any GA reporting
 - The original assignee will hand off the ticket to another Implementation Specialist to QA
-- Each person originally assigned is responsible for unassigning and reassigning to the person on rotation. If you are the person on rotation, please flag the team in Slack on #vsp-analytics and someone with capacity will help QA.
+*- Each person originally assigned is responsible for unassigning and reassigning to the QA person. If the work is ready to be QA'd, please flag the team in Slack on #vsp-analytics and someone with capacity will help QA. If you are QA-ing, please try to complete initial QA within 5 business days.*
 
 #### Domo Dashboarding Cadence
 
@@ -115,4 +115,4 @@ Outside of access requests, anything that will take you longer than 5-10 minutes
 - Closing tickets:
   - You may close the ticket when the Definition of Done is completed.
   - Please leave a comment on the work being completed within the ticket before closing.
-  - Please get a response from the requester (i.e. "We're closing this issue, but please let us know if you need anything else."). If your work is completed and the requester has not responded by the next Planning or Grooming session, we will close the ticket during Planning or Grooming.
+  - Please collaborate with the requester so that we have acknowledgement that they received the services they needed. A response is not necessary in the ticket, but we do need a comment from the person working on the ticket that they have spoken with the requester. (i.e. "We're closing this issue, but please let us know if you need anything else."). If your work is completed and the requester has not responded by the next Planning or Grooming session, we will close the ticket during Planning or Grooming.
