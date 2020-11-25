@@ -16,35 +16,36 @@
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research?
 
-   - What are people searching for on VA.gov? 
-   - How effective is VA.gov's search tool at providing the information people are seeking?
-   - At what point in their visit do Veterans use site search?
-   - Do veterans see where they can use search? Or is the hidden input box make it harder to find and to utilize?
-   - How can search results be improved to improve scanning behavior?
-   - How do Veterans scan search results?
-   - Is there a cognitive disconnect and/or issues for folks that the search results use such a tiny font compared to the rest of the site?
-   - Do people understand the difference between “top recommendations” and the rest of the results and what are their thoughts on that?
-   - Do people utilize or see “More VA search tools”? (get some data on the right rail)
-   - Do veterans know about other search utilities - find a facility, yellow ribbon
-   - How is the search experience different for Veterans across benefit hubs?
-   - How do Veterans perceive the search experience on VA.gov?
-   - What, if any, pain points do Veterans experience when using search?
-   - How do those pain points differ from mobile to desktop?
-   - What, if any, advanced search features do Veterans expect? (refinements, type ahead, etc)
-   - Where do Veterans look for information if they don't find it via VA.gov search?
-   - How do you see VA.gov search separate from google?
+   - **What are people searching for on VA.gov?** 
+   - **Search results page:**
+      - How effective is VA.gov's search tool at providing the information people are seeking?
+      - At what point in their visit do Veterans use site search?
+      - Do veterans see where they can use search? Or is the hidden input box make it harder to find and to utilize?
+      - How can search results be improved to improve scanning behavior?
+      - How do Veterans scan search results?
+      - Is there a cognitive disconnect and/or issues for folks that the search results utilize differing typography compared to the rest of the site?
+      - Do people understand the difference between “top recommendations” and the rest of the results and what are their thoughts on that?
+      - How do Veterans perceive the search experience on VA.gov?
+      - What, if any, advanced search features do Veterans expect? (refinements, type ahead, etc)
+   - **Other VA search utilities tools:**
+      - How effective is VA.gov's search tool at providing the information people are seeking?
+      - Do people utilize or see “More VA search tools”? (get some data on the right rail)
+      - Do veterans know about other search utilities - find a facility, yellow ribbon
+      - How is the search experience different for veterans across benefit hubs?
+   - **What, if any, pain points do Veterans experience when using search?**
+      - How do those pain points differ from mobile to desktop?
+   - **Where do Veterans look for information if they don't find it via VA.gov search?**
+      - How do you see VA.gov search separate from google?
 
 4. Hypothesis: What is your hypothesis for this research?
 
    - Search inquiries will align with top tasks.
 
-   - Veterans will experience the following pain points: 
+   - Veterans will experience the following pain points which will lead to Veterans perceiving our site search to be ineffective: 
 
      - Too many results to sort through.
      - The information they're looking for will not be immediately apparent from the search titles and descriptions.
      - Not having a way to refine search results.
-
-   - The above pain points will lead to Veterans perceiving our site search to be ineffective.
 
    - Veterans will expect filtering functionality on search results.
 
@@ -68,7 +69,7 @@
 
    Remote, moderated user interviews using staging.VA.gov
 
-2. Why this method? How does this methodology help you answer your research questions?
+2. Why this method? How does this methodology help you answer your research questions? 
 
 3. Where are you planning to do your research?
 
