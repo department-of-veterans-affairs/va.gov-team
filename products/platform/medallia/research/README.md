@@ -6,7 +6,7 @@
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/medallia/research/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/medallia/research/conversation-guide.md)
-- Session notes
+- [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/medallia/research/session-notes)
 - Research Report
 
 
