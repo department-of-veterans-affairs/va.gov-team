@@ -6,6 +6,7 @@
   - How will URL be specified?  Sometimes, they are asked to use a specific naming convention -- eg. agency.gov/hurricaneiris/ (Jenny conceded that redirects can be used to handle these)
   - Can we make sure to include Open Graph tags to ensure a unique image -- at the very least, the hero image  (vs. the standard VA logo) -- can be used when sharing the CLP.
   - Can we consider enabling the ability to publish a multi-language (in particular Spanish, followed by Tagalog) version of a CLP?
+- Answered all CMS-Content rigidity questions to allow CMS team to complete MVP build by end of year.
 
 ### 11/19/2020
 
