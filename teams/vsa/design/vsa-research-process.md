@@ -129,7 +129,7 @@ The following process is recommended by the VSA Design Lead:
 3. The day after your last session, share the [topline summary](https://portigal.com/reading-ahead-topline-summary/) with necessary stakeholders that observed sessions and the team and ask if they feel anything was missing based on their observations. Also ask what topics they would like you to focus on when you conduct your detailed synthesis. 
 Note: Caveat the topline summary by saying that detailed synthesis has not yet been done, so things may change in the final report.
 4. Synthesize your research. 
-   * To quickly synthesize, go through all the notes files and recordings files as needed and flesh out your topline summary in the following way:
+   * To quickly synthesize, go through all the notes files and recordings files as needed and, using your topline as a base, create a final research results doc that is fleshes out your findings in the following way:
       * Grab quotes to support your themes
       * Make sure you didn't miss any themes in your topline summary
    * If there is time and it's needed, you can do a modified [affinity mapping](https://generalassemb.ly/design/user-experience-design/affinity-mapping) activity.  
