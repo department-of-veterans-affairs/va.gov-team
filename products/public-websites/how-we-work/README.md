@@ -4,7 +4,7 @@ While each team works differently due to its mission, make-up and team-member pr
 
 ### Our Portfolio Board
 
-https://github.com/department-of-veterans-affairs/va.gov-team/projects/15
+https://github.com/department-of-veterans-affairs/va.gov-team/projects/23
 
 ### Our GitHub Team Sites 
 
