@@ -26,7 +26,7 @@ _Your primary responsibility is to remain available to quickly acknowledge and t
 
 ### Monitor deployment
 
-See [this](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/tools/frontend/troubleshooting-build-failures-DX.md) document about monitoring and troubleshooting deployments
+See [this](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/tools/frontend/troubleshooting-build-failures.md) document about monitoring and troubleshooting deployments
 
 ### Support requests
 
