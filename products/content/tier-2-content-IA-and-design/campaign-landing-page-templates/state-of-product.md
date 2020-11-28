@@ -1,5 +1,5 @@
 
-## State of Product: Campaign Landing Page
+## State of Product: Campaign Landing Page MVP
 
 ### What is the Problem to be Solved
 
