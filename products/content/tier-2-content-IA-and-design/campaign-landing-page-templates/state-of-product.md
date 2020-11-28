@@ -32,3 +32,13 @@ The CLP is **not**:
  - A sub-domain (e.g. movingforward.va.gov)
 
 ![enter image description here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/CLP_Design.png)
+
+### Goals
+
+**Desired Business Outcomes**
+ - There is strong demand for campaign landing pages from key business stakeholders involved in originating veteran facing content. A plug-and-play Drupal CMS page building product will allow us to meet this demand with a "scaled" solution.
+ - Additionally a page building tool, put in the hands of trained business stakeholders, will reduce "one-off" demand of the resource-constrained Public Websites content and front-end development team.
+- With this problem solved, ***the business would be able to produce more expertly crafted campaign landing page (with built-in Mobile-responsiveness and SEO optimization) at less cost and impact to the product-technology team.***
+
+**Undesired Business Outcomes**
+- Feature creep.  Our goal is to build the Campaign Landing product in smart stages, with the minimum viable number of components necessary to "launch and learn” with at least two VA stakeholder groups/users and from there, iterate.
