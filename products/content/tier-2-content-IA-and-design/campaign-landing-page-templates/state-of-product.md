@@ -16,3 +16,19 @@ This category of tier 2 content could be better served as a **campaign landing p
  - VHA Covid 19 research recruitment campaign
 
 ![enter image description here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/CLP_Examples.png)
+
+### Our Bet: Campaign Landing Page
+
+The purpose of this product is to enable an easy way for VA businesses to create and manage this type of content in the Drupal CMS leveraging current and new features/functionality.
+
+The CLP is:
+
+ - 1-page that links to deeper content which the already exists in the benefit hubs, in videos on YouTube, at separate VA domains (such as publichealth.va.gov), at other VA online destinations (e.g. blogs, PDF factsheets, outreach library).  
+ - It is created and maintained by VA business stakeholders at VHA, VBA and other groups, with the hands on production expected to be done by their Web leads (e.g. Webmaster or Web Communications lead).
+
+The CLP is **not:**
+
+ - A self-contained micro-site with original content, sub-pages, its own navigation  
+ - A sub-domain (e.g. movingforward.va.gov)
+
+![enter image description here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/CLP_Design.png)
