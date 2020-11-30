@@ -152,7 +152,7 @@ On the confirmation page,
 - Which of the buttons on the page would you most likely be interested in viewing next? Would you prefer to navigate anywhere else instead?
 
 #### Scenario 2b
-Your provider just sent you a pre-visit questionnaire. Before you fill it out, you want to review your responses to your last questionnaire. Find your last questionnaire and review your responses.
+Your primary care provider just sent you a pre-visit questionnaire. Before you fill it out, you want to review your responses to your last primary care questionnaire. Find your last questionnaire and review your responses.
 - _Things to watch/listen for:_
 	- _Did the Veteran successfully complete the task. Success = click on the “View and print questions.”_
 	- _Pay attention to Veteran commentary on confusing or pleasing portions of the task._
