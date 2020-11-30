@@ -96,7 +96,7 @@ At least:
 
 Date | Time in Eastern | Slots
 -----|-----------------------|-------
-Tue, Dec 7 [PILOT] | 10a-1p | -
+Mon, Dec 7 [PILOT] | 10a-1p | -
 Tue, Dec 8 | 7-9a, 12-2p, 7-8p | 5 
 Wed, Dec 9 | 7-11a, 7-8p | 5
 Thu, Dec 10 | 7-11a, 7-8p | 5
