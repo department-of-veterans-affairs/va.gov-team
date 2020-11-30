@@ -213,40 +213,6 @@ See [Iterate Through Top VA.gov Viewports](#iterate-through-top-vagov-viewports)
 | `mobile-top5-4` | `tablet-top5-4` | `desktop-top5-4` |
 | `mobile-top5-5` | `tablet-top5-5` | `desktop-top5-5` |
 
-##### iOS Presets
-
-| iPhone              | iPad               |
-| ------------------- | ------------------ |
-| `iphone-1st-gen`    | `ipad-1`           |
-| `iphone-3g`         | `ipad-2`           |
-| `iphone-3gs`        | `ipad-3`           |
-| `iphone-4`          | `ipad-mini-1`      |
-| `iphone-4s`         | `ipad-4`           |
-| `iphone-5`          | `ipad-air-1`       |
-| `iphone-5c`         | `ipad-mini-2`      |
-| `iphone-5s`         | `ipad-air-2`       |
-| `iphone-6-plus`     | `ipad-mini-3`      |
-| `iphone-6`          | `ipad-mini-4`      |
-| `iphone-6s-plus`    | `ipad-pro-1-12.9`  |
-| `iphone-6s`         | `ipad-pro-1-9.7`   |
-| `iphone-se-1st-gen` | `ipad-5`           |
-| `iphone-7-plus`     | `ipad-pro-2-12.9`  |
-| `iphone-7`          | `ipad-pro-2--10.5` |
-| `iphone-8-plus`     | `ipad-6`           |
-| `iphone-8`          | `ipad-pro-3-12.9`  |
-| `iphone-x`          | `ipad-pro-3-11`    |
-| `iphone-xs-max`     | `ipad-air-3`       |
-| `iphone-xs`         | `ipad-mini-5`      |
-| `iphone-xr`         | `ipad-7`           |
-| `iphone-11-pro-max` | `ipad-pro-4-12.9`  |
-| `iphone-11`         | `ipad-pro-4-11`    |
-| `iphone-11-pro`     |
-| `iphone-se-2nd-gen` |
-| `iphone-12-pro-max` |
-| `iphone-12`         |
-| `iphone-12-pro`     |
-| `iphone-12-mini`    |
-
 #### Usage:
 
 To set the viewport, simply call `cy.viewportPreset()` and pass in one of the above preset names as an argument, like so: `cy.viewportPreset('iphone-12');`.
