@@ -55,6 +55,12 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 
 ### Meetings Notes and Background Info
 
+11/30/2020 - Usability testing prep
+- IA feedback here: https://github.com/department-of-veterans-affairs/va.gov-team/issues/16671
+- Discussion was primarily around the fact that IA has not been determined and early questions from design intent were not answered.  
+- Provided guidance on how to consider what IA may be, along with H1, breadcrumbs and URLs.  
+- Team may use this study to get early feedback and IA may not be represented accurately in this round. 
+
 8/18/2020 - Design intent
 - supporting content - on form or on separate page? confirmation page, confirmation email, print - all yet TBD? minimum expected experience is a confirmation page.
 - multiple page form or single page?  Should treat this like other forms with review page to meet user expectations and error validation
