@@ -313,17 +313,19 @@ tempOptions -- an `Object`, defaults to an empty `Object`
 
 To ensure that an application behaves correctly across the viewport sizes most commonly used by va.gov users, we've provided the following Cypress environment variables in the [`config/cypress.json`](https://github.com/department-of-veterans-affairs/vets-website/blob/master/config/cypress.json) file that each contain an array of objects, each describing a viewport:
 
-- `vaTop5MobileViewports`
-- `vaTop5TabletViewports`
-- `vaTop5DesktopViewports`
+- `vaTopMobileViewports`
+- `vaTopTabletViewports`
+- `vaTopDesktopViewports`
 
 The objects in the arrays are updated once a month so we're always testing against the viewports VA.gov users are actually using.
 
-Each viewport object contains a `name`, `percentTraffic`, `percentTrafficPeriod`, `width` and `height` property. Here is an example of a mobile viewport object from the `vaTop5MobileViewports` Cypress environment variable:
+Each viewport object contains a `list`, `rank`, `devicesWithViewport`, `percentTraffic`, `percentTrafficPeriod`, `width` and `height` property. Here is an example of a mobile viewport object from the `vaTopMobileViewports` Cypress environment variable:
 
 ```javascript
 {
-  "name": "iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro Max",
+  "list": "VA Top Mobile Viewports",
+  "rank": 1,
+  "devicesWithViewport": "iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro Max",
   "percentTraffic": 9.75,
   "percentTrafficPeriod": "October, 2020",
   "width": 414,
@@ -331,40 +333,52 @@ Each viewport object contains a `name`, `percentTraffic`, `percentTrafficPeriod`
 }
 ```
 
-To access Cypress environment variables, simply call `Cypress.env()` followed by the name of the variable. For example, `Cypress.env().vaTop5MobileViewports` returns the following array:
+To access Cypress environment variables, simply call `Cypress.env()` followed by the name of the variable. For example, `Cypress.env().vaTopMobileViewports` returns the following array:
 
 ```javascript
 [
   {
-    name: 'iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro Max',
+    list: 'VA Top Mobile Viewports',
+    rank: 1,
+    devicesWithViewport:
+      'iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro Max',
     percentTraffic: 9.75,
     percentTrafficPeriod: 'October, 2020',
     width: 414,
     height: 896,
   },
   {
-    name: 'iPhone 6, iPhone 6s, iPhone 7, iPhone 8',
+    list: 'VA Top Mobile Viewports',
+    rank: 2,
+    devicesWithViewport: 'iPhone 6, iPhone 6s, iPhone 7, iPhone 8',
     percentTraffic: 5.52,
     percentTrafficPeriod: 'October, 2020',
     width: 375,
     height: 667,
   },
   {
-    name: 'iPhone X, iPhone XS, iPhone 11 Pro',
+    list: 'VA Top Mobile Viewports',
+    rank: 3,
+    devicesWithViewport: 'iPhone X, iPhone XS, iPhone 11 Pro',
     percentTraffic: 5.5,
     percentTrafficPeriod: 'October, 2020',
     width: 375,
     height: 812,
   },
   {
-    name: 'iPhone 6 Plus, iPhone 6s Plus, iPhone 7 Plus, iPhone 8 Plus',
+    list: 'VA Top Mobile Viewports',
+    rank: 4,
+    devicesWithViewport:
+      'iPhone 6 Plus, iPhone 6s Plus, iPhone 7 Plus, iPhone 8 Plus',
     percentTraffic: 3.25,
     percentTrafficPeriod: 'October, 2020',
     width: 414,
     height: 736,
   },
   {
-    name: 'iPhone 5, iPhone 5s, iPhone 5c, iPhone SE 1st gen',
+    list: 'VA Top Mobile Viewports',
+    rank: 5,
+    devicesWithViewport: 'iPhone 5, iPhone 5s, iPhone 5c, iPhone SE 1st gen',
     percentTraffic: 1.49,
     percentTrafficPeriod: 'October, 2020',
     width: 360,
@@ -376,30 +390,31 @@ To access Cypress environment variables, simply call `Cypress.env()` followed by
 To test against each of the viewports in the array, simply iterate through the array using `.forEach()` in the callback of an `it` function call, like so:
 
 ```javascript
-it.only('should render in mobile layouts and tabs actions work', () => {
-  Cypress.env().vaTop5MobileViewports.forEach((viewportData) => {
+it('should render in mobile layouts', () => {
+  Cypress.env().vaTopMobileViewports.forEach((viewportData) => {
     const {
-      name,
-      width,
-      height,
+      list,
+      rank,
+      devicesWithViewport,
       percentTraffic,
       percentTrafficPeriod,
+      width,
+      height,
     } = viewportData;
 
-    cy.log(`Device Group: ${name}`);
+    cy.log(`Viewport list: ${list}`);
+    cy.log(`Viewport rank: ${rank}`);
+    cy.log(`Devices with viewport: ${devicesWithViewport}`);
     cy.log(
       `% traffic for the month of ${percentTrafficPeriod}: ${percentTraffic}%`
     );
 
-    cy.visit('/find-locations');
-    cy.injectAxe();
+    cy.visit('/page');
     cy.viewport(width, height);
-    cy.checkSearch();
+    // code omitted
   });
 });
 ```
-
-In addition to the Cypress environment variables already mentioned, there is also a variable called `allIPhoneViewports` which contains an array of viewport objects whose structure is identicle to the objects in the other arrays already mentioned, except they do not contain `percentTraffic` and `percentTrafficPeriod` properties.
 
 ## Cypress Testing Library Selectors
 
