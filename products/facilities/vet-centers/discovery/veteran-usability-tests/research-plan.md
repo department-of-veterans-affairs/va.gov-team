@@ -4,7 +4,7 @@
 
 ## Goal
 
-The goal of this study is to get high level Veteran feedback on webpage designs to understand if they would have enough information to make an informed choice in choosing Vet Centers for their care.
+The goal of this study is to get high level Veteran feedback on webpage designs to understand if they would have enough information to choose care at a Vet Center.
 
 ### Research questions
 
