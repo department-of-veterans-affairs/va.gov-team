@@ -91,7 +91,7 @@ With the same scenario in mind, helping a friend, except this time I'd like for 
  - What would you be ale to tell your friend about the individual counseling and group counseling services offered here?
  - What do you think is the relationship between the different locations listed on this page?
  - What is the most important thing for someone to know before visiting for the first time?
- - What would make them comfortable calling or visiting?
+ - Is there any other information that you don't see that you think would be helpful or necessary before visiting?
  - What would make this website better?
 
 
