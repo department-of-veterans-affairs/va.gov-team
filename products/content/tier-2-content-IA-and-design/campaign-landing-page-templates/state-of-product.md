@@ -57,4 +57,6 @@ We will know the initial set of functionality is meeting the desired user and bu
 
 #### Success Metrics (Objectives and KPIs)
 
-
+|Objective  | Key Result |
+|--|--|
+|Enable VA businesses to build effective digital campaign communications quickly and easily  |  |
