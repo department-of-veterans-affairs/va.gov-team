@@ -137,7 +137,7 @@ _(Start them on va.gov main mobile menu. Stop the participant when they get to t
 Have the participant click to the Questionnaire list (To do tab)
 - Can you tell me what you think the difference is between the cards shown on the screen?
 
-You (in the prototype, your name will be Hector Allen) were sent a questionnaire to complete for your upcoming appointment with your primary care provider on January 4, 2021. You started to fill it out, but you didn’t complete it. Find the questionnaire and finish filling it out.		
+You (in the prototype, your name will be Hector Allen) were sent a questionnaire to complete for your upcoming appointment with your primary care provider on January 6, 2021. You started to fill it out, but you didn’t complete it. Find the questionnaire and finish filling it out.		
 - _Things to watch/listen for:_
 	- _Did the Veteran successfully complete the task. Success = getting to the screen with the "Your questionnaire has been sent to your provider." alert box._
 	- _Pay attention to Veteran commentary on confusing or pleasing portions of the task._
