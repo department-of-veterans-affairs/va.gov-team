@@ -1,7 +1,8 @@
 
 ## State of Product: Campaign Landing Page MVP
 
-- Table of Contents
+**Table of Contents:**
+
   * [What is the Problem to be Solved](#what-is-the-problem-to-be-solved)
   * [Our Bet: Campaign Landing Page](#our-bet-campaign-landing-page)
   * [Goals](#goals)
