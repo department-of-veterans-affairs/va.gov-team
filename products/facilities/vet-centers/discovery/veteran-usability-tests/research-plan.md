@@ -41,17 +41,17 @@ Moderated qualitative research sessions with generative questioning and usabilit
 
 ### Screener Questions:
   
-**1. Are you currently, or have you in the past, participated in any of the following?** (Answer must be yes)
+**1. Are you currently, or have you in the past, participated in any of the following?** (* Answer must be yes)
 
     [checkboxes: check all that apply] 
 
-    [ ] Individual counseling or therapy
+    [ ] Individual counseling or therapy *
         
-    [ ] Group counseling or therapy
+    [ ] Group counseling or therapy *
 
-    [ ] Family counseling or therapy
+    [ ] Family counseling or therapy *
     
-    [ ] Couples or marital counseling or therapy 
+    [ ] Couples or marital counseling or therapy *
     
     [ ] Educational benefit counseling
     
