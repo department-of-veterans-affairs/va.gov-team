@@ -193,15 +193,15 @@ Presets are available for:
 
 #### Preset Names
 
-##### Top 5 Presets by Traffic Percentage, Descending
+##### Top Presets by Traffic Percentage, Descending
 
-The viewport values these presets point to is updated monthly. The last number in the preset name represents the traffic rank where 1 is highest. For example, if you want to set the viewport to the logical width and height of the mobile device most used on VA.gov, use preset `mobile-top5-1`.
+The viewport values these presets point to is updated monthly. The last number in the preset name represents the traffic rank where 1 is highest. For example, if you want to set the viewport to the logical width and height of the mobile device most used on VA.gov, use preset `va-top-mobile-1`.
 
 Please note: These presets are available in the following Cypress environment variable arrays:
 
-- `vaTop5MobileViewports`
-- `vaTop5TabletViewports`
-- `vaTop5DesktopViewports`
+- `vaTopMobileViewports`
+- `vaTopTabletViewports`
+- `vaTopDesktopViewports`
 
 See [Iterate Through Top VA.gov Viewports](#iterate-through-top-vagov-viewports) for more details.
 
@@ -215,11 +215,11 @@ See [Iterate Through Top VA.gov Viewports](#iterate-through-top-vagov-viewports)
 
 #### Usage:
 
-To set the viewport, simply call `cy.viewportPreset()` and pass in one of the above preset names as an argument, like so: `cy.viewportPreset('iphone-12');`.
+To set the viewport, simply call `cy.viewportPreset()` and pass in one of the above preset names as an argument, like so: `cy.viewportPreset('va-top-mobile-1');`.
 
-To set the orientation to landscape, pass in 'landscape' as a second argument, like so: `cy.viewportPreset('iphone-12', 'landscape');`.
+To set the orientation to landscape, pass in 'landscape' as a second argument, like so: `cy.viewportPreset('va-top-mobile-1', 'landscape');`.
 
-To prevent the command from being displayed in the command log, pass in `{ log: false }` as a third argument, like so: `cy.viewportPreset('iphone-12', 'landscape', { log: false });`.
+To prevent the command from being displayed in the command log, pass in `{ log: false }` as a third argument, like so: `cy.viewportPreset('va-top-mobile-1', 'landscape', { log: false });`.
 
 ### File uploads: cy.upload(fileName, fileType)
 
