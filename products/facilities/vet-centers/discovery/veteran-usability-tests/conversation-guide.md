@@ -18,7 +18,7 @@ Before we get started, I want to give you an idea of what this call will be like
 - We'll start the session with a couple warm up questions.
 - Then, I'll ask you to share your screen so that we can look at and discuss a website together and I'll help you through that.
 - Lastly, I'll share a link for you to click on. It will open a separate website that we'll also look at and discuss together. 
-- I'll ask you about your thoughts and opinions about differents areas of the page **but there are no right or wrong answers, we're not testing you.** We're actually testing the designs and the information to understand how they would work for Veterans and how we can make them better. So, I welcome your honest and candid feedback but if at any time you don't feel comfortable answering a question, we can simply move on to the next question. 
+- Throughout the session, I'll be asking you about your thoughts and opinions about the information and content on the pages **but there are no right or wrong answers. We're not testing you.** We're actually testing the designs and the information contained on the pages to see how we can make them better for Veterans. So, I welcome your honest and candid feedback but if at any time you don't feel comfortable answering a question, we can simply move on to the next question. 
 - This session will be recorded to ensure that I capture your opinions accurately. The recordings are destroyed after the call is analyzed, and none of your comments will be attributed to you directly. **Are you comfortable if I record my screen and audio as we talk today?** 
     - If yes: **Once I start recording, I will ask again to confirm that you're ok with me recording this session so that it's captured in the recording.** 
 
@@ -31,23 +31,43 @@ Before we get started, I want to give you an idea of what this call will be like
 
 - Can you tell me briefly about your service history?
 
-## Counseling experience: 
+Thanks for sharing that. 
 
-- The page we'll be looking at will contain different types 
+## Counseling services 
 
-  - If no, see “Contingency Plan” 
+For the purpose of this session, we're going to be focused on counseling services offered at the VA. 
+  
+  - Are you familiar with counseling services that the VA provides?
 
-- How did you first learn about them? (if not a referral, probe)
+If yes:
+  - can you tell me, briefly, about the counseling services that you are familiar with?
+  - have you participated in any of these services?
+  - how was that experience?
+  
+## Searching for counseling online
 
-    - When did you first learn about Vet Centers? 
+We're going to switch gears and look at a few websites. So that I can follow along with you, would it be OK with you if you shared your screen with me? 
 
-- What has been your experience with a Vet Center? 
+We're going to start with a blank page in your web browser.
+ 
+I'm going to give you a scenario to consider. Imagine you have a Veteran friend who's been going through a rough time. You think this person could benefit from counseling. You're not exactly sure what's available but you wanted to help out by doing a little digging for them on the internet. 
 
-- Before you first visited, how did you go about finding the location of your Vet Center? 
+ - Can you talk me through wow you might go about finding information like this on the internet?
+ [If they need more direction: What might be some common issues that you think Veterans might benefit from counseling?]
+ - Can you try that search for me?
+ - What words do you think would get you to some answers?
 
-- Could finding your Vet Center have been easier in any way?
+## Searching for counseling on VA.gov
 
-## Being a client: 
+Now let's imagine that you want to see what you can find on VA.gov
+
+ - Can you talk me through wow you might go about finding information like this on the internet?
+ - Can you try that search for me?
+ - What words do you think would get you to some answers?
+
+
+
+
 
 - What kind of services, activities or resources does your Vet Center offer? 
 
