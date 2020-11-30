@@ -293,11 +293,11 @@ Both designers
 
 - Take an afternoon/a day to agree on what major conclusions came out of research
 
-One designer:
+Designer #1:
 
 - Research summary (should take no more than a week)
 
-The other designer (designer #1 can help with this once the write-up is done):
+Designer #2 (designer #1 can help with this once the write-up is done):
 
 - Incorportate user feedback into designs
 - Clean up wireframes so they are ready for desktop conversion:
