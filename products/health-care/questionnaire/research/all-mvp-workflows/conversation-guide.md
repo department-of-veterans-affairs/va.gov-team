@@ -73,7 +73,6 @@ Keep that pre-appointment experience in mind through the next series of scenario
 	- _Participant 6: 2 (b), 2 (a), then 1 (text)._
 	- _Participant 7: 2 (a), 2 (b), then 1 (email)._
 	- _Participant 8: 2 (a), 2 (b), then 1 (text)._
-	________________________________________________
 	- _Participant 9: 1 (email), 2 (a), then 2 (b)._
 	- _Participant 10: 1 (text), 2 (b), then 2 (a)._
 	- _Participant 11: 2 (b), 2 (a), then 1 (email)._
