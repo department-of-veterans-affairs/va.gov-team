@@ -13,9 +13,6 @@
 
 Thanks for joining us today! My name is Kristen and I also have some colleagues on the line observing and taking notes. Today we're going to review prototypes of a questionnaire that will help you and your doctor prepare for an upcoming appointment.
 
-
-**If mobile participant**
-
 - **Since this is a prototype, not everything will be clickable or fully functioning.**
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve our tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **This entire session should take about an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
