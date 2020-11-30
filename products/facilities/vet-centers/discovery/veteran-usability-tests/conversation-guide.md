@@ -23,13 +23,15 @@ Before we get started, I want to give you an idea of what this call will be like
 
 **Are you comfortable if I record my screen and audio as we talk today?** 
 
- - If yes: **Once I start recording, I will ask again to confirm that you're ok with me recording this session so that it's captured in the recording.** 
+ - If yes: 
+ 
+**Once I start recording, I will ask again to confirm that you're ok with me recording this session so that it's captured in the recording.** 
 
 ###### Start recording to the Cloud
 
-- **I have started recording.** 
+- **I have started recording.** So, I'd like to confirm:
 
-So, I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?" 
+Are you comfortable if I record my screen the audio as we talk today?" 
 
 
 ## Warm-up Questions 
