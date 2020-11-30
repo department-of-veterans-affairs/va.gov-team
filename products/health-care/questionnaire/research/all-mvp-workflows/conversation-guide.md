@@ -121,16 +121,15 @@ Click on the “View and print questions” button, what are your impressions of
 - Would you want any additional information added to this PDF?
 
 ### Scenario 2
-Find questionnaires that your VA providers have requested you to complete about your health.
-_(Start them on the va.gov homepage…if they get stuck, then direct them to the menu. Stop the participant when they get to the Drupal/marketing page.)_
+Find questionnaires that your VA providers requested you complete about your health.
+_(Start them on va.gov main mobile menu. Stop the participant when they get to the Drupal/marketing page.)_
 - _Things to watch/listen for:_
-	- _Did the Veteran successfully complete the task. Success = getting to the screen with the "Your questionnaire has been sent to your provider." alert box._
+	- _Did the Veteran successfully complete the task. Success = getting to the screen with the title "Health questionnaires."_
+	- _Note where they think this feature should exist._
 	- _Pay attention to Veteran commentary on confusing or pleasing portions of the task._
 	- _Take note of anything the Veteran suggests to add._
 	- _Note where they think this feature should exist._
 	
-- How easy or hard was it to find your health questionnaires?
-
 - When on the marketing/Drupal page…
 	- What are your impressions of this page?
 	- What are your thoughts about the information provided?
