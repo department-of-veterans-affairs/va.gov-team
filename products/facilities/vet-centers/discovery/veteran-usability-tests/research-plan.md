@@ -29,7 +29,7 @@ Moderated qualitative research sessions with generative questioning and usabilit
 
 ## Participants and Recruitment
 
-- We will utilize the Perigean contract recruiting.
+- We will utilize the Perigean contract for **recruiting and notetaking**.
 - We'd like to schedule 16 participants to reach our goal of observing **7-9 participants**. 
 
 ### Primary participant criteria:
