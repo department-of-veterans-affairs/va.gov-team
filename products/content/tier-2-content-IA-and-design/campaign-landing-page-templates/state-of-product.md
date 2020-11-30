@@ -59,4 +59,4 @@ We will know the initial set of functionality is meeting the desired user and bu
 
 |Objective  | Key Result |
 |--|--|
-|Enable VA businesses to build effective digital campaign communications quickly and easily  |  |
+|Enable VA businesses to build effective digital campaign communications quickly and easily | CMS is used by at least three VA businesses to launch live campaigns in 2021  |
