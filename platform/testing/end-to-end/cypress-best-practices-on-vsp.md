@@ -194,13 +194,13 @@ Presets are available for the top viewports for mobile, tablet, and desktop, upd
 
 The viewport values these presets point to is updated monthly. The last number in the preset name represents the traffic rank where 1 is highest. For example, if you want to set the viewport to the logical width and height of the mobile device most used on VA.gov, use preset `va-top-mobile-1`.
 
-Please note: Viewport objects that correspond to these presets are also available in the following Cypress environment variable arrays:
+Viewport objects that correspond to these presets are also available in the following Cypress environment variable arrays:
 
 - `vaTopMobileViewports`
 - `vaTopTabletViewports`
 - `vaTopDesktopViewports`
 
-**Iterating through these Cypress environment variable arrays is preferred over using these presets, if your test allows for it.**
+**Please note: Iterating through these Cypress environment variable arrays is preferred over using these presets, if your test allows for it.**
 
 See [Iterate Through Top VA.gov Viewports](#iterate-through-top-vagov-viewports) for more details.
 
@@ -387,7 +387,7 @@ To access Cypress environment variables, simply call `Cypress.env()` followed by
 ];
 ```
 
-To test against each of the viewports in the array, simply iterate through the array using `.forEach()` in the callback of an `it` function call, like so:
+To test against each of the viewports in the array, simply iterate through it using `.forEach()` in the callback of an `it` function call, like so:
 
 ```javascript
 it('should render in mobile layouts', () => {
