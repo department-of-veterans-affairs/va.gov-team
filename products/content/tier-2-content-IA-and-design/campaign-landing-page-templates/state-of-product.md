@@ -9,6 +9,8 @@
   * [How Do We Define Success](#how-do-we-define-success)
   * [Success Metrics](#success-metrics)
   * [Product Requirements](#product-requirements)
+  * [Product Dashboard](#product-dashboard)
+  * [Key Artifacts](#key-artifacts)
 
 ### What is the Problem to be Solved
 
@@ -93,3 +95,17 @@ The template requirements are:
     -   these sections can be 1/0 (included/excluded) but not moved around or relocated on the template
     
 ![enter image description here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/CLP_Content%20Panels_CMS.png)
+
+
+### Product Dashboard
+
+- Google Analytics
+- Domo
+
+### Key Artifacts
+
+|Artifacts  | Description |
+|--|--|
+| | |
+| | |
+| | |
