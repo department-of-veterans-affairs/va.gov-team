@@ -1,6 +1,13 @@
 
 ## State of Product: Campaign Landing Page MVP
 
+- Table of Contents
+  * [What is the Problem to be Solved](#what-is-the-problem-to-be-solved)
+  * [Our Bet: Campaign Landing Page](#our-bet-campaign-landing-page)
+  * [Goals](#goals)
+  * [How Do We Define Success](#how-do-we-define-success)
+  * [Success Metrics](#success-metrics)
+  * [Product Requirements](#product-requirements)
 
 ### What is the Problem to be Solved
 
@@ -56,7 +63,7 @@ We will know the initial set of functionality is meeting the desired user and bu
 -   To measure the effectiveness of the CLP for campaign purposes, we will require the use of CTAs that would be prominently required and automatically tracked as a primary metric (e.g. whatever campaign X's success measure is, at least one required CTA button would be required that would automatically be tracked by analytics).
 -   Every content component/panel in the template - whether it is the video panel or the downloadable resources panel - should be automatically tracked. Instrumenting this auto-tracking capability into the CMS front-end template will not only ensure the ability to track CLP performance but also will be used as a lever to govern the business users of the template.
 
-#### Success Metrics (Objectives and KPIs) - Work in Progress Version
+### Success Metrics
 
 |Objective  | Key Result |
 |--|--|
@@ -65,7 +72,7 @@ We will know the initial set of functionality is meeting the desired user and bu
 |                                                                                      | Page views must exceed campaign goals by 10%   |
 
 
-#### Product Requirements
+### Product Requirements
 
 The Campaign Landing page is at root a page builder in the Drupal CMS with content components -- called "panels" -- that represent content types/features.    To support editorial flexibility, some of the content panels are optional.
 
