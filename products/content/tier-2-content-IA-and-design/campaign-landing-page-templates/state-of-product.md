@@ -46,7 +46,7 @@ The CLP is **not**:
 
 ### How Do We Define Success 
 
-We will know the initial set of functionality is meeting the desired user and business outcomes when the CLP template is used by (or via the PW content team on behalf of) at least three business stakeholders -- and there are no requests for major changes. This would validate the following:
+We will know the initial set of functionality is meeting the desired user and business outcomes when the CLP template is used by  at least three business stakeholders -- and there are no requests for major changes. This would validate the following:
     
  - the capabilities of the CLP template (the various content components) meet the minimum needs of the business stakeholders
  - the CMS functionality of the template builder is bug-free and user/author-friendly
@@ -56,5 +56,7 @@ We will know the initial set of functionality is meeting the desired user and bu
 -   Every content component/panel in the template - whether it is the video panel or the downloadable resources panel - should be automatically tracked. Instrumenting this auto-tracking capability into the CMS front-end template will not only ensure the ability to track CLP performance but also will be used as a lever to govern the business users of the template.
 
 #### KPIs
+
+
 
 #### OKRs
