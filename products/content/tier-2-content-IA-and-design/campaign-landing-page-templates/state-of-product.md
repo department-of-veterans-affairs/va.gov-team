@@ -55,7 +55,7 @@ We will know the initial set of functionality is meeting the desired user and bu
 -   To measure the effectiveness of the CLP for campaign purposes, we will require the use of CTAs that would be prominently required and automatically tracked as a primary metric (e.g. whatever campaign X's success measure is, at least one required CTA button would be required that would automatically be tracked by analytics).
 -   Every content component/panel in the template - whether it is the video panel or the downloadable resources panel - should be automatically tracked. Instrumenting this auto-tracking capability into the CMS front-end template will not only ensure the ability to track CLP performance but also will be used as a lever to govern the business users of the template.
 
-#### Success Metrics (Objectives and KPIs)
+#### Success Metrics (Objectives and KPIs) - Work in Progress Version
 
 |Objective  | Key Result |
 |--|--|
