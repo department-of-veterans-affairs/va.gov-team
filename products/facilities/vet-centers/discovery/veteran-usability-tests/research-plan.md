@@ -9,6 +9,7 @@ The goal of this study is to get high level Veteran feedback on webpage designs 
 ### Research questions
 
 - How would clients go about searching for counseling and benefit services on a search engine? 
+
 Will the designs provide Veterans with enough information to:
  - understand what care is available at Vet Centers?
  - perceive a difference between Vet Centers and other VA facilities?
@@ -18,9 +19,9 @@ Will the designs provide Veterans with enough information to:
 
 ### Hypothesis 
 
-Clients will be able to find a service and feel they have enough information to choose care at this facility.
-Clients will feel that have adequate logistical information in order to visit or call a Vet Center.
-Clients will understand a Vet Center is not a traditional medical clinic.
+- Clients will be able to find a service and feel they have enough information to choose care at this facility.
+- Clients will feel that have adequate logistical information in order to visit or call a Vet Center.
+- Clients will understand a Vet Center is not a traditional medical clinic.
 
 ## Method
 
@@ -36,29 +37,29 @@ Moderated qualitative research sessions with generative questioning and usabilit
 #### MUST: 
 
 - Be a Veteran, active duty service member, reservist, or national guard member.
-
-**AND**
-
-- Is or was a client of a Vet Center (see definition of a Vet Center) 
-
-     **Vet Center Definition:** Vet Centers are not medical clinics. They are unique VA facilities, separate from VA Medical Centers, clinics, benefit offices, VFWs, etc. If unsure, please visit [Vet Center's website: https://www.vetcenter.va.gov](https://www.vetcenter.va.gov/)
+- Is currently or has participated in individual or group mental health counseling with the VA.
 
 ### Screener Questions:
   
-**1. Are you currently or have you ever been a client of a Vet Center whereby you have participated in any of the following?** (Answer must be yes)
+**1. Are you currently or have you participated in any of the following?** (Answer must be yes)
 
-    [checkboxes:] 
+    [checkboxes: check all that apply] 
 
-    [ ] Group counseling
+    [ ] Individual counseling or therapy
+        
+    [ ] Group counseling or therapy
 
-    [ ] Individual counseling 
-
-    [ ] Family counseling 
+    [ ] Family counseling or therapy
+    
+    [ ] Couples or marital counseling or therapy 
+    
+    [ ] Educational benefit counseling
+    
+    [ ] Job, career, vocational counseling
       
       
-**2. What is the name and address of the Vet Center that you visited/frequented?**
+**2. What is the name and address of the VA facility that you visited/frequented?**
 
-Perigean to validate against Vet Centers listed on [Facility Locator](https://www.va.gov/find-locations/?facilityType=vet_center).
 
     Name:
 
