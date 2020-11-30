@@ -322,7 +322,10 @@ Designer #2 (designer #1 can help with this once the write-up is done):
 **FE** 
 
 - Direct deposit for edu build #16479
-  - If this was broken down into smaller tickets, let's figure out what is doable this sprint. 
+  - If this was broken down into smaller tickets, let's figure out what is doable this sprint.
+  - [FE] Rename existing direct deposit/payment info code to something more specific to comp and pen when applicable #16684
+  - [FE] Build redux actions/reducers for getting edu DD info #16685 
+  - [FE] Determine if we can even tell if someone is eligible who has not yet set up DD for edu benefits #16686
 
 ### Preferred medical facility
 
