@@ -80,9 +80,7 @@ Keep that pre-appointment experience in mind through the next series of scenario
 	
 I'm going to send you a link in the chat.
 
-[Mobile Prototype with Email option]()<br/>
-[Mobile Prototype with Text option]()<br/>
-_Half of participants will go through the email example and half the text example._
+[Mobile Prototype-Link TBD]()<br/>
 
 ### Scenario 1
 Don’t click on anything yet. Just read the notification. 
