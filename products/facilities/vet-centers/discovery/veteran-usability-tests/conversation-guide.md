@@ -59,7 +59,7 @@ We're going to start with a blank page in your web browser.
  
 I'm going to give you a scenario to consider. Imagine you have a Veteran friend who's been going through a rough time. You think this person could benefit from some mental health care or counseling. You're not exactly sure what's available but you wanted to help out by doing a little digging for them on the internet. 
 
- - Can you talk me through wow you might go about finding information like this on the internet?
+ - Can you talk me through how you might go about finding information like this on the internet?
  
  (If they need more direction: What might be some common issues that you think might benefit from counseling?)
  
