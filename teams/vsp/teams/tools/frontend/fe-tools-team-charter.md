@@ -6,12 +6,12 @@
 
 ### Team Members:
 - Product Manager: @Megan Kelley
-- Frontend engineering lead: @Rian Fowler
+- Frontend engineering lead: @Dan Shank
 - Frontend engineer: @eugene_doan
 - Frontend engineer: @Tim Wright
 - Frontend engineer: @Jhonny Gonzalez
 - Frontend engineer: @Bill Fienberg
-- Frontend engineer: @Dan Shank
+- Frontend engineer: @Chris Alexander
 - Frontend engineer: @Theo Bentum
 
 ---
