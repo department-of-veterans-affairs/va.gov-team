@@ -1,4 +1,4 @@
-# Research Plan: Vet Center - Veteran Usability Test  
+# Research Plan: Vet Centers Detail Page - Usability Test  
 
 **December 2020 Discovery**<br>
 
@@ -90,17 +90,17 @@ At least:
 
 ## Timeline
 
-- Study dates: November 30 - December 3, 2020  
-- Pilot session: will be held on Nov 24, 2020 
+- Study dates: Dec 8-11, 2020  
+- Pilot session: will be held on Dec 7, 2020 
 - Session length: 1 hour
 
 Date | Time in Eastern | Slots
 -----|-----------------------|-------
-Tue, Nov 24 [PILOT] | 10-11a | -
-Mon, Nov 30 | 10a-11p | 1 
-Tue, Dec 1 | 7-11a, 7-8p | 5 
-Wed, Dec 2 | 7-11a, 7-8p | 5
-Thu, Dec 3 | 7-11a, 7-8p | 5
+Tue, Dec 7 [PILOT] | 10a-1p | -
+Tue, Dec 8 | 7-9a, 12-2p, 7-8p | 5 
+Wed, Dec 9 | 7-11a, 7-8p | 5
+Thu, Dec 10 | 7-11a, 7-8p | 5
+Fri, Dec 11 | 7-11a | 4
 
 
 ## Team Roles	
@@ -116,7 +116,4 @@ Thu, Dec 3 | 7-11a, 7-8p | 5
   - ***Michelle Middaugh** <michelle.middaugh@adhocteam.us> 
   - ***Meg Peters** <meg.peters@va.gov>
   - ***Shawna Hein** <shawna@adhocteam.us> 
-  - Chris D Logan <clogan@governmentcio.com>
-  - Gibran Rodriguez <grodriguez@governmentcio.com> 
-  - Michael Pelz-Sherman <mpelzsherman@governmentcio.com> 
 
