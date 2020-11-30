@@ -20,33 +20,17 @@ https://staging.va.gov/va-payment-history/payments/
 **Subsequent urls (behavior was the same for each):** 
 NA 
  
-
-### 1. Scan with axe browser plugin  
-- Results: Nothing notable
-
-### 2. Scan with axe-coconut   
-- Results: Nothing notable
-
-### 3. Lighthouse Scan (Chrome)  
-- Results: 100%
-
-<details>
- 
- <summary>Screenshot</summary>
- 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/images/VP-Lighthouse-Report-Viewer.jpg)
-
-</details>
-
-### 4. NVDA Scan (Firefox)  
-- Results: Reading sounded fine.
-### 5. VoiceOver (Safari)  
-- Results: Worked great
-### 6. Keyboard Navigation  
-- Results: Worked great 
-### 7. Color contrast & blindness  
-- Results, example: Links were easily viewable.  
-- Results, example: No contrast errors were detected in the page.  
-### 8. Zoom to 400% at 1280px   
-- Results, example: Zoom in to 400% was uneventful.  Looked like a huge mobile screen.  
+- [x] Read the [accessibility staging review documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md) 
+- [x] Conduct axe browser scan, and document or address issues found 
+- [x] Ensure end-to-end tests - including the axe check, pass 
+- [x] Check color pairing for proper contrast 
+- [x] Check for colorblindness issues 
+- [x] Zoom to 200% at 1280px wide and confirm readability, no info cut off, etc 
+- [x] Repeat for 300% 
+- [x] Repeat for 400% 
+- [x] Navigate all pages and core functionality with keyboard only 
+- [x] Test all pages and core functionality happy path with MacOs + VoiceOver and/or NVDA+Firefox 
+  
+**List and link any variances in a ticket, if any:**
+- None
 ----
