@@ -109,10 +109,34 @@ _July 15 - July 28_
 - Code hardening/bug fixes
 
 ## Sprint 27
-_July 29 - Aug_ 
+_July 29 - Aug 11_ 
 - Deprecate feature
 - Optimization/ongoing bug fixes
 - [Post Launch Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#post-launch-check-in) 🌀  
+
+## Sprint 28
+_Aug 12 - Aug 25_ 
+
+## Sprint 29
+_Aug 26 - Sept 8_ 
+
+## Sprint 30
+_Sept 9 - Sept 22_ 
+
+## Sprint 31
+_Sept 23 - Oct 6_ 
+
+## Sprint 32
+_Oct 7 - Oct 20_ 
+
+## Sprint 33
+_Oct 21 - Nov 3_
+
+## Sprint 34
+_Nov 4 - Nov 17_
+
+## Sprint 35
+_Sept 18 - Dec 1_
 
 ## Other Tools and Resources
 - [Table of contents for 686 mockups](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design)
