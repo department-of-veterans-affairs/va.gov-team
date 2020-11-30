@@ -59,7 +59,5 @@ We will know the initial set of functionality is meeting the desired user and bu
 
 |Objective  | Key Result |
 |--|--|
-|Objective | Key Result |
-|--|--|
 |Enable VA businesses to build effective digital campaign communications quickly and easily | CLP is used by at least three VA businesses to launch live campaigns in 2021  |
 |Campaigns built with CLP must support traffic/reach/usage goals of VA business users  | CTRs from Campaign Landing page "calls to action" must be 2% or greater |
