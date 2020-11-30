@@ -41,7 +41,7 @@ Moderated qualitative research sessions with generative questioning and usabilit
 
 ### Screener Questions:
   
-**1. Are you currently or have you participated in any of the following?** (Answer must be yes)
+**1. Are you currently or have you in the last 5 years participated in any of the following?** (Answer must be yes)
 
     [checkboxes: check all that apply] 
 
