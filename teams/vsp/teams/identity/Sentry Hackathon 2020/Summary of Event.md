@@ -8,8 +8,8 @@
 - Focus effort into one task to reduce context switching. The act of context switching for engineering tasks is often discussed as to one of the impediments to progress. Even simply thinking about an outstanding issue that requires more than a few minutes to resolve can cause context switching fatigue. By scheduling and conducting an event such as a hackathon, it allows engineers to focus on other tasks knowing that any concerns or issues they have regarding Sentry errors is going to be addresses during a dedicated session. The other added benefit is that participants do not need to feel rushed when it comes to digging into solutions. Often during research meetings the solution is timeboxed to what we can come up with inside an hour. The hackathon purposely allows a large block continuous time resulting in deep thought, research, and more robust solutions for any given issue. 
 
 ## Prior to the event
-- Prior the event we documented an agenda, classified errors into buckets, access requirements, goals, and several other important items which allowed for the team to hit the ground running at the start of the hackaton.
-- Validated all required participants could attend. 
+- Documented an agenda, classified errors into buckets, access requirements, goals, and several other important items which allowed for the team to hit the ground running at the start of the hackaton
+- Validated all required participants could attend 
 ## What happened during the event
 - Overview of the errors
 - Mapped out how to troubleshoot
