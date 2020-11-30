@@ -1,6 +1,7 @@
 
 ## State of Product: Campaign Landing Page MVP
 
+
 ### What is the Problem to be Solved
 
 Many benefit-adjacent Tier 2 content are not support/learning/help, or evergreen office (administrative) content. Some Tier 2 content is more similar to marketing or engagement content.
@@ -62,3 +63,25 @@ We will know the initial set of functionality is meeting the desired user and bu
 |Enable VA businesses to build effective digital campaign communications quickly and easily | CLP is used by at least three VA businesses to launch live campaigns in 2021  |
 |Campaigns built with CLP must support traffic/reach/usage goals of VA business users  | CTRs from Campaign Landing page "calls to action" must be 2% or greater |
 |                                                                                      | Page views must exceed campaign goals by 10%   |
+
+
+#### Product Requirements
+
+The Campaign Landing page is at root a page builder in the Drupal CMS with content components -- called "panels" -- that represent content types/features.    To support editorial flexibility, some of the content panels are optional.
+
+The template requirements are:
+
+-   It must allow 2 versions - image/visually rich vs. no images
+-   It must contain rigid locations for primary and secondary CTAs
+-   It must include links to related benefit hub content
+-   It must identify who the content is for and a summary (or tl;dr) section
+-   It must include the following optional content blocks that authors can include or omit, as needed:
+    -   section for video
+    -   section for downloadable PDF resources
+    -   section for stories (blog articles, announcements)
+    -   section for events
+    -   section for social media and other contact info
+    -   section for FAQs
+    -   these sections can be 1/0 (included/excluded) but not moved around or relocated on the template
+    
+![enter image description here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/images/CLP_Content%20Panels_CMS.png)
