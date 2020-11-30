@@ -17,8 +17,8 @@ Before we get started, I want to give you an idea of what this call will be like
 - **This entire session should take about 45 minutes.** 
 - We'll start the session with a couple warm up questions.
 - Then, I'll ask you to share your screen so that we can look at and discuss a website together and I'll help you through that.
-- Lastly, I'll share a link for you to click on. It will open a website that will look real but it's actually a fake prototype of a website where I'll ask for your opinion about various parts of it.
-- ** There are no right or wrong answers, we're not testing you. We're actually testing the designs and the information to understand how they would work for Veterans and how we can make them better. So, I welcome your honest and candid feedback but if at any time you don't feel comfortable answering a question, we can simply move on to the next question. 
+- Lastly, I'll share a link for you to click on. It will open a separate website that we'll also look at and discuss together. 
+- I'll ask you about your thoughts and opinions about differents areas of the page **but there are no right or wrong answers, we're not testing you.** We're actually testing the designs and the information to understand how they would work for Veterans and how we can make them better. So, I welcome your honest and candid feedback but if at any time you don't feel comfortable answering a question, we can simply move on to the next question. 
 - This session will be recorded to ensure that I capture your opinions accurately. The recordings are destroyed after the call is analyzed, and none of your comments will be attributed to you directly. **Are you comfortable if I record my screen and audio as we talk today?** 
     - If yes: **Once I start recording, I will ask again to confirm that you're ok with me recording this session so that it's captured in the recording.** 
 
