@@ -315,7 +315,7 @@ Designer #2 (designer #1 can help with this once the write-up is done):
 
 **Design**
 
-- Finish research
+- Conduct research
 - Research summary
 - Final design updates
 
@@ -329,12 +329,6 @@ Designer #2 (designer #1 can help with this once the write-up is done):
 **BE**
 
 - Continue backend build #16107 (if necessary)
-
-### VA Profile notification preferences
-
-**PM**
-
-- Create product outline
 
 ### Analytics
 
@@ -355,11 +349,7 @@ Designer #2 (designer #1 can help with this once the write-up is done):
 
 **PM**
 
-- Hold platform kickoff (maybe)
-
-**BE**
-
-- Technical discovery
+- Create product outline
 
 ## Sprint 38 (12/30 – 1/12)
 
@@ -378,6 +368,16 @@ Designer #2 (designer #1 can help with this once the write-up is done):
 **FE**
 
 - Start FE build
+
+### VA Profile notification preferences
+
+**PM**
+
+- Hold platform kickoff (maybe)
+
+**BE**
+
+- Technical discovery
 
 ## Sprint 39 (1/13 – 1/26)
 
