@@ -72,14 +72,16 @@ Now let's imagine that you want to see what you can find on VA.gov. You'd like t
 
  - Can you talk me through how you might go about finding information like this on VA.gov?
  - Can you try that search for me?
- - What words do you think would get you to some answers?
+ - What words or phrases would you search for to get you to some answers?
  
 
 ## Prototype
 
 For the last part of this session, we're going to switch gears again and look at a different webpage together. I'm going to share a link with you to click on. It's going to look like a real web page but its actually just a fake prototype of a website. 
 
-With the same scenario in mind, except this time I'd like for you to imagine that you did a search and you landed on this page. I'm going to give you a minute to look it over and feel free to think out loud any thoughts that come to mind.
+[Share link to prototype](http://)
+
+With the same scenario in mind, helping a friend, except this time I'd like for you to imagine that you did a search and you landed on this page. I'm going to give you a minute to look it over and feel free to think out loud any thoughts that come to mind.
 
  - What can you tell me about this place?
  - How does this location compare or differ from other VA facilities you've visited in the past?
