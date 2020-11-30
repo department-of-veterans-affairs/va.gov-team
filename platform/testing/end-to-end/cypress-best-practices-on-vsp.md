@@ -328,6 +328,7 @@ Each viewport object contains a `list`, `rank`, `devicesWithViewport`, `percentT
   "devicesWithViewport": "iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro Max",
   "percentTraffic": 9.75,
   "percentTrafficPeriod": "October, 2020",
+  "viewportPreset": "va-top-mobile-1",
   "width": 414,
   "height": 896
 }
@@ -344,6 +345,7 @@ To access Cypress environment variables, simply call `Cypress.env()` followed by
       'iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro Max',
     percentTraffic: 9.75,
     percentTrafficPeriod: 'October, 2020',
+    viewportPreset: 'va-top-mobile-1',
     width: 414,
     height: 896,
   },
@@ -353,6 +355,7 @@ To access Cypress environment variables, simply call `Cypress.env()` followed by
     devicesWithViewport: 'iPhone 6, iPhone 6s, iPhone 7, iPhone 8',
     percentTraffic: 5.52,
     percentTrafficPeriod: 'October, 2020',
+    viewportPreset: 'va-top-mobile-2',
     width: 375,
     height: 667,
   },
@@ -362,6 +365,7 @@ To access Cypress environment variables, simply call `Cypress.env()` followed by
     devicesWithViewport: 'iPhone X, iPhone XS, iPhone 11 Pro',
     percentTraffic: 5.5,
     percentTrafficPeriod: 'October, 2020',
+    viewportPreset: 'va-top-mobile-3',
     width: 375,
     height: 812,
   },
@@ -372,6 +376,7 @@ To access Cypress environment variables, simply call `Cypress.env()` followed by
       'iPhone 6 Plus, iPhone 6s Plus, iPhone 7 Plus, iPhone 8 Plus',
     percentTraffic: 3.25,
     percentTrafficPeriod: 'October, 2020',
+    viewportPreset: 'va-top-mobile-4',
     width: 414,
     height: 736,
   },
@@ -381,6 +386,7 @@ To access Cypress environment variables, simply call `Cypress.env()` followed by
     devicesWithViewport: 'iPhone 5, iPhone 5s, iPhone 5c, iPhone SE 1st gen',
     percentTraffic: 1.49,
     percentTrafficPeriod: 'October, 2020',
+    viewportPreset: 'va-top-mobile-5',
     width: 360,
     height: 640,
   },
@@ -398,23 +404,27 @@ it('should render in mobile layouts', () => {
       devicesWithViewport,
       percentTraffic,
       percentTrafficPeriod,
+      viewportPreset
       width,
       height,
     } = viewportData;
 
     cy.log(`Viewport list: ${list}`);
     cy.log(`Viewport rank: ${rank}`);
+    cy.log(`Viewport width x height: ${width} x ${height}`);
     cy.log(`Devices with viewport: ${devicesWithViewport}`);
     cy.log(
       `% traffic for the month of ${percentTrafficPeriod}: ${percentTraffic}%`
     );
 
     cy.visit('/page');
-    cy.viewport(width, height);
+    cy.viewportPreset(viewportPreset);
     // code omitted
   });
 });
 ```
+
+**Even though the `width` and `height` for each viewport is provided, we recommend that you no longer call `cy.viewport()` to set the viewport, and instead call [`cy.viewportPreset()`](#viewport-presets-cyviewportpresetpreset-orientation-options) by passing in `viewportPreset`. It is preferred that `cy.viewport()` not be used. `width` and `height` can be used for conditional logic during each iteration, or they can be logged for contextual purposes.**
 
 ## Cypress Testing Library Selectors
 
