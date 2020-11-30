@@ -2,7 +2,8 @@
 
 11/19/2020 By Megan Gayle
 
-The issues users brought up can be summarized as follows:
+### Methodology
+Scanned social media posts within the last year on Reddit.com/r/veterans and Hadit.com for posts that contained the phrases, "can't find" and "looking for".
 
 ### Benefit information under authenticated experience
 - Several veterans could not find uploaded documents. 
