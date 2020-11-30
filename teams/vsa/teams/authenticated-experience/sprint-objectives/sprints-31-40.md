@@ -305,7 +305,6 @@ Designer #2 (designer #1 can help with this once the write-up is done):
   - "Overview" blocks need a title and proper CTA (confirm with accessibility on what we need on screen vs. what we can use an aria-label)
   - Page title (H1)
   - Blank states 
-  - FTUX discussion
 - If time, start desktop conversion
 
 ### Direct deposit for edu
