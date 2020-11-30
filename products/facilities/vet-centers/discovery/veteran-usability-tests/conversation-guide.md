@@ -19,7 +19,9 @@ Before we get started, I want to give you an idea of what this call will be like
 - Then, I'll ask you to share your screen so that we can look at and discuss a website together and I'll help you through that.
 - Lastly, I'll share a link for you to click on. It will open a separate website that we'll also look at and discuss together. 
 - Throughout the session, I'll be asking you about your thoughts and opinions about the information and content on the pages but there are no right or wrong answers. We're not testing you. We're actually testing the designs and the information contained on the pages to see how we can make them better for Veterans. So, I welcome your honest and candid feedback but if at any time you don't feel comfortable answering a question, we can simply move on to the next question. 
-- This session will be recorded to ensure that I capture your opinions accurately. The recordings are destroyed after the call is analyzed, and none of your comments will be attributed to you directly. **Are you comfortable if I record my screen and audio as we talk today?** 
+- This session will be recorded to ensure that I capture your opinions accurately. The recordings are destroyed after the call is analyzed, and none of your comments will be attributed to you directly. 
+
+**Are you comfortable if I record my screen and audio as we talk today?** 
     - If yes: **Once I start recording, I will ask again to confirm that you're ok with me recording this session so that it's captured in the recording.** 
 
 ###### Start recording to the Cloud
