@@ -64,7 +64,7 @@ I'm going to give you a scenario to consider. Imagine you have a Veteran friend 
  (If they need more direction: What might be some common issues that you think might benefit from counseling?)
  
  - Can you try that search for me?
- - What words do you think would get you to some answers?
+ - What words or phrases would you search for to get you to some answers?
 
 ## Searching for counseling on VA.gov
 
