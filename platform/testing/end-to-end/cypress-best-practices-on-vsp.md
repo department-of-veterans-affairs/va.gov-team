@@ -205,13 +205,13 @@ Please note: These presets are available in the following Cypress environment va
 
 See [Iterate Through Top VA.gov Viewports](#iterate-through-top-vagov-viewports) for more details.
 
-| Mobile          | Tablet          | Desktop          |
-| --------------- | --------------- | ---------------- |
-| `mobile-top5-1` | `tablet-top5-1` | `desktop-top5-1` |
-| `mobile-top5-2` | `tablet-top5-2` | `desktop-top5-2` |
-| `mobile-top5-3` | `tablet-top5-3` | `desktop-top5-3` |
-| `mobile-top5-4` | `tablet-top5-4` | `desktop-top5-4` |
-| `mobile-top5-5` | `tablet-top5-5` | `desktop-top5-5` |
+| Mobile            | Tablet            | Desktop            |
+| ----------------- | ----------------- | ------------------ |
+| `va-top-mobile-1` | `va-top-tablet-1` | `va-top-desktop-1` |
+| `va-top-mobile-2` | `va-top-tablet-2` | `va-top-desktop-2` |
+| `va-top-mobile-3` | `va-top-tablet-3` | `va-top-desktop-3` |
+| `va-top-mobile-4` | `va-top-tablet-4` | `va-top-desktop-4` |
+| `va-top-mobile-5` | `va-top-tablet-5` | `va-top-desktop-5` |
 
 #### Usage:
 
