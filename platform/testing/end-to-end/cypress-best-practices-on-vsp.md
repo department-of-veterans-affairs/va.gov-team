@@ -180,10 +180,7 @@ https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/p
 
 #### Description:
 
-Presets are available for:
-
-- The top 5 viewports for mobile, tablet, and desktop, updated monthly from VA.gov's Google Analytics
-- All iPhone and iPad devices
+Presets are available for the top viewports for mobile, tablet, and desktop, updated monthly from VA.gov's Google Analytics
 
 #### Arguments:
 
@@ -197,11 +194,13 @@ Presets are available for:
 
 The viewport values these presets point to is updated monthly. The last number in the preset name represents the traffic rank where 1 is highest. For example, if you want to set the viewport to the logical width and height of the mobile device most used on VA.gov, use preset `va-top-mobile-1`.
 
-Please note: These presets are available in the following Cypress environment variable arrays:
+Please note: Viewport objects that correspond to these presets are also available in the following Cypress environment variable arrays:
 
 - `vaTopMobileViewports`
 - `vaTopTabletViewports`
 - `vaTopDesktopViewports`
+
+**Iterating through these Cypress environment variable arrays is preferred over using these presets, if your test allows for it.**
 
 See [Iterate Through Top VA.gov Viewports](#iterate-through-top-vagov-viewports) for more details.
 
@@ -233,8 +232,8 @@ Allows us to upload files, which Cypress does not natively support. This impleme
 
 #### Arguments:
 
-fileName -- a `String`  
-file Type -- a `String`
+- fileName -- a `String`
+- file Type -- a `String`
 
 This function must be chained from a command that retrieves an upload input element.
 
@@ -301,13 +300,14 @@ https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/p
 
 #### Description:
 
-A common pattern in Cypress testing on VA.gov is to call `cy.injectAxe()` followed by `cy.axeCheck()`. This custom command is a convenience function for calling these two sequential function calls.
+A common pattern in Cypress testing on VA.gov is to call `cy.injectAxe()` followed by `cy.axeCheck()`. This custom command is a convenience function for calling these two functions, one after the other.
 
 #### Arguments:
 
 The following arguments are passed to `cy.axeCheck()` when called inside `cy.injectAxeThenAxeCheck()`.
-context -- a `String`, defaults to `main`
-tempOptions -- an `Object`, defaults to an empty `Object`
+
+- context -- a `String`, defaults to `main`
+- tempOptions -- an `Object`, defaults to an empty `Object`
 
 ## Iterate Through Top VA.gov Viewports
 
