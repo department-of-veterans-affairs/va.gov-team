@@ -53,11 +53,12 @@ You generally do not need to import any modules for helpers, timeouts, etc. as w
 
 ### Test structure <a name="test-structure"></a>
 
-The test structure of Cypress should feel familiar. Cypress uses Mocha's BDD syntax, which is what we use for our unit tests.
+The test structure of Cypress should feel familiar. Cypress uses [Mocha's behvior-driven development (BDD) syntax](https://mochajs.org/#bdd), which is what we use for our unit tests.
 
 Each spec file starts a new browser instance and runs the suite of tests according to the `describe()` and `it()` blocks.
 
-Note that `it()` blocks are individual tests, so each `it()` block should be independent of others in the same test suite. Everything executed in the browser needs to be inside of an `it()` block.
+- Note that `it()` blocks are individual tests, so each `it()` block should be independent of others in the same test suite.
+- Everything executed in the browser needs to be inside of an `it()` block.
 
 Visit [the Cypress docs](https://docs.cypress.io/guides/core-concepts/writing-and-organizing-tests.html#Test-Structure) for more context.
 
@@ -182,7 +183,7 @@ Some custom Nightwatch commands located in `src/platform/testing/e2e/nightwatch-
 
 Many of them did not need to be converted, either because Cypress supports their functionality natively or the functionality was [too simple to abstract into a command](https://docs.cypress.io/api/cypress-api/custom-commands.html#2-Don%E2%80%99t-overcomplicate-things).
 
-We have custom commands to acccomplish some common tasks, which are highlighted below. To get the full listing of available custom commands, see `src/platform/testing/e2e/cypress/support/commands`.
+We have custom commands to acccomplish some common tasks, which are highlighted below. [Visit here to see a directory of all commands](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/platform/testing/e2e/cypress/support/commands).
 
 #### Mock users <a name="mock-users"></a>
 
@@ -216,8 +217,7 @@ Cypress:
 
 ```javascript
 cy.visit(PAGE_URL);
-cy.injectAxe();
-cy.axeCheck();
+cy.injectAxeThenAxeCheck();
 ```
 
 Depending on the content of a page, it may be more thorough to test accessibility after expanding all accordions (and expandable content in general) on the page. We have a custom command for that purpose:

@@ -54,7 +54,7 @@ There is a dropdown menu in the top right of the test runner that allows you to 
 
 The test runner provides the ability to pause tests, and [time travel](https://docs.cypress.io/guides/getting-started/writing-your-first-test.html#Time-travel), which allows you to see snapshots of your tests.
 
-With the test runner, you are able to use Cypress's "Selector Playground". This allows you to click on elements in the DOM and copy that element's selector to use in your test. However, [as mentioned earlier](#interacting-with-page-elements), selecting elements by CSS attributes is discouraged in favor of selecting by test id, which is in turn considered a fallback if selecting by other attributes (label text, role, etc.) is not feasible. In fact, the Selector Playground follows this best practice and automatically attempts to determine the selector by looking at `data-cy`, `data-test`, and `data-testid` before falling back to a CSS selector.
+With the test runner, you are able to use Cypress's "Selector Playground". This allows you to click on elements in the DOM and copy that element's selector to use in your test. However, [as mentioned elsewhere](#data-testid-attribute), selecting elements by CSS attributes is discouraged in favor of selecting by test id, which is in turn considered a fallback if selecting by other attributes (label text, role, etc.) is not feasible. In fact, the Selector Playground follows this best practice and automatically attempts to determine the selector by looking at `data-cy`, `data-test`, and `data-testid` before falling back to a CSS selector.
 
 You may find it useful to append certain [options](https://docs.cypress.io/guides/guides/command-line.html#Commands) to the commands above.
 
@@ -423,8 +423,7 @@ As documented by the plugin, be sure to call `cy.injectAxe()` after each `cy.vis
 
 ```javascript
 cy.visit(PAGE_URL);
-cy.injectAxe();
-cy.axeCheck();
+cy.injectAxeThenAxeCheck();
 ```
 
 Depending on the content of a page, it may be more thorough to test accessibility after expanding all accordions (and expandable content in general) on the page. Use the `cy.expandAccordions()` command for that purpose:
