@@ -5,24 +5,28 @@
     - Sentry is an excellent solution to use to record different types of errors from your applications and add contextual data that would otherwise be time consuming to put together manually. This type of solution is often a double edged sword in how it collects errors and then how it alerts you to them. We found that within the Identity team we getting hundreds of thousands of error messages a week, but many of them were either not labeled with the correct criticality of the error, the error message did not contain enough information to discern what actually caused the error, and there wasn't a full understanding of how to trace and troubleshoot the errors. This all leads to the errors becoming mostly noise and distracting from making progress on the Identity Teams current goals of a successful rollout of a single signon function for all of va.gov.
 - Lack of knowledge about errors by new team members
     - Most of the Identity Team has rolled over to new members. Only one member of the team outside of the PM has been on the team longer than 3 months. The knowledge of the errors, their purpose, and priority is not known by the entire team. We felt an event such as a hackathon could facilitate the knowledge transfer and provide an opportunity to apply this new knowledge to validate the team could cover down on all aspects of Sentry errors related to the Identity team.
-- Focus effort into one task to reduce context switching
+- Focus effort into one task to reduce context switching. The act of context switching for engineering tasks is often discussed as to one of the impediments to progress. Even simply thinking about an outstanding issue that requires more than a few minutes to resolve can cause context switching fatigue. By scheduling and conducting an event such as a hackathon, it allows engineers to focus on other tasks knowing that any concerns or issues they have regarding Sentry errors is going to be addresses during a dedicated session. The other added benefit is that participants do not need to feel rushed when it comes to digging into solutions. Often during research meetings the solution is timeboxed to what we can come up with inside an hour. The hackathon purposely allows a large block continuous time resulting in deep thought, research, and more robust solutions for any given issue. 
 
-## Talk about what we did before the event to prepare
-- Error buckets and relevance, refer to the individual bucket pages themselves for more details
-- Documented access requirements
-## Discuss some of the things we did during the event
+## Prior to the event
+- Prior the event we documented an agenda, classified errors into buckets, access requirements, goals, and several other important items which allowed for the team to hit the ground running at the start of the hackaton.
+- Validated all required participants could attend. 
+## What happened during the event
 - Overview of the errors
 - Mapped out how to troubleshoot
 - Documented where the code is referenced as well as added to the documentation within the error buckets section
 - Blew away the timeline, best thing that could have occurred as everyone was very engaged in the conversation
 ## Walked away with 4 attack plans, one for each bucket
-- Created issues for 2 of the attack plans
-- Document 2 here
-  - Reduced the noise, making them more actionable. Talk about number of events were errors, and how many are errors now
-- Knowledge
-  - An understanding of the errors and what we should care about
-  - Tasks like these in isolation are mundane and sometimes difficult to tackle alone, with the hackathon we were able to work as a team and focus on single agenda for a 4 hour block. This normally takes a few weeks to get through with other priorities coming into play. Other important factor is that we didn't allow this to consume other priorities time because we only worked on it during the hackathon.
-    - Reduced context switching 
+- MVI errors
+    - [Failed to fetch error](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15883)
+        - **(TBD)** Reduced the noise, making them more actionable. Talk about number of events were errors, and how many are errors now
+- keepalive errors
+    - [SSOe Errors](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16388)
+        - **(TBD)** Reduced the noise, making them more actionable. Talk about number of events were errors, and how many are errors now
+- non-errors
+    - These are items that paint the picture of what may have occured as a result of another error. These should not be alerting and classified as "info".
+- to be resolved
+    - These errors do not have a bucket and should be investigated with reasonable priority to ensure we determine what is occuring.
+
 ## To do:
 - Feedback session
 - Complete the documentation for the error buckets
