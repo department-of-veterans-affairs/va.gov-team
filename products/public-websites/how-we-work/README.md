@@ -28,6 +28,8 @@ Live Google Sheets version: https://docs.google.com/spreadsheets/d/1izUIMwzl7NRv
   - How It Works (System Diagram, Technical Description, Tech Doc Links)
   - How It Is Maintained (e.g., Data feeds, Content updates, etc.)
 
+([Campaign Landing Page example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/state-of-product.md))
+
 - Quarterly Product Reviews
 
 ### Roadmap Process
