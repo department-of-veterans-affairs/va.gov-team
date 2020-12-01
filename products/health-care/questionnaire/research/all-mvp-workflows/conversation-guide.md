@@ -74,7 +74,7 @@ Think about your last primary care provider visit at the VA.
 
 Keep that pre-appointment experience in mind through the next series of scenarios that we are going to discuss.	I'm going to send you a link in the chat.
 
-[Mobile Prototype-Link TBD]()<br/>
+[Mobile Prototype](https://preview.uxpin.com/d3c9bb8ac5052d077234b5e4b2f7749d0bc5200d#/pages/134593965?mode=cvhidm)<br/>
 - Show three mobile participants the scenarios in the following order: 1 (text), then 2.
 - Show three mobile participants the scenarios in the following order: 2, then 1 (text).
 
