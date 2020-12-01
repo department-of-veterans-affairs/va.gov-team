@@ -13,7 +13,15 @@ This does not include research for Appeals projects, which is stored in differen
 
 ------
 ###  2020
+
 ### November 2020
+
+#### November 19 - December 15: 526 Usability test (PTSD flow)
+*GovernmentCIO, BAM 1. Lead researcher: Christian Valla
+
+-16 participants (4-8 therapists / social workers. 8-12 veterans) 
+
+- [Research folder](https://docs.google.com/document/d/1Ubm4_fD6y0S-CJ1UgQXuhiZ8-g2KupO7k9gtzRTYIV8/edit?usp=sharing)
 
 #### October 15 - November 3:  Comparison Tool Redesign Research
 *Booz Allen: Amy Knox, Jen Jones, Emma Waters*
@@ -47,6 +55,13 @@ This does not include research for Appeals projects, which is stored in differen
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/veteran-interviews)
 
 ### August 2020
+
+#### August 20 - November 30: UAT testing. HLR and BDD.
+*GovernmentCIO, BAM 1. Lead researcher: Christian Valla
+
+-12 participants 
+
+- [Research folder] N/A.
 
 #### August 31 - September 11: Learning center nomenclature card sort
 *Public Websites: Liz Lantz*

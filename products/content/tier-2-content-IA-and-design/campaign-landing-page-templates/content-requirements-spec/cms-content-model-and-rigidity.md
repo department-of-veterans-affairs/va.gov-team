@@ -2,6 +2,7 @@
 
 1. [Panels](#panels)
 2. [Other issues](#other-issues)
+3. [Governance](#governance)
 
 # Panels
 
@@ -125,7 +126,7 @@ CMS can support CMS-managed events, but it poses some tricky editorial experienc
 
 ~Q&As cannot be added "on the fly".~
 
-Decision November 24: Use Q&A approach currently in use on Benefits Detail Pages, where are not reusable. 
+Decision November 24: Use Q&A approach currently in use on Benefits Detail Pages, which, are not reusable, but hide all the additional options for other answer types. 
 
 
 
@@ -143,6 +144,13 @@ Currently, all but the phone number are contained within the component, albeit w
 **Q:** What kind of flexibility around phone numbers is required, and is this 100% needed for MVP?
 
 **A:** Not needed for MVP (demo/prototype) -- but will be needed for first production-ready release.
+
+
+**For MVP:**
+
+Editors will select one of four administrations (VBA, VHA, NCA or "Veterans Affairs") and the content will be pulled from the same place as the Benefits Hubs landing pages "Connect with us" component.
+
+Editors will not be able to specify a specific social media handle (eg facebook for Mental Health awareness month)
 
 
 
@@ -196,13 +204,40 @@ No questions.
 **A:**
 
 
-## MVP governance
+# Governance
 
-Sections: [what sections do these belong to, during MVP?]
+**Editorial Workflow Role Assignments:** 
 
-Role: [who can edit during MVP?] 
+For MVP - The only editors will be Content Admins, except possibly for editorial experience testing.
 
-User administration: [How will users be given access during MVP] 
+Post-MVP: CMS team will support Public Websites team with guidelines. 
 
-URL alias: [what is the url alias pattern?]
+**User Administration Policy:** 
+
+For MVP - Public websites POs request new users to be added, and decide on their editorial workflow roles.  
+
+Post MVP: CMS team will support the Public Websites team in the design of a User Administration policy.
+
+**Content creation:** 
+
+For MVP - editors will be Content Admins. 
+* Content Admins will implement whatever IA is designed by the Content & IA team.
+
+Post MVP - A content lifecycle document should describe the method by which Campaign Landing Pages are “applied for”, created, edited, and published.
+
+**Sections/content ownership:**
+
+For MVP - Proposal: MVP content will live in a new Section called “Campaign Landing Pages” under DEPO > Public Websites > 
+
+Post-MVP: Sections can be added elsewhere in the Sections hierarchy, such as under VHA > Campaign Landing Page, depending on editor base.  
+
+**Content lifecycle:** 
+
+For MVP -  sunset will be sunset manually, if at all. 
+
+**CMS Team point-of-contact:**   
+
+Kevin Walsh
+
+
 

@@ -3,7 +3,9 @@
 ## Communications
 - GitHub Label: #vsa-caregiver
 - Slack channel: #vsa-caregiver
-- Product POCs: Alayna Abel, Ming Ligh
+- DEPO Product Lead: [Ming Ligh](https://github.com/mlighdc)
+- DEPO Engineering Lead: [Mike Chelen](https://github.com/mchelen-gov)
+- Product Manager: [Alayna Abel](https://github.com/ala-yna)
 - Stakeholders: Pam Wright, Cari Malcolm
 
 ## The Problem

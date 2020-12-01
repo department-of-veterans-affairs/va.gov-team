@@ -16,7 +16,7 @@
   - [Viewport Presets: `cy.viewportPreset(preset, orientation, options)`](#viewport-presets-cyviewportpresetpreset-orientation-options)
   - [File Uploads: `cy.upload(fileName, fileType)`](#file-uploads-cyuploadfilename-filetype)
   - [Expand Accordions: `cy.expandAccordions()`](#expand-accordions-cyexpandaccordions)
-  - [Accessibility - `cy.axeCheck(context, tempOptions)`](#accessibility-cyaxecheckcontext)
+  - [Accessibility - `cy.axeCheck(context, tempOptions)`](#accessibility-cyaxecheckcontext-tempoptions)
   - [Accessibility Convience Function: `injectAxeThenAxeCheck(context, tempOptions)`](#accessibility-convience-function-injectaxethenaxecheckcontext-tempoptions)
 - [Iterate Through Top VA.gov Viewports](#iterate-through-top-vagov-viewports)
 - [Cypress Testing Library Selectors](#cypress-testing-library-selectors)
@@ -280,10 +280,7 @@ https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/p
 
 #### Description:
 
-Presets are available for:
-
-- The top 5 viewports for mobile, tablet, and desktop, updated monthly from VA.gov's Google Analytics
-- All iPhone and iPad devices
+Presets are available for the top viewports for mobile, tablet, and desktop, updated monthly from VA.gov's Google Analytics
 
 #### Arguments:
 
@@ -293,67 +290,35 @@ Presets are available for:
 
 #### Preset Names
 
-##### Top 5 Presets by Traffic Percentage, Descending
+##### Top Presets by Traffic Percentage, Descending
 
-The viewport values these presets point to is updated monthly. The last number in the preset name represents the traffic rank where 1 is highest. For example, if you want to set the viewport to the logical width and height of the mobile device most used on VA.gov, use preset `mobile-top5-1`.
+The viewport values these presets point to is updated monthly. The last number in the preset name represents the traffic rank where 1 is highest. For example, if you want to set the viewport to the logical width and height of the mobile device most used on VA.gov, use preset `va-top-mobile-1`.
 
-Please note: These presets are available in the following Cypress environment variable arrays:
+Viewport objects that correspond to these presets are also available in the following Cypress environment variable arrays:
 
-- `vaTop5MobileViewports`
-- `vaTop5TabletViewports`
-- `vaTop5DesktopViewports`
+- `vaTopMobileViewports`
+- `vaTopTabletViewports`
+- `vaTopDesktopViewports`
+
+**Please note: Iterating through these Cypress environment variable arrays is preferred over using these presets, if your test allows for it.**
 
 See [Iterate Through Top VA.gov Viewports](#iterate-through-top-vagov-viewports) for more details.
 
-| Mobile          | Tablet          | Desktop          |
-| --------------- | --------------- | ---------------- |
-| `mobile-top5-1` | `tablet-top5-1` | `desktop-top5-1` |
-| `mobile-top5-2` | `tablet-top5-2` | `desktop-top5-2` |
-| `mobile-top5-3` | `tablet-top5-3` | `desktop-top5-3` |
-| `mobile-top5-4` | `tablet-top5-4` | `desktop-top5-4` |
-| `mobile-top5-5` | `tablet-top5-5` | `desktop-top5-5` |
-
-##### iOS Presets
-
-| iPhone              | iPad               |
-| ------------------- | ------------------ |
-| `iphone-1st-gen`    | `ipad-1`           |
-| `iphone-3g`         | `ipad-2`           |
-| `iphone-3gs`        | `ipad-3`           |
-| `iphone-4`          | `ipad-mini-1`      |
-| `iphone-4s`         | `ipad-4`           |
-| `iphone-5`          | `ipad-air-1`       |
-| `iphone-5c`         | `ipad-mini-2`      |
-| `iphone-5s`         | `ipad-air-2`       |
-| `iphone-6-plus`     | `ipad-mini-3`      |
-| `iphone-6`          | `ipad-mini-4`      |
-| `iphone-6s-plus`    | `ipad-pro-1-12.9`  |
-| `iphone-6s`         | `ipad-pro-1-9.7`   |
-| `iphone-se-1st-gen` | `ipad-5`           |
-| `iphone-7-plus`     | `ipad-pro-2-12.9`  |
-| `iphone-7`          | `ipad-pro-2--10.5` |
-| `iphone-8-plus`     | `ipad-6`           |
-| `iphone-8`          | `ipad-pro-3-12.9`  |
-| `iphone-x`          | `ipad-pro-3-11`    |
-| `iphone-xs-max`     | `ipad-air-3`       |
-| `iphone-xs`         | `ipad-mini-5`      |
-| `iphone-xr`         | `ipad-7`           |
-| `iphone-11-pro-max` | `ipad-pro-4-12.9`  |
-| `iphone-11`         | `ipad-pro-4-11`    |
-| `iphone-11-pro`     |
-| `iphone-se-2nd-gen` |
-| `iphone-12-pro-max` |
-| `iphone-12`         |
-| `iphone-12-pro`     |
-| `iphone-12-mini`    |
+| Mobile            | Tablet            | Desktop            |
+| ----------------- | ----------------- | ------------------ |
+| `va-top-mobile-1` | `va-top-tablet-1` | `va-top-desktop-1` |
+| `va-top-mobile-2` | `va-top-tablet-2` | `va-top-desktop-2` |
+| `va-top-mobile-3` | `va-top-tablet-3` | `va-top-desktop-3` |
+| `va-top-mobile-4` | `va-top-tablet-4` | `va-top-desktop-4` |
+| `va-top-mobile-5` | `va-top-tablet-5` | `va-top-desktop-5` |
 
 #### Usage:
 
-To set the viewport, simply call `cy.viewportPreset()` and pass in one of the above preset names as an argument, like so: `cy.viewportPreset('iphone-12');`.
+To set the viewport, simply call `cy.viewportPreset()` and pass in one of the above preset names as an argument, like so: `cy.viewportPreset('va-top-mobile-1');`.
 
-To set the orientation to landscape, pass in 'landscape' as a second argument, like so: `cy.viewportPreset('iphone-12', 'landscape');`.
+To set the orientation to landscape, pass in 'landscape' as a second argument, like so: `cy.viewportPreset('va-top-mobile-1', 'landscape');`.
 
-To prevent the command from being displayed in the command log, pass in `{ log: false }` as a third argument, like so: `cy.viewportPreset('iphone-12', 'landscape', { log: false });`.
+To prevent the command from being displayed in the command log, pass in `{ log: false }` as a third argument, like so: `cy.viewportPreset('va-top-mobile-1', 'landscape', { log: false });`.
 
 ### File uploads: cy.upload(fileName, fileType)
 
@@ -376,8 +341,8 @@ Allows us to upload files, which Cypress does not natively support. This impleme
 
 #### Arguments:
 
-fileName -- a `String`  
-file Type -- a `String`
+- fileName -- a `String`
+- file Type -- a `String`
 
 This function must be chained from a command that retrieves an upload input element.
 
@@ -414,8 +379,8 @@ Checks the current page for aXe violations.
 
 #### Arguments:
 
-context -- a `String`, defaults to `main`
-tempOptions -- an `Object`, defaults to an empty `Object`
+- context -- a `String`, defaults to `main`
+- tempOptions -- an `Object`, defaults to an empty `Object`
 
 To add aXe checks to your tests use the custom `cy.axeCheck()` command based off the `cy.checkA11y()` [command](https://github.com/component-driven/cypress-axe#cychecka11y).
 
@@ -443,105 +408,131 @@ https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/p
 
 #### Description:
 
-A common pattern in Cypress testing on VA.gov is to call `cy.injectAxe()` followed by `cy.axeCheck()`. This custom command is a convenience function for calling these two sequential function calls.
+A common pattern in Cypress testing on VA.gov is to call `cy.injectAxe()` followed by `cy.axeCheck()`. This custom command is a convenience function for calling these two functions, one after the other.
 
 #### Arguments:
 
 The following arguments are passed to `cy.axeCheck()` when called inside `cy.injectAxeThenAxeCheck()`.
-context -- a `String`, defaults to `main`
-tempOptions -- an `Object`, defaults to an empty `Object`
+
+- context -- a `String`, defaults to `main`
+- tempOptions -- an `Object`, defaults to an empty `Object`
 
 ## Iterate Through Top VA.gov Viewports
 
 To ensure that an application behaves correctly across the viewport sizes most commonly used by va.gov users, we've provided the following Cypress environment variables in the [`config/cypress.json`](https://github.com/department-of-veterans-affairs/vets-website/blob/master/config/cypress.json) file that each contain an array of objects, each describing a viewport:
 
-- `vaTop5MobileViewports`
-- `vaTop5TabletViewports`
-- `vaTop5DesktopViewports`
+- `vaTopMobileViewports`
+- `vaTopTabletViewports`
+- `vaTopDesktopViewports`
 
 The objects in the arrays are updated once a month so we're always testing against the viewports VA.gov users are actually using.
 
-Each viewport object contains a `name`, `percentTraffic`, `percentTrafficPeriod`, `width` and `height` property. Here is an example of a mobile viewport object from the `vaTop5MobileViewports` Cypress environment variable:
+Each viewport object contains a `list`, `rank`, `devicesWithViewport`, `percentTraffic`, `percentTrafficPeriod`, `width` and `height` property. Here is an example of a mobile viewport object from the `vaTopMobileViewports` Cypress environment variable:
 
 ```javascript
 {
-  "name": "iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro Max",
+  "list": "VA Top Mobile Viewports",
+  "rank": 1,
+  "devicesWithViewport": "iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro Max",
   "percentTraffic": 9.75,
   "percentTrafficPeriod": "October, 2020",
+  "viewportPreset": "va-top-mobile-1",
   "width": 414,
   "height": 896
 }
 ```
 
-To access Cypress environment variables, simply call `Cypress.env()` followed by the name of the variable. For example, `Cypress.env().vaTop5MobileViewports` returns the following array:
+To access Cypress environment variables, simply call `Cypress.env()` followed by the name of the variable. For example, `Cypress.env().vaTopMobileViewports` returns the following array:
 
 ```javascript
 [
   {
-    name: "iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro Max",
+    list: 'VA Top Mobile Viewports',
+    rank: 1,
+    devicesWithViewport:
+      'iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro Max',
     percentTraffic: 9.75,
-    percentTrafficPeriod: "October, 2020",
+    percentTrafficPeriod: 'October, 2020',
+    viewportPreset: 'va-top-mobile-1',
     width: 414,
     height: 896,
   },
   {
-    name: "iPhone 6, iPhone 6s, iPhone 7, iPhone 8",
+    list: 'VA Top Mobile Viewports',
+    rank: 2,
+    devicesWithViewport: 'iPhone 6, iPhone 6s, iPhone 7, iPhone 8',
     percentTraffic: 5.52,
-    percentTrafficPeriod: "October, 2020",
+    percentTrafficPeriod: 'October, 2020',
+    viewportPreset: 'va-top-mobile-2',
     width: 375,
     height: 667,
   },
   {
-    name: "iPhone X, iPhone XS, iPhone 11 Pro",
+    list: 'VA Top Mobile Viewports',
+    rank: 3,
+    devicesWithViewport: 'iPhone X, iPhone XS, iPhone 11 Pro',
     percentTraffic: 5.5,
-    percentTrafficPeriod: "October, 2020",
+    percentTrafficPeriod: 'October, 2020',
+    viewportPreset: 'va-top-mobile-3',
     width: 375,
     height: 812,
   },
   {
-    name: "iPhone 6 Plus, iPhone 6s Plus, iPhone 7 Plus, iPhone 8 Plus",
+    list: 'VA Top Mobile Viewports',
+    rank: 4,
+    devicesWithViewport:
+      'iPhone 6 Plus, iPhone 6s Plus, iPhone 7 Plus, iPhone 8 Plus',
     percentTraffic: 3.25,
-    percentTrafficPeriod: "October, 2020",
+    percentTrafficPeriod: 'October, 2020',
+    viewportPreset: 'va-top-mobile-4',
     width: 414,
     height: 736,
   },
   {
-    name: "iPhone 5, iPhone 5s, iPhone 5c, iPhone SE 1st gen",
+    list: 'VA Top Mobile Viewports',
+    rank: 5,
+    devicesWithViewport: 'iPhone 5, iPhone 5s, iPhone 5c, iPhone SE 1st gen',
     percentTraffic: 1.49,
-    percentTrafficPeriod: "October, 2020",
+    percentTrafficPeriod: 'October, 2020',
+    viewportPreset: 'va-top-mobile-5',
     width: 360,
     height: 640,
   },
 ];
 ```
 
-To test against each of the viewports in the array, simply iterate through the array using `.forEach()` in the callback of an `it` function call, like so:
+To test against each of the viewports in the array, simply iterate through it using `.forEach()` in the callback of an `it` function call, like so:
 
 ```javascript
-it.only("should render in mobile layouts and tabs actions work", () => {
-  Cypress.env().vaTop5MobileViewports.forEach((viewportData) => {
+it('should render in mobile layouts', () => {
+  Cypress.env().vaTopMobileViewports.forEach((viewportData) => {
     const {
-      name,
-      width,
-      height,
+      list,
+      rank,
+      devicesWithViewport,
       percentTraffic,
       percentTrafficPeriod,
+      viewportPreset
+      width,
+      height,
     } = viewportData;
 
-    cy.log(`Device Group: ${name}`);
+    cy.log(`Viewport list: ${list}`);
+    cy.log(`Viewport rank: ${rank}`);
+    cy.log(`Viewport width x height: ${width} x ${height}`);
+    cy.log(`Devices with viewport: ${devicesWithViewport}`);
     cy.log(
       `% traffic for the month of ${percentTrafficPeriod}: ${percentTraffic}%`
     );
 
-    cy.visit("/find-locations");
-    cy.injectAxe();
-    cy.viewport(width, height);
-    cy.checkSearch();
+    cy.visit('/page');
+    cy.viewportPreset(viewportPreset);
+    // Cypress test code follows...
   });
 });
 ```
 
-In addition to the Cypress environment variables already mentioned, there is also a variable called `allIPhoneViewports` which contains an array of viewport objects whose structure is identicle to the objects in the other arrays already mentioned, except they do not contain `percentTraffic` and `percentTrafficPeriod` properties.
+**Even though the `width` and `height` for each viewport is provided, we recommend that you no longer call `cy.viewport()` to set the viewport, and instead call [`cy.viewportPreset()`](#viewport-presets-cyviewportpresetpreset-orientation-options) by passing in `viewportPreset`. It is preferred that `cy.viewport()` not be used. `width` and `height` can be used for conditional logic during each iteration, or they can be logged for contextual purposes.**
 
 ## Cypress Testing Library Selectors
 

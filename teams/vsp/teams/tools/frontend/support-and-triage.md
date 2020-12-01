@@ -19,14 +19,14 @@ During the sprint, you should monitor the following Slack groups for issues:
 * [#vfs-frontend](https://dsva.slack.com/channels/vfs-frontend) (individual requests)
 
 - **For small issues in the platform**: Fix it yourself
-- **For longer platform related solutions**: If the fix requires more than a couple of hours of work, coordinate with the FE Tools Leads (Megan Kelley, Rian Fowler) to determine if we need to delegate or defer the work
+- **For longer platform related solutions**: If the fix requires more than a couple of hours of work, coordinate with the FE Tools Leads (Megan Kelley, Dan Shank) to determine if we need to delegate or defer the work
 - **For tasks in applications owned by another team**: Create a ticket and delegate it to someone on that team- preferably an engineering lead or a product manager
 
 _Your primary responsibility is to remain available to quickly acknowledge and triage issues in these channels. You can enlist help from the FE tools team if needed to maintain this availability._
 
 ### Monitor deployment
 
-See [this](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/tools/frontend/troubleshooting-build-failures-DX.md) document about monitoring and troubleshooting deployments
+See [this](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/tools/frontend/troubleshooting-build-failures.md) document about monitoring and troubleshooting deployments
 
 ### Support requests
 

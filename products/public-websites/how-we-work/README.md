@@ -4,7 +4,7 @@ While each team works differently due to its mission, make-up and team-member pr
 
 ### Our Portfolio Board
 
-https://github.com/department-of-veterans-affairs/va.gov-team/projects/15
+https://github.com/department-of-veterans-affairs/va.gov-team/projects/23
 
 ### Our GitHub Team Sites 
 
@@ -27,6 +27,8 @@ Live Google Sheets version: https://docs.google.com/spreadsheets/d/1izUIMwzl7NRv
   - The Success Metrics (OKRs, KPIs, Dashboard link)
   - How It Works (System Diagram, Technical Description, Tech Doc Links)
   - How It Is Maintained (e.g., Data feeds, Content updates, etc.)
+
+([Campaign Landing Page example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/state-of-product.md))
 
 - Quarterly Product Reviews
 

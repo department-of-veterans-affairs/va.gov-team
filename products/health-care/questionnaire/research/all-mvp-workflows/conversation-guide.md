@@ -13,9 +13,6 @@
 
 Thanks for joining us today! My name is Kristen and I also have some colleagues on the line observing and taking notes. Today we're going to review prototypes of a questionnaire that will help you and your doctor prepare for an upcoming appointment.
 
-
-**If mobile participant**
-
 - **Since this is a prototype, not everything will be clickable or fully functioning.**
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve our tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **This entire session should take about an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
@@ -76,7 +73,6 @@ Keep that pre-appointment experience in mind through the next series of scenario
 	- _Participant 6: 2 (b), 2 (a), then 1 (text)._
 	- _Participant 7: 2 (a), 2 (b), then 1 (email)._
 	- _Participant 8: 2 (a), 2 (b), then 1 (text)._
-	________________________________________________
 	- _Participant 9: 1 (email), 2 (a), then 2 (b)._
 	- _Participant 10: 1 (text), 2 (b), then 2 (a)._
 	- _Participant 11: 2 (b), 2 (a), then 1 (email)._
@@ -84,9 +80,7 @@ Keep that pre-appointment experience in mind through the next series of scenario
 	
 I'm going to send you a link in the chat.
 
-[Mobile Prototype with Email option]()<br/>
-[Mobile Prototype with Text option]()<br/>
-_Half of participants will go through the email example and half the text example._
+[Mobile Prototype-Link TBD]()<br/>
 
 ### Scenario 1
 Don’t click on anything yet. Just read the notification. 
@@ -116,24 +110,19 @@ On the confirmation page,
 - What are your impressions of this page?
 - Which of the buttons on the page would you most likely be interested in viewing next? 
 	- Would you prefer to navigate anywhere else instead?
+- When (if at all) would you view and print questions? When (if at all) would you print this PDF?
 
-_(Only ask this if participant hasn’t completed Scenario 2b yet)_ <br/> 
-Click on the “View and print questions” button, what are your impressions of this PDF?
-- @abuckley: Did you have particular questions about the demo banner that you wanted to ask?
-- When (if at all) would you view this PDF? When (if at all) would you print this PDF?
-- Would you want any additional information added to this PDF?
 
 ### Scenario 2
-Find questionnaires that your VA providers have requested you to complete about your health.
-_(Start them on the va.gov homepage…if they get stuck, then direct them to the menu. Stop the participant when they get to the Drupal/marketing page.)_
+Find questionnaires that your VA providers requested you complete about your health.
+_(Start them on va.gov main mobile menu. Stop the participant when they get to the Drupal/marketing page.)_
 - _Things to watch/listen for:_
-	- _Did the Veteran successfully complete the task. Success = getting to the screen with the "Your questionnaire has been sent to your provider." alert box._
+	- _Did the Veteran successfully complete the task. Success = getting to the screen with the title "Health questionnaires."_
+	- _Note where they think this feature should exist._
 	- _Pay attention to Veteran commentary on confusing or pleasing portions of the task._
 	- _Take note of anything the Veteran suggests to add._
 	- _Note where they think this feature should exist._
 	
-- How easy or hard was it to find your health questionnaires?
-
 - When on the marketing/Drupal page…
 	- What are your impressions of this page?
 	- What are your thoughts about the information provided?
@@ -142,9 +131,13 @@ _(Start them on the va.gov homepage…if they get stuck, then direct them to the
 
 #### Scenario 2a
 Have the participant click to the Questionnaire list (To do tab)
+- What are your impressions of this page?
 - Can you tell me what you think the difference is between the cards shown on the screen?
+- What are your thoughts about the information provided?
+- How valuable is the information on this page to you?
+- Is there any other information that we should include on this page?
 
-You (in the prototype, your name will be Hector Allen) were sent a questionnaire to complete for your upcoming appointment with your primary care provider on January 4, 2021. You started to fill it out, but you didn’t complete it. Find the questionnaire and finish filling it out.		
+You (in the prototype, your name will be Hector Allen) were sent a questionnaire to complete for your upcoming appointment with your primary care provider on January 6, 2021. You started to fill it out, but you didn’t complete it. Find the questionnaire and finish filling it out.		
 - _Things to watch/listen for:_
 	- _Did the Veteran successfully complete the task. Success = getting to the screen with the "Your questionnaire has been sent to your provider." alert box._
 	- _Pay attention to Veteran commentary on confusing or pleasing portions of the task._
@@ -156,10 +149,20 @@ You (in the prototype, your name will be Hector Allen) were sent a questionnaire
 _(Only ask this group of questions if participant hasn’t completed Scenario 1 yet)_<br/> 
 On the confirmation page, 
 - What are your impressions of this page?
-- Which of the buttons on the page would you most likely be interested in viewing next? Would you prefer to navigate anywhere else instead?
+- Which of the buttons on the page would you most likely be interested in viewing next? 
+	- Would you prefer to navigate anywhere else instead?
+- When (if at all) would you view and print questions? When (if at all) would you print this PDF?
 
 #### Scenario 2b
-Your provider just sent you a pre-visit questionnaire. Before you fill it out, you want to review your responses to your last questionnaire. Find your last questionnaire and review your responses.
+Your primary care provider just sent you a pre-visit questionnaire. Before you fill it out, you want to review your responses to your last primary care questionnaire. Find your last questionnaire and review your responses.
+
+Stop the participant on the Questionnaire list (Completed tab)
+- What are your impressions of this page?
+- Can you tell me what you think the difference is between the cards shown on the screen?
+- What are your thoughts about the information provided?
+- How valuable is the information on this page to you?
+- Is there any other information that we should include on this page?
+
 - _Things to watch/listen for:_
 	- _Did the Veteran successfully complete the task. Success = click on the “View and print questions.”_
 	- _Pay attention to Veteran commentary on confusing or pleasing portions of the task._
@@ -167,13 +170,11 @@ Your provider just sent you a pre-visit questionnaire. Before you fill it out, y
 
 - How easy or hard was it to find the completed questionnaire?
 
-_(Only ask this if the participant hasn’t completed Scenario 1 yet)_<br/>
 Click on the “View and print questions” button, what are your impressions of this PDF?
 - @abuckley: Did you have particular questions about the demo banner that you wanted to ask?
 - When (if at all) would you view this PDF? When (if at all) would you print this PDF?
 - Would you want any additional information added to this PDF?
 
-_(Ask to all participants.)_<br/>
 - _Have the participant go back to the Questionnaire list (completed tab)_ Can you tell me what you think the difference is between the cards shown on the screen?
 - Would you want to see questionnaire responses over time?
 	- When?

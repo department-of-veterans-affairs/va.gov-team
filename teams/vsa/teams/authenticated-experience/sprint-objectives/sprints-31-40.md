@@ -293,11 +293,11 @@ Both designers
 
 - Take an afternoon/a day to agree on what major conclusions came out of research
 
-One designer:
+Designer #1:
 
 - Research summary (should take no more than a week)
 
-The other designer (designer #1 can help with this once the write-up is done):
+Designer #2 (designer #1 can help with this once the write-up is done):
 
 - Incorportate user feedback into designs
 - Clean up wireframes so they are ready for desktop conversion:
@@ -305,7 +305,6 @@ The other designer (designer #1 can help with this once the write-up is done):
   - "Overview" blocks need a title and proper CTA (confirm with accessibility on what we need on screen vs. what we can use an aria-label)
   - Page title (H1)
   - Blank states 
-  - FTUX discussion
 - If time, start desktop conversion
 
 ### Direct deposit for edu
@@ -316,14 +315,17 @@ The other designer (designer #1 can help with this once the write-up is done):
 
 **Design**
 
-- Finish research
+- Conduct research
 - Research summary
 - Final design updates
 
 **FE** 
 
 - Direct deposit for edu build #16479
-  - If this was broken down into smaller tickets, let's figure out what is doable this sprint. 
+  - If this was broken down into smaller tickets, let's figure out what is doable this sprint.
+  - [FE] Rename existing direct deposit/payment info code to something more specific to comp and pen when applicable #16684
+  - [FE] Build redux actions/reducers for getting edu DD info #16685 
+  - [FE] Determine if we can even tell if someone is eligible who has not yet set up DD for edu benefits #16686
 
 ### Preferred medical facility
 
@@ -331,13 +333,9 @@ The other designer (designer #1 can help with this once the write-up is done):
 
 - Continue backend build #16107 (if necessary)
 
-### VA Profile notification preferences
+### Analytics
 
-**PM**
-
-- Create product outline
-
-**Dev**
+- Direct Deposit Eligibility/Status Analytics Data Layer Changes #16603
 
 ## Sprint 37 (12/16 – 12/29)
 
@@ -354,11 +352,7 @@ The other designer (designer #1 can help with this once the write-up is done):
 
 **PM**
 
-- Hold platform kickoff (maybe)
-
-**BE**
-
-- Technical discovery
+- Create product outline
 
 ## Sprint 38 (12/30 – 1/12)
 
@@ -377,6 +371,16 @@ The other designer (designer #1 can help with this once the write-up is done):
 **FE**
 
 - Start FE build
+
+### VA Profile notification preferences
+
+**PM**
+
+- Hold platform kickoff (maybe)
+
+**BE**
+
+- Technical discovery
 
 ## Sprint 39 (1/13 – 1/26)
 

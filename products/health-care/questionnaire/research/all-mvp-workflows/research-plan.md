@@ -24,13 +24,13 @@ We will conduct remote moderated usability testing via Zoom using the Perigean c
 Recruit for 8 (feedback on if I need 12 participants due to variables in study?) fulfilled sessions using the following criteria:
 
 **Must have for participants**
-- Have you visted a primary care provider at the VA in the last 6 months? (pass = yes)
+- Have you visted a primary care provider at the VA in the last year? (pass = yes)
 	- If confused by the term "primary care provider," explain that a primary care provider is your main doctor, nurse practitioner, or physician’s assistant.
 - At least one person with an identified cognitive consideration of PTSD or TBI
 
 **Good to have for participants**
-- At least one iOS mobile device owner
-- At least one Android mobile device owner
+- Half iOS mobile device owners
+- Half Android mobile device owners
 - At least 1 woman
 - At least 1 person of color
 - At least 1 participant 35 or under and 1 participant over 55

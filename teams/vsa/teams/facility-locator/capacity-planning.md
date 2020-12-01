@@ -1,6 +1,9 @@
 # Capacity Planning
 
 ## Table of Contents
+
+[December 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/capacity-planning.md#december-2020)
+
 [November 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/capacity-planning.md#november-2020)
 
 [September 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/capacity-planning.md#september-2020)
@@ -25,6 +28,9 @@
 ## December 2020
 ### Holidays
 ### Additional out of office
+
+## December 2020
+    -  Gibran: December 21-25 (Christmas week) - still tentatively
 
 ## November 2020
     -  Gibran: November 23-27 (Thanksgiving week)
