@@ -17,20 +17,20 @@
 - Documented where the code is referenced as well as added to the documentation within the error buckets section
 - Blew away the timeline, best thing that could have occurred as everyone was very engaged in the conversation
 ## Walked away with 4 attack plans, one for each bucket
-- MVI/MPI errors
+- **MVI/MPI errors**
     - Note: The errors and methods are being renamed from MVI to MPI. When determining numbers of errors ensure you are searching for both message:"MPI::Errors" and message:"MVI::Errors"
     - [Failed to fetch error](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15883)
-        - message:"MVI::Errors" has accounted for roughly 3k errors over the month of November. 22 of these errors were classified at the level of "warning", the remaining are classified as "Error".
-        - message:"MPI::Errors" is the new label for what used to be called MVI errors. The naming change for most methods which impact this sentry error were flipped around Nov 18th. We have seen a total of 36 errors since the name change to MPI.
-    - The other label for this set of errors has [Argument Error](http://sentry.vfs.va.gov/organizations/vsp/issues/?environment=production&project=3&query=is%3Aunresolved+assigned%3A%23vsp-identity+message%3A%22ArgumentError%22&statsPeriod=30d) in the title. An engineer made a change to how the error was calling out what the issue was during the week of Nov 23rd. Since then we have seen only 5 of these types of events alert. They do however allude to some internal system making an invalid request to MPI (controlled by IAM).
-- keepalive errors
+        - message:"MVI::Errors" has accounted for roughly `3k errors` over the month of November. `22` of these errors were classified at the level of "warning", the remaining are classified as "Error".
+        - message:"MPI::Errors" is the new label for what used to be called MVI errors. The naming change for most methods which impact this sentry error were flipped around Nov 18th. We have seen a total of `36 errors` since the name change to MPI.
+    - The other label for this set of errors has [Argument Error](http://sentry.vfs.va.gov/organizations/vsp/issues/?environment=production&project=3&query=is%3Aunresolved+assigned%3A%23vsp-identity+message%3A%22ArgumentError%22&statsPeriod=30d) in the title. An engineer made a change to how the error was calling out what the issue was during the week of Nov 23rd. Since then we have seen only `5` of these types of events alert. They do however allude to some internal system making an invalid request to MPI (controlled by IAM).
+- **Keepalive errors**
     - [SSOe Errors](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16388)
-        - The SSOe error accounts for over a million errors during the month of November. This is a very noisy error that often hides much more serious concerns. 
-        - As part of this [PR](https://github.com/department-of-veterans-affairs/vets-website/pull/15013) we will reduce the noise by reclassifying the error level of about 148K errors. They will be classified as informational instead of error.
+        - The SSOe error accounts for `over a million errors` during the month of November. This is a very noisy error that often hides much more serious concerns. 
+        - As part of this [PR](https://github.com/department-of-veterans-affairs/vets-website/pull/15013) we will reduce the noise by reclassifying the error level of about `148K errors`. They will be classified as informational instead of error.
         - Other PRs will be started to further clean up these errors to reduce the noise and allow the team to target real issues.
-- non-errors
+- **Non-errors**
     - These are items that paint the picture of what may have occurred as a result of another error. These should not be alerting and classified as "info".
-- to be resolved
+- **To be resolved**
     - These errors do not have a bucket and should be investigated with reasonable priority to ensure we determine what is occuring.
 
 ## To do:
