@@ -32,6 +32,8 @@ Live Google Sheets version: https://docs.google.com/spreadsheets/d/1izUIMwzl7NRv
 
 - Quarterly Product Reviews
 
+- Product Success Metrics - Analytics requests: https://dsva.slack.com/archives/C1Q4294JJ/p1606856445131000?thread_ts=1606856429.130900&cid=C1Q4294JJ
+
 ### Roadmap Process
 
 - [2021 Mural Roadmap WIP](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1606233302345/7ce4ecc84a8d04a12dd3de0ef33600ea86611aad)
