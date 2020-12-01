@@ -128,7 +128,7 @@ __VA Online Scheduling__
 
 ## Appendix
 
-#### [Reaearch plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/community-care/discovery/research-plan.md)
+#### [Reearch plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/community-care/discovery/research-plan.md)
 
 #### [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/community-care/discovery/conversation-guide.md)
 
