@@ -1,4 +1,4 @@
-# View My Documents (eFolder)
+# View My Documents
 
 ## WIP
 
