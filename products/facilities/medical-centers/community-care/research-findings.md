@@ -44,8 +44,10 @@ Remote, moderated sessions were conducted via Teams for generative questioning.
 
 __We can understand how to simplify the search experience in Facility Locator.__
 
-Finding: __True__
-* Sub-specialties: Most Community Care Managers do not think that sub-specialties are something most Veterans understand. They might know a term such as podiatry or cardiology, but the sub-categories are often beyond laymen's terms. Type-ahead can also be problematic due to unfamiliarity with search terms. Urgent Care is often selected in the Facility Type, rather than in Service Type under Community Care. As a separate issue (but which impacts the quality of Facility Locator search results), there are gaps in provider data in PPMS. Facility Locator depends on PPMS for Community Care search results. See VAOS findings below for further details. 
+Finding: __Partially True__
+* Sub-specialties: Most Community Care Managers do not think that sub-specialties are something most Veterans understand. They might know a term such as podiatry or cardiology, but the sub-categories are often beyond laymen's terms. 
+* Type-ahead can also be problematic due to unfamiliarity with search terms. 
+* As a separate issue (but which impacts the quality of Facility Locator search results), there are gaps in provider data in PPMS. Facility Locator depends on PPMS for Community Care search results. See VAOS findings below for further details. 
 
 __We can understand how to simplify the search experience in VAOS.__
 
@@ -60,7 +62,7 @@ Finding: __True__
 4. According to another CCM, the use of the Service Type text field by the Veteran is problematic due to spelling typos and unfamiliarity with sub-specialty terms
 5. 6 out of 7 CCMs stated that they use Google to supplement their search for providers. 
 6. 5 out of 7 CCMs stated that they call providers to supplement their search. 
-7. 2 CCMs use a self-created spreadsheet of providers with all of the complete and correct provider information.
+7. 2 out of 7 CCMs use a self-created spreadsheet of providers with all of the complete and correct provider information.
 
 ### Details of Findings
 
@@ -88,15 +90,22 @@ Detail
 
 ## Additional Insights
 
-1. CCMs like the PPMS update that shows phone, fax, and local address. While PPMS displays provider names, CCMs prefer to have the names of the clinics as well. They find by using Google. 
+1. All Community Care Managers interviewed call the Veteran at some point in the scheduling process, and many do so once they receive the scheduling request. Veterans are hard to get ahold of. “Biggest challenge is getting ahold of these guys and getting them scheduled.”
 
-2. CCMs would also like to know if providers are accepting new patients.
+2. CCMs like the PPMS update that shows phone, fax, and local address. While PPMS displays provider names, CCMs prefer to have the names of the clinics as well. They find by using Google. 
 
-3. CCMs mentioned the pain of documenting and updating an appointment in multiple systems.
+3. CCMs would also like to know if providers are accepting new patients.
 
-4. Search terms: It is difficult for CCMs to figure out the search terms. CCMs rely on past success/talking to each other/word of mouth.
+4. One CCM had a list of 12 data issues for the provider network to correct. It usually takes two weeks for the provider network to make the corrections.
 
-5. Relationships with vendors are key to efficiency for CCMs. They follow a certain process that their vendors understand. This can also limit number of vendors available, however.
+5. CCMs mentioned the pain of documenting and updating an appointment in multiple systems.
+
+6. Several CCMs stated that there is confusion from Veterans on which urgent care to use. Facilities may not know how to bill for VA care properly. Half the time this means the veteran ends up paying out of pocket. Marking them as “preferred providers” would be helpful. 
+
+7. Search terms: It is difficult for CCMs to figure out the search terms. CCMs rely on past success/talking to each other/word of mouth.
+
+8. Relationships with vendors are key to efficiency for CCMs. They follow a certain process that their vendors understand. This can also limit number of vendors available, however.
+
 
 ## Recommendations
 
