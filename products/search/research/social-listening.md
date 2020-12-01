@@ -49,6 +49,7 @@ October 2020
 November 2020
 
 “I’ve been trying to find in eBenefits and the VA website my explanation of benefits. One that describes my disability decisions. Best I can find is a list of my disabilities, but no real documentation.” 
+
 -“You have to request that. You can do that by calling 1-800-827-1000. The good thing is they will email it to you now…”
 
 June 2020
@@ -57,6 +58,7 @@ June 2020
 “Every time I tried to come up with a search phrase to find the answer it kept leading back to SSDI and SSI.”
 
 January 2020
+
 “I’m wondering if anyone knows how to go about trying to get a therapy dog. I have been going to my therapist and they suggested I get one, but I have been looking online but can’t find a straight answer on how I would go about trying to get one. Any information would be helpful.”
 
 October 2020
