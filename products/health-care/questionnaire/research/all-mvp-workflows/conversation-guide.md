@@ -65,7 +65,7 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 
 Great. Now we're really ready to begin!
 
-## Warm-up Questions - 4 minutes
+## Warm-up Questions - 3 minutes
 Think about your last primary care provider visit at the VA. 	
 - Did your appointment experience differ at all from past experiences due to COVID? If so, how?	
 - What was the experience prior to the appointment like? For example, did you have to fill out any forms before the appointment? Did the nurse ask you a lot of questions?
@@ -82,7 +82,7 @@ Show three mobile participants the scenarios in the following order: 2, then 1 (
 Show three desktop participants the scenarios in the following order: 1 (email), then 2.
 Show three desktop participants the scenarios in the following order: 2, then 1 (email).
 
-### Scenario 1
+### Scenario 1 - 15 minutes
 Don’t click on anything yet. Just read the notification. 
 - What are your impressions of this notification?
 - Why do you believe that you would have been sent this notification?
@@ -120,7 +120,7 @@ Remember when we talked about saving your in-progress questionnaire answers. Pre
 - I would log in and expect to see a link on my dashboard to the questionnaires that I need to complete.
 - I would use the main menu on va.gov to navigate to a health questionnaire section. _(If the participant selects this, make them pick their second option.)_
 
-### Scenario 2
+### Scenario 2 - 15 minutes
 Now, you found the main health questionnaires section on va.gov...(ask while displaying the marketing/Drupal page)
 - What are your impressions of this page?
 - What are your thoughts about the information provided?
