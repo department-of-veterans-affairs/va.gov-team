@@ -18,8 +18,8 @@ Prior to the study, we hypothesized that by understanding how Community Care sch
 Remote, moderated sessions were conducted via Teams for generative questioning.
 
 ### Who we talked to
-8 Participants:
-* 7 Community Care Managers (schedulers)
+7 Participants:
+* 6 Community Care Managers (schedulers)
 * 1 Supervisor who manages schedulers
 
 ### Research Questions
@@ -56,17 +56,17 @@ Finding: __True__
 
 ### Key Findings
 
-1. 5 out of 7 Community Care managers, sub-specialties are not something most Veterans understand.
-2. 1 out of 7 CCM stated that they prefer to help them find the sub-specialty ("We'll do that.").
-3. According to another CCM, the use of the Service Type text field by the Veteran is problematic due to spelling typos.
-4. 6 out of 7 CCMs stated that they use Google to find complete and updated information about providers. 
-5. 5 out of 7 CCMs stated that they call providers to validate information found on PPMS and seek information that is missing. 
-6. 2 out of 7 CCMs use a self-created spreadsheet of providers with validated provider information.
-7. 1 out of 7 CCMs would like Veterans to have a list of in-network providers who are currently available.
+1. 5 out of 7 participants, sub-specialties are not something most Veterans understand.
+2. 1 out of 7 participants stated that they prefer to help them find the sub-specialty ("We'll do that.").
+3. According to one CCM, the use of the Service Type text field by the Veteran is problematic due to spelling typos.
+4. 6 out of 7 participants stated that they use Google to find complete and updated information about providers. 
+5. 5 out of 7 participants stated that they call providers to validate information found on PPMS and seek information that is missing. 
+6. 2 out of 7 participants use a self-created spreadsheet of providers with validated provider information.
+7. 1 out of 7 participants would like Veterans to have a list of in-network providers who are currently available.
 
 ### Details of Findings
 
-#### 1. 5 out of 7 Community Care managers stated sub-specialties are not something most Veterans understand.
+#### 1. 5 out of 7 participants stated sub-specialties are not something most Veterans understand.
 Several CCMs called out the medical-specific nuances of sub-specialty terms that Veterans must choose:
 > The average Veteran isn’t going to know the difference between a sports podiatrist and foot/ankle podiatrist. If you’re trying to put the subspecs in for the Veterans, most won’t know the difference.
 
@@ -82,7 +82,7 @@ Another CCM, when asked if Veterans understand sub-specialties:
 If a Veteran happens to know sub-specialty terms, using the type-ahead field under Service Type can lead to misspellings, which also negatively impact search results: 
 > I can tell you this will cause problems. Mistyping Chiro is an example.
 
-#### 4. 6 out of 7 CCMs stated that they use Google to find complete and updated information about providers.
+#### 4. 6 out of 7 participants stated that they use Google to find complete and updated information about providers.
 Several mentioned gaps in provider data, such as an outdated phone number or address:
 > Sometimes the provider has moved or is no longer affiliated. Sometimes the change happened 3-4 yrs ago but is still in the system. I have to Google to find the info I need.
 
@@ -92,8 +92,8 @@ One stated that their new partner finds providers listed under "multi-specialty"
 One CCM mentioned the need to use Google to find names of clinics:
 > Most patients know the practice name, not the provider name. We only get the provider name so we use Google for the clinic name.
 
-#### 5. 5 out of 7 CCMs stated that they call providers to validate information found on PPMS, and seek information that is missing.
-One CCM calls to verify that the provider is accepting VA referrals
+#### 5. 5 out of 7 participants stated that they call providers to validate information found on PPMS, and seek information that is missing.
+One CCM calls to verify that the provider is accepting VA referrals.
 
 Another CCM stated the importance of knowing whether a provider is accepting new patients: 
 > It's important to know if they are accepting new patients. This doesn’t reflect that. You really have to call every provider, which is very time consuming.
@@ -104,31 +104,31 @@ One CCM mentioned the need for fax numbers:
 One CCM stated that the provider portal is not updated, and so they call to verify information:
 > The only problem is that it’s not updated. We have to make sure we don’t send them to the wrong clinic based on the provider information. I call the clinic to make sure they’re accepting VA patients, and verify contact information.
 
-#### 6. 2 CCMs use a self-created spreadsheet of providers with all of the complete and correct provider information.
+#### 6. 2 participants use a self-created spreadsheet of providers with all of the complete and correct provider information.
 The CCMs use a spreadsheet to keep up-to-date information on providers:
 > I update the spreadsheet with new providers and those which are accepting new patients.
 
 > We use our own spreadsheet to track street numbers and addresses.
 
-#### 7. 1 CCM would like Veterans to have a list of in-network providers who are currently available.
+#### 7. 1 participants would like Veterans to have a list of in-network providers who are currently available.
 > Nothing is more frustrating to the Veteran than requesting a provider only to be told that provider isn’t in the network. I get yelled at.
 
 
 ## Additional Insights
 
-1. All Community Care Managers interviewed call the Veteran at some point in the scheduling process, and many do so once they receive the scheduling request. Veterans are hard to get ahold of. “Biggest challenge is getting ahold of these guys and getting them scheduled.”
+1. All participants interviewed call the Veteran at some point in the scheduling process, and many do so once they receive the scheduling request. Veterans are hard to get ahold of. “Biggest challenge is getting ahold of these guys and getting them scheduled.”
 
-2. CCMs like the PPMS update that shows phone, fax, and local address. While PPMS displays provider names, CCMs prefer to have the names of the clinics as well. They find by using Google. 
+2. Participants like the PPMS update that shows phone, fax, and local address. While PPMS displays provider names, CCMs prefer to have the names of the clinics as well. They find by using Google. 
 
-3. CCMs would also like to know if providers are accepting new patients.
+3. Participants would also like to know if providers are accepting new patients.
 
-4. 2 CCM stated that Veterans sometimes want a provider of a specific gender or retired military status. It would be good to have this information.
+4. 2 participants stated that Veterans sometimes want a provider of a specific gender or retired military status. It would be good to have this information.
 
-5. One CCM had a list of 12 data issues for the provider network to correct. It usually takes two weeks for the provider network to make the corrections.
+5. One participant had a list of 12 data issues for the provider network to correct. It usually takes two weeks for the provider network to make the corrections.
 
-6. CCMs mentioned the pain of documenting and updating an appointment in multiple systems.
+6. Participants mentioned the pain of documenting and updating an appointment in multiple systems.
 
-7. Several CCMs stated that there is confusion from Veterans on which urgent care to use. Facilities may not know how to bill for VA care properly. Half the time this means the veteran ends up paying out of pocket. Marking them as “preferred providers” would be helpful. 
+7. Several participants stated that there is confusion from Veterans on which urgent care to use. Facilities may not know how to bill for VA care properly. Half the time this means the veteran ends up paying out of pocket. Marking them as “preferred providers” would be helpful. 
 
 8. Search terms: It is difficult for CCMs to figure out the search terms. CCMs rely on past success/talking to each other/word of mouth.
 
