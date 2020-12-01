@@ -44,14 +44,14 @@ Remote, moderated sessions were conducted via Teams for generative questioning.
 
 We can understand how to simplify the search experience in Facility Locator.
 
-Finding: True. 
+Finding: ##True## 
 * Sub-specialties: Based on feedback from 5 out of 7 Community Care managers, sub-specialties are not something most Veterans understand. 1 CCM stated that they prefer to help them find the sub-specialty ("We'll do that."). According to another CCM, the use of the Service Type text field is problematic due to spelling typos and unfamiliarity with sub-specialty terms. 
 * Urgent Care: 4 out of 7 CCMs stated that Veterans often select Urgent Care in Facility Type, rather than selecting Community Care, then Urgent Care under Service Type. 
 * Provider Data Quality: However, based on feedback from CCMs, (see Finding - VAOS below) there are gaps in provider data in PPMS. This impacts the quality of data found in Facility Locator, which depends on PPMS for Community Care search results. 
 
 We can understand how to simplify the search experience in VAOS.
 
-Finding: [b]True
+Finding: True
 * Based on feedback from Community Care managers, there are provider data gaps in PPMS, which requires CCMs to use other tools to find the correct Community Care providers. 6 out of 7 CCMs stated that they use Google to supplement their search for providers, while 5 out of 7 CCMs stated that they call providers to supplement their search. Additionally, 2 CCMs use a self-created spreadsheet of providers with all of the complete and correct provider information.
 
 ### Key Findings
