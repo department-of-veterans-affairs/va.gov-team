@@ -49,7 +49,7 @@ Recruit for 12 fulfilled sessions (6 for the desktop version and 6 for the mobil
 *This study requires participants to screenshare, in order to click through a prototype. It will not be able to accommodate non-sighted users due to the prototype technology.*
 
 ## Timeline 	
-#### Desired Timeline: Month ?-?, 2020 
+#### Desired Timeline: Dec 15-18, 2020 
 One hour sessions<br/>
 
 Team Availability | Time (EST)
