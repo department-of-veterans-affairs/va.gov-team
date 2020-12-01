@@ -1,7 +1,5 @@
 # Research Plan for VA.gov Search Improvements
 
----- DRAFT ----
-
 ## Goals
 
 1. What product & team are you doing this research for?
@@ -65,20 +63,31 @@
 
 ## Method
 
-1. What method of research are you planning?
+1. What method of research are you planning and why?
 
-   Remote, moderated user interviews using staging.VA.gov
+   - User interviews, so that we can further clarify what users need and expect from search
+      - Ask participants about a time they used either off-site or on-site search to locate a VA-related item
+      - Ask participants to show us how they would locate an item using on-site search 
 
-2. Why this method? How does this methodology help you answer your research questions? 
+2. Where are you planning to do your research?
 
-3. Where are you planning to do your research?
+   Remote moderated sessions via Zoom
 
-   Sessions will be held on Zoom
+3. What will you be testing?
 
-4. What will you be testing?
+   staging.VA.gov on-site search
 
-   staging.VA.gov
-
-5. If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)
+4. If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)
 
    Zoom
+   
+## Participants and Recruiting
+Targeting 5 users including a mix of Veterans, non-Veteran visitors.  Strong preference for anyone who has used VA.gov search in the last month.
+- Must be a veteran or caregiver of a veteran
+- Mix of desktop and mobile users
+- At least 1 woman
+- At least 1 person of color
+- At least 1 participant 35 or under and 1 participant over 55
+- At least one person with cognitive disabilities
+- Be able to screenshare via Zoom. Please confirm with them that they have Zoom downloaded prior to the session and they know how to screenshare. If they can not get Zoom working, there is no interview portion of this research and they will not be able to participate.
+
