@@ -8,16 +8,14 @@ This document covers rules for engaging the VSP team in [pull request reviews](h
 
 We expect developers to be familiar with GitHub and the pull request review process, but want to be clear about our norms to reduce confusion and help code flow through the process as quickly and reliably as possible.
 
-## Code owners
-
-Information on how VSP uses code owners can be found [here](code-owners.md).
-
 ## The pull request review lifecycle in brief
 
 1. For initial review by your project team, create a [Draft Pull Request](https://github.blog/2019-02-14-introducing-draft-pull-requests/)
-2. If your PR triggers any [additional automated checks](./manual-review-triggers.md), a bot will leave a comment and request a manual review from the **frontend-review-group**
-    - the frontend-review-group completes reviews within one business day
-3. When all review comments have been resolved, the PR can be merged into the master branch for deployment.
+2. Automated checks will run against your code. These should be responded to and may block your code from being merged.
+3. A VSP engineer will review your code when it is marked "ready for review."  These will typically be completed in one business day.
+  - This step is unnecessary for code-owners. (Information on how VSP uses code owners can be found [here](codeowners.md).)
+  - For frontend PRs, the [additional automated checks](./manual-review-triggers.md) can trigger a review from the **frontend-review-group** regardless of the use of code-owners.
+4.  When all review comments have been resolved, the PR can be merged into the master branch for deployment.
 
 *Hint*: Smaller, focused pull requests will make this easier for everyone!
 
@@ -54,7 +52,7 @@ When your code is reviewed, here are some of the things we're looking for:
 
 Q. I created a pull request and I meant to create a draft pull request instead. How do I change it to a draft pull request in GitHub?
 
-A.  Unfortunately, you can't change it. But as an alternative, please add "WIP" to the beginning of the title of your PR and we'll know what it means.
+A.  Underneath the list of reviewers, there's text that says "Still in progress? Convert to draft" and the `Convert to draft` text is a link to change the PR to a draft.
 
 Q. I need a review *right now*! How do I get one?
 

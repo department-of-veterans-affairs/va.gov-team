@@ -22,8 +22,8 @@
 
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
-Research static page | www.va.gov/coronavirus-research/ | Home > Participating in coronavirus research at VA | 
-Sign up page | www.va.gov/coronavirus-research/volunteer/ | Home > Participating in coronavirus research at VA > Sign up to volunteer | This page should not be listed in the XML site map and should also be set to 'noindex'.  
+Research static page | www.va.gov/coronavirus-research/ | ~Home > Participating in coronavirus research at VA~ <br> Home > Volunteer for coronavirus research at VA| Breadcrumb updated 9/28 per issue #13900
+Sign up page | www.va.gov/coronavirus-research/volunteer/ | ~Home > Participating in coronavirus research at VA > Sign up to volunteer~ <br> Home > Volunteer for coronavirus research at VA > Sign up to volunteer | This page should not be listed in the XML site map and should also be set to 'noindex'.  <br> Breadcrumb updated 9/28 per issue #13900
 
 
 <hr>

@@ -8,7 +8,7 @@ Breadcrumb: [Home]() > [Education]() > Apply for VET TEC
 
 ### Chapter Title: { none }
 
-Equal to VA Form 22-0994 Application for Veteran Employment Through Technology Education Courses (VET TEC)
+Equal to VA Form 22-0994 Application for Veteran Employment Through Technology Education Courses (VET TEC).
 
 { if logged in }
 
@@ -64,40 +64,27 @@ If your application wasn’t approved, you’ll get a denial letter in the mail.
 #### [ Start the VET TEC Application ] { Button } 
 
 
-Respondent burden: **## minutes**
-OMB Control #: **####-####**
-Expiration date: **##/##/####**
+Respondent burden: **10 minutes**
+OMB Control #: **2900-0866**
+Expiration date: **04/30/2022**
 [Privacy Act Statement](https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction)
-
-
-**Need help?** 
-For help filling out this form ask the Education Contact Center: [1-888-442-4551]() ([1-888-GIBILL1]()). Monday-Friday, 8:00am - 7:00pm (ET). 
-
-[Submit a question to Education Service]()
-
-If this form isn't working right for you, please call us at [1-855-574-7286](). If you have hearing loss, call TTY: 711.
  
 ________________________________________
 
 #### 0994 Screen No. { to come } 
 
-#### Chapter Title: 1 of 7 Applicant Information  
+#### Chapter Title: Step 1 of 7: Applicant information
 
 
 This is the personal information we have on file for you.
 
-   **FName LName** { prefill, First name, Middle name, Last name, Suffix }    
-
-   Date of birth: { prefilled }
-
-   Social Security number: { prefilled, partially masked except for last 4 }
-
-   Gender: { prefilled }
-
-
-**Note:** If you need to update your personal information, please call Veterans Benefits Assistance at [1-800-827-1000](), Monday through Friday, 8:00 a.m. to 9:00 p.m. (ET). You can also update your information on your profile page. 
-
-[Go to your profile page]().
+* Your first name (*Required) { text field, prefill if present }
+* Your middle name { text field, prefill if present }
+* Your last name (*Required) { text field, prefill if present }
+* Suffix { dropdown, prefill if present }
+* Social Security number (*Required) { text field, prefill if present }
+* Your date of birth: { prefill if present } (*Required)
+* Gender: { prefilled }
 
 
 [ Back | Continue ] { buttons } [Finish this application later.]()
@@ -107,7 +94,7 @@ ________________________________________
 
 #### 0994 Screen No. { to come } 
 
-#### Chapter Title 1 of 7: Applicant Information
+#### Chapter Title: Step 1 of 7: Applicant information
 
 
 Have you applied for VA education benefits in the past? (* Required) { radio }
@@ -126,7 +113,7 @@ ________________________________________
 
 #### 0994 Screen No. { to come } 
 
-#### Chapter Title: 2 of 7 Military Service
+#### Chapter Title: Step 2 of 7: Military service
 
 
 Are you on full-time duty in the Armed Forces? (This doesn't include active-duty training for Reserve and National Guard members.) (*Required) { radio buttons, conditional content }
@@ -148,7 +135,7 @@ ________________________________________
 
 #### 0994 Screen No. { to come } 
 
-#### Chapter Title: 3 of 7 Education History 
+#### Chapter Title: Step 3 of 7: Education history
 
 What’s the highest level of education you’ve completed? { Dropdown }  
 
@@ -172,7 +159,7 @@ ________________________________________
 
 #### 0994 Screen No. { to come } 
 
-#### Chapter Title: 4 of 7 Work Experience
+#### Chapter Title: Step 4 of 7: Work experience
 
 VET TEC focuses on 5 areas of high-tech training:  
 *	Information science
@@ -218,9 +205,7 @@ ________________________________________
 
 #### 0994 Screen No. { to come } 
 
-#### Chapter Title: 5 of 7 Program Selection
-
-#### Page Title: Potential programs
+#### Chapter Title: Step 5 of 7: Program selection
 
 Have you picked a program you’d like to attend using VET TEC? { radio buttons }
  * Yes
@@ -238,32 +223,34 @@ ________________________________________
 
 #### 0994 Screen No. { to come } 
 
-#### Chapter Title: 5 of 7 Program Selection  
-
-#### Page Title: Program details
+#### CChapter Title: Step 5 of 7: Program selection
  
 Now we’ll gather information about the training program you’re interested in attending. 
 
 You can enter up to 3 programs. 
 
-What’s the name of the program’s provider? (* Required) { radio, required only if “Yes” on previous page } { text field }
+What’s the name of the program’s provider? { text field }
 
-What’s the name of the program? (* Required) { radio, required only if “Yes” on previous page } { text field }
+What’s the name of the program? { text field }
 
-Is it an in-person or online program? (* Required) { radio, required only if “Yes” on previous page }
- * In person
- * Online
- * Both online and in person
+Is it an in-person or online program? { radio, conditional (*Required) only if “What’s the name of the program?” has an entry}
+* In person
+* Online
+* Both online and in person
 
 { if In person or Both }
 
-Where will you take this training? (* Required) {if “In-person” or “Both”}
-* City { text field }
-* State { dropdown }
+Where will you take this training? (* Required) 
+
+* City { text field } (* Required)
+
+* State { dropdown } (* Required)
 
 { end if }
 
-What's your estimated start date? (*Required) {Required only if “Yes” on previous page } { Month, Day, Year }
+What's your estimated start date? (*Required) { Month, Day, Year }
+
+ 
 
 [ Add Another Program ] { button – up to 3 options, Edit | Remove capability, Disable button after 3 programs are entered }
 
@@ -275,7 +262,7 @@ ________________________________________
 
 #### 0994 Screen No. { to come } 
 
-#### Chapter Title: 6 of 7 Personal Information  
+#### Chapter Title: Step 6 of 7: Personal information
 
 #### Page Title: Contact information
 
@@ -285,14 +272,17 @@ This is the contact information we have on file for you. We’ll send any import
 * Phone number (* Required) { text field, prefilled if present. } 
 * Alternate phone number { text field, prefilled if present }
 * Email address (* Required) { text field, prefilled if present. }  
+
 [ Edit | Done ] { buttons }
+
+[ Save | Cancel ] {Save button, Cancel link if no data is present}
 
 **Mailing address**
 { Address, prefilled if present } 
 * Country (* Required) { dropdown, prefilled if present. }
 * Street address (* Required) { text field, prefilled if present. }
-* Street address (line 2) { text field, prefilled if present. }
-* Street address (line 3) { text field, prefilled if present. }
+* Line 2 { text field, prefilled if present. }
+* Line 3 { text field, prefilled if present. }
 * City (* Required) { text field, prefilled if present. } 
 * State (* Required) { if USA, dropdown, prefilled if present }
 * Postal code (* Required) { if USA, text field, prefilled if present }
@@ -306,7 +296,7 @@ ________________________________________
 
 #### 0994 Screen No. { to come } 
 
-#### Chapter Title: 7 of 8 Personal Information  
+#### Chapter Title: Step 6 of 7: Personal information
 
 #### Page Title: Direct deposit information
 
@@ -332,7 +322,7 @@ Thank you for providing your direct deposit information. **This new account won�
 
 We don’t have your bank information on file. Please provide your direct deposit information below. We’ll pay your housing stipend to this account.
 
-**Add new account**
+**Update bank account**
 * Account type { pre-fill: radio, Checking, Savings }
 *	Bank routing number (9 digits at the lower left of your check). { text field, prefill if present. }
 *	Account number { text field, prefill if present. }
@@ -363,17 +353,18 @@ ________________________________________
 
 #### 0994 Screen No. { to come } 
 
-#### Chapter Title: 7 of 7 Review Application
+#### Chapter Title: Step 7 of 7: Review application
 
 
 { Summary Review / Edit functionality  }
 
-* Applicant Information
-* Military Service
-* Education History
-* Work Experience
-* Program Selection
-* Personal Information
+* Applicant information
+* Military service
+* Education history
+* Work experience
+* Program selection
+* Personal information
+
 
 **Note:** According to federal law, there are criminal penalties including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)
 
@@ -390,13 +381,13 @@ ________________________________________
 { Confirmation screen } 
 
 
-#### Your claim has been received ####
+#### We've received your application.  ####
 
-We usually process claims within 30 days.
+We usually process applications within 30 days.
 
 We may contact you for more information or documents.
 
-Please print this page for your records.
+Print this page  { button }
 
 
 { Conditional warning alert based on "No" response to 22-1990 Question }
@@ -407,17 +398,18 @@ Now that you've submitted your application for VET TEC, you’ll need to complet
 
 { End conditional alert }
 
+{ blue box }
 
-**Education Benefit Claim** 								
+**VET TEC Application (Form 22-0994)** 								
 **(Form 22-0994)**
 
-for Jerry M Brooks
+for { Fname Lname }  
 
 **Confirmation number**
-A-ABC-000
+{ confirmation number }  
 
 **Date received**
-Feb. 8, 2019
+{ Mon. NN, YYYY }  
 
 **Your claim was sent to**
 Eastern Region 
@@ -425,6 +417,7 @@ VA Regional Office
 P.O. Box 4616 
 Buffalo, NY 14240-4616
 
+{ end blue box }
 
 { conditional content based on "No" response to 22-1990 Question } 
 
@@ -436,7 +429,12 @@ Buffalo, NY 14240-4616
 
 **What happens after I apply?**
 
-[Find out what happens after you apply. ]()
+We usually decide on applications within 30 days.  
+
+You’ll get a Certificate of Eligibility (COE) or decision letter in the mail. If we’ve approved your application, you can bring the COE to the VA certifying official at your school.
+
+[Learn more about what happens after you apply](https://www.va.gov/education/after-you-apply/)
+
 
 
 [Go Back to VA.gov]() { button }

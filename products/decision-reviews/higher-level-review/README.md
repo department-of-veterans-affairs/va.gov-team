@@ -3,13 +3,15 @@
 ## Communications
 - GitHub Label: [hlr](https://github.com/department-of-veterans-affairs/va.gov-team/labels/???)
 - Slack channel: n/a ([#vsa-benefits-memorials](https://dsva.slack.com/channels/vsa-benefits-memorials))
-- Product POCs: Andrea Schneider and Luke Majewski
+- Product POCs: Matt Self and Luke Majewski
 - va.gov link: https://www.va.gov/decision-reviews/higher-level-review/
 - Phyical form: https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf
-- Stakeholders: AMO and Paul Shute
+- Stakeholders: AMO (Jane Chi jane.chi1@va.gov, Lauren Sylvia Lauren.Sylvia@va.gov), Lighthouse (Kelly Lein Kelly.Lein@va.gov, Premal Shaw Premal.Shah@va.gov) and VBA (Paul Shute Paul.Shute@va.gov)
 
 ## The Problem
 Currently VA.gov does not support any appeals or decision review paths. The existing path is only through the paper form.  This does not exist on eBenefits either, so this digitization is the first step in bringing the review process to veterans using VA.gov.  It is also the first step before supplemental claims and Notice of Disagreement.  We believe that bringing this to VA.gov will greatly reduce the time-to-a-decision for veterans.  This will be talked about further below.
+
+![Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/higher-level-review/Appeals_Process_Higher_Level_Review_Flowchart-1.png)
 
 ### Program Requirements
 If you disagree with VA’s decision, you can request to have a senior reviewer take a new look at your case. The reviewer will determine whether the decision can be changed based on a difference of opinion or an error.
@@ -111,23 +113,28 @@ Service members being able to apply for their first VA benefits on VA.gov versus
 - % of "rejected" HLR claims (input KPI)
 
 ### Baseline KPIs
-- TBD
+- HLR Submissions: Total HLR EPs established FY 2020 through July. Average: 7k a month
+- HLR ADC: Monthly and FYTD average days pending, through July. 
+- HLR Grant Rates: Grant rates, from PA&I’s monthly AMA Reports website. Average 17.1%
 
-## Key Results (KRs)
+Note: I thought average grant rate for HLR was much higher - where did we hear this?
 
-1. TBD
-
+Details Here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/higher-level-review/metrics/HLR_FY2020.xlsx
 --- 
 
 ## Go-to-market Strategy
+1. Banner on eBenefits
+2. Ads in Miltary Times Magazine
+3. TAP
 
 ## Launch Date
 - *Target Launch Date*
-  - September 18th for UAT
+  - November for UAT
+  - Early December for Launch
 - *Actual Launch Date*
-  - tbd
+  - Early December
 - *What date will you evaluate impact after launch?*
-  - tbd
+  - End of January
 
 ---
 ## Results and Recommendations
@@ -143,20 +150,35 @@ Service members being able to apply for their first VA benefits on VA.gov versus
 1. MVP design completed.
 2. Front-end implementation almost complete.
 3. Back-end schema changes to LH API almost complete (8/17)
+4. Integration
 
-## Technical Decisions/Discovery\
+## Technical Decisions/Discovery
 
 ## Product Decisions
+Rewriting this as I lost the tab with the edits before I could save post meeting.
 
+#### Meeting Minutes 11/13:
+Goal of meeting was to determine the logic for filtering contestable issues. A contestable issue and HLR eligibilty are very different.  There were some previous assumptions about who owns the filtering of the contestable issues into eligible HLR issues.
 
+During UAT testing, we ran into a major issue where the contestable issues list contained essentially every denied decision.  Since HLR has relatively strict timelines (a year after the decision date) and only a handful of exceptions, we realized a major change to the filtering/business logic needs to occur. It was decided that MVP would filter strictly on decision date and that we would add some content updates to explain (further) why an issue may not be showing up.  The exceptions are going to require a paper form and possible making a call to a number that can help them etc.
+
+1. Update content with further details on why you do not see an issue you thought was contestable (like Blue Water items) and what to do in case you do not see it.
+2. Update filter to only show < year old decisions.
 
 ## Team
 
-- VA Digital Strategist(s): Andrea Schneider
+- VA Digital Strategist(s): Matt Self
 - Product Manager: Luke Majewski 
 - Research Lead: Christian Valla
 - Design Lead: Kevin Stachura
-- Engineers: Anna Carey, Nick Sprinkle, Robin Garrison
+- Engineers: Anna Carey, Nick Sprinkle, Robin Garrison, Ed Mangimelli)
+
+## Incident Response
+- Primary POCs (Luke Majewski, Matt Self, John Hashimoto)
+- Engineering POCs (Ed Mangimelli, Robin Garrison)
+- Dashboards:
+  - Production: http://grafana.vfs.va.gov/d/qCRjZjDMk/hlr-higher-level-review?orgId=1&var-data_source=Prometheus%20(Production)
+  - Staging: http://grafana.vfs.va.gov/d/qCRjZjDMk/hlr-higher-level-review?orgId=1&var-data_source=Prometheus%20(Staging)
    
 ## Screenshots
 

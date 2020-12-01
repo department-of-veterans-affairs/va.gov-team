@@ -5,15 +5,217 @@
 
 > [Roadmap Release Plan Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/README.md)
 
+<details> <summary> October 2020</summary>
 
+
+## Oct 23rd, 2020
+
+**Product**
+ - [TOT Sept 20th](https://drive.google.com/file/d/129Y95X8O6Yce9VXbpKa3HHiCD09TQBKN/view?usp=sharing)
+ - [Sprint Demo](https://docs.google.com/presentation/d/1uAbypsVgznGsrQNA0onV_kwZUYmAVWULTRIJm0SFwXE/edit?usp=sharing)
+ - [Sprint Report](https://docs.google.com/document/d/17QuC6QZfhEJ64sjFauDJflgddbBbWYWeozspp51d80M/edit?usp=sharing)
+ - Meetings held to investigation into how eScreening tool is passing PGD into CPRS
+ - Technical review with Virtual Care Manager
+ - [Retro Sprint 32](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/sprint-32.md)
+ - Analytics Playbook review and assistance with team KPI planning.
+
+**Research and Design**
+- Finalize and feedback from team on [Questionnaire Worklist preliminary mockups](https://zpl.io/VOOek8j) 
+- Usability Testing sessions completed and start to key findings report for [Proof of Concept prototype in Mobile](https://preview.uxpin.com/a15205c1bedcdfc8fe46fed26c22fa731cab8ae0cvhidm)  and [Desktop](https://preview.uxpin.com/e9e0dc597bb076e74db05f77d35306496a89fca2cvhidm)
+
+**Engineering**
+- Save in progress Tech strategy
+- Finalize intro and confirm into staging
+- PGD validated with Health questionnaire posting
+- BE tickets refined and clear path for remaining work to be done.
+
+**Next Step/Followup**
+- Continue to validate the PGD data and appt. details in MAP - see blocker below. 
+	
+**Decisions:**
+ none
+
+**Blockers:**
+- No changes in status from previous week for blocker [Stakeholder Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
+- FHIR Mapping has been submitted for review. [Jira Ticket](https://issues.mobilehealth.va.gov/browse/PGDG-75) Once this ticket has been resolved we should have access to view and post to PGD / get answers from the team for current authorize errors currently happening.
+
+## Oct 16th, 2020
+
+**Product**
+ - [TOT Sept 13th](https://drive.google.com/file/d/11lBgdPnrzVnGLYPHfloCLtmbnPWlI3iE/view?usp=sharing)
+
+
+**Research and Design**
+- Continue to work on [Questionnaire Worklist preliminary mockups](https://zpl.io/VOOek8j) 
+- Usability Testing Prep and scheduled sessions for  [Proof of Concept prototype in Mobile](https://preview.uxpin.com/a15205c1bedcdfc8fe46fed26c22fa731cab8ae0cvhidm)  and [Desktop](https://preview.uxpin.com/e9e0dc597bb076e74db05f77d35306496a89fca2cvhidm)
+
+**Engineering**
+- Finalized FE code for Intro and Confirm screens with reviews
+- Architecture diagram updated with BE engineer onboarding and plan and prioritize tickets   
+
+**Next Step/Followup**
+- Continue to validate the PGD data and appt. details in MAP.
+	
+**Decisions:**
+ none
+
+**Blockers:**
+- No changes in status from previous week for blocker [Stakeholder Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
+- FHIR Mapping has been submitted for review. [Jira Ticket](https://issues.mobilehealth.va.gov/browse/PGDG-75) Once this ticket has been resolved we should have access to view and post to PGD / get answers from the team for current authorize errors currently happening.
+
+
+## Oct 9th, 2020
+
+**Product**
+ - [TOT Sept 29th](https://drive.google.com/file/d/11aawiqofQ0Z1gSSG_0_QqPKFv1vXeeXp/view?usp=sharing)
+ - [Sprint Demo](https://docs.google.com/presentation/d/1hTO5HVSY7yW7ZkjixaQuuORDPGdBjUdLc72KUkiSL7s/edit?usp=sharing)
+ - [Sprint Report](https://docs.google.com/document/d/1y1KkscweOw_e1a_l6sqORZGJ6SZ0wbt8fUSwyI4hWWw/edit?usp=sharing)
+ - [Q4 Milestones and Release Plan Drafted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/quarterly-sprint-planning.md)
+ - Meetings held to investigation into how eScreening tool is passing PGD into CPRS
+ - Technical review with Virtual Care Manager
+ - [Retro Sprint 31](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/sprint-31.md) 
+
+**Research and Design**
+- Continue to work on [Questionnaire Worklist preliminary mockups](https://zpl.io/VOOek8j) 
+- Finalizing [Proof of Concept prototype in Mobile](https://preview.uxpin.com/a15205c1bedcdfc8fe46fed26c22fa731cab8ae0cvhidm)  
+- Finalizing  [Proof of Concept prototype in Desktop](https://preview.uxpin.com/e9e0dc597bb076e74db05f77d35306496a89fca2cvhidm)
+- Finalized Usability Testing [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/mvp-usability/research-plan.md)  and  [conversation script](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/mvp-usability/conversation-guide.md)
+- [VSP - Usability Testing Prep for Collab Cycle](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14473)
+
+**Engineering**
+- Finalized FE code for Confirm steps and pushed to staging
+- Sprint Demo of Proof of Concept Questionnaire design
+- KT with new BE engineer starting to plan and prioritize tickets from previous BE engineer   
+
+**Next Step/Followup**
+- Continue to validate the PGD data and appt. details in MAP.
+
+	
+**Decisions:**
+ none
+
+**Blockers:**
+- No changes in status from previous week for blocker [Stakeholder Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
+- FHIR Mapping has been submitted for review. [Jira Ticket](https://issues.mobilehealth.va.gov/browse/PGDG-75) Once this ticket has been resolved we should have access to view and post to PGD / get answers from the team for current authorize errors currently happening.
+
+
+## Oct 2nd, 2020
+
+**Product**
+ - [TOT Sept 29th](https://drive.google.com/file/d/11Y_S_CWeSJpxIYZP-1d4ArZylWbwk_eb/view?usp=sharing)
+ - [PGD FHIR mapping for GetCare](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13833) integration with Virtual Care Manager
+ 
+**Research and Design**
+- [Questionnaire Worklist preliminary mockups](https://zpl.io/VOOek8j) reviewed with the team.
+- Created Usability Testing [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/mvp-usability/research-plan.md)  and  [conversation script](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/mvp-usability/conversation-guide.md)
+
+**Engineering**
+- Finalized FE code for Intro UI, Review steps and pushed to staging
+- KT with new BE engineer as the team transitioned second BE engineer off the team.  
+
+**Next Step/Followup**
+- Continue to validate the PGD data and start on data for appt. details in MAP.
+- Meetings scheduled to investigation into how eScreening tool is passing PGD into CPRS
+	
+**Decisions:**
+- None
+
+**Blockers:**
+- No changes in status from previous week for blocker [Stakeholder Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
+- FHIR Mapping has been submitted for review. [Jira Ticket](https://issues.mobilehealth.va.gov/browse/PGDG-75) Once this ticket has been resolved we should have access to view and post to PGD / get answers from the team for current authorize errors currently happening.	
+	
+</details>
 
 <details> <summary> September 2020</summary>
 
+
 ## Sept 25th, 2020
 
+**Product**
+ - [TOT Sept 22th](https://drive.google.com/file/d/116fi_l-16W2L6qo2O3dTb25Nn2pUPfC1/view?usp=sharing)
+ - [Sprint Demo](https://docs.google.com/presentation/d/1Sbq9okwrfF1bcaaPCo3TVYk-7RmV3Odf5VHzM2mqK3U/edit?usp=sharing)
+ - [Sprint Report](https://docs.google.com/document/d/1IfwJeN0HBbFTiD3DfA5yPXpTSmTigXVDZWcSvbtZNyM/edit?usp=sharing)
+ - Virtual Care Manager Demo - Derek Juang (SanDiego) for consideration for integration with PDG and CPRS workflows
+
+**Research and Design**
+- Starting R&D for Questionnaire Worklist
+
+**Engineering**
+- Began Intro UI
+- Reviewed strategy for the list loop Questions on Reason for Visit page- decided to go out of the box and push refresh position error to platform in hopes they will accept the bug fix. 
+- Documenation and reviewed questions on our VeText strategy to determine feasibility of solution - will continue to align with this team to build out our trigger strategy.  
+
+**Next Step/Followup**
+- Continue to validate the PGD data and start on data for appt. details in MAP.
+- Investigation into how eScreening tool is passing PGD into CPRS 
+	
+**Decisions:**
+- Virtual Care Manager will require front end coding to map our PGD fields which our team was unaware of.  Stephen has technical idea to leverage GetCare FHIR and field mapping API to pass our questions and will be available for display in Virtual Care without coding by that team.- will continue to work through this option.  
+
+**Blockers:**
+- No changes in status from previous week for blocker [Stakeholder Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
+- Both BE investigation for [VAMP/PGD #12406](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12406) and [Service for Retrieving Appt. Details #12404](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12404) have been un-blocked by gaining temp keys access for both environments but are still working on access to sandbox and getting test data in the staging environments. 
+
 ## Sept 18th, 2020
+**Product**
+ - [TOT Sept 15th](https://drive.google.com/file/d/1158IPHNLQMWLLebffecAQIB4JokAPKMV/view?usp=sharing)
+ - Sept 17th. MVP Review with Deana, primary care nurse at LomaLinda
+ - High level -[Epics prioritized for remaining Q3 and Q4 for MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/quarterly-sprint-planning.md)
+ - [Questionnaire Manager Feature Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/questionnaire-manager.md) posted for review 
+
+**Research and Design**
+- Completed [Visit Intro, Review, and Confirm UI](https://app.zeplin.io/project/5f3d86a458ea2231e60a4780/dashboard)
+- Complete Reason for Visit wording for fields
+- Completed [Proof of concept WireFlows](https://zpl.io/VOOek8j)
+
+**Engineering**
+
+- Got Temp Keys for MVP authentication and start to posting data to PGD for testing. 
+- [Pushed to Staging - This Visit Form entry](https://staging.va.gov/healthcare/questionnaire/introduction) -  Completed the first three fields, not pre-filling, created the basic multi-question implementation.
+- Met with [Shane with VeText for strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/vetext-meeting-sept18.md) they used to identify triggers in CPRS to send veterans a notification - will continue to align with this team to build out our trigger strategy.  
+
+**Next Step/Followup**
+- Continue to validate the PGD data and start on data for appt. details in MAP.
+	
+**Decisions:**
+- See Engineering section, Will use VeText team to leverage their services/admin tool for identifying triggers in CPRS and sending of notifications to Veterans they have a questionnaire to complete. 
+
+**Blockers:**
+- No changes in status from previous week for blocker [Stakeholder Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
+- Both BE investigation for [VAMP/PGD #12406](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12406) and [Service for Retrieving Appt. Details #12404](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12404) have been un-blocked by gaining temp keys access for both environments but are still working on getting test data in the staging environments. - Stephen making good progress and should not be a blocker by the end of the coming week. 
+
 
 ## Sept 11th, 2020
+
+#### Monday 7th Labor Day Holiday
+
+**Product**
+- [Sprint 30 Planning for priority features.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/quarterly-sprint-planning.md#sprint-30---questionnaire-form-entry-is-real) 
+- [Sprint 29 Demo](https://docs.google.com/presentation/d/1PVTVSQtZI33gTVnMPKTWkzcIc113aNZZ8J-Uf1kfgtE/edit#slide=id.g865f6d892d_0_0) 
+- [Sprint 29 Report](https://docs.google.com/document/d/1iHk10GnpLhg1CIAdgTnXygCZCTZp4Jdp1AcsTVQUadU/edit?usp=sharing)
+ - [Sprint 29 Retro](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/sprint-29.md)
+ - [TOT Sept 8th](https://drive.google.com/file/d/1-tr-i_gS1N_HHGsyRmZGez2TpmxwmstN/view?usp=sharing)
+ - Scheduled review meeting with SMEs at LomaLinda
+ - 
+
+**Research and Design**
+- Completed Demographics and [This Visit page](https://zpl.io/VOOek8j) for engineering
+- [Submitted and Accepted VSP Design council request](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/302) for enhancements to the readonly demographics page
+
+**Engineering**
+
+- Continue to break out Questionnaire Service - Appt details into separate pull requests to be accepted. 2 of 3 merged and approved
+- [Created This Visit Form entry](https://dsva.slack.com/archives/C0136TS768M/p1599762254045200) -  Completed the first three fields, not pre-filling, created the basic multi-question implementation.
+
+**Next Step/Followup**
+- Finalize intro, and confirmation page mocks with a storyboard diagram of user flow for sprint 30
+- Continue to get answers and land architecture strategy for system and services for retrieving and posting healthcare patient data.
+	
+**Decisions:**
+
+**Blockers:**
+- No changes in status from previous week for blocker [Stakeholder Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
+- Both BE investigation for [VAMP/PGD #12406](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12406) and [Service for Retrieving Appt. Details #12404](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12404) are blocked by request submitted by Stephen to gain keys access for both environments. 
 
 ## Sept 4th, 2020
 
@@ -38,10 +240,9 @@
 - Continue to get answers and land architecture strategy for system and services for retrieving and posting healthcare patient data.
 	
 **Decisions:**
-
+- Lighthouse team FHIR gap with authentication Open Connect ID is not compatible with vets api [VA.gov and Lighthouse oAuth Strategies - #11669](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11669) 
 **Blockers:**
 - No changes in status from previous week for blocker [Stakeholder Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
-- Need update from Lighthouse team FHIR gap with authentication Open Connect ID is not compatible with vets api [VA.gov and Lighthouse oAuth Strategies - #11669](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11669) 
 - Both BE investigation for [VAMP/PGD #12406](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12406) and [Service for Retrieving Appt. Details #12404](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12404) are blocked by request submitted by Stephen to gain keys access for both environments. 
 
 

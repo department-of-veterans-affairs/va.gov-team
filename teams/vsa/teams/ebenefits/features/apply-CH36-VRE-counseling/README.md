@@ -4,8 +4,8 @@
 - Slack channel: [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)
 - Staging EBN link: https://sqa.eauth.va.gov/ebenefits/vre
 - Form: https://www.vba.va.gov/pubs/forms/VBA-28-8832-ARE.pdf
-- (staging) VA.gov link (unauth landing page): https://www.va.gov/careers-employment/education-and-career-counseling/
-- (staging) VA.gov link (tool page): https://staging.va.gov/education-and-career-counseling/apply-career-guidance-form-28-8832/
+- (staging) VA.gov link (unauth landing page): https://staging.va.gov/careers-employment/education-and-career-counseling/
+- (staging) VA.gov link (tool page): https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/introduction
 - Current prototype: https://preview.uxpin.com/2dbde8d15bf667f5c584fe4a8a6d011cf9f0a14d#/pages/130194084
 
 ## WIP
@@ -80,16 +80,20 @@ I can apply for CH36 benefits quickly and without mailing in a form or visiting 
 ### KPIs-OKRs
 #### KPIs
 - Conversion rate
-  - % of people who land on wizard and start the application (Acquisition)
-  - % of people who abandon (Abandonment Rate) (Activitation)
-  - % of people who complete the form
-    - \# of people who complete the form
-- Customer satisfaction
+  - % of people who land on wizard and start the application (Acquisition)  
+  - % of people who abandon (Abandonment Rate) (Activitation)  
+  - % of people who complete the form  
+  - number of people who complete the form  
+- Customer satisfaction  
+  - form has an increasing score value  
 
 ##### Baseline KPIs
 tbd
+
 #### OKRs
-Improve abandonment rate
+1. Improve abandonment/conversion rate
+
+2. Improve time to complete
 
 --
 ## Go-to-Market

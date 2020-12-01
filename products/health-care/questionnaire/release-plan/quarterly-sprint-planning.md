@@ -11,17 +11,113 @@
 - [q4-2020-target-launch](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q4-2020-target-launch.md)
 
 
+## Sprint 37 - Acceptance Testing and Release MVP
+12/16/2020 - 12/29/2020
+- [Milestone 371](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/371)
+
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
-| [BE] Start tech implementationQuestionnaire Trigger Service | -- | #  |
-| [FE] Save in Progress | -- | #  |
-| [FE] Print PDF of Questionnaire | -- | #  |
-| [UI/FE] Questionnaire List | -- | #  |
+| [UI]  | -- | # |
+| [FE]  Accessability | -- | # |
+| [FE]  Clean up | -- | # |
+| [Product] External /Call Center troubleshooting Documentation	| -- |  |
+| [All] Collab Cycle Approvals for Pros 	| -- |  |
+| [UI] MVP Usability Testing 	| -- |  |
+| [UX] Analytics	| -- |  |
+
+## Sprint 36 - Integraion Testing / Analytics 
+12/2/2020 - 12/15/2020
+- [Milestone 370](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/370)
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| [UI]  | -- | # |
+| [UX] Create interactive MVP prototype   	| -- |  |
+| [FE] Analytics | -- | # |
+| [FE] Integration with vets API for pulling in a appointment data | -- | # |
+| [FE] Integration with vets API for pulling in all questionnaires list| -- | # |
+| [FE] Integration with vets API for subitting data | -- | # |
+| [UX/FE] Print PDF of Questionnaire | -- | #  |
+| [BE]  | -- | # |
+| [Product] Change Management for Implementation 	| -- |  |
+| [BE/FE] Implementation for Questionnaire Trigger Service | -- | #  |
+
+
+## Sprint 35 - Print /Analytics and Security/ Notifications
+11/18/2020 - 12/1/2020
+- [Milestone 369](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/369)
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| [UX/Product] Stakeholder/Clinician Interviews  | -- | #15049  |
+| [UX] Notifications via Appt Reminders/link | -- | #  |
+| [FE] Questionnaire Manager  | -- | | 
+| [FE] Clean up | -- | |
 | [BE] Appt Status updates | -- | #  |
-| [FE] Appt Reminders/link | -- | #  |
-| [FE] Demographics Banner  | -- | #  |
+
+
+
+## Sprint 34 - Questionnaire List / Print
+11/4/2020 - 11/17/2020
+- [Milestone 368](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/368)
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| [Product] VCM and eScreening strategy docs submitted | -- |   |
+| [UX] Demographics Banner  | -- | #13153  |
+| [UX/Product] Stakeholder/Clinician Interviews Script/conversation guides  | -- | #  |
+| [UX] Print | -- | #15158  |
+| [FE] Questionnaire List | -- | #15525  |
+| [FE] Usability Testing Feedback Updates | -- | #many  |
+| [BE] POST/GET questionnaire responses to appointment in staging(PGD sandbox) | -- | #15006 need ticket # |
+| [BE] FHIR Mapping in MAP| -- | #|
+
+
+## Sprint 33 - Questionnaire Trigger and Usability Feedback Implemented
+10/21/2020 - 11/3/2020
+- [Milestone 367](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/367)
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| [UI] Usability Testing Feedback | -- | #  |
+| [UI] Questionnaire List Started | -- | #  |
+| [UX/FE] IA for navigation on va.gov	| -- |  |
 | [FE] Save in Progress | -- | #  |
-| [UI] Create interactive MVP prototype   	| -- |  |
+| [BE/FE] Land implementation strategy Questionnaire Trigger Service | -- | #  |
+
+
+
+## Sprint 32 - Proof of Concept Usability Testing
+10/7/2020 - 10/20/2020
+- [Milestone 366](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/366)
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| [UI] Create Usablity Testing Prototype  	| -- | #13627 |
+| [UI] Hold Usability Testing Sessions	| -- | #14208 |
+| [FE] KT with new BE engineer | -- | # |
+| [FE] SPIKE - Cards Design| -- | #14313 |
+| [FE] Pre-fill RFV with Mock data | -- | #13670 |
+| [BE] All things KT for Onboarding new teammember | # |
+| [BE] Read and write appt. and PGD with questionnaire service | #13599 |
+| [Product] Success Metris	| -- |  |
+
+
+
+
+### Not assigned to a sprint 
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+
+
+
+
+
+
+
+
+
 
 </details>
 
@@ -32,13 +128,12 @@
 - [q3-2020-target-launch](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q3-2020-target-launch.md)
 
 
-## Sprint 31 - _Sprint Theme Name_
+## Sprint 31 - Proof of Concept Delivered
 9/23/2020 - 10/06/2020
 - [Milestone 294](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/294)
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
-
 | [UI] Design for Questionnaire Worklist - stretch goal  	| -- |  |
 | [UI] Research plan and Conversation guide for MVP prototype testing 	| -- |  |
 | [FE] Visit Intro page displayed | -- | # |
@@ -47,7 +142,7 @@
 
 
 
-## Sprint 30 - _Sprint Theme Name_
+## Sprint 30 - Questionnaire Form Entry is Real 
 9/09/2020 - 9/22/2020
 - [Milestone 293](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/293)
 
@@ -69,6 +164,8 @@
 ## Sprint 29 - Land Proof of Concept Designs and Data Services
 8/26/2020 - 9/8/2020
 - [Milestone 292](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/292)
+- Status and Decisions - [Sept 4th](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/status-and-decisions.md#sept-4th-2020) & [August 28th](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/status-and-decisions.md#august-28th-2020) 
+- [Retrospective Sept 11th](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/sprint-29.md) 
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|

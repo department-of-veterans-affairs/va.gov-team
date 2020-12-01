@@ -55,6 +55,32 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 
 ### Meetings Notes and Background Info
 
+**11/17/2020 - Usability testing prep**
+- Veterans are confused about vet center vs va clinic
+- Awareness is the biggest thing we are trying to solve
+- Are we striking the right tone for messaging, then circling back to where does that messaging live.
+- Potential separate campaign landing page to help
+- These will be individual sites, not sure if they will live as part of facility locator. They are technically equivalents to medical centers. 
+IA feedback documented here: https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/16235
+
+**9/18/20 - Design intent**
+
+Questions
+- Breadcrumb?
+- A left nav is not included in the wireframe, will there be child pages to this landing page?
+- Will services descriptions be custom for each vet center? Or will it be more like VAMCs where there is service taxonomy and national descriptions with the option of adding local information on a separate page?
+- Are "Highlight" blocks clickable into a detail page of some sort?  If so, does that page live elsewhere on the site or as part of this facility?
+- Do we need an operating status page?
+- Will these pages live independently of the FL or inside the FL? Do we want these to have clear and short URLs for direct access or will users primarily access via FL?
+		○ www.va.gov/vet-center-location-name 
+		○ www.va.gov/vet-centers/location-name
+- mobile
+
+Meeting notes
+- Dave C - working on changing the health services taxonomy into a more general services taxonomy that is more inclusive
+- This may be a single page in some instances or multiple pages depending on the size and breadth of the services offered
+
+IA feedback issue: https://github.com/department-of-veterans-affairs/va.gov-team/issues/13745
 
 **9/3/20 - Vet center kick off**
 

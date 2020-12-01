@@ -1,0 +1,776 @@
+---
+swagger: "2.0"
+info: {}
+basePath: "/wss-pciu-services-web/rest"
+tags:
+- name: "pciuServices"
+paths:
+  /pciuServices/v1/countries:
+    get:
+      tags:
+      - "pciuServices"
+      summary: "Get a list of Country objects"
+      description: "Returns a list of as many or more than 250 Country objects."
+      operationId: "getCountries"
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters: []
+      responses:
+        200:
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/PciuCountriesResponse"
+        400:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        500:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        403:
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+  /pciuServices/v1/emailAddress:
+    get:
+      tags:
+      - "pciuServices"
+      summary: "Get Email Address"
+      description: "Returns Email Address"
+      operationId: "getEmailAddress"
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters: []
+      responses:
+        200:
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/PciuEmailAddressResponse"
+        400:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        500:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        403:
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+    post:
+      tags:
+      - "pciuServices"
+      summary: "Update Email Address"
+      description: "Returns Email Address."
+      operationId: "updateEmailAddress"
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters:
+      - in: "body"
+        name: "body"
+        description: "New Email address"
+        required: false
+        schema:
+          $ref: "#/definitions/PciuEmailAddressRequest"
+      responses:
+        200:
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/PciuEmailAddressResponse"
+        400:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        500:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        403:
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+  /pciuServices/v1/mailingAddress:
+    get:
+      tags:
+      - "pciuServices"
+      summary: "Get Mailing Address"
+      description: "Returns Mailing Address.\nField usage is dictated by the \"type\"\
+        \ field: (D = Domestic, M = Military, I = International):\n- \"addressEffectiveDate\"\
+        : Always required. Format: date or datetime.\n- \"addressOne\": Always required.\
+        \ Restricted by [-a-zA-Z0-9 \"#%&amp;'()+,./:@]{1,35}\n- \"addressTwo\": Always\
+        \ optional. Restricted by [-a-zA-Z0-9 \"#%&amp;'()+,./:@]{1,35}\n- \"addressThree\"\
+        : Always required. Restricted by [-a-zA-Z0-9 \"#%&amp;'()+,./:@]{1,35}\n-\
+        \ \"city\": Required for Domestic and International; Optional for Military.\
+        \  Restricted by [-a-zA-Z0-9 \"#%&amp;'()+,./:@]{1,30}\n- \"stateCode\": Required\
+        \ for Domestic; N/A for International and Military. Restricted by /states\
+        \ API.\n- \"zipCode\": Required for Domestic and Military; N/A for International.\
+        \ Restricted by: \\d{5}\n- \"zipSuffix\": Optional for Domestic and Military;\
+        \ N/A for International. Restricted by: -?\\d{4}\n- \"countryName\": Optional\
+        \ for Domestic; Required for International; N/A for Military. Restricted by\
+        \ /countries API.\n- \"militaryPostOfficeTypeCode\": Required for Military;\
+        \ N/A for Domestic and International.  AllowableValues are: APO, FPO, DPO\n\
+        - \"militaryStateCode\": Required for Military; N/A for Domestic and International.\
+        \ AllowableValues are: AA, AE, AP \n"
+      operationId: "getMailingAddress"
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters: []
+      responses:
+        200:
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information.\n\
+            The ControlInformation object shows if the user is allowed to update their\
+            \ address. The 'canUpdate' indicator is the global flag for updatability.\
+            \ Updates are only allowed when all member variables of this object are\
+            \ 'true'.\n"
+          schema:
+            $ref: "#/definitions/PciuMailingAddressResponse"
+        400:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        500:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        403:
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+    post:
+      tags:
+      - "pciuServices"
+      summary: "Update Mailing Address"
+      description: "Returns Mailing Address.\nField usage is dictated by the \"type\"\
+        \ field: (D = Domestic, M = Military, I = International)"
+      operationId: "updateMailingAddress"
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters:
+      - in: "body"
+        name: "body"
+        description: "New mailing address"
+        required: false
+        schema:
+          $ref: "#/definitions/PciuMailingAddressRequest"
+      responses:
+        200:
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information.\n\
+            Field usage is dictated by the \"type\" field: (D = Domestic, M = Military,\
+            \ I = International):\n- \"addressEffectiveDate\": Always required. Format:\
+            \ date or datetime.\n- \"addressOne\": Always required. Restricted by\
+            \ [-a-zA-Z0-9 \"#%&amp;'()+,./:@]{1,35}\n- \"addressTwo\": Always optional.\
+            \ Restricted by [-a-zA-Z0-9 \"#%&amp;'()+,./:@]{1,35}\n- \"addressThree\"\
+            : Always required. Restricted by [-a-zA-Z0-9 \"#%&amp;'()+,./:@]{1,35}\n\
+            - \"city\": Required for Domestic and International; Optional for Military.\
+            \  Restricted by [-a-zA-Z0-9 \"#%&amp;'()+,./:@]{1,30}\n- \"stateCode\"\
+            : Required for Domestic; N/A for International and Military. Restricted\
+            \ by /states API.\n- \"zipCode\": Required for Domestic and Military;\
+            \ N/A for International. Restricted by: \\d{5}\n- \"zipSuffix\": Optional\
+            \ for Domestic and Military; N/A for International. Restricted by: -?\\\
+            d{4}\n- \"countryName\": Optional for Domestic; Required for International;\
+            \ N/A for Military. Restricted by /countries API.\n- \"militaryPostOfficeTypeCode\"\
+            : Required for Military; N/A for Domestic and International.  AllowableValues\
+            \ are: APO, FPO, DPO\n- \"militaryStateCode\": Required for Military;\
+            \ N/A for Domestic and International. AllowableValues are: AA, AE, AP\n\
+            \nThe \"ControlInformation\" object determines if the user can update\
+            \ their address. The 'canUpdate' indicator is the global flag for updatability.\
+            \ Updates are only allowed when  all member variables of this object are\
+            \ 'true'.\n"
+          schema:
+            $ref: "#/definitions/PciuMailingAddressResponse"
+        400:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        500:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        403:
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+  /pciuServices/v1/primaryPhoneNumber:
+    get:
+      tags:
+      - "pciuServices"
+      summary: "Get Primary Phone Number"
+      description: "Returns Primary Phone Number."
+      operationId: "getPrimaryPhoneNumber"
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters: []
+      responses:
+        200:
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/PciuPhoneResponse"
+        400:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        500:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        403:
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+    post:
+      tags:
+      - "pciuServices"
+      summary: "Update Primary Phone Number"
+      description: "Returns Primary Phone Number."
+      operationId: "updatePrimaryPhoneNumber"
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters:
+      - in: "body"
+        name: "body"
+        description: "New Primary Phone number"
+        required: false
+        schema:
+          $ref: "#/definitions/PciuPhoneRequest"
+      responses:
+        200:
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/PciuPhoneResponse"
+        400:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        500:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        403:
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+  /pciuServices/v1/secondaryPhoneNumber:
+    get:
+      tags:
+      - "pciuServices"
+      summary: "Get Secondary Phone Number"
+      description: "Returns Secondary Phone Number."
+      operationId: "getSecondaryPhoneNumber"
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters: []
+      responses:
+        200:
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/PciuPhoneResponse"
+        400:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        500:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        403:
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+    post:
+      tags:
+      - "pciuServices"
+      summary: "Update Secondary Phone Number"
+      description: "Returns Secondary Phone Number."
+      operationId: "updateSecondaryPhoneNumber"
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters:
+      - in: "body"
+        name: "body"
+        description: "New Secondary Phone number"
+        required: false
+        schema:
+          $ref: "#/definitions/PciuPhoneRequest"
+      responses:
+        200:
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/PciuPhoneResponse"
+        400:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        500:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        403:
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+  /pciuServices/v1/states:
+    get:
+      tags:
+      - "pciuServices"
+      summary: "Get a list of State objects"
+      description: "Returns a list of 61 State objects (including US protectorates\
+        \ and territories)."
+      operationId: "getStates"
+      consumes:
+      - "application/json"
+      produces:
+      - "application/json"
+      parameters: []
+      responses:
+        200:
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/PciuStatesResponse"
+        400:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        500:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        403:
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+definitions:
+  Message:
+    type: "object"
+    properties:
+      key:
+        type: "string"
+      text:
+        type: "string"
+      severity:
+        type: "string"
+        enum:
+        - "FATAL"
+        - "ERROR"
+        - "WARN"
+        - "INFO"
+  PciuEmailAddressResponse:
+    type: "object"
+    required:
+    - "cnpEmailAddress"
+    - "controlInformation"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+      cnpEmailAddress:
+        $ref: "#/definitions/PciuEmailAddress"
+      controlInformation:
+        $ref: "#/definitions/ControlInformation"
+  PciuStatesResponse:
+    type: "object"
+    required:
+    - "cnpStates"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+      cnpStates:
+        type: "array"
+        items:
+          type: "string"
+          enum:
+          - "AL"
+          - "AK"
+          - "AZ"
+          - "AR"
+          - "CA"
+          - "CO"
+          - "CT"
+          - "DE"
+          - "FL"
+          - "GA"
+          - "HI"
+          - "ID"
+          - "IL"
+          - "IN"
+          - "IA"
+          - "KS"
+          - "KY"
+          - "LA"
+          - "ME"
+          - "MD"
+          - "MA"
+          - "MI"
+          - "MN"
+          - "MS"
+          - "MO"
+          - "MT"
+          - "NE"
+          - "NV"
+          - "NH"
+          - "NJ"
+          - "NM"
+          - "NY"
+          - "NC"
+          - "ND"
+          - "OH"
+          - "OK"
+          - "OR"
+          - "PA"
+          - "RI"
+          - "SC"
+          - "SD"
+          - "TN"
+          - "TX"
+          - "UT"
+          - "VT"
+          - "VA"
+          - "WA"
+          - "WV"
+          - "WI"
+          - "WY"
+          - "AS"
+          - "DC"
+          - "FM"
+          - "GU"
+          - "MH"
+          - "MP"
+          - "PW"
+          - "PR"
+          - "UM"
+          - "VI"
+          - "PI"
+        maxItems: 2147483647
+        minItems: 1
+  PciuEmailAddress:
+    type: "object"
+    properties:
+      value:
+        type: "string"
+      effectiveDate:
+        type: "string"
+        format: "date-time"
+  PciuMailingAddressRequest:
+    type: "object"
+    required:
+    - "cnpMailingAddress"
+    properties:
+      cnpMailingAddress:
+        $ref: "#/definitions/PciuMailingAddress"
+  PciuPhone:
+    type: "object"
+    properties:
+      countryCode:
+        type: "string"
+      number:
+        type: "string"
+      extension:
+        type: "string"
+      effectiveDate:
+        type: "string"
+        format: "date-time"
+  PciuMailingAddressResponse:
+    type: "object"
+    required:
+    - "cnpMailingAddress"
+    - "controlInformation"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+      cnpMailingAddress:
+        $ref: "#/definitions/PciuMailingAddress"
+      controlInformation:
+        $ref: "#/definitions/ControlInformation"
+  PciuMailingAddress:
+    type: "object"
+    required:
+    - "addressEffectiveDate"
+    - "addressOne"
+    - "type"
+    properties:
+      type:
+        type: "string"
+        description: "The type of address."
+        enum:
+        - "Domestic"
+        - "International"
+        - "Military"
+      addressEffectiveDate:
+        type: "string"
+        format: "date-time"
+        description: "The date the address became effective. Format: date or datetime."
+      addressOne:
+        type: "string"
+        description: "First street address line. Always required. Restricted by [-a-zA-Z0-9\
+          \ \\\"#%&'()+,./:@]{1,35}"
+      addressTwo:
+        type: "string"
+        description: "Second street address line. Always optional. Restricted by [-a-zA-Z0-9\
+          \ \\\"#%&'()+,./:@]{1,35}"
+      addressThree:
+        type: "string"
+        description: "Third street address line. Always optional. Restricted by [-a-zA-Z0-9\
+          \ \\\"#%&'()+,./:@]{1,35}"
+      city:
+        type: "string"
+        description: "The city. Required for Domestic and International; Optional\
+          \ for Military. Restricted by [-a-zA-Z0-9 \\\"#%&'()+,./:@]{1,30}"
+      stateCode:
+        type: "string"
+        description: "Abbreviated state code. Required for Domestic; N/A for International\
+          \ and Military. Restricted by /states API."
+        enum:
+        - "AL"
+        - "AK"
+        - "AZ"
+        - "AR"
+        - "CA"
+        - "CO"
+        - "CT"
+        - "DE"
+        - "FL"
+        - "GA"
+        - "HI"
+        - "ID"
+        - "IL"
+        - "IN"
+        - "IA"
+        - "KS"
+        - "KY"
+        - "LA"
+        - "ME"
+        - "MD"
+        - "MA"
+        - "MI"
+        - "MN"
+        - "MS"
+        - "MO"
+        - "MT"
+        - "NE"
+        - "NV"
+        - "NH"
+        - "NJ"
+        - "NM"
+        - "NY"
+        - "NC"
+        - "ND"
+        - "OH"
+        - "OK"
+        - "OR"
+        - "PA"
+        - "RI"
+        - "SC"
+        - "SD"
+        - "TN"
+        - "TX"
+        - "UT"
+        - "VT"
+        - "VA"
+        - "WA"
+        - "WV"
+        - "WI"
+        - "WY"
+        - "AS"
+        - "DC"
+        - "FM"
+        - "GU"
+        - "MH"
+        - "MP"
+        - "PW"
+        - "PR"
+        - "UM"
+        - "VI"
+        - "PI"
+      zipCode:
+        type: "string"
+        description: "Zip code. Required for Domestic and Military; N/A for International.\
+          \ Restricted by: \\\\d{5}"
+        pattern: "\\d{5}"
+      zipSuffix:
+        type: "string"
+        description: "Zip suffix code. Optional for Domestic and Military; N/A for\
+          \ International. Restricted by: -?\\\\d{4}"
+        pattern: "-?\\d{4}"
+      countryName:
+        type: "string"
+        description: "Country name. Optional for Domestic; Required for International;\
+          \ N/A for Military. Restricted by /countries API."
+        minLength: 3
+        maxLength: 50
+      militaryPostOfficeTypeCode:
+        type: "string"
+        description: "The military PO. Required for Military; N/A for Domestic and\
+          \ International."
+        enum:
+        - "APO"
+        - "FPO"
+        - "DPO"
+      militaryStateCode:
+        type: "string"
+        description: "The military state code. Required for Military; N/A for Domestic\
+          \ and International"
+        enum:
+        - "AA"
+        - "AE"
+        - "AP"
+    description: "A mailing address. An address can be one of three types: Domestic,\
+      \ International, or Military. For each type, various fields can be required,\
+      \ optional, or not applicable."
+  PciuEmailAddressRequest:
+    type: "object"
+    properties:
+      value:
+        type: "string"
+  PciuPhoneResponse:
+    type: "object"
+    required:
+    - "cnpPhone"
+    - "controlInformation"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+      cnpPhone:
+        $ref: "#/definitions/PciuPhone"
+      controlInformation:
+        $ref: "#/definitions/ControlInformation"
+  ServiceResponse:
+    type: "object"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+  PciuPhoneRequest:
+    type: "object"
+    required:
+    - "cnpPhone"
+    properties:
+      cnpPhone:
+        $ref: "#/definitions/PciuPhone"
+  ControlInformation:
+    type: "object"
+    properties:
+      canUpdate:
+        type: "boolean"
+        default: false
+      corpAvailIndicator:
+        type: "boolean"
+        default: false
+      corpRecFoundIndicator:
+        type: "boolean"
+        default: false
+      hasNoBDNPaymentsIndicator:
+        type: "boolean"
+        default: false
+      isCompetentIndicator:
+        type: "boolean"
+        default: false
+      indentityIndicator:
+        type: "boolean"
+        default: false
+      indexIndicator:
+        type: "boolean"
+        default: false
+      noFiduciaryAssignedIndicator:
+        type: "boolean"
+        default: false
+      notDeceasedIndicator:
+        type: "boolean"
+        default: false
+    description: "Determines if the user can update their address. The canUpdate indicator \
+      is the global flag for updatability. Updates are only allowed when all member\
+      \ variables of this object are 'true'."
+  PciuCountriesResponse:
+    type: "object"
+    required:
+    - "cnpCountries"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+      cnpCountries:
+        type: "array"
+        items:
+          type: "string"
+        maxItems: 2147483647
+        minItems: 1
+externalDocs:
+  description: "API Error Keys"
+  url: "ext-docs/pciu-error-keys.html"

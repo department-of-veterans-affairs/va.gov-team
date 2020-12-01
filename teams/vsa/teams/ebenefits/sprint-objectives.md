@@ -7,7 +7,187 @@
 - Stay organized and help your future self and team
 - Measure outcomes where possible
 - Remember the Contact Center (Alamo!) and the issues they deal with
+- Try to focus on a fewer number of features at a time
 ----
+## Sprint 35 (11/18 - 12/1)🦃
+```diff
+- TBD
+```
+### 1. Finish VRE CMS integration and application (CH31)
+- **TEST IN STAGING Tues Dec 1**
+    - BE finish endpoint integration
+- FE finalize GA events
+- PRODUCT schedule collab cycle/ review activities
+
+### 2. Prepare EDU DD for Usability
+- DE: Create prototype
+- DE: Conduct usability sessions research plan and conversation guide
+
+### 3. Add Pension Questions to Dependency Claims
+- PRODUCT Add content to call center product guide
+- BE Ensure submission for Pension questions works correctly
+- BE add new blank sheet to end of PDF which captures answers to questions
+
+### 4. Prepare Dependency Claims for launch
+- BE continue to iterate on last-mile problems
+- PRODUCT define remaining tasks to launch
+
+### 5. Prepare/ Launch View My Payments
+- DE Adjust research plan/conversation guide per feedback
+- DE Select a time for usability sessions
+- FE Create flipper component
+
+### 6. [Stretch] Confirm PCPG (CH36) CM Portal submission 
+- BE Troubleshoot payload issues
+- Depends on participation from CMP
+- Launch date moved to 1/4
+
+### 7. [Stretch] Dependency Claims feature enhancement: select dependents to remove
+- FE/ BE activities as captured
+
+### 8. [Stretch] Design and initial dev pass on VRE Orientation
+- Quick design pass on orientation MVP to bring it into house style
+- FE add screens between eligibility wizard and application
+
+## Sprint 34 (11/4 - 11/17)
+```diff
+- 78 points over 21 issues
+```
+### 1. Finish VRE CMS integration and application (CH31)
+- BE finish endpoint integration
+- FE finalize payload
+- PRODUCT schedule collab cycle/ review activities
+
+### 2. Prepare EDU DD for Usability
+- Complete research plan and conversation guide
+- PRODUCT schedule collab cycle/ review activities
+
+### 3. Add Pension questions to Dependency Claims
+- FE add questions to "add person" workflows per design
+- FE make minor adjustments to intro page content (indicating inclusion of 21P-527EZ)
+- BE add questions to BGS payload
+- [Stretch] BE add new blank sheet to end of PDF which captures answers to questions (discuss details)
+
+### 4. Prepare Dependency Claims for launch
+- BE continue to iterate on last-mile problems
+- PRODUCT define remaining tasks to launch
+
+### 5. Prepare/ Launch View My Payments
+- Define tasks remaining to launch
+- Launch if possible
+
+### 6. [Stretch] Confirm PCPG (CH36) CM Portal submission 
+- Depends on participation from CMP
+- Launch date moved to 1/4
+
+### 7. [Stretch] Dependency Claims feature enhancement: select dependents to remove
+- FE/ BE activities as captured
+
+### 8. [Stretch] Design and initial dev pass on VRE Orientation
+- Quick design pass on orientation MVP to bring it into house style
+- FE add screens between eligibility wizard and application
+
+## Sprint 33 (10/21 - 11/3)
+```diff
+- 69 points over 22 issues
+```
+### 1. Finish VRE CMS integration and application (CH31)
+- BE finish endpoint integration
+- FE finish application
+- PRODUCT schedule collab cycle/ review activities
+
+### 2. Design and initial dev pass on VRE Orientation
+- Quick design pass on orientation MVP to bring it into house style
+- FE add screens between eligibility wizard and application
+
+### 3. Add Pension questions to Dependency Claims
+- FE add questions to "add person" workflows per design
+- FE make minor adjustments to intro page content (indicating inclusion of 21P-527EZ)
+- BE add questions to BGS payload
+- BE add new blank sheet to end of PDF which captures answers to questions (discuss details)
+
+### 4. Prepare Dependency Claims for launch
+- BE continue to iterate on last-mile problems
+- PRODUCT define remaining tasks to launch
+
+### 5. Prepare/ Launch View My Payments
+- Define tasks remaining to launch
+- Launch if possible
+
+### 6. Confirm PCPG (CH36) CM Portal submission (stretch, if possible)
+- Depends on participation from CMP
+- Launch date moved to 1/4
+
+### 7. Dependency Claims feature enhancement: select dependents to remove (stretch)
+- FE/ BE activities as captured
+
+## Sprint 32 (10/7 - 10/20)
+```diff
+- 58 points over 17 issues
+```
+### 1. Automate "Dependency Claims" Submissions
+- BE: iterate and implement latest changes for RBPS integration
+- Team: Perform e2e testing with partner systems
+- Product: Review OKRs and KPIs
+### 2. View My Payments: Dev Activities, Launch Prep
+- Design: Iterate on product designs as needed
+- BE: Test new service for connection
+- Product: schedule and attend collab cycle activities as needed
+- Product: Draft launch activities
+### 3. PCPG (CH36): Design and Dev Iteration
+- Design: Draft analysis and summary readout from usability sessions
+- FE: Feature complete (for stakeholder sharing)
+- Product: Schedule Collab Cycle activities as needed
+### 4. VRE (CH31): Design and Dev Iteration
+- FE: Iterate on product designs as needed, unit tests
+- Product: Schedule Collab Cycle activities as needed
+### 5. EDU DD
+- Design: Conduct discovery adn research on direct deposit funtionality for EDU (Auth Exp)
+- Design: Create intial draft of resarch plan and conversation guide for usability sessions
+
+## Sprint 31 (9/12 - 10/6)
+```diff
+- 71 issues over 20 issues
+```
+### 1. Automate "Dependency Claims" Submissions
+- BE: iterate and implement latest changes for RBPS integration
+- Team: Perform e2e testing with partner systems
+- Product: Review OKRs and KPIs
+### 2. View My Payments: Dev Activities, Launch Prep
+- Design: Iterate on product designs as needed
+- FE: Feature complete
+- BE: Prepare new service for connection
+- Product: Draft launch activities
+### 3. PCPG (CH36): Design and Dev Iteration
+- Design: Iterate on product designs and conduct usability sessions
+- FE: Complete all development possible without BE in place
+- BE: Connect to Centralized Mail Service
+### 4. EDU DD
+- Design: Conduct discovery adn research on direct deposit funtionality for EDU (Auth Exp)
+- Design: Create intial mockups for Auth Exp review
+
+## Sprint 30 (9/9 - 9/22)
+```diff
+- 67 issues over 21 issues
+```
+### 1. Launch "Dependency Claims"
+- FE and BE: implement final pre-launch tasks, move to prod
+- Team: Perform e2e testing with partner systems
+- Product: Schedule and conduct moderated UAT
+- Product: Staging Review
+### 2. View My Payments: Dev Activities, Launch Prep
+- Design: Iterate on product designs as needed
+- FE: (Stretch Goal) Feature complete
+- BE: Prepare new service for connection
+- Product: Draft launch activities
+### 3. PCPG (CH36): Design and Dev Iteration
+- Design: Iterate on product designs and schedule usability sessions
+- FE: Continue building applications (forms and eligibility wizards)/ complete all development possible without BE in place
+- BE: PDF form and connect to Centralized Mail Service
+### 4. Representative: Design Iteration and Scaffolding (Stretch)
+- Design: (Stretch Goal) Iterate on product designs (view, search, submit) and schedule further Collab Cycle activities as needed
+- FE: (Stretch Goal): Scaffold "View Representative" page (with links to eBen for search and submit)
+
 ## Sprint 29 (8/26 - 9/8)
 ```diff
 - 79 issues over 20 issues

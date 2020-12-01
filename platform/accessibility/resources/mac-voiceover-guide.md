@@ -1,4 +1,4 @@
-# How to use Apple's Voice Over to manually check basic accessibility/usability issues
+# How to use Apple's VoiceOver to manually check basic accessibility/usability issues
 
 **Safari is recommended** for screen reader testing with VoiceOver. Chrome on OSX sometimes generates false positive failures such as not reading labels for `<select>` menus. Safari and VoiceOver are both native Apple products, and are the best pairing for Mac-centric screen reader evaluation.
 

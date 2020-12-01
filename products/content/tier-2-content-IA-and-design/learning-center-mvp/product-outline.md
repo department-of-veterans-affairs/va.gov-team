@@ -134,6 +134,8 @@ All of these will be ‘new’ but making use of existing components to form mor
 
 __Default template content requirements__
 
+Link to detail information: tbd
+
 Consistent framework or ‘shell’ on every learning center content template. Note: This is WIP. 
 
 - H1
@@ -147,6 +149,11 @@ Consistent framework or ‘shell’ on every learning center content template. N
 - Was this helpful 
 - Related information (cross links to benefits)
 
+__MVP Search Requirements__
+tbadded
+
+__MVP Tag requirements__
+tbdadded
 
 __WIP wireframes__
 

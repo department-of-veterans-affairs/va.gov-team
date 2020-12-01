@@ -60,7 +60,7 @@ The current timeline is in flux pending the resolution of last-mile development 
 
 | Dates | Times (EST) |
 | --- | --- |
-| Aug | 9 AM to 5 PM |
+| TBD | 9 AM to 5 PM |
 
 - Please leave 30 minutes between sessions 
 - Please do not exceed 3 sessions a day 

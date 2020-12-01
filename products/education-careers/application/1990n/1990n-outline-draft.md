@@ -41,3 +41,61 @@ Used by Veterans applying under the National Call to Service.
     - Secondary phone
     - How would you prefer to be contacted if VA has questions about your application?
 -   Review/Submit
+
+________________________________________
+
+## Form Title: Apply for education benefits under the National Call to Service program
+Form 22-1990N  
+
+#### 1990N Screen
+{ Confirmation screen } 
+
+#### We've received your application. 
+
+We usually process applications within **30 days**.
+
+We may contact you if we need more information or documents.
+
+Print this page { button }
+
+{ blue box }
+
+#### Education Benefit Application  								
+(Form 22-1990N)  
+
+for { Fname Lname }
+
+**Confirmation number**
+{ confirmation number } 
+
+**Date received**
+{ Mon. NN, YYYY }
+
+**Your claim was sent to**
+{ Region }
+{ Regional office }   
+{ Street }
+{ City, ST Zip+4 }  
+
+
+{ end blue box }
+
+No documents required at this time { accordion, toggled closed by default }  { For print styles, suppress this accordion to not display on confirmation page print out }    
+
+In the future, you might need a copy of your DD 2863 (National Call to Service (NCS) Election of Options).
+Documents can be uploaded using the [GI Bill site](). 
+{ end accordion }  
+
+
+**What happens after I apply?**
+
+We usually decide on applications within 30 days.  
+
+You’ll get a Certificate of Eligibility (COE) or decision letter in the mail. If we’ve approved your application, you can bring the COE to the VA certifying official at your school.  
+
+[Learn more about what happens after you apply](https://www.va.gov/education/after-you-apply/) 
+
+
+
+[Go Back to VA.gov]() { button }
+

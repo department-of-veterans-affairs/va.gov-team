@@ -1,0 +1,242 @@
+---
+swagger: "2.0"
+info:
+  description: "Intent to File OperationsWhen a user is ready to file for compensation,\
+    \ an intent to file is created. This catches a specific time when compensation\
+    \ was created, and allows the user to leave and come back at a later time but\
+    \ the date in which they started is captured. Before a user fills out a disability\
+    \ form they need to know if there already is an active Intent to File created\
+    \ in the system, this can be created in other systems as well (SEP, through the\
+    \ mail, etc). The getActiveIntentToFile is called to get any active intentToFile,\
+    \ if that returns null it allows the client to display a message and allow the\
+    \ user to create a new intent To File. The partner has several types of intentToFile,\
+    \ but the new service will only handle compensation. By having the type as a path\
+    \ variable allows future expansion to Pension and Survivor."
+  version: "v1"
+  title: "The Intent To file API"
+basePath: "/wss-intenttofile-services-web/rest"
+tags:
+- name: "intenttofilev1"
+paths:
+  /intenttofile/v1:
+    get:
+      tags:
+      - "intenttofilev1"
+      summary: "Get List of All Intent To File"
+      description: "A veteran can have multiple intent to files expired and active.\
+        \ This operation allows a full listing of intent to files for the veteran.Information\
+        \ on each intent to file is returned."
+      operationId: "getAllIntentToFile"
+      produces:
+      - "application/json"
+      parameters: []
+      responses:
+        200:
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/IntentToFileListResponse"
+        400:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        500:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        403:
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+  /intenttofile/v1/{type}:
+    post:
+      tags:
+      - "intenttofilev1"
+      summary: "Create Intent To File"
+      description: "When a user is ready to file for compensation, an intent to file\
+        \ is created. This records a specific date when an intent to file compensation\
+        \ was created, and allows the user to leave and come back at a later time.\
+        \ The date for the compensation begins when the Intent to File is created.\n\
+        \nOperation requires as input a \"source\" field.  AllowableValues are: \"\
+        Batch\", \"CENTMAIL\", \"CRM\", \"D2D\", \"EBN\", \"SEP\", \"SHARE\", \"VBMS\"\
+        , \"VDC\", and \"VETS.GOV\""
+      operationId: "createIntentToFile"
+      produces:
+      - "application/json"
+      parameters:
+      - name: "type"
+        in: "path"
+        description: "Type of Intent to File"
+        required: true
+        type: "string"
+        enum:
+        - "compensation"
+        - "pension"
+        - "survivor"
+      - in: "body"
+        name: "body"
+        required: false
+        schema:
+          $ref: "#/definitions/IntentToFileRequest"
+      responses:
+        200:
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/IntentToFileResponse"
+        400:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        500:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        403:
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+  /intenttofile/v1/{type}/active:
+    get:
+      tags:
+      - "intenttofilev1"
+      summary: "Get Active Intent To File"
+      description: "Returns An Active Intent to file if the user has one.This operation\
+        \ allows the client to display creation and expiration dates on the active\
+        \ ITF if it exists, as well allows the client an opportunity to present the\
+        \ veteran information on the ITF if no active ITF is found."
+      operationId: "getActiveIntentToFile"
+      produces:
+      - "application/json"
+      parameters:
+      - name: "type"
+        in: "path"
+        description: "Type of Intent to File"
+        required: true
+        type: "string"
+        enum:
+        - "compensation"
+        - "pension"
+        - "survivor"
+      responses:
+        200:
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/IntentToFileResponse"
+        400:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        500:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        403:
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+definitions:
+  ServiceResponse:
+    type: "object"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+  Message:
+    type: "object"
+    properties:
+      key:
+        type: "string"
+      text:
+        type: "string"
+      severity:
+        type: "string"
+        enum:
+        - "FATAL"
+        - "ERROR"
+        - "WARN"
+        - "INFO"
+  IntentToFileListResponse:
+    type: "object"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+      intentToFile:
+        type: "array"
+        items:
+          $ref: "#/definitions/IntentToFile"
+        maxItems: 100
+        minItems: 0
+  IntentToFileRequest:
+    type: "object"
+    required:
+    - "source"
+    properties:
+      source:
+        type: "string"
+  IntentToFileResponse:
+    type: "object"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+      intentToFile:
+        $ref: "#/definitions/IntentToFile"
+  IntentToFile:
+    type: "object"
+    required:
+    - "creationDate"
+    - "expirationDate"
+    - "id"
+    - "participantId"
+    - "source"
+    - "status"
+    - "type"
+    properties:
+      id:
+        type: "string"
+      creationDate:
+        type: "string"
+        format: "date-time"
+      expirationDate:
+        type: "string"
+        format: "date-time"
+      participantId:
+        type: "integer"
+        format: "int64"
+      source:
+        type: "string"
+      status:
+        type: "string"
+        enum:
+        - "active"
+        - "claim_recieved"
+        - "duplicate"
+        - "expired"
+        - "incomplete"
+      type:
+        type: "string"
+        enum:
+        - "compensation"
+        - "pension"
+        - "survivor"
+externalDocs:
+  description: "API Error Keys"
+  url: "ext-docs/error-keys.html"

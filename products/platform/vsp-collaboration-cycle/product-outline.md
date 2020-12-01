@@ -79,6 +79,10 @@ Top pain points include:
 - We are avoiding adding additional touchpoints between VFS <> VSP at this point. We _only_ want to consolidate processes that already exist (whether or not VFS teams are following them). We _do not_ want to add additional touchpoints (or even significantly alter existing touchpoints). This is because a) we want to avoid increasing the review burden on VFS teams until we understand the level of the existing review burden, and b) as an MVP, we do not want to perfect every process in existence before rolling this out to VFS teams
 - We are not formalizing a set of rules around which work initiatives need to follow this process. Our guidelines are currently that this is for "all medium-to-large work initiatives," and we will address small projects and edge cases on a case-by-case basis until we have a better understanding of how our proposed consolidated review process is working. **We will** provide examples of projects that should follow the process, and we will workshop with teams during rollout to understand how this applies to each of their existing initiatives. But we need to understand how to effectively lighten the review burden for certain projects before iterating ("skip this cycle for initiatives of X size" vs "skip to the staging review for intiatives with X criteria" vs something else — we need to learn more about how the process is working before formalizing its intake guidelines).  
 
+### Value statements
+- As teams go through the collab cycle, any new patterns they create will undergo usability and accessibility and QA testing, making it smoother and quicker for the Design System to incorporate customer-generated components, and thus evolving at a rapid rate to best serve VFS team needs.
+- 
+
 ### How we anticipate evolving 
 - Iterate on specific collaboration points that we identify as most painful/least valuable
 - Over time, begin to scale back manual reviews as we come to understand where they are and are not necessary

@@ -1,11 +1,11 @@
 # Claim and Appeal Status Tool
 
 ## Communications
-- GitHub Label: [???](https://github.com/department-of-veterans-affairs/va.gov-team/labels/???)
+- GitHub Label: [cst](https://github.com/department-of-veterans-affairs/va.gov-team/labels/cst)
 - Slack channel: n/a ([#vsa-benefits-memorials](https://dsva.slack.com/channels/vsa-benefits-memorials))
-- Product POCs: Andrea Schneider and Luke Majewski
+- Product POCs: Matt Self and Luke Majewski
 - va.gov link: https://www.va.gov/claim-or-appeal-status/
-- Stakeholders: Lots and lots of people... but Paul Shute is likely our main stakeholder/champion
+- Stakeholders: Lots and lots of people... but Paul Shute (Paul.Shute@va.gov) is likely our main stakeholder/champion.  NCC is driving some of the possible direction but they are not an official stakeholder.
 
 ## The Problem
 The original MVP for Claims Status was just that; an MVP. It has been many years since DSVA has taken a look at improving the status tool and we have learned a lot in the three years since it was deployed. Since claims status is one of the key applications for the VA.gov website, it is time to take a fresh look and see what is truly possible when it comes to claims status. Our current integrations may expose only a partial amount of the data that is truly available.
@@ -49,7 +49,60 @@ We have a number of initial hypotheses and assumptions about the direction the t
 Please see [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/April-2020-dicovery-concept-usability/Research-plan.md)
 
 ## Solution Approach
-In work but essentially we are taking a "greenfield" approach to see what is possible.
+We originally went with a greenfield approach and were working towards a new MVP of the Claims Status Tool.  However, as we began to engage with the product and began receiving requests from NCC and others for fixes, we realized it would be more fruitful to work towards some low hanging fixes to the existing application before we worked on the new MVP. Finally, this has evolved to the current approach which will be laid out below.
+
+Our focus will be to incrememntally update the application (not just low hanging bug fixes) and essentially version the CST. This is more in line with true "agile" development and we believe it will solve a number of potential hurdles. Firstly, we will be able to more easily abosrbe the NCC requests. Trying to work on a new version of the application while also making updates the existing one is not a smooth overlap of work. Secondly, we believe this approach will avoid the large "waterfall" effect of design/research leading into the implementation (development) acitivies.
+
+### Expected Work
+This is based on our research findings, call center reports, and NCC requests. We will vet this list with our stakeholders.  This is not currently in prioritized order.
+
+#### 1. Adding improved messaging around status
+- Discovery
+  - This is not a deeper integration with VBMS for more status data.  This is providing some improved wording when (as an example) the status reverts back to a previous state. Some additional information can likely reduce confusion and the need to seek call center support.
+  - Find out if there is anything else in the metadata coming back from the currrent endpoints
+  - The above said another way, document the current endpoints
+  - Determine what types of things should trigger improved wording or additional information for the veteran
+- Include USABILITY testing
+  - Basic usability to make sure the wording updates make sense in the scenarios we identified and updated
+- Includes UI design as well
+  - Hi-fi designs
+
+#### 2. Adding better features around document viewing/downloading 
+- Discovery
+  - Chat with Ebenefits team (Jason Wolf) and connect with the right person in ebenefits platform to determine tech feasibility
+  - Find out where data comes from
+  - Engage the devs to ping that data on BE (they will be very very happy!)
+- Include USABILITY testing
+- Previous research review (‘my documents’ initiative by BaM2, co-design session, general CST research)
+- Includes UI design as well
+  - Hi-fi designs
+
+#### 3. Exam scheduling integration 
+- Discovery
+  - Reach out to exam scheduling team and find out what API access we may have
+  - Determine if it is better to integrate into the CST or just send veterans to the exam scheduling application
+- Include USABILITY testing
+- Includes UI design as well
+  - Hi-fi designs
+- Include UAT testing
+
+#### 4. Deeper data integrations
+- Discovery
+  - What other data or endpoints is there that we are not looking at?  Does BGS offer more information?  Can we talk to VBMS about creating different endponts?
+  - Is this information overload? Does it help the veteran to know even MORE about their status?
+- Include USABILITY testing
+- Includes UI design as well
+  - Hi-fi designs
+- Include UAT testing
+
+#### 5. Time-to-decision or time-to-next-step
+- Discovery
+  - As timing data has been removed, how do we bring it back in?  Research has shown that timing data is ciritical to veteran experience.
+  - Who owns the timing data?  Who owns the "timing" algorithms?
+- Include USABILITY testing
+- Includes UI design as well
+  - Hi-fi designs
+- Include UAT testing
 
 ## Value Propositions
 The Claim Status Tool was launched approximately 3 years ago and only minor changes have been done since. The claim status tool is a priority to improve, as it is used frequently by millions of veterans (it is not uncommon for veterans to check their claim status several times a week). We see this as an opportunity to create a great user experience for veterans using and depending on this tool. Very little research has been done on the claim status tool. What has been done is shared here: [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status)
@@ -61,7 +114,11 @@ Note: An attempt was made to tranfer the Google Doc table to a markdown table.  
 # Implementation Info
 
 ## Status
-Update 8/25: We are reviewing the prioritized NSS list of changes. Matt Self is helping drive some discussions with DEPO on whether we are ok just removing timing info entirely (again).
+Update July 16: We have deployed the low hanging fruit wording changing requested.  You can see those lower down in this product outline.
+
+Update 8/25: We are reviewing the prioritized NCC list of changes. Matt Self is helping drive some discussions with DEPO on whether we are ok just removing timing info entirely (again).
+
+Update 9/15: We have deployed a change to the Claims side to change the time estimate wording.
 
 ## Product Decisions
 It was decided early on that there would be two paths through the CST rollout. Initially, it was thought that a few low hanging bugs would be fixed and deployed.  However, as the product discovery and initial investigation has progressed, we have received many requests to reduce issues in the existing tool. A lot of Call Center (NCC) data and IRIS data has been getting attention at the CTO and undersecretary level(s). Therefore, we have been working more of a "technical debt" initiative.
@@ -76,8 +133,8 @@ Initial work:
 
 The next round of changes came after a meeting with the NCC.
 ### Prioritized VA.gov Change Requests:
--  Temporarily replace the estimated claim completion date with a general statement.  This will need to be reviewed and reconsidered after the COVID-19 situation has resolved.
--  Allow the Notification Letter to be accessed once the package has been sent via US Mail.
+-  Temporarily replace the estimated claim completion date with a general statement.  This will need to be reviewed and reconsidered after the COVID-19 situation has resolved - *COMPLETED*
+-  Allow the Notification Letter to be accessed once the package has been sent via US Mail - *IN TECH DISCOVERY*
 -  Allow the Veteran to easily view exam information (scheduled date, contact information, etc.) and to submit a request to reschedule an exam if necessary.
 -  Update status of claim language to provide the necessary information to address the status request.
 -  Create option for claimants to easily upload evidence and information to address a pending tracked item and/or submit statement to address tracked item that will close the tracked item.

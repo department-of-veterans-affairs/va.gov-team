@@ -1,6 +1,4 @@
-This is the first draft of this document, which will evolve as we test out these guidelines during [Mobile Month, August 2020.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/mobile-month)
-
-# Mobile Research on VA.gov: Version 1
+# Mobile Research on VA.gov
 
 ## Planning research
 
@@ -48,9 +46,9 @@ x | May be more difficult to use with assistive tech (we’ve heard about strugg
 - Ask Perigean to include in the screener: What kind of mobile (or tablet, if applicable) device do you use?
 
 **If you're using the screen sharing method:**
-- Ask Perigean to have the participants:
-  - Download the Zoom mobile app prior to entering the session (provide links to Zoom app in app store if possible - placeholder for zoom links)
-  - Enable settings on for screen sharing on their device
+- Ask Perigean to walk the participants through:
+  - Downloading the Zoom mobile app prior to entering the session 
+  - Enabling settings on for screen sharing on their device
   
 **If you're using the laptop-hugging method:**
 - Ask Perigean to recruit people who are able to use a laptop, tablet with a stand, or a webcam 
@@ -67,8 +65,23 @@ x | May be more difficult to use with assistive tech (we’ve heard about strugg
 - Confirm with the participant in the beginning of the session that they are using a mobile device (or tablet if applicable), and be prepared to end the session if not
 - Make sure they have the Zoom mobile app downloaded, and be prepared to send them a link to it via email if needed
 - Note that a security warning about exposing sensitive information may pop up upon users sharing their screen via Zoom. Make sure the participant has the chance to read it and agree to it before proceeding. Reassure them that we will save recordings only for the purposes of capturing their experience accurately, and then dispose of them securely within a week.
-- For troubleshooting screen sharing in iOS, [reference the Zoom documentation here](https://support.zoom.us/hc/en-us/articles/115005890803-iOS-Screen-Sharing).
-- For troubleshooting screen sharing on Android, [reference the Zoom documentation here](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen).
+- Give them step-by-step guidance on how to share their screen. 
+   * For iPhone:
+      * Tap ‘Share content’ (Green button at bottom middle of the screen) If you can’t see the zoom menu, tap anywhere on your screen once ant it should appear.
+      * Tap on Screen
+      * Tap Zoom
+      * Tap start broadcast. After a count of 3, the entire device screen will be shared into the meeting
+      * Tap the red bar at the top of your screen when you are ready to end the share
+      * IF THEY CAN'T FIGURE IT OUT
+         * they can tap "share content" then tap "web URL" and just enter in VA.gov
+      * For troubleshooting screen sharing in iOS, reference the Zoom documentation here https://support.zoom.us/hc/en-us/articles/115005890803-iOS-Screen-Sharing
+   * For Android
+      * Tap "Share"
+      * Tap "Screen"
+      * May give a "sensitive info" alert
+      * May ask you to give Zoom permission to display over other apps, toggle yes. The hit the back arrow . Then it might just share your screen.
+      * Tap "Start now" (maybe)
+      * For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen
 - Don't forget to start the recording!
 - Ask your participant to be mindful of thinking outloud since you will not be able to see a mouse cursor go through the prototype
 
@@ -83,5 +96,9 @@ x | May be more difficult to use with assistive tech (we’ve heard about strugg
 - The facilitator moderates the session as planned and observes the user behavior on the screen.
 
 ### Examples
-- [Research plan example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/covid-vaccine-trials/research/research-plan.md)
-- [Conversation guide example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/COVID-screener/convo-guide-study-1.md)
+- Research plan examples 
+   * [Mobile Month Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/cross-team-initiatives/mobile-month/research/research-plan.md)
+   * [COVID vaccine trials](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/covid-vaccine-trials/research/research-plan.md)
+- Conversation guide examples
+   * [Mobile Month Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/cross-team-initiatives/mobile-month/research/conversation-guide.md)
+   * [COVID study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/COVID-screener/convo-guide-study-1.md)

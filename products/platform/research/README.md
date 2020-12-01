@@ -14,6 +14,18 @@ You can contact any of the following about research or adding your reach here:
 
 ## In this folder
 
+### Planning Resources
+
+You can find resources to get you started with your research
+
+- [How VSP does research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/how-vsp-does-research.md) 
+
+- [VSP conversation guide template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/vsp-conversation-guide-template.md) 
+
+- [VSP research plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/vsp-research-plan-template.md) 
+
+<br>
+
 ### Customer Insights
 
 You can find all quartly roundups and survey readouts here.
@@ -41,8 +53,21 @@ Below you can find links to research conducted by VSP. If you've done research, 
 - List of keywords
 
 ------
+### Upcoming Research
 
+#### Documentation - Content and IA
 
+#### Design System - Storybook - Design System
+
+#### Designer User Journey Workshop - Service Design
+
+#### Orientation - Product Support
+
+#### Monitoring Tools - OPS
+
+<br>
+
+### Completed Research
 
 #### Collaboration Cycle v1 Research
 
@@ -63,7 +88,7 @@ Q2 - Q3 2020
 *Service Design: Andrea Chappelear*
 *Product Support: James Chasia*
 
-Q3 2020
+Q3 and Q4 2020 
 
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/support%20tracking)
 
@@ -90,7 +115,19 @@ Q2 2020
 
 Q2 2020
 
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/tools/backend/Product/external-services-research)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/external%20services)
+
+
+<br>
+
+#### Documentation Tooling Research
+
+*Content and IA: Megan Kelley, Gretchen Maciolek, Bill Fienberg, Kristina Gore*
+
+Q2 2020
+
+- [Readout](https://docs.google.com/presentation/d/1FUMIikoxUuMAKd5NhHcOHd6OvP9bnukhALsW6xG5_vY/edit#slide=id.p1)
+- [Tooling Recommendation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/v2/confluence-recommendation-5-2020.md)
 
 
 <br>
@@ -102,3 +139,16 @@ Q2 2020
 Q1 2020
 
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/developer-experience)
+
+<br>
+
+#### Test Account Discovery Sprint
+
+*Service Design: James Chasia, Naomi Marcussen*
+*QA Engineering: Peter Hill*
+*BE Engineering: Keifer Furzland*
+
+Q4 2019
+
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/testing)
+

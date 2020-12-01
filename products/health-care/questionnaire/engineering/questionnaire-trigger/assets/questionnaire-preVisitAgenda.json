@@ -1,0 +1,59 @@
+{
+  "resourceType": "Questionnaire",
+  "meta": {
+    "tag": [
+      {
+        "system": "https://wiki.mobilehealth.va.gov/display/PGDMS/Client+Provenance+Mapping",
+        "code": "a0e116eb-faa1-4703-aafe-1a270128607a",
+        "display": "Get Care"
+      }
+    ]
+  },
+  "status": "published",
+  "publisher": "GetCare",
+  "group": {
+    "title": "Get Care Pre-Visit Agenda Questionnaire",
+    "question": [
+      {
+        "linkId": "01",
+        "type": "string",        
+        "text": "What is the reason for this appointment?"
+      },
+      {
+        "linkId": "02",
+        "type": "text",
+        "text": "What do I want to talk about at this appointment?"
+      },
+      {
+        "linkId": "03",
+        "type": "boolean",
+        "text": "I have new symptoms."
+      },
+      {
+        "linkId": "04",
+        "type": "boolean",        
+        "text": "I have medication questions."
+      },
+      {
+        "linkId": "05",
+        "type": "boolean",        
+        "text": "I have questions about my diagnosis."
+      },
+      {
+        "linkId": "06",
+        "type": "boolean",        
+        "text": "I have questions about my tests."
+      },
+      {
+        "linkId": "07",
+        "type": "boolean",        
+        "text": "I have questions about my treatment plans."
+      },
+      {
+        "linkId": "08",
+        "type": "boolean",        
+        "text": "I have other concerns or life issues to discuss."
+      }
+    ]
+  }
+}

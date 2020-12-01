@@ -1,10 +1,12 @@
-# Program of Comprehensive Assistance for Caregivers
+# Program of Comprehensive Assistance for Family Caregivers
 
 ## Communications
-- GitHub Label: 
-- Slack channel:
-- Product POCs: 
-- Stakeholders: 
+- GitHub Label: #vsa-caregiver
+- Slack channel: #vsa-caregiver
+- DEPO Product Lead: [Ming Ligh](https://github.com/mlighdc)
+- DEPO Engineering Lead: [Mike Chelen](https://github.com/mchelen-gov)
+- Product Manager: [Alayna Abel](https://github.com/ala-yna)
+- Stakeholders: Pam Wright, Cari Malcolm
 
 ## The Problem
 

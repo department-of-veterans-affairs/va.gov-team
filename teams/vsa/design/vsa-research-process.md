@@ -84,6 +84,7 @@ We have to be careful with -- and if possible avoid using -- recordings because 
 [Notes about what (not to) do with recordings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/synthesis/what-to-do-with-recordings.md) 
 
 ## <a id="running-sessions"></a>Running the Sessions
+* Invite your teams to your sessions. Sometimes stakeholders can be invited to view sessions as well. [Read this document on how to invite and issue instructions to observers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md)
 * There is no need to share your video or ask participants to share video. Veterans are not instructed to share or expected to share video because of these reasons:
    * logistics - sometimes getting screensharing up and running is hard enough!
    * bandwidth - Veterans in low bandwidth locations may not be able to share video
@@ -128,7 +129,7 @@ The following process is recommended by the VSA Design Lead:
 3. The day after your last session, share the [topline summary](https://portigal.com/reading-ahead-topline-summary/) with necessary stakeholders that observed sessions and the team and ask if they feel anything was missing based on their observations. Also ask what topics they would like you to focus on when you conduct your detailed synthesis. 
 Note: Caveat the topline summary by saying that detailed synthesis has not yet been done, so things may change in the final report.
 4. Synthesize your research. 
-   * To quickly synthesize, go through all the notes files and recordings files as needed and flesh out your topline summary in the following way:
+   * To quickly synthesize, go through all the notes files and recordings files as needed and, using your topline as a base, create a final research results doc that fleshes out your findings in the following way:
       * Grab quotes to support your themes
       * Make sure you didn't miss any themes in your topline summary
    * If there is time and it's needed, you can do a modified [affinity mapping](https://generalassemb.ly/design/user-experience-design/affinity-mapping) activity.  

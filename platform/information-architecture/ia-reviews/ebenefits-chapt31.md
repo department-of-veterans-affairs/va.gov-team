@@ -1,5 +1,5 @@
 # IA Design and  Recommendations
-**STATUS: IN PROGRESS**
+**STATUS: COMPLETE 09/15/2020**
 
 **Team:** eBenefits
 
@@ -16,11 +16,21 @@
 ### IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements. *
 
+**User Flow(s)**
+- Users will be able to access the new form through the existing content page or directly - they do not need to pass through the content page to access the form.
+- The introduction page of the new form will include a "wizard" that checks the user's eligibility for the program.  Users will be able to skip the wizard or still complete the application despite the results of the wizard. 
+- In the case the wizard finds the user may not be eligible, they will receive a message and/or a link to a related content page.
+- In some cases, the wizard may also promote the PCPG/chapter 36 program but the user will not be automatically sent there. If the user chooses to go to the Ch 36 application, they will need to complete the corresponding wizard on that form. 
+
+Wizard flow:
+
+![image](https://user-images.githubusercontent.com/20994159/93143426-8c30b980-f6ad-11ea-895a-58bfa3ddd6c5.png)
+
+
 **Approach:**
 
 - This work effort includes the addition of an online application.  Static content for this benefit already exists, the new online application will replace the existing link to eBenefits. 
 - Parallel to this work, a separate content effort is also happening to update the program name to "Veteran Readiness and Employment".  The existing URLs, which are not intended to be a branded program name, will continue to utilize "/vocational-rehabilitation". This is the same approach taken with the rebranding of the career counseling program (now PCPG). 
-
 
 ![image](https://user-images.githubusercontent.com/20994159/90073835-8f581480-dcbf-11ea-9efc-a7937057f375.png)
 
@@ -40,19 +50,19 @@ Application | https://www.va.gov/careers-employment/vocational-rehabilitation/ap
 
 Priority | Placement | Link to | Description
 --- | --- | --- | ---
-tbd | Top nav <br> VA Benefits and health care > Careers and employment > Get employment benefits | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/  | Apply now for VR&E link as last option in Get benefits column
-tbd | [Careers and employment hub page](https://www.va.gov/careers-employment/) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply now link with teaser text
-tbd | Careers and employment hub left nav | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply for VRE link
-tbd | [Veteran readiness and employment page](https://www.va.gov/careers-employment/vocational-rehabilitation/) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply now link with teaser text
-tbd | [VRE Eligibility page](https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ | Apply now CTA button under "How do I apply"
-tbd | [VRE how to apply page](https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply now CTA button
-tbd | [VRE programs page](https://www.va.gov/careers-employment/vocational-rehabilitation/programs/) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply for VRE link
-tbd | [VRE programs > Remployment page](https://www.va.gov/careers-employment/vocational-rehabilitation/programs/reemployment) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply for VRE link
-tbd | [VRE programs > Rapid acces to employment page](https://www.va.gov/careers-employment/vocational-rehabilitation/programs/rapid-access-to-employment) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply for VRE link
-tbd | [VRE programs > Self-employment page](https://www.va.gov/careers-employment/vocational-rehabilitation/programs/self-employment) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply for VRE link
-tbd | [VRE programs > Long-term services page](https://www.va.gov/careers-employment/vocational-rehabilitation/programs/long-term-services) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply for VRE link
-tbd | [VRE programs > Independent living page](https://www.va.gov/careers-employment/vocational-rehabilitation/programs/independent-living) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Apply for VRE link
-tbd | [PCPG content page](https://www.va.gov/careers-employment/education-and-career-counseling/) | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ | Add link and possibly content to page
+MUST | Top nav - Careers and employment | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ | Add link to apply as last option in Get benefits column - DISCUSS PLACEMENT & ORDER WITH PW
+MUST | Hub page - Careers and employment <br> https://www.va.gov/careers-employment/ | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Add link and teaser text to "Get career and employment assistance" section to go directly to application/form.  Link should be placed after "How to apply". 
+MUST | Left nav - Careers and employment | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Add link to application/form to left nav immediately after "How to apply".  
+MUST | Content page - Veteran readiness and employment <br> https://www.va.gov/careers-employment/vocational-rehabilitation/ | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Add link to application/form and teaser text to page immediately after "How to apply" link and teaser.  
+MUST | Content page - VRE Eligibility page <br> https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/ | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ | Update "Got to eBenefits to apply" button to reference new form and label. 
+MUST | Content page - VRE how to apply <br> https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/ | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Update "Got to eBenefits to apply" button to reference new form and label. 
+SHOULD | Content page - VRE support and services <br> https://www.va.gov/careers-employment/vocational-rehabilitation/programs/ | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Add a link/button to apply online to the page.
+MUST | Content page - Remployment page <br> https://www.va.gov/careers-employment/vocational-rehabilitation/programs/reemployment | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ | Update "Got to eBenefits to apply" button to reference new form and label. 
+MUST | Content page - Rapid acces to employment page <br> https://www.va.gov/careers-employment/vocational-rehabilitation/programs/rapid-access-to-employment | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Update "Got to eBenefits to apply" button to reference new form and label. 
+MUST | Content page - Self-employment page <br> https://www.va.gov/careers-employment/vocational-rehabilitation/programs/self-employment | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ |  Update "Got to eBenefits to apply" button to reference new form and label. 
+MUST | Content page - Long-term services page <br> https://www.va.gov/careers-employment/vocational-rehabilitation/programs/long-term-services | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ | Update "Got to eBenefits to apply" button to reference new form and label. 
+MUST | Content page - Independent living page <br> https://www.va.gov/careers-employment/vocational-rehabilitation/programs/independent-living | https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/ | Update "Got to eBenefits to apply" button to reference new form and label. 
+SHOULD | Content page - PCPG/Chapt 36 <br> https://www.va.gov/careers-employment/education-and-career-counseling/ | https://www.va.gov/careers-employment/vocational-rehabilitation/ | Add content and link to tthis page to notify user of other program - look at how its represented in the wizard. 
 
 
 

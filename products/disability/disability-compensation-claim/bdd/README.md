@@ -1,11 +1,11 @@
 # Benefits Delivery at Discharge
 
 ## Communications
-- GitHub Label: [???](https://github.com/department-of-veterans-affairs/va.gov-team/labels/???)
+- GitHub Label: [bdd](https://github.com/department-of-veterans-affairs/va.gov-team/labels/bdd)
 - Slack channel: n/a ([#vsa-benefits-memorials](https://dsva.slack.com/channels/vsa-benefits-memorials))
 - Product POCs: Andrea Schneider and Luke Majewski
 - va.gov link: https://www.va.gov/disability/how-to-file-claim/
-- Stakeholders: Barry Cooper and Paul Shute
+- Stakeholders: Barry Cooper (Barrett.Cooper@va.gov), Paul Shute (Paul.Shute@va.gov), Nancy Hogan (Nancy.Hogan@va.gov)
 
 ## The Problem
 Service members who are separating and plan to file for disability can file their claim
@@ -86,6 +86,12 @@ Service members being able to apply for their first VA benefits on VA.gov versus
   - Faster scheduling
 - Convert from BDD to "All Claims"
 - % of "rejected / diverged" BDD claims (input KPI)
+
+- Time to complete BDD form
+  - Does anyone get stuck on a screen for some time?
+  - How many people eventually give up (as a rate/%)
+  - Can we compare this to legacy methods (eBenefits)
+  - Time on page
 
 - Number of BDD claims successfully "adjudicated" within *n* days  (North Star Metric)
 

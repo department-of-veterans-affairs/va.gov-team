@@ -1,4 +1,4 @@
-# My Payment History
+# View your VA payment history
 `WIP`
 - GitHub Label: [vsa-ebenefits](https://github.com/department-of-veterans-affairs/va.gov-team/#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-ebenefits&repos=133843125&showPipelineDescriptions=false)
 - Slack channel: [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)
@@ -33,7 +33,7 @@
 
 ## Abstract
 
-Migrate View Payment history from eBenefits to VA.gov. View Payment History enables logged in users to view a list of payments made by the VA, and details about each payment.
+Migrate "View your VA payment history" from eBenefits to VA.gov. View Payment History enables logged in users to view a list of payments made by the VA, and details about each payment.
 
 ## User Problem Statement
 
@@ -97,12 +97,13 @@ The eBenefits Team will migrate this functionality from EBN to the modern front 
 --- 
 
 ## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
+- Update link on VA.gov to not revert back to eBenefits
+- Possibly update lanugage on eBenefits to repoint
+- Redirect eBenefit feature to VA.gov
 
 ## Target Launch Date
-- *What is your target launch date of your MVP/iteration?*
-- *What is your date for when you'll evaluate impact after launch?*
+- Target launch: December 2020
+- Post launch review: January 2021
 
 --- 
  

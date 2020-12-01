@@ -1,3 +1,4 @@
+
 # VSP Product Outline Template
 
 _**Guidance**_
@@ -55,7 +56,7 @@ _For non-trivial technical solutions, an [engineering design doc](https://github
 - *Launch Date*: TBD
 
 ---
-   
+
 ## Screenshots
 
 _Include before/after screenshots, if applicable. Delete this section otherwise._
@@ -88,7 +89,7 @@ _Link to the following materials as relevant._
 ### Stakeholders
 
 <details>
- 
+
 _What offices/departments are critical to make this initiative successful?_
- 
+
 </details>

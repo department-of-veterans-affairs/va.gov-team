@@ -30,7 +30,7 @@ Service members who are separating and plan to file for disability can file thei
 
 - We have already done integration testing with EVSS and have completed rounds of usabilty with new designs.  This testing is to determine a go/no go decision with rolling out BDD to 25%.
 
--Specifically we want 5 active service members, that are eligible for BDD, submit a real BDD claim in the UAT test. The 5 service members must understand that they are submitting a real BDD claim, be eligible and have all the necessary documents ready for the UAT sessions. They need also to be ready for a VA claim exam 45 days after they submit the claim 
+-Specifically we want 5 active service members, that are eligible for BDD (180-90 days from anticipated separation date), submit a real BDD claim in the UAT test. The 5 service members must understand that they are submitting a real BDD claim, be eligible and have all the necessary documents ready for the UAT sessions. They need also to be ready for a VA claim exam 45 days after they submit the claim 
 
 -We also want 5 VA veterans, (separated 1-89 days ago) that will submit a normal claim. The 5 service members must understand that they are submitting a real claim, be a VA member and be eligible to submit a normal claim, and have all the necessary documents ready for the UAT sessions. They need also to be ready for a VA claim exam 45 days after they submit the claim 
 

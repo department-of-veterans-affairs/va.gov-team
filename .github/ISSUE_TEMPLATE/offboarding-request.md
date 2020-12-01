@@ -2,7 +2,7 @@
 name: Offboarding request
 about: To inform the Platform team when a team VSP or VFS team member has left and needs offboarding. 
 title: Offboarding of [individual]
-labels: product support, operations, Offboarding, analytics-insights
+labels: vsp-product-support, operations, Offboarding, analytics-insights
 assignees: ''
 
 ---
@@ -25,6 +25,7 @@ Fill out name of individual and *Description* section below.
  - [ ] AWS Access removed  (if applicable) 
   > Since there are multible accounts please ensure all are check ie test access.
  - [ ] DSVA Slack (if applicable) 
+  > A comment on this ticket prefixed with `/request` (i.e. `/request FirstName LastName`) will send a message to the Slack admins automatically!
  - [ ] User removed from the VA GitHub Org
    > Fill out request found [here](https://github.com/department-of-veterans-affairs/github-user-requests/issues/new?assignees=moschette%2C+AprilPrimous%2C+KennethC19%2C+michelecmiller&labels=remove-user&template=remove-users-from-va-organization.md&title=REMOVE+USER+FROM+ORG+-+%5BUSERNAME%5D). 
  - [ ] Pagerduty access removed (if applicable) 

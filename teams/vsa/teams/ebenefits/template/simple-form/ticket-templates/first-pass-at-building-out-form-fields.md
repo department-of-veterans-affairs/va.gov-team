@@ -7,15 +7,9 @@ ADD LINK TO MOCKUP WHEN AVAILABLE HERE
 
 ## Tasks
 - [ ] Build out for fields for [Form Name] form in `vets-website`
-- [ ] Copy schema to `vets-json-schema`
-- [ ] Bump version number in package.json in `vets-json-schema`
-- [ ] Update commit hash in package.json in `vets-website`
-- [ ] Submit PR to `vets-website` for review
-- [ ] Run `bundle update vets_json_schema` in `vets-api`
 - [ ] Submit PR to `vets-api` for review
 
 ## Acceptance criteria
-- [ ] All form fields in the latest mockup have been added to the [Form Name] form
-- [ ] A PR has been submitted to `vets-json-schema` for review
+- [ ] Form fields in the latest mockup have been added to the [Form Name] form
 - [ ] A PR has been submitted to `vets-website` for review
-- [ ] A PR has been submitted to `vets-api` for review
+

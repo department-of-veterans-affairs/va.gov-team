@@ -31,6 +31,6 @@ For users working on an Apple laptop or desktop, Safari and VoiceOver included i
 
 If you want to test NVDA on an Apple or Linux device, you will need to create a virtual machine. Microsoft has removed support for Windows 7, so you will have to create a Windows 10 VM. This can significantly decrease performance on your machine; we recommend testing with all non-essential services and applications turned off.
 
-* If you're working on a Mac: [VirtualBox MacOS build instructions]([https://www.virtualbox.org/wiki/Mac%20OS%20X%20build%20instructions](https://www.virtualbox.org/wiki/Mac OS X build instructions))
+* If you're working on a Mac: [VirtualBox MacOS build instructions](https://www.virtualbox.org/wiki/Mac%20OS%20X%20build%20instructions)
 * If you're working on a Linux distro: [VirtualBox downloads for common distros](https://www.virtualbox.org/wiki/Linux_Downloads)
 * [Download an official Windows 10 iso](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) 

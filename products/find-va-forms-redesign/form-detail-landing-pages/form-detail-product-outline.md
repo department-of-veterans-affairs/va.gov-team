@@ -5,9 +5,9 @@ This is a brief description of form detail landing pages. Form detail LPs are a 
 
 Form (pdf) URL vs. _Form detail landing page_: 
 
-__A VA form page:__ https://www.va.gov/vaforms/medical/pdf/10-10EZ-fillable.pdf 
+__A URL to a VA form:__ https://www.va.gov/vaforms/medical/pdf/10-10EZ-fillable.pdf 
 
-__A VA form detail landing page:__ www.va.gov/vaforms/form_detail.asp?formno=10ez
+__A URL to a VA form detail _landing page_:__ www.va.gov/vaforms/form_detail.asp?formno=10ez { [see screenshot of legacy page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/forms-landing-pg-10-10EZ.png) -- all legacy form pages are now redirected to the modern exp}
 
 Search research indicates that the VA forms and many legacy form detail LPs have high organic search value. However it has no conversion value for online tools and content. Therefore, we have identified for MVP, the top 30ish forms that correspond to a VA.gov tool or online application. With this MVP:
 

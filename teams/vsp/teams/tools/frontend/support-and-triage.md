@@ -19,16 +19,20 @@ During the sprint, you should monitor the following Slack groups for issues:
 * [#vfs-frontend](https://dsva.slack.com/channels/vfs-frontend) (individual requests)
 
 - **For small issues in the platform**: Fix it yourself
-- **For longer platform related solutions**: If the fix requires more than a couple of hours of work, coordinate with the FE Tools Leads (Megan Kelley, Rian Fowler) to determine if we need to delegate or defer the work
+- **For longer platform related solutions**: If the fix requires more than a couple of hours of work, coordinate with the FE Tools Leads (Megan Kelley, Dan Shank) to determine if we need to delegate or defer the work
 - **For tasks in applications owned by another team**: Create a ticket and delegate it to someone on that team- preferably an engineering lead or a product manager
 
 _Your primary responsibility is to remain available to quickly acknowledge and triage issues in these channels. You can enlist help from the FE tools team if needed to maintain this availability._
+
+### Monitor deployment
+
+See [this](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/tools/frontend/troubleshooting-build-failures.md) document about monitoring and troubleshooting deployments
 
 ### Support requests
 
 Support requests include every interaction you have with a VSF team member. Even trivial interactions should be tracked for oversight and process improvement. 
 
-- Create an issue describing the request in GitHub and link it to the [Global Customer Support epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3675). 
+- Create an issue describing the request in GitHub 
 - Tag the issues with fe-tools, assign it to yourself, and prepend the title of the Ticket with *[Support] -*. 
 - Track any work done with comments. 
 - Summarize any solutions and failed attempts so the issue can be referred to again in the future if necessary. 
@@ -36,7 +40,7 @@ Support requests include every interaction you have with a VSF team member. Even
 
 ### Pull requests 
 
-Ensure that no pull requests have been waiting on the @department-of-veterans-affairs/frontend-review-group more than 24 hours for a response. This includes follow-ups to reviews. When possible, rely on other FE team members to do PR reviews (e.g. ask for a volunteer and assign the PR to them).
+Ensure that no pull requests have been waiting on the @department-of-veterans-affairs/frontend-review-group more than 24 hours for a response. This includes follow-ups to reviews. 
 
 ### Oncall support
 
@@ -48,7 +52,7 @@ The oncall developer may reach out to the frontend support dev to assist with tr
 
 Production website Sentry errors should be reviewed at least once a rotation and up to weekdaily as time permits. 
 
-Browse [website-production Sentry](http://sentry.vfs.va.gov/vets-gov/website-production/) and monitor the [#vfs-sentry-alerts](https://dsva.slack.com/channels/vfs-sentry-alerts) channel.
+Browse [website-production Sentry](http://sentry.vfs.va.gov/organizations/vsp/events/?environment=production) and monitor the [#vfs-sentry-alerts](https://dsva.slack.com/channels/vfs-sentry-alerts) channel.
 The [#vfs-sentry-alerts](https://dsva.slack.com/channels/vfs-sentry-alerts) channel is configured to receive alerts that meet one of the following criteria:
 * First occurrence of an issue
 * High volume of an error occurring
@@ -59,9 +63,3 @@ If there’s a new error, investigate. If there’s an error that you feel you m
 
 - Update documentation when resolving support requests. Ideally we have documentation we can link to when resolving support requests. 
 - The backlog has many issues tagged with _documentation_ that can be addressed. 
-
-### Process improvement 
-
-At the end of the rotation, there will be a short handoff meeting between PM, FE lead, and the previous/next rotations' support dev to discuss
-- Ongoing support issues that need to be taken over by the next developer in the rotation
-- Patterns in support issues that merit process improvement

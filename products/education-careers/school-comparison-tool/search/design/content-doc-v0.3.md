@@ -27,21 +27,21 @@ Veteran Employment Through Technology Education Courses (VET TEC) is a 5-year pi
 
 Will you be taking any classes in person? ([Learn more]()) { Modal link } { Radio buttons }  
 
-{ Learn more modal content}
+{ Learn more modal content } { NOTE: Since the housing question also appears on the search and profile pages, the modal copy will be the same there for the learn more. }
 
-_HOUSING ALLOWANCE CONTENT REQUIRES APPROVAL FROM EDU / DEPO_
+_HOUSING ALLOWANCE CONTENT REQUIRES APPROVAL FROM EDU / DEPO_  
 
-**Where you take classes determines your housing allowance**
+**Your housing allowance is determined by where you take classes**  
 
-Under the GI Bill you’re eligible to receive a monthly housing allowance whether you take classes in-person or online. We calculate the monthly housing allowance based on where you take those classes.
+Under the GI Bill you’re eligible to receive a monthly housing allowance. We calculate this monthly housing allowance based on where you take classes.  
 
-If you're using Post-9/11 GI Bill benefits to take at least 1 in-person class, your housing allowance will be based on where you do most of your coursework. If you're taking distance-learning courses only, we’ll pay you a housing allowance based on 50% of the national average.
+If you use Post-9/11 GI Bill benefits to take at least 1 in-person class, your housing allowance is based on where you do most of your coursework. If you take online courses only, your housing allowance is based on 50% of the national average.  
 
-Through Dec. 21, 2020, current and new students can receive in-person rates if the school converted their approved program from in-person to online training due to COVID-19.
+Through Dec. 21, 2020, current and new students can receive in-person allowance rates if their school’s approved program changed from in-person to online learning due to COVID-19.  
 
-[View the current housing allowance payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp?_ga=2.144591223.39405460.1542131207-1582256389.1508352376).
+[View the current housing allowance payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp?_ga=2.144591223.39405460.1542131207-1582256389.1508352376)  
 
-{ end modal }
+{ end modal }  
 
  * Yes { Default selection }
  * No   
@@ -66,7 +66,7 @@ Enter a school, employer name, city, or zip code { Search/filter text field }
 
 Make changes below to update your results:  
 
-Country { dropdown } { ALL is default value }  
+Country { dropdown; ALL is default value }  
 
 State { dropdown with full state names; ALL is default value }   
 
@@ -93,7 +93,7 @@ Select an institution { radio buttons }
 
 Type of school or employer { dropdown with types of institutions ; ALL is default value }  
 
-Programs { default selection = none } { checkboxes }  
+Programs { checkbox; default selection = none } 
 - [ ] Student Vet Group
 - [ ] Yellow Ribbon
 - [ ] Principles of Excellence
@@ -104,7 +104,7 @@ Programs { default selection = none } { checkboxes }
 
 Your military details { additional information component }
 
-What's your military status? { dropdown, conditional field may appear below }
+What's your military status? { dropdown; conditional field may appear below }
 
 Which GI Bill benefit do you want to use? ([Learn more]()) { dropdown, conditional fields may appear below }  
 
@@ -135,21 +135,21 @@ Your housing allowance { additional information component }
 
 Will you be taking any classes in person? ([Learn more]()) { Modal link } { Radio buttons }  
 
-{ Learn more modal content}
+{ Learn more modal content } { NOTE: Since the housing question also appears on the landing and profile pages, the modal copy will be the same there for the learn more. }  
 
-_HOUSING ALLOWANCE CONTENT REQUIRES APPROVAL FROM EDU / DEPO_
+_HOUSING ALLOWANCE CONTENT REQUIRES APPROVAL FROM EDU / DEPO_  
 
-**Where you take classes determines your housing allowance**
+**Your housing allowance is determined by where you take classes**  
 
-Under the GI Bill you’re eligible to receive a monthly housing allowance whether you take classes in-person or online. We calculate the monthly housing allowance based on where you take those classes.
+Under the GI Bill you’re eligible to receive a monthly housing allowance. We calculate this monthly housing allowance based on where you take classes.  
 
-If you're using Post-9/11 GI Bill benefits to take at least 1 in-person class, your housing allowance will be based on where you do most of your coursework. If you're taking distance-learning courses only, we’ll pay you a housing allowance based on 50% of the national average.
+If you use Post-9/11 GI Bill benefits to take at least 1 in-person class, your housing allowance is based on where you do most of your coursework. If you take online courses only, your housing allowance is based on 50% of the national average.  
 
-Through Dec. 21, 2020, current and new students can receive in-person rates if the school converted their approved program from in-person to online training due to COVID-19.
+Through Dec. 21, 2020, current and new students can receive in-person allowance rates if their school’s approved program changed from in-person to online learning due to COVID-19.  
 
-[View the current housing allowance payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp?_ga=2.144591223.39405460.1542131207-1582256389.1508352376).
+[View the current housing allowance payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp?_ga=2.144591223.39405460.1542131207-1582256389.1508352376)   
 
-{ end modal }
+{ end modal }  
 
  * Yes { Default selection }
  * No   
@@ -176,7 +176,7 @@ Enter a school, employer name, city, or zip code { Search/filter text field }
 
 Make changes below to update your results:  
 
-Country { dropdown } { ALL is default value }  
+Country { dropdown; ALL is default value }  
 
 State { dropdown with full state names; ALL is default value }   
 
@@ -203,7 +203,7 @@ Select an institution { radio buttons }
 
 Type of school or employer { dropdown with types of institutions ; ALL is default value }  
 
-Programs { default selection = none } { checkboxes }  
+Programs { checkboxes; default selection = none }   
 - [ ] Student Vet Group
 - [ ] Yellow Ribbon
 - [ ] Principles of Excellence
@@ -230,7 +230,7 @@ Learn more about [GI Bill program benefits and eligibility requirements](https:/
 
 Cumulative Post-9/11 active-duty service ([Learn More]()) { dropdown }  
 
-{ Learn more modal content}
+{ Learn more modal content }
 
 **Cumulative Post-9/11 service**
 
@@ -244,7 +244,7 @@ Your housing allowance { additional information component }
 
 Will you be taking any classes in person? ([Learn more]()) { Modal link } { Radio buttons }  
 
-{ Learn more modal content}
+{ Learn more modal content }
 
 _HOUSING ALLOWANCE CONTENT REQUIRES APPROVAL FROM EDU / DEPO_
 
@@ -265,13 +265,13 @@ Through Dec. 21, 2020, current and new students can receive in-person rates if t
  
 { end additional info component }  
 
-{ Bottom sheet - floats above all filters as user scrolls:: }  
+{ Bottom sheet - floats above all filters as user scrolls }  
 
 [ See results (NN) ] { Secondary Button - lists # of results as they update. Collapses filter view to standard view with school cards }  
 
 { END IF MOBILE }  
 
-### Search results - VET TEC  
+## Search results - VET TEC  
 
 ### NN Search results { If 1 result, should say "1 Search result". Heading is H1 }  
 
@@ -285,7 +285,7 @@ Enter a program, provider, city, or zip code { Search/filter text field }
 
 Make changes below to update your results:  
 
-Country { dropdown } { ALL is default value }  
+Country { dropdown; ALL is default value }  
 
 State { dropdown with full state names; ALL is default value }  
 
@@ -303,13 +303,13 @@ To learn more about caution flags, [visit the About this Tool page](https://www.
 
 { end modal content }
 
-- [ ] Exclude results with warnings or closings { default selection = none } { checkbox } 
+- [ ] Exclude results with warnings or closings { checkbox; default selection = none }  
 
 { Preferred provider filter: } 
 
-- [ ] Preferred provider { star icon} ([Learn more]()) { modal link } { default selection = none } { checkbox }  
+- [ ] Preferred provider { star icon} ([Learn more]()) { modal link } { checkbox; default selection = none }  
 
-{ Learn more modal content}
+{ Learn more modal content }
 
 **Preferred training providers**
 
@@ -325,7 +325,7 @@ Filter by provider { default selection = none } { Checkboxes }
 
 [ Filter ] { Button - expands into filter view where school cards are not visible } 
 
-{ Expanded filter view: }  
+{ Expanded filter view }  
 
 #### Search by keyword { Heading is listed as H2 for screenreaders, but it is equivalent to H3 in font size. }
 
@@ -337,7 +337,7 @@ Enter a program, provider, city, or zip code { Search/filter text field }
 
 Make changes below to update your results:  
 
-Country { dropdown } { ALL is default value }  
+Country { dropdown; ALL is default value }  
 
 State { dropdown with full state names; ALL is default value }  
 
@@ -361,7 +361,7 @@ To learn more about caution flags, [visit the About this Tool page](https://www.
 
 - [ ] Preferred provider { star icon} ([Learn more]()) { modal link } { default selection = none } { checkbox }  
 
-{ Learn more modal content}
+{ Learn more modal content }
 
 **Preferred training providers**
 
@@ -376,3 +376,32 @@ Filter by provider { default selection = none } { Checkboxes }
 [ See results (NN) ] { Secondary Button - lists # of results as they update. Collapses filter view to standard view with program cards }  
 
 { END IF MOBILE }  
+
+
+## Profile page - Standard
+
+{ Estimate Your Benefits - accordion: }  
+
+{ Learning format and location - mini accordion: }  
+
+Will you be taking any classes in person? ([Learn more]()) { Modal link } { Radio buttons }  
+
+{ Learn more modal content } { NOTE: Since the housing question also appears on the landing and search pages, the modal copy will be the same there for the learn more. }  
+
+_HOUSING ALLOWANCE CONTENT REQUIRES APPROVAL FROM EDU / DEPO_  
+
+**Your housing allowance is determined by where you take classes**  
+
+Under the GI Bill you’re eligible to receive a monthly housing allowance. We calculate this monthly housing allowance based on where you take classes.  
+
+If you use Post-9/11 GI Bill benefits to take at least 1 in-person class, your housing allowance is based on where you do most of your coursework. If you take online courses only, your housing allowance is based on 50% of the national average.  
+
+Through Dec. 21, 2020, current and new students can receive in-person allowance rates if their school’s approved program changed from in-person to online learning due to COVID-19.  
+
+[View the current housing allowance payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp?_ga=2.144591223.39405460.1542131207-1582256389.1508352376)   
+
+{ end modal }  
+
+ * Yes { Default selection }  
+ * No   
+ 

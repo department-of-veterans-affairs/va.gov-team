@@ -6,10 +6,37 @@ The CMS team's mission is to empower VA content editors with the tools they need
 
 Our work includes
 * Content modeling
-* Structured content templates
+* Structured content 
 * Editorial workflows
 * Governance
 
+## CMS-supported products at VA.gov
+
+A product is defined as a set of related features that drive specific outcomes with vets or other audiences. They typically are built with a cluster of content types.  
+
+Products owned by Facilities team
+1. **VAMC system** (eg www.va.gov/pittsburgh-health-care). Eventually housing 1200+ VHA facilities across 150 VAMC systems. 
+1. **Facility status** for VBA facilities, NCA facilities, and Vet Centers (each of these represent stubs of future products)
+
+Products owned by Public Websites 
+1. **VA.gov megamenu** (and possibly in the future, footer)
+1. **VA.gov homepage** 
+1. **Benefits hubs** (www.va.gov/health-care and 10 other benefits hubs)
+1. The Benefits **Outreach hub** at https://www.va.gov/outreach-and-events/
+1. **Resources and support** www.va.gov/resources
+1. **Campaign Landing Page** 
+
+Products owned by Decisions Tools team
+1. **VA forms** www.va.gov/find-forms (formerly owned by Public Websites) 
+
+Content libraries that are shared across products
+1. **Banners and alerts** (owned primarily by Public Websites, but other products can create alert blocks)
+1. **Media library** (videos, images, PDFs)
+
+Products in the queue
+1. **Cemetery**
+1. **Vet Center**
+1. **Regional Office**
 
 
 ## A guide to CMS Documentation 
@@ -27,50 +54,34 @@ Documentation about the CMS lives in various places
 
 * [va.gov-cms-team](https://github.com/department-of-veterans-affairs/va.gov-cms-team) may house private team documentation. It may replace the CMS team's current use of Confluence.
 
-## CMS-supported products at VA.gov
-
-A product is defined as a set of related features that drive specific outcomes with vets or other audiences. They typically are built with a cluster of content types.  
-
-The CMS is built with Drupal and currently supports 6 main products at VA:
-1. Benefits hubs (eg www.va.gov/health-care and 10 other benefits hubs)
-1. VAMC systems (eg www.va.gov/pittsburgh-health-care). Eventually housing 1200+ VHA facilities
-1. Homepage and Global UX elements such as the header, footer, and homepage alerts
-1. The Benefits outreach hub at https://www.va.gov/outreach-and-events/
-1. Facility status for VBA facilities, NCA facilities, and Vet Centers (each of these represent stubs of future products)
-1. VA forms (launching early July 2020)
-
-In development
-* VA Forms (Public Websites)
-
-In design/discovery
-* Campaign landing page (Public Websites)
-* Learning center (Public Websites)
-* Covid chatbot (Covid Chatbot team)
-* Covid screener (Covid Screener team)
-
 
 ## How to Reach Us
 
-The CMS points of contact are:  
-- Kevin Walsh, Product Manager - Slack `@Kevin Walsh`
-- Clarence Maeng, Delivery Manager - Slack `@Clarence Maeng`
-- Jeff Brauer, Program Manager - Slack `@Jeff Brauer`
-- Steve Wirt, Tech Lead - Slack `@Steve Wirt`
+The CMS has two teams, a Core Application Team and Product Support Team.
+
+Core Application
+- Oksana Cyrwus, Product Manager - Slack `@Oksana Cyrwus`
+- David Addison, Delivery Manager - Slack `@David Addison`
 - Elijah Lynn, DevOps Lead - Slack `@Elijah Lynn`
 - Jordana Mello, Design Lead - Slack `@Jordana Mello`
-- Howard Brande, Help Desk / Support manager Slack `@Howard Brande`
+
+Product Support
+- Kevin Walsh, Product Manager - Slack `@Kevin Walsh`
+- Clarence Maeng, Delivery Manager - Slack `@Clarence Maeng`
+- Steve Wirt, Tech Lead - Slack `@Steve Wirt`
+
+Program management
+- Jeff Brauer, Program Manager - Slack `@Jeff Brauer`
 
 Slack channels:
 - [#cms-support](https://dsva.slack.com/channels/cms-support) 
 - [#cms-team](https://dsva.slack.com/channels/cms-team)
 
-Github/Zenhub labels:
-- `cms-team`? (TBD)
 
 ## Table of contents
 
 **CMS documentation**
-- prod.cms.va.gov/documentation
+- prod.cms.va.gov/help
 
-**How to Work with IA Team**
-- [Working with the CMS team (Rules of Engagement)](working-with-cms-team.md)
+**How to Work with CMS team**
+- [Working with the CMS team (Rules of Engagement)](working-with-cms-team.md) (work in progress)

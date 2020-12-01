@@ -1,4 +1,12 @@
-# Accessibility Review Step-by-Step
+# Accessibility Dev Review Step-by-Step
+
+<hr/>
+
+**[Rate this documentation](https://forms.gle/D3urPe2VbLqVd5pcA)**
+
+We'd like to know if the documentation is meeting your needs, and welcome your feedback!
+
+<hr/>
 
 - [ ] Deque axe browser scan audit to identify accessibility issues
 - [ ] Deque axe-coconut browser scan audit to identify leading edge accessibility issues
@@ -18,4 +26,4 @@
 - [ ] If the issues are related to Leaflet or Mapbox, add the 508-issue-leaflet-mapbox label, then add to the [spreadsheet on the Vendor tab]((https://docs.google.com/spreadsheets/d/1v1TjvvXaTOun1ZFBoOVeDqZlQVr5leD_YVEnDPntxLI/edit#gid=0)). Keep the team assigned to the issue.
 
 
-Use [this accessibility review roadmap](https://docs.google.com/spreadsheets/d/19ZH_1imuTKHQfyMbOU5IKHwPDb_LGUqnnwoeMbKXH9I/edit#gid=0) this checklist to itemize and document review.
+Use [this accessibility review spreadsheet](https://docs.google.com/spreadsheets/d/19ZH_1imuTKHQfyMbOU5IKHwPDb_LGUqnnwoeMbKXH9I/edit#gid=0) to itemize and document review steps.

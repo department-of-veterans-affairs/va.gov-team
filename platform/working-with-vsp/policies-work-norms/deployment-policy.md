@@ -1,4 +1,12 @@
-*Last updated 2020-01-27*
+*Last updated 2020-10-21*
+
+# Deployment Policies
+
+## Deployment Strategy
+
+We intend to keep our repositories **always deployable from master branches**. The deployment schedule below describes when deployments typically happen, but deployments from master branches may occur at any time. VA.gov does not use release branches; instead, we maintain a focus on keeping the master branches healthy.
+
+For finer control over when your checked-in feature is released, see [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/).
 
 # Automated Deploys
 
@@ -30,11 +38,13 @@ The holiday release freeze is in effect during the following dates:
 * 09/07 - **Labor Day**
 * 11/11 - **Veteran's Day**
 * 11/25 - 11/27 - **Thanksgiving**
-* 12/23 - 1/1/2020 - **Winter holiday freeze** (note: *eight business days*)
+* 12/23 - 1/1/2021 - **Winter holiday freeze** (note: *eight business days*)
 
 # Requesting out-of-band deploys
 
 If there is a _critical issue_ that needs to be resolved outside the automated deployment schedule, explicit permission must be granted for an out-of-band deploy.
+
+See [Resolving critical issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/resolving-critical-issues.md) for recommended approaches to issue resolution (i.e. when to revert, when to fix forward).
 
 For every out-of-band deploy requested, VSP team will expect a follow-up [postmortem](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Postmortems) from the requesting team, explaining the context that led to the problem and proposing follow-up actions to prevent similar future problems.
 
@@ -54,20 +64,13 @@ When in doubt on whether an issue is _critical_ enough for out-of-band deploymen
 
 ## Step-by-step process for out-of-band deployment approval
 
-1. You must reach out to VSP DEPO leadership (currently, Kevin Hoffman or Dror Matalon) who will escalate this request to Chris Johnston for approval.
+1. You must reach out to VSP DEPO leadership (currently, Kevin Hoffman, Dror Matalon, or Rachael Roueche) who will escalate this request to Chris Johnston for approval.
 1. Once approved, contact the [VSP DevOps oncall](https://dsva.pagerduty.com/schedules#PGIEA8Q) through the [#oncall channel](https://dsva.slack.com/archives/C30LCU8S3) to coordinate the release.
 1. Within two business days of this incident, send a PR with a [postmortem](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Postmortems), including any relevant stakeholders, VSP DEPO leadership, and any VSP team members involved in resolving the incident as reviewers.
 
-## Step-by-step process for deployment
+# See also
 
-1. To deploy this change to production, the release job is run with the git SHA for the commit to deploy.
-1. The auto-deploy boolean flag must be set to `FALSE` on the job.
-1. The release tag is captured and then used as input for the matching deploy job.
-1. There are "special" jobs for `vets-website` and `vets-api` which will run both the release and deploy of `master` in one operation.
-
-# Rails database migrations
-
-If a Rails database migration is needed for your code to work successfully, that is handled through a separate process:
-
-1. Wait for the Jenkins Slack bot to post an `Unapplied database migrations` notification in [#devops-deploys](https://dsva.slack.com/channels/devops-deploys).
-1. Once the notification has posted, log a request to the DevOps team in the [#vetsgov-devops](https://dsva.slack.com/channels/vetsgov-devops) Slack channel, asking them to inspect the changes and run the post-deploy job.
+* [Resolving critical issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/resolving-critical-issues.md)
+* [Postmortems](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Postmortems)
+* [PagerDuty DevOps oncall](https://dsva.pagerduty.com/schedules#PGIEA8Q)
+* [#oncall channel](https://dsva.slack.com/channels/oncall)

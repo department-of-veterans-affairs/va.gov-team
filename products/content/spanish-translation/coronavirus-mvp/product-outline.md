@@ -11,7 +11,7 @@ VA has existing guidance for complying with Executive Order 13166, Improving Acc
 
 We also don't have a full understanding of our low English proficiency audience, including the number of people who may need or want translated content, what languages they most need content in, or what their health literacy, cultural, or other needs might be. Gaining a better understanding of our audience will help us ensure that our translated content delivers the greatest possible value.
 
-Congress has recently asked VHA to provide  COVID-19 content (and other essential content) in Spanish. We want to help meet this important and timely need while also working toward an effective and sustainable approach for the future.
+Congress has recently asked VHA to provide COVID-19 content (and other essential content) in Spanish. We want to help meet this important and timely need while also working toward an effective and sustainable approach for the future.
 
 **How might we meet these 3 important, but potentially disparate goals, at the same time?** 
 1. Provide essential COVID-19 content in Spanish for our LEP Veterans and family members
@@ -25,7 +25,7 @@ Congress has recently asked VHA to provide  COVID-19 content (and other essentia
 
 ## Undesired User Outcomes
 
-- Veterans and family members find machine-translated content confusing or unhelpful
+- Veterans and family members find content confusing or unhelpful
 - Veterans and family members can't easily find or use translated content
 
 ## Desired Business Outcomes
@@ -45,23 +45,31 @@ Congress has recently asked VHA to provide  COVID-19 content (and other essentia
 
 ### Key Performance Indicators (KPIs)
 
-- Analytics around the use of the translation open on select page(s)
+- Analytics around the use of the translation on select page(s)
 - Satisfaction survey connected to translation
 - Call center inquiries
 - Direct user feedback via usability testing
 
 #### Baseline KPI Values
 
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+From March 15, 2020, to October 11, 2020, these are the total number of users visiting the coronavirus FAQs in languages other than English:
+
+- es-us - Spanish (United States): 11,459 
+- es-419 - Spanish (Latin America and Caribbean region): 4,658
+- es-xl - Spanish (Mexico?): 4,569
+- es-es - Spanish (Spain): 3,507
+- zh-ch - Chinese (People's Republic of China): 684
+- ko-kr - Korean (Korea): 422
+- de-de - German (Germany): 124
+- ko - Korean: 97
+- fr-fr - French (France): 51
 
 ### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
 
-- Objective: Meet Veterans' and their family members' need for COVID-19 information about VA health care and benefits in Spanish.
-  - Key result: Users select the option to translate the COVID-19 FAQs page into Spanish.
-  - Key result: Users report a satisfactory experience with the translated content.
-  - Key result: 
-
+- Objective: Meet Veterans' and their family members' need for COVID-19 information about VA health care and benefits in Spanish while gathering data to inform recommendations for a longer-term localization solution.
+  - Key result: Provide high-quality translation of the coronavirus FAQs page and coronavirus research volunteer list page/form by January 20, 2020.
+  - Key result 2: Analyze data aroud usage of, and need for, VA content in Spanish by May 2020.
+  - Key result 3: Research localization best practices and potential tools and processes for recommendation by May 2020.
 
 ---
 
@@ -69,15 +77,17 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
 
 - Some Veterans and their family members need or prefer COVID-19 content about VA health care and benefits in Spanish.
-- We can optimize our content for translation enough that the Google translate widget will be an acceptable translation option for our MVP.
-- Users will be able to find and easily toggle to translated content.
+- We can optimize our content for translation enough that the Google translate widget will be an acceptable translation option for our MVP. **Update:** We are finding through best practice research, conversations with localization experts, and quality assessments, that we likely will need to incorporate a human factor into translation. 
+- Users will be able to find and easily toggle to translated content. **Update:** We are finding that we'll likely need a unique url for the page in order to make the translated content findable and be able to track user intent in coming to the page.  
 
 ## Solution Approach
 
 - *What are you going to build now, and why have you decided to start there?*
-We are going to start with a Google translate widget on the coronavirus FAQs page. We'll then widen translation (widget or API) to the health care benefit hub, and then further as data shows is warranted. We've decided to start there for 2 primary reasons:
+We are going to start with translating the coronavirus FAQs page via front-end solution (not involving Drupal). We'll then widen translation to the health care benefit hub, and then further as data shows is warranted. **Update:** We are focusing first on all coronavirus content (FAQs + coronavirus research) and we are exploring options for technical solution.
+
+We've decided to start there for 2 primary reasons:
 1) VA doesn't have the data to show user needs at this time. This solution allows us to begin gathering data quickly to help inform a longer-term solution.
-2) This approach requires no Drupal integration. At this time, we don't have the resources for efforts that do require Drupal support.
+2) This approach requires no Drupal integration. At this time, we don't have the people capacity for efforts that do require Drupal support.
 
 - *Why this solution / approach over other solutions / approaches?*
 This is the quickest and simplest solution that allows us to start providing translated content while quickly gathering the data we need to inform a longer-term solution.
@@ -92,8 +102,8 @@ We'll base the evolution on data and user feedback. We expect that we'll move to
 
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
-We'll need to reach specific audiences who may need content translated into Spanish.
-
+We'll need to reach specific audiences who may need content translated into Spanish. We aim to do this through:
+  
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 Outreach may include:
   - Working with the VA health equity office, center for minority Veterans, patient advocates, and relevant VSOs to communicate to LEP Veterans and family members that we invite them to try this offering and give us feedback to help us improve the experience.
@@ -102,16 +112,18 @@ Outreach may include:
 
 ## Launch Dates
 - *Target Launch Date*
-  - October 15, 2020 for first iteration (translate widget on coronavirus FAQs page)
+  - October 15, 2020 for first iteration (coronavirus FAQs page) - **Update:** Delayed due to lack of people capacity and ability to implement as well as concerns with Google Translate widget quality. We are now aiming for January 20, 2021 for coronavirus FAQs page + coronavirus research volunteer list.
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch?*
-  - December 31, 2020 (for synthesizing data)
+  - **Updated:** 3 months post launch
 ---
 
 ## Solution Narrative
 
 ### Current Status
+
+Preparation work continued, but development work was delayed due to lack of people and ability to implement as well as concerns with Google Translate widget quality. We are kicking off this project with the VSP platforms team on 11.24.20.
 
 ### Key Decisions
 
@@ -130,10 +142,10 @@ Outreach may include:
 <details>
 
 - Team Name: Public websites (in collaboration with OCTO Health)
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: Jenny Heiland-Luedtke
+- GitHub Label: localization-mvp
+- Slack channel: #localization-mvp 
+- Product POCs: Danielle Thierry
+- Stakeholders: Jenny Heiland-Luedtke (VHA), Sandy Tadeo (VBA)
 
 </details>
 
@@ -141,9 +153,9 @@ Outreach may include:
 
 <details>
  
- - DEPO Lead: Danielle Thierry 
- - PM: TBD
- - Engineering: Mike Chelen (consulting)
+ - DEPO Lead: Danielle Thierry (Patrick Bateman for coronavirus research work)
+ - PM: NA for now 
+ - Engineering: Fareez Ahmed
  - Research/Design: TBD
  
 </details>

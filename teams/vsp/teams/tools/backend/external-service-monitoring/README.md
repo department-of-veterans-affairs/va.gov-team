@@ -6,7 +6,7 @@ This folder contains tools used for managing external service monitoring reports
 
 ### Generate External Service Performance report
 
-These instructions explain how to use the `Selenium::WebDriver` based script to capture snapshots of each External Service dashboard.
+These instructions explain how to use the `Selenium::WebDriver` based script to capture snapshots of each external service dashboard.
 
 #### Prerequisites:
 
@@ -22,17 +22,26 @@ These instructions and corresponding script assume the following:
 1. Login to GitHub and use OAuth to login to [Grafana](http://grafana.vfs.va.gov)
 1. Find your profile name by navigating to `about:profiles` in the Firefox address bar - the active profile name is what you're looking for
 1. Close any open instances of your browser - in order to avoid errors with Selenium
-1. Substitute the profile name above for `$PROFILE` and run the following command:
+1. Substitute the profile name above for `$PROFILE` and run the following command from this directory:
 
-`PROFILE_NAME=$PROFILE bin/build-reports`
-
-This should output some status information as the browser runs in the background, and will generate a collection of screenshots in `./screenshots`.
+`PROFILE_NAME=$PROFILE bin/capture-slo-screenshots`
 
 **Do not open additional Firefox windows while the script is running.**
 
+This should output some status information as the browser runs in the background, and will generate a collection of screenshots in `tmp/screenshots`.
+
+Once this is completed (~5-15min) generate the PDF by running this command:
+
+`bin/generate-service-docs`
+
+This will generate a set of PDFs in `reports/`.
+
+Please upload this report to the [#vfs-all-teams](https://dsva.slack.com/archives/CE4304QPK) channel as well as the
+[historical reports](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/external-service-monitoring/historical-reports) directory.
+
+
 #### Known Issues
 
-- Mac OSX requires you find the extension path and manually load it into the profile
 - Must have browser windows closed or Selenium will throw exception(s)
 - Doesn't capture the overall panel view yet, that's gotta be done manually
 - Very brittle and hard-coded backend tags will drift out of sync with reality

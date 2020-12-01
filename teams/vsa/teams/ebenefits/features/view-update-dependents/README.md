@@ -26,7 +26,7 @@
 - [Discovery Takeaways](#discovery-takeaways)
 - [Solution Approach](#solution-approach)
 - [Value Propositions](#value-propositions)
-- [KPIs](#okrs--kpis)
+- [OKRs & KPIs](#okrs--kpis)
 
 ### Implementation Information
 - [Status](#status)
@@ -127,6 +127,22 @@ A [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 ## OKRs & KPIs
 
+**Objective 1:** Greater discoverability and number of Veterans applying to get benefits associated with their dependents.
+- Key Results 1: Data shows the **number of views of the [686 benefit hub page](https://www.va.gov/disability/add-remove-dependent/) has increased since migration**; statistically significant increase in traffic
+- Key Results 2: Data shows **more applications are being successfully submitted**; statistaclly significant increase in number of approved submissions 
+
+**Objective 2:** Faster delivery of benefits obtained for the Veteran.
+- KR1: Data shows that **more 686 applications are being automatically approved within the Rules Based Processing Service (RBPS)**; RBPS is automatically processing statistically significantly more 686 applications 
+- KR2: Data shows a **decrease in time to manually approval of 686 forms** upon submission compared to previous instance (Paul Schute)
+- KR3: **Increase ratio of RBPS submissions / submissions sent to manual processing** 
+
+**[Future] Objective 3:** <discoverability>
+- KR1: 
+  
+**[Future] Faster time to Manage Dependents (i.e. complete form)**
+- KR1: Data shows that the **new 686 user experience within VA.gov results in a faster fill out time** compared to the eBenefits portal
+ - broken down time by workflow/need (e.g. new child vs. divorce)
+
 ## KPIs
 
 Current
@@ -147,26 +163,7 @@ North Star Metric
 ### Baselines
 - tbd
 
-## OKRs
-
-**Objective 1:** Greater discoverability and number of Veterans applying to get benefits associated with their dependents.
-- Key Results 1: Data shows the **number of views of the [686 benefit hub page](https://www.va.gov/disability/add-remove-dependent/) has increased since migration**; statistically significant increase in traffic
-- Key Results 2: Data shows **more applications are being successfully submitted**; statistaclly significant increase in number of approved submissions 
-
-**Objective 2:** Faster delivery of benefits obtained for the Veteran.
-- KR1: Data shows that **more 686 applications are being automatically approved within the Rules Based Processing Service (RBPS)**; RBPS is automatically processing statistically significantly more 686 applications 
-- KR2: Data shows a **decrease in time to manually approval of 686 forms** upon submission compared to previous instance (Paul Schute)
-- KR3: **Increase ratio of RBPS submissions / submissions sent to manual processing** 
-
-**[Future] Objective 3:** <discoverability>
-- KR1: 
-  
-**[Future] Faster time to Manage Dependents (i.e. complete form)**
-- KR1: Data shows that the **new 686 user experience within VA.gov results in a faster fill out time** compared to the eBenefits portal
- - broken down time by workflow/need (e.g. new child vs. divorce)
-
-
-Communication
+### Communication
 - there's a discoverability aspect to this; how are we effectively communicating what's needed and when
 - shared understanding
   - "why are they asking for this?" they ~ the Veteran

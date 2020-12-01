@@ -1,0 +1,87 @@
+<html>
+<head>
+<title>WebAcceptor Help</title>
+ <link rel="stylesheet" type="text/css" href="../WebAcceptor.css" />
+</head>
+<body style="rgb(89,89,89);font-size:12px;font-family:Arial;">
+<h1>WebAcceptor Help</h1>
+<h3>Prerequisites:</h3>
+<p>Before running the application, the Vault name or IP has to be set in the html page for the sample web app where the IContextor.js file is included. 
+Open the WebAcceptor.html in any text Editor (eg. notepad). In the html you will find a tag <b>&lt;script type="text/javaScript" src="<i>http(s)://insert_name_or_ip</i>/websdk/IContextor.js"&gt;</b>. Add name or IP in <b>src</b>.
+</p>
+<p>
+This is an help document which will guide the user with the following mentioned operations viz. Join, Get Context, Set Context, Suspend Context, Resume Context, Leave Context. The detailed information is provided below.
+</p>
+<h3>WebAcceptor Dashboard</h3>
+<p>This is the landing page with the Join option enabled to join to the Context. There is an activity indicator below the buttons which will indicate the status for the current activity.</p>
+<img class="imgHelp" src="WebAcceptorDashBoard.png" alt="WebAcceptorDashBoard" />
+<h3>Join Common Context</h3>
+<p>
+<ul>
+ <li>Join button is used to participate in the context.</li>
+ <li>Once the join is clicked, on the successful response the Status section will update as <b>Status: Joined</b> and returns a participant coupon displayed under <b>Participant Coupon</b> as shown below.</li>
+ <li>Once joined successfully join button will be disabled as shown and all other buttons will be enabled.</li>
+ <li>If it fails there will be a message with the error description and error code and the buttons will remain disabled.</li>
+</ul>
+</p>
+<img class="imgHelp" src="WebAcceptorJoinContext.png" alt="WebAcceptorJoinContext" />
+<h3>Get Context</h3>
+<p>
+<ul>
+ <li>On click of the Get Context we get the current context coupon and the patient information as shown below.</li>
+ <li>Patient Information table shows only available information set in the context.</li>
+ <li>If there is a failure there will be a message with the error description and error code.</li>
+ </ul>
+</p>
+<img class="imgHelp" src="WebAcceptorGetContext.png" alt="WebAcceptorGetContext" />
+<h3>Set Context</h3>
+<p>
+<ul>
+ <li>On click of Set Context the user is allowed to set the patient information from the patient drop down.</li>
+ <li>If there is no response from the other participating application within allotted time then a message is shown as <b>Cannot set context as some applications did not accept the context change.</b> In this case context change will be cancelled.</li>
+ <li>If another application can accept the context change conditionally then a message is shown as <b>Cannot set context as some applications are not responding. Do you want to force context change?</b> with two option <b>OK|Cancel</b> as shown below. On click of <b>OK</b> button an attempt will be made to enforce context change. If successful, success message is shown. If user selects <b>Cancel</b>, context change will be cancelled.</li>
+ <li>If there is a failure there will be a message with the error description and error code.</li>
+ </ul>
+</p>
+<img class="imgHelp" src="WebAcceptorSetContext.png" alt="WebAcceptorSetContext" />
+<img class="imgHelp" src="WebAcceptorForceChangeSetContext.png" alt="WebAcceptorSetContext" />
+<h3>Suspend Context</h3>
+<p>
+<ul>
+ <li>On click of suspend the user suspend the context, the Status section will update as <b>Status: Suspended</b> indicating no active participation in the context.</li>
+ <li>If there is a failure there will be a message with the error description and error code.</li>
+</ul>
+</p>
+<img class="imgHelp" src="WebAcceptorSuspendContext.png" alt="WebAcceptorSuspendContext" />
+<h3>Resume Context</h3>
+<p>
+<ul>
+ <li>On click of resume the user will resume the previously suspended context and the Status section will update as <b>Status: Resumed</b></li>
+ <li>If there is a failure there will be a message with the error description and error code.</li>
+</ul>
+</p>
+<img class="imgHelp" src="WebAcceptorResumeContext.png" alt="WebAcceptorResumeContext" />
+<h3>Leave Context</h3>
+<p>
+<ul>
+ <li>On click of leave, application will be removed from the context and the Status section will update as <b>Status: Left</b></li>
+</ul>
+</p>
+<img class="imgHelp" src="WebAcceptorLeaveContext.png" alt="WebAcceptorLeaveContext" />
+<h3>Next Page</h3>
+<p>
+<ul>
+ <li>A link is provided as shown in the below example to navigate between application pages.</li>
+</ul>
+</p>
+<img class="imgHelp" src="WebAcceptorNextPageLink.png" alt="WebAcceptorLeaveContext" />
+<h3>Error Case</h3>
+<p>
+<ul>
+ <li>If any of the above operation fails the a respective error code is displayed with corresponding message.</li>
+ <li>If there is a failure there will be a message with the error description and error code and Join button will remain disabled except if the participant is unknown and will allow user to join again.</li>
+</ul>
+</p>
+<img class="imgHelp" src="WebAcceptorError.png" alt="WebAcceptorError" />
+</body>
+</html>

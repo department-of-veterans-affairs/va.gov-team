@@ -1,8 +1,53 @@
 # High Level Product Decisions: 21-686c Application
-**VSA eBenefits Team | May 2020**  
+**VSA eBenefits Team | August 2019 - Present**  
 
 This is to help guide and memorialize decisions made about different functionalities and behaviors for the feature we are working with.  
 -------------
+
+## Deeper View Dependents Functionality  
+`October 14, 2020`  
+**Pick up existing users and provide easier removal of them through the application**  
+  
+_Note/ Guiding principles_
+- There is more than one gateway into the application; View Dependents AND in the application itself
+- We could inject the list of available dependents within the workflow adn allow them to be selected and move on through the form and have the dependents represented exactly as in the system.  
+- Some logic might need to be involved to check and see who is on award, or who is applicable for that based on aging out etc
+  - FE good design for constency, but implemnting this might be larger than anything we have done so far: The Form System doesn't allow for injection
+  - FE: Quickest, most elegant might be to stay out of the form all together (can we do that?)
+    - On VD, with those on award, they can simply click REMOVE and be presented with a review and confirmation screen with language that says "you are submitting a 686c/674"
+  - BE: VD call gives us dep on award with a fair number of attributes, including participant id.  VA file number and SSN would have to fetched from user object
+- Steve: $250M/year that gets over paid by tax payers
+- Steve: We might end up knowing more about their status and may need to indiate pending or verbiage that supports the notion that the user could go to Claim Status or something like that
+- Might have to implment a review + confirmation screen (with privacy policy + langauge etc)
+- FE: Is there a time in the future where this is unauthenticated?  SK: No, not enough value where they could go another route (paper/VSO) 
+
+
+**TL;DR - what does this mean?  what do we do next?**
+Tickets to write:
+- For removal functions, lets define everything beyond the simple remove button
+- [What is in the View Dependents call](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/dependents_applications/getDependents)
+
+------------
+## Dynamic Form Attribute for 686/674 
+`October 2020`  
+**We send a specific attribute based on what is submitted and this poses an issue when the 674 workflow gets selected because we can't submit two at once.**  
+Options
+- 686 and 674 could be duplicated and submitted separately down to two email confirmations ✔
+- limit workflows based on another selection (eh)
+
+Short term
+- limit with a check box?
+
+Long term
+- establish view dependents and manage the submissions based on that
+  
+_Note/ Guiding principle_
+- Derek is going to game out some steps to take and propose them 
+
+**TL;DR - what does this mean?  what do we do next?**
+
+------------
+
 ## Silent Submission Failures  
 `Team Meeting July 16, 2020`  
 **Ticket: [[SPIKE] Cross Discipline Analysis of User Feedback for Form Submissions #11270](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11270)**  

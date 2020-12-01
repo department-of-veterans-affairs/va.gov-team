@@ -1,10 +1,10 @@
 # Getting access to tools
 
-Setting up all of the following tools while you onboard will make time on VSP easier.
+Setting up all of the following tools while you onboard will make time on the DEPO Platform easier.
 
-**Everyone** working on VSP should follow steps in this document to get access to Slack, GitHub, and ZenHub.
+**Everyone** working on the DEPO Platform should follow steps in this document to get access to Slack, GitHub, and ZenHub.
 
-**Developers** working on VSP should **also** follow steps in this document to get access to Jenkins, Grafana, and Sentry.
+**Developers** working on the DEPO Platform should **also** follow steps in this document to get access to Jenkins, Grafana, and Sentry.
 
 ## Slack
 
@@ -30,7 +30,8 @@ Setting up all of the following tools while you onboard will make time on VSP ea
     * This process is managed by the VA GitHub admins, not by VSP, and may take a few days to process. 
 
 1. Once your ticket is processed, check your email for an invitation to the VA GitHub Organization, and join!
-
+    * Note: Make sure you are signed into the correct github account before you accept the invitation.
+    
 1. Once you've been added, add information to your Github profile:
     * Organization: ```Your company name```
     * Working on: ```The project your team is working on```, e.g., "526 ancillary forms"
@@ -55,7 +56,7 @@ Several internal tools for development are only accessible within the VA network
 
 1. Create new SSH keys.
     * [Windows instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#creating-an-ssh-keypair-in-windows)
-    * [Mac/Linux instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key).
+    * [Mac/Linux instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#creating-an-ssh-keypair-in-mac-or-linux).
 
 ### Request access
 

@@ -35,12 +35,15 @@ During user acceptance testing (UAT), actual users test the service/tool/feature
 
 * The entire team should be involved in this process, including design, research, engineering, and product. 
 * Designers and Product Managers should work together to create the UAT Conversation Guide.
+* Make sure your developers are sitting in the actual sessions so they can help troubleshoot and see what's going on
 
 
 ### Scheduling
 * Schedule a UAT after you've fully tested the service/tool/feature in lower environments and are confident that it will work as intended **in the production environment**.
 * Plan in advance! And have a plan if your service/tool/feature doesn't pass the UAT.
 
+### Preparation
+* Consider creating a spreadsheet with tasks for each row and partcipant numbers for columns, to quickly keep track of what worked and didn't work in the session.
 
 ### Considerations
 
@@ -81,6 +84,13 @@ Here are some examples to help you understand when you must test with Veterans v
   * But asking participants to fill out the 526 form that surrounds the 4142 is tedious and does not help your team's work on the 4142 form.
 * You design the UAT so that the UAT moderator completes the surrounding 526 form for the participant. And passes control to the participant at the point where the 4142 form is triggered (and again at the point when the 4142 returns to the 526).
 * **You can use a General or Veteran audience for UAT.**
+
+#### How many people should I recruit for UAT?
+It depends on how many test cases you need and how specific those cases are. You're trying to validate that what is supposed to show up shows up, what is supposed to go through goes through.
+
+A rule of thumb is ask for 3-5 per test case - if your thing works as intended for 3-5 people you have some increased confidence that your thing is working. If it doesn't work on P1 but your engineers can troubleshoot on the session and see what's wrong and fix it by P2, that's good too. Assume some attrition, so you also need to ask for enough participants that you actually get to cover every case. 
+
+And finding unicorn test cases is harder for our recruiters, so make sure you're specific in your test cases in your recruiting plan and that you allow for enough time for them to find the right people to match your needs. You may want to write your own screener questions that you give the recruiters to make sure you get the correct participants.
 
 <hr>
 

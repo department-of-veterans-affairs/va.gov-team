@@ -6,7 +6,7 @@
 - GitHub Label(s): `external-service`
 - Slack Channel: [#vsp-tools-be](https://dsva.slack.com/archives/CQHBJ5U06)
 - Product POCs: Alex Pappas
-- Stakeholders: Dror Matalon, Andrew Gunsch
+- Stakeholders: Dror Matalon, Michael Fleet
 
 #### Team Members
 
@@ -95,6 +95,15 @@ Tool is performing well if:
 ---
 
 #### Product Roadmap:
+
+##### Next Steps
+
+###### DataDog Migration
+Migrate current SLO reporting from Promethaus/Grafana into DataDog
+Re-create required metrics in DataDog
+Schedule weekly (or other time frame) reports
+
+##### Future
 
 - Build utilities and self-service feature for reporting workflow (S3 log subscriptions, cron job, etc)
 - Work with the VSP Insights & Analytics team to integrate external performance monitoring into their workflow(s).

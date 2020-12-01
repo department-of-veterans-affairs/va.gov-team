@@ -1,3 +1,44 @@
+### 10/23 Update
+
+  - User Testing recruitment is underway; sessions are scheduled to start on Nov. 2
+  - Disability and Education Wizard prototype/specs are done -- we only have to incorporate changes from usability.
+  - Button issue (which is on how to apply pages) - Mikki wants to have a conversation about what each Apply Online Button now says (questions about character count, etc.)
+
+
+### 10/8 Update
+
+  - Liz completed UX/Content refinements outlined for the Education Wizard via an page-by-page [interactive prototype](https://preview.uxpin.com/ca08f3dbf63475b2b62f3e8c00050ad1b19c4cb5#/pages//simulate/no-panels?mode=i)
+  - Liz walked FE engineers Craig Wheeler (Education) and Robin Garrison (Disabilty/Appeals) through the prototype outlining the changes this week — and they are up-to-speed and confident about how to implement.  John is following up with the PMs for both teams to get a sense of implementation timelines.
+      - Designer Kevin Stachura of BAM 1 will create hi-fi mock-ups and documentation based on the HLR flow (#13382).  HLR is a new online application scheduled to go into UAT ~October 15th, with a staged production roll-out targeted for early November. (Note: It was determined that the UAT session would not be effective as a proxy for veteran user testing.)
+  - Liz is now working to determine if she can conduct a light-weight usability session with a small group of veterans to get insight into some [key questions.]( https://github.com/department-of-veterans-affairsz/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/discovery/research/wizard-research-plan.md) 
+- John is following up with ...
+  - Analytics to make sure they understand the changes given the possible implications to the original [instrumentation approach.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13060)
+  - Jen Lee to confirm that there is no hard deadline driving our progress/delivery date for Education and Disability (e.g. Links from the Find a Form page).
+ - Next up for Liz and team:
+   - [Disability prototype with refinements](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/13378)
+   - [Chapter 31/36 prototype with refinements](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/13381)
+
+### 10/2 Update
+
+- In meeting with Matt Self, we finalized two requirements:
+  - The wizard should be placed on all education form application pages.
+  - The skip button should be a global element for the wizard.
+- Rationale: One of the key drivers of this initiative is to reduce number of “incorrect” applications for benefits (e.g. the veteran is not eligible), so the Wizard should serve as a lite-weight gating tool.  The  skip button makes this relatively frictionless.
+- Follow up: John and Matt to connect with Amy Knox and Luke Tickner early next week to make sure there is alignment/agreement on this "global approach" as Amy had indicated earlier that she did not believe the Wizard was necessary for the Rogers STEM application.
+
+### 9/29 Update
+- As time/capacity allows (balancing #1 PW priority Learning Center and Iris), Liz (with Peggy and Mikki's help) is continuing to work on UX comps and Content documentation to detail changes and enhancements -- with focus on Disability and Education.
+
+  - Wizard migration - create consistent alerts, and provide messaging to indicate where the user is going across wizards va.gov-team #13379
+  - Wizard migration - UX deliverables for education flow va.gov-team #13374
+  - Write documentation for teams implementing wizard migration effort va.gov-team #13375
+  - Wizard migration - UX deliverables for disability flow va.gov-team #13378
+  - Wizard migration - UX deliverables for Chap 31 and Chap 36 va.gov-team #13381
+  - Wizard migration - UX deliverables for HLR form va.gov-team #13382
+
+ -  Ideally, user testing with veterans will be conducted prior to launch (or after launch) to address questions and/or validate assumptions as [outlined here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/discovery/research/wizard-research-plan.md)
+ - In order to conduct upfront testing, we will need resource help -- either from a new UX/Researcher who is expected to join the Public Websites team in Oct-Nov timeframe or via another team involved in Wizard development (Liz to see if BAM 2/Education team can be of assistance).
+
 ### 9/10 Update
 
 - John made Jen Lee aware that Platform review will result in more design/content work; we now need to determine if Liz has capacity and priority to tackle this effort in current or next PW sprint.

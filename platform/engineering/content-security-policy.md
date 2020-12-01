@@ -1,5 +1,7 @@
 # Content Security Policy 
 
+"Content Security Policy (CSP) is an added layer of security that helps to detect and mitigate certain types of attacks, including Cross Site Scripting (XSS) and data injection attacks. These attacks are used for everything from data theft to site defacement to distribution of malware." —[Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+
 This document is an overview of how Va.gov implements, uses, and manages a content security policy. This document assumes you have an understanding of CSP, CSP directives and a high level understanding of Va.gov's infrastructure (specifically where the reverse proxy sits in the content delivery flow).
 
 ## Generation of CSP
@@ -26,7 +28,8 @@ The following applies when editing the CSP:
   - The only way to test the CSP is to add it to an environment and monitor the logger for violations 
 - Updates to the CSP must be in pull requests without other changes to enable easy rollback 
 - The updater is responsible for monitoring the CSP logger after changes are pushed into production
-- The CSP should be backwards compatible to version 1.0 to ensure maximum coverage
+- The CSP should be backwards compatible to version 1.0 to ensure maximum coverage. Use the [CSP quick reference guide](https://content-security-policy.com/) for this task. 
+- Validate the CSP header using the [CSP Evaluator](https://csp-evaluator.withgoogle.com/). Current process for this is to deploy changes to staging and capture the header from a browser request / response. 
 
 CSP configurations:
 
@@ -52,8 +55,17 @@ This is an overview of the third party managed scripts allowed to run on Va.gov.
 |[Medallia](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/README.md)|Survey tool|
 |[Uservoice](https://github.com/department-of-veterans-affairs/va.gov-team/search?q=user+voice&unscoped_q=user+voice)|Survey tool|
 |[YouTube](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/README.md)|Embedded video used on "Know Before You Go" video on GI Bill Comparison Tool.|
+  
+## Approval for new third party scripts 
+
+[TBD](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14056)
+
+## Quarterly review process
+
+[TBD](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14056)
 
 ## Related info 
 - [Strict csp](https://csp.withgoogle.com/docs/strict-csp.html)
 - [CSP directives](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy)
 - [Locking down your website scripts with csp hashes, nonces, and report-uri](https://www.troyhunt.com/locking-down-your-website-scripts-with-csp-hashes-nonces-and-report-uri/)
+- [CSP quick reference guide](https://content-security-policy.com/)

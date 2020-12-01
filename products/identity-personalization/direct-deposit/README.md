@@ -1,4 +1,4 @@
-# Direct Deposit Product Outline
+# Direct Deposit for Compensation & Pension Payments: Product Outline
 Last Updated July 6, 2020
 
 ## POCs
@@ -65,7 +65,6 @@ The full background on Direct Deposit is found [here](https://github.com/departm
 - As a Veteran, I want to securely access and change my compensation and pension direct deposit information so I can receive the money that I've earned from the VA.
 - As a Veteran, I want to securely change my compensation and pension direct deposit information if I switch banks or need to receive money in a different bank account.
 - As a Veteran who receives paper checks from the VA, I want to be able to switch to receive payments via direct deposit.
-
 
 ## Solution Goals
 

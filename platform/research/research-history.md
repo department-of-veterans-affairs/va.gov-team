@@ -12,9 +12,81 @@ This does not include research for Appeals projects, which is stored in differen
 - List of keywords
 
 ------
+###  2020
 
+### November 2020
+
+#### November 19 - December 15: 526 Usability test (PTSD flow)
+*GovernmentCIO, BAM 1. Lead researcher: Christian Valla
+
+-16 participants (4-8 therapists / social workers. 8-12 veterans) 
+
+- [Research folder](https://docs.google.com/document/d/1Ubm4_fD6y0S-CJ1UgQXuhiZ8-g2KupO7k9gtzRTYIV8/edit?usp=sharing)
+
+#### October 15 - November 3:  Comparison Tool Redesign Research
+*Booz Allen: Amy Knox, Jen Jones, Emma Waters*
+ - 10 Veteran/non-Veteran beneficiaries, 5 School Certifying Officials, 20+ stakeholders
+ - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/school-comparison-tool/redesign/research)
+ - **Keywords:** Comparison Tool, school search, school selection 
+
+#### November 2 - 4 : Wizard Migration Usability Study
+*Public Websites: Liz Lantz, Christian Valla, Megan Gayle, Josh Kim*
+- 5 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards/discovery/research)
+- **Keywords:** wizard pattern, education benefits, alerts
+
+#### September 17 - November 9 : IRIS / Contact Center Content Process Research
+*Public Websites: Liz Lantz*
+- 31 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/iris)
+- **Keywords:** Call center, contact center, content governance, IRIS, Oracle Service Cloud, help desk, GI Bill help desk, MHV technical support, LEAF
+
+### October 2020
+
+#### October 15 - 19 : Usability Testing the MVP Upcoming Appointment Questionnaire
+*Ad Hoc: VSA Health care Experience/Questionnaires, Kristen McConnell*
+- 8 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/research/mvp-usability)
+- **Keywords:** Veterans, Questionnaires, Upcoming appointment, Primary care, Health care, Usability testing 
+
+#### September 30 - October 16 : Vet Center - Veteran Client - Discovery Interviews
+*Ad Hoc: VSA Facilities, Leyda Hughes*
+- 15 participants (8 clients)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/veteran-interviews)
 
 ### August 2020
+
+#### August 20 - November 30: UAT testing. HLR and BDD.
+*GovernmentCIO, BAM 1. Lead researcher: Christian Valla
+
+-12 participants 
+
+- [Research folder] N/A.
+
+#### August 31 - September 11: Learning center nomenclature card sort
+*Public Websites: Liz Lantz*
+- 39 Veteran participnts, 9 SME participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort)
+
+**Keywords:** categorization, nomenclature, tags, categories, audience, topics, labels, content authoring, tier 2, benefit-adjacent, VA account and profile, Records
+
+#### August 20-28 : Vet Center - Outreach Specialist - Discovery Interviews
+*Ad Hoc: VSA Facilities, Leyda Hughes*
+- 5 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/outreach-specialist-interviews)
+
+#### August 19-20: VA.gov mobile study (mobile month)
+*VSA: Shawna Hein and Liz Lantz*
+- 6 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/cross-team-initiatives/mobile-month/research)
+**Keywords:** mobile usability, mobile header, navigation, more in this section, right rail, claim status, facility locator, map view, alert usability
+
+#### August 10-14
+*VA Lighthouse APIs: Lauryl Zenobi*
+- 9 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/patient-generated-data)
+**Key words:** Veterans, Clinicians, PGD, Wearables, Data-sharing, Clinical workflows
+
 
 #### August 10 - 12
 *CTO health team: Ryan Thurlwell*
@@ -36,6 +108,15 @@ This does not include research for Appeals projects, which is stored in differen
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research)
 
 ### July 2020
+
+#### July 7-30: VAOSr and Express Care
+*DEPO team, Melissa Schaff*
+
+- 15 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/july-2020-user-research)
+- [Report/synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/july-2020-user-research/2020-july-VAOSR-EC-research-report.md)
+
+**Keywords**: vaos, vaosr, online scheduling, express care, covid, coronavirus, user research, usabilty testing 
 
 #### July 13-16: Facility Locator - Urgent Care Mashup (usability test)
 *Ad Hoc: VSA Facilities, Leyda Hughes*
@@ -59,7 +140,7 @@ This does not include research for Appeals projects, which is stored in differen
 #### June 25-29: Claim status tool. Usability test / Collaborative design exersise 
 *GovernmentCIO, BAM 1. Lead researcher: Christian Valla
 
--12 participants
+-12 participants 
 
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/research/co-design-usability-June)
 
@@ -103,14 +184,28 @@ This does not include research for Appeals projects, which is stored in differen
 
 **Keywords**: covid, coronavirus, screener, mobile, user research, usabilty testing
 
-#### May 11-15: Logged-in Homepage Redesign, Co-design sessions
+#### May 11-15: My VA Redesign discovery (formerly logged-in homepage discovery)
 *Authenticated Experience, Liz Lantz*
 
-- 10 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research) 
-- This study was part of a larger discovery effort including [stakeholder interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/stakeholder-interviews/stakeholder-interview-synthesis.md), a [comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/comparative-analysis.md), a [review of analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/analytics/analytics-summary.md), and a [review of past research studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/previous-research-review.md).
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research) 
+- [Full discovery summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md)
+- This discovery included:
+  - [Veteran dashboard co-design sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md)
+  - [Stakeholder interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/stakeholder-interviews/stakeholder-interview-synthesis.md)
+  - [Comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/comparative-analysis.md)
+  - [Review of analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/analytics/analytics-summary.md)
+  - [Review of past research studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/previous-research-review.md)
 
-**Keywords**: personalization, dashboard, notifications, alerts, co-design, collaborative design, participatory design, generative research
+**Keywords**: My VA redesign, personalization, dashboard, notifications, alerts, co-design, collaborative design, participatory design, generative research
+ 
+#### May 1-8: Express Care
+*DEPO team, Melissa Schaff*
+
+- 11 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/express-care-research/2020-may-research)
+- [Report/synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/express-care-research/2020-may-research/express-care-research-report.md)
+
+**Keywords**: express care, virtual care, online appointments, video appointments, urgent care, vaos, covid, coronavirus, user research, usabilty testing 
  
 #### May 06: Comparative analysis. Status tracking
 *BaM 1, Lead Researcher: Christian Valla*
@@ -134,6 +229,11 @@ This does not include research for Appeals projects, which is stored in differen
 *BaM2, Rebecca Walsh & Riley Orr*
 - 10 participants 
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool/research/usability-march20)
+
+#### April 6-10: Combining profile and account (Profile 2.0)
+*Authenticated Experience, Tressa Furner*
+- 5 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research)
 
 #### April 2-20: COVID-19 Information & Chatbot
 *ThoughtWorks, Todd Stanich*

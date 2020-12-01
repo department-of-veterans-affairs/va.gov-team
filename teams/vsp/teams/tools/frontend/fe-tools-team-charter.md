@@ -6,14 +6,13 @@
 
 ### Team Members:
 - Product Manager: @Megan Kelley
-- Frontend engineering lead: @Rian Fowler
+- Frontend engineering lead: @Dan Shank
 - Frontend engineer: @eugene_doan
-- Frontend engineer: @Brooks Johnson
+- Frontend engineer: @Tim Wright
 - Frontend engineer: @Jhonny Gonzalez
 - Frontend engineer: @Bill Fienberg
-- Frontend engineer: @Dan Shank
+- Frontend engineer: @Chris Alexander
 - Frontend engineer: @Theo Bentum
-- Frontend engineer: @chris.valarida
 
 ---
 
@@ -46,9 +45,9 @@ Create and maintain solutions for VFS teams to deliver high-quality and cohesive
 #### Stand-up
 Check in on people and product progress
 
-- Daily 11:30AM ET
-- 15 min
-- 3 Question Format: What I did yesterday? What will I do today? Any impediments?
+- Daily 12 PM ET
+- 15 min standup, 15 min parking lot as needed
+- Give updates by project
 
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals

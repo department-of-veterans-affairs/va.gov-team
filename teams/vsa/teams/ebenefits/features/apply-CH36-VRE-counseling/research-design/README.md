@@ -30,8 +30,9 @@
 ---
 
 ### Prototype Changelog
-**September 9 (Upcoming fix), 2020**
-- Revised address block text/accordion revision
+**September 16, 2020**
+- Revised wizard flow to remove disability question
+- Added disability/CH31 text to wizard screen, intros and confirmation page
 
 **September 8, 2020**
 - Unused accordions removed from Review Screens across all workflows

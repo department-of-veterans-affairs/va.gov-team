@@ -5,7 +5,7 @@
 - **Author(s):** Keifer Furzland
 - **Last Updated:** June 25, 2020
 - **Status:** **Draft** | In Review | Approved
-- **Approvers:** John Paul Ashenfelter [ ], Michael Fleet \[ \], Andrew Gunsch \[ \], Alex Pappas \[ \],
+- **Approvers:** Philip Becker \[ ], Michael Fleet \[ \], Alex Pappas \[ \],
 
 ## Overview
 ### Objective

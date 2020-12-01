@@ -1,44 +1,13 @@
 # EVSS Post-9/11 GI Bill and VA Letters - Engineering Assets
 
-## How to set up OpenVPN
-
-You need Open VPN in order to access the AWS CI (local dev) data.
-
-### Windows Install/Setup
- 
-1. Go to URL: https://vpn.evss.srarad.com/?src=connect
-2. Login via credentials you were provided for your VPN account (on this site, in the dropdown choose the 'login' option vs. 'connect')
-3. Click Go
-4. Click: OpenVPN Connect for Windows -Save file and install
-5. Launch OpenVPN. this will put an Icon in the System Tray
-6. Click on the Orange OpenVPN logo and click Connect
-
-### MAC Install/Setup
- 
-1. Install Tunnelblick 3.6.0 or later: https://tunnelblick.net
-2. Go to URL: https://vpn.evss.srarad.com/?src=connect
-3. Login via credentials you were provided for your VPN account (on this site, in the dropdown choose the 'login' option vs. 'connect')
-4. Download the client.ovpn configuration file. It's the last link on the URL mentioned above with anchor text "Yourself (user-locked profile)"
-  a. If you are prompted to install OpenVPN Connect, download from the link provided and install. Then return to step 2.
-  b. If the OpenVPN Connect installer won't open, right click it and selected Open
-5. Create a new folder called TunnelblickConfig
-6. Copy client.ovpn from step #4 into TunnelblickConfig folder
-7. Rename the new folder by adding .tblk extension to the TunnelblickConfig folder name
-8. Double click TunnelblickConfig.tblk so it'll load in Tunnlebrick and import your connection config
-9. Navigate to your Applications/OpenVPN Connect folder and run the uninstaller to remove openvpn-connect if you installed it in step #4
-
-NOTE:  You may need to suppress your security configuration and/or enter admin passwords on the Mac multiple times as the applications and config file aren't going to be trusted
- 
-https://csra-evss.atlassian.net/wiki/display/ST/WSS+CI+Dev+Env+-+AWS#WSSCIDevEnv-AWS-AWSVPN
 
 ## Endpoints
 
 INT1
-- AWS CI (Local dev) : https://csraciapp6.evss.srarad.com
+
 - INT (Dev): https://int.ebenefits.va.gov:444/wss-education-services-web/rest/education/chapter33/v1
 - PINT (Staging): https://pint.ebenefits.va.gov:444/wss-education-services-web/rest/education/chapter33/v1
 - Prod: 
-
 
 ## 6 traits for ID.me for login and e2e testing are:
 
@@ -64,14 +33,6 @@ INT1
 
 ## Test Users
 
-### CI
-
-| First Name | Last Name | Middle Name | Gender | DOB | $$N | Email | PW |
-|---|---|---|---|---|---|---|---|
-| Gary | Todd | | M | 11/12/1955 | 796066621 | vets.gov.user+277@gmail.com | Zm9ydHkgdHdv |
-| Jean | Picard | | M | 10/01/1977 | 301010301 | vets.gov.user+278@gmail.com | Zm9ydHkgdHdv |
-| Srikanth | Vanapalli | | M | 11/12/1955 | 796066620 | vets.gov.user+279@gmail.com | Zm9ydHkgdHdv |
-
 ### INT
  
 | First Name | Last Name | Middle Name | Gender | DOB | SSN | Scenario | Email | PW |
@@ -83,19 +44,21 @@ INT1
 
 ## API docs
 
-You must be connected to the EVSS OpenVPN (see above instructions) to try the following.
+You must be connected to the VA network to try the following.
 
 ### Letters
 
-[Swagger UI](https://csraciapp6.evss.srarad.com/wss-lettergenerator-services-web/swagger-ui/index.html?url=https://csraciapp6.evss.srarad.com/wss-lettergenerator-services-web/rest/swagger.yaml#/letters)
+[Swagger UI](https://int.ebenefits.va.gov/wss-lettergenerator-services-web/swagger-ui/index.html?url=https://int.ebenefits.va.gov/wss-lettergenerator-services-web/rest/swagger.yaml#/letters)
 
-Swagger yaml: https://csraciapp6.evss.srarad.com/wss-lettergenerator-services-web/rest/swagger.yaml
+[copy](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/index.html?url=https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/veteran-military-records/swagger-va-letters.yaml)
 
 ### GI Bill Status
 
-[Swagger UI](https://csraciapp6.evss.srarad.com/wss-education-services-web/swagger-ui/index.html?url=https://csraciapp6.evss.srarad.com/wss-education-services-web/rest/swagger.yaml#/educationchapter33)
+[Swagger UI](https://int.ebenefits.va.gov/wss-education-services-web/swagger-ui/index.html?url=https://int.ebenefits.va.gov/wss-education-services-web/rest/swagger.yaml#/educationchapter33)
 
-Swagger yaml: https://csraciapp6.evss.srarad.com/wss-education-services-web/rest/swagger.yaml
+Swagger yaml: https://int.ebenefits.va.gov/wss-education-services-web/rest/swagger.yaml
+
+[copy](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/index.html?url=https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/education-careers/statement-of-benefits/engineering/swagger-education-services-schema.yaml)
 
 ## Connecting to EVSS CI for Local Development
 Prerequisites:
@@ -106,7 +69,7 @@ Prerequisites:
 ```
 # Settings for EVSS
 evss:
-  url: https://csraciapp6.evss.srarad.com
+  url: https://int.ebenefits.va.gov
 ```
 #### 2. Turn MVI Mock On in `config/settings.local.yml`
 ```

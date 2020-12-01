@@ -3,7 +3,7 @@
 __Summary of release plan steps:__
 Per product sync today - We will launch batches per steps: 
 
-**I. Batch 1 release** 
+**I. Batch 1 release** :white_check_mark:
 
 1. **Publish batch 1 form pages to prod with a basic auth gate.**   `Blocked until CMS breadcrumb fixed by [ticket #2270](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2770)`
 
@@ -12,21 +12,22 @@ Per product sync today - We will launch batches per steps:
 3. Fix any reported bugs if any. 
 
 
-**II. Batch 2 release**
+**II. Batch 2 release** :white_check_mark:
 
 4. **Publish batch 2 forms - still behind basic auth gate.** 
 
-5. Monitor until we hit 300 users or 5 business days with less than 5% error rate. 
+5. Monitor until we hit 300 users or 5 business days with less than 5% error rate. (may have to move to after basic auth is lifted)
 
 6. Fix bugs if any. 
 
-7. Remove basic auth. 
+7. Remove basic auth. and Add to sitemap - **October 7, 2020**
 
-**III. After basic auth removed**
+
+**III. After basic auth removed** :white_check_mark: 
 
 8. Implement Batch 1 form pages redirects - 1:1 redirects
 
-9. Implement Batch 2  form pages redirects - bulk redirects to search
+9. Implement Batch 2  form pages redirects - bulk redirects to search - **October 14, 2020**
 
 **IV. Search page updates**
 
@@ -50,6 +51,7 @@ Per product sync today - We will launch batches per steps:
   - PW team, DEPO volunteers, and forms stakeholders
 - **How you'll conduct the testing:** 
   - Provide people a list of form page links to test
+  - Collected stakeholder UAT bug/comments in this SharePoint folder: https://dvagov.sharepoint.com/sites/VA-forms-managers-and-SMEs/Shared%20Documents/Forms/AllItems.aspx 
 - **How you'll give the test users access to the product in production w/o making it findable on VA.gov:** 
   - This is a CMS content product. In order to test full functionality (such as form download behavior) we have to publish on va.gov. We will not be able to test form downloads in demo/staging/preview. 
 - **How will you make the product available in production while limiting the number of users who can find/access it:** 

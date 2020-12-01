@@ -1,0 +1,33 @@
+name: Assign to One Project
+# Assigns new issues to project based on label
+# See https://github.com/department-of-veterans-affairs/va.gov-team/issues/15245
+# For support see #github-management or #github_information on DSVA
+
+on:
+  issues:
+    types: [opened]
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+  assign_one_project:
+    runs-on: ubuntu-latest
+    name: Add issues to Github projects based on labels
+    steps:
+    - name: Add issues to VSP Analytics & Insights project
+      uses: srggrs/assign-one-project-github-action@1.2.0
+      if: |
+        github.event.action == 'opened' &&
+        (contains(github.event.issue.labels.*.name, 'analytics-insights') ||
+        contains(github.event.issue.labels.*.name, 'analytics-request'))
+      with:
+        project: 'https://github.com/department-of-veterans-affairs/va.gov-team/projects/20'
+        column_name: 'Backlog - New'
+    - name: Add issues with `documentation-support` label to VSP Documentation project
+      uses: srggrs/assign-one-project-github-action@1.2.0
+      if: |
+        github.event.action == 'opened' && 
+        contains(github.event.issue.labels.*.name, 'documentation-support')
+      with:
+        project: 'https://github.com/department-of-veterans-affairs/va.gov-team/projects/16'
+        column_name: 'New'

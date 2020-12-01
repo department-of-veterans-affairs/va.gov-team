@@ -1,10 +1,15 @@
 
-![Diagram](assets/sms-trigger.png)
+![Diagram](assets/vetext-trigger.png)
+
 
 ## Notification of Appointment through VetText
 
-VetText is SMS based but has no API to use currently for triggers. There has been thoughts of providing a general use trigger API, but there is no current roadmap for this and the API is internal to VetText. 
+VetText is SMS based but has no API to use currently for triggers. There has been thoughts of providing a general use trigger API, but there is no current roadmap for this and the API is vurrently only internal to VetText. 
 
-Since VetText is SMS based, one idea would be to have VetText send an SMS message to a service inside of the health quest service. This could be the same or very similar to other types of SMS messages it sends. As long as the patient can be ascertained from the SMS message, the health quest service could then save that information so that when the patient is getting prepared for their appointment, the health quest service can then find the pertinent information 
+The idea to provide the desired trigger would be to have VetText make a call to an API service inside of the health quest service or something similar. As long as the patient can be ascertained from the API call, the health quest service could then save that information so that when the patient is getting prepared for their appointment, the health quest service can then find the pertinent information. Another idea is to create a clickable link that generates the trigger if we can guarantee that the link would be clicked. In that case it may be that no information needs to be saved
 
-Twillio is a Ruby gem that allows the use of progromatic SMS messaging once an account is set up: https://github.com/twilio/twilio-ruby
+#### Issues
+
+We need to ensure that trigger approach also works for veterans who have opted out of SMS text messages through VeText.
+
+

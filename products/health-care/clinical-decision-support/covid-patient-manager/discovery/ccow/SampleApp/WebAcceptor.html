@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<!--
+//
+//  Description:    WebAcceptor Sample Application
+//
+//  Product Name:   Web SDK
+//
+//  Version:        6.2.5.12
+//
+//  Filename:       WebAcceptor.html
+//
+//  Language:       English (United States)
+//
+//  Company Name:   Caradigm
+//
+//  Copyright:      Copyright 2015 Caradigm. All rights reserved.
+//
+//  Notice:         This sample application that is being made available to the recipient 
+//                  is Caradigm's intellectual property and is being provided on an 
+//                  "as-is" basis without any representations or warranties, express 
+//                  or implied, and recipient's use of or reliance on this code is 
+//                  at its own risk.
+//
+//
+-->
+
+<html>
+<title>WebAcceptor Page 1</title>
+<head>
+    <meta charset="utf-8" /> 
+
+    <!-- change src line below as required -->
+    <script type="text/javaScript" src="IContextor.js"></script>
+    <script type="text/javaScript" src="ContextData.js"></script>
+    <script type="text/javaScript" src="WebAcceptor.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="WebAcceptor.css" />
+</head>
+<body onload="initialize();" onerror="failedToLoad();">
+<div style="max-width:800px;">
+<a href="Help/help.html" id="help" target="_blank">Help</a>
+<a href="WebAcceptorPage2.html" id="help">Next Page</a>
+</div>
+<div> 
+    <header>
+        <h2>WEB ACCEPTOR</h2>
+  
+    </header><br>
+    <section>
+    <div class="fleft">
+        <input id="join" type="button" value="JOIN" onclick="join();" ></input>
+    </div>
+    <div class="fleft">
+        <input id="leave" type="button" value="LEAVE" onclick="leave();" disabled="disabled" ></input>
+    </div>
+    <div class="fleft">
+        <input id="getcontext" type="button" value="GET CONTEXT" onclick="getCommonContext();" disabled="disabled" ></input>
+    </div>
+    <div class="fleft">
+        <input id="setcontext" type="button" value="SET CONTEXT" onclick="setCommonContext();" disabled="disabled" ></input>
+    </div>
+    <div class="fleft">
+        <input id="suspend" type="button" value="SUSPEND" onclick="suspend();" disabled="disabled"></input>
+    </div>
+    <div >
+        <input id="resume" type="button" value="RESUME" onclick="resume();" disabled="disabled" ></input>
+    </div><br/>
+    <div id="progressBar" style="border: 1px solid black;width:625px;height:5px;">
+        <div id="progress" style="float:left;margin-left:5px;height:5px;width:100px; background-color:rgb(112,146,190);"></div>
+    </div><br/>
+   
+  </section>  
+    <div style="clear: both;">
+        <div class="PatientSection">
+            <h1 id="SelectPatient">Select Patient</h1>
+            <select name="patient" id="select_patient" >
+                <option value="Nil"></option>
+                <option value="1">Anderson^Mary-Kay^^^</option>
+                <option value="2">Berg^Sara^^^</option>
+                <option value="3">Dillow^Duane^^^^</option>
+                <option value="4">Smith^James^^^^</option>
+                <option value="5">Sanchez^Ken^^^^</option>
+                <option value="6">Papenfuss^Shelly^^^^</option>
+            </select>
+        <div><br>
+             <input type="checkbox" id="checkboxAcceptConditionally" />Accept conditionally<br>
+             <input type="checkbox" id="checkboxDoNotRespond" />Do not respond to survey<br><br>
+             <br>
+        </div>
+            <div class="Blank"></div>
+            <div>
+            <span id="divParticipantCoupon">Participant Coupon</span>
+            <div id="participantCoupon"></div>
+            </div><br><br>
+            <span id="ContextCouponHeader">Context Coupon</span>
+            <div id="contextCoupon"></div><br/><br/><br/>
+        </div>
+     
+        <div class="PatientInformation" id="patientInformation"> 
+           <span id="patientInformationLabel" style="padding-left:3px">Patient Information</span>
+              <div id="commitedData">
+                   
+                </div>
+              </div> 
+    </div> 
+    <div style="clear: both;">
+        <span id="divMessage">Status </span>
+        <div id="message"></div>
+    </div> 
+ </div>
+</body>
+</html>
