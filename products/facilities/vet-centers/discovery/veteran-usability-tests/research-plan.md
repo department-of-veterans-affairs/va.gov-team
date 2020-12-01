@@ -8,20 +8,17 @@ The goal of this study is to get high level Veteran feedback on webpage designs 
 
 ### Research questions
 
-- How would clients go about searching for counseling and benefit services on the internet? 
-
 Will the designs provide Veterans with enough information to:
  - understand what care is available at Vet Centers?
- - perceive a difference between Vet Centers and other VA facilities?
+ - understand how services are rendered at different locations?
  - understand the relationship between a main location and regional satellite offices? 
  - have enough information in order to visit or call a location? 
- - understand how indivual services will be rendered at this particular location vs another facility?
+
 
 ### Hypothesis 
 
 - Clients will be able to find a service and feel they have enough information to choose care at this facility.
 - Clients will feel that they have adequate logistical information in order to visit or call a Vet Center.
-- Clients will understand a Vet Center is not a traditional medical clinic.
 
 ## Method
 
