@@ -62,25 +62,15 @@ Think about your last primary care provider visit at the VA.
 
 ## Questionnaire Scenarios
 
-Keep that pre-appointment experience in mind through the next series of scenarios that we are going to discuss. I will give you a task and ask you to "narrate" your thoughts as you complete the task. 
-
-- _Rotate the order in which participants are presented the following scenarios._
-	- _Participant 1: 1 (email), 2  (a), then 2 (b)_
-	- _Participant 2: 1 (text), 2 (a), then 2 (b)._
-	- _Participant 3: 1 (email), 2 (b), then 2 (a)._
-	- _Participant 4: 1 (text), 2 (b), then 2 (a)._
-	- _Participant 5: 2 (b), 2 (a), then 1 (email)._
-	- _Participant 6: 2 (b), 2 (a), then 1 (text)._
-	- _Participant 7: 2 (a), 2 (b), then 1 (email)._
-	- _Participant 8: 2 (a), 2 (b), then 1 (text)._
-	- _Participant 9: 1 (email), 2 (a), then 2 (b)._
-	- _Participant 10: 1 (text), 2 (b), then 2 (a)._
-	- _Participant 11: 2 (b), 2 (a), then 1 (email)._
-	- _Participant 12: 2 (a), 2 (b), then 1 (text)._
-	
-I'm going to send you a link in the chat.
+Keep that pre-appointment experience in mind through the next series of scenarios that we are going to discuss.	I'm going to send you a link in the chat.
 
 [Mobile Prototype-Link TBD]()<br/>
+Show three mobile participants the scenarios in the following order: 1 (text), then 2.
+Show three mobile participants the scenarios in the following order: 2, then 1 (text).
+
+[Desktop Prototype-Link TBD]()<br/>
+Show three desktop participants the scenarios in the following order: 1 (email), then 2.
+Show three desktop participants the scenarios in the following order: 2, then 1 (email).
 
 ### Scenario 1
 Don’t click on anything yet. Just read the notification. 
@@ -90,9 +80,9 @@ Don’t click on anything yet. Just read the notification.
 - Would you be interested in receiving this notification multiple times? 
 	- yes, two reminders are good.
 	- only if you didn’t respond to the first notification.
-- What are the actions that you could take immediately based upon the [email or text] that you just received?
+- What are the actions that you could take immediately based upon the (email or text) that you just received?
 
-Now, please fill out the questionnaire that your provider has requested you complete. For this questionnaire, your name will be Hector Allen and you have an upcoming primary care appointment for your annual physical. 
+Now, please fill out the questionnaire that your provider has requested you complete. For this questionnaire, your name will be Hector Allen and you have an upcoming primary care appointment for your annual physical. Please narrate your thoughts as you complete the task.
 - _Things to watch/listen for:_
 	- _Did the Veteran successfully complete the task. Success = getting to the screen with the "Your questionnaire has been sent to your provider." alert box._
 	- _Pay attention to Veteran commentary on confusing or pleasing portions of the task._
@@ -101,84 +91,60 @@ Now, please fill out the questionnaire that your provider has requested you comp
 Next, we are going to go back to the beginning of the questionnaire, so I can ask a few questions about each page.
 
 On the Introduction page, take some time now to review this page.
-	- What are your impressions of this page?
-	- What are your thoughts about the information provided?
-	- Is there any other information we should include here?
+- What are your impressions of this page?
+- What are your thoughts about the information provided?
+- Is there any other information we should include here?
+	
+On the This Visit page...
+- What if you decide that you want to take some more time to think about questions for you provider? How could you save what you already entered, then come back and finish the form?
 
-_(Only ask this group of questions if participant hasn’t completed Scenario 2a yet.)_<br/> 
 On the confirmation page, 
 - What are your impressions of this page?
 - Which of the buttons on the page would you most likely be interested in viewing next? 
 	- Would you prefer to navigate anywhere else instead?
 - When (if at all) would you view and print questions? When (if at all) would you print this PDF?
 
+- Remember when we talked about saving your in-progress questionnaire answers. Pretend that you are returning to the form the next day after saving your current work and you lost the notification (email or text), where on va.gov would you look first to find this questionnaire? (Pick one.)
+		- I would use the search.
+		- I would navigate to a list of my appointments and expect a questionnaire link to appear in the details of my appointment.
+		- I would log in and expect to see a link on my dashboard to the questionnaires that I need to complete.
+		- I would use the main menu on va.gov to navigate to a health questionnaire section. _(If the participant selects this, make them pick their second option.)_
 
 ### Scenario 2
-Find questionnaires that your VA providers requested you complete about your health.
-_(Start them on va.gov main mobile menu. Stop the participant when they get to the Drupal/marketing page.)_
-- _Things to watch/listen for:_
-	- _Did the Veteran successfully complete the task. Success = getting to the screen with the title "Health questionnaires."_
-	- _Note where they think this feature should exist._
-	- _Pay attention to Veteran commentary on confusing or pleasing portions of the task._
-	- _Take note of anything the Veteran suggests to add._
-	- _Note where they think this feature should exist._
-	
-- When on the marketing/Drupal page…
-	- What are your impressions of this page?
-	- What are your thoughts about the information provided?
-	- How valuable is the information on this page to you?
-	- Is there any other information that we should include on this page?
+Now, you found the main health questionnaires section on va.gov...(ask while displaying the marketing/Drupal page)
+- What are your impressions of this page?
+- What are your thoughts about the information provided?
+- How valuable is the information on this page to you?
+- Is there any other information that we should include on this page?
 
-#### Scenario 2a
 Have the participant click to the Questionnaire list (To do tab)
 - What are your impressions of this page?
 - Can you tell me what you think the difference is between the cards shown on the screen?
+	- Ask about button wording if the difference isn't clear. 
 - What are your thoughts about the information provided?
 - How valuable is the information on this page to you?
 - Is there any other information that we should include on this page?
 
-You (in the prototype, your name will be Hector Allen) were sent a questionnaire to complete for your upcoming appointment with your primary care provider on January 6, 2021. You started to fill it out, but you didn’t complete it. Find the questionnaire and finish filling it out.		
-- _Things to watch/listen for:_
-	- _Did the Veteran successfully complete the task. Success = getting to the screen with the "Your questionnaire has been sent to your provider." alert box._
-	- _Pay attention to Veteran commentary on confusing or pleasing portions of the task._
-	- _Take note of anything the Veteran suggests to add._
-	
-- How easy or hard was it to find the in-progress questionnaire?
-- @abuckley Do we need to know anything else about in-progress beyond "can they find it?"
-
-_(Only ask this group of questions if participant hasn’t completed Scenario 1 yet)_<br/> 
-On the confirmation page, 
-- What are your impressions of this page?
-- Which of the buttons on the page would you most likely be interested in viewing next? 
-	- Would you prefer to navigate anywhere else instead?
-- When (if at all) would you view and print questions? When (if at all) would you print this PDF?
-
-#### Scenario 2b
-Your primary care provider just sent you a pre-visit questionnaire. Before you fill it out, you want to review your responses to your last primary care questionnaire. Find your last questionnaire and review your responses.
-
-Stop the participant on the Questionnaire list (Completed tab)
-- What are your impressions of this page?
-- Can you tell me what you think the difference is between the cards shown on the screen?
-- What are your thoughts about the information provided?
-- How valuable is the information on this page to you?
-- Is there any other information that we should include on this page?
-
+Your primary care provider just sent you a pre-visit questionnaire. Before you fill it out, you want to review your responses to your last primary care questionnaire. Find your last questionnaire and review your responses. Please narrate your thoughts as you complete the task.
 - _Things to watch/listen for:_
 	- _Did the Veteran successfully complete the task. Success = click on the “View and print questions.”_
 	- _Pay attention to Veteran commentary on confusing or pleasing portions of the task._
 	- _Take note of anything the Veteran suggests to add._
-
 - How easy or hard was it to find the completed questionnaire?
 
 Click on the “View and print questions” button, what are your impressions of this PDF?
-- @abuckley: Did you have particular questions about the demo banner that you wanted to ask?
 - When (if at all) would you view this PDF? When (if at all) would you print this PDF?
 - Would you want any additional information added to this PDF?
 
-- _Have the participant go back to the Questionnaire list (completed tab)_ Can you tell me what you think the difference is between the cards shown on the screen?
-- Would you want to see questionnaire responses over time?
+- _Have the participant go back to the Questionnaire list (completed tab)_ 
+- What are your impressions of this page?
+- Can you tell me what you think the difference is between the cards shown on the screen?
+- What are your thoughts about the information provided?
+- How valuable is the information on this page to you?
+- Is this location where you would expect to come back to and see this list of completed questionnaires?
+- Is there any other information that we should include on this page?- Would you want to see questionnaire responses over time?
 	- When?
-	- What is the questionnaire resulted in a score? Would you be interested in seeing your score over time?
+	- What if the questionnaire resulted in a score? Would you be interested in seeing your score over time?
 
 ## Thank-You and Closing - 5 minutes
 
