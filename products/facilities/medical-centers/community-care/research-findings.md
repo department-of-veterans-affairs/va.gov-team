@@ -70,7 +70,8 @@ Detail
 #### 2. 4 out of 7 CCMs stated that Veterans often select Urgent Care in Facility Type, rather than selecting Community Care, then Urgent Care under Service Type.
 Detail
 
-#### 3. 1 CCM stated that they prefer to help them find the sub-specialty ("We'll do that.").
+#### 3. 1 CCM stated that they prefer to help them find the sub-specialty.
+("We'll do that.")
 
 #### 4. 1 CCM, the use of the Service Type text field by the Veteran is problematic due to spelling typos and unfamiliarity with sub-specialty terms
 Detail
