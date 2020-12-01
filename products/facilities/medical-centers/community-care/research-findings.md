@@ -115,7 +115,7 @@ __VA Online Scheduling__
 * As part of improving the VA Online Scheduling experience
    * Improve the quality of existing provider data in PPMS such as updated phone numbers, addresses, in/out of network, and fax numbers.
    * Add provider data that will help CCMs minimize the use of search tools outside of the system. Provider data include gender, accepting new patients, and name of clinic. 
-   * Automate the screening question process.
+   * Consider finding ways to automate the screening question process, which is completed by CCMs via phone call with the Veteran.
 
 ## Next Steps
 
