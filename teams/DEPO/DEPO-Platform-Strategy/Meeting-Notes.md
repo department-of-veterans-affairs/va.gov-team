@@ -2,8 +2,6 @@ Mural from initial connections discussion: https://app.mural.co/t/departmentofve
 
 # CMS
 
-## Questions
-
 - Any plans for Q1 planning?
   - Not on CMS side
 
@@ -63,8 +61,6 @@ What is LC?
 
 # Chatbot
 
-## Questions
-
 - Is Chatbot in fact a VSP product?
   - It's something that just sort of happened, was there an evaluation as to why it's VSP vs VFS?
   - It's a Veteran-facing tool
@@ -99,9 +95,35 @@ What is LC?
   - Future, at some point Azure for machine learning and PowerBI
 
 ## Action items
-- [ ] 
+- Schedule follow-up convos in the new year about whether Chatbot is a Global Experience thing or a DEPO Platform thing, and whether those two things are in fact different or the sammmmmmme.
 
 ## Initiatives that would need cross-collaboration
-- 
+- n/a
 
-# Chatbot
+# VA Digital Notifications
+
+- Tech stack?
+  - Application: Python, Flask, Celery, Granicus GovDelivery;
+  - Infrastructure: Terraform, GitHub Actions, AWS Fargate; Monitoring & Security: Datadog, Grafana, PagerDuty, Twistlock, Bandit].
+  - Picked a lot of those with hope/expectation that would merge into DEPO Platform in the future.
+- VANotify staffed by 2.5 pairs – 4.5 devs total, so small team and not a lot of bandwidth, things take a little longer, and MPI related stuff is complicated.
+- Larger strategy is focused on trying to accomplish the identified business needs
+- VA Digital Notification Ecosystem
+- 2 products: VetText and VANotify
+  - Future state: VANotify is the centralized notifications engine where VetText will turn into a workflow engine that feeds VANotify and VANotify actually sends out the messages
+- In Q1 starting to make VANotify self service
+  - Opportunity: how can we make the VFS experience using notifications common w/the rest of the platform touchpoints?
+  - Governance / necessary friction, how handling in self service work?
+  - Working on 1 or 2 at a time use cases, so easy to manage that universe and experience for now
+  - Audit and checkpoints, will there be an approval process?
+  - Can we plan this into Q1 for product support?
+  - As we get close to the self service work, would love to do a workshop around the governance needs. So we can brainstorm together and help inform our features and requirements around the self service epic. Making sure we have the right ppl from DEPO in the room.
+
+## Action items
+- [ ] Workshop / inception around governance needs
+
+## Initiatives that would need cross-collaboration
+- Making VANotify governance a part of the Collaboration Cycle
+- Making VANotify customer support a part of the larger DEPO Platform customer support experience
+- Housing VANotify "how to" guides in same experience as other platform product "how to" guides
+- Future: bringing VANotify onto the DEPO Platform delivery infrastructure
