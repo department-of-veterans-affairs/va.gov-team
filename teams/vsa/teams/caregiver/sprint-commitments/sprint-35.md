@@ -21,7 +21,7 @@
 - [ ] [Attempt resubmission of PDF on failure](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15147)
 - [x] Add filters to Form 10-10CG Logging
   - [5355](https://github.com/department-of-veterans-affairs/vets-api/pull/5355)
-- [x] [Logging PDF Gen Errors](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15146)
+- [ ] [Logging PDF Gen Errors](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15146)
   - [5360](https://github.com/department-of-veterans-affairs/vets-api/pull/5360)
 - [x] [Federated States of Micronesia](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16226)
   - Tested all non-continential states and reported to CARMA
