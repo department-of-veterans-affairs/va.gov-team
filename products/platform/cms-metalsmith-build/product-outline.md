@@ -1,4 +1,4 @@
-# VA.gov CMS Build Pipeline - Product Outline [DRAFT]
+# VA.gov CMS Build Pipeline - Product Outline
 
 ## Overview
 The VA.gov CMS exports data from Drupal in a format that must be converted to static HTML, which can be served to VA.gov. The metalsmith build pipeline fits into the CMS ecosystem as described in this diagram: 
@@ -29,7 +29,7 @@ How might we create a build process that supports the needs of VA content editor
 ---
 
 ## Assumptions
-* 
+* Content editors should be able to see their published changes on the website within minutes
 
 ## Solution Approach
 
