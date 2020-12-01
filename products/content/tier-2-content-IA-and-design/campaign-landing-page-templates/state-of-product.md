@@ -107,5 +107,5 @@ The template requirements are:
 |Artifacts  | Description |
 |--|--|
 |[Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/README.md)| Statement of purpose with goals, design intent, etc.| 
-|[Product Super Epic](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/4621) | Development Master Epic  |
-| | |
+|[Product Super Epic](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/4621) | Product Development Master Epic for sub-epics|
+|[Design & Content Model](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/content-requirements-spec/CLP-Maximal-markup-updated-060320.pdf)| Design comps with annotated requirements |
