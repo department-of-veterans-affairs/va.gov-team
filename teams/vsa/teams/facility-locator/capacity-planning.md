@@ -30,7 +30,7 @@
 ### Additional out of office
 
 ## December 2020
-    -  Gibran: November 21-25 (Christmas week) - still tentatively
+    -  Gibran: December 21-25 (Christmas week) - still tentatively
 
 ## November 2020
     -  Gibran: November 23-27 (Thanksgiving week)
