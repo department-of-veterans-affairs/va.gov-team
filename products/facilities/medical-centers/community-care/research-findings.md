@@ -115,7 +115,10 @@ __Facility Locator__
 * If there are certain sub-specialties that must be displayed, use layman's terms when possible to avoid confusion, or provide explanations for the terms. 
 
 __VA Online Scheduling__
-* Recs
+* As part of improving the VA Online Scheduling experience
+   * Improve the quality of existing provider data in PPMS such as updated phone numbers, addresses, in/out of network, and fax numbers.
+   * Add provider data that will help CCMs minimize the use of search tools outside of the system. Provider data include gender, accepting new patients, and name of clinic. 
+   * Automate the screening question process.
 
 ## Next Steps
 
