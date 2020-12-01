@@ -56,13 +56,21 @@ _Instructions for notetakers in italics_
 
 _Note if the task is completed, not completed, where they stopped or struggled and why (‘couldn’t find button etc.) and anything useful about the problem.  Don’t focus on solutioning - just how they experience the product._
 
-_Decide on laptop hugging method and if testing for mobile - Reference  _
+_Scenario: filling out the form_
 
-Scenario: filling out the form
+We have an early version of the IRIS form we want to get your feedback on.  Note this is an early version so not all the content is finished and not all the parts are finished, but wanted to get your feedback on what we have so far.
 
-We have an early version of the IRIS form we want to share with you - not everything will be working but want to get your feedback. 
+Go to this address: https://staging.va.gov
 
-Go to this address: https://staging.va.gov/ask-a-question/introduction 
+Where would you go to to submit a question or comment to VA?
+- Probe to understand what to call the form (as per Martha feedback)
+- See if they go to Ask a Question, go to header or footer 
+
+Before you click on anything:
+- What do you expect to see behind a "Contact us" option 
+- Probe for insight on the relationship of this form and other methods of contacting VA
+
+Now go to the address in the chat window: https://staging.va.gov/ask-a-question/introduction 
 
 Go ahead and talk me through what you see on this page and what you can do here.
 
