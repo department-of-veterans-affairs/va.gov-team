@@ -108,12 +108,17 @@ _Aug 12 - Aug 25_
 ## Sprint 29
 _Aug 26 - Sept 8_ 
 - BE: submission tested ([#3765](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3765)) ✔
-- BE: Adjust relationship for stepchildren (#4785) ✔
-
+- BE: Adding BGS required fields ([#4767](https://github.com/department-of-veterans-affairs/vets-api/4767)) ✔
+- BE: Add changes for vnp_benefit_claim call ([#30](https://github.com/department-of-veterans-affairs/bgs-ext/30)) ✔
+- BE: Adding/Updating BGS Required Fields ([#4771](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4771)) ✔
+- BE: Update model to accept guardian information and 'Half' ([#4791](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4791)) ✔
+- BE: Adjust relationship for stepchildren ([4785](https://github.com/department-of-veterans-affairs/vets-api/pull/4785)) ✔
 - [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9529) 🌀 ✔
 
 ## Sprint 30
 _Sept 9 - Sept 22_ 
+- BE: Add ssn and birthdate for dependents ([4877](https://github.com/department-of-veterans-affairs/vets-api/pull/4877)) ✔
+- BE: Bump gem version ([4883](https://github.com/department-of-veterans-affairs/vets-api/pull/4883)) ✔
 
 ## Sprint 31
 _Sept 23 - Oct 6_ 
