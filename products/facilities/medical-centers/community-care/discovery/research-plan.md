@@ -32,7 +32,7 @@ Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audi
 
 ### Hypothesis 
 
-- By understanding how Community Care schedulers use systems to manually process specific requests, and how they search for care providers on behalf of Veterans, we can better understand how to automate/simplify this search experience on Facility locator and VAOS. 
+- By understanding how Community Care schedulers use systems to manually process specific requests, and how they search for care providers on behalf of Veterans, we can better understand how to simplify this search experience on Facility locator and VAOS. 
 
 ### Assumptions 
 
