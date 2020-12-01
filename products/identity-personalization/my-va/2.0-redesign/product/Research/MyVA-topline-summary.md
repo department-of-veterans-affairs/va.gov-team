@@ -19,15 +19,20 @@ This topline summary is a high level, top of mind summary of trends found in the
 ## Research Questions & Answers
 
 **Do Veterans prefer design version A or B?**
- - All participants except for one preferred the version that they saw first.
+ - All participants (except for one) preferred the version that they saw first.
  
 **Is there any confusion caused by the status update styles in A vs B design?**
  - Most participants easily understood the style of the updates
  - There was confusion around how the updates were ordered
+ - Some participants were confused by the hierarchy of the updates
+ - Multiple people felt that the updates were redundant.
+ - One participant who has cognitive issues was worried she would forget her updates in version A when she scrolled past them.
+ - Participants wanted clearer calls to action on the updates
  - There was confusion around the 'Go to recent updates' link - many participants assumed this would take them to a full overview page, not the specific claim or message etc.
  - There was consistent confusion around the appointments update verbiage and information included (multiple participants mentioned they would need to know where the appoint was and what it was for)
  - One veteran was confused by the updates all together and didn't know what they were referring to - he preferred them to not be on the page at all.
  - Almost all participants mentioned that they would like to be able to prioritize their updates and information.
+ - Participants wanted a more specific call to action that links to additional updates
 
 **Can people find what they're looking for on the dashboard?**
  - All users were easily able to find what they were looking for regardless of the prototype they were using.
@@ -47,7 +52,8 @@ This topline summary is a high level, top of mind summary of trends found in the
  - People didn't need to see all of details of their information on the page, they were okay to have it be on a separate page.
 
 **Is any information missing on the dashboard?**
- - Some specifics about appointments
+ - Some specifics about appointments (will outline later)
+ - Many participants mentioned they want to be able to track their prescription packages
  
 **Do users expect to see more information on a desktop view?**
  - We didn't answer this question in this study
