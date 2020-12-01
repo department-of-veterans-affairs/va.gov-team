@@ -40,6 +40,7 @@ You can find feedback from all research conducted by VSP
 
 - [2020](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1598917367016/8652c561cf3c2a5b0fb2e8a6add9081a81f1d666)
 
+<br>
 
 ### Research projects conducted by VSP
 
