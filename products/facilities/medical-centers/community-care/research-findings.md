@@ -62,6 +62,7 @@ Finding: __True__
 4. 6 out of 7 CCMs stated that they use Google to find complete and updated information about providers. 
 5. 5 out of 7 CCMs stated that they call providers to validate information found on PPMS and seek information that is missing. 
 6. 2 out of 7 CCMs use a self-created spreadsheet of providers with validated provider information.
+7. 1 out of 7 CCMs would like Veterans to have a list of in-network providers who are currently available.
 
 ### Details of Findings
 
@@ -109,6 +110,9 @@ The CCMs use a spreadsheet to keep up-to-date information on providers:
 
 > We use our own spreadsheet to track street numbers and addresses.
 
+#### 7. 1 CCM would like Veterans to have a list of in-network providers who are currently available.
+> Nothing is more frustrating to the Veteran than requesting a provider only to be told that provider isn’t in the network. I get yelled at.
+
 
 ## Additional Insights
 
@@ -118,15 +122,17 @@ The CCMs use a spreadsheet to keep up-to-date information on providers:
 
 3. CCMs would also like to know if providers are accepting new patients.
 
-4. One CCM had a list of 12 data issues for the provider network to correct. It usually takes two weeks for the provider network to make the corrections.
+4. 2 CCM stated that Veterans sometimes want a provider of a specific gender or retired military status. It would be good to have this information.
 
-5. CCMs mentioned the pain of documenting and updating an appointment in multiple systems.
+5. One CCM had a list of 12 data issues for the provider network to correct. It usually takes two weeks for the provider network to make the corrections.
 
-6. Several CCMs stated that there is confusion from Veterans on which urgent care to use. Facilities may not know how to bill for VA care properly. Half the time this means the veteran ends up paying out of pocket. Marking them as “preferred providers” would be helpful. 
+6. CCMs mentioned the pain of documenting and updating an appointment in multiple systems.
 
-7. Search terms: It is difficult for CCMs to figure out the search terms. CCMs rely on past success/talking to each other/word of mouth.
+7. Several CCMs stated that there is confusion from Veterans on which urgent care to use. Facilities may not know how to bill for VA care properly. Half the time this means the veteran ends up paying out of pocket. Marking them as “preferred providers” would be helpful. 
 
-8. Relationships with vendors are key to efficiency for CCMs. They follow a certain process that their vendors understand. This can also limit number of vendors available, however.
+8. Search terms: It is difficult for CCMs to figure out the search terms. CCMs rely on past success/talking to each other/word of mouth.
+
+9. Relationships with vendors are key to efficiency for CCMs. They follow a certain process that their vendors understand. This can also limit number of vendors available, however.
 
 
 ## Recommendations
