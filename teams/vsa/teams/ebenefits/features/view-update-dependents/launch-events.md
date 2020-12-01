@@ -92,21 +92,9 @@ _July 1 - July 14_
 
 ## Sprint 26
 _July 15 - July 28_ 
-- BE: submission tested ([#3765](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3765)) 👈
-- BE: Payload PR defragmentation [#10371](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10371) 👈
-- [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review) 🌀  
+- BE: Payload PR defragmentation [#10371](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10371) ✔
 - [Privacy and Security Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review) 🌀  
-- PD: Stakeholder review/ demo
-- PD: Coordinate with VA comms
-- FE: Adjust the robots.txt file to include the direct link to the 686 for no_follow
-- Implement eBenefits user redirect messaging 
-- UAT/ UAT outcome PRs, email whitelist 
-- Launch to n% of users 🚀
-- Launch to 100% of users
-- Remove url from robots.txt file to allow for search to crawl the new form
-- Create eBenefits user redirect messaging  
-- Coordinate page redirects
-- Code hardening/bug fixes
+
 
 ## Sprint 27
 _July 29 - Aug 11_ 
@@ -119,6 +107,10 @@ _Aug 12 - Aug 25_
 
 ## Sprint 29
 _Aug 26 - Sept 8_ 
+- BE: submission tested ([#3765](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3765)) ✔
+- BE: Adjust relationship for stepchildren (#4785) ✔
+
+- [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9529) 🌀 ✔
 
 ## Sprint 30
 _Sept 9 - Sept 22_ 
@@ -137,6 +129,23 @@ _Nov 4 - Nov 17_
 
 ## Sprint 35
 _Sept 18 - Dec 1_
+
+## Sprint 36
+_Dec 2 - Dec 15_
+
+## Sprint 37
+_Dec 16 - Dec 29_
+- PD: Stakeholder review/ demo
+- PD: Coordinate with VA comms
+- FE: Adjust the robots.txt file to include the direct link to the 686 for no_follow
+- Implement eBenefits user redirect messaging 
+- UAT/ UAT outcome PRs, email whitelist 
+- Launch to n% of users 🚀
+- Launch to 100% of users
+- Remove url from robots.txt file to allow for search to crawl the new form
+- Create eBenefits user redirect messaging  
+- Coordinate page redirects
+- Code hardening/bug fixes
 
 ## Other Tools and Resources
 - [Table of contents for 686 mockups](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design)
