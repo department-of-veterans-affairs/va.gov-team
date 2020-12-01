@@ -348,14 +348,19 @@ Designer #2 (designer #1 can help with this once the write-up is done):
 
 ## Sprint 37 (12/16 – 12/29)
 
+### Time off
+
+- Tressa: 12/21 - 1/1
+- Cassandra: 12/21 - 1/1
+- Erik: 12/24 - 25; 12/31 - 1/1
+- Sandra: No time
+
 ### My VA redesign
 
 **Design**
 
-- Convert mobile wireframes to desktop
-- (If time/in scope) Mock up first-time user experience
-- Initial pass at visual design
-- Submit wireframes for copy review
+- Before break, convert mobile wireframes to desktop
+- Before break, submit wireframes for copy review (Samara might manage these discussions while Tressa/Cassandra are out)
 
 ### VA Profile notification preferences
 
@@ -373,9 +378,9 @@ Designer #2 (designer #1 can help with this once the write-up is done):
 
 **Design**
 
+- Mock up first-time user experience
 - Visual design
 - Gather feedback from design team
-- Finalize My VA copy
 
 **FE**
 
@@ -401,6 +406,7 @@ Designer #2 (designer #1 can help with this once the write-up is done):
 
 - Review visual design with team; Get feedback
 - Finalize visual design
+- Finalize My VA copy
 
 **FE**
 
