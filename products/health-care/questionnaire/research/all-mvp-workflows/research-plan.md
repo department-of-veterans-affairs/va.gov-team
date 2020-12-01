@@ -1,7 +1,7 @@
 # Research Plan for All "Primary care questionnaire" MVP Workflows Research Dec. 2020 
 
 ## Goals	
-This research is to usability test a mobile prototype version of the primary care appointment questionnaire design and gain feedback on all the workflows in and out of the questionnaire. 
+This research is to usability test a desktop mobile prototype version of the primary care appointment questionnaire design and gain feedback on all the workflows in and out of the questionnaire. 
 
 **Background**<br/>
 Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners. Our MVP will focus on improving the pre-appointment experience when visiting primary care providers.
@@ -17,20 +17,18 @@ Our goal is to improve the in-person and online pre- and post-appointment experi
 - There will be minimal confusion created by the content and question wording within any of the workflows. 
 
 ## Method	
-We will conduct remote moderated usability testing via Zoom using the Perigean contract. This method will allow us to share a high-fidelity wireframe prototype (mobile version) to confirm if our questionnaire is easily usable by Veterans.
+We will conduct remote moderated usability testing via Zoom using the Perigean contract. This method will allow us to share a high-fidelity wireframe prototype (mobile and desktop versions) to confirm if our questionnaire is easily usable by Veterans.
 
 ## Participants and Recruitment
 
-Recruit for 8 (feedback on if I need 12 participants due to variables in study?) fulfilled sessions using the following criteria:
+Recruit for 12 fulfilled sessions (6 for the desktop version and 6 for the mobile version of the test) using the following criteria:
 
 **Must have for participants**
 - Have you visted a primary care provider at the VA in the last year? (pass = yes)
 	- If confused by the term "primary care provider," explain that a primary care provider is your main doctor, nurse practitioner, or physician’s assistant.
-- At least one person with an identified cognitive consideration of PTSD or TBI
+- At least two people with an identified cognitive consideration of PTSD or TBI (one for the mobile test and one for desktop test)
 
 **Good to have for participants**
-- Half iOS mobile device owners
-- Half Android mobile device owners
 - At least 1 woman
 - At least 1 person of color
 - At least 1 participant 35 or under and 1 participant over 55
@@ -41,7 +39,10 @@ Recruit for 8 (feedback on if I need 12 participants due to variables in study?)
 - At least one person with a disability rating of 70% or greater
 
 **Recruitment requirements**
-- Must have a mobile device and be willing to be complete the test on said device
+- Half (6) must have a mobile device and be willing to be complete the test on said device
+	- Half of the mobile test participants (3) taking the test on an iOS mobile device
+	- Half of the mobile test participants (3) taking the test on an Android mobile device
+- Half (6) must have a laptop/desktop and be willing to be complete the test on said laptop/desktop
 - The participants have Zoom downloaded prior to the session
 - The participants know how to screenshare
 
@@ -63,7 +64,7 @@ Pilot Session: Day, ? | ?am - ?pm EST
 - Participant recruiting & screening: Perigean
 - Project point of contact: Amanda Buckley (abuckley@governmentcio.com)
 - Participant(s) for pilot test: TBD	
-- Note-takers: TBD
+- Note-takers: Perigean
 - Observers: Amanda Buckley (abuckley@governmentcio.com), Dillo Raju (draju@governmentcio.com), Mark Dewey (mdewey@governmentcio.com), Lacey Higley (lacey.higley@va.gov), Ming Ligh (ming.ligh@va.gov), Stephan Barrs (stephen.barrs@va.gov)
 
 ## Resources	
