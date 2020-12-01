@@ -60,7 +60,7 @@ Finding: __True__
 2. 1 out of 7 CCM stated that they prefer to help them find the sub-specialty ("We'll do that.").
 3. According to another CCM, the use of the Service Type text field by the Veteran is problematic due to spelling typos.
 4. 6 out of 7 CCMs stated that they use Google to find complete and updated information about providers. 
-5. 5 out of 7 CCMs stated that they call providers to validate information found on PPMS. 
+5. 5 out of 7 CCMs stated that they call providers to validate information found on PPMS and seek information that is missing. 
 6. 2 out of 7 CCMs use a self-created spreadsheet of providers with validated provider information.
 
 ### Details of Findings
@@ -78,21 +78,25 @@ Another CCM, when asked if Veterans understand sub-specialties:
 > Veterans don’t know what those terms mean. There doesn't need to be any subcategories - they can just be generic. We’ll provide that.
 
 #### 3. According to another CCM, the use of the Service Type text field by the Veteran is problematic due to spelling typos. 
-If a Veteran happens to know sub-specialty terms, using the type-ahead field under Service Type can lead to misspellings, which also negatively impact search results. 
+If a Veteran happens to know sub-specialty terms, using the type-ahead field under Service Type can lead to misspellings, which also negatively impact search results: 
 > I can tell you this will cause problems. Mistyping Chiro is an example.
 
-#### 4. 6 out of 7 CCMs stated that they use Google to supplement their search for providers.
-Several mentioned gaps in provider data, such as an outdated phone number or address.
+#### 4. 6 out of 7 CCMs stated that they use Google to find complete and updated information about providers.
+Several mentioned gaps in provider data, such as an outdated phone number or address:
 > Sometimes the provider has moved or is no longer affiliated. Sometimes the change happened 3-4 yrs ago but is still in the system. I have to Google to find the info I need.
 
-One stated that their new partner finds providers listed under "multi-specialty".
+One stated that their new partner finds providers listed under "multi-specialty":
 > Our new partner has listed a lot under multi-specialty, so it’s sometimes a guessing game, or you have to Google.
 
-One CCM mentioned the need to use Google to find names of clinics.
+One CCM mentioned the need to use Google to find names of clinics:
 > Most patients know the practice name, not the provider name. We only get the provider name so we use Google for the clinic name.
 
-#### 5. 5 out of 7 CCMs stated that they call providers to supplement their search.
-Detail & Quotes
+#### 5. 5 out of 7 CCMs stated that they call providers to validate information found on PPMS, and seek information that is missing.
+One CCM stated the importance of knowing whether a provider is accepting new patients: 
+> It's important to know if they are accepting new patients. This doesn’t reflect that. You really have to call every provider, which is very time consuming.
+
+Another CCM mentioned the need for fax numbers:
+> A lot of times fax numbers aren’t in PPMS. A lot of times fax numbers aren’t in PPMS. We use that for transmitting referrals. If it was there, that’d be one less call we’d have to make to the providers
 
 #### 6. 2 CCMs use a self-created spreadsheet of providers with all of the complete and correct provider information.
 Detail & Quotes
