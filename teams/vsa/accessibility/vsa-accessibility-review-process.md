@@ -41,7 +41,9 @@ VSA offers additional collaboration and review options to support teams in ensur
     * [Available resources](#available-resources)
     
     * [Development intent review](#development-intent-review)
-    
+
+    * [Spot check](#spot-check)
+
     * [Staging review](#staging-review)
     
     * [VA 508 Office review](#va-508-office-review)
@@ -174,7 +176,6 @@ Teams are encouraged to reach out for casual check-ins. Feel free to message Jen
 
 - Review and follow the development relevant steps in the [Accessibility Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md) - especially conducting manual and automated tests as part of your dev process.
 
-- **Optional:** At this time, accessibility specialists is over-allocated, so spot checks are on hold. Developers may [request a spot check accessibility review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=vsa_request_dev_review.md&title=Request+a+VSA+dev+intent+or+spot+check+review+for+ENTER_PRODUCT_NAME)
 
 
 ### Development intent review
@@ -188,7 +189,15 @@ This collaboration point happens _before beginning development_. The accessibili
     c. Identify any accessibility issues and how to address
 
 **[>> Schedule a dev intent review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=vsa_request_dev_review.md&title=Request+a+VSA+dev+intent+or+spot+check+review+for+ENTER_PRODUCT_NAME)** 
-    
+
+### Spot check
+
+PMs or developers may [request a spot check accessibility review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=vsa_request_dev_review.md&title=Request+a+VSA+dev+intent+or+spot+check+review+for+ENTER_PRODUCT_NAME) for an early accessibility review of work in-progress. The ability to offer this review depends on the VSA accessibility specialists' workload.
+
+**[>> Schedule a spot check review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=vsa_request_dev_review.md&title=Request+a+VSA+dev+intent+or+spot+check+review+for+ENTER_PRODUCT_NAME)** 
+
+
+
 ### Staging Review 
 (previously the pre-launch 508 review, now coordinated with VSP practice areas) 
 
