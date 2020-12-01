@@ -289,9 +289,13 @@ Anything outstanding from sprint 35, plus:
 
 **Design**
 
+Samara
+
+- Work with DEPO team to determine final direction of My VA (dashboard or newsfeed?)
+
 Both designers
 
-- Take an afternoon/a day to agree on what major conclusions came out of research
+- Take an a day or two to agree on what major conclusions came out of research
 
 Designer #1:
 
@@ -299,12 +303,17 @@ Designer #1:
 
 Designer #2 (designer #1 can help with this once the write-up is done):
 
+**We can wait on this until we have an answer about final direction of My VA**
+
 - Incorportate user feedback into designs
 - Clean up wireframes so they are ready for desktop conversion:
-  - Notification block template that works for all notification types
-  - "Overview" blocks need a title and proper CTA (confirm with accessibility on what we need on screen vs. what we can use an aria-label)
-  - Page title (H1)
-  - Blank states 
+  - Pick final direction (**Samara will help with this**)
+  - Finalize wireframes. This might include:
+    - Deciding exactly which blocks and what information we are including on the page.
+    - Finalizing the order of blocks on the page.
+    - Notification block template that works for all notification types (if we stick with newsfeed approach)
+    - Adding a page title (H1) (eg. "My VA")
+    - Mocking up blank states 
 - If time, start desktop conversion
 
 ### Direct deposit for edu
