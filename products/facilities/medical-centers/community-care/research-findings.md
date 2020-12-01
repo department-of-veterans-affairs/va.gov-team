@@ -60,9 +60,9 @@ Finding: __True__
 2. 4 out of 7 CCMs stated that Veterans often select Urgent Care in Facility Type, rather than selecting Community Care, then Urgent Care under Service Type. 
 3. 1 CCM stated that they prefer to help them find the sub-specialty ("We'll do that.").
 4. According to another CCM, the use of the Service Type text field by the Veteran is problematic due to spelling typos and unfamiliarity with sub-specialty terms
-5. 6 out of 7 CCMs stated that they use Google to supplement their search for providers. 
-6. 5 out of 7 CCMs stated that they call providers to supplement their search. 
-7. 2 out of 7 CCMs use a self-created spreadsheet of providers with all of the complete and correct provider information.
+5. 6 out of 7 CCMs stated that they use Google to find complete and updated information about providers. 
+6. 5 out of 7 CCMs stated that they call providers to validate information found on PPMS. 
+7. 2 out of 7 CCMs use a self-created spreadsheet of providers with validated provider information.
 
 ### Details of Findings
 
@@ -109,7 +109,13 @@ Detail
 
 ## Recommendations
 
-*  
+__Facility Locator__
+* Remove the sub-specialties found under Service Type. Doing so will simplify the search for the Veteran, while moving the sub-specialty decision-making to the Community Care Manager, who understands the sub-specialties.
+* Refrain from using type-ahead boxes and use drop-down menus for selection instead. Type-ahead requires the Veteran to know the term they are searching for and the correct way to spell it, in order to see results.
+* If there are certain sub-specialties that must be displayed, use layman's terms when possible to avoid confusion, or provide explanations for the terms. 
+
+__VA Online Scheduling__
+* Recs
 
 ## Next Steps
 
