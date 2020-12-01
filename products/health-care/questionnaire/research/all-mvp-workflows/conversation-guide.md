@@ -146,7 +146,7 @@ Click on the “View and print questions” button, what are your impressions of
 - When (if at all) would you view this PDF? When (if at all) would you print this PDF?
 - Would you want any additional information added to this PDF?
 
-- _Have the participant go back to the Questionnaire list (completed tab)_ 
+_Have the participant go back to the Questionnaire list (completed tab)_
 - What are your impressions of this page?
 - Can you tell me what you think the difference is between the cards shown on the screen?
 - What are your thoughts about the information provided?
