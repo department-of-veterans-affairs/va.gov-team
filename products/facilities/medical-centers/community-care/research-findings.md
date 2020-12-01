@@ -50,7 +50,9 @@ Finding: True.
 * Provider Data Quality: However, based on feedback from CCMs, (see Finding - VAOS below) there are gaps in provider data in PPMS. This impacts the quality of data found in Facility Locator, which depends on PPMS for Community Care search results. 
 
 We can understand how to simplify the search experience in VAOS.
+
 Finding: True
+* Based on feedback from Community Care managers, there are provider data gaps in PPMS, which requires CCMs to use other tools to find the correct Community Care providers. 6 out of 7 CCMs stated that they use Google to supplement their search for providers, while 5 out of 7 CCMs stated that they call providers to supplement their search. Additionally, 2 CCMs use a self-created spreadsheet of providers with all of the complete and correct provider information.
 
 ### Key Findings
 
