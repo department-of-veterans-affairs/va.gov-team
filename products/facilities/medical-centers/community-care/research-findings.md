@@ -96,7 +96,7 @@ One CCM stated the importance of knowing whether a provider is accepting new pat
 > It's important to know if they are accepting new patients. This doesn’t reflect that. You really have to call every provider, which is very time consuming.
 
 Another CCM mentioned the need for fax numbers:
-> A lot of times fax numbers aren’t in PPMS. A lot of times fax numbers aren’t in PPMS. We use that for transmitting referrals. If it was there, that’d be one less call we’d have to make to the providers
+> A lot of times fax numbers aren’t in PPMS. We use that for transmitting referrals. If it was there, that’d be one less call we’d have to make to the providers.
 
 #### 6. 2 CCMs use a self-created spreadsheet of providers with all of the complete and correct provider information.
 Detail & Quotes
