@@ -42,7 +42,7 @@ You can find feedback from all research conducted by VSP
 
 <br>
 
-### Research projects conducted by VSP
+## Research projects conducted by VSP
 
 Below you can find links to research conducted by VSP. If you've done research, please provide a link to your work here. 
 
