@@ -67,7 +67,10 @@ Finding: __True__
 ### Details of Findings
 
 #### 1. 5 out of 7 Community Care managers stated sub-specialties are not something most Veterans understand.
-Detail & Quotes
+Detail
+< the avg veteran isn’t going to know the difference. THey’re not going to know the diff between a sports podiatrist and foot/ankle podiatrist
+If you’re trying to put the subspecs in for the veterans, most won’t know the difference
+
 
 #### 2. 1 CCM stated that they prefer to help them find the sub-specialty.
 Detail & Quotes ("We'll do that.")
