@@ -419,7 +419,7 @@ it('should render in mobile layouts', () => {
 
     cy.visit('/page');
     cy.viewportPreset(viewportPreset);
-    // code omitted
+    // Cypress test code follows...
   });
 });
 ```
