@@ -76,9 +76,10 @@ Outside of access requests, anything that will take you longer than 5-10 minutes
   - A one-time analytics report. 
     - This can be on Domo, on Google Analytics, or an Excel sheet. If it's on Domo, please add the team's report as a sub-page to their product KPI dashboard. If they don't have a KPI dashboard already, please ask them to request one as well or redirect to the Anaytics Product Manager.
   -  An analytics meeting.
-    - This can be a KPI setting workshop, a discussion on GTM work, a discussion on general analytics use, etc.
+    - This can be an Analytics Orientation, Google Analytics overview, KPI setting workshop, a discussion on GTM work, a discussion on general analytics use, etc. (See Triaging for assignment details)
   - Clarification on reporting.
     - This is if the team already has numbers pulled, a report, or is looking at data and wants a QA on if they're reading the data correctly or if the numbers are accurate.
+
 
 ### Triaging 
 
@@ -103,6 +104,20 @@ Outside of access requests, anything that will take you longer than 5-10 minutes
   - The Data Engineer will build the dashboard
   - The Implementation Specialists will QA the data
   - The Product Manager & Data Engineer will onboard & train the requester
+  
+### General Analytics Request Cadence
+
+- Tickets will not be auto-assigned
+- Depending on the complexity of the request, we will pull tickets into the Sprint during Stand Ups, otherwise every Planning & Grooming session.
+
+**Analytics Meeting Requests**
+The following team members should be added to the corresponding meetings:
+(Please see RACI sheet for this information as well)
+- Analytics orientation: Product Manager
+- Google Analytics overview: Implementation Specialist
+- KPI setting workshop: Product manager and Implementation Specialist _or_ Data Engineer
+- GTM discussion: Implementation Specialist
+- General analytics question: Implementation Specialist (for GA data); Data Engineer (for all other data)
 
 ### Zenhub Board
 
