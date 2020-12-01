@@ -196,7 +196,7 @@ _Nov 18 - Dec 1_
 - BE: Add SOJ to 686 Submission ([#16696](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16696)) 👈
   
 ## Sprint 36
-_Dec 2 - Dec 15_
+_Dec 2 - Dec 15_  
 `If the above is succesful`
 - Complete larger testing with other workflows
 - Test using Sidekiq jobs on FE
@@ -205,12 +205,9 @@ _Dec 2 - Dec 15_
 - PD: Stakeholder review/ demo
 - PD: Coordinate with VA comms
 
-## Sprint 37
-_Dec 16 - Dec 29_
+## Sprint 37+
+_Dec 16 - Dec 29_  
 `Mind the holoday freeze`
-- Deprecate feature
-- Optimization/ongoing bug fixes
-- [Post Launch Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#post-launch-check-in) 🌀 
 - PD: Stakeholder review/ demo
 - PD: Coordinate with VA comms
 - FE: Adjust the robots.txt file to include the direct link to the 686 for no_follow
@@ -220,7 +217,10 @@ _Dec 16 - Dec 29_
 - Remove url from robots.txt file to allow for search to crawl the new form
 - Create eBenefits user redirect messaging  
 - Coordinate page redirects
+- [Post Launch Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#post-launch-check-in) 🌀 
 - Code hardening/bug fixes
+- Deprecate feature
+- Optimization/ongoing bug fixes
 
 ## Other Tools and Resources
 - [Table of contents for 686 mockups](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design)
