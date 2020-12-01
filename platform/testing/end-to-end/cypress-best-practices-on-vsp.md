@@ -10,7 +10,7 @@
   - [Viewport Presets: `cy.viewportPreset(preset, orientation, options)`](#viewport-presets-cyviewportpresetpreset-orientation-options)
   - [File Uploads: `cy.upload(fileName, fileType)`](#file-uploads-cyuploadfilename-filetype)
   - [Expand Accordions: `cy.expandAccordions()`](#expand-accordions-cyexpandaccordions)
-  - [Accessibility - `cy.axeCheck(context, tempOptions)`](#accessibility-cyaxecheckcontext)
+  - [Accessibility - `cy.axeCheck(context, tempOptions)`](#accessibility-cyaxecheckcontext-tempoptions)
   - [Accessibility Convience Function: `injectAxeThenAxeCheck(context, tempOptions)`](#accessibility-convience-function-injectaxethenaxecheckcontext-tempoptions)
 - [Iterate Through Top VA.gov Viewports](#iterate-through-top-vagov-viewports)
 - [Cypress Testing Library Selectors](#cypress-testing-library-selectors)
