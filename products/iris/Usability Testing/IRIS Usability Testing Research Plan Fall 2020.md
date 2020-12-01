@@ -77,6 +77,10 @@ Our preference is to test with the same users we originally interviewed at the s
 
 We will work with Perigean who will identify users with an aim to have sessions with 10 users.
 
+Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom.
+
+We want to ensure at least 1 participant is a person with a disability.
+
 
 2.	What is your recruitment strategy? 
 
