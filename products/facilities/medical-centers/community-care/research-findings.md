@@ -67,25 +67,25 @@ Finding: __True__
 ### Details of Findings
 
 #### 1. 5 out of 7 Community Care managers, sub-specialties are not something most Veterans understand.
-Detail
+Detail & Quotes
 
 #### 2. 4 out of 7 CCMs stated that Veterans often select Urgent Care in Facility Type, rather than selecting Community Care, then Urgent Care under Service Type.
-Detail
+Detail & Quotes
 
 #### 3. 1 CCM stated that they prefer to help them find the sub-specialty.
-("We'll do that.")
+Detail & Quotes ("We'll do that.")
 
 #### 4. 1 CCM, the use of the Service Type text field by the Veteran is problematic due to spelling typos and unfamiliarity with sub-specialty terms
-Detail
+Detail & Quotes
 
 #### 5. 6 out of 7 CCMs stated that they use Google to supplement their search for providers.
-Detail
+Detail & Quotes
 
 #### 6. 5 out of 7 CCMs stated that they call providers to supplement their search.
-Detail
+Detail & Quotes
 
 #### 7. 2 CCMs use a self-created spreadsheet of providers with all of the complete and correct provider information.
-Detail
+Detail & Quotes
 
 
 ## Additional Insights
