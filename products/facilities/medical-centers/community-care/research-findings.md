@@ -58,7 +58,7 @@ Finding: __True__
 
 1. 5 out of 7 participants, sub-specialties are not something most Veterans understand.
 2. 1 out of 7 participants stated that they prefer to help them find the sub-specialty ("We'll do that.").
-3. According to one CCM, the use of the Service Type text field by the Veteran is problematic due to spelling typos.
+3. 1 out of 7 participants stated that the use of the Service Type text field by the Veteran is problematic due to spelling typos.
 4. 6 out of 7 participants stated that they use Google to find complete and updated information about providers. 
 5. 5 out of 7 participants stated that they call providers to validate information found on PPMS and seek information that is missing. 
 6. 2 out of 7 participants use a self-created spreadsheet of providers with validated provider information.
