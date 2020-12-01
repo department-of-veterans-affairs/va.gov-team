@@ -92,14 +92,22 @@ One CCM mentioned the need to use Google to find names of clinics:
 > Most patients know the practice name, not the provider name. We only get the provider name so we use Google for the clinic name.
 
 #### 5. 5 out of 7 CCMs stated that they call providers to validate information found on PPMS, and seek information that is missing.
-One CCM stated the importance of knowing whether a provider is accepting new patients: 
+One CCM calls to verify that the provider is accepting VA referrals
+
+Another CCM stated the importance of knowing whether a provider is accepting new patients: 
 > It's important to know if they are accepting new patients. This doesn’t reflect that. You really have to call every provider, which is very time consuming.
 
-Another CCM mentioned the need for fax numbers:
+One CCM mentioned the need for fax numbers:
 > A lot of times fax numbers aren’t in PPMS. We use that for transmitting referrals. If it was there, that’d be one less call we’d have to make to the providers.
 
+One CCM stated that the provider portal is not updated, and so they call to verify information:
+> The only problem is that it’s not updated. We have to make sure we don’t send them to the wrong clinic based on the provider information. I call the clinic to make sure they’re accepting VA patients, and verify contact information.
+
 #### 6. 2 CCMs use a self-created spreadsheet of providers with all of the complete and correct provider information.
-Detail & Quotes
+The CCMs use a spreadsheet to keep up-to-date information on providers:
+> I update the spreadsheet with new providers and those which are accepting new patients.
+
+> We use our own spreadsheet to track street numbers and addresses.
 
 
 ## Additional Insights
