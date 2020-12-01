@@ -283,6 +283,10 @@ Don't include if this is done before the sprint:
 
 ## Sprint 36 (12/2 – 12/15)
 
+### Time off
+
+- Lihan: 12/14 - 12/15
+
 Anything outstanding from sprint 35, plus:
 
 ### My VA redesign
@@ -354,6 +358,7 @@ Designer #2 (designer #1 can help with this once the write-up is done):
 - Cassandra: 12/21 - 1/1
 - Erik: 12/24 - 25; 12/31 - 1/1
 - Sandra: No time
+- Lihan: 12/16 - 12/29
 
 ### My VA redesign
 
