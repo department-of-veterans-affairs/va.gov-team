@@ -51,7 +51,7 @@ Finding: True.
 
 We can understand how to simplify the search experience in VAOS.
 
-Finding: #True
+Finding: [b]True
 * Based on feedback from Community Care managers, there are provider data gaps in PPMS, which requires CCMs to use other tools to find the correct Community Care providers. 6 out of 7 CCMs stated that they use Google to supplement their search for providers, while 5 out of 7 CCMs stated that they call providers to supplement their search. Additionally, 2 CCMs use a self-created spreadsheet of providers with all of the complete and correct provider information.
 
 ### Key Findings
