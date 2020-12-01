@@ -19,8 +19,8 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 | View My Payments                                    | vsa-ebenefits | Q2        | Q2        | Q3        | Q1 FY2021 | BGS integration
 | Apply for PCPG CH36 (8832)                          | vsa-ebenefits | Q3        | Q3        | Q3        | Q2 FY2021 | Submit to Central Mail; project Jan 4 2021 launch for program alignment
 | Apply for VRE CH31 (1900)                           | vsa-ebenefits | Q3        | Q3        | Q3        | Q2 FY2021 | New VRE (CMS) integration required; Mar 4 MVP launch for program alignment
-| Update Direct Deposit (EDU)                         | vsa-ebenefits | Q1 FY2021 | --        | --        | Q1 FY2021 | BGS Integration
-| View My Documents (eFolder)                         | vsa-bam-2     | Q3        | Q3        | Q4        | Q1 FY2021 | VBMS integration, filtering only to my uploads/ my POA uploads
+| Update Direct Deposit (EDU)                         | vsa-authd-exp | Q1 FY2021 | --        | --        | Q2 FY2021 | BGS Integration, new research
+| View My Documents                                   | vsa-bam-2     | Q3        | Q3        | Q4        | Q1 FY2021 | Partially complete in Claim Status Tool, requires research on deltas
 | View POA (Representative)                           | vsa-ebenefits | Q3        | Q3        | Q1 FY2021 | Q2 FY2021 | Lighthouse integration (BGS), launch with Modify
 | Search for POA                                      | vsa-ebenefits | Q3        | Q3        | Q1 FY2021 | Q2 FY2021 | OGC System integration, launch with Modify
 | Modify POA (22/ 22a)                                | vsa-ebenefits | Q3        | Q3        | Q1 FY2021 | Q2 FY2021 | Lighthouse integration (BGS)
@@ -31,8 +31,8 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 | View Specially Adapted Housing Grant Status         | vsa-ebenefits | Q1 FY2021 | Q2 FY2021 | Q2 FY2021 | Q2 FY2021 | Requires Discovery, possible new LGY integration required
 | Apply for Specially Adapted Housing Grant (4555)    | vsa-ebenefits | Q1 FY2021 | Q2 FY2021 | Q2 FY2021 | Q2 FY2021 | Requires Discovery, possible new LGY integration required
 | Benefits Explorer                                   | TBD           | Q3 FY2021 | Q3 FY2021 | --        | --        | Requires Discovery, possible new integration(s) required
-| View Dependent Benefits Letter                      | vsa-ebenefits | --        | --        | --        | --        | Requires Discovery and Documentation
-| _SEP Features Placeholder_                          | vsa-ebenefits | --        | --        | --        | --        | Requires Discovery and Documentation
+| View Dependent Benefits Letter                      | TBD           | --        | --        | --        | --        | Requires Discovery and Documentation
+| _SEP Features Placeholder_                          | TBD           | --        | --        | --        | --        | Requires Discovery and Documentation
 
 
 ## Complete: Applications and Features
