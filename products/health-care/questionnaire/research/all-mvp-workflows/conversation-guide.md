@@ -70,7 +70,7 @@ Think about your last primary care provider visit at the VA.
 - Did your appointment experience differ at all from past experiences due to COVID? If so, how?	
 - What was the experience prior to the appointment like? For example, did you have to fill out any forms before the appointment? Did the nurse ask you a lot of questions?
 
-## Questionnaire Scenarios
+## Questionnaire Scenarios - 30 minutes
 
 Keep that pre-appointment experience in mind through the next series of scenarios that we are going to discuss.	I'm going to send you a link in the chat.
 
