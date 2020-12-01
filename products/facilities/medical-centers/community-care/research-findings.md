@@ -57,33 +57,39 @@ Finding: __True__
 ### Key Findings
 
 1. 5 out of 7 Community Care managers, sub-specialties are not something most Veterans understand.
-2. 4 out of 7 CCMs stated that Veterans often select Urgent Care in Facility Type, rather than selecting Community Care, then Urgent Care under Service Type. 
-3. 1 CCM stated that they prefer to help them find the sub-specialty ("We'll do that.").
-4. According to another CCM, the use of the Service Type text field by the Veteran is problematic due to spelling typos and unfamiliarity with sub-specialty terms
-5. 6 out of 7 CCMs stated that they use Google to find complete and updated information about providers. 
-6. 5 out of 7 CCMs stated that they call providers to validate information found on PPMS. 
-7. 2 out of 7 CCMs use a self-created spreadsheet of providers with validated provider information.
+2. 1 out of 7 CCM stated that they prefer to help them find the sub-specialty ("We'll do that.").
+3. According to another CCM, the use of the Service Type text field by the Veteran is problematic due to spelling typos.
+4. 6 out of 7 CCMs stated that they use Google to find complete and updated information about providers. 
+5. 5 out of 7 CCMs stated that they call providers to validate information found on PPMS. 
+6. 2 out of 7 CCMs use a self-created spreadsheet of providers with validated provider information.
 
 ### Details of Findings
 
 #### 1. 5 out of 7 Community Care managers stated sub-specialties are not something most Veterans understand.
-One called out the medical-specific nuances of sub-specialty terms that Veterans must choose:
+Several CCMs called out the medical-specific nuances of sub-specialty terms that Veterans must choose:
 > The average Veteran isn’t going to know the difference between a sports podiatrist and foot/ankle podiatrist. If you’re trying to put the subspecs in for the Veterans, most won’t know the difference.
 
-One CCM stated that they would prefer to do the work of selecting a sub-specialty for the Veteran.
-> If i’m just looking for a cardiologist I can’t find the layman;s term. This is not to their reading/interpretation level. They don’t know what those terms mean. There doesn't need to be subcategories - they can just be generic. We’ll provide that.
+> If i’m just looking for a cardiologist I can’t find the layman's term. This is not to their reading/interpretation level. 
 
 Another CCM, when asked if Veterans understand sub-specialties:
-> No, they don't. I used to be the oncology scheduler, can’t tell you how many I called from Oncology and they didn’t know what that term meant.
+> No, they don't. I used to be the oncology scheduler, and I can’t tell you how many Veterans I called from Oncology and they didn’t know what that term meant.
 
-#### 2. 1 CCM stated that they prefer to help them find the sub-specialty.
-Detail & Quotes ("We'll do that.")
+#### 2. One CCM stated that they would prefer to do the work of selecting a sub-specialty for the Veteran.
+> Veterans don’t know what those terms mean. There doesn't need to be any subcategories - they can just be generic. We’ll provide that.
 
-#### 3. 1 CCM, the use of the Service Type text field by the Veteran is problematic due to spelling typos and unfamiliarity with sub-specialty terms
-Detail & Quotes
+#### 3. According to another CCM, the use of the Service Type text field by the Veteran is problematic due to spelling typos. 
+If a Veteran happens to know sub-specialty terms, using the type-ahead field under Service Type can lead to misspellings, which also negatively impact search results. 
+> I can tell you this will cause problems. Mistyping Chiro is an example.
 
 #### 4. 6 out of 7 CCMs stated that they use Google to supplement their search for providers.
-Detail & Quotes
+Several mentioned gaps in provider data, such as an outdated phone number or address.
+> Sometimes the provider has moved or is no longer affiliated. Sometimes the change happened 3-4 yrs ago but is still in the system. I have to Google to find the info I need.
+
+One stated that their new partner finds providers listed under "multi-specialty".
+> Our new partner has listed a lot under multi-specialty, so it’s sometimes a guessing game, or you have to Google.
+
+One CCM mentioned the need to use Google to find names of clinics.
+> Most patients know the practice name, not the provider name. We only get the provider name so we use Google for the clinic name.
 
 #### 5. 5 out of 7 CCMs stated that they call providers to supplement their search.
 Detail & Quotes
