@@ -44,36 +44,47 @@ Remote, moderated sessions were conducted via Teams for generative questioning.
 
 We can understand how to simplify the search experience in Facility Locator.
 
-Finding: __True__
-* Sub-specialties: Based on feedback from 5 out of 7 Community Care managers, sub-specialties are not something most Veterans understand. 1 CCM stated that they prefer to help them find the sub-specialty ("We'll do that."). According to another CCM, the use of the Service Type text field is problematic due to spelling typos and unfamiliarity with sub-specialty terms. 
-* Urgent Care: 4 out of 7 CCMs stated that Veterans often select Urgent Care in Facility Type, rather than selecting Community Care, then Urgent Care under Service Type. 
-* Provider Data Quality: However, based on feedback from CCMs, (see Finding - VAOS below) there are gaps in provider data in PPMS. This impacts the quality of data found in Facility Locator, which depends on PPMS for Community Care search results. 
+Finding - Facility Locator: __True__
+* Sub-specialties: Most Community Care Managers do not think that sub-specialties are something most Veterans understand. They might know a term such as podiatry or cardiology, but the sub-categories are often beyond laymen's terms. Urgent Care is often selected in the Facility Type, rather than in Service Type under Community Care. As a separate issue (but which impacts Facility Locator search results), there are gaps in provider data in PPMS. Facility Locator depends on PPMS for Community Care search results. 
 
 We can understand how to simplify the search experience in VAOS.
 
-Finding: __True__
-* Based on feedback from Community Care managers, there are provider data gaps in PPMS, which requires CCMs to use other tools to find the correct Community Care providers. 6 out of 7 CCMs stated that they use Google to supplement their search for providers, while 5 out of 7 CCMs stated that they call providers to supplement their search. Additionally, 2 CCMs use a self-created spreadsheet of providers with all of the complete and correct provider information.
+Finding - VAOS: __True__
+* Based on feedback from Community Care managers, there are provider data gaps in PPMS. Incorrect or incomplete data in PPMS requires CCMs to use other tools, to find the correct Community Care providers. Searching by Google or making calls to providers are common methods in scheduling with providers.
 
 ### Key Findings
 
-1. 
-2.
-3.
-4.
+1. 5 out of 7 Community Care managers, sub-specialties are not something most Veterans understand.
+2. 4 out of 7 CCMs stated that Veterans often select Urgent Care in Facility Type, rather than selecting Community Care, then Urgent Care under Service Type. 
+3. 1 CCM stated that they prefer to help them find the sub-specialty ("We'll do that.").
+4. According to another CCM, the use of the Service Type text field by the Veteran is problematic due to spelling typos and unfamiliarity with sub-specialty terms
+5. 6 out of 7 CCMs stated that they use Google to supplement their search for providers. 
+6. 5 out of 7 CCMs stated that they call providers to supplement their search. 
+7. 2 CCMs use a self-created spreadsheet of providers with all of the complete and correct provider information.
 
 ### Details of Findings
 
-#### 1. Finding
+#### 1. 5 out of 7 Community Care managers, sub-specialties are not something most Veterans understand.
 Detail
 
-#### 2. Finding
+#### 2. 4 out of 7 CCMs stated that Veterans often select Urgent Care in Facility Type, rather than selecting Community Care, then Urgent Care under Service Type.
 Detail
 
-#### 3. Finding
+#### 3. 1 CCM stated that they prefer to help them find the sub-specialty ("We'll do that.").
+
+#### 4. 1 CCM, the use of the Service Type text field by the Veteran is problematic due to spelling typos and unfamiliarity with sub-specialty terms
 Detail
 
-#### 4. Finding
+#### 5. 6 out of 7 CCMs stated that they use Google to supplement their search for providers.
 Detail
+
+#### 6. 5 out of 7 CCMs stated that they call providers to supplement their search.
+Detail
+
+#### 7. 2 CCMs use a self-created spreadsheet of providers with all of the complete and correct provider information.
+Detail
+
+
 
 ## Additional Insights
 
