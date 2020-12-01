@@ -114,11 +114,11 @@ On the confirmation page,
 	- Would you prefer to navigate anywhere else instead?
 - When (if at all) would you view and print questions? When (if at all) would you print this PDF?
 
-- Remember when we talked about saving your in-progress questionnaire answers. Pretend that you are returning to the form the next day after saving your current work and you lost the notification (email or text), where on va.gov would you look first to find this questionnaire? (Pick one.)
-		- I would use the search.
-		- I would navigate to a list of my appointments and expect a questionnaire link to appear in the details of my appointment.
-		- I would log in and expect to see a link on my dashboard to the questionnaires that I need to complete.
-		- I would use the main menu on va.gov to navigate to a health questionnaire section. _(If the participant selects this, make them pick their second option.)_
+Remember when we talked about saving your in-progress questionnaire answers. Pretend that you are returning to the form the next day after saving your current work and you lost the notification (email or text), where on va.gov would you look first to find this questionnaire? (Pick one.)
+- I would use the search.
+- I would navigate to a list of my appointments and expect a questionnaire link to appear in the details of my appointment.
+- I would log in and expect to see a link on my dashboard to the questionnaires that I need to complete.
+- I would use the main menu on va.gov to navigate to a health questionnaire section. _(If the participant selects this, make them pick their second option.)_
 
 ### Scenario 2
 Now, you found the main health questionnaires section on va.gov...(ask while displaying the marketing/Drupal page)
