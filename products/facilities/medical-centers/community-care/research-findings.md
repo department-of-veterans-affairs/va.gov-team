@@ -122,7 +122,9 @@ __VA Online Scheduling__
 
 ## Next Steps
 
-* 
+* Implement design recommendations.
+* Share relevant findings with other teams and stakeholders.
+
 
 ## Appendix
 
