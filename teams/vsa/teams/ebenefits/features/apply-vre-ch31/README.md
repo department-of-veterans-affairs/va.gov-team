@@ -12,7 +12,7 @@ _(previously Vocational Rehabilitaion and Employment)_
 - VA.gov link (unauth landing page): https://www.va.gov/careers-employment/vocational-rehabilitation/
 - VA.gov link (tool page): https://staging.va.gov/careers-employment/vocational-rehabilitation/apply/
 
-## WIP
+## Product Outline
 
 ### Table of Contents
 
@@ -58,6 +58,7 @@ As a Veteran or Servicemember I need to understand and apply for CH31 benefits.
 ### Business Goals
 
 - Sunset eBenefits
+- Provide applicants with a brief orientation to increase qualified conversions
 
 ## Assumptions
 
