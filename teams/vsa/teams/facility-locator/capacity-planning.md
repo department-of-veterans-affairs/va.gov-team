@@ -26,6 +26,9 @@
 ### Holidays
 ### Additional out of office
 
+## December 2020
+    -  Gibran: November 21-25 (Christmas week) - still tentatively
+
 ## November 2020
     -  Gibran: November 23-27 (Thanksgiving week)
     -  Leyda: November 25-27 (Wed-Fri)
