@@ -43,6 +43,7 @@ Remote, moderated sessions were conducted via Teams for generative questioning.
 ### Findings by Hypothesis
 
 We can understand how to simplify the search experience in Facility Locator.
+
 Finding: True. 
 * Sub-specialties: Based on feedback from 5 out of 7 Community Care managers, sub-specialties are not something most Veterans understand. 1 CCM stated that they prefer to help them find the sub-specialty ("We'll do that."). According to another CCM, the use of the Service Type text field is problematic due to spelling typos and unfamiliarity with sub-specialty terms. 
 * Urgent Care: 4 out of 7 CCMs stated that Veterans often select Urgent Care in Facility Type, rather than selecting Community Care, then Urgent Care under Service Type. 
