@@ -84,13 +84,12 @@ For the last part of this session, we're going to switch gears again and look at
 With the same scenario in mind, helping a friend, except this time I'd like for you to imagine that you did a search and you landed on this page. I'm going to give you a minute to look it over and feel free to think out loud any thoughts that come to mind.
 
  - What can you tell me about this place?
- - How does this location compare or differ from other VA facilities you've visited in the past?
  - What kind of care or services do you think you get here?
  - What are the most important services offered here?
  - Is there any additional information that you think should be added about each service?
- - What would you be ale to tell your friend about the individual counseling and group counseling services offered here?
+ - What would you be able to tell your friend about individual counseling?
+ - What would you be able to tell your friend about group counseling services offered here?
  - What do you think is the relationship between the different locations listed on this page?
- - What is the most important thing for someone to know before visiting for the first time?
  - Is there any other information that you don't see that you think would be helpful or necessary before visiting?
  - What would make this website better?
 
