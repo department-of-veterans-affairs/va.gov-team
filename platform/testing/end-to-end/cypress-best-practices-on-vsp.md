@@ -270,8 +270,8 @@ Checks the current page for aXe violations.
 
 #### Arguments:
 
-context -- a `String`, defaults to `main`
-tempOptions -- an `Object`, defaults to an empty `Object`
+- context -- a `String`, defaults to `main`
+- tempOptions -- an `Object`, defaults to an empty `Object`
 
 To add aXe checks to your tests use the custom `cy.axeCheck()` command based off the `cy.checkA11y()` [command](https://github.com/component-driven/cypress-axe#cychecka11y).
 
