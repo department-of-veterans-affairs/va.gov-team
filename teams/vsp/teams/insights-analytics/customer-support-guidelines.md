@@ -105,14 +105,17 @@ Outside of access requests, anything that will take you longer than 5-10 minutes
   - The Implementation Specialists will QA the data
   - The Product Manager & Data Engineer will onboard & train the requester
   
-### General Analytics Request Cadence
+#### General Analytics Request Cadence
 
 - Tickets will not be auto-assigned
 - Depending on the complexity of the request, we will pull tickets into the Sprint during Stand Ups, otherwise every Planning & Grooming session.
 
 **Analytics Meeting Requests**
+
 The following team members should be added to the corresponding meetings:
+
 (Please see RACI sheet for this information as well)
+
 - Analytics orientation: Product Manager
 - Google Analytics overview: Implementation Specialist
 - KPI setting workshop: Product manager and Implementation Specialist _or_ Data Engineer
