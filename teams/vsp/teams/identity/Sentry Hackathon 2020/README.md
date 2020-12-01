@@ -119,6 +119,21 @@ Sentry Error Links:
 - [Failed to fetch errors](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15883)
   
 ## Closing Remarks and Feedback
-- Add feedback here, improvements for next hackathon, current status of sentry error cleanup
+- Went Well:
+    - "Knowledge-shring and collaborating within the team"
+    - "A lot of informative background information"
+    - "Excellent overview of error buckets before the event and during the event by Eric Buckley"
+    - "Error buckets helped group common/similar problems, makes them seem more manageable than dozens of "different" errors/issues to tackle"
+    - "Everyone was very engaged, team seemed to gel during the event"
+- To Improve:
+    - "Get access/permission (SOCKS, AWS, etc) to those who need it so they can participate"
+    - "Hard to get substantial amount of work done in relatively short time frame; much of time spent familiarizing with issue"
+    - "Felt like only half of the meeting was spent "hacking" on solutions"
+    - "Providing more background reading before the hackathon starts (eg Sentry overview documentation)
+    - "More hackathons"
+- Action Items
+    - More hackathons:
+        - [Need to schedule the next hackathon to at least complete the last two error buckets](https://app.zenhub.com/workspaces/vsp-identity-5f5bab705a94c9001ba33734/issues/department-of-veterans-affairs/va.gov-team/16758)
+        - [Build template for future hackathons](https://app.zenhub.com/workspaces/vsp-identity-5f5bab705a94c9001ba33734/issues/department-of-veterans-affairs/va.gov-team/16759)
 
 
