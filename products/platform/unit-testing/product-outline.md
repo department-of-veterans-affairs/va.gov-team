@@ -1,93 +1,46 @@
-# Product Outline Template
----
+# Unit Testing (Frontend) - Product Outline
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+TBD
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+Unit tests test a single part of implementation in code (a unit). All FE apps on VA.gov should have unit tests (VSP's [unit testing guidance](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-unit-test/) is that tests cover at least 75% of code paths). VSP has limited guidance on best practices for unit tests, and does not currently report on test coverage. We know that unit tests are a pain point (because as of Q4 2020 they keep failing and causing builds to fail), but we have a very limited aggregate view into how VFS teams are writing them. 
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
- 
-## Desired User Outcomes
+How might we improve the stability and coverage of `vets-website` unit tests while maintaining VFS team automony? 
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+## Personas
+- VFS engineers
+- VSP engineers
 
-## Undesired User Outcomes
-
-
-## Desired Business Outcomes
-
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
-
-## Undesired Business Outcomes
-
-
----
 ## Measuring Success
 
-
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
-
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
+* Average percent unit test coverage of VFSs [blocked by,]
+* Number of VFS teams that report on unit test coverage
+* Number of teams blocked when a unit test fails, on average
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
-
-### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
-
-- Objective:
-  - Key result: 
-  - Key result: 
-
+* _Baseline values for those most critical metrics, if possible._
 
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- VFS teams should be responsible for testing their own apps
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+See [Unit test overview](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-unit-test/) in FE documentation for a description of the current solution approach.
 
 --- 
 
-## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](#go-to-market-strategy)
-
 ## Launch Dates
-- *Target Launch Date*
-  - tbd
-- *Actual Launch Date* 
-  - tbd
-- *What date will you evaluate impact after launch?*
-  - 
----
-
-## Solution Narrative
-
-### Current Status
-
-### Key Decisions
+- *Launch Date*: TBD
 
 ---
-   
+
 ## Screenshots
+
+_Include before/after screenshots, if applicable. Delete this section otherwise._
 
 ### Before
 
@@ -95,7 +48,15 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ---
 
-#### Communications
+## Reference Material
+
+_Link to the following materials as relevant._
+
+- VFS-facing Product README (in `/platform`)
+- Release Plan
+- Any product health or success dashboards
+
+### Communications
 
 <details>
 
@@ -103,27 +64,13 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - GitHub Label: 
 - Slack channel: 
 - Product POCs:
-- Stakeholders: 
 
 </details>
 
-#### Team Members
+### Stakeholders
 
 <details>
- 
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
- 
-</details>
 
-
-#### Stakeholders
-
-<details>
- 
 _What offices/departments are critical to make this initiative successful?_
- 
-</details>
 
+</details>
