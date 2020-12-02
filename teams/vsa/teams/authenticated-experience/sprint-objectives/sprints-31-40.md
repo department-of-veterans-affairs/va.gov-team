@@ -315,7 +315,6 @@ Designer #2 (designer #1 can help with this once the write-up is done):
   - Finalize wireframes. This might include:
     - Deciding exactly which blocks and what information we are including on the page.
     - Finalizing the order of blocks on the page.
-    - Notification block template that works for all notification types (if we stick with newsfeed approach)
     - Adding a page title (H1) (eg. "My VA")
     - Mocking up blank states 
 - If time, start desktop conversion
@@ -386,6 +385,7 @@ Designer #2 (designer #1 can help with this once the write-up is done):
 **Design**
 
 - Mock up first-time user experience
+- LOA1 design
 - Visual design
 - Gather feedback from design team
 
