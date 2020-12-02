@@ -24,6 +24,10 @@
 | [All] Collab Cycle Approvals for Pros 	| -- |  |
 | [UI] MVP Usability Testing 	| -- |  |
 | [UX] Analytics	| -- |  |
+| [Product] Change Management for Implementation 	| -- |  |
+| [FE] Integration  (combined pgd and map) with vets API for pulling in a appointment data | -- | # |
+| [FE] Integration (combined pgd and map) with vets API for pulling in all questionnaires list| -- | # |
+| [FE] Integration (combined pgd and map) with vets API for subitting data | -- | # |
 
 ## Sprint 36 - Integraion Testing / Analytics 
 12/2/2020 - 12/15/2020
@@ -31,15 +35,11 @@
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
-| [UI]  | -- | # |
+| [UX] Stakeholder/Clinician Interviews  | -- | #15049  |
 | [UX] Create interactive MVP prototype   	| -- |  |
-| [FE] Analytics | -- | # |
-| [FE] Integration with vets API for pulling in a appointment data | -- | # |
-| [FE] Integration with vets API for pulling in all questionnaires list| -- | # |
-| [FE] Integration with vets API for subitting data | -- | # |
 | [UX/FE] Print PDF of Questionnaire | -- | #  |
-| [BE]  | -- | # |
-| [Product] Change Management for Implementation 	| -- |  |
+| [BE] Post Questionnaire Responses | -- | # |
+| [FE] Content and IA updates | -- | # |
 | [BE/FE] Implementation for Questionnaire Trigger Service | -- | #  |
 
 
