@@ -56,13 +56,15 @@ User is directed to the prototype.
 - We'll be using made-up scenarios that may not necessarily apply to you. We'll be filling-out a small form (or forms), and you're free to use whatever info comes to mind--fake numbers are fine. 
 - Nothing will be submitted because this is a prototype. However, we're recording this, so please don't use real account numbers--1234567890 etc. should work.
 - For the purpose of this test, we'll go with what we said earlier: you moved changed banks so you need VA to make deposits into your new account.
+- You've come to this page and want to change your direct deposit information; what do you do next?
 
 ### Task 1 / View direct deposit info / 5 minutes
 User reviews direct deposit information available for one or both payment types.
-- Please take a **look at this screen and find the direct deposit information for educational payments.**
+- Take a look at this screen and describe what you see.
+- Now **find the direct deposit information for educational payments.** What info do you see?
 - Describe what else is on this screen? ...What other payments types do you see?
 - Why do you think there are two sets of payment info?
-- If you thought you were the victim of bank fraud, what could you do?
+- If you thought you were the victim of bank fraud, what can you do?
 
 #### Things to look for:
 - How quickly does the user find the DD info?
@@ -73,7 +75,8 @@ User reviews direct deposit information available for one or both payment types.
 User changes the direct deposit info to a "new" savings account.
 - Let's say you moved and you had a new savings account. **Update the information for your educational payments.**
 - How often have you updated your info? 
-- If this were real information, what would expect to happen after you updated? How long do you think that would take?
+- If this were real information, what would expect to happen after you updated? 
+- How long do you think that would take?
 
 #### Things to look for:
 - Do users immediately use the correct edit function (education)?
@@ -83,9 +86,10 @@ User changes the direct deposit info to a "new" savings account.
 
 ### Task 3 / One payment type only / 5 minutes
 User advances to a screen showing only compensation and pension direct deposit info.
-- Please take a **look at this screen and find the direct deposit information for educational payments.**
-- If you thought this was an error, what could you do?
-- Let's say you know this is right, and you don't get educational payments. How do you feel about showing the message?
+- Take a look at this screen and describe what you see.
+- Now **find the direct deposit information for educational payments.** What info is there?
+- If you thought you should also be receiving comp & Pen payments, what can you do?
+- Let's say you know this is right, and you don't get educational payments. How do you feel about the C&P box?
 
 #### Things to look for:
 - How do users react to the "You don't receive payments" messaging?
