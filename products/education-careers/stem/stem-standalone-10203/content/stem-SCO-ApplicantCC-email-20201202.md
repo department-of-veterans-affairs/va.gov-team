@@ -10,6 +10,7 @@ Rogers STEM Scholarship Team
 
 VA Buffalo Regional Processing Office
 
+--------------
 
 Dear VA School Certifying Official, 
 
