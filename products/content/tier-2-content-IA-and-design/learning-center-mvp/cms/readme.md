@@ -5,6 +5,15 @@
  -  LC go-to-market strategy: how will users find the Learning Center?
 </details>
 
+## Wednesday December 9
+
+### Agenda
+
+1. Backlog
+1. anything else
+
+### Action items
+
 ## Wednesday December 2
 
 ### Agenda
@@ -16,7 +25,7 @@
 
 ### Action items
 
-1. 
+1. consensus on video desc/duration required fields - let's do it
 
 ## Wednesday November 25
 
