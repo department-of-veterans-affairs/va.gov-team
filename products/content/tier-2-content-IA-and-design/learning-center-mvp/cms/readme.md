@@ -10,6 +10,8 @@
 ### Agenda
 
 1. Video Description / Duration - required fields
+1. Backlog
+1. anything else
 
 ### Action items
 
