@@ -75,7 +75,7 @@ Several CCMs called out the medical-specific nuances of sub-specialty terms that
 Another CCM, when asked if Veterans understand sub-specialties:
 > No, they don't. I used to be the oncology scheduler, and I can’t tell you how many Veterans I called from Oncology and they didn’t know what that term meant.
 
-#### 2. One CCM stated that they would prefer to do the work of selecting a sub-specialty for the Veteran.
+#### 2. One participant stated that they would prefer to do the work of selecting a sub-specialty for the Veteran.
 > Veterans don’t know what those terms mean. There doesn't need to be any subcategories - they can just be generic. We’ll provide that.
 
 #### 3. According to another CCM, the use of the Service Type text field by the Veteran is problematic due to spelling typos. 
@@ -110,7 +110,7 @@ The CCMs use a spreadsheet to keep up-to-date information on providers:
 
 > We use our own spreadsheet to track street numbers and addresses.
 
-#### 7. One participants would like Veterans to have a list of in-network providers who are currently available.
+#### 7. One participant would like Veterans to have a list of in-network providers who are currently available.
 > Nothing is more frustrating to the Veteran than requesting a provider only to be told that provider isn’t in the network. I get yelled at.
 
 
