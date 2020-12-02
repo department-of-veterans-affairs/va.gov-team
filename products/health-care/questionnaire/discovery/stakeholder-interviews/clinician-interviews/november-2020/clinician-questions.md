@@ -72,8 +72,8 @@
 
 1. Do you routinely have your patients send you data from devices, such as blood pressure monitors, CPAP machines, glucometers, mobile apps, wearable devices, etc?
    - If yes... 
-      - What devices?
-      - Are they prescribed or BYO?
+      - From what particular devices?
+      - Are they prescribed by you or BYO?
       - What information are you normally looking for?
       - How does this information impact your interactions with the patient and their quality of care?
       - What other devices might you be interested in reviewing information from?
