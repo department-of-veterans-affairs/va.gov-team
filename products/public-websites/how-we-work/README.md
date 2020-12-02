@@ -32,7 +32,7 @@ Live Google Sheets version: https://docs.google.com/spreadsheets/d/1izUIMwzl7NRv
 
 - Quarterly Product Reviews
 
-- Product Success Metrics - Analytics requests: https://dsva.slack.com/archives/C1Q4294JJ/p1606856445131000?thread_ts=1606856429.130900&cid=C1Q4294JJ
+- Product Success Metrics - [How to work with the Analytics team and make requests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-we-work/analytics_requests.md)
 
 ### Roadmap Process
 
