@@ -48,9 +48,8 @@ With established form patterns documented VFS teams will enable VFS teams to bui
 
 
 ## KPIs
-- Forms library use
-- Reduced new form patterns  
-- 
+- Reduction in the time it takes for a designer to produce a prototype of a form
+- Increase reusable form library patterns by 10  
 
 
 
