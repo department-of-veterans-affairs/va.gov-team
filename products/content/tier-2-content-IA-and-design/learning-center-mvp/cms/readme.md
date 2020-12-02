@@ -9,6 +9,7 @@
 
 ### Agenda
 
+1. Any collaboration to assist FE team
 1. Video Description / Duration - required fields
 1. Backlog
 1. anything else
