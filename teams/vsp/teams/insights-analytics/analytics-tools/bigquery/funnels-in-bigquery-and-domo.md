@@ -5,10 +5,10 @@
 A **conversion** is when a user on your site or app does something that you want them to do.  This can include completing a form, downloading an app, or some other action.  A **funnel** is a way of visualizing the multiple steps a user takes towards this conversion.
 
 Funnels are useful because they can show you the steps where users tend to exit - or _abandon_ - your form or application.  Applying segments based on user types or actions further improves the diagnostic usefulness of funnels.
-
+ 
 Funnels are a sequence of steps or stages.  These are user actions that you define, most commonly pageviews or other analytics events.
 
-A funnel is said to be **open** if users can enter at any step or **closed **if they are required to start with the first step you define.  Some funnels automatically fill in steps a user skips in a process called **backfilling**.
+A funnel is said to be **open** if users can enter at any step or **closed** if they are required to start with the first step you define.  Some funnels automatically fill in steps a user skips in a process called **backfilling**.
 
 Funnels have a **scope**. Most of our funnels measure completions by the day (though not a requirement), but we must decide if a funnel must be completed in a single session (**session scope**), in a direct sequence of hits (**hit scope**), or merely by the same user at some point during the day (**user scope**).  One of the driving factors in creating funnels in DOMO (as opposed to just in Google Analytics) is the ability to fine-tune the scope and rules of your funnel.
 
@@ -64,18 +64,12 @@ source: <a href="https://support.google.com/analytics/answer/2976313">https://su
 Our goal is to create BigQuery queries that can return calculated funnel user or session counts.  In its most basic form, you need a step number, some sort of step description (like a name), and a metric for users or sessions.
 
 
-<table>
+<table width="100%">
   <tr>
-   <td><strong>Date</strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>Step_Number</strong></p>
-
-   </td>
-   <td><strong>Step_Name</strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>Users</strong></p>
+   <td><strong>Date</strong></td>
+   <td><strong>Step_Number</strong></td>
+   <td><strong>Step_Name</strong></td>
+   <td><strong>Users</strong>
 
    </td>
   </tr>
@@ -113,32 +107,27 @@ Our goal is to create BigQuery queries that can return calculated funnel user or
 Usually you will want to include more information, including the standard date fields and the step's URL or event information:
 
 
-<table>
+<table width="100%">
   <tr>
    <td><strong>Date</strong>
    </td>
-   <td><p style="text-align: right">
-<strong>Month</strong></p>
+   <td><strong>Month</strong>
 
    </td>
-   <td><p style="text-align: right">
-<strong>Day</strong></p>
+   <td><strong>Day</strong>
 
    </td>
-   <td><p style="text-align: right">
-<strong>Year</strong></p>
+   <td><strong>Year</strong>
 
    </td>
-   <td><p style="text-align: right">
-<strong>Step_Number</strong></p>
+   <td><strong>Step_Number</strong>
 
    </td>
    <td><strong>Step_Name</strong>
    </td>
    <td><strong>Step_URL_or_Event_Label</strong>
    </td>
-   <td><p style="text-align: right">
-<strong>Users</strong></p>
+   <td><strong>Users</strong>
 
    </td>
   </tr>
@@ -216,16 +205,20 @@ Example: <br />
 6. When you're done, SELECT COUNT DISTINCT user ID to get user counts for each step.
 7. SELECT UNION ALL all of these user counts to get them into a Users column and return your values.
 
-Hit timestamp: <br />
-`(visitStartTime + hits.time) AS transaction_time`
+Hit timestamp:
+```sql
+(visitStartTime + hits.time) AS transaction_time
+```
 
 
 ### Closed Funnels with Session Scope
 
 Same thing as the User Scope funnel but join on the concatenated session ID.
 
-Concatenated session ID: <br />
-`CONCAT(fullVisitorId, CAST(visitStartTime AS STRING)) AS session_id`
+Concatenated session ID:
+```sql
+CONCAT(fullVisitorId, CAST(visitStartTime AS STRING)) AS session_id
+```
 
 
 ### Closed Funnels with Hit Scope
@@ -420,4 +413,4 @@ This seems to work best when it's partitioned by date.  For funnels without a da
 
 
 ```sql
-1 -  (SUM(`Users`) / LAG(SUM(`Users`), 1) OVER (PARTITION BY `date` ORDER BY `date` ASC))
+1 - (SUM(`Users`) / LAG(SUM(`Users`), 1) OVER (PARTITION BY `date` ORDER BY `date` ASC))
