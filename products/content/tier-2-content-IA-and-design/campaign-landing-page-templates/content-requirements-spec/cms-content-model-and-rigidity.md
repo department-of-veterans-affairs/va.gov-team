@@ -98,10 +98,16 @@ Use Cases:
 
 3. **This is another problem to solve not to be considered for CLP** Author uploads asset into the CMS via this CLP page building tool 
 
-
 **Q:** Can we standardize around the 140 character count used in other places here, instead of 100? 
 
 **A:** Yes!
+
+
+### Update Dec 2 - 
+
+CLP editors can add external documents as media entities, which will ask for media title, description, and URL. PDFs only.  
+
+
 
 ## 8. Events (optional)
 
