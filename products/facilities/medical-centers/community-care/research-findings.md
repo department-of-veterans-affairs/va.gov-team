@@ -56,17 +56,17 @@ Finding: __True__
 
 ### Key Findings
 
-1. 5 out of 7 participants, sub-specialties are not something most Veterans understand.
-2. 1 out of 7 participants stated that they prefer to help them find the sub-specialty ("We'll do that.").
-3. 1 out of 7 participants stated that the use of the Service Type text field by the Veteran is problematic due to spelling typos.
-4. 6 out of 7 participants stated that they use Google to find complete and updated information about providers. 
-5. 5 out of 7 participants stated that they call providers to validate information found on PPMS and seek information that is missing. 
-6. 2 out of 7 participants use a self-created spreadsheet of providers with validated provider information.
-7. 1 out of 7 participants would like Veterans to have a list of in-network providers who are currently available.
+1. For most participants, sub-specialties are not something most Veterans understand.
+2. One participant stated that they prefer to help them find the sub-specialty ("We'll do that.").
+3. One participant stated that the use of the Service Type text field by the Veteran is problematic due to spelling typos.
+4. Most participants stated that they use Google to find complete and updated information about providers. 
+5. All participants stated that they call providers to validate information found on PPMS and seek information that is missing. 
+6. A few participants use a self-created spreadsheet of providers with validated provider information.
+7. One participant would like Veterans to have a list of in-network providers who are currently available.
 
 ### Details of Findings
 
-#### 1. 5 out of 7 participants stated sub-specialties are not something most Veterans understand.
+#### 1. Most participants stated sub-specialties are not something most Veterans understand.
 Several CCMs called out the medical-specific nuances of sub-specialty terms that Veterans must choose:
 > The average Veteran isn’t going to know the difference between a sports podiatrist and foot/ankle podiatrist. If you’re trying to put the subspecs in for the Veterans, most won’t know the difference.
 
@@ -82,7 +82,7 @@ Another CCM, when asked if Veterans understand sub-specialties:
 If a Veteran happens to know sub-specialty terms, using the type-ahead field under Service Type can lead to misspellings, which also negatively impact search results: 
 > I can tell you this will cause problems. Mistyping Chiro is an example.
 
-#### 4. 6 out of 7 participants stated that they use Google to find complete and updated information about providers.
+#### 4. Most participants stated that they use Google to find complete and updated information about providers.
 Several mentioned gaps in provider data, such as an outdated phone number or address:
 > Sometimes the provider has moved or is no longer affiliated. Sometimes the change happened 3-4 yrs ago but is still in the system. I have to Google to find the info I need.
 
@@ -92,7 +92,7 @@ One stated that their new partner finds providers listed under "multi-specialty"
 One CCM mentioned the need to use Google to find names of clinics:
 > Most patients know the practice name, not the provider name. We only get the provider name so we use Google for the clinic name.
 
-#### 5. 5 out of 7 participants stated that they call providers to validate information found on PPMS, and seek information that is missing.
+#### 5. All participants stated that they call providers to validate information found on PPMS, and seek information that is missing.
 One CCM calls to verify that the provider is accepting VA referrals.
 
 Another CCM stated the importance of knowing whether a provider is accepting new patients: 
@@ -104,13 +104,13 @@ One CCM mentioned the need for fax numbers:
 One CCM stated that the provider portal is not updated, and so they call to verify information:
 > The only problem is that it’s not updated. We have to make sure we don’t send them to the wrong clinic based on the provider information. I call the clinic to make sure they’re accepting VA patients, and verify contact information.
 
-#### 6. 2 participants use a self-created spreadsheet of providers with all of the complete and correct provider information.
+#### 6. A few participants use a self-created spreadsheet of providers with all of the complete and correct provider information.
 The CCMs use a spreadsheet to keep up-to-date information on providers:
 > I update the spreadsheet with new providers and those which are accepting new patients.
 
 > We use our own spreadsheet to track street numbers and addresses.
 
-#### 7. 1 participants would like Veterans to have a list of in-network providers who are currently available.
+#### 7. One participants would like Veterans to have a list of in-network providers who are currently available.
 > Nothing is more frustrating to the Veteran than requesting a provider only to be told that provider isn’t in the network. I get yelled at.
 
 
@@ -122,7 +122,7 @@ The CCMs use a spreadsheet to keep up-to-date information on providers:
 
 3. Participants would also like to know if providers are accepting new patients.
 
-4. 2 participants stated that Veterans sometimes want a provider of a specific gender or retired military status. It would be good to have this information.
+4. A few participants stated that Veterans sometimes want a provider of a specific gender or retired military status. It would be good to have this information.
 
 5. One participant had a list of 12 data issues for the provider network to correct. It usually takes two weeks for the provider network to make the corrections.
 
