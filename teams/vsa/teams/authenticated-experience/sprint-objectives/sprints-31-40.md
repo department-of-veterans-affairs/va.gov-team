@@ -339,6 +339,7 @@ Designer #2 (designer #1 can help with this once the write-up is done):
   - [FE] Rename existing direct deposit/payment info code to something more specific to comp and pen when applicable #16684
   - [FE] Build redux actions/reducers for getting edu DD info #16685 
   - [FE] Determine if we can even tell if someone is eligible who has not yet set up DD for edu benefits #16686
+  - [FE] Make educationDirectDeposit feature flag to gate new work #16793
 
 ### Preferred medical facility
 
