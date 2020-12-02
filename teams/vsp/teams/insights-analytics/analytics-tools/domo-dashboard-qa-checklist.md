@@ -14,8 +14,9 @@
   - [ ] Non line graphs have date ranges (dynamic text boxes)
   - [ ] Cross-team: work with designer to ensure the data is explained
   - [ ] Cross-team: work with designer to ensure each "card" has a data source that is clearly linked & that the link works
+      - If Google data is not in GA, please make a note in the dashboard for transparency to our users (i.e. this data is being calculated from BigQuery, with no direct reporting source from GA)
 
-**Designer:**
+**Designer - Data Engineer:**
 
   - [ ] Content is not "too long" so that export is possible
   - [ ] All graphs are logically grouped in layouts so exporting works and feels logical
@@ -24,8 +25,10 @@
   - [ ] Set goal lines
   - [ ] Cross-team: work with GA Reporting Specialist to ensure that data is explained ([metric definitions reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/google-analytics-cheat-sheet.md))
   - [ ] Cross-team: work with GA Reporting Specialist to ensure each "card" has a data source that is clearly linked & that the link works
+        - If Google data is not in GA, please make a note in the dashboard for transparency to our users (i.e. this data is being calculated from BigQuery, with no direct reporting source from GA)
 
-**Contact Center Lead:**
+**Contact Center Team:**
+_If needed_
 
   - [ ] Ensure accuracy of contact center data
   - [ ] Contact center data has appropriate dimensions, descriptions, and sources
