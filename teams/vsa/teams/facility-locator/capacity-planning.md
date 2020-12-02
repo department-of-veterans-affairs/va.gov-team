@@ -30,6 +30,7 @@
 ### Additional out of office
 
 ## December 2020
+    -  MPS: Dec 23, Dec 30
     -  Gibran: December 21-25 (Christmas week) - still tentatively
     -  Leyda: Dec 24 - Jan 1 (Christmas Eve and week after Christmas)
 
