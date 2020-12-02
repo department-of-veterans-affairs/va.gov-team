@@ -17,7 +17,7 @@ Contact Management
 - Associating the inquiries to contacts in the backend
 - Migration strategy for GI Bill accounts from OSvC to VA.gov
 
-Current actors on the FE: Requestor/Inquirer, Veteran, Dependant, On behalf of, General Public (Non-Veteran), Organizations (GI Bill School administrators, Funeral Home/Cemetary directors) 
+Current actors on the FE: Requestor/Inquirer, Veteran, Dependant, On behalf of, General Public (Non-Veteran)
 - Who is the inquirer?
 - What is the subject of the inquiry?
 
@@ -36,7 +36,11 @@ Optimizing for the ease of Veteran experience:
 - Optimizing for the ease of the Contact Center agents: 
 - collect additional fields up front to reduce feedback cycle loop of going back and forth nature of verifying user (ID Proofing) for specific inquiries, with PII, PHI data
 
-
+Current business domain modeling of PAST-R Contact Entity: 
+- in MPI look up with SSN / DOB
+- Anonymous records
+TODO: 
+- Need a third option of establishing an organization (or many individual contacts for the organization) in the case of a Funeral Home/Cemetary/GI Bill School officials that require an ongoing threads/inquiries, not tied to a single Veteran
 
 ## Decision
 
