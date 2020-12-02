@@ -336,7 +336,7 @@ Usually we create two separate cards / visualizations in DOMO for each funnel.
 <table>
   <tr>
    <td>
-
+<img src="domo-funnel-screenshot.png" />
    </td>
    <td><strong>Chart type:</strong>
 <p>
@@ -376,7 +376,7 @@ Value
 <table>
   <tr>
    <td>
-
+<img src="domo-funnel-datatable-screenshot.png" />
 
    </td>
    <td colspan="2" ><strong>Chart type:</strong>
