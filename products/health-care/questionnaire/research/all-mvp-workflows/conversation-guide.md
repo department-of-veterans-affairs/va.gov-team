@@ -78,7 +78,7 @@ Keep that pre-appointment experience in mind through the next series of scenario
 - Show three mobile participants the scenarios in the following order: 1 (text), then 2.
 - Show three mobile participants the scenarios in the following order: 2, then 1 (text).
 
-[Desktop Prototype-Link TBD]()<br/>
+[Desktop Prototype](https://preview.uxpin.com/db0b9ece7c8e0983a8baf1971db406af9f1d2201#/pages/134600037?mode=cvhidm)<br/>
 - Show three desktop participants the scenarios in the following order: 1 (email), then 2.
 - Show three desktop participants the scenarios in the following order: 2, then 1 (email).
 
