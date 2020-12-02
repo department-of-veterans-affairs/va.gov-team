@@ -1,5 +1,7 @@
 # Questions for Clinician Interviews 
 
+## Questionnaire-based Questions
+
 1. To start, I'm going to have you talk through different parts of your typical appointment experience. Let us know if there are any big differences based upon appointment type (new patient, follow-up, physical, etc.)
    - First, how do you prepare for the appointment?
      - What health record information is helpful to review before an appointment?
@@ -65,6 +67,20 @@
    - If yes...
       - How do you create a questionnaire (pull from a template or create your own)?
       - What is your clinic's ability to make custom versus standardized questionnaires?
+      
+## Device-based Questions
+
+1. Do you routinely have your patients send you data from devices, such as blood pressure monitors, CPAP machines, glucometers, mobile apps, wearable devices, etc?
+   - If yes... 
+      - What devices?
+      - Are they prescribed or BYO?
+      - What information are you normally looking for?
+      - How does this information impact your interactions with the patient and their quality of care?
+      - What other devices might you be interested in reviewing information from?
+      - Do you have any concerns about patient-generated data from devices?
+   - If no...
+      - Why not?
+      - What devices or information types might you be most interested incorporating into your practice?
       
       
 # Clinician Recruitment Plan
