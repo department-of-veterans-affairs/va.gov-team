@@ -1,6 +1,6 @@
 **Email subject:** Outreach to School Certifying Official for VA Rogers STEM Scholarship
 
-Dear << full name from application >>
+Dear << full name from application >>,
 
 The email below has been sent to the School Certifying Official (SCO) at << name of school >> to gather information for your Rogers STEM Scholarship application.  If we don’t receive a response from the SCO within 14 days, we will follow up with them for the required information. 
 
@@ -62,5 +62,5 @@ VA Buffalo Regional Processing Office
 
 [Privacy Act Statement]() { Available online at <https://www.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction#privacy_policy> }
 
-cc: { Student email address }
+
 
