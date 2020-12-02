@@ -31,6 +31,7 @@
 
 ## December 2020
     -  Gibran: December 21-25 (Christmas week) - still tentatively
+    -  Leyda: Dec 24 - Jan 1 (Christmas Eve and week after Christmas)
 
 ## November 2020
     -  Gibran: November 23-27 (Thanksgiving week)
