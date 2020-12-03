@@ -25,7 +25,7 @@ Designer: Leyda Hughes
 
      • Leyda starts starts working on a design with "About" content within the CLP template and while also refining detail page 
 
-3. Mon, Nov 23 - Dave tells Michelle to tell me to stop working on CLP. He will decide with other business leaders if CLP is the right approach. Vet Center detail pages now to only contain logistical information specific to each location to mirror VAMCs.
+3. Mon, Nov 23 - Dave has Leyda stop working on CLP. He will decide with other business leaders if CLP is the right approach. Vet Center detail pages should now only contain logistical information specific to each location to mirror VAMCs.
 
 ## Iteration 3 - Sprint 34 (ending Nov 17, 2020)
 
