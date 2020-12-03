@@ -23,6 +23,7 @@ Dec 2 - Met with Mikki, Dave, and Michelle to align on IA for Vet Centers
 
 ## Iteration 5 - Sprint 35 (ending Dec 1, 2020)
 #### Designs
+Goal: refining the IA and relationship between Vet Center parent/child locations
 [Link to wireframe](https://preview.uxpin.com/7a8826eb89e70957ccbe33ea1380346a5128d86d#/pages/134613009/simulate/no-panels)
 
 #### Feedback & Outcomes
