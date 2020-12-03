@@ -6,7 +6,7 @@
 
 Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
 
-Before the session, send out the observer instructions to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel).
+Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/)).
 
 In the Attendees section, make sure everyone except the participant is on mute
 
@@ -18,7 +18,7 @@ When the participant is ready, begin the session with the following intro
 
 ## Project-specific setup 
 
-- Open in a tab (https://staging.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/)
+- Open [The Program of Comprehensive Assistance for Family Caregivers](https://staging.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/) Drupal content page
 
 
 ## Intro - 5 minutes
