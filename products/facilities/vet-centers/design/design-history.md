@@ -13,7 +13,9 @@ Designer: Leyda Hughes
 [Link to wireframe](https://preview.uxpin.com/02cd4db656ab951aff1cf84840b87c68ab88bc80#/pages/134615895)
 
 #### Feedback & Outcomes
+
 Dec 2 - Met with Mikki, Dave, and Michelle to align on IA for Vet Centers
+
   • Remove side nav
   • child locations will not have dedicated pages
   • Keep "All locations" page. Child locations to live here only for MVP
