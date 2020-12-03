@@ -1,6 +1,6 @@
 # Notes from DEPO chats about My VA: Do we take a newsfeed or dashboard approach?
 
-## [Notes on final decision and direction](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/my-va-jobs.md)
+### [Notes on final decision and direction](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/my-va-jobs.md)
 
 ## 12.2.20 3:00 ET chat with Meg, Danielle, Ryan, and Steve
 
