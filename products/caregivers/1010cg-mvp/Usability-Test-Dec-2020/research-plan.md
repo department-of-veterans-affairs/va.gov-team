@@ -36,3 +36,33 @@ Our hypothesis:
 - The addition of the Primary Family Caregiver question 
 
 - Knowing if a Vertan or caregiver should “add” a Primary Family Caregiver vs Secondary Family Caregiver 
+
+## Method
+
+A task-based usability study will be conducted remotely with Zoom. A remote moderator will begin with introduction questions and prompt users with guiding questions (from the conversation guide). Participants will be encouraged to talk through their exploration of the prototype. Remote observers and note takers will be in attendance.  
+
+We will be testing with a coded form in staging. 
+
+- We will ask Veterans to navigate to https://staging.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/ (a link provided in the Zoom chat) and have participants share their screen with us via Zoom.
+
+
+- Use case 1: Someone to navigate through the form that’s just applying with a primary caregiver. 
+
+- Use case 2: Someone that’s applying with a primary and a secondary caregiver
+
+- Use case 3: Someone that’s applying  with only a secondary caregiver
+
+
+
+## Participants and Recruitment
+
+- We will utilize the Perigean contract for **recruiting and notetaking**.
+- We'd like to schedule 16 participants to reach our goal of observing **7-9 participants**. 
+
+### Primary participant criteria:
+
+#### MUST: 
+
+- Be a Veteran, active duty service member, reservist, or national guard member.
+- Is currently or has participated in individual or group mental health counseling with the VA.
+
