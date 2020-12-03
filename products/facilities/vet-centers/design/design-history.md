@@ -16,17 +16,17 @@ Designer: Leyda Hughes
 
 Dec 2 - Met with Mikki, Dave, and Michelle to align on IA for Vet Centers
 
-  • Remove side nav
+   • Remove side nav
   
-  • child locations will not have dedicated pages
+   • child locations will not have dedicated pages
   
-  • Keep "All locations" page. Child locations to live here only for MVP
+   • Keep "All locations" page. Child locations to live here only for MVP
   
-  • remove link/reference to Facility Location on VC page, keep in All locations page
+   • remove link/reference to Facility Location on VC page, keep in All locations page
   
-  • Remove categorizations from list of services, list alphabetically
+   • Remove categorizations from list of services, list alphabetically
   
-  • Bring back "Featured story" components and mock up with localized content
+   • Bring back "Featured story" components and mock up with localized content
 
 ## Iteration 5 - Sprint 35 (ending Dec 1, 2020)
 #### Designs
@@ -43,9 +43,9 @@ Goal: refining the IA and relationship between Vet Center parent/child locations
 4. Dec 1 - Met with Mikki to discuss how we might treat the relationships between the different locations. Gave Leyda feedback on nav, breadcrumb and overall IA.
 Suggests:
  
- • removing "Main area location" and "Satellit offices" categories from side nav. 
+   • removing "Main area location" and "Satellit offices" categories from side nav. 
  
- • removing links to "About" and "Facility locator" from side nav and work them into the page content stream 
+   • removing links to "About" and "Facility locator" from side nav and work them into the page content stream 
 
 
 ## Iteration 4 - Sprint 34 (ending Nov 17, 2020)
