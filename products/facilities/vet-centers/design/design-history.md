@@ -12,12 +12,12 @@ Description
 
 ## Iteration 2 - Sprint 34 (ending Nov 17, 2020)
 
-### Designs
+#### Designs
 Vet Center prototype with an emphasis on language, testing out new service taxons
 
 [Link to wireframe](https://preview.uxpin.com/73434f75b1664fb29a9340c025cf2bebd7e8e24b#/pages/133987808)
 
-### Feedback & Outcomes
+#### Feedback & Outcomes
 Met with Dave, Ryan, Michelle on Nov 5, 2020 to discuss the prototype and next iteration of the Vet Center prototype with the focus on solving the problem of awareness.
 
 ## Sprint 33 (ending Nov 3, 2020)
