@@ -14,7 +14,7 @@ Designer: Leyda Hughes
 
 #### Feedback & Outcomes
 
-Dec 2 - Met with Mikki, Dave, and Michelle to align on IA for Vet Centers
+Dec 2 - Met with Mikki, Dave, and Michelle to align on IA for Vet Centers. Feedback:
 
    • Remove side nav
   
@@ -44,7 +44,7 @@ Goal: refining the IA and relationship between Vet Center parent/child locations
 Suggests:
  
    • removing "Main area location" and "Satellit offices" categories from side nav. 
- 
+
    • removing links to "About" and "Facility locator" from side nav and work them into the page content stream 
 
 
@@ -57,7 +57,7 @@ Goal: Align on what we want to test with Veterans; refine research plan and prot
 #### Feedback & Outcomes
 1. Tues, Nov 17 - Dave, Michelle & Leyda sync on designs and prepare for "Usability Testing Prep" the following day. The plan is to test the high level Vet Center concepts and positioning to validate what we heard in the research from Vet Center clients, now presented in a website prototype.
 
-  •  Dave's feedback is to strip the yellow "Featured content" boxes and to pull back on any "About" content, thinks this type of content belongs on a "Content Landing Page". 
+     •  Dave's feedback is to strip the yellow "Featured content" boxes and to pull back on any "About" content, thinks this type of content belongs on a "Content Landing Page". 
 
 2. Wed, Nov 18 - Dave, Michelle, Leyda and Ryan meet for Ryan to give the team a walk-thru of the CPL 
 
