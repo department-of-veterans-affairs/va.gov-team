@@ -81,11 +81,12 @@ Zoom
       - at least 2 people from 18-34
       - at least 2 people from 35-54
       - at least 2 people who are 55 or older.
-    - Education level (at least 3 falling somewhere between "some high school" and "some college" on their response to "Highest Level of Education" question on registration form)
+    - Education level 
+      - falling somewhere between "some high school" and "some college" on their response to "Highest Level of Education" question on registration form
     - Geography - 50% rural / 50% urban
     - Screen Reader use
       - At least 1 person who utilizes a screen reader
-    - To ensure inclusivity, we request at least one participant that has identified cognitive impairments and/or functional disabilities. Diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), Autism, and Vertigo. Other conditions may be autism, aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, non-native English speakers, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
+    - To ensure inclusivity, we request at least half of participants that has identified cognitive impairments and/or functional disabilities. Diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), Autism, and Vertigo. Other conditions may be autism, aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, non-native English speakers, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
 
     - Be able to screenshare via Zoom either via mobile or desktop. Please confirm with them that they have Zoom downloaded prior to the session and they know how to screenshare. If they can not get Zoom working, there is no interview portion of this research and they will not be able to participate.
     - In order to get 10 participants, we'd like Perigean to recruit 15-18. Remaining interviews will be canceled once we reach 10. 
