@@ -33,8 +33,8 @@ DMC Office pages | --- | --- | All remaining DMC office pages will be managed by
 
 Priority | Placement | Link to | Description
 --- | --- | --- | ---
-Must | (Manage VA debt static content page)[www.va.gov/manage-va-debt/]   |  TBD | 
-Consider | (Records hub page)[www.va.gov/records/] | TBD | 
+Must | [Manage VA debt static content page](www.va.gov/manage-va-debt/)   |  TBD | 
+Consider | [Records hub page](www.va.gov/records/) | TBD | 
 Consider | Records top nav | |
 Consider | Records left nav | |
 
