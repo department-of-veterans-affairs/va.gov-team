@@ -45,7 +45,7 @@ Based on the jobs users come to do, this is what I see as the jobs of My VA:
 ### What My VA is not responsible for
 
 - To show all notifications and requests, especially notification and requests that are suggestions or requests of the VA that were not initiated by the veteran (eg. "Check to make sure your address is up to date"; "We've got a new feature on VA.gov!").
-- To show anything that is historical or no longer relevant.
+- To show anything that is historical or no longer relevant (eg. we don't need to show your old disability rating, old claims, previous appointments, etc).
 
 # Overall page direction
 
