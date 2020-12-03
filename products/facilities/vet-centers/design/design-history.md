@@ -36,7 +36,7 @@ Goal: refining the IA and relationship between Vet Center parent/child locations
 #### Feedback & Outcomes
 1. Mon, Nov 23 - Dave has Leyda stop working on CLP. He will decide with other business leaders if CLP is the right approach. Vet Center detail pages should now only contain logistical information specific to each location to mirror VAMCs. 
 
-2. Leyda OOO 11/25-27 for Thanksgiving
+2. Leyda OOO 11/25-27 (Thanksgiving)
 
 3. Nov 30 - Start new research plan and conversation guide to test usability with non-client Veterans, table "Client usability test to validate positioning study" since we are not designing any "About VC" content at this time.
 
