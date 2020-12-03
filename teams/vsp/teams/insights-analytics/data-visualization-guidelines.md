@@ -54,7 +54,7 @@ KPI dashboards have been designed for ease of use and clarity.
 
 Every product is unique in terms of users and submission rate. If you start grading teams on increasing the number of successful form submissions, it creates bad incentives for the teams. It’s as much a marketing problem as it is a tech problem. You would also need more data like number of paper forms and processing time to know if there’s “digital success.”
 
-- **If we met some sort of compromise of building this, what would that look like?** 
+- **What could an iteration of this build look like?** 
 
   It would need to be performance based. Are they building something that performs well and is technically usable, rather than are they building something that is used.
 
