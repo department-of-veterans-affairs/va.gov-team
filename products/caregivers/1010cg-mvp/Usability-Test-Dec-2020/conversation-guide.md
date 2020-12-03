@@ -5,10 +5,15 @@
 ### Moderator logistics
 
 Use #feedback-backchannel in Slack for real-time feedback from observers.
+
 Before the session, send out the observer instructions to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel).
+
 In the Attendees section, make sure everyone except the participant is on mute
+
 In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
+
 Check your [screensharing setup]
+
 When the participant is ready, begin the session with the following intro
 
 ## Intro - 3 minutes
