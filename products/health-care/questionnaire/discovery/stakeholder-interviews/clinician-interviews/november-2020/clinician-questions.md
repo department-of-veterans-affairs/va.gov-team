@@ -13,43 +13,47 @@ Understand how clinicians want to access and interact with Patient-Generated Dat
    - Want to access/be presented with PGD easily at point of decision making 
 - Clinicians want to be able to differentiate between PGD and data that was generated in the healthcare system (e.g., home blood pressure readings vs. clinic blood pressure readings)
 
-## Warm-up Questions
-- What is your background? Training level, specialty, practice setting
-- What types of patient-generated data do you encounter in your practice? This includes any data provided by the patient from outside a healthcare encounter, including pre-visit questionnaires, wearable device data, other device data (e.g., CPAP), etc. 
-   - Of all the patient generated data that you use/encounter, how would you prioritize your usage of them and why?
+## Background, Basic Workflow and Warm-up Questions
+1. What is your background? Training level, specialty, practice setting
 
-## Questionnaire-based Questions
-
-1. I'm going to have you talk through different parts of your typical appointment experience. Let us know if there are any big differences based upon appointment type (new patient, follow-up, physical, etc.)
+2. I'm going to have you talk through different parts of your typical appointment experience. Let us know if there are any big differences based upon appointment type (new patient, follow-up, physical, etc.)
    - First, how do you prepare for the appointment?
      - What health record information is helpful to review before an appointment?
          - How long before seeing the Veteran do/would you open their chart to prepare for their appt.?
      - What information would be helpful to have a Veteran review/update ahead of their visit?
      - Is there information about your patient that you wish you had prior to your appointment?
          - Do you feel you have a personal view of the veteran and what is important to them both medically and lifestyle/family?
-         - Is there anything that you like patients to do before their appointment like lab tests, medical imaging, answer questions, etc?
      - What systems/accounts do you use?
      - What does your work station look like? How many monitors, etc?
-   - Next, we will talk about during and after the appointment.   
-     - How long do you typically spend on intake/screening questions?
-     - What are the standard questions you're required to ask Veterans?
-     - Are there questions that you like to regularly include that are not in the clinical documentation?
-     - Are there questions that should only be asked by a clinician and documented vs. having the Veteran provide in an intake form? 
-         - if yes, which ones and why?
-     - Do you utilize any different systems/accounts during or after the appointment? 
-         - Where do you typically document the answers to these intake/screening questions - paper or digital (which section of the EHR)?
-      - Do you typically find the reason for visit documented from the scheduling solution matches the verbal description the veteran provides why they are there. ie. Chief Complaint?
-         - Would you want the patient stated reason for visit to populate the Chief Complaint in your clinical note - if you could/add to it?
-      - If you had to summarize the top 3-5 areas Veterans routinely want to discuss with you and their Dr. what would they be?
-      - If you had a magical wand, what would you like to be able to do to maximize your time with your patient?
-   
-2. Do your patients fill out any forms or questionnaires before, during, or after appointments with you?
+     
+3. Next, we will talk about during and after the appointment.   
+   - How long do you typically spend on intake/screening questions?
+   - What are the standard questions you're required to ask Veterans?
+   - Are there questions that you like to regularly include that are not in the clinical documentation?
+   - Are there questions that should only be asked by a clinician and documented vs. having the Veteran provide in an intake form? 
+       - if yes, which ones and why?
+   - Do you utilize any different systems/accounts during or after the appointment? 
+       - Where do you typically document the answers to these intake/screening questions - paper or digital (which section of the EHR)?
+    - Do you typically find the reason for visit documented from the scheduling solution matches the verbal description the veteran provides why they are there. ie. Chief Complaint?
+       - Would you want the patient stated reason for visit to populate the Chief Complaint in your clinical note - if you could/add to it?
+    - If you had to summarize the top 3-5 areas Veterans routinely want to discuss with you and their Dr. what would they be?
+    - If you had a magical wand, what would you like to be able to do to maximize your time with your patient?
+
+4. What types of patient-generated data do you encounter in your practice? This includes any data provided by the patient from outside a healthcare encounter, including pre-visit questionnaires, wearable device data, other device data (e.g., CPAP), etc. 
+   - Of all the patient generated data that you use/encounter, how would you prioritize your usage of them and why?
+
+
+## Questionnaire-based Questions   
+5. Do your patients fill out any forms or questionnaires?
    - If yes...
-     - What forms or questionnaires do they fill out and when?
-     - Are these questionnaires used by the nationally, VAMC, specific to your clinic or specific to your patients?
+     - What forms or questionnaires do they fill out?
+     - Are these questionnaires used by the nationally, VAMC, specific to your clinic, or specific to your patients?
      - Do these questionnaires differ based upon new or returning patients?
      - Do you feel more, less, or equally prepared for your appointments with patients, because of these questionnaires? 
      - Do you refer to this information at other points than right before or during an appointment?
+     - When do Veterans complete the questionnaire (before, during, and/or after the appointment)?
+         - How far in advance of an appointment do you send questionnaires to the patients?
+         - How is the patient notified that they have a questionnaire to complete?
      - Do your patients complete the questionnaires via paper, electronically, or verbally?
          - Are nurses or office administrators involved in the process?
                - How does the nurse communicate this information to you before an appointment?
@@ -58,26 +62,24 @@ Understand how clinicians want to access and interact with Patient-Generated Dat
          - Do you use eScreening, Virtual Care Manager, or any other questionnaire products?
                - If yes, what are your impressions of those systems?
       - Do you notice the answers change frequently from the last visit when the Veteran was asked the questions?
-      - How far in advance of an appointment do you send questionnaires to the patients?
       - How is the patient notified that they have a questionnaire to complete?
-   - If no, why?
+   - If no, why not?
    - Do any offices that you frequently refer patients to have pre-appointment digital forms/experiences that you know of?
 
-3. Do you use secure messaging with patients in your practice?
+6. Do you use secure messaging with patients in your practice?
    - Do you have the ability to add documents from a message to the patient's chart?
    - If a veteran had a question about an intake form ahead of a visit would sending a secure message/text/call to the clinic be preferred?
    
-4. Would you review a clinical note in a patients chart with questionnaire answers before meeting with the patient?
+7. Would you review a clinical note in a patients chart with questionnaire answers before meeting with the patient?
    - When would you want to see data from questionnaires across patients versus for only one patient?
       
-5. Do you have experience creating questionnnaires?
+8. Do you have experience creating questionnnaires?
    - If yes...
       - How do you create a questionnaire (pull from a template or create your own)?
       - What is your clinic's ability to make custom versus standardized questionnaires?
       
 ## Device-based Questions
-
-6. Do you routinely have your patients send you data from devices, such as blood pressure monitors, CPAP machines, glucometers, mobile apps, wearable devices, etc?
+9. Do you routinely have your patients send you data from devices, such as blood pressure monitors, CPAP machines, glucometers, mobile apps, wearable devices, etc?
    - If yes... 
       - From what particular devices?
       - Are they prescribed by you or BYO?
@@ -91,7 +93,7 @@ Understand how clinicians want to access and interact with Patient-Generated Dat
       - What devices or information types might you be most interested incorporating into your practice?
       
  ## Wrap-up Questions
- 7. Do you see patients via telehealth appointments?
+ 10. Do you see patients via telehealth appointments?
    - If yes...
       - Has your intake process changed due to COVID/the increase in telehealth appointments?
       - Are nurses involved more, less, or the same amount in the intake process?
@@ -100,9 +102,9 @@ Understand how clinicians want to access and interact with Patient-Generated Dat
       - Questionnaires
       - Devices
    
-8. Do you review self reported data from myHealtheVet, what does that data look like for you?
+11. Do you review self reported data from myHealtheVet, what does that data look like for you?
 
-9. In a perfect world, how would the PGD you interact with be presented to you? 
+12. In a perfect world, how would the PGD you interact with be presented to you? 
    - When (if at all) is it important to differentiate between PGD and data that was generated in the healthcare system? 
    - What type of patient generated data would you like to go directly into CPRS? What type of data would you like to review first before entering or submitting to CPRS? Or no preference?
    
