@@ -7,7 +7,7 @@
 - [ ] [Documentation and screenshots of Downtime work](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16816) (3)
 - [ ] [10-10EZ Accessibility](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13999) (5)
 - [ ] [10-10EZ Address Field](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15159) (8) 
-- [ ] Stretch (tech-debt): [Refactor/flatten 10-10CG UI schema](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16874) (Justin to provide estimate)
+- [ ] Stretch (tech-debt): [Refactor/flatten 10-10CG UI schema](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16874) (5)
 
 ## Backend
 - [ ] [Attempt resubmission of PDF on failure](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15147) (13)
