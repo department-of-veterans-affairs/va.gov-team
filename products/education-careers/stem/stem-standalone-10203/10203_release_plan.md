@@ -167,7 +167,14 @@ _The stages and number of users below are provided as example values recommended
 
 _To be completed once you have gathered your initial set of data, as outlined above._ 
 
-1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"? **Need to get numbers from Buffalo on eligible applications**
+1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"? We saw a slight number in the reduction of applications rejected, but we also saw people drop out of the application prior to submit; presumably based on the eligibility criteria presented in the application.
+Application Date Between 09-10-20 and 09-17-2 
+- Eligible: 129 (43%)
+- Rejected: 170 (57%)
+Application Date Between 09-10-20 and 10-10-20	
+- Eligible: 421 (47%)
+- Rejected: 467 (53%)
+
 1. What qualitative feedback have you gathered from users or other stakeholders, if any?
 > Users have remarked that it’s easy to complete the application.  They appreciate the prefill information.  
 > The PDF with STEM majors is still a challenge for them, though.  
