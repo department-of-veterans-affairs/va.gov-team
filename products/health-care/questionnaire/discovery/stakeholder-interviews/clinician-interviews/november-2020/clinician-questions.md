@@ -1,7 +1,7 @@
 # Questions for Clinician Interviews 
 
 ## Research goals
-Understand how clinicians want to access and interact with Patient-Generated Data (PGD) within their workflows. 
+Understand how clinicians want to access and interact with Patient-Generated Data (PGD) within their workflows, particularly questionnaires. 
 
 ## Hypotheses 
 - Clinicians are most interested in seeing “high yield” PGD, i.e. PGD that will influence clinical decision-making and is backed by evidence. 
