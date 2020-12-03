@@ -2,14 +2,44 @@
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/discovery-brief.md)
 
 Designer: Leyda Hughes
-## Iteration 1 - Sprint 31
+
+## Iteration # - Sprint 35 (ending Dec 1, 2020)
 
 ### Designs
 Description
 
 [Link to wireframe]()
 
+## Iteration # - Sprint 34 (ending Nov 17, 2020)
+
+### Designs
+Vet Center prototype with an emphasis on language, testing out new service taxons
+
+[Link to wireframe](https://preview.uxpin.com/73434f75b1664fb29a9340c025cf2bebd7e8e24b#/pages/133987808)
+
+## Sprint 33 (ending Nov 3, 2020)
+
+### Discovery Synthesis - Language and taxonomy
+
+[Link to Working Taxonomy Spreadsheet](https://adhocteam-my.sharepoint.com/:x:/g/personal/leyda_hughes_adhocteam_onmicrosoft_com/EYZ6B8_w_GJGi93wBq3_x8MBZ4zZgwE9V7earuu0MfDeRg?e=vItyjF)
+
+[Link to language synthesis](https://adhocteam-my.sharepoint.com/:x:/g/personal/leyda_hughes_adhocteam_onmicrosoft_com/EU1R6aqGYuBJsTF2t7xbj1kBddrCk1f8PSgVyqzCvAdnsA?e=jacOtc)
+
+
+## Sprint 32 (ending Oct 20, 2020)
+
+### Discovery Synthesis
+
+[Link to Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/veteran-interviews/research-findings.md)
+
 ### Feedback & Outcomes
+
+## Sprint 31 (ending Oct 6, 2020)
+
+### Discovery
+Study to understand a Vet Center client’s experience, impression and relationship with Vet Centers.
+
+[Link to Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/veteran-interviews/research-plan.md)
 
 
 ## Iteration 1 - Sprint 30
