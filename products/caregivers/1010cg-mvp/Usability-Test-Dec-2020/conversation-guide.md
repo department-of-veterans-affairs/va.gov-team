@@ -4,7 +4,7 @@
 
 ### Moderator logistics
 
-Use #feedback-backchannel in Slack for real-time feedback from observers.
+Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
 
 Before the session, send out the observer instructions to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel).
 
