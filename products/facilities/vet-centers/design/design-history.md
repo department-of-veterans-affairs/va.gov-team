@@ -3,6 +3,24 @@
 
 Designer: Leyda Hughes
 
+## Iteration 6 - Sprint 36 (ending Dec 15, 2020)
+#### Designs
+2 options reflecting Mikki's input on IA structure
+
+1. An option where each child location of a parent Vet Center gets it's own page [Link to wireframe](https://preview.uxpin.com/02cd4db656ab951aff1cf84840b87c68ab88bc80#/pages/134615893)
+
+2. An option that includes an "All locations" page to mirror VAMC system locations page 
+[Link to wireframe](https://preview.uxpin.com/02cd4db656ab951aff1cf84840b87c68ab88bc80#/pages/134615895)
+
+#### Feedback & Outcomes
+Dec 2 - Met with Mikki, Dave, and Michelle to align on IA for Vet Centers
+  • Remove side nav
+  • child locations will not have dedicated pages
+  • Keep "All locations" page. Child locations to live here only for MVP
+  • remove link/reference to Facility Location on VC page, keep in All locations page
+  • Remove categorizations from list of services, list alphabetically
+  • Bring back "Featured story" components and mock up with localized content
+
 ## Iteration 5 - Sprint 35 (ending Dec 1, 2020)
 #### Designs
 [Link to wireframe](https://preview.uxpin.com/7a8826eb89e70957ccbe33ea1380346a5128d86d#/pages/134613009/simulate/no-panels)
@@ -13,14 +31,11 @@ Suggests:
   • removing "Main area location" and "Satellit offices" categories from side nav. 
   • removing links to "About" and "Facility locator" from side nav and work them into the page content stream 
 
-Goal: Align on what we want to test with Veterans; refine research plan and prototype to match
-
-
 
 ## Iteration 4 - Sprint 34 (ending Nov 17, 2020)
 
 #### Designs
-
+Goal: Align on what we want to test with Veterans; refine research plan and prototype to match
 [Link to wireframe](https://preview.uxpin.com/7a8826eb89e70957ccbe33ea1380346a5128d86d#/pages/134613014/simulate/no-panels?mode=i)
 
 #### Feedback & Outcomes
