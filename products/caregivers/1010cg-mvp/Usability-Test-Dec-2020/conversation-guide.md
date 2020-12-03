@@ -34,7 +34,7 @@ Before we start, a few things I want to mention::
 - If yes: 
 - Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
-## Start recording to the Cloud
+**Start recording to the Cloud**
 
 - I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?"
 
