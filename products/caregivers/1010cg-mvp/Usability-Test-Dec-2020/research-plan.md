@@ -108,7 +108,7 @@ OR are you a caregiver of a veteran that:
 Resources	
 
 - [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/product-outline.md)
-- Convo Guide 
+- [Convo Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability-Test-Dec-2020/conversation-guide.md)
 - Synthesis		
 - Read-Out/Results	 	
   - ** Don't forget to add a link to your research folder to the research tracker! 
