@@ -1,7 +1,5 @@
 # Conversation Guide: VSA Caregiver, Primary Caregiver/Secondary flow for the 10-10CG form, December 2020
 
-**December 2020 Discovery**<br>
-
 ### Moderator logistics
 
 Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
@@ -57,7 +55,7 @@ Does your caregiver receive benefits from the VA?
 
 ## First Task: [Applying for benefits] - 15 minutes
 
-Moderator sends link Drupal content page (https://staging.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/) to participant and asks them to share their screen (note moderator should have backup open on their own computer to share in case veteran can't figure out sharing)
+Moderator sends Drupal content page link [The Program of Comprehensive Assistance for Family Caregivers](https://staging.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/) to participant and asks them to share their screen (note moderator should have backup open on their own computer to share in case veteran can't figure out sharing)
 
 Ok, given the information above, imagine that you’re applying for benefits for you (or your caregivers) through the Program of Comprehensive Assistance for Family Caregivers. Starting here (start on the Drupal content page), walk me through how you would do this.
 
