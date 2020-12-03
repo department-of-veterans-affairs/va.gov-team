@@ -1,6 +1,6 @@
 # What are the jobs of My VA?
 
-As part of our DEPO conversations on 12.2.20 about the direction in which we should take My VA, Sabrina mentioned this idea: What are the jobs My VA is supposed to accomplish (she also shared [this article](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done) which further elaborates on what that means)? We have high level user stories defined, but this got me thinking both about what users come to do, what My VA should do, and also what My VA is not responsible for doing.
+As part of our [DEPO conversations on 12.2.20 about the My VA purpose and design direction](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/newsfeed-or-dashboard-approach.md), Sabrina posed the following question: What are the jobs My VA is supposed to accomplish (she also shared [this article](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done) which further elaborates on what that means)? We know people log in to complete tasks specific to their benefits, but this got me thinking more specifically about what users come to do, what My VA should do, and also what My VA is not responsible for doing.
 
 ## What users come to do
 
