@@ -17,7 +17,9 @@ Contact Management
 - Associating the inquiries to contacts in the backend
 - Migration strategy for GI Bill accounts from OSvC to VA.gov
 
-Current actors on the FE: Requestor/Inquirer, Veteran, Dependant, On behalf of, General Public (Non-Veteran)
+Current actors on the FE: Requestor/Inquirer, Veteran, Dependant. The Inquirer can be the veteran themselves or anyone on behalf of the veteran or the dependant of the veteran including the general public, a Funeral director, a School official and any number of other non-Veteran roles. 
+It is the current understanding that for any VA employee such as a Contact Center agent who is creating an inquiry on behalf of the veteran/contact, the interface used would be the backend interface that is presently used for resolving cases, and the CC agent is not expected to raise an inquiry from the FE interface.
+
 - Who is the inquirer?
 - What is the subject of the inquiry?
 
