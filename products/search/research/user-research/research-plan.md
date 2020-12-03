@@ -35,7 +35,7 @@ Search enhancements for VA.gov, Public Websites
       - Too many results to sort through
       - The information they're looking for will not be immediately apparent from the search titles and descriptions
       - Not having a way to refine search results
-      - Users will go to a search engine or decide to engage with a person if they don't find what they're looking for via site search.
+    - Users will go to a search engine or decide to engage with a person if they don't find what they're looking for via site search.
     - Users will expect filtering functionality on search results.
     - Users will use site search immediately when coming to VA.gov with a task in mind, especially if they have not completed that task recently (or ever).
     - Users use Google and online groups (such as Facebook or Reddit) for broader queries, and they come to VA.gov with more specific information in mind found through those other avenues.
@@ -45,13 +45,11 @@ Search enhancements for VA.gov, Public Websites
 
 ## Method
 
-  1. What method of research are you planning and why?
+1. What method of research are you planning and why?
   - User interviews, so that we can further clarify what users need and expect from search
     - Ask participants about a time they needed to find VA-related information (chance to compare Google vs on-site search)
     - Ask participants to show us how they would find information using on-site search 
     - Ask participants how they perceive search results
-
-
 
 2. Where are you planning to do your research?
 User interviews will be remote moderated sessions via Zoom
@@ -64,29 +62,28 @@ Zoom
 4. Participants and Recruiting
     - Targeting 8-10 veterans.  
          
-    - Strong preference for anyone who has used VA.gov search in the last month.
-       - Topics of interest
-         - 1/4 education
-         - 1/4 health benefits
-         - 1/4 disability
-         - 1/4 family benefits
+    - Strong preference for anyone who has looked for the following topics:
+      - 1/4 veterans who have recently looked for VA education information
+      - 1/4 veterans who have recently looked for VA health benefit information
+      - 1/4 veterans who have recently looked for VA disability information
+      - 1/4 veterans who have recently looked for VA family benefit information
 
     - Must be a veteran
-    - Half desktop, half mobile users
+    - 50% desktop, 50% mobile users
 
     - We request the participant pool be diverse in:
-    - Gender (at least 3 women)
-    - Ethnicity/Race (at least 3 non-Caucasian)
-    - Age
-      - at least 2 people from 18-34
-      - at least 2 people from 35-54
-      - at least 2 people who are 55 or older.
-    - Education level 
-      - falling somewhere between "some high school" and "some college" on their response to "Highest Level of Education" question on registration form
-    - Geography - 50% rural / 50% urban
-    - Screen Reader use
-      - At least 1 person who utilizes a screen reader
-    - To ensure inclusivity, we request at least half of participants that has identified cognitive impairments and/or functional disabilities. Diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), Autism, and Vertigo. Other conditions may be autism, aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, non-native English speakers, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
+       - Gender (at least 3 women)
+       - Ethnicity/Race (at least 3 non-Caucasian)
+       - Age
+         - at least 2 people from 18-34
+         - at least 2 people from 35-54
+         - at least 2 people who are 55 or older.
+       - Education level 
+         - 50% answering high school or below on "Highest Level of Education" question on registration form
+       - Geography - 60% rural / 40% urban
+       - Screen Reader use
+         - At least 1 person who utilizes a screen reader
+       - To ensure inclusivity, we request at least 50% of participants that have identified cognitive impairments and/or functional disabilities. Diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), Autism, and Vertigo. Other conditions may be autism, aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, non-native English speakers, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
 
     - Be able to screenshare via Zoom either via mobile or desktop. Please confirm with them that they have Zoom downloaded prior to the session and they know how to screenshare. If they can not get Zoom working, there is no interview portion of this research and they will not be able to participate.
     - In order to get 10 participants, we'd like Perigean to recruit 15-18. Remaining interviews will be canceled once we reach 10. 
