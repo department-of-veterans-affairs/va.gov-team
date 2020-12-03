@@ -40,7 +40,7 @@ Before we start, a few things I want to mention::
 
 ## Warm-up Questions - 5 minutes
 
-- Can you tell me a little about yourself? (If stuck, ask about location, occupation, etc.) Are you a Veteran with a caregiver or a caregiver of a Veteran?
+Can you tell me a little about yourself? (If stuck, ask about location, occupation, etc.) Are you a Veteran with a caregiver or a caregiver of a Veteran?
 
 **For Caregivers:**
 
@@ -57,64 +57,27 @@ Does your caregiver receive benefits from the VA?
 
 ## First Task: [Applying for benefits] - 15 minutes
 
-For the purpose of this session, we'll be mostly focused on mental health care services offered at the VA. 
+Moderator sends link Drupal content page (https://staging.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/) to participant and asks them to share their screen (note moderator should have backup open on their own computer to share in case veteran can't figure out sharing)
+
+Ok, given the information above, imagine that you’re applying for benefits for you (or your caregivers) through the Program of Comprehensive Assistance for Family Caregivers. Starting here (start on the Drupal content page), walk me through how you would do this.
+
+**Things to watch for:**
+- In general we want to sit back and watch them, but if they hesitate you can say “I noticed you hesitate here, what are you thinking?”
+- Any hiccups? Do they know all the information?
+- Any fields trip them up?
+- Anything particularly confusing for them?
+- Make sure to dig in when there's any hesitation into what they are thinking
+- Any confusion with the content we use when asking if they are applying with a Primary Family Caregiver?  
+- Any confusion with the steps following the Primary Family Caregiver question?  
+
   
-  - Are you familiar with mental health or counseling services that the VA provides?
+## Post-Task Interview - 5 minutes
 
-If yes:
-  - can you tell me, briefly, about the services that you are familiar with?
-  - have you participated in any of these services?
-  - how was that experience?
-  
-## Searching for counseling online
+Great. A few last questions:
 
-We're going to switch gears and look at a few websites. So that I can follow along with you, would it be OK if you shared your screen with me? 
-
-We're going to start with a blank page in your web browser.
- 
-I'm going to give you a scenario to consider. Imagine you have a Veteran friend who's been going through a rough time. You think this person could benefit from some mental health care or counseling. You're not exactly sure what's available but you wanted to help out by doing a little digging for them on the internet. 
-
- - Can you talk me through how you might go about finding information like this on the internet?
- 
- (If they need more direction: What might be some common issues that you think might benefit from counseling?)
- 
- - Can you try that search for me?
- - What words or phrases would you search for to get you to some answers?
-
-## Searching for counseling on VA.gov
-
-Now let's imagine that you want to see what you can find on VA.gov. You'd like to know where your friend can go to get mental health care or counseling.
-
- - Can you talk me through how you might go about finding information like this on VA.gov?
- - Can you try that search for me?
- - What words or phrases would you search for to get you to some answers?
- 
-
-## Prototype
-
-For the last part of this session, we're going to switch gears again and look at a different webpage together. I'm going to share a link with you to click on. It's going to look like a real web page but its actually just a fake prototype of a website. 
-
-[Share link to prototype](http://)
-
-With the same scenario in mind, helping a friend, except this time I'd like for you to imagine that you did a search and you landed on this page. I'm going to give you a minute to look it over and feel free to think out loud any thoughts that come to mind.
-
- - What can you tell me about this place?
- - What kind of care or services do you think you get here?
- - What are the most important services offered here?
- - Is there any additional information that you think should be added about each service?
- - What would you be able to tell your friend about individual counseling?
- - What would you be able to tell your friend about group counseling services offered here?
- - What do you think is the relationship between the different locations listed on this page?
- - Is there any other information that you don't see that you think would be helpful or necessary before visiting?
- - What would make this website better?
-
-
-## Post-Task Interview
-
-Those are all the questions that I had for you today. 
-
-- Do you have any questions for me?
-
+- What do you think was the hardest part of that process?
+- What worked well?
+- Any questions for me?
 
 ## Thank-You and Closing 
 
