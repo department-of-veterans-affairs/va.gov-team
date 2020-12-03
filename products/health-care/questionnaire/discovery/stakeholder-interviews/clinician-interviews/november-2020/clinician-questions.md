@@ -76,7 +76,7 @@ Understand how clinicians want to access and interact with Patient-Generated Dat
       
 ## Device-based Questions
 
-8. Do you routinely have your patients send you data from devices, such as blood pressure monitors, CPAP machines, glucometers, mobile apps, wearable devices, etc?
+6. Do you routinely have your patients send you data from devices, such as blood pressure monitors, CPAP machines, glucometers, mobile apps, wearable devices, etc?
    - If yes... 
       - From what particular devices?
       - Are they prescribed by you or BYO?
@@ -90,16 +90,16 @@ Understand how clinicians want to access and interact with Patient-Generated Dat
       - What devices or information types might you be most interested incorporating into your practice?
       
  ## Wrap-up Questions
- 1. Do you see patients via telehealth appointments?
+ 7. Do you see patients via telehealth appointments?
    - If yes...
       - Has your intake process changed due to COVID/the increase in telehealth appointments?
       - Are nurses involved more, less, or the same amount in the intake process?
       - What is the impact of these process changes? 
    - How has the ability/need to access/interact patient provided data change with COVID?
    
-5. Do you review self reported data from myHealtheVet, what does that data look like for you?
+8. Do you review self reported data from myHealtheVet, what does that data look like for you?
 
-6. In a perfect world, how would the PGD you interact with be presented to you? 
+9. In a perfect world, how would the PGD you interact with be presented to you? 
    - When (if at all) is it important to differentiate between PGD and data that was generated in the healthcare system? 
    - What type of patient generated data would you like to go directly into CPRS? What type of data would you like to review first before entering or submitting to CPRS? Or no preference?
    
