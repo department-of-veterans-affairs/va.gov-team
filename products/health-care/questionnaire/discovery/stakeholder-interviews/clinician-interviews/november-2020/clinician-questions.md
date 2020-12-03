@@ -64,6 +64,9 @@ Understand how clinicians want to access and interact with Patient-Generated Dat
       - Do you notice the answers change frequently from the last visit when the Veteran was asked the questions?
       - How is the patient notified that they have a questionnaire to complete?
    - If no, why not?
+      - What types of questionnaires might you be interested in incorporating into your practice?
+      - Are there types of PGD from questionnaires that you deinitely don’t need or want access to? 
+      - How could you imagine this information impacting your interactions with the patient and their quality of care?
    - Do any offices that you frequently refer patients to have pre-appointment digital forms/experiences that you know of?
 
 6. Do you use secure messaging with patients in your practice?
@@ -91,6 +94,9 @@ Understand how clinicians want to access and interact with Patient-Generated Dat
    - If no...
       - Why not?
       - What devices or information types might you be most interested incorporating into your practice?
+      - Are there types of PGD from devices that you deinitely don’t need or want access to? 
+      - How could you imagine this information impacting your interactions with the patient and their quality of care?
+
       
  ## Wrap-up Questions
  10. Do you see patients via telehealth appointments?
