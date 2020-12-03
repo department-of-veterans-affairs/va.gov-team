@@ -1,6 +1,6 @@
 # Product Outline: My VA Dashboard 2.0
 
-Last updated October 7, 2020
+Last updated December 3, 2020
 
 ## Communications
 
@@ -42,16 +42,6 @@ Last updated October 7, 2020
 - [Design](#design)
 
 ## Overview
-
-At a high level, this project aims to do the following things:
-
-1. **Reduce redundancy** — Specifically, we should reduce redundancy between the My VA dashboard and the VA.gov homepage. This will happen in phases. As we redesign and re-launch the My VA dashboard, this frees up the homepage to be less task-management focused. As the homepage evolves away from a task management focus, it will be less redundant with My VA so both the homepage and My VA will have their own clear, unique purposes. However, in order for the homepage to evolve, we have to redesign My VA first.
-2. **Elevate personally relevant information** — Users should more easily be able to scan/evaluate their information.
-3. **Scale gracefully** — Our designs should allow for future updates and expansion, as new features are being added to VA.gov all the time.
-4. **Prioritize wayfinding** — We should make it easy for users to find the My VA dashboard.
-5. **Effectively use visual space** — We should avoid a single-column, "content page" approach. Design updates should more effectively employ the design system and update it as needed.
-
-This came out of the [Personalization 2.0 strategy from 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md). Personalization 2.0 includes the effort to combine the profile and account pages (profile 2.0) and this effort to redesign My VA.
 
 ## Problems
 
@@ -220,12 +210,13 @@ Initially, this project was scoped to be a logged-in homepage redesign. However,
 
 ### Goals
 
-*From the [Personalization 2.0 strategy from 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md)*
+The following design goals came out of the [Personalization 2.0 strategy from 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md):
 
-1. **Elevate personally relevant information** — Users should more easily be able to scan/evaluate their information.
-2. **Scale gracefully** — Our designs should allow for future updates and expansion, as new features are being added to VA.gov all the time.
-3. **Prioritize wayfinding** — We should make it easy for users to find the My VA dashboard.
-4. **Effectively use visual space** — We should avoid a single-column, "content page" approach. Design updates should more effectively employ the design system and update it as needed.
+1. **Reduce redundancy** — Specifically, we should reduce redundancy between the My VA dashboard and the VA.gov homepage. This will happen in phases. As we redesign and re-launch the My VA dashboard, this frees up the homepage to be less task-management focused. As the homepage evolves away from a task management focus, it will be less redundant with My VA so both the homepage and My VA will have their own clear, unique purposes. However, in order for the homepage to evolve, we have to redesign My VA first.
+2. **Elevate personally relevant information** — Users should more easily be able to scan/evaluate their information.
+3. **Scale gracefully** — Our designs should allow for future updates and expansion, as new features are being added to VA.gov all the time.
+4. **Prioritize wayfinding** — We should make it easy for users to find the My VA dashboard.
+5. **Effectively use visual space** — We should avoid a single-column, "content page" approach. Design updates should more effectively employ the design system and update it as needed.
 
 ### Important docs
 
