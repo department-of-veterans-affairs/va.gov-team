@@ -6,7 +6,7 @@
 - Product POCs: Matt Self and Luke Majewski
 - va.gov link: https://www.va.gov/decision-reviews/board-appeal/
 - Phyical form: https://www.va.gov/vaforms/va/pdf/VA10182.pdf
-- Stakeholders: OAR (Jane Chi jane.chi1@va.gov, Lauren Sylvia Lauren.Sylvia@va.gov), Lighthouse (Kelly Lein Kelly.Lein@va.gov, Premal Shaw Premal.Shah@va.gov) and VBA (Paul Shute Paul.Shute@va.gov)
+- Stakeholders: The Board - will fill in from NOD info
 
 ## The Problem
 Veterans are still working with a paper form system for filing a paper form.  There is a three step process for different types of board appeals
