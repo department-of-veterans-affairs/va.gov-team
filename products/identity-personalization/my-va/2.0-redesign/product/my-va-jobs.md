@@ -14,7 +14,7 @@ From countless user interviews that have been done over the years, we know peopl
 
 ### More specific user goals
 
-But what does this actually mean? What are these "tasks that apply to my specific experience at the VA" (aka the jobs)? We know the following from [our My VA discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md) (note: Many of these findings are also supported in [previous user research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/previous-research-review.md)):
+But what does this actually mean? What are these "tasks that apply to my specific experience at the VA" (aka the jobs)? We know the following from [our My VA discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md) and [other user research that has been done previously](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/previous-research-review.md)):
 
 - As a veteran, I want to see if the VA is going to give me the financial compensation I have earned. I do this by:
   - Checking to see if my disability claim has been updated or accepted.
