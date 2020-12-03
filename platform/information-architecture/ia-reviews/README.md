@@ -9,7 +9,7 @@ Team | Project | IA Work Status | Status Notes
 CTO | COVID Vaccine | IN PROGRESS | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/cto-covid-vaccine.md
 Caregiver | 10-10ez Updates | NOT STARTED  | Kick-off held on 10/20/2020 <br> Will start with discovery research to determine improvements needed to increase online enrollments.  Scope of work will be determined after that. 
 Public Websites | Contact us page | NOT STARTED | No collab cycle requests submitted yet
-BAM2 | FSR & Debt management | IN PROGRESS | Design intent held 10/21 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-fsr-debt-man.md
+BAM2 | FSR & Debt management | IN PROGRESS | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-debt-fsr.md
 Facilities | Vet Centers | NOT STARTED | Design intent held 9/18 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/facilities-vet-centers.md
 Orchid | Ask a Question Forms | NOT STARTED | Usability prep held 11/30, IA not started, lots of open questions <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/orchid-iris.md
 Health care Exp | Questionnaires | DRAFT COMPLETE |https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/health-questionaires.md
