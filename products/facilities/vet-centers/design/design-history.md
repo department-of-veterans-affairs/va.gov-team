@@ -21,9 +21,9 @@ Dec 2 - Met with Mikki, Dave, and Michelle to align on IA for Vet Centers. Feedb
 
    • Remove side nav
   
-   • child locations will not have dedicated pages
+   • child locations will not have dedicated pages for MVP
   
-   • Keep "All locations" page. Child locations to live here only for MVP
+   • Keep "All locations" page. Child locations to live here only
   
    • remove link/reference to Facility Location on VC page, keep in All locations page
   
