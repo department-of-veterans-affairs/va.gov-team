@@ -63,6 +63,7 @@ Core Application
 - Oksana Cyrwus, Product Manager - Slack `@Oksana Cyrwus`
 - David Addison, Delivery Manager - Slack `@David Addison`
 - Elijah Lynn, DevOps Lead - Slack `@Elijah Lynn`
+- Neil Hastings, Tech Lead - Slack `@Neil Hastings`
 - Jordana Mello, Design Lead - Slack `@Jordana Mello`
 
 Product Support
