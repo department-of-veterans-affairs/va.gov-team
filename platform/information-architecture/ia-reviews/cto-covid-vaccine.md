@@ -1,5 +1,5 @@
 # IA Review and Recommendations
-**STATUS: DRAFT COMPLETE**
+**STATUS: IN PROGRESS**
 
 **Team:**  Office of the CTO
 
@@ -20,6 +20,7 @@
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
 Vaccine static page | www.va.gov/health-care/covid-19-vaccine/ | Home > Health care > COVID-19 vaccine| Final segment of breadcrumb will match H1
+Vaccine communication tool | TBD | TBD | 
 
 
 <hr>
