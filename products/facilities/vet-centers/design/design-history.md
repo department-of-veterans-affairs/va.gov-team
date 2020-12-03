@@ -42,7 +42,7 @@ Goal: refining the IA and relationship between Vet Center parent/child locations
 
 2. Leyda OOO 11/25-27 (Thanksgiving)
 
-3. Nov 30 - Start new research plan and conversation guide to test usability with non-client Veterans, table "Client usability test to validate positioning study" since we are not designing any "About VC" content at this time.
+3. Nov 30 - Start new research plan and conversation guide to test usability of logistical information and services with non-client Veterans, table "Client usability test for a later date to validate positioning study" since we are not designing any "About VC" content at this time.
 
 4. Dec 1 - Met with Mikki to discuss how we might treat the relationships between the different locations. Gave Leyda feedback on nav, breadcrumb and overall IA.
 Suggests:
