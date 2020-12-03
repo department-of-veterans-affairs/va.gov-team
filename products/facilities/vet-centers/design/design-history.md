@@ -9,11 +9,11 @@ Designer: Leyda Hughes
 
 1. An option where each child location of a parent Vet Center gets it's own page
 
-[Link to wireframe](https://preview.uxpin.com/02cd4db656ab951aff1cf84840b87c68ab88bc80#/pages/134615893)
+   [Link to wireframe](https://preview.uxpin.com/02cd4db656ab951aff1cf84840b87c68ab88bc80#/pages/134615893)
 
 2. An option that includes an "All locations" page to mirror VAMC system locations page 
 
-[Link to wireframe](https://preview.uxpin.com/02cd4db656ab951aff1cf84840b87c68ab88bc80#/pages/134615895)
+   [Link to wireframe](https://preview.uxpin.com/02cd4db656ab951aff1cf84840b87c68ab88bc80#/pages/134615895)
 
 #### Feedback & Outcomes
 
@@ -35,7 +35,7 @@ Dec 2 - Met with Mikki, Dave, and Michelle to align on IA for Vet Centers. Feedb
 #### Designs
 Goal: refining the IA and relationship between Vet Center parent/child locations
 
-[Link to wireframe](https://preview.uxpin.com/7a8826eb89e70957ccbe33ea1380346a5128d86d#/pages/134613009/simulate/no-panels)
+   [Link to wireframe](https://preview.uxpin.com/7a8826eb89e70957ccbe33ea1380346a5128d86d#/pages/134613009/simulate/no-panels)
 
 #### Feedback & Outcomes
 1. Mon, Nov 23 - Dave has Leyda stop working on CLP. He will decide with other business leaders if CLP is the right approach. Vet Center detail pages should now only contain logistical information specific to each location to mirror VAMCs. 
@@ -47,7 +47,7 @@ Goal: refining the IA and relationship between Vet Center parent/child locations
 4. Dec 1 - Met with Mikki to discuss how we might treat the relationships between the different locations. Gave Leyda feedback on nav, breadcrumb and overall IA.
 Suggests:
  
-   • removing "Main area location" and "Satellit offices" categories from side nav. 
+   • removing "Main area location" and "Satellite offices" categories from side nav. 
 
    • removing links to "About" and "Facility locator" from side nav and work them into the page content stream 
 
@@ -57,7 +57,7 @@ Suggests:
 #### Designs
 Goal: Align on what we want to test with Veterans; refine research plan and prototype to match
 
-[Link to wireframe](https://preview.uxpin.com/7a8826eb89e70957ccbe33ea1380346a5128d86d#/pages/134613014/simulate/no-panels?mode=i)
+   [Link to wireframe](https://preview.uxpin.com/7a8826eb89e70957ccbe33ea1380346a5128d86d#/pages/134613014/simulate/no-panels?mode=i)
 
 #### Feedback & Outcomes
 1. Tues, Nov 17 - Dave, Michelle & Leyda sync on designs and prepare for "Usability Testing Prep" the following day. The plan is to test the high level Vet Center concepts and positioning to validate what we heard in the research from Vet Center clients, now presented in a website prototype.
