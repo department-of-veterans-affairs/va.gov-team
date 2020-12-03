@@ -34,6 +34,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [Pensions](#pensions)
       - [Medical Device Ordering Tool](#medical-device-ordering-tool)
       - [Debt Letters MVP](#debt-letters-mvp)
+      - [Debt Letters Iteration Two](#debt-letters-iteration-two)
       - [Higher Level Review](#higher-level-review)
     - [VSA Caregivers](#vsa-caregivers)
     - [VSA eBenefits](#vsa-ebenefits)
@@ -430,6 +431,22 @@ Back to [Table of Contents](#table-of-contents)
 
 - [508-defect-2 Fast Follow! [COGNITION]: Downloaded files SHOULD be consistent with what the user clicked to download - #12184](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12184)<br/>**Staging** | **Opened:** August 6, 2020 | **Severity:** _508-defect-2 Fast Follow - **Serious**_
 - [508-defect-2 [HEADING, COGNITION]: Heading levels SHOULD only increase by one - #12430](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12430)<br/>**Staging** | **Opened:** August 12, 2020 | **Severity:** _508-defect-2 - **Serious**_
+  
+Back to [Table of Contents](#table-of-contents)
+
+---
+#### Debt Letters Iteration Two
+
+**Audit status:** _[VSP Staging Review completed on behalf of VSA December 1, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16720)_<br/>
+**Open issues**
+
+- [508-defect-2 [MOBILE]: BAM2 Debt Letters - Debt letter download must be legible at mobile sizes - #16760](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16760)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** _508-defect-2 - **Serious**_
+- [508-defect-2 [COGNITION]: BAM2 Debt Letters - Debt detail table must have properly formatted heading row - #16769](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16769)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** _508-defect-2 - **Serious**_
+- [508-defect-2 [COGNITION]: BAM2 Debt Letters - Heading level should only increase by one - #16783](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16783)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** _508-defect-2 - **Serious**_
+- [508-defect-2 [COGNITION]: BAM2 Debt Letters - Debt Detail notice and balance information must have a programmatic relationship - #16786](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16786)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** _508-defect-2 - **Serious**_
+- [508-defect-3 [COGNITION]: BAM2 Debt Letters - The debt download table should not have sorting icons if they're not actionable - #16789](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16789)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** _508-defect-3 - **Moderate**_
+- [508-defect-4 [COGNITION]: BAM2 Debt Letters - Consider defining "TOP" in debt cards - #16787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16787)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** _508-defect-4 - **Trivial**_
+- [508-defect-4 [COGNITION]: BAM2 Debt Letters - Consider renaming "Details" breadcrumb on debt detail view - #16788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16788)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** _508-defect-4 - **Trivial**_
   
 Back to [Table of Contents](#table-of-contents)
 
