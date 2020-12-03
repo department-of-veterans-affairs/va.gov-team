@@ -53,16 +53,65 @@ We will be testing with a coded form in staging.
 - Use case 3: Someone that’s applying  with only a secondary caregiver
 
 
-
 ## Participants and Recruitment
 
-- We will utilize the Perigean contract for **recruiting and notetaking**.
-- We'd like to schedule 16 participants to reach our goal of observing **7-9 participants**. 
+We would like to work with Perigean to recruit remote users.  
 
-### Primary participant criteria:
+We are looking for:
 
-#### MUST: 
+12 Veterans **who have caregivers** 
 
-- Be a Veteran, active duty service member, reservist, or national guard member.
-- Is currently or has participated in individual or group mental health counseling with the VA.
+
+**Use case 1: Answer must be yes for 4 participants**
+
+Are you a Veteran who has a caregiver who:
+
+- Lives with the Veteran and is a family member, significant other, or friend of the Veteran. 
+
+OR are you a caregiver of a Veteran that: 
+
+- Lives with the Veteran and is a family member, significant other, or friend of the veteran.
+
+**Use case 2: Answer must be yes for 4 participants
+
+- Are you a Veteran who has multiple caregivers, 1 or more that live with you, and 1 or more that do not live with you?
+
+**Use case 3: Answer must be yes for 4 participants** 
+
+Are you a Veteran who has a caregiver who:
+
+- Does not live with the veteran and is a family member, significant other, or friend of the veteran. 
+
+OR are you a caregiver of a veteran that: 
+
+- Does not live with the veteran and is a family member, significant other, or friend of the veteran.
+
+## Timeline 
+
+- Study dates: TBD
+- Pilot session: will be held on TBD
+- Session length: 30 minutes 
+- Specific dates: TBD 
+  
+	
+## Team Roles	
+
+- Moderator: Jonathan Nelson (jonathan.nelson@adhocteam.us) 
+- Research guide writing and task development (usually but not always same as moderator):	Jonathan Nelson (jonathan.nelson@adhocteam.us) 
+- Participant recruiting & screening: Perigean
+- Project point of contact: Jonathan Nelson (jonathan.nelson@adhocteam.us)
+- Participant(s) for pilot test: TBD
+- Note-takers:TBD
+- Observers: Alayna Abel (alayna@adhocteam.us), Justin Linn (jlinn@governmentcio.com), Kevin Mircovich (kmircovich@governmentcio.com), Ming Ligh (Ming.Ligh@va.gov) 
+
+
+Resources	
+
+- [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/product-outline.md)
+- Convo Guide 
+- Synthesis		
+- Read-Out/Results	 	
+  - ** Don't forget to add a link to your research folder to the research tracker! 
+- Reviewed and approved by Lauren Alexanderson on: TBD
+
 
