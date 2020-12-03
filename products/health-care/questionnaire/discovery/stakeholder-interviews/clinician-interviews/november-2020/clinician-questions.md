@@ -62,46 +62,48 @@ Understand how clinicians want to access and interact with Patient-Generated Dat
    - If no, why?
    - Do any offices that you frequently refer patients to have pre-appointment digital forms/experiences that you know of?
 
-3. How has the ability/need to access/interact patient provided data change with COVID?
-   - Do you see patients via telehealth appointments?
-   - If yes...
-      - Has your intake process changed due to COVID/the increase in telehealth appointments?
-      - Are nurses involved more, less, or the same amount in the intake process?
-      - What is the impact of these process changes? 
-
-4. Do you use secure messaging with patients in your practice?
+3. Do you use secure messaging with patients in your practice?
    - Do you have the ability to add documents from a message to the patient's chart?
    - If a veteran had a question about an intake form ahead of a visit would sending a secure message/text/call to the clinic be preferred?
    
-5. Do you regularly review any other form of patient submitted data besides questionnaires?
-    - Do you review self reported data from myHealtheVet, what does that data look like for you?
-    - Where do you go to access/view information you receive from patients? 
-    - Would you like patient generated information sent directly to the EHR?
-      - If no, do you want to decide what information gets sent to the EHR? What information would you like to send to the EHR?
-   
-6. Would you review a clinical note in a patients chart with questionnaire answers before meeting with the patient?
+4. Would you review a clinical note in a patients chart with questionnaire answers before meeting with the patient?
    - When would you want to see data from questionnaires across patients versus for only one patient?
       
-7. Do you have experience creating questionnnaires?
+5. Do you have experience creating questionnnaires?
    - If yes...
       - How do you create a questionnaire (pull from a template or create your own)?
       - What is your clinic's ability to make custom versus standardized questionnaires?
       
 ## Device-based Questions
 
-1. Do you routinely have your patients send you data from devices, such as blood pressure monitors, CPAP machines, glucometers, mobile apps, wearable devices, etc?
+8. Do you routinely have your patients send you data from devices, such as blood pressure monitors, CPAP machines, glucometers, mobile apps, wearable devices, etc?
    - If yes... 
       - From what particular devices?
       - Are they prescribed by you or BYO?
-      - What information are you normally looking for?
+      - How do you access this data and interact with this data? What challenges are there?
       - How does this information impact your interactions with the patient and their quality of care?
       - What other devices might you be interested in reviewing information from?
-      - Do you have any concerns about patient-generated data from devices?
+      - Are there types of PGD from devices you wish you could better/more access to? 
+      - Are there types of PGD from devices that you don’t need or want access to? 
    - If no...
       - Why not?
       - What devices or information types might you be most interested incorporating into your practice?
       
-      
+ ## Wrap-up Questions
+ 1. Do you see patients via telehealth appointments?
+   - If yes...
+      - Has your intake process changed due to COVID/the increase in telehealth appointments?
+      - Are nurses involved more, less, or the same amount in the intake process?
+      - What is the impact of these process changes? 
+   - How has the ability/need to access/interact patient provided data change with COVID?
+   
+5. Do you review self reported data from myHealtheVet, what does that data look like for you?
+
+6. In a perfect world, how would the PGD you interact with be presented to you? 
+   - When (if at all) is it important to differentiate between PGD and data that was generated in the healthcare system? 
+   - What type of patient generated data would you like to go directly into CPRS? What type of data would you like to review first before entering or submitting to CPRS? Or no preference?
+   
+           
 # Clinician Recruitment Plan
 - Dr. Derek Juang, San Diego and possibly other San Diego colleagues
 - VA in Durham, NC
