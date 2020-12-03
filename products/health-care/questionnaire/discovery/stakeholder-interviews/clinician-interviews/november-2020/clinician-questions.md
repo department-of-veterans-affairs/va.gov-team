@@ -1,8 +1,26 @@
 # Questions for Clinician Interviews 
 
+## Research goals
+Understand how clinicians want to access and interact with Patient-Generated Data (PGD) within their workflows. 
+
+## Hypotheses 
+- Clinicians are most interested in seeing “high yield” PGD, i.e. PGD that will influence clinical decision-making and is backed by evidence. 
+- Clinicians are wary of seeing PGD that does not have a clear influence on clinical decision making and/or is not clearly backed by evidence, given liability issues and information overload. 
+- Clinicians want PGD to be “integrated” into the electronic health record workflow: 
+   - Don’t have to open a separate app 
+   - Don’t have to log in twice 
+   - Don’t have to re-search for the patient within the PGD system – it maintains patient context with the electronic health record 
+   - Want to access/be presented with PGD easily at point of decision making 
+- Clinicians want to be able to differentiate between PGD and data that was generated in the healthcare system (e.g., home blood pressure readings vs. clinic blood pressure readings)
+
+## Warm-up Questions
+- What is your background? Training level, specialty, practice setting
+- What types of patient-generated data do you encounter in your practice? This includes any data provided by the patient from outside a healthcare encounter, including pre-visit questionnaires, wearable device data, other device data (e.g., CPAP), etc. 
+   - Of all the patient generated data that you use/encounter, how would you prioritize your usage of them and why?
+
 ## Questionnaire-based Questions
 
-1. To start, I'm going to have you talk through different parts of your typical appointment experience. Let us know if there are any big differences based upon appointment type (new patient, follow-up, physical, etc.)
+1. I'm going to have you talk through different parts of your typical appointment experience. Let us know if there are any big differences based upon appointment type (new patient, follow-up, physical, etc.)
    - First, how do you prepare for the appointment?
      - What health record information is helpful to review before an appointment?
          - How long before seeing the Veteran do/would you open their chart to prepare for their appt.?
@@ -44,7 +62,8 @@
    - If no, why?
    - Do any offices that you frequently refer patients to have pre-appointment digital forms/experiences that you know of?
 
-3. Do you see patients via telehealth appointments?
+3. How has the ability/need to access/interact patient provided data change with COVID?
+   - Do you see patients via telehealth appointments?
    - If yes...
       - Has your intake process changed due to COVID/the increase in telehealth appointments?
       - Are nurses involved more, less, or the same amount in the intake process?
