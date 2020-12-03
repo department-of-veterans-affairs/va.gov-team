@@ -34,19 +34,28 @@ Before we start, a few things I want to mention::
 - If yes: 
 - Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
-###### Start recording to the Cloud
+## Start recording to the Cloud
 
-- **I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?"
-** 
+- I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?"
+
+## Warm-up Questions - 5 minutes
+
+- Can you tell me a little about yourself? (If stuck, ask about location, occupation, etc.) Are you a Veteran with a caregiver or a caregiver of a Veteran?
+
+**For Caregivers:**
+
+Do you currently live with the Veteran?
+Do you receive benefits from the VA?
+Are there any other family members / caregivers of the Veteran?
+
+**For Veterans:**
+
+How many caregivers do you have?
+Do you currently live with any of your caregivers?
+Does your caregiver receive benefits from the VA?
 
 
-## Warm-up Questions 
-
-- Can you tell me briefly about your service history?
-
-Thanks for sharing that. 
-
-## Counseling services 
+## First Task: [Applying for benefits] - 15 minutes
 
 For the purpose of this session, we'll be mostly focused on mental health care services offered at the VA. 
   
