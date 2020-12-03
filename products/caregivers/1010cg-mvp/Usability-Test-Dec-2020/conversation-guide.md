@@ -16,19 +16,23 @@ Check your [screensharing setup]
 
 When the participant is ready, begin the session with the following intro
 
-## Intro - 3 minutes
+## Project-specific setup 
 
-Thanks for joining us today! My name is Leyda. I also have some colleagues on the line listening and taking notes.
-Today we'll be discussing ideas for a new webpage that will live on the VA's website.
+- Open in a tab (https://staging.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/)
 
-Before we get started, I want to give you an idea of what this call will be like:
 
-- This entire session should take about 45 minutes.
-- We'll start the session with a couple warm up questions.
-- Then, I'll ask you to share your screen so that we can look at and discuss a website together and I'll help you through that.
-- Lastly, I'll share a link for you to click on. It will open a separate website that we'll also look at and discuss together. 
-- Throughout the session, I'll be asking you about your thoughts and opinions about the information and content on the pages but there are no right or wrong answers. We're not testing you. We're actually testing the designs and the information contained on the pages to see how we can make them better for Veterans. So, I welcome your honest and candid feedback but if at any time you don't feel comfortable answering a question, we can simply move on to the next question. 
-- This session will be recorded to ensure that I capture your opinions accurately. The recordings are destroyed after the call is analyzed, and none of your comments will be attributed to you directly. 
+## Intro - 5 minutes
+
+Thanks for joining us today! My name is Jonathan and I also have some colleagues on the line observing and taking notes. Today we're going to talk about federal benefits that are provided to family members or caregivers of disabled veterans.
+
+Before we start, a few things I want to mention::
+
+- This entire session should take about 30 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+- If for any reason and at any time you want to stop the session, please let me know.
+- Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
+- If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
+
 
 **Are you comfortable if I record my screen and audio as we talk today?** 
 
@@ -38,9 +42,8 @@ Before we get started, I want to give you an idea of what this call will be like
 
 ###### Start recording to the Cloud
 
-- **I have started recording.** So, I'd like to confirm:
-
-Are you comfortable if I record my screen the audio as we talk today?" 
+- **I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?"
+** 
 
 
 ## Warm-up Questions 
