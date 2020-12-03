@@ -128,7 +128,7 @@ The CCMs use a spreadsheet to keep up-to-date information on providers:
 
 6. Participants mentioned the pain of documenting and updating an appointment in multiple systems.
 
-7. Several participants stated that there is confusion from Veterans on which urgent care to use. Facilities may not know how to bill for VA care properly. Half the time this means the veteran ends up paying out of pocket. Marking them as “preferred providers” would be helpful. 
+7. Several participants stated that there is confusion from Veterans on which urgent care to use. Facilities may not know how to bill for VA care properly. Half the time this means the veteran ends up paying out of pocket. They prefer to work with vendors who understand VA's processes and provide an ease of care for the Veteran. Identifying these is important to CCMs, who are relying on external tools. An indication in their system of these facilities would be helpful.
 
 8. Search terms: It is difficult for CCMs to figure out the search terms. CCMs rely on past success/talking to each other/word of mouth.
 
