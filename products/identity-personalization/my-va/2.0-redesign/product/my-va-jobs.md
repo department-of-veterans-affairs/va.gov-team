@@ -28,7 +28,7 @@ But what does this actually mean? What are these "tasks that apply to my specifi
 
 - As a veteran, I want to easily be able to access my personal documents so I can use them to apply for other benefits, prove I am a veteran to an outside group, etc.
 
-- As a veteran, I want to learn what other VA benefits I am entitled to that I do not already receive, and what other VA services might be offered to me.
+- As a veteran, I want to learn what other VA benefits I am entitled to that I do not already receive, and what other VA services might be offered to me. I also want it to be clear how I go about getting those benefits/services.
 
 ## What My VA should do
 
