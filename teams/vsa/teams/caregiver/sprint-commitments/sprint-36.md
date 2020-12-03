@@ -20,7 +20,7 @@
 
 ## Design
 - [ ] [Address designs in UXPin](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15159) (2)
-- [ ] Finalize research plan for 10-10CG/secondary caregiver only
+- [ ] [Finalize research plan for 10-10CG/secondary caregiver only](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16873)
 - [ ] [Set up meeting with Shawna, Ming, Alayna to discuss POA plan](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16452)
 - [ ] Next steps for the health care plan (what data do we need, what research do we want to do)
 
