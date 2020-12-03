@@ -46,6 +46,8 @@ Based on the jobs users come to do, this is what I see as the jobs of My VA:
 
 - To show all notifications and requests, especially notification and requests that are suggestions or requests of the VA that were not initiated by the veteran (eg. "Check to make sure your address is up to date"; "We've got a new feature on VA.gov!").
 - To show anything that is historical or no longer relevant (eg. we don't need to show your old disability rating, old claims, previous appointments, etc).
+- To serve as navigation into every single logged-in tool because our navigation doesn't cater to the authenticated experience.
+- To be the entire authenticated experience.
 
 # Overall page direction
 
@@ -53,7 +55,7 @@ The original question that prompted this review was around which design approach
 
 - This approach better allows for growth and progression in a veteran's experience over time. For example, it allows us to guide and curate the experience for new veterans, and allows them to more clearly see as a benefit goes from application > in review > approved. I don't think the newsfeed approach would allow for a progression in the same way.
 - This provides a more consistent landing pad for people when they sign in. While a newsfeed approach is great at bubbling information to the top of the page, assuming that information is in reverse chronological order of updates, you don't know what to expect or what you're looking for when you log in. With the traditional dashboard approach, you always know you can check a certain block/section of the page for an update (eg. updates on your claim; when your next appointment is scheduled; etc).
-- While every veteran has different circumstances, we know what's most popular on the site and can elevate that information and those updates. We don't need to rely on a newsfeed to do this for us if we curate and layout the page well, recognizing that in any approach, someone's going to have to scroll for something.
+- While every veteran has different circumstances, we know enough to curate an experience based on what's most popular on the site and what most veterans come to do. We don't need to rely on the reverse chronological order of a newsfeed to do this for us.
 - This more of an iterative approach to what we have now.
 - This approach works and really appeals to veterans... just not how we have it designed now. A more streamlined design like the [2018 blue sky prototype](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md#a-design-like-the-blue-sky-prototype-would-be-useful-to-veterans) very much met veteran needs and expectations.
 - We'll still need to figure out how to handle on-site notifications, but that's a whole new product that deserves dedicated time, discovery, and attention we don't really have right now.
