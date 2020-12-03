@@ -63,11 +63,20 @@ Zoom
 
 4. Participants and Recruiting
     - Targeting 8-10 users including a mix of veterans, non-veteran visitors (caregivers).  
+      - Expand to(?):
+         - Family
+         - Friends
+         - Help desk employees
+         - Nurses/doctors
+         - Admin staff
+         - Journalists/public policy 
+         
     - Strong preference for anyone who has used VA.gov search in the last month.
-      - 1/4 education
-      - 1/4 health benefits
-      - 1/4 disability
-      - 1/4 family benefits
+       - Topics of interest
+         - 1/4 education
+         - 1/4 health benefits
+         - 1/4 disability
+         - 1/4 family benefits
 
     - Must be a veteran or caregiver of a veteran
     - Half desktop, half mobile users
