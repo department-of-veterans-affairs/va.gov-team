@@ -831,8 +831,6 @@ Back to [Table of Contents](#table-of-contents)
 
 - [[SCREENREADER]: GIBCT EYB - IE11 MUST announce the updated live region after users press the Update benefits button - #11300](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11300)<br/>
 **Opened:** July 16, 2020 | **Severity:** 508-defect-2 - **_Serious_**
-- [[COGNITION]: GIBCT EYB - Learn more modal triggers MUST be moved outside labels for VETTEC estimated benefits - #14417](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14417)<br/>
-**Opened:** October 5, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[DESIGN]: GIBCT EYB - CONSIDER re-aligning the benefits list items for VETTEC providers - #14422](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14422)<br/>
 **Opened:** October 5, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
 - [[DESIGN]: GIBCT EYB - CONSIDER shortening margin between benefit headers on college, OTJ profiles - #14424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14424)<br/>
@@ -882,11 +880,9 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open issues**
 - [[COGNITION] Global Timeout Modal - Language should not depend on color descriptions like "blue button" for users to extend their session - #16301](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16301)<br/>**Limited production** | **Opened:** November 17, 2020 | **Severity:** _508-defect-2 - **Serious**_
-- [[SEMANTIC MARKUP] VAOS Appointment Cards - Bold section-heading like text must be marked up as headings - #16293](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16293)<br/>**Limited production** | **Opened:** November 17, 2020 | **Severity:** _508-defect-2 - **Serious**_
 - [[MOBILE]: Should buttons be full-width at mobile size for creating an Express Care appointment? - #15086](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15086)<br/>**Limited production** | **Opened:** October 20, 2020
 - [[DESIGN]: Mobile breadcrumb looks indented a bit too much on the form views - #15083](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15083)<br/>**Limited production** | **Opened:** October 20, 2020
 - [[DESIGN]: Should the Express Care radio button labels be bold, or regular weight like requesting an in-person appointment? - #15084](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15084)<br/>**Limited production** | **Opened:** October 20, 2020
-- [[DESIGN]: Definition lists are not spaced evenly in IE11 - #15103](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15103)<br/>**Limited production** | **Opened:** October 20, 2020
   
 Back to [Table of Contents](#table-of-contents)
 
