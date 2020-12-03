@@ -34,8 +34,9 @@ Goal: Align on what we want to test with Veterans; refine research plan and prot
      • Michelle creates a ticket for Leyda to do CLP exploration
 
      • Leyda starts starts working on a design with "About" content within the CLP template and while also refining detail page 
-3. Dave OOO 11/19-20
-4. Mon, Nov 23 - Dave has Leyda stop working on CLP. He will decide with other business leaders if CLP is the right approach. Vet Center detail pages should now only contain logistical information specific to each location to mirror VAMCs.
+     
+     • Dave OOO 11/19-20
+3. Mon, Nov 23 - Dave has Leyda stop working on CLP. He will decide with other business leaders if CLP is the right approach. Vet Center detail pages should now only contain logistical information specific to each location to mirror VAMCs.
 
 
 ## Iteration 3 - Sprint 34 (ending Nov 17, 2020)
