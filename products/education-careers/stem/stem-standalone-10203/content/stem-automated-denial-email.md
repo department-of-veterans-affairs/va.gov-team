@@ -10,11 +10,12 @@ We denied your claim for the Rogers STEM Scholarship because:
 
 { VCE: select reason(s) and delete all the others, and this text }
 
-- As of XX/XX/XXXX, you have more than 6 months of Post 9/11 GI Bill (Chapter 33) benefits remaining.  By law, all Rogers STEM Scholarship recipients must have used all of their Post 9/11 GI Bill (Chapter 33) benefits or be on track to exhaust them within 6 months of applying (Public Law 115-48, Section 111 (b)).  If you enroll in a subsequent term and have less than 6 months of benefits remaining, please re-apply at that time.
+- As of [MM/DD/YYYY], you have more than 6 months of Post 9/11 GI Bill (Chapter 33) benefits remaining.  By law, all Rogers STEM Scholarship recipients must have used all of their Post 9/11 GI Bill (Chapter 33) benefits or be on track to exhaust them within 6 months of applying (Public Law 115-48, Section 111 (b)).  If you enroll in a subsequent term and have less than 6 months of benefits remaining, please re-apply at that time.
 
 - You do not meet the degree requirements for the Rogers STEM Scholarship (Public Law 115-48, Section 111(b)). By law, all Rogers STEM Scholarship recipients must either be:
-   (1) enrolled in an eligible STEM undergraduate degree
-   (2) currently have an eligible STEM undergraduate degree and be pursuing a teaching degree.
+
+      (1) enrolled in an eligible STEM undergraduate degree
+      (2) currently have an eligible STEM undergraduate degree and be pursuing a teaching degree.
  
      The Rogers STEM scholarship application asks the following questions to determine degree eligibility.  Applicants must answer "Yes" to one of these questions to be considered eligible.
  
