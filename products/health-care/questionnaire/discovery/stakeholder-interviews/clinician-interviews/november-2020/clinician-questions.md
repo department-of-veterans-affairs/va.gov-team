@@ -45,7 +45,8 @@ Understand how clinicians want to access and interact with Patient-Generated Dat
    
 2. Do your patients fill out any forms or questionnaires before, during, or after appointments with you?
    - If yes...
-     - What forms or questionnaires do they fill out?
+     - What forms or questionnaires do they fill out and when?
+     - Are these questionnaires used by the nationally, VAMC, specific to your clinic or specific to your patients?
      - Do these questionnaires differ based upon new or returning patients?
      - Do you feel more, less, or equally prepared for your appointments with patients, because of these questionnaires? 
      - Do you refer to this information at other points than right before or during an appointment?
@@ -96,6 +97,8 @@ Understand how clinicians want to access and interact with Patient-Generated Dat
       - Are nurses involved more, less, or the same amount in the intake process?
       - What is the impact of these process changes? 
    - How has the ability/need to access/interact patient provided data change with COVID?
+      - Questionnaires
+      - Devices
    
 8. Do you review self reported data from myHealtheVet, what does that data look like for you?
 
