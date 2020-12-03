@@ -6,10 +6,10 @@ Search enhancements for VA.gov, Public Websites
 
    Since the release of the modernized VA.gov in November 2018, there has been no dedicated focus to optimize VA.gov's search experience. Analytics tells that search is a primary utility for the modernized VA.gov's users - from June 2019 to June 2020, ~10% of visitors used site search, and ~46% of site visitors come to VA.gov via organic search.
    
-    We'd like to better understand Veteran's needs and expectations around our site search so we can improve our search experience, and more fully align with our North Star goals.
+    We'd like to better understand veteran's needs and expectations around our site search so we can improve our search experience, and more fully align with our North Star goals.
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research?
-    - **What are veterans/caregivers searching for?** 
+    - **What are veterans searching for?** 
     - **In what scenarios do users use site search?**
       - Do users see where they can use search? Or is the hidden input box make it harder to find and to utilize?
       - Does the search button being disabled by default present any usability issues?
@@ -31,7 +31,7 @@ Search enhancements for VA.gov, Public Websites
       - How do users see VA.gov search separate from Google?
 
 4. Hypothesis: What is your hypothesis for this research?
-    - Veterans/Caregivers will experience the following pain points which will lead to Veterans/Caregivers perceiving our site search to be ineffective:
+    - Veterans will experience the following pain points which will lead to veterans perceiving our site search to be ineffective:
       - Too many results to sort through
       - The information they're looking for will not be immediately apparent from the search titles and descriptions
       - Not having a way to refine search results
@@ -62,14 +62,7 @@ If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)
 Zoom
 
 4. Participants and Recruiting
-    - Targeting 8-10 users including a mix of veterans, non-veteran visitors (caregivers).  
-      - Expand to(?):
-         - Family
-         - Friends
-         - Help desk employees
-         - Nurses/doctors
-         - Admin staff
-         - Journalists/public policy 
+    - Targeting 8-10 veterans.  
          
     - Strong preference for anyone who has used VA.gov search in the last month.
        - Topics of interest
@@ -78,7 +71,7 @@ Zoom
          - 1/4 disability
          - 1/4 family benefits
 
-    - Must be a veteran or caregiver of a veteran
+    - Must be a veteran
     - Half desktop, half mobile users
 
     - We request the participant pool be diverse in:
