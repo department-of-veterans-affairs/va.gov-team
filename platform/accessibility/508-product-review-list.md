@@ -440,6 +440,7 @@ Back to [Table of Contents](#table-of-contents)
 **Audit status:** _[VSP Staging Review completed on behalf of VSA December 1, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16720)_<br/>
 **Open issues**
 
+- [508-defect-1 ❗ Launchblocker [COGNITION]: BAM2 Debt Letters - Focus must be managed when routes changes to debt detail, debt letter downloads - #16776](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16776)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** _508-defect-1 - **Critical**_
 - [508-defect-2 [MOBILE]: BAM2 Debt Letters - Debt letter download must be legible at mobile sizes - #16760](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16760)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** _508-defect-2 - **Serious**_
 - [508-defect-2 [COGNITION]: BAM2 Debt Letters - Debt detail table must have properly formatted heading row - #16769](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16769)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** _508-defect-2 - **Serious**_
 - [508-defect-2 [COGNITION]: BAM2 Debt Letters - Heading level should only increase by one - #16783](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16783)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** _508-defect-2 - **Serious**_
