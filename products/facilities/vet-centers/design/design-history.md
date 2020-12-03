@@ -27,7 +27,13 @@ Goal: refining the IA and relationship between Vet Center parent/child locations
 [Link to wireframe](https://preview.uxpin.com/7a8826eb89e70957ccbe33ea1380346a5128d86d#/pages/134613009/simulate/no-panels)
 
 #### Feedback & Outcomes
-Dec 1 - Met with Mikki to discuss how we might treat the relationships between the different locations. Gave Leyda feedback on nav, breadcrumb and overall IA.
+1. Mon, Nov 23 - Dave has Leyda stop working on CLP. He will decide with other business leaders if CLP is the right approach. Vet Center detail pages should now only contain logistical information specific to each location to mirror VAMCs. 
+
+2. Leyda OOO 11/25-27 for Thanksgiving
+
+3. Nov 30 - Start new research plan and conversation guide to test usability with non-client Veterans, table "Client usability test to validate positioning study" since we are not designing any "About VC" content at this time.
+
+4. Dec 1 - Met with Mikki to discuss how we might treat the relationships between the different locations. Gave Leyda feedback on nav, breadcrumb and overall IA.
 Suggests:
   • removing "Main area location" and "Satellit offices" categories from side nav. 
   • removing links to "About" and "Facility locator" from side nav and work them into the page content stream 
@@ -52,7 +58,7 @@ Goal: Align on what we want to test with Veterans; refine research plan and prot
      • Leyda starts starts working on a design with "About" content within the CLP template and while also refining detail page 
      
      • Dave OOO 11/19-20
-3. Mon, Nov 23 - Dave has Leyda stop working on CLP. He will decide with other business leaders if CLP is the right approach. Vet Center detail pages should now only contain logistical information specific to each location to mirror VAMCs.
+
 
 
 ## Iteration 3 - Sprint 34 (ending Nov 17, 2020)
