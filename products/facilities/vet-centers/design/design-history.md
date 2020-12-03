@@ -19,11 +19,11 @@ Designer: Leyda Hughes
 
 2. Wed, Nov 18 - Dave, Michelle, Leyda and Ryan meet for Ryan to give the team a walk-thru of the CPL 
 
-  • Dave's feedback is to create a ticket to explore C.L.P.. [Dave OOO 11/19-20]
+     • Dave's feedback is to create a ticket to explore C.L.P.. [Dave OOO 11/19-20]
 
-  • Michelle creates a ticket for Leyda to do CLP exploration
+     • Michelle creates a ticket for Leyda to do CLP exploration
 
-  • Leyda starts starts working on a design with "About" content within the CLP template and while also refining detail page 
+     • Leyda starts starts working on a design with "About" content within the CLP template and while also refining detail page 
 
 3. Mon, Nov 23 - Dave tells Michelle to tell me to stop working on CLP. He will decide with other business leaders if CLP is the right approach. Vet Center detail pages now to only contain logistical information specific to each location to mirror VAMCs.
 
