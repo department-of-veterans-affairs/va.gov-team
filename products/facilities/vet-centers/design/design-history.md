@@ -10,12 +10,15 @@ Description
 
 [Link to wireframe]()
 
-## Iteration # - Sprint 34 (ending Nov 17, 2020)
+## Iteration 2 - Sprint 34 (ending Nov 17, 2020)
 
 ### Designs
 Vet Center prototype with an emphasis on language, testing out new service taxons
 
 [Link to wireframe](https://preview.uxpin.com/73434f75b1664fb29a9340c025cf2bebd7e8e24b#/pages/133987808)
+
+### Feedback & Outcomes
+Met with Dave, Ryan, Michelle on Nov 5, 2020 to discuss the prototype and next iteration of the Vet Center prototype with the focus on solving the problem of awareness.
 
 ## Sprint 33 (ending Nov 3, 2020)
 
@@ -25,6 +28,10 @@ Vet Center prototype with an emphasis on language, testing out new service taxon
 
 [Link to language synthesis](https://adhocteam-my.sharepoint.com/:x:/g/personal/leyda_hughes_adhocteam_onmicrosoft_com/EU1R6aqGYuBJsTF2t7xbj1kBddrCk1f8PSgVyqzCvAdnsA?e=jacOtc)
 
+### Feedback & Outcomes
+1. Team aligned on awareness being the #1 problem to solve for Vet Centers. 
+2. Direction from PO is to take an MVP approach to a new design for Vet Centers website template. 
+3. Designer shifts from the original idea of using "Campaign Landing Page" template to using the VAMC layout. 
 
 ## Sprint 32 (ending Oct 20, 2020)
 
