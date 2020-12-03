@@ -14,13 +14,13 @@ Designer: Leyda Hughes
 [Link to wireframe](https://preview.uxpin.com/7a8826eb89e70957ccbe33ea1380346a5128d86d#/pages/134613014/simulate/no-panels?mode=i)
 
 #### Feedback & Outcomes
-1. Tues, Nov 17 - Dave, Michelle & Leyda sync on designs and prepare for "Usability Testing Prep" the following day. The plan is to test the high level Vet Center concepts and positioning to validate what we heard in the research from Vet Center clients, now presented in a website prototype.
-2. Dave's feedback is to strip the yellow "Featured content" boxes and to pull back on any "About" content, thinks this type of content belongs on a "Content Landing Page". 
-3. Wed, Nov 18 - Dave, Michelle, Leyda and Ryan meet for Ryan to give the team a walk-thru of the CPL 
-4. Dave's feedback is to create a ticket to explore C.L.P.. [Dave OOO 11/19-20]
-5. Michelle creates a ticket for Leyda to do CLP exploration
-6. Leyda starts starts working on a design with "About" content within the CLP template and while also refining detail page 
-7. Mon, Nov 23 - Dave tells Michelle to tell me to stop working on CLP. He will decide with other business leaders if CLP is the right approach. Vet Center detail pages now to only contain logistical information specific to each location to mirror VAMCs.
+#1. Tues, Nov 17 - Dave, Michelle & Leyda sync on designs and prepare for "Usability Testing Prep" the following day. The plan is to test the high level Vet Center concepts and positioning to validate what we heard in the research from Vet Center clients, now presented in a website prototype.
+#2. Dave's feedback is to strip the yellow "Featured content" boxes and to pull back on any "About" content, thinks this type of content belongs on a "Content Landing Page". 
+#3. Wed, Nov 18 - Dave, Michelle, Leyda and Ryan meet for Ryan to give the team a walk-thru of the CPL 
+#4. Dave's feedback is to create a ticket to explore C.L.P.. [Dave OOO 11/19-20]
+#5. Michelle creates a ticket for Leyda to do CLP exploration
+#6. Leyda starts starts working on a design with "About" content within the CLP template and while also refining detail page 
+#7. Mon, Nov 23 - Dave tells Michelle to tell me to stop working on CLP. He will decide with other business leaders if CLP is the right approach. Vet Center detail pages now to only contain logistical information specific to each location to mirror VAMCs.
 
 ## Iteration 3 - Sprint 34 (ending Nov 17, 2020)
 
