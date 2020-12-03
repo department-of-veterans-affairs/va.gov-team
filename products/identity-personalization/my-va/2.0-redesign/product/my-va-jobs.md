@@ -6,7 +6,7 @@ As part of our [DEPO conversations on 12.2.20 about the My VA purpose and design
 
 ### High level user goals
 
-These are already in our product outline.
+From countless user interviews that have been done over the years, we know people come to VA.gov to complete tasks specific to their benefits. We also know that people want to see information that is personally relevant to them, and they don't want to be bogged down by links or suggestions that don't apply to them. As a result, we already have these user goals defined in the [My VA redesign our product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md:
 
 - As a veteran, I want to be able to log in to VA.gov and easily find the tools and tasks that apply to my specific experience at the VA.
 - As a veteran, I want to be able to log in to VA.gov and easily see status updates and notifications that apply to my specific experience at the VA.
@@ -14,7 +14,7 @@ These are already in our product outline.
 
 ### More specific user goals
 
-But what does this actually mean? What are the jobs they are coming to VA.gov to do? We know the following from user research:
+But what does this actually mean? What are these "tasks tht apply to my specific experience at the VA" (aka the jobs)? We know the following from user research:
 
 ## What My VA should do
 
