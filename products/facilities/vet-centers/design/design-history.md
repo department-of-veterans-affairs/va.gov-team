@@ -3,12 +3,31 @@
 
 Designer: Leyda Hughes
 
-## Iteration # - Sprint 35 (ending Dec 1, 2020)
+## Iteration 4 - Sprint 35 (ending Dec 1, 2020)
+#### Designs
+#### Feedback & Outcomes
+
+## Iteration 4 - Sprint 34 (ending Nov 17, 2020)
 
 #### Designs
-Description
 
-[Link to wireframe]()
+[Link to wireframe](https://preview.uxpin.com/7a8826eb89e70957ccbe33ea1380346a5128d86d#/pages/134613014/simulate/no-panels?mode=i)
+
+#### Feedback & Outcomes
+1. Nov 17 - Dave, Michelle & Leyda sync on designs. Dave wants to strip the yellow "Featured content" boxes and wants to pull back on any "About" content. Thinks this type of conetent belongs on a "Content Landing Page". 
+2. Ticket created for Leyda to explore C.L.P.. Leyda starts a design with "About" content in a CLP
+3. Dave says for me to stop working on this. He will decide with other business leaders if CLP is the right approach.
+4. Vet Center detail pages now to only contain logistical information specific to each location to mirror VAMCs.
+
+## Iteration 3 - Sprint 34 (ending Nov 17, 2020)
+
+#### Designs
+
+[Link to wireframe](https://preview.uxpin.com/8384f2aaca9ea40b4ffdab6e642b92ea0c8952eb#/pages/134428889/simulate/no-panels?mode=i)
+
+#### Feedback & Outcomes
+1. Dave, Michelle & Leyda sync on designs. Dave is concerned that the prototype does not adequately address catchment area/nearby locations, informs designer that it is now part of MVP.
+2. Nov 12 - Leyda meets with Ryan for input on addressing locations feature/content and continues refining prototype
 
 ## Iteration 2 - Sprint 34 (ending Nov 17, 2020)
 
