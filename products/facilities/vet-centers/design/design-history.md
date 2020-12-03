@@ -3,9 +3,19 @@
 
 Designer: Leyda Hughes
 
-## Iteration 4 - Sprint 35 (ending Dec 1, 2020)
+## Iteration 5 - Sprint 35 (ending Dec 1, 2020)
 #### Designs
+[Link to wireframe](https://preview.uxpin.com/7a8826eb89e70957ccbe33ea1380346a5128d86d#/pages/134613009/simulate/no-panels)
+
 #### Feedback & Outcomes
+Dec 1 - Met with Mikki to discuss how we might treat the relationships between the different locations. Gave Leyda feedback on nav, breadcrumb and overall IA.
+Suggests:
+  • removing "Main area location" and "Satellit offices" categories from side nav. 
+  • removing links to "About" and "Facility locator" from side nav and work them into the page content stream 
+
+Goal: Align on what we want to test with Veterans; refine research plan and prototype to match
+
+
 
 ## Iteration 4 - Sprint 34 (ending Nov 17, 2020)
 
@@ -19,13 +29,14 @@ Designer: Leyda Hughes
 
 2. Wed, Nov 18 - Dave, Michelle, Leyda and Ryan meet for Ryan to give the team a walk-thru of the CPL 
 
-     • Dave's feedback is to create a ticket to explore C.L.P.. [Dave OOO 11/19-20]
+     • Dave's feedback is to create a ticket to explore C.L.P.. 
 
      • Michelle creates a ticket for Leyda to do CLP exploration
 
      • Leyda starts starts working on a design with "About" content within the CLP template and while also refining detail page 
+3. Dave OOO 11/19-20
+4. Mon, Nov 23 - Dave has Leyda stop working on CLP. He will decide with other business leaders if CLP is the right approach. Vet Center detail pages should now only contain logistical information specific to each location to mirror VAMCs.
 
-3. Mon, Nov 23 - Dave has Leyda stop working on CLP. He will decide with other business leaders if CLP is the right approach. Vet Center detail pages should now only contain logistical information specific to each location to mirror VAMCs.
 
 ## Iteration 3 - Sprint 34 (ending Nov 17, 2020)
 
