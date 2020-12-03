@@ -56,7 +56,7 @@ Search enhancements for VA.gov, Public Websites
    - Comparative analysis to review how other sites utilize on-site search, allow users to filter results
    - User interviews, so that we can further clarify what users need and expect from search
 - Where are you planning to do your research?
-   - Analytics data will be provided by Google Analytics and Search.gov
+   - Analytics data will be available on DOMO dashboard, Google Analytics, and Search.gov
    - On-site survey will be implemented using Medallia
    - Social listening via Reddit, Hadit.com, and Rallypoint
    - Comparative analysis on similar resource-heavy sites and case studies of on-site search improvements
