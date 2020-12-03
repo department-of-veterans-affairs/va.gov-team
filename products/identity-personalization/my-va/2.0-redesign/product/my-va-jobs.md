@@ -42,8 +42,6 @@ Based on the jobs users come to do, this is what I see as the jobs of My VA:
 - Prioritize benefits and use cases we know are most common based on user research.
 - Show information in a curated, personalized way (eg. Don't show "Apply for health care" if they are enrolled in health care).
 
-**Note**: This all assumes we have access to these data points for a given benefit. Ideally, over time, 
-
 ### What My VA is not responsible for
 
 - To show all notifications and requests, especially notification and requests that are suggestions or requests of the VA that were not initiated by the veteran (eg. "Check to make sure your address is up to date"; "We've got a new feature on VA.gov!").
