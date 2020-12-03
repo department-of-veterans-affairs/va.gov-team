@@ -42,6 +42,7 @@ Should | Health care hub promo spot | www.va.gov/health-care/covid-19-vaccine/ |
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
 URL | Redirect to | Notes
+--- | --- | ---
 www.va.gov/covid-19-vaccine | www.va.gov/health-care/covid-19-vaccine/ | This page does not currently exist, implement redirect to control URL
 www.va.gov/covid19-vaccine | www.va.gov/health-care/covid-19-vaccine/ | This page does not currently exist, implement redirect to control URL
 www.va.gov/covid19vaccine | www.va.gov/health-care/covid-19-vaccine/ | This page does not currently exist, implement redirect to control URL
