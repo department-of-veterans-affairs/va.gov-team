@@ -1,5 +1,9 @@
 # IRIS Design + Content Specifications 
 
+
+Please note this document will be updated; the form and the project repository are more up-to- date than this project.
+
+
 [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS-product-brief.md)
 
 ## High Level Flow Diagram
