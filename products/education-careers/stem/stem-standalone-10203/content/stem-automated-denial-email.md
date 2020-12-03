@@ -16,13 +16,16 @@ We denied your claim for the Rogers STEM Scholarship because:
    (1) enrolled in an eligible STEM undergraduate degree
    (2) currently have an eligible STEM undergraduate degree and be pursuing a teaching degree.
  
- The Rogers STEM scholarship application asks the following questions to determine degree eligibility.  Applicants must answer "Yes" to one of these questions to be considered eligible.
-    - "Are you enrolled in a science, technology, engineering, or math (STEM) degree program?"
-       - You answered: No
-    - "Do you have a STEM undergraduate degree and are now pursuing a teaching certification?"
-       - You answered: No
+     The Rogers STEM scholarship application asks the following questions to determine degree eligibility.  Applicants must answer "Yes" to one of these questions to be considered eligible.
+ 
+       - "Are you enrolled in a science, technology, engineering, or math (STEM) degree program?"
+          - You answered: No
+       
+       - "Do you have a STEM undergraduate degree and are now pursuing a teaching certification?"
+          - You answered: No
        
 **What You Should Do If You Disagree with Our Decision**
+
 If you disagree with this decision, you have one year from the date of this letter to request a decision review or appeal.  There are 3 options for doing this:
 
 - If you have new or previously unprovided evidence to prove your eligibility for this scholarship, you can file a Supplemental Claim by completing VA Form 20-0995.
