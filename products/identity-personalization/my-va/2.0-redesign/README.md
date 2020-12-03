@@ -25,7 +25,6 @@ Last updated December 3, 2020
 ## Table of Contents
 
 # Executive Summary 
-- [Overview](#overview)
 - [Problems](#problems)
 - [User Problem Statements](#user-problem-statements)
 - [Business Goals](#business-goals)
@@ -41,46 +40,76 @@ Last updated December 3, 2020
 - [Development](#development)
 - [Design](#design)
 
-## Overview
-
 ## Problems
 
-Based on the research that informed [the Personalization 2.0 strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md#observations-the-my-va-dashboard), these are the main problems we've observed with regards to the My VA dashboard and the existing logged-in homepage.
+Based on the research that informed [the Personalization 2.0 strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md#observations-the-my-va-dashboard) and our own observations, these are the main problems with the My VA dashboard:
 
-- Many people don't use the My VA dashboard (~8% of users who visit va.gov go to MyVA) .
-- We don't guide people to the My VA dashboard.
-- The My VA dashboard is too duplicative of the homepage.
-- People prefer the homepage over the My VA dashboard because it is a more effective router, and because it has a more appealing visual design.
-- On My VA, we have not effectively employed [the design system](https://design.va.gov/). My VA is designed like a content page, so adding new content has made these pages extremely lengthy and hard to scan.
+- Many people don't use the My VA dashboard (~8% of users who visit VA.gov go to MyVA). This is likely has do to with us not guiding people there and the clunky design.
+- My VA is designed like a content page even though it is tool- and task-based. This clunky design keeps people from using this page even though it has useful information about their benefits.
+- The design also has made this page hard to scale, so we're not currently able to grow and curate based on user needs. 
+- Important content is burried on My VA because of the visual design. We have a lot of good status content in there, but it feels buried if you don't know what you are looking for.
 
-Additionally:
+## User Problem Statements
 
-- Important content is burried on My VA. We have a lot of good status/"notification" content in there that is buried if you don't know what you are looking for.
-- The logged-in homepage isn't personalized at all, so when users log in, they may see links that no longer apply to their circumstances (eg. seeing an "Apply for health care" link if you're a person who already receives VA health care).
+### High level user goals
 
-### User Problem Statements
+From countless user interviews that have been done over the years, we know people come to VA.gov to complete tasks specific to their benefits. We also know that people want to see information that is personally relevant to them, and they don't want to be bogged down by links or suggestions that don't apply to them. These goals can be summed up in these user statements:
 
-- **As a veteran, I want to be able to log in to VA.gov and easily find the tools and tasks that apply to my specific experience at the VA.**
-- **As a veteran, I want to be able to log in to VA.gov and easily see status updates and notifications that apply to my specific experience at the VA.**
-- **As a veteran, I want to be able to log in to VA.gov, quickly complete whatever I came to do, and then get back to the rest of my life.**
+- As a veteran, I want to be able to log in to VA.gov and easily find the tools and tasks that apply to my specific experience at the VA.
+- As a veteran, I want to be able to log in to VA.gov and easily see status updates and notifications that apply to my specific experience at the VA.
+- As a veteran, I want to be able to log in to VA.gov, quickly complete whatever I came to do, and then get back to the rest of my life.
 
-### Business Goals
+### More specific user goals
+
+But what does this actually mean? What are these "tasks that apply to my specific experience at the VA" (aka the jobs)? We have heard the following primary user goals from [our My VA discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md) and [other user research that has been done previously](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/previous-research-review.md):
+
+- As a veteran, I want to see if the VA has given/is going to give me the financial compensation I have earned. I do this by:
+  - Checking to see if my disability claim has been updated or accepted.
+  - Checking to see if my disability rating has changed (as a proxy metric for whether the claim has been accepted or not).
+  - Checking to see if my GI bill benefits have been paid out, and what my balance is. 
+
+- As a veteran with VA health care, I want to manage my health online. I do this by:
+  - Refilling prescriptions online, and checking to see if that refill has been issued.
+  - Sending messages to my medical team and checking to see if anyone has replied.
+  - Managing my VA health appointments.
+
+- As a veteran, I want to easily be able to access my personal documents so I can use them to apply for other benefits, prove I am a veteran to an outside group, etc.
+
+- As a veteran, I want to learn what other VA benefits I am entitled to that I do not already receive, and what other VA services might be offered to me. I also want it to be clear how I go about getting those benefits/services.
+
+## Business Goals
+
+### High level goals
 
 - To lay a foundation for a user dashboard for veterans that can accomodate growth and modification over time without quickly becoming unwieldy or cluttered.
 - To lay a foundation for user dashboard that could eventually be adapted to serve other user types once we're able to support more roles and permissions.
-- Have a place to link to/highlight new tools so that we don't have to bury tools in content hubs where veterans can't easily find them.
-- Have a place to highlight health care tools to show the potential/viability of consolidating MHV into VA.gov.
-- To lay the foundation for how to better highlight status update/action item notifications for veterans.
-- To move the VA (outside of DEPO)further in the direction of building/highlighting tools in one place instead of building one-off, silo'd tools.
 - To create a strong enough user dashboard that the exsiting homepage no longer has to serve as a task router.
+
+### My VA product goals (aka My VA's "jobs")
+
+- To show the status of a veteran's benefits. 
+- To elevate updates on a veteran's benefits, including updates on where an application/claim is in process, updates on payments, or updates related to health care information.
+- To provide meaningful next steps on any statuses or updates.
+- To prioritize benefits and use cases we know are most common based on user research.
+- To show information in a curated, personalized way (eg. Don't show "Apply for health care" if they are enrolled in health care).
+
+### My VA design goals
+
+The following design goals came out of the [Personalization 2.0 strategy from 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md):
+
+1. **Reduce redundancy** — Specifically, we should reduce redundancy between the My VA dashboard and the VA.gov homepage. This will happen in phases. As we redesign and re-launch the My VA dashboard, this frees up the homepage to be less task-management focused. As the homepage evolves away from a task management focus, it will be less redundant with My VA so both the homepage and My VA will have their own clear, unique purposes. However, in order for the homepage to evolve, we have to redesign My VA first.
+2. **Elevate personally relevant information** — Users should more easily be able to scan/evaluate their information.
+3. **Scale gracefully** — Our designs should allow for future updates and expansion, as new features are being added to VA.gov all the time.
+4. **Prioritize wayfinding** — We should make it easy for users to find the My VA dashboard.
+5. **Effectively use visual space** — We should avoid a single-column, "content page" approach. Design updates should more effectively employ the design system and update it as needed.
 
 ## Assumptions
 
 - People prefer the homepage to My VA. It's both more usable and more visually appealing.
 - People are reliant on the top 20 tasks on the homepage to navigate the site, and we should be mindful of this as we approach a redesign.
 - Status update/alert information is hard to find on My VA.
-- The new dashboard doesn't need to be too widget heavy. It needs to primarily serve as a router and a place to see status updates. Only a few widgets — e.g. upcoming appointments, your VAMC, etc — are necessary.
 - This work, from a wayfinding/UX perspective, will be more successful if we accompany it with an authenticated tools menu/nav, but that may not necessarily be part of V1 of this project.
+- This project needs improved wayfinding and improved visual design to be successful. If we can make the page more usable, we can increase usage, but only if people can find this page in the first place.
 
 ## Questions
 
@@ -168,12 +197,15 @@ https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIK
 - **July 2020**: Project on hold while we get Profile 2.0 ready for QA and other pre-launch tasks. 
 - **August 2020**: Design onboarding; technical discovery.
 - **September 2020**: Initial design explorations; design intent platform checkpoint; design for health care section begins in earnest; continued discussion around technical approach.
-- **October 2020**: Project pivots from logged-in homepage redesign to My VA dashboard 2.0; 
+- **October 2020**: Project pivots from logged-in homepage redesign to My VA dashboard 2.0.
+- **November 2020**: Create high-level explorations and conduct research on newsfeed vs. traditional direction.
+- **December 2020**: Move forward with traditional direction;
 
 ## Discovery
 
 - [Personalization 2.0 discovery write-up (2019)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md)
 - [Logged-in homepage discovery write-up (Spring 2020)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/discovery-summary.md)
+- November 2020 design exploration research
 
 ## Product 
 
@@ -207,16 +239,6 @@ Initially, this project was scoped to be a logged-in homepage redesign. However,
 ### API Calls and Dependent Systems
 
 ## Design
-
-### Goals
-
-The following design goals came out of the [Personalization 2.0 strategy from 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md):
-
-1. **Reduce redundancy** — Specifically, we should reduce redundancy between the My VA dashboard and the VA.gov homepage. This will happen in phases. As we redesign and re-launch the My VA dashboard, this frees up the homepage to be less task-management focused. As the homepage evolves away from a task management focus, it will be less redundant with My VA so both the homepage and My VA will have their own clear, unique purposes. However, in order for the homepage to evolve, we have to redesign My VA first.
-2. **Elevate personally relevant information** — Users should more easily be able to scan/evaluate their information.
-3. **Scale gracefully** — Our designs should allow for future updates and expansion, as new features are being added to VA.gov all the time.
-4. **Prioritize wayfinding** — We should make it easy for users to find the My VA dashboard.
-5. **Effectively use visual space** — We should avoid a single-column, "content page" approach. Design updates should more effectively employ the design system and update it as needed.
 
 ### Important docs
 
