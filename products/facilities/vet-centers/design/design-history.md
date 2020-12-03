@@ -5,7 +5,7 @@ Designer: Leyda Hughes
 
 ## Iteration # - Sprint 35 (ending Dec 1, 2020)
 
-### Designs
+#### Designs
 Description
 
 [Link to wireframe]()
@@ -13,25 +13,31 @@ Description
 ## Iteration 2 - Sprint 34 (ending Nov 17, 2020)
 
 #### Designs
-Vet Center prototype with an emphasis on language, testing out new service taxons
+Vet Center prototype with an emphasis on incorporating concepts that were important to Veterans from research findings and testing out new service taxons and language
 
 [Link to wireframe](https://preview.uxpin.com/73434f75b1664fb29a9340c025cf2bebd7e8e24b#/pages/133987808)
 
 #### Feedback & Outcomes
-Met with Dave, Ryan, Michelle on Nov 5, 2020 to discuss the prototype and next iteration of the Vet Center prototype with the focus on solving the problem of awareness.
+1. Direction from PO is to take an MVP approach to a new design for Vet Centers website template. 
+2. Designer decisions:
+    • shifts from the original idea of using "Campaign Landing Page" template to using the VAMC layout
+    • Applies feedback from Design Intent meeting to try "Featured story" component to convey the non-clinical concepts that were important to Vet Center clients as describes in research findings and "On this page" component as the page grows.  
+3. Met with Dave, Ryan, Michelle on Nov 5, 2020 to discuss the prototype and next iteration of the Vet Center prototype with the focus on solving the problem of awareness. Feedback:
+    • Push the "warm" concept further by trying the featured story components in yellow instead of blue. Combine quotes and concepts of 'by Vets for Vets' etc. into less rows of "Featured story" components.
+    • Add operating status
+    • Remove sidenav
+    • Remove 'events' > not doing for MVP
 
 ## Sprint 33 (ending Nov 3, 2020)
 
-### Discovery Synthesis - Language and taxonomy
+#### Discovery Synthesis - Language and taxonomy
 
 [Link to Working Taxonomy Spreadsheet](https://adhocteam-my.sharepoint.com/:x:/g/personal/leyda_hughes_adhocteam_onmicrosoft_com/EYZ6B8_w_GJGi93wBq3_x8MBZ4zZgwE9V7earuu0MfDeRg?e=vItyjF)
 
 [Link to language synthesis](https://adhocteam-my.sharepoint.com/:x:/g/personal/leyda_hughes_adhocteam_onmicrosoft_com/EU1R6aqGYuBJsTF2t7xbj1kBddrCk1f8PSgVyqzCvAdnsA?e=jacOtc)
 
-### Feedback & Outcomes
-1. Team aligned on awareness being the #1 problem to solve for Vet Centers. 
-2. Direction from PO is to take an MVP approach to a new design for Vet Centers website template. 
-3. Designer shifts from the original idea of using "Campaign Landing Page" template to using the VAMC layout. 
+#### Feedback & Outcomes
+Team aligned on lack of awareness being the #1 problem to solve for Vet Centers. 
 
 ## Sprint 32 (ending Oct 20, 2020)
 
