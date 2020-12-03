@@ -18,7 +18,7 @@ Before we start, a few things I want to mention:
 
 **If for any reason and at any time you want to stop the session, please let me know.** This is a voluntary session, and you will not be penalized in any way if we need to stop.
 
-**During our session, I may ask if you can share your screen so I can see which online tools you use to manage your health care.** We will not be recording any audio or video today.
+**During our session, I may ask if you can share your screen so I can see which online tools you use to manage your health care.** We will not be recording any audio or video today. 
 
 ## Background (5 minutes)
 
@@ -54,13 +54,14 @@ Now I’d like to hear about your experience transitioning from the military to 
 3.b. Do you manage your private health care/insurance online? 
 4. Since you first became a Veteran, has there been a change in the types of VA benefits you’ve received?
 4.a. (If yes) What was the reason behind those changes?
-5. What is the relationship between “disability” and “health care” at the VA?
-6. How would you explain a “disability rating” to a new Veteran?
+5. How would you explain a “disability rating” to a new Veteran?
+6. What is the relationship between “disability” and “health care” at the VA?
 7. When it comes to your health, what is the most important thing you need from the VA?
 
 Now I’d like to ask you how you manage information and tasks related to your health. For each one, talk me through the steps you’d take. If there is something that you go online to complete, I may ask you to share your screen so I can see what you would do. **(10 minutes)**
 
 **Tasks**
+Moderator should prompt about device usage if participant mentions digital tools or resources. 
 
 - How would you reach out to your VA care team if you had a question?
 - How would you refill a prescription you have with the VA?
