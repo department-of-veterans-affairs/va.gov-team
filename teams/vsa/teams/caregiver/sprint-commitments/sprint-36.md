@@ -10,12 +10,12 @@
 - [ ] Stretch (tech-debt): [Refactor/flatten 10-10CG UI schema](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16874) (Justin to provide estimate)
 
 ## Backend
-- [ ] [Attempt resubmission of PDF on failure](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15147)
-- [ ] [Logging PDF Gen Errors](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15146)
-- [ ] [Run report to list applications showing number of secondary-only apps](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16748)
-- [ ] [Set up Sentry Alerts in Slack](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16875)
-- [ ] [Timestamp research on the 10-10EZ](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16876)
-- [ ] Stretch: [Ensure un-nesting Veteran Facility name and type does not break API](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16477)
+- [ ] [Attempt resubmission of PDF on failure](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15147) (13)
+- [ ] [Logging PDF Gen Errors](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15146) (5)
+- [ ] [Run report to list applications showing number of secondary-only apps](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16748) (2)
+- [ ] [Set up Sentry Alerts in Slack](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16875) (unknown)
+- [ ] [Timestamp research on the 10-10EZ](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16876) (8)
+- [ ] Stretch: [Ensure un-nesting Veteran Facility name and type does not break API](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16477) (done: it will break API and CARMA data-contract)
 
 
 ## Design
