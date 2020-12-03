@@ -30,12 +30,32 @@ But what does this actually mean? What are these "tasks that apply to my specifi
 
 - As a veteran, I want to learn what other VA benefits I am entitled to that I do not already receive, and what other VA services might be offered to me. I also want it to be clear how I go about getting those benefits/services.
 
-## What My VA should do
+## My VA's jobs
+
+### What My VA should do
 
 Based on the jobs users come to do, this is what I see as the jobs of My VA:
 
+- Show the status of a veteran's benefits. This includes if a veteran has none.
+- Elevate updates on a veteran's benefits, including updates on where an application/claim is in process, updates on payments, or updates related to health care information. 
+- Provide meaningful next steps on any statuses or updates.
+- Prioritize benefits and use cases we know are most common based on user research.
+- Show information in a curated, personalized way (eg. Don't show "Apply for health care" if they are enrolled in health care).
+
+**Note**: This all assumes we have access to these data points for a given benefit. Ideally, over time, 
+
 ### What My VA is not responsible for
+
+- To show all notifications and requests, especially notification and requests that are suggestions or requests of the VA that were not initiated by the veteran (eg. "Check to make sure your address is up to date"; "We've got a new feature on VA.gov!").
+- To show anything that is historical or no longer relevant.
 
 # Overall page direction
 
 The original question that prompted this review was around which design approach we should take for the dashboard: more of a newsfeed approach (show all updates, notifications, and requests) vs. a traditional dashboard approach (shows users set information about their benefits each time they come to the site). While either approach could be made to fit the jobs of the page, I think **the traditional dashboard approach** accomplishes the jobs better for the following reasons:
+
+- This approach better allows for growth and progression in a veteran's experience over time. For example, it allows us to guide and curate the experience for new veterans, and allows them to more clearly see as a benefit goes from application > in review > approved. I don't think the newsfeed approach would allow for a progression in the same way.
+- This provides a more consistent landing pad for people when they sign in. While a newsfeed approach is great at bubbling information to the top of the page, even with that information in reverse chronological order, you don't know what to expect or what you're looking for when you log in. With the traditional dashboard approach, you always know you can check a certain block/section of the page for an update (eg. updates on your claim; when your next appointment is scheduled; etc).
+- While every veteran has different circumstances, we know what's most popular on the site and can elevate that information and those updates. We don't need to rely on a newsfeed to do this for us if we curate and layout the page well, recognizing that in any approach, someone's going to have to scroll for something.
+- This more of an iterative approach to what we have now.
+- This approach works and really appeals to veterans... just not how we have it designed now. A more streamlined design like the [2018 blue sky prototype](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md#a-design-like-the-blue-sky-prototype-would-be-useful-to-veterans) very much met veteran needs and expectations.
+- We'll still need to figure out how to handle on-site notifications, but that's a whole new product that deserves dedicated time, discovery, and attention we don't really have right now.
