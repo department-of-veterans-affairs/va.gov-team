@@ -7,9 +7,12 @@ Designer: Leyda Hughes
 #### Designs
 2 options reflecting Mikki's input on IA structure
 
-1. An option where each child location of a parent Vet Center gets it's own page [Link to wireframe](https://preview.uxpin.com/02cd4db656ab951aff1cf84840b87c68ab88bc80#/pages/134615893)
+1. An option where each child location of a parent Vet Center gets it's own page
+
+[Link to wireframe](https://preview.uxpin.com/02cd4db656ab951aff1cf84840b87c68ab88bc80#/pages/134615893)
 
 2. An option that includes an "All locations" page to mirror VAMC system locations page 
+
 [Link to wireframe](https://preview.uxpin.com/02cd4db656ab951aff1cf84840b87c68ab88bc80#/pages/134615895)
 
 #### Feedback & Outcomes
@@ -31,6 +34,7 @@ Dec 2 - Met with Mikki, Dave, and Michelle to align on IA for Vet Centers. Feedb
 ## Iteration 5 - Sprint 35 (ending Dec 1, 2020)
 #### Designs
 Goal: refining the IA and relationship between Vet Center parent/child locations
+
 [Link to wireframe](https://preview.uxpin.com/7a8826eb89e70957ccbe33ea1380346a5128d86d#/pages/134613009/simulate/no-panels)
 
 #### Feedback & Outcomes
@@ -52,6 +56,7 @@ Suggests:
 
 #### Designs
 Goal: Align on what we want to test with Veterans; refine research plan and prototype to match
+
 [Link to wireframe](https://preview.uxpin.com/7a8826eb89e70957ccbe33ea1380346a5128d86d#/pages/134613014/simulate/no-panels?mode=i)
 
 #### Feedback & Outcomes
