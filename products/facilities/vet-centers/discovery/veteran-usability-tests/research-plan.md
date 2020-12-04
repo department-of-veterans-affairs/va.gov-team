@@ -29,7 +29,9 @@ Will Veterans:
 
 ## Method
 
-Moderated qualitative research sessions with generative questioning and usability preference testing via Zoom. 
+- Directed interview to understand participants context and experience with counseling services 
+- Usability testing, with task analysis, of a high-fidelity, UXPin, desktop prototype 
+- Remotely moderated via Zoom
 
 ## Participants and Recruitment
 
