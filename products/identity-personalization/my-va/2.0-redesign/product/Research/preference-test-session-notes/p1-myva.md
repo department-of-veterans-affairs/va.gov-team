@@ -1,8 +1,7 @@
 Conversation Guide for MyVA
 Intro - 5 minutes
 Start recording.
-I have started recording
-. I'd like to confirm: Are you comfortable if I
+I have started recording. I'd like to confirm: Are you comfortable if I
 record my screen and the audio as we talk today? Yes
 Warm-up Questions - 5 minutes
 1.
@@ -41,71 +40,97 @@ If yes: Do you remember what you did? It probably was for
 tracking my claim waiting to see its approval. I think to see, I
 don’t know. It looks familiar I know I tracked my claim but I am
 not sure if I used it to get into the claim.
+
 ALTERNATE STARTING WITH VERSIONS A AND B FOR EACH
 PARTICIPANT
+
 Intro
+
 Okay great.
+
 So, just a little bit of background, today we are going to be talking about a
 personalized overview page, which is basically where you would go to view
 all of your recent updates as well as an overview of your health care, benefit
 or claims information. This page is intended to just be an overview of your
 information - if you wanted to change or manage any of your information
 that would be done on another page. Does that make sense? Yes it does.
+
 1.
+
 What information would you expect to be on your overview page? I
 would probably see my disability I am assuming, maybe something
 about healthcare. I am not sure.
+
 2.
+
 Thoughts: No, I am just not sure. My situation is tricky because I know I
 don’t have the GI bill so I think it would just be the disability.
 Any questions before we get started?  No, I don’t think so.
+
 Okay, so we are going to be comparing two versions of the same page. For
 the sake of the exercise, please imagine that all of the information shown on
 the page is your information. And just a reminder, these screens are
 intentionally grayscale.
+
 We are going to start with version (A or B), and I'll send you the link.
-send
-link
+send link
+
 VERSION A
+
 Link:
 https://vsateams.invisionapp.com/share/EDZFDJ7UWTC#/
 437719085_myVA_Mobile_A
+
 First task: Overview & Updates
+
 Go ahead and scroll through this page and walk me through your thoughts
 on each section, starting with where you see your name (Charles) in the dark
 grey box.
+
 Nametag area/disability rating-  I like how right away you see3 the
 disability rating so if you are waiting for it to change you see it.
+
 Updates- It instantly jumps to updated so that’s nice you don’t have to
 look for them
+
 Claims- They have all of the claims, I really like this. There is
 everything you need to see up top
+
 Health care- It has your appointments
 Benefit applications-  All of the forms you’d need to make contact
+
 1.
 What are your overall thoughts about this page? I like it because it will
 be easy to use/. Right off the bat you see the disability at the top./ IT
 seems like it would be easy to use because there are updates and all
 appointments are right there. It is easy and straightforward.
+
 2.
 What is working?
+
 3.
 What is not working? I don’t know, I like it. I don’t think there isn’t
 anything that wouldn’t work. It is straightforward. I don’t think me
 personally would have any issues.
+
 Skip question 4 if prototype is shown second
+
 4.
+
 If you clicked on the disability rating, where would you expect that to
 go? The next screen would say the percent and break it down like for
 10% for shoulder. I don’t know each breakdown of the things you
 claimed.
+
 Okay, now let's take a look at the updates section.
+
 1.
 Can you describe to me what you're looking at?
 2.
 What kind of updates would be helpful to you? I think anything to do
 with disability, claims, any appointments, or messages from your
 doctor. I imagine it to be just like that it would be perfect.
+
 3.
 If you clicked on 'Go to all recent updates' where would you expect
 that to go?
