@@ -14,6 +14,8 @@ Our work includes
 
 A product is defined as a set of related features that drive specific outcomes with vets or other audiences. They typically are built with a cluster of content types.  
 
+[CMS Product Sheets](VA-CMS-Product-Sheets.pdf) (PDF) provides an overview of all products managed in the CMS. 
+
 Products owned by Facilities team
 1. **VAMC system** (eg www.va.gov/pittsburgh-health-care). Eventually housing 1200+ VHA facilities across 150 VAMC systems. 
 1. **Facility status** for VBA facilities, NCA facilities, and Vet Centers (each of these represent stubs of future products)
