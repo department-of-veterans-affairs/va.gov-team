@@ -50,7 +50,7 @@ Custom plugins will need to be created to fulfill the MVP. Types of events/subsc
 *   Manual Subscription: A User will be subscribed to events from content they manually subscribe to.
 *   Subscribe to content/workflow events from a certain content type. 
 *   Subscribe to content/workflow events from a certain content type based upon Office Taxonomy.
-
+* UI for users to see their current subscriptions. DANSE provides a basic UI for users to turn on/off subscriptions based upon the plugins.  This will need to be evaluated to make sure it’s sufficient for MVP.  Future interactions would include ability to select delivery channel per subscription.
 
 ### **Notifications**
 
@@ -58,8 +58,8 @@ The [push_framework](https://www.drupal.org/project/push_framework) provides a r
 
 Plugins to be created:
 
-
-
 *   Integration with VANotify API. This includes a new VANotify module which can either patch or fork https://www.drupal.org/project/govuk_notify.
 *   A plugin to pull notifications from custom DANSE plugins mentioned above.
 *   Currently templates are created either on a global or display mode for an entity.  This needs to be updated to allow notification types with different templates.
+
+Notifications are sent out using the Advanced Queue module.  The AdvancedQueue module provides delivery ensure and retry logic.  By default, the queue runs on cron but has integrations into near realtime queueing systems.
