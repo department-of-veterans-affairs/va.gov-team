@@ -115,9 +115,11 @@ Let's imagine that your friend is a real people person and misses that camarader
 
 #### General website questions
 
-We're almost done. I just have a few more questions left.
-
- - Is there anything on this website that's missing for you that you would need to know before visiting the Atlanta Vet Center?
+We're almost done. I just have a few more questions left. Now that you've had a chance to learn all about the Atlanta Vet Center,
+ 
+ - If this were for you, what would you do next?
+ 
+ - Is there anything on this website that's missing for you that you would need to know before contacting this Vet Center?
  
  - What would make this website better?
 
