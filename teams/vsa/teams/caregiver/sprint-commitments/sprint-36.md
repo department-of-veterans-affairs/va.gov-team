@@ -6,7 +6,7 @@
 - [ ] [Remove hasSecondaryTwo question from secondaryOne chapter](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16567) (5)
     - 12/4: PR is wrapped up, need to coordinate with Jonathan to make sure implementation is correct.
 - [ ] [Documentation and screenshots of Downtime work](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16816) (3)
-   - 12/ 4: In progress, troubleshooting Gatsby errors with VSP.
+   - 12/4: In progress, troubleshooting Gatsby errors with VSP.
 - [ ] [10-10EZ Accessibility](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13999) (5)
     - 12/4: In progress; errors are related to the review and submit page. 
 - [ ] [10-10EZ Address Field](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15159) (8) 
