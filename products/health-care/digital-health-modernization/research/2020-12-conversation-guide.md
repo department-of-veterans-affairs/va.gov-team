@@ -1,4 +1,4 @@
-# DRAFT Conversation Guide: Digital Health Modernization Discovery Research
+# Conversation Guide: Digital Health Modernization Discovery Research
 
 **Session setup**
 
@@ -18,7 +18,12 @@ Before we start, a few things I want to mention:
 
 **If for any reason and at any time you want to stop the session, please let me know.** This is a voluntary session, and you will not be penalized in any way if we need to stop.
 
-**During our session, I may ask if you can share your screen so I can see which online tools you use to manage your health care.** We will not be recording any audio or video today. 
+**Are you comfortable if I record my screen and audio as we talk today?** For this session, I will have you share your screen and ask you to show us how you manage benefits online, so this means that the information in your account would be part of the recording. Just so you know, these recordings are not shared outside of the people on this call. We use them only to confirm that we have captured what you have said accurately, and then we delete them a few weeks after the session. Do you have any questions about this? Are you ok if we record today?
+- If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
+
+*Start recording.*
+
+- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
 ## Background (5 minutes)
 
@@ -46,7 +51,7 @@ To get started, I’d like to get a little background information about you, and
 
 Now I’d like to hear about your experience transitioning from the military to the VA. **(10 minutes)**
 
-1. How did you learn about the health benefits available to you [and your family] through the VA, and what was the process of applying for and accessing those benefits? (In follow up, confirm if participant used any online tools or resources.)
+1. How did you learn about the health care available to you through the VA, and what was the process of applying for and accessing those benefits? (In follow up, confirm if participant used any online tools or resources.)
 2. Tell me about the health care you receive through the VA.
 2.a. (If they have dependents) How do you manage your dependent’s health care? 
 3. Do you use any medical providers outside the VA for any of your health care needs? 
@@ -55,10 +60,10 @@ Now I’d like to hear about your experience transitioning from the military to 
 4. Since you first became a Veteran, has there been a change in the types of VA benefits you’ve received?
 4.a. (If yes) What was the reason behind those changes?
 5. How would you explain a “disability rating” to a new Veteran?
-6. What is the relationship between “disability” and “health care” at the VA?
-7. When it comes to your health, what is the most important thing you need from the VA?
+6. In your mind, is there a relationship between “disability” and “health care”?
+7. When it comes to your health care, what is the most important thing you need from the VA?
 
-Now I’d like to ask you how you manage information and tasks related to your health. For each one, talk me through the steps you’d take. If there is something that you go online to complete, I may ask you to share your screen so I can see what you would do. **(10 minutes)**
+Now I’d like to ask you how you manage information and tasks related to your health care. For each one, talk me through the steps you’d take. If there is something that you go online to complete, I may ask you to share your screen so I can see what you would do. **(10 minutes)**
 
 **Tasks**
 Moderator should prompt about device usage if participant mentions digital tools or resources. 
@@ -69,13 +74,28 @@ Moderator should prompt about device usage if participant mentions digital tools
 - How about an appointment for a yearly check up with your VA care team?
 - (If applicable) Or a private provider (dentist, optometrist) outside the VA?
 - How would you pay a VA health care bill, such as a copay?
-- How would you request travel pay from the VA for traveling to your health care appointments?
+- How would you request reimbursement from the VA for traveling to your health care appointments?
 - How would you update the dependents on your VA benefits?
 - How would you make updates to your health care benefits? 
 
+## Branding and trust (5 minutes)
+Now I’d like to ask for your thoughts on My HealtheVet. (Confirm that participant has used My HealtheVet previously. If not, amend questions below to capture their first impressions while looking at a logged in account.) 
+
+1. How would you describe My HealtheVet to a fellow Veteran? (Note if they mention MHV coordinators, newsletter or articles -- something outside the patient portal). 
+2. What about “VA health care?”
+3. On a scale from 1-5, with 1 being very dissatisfied, and 5 being very satisfied, how satisfied are you with My HealtheVet?
+3.a. What makes you rate it a [their rating]? What would make it better?
+4. On a scale from 1-5, with 1 being very low, and 5 being very high, how would you rate your trust in My HealtheVet?
+4.a. What makes you rate it a [their rating]? What would make it better?
+5. If you have a question about your MHV account or something isn’t working, what do you do?
+6. Have you ever been in touch with a My HealtheVet Coordinator?
+7. How does My HealtheVet compare with other online health tools you’ve used?
+
 ## My HealtheVet patient portal (15 minutes)
 
-Now I’d like to ask for your feedback on My HealtheVet. (Confirm that participant has used My HealtheVet previously. If not, amend questions below to capture their first impressions.) Moderator will ask participant to share screen if not already, or show logged in My HealtheVet account. **(5 minutes)**
+Let's take a look at My HealtheVet together.
+
+Moderator will ask participant to share screen if not already, or show logged in My HealtheVet account. **(5 minutes)**
 
 1. What do you use this website for the most? 
 2. What do you find the most valuable on this website?
@@ -84,7 +104,7 @@ Now I’d like to ask for your feedback on My HealtheVet. (Confirm that particip
 5. When it comes to your My HealtheVet account, can you think of a time when you needed to give access to a family member or someone else? What was that like?
 6. If you needed to, how would you expect to grant someone access to your MHV account? 
 
-(Moderator should move to branding section if running short on time.) While we're here, I’d like to get your feedback on a couple of sections on this website. **(10 minutes)**
+(If time allows) While we're here, I’d like to get your feedback on a couple of sections on this website. **(10 minutes)**
 
 7. Get Care
 - Have you used any of the pages under "Get Care?" 
@@ -102,18 +122,6 @@ Now I’d like to ask for your feedback on My HealtheVet. (Confirm that particip
 - Have you used any of the pages under "MHV Community" (Ask if they subscribe to the MHV newsletter)
 - What do you think these pages would be used for? / How did you use the pages here? 
 - Would you find this valuable? / Did you find this valuable?
-
-## Branding and trust (5 minutes)
-
-1. When I say “My HealtheVet” what comes to mind?
-2. What about “VA health care?”
-3. On a scale from 1-5, with 1 being very dissatisfied, and 5 being very satisfied, how satisfied are you with My HealtheVet?
-3.a. What makes you rate it a [their rating]? What would make it better?
-4. On a scale from 1-5, with 1 being very un-confident, and 5 being very confident, how confident are you that your data is secure on My HealtheVet?
-4.a. What makes you rate it a [their rating]? What would make it better?
-5. If you have a question about your MHV account or something isn’t working, what do you do?
-5.a. (If applicable) How do you feel about the customer support you received?
-6. How does My HealtheVet compare with other online health tools you’ve used?
  
 ## Thank you and closing (2 minutes)
 
