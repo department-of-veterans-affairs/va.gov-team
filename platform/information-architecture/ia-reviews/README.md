@@ -6,11 +6,10 @@ List of projects with final and in progress IA work. If your team/work is not li
 
 Team | Project | IA Work Status | Status Notes 
 --- | --- | --- | --- 
-CTO | COVID Vaccine | IN PROGRESS | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/cto-covid-vaccine.md
 Caregiver | 10-10ez Updates | NOT STARTED  | Kick-off held on 10/20/2020 <br> Will start with discovery research to determine improvements needed to increase online enrollments.  Scope of work will be determined after that. 
 Public Websites | Contact us page | NOT STARTED | No collab cycle requests submitted yet
-BAM2 | FSR & Debt management | IN PROGRESS | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-debt-fsr.md
-Facilities | Vet Centers | NOT STARTED | Design intent held 9/18 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/facilities-vet-centers.md
+BAM2 | FSR & Debt management | DRAFT COMPLETE | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-debt-fsr.md
+Facilities | Vet Centers | IN PROGRESS | Design intent held 9/18 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/facilities-vet-centers.md
 Orchid | Ask a Question Forms | NOT STARTED | Usability prep held 11/30, IA not started, lots of open questions <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/orchid-iris.md
 Health care Exp | Questionnaires | DRAFT COMPLETE |https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/health-questionaires.md
 BAM2 | eFolders migration | NOT STARTED | On hold <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-efolders.md
@@ -24,6 +23,7 @@ eBenefits | Representatives/POA | NOT STARTED | On hold <br> https://github.com/
 
 Team | Project | Review Status | IA Documentation 
 --- | --- | --- | --- 
+CTO | COVID Vaccine | COMPLETE 12/03/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/cto-covid-vaccine.md
 Public Websites | Apply Wizards | COMPLETE 11/20/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-apply-wizard.md
 Public Websites | Learning Center | COMPLETE 10/14/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-learning-center.md
 CTO | COVID-19 Research/Trials | COMPLETE 09/28/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/cto-covid-trials.md
