@@ -20,8 +20,10 @@ Will Veterans:
 
 ### Hypothesis 
 
-- Clients will feel that they have adequate logistical information in order to choose care at a Vet Center.
-- Clients will understand that child locations may not have the same services as a parent location.
+- Veterans will understand the types of services offered/not offered.
+- Veterans will have enough information to visit a location.
+- Veterans will understand next steps for interacting with a Vet Center.
+- Veterans will understand that child locations may not have the same services as a parent location.
 
 ## Method
 
