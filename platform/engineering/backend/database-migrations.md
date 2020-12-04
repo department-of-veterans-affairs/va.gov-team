@@ -12,7 +12,7 @@ As a result of deployment patterns (blue/green or rolling deployment) multiple v
 
 ## Automatic Protection
 
-The [`zero_downtime_migrations`](https://github.com/LendingHome/zero_downtime_migrations) gem prevents several classes of migrations that are known to cause issues. This is not a catch-all, and database migrations must still undergo thoughtful review.
+The [`strong_migrations`](https://github.com/ankane/strong_migrations) gem prevents several classes of migrations that are known to cause issues. This is not a catch-all, and database migrations must still undergo thoughtful review.
 
 ## Constraints
 
