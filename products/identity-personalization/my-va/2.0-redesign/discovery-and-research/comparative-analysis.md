@@ -32,7 +32,7 @@ Screenshots were solicited for sites of interest since accounts are required to 
 
 - [Google](#google)
 
-- [HR dashboard]()
+- [HR dashboard](#hr-dashboard)
 
 Goals
 -----------------
