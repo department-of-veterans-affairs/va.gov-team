@@ -35,7 +35,7 @@ The required steps of the VSA-QA Process are as follows:
     - Product Team should be available for questions/clarifications on provided info.
 
 1. **Product Team & QA build Test Plan and Use Cases** to ensure coverage of the targeted changes.
-    - **PM & Designer(s)** collaborate with **QA** to develop all relevant Use Cases\*.  Either:
+    - **PM & Designer(s)** collaborate with **QA** to develop all relevant Use Cases.  Either:
         - Create list directly in the Test Plan ticket; or
         - Link Test Plan ticket to separate Use-Cases doc \[[use this template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/product-use-cases-template.md)].
     - **Engineers** finalize Use Cases by mapping them to Staging test-accounts.  Each account-/data-specific Use Case should be supported on Staging with appropriate API (mock-)data to ensure testability.
