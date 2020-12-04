@@ -138,6 +138,8 @@ The CCMs use a spreadsheet to keep up-to-date information on providers:
 
 10. Relationships with vendors are key to efficiency for CCMs. They follow a certain process that their vendors understand. This can also limit number of vendors available, however.
 
+11. Catchment zones were mentioned by a participant. Veterans are aggravated because they are near a provider, but the provider is outside their catchment area. As a result, the provider is not approved.
+
 
 ## Recommendations
 Most of the findings relate to CCM systems and processes and are outside the scope of the VA.gov Facility Locator. However, data quality and scheduling efficiency are important as they directly impact Veterans.
@@ -164,7 +166,7 @@ __VA Online Scheduling__
 
 ## Future Research
 * Validate plain-language terms with Veterans, for use in the Facility Locator as a replacement for sub-specialty selection.
-* Investigate the level of impact of catchment zones in scheduling Veterans, as mentioned by a couple of participants. From their feedback, catchment zones can cause confustion in scheduling the correct provider, but it wasn't clear from this research how impactful the zones are, or how it could be mitigated.
+* Investigate the level of impact of catchment zones in scheduling Veterans, as mentioned by a participant. From their feedback, catchment zones can cause confusion for the Veteran in selecting a provider, but it wasn't clear from this research how broad the impact is, or how it could be mitigated.
 
 ## Appendix
 
