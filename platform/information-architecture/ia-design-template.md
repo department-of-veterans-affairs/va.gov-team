@@ -14,9 +14,9 @@ Optional: Include a visual to show hierarchy of content/pages.
 
 Resources:
 - VA.gov IA  - Need documentation on general IA approach to help teams identify where in the IA their content/feature belongs
-[URL Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-guidelines.md)
-Static content and navigation request process - PW intake process?
-Content Request Issue Template - PW intake issue?
+- [URL Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-guidelines.md)
+- Static content and navigation request process - PW intake process?
+- Content Request Issue Template - PW intake issue?
 
 <hr>
 
@@ -32,9 +32,9 @@ Optional: Include a user flow to show how users will navigate to and through pag
 
 
 Resources:
-Standard user flows - documentation on page flows for authenticated tools; documentation on application wizard flows
-Global Navigation Standards and Guidelines - documentation on top nav, left nav, header, footer and hub page link standards
-Global Navigation change requests should be submitted to the Public Websites team through their intake process
+- Standard user flows - documentation on page flows for authenticated tools; documentation on application wizard flows
+- Global Navigation Standards and Guidelines - documentation on top nav, left nav, header, footer and hub page link standards
+- Global Navigation change requests should be submitted to the Public Websites team through their intake process
 
 
 
