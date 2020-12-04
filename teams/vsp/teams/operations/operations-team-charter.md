@@ -60,6 +60,7 @@ Note: These will shift in the new Infra.
 - Ops Engineer - Jeremy Britt
 - Ops Engineer - Julian Severino
 - Ops Engineer - Stevan Arychuk
+- Ops Engineer - Don Seymour
 - ATO SME - Faith Owusu
 - Product Manager - TJ Rice
 
