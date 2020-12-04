@@ -136,6 +136,26 @@ Probe for va.gov look and feel
 
 If time allows we may also discuss the topics below - both asking questions and sharing early concepts for feedback.
 
+**Form consolidation of IRIS and GI Bill**
+
+*Do users prefer to have the GI BIll contact us form integrated into IRIS?*
+
+Our hypothesis is that users are wiling for now to have TWO places to contact the VA - MHV/’medical stuff’ in one place and IRIS/GI Bill in another - because while it may be difficult to migrate medical contact/messaging over to IRIS, we can at least integrate IRIS and GI BIll and give users one less place to visit.
+
+Have you used the GI BIll or access GI Bill related content on the va.gov site? (if yes, ask question)
+
+- Show me where you would go to find GI BIll related help 
+  - Nav > Education and Training (https://www.va.gov/education/) then right rail leads to IRIS - can note that goes to IRIS, When we are looking for is VBA    
+   Benefits for GI Page here: https://www.benefits.va.gov/gibill/ and which leads to this contact page https://gibill.custhelp.va.gov/app/home 
+
+   Note if they know where to go or don’t.
+
+- We’re exploring having one place to go for the Contact Us experience. https://staging.va.gov/ask-a-question/introduction with the GI Bill topics in the form and  you would go to one place (Show GI BIll topics integrated into the drop downs.  MHV would be ONLY health, and you’d logged in and see health info so it would be separate, but we’d  combining IRIS and GI BIll - so the form here: https://gibill.custhelp.va.gov/app/home would go way and we’d have ONE contact us experience. 
+  - is that a better worse or same experience? Why or why not?
+
+
+IF TIME ALLOWS:
+
 **Authentication**
 
 *How do users feel the need to sign it affects the IRIS experience?* 
@@ -149,23 +169,6 @@ Questions:
 - Do you have a preference of which approach? Why or why not?
 - Does having to authenticate discourage you from completing the form? If yes, what your next step be to resolve it (probe for phone or email)
 
-**Form consolidation of IRIS and GI Bill**
-
-*Do users prever to have the GI BIll contact us form integrated into IRIS?*
-
-Hypothesis - users are wiling for now to have TWO places to view messaging - MHV/’medical stuff’ in one place and IRIS/GI Bill in another.
-
-Have you used the GI BIll or access GI Bill related content on the va.gov site? (if yes, ask question)
-
-Show me where you would go to find GI BIll related help  (should be https://gibill.custhelp.va.gov/app/home) 
-
-Do you remember where to go? Is there a preference for all in one place (all in IRIS)?
-
-_Have a mockup (or in staging) showing GI BIll topics integrated into the IRIS page - and get feedback on preference on that experience vs. current state separate part of VA.gov.  Note the full list of IRIS topics is still being solidified with the lines of business so they won't yet be on staging.
-
-The idea is that there would be two experiences: 
--MHV would be logged in and messaging
-- IRIS would be the main contact form and Gi BIll, and the ability to see inquiries/messages you’ve sent the VA. Would you prefer having IRIS and GI BIll together - why or why not?
 
 
 **Secure Messaging**
