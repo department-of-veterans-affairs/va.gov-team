@@ -146,12 +146,15 @@ __Facility Locator__
 * Refrain from using type-ahead boxes and use drop-down menus for selection instead. Type-ahead requires the Veteran to know the term they are searching for and the correct way to spell it, in order to see results.
 * Replace sub-specialties type-ahead box with a menu of clickable, plain-English terms that Veterans will recognize and use with confidence. These terms could map to specialties or sub-specialties that CCMs could then refine for the Veteran. 
 * If there are certain sub-specialties that must be displayed, use layman's terms when possible to avoid confusion, or provide explanations for the terms. 
+* Investigate how to improve the Facility Locator flow when a Veteran is seeking Urgent Care, to help prevent the Veteran from ever having to pay for Urgent Care out of pocket.
+
 
 __VA Online Scheduling__
 * As part of improving the VA Online Scheduling experience
    * Improve the quality of existing provider data in PPMS such as updated phone numbers, addresses, in/out of network, and fax numbers.
    * Add provider data that will help CCMs minimize the use of search tools outside of the system. Provider data include gender, accepting new patients, and name of clinic. 
    * Consider finding ways to automate the screening question process, which is completed by CCMs via phone call with the Veteran.
+   * Improve the system used by CCMs to highlight which providers understand the process for urgent care, in order to prevent the Veteran from ever having to pay for Urgent Care out of pocket.
 
 ## Next Steps
 
@@ -160,7 +163,6 @@ __VA Online Scheduling__
 
 ## Future Research
 * Validate plain-language terms with Veterans, for use in the Facility Locator as a replacement for sub-specialty selection.
-
 
 ## Appendix
 
