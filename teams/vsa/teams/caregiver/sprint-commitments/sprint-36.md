@@ -16,6 +16,7 @@
 - [ ] [Attempt resubmission of PDF on failure](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15147) (13)
     - 12/4: Work is in progress, will need separate PRs to implement. Will need to persist claims.  User should see faster response times. 
     - ETA: Friday, 12/11. Will need to work with VSP to get multiple PRs through.
+    - Draft Implementation: https://github.com/department-of-veterans-affairs/vets-api/compare/draft_attachment_job_implementation?expand=1
 - [ ] [Logging PDF Gen Errors](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15146) (5)
 - [x] [Run report to list applications showing number of secondary-only apps](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16748) (2)
     - 12/4: Running again
