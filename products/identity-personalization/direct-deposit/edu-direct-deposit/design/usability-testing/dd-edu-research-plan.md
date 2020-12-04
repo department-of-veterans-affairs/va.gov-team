@@ -84,7 +84,7 @@ Recruit for 5 fulfilled sessions using the following criteria:
 ### Team members/roles
 - James Adams | email: jadams@governmentcio.com -- Moderator, researcher
 - Samara Strauss | email: samara.strauss@va.gov -- DEPO lead
-- Matt Shea | email: mattshea@adhocteam.us -- Product manager
+- Matt Shea | email: matt.shea@adhocteam.us -- Product manager
 - Shawna Hein | email: shawna@adhocteam.us -- VSA design lead
 - Erik Hansen | email: erik@adhocteam.us -- Frontend engineer
 - Sandra Hallie | email: shallie@governmentcio.com -- Frontend engineer
