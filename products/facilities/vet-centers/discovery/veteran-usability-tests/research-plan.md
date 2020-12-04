@@ -29,7 +29,7 @@ Will Veterans:
 
 ## Method
 
-- Directed interview to understand participants context and experience with counseling services 
+- Directed interview to understand participants context and experience with VA counseling services
 - Usability testing, with task analysis, of a high-fidelity, UXPin, desktop prototype 
 - Remotely moderated via Zoom
 
