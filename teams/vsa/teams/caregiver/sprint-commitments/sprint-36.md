@@ -14,11 +14,13 @@
 
 ## Backend
 - [ ] [Attempt resubmission of PDF on failure](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15147) (13)
+    
+    Updates
     - 12/4: Work is in progress, will need separate PRs to implement. Will need to persist claims.  User should see faster response times. 
     - ETA: Friday, 12/11. Will need to work with VSP to get multiple PRs through.
     - Draft Implementation: https://github.com/department-of-veterans-affairs/vets-api/compare/draft_attachment_job_implementation?expand=1
     
-    Implementation
+    (New) Implementation Plan
     - [ ] Cancel [Create a single re-attempt for the attachment of a 10-10CG submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15147)
     - [ ] Complete (as prereq) [Persist Form 10-10CG Submissions (Research + Implementation)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10280)
     - [ ] Complete [Relate Form1010CG::Submissions to SavedClaim::CaregiversAssistanceClaims](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16954)
