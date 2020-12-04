@@ -6,6 +6,8 @@
 
 The goal of this study is to get high level Veteran feedback on webpage designs to understand if they would have enough information to choose care at a Vet Center.
 
+[Prototype to be tested](https://preview.uxpin.com/603da0b67ccefbbee74fcd8bb77a8fed12baabb5#/pages/134612636?mode=cvhidm)
+
 ### Research questions
 
 Will Veterans:
