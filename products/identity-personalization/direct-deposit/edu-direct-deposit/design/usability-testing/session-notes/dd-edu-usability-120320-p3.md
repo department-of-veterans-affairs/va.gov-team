@@ -1,5 +1,5 @@
 ## Direct Deposit for Educational Payments (DD-EDU) usability session 3
-#### Conducted: December 2, 2020 via Zoom
+#### Conducted: December 3, 2020 via Zoom
 #### Moderator: James Adams
 #### Participants: 1
 #### Session Recorded: Yes
