@@ -136,7 +136,7 @@ Probe for va.gov look and feel
 
 If time allows we may also discuss the topics below - both asking questions and sharing early concepts for feedback.
 
-**Form consolidation of IRIS and GI Bill**
+## Form consolidation of IRIS and GI Bill
 
 *Do users prefer to have the GI BIll contact us form integrated into IRIS?*
 
@@ -156,7 +156,7 @@ Have you used the GI BIll or access GI Bill related content on the va.gov site? 
 
 IF TIME ALLOWS:
 
-**Authentication**
+## Authentication
 
 *How do users feel the need to sign it affects the IRIS experience?* 
 
@@ -169,9 +169,7 @@ Questions:
 - Do you have a preference of which approach? Why or why not?
 - Does having to authenticate discourage you from completing the form? If yes, what your next step be to resolve it (probe for phone or email)
 
-
-
-**Secure Messaging**
+## Secure Messaging
 
 *Do users want a secure messaging system - and if so, is a simple messaging design sufficient to meet their needs?*
 
