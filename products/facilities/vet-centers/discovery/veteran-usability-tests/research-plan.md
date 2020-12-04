@@ -11,7 +11,7 @@ The goal of this study is to get high level Veteran feedback on webpage designs 
 Will Veterans:
  - understand what type of care is available at Vet Centers?
  - understand that they cannot get primary medical care at a Vet Center?
- - be able to find the service that they are looking for withing the list of taxons?
+ - be able to find the service that they are looking for within the list of taxons?
  - know how to expand a service accordion to get details about individual services?
  - understand the relationship between Vet Center parent and child locations? 
  - understand that not all services are available at child locations? 
