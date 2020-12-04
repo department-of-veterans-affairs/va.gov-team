@@ -76,7 +76,7 @@ Now let's imagine that as your searching, you land on a website.
 
 I'm going to send you a link to the website. 
 
-[Share link to prototype](http://)
+[Share link to prototype](https://preview.uxpin.com/603da0b67ccefbbee74fcd8bb77a8fed12baabb5#/pages/134612636/simulate/no-panels?mode=cvhidmhttp://)
 
 I'm going to give you a minute or two to look the page over. As I mentioned, this is just a prototype so it won't be fully functional but feel free to click around. As you're looking, I'd for you to think out loud your observations and any the thoughts that come to mind.
 
