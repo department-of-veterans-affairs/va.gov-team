@@ -78,11 +78,13 @@ I'm going to send you a link to the website.
 
 [Share link to prototype](http://)
 
-I'm going to give you a minute to look the page over. As you're looking, I'd for you to think out loud your observations and any the thoughts that come to mind.
+I'm going to give you a minute or two to look the page over. As I mentioned, this is just a prototype so it won't be fully functional but feel free to click around. As you're looking, I'd for you to think out loud your observations and any the thoughts that come to mind.
 
  - What can you tell me about this place?
  
- - What kind of care can you get here?
+ - How would you describe the kind of care can that you get here?
+ 
+ - Is there any type of care that you don't think you can get here?
  
  - What type of services do you think could benefit your friend?
  
@@ -90,6 +92,7 @@ I'm going to give you a minute to look the page over. As you're looking, I'd for
  
  - What services are less important?
 
+ 
 Let's imagine that your friend is the type of person that prefers one on one interactions with people. 
 
  - Could your friend get one-on-one counseling here?
@@ -120,6 +123,8 @@ We're almost done. I just have a few more questions left. Now that you've had a 
  - If this were for you, what would you do next?
  
  - Is there anything on this website that's missing for you that you would need to know before contacting this Vet Center?
+ 
+ - Would anything prevent you from contacting a Vet Center given what you know now?
  
  - What would make this website better?
 
