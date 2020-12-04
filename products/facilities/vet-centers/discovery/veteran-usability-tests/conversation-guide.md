@@ -17,7 +17,7 @@ Before we get started, I want to give you an idea of what this call will be like
 - This entire session should take about 45 minutes.
 - We'll start with my asking you a couple warm up questions
 - Then we'll do a bit of technical set up of Zoom. So that I can follow along with you today, I'll be having you share your Zoom screen and I'll help you through that.
-- We'll look at a website togther and we'll be discuss that for the remainder of the session. 
+- We'll look at a website togther and we'll be discussing that for the remainder of the session. 
 - Throughout the session, I'll be asking you about your thoughts and opinions about the information and content on the pages but there are no right or wrong answers. We're not testing you. We're actually testing the designs and the information contained on the pages to see how we can make them better for Veterans. So, I welcome your honest and candid feedback but if at any time you don't feel comfortable answering a question, we can simply move on to the next question. 
 - This session will be recorded to ensure that I capture your opinions accurately. The recordings are destroyed after the call is analyzed, and none of your comments will be attributed to you directly. 
 
@@ -72,17 +72,17 @@ Before we look at the website, I'm going to give you a scenario to consider. Ima
 
 ## Prototype
 
-Now let's imagine that as your searching, you land on a website. 
+Now let's imagine that as you're searching, you land on a website. 
 
-I'm going to send you a link to the website. 
+I'm going to send you a link to that website. 
 
 [Share link to prototype](https://preview.uxpin.com/603da0b67ccefbbee74fcd8bb77a8fed12baabb5#/pages/134612636/simulate/no-panels?mode=cvhidmhttp://)
 
-I'm going to give you a minute or two to look the page over. As I mentioned, this is just a prototype so it won't be fully functional but feel free to click around. As you're looking, I'd for you to think out loud your observations and any the thoughts that come to mind.
+I'm going to give you a minute or two to look the page over. As I mentioned, this is just a prototype so it won't be fully functional but feel free to click around. As you're looking, I'd like for you to think out loud your observations and any the thoughts that come to mind.
 
  - What can you tell me about this place?
  
- - How would you describe the kind of care can that you get here?
+ - How would you describe the kind of care that can you get here?
  
  - Is there any type of care that you don't think you can get here?
  
@@ -99,7 +99,7 @@ Let's imagine that your friend is the type of person that prefers one on one int
 
  - What would you be able to tell your friend about individual counseling at this location?
  
-Let's imagine that your friend is a real people person and misses that camaraderie from the service.  
+Let's imagine that your friend is a real people person and misses the camaraderie from the service.  
 
  - What kind of services would likely be appealing in this case? 
 
