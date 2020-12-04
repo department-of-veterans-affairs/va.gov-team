@@ -38,4 +38,6 @@
 ## Product
 - Cookie research (Dev ops?)
 - Meeting on 12/4 to talk to Josh Faulker (technical architecht on the submission of health care forms) (to understand the issue surrounding ICN)
+    - HCAs from an authenticated account are coming in with an ICN, but MPI is saying those ICNs don't exist
+    - Could be when Veterans are creating a new account
 
