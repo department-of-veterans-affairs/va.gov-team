@@ -62,6 +62,10 @@ Schema update operations involve a multistep process:
   1. Deploy application to production
   1. Perform additional data migration with independent rake task
 
+##### Before making schema updates
+
+Review the checks from `strong_migrations` [here](https://github.com/ankane/strong_migrations#checks) before making your changes.  Below are specific instructions for making certain kinds of changes within `vets-api`.
+
 ### Tables
 
 #### Table Addition
