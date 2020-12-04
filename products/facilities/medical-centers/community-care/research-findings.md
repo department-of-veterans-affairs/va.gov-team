@@ -22,7 +22,7 @@ Remote, moderated sessions were conducted via Teams for generative questioning.
 * 6 Community Care Managers (schedulers)
 * 1 Supervisor who manages schedulers
 
-### The Usage of Terminology in this Document
+### Usage of Terminology in this Document
 Throughout this document, the term **sub-specialty** is used. This term refers to the types of care found within the category of Community Care. Examples of sub-specialties would be "Podiatrist - General Practice," "Podiatrist - Primary Podiatric Medicine," and "Podiatrist - Radiology."
 
 ### Research Questions
