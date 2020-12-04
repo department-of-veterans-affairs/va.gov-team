@@ -56,15 +56,15 @@ Check in on people and product progress
 Outline work to be done this sprint in order to accomplish the team's goals
 
 - 1st Wednesday of every sprint @ 3:00 PM
-- 1.5 hour
+- 1 hour
 
 
 #### Retro
 Review accomplishments from prior sprint, what went well, what can be improvemed, what questions people have, and any action items
 
-- 1st Tue of every sprint 10:00 AM
+- 1st Tue of every sprint 3:30 pm EST.
 - Zoom call
-- 30 min
+- 1 hour
 
 
 #### Grooming
@@ -90,7 +90,6 @@ All work should be validated either in staging or production, as defined by the 
 If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
 
 #### Team Norms
-
 _Update as you see fit! These are some starter norms for you to consider_
 
 - Be respectful, both online and off
@@ -101,21 +100,15 @@ _Update as you see fit! These are some starter norms for you to consider_
 - Family comes first!
 
 #### Estimating:
-- 1 - trivial task (less than an hour)
-- 2 - hour to half-dayish
-- 3 - day of work
-- 5 - couple days of work
-- 8 - week of work (should probably be split into smaller tasks)
-
 Thought process:
 - 1 - Easy task, work is known, can be executed quickly
 - 2 - Mostly known, doable 
 - 3 - Becoming complex
-- 5 - Very complex, may take a full sprint or longer
-- 8 - Needs to be broken down into smaller user stories
+- 5 - Complex, may take a half a sprint
+- 8 - Pretty complex, takes up to a full sprint
+- 13 - Very complex, needs to be broken down. Consider spike/ discovery? 
 
 #### Slack:
-
 This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication.
 
 #### GitHub
