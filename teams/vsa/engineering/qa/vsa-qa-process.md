@@ -18,7 +18,7 @@ Ideally, once Test Plan and Test Cases are mature, VSA-QA will handle actual Tes
 
 ### Process Flow
 
-![Flowchart](images/vsa-qa-process-flow-2020-12.png)
+![Flowchart](images/vsa-qa-manual-ui-testing-process-flow-2020-12.png)
 
 The required steps of the VSA-QA Process are as follows:
 
