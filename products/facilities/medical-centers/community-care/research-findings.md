@@ -48,7 +48,7 @@ Throughout this document, the term **sub-specialty** is used. This term refers t
 __We can understand how to simplify the search experience in Facility Locator.__
 
 Finding: __Partially True__
-* Sub-specialties: Most Community Care Managers do not think that sub-specialties are something most Veterans understand. They might know a term such as podiatry or cardiology, but the sub-categories are often beyond laymen's terms. 
+* Sub-specialties: Most Community Care Managers do not think that sub-specialties are something most Veterans understand. They might know a term such as podiatry or cardiology, but the sub-specialties are often beyond laymen's terms. 
 * Type-ahead can also be problematic due to unfamiliarity with search terms. 
 * As a separate issue (but which impacts the quality of Facility Locator search results), there are gaps in provider data in PPMS. Facility Locator depends on PPMS for Community Care search results. See VAOS findings below for further details. 
 
@@ -79,7 +79,7 @@ Another CCM, when asked if Veterans understand sub-specialties:
 > No, they don't. I used to be the oncology scheduler, and I can’t tell you how many Veterans I called from Oncology and they didn’t know what that term meant.
 
 #### 2. One participant stated that they would prefer to do the work of selecting a sub-specialty for the Veteran.
-> Veterans don’t know what those terms mean. There doesn't need to be any subcategories - they can just be generic. We’ll provide that.
+> Veterans don’t know what those terms mean. There doesn't need to be any sub-specialties - they can just be generic. We’ll provide that.
 
 #### 3. According to another CCM, the use of the Service Type text field by the Veteran is problematic due to spelling typos. 
 If a Veteran happens to know sub-specialty terms, using the type-ahead field under Service Type can lead to misspellings, which also negatively impact search results: 
@@ -139,10 +139,12 @@ The CCMs use a spreadsheet to keep up-to-date information on providers:
 
 
 ## Recommendations
+Most of the findings relate to CCM systems and processes and are outside the scope of the VA.gov Facility Locator. However, data quality and scheduling efficiency are important as they directly impact Veterans.
 
 __Facility Locator__
-* Remove the sub-specialties found under Service Type. Doing so will simplify the search for the Veteran, while moving the sub-specialty decision-making to the Community Care Manager, who understands the sub-specialties.
+* Remove the sub-specialties found under Service Type. Doing so will simplify the search for the Veteran, while moving the sub-specialty decision-making to the Community Care Manager, who understands the sub-specialties.  
 * Refrain from using type-ahead boxes and use drop-down menus for selection instead. Type-ahead requires the Veteran to know the term they are searching for and the correct way to spell it, in order to see results.
+* Replace sub-specialties type-ahead box with a menu of clickable, plain-English terms that Veterans will recognize and use with confidence. These terms could map to specialties or sub-specialties that CCMs could then refine for the Veteran. 
 * If there are certain sub-specialties that must be displayed, use layman's terms when possible to avoid confusion, or provide explanations for the terms. 
 
 __VA Online Scheduling__
@@ -155,6 +157,9 @@ __VA Online Scheduling__
 
 * Implement design recommendations.
 * Share relevant findings with other teams and stakeholders.
+
+## Future Research
+* Validate plain-language terms with Veterans, for use in the Facility Locator as a replacement for sub-specialty selection.
 
 
 ## Appendix
