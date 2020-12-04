@@ -75,12 +75,11 @@ We would like to find Veterans (or their family members, but ideally Veterans) w
 
 Our preference is to test with the same users we originally interviewed at the start of the project to see if this addresses their pain points and because we have built rapport with these people, but are open to testing with others. 
 
-We will work with Perigean who will identify users with an aim to have sessions with 10 users.
+We will work with Perigean who will identify users with an aim to have sessions with 10 users. 
 
-Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom.
+We want to ensure at least 1 participant is a person with a disability or cognitive challenges.
 
-We want to ensure at least 1 participant is a person with a disability.
-
+Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom and ideally have Zoom downloaded and installed on their laptop ahead of time
 
 2.	What is your recruitment strategy? 
 
