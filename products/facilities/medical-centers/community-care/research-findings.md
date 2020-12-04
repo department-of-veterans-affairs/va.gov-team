@@ -119,23 +119,24 @@ The CCMs use a spreadsheet to keep up-to-date information on providers:
 
 ## Additional Insights
 
-1. All participants interviewed call the Veteran at some point in the scheduling process, and many do so once they receive the scheduling request. Veterans are hard to get ahold of. “Biggest challenge is getting ahold of these guys and getting them scheduled.”
+1. Participants made it clear how dedicated they are to helping Veterans receive the care they need. They emphasized their investment in helping the Veterans by scheduling timely care, as much follow-up as needed, and the use of providers who understand the process and will follow up with Veterans as well. CCMs want the systems they use to be as helpful as possible, as it in turn helps them better assist Veterans.
+2. All participants interviewed call the Veteran at some point in the scheduling process, and many do so once they receive the scheduling request. Veterans are hard to get ahold of. “Biggest challenge is getting ahold of these guys and getting them scheduled.”
 
-2. Participants like the PPMS update that shows phone, fax, and local address. While PPMS displays provider names, CCMs prefer to have the names of the clinics as well. They find by using Google. 
+3. Participants like the PPMS update that shows phone, fax, and local address. While PPMS displays provider names, CCMs prefer to have the names of the clinics as well. They find by using Google. 
 
-3. Participants would also like to know if providers are accepting new patients.
+4. Participants would also like to know if providers are accepting new patients.
 
-4. A few participants stated that Veterans sometimes want a provider of a specific gender or retired military status. It would be good to have this information.
+5. A few participants stated that Veterans sometimes want a provider of a specific gender or retired military status. It would be good to have this information.
 
-5. One participant had a list of 12 data issues for the provider network to correct. It usually takes two weeks for the provider network to make the corrections.
+6. One participant had a list of 12 data issues for the provider network to correct. It usually takes two weeks for the provider network to make the corrections.
 
-6. Participants mentioned the pain of documenting and updating an appointment in multiple systems.
+7. Participants mentioned the pain of documenting and updating an appointment in multiple systems.
 
-7. Several participants stated that there is confusion from Veterans on which urgent care to use. Facilities may not know how to bill for VA care properly. Half the time this means the veteran ends up paying out of pocket. They prefer to work with vendors who understand VA's processes and provide an ease of care for the Veteran. Identifying these is important to CCMs, who are relying on external tools. An indication in their system of these facilities would be helpful.
+8. Several participants stated that there is confusion from Veterans on which urgent care to use. Facilities may not know how to bill for VA care properly. Half the time this means the veteran ends up paying out of pocket. They prefer to work with vendors who understand VA's processes and provide an ease of care for the Veteran. Identifying these is important to CCMs, who are relying on external tools. An indication in their system of these facilities would be helpful.
 
-8. Search terms: It is difficult for CCMs to figure out the search terms. CCMs rely on past success/talking to each other/word of mouth.
+9. Search terms: It is difficult for CCMs to figure out the search terms. CCMs rely on past success/talking to each other/word of mouth.
 
-9. Relationships with vendors are key to efficiency for CCMs. They follow a certain process that their vendors understand. This can also limit number of vendors available, however.
+10. Relationships with vendors are key to efficiency for CCMs. They follow a certain process that their vendors understand. This can also limit number of vendors available, however.
 
 
 ## Recommendations
@@ -163,10 +164,11 @@ __VA Online Scheduling__
 
 ## Future Research
 * Validate plain-language terms with Veterans, for use in the Facility Locator as a replacement for sub-specialty selection.
+* Investigate the level of impact of catchment zones in scheduling Veterans, as mentioned by a couple of participants. From their feedback, catchment zones can cause confustion in scheduling the correct provider, but it wasn't clear from this research how impactful the zones are, or how it could be mitigated.
 
 ## Appendix
 
-#### [Reearch plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/community-care/discovery/research-plan.md)
+#### [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/community-care/discovery/research-plan.md)
 
 #### [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/community-care/discovery/conversation-guide.md)
 
