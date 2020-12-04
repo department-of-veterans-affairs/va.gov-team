@@ -18,7 +18,7 @@ Ideally, once Test Plan and Test Cases are mature, VSA-QA will handle actual Tes
 
 ### Process Flow
 
-![Flowchart](images/vsa-qa-proc-flow-2020-12.png)
+![Flowchart](images/vsa-qa-process-flow-2020-12.png)
 
 The required steps of the VSA-QA Process are as follows:
 
@@ -35,7 +35,7 @@ The required steps of the VSA-QA Process are as follows:
     - Product Team should be available for questions/clarifications on provided info.
 
 1. **Product Team & QA build Test Plan and Use Cases** to ensure coverage of the targeted changes.
-    - **PM & Designer(s)** collaborate with **QA** to develop all relevant User Scenarios.  Either:
+    - **PM & Designer(s)** collaborate with **QA** to develop all relevant Use Cases\*.  Either:
         - Create list directly in the Test Plan ticket; or
         - Link Test Plan ticket to separate Use-Cases doc \[[use this template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/product-use-cases-template.md)].
     - **Engineers** finalize Use Cases by mapping them to Staging test-accounts.  Each account-/data-specific Use Case should be supported on Staging with appropriate API (mock-)data to ensure testability.
@@ -56,4 +56,3 @@ NOTE: Depending on Staging Review urgency and VSA-QA staffing/capacity, Product-
 1. **QA reports test-results**:
     - Once test runs are completed, QA generates [TestRail reports](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#artifact-inputs-7)
     - QA adds report links to Test Plan and Staging Review tickets.
-
