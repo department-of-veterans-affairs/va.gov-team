@@ -36,6 +36,7 @@ Below are descriptions of potential solutions recommended by colleagues at DEPO 
 
 ## react i18next:
 https://www.i18next.com/overview/for-enterprises
+https://locize.com/services.html
 
 ## Drupal multilingual modules
 
