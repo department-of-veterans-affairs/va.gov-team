@@ -13,6 +13,9 @@
 | If you delete this entry, you'll lose all your information. | If you delete this entry, all your information will be lost. |
 | Call us at 800-555-5555. | We can be reach at 800-555-5555. |
 
+- [ ] Text avoids indicating the plural by using (s)
+- [ ] Text avoids indicating "and" by using an "&".
+
 ## Sentences
 
 - [ ] Sentences are between 5 and 20 words.
@@ -53,11 +56,16 @@
 - [ ] Text is as free as possible of amibigous words (example, use "after" or "when" instead of "once").
 - [ ] Text specifies nouns with "the."
 - [ ] Text has as few pronouns as possible (especially avoiding the pronoun "it"). Repeat the noun in a sentences rather than using a pronoun.
+
+| Like this | Not like this |
+|---|---|
+|  | |
+
 - [ ] Text avoids demonstrative pronouns (ex. replace "This allows you to" with "This function allows you to").
-- [ ] Text avoids or limits compound words.
+- [ ] Text avoids or limits compound words wherever possible.
 - [ ] Text avoids the conditional (ex. replace "This would open the window" with "This will open the window").
 - [ ] Text avoids abbreviations whenever possible (including Latin abbreviations such as "i.e.: and "etc.").
-- [ ] Text avoids "and/or," indicating the plural by using (s), and indicating "and" by using an "&".
+- [ ] Text avoids "and/or" 
 - [ ] Text avoids acronyms as much as possible. When text uses acronyms, they are always spelled out on the first instance. </br> **For Spanish content:** The first instance of an acronym in the body copy (not in titles or subheads) on a page appears as the words spelled out, followed by the acronym and "sigla en inglés" in parentheses. For example, "Centers for Disease Control and Prevention (CDC)" becomes "Centros de Control y Prevención de Enfermedades (CDC, sigla en inglés)." For all following instances, just use the acronym. 
 
 ## Bulleted lists
