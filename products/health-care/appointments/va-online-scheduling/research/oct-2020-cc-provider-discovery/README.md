@@ -50,7 +50,7 @@ All participants wanted the list of providers to be more personalized. **The top
 
 At the same time, some participants indicated that if they need routine care or urgent care they would be less picky about the provider. In these cases, availability is more important; they want to get into the appointment as quickly as possible. 
 
-**For either case, appointment availability was top of mind. **Most participants wanted to know how soon they could see the provider, or if the provider was available on specific dates. 
+**For both cases, appointment availability was top of mind.** Most participants wanted to know how soon they could see the provider, or if the provider was available on specific dates. 
 
 **Some participants expected that the date they entered into the calendar would be tied to the provider selection**, believing either that the providers shown were only available on those dates, or wondering why the calendar didn’t show after the provider was selected. But most expected that availability was not reflected in VAOS, and that they would need to call providers directly to get this information.
 
@@ -141,7 +141,7 @@ Finally, **type of care is necessary for differentiating appointments from one a
 
 #### Recommendations
 
-*   Display date and time, facility name, and** type of care** in the appointment cards. Let users drill down for detailed location, departmental and other information.
+*   Display date and time, facility name, and **type of care** in the appointment cards. Let users drill down for detailed location, departmental and other information.
 
 
 ## Notes
