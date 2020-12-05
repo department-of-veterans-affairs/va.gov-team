@@ -33,7 +33,10 @@ Below are descriptions of potential solutions recommended by colleagues at DEPO 
   - SaaS solution - notes that this can be easily integration and running in a few hours
   - Allows for greater customization (not a lot of info on this)
 - Chat translation (WorldLingo) for real-time multilingual chat
-  
+
+## react i18next:
+https://www.i18next.com/overview/for-enterprises
+
 ## Drupal multilingual modules
 
 - A .gov site content manager noted using and liking Drupal multilingual modules. This content manager noted that they use this for managing the translated content, but still use human translators for the actual translation. This may be a longer-term option, dependent on CMS team capacity. More information: https://www.drupal.org/docs/multilingual-guide
