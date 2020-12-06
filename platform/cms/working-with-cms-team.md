@@ -52,4 +52,4 @@ CMS support is available anytime you have questions or want to collaborate on yo
 
 
 ## <a id="questions"></a>Questions?
-If you have any questions, please reach out via slack in [#cms-support](https://dsva.slack.com/channels/cms-support), tag `@kevin walsh`
+If you have any questions, please [reach out](/platform/cms#how-to-reach-us).
