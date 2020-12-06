@@ -8,8 +8,8 @@ This document will help all teams working on VA.gov understand when you should e
    - For product designers 
    - For CMS developers
    - For front end developers
-- [The CMS scoping exercise](/product-team-support/cms-scoping-exercise.md)
-   - [How to request](/product-team-support/cms-scoping-exercise.md#howtorequest)
+- [The CMS scoping exercise](/platform/cms/product-team-support/cms-scoping-exercise.md)
+   - [How to request](/platform/cms//product-team-support/cms-scoping-exercise.md#howtorequest)
 - [Questions/How to contact us](#questions)
 
 
