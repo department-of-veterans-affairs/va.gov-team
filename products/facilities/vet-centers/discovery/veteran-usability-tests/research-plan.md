@@ -35,8 +35,9 @@ Will Veterans:
 ## Risks and assumptions
 
 This study:
-- will not test be tested on a Mobile device; there may be variance in how users take in and interact with content on large vs small screens
-- will not be tested with Assistive Technology; findings may not reveal problems that these users may encounter 
+- will not test be tested on Mobile devices; there may be variance in how users process information and interact with content on large vs small screens
+- will not test screen reader, keyboard or other Assistive Technology use; findings may not reveal problems that users with these technological constraints may encounter
+- will use a prototype that will differ in how a fully programmed website will behave when a user zooms their browser and under low bandwidth conditions 
 
 ## Participants and Recruitment
 
