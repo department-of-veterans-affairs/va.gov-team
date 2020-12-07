@@ -101,7 +101,7 @@ Mon, Dec 14 | 7-8p | 1
 Tues, Dec 15 | 7-11a | 4
 Wed, Dec 16 | 7-11a, 12-2p, 7-8p | 7 
 Thu, Dec 17 | 7-9a, 12-2p, 7-8p | 5
-Fri, Dec 17 | 7-9a | 2
+Fri, Dec 18 | 7-9a | 2
 
 
 ## Team Roles	
