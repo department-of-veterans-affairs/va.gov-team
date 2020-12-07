@@ -21,7 +21,7 @@ Describe the problem here and include any relevant screen shots
 
 ### Our Bet: Product Name
 
-Describe the bet related to this product (what we anticipate will happen as a result of an initiative to create or improve a product. 
+Describe the bet related to this product (what we anticipate will happen as a result of an initiative to create or improve a product). 
 
 The *Product Name* **is**:
 
