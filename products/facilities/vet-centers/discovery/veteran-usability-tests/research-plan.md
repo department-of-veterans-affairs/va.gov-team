@@ -29,9 +29,14 @@ Will Veterans:
 
 ## Method
 
-- Directed interview to understand participants context and experience with VA counseling services
-- Usability testing, with task analysis, of a high-fidelity, UXPin, desktop prototype 
-- Remotely moderated via Zoom
+- Sessions will combine directed interviewing (to understand participant's context and experience with VA counseling services) and usability testing, with task analysis, of a high-fidelity, desktop prototype created in UXPin. 
+- Sessions will be remotely moderated via Zoom.
+
+## Risks and assumptions
+
+This study:
+- will not test be tested on a Mobile device; there may be variance in how users take in and interact with content on large vs small screens
+- will not be tested with Assistive Technology; findings may not reveal problems that these users may encounter 
 
 ## Participants and Recruitment
 
