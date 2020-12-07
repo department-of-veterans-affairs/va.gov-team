@@ -25,7 +25,7 @@ In R1, we used the final 10 minutes of each session to allow the participant to 
 [Link to research summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/round-1/research-summary.md)
 
 ## October and November 2020
-Between now and late November (9 weeks) we have focused on the following: 
+We've focused on the following: 
 - Develop the UI/UX for each screen, guided by R1 feedback 
 - Define accessibility criteria for each screen
 - Build screens
@@ -33,16 +33,24 @@ Between now and late November (9 weeks) we have focused on the following:
 - Share with 508 Office along the way for their accessibility input and feedback
 
 ## Plan for January 2021 Research 
-After delivering the MVP into Test Flight (~late Dec 2020), we will test the app with Veterans that we recruit with Perigean using the VSP research cycle. With this research, we seek to 1) identify major usability issues with sign in and general navigation & usability of the breadth of features and 2) get a sense of overall Veteran satisfaction with the app. Research questions include: 
-- What major usability issues exist with sign in to the app?
-- What obstacles exist in the user navigating the app as a whole, using the bottom toolbar and top navigation bar? 
-- What major usability obstacles to locating and editing personal & contact information?
-- (If user has data) What obstacles exist to locating information about an appointment?
-- (If user has data) Do participants find anything confusing/unclear about appointments?
-- (If user has data) What obstacles exist to locating information about a specific claim or appeal? 
-- (If user has data) Do participants find anything confusing/unclear about claims & appeals?
-- What would participants expect this app to be called?
-- What do participants feel is missing? Why?
+After delivering the MVP into Test Flight (~late 2020 or early 2021), we will test the app with Veterans that we recruit with Perigean using the VSP research cycle. With this research, we seek to
+
+1. Identify major usability issues with sign in
+2. Identify major usability issues with navigating around the app as a whole
+3. Identify major usability issues with saving profile information 
+4. Identify what participants feel is missing & would add next 
+
+**Research questions include:**
+- What usability obstacles exist with sign in to the app?
+- What usability obstacles exist in the user navigating the app as a whole?
+- What usability obstacles exist to locating and successfully editing personal & contact information?
+- (If user has appointments data) Can users locate information about an appointment?
+  - Do participants find anything confusing/unclear about appointments?
+- (If user has claims & appeals data) Can users locate information about a specific claim or appeal? 
+  - Do participants find anything confusing/unclear about claims & appeals?
+- What do participants rate the app on a scale of 1 to 5, 1 being not useful at all and 5 being extremely useful?
+  - Do participants feel anything is missing? What?
+  - If participants could add 1 thing, what would it be? Why?
 
 
 #### Assumptions and unknowns 
