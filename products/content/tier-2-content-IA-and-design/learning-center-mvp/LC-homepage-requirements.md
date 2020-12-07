@@ -36,7 +36,7 @@ This is WIP and may evolve based on user research and technical findings.
 - Category topics pull from the {Articles primary category} field in the CMS.
 - On default show up to 2 rows (6 categories). 
 - When there are more than 6 categories with live content, display "Show all topics" button/link. Clicking it should display everything remaining that has live content. 
-
+- When a category has only 5 or fewer articles, do not show the "Go to all articles" link. 
   
 ## Desktop and mobile 1.1 mockups  
 
