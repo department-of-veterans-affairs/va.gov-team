@@ -22,10 +22,13 @@ We scheduled nine sessions beginning December 2; the last session was conducted 
 ## Guiding questions
 
 ### Where on VA.gov do users expect to find direct deposit (DD) information?
+Users were given the scenario: "You recently moved and changed banks; you need to update your direct deposit info to have your educational payments sent to your new bank." They were asked to go to VA.gov to find the DD feature.
 
-- Finding lorem ipsum dolor sit amet
-- Finding lorem ipsum dolor sit amet
-- Finding lorem ipsum dolor sit amet
+- Every participant initially looked at the white quadrants when asked where they expect to find the DD feature
+- Two looked at the Education quadrant; one looked at Disability, and one looked at Records
+- Participants seemd inclined to go toward the last "payment" type mentioned in the prompt; from the examples above: EDU, C&P, and none respectively
+- Two of the three youngest users went quickly to log in; they went fairly directly to Profile and found the feature there
+- Thre other four particiants "wandered" a little before finding their way to the DD landing page
 
 ### How often do users expect to review and/or update their DD information?
 
