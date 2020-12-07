@@ -27,8 +27,8 @@ Users were given the scenario: "You recently moved and changed banks; you need t
 - Every participant initially looked at the white quadrants when asked where they expect to find the DD feature
 - Two looked at the Education quadrant; one looked at Disability, and one looked at Records
 - Participants seemd inclined to go toward the last "payment" type mentioned in the prompt; from the examples above: EDU, C&P, and none respectively
-- Two of the three youngest users went quickly to log in; they went fairly directly to Profile and found the feature there
-- Thre other four particiants "wandered" a little before finding their way to the DD landing page
+- Two of the three younger users went quickly to log in; they went fairly directly to Profile and found the feature there
+- The other four particiants "wandered" a through content pages before finding their way to the DD landing page
 - One user (100% service-connected disability), who had self-described cognitive problems, noted that it would be frustrating for users like them to read through all the text on the content pages looking for the link to the feature
 
 ### How often do users expect to review and/or update their DD information?
