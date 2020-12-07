@@ -39,7 +39,7 @@ Users were given the scenario: "You recently moved and changed banks; you need t
 
 #### Landing page(s)
 - Users who navigated to/or were shwon the DD landing page were immediately drawn to the green or blue button directing them to sign in
-- User admitted they wouldn't read the text; they were looking for an action item
+- Users admitted they wouldn't read the text; most were looking for an action item
 - Participants who were prompted to scan content pages scanned the content (older users), or ignored it (younger participants)
 
 ### What barriers prevent users from easily submitting changes to their DD info?
@@ -53,7 +53,7 @@ Users were given the scenario: "You recently moved and changed banks; you need t
 #### Expectations
 - Almost every participant said they expected furhter notification that their DD change was made
 - Email and texts were cited as examples for expected confirmation
-
+- Several users expected a long wait if they needed to call the 800 number with an inquiry
 
 ### How do users react to the two different "categories" of payments--and having to change them separately?
 - Almost all participant accepted that there were two DD features; one explained that it was acceptable since there were two types of payments
