@@ -8,16 +8,16 @@
 ---
 
 ## Goals
-Lorem ipsum dolor sit amet.
+The goal of this usability study was to assess how easily participants located, understood and could change their direct deposit information. We also wanted to determine the impact of having both direct deposit (DD) payment types (compensation and pension, and education) displayed.
 
 **The goals of this document are to:**
 
-- Ensure everyone who observed the study is in alignment with the perceived findings
-- Gain insight from team/stakeholder/designers and determine specific directions to pursue as we analyze the data
+- Ensure the study is in alignment with the perceived findings of observers and notetakers
+- Consolidate insight from team/stakeholder/designers as we analyze the data, so that we align on specific directions to pursue
 
 ## Participants and testing sessions
 
-We held X sessions beginning lorem ipsum dolor sit amet...
+We scheduled nine sessions beginning December 2; the last session was conducted December 7. Six of seven participants attended, and the final two calls were cancelled since we hit our goal of five completed sessions.
 
 ## Guiding questions
 
