@@ -1,4 +1,4 @@
-# UAT Release Plan: View my VA payment history
+# UAT Release Plan: View your VA payment history
  - [UAT Research Plan and Conversation Guide](#coming-soon)
 ## Phase I: Moderated Production Testing
 ### Planning:
