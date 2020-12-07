@@ -58,7 +58,7 @@ Describe ways that success will be measured, followed by a bulleted list of beha
 |--|--|
 |Describe objective 1 | Provide one or more result(s) that can be used to validate success -- i.e., X page views will increase by Y%  |
 |Describe objective 2  | Provide one or more result(s) that can be used to validate success -- i.e., CTR will increase by Z% |
-|                                                                                      
+                                                                                   
 
 
 ### Product Requirements
