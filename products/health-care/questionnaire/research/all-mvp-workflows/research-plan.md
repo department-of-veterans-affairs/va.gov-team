@@ -7,7 +7,7 @@ This research is to usability test a desktop mobile prototype version of the pri
 Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners. Our MVP will focus on improving the pre-appointment experience when visiting primary care providers.
 
 **Research questions**
-- Are Veterans able to successfully find and complete the new, in-progress, and completed questionnaire via text, e-mail, or navigating to the feature directly on va.gov?
+- Are Veterans able to successfully find and complete the new, in-progress, and completed questionnaire via text, e-mail?
 - Are Veterans able to navigate to a meaningful location after completing the questionnaire?
 - Is there any confusion caused by the content or question wording within any of the workflows?
 
