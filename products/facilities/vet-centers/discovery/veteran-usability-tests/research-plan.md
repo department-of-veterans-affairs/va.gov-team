@@ -97,9 +97,11 @@ Date | Time in Eastern | Slots
 Wed, Dec 9 [PILOT] | 12:30p-1:30p | -
 Thu, Dec 10 | 7-11a, 12-2p, 7-8p | 7 
 Fri, Dec 11 | 7-11a | 4
-Mon, Dec 14 | 7-11a, 7-8p | 5
+Mon, Dec 14 | 7-8p | 1
 Tues, Dec 15 | 7-11a | 4
 Wed, Dec 16 | 7-11a, 12-2p, 7-8p | 7 
+Thu, Dec 17 | 7-9a, 12-2p, 7-8p | 5
+Fri, Dec 17 | 7-9a | 2
 
 
 ## Team Roles	
