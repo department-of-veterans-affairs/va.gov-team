@@ -132,7 +132,7 @@ The following are a list of requests that are made by the Clipboard Mobile appli
 | :--------------------------- | :-------------- | :-------------------------- | :---------------------------------------- | --- |
 | /users/v2/login              | GET             | user-service                | Authenticates user                        |
 | /users/v2/session            | GET             | user-service                | Facilitates JWT Exchange Workflow         |     |
-| /patients/{icn}/appointments | GET             | mobile-appointment-service  | Retrieves appointments for the given user |
+| /patients/{icn}/appointments | GET             | mobile-appointment-service  | Retrieves appointments for the given user |     |
 
 ## Tech Stack :
 
