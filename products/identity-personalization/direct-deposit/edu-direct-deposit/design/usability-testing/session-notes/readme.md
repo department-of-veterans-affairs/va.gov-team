@@ -15,6 +15,6 @@
 | P4 | Thursday, December 3, 2020 | 9:00 am ET | [Yes / Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/usability-testing/session-notes/dd-edu-usability-120320-p4.md) |
 | P5 | Thursday, December 3, 2020 | 11:15 am ET | [Yes / Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/usability-testing/session-notes/dd-edu-usability-120320-p5.md) |
 | P6 | Friday, December 4, 2020 | 10:30 am ET | No |
-| P7 | Monday, December 7, 2020 | 9:00 am ET | --- |
+| P7 | Monday, December 7, 2020 | 9:00 am ET | [Yes / Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/usability-testing/session-notes/dd-edu-usability-120720-p7.md) |
 | P8 | Monday, December 7, 2020 | --- | Cancelled |
 | P9 | Monday, December 7, 2020 | --- | Cancelled |
