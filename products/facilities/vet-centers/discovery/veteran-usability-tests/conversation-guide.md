@@ -17,7 +17,7 @@ Before we get started, I want to give you an idea of what this call will be like
 - This entire session should take about 45 minutes.
 - We'll start with my asking you a couple warm up questions
 - Then we'll do a bit of technical set up of Zoom. So that I can follow along with you today, I'll be having you share your Zoom screen and I'll help you through that.
-- We'll look at a website togther and we'll be discussing that for the remainder of the session. 
+- We'll look at a prototype of a website togther and we'll be discussing that for the remainder of the session. 
 - Throughout the session, I'll be asking you about your thoughts and opinions about the information and content on the pages but there are no right or wrong answers. We're not testing you. We're actually testing the designs and the information contained on the pages to see how we can make them better for Veterans. So, I welcome your honest and candid feedback but if at any time you don't feel comfortable answering a question, we can simply move on to the next question. 
 - This session will be recorded to ensure that I capture your opinions accurately. The recordings are destroyed after the call is analyzed, and none of your comments will be attributed to you directly. 
 
@@ -58,7 +58,7 @@ If yes:
   
 ## Zoom sharing set-up
 
-We're going to switch gears now and look at website together.  It's going to look like a real web page but its actually just a fake prototype of a website. 
+We're going to switch gears now and look at website together.  It's going to look like a real web page but its actually just a prototype of a website. Because it is a prototype, it may not function quite as a normal website would.  
 
 [zoom help] 
 
@@ -90,10 +90,8 @@ I'm going to give you a minute or two to look the page over. As I mentioned, thi
  
  - What are the most important services offered here?
  
- - What services are less important?
-
  
-Let's imagine that your friend is the type of person that prefers one on one interactions with people. 
+Let's imagine that your friend is the type of person that prefers one-on-one interactions with people.
 
  - Could your friend get one-on-one counseling here?
 
@@ -113,20 +111,20 @@ Let's imagine that your friend is a real people person and misses the camaraderi
 
 #### Locations page 
 
- - What do you think is the relationship between the different locations listed on this page?
+ - In your own words, describe the relationship between the different locations listed on this page?
  
 
 #### General website questions
 
 We're almost done. I just have a few more questions left. Now that you've had a chance to learn all about the Atlanta Vet Center,
  
- - If this were for you, what would you do next?
+ - What would your next step be?
  
- - Is there anything on this website that's missing for you that you would need to know before contacting this Vet Center?
+ - What else would you need to know before contacting this Vet Center?
  
- - Would anything prevent you from contacting a Vet Center given what you know now?
+ - Given what you know now, what might prevent you from contacting a Vet Center?
  
- - What would make this website better?
+ - What recommendations do you have for improving this website?
 
  
 ## Post-Task Interview
