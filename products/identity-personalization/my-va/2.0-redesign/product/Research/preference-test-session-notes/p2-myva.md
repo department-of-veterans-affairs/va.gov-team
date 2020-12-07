@@ -1,10 +1,13 @@
 Conversation Guide for MyVA
+
 Intro - 5 minutes
+
 Start recording.
-I have started recording
-. I'd like to confirm: Are you comfortable if I
-record my screen and the audio as we talk today? Yes I am
+
+I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? Yes I am
+
 Warm-up Questions - 5 minutes
+
 1.
 Before we look at the website, can you tell me a little about yourself?
 Well I am semi-retired and work part time at oriley as a merchandiser.
@@ -13,6 +16,7 @@ always wanted. All my kids are grown and I have grandkids, I have my
 wife we try to live a good life and go to church.
 o
 If stuck: What branch did you serve in?
+
 2.
 What type of phone do you use? How do you typically use your phone
 versus your desktop if you have one? I have an iPhone 10. Well I use
@@ -20,11 +24,13 @@ my phone for just about everything, surf the internet, va apps to my
 phone where I can easily access it. I use it for pretty much everything I
 hardly get on the computer because I use my iPad and iPhone. I have
 everything I need.
+
 3.
 Do you currently, or have you ever, received any benefits from the VA?
 Yes I do. I receive my medicine, healthcare, and I am 90% disabled
 through the VA.
 o
+
 If yes: How do you manage your benefits online? I look at them
 often online on my HealtheVet and use secure messages for my
 doctors.  I order my medication through the pharmacy app then I
@@ -34,21 +40,28 @@ good sources out there.  I have seen a few things that I have
 been on and seen some of them come to the front and seen
 them on the va.gov and benefits I know this works and I know it
 is an improvement for myself and other veterans.
+
 Okay great, for this next question I'm going to share my screen really
 quick.
+
 Moderator share screen with MyVA
+
 5.
 Do you remember if you have ever used this page on va.gov? I don’t
 think so. I don’t remember that. This is on VA.gov? No I don’t think I
 have used it. I have used the tracking claims portion.
+
 6.
 Do you remember the experience: No it is self-explanatory. Right now,
 it tends to tell you when it could be done but due to COVID they aren’t
 telling you.  I don’t believe I have used this page though.
-ALTERNATE STARTING WITH VERSIONS A AND B FOR EACH
-PARTICIPANT
+
+ALTERNATE STARTING WITH VERSIONS A AND B FOR EACH PARTICIPANT
+
 Intro
+
 Okay great.
+
 So, just a little bit of background, today we are going to be talking about a
 personalized overview page, which is basically where you would go to view
 all of your recent updates as well as an overview of your health care, benefit
@@ -57,7 +70,9 @@ information - if you wanted to change or manage any of your information
 that would be done on another page. Does that make sense? Yes, I think I
 know what you are saying. Like right now you have to go back and forth so
 this page is putting them altogether on one page.
+
 1.
+
 What information would you expect to be on your overview page? I
 would like to be able to get to my medical records, see thinks like my
 claims, payment history, any ongoing claims or have going on. I would
@@ -66,29 +81,40 @@ processed or on the way. You order them and never know that status,
 they just show up. It is frustrating because you order it and then they
 wont process it. You wonder if they are gonna get here before you run
 out. If you know it will relieve some of the pressure on people.
+
 2.
+
 Anything else: I can’t think of anything else, that is the biggest thing
 because it would be n easier. You know how to go to ebenfits then you
 have to go to va.gov and you have to login again. Benefits directs you
 to va.gov, you would think you wouldn’t have to log back in but you do.
+
 It is not convenient.
+
 Any questions before we get started?
+
 Okay, so we are going to be comparing two versions of the same page. For
 the sake of the exercise, please imagine that all of the information shown on
 the page is your information. And just a reminder, these screens are
 intentionally grayscale.
+
 We are going to start with version (A or B), and I'll send you the link.
-send
-link
+send link
+
 VERSION A
+
 Link:
 https://vsateams.invisionapp.com/share/EDZFDJ7UWTC#/
 437719085_myVA_Mobile_A
+
 First task: Overview & Updates
+
 Go ahead and scroll through this page and walk me through your thoughts
 on each section, starting with where you see your name (Charles) in the dark
 grey box.
+
 Nametag area/disability rating:
+
 Updates:
 (reading page) I am just scrolling through, the grey boxes. I don’t see
 where they can be beneficial unless they are taking about specific
@@ -96,18 +122,22 @@ claims or appeals that they want you to look at. It is the same thing the
 boxes down there 4 claims in progress, what is supposed to be the
 difference with the white boxes and the grey boxes. Maybe it will make
 more sense if you explain it, what is the thought process there.
+
 What would you think is going on: Well I mean it says three files
 requested, I don’t if that green box takes me to that claim or all claims
 that need additional files. If that is the case what is the difference to
 click on 4 claims in progress currently they tell you if they need
 anything so I don’t know if I understand the grey scree.
+
 Make it less confusing: Remove the grey boxes and just go to the white
 boxes to see what those claims are. As a veteran that ahs been
 through the process, I don’t need the government stuff and I just want
 to see the progress, I don’t want to go trough 15 screens to get to it I
 just need to see it. IF it can be as simple as click the white box and see
 it that would be beautiful.
+
 Claims:
+
 Health care: appointment information- the appointment sentiment it
 tells me I have 4 appointments but then I see the big va appointment
 box at 1130. I assume that the white box is my next appointment
@@ -121,7 +151,9 @@ status / on the way or still being process. I would like to see that./ Then
 the rest is self-explanatory until we get to benefits applications. I don’t
 want to speak on that because I don’t know who that is for, I am not
 sure what it is. I don’t know a VA form 686.
+
 Benefit applications:
+
 1.
 What are your overall thoughts about this page? No, Like I said if the
 grey boxes are supposed to tell me something different then the white
@@ -129,6 +161,7 @@ boxes with full progress. If it is one claim then I can understand that
 and it will take me there for exactly what I need. That is the only
 reason I can think of the grey box being used. I think the 4 claims in
 progress should tell me everything I know.
+
 2.
 Where would your changes be: I would think some type of notification.
 Let’s say I have two claims in progress and they know as well as
@@ -136,114 +169,167 @@ everyone we don’t always go to benefits or va.gov each day so we
 don’t know if they need something, it would be nice if they emailed us
 to check our claims to see what they need in order to speed the claim
 up. I don’t think it would be that hard to do.
+
 3.
 What is working?
+
 4.
 What is not working?
 Skip question 4 if prototype is shown second
+
 4.
 If you clicked on the disability rating, where would you expect that to
 go?
+
 Okay, now let's take a look at the updates section.
+
 1.
 Can you describe to me what you're looking at?
+
 2.
 What kind of updates would be helpful to you?
+
 3.
 If you clicked on 'Go to all recent updates' where would you expect
 that to go?
+
 4.
 What works well?
+
 5.
 What doesn't work well?
+
 Second task: Claims scenario
+
 Okay, great. Now, I'm going to give you a scenario. You've recently
 submitted a claim and you are waiting to see if it has been approved. You've
 just landed on this page.
+
 1.
 Could you walk me through how you would do that?
 If they look for the update in the updates section:
+
 i.
 Why would you expect it to be in this section?
+
 ii.
 What information would you expect to see related to your claim?
 If they look for the update in the claims section:
+
 iii.
 Why would you expect it to be in this section?
 Skip questions 2 and 3 if prototype is shown second
+
 iv.
 What information would you expect to see related to your claims
 and appeals here?
+
 v.
 What information is missing in this section?
+
 Third task: Health care scenario
+
 Okay, we're now going to move on to another scenario. Imagine you are
 currently enrolled in health care with the VA. You've come to this page to see
 when your next appointment is.
+
 1.
+
 Can you walk me through how you would do that?
 If they look for appointments in the updates section:
+
 i.
 Was it easy or hard to find your upcoming appointment?
+
 ii.
 Can you tell me why you think it would be in the updates
 section?
+
 Skip questions 3-4 if prototype is shown second
+
 iii.
 What information would you expect to be included for your
 appointments?
+
 iv.
 Is there anything that you would add or change about the
 appointments section?
+
 If they look for appointments in the health care section:
+
 v.
 Was it easy or hard to find your upcoming appointment?
+
 vi.
 Can you tell me why you think it would be in the health care
 section?
+
 Skip questions 3-4 if prototype is shown second
+
 vii.
 What information would you expect to see on this page related
 to your appointments?
+
 viii.
+
 Is there anything that you would add or change about the
 appointments section?
+
 Okay great, thank you.
+
 Skip questions 1-5 if prototype is shown second
+
 1.
 What information would you expect to see related to your health care
 here?
+
 2.
 What information related to your prescriptions do you expect to see on
 this page?
+
 3.
 What information related to your messages do you expect to see on
 this page?
+
 4.
+
 Can you look over all of the information shown here, is there anything
 that you would add?
+
 Fourth task: Benefits
+
 Skip the fourth task if prototype is shown second
+
 If you could go ahead and scroll down to the section that says, 'Benefit
 applications'.
+
 1.
 What information is the most important to see about your benefit
 applications?
+
 2.
 Do you find anything confusing at all?
+
 3.
 Is there anything that you would add or change about the benefits
 section?
+
 Transitioning between prototypes
+
 Okay great, now let's move onto the second prototype, this is version (A or
 B). I'm going to drop another link in the chat.
+
 VERSION B
+
 Link:
 https://vsateams.invisionapp.com/share/HDZFDLY3WEZ#/
 437720005_myVA_Mobile_B
+
 First task: Overview
+
 Take a look at this page and let me know your thoughts starting with where
 you see your name (Charles).
+
 Nametag area/disability rating:
 I really like that, that is a good thing you don’t have to go search for it.
 I like that. I don’t know the arrow intended but I like that.
