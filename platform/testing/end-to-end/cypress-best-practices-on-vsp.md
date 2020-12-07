@@ -18,7 +18,7 @@
   - [Expand Accordions: `cy.expandAccordions()`](#expand-accordions-cyexpandaccordions)
   - [Accessibility - `cy.axeCheck(context, tempOptions)`](#accessibility-cyaxecheckcontext-tempoptions)
   - [Accessibility Convience Function: `injectAxeThenAxeCheck(context, tempOptions)`](#accessibility-convience-function-injectaxethenaxecheckcontext-tempoptions)
-  - [Count Focusable and Tabbable Elements: `hasCount(elementCategory, selector, count)`](#)
+  - [Count Focusable and Tabbable Elements: `hasCount(elementCategory, selector, count)`](#count-focusable-and-tabbable-elements-hascountelementcategory-selector-count)
 - [Iterate Through Top VA.gov Viewports](#iterate-through-top-vagov-viewports)
 - [Cypress Testing Library Selectors](#cypress-testing-library-selectors)
 - [`data-testid` Attribute](#data-testid-attribute)
