@@ -385,7 +385,15 @@ Step_Number ASC (no aggregation)
   </tr>
 </table>
 
+### Creating Dynamic Date Range Titles
 
+For charts like funnels and data tables, which don't display a date range, it is helpful to add a dynamic title to the card summary.  To do this, create a Beast Mode calulation that returns the text you want to display and the MIN and MAX of your date column:
+
+```js
+CONCAT('Data from ', MIN(`date`), ' to ', MAX(`date`))
+```
+
+You can then add this Beast Mode calulation to your card as a summary.
 
 ### Calculating **Step % of Total** in a Beast Mode
 
