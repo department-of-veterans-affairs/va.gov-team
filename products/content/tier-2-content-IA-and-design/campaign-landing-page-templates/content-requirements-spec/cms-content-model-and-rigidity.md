@@ -17,7 +17,9 @@
 
 [Up-to-date design comps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/content-requirements-spec/CLP-Maximal-markup-updated-060320.pdf)
 
-## 1. Hero (required)
+## 1. Hero panel (required)
+
+Panel is required; image is optional. 
 
 **Q:** Image: What size does the front end need? What aspect ratio? 
 
