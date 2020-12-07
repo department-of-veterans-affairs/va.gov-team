@@ -104,9 +104,12 @@ These sessions will likely be one hour to allow for a relaxed conversation and t
 
 4.	Availability: If applicable, when would you like sessions scheduled? 
 
-We can work with Perigean to determine schedule needs - post Thanksgiving is our requirement. Availability Monday to Friday 9 - 5 EST 
+- Dec. 14th to 18th; can continue to Dec. 22nd if necessary.
 
-We would like it limit it to about 3 sessions per day maximum, with at least ½ hour in between each session.
+- Availability Monday to Friday 9 - 5 EST 
+
+- We would like it limit it to about 3 sessions per day maximum, with at least ½ hour in between each session (i.e. no back to back interviews).  If we have 4 sessions on a day because that's the only time, that's fine as long as there is at least 1/2 hour in between them.
+
 
 
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
