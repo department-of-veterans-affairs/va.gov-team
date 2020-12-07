@@ -29,6 +29,7 @@
     - [ ] Complete [Update 10-10CG Processing to use background job for attachments]()
 
 - [ ] [Logging PDF Gen Errors](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15146) (5)
+  - Scrapped since the "Attempt resubmission" work will capture errors.
 - [x] [Run report to list applications showing number of secondary-only apps](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16748) (2)
     - 12/4: Running again
 - [ ] [Set up Sentry Alerts in Slack](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16875) (unknown)
