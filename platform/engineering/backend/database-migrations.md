@@ -64,7 +64,7 @@ Schema update operations involve a multistep process:
 
 ##### Before making schema updates
 
-Review the checks from `strong_migrations` [here](https://github.com/ankane/strong_migrations#checks) before making your changes.  Below are specific instructions for making certain kinds of changes within `vets-api`.
+Review the checks from `strong_migrations` [here](https://github.com/ankane/strong_migrations#checks) before making your changes. Below are specific instructions for making certain kinds of changes within `vets-api`.
 
 ### Tables
 
