@@ -24,32 +24,32 @@ Users were given the scenario: "You recently moved and changed banks; you need t
 
 - Every participant initially looked at the white quadrants when asked where they expect to find the DD feature
 - Two looked at the Education quadrant; one looked at Disability, and one looked at Records
-- Participants seemd inclined to go toward the last "payment" type mentioned in the prompt; from the examples above: EDU, C&P, and none respectively
+- Participants seemed inclined to go toward the last "payment" type mentioned in the prompt; from the examples above: EDU, C&P, and none respectively
 - Two of the three younger users went quickly to log in; they went fairly directly to Profile and found the feature there
-- The other four particiants "wandered" a through content pages before finding their way to the DD landing page
+- The other four participants "wandered" a through content pages before finding their way to the DD landing page
 - One user (100% service-connected disability), who had self-described cognitive problems, noted that it would be frustrating for users like them to read through all the text on the content pages looking for the link to the feature
 
 ### How often do users expect to review and/or update their DD information?
 - Of the participants who were asked, one said they changed their DD info frequently
 - The others said they (or a spouse) changed it "once" or not at all
 - None of the users asked recalled having to initially set up DD payments
-- There was a generational divide regarding where users would look to find their routing/account numbers: the younger participants would use a bank app or website; the older users said they'd look at a check or theur bank statement
+- There was a generational divide regarding where users would look to find their routing/account numbers: the younger participants would use a bank app or website; the older users said they'd look at a check or their bank statement
 
 #### Landing page(s)
-- Users who navigated to/or were shwon the DD landing page were immediately drawn to the green or blue button directing them to sign in
+- Users who navigated to/or were shown the DD landing page were immediately drawn to the green or blue button directing them to sign in
 - Users admitted they wouldn't read the text; most were looking for an action item
 - Participants who were prompted to scan content pages scanned the content (older users), or ignored it (younger participants)
 
 ### What barriers prevent users from easily submitting changes to their DD info?
-- The most significant hurdle for participants looking to change their DD info was the relative obsurity of the feature described above
+- The most significant hurdle for participants looking to change their DD info was the relative obscurity of the feature described above
 - Every user said the feature itself was easy to use
-- No user encountered any difficulty updating ther DD information once they navigated to the prototype
+- No user encountered any difficulty updating their DD information once they navigated to the prototype
 - One user did not notice the validation error when they entered seven digits for the routing number
 - One user suggested that it might be helpful or "elders" if the bank name appeared once the routing number was entered (rather than after submission)
 - The note regarding bank fraud was universally missed; three participants saw the box only when prompted to scan the page
 
 #### Expectations
-- Almost every participant said they expected furhter notification that their DD change was made
+- Almost every participant said they expected further notification that their DD change was made
 - Email and texts were cited as examples for expected confirmation
 - Several users expected a long wait if they needed to call the 800 number with an inquiry
 
