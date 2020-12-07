@@ -15,10 +15,6 @@ Welcome! This issue will be used to track your onboarding to the VSA Program.
 
 ## Pre-Onboarding
 
-**Program Manager Tasks**
-
-- [ ] Welcome call with Program Manager/New Hire
-
 **Operation Lead Tasks**
 
 - [ ] Send Welcome email to New Hire (request GitHub Username)
@@ -35,10 +31,10 @@ Welcome! This issue will be used to track your onboarding to the VSA Program.
 
 - [ ] Access to [Shared Google Drive](https://drive.google.com/drive/u/1/folders/0ACZ1e6Rs_6sDUk9PVA)
 - [ ] Access to VSA PTO Calendar
-- [ ] Access to VA Organization in GitHub
+- [ ] Request Access to VA Organization in GitHub
 - [ ] Access to VSA GitHub Repositories
 - [ ] Access to GCIO/AdHoc Slack Workspace
-- [ ] Access to DSVA Slack Workspace
+- [ ] Request access to DSVA Slack Workspace
 - [ ] Request Hardware/Software (remove if non-GCIO)
 - [ ] Request New Hire to Complete VA Onboarding Paperwork (GCIO Admin Analyst)
 - [ ] Schedule Program Overview Meeting
@@ -76,6 +72,7 @@ Welcome! This issue will be used to track your onboarding to the VSA Program.
 - [ ] Send Intro Comms to New Hire
 - [ ] Conduct Practice-specific Onboarding Meeting with New Hire
 - [ ] Add New Hire to Practice-specific meetings
+- [ ] Schedule Accessibility Orientation meeting with New Hire and VSA Accessibility Specialists 
 
 **Product Manager Tasks**
 
