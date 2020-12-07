@@ -1,7 +1,5 @@
 # Topline summary for usability testing of Direct Deposit for Educational Payments (DD-EDU) feature
-**VSA eBenefits Team | December 2020**
-
-**VSA AuthdExp/eBenefits Teams | November 2020**
+**VSA AuthdExp/eBenefits Teams | December 2020**
 
 `James Adams, designer | Slack: @Jim Adams | GH: Sporeboy`
 
