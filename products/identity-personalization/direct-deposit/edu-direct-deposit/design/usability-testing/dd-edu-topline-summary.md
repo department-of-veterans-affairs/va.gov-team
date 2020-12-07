@@ -35,8 +35,12 @@ Users were given the scenario: "You recently moved and changed banks; you need t
 - Of the participants who were asked, one said they changed their DD info frequently
 - The others said they (or a spouse) changed it "once" or not at all
 - None of the users asked recalled having to initially set up DD payments
-- One user was notably irritated that there were two direct deposit "boxes" and wanted to know why there couldn't be just one
 - There was a generational divide regarding where users would look to find their routing/account numbers: the younger participants would use a bank app or website; the older users said they'd look at a check or theur bank statement
+
+#### Landing page(s)
+- Users who navigated to/or were shwon the DD landing page were immediately drawn to the green or blue button directing them to sign in
+- User admitted they wouldn't read the text; they were looking for an action item
+- Participants who were prompted to scan content pages scanned the content (older users), or ignored it (younger participants)
 
 ### What barriers prevent users from easily submitting changes to their DD info?
 - The most significant hurdle for participants looking to change their DD info was the relative obsurity of the feature described above
@@ -47,20 +51,20 @@ Users were given the scenario: "You recently moved and changed banks; you need t
 - The note regarding bank fraud was universally missed; three participants saw the box only when prompted to scan the page
 
 #### Expectations
-- 
+- Almost every participant said they expected furhter notification that their DD change was made
+- Email and texts were cited as examples for expected confirmation
 
 
 ### How do users react to the two different "categories" of payments--and having to change them separately?
-
-- Finding lorem ipsum dolor sit amet
-- Finding lorem ipsum dolor sit amet
-- Finding lorem ipsum dolor sit amet
+- Almost all participant accepted that there were two DD features; one explained that it was acceptable since there were two types of payments
+- One user was notably irritated that there were two direct deposit "boxes" and wanted to know why there couldn't be just one
+- Users who were directed to change their EDU payments used the correct feature; participants who were not directed to a particular payment type, went to C&P first
+- Participants generally accepted, and even regarded favorably the "you don't receive this kind of payment" notice
 
 ### What other features do users expect on the DD screen?
-
-- The top improvement cited by participant was a chat-box for inquiries and confirmation
+- The top improvement cited by participants was a chat-box for inquiries and confirmation
 - Another notable suggestion was to move the "fraud" notice into the boxes themselves; every user initially missed the note about bank fraud
-- Finding lorem ipsum dolor sit amet
+
 
 ## Hypotheses
 
@@ -80,11 +84,8 @@ Lorem ipsum dolor sit amet consequetoru unum pluribus dolorum
 Lorem ipsum dolor sit amet consequetoru unum pluribus dolorum
 
 ## Other notes
+- Several participants noted the View Payments link; three said they would reference payments if/when making changes to their DD info
 - Lorem ipsum dolor sit amet consequetoru unum pluribus dolorum
-- Lorem ipsum dolor sit amet consequetoru unum pluribus dolorum
-- Lorem ipsum dolor sit amet consequetoru unum pluribus dolorum
-- Lorem ipsum dolor sit amet consequetoru unum pluribus dolorum
-- Lorem ipsum dolor sit amet consequetoru unum pluribus dolorumd
 
 ### Resources
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/usability-testing/dd-edu-research-plan.md)
