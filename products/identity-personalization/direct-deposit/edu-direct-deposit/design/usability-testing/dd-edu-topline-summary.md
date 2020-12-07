@@ -76,10 +76,10 @@ Lorem ipsum dolor sit amet consequetoru unum pluribus dolorum
 - Lorem ipsum dolor sit amet consequetoru unum pluribus dolorumd
 
 ### Resources
-- [Research plan]()
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/usability-testing/dd-edu-research-plan.md)
 
-- [Conversation guide]()
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/usability-testing/dd-edu-convo-guide.md)
 
-- [Prototype used]()
+- [Prototype used](https://preview.uxpin.com/f80ffd0a5433096bc9abd52333b1e60a4ffd745d#/pages/134411565/simulate/no-panels?mode=f)
 
 ---
