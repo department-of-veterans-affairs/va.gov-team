@@ -1,6 +1,6 @@
 # Preferred medical facilities in the VA.gov profile: Product Outline
 
-Last Updated October 1, 2020
+Last Updated December 8, 2020
 
 ## POCs
 
@@ -49,23 +49,26 @@ While we can't change the historical list of facilities that is kept in MVI, we 
 ## Questions
 
 - How do we support this feature on VA.gov while it also exists on MHV? How would that technical integration work?
+  - **Answer**: There is no integration with MHV. The two features will function separately, though Carnetta mentioned that they may consider pointing people to our profile for this functionality once the feature is live.
 - Who is a technical POC we can work with for this project?
+  - **Answer**: Carnetta Scruggs
 - When we say something is "saved in MHV", what does that mean? Does MHV have its own database?
+  - **Answer**: Yes, MHV has its own backend, but we are not integrating with it.
 - Are there examples of other features or settings that exist both on MHV and another website?
+  - **Answer**: No.
 
 ## Requirements
 
 ### In Scope
 
 - Pull in all registered medical facilities from MVI to the VA.gov profile.
-- Pull in current medical facilities from MHV.
 - Allow veterans to edit and update at which facilty(ies) they currently receive medical care.
-- Sync this information with MHV (read/write).
 - Only show this feature to veterans who receive medical care and are registered at a VA facility.
 - The list of current facilities needs to be easily consumable by the VAOS tool.
 
 ### Out of Scope
 
+- Any integration with MHV itself.
 - Retirement of this feature on MHV.
 - Writing back any information to MVI.
 
