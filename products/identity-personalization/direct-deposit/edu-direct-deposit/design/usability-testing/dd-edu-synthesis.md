@@ -24,66 +24,72 @@ The moderator prompted users with tasks from the conversation guide. Participant
 - All receive/received direct deposit payments from VA
 
 #### Research questions
-- Where and how (what links/navigation) do participants expect to find CH31 and CH36 forms?
-- Do participants understand the language and function of the wizard features?
-- Will users identify the differences between the CH31 and CH36 programs and select the right form(s)?
-- What challenges prevent users from quickly and accurately completing the forms?
+- Where on VA.gov do users expect to find direct deposit (DD) information?
+- How often do users expect to review and/or update their DD information?
+- What barriers prevent users from easily submitting changes to their DD info?
+- How do users react to the two different "categories" of payments--and having to change them separately?
+- What other features do users expect on the DD screen?
 
 #### Hypotheses
-- Users will have some difficulty locating the landing pages/logins for the CH31 and CH36 forms on VA.gov
-- User will generally understand the function of the screening wizards, but will miss the "bypass" link
-- The language in the wizards and intro will confuse users; they may misunderstand when they can apply for both CH36 and CH31 benefits
-- The forms themselves will be very easy for users to complete
+- Users may have some difficulty locating their direct deposit information
+- Users will rarely, some occasionally, change their direct deposit information
+- Participants will accept and easily navigate the DD edit function
+- Participants will have some questions/hesitation about two distinct Direct Deposit features
+- Users may want more information about the DD change process
 
 ## Key findings
-1. While users in this study rarely went directly to CH31/CH36 links, they did tend to find CH36 and CH31 content pages via the Chapter 33 screens. Two users found CH31/CH36 easily using the search feature. Generally, users believed career guidance and job readiness were part of the CH33 GI Bill.
+1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
-2. Users were immediately comfortable navigating the screening wizard, and usually went straight to answering its questions. Only one user saw the "skip" wizard link and recognized that it went straight to the form.
+2. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-3. The language in the wizards and intro--and even the forms--often confused users. Only one participant clearly understood there were two wizards and forms. Generally, users proceeded with the CH36 wizard and form not seeing that they might also be eligible for CH31 benefits. A few noticed the CH31 section on the confirmation screen and expressed interest in applying. </br></br>Participants found little value in the "branding" of programs preferring more generic erms like "VocRehab." Decoupling the form numbers from their program deepened the confusion when cross-program info was presented on the intro screens. </br></br>The details of questions need more clarity when asking about time periods, e.g. "separation in the past year," or "years of education."
-
-4. The forms themselves proved easy for users to complete. Once the users made it into the two forms, they proceeded quickly and easily to submission. Participants were generally satisfied with the confirmation page, though some users wanted a different presentation or more details.
+3. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
 
 ## Details of findings
 
 ### 1. Where and how (what links/navigation) do participants expect to find CH31 and CH36 forms?
-Participants went to the VA.gov home and were asked, "If you heard VA could help with finding a job or getting training, where would you look on the site?"
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-- Users were drawn to the white quadrants
-- They tended to look in the Education box
-- Several users mentioned they'd use the search feature, two did
-- Only two users scrolled the page to the featured benefits links
+- Lorem ipsum dolor sit amet
+- Laboris nisi ut aliquip ex ea commodo consequat
+- Dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
 
-> "I guess I would have to go up to the search box here. And I would type that in. Because I don't see it, it's not as obvious anywhere else."
+> "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 
-### 2. Do participants understand the function of the wizard features?
-Users were given a link to the CH36 wizard and asked, "Please take a look at this page and see if you qualify for Chapter 36 or other benefits."
+### 2. Where on VA.gov do users expect to find direct deposit (DD) information?
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-- Some users were thrown-off by the varying references to the programs and forms (e.g. Personalized Career Planning and Guidance, CH36, 21-8832)
-- However, all users went fairly quickly to the wizard and started answering questions; no prompting was needed
-- Most users felt they qualified for CH36 benefits using the scenario given them (that they were within a year of leaving the service)
-- The users who went to the CH31 wizard all qualified on their own merits
-- Many users found the language around timeframe ("the past year") ambiguous and wanted clarification/specifics
-- When the wizard question led to a "stop," users understood they did not qualify; several wanted links to alternate resources or information
+- Lorem ipsum dolor sit amet
+- Laboris nisi ut aliquip ex ea commodo consequat
+- Dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
 
-> "...if programs are are designated specifically Chapter 31, Chapter 33, Chapter 36, why not include that up here so that, you know, someone applying can kind of get the assurance that if they're on a mission to apply for Chapter 36, ...that's still what they're applying for."
+> "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.""
 
-### 3. Will users identify the differences between the CH31 and CH36 programs and select the right form(s)?
-Three users navigated to the CH31 wizard. They were asked, "Why were you were sent here?", "How is this different from the previous page/screen/form?", and  "Please look at this page and see if you qualify."
+### 3. What barriers prevent users from easily submitting changes to their DD info?
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-- The VA program "branding," PCPG and VR&E, was lost on participants; CH36 and CH31 were more meaningful to some users
-- A few users noticed the link(s) to the CH31 wizard (on the CH36 intro and confirmation screens); they generally confused this link with CH36 when seeing it on the intro screen, but understood it was another program when they saw the same link on the confirmation screen
-- No user encountered the CH31 link/crossover within the wizard
-- Jumping from one wizard/form to the next seemed to disorient participants who clicked there, though two did understand they were taken to another page
-- The other user was irritated to "have to do everything over again," but continued on to successfully determine eligibility and complete the form, not knowing he completed the CH31 form
+- Lorem ipsum dolor sit amet
+- Laboris nisi ut aliquip ex ea commodo consequat
+- Dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
 
-### 4. What challenges prevent users from quickly and accurately completing the forms?
-No participants actually qualified for CH36 benefits since all were too far removed from their separation dates. At that point in the wizard they were told, "Seems you don't qualify according to our questions; but what if you were within a year of separation?"
+> "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 
-- Users easily navigated through the 28-8832 (CH36) 
-- All participants who went to the 21-1900 (CH31) were all confused by the "years of education" question and wanted clarification
-- Participants paused on the he communication options screen; all users answered reading only the questions themselves
-- Users generally felt both forms were "straight-forward" and easy to complete
+### 4. How do users react to the two different "categories" of payments--and having to change them separately?
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+- Lorem ipsum dolor sit amet
+- Laboris nisi ut aliquip ex ea commodo consequat
+- Dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+
+> "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+
+### 5. What other features do users expect on the DD screen?
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+- Lorem ipsum dolor sit amet
+- Laboris nisi ut aliquip ex ea commodo consequat
+- Dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+
+> "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 
 ## Additional insights
 - All but one participant opted to "sign-in" to proceed
