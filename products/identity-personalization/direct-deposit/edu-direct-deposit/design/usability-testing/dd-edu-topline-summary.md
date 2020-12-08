@@ -53,7 +53,7 @@ Users were given the scenario: "You recently moved and changed banks; you need t
 - Email and texts were cited as examples for expected confirmation
 - Several users expected a long wait if they needed to call the 800 number with an inquiry
 - Most users felt the DD change would take effect (or should take effect) immediately or soon
-- A pair of participants beleived there could be a processing delay of 30 days or a month
+- A pair of participants believed there could be a processing delay of 30 days or a month
 
 ### How do users react to the two different "categories" of payments--and having to change them separately?
 - Almost all participant accepted that there were two DD features; one explained that it was acceptable since there were two types of payments
@@ -64,7 +64,6 @@ Users were given the scenario: "You recently moved and changed banks; you need t
 ### What other features do users expect on the DD screen?
 - The top improvement cited by participants was a chat-box for inquiries and confirmation
 - Another notable suggestion was to move the "fraud" notice into the boxes themselves; every user initially missed the note about bank fraud
-
 
 ## Hypotheses
 
@@ -80,7 +79,7 @@ This was resoundingly true. No user had any issues making a change to the DD inf
 ### Participants will have some questions/hesitation about two distinct Direct Deposit features
 Not true. Only one participant expressed frustration with having to manage two sets of DD info. Several beleived it was reasonable that different payment type had different DD info (even if it was the same bank).
 
-### Users may want more information about the DD change proces
+### Users may want more information about the DD change process
 This was somewhat true. Generally users accepted what they saw on-screen. A few users liked having the View Payments link; no participant saw the fraud box until prompted to scan/review the screen. Two participants said this note should be more prominent.
 
 ## Other notes
