@@ -15,8 +15,9 @@ Provide a descriptive title to the issue by applying “*@Support Bot title*”
 ### **Use category labels** 
 When the request has been answered in the support thread:
 1. **Apply the “Documentation” category label if:**
-The request was not resolved by providing documentation because the documentation does not exist, is not current, or could be in the future resolved with documentation - apply the “**Documentation**” category label. 
-To add this label, apply “*@Support Bot add category Documentation*”
+
+The request was not resolved by providing documentation because the documentation does not exist, is not current, or could be in the future resolved with documentation - apply the “**Documentation**” category label. To add this label, apply “*@Support Bot add category Documentation*”
+
 *The Documentation label provides a way for the documentation and content team to sort issues and prioritize potential work.*
 
 2. **Apply additional category labels**
@@ -41,17 +42,20 @@ An overview of all commands used by the tracker can be referenced in Slack by ap
 **Tracking and Resolving**
 *@Support Bot track* => start tracking the thread
 *@Support Bot resolve* => stop tracking the thread
+
 **Titles**
 *@Support Bot title* => start tracking the thread
+
 **Categories**
 *@Support Bot add category* => add a category to the tracked thread.
 *@Support Bot list categories* => list the categories added to this tracked thread.
+
 **Links**
 *@Support Bot add link* => add a link to the tracked thread.
 *@Support Bot list links* => list the links added to this tracked thread.
 *@Support Bot remove link* => remove a link from this tracked thread.
 
 ## Support tracker help
-[Troubleshooting and FAQs] (https://github.com/department-of-veterans-affairs/va.gov-support-slackbot/blob/main/PLAYBOOK.md)
+[Troubleshooting and FAQs](https://github.com/department-of-veterans-affairs/va.gov-support-slackbot/blob/main/PLAYBOOK.md)
 
 For support and feedback on the tracker, please join the Slack channel #-vsp-support-test.
