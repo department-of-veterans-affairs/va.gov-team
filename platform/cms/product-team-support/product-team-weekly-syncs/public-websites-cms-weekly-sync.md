@@ -4,12 +4,16 @@
 
 - Wednesdays 10am ET 
 - Meeting owner: Clarence Maeng
-- Facilitator:  Kevin Walsh
+- Facilitator: Kevin Walsh
 - Standing agenda: 
   - Product by product, including CMS backlog review (eg: CLP, [Resources & support](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/board?epics=154174777_2915&repos=154174777), Outreach Hub, Benefit Hubs, VA Forms, etc)
   - How we work
-  - 
+  - etc.
   
+</details>
+
+<details><summary>Parking lot</summary>
+
 </details>
   
   
@@ -27,7 +31,11 @@ TBD
 ### Other? 
  
 ## Wednesday Dec 9 10am ET
- 
+
+### How we work
+
+- Process for managing this doc (Kevin)
+
 ### [Campaign landing page MVP](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/board?epics=154174777_2275,154174777_2274,154174777_2273,154174777_1475&filterLogic=any&repos=154174777)
 
 - CMS Sprint 21 scopre & progress
