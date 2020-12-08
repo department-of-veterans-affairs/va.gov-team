@@ -53,7 +53,7 @@ Before we start, a few things I want to mention::
 
 - How many caregivers do you have?
 - Do you currently live with any of your caregivers?
-- Does your caregiver receive from The Program of Comprehensive Assistance for Family Caregivers? 
+- Does your caregiver receive benefits from The Program of Comprehensive Assistance for Family Caregivers? 
 
 
 ## First Task: [Applying for benefits] - 15 minutes
