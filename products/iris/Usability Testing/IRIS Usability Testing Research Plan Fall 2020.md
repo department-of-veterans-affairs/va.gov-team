@@ -27,27 +27,16 @@ See conversation guide for details questions and tests.
 
 Exit questions
 
-We would also ask questions at the end of the session from earlier in this document (‘Did the number of chapters/pages of the form feel like the right length?’). We may also use the System Usability Scale but may leave off until final usability test which tests the whole experience.
-
--I think that I would like to use this system frequently.
--I found the system unnecessarily complex.
--I thought the system was easy to use.
--I think that I would need the support of a technical person to be able to use this system.
--I found the various functions in this system were well integrated.
--I thought there was too much inconsistency in this system.
--I would imagine that most people would learn to use this system very quickly.
--I found the system very cumbersome to use.
--I felt very confident using the system.
--I needed to learn a lot of things before I could get going with this system.
-
+We would also ask questions at the end of the session from earlier in this document (‘Did the number of chapters/pages of the form feel like the right length?’). We may also use the System Usability Scale (i.e. 'I found the system unnecessarily complex') but may leave off until final usability test which tests the whole experience.
 
 ## Method	
 
 1.	What method of research are you planning? 	
+
 Usability testing with a link to the site on Staging via remote moderated research.  Because our product has conditional logic we want to test users with a version that is as high fidelity as possible.
   	
 2.	Why this method? How does this methodology help you answer your research questions?
- 
+
 We want to run our redesigned product by our end users to ensure we're building the right thing in the right way at the right time - the right set of features and ensure that it's accessible.  Usability testing and an interview about their interactions with a product will allow us to answer research questions and validate our assumptions about the product we’re building.
 
 3.	Where are you planning to do your research? 
@@ -59,7 +48,6 @@ We will be testing with a version of the product on Staging.
 
 5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)
 We will be using Zoom.
-
 
 
 ## Participants and Recruitment
@@ -79,7 +67,7 @@ We will work with Perigean who will identify users with an aim to have sessions 
 
 We want to ensure at least 1 participant is a person with a disability or cognitive challenges.
 
-Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom and ideally have Zoom downloaded and installed on their laptop ahead of time
+Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom and ideally have Zoom downloaded and installed on their laptop and phone ahead of time.  We plan to test on both Web and mobile if possible.
 
 2.	What is your recruitment strategy? 
 
