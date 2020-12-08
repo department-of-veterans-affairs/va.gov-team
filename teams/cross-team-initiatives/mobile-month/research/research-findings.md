@@ -181,7 +181,7 @@ Both were able to fill out our online form without usability issues, and overall
 Overall the claims status tool worked fairly well on mobile, however a few insights / issues came up:
 
 1. A few users took a little time finding the area that let them know they did not need to upload any files.
-2. A participant mentioned that he needed to click into the details of a claim to determine which claim it was because there wasn’t enough differentiation between claims in the list few.
+2. A participant mentioned that he needed to click into the details of a claim to determine which claim it was because there wasn’t enough differentiation between claims in the list view.
 3. A participant mentioned wanting to have access to disability rating information and letters within the claims status tool so he wouldn’t have to leave VA.gov and log into eBenefits to see if his disability rating had been updated.
 
 > There's just not a lot of detail. Right here, it tells you 'the board made a decision on your appeal' but it doesn't give you any information. You have to go to eBenefits and see changes in your disabilities.
