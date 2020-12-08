@@ -60,8 +60,7 @@ If yes:
 
 We're going to switch gears now and look at website together. I've found it can be helpful if we go through a warm up page first. As you're looking, I'd like for you to think out loud your observations and any the thoughts that come to mind.
 
-[zoom help - make participant the presenter and ask them to share their screen] 
-[Guide user to a search engine]
+[zoom help - make participant the presenter and ask them to share their screen. Guide user to a search engine]
 
 
 ## Page sharing warm-up with internet search 
