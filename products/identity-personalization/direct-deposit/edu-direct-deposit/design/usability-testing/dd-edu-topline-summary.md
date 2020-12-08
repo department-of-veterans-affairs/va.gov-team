@@ -80,7 +80,7 @@ This was resoundingly true. No user had any issues making a change to the DD inf
 Not true. Only one participant expressed frustration with having to manage two sets of DD info. Several beleived it was reasonable that different payment type had different DD info (even if it was the same bank).
 
 ### Users may want more information about the DD change process
-This was somewhat true. Generally users accepted what they saw on-screen. A few users liked having the View Payments link; no participant saw the fraud box until prompted to scan/review the screen. Two participants said this note should be more prominent.
+This was somewhat true. Generally users accepted what they saw on-screen. A few users liked having the View Payments link. However no participant saw the fraud box until prompted to scan/review the screen. Two participants said this note should be more prominent.
 
 ## Other notes
 - Several participants noticed the View Payments link; three said they would reference payment history if/when making changes to their DD info
