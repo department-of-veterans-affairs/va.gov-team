@@ -88,22 +88,30 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 ### Overall
 
-**1. Users preferred whatever prototype they saw first. As far as completing tasks efficiently - there was no clear 'winner'. Users were easily able to complete tasks/find information in both versions.** 7 out of 8 users preferred the prototype that they interacted with first. 
-**2. Users do not expect to see *all* their information on an overview page - they want to see any time-sensitive information or action items and all other details can live on a separate page.**. All users understood that this was just an overview page and said it would be okay if more information lived on a separate page.  
+**1. Users preferred whatever prototype they saw first. As far as completing tasks efficiently - there was no clear 'winner'. Users were easily able to complete tasks/find information in both versions.** 7 out of 8 users preferred the prototype that they interacted with first.
+
+**2. Users do not expect to see *all* their information on an overview page - they want to see any time-sensitive information or action items and all other details can live on a separate page.**. All users understood that this was just an overview page and said it would be okay if more information lived on a separate page.
+
 **3. Users found the information provided in the updates and other sections of the prototypes to be redundant.**
+
 **4. Users did not understand the hierarchy of the information shown in the updates.**
+
 **5. Overall, users said they would use the overview page and would find it useful.**
 
 ### Claims & appeals
 
 **1. Users easily understood the placement and link of the disability rating.**
+
 **2. Users are looking for any status changes to claims, all other information can live on a separate page.** 
 
 ### Health care
 
 **1. Users would like to see what type of healthcare they are enrolled in (vision, dental, etc.).**
+
 **2. Participants wanted to see the facility that new messages were from, as well as the doctor's name.** 
+
 **3. Users wanted to see additional details concerning their appointments - specifically location details and type of appointment (dermatology etc.).**
+
 **4. Users were confused by the verbiage 'prescription refills' - they didn't know if it was currently filled or if they needed to take action.**
 
 ### Benefit applications
