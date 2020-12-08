@@ -21,7 +21,7 @@ When the participant is ready, begin the session with the following intro
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Jonathan and I also have some colleagues on the line observing and taking notes. Today we're going to talk about federal benefits that are provided to family members or caregivers of disabled veterans.
+Thanks for joining us today! My name is Jonathan and I also have some colleagues on the line observing and taking notes. Today we're going to talk about federal benefits that are provided to family members or caregivers of Veterans.
 
 Before we start, a few things I want to mention::
 
