@@ -55,45 +55,54 @@ We will be testing with a coded form in staging.
 
 ## Participants and Recruitment
 
-We would like to work with Perigean to recruit remote users.  
+We would like to work with Perigean to Recruit for 12 fulfilled sessions.  
 
 We are looking for:
 
-12 Veterans **who have caregivers** 
+12 Veterans **who have caregivers** and **caregivers to Veterans** 
 
+**Must have for participants**
 
-**Use case 1: Answer must be yes for 4 participants**
+Answer must be yes for 8 participants:
 
-Are you a Veteran who has a caregiver who:
+- Are you a Veteran who has a caregiver? 
+Or 
+- Are you a caregiver to a Veteran?  
 
-- Lives with the Veteran and is a family member, significant other, or friend of the Veteran. 
+Answer must be yes for 4 participants: 
 
-OR are you a caregiver of a Veteran that: 
+- Are you currently enrolled in The Program of Comprehensive Assistance for Family Caregivers?
 
-- Lives with the Veteran and is a family member, significant other, or friend of the veteran.
+**Good to have for participants**
+- At least 2 participants with a disability rating with a disability rating of 70% or greater and identified cognitive impairments and/or functional disabilities. 
+- 50% women, 50% men.
+- 50% people who identify as an ethnicity/race other Caucasian.
+- At least 1 participant 35 or under and 1 participant over 55.
+- At least one person that does not have a college degree (to include enlisted Vets)
+- At least one person that has a college degree (to include of officer Vets)
 
-**Use case 2: Answer must be yes for 4 participants
+**Recruitment requirements**
+ 
+ All (12) must have a laptop/desktop and be willing to be complete the test on said laptop/desktop
+Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom.
 
-- Are you a Veteran who has multiple caregivers, 1 or more that live with you, and 1 or more that do not live with you?
-
-**Use case 3: Answer must be yes for 4 participants** 
-
-Are you a Veteran who has a caregiver who:
-
-- Does not live with the veteran and is a family member, significant other, or friend of the veteran. 
-
-OR are you a caregiver of a veteran that: 
-
-- Does not live with the veteran and is a family member, significant other, or friend of the veteran.
 
 ## Timeline 
 
-- Study dates: TBD
-- Pilot session: will be held on TBD
-- Session length: 30 minutes 
-- Specific dates: TBD 
+**Desired Timeline: Dec 15-18, 2020**
+
+Session length: 30 minutes 
+
+Team Availability | Time (EST)
+------------------|--------------
+Dec 15, 2020 | 10:00am - 11:30pm EST, 3- 4:30pm EST
+Dec 16, 2020 |  9:00am - 8pm EST
+Dec 17, 2020 |  9:00am - 4:30pm EST
+Dec 18, 2020 | 10:00am - 4:30pm EST
+
+Pilot Session: Dec 14, 2020 | TBD
   
-	
+
 ## Team Roles	
 
 - Moderator: Jonathan Nelson (jonathan.nelson@adhocteam.us) 
