@@ -63,7 +63,9 @@ Moderator sends content page link [The Program of Comprehensive Assistance for F
 Ok, given the information above, imagine that you’re applying for benefits for you (or your caregivers) through the Program of Comprehensive Assistance for Family Caregivers. Starting here (start on the content page), walk me through how you would do this.
 
 **Things to watch for:**
+
 In general we want to sit back and watch them, but if they hesitate you can say “I noticed you hesitate here, what are you thinking?”
+
 - Any hiccups? Do they know all the information?
 - Any fields trip them up?
 - Anything particularly confusing for them?
@@ -76,7 +78,8 @@ In general we want to sit back and watch them, but if they hesitate you can say 
 
 Great. A few last questions:
 
-- What do you think was the hardest part of that process?
+- Where you able to accomplish what you set out to do today? 
+- What did you think of the overall experience in completing this form?
 - What worked well?
 - Any questions for me?
 
