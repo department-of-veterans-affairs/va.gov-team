@@ -457,9 +457,12 @@ Error: Pact verification failed - expected interactions did not match actual.
 
 There are some possibilities to double-check with the request or response.
 1. The request might not match the URL from the interaction.
-2. The contents (headers or boddy) of the request or response might not match what you defined in the interaction.
+2. The contents (headers or body) of the request or response might not match what you defined in the interaction.
 
-When debugging, it might help to inspect the properties of the request and response at different steps in the function making the request.
+
+In the first case, be sure to set `BUILDTYPE=localhost` before `yarn test:unit path/to/spec` if you are running an individual test locally. Then make sure the test is running code that makes a request to the URL from the interaction.
+
+For the second case, the logs mentioned earlier (`logs/pact.log`) may contain the diffs between the expected and actual interactions. As you debug, it might help to inspect the properties of the payload at various steps leading up to the request.
 
 ## Configuring the `vets-api` provider codebase
 
