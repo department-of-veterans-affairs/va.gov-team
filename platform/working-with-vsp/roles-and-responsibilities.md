@@ -16,7 +16,6 @@ Here you can find finalized documentation on each of the practices and services 
 * Visual Design and the Design System
 * Frontend (FE) and Backend (BE) Code Quality
 * Quality Assurance (QA) and End-to-End (E2E) Testing
-
 * Authority to Operate (ATO)
 * Analytics Instrumentation
 * Content
