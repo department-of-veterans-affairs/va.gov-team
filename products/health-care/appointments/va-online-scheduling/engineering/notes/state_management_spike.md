@@ -134,12 +134,13 @@ Note that the above code would get slightly heavier with analytics, as some of t
 However this would definitely create some complexity in our redux actions where we make multiple API calls, such as the new appointment flow.
 
 ## Takeaways
+Advances in React development have definitely made the use of Redux less necessary, particularly with the `useState` and `useReducer` hooks. While VSP and the forms system continue to use redux, it will be difficult to completely move away from redux, we can begin to modernize other parts of are app that clearly do not need access to a  global state.
 
-I think we should definitely consider using SWR on pages where it makes sense.  We could start on pages that don't involve manipulating heavily such as the Appointment List pages.  I think this would clear up a good portion of our redux data.
+To start, I think we can definitely consider using SWR on pages where it makes sense.  We could start on pages that don't involve manipulating data heavily such as the Appointment List pages.  I think this would clear up a good portion of our redux data.
 
 The new appointment flows are definitely more complex in how we use the fetched data though, so we would need more thought in if it makes sense to incorporate SWR there.
 
-Overall, I do think it is worth separating our server data from our UI and being more mindful about what actually needs to be stored in our redux state.
+Overall, I do think it is worth beginning to separate our server data from our UI and being more mindful about what actually needs to be stored in our redux state.
 
 ## Resources
 
