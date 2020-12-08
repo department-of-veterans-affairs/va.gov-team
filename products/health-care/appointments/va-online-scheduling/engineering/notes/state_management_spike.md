@@ -119,6 +119,7 @@ export default function PastAppointmentsList() {
   );
 }
 ```
+The most notable changes are calling the appointment service directly to fetch, and using SWR to track the fetch status instead of accessing `pastAppointmentStatus` in redux.
 
 ## Is the code clearer than the current action/thunk based code?
 
