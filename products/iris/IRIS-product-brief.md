@@ -26,7 +26,7 @@ Replacement of the veteran and other beneficiary facing side of this system will
 
 An initial version of the form that we are building exists here: https://staging.va.gov/ask-a-question
 
-[11-20-2020] Decision is pending on who will be responsible for building the replacement form for MHV-Technical Support. 
+[11-19-2020] The Member services team supporting MHV-TS will be responsible for building the replacement form for MHV-Technical Support. 
 
 
 ## How will we measure success?
@@ -36,15 +36,16 @@ A list of metrics is being worked on and will be refined in the coming weeks
   - Increase in mobile usage?
   - When submitted had the veteran chosen the correct query vs was it required to be rerouted internally?
   - CSAT score
+  - Percentage of users dropping off when mandated to login
 
 
 ## Pending decisions and outstanding questions
 
 - Consolidated interface for raising inquiries across IRIS and GI Bill
-- Replacement solution for IRIS FAQ and GI Bill FAQ
-- Do veterans need to login before raising an inquiry
-- Introducing a chatbot to address initial information seeking by veterans before they are directed to submit an inquiry to VA 
-- Consolidation of categories and topics for a more efficient and enhanced experience
+- Replacement solution for IRIS FAQ and GI Bill FAQ: The recently launched VA.gov/resources will eventually serve as replacement to existing FAQs on IRIS and GI Bill
+- Do veterans need to login before raising an inquiry: The current desire is to mandate login for certain topics that help in easier identification of the person raising the inquiry and aids in providing appropriate responses by the Contact Center agents
+- Introducing a chatbot to address initial information seeking by veterans before they are directed to submit an inquiry to VA: This is part of a larger initiative to modernize the contact center operations and is being looked upon potentially for VBA-NCC as the pilot
+- Consolidation of categories and topics for a more efficient and enhanced experience: In progress and the topics are continually being refined
 - How can we utilize design standards within the VA to modernize the experience
 - How might we create a better inquiry experience in light of larger initiatives that are improving the Get Help experience
 
