@@ -107,12 +107,15 @@ We will pilot with the TW team internally to prepare for the session.
 ## Who - Team Roles	
 - Moderator: Rachel M. Murray, UX Designer at TW
 - Research: Rachel M. Murray, UX Designer at TW
-- Participant recruiting & screening:	Perigean
+- Participant recruiting & screening: Perigean
 - Project point of contact: Laura Prietula
 - Participant(s) for pilot test: see above
 - Note-takers: ThoughtWorks team	
-- Observers: Interested parties in the VA
+	Katie Ho, kho@thoughtworks.com
+	Ramya Ramesh, ramyar@thoughtworks.com
 
+- Observers: Interested parties in the VA
+	Chante Lantos Swett, Chante.LantosSwett@va.gov
 
 
 ## Resources	
