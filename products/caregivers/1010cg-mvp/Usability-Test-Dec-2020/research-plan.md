@@ -12,21 +12,20 @@ The designs have been created and coded to address this requirement. A usability
 
 The goals of this usability study are to: 
 
-- Determine whether or not the updated designs of the 10-10CG form are usable and easy to navigate for Veterans and caregivers.
-
-- Specifically, whether or not users understand the Primary Family Caregiver and/or Secondary Family Caregiver flows
-
+Determine whether or not the updated designs of the 10-10CG form are usable,  understandable, and easy navigate for Veterans and caregivers.
 
 ### Research questions
 
 
 The research questions we want to address are: 
 
-- Are users able to easily navigate through the form with the addition of the Primary Family Caregiver and Secondary Family Caregiver flow? 
+- Are users able to achieve their goal of either applying with a: 
+- - Primary Family Caregiver
+- - Primary Family Caregiver and Secondary Family Caregiver(s)
+- - Secondary Family Caregiver(s) only
 
-- Will users understand the wording we use when asking if they are applying with a Primary Family Caregiver?  
-
-- Will the addition of the question about adding a Primary Family Caregiver confuse individuals in any way when it comes to the steps afterwards?
+- Is there any confusion caused by the content or verbage in regards to the Primary Family Caregiver and Secondary Family Caregiver workflows?
+- Will confusion be caused in any way by the addition of the Primary Family Caregiver question 
 
 
 Our hypothesis: 
