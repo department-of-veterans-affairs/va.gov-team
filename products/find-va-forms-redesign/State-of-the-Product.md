@@ -33,10 +33,11 @@ The Find a VA Form search tool **is**:
 
  - A tool to help Veterans and their caregivers locate the forms required to apply, or to provide data supporting existing applications for Veterans benefits.
  - A tool for finding an online equivalent on a form where one exists.
-The CLP is **not**:
+ 
+The Find a VA Form search is **not**:
 - A comprehensive catalog of VA forms.
 - A tool for creating, modifying or deleting VA forms.
- - A tool for locating non-VA forms.
+- A tool for locating non-VA forms.
 
 **[Include relevant screen shots]**
 
@@ -56,8 +57,8 @@ Describe ways that success will be measured, followed by a bulleted list of beha
  - Describe what the above behavior validates (1)
  - Describe what the above behavior validates (2)
  - Describe what the above behavior validates (3)
--   Describe how pages / objects will need to be instrumented in order to capture behaviors and measure success (1)
--   Describe how pages / objects will need to be instrumented in order to capture behaviors and measure success (2)
+ - Describe how pages / objects will need to be instrumented in order to capture behaviors and measure success (1)
+ - Describe how pages / objects will need to be instrumented in order to capture behaviors and measure success (2)
 
 ### Success Metrics
 
