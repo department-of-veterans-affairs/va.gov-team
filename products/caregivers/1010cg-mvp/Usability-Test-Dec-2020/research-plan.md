@@ -57,9 +57,7 @@ We will be testing with a coded form in staging.
 
 We would like to work with Perigean to Recruit for 12 fulfilled sessions.  
 
-We are looking for:
-
-12 Veterans **who have caregivers** and **caregivers to Veterans** 
+We are looking for 12 folks, a mix of veterans and caregivers.
 
 **Must have for participants**
 
