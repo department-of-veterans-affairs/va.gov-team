@@ -55,6 +55,7 @@ If yes:
   - have you participated in any of these services?
   - how was that experience?
   
+Thank you for sharing that.
   
 ## Zoom sharing set-up
 
