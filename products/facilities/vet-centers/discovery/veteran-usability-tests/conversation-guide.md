@@ -130,9 +130,7 @@ Let's say you're curious to know if they have other locations.
  Now that you've had a chance to learn about the Atlanta Vet Center let's imagine that you're interested in one of their services
  
  - What would your next step be?
- 
  - What else would you need to know before contacting this Vet Center?
- 
  - Given what you know now, what might prevent you from contacting a Vet Center?
  
 
@@ -141,11 +139,8 @@ Let's say you're curious to know if they have other locations.
 We're almost done. I just have a few more questions left.
 
  - In your own words, how would you describe the Atlanta Vet Center
- 
  - How would you describe the kind of care that can you get here?
- 
  - Are there any types of services or care that you don't think you can get here?
-
  - What recommendations do you have for improving this website?
 
  
