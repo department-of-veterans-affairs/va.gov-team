@@ -11,15 +11,15 @@ Check your [screensharing setup]
 When the participant is ready, begin the session with the following intro*
 
 ## Project-specific setup
- - Step 1
- - Step 2
+ - Have prototype/live site link ready to share with participant [placeholder]()
+
  
 ## Intro - 5 minutes
 
 Thanks for joining us today! My name is Marian Adly and I also have some colleagues on the line observing and taking notes. Today we're going to talk about your thoughts on the COVID-19 vaccine and how you would like to receive information and updates on the vaccine in the months to come.  
 
 Before we start, a few things I want to mention:
-- **This entire session should take about 30-60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 45-60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know.**
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
@@ -57,7 +57,6 @@ Before we start, a few things I want to mention:
   - What is your preferred method?
   - How often would you like to get updates on whether the vaccine is available yet or not?
 
-
 **Things to watch for:**
 - Does the participant seem frustrated with how they have been receiving updates to-date? From VA? Generally?
 - Is the participant aware of the prioritization guidelines from CDC and how vaccine will be distributed?
@@ -68,7 +67,6 @@ Before we start, a few things I want to mention:
 - Where do you typically go to get information about covid-19 vaccines? Why that source?
 - What information would be important to you to know about the vaccine? Where would you want to get that info?
 - How do you decide what information to trust?
-
 
 **Things to watch for:**
 - Does the participant express an information gap? Is there interest in receiving additional information from VA?
@@ -88,6 +86,7 @@ Ok, now I'd like to have you look at a potential solution and get your feedback.
 - What stands out to you?
 - (stay informed call out) What is this telling you?
   - What would you be signing up for?
+- Who is this site for?
 
 ### On this page links
 - Let's say you wanted to find out when you might be able to get the vaccine, how would you do that?
@@ -109,7 +108,7 @@ Ok, now I'd like to have you look at a potential solution and get your feedback.
 - Any questions for me?
 
 ### Thank-You and Closing - 5 minutes
-Before we go, I just want to mention that what you saw today is something that the VA is considering building to help Veterans like yourself get more information about when a vaccine might be available, but it's not a way to sign up or reserve a spot to get a vaccine. We really appreciate you taking the time to share your thoughts with us today. Your feedback is helpful to us as we continue to work on solutions to support Veterans’ needs. 
+Before we go, I just want to mention that what you saw today is something that the VA is considering building to help Veterans like yourself get more information about when a vaccine might be available, but it's not a way to sign up or reserve a spot to get a vaccine. The VA will be following CDC guidelines on how to roll out the vaccine. We really appreciate you taking the time to share your thoughts with us today. Your feedback is helpful to us as we continue to work on solutions to support Veterans’ needs. 
 
 
 Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
