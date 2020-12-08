@@ -41,7 +41,7 @@ Before we start, a few things I want to mention::
 ## Warm-up Questions - 5 minutes
 
 - Can you tell me a little about yourself? 
-- Are you a Veteran with a caregiver? Or caregiver with a Veteran? 
+- Are you a Veteran with a caregiver? Caregiver with a Veteran? 
 
 **For Caregivers:**
 
