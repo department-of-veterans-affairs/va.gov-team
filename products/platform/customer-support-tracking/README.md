@@ -14,6 +14,7 @@ When responding to a support request in Slack, add the “*@Support Bot track*�
 Provide a descriptive title to the issue by applying “*@Support Bot title*” 
 ### **3. Use category labels** 
 When the request has been answered in the support thread:
+
 **Apply the “Documentation” category label if:**
 
 The request was not resolved by providing documentation because the documentation does not exist, is not current, or could be in the future resolved with documentation. To add this label, apply “*@Support Bot add category Documentation*”
@@ -21,6 +22,7 @@ The request was not resolved by providing documentation because the documentatio
 *The Documentation label provides a way for the documentation and content team to sort issues and prioritize potential work.*
 
 **Apply additional category labels**
+
 To help refine issue and category taxonomy, additional label categories should be applied to issues that cover a topic, service or product. 
 *Examples: PR Review, Platform Newsletter, Design System, Feature Request, Enhancement*
 
@@ -33,7 +35,7 @@ Applying “*@Support Bot add link*” to the thread will attach any links to do
 To mark an issue as resolved in the Slack thread, apply “*@Support Bot resolve*”.
 
 ### 6. Add descriptions or additional feedback to the issue 
-If there are additional details that could be provided on the support request that may help inform documentation needs, please add this information to the “**Description**” field on the Github issue itself.
+If there are additional details that should be provided on the support request that may help inform documentation needs, please add this information to the “**Description**” field on the Github issue itself.
 
 ## All available commands
 
