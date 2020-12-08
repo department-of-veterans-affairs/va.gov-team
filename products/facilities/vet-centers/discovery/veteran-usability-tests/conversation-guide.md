@@ -121,7 +121,6 @@ Feel free to click around.
 
 Let's say you're curious to know if they have other locations.
 
-- What can you tell me about Vet Centers locations? 
 - In your own words how would you describe the relationship between the Atlanta location and the other locations?
 - What type of services would be available at other locations?
 
