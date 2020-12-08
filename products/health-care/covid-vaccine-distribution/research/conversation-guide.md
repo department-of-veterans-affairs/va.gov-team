@@ -95,17 +95,22 @@ Ok, now I'd like to have you look at a potential solution and get your feedback.
 
 ### Sign up
 - Let's say you wanted to sign up to get updates on when a vaccine was available, how would you do that?
-- (auth vs non-auth flow) What are you seeing here?
+- _auth vs non-auth flow_ What are you seeing here?
   - Which option would you choose? Why?
 
 ### Communication sign up form
 - What do you think this page is for?
 - What do you think of the information you're asked to fill out here?
   - _probe on zipcode_
-  - _probe on interest level_
+  - _probe on interest level radio buttons_
 - What would you expect to happen once you fill out this form?
 
+### Confirmation/review page
+- What are you seeing on this page?
+- Let's say you change your mind about your interest in getting the vaccine, say after 6 months, what would you do?
+
 ### Post-Task Interview - 5 minutes
+- What are you thoughts on what you looked at today?
 - Is there anything we didn't ask you that would be important to know?
 - Do you have any questions about what you saw today?
 - Any questions for me?
