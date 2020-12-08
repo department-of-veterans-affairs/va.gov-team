@@ -62,10 +62,9 @@ https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/
 - WIP initial concepts
 
 ### Prototype Changelog
-- No prototype
 
-**Initial concepts**
-- TBD
+**November 30, 2020** 
+- Prototype available
 
 ---
 
