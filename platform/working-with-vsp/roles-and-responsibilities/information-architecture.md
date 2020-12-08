@@ -1,4 +1,4 @@
-#Information Architecture
+# Information Architecture
 The Digital Experience and Product Office (DEPO) platform team maintains the information architecture of  [VA.gov](http://va.gov/) , including all navigation structures, URL logic, naming conventions for labels, guidance on taxonomies, and general user flows. 
 ## What the DEPO platform provides
 To maintain the information architecture, the DEPO platform provides the following services: 
