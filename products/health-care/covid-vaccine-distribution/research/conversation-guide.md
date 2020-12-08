@@ -99,7 +99,10 @@ Ok, now I'd like to have you look at a potential solution and get your feedback.
   - Which option would you choose? Why?
 
 ### Communication sign up form
-- What do you think this page is for? 
+- What do you think this page is for?
+- What do you think of the information you're asked to fill out here?
+  - _probe on zipcode_
+  - _probe on interest level_
 - What would you expect to happen once you fill out this form?
 
 ### Post-Task Interview - 5 minutes
