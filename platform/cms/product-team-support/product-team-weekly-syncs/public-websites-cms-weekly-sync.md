@@ -6,7 +6,7 @@
 - Meeting owner: Clarence Maeng
 - Facilitator:  Kevin Walsh
 - Standing agenda: 
-  - Product by product, including CMS backlog review (eg: CLP, R&S, Outreach Hub, Benefit Hubs, VA Forms, etc)
+  - Product by product, including CMS backlog review (eg: CLP, [Resources & support](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/board?epics=154174777_2915&repos=154174777), Outreach Hub, Benefit Hubs, VA Forms, etc)
   - How we work
   - 
   
@@ -20,7 +20,7 @@
 Status of Sprint 21
 Sprint 22 backlog refinement
 
-### Resource & support 
+### [Resources & support](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/board?epics=154174777_2915&repos=154174777)
 
 TBD
 
@@ -38,7 +38,7 @@ TBD
 - Content entry
 - Backlog review
 
-### Resource & support 
+### [Resources & support](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/board?epics=154174777_2915&repos=154174777)
 
 - Backlog review
 
