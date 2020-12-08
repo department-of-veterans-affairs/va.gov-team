@@ -67,6 +67,7 @@ Understand how clinicians want to access and interact with Patient-Generated Dat
       - What types of questionnaires might you be interested in incorporating into your practice?
       - Are there types of PGD from questionnaires that you deinitely don’t need or want access to? 
       - How could you imagine this information impacting your interactions with the patient and their quality of care?
+   - If you had your wish, would you do things differently or how would you do things differently?
    - Do any offices that you frequently refer patients to have pre-appointment digital forms/experiences that you know of?
 
 6. Do you use secure messaging with patients in your practice?
