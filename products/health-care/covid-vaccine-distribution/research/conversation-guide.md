@@ -28,17 +28,21 @@ Before we start, a few things I want to mention:
 *Start recording.*
 - **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions (Optional) - 5 minutes
+- Do you use the VA for healthcare?
+- Do you use Community Care?
+- How do you typically communicate with your doctor?
+- How often do you go to VA.gov? What for?
+- How often do you use MyHealtheVet? What for?
 
-Before we look at the website, let’s start with a few warm-up questions.
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required.*
-
-### First Task: Would you be interested in receiving the COVID-19 vaccine? - 10-20 minutes
+### First Task: Would you be interested in receiving the COVID-19 vaccine? 5-10 min
 - Are you interested in receiving the COVID-19 vaccine?
 - Why?
 - Why not?
-- For those who are interest, how would you express your interest?
+- What information would you need to decide?
+- _For those who are interested_ How would you express your interest, say, to your doctor or the VA?
 - What are your expectations after expressing interest?
+- Where would you go to get the vaccine? Why there?
 
 **Things to watch for:**
 - Does the participant understand their options?
@@ -46,11 +50,13 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Is the participant interested in additional information? (For the vaccine and for how to navigate expressing their interest)
 - Are there concerns that can be addressed with proper communications?
 
-### Second Task: How would you like to you like to receive informative updates on vaccine status? - 10-20 minutes
+### Second Task: How would you like to you like to receive informative updates on vaccine status? 5-10 min
+- How soon do you expect you'll be able to get the vaccine? 
+  - How will you know when you're able to get the vaccine?
+- _If interested in receiving the vaccine_ How would you like to learn when the vaccine is available?
+  - What is your preferred method?
+  - How often would you like to get updates on whether the vaccine is available yet or not?
 
-- If interested in receiving the vaccine, how often would you like to receive updates to your status?
-- What is your preferred method to receiving updates?
-- How often would you like to receive updates to your status?
 
 **Things to watch for:**
 - Does the participant seem frustrated with how they have been receiving updates to-date? From VA? Generally?
@@ -58,15 +64,11 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Is the participant aware of how the prioritization guidelines may impact when they may receive vaccine?  
 - What information, if any, would be helpful to the participant?
 
-### Third Task: How would you like to receive general information about the COVID-19 vaccine? - 10-20 minutes
+### Third Task: How would you like to receive general information about the COVID-19 vaccine? 5-10 min
+- Where do you typically go to get information about covid-19 vaccines? Why that source?
+- What information would be important to you to know about the vaccine? Where would you want to get that info?
+- How do you decide what information to trust?
 
-platform/research/during-research/howto-observer-instructions.md
-
-- Who do you trust to receive information about COVID?
-- What source do you trust to receive information about COVID?
-- Would you be interested in receiving information about the COVID vaccine?
-- If so, what information would be important to you with regards to the vaccine?
-- If not, why?
 
 **Things to watch for:**
 - Does the participant express an information gap? Is there interest in receiving additional information from VA?
@@ -74,13 +76,42 @@ platform/research/during-research/howto-observer-instructions.md
 - Is there any trust concerns with the current information they are receiving?
 - Is there any frustration from the Participant on where to find trusted information? 
 
-### Post-Task Interview - X minutes
-- Are there any issues that you would like to express with regards to covid?
-- Are there any issues that you would like to express with regards to vaccine?
+
+## Prototype 20-30 mins
+
+Ok, now I'd like to have you look at a potential solution and get your feedback. I'm going to share a link in the chat. What I'd like to do is have you open that on your computer's internet browser and share your screen so we can follow along with what you're seeing. I'd like you to think out loud as you look at this prototype together. I want to point out that since this is a prototype, not everything will work, so in that case, please tell me what you expect would happen. Remember, there are no right or wrong answers, and your feedback will help us build better tools for Veterans. 
+**Share prototype link** [placeholder]()
+
+
+### Main Mini Hub page
+- What are you seeing here?
+- What stands out to you?
+- (stay informed call out) What is this telling you?
+  - What would you be signing up for?
+
+### On this page links
+- Let's say you wanted to find out when you might be able to get the vaccine, how would you do that?
+- How would you find out more information about the vaccine?
+- What information is missing here?
+
+### Sign up
+- Let's say you wanted to sign up to get updates on when a vaccine was available, how would you do that?
+- (auth vs non-auth flow) What are you seeing here?
+  - Which option would you choose? Why?
+
+### Communication sign up form
+- What do you think this page is for? 
+- What would you expect to happen once you fill out this form?
+
+### Post-Task Interview - 5 minutes
+- Is there anything we didn't ask you that would be important to know?
+- Do you have any questions about what you saw today?
 - Any questions for me?
 
-### Thank-You and Closing - X minutes
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is helpful to us as we continue to work on solutions to support Veterans’ needs.
+### Thank-You and Closing - 5 minutes
+Before we go, I just want to mention that what you saw today is something that the VA is considering building to help Veterans like yourself get more information about when a vaccine might be available, but it's not a way to sign up or reserve a spot to get a vaccine. We really appreciate you taking the time to share your thoughts with us today. Your feedback is helpful to us as we continue to work on solutions to support Veterans’ needs. 
+
+
 Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
 
 **If Yes:** Thank you! I'll have our team send you an email with a little blurb that you can pass along.
