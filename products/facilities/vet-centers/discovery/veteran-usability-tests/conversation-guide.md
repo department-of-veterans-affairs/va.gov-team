@@ -125,7 +125,7 @@ Let's say you're curious to know if they have other locations.
 - What type of services would be available at other locations?
 
 
-#### Ready to visit
+## Ready to visit
 
  Now that you've had a chance to learn about the Atlanta Vet Center let's imagine that you're interested in one of their services
  
@@ -134,7 +134,7 @@ Let's say you're curious to know if they have other locations.
  - Given what you know now, what might prevent you from contacting a Vet Center?
  
 
-#### General website questions
+## General website questions
 
 We're almost done. I just have a few more questions left.
 
