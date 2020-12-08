@@ -97,14 +97,13 @@ We would like to conduct this research post Thanksgiving.
 
 - Version on Staging which will allow users to interact with a live form, with possible Invision prototype we could screen share.
 
-
 3. Length of Sessions: How long do you estimate each session will be?
 
 These sessions will likely be one hour to allow for a relaxed conversation and the actual usability tests.
 
 4.	Availability: If applicable, when would you like sessions scheduled? 
 
-- Dec. 14th to 18th; can continue to Dec. 22nd if necessary.
+- Dec. 14th to 18th; can continue to Dec. 22nd to Dec. 23th as necessary.
 
 - Availability Monday to Friday 9 - 5 EST 
 
