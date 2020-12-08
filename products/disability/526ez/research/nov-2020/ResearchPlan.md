@@ -1,4 +1,4 @@
-Research Plan for a Usability test of         Form 526 (PTSD flow). Part 1 of 2. 
+Research Plan for a Usability test of Form 526 (PTSD flow). Part 1 of 2. 
 =================================================================================
 
 VSA B&M1 Team, Form 526, Christian Valla, November 2020.
