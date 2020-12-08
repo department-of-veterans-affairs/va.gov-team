@@ -1,4 +1,4 @@
-# Create Web Component Pilot of the Component Library 
+# Web Component Pilot  
 ---
 
 ## Overview
@@ -7,9 +7,9 @@ Create a Web Component pilot of the component library
 ## Problem Statement
 When VFS teams are creating an application it can exist in one of three different technical approaches: 
 
-as a REACT application
-as a liquid template rendered from Drupal content
-a hybrid of the two
+- as a REACT application
+- as a liquid template rendered from Drupal content
+- a hybrid of the two
 
 In order to have a consistent user experience, individual components in applications and content should be identical across the user experience. For example, the user interface of a simple form should not appear or behave differently in different parts of VA.gov. However we currently do not maintain a library of components that is technically agnostic, so teams building in each of the three technical approaches draw from different shared/reusable code bases. 
 
