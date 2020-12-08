@@ -46,8 +46,8 @@ export default function PastAppointmentsList() {
   const startOfToday = moment().startOf('day');
 
   // pastAppointments, error, and isValidating (loading status) come from swr
-  // instead of pastAppointmentsStatus stored in our redux state.  We also call getBookedAppointments
-  // directly instead going through our action creator
+  // instead of our redux state.  We also call getBookedAppointments directly
+  // instead going through our action creator
   const { data: pastAppointments = [], error, isValidating } = useSWR(
     'pastAppointments',
     () =>
@@ -63,8 +63,8 @@ export default function PastAppointmentsList() {
       ),
   );
 
-  // Once our appointments are fetched, fetch additional facility info.  SWR knows that
-  // this is dependent on pastAppointments
+  // Once our appointments are fetched, fetch additional facility info.  SWR
+  // knows that this facilityData call is dependent on pastAppointments
   const { data: facilityData } = useSWR('pastAppointmentsFacilityInfo', () =>
     getAdditionalFacilityInfo(pastAppointments),
   );
@@ -91,9 +91,9 @@ export default function PastAppointmentsList() {
         </div>
       )}
 
-      <ul className="usa-unstyled-list" id="appointments-list">
-        {pastAppointments.length > 0 ? (
-          pastAppointments
+      {pastAppointments.length > 0 ? (
+        <ul className="usa-unstyled-list" id="appointments-list">
+          {pastAppointments
             .filter(isValidPastAppointment)
             .sort(sortByDateDescending)
             .map((appt, index) => {
@@ -113,13 +113,13 @@ export default function PastAppointmentsList() {
                 default:
                   return null;
               }
-            })
-        ) : (
-          <h3 className="vads-u-margin--0 vads-u-margin-bottom--2p5 vads-u-font-size--md">
-            You don’t have any appointments in the selected date range
-          </h3>
-        )}
-      </ul>
+            })}
+        </ul>
+      ) : (
+        <h3 className="vads-u-margin--0 vads-u-margin-bottom--2p5 vads-u-font-size--md">
+          You don’t have any appointments in the selected date range
+        </h3>
+      )}
     </div>
   );
 }
