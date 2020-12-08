@@ -12,7 +12,7 @@ The goal of this usability study was to assess how easily participants located, 
 
 **Our methodology:** Usability testing was conducted remotely using Zoom. We scheduled seven sessions beginning December 2; the last scheduled call was December 7. Six of seven participants attended, and sessions typically went 30 minutes. Participants were given tasks covering wayfinding and updating direct deposit information. Users were presented with a high-fidelity, fully-functioning prototype created using UXPin.
 
-The moderator prompted users with tasks from the conversation guide. Participants were encouraged to talk through their exploration of the prototypes, and to speak candidly about their impressions. Remote observers and note takers were in attendance, and all sessions were recorded.
+The moderator prompted users with tasks from the conversation guide. Participants were given a scenario in which they recently moved and needed to update the bank for their direct deposit payments. Users were encouraged to talk through their exploration of the prototypes, and to speak candidly about their impressions. Remote observers and note takers were in attendance, and all sessions were recorded.
 
 #### Who we talked to:
 - Six Veterans total; five men, one woman
