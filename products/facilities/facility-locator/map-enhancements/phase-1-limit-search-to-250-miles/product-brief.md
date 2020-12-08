@@ -106,7 +106,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](#go-to-market-strategy)
+- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/map-enhancements/phase-1-limit-search-to-250-miles/release-plan.md) (#go-to-market-strategy)
 
 ## Launch Dates
 - *Target Launch Date*
@@ -127,6 +127,15 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 [Video of current functionality, October 2020](https://www.loom.com/share/ca23460f62bc4ad89091867976ba2c07)
 
+### Incident Response (WIP)
+
+Points of contact for system and dependent VA backends
+Links to dashboards that help identify and debug application issues
+Links to technical diagrams (checked into GitHub alongside your product documentation), including:
+- An **architecture diagram**, showing involved systems and how they connect.
+- For non-trivial flows (i.e. more than a single round-trip call from frontend → `vets-api` → VA Backend), a **sequence diagram** showing the ordered flow of data and operations between systems.
+- Describe any new publicly-exposed endpoints (`vets-api` or otherwise):
+- Describe any new interactions with dependent VA backends
 
 ### Key Decisions
 
