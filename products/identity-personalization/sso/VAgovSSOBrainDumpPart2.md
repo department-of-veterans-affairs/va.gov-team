@@ -134,7 +134,50 @@ Example:
 
 #### Cerner Authentication
 
-[tk]
+Authentication into the [cerner portal](https://patientportal.myhealth.va.gov) works similar
+to how VAgov authenticates its users through SSOe.  The cerner system sends a SAML Request to
+SSOe, the user enters their credentials, and a SAML Response is sent back to cerner.  However
+to make the UX more consistent for our users, it was decided that our users should "initiate"
+the authentication flow on VAgov.  Thus the team create a new standalone login page just for
+that, https://www.va.gov/sign-in/.  This page ONLY authenticates with SSOe (feature flags don't
+change anything on this page), as our cerner users require SSOe authentication to access the
+portal.  Since the authentication process starts from VAgov, by the time the user reaches the
+cerner portal they should be already authenticated, and the SAML Request sent to SSOe should
+immediately results in a cached SAML Response without requiring the user to enter any
+credentials.  The typical flow for this is (note there are a lot of areas for improvement in
+the following):
+
+1. User authenticates on VAgov (note: depending on feature flag state, not all users will
+    login with SSOe)
+1. User navigates the site and eventually clicks on a link to the cerner portal
+1. The link sends the user to a "clear session" URL (used to prevent a security vulnerability
+    with users at shared computers)
+    - The url will contain a query parameter with the **real url** to access once the user
+        has been safely authorized
+    - eg https://patientportal.myhealth.va.gov/clear-session?to=https://patientportal.myhealth.va.gov/<path>
+1. The clear session page deletes any cookies the user may have and redirects them to the
+    standalone signin page with query parameters indicating which cerner path to redirect back
+    to
+    - eg: https://www.va.gov/sign-in/?application=myvahealth&to=/<path>
+1. When the user arrives at the standalone sign in page one of two things will happen
+    1. The user did not previously log in with SSOe (step 1), the page loads and waits
+        for the user to click a sign in button
+        1. The user initiates an SSOe login, however instead of using the standalone sign in
+            page as the return URL, the JS code records the above cerner url as the
+            page to load upon successful authentication
+        1. The user is redirected to SSOe and beyond and completes the authentication
+            process
+        1. Upon returning to VAgov, the JS code runs and redirects the user back to to
+            the real cerner path
+    1. The user did previously login in with SSOe (step 1)
+        1. JS code runs and notices the user is already authenticated with SSOe, and redirects
+            them back to the real cerner path
+1. Upon landing on the cerner page, code executes to initiate a SAML request between SSOe and
+    cerner.  At this point cerner is assuming that the user has already authenticated with SSOe,
+    so they expect an immediate SAML Response back from SSOe containing some user attributes
+1. Cerner gets the SAML Response back, and uses it to create a session cookie and fully
+    authenticate the user within cerner
+
 
 #### Logout Flow
 
@@ -160,6 +203,8 @@ back to the VAgov home page.
 
 
 # Debugging SAML Responses
+
+[aggregate vs individual tracing]
 
 # Analysis Scripts
 
