@@ -11,7 +11,7 @@
 | ------ | :------: |----------- |------ |
 |        | 8 |[10-10EZ Address Field](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15159)|  
 |        | 5 |[Refactor/flatten 10-10CG UI schema](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16874)
-|        | 5 | Refactor/flatten 10-10EZ UI schema
+|        | 5 | [Refactor/flatten 10-10EZ UI schema](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17071)
 |        | ? | Use (tool) to document unit test coverage on the 10-10CG & 10-10EZ
 |        | ? |Create tickets to increase unit test coverage on the 10-10CG & 10-10EZ
 |        | ? |Implement tickets to increase unit test coverage on the 10-10CG & 10-10EZ
