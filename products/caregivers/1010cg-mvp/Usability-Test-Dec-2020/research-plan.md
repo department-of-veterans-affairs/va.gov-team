@@ -73,7 +73,7 @@ Or
 
 Answer must be yes for 4 participants: 
 
-- Are you currently enrolled in The Program of Comprehensive Assistance for Family Caregivers AND are interested in adding another caregiver to your benefits? 
+- Are you currently enrolled in The Program of Comprehensive Assistance for Family Caregivers and are interested in adding another caregiver to your benefits? 
 
 **Good to have for participants**
 - At least 2 participants with a disability rating with a disability rating of 70% or greater and identified cognitive impairments and/or functional disabilities. 
