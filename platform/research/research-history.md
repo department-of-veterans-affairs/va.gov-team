@@ -14,6 +14,13 @@ This does not include research for Appeals projects, which is stored in differen
 ------
 ###  2020
 
+#### November 19 - December 15: 526 Usability test (PTSD flow)
+*GovernmentCIO, BAM 1. Lead researcher: Christian Valla
+
+-16 participants (4-8 therapists / social workers. 8-12 veterans) 
+
+- [Research folder](https://docs.google.com/document/d/1Ubm4_fD6y0S-CJ1UgQXuhiZ8-g2KupO7k9gtzRTYIV8/edit?usp=sharing)
+
 ### November 2020
 
 #### November 19 - December 15: 526 Usability test (PTSD flow)
@@ -22,6 +29,20 @@ This does not include research for Appeals projects, which is stored in differen
 -16 participants (4-8 therapists / social workers. 8-12 veterans) 
 
 - [Research folder](https://docs.google.com/document/d/1Ubm4_fD6y0S-CJ1UgQXuhiZ8-g2KupO7k9gtzRTYIV8/edit?usp=sharing)
+
+#### November 19 - December 15: 526 Usability test (PTSD flow)
+*GovernmentCIO, BAM 1. Lead researcher: Christian Valla
+
+-16 participants (4-8 therapists / social workers. 8-12 veterans) 
+
+- [Research folder](https://docs.google.com/document/d/1Ubm4_fD6y0S-CJ1UgQXuhiZ8-g2KupO7k9gtzRTYIV8/edit?usp=sharing)
+
+#### November 6 - November 20: Community Care Request Manager Research
+*GovernmentCIO, VSA Facilities, Lead researcher: Chris Logan
+
+-7 participants (6 CCRMs / 1 CCRM Supervisor) 
+
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/community-care)
 
 #### October 15 - November 3:  Comparison Tool Redesign Research
 *Booz Allen: Amy Knox, Jen Jones, Emma Waters*
