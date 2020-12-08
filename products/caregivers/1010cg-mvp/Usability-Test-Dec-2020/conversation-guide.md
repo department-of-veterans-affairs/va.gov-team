@@ -27,6 +27,8 @@ Before we start, a few things I want to mention::
 
 - This entire session should take about 30 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+- We also want let you know that you will not actually be applying to the Program of Comprehensive Assistance for Family Caregivers or for any VA benefits. Again, this is just to get feedback to improve these tools.
+- Please talk aloud as you're looking through things. . For example say "now I'd click on this.. what's this?" this helps me understand what's going through your head while using the tool.
 - If for any reason and at any time you want to stop the session, please let me know.
 - Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
 - If yes: 
@@ -38,14 +40,15 @@ Before we start, a few things I want to mention::
 
 ## Warm-up Questions - 5 minutes
 
-Can you tell me a little about yourself? (If stuck, ask about location, occupation, etc.) Are you a Veteran with a caregiver or a caregiver of a Veteran?
+- Can you tell me a little about yourself? 
+- Can you tell me a little about yourself? Are you a Veteran with a caregiver? Or caregiver with a Veteran? 
 
 **For Caregivers:**
 
-Do you currently live with the Veteran?
-Do you receive benefits from the VA?
-Are there any other family members / caregivers of the Veteran?
-
+- How long have you been a caregiver? 
+- Do you currently live with the Veteran? 
+- Are you currently receiving benefits from the Program of Comprehensive Assistance for Family Caregivers? 
+   
 **For Veterans:**
 
 How many caregivers do you have?
