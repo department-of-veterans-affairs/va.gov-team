@@ -1,5 +1,4 @@
-# CMS Helpdesk
-Helpdesk reporting process
+# Helpdesk Reporting Process
 
 Process for reporting helpdesk performance
 
