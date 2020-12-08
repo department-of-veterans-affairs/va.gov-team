@@ -95,9 +95,9 @@ Feel free to click around.
    - Would it go by any other name?
 - What could be improved about the way this service is listed or described?
 
-####Things to watch for:
+#### Things to watch for:
 • Where does the participant first click?
-• Does the participant expand the accordions?
+• Does the participant know they can expand the accordions?
  
 ## Task #2 - Find Group counseling services
  
