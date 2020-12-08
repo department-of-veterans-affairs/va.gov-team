@@ -47,23 +47,23 @@ Before we start, a few things I want to mention::
 
 - How long have you been a caregiver? 
 - Do you currently live with the Veteran? 
-- Are you currently receiving benefits from the Program of Comprehensive Assistance for Family Caregivers? 
+- Are you currently receiving benefits from The Program of Comprehensive Assistance for Family Caregivers? 
    
 **For Veterans:**
 
-How many caregivers do you have?
-Do you currently live with any of your caregivers?
-Does your caregiver receive benefits from the VA?
+- How many caregivers do you have?
+- Do you currently live with any of your caregivers?
+- Does your caregiver receive benefits from the VA?
 
 
 ## First Task: [Applying for benefits] - 15 minutes
 
-Moderator sends Drupal content page link [The Program of Comprehensive Assistance for Family Caregivers](https://staging.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/) to participant and asks them to share their screen (note moderator should have backup open on their own computer to share in case veteran can't figure out sharing)
+Moderator sends content page link [The Program of Comprehensive Assistance for Family Caregivers](https://staging.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/) to participant and asks them to share their screen (note moderator should have backup open on their own computer to share in case veteran can't figure out sharing)
 
-Ok, given the information above, imagine that you’re applying for benefits for you (or your caregivers) through the Program of Comprehensive Assistance for Family Caregivers. Starting here (start on the Drupal content page), walk me through how you would do this.
+Ok, given the information above, imagine that you’re applying for benefits for you (or your caregivers) through the Program of Comprehensive Assistance for Family Caregivers. Starting here (start on the content page), walk me through how you would do this.
 
 **Things to watch for:**
-- In general we want to sit back and watch them, but if they hesitate you can say “I noticed you hesitate here, what are you thinking?”
+In general we want to sit back and watch them, but if they hesitate you can say “I noticed you hesitate here, what are you thinking?”
 - Any hiccups? Do they know all the information?
 - Any fields trip them up?
 - Anything particularly confusing for them?
