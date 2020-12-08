@@ -1,4 +1,7 @@
+_This agenda will now be managed from the [PW/CMS weekly sync doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-team-support/product-team-weekly-syncs/public-websites-cms-weekly-sync.md)._
+
 # Agenda/Notes from meetings
+
 
 <details>
  <summary> **Parking Lot Topics** </summary>
