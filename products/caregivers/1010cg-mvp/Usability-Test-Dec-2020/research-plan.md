@@ -66,7 +66,9 @@ We are looking for:
 Answer must be yes for 8 participants:
 
 - Are you a Veteran who has a caregiver? 
+
 Or 
+
 - Are you a caregiver to a Veteran?  
 
 Answer must be yes for 4 participants: 
