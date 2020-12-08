@@ -386,10 +386,3 @@ A request can be considered Resolved in several ways:
 
 Once a ticket is Resolved, it no longer affects SLA times and no longer needs any action by help desk staff. A Resolved ticket should be re-openable by users if needed (within a reasonable time-frame). Caution should be taken not to resolve tickets that may not have completely met user requirements.
 
-## Review with the program team
-
-Initial review of this document with members of the program team took place on Wednesday, 11/4/20, and was modified to incorporate feedback, and re-reviewed during ensuing weeks.
-
-## Review w/ DEPO
-
-Presented to Jeff Barnes for review on 12/2/20.
