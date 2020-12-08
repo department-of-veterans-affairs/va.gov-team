@@ -9,8 +9,8 @@
 
 | Status | Points | User story | Notes |
 | ------ | :------: |----------- |------ |
-|        | 8 |[10-10EZ Address Field](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15159)|  
-|        | 5 |[Refactor/flatten 10-10CG UI schema](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16874)
+|        | 8 |[10-10EZ Address Field](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15159)|  
+|        | 5 |[Refactor/flatten 10-10CG UI schema](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16874)
 |        | 5 | Refactor/flatten 10-10EZ UI schema
 |        | ? | Use (tool) to document unit test coverage on the 10-10CG & 10-10EZ
 |        | ? |Create tickets to increase unit test coverage on the 10-10CG & 10-10EZ
@@ -20,23 +20,29 @@
 
 | Status | Points | User story | Notes |
 | ------ | :------: |----------- |------ |
-|        | ? |[Set up Sentry Alerts for 10-10CG in Slack](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16875) |  
-|        | 5 |[Refactor/flatten 10-10CG UI schema](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16874)
-|        | 5 | Refactor/flatten 10-10EZ UI schema
-|        | ? | Use (tool) to document unit test coverage on the 10-10CG & 10-10EZ
-|        | ? |Create tickets to increase unit test coverage on the 10-10CG & 10-10EZ
-|        | ? |Implement tickets to increase unit test coverage on the 10-10CG & 10-10EZ
-
-
-- [ ] [Timestamp research on the 10-10EZ](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16876) (8)
-- [x] Stretch: [Ensure un-nesting Veteran Facility name and type does not break API](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16477) (done: it will break API and CARMA data-contract)
-
+|        | ? |[Set up Sentry Alerts for 10-10CG in Slack](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16875) |  
+|        | ? |[Add support for new treatment facility changes to 10-10CG schema](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16883)
+|        | 5 |[Timestamp research on the 10-10EZ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16876)
+|        | ? |[Remove CARMA::Models::Base for more explicit hard-coded #to_request_payload methods](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16129)
+|        | ? |[Add mocks for Metadata in CARMA::Models::Submission spec](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16130)
+|        | ? |[Rescue from MVI::Errors::DuplicateRecords error on MPI search for caregivers on 10-10CG](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14309)
+|        | ? |[Refactor MVI Lookup in Form1010cg::Service to not build a UserIdentity](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9083)
+|        | ? |[Connect to CARMA via review instance](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15881)
+|        | ? |[Remove data validation for user-requested 10-10CG PDF download](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14287)
 
 ## Design
-- [ ] [Address designs in UXPin](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15159) (2)
-    - 12/4: In progress
-- [ ] [Finalize research plan for 10-10CG/secondary caregiver only](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16873) (3)
-     - 12/4: Adding in questions around the progress bar
-- [ ] [Set up meeting with Shawna, Ming, Alayna to discuss POA plan](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16452) (?)
-     - 12/3: Met with Shawna, going to ask DEPO for any buy-in/legacy insight
-- [ ] Next steps for the health care plan (what data do we need, what research do we want to do) (?)
+
+
+| Status | Points | User story | Notes |
+| ------ | :------: |----------- |------ |
+|        | 2 |[Support 10-10EZ address implementation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15159) |  
+|        | 8 |[Moderate and analyze findings from 10-10CG Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16873) |
+|        | 13|[Stretch: Start design/research on POA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16452)
+
+
+## PTO
+- Alayna: 12/23 - 1/1
+- Justin: 12/24 - 12/25, 1/1
+- Kevin: 12/25, 1/1
+- Jonathan: 12/24 - 12/25 - 1/1
+- Ming: 12/25 - 1/1
