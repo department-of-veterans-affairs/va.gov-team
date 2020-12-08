@@ -45,6 +45,9 @@ import ConfirmedAppointmentListItem from '../cards/confirmed/ConfirmedAppointmen
 export default function PastAppointmentsList() {
   const startOfToday = moment().startOf('day');
 
+  // pastAppointments, error, and isValidating (loading status) come from swr
+  // instead of pastAppointmentsStatus stored in our redux state.  We also call getBookedAppointments
+  // directly instead going through our action creator
   const { data: pastAppointments = [], error, isValidating } = useSWR(
     'pastAppointments',
     () =>
@@ -60,6 +63,8 @@ export default function PastAppointmentsList() {
       ),
   );
 
+  // Once our appointments are fetched, fetch additional facility info.  SWR knows that
+  // this is dependent on pastAppointments
   const { data: facilityData } = useSWR('pastAppointmentsFacilityInfo', () =>
     getAdditionalFacilityInfo(pastAppointments),
   );
