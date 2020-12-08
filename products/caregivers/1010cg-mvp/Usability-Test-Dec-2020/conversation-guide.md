@@ -45,17 +45,19 @@ Before we start, a few things I want to mention::
 **For Veterans:**
 
 - Tell me a bit about the relationship you have with your caregiver? 
-- Are they a family member or friend? 
-- Do they live with you?
 
+- Are they a family member or friend? 
+
+- Do they live with you?
       - If no, how often do they come over to check in on you?
-      
+
 - Does your caregiver receive any benefits from the VA? 
       - If yes, what sort of benefits? 
+      
 - Do you have more than one caregivers? 
       - If yes, what tell me a bit about that relationship? 
-            -  Are they a family member or friend? 
-            -  Do they live with you? 
+      -  Are they a family member or friend?
+      -  Do they live with you? 
 
 
 **For Caregivers:**
@@ -63,16 +65,13 @@ Before we start, a few things I want to mention::
 - Tell me a bit about the relationship you have with the Veteran? 
 - Are they a family member or friend? 
 - Do you live with the Veteran? 
-      - If no, how often do you check in on the Veteran?
+     - If no, how often do you check in on the Veteran?
 - Do you receive any benefits from the VA? 
-      - If yes, what sort of benefits? 
+     - If yes, what sort of benefits? 
 - Does the Veteran  have more than one caregiver? 
-      - If yes, can you tell me a bit about that relationship? 
-            -  Are they a family member or friend? 
-            -  Do they live with the Veteran? 
-
-
-
+     - If yes, can you tell me a bit about that relationship? 
+     -  Are they a family member or friend? 
+     -  Do they live with the Veteran? 
 
 ## First Task: [Applying for benefits] - 15 minutes
 
