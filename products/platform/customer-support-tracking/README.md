@@ -42,19 +42,23 @@ If there are additional details that should be provided on the support request t
 An overview of all commands used by the tracker can be referenced in Slack by applying “*@Support Bot help*”.
 
 **Tracking and Resolving**
+
 *@Support Bot track* => start tracking the thread
 
 *@Support Bot resolve* => stop tracking the thread
 
 **Titles**
+
 *@Support Bot title* => start tracking the thread
 
 **Categories**
+
 *@Support Bot add category* => add a category to the tracked thread.
 
 *@Support Bot list categories* => list the categories added to this tracked thread.
 
 **Links**
+
 *@Support Bot add link* => add a link to the tracked thread.
 
 *@Support Bot list links* => list the links added to this tracked thread.
