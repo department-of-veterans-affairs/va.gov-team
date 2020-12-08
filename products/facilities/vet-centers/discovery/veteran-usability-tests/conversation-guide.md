@@ -58,65 +58,77 @@ If yes:
   
 ## Zoom sharing set-up
 
-We're going to switch gears now and look at website together.  It's going to look like a real web page but its actually just a prototype of a website. Because it is a prototype, it may not function quite as a normal website would.  
+We're going to switch gears now and look at website together. I've found it can be helpful if we go through a warm up page first. As you're looking, I'd like for you to think out loud your observations and any the thoughts that come to mind.
 
-[zoom help] 
+[zoom help - make participant the presenter and ask them to share their screen] 
+[Guide user to a search engine]
 
-  
-## Scenario
+
+## Page sharing warm-up with internet search 
  
-Before we look at the website, I'm going to give you a scenario to consider. Imagine you have a Veteran friend who's been going through a rough time. You think this person could benefit from some mental health care or counseling. You do a little digging for them on the internet. 
+I'm going to give you a scenario to consider. Imagine that you've been going through a rough time. You're considering looking into mental health care or counseling options but you're not really sure what's available.
 
- - Can you talk me through how you might go about finding information like this?
+ - Can you talk me through how you might go about finding information like this on the internet?
  - What words would you use to get you this type of information?
+ - Can you try that search on the internet?
+ 
+ Ok, thank you for that.
+ 
 
-## Prototype
+## Task #1 - Find Individual counseling services
 
 Now let's imagine that as you're searching, you land on a website. 
 
-I'm going to send you a link to that website. 
+I'm going to send you a link to that website. It's going to look like a real web page but its actually just a prototype of a website. Because it is a prototype, it may not function quite as a normal website would.
 
 [Share link to prototype](https://preview.uxpin.com/603da0b67ccefbbee74fcd8bb77a8fed12baabb5#/pages/134612636/simulate/no-panels?mode=cvhidmhttp://)
 
-I'm going to give you a minute or two to look the page over. As I mentioned, this is just a prototype so it won't be fully functional but feel free to click around. As you're looking, I'd like for you to think out loud your observations and any the thoughts that come to mind.
 
- - What can you tell me about this place?
- 
- - How would you describe the kind of care that can you get here?
- 
- - Is there any type of care that you don't think you can get here?
- 
- - What type of services do you think could benefit your friend?
- 
- - What are the most important services offered here?
- 
- 
-Let's imagine that your friend is the type of person that prefers one-on-one interactions with people.
+Let's imagine that you're looking to talk to someone, a counselor, one-on-one. 
 
- - Could your friend get one-on-one counseling here?
-
- - What would you be able to tell your friend about individual counseling at this location?
+ - Is that type of care available here?
  
-Let's imagine that your friend is a real people person and misses the camaraderie from the service.  
+Feel free to click around. 
 
- - What kind of services would likely be appealing in this case? 
+- If yes, how did this line up with your expectations 
+- If no, 
+   - Where you would expect to see that type of care?
+   - Would it go by any other name?
+- What could be improved about the way this service is listed or described?
 
- - Is there any additional information that you think should be added about the services listed here?
-
- - What can you tell me about Vet Centers locations? 
+####Things to watch for:
+• Where does the participant first click?
+• Does the participant expand the accordions?
  
- - Where would your friend be able to go for services?
+## Task #2 - Find Group counseling services
  
- - What type of services would be available at another location?
+Let's imagine that you're curious about group counseling.  
 
-#### Locations page 
-
- - In your own words, describe the relationship between the different locations listed on this page?
+ - Is that type of care available here?
  
+Feel free to click around. 
 
-#### General website questions
+- If yes, how did this line up with your expectations 
+- If no, 
+   - Where you would expect to see that type of care?
+   - Would it go by any other name?
+- What could be improved about the way this service is listed or described?
 
-We're almost done. I just have a few more questions left. Now that you've had a chance to learn all about the Atlanta Vet Center,
+####Things to watch for:
+• Where does the participant first click?
+
+## Understanding alternative locations
+
+Let's say you're curious to know if they have other locations.
+
+- What can you tell me about Vet Centers locations? 
+- In your own words how would you describe the relationship between the Atlanta location and the other locations?
+- What type of services would be available at other locations?
+
+
+#### Ready to visit
+
+ Now that you've had a chance to learn about the Atlanta Vet Center let's imagine that you're interested in one of their services
  
  - What would your next step be?
  
@@ -124,6 +136,17 @@ We're almost done. I just have a few more questions left. Now that you've had a 
  
  - Given what you know now, what might prevent you from contacting a Vet Center?
  
+
+#### General website questions
+
+We're almost done. I just have a few more questions left.
+
+ - In your own words, how would you describe the Atlanta Vet Center
+ 
+ - How would you describe the kind of care that can you get here?
+ 
+ - Are there any types of services or care that you don't think you can get here?
+
  - What recommendations do you have for improving this website?
 
  
