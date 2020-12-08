@@ -90,11 +90,13 @@ Understand how clinicians want to access and interact with Patient-Generated Dat
       - How do you access this data and interact with this data? What challenges are there?
       - How does this information impact your interactions with the patient and their quality of care?
       - What other devices might you be interested in reviewing information from?
+      - Of the following device data, which would you find useful to review as part of standard care: activity, stress, sleep, resting heart rate, active minutes / day, blood glucose, blood oxygen, blood pressure, weight, etc.
       - Are there types of PGD from devices you wish you could better/more access to? 
       - Are there types of PGD from devices that you don’t need or want access to? 
    - If no...
       - Why not?
       - What devices or information types might you be most interested incorporating into your practice?
+      - Of the following device data, which would you find useful to review as part of standard care: activity, stress, sleep, resting heart rate, active minutes / day, blood glucose, blood oxygen, blood pressure, weight, etc.
       - Are there types of PGD from devices that you deinitely don’t need or want access to? 
       - How could you imagine this information impacting your interactions with the patient and their quality of care?
 
