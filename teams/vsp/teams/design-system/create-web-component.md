@@ -105,11 +105,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Team Name: Design System Team 
+- GitHub Label: design-system-team
+- Slack channel: vsp-design-system
+- Product POCs: Carol Wong 
+- Stakeholders: Kevin Hoffman 
 
 </details>
 
