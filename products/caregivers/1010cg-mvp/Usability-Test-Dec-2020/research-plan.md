@@ -20,11 +20,12 @@ Determine whether or not the updated designs of the 10-10CG form are usable,  un
 The research questions we want to address are: 
 
 - Are users able to achieve their goal of either applying with a: 
-- - Primary Family Caregiver
-- - Primary Family Caregiver and Secondary Family Caregiver(s)
-- - Secondary Family Caregiver(s) only
+	- Primary Family Caregiver
+	- Primary Family Caregiver and Secondary Family Caregiver(s)
+	- Secondary Family Caregiver(s) only
 
 - Is there any confusion caused by the content or verbage in regards to the Primary Family Caregiver and Secondary Family Caregiver workflows?
+
 - Will confusion be caused in any way by the addition of the Primary Family Caregiver question 
 
 
@@ -32,9 +33,9 @@ Our hypothesis:
 
 - Users will be able to navigate through the form relatively easily, but may have issues with the following:
 
-- The addition of the Primary Family Caregiver question 
-
-- Knowing if a Vertan or caregiver should “add” a Primary Family Caregiver vs Secondary Family Caregiver 
+	- The addition of the Primary Family Caregiver question may cause confusion
+	
+	- Knowing if a Veteran or caregiver should “add” a Primary Family Caregiver vs Secondary Family Caregiver 
 
 ## Method
 
