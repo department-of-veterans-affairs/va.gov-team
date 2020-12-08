@@ -1,4 +1,6 @@
-**Note**: For fully fleshed-out example, see [Campaign Landing Pages MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/state-of-product.md)
+'''diff
+! Work In Progress 
+'''
 
 ## State of Product: Find a VA Form
 
