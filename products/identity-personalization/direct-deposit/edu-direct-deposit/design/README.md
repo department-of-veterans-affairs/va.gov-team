@@ -64,7 +64,11 @@ https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/
 ### Prototype Changelog
 
 **November 30, 2020** 
-- Prototype available
+- Prototype finalized for usability study
+- Error states added for field validation
+
+**Novermber 23, 2020**
+- Prototype available for review
 
 ---
 
