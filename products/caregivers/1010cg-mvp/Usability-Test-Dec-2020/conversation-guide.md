@@ -27,7 +27,7 @@ Before we start, a few things I want to mention::
 
 - This entire session should take about 30 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- We also want let you know that you will not actually be applying to the Program of Comprehensive Assistance for Family Caregivers or for any VA benefits. Again, this is just to get feedback to improve these tools.
+- We also want to let you know that you will not actually be applying to the Program of Comprehensive Assistance for Family Caregivers or for any VA benefits. Again, this is just to get feedback to improve these tools.
 - Please talk aloud as you're looking through things. . For example say "now I'd click on this.. what's this?" this helps me understand what's going through your head while using the tool.
 - If for any reason and at any time you want to stop the session, please let me know.
 - Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
@@ -40,20 +40,36 @@ Before we start, a few things I want to mention::
 
 ## Warm-up Questions - 5 minutes
 
-- Can you tell me a little about yourself? 
-- Are you a Veteran with a caregiver? Caregiver with a Veteran? 
+- Can you tell me a little about yourself? (Are you a Veteran with a caregiver? Caregiver with a Veteran?) 
+
+**For Veterans:**
+
+- Tell me a bit about the relationship you have with your caregiver? 
+- Are they a family member or friend? 
+- Do they live with you? 
+      - If no, how often do they come over to check in on you?
+- Does your caregiver receive any benefits from the VA? 
+      - If yes, what sort of benefits? 
+- Do you have more than one caregivers? 
+      - If yes, what tell me a bit about that relationship? 
+            -  Are they a family member or friend? 
+            -  Do they live with you? 
+
 
 **For Caregivers:**
 
-- How long have you been a caregiver? 
-- Do you currently live with the Veteran? 
-- Are you currently receiving benefits from The Program of Comprehensive Assistance for Family Caregivers? 
-   
-**For Veterans:**
+- Tell me a bit about the relationship you have with the Veteran? 
+- Are they a family member or friend? 
+- Do you live with the Veteran? 
+      - If no, how often do you check in on the Veteran?
+- Do you receive any benefits from the VA? 
+      - If yes, what sort of benefits? 
+- Does the Veteran  have more than one caregiver? 
+      - If yes, can you tell me a bit about that relationship? 
+            -  Are they a family member or friend? 
+            -  Do they live with the Veteran? 
 
-- How many caregivers do you have?
-- Do you currently live with any of your caregivers?
-- Does your caregiver receive benefits from The Program of Comprehensive Assistance for Family Caregivers? 
+
 
 
 ## First Task: [Applying for benefits] - 15 minutes
@@ -78,7 +94,7 @@ In general we want to sit back and watch them, but if they hesitate you can say 
 
 Great. A few last questions:
 
-- Where you able to accomplish what you set out to do today? 
+- Were you able to accomplish what you set out to do today? 
 - What did you think of the overall experience in completing this form?
 - What worked well?
 - Any questions for me?
