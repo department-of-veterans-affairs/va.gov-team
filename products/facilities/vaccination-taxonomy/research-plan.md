@@ -34,17 +34,31 @@ The Facilities and VAOS teams need better understanding of the process for searc
 
 ## Participants (Preliminary - in Progress)
 
-- Primary criteria
-- (Optional) Secondary criteria 
-- Number of participants who complete the sort should be at least 20. 
-  - Past unmoderated studies have experienced a high abandonment rate, so the number of participants recruited should be double (40), using multiple emails to reach the total number recruited. 
+**Primary Criteria**
+- Be a Veteran, active duty service member, reservist, or national guard member.
+- Enrolled in VA health care
+**Secondary Criteria**
+At least:
+8 participants living in a rural or remote area
+4 participants that do not have a college degree
+4 females
+2 participants of color
+2 participants 35 or under
+2 participants 36 - 45
+2 participants 46 - 55
+2 participants 56 or over
+2 participants with cognitive disabilities
+2 participants living in a major metropolitan area
+2 participants with a disability rating of 70% or greater
 
 ## Recruitment Process
-1. Researcher will work with Perigean to draft recruitment email and send out an interest email to Veterans
-3. Veterans respond to the email and receive a link to the sort and code
-4. After the sort, Veteran provides the code in the questionnaire after the sort
-5. Send codes to Perigean every few days
-6. Perigean sends another recruitment email (if needed)
+- Number of participants who complete the sort should be at least 30 to 50. 
+  - Past unmoderated studies have experienced a high abandonment rate, so the number of participants recruited should be double (40), using multiple emails to reach the total number recruited. 
+- Researcher will work with Perigean to draft recruitment email and send out an interest email to Veterans
+- Veterans respond to the email and receive a link to the sort and code
+- After the sort, Veteran provides the code in the questionnaire after the sort
+- Send codes to Perigean every few days
+- Perigean sends another recruitment email (if needed)
 
   
   
