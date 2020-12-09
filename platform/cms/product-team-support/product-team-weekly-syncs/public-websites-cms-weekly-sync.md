@@ -71,7 +71,8 @@ TBD
 
 - CMS Sprint 21 scope & progress
   - [Content model documentation for FE devs](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1607363793772/b7f9e809d68ace9c8d75ab649a758ed7653c8461) (Kevin) 
-  - Getting content model to 100% -- progress report. (Kevin)
   - Content entry & editorial experience design... should they go together or not?
+    - followup at 12:30 with John
+- Getting content model to 100% -- progress report. (Kevin)
 - Backlog review for Sprint 22 and beyond
 
