@@ -8,7 +8,6 @@ This document is intended to outline the process for comparing the GraphQL and C
 2. [Tracking Process](#tracking-process)
    1. [Getting Deploy Time](#deploy-time)
    2. [Getting Build Time](#build-time)
-   5. [Custom commands](#custom-commands)
 
 ## Background <a name="background"></a>
 
@@ -36,7 +35,7 @@ Ex: `http://jenkins.vfs.va.gov/job/deploys/job/vets-website-ENVIRONMENT-NAME-GOE
 - [Staging build time trend](http://jenkins.vfs.va.gov/job/deploys/job/vets-website-vagovstaging/buildTimeTrend) (vagovstaging)
 - [Prod build time trend](http://jenkins.vfs.va.gov/job/deploys/job/vets-website-vagovprod/buildTimeTrend) (vagovprod)
 
-On the build time trend page you will see a section titled "Build Time Trend". This section will list all of the deploy times starting from the most recent build. The times listed in the *Duration* column will show the duration of the deploy. This is what we want to add to the spreadsheet under the *Deploy Time* column.
+On the build time trend page you will see a section titled "Build Time Trend". This section lists the most recent deploys in descending order. The times listed in the *Duration* column show the duration of the deploys. This is what we want to add to the spreadsheet under the *Deploy Time* column.
 
 <img width="1237" alt="Screen Shot 2020-12-08 at 7 02 45 PM" src="https://user-images.githubusercontent.com/9042882/101569784-fba30600-3989-11eb-94a6-1cc415cfb963.png">
 
@@ -47,7 +46,7 @@ On the build time trend page you will see a section titled "Build Time Trend". T
 The build time can be found by getting the Build # from the Deploy's Build Time Trend page, and replacing it in the following url:
 `http://jenkins.vfs.va.gov/blue/rest/organizations/jenkins/pipelines/testing/pipelines/vets-website/branches/master/runs/BUILD-NUMBER-GOES-HERE/nodes/97/steps/118/log/?start=0`.
 
-The above link accesses the log of the `build.sh` script that is ran in Jenkins. The log can also be accessed manually by: 
+The above link accesses the log of the [build.sh](https://github.com/department-of-veterans-affairs/vets-website/blob/master/script/build.sh) script that is ran in the `Build` stage of the pipeline. The log can also be accessed manually by: 
 - Visiting the Deploy's Build Time Trend Page and clicking the Deploy's build number
 <img width="1609" alt="Screen Shot 2020-12-09 at 9 35 28 AM" src="https://user-images.githubusercontent.com/9042882/101665997-83c4f200-3a02-11eb-8580-2d38c3dab31b.png">
 
