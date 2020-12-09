@@ -1,5 +1,1 @@
-## Syncs
-
-[Public Websites team](public-websites-cms-weekly-sync.md) 
-
-[Facilities / VAMC upgrade team](facilities-vamc-cms-weekly-sync.md)
+Ths folder contains agendas and notes for meetings with various product teams. Ideally, product-oriented decisions will be logged in the relevant VFS product folders. 
