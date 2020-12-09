@@ -95,6 +95,8 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 > "I mean to be honest this covers the main appointments, appointments, messages, prescription refills, accessing the medical history is very useful because you have to click a lot of the times and having it there is important. I can tell you there’s nothing more stressful then click on different tabs to find the medical history but having it there easy to access is useful.
 
+> "They both met them (expectations} by providing all information and being readable. I don’t have a problem with either one."
+
 **2. Users do not expect to see *all* their information on an overview page - they want to see any time-sensitive information or action items and all other details can live on a separate page.**. All users understood that this was just an overview page and said it would be okay if more information lived on a separate page.  Many participants mentioned that 
 
 > "As it relates to the updates, I would hope to see information that is time sensitive be first. There are explanation marks that are important but that is more of 'hey, look at this, it is important', but it's not in an order that I feel would be conducive if you have multiple notification if they have been checked. Having the ones with explanation marks or prioritized in a way that is the most important to the person or the doctor first."
