@@ -1,4 +1,4 @@
-Research Plan for BaM2, Financial Status Report (FSR), December 2020
+Research Plan for BaM2, Financial Status Report (FSR), January 2021
 ====================================================================
 
 As a designer I need to create a research plan to share with my team. (This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.)
@@ -57,11 +57,11 @@ Method
 
 **1.  What method of research are you planning?**
 
-Remote moderated qualitative interviews and task-based usability testing on high fidelity prototypes
+Remote moderated qualitative interviews and task-based usability testing using the unauthenticated version of the form in staging 
 
 **2.  Why this method? How does this methodology help you answer your research questions?**
 
-We're using moderated qualitative interviews to understand our user's  thoughts and experiences navigating VA-related repayments. We're conducting task-based usability testing on a UXPin prototype to both determine whether or not the form's flow is intuitive and uncover areas of improvement. 
+We're using moderated qualitative interviews to understand our user's  thoughts and experiences navigating VA-related repayments. We're conducting task-based usability testing on an unauthenticated version of the form in staging to both determine whether or not the form's flow is intuitive and uncover areas of improvement. Much of the form's functionality can't be properly tested using a prototype, so we have decided to test in staging. This will also allow us to expand our recruitment to participants that use assistive technology.
 
 **3.  Where are you planning to do your research? If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)**
 
@@ -69,7 +69,7 @@ Online Zoom meetings
 
 **4.  What will you be testing? (Design mocks, card sort, prototype, page, content, etc.)**
 
-UXPin prototype 
+Unauthenticated form in staging
 
 **5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)**
 
@@ -96,11 +96,11 @@ This criteria is necessary to conduct the study. 
 
 -   Please confirm participants have Zoom downloaded prior to the session and they know how to screen share
 
--   For this session, we are **unable  to include** those who use assistive technology, such as screen readers (JAWS, NVDA, VoiceOver, and ChromeVox).
+-   For this session, we are **able to include** those who use assistive technology, such as screen readers (JAWS, NVDA, VoiceOver, and ChromeVox).
 
--   For this session, we are **unable  to include** people with significant vision loss.
+-   For this session, we are **able  to include** people with significant vision loss.
 
--   For this session, we are **unable to include** people who use magnification tools.
+-   For this session, we are **able to include** people who use magnification tools.
 
 **Secondary criteria**
 
@@ -126,16 +126,18 @@ This criteria contains nice-to-haves that creates a diverse participant pool. �
 
 -   At least one non-native English speaker
 
+-   At least one person who uses assistive technology (AT), such as specialized keyboards, switches, and/or hearing aids
+
 When?
 -----
 
 **1.  Timeline: What dates do you plan to do research?**
 
-December xx - xx, 2020
+January xx - xx, 2021
 
 **2.  Prepare: When will the thing you are testing be ready?**
 
-December 16th at the latest
+TBD
 
 **3.  Length of Sessions: How long do you estimate each session will be?** 
 
@@ -145,19 +147,19 @@ About 1 hour
 
 **4.  Availability:** If applicable, when would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S. Specify how much time you want between sessions, if any.
 
--  December xx: 9:30am - 5:00pm EST
+-  January xx: 9:30am - 5:00pm EST
 
--  December xx: 9:30am - 5:00pm EST
+-  January xx: 9:30am - 5:00pm EST
 
--  December xx: 9:30am - 5:00pm EST
+-  January xx: 9:30am - 5:00pm EST
 
--  December xx: 9:30am - 5:00pm EST
+-  January xx: 9:30am - 5:00pm EST
 
--  December xx: 9:30am - 5:00pm EST
+-  January xx: 9:30am - 5:00pm EST
 
 **5.  Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
 
-September 8th: 12:30pm - 1:30pm EST with Riley Orr (<riley@amida.com>), Rebecca Walsh (<rebecca.walsh@adhocteam.us>), and Brad Conley (<bconley@governmentcio.com>)
+TBD with Riley Orr (<riley@amida.com>), Rebecca Walsh (<rebecca.walsh@adhocteam.us>), and Brad Conley (<bconley@governmentcio.com>)
 
 Team Roles
 ----------
