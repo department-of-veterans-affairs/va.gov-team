@@ -73,6 +73,15 @@ These sets of errors are related to the Javascript TypeError class from the fetc
   
 - [SSOe error: The operation couldn’t be completed. Software caused connection abort](http://sentry.vfs.va.gov/organizations/vsp/issues/1037/?project=3&project=4&query=assigned%3A%23vsp-identity+level%3Aerror+message%3A%22SSOe+error%3A%22&statsPeriod=14d)
   - Notes: ....
+  
+- [SSOe error: Couldn't resolve host name](http://sentry.vfs.va.gov/organizations/vsp/issues/6370/?project=3&project=4&query=is%3Aunresolved+assigned%3A%23vsp-identity+level%3Aerror+message%3A%22SSOe+error%3A%22&statsPeriod=14d)
+  - Notes: ....
+  
+- [SSOe error: Connection closed](http://sentry.vfs.va.gov/organizations/vsp/issues/10303/?project=3&project=4&query=is%3Aunresolved+assigned%3A%23vsp-identity+level%3Aerror+message%3A%22SSOe+error%3A%22&statsPeriod=14d)
+  - Notes: ....
+  
+  - [SSOe error: The operation couldn’t be completed. net::ERR_NETWORK_IO_SUSPENDED](http://sentry.vfs.va.gov/organizations/vsp/issues/6556/?project=3&project=4&query=is%3Aunresolved+assigned%3A%23vsp-identity+level%3Aerror+message%3A%22SSOe+error%3A%22&statsPeriod=14d)
+  - Notes: ....
 
 ### Notes
    - [Fetch library](https://github.com/department-of-veterans-affairs/vets-website/blob/7581fd3928c70a379abcd703b6bbbe5db761bdb1/src/platform/utilities/sso/keepAliveSSO.js#L15)
