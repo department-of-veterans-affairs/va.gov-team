@@ -39,6 +39,7 @@
 
 1. Training
    1. Request Facility info change link and expected turnaround time - https://vaww.va.gov/WEBCOM/VAMC_Facility_Location_Updates.asp
+   2. Should there be a character limit on system banner alerts?
 1. User administration
 1. VHA meeting Dec 9 agenda
 1. Dual state and product launches
