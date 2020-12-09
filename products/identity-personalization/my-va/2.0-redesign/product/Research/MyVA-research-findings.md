@@ -42,7 +42,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 - What information is important for them to see first?
 - What information related to health care, claims and applications/benefits do users want to see?
 - Is any information missing on the dashboard?
-- Do users expect to see more information on a desktop view? (*note: we did not test this in this study)
+- Do users expect to see more information on a desktop view? (*note: we did not test this in this study*)
 - How do people think the new dashboard compares to the current MyVA?
 - What updates are most important to users?
 - Do people want to see all of their most recent updates?
@@ -61,7 +61,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 ## Key Findings
 
-*Note: Reference Version A and Version B at the bottom of this document.
+*Note: Both prototypes can be referenced at the bottom of this document (A and B)*
 
 ### Overall
 
