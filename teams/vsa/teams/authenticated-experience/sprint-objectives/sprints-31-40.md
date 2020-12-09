@@ -395,13 +395,11 @@ Designer #2 (designer #1 can help with this once the write-up is done):
 
 ### VA Profile notification preferences
 
-**PM**
-
-- Hold platform kickoff (maybe)
-
 **BE**
 
+- Meet with Terry
 - Technical discovery
+- Start implementation, depending on how much discovery is needed and convos with Terry
 
 ## Sprint 39 (1/13 – 1/26)
 
@@ -419,7 +417,15 @@ Designer #2 (designer #1 can help with this once the write-up is done):
 
 - Continue FE build
 
-**Dev**
+### VA Profile notification preferences
+
+**PM**
+
+- Hold platform kickoff (maybe)
+
+**BE**
+
+- Start/Continue implementtion
 
 ## Sprint 40 (1/27 – 2/9)
 
