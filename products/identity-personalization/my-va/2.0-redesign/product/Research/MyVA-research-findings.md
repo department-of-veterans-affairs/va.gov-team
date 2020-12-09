@@ -42,7 +42,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 - What information is important for them to see first?
 - What information related to health care, claims and applications/benefits do users want to see?
 - Is any information missing on the dashboard?
-- Do users expect to see more information on a desktop view?
+- Do users expect to see more information on a desktop view? (*note: we did not test this in this study)
 - How do people think the new dashboard compares to the current MyVA?
 - What updates are most important to users?
 - Do people want to see all of their most recent updates?
@@ -61,9 +61,11 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 ## Key Findings
 
+*Note: Reference Version A and Version B at the bottom of this document.
+
 ### Overall
 
-1. Users preferred whatever prototype they saw first. As far as completing tasks efficiently - there was no clear 'winner'. Users were easily able to complete tasks/find information in both versions. 
+1. Users preferred the prototype they saw first. As far as completing tasks efficiently - there was no clear 'winner'. Users were easily able to complete tasks/find information in both versions. 
 2. Users do not expect to see *all* their information on an overview page - they want to see any time-sensitive information or action items and all other details can live on a separate page.
 3. Users found the information provided in the updates and other sections of the prototypes to be redundant.
 4. Users did not understand the hierarchy of the information shown in the updates.
@@ -72,14 +74,14 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 ### Claims & appeals
 
 1. Users easily understood the placement and link of the disability rating.
-2. Users are looking for any status changes to claims, all other information can live on a separate page. 
+2. Users are looking to see any status changes to their claims. 
 
 ### Health care
 
 1. Users would like to see what type of healthcare they are enrolled in (vision, dental, etc.).
 2. Participants wanted to see the facility that new messages were from, as well as the doctor's name. 
-3. Users wanted to see additional details concerning their appointments - specifically location details and type of appointment (dermatology etc.).
-4. Users were confused by the verbiage 'prescription refills' - they didn't know if it was currently filled or if they needed to take action
+3. Users wanted to see additional details concerning their appointments - specifically location details (i.e. address, telehealth etc) and type of appointment/doctor (i.e. dermatology, primary care etc).
+5. Users were confused by the verbiage used in the prescriptions section.
 
 ### Benefit applications
 
@@ -93,28 +95,33 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 > "It all makes sense to me, it makes more sense than what we got right now, this is going to be easier to find out things. It all seems to be right here."
 
-> "I mean to be honest this covers the main appointments, appointments, messages, prescription refills, accessing the medical history is very useful because you have to click a lot of the times and having it there is important. I can tell you there’s nothing more stressful then click on different tabs to find the medical history but having it there easy to access is useful.
+> "I mean to be honest this covers the main things. Appointments, messages, prescription refills, accessing the medical history is very useful because you have to click a lot of times and having it there is important. I can tell you there’s nothing more stressful then click on different tabs to find the medical history but having it there easy to access is useful.
 
-> "They both met them (expectations} by providing all information and being readable. I don’t have a problem with either one."
+> "They both met my expectations by providing a lot of information and being readable. I don’t have a problem with either one."
 
-**2. Users do not expect to see *all* their information on an overview page - they want to see any time-sensitive information or action items and all other details can live on a separate page.**. All users understood that this was just an overview page and said it would be okay if more information lived on a separate page.  Many participants mentioned that 
+**2. Users do not expect to see *all* their information on an overview page - they want to see any time-sensitive information or action items and all other details can live on a separate page.**. All users understood that this was just an overview page and said it would be okay if more information lived on a separate page.  All participants easily understood that the information shown was not all their information, and in order to see specific details they'd have to leave the page.
 
 > "As it relates to the updates, I would hope to see information that is time sensitive be first. There are explanation marks that are important but that is more of 'hey, look at this, it is important', but it's not in an order that I feel would be conducive if you have multiple notification if they have been checked. Having the ones with explanation marks or prioritized in a way that is the most important to the person or the doctor first."
 
+> "I like it a lot. It is straight and to the point, not to much writing or reading. It provides the ability to access important information, but not straight when I access the page so I can go somewhere private to access may medical information."
 
-**3. Users found the information provided in the updates and other sections of the prototypes to be redundant.** There was some confusion about the information architecture - users didn't know what information was the most 'important' on the page.
+**3. Users found the information provided in the updates and other sections of the prototypes to be redundant.** There was some confusion about the information architecture - users didn't know what information was the most important on the page and were confused by updates being pulled out of subcategories.
 
 > "I like that you have the updates in a different color but I think they should be under the subcategory."
 
 > "I would have the appointments, messages, prescriptions and the have the grey boxes under that then maybe the upcoming appointments. You see the grey boxes then these upcoming appointments, message, and prescriptions. It is a little redundant seeing it this way. This is kind of like a red flag without a flag, they are the important things."
 
-> " It seems redundant because there is one claim and then you can go to recent claims, why would we need to go to recent claim if we can go to overview and see the same infomration we don’t need all the other stuff if we can go to overview.
+> " It seems redundant because there is one claim and then you can go to recent claims... why would we need to go to recent claim if we can go to overview and see the same information? We don’t need all the other stuff if we can go to an overview.
 
-> "The grey screens are redundant to the blocks about the appointments, messages and prescriptions. I don’t know if the grey boxes will do anything differently than going straight to the blocks."
+> "The grey boxes (updates) are redundant to the blocks about the appointments, messages and prescriptions. I don’t know if the grey boxes (updates) will do anything differently than going straight to the blocks."
 
-**4. Users did not understand the hierarchy of the information shown in the updates.** Users did not understand how the updates were being displayed - chronological, level of urgency, etc. Participants mentioned that the most important updates to see are messages from their doctor, any changes in appointments or upcoming appointments.  Claim status changes are important to see, but are often not time-sensitive so they preferred to have those updates lower on the page.
+**4. Users did not understand the hierarchy of the information shown in the updates.** Users did not understand how the updates were being displayed (chronological, level of urgency, etc). Participants mentioned that the most important updates to see are messages from their doctor, any changes in appointments or upcoming appointments.  Claim status changes are important to see, but are often not time-sensitive so they preferred to not have those updates at the top of the page.
 
 > "The 4 new updates... if you look at the dates, how are they ordered? Are they by section? Or are they by date? I am not really sure."
+
+> "I am not sure if they are in order due to importance or not, but just looking at it at face value it is information that is important... but it's kind of confusing."
+
+> "I want to see the messages from the provider and the upcoming appointments. The claim updates aren’t as important because they are not as time sensitive as upcoming appointments and messages."
 
 **5. Overall, users said they would use the overview page and would find it useful.** Participants had very positive feedback on both prototypes, specifically mentioning that they didn't have to login to multiple places to see an overview of their information. 
 
@@ -132,7 +139,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 > "I see my name, and current rating which is cool because I keep forgetting to look at mine."
 
-**2. Users are looking to see any status changes to their claims.** Participants are looking to see more information than what is shown on the overview currently, specifically title and date - all other details can live on a separate page.  Users mentioned that a smaller amount of information would still work for them as long as they could easily access their details.
+**2. Users are looking to see any status changes to their claims.** Participants are looking to see more information than what is shown on the overview currently, specifically title and date of the claim - all other details can live on a separate page.  However, users mentioned that a smaller amount of information would still work for them as long as they could easily access their details.
 
 > "...maybe instead of it saying 4 claims in progress, have it say which claim such as TBI, Tinnitus, or whatever or by date."
 
@@ -143,9 +150,11 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 ### Health care
 
-**1. Users would like to see what type of healthcare they are enrolled in (vision, dental, etc.).** Participants also wanted clarity about the *type* of healthcare being shown (i.e. VA healthcare vs another provider). 
+**1. Users would like to see what type of healthcare they are enrolled in (vision, dental, etc).** Participants also wanted clarity about the *type* of healthcare being shown (i.e. VA healthcare vs another provider). 
 
 > "Maybe list the type of healthcare that are able to have such as vision and dental since they are not a given."
+
+> "'Enrolled since' is okay, but if I could see what kind of insurance I am in enrolled in, that would be great."
 
 **2. Participants wanted to see the facility that new messages were from, as well as the doctor's name.** There was frustration around not recognizing or knowing who was sending the message without an additional identifier. Otherwise, users were fine with the information shown. (Sent from, date, subject) Participants also mentioned wanting the ability for the doctor to flag a message if it's urgent or important.
 
@@ -153,7 +162,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 > "...if the doctor has an important one flag it with a red flag and label it you have an important message from your doctor."
 
-**3. Users wanted to see additional details concerning their appointments - specifically location details (i.e. address, telehealth etc) and type of appointment/doctor (i.e. dermatology, primary care etc).**. Many users mentioned that appointments are a point of frustration in general. There is not currently enough information being shown to be confident they are going to the right place - many users said they always call ahead of time or show up early to double check.  Otherwise, users were fine with the information shown. (appointment type, date, time, phone number)  
+**3. Users wanted to see additional details concerning their appointments - specifically location details (i.e. address, telehealth etc) and type of medical practice (i.e. dermatology, primary care etc).**. Many users mentioned that appointments are a point of frustration in general. There is not currently enough information being shown to be confident they are going to the right place - many users said they always call ahead of time or show up early to double check.  Otherwise, users were fine with the information shown. (appointment type, date, time, phone number)  
 
 > "I don’t like how it just says va appointment cancelled, it should say who it was with and where it was."
 
@@ -162,8 +171,6 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 > "I like that but give timeframes. If it is a week I am not tracking 4 in the next week but in the next month."
 
 > "A lot of times I don’t get the appointment or I forget to write it down so I have to call to see what it is for it would be nice to have the date, location, who its with and what its for. Something like that would be super super nice."
-
-"Who, What, Where, how quote"
 
 **5. Users were confused by the verbiage used in the prescriptions section.** Multiple participants were confused by 'prescription refills' - they didn't know if it was currently filled or if they needed to do anything so their prescription would be refilled. There was also confusion about where the prescription would be going if it was filled. However, all participants were okay if these details lived on a separate page.
 
@@ -185,7 +192,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 ## Additional Insights
 
-1. Users had a wide range of titles for this page including: Vital information, MyVA, My dashboard
+1. Users had a wide range of titles for this page including: Vital information, MyVA, My dashboard, My landing page
 2. Users mentioned things that we may be able to implement in the future including:
 - scheduling C&P exams
 - tracking prescription packages
@@ -201,21 +208,25 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 4. Users thought that the benefit applications section and claims and appeals section should live together or closer together.
 5. Users mentioned that they would like to see a 'wellness' tab - with diet and exercise recommendations.
 
-
->I forgot to mention under healthcare there should be a
-tab for wellness. Like the dash diet or how to lose weight type of thing.
-People like to click on things to explore. Even if it may not pertain to
-them if they click on something for wellness and it says how to lose
-more weight, this is our move program. They may be interested in
-signing up for it.
-
 ## Recommendations
-Put together initial recommendations here based on your findings. Review with your team, then edit as needed.
+
+1. Pursue a direction that shows users set information about their benefits/health care each time they come to the site to reduce the redundancy of information shown.
+2. Compile all 'updates' into each specific subcategory instead of having a dedicated 'updates' section.
+3. Add some more information in each section where possible. The minimum is outlined below.
+  - Claims needs title, date and status
+  - Messages needs sent from (name), sent from (clinic), date, subject
+  - Appointments needs appointment type, medical practice type, location, location details  date, time, contact information
+4. Work with copy to update verbiage around prescriptions and 'Go to all' links.
 
 ## Next Steps
-Next steps here
+
+1. Update all mobile wireframes
+2. Create desktop versions
+3. Update UI design on all versions
+4. Test again
 
 ## Appendix
+
 ### Conversation guide
 
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-conversation-guide.md
@@ -229,6 +240,10 @@ https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/produc
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/assets/My%20VA%20dashboard%20study%20notes.xlsx
 
 ### Pages and applications used
+
+![Version A](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/assets/MyVA%20Redesign%20A.png)
+
+![Version B](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/assets/MyVA%20Redesign%20B.png)
 
 [Prototype A](https://vsateams.invisionapp.com/share/EDZFDJ7UWTC#/437719085_myVA_Mobile_A)
 
