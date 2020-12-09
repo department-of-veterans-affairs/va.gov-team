@@ -34,7 +34,6 @@ The Facilities and VAOS teams need better understanding of the process for searc
 
 ## Participants (Preliminary - in Progress)
 
-#### Criteria
 - Primary criteria
 - (Optional) Secondary criteria 
 - Number of participants who complete the sort should be at least 20. 
