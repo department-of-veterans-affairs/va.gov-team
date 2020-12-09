@@ -22,16 +22,14 @@ VFS teams
 * Reduced modifications to a form pattern 
 * Reduced development time to build a form 
 * Reduced time spent on forms library support 
-* Increased number of contributors to the design system 
+
 
 #### Baseline KPI Values
 
 * Time it takes to build a form (basic form for comparison)
 * Number of support tickets are related forms library 
 * Number of one-time use configurations 
-* Number of new contributions to the design system 
 
-  
 
 ---
 
@@ -48,8 +46,9 @@ VFS teams
 _Describe, in a few sentences and/or bullet points, what you plan to build, and how it will solve the problem. Some questions to think about:_
 
 - We will build a prototype of a new forms library
-- We will make the new forms library modular so that it is more flexible
-- 
+- We will parterner with  VFS team who is building a form and work with them to build a prototype of a single form
+- Working with a VFS team who will use the prototype to build a form will help us determine the feasibility of a new system. Will it be better than existing system 
+
 
 _For non-trivial technical solutions, an [engineering design doc](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/design-docs) should be written to deeply explain **How** this product will be built._
 
