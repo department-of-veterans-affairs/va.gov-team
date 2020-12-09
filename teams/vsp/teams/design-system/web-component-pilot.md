@@ -23,23 +23,21 @@ How might we create a technically agnostic approach to our design system and the
 
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Create 2-3 web components that are high use components 
 
 ## Undesired User Outcomes
 
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Be able to decide if it would or wouldn’t be worth building more web components 
 
 ## Undesired Business Outcomes
 
 
 ---
 ## Measuring Success
-
+-  Create 2-3 web components that are high use components
 
 ### Key Performance Indicators (KPIs)
 * Reduced time to develop components
@@ -47,14 +45,13 @@ How might we create a technically agnostic approach to our design system and the
 
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+-  Identify 2 to 3 high use components 
 
 ### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
 
 - Objective:
-  - Key result: 
-  - Key result: 
+  - Key result: Create 2-3 web components that are high use components to see if that benefits work of both CMS teams and VFS teams. 
+  - Key result: Be able to decide if it would or wouldn’t be worth building more web components 
 
 
 ---
