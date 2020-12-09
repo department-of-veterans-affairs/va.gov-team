@@ -9,10 +9,6 @@ This document is intended to outline the process for comparing the GraphQL and C
    1. [Getting Deploy Time](#deploy-time)
    2. [Getting Build Time](#build-time)
    5. [Custom commands](#custom-commands)
-      1. [Mock users](#mock-users)
-      2. [Test data (fixtures)](#test-data)
-      3. [File uploads](#file-uploads)
-      4. [Accessibility](#accessibility)
 
 ## Background <a name="background"></a>
 
@@ -53,10 +49,23 @@ The build time can be found by getting the Build # from the Deploy's Build Time 
 
 The above link accesses the log of the `build.sh` script that is ran in Jenkins. The log can also be accessed manually by: 
 - Visiting the Deploy's Build Time Trend Page
+
 - Clicking the Deploy's build number
+<img width="1609" alt="Screen Shot 2020-12-09 at 9 35 28 AM" src="https://user-images.githubusercontent.com/9042882/101665997-83c4f200-3a02-11eb-8580-2d38c3dab31b.png">
+
 - Clicking the build number of the pipeline that triggered the deploy
+<img width="1609" alt="Screen Shot 2020-12-08 at 7 35 45 PM" src="https://user-images.githubusercontent.com/9042882/101666917-8ffd7f00-3a03-11eb-83f7-dedd6d76c0c9.png">
+
 - Clicking the Open Blue Ocean view
+<img width="1609" alt="Screen Shot 2020-12-08 at 7 35 54 PM" src="https://user-images.githubusercontent.com/9042882/101667310-08644000-3a04-11eb-8c2d-49941e48d551.png">
+
 - Selecting the build environment name under the "Build" stage
 - Opening the third dropdown and clicking "Show complete log"
+<img width="1609" alt="Screen Shot 2020-12-08 at 7 36 20 PM" src="https://user-images.githubusercontent.com/9042882/101667998-dc958a00-3a04-11eb-94bc-54f32c4e89ba.png">
 
-Once you are on the log page, scroll to the bottom of the page to view the content build time. It will be shown on the last line of the log and should read "Done in --s. This is what we want to add to the spreadsheet under the *Build TIme* column for the respective deploy.
+
+Once you are on the log page, scroll to the bottom of the page to view the content build time. It will be shown on the last line of the log and should read "Done in --s." This is what we want to add to the spreadsheet under the *Build TIme* column for the respective deploy.
+```shell
+[2020-12-08T18:09:58.988Z] Build finished!
+[2020-12-08T18:09:59.242Z] Done in 87.95s. # This is the content build time
+```
