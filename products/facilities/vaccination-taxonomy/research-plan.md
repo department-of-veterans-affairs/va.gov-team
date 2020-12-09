@@ -35,10 +35,12 @@ The Facilities and VAOS teams need better understanding of the process for searc
 ## Participants (Preliminary - in Progress)
 
 **Primary Criteria**
+
 - Be a Veteran, active duty service member, reservist, or national guard member.
 - Enrolled in VA health care
 
 **Secondary Criteria**
+
 At least:
 - 8 participants living in a rural or remote area
 - 4 participants that do not have a college degree
