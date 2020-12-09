@@ -5,8 +5,8 @@
 About: In this about section, describe what the error in this page is about. Each error page should use the following to get started with documenting the errors we encounter.
 
 ### Table of Contents
-  * Label Description
-  * [List error names]()
+  * [Label Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/joeniquette-hackathonwriteup-1/teams/vsp/teams/identity/Sentry%20Hackathon%202020/Error%20Buckets/Keepalive_errors.md#label-description)
+  * [List error names](https://github.com/department-of-veterans-affairs/va.gov-team/blob/joeniquette-hackathonwriteup-1/teams/vsp/teams/identity/Sentry%20Hackathon%202020/Error%20Buckets/Keepalive_errors.md#errors)
 
 
 ## Label Description 
