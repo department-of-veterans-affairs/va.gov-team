@@ -20,19 +20,16 @@ VFS teams
 
 ### Key Performance Indicators (KPIs)
 
+* Reduced modifications to a form pattern 
 * Reduced development time to build a form 
 * Reduced time spent on forms library support 
-* Reduced modifications to a form pattern 
 * Increased number of contributors to the design system 
 
 #### Baseline KPI Values
 
 * Time it takes to build a form (basic form for comparison)
-
 * Number of support tickets are related forms library 
-
 * Number of one-time use configurations 
-
 * Number of new contributions to the design system 
 
   
@@ -81,7 +78,6 @@ _Link to the following materials as relevant._
 
 - VFS-facing Product README (in `/platform`)
 - Release Plan
-- Any product health or success dashboards
 
 ### Communications
 
