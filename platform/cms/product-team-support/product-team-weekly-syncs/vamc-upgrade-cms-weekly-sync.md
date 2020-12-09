@@ -24,14 +24,12 @@
   
 ## Wednesday Dec 16 2:30pm ET
  
-### Campaign landing page MVP
-
-Migration
-VAMC Scaffolding
-Training
-User administration
-Dual state and product launches
-How we work
+1. Migration
+1. VAMC Scaffolding
+1. Training
+1. User administration
+1. Dual state and product launches
+1. How we work
 
 ### Other? 
  
@@ -39,10 +37,10 @@ How we work
 
 ### How we work
 
-Training
-User administration
-VHA meeting Dec 9
-Dual state and product launches
-Migration
-VAMC Scaffolding
-How we work
+1. Training
+1. User administration
+1. VHA meeting Dec 9 agenda
+1. Dual state and product launches
+1. Migration
+1. VAMC Scaffolding
+1. How we work
