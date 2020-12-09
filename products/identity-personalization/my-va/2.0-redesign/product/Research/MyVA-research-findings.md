@@ -241,7 +241,11 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 
 ### Pages and applications used
 
+VERSION A
+
 ![Version A](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/assets/MyVA%20Redesign%20A.png)
+
+VERSION B
 
 ![Version B](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/assets/MyVA%20Redesign%20B.png)
 
