@@ -7,19 +7,18 @@ assignees: ''
 
 ---
 
-## Definition of done
-- [ ] Incorporate the **Must** feedback, and let us know on this ticket when they are updated mockups to check out 
+## Acceptance criteria
+- [ ] Let VSP know when the **Must** feedback has been incorporated 
 - [ ] Leave any comments for feedback you decide _not_ to take
-
-VFS team please close the ticket once those things are all set. Thank you!
+- [ ] VFS team closes the ticket
 
 ## Thoughts/questions
 
 
 ## Feedback
-- **Must** for if the feedback must be applied
-- **Should** if the feedback is best practice
-- **Consider** for suggestions/enhancements
+- **Must** = the feedback must be applied
+- **Should** = the feedback is best practice
+- **Consider** = suggestions/enhancements
 
 **Must:**
 
