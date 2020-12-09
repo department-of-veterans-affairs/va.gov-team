@@ -13,7 +13,7 @@ Warm-up Questions - 5 minutes
 
 1.
 Before we look at the website, can you tell me a little about yourself?
-My name is Megan, I am 39 years old, a marine veteran 90 percent
+I am 39 years old, a marine veteran 90 percent
 disability mainly for PTSD and MST. Single part3ent with a 15 year old
 with medical issues, I take care of my parents. I don’t do much else
 besides taking care of my family and I am not currently working
