@@ -2,7 +2,7 @@
 
 <details><summary>About this meeting</summary>
 
-- Wednesdays 10am ET 
+- Wednesdays 2:30pm ET 
 - Meeting owner: Clarence Maeng
 - Facilitator: Kevin Walsh
 - Standing agenda: 
@@ -13,6 +13,7 @@
   - Dual state and product launches
   - How we work
   - etc.
+- [Previous agendas in Google Docs](https://docs.google.com/document/d/1Pchj-AHdET4URxAceIqSMvKOPluU3gZfZ6KIP7pCXqs/edit#)  
   
 </details>
 
