@@ -51,57 +51,68 @@ The moderator prompted users with tasks from the conversation guide. Participant
 ## Details of findings
 
 ### 1. Where on VA.gov do users expect to find direct deposit (DD) information?
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Users were given the scenario: "You recently moved and changed banks; you need to update your direct deposit info to have your educational payments sent to your new bank." They were asked to go to VA.gov to find the DD feature.
 
-- Lorem ipsum dolor sit amet
-- Laboris nisi ut aliquip ex ea commodo consequat
-- Dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+- Every participant initially looked at the white quadrants when asked where they expect to find the DD feature
+- Two looked at the Education quadrant; one looked at Disability, and one looked at Records
+- Participants seemed inclined to go toward the last "payment" type mentioned in the prompt; from the examples above: EDU, C&P, and none respectively
+- Two of the three younger users went quickly to log in; they went fairly directly to Profile and found the feature there
+- The other four participants "wandered" a through content pages before finding their way to the DD landing page
+- One user (100% service-connected disability), who had self-described cognitive problems, noted that it would be frustrating for users like them to read through all the text on the content pages looking for the link to the feature
 
 > "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+
+#### Landing page(s)
+- Users who navigated to/or were shown the DD landing page were immediately drawn to the green or blue button directing them to sign-in; none were inclined to scroll or scan the page
+- When prompted to review the screen, users generally admitted they wouldn't read the text; most were looking for an action item
+- Participants who were prompted to scan other content pages skimmed the text (older users), or ignored it (younger participants) and looked for an actionable element
 
 ### 2. How often do users expect to review and/or update their DD information?
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-- Lorem ipsum dolor sit amet
-- Laboris nisi ut aliquip ex ea commodo consequat
-- Dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+- Of the participants who were asked, one said they changed their DD info frequently
+- The others said they (or a spouse) changed it "once" or not at all
+- None of the users asked recalled having to initially set up DD payments
+- There was a generational divide regarding where users would look to find their routing/account numbers: the younger participants would use a bank app or website; the older users said they'd look at a check or their bank statement
 
 > "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.""
 
 ### 3. What barriers prevent users from easily submitting changes to their DD info?
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-- Lorem ipsum dolor sit amet
-- Laboris nisi ut aliquip ex ea commodo consequat
-- Dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+- The most significant hurdle for participants looking to change their DD info was the relative obscurity of the feature described above
+- Every user said the feature itself was easy to use
+- No user encountered any difficulty updating their DD information once they navigated to the prototype
+- One user did not notice the validation error when they entered seven digits for the routing number
+- One user suggested that it might be helpful or "elders" if the bank name appeared once the routing number was entered (rather than after submission)
+- The note regarding bank fraud was universally missed; three participants saw the box only when prompted to scan the page
 
 > "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 
 ### 4. How do users react to the two different "categories" of payments--and having to change them separately?
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-- Lorem ipsum dolor sit amet
-- Laboris nisi ut aliquip ex ea commodo consequat
-- Dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+- Almost all participant accepted that there were two DD features; one explained that it was acceptable since there were two types of payments
+- One user was notably irritated that there were two direct deposit "boxes" and wanted to know why there couldn't be just one
+- Users who were directed to change their EDU payments used the correct feature; participants who were not directed to a particular payment type, went to C&P first
+- Participants generally accepted, and even regarded favorably the "you don't receive this kind of payment" notice
 
 > "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 
 ### 5. What other features do users expect on the DD screen?
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-- Lorem ipsum dolor sit amet
-- Laboris nisi ut aliquip ex ea commodo consequat
-- Dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+- The top improvement cited by participants was a chat-box for inquiries and confirmation
+- Another notable suggestion was to move the "fraud" notice into the boxes themselves; every user initially missed the note about bank fraud
 
 > "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 
 ## Additional insights
-- Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium
-- Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo
-- Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit
-- Sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt
-- Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam 
-- Eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem
+- Almost every participant said they expected further notification that their DD change was made
+- Email and texts were cited as examples for expected confirmation
+- Several users expected a long wait if they needed to call the 800 number with an inquiry
+- Most users felt the DD change would take effect (or should take effect) immediately or soon
+- A pair of participants believed there could be a processing delay of 30 days or a month
 
 ## Recommendations
 1. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium
@@ -117,12 +128,12 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 - Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam 
 
 ## Appendix
-- [Research plan]()
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/usability-testing/dd-edu-research-plan.md)
 
-- [Conversation guide]()
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/usability-testing/dd-edu-convo-guide.md)
 
-- [Prototype used]()
+- [Prototype used](https://preview.uxpin.com/f80ffd0a5433096bc9abd52333b1e60a4ffd745d#/pages/134411565/simulate/no-panels?mode=f)
 
-- [User Flows]()
+- [User Flows](https://xd.adobe.com/view/b1df79ab-e636-4aea-9929-a8ee3d06e2a9-e48c/)
 
 - [Usability matrix]()
