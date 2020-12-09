@@ -6,8 +6,8 @@ This document is intended to outline the process for comparing the GraphQL and C
 1. [Background](#background)
 2. [Metric](#metric)
 2. [Tracking Process](#tracking-process)
-   1. [Getting Build Time](#build-time)
-   2. [Getting Deploy Time](#deploy-time)
+   1. [Getting Deploy Time](#deploy-time)
+   2. [Getting Build Time](#build-time)
    5. [Custom commands](#custom-commands)
       1. [Mock users](#mock-users)
       2. [Test data (fixtures)](#test-data)
@@ -29,7 +29,8 @@ Adding the time of these two stages will give us the total time it takes to buil
 ## Tracking Process <a name="tracking-process"></a>
 
 Because the process of the content build & deploy will change with the build separation work, we will manually track the build and deploy times in a [spreadsheet](https://docs.google.com/spreadsheets/d/1VLLC9JN44fty0_gFTzCXjbGrkKFBTletcDoAi-3Fci0/edit#gid=0).
-### Getting Deploy Time <a name="build-time"></a>
+
+### Getting Deploy Time <a name="deploy-time"></a>
 
 The deploy time can be found by visiting the [Build Time Trend](http://jenkins.vfs.va.gov/job/deploys/job/vets-website-vagovdev/buildTimeTrend) page of the build environment. The same link can be used for all build envirionments, the only change needed is changing the environment in the url. For convenience, the links for each environment are listed below.
 
@@ -39,5 +40,23 @@ Ex: `http://jenkins.vfs.va.gov/job/deploys/job/vets-website-ENVIRONMENT-NAME-GOE
 - [Staging build time trend](http://jenkins.vfs.va.gov/job/deploys/job/vets-website-vagovstaging/buildTimeTrend) (vagovstaging)
 - [Prod build time trend](http://jenkins.vfs.va.gov/job/deploys/job/vets-website-vagovprod/buildTimeTrend) (vagovprod)
 
-On the build time trend page you will see a section titled "Build Time Trend". This section will list all of the deploy times starting from the most recent build. The times listed in the *Duration* column will show the duration of the deploy.
+On the build time trend page you will see a section titled "Build Time Trend". This section will list all of the deploy times starting from the most recent build. The times listed in the *Duration* column will show the duration of the deploy. This is what we want to add to the spreadsheet under the *Deploy Time* column.
 
+<img width="1237" alt="Screen Shot 2020-12-08 at 7 02 45 PM" src="https://user-images.githubusercontent.com/9042882/101569784-fba30600-3989-11eb-94a6-1cc415cfb963.png">
+
+**Note: SOCKS access is needed to view Build Time Trend Page**
+
+### Getting Build time <a name="build-time"></a>
+
+The build time can be found by getting the Build # from the Deploy's Build Time Trend page, and replacing it in the following url:
+`http://jenkins.vfs.va.gov/blue/rest/organizations/jenkins/pipelines/testing/pipelines/vets-website/branches/master/runs/BUILD-NUMBER-GOES-HERE/nodes/97/steps/118/log/?start=0`.
+
+The above link accesses the log of the `build.sh` script that is ran in Jenkins. The log can also be accessed manually by: 
+- Visiting the Deploy's Build Time Trend Page
+- Clicking the Deploy's build number
+- Clicking the build number of the pipeline that triggered the deploy
+- Clicking the Open Blue Ocean view
+- Selecting the build environment name under the "Build" stage
+- Opening the third dropdown and clicking "Show complete log"
+
+Once you are on the log page, scroll to the bottom of the page to view the content build time. It will be shown on the last line of the log and should read "Done in --s. This is what we want to add to the spreadsheet under the *Build TIme* column for the respective deploy.
