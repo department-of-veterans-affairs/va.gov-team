@@ -194,15 +194,15 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 1. Users had a wide range of titles for this page including: Vital information, MyVA, My dashboard, My landing page
 2. Users mentioned things that we may be able to implement in the future including:
-- scheduling C&P exams
-- tracking prescription packages
-- any annual health reminders (i.e. flu shots, physicals)
-- prescription reminders
-- adding appointments to a mobile calendar
-- dependent information
-- payment totals
-- current/pending referrals
-- customizing their personal page
+    - scheduling C&P exams
+    - tracking prescription packages
+    - any annual health reminders (i.e. flu shots, physicals)
+    - prescription reminders
+    - adding appointments to a mobile calendar
+    - dependent information
+    - payment totals
+    - current/pending referrals
+    - customizing their personal page
 
 3. There was confusion around the 'Go to recent updates' link - many participants assumed this would take them to a full overview page, not the specific claim or message etc.
 4. Users thought that the benefit applications section and claims and appeals section should live together or closer together.
@@ -213,9 +213,9 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 1. Pursue a direction that shows users set information about their benefits/health care each time they come to the site to reduce the redundancy of information shown.
 2. Compile all 'updates' into each specific subcategory instead of having a dedicated 'updates' section.
 3. Add some more information in each section where possible. The minimum is outlined below.
-  - Claims needs title, date and status
-  - Messages needs sent from (name), sent from (clinic), date, subject
-  - Appointments needs appointment type, medical practice type, location, location details  date, time, contact information
+    - Claims needs title, date and status
+    - Messages needs sent from (name), sent from (clinic), date, subject
+    - Appointments needs appointment type, medical practice type, location, location details  date, time, contact information
 4. Work with copy to update verbiage around prescriptions and 'Go to all' links.
 
 ## Next Steps
