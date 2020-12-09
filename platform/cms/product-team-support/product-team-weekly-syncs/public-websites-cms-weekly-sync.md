@@ -49,11 +49,24 @@ TBD
  
 ## Wednesday Dec 9 10am ET
 
+### Other? 
+
+- COVID Vaccines
+
 ### How we work
 
 - Process for managing this doc (Kevin)
 - Review intake process for FE and product issues reported via CMS helpdesk. 
 
+### Resources & support
+
+- Beneficiary and non-beneficiary tags
+  - Non-beneficiary tags is in PR, should be out by rest of the week
+  - Beneficiary tags 
+- Homepage FE updates
+  - new issue for CMS: Add a curation boolean to both Audience and Non-beneficiary 
+
+  
 ### Campaign landing page MVP
 
 - CMS Sprint 21 scope & progress
@@ -62,9 +75,3 @@ TBD
   - Content entry & editorial experience design... should they go together or not?
 - Backlog review for Sprint 22 and beyond
 
-### Resources & support
-
-- Beneficiary and non-beneficiary tags
-- Homepage FE updates
-
-### Other? 
