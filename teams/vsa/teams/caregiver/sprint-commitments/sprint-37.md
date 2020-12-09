@@ -21,7 +21,7 @@
 | Status | Points | User story | Notes |
 | ------ | :------: |----------- |------ |
 |        | ? |[Set up Sentry Alerts for 10-10CG in Slack](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16875) |  
-|        | ? |[Add support for new treatment facility changes to 10-10CG schema](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16883)
+|        | ? |[Add support for recent medical facility changes to 10-10CG schema](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16883)
 |        | 5 |[Timestamp research on the 10-10EZ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16876)
 |        | ? |Tech debt: [Remove CARMA::Models::Base for more explicit hard-coded #to_request_payload methods](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16129)
 |        | ? |Tech debt: [Add mocks for Metadata in CARMA::Models::Submission spec](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16130)
