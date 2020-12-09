@@ -37,6 +37,13 @@ This does not include research for Appeals projects, which is stored in differen
 
 - [Research folder](https://docs.google.com/document/d/1Ubm4_fD6y0S-CJ1UgQXuhiZ8-g2KupO7k9gtzRTYIV8/edit?usp=sharing)
 
+#### November 13 - December 7: Community Care Provider Selection Research** 
+*VAOS, Peter Russo*
+
+- 8 Veterans
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/oct-2020-cc-provider-discovery/research-plan-cc-discovery.md)
+- Scheduling, Appointments
+
 #### November 6 - November 20: Community Care Request Manager Research
 *GovernmentCIO, VSA Facilities, Lead researcher: Chris Logan
 
