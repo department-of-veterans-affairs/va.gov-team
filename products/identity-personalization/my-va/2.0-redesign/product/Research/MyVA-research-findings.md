@@ -88,7 +88,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 ### Overall
 
-**1. Users preferred whatever prototype they saw first. As far as completing tasks efficiently - there was no clear 'winner'. Users were easily able to complete tasks/find information in both versions.** 7 out of 8 users preferred the prototype that they interacted with first.
+**1. Users preferred whatever prototype they saw first. As far as completing tasks efficiently - there was no clear 'winner'. Users were easily able to complete tasks/find information in both versions.** 7 out of 8 users preferred the prototype that they interacted with first. All users expressed that it was easy to complete tasks.  There was some confusion about the information architecture - users didn't know what information was the most 'important' on the page. 
 
 **2. Users do not expect to see *all* their information on an overview page - they want to see any time-sensitive information or action items and all other details can live on a separate page.**. All users understood that this was just an overview page and said it would be okay if more information lived on a separate page.
 
