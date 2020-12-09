@@ -48,9 +48,7 @@ The build time can be found by getting the Build # from the Deploy's Build Time 
 `http://jenkins.vfs.va.gov/blue/rest/organizations/jenkins/pipelines/testing/pipelines/vets-website/branches/master/runs/BUILD-NUMBER-GOES-HERE/nodes/97/steps/118/log/?start=0`.
 
 The above link accesses the log of the `build.sh` script that is ran in Jenkins. The log can also be accessed manually by: 
-- Visiting the Deploy's Build Time Trend Page
-
-- Clicking the Deploy's build number
+- Visiting the Deploy's Build Time Trend Page and clicking the Deploy's build number
 <img width="1609" alt="Screen Shot 2020-12-09 at 9 35 28 AM" src="https://user-images.githubusercontent.com/9042882/101665997-83c4f200-3a02-11eb-8580-2d38c3dab31b.png">
 
 - Clicking the build number of the pipeline that triggered the deploy
