@@ -196,10 +196,57 @@ back to the VAgov home page.
 
 ## Inbound Authentication
 
-#### custom
-[talk about difference between force true/false]
+When an user authenticates on another VA app (eg https://www.myhealth.va.gov) using SSOe
+(Note: on MHV a user has the option to authenticate with or without SSOe, so it won't be
+every MHV authenticated user), then redirects over to VAgov, we attempt to auto login
+the user.  We call this [auto login process](#auto-login), inbound authentication. We don't
+share any cookies with SSOe (eauth.va.gov), so from the FE we are unable to detect an
+active/inactive session this way, so in lieu of that the IAM team developed the
+[keepalive endpoint](#keepalive) to return this information.
 
 #### keepalive
+
+The keepalive endpoint, https://eauth.va.gov/keepalive, has been designed to accomplish
+two tasks; a) give VAgov information about the current SSOe session so we can keep the
+two (SSOe and VAgov) sessions in sync and b) to update the TTL on the current SSOe session
+(keep it alive!).  When [invoked](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/utilities/sso/keepAliveSSO.js#L33)
+the endpoint returns an empty payload with a handful of response headers that tell us
+how long the session will be alive for, what CSP (idme, mhv, dslogon) they used to
+authenticate and the transaction id created during authentication.  The latter is
+important to protect against a potential security vulnerability when two users access
+a shared computer.  Just because there is an active SSOe session and an active VAgov
+session, we can't guarantee that the users are the same, by comparing the transaction
+id we can make sure.
+
+#### auto login
+
+After detection of an SSOe session, if the current user is logged out on VAgov, we attempt
+to auto login the user, this starts by redirect the user to `/v1/sessions/custom/new?authn=<type>`.
+This endpoint works similar to those in [outbound authentication](#login-flow), with the
+exception that the SAML request has `forceAuthn` attribute set to "False".  Since an SSOe
+session has already been detected, and we want to reuse that to create a VAgov session,
+setting this value to False will allow SSOe to return us a cached SAML Response, but
+**only if the authn context matches**.  In other words, if the user originally authenticated
+with DSLogon credentials, but VAgov sends a request to authenticate the user with ID.me
+credentials, then SSOe will ignore the current session and send the user to ID.me to login.
+Thus we use the authn value returned by the [keepalive endpoint](#keepalive) as a query
+parameter to construct a SAML request that matches.  For outbound authentication we always
+set the `forceAuthn` value to "True" as we want to force the user to enter their credentials.
+In some cases, the user will have already logged into SSOe, but because of
+[missing data](http://sentry.vfs.va.gov/organizations/vsp/issues/418/) we can't auto login
+the user.  In this case its important to pass the `forceAuthn` parameter to make sure the
+user re-enters their credentials and are able to fully authenticate with Vagov.
+
+#### auto logout
+
+To fully synchronize sessions between SSOe and VAgov, we need to both auto login and logout
+the user.  For example if the user logs in at VAgov, then goes to myhealthevet.va.gov and
+logs out on that page.  We need to make sure that the next time a user comes back to VAgov
+(could be a different user if at a shared computer) we run an auto log out.  This process
+is very similar to the above [auto login](#auto-login) functionality in that we use JS and
+the [keepalive endpoint](#keepalive) to detect a session mismatch, but in this case we
+redirect the user to `/v1/sessions/slo/new` to initiate the logout process in the same way
+that a user would [logout manually](#logout-flow).
 
 
 # Debugging SAML Responses
