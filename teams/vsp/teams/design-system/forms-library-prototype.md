@@ -2,7 +2,7 @@
 
 ## Overview
 
-Currently the forms library tries to do everything and is not flexible which results in work arounds or hacks to accommodate other use cases. The Design System Team would like to work on a prototype of a new forms library that could make it easier and faster to build forms. 
+Currently the forms library tries to do everything and is not flexible which results in work arounds or hacks to accommodate other use cases. The Design System Team would like to work on a prototype of a new forms library to find out if we could make a forms library that is easier to use resulting in forms being built more quickly. 
 
 
 
