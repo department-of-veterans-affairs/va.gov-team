@@ -18,10 +18,10 @@ The moderator prompted users with tasks from the conversation guide. Participant
 - Six Veterans total; five men, one woman
 - Age range was 25 to 64
 - All participants had a VA disability rating; three had ratings of 90% or higher
-- Four participants live in or near major metropolitan areas; two in rural or outlying areas
-- Participants live across the U.S. ranging from New York to California.
-- Educational attainment ranged from some college to two participant having master's degrees
-- All receive/received direct deposit payments from VA
+- Four participants live in or near major metropolitan areas; two live in rural or outlying areas
+- Participants live across the continental U.S., ranging from New York to California.
+- Educational attainment spanned "some college" to master's degrees
+- All receive/received direct deposit payments from VA, some received both C&P and EDU payments
 
 #### Research questions
 - Where on VA.gov do users expect to find direct deposit (DD) information?
@@ -38,11 +38,15 @@ The moderator prompted users with tasks from the conversation guide. Participant
 - Users may want more information about the DD change process
 
 ## Key findings
-1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+1. All participants looked for DD in the four white quadrants on the VA.gov home page. Two (notably younger users) believed the feature would be part of a user profile and signed-in. The rest looked through content pages before finding a DD link.
 
-2. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+2. Participants don't change their DD info often. Some recalled having to make an update, but no specifics; one user cited frequent changes.
 
-3. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+3. The only significant issue preventing users from easily changing ther DD info is finding the DD feature.
+
+4. Most users accepted, without comment, that there were two DD payment boxes. One participant found managing two different DD payment details frustrating.
+
+5. Users were gentrally satisfied with the DD feature's functionality; when prompted, a significant number suggested a chatbox would be a helpful adition.
 
 ## Details of findings
 
