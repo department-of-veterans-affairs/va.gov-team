@@ -3,7 +3,7 @@
 - **Host**: Joe Niquette
 - **Date**: 12/10/2020
 - **Time**:
-  - 1200 to 1600 ET (0900-1300 PT) on 11/18/2020
+  - 1200 to 1700 ET (0900-1400 PT) on 13/10/2020
 - **Location**: Virtual/Zoom
 - **Attendee information**: [Join Zoom Meeting](https://zoom.us/j/97448132175)
 
