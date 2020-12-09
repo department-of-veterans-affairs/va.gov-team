@@ -76,8 +76,7 @@ _Include before/after screenshots, if applicable. Delete this section otherwise.
 
 _Link to the following materials as relevant._
 
-- VFS-facing Product README (in `/platform`)
-- Release Plan
+- Release Plan - https://app.zenhub.com/workspaces/vsp-design-system-5f8de67192551b0012ebb802/issues/department-of-veterans-affairs/va.gov-team/17162
 
 ### Communications
 
