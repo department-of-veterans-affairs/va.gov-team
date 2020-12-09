@@ -36,7 +36,7 @@
 | Status | Points | User story | Notes |
 | ------ | :------: |----------- |------ |
 |        | 2 |[Support 10-10EZ address implementation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15159) |  
-|        | 13|[Moderate and analyze findings from 10-10CG Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16873) |
+|        | 13|[Moderate and synthesize findings from 10-10CG Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16873) |
 |        | 13|[Stretch: Start design/research on POA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16452)
 
 
