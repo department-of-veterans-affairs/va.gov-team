@@ -21,8 +21,8 @@ This is WIP and may evolve based on user research and technical findings.
 ## Browse by audience section
 - Audiences are listed alphabetically.
 - Audience labels are based on the {beneficiary} and {non-beneficiary} audience tag meta data in the CMS.
-- Display audience only when RS content in the CMS has that audience checked. 
-  -  I.e., __If NO articles are using that audience tag__, do not display as an audience in the Browse by audience section.
+- Display the audience link only when an RS article is using that tag and content author has enabled it for displaying on the RS landing page. _{updated 12/9 per CMS weekly 12/9 check-in}_
+  -  I.e., __If NO articles are using that audience tag__, do not enable it for RS homepage "Browse by audience" section. {This is manual content process for now.} 
 - On default show up to 5 audience lables. 
 - When there are more than 5, display the "Show more" expander link. On clicking "Show more," display all of the remaining audiences that articles have enabled in the CMS. 
 - When a user clicks on an audience lable in this section, they should go to the "All articles tagged: {tag lable}" page. 
