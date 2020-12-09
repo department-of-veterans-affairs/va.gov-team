@@ -42,11 +42,11 @@ The moderator prompted users with tasks from the conversation guide. Participant
 
 2. Participants don't change their DD info often. Some recalled having to make an update, but no specifics; one user cited frequent changes.
 
-3. The only significant issue preventing users from easily changing ther DD info is finding the DD feature.
+3. The only significant issue preventing users from easily changing their DD info is finding the DD feature.
 
 4. Most users accepted, without comment, that there were two DD payment boxes. One participant found managing two different DD payment details frustrating.
 
-5. Users were gentrally satisfied with the DD feature's functionality; when prompted, a significant number suggested a chatbox would be a helpful adition.
+5. Users were generally satisfied with the DD feature's functionality; when prompted, a significant number suggested a chatbox would be a helpful addition.
 
 ## Details of findings
 
@@ -68,7 +68,7 @@ Users were given the scenario: "You recently moved and changed banks; you need t
 - Participants who were prompted to scan other content pages skimmed the text (older users), or ignored it (younger participants) and looked for an actionable element
 
 ### 2. How often do users expect to review and/or update their DD information?
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Only one user mentioned multiple changes to their DD info. Most couldn't remember how and when DD was set up, not when they last changed their bank info.
 
 - Of the participants who were asked, one said they changed their DD info frequently
 - The others said they (or a spouse) changed it "once" or not at all
@@ -78,7 +78,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 > "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.""
 
 ### 3. What barriers prevent users from easily submitting changes to their DD info?
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Participants navigated the DD page easily once they arrived. Most had a favorable view of the presentation and functionality of the feature.
 
 - The most significant hurdle for participants looking to change their DD info was the relative obscurity of the feature described above
 - Every user said the feature itself was easy to use
@@ -90,7 +90,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 > "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 
 ### 4. How do users react to the two different "categories" of payments--and having to change them separately?
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Most participants took the two separated DD forms in stride. One suggested it was expected because the payments come from different programs. One user, however, took exception and was state that just one destination for DD payment was needed.
 
 - Almost all participant accepted that there were two DD features; one explained that it was acceptable since there were two types of payments
 - One user was notably irritated that there were two direct deposit "boxes" and wanted to know why there couldn't be just one
@@ -100,9 +100,10 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 > "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 
 ### 5. What other features do users expect on the DD screen?
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Participants generally felt the DD feature was simple and straight-forward.
 
 - The top improvement cited by participants was a chat-box for inquiries and confirmation
+- A few participants noted the View Payment History link and said it would be useful for checking payments and bank info
 - Another notable suggestion was to move the "fraud" notice into the boxes themselves; every user initially missed the note about bank fraud
 
 > "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
@@ -115,17 +116,15 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 - A pair of participants believed there could be a processing delay of 30 days or a month
 
 ## Recommendations
-1. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium
-2. Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo
-3. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit
-5. Sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt
-6. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam 
-7. Eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem
+1. Although finding the DD feature itself was the biggest hurdle for users, it's an important, but seldom-used tool. Maintain a "safety-net" of links on monetary benefits pages, and continue the reciprocal linking relationship with View Payment history.
+2. Consider moving the note regarding fraud into a more prominent position. One suggestion is between the two payment boxes. Another possibility is including a one-line notice within the boxes themselves.
+3. To clarify to users that changes will be in-effect immediately, include language near the "submit" button and/or within the confirmation message.
+4. Participants universally wanted further confirmation that their DD change went through. Consider adding email notifications to users when changes are made. Let users know they can expect further confirmation.
 
 ## Next steps
-- Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo
-- Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit
-- Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam 
+1. Review recommendations with team.
+2. Share research finding with business stakeholders.
+3. Work with FE and content teams to implement design and text changes.
 
 ## Appendix
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/usability-testing/dd-edu-research-plan.md)
