@@ -331,28 +331,37 @@ Take a look at this page and let me know your thoughts starting with where
 you see your name (Charles).
 
 Nametag area/disability rating:
+
 I really like that, that is a good thing you don’t have to go search for it.
 I like that. I don’t know the arrow intended but I like that.
+
 What do you mean: It has 40% disability then an arrow like it will go to
 another screen or function
+
 Where would it go: I don’t know maybe your pay history. I am not
 really sure what they intend for that.
+
 Claims and appeals/updates:
+
 The claims and appeals tell you what you have there. That is a good
 function, I don’t know if the drop down would go to the status. I would
 think that it would. I mean I like that; you don’t have to search for it. It
 is there.
+
 Health care/updates:
+
 Benefit applications:
 1.
 What are your overall thoughts about this page?
 2.
+
 What is working?  I am not sure what you mean. Everything here so far
 makes sense to me. It is laid out clearly. I even see the healthcare
 there; I don’t know what all it does there if you can go to medical
 records or appointments. It tells me there are 3 updates. I would
 expect that to be lab results, upcoming appointments, or something
 like that. I like the way it is laid out; I like that.
+
 3.
 What is not working? Let me look at the whole page, okay. I guess
 what is not clear to me is under the healthcare portion if the drop down
@@ -363,11 +372,15 @@ don’t get the appointment or I forget to write it down so I have to call
 to see what it is for it would be nice to have the date, location, who its
 with and what its for. Something like that would be super super nice.
 Skip question 4 if prototype is shown second
+
 4.
 If you clicked on the disability rating, where would you expect that to
 go?
+
 Second task: Claims scenario
+
 Go ahead and click on claims and appeals.
+
 1.
 What are your thoughts about this section? You have three files
 requested from the va, then I assume that they need additional
@@ -376,14 +389,17 @@ it then you can go to the claim, I assume you click that and it tells you
 want you need. It is self-explanatory. Okay, it tells you it has been
 accepted but I don’t know what 526 dependency claim, I don’t know
 what they are talking about, are they saying the claim was received?
+
 2.
 What do you think: Well your claim was accepted, I assume they are
 saying that they received it and they are ready to make a decision or
 need more information or need an C&P. Down below you can go to
 recent claim updates, I would hope that is where you can go to see the
 recent status of the claim.
+
 3.
 Is there anything that you would add or change about this section?
+
 4.
 Claims overview: I think by the arrow if you want to see the progress
 you click on the arrow and it takes you to the page where you can see
@@ -394,6 +410,7 @@ Okay great. Go ahead and go back to the previous screen by clicking 'Claims
 and appeals' again. I'm now going to give you a scenario - imagine you are
 trying to view all of your claims in progress and you've just landed on this
 page.
+
 1.
 Could you walk me through how you would do that? Go to claims and
 appeals and it would tell you where to go for claims and appeals. Yeah
@@ -402,6 +419,7 @@ there to click on go to claim and it would tell you what files and for
 what claim they would need it. Then the next one the claim was
 accepted so I assume to can go to claim and it would tell you more
 details about what is going on with the claims.
+
 2.
 Why would it be in updates: Well it says go to claims. Here is
 something I am confused about; we are in claim updates then it has
@@ -415,6 +433,7 @@ sense for it to say all recent claims if that is what it is intended for.
 These look like individual claims the that would be all recent claims
 would be there. Or you could choose if you want to see claims in
 progress or appeals.
+
 4.
 If you could design it how would it happen: That’s the only thing it is
 only a little confusing, is it the first claim in the grey box or the second
@@ -424,28 +443,34 @@ claims, why would we need to go to recent claim if we can go to
 overview and see the same infomration we don’t need all the other
 stuff if we can go to overview.
 If they look for their claims in progress in the claim’s updates section:
+
 i.
 Why would you expect it to be in this section? If it is a claim, I
 would expect to see the status or if they need infomration, if it is
 being reviewed and what the status is. What the progress of the
 appeal is, do they need information, when is it going to be done,
 those type of things is what I would expect to be.
+
 ii.
 If it were on a sperate page is it useful or not: it would be useful
 if it took me to that page, especially not having to go on a
 different website then have to search for it.
 iii.
+
 Missing: I don’t think anything is missing for the claims. From my
 past experiences what I want to see I can see from this page
 here. I really do, my biggest concern is, did they receive it, is it
 processed, do I need to do anything and when is it projected to
 be completed. I think I can see that from here.
+
 iv.
 Most important to see: the progress.
 If they look for their claims in progress in the claims section:
+
 v.
 Why would you expect it to be in this section?
 Skip questions 2 if prototype is shown second
+
 vi.
 What information would you expect to see related to your claims
 here? Where the claim is at. I guess that would be the only thing.
@@ -455,21 +480,27 @@ the status and not have to anticipate where is it at, what’s
 happening, do they need anything, that would be wonderful to
 have there for me and any other veteran out there waiting on a
 claim.
+
 vii.
 Did you think it was easy or hard to find your claims in progress?
+
 viii.
 What works well?
+
 ix.
 What doesn't work well? It all makes sense to me, it makes more
 sense then what we got right now, this is going to be easier to
 find out things . Looking at this it seems as it would because
 everything is laid out, you don’t need to go search where it is at.
 It all seems to be right here.
+
 Third task: Health care scenario
+
 Okay, we're now going to move on to another scenario. Imagine you are
 currently enrolled in health care with the VA. You've come to this page to see
 the latest message from your doctor. Can you walk me through how you
 would do that?
+
 Tell me about this: Upcoming appointments, I don’t know where the arrow
 will take you if it just says that the location is here and here’s you date. That
 doesn’t mean much to the veteran, they send an email reminder but they
@@ -481,6 +512,7 @@ care will make an appointment and I don’t know what it is for. They will look
 it up on the computer when I get there and they will tell me where to go. If I
 could click on it and it tells me who my appointment is with, where, and
 when then I would know what I need to do.
+
 Type, and where, what is the most important: What they do now is sending
 us email reminders and it provides date, time and location but where do I
 need to go when I get there. It would be nice for them to say sys clinic if it is
@@ -493,11 +525,14 @@ bring it up on the computer. Half the time veterans are trying to find where
 they are going and we really don’t know where to go. I have to know when I
 need to get there and go to the infomration desk to find out where I am
 going.
+
 How would you do that: Go to healthcare and go straight to my message and
 my inbox.
+
 Easy or hard to find the messages: If it is easy to see the prescriptions and
 messages that may be 3easier. Most pages are laid out what is in the page
 like what you can find on it. That may be helpful to have that.
+
 Healthcare updates mean: Anything that pertains to your primary care
 doctor that was going on with them, lab work needing to be done, anything
 like that. It is pretty go there, I like how it is there once you get into it, it is
@@ -507,6 +542,7 @@ know if the grey boxes will do anything differently than going straight to the
 blocks. If it will carry you to the appointments then just leave the boxes with
 upcoming appointments so you know you are going there, I don’t if the great
 boxes are the latest appointment or upcoming or what it really is.
+
 1.
 Can you walk me through how you would do that? (new messages) I
 can’t say anything about the messages now because I do that off of
@@ -515,60 +551,79 @@ now I don’t have an issue with it because if I email them when they
 respond I get a direct email telling me I have a secure message so I
 know to login to myhealthevet to read the message. I don’t know if this
 would be easier, I am not really sure.
+
 2.
 If you say this message section what would it be: I would expect it to
 be the same thing to the message that they replied to would be there.
+
 3.
 What about prescriptions: We can see that we have a prescription
 through the process but what I would like to see is the status of the
 prescription, where is it and when can I expect it, is it going to get here
 on time or do I need to go to the VA to get a 7 day supply because I am
 out. That is what I would like to see.
+
 4.
 What if it were on a separate page: that would be fine with me if the
 arrow will take me to that page where it is at.
 If they look for messages in the health care updates section:
+
 What kind: I am waiting on an appointment with my outside doctor that
 they are making for me. I would like to see if those appointments have
 been made, who they are with and when they would be. I would also
 like to see the lab results that were recently been done to not have to
 go between two webpages to see them because all information is not
 on one page. If that were here on recent updates that would be great.
+
 Would you add anything:  No I think we discussed everything. Maybe
 just put the primary care infomration or upcoming appointments up in
 the updates because I see the view lab and rest results there. If that
 takes you to another page that would be great.
+
 Fourth task: Benefits
+
 Skip the fourth task if prototype is shown second
+
 If you could go ahead and scroll down to the section that says, 'Benefit
 applications'.
+
 What are you seeing here: VA form 686 I have never had to do that and I am
 not sure what it is. I don’t know what to say about them because I have
 never dealt with them. This is probably for people that retired with
 dependents that still get benefits.
+
 What do you expect to see about your applications: I don’t really know what
 that could mean. I think I get everything I am entitled to so the benefit
 application would be additional benefits or something but I am not sure how
 that would affect me. 
+
 1.
 What information is the most important to see about your benefit
 applications?
+
 2.
 Do you find anything confusing at all? Okay, I am not sure what they
 mean benefits applications. Maybe say it is benefits for retirees or
 benefits like for 100%  disabled individuals, there are different benefits
 then I am entitled to so if it said something like that.
+
 3.
 Is there anything that you would add or change about the benefits
 section? I cannot really elaborate; I would hate to say something I
 don’t know what I am talking about.
+
 Transitioning between prototypes
+
 Okay great, now let's move onto the second prototype, this is version (A or
 B). I'm going to drop another link in the chat.
+
 Comparison
+
 Thanks so much! If you could go ahead and stop sharing your screen. Let's
 take a look at versions A and B side-by-side.
+
 Moderator shares screen and pulls upside by side screens
+
 1.
 Overall, which prototype do you prefer? Why? I think I like the B
 version a little bit better, it is a bit simpler in its layout. I hate to go to
@@ -580,6 +635,7 @@ condensed page when it is first open. I assume the second is after
 something was open but A just opens to everything. I think b would
 work better, the page isn’t as busy as a. It is simpler, I like b better
 because I can open what I want to.
+
 2.
 What do you mean more simple: Like on a everything is open all of the
 grey boxes and to get to where I want to go in a timely manner I have
@@ -587,20 +643,24 @@ to read all of the gray boxes and see what I want to open whereas on
 page b it is right there I don’t have to read 10 other boxes I want
 healthcare and I just click on it. It seems more condenses and
 simplified.
+
 3.
 Do you prefer to see updates at the top of the screen or collapsed in
 each section?
+
 4.
 How did these pages meet your expectations? It is better than I
 thought it would be. It seems like it will be a lot easier once it is up and
 running. It is a lot better than I thought it would be. I thought it would
 be a page that you have to enter 15 times then see things but if we
 can put it in once and see everything that is fantastic.
+
 5.
 How did these pages not meet your expectations?  I think b but a does
 not because it is to busy. I don’t know maybe it is because I like things
 as simple as I can get them. I don’t like going to 10 different places
 and I think b can do that for me.
+
 6.
 Do you think you would or would not use this page when you log in to
 VA.gov? I like b and the way it is. Let’s say for instance we went to
@@ -611,9 +671,11 @@ infomration. Like additional medical records, I can see where the grey
 box is beneficial, it would be nice to know what the claim is for and it
 pops up and tells you that that they need one additional file and you
 will know what claim it is for and what you need to go get.
+
 7.
 What would you call this page? I like it being call myVA because that
 what it is and it pertains to me so I like myVA.
+
 8.
 Any other thoughts? No, you have done a great job. I can see the
 progress and results of it, it is fantastic.
