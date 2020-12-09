@@ -39,17 +39,17 @@ The Facilities and VAOS teams need better understanding of the process for searc
 - Enrolled in VA health care
 **Secondary Criteria**
 At least:
-8 participants living in a rural or remote area
-4 participants that do not have a college degree
-4 females
-2 participants of color
-2 participants 35 or under
-2 participants 36 - 45
-2 participants 46 - 55
-2 participants 56 or over
-2 participants with cognitive disabilities
-2 participants living in a major metropolitan area
-2 participants with a disability rating of 70% or greater
+- 8 participants living in a rural or remote area
+- 4 participants that do not have a college degree
+- 4 females
+- 2 participants of color
+- 2 participants 35 or under
+- 2 participants 36 - 45
+- 2 participants 46 - 55
+- 2 participants 56 or over
+- 2 participants with cognitive disabilities
+- 2 participants living in a major metropolitan area
+- 2 participants with a disability rating of 70% or greater
 
 ## Recruitment Process
 - Number of participants who complete the sort should be at least 30 to 50. 
