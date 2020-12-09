@@ -1,56 +1,44 @@
 # Form Patterns Library 
 
 ## Overview
-*A brief description of the product.*
+The Design System Team mission statement is to provide simple, scalable, high quality tools and guidelines that enable teams to rapidly build and improve the Veteran facing digital applications provided by VA. One of the tools is the form patterns library which is used by VFS team to use to design, test and build a form for an application. 
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address.*
+We believe that VFS teams are not designing and building forms efficiently because there isn't a "source of truth" which results in wasted time spent on designing and building a form that already exists.  
+
 
 ## Personas
-*Who are the users of this product?*
+VFS teams 
 
 ## Measuring Success
 
+
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Grafana or other dashboards/reports where possible_
+- Number of form patterns used by VFS teams vs Number of newly built forms 
+- Number of customer support requests related to the form patterns library 
+
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics, if possible._
+- Number of form patterns in use
+- Number of customer support requests related to form patterns usage
 
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- Developers and designers are not finding and using established forms because there is either no or scant documentation.
+- VFS Teams are building new applications with forms that are in the forms library.
 
 ## Solution Approach
 
-_Describe, in a few sentences and/or bullet points, what you plan to build, and how it will solve the problem. Some questions to think about:_
-
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-
-_For non-trivial technical solutions, an [engineering design doc](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/design-docs) should be written to deeply explain **How** this product will be built._
+- Identify which form patterns are missing documentation or have inadequate documentation
+- Add documentation to the form patterns
+- Simplify forms library usability 
 
 --- 
 
 ## Launch Dates
-- *Launch Date*: TBD
+n/a
 
----
-
-## Screenshots
-
-_Include before/after screenshots, if applicable. Delete this section otherwise._
-
-### Before
-
-### After
-
----
 
 ## Reference Material
 
@@ -64,12 +52,22 @@ _Link to the following materials as relevant._
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
+- Team Name: Design System Team 
+- GitHub Label: design-system-team
+- Slack channel: vsp-design-system
+- Product POCs: Carol Wong 
+- Stakeholders: Kevin Hoffman 
 
 </details>
+
+#### Team Members
+
+<details>
+ 
+ - DEPO Lead: Kevin Hoffman
+ - PM: Carol Wong
+ - Engineering: Chris Valarida, Brooks Johnson
+ - Research/Design: Crystabel Reiter
 
 ### Stakeholders
 
