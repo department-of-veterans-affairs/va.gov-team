@@ -33,6 +33,7 @@
 - [x] [Run report to list applications showing number of secondary-only apps](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16748) (2)
     - 12/4: Running again
 - [ ] [Set up Sentry Alerts in Slack](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16875) (unknown)
+  - Moved to next sprint since platform is still working on it.
 - [ ] [Timestamp research on the 10-10EZ](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16876) (8)
 - [x] Stretch: [Ensure un-nesting Veteran Facility name and type does not break API](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16477) (done: it will break API and CARMA data-contract)
 - [x] [Testing Micronesia (and other territory) fix with CARMA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16226)
