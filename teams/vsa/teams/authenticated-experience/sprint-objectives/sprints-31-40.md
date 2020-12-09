@@ -425,7 +425,7 @@ Designer #2 (designer #1 can help with this once the write-up is done):
 
 **BE**
 
-- Start/Continue implementtion
+- Start/Continue implementation
 
 ## Sprint 40 (1/27 – 2/9)
 
