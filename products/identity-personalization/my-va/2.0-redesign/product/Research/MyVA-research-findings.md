@@ -88,15 +88,18 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 ### Overall
 
-**1. Users preferred whatever prototype they saw first. As far as completing tasks efficiently - there was no clear 'winner'. Users were easily able to complete tasks/find information in both versions.** 7 out of 8 users preferred the prototype that they interacted with first. All users expressed that it was easy to complete tasks.  There was some confusion about the information architecture - users didn't know what information was the most 'important' on the page. 
+**1. Users preferred whatever prototype they saw first. As far as completing tasks efficiently - there was no clear 'winner'. Users were easily able to complete tasks/find information in both versions.** 7 out of 8 users preferred the prototype that they interacted with first. All users expressed that it was easy to complete tasks.   
 
-**2. Users do not expect to see *all* their information on an overview page - they want to see any time-sensitive information or action items and all other details can live on a separate page.**. All users understood that this was just an overview page and said it would be okay if more information lived on a separate page.
+**2. Users do not expect to see *all* their information on an overview page - they want to see any time-sensitive information or action items and all other details can live on a separate page.**. All users understood that this was just an overview page and said it would be okay if more information lived on a separate page.  Many participants mentioned that 
 
-**3. Users found the information provided in the updates and other sections of the prototypes to be redundant.**
+**3. Users found the information provided in the updates and other sections of the prototypes to be redundant.** There was some confusion about the information architecture - users didn't know what information was the most 'important' on the page.
 
-**4. Users did not understand the hierarchy of the information shown in the updates.**
+**4. Users did not understand the hierarchy of the information shown in the updates.** Users did not understand how the updates were being displayed - chronological, level of urgency, etc. Participants mentioned that the most important updates to see are messages from their doctor, any changes in appointments or upcoming appointments.  Claim status changes are important to see, but are often not time-sensitive so they preferred to have those updates lower on the page.  
 
-**5. Overall, users said they would use the overview page and would find it useful.**
+**5. Overall, users said they would use the overview page and would find it useful.** Participants had very positive feedback on both prototypes, specifically mentioning that they didn't have to login to multiple places to see an overview of their information. 
+
+"one stop shop quote"
+"would make it easier to find all their personal information"
 
 ### Claims & appeals
 
@@ -110,7 +113,9 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 **2. Participants wanted to see the facility that new messages were from, as well as the doctor's name.** 
 
-**3. Users wanted to see additional details concerning their appointments - specifically location details and type of appointment (dermatology etc.).**
+**3. Users wanted to see additional details concerning their appointments - specifically location details (i.e. address, telehealth etc) and type of appointment/doctor (i.e. dermatology, primary care etc).** Many users mentioned that appointments are a point of frustration in general. There is not currently enough information being shown to be confident they are going to the right place - many users said they always call ahead of time or show up early to double check. 
+
+"Who, What, Where, how quote"
 
 **4. Users were confused by the verbiage 'prescription refills' - they didn't know if it was currently filled or if they needed to take action.**
 
@@ -120,9 +125,10 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 
 ## Additional Insights
-1. Users mentioned a few things that we may be able to implement in the future including scheduling C&P exams, tracking prescription packages and dependent information. 
+1. Users mentioned a few things that we may be able to implement in the future including scheduling C&P exams, tracking prescription packages, any annual health reminders (i.e. flu shots, physicals) and dependent information. 
 2. There was confusion around the 'Go to recent updates' link - many participants assumed this would take them to a full overview page, not the specific claim or message etc.
 3. Users thought that the benefit applications section and claims and appeals section should live together or closer together.
+4. Users mentioned that they would like to see a 'wellness' tab - with diet and exercise recommendations.
 
 ## Recommendations
 Put together initial recommendations here based on your findings. Review with your team, then edit as needed.
