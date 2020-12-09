@@ -53,7 +53,7 @@ TBD
 
 - Process for managing this doc (Kevin)
 
-### [Campaign landing page MVP]
+### Campaign landing page MVP
 
 - CMS Sprint 21 scopre & progress
   - [Content model documentation for FE devs](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1607363793772/b7f9e809d68ace9c8d75ab649a758ed7653c8461) (Kevin) 
