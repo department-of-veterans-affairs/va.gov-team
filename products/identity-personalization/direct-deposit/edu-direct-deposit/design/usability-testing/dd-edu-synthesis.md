@@ -46,7 +46,7 @@ The moderator prompted users with tasks from the conversation guide. Participant
 
 ## Details of findings
 
-### 1. Where and how (what links/navigation) do participants expect to find CH31 and CH36 forms?
+### 1. Where on VA.gov do users expect to find direct deposit (DD) information?
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 - Lorem ipsum dolor sit amet
@@ -55,7 +55,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 > "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 
-### 2. Where on VA.gov do users expect to find direct deposit (DD) information?
+### 2. How often do users expect to review and/or update their DD information?
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 - Lorem ipsum dolor sit amet
