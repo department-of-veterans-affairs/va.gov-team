@@ -8,7 +8,7 @@ Link to product outline: [Onsite Search Master Outline](#)
 
 ## Contents
 <details>
-<summary></summary>
+<summary>[click to toggle ToC]</summary>
   
 - [Use Case A - Invalid search string](#use-case-a---invalid-search-string) 
 - [Use Case B - Valid search string](#use-case-b---valid-search-string)
