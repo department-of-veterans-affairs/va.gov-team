@@ -116,7 +116,7 @@ Deploying the partial build every X minutes is not very proficient, therefore, t
 
 #### When to deploy the content-only build
 
-There will be a script that will:
+There needs to be a script that will:
 
 - Download the CMS content (`.tar`) file and will compare it with the previous one
 - Ensure that the `.tar` file is zipped by using `File [namefile]`
