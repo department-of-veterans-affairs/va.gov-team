@@ -6,29 +6,26 @@
 ---
 
 ### Background
-The View Payment History tool dispays a pair of tables that show a user's VA Compensation & Pension, and Education payments. The arrangement of these tables (Payments Made and Payments Returned) is similar to basic consumer bank and financial apps. Up to six payments will display at a time; tables will paginate ifa a user has seven or more payments or returned payments.
+The View Payment History tool dispays a pair of tables that show a user's VA compensation & pension (C&P), and education (EDU) payments. The arrangement of these tables (Payments Made and Payments Returned) is similar to basic consumer bank and financial apps. Up to six payments will display at a time; tables will paginate if a user has seven or more payments or returned payments.
 
 A user must be authenticated to LOA3 (identity verified) to access this feature.
 
 ### Goals
-The goal of UAT testing is to confirm the complete and accurate presentation of users' VA C&P payments, education payments, and any returned payments.
+The goal of User Acceptance Testing (UAT) testing is to confirm the complete and accurate presentation of users' VA C&P payments, education payments, and any returned payments.
 
 #### Key guiding questions
 - Can users quickly and easily review their history of VA compensation and pension, and/or education payments/returned payments?
 - Can users quickly and easily find a particular payment/returned payment within a date range using the pagination feature?
 
 ### Method
-We will engage in moderated User Acceptance Testing (UAT) conducted remotely using Zoom. Veterans receiving C&P and/or EDU payments will be recruited, and given access to the new VPH tool. Participants review their payment history and attest to its completeness and accuracy. Remote observers may be in attendance.
+We will moderate UAT remotely using Zoom. Veterans receiving C&P and/or EDU payments will be recruited and given access to the new VPH tool. Participants will review their payment history and attest to its completeness and accuracy. Remote observers may be in attendance.
 
 #### Success criteria
 
 Users will:
-- Enter the form
-- Select the desired form actions (workflows)
-- Navigate the form
-- Upload documents as needed
-- Review and submit form
-- Form will successfully submit to BGS for processing
+- Review payments made; success: payments will be accurate and complete
+- Find an older payment that does not appear on the first page of the table; success: user will locate an "older" payment within a given timeframe
+- Review returned payments; success: information will be accurate and complete
 
 #### The process
 
