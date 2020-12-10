@@ -1,4 +1,4 @@
-# Data Platform Product
+# Data Warehouse Product Outline
 ---
 
 ## Overview
