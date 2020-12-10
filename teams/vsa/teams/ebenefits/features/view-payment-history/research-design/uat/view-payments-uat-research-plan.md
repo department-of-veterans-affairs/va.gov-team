@@ -5,22 +5,20 @@
 
 ---
 
-#### Background
+### Background
 The View Payment History tool dispays a pair of tables that show a user's VA Compensation & Pension, and Education payments. The arrangement of these tables (Payments Made and Payments Returned) is similar to basic consumer bank and financial apps. Up to six payments will display at a time; tables will paginate ifa a user has seven or more payments or returned payments.
 
 A user must be authenticated to LOA3 (identity verified) to access this feature.
 
-#### Note regarding UAT
-
 ### Goals
-- The goal is to confirm the complete and accurate presentation of users' VA C&P payments, education payments, and any returned payments.
+- The goal of UAT testing is to confirm the complete and accurate presentation of users' VA C&P payments, education payments, and any returned payments.
 
 #### Key guiding question
-- Can users quickly and easily review their history of VA compensation and pension, and/or education payments?
-- Can users quickly and easily find a particular payment within a date range
+- Can users quickly and easily review their history of VA compensation and pension, and/or education payments/returned payments?
+- Can users quickly and easily find a particular payment/returned payment within a date range using the pagination feature?
 
 ### Method
-We will engage in moderated User Acceptance Testing (UAT) conducted remotely using Zoom. Veterans with a need to add or remove dependents from their disability claims will be recruited, and will be given access to the new 686. Participants will use the form to apply to have their dependents changed. Remote observers and note takers may be in attendance.
+We will engage in moderated User Acceptance Testing (UAT) conducted remotely using Zoom. Veterans receiving C&P and/or EDU payments will be recruited, and given access to the new VPH tool. Participants review their payment history and attest to its completeness and accuracy. Remote observers may be in attendance.
 
 #### Success criteria
 
