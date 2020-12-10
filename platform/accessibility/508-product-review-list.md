@@ -87,6 +87,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     - [COVID-19 Screener](#covid-19-screener)
     - [VA Medical Sites](#va-medical-sites)
     - [App Directory](#app-directory)
+    - [COVID Vaccine Prep Tool](#covid-vaccine-prep-tool)
     - [New Project Name](#new-project-name)
 
 ## Helpful links
@@ -1057,6 +1058,21 @@ Back to [Table of Contents](#table-of-contents)
 - [508-defect-4 [COGNITION]: App Directory - Additional information lists should be unordered lists - #16466](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16466)<br/>**Production** | **Opened:** November 19, 2020 | **Severity:** _508-defect-4 -  **Trivial**_
   
 Back to [Table of Contents](#table-of-contents)
+
+---
+### COVID Vaccine Prep Tool
+
+**Audit status:** _VSP [staging review underway](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16987) week of December 7, 2020_<br/>
+Add another link to the [Table of Contents](#table-of-contents). This is an important step to make applications easier to find as the list gets longer.
+
+**Open issues**
+
+- [508-defect-1 ❗ Launchblocker [SCREENREADER]: COVID Vaccine - Focus must be set on the H1 when users start the intake form - #16998](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16998)<br/>**Staging** | **Opened:** December 7, 2020 | **Severity:** _508-defect-1 - **Critical**_
+- [508-defect-2 [COGNITION]: COVID Vaccine - Users must be able to re-enter their email address on the logged out form - #16999](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16999)<br/>**Staging** | **Opened:** December 7, 2020 | **Severity:** _508-defect-2 - **Serious**_
+- [508-defect-2 [COGNITION]: COVID Vaccine - Heading levels should only increase by one - #17156](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17156)<br/>**Staging** | **Opened:** December 9, 2020 | **Severity:** _508-defect-2 - **Serious**_
+- [508-defect-3 [COGNITON]: COVID Vaccine - Contact preference must be as clear as possible - #17088](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17088)<br/>**Staging** | **Opened:** December 8, 2020 | **Severity:** _508-defect-3 - **Moderate**_
+- [508-defect-3 [COGNITION]: COVID Vaccine - Zip Code question must not fire the error message as soon as the group receives keyboard focus - #17241](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17241)<br/>**Staging** | **Opened:** December 9, 2020 | **Severity:** _508-defect-3 - **Moderate**_
+
 
 ---
 ### New Project Name
