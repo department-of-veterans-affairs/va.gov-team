@@ -382,10 +382,6 @@ Before break
 
 - Continue frontend build
 
-**BE**
-
-- Modify Ch33BankAccountsController#index method to also return bank name #17294
-
 ### Preferred facility
 
 On hold this sprint
@@ -414,6 +410,12 @@ On hold this sprint
 **FE**
 
 - Start FE build
+
+### Direct deposit for edu
+
+**BE**
+
+- Modify Ch33BankAccountsController#index method to also return bank name #17294
 
 ### VA Profile notification preferences
 
