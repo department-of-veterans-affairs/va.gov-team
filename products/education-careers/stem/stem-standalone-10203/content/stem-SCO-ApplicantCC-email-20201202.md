@@ -2,7 +2,7 @@
 
 Dear << Fname Lname >>,
 
-We sent the email below to the School Certifying Official (SCO) at << name of school >> to gather information for your Edith Nourse Rogers STEM Scholarship application.  If the SCO doesn't respond, we'll follow up with them for the information we need. 
+We sent the email below to the School Certifying Official (SCO) at << name of school >> to gather information for your Edith Nourse Rogers STEM Scholarship application. We’ll follow-up with the SCO for any additional information we need when we process your application.
 
 Thank you, 
 
