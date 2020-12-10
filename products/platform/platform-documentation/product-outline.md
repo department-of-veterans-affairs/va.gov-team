@@ -1,4 +1,4 @@
-# Confluence Documentation: Product Outline
+# Platform Documentation: Product Outline
 
 ## Overview
 VA.gov platform documentation (aka "VFS-facing documentation") houses platform, team, product, and development information for VA.gov application teams (aka "VFS teams").  Currently, platform documentation exists on a variety of tooling solutions and code repositories, all loosely consolidated by [The Home Page MVP](https://department-of-veterans-affairs.github.io/va.gov-team/) and [The Gatsby Site](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/).
@@ -10,7 +10,7 @@ VSP has created a myriad of documentation to help our customers (i.e. VFS teams)
 - Frustrating our customers, and 
 - Potentially resulting in products on VA.gov that don't meet VSP standards. 
 
-_HMW leverage Confluence to improve the findability of documentation for VFS teams?_
+_HMW leverage Confluence to improve the info findability for VFS teams?_
 
 ## Personas
 * VFS developers
