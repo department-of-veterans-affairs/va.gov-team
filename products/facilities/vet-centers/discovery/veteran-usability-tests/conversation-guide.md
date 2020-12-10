@@ -102,7 +102,7 @@ I'll give you a second to take the page in. [limit to a quick scan]
 
 Continuing with our scenario and imagining that you're looking to talk to a professional one-on-one. 
 
-Can you tell me if that type of care or service is available at this location?
+- Can you tell me if that type of care or service is available here?
 
 [narrate what the user did]
 
@@ -120,13 +120,15 @@ Can you tell me if that type of care or service is available at this location?
  
 ## Task #2 - Find Group counseling services
  
-Let's imagine that you're curious about group counseling.  
+I'm going to change the scenario just slightly. Now imagine that you've heard good things about group therapy.
 
- - Is that type of care available here?
+- Can you tell me if that type of care or service is available here?
  
-Feel free to click around. 
+[narrate what the user did]
 
-- If yes, how did this line up with your expectations 
+- Tell me what's going through your mind
+- If yes, 
+   - How did this line up with your expectations 
 - If no, 
    - Where you would expect to see that type of care?
    - Would it go by any other name?
@@ -137,15 +139,21 @@ Feel free to click around.
 
 ## Understanding alternative locations
 
-Let's say you're curious to know if they have other locations.
+- From the information available on this website, what can you tell me about the Atlanta Vet Center location?
+
+Let's say you're curious if this place has other locations.
+
+- What would your guess be based on the information provided?
+
+[Navigate to the locations - has not navigated on their own]
 
 - In your own words how would you describe the relationship between the Atlanta location and the other locations?
-- What type of services would be available at other locations?
 
+- What type of services would be available at other locations?
 
 ## Ready to visit
 
- Now that you've had a chance to learn about the Atlanta Vet Center let's imagine that you're interested in one of their services
+Let's imagine that you've had a chance to learn about the Atlanta Vet Center and you're interested in one of their services
  
  - What would your next step be?
  - What else would you need to know before contacting this Vet Center?
