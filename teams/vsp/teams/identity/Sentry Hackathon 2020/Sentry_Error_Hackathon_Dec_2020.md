@@ -63,3 +63,6 @@ Sentry Error Links:
   
 ## Closing Remarks and Feedback
 - Add feedback here, improvements for next hackathon, current status of sentry error cleanup
+
+## Notes
+ - [Error notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login/error-messages)
