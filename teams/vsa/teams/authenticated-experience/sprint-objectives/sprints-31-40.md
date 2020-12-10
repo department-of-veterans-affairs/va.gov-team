@@ -360,13 +360,35 @@ Designer #2 (designer #1 can help with this once the write-up is done):
 - Sandra: No time
 - Lihan: 12/16 - 12/29
 - Matt: 12/24 - 1/1
+- Jim Adams: 12/24 - 25; 12/31 - 1/1
 
 ### My VA redesign
 
 **Design**
 
-- Before break, convert mobile wireframes to desktop
-- Before break, submit wireframes for copy review (Samara might manage these discussions while Tressa/Cassandra are out)
+Before break
+
+- Finish converting mobile wireframes to desktop
+- Submit wireframes for copy review (**Note**: Samara will manage these discussions while Tressa/Cassandra are out)
+
+### Direct deposit for edu
+
+**Design**
+
+- Update wireframes to remove "add" functionality
+- Submit for [IA review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#information-architecture-ia-request)
+
+**FE**
+
+- Continue frontend build
+
+**BE**
+
+- Modify Ch33BankAccountsController#index method to also return bank name #17294
+
+### Preferred facility
+
+On hold this sprint
 
 ### VA Profile notification preferences
 
