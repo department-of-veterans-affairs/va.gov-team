@@ -6,11 +6,14 @@
 ---
 
 #### Background
+The View Payment History tool dispays a pair of tables that show a user's VA Compensation & Pension, and Education payments. The arrangement of these tables (Payments Made and Payments Returned) is similar to basic consumer bank and financial apps. Up to six payments will display at a time; tables will paginate ifa a user has seven or more payments or returned payments.
+
+A user must be authenticated to LOA3 (identity verified) to access this feature.
 
 #### Note regarding UAT
 
 ### Goals
-- Confirm all form fields and workflows are available
+- The goal is to confirm the complete and accurate presentation of users' VA C&P payments, education payments, and any returned payments.
 
 #### Key guiding question
 - Can users quickly and easily review their history of VA compensation and pension, and/or education payments?
