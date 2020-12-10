@@ -1,5 +1,5 @@
 # Accessibility: View Payment History 
-`eBenefits | September, October - 2020`
+`eBenefits | September, October, November - 2020`
 
 ### Resources for internal a11y audit
 1. [A11y Test Case Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-test-cases-checklist.md)
@@ -9,7 +9,7 @@
 ### Credentials Used
 User (Jerry): vets.gov.user+14@gmail.com (has payments recieved and returned)  
 User (Pauline): vets.gov.user+38@gmail.com (has payments recieved but NO payments returned)  
-User (Colder Polar Bear, Jr. (👈👌 - great name)): vets.gov.user+228@gmail.com (has NO payments at all)  
+User (Colder Polar Bear, Jr.): vets.gov.user+228@gmail.com (has NO payments at all)  
 
 
 ## Starting staging url:   
