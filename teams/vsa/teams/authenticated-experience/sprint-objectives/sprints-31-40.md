@@ -392,6 +392,10 @@ On hold this sprint
 
 - Create product outline
 
+### Address error logging
+
+- Stop recording address validation errors in Sentry when we no longer need it #17315
+
 ## Sprint 38 (12/30 – 1/12)
 
 ### My VA redesign
