@@ -844,8 +844,6 @@ Back to [Table of Contents](#table-of-contents)
 
 - [[SCREENREADER]: GIBCT EYB - IE11 MUST announce the updated live region after users press the Update benefits button - #11300](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11300)<br/>
 **Opened:** July 16, 2020 | **Severity:** 508-defect-2 - **_Serious_**
-- [[DESIGN]: GIBCT EYB - CONSIDER re-aligning the benefits list items for VETTEC providers - #14422](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14422)<br/>
-**Opened:** October 5, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
 - [[DESIGN]: GIBCT EYB - CONSIDER shortening margin between benefit headers on college, OTJ profiles - #14424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14424)<br/>
 **Opened:** October 5, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
 
@@ -944,7 +942,6 @@ Back to [Table of Contents](#table-of-contents)
 - [[#14432 508-defect-2 COGNITION]: The page MUST specify the language](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14432)<br/>**Production** | **Opened:** October 5, 2020 | **Severity:** _508-defect-2 - **Serious**_
 - [[#8248 components, design system [SCREENREADER] Aside MUST not be contained in another landmark](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8248)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
 - [[#8250 sitewide [AXE-CORE]: Landmarks MUST have a unique role or role/label/title (i.e. accessible name) combination](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8250)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
-- [[#8253 sitewide, CMS [SCREENREADER, KEYBOARD, COGNITION]: Links SHOULD look like links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8253)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
 - [[#8255 sitewide, design system, components [KEYBOARD]: Focused item MUST be contained by focus outline, pagination Next >](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8255)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
 - [[#8279 [FOCUS MANAGEMENT]: Focus outline SHOULD be removed from non-linked heading](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8279)<br/>**Production** | **Opened:** April 22, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
 
