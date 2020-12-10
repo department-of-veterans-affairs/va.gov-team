@@ -29,7 +29,6 @@ This is WIP and may evolve based on user research and technical findings.
   
 
 ## Browse by topics section
-- Display categories in the FE only when articles in the CMS has it selected as a __PRIMARY category__. 
 - Always display "VA account and profile" as the first category in the section. 
 - Display benefit categories alphabetically, after "VA account and profile."  
 - Always display "Other topics and questions" as the last category in the section. 
