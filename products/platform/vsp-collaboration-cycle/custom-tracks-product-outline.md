@@ -1,5 +1,5 @@
 
-# VSP Product Outline Template
+# Collaboration Cycle Custom Tracks
 
 _**Guidance**_
 
@@ -13,10 +13,9 @@ _Delete this guidance stanza and any italicized guidance in the template before 
 
 ---
 
-# Product Title
 
 ## Overview
-*A brief description of the product.*
+Custom Tracks is a child product of the Collaboration Cycle. Custom Tracks is a series of questions asked by VSP and answered by VFS teams at the early part of their product/feature lifecycle. The answers determine which Collaboration Cycle touchpoints are necessary for the VFS team to complete throughout their product/feature build.
 
 ## Problem Statement
 *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address.*
