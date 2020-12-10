@@ -11,9 +11,9 @@ The View Payment History tool dispays a pair of tables that show a user's VA Com
 A user must be authenticated to LOA3 (identity verified) to access this feature.
 
 ### Goals
-- The goal of UAT testing is to confirm the complete and accurate presentation of users' VA C&P payments, education payments, and any returned payments.
+The goal of UAT testing is to confirm the complete and accurate presentation of users' VA C&P payments, education payments, and any returned payments.
 
-#### Key guiding question
+#### Key guiding questions
 - Can users quickly and easily review their history of VA compensation and pension, and/or education payments/returned payments?
 - Can users quickly and easily find a particular payment/returned payment within a date range using the pagination feature?
 
