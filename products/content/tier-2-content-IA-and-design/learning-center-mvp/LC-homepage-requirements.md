@@ -32,7 +32,7 @@ This is WIP and may evolve based on user research and technical findings.
 - Always display "VA account and profile" as the first category in the section. 
 - Display benefit categories alphabetically, after "VA account and profile."  
 - Always display "Other topics and questions" as the last category in the section. 
-- Category topics pull from the {Articles primary category} field in the CMS.
+- Category topics pull from the {Articles category} fields (primary and other) in the CMS.
 - On default show up to 2 rows (6 categories). 
 - When there are more than 6 categories with live content, display "Show all topics" button/link. Clicking it should display everything remaining that has live content. 
 - When a category has only 5 or fewer articles, do not show the "Go to all articles" link. 
