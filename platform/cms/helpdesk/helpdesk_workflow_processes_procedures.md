@@ -148,7 +148,7 @@ It’s important to distinguish between **enhancements** (a request for a new ad
 
 Enhancements are usually optional in nature, though this may depend on the source and the agreed upon work. In general these *must* be prioritized carefully and fit into the development backlog by the product owner so that they do not conflict with other work.
 
-Defects are tricky: often what users report as defects are not actually defects, but may be *an existing feature that is misunderstood, or that is not working as expected*.* *In this case, rather than reporting a defect to developers, the preferred route may be informing the user about how the feature is *intended*, and making sure they understand how to use the feature.
+Defects are tricky: often what users report as defects are not actually defects, but may be *an existing feature that is misunderstood, or that is not working as expected*. In this case, rather than reporting a defect to developers, the preferred route may be informing the user about how the feature is *intended*, and making sure they understand how to use the feature.
 
 As an example: a user who expects to be able to upload a spreadsheet and get a chart visualization, may think that they’ve found a defect when uploading an Excel file doesn’t work. But if the feature was designed only for CSV files, it’s the user’s expectation that’s the problem, not a defect. In this case and many others, a defect/defect report may actually be an enhancement request in disguise. But this should be clarified, whenever possible, *before* creating a ticket.
 
@@ -222,7 +222,7 @@ The Category or Component is typically a way of marking which website, feature o
 
 #### Label
 
-Labels are usually most useful for deciding a type of request. For instance, labels may include things like the *type of request (*Enhancement, Information request, Defect report, Change request, Other) or characteristics about the request which are desirable to report on (e.g. Insufficient information provided, Unknown customer, Blocked), etc.  
+Labels are usually most useful for deciding a type of request. For instance, labels may include things like the *type of request* (Enhancement, Information request, Defect report, Change request, Other) or characteristics about the request which are desirable to report on (e.g. Insufficient information provided, Unknown customer, Blocked), etc.  
 
 Labels should also match the Github taxonomy, at least in part, to allow for better organization across platforms.
 
@@ -312,7 +312,7 @@ Critical Defects should however also be handled with urgency, as they must be re
 
 ##### High-priority/time-sensitive requests for enhancements
 
-High-priority or time-sensitive requests for enhancements will need to be prioritized differently than non-priority ones. It’s important to make sure that the development team knows if a given ticket is time-sensitive. This might include adding a label, adding a phrase like [Priority] to the ticket title, or other steps. Typically this will *not *be decided by the project team, but by DEPO, and so any enhancements that might be high-priority or time-sensitive should be escalated immediately.
+High-priority or time-sensitive requests for enhancements will need to be prioritized differently than non-priority ones. It’s important to make sure that the development team knows if a given ticket is time-sensitive. This might include adding a label, adding a phrase like [Priority] to the ticket title, or other steps. Typically this will *not* be decided by the project team, but by DEPO, and so any enhancements that might be high-priority or time-sensitive should be escalated immediately.
 
 ##### Other requests for enhancements
 
@@ -334,7 +334,7 @@ As a general rule, overcommunication is preferable.  Users should always feel th
 
 Users should, in most circumstances,  receive as many of the following as are applicable (note that any given ticket may include many of these): 
 
-* **Initial first response** (as close to immediate as possible, and *always *within SLA times)
+* **Initial first response** (as close to immediate as possible, and *always* within SLA times)
 
 * **Request for clarification** (e.g. "when you say ‘the thing is busted’, can you tell me more about what you’re trying to do, and what you see on the screen when you try it?")
 
@@ -354,19 +354,19 @@ Users should, in most circumstances,  receive as many of the following as are ap
 
 * **Questions** surfaced by the work itself (e.g. "You requested the ability to use TIFF files for hero image uploads, but our developers are interested in the types of files you’re trying to use. Can you point me to an example or two, so that we can make sure we’re understanding the issue correctly?")
 
-* An **explanation or information delivery **(e.g. a link to a training video, knowledge base article, or just a detailed email about how a feature is intended to be used). In some cases this might be enough to resolve an issue on its own; in other cases it’ll result in additional questions, and additional steps.
+* An **explanation or information delivery**(e.g. a link to a training video, knowledge base article, or just a detailed email about how a feature is intended to be used). In some cases this might be enough to resolve an issue on its own; in other cases it’ll result in additional questions, and additional steps.
 
 * **Notification that the work is ready for testing** (e.g. "We’ve deployed the new feature that you requested to our staging site! Please let us know how it works out!")
 
 * **Notification that the work is deployed** to production and/or complete (e.g. "We’ve deployed the new feature that you requested to production!")
 
-* **Notification that the puzzle has been solved **(e.g. "We’ve isolated the part of your data file that was causing the problem and adjusted row 17;  you should try to upload the attached file".) 
+* **Notification that the puzzle has been solved**(e.g. "We’ve isolated the part of your data file that was causing the problem and adjusted row 17;  you should try to upload the attached file".) 
 
 * **Follow up to no reply** (preferably within 1-2 days) if you’ve asked a user a question and they have not responded (e.g. "Just checking in: were you able to change your icons, or do you need additional help?")
 
 * **Second followup to no reply** after 5-7 additional days when a user has not responded, to tell them politely that you’re closing the ticket. (e.g. "Since we haven’t heard from you, we’ll assume that you no longer need our assistance").
 
-* **A final thank you **when an issue is complete and being marked as Resolved. This ensures that the user ends their help desk interaction with positivity and a feeling of having received thorough support.
+* **A final thank you** when an issue is complete and being marked as Resolved. This ensures that the user ends their help desk interaction with positivity and a feeling of having received thorough support.
 
 ## Determine workflow (epic) for support
 
