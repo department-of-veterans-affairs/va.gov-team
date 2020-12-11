@@ -75,7 +75,7 @@ Before we start, a few things I want to mention:
 - Is there any frustration from the Participant on where to find trusted information? 
 
 
-## Prototype 20-30 mins
+## Stay Informed Website 20-30 mins
 
 Ok, now I'd like to have you look at a potential solution and get your feedback. I'm going to share a link in the chat. What I'd like to do is have you open that on your computer's internet browser and share your screen so we can follow along with what you're seeing. I'd like you to think out loud as you look at this prototype together. I want to point out that since this is a prototype, not everything will work, so in that case, please tell me what you expect would happen. Remember, there are no right or wrong answers, and your feedback will help us build better tools for Veterans. 
 **Share prototype link** [placeholder]()
