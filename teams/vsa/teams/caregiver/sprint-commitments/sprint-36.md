@@ -21,12 +21,10 @@
     - Draft Implementation: https://github.com/department-of-veterans-affairs/vets-api/compare/draft_attachment_job_implementation?expand=1
     
     (New) Implementation Plan
-    - [ ] Cancel [Create a single re-attempt for the attachment of a 10-10CG submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15147)
-    - [ ] Complete (as prereq) [Persist Form 10-10CG Submissions (Research + Implementation)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10280)
-    - [ ] Complete [Relate Form1010CG::Submissions to SavedClaim::CaregiversAssistanceClaims](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16954)
-    - [ ] Complete [Create Sidekiq Job to Process 10-10CG Attachments]()
-    - [ ] Complete [Add new method to Form1010cg::Service to process attachments in background]()
-    - [ ] Complete [Update 10-10CG Processing to use background job for attachments]()
+
+    - [x] Cancel [Create a single re-attempt for the attachment of a 10-10CG submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15147)
+    - [x] [EPIC] Persist Form 10-10CG Submissions | [Issue #10280](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10280)
+    - [x] [EPIC] Add background attachment job w/ feature toggle  | [Issue #16952](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16952)
 
 - [ ] [Logging PDF Gen Errors](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15146) (5)
   - Scrapped since the "Attempt resubmission" work will capture errors.
