@@ -19,24 +19,18 @@ If we gather data in one place, we can:
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- More data usage for product decision making
 
 ## Undesired User Outcomes
 
+- Misuse or misunderstanding of data
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- More transparency & fewer silos between VA offices
 
 ## Undesired Business Outcomes
 
-## Assumptions
-- we can get access to more data with a warehouse than not
-- there's buy in for using VA data to make product decisions
-- we have resources to make data connections
-- the data warehouse is compatible with other data platforms
 
 ---
 ## Measuring Success
@@ -59,7 +53,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- we can get access to more data with a warehouse than not
+- there's buy in for using VA data to make product decisions
+- we have resources to make data connections
+- the data warehouse is compatible with other data platforms
 
 ## Solution Approach
 
