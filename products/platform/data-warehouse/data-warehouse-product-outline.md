@@ -7,7 +7,7 @@ A data platform that is a source of VA.gov and DEPO product platform
 ## Problem Statement
 VA.gov website performance and usage data is scattered and silod across different data platforms. VSP needs a cohesive source of truth for its platform so that we can understand usage and success across our products. VFS teams need a source of truth for the VA.gov website performance and usage data so that they can easily and securely access analytics around their product's success.
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+How might we decrease data silos to create a source of truth and improve accuracy, use, and transparency of VA.gov data?
 
 ## Hypothesis
 If we gather data in one place, we can:
