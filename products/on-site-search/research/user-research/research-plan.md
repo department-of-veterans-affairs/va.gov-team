@@ -9,7 +9,6 @@ Search enhancements for VA.gov, Public Websites
     We'd like to better understand veteran's needs and expectations around our site search so we can improve our search experience, and more fully align with our North Star goals.
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research?
-    - **What are veterans searching for?** 
     - **In what scenarios do users use site search?**
       - Do users see where they can use search? Or is the hidden input box make it harder to find and to utilize?
       - Does the search button being disabled by default present any usability issues?
