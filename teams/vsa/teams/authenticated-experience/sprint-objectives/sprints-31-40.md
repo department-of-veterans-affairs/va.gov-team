@@ -356,7 +356,7 @@ Designer #2 (designer #1 can help with this once the write-up is done):
 
 - Tressa: 12/21 - 1/1
 - Cassandra: 12/21 - 1/1
-- Erik: 12/24 - 25; 12/31 - 1/1
+- Erik: 12/24 - 1/1
 - Sandra: No time
 - Lihan: 12/16 - 12/29
 - Matt: 12/17 - 12/18; 12/24 - 1/1
