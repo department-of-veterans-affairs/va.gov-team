@@ -1,4 +1,4 @@
-# Platform Documentation: Product Outline
+# Platform Documentation Site: Product Outline
 
 ## Overview
 VA.gov platform documentation (aka "VFS-facing documentation") houses platform, team, product, and development information for VA.gov application teams (aka "VFS teams").  Currently, platform documentation exists on a variety of tooling solutions and code repositories, all loosely consolidated by [The Home Page MVP](https://department-of-veterans-affairs.github.io/va.gov-team/) and [The Gatsby Site](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/).
