@@ -472,6 +472,16 @@ On hold this sprint
 
 - Continue FE build
 
+### VA Profile notification preferences
+
+**Design**
+
+- If time, have an initial call with design <> VA Profile.
+
+**BE**
+
+- Continue implementation
+
 ## Sprint 41 (2/10 – 2/23)
 
 ### My VA redesign
