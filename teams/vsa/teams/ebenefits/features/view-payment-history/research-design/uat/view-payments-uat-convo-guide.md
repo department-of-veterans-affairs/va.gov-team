@@ -37,7 +37,7 @@ You'll be using a new feature we moved from eBenefits to VA.gov: View Payment Hi
   - If not end the session.
 
 Today we're going to observe you reviewing your VA payments. We're not recording this session, but we'll be seeing dates, bank names and dollar amounts; account numbers will be masked. So, can you confirm that you indeed would like to do this, and are comfortable walking through the tool with me?
-- If not: Explain this is neccesary for testing. If they are still unwilling (e.g. because of personal info), end the call.
+- If not: Explain this is neccessary for testing. If they are still unwilling (e.g. because of personal info), end the call.
 
 OK, the last questions are about your computer and browser.
 - Can you tell me what type of computer you are using today?
@@ -46,35 +46,23 @@ OK, the last questions are about your computer and browser.
 
 OK, please share your screen, and we'll get started.
 
-## UAT testing of 21-686c
+## UAT testing of View Payment History
 
-- Please open a new tab in your browser, go to va.gov/view-change-dependents/add-remove-form-686c/introduction and sign in.
-  - [ ] **UAT item:** After login, intro screen allows access.
-  - [ ] **UAT item:** Confirm that they are LOA3. If they see a "Verify your identity" prompt. they are not LOA3, **end the session**.  
-- Review the steps to add or remove a dependent. 
-  - [ ] **UAT item:** Screen makes green add/remove button available.
-  - [ ] **UAT item:** User clicks green button to enter form.
-- Make selection(s) to add or remove dependents
-  - [ ] **UAT item:** Checkboxes function, selection(s) made.
-- Review Veteran Information
-  - [ ] **UAT item:** Screen presents correct user data.
-- Review contact information
-  - [ ] **UAT item:** Address, phone and email are pre-filled.
-  - [ ] **UAT item:** User makes any necessary corrections and proceeds.
-- User completes required form fields for chosen workflow(s)
-  - [ ] **UAT item:** Form fields function properly.
-  - [ ] **UAT item:** required form fields display error states when left incomplete or are completed improperly.  
-  - [ ] **UAT item:** Form advances correctly.
-  - [ ] **UAT item:** User can backtrack through form as needed.
-- User can locate and upload documentation required by particular workflows/situations.
-  - [ ] **UAT item:** File finder window opens when upload documents button is clicked.
-  - [ ] **UAT item:** User can locate and select file(s).
-  - [ ] **UAT item:** Selected files are uploaded.  
-- Review information enter in this form.
-  - [ ] **UAT item:** Accordions are present and contain correct information.
-  - [ ] **UAT item:** Edit function allows corrections.
-- Review privacy statement and submit the form.
-  - [ ] **UAT item:** Form submits and user is presented with confirmation screen.
+- Please open a new tab in your browser, go to va.gov/va-payment-history/payments and sign in.
+  - [ ] **UAT item:** Confirm that they are LOA3. If they see a "Verify your identity" prompt. they are not LOA3, **end the session**. 
+  - [ ] **UAT item:** After login, user is allowed access.
+- Review the payment history table. Is this information accurate? Is it complete? 
+  - [ ] **UAT item:** Table displays C&P payments made
+  - [ ] **UAT item:** Table displays EDU payments made
+  - [ ] **UAT item:** Table displays correct payment dates
+  - [ ] **UAT item:** Table displays correct bank information
+- Find a payment from more than six months ago.
+  - [ ] **UAT item:** Pagination feature functions
+  - [ ] **UAT item:** User can find payment not on front page
+- Review the returned payments table or box. Is this information accurate? Is it complete?
+  - [ ] **UAT item:** If user has no returned payments, a gray message box displays
+  - [ ] **UAT item:** If user has returned payments, a table displays
+  - [ ] **UAT item:** If user has returned payments, table displays correct date, payment, bank and reason message
 
 ## Wrap-up
 That is the end of what we're testing. Do you have any questions or comments about the new View Payment History feature?
