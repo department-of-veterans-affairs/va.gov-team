@@ -188,7 +188,7 @@ This checklist evolved from the [Deque WCAG 2.0 Checklist](https://www.jenstrick
 
 #### F. Tables	
 
-1. Header cells `<th>` **MUST** be associated with their respective data cells (via scope or headers + id). [WCAG 1.3.1](https://www.wuhcag.com/info-and-relationships/)
+1. Header cells `<th>` **MUST** be associated with their respective data cells (via scope or headers + id). [WCAG 2.0 Level A – 1.3.1](https://www.wuhcag.com/info-and-relationships/)
 
 <details><summary>Review WCAG 1.3.1 example</summary>
 
@@ -231,11 +231,11 @@ This checklist evolved from the [Deque WCAG 2.0 Checklist](https://www.jenstrick
 ```
 </details>
 
-2. Tables **MUST** have an accessible name (e.g. `<caption>`, aria-label, or aria-labelledby).[4.1.2](https://www.wuhcag.com/name-role-value/)
+2. Tables **MUST** have an accessible name (e.g. `<caption>`, aria-label, or aria-labelledby).[WCAG 2.0 Level A – 4.1.2](https://www.wuhcag.com/name-role-value/)
 
 
 
-3. Layout tables (no header/data associations) **MUST NOT** contain `<th>` or other header markup.	[WCAG 1.3.1](https://www.wuhcag.com/info-and-relationships/)
+3. Layout tables (no header/data associations) **MUST NOT** contain `<th>` or other header markup.	[WCAG 2.0 Level A – 1.3.1](https://www.wuhcag.com/info-and-relationships/)
 
 
 #### G. Lists	
@@ -243,7 +243,7 @@ This checklist evolved from the [Deque WCAG 2.0 Checklist](https://www.jenstrick
 Lists **MUST** be marked up appropriately according to the semantics of the list (e.g. `<ul>`, `<ol>`, `<dl>`). | [WCAG 2.0 Level A - 1.3.1](https://www.wuhcag.com/info-and-relationships/)
 
 
-#### H. iframes	
+#### H. iframes	<== Jennifer this is where you left off
 
 <ol type="a">
    <li>Frame title attribute <strong>**MUST**</strong> be specified (&lt;iframe title="Video about..."`). <a href="https://www.wuhcag.com/name-role-value/">WCAG 4.1.2</a></li>
