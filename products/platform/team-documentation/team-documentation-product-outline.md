@@ -1,35 +1,31 @@
 # Platform Documentation: Product Outline
 
 ## Overview
-VA.gov platform documentation (aka "VFS-facing documentation") houses platform, team, product, and development information for VA.gov application teams (aka "VFS teams").  Currently, platform documentation exists on a variety of tooling solutions and code repositories, all loosely consolidated by [The Home Page MVP](https://department-of-veterans-affairs.github.io/va.gov-team/) and [The Gatsby Site](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/).
 
-## Problem Statement 
+VSP stores team documents in a variety of places: va.gov-team repo, va.gov-team ZenHub board, and Google Suite. 
 
-VSP has created a myriad of documentation to help our customers (i.e. VFS teams) work seamlessly and iteratively to build great products.  However, platform documentation is a not easily navigable and frequently not actionable, which:
-- Causes a large support burden for VSP, therefore 
-- Frustrating our customers, and 
-- Potentially resulting in products on VA.gov that don't meet VSP standards. 
+## Problem Statement
 
-_HMW leverage Confluence to improve the info findability for VFS teams?_
+Each team's usage of the three locations varies. Because of this, DEPO leads, VSP leads, and teams themselves don't have easy insight into another team's work.
+
+This results in frequent, high-touch, update-type communication across DEPO leads, VSP leads, and teams themselves.
+
+_HMW use Confluence to lend consistency to VSP team documentation?_
 
 ## Personas
-* VFS developers
-* VFS PMs and POs (out of scope for pilot)
-* VFS designers and content writers (out of scope for pilot)
+* DEPO leads
+* VSP PMs
+* VSP individual contributors
 
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-For the quarter:
-* VFS sentiment around proposed platform developer documentation
+* DEPO lead sentiment around clarity of team progress, at any given point in time
+* PM sentiment around ease of documenting
+* Individual contributor sentiment around documentation navigation
 
-Overall:
-* Volume of support requests
-* Complexity of support given
-* VSF sentiment around navigating and consuming Confluence content
- 
 #### Baseline KPI Values
-- VFS sentiment around current platform documentation: [MURAL board](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1587506427611/4fb63eb007eadec05ce8634499699ff610706a7d)
+- n/a
 
 ## Assumptions
 
