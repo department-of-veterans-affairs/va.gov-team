@@ -11,7 +11,7 @@ Check your [screensharing setup]
 When the participant is ready, begin the session with the following intro*
 
 ## Project-specific setup
- - Have prototype/live site link ready to share with participant [placeholder]()
+ - Have live site link ready to share with participant [Live site](https://www.va.gov/health-care/covid-19-vaccine/stay-informed)
 
  
 ## Intro - 5 minutes
