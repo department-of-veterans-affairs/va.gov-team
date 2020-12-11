@@ -331,6 +331,11 @@ These details will help us review your application faster, but aren't required.
 
   - Your school email address (This email address usually ends with .edu) { Text field with email address validation }  
 
+{ info alert }  
+
+We’ll be reaching out to the School Certifying Official (SCO) at this school to confirm your eligibility for the scholarship.   
+
+{ info alert }
 
 [ Back | Continue ] { buttons }   
 [Finish this application later]()  
