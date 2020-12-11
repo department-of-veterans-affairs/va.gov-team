@@ -80,3 +80,6 @@ December 11, 2020
 ### Areas of future risk
 Transformer cutover
 
+### Other references
+[Engineering post-mortem](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Postmortems/11_25_2020_event_timestamp_bug.md)
+
