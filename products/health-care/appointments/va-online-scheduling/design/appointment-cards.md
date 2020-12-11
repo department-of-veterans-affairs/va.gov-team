@@ -1,8 +1,14 @@
-Pending VA
-
-Appointment Cards
+# Appointment Cards
+The following documents all of the different variations of appointment cards we display on the VAOS appointment lists.
 
 ## Future Appointments
+The future appointments tabs contain a combination of confirmed appointments (stored in VistA) and pending appointments (appointment requests).
+
+Each card future card also has a colored top border that corresponds to the following statuses:
+
+* Green: confirmed
+* Yellow: pending (needs to be confirmed by a scheduler)
+* Red: canceled (either by user or scheduler)
 
 ### Confirmed Appointments
 
@@ -42,6 +48,8 @@ Facility details unavailable, no instructions
 ![image-20201210220019922](appointments-cards/confirmed-cc-no-facility-note.png)
 
 #### Video
+
+Video visits allow a user to speak with a provider remotely.  There are several types of video appointments and they can be done either from home, a specified location, or through government furnished equipment (GFE).
 
 VA Video Connect at home
 
