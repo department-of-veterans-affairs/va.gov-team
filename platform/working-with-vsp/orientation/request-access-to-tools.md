@@ -8,7 +8,7 @@ Setting up all of the following tools while you onboard will make time on the DE
 
 ## Slack
 
-1. Ask your Program Manager to request an invitation to the **Digital Service @ VA** Slack.
+1. Ask your Program Manager to request an invitation to the **Digital Service @ VA** Slack. Instructions for this are [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/slack-requests.md).
 
 1. Check your email for the Slack invitation and join!
 
