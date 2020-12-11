@@ -251,7 +251,78 @@ that a user would [logout manually](#logout-flow).
 
 # Debugging SAML Responses
 
-[aggregate vs individual tracing]
+VAgov initially began its SSOe rollout in the summer of 2020, after addressing some early
+bugs, we noticed a trend where SSOe authentication success rates always trail behind
+non-SSOe authentication (we've [set up a grafana dashboard](http://grafana.vfs.va.gov/d/ioicprRMk/ssoe-launch?orgId=1)
+to track this.  Access to the [SOCKS Proxy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/aa6fae863ef942661085bc91c600aa68353ee382/platform/engineering/internal-tools.md#configure-the-socks-proxy)
+is required).  It makes sense that the success rates are lower, as the flow is more complex
+and opens more lanes for failure/abandonment, however the team hoped that the gap would be
+closer (within a few percentage points).
 
-# Analysis Scripts
+While we've seen the difference between the two drop (as of this Dec 2020, its been about
+5-10% depending on the type of credentials used and time of day), we've been pushing an
+effort to track down **where** in the SAML request/response cycle failures/abandonments
+have been occurring more frequently.  The SAML workflow is a series
+of SAML requests sent and SAML responses received between VAgov, the two identity brokers
+(SSOe and ID.me) and the three identity providers (ID.me, MHV and DSLogon).  In some
+exchanges we expect to see abandonment because user interactions are required, however
+in other exchanges we expect to see near 100% success because no user interactions are
+required.  If we can analyze the workflow to see where missing requests/responses aren't
+showing up, we might be able to identify the bug(s) causing our SSOe success rates to be
+lower.
 
+#### aggregate tracing
+
+SSOe integration introduced a new broker, eauth.va.gov, into the mix.  The SAML flows
+from ID.me -> MHV/DSLogon stayed as is, so from a debugging perspective it makes most
+sense to focus on the SAML requests/responses being sent to and from SSOe.  If we can
+analyze the following counts over a window of time, we might be able to see where our
+drop off in success rates is happening
+
+**VAgov -> SSOe -> ID.me -> SSOe -> VAgov**
+1. requests sent from VAgov to SSOe
+1. requests received by SSOe from VAgov
+1. requests sent from SSOe to ID.me
+1. requests received by ID.me from SSOe
+1. responses sent from ID.me to SSOe
+1. responses received by SSOe from ID.me
+1. responses sent from SSOe to VAgov
+1. responses received by VAgov from SSOe
+
+From the above we expect to see a large decline in step 5, as in between step 4 and
+5 the user needs to navigate a series of user forms, and any abandonment here would
+lower our success numbers.  However for every other exchange, we'd expect similar
+counts in between steps, this of course will never match up because of
+browser/networking errors and the inability to create the exact time windows between
+the three systems, but it should be close.
+
+The three teams (VAgov, IAM and ID.me) have been able to analyze the data on their
+respective systems, however we've continually ran into issues analyzing the splunk
+logs from SSOe (eauth.va.gov) as under load during normal working hours it appears
+lots of logging messages are lost, thus obtaining an accurate count for steps 2, 3,
+6 and 7 is difficult/impossible.
+
+#### individual tracing
+
+In addition to tracing using aggregate counts to see where our success rates are
+dropping, we should also be able to trace individual SAML requests from the steps
+outlined in [aggregate tracing](#aggregate-tracing) to see where we are losing users.
+We started to do this analysis using the SAML request uuid that is generated for
+every request, but ran into a problem connecting the dots.  In steps 1, 2, 7 and 8;
+we use a SAML request uuid that originated at VAgov. However in steps 3, 4, 5 and 6;
+its a SAML request uuid that originated at SSOe.  Without the ability to "link"
+these two identifiers together we can't full trace a SAML authentication flow.
+
+In the fall of 2020, the VAgov, IAM and ID.me teams worked together on a solution.
+We first proposed using query parameters to add additional information, but that
+was quickly ruled out as the software running on eauth.va.gov doesn't have the
+ability to parse query parameters (¯\_(ツ)_/¯).  So a new solution was proposed
+that would have VAgov create a domain level (`.va.gov`) cookie and stuff metadata
+into that, from their the IAM team said they could parse this data and add it to
+the SAML request sent in step 3.  As of this writing, we are still waiting on
+the IAM and ID.me teams to figure out a way to transfer this metadata between
+the exchange of steps 3 and 4, but once that is complete we should be able to
+use the identier added in the shared cookie to trace a SAML transaction from
+step 1 to 8 (using the various logging systems in VAgov, eauth.va.gov and ID.me).
+
+#### analysis scripts
