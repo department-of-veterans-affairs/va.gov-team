@@ -23,7 +23,7 @@ eBenefits | Representatives/POA | NOT STARTED | On hold <br> https://github.com/
 
 Team | Project | Review Status | IA Documentation 
 --- | --- | --- | --- 
-CTO | COVID Vaccine | COMPLETE 12/03/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/cto-covid-vaccine.md
+CTO | COVID Vaccine | COMPLETE 12/11/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/cto-covid-vaccine.md
 Public Websites | Apply Wizards | COMPLETE 11/20/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-apply-wizard.md
 Public Websites | Learning Center | COMPLETE 10/14/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-learning-center.md
 CTO | COVID-19 Research/Trials | COMPLETE 09/28/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/cto-covid-trials.md
