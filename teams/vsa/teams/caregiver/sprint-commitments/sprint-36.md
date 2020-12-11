@@ -13,7 +13,7 @@
 - [ ] Stretch (tech-debt): [Refactor/flatten 10-10CG UI schema](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16874) (5)
 
 ## Backend
-- [ ] [Attempt resubmission of PDF on failure](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15147) (13)
+- [x] [Attempt resubmission of PDF on failure](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15147) (13)
     
     Updates
     - 12/4: Work is in progress, will need separate PRs to implement. Will need to persist claims.  User should see faster response times. 
