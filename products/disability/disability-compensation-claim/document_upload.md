@@ -48,3 +48,6 @@ https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/uploa
 
 https://github.com/department-of-veterans-affairs/vets-api/blob/main/app/workers/evss/disability_compensation_form/submit_uploads.rb
 
+# Front end code
+https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/claims-status/components/AddFilesForm.jsx
+
