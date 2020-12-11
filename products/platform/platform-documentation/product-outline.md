@@ -20,7 +20,7 @@ _HMW leverage Confluence to improve the info findability for VFS teams?_
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-For the quarter:
+For the 2020 Q4:
 * VFS sentiment around proposed platform developer documentation
 
 Overall:
