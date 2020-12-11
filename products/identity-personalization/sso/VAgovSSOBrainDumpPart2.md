@@ -326,3 +326,37 @@ use the identier added in the shared cookie to trace a SAML transaction from
 step 1 to 8 (using the various logging systems in VAgov, eauth.va.gov and ID.me).
 
 #### analysis scripts
+
+The VAgov team developed a few scripts to help with this debugging process
+
+###### [login stats](https://gist.github.com/ericbuckley/b6b68bf37f9112e9db14cb15e2273ae7)
+
+This script runs a handful of AWS Cloudwatch Insight queries over a given time
+window, then runs some anaysis functions on the results to report back on
+success and failure rates.  To enhance addtional insight queryies can be added to
+the `Analyze.QUERIES` hash, and additional analysis functions can be added to
+the `Analyze` class as long as they are a) classmethods b) accept a data hash
+parameter and c) are prefixed with `measure`.
+
+###### [no response](https://gist.github.com/ericbuckley/7f7d9c8dea2049ef3cd107c3d4f470d5)
+
+Run this script in conjunction with a CSV export from the IAM splunk logs to identify
+SAML Requests that were sent, but never received by SSOe (Note: this script is only
+useful once we are confident the splunk server that the IAM team is managing is ingesting
+all the logs).  Some example queries that can be executed on Splunk
+
+- All outbound VAgov SAML Requests for ID.me LOA1
+    - `AssertionConsumerServiceURL='https://api.va.gov/v1/sessions/callback' AuthnContextClassRef=http://idmanagement.gov/ns/assurance/loa/1/vets ForceAuthn='true'`
+- All inbound VAgov SAML requests for MHV
+    - `AssertionConsumerServiceURL='https://api.va.gov/v1/sessions/callback' AuthnContextClassRef=myhealthevet ForceAuthn='false'`
+
+###### [auto loops](https://gist.github.com/cb703d9f1dc010d589b432d86fe14fc2)
+
+Use this script to identify instances of users getting stuck in an login/logout
+loop.  In other words identify times when we incorrectly automatically logged in or
+logged out a user. This script identfies four such instances.
+
+- auto login loop: 2 or more auto login requests within a time window
+- auto logout loop: 2 or more auto logout requests within a time window
+- reverted login: an auto login, immediately followed by an auto logout
+- reverted logout: an auto logout, immediately followed by an auto login
