@@ -26,7 +26,7 @@
     - [x] [EPIC] Persist Form 10-10CG Submissions [Issue #10280](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10280)
     - [x] [EPIC] Add background attachment job w/ feature toggle  [Issue #16952](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16952)
 
-- [ ] [Logging PDF Gen Errors](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15146) (5)
+- [x] [Logging PDF Gen Errors](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15146) (5)
   - Scrapped since the "Attempt resubmission" work will capture errors.
 - [x] [Run report to list applications showing number of secondary-only apps](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16748) (2)
     - 12/4: Running again
