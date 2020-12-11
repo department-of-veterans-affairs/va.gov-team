@@ -23,8 +23,8 @@
     (New) Implementation Plan
 
     - [x] Cancel [Create a single re-attempt for the attachment of a 10-10CG submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15147)
-    - [x] [EPIC] Persist Form 10-10CG Submissions | [Issue #10280](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10280)
-    - [x] [EPIC] Add background attachment job w/ feature toggle  | [Issue #16952](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16952)
+    - [x] [EPIC] Persist Form 10-10CG Submissions [Issue #10280](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10280)
+    - [x] [EPIC] Add background attachment job w/ feature toggle  [Issue #16952](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16952)
 
 - [ ] [Logging PDF Gen Errors](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15146) (5)
   - Scrapped since the "Attempt resubmission" work will capture errors.
