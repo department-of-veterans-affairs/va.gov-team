@@ -57,7 +57,7 @@ Team Availability | Time (EST)
 Dec 14, 2020 | 10:30am - 2pm EST, 3:30 - 5pm EST
 Dec 15, 2020 | 8:30am - 9:30pm EST, 3 - 4pm EST, 6 - 8pm EST
 Dec 16, 2020 | 2 - 8pm EST
-Dec 17, 2020 | 8:30am - 10 EST, 11am - Noon EST, 2 - 5pm EST, 6 - 8pm EST
+Dec 17, 2020 | 8:30am - 10 EST, 2 - 5pm EST, 6 - 8pm EST
 Dec 18, 2020 | 10:30am - 4pm EST
 
 Pilot Session: Dec 11, 2020 | 10am - 11am EST

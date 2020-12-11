@@ -22,6 +22,16 @@ https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/
 
 ---
 
+### Usability testing
+
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/usability-testing/dd-edu-research-plan.md)
+
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/usability-testing/dd-edu-convo-guide.md)
+
+[Topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/usability-testing/dd-edu-topline-summary.md)
+
+---
+
 ### Discovery
 
 [Direct deposit for EDU discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/edu-dd-discovery.md)
@@ -52,10 +62,13 @@ https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/
 - WIP initial concepts
 
 ### Prototype Changelog
-- No prototype
 
-**Initial concepts**
-- TBD
+**November 30, 2020** 
+- Prototype finalized for usability study
+- Error states added for field validation
+
+**Novermber 23, 2020**
+- Prototype available for review
 
 ---
 

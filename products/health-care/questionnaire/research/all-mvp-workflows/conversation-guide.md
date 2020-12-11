@@ -85,6 +85,8 @@ Keep that pre-appointment experience in mind through the next series of scenario
 ### Scenario 1 - 15 minutes
 Don’t click on anything yet. Just read the notification. 
 - What are your impressions of this notification?
+	- If not mentioned, what do you think about entering Y1 and N1?
+		- What would you prefer to enter instead?
 - Why do you believe that you would have been sent this notification?
 - How many days in advance of your appointment would you want to receive this notification?
 - Would you be interested in receiving this notification multiple times? 
@@ -149,6 +151,8 @@ Click on the “View and print questions” button, what are your impressions of
 _Have the participant go back to the Questionnaire list (completed tab)_
 - What are your impressions of this page?
 - Can you tell me what you think the difference is between the cards shown on the screen?
+	- If clarification is needed, ask about their interest in seeing appointments that were canceled, but where you started to answer questions.
+		-If applicable, what about if we displayed "You can access your in-progress answers for the next X days?"
 - What are your thoughts about the information provided?
 - How valuable is the information on this page to you?
 - Is this location where you would expect to come back to and see this list of completed questionnaires?

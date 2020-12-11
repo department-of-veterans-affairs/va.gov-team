@@ -5,6 +5,8 @@
 
 ---
 
+`WIP -- Review/feedback needed`
+
 ## Goals
 The goal of this usability study was to assess how easily participants located, understood and could change their direct deposit information. We also wanted to determine the impact of having both direct deposit (DD) payment types (compensation and pension, and education) displayed.
 
@@ -36,9 +38,9 @@ Users were given the scenario: "You recently moved and changed banks; you need t
 - There was a generational divide regarding where users would look to find their routing/account numbers: the younger participants would use a bank app or website; the older users said they'd look at a check or their bank statement
 
 #### Landing page(s)
-- Users who navigated to/or were shown the DD landing page were immediately drawn to the green or blue button directing them to sign in
-- Users admitted they wouldn't read the text; most were looking for an action item
-- Participants who were prompted to scan content pages scanned the content (older users), or ignored it (younger participants)
+- Users who navigated to/or were shown the DD landing page were immediately drawn to the green or blue button directing them to sign-in; none were inclined to scroll or scan the page
+- When prompted to review the screen, users generally admitted they wouldn't read the text; most were looking for an action item
+- Participants who were prompted to scan other content pages skimmed the text (older users), or ignored it (younger participants) and looked for an actionable element
 
 ### What barriers prevent users from easily submitting changes to their DD info?
 - The most significant hurdle for participants looking to change their DD info was the relative obscurity of the feature described above
@@ -52,6 +54,8 @@ Users were given the scenario: "You recently moved and changed banks; you need t
 - Almost every participant said they expected further notification that their DD change was made
 - Email and texts were cited as examples for expected confirmation
 - Several users expected a long wait if they needed to call the 800 number with an inquiry
+- Most users felt the DD change would take effect (or should take effect) immediately or soon
+- A pair of participants believed there could be a processing delay of 30 days or a month
 
 ### How do users react to the two different "categories" of payments--and having to change them separately?
 - Almost all participant accepted that there were two DD features; one explained that it was acceptable since there were two types of payments
@@ -63,27 +67,30 @@ Users were given the scenario: "You recently moved and changed banks; you need t
 - The top improvement cited by participants was a chat-box for inquiries and confirmation
 - Another notable suggestion was to move the "fraud" notice into the boxes themselves; every user initially missed the note about bank fraud
 
-
 ## Hypotheses
 
 ### Users may have some difficulty locating their direct deposit information
-Lorem ipsum dolor sit amet consequetoru unum pluribus dolorum
+This was true for a majority of users. A generational divide was evident here, with younger users expecting (and finding) a user profile section, and older users looking for a direct link or content page regarding DD.
 
 ### Users will rarely, some occasionally, change their direct deposit information
-Lorem ipsum dolor sit amet consequetoru unum pluribus dolorum
+Generally true. Participants general remembered having to change DD info at some point, though the consensus was "not often." Only one participant actually remembered making a change, and this participant said they need to change their bank and DD info multiple times.
 
 ### Participants will accept and easily navigate the DD edit function
-Lorem ipsum dolor sit amet consequetoru unum pluribus dolorum
+This was resoundingly true. No user had any issues making a change to the DD info--either singly or both. All participants were satisfied with the interface and ease of use. 
 
 ### Participants will have some questions/hesitation about two distinct Direct Deposit features
-Lorem ipsum dolor sit amet consequetoru unum pluribus dolorum
+Not true. Only one participant expressed frustration with having to manage two sets of DD info. Several beleived it was reasonable that different payment type had different DD info (even if it was the same bank).
 
-### Users may want more information about the DD change proces
-Lorem ipsum dolor sit amet consequetoru unum pluribus dolorum
+### Users may want more information about the DD change process
+This was somewhat true. Generally users accepted what they saw on-screen. A few users liked having the View Payments link. However no participant saw the fraud box until prompted to scan/review the screen. Two participants said this note should be more prominent.
 
 ## Other notes
-- Several participants noted the View Payments link; three said they would reference payments if/when making changes to their DD info
-- Lorem ipsum dolor sit amet consequetoru unum pluribus dolorum
+- Several participants noticed the View Payments link; three said they would reference payment history if/when making changes to their DD info
+- All participants except one said they would like a chat function available for inquiries or confirmation; one user in particular, said they did not want to wait for call center hours if there was suspected fraud, and a chat box would provide an immediate response
+- A generational split was evident in several cases: 
+  - Two younger users joined the call using their phones, expecting to review the feature on mobile
+  - Younger users would use a bank app/website to find their bank info, older users would review a check or statement to find the info
+  - The two youngest participants expected a logged-in profile would have the DD feature; the older participants looked for dedicated links or pages
 
 ### Resources
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/usability-testing/dd-edu-research-plan.md)

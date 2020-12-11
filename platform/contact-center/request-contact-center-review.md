@@ -1,6 +1,6 @@
 # Contact Center
 
-You can request the Contact Center review with [this issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=clantosswett%2C+kimberley2019&labels=contact+center%2C+analytics-insights%2C+analytics-request%2C+collaboration+cycle%2C+collab-cycle-review&template=request-contact-center-review-template.md&title=Contact+Center+Review+for+%5BTeam+Name+-+Feature+Name%5D).
+You can request the Contact Center review with [this issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jwoodman5%2C+kimberley2019&labels=contact+center%2C+collaboration+cycle%2C+collab-cycle-review&template=request-contact-center-review-template.md&title=Contact+Center+Review+for+%5BTeam+Name+-+Feature+Name%5D).
 
 ## Overview
 
@@ -58,7 +58,7 @@ All applications on the Veteran-facing Services Platform include a phone number 
       * ```contact center```
       * ```external-request```
       * ```[your team's Github label]```, e.g., "BAH-526"
-    * Assign the issue to: ```Chante Lantos-Swett```and ```Kimberley Daniels```
+    * Assign the issue to: ```Jason Woodman```and ```Kimberley Daniels```
     * Issue Details: Include the following information.
       * **Context**: Provide a high-level description of the functionality for which you're requesting this review, for example:
         * ```Functionality adds a new dataset to the Facility Locator so users can search for and view non-VA health providers on the map, as well as in list and detail views.```

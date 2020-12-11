@@ -8,7 +8,7 @@ Setting up all of the following tools while you onboard will make time on the DE
 
 ## Slack
 
-1. Ask your Program Manager to request an invitation to the **Digital Service @ VA** Slack.
+1. Ask your Program Manager to request an invitation to the **Digital Service @ VA** Slack. Instructions for this are [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/slack-requests.md).
 
 1. Check your email for the Slack invitation and join!
 
@@ -65,7 +65,7 @@ Several internal tools for development are only accessible within the VA network
          * Our infrastructure is hosted in AWS GovCloud. This account is shared amongst many different teams; changes made to resources in this account will affect many services. You may need access to AWS for troubleshooting, log file review, and to apply changes to the running instances and services.
          * In order to be granted AWS Console access, your PIV background (eQIP adjudication) check needs to be underway. Please mark yes in the AWS Console access and provide a short description of why you need access. All AWS Console access requests will be reviewed by DEPO. **If you're not certain you need access to AWS, please mark "No"**.
          * For VSP Operations team members, AWS access can be expedited.
-    * Tag group `@department-of-veterans-affairs/vsp-operations` to review.
+    * Comment on the ticket, tagging the `@department-of-veterans-affairs/vsp-operations` group to review. **PLEASE NOTE: If this step is skipped, Operations team members are not notified. The template adds a label for filtering, but it does not send notification to the team. This step must be included for your request to be properly routed.**
     * Monitor the issue for updates and respond to any questions from the operations group.
 
 ### Set up the SOCKS proxy

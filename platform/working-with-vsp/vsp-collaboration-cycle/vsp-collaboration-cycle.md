@@ -382,6 +382,7 @@ Ensure your feature meets VSP's privacy and security standards.
 - Describe any new interactions with dependent VA backends
 - Describe any other security hotspots you're concerned about / want extra attention on
 - Link to [**Release Plan**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
+- Review the guidance on [hosting a security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/security/hosting-a-security-review.md)
 
 ### Outcomes and artifact outputs
 - VSP provides a list of concrete action items that need to be addressed, or approval to roll out

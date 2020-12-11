@@ -1,5 +1,5 @@
 # IA Review and Recommendations
-**STATUS: IN PROGRESS**
+**STATUS: COMPLETE 12/11/2020**
 
 **Team:**  Office of the CTO
 
@@ -19,8 +19,8 @@
 
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
-Vaccine static page | www.va.gov/health-care/covid-19-vaccine/ | Home > Health care > COVID-19 vaccine| Final segment of breadcrumb will match H1
-Vaccine communication tool | TBD | TBD | 
+Vaccine static page | www.va.gov/health-care/covid-19-vaccine/ | Home > Health care > COVID-19 vaccines at VA | Final segment of breadcrumb will match H1
+Vaccine communication tool | www.va.gov/health-care/covid-19-vaccine/stay-informed/ | Home > Health care > COVID-19 vaccines at VA > Stay informed and help us prepare | Final segment of breadcrumb will match H1. URL determined by team.
 
 
 <hr>
@@ -30,8 +30,9 @@ Vaccine communication tool | TBD | TBD |
 
 Priority | Placement | Link to | Description
 --- | --- | --- | ---
-Must | [Health care hub page](https://www.va.gov/health-care/) | www.va.gov/health-care/covid-19-vaccine/ | 
-Must | Health care hub left nav | www.va.gov/health-care/covid-19-vaccine/ | 
+Must | [Health care hub page](https://www.va.gov/health-care/) | www.va.gov/health-care/covid-19-vaccine/ | Placed after hearing aid option.  If an item needs to be removed to remain at max of 10 per spoke, remove the check claim status option. 
+Must | Health care hub left nav | www.va.gov/health-care/covid-19-vaccine/ | Placed after order prosthetic socks option. 
+Must | Health care hub left nav | www.va.gov/health-care/covid-19-vaccine/stay-informed/ | Placed as a child/nested under the Covid vaccine option. 
 Should | Health care hub promo spot | www.va.gov/health-care/covid-19-vaccine/ | Promo spot in top nav and on hub page
  
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 

@@ -27,3 +27,8 @@ Table of Contents
   - Source code for error forwading (sentry, pagerduty, etc.)
   - Source code for error generation
   - Any recommended changes to this error, reference current status and tickets if applicable
+  
+- [User attributes contain multiple distinct MHV ID values](http://sentry.vfs.va.gov/organizations/vsp/issues/126/?project=3&referrer=AssignedActivityEmail)
+  - Error Level: Warning
+  - Description: appears to show that the entity has more than one MHV ID associated with the account. 
+  - Next steps: figure out how these are occuring and if its good bad or indifferent. **Look at this during Sentry Error Hackathon Decemeber 2020**

@@ -21,21 +21,20 @@
     - Draft Implementation: https://github.com/department-of-veterans-affairs/vets-api/compare/draft_attachment_job_implementation?expand=1
     
     (New) Implementation Plan
-    - [ ] Cancel [Create a single re-attempt for the attachment of a 10-10CG submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15147)
-    - [ ] Complete (as prereq) [Persist Form 10-10CG Submissions (Research + Implementation)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10280)
-    - [ ] Complete [Relate Form1010CG::Submissions to SavedClaim::CaregiversAssistanceClaims](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16954)
-    - [ ] Complete [Create Sidekiq Job to Process 10-10CG Attachments]()
-    - [ ] Complete [Add new method to Form1010cg::Service to process attachments in background]()
-    - [ ] Complete [Update 10-10CG Processing to use background job for attachments]()
 
-- [ ] [Logging PDF Gen Errors](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15146) (5)
+    - [x] Cancel [Create a single re-attempt for the attachment of a 10-10CG submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15147)
+    - [x] [EPIC] Persist Form 10-10CG Submissions [Issue #10280](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10280)
+    - [x] [EPIC] Add background attachment job w/ feature toggle  [Issue #16952](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16952)
+
+- [x] [Logging PDF Gen Errors](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15146) (5)
   - Scrapped since the "Attempt resubmission" work will capture errors.
 - [x] [Run report to list applications showing number of secondary-only apps](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16748) (2)
     - 12/4: Running again
 - [ ] [Set up Sentry Alerts in Slack](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16875) (unknown)
+  - Moved to next sprint since platform is still working on it.
 - [ ] [Timestamp research on the 10-10EZ](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16876) (8)
 - [x] Stretch: [Ensure un-nesting Veteran Facility name and type does not break API](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16477) (done: it will break API and CARMA data-contract)
-- [ ] [Testing Micronesia fix with CARMA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16226)
+- [x] [Testing Micronesia (and other territory) fix with CARMA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16226)
 
 
 ## Design

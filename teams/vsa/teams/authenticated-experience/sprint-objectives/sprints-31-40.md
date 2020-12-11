@@ -356,23 +356,45 @@ Designer #2 (designer #1 can help with this once the write-up is done):
 
 - Tressa: 12/21 - 1/1
 - Cassandra: 12/21 - 1/1
-- Erik: 12/24 - 25; 12/31 - 1/1
+- Erik: 12/24 - 1/1
 - Sandra: No time
 - Lihan: 12/16 - 12/29
-- Matt: 12/24 - 1/1
+- Matt: 12/17 - 12/18; 12/24 - 1/1
+- Jim Adams: 12/24 - 25; 12/31 - 1/1
 
 ### My VA redesign
 
 **Design**
 
-- Before break, convert mobile wireframes to desktop
-- Before break, submit wireframes for copy review (Samara might manage these discussions while Tressa/Cassandra are out)
+Before break
+
+- Finish converting mobile wireframes to desktop
+- Submit wireframes for copy review (**Note**: Samara will manage these discussions while Tressa/Cassandra are out)
+
+### Direct deposit for edu
+
+**Design**
+
+- Remove "add" state for direct deposit for edu from mockups #17345
+- Submit for [IA review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#information-architecture-ia-request)
+
+**FE**
+
+- Continue frontend build
+
+### Preferred facility
+
+On hold this sprint
 
 ### VA Profile notification preferences
 
 **PM**
 
 - Create product outline
+
+### Address error logging
+
+- Stop recording address validation errors in Sentry when we no longer need it #17315
 
 ## Sprint 38 (12/30 – 1/12)
 
@@ -393,15 +415,19 @@ Designer #2 (designer #1 can help with this once the write-up is done):
 
 - Start FE build
 
-### VA Profile notification preferences
-
-**PM**
-
-- Hold platform kickoff (maybe)
+### Direct deposit for edu
 
 **BE**
 
+- Modify Ch33BankAccountsController#index method to also return bank name #17294
+
+### VA Profile notification preferences
+
+**BE**
+
+- Meet with Terry
 - Technical discovery
+- Start implementation, depending on how much discovery is needed and convos with Terry
 
 ## Sprint 39 (1/13 – 1/26)
 
@@ -419,7 +445,15 @@ Designer #2 (designer #1 can help with this once the write-up is done):
 
 - Continue FE build
 
-**Dev**
+### VA Profile notification preferences
+
+**PM**
+
+- Hold platform kickoff (maybe)
+
+**BE**
+
+- Start/Continue implementation
 
 ## Sprint 40 (1/27 – 2/9)
 
@@ -437,6 +471,16 @@ Designer #2 (designer #1 can help with this once the write-up is done):
 **FE**
 
 - Continue FE build
+
+### VA Profile notification preferences
+
+**Design**
+
+- If time, have an initial call with design <> VA Profile.
+
+**BE**
+
+- Continue implementation
 
 ## Sprint 41 (2/10 – 2/23)
 
