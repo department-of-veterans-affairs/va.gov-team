@@ -19,7 +19,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/projects/23
 Strategy Leads:
 
 - VHA Digital Media (Health): Jenny Heiland-Luedtke, Jeffrey Grandon, Adrian Osman (VHADigitalMedia@va.gov)
-- VBA Digital Strategy Team (Benefits): Sandy Tadeo, Adrianne Hooten, John P. DiMartino (WEBADMIN.VBACO@va.gov)
+- VBA Digital Strategy Team (Benefits): Michelle Ralston (Chief), Sandy Tadeo, Adrianne Hooten, John P. DiMartino (WEBADMIN.VBACO@va.gov)
 - NCA Web Services: James LaPaglia (NCAWebServices@va.gov)
 - OPIA (VA Office of Public and Intergovernmental Affairs): Gary Hicks, Josh Tuscher (newmedia@va.gov)
 - Education Benefits: Tammy Hurley, Lucas Tickner
