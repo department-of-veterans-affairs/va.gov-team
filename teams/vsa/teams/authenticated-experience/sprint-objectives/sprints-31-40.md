@@ -375,7 +375,7 @@ Before break
 
 **Design**
 
-- Update wireframes to remove "add" functionality
+- Remove "add" state for direct deposit for edu from mockups #17345
 - Submit for [IA review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#information-architecture-ia-request)
 
 **FE**
