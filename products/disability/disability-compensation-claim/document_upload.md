@@ -7,16 +7,17 @@
 3. The api uploads the file to S3 and responds with a GUID
 4. The GUID is saved as part of the form. 
 5. Later, user submits the form. 
-6. Once the form is sumitted, which includes the guid of the file, a  sidekiq job is enqueued to get the file from S3 and send it on to EVSS. 
+6. Once the form is sumitted, which includes the guid of the file, a  sidekiq job is enqueued to get the file from S3 and send it on to EVSS. It has retries set up because EVSS has frequent downtime. 
 
-We use `pdftk`, a Linux dependency to get info about pdf's. 
-
+We use `pdftk`, a Linux dependency to get info about pdf's, like if it's encrypted or the dimensions of the page.
+We use [carrierwave](https://github.com/carrierwaveuploader/carrierwave) validate and upload to s3.
+we use [Sidekiq](https://github.com/mperham/sidekiq) for background jobs
 
 
 # Controller 
 api.va.gov - [apidoc](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/form_526/uploadSupportingEvidence post )
 
-[code](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/documents_controller.rb)
+[code](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/upload_supporting_evidences_controller.rb)
 
 ````json
 {
@@ -40,4 +41,10 @@ Response
 ````
 
 # model 
-https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/models/evss_claim_document.rb
+https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/models/supporting_evidence_attachment.rb
+https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/uploaders/supporting_evidence_attachment_uploader.rb
+
+# Job
+
+https://github.com/department-of-veterans-affairs/vets-api/blob/main/app/workers/evss/disability_compensation_form/submit_uploads.rb
+
