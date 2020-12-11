@@ -1,5 +1,5 @@
 # IA Review and Recommendations
-**STATUS: IN PROGRESS**
+**STATUS: COMPLETE 12/11/2020**
 
 **Team:**  Office of the CTO
 
