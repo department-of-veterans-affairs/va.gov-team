@@ -2,12 +2,20 @@
 ---
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+A data platform that is a source of VA.gov and DEPO product platform
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+VA.gov website performance and usage data is scattered and silod across different data platforms. VSP needs a cohesive source of truth for its platform so that we can understand usage and success across our products. VFS teams need a source of truth for the VA.gov website performance and usage data so that they can easily and securely access analytics around their product's success.
 
 *Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+
+## Hypothesis
+If we gather data in one place, we can:
+- more quickly audit & clean data for PII and PHI security so that Veteran data is private & secure
+- own VA.gov data so that we can clean and segment data ourselves and not a third party
+- centralize VA.gov and DEPO platform analytics so that we can consume the data without spending a lot of time tracking the data
+- access data we weren't able to without a data warehouse, like unsampled Google Analytics and historical website performance data
+
  
 ## Desired User Outcomes
 
@@ -24,21 +32,18 @@
 
 ## Undesired Business Outcomes
 
+## Assumptions
+- we can get access to more data with a warehouse than not
+- there's buy in for using VA data to make product decisions
+- we have resources to make data connections
+- the data warehouse is compatible with other data platforms
 
 ---
 ## Measuring Success
 
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
-
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
+- % of known data platforms connected to BigQuery
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
@@ -58,10 +63,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+1. Connect the data we currently own
+2. Gather and prioritize a database of VA.gov and VSP data platforms
+3. ETL data to Domo for VFS and DEPO platform product dashboarding
+4. (Stretch) Create APIs to open the data for VFS and other VA use
 
 --- 
 
