@@ -24,16 +24,16 @@
 
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
-Online FSR form | TBD | TBD | 
-Learning center pages | --- | --- | All learning center pages will be defined and published by Public Websites team
-DMC Office pages | --- | --- | All remaining DMC office pages will be managed by the DMC office and remain on legacy systems
+Online FSR form | www.va.gov/manage-va-debt/[form-name] | Home > Manage VA debt > [H1] | Final URL slug and breadcrumb component TBD based on content work
+
+All learning center pages will be defined and published by Public Websites team
 
 ## <a name="nav"></a>Navigation and Entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
 Priority | Placement | Link to | Description
 --- | --- | --- | ---
-Must | [Manage VA debt static content page](www.va.gov/manage-va-debt/)   |  TBD | 
+Must | [Manage VA debt static content page](www.va.gov/manage-va-debt/)   |  www.va.gov/manage-va-debt/[form-name] | 
 Consider | [Records hub page](www.va.gov/records/) | TBD | 
 Consider | Records top nav | |
 Consider | Records left nav | |
