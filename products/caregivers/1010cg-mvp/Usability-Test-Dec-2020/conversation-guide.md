@@ -28,7 +28,8 @@ Before we start, a few things I want to mention::
 - This entire session should take about 30 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - We also want to let you know that you will not actually be applying to the Program of Comprehensive Assistance for Family Caregivers or for any VA benefits. Again, this is just to get feedback to improve these tools.
-- Please talk aloud as you're looking through things. . For example say "now I'd click on this.. what's this?" this helps me understand what's going through your head while using the tool.
+- Please talk aloud as you're looking through things. For example say "now I'd click on this.. what's this?" this helps me understand what's going through your head while using the tool.
+- For your privacy, we will not be using your real birthdate or social security number. You can just make up a birthday and enter any 9 digit number.  I would be happy to provide you with one if you want
 - If for any reason and at any time you want to stop the session, please let me know.
 - Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
 - If yes: 
