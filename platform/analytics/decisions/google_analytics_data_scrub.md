@@ -42,5 +42,5 @@ If you have questions please let Rachael Roueche know in Slack. The analytics te
 It shouldn't impact the covid-19 dashboard since that dashboard already pulls from BigQuery, not GA.
 
 **When does the scrubbing start? (i.e., by when do we need to save/export desired event actions data?)**
-Scrubbing starts on Friday 12/19
+Scrubbing starts on Friday 12/18
 
