@@ -1,3 +1,5 @@
+**Updated with feedback from Josh**
+
 ## Health Services - Vaccination Services Taxonomy
 The Facilities and VAOS teams need better understanding of the process for searching for community care providers to inform the PPMS taxonomy work and to improve the Veteran search experience. 
 
@@ -9,7 +11,7 @@ The Facilities and VAOS teams need better understanding of the process for searc
 
 - Learn the Veteran mental models for vaccination within the health service taxonomy, primarily for VAMCs
 
-### Research Questions
+### Questions to be answered by Research results 
 - Where in the VHA taxonomy do Veterans expect vaccination services to be found?
   - For example, do they expect to find it under primary care, with pharmacy (related to "medication"), under a particular specialty; or within a taxon named "Vaccination" (or similar)?
   - What words do Veterans use when searching for vaccination-related services?
