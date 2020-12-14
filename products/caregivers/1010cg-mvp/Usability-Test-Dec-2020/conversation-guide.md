@@ -94,6 +94,7 @@ Great. A few last questions:
 
 - Were you able to accomplish what you set out to do today? 
 - What did you think of the overall experience in completing this form?
+- Do you remember if you filled out this form? If so, how did you do it? Together with the caregiver/veteran?
 - What worked well?
 - Any questions for me?
 
