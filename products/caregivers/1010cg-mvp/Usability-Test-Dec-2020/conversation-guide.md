@@ -29,7 +29,7 @@ Before we start, a few things I want to mention::
 - In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - We will not be applying for any VA benefits today. Again, this is just to get feedback and improve the tools.
 - Please talk aloud as you're looking through things. For example say "now I'd click on this.. what's this?" this helps me understand what's going through your head while using the tool.
-- To prevent you from having to enter your personal information, imagine your Jane Smith...I would be happy to provide you with data you may need...
+- To protect your privacy, we are not going to use your real name or Social Security Number today. Feel free to make-up a name, birthday, SSN...I can aways provide that information if you want
 - If for any reason and at any time you want to stop the session, please let me know.
 - Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
 - If yes: 
