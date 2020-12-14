@@ -448,7 +448,6 @@ Back to [Table of Contents](#table-of-contents)
 **Open issues**
 
 - [508-defect-2 [COGNITION]: BAM2 Debt Letters - Heading level should only increase by one - #16783](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16783)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** _508-defect-2 - **Serious**_
-- [508-defect-2 [COGNITION]: BAM2 Debt Letters - Debt Detail notice and balance information must have a programmatic relationship - #16786](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16786)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** _508-defect-2 - **Serious**_
 - [508-defect-3 [COGNITION]: BAM2 Debt Letters - The debt download table should not have sorting icons if they're not actionable - #16789](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16789)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** _508-defect-3 - **Moderate**_
 - [508-defect-4 [COGNITION]: BAM2 Debt Letters - Consider defining "TOP" in debt cards - #16787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16787)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** _508-defect-4 - **Trivial**_
 - [508-defect-4 [COGNITION]: BAM2 Debt Letters - Consider renaming "Details" breadcrumb on debt detail view - #16788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16788)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** _508-defect-4 - **Trivial**_
