@@ -27,6 +27,16 @@
 
 </details>
 
+## Friday, December, 18, 2020
+ 
+### Campaign landing page MVP
+
+- CMS Build Status
+- CMS Blockers / Impediments
+- Review Tasks for PW FE development
+- Transformer ticket adds (on task list)
+- Timeline, Velocity and Burndown for January 2021.
+
 ## Friday, December, 11, 2020
  
 ### Campaign landing page MVP
