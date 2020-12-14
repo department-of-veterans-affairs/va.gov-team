@@ -5,7 +5,7 @@ Decision-date: 12/9/2020
 ## Background
 If you go to [Find VA Locations](https://www.va.gov/find-locations), you'll see 3 fields available for you to enter data into. The data from those 3 fields was collected over an approximately 2 month time span and sent to Google Analytics and BigQuery to help the Facility Locator team make product strategy decisions.
 
-The problem is that we can assume sometimes the location data will be their home address they're entering -- which makes the data from that field potential PII. We can also assume that the facility type or service type they select may be related to their medical needs -- which makes the data from that field potential PHI.
+The problem is that we can assume sometimes the location data the user enters will be their home address, -- which makes the data from that field potential PII. We can also assume that the facility type or service type the user selects may be related to their medical needs -- which makes the data from that field potential PHI.
 
 ## Decision
 DEPO has decided to scrub the Facility Locator location entries data from Google Analytics and BigQuery, and to remove the Google Tag Manager code collecting that data from the Facility Locator product. Unfortunately, the way Google Analytics scrubs work, Google can't isolate specific event actions to delete. They instead scrub *all* event action data for a given time period. So we'll lose all event action data in Google Analytics from approximately 10/12/2020 - 12/2/2020. We expect that to occur on Friday this week.
