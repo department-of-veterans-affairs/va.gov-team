@@ -16,8 +16,6 @@ There are multiple resolution pathways a Veteran can select when resolving their
 
 **3.  Research questions: What question(s) do you hope to be able to answer after completing this research?**
 
--  Is the form's title clear and understandable with the word 'debt' omitted?
-
 -  Is the form's purpose and repayment types available clear?
 
 -  Are Veterans able to easily complete each section of the form?
