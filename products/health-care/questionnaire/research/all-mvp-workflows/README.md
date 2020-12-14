@@ -18,12 +18,12 @@
 | [P04]() | Wednesday, Dec. 16 2 - 3 pm EST |  | iOS | Veteran, Veteran's Family Member | Female | White or Caucasian | 25-34 | Bachelor's degree | Army | VA | No | Yes | Urban |
 | [P05]() | Wednesday, Dec. 16 3 - 4 pm EST |  | Android | Caregiver | Female | - | 45-54 | - | - | CA | No | Yes | - |
 | [P06]() | Thursday, Dec. 17 9 - 10 am EST |  | Computer | Veteran | Male | Black of African American | 45-54 | Master's degree | Army | MD | Yes | Yes | Urban |
-| [P06]() | Thursday, Dec. 17 10 - 11 am EST |  | Android | Veteran | Male | American Indian or Alaska Native | 65-74 | Some college (no degree) | Air Force | CA | No | No | Urban |
-| [P07]() | Thursday, Dec. 17 2 - 3 pm EST |  | Computer | Veteran | Male | Hispanic, Latino, or Spanish Origin | 25-34 | Associate's degree/trade certificate/vocational training | Army | HI | No | Yes | - |
-| [P08]() | Thursday, Dec. 17 3 - 4 pm EST |  | Computer | Service member | Female | White or Caucasian | 45-54 | Master's degree | Army | HI | - | - | - |
-| [P09]() | Friday, December 18 11 - Noon EST  |  | iOS | - | Male | White of Caucasian | - | Bachelor's degree | Army  | - | - | - | - |
-| [P010]() | Friday, December 18 1 - 2 pm EST |  | Computer | Veteran | Male | White or Caucasian | 65-74 | Associate's degree/trade certificate/vocational training | Air Force | IA | Yes | - | Rural/Urban |
-| [P011]() | Friday, December 18 2 - 3 pm EST |  | Computer | Veteran | Female | White or Caucasian | - | Some college (no degree) | Navy | TN | Yes | Yes | - |
+| [P07]() | Thursday, Dec. 17 10 - 11 am EST |  | Android | Veteran | Male | American Indian or Alaska Native | 65-74 | Some college (no degree) | Air Force | CA | No | No | Urban |
+| [P08]() | Thursday, Dec. 17 2 - 3 pm EST |  | Computer | Veteran | Male | Hispanic, Latino, or Spanish Origin | 25-34 | Associate's degree/trade certificate/vocational training | Army | HI | No | Yes | - |
+| [P09]() | Thursday, Dec. 17 3 - 4 pm EST |  | Computer | Service member | Female | White or Caucasian | 45-54 | Master's degree | Army | HI | - | - | - |
+| [P10]() | Friday, December 18 11 - Noon EST  |  | iOS | - | Male | White of Caucasian | - | Bachelor's degree | Army  | - | - | - | - |
+| [P11]() | Friday, December 18 1 - 2 pm EST |  | Computer | Veteran | Male | White or Caucasian | 65-74 | Associate's degree/trade certificate/vocational training | Air Force | IA | Yes | - | Rural/Urban |
+| [P12]() | Friday, December 18 2 - 3 pm EST |  | Computer | Veteran | Female | White or Caucasian | - | Some college (no degree) | Navy | TN | Yes | Yes | - |
 
 ## 
 
