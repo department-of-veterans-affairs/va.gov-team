@@ -16,8 +16,8 @@ VSP teams
 
 ### Key Performance Indicators (KPIs)
 
-- Number of customer support requests divided by the number of VFS teams.
-- % of customer support requests that are resolved without human intervention.
+- Customer satisfaction with platform support.
+- Time it takes to resolve customer support requests.
 
 #### Baseline KPI Values
 
