@@ -50,7 +50,7 @@ If you will be needing to do a lot of fast changes to the prototype itself, you 
 - If you and your partner need access to the web app at the same time, ask to use Shawna's credentials
 - Use the [UXPin plugin](https://www.uxpin.com/docs/getting-started/importing-from-sketch/) to sync up your designs, similar to the Invision workflow. **Note:** logging into and using the plug in should not affect your partner!
 - If you're getting too many emails about other projects, you can update your email preferences in UXPin to just cover your and your partner's project(s)
-- If your email is being used for the account, set up mail forwarding from support@uxpin.com to your partner so that they get comment emails
+- If your email is being used for the account, set up mail forwarding from hello@uxpin.com to your partner so that they get comment emails
 
 ## UXPin design system
 Many design system components are currently available in UXPin's design system feature, including form components. Use these as needed to turn your Sketch imports into testable prototypes!
