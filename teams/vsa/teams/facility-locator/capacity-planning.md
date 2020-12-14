@@ -31,7 +31,7 @@
 
 ## December 2020
     -  MPS: Dec 23, Dec 30
-    -  Gibran: December 22-25 (Christmas week) - still tentatively
+    -  Gibran: December 22-25 (Christmas week)
     -  Leyda: Dec 24 - Jan 1 (Christmas Eve and week after Christmas)
 
 ## November 2020
