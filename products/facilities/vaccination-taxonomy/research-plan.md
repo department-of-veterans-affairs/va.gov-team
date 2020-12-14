@@ -53,6 +53,11 @@ At least:
 - 2 participants with cognitive disabilities
 - 2 participants living in a major metropolitan area
 - 2 participants with a disability rating of 70% or greater
+- **Josh feedback - Criteria to consider**
+  - Politics: Political leanings play a role in people's opinion of vaccines, particularly wrt COVID-19 vaccination.
+  - Do they feel they need a vaccine?
+  - Do they regularly get the annual flu shot?
+  - Are they being ordered to get the vaccination, or are they curious about getting the vaccination?
 
 ## Recruitment Process
 - Number of participants who complete the sort should be at least 30 to 50. 
