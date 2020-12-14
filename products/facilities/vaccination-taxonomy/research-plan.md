@@ -5,14 +5,14 @@ The Facilities needs a better understanding of how veterans expect to find healt
 
 ## What we need to do
 
-- Learn how we can support Veterans who search for vaccination services.
+- Learn how we can support Veterans who search for vaccination services at VA health care systems.
 
 ## Goals
 
 - Learn the Veteran mental models for vaccination within the health service taxonomy, primarily for VAMCs
 
 ### Questions to be answered by research results 
-- Where in the VHA taxonomy do Veterans expect vaccination services to be found?
+- Where in the VHA service taxonomy do Veterans expect vaccination services to be found?
   - For example, do they expect to find it under primary care, with pharmacy (related to "medication"), under a particular specialty; or within a taxon named "Vaccination" (or similar)?
   - What words do Veterans use when searching for vaccination-related services?
   - What words do Veterans use when searching - such as
@@ -27,7 +27,9 @@ The Facilities needs a better understanding of how veterans expect to find healt
   - Age-based (such as shingles or pneumococcal)
   - Risk-based (such as pneumococcal)
   - Seasonal flu
-  - COVID vaccination/testing
+  - Time or incident-based (such as Tdap, Tdap Boosters)
+  - COVID vaccination
+  - COVID testing
 
 ## Method
 
