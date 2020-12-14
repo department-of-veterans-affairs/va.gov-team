@@ -27,7 +27,7 @@ Before we start, a few things I want to mention::
 
 - This entire session should take about 30 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- We will not be applying for any VA benefits today. Again, this is just to get feedback and improve the tools.
+- We will not be applying for any VA benefits today. Again, this is to get feedback and improve the tools.
 - Please talk aloud as you're looking through things. For example say "now I'd click on this.. what's this?" this helps me understand what's going through your head while using the tool.
 - To protect your privacy, we are not going to use your real name or Social Security Number today. Feel free to make-up a name, birthday, SSN...I can aways provide that information if you want
 - If for any reason and at any time you want to stop the session, please let me know.
