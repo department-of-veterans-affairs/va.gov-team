@@ -15,10 +15,9 @@
 </details>
 
 <details><summary>Parking lot</summary>
-
+- Let's review FE timeline and validate for when we might have velocity to work this into sprint cycle.
 </details>
-  
-
+   
 <details><summary>Relevant CLP product backlogs and docs</summary>
   
 
