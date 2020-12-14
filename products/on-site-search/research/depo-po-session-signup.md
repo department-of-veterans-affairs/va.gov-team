@@ -15,7 +15,7 @@ Outlook calendar invites will be sent to participants.
 |John Hashimoto  | John Hashimoto  | John Hashimoto  |
 |Denise Coveyduc | Denise Coveyduc | Denise Coveyduc |
 |Megan Gayle     | Megan Gayle     | Megan Gayle     |
-|Kevin M. Hoffman|                 | Samara Strauss  |
+|Kevin M. Hoffman| Dror Matalon    | Samara Strauss  |
 |                |                 |                 |
 |                |                 |                 |
 |                |                 |                 |
