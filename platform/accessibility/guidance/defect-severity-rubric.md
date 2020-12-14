@@ -15,7 +15,7 @@ The severity rubric aligns to both the [axe-core rule descriptions](https://gith
   * [Defect 1: Critical](#508-defect-1)
 * [Post-launch Issues](#post-launch-issues)
   * [Defect 2: Serious](#508-defect-2)
-  * [Defect 3: Minor](#508-defect-3)
+  * [Defect 3: Moderate](#508-defect-3)
   * [Defect 4: Trivial](#508-defect-4)
 
 ## Launch Blocking Issues
@@ -169,7 +169,7 @@ These issues have the potential to disrupt the user experience and should be fix
 ---
 ### 508-defect-3
 
-**⚠️ Minor. Should be fixed in 1-3 sprints post-launch.**
+**⚠️ Moderate. Should be fixed in 1-3 sprints post-launch.**
 
 These issues have the potential to disrupt the user experience and should be fixed as time allows in the first 1-3 sprints post-launch.
 
