@@ -6,8 +6,10 @@ Whom:
 - Philip Becker
 - Michael Fleet
 - Lindsey Hattamer
-- Keifer Furzland
-- Alex Pappas
+- Dan Shank
+- Chris Valarida
+- Eric Boehs
+- Travis Hilton
 
 ## Status
 
