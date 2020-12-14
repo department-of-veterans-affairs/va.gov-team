@@ -31,6 +31,9 @@ The Facilities and VAOS teams need better understanding of the process for searc
 
 - Treejack sort. This method will allow the participants to easily choose the location(s) within the taxonomy where they expect to find vaccination services information. 
 - Using a treejack sort, multiple tasks can be given to account for real-world scenarios (e.g. annual Flu shot, COVID-19 vaccination, etc.)
+- **Josh feedback 
+  - Consider creating two tree sorts. One would have a standalone vaccination section in the accordian of Health Services page. The second one would not.
+    - The purpose of the first sort with a standalone vaccine section is to determine if Veterans expect to see this in its own place in the heirarchy of Health Services.
 
 ## Participants (Preliminary - in Progress)
 
