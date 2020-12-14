@@ -17,7 +17,7 @@ We want to have a consistent way of tracking the build time for both the GraphQL
 
 The metric used for comparing both builds is ***content build time* + *deploy time***.
 
-Currently the content build step happens in the [Build](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/common.groovy#L208) stage of the Jenkins pipeline. The deploy is started in the [Deploy](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile#L122) stage of the Jenkins pipeline (at least for dev and staging builds). The deploy is then carried out by another Jenkins pipeline. This means that the build time and deploy time will come from two separate Jenkins pipelines. This will change in the future once the content build separation takes place.
+Currently the content build step happens in the [Build](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/common.groovy#L208) stage of the Jenkins pipeline. The deploy is started in the [Deploy](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile#L122) stage of the Jenkins pipeline (at least for dev and staging deploys). The deploy is then carried out by another Jenkins pipeline. This means that the build time and deploy time will come from two separate Jenkins pipelines. This will change in the future once the content build separation takes place.
 
 Adding the time of these two stages will give us the total time it takes to build and deploy content on the site.
 
@@ -47,17 +47,17 @@ The build time can be found by getting the Build # from the Deploy's Build Time 
 `http://jenkins.vfs.va.gov/blue/rest/organizations/jenkins/pipelines/testing/pipelines/vets-website/branches/master/runs/BUILD-NUMBER-GOES-HERE/nodes/97/steps/118/log/?start=0`.
 
 The above link accesses the log of the [build.sh](https://github.com/department-of-veterans-affairs/vets-website/blob/master/script/build.sh) script that is ran in the `Build` stage of the pipeline. The log can also be accessed manually by: 
-- Visiting the Deploy's Build Time Trend Page and clicking the Deploy's build number
+- Visiting the Deploy's Build Time Trend Page and clicking the Deploy's **Build #**
 <img width="1609" alt="Screen Shot 2020-12-09 at 9 35 28 AM" src="https://user-images.githubusercontent.com/9042882/101665997-83c4f200-3a02-11eb-8580-2d38c3dab31b.png">
 
-- Clicking the build number of the pipeline that triggered the deploy
+- Clicking the **build number** of the pipeline that triggered the deploy
 <img width="1609" alt="Screen Shot 2020-12-08 at 7 35 45 PM" src="https://user-images.githubusercontent.com/9042882/101666917-8ffd7f00-3a03-11eb-83f7-dedd6d76c0c9.png">
 
 - Opening the Open Blue Ocean view
 <img width="1609" alt="Screen Shot 2020-12-08 at 7 35 54 PM" src="https://user-images.githubusercontent.com/9042882/101667310-08644000-3a04-11eb-8c2d-49941e48d551.png">
 
-- Selecting the build environment name under the "Build" stage
-- Opening the third drop down and clicking "Show complete log"
+- Selecting the build environment name under the **Build** stage
+- Opening the third drop down and clicking **Show complete log**
 <img width="1609" alt="Screen Shot 2020-12-08 at 7 36 20 PM" src="https://user-images.githubusercontent.com/9042882/101667998-dc958a00-3a04-11eb-94bc-54f32c4e89ba.png">
 
 
