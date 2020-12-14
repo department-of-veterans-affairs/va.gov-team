@@ -40,15 +40,15 @@ We currently have the option of creating the build using the GraphQL (GraphQL bu
 
 ##### Process to obtain the Drupal content from GraphQL
 
-1. Metalsmith calls the `getDrupalContent` function from `/drupal/metalsmith-drupal`
-2. The `getDrupalContent` function calls `loadDrupal` while passing `buildOptions` as the argument
-3. The `loadDrupal` function then calls `getContentViaGraphQL`
+1. Metalsmith calls the [`getDrupalContent`](https://github.com/department-of-veterans-affairs/vets-website/blob/7b4c87257cfc9b5e684c4ba7ddca283efbc4329d/src/site/stages/build/drupal/metalsmith-drupal.js#L258) function from [`/drupal/metalsmith-drupal`](https://github.com/department-of-veterans-affairs/vets-website/blob/7b4c87257cfc9b5e684c4ba7ddca283efbc4329d/src/site/stages/build/drupal/metalsmith-drupal.js)
+2. The [`getDrupalContent`](https://github.com/department-of-veterans-affairs/vets-website/blob/7b4c87257cfc9b5e684c4ba7ddca283efbc4329d/src/site/stages/build/drupal/metalsmith-drupal.js#L258) function calls [`loadDrupal`](https://github.com/department-of-veterans-affairs/vets-website/blob/7b4c87257cfc9b5e684c4ba7ddca283efbc4329d/src/site/stages/build/drupal/metalsmith-drupal.js) while passing `buildOptions` as the argument
+3. The [`loadDrupal`](https://github.com/department-of-veterans-affairs/vets-website/blob/7b4c87257cfc9b5e684c4ba7ddca283efbc4329d/src/site/stages/build/drupal/metalsmith-drupal.js#L214) function then calls [`getContentViaGraphQL`](https://github.com/department-of-veterans-affairs/vets-website/blob/7b4c87257cfc9b5e684c4ba7ddca283efbc4329d/src/site/stages/build/drupal/metalsmith-drupal.js#L143)
 
 ##### Process to obtain the Drupal content from CMS
 
-1. Metalsmith calls the `getDrupalContent` function from `/drupal/metalsmith-drupal`
-2. The `getDrupalContent` function calls `loadDrupal` while passing `buildOptions` as the argument
-3. The `loadDrupal` function verifies that the `--use-cms-export` flag is set to `true`, if so, it calls `getContentFromExport`
+1. Metalsmith calls the [`getDrupalContent`](https://github.com/department-of-veterans-affairs/vets-website/blob/7b4c87257cfc9b5e684c4ba7ddca283efbc4329d/src/site/stages/build/drupal/metalsmith-drupal.js#L258) function from [`/drupal/metalsmith-drupal`](https://github.com/department-of-veterans-affairs/vets-website/blob/7b4c87257cfc9b5e684c4ba7ddca283efbc4329d/src/site/stages/build/drupal/metalsmith-drupal.js)
+2. The [`getDrupalContent`](https://github.com/department-of-veterans-affairs/vets-website/blob/7b4c87257cfc9b5e684c4ba7ddca283efbc4329d/src/site/stages/build/drupal/metalsmith-drupal.js#L258) function calls [`loadDrupal`](https://github.com/department-of-veterans-affairs/vets-website/blob/7b4c87257cfc9b5e684c4ba7ddca283efbc4329d/src/site/stages/build/drupal/metalsmith-drupal.js#L214) while passing `buildOptions` as the argument
+3. The [`loadDrupal`](https://github.com/department-of-veterans-affairs/vets-website/blob/7b4c87257cfc9b5e684c4ba7ddca283efbc4329d/src/site/stages/build/drupal/metalsmith-drupal.js#L214) function verifies that the `--use-cms-export` flag is set to `true`, if so, it calls [`getContentFromExport`](https://github.com/department-of-veterans-affairs/vets-website/blob/7b4c87257cfc9b5e684c4ba7ddca283efbc4329d/src/site/stages/build/drupal/metalsmith-drupal.js#L199)
 
 #### Deployment
 
