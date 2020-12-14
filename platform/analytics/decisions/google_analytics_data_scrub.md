@@ -3,12 +3,12 @@ Decision-maker: Rachael Roueche
 Decision-date: 12/9/2020
 
 ## Background
-If you go to [Find VA Locations](https://www.va.gov/find-locations), you'll see 3 fields available for you to enter data into. The data from those 3 fields has been collected for the past 2 months and sent to Google Analytics and BigQuery to help the FL team make product strategy decisions.
+If you go to [Find VA Locations](https://www.va.gov/find-locations), you'll see 3 fields available for you to enter data into. The data from those 3 fields was collected over an approximately 2 month time span and sent to Google Analytics and BigQuery to help the Facility Locator team make product strategy decisions.
 
 The problem is that we can assume sometimes the location data will be their home address they're entering -- which makes the data from that field potential PII.
 
 ## Decision
-DEPO has decided to scrub the Facility Locator location entries data from Google Analytics and BigQuery. Unfortunately, the way Google Analytics scrubs work, Google can't isolate specific event actions to delete. They instead scrub *all* event action data for a given time period. So we'll lose all event action data in Google Analytics from approximately 10/12/2020 - 12/2/2020. We expect that to occur on Friday this week.
+DEPO has decided to scrub the Facility Locator location entries data from Google Analytics and BigQuery, and to remove the Google Tag Manager code collecting that data from the Facility Locator product. Unfortunately, the way Google Analytics scrubs work, Google can't isolate specific event actions to delete. They instead scrub *all* event action data for a given time period. So we'll lose all event action data in Google Analytics from approximately 10/12/2020 - 12/2/2020. We expect that to occur on Friday this week.
 
 All of GA is backfilled in our new data warehouse, BigQuery, and most of our DOMO dashboards are populated from BigQuery, not GA. So the good news is we’re not completely losing the deleted data, (aside from the problematic facility locator data) and DOMO dashboards should largely be unaffected.
 
