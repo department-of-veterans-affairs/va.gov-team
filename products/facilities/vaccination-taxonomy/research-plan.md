@@ -11,7 +11,7 @@ The Facilities and VAOS teams need better understanding of the process for searc
 
 - Learn the Veteran mental models for vaccination within the health service taxonomy, primarily for VAMCs
 
-### Questions to be answered by Research results 
+### Questions to be answered by research results 
 - Where in the VHA taxonomy do Veterans expect vaccination services to be found?
   - For example, do they expect to find it under primary care, with pharmacy (related to "medication"), under a particular specialty; or within a taxon named "Vaccination" (or similar)?
   - What words do Veterans use when searching for vaccination-related services?
