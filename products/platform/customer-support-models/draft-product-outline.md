@@ -16,7 +16,7 @@ VSP teams
 
 ### Key Performance Indicators (KPIs)
 
-- Customer satisfaction with platform support.
+- Increase in customer satisfaction.
 - Time it takes to resolve customer support requests.
 
 #### Baseline KPI Values
