@@ -24,7 +24,7 @@ Outlook calendar invites will be sent to participants.
 |                |                 |                 |
 
 
-Please add your name here if you prefer to attend a fourth and final session in early January.
+Please add your name here if you prefer to join a fourth and final session in early January.
 
 - TBD
 - TBD
