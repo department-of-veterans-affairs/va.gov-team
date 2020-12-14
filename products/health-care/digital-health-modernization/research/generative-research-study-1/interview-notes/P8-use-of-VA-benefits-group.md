@@ -2,15 +2,15 @@
 
 **Monday, December 14, 3:00pm - 4:00pm**
 
-Initials: TY 
-Veteran 
-Male 
-White or Caucasian 
-55 - 64 
-Some college (no degree) 
-Army 
-RI 
-healthcare, disability, pension – Urban 
+* Initials: TY 
+* Veteran 
+* Male 
+* White or Caucasian 
+* 55 - 64 
+* Some college (no degree) 
+* Army 
+* RI 
+* healthcare, disability, pension – Urban 
 
 ### Background (5 minutes)
 To get started, I’d like to get a little background information about you, and your experience with the VA.
@@ -22,7 +22,7 @@ To get started, I’d like to get a little background information about you, and
 * Was Vet svc rep, medically retired - VA employee at Providence VA on pre-determination team (when claims for compensation or pension come in, I wd work those claims — Worked for outreach section just b4 retired)
 * Worked at special population clinic (homeless clinic), went to hospital 2x week. Job was to help ppl with benes, coord with hospital (bt hospital and regional office he worked at)
 * Had a business and sold it
-* From Rhode Island. 
+* From Rhode Island
 
 2. *When did you leave the military?*
 June 1, 2005. 
@@ -130,27 +130,6 @@ Yes, probably. “I don’t know how that wd work for the hospital folks.”
 
 ### Mental model of health at the VA (20 minutes)
 
-*Things to watch for*
-
-*The exact path participants take when sharing their screen*
-* 
-
-*Mention of VA online tools like VA.gov, My HealtheVet, or eBenefits*
-* 
-
-*Non-VA online resources*
-* 
-
-
-*In-person or non-digital VA resources like the Contact Center, VSOs, etc.*
-* 
-
-*Any places where participants express confusion or frustration*
-* 
-
-*Any feedback that could make this process better*
-* 
-
 Now I’d like to hear about your experience transitioning from the military to the VA. *(10 minutes)*
 
 1. *How did you learn about the health care available to you through the VA, and what was the process of applying for and accessing those benefits?* (In follow up, confirm if participant used any online tools or resources.)
@@ -180,7 +159,7 @@ Now I’d like to hear about your experience transitioning from the military to 
 5. *How would you explain a “disability rating” to a new Veteran?*
 “I’d show ‘em the charts bc that’s what they wd understand — the money.” 
 
-Formula  the “bean counters” use. 
+Formula the “bean counters” use. 
 
 If you lose an arm and they give you 80%, you can’t count the fingers bc you already have the arm.
 
