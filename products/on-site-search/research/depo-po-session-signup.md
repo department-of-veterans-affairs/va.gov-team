@@ -6,7 +6,7 @@ With veteran user research planned by the new Search & Discovery product team in
 - What are the specific audience (personas/tasks) needs?
 - If there were no constraints, what would be the ideal VA.gov search experience?
 
-Please sign up for one of the three planned "workshops" in December.  (Note: Each session is limited to **8 participants** to ensure time for each attendee to participate in the conversation.) We will set a fourth session in early January to accommodate schedules and demand, if needed.  
+Please sign up for one of the three planned guided conversations in December.  (Note: Each session is limited to **8 participants** to ensure appropriate time to capture thinking of all.) We will set a fourth session in early January -- if needed -- to accommodate schedules and demand.  
 
 Outlook calendar invites will be sent to participants.
 
@@ -24,7 +24,7 @@ Outlook calendar invites will be sent to participants.
 |                |                 |                 |
 
 
-Please add your name here if you prefer to join a fourth and final session in early January.
+Please add your name here if you are unable to join us in December and would prefer to participate in a fourth and final session in early January.
 
 - TBD
 - TBD
