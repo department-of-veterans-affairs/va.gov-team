@@ -23,11 +23,12 @@ However, using this inflection has a downstream affect on json responses transfo
 
 ## Decision
 
-To create a deprecation path, there will be a patch implemented for the olive_branch middleware that returns an uninflected version of keys containing `VA`.
+Create a patch implemented for the olive_branch middleware that returns keys containing `VA` as if "VA" was not an acronym.
+
+In the future vets-api should introduce a version that doesn't support olive_branch.
 
 ## Consequences
 
-- We will be returning additional keys in JSON responses using a `VA`-named key, so this will make payload sizes slightly larger, supporting both naming schemes (`VA`-named key and `Va`-named key)
 - We are introducing a bit of tech debt in that we are patching an external gem.
-  - The intent is that there is a deprecation phase and we can remove this patch when endpoints have started using the inflected key.
   - The olive_branch gem has had no changes in over a year, so it changing to break our patch is low risk.
+  - Hopefully this code will remain fairly stable if we can move to a new version of vets-api that doesn't involve olive_branch.
