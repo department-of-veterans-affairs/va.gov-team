@@ -1,7 +1,7 @@
 _Note: Updated **Method** and **Criteria** sections with feedback from Josh._
 
 ## Health Services - Vaccination Services Taxonomy
-The Facilities and VAOS teams need better understanding of the process for searching for community care providers to inform the PPMS taxonomy work and to improve the Veteran search experience. 
+The Facilities needs a better understanding of how veterans expect to find health services at VA as a foundational part of improving the Veteran search experience. 
 
 ## What we need to do
 
