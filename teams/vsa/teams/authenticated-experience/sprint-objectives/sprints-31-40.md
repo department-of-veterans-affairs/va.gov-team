@@ -410,6 +410,7 @@ On hold this sprint
 - LOA1 design
 - Visual design
 - Gather feedback from design team
+- How do we guide people to the new My VA dashboard? #14581
 
 **FE**
 
