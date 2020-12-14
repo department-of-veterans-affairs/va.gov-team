@@ -39,7 +39,16 @@ If you have questions please let Rachael Roueche know in Slack. The analytics te
 ### FAQs
 
 **How will this impact the domo covid-19 dash?**
-It shouldn't impact the covid-19 dashboard since that dashboard already pulls from BigQuery, not GA.
+Covid Dashboards that won’t be affected:
+- COVID-19 digital response (Homepage)
+- Content Usage
+- Topic Trends
+- Tool Usage
+- Vaccine Response - Work in Progress
+- Exploratory Analytics
+
+Covid Dashboards that will be affected:
+- COVID-19 - VA.gov Response (the original dashboard, now archived and no longer maintained, data sources still pull from GA)
 
 **When does the scrubbing start? (i.e., by when do we need to save/export desired event actions data?)**
 Scrubbing starts as early as Friday 12/18
