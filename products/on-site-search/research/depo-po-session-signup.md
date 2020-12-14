@@ -8,7 +8,7 @@ With veteran user research planned by the new Search & Discovery product team in
 
 Please sign up for one of the three planned "workshops" in December.  (Note: Each session is limited to **8 participants** to ensure time for each attendee to participate in the conversation.) We will set a fourth session in early January to accommodate schedules anddemand, if needed.
 
-| Tues 12/17 11:30am-12:30pm est | Weds 12/18 1:30-2:30pm est | Tues 12/22 1:30-2:30pm est |
+| Tues 12/17 - 11:30am-12:30pm est | Weds 12/18 - 1:30-2:30pm est | Tues 12/22 - 1:30-2:30pm est |
 |--|--|--|
 |John Hashimoto  | John Hashimoto  | John Hashimoto  |
 |Denise Coveyduc | Denise Coveyduc | Denise Coveyduc |
