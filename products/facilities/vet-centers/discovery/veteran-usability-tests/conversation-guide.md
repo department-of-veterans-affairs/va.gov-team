@@ -49,7 +49,7 @@ Thank you for sharing that.
 
 ## Counseling services 
 
-For the purpose of this session, we'll be mostly focused on mental health care services offered at the VA. 
+For the purpose of this session, we'll be mostly focused on different types of counseling services offered at the VA, like one-on-one counseling or in a group setting. 
   
   - Are you familiar with these type of services offered by the VA?
 
