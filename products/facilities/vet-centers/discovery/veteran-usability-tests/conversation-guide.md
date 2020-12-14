@@ -96,7 +96,7 @@ I'm going to send you a link to that website to click on.  It's going to look li
 
 So, I'm going to share the link in the chat window inside Zoom. You may have to find that same row of buttons and find the one that says "chat" or it may be within a "more" button.
 
-[Share link to prototype](https://preview.uxpin.com/603da0b67ccefbbee74fcd8bb77a8fed12baabb5#/pages/134612636/simulate/no-panels?mode=cvhidmhttp://)
+[Share link to prototype](https://preview.uxpin.com/603da0b67ccefbbee74fcd8bb77a8fed12baabb5#/pages/134612636/simulate/no-panels?mode=cvhidmhttp:~2F~2Ff)
 
 I'll give you a second to take the page in. [limit to a quick scan]
 
