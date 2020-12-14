@@ -12,22 +12,22 @@ DEPO has decided to scrub the Facility Locator location entries data from Google
 
 All of GA is backfilled in our new data warehouse, BigQuery, and most of our DOMO dashboards are populated from BigQuery, not GA. So the good news is we’re not completely losing the deleted data, (aside from the problematic facility locator data) and DOMO dashboards should largely be unaffected.
 
-*What exactly is being deleted?*
+### What exactly is being deleted?
 
 “Event actions” from the 10/12/20 - 12/2/20 time period are being deleted from Google Analytics. So, anything that we track with an “event action” like claim details viewed, pdf and letter file names, and scroll % will be lost in GA (but will be backed up in BigQuery). More general things like pageviews, submission counts, and time on page won’t be deleted.
 
-*How this may impact you:*
+### How this may impact you:
 
 - Reports in GA will now have missing event action data for that time period.
 - The reporting on va.gov/performance-dashboard will have gaps in the data for that time period. We’ll put it on our backlog to reconfigure this page, but it’s not a high priority for us bc this page only gets about 3,300 pageviews per month (for comparison, the FAQs page gets about 75,000 unique pageviews per month.)
 - Facility Locator dashboards will simply be missing location entries data. @Dave Conlon please get a new analytics request in so we can work w/your team to re-create the GTM code for the info that’s safe to collect from that product.
 
-*What this should NOT impact:*
+### What this should NOT impact:
 
 - Your ability to monitor your VA.gov products in realtime. Contrary to what I said last time, event actions will continue to populate normally outside the timeframe that’s getting deleted.
 - Most DOMO dashboards. Thanks to BigQuery and recent Analytics team efforts, almost all of our DOMO dashboards now pull from BigQuery and not GA.
 
-*Actions you can take:*
+### Actions you can take:
 
 - Export GA or Data Studio reports or dashboards prior to Friday
 - Notify the Analytics team if you notice anything weird in your DOMO dashboards after Friday, so they can prioritize configuration updates.
