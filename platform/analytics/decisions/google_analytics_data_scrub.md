@@ -14,7 +14,7 @@ All of GA is backfilled in our new data warehouse, BigQuery, and most of our DOM
 
 ### What exactly is being deleted?
 
-“Event actions” from the 10/12/20 - 12/2/20 time period are being deleted from Google Analytics. So, anything that we track with an “event action” like claim details viewed, pdf and letter file names, and scroll % will be lost in GA (but will be backed up in BigQuery). More general things like pageviews, submission counts, and time on page won’t be deleted.
+“[Event actions](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20201002&_u.date01=20201202&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=250/)” from the 10/12/20 - 12/2/20 time period are being deleted from Google Analytics. So, anything that we track with an “event action” like claim details viewed, pdf and letter file names, and scroll % will be lost in GA (but will be backed up in BigQuery). More general things like pageviews, submission counts, and time on page won’t be deleted.
 
 ### How this may impact you:
 
