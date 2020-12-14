@@ -1,6 +1,12 @@
 # Appointment Cards
 The following documents all of the different variations of appointment cards we display on the VAOS appointment lists.
 
+## Data Source
+Appointments are fetched from the backend and then transformed into FHIR format before being displayed.  Some examples of mock data we use for development can be found in.json files here:
+* [Confirmed VA Appointments](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/vaos/services/mocks/var/confirmed_va.json)
+* [Confirmed Community Care appointments](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/vaos/services/mocks/var/confirmed_cc.json)
+* [Appointment Requests](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/vaos/services/mocks/var/requests.json)
+
 ## Future Appointments
 The future appointments tabs contain a combination of confirmed appointments (stored in VistA) and pending appointments (appointment requests).
 
