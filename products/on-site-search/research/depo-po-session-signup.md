@@ -10,9 +10,16 @@ Please sign up for one of the three planned "workshops" in December.  (Note: Eac
 
 | Tues 12/17 11:30am-12:30pm est | Weds 12/18 1:30-2:30pm est | Tues 12/22 1:30-2:30pm est |
 |--|--|--|
-|John Hashimoto  | John Hashimoto | John Hashimoto |
+|John Hashimoto  | John Hashimoto  | John Hashimoto  |
 |Denise Coveyduc | Denise Coveyduc | Denise Coveyduc |
-|                |                |                  |
+|                |                 |                 |
+|                |                 |                 |
+|                |                 |                 |
+|                |                 |                 |
+|                |                 |                 |
+|                |                 |                 |
+|                |                 |                 |
+|                |                 |                 |
 
 
 Please add your name here if you prefer to attend a fourth and final session in early January.
