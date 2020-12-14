@@ -35,3 +35,12 @@ All of GA is backfilled in our new data warehouse, BigQuery, and most of our DOM
 Though this will delay our ability to do other analytics-related activities for VFS teams in the short term, Veterans using our site trust us to be responsible with their data and it’s important we do the right thing and prioritize this scrub effort.
 
 If you have questions please let Rachael Roueche know in Slack. The analytics team will publish a post mortem w/more details on takeaways and action items for future prevention as well.
+
+### FAQs
+
+**How will this impact the domo covid-19 dash?**
+It shouldn't impact the covid-19 dashboard since that dashboard already pulls from BigQuery, not GA.
+
+**When does the scrubbing start? (i.e., by when do we need to save/export desired event actions data?)**
+Scrubbing starts on Friday 12/19
+
