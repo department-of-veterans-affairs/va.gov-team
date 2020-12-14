@@ -18,44 +18,59 @@
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
 | [UI]  | -- | # |
-| [FE]  | -- | # |
+| [FE]  Accessability | -- | # |
+| [FE]  Clean up | -- | # |
 | [Product] External /Call Center troubleshooting Documentation	| -- |  |
 | [All] Collab Cycle Approvals for Pros 	| -- |  |
+| [UI] MVP Usability Testing 	| -- |  |
+| [UX] Analytics	| -- |  |
+| [Product] Change Management for Implementation 	| -- |  |
+| [FE] Integration  (combined pgd and map) with vets API for pulling in a appointment data | -- | # |
+| [FE] Integration (combined pgd and map) with vets API for pulling in all questionnaires list| -- | # |
+| [FE] Integration (combined pgd and map) with vets API for subitting data | -- | # |
 
-## Sprint 36 - Integraion Testing 
+## Sprint 36 - Integraion Testing / Analytics 
 12/2/2020 - 12/15/2020
 - [Milestone 370](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/370)
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
-| [UI]  | -- | # |
-| [FE]  | -- | # |
-| [BE]  | -- | # |
-| [Product] Change Management for Implementation 	| -- |  |
+| [UX] Stakeholder/Clinician Interviews  | -- | #15049  |
+| [UX] Create interactive MVP prototype   	| -- |  |
+| [UX/FE] Print PDF of Questionnaire | -- | #  |
+| [BE] Post Questionnaire Responses | -- | # |
+| [FE] Content and IA updates | -- | # |
+| [BE/FE] Implementation for Questionnaire Trigger Service | -- | #  |
 
 
-## Sprint 35 - Print /Analytics and Security
+## Sprint 35 - Print /Analytics and Security/ Notifications
 11/18/2020 - 12/1/2020
 - [Milestone 369](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/369)
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
-| [UX] Create interactive MVP prototype   	| -- |  |
-| [UI] MVP Usability Testing 	| -- |  |
-| [UX/FE] Print PDF of Questionnaire | -- | #  |
-| [UX/FE] Analytics	| -- |  |
+| [UX/Product] Stakeholder/Clinician Interviews  | -- | #15049  |
+| [UX] Notifications via Appt Reminders/link | -- | #  |
+| [FE] Questionnaire Manager  | -- | | 
+| [FE] Clean up | -- | |
 | [BE] Appt Status updates | -- | #  |
 
-## Sprint 34 - Questionnaire List / PGD and Notifications Text 
+
+
+## Sprint 34 - Questionnaire List / Print
 11/4/2020 - 11/17/2020
 - [Milestone 368](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/368)
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
-| [UX/FE] Demographics Banner  | -- | #  |
-| [FE] Questionnaire List | -- | #  |
-| [UX/BE/FE] Notifications via Appt Reminders/link | -- | #  |
-| [BE/FE] Implementation for Questionnaire Trigger Service | -- | #  |
+| [Product] VCM and eScreening strategy docs submitted | -- |   |
+| [UX] Demographics Banner  | -- | #13153  |
+| [UX/Product] Stakeholder/Clinician Interviews Script/conversation guides  | -- | #  |
+| [UX] Print | -- | #15158  |
+| [FE] Questionnaire List | -- | #15525  |
+| [FE] Usability Testing Feedback Updates | -- | #many  |
+| [BE] POST/GET questionnaire responses to appointment in staging(PGD sandbox) | -- | #15006 need ticket # |
+| [BE] FHIR Mapping in MAP| -- | #|
 
 
 ## Sprint 33 - Questionnaire Trigger and Usability Feedback Implemented
@@ -65,7 +80,7 @@
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
 | [UI] Usability Testing Feedback | -- | #  |
-| [UI] Questionnaire List Complete | -- | #  |
+| [UI] Questionnaire List Started | -- | #  |
 | [UX/FE] IA for navigation on va.gov	| -- |  |
 | [FE] Save in Progress | -- | #  |
 | [BE/FE] Land implementation strategy Questionnaire Trigger Service | -- | #  |

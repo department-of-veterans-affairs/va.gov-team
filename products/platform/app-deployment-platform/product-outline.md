@@ -1,14 +1,14 @@
-# App Deployment Platform (FE) - Product Outline [DRAFT]
+# App Deployment Platform (FE) - Product Outline
 
 ## Overview
 
 VA.gov is composed of static content (.html), applications (.js), and styling (.css). Static content files are created from the Metalsmith build script. Application bundles are created with Webpack. Currently (Q3 2020), these tasks are run in a single build script in the CI pipeline, which deploys apps and content to an AWS S3 bucket that is deployed to VA.gov. 
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address.*
+All teams deploying on VA.gov — including application teams and teams iterating on CMS templates — build and deploy from vets-website. This results in a lot of interdependencies between teams. When one application has an issue such as a failing test, all teams are blocked. How might we iterate on the app deployment platform for improved developer experience and increased application team autonomy? 
 
 ## Personas
-*Who are the users of this product?*
+VFS engineers
 
 ## Measuring Success
 
@@ -22,7 +22,8 @@ VA.gov is composed of static content (.html), applications (.js), and styling (.
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- VFS teams should ideally be able to build and deploy their own apps
+- VSP needs some level of control over the quality and security of app teams' build and deploy processes
 
 ## Solution Approach
 

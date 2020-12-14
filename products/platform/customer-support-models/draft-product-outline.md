@@ -1,12 +1,14 @@
-# Customer Support Models [Draft]
+# Customer Service Models [Draft]
 
 ## Overview
 
- A set of plug and play customer support models that enable VSP to consistently provide high quality support while establishing self-service pathways that work for different types of VFS teams
+ A set of plug and play customer support process models that enable VSP to consistently provide high quality support while establishing self-service pathways that work for different types of VFS teams
 
 ## Problem Statement
 
-In order to scale the platform to comfortably support 50+ VFS teams, VSP needs standard E2E support models for the most common customer segments. Our research on VSP team members determined they receive and handle support requests in a wide variety of ways. For VFS teams, our research shows a recurring pain point is a lack of understanding of why and how to engage with VSP at different points in their user journey on the platform.
+VFS teams find it difficult to understand how best to engage with VSP support resources and where to go to get guidance on platform best practices at different points in their user journey. VSP teams receive customer support requests of widely varying nature and complexity which makes it challenging to provide a consistent support experience to VFS teams.
+
+How might we provide VFS teams with an experience where at every point in their user journey it is clear to them what to expect when requesting support from VSP no matter the nature or complexity of their request?
 
 ## Personas
 
@@ -16,8 +18,8 @@ VSP teams
 
 ### Key Performance Indicators (KPIs)
 
-- Number of customer support requests divided by the number of VFS teams.
-- % of customer support requests that are resolved without human intervention.
+- Increase in customer satisfaction.
+- Time it takes to resolve customer support requests.
 
 #### Baseline KPI Values
 

@@ -7,6 +7,7 @@ Here you can find finalized documentation on each of the practices and services 
 ## Roles and Responsibilities by Practice
 
 * [Accessibility](/platform/working-with-vsp/roles-and-responsibilities/accessibility.md)
+* [Information Architecture (IA)](/platform/working-with-vsp/roles-and-responsibilities/information-architecture.md)
 
 ### To come 
 
@@ -15,7 +16,6 @@ Here you can find finalized documentation on each of the practices and services 
 * Visual Design and the Design System
 * Frontend (FE) and Backend (BE) Code Quality
 * Quality Assurance (QA) and End-to-End (E2E) Testing
-* Information Architecture (IA)
 * Authority to Operate (ATO)
 * Analytics Instrumentation
 * Content

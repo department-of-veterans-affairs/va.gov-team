@@ -1,5 +1,23 @@
 ## Status/decisions
 
+### Week of 11/23/2020
+
+- In kickoff session held on 11/23 with Jenny Heiland-Luedtke and Jeffrey Grandon, the following points came-up:
+  - How will URL be specified?  Sometimes, they are asked to use a specific naming convention -- eg. agency.gov/hurricaneiris/ (Jenny conceded that redirects can be used to handle these)
+  - Can we make sure to include Open Graph tags to ensure a unique image -- at the very least, the hero image  (vs. the standard VA logo) -- can be used when sharing the CLP.
+  - Can we consider enabling the ability to publish a multi-language (in particular Spanish, followed by Tagalog) version of a CLP?
+- Answered all CMS-Content rigidity questions to allow CMS team to complete MVP build by end of year.
+
+### 11/19/2020
+
+- Completed round-one of [top-line Q-and-As related to CMS-Content rigidity](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/content-requirements-spec/cms-content-model-and-rigidity.md) -- needed to keep CMS devs on track for Nov-Dec sprint work.
+- User Group kickoff/info sessions have been set with following VA stakeholder/beta user groups:
+  - 11/19 - Sandy Tadeo & Paul Shute of VBA (Completed - follow up in Dec)
+  - 11/23 - Jenny Heiland-Luedtke, Jeff Grandon, Steve Tokar of VHA Digital Comms
+  - VEO: Tim Hudak, Melissa Rebstock, Laura Petrola
+  - VACO: Josh Tuscher, Gary Hicks
+- Archived Campaign Page content for initial content modeling can be based on VA Solid Start - https://benefits.va.gov/transition/solid-start.asp
+
 ### 7/13/2020
 
 Content/IA & Business Requirements session to work-through questions about use, authorship, governance, KPIs. Participants included: Jen Lee, Meg Peters, Mikki Northuis, Ryan Thurwell, Mickin Sahni, Kevin Walsh. At the meeting, we fleshed out answers for key questions [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/content-requirements-spec/content_business_rules.md).  John will convert this into a table-formatted requirements document and update the Product Outline to reflect latest thinking.   

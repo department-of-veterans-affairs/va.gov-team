@@ -1,12 +1,8 @@
 # VA Form 22-10203: Edith Nourse Rogers STEM Scholarship Application 
 
-Tablet/desktop:  
-**NEW Breadcrumb** (updated 8/5/2020): [Home]() > [Education and training]() > [How to apply]() > Apply for the Edith Nourse STEM Scholarship
+Desktop breadcrumb: [Home]() > [Education and training]() > [Other VA education benefits]() > [Edith Nourse Rogers STEM Scholarship]() > Apply for the Rogers STEM Scholarship  
 
-OLD BREADCRUMB: [Home]() > [Education and training]() > [Other VA education benefits]() > [Edith Nourse Rogers STEM Scholarship]() > Apply for the Edith Nourse Rogers STEM Scholarship
-
-
-Mobile breadcrumbs show only the title of the previous page linked: < [Edith Nourse Rogers STEM Scholarship]() 
+Mobile breadcrumb: < [Edith Nourse Rogers STEM Scholarship]()   
 
 ## Form Title: Apply for the Rogers STEM Scholarship 
 
@@ -49,15 +45,18 @@ If you apply and you're not eligible, your application will be denied.
 
 { subway map }  
 
-#### 1. Determine eligibility  
+#### 1. Determine your eligibility  
 
 **To be eligible for the [Edith Nourse Rogers STEM Scholarship](https://benefits.va.gov/gibill/fgib/stem.asp), you must meet all the requirements below.**  
 
 * **Education benefit:** You're using or recently used Post-9/11 GI Bill or Fry Scholarship benefits.  
 
-* **STEM degree:** You're enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** have already earned a STEM bachelor’s degree and are pursuing a teaching certification. [See eligible programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  
+* **STEM degree:** 
+  * You're enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** 
+  * You've already earned a STEM bachelor’s degree and are pursuing a teaching certification.   
+  [See eligible degree programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  
 
-* **Remaining entitlement:** You've used all of your education benefits or are within 6 months of doing so when you submit your application. [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)   
+* **Remaining entitlement:** You've used all of your education benefits or are within 6 months of using all your benefits when you submit your application. [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)   
 
 
 #### 2. Prepare  
@@ -78,9 +77,9 @@ Complete this education benefits form.
 After submitting the form, you’ll get a confirmation message. You can print this page for your records.
 
 #### 4. VA review 
-We usually process claims within **30 days**. We’ll let you know by mail if we need more information.
+We usually process claims within 30 days. We’ll let you know by mail if we need more information.  
 
-We offer tools and counseling programs to help you make the most of your educational options. [Learn about career counseling options](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/)
+[Learn more about what happens after you apply](https://www.va.gov/education/after-you-apply/)  
 
 #### 5. Decision
 If we approve your application, you’ll get a Certificate of Eligibility (COE), or award letter, in the mail.  Bring this COE to the VA certifying official at your school.  This person is usually in the Registrar or Financial Aid office at the school.
@@ -106,6 +105,8 @@ Sign in or create an account { button }
 Start the education application >> { button }  
 
 { end if logged in }  
+
+{ OMB / Privacy Policy anchor #privacy_policy (link for SCO email https://www.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction#privacy_policy )}
 
 Respondent burden: **15 minutes**  
 OMB Control #: **2900-0878**  
@@ -138,7 +139,7 @@ We've prefilled this application with information from your account. If you need
 - Your last name (*Required) { text field, prefill if present }
 - Suffix { dropdown, prefill if present } 
 - Social Security number (*Required) { text field, prefill if present }
-
+{ if selects "I don't have SSN," display: } VA file number (*Required) { text field }
 
 [ Back | Continue ] { buttons }   
 [Finish this application later]()
@@ -233,8 +234,8 @@ About how much of your education benefit do you have left? (*Required)
 [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/) { radio buttons }  
 
 - More than 6 months
-- Less than 6 months
-- None. I've used all of my education benefit
+- 6 months or less
+- None. I've used all of my education benefit.
 
 { if "Less than 6 months" or "None. I've used all of my education benefit", display a checkmark for the "Have used all of your education benefits..." bullet on STEM eligibility summary page }  
 
@@ -273,7 +274,7 @@ __Your responses:__
   
 :heavy_multiplication_x:  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits  
 :heavy_multiplication_x:  Are enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** have already earned a STEM bachelor’s degree and are pursuing a teaching certification   
-:heavy_multiplication_x:  Have used all of your education benefits or are within 6 months of doing so when you submit your application  
+:heavy_multiplication_x:  Have used all of your education benefits or are within 6 months of using all your benefits when you submit your application  
 
 { Entitlement check for Ch33 users. If user has more than 6 months of benefits remaining, display yellow warning alert: }
 
@@ -311,23 +312,30 @@ Form 22-10203
 
 #### STEM degree and school details { Sub-head }  
 
-What's the name of your STEM degree? (*Required) { text field }  
+  - What's the name of your STEM degree? (*Required) { text field }  
 
-What’s the name of the school where you plan on using the Rogers STEM Scholarship? (*Required) { text field, prefill if present }
+  - What’s the name of the school where you plan on using the Rogers STEM Scholarship? (*Required) { text field, prefill if present }
 
-City (*Required) { text field, prefill if present }
+  - Country (*Required) { dropdown, prefill if present } { Default selection is United States. If other than United States selected, State field is not required and not a dropdown. }   
 
-State (*Required) { dropdown with full state names, prefill if present }  
+  - City (*Required) { text field, prefill if present }  
+
+  - State (*Required)  { dropdown with full state names, prefill if present. If Country selected is not United States, State is a text field and is not required. }  
 
 
 #### Your school ID and contact details  { Sub-head } 
 
 These details will help us review your application faster, but aren't required. 
 
-Your school student ID number { Text field }  
+  - Your school student ID number { Text field }  
 
-Your school email address (This email address usually ends with .edu) { Text field with email address validation }  
+  - Your school email address (This email address usually ends with .edu) { Text field with email address validation }  
 
+{ info alert }  
+
+We’ll be reaching out to the School Certifying Official (SCO) at this school to confirm your eligibility for the scholarship.   
+
+{ info alert }
 
 [ Back | Continue ] { buttons }   
 [Finish this application later]()  
@@ -367,29 +375,37 @@ Form 22-10203
 
 ### Chapter Title:  5 of 6:  Personal information  
 
+What's the best way for us to contact you? { radio buttons }  
+- Mail
+- Email
+- Home phone { if selected, make home phone field required }
+- Mobile phone { if selected, make mobile phone field required }  
+
 #### Your address { sub-head }  
-  - Country (*Required)  { dropdown, prefill if present }
-  - Street address (*Required) { text field, prefill if present }
-  - Line 2 { text field, prefill if present }
-  - City (*Required) { text field, prefill if present }
-  - State (*Required) { dropdown with full state names, prefill if present } 
-  - Postal code (*Required) { text field, zip validation (5- or 10-digit string), prefill if present }
+  - Country (*Required)  { dropdown, prefill if present } { Default selection is United States. If other than United States selected, State field is not required and not a dropdown. }    
+  - Street address (*Required) { text field, prefill if present }  
+  - Line 2 { text field, prefill if present }  
+  - City (*Required) { text field, prefill if present }  
+  - State (*Required) { dropdown with full state names, prefill if present. If Country selected is not United States, State is a text field and is not required. }  
+  - Postal code (*Required) { text field, zip validation (5- or 10-digit string), prefill if present }  
         
-##### Other contact information { sub-head }  
+#### Other contact information { sub-head }  
 
 Please enter your contact details below so we can get in touch with you, if necessary.
 
 - Email address (*Required) { text field with email validation, prefill if present }
 - Re-enter email address (*Required) { text field with email validation, prefill if present }
-- Home phone number { text field, phone number validation (10 digit string), Required if "Home phone" is selected, prefill if present }
-- Mobile phone number (*Required)  { text field, phone number validation (10 digit string) }
-        
-What's the best way for us to contact you? { radio buttons }  
+- Home phone number { text field, phone number validation (10 digit string, Required if "Home phone" is selected, prefill if present }
+- Mobile phone number { text field, phone number validation (10 digit string), Required if "Mobile phone" is selected; required after "I would like to receive text messages" is selected, prefill if present  }
+- [ ] I would like to receive text message from VA about my GI Bill benefits { if selected and the mobile phone number text field is empty, display conditional text message alert below, add required label to mobile field and validate as required field on "Continue" click }
 
-- Mail
-- Email
-- Home phone
-- Mobile phone 
+**Note:** Text messages may include status updates or requests to verify school attendance or other GI Bill benefit information. Message and data rates may apply. 
+
+{ conditional text message alert - Background color only warning alert }
+
+Since you've opted to receive text message updates, you need to enter your mobile phone number so we can send updates to your device.
+
+{ end conditional alert }
         
  [ Back | Continue ] { buttons }   
  [Finish this application later]()
@@ -406,7 +422,7 @@ Form 22-10203
 
 #### Direct deposit { sub-head }  
 
-VA makes payments only through direct deposit, also called electronic funds transfer (EFT). If you’re approved for the Rogers STEM Scholarship, we’ll need to know where to deposit the funds.  
+We make payments only through direct deposit, also called electronic funds transfer (EFT). If you’re approved for the Rogers STEM Scholarship, we’ll need to know where to deposit the funds.  
 
 { visual aid of check }  
 
@@ -434,9 +450,9 @@ The Department of the Treasury requires all federal benefit payments be made by 
 If you don’t have a bank account, or don’t wish to provide your bank account information, you must receive your payment through Direct Express Debit MasterCard. To request a Direct Express Debit MasterCard:  
 
 * Apply at [www.usdirectexpress.com](www.usdirectexpress.com) **or**  
-* Call [1-800-333-1795]()  
+* Call [800-333-1795]()  
 
-If you choose not to enroll, you’ll need to call the Department of the Treasury at [1-888-224-2950]() and speak to a representative handling waiver requests. They’ll encourage you to participate in EFT and address any questions or concerns you have.  
+If you choose not to enroll, you’ll need to call the Department of the Treasury at [888-224-2950]() and speak to a representative handling waiver requests. They’ll encourage you to participate in EFT and address any questions or concerns you have.  
 
 { end additional info component }
 
@@ -514,12 +530,11 @@ Buffalo, NY 14240-4616
 
 **What happens after I apply?**  
 
-We usually decide on applications within 30 days.
+We usually decide on applications within 30 days.  
 
-You’ll get a Certificate of Eligibility (COE), or decision letter, in the mail if we’ve approved your application. Bring this to the VA certifying official at your school.
+You’ll get a Certificate of Eligibility (COE) or decision letter in the mail. If we’ve approved your application, you can bring the COE to the VA certifying official at your school.
 
-[More about what happens after you apply](https://www.va.gov/education/after-you-apply/)
+[Learn more about what happens after you apply](https://www.va.gov/education/after-you-apply/)
 
 [Go back to VA.gov]() { button }  
-
 

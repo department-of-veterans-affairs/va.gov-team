@@ -1,8 +1,8 @@
-_Still in draft_
 # Upcoming appointment questionnaire MVP usability study
 
 **Prepared by:** Kristen McConnell (kristen.mcconnell@adhocteam.us)<br>
-October 2020
+October 2020<br/>
+[Downloadable PDF](https://drive.google.com/file/d/1gLF26dSrNTMd-1h2-LdJkpNFm86K03uG/view?usp=sharing)
 
 ## Background
 Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners. Our MVP will focus on improving the pre-appointment experience when visiting primary care providers.
@@ -36,107 +36,142 @@ We conducted 8 remote moderated usability tests via Zoom using the Perigean cont
   - Bachelor's degree: 3
   - Master's degree: 3
 
-## High level findings
+## Key findings
+1. Nurses, who normally ask intake questions, are less (or not at all) involved in virtual appointments.
+2. The usability and value of our questionnaire was reconfirmed.
+3. All of the Veterans almost immediately clicked to the next page without reviewing any content on the introduction page.
+4. Experiences when updating demographic information differed amongst the Veterans, but Veterans see the profile as the place of authority on VA.gov to edit their demographic information.
+5. Veteran expectations on when providers would review this information differed, so their expectations on when they would complete this questionnaire also varied.
+6. Veterans expect access to their completed questionnaires and other medical information shared with the VA. 
+7. Veterans expect to find and be notified of questionnaires to complete in a variety of ways.
 
-Usability task: Complete the questionnaire
-- 8 out of 8 participants 
-  - were able to easily complete the questionnaire without problems.
-  - clicked the top “Answer questions” button without really reading the rest of the Introduction page.
-      -“I never read all this stuff.”
-- 2 out of 8 Veterans
-    - made changes/added text to the pre-populated additional details question.
-    
-Introduction page
-- Most of the Veterans found the “What happens after I answer the questions?” section valuable information to understand.
-- 8 out of 8 Veterans expected all the information shown to exist on a page like this.
-  - “It is what I expect from a government website.”
-  - “It’s the standard...it looks pretty good. It is pretty self-explanatory.”
-  - “It is what you want to hear before you are entering any medical questions.”
-      - This expectation could explain why all Veterans skipped reading this page during the initial usability task.
-          - “I never read all this stuff.”
-          
-Veteran information page
-- 6 out of 8 Veterans have experience changing demographic information (addresses or phone numbers were most often mentioned).
-  - 2 out of 8 discussed having difficulty making the changes
-- 6 out of 6 Veterans preferred to make edits to their demographic information with a profile section and not within this questionnaire.	
-  -  The profile section was seen as more  of a place of authority. Many Veterans mentioned that they thought the changes would disseminate further across the VA from a profile section. 
-- One Veteran also wanted to note a preferred name (what they wanted the doctor to call them) instead of just a legal name within VA.gov.
+## Research findings
 
-This visit page
-- All of the Veterans reconfirmed the value in a questionnaire of this type and thought it would help focus their appointments on their areas of interest.
-  - “The more information that you give your primary care the more opportunity they will have to get it right.”
-  - “I see a lot of value.”
-- 3 out of 8 Veterans didn’t think that they could or should edit the additional details questions. A few other them saw that question as the chief complaint of why they were going to the appointment.
-- 6 out of 8 thought prioritizing could help get their most important questions answered first. 
-- Veterans are split on whether transferring information was valuable or not. Some Veterans said to give people the option and some described limiting it to follow-ups, appointment types, or same doctor.
-- 2 Veterans wanted to additional questions based upon what was written in the additional details question. For instance, if you wrote about pain, then asking where is the pain located, has the pain recently gotten worse, what kind of pain is it?
-- Without prompting, 2 Veterans wanted to add the ability to send images along with this questionnaire, because “A picture is worth a thousand words.”
-- 3 Veteran expected the providers to read these questionnaires well in advance of the appointment. They were particularly interested in hearing about any labs or tests that the provider thought should be completed, then scheduling and completing said tests prior to the actual appointment.
-  - “This would be nice. I know that they are very busy though. Maybe the nurse can review it and highlight things, then talk to the doctor?”
-- Timeline for when they want to fill out this questionnaire:
-  - A week - two days prior to an appointment
-- 1 Veteran was interested in knowing when the provider read this questionnaire’s information (a read receipt).
-- 1 Veteran wanted the ability to print out the questionnaire and bring it to the appointment as a way to remind them of what they wanted to talk about that day with the provider.
+Nurses, who normally ask intake questions, are less (or not at all) involved in virtual appointments.
+- We asked each Veteran to discuss their recent experience at a VA appointment. 
+   - Six Veterans had virtual appointments, since COVID started.
+   - Most veterans described logging into their virtual appointment, waiting in a virtual waiting room, then immediately talking to the doctor.
+   - A small percentage shared that a nurse called them a few days in advance of their virtual appointment to ask “normal” intake questions.
+_Intake questions address why the Veteran has come to the appointment, what symptoms they are experiencing, changes to their medical/social history, changes to medications, etc._
 
-Review page
-- 8 out of 8 Veteran expected this review page to exist as well as the ability to edit their answers on this page.
-  - One Veteran had such a strong association with editting on the review page, that they wanted to remove the demographic information on this page, because it was read only.
+The usability and value of our questionnaire was reconfirmed.
+- All of the Veterans made it through the questionnaire without problems.
+   - There were no real differences seen between desktop and mobile as well.
+- They also thought it would help focus their appointments on their areas of interest.
+   - “The more information that you give your primary care the more opportunity they will have to get it right.”
+   - “I see a lot of value.”
+
+All of the Veterans almost immediately clicked to the next page without reviewing any content on the introduction page.
+- Only a small percentage of Veterans even quickly scrolled up and down the page.
+- When prompted to review the content, most Veterans found...
+   - the “What happens after I answer the questions?” section valuable information to understand.
+   - all of the other content resulted in the following comments:
+      - “It is what I expect from a government website.”
+      - “I never read all this stuff.”
+
+Experiences when updating demographic information differed amongst the Veterans.
+- Six Veterans described experiences updating their demographic information at the VA.
+- The methods used to change their demographic information varied:
+   - VA.gov
+   - When checking into a medical appointment
+   - Going to registration at a VA facility
+- Addresses and phone numbers were most often mentioned as the information they updated.
+- Some of the difficulties faced when making the changes included:
+   - being routed to multiple departments within a building before being successful.
+   - the change didn’t populate to all of the VA departments that they interact with.
+   
+Veterans see the profile section as the place of authority on VA.gov to edit their demographic information.
+- Six out of six Veterans stated that they wanted to edit within a profile section, because they thought the changes would disseminate further across the VA from a profile section.
+
+Veteran expectations on when providers would review this information differed.
+- Half of the Veterans expected their providers were reading their questionnaire responses well in advance of the appointment.
+- They were particularly interested in hearing about any labs or tests that the provider thought they should have, then scheduling and completing said test prior to the actual appointment.
+   - “This would be nice. I know that they are very busy though. Maybe the nurse can review it and highlight things, then talk to the doctor?”
+
+Veteran expectations on when they would complete this questionnaire varied.
+- The half of the Veterans who expected their providers to read their questionnaire early gave longer lead times on when they wanted to fill out their questionnaires, such as 60 days in advance.
+- The other half of Veterans tended to mention times between two weeks to 2 days in advance that they would fill out this questionnaire.
+- A few Veterans mentioned wanting to update this questionnaire multiple times if their health status changed, particularly for appointments that are scheduled months or a year in advance.
+_Two Veterans initially assumed these questions were part of the appointment scheduling process._
+
+Veterans expect access to their completed questionnaires and other medical information shared with the VA. 
+- All of the Veterans did not have any issues with their submission going directly to their providers and into their medical record.
+   - Veterans started to talk about other medical information that they wanted to see, such as provider notes from an appointment.
+- Once a Veteran completed the questionnaire, they seemed equally interested in seeing additional information about this appointment (or other upcoming appointments) as other questionnaires that they need to complete.
+
+Veterans expected to find and be notified of questionnaires to complete in a variety of ways.
+- Veterans equally expected their questionnaires to live with their other medical record information, their upcoming appointment information, or both.
+- Three Veterans also saw this connected to myHealtheVet or living on myHealtheVet.
+- Main dashboard page notifications about other questionnaires to complete were seen as beneficial.
+- Veterans also wanted to be notified via email and/or text.
+
+Without prompting, two Veterans wanted to add the ability to send images along with this questionnaire.
+- They discussed the benefits of sending an image when dealing with a dermatological issue or to better explain where their pain was occurring.
+   - “A picture is worth a thousand words.”
+
+Veterans had numerous ideas on features to add to the questionnaire.
+- Some of the various ideas included:
+   - a visual of the human body, so the Veteran could indicate their area of concern or where they have pain.
+   - phone numbers on the confirmation page to get questions answered about their appointment. (6 out of 8 Veterans liked this idea.)
+   - a read receipt/status, so the Veteran would know when their provider reviewed the questionnaire.
+   - being able to see the provider’s name.
+      - “So I know who is viewing my data. I get concerned about that sometimes. It would also be good to know who exactly I’m seeing for that appointment.”
+
+Additional findings: This visit page
+- Three Veterans didn’t think that they could or should edit the additional details questions. 
+   - Only two Veterans edited this field during the usability task.
+- Six Veterans thought prioritizing could help get their most important questions answered first. 
+- Veterans are split on whether transferring information from one questionnaire to the next was valuable or not. 
+   - Some Veterans said to provide the option, while some described limiting transfers to follow-up appointments, similar appointment types, or the same doctor.
+- Two Veterans wanted to additional questions to appear based upon what was written in the additional details question. 
+   - For instance, if you wrote about pain, then other questions would appear asking where is the pain located, has the pain recently gotten worse, what kind of pain is it, etc?
+
+Additional findings: Review page
+- All of the Veterans expected this page to exist and to have the ability to edit their answers here.
+   - One Veteran had such a strong association with editing that they wanted to remove the demographic information, because it was read only.
       - “I already reviewed the information earlier on in the form.”
-      - “It is good to review everything.”
-  - Two Veterans wanted more descriptive address labels on this page, such as mailing and residential.
-  
-Confirmation page  
-- What additional information should be added to this page?
-  - 6 out of 8 Veterans mentioned phone numbers to get questions answered would be helpful.
-      - A link to secure messaging was also mentioned: 2
-  - 4 out of 8 Veterans mentioned showing a list of bloodwork or other tests that should be completed prior to the appointment would be helpful.
-  - 1 out of 8 Veterans wants to see the doctor’s name.
-      - “So I know who is viewing my data. I know of get considered about that sometimes. It would also be good to know who exactly I’m seeing for that appointment.”
-- 1 Veteran is interested in seeing when the provider has read the information sent within this questionnaire.
-- Where do Veterans want to navigate to next after finishing this questionnaire?
-  - List of other questionnaires to complete: 3
-  - va.gov homepage: 3
-  - List of all upcoming appointments: 5
-  - Close the browser: 2
-  - Find a VA location: 1
-- 1 Veteran wants to edit after sending.
-- 3 Veteran sees this connected to myHealtheVet or living on myHealtheVet.
-- 1 Veteran expected the provider to look at this right within 48-72 hours after the Veteran fills it out and to hear back from them about bloodwork or other things to complete before the appointment.
-- 1 Veteran wants to see directions to the clinic on this page.
+   - Two Veterans wanted more descriptive address labels on this page, such as mailing and home.
+
+## Actionable Recommendations: Changes to MVP scope
+Changes that can be completed by the product team
+- Remove the button to start the questionnaire from the top of the introduction page.
+- Reorder the introduction page content, so “What happens after I answer the questions?” is listed first.
+- Add the information that a provider will not review this questionnaire with the Veteran until their appointment in more locations and add more visual emphasis to it.
+- When determining how far in advance a Veteran can complete this questionnaire, take the two week to 2 day Veteran-proposed timeframe in mind.
+- Add links to the Questionnaire Manager and VAOS on our confirmation page.
+- Add VAMC and clinic phone numbers to the confirmation page.
+- When working with IA to determine where our questionnaires lives on VA.gov propose they live amongst all of the other medical record information.
+   - VAOS would link to specific questionnaires.
+- Change the additional details field to a textarea in order to help Veterans believe they can edit this information.
+- Add more descriptive address labels on the review page.
+
+Changes to work with platform on
+- Remove the button to start the questionnaire from the top of the introduction page.
 
 
-Follow-up questions
-- Where should questionnaires live?
-    - On an upcoming appointments page: 3
-    - With the rest of your medical record: 4
-    - Dashboard: 2 
-    - Your VA profile: 1
-- When would you want to fill this out?
-  - 60 days.
-  - a week in advance
-  - 2-3 days before.
-  - Assumed right before the appointment in the waiting room.
-  - Multiple times as health status changes. Particularly good if an appointment is scheduled a year out.
-  - Assumed that they didn’t have an appointment yet and this was part of requesting an appointment.
-      - “Why would you tell them what is wrong with you after you have an appointment?”
-- Where would you fill it out?
-  - Desktop: 3
-  - Phone: 2
-- Doesn’t want to have to sign-in.
-- Notification preferance:
-  - Email: 8
-  - Text: 8
+## Actionable Recommendations: Additions to future roadmap
+Additions that can be explored by the product team
+- Explore adding other questionnaire information to the confirmation page.
+- Further look into the need to transfer information entered in one questionnaire into the next questionnaire.
+- Look into a branching strategy (or machine learning) for questions, so we can probe further into problems that Veterans are facing.
 
-## Details of findings
+Additions to explore by working with other VA.gov product teams
+- Work with VAOS, authenticated and mobile teams to have questionnaire information appropriately appear.
+- Explore adding more detailed widgets of appointment to the confirmation page.
 
+Additions to explore by working with platform (possible holistic changes)
+- Explore elegant solutions for jumping from questionnaires to the profile section to update demographic information or add editing demographic information in the questionnaire.
+   - Should all forms have editable demographics or link to the profile section? Are the labels in the demographic sections consistent in all forms (within the main content area and the review pages)?
+- Explore the possibility of editing a questionnaire multiple times.
+   - Enhancement to save in-progress
+- Explore adding the capability to send images.
+- Add provider’s name to questionnaire.
 
-## Actionable Recommendations
-
-- 
 
 ## Resources
 
-- [Research plan]()
-- [Conversation guide]()
-- [Desktop prototype]()
-- [Mobile Prototype]()
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/mvp-usability/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/mvp-usability/conversation-guide.md)
+- [Desktop prototype](https://preview.uxpin.com/e9e0dc597bb076e74db05f77d35306496a89fca2cvhidm)
+- [Mobile Prototype](https://preview.uxpin.com/a15205c1bedcdfc8fe46fed26c22fa731cab8ae0cvhidm)
+- [Research Findings Presentation PDF](https://drive.google.com/file/d/1gLF26dSrNTMd-1h2-LdJkpNFm86K03uG/view?usp=sharing)

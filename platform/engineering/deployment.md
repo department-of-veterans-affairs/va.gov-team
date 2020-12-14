@@ -75,7 +75,7 @@ After a time has elapsed ( currently set to 60m ) release is created at the refe
 
 > 7\. Automated: Deploy to production using artifacts
 
-From here, Jenkins can kickoff a production deployment. After the deployment occurs, the normal site monitoring infrastructure will be used to valide it is working. As this process is automatic any new features should have monitoring in place before, or as a part of their deployment
+From here, Jenkins can kickoff a production deployment. After the deployment occurs, the normal site monitoring infrastructure will be used to validate it is working. As this process is automatic any new features should have monitoring in place before, or as a part of their deployment
 
 ## Other Notes
 

@@ -3,21 +3,32 @@
 
 ### **Project-specific setup**
 
+- Make sure you are allowing sharing!
+- Make sure to confirm we have the right email address for the white listin
+- For debugging https://api.va.gov/v0/user
+
 - Sign into VA.gov through DS Logon
 - We will be having users share their screens (after they have logged on) and submitting a HLR.
 - When the participant is ready, pass presenter roles to them and have them share their screen.
-- When their screen is shared, send the beta link [https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction)
+- When their screen is shared, send the beta link [https://va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction)
 - **Note** : We will **not** be recording these sessions.
 
 ## **Intro - 2 minutes**
 
-Thanks for joining us today! My name is Christian and I also have some colleagues on the line observing and taking notes. Today we&#39;re going to talk about Higher-Level Review (HLR). A Veteran that wants to dispute a decision they received on a claim, can file a Higher-Level Review, were a more senior, experienced reviewer take a look at the case and the evidence they already provided.
+Thanks for joining us today! My name is ______ and I also have some colleagues on the line observing and taking notes. Today we&#39;re going to talk about Higher-Level Review (HLR). A Veteran that wants to dispute a decision they received on a claim, can file a Higher-Level Review, were a more senior, experienced reviewer take a look at the case and the evidence they already provided.
+
+This meeting has several observers as you may have noticed.  These are members of the technical team (in case of technical issues) and stakeholders (experts in Higher Level Review that work for the Office of Adminstrative Review, which is responsible for appeals and decision reviews.
 
 Before we start, a few things I want to mention:
 
-- This entire session should take up to 60 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question.
-- In this session, we want to hear your honest opinions. If you find anything unclear or confusing, we want to hear about it. Your honest feedback help us improve the veteran experience, and we will not be offended by any opinions.
-- If for any reason you want to stop the session, please let me know. You will not be penalized in any way if we need to stop.
+Before this was just a paper form but we have created a digital version and today we will be testing out that functionality. Our goals for the session are:
+- To test out the functionality of our new digital HLR form and catch any bugs or technical issues throughout the process, and
+- To have you file a real higher-level review of your disability compensation claim. Again this will be a real Higher-Level Review request with the VA, so we want to emphasize that. If we cannot successfully file your HLR request then we will be sure to give you another way to do so. 
+Some other things to note:
+- The entire session should last 60 minutes or less (HLR is a relatively short form). Throughout the process if you would like to stop the session or discontinue for any reason, that is totally fine - just let me know. 
+- In this session, we want to hear your honest opinions. If you find anything unclear or confusing, we want to hear about it. Your honest feedback will help us improve the veteran experience, and of course we will not be offended by any opinions you express. We’re testing the product - not you.
+
+Does that all sound good?
 
 ## **Warm-up/Screener Questions - 3 minutes**
 
@@ -51,7 +62,7 @@ OK, please share your screen, and then we will get started.
 
 - Please open a new tab in your browser, and go to:
 
-[https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction)
+[https://va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction)
 
 - Start answering the questions on this introduction page for HLR.
 - Sign in to your VA account

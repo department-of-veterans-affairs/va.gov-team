@@ -6,6 +6,7 @@
 * [Target Release - Q3 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q3-2020-target-launch.md)
 * Link to [research plan ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/veteran-prioritization/research-plan.md) and [card sort](https://adhoc.optimalworkshop.com/optimalsort/j2b7m7j5/sort)
 * Link to [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/veteran-prioritization/conversation-guide.md)
+* Link to [usability study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/research/mvp-usability)
 * Link to [Design Screenshots/Prototype](https://app.mural.co/invitation/mural/vsa8243/1596490423105?sender=aricka0272&key=a3d9728b-bc26-42a8-96ca-d4879cd613e1)
 
 ## Epic User Story
@@ -38,13 +39,12 @@ Start with open-ended question “How can I help you today?” brings focus to t
 
  [Mural Workflow Diagram](https://app.mural.co/t/vsa8243/m/vsa8243/1596561661701/0afd94dfc8598b105524e87c8828b10dba98bbf2)
  
- ### Wireflow Diagram  
- <img src="https://lh3.googleusercontent.com/UCOA2WSHeEK7zQr50uUema-ykTffbl53QuzvavK05jAnQD_9b8Vnj4fguH94G-vJP53rVUpvdSfj4acL2VQIKDAFS_btUqQBH1s5vPEIAQCDwoYsRJy2-ViNoeoFLhA_5KfkErQIb_NiJ95XrqTxl2jrC3N5gqJaLdKPna_UylHJo77q7y9c748T00-BkDm7qG9KV6BWHXIlWuIfgaHX99oHxLFycCCUU5OWWsji5f9fJUQB3E16yCBP9qmVn_jSi-2CFf0vA730xTLke31DUuPmO28tju_V20h92wrZSeo_eXNWxopLG1tVa4x-1jlAHikuS-1MvM0ND2GRuEDqDc1343q6Ipk4d5SENpi8VBPn9cDUoEVz5_tq4MVK0SiKFZ7UwTKlb1Dj5oGNkHgXWfAzFsWvRUooiGWQmvUS4-4lDwiXlse9WdRSd92BwCOmJWzt5xgsnh1Ied29O5gRyVzrJSEBTcAfXs6v1kkcMKPQd31QurHAj85YPiNDQo_OBZ1piZpPghNNtTS_3RLS0IaJ2kYO9uN2g6CR1hherEYF5fhdvN7nq78Q3dt7is3FhChvAxV58AbE7zC9tepRs6CFSJV5PWd_iEWBmc2IFzp_N6m3Y3nNNefpNRIb7jC4M2FlqROVCnhwWhcY24rT_x5G6zT9c6oGAXiuWDE33BN0eO8YBe4xl1IALAFs=w1254-h416" width="500">
-
- [Zeplin File](https://zpl.io/aNepDW9)
+ ### IA and Wireflow
+- IA: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/health-questionaires.md
+- Wireflow: (Zeplin File) https://zpl.io/aNepDW9 or https://scene.zeplin.io/project/5f3d86a458ea2231e60a4780
 
 ### Wireframes
-[Zeplin File](https://zpl.io/VOOek8j)
+Zeplin File: https://zpl.io/aNepDW9 or https://scene.zeplin.io/project/5f3d86a458ea2231e60a4780
 
 ### Avoid having to repeat health history across the continuum of care
 

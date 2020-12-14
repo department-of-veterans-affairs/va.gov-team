@@ -1,11 +1,11 @@
 # Benefits Delivery at Discharge
 
 ## Communications
-- GitHub Label: [???](https://github.com/department-of-veterans-affairs/va.gov-team/labels/???)
+- GitHub Label: [bdd](https://github.com/department-of-veterans-affairs/va.gov-team/labels/bdd)
 - Slack channel: n/a ([#vsa-benefits-memorials](https://dsva.slack.com/channels/vsa-benefits-memorials))
 - Product POCs: Andrea Schneider and Luke Majewski
 - va.gov link: https://www.va.gov/disability/how-to-file-claim/
-- Stakeholders: Barry Cooper and Paul Shute
+- Stakeholders: Barry Cooper (Barrett.Cooper@va.gov), Paul Shute (Paul.Shute@va.gov), Nancy Hogan (Nancy.Hogan@va.gov)
 
 ## The Problem
 Service members who are separating and plan to file for disability can file their claim

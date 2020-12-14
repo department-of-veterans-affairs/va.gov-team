@@ -1,9 +1,88 @@
+_This agenda will now be managed from the [PW/CMS weekly sync doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-team-support/product-team-weekly-syncs/public-websites-cms-weekly-sync.md)._
+
 # Agenda/Notes from meetings
+
 
 <details>
  <summary> **Parking Lot Topics** </summary>
  -  LC go-to-market strategy: how will users find the Learning Center?
 </details>
+
+## Wednesday December 9
+
+### Agenda
+
+1. Backlog
+1. anything else
+
+### Action items
+
+## Wednesday December 2
+
+### Agenda
+
+1. Any collaboration to assist FE team
+1. Video Description / Duration - required fields
+1. Backlog
+1. anything else
+
+### Action items
+
+1. consensus on video desc/duration required fields - let's do it
+
+## Wednesday November 25
+
+### Agenda
+1. Video authoring workflow
+1. Backlog
+   1. [MVP 1.1 epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2915)
+   1. [MVP 1.2 epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3585) - _looking ahead_
+1. anything else
+
+### Action items
+1. Adding Videos to Media list- Videos pages / CLP: Release note (as we release new fields) + CMS user guide (Q1 2021). 
+1. Video URL - Unique throghout the Media library, so that authors are not duplicating content [New Story]
+1. 
+
+## Tuesday November 17
+
+### Agenda
+
+1. Meeting schedule/timing
+1. Priotity of being able to use "Audience non-beneficiaries" tags in content forms [#3494](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3494)
+1. Backlog
+
+### Action items
+
+1. reschedule Public Websites / CMS check-in for a different time [Clarence]
+
+## Tuesday November 10
+
+### Agenda
+
+1. Checklist template https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15915
+1. Image article template fields
+1. Step by step component
+1. Transition for VA Forms collaboration
+1. Review [backlog](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1975)
+
+### Action items
+
+1. `CMS` Checklist: remove top level Section Heading and Section intro fields from Checklist paragraph (sprint 20)
+1. `CMS` Images: Stop prepopulating image titles when new images are uploaded (Icebox)
+1. `CMS` Step by Step: add heading above rich text (Icebox)
+
+
+## Tuesday November 3
+
+### Agenda
+
+1. Any launch support requests
+1. Review [backlog](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1975)
+
+### Action items
+
+1. 
 
 ## Tuesday October 27
 

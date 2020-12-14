@@ -1,5 +1,9 @@
 # IRIS Form - Confirmation Page
 
+### IMPORTANT TO NOTE
+Please note this document will be updated; the form and the project repository are more up-to- date than this document.
+
+
 Relevant links: 
 - [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/76) - note this is a different story that builds on the original story in 86.
 

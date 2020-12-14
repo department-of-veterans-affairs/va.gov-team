@@ -5,22 +5,25 @@
 ### Setup
 
 - [ ] Notifications off
-- [ ] Turn off waiting room feature in Zoom
+- [ ] Turn off waiting room
 
 ## Intro
 
-Thanks for joining us today! My name is Chris and I also have some colleagues on the line observing and taking notes. Today we're going to talk about scheduling Veterans for community care. Our goal is to understand your role as a Community Care Manager working with Veterans, service members and their families.
+Thanks for joining us today! My name is Chris and I also have some colleagues on the line observing and taking notes. Today we're going to talk about scheduling Veterans for community care appointments. In today's interview, we have a couple of goals.
+
+- Our first goal is to understand and gather feedback (where possible) about the VA online scheduling requests for community care that you receive as Community Care request managers.
+- Our second goal is to improve the search results that Veterans see when they use the Facility Locator on VA.gov. To help acheive our goal, we want to understand your role as a Community Care manager who works with Veterans. This will help us understand what is important to a Veteran, so that we can present  better search results when they search for a Community Care provider. 
 
 Before we start, a few things I want to mention:
 
-This entire session should take about 30 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+This entire session should take about 45 minutes. I want to be sure not to keep you longer, so I may occasionally prompt you with the next question or topic.
 
 - We aren’t trying to sell or promote any product or service to you.
-- There are no right or wrong answers. We just want to hear your opinions, so that we can improve the application and meet Veterans' needs.
+- There are no right or wrong answers. We're hoping to make the process of searching for providers on VA online scheduling app and Facility Locator easier for Veterans.
 - I won’t be offended by any opinions you express.
 
 If for any reason and at any time you want to stop the session, please let me know.
-I’ll be recording the audio as we talk today, so that we capture your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. Are you ok if I record audio?
+I’ll be recording as we talk today, so that we capture your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. Are you ok if I record?
 
 - If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
@@ -30,22 +33,41 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 
 ## Warm-up Questions  
 
-- How long have you been a community care manager at the VA? 
+- How long have you been a Community Care manager at the VA? 
 
-- What brought you to this line of work? 
+- Aside from scheduling, what other roles do you perform as Community Care manager?
 
-- Have you worked as a community care manager in more than one district or region? 
+- Do you manage VA Online Scheduling cc requests
 
-## Section 1 - Processing Requests 
+## Scenario - Walk-through Demo
 
-Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audiology) and non-VAOS specialties (suggest Chiropractor and Dermatology): 
+So what I would like to do now, if it is ok, is provide you with a scheduling scenario, and it would be great if you could demonstrate the process you work through to schedule a Veteran. And if you could call out the systems you are using, that would be really helpful. 
+
+To protect Veteran privacy, we hope it is possible to demo your process without revealing personal information. So, for this scenario - 
+
+- I am a Veteran with a referral to an Audiology care provider.
+   - I have a preferred care provider in hand, and am requesting an appointment.
+   - <b>Can you walk me through the scheduling process?</b>
+
+Thank you! In the same scenario, is there anything different in the scheduling process if I do not have a preferred care provider in hand?
+
+--------------
+[The questions below are to cover anything not answered in the demo.]
+
+### Follow-up Questions - Processing Requests 
+
+Are there scenarios where you must contact the Veteran by phone, or is scheduling handled solely through the systems you use?
+
+Based on VA online scheduling specialties, for example Dietary and Primary Care, and non-VA online scheduling specialties, such as Dermatology: 
  
-- How does a community care request get processed by community care managers once it is received in Schedule Manager?
-   - What are the different systems a scheduler uses to process a community care request?
+- How does a Community Care request get processed by Community Care managers once it is received in Schedule Manager?
+   - What are the different systems a manager uses to process a Community Care request?
    
-- What type of data is a community care manager looking for from a Veteran when processing community care requests?
+- What type of data is a Community Care manager looking for from a Veteran when processing Community Care requests?
 
-- What information do you see from the VAOS request? Of that information, what do you use? What is helpful?
+- What information do you see from the VA online scheduling request? 
+ - Of that information, what do you use? 
+ - What is helpful?
 
 - Tell me, what was the last scheduling like?
 
@@ -53,43 +75,46 @@ Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audi
 
 - Can you share an example of a past appointment request that was challenging to process? Why was it challenging?
 
-----------
-### Scenario (TBD whether to include) ###
-- I am a Veteran with a referral to an Audiology care provider.
-   - I have a preferred care provider in hand, and am requesting an appointment.
-   - <b>Walk me through the search for a provider.</b>
-   
-- What if I, as a Veteran, do not have a preferred care provider in hand?
-----------
 
-## Section 2 - Searching for Care
 
-- How do you search for type of care/specialities? Where do you search for that data + providers?
-   - What words/categories are used by the schedulers when searching?
-   - ~Which specialties are the most commonly searched? Rarely searched? Never searched?~ This can be answered through analytics
+### Follow-up Questions - Searching for Care
+
+I would like to dive a little deeper on the search aspect during scheduling.
+
+- How do you search for type of care/specialities?
+   - Where do you search for that data + providers?
+   - How do you go about determining what search terms to use when searching?
    
 - What search parameters do community care managers use to identify the appropriate community care provider?
-   - What are community care managers' expectations for search results (such as the number of results and distance/drive time) vs. reality?
-    - Does that align with Veterans' expectations?
-   - What happens if no providers meet the criteria?
-- What do those search results look like, what is useful to schedule the appointment, and what do schedulers convey to the Veterans about the provider? And what is a waste of time (unnecessary/confusing)?
+   - What are your expectations vs. what the actual results you see from your search?
+   - Do your expectations align with Veterans' expectations?
+   - What happens if no providers meet the search criteria?
 
-## Section 3 - Open Feedback
+- From the search results, what is useful to schedule the appointment?
 
-- If you could change anything about community care online scheduling through VAOS what would it be?
+- What do Community Care managers convey to the Veterans about the provider?
 
-- If the schedulers are able to share anecdotal experience, we'd love to know what factors are important to a Veteran so that we can present Facility Locator Community care provider search results accordingly.
+- What is a waste of time (unnecessary/confusing)?
 
- ## Closing
+---------
+## Additional Questions
 
-- Any questions for us?
+- If you could change anything about Community Care online scheduling through VA online scheduling, what would it be?
+
+- If you would be willing to share anecdotal experience from scheduling Veterans' appointments, we'd love to know what factors are important to a Veteran so that we can present Facility Locator Community Care provider search results accordingly.
+
+- Have you seen or used the Facility locator on the VA.gov website?
+   - One of the goals of our team is to simplify the taxonomy for Community Care categories. As an example, under Podiatry, there are 10 different subcategories. Would you have any suggestions on how we might simplify?
+
 - Was there anything that I didn't ask that you think that I should know?
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is helpful to us as we continue to work on search and make sure it really works for Veterans.
 
 Great, well thank you so much again, and enjoy the rest of your day!
 
 - - -
+
+
 

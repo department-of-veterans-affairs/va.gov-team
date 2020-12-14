@@ -13,12 +13,12 @@ assignees: andreahewitt-odd, Shiragoodman
 - [ ] Attach all artifacts before requesting the meeting
 - [ ] Link to this issue once created in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) in Slack; tag @ Shira Goodman and @ Andrea Hewitt 
 - [ ] Shira to schedule meeting with VSP reviewers and **requesting team** attendees (as listed below)
-- [ ] At least 2 days before scheduled meeting, you must complete list of artifacts below
+- [ ] At least 4 days before scheduled meeting, you must complete list of artifacts below
 - [ ] Staging Review meeting completed
 - [ ] Practice area reviewers create sub-issues attached to this one with feedback for your team on **feature name**
 - [ ] **Requesting team** completes attached feedback tickets based on definition of done included in each practice area feedback ticket (may differ for each practice area, please refer to attached tickets for further instruction)
 
-## Artifacts - _please provide the following artifacts at least 2 days before scheduled review meeting_
+## Artifacts - _please provide the following artifacts at least 4 days before scheduled review meeting_
 - Link to product outline ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md))
 - Link to [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
 - Access information for the tool or feature in staging _**do not put staging credentials in your `va.gov-team` ticket; store or reference them in a .md file in the `va.gov-team-sensitive` repository**_
@@ -34,10 +34,13 @@ OR
 - Product Manager (required): **name**
 - DEPO product lead (required): **name**
 - Anyone else from your team who significantly contributed to the artifacts provided (required): **names**
+- Other specialists: **names**
+
+VSP will only invite those specified, so be sure to list your content, IA, accessibility and QA specialists, if applicable.
 
 ## Scheduling
 - Please reference the [VSP Collaboration Meetings Calendar](https://calendar.google.com/calendar/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0%40group.calendar.google.com&ctz=America%2FNew_York) (times shown are ET)
-- Note an available time slot within a recurring "[CALENDAR BLOCK] Review Group Office Hours" slot that works for your team and is at least 2 business days from now
+- Note an available time slot within a recurring "[CALENDAR BLOCK] Review Group Office Hours" slot that works for your team and is at least 4 business days from now
 - Write that preferred time slot here (on this ticket), and VSP will send you a meeting invite
 - _If no available time slots work for your team, write your availability and requirements here and shira will reach out as needed_
 

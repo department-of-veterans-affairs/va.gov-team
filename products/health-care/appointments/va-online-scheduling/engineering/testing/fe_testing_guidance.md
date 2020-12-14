@@ -3,8 +3,6 @@
 ## Testing tools used
 
 - Cypress (test runner for browser tests)
-- Nightwatch (test runner for browser tests)
-   - Moving away from in favor of Cypress
 - Mocha (test runner)
    - Jest has been considered for the va.gov platform, and it is used for some platform specific tests, but it's currently
      significantly slower than our Mocha tests
@@ -16,7 +14,7 @@
 
 ## What type of test should I write?
 
-Most of our tests should be tests that render a single page and test all the Redux and component logic associated with that page through React Testing Library. When we need to test the overall flow of the application through different pages and paths through the forms, we should use Cypress. There's a grey area here about how to test behavior that doesn't require going through the full flow, but interacts with more than one page. In cases like that, we should choose wherever is easier to write a reliable test. If there's plain JS logic we want to test separate from React component where it's used, we can write plain JS unit tests. We might want to do this for JS that is used in multiple components, or for logic that is difficult to cover all branches in a UI component test.
+Most of our tests should be tests that render a single page and test all the Redux and component logic associated with that page through React Testing Library. When we need to test the overall flow of the application through different pages and paths through the forms, we should use Cypress. There's a grey area here about how to test behavior that doesn't require going through the full flow, but interacts with more than one page. In cases like that, we should choose wherever is easier to write a reliable test. If there's plain JS logic we want to test separate from the React component where it's used, we can write plain JS unit tests. We might want to do this for JS that is used in multiple components, or for logic that is difficult to cover all branches in a UI component test.
 
 ## What types of things should I test?
 
@@ -58,7 +56,7 @@ Generally, we want to test components in the context a user is using them, which
 ## Browser (e2e) test notes
 
 - Browser tests on the va.gov platform (called e2e tests) are tests that are run in a real browser, with a mock backend
-- We have both Nightwatch and Cypress available to write these tests, we should move to Cypress as we have time
+- We use Cypress to write these tests, though there are legacy Nightwatch tests elsewhere on va.gov
 - Our Cypress tests should cover the major paths through the application and fail if a user gets stuck.
 - Any routing related logic should be covered in browser tests (i.e. redirects, path logic, etc)
 - In an ideal world, all our tests would be run in a browser, but the current downsides to Cypress/browser testing are:
@@ -69,7 +67,7 @@ Generally, we want to test components in the context a user is using them, which
    - Generally, [this article](https://kentcdodds.com/blog/unit-vs-integration-vs-e2e-tests) is a good breakdown of the types of testing and tradeoffs.
 
 ## Integration test notes
-- Integration tests mean tests that cover multiple components/redux logic, but are not run in a browser
+- Integration tests for us mean tests that cover multiple components/redux logic, but are not run in a browser
 - Good integration tests should
    - Render a high-level a component (like a component covering a whole page or tab)
    - Verify that the component is working by checking for things a user would see, like text or DOM elements with specific roles, rather than class names

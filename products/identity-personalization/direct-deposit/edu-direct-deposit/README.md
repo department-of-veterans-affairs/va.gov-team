@@ -81,10 +81,7 @@ Last Updated September 25, 2020
 
 ## KPIs
 
-- Reduce traffic to direct deposit for education on eBenefits to 0%.
-- Increase traffic to direct deposif for education on VA.gov by 100%. (Talk to Luke about how much traffic they get per week/month)
-- Reduce searches for direct deposit from the profile by 20% or more.
-  - Why: We are still seeing a lot of searches for direct deposit from the profile after the Profile 2.0 relaunch. I think this is because people are expecting to see this feature that are not seeing it, and that could be two populations: people who receive edu benefits but NOT disability/comp (so they aren't, prior to the launch of the edu functionality on VA.gov, seeing the direct deposit section of their profile), or people whose identities we can't confirm (therefore, we don't load most of the profile). I bet that getting the edu feature into the VA.gov profile will reduce confusion for a lot of folks.
+WIP here: https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIKmts/edit#gid=995745327
 
 # Implementation Info
 

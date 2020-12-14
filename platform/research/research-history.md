@@ -14,7 +14,68 @@ This does not include research for Appeals projects, which is stored in differen
 ------
 ###  2020
 
+#### November 19 - December 15: 526 Usability test (PTSD flow)
+*GovernmentCIO, BAM 1. Lead researcher: Christian Valla
+
+-16 participants (4-8 therapists / social workers. 8-12 veterans) 
+
+- [Research folder](https://docs.google.com/document/d/1Ubm4_fD6y0S-CJ1UgQXuhiZ8-g2KupO7k9gtzRTYIV8/edit?usp=sharing)
+
+### November 2020
+
+#### November 19 - December 15: 526 Usability test (PTSD flow)
+*GovernmentCIO, BAM 1. Lead researcher: Christian Valla
+
+-16 participants (4-8 therapists / social workers. 8-12 veterans) 
+
+- [Research folder](https://docs.google.com/document/d/1Ubm4_fD6y0S-CJ1UgQXuhiZ8-g2KupO7k9gtzRTYIV8/edit?usp=sharing)
+
+#### November 19 - December 15: 526 Usability test (PTSD flow)
+*GovernmentCIO, BAM 1. Lead researcher: Christian Valla
+
+-16 participants (4-8 therapists / social workers. 8-12 veterans) 
+
+- [Research folder](https://docs.google.com/document/d/1Ubm4_fD6y0S-CJ1UgQXuhiZ8-g2KupO7k9gtzRTYIV8/edit?usp=sharing)
+
+#### November 13 - December 7: Community Care Provider Selection Research** 
+*VAOS, Peter Russo*
+
+- 8 Veterans
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/oct-2020-cc-provider-discovery/research-plan-cc-discovery.md)
+- Scheduling, Appointments
+
+#### November 6 - November 20: Community Care Request Manager Research
+*GovernmentCIO, VSA Facilities, Lead researcher: Chris Logan
+
+-7 participants (6 CCRMs / 1 CCRM Supervisor) 
+
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/community-care)
+
+#### October 15 - November 3:  Comparison Tool Redesign Research
+*Booz Allen: Amy Knox, Jen Jones, Emma Waters*
+ - 10 Veteran/non-Veteran beneficiaries, 5 School Certifying Officials, 20+ stakeholders
+ - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/school-comparison-tool/redesign/research)
+ - **Keywords:** Comparison Tool, school search, school selection 
+
+#### November 2 - 4 : Wizard Migration Usability Study
+*Public Websites: Liz Lantz, Christian Valla, Megan Gayle, Josh Kim*
+- 5 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards/discovery/research)
+- **Keywords:** wizard pattern, education benefits, alerts
+
+#### September 17 - November 9 : IRIS / Contact Center Content Process Research
+*Public Websites: Liz Lantz*
+- 31 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/iris)
+- **Keywords:** Call center, contact center, content governance, IRIS, Oracle Service Cloud, help desk, GI Bill help desk, MHV technical support, LEAF
+
 ### October 2020
+
+#### October 15 - 19 : Usability Testing the MVP Upcoming Appointment Questionnaire
+*Ad Hoc: VSA Health care Experience/Questionnaires, Kristen McConnell*
+- 8 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/research/mvp-usability)
+- **Keywords:** Veterans, Questionnaires, Upcoming appointment, Primary care, Health care, Usability testing 
 
 #### September 30 - October 16 : Vet Center - Veteran Client - Discovery Interviews
 *Ad Hoc: VSA Facilities, Leyda Hughes*
@@ -22,6 +83,13 @@ This does not include research for Appeals projects, which is stored in differen
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/veteran-interviews)
 
 ### August 2020
+
+#### August 20 - November 30: UAT testing. HLR and BDD.
+*GovernmentCIO, BAM 1. Lead researcher: Christian Valla
+
+-12 participants 
+
+- [Research folder] N/A.
 
 #### August 31 - September 11: Learning center nomenclature card sort
 *Public Websites: Liz Lantz*
@@ -34,6 +102,19 @@ This does not include research for Appeals projects, which is stored in differen
 *Ad Hoc: VSA Facilities, Leyda Hughes*
 - 5 participants
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/outreach-specialist-interviews)
+
+#### August 19-20: VA.gov mobile study (mobile month)
+*VSA: Shawna Hein and Liz Lantz*
+- 6 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/cross-team-initiatives/mobile-month/research)
+**Keywords:** mobile usability, mobile header, navigation, more in this section, right rail, claim status, facility locator, map view, alert usability
+
+#### August 10-14
+*VA Lighthouse APIs: Lauryl Zenobi*
+- 9 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/patient-generated-data)
+**Key words:** Veterans, Clinicians, PGD, Wearables, Data-sharing, Clinical workflows
+
 
 #### August 10 - 12
 *CTO health team: Ryan Thurlwell*
@@ -87,7 +168,7 @@ This does not include research for Appeals projects, which is stored in differen
 #### June 25-29: Claim status tool. Usability test / Collaborative design exersise 
 *GovernmentCIO, BAM 1. Lead researcher: Christian Valla
 
--12 participants
+-12 participants 
 
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/research/co-design-usability-June)
 

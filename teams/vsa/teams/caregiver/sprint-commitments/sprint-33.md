@@ -3,21 +3,22 @@
 ##### 10/21 - 11/3
 
 ## Frontend
-- [ ] [Statement of truth checkboxes](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14697)
+- [ ] [Statement of truth checkboxes](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14697) (blocked/on hold)
+- [x] Downtime service implementation (MPI)
 - [ ] [Look into unnesting recent medical care questions in schema](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15160)
 - [ ] [10-10EZ Accessibility bugs](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/13999)/tech debt
 - [ ] [Stretch: Start looking into 10-10EZ Address](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15159)
 
 
 ## Backend
-- [ ] [Statement of truth checkboxes - backend](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14702) 
+- [ ] [Statement of truth checkboxes - backend](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14702) (On hold - blocked my program)
 - [ ] Resolving 10-10CG submission errors
      - [PDFs not being sent - research](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/14429)
      - [Logging](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15146)
      - [Attempt resubmission of PDF on failure](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15147)
-- [ ] [Downtime discovery](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15113)
-- [ ] [Downtime implementation](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15114)
-- [ ] [Remove `stub carma responses`](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12784)(Lihan)
+- [x] [Downtime discovery](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15113)
+- [x] [Downtime implementation - CARMA](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15114)
+- [x] [Remove `stub carma responses`](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12784)(Lihan)
 - [ ] [Add betamocks for testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9631) (Lihan)
 
 ## Design

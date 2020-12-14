@@ -3,39 +3,41 @@
 
 ### What's the purpose of the Form Confirmation page?
 
-The Confirmation page gives users information about what they can expect after they submit a form online. This page also provides users a summary of the benefit they applied for, a confirmation number, and the date they submitted their claim. 
+The form confirmation page gives users information about what they can expect after they submit an online application. This page also provides users a summary of the benefit they applied for, a confirmation number, and the date they submitted their claim. 
 
-Our current confirmation pages vary in format and content. Below are some of the default components on our current confirmation pages. This template was created by confirmation pages that exist today on VA.gov, but teams should tailor the content as needed based on the benefit type and/or stakeholder feedback. 
+Our current confirmation pages vary in format and content. Below are some of the default components on our current confirmation pages. Teams should tailor the layout and content as needed based on the benefit type and/or stakeholder feedback. 
+
+------------
 
 In general the confirmation page should include the following elements: 
 
 ### Sample template 
 
-1. H1: File for [benefit] or Apply for [benefit] and the VA paper form equivalency appears next to or below the H1.<br> 
-   *For example:* 
+1. The H1 for this page should carry over from H1 for the online form. <br>
+File for [benefit] or Apply for [benefit] and the VA paper form equivalency appears next to or below the H1.<br> 
+   
+## File for disability compensation (Form 21-526EZ)
+
+2. After the H1 there should be a line of content letting users know that they successfully submitted their application. <br>
   
-  H1: **File for disability compensation (Form 21-526EZ)**
-
-2. After the H1 we should include a line of content letting users know that they can print this confirmation page. <br>
-    *For example:*
-    
-    **Please print this page for your records**
-
-3. A line of content letting users know that their application was submitted. <br>
-    *For example:*
-    
       **Thank you for submitting your application** or <br>
-      **Your claim has been submitted** <br>
+      **We've received your application**
+    
+   
+3. A line of content letting users know that they can print the page for their records. <br>
+
+      **Please print this page for your records**
+    
 
 4. A line of content letting applicant know that VA might contact them for more information or documents. <br>
-     *For example:*
      
-     **We may contact you for more information or documents.**
+     **We may contact you if we need more information or documents.**
      
      
-5. Blue box content 
+5. Informational blue box content 
 
-{begin Blue box}
+{begin blue box}
+
   - Applicant name
   - Benefit they’ve applied for
   - Confirmation number
@@ -46,11 +48,11 @@ In general the confirmation page should include the following elements:
 
 6. Other content elements
 
-What other content to include on the confirmation page is based on the type of benefit and how long it might take for VA to process an application. Some benefit confirmation pages might need more information than others. 
+What other content to include on the confirmation page depends on the type of benefit. Some benefit confirmation pages might need more information than others. 
 
-Content writers and designers should work together to determine the best format and content for the confirmation page, based on the type of benefit and stakeholder feedback. 
+Content writers and designers should work together to determine the best format and content for the confirmation page, based on the type of benefit and stakeholder input. 
 
-  *Examples of other type of content to include:*                                         
+Some examples of other information we might want to include on a form's confirmation page:                                        
 
 - How long will it take VA to process the application? 
 
@@ -61,12 +63,14 @@ Content writers and designers should work together to determine the best format 
 - What they can the applicant do if they have additional questions after they apply? 
 
 
-### Form Confirmation page examples
+------
+
+
+### Form Confirmation live page examples
 
 Three examples of confirmation pages in production today: 
 
 Health care confirmation page
-
 
 ![Health care confirmation page.png](https://images.zenhubusercontent.com/59b0414bb0222d5de476aa22/18d8b7de-db00-41f9-a497-c5947b9b8dda)
 

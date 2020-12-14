@@ -14,7 +14,19 @@ You can contact any of the following about research or adding your reach here:
 
 ## In this folder
 
-### Customer Insights
+### Planning Resources
+
+You can find resources to get you started with your research
+
+- [How VSP does research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/how-vsp-does-research.md) 
+
+- [VSP conversation guide template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/vsp-conversation-guide-template.md) 
+
+- [VSP research plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/vsp-research-plan-template.md) 
+
+<br>
+
+### Quarterly Roundups
 
 You can find all quartly roundups and survey readouts here.
 
@@ -22,7 +34,15 @@ You can find all quartly roundups and survey readouts here.
 
 <br>
 
-### Research projects conducted by VSP
+### Customer Feedback 
+
+You can find feedback from all research conducted by VSP
+
+- [2020](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1598917367016/8652c561cf3c2a5b0fb2e8a6add9081a81f1d666)
+
+<br>
+
+## Research projects conducted by VSP
 
 Below you can find links to research conducted by VSP. If you've done research, please provide a link to your work here. 
 
@@ -41,8 +61,21 @@ Below you can find links to research conducted by VSP. If you've done research, 
 - List of keywords
 
 ------
+### Upcoming Research
 
+#### Documentation - Content and IA
 
+#### Design System - Storybook - Design System
+
+#### Designer User Journey Workshop - Service Design
+
+#### Orientation - Product Support
+
+#### Monitoring Tools - OPS
+
+<br>
+
+### Completed Research
 
 #### Collaboration Cycle v1 Research
 
@@ -63,7 +96,7 @@ Q2 - Q3 2020
 *Service Design: Andrea Chappelear*
 *Product Support: James Chasia*
 
-Q3 2020
+Q3 and Q4 2020 
 
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/research/support%20tracking)
 

@@ -121,7 +121,7 @@ Historical: Invision link (v 0.1) https://vsateams.invisionapp.com/share/PHUPD25
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](#go-to-market-strategy)
+- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/Summary%20of%20Release%20Plan%20Steps%20-%20CLP%20MVP%201.0.md)
 
 Strategy to be drafted here based on https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/content-requirements-spec/content_business_rules.md
 
@@ -145,3 +145,4 @@ Strategy to be drafted here based on https://github.com/department-of-veterans-a
 ### Status & Decisions
 - A running tally of project status and decisions is [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/status/status_decisions.md)
 
+.

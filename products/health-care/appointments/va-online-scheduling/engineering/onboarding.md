@@ -19,7 +19,7 @@ We use a combination of Github and JIRA. Most of our issues and backlog will alw
 
 ### Getting Access to DSVA Slack
 
-Please provide your team lead or PM, Kam or Lenae, with the email address you wish to use. They will submit a request to add you as either a limited participant or full member to the DSVA slack community. 
+Please provide your team lead, Kam or Lenae, with the email address you wish to use. They will submit a request to add you as either a limited participant or full member to the DSVA slack community. 
 
 For example, if I was submitting a request for myself I would provide: "kam@adhocteam.us" as my email as that is the email I most commonly use for business purposes.
 
@@ -35,9 +35,9 @@ Please provide Kam or Lenae the following:
 
 First familiarize yourself with the high level overview of best practices for your respective engineering discipline:
 
-[Front End Onboarding Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/back_end_eng_practices.md)
+[Front End Onboarding Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/front_end_eng_practices.md)
 
-[Back End Onboarding Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/front_end_eng_practices.md)
+[Back End Onboarding Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/back_end_eng_practices.md)
 
 Next you'll want to get your local stack setup. Front engineers will most likely need both the backend and the frontend stacks available. It's advisable to have both of these setup though for all disciplines. Instructions and additional resources for contributing to the platform can be found here:
 

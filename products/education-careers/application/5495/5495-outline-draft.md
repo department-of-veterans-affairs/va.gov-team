@@ -60,3 +60,45 @@ Used when a dependent is changing the school or training where they are using th
     - Secondary phone
     - How would you prefer to be contacted if VA has questions about your application?
 -   Review/Submit​
+
+## Form Title: Change your education benefits 
+Form 22-5495
+
+#### 5495 Screen No. { to come } 
+
+{ Confirmation screen } 
+
+#### We've received your application. 
+
+We usually process applications within **30 days**.
+
+We may contact you if we need more information or documents.
+
+Print this page { button }
+
+#### Education Benefit Claim    								
+(Form 22-5495)  
+
+for { Fname Lname }
+
+**Confirmation number**
+{ confirmation number } 
+
+**Date received**
+{ Mon. NN, YYYY }
+
+**Your claim was sent to**
+{ Relevant RPO info } 
+
+
+**What happens after I apply?**
+
+We usually decide on applications within 30 days.  
+
+You’ll get a Certificate of Eligibility (COE) or decision letter in the mail. If we’ve approved your application, you can bring the COE to the VA certifying official at your school.  
+
+[Learn more about what happens after you apply](https://www.va.gov/education/after-you-apply/) 
+
+
+
+[Go Back to VA.gov]() { button }

@@ -1,9 +1,9 @@
 ---
 name: VSA dev intent / spot check review request
-about: Request a VSA dev intent or spot check review
-title: Request a VSA dev intent or spot check review for ENTER_PRODUCT_NAME
-labels: 508/Accessibility, development review, product support
-assignees: 1Copenut, jenstrickland
+about: Request a VSA design, dev intent, or spot check review
+title: Request a VSA design, dev intent, or spot check review for ENTER_PRODUCT_NAME
+labels: 508/Accessibility, vsa
+assignees: jenstrickland
 
 ---
 
@@ -32,6 +32,8 @@ assignees: 1Copenut, jenstrickland
 
 <!-- Select the time of review requested by putting an X in the [ ] below -->
 
+- [ ] **Design collaboration review** (Review design to discuss accessibility and inclusive design) - This may happen as design evolves.
+
 - [ ] **Development intent review** (Review design to discuss approach to take with development, identify what components and semantic HTML would be appropriate, identify any accessibility issues and how to address) - This would happen as designs are passed to development, before development begins.
 
 - [ ] **Spot check review** (Review and follow the steps in the [508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-checklist.md) first.) This happens well before launch, so that the 508 office can review and any issues addressed *before* launch.
@@ -42,15 +44,15 @@ assignees: 1Copenut, jenstrickland
 
 <!-- Add your name on the next line -->
 
-## Preferred times for dev intent checkpoint
+## Preferred times for dev intent checkpoint, if applicable
 
 <!-- Include any preferred times or dates on the next line -->
 
-## Staging URL and credentials
+## Staging URL and credentials, if applicable
 
 <!-- Add your info on the next line -->
 
-## Test plan
+## Test plan, if applicable
 
 <!-- Add your info on the next line -->
 

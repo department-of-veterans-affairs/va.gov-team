@@ -8,8 +8,8 @@ This document will help all teams working on VA.gov understand when you should e
    - For product designers 
    - For CMS developers
    - For front end developers
-- [The CMS scoping exercise](cms-scoping-exercise.md)
-   - [How to request](cms-scoping-exercise.md#howtorequest)
+- [The CMS scoping exercise](/platform/cms/product-team-support/cms-scoping-exercise.md)
+   - [How to request](/platform/cms//product-team-support/cms-scoping-exercise.md#howtorequest)
 - [Questions/How to contact us](#questions)
 
 
@@ -52,4 +52,4 @@ CMS support is available anytime you have questions or want to collaborate on yo
 
 
 ## <a id="questions"></a>Questions?
-If you have any questions, please reach out via slack in [#cms-support](https://dsva.slack.com/channels/cms-support), tag `@kevin walsh`
+If you have any questions, please [reach out](/platform/cms#how-to-reach-us).

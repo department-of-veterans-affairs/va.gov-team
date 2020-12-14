@@ -8,17 +8,9 @@ Use[  #feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/)
 
 Before the session, send out the[  observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into[  #feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 
-In the Attendees section, make sure everyone except the participant is on mute
-
-In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
-
-In the More section, make sure everyone has permissions to share screen.
-
 Check your [screensharing setup]
 
 ### Project-specific setup
-
--   Have mobile prototype available - links to come
 
 -   Have [desktop prototype available](https://vsateams.invisionapp.com/share/ZVZ7DXLYEQ3)
 
@@ -27,7 +19,7 @@ When the participant is ready, begin the session with the following intro
 Intro - 3 minutes
 -----------------
 
-Thanks for joining us today! My name is (Christian/Liz) and I also have some colleagues on the line observing and taking notes. Today we're going to talk about finding the right form when you want to apply for education or disability benefits on VA.gov.
+Thanks for joining us today! My name is (NAME) and I also have some colleagues on the line observing and taking notes. Today we're going to talk about finding the right form when you want to apply for education benefits on VA.gov.
 
 Before we start, a few things I want to mention:
 
@@ -50,15 +42,26 @@ Start recording.
 Warm-up Questions (Optional) - 5 minutes
 ----------------------------------------
 
-Before we look at the prototype, I'd like to understand if you have any experience with forms on VA.gov
+Before we look at the prototype, I'd like to understand more about your experience with education benefits on VA.gov.
 
--   Have you ever applied for benefits through a form on VA.gov before?
--   What was that experience like?
--   Do you remember going to any pages about eligibility before you applied? What did you think about those pages?
+As appropriate:
 
-As we go through the session, it'll be a great if you can think out loud and talk about what you're seeing. I've found it can be helpful if we go through a warm up page first.  
+- I understand you applied for benefits in the last 12 months, can you tell me what that experience was like? 
+  - What steps did you take before you submitted the application form?
+  - Do you remember going to any pages about eligibility before you applied? What did you think about those pages?
+  - How did you know which was the correct form to use?
+  - Did you apply online?
+- I see you're planning on applying for education benefits in the next 3 months, can you tell me more about where you are in the process?
+  - What steps have you taken so far?
+  - Do you remember going to any pages about eligibility? What did you think about those pages?
+  - How will you know which forms to submit?
+  - Will you apply online?
 
-*Make the participant the presenter and ask participant to share screen, and guide them to a benefit hub page on VA.gov relevant to the experience they described above - e.g. [Disability eligibility page](https://www.va.gov/disability/eligibility/), https://www.va.gov/disability/how-to-file-claim/, [education how to apply](https://www.va.gov/education/how-to-apply/), [education eligibility](https://www.va.gov/education/eligibility/)*
+As we go through the session, it'll be great if you can think out loud and talk about what you're seeing. I've found it can be helpful if we go through a warm up page first.  
+
+*Make the participant the presenter and ask participant to share screen.*
+
+*Guide them to a benefit hub page on VA.gov relevant to the experience they described above - e.g. [education eligibility](https://www.va.gov/education/eligibility/)*
 
 - Thank you. Now, take a look at this page, and talk me through what you see, and what you can do on this page.
 - Is there anything confusing or unclear about this page?
@@ -68,17 +71,23 @@ As we go through the session, it'll be a great if you can think out loud and tal
 First Task: Find form to apply for new benefits - 8 minutes
 -----------------------------------------------------------
 
--   Great! Thank you for doing that.  Now, I'm going to send you a link to the prototype in the chat. 
--   It'll be really helpful for you to think out loud as much as possible as we go through this.
--   Send user link to prototype, starting on How to Apply education page
-    -   [Desktop prototype](https://vsateams.invisionapp.com/share/ZVZ7DXLYEQ3)
-    -   Mobile prototype (NEED LINK)
--   Imagine you wanted to go to use your education benefits for the first time, and you made your way to this page.  
--   Show me what you'd do from here to start that process, and please remember to think aloud.
-    **If needed:**
-    -   Guide participant to how to apply button
+- Great! Thank you for doing that.  Now, I'm going to send you a link to the prototype in the chat. 
 
-    -   Guide participant to complete wizard to trigger 1990 outcome
+- It'll be really helpful for you to think out loud as much as possible as we go through this.
+
+- Send user link to prototype, starting on How to Apply education page
+
+  -   [Desktop prototype](https://vsateams.invisionapp.com/share/ZVZ7DXLYEQ3)
+
+- Imagine you wanted to go to use your education benefits for the first time, and you made your way to this page.  You already know you're eligible for these benefits.
+
+- Show me what you'd do from here to start that process, and please remember to think aloud.
+
+  **If needed:**
+
+  -   Guide participant to how to apply button
+
+  -   Guide participant to complete wizard to trigger 1990 outcome
 
 ***Participant should be on the 1990 form intro (subway map) page***
 

@@ -7,6 +7,7 @@
 - Sprint 32: 10/7-10/20
 - Sprint 33: 10/21-11/3
 - Sprint 34: 11/4-11/17
+- Sprint 34: 11/18-12/1
 
 - Phase I Development:
   - [Development] HLR: Schema Changes #11094 - CLOSED
@@ -18,15 +19,15 @@
   - [Development] HLR: Is HLR Working? - Sprint 31 - CLOSED
   - [Development] HLR: Get Staging (Sandbox?) API key #14003 - CLOSED
   - [Development] HLR: Investigate HLR Prefill Issues #13952 - Sprint 31 - CLOSED
-  - [Content] HLR: Content review of contestable issue endpoint responses #10713 - Sprint 32
-  - [Development] HLR: Final Wizard Work for Higher Level Review #14460 - Sprint 32 (Not a release blocker)
+  - [Content] HLR: Content review of contestable issue endpoint responses #10713 - Sprint 32 - CLOSED
+  - [Development] HLR: Final Wizard Work for Higher Level Review #14460 - Sprint 34 (Not a release blocker)
   
   Notes: There is a new wizard (determines if someone is eligible for HLR) but we are not considering this a release blocker at this time.  Largest blocker to HLR is our ongoing testing and release of Benefits Delivery at Discharge.
   
 - Phase I Launch Readiness:
-  - [Testing] HLR: User Acceptance Testing for Higher Level Review #7802 - Sprint 32/33
-  - [Launch] HLR: Staging Review Higher Level Review #14457 - Sprint 33
-  - [Launch] HLR: Privacy and Security Review Higher Level Review #174 - Sprint 33
+  - [Testing] HLR: User Acceptance Testing for Higher Level Review #7802 - Sprint 34/35
+  - [Launch] HLR: Staging Review Higher Level Review #14457 - Sprint 34
+  - [Launch] HLR: Privacy and Security Review Higher Level Review #174 - Sprint 34
   - [Development] HLR: React to staging and security reviews - Sprint 32/33
   
 - Phase II:
@@ -40,7 +41,7 @@
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 Note: Phase I testing is in production using a whitelist of users.  This is a fully deployed production version of the application but it will not be visible to all users.  We are preparing the UAT plan in Sprint 29 and will be workin to evolve it into Sprint 30.  Scheduling of UAT will be around Sprint 30/31 timeframe.
 ### Planning:
-- Desired date range or test duration: [Oct 16+]
+- Desired date range or test duration: [November]
 - Desired number of users: 5-8
 - How you'll recruit the right production test users: Perigian (normal process)
 - How you'll conduct the testing: With LightHouse.  The primary integration points are with LightHouse and we will be conducting UAT that tests both our code and their code.

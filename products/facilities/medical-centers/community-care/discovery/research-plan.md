@@ -8,21 +8,21 @@
 - Understand/gather feedback (where possible) about the VAOS requests for community care coming into Community Care request manages 
 - In addition, and more specific to the Facility Locator team, we want to understand how and where Community Care Request managers search for type of care/specialties and providers. 
 
-The VAOS team and the Facility Locator team will both benefit from understanding the type of data Request Manager get and use to process a community care request.  
+The VAOS team and the Facility Locator team will both benefit from understanding the type of data Community Care Request managers get and use to process a community care request.  
 
 
 ### Research questions
 
 Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audiology) and non-VAOS specialties (suggest Chiropractor and Dermatology):
 
-- How does a community care request get processed by Request managers once it is received in Schedule Manager?
+- How does a community care request get processed by Community Care Request managers once it is received in Schedule Manager?
    - What are the different systems a Scheduler uses to process a community care request?
 - What type of data is a Request manager looking for from a Veteran when processing community care requests?
 - What information do you see from the VAOS request? Of that information, what do you use? What is helpful?
 - How do you search for type of care/specialities? Where do you search for that data + providers?
    - What words/categories are used by the schedulers when searching?
    - ~Which specialties are the most commonly searched? Rarely searched? Never searched?~ This can be answered through analytics
-- What search parameters do community care managers use to identify the appropriate community care provider?
+- What search parameters do Community Care Request managers use to identify the appropriate community care provider?
    - What are community care managers' expectations for search results (such as the number of results and distance/drive time) vs. reality?
     - Does that align with Veterans' expectations?
    - What happens if no providers meet the criteria?
@@ -32,7 +32,7 @@ Based on VAOS specialties (suggest Food/Nutrition/Dietary, Primary Care and Audi
 
 ### Hypothesis 
 
-- By understanding how Community Care schedulers use systems to manually process specific requests, and how they search for care providers on behalf of Veterans, we can better understand how to automate/simplify this search experience on Facility locator and VAOS. 
+- By understanding how Community Care schedulers use systems to manually process specific requests, and how they search for care providers on behalf of Veterans, we can better understand how to simplify this search experience on Facility locator and VAOS. 
 
 ### Assumptions 
 
@@ -44,7 +44,32 @@ Qualitative research
 
 ## Participants and Recruitment
 
-- Needs recruiter update
+A total of 12 participants will be interviewed:
+
+1. Lois Bowen, RN <lois.bowen@va.gov>
+
+2. Jonathan Sacks, RN <jonathan.sacks@va.gov>
+
+3. Tyson, Desiree N. (Portland) <Desiree.Tyson@va.gov>
+
+4. Doris Mack (Kansas City) <Doris.Mack@va.gov>
+
+5. Chadburn Campbell, AMSA <chadburn.campbell@va.gov>
+
+6. Angela Finch, AMSA <angela.finch@va.gov>
+
+7. Laura Gilmore <Laura.Gilmore2@va.gov>
+
+8. Paula Swope (Seattle) <Paula.Swope@va.gov>
+
+9. Robin Toohey <Robin.Toohey2@va.gov>
+
+10. Amberli Russell <Amberli.Russell@va.gov>
+
+11. Claudetta Barnes <Claudetta.Barnes@va.gov>
+
+12. Valerie Simmons <Valerie.Simmons@va.gov>
+
 
 ### Participant Criteria:
 
@@ -57,23 +82,19 @@ Qualitative research
 - Are you currenty a Community Care Manager who schedules appointment for Veterans?
   - (Answer must be yes)
  
-## Timeline
+## Timeline (Updated as time slots are filled)
 
-- Study dates: November -, 2020 Session length: 30 minutes 
-- Pilot session: will be held on November -, 2020 at -:00pm EST 
-- Session length: 30 minutes
+- Study dates: November 12th - 20th, 2020 Session length: 45 minutes 
+- Pilot session: will be held on November 6, 2020 at 2 pm EST 
 
 Date | Time in Eastern | Slots
 -----|-----------------------|-------
-Day of week, Nov 00 [PILOT] | -p | - 
-Day of week, Nov 00 |  -p | - 
-Day of week, Nov 00 |  -p | -  
-Day of week, Nov 00 |  -p | -  
-Day of week, Nov 00 |  -p | -  
-Day of week, Nov 00 |  -p | -  
-Day of week, Nov 00 |  -p | -  
-Day of week, Nov 00 |  -p | -  
-
+Friday, Nov 6 [PILOT] | 2 pm | 1
+Thursday, Nov 12 |  4 pm | 1 
+Friday, Nov 13 |  12:30 pm, 2 pm 3:15 pm | 3  
+Monday, Nov 16 |  11 am | 1  
+Thursday, Nov 19 |  2 pm | 1  
+Friday, Nov 20 |  12 pm | 1  
 
 ## Team Roles	
 

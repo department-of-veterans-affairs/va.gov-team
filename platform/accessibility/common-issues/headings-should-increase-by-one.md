@@ -1,4 +1,4 @@
-# [AXE-CORE]: Heading levels SHOULD increase by one
+# 508-defect-2 [AXE-CORE]: Heading levels SHOULD increase by one
 
 ## [508-defect-2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#508-defect-2)
 

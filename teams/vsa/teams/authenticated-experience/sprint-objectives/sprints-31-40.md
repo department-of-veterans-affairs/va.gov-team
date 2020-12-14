@@ -187,62 +187,327 @@ Week 2 of sprint 33
 
 **PM**
 
-- [Post-launch review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#post-launch-check-in)
+- Prep for [post-launch review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#post-launch-check-in)
+- Schedule post-launch review
 
 **PM/Design/FE**
 
 - Complete the tests and provide documentation for accessibility tests mentioned in #15247
 
+**Design**
+
+- **If** design has time while they are waiting for My VA research recruiting, pull in this ticket (and if they don't have time, then no need to do these):
+  - Look into error messaging/location #10722
+
+**FE**
+
+- (Maybe) Update links and text within Profile that currently go to sign-in FAQ #14998
+- Any FE work left? OK if not.
+
 ### My VA redesign
 
 **Design**
+
+- Research plan #13925
+- Conversation guide #13926
+- Conduct research (Depending on scheduling, this may carry over into the next sprint)
 
 **FE**
 
 - Reduce Javascript bundle size #1969
 
-## Sprint 35 (11/18 – 12/1)
-
-### My VA redesign
-
-**Design**
-
-**Dev**
-
-## Sprint 36 (12/2 – 12/15)
-
-### My VA redesign
+### Direct deposit for edu
 
 **PM**
 
-Are we ready for Matt to work on staging users list yet?
+- Prepare for usability testing Platform review #15686
 
 **Design**
 
-**Dev**
+- Research Plan for Usability Testing of EDU Direct Deposit #13807
+- Conversation Guide for Usability Testing of EDU Direct Deposit #13808
 
-## Sprint 37 (12/16 – 12/29)
+### Preferred facility
+
+- Technical discovery
+
+## Sprint 35 (11/18 – 12/1)
+
+Any outstanding work from sprint 34, plus:
+
+### Profile
+
+**FE**
+
+- Add 2FA prompt for when someone is LOA3 but not 2FA and is eligible for direct deposit #16218
 
 ### My VA redesign
 
 **Design**
 
-**Dev**
+- Conduct research #15684 
+- Research summary
+- Make design updates for mobile design based on user testing feedback
+
+### Direct deposit for edu
+
+**PM**
+
+- Schedule/hold usability testing platform review #15686
+
+**Design**
+
+- Build prototype
+- Conduct research
+- Start summary (if time)
+
+### Preferred medical facility
+
+**PM**
+
+- Schedule/hold [project kickoff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#project-kickoff)
+
+**BE**
+
+- Backend build #16107
+
+### Analytics update
+
+- Add error codes for address save failures to GA dashboard #16088
+
+### Maintenance/bug fixes
+
+Don't include if this is done before the sprint:
+
+- Cache VA profile get_person calls that return 404s #15971
+
+## Sprint 36 (12/2 – 12/15)
+
+### Time off
+
+- Lihan: 12/14 - 12/15
+
+Anything outstanding from sprint 35, plus:
+
+### My VA redesign
+
+**Design**
+
+Samara
+
+- Work with DEPO team to determine final direction of My VA (dashboard or newsfeed?)
+
+Both designers
+
+- Take an a day or two to agree on what major conclusions came out of research
+
+Designer #1:
+
+- Research summary (should take no more than a week)
+
+Designer #2 (designer #1 can help with this once the write-up is done):
+
+**We can wait on this until we have an answer about final direction of My VA**
+
+- Incorportate user feedback into designs
+- Clean up wireframes so they are ready for desktop conversion:
+  - Pick final direction (**Samara will help with this**)
+  - Finalize wireframes. This might include:
+    - Deciding exactly which blocks and what information we are including on the page.
+    - Finalizing the order of blocks on the page.
+    - Adding a page title (H1) (eg. "My VA")
+    - Mocking up blank states 
+- If time, start desktop conversion
+
+### Direct deposit for edu
+
+**PM**
+
+- Put QA spreadsheet test cases into TestRail
+
+**Design**
+
+- Conduct research
+- Research summary
+- Final design updates
+
+**FE** 
+
+- Direct deposit for edu build #16479
+  - If this was broken down into smaller tickets, let's figure out what is doable this sprint.
+  - [FE] Rename existing direct deposit/payment info code to something more specific to comp and pen when applicable #16684
+  - [FE] Build redux actions/reducers for getting edu DD info #16685 
+  - [FE] Determine if we can even tell if someone is eligible who has not yet set up DD for edu benefits #16686
+  - [FE] Make educationDirectDeposit feature flag to gate new work #16793
+
+### Preferred medical facility
+
+**BE**
+
+- Continue backend build #16107 (if necessary)
+
+### Analytics
+
+- Direct Deposit Eligibility/Status Analytics Data Layer Changes #16603
+
+## Sprint 37 (12/16 – 12/29)
+
+### Time off
+
+- Tressa: 12/21 - 1/1
+- Cassandra: 12/21 - 1/1
+- Erik: 12/24 - 1/1
+- Sandra: No time
+- Lihan: 12/16 - 12/29
+- Matt: 12/17 - 12/18; 12/24 - 1/1
+- Jim Adams: 12/24 - 25; 12/31 - 1/1
+- Samara: 12/24 - 12/25; 12/30 - 1/1
+
+### My VA redesign
+
+**Design**
+
+Before break
+
+- Finish converting mobile wireframes to desktop
+- Submit wireframes for copy review (**Note**: Samara will manage these discussions while Tressa/Cassandra are out)
+
+### Direct deposit for edu
+
+**Design**
+
+- Remove "add" state for direct deposit for edu from mockups #17345
+- Submit for [IA review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#information-architecture-ia-request)
+
+**FE**
+
+- Continue frontend build
+
+### Preferred facility
+
+On hold this sprint
+
+### VA Profile notification preferences
+
+**PM**
+
+- Create product outline
+
+### Address error logging
+
+- Stop recording address validation errors in Sentry when we no longer need it #17315
 
 ## Sprint 38 (12/30 – 1/12)
 
 ### My VA redesign
 
+**PM**
+
+- Make a list of staging test cases based on wireframes
+
 **Design**
 
-**Dev**
+- Mock up first-time user experience
+- LOA1 design
+- Visual design
+- Gather feedback from design team
+- How do we guide people to the new My VA dashboard? #14581
+
+**FE**
+
+- Start FE build
+
+### Direct deposit for edu
+
+**BE**
+
+- Modify Ch33BankAccountsController#index method to also return bank name #17294
+
+### VA Profile notification preferences
+
+**BE**
+
+- Meet with Terry
+- Technical discovery
+- Start implementation, depending on how much discovery is needed and convos with Terry
 
 ## Sprint 39 (1/13 – 1/26)
 
+### My VA redesign
+
+**PM**
+
 **Design**
 
-**Dev**
+- Review visual design with team; Get feedback
+- Finalize visual design
+- Finalize My VA copy
+
+**FE**
+
+- Continue FE build
+
+### VA Profile notification preferences
+
+**PM**
+
+- Hold platform kickoff (maybe)
+
+**BE**
+
+- Start/Continue implementation
 
 ## Sprint 40 (1/27 – 2/9)
 
-**Dev**
+### My VA redesign
+
+**PM**
+
+- Prep for usability test prep review
+
+**Design**
+
+- Research plan for usability testing of finalized designs
+- Convo guide for usability testing of finalized designs
+
+**FE**
+
+- Continue FE build
+
+### VA Profile notification preferences
+
+**Design**
+
+- If time, have an initial call with design <> VA Profile.
+
+**BE**
+
+- Continue implementation
+
+## Sprint 41 (2/10 – 2/23)
+
+### My VA redesign
+
+**PM**
+
+- Hold usability testing review at beginning of sprint
+
+**Design**
+
+- Recruit for research
+- Conduct research
+
+**FE**
+
+- FE to begin incorporating visual design
+
+## Sprint 42 (2/24 - 3/9)
+
+### My VA redesign
+
+**PM**
+
+**Design**
+
+- Research summary
+- Hand off final designs to FE

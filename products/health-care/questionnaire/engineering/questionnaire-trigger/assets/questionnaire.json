@@ -1,0 +1,38 @@
+{
+  "resourceType" : "Questionnaire",
+  "url" : "https://www.va.gov/healthcare/questionnaire", // Canonical identifier for this questionnaire, represented as a URI (globally unique)
+  "version" : "1.0", // Business version of the questionnaire
+  "name" : "HC-QSTNR", // C? Name for this questionnaire (computer friendly)
+  "title" : "Pre-appointment Questionnaire", // Name for this questionnaire (human friendly)
+  "status" : "active", // R!  draft | active | retired | unknown
+  "date" : "<dateTime>", // Date last changed
+  "publisher" : "Veterans Affair", // Name of the publisher (organization or individual)
+  "description" : "lorem ipsum.....", // Natural language description of the questionnaire
+  "purpose" : "to collect pre-appointment information", // Why this questionnaire is defined
+  "Identifier":{
+    "value" : "questionnaire:v1.0:facility:983:clinic:848:stop_code:323", // The value that is unique
+  },
+  "copyright" : "Oct 28th, 2020", // Use and/or publishing restrictions
+  "approvalDate" : "<date>", // When the questionnaire was approved by publisher
+  "lastReviewDate" : "<date>", // When the questionnaire was last reviewed
+  "item" : [
+    { 
+    "linkId" : "1", // R!  Unique id for item in questionnaire
+    "text" : "Are there any additional details you’d like to share with your provider about this appointment?", // Primary text for the item
+    "type" : "display", // R!  group | display | boolean | decimal | integer | date | dateTime +
+    "required" : true, // C? Whether the item must be included in data results
+  },
+  { 
+    "linkId" : "2", // R!  Unique id for item in questionnaire
+    "text" : "Are there any other concerns or changes in your life that are affecting you or your health?", // Primary text for the item
+    "type" : "display", // R!  group | display | boolean | decimal | integer | date | dateTime +
+    "required" : true, // C? Whether the item must be included in data results
+  },
+  { 
+    "linkId" : "3", // R!  Unique id for item in questionnaire
+    "text" : "Do you have a question you want to ask your provider? Please enter your most important question first.", // Primary text for the item
+    "type" : "display", // R!  group | display | boolean | decimal | integer | date | dateTime +
+    "required" : true, // C? Whether the item must be included in data results
+  }
+]
+}

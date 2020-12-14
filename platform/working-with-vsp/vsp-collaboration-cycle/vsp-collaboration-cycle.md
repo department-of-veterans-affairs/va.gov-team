@@ -38,16 +38,15 @@ Start off by introducing your team and VSP to your new work initiative. Discuss 
   - Your DEPO Product Lead (required)
   - Your entire VFS team (recommended)
   - Any other stakeholders you want to invite
-- If VFS team is part of VSA contract, also include as optional: Accessibility (Jennifer), QA (Tze), Design (Shawna), Product (Mickin)
 - VSP brings (all optional): 
   - Design (Allison & Emily)
-  - Accessibility (Trevor)
+  - Accessibility (Trevor & Noah)
   - Content (Peggy)
   - Information architecture (Mikki)
   - QA (Peter)
   - Product (Shira)
   - Analytics (Joanne)
-  - VSP’s DEPO co-leads (Rachael, Kevin & Dror)
+  - VSP’s DEPO co-leads (Rachael & Kevin)
 
 ### Artifact inputs 
 You bring: 
@@ -82,16 +81,16 @@ Present a draft of your ideas to VSP and other expert designers. Learn about exi
   - Designer(s) from your product team (required)
   - Product Manager (optional)
   - DEPO design lead (required as applicable)
-- If VFS team is part of VSA contract, also include as optional: Accessibility (Jennifer), Design (Shawna)
 - Design experts bring: 
   - VSP designers (Emily and/or Allison) - required
-  - Accessibility (Trevor) - required
-  - VSP’s DEPO co-leads (Rachael, Kevin & Dror) - Optional
+  - Accessibility (Trevor & Noah) - required
+  - VSP’s DEPO co-leads (Rachael & Kevin) - Optional
 
 ### Artifact inputs
 You bring:
 - Whiteboard sketch or other lo-fi prototypes or mockups
 - A general idea of the toolset you intend to use in your designs
+- **_Please provide these artifacts at least 2 days before the scheduled review meeting._**
 
 Design experts provide after the meeting:
 - A list of relevant design components and patterns (with URLs)
@@ -140,15 +139,14 @@ VSP brings:
   - Product manager (required)
   - DEPO product lead (required)
   - Anyone else from your team who significantly contributed to the artifacts provided (required)
-- If VFS team is part of VSA contract, also include as optional: Accessibility (Jennifer), Design (Shawna), QA (Tze)
 - VSP brings: 
   - Design (Allison & Emily) - required
-  - Accessibility (Trevor) - required
+  - Accessibility (Trevor & Noah) - required
   - Content (Peggy) - required
   - Information architecture (Mikki) - required
   - QA (Peter) - required
   - Product (Shira) - required
-  - VSP’s DEPO co-leads (Rachael, Kevin & Dror) - Optional
+  - VSP’s DEPO co-leads (Rachael & Kevin) - Optional
   - Analytics (Joanne) - optional
 
 ## For further support at this point
@@ -316,19 +314,20 @@ You bring:
   - **(preferred)** Use the [TestRail VSP accessibility testing checklist](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc).
   <br/>**OR**
   - Certify the checklist of required accessibility items in the staging review issue. All required items should be checked off so the accessibility specialist can start their review on time.
-  - **Required accessibility checklist**
-    - [ ] [Axe scans in daily development](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#axe-scans-in-daily-development)
-    - [ ] [Axe scans included in end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#axe-scans-in-end-to-end-tests)
-    - [ ] [Color tests for proper contrast and colorblindness](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#color-tests)
-    - [ ] [Content zoomed to 200%, 300%, 400%](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#content-resize-check)
-    - [ ] [Keyboard navigation check](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#keyboard-navigation-check)
-    - [ ] [Screen reader tests (VoiceOver + Safari or NVDA + Firefox)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#screen-reader-tests)
-  - **Recommended accessibility checklist**
-    - [ ] [Keyboard end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/testing/508-automated-testing.md)
+  - **Foundational accessibility checklist (required)**
+    - [ ] [Axe scans in daily development](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#axe-scans-in-daily-development)
+    - [ ] [Axe scans included in end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#axe-scans-in-end-to-end-tests)
+    - [ ] [Color tests for proper contrast and colorblindness](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#color-tests)
+    - [ ] [Content resized to 200%, 300%, 400%](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#content-resize-check)
+    - [ ] [Keyboard navigation check](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#keyboard-navigation-check)
+  - **Advanced accessibility checklist (recommended)**
+    - [ ] [Screen reader tests (VoiceOver + Safari or NVDA + Firefox)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#screen-reader-tests)
     - [ ] [Axe-coconut scans in daily development](https://www.deque.com/blog/test-leading-edge-accessibility-axe-coconut-axe-core-3-0/)
     - [ ] [WAVE tool spot checks](https://wave.webaim.org/)
+  - **Future accessibility checklist**
+    - [ ] [Keyboard end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/testing/508-automated-testing.md)
 - List of known issues (with links to tickets when applicable)
-- **_Please provide these artifacts at least 2 days before the scheduled review meeting._**
+- **_Please provide these artifacts at least 4 days before the scheduled review meeting._**
 
 VSP brings:
 - Feedback on the artifacts you’ve provided from the following practice areas: design, accessibility, content, QA, and optional: product, analytics, engineering
@@ -342,15 +341,14 @@ VSP brings:
   - Product manager (required)
   - DEPO product lead (required)
   - Anyone else from your team who significantly contributed to the artifacts provided (required)
-- If VFS team is part of VSA contract, also include as optional: Accessibility (Jennifer), Design (Shawna), QA (Tze)
 - VSP brings: 
   - Design (Allison & Emily) - required
-  - Accessibility (Trevor) - required
+  - Accessibility (Trevor & Noah) - required
   - Content (Peggy) - required
   - QA (Peter) - required
   - Product (Shira) - required
   - Information architecture (Mikki) — optional
-  - VSP’s DEPO co-leads (Rachael, Kevin & Dror)
+  - VSP’s DEPO co-leads (Rachael & Kevin)
   - Analytics (Joanne) - optional
 
 ## For further support at this point
@@ -384,6 +382,7 @@ Ensure your feature meets VSP's privacy and security standards.
 - Describe any new interactions with dependent VA backends
 - Describe any other security hotspots you're concerned about / want extra attention on
 - Link to [**Release Plan**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
+- Review the guidance on [hosting a security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/security/hosting-a-security-review.md)
 
 ### Outcomes and artifact outputs
 - VSP provides a list of concrete action items that need to be addressed, or approval to roll out
@@ -395,7 +394,6 @@ Ensure your feature meets VSP's privacy and security standards.
   - Product manager (required)
   - DEPO product lead (required)
   - Anyone else on your team whose presence is needed to speak to the technical architecture and security concerns (required)
-- If VFS team is part of VSA contract, also include as optional: VSA Engineering Lead
 - VSP brings: 
   - Engineering experts (Michael Fleet, others as needed)
 
@@ -466,10 +464,6 @@ You bring:
 
 ### Outcomes and artifact outputs
 Begin thinking about how your product should be evolving based on the results you've reported.
-
-_**VSA teams:**_ 
-- Complete your [VSA Initiative Impact Review](https://docs.google.com/presentation/d/1yq7dPPf65qHCJaD6e6bWdTyl1VoCC0gnLdcyOhgaSuM/edit#slide=id.p1) and share with VSA Product Lead (@mickin) for feedback
-- Work with VSA Product Lead to schedule a 30min debrief + QA of your Report with the VSA Practice Leads, your PO, and DEPO Leads 
 
 ## For further support at this point
 Reach out in [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams) with questions

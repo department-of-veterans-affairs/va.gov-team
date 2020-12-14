@@ -16,6 +16,10 @@ We'd like to know if the documentation is meeting your needs, and welcome your f
 
 * [How does accessibility fit into our product lifecycle?](#how-does-accessibility-fit-into-our-product-lifecycle)
 
+* [VSA accessibility on-boarding](#vsa-accessibility-on-boarding)
+
+* [VSA accessibility reviews](#vsa-accessibility-reviews)
+
 * [Accessibility resources](#accessibility-resources)
 
 * [VSA Accessibility Dashboard](#vsa-accessibility-dashboard)
@@ -25,31 +29,53 @@ We'd like to know if the documentation is meeting your needs, and welcome your f
 - Slack channels: [#vetsgov-accessibility](https://dsva.slack.com/channels/vetsgov-accessibility)
 - Github labels: `508/Accessibility`
 
-#### VSA Accessibility Specialist Point of Contact
+#### VSA Accessibility Specialist Contacts
 - Jennifer Strickland, @Jennifer_S in Slack, @jenstrickland in Github, jennifer.strickland@adhocteam.us
+- Josh Kim, @Josh in Slack, @joshkimux in Github, josh.kim@adhocteam.us
 
 ### How does accessibility fit into our product lifecycle?
 
-#### Product
-* Define accessibility and performance budgets as business requirements from the start — and stick to them 
-* Meaningfully measure, monitor, and evaluate success goals, such as: call center volume, time on site, web performance metrics, accessibility  and Section 508 compliance
+#### [Product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/product)
+* Define accessibility as a business requirement from the start.
+* Ensure the team has sufficient accessibility expertise.
+* Plan for inclusive research.
+* Meaningfully measure, monitor, and evaluate success goals, including accessibility and Section 508 compliance.
 
-#### Research
-* Define inclusive research strategies (good start reference)
-* Define goals, and strategies, for including people with disabilities (specific KPIs?)
 
-#### Design
-* Define how we will cultivate cognitive empathy with marginalized populations across the project (economically and technology challenged individuals, people with disabilities)
-* Define criteria to evaluate the accessibility of designs, such as starting mobile-first, ensuring states, headings, focus management, behavior is documented and accessible
+#### [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/research)
+* Define inclusive research strategies ([review inclusive research guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/inclusive-research-recommendations.md)).
+* Define goals and strategies for including people with disabilities (consider specific KPIs).
+* Document gaps as potential risks to inform future research.
 
-#### Development
-* Establish e2e tests that include the axe checks
-* Ensure engineering knows how to customize tests to ensure hidden and dynamic content is also evaluated
-* Define workflow processes to evaluate 508 compliance and accessibility during development
 
-#### QA
-* UX QA techniques to evaluate accessibility and usability: manual processes, Web Vitals, CrUX dashboard
-* Accessibility and 508 compliance processes before and after deployment
+#### [Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/design)
+* Define how to help teams develop empathy for the diverse range of users, such as race, socio-economics, technology challenged, and people with disabilities.
+* Document interaction behavior, and ensure it is accessible.
+* Define criteria to evaluate the accessibility of designs, such as mobile-first, defining states, heading order, and focus management.
+* Annotate semantic markup, reading order, focus management in designs to ensure development understands the fully designed experience.
+* Use inclusive, accessible prototyping tools, such as Adobe XD and coded prototypes.
+
+
+#### [Development](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/development)
+* Establish e2e tests that include the axe checks.
+* Ensure engineers know how to customize tests to ensure hidden and dynamic content is also evaluated.
+* Define workflow processes to evaluate 508 compliance and accessibility throughout development.
+* Ensure foundational accessibility testing is complete ahead of reviews. | [Read about VSP-required foundational accessibility testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md).
+
+
+#### [QA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/qa)
+* Use QA techniques to evaluate accessibility and usability: manual processes, Web Vitals, CrUX dashboard.
+* Define accessibility and 508 compliance QA processes for both before and after deployment.
+
+
+### VSA accessibility on-boarding
+
+Information coming soon!
+
+
+### VSA accessibility reviews
+
+In addition to the VSP Collaboration Cycle, VSA offers extra collaboration points for research, design, and development. [Check out the VSA accessibility review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md).
 
 ### Accessibility resources
 The following list is a set of resources to help you do your work and answer questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the [dsva.slack.com](https://dsva.slack.com/#vetsgov-accessibility) channel or your VSA accessibility POC directly.
@@ -82,6 +108,15 @@ The following list is a set of resources to help you do your work and answer que
 
 * [Additional VSP Accessibility Resources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/accessibility)
 
+### Screen reader resources
+
+* [WebAIM - Using VoiceOver to Evaluate Web Accessibility](https://webaim.org/articles/voiceover/)
+
+* [WebAIM - Using NVDA to Evaluate Web Accessibility](https://webaim.org/articles/nvda/)
+
+* [WebAIM - Using JAWS to Evaluate Web Accessibility](https://webaim.org/articles/jaws/)
+
+
 ### Additional accessibility resources
 
 * [Apple Human Interface Guidelines, Accessibility](https://developer.apple.com/design/human-interface-guidelines/accessibility/overview/best-practices/)
@@ -97,184 +132,3 @@ The following list is a set of resources to help you do your work and answer que
 
 The VSA accessibility specialist is measuring and monitoring a number of metrics to evaluate if processes and resources are improving the quality of accessibility in our work. The [VSA Accessibility Dashboard](https://sites.google.com/d/1TaKZ5-By8oAv9M-HBhyylpw14-3UXDdp/p/1doeOzfSq_zSeBl7_iBzezsaNJWqUgsDy/edit) is available for anyone who has access to GCIO's Google Drive. Please contact Jennifer if you don't have access and would like to review.
 
-<!-- 
-Starting with sprint 14, I am tracking the 508 issues on VA.gov, and specific to VSA teams, to evaluate and measure accessibility efforts and impact on design/dev quality.
-
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/2020-sprint19-issues.png" alt="bar graph of the data in the following table" />
-
-Please note: for sighted users, I'm working on table styling in Github, apologies.
-
-<figure>
-  <table>
-    <thead>
-      <tr>
-        <th>&nbsp;</th>
-        <th>Cognition</th>
-        <th>Accessible Documents</th>
-        <th>Focus Management</th>
-        <th>Headings</th>
-        <th>Mobile Design</th>
-        <th>Semantic Markup</th>
-        <th>Top issues Total</th>
-        <th>&nbsp;</th>
-        <th>All 508/Accessibility issues</th>
-        <th>&nbsp;</th>
-      </tr>
-    </thead>
-<tbody>
-  <tr>
-    <td>VSA Sprint 14 Open Issues</td>
-    <td>27</td>
-    <td>7</td>
-    <td>22</td>
-    <td>3</td>
-    <td>8</td>
-    <td>22</td>
-    <td>89</td>
-    <td>&nbsp;</td>
-    <td>137 Open, including accessibility review requests</td>
-    <td><a href='https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md'>The oldest issues have been open since June 18, 2019, and there are 12 of them.</a></td>
-  </tr>
-  <tr>
-    <td>VSA Sprint 14 Closed Issues</td>
-    <td>12</td>
-    <td>0</td>
-    <td>7</td>
-    <td>0</td>
-    <td>3</td>
-    <td>3</td>
-    <td>25</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-  <td>VSA Sprint 15 Open Issues</td>
-  <td>38</td>
-  <td>7</td>
-  <td>27</td>
-  <td>4</td>
-  <td>9</td>
-  <td>28</td>
-  <td>113</td>
-  <td>&nbsp;</td>
-  <td>165 Open, including review requests</td>
-  <td><a href='https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md'>The oldest issues have been open since June 18, 2019, and there are 12 of them.</a></td>
-  </tr>
-  <tr>
-    <td>VSA Sprint 15 Closed Issues</td>
-    <td>17</td>
-    <td>0</td>
-    <td>10</td>
-    <td>1</td>
-    <td>3</td>
-    <td>3</td>
-    <td>34</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-  <td>VSA Sprint 16 Open Issues</td>
-  <td>45</td>
-  <td>7</td>
-  <td>27</td>
-  <td>8</td>
-  <td>10</td>
-  <td>28</td>
-  <td>125</td>
-  <td>&nbsp;</td>
-  <td>185 Open | 238 Closed</td>
-  <td>&nbsp;</td>
-  </tr>
-  <tr>
-  <td>VSA Sprint 16 Closed Issues</td><td>21</td><td>0</td>
-  <td>13</td>
-  <td>1</td>
-  <td>4</td>
-  <td>6</td>
-  <td>45</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  </tr>
-  <tr>
-  <td>VSA Sprint 17 Open Issues</td>
-  <td>43</td>
-  <td>7</td>
-  <td>27</td>
-  <td>5</td>
-  <td>10</td>
-  <td>28</td>
-  <td>120</td>
-  <td>&nbsp;</td>
-  <td>191 Open | 258 Closed</td>
-  <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>VSA Sprint 17 Closed Issues</td>
-    <td>25</td>
-    <td>0</td>
-    <td>16</td>
-    <td>4</td>
-    <td>5</td>
-    <td>7</td>
-    <td>57</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td><td>&nbsp;</td>
-  </tr>
-  <tr>
-  <td>VSA Sprint 18 Open Issues</td>
-    <td>45</td>
-    <td>7</td>
-    <td>33</td>
-    <td>10</td>
-    <td>11</td>
-    <td>41</td>
-    <td>147</td>
-    <td>&nbsp;</td>
-    <td>239 Open (98 VSA) | 284 Closed (55 VSA)</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-  <td>VSA Sprint 18 Closed Issues</td>
-  <td>30</td>
-  <td>0</td>
-  <td>17</td>
-  <td>4</td>
-  <td>5</td>
-  <td>9</td>
-  <td>65</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  </tr>
-  <tr>
-  <td>VSA Sprint 19 Open Issues</td>
-    <td>49</td>
-    <td>9</td>
-    <td>33</td>
-    <td>10</td>
-    <td>12</td><td>41</td>
-    <td>154</td>
-    <td>&nbsp;</td>
-    <td>246 Open (101 VSA) | 297 Closed (56 VSA)</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-  <td>VSA Sprint 19 Closed Issues</td>
-  <td>33</td>
-  <td>0</td>
-  <td>18</td>
-  <td>5</td>
-  <td>5</td>
-  <td>9</td>
-  <td>70</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  </tr>
-</tbody>
-</table>
-</figure>
--->

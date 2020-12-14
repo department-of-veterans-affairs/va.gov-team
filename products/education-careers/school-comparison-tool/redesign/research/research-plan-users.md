@@ -121,11 +121,12 @@ Observers: Brian Grubb brian.grubb@va.gov; Desiree Turner turner_desiree@bah.com
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/redesign/ct-redesign-discovery_product-outline.md	
 - Convo Guide	
 1 - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/redesign/research/discussion-guide-users-vets-beneficiaries.md
+
 2 - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/redesign/research/discussion-guide-sco.md
 - Synthesis	
 https://app.mural.co/t/bahdigitalexperience6902/m/bahdigitalexperience6902/1603279285871/f4978fd8967974485698cf7905b13cc79f90091f 	
 - Lessons Learned	
 *Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.* 	
 - Read-Out/Results	
-  - *Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.* 	
+  - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/redesign/research/CT-Discovery-2020.pdf 	
   - ** Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)

@@ -12,7 +12,7 @@ _(previously Vocational Rehabilitaion and Employment)_
 - VA.gov link (unauth landing page): https://www.va.gov/careers-employment/vocational-rehabilitation/
 - VA.gov link (tool page): https://staging.va.gov/careers-employment/vocational-rehabilitation/apply/
 
-## WIP
+## Product Outline
 
 ### Table of Contents
 
@@ -42,26 +42,27 @@ _(previously Vocational Rehabilitaion and Employment)_
 
 ## Abstract
 
-Claimants can apply for "Chapter 31" benefits, or Veteran Readiness & Employment benefits. This is a very simple application for which we should attempt to prefill all possible fields.
+Claimants can apply for Chapter 31 Veteran Readiness & Employment benefits.
 
 ## User Problem Statement
 
-eBenefits, in its current legacy state, is no longer the best version of what can be provided to Veterans, their dependents and caregivers, so that they can quickly and easily apply and obtain the benefits they deserve.
+As a Veteran or Servicemember I need to understand and apply for CH31 benefits.
 
 ## Solution Goals
 
 ### User Goals
 
 - **Veterans:** Apply for Veteran Readiness & Employment benefits at the VA.
+- **Field:** Receive a higher volume qualified applicants 
 
 ### Business Goals
 
-- Deprecate eBenefits, move to VA.gov 
+- Sunset eBenefits
+- Provide applicants with a brief orientation to increase qualified conversions
 
 ## Assumptions
 
 - Product will submit form to VR&E CMS System via custom API
-- LOA3 users may be able to apply with one click
 
 ## Requirements and Constraints
 
@@ -87,28 +88,25 @@ I can apply for CH31 benefits quickly and without mailing in a form or visiting 
 ### KPIs
 
 - Conversion rate
-  - % of people who land on wizard and start the application (Acquisition)
-  - % of people who abandon (Abandonment Rate) (Activitation)
-  - % of people who complete the form
-    - \# of people who complete the form
-
-- Customer satisfaction
+  - % of people who make it from application completion to first counseling interview
 
 #### Baseline KPIs
-tbd
+
+
 ### OKRs
-Improve abandonment rate
+
 
 --
 ## Go-to-Market
+
 _How will Veterans find this product? How will they know it exists?_
 
-- Comms isn't controlled by this team but discoverability may be a lever to pull
-- Perhaps at account log-in/creation
-
+- VR&E performs outreach
+- Veteran personal networks often recommend this program
 
 ---
 ## Results and Recommendations
+
 ### Results
 - TBD after launch
 
@@ -120,16 +118,13 @@ _How will Veterans find this product? How will they know it exists?_
 
 ## Status
 
-**May, 2020**  
-- Kickoff with platform  
-
-## Solution Narrative
-- TBD
+May, 2020: Kickoff with platform
+Dec 1 2020: e2e integration Testing
 
 ## Team
-- VA Executive Sponsor `*`:
+- VA Executive Sponsor `*`: Jessica Bland, Alison Rosen
 - VA Policy Expert(s):
-- VA Digital Strategist(s) `*`:
+- VA Digital Strategist(s) `*`: 
 - DEPO Product Lead: **Steve Kovacs** - steven.kovacs@va.gov  
 - Product Manager: **Jason Wolf** - jwolf@governmentcio.com
 - Designer: **James Adams** - jadams@governmentcio.com

@@ -8,9 +8,9 @@
 Screens proofed in staging.VA.gov the week of July 6, 2020. Reference mockups are available [here.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design)
 
 ### Pre-launch mandatory content revisions
-- [ ] Change header (H1) across all screens to be: "Add or remove a dependent on your VA disability benefits" 
-- [ ] Confirm capital "V" in "Veteran" throughout form (particularly "Is your spouse a Veteran? " question in add spouse workflow)
-- [ ] Remove **Note:** from the first sentence on Add Student screen, and change it to: "This section is equal to Request for Approval of School Attendance (VA Form 21-674). If you’re applying for benefits for a child 18 to 23 years old who will be attending school, you’ll also need to fill out this information."
+- [x] Change header (H1) across all screens to be: "Add or remove a dependent on your VA disability benefits" 
+- [x] Confirm capital "V" in "Veteran" throughout form (particularly "Is your spouse a Veteran? " question in add spouse workflow)
+- [x] Remove **Note:** from the first sentence on Add Student screen, and change it to: "This section is equal to Request for Approval of School Attendance (VA Form 21-674). If you’re applying for benefits for a child 18 to 23 years old who will be attending school, you’ll also need to fill out this information."
 
 
 ### Change in UI for location pattern

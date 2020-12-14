@@ -1,18 +1,18 @@
 # MVP Mobile App User Research Plan
 
 ## Purpose
-To date, the VA Mobile App team has conducted three disocvery studies with VA users and one usability test. The previous studies used various UX prototypes and activities to understand whether Veterans find value in a mobile app and specifically, what features are most valuable. Going forward, we recommend using a working prototype of the app (rather than an UX invision prototype) as a way of continuously getting and incorporating user feedback. 
+To date, the VA Mobile App team has conducted three disocvery studies with VA users and one usability test using various UX prototypes. Going forward, we will test only the working app prototype.  
 
 Using the feedback that we get from users, we also recommend evaluating the technical and organizational feasibility of the features. This will help steer the overall direction of the product and ensure decisions about feature priortization are contextualized within the known constraints (eg, a VFS team is working on this feature for VA.gov today). 
 
 Below we summarize our proposed approach to both **Usability Testing** and **Product Planning Research.**  
 
-Last updated October 2020
+Last updated December 4, 2020 
 
 ## Usability Testing
 **Goal:** evaluate the usability of the MVP app, identify barriers to using it
 
-### September 9-11, 2020: MVP App Usability Testing R1
+## September 9-11, 2020: MVP App Usability Testing R1
 In September we tested the high-fi prototype of the MVP mobile app. Our research goals were:
 - Assess the effectiveness and clarity of the app IA and navigation UI
 - Assess the desired content on Profile, Direct Deposit, Letters and Documents, and Settings
@@ -24,21 +24,34 @@ In R1, we used the final 10 minutes of each session to allow the participant to 
 
 [Link to research summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/round-1/research-summary.md)
 
-### October and November, 2020: what's next?
-Between now and late November (9 weeks) we would like to focus on the following: 
+## October and November 2020
+We've focused on the following: 
 - Develop the UI/UX for each screen, guided by R1 feedback 
 - Define accessibility criteria for each screen
 - Build screens
-- Design QA and QA screens 
-- Deliver MVP into Test Flight
+- QA, continuous delivery into Test Flight
 - Share with 508 Office along the way for their accessibility input and feedback
-- Release on Test Flight to a small group of internal folks
-  - When we do release the app on Test Flight to internal folks, we want to have an open communication line for their feedback.
 
-### Post-November: what's next?
-After delivering the MVP into Test Flight in late November, we would like to test the app in Test Flight with Veterans that we recruit with Perigean using the VSP research cycle. We'd like to do this to: 
-1. Identify where the usability of the app needs to be improved pre-release by testing the live app on device
-2. Test accessibility features such as Voice Over with blind or low vision users
+## Plan for January 2021 Research 
+After delivering the MVP into Test Flight (~late 2020 or early 2021), we will test the app with Veterans that we recruit with Perigean using the VSP research cycle. With this research, we seek to
+
+1. Identify major usability issues with sign in
+2. Identify major usability issues with navigating around the app as a whole
+3. Identify major usability issues with saving profile information 
+4. Identify what participants feel is missing & would add next 
+
+**Research questions include:**
+- What usability obstacles exist with sign in to the app?
+- What usability obstacles exist in the user navigating the app as a whole?
+- What usability obstacles exist to locating and successfully editing personal & contact information?
+- (If user has appointments data) Can users locate information about an appointment?
+  - Do participants find anything confusing/unclear about appointments?
+- (If user has claims & appeals data) Can users locate information about a specific claim or appeal? 
+  - Do participants find anything confusing/unclear about claims & appeals?
+- What do participants rate the app on a scale of 1 to 5, 1 being not useful at all and 5 being extremely useful?
+  - Do participants feel anything is missing? What?
+  - If participants could add 1 thing, what would it be? Why?
+
 
 #### Assumptions and unknowns 
 - We do not yet have a launch date for the app store, but that date will likely be sometime early-mid 2021. 

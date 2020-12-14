@@ -4,6 +4,7 @@ If the product we are building is a form and only has 1 possible path, we consid
 
 ### Table of Contents
 
+
 1. [Initial project scaffolding](ticket-templates/initial-scaffold.md)
 2. [First pass at building out form fields](ticket-templates/first-pass-at-building-out-form-fields.md)
 3. [Add schema to vets-json-schema](ticket-templates/add-schema.md)
@@ -14,6 +15,7 @@ If the product we are building is a form and only has 1 possible path, we consid
 7. [Add Google events to form](ticket-templates/add-GA-events.md)
 8. [Internal accessibility audit](ticket-templates/internal-accessibility-audit.md)
 9. [508 testing](ticket-templates/508-accessibility-audit.md)
+
 
 
 ### Optional tasks - use as needed

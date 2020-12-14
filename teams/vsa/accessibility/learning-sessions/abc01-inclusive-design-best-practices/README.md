@@ -549,7 +549,7 @@ Resources and guidelines are available in our VA accessibility Github repos:
 * [User stories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/user-stories.md)
 
 **VSA**
-* [Inclusive design guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/inclusive-design-guidelines.md)
+* [Inclusive design guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/design/inclusive-design-guidelines.md#inclusive-design-guidelines)
 * [Examples of assistive technology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/examples-of-assistive-tech.md)
 
 

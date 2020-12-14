@@ -4,9 +4,9 @@
 
 **Product/Featue:** Decision Reviews - Higher Level Review Form
 
-**Background/Context:** Creating an online version of the Higher Level Review request for. 
+**Background/Context:** Creating an online version of the Higher Level Review request form. 
 
-**Review Date:** Dec 3, 2019
+**Review Date:** 12/03/2019; Updated 11/6/2020
 
 **IA Review Issue:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/3822
 
@@ -41,26 +41,38 @@
 
 ### Navigation/Entry Points
 
-**Top Nav, Header and Footer**
--	No additional options to be added to the top nav, header or footer
--	Consider changing the “File an Appeal” link and label within the top nav (under Disability fly-out) to prioritize the Decision Review process over the legacy appeals process
-o	Change the link label to incorporate the “Decision Review” language – i.e. “Appeal or Request a Decision Review” or “Request a Decision Review or Appeal” (discuss with writer to finalize)
-o	Change the links to go to the main Decision Review page instead of the legacy appeals page in disability: https://www.va.gov/decision-reviews/
+***The following work was done as part of Decision Reviews hub work in early 2020:***
 
-**Add Left Nav**
--	Add a left nav component to the Decision Reviews content area as either part of this work, or as follow up work, to improve navigation within this section of content.  
--	Include a link to this new online form as a child of the Higher-Level Review content page
--	Left nav was defined for this area previously but should be reviewed and revised as needed based on the addition of this option : https://github.com/department-of-veterans-affairs/vets.gov-team/issues/16360
-	
+**Top Nav, Header and Footer**
+- No additional options to be added to the top nav, header or footer
+- Consider changing the “File an Appeal” link and label within the top nav (under Disability fly-out) to prioritize the Decision Review process over the legacy appeals process
+  - Change the link label to incorporate the “Decision Review” language – i.e. “Appeal or Request a Decision Review” or “Request a Decision Review or Appeal” (discuss with writer to finalize)
+  - Change the links to go to the main Decision Review page instead of the legacy appeals page in disability: https://www.va.gov/decision-reviews/
+
+**Decision Reviews Hub**
+- Add a left nav component to the Decision Reviews content area as either part of this work, or as follow up work, to improve navigation within this section of content.  
+  -Left nav was defined for this area previously but should be reviewed and revised as needed based on the addition of this option : https://github.com/department-of-veterans-affairs/vets.gov-team/issues/16360
+- A link directly to this form should not be added to the hub page at this time
+
 **Disability Hub**
--	Change the existing “File an Appeal” option to include the Decision Review language – i.e. “File an Appeal or Request a Decision Review” (discuss with writer to finalize)
--	Change the link to go to the main Decision Review page instead of the legacy appeals page in disability: https://www.va.gov/decision-reviews/
+- Change the existing “File an Appeal” option to include the Decision Review language – i.e. “File an Appeal or Request a Decision Review” (discuss with writer to finalize)
+- Change the link to go to the main Decision Review page instead of the legacy appeals page in disability: https://www.va.gov/decision-reviews/
 
 **Other Entry Points:**
--	From within Disability content
-o	Entry point from “File a VA disability appeal” page already exists and should remain as is: https://www.va.gov/disability/file-an-appeal/
--	From main Decision Reviews page
-o	The main Decision Reviews landing page contains a link to the HLR content page and a PDF download - replace the pdf link with a link to the online form, or add a link to the online form within the content so both options are available. 
+- From within Disability content
+  - Entry point from “File a VA disability appeal” page already exists and should remain as is: https://www.va.gov/disability/file-an-appeal/
+- From main Decision Reviews page
+  - The main Decision Reviews landing page contains a link to the HLR content page and a PDF download - replace the pdf link with a link to the online form, or add a link to the online form within the content so both options are available. 
+
+
+***Open items to be done with launch of HLR online form:***
+
+**Decision Reviews Left Nav**
+- Include a link to this new online form as a child of the Higher-Level Review content page
+  - Link text should closely match H1 of form but should not include form number, i.e. "Request a Higher-Level Review"
+
+**Higher-Level Review static page**
+- Revise section on how to request an HLR to include information and CTA/button to complete the online form
 
 
 **Crosslinking**<br>

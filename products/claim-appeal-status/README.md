@@ -1,11 +1,11 @@
 # Claim and Appeal Status Tool
 
 ## Communications
-- GitHub Label: [???](https://github.com/department-of-veterans-affairs/va.gov-team/labels/???)
+- GitHub Label: [cst](https://github.com/department-of-veterans-affairs/va.gov-team/labels/cst)
 - Slack channel: n/a ([#vsa-benefits-memorials](https://dsva.slack.com/channels/vsa-benefits-memorials))
-- Product POCs: Andrea Schneider and Luke Majewski
+- Product POCs: Matt Self and Luke Majewski
 - va.gov link: https://www.va.gov/claim-or-appeal-status/
-- Stakeholders: Lots and lots of people... but Paul Shute is likely our main stakeholder/champion
+- Stakeholders: Lots and lots of people... but Paul Shute (Paul.Shute@va.gov) is likely our main stakeholder/champion.  NCC is driving some of the possible direction but they are not an official stakeholder.
 
 ## The Problem
 The original MVP for Claims Status was just that; an MVP. It has been many years since DSVA has taken a look at improving the status tool and we have learned a lot in the three years since it was deployed. Since claims status is one of the key applications for the VA.gov website, it is time to take a fresh look and see what is truly possible when it comes to claims status. Our current integrations may expose only a partial amount of the data that is truly available.

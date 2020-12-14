@@ -1,7 +1,9 @@
 # IRIS Form - Review Page
 
-Relevant links: 
-- [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/68)
+
+## IMPORTANT TO NOTE
+Please note this document will be updated; the form and the project repository are more up-to- date than this document.
+
 
 ### Description
 

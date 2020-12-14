@@ -102,8 +102,7 @@ TBD
 _Links to requirements documentation, wireframes/mock-ups, research, etc._
 
 [Current website](https://www.va.gov/pittsburgh-health-care)
-
 [Page navigation, see also folder called left-nav](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/left-nav)
-
 [Design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/header-footer-and-navigation/page-nav/design/VA-gov-on-page-nav-MASTER.pdf)
 [Product sitemap](https://app.moqups.com/Rnc4BDEKrA/view/page/a9e1a59e9)
+[High level content model](https://whimsical.com/PyatLZVHkA8QPxzuAqUEe8)

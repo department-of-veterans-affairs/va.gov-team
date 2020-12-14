@@ -17,9 +17,12 @@ _Note: as always, use the [#vfs-platform-support](https://dsva.slack.com/channel
 - [ ] Usability testing indicates new changes improve / don't worsen back-of-house VA employee experience
 - [ ] [Usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/lead-researcher-checklist.md) indicates new changes enable users to do what they need to do `*`
 - [ ] Everything is [508 Accessible](https://github.com/department-of-veterans-affairs/va.gov-team/blob/de1d32ebfc17d4b887133e33d946ece5a12913d8/platform/accessibility/README.md) and there are no Sev 1 accessibility bugs `*`
-- [ ] Everything is written in [plain language](https://design.va.gov/content-style-guide/) `*`
+- [ ] Your content adheres to the [VA.gov content style guide](https://design.va.gov/content-style-guide/link) and meets [plain language best practice guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-best-practices.md) `*`
 - [ ] Everything is consistent with VA's [Design System](https://design.va.gov/) `*`
-- [ ] [Downtime notifications and error messages](https://design.va.gov/patterns/messaging-error-messages) are documented 
+- [ ] Downtime notifications and error messages:
+  - [ ] [Error message verbiage](https://design.va.gov/patterns/messaging-dictionary)
+  - [ ] [Error message style guide](https://design.va.gov/patterns/messaging-error-messages)
+  - [ ] [Error message configuration instructions](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/downtime-notifications/)
 - [ ] [End-to-end manual QA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/README.md) is complete and no Sev1 bugs `*`
 - [ ] [End-to-end UAT](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-uat.md)(with real users) complete and no Sev1 bugs
 - [ ] Availability and latency targets are defined `*`
@@ -40,7 +43,7 @@ _Note: as always, use the [#vfs-platform-support](https://dsva.slack.com/channel
 
 - [ ] [KPIs are defined and tracked](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/kpi-tracking/kpi-process.md)
 - [ ] Feature is included in the weekly Product Health Report
-- [ ] [Google Analytics / Google Tag Manager](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/analytics-communication-guide.md#requesting-google-analytics-implementation-or-qa) setup is complete `*`
+- [ ] [Google Analytics / Google Tag Manager](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/analytics-request-guide.md#requesting-google-analytics-implementation-and-qa) setup is complete `*`
 - [ ] Phased, data-informed [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/97759a81a47c73da8bf03e35f3a13bb3c689d18b/platform/product-management/release-plan-template.md) is complete `*`
 - [ ] Monitoring is setup correctly and working `*`
 
@@ -48,7 +51,7 @@ _Note: as always, use the [#vfs-platform-support](https://dsva.slack.com/channel
 - [ ] Users' private data is safe, including not logging PII `*`
 - [ ] Feature doesn't introduce new vulnerabilities `*`
 - [ ] Playbook exists on most likely failure modes and how to respond quickly to issues `*`
-- [ ] The feature has 90% [unit test coverage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/unit-testing/README.md), running in CI/CD
+- [ ] The feature has 90% [unit test coverage](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-unit-test/), running in CI/CD
 - [ ] Feature can handle anticipated load and traffic spikes, with [a completed load test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/load-testing/README.md)
 - [ ] Rate limits are set
 
