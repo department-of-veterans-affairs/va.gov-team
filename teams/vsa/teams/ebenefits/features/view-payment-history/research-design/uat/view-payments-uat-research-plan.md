@@ -75,7 +75,11 @@ Please allow 30 minutes between sessions.
 
 | Dates | Times (EDT) |
 | --- | --- |
-| TBD | 9 AM to 5 PM |
+| December 22, 2020 | 9 AM to 5 PM |
+| December 23, 2020 | 9 AM to 5 PM |
+| December 28, 2020 | 9 AM to 5 PM |
+| December 29, 2020 | 9 AM to noon |
+| December 30, 2020 | 9 AM to noon |
 
 
 ### Team members
@@ -91,6 +95,6 @@ Please allow 30 minutes between sessions.
 - Observers -- various as available
 
 ### Resources
-[Conversation guide]()
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/uat/view-payments-uat-convo-guide.md)
 
 ---
