@@ -69,7 +69,7 @@ Both deployments will be essential to achieve the goal:
 2. Content-only auto-deploy every 5 minutes (Needs to be implemented, interval time may vary)
    - [Content-only build Jenkinsfile](https://github.com/department-of-veterans-affairs/vets-website/blob/2b8c478ebe48882ca098a7c8f4cf684c69fb3114/Jenkinsfile.content#L72)
 
-Both Jenkins files are called from `common.groovy`
+Both Jenkins files are called from [`common.groovy`](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/common.groovy)
 
 #### Pain points
 
@@ -98,7 +98,7 @@ There are three things that will be to happen:
 
 #### A full deploy
 
-To deploy the CMS content build inside the current auto-deploy for `vets-website` the `--use-cms-export` flag will need to be passed to the `build` function inside `common.groovy`
+To deploy the CMS content build inside the current auto-deploy for `vets-website` the `--use-cms-export` flag will need to be passed to the `build` function inside [`common.groovy`](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/common.groovy)
 
 #### A recurrent partial deploy (every 5 mins ideally)
 
@@ -112,7 +112,7 @@ The idea here is to create a Jenkins/CircleCI job to run a cron job that will tr
 
 #### A script to verify the CMS content
 
-Deploying the partial build every X minutes is not very proficient, therefore, there needs to be a script that verifies that the CMS content is not the same.
+Deploying the partial build every X minutes is not efficient, therefore, there needs to be a script that verifies that the CMS content is not the same.
 
 #### When to deploy the content-only build
 
@@ -147,7 +147,7 @@ When the `process-cms-exports` system is live, there will be automated tests to 
 
 ##### Deploy
 
-To determine whether a page exists in the drupal content, we can go to `staging.va.gov/drupal/debug/`. This page is not available in production, however.
+To determine whether a page exists in the drupal content, we can go to [`staging.va.gov/drupal/debug/`](staging.va.gov/drupal/debug/). This page is not available in production, however.
 
 ### Caveats
 
