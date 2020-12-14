@@ -59,6 +59,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [General Issues](#general-issues)
       - [Facility Locator Urgent Care MVP](#facility-locator-urgent-care-mvp)
       - [Left Nav](#left-nav)
+      - [Map Enhancements](#map-enhancements)
     - [VSA Public Websites](#vsa-public-websites)
       - [Appeal Modernization Process (AMA)](#appeal-modernization-process-ama)
       - [Disability Calculator](#disability-calculator)
@@ -712,6 +713,19 @@ Back to [Table of Contents](#table-of-contents)
 - [[SCREENREADER, KEYBOARD]: All elements that can be operated by a mouse MUST able to be operable by keyboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6911)<br/>**Production** | **Opened:** March 16, 2020 | **Severity:** 508-defect-1 ❗️ — **_Launchblocker_**
 - [[KEYBOARD, SCREENREADER]: Navigating by keyboard between the map and the search results MUST be intuitive with changes communicated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6897)<br/>**Production** | **Opened:** March 16, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 - [[COLOR, COGNITION]: CONSIDER changing background of map attribution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6892)<br/>**Production** | **Opened:** March 16, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
+
+Back to [Table of Contents](#table-of-contents)
+
+---
+
+#### Map Enhancements
+
+**Audit status:** _[Staging Review in progress, December 2020.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17403)_
+
+**Open issues**
+
+- [508-defect-1 ❗ Launchblocker [COGNITION, FOCUS MANAGEMENT]: When "Search this area" button is introduced, it must be announced and available to assistive technology - #17405](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17405)<br/>**Production** | **Opened:** March 16, 2020 | **Severity:** 508-defect-1 ❗️ — **_Launchblocker_**
+- [508-defect-2 [COGNITION, FOCUS MANAGEMENT]: When focus moves to the map, the focus halo should be visible - #17404](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17404)<br/>**Production** | **Opened:** December 14, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 
 Back to [Table of Contents](#table-of-contents)
 
