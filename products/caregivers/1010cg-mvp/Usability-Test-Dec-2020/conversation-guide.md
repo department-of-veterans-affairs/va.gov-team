@@ -16,7 +16,7 @@ When the participant is ready, begin the session with the following intro
 
 ## Project-specific setup 
 
-- Open [The Program of Comprehensive Assistance for Family Caregivers](https://staging.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/) Drupal content page
+- Open [The Program of Comprehensive Assistance for Family Caregivers](https://staging.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/) content page
 
 
 ## Intro - 5 minutes
