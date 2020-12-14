@@ -53,3 +53,8 @@ Covid Dashboards that will be affected:
 **When does the scrubbing start? (i.e., by when do we need to save/export desired event actions data?)**
 Scrubbing starts as early as Friday 12/18
 
+**Where can I go to see what’s considered an event action and/or find out if my product has any?**
+Event actions are what are used to track clicks and other actions for all VA.gov products, so every VFS team's GA reports will be impacted, though DOMO dashboards shouldn't be. [Please see the description of event actions above for more detail](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/decisions/google_analytics_data_scrub.md#what-[…]eleted).
+
+**Can you confirm that this will only affect GA and big query data (DOMO) will remain during the timeframe specified?**
+Though all of Google Analytics will be impacted by this, DOMO dashboards will experience little to no impact since they no longer pull from GA but instead pull from our data warehouse, BigQuery. If you do notice anything weird in your DOMO dashboards after Friday, please file a ticket with the Analytics team so they can take a look and reconfigure if needed.
