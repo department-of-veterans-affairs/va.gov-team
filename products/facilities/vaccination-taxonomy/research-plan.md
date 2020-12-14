@@ -61,7 +61,7 @@ At least:
   - Do they feel they need a vaccine?
   - Do they regularly get the annual flu shot?
   - Are they being ordered to get the vaccination, or are they curious about getting the vaccination?
-  - Josh suggests that with the above criteria, we utilize a **maximum variation sampling**: A sample that is chosen to ensure a wide variety of participants (here is [an example]https://docs.google.com/spreadsheets/d/1YtBHO3TzHRTv3nwXLzen4N4ieG8HLR8TbnsHF4CtuX4/edit?pli=1#gid=0 provided by Josh). 
+  - Josh suggests that with the above criteria, we utilize a **maximum variation sampling**: A sample that is chosen to ensure a wide variety of participants [Example]https://docs.google.com/spreadsheets/d/1YtBHO3TzHRTv3nwXLzen4N4ieG8HLR8TbnsHF4CtuX4/edit?pli=1#gid=0
 
 ## Recruitment Process
 - Number of participants who complete the sort should be at least 30 to 50. 
