@@ -32,11 +32,13 @@ All of GA is backfilled in our new data warehouse, BigQuery, and most of our DOM
 - Export GA or Data Studio reports or dashboards prior to Friday
 - Notify the Analytics team if you notice anything weird in your DOMO dashboards after Friday, so they can prioritize configuration updates.
 
+## Conclusion
+
 Though this will delay our ability to do other analytics-related activities for VFS teams in the short term, Veterans using our site trust us to be responsible with their data and it’s important we do the right thing and prioritize this scrub effort.
 
-If you have questions please let Rachael Roueche know in Slack. The analytics team will publish a post mortem w/more details on takeaways and action items for future prevention as well.
+If you have questions please let Rachael Roueche know in Slack. The analytics team has published a [post mortem](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Postmortems/12-1-2020-pii-facility-locator-postmortem.md) w/more details on takeaways and action items for future prevention as well.
 
-### FAQs
+## FAQs
 
 **How will this impact the domo covid-19 dash?**
 Covid Dashboards that won’t be affected:
