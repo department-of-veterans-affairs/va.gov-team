@@ -20,11 +20,11 @@ All of GA is backfilled in our new data warehouse, BigQuery, and most of our DOM
 
 - Reports in GA will now have missing event action data for that time period.
 - The reporting on va.gov/performance-dashboard will have gaps in the data for that time period. We’ll put it on our backlog to reconfigure this page, but it’s not a high priority for us bc this page only gets about 3,300 pageviews per month (for comparison, the FAQs page gets about 75,000 unique pageviews per month.)
-- Facility Locator dashboards will simply be missing location entries data. @Dave Conlon please get a new analytics request in so we can work w/your team to re-create the GTM code for the info that’s safe to collect from that product.
+- Facility Locator DOMO dashboards will be permanently missing the deleted location entries data. The FL team will need to get a new analytics request in so we can work w/you to re-create the GTM code for the info that’s safe to collect from that product.
 
 ### What this should NOT impact:
 
-- Your ability to monitor your VA.gov products in realtime. Contrary to what I said last time, event actions will continue to populate normally outside the timeframe that’s getting deleted.
+- Your ability to monitor your VA.gov products in realtime. Event actions will continue to populate normally outside the timeframe that’s getting deleted.
 - Most DOMO dashboards. Thanks to BigQuery and recent Analytics team efforts, almost all of our DOMO dashboards now pull from BigQuery and not GA.
 
 ### Actions you can take:
