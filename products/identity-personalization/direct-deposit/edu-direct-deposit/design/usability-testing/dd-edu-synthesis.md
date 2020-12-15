@@ -62,7 +62,7 @@ Users were given the scenario: "You recently moved and changed banks; you need t
 - The other four participants "wandered" a through content pages before finding their way to the DD landing page
 - One user (100% service-connected disability), who had self-described cognitive problems, noted that it would be frustrating for users like them to read through all the text on the content pages looking for the link to the feature
 
-> "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+> "I would probably say within the profile... I don't know where else I would (find it)."
 
 #### Landing page(s)
 - Users who navigated to/or were shown the DD landing page were immediately drawn to the green or blue button directing them to sign-in; none were inclined to scroll or scan the page
@@ -77,7 +77,7 @@ Only one user mentioned multiple changes to their DD info. Most couldn't remembe
 - None of the users asked recalled having to initially set up DD payments
 - There was a generational divide regarding where users would look to find their routing/account numbers: the younger participants would use a bank app or website; the older users said they'd look at a check or their bank statement
 
-> "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.""
+> "A bunch of different times I've changed my direct deposit information."
 
 ### 3. What barriers prevent users from easily submitting changes to their DD info?
 Participants navigated the DD page easily once they arrived. Most had a favorable view of the presentation and functionality of the feature.
@@ -89,7 +89,13 @@ Participants navigated the DD page easily once they arrived. Most had a favorabl
 - One user suggested that it might be helpful or "elders" if the bank name appeared once the routing number was entered (rather than after submission)
 - The note regarding bank fraud was universally missed; three participants saw the box only when prompted to scan the page
 
-> "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+> "It's a lot better than having to go through that other way (eBenefits)... and have to look through all of that. There were just so many steps. This one is kinda clear cut."
+
+> "Looks pretty helpful and looks like easy, intuitive."
+
+> "So when you're editing, would you be able to show the bank up here? Some people when they're putting-in their number could probably get confused."
+
+> "I would say the only danger is when we're up here before, I might not ever scroll down and see that (fraud warning)."
 
 ### 4. How do users react to the two different "categories" of payments--and having to change them separately?
 Most participants took the two separated DD forms in stride. One suggested it was expected because the payments come from different programs. One user, however, took exception and was state that just one destination for DD payment was needed.
@@ -99,7 +105,7 @@ Most participants took the two separated DD forms in stride. One suggested it wa
 - Users who were directed to change their EDU payments used the correct feature; participants who were not directed to a particular payment type, went to C&P first
 - Participants generally accepted, and even regarded favorably the "you don't receive this kind of payment" notice
 
-> "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+> "Why (do) they have to managed separately to begin with? I would think from the VA's perspective, one direct deposit account per Social Security number would be something that would be viable..."
 
 ### 5. What other features do users expect on the DD screen?
 Participants generally felt the DD feature was simple and straight-forward.
@@ -108,7 +114,11 @@ Participants generally felt the DD feature was simple and straight-forward.
 - A few participants noted the View Payment History link and said it would be useful for checking payments and bank info
 - Another notable suggestion was to move the "fraud" notice into the boxes themselves; every user initially missed the note about bank fraud
 
-> "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+> "It's pretty self-explanatory, I mean you click on direct deposit and it lists your specific benefits..."
+
+> "It sort of gives you a breakdown of which benefits you're using and which account is linked to the benefit."
+
+> "This is in line with what I expected."
 
 ## Additional insights
 - Almost every participant said they expected further notification that their DD change was made
