@@ -88,6 +88,7 @@ Participants navigated the DD page easily once they arrived. Most had a favorabl
 - One user did not notice the validation error when they entered seven digits for the routing number
 - One user suggested that it might be helpful or "elders" if the bank name appeared once the routing number was entered (rather than after submission)
 - The note regarding bank fraud was universally missed; three participants saw the box only when prompted to scan the page
+- No user noticed the, "Where do I find this info?" accordion. Thisis in line with other instances of tell-me-more accordions: they are usually overlooked by users, even when prompted.
 
 > "It's a lot better than having to go through that other way (eBenefits)... and have to look through all of that. There were just so many steps. This one is kinda clear cut."
 
