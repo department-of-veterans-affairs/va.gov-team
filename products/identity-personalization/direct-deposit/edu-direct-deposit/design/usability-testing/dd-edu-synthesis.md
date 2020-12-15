@@ -137,4 +137,4 @@ Participants generally felt the DD feature was simple and straight-forward.
 
 - [User Flows](https://xd.adobe.com/view/b1df79ab-e636-4aea-9929-a8ee3d06e2a9-e48c/)
 
-- [Usability matrix]()
+- [Usability matrix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/usability-testing/DD-EDU_Usability_Matrix_W1.xlsx)
