@@ -10,9 +10,9 @@ Link to product outline: [Payment History](https://github.com/department-of-vete
 <details>
 <summary></summary>
   
-- [Use Case A](#use-case-a---has-payment-history) 
-- [Use Case B](#use-case-b---no-payment-history)
-- [Use Case C](#use-case-c---api-error) 
+- [Use Case A - Has Payment History](#use-case-a---has-payment-history) 
+- [Use Case B - No Payment History](#use-case-b---no-payment-history)
+- [Use Case C - API Error](#use-case-c---api-error) 
 
 </details>
 
