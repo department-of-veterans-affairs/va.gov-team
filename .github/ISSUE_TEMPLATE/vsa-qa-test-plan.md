@@ -1,6 +1,6 @@
 ---
 name: VSA-QA Test Plan
-about: For VSA Product Teams to request QA Test Plan to be developed during Build Phase of development.  Open a ticket at least 2 SprintS before expected Platform Staging Review.
+about: For VSA Product Teams to request QA Test Plan to be developed during Build Phase of development.  Open this ticket at least 2 SprintS before expected Platform Staging Review.
 title: '[Product/Feature] VSA-QA Test Plan'
 labels: 'vsa-qa'
 assignees: 'tlei123'
@@ -33,10 +33,11 @@ QA: Tze-chiu Lei
 
 ## Proposed use-cases and Staging test-accounts
 
-\[Provide specific user-senarios (all the different interactive usage-flows and/or data-specific states) to be tested.  Or, link to existing issues/docs (ideally, use [this Product Use Cases template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/product-use-cases-template.md) from VSA Design Lead).  IMPORTANT for authenticated-experiences: Staging test-accounts must be provided for all authenticated scenarios, and Staging-API test-data created to match the account-specific scenarios.]
+\[Provide specific Use Cases (all the different interactive user-flows and data-specific states) to be tested.  Use **[this Product Use Cases template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/product-use-cases-template.md)** -- copy the template's markdown into a new .md file inside your Product folder [next to Product Outline file], then start updating.
 
-1. <Use Case 1> - <test-account-1>
-2. <Use Case 2> - <test-account-2> ...
+IMPORTANT for authenticated products (requiring sign-in): Staging test-accounts must be provided for all authenticated scenarios, and Staging-API test-data created to match the account-specific scenarios.]
+
+Link to **Use Cases doc**: <link>
 
 ## How to configure this issue
 
@@ -48,7 +49,8 @@ QA: Tze-chiu Lei
 ## Definition of Done
 
 - [ ] Product references provided by Product Team.
-- [ ] Use Cases completed along with required Staging test-accounts and mock-data.
+- [ ] Use Cases provided.
+- [ ] For authenticated products, Staging test-accounts and mock-data set up for Use Cases above.
 - [ ] Test Cases [in TestRail] finalized based on Use Cases above.
-- [ ] Test Runs completed on Staging.
-- [ ] Test Reports generated.
+- [ ] Test Runs completed on Staging [or Drupal pre-prod enviornment].
+- [ ] Test Reports generated.  These should be provided to VSP at least 2 workdays before [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review).
