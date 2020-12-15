@@ -14,7 +14,10 @@ All of GA is backfilled in our new data warehouse, BigQuery, and most of our DOM
 
 ### What exactly is being deleted?
 
-“[Event actions](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20201002&_u.date01=20201202&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=250/)” from the 10/12/20 - 12/2/20 time period are being deleted from Google Analytics. So, anything that we track with an “event action” like claim details viewed, pdf and letter file names, and scroll % will be lost in GA (but will be backed up in BigQuery). More general things like pageviews, submission counts, and time on page won’t be deleted.
+“[Event actions](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20201002&_u.date01=20201202&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=250/)” from the 10/12/20 - 12/2/20 time period are being deleted from Google Analytics. So, anything that we track with an “event action” like claim details viewed, pdf and letter file names, and scroll % will be lost in GA (but will be backed up in BigQuery). More general things like pageviews, submission counts, and time on page won’t be deleted. The links below show event actions filterable by product for a more specific look into the impact:
+
+- All Views: 10/11-12/2 https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p1[…]-table.plotKeys=%5B%5D&explorer-table.rowCount=250/
+- WBC View: 10/11-12/2 https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p1[…]-table.plotKeys=%5B%5D&explorer-table.rowCount=250/
 
 ### How this may impact you:
 
@@ -41,6 +44,7 @@ If you have questions please let Rachael Roueche know in Slack. The analytics te
 ## FAQs
 
 **How will this impact the domo covid-19 dash?**
+
 Covid Dashboards that won’t be affected:
 - COVID-19 digital response (Homepage)
 - Content Usage
@@ -53,10 +57,13 @@ Covid Dashboards that will be affected:
 - COVID-19 - VA.gov Response (the original dashboard, now archived and no longer maintained, data sources still pull from GA)
 
 **When does the scrubbing start? (i.e., by when do we need to save/export desired event actions data?)**
+
 Scrubbing starts as early as Friday 12/18
 
 **Where can I go to see what’s considered an event action and/or find out if my product has any?**
+
 Event actions are what are used to track clicks and other actions for all VA.gov products, so every VFS team's GA reports will be impacted, though DOMO dashboards shouldn't be. [Please see the description of event actions above for more detail](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/decisions/google_analytics_data_scrub.md#what-exactly-is-being-deleted).
 
 **Can you confirm that this will only affect GA and big query data (DOMO) will remain during the timeframe specified?**
+
 Though all of Google Analytics will be impacted by this, DOMO dashboards will experience little to no impact since they no longer pull from GA but instead pull from our data warehouse, BigQuery. If you do notice anything weird in your DOMO dashboards after Friday, please file a ticket with the Analytics team so they can take a look and reconfigure if needed.
