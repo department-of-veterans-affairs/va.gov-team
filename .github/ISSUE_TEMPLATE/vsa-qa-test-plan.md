@@ -14,11 +14,10 @@ assignees: 'tlei123'
 
 \[Provide brief summary of product/feature to be tested on Staging by VSA-QA. Also, be sure to include links to the Product/Feature Outline, Epic, Pre-Launch Checklist, and Design tickets/artifacts.]
 
-Product/Feature Outline: \[provide link]
-Product/Feature Epic: \[provide link]
-Product/Feature Pre-Launch Checklist: \[provide link]
-Product/Feature Copy deck(s): \[provide link, or type "In Design prototypes"]
-Product/Feature Design prototypes: \[provide links]
+- Product/Feature Outline: \[provide link]
+- Product/Feature Epic: \[provide link]
+- Product/Feature Copy deck(s): \[provide link, or type "In Design prototypes"]
+- Product/Feature Design prototypes: \[provide links, or type "In Design prototypes"]
 
 ## Product-team SMEs
 
