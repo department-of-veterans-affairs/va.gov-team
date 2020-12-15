@@ -14,6 +14,16 @@ This does not include research for Appeals projects, which is stored in differen
 ------
 ###  2020
 
+### December 2020
+
+#### December 14 - December 18: IRIS Usability Testing 
+
+*IRIS Redesign.  Lead researcher: Rachel M. Murray
+
+- Number of participants: TO UPDATE
+
+- [Research folder] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/iris/Usability%20Testing)
+
 #### November 19 - December 15: 526 Usability test (PTSD flow)
 *GovernmentCIO, BAM 1. Lead researcher: Christian Valla
 
