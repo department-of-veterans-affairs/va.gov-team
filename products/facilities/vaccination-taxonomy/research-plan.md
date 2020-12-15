@@ -54,7 +54,8 @@ At least:
 - 2 participants 35 or under
 - 2 participants 36 - 45
 - 2 participants 46 - 55
-- 2 participants 56 or over
+- 2 participants 56 - 70
+- 2 participants 71 and over
 - 2 participants with cognitive disabilities
 - 2 participants living in a major metropolitan area
 - 2 participants with a disability rating of 70% or greater
