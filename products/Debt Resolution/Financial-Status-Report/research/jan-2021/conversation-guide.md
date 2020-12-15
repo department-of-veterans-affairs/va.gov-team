@@ -43,7 +43,7 @@ Start recording.
 
 -   I have started recording. I'd like to confirm: Are you comfortable if I record my screen and audio as we talk today?
 
-Interview Questions - 10 min
+Interview Questions - 5 min
 ----------------------------
 
 -   Before we jump into the session, can you describe your experience with VA debts?
@@ -81,7 +81,7 @@ Imagine that you've received a letter about a VA debt and the repayment terms do
 
 -   Where does the Veteran go, and what is their reasoning?
 
-Second task: The FSR - 30 minutes
+Second task: The FSR - 32 minutes
 ---------------------------------
 
 ### Form introduction 
@@ -371,7 +371,7 @@ That's all the questions I have about the form! I just have a few followup quest
 
 -   Do you have any other thoughts to share with us today?
 
-Thank-You and Closing - 3 min
+Thank-You and Closing - 2 min
 -----------------------------
 
 That's all the questions I have for you! Do you have any questions for me?
