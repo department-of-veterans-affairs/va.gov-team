@@ -83,7 +83,6 @@ Imagining this situation,
  - Can you talk me through how you might go about finding information like this on the internet?
  - Where would you search?
  - What words would you use to get you this type of information?
- - Can you try that search on the internet?
  
  Ok, thank you for trying that for me.
  
