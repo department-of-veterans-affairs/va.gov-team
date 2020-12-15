@@ -1,4 +1,4 @@
-# Payment History - Use Cases
+# View Payment History - Use Cases
 
 _Track and maintain the various use cases that exist for a given product -- best maintained alongside the product outline._
 
