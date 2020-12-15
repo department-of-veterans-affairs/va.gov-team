@@ -36,7 +36,7 @@ QA: Tze-chiu Lei
 
 IMPORTANT for authenticated products (requiring sign-in): Staging test-accounts must be provided for all authenticated scenarios, and Staging-API test-data created to match the account-specific scenarios.]
 
-Link to **Use Cases doc**: <link>
+Link to **Use Cases doc**: \[provide link]
 
 ## How to configure this issue
 
