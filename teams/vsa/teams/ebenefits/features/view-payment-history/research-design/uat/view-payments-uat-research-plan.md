@@ -43,7 +43,12 @@ Users will:
 ### Participants & recruiting
 Participants will be recruited via Perigean. The study will require Veterans who receive C&P and/or EDU payments. Participants must be authenticated to LOA3 (identity verified), and need ID.me credentials to log in. 
 
-Recruit for a **minimum of 3** fulfilled sessions using the following criteria:
+Recruit for a **minimum of 4** fulfilled sessions using the following criteria:
+
+#### Participant platforms
+We'd like to split the participants into two groups: mobile and laptop/desktop so that we can get feedback regarding both platforms.
+
+- Please target two participants each for mobile and desktop plaforms for a total of four paricipants
 
 #### Must have for participants
 
@@ -66,7 +71,7 @@ Recruit for a **minimum of 3** fulfilled sessions using the following criteria:
 #### Recruitment requirements
 
 - Participants can use any device with a browser (desktop, laptop, tablet, phone)
-- The participants have Zoom downloaded prior to the session
+- The participants have Zoom downloaded prior to the session (including mobile)
 - The participants know how to screenshare
 
 #### eBenefits Team Availability
