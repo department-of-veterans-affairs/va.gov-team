@@ -12,6 +12,9 @@
 - [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/uat/view-payments-uat-research-plan.md)
 - **Note:** These sessions will not be recorded
 
+#### Note regarding participant platforms
+We'll have participants split into two groups: mobile and laptop/desktop so that we can get feedback regarding both platforms.
+
 ## Intro
 Good morning/afternoon and thank you for joining us today.
 
