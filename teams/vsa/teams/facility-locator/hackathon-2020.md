@@ -25,7 +25,8 @@ Problem: VA.gov often presents more information than a user needs and before the
 ---
 ## Engineering
 
-- Gibran: Directions api integration https://github.com/department-of-veterans-affairs/vets-website/pull/14967
+- Gibran: [Directions api integration](https://github.com/department-of-veterans-affairs/vets-website/pull/14967)
+- Michael: [Support Manual Geolocation](https://github.com/department-of-veterans-affairs/vets-website/pull/14963)
 
 ---
 
