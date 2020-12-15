@@ -1,5 +1,3 @@
-_Note: Updated **Method** and **Criteria** sections with feedback from Josh._
-
 ## Health Services - Vaccination Services Taxonomy
 The Facilities needs a better understanding of how veterans expect to find health services at VA as a foundational part of improving the Veteran search experience. 
 
