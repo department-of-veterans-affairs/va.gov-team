@@ -13,7 +13,7 @@
 
 ## Technical diagrams 
 
-[Architecture diagram]
+[Architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/FL%20Arch%20diagram.jpg)
 
 [Sequence diagram showing the ordered flow of data and operations between systems]
 
