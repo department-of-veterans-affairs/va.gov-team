@@ -62,6 +62,14 @@ Some examples of other information we might want to include on a form's confirma
 
 - What they can the applicant do if they have additional questions after they apply? 
 
+7. CTA button
+
+We should include a button that allows users to navigate back to VA.gov
+
+{CTA button} **Go back to VA.gov**
+
+
+
 
 ------
 
