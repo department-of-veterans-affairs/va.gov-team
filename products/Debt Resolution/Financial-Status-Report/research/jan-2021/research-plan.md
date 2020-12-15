@@ -16,7 +16,7 @@ There are multiple resolution pathways a Veteran can select when resolving their
 
 **3.  Research questions: What question(s) do you hope to be able to answer after completing this research?**
 
--  Is the form's purpose and repayment types available clear?
+-  Is the form's purpose and repayment options available clear?
 
 -  Are Veterans able to easily complete each section of the form?
 
@@ -34,7 +34,7 @@ There are multiple resolution pathways a Veteran can select when resolving their
 
 **4.  Hypothesis: What is your hypothesis for this research?**
 
--  Veterans will be able to identify and select which repayment(s) they want to receive financial assistance for, but they may struggle to select a resolution option
+-  Veterans will be able to identify and select which debt(s) they want to receive financial assistance for, but they may struggle to select a resolution option
 
 -  Veterans might not know their spouse's employment history or complete financial snapshot 
 
@@ -46,7 +46,7 @@ There are multiple resolution pathways a Veteran can select when resolving their
 
 -  Veterans will likely not know all their financial information, such as payroll deductions, without needing to search their personal records
 
--  Veterans may be interested in the next steps after their application is submitted and how long the form will take to process since repayments are time-sensitive
+-  Veterans may be interested in the next steps after their application is submitted and how long the form will take to process since debts are time-sensitive
 
 -  Veterans may be interested in updating their application if their financial situation changes or they forgot to include an asset
 
@@ -59,7 +59,7 @@ Remote moderated qualitative interviews and task-based usability testing using t
 
 **2.  Why this method? How does this methodology help you answer your research questions?**
 
-We're using moderated qualitative interviews to understand our user's  thoughts and experiences navigating VA-related repayments. We're conducting task-based usability testing on an unauthenticated version of the form in staging to both determine whether or not the form's flow is intuitive and uncover areas of improvement. Much of the form's functionality can't be properly tested using a prototype, so we have decided to test in staging. This will also allow us to expand our recruitment to participants that use assistive technology.
+We're using moderated qualitative interviews to understand our user's  thoughts and experiences navigating VA-related debts. We're conducting task-based usability testing on an unauthenticated version of the form in staging to both determine whether or not the form's flow is intuitive and uncover areas of improvement. Much of the form's functionality can't be properly tested using a prototype, so we have decided to test in staging. This will also allow us to expand our recruitment to participants that use assistive technology.
 
 **3.  Where are you planning to do your research? If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)**
 
@@ -131,7 +131,7 @@ When?
 
 **1.  Timeline: What dates do you plan to do research?**
 
-January xx - xx, 2021
+January 11 - 15, 2021
 
 **2.  Prepare: When will the thing you are testing be ready?**
 
@@ -145,15 +145,15 @@ About 1 hour
 
 **4.  Availability:** If applicable, when would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S. Specify how much time you want between sessions, if any.
 
--  January xx: 9:30am - 5:00pm EST
+-  January 11: 9:30am - 5:00pm EST
 
--  January xx: 9:30am - 5:00pm EST
+-  January 12: 9:30am - 5:00pm EST
 
--  January xx: 9:30am - 5:00pm EST
+-  January 13: 9:30am - 5:00pm EST
 
--  January xx: 9:30am - 5:00pm EST
+-  January 14: 9:30am - 5:00pm EST
 
--  January xx: 9:30am - 5:00pm EST
+-  January 15: 9:30am - 5:00pm EST
 
 **5.  Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
 
