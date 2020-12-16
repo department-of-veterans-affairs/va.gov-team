@@ -27,6 +27,7 @@
 | Status | Points | User story | Notes |
 | ------ | :------: |----------- |------ |
 |        | 5  | Research: familiarize with backend set up of the online 10-10EZ |
+|        | 3  | [Testing and production release of background processing on 10-10CG](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17538)
 |        | 5  | Research: backend changes to support 10-10EZ address additions (+ generate tickets) |
 |        |TBD | Backend changes needed to support 10-10EZ address additions |
 |        |  5 |[Add support for recent medical facility changes to 10-10CG schema](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16883)
