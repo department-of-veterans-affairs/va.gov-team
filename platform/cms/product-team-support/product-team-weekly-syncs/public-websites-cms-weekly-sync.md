@@ -48,8 +48,10 @@
  
 ### Campaign landing page MVP
 
+ * High level update: 
+    * MVP content model 99% complete (pending Audience tag), some editorial experience and contextual content strategy work in progress.
  * CMS Team Sprint 21 update and Sprint 22 priorities
- * FE documentation
+    * Content model documentation for FE devs not complete, may not be finished this sprint. What level of fidelity do we want?  
  * Event teaser design & content model
  
 ### Resources & support 1.1
