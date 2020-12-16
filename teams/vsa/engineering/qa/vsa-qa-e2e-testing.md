@@ -78,4 +78,4 @@ Much of the help offered here is intended to improve e2e test-coverage, and to t
   
 ## See also
 
-[Cypress-TestRail intagration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/qa/vsa-qa-cypress-testrail.md)
+[Cypress-TestRail integration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/qa/vsa-qa-cypress-testrail.md)
