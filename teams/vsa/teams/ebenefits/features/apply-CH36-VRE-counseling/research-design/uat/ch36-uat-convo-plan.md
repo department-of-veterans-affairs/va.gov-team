@@ -78,11 +78,11 @@ OK, please share your screen, and we'll get started.
   - [ ] **UAT item:** Form submits and user is presented with confirmation screen.
 
 ## Wrap-up
-That is the end of what we're testing. Do you have any questions or comments about the new 686?
+That is the end of what we're testing. Do you have any questions or comments about the form or the process?
 
 (We may need to let the participant know how processing will go, or what their next steps might be. We will get input from business on what info or guidance we can give the user.) 
 
 ## Closing
-Thank you so much for taking the time to run through the new 686! Your help is critical to or team's effort to improve Veterans' online experiences--and VA.gov in particular. Enjoy the rest of your day!
+Thank you so much for taking the time to run through the new 8832! Your help is critical to or team's effort to improve Veterans' online experiences--and VA.gov in particular. Enjoy the rest of your day!
 
 ---
