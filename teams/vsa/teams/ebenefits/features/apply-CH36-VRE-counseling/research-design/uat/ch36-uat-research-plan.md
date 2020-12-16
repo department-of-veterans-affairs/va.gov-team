@@ -89,6 +89,6 @@ Please allow 30 minutes between sessions.
 - Observers -- various as available
 
 ### Resources
-[Conversation guide]()
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design/uat/ch36-uat-convo-plan.md)
 
 ---
