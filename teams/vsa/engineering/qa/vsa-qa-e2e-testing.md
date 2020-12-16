@@ -16,42 +16,6 @@ End-to-end (e2e) testing on VA.gov specifically means automated browser testing.
 
 If you're brand-new to E2E testing, be sure to read [VSP's basic End-to-end testing docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/testing/end-to-end).  This VSA-specific documentation here _supplements_ that information.
 
-#### Cypress-TestRail integration
-
-VSP's recently made it possible to run local Cypress E2E tests and post results into our [TestRail test case management system](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/testrail).  The [VSP process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/e2e-testing/cypress-testrail-reporter-config.md) uses [cypress-testrail-reporter](https://github.com/Vivify-Ideas/cypress-testrail-reporter) Node package.
-
-cypress-testrail-reporter's functionality makes assumptions about both how your spec files are organized and how test cases are organized in TestRail.  While VSA-QA's currently researching development of an efficient VSA process for this package, you are encouraged to beta-test it and provide feedback.
-
-First, read VSP's basic [Cypress to TestRail Reporter Plugin Configuration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/e2e-testing/cypress-testrail-reporter-config.md) process, then follow the procedure below which fleshes out the steps with more detail and/or VSA-specific info.
-
-##### TestRail API Key
-
-First obtain your VSA Product Team's TestRail credentials from your Product Manager, then just follow [VSP's procedure](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/e2e-testing/cypress-testrail-reporter-config.md#testrail-api-key).
-
-##### Corresponding TestRail objects
-
-###### VSA Product Teams' TestRail Project/Suite IDs
-
-Instead of checking your browser URLs to obtain your team's TestRail Project and Suite IDs, just refer to the table below:
-
-<details><summary>[click to toggle table]</summary>
-
-| VSA Product Team  | TestRail Project Name | TestRail Project ID | TestRail Suite ID |
-| ------------- | ------------- | ------------- | ------------- |
-| Authenticated Experience | VSA-Authd-Exp  | 4  | 5 |
-| Benefits & Memorials 1 | VSA-BaM1  | 5  | 6 |
-| Benefits & Memorials 2 | VSA-BaM2  | 7  | 8 |
-| Caregiver | VSA-Caregiver | 10  | 11 |
-| Decision Tools  | VSA-Decision-Tools | 30 | 136 |
-| eBenefits | VSA-eBenefits | 3 | 3 |
-| Facilities | VSA-Facilities | 6 | 7 |
-| Healthcare Experience | VSA-Healthcare | 24 | 35 |
-| Public Websites | VSA-Public-Websites | 8 | 9 |
-| Search & Discovery | VSA-S&D | 31 | 150 |
-| VAMC | VSA-VAMC | 9 | 10 |
-
-</details>
-
 ### Regression testing
 
 Going forward, VSP-QA intends regression testing to become a more formal aspect of QA.  Currently, regression testing is informally included in e2e tests.  VSA- and VSP-QA will be looking to implement a process by which regression and new-feature tests can be separated/organized/managed.  We'll document process developments here as progress is made, and we'll also be reaching out to team engineers for input during our research/planning.
