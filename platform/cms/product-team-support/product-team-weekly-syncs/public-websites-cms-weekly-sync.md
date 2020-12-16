@@ -34,7 +34,17 @@
 
 </details>
 
+## Wednesday Dec 23 10am ET
+
+### Campaign landing page MVP
+
+### Resources & support
+
+### Other
+
 ## Wednesday Dec 16 10am ET
+ 
+ * Holiday schedules for this meeting 
  
 ### Campaign landing page MVP
 
