@@ -8,6 +8,13 @@
 ### Background
 The Chapter 36 (CH36) program, Personalized Career Planning and Guidance (PCPG), provides career, educational and adjustment counseling to Veterans, service members or their qualifying dependents. To receive these benefits, users must complete and submit VA Form 28-8832.
 
+#### Note regarding UAT
+We're requesting that Perigean recruit Veterans who need to apply for Chapter 36 (CH36) benefits. This usually involves submitting a paper 28-8832 or going to eBenefits. We realize that it may be difficult to find Veterans with such specific needs, particularly given the impending holiday season.
+
+For those Veterans we talk to in UAT, we intend to be very transparent about what we are testing--it's an actual, functioning form. We will be asking our partners to keep watch for the submissions coming out of UAT, while we watch for problems and errors in real time. We will be observing the transaction, But not recording it, and this will also be clearly communicated to the UAT participant.
+
+In the event that we don’t get any Veterans that meet our criteria, or we can't find any who are comfortable displaying live/personal data, we may toggle the feature “on” to as tiny a percentage as possible, capture a small number of submissions during a "quieter" time of the week, and then revert back to eBenefits while we take some time to validate the small number of naturally gained submissions. With feature toggles we can control access quickly and with granularly. Again, we want to keep the data being collected real and accurate. In this scenario, it may take longer to get the volume of valid VA.gov submissions to 100%, but as our confidence in the new feature increases, we should be able to accelerate to full deployment. 
+
 ### Goals
 The goal of User Acceptance Testing (UAT) is to determine if the new PCPG forms and wizards are intuitive and functional for users needing to submit either form VA 28-8832.
 
