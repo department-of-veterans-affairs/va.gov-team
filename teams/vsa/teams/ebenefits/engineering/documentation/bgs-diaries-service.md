@@ -28,12 +28,12 @@ The following information is required in order to read and update the diary entr
 Check with Steve/Jason...can the list of award types be posted here?  
 </details>
 
-#### Considerations
+### Considerations
 - Need to determine which Award Types need to be verified
   - CPDC, CDPS, CPDP(?), CPL(?)
   - How is this determined?  Who can provide a definitive answer?
 - The beneficiary IDs can be obtained from the View Dependents service currently being used by VA.gov
-- How to obtain the `awardType` is currently not known
+- **How to obtain the `awardType` is currently not known**
   - There is a "relationship" that is returned in View Dependents
   - Ex. Would "Spouse" relationship be award type "CPDS"?
 - Is there a service that returns both Award Type and Beneficiary ID?
@@ -131,6 +131,6 @@ The following is the list of fields that need to be sent as the `DiaryInput` whe
 
 1. For each dependent, get the diary object that was created from the `readDiaries` response
 2. Update modifiedAction, modifiedBy, modifiedDate, modifiedLocation, modifiedProcess, diaryDueDate?, any other fields
-   - How to determine what fields should be updated/who can provide a definitive answer?
+   - How to determine which fields should be updated?  Who can provide a definitive answer?
 3. Send entire diary record that was created
    - What about fields not in the diary response that are part of the update diary input (marked with an asterisk in the list above)?  
