@@ -29,15 +29,15 @@ You'll be using a new feature we have on VA.gov: VA form 28-8832. This is the on
 - I need to confirm: are you a Veteran, service member or dependent?
   - If the user is not one of the above, end the session.
   
-- Do you intned to log in to VA.gov to complete the form?
+- Do you want to log in to VA.gov to complete the form?
   - Can you confirm for me that you have an ID.me account? And do you know your username and password? 
   - If not: Are these easy to get? Could get you them?
-  - If the user can not remember or retrieve their login credentials, they must complete the form unauthnticated.
+  - If the user can not remember or retrieve their login credentials, they must complete the form unauthenticated.
 - During this call, I'll be helping you submit a form to apply for CH36 benefits. So, can you confirm that you indeed would like to do this, and are comfortable walking through the form with me?
   - If not end the session.
 
 Today we're going to observe you completing VA Form 28-8832. We're not recording this session, but we need to see your screen as you move through the form. The form **does** ask for (or shows)  personal identifying information. Are you comfortable sharing your screen at this time?
-- If not: Explain this is neccesary for testing. If they are still unwilling (e.g. because of personal info), end the call.
+- If not: Explain this is neccessary for testing. If they are still unwilling (e.g. because of personal info), end the call.
 
 To help with any possible questions or concern you have, I may be able to offer real-time assistance with this online form.
 
@@ -57,7 +57,7 @@ OK, please share your screen, and we'll get started.
   - [ ] **UAT item:** user proceeds unauthenticated 
 - Review the information on the landing screen. Is this the right form for you?
   - [ ] **UAT item:** User navigates wizard to reveal form button (optional)
-  - [ ] **UAT item:** User clicks form link to advance straigt to the form intro screen
+  - [ ] **UAT item:** User clicks form link to advance straight to the form intro screen
 - Review the steps to apply for CH36 benefits. 
   - [ ] **UAT item:** (Authenticated) User clicks green button to enter form.   
   - [ ] **UAT item:** (Unauthenticated) User clicks text link to enter form.
