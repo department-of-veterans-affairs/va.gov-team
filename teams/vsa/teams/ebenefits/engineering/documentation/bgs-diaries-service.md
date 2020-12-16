@@ -8,7 +8,7 @@ Methods
 - readDiaries: read diaries information
 - updateDiaries: update diaries information
 
-\* **Note**: The DiariesWebService is currently not exposed as an external service. This needs to be exposed in order to be utilized by VA.gov (vets-api).
+\* **Note**: The DiariesWebService is currently not exposed as an external service. This needs to be exposed in order to be utilized by VA.gov/vets-api.
 
 <br>
 
@@ -17,7 +17,7 @@ Methods
 The following information is required in order to read and update the diary entries:
 
  | AwardKeyInput | Description            |
- | ------------- | ---------------------- |
+ | :------------ | :--------------------- |
  | awardType     | Type of award          |
  | beneficiaryID | Beneficiary Identifier |
  | veteranID     | Veteran Identifier     |
@@ -41,22 +41,23 @@ Check with Steve/Jason...can we post the list of award types here?
 <br>
 
 ## readDiaries
-For each dependent returned in the list of View Dependents,
+For each dependent returned in the list of View Dependents:
 1. Send a request to `readDiaries` with required fields `awardType`, `beneficiaryID`, `veteranID`.
-2. Filter list of diary entries, we only want where diaryReasonType = '24'
+2. Filter list of diary entries, we only want records where diaryReasonType = '24'
 3. For each of those records (assuming only one?), check diaryDueDate
-   - What happens if more than one record with diaryReasonType 24/is this possible
-      - Use latest date?  
-4. Use some business logic to determine if dependency verification/update is required based on the diaryDueDate and currentDate
-5. If update/verification is required, create a diary record with the response info
+   - What happens if more than one record with diaryReasonType 24?
+    - Is this possible?
+    - Would we just use latest date?  
+4. Use some business logic to determine if dependency verification/update is required based on the diaryDueDate and the current date
+5. If update/verification is required, create a diary object with the response info
 
 <details>
 <summary>readDiariesResponse</summary>
 <br>
 
-The DiaryResponse includes information about error level, dependency decisions, and diaries.  The diaries contains a list of diary entries.  
+The DiaryResponse includes information about error level, dependency decisions, and diaries.  The diaries object contains a list of diary entries.  
 
-ex Diary:
+ex. Diary:
 ```
     <Diary>
         <awardDiaryID>60147</awardDiaryID>
@@ -87,7 +88,7 @@ ex Diary:
 
 ## updateDiaries
 
-The following is the list of fields that need to be sent as the Diary Input when updating a diary entry:
+The following is the list of fields that need to be sent as the DiaryInput when updating a diary entry:
 <details>
 <summary>updateDiaries</summary>
 <br>
@@ -128,7 +129,7 @@ The following is the list of fields that need to be sent as the Diary Input when
 
 </details>
 
-1. For each dependent, get the diary record that we created
+1. For each dependent, get the diary object that we created from the readDiaries response
 2. Update modifiedAction, modifiedBy, modifiedDate, modifiedLocation, modifiedProcess, diaryDueDate?, any other fields
    - How do we determine what fields should be updated/how do we get a definitive answer?
 3. Send entire diary record that we created
