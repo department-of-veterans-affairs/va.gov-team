@@ -22,9 +22,9 @@
 
 ### VSP-QA's process
 
-For now, start w/ [VSP's basic process](/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/e2e-testing/cypress-testrail-reporter-config.md).
+For now, start w/ [VSP's basic process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/e2e-testing/cypress-testrail-reporter-config.md).
 
-The **basic** process is suitable for reporting E2E test results at the beginning of your product/feature build -- **before** you start making changes -- to generate regression-test QA artifacts for [VSP Usability Testing Prep](/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#usability-testing-prep).
+The **basic** process is suitable for reporting E2E test results at the beginning of your product/feature build -- **before** you start making changes -- to generate regression-test QA artifacts for [VSP Usability Testing Prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#usability-testing-prep).
 
 The cypress-testrail-reporter (CTR) package makes some assumptions about your E2E files and TestRail test-cases:
 - each E2E spec-file has a corresponding Section (Group) of TestRail test-cases.  If you have 3 E2E spec-files, you should have 3 TestRail test-case Sections.
