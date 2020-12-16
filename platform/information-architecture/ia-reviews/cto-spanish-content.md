@@ -23,16 +23,16 @@
 - The Spanish content pages will exist at their own URLs, as siblings to the English versions within the structure.
 - The Spanish content page URL will have an "esp" appended to it to differentiate the two URLs
 - URLs should not be translated.
-- Breadcrumbs should not be translated.
+- Show translated title of current page in breadcrumb to reinforce. While this does not provide a full translated experience, it further indicates that the user is on a translated page within an English experience. 
 
 
 ![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/8d3e1dd0-e3b9-4965-bc03-900bcfecc073)
 
 **Page** | **URL** | **Breadcrumb** | **Notes**
 --- | --- | --- | ---
-Spanish Covid vaccine page | www.va.gov/health-care/covid-19-vaccine-esp/  | Home > Health care > *Vacunas Covid-19 en VA*  |  Final segment of the breadcrumb will match the H1 of the page, which will be in Spanish
-Spanish Covid Veteran FAQ page | www.va.gov/coronavirus-veteran-frequently-asked-questions-esp/ | Home > *Preguntas frecuentes sobre el coronavirus: lo que los veteranos deben saber* | Final segment of the breadcrumb will match the H1 of the page, which will be in Spanish
-Spanish Covid research page  | www.va.gov/coronavirus-research-esp/ | Home > *Voluntario para la investigación del coronavirus en VA* | Final segment of the breadcrumb will match the H1 of the page, which will be in Spanish
+Spanish Covid vaccine page | www.va.gov/health-care/covid-19-vaccine-esp/  | Home > Health care > Vacunas Covid-19 en VA |  Final segment of the breadcrumb will match the H1 of the page, which will be in Spanish
+Spanish Covid Veteran FAQ page | www.va.gov/coronavirus-veteran-frequently-asked-questions-esp/ | Home > Preguntas frecuentes sobre el coronavirus: lo que los veteranos deben saber | Final segment of the breadcrumb will match the H1 of the page, which will be in Spanish
+Spanish Covid research page  | www.va.gov/coronavirus-research-esp/ | Home > Voluntario para la investigación del coronavirus en VA | Final segment of the breadcrumb will match the H1 of the page, which will be in Spanish
 
 
 ## <a name="nav"></a>Navigation and Entry Points <br>
