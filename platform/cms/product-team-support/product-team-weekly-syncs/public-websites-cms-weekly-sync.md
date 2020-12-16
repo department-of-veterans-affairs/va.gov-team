@@ -51,8 +51,8 @@
  * High level update: 
     * MVP content model 99% complete (pending Audience tag), some editorial experience and contextual content strategy work in progress.
  * Clarify specs for "Why this matters panel": 
-   * Audience field: should it allow both beneficiaries and non-beneficiary audiences?
-   * Social media links hardcoded or optional? 
+   * Audience field: should it allow both beneficiaries and non-beneficiary audiences? #3774
+   * Social media links hardcoded or optional?  (needs CMS issue if it's optional)
  * CMS Team Sprint 21 update and Sprint 22 priorities
     * Content model documentation for FE devs not complete, may not be finished this sprint. What level of fidelity do we want?  
  * Event teaser design & content model
