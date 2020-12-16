@@ -20,7 +20,18 @@
 <details><summary>Parking lot</summary>
 
 </details>
+
+## Wednesday Jan 6 2:30pm ET
+
+Agenda 
+
+- Erie dual state launch
+
   
+## Wednesday Dec 23 2:30pm ET
+
+No meeting
+
 ## Wednesday Dec 23 2:30pm ET
 
 Clarence will facilitate.
