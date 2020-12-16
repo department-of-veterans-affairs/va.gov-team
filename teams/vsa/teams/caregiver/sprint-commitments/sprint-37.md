@@ -14,6 +14,10 @@
 |        | ? |[Transition save-in-progress forms to new schema](https://dsva.slack.com/archives/CE4304QPK/p1608053928057500?thread_ts=1608052936.055000&cid=CE4304QPK) | 
 |        | 5 |[Refactor/flatten 10-10CG UI schema](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16874)
 |        | 5 | [Refactor/flatten 10-10EZ UI schema](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17071)
+
+### Stretch
+| Status | Points | User story | Notes |
+| ------ | :------: |----------- |------ |
 |        | ? | Use (tool) to document unit test coverage on the 10-10CG & 10-10EZ
 |        | ? |Create tickets to increase unit test coverage on the 10-10CG & 10-10EZ
 |        | ? |Implement tickets to increase unit test coverage on the 10-10CG & 10-10EZ
