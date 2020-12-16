@@ -24,12 +24,37 @@
   
 ## Wednesday Dec 16 2:30pm ET
 
-1. Holiday schedules for this meeting
-1. Training
-1. User administration
-1. Dual state and product launches
+1. Training & User administration (Jane)
+  * Requests in from Stan
+  * New group today 
+  * Session 3 and 4 for ondemand viewing by Dec 18
+  * Dave: Do accounts expire automatically? No. 
 1. Migration
-1. VAMC Scaffolding
+  * Health services (non-COVID-vaccines)
+    * Fab 5 all in--system and facility. 1695 system, 3726 facility plus 91 migrated earlier. 
+  * COVID Vaccine content 
+    * 127 (all?) VAMC system nodes are in on Prod, and Sections.  
+      * Stan and Dave will QA 
+    * Kaise is working on system and facility service migration based on data from Dave yesterday. 
+    * Moving forward, a single migration will make updates to those together. 
+    * Extra columns for facility and service descriptions, so that follow-up migrations can make bulk updates easily
+1. VAMC Scaffolding (Sections, Menus, VAMC System nodes)
+  * CMS team will be done by December 18. 
+1. Holiday schedules for this meeting
+  * Meeting Dec 23. Kevin will be out, CMS team will still facilitate / work on agenda. 
+  * No meeting Dec 30. 
+1. User Support/System Outages
+  * Need to be proactive when an outage occurs, such as PIVs failing
+  * PIV failures started last Friday, some users did not learn until Tuesday.
+  * CMS team will develop a practice to communicate these issues. 
+1. Dual state and product launches
+  * Because of COVID, review of content is slowing down
+    * Threshhold by which we move things to dual state may change. Eg we may not require full review by stakeholders. 
+    * Dave meeting with JHL about this tomorrow. 
+    * Erie to launch after 1st of year. 
+    * New VA.gov Alert banners will not have COVID info, and will drive users to teamsite product
+  * To get all VAMCs to dual state by end of Q3, we'll need a cadence of 10 per sprint by the end of Q1. 
+  
 
 ### Other? 
  
