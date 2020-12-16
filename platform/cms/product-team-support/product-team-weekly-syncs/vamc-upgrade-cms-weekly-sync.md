@@ -29,7 +29,7 @@
   * New group today 
   * Session 3 and 4 for ondemand viewing by Dec 18
   * Dave: Do accounts expire automatically? No. 
-1. Migration
+2. Migration
   * Health services (non-COVID-vaccines)
     * Fab 5 all in--system and facility. 1695 system, 3726 facility plus 91 migrated earlier. 
   * COVID Vaccine content 
@@ -38,16 +38,16 @@
     * Kaise is working on system and facility service migration based on data from Dave yesterday. 
     * Moving forward, a single migration will make updates to those together. 
     * Extra columns for facility and service descriptions, so that follow-up migrations can make bulk updates easily
-1. VAMC Scaffolding (Sections, Menus, VAMC System nodes)
+3. VAMC Scaffolding (Sections, Menus, VAMC System nodes)
   * CMS team will be done by December 18. 
-1. Holiday schedules for this meeting
+4. Holiday schedules for this meeting
   * Meeting Dec 23. Kevin will be out, CMS team will still facilitate / work on agenda. 
   * No meeting Dec 30. 
-1. User Support/System Outages
+5. User Support/System Outages
   * Need to be proactive when an outage occurs, such as PIVs failing
   * PIV failures started last Friday, some users did not learn until Tuesday.
   * CMS team will develop a practice to communicate these issues. 
-1. Dual state and product launches
+6. Dual state and product launches
   * Because of COVID, review of content is slowing down
     * Threshhold by which we move things to dual state may change. Eg we may not require full review by stakeholders. 
     * Dave meeting with JHL about this tomorrow. 
