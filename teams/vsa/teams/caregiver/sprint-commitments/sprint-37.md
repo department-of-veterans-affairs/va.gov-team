@@ -9,7 +9,9 @@
 
 | Status | Points | User story | Notes |
 | ------ | :------: |----------- |------ |
-|        | 8 |[10-10EZ Address Field](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15159)|  
+|        | 8 |[10-10EZ Address Field](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15159)|
+|        | ? |Set up demo with stakeholders for 10-10EZ Address work |
+|        | ? |[Transition save-in-progress forms to new schema](https://dsva.slack.com/archives/CE4304QPK/p1608053928057500?thread_ts=1608052936.055000&cid=CE4304QPK) | 
 |        | 5 |[Refactor/flatten 10-10CG UI schema](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16874)
 |        | 5 | [Refactor/flatten 10-10EZ UI schema](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17071)
 |        | ? | Use (tool) to document unit test coverage on the 10-10CG & 10-10EZ
@@ -20,17 +22,21 @@
 
 | Status | Points | User story | Notes |
 | ------ | :------: |----------- |------ |
-|        |  U |[Set up Sentry Alerts for 10-10CG in Slack](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16875) |  
+|        |  ? | Research: backend changes to support 10-10EZ Addres Work |
+|        |TBD | Backend changes needed to support 10-10EZ Address work |
+|        |  5 |[Add support for recent medical facility changes to 10-10CG schema](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16883  
 |        |  5 |[Add support for recent medical facility changes to 10-10CG schema](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16883)
 |        |  5 |[Timestamp research on the 10-10EZ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16876)
+|        |  5 |[Connect to CARMA via review instance](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15881)
 |        |  5 |Tech debt: [Remove CARMA::Models::Base for more explicit hard-coded #to_request_payload methods](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16129)
 |        |  3 |Tech debt: [Add mocks for Metadata in CARMA::Models::Submission spec](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16130)
 |        |  U |Tech debt: [Rescue from MVI::Errors::DuplicateRecords error on MPI](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17163)
 |        |  ? |Tech debt: [Refactor the Form1010cg::Service specs to have better nested context blocks]()
 |        |  5 |Tech debt: [Do not raise errors of MPI Search on caregivers for 10-10CG](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14309)
 |        | 13 |Tech debt: [Refactor MVI Lookup in Form1010cg::Service to not build a UserIdentity](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9083)
-|        |  5 |[Connect to CARMA via review instance](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15881)
 |        |  8 |Tech debt: [Remove data validation for user-requested 10-10CG PDF download](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14287)
+|        |  U |[Set up Sentry Alerts for 10-10CG in Slack](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16875) |  
+
 
 ## Design
 
