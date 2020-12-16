@@ -21,6 +21,21 @@
 
 </details>
   
+## Wednesday Dec 23 2:30pm ET
+
+Clarence will facilitate.
+
+Agenda
+
+- Training
+- User administration
+- Migration
+- VAMC Scaffolding
+- Holiday schedules for this meeting
+- User Support/System Outages
+- Dual state and product launches
+
+
   
 ## Wednesday Dec 16 2:30pm ET
 
