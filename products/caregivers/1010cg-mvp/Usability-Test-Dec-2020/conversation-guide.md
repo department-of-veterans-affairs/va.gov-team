@@ -87,7 +87,8 @@ In general we want to sit back and watch them, but if they hesitate you can say 
 - Any confusion with the content we use when asking if they are applying with a Primary Family Caregiver?  
 - Any confusion with the steps following the Primary Family Caregiver question?  
 
-  
+I am going to go ahead and stop you here (on review page before submission) 
+
 ## Post-Task Interview - 5 minutes
 
 Great. A few last questions:
