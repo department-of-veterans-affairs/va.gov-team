@@ -70,8 +70,6 @@ Please allow 30 minutes between sessions.
 
 | Dates | Times (EDT) |
 | --- | --- |
-| December 22, 2020 | 9 AM to 5 PM |
-| December 23, 2020 | 9 AM to 5 PM |
 | December 28, 2020 | 9 AM to 5 PM |
 | December 29, 2020 | 9 AM to noon |
 | December 30, 2020 | 9 AM to noon |
