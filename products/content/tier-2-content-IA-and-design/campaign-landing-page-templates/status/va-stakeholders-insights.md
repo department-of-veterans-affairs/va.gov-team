@@ -11,8 +11,8 @@ The goal is to help understand how much rigidity and alternatively flexibility i
 
 | Questions |VHA|VBA|
 |--|--|--|
-|How many campaigns a year? | It depends, we usually build a campaign (landing) page when there’s a new initiative like the banking program (VBBP) or the VA Solid Start (VASS). These are mostly projects that the VBA leadership initiate, so they are very prominent and we are then tasked to have web presence and social media campaigns around them. 2020 is slower than 2019, and a lot of the ongoing campaigns were actually initiated in late 2019. I think we had about 5 in 2019. There are probably other initiatives from business lines that would benefit from having campaign pages, but we just don’t have the bandwidth to extend this capability to them. If they can do it themselves, that’s great.| It depends, we usually build a campaign (landing) page when there’s a new initiative like the banking program (VBBP) or the VA Solid Start (VASS). These are mostly projects that the VBA leadership initiate, so they are very prominent and we are then tasked to have web presence and social media campaigns around them.   |
-|Does a campaign page stay live or expire? | Denise Coveyduc | Denise Coveyduc |
+|How many campaigns a year? | It depends, we usually build a campaign (landing) page when there’s a new initiative like the banking program (VBBP) or the VA Solid Start (VASS). These are mostly projects that the VBA leadership initiate, so they are very prominent and we are then tasked to have web presence and social media campaigns around them. 2020 is slower than 2019, and a lot of the ongoing campaigns were actually initiated in late 2019. I think we had about 5 in 2019. There are probably other initiatives from business lines that would benefit from having campaign pages, but we just don’t have the bandwidth to extend this capability to them. If they can do it themselves, that’s great.| TBD |
+|Does a campaign page stay live or expire? | TBD | TBD |
 
 
 
