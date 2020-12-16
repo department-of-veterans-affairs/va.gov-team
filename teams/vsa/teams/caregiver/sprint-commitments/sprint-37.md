@@ -18,9 +18,9 @@
 ### Stretch
 | Status | Points | User story | Notes |
 | ------ | :------: |----------- |------ |
-|        | ? | Use (tool) to document unit test coverage on the 10-10CG & 10-10EZ
-|        | ? |Create tickets to increase unit test coverage on the 10-10CG & 10-10EZ
-|        | ? |Implement tickets to increase unit test coverage on the 10-10CG & 10-10EZ
+|        | 1 | Use (tool) to document unit test coverage on the 10-10CG & 10-10EZ
+|        | 2 |Create tickets to increase unit test coverage on the 10-10CG & 10-10EZ
+|        | TBD |Implement tickets to increase unit test coverage on the 10-10CG & 10-10EZ
 
 ## Backend
 
