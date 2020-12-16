@@ -27,7 +27,8 @@ First obtain your VSA Product Team's TestRail credentials from your Product Mana
 ### 2. Determine your VSA Product Team's TestRail Project/Suite IDs
 
 TestRail Project and Suite IDs are two of the values you'd need to support TestRail API calls.  Instead of checking your browser URLs to obtain your team's IDs, just refer to the table below:
-
+<details><summary>[click to expand/collapse]</summary>
+  
 | VSA Product Team  | TestRail Project Name | TestRail Project ID | TestRail Suite ID |
 | ------------- | ------------- | ------------- | ------------- |
 | Authenticated Experience | VSA-Authd-Exp  | 4  | 5 |
@@ -42,7 +43,8 @@ TestRail Project and Suite IDs are two of the values you'd need to support TestR
 | Search & Discovery | VSA-S&D | 31 | 150 |
 | VAMC | VSA-VAMC | 9 | 10 |
 
-<details><summary>[click to expand/collapse]</summary>
+</details>
+
 
 ### 3. Scaffold your TestRail Test Cases
 
