@@ -10,7 +10,7 @@
 
 ## Participants
 
-| Session Notes   | Session Day & Time | Session Status | Device        | Scenario Order        |Role                                                  | Gender | Ethnicity                                               | Age      | Education                | Branch             | Location | PTSF or TBI | Disability Rating Over 70% | Rural or Urban | 
+| Session Notes   | Session Day & Time | Session Status | Device        | Scenario Order        |Role                                                  | Gender | Ethnicity                                               | Age      | Education                | Branch             | Location | PTSD or TBI | Disability Rating Over 70% | Rural or Urban | 
 | ------------------------------------------------------------ | ------------ |------------ | ------------ | ------------ | ----------------------------------------------------- | ------ | ------------------------------------------------------- | -------- | ------------------------ | ------------------ | -------- | ------------------------ | ------------------ | -------- |
 | [P01](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/all-mvp-workflows/session-notes/P1.md) | Monday, Dec. 14 11 - Noon EST | Attended | iOS | 1, then 2 | Veteran | Male | American Indian or Alaska Native, Hispanic, Latino, or Spanish Origin, Black or African American | 35-44 | Master's degree | Army | PR | No | Yes | - |
 | [P02]() | Monday, Dec. 14 Noon - 1 pm EST | Attended | Android | 1, then 2 | Veteran | Male | - | - | - | - | - | Yes | Yes | - |
