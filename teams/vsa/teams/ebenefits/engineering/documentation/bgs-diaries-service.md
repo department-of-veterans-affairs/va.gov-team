@@ -8,7 +8,7 @@ Methods
 - readDiaries: read diaries information
 - updateDiaries: update diaries information
 
-\* **Note**: The DiariesWebService is currently not exposed as an external service. This needs to be exposed in order to be utilized by VA.gov/vets-api.
+*\* **Note**: The DiariesWebService is currently not exposed as an external service. This needs to be exposed in order to be utilized by VA.gov/vets-api.*
 
 <br>
 
@@ -25,17 +25,17 @@ The following information is required in order to read and update the diary entr
 <details>
 <summary>Award Types</summary>
 <br>
-Check with Steve/Jason...can we post the list of award types here?  
+Check with Steve/Jason...can the list of award types be posted here?  
 </details>
 
 #### Considerations
-- Need to determine which Award Types we need to verify
+- Need to determine which Award Types need to be verified
   - CPDC, CDPS, CPDP(?), CPL(?)
-  - How do we determine this/get a definitive answer?
-- We can get the beneficiary IDs from the View Dependents service VA.gov is currently using
-- We do not currently have a way to get the Award Type
-  - Can we use the "relationship" that is returned in View Dependents
-  - ex. "spouse" relationship would be award type "CPDS"?
+  - How is this determined?  Who can provide a definitive answer?
+- The beneficiary IDs can be obtained from the View Dependents service currently being used by VA.gov
+- How to obtain the `awardType` is currently not known
+  - There is a "relationship" that is returned in View Dependents
+  - Ex. Would "Spouse" relationship be award type "CPDS"?
 - Is there a service that returns both Award Type and Beneficiary ID?
 
 <br>
@@ -43,11 +43,11 @@ Check with Steve/Jason...can we post the list of award types here?
 ## readDiaries
 For each dependent returned in the list of View Dependents:
 1. Send a request to `readDiaries` with required fields `awardType`, `beneficiaryID`, `veteranID`.
-2. Filter list of diary entries, we only want records where diaryReasonType = '24'
+2. Filter list of diary entries on records where diaryReasonType = '24'
 3. For each of those records, check `diaryDueDate`
    - What happens if more than one record with `diaryReasonType` 24?
    - Is this possible?
-   - Would we just use latest date?  
+   - Would the record with the latest date be used/unconcerned about records with earlier dates?  
 4. Use some business logic to determine if dependency verification/update is required based on the `diaryDueDate` and the current date
 5. If update/verification is required, create a diary object with the response info
 
@@ -129,8 +129,8 @@ The following is the list of fields that need to be sent as the `DiaryInput` whe
 
 </details>
 
-1. For each dependent, get the diary object that we created from the `readDiaries` response
+1. For each dependent, get the diary object that was created from the `readDiaries` response
 2. Update modifiedAction, modifiedBy, modifiedDate, modifiedLocation, modifiedProcess, diaryDueDate?, any other fields
-   - How do we determine what fields should be updated/how do we get a definitive answer?
-3. Send entire diary record that we created
+   - How to determine what fields should be updated/who can provide a definitive answer?
+3. Send entire diary record that was created
    - What about fields not in the diary response that are part of the update diary input (marked with an asterisk in the list above)?  
