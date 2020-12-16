@@ -26,8 +26,9 @@
 
 | Status | Points | User story | Notes |
 | ------ | :------: |----------- |------ |
-|        |  ? | Research: backend changes to support 10-10EZ Addres Work |
-|        |TBD | Backend changes needed to support 10-10EZ Address work |
+|        |  ? | Research: backend set up of the online 10-10EZ |
+|        |  ? | Research: backend changes to support 10-10EZ address additions |
+|        |TBD | Backend changes needed to support 10-10EZ address additions |
 |        |  5 |[Add support for recent medical facility changes to 10-10CG schema](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16883)
 |        |  5 |[Timestamp research on the 10-10EZ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16876)
 |        |  5 |[Connect to CARMA via review instance](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15881)
