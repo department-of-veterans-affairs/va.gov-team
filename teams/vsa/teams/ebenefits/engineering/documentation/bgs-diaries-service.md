@@ -42,14 +42,14 @@ Check with Steve/Jason...can we post the list of award types here?
 
 ## readDiaries
 For each dependent returned in the list of View Dependents:
-1. Send a request to `readDiaries` with required fields `awardType`, `beneficiaryID`, `veteranID`.
-2. Filter list of diary entries, we only want records where diaryReasonType = '24'
-3. For each of those records, check `diaryDueDate`
-   - What happens if more than one record with `diaryReasonType` 24?
-    - Is this possible?
-    - Would we just use latest date?  
-4. Use some business logic to determine if dependency verification/update is required based on the `diaryDueDate` and the current date
-5. If update/verification is required, create a diary object with the response info
+> 1. Send a request to `readDiaries` with required fields `awardType`, `beneficiaryID`, `veteranID`.
+> 2. Filter list of diary entries, we only want records where diaryReasonType = '24'
+> 3. For each of those records, check `diaryDueDate`
+>    - What happens if more than one record with `diaryReasonType` 24?
+>    - Is this possible?
+>    - Would we just use latest date?  
+> 4. Use some business logic to determine if dependency verification/update is required based on the `diaryDueDate` and the current date
+> 5. If update/verification is required, create a diary object with the response info
 
 <details>
 <summary>readDiariesResponse</summary>
@@ -129,11 +129,11 @@ The following is the list of fields that need to be sent as the `DiaryInput` whe
 
 </details>
 
-1. For each dependent, get the diary object that we created from the `readDiaries` response
-2. Update modifiedAction, modifiedBy, modifiedDate, modifiedLocation, modifiedProcess, diaryDueDate?, any other fields
-   - How do we determine what fields should be updated/how do we get a definitive answer?
-3. Send entire diary record that we created
-   - What about fields not in the diary response that are part of the update diary input (marked with an asterisk in the list above)?
+> 1. For each dependent, get the diary object that we created from the `readDiaries` response
+> 2. Update modifiedAction, modifiedBy, modifiedDate, modifiedLocation, modifiedProcess, diaryDueDate?, any other fields
+>    - How do we determine what fields should be updated/how do we get a definitive answer?
+> 3. Send entire diary record that we created
+>    - What about fields not in the diary response that are part of the update diary input (marked with an asterisk in the list above)?
 
 
 
