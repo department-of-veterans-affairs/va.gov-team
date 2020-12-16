@@ -121,6 +121,7 @@ CLP editors can add external documents as media entities, which will ask for med
 
 **A:** For MVP: Editors can select existing events in Drupal (VAMC or Outreach Hub events).
 
+**Update Dec 16:** No "Where" field on FE teaser/thumbnail template 
 
 **Background:**
 
