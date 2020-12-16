@@ -46,6 +46,16 @@
  
  * Holiday schedules for this meeting 
  
+### Resources & support 1.1
+
+CMS work for MVP 1.1 will be done this sprint
+
+ * Curating taxonomy terms to R&S homepage (CMS work done... ready for FE)
+ * Taxonomy term listing bugs (done, pending some confirmation)
+ * Add non-beneficiaries tags (in PR)
+ 
+One tech debt issue slated for enxt sprint. 
+
 ### Campaign landing page MVP
 
  * High level update: 
@@ -59,15 +69,6 @@
  * CMS Team Sprint 21 update and Sprint 22 priorities
     * Content model documentation for FE devs not complete, may not be finished this sprint. What level of fidelity do we want?  
  
-### Resources & support 1.1
-
-CMS work for MVP 1.1 will be done this sprint
-
- * Curating taxonomy terms to R&S homepage (CMS work done... ready for FE)
- * Taxonomy term listing bugs (done, pending some confirmation)
- * Add non-beneficiaries tags (in PR)
- 
-One tech debt issue slated for enxt sprint. 
 
 ### Other? 
  
