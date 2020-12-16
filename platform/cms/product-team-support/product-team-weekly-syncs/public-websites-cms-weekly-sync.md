@@ -54,8 +54,9 @@
  
 ### Resources & support
 
- * Curating taxonomy terms to R&S homepage
- * Taxonomy term listing bugs
+ * Curating taxonomy terms to R&S homepage (CMS work done... ready for FE)
+ * Taxonomy term listing bugs (done, mostly)
+ * Add non-beneficiaries tags (in PR)
 
 ### Other? 
  
