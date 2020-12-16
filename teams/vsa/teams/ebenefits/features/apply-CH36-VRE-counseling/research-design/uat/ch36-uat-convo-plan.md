@@ -50,38 +50,37 @@ OK, please share your screen, and we'll get started.
 
 ## UAT testing of 28-8832
 
-- Please open a new tab in your browser, go to va.gov/view-change-dependents/add-remove-form-686c/introduction and sign in.
+- Please open a new tab in your browser, go to [CH36 landing page link]().
+- To complete this form, would you like to log in?
   - [ ] **UAT item:** After login, intro screen allows access.
-  - [ ] **UAT item:** Confirm that they are LOA3. If they see a "Verify your identity" prompt. they are not LOA3, **end the session**.  
-- Review the steps to add or remove a dependent. 
-  - [ ] **UAT item:** Screen makes green add/remove button available.
-  - [ ] **UAT item:** User clicks green button to enter form.
-- Make selection(s) to add or remove dependents
-  - [ ] **UAT item:** Checkboxes function, selection(s) made.
-- Review Veteran Information
-  - [ ] **UAT item:** Screen presents correct user data.
-- Review contact information
-  - [ ] **UAT item:** Address, phone and email are pre-filled.
-  - [ ] **UAT item:** User makes any necessary corrections and proceeds.
-- User completes required form fields for chosen workflow(s)
-  - [ ] **UAT item:** Form fields function properly.
-  - [ ] **UAT item:** required form fields display error states when left incomplete or are completed improperly.  
-  - [ ] **UAT item:** Form advances correctly.
+- (If login fails for any reason) It seems there's a problem logging-in; would you like to continue without logging-in?  
+  - [ ] **UAT item:** user proceeds unauthenticated 
+- Review the information on the landing screen. Is this the right form for you?
+  - [ ] **UAT item:** User navigates wizard to reveal form button (optional)
+  - [ ] **UAT item:** User clicks form link to advance straigt to the form intro screen
+- Review the steps to apply for CH36 benefits. 
+  - [ ] **UAT item:** (Authenticated) User clicks green button to enter form.   
+  - [ ] **UAT item:** (Unauthenticated) User clicks text link to enter form.
+- Review/enter claimant information.
+  - [ ] **UAT item:** (Authenticated) Screen presents correct user data
+  - [ ] **UAT item:** (Unauthenticated) User enters personal info
+- Review/enter contact information.
+  - [ ] **UAT item:** (Authenticated) Address, phone and email are pre-filled
+  - [ ] **UAT item:** (Authenticated) User makes any necessary corrections and proceeds
+  - [ ] **UAT item:** (Unauthenticated) User enters contact info
+- User selects applicant description.
+  - [ ] **UAT item:** Selections branch workflow properly
   - [ ] **UAT item:** User can backtrack through form as needed.
-- User can locate and upload documentation required by particular workflows/situations.
-  - [ ] **UAT item:** File finder window opens when upload documents button is clicked.
-  - [ ] **UAT item:** User can locate and select file(s).
-  - [ ] **UAT item:** Selected files are uploaded.  
-- Review information enter in this form.
+- Review information enter in this form
   - [ ] **UAT item:** Accordions are present and contain correct information.
-  - [ ] **UAT item:** Edit function allows corrections.
-- Review privacy statement and submit the form.
+  - [ ] **UAT item:** Edit function allows corrections
+- Review privacy statement and submit the form
   - [ ] **UAT item:** Form submits and user is presented with confirmation screen.
 
 ## Wrap-up
 That is the end of what we're testing. Do you have any questions or comments about the new 686?
 
-[ We may need to let the participant know how processing will go, or what their next steps might be. We will get input from business on what info or guidance we can give the user. ] 
+(We may need to let the participant know how processing will go, or what their next steps might be. We will get input from business on what info or guidance we can give the user.) 
 
 ## Closing
 Thank you so much for taking the time to run through the new 686! Your help is critical to or team's effort to improve Veterans' online experiences--and VA.gov in particular. Enjoy the rest of your day!
