@@ -38,12 +38,14 @@
  
 ### Campaign landing page MVP
 
-Status of Sprint 21
-Sprint 22 backlog refinement
-
+ * CMS Team Sprint 21 update and Sprint 22 priorities
+ * FE documentation
+ * Event teaser design & content model
+ 
 ### Resources & support
 
-TBD
+ * Curating taxonomy terms to R&S homepage
+ * Taxonomy term listing bugs
 
 ### Other? 
  
