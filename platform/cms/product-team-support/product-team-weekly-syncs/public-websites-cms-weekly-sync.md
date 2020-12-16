@@ -44,7 +44,6 @@
 
 ## Wednesday Dec 16 10am ET
  
- * Holiday schedules for this meeting 
  
 ### Resources & support 1.1
 
@@ -55,6 +54,11 @@ CMS work for MVP 1.1 will be done this sprint
  * Add non-beneficiaries tags (in PR)
  
 One tech debt issue slated for enxt sprint. 
+
+
+### Other
+ * Holiday schedules for this meeting 
+
 
 ### Campaign landing page MVP
 
