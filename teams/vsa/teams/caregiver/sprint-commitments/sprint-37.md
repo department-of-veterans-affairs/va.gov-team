@@ -30,9 +30,15 @@
 |        | 3  | [Testing and production release of background processing on 10-10CG](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17538)
 |        | 5  | Research: backend changes to support 10-10EZ address additions (+ generate tickets) |
 |        |TBD | Backend changes needed to support 10-10EZ address additions |
-|        |  5 |[Add support for recent medical facility changes to 10-10CG schema](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16883)
-|        |  5 |[Timestamp research on the 10-10EZ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16876)
+|        |  5 |[Add support for "medical facility where you last recieved care" decoupling to 10-10CG schema](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16883)
 |        |  5 |[Connect to CARMA via review instance](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15881)
+|        |  U |[Set up Sentry Alerts for 10-10CG in Slack](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16875) |  
+
+### Stretch 
+
+| Status | Points | User story | Notes |
+| ------ | :------: |----------- |------ |
+|        |  5 |[Timestamp research on the 10-10EZ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16876)
 |        |  5 |Tech debt: [Remove CARMA::Models::Base for more explicit hard-coded #to_request_payload methods](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16129)
 |        |  3 |Tech debt: [Add mocks for Metadata in CARMA::Models::Submission spec](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16130)
 |        |  U |Tech debt: [Rescue from MVI::Errors::DuplicateRecords error on MPI](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17163)
@@ -40,7 +46,6 @@
 |        |  5 |Tech debt: [Do not raise errors of MPI Search on caregivers for 10-10CG](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14309)
 |        | 13 |Tech debt: [Refactor MVI Lookup in Form1010cg::Service to not build a UserIdentity](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9083)
 |        |  8 |Tech debt: [Remove data validation for user-requested 10-10CG PDF download](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14287)
-|        |  U |[Set up Sentry Alerts for 10-10CG in Slack](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16875) |  
 
 
 ## Design
