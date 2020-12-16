@@ -1,0 +1,138 @@
+
+# DiariesWebService
+
+The Diaries Web Service is one of the BGS Awards Web Services.  This service is used to find the Diaries information. 
+
+Methods
+- readHistoricalAndPendingDiaries: read historical and pending diaries information
+- readDiaries: read diaries information
+- updateDiaries: update diaries information
+
+\* **Note**: The DiariesWebService is currently not exposed as an external service. This needs to be exposed in order to be utilized by VA.gov (vets-api).
+
+<br>
+
+## Prerequisites
+
+The following information is required in order to read and update the diary entries:
+
+ | AwardKeyInput | Description            |
+ | ------------- | ---------------------- |
+ | awardType     | Type of award          |
+ | beneficiaryID | Beneficiary Identifier |
+ | veteranID     | Veteran Identifier     |
+
+<details>
+<summary>Award Types</summary>
+<br>
+Check with Steve/Jason...can we post the list of award types here?  
+</details>
+
+### Considerations
+- Need to determine which Award Types we need to verify
+  - CPDC, CDPS, CPDP(?), CPL(?)
+  - How do we determine this/get a definitive answer?
+- We can get the beneficiary IDs from the View Dependents service VA.gov is currently using
+- We do not currently have a way to get the Award Type
+  - Can we use the "relationship" that is returned in View Dependents
+  - ex. "spouse" relationship would be award type "CPDS"?
+- Is there a service that returns both Award Type and Beneficiary ID?
+
+<br>
+
+## readDiaries
+For each dependent returned in the list of View Dependents,
+1. Send a request to `readDiaries` with required fields `awardType`, `beneficiaryID`, `veteranID`.
+2. Filter list of diary entries, we only want where diaryReasonType = '24'
+3. For each of those records (assuming only one?), check diaryDueDate
+   - What happens if more than one record with diaryReasonType 24/is this possible
+      - Use latest date?  
+4. Use some business logic to determine if dependency verification/update is required based on the diaryDueDate and currentDate
+5. If update/verification is required, create a diary record with the response info
+
+<details>
+<summary>readDiariesResponse</summary>
+<br>
+
+The DiaryResponse includes information about error level, dependency decisions, and diaries.  The diaries contains a list of diary entries.  
+
+ex Diary:
+```
+    <Diary>
+        <awardDiaryID>60147</awardDiaryID>
+        <awardEventID>523390</awardEventID>
+        <awardType>CPDS</awardType>
+        <beneficaryID>123456</beneficaryID>
+        <diaryDueDate>2016-02-01T00:00:00-06:00</diaryDueDate>
+        <diaryLcStatusType>PEND</diaryLcStatusType>
+        <diaryLcStatusTypeDescription>Pending</diaryLcStatusTypeDescription>
+        <diaryReasonType>24</diaryReasonType>
+        <diaryReasonTypeDescription>Issue Dependency Verification Form</diaryReasonTypeDescription>
+        <firstNm>jane</firstNm>
+        <lastName>smith</lastName>
+        <modifiedAction>U</modifiedAction>
+        <modifiedBy>s125rpa</modifiedBy>
+        <modifiedDate>2016-02-01T07:35:35-06:00</modifiedDate>
+        <modifiedLocation>283</modifiedLocation>
+        <modifiedProcess>Diary 24 Testing</modifiedProcess>
+        <payeeType>10</payeeType>
+        <ptcpntDiaryID>819123</ptcpntDiaryID>
+        <statusDate>2010-05-10T08:21:48-05:00</statusDate>
+        <veteranID>819444</veteranID>
+    </Diary>
+```
+</details>
+
+<br>
+
+## updateDiaries
+
+The following is the list of fields that need to be sent as the Diary Input when updating a diary entry:
+<details>
+<summary>updateDiaries</summary>
+<br>
+
+    AwardKeyInput
+        awardType
+        beneficiaryID
+        veteranID
+    <!--Zero or more repetitions:-->
+    DiaryInput
+        awardDiaryID
+        awardEventID
+        awardType
+        beneficaryID
+        diaryDueDate
+        diaryLcStatusType
+        diaryLcStatusTypeDescription
+        * diaryObsoleteIndicator
+        diaryReasonType
+        diaryReasonTypeDescription
+        * evrStatusType
+        * fileNumber
+        firstNm
+        lastName
+        * middleName
+        modifiedAction
+        modifiedBy
+        modifiedDate
+        modifiedLocation
+        modifiedProcess
+        payeeType
+        ptcpntDiaryID
+        * remarksText
+        * salutation
+        statusDate
+        * suffix
+        veteranID
+
+</details>
+
+1. For each dependent, get the diary record that we created
+2. Update modifiedAction, modifiedBy, modifiedDate, modifiedLocation, modifiedProcess, diaryDueDate?, any other fields
+   - How do we determine what fields should be updated/how do we get a definitive answer?
+3. Send entire diary record that we created
+   - What about fields not in the diary response that are part of the update diary input (marked with an asterisk in the list above)?
+
+
+
