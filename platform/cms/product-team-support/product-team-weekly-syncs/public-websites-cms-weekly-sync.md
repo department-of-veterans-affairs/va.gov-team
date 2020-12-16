@@ -38,6 +38,8 @@
 
 ### Campaign landing page MVP
 
+- Review notes from John and Randi from content entry
+
 ### Resources & support
 
 ### Other
@@ -53,7 +55,7 @@ CMS work for MVP 1.1 will be done this sprint
  * Taxonomy term listing bugs (done, pending some confirmation)
  * Add non-beneficiaries tags (in PR)
  
-One tech debt issue slated for enxt sprint. 
+One tech debt issue slated for next sprint. 
 
 
 ### Other
@@ -72,6 +74,7 @@ One tech debt issue slated for enxt sprint.
    * Event teaser design & content model
  * CMS Team Sprint 21 update and Sprint 22 priorities
     * Content model documentation for FE devs not complete, may not be finished this sprint. What level of fidelity do we want?  
+      * Decision: for now, we have enough fidelity, and will add more during a "FE support" phase. 
  
 
 ### Other? 
