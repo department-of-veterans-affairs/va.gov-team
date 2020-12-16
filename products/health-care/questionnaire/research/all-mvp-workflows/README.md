@@ -16,7 +16,7 @@
 | [P02]() | Monday, Dec. 14 Noon - 1 pm EST | Attended | Android | Veteran | Male | - | - | - | - | - | Yes | Yes | - |
 | [P03]() | Tuesday, Dec. 15 3 - 4 pm EST | Attended | Computer | Veteran | Male | White or Caucasian | 65-74 | Master's degree | Coast Guard | OK | Yes | Yes | Rural |
 | [P04]() | Wednesday, Dec. 16 2 - 3 pm EST | Attended | iOS | Veteran, Veteran's Family Member | Female | White or Caucasian | 25-34 | Bachelor's degree | Army | VA | No | Yes | - |
-| [P05]() | Wednesday, Dec. 16 3 - 4 pm EST |  | Android | Caregiver | Female | - | 45-54 | - | - | CA | No | Yes | - |
+| [P05]() | Wednesday, Dec. 16 3 - 4 pm EST | Attended | Android | Caregiver | Female | - | 45-54 | - | - | CA | No | Yes | - |
 | [P06]() | Thursday, Dec. 17 9 - 10 am EST |  | Computer | Veteran | Male | Black of African American | 45-54 | Master's degree | Army | MD | Yes | Yes | Urban |
 | [P07]() | Thursday, Dec. 17 10 - 11 am EST |  | Android | Veteran | Male | American Indian or Alaska Native | 65-74 | Some college (no degree) | Air Force | CA | No | No | Urban |
 | [P08]() | Thursday, Dec. 17 3 - 4 pm EST |  | Computer | Service member | Female | White or Caucasian | 45-54 | Master's degree | Army | HI | - | - | - |
