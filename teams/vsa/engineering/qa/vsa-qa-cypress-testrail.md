@@ -1,6 +1,6 @@
 # VSA-QA Cypress-TestRail integration
 
-**[WIP]**
+**[Work In Progress]**
 
 ## Who, what, when, where, why?
 
@@ -73,4 +73,7 @@ For each .cypress.spec.js file, add the TestRail Test Case's IDs to the start of
 2. At the beginning of each test-title (`it('my-test-title', () => {})`), type **C**, and then the **ID** of the corresponding TestRail Test Case you scaffolded.  E.g., your Cypress test title `it('renders Learn More link', () => {...})` has a corresponding TestRail test case with ID 1059, so prepend "C1059 " to your Cypress test title -- `it('C0159 renders Learn More link'), () => {...})` 
 
 </details>
+
+## See also
+[End-to-end testing](vsa-qa-e2e-testing.md)
 
