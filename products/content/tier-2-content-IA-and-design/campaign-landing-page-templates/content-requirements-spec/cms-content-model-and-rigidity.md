@@ -43,10 +43,14 @@ Examples:
 - Family caregivers
 - Transitioning service members
 
+**Update December 16** Add a new non-controlled Audience vocabulary. New field to allow between one and 3 audiences. 
+
 
 **Q:** Share on Social media: it's indicated as optional, so should that just be a boolean? Under what circumstances would an editor _not_ want social media links?
 
 **A:** Yes,**absolutely** make it boolean/optional.
+
+**Update December 16:** this will be hardcoded on FE. 
 
 ## 3. What you can do (required)
 
