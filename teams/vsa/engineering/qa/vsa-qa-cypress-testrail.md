@@ -20,9 +20,27 @@
 
 ## How?
 
+### VSP-QA's process
+
+For now, start w/ [VSP's basic process](/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/e2e-testing/cypress-testrail-reporter-config.md).
+
+The **basic** process is suitable for reporting E2E test results at the beginning of your product/feature build -- **before** you start making changes -- to generate regression-test QA artifacts for [VSP Usability Testing Prep](/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#usability-testing-prep).
+
+The cypress-testrail-reporter (CTR) package makes some assumptions about your E2E files and TestRail test-cases:
+- each E2E spec-file has a corresponding Section (Group) of TestRail test-cases.  If you have 3 E2E spec-files, you should have 3 TestRail test-case Sections.
+- each E2E spec-file generates a separate TestRail test-run.  If you have 3 E2E spec-files, you'll end up with 3 separate TestRail test-runs.
+
+This might not be a perfect fit with our existing spec-file organization or reporting needs, and your feedback is strongly encouraged.
+
+### VSA-QA process
+
+**[NOT READY for implementation]**
+
+When this VSA-QA process is finalized and implementable, you'll be notified.  The major differences from the VSP-QA process above is supplementing cypress-testrail-reporter with custom Cypress-TestRail integration scripts that better suit our existing E2E spec-file organization and TestRail plan/run/case organization.
+
 ### 1. Get your TestRail API Key
 
-First obtain your VSA Product Team's TestRail credentials from your Product Manager, then just follow [VSP's procedure](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/e2e-testing/cypress-testrail-reporter-config.md#testrail-api-key).
+First obtain your VSA Product Team's TestRail credentials from your Product Manager, then just follow [VSP's procedure](/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/e2e-testing/cypress-testrail-reporter-config.md#testrail-api-key).
 
 ### 2. Determine your VSA Product Team's TestRail Project/Suite IDs
 
@@ -63,7 +81,7 @@ Other values you'd need are your TestRail test cases' Section or Group IDs, whic
 1. Within **Automated** sectionCreate Test Cases corresponding to your product's E2E tests, one Case for each test (`it('...', () => {...})`) within each .cypress.spec.js file, setting it's Type to **Automated**. No need to create any Steps inside the Case -- these Cases are merely TestRail "stubs" for associating your E2E test results.
 </details>
 
-### 2. Prepend Case IDs to E2E test titles
+### 4. Prepend Case IDs to E2E test titles
 
 For each .cypress.spec.js file, add the TestRail Test Case's IDs to the start of your E2E test titles.
 
