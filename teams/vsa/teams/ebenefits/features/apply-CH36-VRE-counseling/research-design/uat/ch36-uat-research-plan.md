@@ -6,12 +6,22 @@
 ---
 
 ### Background
+The Chapter 36 (CH36) program, Personalized Career Planning and Guidance (PCPG), provides career, educational and adjustment counseling to Veterans, service members or their qualifying dependents. To receive these benefits, users must complete and submit VA Form 28-8832.
 
 ### Goals
+The goal of User Accepatnce Testing (UAT) is to determine if the new PCPG forms and wizards are intuitive and functional for users needing to submit either form VA 28-8832.
 
 ### Method
+Participants needed to submit a 28-8832 will be recruited and given access to the new form on VA.gov. We'll moderate UAT remotely using Zoom. Users will step through the screening wizard, then complete the form--either authenticated or unauthenticated. Remote observers may be in attendance.
 
 #### Success criteria
+
+Users will:
+- Step through the screening wizard (Optional)
+- Enter the form
+- Navigate the form
+- Review and submit form
+- Form will successfully submit for processing
 
 #### The process
 
