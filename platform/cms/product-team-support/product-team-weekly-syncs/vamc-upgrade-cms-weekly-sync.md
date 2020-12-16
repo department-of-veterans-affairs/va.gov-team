@@ -28,13 +28,13 @@ Agenda
 - Erie dual state launch
 
   
+## Wednesday Dec 30 2:30pm ET
+
+Meeting cancelled. 
+
 ## Wednesday Dec 23 2:30pm ET
 
-No meeting
-
-## Wednesday Dec 23 2:30pm ET
-
-Clarence will facilitate.
+Kevin OOO; Clarence will facilitate.
 
 Agenda
 
