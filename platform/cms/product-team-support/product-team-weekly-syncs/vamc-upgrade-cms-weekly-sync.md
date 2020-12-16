@@ -23,13 +23,13 @@
   
   
 ## Wednesday Dec 16 2:30pm ET
- 
-1. Migration
-1. VAMC Scaffolding
+
+1. Holiday schedules for this meeting
 1. Training
 1. User administration
 1. Dual state and product launches
-1. How we work
+1. Migration
+1. VAMC Scaffolding
 
 ### Other? 
  
