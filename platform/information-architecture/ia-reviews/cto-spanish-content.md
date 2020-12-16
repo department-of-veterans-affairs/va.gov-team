@@ -47,7 +47,7 @@ Approach/recommendations:
 
 **Priority** | **Placement** | **Link to/Destination** | **Notes**
 --- | --- | --- | ---
-Must | Health care hub left nav |  www.va.gov/health-care/covid-19-vaccine-esp/ | Link should be placed directly after the English Covid vaccine option, and at the same level as the English page (not a child/indented). 
+Must | Health care hub left nav |  www.va.gov/health-care/covid-19-vaccine-esp/ | Link should be placed directly after/below the English Covid vaccine option, and at the same level as the English page (not a child/indented). 
 
 
 ## <a name="redirects"></a>Redirects <br>
