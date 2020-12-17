@@ -1,4 +1,4 @@
-# Dec. 8 Primary care physician in DC area #
+# Dec. 8 Primary care physician #
 
 ## Key Takeaways ##
 - Spends approximately the first ten minutes of each appointment determine why the patient came in today and what they want to get out of the appointment.
