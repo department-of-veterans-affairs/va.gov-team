@@ -3,7 +3,7 @@
  ## Overview
 
 A set of standard methods for how VSP engages with customers across communication channels and touchpoints to provide a consistent and positive experience where VFS 
-teams get what seems like simple, straightforward answers to a variety of complex questions via documentation, interactions in Slack, or the tools and shared code that accelerates their work.
+teams get what seems like simple, straightforward answers to a variety of complex questions via documentation, interactions in Slack, or tools and shared code that helps accelerate their work.
 
  ## Problem Statement
 
