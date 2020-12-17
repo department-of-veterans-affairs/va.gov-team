@@ -3,7 +3,7 @@
 ## Intro
 Thanks for joining us today! My name is Megan. I also have some colleagues on the line listening and taking notes. Today we'll be talking about VA.gov’s search feature. We're trying to learn about veteran’s experiences finding VA related information.
 Before we get started, I want to give you an idea of what this call will be like:
-- This entire session should take about 30 minutes.
+- This entire session should take about 50 minutes.
 - This session is going to resemble an interview where I will ask you many questions about your experience with finding VA-related information. There are no right or wrong answers, this is purely to understand actual client experiences. If at any time you don't feel comfortable answering a question, we can move on to the next question.
 - Later, I'll ask that you share your screen while you find certain items on VA.gov.
 - In this session, we want to hear your honest opinions. We are not testing you, instead we are testing our products and services to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
@@ -20,7 +20,7 @@ Start recording to the Cloud
 ##Past Experience
 - Can you tell me about a time recently when you were looking for information related to federal VA benefits? What were you looking for and how did you try to find that information? 
 - Were you successful in finding what you were looking for? 
-- Did you encounter any problems when looking for this information?
+- What could have been better about this experience?
 
 ##VA.gov screensharing 
 
@@ -29,8 +29,8 @@ Start recording to the Cloud
 [screen sharing instructions] 
 
 - Send link to staging.va.gov
-
-- Can you show me how you would go about finding more information about [education] benefits?
+- [If they haven't mentioned VA.gov]Are you familiar with this site? [If yes] Can you tell me about the last time you used this site?
+- Can you show me how you would go about finding more information about [education] benefits? (replace education with what the participant has mentioned previously)
     - [If they cannot think of anything to look up] Just as an example, if you were wondering if you were eligible for dental benefits, how would you locate that information?
 If you were looking for a specific form, form 10-10EZ, how would you locate it on this site?
 
@@ -50,6 +50,8 @@ If you were looking for a specific form, form 10-10EZ, how would you locate it o
 
 Those are all the questions that I had for you today.
 - Do you have any questions for me or is there anything else that you think that I should know?
+
+
 
 
 
