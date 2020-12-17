@@ -275,7 +275,7 @@ by passing back the `meta.validationKey` in the new/update request.
 #### Request
 ```json
 {
-  validationKey: 377261722,
+  "validationKey": 377261722,
   "addressLine1": "4200 Weasel Rd",
   "addressType": "DOMESTIC",
   "city": "Columbus",
