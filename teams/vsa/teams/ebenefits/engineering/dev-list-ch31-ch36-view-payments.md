@@ -10,7 +10,7 @@ Ascertain remaining tasks for these features
 
 ## View my VA Representative
 ### Product
-- Request formal 508 audit (1)  (Now happening in staging review)
+- Request formal 508 audit (1)  (Now happening post staging review)
 - Load TestRail (2)  
 - 🌀 Request QA Audit (1) 
 - 🌀 Usability Prep and sessions (2)
