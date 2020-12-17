@@ -26,4 +26,4 @@ Can also print this page.
 This feature is going to be found in the careers and employment hub under the career planning and guidance section.
 
 **02:24**
-And that's it, so thank you very much.
+And that's it, thank you very much.
