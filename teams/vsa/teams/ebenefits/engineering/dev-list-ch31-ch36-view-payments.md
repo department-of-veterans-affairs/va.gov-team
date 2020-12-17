@@ -179,9 +179,9 @@ BE Subtotal (79-84)
 - 🌀 UAT (2)
 
 ### Building View VA Rep
-- [15545](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15545) Initial feature scaffolding
-- [15549](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15549) First pass at custom view components
-- [15551](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15551) Initial Redux code for API calls
+- ✔ [15545](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15545) Initial feature scaffolding
+- ✔ [15549](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15549) First pass at custom view components
+- ✔ [15551](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15551) Initial Redux code for API calls
 - [15552](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15552) Refine custom view components to better match mockup
 - [15553](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15553) Unit tests for Redux implementation
 - [15555](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15555) Unit tests for custom view component
