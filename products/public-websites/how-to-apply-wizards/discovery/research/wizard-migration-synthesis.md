@@ -1,4 +1,4 @@
-# DRAFT: Wizard Migration Usability Study Synthesis
+# Wizard Migration Usability Study Synthesis
 **Digital Services Veterans Affairs (DSVA), VSA, Public Websites**<br>
 
 Josh Kim (josh.kim@adhocteam.us), Megan Gayle (mgayle@governmentcio.com), 11/11/2020
