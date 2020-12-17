@@ -96,3 +96,122 @@ In this case the address object in the meta data should be passed along in that 
   }
 }
 ```
+
+## Multiple match addresses
+
+### POST /v0/user/addresses/validate
+#### Request
+```json
+{
+  "addressLine1": "37 1st st",
+  "addressType": "DOMESTIC",
+  "city": "Brooklyn",
+  "countryName": "United States",
+  "countryCodeIso3": "USA",
+  "stateCode": "NY",
+  "zipCode": "11249",
+  "type": "DOMESTIC",
+  "addressPou": "CORRESPONDENCE",
+}
+```
+
+#### Response
+In this case two address matches are returned and should be displayed to the user so they can pick
+which they'd like to use. As above the `meta.address` object is passed along in the new/update request.
+```json
+{
+  "data": [
+    {
+      "id": "56c30b81-9162-4f64-86ce-e7eaa3ae0327",
+      "type": "suggested_address",
+      "attributes": {
+        "addressLine1": "37 N 1st St",
+        "addressLine2": null,
+        "addressLine3": null,
+        "addressPou": "CORRESPONDENCE",
+        "addressType": "DOMESTIC",
+        "city": "Brooklyn",
+        "countryCodeIso3": "USA",
+        "internationalPostalCode": null,
+        "province": null,
+        "stateCode": "NY",
+        "zipCode": "11249",
+        "zipCodeSuffix": "3939"
+      },
+      "meta": {
+        "address": {
+          "confidenceScore": 100.0,
+          "addressType": "Domestic",
+          "deliveryPointValidation": "UNDELIVERABLE"
+        },
+        "validationKey": -73046298
+      }
+    },
+    {
+      "id": "671e752c-3292-4a2b-8747-d42b2bd56055",
+      "type": "suggested_address",
+      "attributes": {
+        "addressLine1": "37 S 1st St",
+        "addressLine2": null,
+        "addressLine3": null,
+        "addressPou": "CORRESPONDENCE",
+        "addressType": "DOMESTIC",
+        "city": "Brooklyn",
+        "countryCodeIso3": "USA",
+        "internationalPostalCode": null,
+        "province": null,
+        "stateCode": "NY",
+        "zipCode": "11249",
+        "zipCodeSuffix": "4101"
+      },
+      "meta": {
+        "address": {
+          "confidenceScore": 100.0,
+          "addressType": "Domestic",
+          "deliveryPointValidation": "CONFIRMED",
+          "residentialDeliveryIndicator": "MIXED"
+        },
+        "validationKey": -73046298
+      }
+    }
+  ]
+}
+```
+
+### PUT /v0/user/addresses
+#### Request
+```json
+{
+  "addressMetaData": {
+    "confidenceScore": 100.0,
+    "addressType": "Domestic",
+    "deliveryPointValidation": "CONFIRMED",
+    "residentialDeliveryIndicator": "MIXED"
+  },
+  "addressLine1": "37 S 1st St",
+  "addressPou": "CORRESPONDENCE",
+  "addressType": "DOMESTIC",
+  "city": "Brooklyn",
+  "countryCodeIso3": "USA",
+  "stateCode": "NY",
+  "zipCode": "11249",
+  "zipCodeSuffix": "4101"
+  "id": 181513
+}
+```
+
+#### Response
+```json
+{
+  "data": {
+    "id": "",
+    "type": "async_transaction_vet360_address_transactions",
+    "attributes": {
+      "transactionId": "b2e51260-00c9-4db6-80f6-b6c7541a9e54",
+      "transactionStatus": "COMPLETED_SUCCESS",
+      "type": "AsyncTransaction::Vet360::AddressTransaction",
+      "metadata": []
+    }
+  }
+}
+```
