@@ -64,7 +64,7 @@ At least:
 - Have they taken Tdap (tetanus, diphtheria, and pertussis) vaccine / Tdap booster?
 
 ## Recruitment Process
-- Number of participants should be at least 15. 
+- Number of participants should be at least 15. To account for high rate of abandonment.
 - Researcher will work with Perigean to draft recruitment email and send out an interest email to Veterans
 - Perigean sends another recruitment email (if needed)
 
