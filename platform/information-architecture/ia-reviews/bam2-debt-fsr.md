@@ -19,14 +19,16 @@
 ## <a name="ia"></a>IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements.*
 
-![image](https://user-images.githubusercontent.com/20994159/101087852-74fcbc00-3578-11eb-9520-7cc6b9dfa633.png)
+- The online FSR will become another tool available within the "Manage VA Debt" experience.  The form will live as a child to the [Manage VA debt static page](www.va.gov/manage-va-debt/).
+- All content within the current www.va.gov/debtman/ experience will be migrated over.  Some content will be added to the existing [Manage VA debt static page](www.va.gov/manage-va-debt/), and other content will be moved/created within the [Resources and support experience](www.va.gov/resources/). 
+
+![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/f4d918d8-92f9-4675-ab26-3632f2074304)
 
 
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
 Online FSR form | www.va.gov/manage-va-debt/[form-name] | Home > Manage VA debt > [H1] | Final URL slug and breadcrumb component TBD based on content work
-
-All learning center pages will be defined and published by Public Websites team
+Resources and support content pages | --- | --- | These pages will be defined and published by Public Websites team
 
 ## <a name="nav"></a>Navigation and Entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
@@ -34,9 +36,9 @@ All learning center pages will be defined and published by Public Websites team
 Priority | Placement | Link to | Description
 --- | --- | --- | ---
 Must | [Manage VA debt static content page](www.va.gov/manage-va-debt/)   |  www.va.gov/manage-va-debt/[form-name] | 
-Consider | [Records hub page](www.va.gov/records/) | TBD | 
-Consider | Records top nav | |
-Consider | Records left nav | |
+Consider | [Records hub page](www.va.gov/records/) | www.va.gov/manage-va-debt/ | Recommendation: Add an option to "Manage your VA debt" option after the view payments option.
+Consider | Records top nav | www.va.gov/manage-va-debt/ | Recommendation: Move the "Request military records" option to the "Get records" column after the home loan COE option.  Add this option to "Manage your VA debt" to the "Manage" column after the view payments option.  
+Consider | Records left nav | www.va.gov/manage-va-debt/ |  Recommendation: Add an option to "Manage your VA debt" option after the view payments option.
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
@@ -46,22 +48,23 @@ Consider | Records left nav | |
 
 URL | Redirect to | Notes
 --- | --- | ---
-https://www.va.gov/debtman/If_You_Owe_VA.asp | TBD | 
-https://www.va.gov/debtman/Payment_Options.asp | TBD | 
-https://www.va.gov/debtman/Submit_Compromise_Offer.asp | TBD | 
-https://www.va.gov/debtman/Submit_A_Waiver_Request.asp | TBD | 
-https://www.va.gov/debtman/Financial_Status_Report.asp | TBD | 
-https://www.va.gov/debtman/Debt_Referral.asp | TBD | 
-https://www.va.gov/DEBTMAN/Most_Frequently_Asked_Questions.asp | TBD | 
-https://www.va.gov/DEBTMAN/Frequently_Asked_Questions.asp | TBD | 
-http://www.va.gov/ogc/apps/accreditation/index.asp  | TBD | 
-https://www.va.gov/debtman/Whom_To_Call.asp | TBD | 
-https://www.va.gov/debtman/site_search.asp | TBD | 
-https://www.va.gov/debtman/Site_Map.asp | TBD | 
+https://www.va.gov/debtman/ | www.va.gov/manage-va-debt/ | 
+https://www.va.gov/debtman/About_Us.asp | www.va.gov/manage-va-debt/ | 
+https://www.va.gov/debtman/If_You_Owe_VA.asp | www.va.gov/manage-va-debt/ | 
+https://www.va.gov/debtman/Payment_Options.asp | www.va.gov/manage-va-debt/ | 
+https://www.va.gov/debtman/Submit_Compromise_Offer.asp | www.va.gov/manage-va-debt/ | 
+https://www.va.gov/debtman/Submit_A_Waiver_Request.asp | www.va.gov/manage-va-debt/ | 
+https://www.va.gov/debtman/Financial_Status_Report.asp | www.va.gov/manage-va-debt/ | 
+https://www.va.gov/debtman/Debt_Referral.asp | TBD  | Resources and support article
+https://www.va.gov/debtman/Most_Frequently_Asked_Questions.asp | TBD | Resources and support article
+https://www.va.gov/debtman/Frequently_Asked_Questions.asp | TBD | Resources and support article
+https://www.va.gov/debtman/Whom_To_Call.asp | TBD | Resources and support article
+https://www.va.gov/debtman/site_search.asp | www.va.gov/manage-va-debt/ | 
+https://www.va.gov/debtman/Site_Map.asp | www.va.gov/manage-va-debt/ | 
 
 
 
-Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
+**Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
 *For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
 
 
