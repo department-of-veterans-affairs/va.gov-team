@@ -30,14 +30,15 @@ The Facilities needs a better understanding of how veterans expect to find healt
 - When they get a vaccine, is it part of primary care (eg. VA visit)? Pharmacy visit? Town hall or other community-based vaccination program?
 - How many times in the last 5 years have they had the flu shot?
 - (If over age of 55) Do they plan to or did they take the shingles vaccine?
-- Have they taken Tdap (tetanus, diphtheria, and pertussis) vaccine / Tdap booster?
+- Have they taken Tdap (tetanus, diphtheria, and pertussis) vaccine / Have they taken Tdap booster?
 
 ## Method
 
 - Moderated hybrid card sort. This method allows participants to select the location within the taxonomy where they expect to find vaccination services information. Participants may also create their own section within the taxonomy if they feel it is appropriate.
   - Using a card sort, 3 tasks will be given to account for real-world scenarios. Where would they expect to see information on: 
   1. Annual flu shot
-  2. Tdap/Tdap booster, shingles vaccine
+  2. Tdap/Tdap booster
+  4. Shingles vaccine
   3. COVID-19 vaccine
 - Moderation will provide opportunity for qualitative discovery through follow-up questions.
 
