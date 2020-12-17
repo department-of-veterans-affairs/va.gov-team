@@ -12,11 +12,13 @@ The Facilities needs a better understanding of how veterans expect to find healt
 ### Questions to be answered by research results 
 - Where in the VHA service taxonomy do Veterans expect vaccination services to be found?
   - For example, do they expect to find it under primary care, with pharmacy (related to "medication"), under a particular specialty; or within a taxon named "Vaccination" (or similar)?
+  
+### Follow up questions
+
   - What words do Veterans use when searching for vaccination-related services?
   - What words do Veterans use when searching - such as vaccine/vaccination vs immunization vs shot?
   - Flu or influenza
   - Coronavirus vs COVID
-- Have they had any vaccines in the last 10 years?
 - Does the expectation change based on the type of vaccination?
   - Age-based (such as shingles or pneumococcal)
   - Risk-based (such as pneumococcal)
@@ -24,17 +26,15 @@ The Facilities needs a better understanding of how veterans expect to find healt
   - Time or incident-based (such as Tdap, Tdap Boosters)
   - COVID vaccination
   - COVID testing
-- When they get a vaccine, is it part of primary care (eg. VA visit)? Pharmacy visit? Town hall or other community-based vaccination program?
-- How many times in the last 5 years have they had the flu shot?
-- (If over age of 55) Do they plan to or did they take the shingles vaccine?
-- Have they taken Tdap (tetanus, diphtheria, and pertussis) vaccine / Tdap booster?
-
 
 ## Method
 
-- Moderated hybrid card sort. This method will allow the participants to easily choose the location(s) within the taxonomy where they expect to find vaccination services information. 
-- Using a card sort, multiple tasks can be given to account for real-world scenarios (e.g. annual Flu shot, COVID-19 vaccination, etc.)
-- Moderation will provide opportunity for qualitative discovery through follow-up questions
+- Moderated hybrid card sort. This method allows participants to select the location within the taxonomy where they expect to find vaccination services information. Participants may also create their own section within the taxonomy if they feel it is appropriate.
+  - Using a card sort, 3 tasks to be given to account for real-world scenarios. Where would they expect to see information on: 
+  1. Annual flu shot
+  2. Tdap/Tdap booster, shingles vaccine
+  3. COVID-19 vaccine
+- Moderation will provide opportunity for qualitative discovery through follow-up questions.
 
 ## Participants (Preliminary - in Progress)
 
@@ -57,6 +57,11 @@ At least:
 - 2 participants 66 - over
 - 2 participants with cognitive disabilities
 - 2 participants with a disability rating of 70% or greater
+- Have they had any vaccines in the last 10 years?
+- When they get a vaccine, is it part of primary care (eg. VA visit)? Pharmacy visit? Town hall or other community-based vaccination program?
+- How many times in the last 5 years have they had the flu shot?
+- (If over age of 55) Do they plan to or did they take the shingles vaccine?
+- Have they taken Tdap (tetanus, diphtheria, and pertussis) vaccine / Tdap booster?
 
 ## Recruitment Process
 - Number of participants should be at least 15. 
