@@ -16,7 +16,7 @@ When the participant is ready, begin the session with the following intro*
  
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Marian Adly and I also have some colleagues on the line observing and taking notes. Today we're going to talk about your thoughts on the COVID-19 vaccine and how you would like to receive information and updates on the vaccine in the months to come.  
+Thanks for joining us today! My name is Lauryl Zenobi and I also have some colleagues on the line observing and taking notes. Today we're going to talk about your thoughts on the COVID-19 vaccine and how you would like to receive information and updates on the vaccine in the months to come.  
 
 Before we start, a few things I want to mention:
 - **This entire session should take about 45-60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
