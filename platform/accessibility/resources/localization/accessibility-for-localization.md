@@ -1,5 +1,5 @@
 # Accessibility for localization
-Adding a placeholder to collect notes from early discussion with DEPO Content Lead
+This document is the DEPO Platform reference for localization accessibility best practices. This guidance is written with an emphasis on Spanish as of December 2020.
 
 ## Points to consider
 * Google Translate (and other machine translations) won't automatically translate hidden content that's only for screen readers. And if human translators are only reviewing the visible content on a page, they'll miss it as well. Therefore, we need to incorporate into our translation process a step to check the template/source content and update **aria-label** and screen reader only content.
