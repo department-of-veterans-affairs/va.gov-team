@@ -23,6 +23,8 @@ __1. Emergency banner__
 
 __2. Sitewide system maintenance downtime banner__ 
 
+Design files: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/banners/sitewide-system-downtime-design-files
+
 - Ability to publish: DEPO.
 - Sitewide, including VAMC products. 
 - 2 states: In advance of downtime; and during downtime. 
