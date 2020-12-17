@@ -195,7 +195,96 @@ which they'd like to use. As above the `meta.address` object is passed along in 
   "countryCodeIso3": "USA",
   "stateCode": "NY",
   "zipCode": "11249",
-  "zipCodeSuffix": "4101"
+  "zipCodeSuffix": "4101",
+  "id": 181513
+}
+```
+
+#### Response
+```json
+{
+  "data": {
+    "id": "",
+    "type": "async_transaction_vet360_address_transactions",
+    "attributes": {
+      "transactionId": "b2e51260-00c9-4db6-80f6-b6c7541a9e54",
+      "transactionStatus": "COMPLETED_SUCCESS",
+      "type": "AsyncTransaction::Vet360::AddressTransaction",
+      "metadata": []
+    }
+  }
+}
+```
+
+## Overridding and 'invalid' address
+
+### POST /v0/user/addresses/validate
+#### Request
+
+```json
+{
+  "addressLine1": "4200 Weasel Rd",
+  "addressType": "DOMESTIC",
+  "city": "Columbus",
+  "countryName": "United States",
+  "countryCodeIso3": "USA",
+  "stateCode": "OH",
+  "zipCode": "43202",
+  "type": "DOMESTIC",
+  "addressPou": "CORRESPONDENCE"
+}
+```
+
+#### Response
+This response comes back with a 0% confidence score. We can let the user override the validation
+by passing back the `meta.validationKey` in the new/update request.
+```json
+{
+  "data": [
+    {
+      "id": "6ba2f94b-c143-40da-8c5d-a76a637945b5",
+      "type": "suggested_address",
+      "attributes": {
+        "addressLine1": "4200 Weasel Rd",
+        "addressLine2": null,
+        "addressLine3": null,
+        "addressPou": "CORRESPONDENCE",
+        "addressType": "DOMESTIC",
+        "city": "Columbus",
+        "countryCodeIso3": "USA",
+        "internationalPostalCode": null,
+        "province": null,
+        "stateCode": "OH",
+        "zipCode": "43202",
+        "zipCodeSuffix": null
+      },
+      "meta": {
+        "address": {
+          "confidenceScore": 0.0,
+          "addressType": "Domestic",
+          "deliveryPointValidation": "MISSING_ZIP"
+        },
+        "validationKey": 377261722
+      }
+    }
+  ]
+}
+```
+
+### PUT /v0/user/addresses
+#### Request
+```json
+{
+  validationKey: 377261722,
+  "addressLine1": "4200 Weasel Rd",
+  "addressType": "DOMESTIC",
+  "city": "Columbus",
+  "countryName": "United States",
+  "countryCodeIso3": "USA",
+  "stateCode": "OH",
+  "zipCode": "43202",
+  "type": "DOMESTIC",
+  "addressPou": "CORRESPONDENCE",
   "id": 181513
 }
 ```
