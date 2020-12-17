@@ -407,11 +407,10 @@ On hold this sprint
 
 **Design**
 
-- Mock up first-time user experience
+- Finalize desktop and mobile wireframe
 - LOA1 design
-- Visual design
-- Gather feedback from design team
-- How do we guide people to the new My VA dashboard? #14581
+- Mock up first-time user experience
+- [Design] Submit MyVA wireframes for copy review #17530
 
 **FE**
 
@@ -439,8 +438,9 @@ On hold this sprint
 
 **Design**
 
-- Review visual design with team; Get feedback
-- Finalize visual design
+- Visual design
+- Gather feedback from design team
+- How do we guide people to the new My VA dashboard? #14581
 - Finalize My VA copy
 
 **FE**
@@ -467,6 +467,7 @@ On hold this sprint
 
 **Design**
 
+- Finalize visual design
 - Research plan for usability testing of finalized designs
 - Convo guide for usability testing of finalized designs
 
