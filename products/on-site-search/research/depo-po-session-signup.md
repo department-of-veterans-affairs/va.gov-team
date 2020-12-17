@@ -16,7 +16,7 @@ Outlook calendar invites will be sent to participants.
 |Denise Coveyduc | Denise Coveyduc | Denise Coveyduc |
 |Megan Gayle     | Megan Gayle     | Megan Gayle     |
 |Kevin M. Hoffman| Dror Matalon    | Samara Strauss  |
-|                | Steve Kovacs    |                 |
+|                | Steve Kovacs    | Sabrina Mohamed |
 |                |                 |                 |
 |                |                 |                 |
 |                |                 |                 |
