@@ -12,17 +12,17 @@ Before we get started, I want to give you an idea of what this call will be like
 Start recording to the Cloud
 - I have started recording. I'd like to confirm: Are you comfortable if I record my screen and audio as we talk today?"
 
-##Warmup
+## Warmup
 - To get us started can you tell me briefly about your service history?
 - Are you currently receiving benefits from the VA?
 
 
-##Past Experience
+## Past Experience
 - Can you tell me about a time recently when you were looking for information related to federal VA benefits? What were you looking for and how did you try to find that information? 
 - Were you successful in finding what you were looking for? 
 - What could have been better about this experience?
 
-##VA.gov screensharing 
+## VA.gov screensharing 
 
 - I’m going to send you a link and ask that you share your screen.
 
@@ -42,7 +42,7 @@ If you were looking for a specific form, form 10-10EZ, how would you locate it o
   - How many results do you typically look at?
   - What made you click on that specific link?
   
-##Post-task Interview 
+## Post-task Interview 
 
 - What was your overall experience with VA search like?
 - What worked well? 
