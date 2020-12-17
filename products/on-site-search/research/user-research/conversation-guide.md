@@ -32,7 +32,6 @@ Start recording to the Cloud
 - [If they haven't mentioned VA.gov]Are you familiar with this site? [If yes] Can you tell me about the last time you used this site?
 - Can you show me how you would go about finding more information about [education] benefits? (replace education with what the participant has mentioned previously)
     - [If they cannot think of anything to look up] Just as an example, if you were wondering if you were eligible for dental benefits, how would you locate that information?
-If you were looking for a specific form, form 10-10EZ, how would you locate it on this site?
 
 - [When participant uses search and they are on the search results page:]
 
@@ -41,6 +40,9 @@ If you were looking for a specific form, form 10-10EZ, how would you locate it o
   - Would you prefer to filter or refine search results in some way? By location? Category?
   - How many results do you typically look at?
   - What made you click on that specific link?
+  
+- If you were looking for a specific form, form 10-10EZ, how would you locate it on this site?
+
   
 ## Post-task Interview 
 
