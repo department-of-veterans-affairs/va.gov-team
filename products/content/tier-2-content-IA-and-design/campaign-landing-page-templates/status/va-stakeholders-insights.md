@@ -21,9 +21,11 @@ The goal is to help understand how much rigidity and alternatively flexibility i
 |Question TBD| TBD | TBD |
 
 
+## How To Differentiate Content Tiers and Publishing Modes
+
 | Benefit Hub | Resources & Support | Campaign Landing Page |
 |--|--|--|
-|  |  |  |
+|A Benefit Hub is reserved for Tier 1 content| Resources & Support is reserved for   | A Campaign Landing page is reserved for |
 
 
 
