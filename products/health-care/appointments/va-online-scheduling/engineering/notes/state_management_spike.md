@@ -2,9 +2,9 @@
 
 ## Background
 
-The `vets-website` project was first created around 5 years ago, when one of the best practices of React was to use the now almost-universal state management tool, redux.  Redux solved a major headache of React developers at the time, [prop drilling](https://kentcdodds.com/blog/prop-drilling) and of course introduced a very simple way to access state, using `connect()` .
+The `vets-website` project was first created around 5 years ago, when one of the best practices of React was to use the now almost-universal state management tool, [Redux](https://redux.js.org/).  Redux solved a major headache of React developers at the time, [prop drilling](https://kentcdodds.com/blog/prop-drilling) and of course introduced a very simple way to access state, using `connect()` .
 
-While redux has made it very easy to interact with a global state, it also introduced a few major pain points that we've all become familiar with:
+While Redux has made it very easy to interact with a global state, it also introduced a few major pain points that we've all become familiar with:
 
 * Any changes to or access of state involves interacting with reducers, action creators/types, and dispatch calls, which ultimately results in having to open many files and trace through the code in your head to figure out what's happening and what impact it has on the rest of the codebase
 * Any changes to state will cause all components that consume that value to re-render.  While this is a touted feature of redux, it can cause performance issues
@@ -18,9 +18,29 @@ The purpose of this spike to explore how more modern methods fit into our applic
 2. Is the code clearer than the current action/thunk based code?
 3. Can we access the cached data outside of React? Or is it easy to pass it from React components to places we need?
 
-## How much page weight does adding a new library for this add?
+## Server Cache vs UI State
+One way to reduce the amount of state we store globally is to separate UI from server cache.
 
-For the POC, I user a popular library called [SWR](https://swr.vercel.app/).  Below you'll find an example of an implementation of SWR on the Past Appointments List.  To simplify it a bit, I removed the dropdown code that allows switching date ranges.
+From [Kent Dodd's article](https://kentcdodds.com/blog/application-state-management-with-react): 
+> There are various categories of state, but every type of state can fall into one of two buckets:
+> 
+> 1. Server Cache - State that's actually stored on the server and we store in the client for quick-access (like user data).
+> 1. UI State - State that's only useful in the UI for controlling the interactive parts of our app (like modal `isOpen` state).
+> 
+> We make a mistake when we combine the two. Server cache has inherently different problems from UI state and therefore needs to be managed differently. If you embrace the fact that what you have is not actually state at all but is instead a cache of state, then you can start thinking about it correctly and therefore managing it correctly.
+
+The libraries we are testing in this spike are meant to handle server cache, allowing us to remove it from our Redux store.  Throughout VAOS, we store lots of data as well as loading statuses for that data in Redux that can be instead stored in a cache using these libraries.
+
+## How much page weight does adding a new library for this add?
+The two most popular libraries for managing server cache are:
+1. [React Query](https://react-query.tanstack.com/) (10.5 KB)
+1. [SWR](https://swr.vercel.app/) (5 KB)
+
+A comparison of their features can be found [here](https://react-query.tanstack.com/comparison);
+
+For the POC, I chose to use SWR due to the smaller bundle size.  Below you'll find an example of an implementation of SWR on the Past Appointments List.  To simplify it a bit, I removed the dropdown code that allows switching date ranges.
+
+You can checkout the entire branch here: [https://github.com/department-of-veterans-affairs/vets-website/tree/12525-swr-spike](https://github.com/department-of-veterans-affairs/vets-website/tree/12525-swr-spike)
 
 `useSWR()` accepts 2 arguments, a key and a fetcher function. The fetcher argument expects a promise to be returned, which allows us to use our existing `getBookedAppointments` service, so not much additional weight is added to the page.
 
@@ -45,9 +65,10 @@ import ConfirmedAppointmentListItem from '../cards/confirmed/ConfirmedAppointmen
 export default function PastAppointmentsList() {
   const startOfToday = moment().startOf('day');
 
-  // pastAppointments, error, and isValidating (loading status) come from swr
-  // instead of our redux state.  We also call getBookedAppointments directly
-  // instead going through our action creator
+  // Once our appointments are fetched, fetch additional facility info.  SWR
+  // knows that this facilityData call is dependent on pastAppointments because
+  // a function is passed as the first parameter.  A falsy return value will
+  // prevent this fetch from occurring
   const { data: pastAppointments = [], error, isValidating } = useSWR(
     'pastAppointments',
     () =>
@@ -65,8 +86,9 @@ export default function PastAppointmentsList() {
 
   // Once our appointments are fetched, fetch additional facility info.  SWR
   // knows that this facilityData call is dependent on pastAppointments
-  const { data: facilityData } = useSWR('pastAppointmentsFacilityInfo', () =>
-    getAdditionalFacilityInfo(pastAppointments),
+  const { data: facilityData } = useSWR(
+    () => (pastAppointments ? 'pastAppointmentsFacilityInfo' : null),
+    () => getAdditionalFacilityInfo(pastAppointments),
   );
 
   return (
@@ -91,7 +113,7 @@ export default function PastAppointmentsList() {
         </div>
       )}
 
-      {pastAppointments.length > 0 ? (
+      {pastAppointments.length > 0 && (
         <ul className="usa-unstyled-list" id="appointments-list">
           {pastAppointments
             .filter(isValidPastAppointment)
@@ -115,11 +137,14 @@ export default function PastAppointmentsList() {
               }
             })}
         </ul>
-      ) : (
-        <h3 className="vads-u-margin--0 vads-u-margin-bottom--2p5 vads-u-font-size--md">
-          You don’t have any appointments in the selected date range
-        </h3>
       )}
+
+      {!error &&
+        pastAppointments === 0 && (
+          <h3 className="vads-u-margin--0 vads-u-margin-bottom--2p5 vads-u-font-size--md">
+            You don’t have any appointments in the selected date range
+          </h3>
+        )}
     </div>
   );
 }
