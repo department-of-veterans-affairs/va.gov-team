@@ -55,7 +55,7 @@ User interviews will be remote moderated sessions via Zoom
 
 3. What will you be testing?
 staging.VA.gov on-site search
-Schedule for 30 minutes with 15 minute buffer time to allow for participants who can't make it on time, or if you might go over time
+Schedule for 50 minutes with 10 minute buffer time to allow for participants who can't make it on time, or if you might go over time
 If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)
 Zoom
 
