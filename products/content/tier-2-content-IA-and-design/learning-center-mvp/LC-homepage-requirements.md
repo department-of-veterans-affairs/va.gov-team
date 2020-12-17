@@ -19,13 +19,13 @@ This is WIP and may evolve based on user research and technical findings.
 1.1 design has been updated to reflect interim, continuous content publishing mode. (Note: once all audiences, etc. are available, the RS homepage design may need to be updated again.)
 
 ## Browse by audience section
-- Audiences are listed alphabetically.
-- Audience labels are based on the {beneficiary} and {non-beneficiary} audience tag meta data in the CMS.
-- Display the audience link only when an RS article is using that tag and content author has enabled it for displaying on the RS landing page. _{updated 12/9 per CMS weekly 12/9 check-in}_
-  -  I.e., __If NO articles are using that audience tag__, do not enable it for RS homepage "Browse by audience" section. {This is manual content process for now.} 
-- On default show up to 5 audience lables. 
-- When there are more than 5, display the "Show more" expander link. On clicking "Show more," display all of the remaining audiences that articles have enabled in the CMS. 
-- When a user clicks on an audience lable in this section, they should go to the "All articles tagged: {tag lable}" page. 
+- FE: Audiences are listed alphabetically.
+- FE: Audience labels are based on the {beneficiary} and {non-beneficiary} audience tag meta data in the CMS.
+- FE: Display the audience link on the RS homepage only when the tag has been checked "Promoted to homepage" in the CMS by content author. _{updated 12/9 per CMS weekly 12/9 check-in}_
+  -  I.e., __If NO articles are using that audience tag__, content author should not enable it for RS homepage "Browse by audience" section. {This is manual content process for now.} 
+- FE: On default show up to 5 audience lables. 
+- FE: When there are more than 5, display the "Show more" expander link. On clicking "Show more," display all of the remaining audiences that articles have enabled in the CMS. 
+- FE: When a user clicks on an audience lable in this section, they should go to the "All articles tagged: {tag lable}" page. 
   
 
 ## Browse by topics section
