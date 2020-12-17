@@ -26,6 +26,11 @@ The Facilities needs a better understanding of how veterans expect to find healt
   - Time or incident-based (such as Tdap, Tdap Boosters)
   - COVID vaccination
   - COVID testing
+- Have they had any vaccines in the last 10 years?
+- When they get a vaccine, is it part of primary care (eg. VA visit)? Pharmacy visit? Town hall or other community-based vaccination program?
+- How many times in the last 5 years have they had the flu shot?
+- (If over age of 55) Do they plan to or did they take the shingles vaccine?
+- Have they taken Tdap (tetanus, diphtheria, and pertussis) vaccine / Tdap booster?
 
 ## Method
 
@@ -57,11 +62,6 @@ At least:
 - 2 participants 66 - over
 - 2 participants with cognitive disabilities
 - 2 participants with a disability rating of 70% or greater
-- Have they had any vaccines in the last 10 years?
-- When they get a vaccine, is it part of primary care (eg. VA visit)? Pharmacy visit? Town hall or other community-based vaccination program?
-- How many times in the last 5 years have they had the flu shot?
-- (If over age of 55) Do they plan to or did they take the shingles vaccine?
-- Have they taken Tdap (tetanus, diphtheria, and pertussis) vaccine / Tdap booster?
 
 ## Recruitment Process
 - Number of participants should be at least 15. To account for high rate of abandonment.
