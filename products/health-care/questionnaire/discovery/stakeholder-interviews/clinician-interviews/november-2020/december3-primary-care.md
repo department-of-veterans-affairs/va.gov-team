@@ -1,4 +1,4 @@
-# Dec. 3 Primary care provider #
+# Dec. 3 Primary care physician #
 
 ## Key Takeaways ##
 - Adding our questionnaire information into the PVS, which is part of the AVS application, sounded like a good solution. It doesn’t change much to their existing workflow.
