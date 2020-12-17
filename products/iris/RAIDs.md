@@ -11,3 +11,4 @@
 | Delivery | 12/4/20 | Significant development in PATS-R system or Microsoft Dynamics 365 portal | Heavy reliance on manual testing leads to the potential for more bugs. Lack of confidence in the production code without an automated testing suite | 
 | Delivery | 12/14/20 | SRA Dev team not onboarded before the December holidays | More onboarding time needed in January which could limit development time for June deadline | Stan will pull in the TW team as needed in onboarding/walkthrough sessions for the SRA team
 | Delivery | 12/14/20 | Limited availability of architects (Joseph Duty and Ellen Giasi) | Missing expertise on the PATS-R system and integration work, slower development process | Work closely with the SRA team and have scheduled check-ins with the architects
+| Communication | 12/17/20 | TW team added to meeting invites last minute | Slower development process, playing catch up on conversations already had around requirements/decisions taken | 
