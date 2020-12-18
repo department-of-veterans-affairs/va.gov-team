@@ -24,7 +24,7 @@
 | P10 | Friday, December 18 11 - Noon EST  | No show | iOS | - | - | Male | White or Caucasian | - | Bachelor's degree | Army  | - | - | - | - |
 | [P11]() | Friday, Dec. 18 Noon - 1 pm EST | Attended | Computer | 1, then 2 | Veteran | Male | Hispanic, Latino, or Spanish Origin | 25-34 | Associate's degree/trade certificate/vocational training | Army | HI | No | Yes | - |
 | P12 | Friday, December 18 1 - 2 pm EST | No show | Computer | - | Veteran | Male | White or Caucasian | 65-74 | Associate's degree/trade certificate/vocational training | Air Force | IA | Yes | - | Rural/Urban |
-| [P13]() | Friday, December 18 2 - 3 pm EST |  | Computer |  | Veteran | Female | White or Caucasian | - | Some college (no degree) | Navy | TN | Yes | Yes | - |
+| [P13]() | Friday, December 18 2 - 3 pm EST | Attended | Computer | 2, then 1 | Veteran | Female | White or Caucasian | - | Some college (no degree) | Navy | TN | Yes | Yes | - |
 
 ## 
 
