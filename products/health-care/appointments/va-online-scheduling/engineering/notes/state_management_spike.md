@@ -42,6 +42,8 @@ For the POC, I chose to use SWR due to the smaller bundle size.  Below you'll fi
 
 You can checkout the entire branch here: [https://github.com/department-of-veterans-affairs/vets-website/tree/12525-swr-spike](https://github.com/department-of-veterans-affairs/vets-website/tree/12525-swr-spike)
 
+@jbalboni also experimented with using SWR on our provider selection page: https://github.com/department-of-veterans-affairs/vets-website/pull/15426/files
+
 `useSWR()` accepts 2 arguments, a key and a fetcher function. The fetcher argument expects a promise to be returned, which allows us to use our existing `getBookedAppointments` service, so not much additional weight is added to the page.
 
 Other React components can also access the cached `pastAppointments`.
