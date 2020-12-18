@@ -399,6 +399,12 @@ On hold this sprint
 
 ## Sprint 38 (12/30 – 1/12)
 
+### Profile
+
+BE
+
+- Are we sending deprecated IDs to VA Profile? #17739
+
 ### My VA redesign
 
 **PM**
