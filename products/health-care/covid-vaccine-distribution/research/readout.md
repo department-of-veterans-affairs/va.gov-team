@@ -38,6 +38,8 @@ Prepared By: Lauryl Zenobi
 7. Veterans want to decide how they will get updates from the signup form, whether that's by phone, text, or email. 
 8. Dignity and autonomy are important. Participants appreciate the balanced tone of the signup form and website information.  
 
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/covid-vaccine-distribution/research/backgroundquestions.png)
+_Figure 1. Background questions_
 
 ## Key Quotes:
 
@@ -89,7 +91,7 @@ Prepared By: Lauryl Zenobi
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/covid-vaccine-distribution/research/KeepMeInformedResults.png)
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/covid-vaccine-distribution/research/key.png)
 
-_Figure 1. Usability Results_
+_Figure 2. Usability Results_
 
 
 The website performed very well for most users. With a few exceptions, all participants were able to intuit that the sign up form would send them text or email updates about covid-19 vaccines at the VA, and that the purpose of the form was to gauge interest by location in order to help the VA prepare for vaccine distribution. No participants thought they were reserving a spot in line or signing up to get the vaccine itself. 
