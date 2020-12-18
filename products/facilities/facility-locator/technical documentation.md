@@ -10,7 +10,7 @@
      - Gabriel Olavarria, Chief DevOps Engineer (321-503-8489, Gabriel.OlavarriaRivera@va.gov)
      - Steven Bair, Deputy Chief DevOps Engineer (812-453-6850, Steven.Bair@va.gov)
    - PPMS (upstream system) 
-     - incidents must be reported via [Service NOW](https://yourit.va.gov/va?id=va_report_incident)
+     - incidents must be reported via [YourIT Service Portal](https://yourit.va.gov/va?id=va_report_incident)
  
 
 ### Links to dashboards that help identify and debug application issues
