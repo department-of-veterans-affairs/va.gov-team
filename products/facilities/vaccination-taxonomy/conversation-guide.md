@@ -6,7 +6,8 @@
 
 - [ ] Notifications off
 - [ ] Turn off waiting room feature in Zoom
-- [ ] [Link to Prototype](https://preview.uxpin.com/dc9108ce2d9bbd5ad9a53d1173d77e605e0a985d#/pages/131055877/simulate/no-panels)
+- [ ] [Link to Health Services page](https://#)
+- [ ] [Link to Card Sort page](https://#)
 
 ## Intro - 3 minutes
 
