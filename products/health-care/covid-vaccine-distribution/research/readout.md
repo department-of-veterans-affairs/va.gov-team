@@ -87,7 +87,10 @@ Prepared By: Lauryl Zenobi
 ## Discussion
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/covid-vaccine-distribution/research/KeepMeInformedResults.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/covid-vaccine-distribution/research/key.png)
+
 _Figure 1. Usability Results_
+
 
 The website performed very well for most users. With a few exceptions, all participants were able to intuit that the sign up form would send them text or email updates about covid-19 vaccines at the VA, and that the purpose of the form was to gauge interest by location in order to help the VA prepare for vaccine distribution. No participants thought they were reserving a spot in line or signing up to get the vaccine itself. 
 
