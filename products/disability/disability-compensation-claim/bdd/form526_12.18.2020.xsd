@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:wss="http://www.va.gov/wss-framework/schema/1.2"
+           xmlns="http://gov.va.wss/form526/model/v2"
+           targetNamespace="http://gov.va.wss/form526/model/v2"> 
+
+    <!--************************************************************************************************************************************
+        EXTERNAL REQUEST+RESPONSE OBJECTS
+    *************************************************************************************************************************************-->
+    <xs:import namespace="http://www.va.gov/wss-framework/schema/1.2"/>
+
+    <xs:element name="validateRequest" type="ValidateRequest"/>
+    <xs:complexType name="ValidateRequest">
+        <xs:complexContent>
+            <xs:extension base="wss:serviceRequest">
+                <xs:sequence>
+                    <xs:element name="form526" type="form526" minOccurs="1"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:element name="validateResponse" type="ValidateResponse"/>
+    <xs:complexType name="ValidateResponse">
+        <xs:complexContent>
+            <xs:extension base="wss:serviceResponse"/>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:element name="submitRequest" type="SubmitRequest"/>
+    <xs:complexType name="SubmitRequest">
+        <xs:complexContent>
+            <xs:extension base="wss:serviceRequest">
+                <xs:sequence>
+                    <xs:element name="form526" type="form526" minOccurs="1"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:element name="submitResponse" type="SubmitResponse"/>
+    <xs:complexType name="SubmitResponse">
+        <xs:complexContent>
+            <xs:extension base="wss:serviceResponse">
+                <xs:sequence>
+                    <xs:element name="claimId" type="xs:long" minOccurs="1"/>
+                    <xs:element name="inflightDocumentId" type="xs:long" minOccurs="1"/>
+                    <xs:element name="endProductClaimCode" type="xs:string" minOccurs="1"/>
+                    <xs:element name="endProductClaimName" type="xs:string" minOccurs="1"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:element name="loadRatedDisabilityResponse" type="LoadRatedDisabilityResponse"/>
+    <xs:complexType name="LoadRatedDisabilityResponse">
+        <xs:complexContent>
+            <xs:extension base="wss:serviceResponse">
+                <xs:sequence>
+                    <xs:element name="ratedDisabilities" type="ratedDisability" minOccurs="0" maxOccurs="100"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <!--************************************************************************************************************************************
+          INTERNAL REQUEST+RESPONSE OBJECTS
+      *************************************************************************************************************************************-->
+
+    <xs:complexType name="InternalForm526">
+        <xs:complexContent>
+            <xs:extension base="form526">
+                <xs:sequence>
+                    <xs:element name="submissionDate" type="xs:dateTime" minOccurs="0"/>
+                    <xs:element name="claimId" type="xs:long" minOccurs="0"/>
+                    <xs:element name="draftFormId" type="xs:long" minOccurs="0"/>
+                    <xs:element name="errorMessage" type="xs:string" minOccurs="0"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:element name="loadDisabilityRequest" type="LoadDisabilityRequest"/>
+    <xs:complexType name="LoadDisabilityRequest">
+        <xs:complexContent>
+            <xs:extension base="wss:serviceRequest">
+                <xs:sequence>
+                    <xs:element name="fileNumber" type="xs:string"
+                                minOccurs="1"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:element name="loadDisabilityResponse" type="LoadDisabilityResponse"/>
+    <xs:complexType name="LoadDisabilityResponse">
+        <xs:complexContent>
+            <xs:extension base="wss:serviceResponse">
+                <xs:sequence>
+                    <xs:element name="disabilities" type="disability" minOccurs="1" maxOccurs="100"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:element name="loadVaOfficeRequest" type="LoadVaOfficeRequest"/>
+    <xs:complexType name="LoadVaOfficeRequest">
+        <xs:complexContent>
+            <xs:extension base="wss:serviceRequest">
+                <xs:sequence>
+                    <xs:element name="ptcpntId" type="xs:long" minOccurs="1"/>
+                    <xs:element name="address" type="MailingAddress" minOccurs="1"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:element name="loadVaOfficeResponse" type="LoadVaOfficeResponse"/>
+    <xs:complexType name="LoadVaOfficeResponse">
+        <xs:complexContent>
+            <xs:extension base="wss:serviceResponse">
+                <xs:sequence>
+                    <xs:element name="vaOffice" type="vaOffice" minOccurs="1"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <!--************************************************************************************************************************************
+        MODEL OBJECTS
+    *************************************************************************************************************************************-->
+    <xs:complexType name="form526">
+        <xs:sequence>
+            <xs:element name="veteran" type="veteran" minOccurs="1"/>
+            <xs:element name="servicePay" type="servicePay" minOccurs="0"/>
+            <xs:element name="directDeposit" type="directDeposit" minOccurs="0"/>
+            <xs:element name="serviceInformation" type="serviceInformation" minOccurs="1"/>
+            <xs:element name="disabilities" type="disability" minOccurs="1" maxOccurs="100"/>
+            <xs:element name="treatments" type="treatment" minOccurs="0" maxOccurs="100"/>
+            <xs:element name="specialCircumstances" type="specialCircumstance" minOccurs="0" maxOccurs="100"/>
+            <xs:element name="applicationExpirationDate" type="xs:dateTime" minOccurs="1"/>
+            <xs:element name="claimDate" type="xs:dateTime" minOccurs="0"/>
+            <xs:element name="claimantCertification" type="xs:boolean" minOccurs="1"/>
+            <xs:element name="standardClaim" type="xs:boolean" minOccurs="1"/>
+            <xs:element name="overflowText" type="xs:string" minOccurs="0">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:maxLength value="1000"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="autoCestPDFGenerationDisabled" type="xs:boolean" minOccurs="0"/>
+            <xs:element name="bddQualified" type="xs:boolean" minOccurs="0"/>
+            <xs:element name="claimSubmissionSource" type="xs:string" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="veteran">
+        <xs:sequence>
+            <xs:element name="emailAddress" type="xs:string" minOccurs="0">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:pattern value="^[^\s@]+@([^\s@.,]+\.)+[^\s@.,]{2,}$"/>
+                        <xs:minLength value="6"/>
+                        <xs:maxLength value="80"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="currentMailingAddress" type="MailingAddress" minOccurs="1"/>
+            <xs:element name="changeOfAddress" type="ChangeOfAddress" minOccurs="0"/>
+            <xs:element name="daytimePhone" type="phone" minOccurs="0"/>
+            <xs:element name="eveningPhone" type="phone" minOccurs="0"/>
+            <xs:element name="cellPhone" type="phone" minOccurs="0"/>
+            <xs:element name="homelessness" type="homelessness" minOccurs="0"/>
+            <xs:element name="serviceNumber" type="xs:string" minOccurs="0">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:minLength value="1"/>
+                        <xs:maxLength value="9"/>
+                        <xs:pattern value="[a-zA-Z0-9]+"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="currentlyVAEmployee" type="xs:boolean" minOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+
+	 <xs:complexType name="servicePay">
+	        <xs:sequence>
+	            <xs:element name="militaryRetiredPay" type="militaryRetiredPay" minOccurs="0"/>
+	            <xs:element name="retiredStatus" type="retiredStatusType" minOccurs="0"/>
+	            <xs:element name="separationPay" type="separationPay" minOccurs="0"/>
+	            <xs:element name="waiveVABenefitsToRetainTrainingPay" type="xs:boolean" minOccurs="0"/>
+	            <xs:element name="waiveVABenefitsToRetainRetiredPay" type="xs:boolean" minOccurs="0"/>
+	        </xs:sequence>
+	</xs:complexType>
+	
+	<xs:complexType name="militaryRetiredPay">
+	        <xs:sequence>
+	            <xs:element name="receiving" type="xs:boolean" minOccurs="1"/>
+	            <xs:element name="willReceiveInfuture" type="xs:boolean" minOccurs="0"/>
+	            <xs:element name="futurePayExplanation" type="xs:string" minOccurs="0"/>
+	            <xs:element name="payment" type="militaryPay" minOccurs="0"/>
+	        </xs:sequence>
+	</xs:complexType>
+	    
+	<xs:complexType name="separationPay">
+	        <xs:sequence>
+	            <xs:element name="received" type="xs:boolean" minOccurs="1"/>
+	            <xs:element name="receivedDate" type="approximateDate" minOccurs="0"/>
+	            <xs:element name="payment" type="militaryPay" minOccurs="0"/>
+	        </xs:sequence>
+	</xs:complexType>
+	
+	<xs:complexType name="militaryPay">
+	        <xs:sequence>
+	            <xs:element name="serviceBranch" type="xs:string" minOccurs="0"/>
+	            <xs:element name="amount" minOccurs="0">
+	                <xs:simpleType>
+	                    <xs:restriction base="xs:double">
+	                        <xs:pattern value="^[1-9]([0-9])*.[0-9]{2}$"/>
+	                    </xs:restriction>
+	                </xs:simpleType>
+	            </xs:element>
+	        </xs:sequence>
+	</xs:complexType>
+
+    <xs:complexType name="directDeposit">
+        <xs:sequence>
+            <xs:element name="accountType" type="directDepositAccountType" minOccurs="1"/>
+            <xs:element name="accountNumber" minOccurs="1">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:minLength value="4"/>
+      					<xs:maxLength value="17"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="bankName" type="xs:string" minOccurs="0">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:minLength value="1"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="routingNumber" minOccurs="1">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:pattern value="\d{9}"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="serviceInformation">
+        <xs:sequence>
+            <xs:element name="servicePeriods" type="servicePeriod" minOccurs="1" maxOccurs="100"/>
+            <xs:element name="reservesNationalGuardService" type="reservesNationalGuardService" minOccurs="0"/>
+            <xs:element name="servedInCombatZone" type="xs:boolean" minOccurs="0"/>
+            <xs:element name="separationLocationName" minOccurs="0">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:maxLength value="256"/>
+                        <xs:pattern value="([a-zA-Z0-9\/\-'.#,*()&amp;][a-zA-Z0-9\/\-'.#,*()&amp; ]?)*$"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="separationLocationCode" type="xs:string" minOccurs="0"/>
+            <xs:element name="alternateNames" type="alternateName" minOccurs="0" maxOccurs="100"/>
+            <xs:element name="confinements" type="confinement" minOccurs="0" maxOccurs="100"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="reservesNationalGuardService">
+        <xs:sequence>
+            <xs:element name="title10Activation" type="title10Activation" minOccurs="0"/>
+            <xs:element name="obligationTermOfServiceFromDate" type="xs:dateTime" minOccurs="1"/>
+            <xs:element name="obligationTermOfServiceToDate" type="xs:dateTime" minOccurs="1"/>
+            <xs:element name="unitName" minOccurs="1">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:minLength value="1"/>
+                        <xs:maxLength value="256"/>
+                        <xs:pattern value="([a-zA-Z0-9\-'.#][a-zA-Z0-9\-'.# ]?)*$"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="unitPhone" type="phone" minOccurs="0"/>
+            <xs:element name="receivingInactiveDutyTrainingPay" type="xs:boolean" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="title10Activation">
+        <xs:sequence>
+            <xs:element name="title10ActivationDate" type="xs:dateTime" minOccurs="1"/>
+            <xs:element name="anticipatedSeparationDate" type="xs:dateTime" minOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="servicePeriod">
+        <xs:sequence>
+            <xs:element name="serviceBranch" type="xs:string" minOccurs="1"/>
+            <xs:element name="activeDutyBeginDate" type="xs:dateTime" minOccurs="1"/>
+            <xs:element name="activeDutyEndDate" type="xs:dateTime" minOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="alternateName">
+        <xs:sequence>
+            <xs:element name="firstName" minOccurs="1">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:minLength value="1"/>
+                        <xs:maxLength value="30"/>
+                        <xs:pattern value="([a-zA-Z0-9-/']+( ?))+$"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="middleName" minOccurs="0">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:maxLength value="30"/>
+                        <xs:pattern value="([a-zA-Z0-9-/']+( ?))*$"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="lastName" minOccurs="1">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:minLength value="1"/>
+                        <xs:maxLength value="30"/>
+                        <xs:pattern value="([a-zA-Z0-9-/']+( ?))+$"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="confinement">
+        <xs:sequence>
+            <xs:element name="confinementBeginDate" type="xs:dateTime" minOccurs="1"/>
+            <xs:element name="confinementEndDate" type="xs:dateTime" minOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="abstractDisability" abstract="true">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string" minOccurs="1"/>
+            <xs:element name="classificationCode" type="xs:string" minOccurs="0"/>
+            <xs:element name="disabilityActionType" type="disabilityActionType" minOccurs="1"/>
+            <xs:element name="ratedDisabilityId" type="xs:string" minOccurs="0"/>
+            <xs:element name="diagnosticCode" type="xs:long" minOccurs="0"/>
+            <xs:element name="specialIssues" type="SpecialIssueTypeCode" minOccurs="0" maxOccurs="100"/> 
+            <xs:element name="serviceRelevance" type="xs:string"  minOccurs="0">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:minLength value="1"/>
+                        <xs:maxLength value="500"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="approximateBeginDate" type="approximateDate"  minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="disability">
+        <xs:complexContent>
+            <xs:extension base="abstractDisability">
+                <xs:sequence>
+                    <xs:element name="secondaryDisabilities" type="secondaryDisability" minOccurs="0" maxOccurs="100"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:complexType name="secondaryDisability">
+        <xs:complexContent>
+            <xs:extension base="abstractDisability"/>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:complexType name="approximateDate">
+        <xs:sequence>
+            <xs:element name="day" minOccurs="0">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:pattern value="\d{1,2}"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="month" minOccurs="0">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:pattern value="\d{1,2}"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="year" minOccurs="1">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:pattern value="^[1-9]\d{3}$"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="specialIssue">
+        <xs:sequence>
+            <xs:element name="code" type="xs:string" minOccurs="1"/>
+            <xs:element name="name" type="xs:string" minOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="MailingAddress">
+        <xs:complexContent>
+            <xs:extension base="baseAddress">
+                <xs:sequence>
+                    <xs:element name="addressLine1" minOccurs="1">
+                        <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                                <xs:minLength value="1"/>
+                                <xs:maxLength value="20"/>
+                                <xs:pattern value="([a-zA-Z0-9\-'.,&amp;#]([a-zA-Z0-9\-'.,&amp;# ])?)+$"/>
+                            </xs:restriction>
+                        </xs:simpleType>
+                    </xs:element>
+                    <xs:element name="addressLine2" minOccurs="0">
+                        <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                                <xs:maxLength value="20"/>
+                                <xs:pattern value="([a-zA-Z0-9\-'.,&amp;#][a-zA-Z0-9\-'.,&amp;# ]?)*$"/>
+                            </xs:restriction>
+                        </xs:simpleType>
+                    </xs:element>
+                    <xs:element name="addressLine3" minOccurs="0">
+                        <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                                <xs:maxLength value="20"/>
+                                <xs:pattern value="([a-zA-Z0-9\-'.,&amp;#][a-zA-Z0-9\-'.,&amp;# ]?)*$"/>
+                            </xs:restriction>
+                        </xs:simpleType>
+                    </xs:element>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:complexType name="ChangeOfAddress">
+        <xs:complexContent>
+            <xs:extension base="CompleteAddress">
+                <xs:sequence>
+                    <xs:element name="addressChangeType" type="AddressChangeType" minOccurs="1"/>
+                    <xs:element name="beginningDate" type="xs:dateTime" minOccurs="1"/>
+                    <xs:element name="endingDate" type="xs:dateTime" minOccurs="0"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:complexType name="CompleteAddress">
+        <xs:complexContent>
+            <xs:extension base="baseAddress">
+                <xs:sequence>
+                    <xs:element name="addressLine1" minOccurs="1">
+                        <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                                <xs:minLength value="1"/>
+                                <xs:maxLength value="35"/>
+                                <xs:pattern value="([a-zA-Z0-9\-'.,&amp;#]([a-zA-Z0-9\-'.,&amp;# ])?)+$"/>
+                            </xs:restriction>
+                        </xs:simpleType>
+                    </xs:element>
+                    <xs:element name="addressLine2" minOccurs="0">
+                        <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                                <xs:maxLength value="35"/>
+                                <xs:pattern value="([a-zA-Z0-9\-'.,&amp;#][a-zA-Z0-9\-'.,&amp;# ]?)*$"/>
+                            </xs:restriction>
+                        </xs:simpleType>
+                    </xs:element>
+                    <xs:element name="addressLine3" minOccurs="0">
+                        <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                                <xs:maxLength value="35"/>
+                                <xs:pattern value="([a-zA-Z0-9\-'.,&amp;#][a-zA-Z0-9\-'.,&amp;# ]?)*$"/>
+                            </xs:restriction>
+                        </xs:simpleType>
+                    </xs:element>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:complexType name="baseAddress">
+        <xs:sequence>
+            <xs:element name="city" minOccurs="0">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:maxLength value="30"/>
+                        <xs:pattern value="([a-zA-Z0-9\-'.#]([a-zA-Z0-9\-'.# ])?)+$"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="state" minOccurs="0">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:pattern value="[a-z,A-Z]{2}"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="zipFirstFive" minOccurs="0">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:pattern value="\d{5}" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="zipLastFour" minOccurs="0">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:pattern value="\d{4}"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="internationalPostalCode" type="xs:string" minOccurs="0"/>
+            <xs:element name="country" type="xs:string" minOccurs="1"/>
+            <xs:element name="militaryStateCode" type="militaryPostalType" minOccurs="0"/>
+            <xs:element name="militaryPostOfficeTypeCode" type="militaryPostOfficeType" minOccurs="0"/>
+            <xs:element name="type" type="addressType" minOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="phone">
+        <xs:sequence>
+            <xs:element name="areaCode" minOccurs="1">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:pattern value="\d{3}"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="phoneNumber" minOccurs="1">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:pattern value="\d{7}"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+	<xs:complexType name="homelessness">
+	        <xs:sequence>
+	            <xs:choice> 
+	            	<xs:element name="currentlyHomeless" type="currentlyHomeless" minOccurs="0"/>
+	            	<xs:element name="homelessnessRisk" type="homelessnessRisk" minOccurs="0"/>
+	            </xs:choice>
+	            <xs:element name="pointOfContact" type="PointOfContact" minOccurs="1"/>
+	        </xs:sequence>
+	</xs:complexType>
+    <xs:complexType name="currentlyHomeless">
+        <xs:sequence>
+            <xs:element name="homelessSituationType" type="homelessSituationType" minOccurs="1"/>
+			<xs:element name="otherLivingSituation" minOccurs="0">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string"> 
+                        <xs:minLength value="1"/>
+                        <xs:maxLength value="500"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>         
+        </xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="homelessnessRisk">
+	        <xs:sequence>
+	            <xs:element name="homelessnessRiskSituationType" type="homelessnessRiskSituationType" minOccurs="1"/>
+	            <xs:element name="otherLivingSituation" minOccurs="0">
+	                <xs:simpleType>
+	                    <xs:restriction base="xs:string">
+	                        <xs:minLength value="1"/>
+	                        <xs:maxLength value="500"/>
+	                    </xs:restriction>
+	                </xs:simpleType>
+	            </xs:element>
+	        </xs:sequence>
+	</xs:complexType>	
+    <xs:complexType name="PointOfContact">
+        <xs:sequence>
+            <xs:element name="pointOfContactName" minOccurs="1">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:minLength value="1"/>
+                        <xs:maxLength value="100"/>
+                        <xs:pattern value="([a-zA-Z0-9-/']+( ?))*$"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="primaryPhone" type="phone" minOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="treatment">
+        <xs:sequence>
+            <xs:element name="center" type="TreatmentCenter" minOccurs="1"/>
+            <xs:element name="treatedDisabilityNames" type="xs:string" minOccurs="1" maxOccurs="100"/>
+            <xs:element name="startDate" type="approximateDate" minOccurs="1"/>
+            <xs:element name="endDate" type="approximateDate" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="TreatmentCenter">
+        <xs:sequence>
+            <xs:element name="name" minOccurs="1">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:minLength value="1"/>
+                        <xs:maxLength value="100"/>
+                        <xs:pattern value="([a-zA-Z0-9&quot;\/&amp;\(\)\-'.#]([a-zA-Z0-9(\)\-'.# ])?)+$"/> 
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="type" type="treatmentCenterType" minOccurs="0"/>
+            <xs:element name="country" minOccurs="1">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:minLength value="1"/>
+                        <xs:maxLength value="50"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="state" minOccurs="0">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                    	<xs:maxLength value="30"/>
+                        <xs:pattern value="([a-zA-Z0-9\-'.#]([a-zA-Z0-9\-'.# ])?)+$"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="city" minOccurs="0">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:maxLength value="30"/>
+                        <xs:pattern value="([a-zA-Z0-9\-'.#]([a-zA-Z0-9\-'.# ])?)+$"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="specialCircumstance">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string" minOccurs="1"/>
+            <xs:element name="code" type="xs:string" minOccurs="1"/>
+            <xs:element name="needed" type="xs:boolean"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="ratedDisability">
+        <xs:sequence>
+            <xs:element name="diagnosticText" type="xs:string" minOccurs="0"/>
+            <xs:element name="decisionCode" type="xs:string" minOccurs="0"/>
+            <xs:element name="decisionText" type="xs:string" minOccurs="0"/>
+            <xs:element name="diagnosticCode" type="xs:long" minOccurs="0"/>
+            <xs:element name="effectiveDate" type="xs:dateTime" minOccurs="0"/>
+            <xs:element name="ratedDisabilityId" type="xs:string" minOccurs="0"/>
+            <xs:element name="ratedDisabilityDate" type="xs:dateTime" minOccurs="0"/>
+            <xs:element name="ratingPercentage" type="xs:long" minOccurs="0"/>
+            <xs:element name="relatedDisabilityId" type="xs:string" minOccurs="0"/>
+            <xs:element name="relatedDisabilityDate" type="xs:dateTime" minOccurs="0"/>
+            <xs:element name="ratingDecisionId" type="xs:string" minOccurs="0"/>
+            <xs:element name="specialIssues" type="specialIssue" minOccurs="0" maxOccurs="100"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="vaOffice">
+        <xs:complexContent>
+            <xs:extension base="CompleteAddress">
+                <xs:sequence>
+                    <xs:element name="vaOfficeCode" minOccurs="1">
+                        <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                                <xs:pattern value="\d{3}"/>
+                            </xs:restriction>
+                        </xs:simpleType>
+                    </xs:element>
+                    <xs:element name="vaOfficeName" type="xs:string" minOccurs="0"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <!--************************************************************************************************************************************
+        ENUMERATED TYPES
+    *************************************************************************************************************************************-->
+    <xs:simpleType name="AddressChangeType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="TEMPORARY"/>
+            <xs:enumeration value="PERMANENT"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="directDepositAccountType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="CHECKING"/>
+            <xs:enumeration value="SAVINGS"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="militaryPostalType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="AA"/>
+            <xs:enumeration value="AE"/>
+            <xs:enumeration value="AP"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="militaryPostOfficeType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="APO"/>
+            <xs:enumeration value="DPO"/>
+            <xs:enumeration value="FPO"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="addressType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="DOMESTIC"/>
+            <xs:enumeration value="MILITARY"/>
+            <xs:enumeration value="INTERNATIONAL"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="disabilityActionType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="NONE"/>
+            <xs:enumeration value="NEW"/>
+            <xs:enumeration value="SECONDARY"/>
+            <xs:enumeration value="INCREASE"/>
+            <xs:enumeration value="REOPEN"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="treatmentCenterType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="VA_MEDICAL_CENTER"/>
+            <xs:enumeration value="DOD_MTF"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="SpecialIssueTypeCode">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="ALS"/>
+            <xs:enumeration value="HEPC"/>
+            <xs:enumeration value="POW"/>
+            <xs:enumeration value="PTSD/1"/>
+            <xs:enumeration value="PTSD/2"/>
+            <xs:enumeration value="PTSD/4"/>
+            <xs:enumeration value="PTSD/3"/>
+        </xs:restriction>
+    </xs:simpleType>
+	<xs:simpleType name="homelessSituationType">
+	        <xs:restriction base="xs:string">
+	            <xs:enumeration value="LIVING IN A HOMELESS SHELTER"/>
+	            <xs:enumeration value="NOT CURRENTLY IN A SHELTERED ENVIRONMENT"/>
+	            <xs:enumeration value="STAYING WITH ANOTHER PERSON"/>
+	            <xs:enumeration value="FLEEING CURRENT RESIDENCE"/>
+	            <xs:enumeration value="OTHER"/>
+	        </xs:restriction>
+	</xs:simpleType>
+	    
+	<xs:simpleType name="homelessnessRiskSituationType">
+	        <xs:restriction base="xs:string">
+	            <xs:enumeration value="HOUSING WILL BE LOST IN 30 DAYS"/>
+	            <xs:enumeration value="LEAVING PUBLICLY FUNDED SYSTEM OF CARE"/>
+	            <xs:enumeration value="OTHER"/>
+	        </xs:restriction>
+	</xs:simpleType>    
+	
+    <xs:simpleType name="retiredStatusType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="RETIRED"/>
+            <xs:enumeration value="PERMANENT DISABILITY RETIRED LIST"/>
+            <xs:enumeration value="TEMPORARY DISABILITY RETIRED LIST"/>
+        </xs:restriction>
+    </xs:simpleType>	
+</xs:schema>
