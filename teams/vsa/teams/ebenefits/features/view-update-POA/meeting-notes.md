@@ -1,4 +1,4 @@
-# Questions for Lighthouse Team on OGC Database Data
+# Questions for Lighthouse Team on OGC Data
 
 ## General
 - What OGC data is available?
