@@ -63,25 +63,16 @@ These are mostly ideas until the first research spike is complete.
 #### Prototype Plan
 
 - Use [`TTY`](https://ttytoolkit.org/) to rapidly generate CLI framework
-- One pattern would be to to map the CLI commands to the command pattern in code architecture
-- Prototyping first 'thin layer' proving out the tooling:
-  - `vsp doctor:socks`                   # manage VA SOCKS state/connection - wraps `devops/utils/va.sh`
-  - `vsp services:status`                # see backend service status, planned outages, etc. by hitting the `vets-api` endpoint
-  - `vsp products:site --build-version`  # show the `build.txt` info
-
-After the spike we'll have a prototype usable in further user testing.
+- The first use will be to call new rails generators to help teams start modularizing their work.
 
 ### Code Location
 
-- We could either host the `vsp-toolkit` as the core/main library and host git submodules for plugins
-- Plugins *should* contain any dependencies, and this may "inspire rewrites" - which would add tech debt to squeeze a
-- - We could reference dependencies and explicit check for them at runtime/command runtime/vsp doctor, like "does
-    `$VSP_DEVOPS_REPO` exist? good, use` $VSP_DEVOPS_REPO_PATH/scripts/script.sh` or is `va.sh` in `$PATH`, then redirect VSP
-    utils `$CMD` to `va.sh $_`
+- We will host the `vsp-toolkit` as the core/main library and package it as a rubygem
 
 ### Testing Plan
 
 - `rspec` can be used to test `TTY`.  As the tool developes we'll get a better understanding of the testing needs.
+- commands will often be their own scripts, so they should be tested in their own development cycle
 
 ### Logging
 
@@ -89,7 +80,7 @@ After the spike we'll have a prototype usable in further user testing.
 
 ### Debugging
 
-- Include a utility command `--debug` for debug output include system architecture, dependencies versions, etc.
+- Including a utility command `--debug` for debug output include system architecture, dependencies versions, etc.
 
 ### Caveats
 
@@ -101,37 +92,24 @@ After the spike we'll have a prototype usable in further user testing.
 
 ### Privacy Concerns
 
-- This tool shouldn't allow anyone to do anything they inherently wouldn't be able to otherwise. In order to maintain
-    this state, we should consider how platform-wide privacy concerns are addressed. I.e. authorization, authentication,
-    audit-trail. Does the user have least privilege?
+- This tool shouldn't allow anyone to do anything they inherently wouldn't be able to otherwise. In order to maintain this state, we should consider how platform-wide privacy concerns are addressed. I.e. authorization, authentication, audit-trail. Does the user have least privilege?
 
 ### Open Questions and Risks
 
 - Will the majority of our audience be comfortable with this tool?
-- How can we build a web UI on top of it? SDK-style
-- Allow for multiple languages driving the CLI? Is this possible?
-- Can we wrap application generators/wizards/form builders?
 - We have basically millions of NPM scripts, can we improve discoverability w/o rewriting them all?
 - Wrapping over porting - investigate how we can leverage existing scripts
-- Shelling out (safely) is a not-necessarily bad idea
-- Structure a script folder with endpoints as folders/script filenames?
 
 ### Work Estimates
-- June 25 2020: Product Outline & Design Document drafted and out for review
-- June 26 2020: Spike on prototype to explore potential painpoints and flesh out outline/doc
-- July ? : Plan & start work pending stakeholder approval
-- July- Aug: Dogfood and build out uses for internal, existing tools (doctor, utils, metadata, logs, aws connections,
-    etc). (Wrap existing scripts, update where necesessary)
-- August : Have 3-5 useful tools prototyped and ready for a design sprint w/ VFS & VSP engineers
+- Q4 2020 have a ruby-based CLI that can tap into rails generators in vets-api
 
-### Alternatives - WIP
-_This section contains alternative solutions to the stated objective, as well as explanations for why they weren't used. In the planning stage, this section is useful for understanding the value added by the proposed solution and why particular solutions were discarded. Once the system has been implemented, this section will inform readers of alternative solutions so they can find the best system to address their needs._
 
-### Future Work - WIP
-_Features you'd like to (or will need to) add but aren't required for the current release. This is a great place to speculate on potential features and performance improvements._
+### Future Work
+- expand the CLI to meet various support needs
 
 ### Revision History
 
 Date | Revisions Made | Author
 -----|----------------|--------
 June 25, 2020 | Added initial draft of design document. | Keifer Furzland
+December 18, 2020 | Rewrote to align with new plans | Philip Becker
