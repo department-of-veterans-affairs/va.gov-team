@@ -455,6 +455,10 @@ BE
 
 ### Direct deposit for edu
 
+**PM**
+
+- Complete release plan and save in direct deposit for edu GitHub folder ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/97759a81a47c73da8bf03e35f3a13bb3c689d18b/platform/product-management/release-plan-template.md))
+
 **FE**
 
 - Finish build
