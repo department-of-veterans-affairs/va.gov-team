@@ -1,17 +1,6 @@
 
 # Collaboration Cycle Custom Tracks
 
-_**Guidance**_
-
-_This Product Outline is intended primarily for VSP teams building VSP. Details of what's being built, how it's being built, how its success will be evaluated, and roadmaps are all relevant._
-
-_Because this is VSP-internal, the Product Outline should be located in `/products/platform/`. VFS-facing documentation about this product should be located in `/platform/`._
-
-_Fill out the template below, following italicized guidance for each section._
-
-_Delete this guidance stanza and any italicized guidance in the template before checking in your Product Outline._
-
----
 
 
 ## Overview
@@ -23,7 +12,6 @@ To allow for teams to get feedback without the burden of scheduling a 2-days-in-
 
 ## Problem Statement
 VSP Collaboration Cycle is a one-size-fits-all process that VFS teams are encouraged to go through as they build their Veteran-facing products for VA.gov. VFS teams have stated that small changes are difficult to move through the Collaboration Cycle, the process is burdensome, and it is challenging to know what is expected of them at the various review points, especially Staging Review.
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address.*
 
 ## Personas
 As a Collab Cycle team member, I want to know early information about a VFS team, so I can deduce what help they may need in meeting DEPO Standards and recommended a customized Collab Cycle path to make their experience as quick and smooth as possible.
@@ -40,9 +28,7 @@ As a VFS product manager, I want to throughly understand what is expected of me 
 ### Key Performance Indicators (KPIs)
 VFS team has a positive experience with the Collaboration Cycle
 Potentially a decrease in "Must" feedback at Staging
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Grafana or other dashboards/reports where possible_
+Correlation between teams choosing leaner paths through Collaboration Cycle and less "must" feedback at staging
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics, if possible._
