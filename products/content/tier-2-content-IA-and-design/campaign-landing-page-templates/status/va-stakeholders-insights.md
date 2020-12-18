@@ -31,10 +31,10 @@ The goal is to help understand how much rigidity and alternatively flexibility i
 
 ## VA Stakeholders
 
-VBA: Michelle Ralston, Paul Shute, Sandy Tadeo
-VHA: Jenny Heiland-Luedtke, Jeffrey Grandon, Steve Tokar
-VEO: Tim Hudak, Melissa Rebstock, Laura Petrola
-VACO: Josh Tuscher, Gary Hicks
+- VBA: Michelle Ralston, Paul Shute, Sandy Tadeo
+- VHA: Jenny Heiland-Luedtke, Jeffrey Grandon, Steve Tokar
+- VEO: Tim Hudak, Melissa Rebstock, Laura Petrola
+- VACO: Josh Tuscher, Gary Hicks
 
 
 
