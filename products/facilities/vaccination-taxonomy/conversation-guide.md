@@ -11,13 +11,15 @@
 
 ## Intro - 3 minutes
 
-Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about finding healthcare on the VA.gov website.
+Thanks for joining us today! My name is Chris, and I also have some colleagues on the line observing and taking notes. Today we're going to talk about finding vaccination information on the VA.gov website.
 
 Before we start, a few things I want to mention:
 
 - **This entire session should take about 45 minutes.** 
 - **First, I'll ask you a few warm up questions to get us started.**
-- **Then, I'll be sharing a link to a prototype and ask you to share your screen.** We'll look at a protoype together and I will ask you questions about it.
+- **Then, I'll be sharing a link to a VA web page to discuss the types of health serives listed.** 
+- **Then I will send you a link and ask you to share your screen.**
+- **I will ask you questions about different vaccinations and where you think information on them would go.
 - **In this session, we want to hear your honest opinions.** We are not testing you, instead we are testing the website to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
@@ -36,12 +38,13 @@ Before we start, a few things I want to mention:
 
 ## Usability Test - 25 minutes
 
-I'm going to share a link to a prototype here in the zoom chat window for you to click on. Then I'll want you to share your screen so that I can follow along and see what you see.
+I'm going to share a link to a VA web page here in the zoom chat window for you to click on. Then I'll want you to share your screen so that I can follow along and see what you see.
 
-###### MODERATOR SHARES LINK TO PROTOTYPE
-[UXPin Link](https://preview.uxpin.com/dc9108ce2d9bbd5ad9a53d1173d77e605e0a985d#/pages/131055877/simulate/no-panels)
-
-Since this is only a prototype some links and features will work but most won't. I ask that you think out loud as we go through the prototype.
+###### MODERATOR SHARES LINK TO PA HEALTH SERVICES PAGE
+[Link to Health Services page](https://www.va.gov/pittsburgh-health-care/health-services/)
+- Have you ever used this page? 
+ - If yes, how long ago? What were you doing? What was the experience like?
+ - If no, this page covers the types of health services found at a VA Healthcare facility. This is the page I would like to discuss with you today and get your feedback. In a minute, we will do some easy tasks where you can provide your thoughs on where it makse the most sense to find vaccination information on this webpage. 
 
 ###### PROTOTYPE: VA.gov main
 #### Question:
