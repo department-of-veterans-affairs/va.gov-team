@@ -50,7 +50,6 @@ These are mostly ideas until the first research spike is complete.
 - Test user data may be accessible here too, like `vsp service mvi --users --out=mvi-test-users.json`
 - `vsp product:config forms --all --hide-sensitive` would show global VSP and api/site (product) specific configuration
 - `vsp config` - should this be showing config for a specific thing? like "aws configuration" or "vets-api settings.yml"
-- `vsp toolkit:plugin {init, config, install} PLUGIN_NAME` - for building, configuring, installing a new toolkit plugin (with oclif)
 - Indicate somehow that a command is a native plugin or an "extension" i.e. not supported directly by VSP?
 - We can build a process around adding/publishing modules for inclusion in the supported code, maybe
 - We envision this can be leveraged into a web UI by wrapping a common API pattern
@@ -63,7 +62,7 @@ These are mostly ideas until the first research spike is complete.
 
 #### Prototype Plan
 
-- Use [`oclif`](https://oclif.io/docs) to rapidly generate CLI framework
+- Use [`TTY`](https://ttytoolkit.org/) to rapidly generate CLI framework
 - One pattern would be to to map the CLI commands to the command pattern in code architecture
 - Prototyping first 'thin layer' proving out the tooling:
   - `vsp doctor:socks`                   # manage VA SOCKS state/connection - wraps `devops/utils/va.sh`
@@ -82,7 +81,7 @@ After the spike we'll have a prototype usable in further user testing.
 
 ### Testing Plan
 
-- `oclif` generates tests but we should ensure we're writing unit & integration tests across platforms
+- `rspec` can be used to test `TTY`.  As the tool developes we'll get a better understanding of the testing needs.
 
 ### Logging
 
@@ -109,7 +108,6 @@ After the spike we'll have a prototype usable in further user testing.
 ### Open Questions and Risks
 
 - Will the majority of our audience be comfortable with this tool?
-- Should we use OCLIF? Or Thor?
 - How can we build a web UI on top of it? SDK-style
 - Allow for multiple languages driving the CLI? Is this possible?
 - Can we wrap application generators/wizards/form builders?
