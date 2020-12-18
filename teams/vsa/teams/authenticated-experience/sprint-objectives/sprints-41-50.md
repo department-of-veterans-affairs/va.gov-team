@@ -1,7 +1,7 @@
 # Authenticated Experience Sprint Objectives: Sprints 41 – 50
 
 - [Sprint 41](#sprint-41-210--223)
-- [Sprint 42]()
+- [Sprint 42](#sprint-42-224---39)
 - [Sprint 43]()
 - [Sprint 44]()
 - [Sprint 45]()
