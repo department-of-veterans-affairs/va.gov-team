@@ -9,9 +9,67 @@
 - Remember the Contact Center (Alamo!) and the issues they deal with
 - Try to focus on a fewer number of features at a time
 ----
+## Sprint 37 (12/16 - 12/29)🎅
+```diff
+- 44 points over 16 issues
+```
+### 1/ Confirm PCPG (CH36) CM Portal submission in staging, and prep for launch
+- CH36 launch Jan 4
+### 2/ Prepare Dependency Claims for e2e and UAT
+- BE continue to iterate on last-mile problems
+- PRODUCT Propose schedule for e2e testing with BGS/ RBPS in Jan
+- Target early Feb launch
+### 3/ Support for VRE CMS (CH31) integration and application testing as needed
+- Likely 10-15 FE + BE points for ongoing dev
+- Content updates as needed
+### 4/ Support for Dependency Verification as needed (reserve 10-15 points BE/ FE)
+- BE review BGS diary service document and recommend approach/ LoE
+- FE iteration on proof-of-concept as per discovery team designs
+### 5/ Launch View My Payments
+- PRODUCT Define tasks remaining to launch
+- TEAM Launch as possible
+### 6/ Dependency Claims feature enhancement: select dependents to remove (stretch)
+- FE/ BE activities as captured
+### 7/ POA
+- FE, BE, Design activities on VIEW
+- Design, FE activities on SEARCH
+
+## Sprint 36 (12/2 - 12/15)🦃
+```diff
+- 63 points over 23 issues
+```
+### 1. Confirm PCPG (CH36) CM Portal submission
+- BE provide LoE on CMP GET status integration
+  - Either a/ perform integration, b/ leverage existing integration, or c/ get status of submitted test doc with CURL command
+
+### 2. Prepare Dependency Claims for e2e and possible UAT
+- BE continue to iterate on last-mile problems
+- Propose schedule for e2e testing with BGS
+- Collaborate with BGS on possible implementation of Award Service check
+
+### 3. Support for VRE CMS (CH31) integration and application testing as needed
+- Likely 10-15 FE + BE points for ongoing dev
+- Content updates as needed
+
+### 4. Design and dev for VRE Orientation
+- DESIGN Finalize V1 proof of concept flow
+- FE build proof of concept in staging
+- Get signoff from CH31 stakeholders
+
+### 5. Support for Dependency Verification as needed (stretch: reserve 10-15 points BE/ FE)
+- BE review BGS diary service document and recommend approach/ LoE
+- FE iteration on proof-of-concept as per discovery team designs
+
+### 6. Launch View My Payments
+- PRODUCT Define tasks remaining to launch
+- TEAM Launch as possible
+
+### 7. Dependency Claims feature enhancement: select dependents to remove (stretch)
+- FE/ BE activities as captured
+
 ## Sprint 35 (11/18 - 12/1)🦃
 ```diff
-- TBD
+- 60 points over 18 issues
 ```
 ### 1. Finish VRE CMS integration and application (CH31)
 - **TEST IN STAGING Tues Dec 1**
