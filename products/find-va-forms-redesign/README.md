@@ -3,7 +3,7 @@
 This is the folder for all background, historical, discovery, and status documentation for this product. 
 
 **Mapping of VA.gov digital products/tools to VA forms are listed here (SharePoint). See  tab/sheet called "VA.gov tools mapped to VA forms."**
-https://dvagov.sharepoint.com/:x:/r/sites/VAgovProductDirectory-SharedLibrary/_layouts/15/doc2.aspx?sourcedoc=%7BA7445DE2-B970-474A-A5E8-6676ABD1D87D%7D&file=VA.gov-Product-Directory-11-13-20.xlsx&action=default&mobileredirect=true 
+[VA.gov Product Directory-Shared Library-SharePoint](https://dvagov.sharepoint.com/:x:/r/sites/VAgovProductDirectory-SharedLibrary/_layouts/15/doc2.aspx?sourcedoc=%7BA7445DE2-B970-474A-A5E8-6676ABD1D87D%7D&file=VA.gov-Product-Directory-11-13-20.xlsx&action=default&mobileredirect=true)
 
 (Prior iterations of above info should be considered deprecated. )
 
