@@ -2,10 +2,10 @@
 
 > This document is in draft status and subject to change or removal.
 
-- **Author(s):** Keifer Furzland
+- **Author(s):** Keifer Furzland, Philip Becker
 - **Last Updated:** June 25, 2020
 - **Status:** **Draft** | In Review | Approved
-- **Approvers:** Philip Becker \[ ], Michael Fleet \[ \], Alex Pappas \[ \],
+- **Approvers:** Michael Fleet \[ \], Alex Pappas \[ \],
 
 ## Overview
 ### Objective
@@ -18,8 +18,6 @@ We want to answer the following questions:
     How is the CLI installed & configured?
     How could VFS users use the CLI to make development easier?
 
-Only VSP engineers should be releasing "officially supported" code, though it can be an open source tool, of course
-
 The intended audience is VSP software engineers, particularly those on the Operations, FE Tools, and BE Tools teams.
 
 - Build a cohesive set of command line tools used by VFS teams to make development easier.
@@ -29,11 +27,9 @@ The intended audience is VSP software engineers, particularly those on the Opera
 
 ### Background
 
-VSP engineers utilize a wide variety of tools, processes, concepts, and utilities that are scattered about various documents, brains, and
-machines.
+VSP engineers utilize a wide variety of tools, processes, concepts, and utilities that are scattered about various documents, brains, and machines.
 
-For as much as we can, we should aim to build a single source of truth. This will be best for managing/updating code,
-reducing "works on my machine" problems, and provide automatic configuration/support.
+For as much as we can, we should aim to build a single source of truth. This will be best for managing/updating code, reducing "works on my machine" problems, and provide automatic configuration/support.
 
 ### High Level Design - WIP
 
