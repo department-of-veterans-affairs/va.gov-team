@@ -4,7 +4,7 @@
 ## Incident Response
 
 ### Points of contact for system and dependent VA backends
-   - Lighthouse
+   - Lighthouse - Adam Stilton, Engineering lead (adam.stilton@libertyits.com)
    - VSP (DevOps)
    - PPMS (upstream system) - incidents must be reported via [Service NOW](https://yourit.va.gov/va?id=va_report_incident)
  
