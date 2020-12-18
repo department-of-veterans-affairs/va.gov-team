@@ -1,10 +1,10 @@
 **Session Report**
 
-Project : [Keep Me Informed] {https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/covid-vaccine-distribution/research}
+Project : [Keep Me Informed](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/covid-vaccine-distribution/research)
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/covid-vaccine-distribution/research/research-plan.md)
+[Research plan(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/covid-vaccine-distribution/research/research-plan.md)
 
-[Conversation Guide] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/covid-vaccine-distribution/research/research-plan.md)
+[Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/covid-vaccine-distribution/research/research-plan.md)
 
 11 participants, December 14-17, 2020
 
@@ -12,19 +12,19 @@ Project : [Keep Me Informed] {https://github.com/department-of-veterans-affairs/
 Prepared By: Lauryl Zenobi
 
 # Participant demographics
-| Status  | Gender  | Race/Ethnicity | Age | Location |
-|---|---|---|---|
-Veteran |	Male |	White or Caucasian | 55 - 64 | OK
-Veteran |	Female	| American Indian or Alaska Native White or Caucasian |	65 - 74 |	UT
-Veteran	| Female	 |	Black or African American	 |	45 - 54	 |	KY
-Veteran	| Female	 |	Black or African American	 |	45 - 54	 |	OH
-Veteran/Veteran's family member |	Female | White or Caucasian	| 45 - 54	| UT
-Veteran |	Male |		White or Caucasian	 |	65 - 74 |		FL
-Veteran |	Female	 |	Other	 |	45 - 54	 |	MI
-Veteran |	Female	 |	White or Caucasian	 |	25 - 34	 |	WI
-Veteran |		Male	 |	White or Caucasian |		45 - 54	 |	VA
-Veteran |		Female	 |	White or Caucasian	 |	55 - 64	 |	MO
-Veteran |		Female	 |	White or Caucasian	 |	45 - 54	 |	ID
+|Status|Gender|Race/Ethnicity|Age|Location|
+| :--- | :--- | :--- | :--- |
+|Veteran |	Male |	White or Caucasian | 55 - 64 | OK|
+|Veteran |	Female	| American Indian or Alaska Native White or Caucasian |	65 - 74 |	UT |
+|Veteran	| Female	 |	Black or African American	 |	45 - 54	 |	KY |
+|Veteran	| Female	 |	Black or African American	 |	45 - 54	 |	OH |
+|Veteran/Veteran's family member |	Female | White or Caucasian	| 45 - 54	| UT |
+|Veteran |	Male |		White or Caucasian	 |	65 - 74 |		FL |
+|Veteran |	Female	 |	Other	 |	45 - 54	 |	MI |
+|Veteran |	Female	 |	White or Caucasian	 |	25 - 34	 |	WI |
+|Veteran |		Male	 |	White or Caucasian |		45 - 54	 |	VA | 
+|Veteran |		Female	 |	White or Caucasian	 |	55 - 64	 |	MO |
+|Veteran |		Female	 |	White or Caucasian	 |	45 - 54	 |	ID |
 
 # Key Findings
 
@@ -85,16 +85,14 @@ Veteran |		Female	 |	White or Caucasian	 |	45 - 54	 |	ID
 
 ## Discussion
 
-A discussion covering the following points:
+Figure 1. Usability Results
 
-* Identify key issues in the results, particularly results that are large or unexpected.
-* Give possible explanations for the results, including explanations related to the program as well as external causes. 
-* Discuss the implications of the results for the outcomes and impact of the program.
-* Outline potential recommendations based on findings.
-  * Do we need to:
-    * Iterate?
-    * Fix bugs in prototype?
-    * Modify conversation guide?
-    * Modify moderation appoach?
-    * Adjust number of future participants?
+The website performed very well for most users. With a few exceptions, all participants were able to intuit that the sign up form would send them text or email updates about covid-19 vaccines at the VA, and that the purpose of the form was to gauge interest by location in order to help the VA prepare. No participants thought they were reserving a spot in line or signing up to get the vaccine itself. 
+
+Some areas of trouble were:
+- Some users were confused by having to click sign up for updates a second time after logging in. They expected to be brought directly to a form or similar page after selecting the auth path. 
+- One user confused the sign in process with indicating interest in getting updates. They assumed the "continue without signing in" button meant a user would be saying they didn't want updates, and was therefore confused on why the subsequent form page was asking for signup information. 
+- Only two participants understood that they could update their interest by resubmitting the form. Most participants expected to opt out or change interest through eBenefits, Gmail unsubscribe, or by sending their doctor a secure message through MHV.
+- Participants appreciated the tone and content of the main hub, especially the [Frequently Asked Questions](https://www.va.gov/health-care/covid-19-vaccine/#questions-you-may-have-about-c), but they wanted more information about safety, adverse and common side effects, whether studies were continuing after distribution started, and what to expect with logistics and the timeline of rollout to specific facilities.
+- Participants wanted to be able to see what facilities near them would have the vaccine, but understood that the content of the site was in flux and likely to be updated as new information was released. 
 
