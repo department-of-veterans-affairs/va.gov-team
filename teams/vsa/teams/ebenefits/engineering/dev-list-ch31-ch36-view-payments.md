@@ -64,13 +64,10 @@ Ascertain remaining tasks for these features
 - 508 testing
 
 ### Building Search for VA Representative 
-- Scaffold component structure for Search form
-- Scaffold component structure for Search results
-- Scaffold component for confirmation page
-- Add basic logic to search form and search results
-- Add basic logic for confirmation page
-- Add more complex logic to search form and search results
-- Initial Redux code for API calls
+- [17730](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17730) Scaffold component structure for Search
+- [17742](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17742) Add basic logic to search form
+- [17743](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17743) Add basic logic for search results
+- [17744](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17744) Initial Redux code for API calls
 - Refine components to better match mockup (repeat for as many main components as needed)
 - Unit test component logic for search form component
 - Unit test component logic for search results component
