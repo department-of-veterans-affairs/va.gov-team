@@ -7,7 +7,7 @@
 - [Sprint 45](#sprint-45-47---420)
 - [Sprint 46](#sprint-46-421---54)
 - [Sprint 47](#sprint-47-55---518)
-- [Sprint 48]()
+- [Sprint 48](#sprint-48-519---61)
 - [Sprint 49]()
 - [Sprint 50]()
 
