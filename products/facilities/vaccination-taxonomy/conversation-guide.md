@@ -6,7 +6,7 @@
 
 - [ ] Notifications off
 - [ ] Turn off waiting room feature in Zoom
-- [ ] [Link to Health Services page]
+- [ ] [Link to Health Services page](https://www.va.gov/pittsburgh-health-care/health-services/)
 - [ ] [Link to Card Sort page]
 
 ## Intro - 3 minutes
