@@ -10,20 +10,19 @@ Project : [Keep Me Informed](https://github.com/department-of-veterans-affairs/v
 
 Prepared By: Lauryl Zenobi
 
-# Participant demographics
-| Status | Gender | Race/Ethnicity | Age | Location |
-| :---- | :---- | :---- | :---- |
-| Veteran |	Male | White or Caucasian | 55 - 64 | OK|
-| Veteran |	Female | American Indian or Alaska Native White or Caucasian | 65 - 74 |	UT |
-| Veteran	| Female | Black or African American	| 45 - 54	| KY |
-| Veteran	| Female | Black or African American	| 45 - 54	|	OH |
-| Veteran/Veteran's family member |	Female | White or Caucasian	| 45 - 54	| UT |
-| Veteran |	Male | White or Caucasian | 65 - 74 |		FL |
-| Veteran |	Female | Other	| 45 - 54	|	MI |
-| Veteran |	Female | White or Caucasian	 |	25 - 34	 |	WI |
-| Veteran |	Male | White or Caucasian |	45 - 54	 | VA | 
-| Veteran |	Female | White or Caucasian	 | 55 - 64 |	MO |
-| Veteran |	Female	| White or Caucasian	 | 45 - 54	|	ID |
+# Participant demographics 
+
+- Veteran,	Male, White or Caucasian, 55 - 64,  OK
+- Veteran, Female, American Indian or Alaska Native White or Caucasian, 65 - 74, UT
+- Veteran, Female, Black or African American, 45 - 54, KY
+- Veteran, Female, Black or African American, 45 - 54, OH
+- Veteran/Veteran's family member, Female, White or Caucasian, 45 - 54, UT
+- Veteran, Male, White or Caucasian, 65 - 74, FL
+- Veteran, Female, Other, 45 - 54, MI
+- Veteran, Female, White or Caucasian, 25 - 34, WI
+- Veteran, Male, White or Caucasian, 45 - 54, VA 
+- Veteran, Female, White or Caucasian, 55 - 64, MO
+- Veteran, Female, White or Caucasian, 45 - 54, ID
 
 # Key Findings
 
@@ -84,9 +83,10 @@ Prepared By: Lauryl Zenobi
 
 ## Discussion
 
-Figure 1. Usability Results
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/covid-vaccine-distribution/research/KeepMeInformedResults.png)
+_Figure 1. Usability Results_
 
-The website performed very well for most users. With a few exceptions, all participants were able to intuit that the sign up form would send them text or email updates about covid-19 vaccines at the VA, and that the purpose of the form was to gauge interest by location in order to help the VA prepare. No participants thought they were reserving a spot in line or signing up to get the vaccine itself. 
+The website performed very well for most users. With a few exceptions, all participants were able to intuit that the sign up form would send them text or email updates about covid-19 vaccines at the VA, and that the purpose of the form was to gauge interest by location in order to help the VA prepare for vaccine distribution. No participants thought they were reserving a spot in line or signing up to get the vaccine itself. 
 
 Some areas of trouble were:
 - Some users were confused by having to click sign up for updates a second time after logging in. They expected to be brought directly to a form or similar page after selecting the auth path. 
