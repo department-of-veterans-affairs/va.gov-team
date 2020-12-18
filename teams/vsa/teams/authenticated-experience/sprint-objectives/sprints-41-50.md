@@ -33,6 +33,7 @@
 **PM**
 
 - [Privacy and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review)
+- Hold go/no-go for UAT
 
 **Design**
 
