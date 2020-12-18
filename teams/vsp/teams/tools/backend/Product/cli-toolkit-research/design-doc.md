@@ -38,15 +38,10 @@ For as much as we can, we should aim to build a single source of truth. This wil
 - Integrates w/ other tools across the VSP world
 - Provides a modular design (VFS teams can modify it)
 - Future-proof and scale-friendly - the shell isn't going away, React might, SOCKS config may change (instead of everyone updating `/etc/*` or equiv, they can run `vsp upgrade` and `vsp socks` and be done w/ it)
-
-## Specifics
-
-### Detailed Design - WIP
-
 #### Prototype Plan
 
 - Use [`TTY`](https://ttytoolkit.org/) to rapidly generate CLI framework
-- The first use will be to call new rails generators to help teams start modularizing their work.
+- The first use will be to call new rails generators to help new teams start modularizing their work.
 
 ### Code Location
 
@@ -57,17 +52,9 @@ For as much as we can, we should aim to build a single source of truth. This wil
 - `rspec` can be used to test `TTY`.  As the tool developes we'll get a better understanding of the testing needs.
 - commands will often be their own scripts, so they should be tested in their own development cycle
 
-### Logging
-
-- N/a
-
 ### Debugging
 
 - Including a utility command `--debug` for debug output include system architecture, dependencies versions, etc.
-
-### Caveats
-
-- TBD
 
 ### Security Concerns
 
@@ -86,9 +73,9 @@ For as much as we can, we should aim to build a single source of truth. This wil
 ### Work Estimates
 - Q4 2020 have a ruby-based CLI that can tap into rails generators in vets-api
 
-
 ### Future Work
 - expand the CLI to meet various support needs
+- rename vsp-toolkit repo to match command name
 - Configuration file to manage local user configuration
 - Configuration management (write to ~/.vsp/config.yml) for portability and extensibility
 - Single binary install, package management, install from source (make it *easy* and *fool-proof* to install & update & use)
