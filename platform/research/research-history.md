@@ -23,6 +23,8 @@ This does not include research for Appeals projects, which is stored in differen
 
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/covid-vaccine-distribution/research)
 
+- Keywords: covid-19 vaccine, vaccine updates, coronavirus
+
 
 #### December 14 - December 18: IRIS Usability Testing 
 
