@@ -19,7 +19,7 @@ Before we start, a few things I want to mention:
 - **First, I'll ask you a few warm up questions to get us started.**
 - **Then, I'll be sharing a link to a VA web page to discuss the types of health serives listed.** 
 - **Then I will send you a link and ask you to share your screen.**
-- **I will ask you questions about different vaccinations and where you think information on them would go.
+- **I will ask you questions about different vaccinations and where you think information on them would go.**
 - **In this session, we want to hear your honest opinions.** We are not testing you, instead we are testing the website to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
