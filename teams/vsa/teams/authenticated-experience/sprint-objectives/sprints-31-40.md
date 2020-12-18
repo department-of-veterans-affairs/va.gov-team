@@ -420,6 +420,8 @@ BE
 
 ### Direct deposit for edu
 
+**Main objective: Review the build and prep for QA**
+
 **PM** 
 
 - Request QA for following sprint. To make sure we are ready, this requires:
@@ -437,8 +439,7 @@ BE
 
 **FE**
 
-- Finish build
-- Write tests
+- Make updates as needed before QA
 
 ### VA Profile notification preferences
 
