@@ -11,6 +11,7 @@
      - Steven Bair, Deputy Chief DevOps Engineer (812-453-6850, Steven.Bair@va.gov)
    - PPMS (upstream system) 
      - incidents must be reported via [YourIT Service Portal](https://yourit.va.gov/va?id=va_report_incident)
+     - [Instructions for creating a Service Now issue](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/Service%20Now%20instructions.pdf)
  
 
 ### Links to dashboards that help identify and debug application issues
