@@ -127,7 +127,7 @@ This does not include research for Appeals projects, which is stored in differen
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/cross-team-initiatives/mobile-month/research)
 **Keywords:** mobile usability, mobile header, navigation, more in this section, right rail, claim status, facility locator, map view, alert usability
 
-#### August 10-14
+#### August 10-14 Patient Generated Data Discovery Research
 *VA Lighthouse APIs: Lauryl Zenobi*
 - 9 participants
 - [Research folder](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/patient-generated-data)
