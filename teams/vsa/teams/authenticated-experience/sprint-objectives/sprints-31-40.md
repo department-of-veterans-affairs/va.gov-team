@@ -418,15 +418,15 @@ BE
 - Mock up first-time user experience
 - [Design] Submit MyVA wireframes for copy review #17530
 
-**FE**
-
-- Start FE build
-
 ### Direct deposit for edu
 
 **BE**
 
 - Modify Ch33BankAccountsController#index method to also return bank name #17294
+
+**FE**
+
+- Continue build
 
 ### VA Profile notification preferences
 
@@ -451,7 +451,13 @@ BE
 
 **FE**
 
-- Continue FE build
+- Start FE build
+
+### Direct deposit for edu
+
+**FE**
+
+- Finish build
 
 ### VA Profile notification preferences
 
@@ -481,6 +487,20 @@ BE
 
 - Continue FE build
 
+### Direct deposit for edu
+
+**PM**
+
+- [Analytics request (collab cycle)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#analytics-request)
+  - Analytics planning
+  - Meet with analytics 
+  - Oversee implementation
+- Start contact center guide
+
+**QA**
+
+- Complete QA
+
 ### VA Profile notification preferences
 
 **Design**
@@ -490,31 +510,3 @@ BE
 **BE**
 
 - Continue implementation
-
-## Sprint 41 (2/10 – 2/23)
-
-### My VA redesign
-
-**PM**
-
-- Hold usability testing review at beginning of sprint
-
-**Design**
-
-- Recruit for research
-- Conduct research
-
-**FE**
-
-- FE to begin incorporating visual design
-
-## Sprint 42 (2/24 - 3/9)
-
-### My VA redesign
-
-**PM**
-
-**Design**
-
-- Research summary
-- Hand off final designs to FE
