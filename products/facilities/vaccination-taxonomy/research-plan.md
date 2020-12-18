@@ -88,9 +88,9 @@ Pilot participant:
 ## Team Roles	
 Please list the people who will be serving in each role. 
 - Moderator: Chris Logan (clogan@governmentcio.com)
-- Research guide writing and task development: Chris Logan (clogan@governmentcio.com)
+- Research guide writing and task development: Chris Logan
 - Participant recruiting & screening: Perigean
-- Project point of contact: Chris Logan (clogan@governmentcio.com)	
+- Project point of contact: Chris Logan
 - Participant(s) for pilot test: 
 - Note-takers: Perigean 
 - Observers: 
