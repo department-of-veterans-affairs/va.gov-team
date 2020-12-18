@@ -1,30 +1,29 @@
-**Session Report**
+**Keep Me Informed: Covid-19 Vaccine Updates Signup Form**
 
 Project : [Keep Me Informed](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/covid-vaccine-distribution/research)
 
-[Research plan(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/covid-vaccine-distribution/research/research-plan.md)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/covid-vaccine-distribution/research/research-plan.md)
 
 [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/covid-vaccine-distribution/research/research-plan.md)
 
 11 participants, December 14-17, 2020
 
-
 Prepared By: Lauryl Zenobi
 
 # Participant demographics
-|Status|Gender|Race/Ethnicity|Age|Location|
-| :--- | :--- | :--- | :--- |
-|Veteran |	Male |	White or Caucasian | 55 - 64 | OK|
-|Veteran |	Female	| American Indian or Alaska Native White or Caucasian |	65 - 74 |	UT |
-|Veteran	| Female	 |	Black or African American	 |	45 - 54	 |	KY |
-|Veteran	| Female	 |	Black or African American	 |	45 - 54	 |	OH |
-|Veteran/Veteran's family member |	Female | White or Caucasian	| 45 - 54	| UT |
-|Veteran |	Male |		White or Caucasian	 |	65 - 74 |		FL |
-|Veteran |	Female	 |	Other	 |	45 - 54	 |	MI |
-|Veteran |	Female	 |	White or Caucasian	 |	25 - 34	 |	WI |
-|Veteran |		Male	 |	White or Caucasian |		45 - 54	 |	VA | 
-|Veteran |		Female	 |	White or Caucasian	 |	55 - 64	 |	MO |
-|Veteran |		Female	 |	White or Caucasian	 |	45 - 54	 |	ID |
+| Status | Gender | Race/Ethnicity | Age | Location |
+| :---- | :---- | :---- | :---- |
+| Veteran |	Male | White or Caucasian | 55 - 64 | OK|
+| Veteran |	Female | American Indian or Alaska Native White or Caucasian | 65 - 74 |	UT |
+| Veteran	| Female | Black or African American	| 45 - 54	| KY |
+| Veteran	| Female | Black or African American	| 45 - 54	|	OH |
+| Veteran/Veteran's family member |	Female | White or Caucasian	| 45 - 54	| UT |
+| Veteran |	Male | White or Caucasian | 65 - 74 |		FL |
+| Veteran |	Female | Other	| 45 - 54	|	MI |
+| Veteran |	Female | White or Caucasian	 |	25 - 34	 |	WI |
+| Veteran |	Male | White or Caucasian |	45 - 54	 | VA | 
+| Veteran |	Female | White or Caucasian	 | 55 - 64 |	MO |
+| Veteran |	Female	| White or Caucasian	 | 45 - 54	|	ID |
 
 # Key Findings
 
