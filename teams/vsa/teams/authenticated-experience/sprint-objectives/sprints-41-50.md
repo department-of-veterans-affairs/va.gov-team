@@ -28,6 +28,25 @@
 
 - FE to begin incorporating visual design
 
+### Direct deposit for edu
+
+**PM**
+
+- Finish contact center updates
+- [Contact center review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#contact-center-review)
+- [Staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
+  - Prep
+  - Hold meeting
+
+**Design**
+
+- Accessibility tests for staging review
+- UAT planning
+
+**FE**
+
+- Accessibility tests for staging review
+
 ## Sprint 42 (2/24 - 3/9)
 
 ### My VA redesign
@@ -39,9 +58,54 @@
 - Research summary
 - Hand off final designs to FE
 
+### Direct deposit for edu
+
+**PM**
+
+- [Privacy and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review)
+
+**Design**
+
+- UAT recruiting
+- UAT
+
+**FE**
+
+- Fixes from UAT
+
 ## Sprint 43 (3/10 - 3/23)
+
+### Direct deposit for edu
+
+**PM**
+
+- Hold go/no-go
+- Launch to 10%
+- Keep eBenefits updated on launch
+
+**FE**
+
+- Fixes from UAT, if needed
+
 ## Sprint 44 (3/24 - 4/6)
+
+### Direct deposit for edu
+
+**PM**
+
+- Launch to 25%
+- Launch to 50%
+- Keep eBenefits updated on launch
+
 ## Sprint 45 (4/7 - 4/20)
+
+### Direct deposit for edu
+
+**PM**
+
+- Launch to 100%
+- Confirm date of retirement of feature on eBenefits
+
 ## Sprint 46 (4/21 - 5/4)
 ## Sprint 47 (5/5 - 5/18)
 ## Sprint 48 (5/19 - 6/1)
