@@ -420,13 +420,25 @@ BE
 
 ### Direct deposit for edu
 
+**PM** 
+
+- Request QA for following sprint. To make sure we are ready, this requires:
+  - Reviewing the feature
+  - Making sure Jim Adams has reviewed the feature
+  - Talking with Erik to make sure we are 100% going to be ready for QA
+  
+**Design**
+
+- Review Erik's initial build
+
 **BE**
 
 - Modify Ch33BankAccountsController#index method to also return bank name #17294
 
 **FE**
 
-- Continue build
+- Finish build
+- Write tests
 
 ### VA Profile notification preferences
 
@@ -458,10 +470,20 @@ BE
 **PM**
 
 - Complete release plan and save in direct deposit for edu GitHub folder ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/97759a81a47c73da8bf03e35f3a13bb3c689d18b/platform/product-management/release-plan-template.md))
+- [Analytics request (collab cycle)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#analytics-request)
+  - Analytics planning
+  - Meet with analytics 
+  - Oversee implementation
+- Start contact center guide
+
+**QA**
+
+- Complete QA
+- Create tickets if there are issues
 
 **FE**
 
-- Finish build
+- QA fixes, if applicable
 
 ### VA Profile notification preferences
 
@@ -495,15 +517,20 @@ BE
 
 **PM**
 
-- [Analytics request (collab cycle)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#analytics-request)
-  - Analytics planning
-  - Meet with analytics 
-  - Oversee implementation
-- Start contact center guide
+- Finish contact center updates
+- [Contact center review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#contact-center-review)
+- [Staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
+  - Prep
+  - Hold meeting
 
-**QA**
+**Design**
 
-- Complete QA
+- Accessibility tests for staging review
+- UAT planning
+
+**FE**
+
+- Accessibility tests for staging review
 
 ### VA Profile notification preferences
 
