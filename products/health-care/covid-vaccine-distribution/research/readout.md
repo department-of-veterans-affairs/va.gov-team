@@ -94,4 +94,13 @@ Some areas of trouble were:
 - Only two participants understood that they could update their interest by resubmitting the form. Most participants expected to opt out or change interest through eBenefits, Gmail unsubscribe, or by sending their doctor a secure message through MHV.
 - Participants appreciated the tone and content of the main hub, especially the [Frequently Asked Questions](https://www.va.gov/health-care/covid-19-vaccine/#questions-you-may-have-about-c), but they wanted more information about safety, adverse and common side effects, whether studies were continuing after distribution started, and what to expect with logistics and the timeline of rollout to specific facilities.
 - Participants wanted to be able to see what facilities near them would have the vaccine, but understood that the content of the site was in flux and likely to be updated as new information was released. 
+- Some participants assumed the 6-12 months question related to zip codes meant the VA was operating on a 6-12 month roll out plan. Since timeline information is not available on the [main page](https://www.va.gov/health-care/covid-19-vaccine/), participants filled in that information themselves based on what they saw in the signup form. 
+- Those in rural areas expressed concern about logistics, and would've liked to see more reassurance on how sensitive vaccine storage would interact with roll out plans for their area. 
+
+# Recommendations
+
+- Consider redirecting users directly to signup form after logging in
+- Add additional information about safety, excluded populations, adverse reactions, and long term monitoring plans as that information is surfaced
+- Consider adding context on anticipated roll out timeline, even if broad and subject to change
+- Add vaccine status and availability to Facility Locator or to the main page (note, there is current work going on at VA Lighthouse API Program to add vaccine availability to the Facility Locator page, Lauryl is conducting UX on that project)
 
