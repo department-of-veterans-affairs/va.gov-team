@@ -5,9 +5,9 @@
 
 ### Points of contact for system and dependent VA backends
    - Lighthouse
-   - Facilities
    - VSP (DevOps)
-   - PPMS (upstream system)
+   - PPMS (upstream system) - incidents must be reported via [Service NOW](https://yourit.va.gov/va?id=va_report_incident)
+ 
 
 ### Links to dashboards that help identify and debug application issues
 #### Grafana Dashboards
@@ -49,7 +49,7 @@ Used for searches in which Facility type =
 - Urgent care + Service type = Community urgent care (in VA’s network)
 
 **/v1/facilities/va_ccp/urgent_care** 
-Used for searches in whichFacility type =
+Used for searches in which Facility type =
 - Urgent care + Service type = Community urgent care (in VA’s network)
 
 ### Interactions with dependent VA backends
