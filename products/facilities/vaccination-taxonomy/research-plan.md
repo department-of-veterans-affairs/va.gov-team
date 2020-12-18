@@ -65,9 +65,36 @@ At least:
 - 2 participants with a disability rating of 70% or greater
 
 ## Recruitment Process
-- Number of participants should be at least 15. To account for high rate of abandonment.
+- We'd like to schedule 30 participants to reach our goal of 15 fulfilled sessions.
 - Researcher will work with Perigean to draft recruitment email and send out an interest email to Veterans
 - Perigean sends another recruitment email (if needed)
+
+
+## Timeline
+
+Study dates: ___ - ___ , 2020
+Session length: ___ minutes
+
+Date | Time
+-----|-------
+___ | ___ am, ___ pm
+___ | ___ am, ___ pm
+___ | ___ am, ___ pm
+___ | ___ am, ___ pm
+
+A pilot session will be held on ___ at ___ EST.
+Pilot participants:
+
+## Team Roles	
+Please list the people who will be serving in each role. 
+- Moderator: Chris Logan (clogan@governmentcio.com)
+- Research guide writing and task development: Chris Logan (clogan@governmentcio.com
+- Participant recruiting & screening: Perigean
+- Project point of contact: Chris Logan (clogan@governmentcio.com	
+- Participant(s) for pilot test: 
+- Note-takers: Perigean 
+- Observers: 
+
 
   
   
