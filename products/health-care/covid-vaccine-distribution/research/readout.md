@@ -1,17 +1,19 @@
-**Keep Me Informed: Covid-19 Vaccine Updates Signup Form**
+# Keep Me Informed: Covid-19 Vaccine Updates Signup Form
+December 14-17, 2020
+Prepared By: Lauryl Zenobi
 
-Project : [Keep Me Informed](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/covid-vaccine-distribution/research)
+[Keep Me Informed Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/covid-vaccine-distribution/research)
 
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/covid-vaccine-distribution/research/research-plan.md)
 
 [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/covid-vaccine-distribution/research/research-plan.md)
 
-11 participants, December 14-17, 2020
 
-Prepared By: Lauryl Zenobi
 
-# Participant demographics 
 
+
+## Participant demographics 
+11 participants:
 - Veteran,	Male, White or Caucasian, 55 - 64,  OK
 - Veteran, Female, American Indian or Alaska Native White or Caucasian, 65 - 74, UT
 - Veteran, Female, Black or African American, 45 - 54, KY
@@ -36,7 +38,7 @@ Prepared By: Lauryl Zenobi
 8. Dignity and autonomy are important. Participants appreciate the balanced tone of the signup form and website information.  
 
 
-# Key Quotes:
+## Key Quotes:
 
 - "I Don't have a good answer [on what would convince me to get the vaccine]. My and my friends are conspiracy theorists, so there's always something behind what the gov is involved [in]"	
 - "It's [the website] well presented, allows you to get to where you need to go to fill out the form."				
@@ -97,7 +99,7 @@ Some areas of trouble were:
 - Some participants assumed the 6-12 months question related to zip codes meant the VA was operating on a 6-12 month roll out plan. Since timeline information is not available on the [main page](https://www.va.gov/health-care/covid-19-vaccine/), participants filled in that information themselves based on what they saw in the signup form. 
 - Those in rural areas expressed concern about logistics, and would've liked to see more reassurance on how sensitive vaccine storage would interact with roll out plans for their area. 
 
-# Recommendations
+## Recommendations
 
 - Consider redirecting users directly to signup form after logging in
 - Add additional information about safety, excluded populations, adverse reactions, and long term monitoring plans as that information is surfaced
