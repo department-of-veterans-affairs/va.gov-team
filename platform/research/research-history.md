@@ -16,6 +16,14 @@ This does not include research for Appeals projects, which is stored in differen
 
 ### December 2020
 
+#### December 14-17: Keep Me Informed Usability Testing
+*Office of the CTO. Lead researcher: Lauryl Zenobi*
+
+- Number of participants: 11
+
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/covid-vaccine-distribution/research)
+
+
 #### December 14 - December 18: IRIS Usability Testing 
 
 *IRIS Redesign.  Lead researcher: Rachel M. Murray
