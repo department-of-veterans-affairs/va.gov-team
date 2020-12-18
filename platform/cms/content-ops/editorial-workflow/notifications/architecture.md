@@ -1,4 +1,11 @@
-**Purpose: Architect a solution to notifications and subscriptions as outlined here: https://docs.google.com/spreadsheets/d/1M0a4VBcuNxpYuhDDpARQdlpRXaeXG_K9JyVCV9xCu6c/edit#gid=0.**
+## Event Architecture:
+
+<img src="https://lucid.app/publicSegments/view/a9d4bc8b-defd-48f9-9053-ed8bffe8e602/image.png">
+
+
+## Notification Architecutre:
+
+<img src="https://lucid.app/publicSegments/view/889dab3d-e9c9-4c68-bc35-53335dc3685a/image.png">
 
 
 ## **Technical Requirements**
