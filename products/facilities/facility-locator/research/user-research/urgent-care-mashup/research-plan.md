@@ -57,6 +57,7 @@ June 15 | 7-11am, 12-3pm
 June 16 | 7-8am, 9-11am, 12-3pm
 
 A pilot session will be held on July 10, 2020 at 1pm EST.
+
 Pilot participant: Michelle Middaugh, Michael Pelz-Sherman
 
 ## Team Roles	
