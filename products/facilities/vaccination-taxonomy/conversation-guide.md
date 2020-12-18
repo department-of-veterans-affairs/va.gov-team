@@ -1,4 +1,4 @@
-# Conversation Guide: Vaccination Taxonomy Study 
+# Conversation Guide: Vaccination Services Taxonomy 
 
 **December 2020 Discovery**<br>
 
