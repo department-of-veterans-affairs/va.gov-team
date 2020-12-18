@@ -4,7 +4,7 @@
 
 ### Release 1.0 (MVP)
 
-_Notifications framework base and test data to gauge expected notifications volume and iterate on framework design._
+_**Notifications framework base and test data to gauge expected notifications volume and iterate on framework design.**_
 
 1. A base framework for responding to the editorial workflow events and subscription tracking mechanisms is established in the Drupal CMS. Notifications framework plugins for the editorial workflow events are functional.
 1. The Drupal CMS generates notification records for each workflow state transition event per user, but doesn't send emails (MVP 1.1).  This initial approach offers the following advantages:
@@ -18,7 +18,7 @@ _Notifications framework base and test data to gauge expected notifications volu
 
 ### Release 1.1 (MVP)
 
-_Integration with VANotify. UI to un/subscribe per entity. UI Design for an enhanced subscription management._
+_**Integration with VANotify. UI to un/subscribe per entity. UI Design for an enhanced subscription management.**_
 
 1. Drupal CMS has a sender plugin that integrates with the VANotify API
 1. Drupal CMS can utilize VANotify API email templates
@@ -35,7 +35,7 @@ _Integration with VANotify. UI to un/subscribe per entity. UI Design for an enha
 
 ### Release 1.2
 
-_Near real-time notifications. Granular subscription management UI available to all users._
+_**Near real-time notifications. Granular subscription management UI available to all users.**_
 
 1. CMS users have a granular UI that allows them to subscribe/unsubscribe to/from editorial workflow notifications per transition / content type / etc as defined in Release 1.1
    1. Link to manage subscription settings is available in all email communications
