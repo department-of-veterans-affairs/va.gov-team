@@ -31,30 +31,13 @@ VSP engineers utilize a wide variety of tools, processes, concepts, and utilitie
 
 For as much as we can, we should aim to build a single source of truth. This will be best for managing/updating code, reducing "works on my machine" problems, and provide automatic configuration/support.
 
-### High Level Design - WIP
-
-These are mostly ideas until the first research spike is complete.
+### High Level Design
 
 - VSP can use to do internal tasks (to dogfood) but goal is to improve VFS teams productivity
-- Configuration file to manage local user configuration
-- Configuration management (write to ~/.vsp/config.yml) for portability and extensibility
-- Single binary install, package management, install from source (make it *easy* and *fool-proof* to install & update &
-    use)
-- Built-in tools for portability (`pkg`, `nodejs`) can reduce headache for cross-platform users, and "just work," though
 - Adds value by allowing us to codify important business practices (running reports, updating config, etc).
 - Integrates w/ other tools across the VSP world
 - Provides a modular design (VFS teams can modify it)
-- Future-proof and scale-friendly - the shell isn't going away, React might, SOCKS config may change (instead of
-    everyone updating `/etc/*` or equiv, they can run `vsp upgrade` and `vsp socks` and be done w/ it)
-- Could provide a webservice for the VFS team to use to query status/outages (is this just /v0/backend_status?)
-- Test user data may be accessible here too, like `vsp service mvi --users --out=mvi-test-users.json`
-- `vsp product:config forms --all --hide-sensitive` would show global VSP and api/site (product) specific configuration
-- `vsp config` - should this be showing config for a specific thing? like "aws configuration" or "vets-api settings.yml"
-- Indicate somehow that a command is a native plugin or an "extension" i.e. not supported directly by VSP?
-- We can build a process around adding/publishing modules for inclusion in the supported code, maybe
-- We envision this can be leveraged into a web UI by wrapping a common API pattern
-- The RPCs between commands should be consistent schema so we can do standard extensions
-
+- Future-proof and scale-friendly - the shell isn't going away, React might, SOCKS config may change (instead of everyone updating `/etc/*` or equiv, they can run `vsp upgrade` and `vsp socks` and be done w/ it)
 
 ## Specifics
 
@@ -106,6 +89,17 @@ These are mostly ideas until the first research spike is complete.
 
 ### Future Work
 - expand the CLI to meet various support needs
+- Configuration file to manage local user configuration
+- Configuration management (write to ~/.vsp/config.yml) for portability and extensibility
+- Single binary install, package management, install from source (make it *easy* and *fool-proof* to install & update & use)
+- Tools for portability ("Traveling Ruby" or "Ruby Packer") can reduce headache for cross-platform users and "just work"
+- Could provide a webservice for the VFS team to use to query status/outages (is this just /v0/backend_status?)
+- Test user data may be accessible here too, like `vsp service mvi --users --out=mvi-test-users.json`
+- `vsp product:config forms --all --hide-sensitive` would show global VSP and api/site (product) specific configuration
+- `vsp config` - should this be showing config for a specific thing? like "aws configuration" or "vets-api settings.yml"
+- Indicate somehow that a command is a native plugin or an "extension" i.e. not supported directly by VSP?
+- We can build a process around adding/publishing modules for inclusion in the supported code, maybe
+
 
 ### Revision History
 
