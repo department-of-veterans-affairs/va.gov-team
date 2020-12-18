@@ -6,8 +6,8 @@
 
 - [ ] Notifications off
 - [ ] Turn off waiting room feature in Zoom
-- [ ] [Link to Health Services page](URL)
-- [ ] [Link to Card Sort page](URL)
+- [ ] [Link to Health Services page]
+- [ ] [Link to Card Sort page]
 
 ## Intro - 3 minutes
 
