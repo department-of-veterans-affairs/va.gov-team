@@ -8,6 +8,7 @@ This document is intended to outline the process for comparing the GraphQL and C
 2. [Tracking Process](#tracking-process)
    1. [Getting Deploy Time](#deploy-time)
    2. [Getting Build Time](#build-time)
+   3. [Getting Content Loading Time](#loading-time)
 
 ## Background <a name="background"></a>
 
@@ -20,6 +21,10 @@ The metric used for comparing both builds is ***content build time* + *deploy ti
 Currently the content build step happens in the [Build](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/common.groovy#L208) stage of the Jenkins pipeline. The deploy is started in the [Deploy](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile#L122) stage of the Jenkins pipeline (at least for dev and staging deploys). The deploy is then carried out by another Jenkins pipeline. This means that the build time and deploy time will come from two separate Jenkins pipelines. This will change in the future once the content build separation takes place.
 
 Adding the time of these two stages will give us the total time it takes to build and deploy content on the site.
+
+In addition, we will track the ***content loading time*** which is the time it takes for content to be downloaded and processed by either build. The reason for tracking this metric is to get a more direct comparison of the GraphQL and CMS export builds. This strictly measures the time it takes to download and process content into the format used by the [Liquid](https://shopify.github.io/liquid/) [templates](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/site/layouts). This step occurs in the [loadDrupal](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/drupal/metalsmith-drupal.js#L214) function of the Metalsmith pipeline. 
+
+For the GraphQL build, content is loaded in the [getContentViaGraphQL](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/drupal/metalsmith-drupal.js#L225) function via executing GraphQL queries. Content in the CMS export build is loaded in the [getContentFromExport](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/drupal/metalsmith-drupal.js#L224) function, which includes downloading, unzipping, and transforming the CMS export from Drupal.
 
 ## Tracking Process <a name="tracking-process"></a>
 
@@ -66,3 +71,21 @@ Once you are on the log page, scroll to the bottom of the page to view the conte
 [2020-12-08T18:09:58.988Z] Build finished!
 [2020-12-08T18:09:59.242Z] Done in 87.95s. # This is the content build time
 ```
+
+### Getting Content Loading time <a name="loading-time"></a>
+
+The content load time can be found in the same log file as above in the [*Getting Build time*](#build-time) section. The load time will be displayed after the text **Total time to load content from [BUILD TYPE]: [LOADING TIME]**.
+
+For example, in the CMS export build, the text should read something like:
+
+```shell
+Total time to load content from CMS export: 6.286s
+```
+
+Whereas in the GraphQL build, the text would read:
+
+```shell
+Total time to load content from GraphQL: 6.286s
+```
+
+The content loading time should be added to the *Load Time* column in the spreadsheet.
