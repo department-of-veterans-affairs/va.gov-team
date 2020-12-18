@@ -1,5 +1,6 @@
 # Keep Me Informed: Covid-19 Vaccine Updates Signup Form
 December 14-17, 2020
+
 Prepared By: Lauryl Zenobi
 
 [Keep Me Informed Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/covid-vaccine-distribution/research)
