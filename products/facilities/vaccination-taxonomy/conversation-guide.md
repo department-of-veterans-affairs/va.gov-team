@@ -59,7 +59,7 @@ I'm going to share a link to a VA web page here in the zoom chat window for you 
  - If yes, how long ago? What were you doing? What was the experience like?
  - If no, this page covers the types of health services found at a VA Healthcare facility. This is the page I would like to discuss with you today and get your feedback. In a minute, we will do some easy tasks where you can provide your thoughs on where it makse the most sense to find vaccination information on this webpage. 
 
-## Card Sort - 15 minutes
+## Card Sort - 20 minutes
 Ok, with this page in mind, I am going to send you a second link, and we will go through the tasks I mentioned.
 
 - This page looks very different from the VA page, but the groups of health services displayed here are the same, just on cards. 
@@ -113,19 +113,28 @@ I see you've selected []
 
 ## Post-Task Interview - 5 minutes
 
-I have just a couple more questions before we finish up:
+I have a few questions before we finish up:
 
-- Have you ever visited an urgent care clinic in the past (VA or non-VA)?
-    - If yes, can you tell me about that?
-- Can you think of anything that would make this website easier for you to use next time?
-- Is there anything that I haven't asked you that you think that I should know?
+  - What words would you use when searching for vaccination-related services?
+  - What words do you use when searching - such as vaccine/vaccination vs immunization vs shot?
+  - Would you search for Flu or influenza?
+  - Would you search for Coronavirus vs COVID
+- Does the expectation change based on the type of vaccination?
+  - Age-based (such as shingles or pneumococcal)
+  - Risk-based (such as pneumococcal)
+  - Seasonal flu
+  - Time or incident-based (such as Tdap, Tdap Boosters)
+  - COVID vaccination
+  - COVID testing
+- Have you had any vaccines in the last 10 years?
+- When you get a vaccine, is it part of primary care (eg. VA visit)? Pharmacy visit? Town hall or other community-based vaccination program?
+- How many times in the last 5 years have you had the flu shot?
+- (If over age of 55) Do you plan to or did you take the shingles vaccine?
+- Have you taken Tdap (tetanus, diphtheria, and pertussis) vaccine / Have you taken Tdap booster?
 - Any questions for me? 
 
 ## Thank-You and Closing - 2 minutes
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
-
-Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
-    If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we work to make vaccine information easy to find for Veterans.
 
 Great, well thank you so much again, and enjoy the rest of your day!
