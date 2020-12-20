@@ -35,11 +35,11 @@ The Facilities needs a better understanding of how veterans expect to find healt
 ## Method
 
 - Moderated hybrid card sort. This method allows participants to select the location within the taxonomy where they expect to find vaccination services information. Participants may also create their own section within the taxonomy if they feel it is appropriate.
-  - Using a card sort, 3 tasks will be given to account for real-world scenarios. Where would they expect to see information on: 
+  - Using a card sort, 4 tasks will be given to account for real-world scenarios. Where would they expect to see information on: 
   1. Annual flu shot
   2. Tdap/Tdap booster
-  4. Shingles vaccine
   3. COVID-19 vaccine
+  4. Shingles vaccine
 - Moderation will provide opportunity for qualitative discovery through follow-up questions.
 
 ## Participants (Preliminary - in Progress)
