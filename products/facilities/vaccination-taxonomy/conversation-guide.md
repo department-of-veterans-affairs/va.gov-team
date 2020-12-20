@@ -29,7 +29,7 @@ I'll give you a quick overview of today's session.
 
 - Then I will send you a link to a VA web page, and ask you to share your screen so that I can see what you see.
 
-- After that I will send you a link to a second web page. On that page, I will take you through 3 quick tasks. The goal of these tasks is that I can understand where you would most likely look for vaccine information on the page.
+- After that I will send you a link to a second web page. On that page, I will take you through 4 quick tasks. The goal of these tasks is that I can understand where you would most likely look for vaccine information on the page.
 
 - And then lastly, I will just ask a few follow up questions. That's it!
 
@@ -63,61 +63,53 @@ I'm going to share a link to a VA web page here in the zoom chat window for you 
 Ok, with this page in mind, I am going to send you a second link, and we will go through the tasks I mentioned.
 
 - This page looks very different from the VA page, but the groups of health services displayed here are the same, just on cards. 
+
 - This is what we call a card sort. On the left hand side you will see three cards with vaccines displayed on them. I will give you a task for each of these 3 cards, and all you need to do is move the vaccine cards into one of the groups on the right, where you might expect to find information about that vaccine. And if none of the groups on the right seem like the best place, you can also create your own group.
+
 - As you sort these cards, if you could talk out loud while you work, that would be great. That will help me to understand your thoughts.
 
 ###### BEGIN CARD SORT TASKS
 
 ### Task 1 Scenario
 
-For the first task, you are :
-Can you talk me through how you would go about finding care on this page?
-- Go ahead and try that now.
+For the first task, you are planning to get your annual Flu shot, and would like to read information on Flu shots provided by VA.gov:
+Can you talk me through which group on the right you would expect to find Flu shot information?
+- When you are ready, go ahead and move the Flu shot card to the right to the place where you think it makes the most sense.
     
+(If participant does not talk as they make their choice):
 I see you've selected [] 
-- Can talk me through why you chose those particular options?
-- What would be your next step?
+- Can talk me through why you chose this particular group (or create a new group)?
 
-[click 'search button']
+### Task 2 Scenario
 
-###### PROTOTYPE: Search results
-- Talk me through what you see on this page?
-- What would be your thought process for making a choice from this list? 
-- What is important to you when choosing from this list?
-
-### Task 2
-
-I'm going to have you do a second task. For this task, under the 'Choose a VA facility type' menu, I'd like you to choose 'Urgent care'.
-
-#### Questions:
-
-Open the 'Choose a service type' menu, talk me through what the different options mean to you.
-   - What does 'Community urgent care providers (in VA's network)' mean to you?
-   - What does 'VA urgent care' mean to you? 
-- Does this distinction matter to you? 
-   - What matters about the distinction?
-   
-Go ahead and click the blue 'Search' button for me.
-- Tell me about the options available to you.
-
-### Scenario
-In this next scenario, I'd like you to imagine that you are considering the two closest locations. 
-
-
-#### Questions:
-- Talk me through what would be important to you in comparing these two options.
-- If you chose A, how would you prepare to visit this location?
-    - What does "[Urgent care benefit information]" mean to you? 
-    - What do you think you will find when you click it?
-Go ahead and click that link for me.
-    - Just briefly, what do you think this page trying to communicate?
+For the second task, it has been many years since you last had a Tdap shot (tetanus, diphtheria, and pertussis) and would like to know more about how to receive this shot:
+Can you talk me through which group on the right you would expect to find Tdap shot information?
+- When you are ready, go ahead and move the Tdap shot card to the right to the place where you think it makes the most sense.
     
-Let's go back to the search results page. 
-Let's look at B.
+(If participant does not talk as they make their choice):
+I see you've selected [] 
+- Can talk me through why you chose this particular group (or create a new group)?
 
-- If you chose B, how would you prepare to visit this location?
-    - What does the [Limited services and hours] mean to you?  
-- What would be your next step?
+### Task 3 Scenario
+
+For the third task, you have many questions about the COVID-19 vaccine, its availability and where you might go to receive it:
+Can you talk me through which group on the right you would expect to find COVID-19 vaccine information?
+- When you are ready, go ahead and move the COVID-19 vaccine card to the right to the place where you think it makes the most sense.
+    
+(If participant does not talk as they make their choice):
+I see you've selected [] 
+- Can talk me through why you chose this particular group (or create a new group)?
+
+### Task 4 Scenario
+(This will only be relevant to a subset of participants who are 50 years old or older. Should we include this task for all participants?)
+
+For the last task, you have read that it is important to get the Shingles vaccine once you have reached the age of 50. You would like to know if the VA provides this vaccine:
+Can you talk me through which group on the right you would expect to find COVID-19 vaccine information?
+- When you are ready, go ahead and move the Shingles vaccine card to the right to the place where you think it makes the most sense.
+    
+(If participant does not talk as they make their choice):
+I see you've selected [] 
+- Can talk me through why you chose this particular group (or create a new group)?
 
 ## Post-Task Interview - 5 minutes
 
