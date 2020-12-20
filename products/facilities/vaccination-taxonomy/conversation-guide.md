@@ -5,7 +5,7 @@
 ### Setup
 
 - [ ] Notifications off
-- [ ] Announce session in #feedback-backchannel 10 minutes ahead of time + post the observer instructions
+- [ ] Announce session in #feedback-channel 10 minutes ahead of time + post the observer instructions
 - [ ] Notifications off
 - [ ] Turn off waiting room feature in Zoom
 - [ ] In the Attendees section, make sure everyone except the participant is on mute
