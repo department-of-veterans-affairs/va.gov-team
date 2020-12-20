@@ -61,12 +61,10 @@ I'm going to share a link to a VA web page here in the zoom chat window for you 
  - If yes, how long ago? What were you doing? What was the experience like?
  - If no, this page covers the types of health services found at a VA Healthcare facility. This is the page I would like to discuss with you today and get your feedback. In a minute, we will do some easy tasks where you can provide your thoughs on where it makse the most sense to find vaccination information on this webpage. 
 
-###### PROTOTYPE: VA.gov main
-#### Question:
-- Are you familiar with VA.gov's location finder? 
-Go ahead and click 'Find a VA location' for me.
+##### Card Sort
+- Ok, with this page in mind, I am going to send you a second link, and ask that you share your screen once you have opened that link.
 
-###### PROTOTYPE: User clicks on 'Find a VA Location'
+###### BEGIN CARD SORT TASKS
 #### Questions:
 - Have you ever used this page? 
     - If yes, how long ago, what were you doing? What was that experience like?
