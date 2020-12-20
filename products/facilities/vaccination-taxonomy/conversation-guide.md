@@ -111,7 +111,7 @@ Can you talk me through which group on the right you would expect to find COVID-
 I see you've selected [] 
 - Can talk me through why you chose this particular group (or create a new group)?
 
-## Post-Task Interview - 5 minutes
+## Post-Task Interview - 10 minutes
 
 I have a few questions before we finish up:
 
@@ -133,7 +133,7 @@ I have a few questions before we finish up:
 - Have you taken Tdap (tetanus, diphtheria, and pertussis) vaccine / Have you taken Tdap booster?
 - Any questions for me? 
 
-## Thank-You and Closing - 2 minutes
+## Thank-You and Closing
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we work to make vaccine information easy to find for Veterans.
 
