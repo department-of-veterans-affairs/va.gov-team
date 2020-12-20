@@ -21,9 +21,10 @@ Before we start, a few things I want to mention:
 - **This entire session should take about 45 minutes.** 
 - **First, I'll ask you a few warm up questions to get us started.**
 - **After that, I will share a couple of links with you:**  
-    - **Then, I'll be sharing a link to a VA web page to take a look at the types of health services that are listed.** 
-    - **Then I will send you a link and ask you to share your screen.**
-- **I will ask you questions about different vaccinations and where you think information on them would go.**
+    - First, we will take a look at a VA web page and go over the types of health services that are listed there. 
+    - Then I will send you a link to a second web page, and ask you to share your screen.
+- **On that second page, I will take you through 3 quick tasks.** These tasks are to get your thoughts on where best to place vaccine information on the page.
+- **And then lastly, I will just ask a few follow up questions.** That's it!
 - **In this session, we want to hear your honest opinions.** We are not testing you, instead we are testing the website to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
