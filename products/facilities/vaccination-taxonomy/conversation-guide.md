@@ -1,11 +1,15 @@
 # Conversation Guide: Vaccination Services Taxonomy 
 
-**December 2020 Discovery**<br>
+**December 2020 Discovery**
 
 ### Setup
 
 - [ ] Notifications off
+- [ ] Announce session in #feedback-backchannel 10 minutes ahead of time + post the observer instructions
+- [ ] Notifications off
 - [ ] Turn off waiting room feature in Zoom
+- [ ] In the Attendees section, make sure everyone except the participant is on mute
+- [ ] In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
 - [ ] [Link to Health Services page](https://www.va.gov/pittsburgh-health-care/health-services/)
 - [ ] [Link to Card Sort page]
 
@@ -34,7 +38,6 @@ Before we start, a few things I want to mention:
 - Can you tell me a little about your service history?
 - Have you visited the VA for healthcare in the past year?
     - If yes, can you tell me about that?
-
 
 ## Usability Test - 25 minutes
 
