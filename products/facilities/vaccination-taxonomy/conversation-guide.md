@@ -49,7 +49,7 @@ I'll give you a quick overview of today's session.
 - Have you visited the VA for healthcare in the past year?
     - If yes, can you tell me about that?
 
-## Usability Test - 25 minutes
+## Health Services Page - 5 minutes
 
 I'm going to share a link to a VA web page here in the zoom chat window for you to click on. Then I'll want you to share your screen so that I can follow along and see what you see.
 
@@ -59,11 +59,13 @@ I'm going to share a link to a VA web page here in the zoom chat window for you 
  - If yes, how long ago? What were you doing? What was the experience like?
  - If no, this page covers the types of health services found at a VA Healthcare facility. This is the page I would like to discuss with you today and get your feedback. In a minute, we will do some easy tasks where you can provide your thoughs on where it makse the most sense to find vaccination information on this webpage. 
 
-##### Card Sort
-- Ok, with this page in mind, I am going to send you a second link, and ask that you share your screen once you have opened that link.
+## Card Sort - 15 minutes
+- Ok, with this page in mind, I am going to send you a second link, and we will go through the tasks I mentioned.
 
 ###### BEGIN CARD SORT TASKS
-#### Questions:
+- This page looks very different from the VA page, but the services displayed here are the same. 
+
+#### Task 1:
 - Have you ever used this page? 
     - If yes, how long ago, what were you doing? What was that experience like?
     - If no, how do you go about finding information about VA locations?
