@@ -27,11 +27,9 @@ Before we start, a few things I want to mention:
 I'll give you a quick overview of today's session.
 - First, I'll ask you a few warm up questions to get us started.
 
-- Then we will take a look at a VA web page and go over the types of health services that are listed there. 
+- Then I will send you a link to a VA web page, and ask you to share your screen so that I can see what you see.
 
-- After that I will send you a link to a second web page, and ask you to share your screen.
-    
-- On that second page, I will take you through 3 quick tasks. These tasks are to get your thoughts on where it is best to place vaccine information on the page.
+- After that I will send you a link to a second web page. On that page, I will take you through 3 quick tasks. The goal of these tasks is that I can understand where you would most likely look for vaccine information on the page.
 
 - And then lastly, I will just ask a few follow up questions. That's it!
 
