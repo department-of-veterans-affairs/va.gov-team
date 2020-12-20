@@ -20,7 +20,7 @@ Before we start, a few things I want to mention:
 
 - **This entire session should take about 45 minutes.** 
 - **First, I'll ask you a few warm up questions to get us started.**
-- **After that, I will share a couple of links with you:
+- **After that, I will share a couple of links with you:**  
     - **Then, I'll be sharing a link to a VA web page to take a look at the types of health services that are listed.** 
     - **Then I will send you a link and ask you to share your screen.**
 - **I will ask you questions about different vaccinations and where you think information on them would go.**
