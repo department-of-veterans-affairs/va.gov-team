@@ -12,7 +12,7 @@
 - [ ] [Link to Health Services page](https://www.va.gov/pittsburgh-health-care/health-services/)
 - [ ] [Link to Card Sort page]
 
-## Intro - 3 minutes
+## Intro - 5 minutes
 
 Thanks for joining us today! My name is Chris, and I also have some colleagues on the line observing and taking notes. Today we're going to talk about finding vaccination information on the VA.gov website.
 
