@@ -60,29 +60,17 @@ I'm going to share a link to a VA web page here in the zoom chat window for you 
  - If no, this page covers the types of health services found at a VA Healthcare facility. This is the page I would like to discuss with you today and get your feedback. In a minute, we will do some easy tasks where you can provide your thoughs on where it makse the most sense to find vaccination information on this webpage. 
 
 ## Card Sort - 15 minutes
-- Ok, with this page in mind, I am going to send you a second link, and we will go through the tasks I mentioned.
+Ok, with this page in mind, I am going to send you a second link, and we will go through the tasks I mentioned.
+
+- This page looks very different from the VA page, but the groups of health services displayed here are the same, just on cards. 
+- This is what we call a card sort. On the left hand side you will see three cards with vaccines displayed on them. I will give you a task for each of these 3 cards, and all you need to do is move the vaccine cards into one of the groups on the right, where you might expect to find information about that vaccine. And if none of the groups on the right seem like the best place, you can also create your own group.
+- As you sort these cards, if you could talk out loud while you work, that would be great. That will help me to understand your thoughts.
 
 ###### BEGIN CARD SORT TASKS
-- This page looks very different from the VA page, but the services displayed here are the same. 
 
-#### Task 1:
-- Have you ever used this page? 
-    - If yes, how long ago, what were you doing? What was that experience like?
-    - If no, how do you go about finding information about VA locations?
+### Task 1 Scenario
 
-### Scenario
-#### Directions:
-I'm going to walk us through a scenario and have you perform a couple tasks. Again, this is only a prototype so some things might not work as expected. As you work through the tasks I'd like you to think out loud and narrate what you see and what goes through your mind.
-
-
-I'd like you to imagine that you are coming to this site because you think you might have sprained your ankle. You don't want to go to an emergency room because you don't think it's quite that serious. You live in Denver, CO.
-
-### Task 1
-
-###### PROTOTYPE: User performs search
-#### Questions:
-
-For the first task, given the scenario:
+For the first task, you are :
 Can you talk me through how you would go about finding care on this page?
 - Go ahead and try that now.
     
