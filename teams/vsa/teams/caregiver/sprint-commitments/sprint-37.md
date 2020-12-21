@@ -9,9 +9,9 @@
 
 | Status | Points | User story | Notes |
 | ------ | :------: |----------- |------ |
-|        | 8 |[10-10EZ Address Field](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15159)|
+|        | 8 |[10-10EZ Address Field](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15159)| 12/21 - Work is in progress, working on feature flip work
 |        | ? |Set up demo with stakeholders for 10-10EZ Address work |
-|        | ? |[Transition save-in-progress forms to new schema](https://dsva.slack.com/archives/CE4304QPK/p1608053928057500?thread_ts=1608052936.055000&cid=CE4304QPK) | 
+|        | ? |[Transition save-in-progress forms to new schema](https://dsva.slack.com/archives/CE4304QPK/p1608053928057500?thread_ts=1608052936.055000&cid=CE4304QPK) | 12/21 - will start on after address field work
 |        | 5 |[Refactor/flatten 10-10CG UI schema](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16874)
 |        | 5 | [Refactor/flatten 10-10EZ UI schema](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17071)
 
@@ -26,9 +26,9 @@
 
 | Status | Points | User story | Notes |
 | ------ | :------: |----------- |------ |
-|        |  5 | [[Research] Familiarize with backend set up of the online 10-10EZ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17618) |
-|        |  3 | [Testing and production release of background processing on 10-10CG](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17538)
-|        |  5 | [Research] backend changes to support 10-10EZ address additions (+ generate tickets) |
+| Complete |  5 | [[Research] Familiarize with backend set up of the online 10-10EZ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17618) |
+|        |  3 | [Testing and production release of background processing on 10-10CG](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17538) | 12/21 - sorting out permission issues to see Production-level dashboard. Next steps: reach out to platform
+| Complete + Alayna to make ticket |  5 | [Research] backend changes to support 10-10EZ address additions (+ generate tickets) |
 |        |  8 | Backend changes needed to support 10-10EZ address additions |
 |        |  U |[Set up Sentry Alerts for 10-10CG in Slack](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16875) |  
 |        |  5 |[Add support for "medical facility where you last recieved care" decoupling to 10-10CG schema](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16883)
