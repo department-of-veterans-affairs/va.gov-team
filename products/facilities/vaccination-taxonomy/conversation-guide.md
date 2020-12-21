@@ -113,8 +113,8 @@ I see you've selected []
 
 I have a few questions before we finish up:
 
-  - What words would you use when searching for vaccination-related services?
-  - What words do you use when searching - such as vaccine/vaccination vs immunization vs shot?
+  - What words would you use when searching for vaccination-related services on the VA.gov website?
+  - What words do you use when searching - such as vaccine/vaccination vs immunization vs shot on the VA.gov website?
   - Would you search for Flu or influenza?
   - Would you search for Coronavirus vs COVID
 - Does the expectation change based on the type of vaccination?
