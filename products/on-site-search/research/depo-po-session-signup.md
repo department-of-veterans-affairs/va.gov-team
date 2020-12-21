@@ -12,16 +12,16 @@ Outlook calendar invites will be sent to participants.
 
 | Thur 12/17 - 11:30am-12:30pm est | Fri 12/18 - 1:30-2:30pm est | Tues 12/22 - 1:30-2:30pm est |
 |--|--|--|
-|John Hashimoto  | John Hashimoto  | John Hashimoto  |
-|Denise Coveyduc | Denise Coveyduc | Denise Coveyduc |
-|Megan Gayle     | Megan Gayle     | Megan Gayle     |
-|Kevin M. Hoffman| Dror Matalon    | Samara Strauss  |
-|                | Steve Kovacs    | Sabrina Mohamed |
-|                |                 |                 |
-|                |                 |                 |
-|                |                 |                 |
-|                |                 |                 |
-|                |                 |                 |
+|John Hashimoto  | John Hashimoto  | John Hashimoto      |
+|Denise Coveyduc | Denise Coveyduc | Denise Coveyduc     |
+|Megan Gayle     | Megan Gayle     | Megan Gayle         |
+|Kevin M. Hoffman| Dror Matalon    | Samara Strauss      |
+|                | Steve Kovacs    | Sabrina Mohamed     |
+|                |                 | Chante Lantos-Swett |
+|                |                 |                     |
+|                |                 |                     |
+|                |                 |                     |
+|                |                 |                     |
 
 
 Please add your name here if you are unable to join us in December and would prefer to participate in a fourth and final session in early January.
