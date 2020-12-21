@@ -1,5 +1,6 @@
 # Post-MVP Launch Enhancements #
-##Table of Contents##
+## Table of Contents ##
+### [New Features in This Release](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/post-launch-enhancements/README.md#new-features-in-this-release) ###
 
 ## Purpose of this document ##
 This document is to track decisions, reviews, and documentation related to delivery of [Post-MVP Launch Enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10758)
