@@ -99,10 +99,10 @@ I see you've selected []
 - Can talk me through why you chose this particular group (or create a new group)?
 
 ### Task 4 Scenario
-(This will only be relevant to a subset of participants who are 50 years old or older. Should we include this task for all participants?)
+(This will only be relevant to a subset of participants who are 60 years old or older. Should we include this task for all participants?)
 
-For the last task, you have read that it is important to get the Shingles vaccine once you have reached the age of 50. You would like to know if the VA provides this vaccine:
-Can you talk me through which group on the right you would expect to find COVID-19 vaccine information?
+For the last task, you have read that it is important to get the Shingles vaccine once you have reached the age of 60. You would like to know if the VA provides this vaccine:
+Can you talk me through which group on the right you would expect to find Shingles vaccine information?
 - When you are ready, go ahead and move the Shingles vaccine card to the right to the place where you think it makes the most sense.
     
 (If participant does not talk as they make their choice):
@@ -127,7 +127,7 @@ I have a few questions before we finish up:
 - Have you had any vaccines in the last 10 years?
 - When you get a vaccine, is it part of primary care (eg. VA visit)? Pharmacy visit? Town hall or other community-based vaccination program?
 - How many times in the last 5 years have you had the flu shot?
-- (If over age of 55) Do you plan to or did you take the shingles vaccine?
+- (If 60 or older) Do you plan to or did you take the shingles vaccine?
 - Have you taken Tdap (tetanus, diphtheria, and pertussis) vaccine / Have you taken Tdap booster?
 - Any questions for me? 
 
