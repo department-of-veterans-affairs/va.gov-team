@@ -18,7 +18,7 @@ Outlook calendar invites will be sent to participants.
 |Kevin M. Hoffman| Dror Matalon    | Samara Strauss      |  Danielle Thierry |  
 |                | Steve Kovacs    | Sabrina Mohamed     |                   |
 |                |                 | Chante Lantos-Swett |                   |
-|                |                 |                     |                   |
+|                |                 | Dave Conlon         |                   |
 |                |                 |                     |                   |
 
 
