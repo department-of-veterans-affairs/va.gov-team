@@ -30,9 +30,12 @@ This does not include research for Appeals projects, which is stored in differen
 
 *IRIS Redesign.  Lead researcher: Rachel M. Murray
 
-- Number of participants: TO UPDATE
+- Number of participants: 8
 
-- [Research folder] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/iris/Usability%20Testing)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/iris/Usability%20Testing)
+
+- Keywords: IRIS, contact us form, inquiry
+
 
 #### November 19 - December 15: 526 Usability test (PTSD flow)
 *GovernmentCIO, BAM 1. Lead researcher: Christian Valla
