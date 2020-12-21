@@ -112,8 +112,8 @@ I see you've selected []
 ## Post-Task Interview - 10 minutes
 
 I have a few questions before we finish up:
-- What words would you use when searching for vaccination-related services on the VA.gov website?
-- What words do you use when searching - such as vaccine/vaccination vs immunization vs shot on the VA.gov website?
+- When you search for vaccination-related services on the VA.gov website, what words would you use in your search?
+    - As examples, would you be more likely to use the word vaccine/vaccination, or immunization, or shot?
 - Would you search for Flu or influenza?
 - Would you search for Coronavirus vs COVID?
 - Have you had any vaccines in the last 10 years?
