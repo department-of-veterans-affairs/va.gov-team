@@ -37,10 +37,10 @@ Coming soon: Online Caregiver portal
 ## Who we are
 
 ### Team Members:
-- DSVA Product Lead: C.C. Gong
+- DSVA Product Lead: Ming Ligh
 - Team Product Manager: Alayna Abel
 - Front-End Engineering: Justin Linn
-- Back-End Engineering: Lance Sanchez/Kevin Marcowitz
+- Back-End Engineering: Kevin Mircovich
 - UX/Research: Jonathan Nelson
 
 ---
