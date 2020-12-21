@@ -117,7 +117,7 @@ I have a few questions before we finish up:
 - Would you search for Flu or influenza?
 - Would you search for Coronavirus vs COVID?
 - Have you had any vaccines in the last 10 years?
-- When you get a vaccine, is it part of primary care (eg. VA visit)? Pharmacy visit? Town hall or other community-based vaccination program?
+- When you get a vaccine, do you get it as part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program?
 - How many times in the last 5 years have you had the flu shot?
 - (If 60 or older) Do you plan to or did you take the shingles vaccine?
 - Have you taken Tdap (tetanus, diphtheria, and pertussis) vaccine / Have you taken Tdap booster?
