@@ -42,7 +42,7 @@
 |        |  5 |[Timestamp research on the 10-10EZ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16876)
 |        |  5 |Tech debt: [Remove CARMA::Models::Base for more explicit hard-coded #to_request_payload methods](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16129)
 |        |  3 |Tech debt: [Add mocks for Metadata in CARMA::Models::Submission spec](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16130)
-|        |  U |Tech debt: [Rescue from MVI::Errors::DuplicateRecords error on MPI](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17163)
+|        |  ? |Tech debt: [Rescue from MVI::Errors::DuplicateRecords error on MPI](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17163)
 |        |  ? |Tech debt: [Refactor the Form1010cg::Service specs to have better nested context blocks]()
 |        |  5 |Tech debt: [Do not raise errors of MPI Search on caregivers for 10-10CG](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14309)
 |        | 13 |Tech debt: [Refactor MVI Lookup in Form1010cg::Service to not build a UserIdentity](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9083)
