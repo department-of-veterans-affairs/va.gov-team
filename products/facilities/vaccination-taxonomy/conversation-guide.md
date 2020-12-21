@@ -112,18 +112,10 @@ I see you've selected []
 ## Post-Task Interview - 10 minutes
 
 I have a few questions before we finish up:
-
-  - What words would you use when searching for vaccination-related services on the VA.gov website?
-  - What words do you use when searching - such as vaccine/vaccination vs immunization vs shot on the VA.gov website?
-  - Would you search for Flu or influenza?
-  - Would you search for Coronavirus vs COVID
-- Does the expectation change based on the type of vaccination?
-  - Age-based (such as shingles or pneumococcal)
-  - Risk-based (such as pneumococcal)
-  - Seasonal flu
-  - Time or incident-based (such as Tdap, Tdap Boosters)
-  - COVID vaccination
-  - COVID testing
+- What words would you use when searching for vaccination-related services on the VA.gov website?
+- What words do you use when searching - such as vaccine/vaccination vs immunization vs shot on the VA.gov website?
+- Would you search for Flu or influenza?
+- Would you search for Coronavirus vs COVID?
 - Have you had any vaccines in the last 10 years?
 - When you get a vaccine, is it part of primary care (eg. VA visit)? Pharmacy visit? Town hall or other community-based vaccination program?
 - How many times in the last 5 years have you had the flu shot?
