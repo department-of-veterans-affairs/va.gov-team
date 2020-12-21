@@ -55,9 +55,7 @@ I'm going to share a link to a VA web page here in the zoom chat window for you 
 
 ###### MODERATOR SHARES LINK TO PA HEALTH SERVICES PAGE
 [Link to Health Services page](https://www.va.gov/pittsburgh-health-care/health-services/)
-- Have you ever used this page? 
- - If yes, how long ago? What were you doing? What was the experience like?
- - If no, this page covers the types of health services found at a VA Healthcare facility. This is the page I would like to discuss with you today and get your feedback. In a minute, we will do some easy tasks where you can provide your thoughs on where it makse the most sense to find vaccination information on this webpage. 
+This page covers the types of health services found at a VA Healthcare facility. This is the page I would like to discuss with you today and get your feedback. In a minute, we will do some easy tasks where you can provide your thoughs on where it makse the most sense to find vaccination information on this webpage. 
 
 ## Card Sort - 20 minutes
 Ok, with this page in mind, I am going to send you a second link, and we will go through the tasks I mentioned.
