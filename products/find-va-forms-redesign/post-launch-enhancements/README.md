@@ -14,7 +14,7 @@ This document is to track decisions, reviews, and documentation related to deliv
 - New info message displayed when a user searches for a form that has been removed from the forms database. https://github.com/department-of-veterans-affairs/va.gov-team/issues/11625
 ## Decisions ##
 ### Research Decisions ###
-- 1 are we going to do research?
+- 2020-12-21 PO, PM and Product Team all agreed that the features being implemented were low-risk and don't warrant conducting research.
 ### Design Intent Collaboration Decisions ###
 ### Accessibility Review Decisions ###
 ### Analytics Decisions ###
