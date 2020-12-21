@@ -26,7 +26,7 @@ Outlook calendar invites will be sent to participants.
 
 Please add your name here if you are unable to join us in December and would prefer to participate in a fourth and final session in early January.
 
-- TBD
+- Danielle Thierry
 - TBD
 
 > Written with [StackEdit](https://stackedit.io/).
