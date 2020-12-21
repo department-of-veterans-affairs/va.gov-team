@@ -2,7 +2,7 @@
 
 This folder contains synthesized results from the quarterly CMS User Satisfaction Surveys and the communication for the survey distribution.
 
-#### Comms
+### Comms
 
 **Slack**
 
@@ -13,6 +13,7 @@ Help us help you by giving your feedback in a 2 minute survey. We’d like to he
 :clipboard: [Take the survey](link)
 
 Thank you!
+
 
 
 **Email**
