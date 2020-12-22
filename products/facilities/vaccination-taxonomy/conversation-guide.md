@@ -187,8 +187,9 @@ In making that selection, what information would you expect to see about getting
 
 ## Post-Task Interview - 10 minutes
 
-I have a few questions before we finish up:
+That is it - thank you for going through these with me today. It is really helpful as we try to make
 - Any questions for me? 
+<em>**Placeholder** COVID-19 Vaccine information - in the case of any questions by the participant.</em>
 
 ## Thank-You and Closing
 
