@@ -2,7 +2,7 @@
 
 ### Public Websites
 
-| Products             | SoP| OKRs | DOMO Dashboard |
+| Products             | SoP| OKRs | DOMO |
 |:--:|:--:|:--:|:--:|
 |Resources & Support   |                  |   X  |        X       |
 |Campaign Landing Page |        X         |      |                |
