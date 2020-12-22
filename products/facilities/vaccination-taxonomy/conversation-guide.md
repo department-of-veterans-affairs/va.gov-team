@@ -120,7 +120,7 @@ I have a few questions before we finish up:
 - How many times in the last 5 years have you had the flu shot?
 - (If 60 or older) Have you gotten or plan to get the shingles vaccine?
 - Have you taken Tdap (tetanus, diphtheria, and pertussis) vaccine / Have you taken Tdap booster?
-- You mentioned having gotten the ___ vaccine. When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program? (Ask for each of the vaccines that the participant states having received).
+- You mentioned having gotten the ___ vaccine. When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program? <em>(Ask for each of the vaccines that the participant states having received).</em>
 - Any questions for me? 
 
 ## Thank-You and Closing
