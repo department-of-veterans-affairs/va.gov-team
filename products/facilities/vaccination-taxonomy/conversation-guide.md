@@ -72,9 +72,13 @@ This page covers the types of health services found at a VA Healthcare facility.
 ## Card Sort - 30 minutes
 Ok, with this page in mind, I am going to send you a link, and we will go through the tasks I mentioned.
 
-- This page looks very different from the VA page we just visited, but imagine that we are looking at the same page, but the services are just on movable cards. 
+###### PARTICIPANT SHARING CARD SORT PAGE
 
-- This is what we call a card sort. On the left hand side you will see cards with vaccines displayed on them. I will give you a task for each of the vaccine types, and all you need to do is move the vaccine cards into one of the groups on the right, where you might expect to find information about that vaccine. 
+- This page looks very different from the VA page we just visited, but imagine that we are looking at the same page, where the health services are shown on the right. 
+
+- This is what we call a card sort. On the left hand side you will see cards with vaccines displayed on them. It looks like a lot - but each vaccine has an extra card, and I will explain that in just a moment. This will go pretty quickly.
+
+So, I will give a task for each of the vaccine types, and all you need to do is move the vaccine cards into one of the groups on the right, where you might expect to find information about that vaccine. 
 
  - And if none of the groups on the right seem like the best place, you can also create your own group and call it by a name that makes sense to you.
 
