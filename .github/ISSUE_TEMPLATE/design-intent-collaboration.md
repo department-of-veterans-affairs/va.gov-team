@@ -7,16 +7,16 @@ assignees: shiragoodman, allison0034, emilywaggoner
 
 ---
 
-## Steps to complete Design Intent Collaboration
-- [ ] Product Manager or Designer: create this issue and fill in team name and feature name in the title and other bolded information appropriately
+## VFS: Steps to complete Design Intent Collaboration
+- [ ] Product Manager or Designer: create this issue and fill in team name and feature name in the title
 - [ ] Link to this issue once created in #design in Slack; tag @ Allison Christman & @ Emily Waggoner
-- [ ] Allison and Emily to schedule meeting with VSP reviewers and **requesting team** attendees (as listed below)
 - [ ] At least 2 days before scheduled meeting, you must provide list of artifacts below
-- [ ] Design Intent collaboration meeting completed 
-- [ ] [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/u/1/d/1d219oL1zCvCvnv1Bx-dI-GMzwgbarLv9_bzMSa3ULjA/edit#gid=1341642809) is updated
-- [ ] Design experts leave feedback and relevant resources on this ticket
-- [ ] VFS designer acknowledge receipt of feedback/resources
+- [ ] After meeting, respond appropriately to VSP feedback tickets
 
+## VSP: Steps to complete Design Intent Collaboration
+- [ ] Schedule meeting with VSP reviewers and requesting team attendees (as listed below)
+- [ ] [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/u/1/d/1d219oL1zCvCvnv1Bx-dI-GMzwgbarLv9_bzMSa3ULjA/edit#gid=1341642809) is updated
+- [ ] VSP practice areas create feedback ticket and link to this ticket (if no feedback, please comment stating no feedback)
 
 ## Artifacts - _please provide the following at least 2 days before the scheduled meeting_
 - Link to product outline ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md))
@@ -42,4 +42,4 @@ Design experts will provide:
 - A list of relevant design components and patterns (with URLs)
 - A list of existing applications or pages with similar execution or patterns with URLs in staging
 
-During this collaboration point, you will receive feedback from the following practice areas: design, accessibility
+During this collaboration point, you will receive feedback from the following practice areas: design, accessibility, content, IA
