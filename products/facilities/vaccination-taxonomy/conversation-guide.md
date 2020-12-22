@@ -102,9 +102,10 @@ I see you've selected __.
 - Can talk me through why you chose this particular group (or create a new group)?
 
 ### Task 4 Scenario
+
 <em>(This will only be relevant to a subset of participants who are 60 years old or older. Should we include this task for only for participants in the recommended age group?)</em>
 
-For the last task, you have read that it is important to get the Shingles vaccine once you have reached the age of 60. You would like to know if the VA provides this vaccine:
+For this task, you have read that it is important to get the Shingles vaccine once you have reached the age of 60. You would like to know if the VA provides this vaccine:
 Can you talk me through which group on the right you would expect to find Shingles vaccine information?
 - When you are ready, go ahead and move the Shingles vaccine card to the right to the place where you think it makes the most sense.
     
@@ -112,6 +113,18 @@ Can you talk me through which group on the right you would expect to find Shingl
 
 I see you've selected __. 
 - Can talk me through why you chose this particular group (or create a new group)?
+
+### Task 5 Scenario
+
+For the last task, you are considering a visit to Central America, and aren't sure if there are any vaccinations you need before going:
+Can you talk me through which group on the right you would expect to find travel-related vaccine information?
+- When you are ready, go ahead and move the Travel-Related Vaccines card to the right to the place where you think it makes the most sense.
+    
+<em>(If participant makes their choice without sharing their thought process):</em>
+
+I see you've selected __. 
+- Can talk me through why you chose this particular group (or create a new group)?
+
 
 ## Post-Task Interview - 10 minutes
 
