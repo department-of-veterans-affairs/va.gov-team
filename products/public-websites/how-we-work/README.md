@@ -66,7 +66,7 @@ Live Google Sheets version: https://docs.google.com/spreadsheets/d/1izUIMwzl7NRv
   - [How to work with the Analytics team and make requests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-we-work/analytics_requests.md)
 
 
-- [PM Portfolio Deliverables (Foundational)[(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-we-work/portfolio_deliverables.md)
+- [PM Portfolio Deliverables (Foundational)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-we-work/portfolio_deliverables.md)
 
 
 
