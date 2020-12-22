@@ -54,6 +54,7 @@
 
 - Research summary
 - Hand off final designs to FE
+- Design retro (go over what went well; what didn't; why the work took so long)
 
 ### Direct deposit for edu
 
