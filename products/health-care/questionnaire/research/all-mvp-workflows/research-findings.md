@@ -2,7 +2,7 @@
 
 **Prepared by:** Kristen McConnell (kristen.mcconnell@adhocteam.us)<br>
 December 2020<br/>
-[Downloadable PDF](https://docs.google.com/presentation/d/1amnUaR7lRF4VAwH2d3BSQQTKu_7ifj0111SuS0vlK80/edit?usp=sharing)
+[Downloadable PDF](https://drive.google.com/file/d/1fJP31TPYLjXwvtUuHe1h4DKG3HAuiczy/view?usp=sharing)
 
 ## Background
 Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners. 
@@ -160,4 +160,4 @@ Additions to explore by working with platform (possible holistic changes)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/all-mvp-workflows/conversation-guide.md)
 - [Desktop prototype](https://preview.uxpin.com/db0b9ece7c8e0983a8baf1971db406af9f1d2201#/pages/134600037/simulate/no-panels?mode=cvhidm)
 - [Mobile Prototype](https://preview.uxpin.com/d3c9bb8ac5052d077234b5e4b2f7749d0bc5200d#/pages/134593965/simulate/no-panels?mode=cvhidm)
-- [Research Findings Presentation PDF](https://drive.google.com/file/d/1gLF26dSrNTMd-1h2-LdJkpNFm86K03uG/view?usp=sharing)
+- [Research Findings Presentation PDF](https://drive.google.com/file/d/1fJP31TPYLjXwvtUuHe1h4DKG3HAuiczy/view?usp=sharing)
