@@ -76,3 +76,4 @@
 - Backlog Grooming and Sprint Planning will take place the week of 1/4
 - Program calls have been cancelled 
 - Team huddle Zoom calls have been set up for 12/23, 12/28, and 12/30
+- Sprint Report has been prepped to wrap up on 1/4
