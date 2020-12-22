@@ -24,12 +24,12 @@ Before we start, a few things I want to mention:
 
 - If for any reason and at any time you want to stop the session, please let me know.
 
-I'll give you a quick overview of today's session.
+Now I'll give you a quick overview of today's session.
 - First, I'll ask you a few warm up questions to get us started.
 
-- Then I will send you a link to a VA web page, and ask you to share your screen so that I can see what you see.
+- Then I will share my screen to show you a health services page on VA.gov. This is just to show how services are shown, before we start the main part of the session.
 
-- After that I will send you a link to a second web page. On that page, I will take you through 4 quick tasks. The goal of these tasks is that I can understand where you would most likely look for vaccine information on the page.
+- After that I will send you a link to a web page. On that page, I will take you through 5 quick tasks. The goal of these tasks is for me to understand where you would most likely look for vaccine information on the page.
 
 - And then lastly, I will just ask a few follow up questions. That's it!
 
