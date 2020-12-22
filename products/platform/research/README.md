@@ -20,9 +20,11 @@ You can find resources to get you started with your research
 
 - [How VSP does research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/how-vsp-does-research.md) 
 
-- [VSP conversation guide template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/vsp-conversation-guide-template.md) 
+- [Platform conversation guide template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/vsp-conversation-guide-template.md) 
 
-- [VSP research plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/vsp-research-plan-template.md) 
+- [Platform research plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/vsp-research-plan-template.md) 
+
+- [Platform research participants](https://docs.google.com/spreadsheets/d/1V8Nswcbcp-SzQBTBUZNCnCCcs9WwbJ2CrAEbdFSNmMI/edit#gid=775867416) 
 
 <br>
 
