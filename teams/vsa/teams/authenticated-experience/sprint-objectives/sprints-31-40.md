@@ -425,6 +425,7 @@ BE
 **PM** 
 
 - Request QA for following sprint. To make sure we are ready, this requires:
+  - Making sure the feature is done
   - Reviewing the feature
   - Making sure Jim Adams has reviewed the feature
   - Talking with Erik to make sure we are 100% going to be ready for QA
