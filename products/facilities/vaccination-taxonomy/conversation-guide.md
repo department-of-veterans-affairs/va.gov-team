@@ -51,18 +51,23 @@ Now I'll give you a quick overview of today's session.
 
 ## Health Services Page - 5 minutes
 
-I'm going to share a link to a VA web page here in the zoom chat window for you to click on. Then I'll want you to share your screen so that I can follow along and see what you see.
+So while I am sharing my screen, I want to walk through an example of how health services are shown on VA.gov. 
 
-###### MODERATOR SHARES LINK TO PA HEALTH SERVICES PAGE
-[Link to Health Services page](https://www.va.gov/pittsburgh-health-care/health-services/)
-This page covers the types of health services found at a VA Healthcare facility. This is the page I would like to discuss with you today and get your feedback. In a minute, we will do some easy tasks in which you tell me where it the most sense to find vaccination information on this webpage. 
+###### MODERATOR SHARES SCREEN OF HEALTH SERVICES PAGE
+[Link to Health Services page](https://www.va.gov/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/) --> Podiatry
+This page covers the types of health services found at a VA Healthcare facility. There are several categories, and just as an example, I am showing the section on Podiatry. Each section has a description of what is treated, like arthritis, bunions, and other foot care. Below that is information on location, contact information and making appointments.
+ 
 
 ## Card Sort - 20 minutes
-Ok, with this page in mind, I am going to send you a second link, and we will go through the tasks I mentioned.
+Ok, with this page in mind, I am going to send you a link, and we will go through the tasks I mentioned.
 
-- This page looks very different from the VA page, but the groups of health services displayed here are the same, just on cards. 
+- This page looks very different from the VA page we just visited, but imagine that we are looking at the same page, but the services are just on movable cards. 
 
-- This is what we call a card sort. On the left hand side you will see three cards with vaccines displayed on them. I will give you a task for each of these 3 cards, and all you need to do is move the vaccine cards into one of the groups on the right, where you might expect to find information about that vaccine. And if none of the groups on the right seem like the best place, you can also create your own group.
+- This is what we call a card sort. On the left hand side you will see cards with vaccines displayed on them. I will give you a task for each of the vaccine types, and all you need to do is move the vaccine cards into one of the groups on the right, where you might expect to find information about that vaccine. 
+
+ - And if none of the groups on the right seem like the best place, you can also create your own group.
+
+ - Now, there is more than one card for each kind of vaccine. That is only so if you think the information should be in more than one place on the right, you have the cards to do so.
 
 - As you sort these cards, if you could talk out loud while you work, that would be great. That will help me to understand your thoughts.
 
