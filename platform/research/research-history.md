@@ -14,7 +14,16 @@ This does not include research for Appeals projects, which is stored in differen
 ------
 ###  2020
 
+
 ### December 2020
+
+#### Nov 30- Dec 7th: Direct Deposit for Edu
+*Authenticated Experience, Lead Researcher: Jim Adams*
+
+- Number of participants: 5
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/usability-testing)
+- List of keywords: Direct Deposit, compensation, pension, benefits, education, change, update
+
 
 #### December 14-17: Keep Me Informed Usability Testing
 *Office of the CTO. Lead researcher: Lauryl Zenobi*
