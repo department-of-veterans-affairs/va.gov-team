@@ -2,32 +2,34 @@
 
 ---
 
-## Guideposts
-### Mission:
-Provides Veterans, family members, caregivers, service members and other audiences access to vital information about VA benefits and services.
-
-### Vision:
-We envision a world where it takes less time to find information about VA benefits and services than it does on Google. 
-
 ### North Stars:
 1. Increase the use of self-service tools and associated number of conversions
 2. Decrease time users spend waiting for an outcome
 3. Consistent Customer satisfaction, reliability and secure online UX
+
+## Guideposts
+### Mission:
+Provide Veterans, and those that support Veterans access to vital information and tools about VA benefits and services.
+
+### Vision:
+We envision a world where it takes less time to find information about VA benefits and services than it does on Google. 
 
 ## What we work on
 ### Product Suite
 Unauthenticated Experience for VA.gov
 
 ### Product Portfolio:
--	Home Page 
+-	Resources and Support 
+- Campaign Landing Pages 
+
+### Product Initiatives:
+- Home Page 
 -	Header / Footer 
 -	Redirect Benefit Hubs 2.0 
--	On-site Search 2.0
--	Find a VA Form
-- Yellow Ribbon Participating Schools Tool
+- How to Apply Wizards - Benefit Hubs 2.0
 -	Contact Us/ Help Utility
 - Metrics - baseline and goals
-- Learning Center Content / IA 
+- Content / IA 
 
 
 ### Responsibilities (Problem space and user goals):
