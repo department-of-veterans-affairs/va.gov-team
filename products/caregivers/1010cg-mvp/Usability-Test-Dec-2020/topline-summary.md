@@ -17,9 +17,6 @@ This topline summary is a high level, top of mind summary of trends found in the
  
  ## Research Questions & Answers
  
-**Are users able to achieve their goal of either applying with a:**
-- Primary Family Caregiver
-- Primary Family Caregiver and Secondary Family Caregiver(s)
-- Secondary Family Caregiver(s) only
+**Are users able to achieve their goal of either applying with a:** Primary Family Caregiver, Primary Family Caregiver and Secondary Family Caregiver(s), or Secondary Family Caregiver(s) only
 
- - 
+- 
