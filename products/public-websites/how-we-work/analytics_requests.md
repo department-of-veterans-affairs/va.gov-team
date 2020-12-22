@@ -20,8 +20,8 @@
   - Clarification on reporting. This is if you already have numbers pulled, a report, or are looking at data and want a QA on if they’re reading the data correctly or if the numbers are accurate.
   
  - For Contact Centers data and Medallia requests:
-- Anything related to contact center data, teams can come to VSP Analytics with the normal request processes. We’ll triage on our end if something needs to be moved to the Contact Center team.
-- If the teams are looking for new Medallia surveys, they can go directly to the Contact Center team (#vfs-platform-support)
+  - Anything related to contact center data, teams can come to VSP Analytics with the normal request processes. We’ll triage on our end if something needs to be moved to the Contact Center team.
+  - If the teams are looking for new Medallia surveys, they can go directly to the Contact Center team (#vfs-platform-support)
 
 **Resources and Templates**
 
