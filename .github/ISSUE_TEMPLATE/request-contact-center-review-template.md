@@ -37,3 +37,4 @@ Please review the Self service Product Guide Template [link](https://github.com/
 - [ ] VSP Analytics & Insights QA has been completed 
 - [ ] VSP Analytics & Insights sends artifacts to appropriate contact centers
 - [ ] VFS team completes brief VSP Collaboration Cycle Feedback survey [link](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before)
+- [ ] VSP: [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1d219oL1zCvCvnv1Bx-dI-GMzwgbarLv9_bzMSa3ULjA/edit#gid=1710283887) is updated
