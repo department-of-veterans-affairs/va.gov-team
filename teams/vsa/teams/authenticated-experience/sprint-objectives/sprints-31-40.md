@@ -438,6 +438,7 @@ BE
 **BE**
 
 - Modify Ch33BankAccountsController#index method to also return bank name #17294
+- Change PUT profile/ch33_bank_account to return bank details after a successful update #17292
 
 **FE**
 
