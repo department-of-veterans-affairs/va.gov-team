@@ -48,6 +48,16 @@ Now I'll give you a quick overview of today's session.
 - Can you tell me a little about your service history?
 - Have you visited the VA for healthcare in the past year?
     - If yes, can you tell me about that?
+    
+- **Great! Now I would like to ask you a few questions related to our study.**
+
+ - When you search for vaccination-related services on the VA.gov website, what words would you use in your search?
+    - As examples, would you be more likely to use the word vaccine/vaccination, or immunization, or shot?
+
+ - Have you had any vaccines in the last 10 years?
+
+ - How many times in the last 5 years have you had the flu shot?
+
 
 ## Health Services Page - 5 minutes
 
@@ -134,12 +144,8 @@ I see you've selected __.
 ## Post-Task Interview - 10 minutes
 
 I have a few questions before we finish up:
-- When you search for vaccination-related services on the VA.gov website, what words would you use in your search?
-    - As examples, would you be more likely to use the word vaccine/vaccination, or immunization, or shot?
 - Would you search for Flu or influenza?
 - Would you search for Coronavirus vs COVID?
-- Have you had any vaccines in the last 10 years?
-- How many times in the last 5 years have you had the flu shot?
 - (If 60 or older) Have you gotten or plan to get the shingles vaccine?
 - Have you taken Tdap (tetanus, diphtheria, and pertussis) vaccine / Have you taken Tdap booster?
 - You mentioned having gotten the ___ vaccine. When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program? <em>(Ask for each of the vaccines that the participant states having received).</em>
