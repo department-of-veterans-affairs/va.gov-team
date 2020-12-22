@@ -16,7 +16,7 @@
 |:--:|:--:|:--:|:--:|
 |Onsite Search         |    |  X   |      |
 |Type-Ahead            |    |  X   |  X (Request)  |           
-|Offsite Search.       |    |      |      |
+|Offsite Search        |    |      |      |
 
 ### Decision Tools
 
