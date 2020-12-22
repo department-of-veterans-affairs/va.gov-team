@@ -2,12 +2,12 @@
 
 ### Public Websites
 
-| Products             | SoP | OKRs | DOMO |
+| Products             | SoP | OKRs | DOMO | 
 |:--:|:--:|:--:|:--:|
-|Resources & Support   |     |   X  |   X  |
-|Campaign Landing Page |  X  |      |      |
-|Benefits Hub          | |   |      |      |
-|Home Page             |     |      |      |
+|Resources & Support   |     |   X  |   X  |              
+|Campaign Landing Page |  X  |      |      |              
+|Benefits Hub          | |   |      |      |              
+|Home Page             |     |      |      | 
 |Sitewide Alerts       |     |      |      |
 
 ### Search & Discovery
