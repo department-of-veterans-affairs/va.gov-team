@@ -414,6 +414,7 @@ BE
 **Design**
 
 - Finalize desktop and mobile wireframe
+  - Should we add links to profile, download letters, and a couple of other popular links?
 - LOA1 design
 - Mock up first-time user experience
 - [Design] Submit MyVA wireframes for copy review #17530
