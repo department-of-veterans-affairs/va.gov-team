@@ -4,7 +4,7 @@
 
 | Products             | SoP | OKRs | DOMO | 
 |:--:|:--:|:--:|:--:|
-|Resources & Support   |     |   X  |   X  |              
+|Resources & Support   |  X   |   X  |   X  |              
 |Campaign Landing Page |  X  |      |      |              
 |Benefits Hub          | |   |      |      |              
 |Home Page             |     |      |      | 
