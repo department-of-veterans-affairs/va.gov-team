@@ -18,7 +18,7 @@ You can contact any of the following about research or adding your reach here:
 
 You can find resources to get you started with your research
 
-- [How VSP does research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/how-vsp-does-research.md) 
+- [How to do user research: VSP edition](https://docs.google.com/presentation/d/19pqV57hCks9H0nxsblOkqnKkVuccsNUgzUQ-i-yXr2k/edit#slide=id.p1) 
 
 - [Platform conversation guide template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/vsp-conversation-guide-template.md) 
 
