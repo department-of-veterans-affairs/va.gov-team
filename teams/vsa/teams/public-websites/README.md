@@ -54,7 +54,7 @@ Unauthenticated Experience for VA.gov
 |Product Manager        |Brian Lloyd                         |
 |Front End Engineer     |Nick Sullivan                       |
 |Front End Engineer     |Kelson Adams                        |
-|Design/Research        |Liz Lantz                           |
+|Design/Research        |Liz Lantz / Luarel Lawrence         |
 |Content Writer         |Selina Cooper                       |
 |Content Writer         |Laura Walsh                         |
 |Copy Editor            |Randi Hecht                         |
@@ -74,6 +74,7 @@ Unauthenticated Experience for VA.gov
 * website redirects
 * planned
 * un-planned
+* CMS-intake
 
 Milestones are set up as:
 * Public Websites Sprint xx
@@ -138,6 +139,16 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 - Trust one another and ask questions freely and frequently
 - Celebrate the wins
 - Let’s have fun and do great work!
+
+#### Estimating:
+Thought process:
+
+1 - Easy task, work is known, can be executed quickly
+2 - Mostly known, doable
+3 - Becoming complex
+5 - Complex, may take a half a sprint
+8 - Pretty complex, takes up to a full sprint
+13 - Very complex, needs to be broken down. Consider spike/ discovery?
 
 #### Decision Etiquette
 Decisions are part of our daily routine, the below questions can help kickstart the decision making and creative thinking process.
