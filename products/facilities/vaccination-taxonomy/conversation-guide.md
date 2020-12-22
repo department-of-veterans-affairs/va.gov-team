@@ -49,7 +49,7 @@ Now I'll give you a quick overview of today's session.
 - Have you visited the VA for healthcare in the past year?
     - If yes, can you tell me about that?
     
-Great! Now I would like to ask you a few questions related to our study.**
+Great! Now I would like to ask you a few questions related to our study.
 
 - When you search for vaccination-related services on the VA.gov website, what words would you use in your search?
     - As examples, would you be more likely to use the word vaccine/vaccination, or immunization, or shot?
