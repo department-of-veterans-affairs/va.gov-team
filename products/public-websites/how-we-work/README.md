@@ -59,11 +59,17 @@ Live Google Sheets version: https://docs.google.com/spreadsheets/d/1izUIMwzl7NRv
 
 ([Campaign Landing Page example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/state-of-product.md))
 
-- Quarterly Product Reviews
+- Quarterly Product Reviews (TBD)
 
 - Product Success Metrics
   - [Unauth Pillar OKR/KPI Roadmap Templates](https://docs.google.com/document/d/1zL6tkV54BDAP4GSu9ceMPccowdqQor1ldaHHGPtoyt8/edit) 
   - [How to work with the Analytics team and make requests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-we-work/analytics_requests.md)
+
+
+- [PM Portfolio Deliverables (Foundational)[(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-we-work/portfolio_deliverables.md)
+
+
+
 
 ### Roadmap Process
 
