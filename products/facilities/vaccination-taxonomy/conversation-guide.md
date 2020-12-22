@@ -57,7 +57,7 @@ Great! Now I would like to ask you a few questions related to our study.
 
 - Have you had any vaccines in the last 10 years?
 
-- How many times in the last 5 years have you had the flu shot? When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program? <em>(Ask for each of the vaccines that the participant states having received).</em>
+- How many times in the last 5 years have you had the flu shot? When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program?
 
 
 
