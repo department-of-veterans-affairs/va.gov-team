@@ -18,7 +18,7 @@ Thanks for joining us today! My name is Chris, and I also have some colleagues o
 
 Before we start, a few things I want to mention:
 
-- This entire session should take about 45 minutes.
+- This entire session should take about 60 minutes.
 
 - In this session, we want to hear your honest opinions. We are not testing your ability. We just want to make sure that vaccination information is easy to find on VA.gov. I will not be offended by any opinions you express, and I welcome your feedback.
 
@@ -29,7 +29,7 @@ Now I'll give you a quick overview of today's session.
 
 - Then I will share my screen to show you a health services page on VA.gov. This is just to show how services are shown, before we start the main part of the session.
 
-- After that I will send you a link to a web page. On that page, I will take you through 5 quick tasks. The goal of these tasks is for me to understand where you would most likely look for vaccine information on the page.
+- After that I will send you a link to a web page. On that page, I will take you through 6 quick tasks. The goal of these tasks is for me to understand where you would most likely look for vaccine information on the page.
 
 - And then lastly, I will just ask a few follow up questions. That's it!
 
@@ -69,7 +69,7 @@ So while I am sharing my screen, I want to walk through an example of how health
 This page covers the types of health services found at a VA Healthcare facility. There are several categories, and just as an example, I am showing the section on Podiatry. Each section has a description of what is treated, like arthritis, bunions, and other foot care. Below that is information on location, contact information and making appointments.
  
 
-## Card Sort - 20 minutes
+## Card Sort - 30 minutes
 Ok, with this page in mind, I am going to send you a link, and we will go through the tasks I mentioned.
 
 - This page looks very different from the VA page we just visited, but imagine that we are looking at the same page, but the services are just on movable cards. 
