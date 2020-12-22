@@ -14,3 +14,12 @@ This topline summary is a high level, top of mind summary of trends found in the
 
  - To make sure everyone who observed the study is in alignment with the perceived findings
  - To gain insight from team/stakeholder/designers and determine specific directions to pursue as we analyze the data
+ 
+ ## Research Questions & Answers
+ 
+**Are users able to achieve their goal of either applying with a:**
+- Primary Family Caregiver
+- Primary Family Caregiver and Secondary Family Caregiver(s)
+- Secondary Family Caregiver(s) only
+
+ - 
