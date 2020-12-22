@@ -74,7 +74,7 @@ For the first task, you are planning to get your annual Flu shot, and would like
 Can you talk me through which group on the right you would expect to find Flu shot information?
 - When you are ready, go ahead and move the Flu shot card to the right to the place where you think it makes the most sense.
     
-(If participant does not talk as they make their choice):
+<em>(If participant makes their choice without sharing their thought process):</em>
 I see you've selected [] 
 - Can talk me through why you chose this particular group (or create a new group)?
 
@@ -84,7 +84,7 @@ For the second task, it has been many years since you last had a Tdap shot (teta
 Can you talk me through which group on the right you would expect to find Tdap shot information?
 - When you are ready, go ahead and move the Tdap shot card to the right to the place where you think it makes the most sense.
     
-(If participant does not talk as they make their choice):
+<em>(If participant makes their choice without sharing their thought process):</em>
 I see you've selected [] 
 - Can talk me through why you chose this particular group (or create a new group)?
 
@@ -94,18 +94,18 @@ For the third task, you have many questions about the COVID-19 vaccine, its avai
 Can you talk me through which group on the right you would expect to find COVID-19 vaccine information?
 - When you are ready, go ahead and move the COVID-19 vaccine card to the right to the place where you think it makes the most sense.
     
-(If participant does not talk as they make their choice):
+<em>(If participant makes their choice without sharing their thought process):</em>
 I see you've selected [] 
 - Can talk me through why you chose this particular group (or create a new group)?
 
 ### Task 4 Scenario
-(This will only be relevant to a subset of participants who are 60 years old or older. Should we include this task for all participants?)
+<em>(This will only be relevant to a subset of participants who are 60 years old or older. Should we include this task for only for participants in the recommended age group?)</em>
 
 For the last task, you have read that it is important to get the Shingles vaccine once you have reached the age of 60. You would like to know if the VA provides this vaccine:
 Can you talk me through which group on the right you would expect to find Shingles vaccine information?
 - When you are ready, go ahead and move the Shingles vaccine card to the right to the place where you think it makes the most sense.
     
-(If participant does not talk as they make their choice):
+<em>(If participant makes their choice without sharing their thought process):</em>
 I see you've selected [] 
 - Can talk me through why you chose this particular group (or create a new group)?
 
