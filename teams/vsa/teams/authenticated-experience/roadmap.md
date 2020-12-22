@@ -39,7 +39,7 @@ It is because of this that we are going to dedicate all of 2020, and as much of 
 |**My VA 2.0**| Start technical discovery; start design | Design | Finish design; user testing; FE build | QA; pre-launch; launch | — | — |
 |**Direct deposit for edu**| Begin discovery | Continue discovery; design; build | QA; pre-launch; launch| — | — | — |
 |**Preferred facility for VA.gov profile**| — | Discovery; BE implementation | Design; User testing; FE build| QA; launch | — | — |
-|**VA Profile: Notificaion preferences**| — | Preliminary discussions | Initial BE integration; begin design discussions | ? | ? | ? |
+|**VA Profile: Notification preferences**| — | Preliminary discussions | Initial BE integration; begin design discussions | ? | ? | ? |
 
 ### Potential future projects & feature requests from other teams
 
