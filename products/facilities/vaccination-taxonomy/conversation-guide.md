@@ -57,7 +57,8 @@ Great! Now I would like to ask you a few questions related to our study.
 
 - Have you had any vaccines in the last 10 years?
 
-- How many times in the last 5 years have you had the flu shot?
+- How many times in the last 5 years have you had the flu shot? When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program? <em>(Ask for each of the vaccines that the participant states having received).</em>
+
 
 
 ## Health Services Page - 5 minutes
@@ -76,13 +77,11 @@ Ok, with this page in mind, I am going to send you a link, and we will go throug
 
 - This page looks very different from the VA page we just visited, but imagine that we are looking at the same page, where the health services are shown on the right. 
 
-- This is what we call a card sort. On the left hand side you will see cards with vaccines displayed on them. It looks like a lot - but each vaccine has an extra card, and I will explain that in just a moment. This will go pretty quickly.
-
-So, I will give a task for each of the vaccine types, and all you need to do is move the vaccine cards into one of the groups on the right, where you might expect to find information about that vaccine. 
+- This is what we call a card sort. On the left hand side you will see cards with vaccines displayed on them. I will give a task for each vaccine type, and all you need to do is move the vaccine card into one of the groups on the right, where you would expect to find information about that vaccine. 
 
  - And if none of the groups on the right seem like the best place, you can also create your own group and call it by a name that makes sense to you.
 
- - Now, it looks like there are a ton of cards on the left-hand side. A lot of these cards are just extras for the same vaccines. For the most part, they are there only in case you would expect to see information about a vaccine in more than one place on the right. You can use them, but you don't have to. 
+ - Now, it looks like there are a lot of cards to move from the left side. Each type of vaccine actually comes with an extra card which is optional to use. For the most part, they are there only in case you would expect to find vaccine information in more than one place on the right. You can use the extras, but you don't have to. 
 
 - As you sort these cards, if you could talk out loud while you work, that would be great. That will help me to understand your thoughts.
 
@@ -98,7 +97,14 @@ Can you talk me through which group on the right you would expect to find Flu sh
 
 I see you've selected __. Can talk me through why you chose this particular group (or create a new group)?</em>
 
-In making that selection, what information would you expect to see about getting this shot?
+In making that selection, what information would you expect to see about getting the Flu vaccine?
+
+Would you search for Flu or influenza?
+
+You mentioned that you have had the Flu shot - 
+    - <em>(If yes, received vaccine)</em> When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program? <em>(Ask for each of the vaccines that the participant states having received).</em>
+
+
 
 
 ### Task 2 Scenario
@@ -113,6 +119,8 @@ I see you've selected __. Can talk me through why you chose this particular grou
 
 In making that selection, what information would you expect to see about getting this shot?
 
+- Have you taken Tdap (tetanus, diphtheria, and pertussis) vaccine / Have you taken Tdap booster?
+
 
 ### Task 3 Scenario
 
@@ -124,7 +132,9 @@ Can you talk me through which group on the right you would expect to find Tdap s
 
 I see you've selected __. Can talk me through why you chose this particular group (or create a new group)?</em>
 
-In making that selection, what information would you expect to see about getting this shot?
+In making that selection, what information would you expect to see about getting this shot? 
+    - When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program? <em>(Ask for each of the vaccines that the participant states having received).</em>
+
 
 
 ### Task 4 Scenario
@@ -137,12 +147,13 @@ Can you talk me through which group on the right you would expect to find COVID-
 
 I see you've selected __. Can talk me through why you chose this particular group (or create a new group)?</em>
 
-In making that selection, what information would you expect to see about getting this shot?
+In making that selection, what information would you expect to see about getting this vaccine?
+
+Would you search for Coronavirus vs COVID?
+
 
 
 ### Task 5 Scenario
-
-<em>(This will only be relevant to a subset of participants who are 60 years old or older. Should we include this task for only for participants in the recommended age group?)</em>
 
 For this task, you have read that it is important to get the Shingles vaccine once you have reached the age of 60. You would like to know if the VA provides this vaccine:
 Can you talk me through which group on the right you would expect to find Shingles vaccine information?
@@ -152,7 +163,12 @@ Can you talk me through which group on the right you would expect to find Shingl
 
 I see you've selected __. Can talk me through why you chose this particular group (or create a new group)?</em>
 
-In making that selection, what information would you expect to see about getting this shot?
+In making that selection, what information would you expect to see about getting this vaccine?
+
+Have you gotten or plan to get the shingles vaccine when you are at the age at which it is recommended?  
+    - <em>(If yes, received vaccine)</em> When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program? <em>(Ask for each of the vaccines that the participant states having received).</em>
+
+
 
 
 ### Task 6 Scenario
@@ -172,11 +188,6 @@ In making that selection, what information would you expect to see about getting
 ## Post-Task Interview - 10 minutes
 
 I have a few questions before we finish up:
-- Would you search for Flu or influenza?
-- Would you search for Coronavirus vs COVID?
-- (If 60 or older) Have you gotten or plan to get the shingles vaccine?
-- Have you taken Tdap (tetanus, diphtheria, and pertussis) vaccine / Have you taken Tdap booster?
-- You mentioned having gotten the ___ vaccine. When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program? <em>(Ask for each of the vaccines that the participant states having received).</em>
 - Any questions for me? 
 
 ## Thank-You and Closing
