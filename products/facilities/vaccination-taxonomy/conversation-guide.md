@@ -76,7 +76,7 @@ Can you talk me through which group on the right you would expect to find Flu sh
     
 <em>(If participant makes their choice without sharing their thought process):</em>
 
-I see you've selected [] 
+I see you've selected __. 
 - Can talk me through why you chose this particular group (or create a new group)?
 
 ### Task 2 Scenario
@@ -87,7 +87,7 @@ Can you talk me through which group on the right you would expect to find Tdap s
     
 <em>(If participant makes their choice without sharing their thought process):</em>
 
-I see you've selected [] 
+I see you've selected __. 
 - Can talk me through why you chose this particular group (or create a new group)?
 
 ### Task 3 Scenario
@@ -98,7 +98,7 @@ Can you talk me through which group on the right you would expect to find COVID-
     
 <em>(If participant makes their choice without sharing their thought process):</em>
 
-I see you've selected [] 
+I see you've selected __. 
 - Can talk me through why you chose this particular group (or create a new group)?
 
 ### Task 4 Scenario
@@ -110,7 +110,7 @@ Can you talk me through which group on the right you would expect to find Shingl
     
 <em>(If participant makes their choice without sharing their thought process):</em>
 
-I see you've selected [] 
+I see you've selected __. 
 - Can talk me through why you chose this particular group (or create a new group)?
 
 ## Post-Task Interview - 10 minutes
