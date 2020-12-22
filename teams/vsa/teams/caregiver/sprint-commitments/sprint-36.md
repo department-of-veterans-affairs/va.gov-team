@@ -12,9 +12,9 @@
 - [ ] [10-10EZ Address Field](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15159) (8) 
 - [ ] Stretch (tech-debt): [Refactor/flatten 10-10CG UI schema](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/16874) (5)
 
-  **Additional Scope**
-  - [ ] [Update bad link in 10-10EZ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17819)
-  - [ ] [Investigate how bad link was introduced on 10-10EZ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17820)
+**Additional Scope**
+- [ ] [Update bad link in 10-10EZ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17819)
+- [ ] [Investigate how bad link was introduced on 10-10EZ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17820)
 
 ## Backend
 - [x] [Attempt resubmission of PDF on failure](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/15147) (13)
