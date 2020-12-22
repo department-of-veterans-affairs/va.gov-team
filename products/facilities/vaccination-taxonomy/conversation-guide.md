@@ -193,7 +193,9 @@ That is it - thank you for going through these with me today. It is really helpf
 <em>**Placeholder** COVID-19 Vaccine information - in the case of any questions by the participant.</em>
 
 Your provider will contact you when a vaccine is available to you. If you decide to get the vaccine, your provider will help you schedule your appointments.  
+
 **Stay informed and help us prepare**
+
 Sign up for an easy way to stay informed about our COVID-19 plans.
 When you sign up, we'll also ask about your interest in getting a vaccine when one is available to you. 
 By sharing your interest, you can help us better prepare as we work to offer vaccines to more Veterans.
