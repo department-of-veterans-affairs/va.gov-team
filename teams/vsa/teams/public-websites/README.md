@@ -145,12 +145,12 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 #### Estimating:
 Thought process:
 
-1 - Easy task, work is known, can be executed quickly
-2 - Mostly known, doable
-3 - Becoming complex
-5 - Complex, may take a half a sprint
-8 - Pretty complex, takes up to a full sprint
-13 - Very complex, needs to be broken down. Consider spike/ discovery?
+1. - Easy task, work is known, can be executed quickly
+2. - Mostly known, doable
+3. - Becoming complex
+5. - Complex, may take a half a sprint
+8. - Pretty complex, takes up to a full sprint
+13. - Very complex, needs to be broken down. Consider spike/ discovery?
 
 #### Decision Etiquette
 Decisions are part of our daily routine, the below questions can help kickstart the decision making and creative thinking process.
