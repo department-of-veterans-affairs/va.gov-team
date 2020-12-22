@@ -46,6 +46,7 @@ Now I'll give you a quick overview of today's session.
 ## Warm-up Questions - 5 minutes
 
 - Can you tell me a little about your service history?
+
 - Have you visited the VA for healthcare in the past year?
     - If yes, can you tell me about that?
     
@@ -75,9 +76,9 @@ Ok, with this page in mind, I am going to send you a link, and we will go throug
 
 - This is what we call a card sort. On the left hand side you will see cards with vaccines displayed on them. I will give you a task for each of the vaccine types, and all you need to do is move the vaccine cards into one of the groups on the right, where you might expect to find information about that vaccine. 
 
- - And if none of the groups on the right seem like the best place, you can also create your own group.
+ - And if none of the groups on the right seem like the best place, you can also create your own group and call it by a name that makes sense to you.
 
- - Now, there is more than one card for each kind of vaccine. That is only so if you think the information should be in more than one place on the right, you have the cards to do so.
+ - Now, it looks like there are a ton of cards on the left-hand side. A lot of these cards are just extras for the same vaccines. For the most part, they are there only in case you would expect to see information about a vaccine in more than one place on the right. You can use them, but you don't have to. 
 
 - As you sort these cards, if you could talk out loud while you work, that would be great. That will help me to understand your thoughts.
 
@@ -89,34 +90,52 @@ For the first task, you are planning to get your annual Flu shot, and would like
 Can you talk me through which group on the right you would expect to find Flu shot information?
 - When you are ready, go ahead and move the Flu shot card to the right to the place where you think it makes the most sense.
     
-<em>(If participant makes their choice without sharing their thought process):</em>
+<em>(If participant makes their choice without sharing their thought process):
 
 I see you've selected __. 
-- Can talk me through why you chose this particular group (or create a new group)?
+- Can talk me through why you chose this particular group (or create a new group)?</em>
 
 ### Task 2 Scenario
 
-For the second task, it has been many years since you last had a Tdap shot (tetanus, diphtheria, and pertussis) and would like to know more about how to receive this shot:
+For this second task, it has been many years since you last had a Tdap shot (tetanus, diphtheria, and pertussis) and would like to know more about how to receive this shot:
 Can you talk me through which group on the right you would expect to find Tdap shot information?
 - When you are ready, go ahead and move the Tdap shot card to the right to the place where you think it makes the most sense.
     
-<em>(If participant makes their choice without sharing their thought process):</em>
+<em>(If participant makes their choice without sharing their thought process):
 
 I see you've selected __. 
-- Can talk me through why you chose this particular group (or create a new group)?
+- Can talk me through why you chose this particular group (or create a new group)?</em>
+
+- In making that selection, what information would you expect to see about getting this shot?
 
 ### Task 3 Scenario
+
+Great! I have another Tdap task. It has been a few years since your last Tdap booster. In the case of a minor injury, such as a cut involving rusted metal, you would like to get a Tdap booster as quickly as possible:
+Can you talk me through which group on the right you would expect to find Tdap shot information?
+- When you are ready, go ahead and move the Tdap shot card to the right to the place where you think it makes the most sense.
+    
+<em>(If participant makes their choice without sharing their thought process):
+
+I see you've selected __. 
+- Can talk me through why you chose this particular group (or create a new group)?</em>
+
+- In making that selection, what information would you expect to see about getting this shot?
+
+### Task 4 Scenario
 
 For the third task, you have many questions about the COVID-19 vaccine, its availability and where you might go to receive it:
 Can you talk me through which group on the right you would expect to find COVID-19 vaccine information?
 - When you are ready, go ahead and move the COVID-19 vaccine card to the right to the place where you think it makes the most sense.
     
-<em>(If participant makes their choice without sharing their thought process):</em>
+<em>(If participant makes their choice without sharing their thought process):
 
 I see you've selected __. 
-- Can talk me through why you chose this particular group (or create a new group)?
+- Can talk me through why you chose this particular group (or create a new group)?</em>
 
-### Task 4 Scenario
+- In making that selection, what information would you expect to see about getting this shot?
+
+
+### Task 5 Scenario
 
 <em>(This will only be relevant to a subset of participants who are 60 years old or older. Should we include this task for only for participants in the recommended age group?)</em>
 
@@ -129,7 +148,7 @@ Can you talk me through which group on the right you would expect to find Shingl
 I see you've selected __. 
 - Can talk me through why you chose this particular group (or create a new group)?
 
-### Task 5 Scenario
+### Task 6 Scenario
 
 For the last task, you are considering a visit to Central America, and aren't sure if there are any vaccinations you need before going:
 Can you talk me through which group on the right you would expect to find travel-related vaccine information?
