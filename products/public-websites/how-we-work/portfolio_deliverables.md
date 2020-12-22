@@ -2,8 +2,8 @@
 
 ### Public Websites
 
-| Products             | State of Product | OKRs | DOMO Dashboard |
-|--|--|--|--|
+| Products             | SoP| OKRs | DOMO Dashboard |
+|:--:|:--:|:--:|:--:|
 |Resources & Support   |                  |   X  |        X       |
 |Campaign Landing Page |        X         |      |                |
 |Benefits Hub          |                  |      |                |
