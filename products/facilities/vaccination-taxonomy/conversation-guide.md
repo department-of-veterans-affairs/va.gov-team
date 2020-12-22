@@ -190,7 +190,7 @@ In making that selection, what information would you expect to see about getting
 That is it - thank you for going through these with me today. It is really helpful as we try to make
 - Any questions for me? 
 
-<em>**Placeholder** COVID-19 Vaccine information - in the case of any questions by the participant.</em>
+<em>**Placeholder** COVID-19 Vaccine information - in the case of any questions by the participant about the COVID-19 vaccination. Needs revisions and approval</em>
 
 Your provider will contact you when a vaccine is available to you. If you decide to get the vaccine, your provider will help you schedule your appointments.  
 
