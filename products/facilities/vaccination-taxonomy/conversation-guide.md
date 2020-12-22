@@ -92,8 +92,10 @@ Can you talk me through which group on the right you would expect to find Flu sh
     
 <em>(If participant makes their choice without sharing their thought process):
 
-I see you've selected __. 
-- Can talk me through why you chose this particular group (or create a new group)?</em>
+I see you've selected __. Can talk me through why you chose this particular group (or create a new group)?</em>
+
+In making that selection, what information would you expect to see about getting this shot?
+
 
 ### Task 2 Scenario
 
@@ -103,10 +105,10 @@ Can you talk me through which group on the right you would expect to find Tdap s
     
 <em>(If participant makes their choice without sharing their thought process):
 
-I see you've selected __. 
-- Can talk me through why you chose this particular group (or create a new group)?</em>
+I see you've selected __. Can talk me through why you chose this particular group (or create a new group)?</em>
 
-- In making that selection, what information would you expect to see about getting this shot?
+In making that selection, what information would you expect to see about getting this shot?
+
 
 ### Task 3 Scenario
 
@@ -116,10 +118,10 @@ Can you talk me through which group on the right you would expect to find Tdap s
     
 <em>(If participant makes their choice without sharing their thought process):
 
-I see you've selected __. 
-- Can talk me through why you chose this particular group (or create a new group)?</em>
+I see you've selected __. Can talk me through why you chose this particular group (or create a new group)?</em>
 
-- In making that selection, what information would you expect to see about getting this shot?
+In making that selection, what information would you expect to see about getting this shot?
+
 
 ### Task 4 Scenario
 
@@ -129,10 +131,9 @@ Can you talk me through which group on the right you would expect to find COVID-
     
 <em>(If participant makes their choice without sharing their thought process):
 
-I see you've selected __. 
-- Can talk me through why you chose this particular group (or create a new group)?</em>
+I see you've selected __. Can talk me through why you chose this particular group (or create a new group)?</em>
 
-- In making that selection, what information would you expect to see about getting this shot?
+In making that selection, what information would you expect to see about getting this shot?
 
 
 ### Task 5 Scenario
@@ -143,10 +144,12 @@ For this task, you have read that it is important to get the Shingles vaccine on
 Can you talk me through which group on the right you would expect to find Shingles vaccine information?
 - When you are ready, go ahead and move the Shingles vaccine card to the right to the place where you think it makes the most sense.
     
-<em>(If participant makes their choice without sharing their thought process):</em>
+<em>(If participant makes their choice without sharing their thought process):
 
-I see you've selected __. 
-- Can talk me through why you chose this particular group (or create a new group)?
+I see you've selected __. Can talk me through why you chose this particular group (or create a new group)?</em>
+
+In making that selection, what information would you expect to see about getting this shot?
+
 
 ### Task 6 Scenario
 
@@ -154,10 +157,12 @@ For the last task, you are considering a visit to Central America, and aren't su
 Can you talk me through which group on the right you would expect to find travel-related vaccine information?
 - When you are ready, go ahead and move the Travel-Related Vaccines card to the right to the place where you think it makes the most sense.
     
-<em>(If participant makes their choice without sharing their thought process):</em>
+<em>(If participant makes their choice without sharing their thought process):
 
-I see you've selected __. 
-- Can talk me through why you chose this particular group (or create a new group)?
+I see you've selected __. Can talk me through why you chose this particular group (or create a new group)?</em>
+
+In making that selection, what information would you expect to see about getting this shot?
+
 
 
 ## Post-Task Interview - 10 minutes
