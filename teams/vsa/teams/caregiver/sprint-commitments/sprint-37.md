@@ -70,7 +70,7 @@
 - Align on sizing and pointing
 - Update Team Charter
 
-## Alayna's 000 Plan
+## Alayna's OOO Plan
 - Jason will share ToT slide on 12/22, no ToT update on 12/29
 - Team is aware of and has talked through all sprint commitments, and has stretch goals ready in case there's downtime
 - Backlog Grooming and Sprint Planning will take place the week of 1/4
