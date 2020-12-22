@@ -15,7 +15,7 @@
 | Products             | SoP| OKRs | DOMO |
 |:--:|:--:|:--:|:--:|
 |Onsite Search         |    |  X   |      |
-|Type-Ahead            |    |  X   |      |           
+|Type-Ahead            |    |  X   |  X (Request)  |           
 |Offsite Search.       |    |      |      |
 
 ### Decision Tools
