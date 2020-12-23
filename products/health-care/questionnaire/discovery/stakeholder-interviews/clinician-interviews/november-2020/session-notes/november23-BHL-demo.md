@@ -51,7 +51,9 @@ Does the Veteran have an opportunity to complete half? They have the ability to 
 
 Are you looking for % completion? If you send them a link, then they may or may not complete everything. 
 
-Are there any follow-up that they complete?   It isn’t happening in a vacuum.
+Are there any follow-up that they complete? 
+
+It isn’t happening in a vacuum.
 
 Turn around time given to the Veteran to fill it out is 92 hours. 
 
