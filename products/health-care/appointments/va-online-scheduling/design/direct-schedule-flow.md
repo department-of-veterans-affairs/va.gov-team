@@ -14,7 +14,7 @@ Facility page:
 
 Facility page sorted by current location:
 
-![facility-page-location](direct-schedule-flow/facility_page_location.png)
+![facility-page-location](direct-schedule-flow/facility_page_current_location.png)
 
 Facility page with single supported facility:
 
@@ -38,23 +38,23 @@ Clinic page when you choose "need a different clinic", which puts you in the req
 
 Preferred date page, which are required to capture for wait time metrics:
 
-![preferred-date-page](direct-schedule-flow/preferred-date-page.png)
+![preferred-date-page](direct-schedule-flow/preferred_date_page.png)
 
 Calendar page
 
-![calendar-page](direct-schedule-flow/calendar-page.png)
+![calendar-page](direct-schedule-flow/calendar_page.png)
 
 Calendar page with date open
 
-![calendar-page-open](direct-schedule-flow/calendar-page-open.png)
+![calendar-page-open](direct-schedule-flow/calendar_page_open.png)
 
 Calendar page when there's an error fetching slots:
 
-![calendar-page-error](direct-schedule-flow/calendar-page-error.png)
+![calendar-page-error](direct-schedule-flow/calendar_page_error.png)
 
 Calendar page when your preferred date is earlier than the next slot and that next slot doesn't meet standard of care requirements for wait time
 
-![calendar-page-early](direct-schedule-flow/calendar-page-early.png)
+![calendar-page-early](direct-schedule-flow/calendar_page_early.png)
 
 Reason for appointment page:
 
