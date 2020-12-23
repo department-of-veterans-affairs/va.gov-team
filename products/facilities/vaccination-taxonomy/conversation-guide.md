@@ -62,9 +62,19 @@ This page covers the types of health services found at a VA Healthcare facility.
  
 
 ## Card Sort - 35 minutes
-Ok, with this page in mind, I am going to send you a link, and we will go through the tasks I mentioned.
+Zoom sharing set-up
+<em>zoom help - make participant the presenter and ask them to share their screen. Guide user to a search engine</em>
 
-###### PARTICIPANT SHARING CARD SORT PAGE
+At this point we're going to switch gears now and look at a website together. Before you share your screen, let's start by having you open a browser window, whatever you normally use to do searches on the internet. Let me know when you have one open.
+
+Now I'd like you to go back to Zoom and find a "Share screen button" It's usually at the bottom of the screen within a row of buttons and sometimes disappears until you mouse over the bottom area of Zoom. 
+
+Once you click the button and Zoom should ask you which window you'd like to share, it should give you small preview images of the open windows. Look for the browser window that I just had you open and click on it. You may have to click another button to start sharing.
+
+I am going to send you a link, and we will go through the tasks I mentioned.
+I will send it to you via the chat function within Zoom. It’s also usually within the bottom row of buttons as a button on its own as chat or under a more button.
+<em>USER IS SHARING</em>
+<em>BE PREPARED TO MODERATE THIS IF USER HAS DIFFICULTIES</em>
 
 - This page looks very different from the VA page we just visited, but imagine that we are looking at the same page, where the health services are shown on the right. 
 
