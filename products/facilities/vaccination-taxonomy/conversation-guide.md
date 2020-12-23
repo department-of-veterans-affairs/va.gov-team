@@ -31,8 +31,6 @@ Now I'll give you a quick overview of today's session.
 
 - After that I will send you a link to a web page. On that page, I will take you through 6 quick tasks. The goal of these tasks is for me to understand where you would most likely look for vaccine information on the page.
 
-- And then lastly, I will just ask a few follow up questions. That's it!
-
 - Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
 
     - If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
@@ -52,13 +50,10 @@ Now I'll give you a quick overview of today's session.
     
 Great! Now I would like to ask you a few questions related to our study.
 
-- When you search for vaccination-related services on the VA.gov website, what words would you use in your search?
+- If you were to search for vaccination-related services on the VA.gov website, what words would you use in your search?
     - As examples, would you be more likely to use the word vaccine/vaccination, or immunization, or shot?
 
 - Have you had any vaccines in the last 10 years?
-
-- How many times in the last 5 years have you had the flu shot? When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program?
-
 
 
 ## Health Services Page - 5 minutes
@@ -77,13 +72,13 @@ Ok, with this page in mind, I am going to send you a link, and we will go throug
 
 - This page looks very different from the VA page we just visited, but imagine that we are looking at the same page, where the health services are shown on the right. 
 
-- This is what we call a card sort. On the left hand side you will see cards with vaccines displayed on them. I will give a task for each vaccine type, and all you need to do is move the vaccine card into one of the groups on the right, where you would expect to find information about that vaccine. 
+- This is what we call a card sort. On the left hand side you will see cards with vaccines displayed on them. I will give a task for each vaccine type, and all you need to do is move the vaccine card into one of the health service boxes on the right, where you would expect to find information about that vaccine. 
 
- - And if none of the groups on the right seem like the best place, you can also create your own group and call it by a name that makes sense to you.
+ - And if none of the groups on the right seem like the best place, you can also create your own group and call it by a name that makes sense to you. You would do this by just dragging the vaccine card to the open area outside of the health services boxes.
 
- - Now, it looks like there are a lot of cards to move from the left side. Each type of vaccine actually comes with an extra card which is optional to use. For the most part, they are there only in case you would expect to find vaccine information in more than one place on the right. You can use the extras, but you don't have to. 
+ - Now, it looks like there are a lot of cards to move from the left side. Each type of vaccine actually comes with an extra card which is optional to use. For the most part, they are there only in case you would expect to find vaccine information in more than one place on the right. You can use the extra cards for that, but you don't have to. 
 
-- As you sort these cards, if you could talk out loud while you work, that would be great. That will help me to understand your thoughts.
+- As you sort these cards, if you could share your thoughts out loud while you work, that would be great. That will help me to follow along.
 
 ###### BEGIN CARD SORT TASKS
 
@@ -91,7 +86,7 @@ Ok, with this page in mind, I am going to send you a link, and we will go throug
 
 For the first task, you are planning to get your annual Flu shot, and would like to read information on Flu shots provided by VA.gov:
 Can you talk me through which group on the right you would expect to find Flu shot information?
-- When you are ready, go ahead and move the Flu shot card to the right to the place where you think it makes the most sense.
+- When you are ready, go ahead and move the Flu shot card to the right to the place where you would expect to find more information.
     
 <em>(If participant makes their choice without sharing their thought process):
 
@@ -102,9 +97,7 @@ In making that selection, what information would you expect to see about getting
 Would you search for Flu or influenza?
 
 You mentioned that you have had the Flu shot - 
-    - <em>(If yes, received vaccine)</em> When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program? <em>(Ask for each of the vaccines that the participant states having received).</em>
-
-
+    - <em>(If yes, received vaccine) When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program? <em>(Ask for each of the vaccines that the participant states having received).</em>
 
 
 ### Task 2 Scenario
@@ -119,13 +112,13 @@ I see you've selected __. Can talk me through why you chose this particular grou
 
 In making that selection, what information would you expect to see about getting this shot?
 
-- Have you taken Tdap (tetanus, diphtheria, and pertussis) vaccine / Have you taken Tdap booster?
+Have you received the Tdap (tetanus, diphtheria, and pertussis) vaccine / Have you received a Tdap booster?
 
 
 ### Task 3 Scenario
 
-Great! I have another Tdap task. It has been a few years since your last Tdap booster. In the case of a minor injury, such as a cut involving rusted metal, you would like to get a Tdap booster as quickly as possible:
-Can you talk me through which group on the right you would expect to find Tdap shot information?
+Great! I have one more task with the Tdap vaccine. It has been a few years since your last Tdap booster. In the case of a minor injury, such as a cut involving rusted metal, you would like to get a Tdap booster as quickly as possible:
+Can you talk me through which group on the right you would search for Tdap booster information?
 - When you are ready, go ahead and move the Tdap shot card to the right to the place where you think it makes the most sense.
     
 <em>(If participant makes their choice without sharing their thought process):
@@ -133,13 +126,12 @@ Can you talk me through which group on the right you would expect to find Tdap s
 I see you've selected __. Can talk me through why you chose this particular group (or create a new group)?</em>
 
 In making that selection, what information would you expect to see about getting this shot? 
-    - When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program? <em>(Ask for each of the vaccines that the participant states having received).</em>
-
+    - When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program? <em>
 
 
 ### Task 4 Scenario
 
-For the third task, you have many questions about the COVID-19 vaccine, its availability and where you might go to receive it:
+For this next task, you have many questions about the COVID-19 vaccine, its availability and where you might go to receive it:
 Can you talk me through which group on the right you would expect to find COVID-19 vaccine information?
 - When you are ready, go ahead and move the COVID-19 vaccine card to the right to the place where you think it makes the most sense.
     
@@ -166,26 +158,24 @@ I see you've selected __. Can talk me through why you chose this particular grou
 In making that selection, what information would you expect to see about getting this vaccine?
 
 Have you gotten or plan to get the shingles vaccine when you are at the age at which it is recommended?  
-    - <em>(If yes, received vaccine)</em> When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program? <em>(Ask for each of the vaccines that the participant states having received).</em>
-
-
+    - <em>(If yes, received vaccine)</em> When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program? <em>
 
 
 ### Task 6 Scenario
 
 For the last task, you are considering a visit to Central America, and aren't sure if there are any vaccinations you need before going:
 Can you talk me through which group on the right you would expect to find travel-related vaccine information?
-- When you are ready, go ahead and move the Travel-Related Vaccines card to the right to the place where you think it makes the most sense.
+- When you are ready, go ahead and move the Travel-Related Vaccines card to the right to the place where you expect to find more information.
     
 <em>(If participant makes their choice without sharing their thought process):
 
 I see you've selected __. Can talk me through why you chose this particular group (or create a new group)?</em>
 
-In making that selection, what information would you expect to see about getting this shot?
+In making that selection, what information would you expect to see about getting travel-related vaccines?
 
 
 
-## Post-Task Interview - 10 minutes
+## Post-Task Questions for Moderator - 5 minutes
 
 That is it - thank you for going through these with me today. It is really helpful as we try to make
 - Any questions for me? 
