@@ -169,7 +169,7 @@ For the last task, you are considering a visit to Central America, and aren't su
 Can you talk me through which group on the right you would expect to find travel-related vaccine information?
 - When you are ready, go ahead and move the Travel-Related Vaccines card to the right to the place where you expect to find more information.
     
-<em>(If participant makes their choice without sharing their thought process):
+<em>(If participant makes their choice without sharing their thought process):</em>
 
 I see you've selected __. Can talk me through why you chose this particular group (or create a new group)?</em>
 
@@ -186,19 +186,15 @@ In these tasks, you saw words such as vaccines, vaccination, immunization, shot.
 That is it - thank you for going through these with me today. It is really helpful as we try to make
 - Any questions for me? 
 
-<em>**Placeholder** COVID-19 Vaccine information - in the case of any questions by the participant about the COVID-19 vaccination. Needs revisions and approval</em>
+<em>COVID-19 Vaccine information - in the case of any questions by the participant about the COVID-19 vaccination. Needs revisions and approval</em>
 
-Your provider will contact you when a vaccine is available to you. If you decide to get the vaccine, your provider will help you schedule your appointments.  
+There's a lot going on with vaccines right now as I'm sure you're aware. VA has a web page that they are updating regularly with information about vaccine plans including answers to lots of questions.
 
-**Stay informed and help us prepare**
+https://www.va.gov/health-care/covid-19-vaccine/
 
-Sign up for an easy way to stay informed about our COVID-19 plans.
-When you sign up, we'll also ask about your interest in getting a vaccine when one is available to you. 
-By sharing your interest, you can help us better prepare as we work to offer vaccines to more Veterans.
+You can also sign up for an easy way to stay informed about our COVID-19 plans. When you sign up, we'll also ask about your interest in getting a vaccine when one is available to you. 
 
-Link to sign up: https://www.va.gov/health-care/covid-19-vaccine/stay-informed
-
-Note: You don’t need to sign up to get a vaccine.
+https://www.va.gov/health-care/covid-19-vaccine/stay-informed
 
 ## Thank-You and Closing
 
