@@ -6,7 +6,7 @@ _Last updated: 12/23/20_
 
 Broken hyperlinks discovered in the content layer currently block the Va.gov Content Release. Notifications about broken hyperlinks are sent to Slack #CMS-Team and pull CMS team members away from their planned work, to triage the incident. Triage and resolution steps amount to 30 minutes to 1 hour spent by one or more CMS team members. Broken hyperlink incidents happen on average 2-4 times a week. Engineers currently waste far too much time chasing down broken hyperlinks instead of delivering value.
 
-The CMS team built the Node Link Report open sourced module to detect and warn of broken links upon content save. Content Editors have immediate feedback about potential broken links before publishing. This greatly reduced the number of broken link incidents during Content Release.
+The CMS team built the [Node Link Report](https://www.drupal.org/project/node_link_report) open sourced module to detect and warn of broken links upon content save. Content Editors have immediate feedback about potential broken links before publishing. This greatly reduced the number of broken link incidents during Content Release.
 
 As the CMS scales from ~20 editors and daily content releases, up to ~500 editors and continuous content releases, broken hyperlinks should be identified and resolved as early in the workstream as possible, but should not block content releases.
 
