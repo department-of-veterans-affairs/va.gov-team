@@ -108,12 +108,15 @@ I see you've selected __. Can talk me through why you chose this particular grou
 
 In making that selection, what information would you expect to see about getting this shot?
 
-Have you received the Tdap (tetanus, diphtheria, and pertussis) vaccine / Have you received a Tdap booster?
+Have you received the Tdap (tetanus, diphtheria, and pertussis) vaccine / Do you know if you have received a Tdap booster?
+<em>If no or don't remember</em> - Would you expect it to be part of a regular VA visit or a special visit?
+<em>If Yes</em> When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program?
+
 
 
 ### Task 3 Scenario
 
-Great! I have one more task with the Tdap vaccine. It has been a few years since your last Tdap booster. In the case of a minor injury, such as a cut involving rusted metal, you would like to get a Tdap booster as quickly as possible:
+Great! I have one more task with the Tdap vaccine. It has been a few years since your last Tdap booster. In the case of a minor injury, such as a cut involving rusted metal, you would like to get a Tdap booster:
 Can you talk me through which group on the right you would search for Tdap booster information?
 - When you are ready, go ahead and move the Tdap shot card to the right to the place where you think it makes the most sense.
     
@@ -122,7 +125,10 @@ Can you talk me through which group on the right you would search for Tdap boost
 I see you've selected __. Can talk me through why you chose this particular group (or create a new group)?</em>
 
 In making that selection, what information would you expect to see about getting this shot? 
-    - When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program? <em>
+
+Have you experienced this type of need in the past and received care?
+<em>If yes</em> - When did you receive it, and how did you receive the care?
+
 
 
 ### Task 4 Scenario
@@ -137,13 +143,13 @@ I see you've selected __. Can talk me through why you chose this particular grou
 
 In making that selection, what information would you expect to see about getting this vaccine?
 
-Would you search for Coronavirus vs COVID?
+Would you search for Coronavirus vs COVID? 
 
 
 
 ### Task 5 Scenario
 
-For this task, you have read that it is important to get the Shingles vaccine once you have reached the age of 60. You would like to know if the VA provides this vaccine:
+For this task, you have read that it is important to get the Shingles vaccine once you have reached a certain age. You would like to know if the VA provides this vaccine:
 Can you talk me through which group on the right you would expect to find Shingles vaccine information?
 - When you are ready, go ahead and move the Shingles vaccine card to the right to the place where you think it makes the most sense.
     
@@ -153,8 +159,8 @@ I see you've selected __. Can talk me through why you chose this particular grou
 
 In making that selection, what information would you expect to see about getting this vaccine?
 
-Have you gotten or plan to get the shingles vaccine when you are at the age at which it is recommended?  
-    - <em>(If yes, received vaccine)</em> When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program? <em>
+Have you gotten or plan to get the shingles vaccine? Would you expect it to be part of a regular VA visit or a special visit?
+    - <em>(If yes, received vaccine)</em> When you received it, was it part of a VA visit?
 
 
 ### Task 6 Scenario
@@ -168,6 +174,8 @@ Can you talk me through which group on the right you would expect to find travel
 I see you've selected __. Can talk me through why you chose this particular group (or create a new group)?</em>
 
 In making that selection, what information would you expect to see about getting travel-related vaccines?
+
+Would you expect it to be part of a regular VA visit or a special visit?
 
 
 
