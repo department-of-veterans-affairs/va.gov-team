@@ -4,8 +4,8 @@
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/all-mvp-workflows/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/all-mvp-workflows/conversation-guide.md)
-- [Session notes]()
-- [Research report]()
+- [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/research/all-mvp-workflows/session-notes)
+- [Research report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/all-mvp-workflows/research-findings.md)
 - [Participants](#participants)
 
 ## Participants
