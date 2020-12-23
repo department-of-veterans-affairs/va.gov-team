@@ -193,6 +193,7 @@ There's a lot going on with vaccines right now as I'm sure you're aware. VA has 
 https://www.va.gov/health-care/covid-19-vaccine/
 
 <em>From the Stay Informed page</em>
+
 You can also sign up for an easy way to stay informed about our COVID-19 plans. When you sign up, we'll also ask about your interest in getting a vaccine when one is available to you. 
 
 https://www.va.gov/health-care/covid-19-vaccine/stay-informed
