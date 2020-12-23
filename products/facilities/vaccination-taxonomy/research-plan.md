@@ -99,8 +99,8 @@ Please list the people who will be serving in each role.
 - Participant recruiting & screening: Perigean
 - Project point of contact: Chris Logan
 - Participant(s) for pilot test: 
- - Ed Boehme <eboehme@governmentcio.com> 
- - Patrick Sanders <psanders@governmentcio.com>
+  - Ed Boehme <eboehme@governmentcio.com> 
+  - Patrick Sanders <psanders@governmentcio.com>
 - Observers: 
   - Dave Conlon <david.conlon@va.gov> 
   - Michelle Middaugh <michelle.middaugh@adhocteam.us>
