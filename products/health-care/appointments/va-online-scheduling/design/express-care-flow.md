@@ -20,7 +20,7 @@ Error when checking request limit page (when attempting to check to see if user 
 
 ![request-limit-error](express-care-flow/request_limit_error.png)
 
-Symptoms page:
+Symptoms page (symptoms are hardcoded on front end, based on list from stakeholders):
 
 ![symptoms-page](express-care-flow/symptoms_page.png)
 
