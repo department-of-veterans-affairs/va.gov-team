@@ -92,9 +92,6 @@ Friday, Jan 15 | 11 am, 1 pm, 3 pm, 5 pm, 7 pm | 4
 Tuesday, Jan 19 | 12 pm, 2 pm | 2
 
 
-Pilot participants: 
-
-
 ## Team Roles	
 Please list the people who will be serving in each role. 
 - Moderator: Chris Logan (clogan@governmentcio.com)
