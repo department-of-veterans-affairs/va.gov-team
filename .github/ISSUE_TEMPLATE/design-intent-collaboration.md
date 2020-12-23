@@ -8,14 +8,13 @@ assignees: shiragoodman, allison0034, emilywaggoner
 ---
 
 ## Steps to complete Design Intent Collaboration
-- [ ] Product Manager or Designer: create this issue and fill in team name and feature name in the title and other bolded information appropriately
-- [ ] Link to this issue once created in #design in Slack; tag @ Allison Christman & @ Emily Waggoner
-- [ ] Allison and Emily to schedule meeting with VSP reviewers and **requesting team** attendees (as listed below)
-- [ ] At least 2 days before scheduled meeting, you must provide list of artifacts below
-- [ ] Design Intent collaboration meeting completed 
-- [ ] [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/u/1/d/1d219oL1zCvCvnv1Bx-dI-GMzwgbarLv9_bzMSa3ULjA/edit#gid=1341642809) is updated
-- [ ] Design experts leave feedback and relevant resources on this ticket
-- [ ] VFS designer acknowledge receipt of feedback/resources
+- [ ] VFS Product Manager or Designer: create this issue and fill in team name and feature name in the title
+- [ ] VFS: Link to this issue once created in #design in Slack; tag @ Allison Christman & @ Emily Waggoner
+- [ ] VSP: Schedule meeting with VSP reviewers and requesting team attendees (as listed below)
+- [ ] VFS: At least 2 days before scheduled meeting, you must provide list of artifacts below
+- [ ] VSP: Practice areas create feedback ticket and link to this ticket (if no feedback, please comment stating no feedback)
+- [ ] VFS: Respond appropriately to VSP feedback tickets
+- [ ] VSP: [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/u/1/d/1d219oL1zCvCvnv1Bx-dI-GMzwgbarLv9_bzMSa3ULjA/edit#gid=1341642809) is updated
 
 
 ## Artifacts - _please provide the following at least 2 days before the scheduled meeting_
@@ -42,4 +41,4 @@ Design experts will provide:
 - A list of relevant design components and patterns (with URLs)
 - A list of existing applications or pages with similar execution or patterns with URLs in staging
 
-During this collaboration point, you will receive feedback from the following practice areas: design, accessibility
+During this collaboration point, you will receive feedback from the following practice areas: design, accessibility, content, IA
