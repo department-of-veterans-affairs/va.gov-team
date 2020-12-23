@@ -6,7 +6,7 @@
 
 - [ ] Notifications off
 - [ ] Announce session in #feedback-backchannel 10 minutes ahead of time + post the observer instructions
-- [ ] Turn off waiting room feature in Zoom
+- [ ] Enable screen sharing in Zoom
 - [ ] In the Attendees section, make sure everyone except the participant is on mute
 - [ ] In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
 - [ ] [Link to Health Services page](https://www.va.gov/pittsburgh-health-care/health-services/)
