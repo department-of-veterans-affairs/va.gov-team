@@ -1,11 +1,11 @@
 # IA Review and Recommendations
-**STATUS:**
+**STATUS: IN PROGRESS** 
 
-**Team:** 
+**Team:**  eBenefits/VSA dBenefits migration
 
-**Product/Featue:** 
+**Product/Featue:** View/select representative/POA
 
-**Background/Context:**
+**Background/Context:**  Migrating capability to view your selected POA, or search and select a POA from eBenefits to va.gov
 
 **IA Completed Date:** 
 
