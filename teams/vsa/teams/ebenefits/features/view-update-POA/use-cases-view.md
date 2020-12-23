@@ -1,4 +1,4 @@
-# View and Update Representative - View-feature Use Cases [DRAFT]
+# View and Update Representative - Use Cases - View feature [DRAFT]
 
 _Track and maintain the various use cases that exist for a given product and is best maintained alongside the product outline._
 
