@@ -43,7 +43,7 @@ Now I'll give you a quick overview of today's session.
 - I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?
 
 
-## Warm-up Questions - 5 minutes
+## Warm-up Questions - 10 minutes
 
 - Can you tell me a little about your service history?
 
@@ -70,7 +70,7 @@ So while I am sharing my screen, I want to walk through an example of how health
 This page covers the types of health services found at a VA Healthcare facility. There are several categories, and just as an example, I am showing the section on Podiatry. Each section has a description of what is treated, like arthritis, bunions, and other foot care. Below that is information on location, contact information and making appointments.
  
 
-## Card Sort - 30 minutes
+## Card Sort - 35 minutes
 Ok, with this page in mind, I am going to send you a link, and we will go through the tasks I mentioned.
 
 ###### PARTICIPANT SHARING CARD SORT PAGE
