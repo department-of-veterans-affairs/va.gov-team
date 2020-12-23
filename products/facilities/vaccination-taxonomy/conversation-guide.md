@@ -102,7 +102,7 @@ For this second task, it has been many years since you last had a Tetanus, also 
 Can you talk me through which group on the right you would expect to find Tdap shot information?
 - When you are ready, go ahead and move the Tdap shot card to the right to the place where you think it makes the most sense.
     
-<em>(If participant makes their choice without sharing their thought process):
+<em>(If participant makes their choice without sharing their thought process):</em>
 
 I see you've selected __. Can talk me through why you chose this particular group (or create a new group)?</em>
 
