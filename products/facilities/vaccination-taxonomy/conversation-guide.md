@@ -73,12 +73,15 @@ Once you click the button and Zoom should ask you which window you'd like to sha
 
 I am going to send you a link, and we will go through the tasks I mentioned.
 I will send it to you via the chat function within Zoom. It’s also usually within the bottom row of buttons as a button on its own as chat or under a more button.
-<em>USER IS SHARING</em>
-<em>BE PREPARED TO MODERATE THIS IF USER HAS DIFFICULTIES</em>
+
+**USER IS SHARING**
+
+**BE PREPARED TO MODERATE THIS IF USER HAS DIFFICULTIES**
+
 
 - This page looks very different from the VA page we just visited, but imagine that we are looking at the same page, where the health services are shown on the right. 
 
-- This is what we call a card sort. On the left hand side you will see cards with vaccines or immunizations displayed on them. I will give a task for each vaccines or immunization type, and all you need to do is move the card into one of the health service boxes on the right, where you would expect to find information about that vaccine or immunization. 
+- We’re going to do a sorting exercise. On the left hand side you will see cards with vaccines or immunizations displayed on them. I will give a task for each vaccines or immunization type, and all you need to do is move the card into one of the health service boxes on the right, where you would expect to find information about that vaccine or immunization. 
 
  - And if none of the groups on the right seem like the best place, you can also create your own group and call it by a name that makes sense to you. You would do this by just dragging the vaccine card to the open area outside of the health services boxes.
 
@@ -90,7 +93,8 @@ I will send it to you via the chat function within Zoom. It’s also usually wit
 
 ### Task 1 Scenario
 
-For the first task, you are planning to get your annual Flu shot, and would like to read information on Flu shots provided by VA.gov:
+For the first task, I’d like you to imagine that you are planning to get your annual Flu shot, and would like to read information on Flu shots provided by VA.gov:
+
 Can you talk me through which group on the right you would expect to find Flu shot information?
 - When you are ready, go ahead and move the Flu shot card to the right to the place where you would expect to find more information.
     
@@ -108,7 +112,7 @@ Have you had the flu shot?
 
 ### Task 2 Scenario
 
-For this second task, it has been many years since you last had a Tetanus, also known as a Tdap shot (tetanus, diphtheria, and pertussis), and would like to know more about how to receive this shot:
+For this second task, imagine that it has been many years since you last had a Tetanus shot, also known as a Tdap shot (tetanus, diphtheria, and pertussis), and would like to know more about how to receive this shot:
 Can you talk me through which group on the right you would expect to find Tdap shot information?
 - When you are ready, go ahead and move the Tdap shot card to the right to the place where you think it makes the most sense.
     
@@ -126,7 +130,7 @@ Have you received the Tdap (tetanus, diphtheria, and pertussis) vaccine or immun
 
 ### Task 3 Scenario
 
-Great! I have one more task with the Tdap vaccine or immunization. It has been a few years since your last Tdap booster. In the case of a minor injury, such as a cut involving rusted metal, you would like to get a Tdap booster:
+Great! I have one more task with the Tdap vaccine or immunization. Imagine that it has been a few years since your last Tdap booster. In the case of a minor injury, such as a cut involving rusted metal, you would like to get a Tdap booster:
 Can you talk me through which group on the right you would search for Tdap booster information?
 - When you are ready, go ahead and move the Tdap shot card to the right to the place where you think it makes the most sense.
     
@@ -143,7 +147,8 @@ Have you experienced this type of need in the past and received care?
 
 ### Task 4 Scenario
 
-For this next task, you have many questions about the COVID-19 vaccine or immunization, its availability and where you might go to receive it:
+For this next task, I’d like for you to imagine that you have many questions about the COVID-19 vaccine or immunization, its availability and where you might go to receive it:
+
 Can you talk me through which group on the right you would expect to find COVID-19 vaccine information?
 - When you are ready, go ahead and move the COVID-19 vaccine card to the right to the place where you think it makes the most sense.
     
@@ -159,7 +164,7 @@ Would you search for Coronavirus vs COVID?
 
 ### Task 5 Scenario
 
-For this task, you have read that it is important to get the Shingles vaccine or immunization once you have reached a certain age. You would like to know if the VA provides this service:
+For this task, imagine that you have read that it is important to get the Shingles vaccine or immunization once you have reached a certain age. You would like to know if the VA provides this service:
 Can you talk me through which group on the right you would expect to find Shingles vaccine information?
 - When you are ready, go ahead and move the Shingles vaccine card to the right to the place where you think it makes the most sense.
     
@@ -175,7 +180,7 @@ Have you gotten or plan to get the shingles vaccine? Would you expect it to be p
 
 ### Task 6 Scenario
 
-For the last task, you are considering a visit to Central America, and aren't sure if there are any vaccines or immunizations you need before going:
+For the last task, imagine you are considering a visit to Central America, and aren't sure if there are any vaccines or immunizations you need before going:
 Can you talk me through which group on the right you would expect to find travel-related vaccine information?
 - When you are ready, go ahead and move the Travel-Related Vaccines card to the right to the place where you expect to find more information.
     
@@ -193,10 +198,10 @@ Would you expect it to be part of a regular VA visit or a special visit?
 
 In these tasks, you saw words such as vaccines, vaccination, immunization, shot. What words connect with you? Did we miss any?
 
-That is it - thank you for going through these with me today. It is really helpful as we try to make
+That is it - thank you for going through these with me today. It is really helpful as we try to make improvements to the VA.gov website.
 - Any questions for me? 
 
-<em>COVID-19 Vaccine information - in the case of any questions by the participant about the COVID-19 vaccination. Needs revisions and approval</em>
+<em>COVID-19 Vaccine information - in the case of any questions by the participant about the COVID-19 vaccination.</em>
 
 There's a lot going on with vaccines right now as I'm sure you're aware. VA has a web page that they are updating regularly with information about vaccine plans including answers to lots of questions.
 
