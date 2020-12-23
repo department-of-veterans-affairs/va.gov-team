@@ -80,16 +80,16 @@ Session length: 60 minutes
 
 Date | Time in Eastern | Slots
 -----|-------
-Tuesday, Jan 5 [PILOT] | 12 pm
-Wednesday, Jan 6 | 2 pm, 5 pm, 7 pm
-Thursday, Jan 7 | 3 pm, 5 pm, 7 pm
-Friday, Jan 8 | 1 pm, 3 pm, 5 pm, 7 pm
-Monday, Jan 11 | 2 pm, 5 pm, 7 pm
-Tuesday, Jan 12 | 3 pm, 5 pm, 7 pm
-Wednesday, Jan 13 | 2 pm, 5 pm, 7 pm
-Thursday, Jan 14 | 1 pm, 3 pm, 5 pm, 7 pm
-Friday, Jan 15 | 11 am, 1 pm, 3 pm, 5 pm, 7 pm
-Tuesday, Jan 19 | 12 pm, 2 pm
+Tuesday, Jan 5 [PILOT] | 12 pm | 1
+Wednesday, Jan 6 | 2 pm, 5 pm, 7 pm | 3
+Thursday, Jan 7 | 3 pm, 5 pm, 7 pm | 3
+Friday, Jan 8 | 1 pm, 3 pm, 5 pm, 7 pm | 4
+Monday, Jan 11 | 2 pm, 5 pm, 7 pm | 3
+Tuesday, Jan 12 | 3 pm, 5 pm, 7 pm | 3
+Wednesday, Jan 13 | 2 pm, 5 pm, 7 pm | 3
+Thursday, Jan 14 | 1 pm, 3 pm, 5 pm, 7 pm | 4
+Friday, Jan 15 | 11 am, 1 pm, 3 pm, 5 pm, 7 pm | 4
+Tuesday, Jan 19 | 12 pm, 2 pm | 2
 
 
 Pilot participants: 
