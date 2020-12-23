@@ -13,7 +13,7 @@
 - NOTE: An ID is "not active" or deprecated if the owning system tells MPI its not active. It could have been a duplicate and kept another one open but not deprecated one.  For example, an ID could have been created by mistake.
 
 **MVI 209** - PCE (Potentially Catastrophic Error) Means two or more persons data might have become commingled within one ID.  
-- EXAMPLE: David and Ben Jones both ended up on same ID.  It now shows David's addres and Ben's phone number.  
+- EXAMPLE: David and Ben both ended up on same ID.  It now shows David's address and Ben's phone number.  
 - SOLUTION: The owning system of that ID needs to get data separated out and good IDs established for both individuals
 
 **ADDR301** - Trying to create an address but that user already has an active address with the POU (purpose of use), when we would have expected an edit/update. 
