@@ -90,15 +90,15 @@ I see you've selected __. Can talk me through why you chose this particular grou
 
 In making that selection, what information would you expect to see about getting the Flu vaccine?
 
-Would you search for Flu or influenza?
+Would you search for flu or influenza?
 
-You mentioned that you have had the Flu shot - 
+Have you had the flu shot? 
     - <em>(If yes, received vaccine) When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program? <em>(Ask for each of the vaccines that the participant states having received).</em>
 
 
 ### Task 2 Scenario
 
-For this second task, it has been many years since you last had a Tdap shot (tetanus, diphtheria, and pertussis) and would like to know more about how to receive this shot:
+For this second task, it has been many years since you last had a Tetanus, also known as a Tdap shot (tetanus, diphtheria, and pertussis), and would like to know more about how to receive this shot:
 Can you talk me through which group on the right you would expect to find Tdap shot information?
 - When you are ready, go ahead and move the Tdap shot card to the right to the place where you think it makes the most sense.
     
