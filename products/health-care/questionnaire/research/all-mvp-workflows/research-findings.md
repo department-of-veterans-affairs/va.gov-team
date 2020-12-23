@@ -139,6 +139,7 @@ Miscellaneous findings
 ## Actionable Recommendations: Changes to MVP scope
 Changes that can be completed by the product team
 - Send out notifications seven days in advance of an appointment, then again a day prior.
+- Re-evaluate reminder text with questionnaire only information.
 - Evaluate displaying more appointment information in the questionnaire workflow. 
 - Explore solutions for displaying not submitted, but canceled appointment questionnaires.
 - Explore sorting and filtering on the Questionnaire list (Completed tab).
