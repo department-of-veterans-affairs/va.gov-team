@@ -75,19 +75,25 @@ At least:
 
 ## Timeline
 
-Study dates: ___ - ___ , 2020
-Session length: ___ minutes
+Study dates: Jan 6 - Jan 19, 2020
+Session length: 60 minutes
 
-Date | Time
+Date | Time in Eastern | Slots
 -----|-------
-___ | ___ am, ___ pm
-___ | ___ am, ___ pm
-___ | ___ am, ___ pm
-___ | ___ am, ___ pm
+Tuesday, Jan 5 [PILOT] | 12 pm
+Wednesday, Jan 6 | 2 pm, 5 pm, 7 pm
+Thursday, Jan 7 | 3 pm, 5 pm, 7 pm
+Friday, Jan 8 | 1 pm, 3 pm, 5 pm, 7 pm
+Monday, Jan 11 | 2 pm, 5 pm, 7 pm
+Tuesday, Jan 12 | 3 pm, 5 pm, 7 pm
+Wednesday, Jan 13 | 2 pm, 5 pm, 7 pm
+Thursday, Jan 14 | 1 pm, 3 pm, 5 pm, 7 pm
+Friday, Jan 15 | 11 am, 1 pm, 3 pm, 5 pm, 7 pm
+Tuesday, Jan 19 | 12 pm, 2 pm
 
-A pilot session will be held on ___ at ___ EST.
 
-Pilot participants: TBD
+Pilot participants: 
+
 
 ## Team Roles	
 Please list the people who will be serving in each role. 
@@ -96,8 +102,18 @@ Please list the people who will be serving in each role.
 - Participant recruiting & screening: Perigean
 - Project point of contact: Chris Logan
 - Participant(s) for pilot test: 
-- Note-takers: Perigean 
+ - Ed Boehme <eboehme@governmentcio.com> 
+ - Patrick Sanders <psanders@governmentcio.com>
 - Observers: 
+  - Dave Conlon <david.conlon@va.gov> 
+  - Michelle Middaugh <michelle.middaugh@adhocteam.us>
+  - Shawna Hein <shawna@adhocteam.us>
+  - Leyda Hughes <leyda.hughes@adhocteam.us>
+- Optional/Guest Observers:
+  - Jenny Heiland-Luedtke <Jennifer.Heiland-Luedtke@va.gov>
+  - Steve Tokar <Steve.Tokar2@va.gov>
+  - Jeff Grandon <Jeffrey.Grandon@va.gov>
+- Note-takers: Perigean 
 
 
   
