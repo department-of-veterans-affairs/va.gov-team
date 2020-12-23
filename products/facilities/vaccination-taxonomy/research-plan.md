@@ -79,7 +79,7 @@ Study dates: Jan 6 - Jan 19, 2020
 Session length: 60 minutes
 
 Date | Time in Eastern | Slots
------|-------
+-----|-----------------------|-------
 Tuesday, Jan 5 [PILOT] | 12 pm | 1
 Wednesday, Jan 6 | 2 pm, 5 pm, 7 pm | 3
 Thursday, Jan 7 | 3 pm, 5 pm, 7 pm | 3
