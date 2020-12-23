@@ -34,7 +34,6 @@ Now I'll give you a quick overview of today's session.
 - Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
 
     - If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
-    - (If no: Moderator will share screen and walk through the card sort with input from participant)
 
 ###### Start recording to the Cloud
 
@@ -49,9 +48,6 @@ Now I'll give you a quick overview of today's session.
     - If yes, can you tell me about that?
     
 Great! Now I would like to ask you a few questions related to our study.
-
-- If you were to search for vaccination-related services on the VA.gov website, what words would you use in your search?
-    - As examples, would you be more likely to use the word vaccine/vaccination, or immunization, or shot?
 
 - Have you had any vaccines in the last 10 years?
 
@@ -175,7 +171,9 @@ In making that selection, what information would you expect to see about getting
 
 
 
-## Post-Task Questions for Moderator - 5 minutes
+## Post-Task Questions - 5 minutes
+
+In these tasks, you saw words such as vaccines, vaccination, immunization, shot. What words connect with you? Did we miss any?
 
 That is it - thank you for going through these with me today. It is really helpful as we try to make
 - Any questions for me? 
