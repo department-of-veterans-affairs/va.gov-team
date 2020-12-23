@@ -68,11 +68,11 @@ Ok, with this page in mind, I am going to send you a link, and we will go throug
 
 - This page looks very different from the VA page we just visited, but imagine that we are looking at the same page, where the health services are shown on the right. 
 
-- This is what we call a card sort. On the left hand side you will see cards with vaccines displayed on them. I will give a task for each vaccine type, and all you need to do is move the vaccine card into one of the health service boxes on the right, where you would expect to find information about that vaccine. 
+- This is what we call a card sort. On the left hand side you will see cards with vaccines or immunizations displayed on them. I will give a task for each vaccines or immunization type, and all you need to do is move the card into one of the health service boxes on the right, where you would expect to find information about that vaccine or immunization. 
 
  - And if none of the groups on the right seem like the best place, you can also create your own group and call it by a name that makes sense to you. You would do this by just dragging the vaccine card to the open area outside of the health services boxes.
 
- - Now, it looks like there are a lot of cards to move from the left side. Each type of vaccine actually comes with an extra card which is optional to use. For the most part, they are there only in case you would expect to find vaccine information in more than one place on the right. You can use the extra cards for that, but you don't have to. 
+ - Now, it looks like there are a lot of cards to move from the left side. Each type of vaccines or immunization actually comes with an extra card which is optional to use. For the most part, they are there only in case you would expect to find vaccine information in more than one place on the right. You can use the extra cards for that, but you don't have to. 
 
 - As you sort these cards, if you could share your thoughts out loud while you work, that would be great. That will help me to follow along.
 
@@ -108,15 +108,15 @@ I see you've selected __. Can talk me through why you chose this particular grou
 
 In making that selection, what information would you expect to see about getting this shot?
 
-Have you received the Tdap (tetanus, diphtheria, and pertussis) vaccine / Do you know if you have received a Tdap booster?
+Have you received the Tdap (tetanus, diphtheria, and pertussis) vaccine or immunization / Do you know if you have received a Tdap booster?
 <em>If no or don't remember</em> - Would you expect it to be part of a regular VA visit or a special visit?
-<em>If Yes</em> When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program?
+<em>If Yes</em> When you received it, was it part of a VA visit?
 
 
 
 ### Task 3 Scenario
 
-Great! I have one more task with the Tdap vaccine. It has been a few years since your last Tdap booster. In the case of a minor injury, such as a cut involving rusted metal, you would like to get a Tdap booster:
+Great! I have one more task with the Tdap vaccine or immunization. It has been a few years since your last Tdap booster. In the case of a minor injury, such as a cut involving rusted metal, you would like to get a Tdap booster:
 Can you talk me through which group on the right you would search for Tdap booster information?
 - When you are ready, go ahead and move the Tdap shot card to the right to the place where you think it makes the most sense.
     
@@ -133,7 +133,7 @@ Have you experienced this type of need in the past and received care?
 
 ### Task 4 Scenario
 
-For this next task, you have many questions about the COVID-19 vaccine, its availability and where you might go to receive it:
+For this next task, you have many questions about the COVID-19 vaccine or immunization, its availability and where you might go to receive it:
 Can you talk me through which group on the right you would expect to find COVID-19 vaccine information?
 - When you are ready, go ahead and move the COVID-19 vaccine card to the right to the place where you think it makes the most sense.
     
@@ -141,7 +141,7 @@ Can you talk me through which group on the right you would expect to find COVID-
 
 I see you've selected __. Can talk me through why you chose this particular group (or create a new group)?</em>
 
-In making that selection, what information would you expect to see about getting this vaccine?
+In making that selection, what information would you expect to see about getting this vaccine or immunization?
 
 Would you search for Coronavirus vs COVID? 
 
@@ -149,7 +149,7 @@ Would you search for Coronavirus vs COVID?
 
 ### Task 5 Scenario
 
-For this task, you have read that it is important to get the Shingles vaccine once you have reached a certain age. You would like to know if the VA provides this vaccine:
+For this task, you have read that it is important to get the Shingles vaccine or immunization once you have reached a certain age. You would like to know if the VA provides this service:
 Can you talk me through which group on the right you would expect to find Shingles vaccine information?
 - When you are ready, go ahead and move the Shingles vaccine card to the right to the place where you think it makes the most sense.
     
@@ -157,7 +157,7 @@ Can you talk me through which group on the right you would expect to find Shingl
 
 I see you've selected __. Can talk me through why you chose this particular group (or create a new group)?</em>
 
-In making that selection, what information would you expect to see about getting this vaccine?
+In making that selection, what information would you expect to see about getting this vaccine or immunization?
 
 Have you gotten or plan to get the shingles vaccine? Would you expect it to be part of a regular VA visit or a special visit?
     - <em>(If yes, received vaccine)</em> When you received it, was it part of a VA visit?
@@ -165,7 +165,7 @@ Have you gotten or plan to get the shingles vaccine? Would you expect it to be p
 
 ### Task 6 Scenario
 
-For the last task, you are considering a visit to Central America, and aren't sure if there are any vaccinations you need before going:
+For the last task, you are considering a visit to Central America, and aren't sure if there are any vaccines or immunizations you need before going:
 Can you talk me through which group on the right you would expect to find travel-related vaccine information?
 - When you are ready, go ahead and move the Travel-Related Vaccines card to the right to the place where you expect to find more information.
     
@@ -173,7 +173,7 @@ Can you talk me through which group on the right you would expect to find travel
 
 I see you've selected __. Can talk me through why you chose this particular group (or create a new group)?</em>
 
-In making that selection, what information would you expect to see about getting travel-related vaccines?
+In making that selection, what information would you expect to see about getting travel-related vaccines or immunizations?
 
 Would you expect it to be part of a regular VA visit or a special visit?
 
