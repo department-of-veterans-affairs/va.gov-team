@@ -7,8 +7,7 @@
 
 - NOTE:  Not everyone is blocked from logging in to VA.gov if they have a duplicate ID. The duplicate ID blocking happens through our SSOe, but right now (as of 12/23/20), we are only putting 30% of traffic through the SSOe version of the build. That means 70% of traffic still goes through the old version of login, which does allow people with duplicate IDs to sign in. Currently, there is no set date for the 100% transition to the SSO version, but it will be a phased approach. The dates and releases will ultimately be up to Christine Dillman and Cory Trimm.
 
-- NOTE: Do we restrict the data of users who sign in with SSO?
-A big difference with the SSOe authentication, is that during auth we get a response containing the users MPI record (without SSOe we don’t have that info), so we can run that validation before logging them in.   When not using SSOe we have to lookup that information later (after the user has already logged in), so I think it would be up to the individual apps to decide whether or not the user can see/access feature X if there are multiple IDs in their record
+- NOTE: A big difference with the SSOe authentication, is that during auth we get a response containing the users MPI record (without SSOe we don’t have that info), so we can run that validation before logging them in.   When not using SSOe we have to lookup that information later (after the user has already logged in), so I think it would be up to the individual apps to decide whether or not the user can see/access feature X if there are multiple IDs in their record
 
 **MVI 207** - Means ID isn't active and it should continue to fail.
 - NOTE: An ID is "not active" or deprecated if the owning system tells MPI its not active. It could have been a duplicate and kept another one open but not deprecated one.  For example, an ID could have been created by mistake.
