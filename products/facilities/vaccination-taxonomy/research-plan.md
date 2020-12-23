@@ -75,7 +75,7 @@ At least:
 
 ## Timeline
 
-Study dates: Jan 6 - Jan 19, 2020
+Study dates: Jan 5 - Jan 19, 2020
 Session length: 60 minutes
 
 Date | Time in Eastern | Slots
