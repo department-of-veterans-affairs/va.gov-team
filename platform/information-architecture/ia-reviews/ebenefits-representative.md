@@ -57,6 +57,12 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 
 ### Meetings Notes and Background Info
 
+**Design intent - 12-23-2020**
+- Need to review terminology - POA versus representative - review SEO and user research; Per Peggy there are some forms that refer to this, so we should ensure we sync on terminology across the site.
+- During meeting we discussed the need for broader research regarding whether this info should be part of the profile experience; I mentioned the need for deeper research on many of these stand alone tools to identify better IA.  This team will discuss with auth exp team whether this should be part of the profile in the short term, or if we leave it as stand alone until more user research can be completed. 
+- IA feedback:https://github.com/department-of-veterans-affairs/va.gov-team/issues/17845
+
+
 **Kick-off - 3/24/2020**
 - Electing a Power of Attorney (POA)
 - view yours, make a selection by searching db of accredited reps and electing one
