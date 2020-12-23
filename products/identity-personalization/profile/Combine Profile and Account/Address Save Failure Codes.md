@@ -2,7 +2,7 @@
 
 Updated 12/23/20
 
-**MVI200** - When MPI is having connection issues or other kind of errors that doesn’t allow us to finish an MPI lookup call.
+**MVI200** - When MPI is having connection issues that don't allow us to finish an MPI lookup call.
 
 **MVI202** - Duplicate ID
 - PROBLEM: For the profile, we've seen people who we think might have duplicate IDs or other ID issues be able to get to the VA.gov profile (where address information is) but not be able to view their address information (because if you have more than one ID, we can't determine you are who you say you are, so we don't show you personalized data). 
