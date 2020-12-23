@@ -19,4 +19,6 @@ This topline summary is a high level, top of mind summary of trends found in the
  
 **Are users able to achieve their goal of either applying with a:** Primary Family Caregiver, Primary Family Caregiver and Secondary Family Caregiver(s), or Secondary Family Caregiver(s) only
 
-- 
+- 5 participants were able to accomplish their goal with no issues
+- 8 Participants had some trouble accomplishing their goal for various reasons 
+
