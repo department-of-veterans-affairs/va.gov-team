@@ -56,6 +56,7 @@ As alluded to earlier, direct requests for content from Drupal currently involve
 Content will be cached in S3 with a constant key such as `latest.tar.bz2` instead of an ever-changing hash-based key.
 
 An Amazon Web Services (AWS) Lambda function will pull the content from Drupal and sync the cache every 5 minutes.
+The function will be versioned so that branches that have modified the query for the content can access the corresponding data.
 
 Local development environments, review instances, the CircleCI build, and any other systems would be able to start using this new cache as needed.
 
@@ -70,8 +71,42 @@ _It is important to include assumptions about what external systems will provide
 
 _Here's an easy rule of thumb for deciding what to write here: Think of anything that would be a pain to change if you were requested to do so in a code review. If you put that implementation detail in here, you'll be less likely to be asked to change it once you've written all the code._
 
+The Lambda function will have dependencies on the current Drupal client code in the vets-website repo.
+The handler will be packaged and uploaded to AWS in S3 (or ECR) for the function source.
+- Bundle the code with webpack.
+- Create a zip or container.
+- Terraform configuration for the Lambda function in devops repo.
+
+Use Serverless Framework to publish the function in a container to the utility VPC?
+
+Handler needs to be updated when the GraphQL query changes.
+Lambda should use the uploaded zip in S3 as a source.
+
+Build the script in CI and zip it.
+Get the checksum or hash of the zipped file.
+Store the zipped file in an S3 bucket at a key corresponding to the checksum if it doesn't already exist.
+
+Check the [list of function aliases](https://docs.aws.amazon.com/lambda/latest/dg/API_ListAliases.html) for an alias matching the checksum.
+If an alias doesn't exist yet for the checksum:
+- [Update and publish the function code](https://docs.aws.amazon.com/lambda/latest/dg/API_UpdateFunctionCode.html) using the archived function from S3.
+- [Create the alias](https://docs.aws.amazon.com/lambda/latest/dg/API_CreateAlias.html) for the new version of the function.
+
+If the current branch is **not** `master`, [synchronously invoke](https://docs.aws.amazon.com/lambda/latest/dg/API_Invoke.html) the new version of the function (aliased with the checksum).
+
+If the current branch is `master`, also get the version that the `master` alias points to. If the master alias doesn't match the version of the checksum alias:
+- [Update the `master` alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/update-alias.html) to the version currently aliased with the checksum.
+- Synchronously invoke the new version of the function (aliased with `master`).
+
+Pull the cache from S3 that corresponds to the checksum (or `master` if on the `master` branch). Attach to workspace for the build step.
+
+The S3 event should trigger the function to initialize the cache.
+How to simulataneously use the bucket as the source and also trigger from S3 event?
+
 ### Code Location
 _The path of the source code in the repository._
+
+Handler source code, bundling, and upload
+Terraform configuration for Lambda function
 
 ### Testing Plan
 _How you will verify the behavior of your system. Once the system is written, this section should be updated to reflect the current state of testing and future aspirations._
