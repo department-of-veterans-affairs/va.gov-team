@@ -86,7 +86,8 @@ ___ | ___ am, ___ pm
 ___ | ___ am, ___ pm
 
 A pilot session will be held on ___ at ___ EST.
-Pilot participant: 
+
+Pilot participants: TBD
 
 ## Team Roles	
 Please list the people who will be serving in each role. 
