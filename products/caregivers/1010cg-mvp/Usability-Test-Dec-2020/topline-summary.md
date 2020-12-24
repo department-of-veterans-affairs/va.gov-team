@@ -56,4 +56,12 @@ This topline summary is a high level, top of mind summary of trends found in the
 - Knowing if a Veteran or caregiver should “add” a Primary Family Caregiver vs Secondary Family Caregiver
 
   - False - Participants generally understood if they should apply with a Primary Family Caregiver vs Secondary Family Caregiver (although there were questions around who can be a secondary caregiver)
+  
+## Additional Findings
+
+-  Participants had some questions around the medical facility page 
+  - Veterans go to multiple locations for care (inside and outside the VA) 
+
+-  A few participants expressed the desire to have auto fill for their information (e.g. Caregiver address is the same as Veteran) 
+
 
