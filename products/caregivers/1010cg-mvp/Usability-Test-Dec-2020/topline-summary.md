@@ -42,3 +42,10 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 - A few participants questioned the location of the Primary Family Caregiver question (or that it should be paired with Secondary Family Caregiver question)
 
+## Hypotheses & Answers
+
+**Users will be able to navigate through the form relatively easily, but may have issues with the following:**
+
+- The addition of the Primary Family Caregiver question may cause confusion
+ 
+- Knowing if a Veteran or caregiver should “add” a Primary Family Caregiver vs Secondary Family Caregiver
