@@ -21,3 +21,6 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 - Most the participants were able to accomplish their goal but experienced pain points in the process 
 
+**Is there any confusion caused by the content or verbage in regards to the Primary Family Caregiver and Secondary Family Caregiver workflows?**
+
+- 
