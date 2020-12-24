@@ -57,18 +57,6 @@ This topline summary is a high level, top of mind summary of trends found in the
 
   - False - Participants generally understood if they should apply with a Primary Family Caregiver vs Secondary Family Caregiver (although there were questions around who can be a secondary caregiver)
   
-## Additional Findings
-
-**Users will be able to navigate through the form relatively easily, but may have issues with the following:**
-
-- The addition of the Primary Family Caregiver question may cause confusion
-
-- True 
- 
-- Knowing if a Veteran or caregiver should “add” a Primary Family Caregiver vs Secondary Family Caregiver
-
-- False - Participants generally understood if they should apply with a Primary Family Caregiver vs Secondary Family Caregiver (although there were questions around who can be a secondary caregiver)
-
  
 ## Additional Findings
 
