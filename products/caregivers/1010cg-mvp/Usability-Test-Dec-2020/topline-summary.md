@@ -64,4 +64,16 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 -  A few participants expressed the desire to have auto fill for their information (e.g. Caregiver address is the same as Veteran) 
 
+-  Participants had some questions around the medical facility page 
+  - Veterans go to multiple locations for care (inside and outside the VA) 
+
+-  A few participants expressed the desire to have auto fill for their information (e.g. Caregiver address is the same as Veteran) 
+
+-  A couple participants expressed the desire to have another option for “sex”
+
+- Some participants had issues locating the How to Apply or Start application buttons 
+
+-  Participants that triggered an error on review page found it odd that there was no way to resubmit application online
+
+
 
