@@ -25,7 +25,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 - Some participants were confused by the Primary Family Caregiver question 
   - A couple participants tried to enter their health care provider information in the Primary Family Caregiver (One because of the word “Primary” one    because of the word “Caregiver”)
-  - A couple participants found the word “family” troubling (noting that some Veterans might not have family, questions of eligibility - can it be a friend)
+  - A couple participants found the word “family” troubling (noting that some Veterans might not have family, questions of eligibility, can it be a friend)
 
 
 
