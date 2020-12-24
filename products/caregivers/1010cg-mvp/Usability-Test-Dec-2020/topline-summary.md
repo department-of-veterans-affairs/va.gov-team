@@ -37,3 +37,8 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 
 **Will confusion be caused in any way by the addition of the Primary Family Caregiver question**
+
+-  One participant entered daughters information in Primary Family Caregiver (once she navigated to Secondary Family Caregiver question) she noted that she would enter her information in Primary Family Caregiver section and her daughter’s information in Secondary
+
+- A few participants questioned the location of the Primary Family Caregiver question (or that it should be paired with Secondary Family Caregiver question)
+
