@@ -59,10 +59,18 @@ This topline summary is a high level, top of mind summary of trends found in the
   
 ## Additional Findings
 
--  Participants had some questions around the medical facility page 
-   - Veterans go to multiple locations for care (inside and outside the VA) 
+**Users will be able to navigate through the form relatively easily, but may have issues with the following:**
 
--  A few participants expressed the desire to have auto fill for their information (e.g. Caregiver address is the same as Veteran) 
+- The addition of the Primary Family Caregiver question may cause confusion
+
+- True 
+ 
+- Knowing if a Veteran or caregiver should “add” a Primary Family Caregiver vs Secondary Family Caregiver
+
+- False - Participants generally understood if they should apply with a Primary Family Caregiver vs Secondary Family Caregiver (although there were questions around who can be a secondary caregiver)
+
+ 
+## Additional Findings
 
 -  Participants had some questions around the medical facility page 
   - Veterans go to multiple locations for care (inside and outside the VA) 
@@ -73,7 +81,12 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 - Some participants had issues locating the How to Apply or Start application buttons 
 
--  Participants that triggered an error on review page found it odd that there was no way to resubmit application online
+- Some participants were hesitant to enter their SSN numbers and wondered why it was needed 
+
+- Overall, the signature boxes worked well. Participants understood them and were comfortable clicking the box and entering in the names. 
+   - One Caregiver signed her name on behalf of Veteran’s name - Does have POA 
+   -  Participants that triggered an error on review page found it odd that there was no way to resubmit application online
+
 
 
 
