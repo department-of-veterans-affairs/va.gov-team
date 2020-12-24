@@ -63,17 +63,18 @@ This topline summary is a high level, top of mind summary of trends found in the
 -  Participants had some questions around the medical facility page 
    - Veterans go to multiple locations for care (inside and outside the VA) 
 
--  A few participants expressed the desire to have auto fill for their information (e.g. Caregiver address is the same as Veteran) 
+-  A few participants expressed the desire to have auto-fill for their information (e.g. Caregiver address is the same as Veteran) 
 
 -  A couple participants expressed the desire to have another option for “sex”
 
-- Some participants had issues locating the How to Apply or Start application buttons 
+- Some participants had issues locating the How to Apply or Start Application buttons 
 
 - Some participants were hesitant to enter their SSN numbers and wondered why it was needed 
 
 - Overall, the signature boxes worked well. Participants understood them and were comfortable clicking the box and entering in the names. 
    - One Caregiver signed her name on behalf of Veteran’s name - Does have POA 
-   -  Participants that triggered an error on review page found it odd that there was no way to resubmit application online
+   - Participants that triggered an error on review page found it odd that there was no way to resubmit application online
+   - Participants expressed concern over lack of printer, etc over having to print a PDF 
 
 
 
