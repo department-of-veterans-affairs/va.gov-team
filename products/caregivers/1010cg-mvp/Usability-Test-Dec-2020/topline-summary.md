@@ -73,7 +73,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 ## Additional Findings
 
 -  Participants had some questions around the medical facility page 
-  - Veterans go to multiple locations for care (inside and outside the VA) 
+   - Veterans go to multiple locations for care (inside and outside the VA) 
 
 -  A few participants expressed the desire to have auto fill for their information (e.g. Caregiver address is the same as Veteran) 
 
