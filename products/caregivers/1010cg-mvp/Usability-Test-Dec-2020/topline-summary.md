@@ -29,6 +29,11 @@ This topline summary is a high level, top of mind summary of trends found in the
   
   - A couple participants found the word “family” troubling (noting that some Veterans might not have family, questions of eligibility/can it be a friend)
 
-- A couple participants were seemed to “skip” the question, “Would you like to add a Primary Family Caregiver?”  instead focusing on the “additional information” component “What’s a Primary Family Caregiver?” 
+- A couple participants seemed to “skip” the question, “Would you like to add a Primary Family Caregiver?”  instead focusing on the “additional information” component “What’s a Primary Family Caregiver?” 
+
+- Most users understood the question, “Would you like to add a Secondary Family Caregiver?” However,
+
+  - Some participants had questions around who can act as a Secondary Family Caregiver
+
 
 **Will confusion be caused in any way by the addition of the Primary Family Caregiver question**
