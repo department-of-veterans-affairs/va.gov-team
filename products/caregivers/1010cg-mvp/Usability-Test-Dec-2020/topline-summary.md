@@ -23,4 +23,10 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 **Is there any confusion caused by the content or verbage in regards to the Primary Family Caregiver and Secondary Family Caregiver workflows?**
 
-- 
+- Some participants were confused by the Primary Family Caregiver question 
+  - A couple participants tried to enter their health care provider information in the Primary Family Caregiver (One because of the word “Primary” one    because of the word “Caregiver”)
+  - A couple participants found the word “family” troubling (noting that some Veterans might not have family, questions of eligibility - can it be a friend)
+
+
+
+**Will confusion be caused in any way by the addition of the Primary Family Caregiver question**
