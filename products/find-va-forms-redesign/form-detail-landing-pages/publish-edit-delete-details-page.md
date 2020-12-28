@@ -10,7 +10,7 @@
 ## Timing Considerations ## 
 Drafts must be published *the same day they are saved*, before the nightly CMS migration.  Failure to publish drafts in a timely fashion may cause other form updates to fail. 
 
-It is recommended to schedule a standing weekly content review with the content team. This allows them time to review and for the Decision Tools team to make subsequent edits prior to the nightly CMS migration.
+It is recommended to schedule a standing weekly content review with the content team. This allows time for them to review and for the Decision Tools team to make any subsequent edits before the nightly CMS migration.
  
 ## Determining Need for a Detail Page ##
 The [form inventory spreadsheet on VA's Sharepoint site](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/S998%20Depot%20Inventory%206-4-19%20(1).xlsx?raw=true) is a helpful resource for determining which forms warrant a detail page.
