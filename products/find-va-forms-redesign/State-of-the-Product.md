@@ -30,15 +30,16 @@ Search research indicates that the VA forms page consistently gets high organic 
 
 ### Our Bet: Find a VA Form
 
-- If we make the form search experience more intuitive and user friendly and provide highly-visible links to relevant content pages and tools, veterans and their care givers will be able to more quickly access PDF forms, online form equivalents, and form-related content.
+- If we make the VA form search experience more intuitive and user-friendly and provide highly-visible links to relevant content pages and tools, veterans and their care givers will be able to more quickly access PDF forms, online form equivalents, and form-related content.
 
 The Find a VA Form search tool **is**:
 
- - A tool to help Veterans and their caregivers locate the forms required to apply, or to provide data supporting existing applications for Veterans benefits.
+ - A tool to help Veterans and their caregivers locate the forms required to apply, or provide data supporting existing applications for Veterans benefits.
  - A tool for finding an online equivalent on a form where one exists.
+ - A tool for learning details about a given VA form, along with related forms when applicable
  
 The Find a VA Form search is **not**:
-- A comprehensive catalog of VA forms.
+- A comprehensive catalog of all VA forms.
 - A tool for creating, modifying or deleting VA forms.
 - A tool for locating non-VA forms.
 
@@ -47,10 +48,20 @@ The Find a VA Form search is **not**:
 ### Goals
 
 **Desired Business Outcomes**
- - Describe business outcomes that should result from the creation or improvement of this product.
+ - Veterans and their caregivers will...
+      - Be able to quickly locate VA forms with little or no search refinement
+      - Be able to read the details about a form and feel confident that they found the form they were looking for
+      - Be able to learn about the VA services and other forms related to the form they are looking for
+      - Be aware of and take advantage of online tool when available
+      - Have less need to call to the Contact Center for help in locating a VA form
 
 **Undesired Business Outcomes**
-- Describe undesirable business outcomes that are to be avoided during the implementation of this product.
+- Veterans and their caregivers will...
+     - Encounter 404 errors when attempting to download a PDF form or access an online tool
+     - Abandon their form search
+     - Call the Contact Center for assistance in using the Find a VA Form tool
+     - Complete the wrong form
+     - 
 
 ### How We Define Success 
 
