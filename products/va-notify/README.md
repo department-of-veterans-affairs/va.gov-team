@@ -11,7 +11,7 @@ Slack - #va-notify
 - [Tech Stack](#tech-stack)
 - [API Documentation](#api-documentation)
 - [Business Onboarding Guide](#business-onboarding-guide)
-- [Business Technical Onboarding Guide](#business-technical-onboarding-guide)
+- [Technical Onboarding Guide](#technical-onboarding-guide)
 - [Upcoming Features](#upcoming-features)
 
 
