@@ -80,12 +80,10 @@ Please allow 30 minutes between sessions.
 
 | Dates | Times (EDT) |
 | --- | --- |
-| December 22, 2020 | 9 AM to 5 PM |
-| December 23, 2020 | 9 AM to 5 PM |
-| December 28, 2020 | 9 AM to 5 PM |
-| December 29, 2020 | 9 AM to noon |
-| December 30, 2020 | 9 AM to noon |
-
+| January 5, 2021 | 9 AM to noon |
+| January 6, 2021 | 9 AM to noon |
+| January 7, 2021 | 9 AM to 5 PM |
+| January 8, 2021 | 9 AM to 5 PM |
 
 ### Team members
 - James Adams | jadams@governmentcio.com -- Moderator, designer
@@ -93,7 +91,7 @@ Please allow 30 minutes between sessions.
 - Jason Wolf | jwolf@governmentcio.com -- eBenefits product manager
 - Kathleen Crawford | kcrawford@governmentcio.com -- Backend engineer
 - Derek Dyer | ddyer@governmentcio.com -- Backend engineer
-- Micah Chiang | micha@adhocteam.us) -- Frontend engineer
+- Micah Chiang | micah@adhocteam.us) -- Frontend engineer
 - Jesse Cohn | jesse.cohn@adhocteam.us -- Frontend engineer
 - Perigean -- Participant recruiting & screening
 - Note-takers -- Various as available
