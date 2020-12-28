@@ -38,7 +38,7 @@ Slack - #va-notify
 ![](images/business.png)
 
 ## Technical Onboarding Guide
-![](images/techincal.png)
+![](images/technical.png)
 
 ## Successes
 ![](images/Launched.png)
