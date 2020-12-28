@@ -15,7 +15,8 @@
   * [Success Metrics](#success-metrics)
   * [Product Requirements](#product-requirements)
   * [Product Dashboard](#product-dashboard)
-  * [Key Product Enhancements](#key-product-enhancements)
+  * [Key Workflows](#key-workflows)
+  * [Product Enhancements](#product-enhancements)
   * [Key Artifacts](#key-artifacts)
   * [Technical Artifacts](#technical-artifacts)
 
@@ -74,17 +75,20 @@ Provide a bulleted outline describing the required features of the product
     
 **[Include relevant images, screen designs]**
 
+### Key Workflows ###
+
+
 ### Product Dashboard
 
 - Google Analytics - new experience
 - Google Analytics - historic data (pre-redesign)
 - Link to Domo dashboard
 
-### Key Product Enhancements ###
+### Product Enhancements ###
 
-|Description | Launch Date | GitHub Issue | GitHub Directory|
-|--|--|--|--|
-|Post-MVP Enhancements|Jan 2021|[Epic 10758](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10758)|[post-mvp-launch-enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-va-forms-redesign/post-launch-mvp-enhancements)|
+|Name | Description | Launch Date | GitHub Issue | GitHub Directory|
+|--|--|--|--|--|
+|Post-MVP Enhancements| Adds link from search results to details pages, adds button to online tool where one exists | Jan 2021|[Epic 10758](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10758)|[post-mvp-launch-enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-va-forms-redesign/post-launch-mvp-enhancements)|
 
 |--|--|--|--|
 
