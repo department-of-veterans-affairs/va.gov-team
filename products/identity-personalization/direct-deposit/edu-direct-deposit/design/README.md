@@ -52,6 +52,12 @@ https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/
 
 ### Mockups Changelog
 
+**December 28, 2020**
+- Success message copy revised for EDU payment updates
+- Success message copy revised for C&P payment updates
+- No-EDU (user receives no EDU DD payments) copy updated
+- No-C&P (user receives no C&P DD payments) copy updated
+
 **November 6, 2020**
 - Single payment-type mockups created
 
