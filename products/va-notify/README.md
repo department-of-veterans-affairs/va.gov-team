@@ -7,10 +7,10 @@ Slack - #va-notify
 
 ## Things to Know
  
-- [How VANotify Works](#how-we-work)
+- [How VANotify Works](#how-vanotify-works)
 - [Tech Stack](#tech-stack)
-- [API Documentation](#api)
-- [Upcoming Features](#features)
+- [API Documentation](#api-documentation)
+- [Upcoming Features](#upcoming-features)
 
 
 ## How VANotify Works
