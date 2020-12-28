@@ -4,7 +4,7 @@
 A flat content structure, or hierarchy, makes content easier to discover by exposing it earlier in the experience - in other words, it  reduces the number of clicks to drill down to detail content.  
 
 **Create user friendly URLs**<br>
-URLs should be short and easy to read, as well as provide context around where the user is in the site.  URLs also provide SEO value when structure appropriately. Here are general [URL guidelines and best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-process-and-guidelines.md) that we use when crafting URLs. 
+URLs should be short and easy to read, as well as provide context around where the user is in the site.  URLs also provide SEO value when structure appropriately. Here are general [URL guidelines and best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-guidelines.md) that we use when crafting URLs. 
 
 **Consider all navigation paths and entry points based on your user's mental model**<br>
 Primary entry points are generally based on the primary user path, however, navigation is more than just a top nav link. Beyond those primary entry points, there are many other page links and crosslinking opportunities that can be used to make content more findable. 
