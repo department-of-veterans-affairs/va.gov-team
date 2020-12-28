@@ -12,6 +12,15 @@ Slack - #va-notify
 - [Tech Stack](#tech-stack)
 - [API Documentation](#api)
 
+## Tech Stack
+| Application          | Infrastructor  | Monitoring & Security |
+|----------------------|----------------|-----------------------|
+| Python               | Terraform      | Datadog               |
+| Flask                | GitHub Actions | Grafana               |
+| Celery               | AWS Fargate    | PagerDuty             |
+| Granicus GovDelivery |                | Twistlock             |
+|                      |                | Bandit                |
 
-## API
+
+## API Documentation
 https://github.com/department-of-veterans-affairs/notification-api#api-documentation
