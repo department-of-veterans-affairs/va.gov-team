@@ -90,11 +90,11 @@ Provide a bulleted outline describing the required features of the product
 
 ### Product Team ###
 |Team|Name|Role|Organization|
-|--|--|--|
-|Decision Tools|John Hashimoto|Product Owner|DSVA|
-|Decision Tools|Marci McGuire|Product Manager|GCIO|
-|Decision Tools|Zachary Morel|Front-End Engineer|GCIO|
-
+|--|--|--|--|
+|Decision Tools|[John Hashimoto](https://github.com/johnhashva)|Product Owner|USDS/DSVA|
+|Decision Tools|[Marci McGuire](https://github.com/MarciMcGuireGCIO)|Product Manager|GCIO|
+|Decision Tools|[Zachary Morel](https://github.com/zacharymorel)|Front-End Engineer|GCIO|
+|Decision Tools|[Laurel Lawrence](https://github.com/laurellawrence)|Research/Design-Front-End|Ad Hoc|
 ### Key Artifacts
 
 |Artifacts  | Description |
