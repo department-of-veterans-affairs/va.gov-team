@@ -1,6 +1,6 @@
 # Product outline: Find VA Forms - Search & Detail Landing Pages
 
-This is the folder for all background, historical, discovery, and status documentation for this product. 
+This is the folder for all background, historical, discovery, and status documentation for this product. Refer to [State of the Product](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/State-of-the-Product.md) for the most up-to-date information about this product.
 
 **Mapping of VA.gov digital products/tools to VA forms are listed here (SharePoint). See  tab/sheet called "VA.gov tools mapped to VA forms."**
 
