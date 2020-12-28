@@ -80,7 +80,7 @@ Please allow 30 minutes between sessions.
 - Jason Wolf | jwolf@governmentcio.com -- eBenefits product manager
 - Kathleen Crawford | kcrawford@governmentcio.com -- Backend engineer
 - Derek Dyer | ddyer@governmentcio.com -- Backend engineer
-- Micah Chiang | micha@adhocteam.us) -- Frontend engineer
+- Micah Chiang | micah@adhocteam.us) -- Frontend engineer
 - Jesse Cohn | jesse.cohn@adhocteam.us -- Frontend engineer
 - Perigean -- Participant recruiting & screening
 - Note-takers -- Various as available
