@@ -107,7 +107,7 @@ In making that selection, what information would you expect to see about getting
 Would you search for flu or influenza?
 
 Have you had the flu shot? 
-    - <em>(If yes, received vaccine) When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program? (Ask for each of the vaccines that the participant states having received).</em>
+    - <em>(If yes, received vaccine)</em> When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program? (Ask for each of the vaccines that the participant states having received).
 
 
 ### Task 2 Scenario
@@ -123,7 +123,7 @@ I see you've selected __. Can talk me through why you chose this particular grou
 In making that selection, what information would you expect to see about getting this shot?
 
 Have you received the Tdap (tetanus, diphtheria, and pertussis) vaccine or immunization / Do you know if you have received a Tdap booster?
-If no or don't remember</em> - Would you expect it to be part of a regular VA visit or a special visit?
+<em>If no or don't remember</em> - Would you expect it to be part of a regular VA visit or a special visit?
 <em>If Yes</em> When you received it, was it part of a VA visit?
 
 
