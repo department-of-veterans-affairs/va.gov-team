@@ -17,13 +17,13 @@ Slack - #va-notify
 
 ## Tech Stack
 
-| Application          | Infrastructor  | Monitoring & Security |
-|----------------------|----------------|-----------------------|
-| Python               | Terraform      | Datadog               |
-| Flask                | GitHub Actions | Grafana               |
-| Celery               | AWS Fargate    | PagerDuty             |
-| Granicus GovDelivery |                | Twistlock             |
-|                      |                | Bandit                |
+| Application          | Infrastructure  | Monitoring & Security |
+|----------------------|-----------------|-----------------------|
+| Python               | Terraform       | Datadog               |
+| Flask                | GitHub Actions  | Grafana               |
+| Celery               | AWS Fargate     | PagerDuty             |
+| Granicus GovDelivery |                 | Twistlock             |
+|                      |                 | Bandit                |
 
 
 ## API Documentation
