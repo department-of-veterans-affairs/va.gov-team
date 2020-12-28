@@ -1,4 +1,4 @@
-# VA Notify Platform
+# VANotify Platform
 
 ## Our Mission
 Improve the overall experience and quality of communications with veterans using modern digital technology, by building a centralized and self-service platform through which business lines and development teams can send communications to veterans.
@@ -7,7 +7,7 @@ Slack - #va-notify
 
 ## Things to Know
  
-- [How VA Notify Works](#how-we-work)
+- [How VANotify Works](#how-we-work)
 - [Tech Stack](#tech-stack)
 - [API Documentation](#api)
 - [Upcoming Features](#features)
