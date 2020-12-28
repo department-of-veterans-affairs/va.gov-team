@@ -31,3 +31,11 @@ Slack - #va-notify
 
 ## API Documentation
 https://github.com/department-of-veterans-affairs/notification-api#api-documentation
+
+## Upcoming Features
+* Unsubscribe
+* Email CC
+* Email Routing
+* List Management - Text, Email
+* Push Notifications
+* Two way communications
