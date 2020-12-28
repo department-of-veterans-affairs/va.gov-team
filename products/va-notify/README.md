@@ -38,6 +38,8 @@ Slack - #va-notify
 ![](images/business.png)
 
 ## Technical Onboarding Guide
+Staging URL: https://staging.api.notifications.va.gov
+Templating guides: https://github.com/department-of-veterans-affairs/notification-utils/tree/master/docs
 ![](images/technical.png)
 
 ## Successes
