@@ -64,7 +64,7 @@
 - Justin: 12/24 - 12/25, 1/1
 - Kevin: 12/25, 1/1
 - Jonathan: 12/24 - 1/1
-- Ming: 12/25 - 1/1
+- Ming: 12/29 - 1/1
 
 ## Product Goals
 - Align on sizing and pointing
