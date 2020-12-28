@@ -1,14 +1,20 @@
 # Publishing, Editing, and Deleting Form Details pages #
 
 ## Table of Contents ##
- * Timing Considerations
+ * [Overview](#overview)
+ * [Timing Considerations](#timing-considerations)
  * [Determining Need for a Detail Page](#determining-need-for-a-detail-page)
  * [Publishing New Form Detail Pages](#publishing-new-form-detail-pages) 
  * [Editing Existing Form Detail Pages](#editing-existing-form-detail-pages)
  * [Deleting Form Details Pages](#deleting-form-detail-pages)
  
+## Overview ##
+Form detail page drafts are automatically generated whenever a new form is added to the VA's form database.  These drafts may or may not be published to the VA website, depending on the nature of the form.  
+
+In instances where a detail page *will* be published (see [Determining Need for a Detail Page](#determining-need-for-a-detail-page) below), additional metadata about the form must be added via the Drupal CMS, and the draft detail page reviewed and published prior to a nighly CMS merge which deploys the to the production environment.
+
 ## Timing Considerations ## 
-Drafts must be published *the same day they are saved*, before the nightly CMS migration.  Failure to publish drafts in a timely fashion may cause other form updates to fail. 
+Form detail page drafts must be published *the same day they are saved*, and before the nightly CMS migration at :question: .  Failure to publish drafts in a timely fashion may cause other form updates to fail. 
 
 It is recommended to schedule a standing weekly content review with the content team. This allows time for them to review and for the Decision Tools team to make any subsequent edits before the nightly CMS migration.
  
