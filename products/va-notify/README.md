@@ -13,7 +13,7 @@ Slack - #va-notify
 - [Upcoming Features](#features)
 
 
-## How VA Notify Works
+## How VANotify Works
 ![](images/VANotify_Diagram.png)
 
 ## Tech Stack
