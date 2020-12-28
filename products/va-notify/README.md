@@ -10,6 +10,10 @@ Slack - #va-notify
 - [How VA Notify Works](#how-we-work)
 - [Tech Stack](#tech-stack)
 - [API Documentation](#api)
+- [Upcoming Features](#features)
+
+
+## How VA Notify Works
 
 ## Tech Stack
 
