@@ -10,7 +10,7 @@
 Publish a detail page for the following types of forms:
 * Beneficiary customer VA forms
 * Other customer VA forms (e.g., people applying for a VA grant, job, forms for VSOs or other people who are
-applying to get accredited or work with VA, etc.)
+applying to get accredited or work with VA, etc.) Refer to [form inventory on VA's Sharepoint site](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/S998%20Depot%20Inventory%206-4-19%20(1).xlsx?raw=true) for more info.
 
 Don’t publish form detail pages for:
 * Non-VA forms like GSA, OF, SF forms
@@ -49,6 +49,7 @@ SEO by using the phrases “va form” and the form number on the page.
 health care to get care at VA health facilities or to have us cover your care at a community care provider (an 
 approved non-VA provider). { here we say “if you’re a Veteran” because there are other health care
 application forms for family members and caregivers}
+
 ### ONLINE TOOL field ###
 Paste in the tool URL. Leave blank if there’s no digital tool to link to.
 It can be a VA.gov tool. Some forms may have an eBenefits tool, but not a VA.gov tool, and that’s okay to link to. We
@@ -61,6 +62,7 @@ V2 – for tools that are managing or doing a specific task like adding, updatin
 Note: Currently, several high value beneficiary forms link to a VA.gov content page (e.g., “How to apply” page) instead of
 directly to the application tool intro. As soon as these tools include the Wizard on their tool, please update the online tool
 links to the tool instead of the “how to” content page. Example: https://www.va.gov/find-forms/about-form-21-526ez/
+
 ### HELPFUL LINKS field ###
 Can leave untouched unless it’s a high value beneficiary facing form. Default ‘top task’ links will be shown.
 For high value beneficiary forms, click Add.
@@ -68,6 +70,7 @@ For high value beneficiary forms, click Add.
 * ALWAYS VERIFY by going to that node what you are linking to. There are many nodes with very similar sounding
 node names, so you might accidentally link to something unintended like a VAMC page with a similar sounding
 node.
+
 ### REVISION LOG MESSAGE field
 ALWAYS enter a note about what you changed before saving as a Draft state.
 
