@@ -1,18 +1,26 @@
 # Publishing, Editing, and Deleting Form Details pages #
 
 ## Table of Contents ##
+ * Timing Considerations
  * [Determining Need for a Detail Page](#determining-need-for-a-detail-page)
  * [Publishing New Form Detail Pages](#publishing-new-form-detail-pages) 
  * [Editing Existing Form Detail Pages](#editing-existing-form-detail-pages)
  * [Deleting Form Details Pages](#deleting-form-detail-pages)
  
+## Timing Considerations ## 
+Drafts must be published *the same day they are saved*, before the nightly CMS migration.  Failure to publish drafts in a timely fashion may cause other form updates to fail. 
+
+It is recommended to schedule a standing weekly content review with the content team. This allows them time to review and for the Decision Tools team to make subsequent edits prior to the nightly CMS migration.
+ 
 ## Determining Need for a Detail Page ##
-Publish a detail page for the following types of forms:
+The [form inventory spreadsheet on VA's Sharepoint site](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/S998%20Depot%20Inventory%206-4-19%20(1).xlsx?raw=true) is a helpful resource for determining which forms warrant a detail page.
+
+:+1:As a rule of thumb, publish a detail page for the following types of forms:
 * Beneficiary customer VA forms
 * Other customer VA forms (e.g., people applying for a VA grant, job, forms for VSOs or other people who are
-applying to get accredited or work with VA, etc.) Refer to [form inventory on VA's Sharepoint site](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/S998%20Depot%20Inventory%206-4-19%20(1).xlsx?raw=true) for more info.
+applying to get accredited or work with VA, etc.) 
 
-Don’t publish form detail pages for:
+:-1:In general, -don’t- publish form detail pages for:
 * Non-VA forms like GSA, OF, SF forms
 * Intranet forms like employee and other personnel forms
 
@@ -74,7 +82,7 @@ node.
 #### REVISION LOG MESSAGE field ####
 ALWAYS enter a note about what you changed before saving as a Draft state.
 
-## Saving as Draft ##
+## Saving as Draft and Previewing ##
 Save as DRAFT and preview.
 
 If you are not a content person, send the page to a content person to copy check, especially for high value form pages.
