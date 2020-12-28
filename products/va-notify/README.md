@@ -13,6 +13,7 @@ Slack - #va-notify
 - [API Documentation](#api)
 
 ## Tech Stack
+
 | Application          | Infrastructor  | Monitoring & Security |
 |----------------------|----------------|-----------------------|
 | Python               | Terraform      | Datadog               |
