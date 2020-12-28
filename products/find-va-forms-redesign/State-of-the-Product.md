@@ -80,6 +80,15 @@ Provide a bulleted outline describing the required features of the product
 - Google Analytics - historic data (pre-redesign)
 - Link to Domo dashboard
 
+### Key Product Enhancements ###
+
+|Description | Launch Date | GitHub Issue | GitHub Directory|
+|--|--|--|--|
+|Post-MVP Enhancements|Jan 2021|[Epic 10758](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10758)|[post-mvp-launch-enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-va-forms-redesign/post-launch-mvp-enhancements)|
+
+|--|--|--|--|
+
+
 ### Key Artifacts
 
 |Artifacts  | Description |
