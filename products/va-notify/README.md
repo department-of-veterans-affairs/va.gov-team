@@ -34,9 +34,14 @@ Slack - #va-notify
 ## API Documentation
 [VANotify API Documentation](https://github.com/department-of-veterans-affairs/notification-api#api-documentation)
 
+## Business Onboarding Guide
+![](images/business.png)
+
+## Technical Onboarding Guide
+![](images/techincal.png)
+
 ## Successes
 ![](images/Launched.png)
-
 
 ## Upcoming Features
 * Unsubscribe
