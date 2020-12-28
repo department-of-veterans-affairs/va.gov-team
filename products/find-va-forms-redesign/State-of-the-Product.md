@@ -44,10 +44,11 @@ The Find a VA Form search is **not**:
 - A tool for locating non-VA forms.
 
 **[Include relevant screen shots]**
+ :o:
 
 ### Goals
 
-**Desired Business Outcomes**
+## Desired Business Outcomes **
  - Veterans and their caregivers will...
       - Be able to quickly locate VA forms with little or no search refinement
       - Be able to read the details about a form and feel confident that they found the form they were looking for
@@ -55,13 +56,13 @@ The Find a VA Form search is **not**:
       - Be aware of and take advantage of online tool when available
       - Have less need to call to the Contact Center for help in locating a VA form
 
-**Undesired Business Outcomes**
+## Undesired Business Outcomes ##
 - Veterans and their caregivers will...
      - Encounter 404 errors when attempting to download a PDF form or access an online tool
      - Abandon their form search
      - Call the Contact Center for assistance in using the Find a VA Form tool
      - Complete the wrong form
-     - 
+
 
 ### How We Define Success 
 
