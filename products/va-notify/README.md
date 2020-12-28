@@ -34,7 +34,7 @@ Slack - #va-notify
 https://github.com/department-of-veterans-affairs/notification-api#api-documentation
 
 ## Successes
-![](images/526ez.png)
+![](images/Launched.png)
 
 
 ## Upcoming Features
