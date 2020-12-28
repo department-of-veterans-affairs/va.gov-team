@@ -30,7 +30,7 @@ Search research indicates that the VA forms page consistently gets high organic 
 
 ### Our Bet: Find a VA Form
 
-Describe the bet related to this product (what we anticipate will happen as a result of an initiative to create or improve a product. 
+- If we make the form search experience more intuitive and user friendly and provide highly-visible links to relevant content pages and tools, veterans and their care givers will be able to more quickly access PDF forms, online form equivalents, and form-related content.
 
 The Find a VA Form search tool **is**:
 
@@ -76,7 +76,10 @@ Provide a bulleted outline describing the required features of the product
 **[Include relevant images, screen designs]**
 
 ### Key Workflows ###
-
+* [Adding a new VA form](URL TBD)
+* [Adding, editing or deleting a form detail page](URL TBD)
+* [Linking search results to a form detail page](URL TBD)
+* [Linking to new online tool form equivalent](URL TBD)
 
 ### Product Dashboard
 
