@@ -70,7 +70,6 @@ Please allow 30 minutes between sessions.
 
 | Dates | Times (EDT) |
 | --- | --- |
-| January 4, 2021 | 9 AM to noon |
 | January 5, 2021 | 9 AM to noon |
 | January 6, 2021 | 9 AM to noon |
 | January 7, 2021 | 9 AM to 5 PM |
