@@ -9,14 +9,14 @@ assignees: andreahewitt-odd, Shiragoodman
 
 ## Steps to complete Staging Review: 
 
-- [ ] Product Manager: create this issue and fill in feature name in the title and other bolded information appropriately
-- [ ] Attach all artifacts before requesting the meeting
-- [ ] Link to this issue once created in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) in Slack; tag @ Shira Goodman and @ Andrea Hewitt 
-- [ ] Shira to schedule meeting with VSP reviewers and **requesting team** attendees (as listed below)
-- [ ] At least 4 days before scheduled meeting, you must complete list of artifacts below
-- [ ] Staging Review meeting completed
-- [ ] Practice area reviewers create sub-issues attached to this one with feedback for your team on **feature name**
-- [ ] **Requesting team** completes attached feedback tickets based on definition of done included in each practice area feedback ticket (may differ for each practice area, please refer to attached tickets for further instruction)
+- [ ] VFS Product Manager: create this issue and fill in feature name in the title and other bolded information appropriately
+- [ ] VFS: Attach all artifacts before requesting the meeting
+- [ ] VFS: Link to this issue once created in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) in Slack; tag @ Shira Goodman and @ Andrea Hewitt 
+- [ ] VSP: Schedule meeting with VSP reviewers and requesting team attendees (as listed below)
+- [ ] VFS: At least 4 days before scheduled meeting, you must complete list of artifacts below
+- [ ] VSP: Practice area reviewers create sub-issues attached to this one with feedback for your team 
+- [ ] VFS: Completes attached feedback tickets based on acceptance criteria in each practice area feedback ticket
+- [ ] VSP: [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/u/1/d/1d219oL1zCvCvnv1Bx-dI-GMzwgbarLv9_bzMSa3ULjA/edit#gid=1341642809) is updated
 
 ## Artifacts - _please provide the following artifacts at least 4 days before scheduled review meeting_
 - Link to product outline ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md))
