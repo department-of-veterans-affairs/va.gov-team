@@ -6,7 +6,7 @@
 
 ## State of Product: Find a VA Form
 
-**Table of Contents:**
+### Table of Contents: ###
 
   * [What is the Problem to be Solved?](#what-is-the-problem-to-be-solved)
   * [Our Bet: Product Name](#our-bet-find-a-va-form)
@@ -30,7 +30,7 @@ Search research indicates that the VA forms page consistently gets high organic 
 
 ### Our Bet: Find a VA Form
 
-- If we make the VA form search experience more intuitive and user-friendly and provide highly-visible links to relevant content pages and tools, veterans and their care givers will be able to more quickly access PDF forms, online form equivalents, and form-related content.
+If we make the VA form search experience more intuitive and user-friendly and provide highly-visible links to relevant content pages and tools, veterans and their care givers will be able to more quickly access PDF forms, online form equivalents, and form-related content.
 
 The Find a VA Form search tool **is**:
 
