@@ -8,12 +8,11 @@ assignees: andreahewitt-odd, shiragoodman
 ---
 
 ## Steps to complete Project Kickoff
-- [ ] Product Manager: create this issue and fill in feature name in the title and other bolded information appropriately
-- [ ] Attach all relevent artifacts to the ticket
-- [ ] Link to this issue once created in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) in Slack; tag @ Shira Goodman and @ AndreaHewitt 
-- [ ] Shira will schedule meeting with VSP reviewers and **requesting team** attendees (as listed below)
-- [ ] Kickoff meeting completed 
-- [ ] [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/u/1/d/1d219oL1zCvCvnv1Bx-dI-GMzwgbarLv9_bzMSa3ULjA/edit#gid=1341642809) is updated
+- [ ] VFS Product Manager: create this issue and fill in feature name in the title and other bolded information appropriately
+- [ ] VFS: Attach all relevant artifacts to the ticket
+- [ ] VFS: Link to this issue once created in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) in Slack; tag @ Shira Goodman and @ AndreaHewitt 
+- [ ] VSP: Schedule meeting with VSP reviewers and requesting team attendees (as listed below)
+- [ ] VSP: [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/u/1/d/1d219oL1zCvCvnv1Bx-dI-GMzwgbarLv9_bzMSa3ULjA/edit#gid=1341642809) is updated
 
 
 ## Artifacts - _please bring the following to the kickoff meeting_
