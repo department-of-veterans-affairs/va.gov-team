@@ -10,50 +10,65 @@ A VA.gov product is a tool or component of VA.gov that is directly interacted wi
 
 ## Our Products
 
-### Benefit Applications and Tools
-- [Benefit letters](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/benefit-letters)
-- [Burials and memorials](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/burials-memorials)
-- [Claim and appeal status](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status)
-- [Decision Reviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews)
-- [Disability and DIC](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability)
-- [Discharge upgrade](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/discharge-upgrade)
-- [Education, training and career](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers)
-- [Health care](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care)
-- [Housing assistance](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/housing)
-- [Life insurance](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/life-insurance)
-- [Medical Device Tool](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool)
-- [Pension](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pension)
-- [VA payment history]()
-- [Veteran ID cards](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-id-cards)
-- [Veteran military records](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records)
+### Benefit Applications and Tools 
 
-### Core Content
-- [Audience hubs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/audience-hubs)
-- [Benefit hubs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/benefit-hubs)
-- [Spanish translations](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/spanish-translation)
+| Product | Team(s) | Status | Has content managed in VACMS? |
+|------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|------------------------------------------------------|
+| [Benefit letters](benefit-letters) |   |  |  |
+| [Burials and memorials](burials-memorials) |   |  | Burials and memorials benefits hub |
+| [Claim and appeal status](claim-appeal-status) |   |  |  |
+| [Decision Reviews](decision-reviews) |   |  | Decision reviews hub |
+| [Disability and DIC](disability) |   |  | Disability benefits hub |
+| [Discharge upgrade](discharge-upgrade) |   |  |  |
+| [Education, training and career](education-careers) |   |  | Education and training benfits hub |
+| [Health care](health-care) |   |  | Health care benefits hub |
+| [Housing assistance](housing) |   |  | Housing assistance benefits hub |
+| [Life insurance](life-insurance) |   |  | Life insurance benefits hub |
+| [Medical Device Tool](medical-device-tool) |   |  |  |
+| [Pension](pension) |   |  | Pension benefits hub |
+| [VA payment history]() |   |  |  |
+| [Veteran ID cards](veteran-id-cards) |   |  |  |
+| [Veteran military records](veteran-military-records) |   |  |  |
+
+### Core Content 
+| Product | Team(s) | Status | Has content managed in VACMS? |
+|------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|------------------------------------------------------|
+| [Audience hubs](content/audience-hubs) |  [Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/global-ux) | Live | Managed in VACMS |
+| [Benefit hubs](content/benefit-hubs) |  [Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/global-ux) | Live | Managed in VACMS |
+| [Spanish translations](content/spanish-translation) |  [Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/global-ux) |  | Managed in VACMS |
 
 ### Facilities
-- [Facility locator](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator)
-- [Medical facility sites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers)
+| Product | Team(s) | Status | Has content managed in VACMS? |
+|------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|------------------------------------------------------|
+| [Facility locator](facilities/facility-locator) |  [Facilities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator) | Live |  |
+| [Medical facility sites](facilities/medical-centers) |  [Facilities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator), [VA Medical Center (VAMC)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/vamc) | Pittsburgh VAMC pilot VAMC is live, 9 more VAMCs in development |  Managed in VACMS |
 
 ### Global Site Elements
-- [Banners](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/banners)
-- [Contact us](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/contact-us)
-- [Crisis line](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/crisis-line)
-- [Global form features](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/global-form-features)
-- [Home page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/home-page)
-- [Menus and navigation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/menus-navigation)
-- [Search](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/search)
+| Product | Team(s) | Status | Has content managed in VACMS? |
+|------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|------------------------------------------------------|
+| [Banners](global/banners) |  [Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/global-ux), [Facilities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator) |  | Most banners are managed from VACMS |
+| [Contact us](global/contact-us) |   |  |  |
+| [Crisis line](global/crisis-line) |   |  |  |
+| [Global form features](global/global-form-features) |   |  |  |
+| [Home page](global/home-page) |  [Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/global-ux) | Live | Managed in VACMS |
+| [Menus and navigation](global/menus-navigation) |  [Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/global-ux), [Content and IA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/content-ia) | Live | Megamenu and most secondary menus managed from VACMS |
+| [Search](global/search) |   |  |  |
 
 ### User Identity and Personalization
-- [Account and profile](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/account-profile)
-- [Change address](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information)
-- [Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/dashboard)
-- [Direct deposit](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit)
-- [Login and authentication](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login)
-- [User notifications](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications)
+| Product | Team(s) | Status | Has content managed in VACMS? |
+|------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|------------------------------------------------------|
+| [Account and profile](identity-personalization/account-profile) |   |  |  |
+| [Change address](identity-personalization/profile/contact-information) |   |  |  |
+| [Dashboard](identity-personalization/dashboard) |   |  |  |
+| [Direct deposit](identity-personalization/direct-deposit) |   |  |  |
+| [Login and authentication](identity-personalization/login) |   |  |  |
+| [User notifications](identity-personalization/notifications) |   |  |  |
 
-### VA Content and Features
-- [Media library](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/media-library)
-- [Office and administration sites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/office-administration)
+### VA Content and Features 
 
+| Product | Team(s) | Status | Has content managed in VACMS? |
+|------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|------------------------------------------------------|
+| [Media library](media-library) | [CMS team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms) | Live | Managed in VACMS |
+| [Outreach materials and events](#) | [Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/global-ux) | Live | Managed in VACMS |
+| [Office and administration sites](office-administration) |  | Postponed? | Future product for VACMS |
+| VA Forms | [Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/global-ux) | In development | Content related to 30 out of 500 forms managed from VACMS |
