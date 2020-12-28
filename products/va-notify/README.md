@@ -7,7 +7,6 @@ Slack - #va-notify
 
 ## Things to Know
  
-
 - [How VA Notify Works](#how-we-work)
 - [Tech Stack](#tech-stack)
 - [API Documentation](#api)
