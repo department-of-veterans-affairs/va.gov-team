@@ -15,7 +15,9 @@
   * [Success Metrics](#success-metrics)
   * [Product Requirements](#product-requirements)
   * [Product Dashboard](#product-dashboard)
+  * [Key Product Enhancements](#key-product-enhancements)
   * [Key Artifacts](#key-artifacts)
+  * [Technical Artifacts](#technical-artifacts)
 
 ### What is the Problem to be Solved
 
@@ -101,6 +103,6 @@ Provide a bulleted outline describing the required features of the product
 
 |Artifacts  | Description | Relevant Team/Stakeholders
 |--|--|--|
-|[Code Repository](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/README.md)| Link to source code for the product| Team that maintains
+|[Code Repository](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/va_forms)| Find a VA Form source repo| [Decision Tools Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/decision-tools)
 |[VA Forms API](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/4621) | Documentation for API that indexes data sourced from VA.gov  | Lighthouse
 |[GIBCT Data Service (GIDS)](https://github.com/department-of-veterans-affairs/gibct-data-service/blob/master/README.md)| Names of database or other source of data |VA data owner, database manager
