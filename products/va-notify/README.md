@@ -32,7 +32,7 @@ Slack - #va-notify
 
 
 ## API Documentation
-[GitHub](https://github.com/department-of-veterans-affairs/notification-api#api-documentation)
+[VANotify API Documentation](https://github.com/department-of-veterans-affairs/notification-api#api-documentation)
 
 ## Successes
 ![](images/Launched.png)
