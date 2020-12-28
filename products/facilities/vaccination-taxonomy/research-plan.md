@@ -45,7 +45,7 @@ The Facilities needs a better understanding of how veterans expect to find healt
   
 - Moderation will provide opportunity for qualitative discovery through follow-up questions.
 
-## Participants (Preliminary - in Progress)
+## Participants
 
 **Primary Criteria**
 
@@ -55,8 +55,8 @@ The Facilities needs a better understanding of how veterans expect to find healt
 **Secondary Criteria**
 
 At least:
-- 5 participants living in a rural or remote area
-- 5 participants living in a major metropolitan area
+- 3 participants living in a rural or remote area
+- 3 participants living in a major metropolitan area
 - 2 participants that do not have a college degree
 - 4 females
 - 2 participants of color
@@ -68,7 +68,7 @@ At least:
 - 2 participants with a disability rating of 70% or greater
 
 ## Recruitment Process
-- We'd like to schedule 30 participants to reach our goal of 15 fulfilled sessions.
+- We'd like to schedule 15 participants to reach our goal of 10 fulfilled sessions.
 - Researcher will work with Perigean to draft recruitment email and send out an interest email to Veterans
 - Perigean sends another recruitment email (if needed)
 
