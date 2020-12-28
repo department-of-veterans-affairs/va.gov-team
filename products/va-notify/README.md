@@ -14,6 +14,7 @@ Slack - #va-notify
 - [Technical Onboarding Guide](#technical-onboarding-guide)
 - [Successes](#successes)
 - [Upcoming Features](#upcoming-features)
+- [Find Out More](#find-out-more)
 
 
 ## How VANotify Works
@@ -31,7 +32,7 @@ Slack - #va-notify
 
 
 ## API Documentation
-https://github.com/department-of-veterans-affairs/notification-api#api-documentation
+[GitHub](https://github.com/department-of-veterans-affairs/notification-api#api-documentation)
 
 ## Successes
 ![](images/Launched.png)
@@ -44,3 +45,6 @@ https://github.com/department-of-veterans-affairs/notification-api#api-documenta
 * List Management - Text, Email
 * Push Notifications
 * Two way communications
+
+## Find Out More
+
