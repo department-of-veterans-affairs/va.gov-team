@@ -12,6 +12,7 @@ Slack - #va-notify
 - [API Documentation](#api-documentation)
 - [Business Onboarding Guide](#business-onboarding-guide)
 - [Technical Onboarding Guide](#technical-onboarding-guide)
+- [Pricing](#pricing)
 - [Successes](#successes)
 - [Upcoming Features](#upcoming-features)
 - [Find Out More](#find-out-more)
@@ -41,6 +42,18 @@ Slack - #va-notify
 * Staging URL: https://staging.api.notifications.va.gov
 * Templating guides: https://github.com/department-of-veterans-affairs/notification-utils/tree/master/docs
 ![](images/technical.png)
+
+## Pricing
+
+| Communication Channel      | Unit Price    | 
+|----------------------------|---------------|
+| Email                      | $0.0001/email |
+| SMS [inbound and outbound] | $0.0075/SMS   |
+
+
+
+* The Office of the VA Chief Technology Officer (OCTO) will pay for the development and maintenance of VA Digital Notifications Ecosystem products (VANotify + VEText).  Also, OCTO will pay for AWS infrastructure and operational costs.
+* VA business lines will be responsible for funding of digital notifications (email, SMS, or mobile push notifications).  Currently, VA business lines can procure AWS credits to fund their digital notifications.  
 
 ## Successes
 ![](images/Launched.png)
