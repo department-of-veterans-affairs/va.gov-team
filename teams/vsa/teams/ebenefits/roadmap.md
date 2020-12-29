@@ -10,7 +10,7 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 | --------------------------------------------------- | ------------- | --------- | --------- | --------- | --------- | -----
 | Submit Disability Comp (526ez Original Claim)       | vsa-bam-1     | Q1        | --        | Q2        | Q3        | **(COMPELETE 07072020)**
 | Submit BDD Claim (526ez)                            | vsa-bam-1     | Q1        | Q3        | Q3        | Q4        | **(COMPELETE 15112020)**
-| View Rated Disabilities                             | vsa-ebenefits | Q1        | Q1        | Q1        | Q2        | **(COMPELETE 05022020)**; redev to BGS Q4
+| View Rated Disabilities                             | vsa-ebenefits | Q1        | Q1        | Q1        | Q2        | **(COMPELETE 05022020)**; redev to BGS FY2021
 | BGS Platform Integration                            | vsa-ebenefits | Q1        | --        | Q2        | Q1 FY2021 | Must complete for Dependency Claims, Payments, and other features
 | View Dependents on Award                            | vsa-ebenefits | Q1        | Q1        | Q2        | Q1 FY2021 | Launch with Modify
 | Modify Dependents (686c/ 674)                       | vsa-ebenefits | Q2        | Q2        | Q2        | Q1 FY2021 | New dev on full 2018 686c (EBN using 2014 686c), BGS integration
