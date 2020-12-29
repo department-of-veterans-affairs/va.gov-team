@@ -1,4 +1,4 @@
-# Research Plan for VFS-CMS, November 2020
+# Research Plan for VFS-CMS, December 2020
 
 ## Goals
 This research plan is for the VFS-CMS - VFS-CMS team.
