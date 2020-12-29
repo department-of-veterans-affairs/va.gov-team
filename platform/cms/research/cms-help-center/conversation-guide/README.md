@@ -40,23 +40,25 @@ Now, I have a few activities that I'd like you to do in the demo environment. I 
 
 #### Activity 1: Submit a request for support
 
-You're editing content on page XYZ and realized that something is not working as expected.
+_Share link:_ https://pr3850-geb9i1vxs7ugc9kzpbajhiyfirxs1npl.ci.cms.va.gov/node/11463/edit
 
-* __Task 1.1:__ Using the resources available in the CMS, inform the CMS team that something is not working the way it should be.
+You're editing content on the COVID-19 vaccines at VA page and you notice xxxxxxxx isn’t working in the way you expect. 
 
-You're previewing content on page XYZ and realized that it would be beneficial for editors to be able to add comments to specific parts of the text.
+* __Task 1.1:__ Using the resources available in the CMS, let someone know about what you noticed. inform the CMS team that something is not working the way it should be.
+
+You're previewing content on the COVID-19 vaccines at VA and realized that it would be beneficial for editors to be able to add comments to specific parts of the text.
 
 * __Task 1.2:__ Using the resources available in the CMS, reach out to the CMS team to suggest this improvement.
 
 #### Activity 2: Submit a request for support via widget on the bottom left part of the page
 
-You’re working on a new area of the CMS and feel that you need additional information on how to find a certain content. 
+You’re new to the CMS and want to better understand the notion of sections. _Share link_: https://pr3850-geb9i1vxs7ugc9kzpbajhiyfirxs1npl.ci.cms.va.gov/user/1333
 
-* __Task 2.1:__ Find the written instructions about content findability in the CMS.
+* __Task 2.1:__ Look to see if there is information available on this topic. 
 
-After reading the written instructions, you still don't have enought clarity about how to find Details Pages. 
+After reading the written instructions, you still don't have enought clarity about why you see only a few sections on your user profile, but all the sections on your top menu. _Share link, if needed_: https://pr3850-geb9i1vxs7ugc9kzpbajhiyfirxs1npl.ci.cms.va.gov/help/cms-basics/sections
 
-* __Task 2.2:__ Using the resources available in the CMS, reach out to the CMS team to request additional support.
+* __Task 2.2:__ Using the resources available in the CMS, ask for more information about this topic. 
 
 
 ## Additional Questions
