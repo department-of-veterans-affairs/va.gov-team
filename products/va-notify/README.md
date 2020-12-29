@@ -24,7 +24,7 @@ Slack - #va-notify
 ## Tech Stack
 
 | Application          | Infrastructure  | Monitoring & Security |
-|----------------------|-----------------|-----------------------|
+|:---------------------|:----------------|:----------------------|
 | Python               | Terraform       | Datadog               |
 | Flask                | GitHub Actions  | Grafana               |
 | Celery               | AWS Fargate     | PagerDuty             |
@@ -46,7 +46,7 @@ Slack - #va-notify
 ## Pricing
 
 | Communication Channel      | Unit Price    | 
-|----------------------------|---------------|
+|:---------------------------|:--------------|
 | Email                      | $0.0001/email |
 | SMS [inbound and outbound] | $0.0075/SMS   |
 
