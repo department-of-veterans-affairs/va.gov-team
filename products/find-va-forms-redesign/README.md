@@ -1,6 +1,6 @@
 # Product outline: Find VA Forms - Search & Detail Landing Pages
 
-This is the folder for all background, historical, discovery, and status documentation for this product. Refer to [State of the Product](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/State-of-the-Product.md) for the most up-to-date information about this product.
+This is the folder for all background, historical, discovery, and status documentation for the Find a VA Form 2020 product redesign MVP. Refer to [State of the Product](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/State-of-the-Product.md) for the most up-to-date information about this product.
 
 **Mapping of VA.gov digital products/tools to VA forms are listed here (SharePoint). See  tab/sheet called "VA.gov tools mapped to VA forms."**
 
@@ -29,7 +29,7 @@ vaforms-org-search-keywords-SEMRush.png
 
 Legacy issue: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1482
 
-__Current epic:__ https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/1632
+2020 Redesign MVP epic: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/1632
 
 Also tracked in Master DEPO intake board:
 https://github.com/department-of-veterans-affairs/digitalservice/issues/921
@@ -104,7 +104,6 @@ Historical - referencing for easy findability:
 
 Modern forms search IA and URL documentation: 
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-forms-search.md
-
 
 
 ## 06/08/2020
