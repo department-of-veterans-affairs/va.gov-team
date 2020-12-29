@@ -5,7 +5,7 @@ This lists all formal research with CMS users. Feature-specific research should 
 _VA.gov CMS team: Jordana Mello_
 
 * x participants
-* [Research folder]()
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research/cms-help-center)
 
 
 #### November, 2020: Claro Design System study 
