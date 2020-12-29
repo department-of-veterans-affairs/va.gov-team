@@ -3,14 +3,14 @@
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
-- Desired date range or test duration: **Early January 2021**
+- Desired date range or test duration: **LAte December 2020 - Early January 2021**
 - Desired number of users: **10**
 - How you'll recruit the right production test users: **Perigean and stakeholders**
 - How you'll conduct the testing: **Zoom/Teams**
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: **Flipper toggle**
 
 ### Results:
-- Number of users: x
+- Number of users: **6**
 - Number of bugs identified / fixed: x/x
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
