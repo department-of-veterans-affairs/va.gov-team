@@ -16,7 +16,7 @@ Flaky tests are tests that sometimes pass and sometimes fail without any changes
 
 ## How to Detect Flaky Tests
 
-After writing your test, wrap each `describe` block in a `for` loop and iterate over it 20-30 times. Wrapping the `describe` block instead of the `it` block allows the Cypress Test Runner to display a pass or fail for each iteration. The number of times you iterate over the `describe` block is an arbitrary number but the higher the number the better; having a test pass multiple times should help you have confidence that your test is not flaky.
+After writing your test, wrap each `describe` block in a `for` loop and iterate over it 20-30 times. Wrapping the `describe` block instead of the `it` block allows the Cypress Test Runner to display a pass or fail for each iteration. The number of times you iterate over the `describe` block is an arbitrary number but the higher the number the better. Having a test pass multiple times should help you have confidence that your test is not flaky.
 
 Example:
 
@@ -77,7 +77,7 @@ cy.get('button').should('be.visible');
 
 ### `cy.click({ waitForAnimations: true })`
 
-`cy.click({ waitForAnimations: true })` should be used instead of `cy.click()` when Cypress clicks on elements that are animated, like accordions.
+`cy.click({ waitForAnimations: true })` should be used instead of `cy.click()` when Cypress clicks on an element that is animated, like an accordion.
 
 This option tells Cypress to wait for elements to finish animating before executing the command.
 
