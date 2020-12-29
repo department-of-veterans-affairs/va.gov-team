@@ -25,9 +25,9 @@ Last Updated December 29, 2020
 
 ## The Problem
 
-The VA/VA.gov is starting to accomodate communications beyond paper (text, email), but we have no place to manage communication preferences on VA.gov. Veterans need to be able to set communication preferences and be able to customize them based on different scenarios.
+The VA/VA.gov is starting to accomodate digital communications (text, email), but we have no place for veterans to manage communication preferences. As the types of digital communications veterans receive grows, veterans need a place to set and manage communication preferences for different scenarios.
 
-Additionally, VA.gov is not the only organization within the VA that needs access to a veteran's preferences. These preferences need to be available across the VA, and veterans should be able to set preferences in one place and have those preferences update anywhere.
+Additionally, VA.gov is not the only group within the VA that needs access to a veteran's preferences. These preferences need to be available across the VA, and veterans should be able to set preferences in one place and have those preferences update anywhere.
 
 ### User Goals
 
