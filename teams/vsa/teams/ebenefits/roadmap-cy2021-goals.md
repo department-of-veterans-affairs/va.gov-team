@@ -11,7 +11,7 @@
 ## Dependency Claims
 
 - Test end-to end with BGS/ RBPS in Jan
-- Test with users in Jan/ Feb
+- Test with users in Jan/ Feb (Possibly start Jan 7 for 3 weeks)
 - Spot test after Feb 13 Coordinated Install
 - Launch after Feb 13
 
