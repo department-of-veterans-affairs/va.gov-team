@@ -2,6 +2,8 @@
 
 ## Table of Contents
 
+[January 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/capacity-planning.md#january-2021)
+
 [December 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/capacity-planning.md#december-2020)
 
 [November 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/capacity-planning.md#november-2020)
@@ -24,6 +26,8 @@
 
 [November 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/capacity-planning.md#november-2019)
 
+## January 2021
+    -  Gibran: January 12-19 
 
 ## December 2020
 ### Holidays
