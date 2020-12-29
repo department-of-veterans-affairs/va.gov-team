@@ -53,6 +53,6 @@ Interview invitations to be done directly via email and/or Slack.
 
 ## Resources	
 * [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms)
-* [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research/claro-ds/conversation-guide)
+* [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research/cms-help-center/conversation-guide)
 * [Readout/Results]()
 
