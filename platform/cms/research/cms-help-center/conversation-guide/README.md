@@ -11,6 +11,8 @@ Thanks for joining us today! My name is Jordana, and I also have some colleagues
 
 _(About 3 minutes)_
 
+- What are your primary tasks in the CMS?
+
 - How often do you use the CMS? 
   
 - Have you ever reached out to the CMS team? If so, what were the reasons and how did you do it? 
