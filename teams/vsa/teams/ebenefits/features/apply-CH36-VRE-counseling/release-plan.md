@@ -3,7 +3,7 @@
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
-- Desired date range or test duration: **LAte December 2020 - Early January 2021**
+- Desired date range or test duration: **Late December 2020 - Early January 2021**
 - Desired number of users: **10**
 - How you'll recruit the right production test users: **Perigean and stakeholders**
 - How you'll conduct the testing: **Zoom/Teams**
