@@ -3,14 +3,16 @@ name: Full Accessibility & 508 Office Audit
 about: Request a full accessibility review during the rollout process
 title: Full Accessibility & 508 Office Audit [Team Name - Feature Name]
 labels: 508/Accessibility, vsp-product-support, collaboration-cycle, collab-cycle-review
-assignees: 1Copenut, shiragoodman
+assignees: 1Copenut, shiragoodman, noahgelman
 
 ---
 
 ## Steps to complete the Full Accessibility & 508 Audit: 
-- [ ] Product Manager: create issue and fill in feature name in the title and other bolded information appropriately
-- [ ] Practice area reviewers create sub-issues attached to this one with feedback for your team on *feature name*
-- [ ] **Requesting team** completes attached feedback tickets based on definition of done included in each practice area feedback ticket (may differ for each practice area, please refer to attached tickets for further instruction)
+- [ ] VFS Product Manager: create issue and fill in feature name in the title and other bolded information appropriately
+- [ ] VFS: Link to this issue once created in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) in Slack; tag @ Trevor Pierce
+- [ ] VSP: Accessibility specialists create sub-issues attached to this epic with findings
+- [ ] VFS: Coordinate with the VA 508 Office to address accessibility findings
+- [ ] VSP: [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/u/1/d/1d219oL1zCvCvnv1Bx-dI-GMzwgbarLv9_bzMSa3ULjA/edit#gid=1341642809) is updated
 
 ## Artifacts - _please provide the following artifacts when you request a full review_
 - Access information for the tool or feature in staging _**do not put staging credentials in your `va.gov-team` ticket; store or reference them in a .md file in the `va.gov-team-sensitive` repository**_
