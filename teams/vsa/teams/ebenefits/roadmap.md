@@ -26,7 +26,7 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 | Search for POA                                      | vsa-ebenefits | Q4        | Q4        | Q1 FY2021 | Q2 FY2021 | OGC System integration, launch with Modify
 | Modify POA (22/ 22a)                                | vsa-ebenefits | Q4        | Q4        | Q1 FY2021 | Q2 FY2021 | Lighthouse integration (BGS)
 | Order Hearing Aid Batteries (2346)                  | vsa-bam-2     | Q2        | Q2        | Q2        | Q4        | **(COMPELETE 07202020)**
-| Order Prosthetic Socks (2345)                       | vsa-bam-2     | Q2        | Q2        | Q2        | Q4        | **(COMPELETE 07202020)** Depreceated with launch of Hearing Aids
+| Order Prosthetic Socks (2345)                       | vsa-bam-2     | Q2        | Q2        | Q2        | Q4        | **(COMPELETE 07202020)** Deprecated with launch of Hearing Aids
 | Calculate Home Loan Benefit                         | vsa-ebenefits | Q1 FY2021 | Q2 FY2021 | Q2 FY2021 | Q2 FY2021 | Requires Discovery, possible new LGY integration required
 | Apply for Certificate of Eligibility (1880)         | vsa-ebenefits | Q1 FY2021 | Q2 FY2021 | Q2 FY2021 | Q2 FY2021 | Requires Discovery, possible new LGY integration required
 | View Specially Adapted Housing Grant Status         | vsa-ebenefits | Q1 FY2021 | Q2 FY2021 | Q2 FY2021 | Q2 FY2021 | Requires Discovery, possible new LGY integration required
