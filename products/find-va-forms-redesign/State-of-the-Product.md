@@ -93,11 +93,12 @@ Provide a bulleted outline describing the required features of the product
 * [Linking search results to a form detail page](URL TBD)
 * [Linking to new online tool form equivalent](URL TBD)
 
-### Product Dashboard
+### Product Analytics
 
-- Google Analytics - new experience
-- Google Analytics - historic data (pre-redesign)
-- Link to Domo dashboard
+- [Google Analytics Dashboard - Post-2020 Redsign](https://analytics.google.com/analytics/web/#/dashboard/MHSfv0WxQySyKRB5IYyw1Q/a50123418w177519031p176188361/)
+- Google Analytics - Pre-2020 Redesign Historic Data
+- Google Analytics - Top Events for Find A VA Form
+- Domo Dashboard (TBD)
 
 ### Product Enhancements ###
 
