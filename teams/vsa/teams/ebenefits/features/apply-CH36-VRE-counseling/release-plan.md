@@ -13,7 +13,7 @@
 - Number of users: **6**
   - **Participant 1:** Chrome, was not able to share screen, given [link](https://www.va.gov/careers-employment/education-and-career-counseling/
 ), completed eligibility, Chrome autofilled info and it was submitted with no errors, received by Data Dimensions
-  - **Participant 2:** Has already submitted this form in person some years ago
+  - **Participant 2:** Has already submitted this form in person some years ago. No submission.  
   - **Participant 3:** 
   - **Participant 4:** 
   - **Participant 5:** 
