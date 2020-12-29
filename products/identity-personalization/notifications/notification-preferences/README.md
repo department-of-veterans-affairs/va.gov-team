@@ -25,7 +25,9 @@ Last Updated December 29, 2020
 
 ## The Problem
 
+The VA/VA.gov is starting to accomodate communications beyond paper (text, email), but we have no place to manage communication preferences on VA.gov. Veterans need to be able to set communication preferences and be able to customize them based on different scenarios.
 
+Additionally, VA.gov is not the only organization within the VA that needs access to a veteran's preferences. These preferences need to be available across the VA, and veterans should be able to set preferences in one place and have those preferences update anywhere.
 
 ### User Goals
 
@@ -49,15 +51,23 @@ Last Updated December 29, 2020
 
 ### In Scope
 
-- 
+**Initial set-up**
+
+- Establish infrastructure for notification preferences by setting up integration with VA Profile backend.
+- Figure out how frontend architecture should be set up in order to best integrate with VA Profile backend.
+- Accomodate grouping of notification preferences.
 
 ### Out of Scope
 
--
+**Initial set-up**
+
+- For the initial set up, I don't *think* we are setting up any actual preferences, but I'm not 100% sure on this. This may evolve over time.
 
 ## Solution Approach
 
-- 
+- For VA Profile's 12/14/20 launch, they are just establishing infrastructure for communication partners.
+- In the January 2021 release, they are still establishing infrastructure for communication partners, specifically grouping.
+- In January 2021, the VA.gov authenticated experience team will start working with VA Profile on the backend integration. Design/FE will also meet with them to discuss frontend architecture. While there aren't any preferences for us to set up initially, having this established will allow us to easily scale and support the design/fronted as we start to support actual prefrences.
 
 ## Value Propositions
 
@@ -66,7 +76,12 @@ Last Updated December 29, 2020
 
 ## KPIs
 
-- TBD
+We'll need to set up baseline metrics on
+
+- How many preferences are updated
+- How many people opt-out of any digital communication
+
+It would be nice to have metrics on how this affects paper correspondence, but it has historically been extraordinarily difficult to get this kind of data at the VA.
 
 # Implementation Info
 
