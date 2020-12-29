@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
-- [Introduction](#)
-- [How to Detect Flaky Tests](#)
-- [Call cy.injectAxe() When a New Page Loads](#)
-- [Race Conditions](#)
-  - [`exist` and `be-visible`](#)
-  - [`cy.click({ waitForAnimations: true })`](#)
-  - [Race Conditions Resources](#)
+- [Introduction](#introduction)
+- [How to Detect Flaky Tests](#how-to-detect-flaky-tests)
+- [Call cy.injectAxe() When a New Page Loads](#call-cyinjectaxe-when-a-new-page-loads)
+- [Race Conditions](#race-conditions)
+  - [`exist` and `be-visible`](#exist-and-be-visible)
+  - [`cy.click({ waitForAnimations: true })`](#cyclick-waitforanimations-true-)
+  - [Race Conditions Resources](#race-conditions-resources)
 
 ## Introduction
 
