@@ -11,6 +11,8 @@
 
 ### Results:
 - Number of users: **6**
+  - 1: Chrome, was not able to share screen, given [link](https://www.va.gov/careers-employment/education-and-career-counseling/
+), completed eligibility, Chrome autofilled info and it was submitted with no errors
 - Number of bugs identified / fixed: x/x
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
