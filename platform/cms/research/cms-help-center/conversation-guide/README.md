@@ -30,7 +30,7 @@ You're editing content on page XYZ and realized that it would be more beneficial
 
 * Using the resources available in the CMS, reach out to the CMS team to suggest an improvement to the system.
 
-#### Activity 2: ...
+#### Activity 2: Submitting a request for support via widget on the bottom left part of the page
 
 You’re working on a new area of the CMS and feel that you need additional information on how to find a certain content. 
 
