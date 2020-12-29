@@ -31,8 +31,7 @@ Additionally, VA.gov is not the only group within the VA that needs access to a 
 
 ### User Goals
 
-- As a veteran, I want to be able to select where and how I receive communication from the VA.
-- As a veteran corresponding with the VA, I want to be able to set different communication preferences for different scenarios and circumstances (eg. receive emails for claim updates; receive texts for appointment reminders).
+- As a veteran, I want to be able to select where and how I receive communication from the VA for different scenarios and circumstances (eg. receive emails for claim updates; receive texts for appointment reminders).
 
 ### Business Goals
 
@@ -41,17 +40,19 @@ Additionally, VA.gov is not the only group within the VA that needs access to a 
 
 ## Assumptions
 
+- Veterans expect to set notification preferences from the VA.gov profile.
 - It will be fast and easy for us to add in new preferences after the initial infrastructure is in place.
 
 ## Questions
 
+- Where do veterans expect to set and manage notification preferences?
 - After the initial infrastructure set up, what notification preferences will we need to accomodate?
 
 ## Requirements
 
 ### In Scope
 
-**Initial set-up**
+**Phase 1: Infrastructure set-up**
 
 - Establish infrastructure for notification preferences by setting up integration with VA Profile backend.
 - Figure out how frontend architecture should be set up in order to best integrate with VA Profile backend.
@@ -59,14 +60,14 @@ Additionally, VA.gov is not the only group within the VA that needs access to a 
 
 ### Out of Scope
 
-**Initial set-up**
+**Phase 1: Infrastructure set-up**
 
 - For the initial set up, I don't *think* we are setting up any actual preferences, but I'm not 100% sure on this. This may evolve over time.
 
 ## Solution Approach
 
-- For VA Profile's 12/14/20 launch, they are just establishing infrastructure for communication partners.
-- In the January 2021 release, they are still establishing infrastructure for communication partners, specifically grouping.
+- VA Profile's 12/14/20 launch: They are establishing infrastructure for communication partners.
+- VA Profile's January 2021 release: They are still establishing infrastructure for grouping.
 - In January 2021, the VA.gov authenticated experience team will start working with VA Profile on the backend integration. Design/FE will also meet with them to discuss frontend architecture. While there aren't any preferences for us to set up initially, having this established will allow us to easily scale and support the design/fronted as we start to support actual prefrences.
 
 ## Value Propositions
