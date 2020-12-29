@@ -4,7 +4,23 @@
 
 _(About 2 minutes)_
 
-Thanks for joining us today! My name is Jordana, and I also have some colleagues on the line observing and taking notes. We are here today to talk about ...
+Thanks for joining us today! My name is Jordana, and I'm a designer and researcher for the Drupal CMS. I also have some colleagues on the line observing and taking notes for me. Today we're going to be testing a proposal for the CMS help center and for requesting help from the CMS team. During this test, I will share my screen with you and, at some point, ask you to take control of my screen, so that you can interact with the demo environment.
+
+Before we start, a few things I want to mention:
+
+This entire session should take about 30 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+
+In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve the new CMS to better meet your needs. I will not be offended by any opinions you express, and I welcome your feedback.
+
+You'll be interacting with a prototype during this session. This means that you will be interacting with a replica of CMS, but some areas may be clickable while others aren't.
+
+If for any reason and at any time you want to stop the session, please let me know. You will not be penalized in any way if we need to stop.
+
+Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately.
+
+Start recording
+
+I want to verify that you are okay with me recording screen and audio today.
 
 
 ## Warm-up Questions
@@ -20,27 +36,27 @@ _(About 3 minutes)_
 
 ## Main activities
 
-...
+Now, I have a few activities that I'd like you to do in the demo environment. I ask you to let me know when you think you finished the activity.
 
-#### Activity 1: Submitting a request for support
+#### Activity 1: Submit a request for support
 
-You're editing content on page XYZ and realized that something is not working.
+You're editing content on page XYZ and realized that something is not working as expected.
 
-* Using the resources available in the CMS, inform the CMS team that something is not working the way it should be.
+* __Task 1.1:__ Using the resources available in the CMS, inform the CMS team that something is not working the way it should be.
 
-You're editing content on page XYZ and realized that it would be more beneficial to editors to have a resource ABC.
+You're previewing content on page XYZ and realized that it would be beneficial for editors to be able to add comments to specific parts of the text.
 
-* Using the resources available in the CMS, reach out to the CMS team to suggest an improvement to the system.
+* __Task 1.2:__ Using the resources available in the CMS, reach out to the CMS team to suggest this improvement.
 
-#### Activity 2: Submitting a request for support via widget on the bottom left part of the page
+#### Activity 2: Submit a request for support via widget on the bottom left part of the page
 
 You’re working on a new area of the CMS and feel that you need additional information on how to find a certain content. 
 
-* Find the written instructions about finding content in the CMS?
+* __Task 2.1:__ Find the written instructions about content findability in the CMS.
 
 After reading the written instructions, you still don't have enought clarity about how to find Details Pages. 
 
-* Using the resources available in the CMS, reach out to the CMS team to request additional support.
+* __Task 2.2:__ Using the resources available in the CMS, reach out to the CMS team to request additional support.
 
 
 ## Additional Questions
