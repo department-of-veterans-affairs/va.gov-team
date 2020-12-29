@@ -12,15 +12,11 @@ This entire session should take about 30 minutes. I want to be sure not to keep 
 
 In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve the new CMS to better meet your needs. I will not be offended by any opinions you express, and I welcome your feedback.
 
-You'll be interacting with a prototype during this session. This means that you will be interacting with a replica of CMS, but some areas may be clickable while others aren't.
+You'll be interacting with a demo environment this session. This means that you will be interacting with a replica of CMS and that any edits or changes won't be published on VA.gov.
 
 If for any reason and at any time you want to stop the session, please let me know. You will not be penalized in any way if we need to stop.
 
-Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately.
-
-Start recording
-
-I want to verify that you are okay with me recording screen and audio today.
+We are not recording the session today.
 
 
 ## Warm-up Questions
@@ -42,9 +38,11 @@ Now, I have a few activities that I'd like you to do in the demo environment. I 
 
 _Share link:_ https://pr3850-geb9i1vxs7ugc9kzpbajhiyfirxs1npl.ci.cms.va.gov/node/11463/edit
 
-You're editing content on the COVID-19 vaccines at VA page and you notice xxxxxxxx isn’t working in the way you expect. 
+You're editing content on the COVID-19 vaccines at VA page and you notice the the Add a Content block functionality isn’t working in the way you expect. 
 
-* __Task 1.1:__ Using the resources available in the CMS, let someone know about what you noticed. inform the CMS team that something is not working the way it should be.
+* __Task 1.1:__ Using the resources available in the CMS, let someone in the CMS team know about what you noticed. 
+
+_Share link:_ https://pr3850-geb9i1vxs7ugc9kzpbajhiyfirxs1npl.ci.cms.va.gov/health-care/covid-19-vaccine
 
 You're previewing content on the COVID-19 vaccines at VA and realized that it would be beneficial for editors to be able to add comments to specific parts of the text.
 
@@ -52,11 +50,15 @@ You're previewing content on the COVID-19 vaccines at VA and realized that it wo
 
 #### Activity 2: Submit a request for support via widget on the bottom left part of the page
 
-You’re new to the CMS and want to better understand the notion of sections. _Share link_: https://pr3850-geb9i1vxs7ugc9kzpbajhiyfirxs1npl.ci.cms.va.gov/user/1333
+_Share link_: https://pr3850-geb9i1vxs7ugc9kzpbajhiyfirxs1npl.ci.cms.va.gov/user/1333
+
+You’re new to the CMS and want to better understand the notion of sections. 
 
 * __Task 2.1:__ Look to see if there is information available on this topic. 
 
-After reading the written instructions, you still don't have enought clarity about why you see only a few sections on your user profile, but all the sections on your top menu. _Share link, if needed_: https://pr3850-geb9i1vxs7ugc9kzpbajhiyfirxs1npl.ci.cms.va.gov/help/cms-basics/sections
+_Share link, if needed_: https://pr3850-geb9i1vxs7ugc9kzpbajhiyfirxs1npl.ci.cms.va.gov/help/cms-basics/sections
+
+After reading the information, you still don't have enought clarity about why you see only a few sections on your user profile, but all the sections on your top menu. 
 
 * __Task 2.2:__ Using the resources available in the CMS, ask for more information about this topic. 
 
@@ -71,7 +73,7 @@ That is all the activities I have for us today. I just have a few final question
 
 * Did you find anything frustrating about the process?
 
-* From 1 to 5, what is your level of confidence regarding submitted a help request to the right place and that someone is on the other end to help you?
+* From 1 to 5, what is your level of confidence regarding submitting a help request to the right place and that someone is on the other end to help you?
   
 * If you had to describe the process of requesting CMS support to a friend, what would you tell them? 
 
