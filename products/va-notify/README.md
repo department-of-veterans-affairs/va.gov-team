@@ -2,6 +2,7 @@
 
 ## Our Mission
 Improve the overall experience and quality of communications with veterans using modern digital technology, by building a centralized and self-service platform through which business lines and development teams can send communications to veterans.
+
 ## Communication
 Slack - #va-notify
 
@@ -50,8 +51,8 @@ Slack - #va-notify
 
 
 
-* The Office of the VA Chief Technology Officer (OCTO) will pay for the development and maintenance of VA Digital Notifications Ecosystem products (VANotify + VEText).  Also, OCTO will pay for AWS infrastructure and operational costs.
-* VA business lines will be responsible for funding of digital notifications (email, SMS, or mobile push notifications).  Currently, VA business lines can procure AWS credits to fund their digital notifications.  
+* The **Office of the VA Chief Technology Officer (OCTO)** will pay for the development and maintenance of VA Digital Notifications Ecosystem products (VANotify + VEText).  Also, **OCTO** will pay for AWS infrastructure and operational costs.
+* **VA business lines** will be responsible for funding of digital notifications (email, SMS, or mobile push notifications).  Currently, **VA business lines** can procure AWS credits to fund their digital notifications.  
 
 ## Business Line Tracker
 This is how we will track the business lines that are reaching out to us, their particular use cases, where they are at in our process and key next steps<br/>
