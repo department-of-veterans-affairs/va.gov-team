@@ -53,7 +53,7 @@ Slack - #va-notify
 * VA business lines will be responsible for funding of digital notifications (email, SMS, or mobile push notifications).  Currently, VA business lines can procure AWS credits to fund their digital notifications.  
 
 ## Successes
-![](images/Launched.png)
+![526EZ Submission Confirmation](images/Launched.png)
 ![](images/vaccine_info.png)
 ![](images/vaccine_confirmation.png)
 
