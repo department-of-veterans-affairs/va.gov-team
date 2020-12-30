@@ -9,7 +9,6 @@ Slack - #va-notify
  
 - [How VANotify Works](#how-vanotify-works)
 - [Tech Stack](#tech-stack)
-- [API Documentation](#api-documentation)
 - [Business Onboarding Guide](#business-onboarding-guide)
 - [Technical Onboarding Guide](#technical-onboarding-guide)
 - [Pricing](#pricing)
@@ -32,13 +31,11 @@ Slack - #va-notify
 |                      |                 | Bandit                |
 
 
-## API Documentation
-[VANotify API Documentation](https://github.com/department-of-veterans-affairs/notification-api#api-documentation)
-
 ## Business Onboarding Guide
 ![](images/business.png)
 
 ## Technical Onboarding Guide
+* [VANotify API Documentation](https://github.com/department-of-veterans-affairs/notification-api#api-documentation)
 * Staging URL: https://staging.api.notifications.va.gov
 * Templating guides: https://github.com/department-of-veterans-affairs/notification-utils/tree/master/docs
 ![](images/technical.png)
