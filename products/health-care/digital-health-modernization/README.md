@@ -1,7 +1,7 @@
 # Digital Health Modernization TL; DR
 - This team exists to provide a product strategy and roadmap for how veterans may manage their care on va.gov
 - We are currently doing user research to inform a strategy — roadmap comes later
-- Our product vision derives from the [Digital Modernization Strategy](/products/health-care/digital-health-modernization/product/digitalmodernizationstrategy.pdf): to provide a "single, high-quality digital version of every health product or tool... in one place, on VA.gov."
+- Our product vision derives from the [Digital Modernization Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/digitalmodernizationstrategy.pdf): to provide a "single, high-quality digital version of every health product or tool... in one place, on VA.gov."
 
 ## What We're Doing
 - ~~Interview 23 veterans to understand digital health experiences~~
