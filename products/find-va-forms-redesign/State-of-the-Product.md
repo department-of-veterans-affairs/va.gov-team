@@ -14,7 +14,7 @@
   * [How Do We Define Success](#how-we-define-success)
   * [Success Metrics](#success-metrics)
   * [Product Requirements](#product-requirements)
-  * [Product Dashboard](#product-dashboard)
+  * [Product Analytics](#product-analytics)
   * [Key Workflows](#key-workflows)
   * [Product Enhancements](#product-enhancements)
   * [Key Artifacts](#key-artifacts)
@@ -58,20 +58,23 @@ The Find a VA Form search is **not**:
 
 ## Undesired Business Outcomes ##
 - Veterans and their caregivers will...
-     - Encounter 404 errors when attempting to download a PDF form or access an online tool
-     - Abandon their form search
+     - Encounter 404 (not found) errors when attempting to download a PDF form or access an online tool
+     - Abandon their form search after unfruitful attempts
      - Call the Contact Center for assistance in using the Find a VA Form tool
-     - Complete the wrong form
+     - Download/complete the wrong form or access the wrong online tool
+     
+- Outdated/deleted forms will...
+     - Continue to be made available in search results on VA.gov
 
 
 ### How We Define Success 
 
 Describe ways that success will be measured, followed by a bulleted list of behaviors that will validate success, along with any instrumentation required to capture those behaviors.
     
- - Describe behavior that will demonstrate successful adoption of the product
- - Describe what the above behavior validates (1)
- - Describe what the above behavior validates (2)
- - Describe what the above behavior validates (3)
+ - Veterans and their caregivers will download forms and access online tool equivalents more frequently than before the Find A VA Form Redesign
+     - The search tool returns relevant results
+     - Links to the PDF forms work correctly
+     - Links to online tools, when available, work correctly
  - Describe how pages / objects will need to be instrumented in order to capture behaviors and measure success (1)
  - Describe how pages / objects will need to be instrumented in order to capture behaviors and measure success (2)
 
@@ -90,6 +93,7 @@ Provide a bulleted outline describing the required features of the product
 ### Key Workflows ###
 * [Adding a new VA form](URL TBD)
 * [Publishing, editing or deleting a form details page](form-detail-landing-pages/publish-edit-delete-details-page.md)
+* [Removing a form from Find a VA Search](URL TBD)
 * [Linking search results to a form detail page](URL TBD)
 * [Linking to new online tool form equivalent](URL TBD)
 
@@ -120,8 +124,11 @@ Provide a bulleted outline describing the required features of the product
 |Artifacts  | Description |
 |--|--|
 |[Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/README.md)| Statement of purpose with goals, design intent, etc.| 
-|[Product Super Epic](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/4621) | Product Development Master Epic for sub-epics|
-|[Design & Content Model](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/content-requirements-spec/CLP-Maximal-markup-updated-060320.pdf)| Design comps with annotated requirements |
+|[Product Super Epic]() | Product Development Master Epic for sub-epics|
+|[Design & Content Model]()| Design comps with annotated requirements |
+|[Product Documentation]()| Product Documentation for Contact Center |
+
+
 
 ### Technical Artifacts
 
@@ -132,3 +139,4 @@ Provide a bulleted outline describing the required features of the product
 |[GIBCT Data Service (GIDS)](https://github.com/department-of-veterans-affairs/gibct-data-service/blob/master/README.md)| Names of database or other source of data |VA data owner, database manager
 |Forms database|VA-maintained repository of VA forms |VA Form Managers, Product Owner|
 |Forms in CMS|CMS Form management data (additional metadata appended to Forms database data|VA Form Managers|
+|Data Flow Diagram|Shows how forms data and CMS data are accessed and used|VA Form Managers|
