@@ -33,7 +33,7 @@ Slack - #va-notify
 
 
 ## Business Onboarding Guide
-
+![](images/business.png)
 
 ## Technical Onboarding Guide
 * [VANotify API Documentation](https://github.com/department-of-veterans-affairs/notification-api#api-documentation)
