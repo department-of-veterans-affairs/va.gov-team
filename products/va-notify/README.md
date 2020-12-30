@@ -57,6 +57,8 @@ Slack - #va-notify
 
 ## Successes
 ![](images/Launched.png)
+![](images/vaccine_info.png)
+![](images/vaccine_confirmation.png)
 
 ## Upcoming Features - *Coming Soon*
 
