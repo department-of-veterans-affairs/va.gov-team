@@ -85,7 +85,7 @@ Wednesday, Jan 6 | 2 pm, 5 pm, 7 pm | 3
 Thursday, Jan 7 | 3 pm, 5 pm, 7 pm | 3
 Friday, Jan 8 | 1 pm, 3 pm, 5 pm, 7 pm | 4
 Monday, Jan 11 | 2 pm, 5 pm, 7 pm | 3
-Tuesday, Jan 12 | 3 pm | 1
+Tuesday, Jan 12 | 3 pm, 5 pm | 2
 
 
 ## Team Roles	
