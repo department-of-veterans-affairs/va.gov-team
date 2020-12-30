@@ -45,7 +45,6 @@ We believe that Veterans will get enough information from an "thumbnail" view of
 
 This will be a remote moderated usability test with high-fidelity prototypes. This will let us test that the interactions make sense and the information is presented clearly.
 
-
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	  
 (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
@@ -83,22 +82,38 @@ We will ask for Perigean support in recruiting.
 2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
 3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
-5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
+5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
+
+We plan on running this research between Wednesday January 20th and Tuesday January 26, 2021.
+
+Each session will be [TBD] minutes.
+
+Availability:
+
+| Date      | Available time                   |
+| --------- |----------------------------------|
+| 01/20 Wed | TBD                |
+| 01/21 Thu | TBD              |
+| 01/22 Fri | TBD                         |
+| 01/25 Mon | TBD           |
+| 01/26 Tue | TBD |
+
+The Pilot session is TBD
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
+
+- Moderator: Peter Russo - 510-529-9874 - peter.russo@adhocteam.us	
+- Research guide writing and task development:	
 - Participant recruiting & screening:	
 - Project point of contact:	
 - Participant(s) for pilot test:	
-- Note-takers:	
+- Note-takers: Perigean
 - Observers:	
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
 
 ## Resources	
-- Project Brief: 	
-*Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
+- [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/product-projects/homepage-refresh-initiative-2021.md)
 - Convo Guide	
 *Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
 - Synthesis	
