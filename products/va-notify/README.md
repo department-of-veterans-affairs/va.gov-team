@@ -58,13 +58,8 @@ Slack - #va-notify
 ## Successes
 ![](images/Launched.png)
 
-## Upcoming Features
-* Unsubscribe
-* Email CC
-* Email Routing
-* List Management - Text, Email
-* Push Notifications
-* Two way communications
+## Upcoming Features - *Coming Soon*
+
 
 ## Find Out More
 Fill out this form [here](https://app.smartsheet.com/b/form/2fe7e01103d44ae58706e72e12647c08)
