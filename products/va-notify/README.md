@@ -12,6 +12,7 @@ Slack - #va-notify
 - [Business Onboarding Guide](#business-onboarding-guide)
 - [Technical Onboarding Guide](#technical-onboarding-guide)
 - [Pricing](#pricing)
+- [Business Line Tracker](#business-line-tracker)
 - [Successes](#successes)
 - [Upcoming Features](#upcoming-features)
 - [Find Out More](#find-out-more)
@@ -51,6 +52,10 @@ Slack - #va-notify
 
 * The Office of the VA Chief Technology Officer (OCTO) will pay for the development and maintenance of VA Digital Notifications Ecosystem products (VANotify + VEText).  Also, OCTO will pay for AWS infrastructure and operational costs.
 * VA business lines will be responsible for funding of digital notifications (email, SMS, or mobile push notifications).  Currently, VA business lines can procure AWS credits to fund their digital notifications.  
+
+## Business Line Tracker
+This is how we will track the business lines that are reaching out to us, their particular use cases, where they are at in our process and key next steps
+![Business_Line Tracker Zenhub Board](https://app.zenhub.com/workspaces/vanotify-business-implementation-5fb529d6d7154c000e027f32/board?repos=257953872,259991010,259989505,289179208,261511794)
 
 ## Successes
 ![526EZ Submission Confirmation](images/Launched.png)
