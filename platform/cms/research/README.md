@@ -1,10 +1,10 @@
 This lists all formal research with CMS users. Feature-specific research should reside in the cross-disciplinary directory (such as [Editorial Workflow and Assignements](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/content-ops/editorial-workflow/assignments/)), but should be linked to from here. 
 
-#### November, 2020: CMS Help Center and JSD widget 
+#### January, 2021: CMS Help Center and JSD widget 
 
 _VA.gov CMS team: Jordana Mello_
 
-* x participants
+* 4 participants
 * [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research/cms-help-center)
 
 
