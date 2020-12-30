@@ -89,7 +89,7 @@ Provide a bulleted outline describing the required features of the product
 
 ### Key Workflows ###
 * [Adding a new VA form](URL TBD)
-* [Publishing, editing or deleting a form details page](products/find-va-forms-redesign/form-detail-landing-pages/publish-edit-delete-details-page.md)
+* [Publishing, editing or deleting a form details page](form-detail-landing-pages/publish-edit-delete-details-page.md)
 * [Linking search results to a form detail page](URL TBD)
 * [Linking to new online tool form equivalent](URL TBD)
 
