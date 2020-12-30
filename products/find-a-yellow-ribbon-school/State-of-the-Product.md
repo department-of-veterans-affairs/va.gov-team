@@ -1,1 +1,139 @@
+```diff
+
+@@ WORK IN PROGRESS @@
+
+```
+
+## State of Product: Find a Yellow Ribbon School
+
+### Table of Contents: ###
+
+  * [What is the Problem to be Solved?](#what-is-the-problem-to-be-solved)
+  * [Our Bet: Find a Yellow Ribbon School](#our-bet-find-a-yellow-ribbon-school)
+  * [Goals](#goals)
+  * [How Do We Define Success](#how-we-define-success)
+  * [Success Metrics](#success-metrics)
+  * [Product Requirements](#product-requirements)
+  * [Product Analytics](#product-analytics)
+  * [Key Workflows](#key-workflows)
+  * [Product Enhancements](#product-enhancements)
+  * [Key Artifacts](#key-artifacts)
+  * [Technical Artifacts](#technical-artifacts)
+
+### What is The Problem to be Solved?
+
+Search research indicates that the VA forms page consistently gets high organic search traffic. However it has almost no or very little conversion value. Because this page already gets high organic traffic and has high potential to provide better conversion:
+
+- We want to redesign experience on this page to the new VA.gov look and feel.
+- We want to create new content on this page to drive traffic to top tasks and to the top digital versions of form applications.
+- We want to add analytics tracking to all links and downloads.
+
+### Our Bet: Find a Yellow Ribbon School
+
+If we make the Find a Yellow Ribbon School experience more intuitive and user-friendly and provide highly-visible links to relevant content pages and tools, veterans will be able to more quickly access schools that participate in the Yellow Ribbon Program.
+
+The Find a Yellow Ribbon School tool **is**:
+
+ - A tool to help Veterans locate schools that participate in the Yellow Ribbon program
+ - A resource for accessing contact information provided by Yellow Ribbon schools
+ - A resource for accessing Yellow Ribbon school websites
+ 
+The Find a VA Form search is **not**:
+- A source for detailed information about the Yellow Ribbon Program
+- A tool for determining one's eligibility for the Yellow Ribbon program
+- A tool for applying to Yellow Ribbon Schools
+
+**[Include relevant screen shots]**
+ :o:
+
+### Goals
+
+## Desired Business Outcomes **
+ - Veterans and their caregivers will...
+      - Be able to quickly locate VA forms with little or no search refinement
+      - Be able to read the details about a form and feel confident that they found the form they were looking for
+      - Be able to learn about the VA services and other forms related to the form they are looking for
+      - Be aware of and take advantage of online tool when available
+      - Have less need to call to the Contact Center for help in locating a VA form
+
+## Undesired Business Outcomes ##
+- Veterans and their caregivers will...
+     - Encounter 404 (not found) errors when attempting to download a PDF form or access an online tool
+     - Abandon their form search after unfruitful attempts
+     - Call the Contact Center for assistance in using the Find a VA Form tool
+     - Download/complete the wrong form or access the wrong online tool
+     
+- Outdated/deleted forms will...
+     - Continue to be made available in search results on VA.gov
+
+
+### How We Define Success 
+
+Describe ways that success will be measured, followed by a bulleted list of behaviors that will validate success, along with any instrumentation required to capture those behaviors.
+    
+ - Veterans and their caregivers will download forms and access online tool equivalents more frequently than before the Find A VA Form Redesign
+     - The search tool returns relevant results
+     - Links to the PDF forms work correctly
+     - Links to online tools, when available, work correctly
+ - Describe how pages / objects will need to be instrumented in order to capture behaviors and measure success (1)
+ - Describe how pages / objects will need to be instrumented in order to capture behaviors and measure success (2)
+
+### Success Metrics
+
+|Objective  | Key Result |
+|--|--|
+|Describe objective 1 | Provide one or more result(s) that can be used to validate success -- i.e., X page views will increase by Y%  |
+|Describe objective 2  | Provide one or more result(s) that can be used to validate success -- i.e., CTR will increase by Z% |                                                                                    
+
+### Product Requirements
+Provide a bulleted outline describing the required features of the product
+    
+**[Include relevant images, screen designs]**
+
+### Key Workflows ###
+* [Adding a new VA form](URL TBD)
+* [Publishing, editing or deleting a form details page](form-detail-landing-pages/publish-edit-delete-details-page.md)
+* [Removing a form from Find a VA Search](URL TBD)
+* [Linking search results to a form detail page](URL TBD)
+* [Linking to new online tool form equivalent](URL TBD)
+
+### Product Analytics
+
+- [Google Analytics Dashboard - Post-2020 Redsign](https://analytics.google.com/analytics/web/#/dashboard/MHSfv0WxQySyKRB5IYyw1Q/a50123418w177519031p176188361/)
+- Google Analytics - Pre-2020 Redesign Historic Data
+- Google Analytics - Top Events for Find A VA Form
+- Domo Dashboard (TBD)
+
+### Product Enhancements ###
+
+|Name | Description | Launch Date | GitHub Issue | GitHub Directory|
+|--|--|--|--|--|
+|Post-MVP Enhancements| Adds link from search results to details pages, adds button to online tool where one exists | Jan 2021|[Epic 10758](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10758)|[post-mvp-launch-enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-va-forms-redesign/post-launch-mvp-enhancements)|
+
+|--|--|--|--|
+
+### Product Team ###
+|Team|Name|Role|Organization|
+|--|--|--|--|
+|Decision Tools|[John Hashimoto](https://github.com/johnhashva)|Product Owner|USDS/DSVA|
+|Decision Tools|[Marci McGuire](https://github.com/MarciMcGuireGCIO)|Product Manager|GCIO|
+|Decision Tools|[Zachary Morel](https://github.com/zacharymorel)|Front-End Engineer|GCIO|
+|Decision Tools|[Laurel Lawrence](https://github.com/laurellawrence)|Research/Design-Front-End|Ad Hoc|
+### Key Artifacts
+
+|Artifacts  | Description |
+|--|--|
+|[Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/yellow-ribbon-mvp/yellow-ribbon-mvp-product-brief.md)| Statement of purpose with goals, design intent, etc.| 
+|[Product Super Epic]() | Product Development Master Epic for sub-epics|
+|[Design & Content Model]()| Design comps with annotated requirements |
+|[Product Documentation]()| Product Documentation for Contact Center |
+
+
+
+### Technical Artifacts
+
+|Artifacts  | Description | Relevant Team/Stakeholders
+|--|--|--|
+|[Code Repository]()| Find a VA Form source repo| [Decision Tools Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/decision-tools)
+
 
