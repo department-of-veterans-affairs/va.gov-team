@@ -36,6 +36,11 @@ Subject to iteration based on learning. Each step assumes the previous step went
 6. MHV remains the long tail site for things that are not migrated over, until they are migrated or sunset
 
 ### Strategy B: Global Notifications as Integrator
+TL; DR add very good notifications to va.gov global header. Integrate with vet-text. Use that as launch point for vets to get into disparate tools. Fix IA inconsistenciesand brand consolidation over time. This assumes that discoverability and timely communication >>> UX and IA consistency. 
+
+### Strategy C: Provide for Providers
+TL; DR assumes we can do the most good for the most vets by addressing performance bottlenecks, UX issues and discoverabilty (ex., of messages and PGD) for providers, freeing up more time for them to focus on patients, which is of greater benefit than in changes to veteran-facing tools per se.
+
 
 ## Proposed Performance Metrics
 
