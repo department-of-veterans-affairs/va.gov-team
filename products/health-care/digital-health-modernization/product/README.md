@@ -9,8 +9,8 @@ Many common veteran needs / journeys (ex., find a doctor -> get the appointment 
 
 ### Owned by Our Team
 1. Key components of a viable patient portal (ex., messaging, appointments, prescriptions, notfications) are being developed independently without a unifying vision, which will lead to [additional fragmentation](https://xkcd.com/927/) rather than the single, high quality UX that is our North Star
-2. Over the next ten years, one VA facilitiy at a time will migrate off of the VA's in-house EHR (VistA) onto a commercial solution with Cerner, which if we do nothing will exacerbate veteran confusion and tool fragmentation because it is largely not interoperable with other health tools on va.gov (including myhealthevet)
-3. The VA's core veteran-facing health product has high brand recognition, a great reputation and is massively successful — but it's something of an island, not well-integrated with the components being developed in (1) and not well-positioned to handle the looming Cerner issue in (2) 
+2. Over the next ten years, one VA facilitiy at a time will migrate off of the VA's in-house EHR (VistA) onto a commercial solution with Cerner. We aim to minimize the impact of this migration on veterans by providing veteran-facing interfaces that are agnostic to the underlying EHR, and do not require the veteran to know which tools individual facilities use.
+3. The VA's core veteran-facing health product has high brand recognition, a great reputation and is massively successful — but is visually and functionally distinct from components being developed in (1) and the Cerner systems mentioned in (2) 
 4. Health content on va.gov is designed from the perspective of a how-to manual with the expectation the veteran will read, rather than an action-oriented product with the expectation the veteran will skim for the right call to action
 
 ### Affects Our Team
