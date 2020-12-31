@@ -4,14 +4,14 @@
 
 ```
 
-## State of Product: Find a Yellow Ribbon School
+# State of Product: Find a Yellow Ribbon School
 
-### Table of Contents: ###
+## Table of Contents: ###
 
   * [What is the Problem to be Solved?](#what-is-the-problem-to-be-solved)
   * [Our Bet: Find a Yellow Ribbon School](#our-bet-find-a-yellow-ribbon-school)
   * [Goals](#goals)
-  * [How Do We Define Success](#how-we-define-success)
+  * [How We Define Success](#how-we-define-success)
   * [Success Metrics](#success-metrics)
   * [Product Requirements](#product-requirements)
   * [Product Analytics](#product-analytics)
@@ -20,43 +20,48 @@
   * [Key Artifacts](#key-artifacts)
   * [Technical Artifacts](#technical-artifacts)
 
-### What is The Problem to be Solved?
+## What is The Problem to be Solved?
 
-Search research indicates that the VA forms page consistently gets high organic search traffic. However it has almost no or very little conversion value. Because this page already gets high organic traffic and has high potential to provide better conversion:
+- As a Veteran, I want to easily find information about schools I'm interested in that participate in the Yellow Ribbon program so that I can maximize my education benefits.
 
-- We want to redesign experience on this page to the new VA.gov look and feel.
-- We want to create new content on this page to drive traffic to top tasks and to the top digital versions of form applications.
-- We want to add analytics tracking to all links and downloads.
+- As a content resource, I want to more easily provide Veterans with timely up-to-date Yellow Ribbon school information.
 
-### Our Bet: Find a Yellow Ribbon School
+- As a Yellow Ribbon data producer, I want to submit timely up-to-date Yellow Ribbon school information to the va.gov. team.
+
+## Our Bet: Find a Yellow Ribbon School
 
 If we make the Find a Yellow Ribbon School experience more intuitive and user-friendly and provide highly-visible links to relevant content pages and tools, veterans will be able to more quickly access schools that participate in the Yellow Ribbon Program.
 
-The Find a Yellow Ribbon School tool **is**:
+- Side-by-side comparison functionality will be helpful for Veterans
+- Veterans will want the ability to reduce the number of the initial search results (filtering)
+- Benefit amount will be the most important variable in the search results
+- Veterans will be confused about the difference between this and the GIBCT, and not understand the need for two separate tools
+
+### The Find a Yellow Ribbon School tool **is**:
 
  - A tool to help Veterans locate schools that participate in the Yellow Ribbon program
  - A resource for accessing contact information provided by Yellow Ribbon schools
  - A resource for accessing Yellow Ribbon school websites
  
-The Find a VA Form search is **not**:
+### The Find a VA Form search is **not**:
 - A source for detailed information about the Yellow Ribbon Program
 - A tool for determining one's eligibility for the Yellow Ribbon program
 - A tool for applying to Yellow Ribbon Schools
 
 **[Include relevant screen shots]**
- :o:
 
-### Goals
+## Goals
 
-## Desired Business Outcomes **
- - Veterans and their caregivers will...
-      - Be able to quickly locate VA forms with little or no search refinement
-      - Be able to read the details about a form and feel confident that they found the form they were looking for
-      - Be able to learn about the VA services and other forms related to the form they are looking for
-      - Be aware of and take advantage of online tool when available
-      - Have less need to call to the Contact Center for help in locating a VA form
+### Desired Business Outcomes
+- Bring YR participating school information into the benefit hub as a more dynamic, user-friendly content than the current experience of 50+ manual table pages.
+- Improve UX for YR tables so that users can easily find info they're looking for
+- Reduce the level of effort for stakeholder to keep YR data up-to-date on Veteran-facing page
+- Take technical learnings about Drupal functionality and table data IX to inform future research for MVP 2.0 solution or solutions for database-driven table content.
+- Gain a better understanding of the information most relevant to Veterans as they research education options
+- Identify schools I'm interested in that participate in Yellow Ribbon program, and understand the benefit details that are specific and unique to each school.
+- Eliminate manual updates of Yellow Ribbon information
 
-## Undesired Business Outcomes ##
+### Undesired Business Outcomes
 - Veterans and their caregivers will...
      - Encounter 404 (not found) errors when attempting to download a PDF form or access an online tool
      - Abandon their form search after unfruitful attempts
@@ -67,7 +72,7 @@ The Find a VA Form search is **not**:
      - Continue to be made available in search results on VA.gov
 
 
-### How We Define Success 
+## How We Define Success 
 
 Describe ways that success will be measured, followed by a bulleted list of behaviors that will validate success, along with any instrumentation required to capture those behaviors.
     
@@ -80,10 +85,20 @@ Describe ways that success will be measured, followed by a bulleted list of beha
 
 ### Success Metrics
 
-|Objective  | Key Result |
-|--|--|
-|Describe objective 1 | Provide one or more result(s) that can be used to validate success -- i.e., X page views will increase by Y%  |
-|Describe objective 2  | Provide one or more result(s) that can be used to validate success -- i.e., CTR will increase by Z% |                                                                                    
+#### **Experience Metrics**
+- % exit to university pages 
+- % exit to other VA.gov links  
+  - Find out if you qualify for the Yellow Ribbon Program
+  - Find out if you're eligible for the Post-9/11 GI Bill
+  - Apply for Post-9/11 GI Bill benefits
+- Avg. number of search refinements
+- Frequency of search criteria usage
+- Search results load speed
+
+#### **Outcomes Metrics**
+- % of Post-911 GI Bill benefit applications started in session with a visit to YR
+- % of sessions with successful logins following a visit to YR
+- % of sessions with success account creations following a visit to YR
 
 ### Product Requirements
 Provide a bulleted outline describing the required features of the product
@@ -97,43 +112,50 @@ Provide a bulleted outline describing the required features of the product
 * [Linking search results to a form detail page](URL TBD)
 * [Linking to new online tool form equivalent](URL TBD)
 
-### Product Analytics
+## Product Analytics
 
-- [Google Analytics Dashboard - Post-2020 Redsign](https://analytics.google.com/analytics/web/#/dashboard/MHSfv0WxQySyKRB5IYyw1Q/a50123418w177519031p176188361/)
-- Google Analytics - Pre-2020 Redesign Historic Data
-- Google Analytics - Top Events for Find A VA Form
-- Domo Dashboard (TBD)
+**View: _Production - Education Modernized View_**
 
-### Product Enhancements ###
+- [Number of people visiting YR pages per month](https://analytics.google.com/analytics/web/?authuser=1#/report/content-pages/a50123418w177519031p184334251/_u.date00=20200101&_u.date01=20200914&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:~2Feducation~2Fyellow-ribbon-participating-schools~2Findex.html&explorer-graphOptions.selected=analytics.nthMonth)
+
+
+- [Yellow Ribbon Searches and Refinements](https://analytics.google.com/analytics/web/?authuser=1#/report/content-site-search-pages/a50123418w177519031p184334251/explorer-segmentExplorer.segmentId=analytics.searchKeyword&_r.drilldown=analytics.searchStartPage:~2Feducation~2Fyellow-ribbon-participating-schools~2Findex.html&explorer-table.plotKeys=%5B%5D)
+
+- [Yellow Ribbon Exit Pages](https://analytics.google.com/analytics/web/?authuser=1#/report/content-pages/a50123418w177519031p184334251/_r.drilldown=analytics.pagePath:~2Feducation~2Fyellow-ribbon-participating-schools~2Findex.html&_r.tabId=navigationsummary)
+
+-Consider Domo Dashboard
+
+
+## Product Enhancements ##
 
 |Name | Description | Launch Date | GitHub Issue | GitHub Directory|
 |--|--|--|--|--|
-|Post-MVP Enhancements| Adds link from search results to details pages, adds button to online tool where one exists | Jan 2021|[Epic 10758](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10758)|[post-mvp-launch-enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-va-forms-redesign/post-launch-mvp-enhancements)|
 
-|--|--|--|--|
+-----
 
-### Product Team ###
+## Product Team ##
 |Team|Name|Role|Organization|
 |--|--|--|--|
 |Decision Tools|[John Hashimoto](https://github.com/johnhashva)|Product Owner|USDS/DSVA|
 |Decision Tools|[Marci McGuire](https://github.com/MarciMcGuireGCIO)|Product Manager|GCIO|
 |Decision Tools|[Zachary Morel](https://github.com/zacharymorel)|Front-End Engineer|GCIO|
 |Decision Tools|[Laurel Lawrence](https://github.com/laurellawrence)|Research/Design-Front-End|Ad Hoc|
-### Key Artifacts
 
+## Key Artifacts
+-----
 |Artifacts  | Description |
 |--|--|
 |[Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/yellow-ribbon-mvp/yellow-ribbon-mvp-product-brief.md)| Statement of purpose with goals, design intent, etc.| 
 |[Product Super Epic]() | Product Development Master Epic for sub-epics|
 |[Design & Content Model]()| Design comps with annotated requirements |
 |[Product Documentation]()| Product Documentation for Contact Center |
+-----
 
 
-
-### Technical Artifacts
+## Technical Artifacts
 
 |Artifacts  | Description | Relevant Team/Stakeholders
 |--|--|--|
-|[Code Repository]()| Find a VA Form source repo| [Decision Tools Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/decision-tools)
-
+|[Front-end Code Repository](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/yellow-ribbon)| Yellow Ribbon front-end source repo| [Decision Tools Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/decision-tools)
+|GI Bill Comparison Tool Client Data Service (GIDS) Documentation|powers Yellow Ribbon and GI Bill Comparison Tool|https://github.com/department-of-veterans-affairs/gibct-data-service|
 
