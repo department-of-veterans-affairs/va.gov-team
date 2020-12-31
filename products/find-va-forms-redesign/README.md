@@ -10,9 +10,60 @@ This is the folder for all background, historical, discovery, and status documen
 
 ## Table of Contents
 
+- [Incident Response](#incident-response)
 - [Problem Statement](#problem-statement)
 - [Status and decisions](#status-and-decisions)
 
+## Incident Response
+As of 12/31/2020:
+
+### Team
+ - Team Name: Decision Tools
+ - GitHub Label: [vsa-decision-tools](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/decision-tools)
+ - Slack channel: [#vsa-decision-tools](https://dsva.slack.com/channels/vsa-decision-tools)
+ 
+
+### Decision Tools Team Members
+|Name|Role|
+|----|----|
+|John Hashimoto	| Decision Tools Product Owner|
+|Marci McGuire	| Decision Tools Product Manager|
+|Zachary Morel	|FE Engineer|
+|Laurel Lawrence	| Design/Research|
+
+### Lighthouse API Team
+|Name|Role|
+|----|----|
+|Lee DeBoom	|Vets API|
+|Dan Hinze | Software Engineer|
+|Mark Greenburg	|VA APIs|
+|Michael Bastos	|VA APIs|
+
+### Other Subject Matter Experts
+|Name|Role|
+|----|----|
+|Jen Lee	| Former Product Owner|
+|Brian Lloyd	| Former Product Manager|
+|Mickin Sahni	| Former Product Manager|
+|Nick Sullivan	|FE Engineer|
+|Kelson Adams	| FE Engineer|
+|Steve Wirt	| CMS: Drupal|
+|Ryan Thurlwell	| Original Design Intent|
+|Charley Stran	| Formerly supported Forms on Lighthouse API team|
+
+__VA forms stakeholder working group includes:__
+
+- Huber, Diane <Diane.Huber@va.gov>; 
+- Walker, Stephen <Stephen.Walker4@va.gov>; 
+- Ranes, Michelle M. <michelle.ranes@va.gov>
+- Reid, Kevin <Kevin.Reid@va.gov>
+- McCarthy, Brian <Brian.McCarthy4@va.gov>; 
+- Smith, Jeremy <Jeremy.Smith@va.gov>; 
+- Tuscher, Joshua (joshua.tuscher@va.gov); 
+- VAVBAWAS/CO/PCO <PCO.VBACO@va.gov>; 
+- Vaccaro-Palomaki, Missie <Missie.Vaccaro@va.gov>; 
+- Smith, Gail T. (VACO) <gail.smith@va.gov>
+---
 
 ## Problem Statement 
 
@@ -87,7 +138,9 @@ Engagement
 
  <img src="./find-va-forms-redesign/findvaform-q3-arch.png" alt="Find VA Forms Architecture"  width="50%"> 
 
----
+
+
+------
 # Status and decisions:
 
 ## 06/22/20
@@ -267,34 +320,3 @@ Nick brought up a potential option where everything, including customizable cont
 __Next step: follow up conversation to investigate Nick’s suggestion, and to finalize decision on which approach to use.__
 
 --- 
-
-
-# Team
- - Team Name: Public Websites
- - GitHub Label: [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites)
- - Slack channel: [#va-forms](https://dsva.slack.com/channels/va-forms)
- 
-
-## Team Members
-|Name|Role|
-|----|----|
-|Jennifer Lee	| Public Websites Product Owner|
-|Nick Sullivan	|FE Engineer|
-|Kelson Adams|	FE Engineer|
-|Randi Hecht	| Content|
-
-
-
-__VA forms stakeholder working group includes:__
-
-- Huber, Diane <Diane.Huber@va.gov>; 
-- Walker, Stephen <Stephen.Walker4@va.gov>; 
-- Ranes, Michelle M. <michelle.ranes@va.gov>
-- Reid, Kevin <Kevin.Reid@va.gov>
-- McCarthy, Brian <Brian.McCarthy4@va.gov>; 
-- Smith, Jeremy <Jeremy.Smith@va.gov>; 
-- Tuscher, Joshua (joshua.tuscher@va.gov); 
-- VAVBAWAS/CO/PCO <PCO.VBACO@va.gov>; 
-- Vaccaro-Palomaki, Missie <Missie.Vaccaro@va.gov>; 
-- Smith, Gail T. (VACO) <gail.smith@va.gov>
-
