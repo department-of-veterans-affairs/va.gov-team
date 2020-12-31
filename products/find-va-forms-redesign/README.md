@@ -163,7 +163,8 @@ Engagement
 ### 12/31/2020 Marci McGuire
 We tentatively plan to launch Post-MVP enhancements on Jan 12, 2021, which will provide direct links from search results to form details page (where they exist) and the ability to sort results by **Form last updated** date.
 
-
+### 2020-12-21 Marci McGuire
+John Hashimoto and Marci McGuire agreed that the features being implemented were low-risk and don't warrant conducting user research.
 
 ### 06/22/20
 
