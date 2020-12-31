@@ -13,9 +13,10 @@
 </details>
 
 <details><summary>Parking lot</summary>
+ 
 
 </details>
-  
+
 
 <details><summary>Relevant CMS product backlogs and docs</summary>
   
@@ -41,6 +42,17 @@
 
 - [Review sprint 23 backlog](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/board?epics=154174777_2275,154174777_2274,154174777_2273,154174777_1475&filterLogic=any&repos=154174777)
 
+- Questions from Public Website Team: 
+  - What FE actions (if any) are needed to build accordions FAQ’s?
+
+  - Is layout/view already mobile capable or will a mobile version needed to be considered during FE build?
+
+  - What are the 508 & a11y considerations? (Previous discussions/findings?)
+
+  - Have we consider CTA tracking and analytics per campaign i.e. how do we make this turnkey for analytics tracking requests/reviews.
+
+  - What is the current planned "governance" considerations? What should be considered/known as we build FE elements?
+
 ### Resources & support
 
 - n/a
@@ -59,17 +71,6 @@
 ### Campaign landing page MVP
 
 - Review notes from John and Randi from content entry
-
-Questions from PubWeb Team: 
-1. What FE actions (if any) are needed to build accordions FAQ’s?
-
-2. Is layout/view already mobile capable or will a mobile version needed to be considered during FE build?
-
-3. What are the 508 & a11y considerations? (Previous discussions/findings?)
-
-4. Have we consider CTA tracking and analytics per campaign i.e. how do we make this turnkey for analytics tracking requests/reviews. 
-
-5. What is the current planned "governance" considerations?  What should be considered/known as we build FE elements?
 
 ### Resources & support
 
