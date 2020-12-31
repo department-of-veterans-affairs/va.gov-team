@@ -45,7 +45,7 @@ The Facilities needs a better understanding of how veterans expect to find healt
   
 - Moderation will provide opportunity for qualitative discovery through follow-up questions.
 
-### Participants:
+## Participants:
 
 A total of 15 participants will be interviewed:
 
