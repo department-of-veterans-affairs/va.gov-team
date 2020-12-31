@@ -138,7 +138,7 @@ Code Path for the `check-broken-links` Metalsmith plugin
 
 ![screenshot of code path for check-broken-links Metalsmith plugin](https://user-images.githubusercontent.com/6130520/87714554-8849ef00-c771-11ea-8f20-ed52af7fcd3a.png)
 
-If there are broken links, the `glean-broken-links` script parses the build log and creates a file that lists the broken links in a Comma-Separated Value (CSV) format. If broken links are found on the `master` branch, an exception is thrown during the Jenkins job to block the deploy. 
+If there are broken links, the `glean-broken-links` script parses the build log and creates a file that lists the broken links in a Comma-Separated Value (CSV) format. If broken links are found on the `master` branch, an exception is thrown during the Jenkins job to block the deploy.
 
 ###### The `glean-broken-links` script
 
@@ -222,7 +222,7 @@ The Metalsmith static content build will be extracted to the `content-build` rep
 
 The broken link validation will continue using the existing the `check-broken-link` Metalsmith plugin and `glean-broken-links` script. Since broken links currently block content-only deploys, then we will continue blocking content-only deploys when broken links are detected.
 
-The validation of accessibility errors will take place in a scheduled job that runs hourly during workdays, instead of happening as part of the full deploy. Since the accessibility check relies on the output of the content build, the scheduled job will run a script to produce a build that only has the steps necessary for accessibility checking. That build will only be used for reporting accessibility errors, and will have no impact on deploys. Those reports will be delivered to the #cms-team channel via existing Slack integrations.
+The validation of accessibility errors will take place in a scheduled job that runs daily during workdays, instead of happening as part of the full deploy. Since the accessibility check relies on the output of the content build, the scheduled job will run a script to produce a build that only has the steps necessary for accessibility checking. That build will only be used for reporting accessibility errors, and will have no impact on deploys. Those reports will be delivered to the #cms-team channel via existing Slack integrations.
 
 For content writers, this approach preserves their ability to quickly draft, publish, and deploy content. And the improved reporting will make it easier for them to pinpoint errors. The downside of this approach is that content writers still won't have a proactive way to fully validate their content.
 
