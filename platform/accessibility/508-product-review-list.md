@@ -68,6 +68,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [Covid-19 Resources](#covid-links-and-resources-pdf)
       - [Find Forms MVP](#find-forms-mvp)
       - [Yellow Ribbon MVP](#yellow-ribbon-mvp)
+      - [New Contact Us Page](#new-contact-us-page)
     - [VFS Health Care](#vfs-health-care)
       - [Health Care Application 1010-EZ](#health-care-application-1010-ez)
       - [Open issues](#open-issues-1)
@@ -769,6 +770,19 @@ Back to [Table of Contents](#table-of-contents)
 
 **Audit status:** _Completed June 2017._<br/>
 **No open issues**
+
+Back to [Table of Contents](#table-of-contents)
+
+---
+
+#### New Contact Us Page
+
+**Audit status:** _[First staging review done December 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17542). Will finish the review in production in January 2021. _
+
+**Open issues**
+
+- [508-defect-2 [COGNITION]: Contact Us - Table of contact links and information must have well-formed HTML - #17984](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17984)<br/>**Opened:** December 31, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+- [508-defect-3 [COGNITION]: Contact Us - Page should have a "Contact Us" breadcrumb to match top level navigation pattern - #17987](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17987)<br/>**Opened:** December 31, 2020 | **Severity:** 508-defect-3 - **_Moderate_**
 
 Back to [Table of Contents](#table-of-contents)
 
