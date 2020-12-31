@@ -60,6 +60,17 @@
 
 - Review notes from John and Randi from content entry
 
+Questions from PubWeb Team: 
+1. What FE actions (if any) are needed to build accordions FAQ’s?
+
+2. Is layout/view already mobile capable or will a mobile version needed to be considered during FE build?
+
+3. What are the 508 & a11y considerations? (Previous discussions/findings?)
+
+4. Have we consider CTA tracking and analytics per campaign i.e. how do we make this turnkey for analytics tracking requests/reviews. 
+
+5. What is the current planned "governance" considerations?  What should be considered/known as we build FE elements?
+
 ### Resources & support
 
 ### Other
