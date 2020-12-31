@@ -19,7 +19,7 @@
 </details>
    
 <details><summary>Relevant CLP product backlogs and docs</summary>
-  
+  https://docs.google.com/document/d/1euEecCA615iI2vexnMnQB4l_aLk1irxOOV7_tpPY6gk/edit#
 
 
 </summary>
