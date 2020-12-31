@@ -15,18 +15,29 @@ We believe that Veterans will get enough information from an "thumbnail" view of
 
 
 ## Research questions
-- Can Veterans find the date/time for their appointments?
-- Does the thumbnail information help them scan their appointments?
-- Do Veterans understand that they can click the thumbnail view to get to the detail page?
-- Can Veterans distinguish between appointment types?
+
+**Static Landing Page**
+- Do users find the information on this page helpful?
+- Can they easily start managing their appointments?
+
+**Home Page/Appointments List**
+
+- Do users understand that they can click the thumbnail view to get to the detail page?
+- Does the thumbnail information help them scan the appointments list?
+- Can they distinguish between appointment types?
     - Video appointments
     - Express care
     - Phone appointments
-- Can Veterans find appointments not initially listed?
-    - Upcoming, canceled, requested
+    - Canceled appointments
+- Can they their find appointments that aren't in the upcoming list?
+    - Past
+    - Requested
+- Do they understand what the requested appointments are?
+- Can they easily find/understand the date/time for their appointments?
 - Can Veterans easily navigate between an appointment and the appointments list?
-- Can Veterans easily reschedule an appointment?
 
+**Rescheduling**
+- Can Veterans easily reschedule an appointment?
 
 ## Hypotheses
 
