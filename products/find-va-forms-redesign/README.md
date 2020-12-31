@@ -9,15 +9,17 @@ This is the folder for all background, historical, discovery, and status documen
 (Prior iterations of above info should be considered deprecated. )
 
 ## Table of Contents
-
 - [Incident Response](#incident-response)
    - [Team](#team)
 - [Problem Statement](#problem-statement)
     - [KPIs](#kpis)
-    - [Go-To-Market Strategy](#Go-to-market Strategy)
-- Launch Dates
+    - [Go-To-Market Strategy](#Go-to-market-Strategy)
+- [Launch Dates](#launch-dates)
     - [Post-MVP](#post-mvp)
     - [MVP](#mvp)
+- [Architecture](#launch-dates)
+   - [Data Flow Diagram](#data-flow-diagram)
+   - [Drupal CMS Migration Documentation](#Drupal-CMS-Forms-Migration-Documentation)
 - [Status and decisions](#status-and-decisions)
 
 ## Incident Response
@@ -58,7 +60,6 @@ As of 12/31/2020:
 |Charley Stran	| Formerly supported Forms on Lighthouse API team|
 
 __VA forms stakeholder working group includes:__
-
 - Huber, Diane <Diane.Huber@va.gov>; 
 - Walker, Stephen <Stephen.Walker4@va.gov>; 
 - Ranes, Michelle M. <michelle.ranes@va.gov>
@@ -72,7 +73,6 @@ __VA forms stakeholder working group includes:__
 ---
 
 ## Problem Statement 
-
 Search research indicates that the VA forms page consistently gets high organic search traffic. However it has almost no or very little conversion value. Because this page already gets high organic traffic and has high potential to provide better conversion:
 
 - we want to redesign experience on this page to the new VA.gov look and feel.
@@ -93,7 +93,6 @@ https://github.com/department-of-veterans-affairs/digitalservice/issues/921
 
 
 ### KPIs
-
 **[Google Analytics Dashboard](https://analytics.google.com/analytics/web/?authuser=1#/dashboard/MHSfv0WxQySyKRB5IYyw1Q/a50123418w177519031p176188361/)**
 
 **Overarching goal**: improve form (potentially benefit) discoverability in order to get more people to an (the right?) application experience\
@@ -101,7 +100,6 @@ https://github.com/department-of-veterans-affairs/digitalservice/issues/921
 **Metrics**:
 
 *Find VA Forms - Search*
-
 Search Relevancy
 - % queries with no results
 - % PDF downloads / successful queries
@@ -148,17 +146,21 @@ Engagement
   - June 8, 2020 (Find VA Forms Search)
 - *What is your date for when you'll evaluate impact after launch?*
 
----
-# Architecture
-
+------
+## Architecture
+### Data Flow Diagram
  <img src="./find-va-forms-redesign/findvaform-q3-arch.png" alt="Find VA Forms Architecture"  width="50%"> 
 
+### Drupal CMS Forms Migration Documentation
+[Migrations: Forms](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/migrations-forms.md)
 ------
+## Status and decisions:
+
 ## 12/31/2020 Marci McGuire
 
 We tentatively plan to launch Post-MVP enhancements on Jan 12, 2021, which will provide direct links from search results to form details page (where they exist) and the ability to sort results by **Form last updated** date.
 
-# Status and decisions:
+
 
 ## 06/22/20
 
@@ -199,7 +201,6 @@ Important discovery: API is treating form numbers like they are unique 'form IDs
 Other issues - legacy practices that were not cleaned up (e.g., www1. URLs, http:// URLs, etc.) 
 
 Next step: Regroup needed on ungating plan. 
-
 
 
 ## 03/11/2020
