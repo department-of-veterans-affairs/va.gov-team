@@ -3,16 +3,16 @@
 ## Moderator logistics
 
 - [ ] Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to the [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel).
-- [ ] Have the [prototype link](https://adhoc.invisionapp.com/share/QWZ7WD9GTPJ#/screens/435681239_VAOS-CC-Pick-1) available
+- [ ] Have the [prototype link TBD]available
 - [ ] Update the Zoom sharing section
 - [ ] In the Attendees section, make sure everyone except the participant is on mute
 - [ ] In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
-- [ ] Check your [screensharing setup]
+- [ ] Check your screensharing setup
 - [ ] When the participant is ready, begin the session with the following intro:
 
 ## Intro - 5 minutes   
 
-Thanks for joining us today! My name is Peter Russo and I also have some colleagues on the line observing and taking notes. We have a team working on improving a tool veterans can use to request health care appointments. Today, I'd like to hear about your experience with requesting appointments, and go through a prototype of this tool and get your thoughts on it.
+Thanks for joining us today! My name is Peter Russo and I also have some colleagues on the line observing and taking notes. We have a team working on improving a tool veterans can use to manage health care appointments online. Today, I'd like to hear about your experience with managing appointments, and go through a prototype of this tool and get your thoughts on it.
 
 Before we start, a few things I want to mention:
 
@@ -53,3 +53,88 @@ Before we start, a few things I want to mention:
 ## Warm-up Questions (Optional) - 5 minutes
 
 Before we look at the website, let’s start with a couple of warm-up questions.
+
+[TBD]
+
+## Section 1: Static landing page
+
+Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
+
+* `Use chat to send user link to prototype.` [Prototype link TBD]
+
+* `Talk user through screen sharing so they can share their screen.`
+
+As I mentioned earlier, this is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a prototype, none of your actions will affect your actual VA information or benefits.
+
+`Start Task 1 when screen is shared`
+
+### Task 1 - Usefulness of information
+
+* First, take a look at this page, scroll around. Tell me what this page is for and what you think you can do here. Share any thoughts, questions, or things that you find confusing or helpful.  
+
+
+### Task 2 - Manage appointments list
+
+* If you had health care appointments scheduled, could you find them from here?
+
+
+## Section 2: Home page
+
+### Task 1 - Comprehension
+
+* In your own words, what is this page for?
+
+* What do you notice about the appointments in this list?
+
+    * If they don't call them out, ask them to find:
+        * Video appointment
+        * Express care / phone
+        * Canceled
+
+### Task 2 - Find appointment details
+
+* What clinic will you go to during your upcoming appointment at Cheyenne VA Medical center?
+
+* (Once in the appointment) When is this appointment?
+
+* Who canceled the one canceled appointment in the list?
+
+### Task 3 - Find appointment requests
+
+* Are there any other types of appointments that you would expect to see here?
+
+* How would you expect to find appointments that occurred in the past?
+
+* Sometimes when you're scheduling appointments, we need to call you to confirm the appointment before it's finalized. 
+    * How would you expect to find appointments like that?
+
+
+## Section 3: Reschedule
+
+
+### Task 1 - Find the reschedule option
+
+* Say you want to move your upcoming January 25th appointment to later in the week, specifically Friday afternoon. How would you do that?
+
+### Task 2 - Complete the reschedule
+
+* Move your upcoming appointment to Friday afternoon.
+
+Thank you for working through that with me. I just have a few more questions before we break.
+
+* Is there any other feedback you would like to share?
+
+* Do you have any other questions for me?
+
+## Thank-You and Closing
+
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+
+Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
+    If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
+
+Great, well thank you so much again, and enjoy the rest of your day!
+
+
+
+
