@@ -106,11 +106,7 @@ Provide a bulleted outline describing the required features of the product
 **[Include relevant images, screen designs]**
 
 ### Key Workflows ###
-* [Adding a new VA form](URL TBD)
-* [Publishing, editing or deleting a form details page](form-detail-landing-pages/publish-edit-delete-details-page.md)
-* [Removing a form from Find a VA Search](URL TBD)
-* [Linking search results to a form detail page](URL TBD)
-* [Linking to new online tool form equivalent](URL TBD)
+* [How New Yellow Ribbon Schools are Added](URL TBD)
 
 ## Product Analytics
 
