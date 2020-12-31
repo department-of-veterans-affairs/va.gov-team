@@ -47,9 +47,6 @@ Enter an issue title using the format [ERROR TYPE]: Brief description of the pro
 1. Fix and/or document decisions made.
 1. Accessibility specialist will close ticket after reviewing documented decisions / validating fix.
 
-<hr/>
-
-
 ## Point of Contact
 
 <!-- If this issue is being opened by a VFS team member, please add a point of contact. Usually this is the same person who enters the issue ticket. -->
@@ -94,7 +91,7 @@ Example:
 6. Verify the widget does not open when Spacebar is pressed
 -->
 
-## Solution (if known)
+## Proposed Solution (if known)
 
 <!--
 If the issue is one that can be fixed easily by changing HTML, CSS, or JavaScript markup, include the snippet in the issue description. If it is a longer fix or you do not have a ready solution, remove this section.
