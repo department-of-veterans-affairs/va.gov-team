@@ -11,7 +11,13 @@ This is the folder for all background, historical, discovery, and status documen
 ## Table of Contents
 
 - [Incident Response](#incident-response)
+   - [Team](#team)
 - [Problem Statement](#problem-statement)
+    - [KPIs](#kpis)
+    - [Go-To-Market Strategy](#Go-to-market Strategy)
+- Launch Dates
+    - [Post-MVP](#post-mvp)
+    - [MVP](#mvp)
 - [Status and decisions](#status-and-decisions)
 
 ## Incident Response
@@ -86,7 +92,7 @@ Also tracked in Master DEPO intake board:
 https://github.com/department-of-veterans-affairs/digitalservice/issues/921
 
 
-## KPIs
+### KPIs
 
 **[Google Analytics Dashboard](https://analytics.google.com/analytics/web/?authuser=1#/dashboard/MHSfv0WxQySyKRB5IYyw1Q/a50123418w177519031p176188361/)**
 
@@ -117,7 +123,7 @@ Engagement
 - % conversions to online benefit application experiences
 - % converions to logging-in following Find VA Form Search query (future, preferred)
 
-## Go-to-market Strategy
+### Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
   - Will rely on redirects from legacy /vaforms/ experience to the new /find-forms capturing accrued SEO value. 
   - There's a link to the forms experience in the footer of VA.gov. That will be updated to reflect the new url 
@@ -127,6 +133,15 @@ Engagement
   - Comms with form working group necessary to ensure they're comfortable with parity of /vaforms vs. /find-forms searches
 
 ## Launch Dates
+### Post-MVP
+- *What is your target launch date of your MVP/iteration?*
+  - Jan 12, 2021
+- *What is your actual launch date of your MVP/iteration?*
+  - TBD
+- *What is your date for when you'll evaluate impact after launch?*
+  - Feb, 2021 (initial evaluation)
+
+### MVP
 - *What is your target launch date of your MVP/iteration?*
   - April 2020
 - *What is your actual launch date of your MVP/iteration?*
