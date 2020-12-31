@@ -99,7 +99,7 @@ https://github.com/department-of-veterans-affairs/digitalservice/issues/921
 Search Relevancy
 - % queries with no results
 - % PDF downloads / successful queries
-- % conversions to online benefit application experiences (future) / successful queries
+- % conversions to online benefit application experiences / successful queries
 - % converions to logging-in following Find VA Form Search query (future, preferred)
 
 Engagement
@@ -114,7 +114,7 @@ Acquisition
 
 Engagement
 - % PDF downloads / queries
-- % conversions to online benefit application experiences (future)
+- % conversions to online benefit application experiences
 - % converions to logging-in following Find VA Form Search query (future, preferred)
 
 ## Go-to-market Strategy
@@ -138,9 +138,11 @@ Engagement
 
  <img src="./find-va-forms-redesign/findvaform-q3-arch.png" alt="Find VA Forms Architecture"  width="50%"> 
 
-
-
 ------
+## 12/31/2020 Marci McGuire
+
+We tentatively plan to launch Post-MVP enhancements on Jan 12, 2021, which will provide direct links from search results to form details page (where they exist) and the ability to sort results by **Form last updated** date.
+
 # Status and decisions:
 
 ## 06/22/20
