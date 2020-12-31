@@ -81,11 +81,11 @@ I will send it to you via the chat function within Zoom. It’s also usually wit
 
 - This page looks very different from the VA page we just visited, but imagine that we are looking at the same page, where the health services are shown on the right. 
 
-- We’re going to do a sorting exercise. On the left hand side you will see cards with vaccines or immunizations displayed on them. I will give a task for each vaccines or immunization type, and all you need to do is move the card into one of the health service boxes on the right, where you would expect to find information about that vaccine or immunization. 
+- We’re going to do a sorting exercise. On the left hand side you will see cards with vaccines or immunizations displayed on them. I will give you a task for each vaccines or immunization type. All you need to do is move the card into one of the health service boxes on the right. These boxes represent the place on the website where you would expect to find information about that vaccine or immunization. 
 
- - And if none of the groups on the right seem like the best place, you can also create your own group and call it by a name that makes sense to you. You would do this by just dragging the vaccine card to the open area outside of the health services boxes.
+ - And if none of the groups on the right seem like the best place, you can also create your own group and call it by a name that makes sense to you. You can do this by dragging the vaccine card to the open area outside of the health services boxes.
 
- - Now, it looks like there are a lot of cards to move from the left side. Each type of vaccines or immunization actually comes with an extra card which is optional to use. For the most part, they are there only in case you would expect to find vaccine information in more than one place on the right. You can use the extra cards for that, but you don't have to. 
+ - Now, it looks like there are a lot of cards to move from the left side. Each type of vaccines or immunization actually comes with an extra card which is optional. For the most part, they are there only in case you would expect to find vaccine information in more than one place on the right. You can use the extra cards for that, but you don't have to. 
 
 - As you sort these cards, if you could share your thoughts out loud while you work, that would be great. That will help me to follow along.
 
@@ -95,8 +95,8 @@ I will send it to you via the chat function within Zoom. It’s also usually wit
 
 For the first task, I’d like you to imagine that you are planning to get your annual Flu shot, and would like to read information on Flu shots provided by VA.gov:
 
-Can you talk me through which group on the right you would expect to find Flu shot information?
-- When you are ready, go ahead and move the Flu shot card to the right to the place where you would expect to find more information.
+Can you talk me through which group on the right where you would search to find Flu shot information?
+- When you are ready, go ahead and move the Flu shot card to the place on the right where you would look to find more information.
     
 <em>(If participant makes their choice without sharing their thought process):
 
@@ -113,8 +113,8 @@ Have you had the flu shot?
 ### Task 2 Scenario
 
 For this second task, imagine that it has been many years since you last had a Tetanus shot, also known as a Tdap shot (tetanus, diphtheria, and pertussis), and would like to know more about how to receive this shot:
-Can you talk me through which group on the right you would expect to find Tdap shot information?
-- When you are ready, go ahead and move the Tdap shot card to the right to the place where you think it makes the most sense.
+In which group on the right would you look to find Tetanus, or Tdap, shot information? 
+- When you are ready, go ahead and move the Tdap shot card to the space on the right where it makes the most sense to you.
     
 <em>(If participant makes their choice without sharing their thought process):
 
@@ -130,9 +130,9 @@ Have you received the Tdap (tetanus, diphtheria, and pertussis) vaccine or immun
 
 ### Task 3 Scenario
 
-Great! I have one more task with the Tdap vaccine or immunization. Imagine that it has been a few years since your last Tdap booster. In the case of a minor injury, such as a cut involving rusted metal, you would like to get a Tdap booster:
-Can you talk me through which group on the right you would search for Tdap booster information?
-- When you are ready, go ahead and move the Tdap shot card to the right to the place where you think it makes the most sense.
+Great! I have one more task with the tetanus vaccine or immunization. Imagine that it has been a few years since your last Tdap booster. You have had a minor injury and think you might need a Tetanus booster.
+Which group on the right would you search in for Tdap booster information? Talk me through your thought process. 
+- When you are ready, go ahead and move the Tdap shot card to the place on the right where it makes the most sense to you.
     
 <em>(If participant makes their choice without sharing their thought process):
 
@@ -147,10 +147,10 @@ Have you experienced this type of need in the past and received care?
 
 ### Task 4 Scenario
 
-For this next task, I’d like for you to imagine that you have many questions about the COVID-19 vaccine or immunization, its availability and where you might go to receive it:
+For this next task, I’d like for you to imagine that you have many questions about the COVID-19 vaccine or immunization, its availability, and where you might go to receive it:
 
-Can you talk me through which group on the right you would expect to find COVID-19 vaccine information?
-- When you are ready, go ahead and move the COVID-19 vaccine card to the right to the place where you think it makes the most sense.
+Which group on the right would you look in to find COVID-19 vaccine information? Talk me through your thought process. 
+- When you are ready, go ahead and move the COVID-19 vaccine card to the space on the right where it makes the most sense to you.
     
 <em>(If participant makes their choice without sharing their thought process):
 
@@ -165,8 +165,8 @@ Would you search for Coronavirus vs COVID?
 ### Task 5 Scenario
 
 For this task, imagine that you have read that it is important to get the Shingles vaccine or immunization once you have reached a certain age. You would like to know if the VA provides this service:
-Can you talk me through which group on the right you would expect to find Shingles vaccine information?
-- When you are ready, go ahead and move the Shingles vaccine card to the right to the place where you think it makes the most sense.
+Can you talk me through which group on the right you would look in to find Shingles vaccine information?
+- When you are ready, go ahead and move the Shingles vaccine card to the right to the place where it makes the most sense to you.
     
 <em>(If participant makes their choice without sharing their thought process):
 
@@ -181,8 +181,8 @@ Have you gotten or plan to get the shingles vaccine? Would you expect it to be p
 ### Task 6 Scenario
 
 For the last task, imagine you are considering a visit to Central America, and aren't sure if there are any vaccines or immunizations you need before going:
-Can you talk me through which group on the right you would expect to find travel-related vaccine information?
-- When you are ready, go ahead and move the Travel-Related Vaccines card to the right to the place where you expect to find more information.
+Can you talk me through which group on the right you would search in to find travel-related vaccine information?
+- When you are ready, go ahead and move the Travel-Related Vaccines card to the space on the right where you expect to find more information.
     
 <em>(If participant makes their choice without sharing their thought process):</em>
 
