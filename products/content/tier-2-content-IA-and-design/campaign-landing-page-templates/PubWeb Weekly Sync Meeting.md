@@ -26,6 +26,17 @@
 
 </details>
 
+## Friday, January, 8, 2021
+ 
+### Campaign landing page MVP 1.0
+
+- Review Sprint Plan (Burndown and Velocity)
+- Feedback and Updates based on content add (John/Randi)
+- CMS Blockers / Impediments 
+- Analytics / Governance Discussion - Impact on build.
+- Collaboration Cycle Review - Next Steps 
+
+
 ## Friday, December, 18, 2020
  
 ### Campaign landing page MVP
