@@ -130,9 +130,9 @@ Have you received the Tdap (tetanus, diphtheria, and pertussis) vaccine or immun
 
 ### Task 3 Scenario
 
-Great! I have one more task with the tetanus vaccine or immunization. Imagine that it has been a few years since your last Tdap booster. You have had a minor injury and think you might need a Tetanus booster.
-Which group on the right would you search in for Tdap booster information? Talk me through your thought process. 
-- When you are ready, go ahead and move the Tdap shot card to the place on the right where it makes the most sense to you.
+Great! I have one more task with the tetanus vaccine or immunization. Imagine that it has been a few years since your last Tetanus booster. You have had a minor injury and think you might need a Tetanus booster.
+Which group on the right would you search in for Tetanus booster information? Talk me through your thought process. 
+- When you are ready, go ahead and move the Tetanus-for-injury shot card to the place on the right where it makes the most sense to you.
     
 <em>(If participant makes their choice without sharing their thought process):
 
