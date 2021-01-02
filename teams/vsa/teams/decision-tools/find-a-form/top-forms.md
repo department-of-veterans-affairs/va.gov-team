@@ -1,6 +1,6 @@
 ## Top VA Forms (based on search queries)
 
-| VA Form | 2020 Search Rank | Description | Detail Page | Online Tool |
+| Form | '20 Search Rank | Description | Detail Page | Online Tool |
 |:--|:--:|--|--|--|
 | 22-1995 | #1 | Statement in Support of Claim  | Yes | No |
 | 21-4138 | #2 | Request for Change of Program or Place of Training  | Yes | Yes |
