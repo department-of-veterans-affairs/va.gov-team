@@ -1,6 +1,6 @@
 ## Top VA Forms (based on search queries)
 
-| Form | '20 Search Rank | Type | Description | Detail Page | Related Forms | Online Tool |
+| Form | '20 Search Rank | Benefit Type | Description | Detail Page | Related Forms | Online Tool |
 |:--|:--:|--|--|:--:|:--:|:--:|
 | 22-1995 | #1 | Education | Statement in Support of Claim  | X |  | X |
 | 21-4138 | #2 | Education |Request for Change of Program or Place of Training  | X |  |   |
