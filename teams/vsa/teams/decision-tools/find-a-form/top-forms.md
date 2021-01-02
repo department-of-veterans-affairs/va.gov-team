@@ -2,8 +2,8 @@
 
 | Form | '20 Search Rank | Description | Detail Page | Related Forms | Online Tool |
 |:--|:--:|--|:--:|:--:|:--:|
-| 22-1995 | #1 | Statement in Support of Claim  | X |  |  |
-| 21-4138 | #2 | Request for Change of Program or Place of Training  | X | X |   |
+| 22-1995 | #1 | Statement in Support of Claim  | X |  | X |
+| 21-4138 | #2 | Request for Change of Program or Place of Training  | X |  |   |
 | 21-526ez| #3 | Application for Disability Compensation and Related Compensation Benefits  | X | X |  |
 | 10-10ez | #4 | Instructions and Enrollment Application for Health Benefits | X | X |  |
 | 22-1990 | #5 | Application for VA Education Benefits  | X | X |  |
