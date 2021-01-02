@@ -12,3 +12,5 @@
 | 22-5490 | #8 | Dependents' Application for VA Education Benefits | X | X |  |
 | 21-0845 | #9 | Authorization to Disclose Personal Information to a Third Party | X |  |  |
 | 21-2680 |#10 | Examination for Housebound Status or Permanent Need  | X |  |  |
+| 10-10ezr|#11 | Statement in Support of Claim  | X |  |  |
+| 22-1990e|#12 | Application for Family Member to Use Transferred Benefits | X |  | X |
