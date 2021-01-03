@@ -28,7 +28,7 @@
 | 21-8940  |#24 | Employment  |Veteran's Application for Increased Compensation Based on Unemployability  | X |  |  |
 | 21-0781  |#25 | Disability, Health |Statement in Support of Claim for Service Connection for PTSD| X | X | X |
 | 21-2680  |#26 | Disability, Family, Pension |Examination for Housebound Status or Permanent Need for Regular Aid and Attendance| X | X |  |
-| sf-15    |#27 | Federal Employment  | Used by Federal agencies and OPM to adjudicate an individual's claims for Veterans' preference for fed employment | N/A |  |   |
-| sf-180   |#28 | All  | Request Military Service Records| N/A | X |  |
-| 1095     |#29 |  |Veteran's Application for Increased Compensation Based on Unemployability  | X |  |  |
-| 10-7959c |#30 |  |Statement in Support of Claim for Service Connection for PTSD| X | X | X |
+| sf-15    |#27 | N/A | Used by Federal agencies and OPM to adjudicate an individual's claims for Veterans' preference for fed employment | N/A |  |   |
+| sf-180   |#28 | N/A    | Request Military Service Records| N/A |  |  |
+| 1095     |#29 | N/A    |1095-B is an IRS tax form| N/A |  |  |
+| 10-7959c |#30 | Health |CHAMPVA—Other Health Insurance (OHI) Certification| X | X |  |
