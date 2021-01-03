@@ -20,7 +20,7 @@
 | 21-674   |#16 | Education  |Request for Approval of School Attendance  | X |  |  |
 | 21-22    |#17 | All        |Appointment of Veterans Service Organization as Claimant's Representative | X | X |  |
 | 21p-530  |#18 | Burials    |Application for Burial Benefits  | X | X | X |
-| 21-0966  |#19 | Disability, Pension |Intent to File a Claim for Compensation and/or Pension, or Survivors Pension and/or DIC | X |  |  |
-| 21p-0969 |#20 |  |Application for DIC, Survivors Pension, and/or Accrued Benefits | X | X |  |
+| 21-0966  |#19 | Disability, Pension, etc. |Intent to File a Claim for Compensation and/or Pension, or Survivors Pension and/or DIC | X |  |  |
+| 21p-0969 |#20 | Disability, Pension, etc. |Income and Asset Statement in Support of Claim for Pension or Parents' Dependency and Indemnity Compensation (DIC)| X | X |  |
 
 
