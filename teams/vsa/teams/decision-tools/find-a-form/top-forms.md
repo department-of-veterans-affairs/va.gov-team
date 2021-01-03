@@ -22,5 +22,9 @@
 | 21p-530  |#18 | Burials    |Application for Burial Benefits  | X | X | X |
 | 21-0966  |#19 | Disability, Pension, etc. |Intent to File a Claim for Compensation and/or Pension, or Survivors Pension and/or DIC | X |  |  |
 | 21p-0969 |#20 | Disability, Pension, etc. |Income and Asset Statement in Support of Claim for Pension or Parents' Dependency and Indemnity Compensation (DIC)| X | X |  |
-
+| 21-686c  |#21 | Disability |Application Request to Add and/or Remove Dependents| X | X |  |
+| 20-0996  |#22 | Education  |Request for Approval of School Attendance  | X |  |  |
+| 21-4142  |#23 | All        |Appointment of Veterans Service Organization as Claimant's Representative | X | X |  |
+| 10-5345  |#24 | Burials    |Application for Burial Benefits  | X | X | X |
+| 21-8940  |#25 | Burials    |Application for Burial Benefits  | X | X | X |
 
