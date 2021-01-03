@@ -29,6 +29,11 @@
 | 21-0781  |#25 | Disability, Health |Statement in Support of Claim for Service Connection for PTSD| X | X | X |
 | 21-2680  |#26 | Disability, Family, Pension |Examination for Housebound Status or Permanent Need for Regular Aid and Attendance| X | X |  |
 | sf-15    |#27 | N/A | Used by Federal agencies and OPM to adjudicate an individual's claims for Veterans' preference for fed employment | N/A |  |   |
-| sf-180   |#28 | N/A    | Request Military Service Records| N/A |  |  |
+| sf-180   |#28 | N/A    |Request Military Service Records| N/A |  |  |
+| 1095     |#29 | N/A    |1095-B is an IRS tax form| N/A |  |  |
+| 10-7959c |#30 | Health |CHAMPVA—Other Health Insurance (OHI) Certification| X | X |  |
+| 10-5345a |#26 | Health |Individuals' Request for a Copy of Their Own Health Information| X |  |  |
+| 21p-527ez|#27 | Pension|Application for Veterans Pension | N/A | X |  X |
+| 10182    |#28 | Appeal |Decision Review Request: Board Appeal (Notice of Disagreement)| X |  | Q2 2021 |
 | 1095     |#29 | N/A    |1095-B is an IRS tax form| N/A |  |  |
 | 10-7959c |#30 | Health |CHAMPVA—Other Health Insurance (OHI) Certification| X | X |  |
