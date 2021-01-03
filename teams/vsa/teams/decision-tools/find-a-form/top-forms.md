@@ -14,3 +14,5 @@
 | 21-2680 |#10 | Disability |Examination for Housebound Status or Permanent Need  | X |  |  |
 | 10-10ezr|#11 | Health |Statement in Support of Claim  | X |  |  |
 | 22-1990e|#12 | Education |Application for Family Member to Use Transferred Benefits | X |  | X |
+| 22-5495 |#13 | Education |Dependents’ Request for Change of Program or Place of Training  | X |  | X |
+| 21-4142 |#14 | Disability, Health |Authorization to Disclose Information to VA | X |  |  |
