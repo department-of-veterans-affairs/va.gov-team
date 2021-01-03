@@ -17,10 +17,10 @@
 | 22-5495  |#13 | Education |Dependents’ Request for Change of Program or Place of Training  | X |  | X |
 | 21-4142  |#14 | Disability, Health |Authorization to Disclose Information to VA | X |  |  |
 | 21p-534ez|#15 | Disability |Application for DIC, Survivors Pension, and/or Accrued Benefits | X | X |  |
-| 21-674   |#16 | Health |Statement in Support of Claim  | X |  |  |
-| 21-22    |#17 | Education |Application for Family Member to Use Transferred Benefits | X |  | X |
-| 21p-530  |#18 | Education |Dependents’ Request for Change of Program or Place of Training  | X |  | X |
-| 21-0966  |#19 | Disability, Health |Authorization to Disclose Information to VA | X |  |  |
-| 21p-0969 |#20 | Disability |Application for DIC, Survivors Pension, and/or Accrued Benefits | X | X |  |
+| 21-674   |#16 | Education  |Request for Approval of School Attendance  | X |  |  |
+| 21-22    |#17 | All  |Appointment of Veterans Service Organization as Claimant's Representative | X | X |  |
+| 21p-530  |#18 |  |Dependents’ Request for Change of Program or Place of Training  | X |  | X |
+| 21-0966  |#19 |  |Authorization to Disclose Information to VA | X |  |  |
+| 21p-0969 |#20 |  |Application for DIC, Survivors Pension, and/or Accrued Benefits | X | X |  |
 
 
