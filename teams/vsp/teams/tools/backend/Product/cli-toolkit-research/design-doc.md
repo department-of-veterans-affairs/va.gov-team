@@ -3,7 +3,8 @@
 > This document is in draft status and subject to change or removal.
 
 - **Author(s):** Keifer Furzland
-- **Last Updated:** June 25, 2020
+- **Last Updated:** January 4, 2020
+- **Last Updated By:** Lindsey Hattamer
 - **Status:** **Draft** | In Review | Approved
 - **Approvers:** Philip Becker \[ ], Michael Fleet \[ \], Alex Pappas \[ \],
 
