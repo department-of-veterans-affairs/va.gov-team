@@ -41,6 +41,7 @@ We conducted 10 remote moderated usability tests via Zoom using the Perigean con
   - Bachelor's degree: 1
   - Master's degree: 4
   - Unknown: 2
+- Participants with PTSD and TBI: 4
 
 ## Key findings
 1. Veterans welcomed and even expected email and text notifications for health questionnaires.
@@ -75,6 +76,7 @@ Veterans are interested in receiving multiple notifications.
 - Eight out of ten participants mentioned that they would like to receive an initial and reminder notifications.
 - The most suggested time period for sending the initial and reminder notifications were:
   - Seven days in advance of the appointment, then again one day in advance.
+- Side note: They are particularly interested in a reminder if they didn’t complete the questionnaire.
   
 Additional findings: Emails
 - Some participants suggested adding or emphasizing appointment information, such as date and time.
@@ -134,6 +136,7 @@ Miscellaneous findings
 - Two participants requested a link to the Profile section to update any demographic information as they were filling out this form. 
   - Participants requested to link to Profile and not editing demographics within the form. This matches are findings from our last test.
 - 70% of participants understood the difference between the buttons (Answer Questions versus Continue Questions) on the Questionnaire list (To do tab).
+  - However, most of the 70% had to be explicitly asked about the buttons before they determined the difference.
   - Even the other 30% knew that they had to click on either button to finish the questionnaires.
 - Two older participants commented that our examples of life events were for younger people and that they would like to see examples that apply to them (retirement or caregiving).
 - Menopausal participant brought up pre-visit questions about pregnancy, etc (actually made to take pregnancy tests). Never asked about menopausal concerns/symptoms.
@@ -142,21 +145,27 @@ Miscellaneous findings
 ## Actionable Recommendations: Changes to MVP scope
 Changes that can be completed by the product team
 - Send out notifications seven days in advance of an appointment, then again a day prior.
-- Re-evaluate reminder text with questionnaire only information.
+- Re-evaluate text message wording, so more attention is brought to the link.
 - Evaluate displaying more appointment information in the questionnaire workflow. 
-- Explore solutions for displaying not submitted, but canceled appointment questionnaires.
-- Explore sorting and filtering on the Questionnaire list (Completed tab).
+- Further explore displaying statuses on the questionnaire list, including
+  - not submitted, but canceled appointments,
+  - no shows
+  - in-progress versus new
+  - any other statuses (engineering will look into statuses more)
+
 
 ## Actionable Recommendations: Additions to future roadmap
 Additions that can be explored by the product team
 - Watch the conversion rates on text messages versus emails. Re-evaluate incorporating questionnaires link in appointment reminder text depending upon analytics.
-- Depending upon email conversion rates, explore a PII questionnaire email, similar to the texting solution already used by VeText.
+- Depending upon email conversion rates, explore a PII questionnaire email, similar to the texting solution already used by VeText. 
+- Re-evaluate reminder text that is sent a day prior to the appointment with questionnaire only information.
+- Explore sorting and filtering on the Questionnaire list (Completed tab).
 
 Additions to explore by working with other VA.gov product teams
 - Work with VAOS and the authenticated experience teams to add questionnaire information within their products.
 
 Additions to explore by working with platform (possible holistic changes)
-- Explore elegant solutions for jumping from questionnaires to the profile section to update demographic information or add editing demographic information in the questionnaire.
+- Explore how demographic information is displayed and updated across all forms. Is it always editable? Is it only editable within the profile section?
 
 ## Resources
 
