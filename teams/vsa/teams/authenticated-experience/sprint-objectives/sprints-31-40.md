@@ -521,25 +521,6 @@ BE READY FOR QA
 
 - QA fixes, if applicable
 
------
-
-**PM**
-
-- Finish contact center updates
-- [Contact center review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#contact-center-review)
-- [Staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
-  - Prep
-  - Hold meeting
-
-**Design**
-
-- Accessibility tests for staging review
-- UAT planning
-
-**FE**
-
-- Accessibility tests for staging review
-
 ### VA Profile notification preferences
 
 **Design**
