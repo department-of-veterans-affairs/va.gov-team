@@ -84,16 +84,16 @@ I can apply for CH36 benefits quickly and without mailing in a form or visiting 
   - Wizard-specific
     - % of people who land on wizard and start the application (Acquisition)  
     - % of skips in the wizard
-    - # of referrals to another form
+    - number of referrals to another form
   - % of people who abandon form (Abandonment Rate) (Activitation)
     - where is the abandonment?  
   - % of people who complete the form  
-  - # of people who complete the form  
+  - number of people who complete the form  
 - Customer satisfaction  
   - form has an increasing score value (Medallia?) 
 - Product Health 
-  - # successful submissions
-  - # failed submissisons
+  - number of successful submissions
+  - number of failed submissisons
 
 ##### Baseline KPIs
 tbd
