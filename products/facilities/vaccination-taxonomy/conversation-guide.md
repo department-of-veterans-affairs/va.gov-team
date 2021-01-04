@@ -47,7 +47,7 @@ Now I'll give you a quick overview of today's session.
 - Have you visited a VA Facility for healthcare in the past year?
     - If yes, can you tell me about that?
     
-- Have you had any vaccines in the last 10 years? Do you recall which ones you had?
+- Have you had any vaccines in the last 10 years? Why or why not?
 
 
 ## Health Services Page - 5 minutes
