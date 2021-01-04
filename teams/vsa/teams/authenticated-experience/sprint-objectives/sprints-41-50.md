@@ -32,17 +32,20 @@
 
 **PM**
 
-- [Privacy and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review)
-- Hold go/no-go for UAT
+- Finish contact center updates
+- [Contact center review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#contact-center-review)
+- [Staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
+  - Prep
+  - Hold meeting
 
 **Design**
 
-- UAT recruiting
-- UAT
+- Accessibility tests for staging review
+- UAT planning
 
 **FE**
 
-- Fixes from UAT
+- Accessibility tests for staging review
 
 ## Sprint 42 (2/24 - 3/9)
 
@@ -60,6 +63,24 @@
 
 **PM**
 
+- [Privacy and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review)
+- Hold go/no-go for UAT
+
+**Design**
+
+- UAT recruiting
+- UAT
+
+**FE**
+
+- Fixes from UAT
+
+## Sprint 43 (3/10 - 3/23)
+
+### Direct deposit for edu
+
+**PM**
+
 - Hold go/no-go
 - Launch to 10%
 - Keep eBenefits updated on launch
@@ -68,7 +89,7 @@
 
 - Fixes from UAT, if needed
 
-## Sprint 43 (3/10 - 3/23)
+## Sprint 44 (3/24 - 4/6)
 
 ### Direct deposit for edu
 
@@ -78,16 +99,13 @@
 - Launch to 50%
 - Keep eBenefits updated on launch
 
-## Sprint 44 (3/24 - 4/6)
-
-### Direct deposit for edu
+## Sprint 45 (4/7 - 4/20)
 
 **PM**
 
 - Launch to 100%
 - Confirm date of retirement of feature on eBenefits
 
-## Sprint 45 (4/7 - 4/20)
 ## Sprint 46 (4/21 - 5/4)
 ## Sprint 47 (5/5 - 5/18)
 ## Sprint 48 (5/19 - 6/1)
