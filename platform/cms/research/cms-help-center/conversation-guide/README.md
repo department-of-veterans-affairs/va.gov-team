@@ -36,7 +36,7 @@ _(About 3 minutes)_
 
 ## Main activities
 
-Now, I have a few activities that I'd like you to do in the demo environment. I ask you to let me know when you think you finished the activity.
+Now, I have a few activities that I'd like you to do in the demo environment. I ask you to let me know when you think you finished the activity. While you are navigating and using the system, we ask that you please think aloud and vocalize your thoughts and decisions. The more you say about what you are thinking and wondering, the more we’ll learn.
 
 #### Activity 1: Submit a request for support
 
