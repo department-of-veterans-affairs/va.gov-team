@@ -67,30 +67,25 @@ These are mostly ideas until the first research spike is complete.
 
 #### Prototype Plan
 
-- Use [`oclif`](https://oclif.io/docs) to rapidly generate CLI framework
+- Use [`tty toolkit`](https://github.com/piotrmurach/tty) to rapidly generate CLI framework
 - One pattern would be to to map the CLI commands to the command pattern in code architecture
-- Prototyping first 'thin layer' proving out the tooling:
-  - `vsp doctor:socks`                   # manage VA SOCKS state/connection - wraps `devops/utils/va.sh`
-  - `vsp services:status`                # see backend service status, planned outages, etc. by hitting the `vets-api` endpoint
-  - `vsp products:site --build-version`  # show the `build.txt` info
+- Prototyping first 'thin layer' MVP proving out the tooling:
+  - `vtk module add <name>`              # Bootstrap a new module in vets-api which wraps the vets-api module generator
 
 After the spike we'll have a prototype usable in further user testing.
 
 ### Code Location
 
-- We could either host the `vsp-toolkit` as the core/main library and host git submodules for plugins
-- Plugins *should* contain any dependencies, and this may "inspire rewrites" - which would add tech debt to squeeze a
-- - We could reference dependencies and explicit check for them at runtime/command runtime/vsp doctor, like "does
-    `$VSP_DEVOPS_REPO` exist? good, use` $VSP_DEVOPS_REPO_PATH/scripts/script.sh` or is `va.sh` in `$PATH`, then redirect VSP
-    utils `$CMD` to `va.sh $_`
+- We are hosting the respository (here)[https://github.com/department-of-veterans-affairs/vtk]
+- Currently waiting a content review to change the repository from private to public. Email was sent to ossoft@va.gov on 1/4/2021
 
 ### Testing Plan
 
-- `oclif` generates tests but we should ensure we're writing unit & integration tests across platforms
+- 
 
 ### Logging
 
-- N/a
+- Change Log
 
 ### Debugging
 
@@ -140,4 +135,5 @@ _Features you'd like to (or will need to) add but aren't required for the curren
 
 Date | Revisions Made | Author
 -----|----------------|--------
-June 25, 2020 | Added initial draft of design document. | Keifer Furzland
+June 25, 2020   | Added initial draft of design document. | Keifer Furzland
+January 4, 2021 | Updated draft of design document.       | Lindsey Hattamer
