@@ -72,6 +72,7 @@ These are mostly ideas until the first research spike is complete.
 - One pattern would be to to map the CLI commands to the command pattern in code architecture
 - Prototyping first 'thin layer' MVP proving out the tooling:
   - `vtk module add <name>` # Bootstrap a new module in vets-api which wraps the vets-api module generator
+- (Background information on the existing vets-api module generator)[https://vfs.atlassian.net/wiki/spaces/VI/pages/807174195/New+Module+Generator]
 
 After the spike we'll have a prototype usable in further user testing.
 
