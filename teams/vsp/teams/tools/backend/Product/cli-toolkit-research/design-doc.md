@@ -68,10 +68,11 @@ These are mostly ideas until the first research spike is complete.
 
 #### Prototype Plan
 - [Mural Board](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1604947756984/d77c41459435b8336a7b7b01b7d5a4ee015f022f) draft ideas for toolkit features 
-- Use [`tty toolkit`](https://github.com/piotrmurach/tty) to bootstrap CLI framework
+- Use [`tty toolkit`](https://github.com/piotrmurach/tty) to [bootstrap](https://github.com/piotrmurach/tty#2-bootstrapping) the CLI framework
 - One pattern would be to to map the CLI commands to the command pattern in code architecture
 - Prototyping first 'thin layer' MVP proving out the tooling:
   - `vtk module add <name>` # Bootstrap a new module in vets-api which wraps the vets-api module generator
+	  - This adds a "module" command and an "add" subcommand following the recommendations for working with the teletype executable in the [tty documentation](https://github.com/piotrmurach/tty#28-working-with-subcommands)
 - (Background information on the existing vets-api module generator)[https://vfs.atlassian.net/wiki/spaces/VI/pages/807174195/New+Module+Generator]
 
 After the spike we'll have a prototype usable in further user testing.
