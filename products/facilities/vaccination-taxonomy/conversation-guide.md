@@ -44,12 +44,10 @@ Now I'll give you a quick overview of today's session.
 
 - Can you tell me a little about your service history?
 
-- Have you visited the VA for healthcare in the past year?
+- Have you visited a VA Facility for healthcare in the past year?
     - If yes, can you tell me about that?
     
-Great! Now I would like to ask you a few questions related to our study.
-
-- Have you had any vaccines in the last 10 years?
+- Have you had any vaccines in the last 10 years? Do you recall which ones you had?
 
 
 ## Health Services Page - 5 minutes
@@ -96,7 +94,7 @@ I will send it to you via the chat function within Zoom. It’s also usually wit
 For the first task, I’d like you to imagine that you are planning to get your annual Flu shot, and would like to read information on Flu shots provided by VA.gov:
 
 Can you talk me through which group on the right where you would search to find Flu shot information?
-- When you are ready, go ahead and move the Flu shot card to the place on the right where you would look to find more information.
+- When you are ready, go ahead and move the Flu vaccine card to the place on the right where you would look to find more information.
     
 <em>(If participant makes their choice without sharing their thought process):
 
