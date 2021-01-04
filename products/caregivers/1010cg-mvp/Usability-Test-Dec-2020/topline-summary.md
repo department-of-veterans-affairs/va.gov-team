@@ -51,7 +51,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 - The addition of the Primary Family Caregiver question may cause confusion
 
-  - True 
+  - True (Further analysis is needed) 
  
 - Knowing if a Veteran or caregiver should “add” a Primary Family Caregiver vs Secondary Family Caregiver
 
