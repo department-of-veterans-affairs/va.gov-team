@@ -1,4 +1,4 @@
-# How to use Pact for contract testing (in progress)
+# How to use Pact for contract testing
 
 #### Table of contents
 
@@ -64,7 +64,7 @@ Pact enables VFS teams to test integration points with vets-api. This gives VFS 
 - **broker**: The central location where pacts are hosted. The [Pact broker](https://dev.va.gov/_vfs/pact-broker) is hosted internally. You can view the interactions per endpoint and the verification matrix from the broker index.
 
 
-### Requirements (draft)
+### Requirements (effective date TBD)
 
 VFS teams are required to use Pact for contract testing in the following scenarios:
 
