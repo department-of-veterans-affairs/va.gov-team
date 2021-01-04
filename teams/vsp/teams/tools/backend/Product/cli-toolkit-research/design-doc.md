@@ -81,11 +81,12 @@ After the spike we'll have a prototype usable in further user testing.
 
 ### Testing Plan
 
-- 
+- Todo: Rspec, Rubocop 
+- Github Actions runs an automated build job (rake, rubocop) for building, testing and code review purposes. 
 
 ### Logging
 
-- Change Log
+- We've implemented a (CHANGELOG)[https://github.com/department-of-veterans-affairs/vtk/blob/master/CHANGELOG.md] to track changes
 
 ### Debugging
 
@@ -124,6 +125,7 @@ After the spike we'll have a prototype usable in further user testing.
 - July- Aug: Dogfood and build out uses for internal, existing tools (doctor, utils, metadata, logs, aws connections,
     etc). (Wrap existing scripts, update where necesessary)
 - August : Have 3-5 useful tools prototyped and ready for a design sprint w/ VFS & VSP engineers
+- December-January : Create an MVP of the module generator 
 
 ### Alternatives - WIP
 _This section contains alternative solutions to the stated objective, as well as explanations for why they weren't used. In the planning stage, this section is useful for understanding the value added by the proposed solution and why particular solutions were discarded. Once the system has been implemented, this section will inform readers of alternative solutions so they can find the best system to address their needs._
