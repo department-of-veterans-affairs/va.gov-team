@@ -135,6 +135,9 @@ Miscellaneous findings
   - Participants requested to link to Profile and not editing demographics within the form. This matches are findings from our last test.
 - 70% of participants understood the difference between the buttons (Answer Questions versus Continue Questions) on the Questionnaire list (To do tab).
   - Even the other 30% knew that they had to click on either button to finish the questionnaires.
+- Two older participants commented that our examples of life events were for younger people and that they would like to see examples that apply to them (retirement or caregiving).
+- Menopausal participant brought up pre-visit questions about pregnancy, etc (actually made to take pregnancy tests). Never asked about menopausal concerns/symptoms.
+
 
 ## Actionable Recommendations: Changes to MVP scope
 Changes that can be completed by the product team
