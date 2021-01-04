@@ -399,6 +399,8 @@ On hold this sprint
 
 ## Sprint 38 (12/30 – 1/12)
 
+Any tickets from last sprint (some are already noted), with the exception of the MVI error messaging work, plus:
+
 ### Profile
 
 BE
@@ -407,29 +409,24 @@ BE
 
 ### My VA redesign
 
-**PM**
-
-- Make a list of staging test cases based on wireframes
-
 **Design**
 
-- Finalize desktop and mobile wireframe
-  - Should we add links to profile, download letters, and a couple of other popular links?
+- Finalize desktop and mobile wireframe #17307
 - LOA1 design
 - Mock up first-time user experience
-- [Design] Submit MyVA wireframes for copy review #17530
+- [Design] Submit MyVA wireframes for copy review #17530 (stretch goal)
 
 ### Direct deposit for edu
 
-**Main objective: Review the build and prep for QA**
+**Main objective: Finish backend work, review the build, and be ready for QA**
 
 **PM** 
 
 - Request QA for following sprint. To make sure we are ready, this requires:
-  - Making sure the feature is done
+  - Making sure the feature is done (backend work is done; frontend work is properly connected to backend)
   - Reviewing the feature
   - Making sure Jim Adams has reviewed the feature
-  - Talking with Erik to make sure we are 100% going to be ready for QA
+  - Talking with Erik and Lihan to make sure we are 100% going to be ready for QA
   
 **Design**
 
@@ -457,6 +454,8 @@ BE
 ### My VA redesign
 
 **PM**
+
+- Make a list of staging test cases based on wireframes
 
 **Design**
 
