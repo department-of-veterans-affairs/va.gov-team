@@ -48,7 +48,7 @@ You're editing content on the COVID-19 vaccines at VA page and you notice the th
 
 _Share link:_ https://pr3850-geb9i1vxs7ugc9kzpbajhiyfirxs1npl.ci.cms.va.gov/health-care/covid-19-vaccine
 
-You're previewing content on the COVID-19 vaccines at VA and realized that it would be beneficial for editors to be able to add comments to specific parts of the text.
+You're proofing content on the COVID-19 vaccines at VA node and realized that it would be beneficial for editors to be able to add comments to specific parts of the text.
 
 * __Task 1.2:__ Using the resources available in the CMS, reach out to the CMS team to suggest this improvement.
 
