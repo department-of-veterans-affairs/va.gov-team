@@ -16,7 +16,11 @@ You'll be interacting with a demo environment this session. This means that you 
 
 If for any reason and at any time you want to stop the session, please let me know. You will not be penalized in any way if we need to stop.
 
-We are not recording the session today.
+* Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately.
+
+_Start recording_
+
+I want to verify that you are okay with me recording screen and audio today.
 
 
 ## Warm-up Questions
