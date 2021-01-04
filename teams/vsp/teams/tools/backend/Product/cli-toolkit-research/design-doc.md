@@ -71,7 +71,7 @@ These are mostly ideas until the first research spike is complete.
 - Use [`tty toolkit`](https://github.com/piotrmurach/tty) to rapidly generate CLI framework
 - One pattern would be to to map the CLI commands to the command pattern in code architecture
 - Prototyping first 'thin layer' MVP proving out the tooling:
-  - `vtk module add <name>`              # Bootstrap a new module in vets-api which wraps the vets-api module generator
+  - `vtk module add <name>` # Bootstrap a new module in vets-api which wraps the vets-api module generator
 
 After the spike we'll have a prototype usable in further user testing.
 
