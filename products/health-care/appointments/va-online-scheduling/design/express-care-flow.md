@@ -35,3 +35,7 @@ Submit error page (happens when the server returns an error for our request):
 Confirmation page:
 
 ![confirmation-page](express-care-flow/confirmation_page.png)
+
+Email sent out when request is resolved:
+
+![express-care-resolved](express-care-flow/express_care_resolved.png)
