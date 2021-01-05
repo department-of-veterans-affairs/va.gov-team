@@ -90,7 +90,7 @@ Participants scrolled past the name of the facility and intro paragraph to compl
 
 Participants carried the mental model of a VA hospital campus when describing additional information they expected to see within the service accordions, such as a number to call or if a referral would be necessary.
 
-By the end of the session, many participants (those that did not never read the intro paragraph) still believed that they could go to this facility for primary care.
+By the end of the session, many participants (those that never read the intro paragraph) still believed that they could go to this facility for primary care.
 
 > “I would probably put it up at the top in that first little paragraph we do not offer any type of medical services.  I would definitely word it in a way that doesn't come off as being mean or threatening but just matter-of-factly so that the Veteran doesn't show up there,  thinking he's going to get his knee looked at. That's not what we do. But I think that'd be VERY frustrating for a veteran trying to go to these places. I would definitely put it at the top.  Mental health but not physical.”
 
