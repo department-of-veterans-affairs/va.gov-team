@@ -211,7 +211,7 @@ Many participants shared how their specific mental state can impact their abilit
 - wading through a webpage page to find phone numbers
 - ignoring a COVID alert
 
-Participants called out the yellow banner containing the Vet Center hotline that they could call durring off hours as a good thing but also suggested moving it to the top so that they'd see that first if they were in a bad state.
+Participants called out the yellow banner containing the Vet Center hotline that they could call during off hours as a good thing but also suggested moving it to the top or making it more prominent so that they'd see that first if they were in a bad state.
 
  > “Most people looking for help are just looking for simple. They aren’t looking for long, drawn out. If there gets to be too much information or too many big words that go on and on it’ll lose people, or they’ll just skip over it. When I was looking for help half the stuff I’d skip over it,  I’d be having anxiety headaches, really get confused and don’t want to be bothered by it. Simpler would be a lot more help.”
  
