@@ -128,6 +128,8 @@ Participants expected to see:
 
 > “Yeah, and I don't know if its because its a prototype but you wouldn't be able to click on it. Say if I wanted to look into Family Counseling, if I were able to hit ‘Family counseling’, but it doesn't tell you what to do next. Yes, we offer it but it doesn't tell me what to do next.”
 
+> "What type of group therapy do they have or a name and number to call if you're interested. Like the [city name] VA here, they have a group mindfulness therapy that met every Monday and they listed on the [city name] VA website and who was the person running it. How to get into it, who to call... but they have so many things. Having a name and number of who to call."
+
 #### 4. COVID alert created usability issues for most participants.
 
 5 of 6 participants were exposed to the alert (removed after #6). 
