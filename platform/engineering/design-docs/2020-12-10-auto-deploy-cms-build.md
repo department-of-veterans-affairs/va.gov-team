@@ -15,24 +15,30 @@
 
 ### Objective
 
-The objective of this design document is to define an approach on how the CMS export build will be auto-deployed as full build
-and as a partial build frequenly enough without affecting the platform.
+Define an approach to how the CMS export build is auto-deployed as and partial build frequently enough without affecting the platform.
 
 The intended audience is front end and DevOps engineers on the Veteran-facing Services Platform (VSP) and the CMS teams.
 
 ### Background
 
-VA.gov is currently built using the `vets-website` repo. This repo is composed by the static content, applications and styling.
+VA.gov is currently built using the `vets-website` repo. This repo is composed of static content, applications and styling.
 
 The static content is being pulled from the Drupal CMS and the [`vagov-content` repo](https://github.com/department-of-veterans-affairs/vagov-content/)
 
-The Drupal content is added to the build using the `--pull-drupal` flag which pulls the latest content from Drupal using GraphQL. However, the GraphQL has limitation, therefore, a new implementation of the [CMS build using transformers](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/cms-integration) is getting developed.
+The Drupal content is added to the build using the `--pull-drupal` flag which pulls the latest content from Drupal using GraphQL. However, the GraphQL has limitation, therefore, a new implementation of the [CMS build using transformers](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/cms-integration) is developed.
 
-Eventually, the new CMS build will replace the current GraphQL build.
+The new CMS build will replace the current GraphQL build.
 
 #### Build script
 
-[Metalsmith](https://github.com/segmentio/metalsmith) is the helper that puts all the pieces together. The highlights of the script that is included in the content build can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/design-docs/2020-04-09-separate-content-build.md#build-script)
+To generate the HTML files from drupal nodes, we have a pipeline that at high level follows these steps:
+
+1. Fetch a tar file with all Drupal nodes.
+2. Untar the files to get the individual nodes.
+3. Use transformers to transform the data in the nodes to a format that is easy for the liquid templates to ingest.
+4. Convert the page nodes to HTML files using the [Liquid templating engine](https://github.com/leizongmin/tinyliquid#readme). 
+
+[Metalsmith](https://github.com/segmentio/metalsmith) is the application  that controls the pipeline. The highlights of the script that is included in the content build can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/design-docs/2020-04-09-separate-content-build.md#build-script)
 
 #### Drupal build script
 
@@ -60,7 +66,7 @@ There are two kinds of deployments:
 | Assets              | Uses the latest `vets-website` release and static asset                                                                                                                                                                                                                                                                                                                    | Creates a new release and deploys it                                                                                                                           |
 | Drupal content      | [Fetches](https://github.com/department-of-veterans-affairs/vets-website/blob/006185b7c40fe85a8b219ae99f3aefb3d8bf0e09/src/site/stages/build/plugins/configure-assets.js#L22-L23) the assets [from S3](https://github.com/department-of-veterans-affairs/vets-website/blob/006185b7c40fe85a8b219ae99f3aefb3d8bf0e09/src/site/stages/build/plugins/download-assets.js#L111) | Fetches the latest Drupal content                                                                                                                              |
 | Accessibility tests | N/A                                                                                                                                                                                                                                                                                                                                                                        | Runs tests                                                                                                                                                     |
-| Links checker       | N/A                                                                                                                                                                                                                                                                                                                                                                        | Runs checks                                                                                                                                                    |
+| Links checker       | Runs checks                                                                                                                                                                                                                                                                                                                                                                                                                                          | Runs checks                                                                                                                                                    |
 
 Both deployments will be essential to achieve the goal:
 
@@ -78,11 +84,8 @@ Both Jenkins files are called from [`common.groovy`](https://github.com/departme
 - CMS triggers content build manually
 - Content writers want to quickly draft, publish, and deploy content. However, `vets-website` is only deployed to production once per day. To allow content writers to move faster, there is a partial deploy, which only includes static page changes (vagov-content and Drupal).
 - No accessibility checking
-- No broken links checking
 
 ### High Level Design
-
-Once the CMS build finishes successfully and all the transformers work is complete, there will be a transition from the GraphQL build to the CMS build in Metalsmith.
 
 Metalsmith will pass the CMS flag so the CMS content build will be called.
 
@@ -108,11 +111,11 @@ Currently, the CMS team is doing this process manually. They have been deploying
 
 CMS team has recommended an auto-deploy with 5 mins intervals while they provide support.
 
-The idea here is to create a Jenkins/CircleCI job to run a cron job that will trigger a partial deploy, initially, every hour from 8am-8pm EST. Depending on the success rate of the build, the intervals time will be reduced.
+Create a Jenkins/CircleCI job to run a cron job that will trigger a partial deploy, initially, every hour from 8am-8pm EST. Depending on the success rate of the build, the intervals time will be reduced.
 
-#### A script to verify the CMS content
+#### Only run the script on content change
 
-Deploying the partial build every X minutes is not efficient, therefore, there needs to be a script that verifies that the CMS content is not the same.
+We compare the tar file to the previous tar file and only run the build when there are differences between the tar files. This ensures that we only run the build when there’s been a change to the content.
 
 #### When to deploy the content-only build
 
@@ -131,7 +134,7 @@ All the CMS export content (transformers) is located in `src/site/stages/build/p
 ### Testing Plan
 
 - There will be an automatic test for comparing build outputs in Jenkins
-  There might be a secondary or follow-up test if the automated test is inadequate for catching regressions
+- There might be a secondary or follow-up test if the automated test is inadequate for catching regressions
 
 ### Logging
 
