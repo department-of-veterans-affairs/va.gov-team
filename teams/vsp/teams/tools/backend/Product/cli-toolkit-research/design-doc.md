@@ -2,8 +2,9 @@
 
 > This document is in draft status and subject to change or removal.
 
-- **Author(s):** Keifer Furzland, Philip Becker
-- **Last Updated:** June 25, 2020
+- **Author(s):** Keifer Furzland, Philip Becker, Lindsey Hattamer
+- **Last Updated:** January 4, 2020
+- **Last Updated By:** Lindsey Hattamer
 - **Status:** **Draft** | In Review | Approved
 - **Approvers:** Michael Fleet \[ \], Alex Pappas \[ \],
 
@@ -38,19 +39,29 @@ For as much as we can, we should aim to build a single source of truth. This wil
 - Integrates w/ other tools across the VSP world
 - Provides a modular design (VFS teams can modify it)
 - Future-proof and scale-friendly - the shell isn't going away, React might, SOCKS config may change (instead of everyone updating `/etc/*` or equiv, they can run `vsp upgrade` and `vsp socks` and be done w/ it)
-#### Prototype Plan
 
-- Use [`TTY`](https://ttytoolkit.org/) to rapidly generate CLI framework
+#### Prototype Plan
+- [Mural Board](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1604947756984/d77c41459435b8336a7b7b01b7d5a4ee015f022f) draft ideas for toolkit features 
+- Use [`TTY`](https://ttytoolkit.org/) to [bootstrap](https://github.com/piotrmurach/tty#2-bootstrapping) the CLI framework
 - The first use will be to call new rails generators to help new teams start modularizing their work.
+    - This adds a "module" command and an "add" subcommand following the recommendations for working with the teletype executable in the [tty documentation](https://github.com/piotrmurach/tty#28-working-with-subcommands)
+    - (Background information on the existing vets-api module generator)[https://vfs.atlassian.net/wiki/spaces/VI/pages/807174195/New+Module+Generator]
 
 ### Code Location
 
 - We will host the `vsp-toolkit` as the core/main library and package it as a rubygem
+- We are hosting the respository (here)[https://github.com/department-of-veterans-affairs/vtk]
+- Currently waiting a content review to change the repository from private to public. Email was sent to ossoft@va.gov on 1/4/2021
 
 ### Testing Plan
 
 - `rspec` can be used to test `TTY`.  As the tool developes we'll get a better understanding of the testing needs.
 - commands will often be their own scripts, so they should be tested in their own development cycle
+- Github Actions runs an automated build job (rake, rubocop) for building, testing and code review purposes.
+
+### Logging
+
+- We've implemented a (CHANGELOG)[https://github.com/department-of-veterans-affairs/vtk/blob/master/CHANGELOG.md] to track changes
 
 ### Debugging
 
@@ -92,5 +103,6 @@ For as much as we can, we should aim to build a single source of truth. This wil
 
 Date | Revisions Made | Author
 -----|----------------|--------
-June 25, 2020 | Added initial draft of design document. | Keifer Furzland
-December 18, 2020 | Rewrote to align with new plans | Philip Becker
+June 25, 2020     | Added initial draft of design document. | Keifer Furzland
+December 18, 2020 | Rewrote to align with new plans         | Philip Becker
+January 4, 2021   | Updated draft of design document.       | Lindsey Hattamer
