@@ -91,6 +91,10 @@ By the end of the session, many participants (those that did not never read the 
 
 #### 2. Veterans who have been through counseling are comfortable with the term, "Mental health care".
 
+All participants in this study had engaged in individual and/or group counseling with the VA. 2 participants had also been clients of a Vet Center. These Veterans were comfortable with and used the term, "Mental health" and "Mental health care" and felt it was the logical place to look for individual and group counseling. It is unclear if Veterans who have not yet engaged in mental health treatment but would benefit from it would respond as favorably to this term. Most of the Veterans also used variations of the word "counseling" when discussing mental health. 
+
+"Psychology" was a first pick for 3 participants to complete tasks but two of these same participants were quick to add that they did not like the term and that "Mental health care" was a better category.  "PTSD treatment" was not the first accordion expanded to complete the task for participants but was later expanded by most of the participants due to their own interest and curiosity in the service. Participants also showed interest and found individual and group counseling within "Military sexual trauma treatment" and "Women Veteran care".   
+
 Where participants found individual counseling:
 
 - 3 - Psychology (two later changed their preference to Mental health care, disparaging ‘Psychology’)
@@ -102,7 +106,11 @@ Where participants found group counseling:
 
 - 6 - Mental health care
 - 1 - Military sexual trauma care
-- 1- Women Veteran care
+- 1 - Women Veteran care
+
+> "If you couldn't identify it specifically for yourself, I mean 'Mental health care' the 5th tab down.  I myself, I could go under Women's Veteran Care, PTSD treatment, psychology, minority, MST, Mental health, there's 5 categories I can identify with."
+
+> "I would look under either “psychology” or “PTSD treatment” …or “mental health care”– that makes more sense."
 
 > “Psychology kinda seems, kinda cold – Veterans, we're very picky about labels. So when you pick psychology, well I'm not freakin crazy, I just need to vent or whatever. ”
 
