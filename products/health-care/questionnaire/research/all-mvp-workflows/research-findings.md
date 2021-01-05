@@ -62,79 +62,92 @@ We conducted 10 remote moderated usability tests via Zoom using the Perigean con
 
 ## Research findings
 
-Veterans welcomed and even expected email and text notifications for health questionnaires.
+**Veterans welcomed and even expected email and text notifications for health questionnaires.**
 - “I like the whole idea of it.”
 - “It seems pretty straight forward.”
 - A few participants brought up the idea of notifications before they reviewed the prototype examples.
 - Side note: When shown the Drupal page introducing this feature, three participants said they would never want to see the Drupal page. They just want to come to questionnaires via notifications. The Drupal page didn’t really receive much feedback (good or bad). One mentioned that they liked the consistency across VA.gov. Most of the Veterans went “it is ok.” One participant did comment that it was good, “especially for new users.”
 
-Questionnaire links within text messages are more easily overlooked by participants who already receive appointment reminder text messages.
+**Questionnaire links within text messages are more easily overlooked by participants who already receive appointment reminder text messages.**
 - Three out of four participants shown the text message mentioned that they currently receive these text messages. 
   - Two out of the three participants stated they would just confirm or cancel. They didn’t review the rest of the text and had to be prompted to review the questionnaire link.
   
-Veterans are interested in receiving multiple notifications.
+**Veterans are interested in receiving multiple notifications.**
 - Eight out of ten participants mentioned that they would like to receive an initial and reminder notifications.
 - The most suggested time period for sending the initial and reminder notifications were:
   - Seven days in advance of the appointment, then again one day in advance.
 - Side note: They are particularly interested in a reminder if they didn’t complete the questionnaire.
   
-Additional findings: Emails
+**Additional findings: Emails**
 - Some participants suggested adding or emphasizing appointment information, such as date and time.
 - “Change the title of it, so it is less like a computer-generated survey, [such as] Dr. So-and-so would like to ask you a few questions before your next appointment.”
 
-Veterans expect to sign in to complete health questionnaires, in order to protect their health records.
+**Veterans expect to sign in to complete health questionnaires, in order to protect their health records.**
 - 100% of participants commented that signing in was a good thing for this feature due to security and privacy concerns.
 - “I think that it is a good things, since you are asking health questions. Now, it is associated with my account. It keeps anybody else from messing with it and getting the information.”
 
-The usability of the questionnaire was reconfirmed by Veterans with PTSD and TBI. 
+**The usability of the questionnaire was reconfirmed by Veterans with PTSD and TBI.**
 - All four PTSD and TBI participants easily understood the questionnaire and ranking their questions for their provider. 
   - Two participants liked the idea of ranking their questions for their provider.
 - Side note: Related to general usability of all workflows, there were no differences in understanding whether the participants started with the notification scenario or from the Drupal page.
 
-The value of the questionnaire was reconfirmed by Veterans. 
+**The value of the questionnaire was reconfirmed by Veterans.** 
 - “I think the question about what is going on in your life is a good one and not a lot of doctors ask that. Those things could be a factor in your condition or the problems going on.”
 - The value is dependent upon primary care providers reviewing the questionnaires and the questionnaires actually improving their appointment quality.
   - “If this looks like adding another step, because the nurse re-asks these questions, then I will never log on here again. You get that one chance.”
 
-Veterans want to view more appointment details when completing health questionnaires.
+**Veterans want to view more appointment details when completing health questionnaires.**
 - 60% of participants suggested displaying more appointment information throughout the questionnaire workflows, specifically on the list of all questionnaires and confirmation page.
   - The most common requests were:
     - Appointment time
     - Provider’s name
     - Clinic name, address with room number, and/or hours
 
-Veterans still plan to print their questionnaire to take with them to their appointment.
-- 60% of the participants mentioned that they would probably print out their questionnaire responses.
-- “I typically bring things with me, so this could be my reminder of the things I want to look at/talk about.”
+**Veterans still plan to print their questionnaire to take with them to their appointment.**
+- 60% of all participants mentioned that they would probably print out their questionnaire responses.
+- 50% of mobile participants are interested in printing.
+- 66% of desktop participants are interested in printing.
+- Participants ssaw printing as a way to remind themselves of what they wanted to discuss at the appointment.
+  - “I typically bring things with me, so this could be my reminder of the things I want to look at/talk about.”
+- Participants not interested in printing mostly stated that they see no need to print these questionnaires.
+  - No one cited a lack of access to a printer as their reason for not printing.
+- No differences in the reasons were seen between mobile and desktop participants.
 
-Veterans want to view their completed questionnaires for two main reasons:
-  - To make sure that their questions were answered
-  - Want access to all of their medical record
-    - Seven out of 10 participants were interested in viewing their completed questionnaires.
-    - Three Veterans assumed this was connected to their After Visit Summary, so they could see the questions they asked and the answers they received during their appointment.
+**Veterans want to view their completed questionnaires for two main reasons:**
+- To make sure that their questions were answered
+- Want access to all of their medical record  
+  - Seven out of 10 participants were interested in viewing their completed questionnaires.
+  - Three Veterans assumed these questionnaires would display other medical history information, so they could see the questions they asked and the answers they received during their appointment.
+    - The most often referenced item that participants were interested in viewing in combination with their questionnaire responses was their “medical history;” however, there was no definition as to what the participants exactly meant by “medical history.
+    - Other specific items of interest mentioned were: 
+      - a list of diagnoses/chronic issues, 
+      - referrals resulting from the appointment, 
+      - comparing what different doctors recommended (participant had received competing opinions in the past), and 
+      - connecting their pre-visit questionnaire questions with a lab result. 
 
-Veterans are not interested in seeing not submitted questionnaires, except when they started the questionnaire, then the appointment was canceled.
+**Veterans are not interested in seeing not submitted questionnaires, except when they started the questionnaire, then the appointment was canceled.**
 - Only 30% of participants had an interest in viewing not submitted questionnaire information on a list of all their questionnaires.
   - One participant only wanted to see not submitted questionnaires, so they knew their appointment date. The value was with the appointment information and not the questionnaire information.
 - Eight out of 10 participants are interested in viewing in-progress questionnaires for canceled appointments, because they believe it might help with rescheduling and filling out the questionnaire for the rescheduled appointment.
   - Four out of four participants wanted additional text, such as “Your answers will be available for the next X days,” if the not submitted but cancel appointment questionnaires would eventually disappear.
 
-Veterans are interested in sorting and filtering the list of their completed questionnaires by specialty, type of questionnaire, and date.
+**Veterans are interested in sorting and filtering the list of their completed questionnaires by specialty, type of questionnaire, and date.**
 - Five out of five participants mentioned an interest in sorting/filtering by specialty, type of questionnaire, or date (particularly year).
 
-Veterans are interested in viewing scores from questionnaires (also known as screeners) over time.
+**Veterans are interested in viewing scores from questionnaires (also known as screeners) over time.**
 - Six out of ten participants were interested in viewing their scores over time, in order to evaluate how their health is improving or worsening. 
   - Many wanted to view this information as a graph.
   - They also emphasized the need to understand the meaning behind the scores.
 
-When entering through the main VA.gov homepage, Veterans were split on whether they wanted to navigate to these health questionnaires via a badge/notification on a dashboard or the appointments section.
+**When entering through the main VA.gov homepage, Veterans were split on whether they wanted to navigate to these health questionnaires via a badge/notification on a dashboard or the appointments section.**
 - 50% of the participants selected a badge/notification on an authenticated  dashboard.
 - The other 50% of participants selected navigating to the appointments section.
+- The four PTSD and TBI participants were also split 50/50 between the above options.
 
-Miscellaneous findings
+**Miscellaneous findings**
 - One participant requested a Spanish version of the interface.
 - Two participants requested a link to the Profile section to update any demographic information as they were filling out this form. 
-  - Participants requested to link to Profile and not editing demographics within the form. This matches are findings from our last test.
+  - Participants requested to link to Profile and not editing demographics within the form.
 - 70% of participants understood the difference between the buttons (Answer Questions versus Continue Questions) on the Questionnaire list (To do tab).
   - However, most of the 70% had to be explicitly asked about the buttons before they determined the difference.
   - Even the other 30% knew that they had to click on either button to finish the questionnaires.
