@@ -5,7 +5,7 @@ Leyda Hughes (leyda.hughes@adhocteam.us), 01/04/2021
 
 ## Research Goals 
 
-The Facilities team tested a prototype of an upgraded Vet Center facility detail page with non-Vet Center client Veterans to understand if they would have enough information to choose care at a Vet Center.
+The Facilities team tested a prototype of an upgraded Vet Center facility detail page with non-(Vet Center)client Veterans to understand if they would have enough information to choose care at a Vet Center.
 
 We set out to gain high level input on Veteran’s understanding and usability of:
 
