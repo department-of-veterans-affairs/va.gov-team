@@ -97,6 +97,12 @@ As I mentioned earlier, this is a demo tool that may not function exactly the wa
 
 * (Once in the appointment) When is this appointment?
 
+* What do you expect those links to do:
+    * Add to calendar
+    * Print
+    * Reschedule
+    * Cancel
+
 * Who canceled the one canceled appointment in the list?
 
 ### Task 3 - Find appointment requests
