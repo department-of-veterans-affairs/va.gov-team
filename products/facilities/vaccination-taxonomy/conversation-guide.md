@@ -62,7 +62,8 @@ This page covers the types of health services found at a VA Healthcare facility.
  
 
 ## Card Sort - 35 minutes
-Zoom sharing set-up
+<em>Zoom sharing set-up</em>
+
 <em>zoom help - make participant the presenter and ask them to share their screen. Guide user to a search engine</em>
 
 At this point we're going to switch gears now and look at a website together. Before you share your screen, let's start by having you open a browser window, whatever you normally use to do searches on the internet. Let me know when you have one open.
