@@ -64,7 +64,7 @@ Slack - #va-notify
 This is how we will track the business lines that are reaching out to us, their particular use cases, where they are at in our process and key next steps: [Business_Line Tracker Zenhub Board](https://app.zenhub.com/workspaces/vanotify-business-implementation-5fb529d6d7154c000e027f32/board?repos=257953872,259991010,259989505,289179208,261511794)
 
 ## Successes
-![526EZ Submission Confirmation](images/Launched.png)
+![](images/Launched.png)
 ![](images/vaccine_info.png)
 ![](images/vaccine_confirmation.png)
 
