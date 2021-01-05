@@ -60,6 +60,12 @@ Would Veterans:
 ### Findings by hypothesis
 * Veterans will understand the types of services offered/not offered. 
   - **FALSE. Most participants confused Vet Centers with medical facilities.**
+* Veterans will have enough information to visit a location. 
+  - **FALSE. Participants wanted more information than was provided in the prototype before they would plan a visit to a Vet Center.**
+* Veterans will understand next steps for interacting with a Vet Center. 
+  - **FALSE. Participants expected to see contact info and instructions on how to make and appointment and where exactly to go embedded within each service accordion.**
+* Veterans will understand that child locations may not have the same services as a parent location.
+  - **TRUE. Participants understood “Satellite locations” as related to the main location and that they are often smaller and with a reduced service offering than it’s parent location.**
 
 
 
