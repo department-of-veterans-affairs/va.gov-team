@@ -3,7 +3,112 @@
 
 > [Roadmap Release Plan Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/README.md)
 
-<details> <summary> Q4 2020 (Oct-Dec)  Sprint 32-38 </summary>
+<details> <summary> Q1 2021 (Jan-Mar)  Sprint 38-44 </summary>
+
+## Q1 Target Release Launch Summary of Feature Capabilities
+  
+  - TBD description of our go to market strategy for Q4 release
+- [q1-2020-target-launch]()
+
+
+### Not assigned to a sprint 
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| [UI]  | -- | # |
+| [FE]  | -- | # |
+| [BE]  | -- | # |
+| [Product] | -- | # |
+
+## Sprint 44 - Sprint Theme
+3/24/2021 - 4/6/2021
+- [Milestone 464](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/464)
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| [UI]  | -- | # |
+| [FE]  | -- | # |
+| [BE]  | -- | # |
+| [Product] | -- | # |
+
+
+## Sprint 43 - Sprint Theme
+3/10/2021 - 3/23/2021
+- [Milestone 463](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/463)
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| [UI]  | -- | # |
+| [FE]  | -- | # |
+| [BE]  | -- | # |
+| [Product] | -- | # |
+
+
+## Sprint 42 - Sprint Theme
+2/24/2021 - 3/9/2021
+- [Milestone 462](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/462)
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| [UI]  | -- | # |
+| [FE]  | -- | # |
+| [BE]  | -- | # |
+| [Product] | -- | # |
+
+
+## Sprint 41 - Sprint Theme
+2/10/2021 - 2/23/2021
+- [Milestone 461](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/461)
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| [UI]  | -- | # |
+| [FE]  | -- | # |
+| [BE]  | -- | # |
+| [Product] | -- | # |
+
+
+## Sprint 40 - Sprint Theme
+1/27/2021 - 2/9/2021
+- [Milestone 460](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/460)
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| [UI]  | -- | # |
+| [FE]  | -- | # |
+| [BE]  | -- | # |
+| [Product] | -- | # |
+
+
+## Sprint 39 - Sprint Theme
+1/13/20201 - 1/26/2021
+- [Milestone 459](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/459)
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| [UI]  | -- | # |
+| [FE]  | -- | # |
+| [BE]  | -- | # |
+| [Product] | -- | # |
+
+
+## Sprint 38 - Sprint Theme
+12/30/2020 - 1/12/2021
+- [Milestone 458](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/458)
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| [UI]  | -- | # |
+| [FE]  | -- | # |
+| [BE]  | -- | # |
+| [Product] | -- | # |
+
+
+
+</details>
+
+
+<details> <summary> Q4 2020 (Oct-Dec)  Sprint 32-37 </summary>
 
 ## Q4 Target Release Launch Summary of Feature Capabilities
   

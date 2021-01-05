@@ -1,6 +1,6 @@
 ### Datalayer Specification
 
-Updated 12/17/2020: 
+Updated 12/31/2020: 
 - Removing the event for `howToWizard-hidden` as current codebase is not robust enough to trust this event with great legitimacy
 
 Description/Screenshot of Interaction | DataLayer | Dev Notes
@@ -12,5 +12,5 @@ Click on link within blue box notice <br> ![image](https://user-images.githubuse
 How to wizard primary CTA is surfaced / visible | `'event': 'howToWizard-cta-displayed'` | When the user has reached the end of the series of questions to reach the apply now button 
 User clicks button to apply now <br> ![image](https://user-images.githubusercontent.com/48527022/93489961-e44a0480-f8d5-11ea-83ba-d94edee335f9.png) | `'event': 'cta-button-click',`<br>`'button-type: 'primary' //populate with the button type`<br>`'button-click-label': //populate with the button label` | Populate with the full primary button click label
 User clicks link to skip how to wizard <br> ![image](https://user-images.githubusercontent.com/48527022/93489251-49512a80-f8d5-11ea-83e5-e2ab93892d28.png) | `'event': 'howToWizard-skip'` | From reading [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/use_cases/business_logic.md#for-all-wizards), sounds like there will be customization around the display properties (link vs h2) <br><br> Keeping this event name generic to account for the customizations of some teams having links vs buttons
-
+Video Tracking with a **progress bar** | `'event': 'nav-progress-bar-change',`<br>`'progress-bar-type': 'segmented',`<br>`'progress-bar-current-value': //dynamically populate with an integer with each new change the current,`<br>`'progress-bar-max-value': //consistently populate as an integer with the total number of segments, i.e 5,`<br>`'progress-bar-title': //title of progress bar step`<br>`'progress-bar-subtitle': //subtitle of progress bar step`<br>`'enable-analytics': true`
 

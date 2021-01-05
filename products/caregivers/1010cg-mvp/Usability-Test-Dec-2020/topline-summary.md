@@ -1,4 +1,4 @@
-# Caregiver, Primary Caregiver/Secondary Flow Topline Summary
+# Caregiver, Primary Caregiver/Secondary Caregiver Flow Topline Summary
 
 Prepared by: Jonathan Nelson, VSA Caregiver
 
@@ -19,7 +19,7 @@ This topline summary is a high level, top of mind summary of trends found in the
  
 **Are users able to achieve their goal of either applying with a:** Primary Family Caregiver, Primary Family Caregiver and Secondary Family Caregiver(s), or Secondary Family Caregiver(s) only
 
-- Most the participants were able to accomplish their goal but experienced pain points in the process 
+- Some participants had some trouble accomplishing their goal for a variety of reasons 
 
 **Is there any confusion caused by the content or verbage in regards to the Primary Family Caregiver and Secondary Family Caregiver workflows?**
 
@@ -44,14 +44,12 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 ## Hypotheses & Answers
 
-**Users will be able to navigate through the form relatively easily, but may have issues with the following:**
-
 
 **Users will be able to navigate through the form relatively easily, but may have issues with the following:**
 
 - The addition of the Primary Family Caregiver question may cause confusion
 
-  - True 
+  - True (Further analysis is needed) 
  
 - Knowing if a Veteran or caregiver should “add” a Primary Family Caregiver vs Secondary Family Caregiver
 

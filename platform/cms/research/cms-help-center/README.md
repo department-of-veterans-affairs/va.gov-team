@@ -1,4 +1,4 @@
-# Research Plan for VFS-CMS, November 2020
+# Research Plan for VFS-CMS, January 2021
 
 ## Goals
 This research plan is for the VFS-CMS - VFS-CMS team.
@@ -48,8 +48,8 @@ Interview invitations to be done directly via email and/or Slack.
 * Research guide writing: Jordana Mello
 * Participant recruiting:	Jordana Mello
 * Project point of contact:	Oksana Cyrwus (oksana.cyrwus@agile6.com)
-* Note-takers: TBD
-* Observers: CMS engineer(s) 
+* Note-takers: Rachel Kauff
+* Observers: CMS team members
 
 ## Resources	
 * [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms)

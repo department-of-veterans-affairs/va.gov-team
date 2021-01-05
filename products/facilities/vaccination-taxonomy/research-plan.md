@@ -1,4 +1,4 @@
-## Health Services - Vaccination Services Taxonomy
+## Health Services - Vaccination Services Taxonomy #17522
 The Facilities needs a better understanding of how veterans expect to find health services at VA as a foundational part of improving the Veteran search experience. 
 
 ## What we need to do
@@ -45,7 +45,42 @@ The Facilities needs a better understanding of how veterans expect to find healt
   
 - Moderation will provide opportunity for qualitative discovery through follow-up questions.
 
-## Participants
+## Participants:
+
+A total of 15 participants will be interviewed:
+
+1. Lisa Kukula <Lkukula@gmail.com>
+
+2. Dinah Matamoros <dinah.matamoros@att.net>
+
+3. Danny Rodriguez <Dannydrrodriguez@gmail.com>
+
+4. Stephanie Bieliauskas <steph.bieliauskas@gmail.com>
+
+5. Bonnie Robinson <Sockilee@aol.com>
+
+6. Aimee Exposito <msaimee.exposito@gmail.com>
+
+7. Elizabeth Cesario-Oliver <liltiger825@yahoo.com>
+
+8. Kevin Farrell <Kjfswkr@twc.com>
+
+9. Craig Clive <Craig@baylights.com>
+
+10. Michelle Agnew <maagnew30@gmail.com>
+
+11. Laura Freeman <Lmcrtjca@gmail.com>
+
+12. Peter DiCecco <diceccop2000@gmail.com>
+
+13. Damion Black <damion.black9@gmail.com>
+
+14. Danielle Clum <dclum001@gmail.com>
+
+15. Robert Davis <bishoprdavis7181@aol.com>
+
+
+### Participant Criteria:
 
 **Primary Criteria**
 
@@ -85,7 +120,7 @@ Wednesday, Jan 6 | 2 pm, 5 pm, 7 pm | 3
 Thursday, Jan 7 | 3 pm, 5 pm, 7 pm | 3
 Friday, Jan 8 | 1 pm, 3 pm, 5 pm, 7 pm | 4
 Monday, Jan 11 | 2 pm, 5 pm, 7 pm | 3
-Tuesday, Jan 12 | 3 pm | 1
+Tuesday, Jan 12 | 3 pm, 5 pm | 2
 
 
 ## Team Roles	

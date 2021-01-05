@@ -68,6 +68,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [Covid-19 Resources](#covid-links-and-resources-pdf)
       - [Find Forms MVP](#find-forms-mvp)
       - [Yellow Ribbon MVP](#yellow-ribbon-mvp)
+      - [New Contact Us Page](#new-contact-us-page)
     - [VFS Health Care](#vfs-health-care)
       - [Health Care Application 1010-EZ](#health-care-application-1010-ez)
       - [Open issues](#open-issues-1)
@@ -448,7 +449,6 @@ Back to [Table of Contents](#table-of-contents)
 **Open issues**
 
 - [508-defect-2 [KEYBOARD]: BAM2 Debt Letters - The debt download table sorting function must be keyboard accessible - #17894](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17894)<br/>**Staging** | **Opened:** December 28, 2020 | **Severity:** _508-defect-2 - **Moderate**_
-- [508-defect-2 [COGNITION]: BAM2 Debt Letters - Heading level should only increase by one - #16783](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16783)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** _508-defect-2 - **Serious**_
 - [508-defect-4 [COGNITION]: BAM2 Debt Letters - Consider defining "TOP" in debt cards - #16787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16787)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** _508-defect-4 - **Trivial**_
 - [508-defect-4 [COGNITION]: BAM2 Debt Letters - Consider renaming "Details" breadcrumb on debt detail view - #16788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16788)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** _508-defect-4 - **Trivial**_
   
@@ -769,6 +769,19 @@ Back to [Table of Contents](#table-of-contents)
 
 **Audit status:** _Completed June 2017._<br/>
 **No open issues**
+
+Back to [Table of Contents](#table-of-contents)
+
+---
+
+#### New Contact Us Page
+
+**Audit status:** _[First staging review done December 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17542). Will finish the review in production in January 2021. _
+
+**Open issues**
+
+- [508-defect-2 [COGNITION]: Contact Us - Table of contact links and information must have well-formed HTML - #17984](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17984)<br/>**Opened:** December 31, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+- [508-defect-3 [COGNITION]: Contact Us - Page should have a "Contact Us" breadcrumb to match top level navigation pattern - #17987](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17987)<br/>**Opened:** December 31, 2020 | **Severity:** 508-defect-3 - **_Moderate_**
 
 Back to [Table of Contents](#table-of-contents)
 

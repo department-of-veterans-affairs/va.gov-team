@@ -13,9 +13,10 @@
 </details>
 
 <details><summary>Parking lot</summary>
+ 
 
 </details>
-  
+
 
 <details><summary>Relevant CMS product backlogs and docs</summary>
   
@@ -33,6 +34,37 @@
 </summary>
 
 </details>
+
+
+## Wednesday January 6 10am ET
+
+### Campaign landing page MVP
+
+- [Review sprint 23 backlog](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/board?epics=154174777_2275,154174777_2274,154174777_2273,154174777_1475&filterLogic=any&repos=154174777)
+
+- Questions from Public Website Team: 
+  - What FE actions (if any) are needed to build accordions FAQ’s?
+
+  - Is layout/view already mobile capable or will a mobile version needed to be considered during FE build?
+
+  - What are the 508 & a11y considerations? (Previous discussions/findings?)
+
+  - Have we consider CTA tracking and analytics per campaign i.e. how do we make this turnkey for analytics tracking requests/reviews.
+
+  - What is the current planned "governance" considerations? What should be considered/known as we build FE elements?
+
+### Resources & support
+
+- n/a
+
+### Benefits detail pages
+
+- Tech debt: swapping out `field_intro_text` with `field_intro_text_limited_html`
+  - Background: the old intro text field allows html that it shouldn't. Tech debt from the original Benefits Hub build. CMS team did half the work to fix this in Q2 2020. Would like to finish this out. 
+  - Content with invalid html (tocs and buttons) was moved December 30 to appropriate places in the content. #3903 (basically done)
+  - next steps: FE template should use the new field. CMS team can handle the liquid template, but not the transformer. #1166 (quick template work, but will require transformer adjustment).
+  - Then CMS team can remove the old field from CMS, and the script that copies each edit over to new field. (#1421)
+  
 
 ## Wednesday Dec 23 10am ET
 

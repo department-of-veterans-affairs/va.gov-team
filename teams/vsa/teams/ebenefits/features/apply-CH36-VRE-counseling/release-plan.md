@@ -11,13 +11,18 @@
 
 ### Results:
 - Number of users: **6**
-  - 1: Chrome, was not able to share screen, given [link](https://www.va.gov/careers-employment/education-and-career-counseling/
-), completed eligibility, Chrome autofilled info and it was submitted with no errors
+  - **Participant 1:** Chrome, was not able to share screen, given [link](https://www.va.gov/careers-employment/education-and-career-counseling/
+), completed eligibility, Chrome autofilled info and it was submitted with no errors, received by Data Dimensions
+  - **Participant 2:** Has already submitted this form in person some years ago. No submission.  
+  - **Participant 3:** Canceled.
+  - **Participant 4:** 
+  - **Participant 5:** 
+  - **Participant 6:** 
 - Number of bugs identified / fixed: x/x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Was the data submitted (if any) easy for VA to process?: Yes, no issues found
+- Types of errors logged: Invalid cookie
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? No  
+- If yes, what: N/A
 
 ## Phase II: Staged Rollout (also known as unmoderated production testing)
 

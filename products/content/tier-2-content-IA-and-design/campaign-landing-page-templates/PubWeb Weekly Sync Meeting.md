@@ -19,12 +19,23 @@
 </details>
    
 <details><summary>Relevant CLP product backlogs and docs</summary>
-  
+  https://docs.google.com/document/d/1euEecCA615iI2vexnMnQB4l_aLk1irxOOV7_tpPY6gk/edit#
 
 
 </summary>
 
 </details>
+
+## Friday, January, 8, 2021
+ 
+### Campaign landing page MVP 1.0
+
+- Review Sprint Plan (Burndown and Velocity)
+- Feedback and Updates based on content add (John/Randi)
+- CMS Blockers / Impediments 
+- Analytics / Governance Discussion - Impact on build.
+- Collaboration Cycle Review - Next Steps 
+
 
 ## Friday, December, 18, 2020
  

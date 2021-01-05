@@ -1,5 +1,5 @@
 # Contract Testing
-Contract testing on VA.gov is accomplished using Pact. 
+Contract testing on VA.gov is accomplished using Pact.
 
 Pact is a tool that enables consumer-driven contract testing (CDCT) by defining a contract between service consumers and providers (e.g. `vets-website` applications and `vets-api`). As explained by Pact, “Contract testing is a technique for testing an integration point by checking each application in isolation to ensure the messages it sends or receives conform to a shared understanding that is documented in a 'contract'.“
 

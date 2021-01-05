@@ -399,6 +399,8 @@ On hold this sprint
 
 ## Sprint 38 (12/30 – 1/12)
 
+Any tickets from last sprint (some are already noted), with the exception of the MVI error messaging work, plus:
+
 ### Profile
 
 BE
@@ -407,33 +409,15 @@ BE
 
 ### My VA redesign
 
-**PM**
-
-- Make a list of staging test cases based on wireframes
-
 **Design**
 
-- Finalize desktop and mobile wireframe
-  - Should we add links to profile, download letters, and a couple of other popular links?
+- Finalize desktop and mobile wireframe #17307
 - LOA1 design
 - Mock up first-time user experience
-- [Design] Submit MyVA wireframes for copy review #17530
 
 ### Direct deposit for edu
 
-**Main objective: Review the build and prep for QA**
-
-**PM** 
-
-- Request QA for following sprint. To make sure we are ready, this requires:
-  - Making sure the feature is done
-  - Reviewing the feature
-  - Making sure Jim Adams has reviewed the feature
-  - Talking with Erik to make sure we are 100% going to be ready for QA
-  
-**Design**
-
-- Review Erik's initial build
+**Main objective: Finish backend work, review the build, and be ready for QA**
 
 **BE**
 
@@ -458,12 +442,55 @@ BE
 
 **PM**
 
+- Make a list of staging test cases based on wireframes
+
 **Design**
 
 - Visual design
 - Gather feedback from design team
 - How do we guide people to the new My VA dashboard? #14581
-- Finalize My VA copy
+- [Design] Submit MyVA wireframes for copy review #17530 
+
+### Direct deposit for edu
+
+BE READY FOR QA NEXT SPRINT
+
+**PM** 
+
+- Request QA for following sprint. To make sure we are ready, this requires:
+  - Making sure the feature is done (backend work is done; frontend work is properly connected to backend)
+  - Reviewing the feature
+  - Making sure Jim Adams has reviewed the feature
+  - Talking with Erik and Lihan to make sure we are 100% going to be ready for QA
+  
+**Design**
+
+- Review Erik's initial build
+
+### VA Profile notification preferences
+
+**PM**
+
+- Hold platform kickoff (maybe)
+
+**BE**
+
+- Start/Continue implementation
+
+## Sprint 40 (1/27 – 2/9)
+
+### My VA redesign
+
+**PM**
+
+- Prep for [usability test prep review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#collaboration-format-30-minute-meeting-2)
+
+**Design**
+
+- Finalize visual design
+- Finalize copy
+- Research plan for usability testing of finalized designs
+- Convo guide for usability testing of finalized designs
 
 **FE**
 
@@ -488,53 +515,6 @@ BE
 **FE**
 
 - QA fixes, if applicable
-
-### VA Profile notification preferences
-
-**PM**
-
-- Hold platform kickoff (maybe)
-
-**BE**
-
-- Start/Continue implementation
-
-## Sprint 40 (1/27 – 2/9)
-
-### My VA redesign
-
-**PM**
-
-- Prep for usability test prep review
-
-**Design**
-
-- Finalize visual design
-- Research plan for usability testing of finalized designs
-- Convo guide for usability testing of finalized designs
-
-**FE**
-
-- Continue FE build
-
-### Direct deposit for edu
-
-**PM**
-
-- Finish contact center updates
-- [Contact center review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#contact-center-review)
-- [Staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
-  - Prep
-  - Hold meeting
-
-**Design**
-
-- Accessibility tests for staging review
-- UAT planning
-
-**FE**
-
-- Accessibility tests for staging review
 
 ### VA Profile notification preferences
 

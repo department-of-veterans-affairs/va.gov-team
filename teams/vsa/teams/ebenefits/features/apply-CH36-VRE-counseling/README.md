@@ -79,13 +79,21 @@ I can apply for CH36 benefits quickly and without mailing in a form or visiting 
 
 ### KPIs-OKRs
 #### KPIs
+`Note: GA dashboard - https://analytics.google.com/analytics/web/?authuser=0#/dashboard/qKVD06_mTkyUhH52RYq0Vg/a50123418w177519031p176188361/`
 - Conversion rate
-  - % of people who land on wizard and start the application (Acquisition)  
-  - % of people who abandon (Abandonment Rate) (Activitation)  
+  - Wizard-specific
+    - % of people who land on wizard and start the application (Acquisition)  
+    - % of skips in the wizard
+    - number of referrals to another form
+  - % of people who abandon form (Abandonment Rate) (Activitation)
+    - where is the abandonment?  
   - % of people who complete the form  
   - number of people who complete the form  
 - Customer satisfaction  
-  - form has an increasing score value  
+  - form has an increasing score value (Medallia?) 
+- Product Health 
+  - number of successful submissions
+  - number of failed submissisons
 
 ##### Baseline KPIs
 tbd

@@ -20,9 +20,9 @@
 
 ## How?
 
-### VSP-QA's process
+### VSP-QA process help
 
-For now, start w/ [VSP's basic process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/e2e-testing/cypress-testrail-reporter-config.md).
+First, read [VSP's basic process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/e2e-testing/cypress-testrail-reporter-config.md) to get a general idea.  Then, read the help info below to "fill in the blanks."
 
 The **basic** process is suitable for reporting E2E test results at the beginning of your product/feature build -- **before** you start making changes -- to generate regression-test QA artifacts for [VSP Usability Testing Prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#usability-testing-prep).
 
@@ -91,6 +91,16 @@ For each .cypress.spec.js file, add the TestRail Test Case's IDs to the start of
 2. At the beginning of each test-title (`it('my-test-title', () => {})`), type **C**, and then the **ID** of the corresponding TestRail Test Case you scaffolded.  E.g., your Cypress test title `it('renders Learn More link', () => {...})` has a corresponding TestRail test case with ID 1059, so prepend "C1059 " to your Cypress test title -- `it('C0159 renders Learn More link'), () => {...})` 
 
 </details>
+
+### 5. Set Environment Variables & invoke Cypress
+
+Now, just follow VSP's instructions to [set environment variables]() & [invoke Cypress with custom reporter options]().
+
+The end result is a new TestRail Test Run in your Team's TestRail project, with pass/fail results of the linked Test Cases corresponding to your Cypress test results.
+
+## Give Use Your Feedback
+
+Please be sure to let VSA-QA know your experience running through this automated test reporting process.  TestRail API has many different calls that enable different ways to post results.  If the cypress-testrail-reporter plugin-specific process here is not as good a fit to your existing test-file structures
 
 ## See also
 [End-to-end testing](vsa-qa-e2e-testing.md)

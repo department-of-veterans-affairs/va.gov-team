@@ -9,13 +9,71 @@ This is the folder for all background, historical, discovery, and status documen
 (Prior iterations of above info should be considered deprecated. )
 
 ## Table of Contents
-
+- [Incident Response](#incident-response)
+   - [Team](#team)
 - [Problem Statement](#problem-statement)
+    - [KPIs](#kpis)
+    - [Go-To-Market Strategy](#Go-to-market-Strategy)
+- [Launch Dates](#launch-dates)
+    - [Post-MVP](#post-mvp)
+    - [MVP](#mvp)
+- [Architecture](#launch-dates)
+   - [Data Flow Diagram](#data-flow-diagram)
+   - [Drupal CMS Migration Documentation](#Drupal-CMS-Forms-Migration-Documentation)
+   - [Content Flow Diagram](#Content-Flow-Diagram)
 - [Status and decisions](#status-and-decisions)
 
+## Incident Response
+As of 12/31/2020:
+
+### Team
+ - Team Name: Decision Tools
+ - GitHub Label: [vsa-decision-tools](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/decision-tools)
+ - Slack channel: [#vsa-decision-tools](https://dsva.slack.com/channels/vsa-decision-tools)
+ 
+
+### Decision Tools Team Members
+|Name|Role|
+|----|----|
+|John Hashimoto	| Decision Tools Product Owner|
+|Marci McGuire	| Decision Tools Product Manager|
+|Zachary Morel	|FE Engineer|
+|Laurel Lawrence	| Design/Research|
+
+### Lighthouse API Team
+|Name|Role|
+|----|----|
+|Lee DeBoom	|Vets API|
+|Dan Hinze | Software Engineer|
+|Mark Greenburg	|VA APIs|
+|Michael Bastos	|VA APIs|
+
+### Other Subject Matter Experts
+|Name|Role|
+|----|----|
+|Jen Lee	| Former Product Owner|
+|Brian Lloyd	| Former Product Manager|
+|Mickin Sahni	| Former Product Manager|
+|Nick Sullivan	|FE Engineer|
+|Kelson Adams	| FE Engineer|
+|Steve Wirt	| CMS: Drupal|
+|Ryan Thurlwell	| Original Design Intent|
+|Charley Stran	| Formerly supported Forms on Lighthouse API team|
+
+__VA forms stakeholder working group includes:__
+- Huber, Diane <Diane.Huber@va.gov>; 
+- Walker, Stephen <Stephen.Walker4@va.gov>; 
+- Ranes, Michelle M. <michelle.ranes@va.gov>
+- Reid, Kevin <Kevin.Reid@va.gov>
+- McCarthy, Brian <Brian.McCarthy4@va.gov>; 
+- Smith, Jeremy <Jeremy.Smith@va.gov>; 
+- Tuscher, Joshua (joshua.tuscher@va.gov); 
+- VAVBAWAS/CO/PCO <PCO.VBACO@va.gov>; 
+- Vaccaro-Palomaki, Missie <Missie.Vaccaro@va.gov>; 
+- Smith, Gail T. (VACO) <gail.smith@va.gov>
+---
 
 ## Problem Statement 
-
 Search research indicates that the VA forms page consistently gets high organic search traffic. However it has almost no or very little conversion value. Because this page already gets high organic traffic and has high potential to provide better conversion:
 
 - we want to redesign experience on this page to the new VA.gov look and feel.
@@ -35,8 +93,7 @@ Also tracked in Master DEPO intake board:
 https://github.com/department-of-veterans-affairs/digitalservice/issues/921
 
 
-## KPIs
-
+### KPIs
 **[Google Analytics Dashboard](https://analytics.google.com/analytics/web/?authuser=1#/dashboard/MHSfv0WxQySyKRB5IYyw1Q/a50123418w177519031p176188361/)**
 
 **Overarching goal**: improve form (potentially benefit) discoverability in order to get more people to an (the right?) application experience\
@@ -44,11 +101,10 @@ https://github.com/department-of-veterans-affairs/digitalservice/issues/921
 **Metrics**:
 
 *Find VA Forms - Search*
-
 Search Relevancy
 - % queries with no results
 - % PDF downloads / successful queries
-- % conversions to online benefit application experiences (future) / successful queries
+- % conversions to online benefit application experiences / successful queries
 - % converions to logging-in following Find VA Form Search query (future, preferred)
 
 Engagement
@@ -63,10 +119,10 @@ Acquisition
 
 Engagement
 - % PDF downloads / queries
-- % conversions to online benefit application experiences (future)
+- % conversions to online benefit application experiences
 - % converions to logging-in following Find VA Form Search query (future, preferred)
 
-## Go-to-market Strategy
+### Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
   - Will rely on redirects from legacy /vaforms/ experience to the new /find-forms capturing accrued SEO value. 
   - There's a link to the forms experience in the footer of VA.gov. That will be updated to reflect the new url 
@@ -76,21 +132,41 @@ Engagement
   - Comms with form working group necessary to ensure they're comfortable with parity of /vaforms vs. /find-forms searches
 
 ## Launch Dates
+### Post-MVP
+- *What is your target launch date of your MVP/iteration?*
+  - Jan 12, 2021
+- *What is your actual launch date of your MVP/iteration?*
+  - TBD
+- *What is your date for when you'll evaluate impact after launch?*
+  - Feb, 2021 (initial evaluation)
+
+### MVP
 - *What is your target launch date of your MVP/iteration?*
   - April 2020
 - *What is your actual launch date of your MVP/iteration?*
   - June 8, 2020 (Find VA Forms Search)
 - *What is your date for when you'll evaluate impact after launch?*
 
----
-# Architecture
-
+------
+## Architecture
+### Data Flow Diagram
  <img src="./find-va-forms-redesign/findvaform-q3-arch.png" alt="Find VA Forms Architecture"  width="50%"> 
 
----
-# Status and decisions:
+### Drupal CMS Forms Migration Documentation
+[Migrations: Forms](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/migrations-forms.md)
 
-## 06/22/20
+### Content Flow Diagram
+[Whimiscal VA Forms - content flow](https://whimsical.com/va-forms-content-flow-UpSBvigLWBK72p8ajG8v3a)
+
+------
+## Status and decisions:
+### 12/31/2020 Marci McGuire
+We tentatively plan to launch Post-MVP enhancements on Jan 12, 2021, which will provide direct links from search results to form details page (where they exist) and the ability to sort results by **Form last updated** date.
+
+### 2020/12/21 Marci McGuire
+John Hashimoto and Marci McGuire agreed that the features being implemented were low-risk and don't warrant conducting user research.
+
+### 06/22/20
 
 Redirect of the forms search pages set for Thursday 6/25 implementation. Stakeholders notified. Per Kevin Reid, the Viewer page is not "owned" by the forms managers, so we will exclude that page from the redirects. 
 
@@ -98,7 +174,7 @@ Redirect of the forms search pages set for Thursday 6/25 implementation. Stakeho
 
 
 
-## 6/18/20 
+### 6/18/20 
 
 Historical - referencing for easy findability: 
 
@@ -106,7 +182,7 @@ Modern forms search IA and URL documentation:
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-forms-search.md
 
 
-## 06/08/2020
+### 06/08/2020
 
 Summary from a few different threads. 
 
@@ -120,7 +196,7 @@ Summary from a few different threads.
 
 
 
-## 05/26/2020
+### 05/26/2020
 
 Ungating of search currently blocked by various API and form bugs. 
 
@@ -131,8 +207,7 @@ Other issues - legacy practices that were not cleaned up (e.g., www1. URLs, http
 Next step: Regroup needed on ungating plan. 
 
 
-
-## 03/11/2020
+### 03/11/2020
 
 Recap of redirect update w/ @mnorthuis from our Monday call:
 - Per last Friday's call with Missie Vacaro-Palomaki (VACO forms manager) on the forms working group call, OPM, GSA, and other non-VA and other internal forms will continue to be available in public VA forms search. 
@@ -141,13 +216,13 @@ Recap of redirect update w/ @mnorthuis from our Monday call:
 
 Note: the super high traffic OPM forms (there are 2 of them) will be redirected 1:1, per prior decision. Those 2 high traffic OPM forms are on Mikki's spreadsheet: SF 180 (redirect to our military records page); and OF 306 (to the OPM form landing page)
 
-## 03/06/2020
+### 03/06/2020
 
 "Soft" launched forms search behind basic credentials/access input. This option also keeps the page hidden from search engines and IA, and clearly indicates to visitors that this isn't publicly available yet. 
 
 URL to https://www.va.gov/find-forms  and basic access credentials shared with forms working group. Email invitation to larger VA LOB groups will be sent this week. 
 
-## 03/05/2020
+### 03/05/2020
 
 VSP "staging" review call with @ncksllvn @AkucherGCIO @meganhkelley @jenniferlee-dsva @andreahewitt-odd 
 
@@ -161,7 +236,7 @@ __Decisions:__
 Background: This is largely due to our product being a Drupal page, which does not flow downstream into staging.va.gov. All the Drupal hosted content lives in prod environment. If we make changes in staging, it would have to be re-built from scratch in Drupal prod (bc content in Drupal doesn't flow from 'up' staging to prod). 
 
 
-## 03/04/2020
+### 03/04/2020
 
 Soft launch sync - call with @ncksllvn @jenniferlee-dsva @Kelson Adams @Aruna Kucherlapati @Andrew F  @Kelly Lein and @Kevin Walsh
 
@@ -169,7 +244,7 @@ Discussed: prod soft launch using no-index robots.txt - hidden page vs. new CMS 
 
 __Decision: We'll continue with original prod hidden page approach. New CMS demo environment sounds cool, but still unstable.__ 
 
-## 02/04/2020
+### 02/04/2020
 
 Decision and next steps - re redirecting form detail landing pages. Call with  @ncksllvn @mnorthuis @mickin and @jenniferlee-dsva   
 
@@ -189,7 +264,7 @@ __There are 2 tickets tracking redirects:__
 
 
 
-## __01/30/2020__
+### __01/30/2020__
 
 Summarizing several recent discussions. 
 
@@ -209,7 +284,7 @@ Per DEPO discussion 1/29 with Dave Conlon, Jeff Barnes, Kevin Hoffman, and Chris
 
 
 
-## __01/22/2020__
+### __01/22/2020__
 
 Summary from  follow up discussion with @kevwalsh @ncksllvn @kelsonic @Karak888 @mnorthuis and @jenniferlee-dsva   
 
@@ -221,7 +296,7 @@ The standard helpful links can be created to use the same content links that's u
 
 __Next step - Nick to investigate with API team implementation using ^ approach for the form detail landing pages.
 
-## __01/14/2020__
+### __01/14/2020__
 
 __Notes from Mikki re IA, URLs, canonicals, and redirects__
 Recap from to our discussion with Michael Bastos, @ncksllvn @kelsonic, @mnorthuis, and @jenniferlee-dsva on 1/14/20:
@@ -244,7 +319,7 @@ This new duplicate page must have a "noindex" tag and be excluded from the xml s
 The many child URLs that act as search landing pages for specific forms – i.e. https://www.va.gov/vaforms/form_detail.asp?FormNo=22-1990 - will not be impacted by this form search work. Each individual variation/URL will be redirected to a specific new URL. This will be mapped out as part of the form search landing page work.
 
 
-## __01/14/20__
+### __01/14/20__
 
 Summary from  call with @kevwalsh @ncksllvn @kelsonic @Karak888 and @jenniferlee-dsva   
 
@@ -267,34 +342,3 @@ Nick brought up a potential option where everything, including customizable cont
 __Next step: follow up conversation to investigate Nick’s suggestion, and to finalize decision on which approach to use.__
 
 --- 
-
-
-# Team
- - Team Name: Public Websites
- - GitHub Label: [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites)
- - Slack channel: [#va-forms](https://dsva.slack.com/channels/va-forms)
- 
-
-## Team Members
-|Name|Role|
-|----|----|
-|Jennifer Lee	| Public Websites Product Owner|
-|Nick Sullivan	|FE Engineer|
-|Kelson Adams|	FE Engineer|
-|Randi Hecht	| Content|
-
-
-
-__VA forms stakeholder working group includes:__
-
-- Huber, Diane <Diane.Huber@va.gov>; 
-- Walker, Stephen <Stephen.Walker4@va.gov>; 
-- Ranes, Michelle M. <michelle.ranes@va.gov>
-- Reid, Kevin <Kevin.Reid@va.gov>
-- McCarthy, Brian <Brian.McCarthy4@va.gov>; 
-- Smith, Jeremy <Jeremy.Smith@va.gov>; 
-- Tuscher, Joshua (joshua.tuscher@va.gov); 
-- VAVBAWAS/CO/PCO <PCO.VBACO@va.gov>; 
-- Vaccaro-Palomaki, Missie <Missie.Vaccaro@va.gov>; 
-- Smith, Gail T. (VACO) <gail.smith@va.gov>
-
