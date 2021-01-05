@@ -34,11 +34,11 @@ A task-based remote, moderated usability study was conducted via GoToMeeting bet
 
 ### Research Questions
 
-**Are users able to achieve their goal of either applying with a:**
+- Are users able to achieve their goal of either applying with a:
 
-- Primary Family Caregiver
-- Primary Family Caregiver and Secondary Family Caregiver(s)
-- Secondary Family Caregiver(s) only
+  - Primary Family Caregiver
+  - Primary Family Caregiver and Secondary Family Caregiver(s)
+  - Secondary Family Caregiver(s) only
 
 - Is there any confusion caused by the content or verbage in regards to the Primary Family Caregiver and Secondary Family Caregiver workflows?
 
