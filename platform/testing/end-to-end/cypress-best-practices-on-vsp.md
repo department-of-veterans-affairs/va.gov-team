@@ -321,6 +321,8 @@ To set the orientation to landscape, pass in 'landscape' as a second argument, l
 
 To prevent the command from being displayed in the command log, pass in `{ log: false }` as a third argument, like so: `cy.viewportPreset('va-top-mobile-1', 'landscape', { log: false });`.
 
+Please note: Microsoft Windows RT Tablet viewports are reported by Google Analytics in landscape mode, the opposite of most other tablets. As mentioned, the `cy.viewportPreset()` `orientation` argument is set to `portrait` by default. If you change the orientation of a preset that is referencing a Microsoft Windows RT Tablet viewport by passing in `landscape` as the `orientation` argument, it will have the opposite effect--it be changed to portrait.
+
 ### File uploads: cy.upload(fileName, fileType)
 
 File uploads are not yet natively supported in Cypress. We have a custom command for uploading files that is based off of [this workaround](https://github.com/cypress-io/cypress/issues/170#issuecomment-619758213). It must be chained from a command that retrieves an upload input element.
