@@ -24,7 +24,7 @@ Prior to the study, we hypothesized that:
 
 ## Research Methodology 
 
-Combined directed interviewing and usability testing, with task analysis, of a high-fidelity, desktop prototype created in UXPin.
+Combined directed interviewing and usability testing, with task analysis, of a high-fidelity, desktop prototype created in [UXPin](https://preview.uxpin.com/603da0b67ccefbbee74fcd8bb77a8fed12baabb5#/pages/134612636/simulate/no-panels?mode=cvhidmhttp:~2F~2Ff).
 
 ### Who we talked to
 
