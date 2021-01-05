@@ -56,9 +56,9 @@ Slack - #va-notify
 * **VA business lines** will be responsible for funding of digital notifications (email, SMS, or mobile push notifications).  Currently, **VA business lines** can procure AWS credits to fund their digital notifications.  
 
 ## FAQs
-Does VANotify support variables in emails?  Yes - There is an an example (#successes)
-What about hyperlinks? Yes, VANotify supports hyperlinks.  See an example ![here](images/vaccine_info.png)
-What's not supported? Currently VANotify does not support: cc, bcc, images or attachments for email
+* Does VANotify support variables in emails?  Yes - There is an an example (#successes)
+* What about hyperlinks? Yes, VANotify supports hyperlinks.  See an example 
+* What's not supported? Currently VANotify does not support: cc, bcc, images or attachments for email
 
 ## Business Line Tracker
 This is how we will track the business lines that are reaching out to us, their particular use cases, where they are at in our process and key next steps: [Business_Line Tracker Zenhub Board](https://app.zenhub.com/workspaces/vanotify-business-implementation-5fb529d6d7154c000e027f32/board?repos=257953872,259991010,259989505,289179208,261511794)
