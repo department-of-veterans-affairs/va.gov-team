@@ -12,21 +12,25 @@ Help us help you by giving your feedback in a 2 minute survey. We’d like to he
 
 :clipboard: [Take the survey](link)
 
+Please respond by **January 19**.
+
 Thank you!
 
 
 
 **Email**
 
-Subject line: Help shape the future of the VA.gov CMS 
+Subject line: Give us your feedback about the Drupal CMS 
 
 Dear CMS user,
 
-The rollout of the new VA.gov CMS over the last year created a lot of big changes for how our content editors work with VA.gov web content, and the CMS team would like to hear how it’s been going. 
+The rollout of the Drupal CMS over the last year created a lot of big changes for how our content editors work with VA.gov web content, and the CMS team would like to hear how it’s been going. 
 
-Your feedback will help us improve the CMS to make your work easier. Help us help you by giving your feedback in a 2 minute survey. We’d like to hear your honest thoughts, and your answers will be anonymous.
+Your feedback will help us improve the Drupal CMS to make your work easier. Help us help you by giving your feedback in a 2 minute survey. We’d like to hear your honest thoughts, and your answers will be anonymous.
 
 [Take the survey](link)
+
+Please respond by **January 19**.
 
 We appreciate your feedback. You can always contact our support team for further questions or CMS support at VACMSSupport@va.gov.
 
