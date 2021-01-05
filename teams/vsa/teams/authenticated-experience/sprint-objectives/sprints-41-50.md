@@ -226,8 +226,7 @@ QA!!
 **PM**
 
 - Hold go/no-go
-- Launch to 10%
-- Keep eBenefits updated on launch
+- Launch to 25%
 
 **FE**
 
@@ -239,14 +238,9 @@ QA!!
 
 **PM**
 
-- Launch to 25%
 - Launch to 50%
-- Keep eBenefits updated on launch
+- Launch to 100%
 
 ## Sprint 51 (6/30 - 7/13)
 
 ### My VA redesign
-
-**PM**
-
-- Launch to 100%
