@@ -40,15 +40,15 @@ Now, I have a few activities that I'd like you to do in the demo environment. I 
 
 #### Activity 1: Submit a request for support
 
-_Share link:_ https://pr3850-geb9i1vxs7ugc9kzpbajhiyfirxs1npl.ci.cms.va.gov/node/11463/edit
+_Share link:_ https://pr3850-geb9i1vxs7ugc9kzpbajhiyfirxs1npl.ci.cms.va.gov/health-care/covid-19-vaccine
 
-You're editing content on the COVID-19 vaccines at VA page and you notice the the Add a Content block functionality isn’t working in the way you expect. 
+You're proofing the COVID-19 vaccines content and you notice that the Preview functionality isn’t working in the way you expect. 
 
 * __Task 1.1:__ Using the resources available in the CMS, let someone in the CMS team know about what you noticed. 
 
 _Share link:_ https://pr3850-geb9i1vxs7ugc9kzpbajhiyfirxs1npl.ci.cms.va.gov/health-care/covid-19-vaccine
 
-You're proofing content on the COVID-19 vaccines at VA node and realized that it would be beneficial for editors to be able to add comments to specific parts of the text.
+You're proofing the COVID-19 vaccines content and realized that it would be beneficial for editors to be able to add comments to specific parts of the text.
 
 * __Task 1.2:__ Using the resources available in the CMS, reach out to the CMS team to suggest this improvement.
 
