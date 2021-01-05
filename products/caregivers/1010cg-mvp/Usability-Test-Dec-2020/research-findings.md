@@ -23,12 +23,13 @@ Who we talked to
 - 1 Veteran/Caregiver
 - 9 Caregivers
 
-- Geographically diverse (DE, VA, IN, TX, NM, IA, NY, FL, SC)
+Geographically diverse (DE, VA, IN, TX, NM, IA, NY, FL, SC)
 
--  Ages of our participants ranged from 25 to 64
+Ages of our participants ranged from 25 to 64
+
 - 1 participants under 35
- 	- 6 participants 35 - 44
-- 	- 1 participant 45 - 54
+- 6 participants 35 - 44
+- 1 participant 45 - 54
 - 4 participants 55 - 64
 - 1 participant over 65
 
