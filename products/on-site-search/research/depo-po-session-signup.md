@@ -17,7 +17,7 @@ Outlook calendar invites will be sent to participants.
 |Megan Gayle     | Megan Gayle     | Megan Gayle         |  Megan Gayle      |
 |Kevin M. Hoffman| Dror Matalon    | Samara Strauss      |  Danielle Thierry |  
 |                | Steve Kovacs    | Sabrina Mohamed     |  Lauren Alexanderson                 |
-|                |                 | Chante Lantos-Swett |                   |
+|                |                 | Chante Lantos-Swett |  Meg Peters       |
 |                |                 | Dave Conlon         |                   |
 |                |                 |                     |                   |
 
