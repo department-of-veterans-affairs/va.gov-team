@@ -5,11 +5,13 @@
 SCRIPT_VERSION     = '0.0.3'
 PROFILE_NAME       = ENV['PROFILE_NAME'] || 'dev-edition-default'
 GRAFANA_BASE_URL   = 'http://grafana.vfs.va.gov/d/pEgVdRlZk/external-service-performance-indicators'
-LINUX_FIREFOX_PATH = '/opt/firefox/firefox'
+LINUX_FIREFOX_PATH = '/home/kf/.local/bin/firefox/firefox'
 OSX_FIREFOX_PATH   = '/Applications/Firefox.app/Contents/MacOS/firefox'
 
 require 'bundler/inline'
+require 'fileutils'
 require 'rbconfig'
+
 gemfile do
   source 'https://rubygems.org'
 
@@ -38,6 +40,7 @@ class SLOReporter
   end
 
   def capture_screenshot
+    return if File.exist? @tmpfile
     browser.goto board_url
 
     # Dumb hack for waiting until the last board is loaded
@@ -49,8 +52,8 @@ class SLOReporter
 
   def compress_screenshot
     shot_filename = 'tmp/screenshots/' + backend + '_slo_screenshot.png'
-
-    system "convert #{tmpfile} -chop 5%x8% -gravity south -chop 0x23.5% #{tmpfile} && \
+    # convert chop format goes:
+    system "convert #{tmpfile} -chop 5%x8% -gravity south #{tmpfile} && \
             pngcrush -reduce -brute #{tmpfile} #{shot_filename} && \
             rm #{tmpfile}"
     shot_filename
@@ -114,18 +117,17 @@ begin
 
   # Quick copy/paste job from above SLOReporter class to capture the overview boards
   browser.div(aria_label: /50th Percentile Latency over Time/).wait_until(&:present?)
-  sleep 5
 
-  overview = 'tmp/screenshots/overview.png'
+  FileUtils.mkdir_p('tmp/screenshots') unless File.exists?('tmp/screenshots')
+  overview = 'tmp/screenshots/all-overviewtmp.png'
+  shot_filename = 'tmp/screenshots/all-overview.png'
   browser.screenshot.save overview
 
-  shot_filename = 'tmp/screenshots/all-overview.png'
-
-  system "convert #{overview} -chop 5%x8% -gravity south -chop 0x23.5% #{overview} && \
+  system "convert #{overview} -chop 5%x8% -gravity south #{overview} && \
           pngcrush -reduce -brute #{overview} #{shot_filename}"
 end
 
-# TODO: This should use a service catalog or something not hard-coded.
+# # TODO: This should use a service catalog or something not hard-coded.
 backends = %w[api_vet360_back
               appeals_back
               arcgis_back

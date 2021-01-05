@@ -79,5 +79,5 @@ puts 'Cleaning up... '
 `mv #{outfile} reports/`
 
 # Cleanup
-puts "Done! - Report for #{REPORT_DATE} is found in #{REPORTS_OUT_PATH}/#{outfile}"
+puts "Done! - Report for #{REPORT_DATE} is found in #{REPORTS_OUT_PATH}#{outfile}"
 
