@@ -26,7 +26,7 @@
 
 **FE**
 
-- FE to begin incorporating visual design
+- Continue FE build
 
 ### Direct deposit for edu
 
@@ -59,6 +59,10 @@
 - Hand off final designs to FE
 - Design retro (go over what went well; what didn't; why the work took so long)
 
+**FE**
+
+- Continue FE build
+
 ### Direct deposit for edu
 
 **PM**
@@ -77,6 +81,16 @@
 
 ## Sprint 43 (3/10 - 3/23)
 
+### My VA redesign
+
+**PM**
+
+**Design**
+
+**FE**
+
+- Continue FE build
+
 ### Direct deposit for edu
 
 **PM**
@@ -91,6 +105,16 @@
 
 ## Sprint 44 (3/24 - 4/6)
 
+### My VA redesign
+
+**PM**
+
+**Design**
+
+**FE**
+
+- Finish FE build
+
 ### Direct deposit for edu
 
 **PM**
@@ -101,13 +125,31 @@
 
 ## Sprint 45 (4/7 - 4/20)
 
+### My VA redesign
+
+### Direct deposit for edu
+
 **PM**
 
 - Launch to 100%
 - Confirm date of retirement of feature on eBenefits
 
 ## Sprint 46 (4/21 - 5/4)
+
+### My VA redesign
+
 ## Sprint 47 (5/5 - 5/18)
+
+### My VA redesign
+
 ## Sprint 48 (5/19 - 6/1)
+
+### My VA redesign
+
 ## Sprint 49 (6/2 - 6/15)
+
+### My VA redesign
+
 ## Sprint 50 (6/16 - 6/29)
+
+### My VA redesign
