@@ -43,10 +43,13 @@ We will use the Perigean zoom account.
 
 #### What will you be testing?
 - We will be testing a live code prototype of a mobile app.
-- The mobile app will be unpublished at the time we test it, so participants will need to go through some set up to be able to access the prototype.
-- We will provide set up instructions beforehand for both ways, and would like to ask for Perigean’s help in getting participants set up with the app prototype prior to sessions. By doing some pre-session setup, we hope to be able to have enough time to conduct the app testing. 
-  - Apple Setup: Use Apple Test Flight app to access prototype (instructions provided seperately) 
-  - Android Setup: Load an APK file on their device to access prototype (instructions provided seperately)  
+- The mobile app will be unpublished at the time we test it, so participants will need to go through some set up to be able to access the prototype. How testers access the app will be different for each platform: 
+
+#### Android
+There is no prior set up needed. The moderator will walk participants through set up during sessions. Instructions that will be used for set up are [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/round-2/App%20Set%20Up%20Instructions_%20Android.pdf).
+
+#### iPhone
+Prior set up is needed. We would like to ask for Perigean’s help in getting participants who are iPhone users set up with the app prior to sessions. By doing some pre-session setup, we hope to be able to have enough time to conduct the app testing. Instructions that will be used for set up are [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/round-2/App%20Set%20Up%20Instructions_%20iOS.pdf).
 
 ## Participants and Recruitment
 
