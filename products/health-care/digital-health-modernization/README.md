@@ -1,15 +1,20 @@
 # Digital Health Modernization TL; DR
-- This team exists to provide a product strategy and roadmap for how veterans may manage their care on va.gov
-- We are currently doing user research to inform a strategy — roadmap comes later
+- This team exists to provide a product strategy and roadmap for how veterans may manage their care on va.gov.
+- We are currently doing user research to inform a strategy — roadmap comes later.
 - Our product vision derives from the [Digital Modernization Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/digitalmodernizationstrategy.pdf): to provide a "single, high-quality digital version of every health product or tool... in one place, on VA.gov."
 
 ## What We're Doing
 - ~~Interview 23 veterans to understand digital health experiences~~
-- Now: Research synthesis
+- Now: [Research synthesis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1607438166231/034610fe4b845af0212aedcd5868db72e8ee48c8)
 - Now: Build out this team charter
+- Now: [Rough draft of product strategies for feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/README.md)
 - Jan 11 2021: Share research findings
-- Jan 22 2021: Draft strategy and performance metrics
+- Jan 22 2021: Formalize draft strategy and performance metrics
 - Q1-2 2021: Ship [earliest testable product](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
+
+## Draft high-level strategy
+- Define "digital health modernization" as transitioning veteran-facing health tools toward rapid discoverability of key actions assuming the user skims, away from detailed explanations and walkthroughs assuming the user reads
+- See Strategy A in [draft strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/README.md) for details
 
 ## Team
 ### Current
