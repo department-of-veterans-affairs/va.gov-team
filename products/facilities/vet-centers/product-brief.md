@@ -158,7 +158,7 @@ _Links to requirements documentation, wireframes/mock-ups, research, etc._
 
 [Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery)
 
-[Findings from [Outreach specialist stakeholder interviews, September 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/outreach-specialist-interviews/Vet%20Centers%20Discovery%20-%20Research%20Findings%20.pdf)
+[Findings from Outreach specialist stakeholder interviews, September 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/outreach-specialist-interviews/Vet%20Centers%20Discovery%20-%20Research%20Findings%20.pdf)
 
 [Findings from Vet Center Client Research, September 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/veteran-interviews/Vet-Centers-Client-Research-Findings.pdf)
 
