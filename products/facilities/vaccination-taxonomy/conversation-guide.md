@@ -86,7 +86,7 @@ I will send it to you via the chat function within Zoom. The chat button is also
 
  - And if none of the groups on the right seem like the best place, you can also create your own group and call it by a name that makes sense to you. You can do this by dragging the vaccine card to the open area outside of the health services boxes.
 
- - Now, it looks like there are a lot of cards to move from the left side. Each type of vaccines or immunization actually comes with an extra card which is optional. For the most part, they are there only in case you would expect to find vaccine information in more than one place on the right. You can use the extra cards for that, but you don't have to. 
+ - Now, it looks like there are a lot of cards to move from the left side. Each type of vaccines or immunization actually comes with an extra card which is optional. They are there only in case you would expect to find vaccine information in more than one place on the right. You can use the extra cards for that, but you don't have to. 
 
 - As you sort these cards, if you could share your thoughts out loud while you work, that would be great. That will help me to follow along.
 
