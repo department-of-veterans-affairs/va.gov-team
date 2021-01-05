@@ -94,7 +94,7 @@ I will send it to you via the chat function within Zoom. The chat button is also
 
 ### Task 1 Scenario
 
-For the first task, I’d like you to imagine that you are planning to get your annual Flu vaccine or shot, and would like to read information on Flu vaccine provided by VA.gov:
+For the first task, I’d like you to imagine that you are planning to get your annual Flu vaccine or shot, and would like to read information on the Flu vaccine provided by VA.gov:
 
 Can you talk me through which group on the right where you would search to find Flu vaccine information?
 - When you are ready, go ahead and move the Flu vaccine card to the place on the right where you would look to find more information.
