@@ -77,7 +77,7 @@ That is all the activities I have for us today. I just have a few final question
 
 * Did you find anything frustrating about the process?
 
-* From 1 to 5, what is your level of confidence regarding submitting a help request to the right place and that someone is on the other end to help you?
+* From 1 to 5, what is your level of confidence when it comes to submitting a help request to the right place and that someone is on the other end to help you?
   
 * If you had to describe the process of requesting CMS support to a friend, what would you tell them? 
 
