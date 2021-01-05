@@ -3,7 +3,8 @@
 > This document is in draft status and subject to change or removal.
 
 - **Author(s):** Keifer Furzland
-- **Last Updated:** June 25, 2020
+- **Last Updated:** January 4, 2020
+- **Last Updated By:** Lindsey Hattamer
 - **Status:** **Draft** | In Review | Approved
 - **Approvers:** Philip Becker \[ ], Michael Fleet \[ \], Alex Pappas \[ \],
 
@@ -66,31 +67,30 @@ These are mostly ideas until the first research spike is complete.
 ### Detailed Design - WIP
 
 #### Prototype Plan
-
-- Use [`oclif`](https://oclif.io/docs) to rapidly generate CLI framework
+- [Mural Board](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1604947756984/d77c41459435b8336a7b7b01b7d5a4ee015f022f) draft ideas for toolkit features 
+- Use [`tty toolkit`](https://github.com/piotrmurach/tty) to [bootstrap](https://github.com/piotrmurach/tty#2-bootstrapping) the CLI framework
 - One pattern would be to to map the CLI commands to the command pattern in code architecture
-- Prototyping first 'thin layer' proving out the tooling:
-  - `vsp doctor:socks`                   # manage VA SOCKS state/connection - wraps `devops/utils/va.sh`
-  - `vsp services:status`                # see backend service status, planned outages, etc. by hitting the `vets-api` endpoint
-  - `vsp products:site --build-version`  # show the `build.txt` info
+- Prototyping first 'thin layer' MVP proving out the tooling:
+  - `vtk module add <name>` # Bootstrap a new module in vets-api which wraps the vets-api module generator
+	  - This adds a "module" command and an "add" subcommand following the recommendations for working with the teletype executable in the [tty documentation](https://github.com/piotrmurach/tty#28-working-with-subcommands)
+- (Background information on the existing vets-api module generator)[https://vfs.atlassian.net/wiki/spaces/VI/pages/807174195/New+Module+Generator]
 
 After the spike we'll have a prototype usable in further user testing.
 
 ### Code Location
 
-- We could either host the `vsp-toolkit` as the core/main library and host git submodules for plugins
-- Plugins *should* contain any dependencies, and this may "inspire rewrites" - which would add tech debt to squeeze a
-- - We could reference dependencies and explicit check for them at runtime/command runtime/vsp doctor, like "does
-    `$VSP_DEVOPS_REPO` exist? good, use` $VSP_DEVOPS_REPO_PATH/scripts/script.sh` or is `va.sh` in `$PATH`, then redirect VSP
-    utils `$CMD` to `va.sh $_`
+- We are hosting the respository (here)[https://github.com/department-of-veterans-affairs/vtk]
+- Currently waiting a content review to change the repository from private to public. Email was sent to ossoft@va.gov on 1/4/2021
+- Upon approval, vtk will be published to RubyGems where developers can install the gem locally via `gem install vtk`
 
 ### Testing Plan
 
-- `oclif` generates tests but we should ensure we're writing unit & integration tests across platforms
+- Todo: Rspec, Rubocop 
+- Github Actions runs an automated build job (rake, rubocop) for building, testing and code review purposes. 
 
 ### Logging
 
-- N/a
+- We've implemented a (CHANGELOG)[https://github.com/department-of-veterans-affairs/vtk/blob/master/CHANGELOG.md] to track changes
 
 ### Debugging
 
@@ -129,6 +129,7 @@ After the spike we'll have a prototype usable in further user testing.
 - July- Aug: Dogfood and build out uses for internal, existing tools (doctor, utils, metadata, logs, aws connections,
     etc). (Wrap existing scripts, update where necesessary)
 - August : Have 3-5 useful tools prototyped and ready for a design sprint w/ VFS & VSP engineers
+- December-January : Create an MVP of the module generator 
 
 ### Alternatives - WIP
 _This section contains alternative solutions to the stated objective, as well as explanations for why they weren't used. In the planning stage, this section is useful for understanding the value added by the proposed solution and why particular solutions were discarded. Once the system has been implemented, this section will inform readers of alternative solutions so they can find the best system to address their needs._
@@ -140,4 +141,5 @@ _Features you'd like to (or will need to) add but aren't required for the curren
 
 Date | Revisions Made | Author
 -----|----------------|--------
-June 25, 2020 | Added initial draft of design document. | Keifer Furzland
+June 25, 2020   | Added initial draft of design document. | Keifer Furzland
+January 4, 2021 | Updated draft of design document.       | Lindsey Hattamer
