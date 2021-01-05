@@ -65,6 +65,11 @@ _What's in and what's out?_
 - By establishing the content model for Vet Centers during 4Q 2020, we can be prepared to execute on that model in Q1 2021 and support our long-term goal of 10 pilot vet centers built in Q4 2021
 
 **MVP**
+Primary problems to solve: 
+- Locations
+- Services Provided
+
+**Plan to include**
 - Vet Center intro
 - Link to "What is a Vet Center" content (to be built) (Call to action?)
 - Call to action "Call us"
@@ -75,6 +80,39 @@ _What's in and what's out?_
 - Relationship to Oustation, as applicable, and Outstation information (hours, location) (note: unsure about services)
 - Relationship to Community Access Point (CAP), as applicable, and CAP information (hours, location) (note: unsure about services but likely out-of-scope)
 - Definition/Delineation between national content and locally-maintained (field) content
+
+MVP will be rolled out to 10 sites. The initial 5 locations provided geographic distrobution by representing the 5 regions. These Outreach specialists assisted with our primary Vet Center discovery and informed the initial prototypes, and definition of MVP. 
+  
+ 
+
+Five additional locations were chosen with the intent of filling any gaps in representative characterstics, based on the following criteria: 
+  - Vet Center with outstation(s) and CAP(s)
+  - Vet Center with no outstations or CAP(s)
+  - Vet Center with (perceived) low service volume but high numbers of Veteran residents in the area (This could be challenging to give time/attention rather than productivity
+  - Vet Center close proximity to VAMC
+  - Center far away from VAMC
+  - Vet Center close proximity to Clinic
+  - Vet Center with joint VBA presence? Can we explore a Vet Center that shares space or offers swing space to a community partner?
+  - Large Distance from other VA resources (e.g. Guam?)
+  - Vet Center with nearby military installation
+  - Vet Center with another Vet Center in close proximity (area with location options/small catchment area)
+  - Vet Center with Large catchment area
+  - Newest Vet Center
+  - University Access Point  
+  - Active mobile vet center
+  
+ | Location | Outreach specialist | Criteria fulfilled | 
+ | ---------- | ---------- |  ---------- |
+ | Orlando, FL | Elizabeth.jackson@va.gov | First five,  Geographic distribution, no CAPS during COVID, close to VAMC, near military installations, another Vet Center close by |
+ | Springfield, MA | Bryan.doe@va.gov |  First five,  Geographic distribution, no CAPs |
+ | Escanaba, MI | Kenneth.milam@va.gov|  First five,  Geographic distribution, 6 CAPS (3 permanently manned), 58 miles from VAMC, 16,000+ sq mile catchment area
+ | Reno, NV | Troy.stormoen@va.gov | First five,  Geographic distribution, Contract for fee, close to VAMC |
+ | Colorado Springs, CO | Austin.wilmarth@va.gov | First five,  Geographic distribution, 3 active CAPS, 64 miles from VAMC, close to 4 military installations plus USAFA, 15,000+ square mile catchment area |
+ | Rochester, NY | Shawn.Crandall1@va.gov |  |
+ | Nashville, TN | Witt.Cook@va.gov |  Outstation seeking approval to become a Vet Center |
+ | Cincinnati, OH | Erika.Reynolds@va.gov|   |
+ | Great Falls, MT | Richard.Ferry@va.gov |  |
+ | Sacramento, CA | Joseph.Moglia@va.gov |   |
 
 ### Not currently in scope
 - Staff Profiles
@@ -119,4 +157,10 @@ _Links to requirements documentation, wireframes/mock-ups, research, etc._
 [Brand Analysis Report, March 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/VetCenters_BrandAnalysisReport_03272020.pdf)
 
 [Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery)
+
+[Findings from [Outreach specialist stakeholder interviews, September 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/outreach-specialist-interviews/Vet%20Centers%20Discovery%20-%20Research%20Findings%20.pdf)
+
+[Findings from Vet Center Client Research, September 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/veteran-interviews/Vet-Centers-Client-Research-Findings.pdf)
+
+[Findings from Research Findings: Vet Center - non-client, Veteran, December 2020](TBD)
 
