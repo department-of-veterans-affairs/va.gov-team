@@ -131,7 +131,8 @@ Participants expected to see:
     - Do I need a referral?
 - What to expect during a first visit
     - Is it therapeutic or just an assessment?
-- If Telehealth is offered, what are a Veteran’s privacy options? Can they remain off-camera? 
+- If Telehealth is offered, what are a Veteran’s privacy options? 
+    - Can I remain off-camera? 
 - Detailed information for each type of counseling
     - What specific types of therapy that might be available, e.g. EMDR, CBT.
 - Details of a specific group therapy offerings 
