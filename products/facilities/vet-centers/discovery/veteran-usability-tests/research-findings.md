@@ -88,6 +88,8 @@ By the end of the session, many participants (those that did not never read the 
 
 > “I would probably put it up at the top in that first little paragraph we do not offer any type of medical services.  I would definitely word it in a way that doesn't come off as being mean or threatening but just matter-of-factly so that the Veteran doesn't show up there,  thinking he's going to get his knee looked at. That's not what we do. But I think that'd be VERY frustrating for a veteran trying to go to these places. I would definitely put it at the top.  Mental health but not physical.”
 
+>"Making it clear what's onsite and what's within the community. Its alot nicer for me here, my VA is pretty huge and everything is under one roof. Most of it is on the same campus. Is this one small building or a bigger campus?"
+
 
 #### 2. Veterans who have been through counseling are comfortable with the term, "Mental health care".
 
@@ -117,14 +119,23 @@ Where participants found group counseling:
 > “I don’t think “psychology” should be its own dropdown. Most people are going to see that and then keep looking – they’re more likely to click “mental health care.” It could make sense to combine the two.”
 
 
-#### 3. Veterans expected to see more service information available within each service accordion.
+#### 3. Veterans expected to see more detailed information available within each service accordion.
+
+For some dealing with mental health issues, it was crucial to know what to have more information to lower anxiety. 
 
 Participants expected to see:
 
-- Name and phone number of person they needed to contact
-- How an appointment would need to be made
-- Where to go, what building, floor, etc
-- Detailed information for each type of counseling or group breakout
+- Name and phone number of person they need to contact 
+    - Is a live person going to answer if I call?
+- How is an appointment made?
+    - Do I need a referral?
+- What to expect during a first visit
+    - Is it therapeutic or just an assessment?
+- If Telehealth is offered, what are a Veteran’s privacy options? Can they remain off-camera? 
+- Detailed information for each type of counseling
+    - What specific types of therapy that might be available, e.g. EMDR, CBT.
+- Details of a specific group therapy offerings 
+    - Who would be running it, where would it take place, who could they call to inquire about it?
 
 > “Yeah, and I don't know if its because its a prototype but you wouldn't be able to click on it. Say if I wanted to look into Family Counseling, if I were able to hit ‘Family counseling’, but it doesn't tell you what to do next. Yes, we offer it but it doesn't tell me what to do next.”
 
@@ -151,16 +162,20 @@ Some Community Access Points are located in YMCA’s, churches, etc.  Veteran’
 
 #### 6. How a Veteran prepares for a visit varies widely depending on their context.
 
-Participants shared many questions regarding information they would need answered before visiting or even attempting to call a Vet Center.  For some dealing with mental health issues, it was crucial to know what to expect to lower anxiety. Before calling participants wanted to know:
+Carbound participants appreciated the links to "Get directions" and parking directions but the prototype lacked information for other modes of transportation. One participant, who relies on public transportation and prepaid cellphone minutes, explained that he would need to know exactly where to go and could not waste time on hold if he called for more information. Another participant, who was wheelchair bound, echoed the need for exact directions or transportation options. Understanding which services were available onsite vs which would require them to go elsewhere was crucial. Knowing what to bring or have prepared was also important to Veterans.
 
-- Details of a group therapy offerings, who would be running it, where would it take place, who could they call to inquire about it? 
-- If Telehealth is offered, what are a Veteran’s privacy options? Can they remain off-camera? 
-- What specific types of therapy that might be available, e.g. EMDR, CBT.
-- Do I need to prepare forms (DD214), medication list, a referral from my doctor?
-- Public transportation considerations, wheelchair assistance availability
-- Is a live person going to answer if I call?  Is a first visit therapeutic or just an assessment?
+Veterans wanted to know:
+
+- Where to go, what building, floor, etc
+- Do I need to bring or prepare forms (DD214, medication list, a referral from my doctor)?
+- Public transportation directions/instructions
+- wheelchair assistance availability
 
 > “[without a] direct contact number, you could wait forever, run you over your minutes if you’re left on hold. Most veterans nowadays don’t have a landline they have cell phone services. Not everyone has a contract most people just use prepaid services.”
+
+>"Not everyone has a POV [privately owned vehicle] and not everyone have an Uber or Lyft account. What I don’t see on this page is anything telling the Veteran about any shuttle service if there is one provided. Not every Veteran has POV. How we’re going to get there? Public Transportation, shuttle service to this center and back."
+
+>"When I'm looking for services, I need to make sure I know what's going to be available there If I'mg goint to travel that far to get assistance."
 
 
 #### 7. Placement and user experience of "More locations" was unexpected.
@@ -197,7 +212,12 @@ Many participants shared how their specific mental state can impact their abilit
 ## Additional Findings
 
 #### 1. Facility photo was important to all participants (information is inferred, assumptions made).
- 
+>"I'm looking at the picture of the facility thinking it's an awful small looking facility to be able to have all of these things that are available. I know from past experience that you're not going to have an office for each of these things in there.  You're probably going to have one office there that's going to direct you to other things that might not be at that facility but probably be directed to another facility."
+
+>"handicapped accessible so that's good I work at the VA in Fargo and we have a lot of veterans coming and going and some of them struggle with the with the doors and stuff like that sometimes so  [responds to photo with ramps]"
+
+>"I love it when they post a picture of the building. I'm going to look for this brown building instead of looking for numbers because they're hard to find sometimes. And I get anxious driving in traffic so I like to have the picture in my mind."
+
 #### 2. Veterans thought the font on “On this page” was too small.
 
 #### 3. “Satellite offices” was understood by 8 of 9 participants.
@@ -206,12 +226,34 @@ Many participants shared how their specific mental state can impact their abilit
 
 #### 5. "Mobile Care Unit" was liked but set the wrong expectation.
 
+> "I’ve learned a lot and I think it’s great that they have a mobile care unit is fabulous if your disabled."
+
+> "Mobile care, if I click there, can I request them to come out and see me?"
+
+> "if you live in remote areas but you have a Mobile care unit. I know people who have taken a bus 3 hours to get to their VA. Some people don't like coming into the city especially if you're an older Veteran."
+
+>"I noticed you have Mobile Care Unit, that's important. That's one of the first things I noticed. [reads] it's mostly for counseling. I don't like going to the city and I'm pretty protective about who I allow on my property. I can understand the density of Atlanta, a facility like this, it looks like an easy to get to location, but again, I'm a hick from the sticks. There's alot of us that don't want to go into the city for services."
+
 #### 6. “Psychology” was selected and understood but disliked by Veterans.
+
 #### 7. Diverse Veteran population representation was valued (homeless, minority, LGBTQ, etc).
+>"Seeing all of this gives me hope that the center would do well. I would expect that they can personalize care for different vet cases to cover everybody’s needs. They know its a wide span, all races all colors. As well general health."
+
+>"[hovers over Homeless, LGBTQ, Minority] Pretty good as far as variety of... its not limited or focused on one particular thing, it's really pretty wide and which with the Military community, it's got a huge base and there's alot of things that need to be available. Looks pretty good."
+
 #### 8. Veterans liked seeing group breakouts (no “lumping” of Vets) but also wanted more details.
+
+ > "Depending on the counseling the person is looking for, those should be in my opinion, the indiviual groups, the e.g. Vietnams Veteran groups. To me, I would just start with the Peer group counseling and have the subsets under the peer group counseling. I would expect it to go to who's ever is organizing to running that particular group to be able request access or be able to speak to someone... some sort of contact. "
+
 #### 9. ‘Peer’ didn't resonate within Group counseling taxon name but may work better as a description.
+
 #### 10. ‘Military sexual trauma care’ description needs more sensitivity (“safe”, less group emphasis).
+
+> "From someone that's been through some of the group counseling, I think this really sells it short. I would put something more like support, words that are more... support, peer support group, Confidential individual counseling is good but I don't know if its counseling when its a group. It needs to be conveyed that its a safe place, because people are so intimidated about telling their story in front of other people. It needs to be a safe environment, a confidential environment, you're not the only one, I'm sure there's descriptions out there that wording can be pulled out of. More sensitivity needs to be put into that. I lean towards that because I'm an MST survivor. Again, it's the Peer group counseling one that stands out to me, I think that's important because I think that will get overlooked so much because people are going to be like, "I'm not getting up in front of a bunch of people and telling what happened to me" I did that for years before I agreed to go into a group. Like I said, it was profound, what it did for my health care, my mental health. I'd hate for people to sell it sort because the description seems shoddy or intimidating."
+
 #### 11. Veterans want to be given the right to choose their care (surface Vet Center option on VA websites).
+
+> "I wouldn't have known what a VC was, that they had off...smaller type places you could go for mental health, I just assumed you had to go to the VA hospital. I mentioned it to my psychiatrist and she said, ‘Oh, I should have mentioned that to you.’ I don't know if that's something that they're supposed to mention to the patient and the patient has the option of what they want to do. That wouldn't be on a website anywhere. Like I said, I'd never heard of these and I'm pretty familiar with the VA. [use to work for the VA] I just learned about this a year ago. I don't know how to get the word out to people other than on the VA website. I'm thinking where it has locations maybe there would be under medical centers they would have Vet Centers."
 
 ## Primary recommendations
 
@@ -220,7 +262,6 @@ Many participants shared how their specific mental state can impact their abilit
 - reconsider “readjustment counseling centers”
 - Segment services into “Mental health counseling” and “social services” to give the page more context and make the facility’s purpose more scannable
 - consolidate list of services to be more focused and scannable
-
 2. Test “Mental health care” vs “Counseling” taxons on Veterans who have not gone engaged in either.
 3. Make it more obvious that this is a small facility with one direct number to call.
 4. Scale down COVID alert, progressively disclose details and reconsider placement.
