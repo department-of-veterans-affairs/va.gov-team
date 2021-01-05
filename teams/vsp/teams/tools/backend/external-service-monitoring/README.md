@@ -37,9 +37,28 @@ Once this is completed (~5-15min) generate the PDF by running this command:
 
 This will generate a set of PDFs in `reports/`.
 
-Please upload this report to the [#vfs-all-teams](https://dsva.slack.com/archives/CE4304QPK) channel as well as the
-[historical reports](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/external-service-monitoring/historical-reports) directory.
+#### Publishing Report
 
+- Please upload this report to the [#vfs-all-teams](https://dsva.slack.com/archives/CE4304QPK) channel and the
+- [historical reports](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/external-service-monitoring/historical-reports) directory
+- Also email a copy of the report to the following DSVA stakeholders, using this template:
+
+```
+Subject Line: External SLO Report YYYY-MM-DD
+
+dror.matalon@va.gov
+racheal.roueche@va.gov
+kevin.hoffman1@va.gov
+corey.trimm@va.gov
+christopher.johnston2@va.gov
+
+
+Attached is VA.gov Platform External SLO Report YYYY-MM-DD
+
+Find historical reports at https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/external-service-monitoring/historical-reports
+
+Have a great day!
+```
 
 #### Known Issues
 
