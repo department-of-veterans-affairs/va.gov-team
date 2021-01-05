@@ -6,17 +6,28 @@ December 2020
 VA Mobile App
 
 ## Background
-The VA Mobile App team has designed and built a MVP mobile app that can be used on iOS and Android devices. We would like to usability test this app to answer the following questions: 
+The VA Mobile App team has designed and built a MVP mobile app that can be used on iOS and Android devices. We would like to test this app with users to answer the following questions:
+
+**Sign In**
 - What usability obstacles exist with sign in?
-  - Are participants able to successfuly sign in and return to the app? If not, what barriers prevent them from doing so?
-- What usability obstacles exist in the user navigating the app as a whole?
-- (If the participant has appointments data) What questions do users have about appointments?
-  - What do participants find confusing/unclear about appointments?
-- (If the participant has claims & appeals data) What questions do users have about claims or appeals?
-  - What do participants find anything confusing/unclear about claims & appeals?
+  - Are participants able to successfuly sign in and return to the app?
+  - If not, what barriers prevent them from doing so?
+  
+**Features**
+- At a high level, what usability obstacles exist in navigating around Profile, Claims, and Appointments? 
+- (If the participant has Profile data) What questions do users have about Profile?
+  - What do participants find confusing/unclear?
+  - Does anything feel like it's missing?
+- (If the participant has appointments data) What questions do users have about Appointments?
+  - What do participants find confusing/unclear?
+  - Does anything feel like it's missing?
+- (If the participant has claims & appeals data) What questions do users have about Claims or Appeals?
+  - What do participants find confusing/unclear?
+  - Does anything feel like it's missing?
+  
+**Usefulness**
 - What do participants rate the app on a scale of 1 to 5, 1 being not useful at all and 5 being extremely useful?
-- Do participants feel anything is missing? What?
-- If participants could add 1 thing, what would it be? Why?
+- If participants could add 1 thing to the app, what would it be? Why?
 
 ## Method 
 #### What method of research are you planning?
