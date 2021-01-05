@@ -105,7 +105,7 @@ this section should be updated to reflect the current state of testing and
 future aspirations._
 
 ### Logging
-_What your system will record and how._
+N/A
 
 ### Debugging
 _How users can debug interactions with your system. When designing a system it's
@@ -129,19 +129,10 @@ simple place holder, since caveats will almost certainly appear down the road._
 _To be determined._
 
 ### Security Concerns
-_This section should describe possible threats (denial of service, malicious
-requests, etc) and what, if anything, is being done to protect against them. Be
-sure to list concerns for which you don't have a solution or you believe don't
-need a solution. Security concerns that we don't need to worry about also belong
-here (e.g. we don't need to worry about denial of service attacks for this
-system because it only receives requests from the api server which already has
-DOS attack protections)._
+N/A
 
 ### Privacy Concerns
-_This section should describe any risks related to user data, PII that are added
-by this new application. Think about flows of user data through systems, places
-data is stored and logged, places data is displayed to users. Where is user data
-stored or logged? How long is it stored?_
+N/A
 
 ### Open Questions and Risks
 _This section should describe design questions that have not been decided yet,
