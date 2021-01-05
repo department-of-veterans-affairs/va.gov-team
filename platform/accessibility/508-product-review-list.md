@@ -1123,9 +1123,7 @@ Back to [Table of Contents](#table-of-contents)
 #### Search Typeahead
 
 **Audit status:** _[VSA staging review started December 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17181)_<br/>
-**Open issues**
-
-- [508-defect-1 ❗ Launchblocker [SCREEN READER, COGNITION]: The auto-suggest search field MUST be accessible to screen reader users - #16965](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16965)<br/>**Staging** | **Opened:** December 6, 2020 | **Severity:** _508-defect-1 - **Critical**_
+**No open issues**
 
 Back to [Table of Contents](#table-of-contents)
 
