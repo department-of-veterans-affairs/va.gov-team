@@ -26,15 +26,35 @@ The most updated version of the full prototype will be added as it is built - pl
 Documentation containing descriptions, interaction notes, and content for each chapter's pages is included below or on the stories.
 
 - **Introduction Screen**
-   - Page 1: [Introduction section] - TBD if we need the intro screen as this may not be an official form
+   - Page 1: [Introduction section] - may be deleting
+   
+   
+   
 - **Chapter 1: [Main Page, Inquiry Details]**
-   - Page 1: [Inquiry info].  Updating the sub page
+   - Page 1: [Inquiry info].  
+   
+  * Category
+  * Enter message
+  * My message is about  <--- still should explore having this on the Veteran page
+   
+   
+   
 - **Chapter 2: [Main Page, Veteran Info]**
-   - Page 2: [Veteran info] Updating the sub page
+   - Page 2: [Veteran info]    
+   
+  *  SSN, date of birth, service number etc. 
+   
+   
 - **Chapter 3: [Main Page, Contact Info]**
-   - Page 3: [Contact info]   Updating the sub page
+
+   - Page 3: [Contact info]   
+   
+  *  Your name, email etc.
+   
 - **Chapter 4: [Review Page]**
-   - Page 1: [Review Page] - still determining if we'll have this
+  
+ 
+   
 - **Confirmation screen** 
    - [Confirmation screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS%20Form%20-%20Confirmation%20Page.md)
 
