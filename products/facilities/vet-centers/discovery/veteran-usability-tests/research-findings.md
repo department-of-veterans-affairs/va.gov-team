@@ -274,7 +274,7 @@ Participants called out the yellow banner containing the Vet Center hotline that
 
 > "I wouldn't have known what a VC was, that they had off...smaller type places you could go for mental health, I just assumed you had to go to the VA hospital. I mentioned it to my psychiatrist and she said, ‘Oh, I should have mentioned that to you.’ I don't know if that's something that they're supposed to mention to the patient and the patient has the option of what they want to do. That wouldn't be on a website anywhere. Like I said, I'd never heard of these and I'm pretty familiar with the VA. [use to work for the VA] I just learned about this a year ago. I don't know how to get the word out to people other than on the VA website. I'm thinking where it has locations maybe there would be under medical centers they would have Vet Centers."
 
-## Primary recommendations
+## Recommendations
 
 1. Increase information scent to allow Veterans to understand the page with only a scan.
 - Shorten or replace intro copy, try tags or more scannable descriptors instead
@@ -289,19 +289,16 @@ Participants called out the yellow banner containing the Vet Center hotline that
 7. Downplay that VC’s are for “transitioning" Veterans. 
 8. Give more attention to “Women Veteran Care” service as the likely place a women will explore first.
 9. Move call center alert to the top of page for Veterans to see first during off hours.
-
-## Secondary recommendations
-
-1. Keep “Satellite” as a way to describe community access points and outstations.
-2. Consider increasing the fonts size of “On this page”.
-3. Reconsider “Spotlight boxes” or enhance their design to be more interesting.
-4. If used, “Mobile Care Unit” should be decoupled from list of services. Try treating it as a modality or as a separate location type with “Satellite office”. 
-5. Remove “Psychology” as a Vet Center service. 
-6. Keep diverse Veteran population representation but reconsider design to keep service list short.  
-7. Consider “Group counseling” as a new taxon and give as much information about who, what, where and how to engage in this service within the accordion.
-8. Lose ‘Peer’ in “Peer group counseling” but consider it in describing the concept of groups segmented by affinity that Veterans valued over group therapy that “lumps” all Veterans in the same group.
-9. Work with copywriter on ‘Military sexual trauma care’ and all other service taxons/descriptions.
-10. Consider cross-promoting Vet Centers from main VA medical facility pages mental health sections.
+10. Keep “Satellite” as a way to describe community access points and outstations.
+11. Consider increasing the fonts size of “On this page”.
+12. Reconsider “Spotlight boxes” or enhance their design to be more interesting.
+13. If used, “Mobile Care Unit” should be decoupled from list of services. Try treating it as a modality or as a separate location type with “Satellite office”. 
+14. Remove “Psychology” as a Vet Center service. 
+15. Keep diverse Veteran population representation but reconsider design to keep service list short.  
+16. Consider “Group counseling” as a new taxon and give as much information about who, what, where and how to engage in this service within the accordion.
+17. Lose ‘Peer’ in “Peer group counseling” but consider it in describing the concept of groups segmented by affinity that Veterans valued over group therapy that “lumps” all Veterans in the same group.
+18. Work with copywriter on ‘Military sexual trauma care’ and all other service taxons/descriptions.
+19. Consider cross-promoting Vet Centers from main VA medical facility pages mental health sections.
 
 
 ## Next Steps
