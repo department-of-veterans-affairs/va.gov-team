@@ -52,7 +52,9 @@ Now I'll give you a quick overview of today's session.
 
 ## Health Services Page - 5 minutes
 
-So while I am sharing my screen, I want to walk through an example of how health services are shown on VA.gov. 
+Thank you! Now I want to and show you the webpage I mentioned that is on the VA.gov website.
+
+I'm sharing my screen - do you see a web page with the title Health Services? Great. I want to walk through this example of how health services are shown on VA.gov. 
 
 ###### MODERATOR SHARES SCREEN OF HEALTH SERVICES PAGE
 [Link to Health Services page](https://www.va.gov/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/) --> Podiatry
@@ -67,10 +69,10 @@ At this point we're going to switch gears now and look at a website together. Be
 
 Now I'd like you to go back to Zoom and find a "Share screen button" It's usually at the bottom of the screen within a row of buttons and sometimes disappears until you mouse over the bottom area of Zoom. 
 
-Once you click the button and Zoom should ask you which window you'd like to share, it should give you small preview images of the open windows. Look for the browser window that I just had you open and click on it. You may have to click another button to start sharing.
+Once you click the button, Zoom should ask you which window you'd like to share, it should give you small preview images of the open windows. Look for the browser window that I just had you open and click on it. You may have to click another button to start sharing.
 
 I am going to send you a link, and we will go through the tasks I mentioned.
-I will send it to you via the chat function within Zoom. It’s also usually within the bottom row of buttons as a button on its own as chat or under a more button.
+I will send it to you via the chat function within Zoom. The chat button is also usually within the bottom row of buttons as a button on its own, shown as chat or under a more button.
 
 **USER IS SHARING**
 
