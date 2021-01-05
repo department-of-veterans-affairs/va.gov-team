@@ -91,9 +91,9 @@ I will send it to you via the chat function within Zoom. It’s also usually wit
 
 ### Task 1 Scenario
 
-For the first task, I’d like you to imagine that you are planning to get your annual Flu shot, and would like to read information on Flu shots provided by VA.gov:
+For the first task, I’d like you to imagine that you are planning to get your annual Flu vaccine or shot, and would like to read information on Flu vaccine provided by VA.gov:
 
-Can you talk me through which group on the right where you would search to find Flu shot information?
+Can you talk me through which group on the right where you would search to find Flu vaccine information?
 - When you are ready, go ahead and move the Flu vaccine card to the place on the right where you would look to find more information.
     
 <em>(If participant makes their choice without sharing their thought process):
@@ -104,7 +104,7 @@ In making that selection, what information would you expect to see about getting
 
 Would you search for flu or influenza?
 
-Have you had the flu shot? 
+Have you had the flu vaccine? 
     - <em>(If yes, received vaccine)</em> When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program? (Ask for each of the vaccines that the participant states having received).
 
 
