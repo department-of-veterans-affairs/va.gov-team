@@ -14,7 +14,7 @@ Form detail page drafts are automatically generated whenever a new form is added
 In instances where a detail page *will* be published (see [Determining Need for a Detail Page](#determining-need-for-a-detail-page) below), additional metadata about the form must be added via the Drupal CMS, and the draft detail page reviewed and published prior to a nighly CMS merge which deploys the to the production environment.
 
 ## Timing Considerations ## 
-Form detail page drafts must be published *the same day they are saved*, and before the nightly CMS migration at :question: .  Failure to publish drafts in a timely fashion may cause other form updates to fail. 
+Form detail page drafts must be published by midnight on *the same day they are saved*,  before the nightly CMS migration.  Failure to publish drafts in a timely fashion may cause other form updates to fail. 
 
 It is recommended to schedule a standing weekly content review with the content team. This allows time for them to review and for the Decision Tools team to make any subsequent edits before the nightly CMS migration.
  
