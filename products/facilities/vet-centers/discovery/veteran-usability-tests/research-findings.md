@@ -162,7 +162,7 @@ Some Community Access Points are located in YMCA’s, churches, etc.  Veteran’
 
 #### 6. How a Veteran prepares for a visit varies widely depending on their context.
 
-Carbound participants appreciated the links to "Get directions" and parking directions but the prototype lacked information for other modes of transportation. One participant, who relies on public transportation and prepaid cellphone minutes, explained that he would need to know exactly where to go and could not waste time on hold if he called for more information. Another participant, who was wheelchair bound, echoed the need for exact directions or transportation options. Understanding which services were available onsite vs which would require them to go elsewhere was crucial. Knowing what to bring or have prepared was also important to Veterans.
+Car-bound participants appreciated the links to "Get directions" and parking directions but the prototype lacked information for other modes of transportation. One participant, who relies on public transportation and prepaid cell phone minutes, explained that he would need to know exactly where to go and could not waste time on hold if he called for more information. Another participant, who was wheelchair bound, echoed the need for exact directions or transportation options. Understanding which services were available onsite vs which would require them to go elsewhere is crucial. Knowing what to bring or have prepared was also important to Veterans.
 
 Veterans wanted to know:
 
@@ -175,7 +175,7 @@ Veterans wanted to know:
 
 >"Not everyone has a POV [privately owned vehicle] and not everyone have an Uber or Lyft account. What I don’t see on this page is anything telling the Veteran about any shuttle service if there is one provided. Not every Veteran has POV. How we’re going to get there? Public Transportation, shuttle service to this center and back."
 
->"When I'm looking for services, I need to make sure I know what's going to be available there If I'mg goint to travel that far to get assistance."
+>"When I'm looking for services, I need to make sure I know what's going to be available there If I'm going to travel that far to get assistance."
 
 
 #### 7. Placement and user experience of "More locations" was unexpected.
