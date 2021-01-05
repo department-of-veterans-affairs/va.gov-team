@@ -198,7 +198,7 @@ Would you expect it to be part of a regular VA visit or a special visit?
 
 ## Post-Task Questions - 5 minutes
 
-In these tasks, you saw words such as vaccines, vaccination, immunization, shot. What words connect with you? Did we miss any?
+In these tasks, you saw or heard words such as vaccines, vaccination, immunization, shot. What words connect with you? Did we miss any?
 
 That is it - thank you for going through these with me today. It is really helpful as we try to make improvements to the VA.gov website.
 - Any questions for me? 
