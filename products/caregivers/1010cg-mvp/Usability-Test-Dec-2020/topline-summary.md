@@ -44,8 +44,6 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 ## Hypotheses & Answers
 
-**Users will be able to navigate through the form relatively easily, but may have issues with the following:**
-
 
 **Users will be able to navigate through the form relatively easily, but may have issues with the following:**
 
