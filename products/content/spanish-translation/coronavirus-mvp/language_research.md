@@ -38,7 +38,7 @@ The remainder spoke a wide range of languages, including:
 
 Reference: https://www.migrationpolicy.org/article/immigrant-veterans-united-states-2018#EnglishProficiency
   
-## VA.gov usability researh findings
+## VA.gov usability research findings
 
 What people are looking for on VA.gov:
 “On VA website but in English, and will share info with wife but verbally Like survivor benefit info in Spanish would be useuful in case anything ever happened to him, became incapicated or died. I served with many Latino veterans but they were all fluent in English. But it would be for their family members maybe it could be helpful.”
