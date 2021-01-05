@@ -517,7 +517,6 @@ Back to [Table of Contents](#table-of-contents)
 **Open issues**
 
 - [508-defect-2 [FOCUS MANAGEMENT, SCREENREADER]: Focus on page load SHOULD be consistent - #17004](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17004)<br/>**Staging** | **Opened:** December 7, 2020 | **Severity:** 508-defect-2 — **_Serious_**
-- [508-defect-2 [COGNITION]: A heading SHOULD exist within the sponsor information accordion - #16763](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16763)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [508-defect-2 [COGNITION]: Heading levels SHOULD increase by one in a logical order - #16735](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16735)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [508-defect-2 [COGNITION]: Heading levels SHOULD increase by one - #16692](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16692)<br/>**Staging** | **Opened:** November 30, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [508-defect-2 [COGNITION]: Checkbox selections MUST be clear to the user on the review information page - #16997](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16997)<br/>**Staging** | **Opened:** December 7, 2020 | **Severity:** 508-defect-2 — **_Serious_**
@@ -535,7 +534,6 @@ Back to [Table of Contents](#table-of-contents)
 **Audit status:** _[Staging review started December 7, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17007)_<br/>
 **Open issues**
 
-- [508-defect-2 [COGNITION]: Heading levels SHOULD increase by one in a logical order - #17012](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17012)<br/>**Staging** | **Opened:** December 7, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [508-defect-2 [COGNITION, SEMANTIC MARKUP] The link text MUST make sense in context, and should make sense when taken out of context - #17070](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17070)<br/>**Staging** | **Opened:** December 8, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [508-defect-2 [SCREENREADER, COGNITION]: Table labels SHOULD be concise and descriptions SHOULD use aria-describedby - #17149](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17149)<br/>**Staging** | **Opened:** December 9, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 
@@ -717,10 +715,7 @@ Back to [Table of Contents](#table-of-contents)
 
 **Audit status:** _[Staging Review in progress, December 2020.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17403)_
 
-**Open issues**
-
-- [508-defect-1 ❗ Launchblocker [COGNITION, FOCUS MANAGEMENT]: When "Search this area" button is introduced, it must be announced and available to assistive technology - #17405](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17405)<br/>**Production** | **Opened:** March 16, 2020 | **Severity:** 508-defect-1 ❗️ — **_Launchblocker_**
-- [508-defect-2 [COGNITION, FOCUS MANAGEMENT]: When focus moves to the map, the focus halo should be visible - #17404](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17404)<br/>**Production** | **Opened:** December 14, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+**No open issues**
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -737,7 +732,6 @@ Back to [Table of Contents](#table-of-contents)
 - [508-defect-2 [DOCUMENTS]: Documents MUST be 508 compliant - #9998](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9998)<br/>**Production** | **Opened:** June 9, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [508-defect-2 [AXE-CORE]: Heading levels SHOULD increase by one - within Learn more about the fiduciary program list item - #9987](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9987)<br/>**Production** | **Opened:** June 9, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [508-defect-2 [AXE-CORE]: Heading levels SHOULD increase by one - sidebar Message us, Call us, etc - #9981](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9981)<br/>**Production** | **Opened:** June 9, 2020 | **Severity:** 508-defect-2 — **_Serious_**
-- [[COGNITION]: Focus outline SHOULD be consistent throughout](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7295)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [CMS [SCREENREADER, KEYBOARD]: Aside SHOULD not be contained in another landmark](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6379)<br/>**Production** | **Opened:** March 2, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [CMS [AXE-CORE, SCREENREADER]: Heading levels SHOULD increase by one - the alert box heading breaks order](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6375)<br/>**Production** | **Opened:** March 2, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [CMS [KEYBOARD]: Landmarks MUST have a unique role or role/label/title (i.e. accessible name) combination; main nav and sidebar nav conflict](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6368)<br/>**Production** | **Opened:** March 2, 2020 | **Severity:** 508-defect-2 — **_Serious_**
@@ -778,7 +772,6 @@ Back to [Table of Contents](#table-of-contents)
 **Open issues**
 
 - [508-defect-2 [COGNITION]: Contact Us - Table of contact links and information must have well-formed HTML - #17984](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17984)<br/>**Opened:** December 31, 2020 | **Severity:** 508-defect-2 - **_Serious_**
-- [508-defect-3 [COGNITION]: Contact Us - Page should have a "Contact Us" breadcrumb to match top level navigation pattern - #17987](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17987)<br/>**Opened:** December 31, 2020 | **Severity:** 508-defect-3 - **_Moderate_**
 
 Back to [Table of Contents](#table-of-contents)
 
