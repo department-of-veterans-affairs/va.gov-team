@@ -414,7 +414,6 @@ BE
 - Finalize desktop and mobile wireframe #17307
 - LOA1 design
 - Mock up first-time user experience
-- [Design] Submit MyVA wireframes for copy review #17530 (stretch goal)
 
 ### Direct deposit for edu
 
@@ -450,15 +449,11 @@ BE
 - Visual design
 - Gather feedback from design team
 - How do we guide people to the new My VA dashboard? #14581
-- Finalize My VA copy
-
-**FE**
-
-- Start FE build
+- [Design] Submit MyVA wireframes for copy review #17530 
 
 ### Direct deposit for edu
 
-BE READY FOR QA
+BE READY FOR QA NEXT SPRINT
 
 **PM** 
 
@@ -471,7 +466,6 @@ BE READY FOR QA
 **Design**
 
 - Review Erik's initial build
-
 
 ### VA Profile notification preferences
 
@@ -489,17 +483,18 @@ BE READY FOR QA
 
 **PM**
 
-- Prep for usability test prep review
+- Prep for [usability test prep review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#collaboration-format-30-minute-meeting-2)
 
 **Design**
 
 - Finalize visual design
+- Finalize copy
 - Research plan for usability testing of finalized designs
 - Convo guide for usability testing of finalized designs
 
 **FE**
 
-- Continue FE build
+- Start FE build
 
 ### Direct deposit for edu
 
