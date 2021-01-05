@@ -203,11 +203,23 @@ Three female participants expanded “Women Veteran care” first when looking f
 
 #### 10. A Veteran's mental state impacts their ability to cope with challenges.
 
-Many participants shared how their specific mental state can impact their ability to handle certain situations. When in a difficult mental state participants mentioned, difficulty reading lots of text, “big words”, confusion,  getting lost on a hospital campus, or wading through a webpage page to find phone numbers, ignoring a COVID alert, as all being difficult mental tasks.
+Many participants shared how their specific mental state can impact their ability to handle certain situations. When in a negative mental state participants mentioned difficulty with: 
+
+- reading lots of text, “big words” 
+- overall confusion/overwhelm leading to giving up on tasks
+- getting lost on a hospital campus
+- wading through a webpage page to find phone numbers
+- ignoring a COVID alert
+
+Participants called out the yellow banner containing the Vet Center hotline that they could call durring off hours as a good thing but also suggested moving it to the top so that they'd see that first if they were in a bad state.
 
  > “Most people looking for help are just looking for simple. They aren’t looking for long, drawn out. If there gets to be too much information or too many big words that go on and on it’ll lose people, or they’ll just skip over it. When I was looking for help half the stuff I’d skip over it,  I’d be having anxiety headaches, really get confused and don’t want to be bothered by it. Simpler would be a lot more help.”
  
  > “This page looks fine if you're OK, have the time to look through this. But when you need help, you can get a more direct answer by putting in direct words into Google and it will come up directly "Veterans counseling number" or the "Veterans Crisis center" or whatever instead of having to read through all this.”
+ 
+ >"And I also seen in the yellow-orange, if you need to talk to someone after hours. If it was evening, and I felt that I couldn't keep my shit together, I would've called that number first.
+ 
+>"It’d be good to move the after-hours phone number[to the top], or make it bigger and in red letters. maybe don't spell out the 'war vets', just the number bigger, for someone having a really hard mental day."
  
  
 ## Additional Findings
