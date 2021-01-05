@@ -10,7 +10,7 @@
 - [ ] In the Attendees section, make sure everyone except the participant is on mute
 - [ ] In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
 - [ ] [Link to Health Services page](https://www.va.gov/pittsburgh-health-care/health-services/)
-- [ ] [Link to Card Sort](https://adhoc.optimalworkshop.com/optimalsort/b4vhg8q4)
+- [ ] [Link to #Pilot# Card Sort](https://adhoc.optimalworkshop.com/optimalsort/b4vhg8q4)
 
 ## Intro - 5 minutes
 
