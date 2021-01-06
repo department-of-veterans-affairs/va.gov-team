@@ -27,7 +27,7 @@ Before we start, a few things I want to mention:
 Now I'll give you a quick overview of today's session.
 - First, I'll ask you a few warm up questions to get us started.
 
-- Then I will share my screen to show you a health services page on VA.gov. This is just to show how services are shown, before we start the main part of the session.
+- Then I will share my screen to show you a health services page on VA.gov. This is just to show how services are displayed, before we start the main part of the session.
 
 - After that I will send you a link to a web page. On that page, I will take you through 6 quick tasks. The goal of these tasks is for me to understand where you would most likely look for vaccine information on the page.
 
