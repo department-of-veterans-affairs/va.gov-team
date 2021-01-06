@@ -3,7 +3,7 @@
 - Slack channel: [#vsa-vamc-upgrade](https://dsva.slack.com/channels/vsa-vamc-upgrade)
 - VA.gov link: n/a
 - Demo video link: n/a
-- Product POCs: Jenny Heiland-luedtke (Jenny-gov) & Stan Gardner (stan-gcio)
+- Product POCs: David Conlon (Dave-gov) & Stan Gardner (stan-gcio)
 
 ---
 
