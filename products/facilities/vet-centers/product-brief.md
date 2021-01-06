@@ -128,6 +128,10 @@ The following were considered but rejected for MVP
 | Spanish translation | Will need to consider for full roll-out |
 | Tagline | Potential for abuse with "branding", has been removed across VA.gov, needs input from Design Council | 
 
+A separate, but adjacent, effort will be needed to replace vetcenters.va.gov.
+- Campaign landing page was evalauated as an option for this replacement but rejected. 
+- Resource center will also be evaluated. (Decision TBD)
+
 ### Measuring Success
 
 **Options for measuring success**
