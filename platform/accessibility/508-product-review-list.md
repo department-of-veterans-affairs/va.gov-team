@@ -133,8 +133,6 @@ Back to [Table of Contents](#table-of-contents)
 **Production** | **Opened:** August 10, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER]: Legends must be first child element of fieldesets for tabbing navigation - #767](https://github.com/department-of-veterans-affairs/va.gov-team/issues/767)<br/>
 **Production** | **Opened:** August 20, 2019 | **Severity:** 508-defect-2 - **_Serious_**
-- [sitewide, components [SCREENREADER]: Search for dropdown text is read aloud each time a letter is entered into Search city... input - #529](https://github.com/department-of-veterans-affairs/va.gov-team/issues/529)<br/>
-**Production** | **Opened:** August 20, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER]: JAWS does not announce some sections of the multi-step forms when loaded - #317](https://github.com/department-of-veterans-affairs/va.gov-team/issues/317)<br/>
 **Production** | **Opened:** June 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER]: Inline error messages are announcing to IE11 + JAWS when error appears and when it disappears - #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
