@@ -194,6 +194,8 @@ In making that selection, what information would you expect to see about getting
 
 Would you expect it to be part of a regular VA visit or a special visit?
 
+Thank you! That is it for the tasks! As a small favor, would you mind clicking on the Finished button? That just closes out the card sort.
+
 
 
 ## Post-Task Questions - 5 minutes
