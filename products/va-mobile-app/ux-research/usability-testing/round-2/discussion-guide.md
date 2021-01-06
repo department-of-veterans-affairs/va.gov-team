@@ -123,7 +123,7 @@ Let’s go back to the home screen.
 - Would you describe this app as being useful to you?
   - Please describe how the app useful to you. What’s useful about it?
 - Would you recommend this app to your friends? 
-- Can you pretend I’m a friend and you’re recommend the app to me? Why are you recommending it? What would you say? 
+  - Can you pretend I’m a friend and you’re recommend the app to me? Why are you recommending it? What would you say? 
 - Let's say the app I’ve shown you today hits the app stores tomorrow, with exactly what you see here, but you could add 1 more thing - what would you add?
   - Why?
 
