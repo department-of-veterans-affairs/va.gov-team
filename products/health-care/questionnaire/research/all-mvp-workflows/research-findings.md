@@ -18,7 +18,7 @@ This research is to usability test desktop and mobile prototype versions of the 
 
 
 ## Methodology
-We conducted 10 remote moderated usability tests via Zoom using the Perigean contract. This method allowed us to share a high-fidelity wireframe prototype (mobile and desktop versions) to confirm if our questionnaire is easily usable by Veterans.
+We conducted 10 remote moderated usability tests via WebEx using the Perigean contract. This method allowed us to share a high-fidelity wireframe prototype (mobile and desktop versions) to confirm if our questionnaire is easily usable by Veterans.
 
 ### Who we talked with
 - 8 Veterans, 1 Caregiver, and 1 Service Member (will be Veteran in next 30 days)
@@ -30,7 +30,7 @@ We conducted 10 remote moderated usability tests via Zoom using the Perigean con
   - iPhone: 2
   - Desktop: 6
 - Age:
-  - 25-34: 1
+  - 25-34: 2
   - 35-44: 1
   - 45-54: 3
   - 65-74: 2
@@ -45,7 +45,7 @@ We conducted 10 remote moderated usability tests via Zoom using the Perigean con
 
 ## Key findings
 1. Veterans welcomed and even expected email and text notifications for health questionnaires.
-2. Questionnaire links within text messages are more easily overlooked by participants who already receive appointment reminder text messages
+2. Questionnaire links within text messages are more easily overlooked by participants who already receive appointment reminder text messages, because participants automatically reply confirm/cancel and don’t read the rest of the text.
 3. Veterans are interested in receiving multiple notifications (an initial notification and a reminder notification).
 4. Veterans expect to sign in to complete health questionnaires, in order to protect their health records.
 5. The usability of the questionnaire was reconfirmed by Veterans with PTSD and TBI. 
@@ -68,7 +68,7 @@ We conducted 10 remote moderated usability tests via Zoom using the Perigean con
 - A few participants brought up the idea of notifications before they reviewed the prototype examples.
 - Side note: When shown the Drupal page introducing this feature, three participants said they would never want to see the Drupal page. They just want to come to questionnaires via notifications. The Drupal page didn’t really receive much feedback (good or bad). One mentioned that they liked the consistency across VA.gov. Most of the Veterans went “it is ok.” One participant did comment that it was good, “especially for new users.”
 
-**Questionnaire links within text messages are more easily overlooked by participants who already receive appointment reminder text messages.**
+**Questionnaire links within text messages are more easily overlooked by participants who already receive appointment reminder text messages, because participants automatically reply confirm/cancel and don’t read the rest of the text.**
 - Three out of four participants shown the text message mentioned that they currently receive these text messages. 
   - Two out of the three participants stated they would just confirm or cancel. They didn’t review the rest of the text and had to be prompted to review the questionnaire link.
   
@@ -83,7 +83,7 @@ We conducted 10 remote moderated usability tests via Zoom using the Perigean con
 - “Change the title of it, so it is less like a computer-generated survey, [such as] Dr. So-and-so would like to ask you a few questions before your next appointment.”
 
 **Veterans expect to sign in to complete health questionnaires, in order to protect their health records.**
-- 100% of participants commented that signing in was a good thing for this feature due to security and privacy concerns.
+- 100% of participants (10 out of 10 participants) commented that signing in was a good thing for this feature due to security and privacy concerns.
 - “I think that it is a good things, since you are asking health questions. Now, it is associated with my account. It keeps anybody else from messing with it and getting the information.”
 
 **The usability of the questionnaire was reconfirmed by Veterans with PTSD and TBI.**
@@ -97,16 +97,16 @@ We conducted 10 remote moderated usability tests via Zoom using the Perigean con
   - “If this looks like adding another step, because the nurse re-asks these questions, then I will never log on here again. You get that one chance.”
 
 **Veterans want to view more appointment details when completing health questionnaires.**
-- 60% of participants suggested displaying more appointment information throughout the questionnaire workflows, specifically on the list of all questionnaires and confirmation page.
+- 60% of participants (6 out of 10 participants) suggested displaying more appointment information throughout the questionnaire workflows, specifically on the list of all questionnaires and confirmation page.
   - The most common requests were:
     - Appointment time
     - Provider’s name
     - Clinic name, address with room number, and/or hours
 
 **Veterans still plan to print their questionnaire to take with them to their appointment.**
-- 60% of all participants mentioned that they would probably print out their questionnaire responses.
-- 50% of mobile participants are interested in printing.
-- 66% of desktop participants are interested in printing.
+- 60% of all participants (6 out of 10 participants) mentioned that they would probably print out their questionnaire responses.
+- 50% of mobile participants (2 out of 4 participants) are interested in printing.
+- 66% of desktop participants (4 out of 6 participants) are interested in printing.
 - Participants ssaw printing as a way to remind themselves of what they wanted to discuss at the appointment.
   - “I typically bring things with me, so this could be my reminder of the things I want to look at/talk about.”
 - Participants not interested in printing mostly stated that they see no need to print these questionnaires.
@@ -126,7 +126,7 @@ We conducted 10 remote moderated usability tests via Zoom using the Perigean con
       - connecting their pre-visit questionnaire questions with a lab result. 
 
 **Veterans are not interested in seeing not submitted questionnaires, except when they started the questionnaire, then the appointment was canceled.**
-- Only 30% of participants had an interest in viewing not submitted questionnaire information on a list of all their questionnaires.
+- Only 30% of participants (3 out of 10 participants) had an interest in viewing not submitted questionnaire information on a list of all their questionnaires.
   - One participant only wanted to see not submitted questionnaires, so they knew their appointment date. The value was with the appointment information and not the questionnaire information.
 - Eight out of 10 participants are interested in viewing in-progress questionnaires for canceled appointments, because they believe it might help with rescheduling and filling out the questionnaire for the rescheduled appointment.
   - Four out of four participants wanted additional text, such as “Your answers will be available for the next X days,” if the not submitted but cancel appointment questionnaires would eventually disappear.
@@ -140,17 +140,17 @@ We conducted 10 remote moderated usability tests via Zoom using the Perigean con
   - They also emphasized the need to understand the meaning behind the scores.
 
 **When entering through the main VA.gov homepage, Veterans were split on whether they wanted to navigate to these health questionnaires via a badge/notification on a dashboard or the appointments section.**
-- 50% of the participants selected a badge/notification on an authenticated  dashboard.
-- The other 50% of participants selected navigating to the appointments section.
+- 50% of the participants (5 out of 10 participants) selected a badge/notification on an authenticated  dashboard.
+- The other 50% of participants (5 out of 10 participants) selected navigating to the appointments section.
 - The four PTSD and TBI participants were also split 50/50 between the above options.
 
 **Miscellaneous findings**
 - One participant requested a Spanish version of the interface.
 - Two participants requested a link to the Profile section to update any demographic information as they were filling out this form. 
   - Participants requested to link to Profile and not editing demographics within the form.
-- 70% of participants understood the difference between the buttons (Answer Questions versus Continue Questions) on the Questionnaire list (To do tab).
+- 70% of participants (7 out of 10 participants) understood the difference between the buttons (Answer Questions versus Continue Questions) on the Questionnaire list (To do tab). 
   - However, most of the 70% had to be explicitly asked about the buttons before they determined the difference.
-  - Even the other 30% knew that they had to click on either button to finish the questionnaires.
+  - Even the other 30% (3 out of 10 participants) knew that they had to click on either button to finish the questionnaires.
 - Two older participants commented that our examples of life events were for younger people and that they would like to see examples that apply to them (retirement or caregiving).
 - Menopausal participant brought up pre-visit questions about pregnancy, etc (actually made to take pregnancy tests). Never asked about menopausal concerns/symptoms.
 
@@ -173,6 +173,7 @@ Additions that can be explored by the product team
 - Depending upon email conversion rates, explore a PII questionnaire email, similar to the texting solution already used by VeText. 
 - Re-evaluate reminder text that is sent a day prior to the appointment with questionnaire only information.
 - Explore sorting and filtering on the Questionnaire list (Completed tab).
+- Revisit the Veteran information (demographics) page to explore editing options.
 
 Additions to explore by working with other VA.gov product teams
 - Work with VAOS and the authenticated experience teams to add questionnaire information within their products.
