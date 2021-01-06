@@ -25,13 +25,21 @@
 
 Agenda 
 
-- Erie dual state launch
+- Erie dual state launch:
+  - Currently nothing needed from either CMS or VAMC Upgrade team
+  - Will monitor and track towards 1/11 for target date, Lebanon and Wiles-Barre around 1/18
 - CMS orientation feedback from Ryan
+  - Decision from Dave Conlon to wait until transformers/tome sync is live in production and couple communication with him around cut over for content model hardening with facility service model
+  - Projected around Febraury to re-engage for his feedback
 - Live training for facility status updaters
+  - To be discussed with Michell Middaugh and the Facilities team directly
 - Transition from DevShop to Tugboat updates (announcement here: https://dsva.slack.com/archives/CDHBKAL9W/p1609957217325700)
+  - The CMS team will schedule and give training for relevant stakeholders from the VAMC Upgrade, Facilities, and Public Websites teams on this in roughly 2-3 weeks
 - CMS orientation session 5 content review, holding Tues., Jan. 12, 10-11:30 a.m. ET for live training
   - Invitation sent out on 1/5/21
 
+Action item:
+- CMS team to engage the VAMC Upgrade team whenever any questions or conerns from users about menus arise. This is to help move support over business processes to VHA/VAMC parties and allow the CMS team to focus on technical support.
   
 ## Wednesday Dec 30 2:30pm ET
 
