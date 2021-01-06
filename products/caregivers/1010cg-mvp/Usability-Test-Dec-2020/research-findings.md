@@ -46,15 +46,15 @@ A task-based remote, moderated usability study was conducted via GoToMeeting bet
 
 ## Key Findings
 
-Participants encountered pain points in the form but were able to achieve the goal of applying with a selected Caregiver 
-Some participants did have some confusion with the verbiage of the Primary Family Caregiver question (Would you like to add a Primary Family Caregiver?) 
-Only two participants applied with a Secondary Family Caregiver 
-Some participants found who can become a Secondary Family Caregiver and their role unclear.  
+1. Participants encountered pain points in the form but were able to achieve the goal of applying with a selected Caregiver 
+2. Some participants did have some confusion with the verbiage of the Primary Family Caregiver question (Would you like to add a Primary Family Caregiver?) 
+3. Only two participants applied with a Secondary Family Caregiver 
+4. Some participants found who can become a Secondary Family Caregiver and their role unclear.  
 
 
 ## Details of Findings
 
-Participants encountered pain points in the form but were able to achieve the goal of applying with a selected Caregiver 
+**Participants encountered pain points in the form but were able to achieve the goal of applying with a selected Caregiver**
 
 Some participants did have some confusion with the verbiage of the Primary Family Caregiver question (Would you like to add a Primary Family Caregiver?)  
 
