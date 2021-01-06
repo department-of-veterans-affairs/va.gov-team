@@ -27,7 +27,7 @@
 
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
-Online FSR form | www.va.gov/manage-va-debt/[form-name] | Home > Manage VA debt > [H1] | Final URL slug and breadcrumb component TBD based on content work
+Online FSR form | www.va.gov/manage-va-debt/request-debt-help-5655/ | Home > Manage VA debt > Request help with VA debt with VA Form 5655 | Final URL slug and breadcrumb component TBD based on content work
 Resources and support content pages | --- | --- | These pages will be defined and published by Public Websites team
 
 ## <a name="nav"></a>Navigation and Entry Points <br>
@@ -35,12 +35,15 @@ Resources and support content pages | --- | --- | These pages will be defined an
 
 Priority | Placement | Link to | Description
 --- | --- | --- | ---
-Must | [Manage VA debt static content page](www.va.gov/manage-va-debt/)   |  www.va.gov/manage-va-debt/[form-name] | 
+Must | [Manage VA debt static content page](www.va.gov/manage-va-debt/)   |  www.va.gov/manage-va-debt/request-debt-help-5655/ | Link label determined by writer.
+Should | [Find form tool](https://www.va.gov/find-forms/) | www.va.gov/manage-va-debt/request-debt-help-5655/ | Add link to online tool in search results. Use standard CTA and label. 
+Should | [Find form tool detail page for 5655](https://www.va.gov/find-forms/about-form-5655/) |  www.va.gov/manage-va-debt/request-debt-help-5655/ | Add link to online tool on form detail page. Use standard CTA and label. 
 Consider | [Records hub page](www.va.gov/records/) | www.va.gov/manage-va-debt/ | Recommendation: Add an option to "Manage your VA debt" option after the view payments option.
 Consider | Records top nav | www.va.gov/manage-va-debt/ | Recommendation: Move the "Request military records" option to the "Get records" column after the home loan COE option.  Add this option to "Manage your VA debt" to the "Manage" column after the view payments option.  
 Consider | Records left nav | www.va.gov/manage-va-debt/ |  Recommendation: Add an option to "Manage your VA debt" option after the view payments option.
 
-***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
+
+***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Recommendation/at your discretion/possible enhancement* 
 
 
 ## <a name="redirects"></a>Redirects <br>
@@ -55,9 +58,9 @@ https://www.va.gov/debtman/Payment_Options.asp | www.va.gov/manage-va-debt/ |
 https://www.va.gov/debtman/Submit_Compromise_Offer.asp | www.va.gov/manage-va-debt/ | 
 https://www.va.gov/debtman/Submit_A_Waiver_Request.asp | www.va.gov/manage-va-debt/ | 
 https://www.va.gov/debtman/Financial_Status_Report.asp | www.va.gov/manage-va-debt/ | 
-https://www.va.gov/debtman/Debt_Referral.asp | TBD  | Resources and support article
-https://www.va.gov/debtman/Most_Frequently_Asked_Questions.asp | TBD | Resources and support article
-https://www.va.gov/debtman/Frequently_Asked_Questions.asp | TBD | Resources and support article
+https://www.va.gov/debtman/Debt_Referral.asp | Resources and support article created by PW team | 
+https://www.va.gov/debtman/Most_Frequently_Asked_Questions.asp | Resources and support article created by PW team  | 
+https://www.va.gov/debtman/Frequently_Asked_Questions.asp | Resources and support article created by PW team  | 
 https://www.va.gov/debtman/Whom_To_Call.asp | TBD | Resources and support article
 https://www.va.gov/debtman/site_search.asp | www.va.gov/manage-va-debt/ | 
 https://www.va.gov/debtman/Site_Map.asp | www.va.gov/manage-va-debt/ | 
