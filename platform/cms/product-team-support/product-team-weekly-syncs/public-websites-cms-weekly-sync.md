@@ -65,9 +65,9 @@
 
 - Tech debt: swapping out `field_intro_text` with `field_intro_text_limited_html`
   - Background: the old intro text field allows html that it shouldn't. Tech debt from the original Benefits Hub build. CMS team did half the work to fix this in Q2 2020. Would like to finish this out. 
-  - Content with invalid html (tocs and buttons) was moved December 30 to appropriate places in the content. #3903 (basically done)
-  - next steps: FE template should use the new field. CMS team can handle the liquid template, but not the transformer. #1166 (quick template work, but will require transformer adjustment).
-  - Then CMS team can remove the old field from CMS, and the script that copies each edit over to new field. (#1421)
+    - Content with invalid html (tocs and buttons) was moved December 30 to appropriate places in the content. #3903 (basically done)
+    - next steps: FE template should use the new field. CMS team can handle the liquid template, but not the transformer. #1166 (quick template work, but will require transformer adjustment).
+    - Then CMS team can remove the old field from CMS, and the script that copies each edit over to new field. (#1421)
   
 
 ## Wednesday Dec 23 10am ET
