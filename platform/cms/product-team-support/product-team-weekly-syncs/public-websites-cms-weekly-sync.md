@@ -42,24 +42,24 @@
 
 - [Review sprint 23 backlog](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/board?epics=154174777_2275,154174777_2274,154174777_2273,154174777_1475&filterLogic=any&repos=154174777)
   - 3921 Link teaser should allow 3 (3 pts)
-  - 3922 Events entity browser missing some events (unable to reproduce)
+  - 3922 Events entity browser missing some events (unable to reproduce, will connect Kaise with John to review)
   - 3924 Max 2 related benefits (needs refining)
   - 3926 Broken link checker false positive (8 pts)
 
 - Questions from Public Website Team: 
-  - What FE actions (if any) are needed to build accordions FAQ’s?
+  - What FE actions (if any) are needed to build accordions FAQ’s?: determined to be handled by PW team
 
-  - Is layout/view already mobile capable or will a mobile version needed to be considered during FE build?
+  - Is layout/view already mobile capable or will a mobile version needed to be considered during FE build?: determined to be handled by PW team
 
-  - What are the 508 & a11y considerations? (Previous discussions/findings?)
+  - What are the 508 & a11y considerations? (Previous discussions/findings?): determined to be handled by PW team
 
-  - Have we consider CTA tracking and analytics per campaign i.e. how do we make this turnkey for analytics tracking requests/reviews.
+  - Have we consider CTA tracking and analytics per campaign i.e. how do we make this turnkey for analytics tracking requests/reviews.: determined to be handled by PW team and PO
 
-  - What is the current planned "governance" considerations? What should be considered/known as we build FE elements?
+  - What is the current planned "governance" considerations? What should be considered/known as we build FE elements?: determined to be handled by PW team and PO
 
 ### Resources & support
 
-- What's left?
+- What's left?: all major functionality has been built with the exception of videos, which will be revisited after the February Drupal update
 
 ### Benefits detail pages
 
@@ -68,7 +68,7 @@
     - Content with invalid html (tocs and buttons) was moved December 30 to appropriate places in the content. #3903 (basically done)
     - next steps: FE template should use the new field. CMS team can handle the liquid template, but not the transformer. #1166 (quick template work, but will require transformer adjustment).
     - Then CMS team can remove the old field from CMS, and the script that copies each edit over to new field. (#1421)
-  
+- CMS team to communicate through PW intake process. 
 
 ## Wednesday Dec 23 10am ET
 
