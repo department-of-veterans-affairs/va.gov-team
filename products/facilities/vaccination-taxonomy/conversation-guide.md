@@ -44,7 +44,7 @@ Now I'll give you a quick overview of today's session.
 
 - Can you tell me a little about your service history?
 
-- Have you visited a VA Facility for healthcare in the past year?
+- Have you visited a VA Facility for healthcare in the past couple of years, or perhaps before the pandemic?
     - If yes, can you tell me about that?
     
 - Have you had any vaccines in the last 10 years? Can you share any reasons behind your decision?
@@ -107,7 +107,7 @@ In making that selection, what information would you expect to see about getting
 Would you search for flu or influenza?
 
 Have you had the flu vaccine? 
-    - <em>(If yes, received vaccine)</em> When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program? (Ask for each of the vaccines that the participant states having received).
+    - <em>(If yes, received vaccine)</em> When you received it, was it part of a VA visit? Pharmacy visit? Town hall or other community-based vaccination program? (Ask for each of the vaccines that the participant states having received). Have you gotten the flu vaccine at other locations outside of the VA?
 
 
 ### Task 2 Scenario
