@@ -16,7 +16,7 @@ Thanks for joining us today! My name is Peter Russo and I also have some colleag
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [one hour].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 
@@ -68,17 +68,16 @@ As I mentioned earlier, this is a demo tool that may not function exactly the wa
 
 `Start Task 1 when screen is shared`
 
-### Task 1 - Usefulness of information
+### Task 1 - SL Page - Usefulness of information
 
 * First, take a look at this page, scroll around. Tell me what this page is for and what you think you can do here. Share any thoughts, questions, or things that you find confusing or helpful.  
 
+### Task 2 - Manage appointments
 
-### Task 2 - Manage appointments list
-
-* If you had health care appointments scheduled, could you find them from here?
+* If you had health care appointments scheduled, how would you find them from here?
 
 
-## Section 2: Home page
+## Section 2: Home page/Appointments list
 
 ### Task 1 - Comprehension
 
@@ -90,7 +89,7 @@ As I mentioned earlier, this is a demo tool that may not function exactly the wa
         * Video appointment
         * Express care / phone
         * Canceled
-
+      
 ### Task 2 - Find appointment details
 
 * What clinic will you go to during your upcoming appointment at Cheyenne VA Medical center?
@@ -103,7 +102,7 @@ As I mentioned earlier, this is a demo tool that may not function exactly the wa
     * Reschedule
     * Cancel
 
-* Who canceled the one canceled appointment in the list?
+* Who canceled the canceled appointment in the list?
 
 ### Task 3 - Find appointment requests
 
@@ -114,15 +113,13 @@ As I mentioned earlier, this is a demo tool that may not function exactly the wa
 * Sometimes when you're scheduling appointments, we need to call you to confirm the appointment before it's finalized. 
     * How would you expect to find appointments like that?
 
-
 ## Section 3: Reschedule
-
 
 ### Task 1 - Find the reschedule option
 
 * Say you want to move your upcoming January 25th appointment to later in the week, specifically Friday afternoon. How would you do that?
 
-### Task 2 - Complete the reschedule
+### Task 2 - Finish rescheduling
 
 * Move your upcoming appointment to Friday afternoon.
 
@@ -134,7 +131,7 @@ Thank you for working through that with me. I just have a few more questions bef
 
 ## Thank-You and Closing
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
 Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
     If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
