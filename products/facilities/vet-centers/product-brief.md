@@ -115,18 +115,30 @@ Five additional locations were chosen with the intent of filling any gaps in rep
  | Sacramento, CA | Joseph.Moglia@va.gov |   |
 
 ### Not currently in scope
-- Staff Profiles
-- Events
-- Social Media
-- Stories
-- Spanish Translation (at least for the first 10 pilot facilities, but need to consider for full roll-out)
+
+The following were considered but rejected for MVP
+
+| Content area | Rationale |
+| ------- | -------- |
+| Staff Profiles | Level of effort to maintain locally, challenge presented by inaccurate profiles |
+| Events | Not all events are open to all clients or to new/potential clients |
+| Social Media | Historically has not been allowed |
+| Stories | Level of effort to maintain locally |
+| Spanish translation | Will need to consider for full roll-out |
+| Tagline | Potential for abuse with "branding", has been removed across VA.gov, needs input from Design Council | 
 
 ### Measuring Success
+
+**Options for measuring success**
 - SEO optimization, search results rankings
 - Increased phone calls of Vet Centers (call to action?)
 - Decreased conflation of Vet Center = VA Clinic (possibly through phone calls?)
 - Increased utilization of Vet Center services (?)
 - Increased understanding of Vet Center services (scroll depth, expansion)
+- Rank in Google search
+- **Verified contacts/month (currently exists Vet Center) -> considered most valuable by Ouotreach Specialists** 
+   - (in-bound) Referral source is tracked nationally (how did you hear of us?) (NSS)
+   - Not all Vet Centers capture call data (can be standardized)
 
 ### Dependencies
 _Are other features dependent on this one? What do we need from partners? What do we need outside of engineering?_
@@ -139,8 +151,6 @@ _Are other features dependent on this one? What do we need from partners? What d
 - Aptiv: This vendor will be asssting with data collection and organization from the technical side
   
 ### Risk factors
- 
-### Rejected Solutions
 
 ### Definition of Done
 - Vet Center Facility Detail pages include a comprehensive, accurate list of services in Veteran facing language.
