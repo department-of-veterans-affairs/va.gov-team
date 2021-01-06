@@ -11,16 +11,6 @@
 ## Overview
 ### Objective
 
-We want to answer the following questions:
-
-    Why do we want a command-line interface (CLI)?
-    How do we build & deploy features into a CLI?
-    What infrastructure resources do we use?
-    How is the CLI installed & configured?
-    How could VFS users use the CLI to make development easier?
-
-The intended audience is VSP software engineers, particularly those on the Operations, FE Tools, and BE Tools teams.
-
 - Build a cohesive set of command line tools used by VFS teams to make development easier.
 - Solving and preventing problems with self-service,
 - Primary product user is VFS engineer, though VSP team(s) will dogfood while building
@@ -49,13 +39,13 @@ For as much as we can, we should aim to build a single source of truth. This wil
 
 ### Code Location
 
-- We will host the `vsp-toolkit` as the core/main library and package it as a rubygem
+- We will host the code and package it as a rubygem, `vtk`
 - We are hosting the respository (here)[https://github.com/department-of-veterans-affairs/vtk]
 - Currently waiting a content review to change the repository from private to public. Email was sent to ossoft@va.gov on 1/4/2021
 
 ### Testing Plan
 
-- `rspec` can be used to test `TTY`.  As the tool developes we'll get a better understanding of the testing needs.
+- `rspec` can be used to test `TTY`.  As the tool develops we'll get a better understanding of the testing needs.
 - commands will often be their own scripts, so they should be tested in their own development cycle
 - Github Actions runs an automated build job (rake, rubocop) for building, testing and code review purposes.
 
