@@ -73,31 +73,35 @@ Sub-Modules](https://git-scm.com/book/en/v2/Git-Tools-Sub-Modules)._
 ## Specifics
 
 ### Detailed Design
-_Designs that are too detailed for the above High Level Design section belong
-here. Anything that will require a day or more of work to implement should be
-described here._
+Key technologies we'll use:
+- React
+- TypeScript
 
-_This is a great place to put APIs, communication protocols, file formats, and
-the like._
+#### Routing
 
-_It is important to include assumptions about what external systems will
-provide. For example if this system has a method that takes a user id as input,
-will your implementation assume that the user id is valid? Or if a method has a
-string parameter, does it assume that the parameter has been sanitized against
-injection attacks? Having such assumptions explicitly spelled out here before
-you start implementing increases the chances that misunderstandings will be
-caught by a reviewer before they lead to bugs or vulnerabilities. Please
-reference the external system's documentation to justify your assumption
-whenever possible (and if such documentation doesn't exist, ask the external
-system's author to document the behavior or at least confirm it in an email)._
+#### Form page builder
 
-_Here's an easy rule of thumb for deciding what to write here: Think of anything
-that would be a pain to change if you were requested to do so in a code review.
-If you put that implementation detail in here, you'll be less likely to be asked
-to change it once you've written all the code._
+#### Validation
+Validation will be run on the `onBlur` event for clean inputs and on the
+`onChange` event for dirty inputs. When any validation is run, the validation
+will be run on all dirty inputs to ensure a later field doesn't invalidate an
+earlier one.
+
+**Discussion:** Alternatively, validation may be run on all dirty inputs only
+during the `onBlur` event.
+
+#### State management
+
+#### Save-in-progress
+
+#### Review page
+This will be an optional page included in the `Router`'s `pageList` if desired.
+
+#### Submission validation
 
 ### Code Location
-_The path of the source code in the repository._
+Formulate will live in its own repo. The documentation for it will be located at
+`docs/` by the code.
 
 ### Testing Plan
 _How you will verify the behavior of your system. Once the system is written,
@@ -135,17 +139,13 @@ N/A
 N/A
 
 ### Open Questions and Risks
-_This section should describe design questions that have not been decided yet,
-research that needs to be done and potential risks that could make make this
-system less effective or more difficult to implement._
-
-_Some examples are: Should we communicate using TCP or UDP? How often do we
-expect our users to interrupt running jobs? This relies on an undocumented
-third-party API which may be turned off at any point._
-
-_For each question you should include any relevant information you know. For
-risks you should include estimates of likelihood, cost if they occur and ideas
-for possible workarounds._
+- Not using the same JSON schema to create the form fields as used in the data
+  validation opens the possibility that submitted data will fail validation
+  - For example, say the first name field doesn't have any validation in the
+    JSX, but the JSON schema contract with the API specifies a `maxLength`
+    of 25. A user can enter a name that's 27 characters long and not trigger any
+    validation errors until the submission step.
+  - This is a potential regression in UX
 
 ### Work Estimates
 _Split the work into milestones that can be delivered, put them in the order
