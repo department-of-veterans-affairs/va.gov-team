@@ -90,7 +90,7 @@ Developers are expected to:
 
 1.  Get familiar with [VSP's severity rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md) (508-defect-0 & 508-defect-1 are launch blockers).
 
-2.  Before beginning development for  a new initiative, reach out in our [#vsa-accessibility](https://dsva.slack.com/channels/vsa-accessibility) channel or [schedule a developer intent check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md#development-intent-review) with your VSA accessibility specialist to make sure you're starting on the right foot.
+2.  Before beginning development for  a new initiative, [schedule a developer intent check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md#development-intent-review) with your VSA accessibility specialist to make sure you're starting on the right foot.
 
 3.  Install the axe and axe-coconut browser plugins on your development system, per the [software list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/onboarding/VSA%20Technical%20Orientation.md#software-list) in [VSA Developer Orientation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/onboarding/VSA%20Technical%20Orientation.md).
 
