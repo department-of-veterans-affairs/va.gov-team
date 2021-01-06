@@ -28,6 +28,7 @@ Agenda
 - Erie dual state launch
 - CMS orientation session 5 content review, holding Tues., Jan. 12, 10-11:30 a.m. ET for live training
 - CMS orientation feedback from Ryan
+- Live training for facility status updaters
 
   
 ## Wednesday Dec 30 2:30pm ET
