@@ -14,6 +14,8 @@ This document will focus on Vet Center detail page enhancement
 
 [Not in Scope](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/feature-brief.md#not-currently-in-scope)
 
+[Decisions]
+
 [Measuring Success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/feature-brief.md#measuring-success)
 
 [Dependencies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/feature-brief.md#dependencies)
@@ -115,7 +117,13 @@ Five additional locations were chosen with the intent of filling any gaps in rep
  | Great Falls, MT | Richard.Ferry@va.gov |  |
  | Sacramento, CA | Joseph.Moglia@va.gov |   |
 
-### Not currently in scope
+### Not in scope
+
+A separate, but adjacent, effort will be needed to replace vetcenters.va.gov.
+- Campaign landing page was evalauated as an option for this replacement but rejected. 
+- Resource center will also be evaluated. (Decision TBD)
+
+### Decisions 
 
 The following were considered but rejected for MVP
 
@@ -127,12 +135,9 @@ The following were considered but rejected for MVP
 | Stories | Level of effort to maintain locally |
 | Spanish translation | Will need to consider for full roll-out |
 | Tagline | Potential for abuse with "branding", has been removed across VA.gov, needs input from Design Council | 
+| Facility operating status for CAP | not in VAST, challenges with maintaining, need to determine how to display and communicate to Veterans |### Measuring Success
 
-A separate, but adjacent, effort will be needed to replace vetcenters.va.gov.
-- Campaign landing page was evalauated as an option for this replacement but rejected. 
-- Resource center will also be evaluated. (Decision TBD)
-
-### Measuring Success
+## Measuring success
 
 **Options for measuring success**
 - SEO optimization, search results rankings
