@@ -41,7 +41,7 @@ For as much as we can, we should aim to build a single source of truth. This wil
 
 - We will host the code and package it as a rubygem, `vtk`
 - We are hosting the respository (here)[https://github.com/department-of-veterans-affairs/vtk]
-- Currently waiting a content review to change the repository from private to public. Email was sent to ossoft@va.gov on 1/4/2021
+- The [vtk gem](https://rubygems.org/gems/vtk) was published to RubyGems on 1/5/2020
 
 ### Testing Plan
 
