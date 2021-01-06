@@ -1,5 +1,8 @@
 # Financial Status Report Design
 
+## Important links
+- [Wizard design and content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/design/wizard-design-content.md)
+
 ## Current Wireflow
 **Date:** October 21, 2020
 
