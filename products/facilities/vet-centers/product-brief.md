@@ -180,5 +180,5 @@ _Links to requirements documentation, wireframes/mock-ups, research, etc._
 
 [Findings from Vet Center Client Research, September 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/veteran-interviews/Vet-Centers-Client-Research-Findings.pdf)
 
-[Findings from Research Findings: Vet Center - non-client, Veteran, December 2020](TBD)
+[Findings from Research Findings: Vet Center - non-client, Veteran, December 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/veteran-usability-tests/research-findings.md)
 
