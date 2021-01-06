@@ -65,11 +65,12 @@ _What's in and what's out?_
 - By establishing the content model for Vet Centers during 4Q 2020, we can be prepared to execute on that model in Q1 2021 and support our long-term goal of 10 pilot vet centers built in Q4 2021
 
 **MVP**
+
 Primary problems to solve: 
 - Locations
 - Services Provided
 
-**Plan to include**
+Will include the following:
 - Vet Center intro
 - Link to "What is a Vet Center" content (to be built) (Call to action?)
 - Call to action "Call us"
