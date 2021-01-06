@@ -45,3 +45,5 @@ A task-based remote, moderated usability study was conducted via GoToMeeting bet
 - Will confusion be caused in any way by the addition of the Primary Family Caregiver question
 
 ## Key Findings
+
+1. Some participants did have some confusion with the verbiage of the Primary Family Caregiver question 
