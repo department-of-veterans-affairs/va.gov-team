@@ -457,15 +457,23 @@ Back to [Table of Contents](#table-of-contents)
 ---
 #### Higher Level Review
 
-**Audit status:** _[VSA Staging Review started on November 11, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16047)_<br/>
+**Audit status:** _[VSA Staging Review first pass completed on December 30, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16047)_<br/>
 **Open issues**
 
 - [508-defect-1 ❗ Launchblocker [SCREEN READER, COGNITION]: Error messages MUST be associated with that input - #16222](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16222)<br/>**Staging** | **Opened:** November 13, 2020 | **Severity:** _508-defect-1 - **Critical**_
 - [508-defect-1 ❗ Launchblocker [SEMANTIC MARKUP, COGNITION]: Groups of form elements MUST have group labels (e.g. fieldset and legend) - #16224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16224)<br/>**Staging** | **Opened:** November 13, 2020 | **Severity:** _508-defect-1 - **Critical**_
 - [Work-in-progress 508-defect-1 [COGNITION, SEMANTIC MARKUP]: Form field instructions MUST be associated with inputs or buttons - #16261](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16261)<br/>**Staging** | **Opened:** November 13, 2020 | **Severity:** _508-defect-1 - **Critical**_
+- [508-defect-1 ❗ Launchblocker [KEYBOARD]: Radio options MUST be navigable using the keyboard - #17766](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17766)<br/>**Staging** | **Opened:** December 20, 2020 | **Severity:** _508-defect-1 - **Critical**_
 - [508-defect-2 [COGNITION]: Content structure MUST be organized clearly, and follow the Plain Language Guidelines - #16203](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16203)<br/>**Staging** | **Opened:** November 13, 2020 | **Severity:** _508-defect-2 - **Serious**_
 - [508-defect-2 [COGNITION, SCREEN READER, MOBILE]: Mobile and screen reader users SHOULD know there is relevant info after the call-to-action button - #16182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16182)<br/>**Staging** | **Opened:** November 13, 2020 | **Severity:** _508-defect-2 - **Serious**_
-- [sitewide 508-defect-3 [COGNITION, SCREENREADER, SEMANTIC MARKUP]: The TTY number SHOULD not include TTY in the aria-label - #16178](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16178)<br/>**Staging** | **Opened:** November 13, 2020 | **Severity:** _508-defect-3 - **Moderate**_
+
+- [508-defect-2 [COGNITION, SCREEN READER]: Important alerts should be announced to screen reader users - #17817](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17817)<br/>**Staging** | **Opened:** December 20, 2020 | **Severity:** _508-defect-2 - **Serious**_
+- [508-defect-2 [COGNITION, SCREEN READER]: Screen reader users SHOULD hear alerts when they appear on the page - #17814](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17814)<br/>**Staging** | **Opened:** December 18, 2020 | **Severity:** _508-defect-2 - **Serious**_
+- [508-defect-2 [COGNITION]: Content MUST be legible to users on all viewports and up to 400x zoom - #17789](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17789)<br/>**Staging** | **Opened:** December 19, 2020 | **Severity:** _508-defect-2 - **Serious**_
+- [508-defect-2 [COGNITION]: Heading levels SHOULD increase by one in a logical order - #17846](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17846)<br/>**Staging** | **Opened:** December 17, 2020 | **Severity:** _508-defect-2 - **Serious**_
+- [508-defect-2 [KEYBOARD]: Focus MUST be returned to the Edit button when Update page is pressed or clicked - #17825](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17825)<br/>**Staging** | **Opened:** December 18, 2020 | **Severity:** _508-defect-2 - **Serious**_
+- [508-defect-2 [COGNITION, SCREEN READER]: Edit buttons SHOULD have accessible labels when editing inline data on Review screen - #17824](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17824)<br/>**Staging** | **Opened:** December 17, 2020 | **Severity:** _508-defect-2 - **Serious**_
+
 
 Back to [Table of Contents](#table-of-contents)
 
