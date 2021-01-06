@@ -26,7 +26,7 @@ Expectations per Discipline
 
 If a feature reaches the Staging Review, and has [508-defect-0 or 508-defect-1 accessibility issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md), the feature will be blocked from launching. To avoid this, product managers should:
 
-* Read the [VSP accessibility staging review requirements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md). Ask Jennifer if there are any questions.
+* Read the [VSP accessibility staging review requirements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md). 
 
 * Ensure that there is acceptance criteria in tickets for running the below early scans
 
