@@ -48,6 +48,7 @@ How might we set up the online form to allow Veterans' representatives to comple
 - Number of online Caregiver applications filled out per month
 - Number of dropped/failed attachments
 - User feedback (ForeSee)
+- Feedback from CSCs on utility
 
 
 #### Baseline KPI Values
@@ -59,6 +60,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 - Objective: Make it easier for Veterans with representatives to fill out the online form
   - Key result: number of applications filled out by representatives
+  
 
 
 ---
