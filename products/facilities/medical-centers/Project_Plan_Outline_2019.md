@@ -97,20 +97,29 @@ In progress
 - **January 2020**: Content will begin flowing through content approval process and begin being loaded into narrative/content files in Drupal.
 
 ## How to Access and Test
-- New pre-production - "TBD" - Drupal experience created in pre-production first and tested.
-- 508 compliance and accessibility checked after content in created.
-- User authentication info: Update passwords both [Not available yet!]() and 
-[Not available yet!]()
+- New pre-production - [DEVSHOP_Development site instances](http://devshop.cms.va.gov/projects)
+- All preliminary testing, Internal, Staging review can be complete here
+- **Dual-State** (Non-customer facing)
+- 508 compliance and accessibility checks to be complete in Dual-State.
+- All final testing can be completed in Dual state
+- Analytics and reporting to begin in Dual state
+-User authentication info: Editorial = Drupal PIV access (See CMS Procedures) 
+
+
 ### Content
 - Content approval process document [https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/medical-centers/]
 ## Error Handling
-...TBD
+...N/A - This is not a new application, content and data input only.
+Error handling is managed by CMS-support.
 
 ## Service Level Objective
-...TBD
+...N/A
 
 ## API Calls and Dependent Systems
-...TBD
+- As per va.gov/pittsburgh-health-care, Facilities information pulls from API Lighthouse
+* Facility Address
+* Facility Hours of Operation
+* Facility Main phone (if available)
 
 ## Resources and Documentation
 
@@ -127,23 +136,11 @@ In progress
 - vamc, Medical Centers, VISN 4, vamc-upgrade,
 
 ## Team
-- DSVA Product Manager: Jenny Heiland-luedtke
-- DSVA Supporting Product Manager: Andy Lewandowski
+- DSVHA Digital Product Owner: Jenny Heiland-luedtke
+- DSVHA Digital Supporting Product Owner: Jeff Grandon
+- DSVHA Digital Supporting Product Owner: Steve Trokar
+- DSVA Product Owner: David Conlon
 - Team Product Manager: Stan Gardner
-- VA Regional PAO(s): TBD
-- VA local site PAO(s): TBD
-- Managing Editor: Louis Carlozo
-- Business Analysts: 
-  + Chanelle Blakely<br>
-  + Lisa Trombley
-- Content Writers: 
-  + Larry West
-  + Kim Mueller
-- Front-end Engineer: TBD
-- Drupal "Back-end" Engineer: Sundar Kumarasamy
 
-### Screenshots
-#### Before
-...
-#### After
+
 ...
