@@ -12,7 +12,7 @@ Help us help you by giving your feedback in a 2 minute survey. We’d like to he
 
 :clipboard: **[Take the survey](link)**
 
-Please respond by **January 19**.
+Please respond by **January 22**.
 
 Thank you!
 
@@ -30,7 +30,7 @@ Your feedback will help us improve the Drupal CMS to make your work easier. Help
 
 :clipboard: **[Take the survey](link)**
 
-Please respond by **January 19**.
+Please respond by **January 22**.
 
 We appreciate your feedback. You can always contact our support team for further questions or CMS support at VACMSSupport@va.gov.
 
