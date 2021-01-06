@@ -30,7 +30,7 @@ Agenda
   - Invitation sent out on 1/5/21
 - CMS orientation feedback from Ryan
 - Live training for facility status updaters
-- Transition from DevShop to Tugboat updates
+- Transition from DevShop to Tugboat updates (announcement here: https://dsva.slack.com/archives/CDHBKAL9W/p1609957217325700)
 
   
 ## Wednesday Dec 30 2:30pm ET
