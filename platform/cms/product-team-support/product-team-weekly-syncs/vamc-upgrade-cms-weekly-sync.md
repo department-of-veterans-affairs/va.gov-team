@@ -27,8 +27,10 @@ Agenda
 
 - Erie dual state launch
 - CMS orientation session 5 content review, holding Tues., Jan. 12, 10-11:30 a.m. ET for live training
+  - Invitation sent out on 1/5/21
 - CMS orientation feedback from Ryan
 - Live training for facility status updaters
+- Transition from DevShop to Tugboat updates
 
   
 ## Wednesday Dec 30 2:30pm ET
