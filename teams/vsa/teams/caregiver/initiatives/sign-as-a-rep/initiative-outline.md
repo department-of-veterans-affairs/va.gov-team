@@ -73,6 +73,12 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ### Initial goals
 - Fill out the signature box as a representative
 - Upload documentation related to representative relationship
+
+### Risks
+- Legal concerns
+- Confusing Veterans
+- Standardizing across other forms
+- POA means different things
 --- 
 
 ## Go-to-market Strategy
