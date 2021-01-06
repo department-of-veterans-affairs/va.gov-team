@@ -42,7 +42,7 @@
 
 - [Review sprint 23 backlog](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/board?epics=154174777_2275,154174777_2274,154174777_2273,154174777_1475&filterLogic=any&repos=154174777)
   - 3921 Link teaser should allow 3 (3 pts)
-  - 3922 Events entity browser missing some events (unable to reproduce, will connect Kaise with John to review)
+  - 3922 Events entity browser missing some events (per John, this has been resolved)
   - 3924 Max 2 related benefits (needs refining)
   - 3926 Broken link checker false positive (8 pts)
 
