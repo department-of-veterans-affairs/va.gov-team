@@ -1,30 +1,30 @@
 # IRIS Usability Testing Notes
 
-P1.IRIS usability testing.202012141000  (2020-12-14 10am)
+P7.IRIS usability testing.202012161000 (2020-12-16 10am)
 
 ## Participant Info
 
 Do you have any accessibility requirements - do you use any assistive technology to access any part of va.gov (a screen reader or magnifier, for example)?  Yes (and what technology) / No
 
-* 
+* no
 
 ## Tech and mobile usage
 
 What type of desktop, tablet and phone do you use (and operating system).  How long have you had that?
 
-* 
+* HP laptop, generally what I use for work, I do have an ipad and iphone, would never get a mac laptop, not that technologically smart, have enough trouble dealing with the iphone. I actually have another small HP that I bought on a whim but I generally don’t use it anymore
 
 What do you used to access va.gov and where do you access it?
 
-* 
+* my phone, because it’s always in my hand
 
 What browser do you use to access IRIS?
 
-* 
+* on iphone safari, on computer it’s google chrome
 
 Generally, how comfortable would you say you are with technology? Novice/Intermediate/Savvy?
 
-*  
+*  TO FINISH....
 
 ## Product Experience
 
