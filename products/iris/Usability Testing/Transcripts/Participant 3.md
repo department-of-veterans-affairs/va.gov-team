@@ -77,101 +77,104 @@ Imagine you’re dealing with a problem with your eye glasses, and your local VA
 *  I would rotate my screen so I can see the full description
 *  Found the Medical center list Allentown PA
 *  Asking if the glasses are covered under her current benefits
-I turned my screen bc sometimes it cuts off what you can see and click on (intuitive about this possibility)
-Fills out generic/dummy SSN, DOB,
-“Service number is not required, so I’m not even going to mess with it”
-Tried to submit and saw the SSN validation, oh dashes are allowed (so she scrolled back up and added dashes)
-Her example on another form, there was no validation while she was typing in DOB, so she had to call to find out the issue
-Using pseudonym “imalittlepiggy” Imalil Piggeaux? :) for spam
-Reveiw page: Crosses/hashtags that open boxes - maybe I would have verified but then I would have clicked on submit
-Good to be able to verify info.  Especially if you do have glasses
-Confirmation number good
-
-
-
+*  I turned my screen bc sometimes it cuts off what you can see and click on (intuitive about this possibility)
+*  Fills out generic/dummy SSN, DOB,
+*  “Service number is not required, so I’m not even going to mess with it”
+*  Tried to submit and saw the SSN validation, oh dashes are allowed (so she scrolled back up and added dashes)
+*  Her example on another form, there was no validation while she was typing in DOB, so she had to call to find out the issue
+*  Using pseudonym “imalittlepiggy” Imalil Piggeaux? :) for spam
+*  Review page: Crosses/hashtags that open boxes - maybe I would have verified but then I would have clicked on submit
+*  Good to be able to verify info.  Especially if you do have glasses
+*  Confirmation number good
 
 Now go ahead and fill in the rest of the form - you can just use fake data. (test@test.com) - but don’t submit the form. (Stop them after they’ve filled out their contact info, before they get to the submit page)
 
-*  Drop down - is it a service complaint if glasses? This is a question.  I need an appointment so i can walk in. 
-*  Probably I’ll type in I need an appt and they’ll say oh bc of covid we’re no longer doing that, so I’m like I’m supposed to just stay blind?
-*  If I was doing this in public, I would have to stop and go back into my car bc I don’t trust ppl, when I’m typing in my SSN, you don’t know my whole social bro, bc at the end of the day, I’m giving you my last name and last 4 of my social, so all of this is too much, you’re doing too much, if I would show up and talk to a human and they only need ⅛ of this, then you’re already aggravating me, don’t ask me a million questions, I’m already aggravated
-*  That’s part of my thought process, if I was talking to a real person, and I wouldn’t give you all this information, then why are you asking all of this? They don’t ask you for your full social, they ask you last name and last 4 (social) and then verify your DOB
+*  (user completed actions)
 
 Now before you click submit, what do you think will happen? (Now go ahead and click on submit).  Is that what you expected to happen?
 
-*  Where is this going - drone in sky? Again, if you go to any other company, right after these 3 blocks, they should give me a snippet of information about allentown, like these are the hours and address and phone number
-*  Dummy confirmation number
-*  Am I going to get an email with this number too? Otherwise you’re relying on me taking a screenshot here
-*  This whole process is going to take me 10min, after that I find that you’re going to take 5 days to get back to me??
-*  My friend, she needs glasses and she’s been waiting for 9 months! Her migraines are out of control, her neuro says she needs a new prescription
-*  And for me, for 5 months I didn’t have a functioning arm! How am I supposed to help my family? I’m supposed to be getting a nursing degree, then my blood pressure is (through the roof), how am I supposed to help my patients? 
-*  I think they need to let go of all this asking for your SSN, the DoD has stopped asking for it, I’m over it, stop asking for my full social
-*  What if i’m having a crisis - 5 days?
+*  Not captured in notes
+
 
 # Questions
 
 Now that you’ve seen the full form, would you sign in before completing the form - why or why not?
 
-*  We don’t need to ask people to ask their social 
+*  Use autofill - lazy that way. I like that
+*  Chapters were good, separate pieces, seemed intuitive
+*  At first I was a little, like which section (dropdown) should it be (talking about choosing prosthetics)
+*  When I didn’t see the full description, I was able to turn my phone and see for each category, that was nice (mobile friendly)
+*  Only thing is if my medical center was in the middle of the list (alphabetically) - like m - want to save time and type in a letter or select a letter (typeahead search!)
+*  Understood everything - maybe in first categories (drop down) - is it benefits issue?
+*  That’s kind of how the VA is - not sure if a little pop-up (chatbot?) - yeah, or a definition or something (tool tip?) - parenthesis - definition or explain
+*  I liked how I was able to go back and forth and it didn’t clear everything
+*  I like how you could click the little crosses or hashes to review what you have in there
+
+Magic wand: what else would you add??
+
+*  Let me go back to the different category section real quick just to see…
 
 _Chapters:  What was your impression of chapters?_
 
-*  i did like the separate pages.  
-*  If you’re on your phone and spotty connection - friend doesn’t have reliable - so 
-*  So every time you go to another page, you run the risk of starting over,  some of those pages could have been merged, you don’t need my full social, if you ask for my DOB, cut out the extra, less pages to load, less potential connectivity problems
-*  If you could limit down less pages, that would be ideal
-*  I have fantastic internet and it’s great so when my friend comes here, it’s great, but hers isn’t
-*  Saving is essential for mobile
-*  Slim it to less pages 
+* did not answer or answer not captures
 
-Is any content missing - fields or features you were expecting to see?
+Is any content missing - fields or features you were expecting to see? Were there too many/not enough things on the page? 
 
-*  Long drop list isn’t useful - having search would be beneficial for states etc. First two or three letters of clinic would be useful.
+* I think it was about right, I like that y’all have the service number and claim number, a lot of vets go by that stuff, when they’re older in the service  so it’s good to have it there just in case, I like that it’s optional though, my stuff is already tied in with that
 
 Is any content extra - things that you don’t think are necessary?
-*  See above
+
+* did not answer or answer not captures
 
 _Review chapter_
 
 What did you think would happen after you’ve submitted the form? What do they want to happen after submitting the form? Does the confirmation message provide enough info?
-*  Here I’m working on my computer, I don’t really need to review, but 90% of the ppl that will use this, will be on their cell phones and the phones are fantastic at autocorrect, CBOK or other words that will be autocorrected
-*  Who’s more important? If I type into the box “I need glasses” or “I could see last week and now this week I also crashed because my vision is so bad”
-*  Always good to review stuff, if i’m on computer 
-*  90 percent of people using phones - but there's autocorrect so that helps but i’s not great. Fat fingering on phones happen all the time, a is right next to s or d
+
+* did not answer or answer not captures
 
 If we had a ‘review and submit’ button, would you use it as opposed to directly submitting the form?
 
-*  Answer: I would have to go back and see the dropdown again, there were three dropboxes (expandable boxes on the review page), but I think that is excessive
-*  All I need is contact info in one area (not three boxes on review page?)
-*  Don’t review the contact info bc you’ve already had them look over it and that’s just repeat and repeat then no one likes that
-*  Who am i sending this to? Location and what message is.  That's all i need (to review).
-*  Sometimes when I’m helping people, I’m doing lots of amounts but all I need to review is the clinic/facility location and what I’m asking for, everything else I don’t need
-*  Confirmation number doesn’t help me - is this going to allentown clinic? Entity you’re contacting and what you’re trying to say is what should be in the review
-*  If it’s not a requirement/required field, then maybe it shouldn’t even be on the page at all!
+* did not answer or answer not captures
 
 _In general_
 
 Comparing the existing version of IRIS to this redesign, is this an improvement? Why or why not? What part is an improvement?
 
-* 
+* Signing in: It did say down there you could send a message without signing in, but that’s actually interesting… I always kind of felt like I had to sign in to send a message, so I have. but even if the login was giving me a hassle, that’s ok because I could still send a message so that’s good, that’s actually pretty cool
 
 _Content_
 
 We simplified the categories in the drop down menu - what was that experience like? Did you feel confused?
 
-*  .
+* did not answer or answer not captures
 
+_Additional notes
 
-FORMATTING
+GI Bill experience
 
-*This text will be italic*
-_This will also be italic_
+* A few years ago went through this process with my husband, I was the caretaker, did application for myself recently, haven’t used it yet myself though, still in the application process
+* (We’re looking to combine GI Bill/IRIS forms) That could be helpful actually, because what I find, for some reason where I live, I exactly 49.2 mi from this Austin VA and 49.3 mi from the Temple VA, so exactly in the middle, but I prefer Temple because otherwise I get stuck in traffic and it’s right by the center
+* If gi bill was tied to main profile so it defaults to Temple and knows where i go then that could be good - temple or austin
+(Looking at GI Bill categories in the IRIS form on her phone) Oh yeah, now I see the topics, oh now I’m post 9/11, so I’ve transferred my allotment to my dependent just in case before I got out, I have two juniors in high school, so definitely will be looking at this next year. (filled out options from the GI Bill top dropdown) Oh that’s cool, yeah that would be helpful, cut out some of that red tape
+* Inquiry: Sometimes it’s gotten rerouted - at this point just putting a note in that it’s wrong location, but i still have to call.
 
-**This text will be bold**
-__This will also be bold__
+Single text box for search - useful?
 
-_You **can** combine them_  
+* I do use it but the only question i would have is - is my mind thinking the same way the category is set up.
 
-* Item 2
-  * Item 2a
-  * Item 2b
+R&S
+* That’s nice to have that, people might not know what they’re looking for
+I don’t like to call necessarily, but if I’m in the parking lot or something, I left that piece of paper at home, so I could look up information like that or something
+* I really like the little shortcuts page (Helpful online tools links?), especially if you’re just hopping on to check appointments or direct deposits or claims, not to have to go through 10 diff things, being able to just click, that’s pretty nice
+
+Is the ability to customize important to you? 
+
+* I think about my banking app, when I go to my front page, I can see my tiles, just my accounts or budget or whatever, so for this, yeah that would make sense. The couple of things that I always need (like a quick MyVA page)
+We got new ducks and they decided to go in the pool! Mama duck with her 5 ducklings! Re-homed them, they are so cute, found the pool in 30 degree weather haha <3 
+* I’ve had doctors appts on my phone, that’s been really nice, bc of COVID and stuff.
+
+Ways to make things easier?
+
+* Google and search - on my phone, maybe way to have it from the VA
+* It makes me feel important to be able to give back to my country still (via usability testing)
+* Rotated screen to see full - Android formatting weird issue - not va.gov style.  Keyboard affecting visibility of form - android?
