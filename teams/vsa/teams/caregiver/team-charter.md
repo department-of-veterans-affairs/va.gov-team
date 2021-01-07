@@ -1,6 +1,11 @@
 # Caregivers Team Charter
-
 ---
+## Table of Contents
+1. [Guideposts](#guideposts)
+2. [What we work on](#what-we-work-on)
+3. [We we are](#who-we-are)
+4. [How we work](#how-we-work)
+5. [Team norms](#team-norms)
 
 ## Guideposts
 
@@ -92,7 +97,7 @@ We use fibonacci numbers (0, 1, 2, 3, 5, 8, 13) to account for the level of effo
 | 8  | I understand the concept and the goals, but there is high complexity and critical unknowns.
 | 13 | There are too many unknowns, and we'll need to break this down into smaller chunks.
 
-#### Team Norms
+## Team Norms
 
 - Be respectful, both online and off
 - Show your face as often as possible at meetings / calls
