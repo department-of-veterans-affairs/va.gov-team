@@ -467,6 +467,10 @@ BE READY FOR QA NEXT SPRINT
 
 - Review Erik's initial build
 
+**BE**
+
+- Set up direct deposit for edu confirmation email #18262
+
 ### VA Profile notification preferences
 
 **PM**
