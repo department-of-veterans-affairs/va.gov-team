@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Guideposts](#guideposts)
 2. [What we work on](#what-we-work-on)
-3. [We we are](#who-we-are)
+3. [Who we are](#who-we-are)
 4. [How we work](#how-we-work)
 5. [Team norms](#team-norms)
 
