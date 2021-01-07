@@ -54,6 +54,9 @@ Would Veterans:
 - have enough information in order to visit or call a location?
 
 
+### Interview Session Setup
+
+Participants were told to imagine a scenario where they were going through a rough time and were searching on the internet for counseling options. They were to imagine that their search lead them to the prototype. To simulate conventional user behavior, participants were given quick moment to review the page, but were purposely not instructed to describe it. Instead, they were first given two tasks to find individual and group counseling respectively. The tasks were followed by questions regarding their understanding of other locations and next steps if they saw a service that they were interested in. This gave the participants the opportunity to learn about the facility and what it had to offer before being asked to describe the facility and the type of care that would be available.
 
 ## Findings
 
