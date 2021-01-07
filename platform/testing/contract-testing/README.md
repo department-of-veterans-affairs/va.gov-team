@@ -5,7 +5,7 @@ Pact is a tool that enables consumer-driven contract testing (CDCT) by defining 
 
 In this way, Pact enables VFS teams to test integration points with `vets-api` in a non-production environment. This gives VFS teams the ability to ensure that their app is production-ready, and helps VSP ensure that platform-wide changes are non-breaking. Pact allows VFS and VSP to catch issues with integrations before they reach production.
 
-As of 9/14/20, VSP is in the process of rolling out Pact to VFS teams. If you are part of a VFS team and are interested in using Pact, please reach out to the contacts listed below. 
+As of 1/7/21, VSP is in the process of rolling out Pact to VFS teams.
 
 --- 
 
@@ -22,7 +22,7 @@ For support with contract testing or Pact in particular, please reach out to Lin
 
 If those contacts are unavailable, please tag the frontend and/or backend support developer in the same channel (#vfs-platform-support#). You can find out who’s on support by viewing the channel description.
 
-(Points of contact last updated 9/14/20)
+(Points of contact last updated 1/7/21)
 
 ---
 
