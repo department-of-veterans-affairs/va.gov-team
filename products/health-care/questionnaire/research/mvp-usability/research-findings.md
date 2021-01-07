@@ -2,7 +2,7 @@
 
 **Prepared by:** Kristen McConnell (kristen.mcconnell@adhocteam.us)<br>
 October 2020<br/>
-[Downloadable PDF](https://drive.google.com/file/d/1gLF26dSrNTMd-1h2-LdJkpNFm86K03uG/view?usp=sharing)
+[Downloadable PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/mvp-usability/Questionnaire%20MVP%20Research%20Findings.pdf)
 
 ## Background
 Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners. Our MVP will focus on improving the pre-appointment experience when visiting primary care providers.
