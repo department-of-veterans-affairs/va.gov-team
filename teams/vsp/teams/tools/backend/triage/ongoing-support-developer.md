@@ -77,6 +77,7 @@ It is *100%* acceptable to delegate the request, whatever it is, to someone more
 * add the utility developer who is rotating on to the [#vsp-backend-utility-dev] Slack channel
 * remove theirself from the [#vsp-backend-utility-dev] Slack channel
 * ensure that all of the PRs reviewed are linked to the [Code Review][Super Epics] ticket for the sprint
+* ensure that any resolved [support issues](https://github.com/department-of-veterans-affairs/vsp-support/issues?q=is%3Aopen+is%3Aissue) created via support bot are closed
 
 
 ## Priorities
