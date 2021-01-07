@@ -1,5 +1,5 @@
 # Appointment ID [WIP ]
 
-![Diagram](assets/architecture.v2.png)
+![Diagram](assets/answer-questionnaire-sequence-diagram.png)
 
-[link to draw.io diagram](https://app.diagrams.net/#G1fzAkVQ7snSI8eWeBemhIeCWT0TZKDQK1)
+[link to draw.io diagram](https://drive.google.com/file/d/1Oq9i7SCSAjKTzC-SNlmHDhlsjcXXWIb1/view?usp=sharing)
