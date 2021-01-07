@@ -114,12 +114,21 @@ _In general_
 Comparing the existing version of IRIS to this redesign, is this an improvement? Why or why not? What part is an improvement?
 
 * Secure messaging - My husband has signed up for MHV.  Yes definitely, centralized SM would be helpful
+* I always question the service number, because 9 times out of 10, I don’t see his service number, maybe in parentheses put “if applicable” or “if known” (next to this field), but it also doesn’t show it’s not required. So people don’t go crazy trying to find numbers that they can’t find, like I’ve done that!
+* Intuitive selection of topics? Yes
+* Haven’t used GI Bill
+* Review page intuitive? Yeah because if you make a mistake, it’s easier to make a mistake if you’re in a hurry
+* (Type search) if it would make the process a bit quicker, perhaps helpful? But then again, not every subject will be able to be searched that way
 
 
-_Content_
+Magic wand suggestions?
 
-We simplified the categories in the drop down menu - what was that experience like? Did you feel confused?
+* I don’t think so, trying to think off the top of my head
 
-*   
+
+Global Contact Us page/R&S
+
+* (Seemed to like the designs)
+* I like the block in the middle of the page, it stands out and in a different color, that’s just like why don’t you check here before you go, brings your attention to look here first, normal ppl would look there first. It’s still on the Contact Us page, but it’s in a spot where you can do minor things before you ask a question.
 
 
