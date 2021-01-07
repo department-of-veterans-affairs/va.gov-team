@@ -86,7 +86,7 @@ Please take a couple of minutes to scroll around and click around -- feel free t
   - How did you do it?
   - What information were you looking for? Were you successful?
 
-Please take a couple of minutes to scroll around and click around -- feel free to explore Claims and Appeals as much as you’d like.
+Say you would like to check the status of your current claim or appeal. Can you show me how you would do that?
 
 - What do you think about what you see?
 - What questions do you have about what you see?
@@ -94,7 +94,8 @@ Please take a couple of minutes to scroll around and click around -- feel free t
 - Does it feel like anything is missing to you?
 
 #### Things to watch for & follow up on
-- Does the participant stumble anywhere navigating around the Claims section?
+- Can the participant find their claim status?
+- Does the participant stumble anywhere navigating around the claims and appeals screens?
 
 ### Appointments [if participant has data]
 - Can you navigate to where you would expect to see your appointments? 
@@ -102,14 +103,16 @@ Please take a couple of minutes to scroll around and click around -- feel free t
 - How did you do it?
 - What information were you looking for? Were you successful?
 
-Please take a couple of minutes to scroll around and click around -- feel free to explore Appointments as much as you’d like.
+Say you would like to check the details of your upcoming appointment. Can you show me how you would do that?
+
 - What do you think about what you see?
 - What questions do you have about what you see?
 - Is anything confusing or unclear?
 - Does it feel like anything is missing to you?
 
 #### Things to watch for & follow up on
-- Does the participant stumble anywhere navigating around the Appointments section?
+- Can the participant find appointment details?
+- Does the participant stumble anywhere navigating around the Appointments screens?
 
 ### COVID-19
 Let’s go back to the home screen.
