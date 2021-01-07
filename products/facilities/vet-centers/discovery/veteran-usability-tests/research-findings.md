@@ -277,10 +277,10 @@ Participants called out the yellow banner containing the Vet Center hotline that
 ## Recommendations
 
 1. Increase information scent to allow Veterans to understand the page with only a scan.
-- Shorten or replace intro copy, try tags or more scannable descriptors instead
-- reconsider “readjustment counseling centers”
-- Segment services into “Mental health counseling” and “social services” to give the page more context and make the facility’s purpose more scannable
-- consolidate list of services to be more focused and scannable
+- 1a. Shorten or replace intro copy, try tags or more scannable descriptors instead
+- 1b. reconsider “readjustment counseling centers”
+- 1c. Segment services into “Mental health counseling” and “social services” to give the page more context and make the facility’s purpose more scannable
+- 1d. consolidate list of services to be more focused and scannable
 2. Test “Mental health care” vs “Counseling” taxons on Veterans who have not gone engaged in either.
 3. Make it more obvious that this is a small facility with one direct number to call.
 4. Scale down COVID alert, progressively disclose details and reconsider placement.
