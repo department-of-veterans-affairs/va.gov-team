@@ -103,6 +103,14 @@ We use fibonacci numbers (0, 1, 2, 3, 5, 8, 13) to account for the level of effo
 | 8  | I understand the concept and the goals, but there is high complexity and critical unknowns.
 | 13 | There are too many unknowns, and we'll need to break this down into smaller chunks.
 
+#### User story validation
+- All team members are responsible for validation, but different team members will specialize in different areas.
+- For anything considered a "release" or significant change, Tze (the VSA QA lead) will be responsible for QA
+- Engineers will be responsible for ensuring and documenting in the ticket that all acceptance criteria are met
+- Design is responsible for ensuring that design and content specifications are met
+- PM and PO will be responsible for end-to-end QA and communication to stakeholders
+
+
 ## Team Norms
 - We are iterate often and deliver frequently
 - We are respectful, both online and off
