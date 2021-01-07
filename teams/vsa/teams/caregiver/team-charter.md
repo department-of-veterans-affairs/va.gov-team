@@ -5,14 +5,15 @@
 ## Guideposts
 
 ### Team Mission Statement:
-To provide the ability for Veteran and Veteran caregivers to complete and submit VA Form 10-10CG electronically, which will directly feed into electronic processing by VA and allow applicants to track online status updates.
+To make it easier for Veterans and caregivers to apply for care-related benefits, including VA health care and family caregiver benefits.
 
 ### Team Vision:
-Build an online experience that allows caregivers to easily apply for, track, and manage benefits.
+A seamless online experience that allows Veterans and caregivers to easily apply for, track, and manage benefits.
 
 ### Team North Star:
-Reduce the amount of time it takes a Caregiver application to be processed
-Increase the number of online applications
+- Increase the number of online healthcare applications
+- Increase the number of online family caregiver applications
+- Improve Veteran experience in apply for care-related benefts 
 
 ## What we work on:
 
@@ -20,17 +21,8 @@ Increase the number of online applications
 Health Products 
 
 ### Product Portfolio:
-Online Caregiver 10-10CG Application form
-Coming soon: Online Caregiver portal
-
-
-### Responsibilities (Problem space and user goals):
-1) Caregivers play an important role in the health and well-being of veterans. Tens of thousands of family caregivers across the country provide daily assistance to wounded veterans
-2) Paper forms create a processing burden on the user and on the VA
-
-
-### Roadmap:
-![OKR Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/OKR_Roadmap_Caregivers.png)
+[Online family caregiver application](https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/)
+[Online VA health care application](https://www.va.gov/health-care/apply/application/introduction)
 
 ---
 
@@ -52,31 +44,31 @@ Coming soon: Online Caregiver portal
 #### Stand-up
 Check in on people and product progress
 
-- Every other day @ 1:30pm Eastern
-- 15 min
-- 3 Question Format: What I did yesterday? What will I do today? Any impediments?
+- Every day @ 11am Eastern
+- 30 min
+- 3 Question Format: What did you do yesterday? What will you do today? Any impediments?
 
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
 
-- 1st Wednesday of every sprint @ 10am ET
+- 1st Monday of every sprint week @ 3pm ET
 - 1 hour
 
 
 #### Retro
-Review accomplishments from prior sprint, what went well, what can be improvemed, what questions people have, and any action items
+Review accomplishments from prior sprint, what went well, what can be improvemed, what questions people have, and generate action items.
 
-- 1st Wednesday of every sprint @ 1:45ET
+- 1st Wednesday of every sprint @ 11:30ET
 - 30 min
 
 #### Grooming
-Assess and update workload for remainder of sprint
+Create, review, estimate, and prioritize backlog items.
 
-- 2nd Thursday of every sprint, after Standup
+- 2nd Wednesday of every sprint, 10:00am
 - 1 hour
 
 #### Issue Etiquette
-For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
+For an issue to go into the Ready column, it must have the following (created using the “Standard Issue Template”):
 
 - Estimate
 - Title that explains task
@@ -89,22 +81,34 @@ All work should be validated either in staging or production, as defined by the 
 
 If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
 
+#### Estimation
+We use fibonacci numbers (0, 1, 2, 3, 5, 8, 13) to account for the level of effort, complexity, and amount of unknowns in our work. Here is our guide:
+| Number | Meaning |
+| -------| --------|
+| 0  | I know exactly what needs to be done, and I don't need to change any code.
+| 1  | I know exactly what needs to be done, and it involves changing a tiny bit of code.
+| 2  | I'm pretty sure I know what needs to be done, it's a bit complex, and it will involve creating/updating tests.
+| 3  | I have a good idea what needs to be done, but it's fairly complex, and there could be some unknowns.
+| 5  | I know what needs to be done at a high level, but there is a good amount of work due to complexity, and there are some big unknowns we’ll discover.
+| 8  | I understand the concept and the goals, but there is high complexity and critical unknowns.
+| 13 | There are too many unknowns, and we'll need to break this down into smaller chunks.
+
 #### Team Norms
 
-_Update as you see fit! These are some starter norms for you to consider_
-
 - Be respectful, both online and off
-- Show your face (Webcam) at meetings / calls
+- Show your face as often as possible at meetings / calls
 - Speak up! - everyone’s voice matters
 - We are flexible, but intentional in the way we work
-- Let’s have fun and do great work!
+- We communicate often and in public channels
+- We ask questions when they arise
+- We listen without judgement
 
 #### Slack:
 
 This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication.
 
 #### GitHub
-GitHub is the single source of truth. Every body of work should be documented for tracking and capacity planning.
+GitHub is the single source of truth. All work is documented for tracking and capacity planning.
 
 #### General things
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
