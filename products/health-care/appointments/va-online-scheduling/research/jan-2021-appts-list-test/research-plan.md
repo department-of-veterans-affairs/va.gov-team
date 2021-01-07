@@ -47,7 +47,6 @@ This will be a remote moderated usability test with high-fidelity prototypes. We
 - 5 Veterans who have VA health care.
 
 **Secondary criteria / Would like to have**
-- Some veterans who have managed appointments in VA Online Scheduling before
 - Representative of all branches of the Armed Forces
 - An even split of men and women
 - At least one person in each of the following age brackets: 18-30, 31-50, 50+.
