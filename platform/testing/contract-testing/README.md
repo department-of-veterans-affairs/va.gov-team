@@ -13,7 +13,7 @@ As of 1/7/21, VSP is in the process of rolling out Pact to VFS teams.
 * [Using Pact for contract testing on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/testing/contract-testing/how-to-use-pact-for-contract-testing.md)
 * [VSP’s contract testing policy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/testing/contract-testing/how-to-use-pact-for-contract-testing.md#requirements)
 * [Pact product documentation](https://docs.pact.io/)
-* [Pact broker dashboard](https://vagov-pact-broker.herokuapp.com/)
+* [Pact broker dashboard](https://dev.va.gov/_vfs/pact-broker/)
 
 ---
 
@@ -28,7 +28,7 @@ If those contacts are unavailable, please tag the frontend and/or backend suppor
 
 ## Examples
 
-[Search example in Pact broker](https://vagov-pact-broker.herokuapp.com/pacts/provider/VA.gov%20API/consumer/Search/latest)
+[Search example in Pact broker](https://dev.va.gov/_vfs/pact-broker/pacts/provider/VA.gov%20API/consumer/Search/latest)
 
 [Backend configuration of search](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/service_consumers/provider_states_for/search.rb#L3)
 
