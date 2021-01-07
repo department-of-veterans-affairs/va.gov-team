@@ -4,7 +4,7 @@
 
 ### Setup
 
-- [ ] Notifications off
+- [x] Notifications off
 - [ ] Announce session in #feedback-backchannel 10 minutes ahead of time + post the observer instructions
 - [ ] Enable screen sharing in Zoom
 - [ ] In the Attendees section, make sure everyone except the participant is on mute
