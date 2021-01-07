@@ -51,6 +51,8 @@ Alright, at this time, I am going to ask you to process with signing into the VA
 - Does the participant stumble with their credential provider’s sign in flow?
 - Does the participant stumble getting back to the app once they’ve completed sign in?
 - Does the participant express confusion or frustration at anything specific (ex: a line of text, a button, the modal)? What?
+- If the participant is served up the biometric opt in screen, do they understand it? Do they opt in? Is anything confusing/unclear about it?
+- Does the participant say anything positive or negative about the biometric opt in?
 
 #### Prompts
 - [If the participant runs into a problem] What do you do when you run into a sign in issue like this?  
