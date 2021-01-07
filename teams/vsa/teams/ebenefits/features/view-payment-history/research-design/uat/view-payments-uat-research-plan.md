@@ -84,6 +84,11 @@ Please allow 30 minutes between sessions.
 | January 6, 2021 | 9 AM to noon |
 | January 7, 2021 | 9 AM to 5 PM |
 | January 8, 2021 | 9 AM to 5 PM |
+| January 11, 2021 | 9 AM to 5 PM |
+| January 12, 2021 | 9 AM to noon |
+| January 13, 2021 | 9 AM to noon |
+| January 14, 2021 | 9 AM to 5 PM |
+| January 15, 2021 | 9 AM to 5 PM |
 
 ### Team members
 - James Adams | jadams@governmentcio.com -- Moderator, designer
