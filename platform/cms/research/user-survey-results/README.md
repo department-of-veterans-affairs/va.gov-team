@@ -10,7 +10,7 @@ This folder contains synthesized results from the quarterly CMS User Satisfactio
 
 Help us help you by giving your feedback in a 2 minute survey. We’d like to hear your honest thoughts, and your answers will be anonymous.
 
-:clipboard: **[Take the survey](link)**
+:clipboard: **[Take the survey](https://www.surveymonkey.com/r/N7DRYXT)**
 
 Please respond by **January 22**.
 
@@ -28,7 +28,7 @@ The rollout of the Drupal CMS over the last year created a lot of big changes fo
 
 Your feedback will help us improve the Drupal CMS to make your work easier. Help us help you by giving your feedback in a 2 minute survey. We’d like to hear your honest thoughts, and your answers will be anonymous.
 
-:clipboard: **[Take the survey](link)**
+:clipboard: **[Take the survey](https://www.surveymonkey.com/r/N7DRYXT)**
 
 Please respond by **January 22**.
 
