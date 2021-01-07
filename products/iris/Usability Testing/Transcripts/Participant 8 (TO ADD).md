@@ -81,33 +81,40 @@ Now before you click submit, what do you think will happen? (Now go ahead and cl
 
 Now that you’ve seen the full form, would you sign in before completing the form - why or why not?
 
-*   
+* n/a
 
 _Chapters:  What was your impression of chapters?_
 
-*  
+*  Chapters? Yes like if my husband was filling this out and doesn’t have the patience, knowing what step of what, is helpful. For other veterans or spouses who need to know, I’m on step 1, I have 3 more steps to go. That is very helpful. I think that is extremely helpful
 
 Is any content missing - fields or features you were expecting to see?
 
-*   
+* n/a
+
 Is any content extra - things that you don’t think are necessary?
-*   
+
+* I always question the service number, because 9 times out of 10, I don’t see his service number, maybe in parentheses put “if applicable” or “if known” (next to this field), but it also doesn’t show it’s not required. So people don’t go crazy trying to find numbers that they can’t find, like I’ve done that!
+* Intuitive selection of topics? Yes
+* Haven’t used GI Bill
+
 
 _Review chapter_
 
 What did you think would happen after you’ve submitted the form? What do they want to happen after submitting the form? Does the confirmation message provide enough info
-*  
 
+* Review page intuitive? Yeah because if you make a mistake, it’s easier to make a mistake if you’re in a hurry
+* (Type search) if it would make the process a bit quicker, perhaps helpful? But then again, not every subject will be able to be searched that way
 
 If we had a ‘review and submit’ button, would you use it as opposed to directly submitting the form?
 
-*   
+* n/a
 
 _In general_
 
 Comparing the existing version of IRIS to this redesign, is this an improvement? Why or why not? What part is an improvement?
 
-*   
+* Secure messaging - My husband has signed up for MHV.  Yes definitely, centralized SM would be helpful
+
 
 _Content_
 
