@@ -438,6 +438,12 @@ BE
 
 ## Sprint 39 (1/13 – 1/26)
 
+### Profile
+
+**FE**
+
+- Look into analytics error discrepancies #18270
+
 ### My VA redesign
 
 **PM**
