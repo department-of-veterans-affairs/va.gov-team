@@ -35,9 +35,9 @@ Health Products
 ### Team Members:
 - DSVA Product Lead: Ming Ligh
 - Team Product Manager: Alayna Abel
+- UX/Research: Jonathan Nelson
 - Front-End Engineering: Justin Linn
 - Back-End Engineering: Kevin Mircovich
-- UX/Research: Jonathan Nelson
 
 ---
 
