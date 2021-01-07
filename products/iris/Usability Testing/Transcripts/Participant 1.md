@@ -23,7 +23,7 @@ What do you used to access va.gov and where do you access it?
 What browser do you use to access IRIS?
 * Safari
 
-Generally, how comfortable would you say you are with technology? Novice/Intermediate/Savvy
+Generally, how comfortable would you say you are with technology? Novice/Intermediate/Savvy?
 *  I definitely wouldn’t say I’m an expert on VA connect stuff, it wasn’t until I logged in, that I discovered I need to download an app I’m very fluid in word and excel, I know how to manipulate that, but if it’s something that I’ve never interacted with, then I’m okay saying I’m a novice
 
 
