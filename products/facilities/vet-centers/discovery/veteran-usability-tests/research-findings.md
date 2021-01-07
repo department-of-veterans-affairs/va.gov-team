@@ -304,7 +304,7 @@ Participants called out the yellow banner containing the Vet Center hotline that
 ## Next Steps
 
 * Share findings with stakeholders and discuss highest priority needs for MVP. 
-    - [see Mural boards for ourput of this discussion](https://app.mural.co/t/vsa8243/m/vsa8243/1608739682008/14ce12078ce9518cc88314d5953c8b8c1434773b?wid=0-1610026718697)
+    - [see Mural boards for output of this discussion](https://app.mural.co/t/vsa8243/m/vsa8243/1608739682008/14ce12078ce9518cc88314d5953c8b8c1434773b?wid=0-1610026718697)
 * Work with copywriter for Vet Center website copy and service taxonomy.
 * Refine Vet Center website prototype incorporating content and design recommendations.
 * Test refined prototype with Vet Center client Veterans and service members.
