@@ -99,7 +99,7 @@ We use fibonacci numbers (0, 1, 2, 3, 5, 8, 13) to account for the level of effo
 | 1  | I know exactly what needs to be done, and it involves changing a tiny bit of code.
 | 2  | I'm pretty sure I know what needs to be done, it's a bit complex, and it will involve creating/updating tests.
 | 3  | I have a good idea what needs to be done, but it's fairly complex, and there could be some unknowns.
-| 5  | I know what needs to be done at a high level, but there is a good amount of work due to complexity, and there are some big unknowns we’ll discover.
+| 5  | I know what needs to be done at a high level, but is significant complexity, and there are some large unknowns.
 | 8  | I understand the concept and the goals, but there is high complexity and critical unknowns.
 | 13 | There are too many unknowns, and we'll need to break this down into smaller chunks.
 
