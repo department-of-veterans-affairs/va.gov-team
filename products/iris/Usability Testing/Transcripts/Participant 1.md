@@ -2,7 +2,6 @@
 
 ## Participant Info
 
-
 Do you have any accessibility requirements - do you use any assistive technology to access any part of va.gov (a screen reader or magnifier, for example)?  Yes (and what technology) / No
 
 * No glasses, mobile limits for my right arm
@@ -153,19 +152,4 @@ _Content_
 
 We simplified the categories in the drop down menu - what was that experience like? Did you feel confused?
 
-*  A single text box would help.
-
-
-FORMATTING
-
-*This text will be italic*
-_This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_  
-
-* Item 2
-  * Item 2a
-  * Item 2b
+*  A single text box would help
