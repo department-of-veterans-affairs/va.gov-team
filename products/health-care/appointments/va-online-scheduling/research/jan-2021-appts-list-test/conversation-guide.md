@@ -3,7 +3,7 @@
 ## Moderator logistics
 
 - [ ] Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to the [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel).
-- [ ] Have the [prototype link TBD]available
+- [ ] Have the [prototype link](https://adhoc.invisionapp.com/share/URZV3YHCQFZ#/440922970_Landing_page) available
 - [ ] Update the Zoom sharing section
 - [ ] In the Attendees section, make sure everyone except the participant is on mute
 - [ ] In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
@@ -54,13 +54,16 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, let’s start with a couple of warm-up questions.
 
-[TBD]
+* How do you currently schedule and manage your VA appointments?
+
+If needed: 
+    * What tools/apps/sites do you use?
 
 ## Section 1: Static landing page
 
 Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
 
-* `Use chat to send user link to prototype.` [Prototype link TBD]
+* `Use chat to send user link to prototype.` [Prototype link](https://adhoc.invisionapp.com/share/URZV3YHCQFZ#/440922970_Landing_page)
 
 * `Talk user through screen sharing so they can share their screen.`
 
