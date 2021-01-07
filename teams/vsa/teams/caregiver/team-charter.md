@@ -20,8 +20,8 @@ A seamless online experience that allows Veterans and caregivers to easily apply
 Health Products 
 
 ### Product Portfolio:
-[Online family caregiver application](https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/)
-[Online VA health care application](https://www.va.gov/health-care/apply/application/introduction)
+- [Online family caregiver application](https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/)
+- [Online VA health care application](https://www.va.gov/health-care/apply/application/introduction)
 
 ---
 
