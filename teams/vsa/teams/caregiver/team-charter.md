@@ -74,18 +74,18 @@ Create, review, estimate, and prioritize backlog items.
 #### Issue Etiquette
 Anyone on the team can create a user story. All our responsible for keeping them up to date.
 
-- For an issue to go into the "Ready" column, it must have the following:
+- For an issue to go into the **"Ready"** column, it must have the following:
    - Estimate
    - Title that explains task
    - Description or user story with background, goal and acceptance criteria
    - Labels: _vsa-caregivers_ and what category it falls into (backend, front-end, research, design, product)
    - Nested in an Epic
 
-- For an issue to be in "Validate," all work related to the ticket is implemented, and it is accessible in staging and ready to ship to production, as defined by the acceptance criteria.
+- For an issue to be in **"Validate,"** all work related to the ticket is implemented, and it is accessible in staging and ready to ship to production, as defined by the acceptance criteria.
 
-- For an issue to be "Done," Validation has occured, and each ticket's last comment before closing should reflect whether validation has occurred, and by whom. 
+- For an issue to be **"Done,"** Validation has occured, and each ticket's last comment before closing should reflect whether validation has occurred, and by whom. 
 
-- If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
+- If there is are new work requests or sudden changes, contact the Product Manager and ask for help to work it into the sprint
 
 #### Estimation
 We use fibonacci numbers (0, 1, 2, 3, 5, 8, 13) to account for the level of effort, complexity, and amount of unknowns in our work. Here is our guide:
