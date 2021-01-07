@@ -43,8 +43,9 @@ Health Products
 
 ## How we work
 
-### Workflow + Cadence
-
+<details><summary>Workflow and Cadence</summary>
+<p>
+   
 #### Stand-up
 Check in on people and product progress
 
@@ -70,6 +71,9 @@ Create, review, estimate, and prioritize backlog items.
 
 - 2nd Wednesday of every sprint, 10:00am
 - 1 hour
+
+</p>
+</details>
 
 #### Issue Etiquette
 Anyone on the team can create a user story. All our responsible for keeping them up to date.
