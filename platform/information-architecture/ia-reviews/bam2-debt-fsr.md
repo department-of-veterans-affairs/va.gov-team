@@ -1,5 +1,5 @@
 # IA Design and Recommendations
-**STATUS: IN PROGRESS**
+**STATUS: COMPLETE**
 
 **Team:** BAM2
 
@@ -22,7 +22,7 @@
 - The online FSR will become another tool available within the "Manage VA Debt" experience.  The form will live as a child to the [Manage VA debt static page](www.va.gov/manage-va-debt/).
 - All content within the current www.va.gov/debtman/ experience will be migrated over.  Some content will be added to the existing [Manage VA debt static page](www.va.gov/manage-va-debt/), and other content will be moved/created within the [Resources and support experience](www.va.gov/resources/). 
 
-![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/f4d918d8-92f9-4675-ab26-3632f2074304)
+![image](https://user-images.githubusercontent.com/20994159/103928399-665a7500-50e1-11eb-9de6-eaa2ac09ea4d.png)
 
 
 Page | URL | Breadcrumb | Notes
@@ -61,7 +61,7 @@ https://www.va.gov/debtman/Financial_Status_Report.asp | www.va.gov/manage-va-de
 https://www.va.gov/debtman/Debt_Referral.asp | Resources and support article created by PW team | 
 https://www.va.gov/debtman/Most_Frequently_Asked_Questions.asp | Resources and support article created by PW team  | 
 https://www.va.gov/debtman/Frequently_Asked_Questions.asp | Resources and support article created by PW team  | 
-https://www.va.gov/debtman/Whom_To_Call.asp | TBD | Resources and support article
+https://www.va.gov/debtman/Whom_To_Call.asp | Resources and support article created by PW team | 
 https://www.va.gov/debtman/site_search.asp | www.va.gov/manage-va-debt/ | 
 https://www.va.gov/debtman/Site_Map.asp | www.va.gov/manage-va-debt/ | 
 
