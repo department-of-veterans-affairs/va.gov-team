@@ -25,7 +25,34 @@ The following information is required in order to read and update the diary entr
 <details>
 <summary>Award Types</summary>
 <br>
-Check with Steve/Jason...can the list of award types be posted here?  
+ 
+ | Award Type | Description                                |
+ | :--------- | :----------------------------------------- |
+ | CPL        | Compensation/Pension Live                  |
+ | BUR        | Burial                                     |
+ | MOH        | Medal of Honor                             |
+ | CA         | Clothing Allowance                         |
+ | CPDC       | CPD Child                                  |
+ | CPDS       | CPD Spouse                                 |
+ | CPDP       | CPD Parent                                 |
+ | 306V       | 306 Veteran                                |
+ | 306S       | 306 Spouse                                 |
+ | 306C       | 306 Child                                  |
+ | OLV        | Old Law Veteran                            |
+ | OLS        | Old Law Spouse                             |
+ | OLC        | Old Law Child                              |
+ | ACC        | Accrued                                    |
+ | DCS        | Death Comp Spouse                          |
+ | DCC        | Death Comp Child                           |
+ | DCP        | Death Comp Parent                          |
+ | 1312S      | 1312A Spouse                               |
+ | 1312C      | 1312A Child                                |
+ | 1312P      | 1312A Parent                               |
+ | !EORP      | Emergency Officer's Retired Pay            |
+ | SB         | CH 18 Spina Bifida                         |
+ | BD         | CH 18 Child Birth Defects                  |
+ | REPS       | Restored Entitlement Program for Survivors |
+ 
 </details>
 
 ### Considerations
