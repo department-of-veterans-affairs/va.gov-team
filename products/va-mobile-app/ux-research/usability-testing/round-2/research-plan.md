@@ -12,6 +12,7 @@ The VA Mobile App team has designed and built a MVP mobile app that can be used 
 - What usability obstacles exist with the sign in flow?
 - Are participants able to successfuly sign in and return to the app?
 - If not, what barriers prevent them from doing so?
+- What usability obstacles exist with our app's sign in screens (biometrics opt in, homescreen, loading screens)?
   
 **Features**
 - At a high level, what usability obstacles exist in navigating around Profile, Claims, and Appointments? 
