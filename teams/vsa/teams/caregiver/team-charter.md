@@ -8,7 +8,7 @@
 To make it easier for Veterans and caregivers to apply for care-related benefits, including VA health care and family caregiver benefits.
 
 ### Team Vision:
-A seamless online experience that allows Veterans and caregivers to easily apply for, track, and manage benefits.
+A seamless online experience that allows Veterans and caregivers to easily apply for, track, and manage care-related benefits.
 
 ### Team North Stars:
 - Increase the numbers of online family caregiver applications and healthcare applications
