@@ -72,18 +72,20 @@ Create, review, estimate, and prioritize backlog items.
 - 1 hour
 
 #### Issue Etiquette
-For an issue to go into the Ready column, it must have the following (created using the “Standard Issue Template”):
+Anyone on the team can create a user story. All our responsible for keeping them up to date.
 
-- Estimate
-- Title that explains task
-- Description with Background and Acceptance Criteria
-- Labels: _vsa-caregivers_
-- User Story (if applicable), Goal, and Acceptance Criteria
-- Nested in an Epic
+- For an issue to go into the "Ready" column, it must have the following:
+   - Estimate
+   - Title that explains task
+   - Description or user story with background, goal and acceptance criteria
+   - Labels: _vsa-caregivers_ and what category it falls into (backend, front-end, research, design, product)
+   - Nested in an Epic
 
-All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
+- For an issue to be in "Validate," all work related to the ticket is implemented, and it is accessible in staging and ready to ship to production, as defined by the acceptance criteria.
 
-If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
+- For an issue to be "Done," Validation has occured, and each ticket's last comment before closing should reflect whether validation has occurred, and by whom. 
+
+- If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
 
 #### Estimation
 We use fibonacci numbers (0, 1, 2, 3, 5, 8, 13) to account for the level of effort, complexity, and amount of unknowns in our work. Here is our guide:
@@ -98,14 +100,19 @@ We use fibonacci numbers (0, 1, 2, 3, 5, 8, 13) to account for the level of effo
 | 13 | There are too many unknowns, and we'll need to break this down into smaller chunks.
 
 ## Team Norms
-
-- Be respectful, both online and off
-- Show your face as often as possible at meetings / calls
-- Speak up! - everyone’s voice matters
+- We are iterate often and deliver frequently
+- We are respectful, both online and off
+- We turn on cameras as often as possible at meetings / calls
 - We are flexible, but intentional in the way we work
 - We communicate often and in public channels
 - We ask questions when they arise
 - We listen without judgement
+- We keep our work simple and clean
+- We validate each others' work
+- We do reviews in independent environments
+- We hold each other accountable
+- We stick to our commitments as best as possible
+
 
 #### Slack:
 
