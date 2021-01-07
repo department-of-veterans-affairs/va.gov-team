@@ -92,6 +92,8 @@ Some participants found the two questions to be unnecessary. “Because it's a m
 
 - **One participant expressed the desire to sign as a representative/POA for the Veteran** The participant said, “I just like to be transparent about who is communicating...I’m always documenting when it is me doing something on his behalf...This isn’t always recognized by the VA especially if it’s medical versus financial. It would literally be me typing for him. If it wouldn’t let me have this sort of disclaimer here.”
 
+- **One participants questioned the placement (within the form) of the question, “Would you like to add a Primary Family Caregiver?”** The location (following the Veteran information/before caregiver information) of the Would you like to add a Primary Family Caregiver? Question caused some confusion. The participant said, “Well if I'm applying for it, I’m not sure why they would ask... I've already answered and read about that in the beginning. I probably wouldn't know why I'm being asked that. It doesn't seem useful. It seems odd to put it there. I would hope I know already if I'm applying to be one.”
+
 - **Some participants had issues locating the green How to Apply or Start your application buttons** 
 
 - **Participants found the respondent burden helpful. Several users had experience previously with the paper form. Participants generally thought the online experience was simple and easy to use**
