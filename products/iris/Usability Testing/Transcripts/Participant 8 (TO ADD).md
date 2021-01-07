@@ -1,68 +1,81 @@
 # IRIS Usability Testing Notes
 
-P1.IRIS usability testing.202012141000  (2020-12-14 10am)
+P8.IRIS usability testing.202012161200 (2020-12-16 12pm)
 
 ## Participant Info
 
 Do you have any accessibility requirements - do you use any assistive technology to access any part of va.gov (a screen reader or magnifier, for example)?  Yes (and what technology) / No
 
-* 
+* No
 
 ## Tech and mobile usage
 
 What type of desktop, tablet and phone do you use (and operating system).  How long have you had that?
 
-* 
+* HP laptop
+* “Do they make big computers anymore? (laughs)”
+* iPhone
+* Uses mobile phone 90% of the time to access VA.gov
 
 What do you used to access va.gov and where do you access it?
 
-* 
+* Safari
 
 What browser do you use to access IRIS?
 
-* 
+* Safari
 
 Generally, how comfortable would you say you are with technology? Novice/Intermediate/Savvy?
 
-*  
+* between novice and intermediate, “I’m pretty savvy but technologically if there’s something a little more complex, I get frustrated, but for the most part, I’m pretty good at figuring things out. And if I don’t know, my geek tech husband will be able to figure it out”
 
 ## Product Experience
 
 Have you contacted the VA? If so, when and how 
 
-*   
+* I actually called the VA a couple weeks ago
 
 How often have you used IRIS? 
 
-*  
+* Because we were checking the status of his comp/ben appeal so it was easier to call them bc the information isn’t always up to date on the app
+* How often have you used IRIS? Maybe once or twice a month, a lot of times it’s used to re-order meds, but for the most part for any little question, I’ll go on the IRIS app
 
 Did you use the COVID-19 Chatbot? If yes, how was that experience - do you usually use a chatbot? 
 
-*   
+* Annie on VA website - I don’t like it as much as I like COVID coach (?) app - Find it easier to navigate the covid coach app
+* Not a big fan of chatbots actually, I find them to be… sometimes not understanding what you want, so it seems to take longer to get what you want
+* Do you use FAQs? Yes I do use FAQs if it’s something I haven’t already done. For instance, to try to get the phone number to call to check the status of the appeal bc it wasn’t the regional number it was the main VA”s number
 
 What was the reason you were using IRIS?
-*  
+
+*  did not capture
 
 ## Notes
 
 Where would you go to to submit a question or comment to the VA? 
 
-*   
- 
+* There’s all these different things, I need to move some things around to find it. I would click Contact Us to see if there’s any FAQs or search a specific question, but my mouse is no longer moving. If I had a specific question, I would type it.
 What do you expect to see on a ‘Contact us’ page?
 
-*  
+*  n/a
 
 Imagine you’re dealing with a problem with your eye glasses, and your local VA is in Allentown PA.  Show me how you would send a question to the VA about glasses, indicating it’s for yourself and that you want to find out kinds of glasses you can get with your benefits.
 
-*  
+* he user thinks typically such a page will provide: Search a question, call in, send a question functionalities 
+* Generally I wouldn't sign in, I only sign in if it’s something specific for instance medicine refill, because it could just be me giving feedback, an experience good or bad, I might want to remain anonymous
+* (start message without signing in)
+*  Chose Health/Medical issues & services > Medical care issues at specific facility 
+*  Husband is “creature of habit”, doesn’t want to switch facilities, still goes to the one in PA
+*  Looking for facility, “Can’t I just type?” (scroll seems slow or laggy?) It would make it easier if while I was in that box, I could type a few letters to start the search
+*  If i have a problem i would say the problem with my glasses - so not a question
+*  How do you generally like being contacted? Phone, well depends on what it is, but in this case, problem with my glasses so I want them to call me back. *  For something different, might want them to email me
+*  Make sure everything is correct and then I would submit it (reviews as she goes)
+*  Make sure I didn’t mess anything up, review that everything is correct, and then I would think there would be something that says thank you for your question, we will be in contact with you shortly or give me an immediate confirmation number or something so I can track it if they don’t contact me, an incident number, that way you know one, it’s submitted and two, that you have something to look back at. I’m a paper person, because I work with attorneys. I have everything organized
+*  Having the conf number? Yeah that’s perfect, it does say too print this page for your records, so if I don’t hear back
 
-Now go ahead and fill in the rest of the form - you can just use fake data. (test@test.com) - but don’t submit the form. (Stop them after they’ve filled out their contact info, before they get to the submit page)
-
-*  
 Now before you click submit, what do you think will happen? (Now go ahead and click on submit).  Is that what you expected to happen?
 
-*  
+*  n/a
 
 # Questions
 
@@ -103,16 +116,3 @@ We simplified the categories in the drop down menu - what was that experience li
 *   
 
 
-FORMATTING
-
-*This text will be italic*
-_This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_  
-
-* Item 2
-  * Item 2a
-  * Item 2b
