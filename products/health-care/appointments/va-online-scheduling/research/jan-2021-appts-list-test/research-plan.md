@@ -61,26 +61,24 @@ We plan on running this research between Wednesday January 20th and Tuesday Janu
 
 We expect each session to take around 45 minutes, and would like 15 minutes after each session to process notes.
 
-Availability (all times in EST)
+Availability (all times in ET/GMT-05)
 
-| Date      | Available time                   |
+| Date      | Available times                   |
 | --------- |----------------------------------|
-| 01/20 Wed | TBD                |
-| 01/21 Thu | TBD              |
-| 01/22 Fri | TBD                         |
-| 01/25 Mon | TBD           |
-| 01/26 Tue | TBD |
+| 01/20 Wed | 11am-4pm, 5pm-9pm                 |
+| 01/21 Thu | 11am-9pm              |
+| 01/22 Fri | 11am-9pm                         |
+| 01/25 Mon | 11am-4pm           |
+| 01/26 Tue | 11am-9pm |
 
-The Pilot session time and participant is [TBD]
+The Pilot is scheduled for 01/19/21 with Emily Waggoner
 
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-
 - Moderator: Peter Russo - 510-529-9874 - peter.russo@adhocteam.us	
 - Research guide writing and task development: Peter Russo
 - Participant recruiting & screening: Perigean
 - Project point of contact:	Peter Russo
-- Participant(s) for pilot test: [TBD]
+- Participant(s) for pilot test: Emily Waggoner
 - Note-takers: Perigean
 - Observers:
     - Lauren Earnest - lauren.ernest@adhocteam.us
