@@ -30,11 +30,10 @@
  
 ### Campaign landing page MVP 1.0
 
-- Review Sprint Plan (Burndown and Velocity)
+- Finalize OKR/KPIs - Submit a KPI Tracking Ticket
 - Feedback and Updates based on content add (John/Randi)
-- CMS Blockers / Impediments 
-- Analytics / Governance Discussion - Impact on build.
-- Collaboration Cycle Review - Next Steps 
+- CMS Blockers / Impediments (None Known at this time) 
+- Collaboration Cycle Review - Next Steps _Looks like "Staging Review" may be the next big CC checkpoint_ 
 
 
 ## Friday, December, 18, 2020
