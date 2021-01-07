@@ -4,7 +4,7 @@
 
 - [Introduction](#introduction)
   * [Terminology](#terminology)
-  * [Requirements](#requirements-draft)
+  * [Requirements](#requirements)
   * [Workflow](#workflow)
       - [Front-end workflow](#front-end-workflow)
       - [Back-end workflow](#back-end-workflow)
@@ -64,7 +64,9 @@ Pact enables VFS teams to test integration points with vets-api. This gives VFS 
 - **broker**: The central location where pacts are hosted. The [Pact broker](https://dev.va.gov/_vfs/pact-broker) is hosted internally. You can view the interactions per endpoint and the verification matrix from the broker index.
 
 
-### Requirements (effective date TBD)
+### Requirements
+
+**Effective date TBD**
 
 VFS teams are required to use Pact for contract testing in the following scenarios:
 
@@ -75,7 +77,7 @@ VFS teams are required to use Pact for contract testing in the following scenari
 
 To meet this requirement, your team will need to either create a Pact test or update an existing Pact test for the vets-api endpoints used. Integrations that only use vets-api as a proxy to another service are exempt from this requirement.
 
-VSP does not currently actively enforce this requirement (last updated 9/2020).
+VSP does not currently actively enforce this requirement (last updated 1/2021).
 
 PRs related to Pacts will go through the standard [code review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/code_review_guidelines.md).
 
