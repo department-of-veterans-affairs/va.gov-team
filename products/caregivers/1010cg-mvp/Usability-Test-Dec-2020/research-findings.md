@@ -54,65 +54,44 @@ A task-based remote, moderated usability study was conducted via GoToMeeting bet
 
 ## Details of Findings
 
-**Participants encountered pain points in the form but were able to achieve the goal of applying with a selected Caregiver**
+**1. Participants encountered pain points in the form but were able to achieve the goal of applying with a selected Caregiver**
 
-Some participants did have some confusion with the verbiage of the Primary Family Caregiver question (Would you like to add a Primary Family Caregiver?)  
+**Some participants did have some confusion with the verbiage of the Primary Family Caregiver question (Would you like to add a Primary Family Caregiver?)** A few participants tried to enter their health care provider information in the Primary Family Caregiver fields. Relating the word “Primary” and “Caregiver” to medical professionals. One participant stated, “I misread it. I thought it said primary care doctor or physician. But I just blew through it.” Another participant added, "My primary caregiver is, that would be my doctor, right?”
 
--  A few participants tried to enter their health care provider information in the Primary Family Caregiver fields. Relating the word “Primary” and “Caregiver” to medical professionals. One participant stated, “I misread it. I thought it said primary care doctor or physician. But I just blew through it.” Another participant added, "My primary caregiver is, that would be my doctor, right?”
+Some Participants found the word “family” troubling for the Primary Family Caregiver and Secondary Family Caregiver questions, Ultimately, leading to questions around eligibility. Questions like, “Can it be a buddy?” surfaced. One Caregiver stated, “There's a lot of homeless Veterans who don't have anyone, and a lot of people who don't have family... so friends would have to help them.” 
 
--  Some Participants found the word “family” troubling for the Primary Family Caregiver and Secondary Family Caregiver questions, Ultimately, leading to questions around eligibility. Questions like, “Can it be a buddy?” surfaced. One Caregiver stated, “There's a lot of homeless Veterans who don't have anyone, and a lot of people who don't have family... so friends would have to help them.” 
+The placement/content of the What is a Primary Family Caregiver/Secondary Family Caregiver questions confused some participants. Some participants seemed to “skip over” the question, Would you like to add a Primary Family Caregiver? Focusing instead on the “additional information” component, What’s a Primary Family Caregiver? 
 
+Some participants questioned the location of the question, “Would you like to add a Primary Family Caregiver?” Following the Veteran information/before caregiver information “Well if I'm applying for it, I’m not sure why they would ask... I've already answered and read about that in the beginning. I probably wouldn't know why I'm being asked that. It doesn't seem useful. It seems odd to put it there. I would hope I know already if I'm applying to be one.”
 
-- The placement/content of the What is a Primary Family Caregiver/Secondary Family Caregiver questions confused some participants. Some participants seemed to “skip over” the question, Would you like to add a Primary Family Caregiver? Focusing instead on the “additional information” component, What’s a Primary Family Caregiver? 
+**Only two participants tried to apply with a secondary caregiver** One participant hesitated on the Primary Family Caregiver page before finding information within the “Additional info” componen and proceeding with the form. The second participant filled out the Primary Family Caregiver information before proceeding to the Secondary Family Caregiver fields 
 
--  Some participants questioned the location of the question, “Would you like to add a Primary Family Caregiver?” Following the Veteran information/before caregiver information “Well if I'm applying for it, I’m not sure why they would ask... I've already answered and read about that in the beginning. I probably wouldn't know why I'm being asked that. It doesn't seem useful. It seems odd to put it there. I would hope I know already if I'm applying to be one.”
-
-Only two participants tried to apply with a secondary caregiver 
-
-- One participant hesitated on the Primary Family Caregiver page before finding information within the “Additional info” componen and proceeding with the form. The second participant filled out the Primary Family Caregiver information before proceeding to the Secondary Family Caregiver fields 
-
-Some participants found who can become a Secondary Family Caregiver and their role unclear.  
-
-- Participants had questions around the requirements for Secondary Family Caregivers. One participant stated, “Can my mother-in-law be a Secondary Family Caregiver? She lives out of state?” Another participant added, “I guess I don’t understand this designation. I know for a backup but don’t know if for example… does a secondary act as a backup are they already cleared and ready to go and they just fill in immediately?”
+**Some participants found who can become a Secondary Family Caregiver and their role unclear** Participants had questions around the requirements for Secondary Family Caregivers. One participant stated, “Can my mother-in-law be a Secondary Family Caregiver? She lives out of state?” Another participant added, “I guess I don’t understand this designation. I know for a backup but don’t know if for example… does a secondary act as a backup are they already cleared and ready to go and they just fill in immediately?”
 
 
 ## Additional Insights
 
-The medical facility page caused difficulty for some participants 
+**The medical facility page caused difficulty for some participants** Veteran’s receive care at multiple locations and some participants were unsure which to enter. A participant stated, ”He goes to different facilities every week...I would probably put the hospital that's the last place he talked to...I'd guess the last place he went. Yesterday he went to 2 different clinics.” 
 
--  Veteran’s receive care at multiple locations and some participants were unsure which to enter. A participant stated, ”He goes to different facilities every week...I would probably put the hospital that's the last place he talked to...I'd guess the last place he went. Yesterday he went to 2 different clinics.” 
+Additionally, the last received medical treatment question caused confusion for some participants. For some participants, it was unclear if they should list a VA facility or community care. One participant stated, “Is that the doctor I went to or is that the VA hospital I went to? Is that a hospital or a clinic? I’m not sure if it’s VA or any place.” 
 
-- Additionally, the last received medical treatment question caused confusion for some participants. For some participants, it was unclear if they should list a VA facility or community care. One participant stated, “Is that the doctor I went to or is that the VA hospital I went to? Is that a hospital or a clinic? I’m not sure if it’s VA or any place.” 
+Some participants found the two questions to be unnecessary. “Because it's a medical facility... It's the same question that just kind of turned around. Those are the little things that frustrate the veteran on using things on the computer. It's redundant.” Another added, “VA medical center AGAIN, we've already answered that.”
 
-- Some participants found the two questions to be unnecessary. “Because it's a medical facility... It's the same question that just kind of turned around. Those are the little things that frustrate the veteran on using things on the computer. It's redundant.” Another added, “VA medical center AGAIN, we've already answered that.”
+**Caregiver’s would complete the form on behalf of the Veteran. Additionally, participants would often enter the Caregiver’s phone and email in the appropriate Veteran’s fields** One participant noted, “I would list my phone number first and the veteran’s phone second so they would have all of that. When the VA calls, they would be calling someone that would most likely answer and help with the care. If they did need to speak directly with my husband, I can also facilitate that much easier then them reaching out to him directly.”
 
-Caregiver’s would complete the form on behalf of the Veteran. Additionally, participants would often enter the Caregiver’s phone and email in the appropriate Veteran’s fields. 
+**Participants that triggered the error found it odd that there was no way to resubmit application online** A participant said,  “there should be an option to re-submit it online. You should be able to review your errors without having to worry about downloading something. If you are the caregiver, you really don’t have any extra time to worry about downloading something and trying to print it.”
 
-One participant noted, “I would list my phone number first and the veteran’s phone second so they would have all of that. When the VA calls, they would be calling someone that would most likely answer and help with the care. If they did need to speak directly with my husband, I can also facilitate that much easier then them reaching out to him directly.”
+**Some participants expressed the desire to easily indicate the caregiver address is the same as the Veteran’s address.** A participant noted, “For address it should say “same as above”, why do we have to put in all this extra information? If it is redundant, why can’t we just say “same as Veteran” and all this information populate?” 
 
-Participants that triggered the error found it odd that there was no way to resubmit application online.
+**Some participants expressed the desire to have a another option for sex/gender** One participant said, “Only having 2 options here as male and female as things progress I would have an ‘other’ radio button here…”
 
-A participant said,  “there should be an option to re-submit it online. You should be able to review your errors without having to worry about downloading something. If you are the caregiver, you really don’t have any extra time to worry about downloading something and trying to print it.”
+**The importance of mobile first design was validated** The amount of scrolling increased on mobile may have caused a participant to miss the How to Apply button. The dropdowns are a challenge on mobile devices. Printing and saving confirmation is difficult on a mobile device. One user noted, “there’s no way on mobile devices to save this document and send it to yourself once you complete this.”
 
-Some participants expressed the desire to easily indicate the caregiver address is the same as the Veteran’s address.
+**One participant expressed the desire to sign as a representative/POA for the Veteran** The participant said, “I just like to be transparent about who is communicating...I’m always documenting when it is me doing something on his behalf...This isn’t always recognized by the VA especially if it’s medical versus financial. It would literally be me typing for him. If it wouldn’t let me have this sort of disclaimer here.”
 
-A participant noted, “For address it should say “same as above”, why do we have to put in all this extra information? If it is redundant, why can’t we just say “same as Veteran” and all this information populate?” 
+**Some participants had issues locating the green How to Apply or Start your application buttons** 
 
-Some participants expressed the desire to have a another option for sex.
-
-One participant said, “Only having 2 options here as male and female as things progress I would have an ‘other’ radio button here…”
-
- The importance of mobile first design was validated 
-
-The amount of scrolling increased on mobile may have caused a participant to miss the How to Apply button. The dropdowns are a challenge on mobile devices. Printing and saving confirmation is difficult on a mobile device. One user noted, “there’s no way on mobile devices to save this document and send it to yourself once you complete this.”
-
-One participant expressed the desire to sign as a representative/POA for the Veteran.
-
-The participant said, “I just like to be transparent about who is communicating...I’m always documenting when it is me doing something on his behalf...This isn’t always recognized by the VA especially if it’s medical versus financial. It would literally be me typing for him. If it wouldn’t let me have this sort of disclaimer here.”
-
-Some participants had issues locating the green How to Apply or Start your application buttons. 
-
-Participants found the respondent burden helpful. Several users had experience previously with the paper form. Participants generally thought the online experience was simple and easy to use. 
+**Participants found the respondent burden helpful. Several users had experience previously with the paper form. Participants generally thought the online experience was simple and easy to use**
 
 
 ## Recommendations
