@@ -41,8 +41,8 @@ Slack - #va-notify
 * [VANotify API Documentation](https://github.com/department-of-veterans-affairs/notification-api#api-documentation)
 * Staging URL: https://staging.api.notifications.va.gov
 * Templating guides: 
- * https://github.com/department-of-veterans-affairs/notification-utils/tree/master/docs
- * https://notification.canada.ca/templates
+  * https://github.com/department-of-veterans-affairs/notification-utils/tree/master/docs
+  * https://notification.canada.ca/templates
 
 ![](images/technical.png)
 
