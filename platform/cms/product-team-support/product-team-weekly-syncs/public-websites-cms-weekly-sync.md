@@ -35,6 +35,19 @@
 
 </details>
 
+## Wednesday January 13 10am ET
+
+### Campaign landing page MVP
+
+- Question for Ryan T: Should an image be required for the Hero panel? If not, what color/gradient choice should be implemented?
+
+### Resources & support
+
+- 
+
+### Benefits detail pages
+
+- 
 
 ## Wednesday January 6 10am ET
 
