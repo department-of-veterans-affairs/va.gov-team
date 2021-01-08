@@ -1,6 +1,6 @@
 # IRIS Usability Testing Notes
 
-P1.IRIS usability testing.202012141000  (2020-12-14 10am)
+P15.IRIS usability testing.202012181400 (2020-12-18 2pm)
 
 ## Participant Info
 
