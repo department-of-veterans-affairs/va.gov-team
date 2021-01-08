@@ -129,11 +129,11 @@ Slack is preferred over emails; however, you will get meeting requests via email
 | [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)      | VSP Platform Support (Help). Developers spend a lot of time here.|
 | #vsa                       | VSA all teams and practice areas            |
 | [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp)             | Team: Authenticated Experience              |
-| [#vsa-bam-2](https://dsva.slack.com/channels/vsa-bam-2)                 | Team: Benefits And Memorial #2              |
-| [#vsa-benefits-memorial](https://dsva.slack.com/channels/vsa-benefits-memorial)     | Team: Benefits And Memorial #1              |
+| [#vsa-bam-2 aka #vsa-debt](https://dsva.slack.com/channels/vsa-bam-2)                 | Team: Benefits And Memorial #2              |
+| [#vsa-benefits-memorial aka #vsa-claims-appeals](https://dsva.slack.com/channels/vsa-benefits-memorial)     | Team: Benefits And Memorial #1              |
 | [#vsa-caregiver](https://dsva.slack.com/channels/vsa-caregiver)             | Team: Caregiver                             |
 | [#vsa-caregiver-engineering](https://dsva.slack.com/channels/vsa-caregiver-engineering) | Team: Caregiver (just devs)                 |
-| [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)             | Team: eBenefits                             |
+| [#vsa-ebenefits aka #vsa-ebn-migration](https://dsva.slack.com/channels/vsa-ebenefits)             | Team: eBenefits                             |
 | [#vsa-engineering](https://dsva.slack.com/channels/vsa-engineering)           | VSA Frontend and Backend Engineers          |
 | [#vsa-facilities](https://dsva.slack.com/channels/vsa-facilities)            | Team: Facilities                            |
 | [#vsa-product](https://dsva.slack.com/channels/vsa-product)               | VSA Product Collaboration (PMs, etc)        |
@@ -141,6 +141,10 @@ Slack is preferred over emails; however, you will get meeting requests via email
 | [#vsa-vamc-upgrade](https://dsva.slack.com/channels/vsa-vamc-upgrade)          | Team: Medical Center                        |
 | [#vsa-clipboard](https://dsva.slack.com/channels/vsa-clipboard)             | Team: Healthcare                            |
 | [#vsa-clipboard-tech-questions](https://dsva.slack.com/channels/vsa-clipboard-tech-questions) | Team: Healthcare (just devs/technical) |
+| [#va-search](https://dsva.slack.com/channels/va-search) | Team: Search and Discovery |
+| [#vsa-content-localization](https://dsva.slack.com/channels/vsa-content-localization) | Team: Translation |
+| [#vsa-decision-tools](https://dsva.slack.com/channels/vsa-decision-tools) | Team: Decision Tools |
+
 
 - If you still have questions about getting started or where to find certain resources (after having internally checked within your team and lead), the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) channel is a good place to get some visibility to your question. It is the best way for team members to engage with the VSP Platform Support Team.
 - **Bots**: **_/wtf_** On the DSVA slack, you can look up VA Acronyms (source/data: https://github.com/department-of-veterans-affairs/acronyms)
@@ -449,6 +453,11 @@ Once you have received your VA login credentials, it is imperative that you log 
 ## VA Service Desk
 
 The VA National Service Desk (NSD) (aka VA Enterprise Service Desk) number is 855-NSD-HELP (855-673-4357). For this project you might use it for issues with VA Citrix Access Gateway (CAG), VA email, VA Talent Management System (TMS), or outages/downtime associated with VA Enterprise Services.
+
+## Platform Newsletter
+
+- Subscribe to the monthly VSP newsletter: https://mailchi.mp/d59e37e19d1a/vagov-platform-newsletter-landing-page
+- Archives: https://us19.campaign-archive.com/home/?u=6e3ab59c527a3cc8ef560eeb5&id=f87a8d4ff3
 
 ## Onboarding FAQs
 
