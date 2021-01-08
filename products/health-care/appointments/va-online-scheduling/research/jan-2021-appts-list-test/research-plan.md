@@ -57,7 +57,7 @@ This will be a remote moderated usability test with high-fidelity prototypes. We
 We will ask for Perigean support in recruiting and taking notes.
 
 ## When? 	
-We plan on running this research between Wednesday January 20th and Tuesday January 26, 2021. The prototype should be ready by Tuesday, January 19th, and we'll plan to do a pilot study that same day.
+We plan on running this research between Thursday January 21st and Tuesday January 26, 2021. The prototype should be ready by Tuesday, January 19th, and we'll plan to do a pilot study that same day.
 
 We expect each session to take around 45 minutes, and would like 15 minutes after each session to process notes.
 
@@ -65,7 +65,6 @@ Availability (all times in ET/GMT-05)
 
 | Date      | Available times                   |
 | --------- |----------------------------------|
-| 01/20 Wed | 11am-4pm, 5pm-9pm                 |
 | 01/21 Thu | 11am-9pm              |
 | 01/22 Fri | 11am-9pm                         |
 | 01/25 Mon | 11am-4pm           |
