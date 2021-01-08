@@ -1,13 +1,6 @@
 # IRIS Form - Contact Info
 
-## IMPORTANT TO NOTE
-Please note this document will be updated; the form and the project repository are more up-to- date than this document.
-
-
-
-Relevant links: 
-- [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/68) - this is the story for the main Contact Info page
-- [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/36) - this is a story for additional values around Social Security number etc.  There may be additional form elements in that story - since it's in the backlog we have subsequent stories for the GI Bill and Myhealthevet forms as well.
+This is being updated...
 
 ### Description
 This page will be the main Contact Us form that will allow users to include their contact information, and will allow the VA to understand who is contacting them and why.
