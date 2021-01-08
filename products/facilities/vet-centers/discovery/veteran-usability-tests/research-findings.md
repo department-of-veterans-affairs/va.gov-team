@@ -99,6 +99,8 @@ Participants carried the mental model of a VA hospital campus when describing ad
 
 By the end of the session, many participants (those that never read the intro paragraph) still believed that they could go to this facility for primary care.
 
+**The long list of services made Veterans think this facility was a campus.** Veterans had a hard time reconciling the size of the facility in the photo with the number of services available. 
+
 > “I would probably put it up at the top in that first little paragraph we do not offer any type of medical services.  I would definitely word it in a way that doesn't come off as being mean or threatening but just matter-of-factly so that the Veteran doesn't show up there,  thinking he's going to get his knee looked at. That's not what we do. But I think that'd be VERY frustrating for a veteran trying to go to these places. I would definitely put it at the top.  Mental health but not physical.”
 
 >"Making it clear what's onsite and what's within the community. Its alot nicer for me here, my VA is pretty huge and everything is under one roof. Most of it is on the same campus. Is this one small building or a bigger campus?"
