@@ -106,6 +106,7 @@ Some participants found the two questions to be unnecessary. “Because it's a m
 - Update content in “Additional info” component 
 - Display clearly and in plain language  who can act as a Primary Family Caregiver and Secondary Family Caregiver 
 - Enable the user to enter the medical facility information confidently and correctly by redesigning page 
+- (Re)explore allowing resubmission when error is triggered 
 
 ## Next Steps
 
