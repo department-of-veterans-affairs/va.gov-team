@@ -1,5 +1,5 @@
 # After Visit Summary (AVS)
-AVS is a software tool developed by the VA Loma Linda Healthcare System Informatics Team. This tool enables providers to print out both a Pre-Visit Summary (PVS) and an After-Visit Summary (AVS) to provide to patients. The AVS too is automatically populated with data from CPRS.
+AVS is a software tool developed by the VA Loma Linda Healthcare System Informatics Team. This tool enables providers to print out both a Pre-Visit Summary (PVS) and an After-Visit Summary (AVS) to provide to patients. The PVS and AVS are automatically populated with data from CPRS.
 
 ### After Visit Summary (AVS) Online User Guide
 http://r01dvrappavs01.r01.med.va.gov/avs/help/
