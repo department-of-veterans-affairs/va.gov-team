@@ -112,7 +112,7 @@ Awesome! Since this is a fake form, we've gone ahead and put some fake informati
 
 #### Contact information
 
-**Things to watch for&&
+**Things to watch for**
 
 -   Does the participant re-enter their email address?
 
@@ -154,13 +154,13 @@ Awesome! Since this is a fake form, we've gone ahead and put some fake informati
 
 -   Would you be able to easily provide your spouse's employment information?
 
-    -   [If no] How would you proceed with the form?
+    -   [If no] What would you do next?
 
-    -   [If yes] Would you know your spouse's payroll deduction information? If no, what would your next steps be for submitting the form?
+    -   [If yes] Would you know your spouse's payroll deduction information? If no, what would your next steps be?
 
 -   [If their spouse has had additional jobs in the past two years]
 
-    -   Similar to the previous question, would you know this information? If no, what would you do?
+    -   Similar to the previous question, would you know this information? If no, what would you do next?
 
 -   [If their spouse receives VA benefits]
 
@@ -198,7 +198,7 @@ To protect your personal information, you may use fake values for these fields.
 
 -   [If they own real estate] 
 
-    -   How would you estimate your property's value?
+    -   What resource would you use to estimate your property's value?
 
 **Things to watch out for**
 
@@ -208,7 +208,7 @@ To protect your personal information, you may use fake values for these fields.
 
 -   [If they own these assets] 
 
-    -   How would you estimate their  value?
+    -   What resource would you use to estimate their value?
 
 **Things to watch out for**
 
@@ -220,7 +220,7 @@ To protect your personal information, you may use fake values for these fields.
 
 -   [If they own a vehicle] 
 
-    -   How would you estimate your vehicle's  value?
+    -   What resource would you use to estimate the value of your vehicle(s)?
 
 **Things to watch out for**
 
@@ -254,7 +254,7 @@ To protect your personal information, you may use fake values for these fields.
 
 -   What is the participant's reaction to providing their estimated household expenses?
 
--   Does the participant seem fatigued after adding assets and being asked for expenses? 
+-   Does the participant express any feelings after adding assets and being asked for expenses? 
 
 #### Utility bills
 
@@ -300,19 +300,21 @@ Let's say you realized you put in the wrong payment amount for [utility bill]. S
 
 -   Is the participant able to quickly add items? 
 
--   How does the participant feel about this task?
+-   How does the participant feel about this part of the form?
 
 ### Chapter 5
 
 #### Resolution options
 
--   Does the 'financial overview' section at the top of the page match your expectations? 
+-   Does the 'financial overview' section at the top of the page look right to you? 
 
 -   Please describe each debt resolution option
 
--   Let's say you want to request a waiver for the post-9/11 GI bill debt for housing. Show me how you'd go about doing that. 
-
 -   Do you think you have enough information to be able to choose an option if you were completing the form?
+    
+    - [If no,] what other information would be helpful?
+
+-   Let's say you want to request a waiver for the post-9/11 GI bill debt for housing. Show me how you'd go about doing that. 
 
 **Things to watch for**
 
@@ -367,7 +369,7 @@ That's all the questions I have about the form! I just have a few followup quest
 
 -   What are your overall impressions about this experience?
 
--   Would you use this tool to submit the Financial Status Report? Why or why not?
+-   Would you use this tool to submit a Financial Status Report? Why or why not?
 
 -   Do you have any other thoughts to share with us today?
 
