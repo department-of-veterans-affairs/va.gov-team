@@ -105,6 +105,8 @@ By the end of the session, many participants (those that never read the intro pa
 
 >"Making it clear what's onsite and what's within the community. Its alot nicer for me here, my VA is pretty huge and everything is under one roof. Most of it is on the same campus. Is this one small building or a bigger campus?"
 
+>"I'm looking at the picture of the facility thinking it's an awful small looking facility to be able to have all of these things that are available. I know from past experience that you're not going to have an office for each of these things in there.  You're probably going to have one office there that's going to direct you to other things that might not be at that facility but probably be directed to another facility."
+
 
 #### 2. Veterans who have been through counseling are comfortable with the term, "Mental health care".
 
@@ -240,7 +242,6 @@ Participants called out the yellow banner containing the Vet Center hotline that
 ## Additional Findings
 
 #### 1. Facility photo was important to all participants (information is inferred, assumptions made).
->"I'm looking at the picture of the facility thinking it's an awful small looking facility to be able to have all of these things that are available. I know from past experience that you're not going to have an office for each of these things in there.  You're probably going to have one office there that's going to direct you to other things that might not be at that facility but probably be directed to another facility."
 
 >"handicapped accessible so that's good I work at the VA in Fargo and we have a lot of veterans coming and going and some of them struggle with the with the doors and stuff like that sometimes so  [responds to photo with ramps]"
 
