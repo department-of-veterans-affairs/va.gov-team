@@ -17,5 +17,4 @@
 
 Notes | Date and Time | Status | Device | Gender | Age  | Location
 ----- | ------------- | ------ | ------ | ------ | ----- | ----- 
-[P01] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/Transcripts/Participant%201.md) | Monday, Dec. x 11 - Noon EST | Attended | iOS  | Veteran | Male  | 35-44 | Location
-
+[P1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/Transcripts/Participant%201.md) | Monday, Dec. x 11 - Noon EST | Attended | Device | Gender  | Age | Location
