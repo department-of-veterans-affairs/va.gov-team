@@ -26,7 +26,9 @@ Initially, we had implemented and enabled the Save in Progress feature. This dec
 ## Consequences
 
 1. User will lose all of the Contact Us form draft when their logged in session expires. 
-2. As user makes changes, they do not see "your progress has been saved message" on the bottom of the page, and in-progress form does not get saved in database. 
+2. As user makes changes, they do not see "your progress has been saved message" on the bottom of the page, and in-progress form does not get saved in database.
+3. A signed in user will lose all data if they navigate away from the form even if very briefly.
+4. A non signed in user will not see 'Sign in to save your progress' on the introduction page of the application
 
 Relevant links:
 - [Spike](https://github.com/department-of-veterans-affairs/orchid/issues/255)
