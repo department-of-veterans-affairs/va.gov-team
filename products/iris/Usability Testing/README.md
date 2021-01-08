@@ -12,17 +12,10 @@
 
 - links: to do.  Need to update them (only one is done?)
 
-- biographical content: to do (can simplify the table.  Rachel has a PDF of the participants' bio info that we'll use to update this.  
+- biographical content: to do Rachel has a PDF of the participants' bio info that we'll use to update this.  
 
-
-
-| ------------------------------------------------------------ | ------------ |------------ | ------------ | ------------ | ----------------------------------------------------- | ------ | ------------------------------------------------------- | -------- | ------------------------ | ------------------ | -------- | ------------------------ | ------------------
 
 Notes | Date and Time | Status | Device | Gender | Age  | Location
 ----- | ------------- | ------ | ------ | ------ | ----- | ----- 
-[P01] | Monday, Dec. x 11 - Noon EST | Attended | iOS  | Veteran | Male  | 35-44 | Location
-
-
-(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/Transcripts/Participant%201.md)
-
+[P01] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/Transcripts/Participant%201.md) | Monday, Dec. x 11 - Noon EST | Attended | iOS  | Veteran | Male  | 35-44 | Location
 
