@@ -2,10 +2,10 @@ Dec. 8 Whole Health provider (Also an emergency medicine provider)
 
 
 Key Takeaways
-Believes the Personal Health Inventory to be a shared experience that provider should help Veterans fill out. 
-Believes that a completed Personal Health Inventory should be available online for the Veteran to review, to show other non-VA providers and even discuss with their families.
-Thinks our opportunity lies more with the PACT teams. 
-Knows that some of the Whole Health specialists, such as dietitians and coaches, would definitely be interested in tracking data from health devices. 
+- Believes the Personal Health Inventory to be a shared experience that provider should help Veterans fill out. 
+- Believes that a completed Personal Health Inventory should be available online for the Veteran to review, to show other non-VA providers and even discuss with their families.
+- Thinks our opportunity lies more with the PACT teams. 
+- Knows that some of the Whole Health specialists, such as dietitians and coaches, would definitely be interested in tracking data from health devices. 
 
 
 Interview
