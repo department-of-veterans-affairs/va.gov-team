@@ -2,10 +2,10 @@
 
 ## Find VA Forms - Search Landing Page Use Cases
 ### Use Case A 
-#### Search for existing form
+#### Search for valid form with no detail page or Online Tool equivalent
 
 * **Description:** 
-  - When a user searches for a valid VA form (one that is in the VA forms database and a form detail detail page) 
+  - When a user searches for a valid VA form (one that is in the VA forms database) that does not have a detail page.
 
 * **Link to designs:** 
   - PDF prototype: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/design/VA-Form-search-landing-results.pdf 
@@ -14,10 +14,24 @@
   - https://staging.va.gov/find-forms/
 
 * **Link to TestRail Test Case**
-  - C858 https://dsvavsp.testrail.io/index.php?/cases/view/858 \[Request TR login credentials from @mickinsahni]
------
+  - 
+----
 
+### Use Case B
+#### Search for valid form without Online Tool equivalent
 
+* **Description:** 
+  - When a user searches for a valid VA form that also has an Online Tool equivalent
+
+* **Link to designs:** 
+  - PDF prototype: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/design/VA-Form-search-landing-results.pdf 
+
+* **Instructions to access in Staging
+  - https://staging.va.gov/find-forms/
+
+* **Link to TestRail Test Case**
+  - 
+----
 
 
 
