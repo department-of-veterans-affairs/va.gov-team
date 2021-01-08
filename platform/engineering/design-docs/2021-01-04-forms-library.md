@@ -73,15 +73,55 @@ Sub-Modules](https://git-scm.com/book/en/v2/Git-Tools-Sub-Modules)._
 ## Specifics
 
 ### Detailed Design
-Key technologies we'll use:
+**Key technologies** we'll use:
 - React
 - TypeScript
 
-#### Routing
+The following sections outline the various parts of the systems. Heading
+descriptors include:
+- `Sub-module:` These describe sub-modules
+- `Helper:` These describe development aids for building forms
+  - Common components, functions, variables, etc. which can be used by engineers
+    to rapidly build forms and maintain UX consistency across VA.gov
 
-#### Form page builder
+#### Sub-module: State management
+A state manager provides the context to its children for setting and getting
+form state. This will be the only sub-module required by other sub-modules.
 
-#### Validation
+The state management functions will be provided to its children through [React
+context](https://reactjs.org/docs/context.html).
+
+The default manager will be `ReduxManager` which will store state in Redux.
+
+**Discussion:** What must a state manager be responsible for?
+- Setting and retrieving
+  - User input
+  - Validation errors
+
+#### Sub-module: Routing
+This submodule will be responsible for the user navigating through the form. In
+particular, it will:
+- Create routes for each page
+- Render each page wrapped in the chrome appropriate for navigation
+  - Form title, page title, progress bar, back / continue buttons, etc.
+- Prevent progress through the form if there are validation errors on the
+  current page
+  - As with all form state, the error state is retrieved from the state manager
+
+#### Sub-module: Form page builder
+The form page builder sub-module will be composed of components and functions
+which engineers can use to rapidly build forms. These components will be
+responsible for:
+- Interfacing with the state manager for setting and retrieving form state
+  - User data
+  - Validation errors errors
+- Calling validation functions
+- Displaying validation errors
+
+Arguably, this sub-module could be considered a helper, but that's semantics, I
+suppose.
+
+##### A note on validation
 Validation will be run on the `onBlur` event for clean inputs and on the
 `onChange` event for dirty inputs. When any validation is run, the validation
 will be run on all dirty inputs to ensure a later field doesn't invalidate an
@@ -90,14 +130,20 @@ earlier one.
 **Discussion:** Alternatively, validation may be run on all dirty inputs only
 during the `onBlur` event.
 
-#### State management
+#### Sub-module: Save-in-progress
 
-#### Save-in-progress
-
-#### Review page
+#### Helper: Review page
 This will be an optional page included in the `Router`'s `pageList` if desired.
+The default review page provided by Formulate will attempt to render the correct
+chapters and pages based on the state in the state manager.
 
-#### Submission validation
+**Discussion:** How? In particular, how do we keep this separate from the
+routing? (If we can't, then we can't, but we should start by trying to keep it
+separate.)
+
+#### Helper: Submission validation
+Compare the form data against a JSON schema.
+
 
 ### Code Location
 Formulate will live in its own repo. The documentation for it will be located at
