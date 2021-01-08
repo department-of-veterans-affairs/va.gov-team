@@ -10,8 +10,9 @@
 
 ## Participants TO BE UPDATE
 
-links: to do
-content: to do
+- links: to do
+
+- content: to do (can simplify the table)
 
 | Session Notes   | Session Day & Time | Session Status | Device        | Scenario Order        |Role                                                  | Gender | Ethnicity                                               | Age      | Education                | Branch             | Location | PTSD or TBI | Disability Rating Over 70% | Rural or Urban | 
 | ------------------------------------------------------------ | ------------ |------------ | ------------ | ------------ | ----------------------------------------------------- | ------ | ------------------------------------------------------- | -------- | ------------------------ | ------------------ | -------- | ------------------------ | ------------------ | -------- |
