@@ -74,4 +74,4 @@ Confirmation page with show more expanded
 ![confirmation_expanded](request-flow/confirmation_expanded.png)
 
 Email when appointment is scheduled by scheduler
-
+![resolved_email](request-flow/resolved_email.png)
