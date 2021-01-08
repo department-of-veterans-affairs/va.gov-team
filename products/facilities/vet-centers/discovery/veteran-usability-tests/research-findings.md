@@ -89,11 +89,11 @@ Participants were told to imagine a scenario where they were going through a rou
 
 #### 1.  Most Veterans thought they were looking at a medical facility's website.
 
-Veterans didn't read intro paragraph on facility pages:
+**Veterans didn't read intro paragraph on facility pages:**
 
 Participants scrolled past the name of the facility and intro paragraph to complete their initial tasks, not noticing that this was not a VA medical facility.  4 never read intro, 4 read it towards the end of the session when they were asked to describe the facility.  
 
-A facility's main function is not clear: 
+**A facility's main function is not obvious to Veterans:** 
 
 Participants carried the mental model of a VA hospital campus when describing additional information they expected to see within the service accordions, such as a number to call or if a referral would be necessary.
 
