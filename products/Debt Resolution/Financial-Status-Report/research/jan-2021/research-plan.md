@@ -12,15 +12,15 @@ This research consists of a usability test on the digitized Financial Status Rep
 
 **2.  Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?**
 
-There are multiple resolution pathways a Veteran can select when resolving their debt including: requesting an extended payment plan, submitting a compromise offer, or asking for a waiver. These options all require the submission of a Financial Status Report (VA Form 5655), which captures a monthly snapshot of the Veteran's monthly household income and expenses. Our goal is to test the FSR's MVP with Veterans to uncover gaps in the flow, pain points, and areas of improvement. 
+There are multiple resolution pathways a Veteran can select when resolving their debt including: requesting an extended payment plan, submitting a compromise offer, or asking for a waiver. These options all require the submission of a Financial Status Report (VA Form 5655), which captures a monthly snapshot of the Veteran's monthly household income and expenses. Our goal is to test the FSR's MVP with Veterans to uncover pain points and areas of improvement. 
 
 **3.  Research questions: What question(s) do you hope to be able to answer after completing this research?**
 
--  Is the form's purpose and repayment options available clear?
+-  Is both the form's purpose and the available repayment options clear?
 
 -  Are Veterans able to easily complete each section of the form?
 
--  Are Veterans able to provide their spouse's employment and income information?
+-  Are Veterans able to easily provide their spouse's employment and income information?
 
 -  Is it clear why Veterans need to provide their financial information and assets?
 
@@ -36,9 +36,9 @@ There are multiple resolution pathways a Veteran can select when resolving their
 
 -  Veterans will be able to identify and select which debt(s) they want to receive financial assistance for, but they may struggle to select a resolution option
 
--  Veterans might not know their spouse's employment history or complete financial snapshot 
+-  Veterans might not know their spouse's employment history or complete monthly financial snapshot 
 
--  Veterans may feel overwhelmed when they begin inputting household expenses and assets, but may find the task easier when they see the predetermined list of input types 
+-  Veterans may feel overwhelmed when they begin inputting household expenses and assets, but may find the task easier when they see the predetermined list of input types
 
 -  Veterans may be concerned about supplying information for assets such as vehicles 
 
@@ -46,7 +46,7 @@ There are multiple resolution pathways a Veteran can select when resolving their
 
 -  Veterans will likely not know all their financial information, such as payroll deductions, without needing to search their personal records
 
--  Veterans may be interested in the next steps after their application is submitted and how long the form will take to process since debts are time-sensitive
+-  Veterans may be interested in the next steps after their application is submitted and when they can expect a decision from DMC
 
 -  Veterans may be interested in updating their application if their financial situation changes or they forgot to include an asset
 
@@ -59,7 +59,7 @@ Remote moderated qualitative interviews and task-based usability testing using t
 
 **2.  Why this method? How does this methodology help you answer your research questions?**
 
-We're using moderated qualitative interviews to understand our user's  thoughts and experiences navigating VA-related debts. We're conducting task-based usability testing on an unauthenticated version of the form in staging to both determine whether or not the form's flow is intuitive and uncover areas of improvement. Much of the form's functionality can't be properly tested using a prototype, so we have decided to test in staging. This will also allow us to expand our recruitment to participants that use assistive technology.
+We're using moderated qualitative interviews to understand our user's thoughts and experiences navigating VA-related debts. Much of the form's functionality can't be properly tested using a prototype, so we have decided to test in staging. We want to determine whether or not the form's flow is intuitive and uncover areas of improvement. Additionally, testing in staging will allow us to expand our recruitment criteria to include participants that use assistive technology.
 
 **3.  Where are you planning to do your research? If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)**
 
@@ -84,9 +84,9 @@ This criteria is necessary to conduct the study. 
 
 -   We would like a total of **15** participants
 
--   We would like **7-8** participants who have previously been notified about a VA-related debt. Please include the following screener question:
+-   We would like **7-8** participants who have previously been notified about a VBA-related debt. Please include the following screener question:
 
-   - "Have you ever received a letter notifying you about a VA debt?"
+   - "Have you ever received a letter notifying you about a Veterans Benefits Administration (VBA) debt?"
 
       - Yes (Qualifies)
 
@@ -94,11 +94,11 @@ This criteria is necessary to conduct the study. 
 
 -   Please confirm participants have Zoom downloaded prior to the session and they know how to screen share
 
--   For this session, we are **able to include** those who use assistive technology, such as screen readers (JAWS, NVDA, VoiceOver, and ChromeVox).
+-   For this session, we **are able to include** those who use assistive technology, such as screen readers (JAWS, NVDA, VoiceOver, and ChromeVox).
 
--   For this session, we are **able  to include** people with significant vision loss.
+-   For this session, we **are able  to include** people with significant vision loss.
 
--   For this session, we are **able to include** people who use magnification tools.
+-   For this session, we **are able to include** people who use magnification tools.
 
 **Secondary criteria**
 
@@ -131,7 +131,7 @@ When?
 
 **1.  Timeline: What dates do you plan to do research?**
 
-January 11 - 15, 2021
+Early Feb (TBD)
 
 **2.  Prepare: When will the thing you are testing be ready?**
 
@@ -145,15 +145,17 @@ About 1 hour
 
 **4.  Availability:** If applicable, when would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S. Specify how much time you want between sessions, if any.
 
--  January 11: 9:30am - 5:00pm EST
+-  February XX: 9:30am - 5:00pm EST
 
--  January 12: 9:30am - 5:00pm EST
+-  February XX: 9:30am - 5:00pm EST
 
--  January 13: 9:30am - 5:00pm EST
+-  February XX: 9:30am - 5:00pm EST
 
--  January 14: 9:30am - 5:00pm EST
+-  February XX: 9:30am - 5:00pm EST
 
--  January 15: 9:30am - 5:00pm EST
+-  February XX: 9:30am - 5:00pm EST
+
+**Please allow at least 30 minutes between sessions** 
 
 **5.  Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
 
@@ -193,7 +195,7 @@ Resources
 
 -   [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/FSR-Product-Outline.md)
 
--   Convo Guide (TBD) 
+-   [Convo Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/research/jan-2021/conversation-guide.md) 
 
 -   Synthesis Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)
 
