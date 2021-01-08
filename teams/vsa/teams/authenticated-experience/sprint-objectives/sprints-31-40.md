@@ -479,13 +479,10 @@ BE READY FOR QA NEXT SPRINT
 
 ### VA Profile notification preferences
 
-**PM**
-
-- Hold platform kickoff (maybe)
-
 **BE**
 
-- Start/Continue implementation
+- Technical Discovery #18054
+- Start implementation #18056
 
 ## Sprint 40 (1/27 – 2/9)
 
@@ -527,6 +524,10 @@ BE READY FOR QA NEXT SPRINT
 - QA fixes, if applicable
 
 ### VA Profile notification preferences
+
+**PM**
+
+- Kickoff?
 
 **Design**
 
