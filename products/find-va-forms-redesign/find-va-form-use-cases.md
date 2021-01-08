@@ -2,10 +2,10 @@
 
 ## Find VA Forms - Search Landing Page Use Cases
 ### Use Case A 
-#### Search for valid form with no detail page or Online Tool equivalent
+#### Search for form with Form Detail page link
 
 * **Description:** 
-  - When a user searches for a valid VA form (one that is in the VA forms database) that does not have a detail page.
+  - When a user searches for a valid VA form (one that is in the VA forms database) that has a detail page.
 
 * **Link to designs:** 
   - PDF prototype: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/design/VA-Form-search-landing-results.pdf 
@@ -14,11 +14,11 @@
   - https://staging.va.gov/find-forms/
 
 * **Link to TestRail Test Case**
-  - 
+  - https://dsvavsp.testrail.io/index.php?/cases/view/3953
 ----
 
 ### Use Case B
-#### Search for valid form without Online Tool equivalent
+#### Search for VA Form with Online Tool link
 
 * **Description:** 
   - When a user searches for a valid VA form that also has an Online Tool equivalent
@@ -30,7 +30,41 @@
   - https://staging.va.gov/find-forms/
 
 * **Link to TestRail Test Case**
-  - 
+  - https://dsvavsp.testrail.io/index.php?/cases/view/3977
+  
+    
+  ### Use Case C
+#### Search for Deleted VA Form
+
+* **Description:** 
+  - When a user searches for a form that was once valid, but has since been deleted/deprecated.
+
+* **Link to designs:** 
+  - PDF prototype: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/design/deleted-form.png
+
+* **Instructions to access in Staging
+  - https://staging.va.gov/find-forms/
+
+* **Link to TestRail Test Case**
+  - https://dsvavsp.testrail.io/index.php?/tests/view/37090
+  
+    
+  ### Use Case D
+#### Search for Invalid VA Form
+
+* **Description:** 
+  - When a user searches for a VA form that is not valid, and was not valid in the past.
+
+* **Link to designs:** 
+  - PDF prototype: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/design/invalid-form.png
+
+* **Instructions to access in Staging
+  - https://staging.va.gov/find-forms/
+
+* **Link to TestRail Test Case**
+  - https://dsvavsp.testrail.io/index.php?/tests/view/37093
+  
+
 ----
 
 
