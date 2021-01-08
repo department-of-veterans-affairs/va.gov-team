@@ -27,6 +27,7 @@ Replacement of the veteran and other beneficiary facing side of this system will
 An initial version of a custom form that ThoughtWorks has built exists here: https://staging.va.gov/ask-a-question
 
 [11-19-2020] The Member services team supporting MHV-TS will be responsible for building the replacement form for MHV-Technical Support. 
+
 [1-7-2021] It has been decided by VEO and DEPO that the veteran facing component of IRIS inquiry forms will be implemented using Microsoft Dynamics Omnichannel Portal which will be hosted on VA.gov. There will be no custom forms development 
 
 
