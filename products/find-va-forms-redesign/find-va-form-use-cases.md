@@ -1,6 +1,42 @@
 # Find VA Forms - Product Use Cases
 
-## Find VA Forms - Detail Pages Use Cases
+## Find VA Forms - Search Landing Page Use Cases
+### Use Case A 
+#### Search for existing form
+
+* **Description:** 
+  - When a user searches for a valid VA form (one that is in the VA forms database and a form detail detail page) 
+
+* **Link to designs:** 
+  - PDF prototype: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/design/VA-Form-search-landing-results.pdf 
+
+* **Instructions to access in Staging
+  - https://staging.va.gov/find-forms/
+
+* **Link to TestRail Test Case**
+  - C858 https://dsvavsp.testrail.io/index.php?/cases/view/858 \[Request TR login credentials from @mickinsahni]
+-----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Find VA Forms - Detail Pages Use Cases
@@ -12,13 +48,13 @@ _The purpose of this document is for designers, PMs, and engineers to align earl
 Link to product outline: [Form Detail Landing Page product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/form-detail-landing-pages/form-detail-product-outline.md)
 
 ### Use Case A 
-#### Minimum custom form data
+#### Search for form that has minimum custom form data
 
 * **Description:** 
   - When a form page has the minimum custom data added in Drupal. Mockup shows the basic version of a form detail landing page with:
     - data that's coming from the source VA forms database
     - the minimum custom data (Related to field)
-    - the standard set of "helpful links."  
+    - the standard set of "helpful links.
 
 * **Link to designs:** 
   - https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-va-forms-redesign/form-detail-landing-pages/final-docs#visual-mockups
