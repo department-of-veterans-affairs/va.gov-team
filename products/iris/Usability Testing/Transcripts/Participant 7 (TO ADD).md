@@ -16,7 +16,7 @@ What type of desktop, tablet and phone do you use (and operating system).  How l
 
 What do you used to access va.gov and where do you access it?
 
-* my phone, because it’s always in my hand
+* my phone, because it’s always in my hand  (used phone for testing)
 
 What browser do you use to access IRIS?
 
@@ -24,24 +24,24 @@ What browser do you use to access IRIS?
 
 Generally, how comfortable would you say you are with technology? Novice/Intermediate/Savvy?
 
-*  TO FINISH....
-
 ## Product Experience
 
 Have you contacted the VA? If so, when and how 
 
-*   
+* (On how they contacted) It depends on where I’m at, If I’m at home I use the computer if I’m out I use my phone Last contacted VA about a week ago. Actually went in to the office.
 
 How often have you used IRIS? 
 
-*  
+*  did not capture
 
 Did you use the COVID-19 Chatbot? If yes, how was that experience - do you usually use a chatbot? 
 
-*   
+*  I have, downloaded… the VA COVID coach and MHV (that’s for my husband). Which I learned about through a caregiver phone call. I do a lot of, the webinars and stuff that orgs are doing due to COVID, Elizabeth Dolan org (?), I’ve sat through most of their series as well
+Vet is still living in Georgia, still using HP laptop with Google chrome, still has ipad and iphone and uses Safari there
 
 What was the reason you were using IRIS?
-*  
+
+*  did not capture
 
 ## Notes
 
@@ -55,7 +55,8 @@ What do you expect to see on a ‘Contact us’ page?
 
 Imagine you’re dealing with a problem with your eye glasses, and your local VA is in Allentown PA.  Show me how you would send a question to the VA about glasses, indicating it’s for yourself and that you want to find out kinds of glasses you can get with your benefits.
 
-*  
+*  Would probably sign in
+
 
 Now go ahead and fill in the rest of the form - you can just use fake data. (test@test.com) - but don’t submit the form. (Stop them after they’ve filled out their contact info, before they get to the submit page)
 
