@@ -293,7 +293,7 @@ Participants called out the yellow banner containing the Vet Center hotline that
 - 1d. consolidate list of services to be more focused and scannable
 2. Test “Mental health care” vs “Counseling” taxons on Veterans who have not gone engaged in either.
 3. Make it more obvious that this is a small facility with one direct number to call.
-4. Scale down COVID alert, progressively disclose details and reconsider placement.
+4. Reduce height of COVID alert, progressively disclose details and/or reconsider placement.
 5. Include more “Prepare for your visit” details in next prototype.
 6. Try “Satellite locations” within “Location and contact information”, remove it from “On this page”.
 7. Downplay that VC’s are for “transitioning" Veterans. 
