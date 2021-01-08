@@ -44,7 +44,7 @@ This does not include research for Appeals projects, which is stored in differen
 
 #### December 14 - December 18: IRIS Usability Testing 
 
-*IRIS Redesign.  Lead researcher: Rachel M. Murray
+*IRIS Redesign. Lead researcher: Rachel M. Murray*
 
 - Number of participants: 8
 
