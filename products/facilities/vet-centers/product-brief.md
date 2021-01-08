@@ -142,6 +142,7 @@ The following were considered but rejected for MVP
 | 1/6/2021 | After hours call center informs Vet Center (within 24 hours) of a Veteran's call and provides the Vet Center with the Veteran's contact info and supplies the Vet Center info to the Veteran. However, if the Veteran reaches the Call center during business hours, there is no warm handoff to the Vet Center. This understanding will influence our placement of Call Center phone numbers/CTA. |
 | 1/6/2021 | We will seek ways to connect to Vet Center services within the accordions of VAMC health services but not to the VAMC from Vet Center page. This is to avoid additional confusion about the differences between a Vet Cente and a VAMC. |
 | 1/6/2021 | Vet Center pages will use same alert style as VAMC but can be dismissable. No need to include in future prototypes for research |
+| 1/6/2021 | We do not want to restrict list of services (ie: Psychology) available for use by Vet Centers but will want to encourage use of default list (TBD) |
 
 
 ## Measuring success
