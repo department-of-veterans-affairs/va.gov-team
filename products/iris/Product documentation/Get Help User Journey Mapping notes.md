@@ -74,3 +74,29 @@ The key learnings from this exercise include:
     * It is likely for the Global Contact Us page to serve as the new Help & Support hub page, but evolve over time to provide some additional triaging options to the Veteran 
     * There is expected to be some further work done on this to identify the triaging use cases 
 
+**Areas for further exploration**
+
+Some questions arose out of the session which ideally should be addressed in products going forward:
+
+**Chatbot**
+ 
+ Location: How do we position the chatbot - is it available on specific pages only, is it a VA.gov Virtual assistant, and is it an authenticated or un-authenticated experience, etc.  Chatbot can help to triage some queries before allowing them to post an inquiry.  Is Chatbot buried within R&S or be Level 1 triaging instead? Is R&S also a Level 1 triaging option? One participant noted not every page might get the same Chatbot experience - so which page would get it?  How can we identify the right channel for the right problem when users contact the VA?
+
+   Livechat: There is also some question of where Live chat should show up (based on LoB). Hours of operation for the Live chat option and what the off-hours support looks like needs to be defined. 
+
+**Contact Us page**
+ 
+ Centralized place for support: What gaps in context exist for the ‘Global Contact Us’ page and how should this page support the various support options available to a Veteran and advise the Veteran on the right option to choose based on their needs 
+
+**Content strategy**
+ 
+ Knowledge repositories: Determine role of e-Gain and how/if it feeds into R&S (& other help content) - how do we maintain a consistent voice across multiple knowledge silos and products with many content authors?
+ 
+ Handoff: Define warm handoff scenarios from chatbot to Inquiry form (Depending on the previous chat conversation, can chatbot default the dropdown values on Inquiry form?).  What does a ‘warm handoff’ look like across multiple channels? What would additional support look like if a user says 'no' to the 'did this help you' in Chatbot flow?
+   Triaging: Before bringing Veterans to the IRIS form, how can we triage them to answer their questions without needing to submit the form? 
+
+**Technical feasibility**
+ 
+ 360 view of customer: In addition to a warm handoff, is there a way to build a comprehensive log of a user’s support history across different channels (i.e. multi-channel experience) and how would that work?
+
+
