@@ -1,6 +1,6 @@
 # Request a VA appointment flow
 
-Type of care page
+Type of care page, types are defined in VATS, but are also hardcoded on front end
 ![type_of_care](request-flow/type_of_care.png)
 
 Type of care page with missing address alert, shown when VA Profile has no residential address, or a PO Box
@@ -15,10 +15,10 @@ Type of sleep care page
 Type of facility page, shown if user and type of care are Community Care eligible
 ![type_of_facility](request-flow/type_of_facility.png)
 
-VA facility page, sorted by distance from VA Profile address
+VA facility page, with facilities from registered sites that support the chosen type of care, sorted by distance from VA Profile address
 ![facility](request-flow/facility.png)
 
-VA facility page, sorted by distance from current location
+VA facility page, facilities sorted by distance from current location
 ![facility_by_current_location](request-flow/facility_by_current_location.png)
 
 VA facility page, alert shown if browser blocks location services
