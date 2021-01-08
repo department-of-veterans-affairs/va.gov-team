@@ -21,8 +21,8 @@ Requirements:
 
 
 [Documentation](https://docs.microsoft.com/en-us/powerapps/maker/portals/web-api-perform-operations)
-[Anonymous Sample Site for Discussion (non-VA)]: (https://woodstockanalytic.powerappsportals.com/webapi)
-[Slack thread for details]: (https://dsva.slack.com/archives/C016DSVNL07/p1610061887199400)
+[Anonymous Sample Site for Discussion (non-VA)](https://woodstockanalytic.powerappsportals.com/webapi)
+[Slack thread for details](https://dsva.slack.com/archives/C016DSVNL07/p1610061887199400)
 
 Sample POST request: 
 Method: POST
