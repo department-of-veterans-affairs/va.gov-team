@@ -1,4 +1,4 @@
-Research Plan for BaM2, Financial Status Report (FSR), January 2021
+Research Plan for BaM2, Financial Status Report (FSR), February 2021
 ====================================================================
 
 As a designer I need to create a research plan to share with my team. (This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.)
@@ -91,6 +91,9 @@ This criteria is necessary to conduct the study. 
       - Yes (Qualifies)
 
       - No
+
+- As part of our study we'll ask Veterans to fill out the FSR to the best of their ability, so we would like our participants to be comfortable providing financial information such as their monthly household income and expenses. Participants **will not** be asked to provide PII and none of the information provided in the FSR will be saved or affect their VA information or benefits.
+   - Please confirm participants are comfortable providing financial information such as their monthly household income and expenses 
 
 -   Please confirm participants have Zoom downloaded prior to the session and they know how to screen share
 
