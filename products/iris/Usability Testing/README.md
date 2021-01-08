@@ -10,9 +10,9 @@
 
 ## Participants TO BE UPDATE
 
-- links: to do
+- links: to do.  Need to update them (only one is done?)
 
-- content: to do (can simplify the table)
+- biographical content: to do (can simplify the table.  Rachel has a PDF of the participants' bio info that we'll use to update this.  
 
 | Session Notes   | Session Day & Time | Session Status | Device        | Scenario Order        |Role                                                  | Gender | Ethnicity                                               | Age      | Education                | Branch             | Location | PTSD or TBI | Disability Rating Over 70% | Rural or Urban | 
 | ------------------------------------------------------------ | ------------ |------------ | ------------ | ------------ | ----------------------------------------------------- | ------ | ------------------------------------------------------- | -------- | ------------------------ | ------------------ | -------- | ------------------------ | ------------------ | -------- |
