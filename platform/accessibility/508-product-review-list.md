@@ -693,8 +693,6 @@ Back to [Table of Contents](#table-of-contents)
 
 **Audit status:** _Issues logged by auditor in July 2019._<br/>
 **Open issues**<br/>
-- [[SCREENREADER]: Search for dropdown text is read aloud each time a letter is entered into Search city... input - #529](https://github.com/department-of-veterans-affairs/va.gov-team/issues/529)<br/>
-  **Opened:** July 10, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER]: The map is announcing a lot of extra data on focus and each droplet needs a usable name - #515](https://github.com/department-of-veterans-affairs/va.gov-team/issues/515)<br/>
   **Opened:** July 8, 2019 | **Severity:** 508-defect-2 - **_Serious_**
   
