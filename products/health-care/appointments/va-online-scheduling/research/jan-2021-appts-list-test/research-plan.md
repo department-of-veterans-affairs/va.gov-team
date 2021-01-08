@@ -70,7 +70,7 @@ Availability (all times in ET/GMT-05)
 | 01/25 Mon | 11am-4pm           |
 | 01/26 Tue | 11am-9pm |
 
-The Pilot is scheduled for 01/19/21 with Emily Waggoner
+The Pilot is scheduled for 01/19/21 at 3p.m. ET with Emily Waggoner
 
 ## Team Roles	
 - Moderator: Peter Russo - 510-529-9874 - peter.russo@adhocteam.us	
