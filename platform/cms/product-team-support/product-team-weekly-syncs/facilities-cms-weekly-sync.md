@@ -6,9 +6,9 @@
 - Meeting owner: Clarence Maeng
 - Facilitator: Kevin Walsh
 - Standing agenda: 
-  - Product by product, including CMS backlog review 
-  - How we work
-  - etc.
+  - Status of cross-cutting issues, including CMS backlog review 
+  - How we work refinement
+  - Training needs
   
 </details>
 
