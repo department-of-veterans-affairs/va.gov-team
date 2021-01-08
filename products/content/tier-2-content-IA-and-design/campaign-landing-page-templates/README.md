@@ -70,7 +70,7 @@ The CLP isn't:
   - the CLP is instrumented so that every interaction on the page is tracked whether it is the optional secondary CTA, or downloads, video plays, or clicks to more info/deeper content.
 
 ### OKRs
-- [OKR/KPI Dashboard](https://docs.google.com/document/d/1zL6tkV54BDAP4GSu9ceMPccowdqQor1ldaHHGPtoyt8/edit#)
+- [OKR/KPI Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/Screen%20Shot%202021-01-08%20at%201.47.16%20PM.png)
 ---
 
 ## Assumptions
