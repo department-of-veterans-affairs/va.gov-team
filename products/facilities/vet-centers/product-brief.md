@@ -102,18 +102,18 @@ Five additional locations were chosen with the intent of filling any gaps in rep
   - University Access Point  
   - Active mobile vet center
   
- | Location | Outreach specialist | Criteria fulfilled | 
- | ---------- | ---------- |  ---------- |
- | Orlando, FL | Elizabeth.jackson@va.gov | First five,  Geographic distribution, no CAPS during COVID, close to VAMC, near military installations, another Vet Center close by |
- | Springfield, MA | Bryan.doe@va.gov |  First five,  Geographic distribution, no CAPs |
- | Escanaba, MI | Kenneth.milam@va.gov|  First five,  Geographic distribution, 6 CAPS (3 permanently manned), 58 miles from VAMC, 16,000+ sq mile catchment area
- | Reno, NV | Troy.stormoen@va.gov | First five,  Geographic distribution, Contract for fee, close to VAMC |
- | Colorado Springs, CO | Austin.wilmarth@va.gov | First five,  Geographic distribution, 3 active CAPS, 64 miles from VAMC, close to 4 military installations plus USAFA, 15,000+ square mile catchment area |
- | Rochester, NY | Shawn.Crandall1@va.gov |  |
- | Nashville, TN | Witt.Cook@va.gov |  Outstation seeking approval to become a Vet Center |
- | Cincinnati, OH | Erika.Reynolds@va.gov|   |
- | Great Falls, MT | Richard.Ferry@va.gov |  |
- | Sacramento, CA | Joseph.Moglia@va.gov |   |
+ | Date | Location | Outreach specialist | Criteria fulfilled | 
+ | ---------- | ---------- |  ---------- | ---------- |
+ | Original 5 | Orlando, FL | Elizabeth.jackson@va.gov | Geographic distribution, no CAPS during COVID, close to VAMC, near military installations, another Vet Center close by |
+ | Original 5 | Springfield, MA | Bryan.doe@va.gov |  Geographic distribution, no CAPs |
+  | Original 5 | Escanaba, MI | Kenneth.milam@va.gov|  Geographic distribution, 6 CAPS (3 permanently manned), 58 miles from VAMC, 16,000+ sq mile catchment area
+ | Original 5, replaced Federal Way Vet Center  | Reno, NV | Troy.stormoen@va.gov | Geographic distribution, Contract for fee, close to VAMC |
+  | Original 5 | Colorado Springs, CO | Austin.wilmarth@va.gov | Geographic distribution, 3 active CAPS, 64 miles from VAMC, close to 4 military installations plus USAFA, 15,000+ square mile catchment area |
+ | Added Jan 2021 | Rochester, NY | Shawn.Crandall1@va.gov |  |
+ | Added Jan 2021 | Nashville, TN | Witt.Cook@va.gov |  Outstation seeking approval to become a Vet Center |
+ | Added Jan 2021 | Cincinnati, OH | Erika.Reynolds@va.gov|   |
+ | Added Jan 2021 | Great Falls, MT | Richard.Ferry@va.gov |  |
+ | Added Jan 2021 | Sacramento, CA | Joseph.Moglia@va.gov |   |
 
 ### Not in scope
 
@@ -133,7 +133,16 @@ The following were considered but rejected for MVP
 | Stories | Level of effort to maintain locally |
 | Spanish translation | Will need to consider for full roll-out |
 | Tagline | Potential for abuse with "branding", has been removed across VA.gov, needs input from Design Council | 
-| Facility operating status for CAP | not in VAST, challenges with maintaining, need to determine how to display and communicate to Veterans |### Measuring Success
+| Facility operating status for CAP | not in VAST, challenges with maintaining, need to determine how to display and communicate to Veterans |
+
+---
+
+| Date | Decision |
+| ---- | ---- |
+| 1/6/2021 | After hours call center informs Vet Center (within 24 hours) of a Veteran's call and provides the Vet Center with the Veteran's contact info and supplies the Vet Center info to the Veteran. However, if the Veteran reaches the Call center during business hours, there is no warm handoff to the Vet Center. This understanding will influence our placement of Call Center phone numbers/CTA. |
+| 1/6/2021 | We will seek ways to connect to Vet Center services within the accordions of VAMC health services but not to the VAMC from Vet Center page. This is to avoid additional confusion about the differences between a Vet Cente and a VAMC. |
+| 1/6/2021 | Vet Center pages will use same alert style as VAMC but can be dismissable. No need to include in future prototypes for research |
+
 
 ## Measuring success
 
