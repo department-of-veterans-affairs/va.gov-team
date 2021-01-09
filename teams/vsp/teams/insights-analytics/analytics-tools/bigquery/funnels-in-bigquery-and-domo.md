@@ -406,7 +406,7 @@ SUM(`Users`) / MAX(SUM(`Users`)) OVER ()
 This seems to work best without any sort of partitioning in the function.
 
 
-### Calculating **Session Completion %** in a Beast Mode
+### Calculating **Step Completion %** in a Beast Mode
 
 
 ```sql
@@ -417,7 +417,7 @@ SUM(`Users`) / LAG(SUM(`Users`), 1) OVER (PARTITION BY `date` ORDER BY `date` AS
 This seems to work best when it's partitioned by date.  For funnels without a date, I've used BATCH_LAST_RUN.
 
 
-### Calculating **Session Abandonment %** in a Beast Mode
+### Calculating **Step Abandonment %** in a Beast Mode
 
 
 ```sql
