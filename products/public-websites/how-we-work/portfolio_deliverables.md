@@ -2,7 +2,7 @@
 
 ### Public Websites
 
-| Products             | SoP | OKRs | DOMO | 
+| Products             | Product Outline | OKRs | Dashboard | 
 |:--:|:--:|:--:|:--:|
 |Resources & Support   |  X   |   X  |   X  |              
 |Campaign Landing Page |  X  |      |      |              
@@ -12,16 +12,16 @@
 
 ### Search & Discovery
 
-| Products             | SoP| OKRs | DOMO |
+| Products             | Product Outline | OKRs | Dashboard |
 |:--:|:--:|:--:|:--:|
 |Onsite Search         |    |  X   |      |
-|Type-Ahead            |    |  X   |  X (Request)  |           
+|Type-Ahead            |  X |  X   |      |           
 |Offsite Search        |    |      |      |
 
 ### Decision Tools
 
-| Products             | SoP| OKRs | DOMO |
+| Products             | Product Outline OKRs | Dashboard |
 |:--:|:--:|:--:|:--:|
-|Find a Form           |    |      |      |
-|Yellow Ribbon Tool    |    |      |      |           
+|Find a Form           |  X |  X  | X  |
+|Yellow Ribbon Tool    |    |     |    |           
 
