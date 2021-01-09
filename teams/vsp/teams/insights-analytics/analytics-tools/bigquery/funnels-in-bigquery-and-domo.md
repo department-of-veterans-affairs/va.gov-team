@@ -385,7 +385,15 @@ Step_Number ASC (no aggregation)
   </tr>
 </table>
 
+### Creating Dynamic Date Range Titles
 
+For charts like funnels and data tables, which don't display a date range, it is helpful to add a dynamic title to the card summary.  To do this, create a Beast Mode calculation that returns the text you want to display and the MIN and MAX of your date column:
+
+```js
+CONCAT('Data from ', MIN(`date`), ' to ', MAX(`date`))
+```
+
+You can then add this Beast Mode calculation to your card as a summary.
 
 ### Calculating **Step % of Total** in a Beast Mode
 
@@ -398,7 +406,7 @@ SUM(`Users`) / MAX(SUM(`Users`)) OVER ()
 This seems to work best without any sort of partitioning in the function.
 
 
-### Calculating **Session Completion %** in a Beast Mode
+### Calculating **Step Completion %** in a Beast Mode
 
 
 ```sql
@@ -409,7 +417,7 @@ SUM(`Users`) / LAG(SUM(`Users`), 1) OVER (PARTITION BY `date` ORDER BY `date` AS
 This seems to work best when it's partitioned by date.  For funnels without a date, I've used BATCH_LAST_RUN.
 
 
-### Calculating **Session Abandonment %** in a Beast Mode
+### Calculating **Step Abandonment %** in a Beast Mode
 
 
 ```sql
