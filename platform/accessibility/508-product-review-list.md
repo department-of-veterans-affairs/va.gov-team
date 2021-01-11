@@ -706,9 +706,13 @@ Back to [Table of Contents](#table-of-contents)
 
 #### Map Enhancements
 
-**Audit status:** _[Staging Review in progress, December 2020.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17403)_
+**Audit status:** _[Staging Review completed, December 2020.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17403)_
 
-**No open issues**
+**Open issues**
+
+- [508-defect-1 ❗ Launchblocker [SCREENREADER, KEYBOARD]: Map: All elements that can be operated by a mouse MUST be operable by keyboard - #6911](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6911)<br/>**Opened:** March 16, 2020 | **Severity:** 508-defect-1 - **_Critical_**
+- [508-defect-2 [COGNITION, FOCUS MANAGEMENT]: Focus order should preserve meaning - #17448](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17448)<br/>**Opened:** December 14, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+- [508-defect-2 [AXE-CORE]: Zoom In / Zoom Out controls MUST have their visible text as part of their accessible name - #6104](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6104)<br/>**Opened:** February 21, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 
 Back to [Table of Contents](#table-of-contents)
 
