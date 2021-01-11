@@ -38,6 +38,18 @@ The research assessed the form’s ability to support users on one main task, th
 
 ## Hypotheses
 
+Prior to the study, we hypothesized that users will be able to complete the form but may have issues with the following:
+- Ability to understand the language used in the drop down menus 
+- Frustration with the length of the form (the fields in the form) and anything that seemed to extend the experience (i.e. the Review page)
+
+Specifically:
+
+We know that users felt the current experience using the drop down menu was difficult and the overall experience felt antiquated.
+We believe that using the VA Design System’s use of drop down menus, chapters and review page...
+For users of the form (i.e. Veterans, family members, general public etc.)…
+Will result in forms being completed and people expressing positive feedback on the experience.
+We’ll know we’re right if the form is successfully submitted and we receive positive feedback.
+ 
 
 ### Participants
 
