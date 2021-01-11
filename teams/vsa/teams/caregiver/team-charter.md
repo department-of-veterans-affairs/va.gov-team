@@ -16,8 +16,7 @@ To make it easier for Veterans and caregivers to apply for care-related benefits
 A seamless online experience that allows Veterans and caregivers to easily apply for, track, and manage care-related benefits.
 
 ### Team North Stars:
-- Increase the numbers of eligible Veterans that apply online family caregiver applications and healthcare applications
-- Improve Veteran experience of applying for care-related benefts 
+- Improve the experience of Veterans and those that care for them in applying for care-related benefts 
 
 ## What we work on:
 
