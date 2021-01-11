@@ -3,12 +3,6 @@
 ## IMPORTANT TO NOTE
 Please note this document will be updated; the form and the project repository are more up-to- date than this document.
 
-
-
-Relevant links: 
-- [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/68) - story 68 is the start of the inquiry options
-- [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/31) - story 32 is additional options.
-
 ### Description
 
 This page allows users to include information about their inquiry so we can route it to the appropriate person within the VA as the goal.
