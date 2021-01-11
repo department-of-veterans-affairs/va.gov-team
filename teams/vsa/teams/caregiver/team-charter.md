@@ -82,7 +82,8 @@ Anyone on the team can create a user story. All are responsible for keeping them
 
 - We use epics to represent user stories. For an epic to go into the **"Epic"** column, it should have:
     - Clear acceptance criteria
-    - Definition of done   
+    - Definition of done  
+    - A user story that reflects the benefit to a Veteran, Caregiver, or other user
     - Been broken up into discreet tasks/Github tickets that are attatched to the epic
     - All components/steps have been accounted for in the epic
 
