@@ -32,7 +32,8 @@ Health Products
 ## Who we are
 
 ### Team Members:
-- DSVA Product Lead: Ming Ligh
+- DEPO Product Lead: Ming Ligh
+- DEPO Engineering Lead: Mike Chelen
 - Team Product Manager: Alayna Abel
 - UX/Research: Jonathan Nelson
 - Front-End Engineering: Justin Linn
