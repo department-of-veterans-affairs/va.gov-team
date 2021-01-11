@@ -472,6 +472,7 @@ BE READY FOR QA NEXT SPRINT
 **Design**
 
 - Review Erik's initial build
+- Error to show when we cannot connect to a Direct Deposit endpoint #18338 (note: this should not hold up QA)
 
 **BE**
 
