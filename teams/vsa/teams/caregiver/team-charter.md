@@ -52,12 +52,14 @@ Check in on people and product progress
 - Every day @ 11am Eastern
 - 30 min
 - 3 Question Format: What did you do yesterday? What will you do today? Any impediments?
+- We use the daily Slack thread to share any links, questions, and notes that come up
 
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
 
 - 1st Monday of every sprint week @ 3pm ET
 - 1 hour
+- We'll use Github milestones to commit to what's in each sprint
 
 
 #### Retro
