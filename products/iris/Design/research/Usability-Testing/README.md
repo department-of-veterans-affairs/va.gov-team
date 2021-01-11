@@ -8,16 +8,7 @@
 - [Research report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Design/research/Usability-Testing/IRIS%20Usability%20Testing%20Research%20Report%20Fall%202020.md)
 - [Participants](#participants)
 
-## Participants TO BE UPDATE
-
-- links: to do.  Need to update them (only one is done?)
-
-- biographical content: to do Rachel has a PDF of the participants' bio info that we'll use to update this.   Include info for no-shows as well.
-
-- do devices
-- do dates
-- do gender/age/location
-
+## Participants 
 
 Notes | Date and Time | Status | Device | Gender | Age  | Location
 ----- | ------------- | ------ | ------ | ------ | ----- | ----- 
@@ -31,7 +22,7 @@ P6 | Tues. Dec. 15 2pm EST | No-show | n/a | Male | 35 - 44 | TX
 [P8](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/Transcripts/Participant%208.md) | Wed. Dec. 16 12pm EST | Attended | Web | Female | 45 - 54 | PA
 P9 | Wed. Dec. 16 2pm EST | No-show | n/a | Male  | 45 - 54  | KY
 [P10](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/Transcripts/Participant%2010.md) | Thurs. Dec. 17 10am EST | Attended | Web | Male  | Age | none provided
-[P11](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/Transcripts/Participant%2011.md) | Thurs. Dec. 17 12pm EST EST | Web | Device | Male  | Age | NC
+[P11](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/Transcripts/Participant%2011.md) | Thurs. Dec. 17 12pm EST | Web | Device | Male  | Age | NC
 P12 | Thurs. Dec. 17 2pm EST | No-show | n/a | Male | 65 - 74 | NY
 P13 | Fri. Dec. 18 10am EST | No-show | n/a | Male | 65 - 74 | PA
 P14 | Fri. Dec. 18 12pm EST | No-show | n/a | Male | 55 - 64 | TX
