@@ -164,7 +164,9 @@ I’m very active in the Metro dc area
 
 - Elizabeth Dole foundation (under their umbrella Hidden Heroes for caregivers only)
 - Blue Star Families
+
 I went through a program that’s how I originally started connecting with people
+
 - Yellow Ribbon fund
 - Operation Gratitude, they send out packages to caregivers, active military, responders and vets
 - Various facebook pages to keep you informed
