@@ -21,7 +21,7 @@ The purpose of this guide is to help with migrating existing Cypress tests to ap
 
 The upgrade from Cypress 4.8 to Cypress 6.2.1 introduces several changes to test structure, syntax, and other aspects of Cypress tests. This guide covers key changes that are most likely to affect existing tests. There are a handful of deprecated methods that should be updated before the core Cypress library no longer supports them. A full, detailed guide of all changes can be found in the [additional resources](#additional-resources) section.
 
-## Migrtion changes <a name="migration-changes"></a>
+## Migration changes <a name="migration-changes"></a>
 
 ### `cy.intercept` vs. `cy.route` <a name="intercept"></a>
 
