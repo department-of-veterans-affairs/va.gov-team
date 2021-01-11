@@ -520,7 +520,6 @@ Back to [Table of Contents](#table-of-contents)
 - [508-defect-2 [COGNITION, SCREEN READER]: Screen reader users SHOULD know there is relevant info after making a selection in the wizard - #16745](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16745)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [508-defect-3 [COGNITION]: Buttons that have the same functionality MUST be identified consistently - #16711](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16711)<br/>**Staging** | **Opened:** November 30, 2020 | **Severity:** 508-defect-3 — **_Moderate_**
 - [508-defect-3: [SCREENREADER]: Focus SHOULD go to H1 on the subway map page after the wizard - #16826](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16826)<br/>**Staging** | **Opened:** December 2, 2020 | **Severity:** 508-defect-3 — **_Moderate_**
-- [sitewide 508-defect-4 [COGNITION, SCREENREADER]: CONSIDER announcing empty fields to SR users in the review accordion component - #16892](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16892)<br/>**Staging** | **Opened:** December 3, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
 
 Back to [Table of Contents](#table-of-contents)
 
