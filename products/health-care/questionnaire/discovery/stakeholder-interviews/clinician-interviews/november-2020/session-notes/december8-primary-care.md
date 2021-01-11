@@ -12,8 +12,8 @@
 - Would need to see screener scores over time per patient.
 - Sees value in the questions we are proposing for MVP and they will help with his interaction with patients. 
 - Prioritizes other questionnaires based upon how long they take to fill out. But would prioritize medication reconciliation as the next medical record feature.
-- Normally deals with glucometers, blood pressure readings and even EKG takings from iPhone applications. Also, they find this data the most valuable - data the is action to the patients diagnoses and goals.
-- Currently, received PGD by patients bringing in the device, writing it on paper, or sending a secure message.
+- Normally deals with glucometers, blood pressure readings and even EKG takings from iPhone applications. Also, they find this data the most valuable - data that is actionable based on the patients diagnoses and goals.
+- Currently, they receive PGD by patients bringing in the device, writing it on paper, or sending a secure message.
 
 ## Interview ##
 Interviewer: I'm going to have you talk through different parts of your typical appointment experience. Let us know if there are any big differences based upon appointment type (new patient, follow-up, physical, etc.) What health record information is helpful to review before an appointment? What information would be helpful to have a Veteran review/update ahead of their visit?
