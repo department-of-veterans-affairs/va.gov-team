@@ -9,17 +9,10 @@ This document is to track decisions, reviews, and documentation related to deliv
 - New Design System component to enable sorting by date
 - Lighthouse API will return associated URL for any forms with detail pages (should be ~438 at launch) https://github.com/department-of-veterans-affairs/va.gov-team/issues/17109
 - Links connecting Search results to Form Details pages (if they exist)
-- Ability to sort search results by date 
+- ~Ability to sort search results by date~ **NOTE - moved to a later date; design decision was more involved than anticipated as there is not currently a sort tool in the design system.**
 - Analytics tag added for links to detail pages (if necessary)
 - New info message displayed when a user searches for a form that has been removed from the forms database. https://github.com/department-of-veterans-affairs/va.gov-team/issues/11625
 ## Decisions ##
-### Research Decisions ###
+- 2020-01-05 PO, PM and Product Team all agreed to delay the sort feature until a later date.
+- 2020-01-05 PO, PM and Product Team all agreed to move the launch date of this release to 1/18/2021.
 - 2020-12-21 PO, PM and Product Team all agreed that the features being implemented were low-risk and don't warrant conducting research.
-### Design Intent Collaboration Decisions ###
-### Accessibility Review Decisions ###
-### Analytics Decisions ###
-### Contact Center Review Decisions ###
-### Staging Review Decisions ###
-### Privacy and Security Review Decisions ###
-### Full Accessibility and 508 Office Audit Decisions ###
-## Related Documents ##
