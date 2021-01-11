@@ -21,18 +21,18 @@
 
 Notes | Date and Time | Status | Device | Gender | Age  | Location
 ----- | ------------- | ------ | ------ | ------ | ----- | ----- 
-[P1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/Transcripts/Participant%201.md) | Monday, Dec. 14 11 - 10 EST | Attended | Device | Female | 35 - 44 | FL
-P2 | Monday, Dec. x 11 - Noon EST | No-show | n/a | male | 35 - 44 | CA
-[P3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/Transcripts/Participant%203.md) | Monday, Dec. x 11 - TBD EST | Attended | Device | Female | 35 - 44 | TX
-[P4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/Transcripts/Participant%204.md) | Monday, Dec. x 11 - TBD EST | Attended | Device | Female | 65 - 74 | MN
-P5 | Monday, Dec. x 11 - TBD EST | No-show | n/a | Male | 45 - 54 | NC
-P6 | Monday, Dec. x 11 - TBD EST | No-show | n/a | Male | 35 - 44 | TX
-[P7](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/Transcripts/Participant%207.md) | Monday, Dec. x 11 - TBD EST | Attended | Device | Female | 45 - 54 | GA
-[P8](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/Transcripts/Participant%208.md) | Monday, Dec. x 11 - TBD EST | Attended | Device | Female | 45 - 54 | PA
-P9 | Monday, Dec. x 11 - TBD EST | No-show | n/a | Male  | 45 - 54  | KY
-[P10](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/Transcripts/Participant%2010.md) | Monday, Dec. x 11 - TBD EST | Attended | Device | Male  | Age | Location
-[P11](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/Transcripts/Participant%2011.md) | Monday, Dec. x 11 - TBD EST | Attended | Device | Male  | Age | Location
-P12 | Monday, Dec. x 11 - TBD EST | No-show | n/a | Male | n/a | n/a
-P13 | Monday, Dec. x 11 - TBD EST | No-show | n/a | Male | n/a | n/a
-P14 | Monday, Dec. x 11 - TBD EST | No-show | n/a | Male | 55 - 64 | TX
-[P15](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/Transcripts/Participant%2015.md) | Monday, Dec. x 11 - TBD EST | Attended | Device | Male  | 45 - 54 | CA
+[P1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/Transcripts/Participant%201.md) | Mon. Dec. 14 10am EST | Attended | Web | Female | 35 - 44 | FL
+P2 | Monday, Dec. 14 12pm EST | No-show | n/a | male | 35 - 44 | CA
+[P3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/Transcripts/Participant%203.md) | Mon. Dec. 14 2pm EST | Attended | Mobile | Female | 35 - 44 | TX
+[P4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/Transcripts/Participant%204.md) | Tues. Dec. 15 10am EST | Attended | Web | Female | 65 - 74 | MN
+P5 | Tues. Dec. 15 12pm EST | No-show | n/a | Male | 45 - 54 | NC
+P6 | Tues. Dec. 15 2pm EST | No-show | n/a | Male | 35 - 44 | TX
+[P7](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/Transcripts/Participant%207.md) | Wed. Dec. 16 10am EST | Attended | Mobile | Female | 45 - 54 | GA
+[P8](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/Transcripts/Participant%208.md) | Wed. Dec. 16 12pm EST | Attended | Web | Female | 45 - 54 | PA
+P9 | Wed. Dec. 16 2pm EST | No-show | n/a | Male  | 45 - 54  | KY
+[P10](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/Transcripts/Participant%2010.md) | Thurs. Dec. 17 10am EST | Attended | Web | Male  | Age | Location
+[P11](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/Transcripts/Participant%2011.md) | Thurs. Dec. 17 12pm EST EST | Web | Device | Male  | Age | Location
+P12 | Thurs. Dec. 17 2pm EST | No-show | n/a | Male | 65 - 74 | NY
+P13 | Fri. Dec. 18 10am EST | No-show | n/a | Male | 65 - 74 | PA
+P14 | Fri. Dec. 18 12pm EST | No-show | n/a | Male | 55 - 64 | TX
+[P15](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/Transcripts/Participant%2015.md) | Fri. Dec. 18 2pm EST | Attended | Web | Male  | 45 - 54 | CA
