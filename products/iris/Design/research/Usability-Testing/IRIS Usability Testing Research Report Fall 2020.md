@@ -1,4 +1,4 @@
-# IRIS Research Findings from usability testing
+# IRIS Usability Testing Research Report Fall 2020
 
 IRIS (Inquiry Routing & Information System) Redesign project
 
