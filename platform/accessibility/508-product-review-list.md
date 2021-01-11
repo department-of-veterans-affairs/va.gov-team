@@ -1032,8 +1032,8 @@ Back to [Table of Contents](#table-of-contents)
 ### Left Nav
 
 **Audit status:** _Staging review completed by VSA, May 12, 2020._<br/>
-
-**No open issues** 
+**Open issues**<br/>
+* [508-defect-3 VAMC Left Nav focus is offset for IE-11 - #18269](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12547)<br/>**Production** | **Opened:** January 7, 2021 | **Severity:** _508-defect-3 - **Moderate**_
 
 Back to [Table of Contents](#table-of-contents)
 
