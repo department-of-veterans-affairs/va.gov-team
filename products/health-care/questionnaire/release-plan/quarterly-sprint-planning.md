@@ -15,10 +15,16 @@
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
-| [UI]  | -- | # |
-| [FE]  | -- | # |
-| [BE]  | -- | # |
-| [Product] | -- | # |
+| [FE]  Accessability | -- | # |
+| [FE]  Clean up | -- | # |
+| [Product] External /Call Center troubleshooting Documentation	| -- |  |
+| [All] Collab Cycle Approvals for Pros 	| -- |  |
+| [UX] Analytics	| -- |  |
+| [Product] Change Management for Implementation 	| -- |  |
+| [FE] Integration  (combined pgd and map) with vets API for pulling in a appointment data | -- | # |
+| [FE] Integration (combined pgd and map) with vets API for pulling in all questionnaires list| -- | # |
+| [FE] Integration (combined pgd and map) with vets API for subitting data | -- | # |
+
 
 ## Sprint 44 - Sprint Theme
 3/24/2021 - 4/6/2021
@@ -98,10 +104,12 @@
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
-| [UI]  | -- | # |
-| [FE]  | -- | # |
-| [BE]  | -- | # |
-| [Product] | -- | # |
+| [UI] Usability Feedback updates | -- | # |
+| [UI] Error State designs | -- | # |
+| [FE] Implement Error State Messages | -- | # |
+| [FE] SPIKE for SIP system ( | -- | # |
+| [BE]  Return Quest. Responses and Querry Questions by response ID - lighthouse| -- | # |
+| [Product] Priority Planning for next features | -- | # |
 
 
 
@@ -123,16 +131,6 @@
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
 | [UI]  | -- | # |
-| [FE]  Accessability | -- | # |
-| [FE]  Clean up | -- | # |
-| [Product] External /Call Center troubleshooting Documentation	| -- |  |
-| [All] Collab Cycle Approvals for Pros 	| -- |  |
-| [UI] MVP Usability Testing 	| -- |  |
-| [UX] Analytics	| -- |  |
-| [Product] Change Management for Implementation 	| -- |  |
-| [FE] Integration  (combined pgd and map) with vets API for pulling in a appointment data | -- | # |
-| [FE] Integration (combined pgd and map) with vets API for pulling in all questionnaires list| -- | # |
-| [FE] Integration (combined pgd and map) with vets API for subitting data | -- | # |
 
 ## Sprint 36 - Integraion Testing / Analytics 
 12/2/2020 - 12/15/2020
