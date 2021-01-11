@@ -5,7 +5,7 @@
 #### Search for form with Form Detail page link
 
 * **Description:** 
-  - When a user searches for a valid VA form (one that is in the VA forms database) that has a detail page.
+  - When a user searches for a valid VA form (one that is in the VA forms database) that has a detail page, the form-specific search-result's form-title is a clickable link to the correponding detail-page.
 
 * **Link to designs:** 
   - PDF prototype: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/design/VA-Form-search-landing-results.pdf 
@@ -21,7 +21,7 @@
 #### Search for VA Form with Online Tool link
 
 * **Description:** 
-  - When a user searches for a valid VA form that also has an Online Tool equivalent
+  - When a user searches for a valid VA form that also has an Online Tool equivalent, the form-specific search-result has a clickable link to the online-form.
 
 * **Link to designs:** 
   - PDF prototype: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/design/VA-Form-search-landing-results.pdf 
@@ -37,7 +37,7 @@
 #### Search for Deleted VA Form
 
 * **Description:** 
-  - When a user searches for a form that was once valid, but has since been deleted/deprecated.
+  - When a user searches for a form that was once valid, but has since been deleted/deprecated, an alert is displayed to indicate deleted form.
 
 * **Link to designs:** 
   - PDF prototype: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/design/deleted-form.png
@@ -46,14 +46,14 @@
   - https://staging.va.gov/find-forms/
 
 * **Link to TestRail Test Case**
-  - https://dsvavsp.testrail.io/index.php?/tests/view/37090
+  - https://dsvavsp.testrail.io/index.php?/cases/view/3951
   
     
   ### Use Case D
 #### Search for Invalid VA Form
 
 * **Description:** 
-  - When a user searches for a VA form that is not valid, and was not valid in the past.
+  - When a user searches for a VA form that is not valid, and was not valid in the past, an alert is displayed to indicate invalid search.
 
 * **Link to designs:** 
   - PDF prototype: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/design/invalid-form.png
@@ -62,7 +62,7 @@
   - https://staging.va.gov/find-forms/
 
 * **Link to TestRail Test Case**
-  - https://dsvavsp.testrail.io/index.php?/tests/view/37093
+  - https://dsvavsp.testrail.io/index.php?/cases/view/3978
   
 
 ----
