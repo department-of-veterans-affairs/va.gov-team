@@ -84,16 +84,17 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [GI Bill STEM Standalone Form](#gi-bill-stem-standalone-form)
     - [VFS Veterans Affairs Online Scheduler (VAOS)](#vfs-veterans-affairs-online-scheduler-vaos)
       - [VAOS Express Care Appointments](#vaos-express-care-appointments)
-    - [Covid-19 Resources (VSA Public Websites)](#covid-19-resources-vsa-public-websites)
+    - [COVID-19 Resources (VSA Public Websites)](#covid-19-resources-vsa-public-websites)
     - [SSOe Single Sign On](#ssoe-single-sign-on)
     - [COVID-19 Chatbot](#covid-19-chatbot)
     - [Public and Automated PDF Technical Discovery](#public-and-automated-pdf-technical-discovery)
     - [COVID-19 Screener](#covid-19-screener)
     - [VA Medical Sites](#va-medical-sites)
     - [App Directory](#app-directory)
-    - [COVID Vaccine Prep Tool](#covid-vaccine-prep-tool)
+    - [COVID-19 Vaccine Prep Tool](#covid-19-vaccine-prep-tool)
     - [VSA Search and Discovery](#vsa-search-and-discovery)
       - [Search Typeahead](#search-typeahead)
+    - [COVID-19 Vaccine Trial Registry](#covid-19-vaccine-trial-registry)
     - [New Project Name](#new-project-name)
 
 ## Helpful links
@@ -968,7 +969,7 @@ A number of issues were sitewide, design system, CMS, and are listed in the [sit
 Back to [Table of Contents](#table-of-contents)
 
 --- 
-### Covid-19 Resources (VSA Public Websites)
+### COVID-19 Resources (VSA Public Websites)
 
 **Audit status:** _Review TBD — content is launching without review due to emergency status._<br/>
 **No open issues**
@@ -1094,12 +1095,10 @@ Back to [Table of Contents](#table-of-contents)
 Back to [Table of Contents](#table-of-contents)
 
 ---
-### COVID Vaccine Prep Tool
+### COVID-19 Vaccine Prep Tool
 
 **Audit status:** _VSP [staging review underway](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16987) week of December 7, 2020_<br/>
-Add another link to the [Table of Contents](#table-of-contents). This is an important step to make applications easier to find as the list gets longer.
-
-**Open issues**
+**Open issues**<br/>
 
 - [508-defect-2 [COGNITION]: COVID Vaccine - Users must be able to re-enter their email address on the logged out form - #16999](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16999)<br/>**Staging** | **Opened:** December 7, 2020 | **Severity:** _508-defect-2 - **Serious**_
 - [508-defect-2 [COGNITION]: COVID Vaccine - Heading levels should only increase by one - #17156](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17156)<br/>**Staging** | **Opened:** December 9, 2020 | **Severity:** _508-defect-2 - **Serious**_
@@ -1118,6 +1117,24 @@ Back to [Table of Contents](#table-of-contents)
 
 **Audit status:** _[VSA staging review started December 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17181)_<br/>
 **No open issues**
+
+Back to [Table of Contents](#table-of-contents)
+
+---
+### COVID-19 Vaccine Trial Registry
+
+**Audit status:** _VSP [Full accessibility and 508 audit completed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14103) week of January 4, 2021_<br/>
+**Open issues**
+
+- [508-defect-1 ❗ Launchblocker [AXE-CORE]: COVID Vaccine Trials - DD and DT elements must be contained by a DL - #18223](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18223)<br/>**Opened:** January 6, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+- [508-defect-1 ❗ Launchblocker [TESTING]: COVID Vaccine Trials - Form must have e2e tests for all views - #18225](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18225)<br/>**Opened:** January 6, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+- [508-defect-2 [COGNITION]: COVID Vaccine Trials - Text styled like headings must be marked up as headings - #18246](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18246)<br/>**Opened:** January 6, 2021 | **Severity:** 508-defect-2 - **_Serious_**
+- [508-defect-3 [COGNITION]: COVID Vaccine Trials - Consider breaking Step 1 into three distinct pages - #18248](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18248)<br/>**Opened:** January 7, 2021 | **Severity:** 508-defect-3 - **_Moderate_**
+- [508-defect-3 [COGNITION]: COVID Vaccine Trials - None of the above and Prefer not to answer checkbox "uncheck all" behavior should be clear to users - #18271](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18271)<br/>**Opened:** January 7, 2021 | **Severity:** 508-defect-3 - **_Moderate_**
+- [508-defect-3 [COGNITION]: COVID Vaccine Trials - Checkboxes should not be separated from additional information inputs - #18272](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18272)<br/>**Opened:** January 7, 2021 | **Severity:** 508-defect-3 - **_Moderate_**
+- [508-defect-4 [COGNITION]: COVID Vaccine Trials - Consider making the confirmation page's first H2 the H1 for user clarity - #18273](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18273)<br/>**Opened:** January 7, 2021 | **Severity:** 508-defect-4 - **_Trivial_**
+- [508-defect-4 [COGNITION]: COVID Vaccine Trials - 711 link aria-label repeats "TTY" for screen readers - #18274](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18274)<br/>**Opened:** January 7, 2021 | **Severity:** 508-defect-4 - **_Trivial_**
+- [[DESIGN] COVID Vaccine Trials - MacOS Safari cuts off the focus halo when accordions are opened - #18275](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18275)<br/>**Opened:** January 7, 2021
 
 Back to [Table of Contents](#table-of-contents)
 
