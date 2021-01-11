@@ -8,6 +8,7 @@ This document is to track decisions, reviews, and documentation related to deliv
 - Lighthouse API will return associated URL for any forms with detail pages (should be ~438 at launch) https://github.com/department-of-veterans-affairs/va.gov-team/issues/17109
 - Lighthouse API will return associated URL for any forms with online tools https://github.com/department-of-veterans-affairs/va.gov-team/issues/17109
 - Links connecting Search results to Form Details pages (if they exist)
+- Button connecting Search results to Online Tools pages (if they exist)
 - Analytics tag added for links to detail pages and online tools
 - New info message displayed when a user searches for a form that has been removed from the forms database. https://github.com/department-of-veterans-affairs/va.gov-team/issues/11625
 ## Decisions ##
