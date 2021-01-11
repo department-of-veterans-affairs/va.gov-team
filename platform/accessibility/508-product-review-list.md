@@ -1033,8 +1033,7 @@ Back to [Table of Contents](#table-of-contents)
 
 **Audit status:** _Staging review completed by VSA, May 12, 2020._<br/>
 
-**Open issues** 
-* [#8975 [FOCUS MANAGEMENT]: Focus outline SHOULD be consistent - individual nav links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8975)<br/>**Staging** | **Opened:** May 11, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
+**No open issues** 
 
 Back to [Table of Contents](#table-of-contents)
 
