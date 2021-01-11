@@ -115,7 +115,7 @@ We use fibonacci numbers (0, 1, 2, 3, 5, 8, 13) to account for the level of effo
 - We are iterate often and deliver frequently
 - We are respectful, both online and off
 - We turn on cameras as often as possible at meetings / calls
-- We are flexible, but intentional in the way we work
+- We are flexible and intentional in the way we work
 - We communicate often and in public channels
 - We ask questions when they arise
 - We listen without judgement
@@ -124,6 +124,7 @@ We use fibonacci numbers (0, 1, 2, 3, 5, 8, 13) to account for the level of effo
 - We do reviews in independent environments
 - We hold each other accountable
 - We stick to our commitments as best as possible
+- We are respectful of others' time
 
 
 #### Slack:
