@@ -79,7 +79,7 @@ The places that need new messaging are:
 
 ### Our Service is down, maintenance
 
-- We use [PagerDuty](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/downtime-notificationshttps://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/downtime-notifications) to schedule downtime. This will wrapped our questionnaire and list.
+- We use [PagerDuty](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/downtime-notifications) to schedule downtime. This will wrapped our questionnaire and list.
 - Any users coming to our app will see the downtime message
 -  
 - There is a downtown notifier and system to put into place
