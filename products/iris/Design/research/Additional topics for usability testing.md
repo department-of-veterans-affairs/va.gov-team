@@ -1,4 +1,4 @@
-# Additional topics for usability testing.md
+# Additional topics for usability testing
 
 ## Purpose
 
@@ -29,11 +29,14 @@
 
 ## Search Experience
 
-See related story (#224) on a concept of a single free text dropdown
+See related story (#224) on a concept of a single free text dropdown.
 
 - Explore if this matches their language expectations (like seeing a destination/path name) - are there challenges with Type Ahead and not knowing what something is called?
 - Explore if this feels less overwhelming than three drop downs
 - Explore if visually this feels like a modern Web experience (i.e. VA.gov search does this type ahead)
 
+During usability testing we received validation about exploring one big text field - a search field similar to Google, rather than drop down menus.  Users responded positively to this idea, but we should understand any accessibility challenges as necessary and technically if and how topic based authentication would affect the single text field experience. Note in Slack there have been discussions about the usability of type ahead type feature from previous implementation in the VA because of concerns people may not know what something is called, so that would be somethign to validate.
+
 ## Secure messaging 
-- Moved to conversation guide.
+
+- Moved to conversation guide for usability testing.  Note this is a topic that requires much more research; while wireframes were done in the context of a future version of IRIS, we would require actual usability testing to validate them. 
