@@ -2,10 +2,10 @@
 
 ## Quick links
 
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/IRIS%20Usability%20Testing%20Research%20Plan%20Fall%202020.md)
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/IRIS%20Usability%20Testing%20Conversation%20Guide%20Fall%202020.md)
-- [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/iris/Usability%20Testing/Transcripts)
-- [Research report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Usability%20Testing/IRIS%20Usability%20Testing%20Research%20Report%20Fall%202020.md)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Design/research/Usability-Testing/IRIS%20Usability%20Testing%20Research%20Plan%20Fall%202020.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Design/research/Usability-Testing/IRIS%20Usability%20Testing%20Conversation%20Guide%20Fall%202020.md)
+- [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/iris/Design/research/Usability-Testing/Transcripts)
+- [Research report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Design/research/Usability-Testing/IRIS%20Usability%20Testing%20Research%20Report%20Fall%202020.md)
 - [Participants](#participants)
 
 ## Participants TO BE UPDATE
