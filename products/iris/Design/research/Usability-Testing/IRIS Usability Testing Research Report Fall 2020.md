@@ -48,7 +48,7 @@ The research assessed the form’s ability to support users on one main task, th
   * 3 men
   
 * Geographically diverse: 
-  * CA, FL, MN, NC, TN, TX
+  * CA, FL, GA, MN, NC, PA, TN, TX
 
 * Age range of our participants:
   * 3 participants 35 - 44
