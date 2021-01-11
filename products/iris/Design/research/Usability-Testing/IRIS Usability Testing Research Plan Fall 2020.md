@@ -11,7 +11,7 @@ This usability testing will be on the IRIS redesigned product and this document 
 2. Background: 
 Briefly, what is the background on this product? What would a new person on the team need to know about this product?
 
-Please view more about the IRIS project https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS-product-brief.md
+Please view more in the [product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS-product-brief.md)
 
 3. Research questions: 
 What question(s) do you hope to be able to answer after completing this research? 
