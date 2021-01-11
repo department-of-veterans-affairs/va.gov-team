@@ -41,13 +41,20 @@ The research assessed the form’s ability to support users on one main task, th
 
 ### Participants
 
-We spoke to x Veterans.
+* 8 Veterans
 
--   Gender: 
--   Age: 
--   Race:
--   Disabilities: 
--   Account: All had an account with a va.gov website (eBenefits, MHV, and/or VA.gov).
+* Gender
+  * 5 women
+  * 3 men
+  
+* Geographically diverse: 
+  * CA, FL, MN, NC, TN, TX
+
+* Age range of our participants:
+  * 3 participants 35 - 44
+  * 3 participants 45 - 54
+  * 1 participant over 65
+  * 1 participant no age stated
 
 
 ## Key Findings
@@ -57,9 +64,8 @@ We spoke to x Veterans.
 ## Details of Findings
 
 
+
 ## Additional Insights
-
-
 
 
 ## Next Steps 
