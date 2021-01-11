@@ -41,7 +41,8 @@ Questions
 - healthcheck endpoint
 - automated Contract testing
 - Swagger docs
-
+- Security
+ 
 ## Decision
 
 The change that we're proposing or have agreed to implement.
