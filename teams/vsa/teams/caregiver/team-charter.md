@@ -97,14 +97,20 @@ Anyone on the team can create a user story. All are responsible for keeping them
 
 - For a task to go into the **"Ready"** column, it must have the following:
    - Estimate
-   - Sense of priority
-  
-- For a task to be in **"Validate,"** 
+   - Sense of priority (relative to other tickets)
+   
+- During Sprint Planning, we'll move tickets into the **"Current Sprint"** column
+- As they are worked, tickets get moved into **"In Progress"**
+
+- For a task to be in **"Blocked"** 
+   - An external dependency prevents the ticket from being completed
+   
+- For a task to be in **"Validate"** 
    - All work related to the ticket is implemented
    - Acceptance criteria have been met
    - Work is accessible in staging and ready to ship to production 
 
-- For a task to be **"Done,"** 
+- For a task to be **"Done"** 
    - Validation has occured
    - Each ticket's last comment before closing should reflect when validation has occurred and by whom. 
 
