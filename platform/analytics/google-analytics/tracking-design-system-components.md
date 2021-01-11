@@ -28,12 +28,14 @@ Featured content | `'event': 'nav-featured-content-link-click' //consistently po
 Form controls - _Text Box_ | `'int-textbox-input' //consistently populate for text box inputs`<br>`'textbox-label': //dynamically populate according to the label of the text box`<br>`'textbox-input-text': //dynamically populate with the user input text`
 Form controls - _Select Box_ | `'int-select-box-option-click' //consistently populate for all select box selections`<br>`'select-box-option-label': //dynamically populate according to the label of the select box`<br>`'select-box-option-click-labelint-checkbox-option-click	
 Form controls - _Check Box_ | `'checkbox-label': //dynamically populate according to check box label`<br>`'checkbox-option-click-label': //dynamically populate according to link text
-Form controls - _Radio Button_ | `int-radio-button-option-click: //consistently populate for all radio button toggles`<br>`'radio-button-label': //dynamically populate according to the radio button label`<br>`'radio-button-option-click-label': //dynamically populate according to the radio button option selected
-Labels
-Loading indicators
-Modal
-Pagination 
-Progress bars
-Promo banners
-Sidenav
-Tables
+Form controls - _Radio Button_ | `int-radio-button-option-click: //consistently populate for all radio button toggles`<br>`'radio-button-label': //dynamically populate according to the radio button label`<br>`'radio-button-option-click-label': //dynamically populate according to the radio button option selected`
+Loading indicators | @bsmartin-ep to fill in 
+Modal | `'event': 'int-modal-click': //consistently populate for modal clicks`<br>`'modal-type': //dynamically populate according to modal type, i.e 'error', 'info'`<br>`'modal-click-label': //dynamically populate according to label of button modal`<br>`'modal-button-type': //dynamically populate according to button type`<br><br> **see button types above**
+Pagination | `'event': 'nav-paginate-number' //if number click, 'nav-paginate-previous' if previous click, 'nav-paginate-next' if next click`<br>`'paginate-page-number': //dynamically populate according to the number the user navigated to`<br>`'maximum-page-list-length': //populate according to the maximum number of pages that can be navigated`<br>`'last-page-enabled': //populate if last page enabled prop is used`
+Progress bars | `'event': 'nav-progress-bar-change', //consistent event name for progress bar change`<br>`'progress-bar-type': 'segmented', //dynamic with type of progress bar, in this case 'segmented'`<br>`'progress-bar-current-value': //dynamically populate with an integer with each new change the current,`<br>`'progress-bar-max-value': //consistently populate as an integer with the total number of segments, i.e 5,`<br>`'progress-bar-title': //dynamically populate as a string according to the bold title next to number, i.e 'Re-Employment',`<br>`'progress-bar-subtitle': //subtitle of video, i.e 'Veteran Readiness and Employment orientation',`<br>`'enable-analytics': true //consistently populate with boolean true`
+Promo banners (link click) | `'event': 'nav-promo-banner-link-click'`<br>`'promo-banner-click-label' //populate according to link click text`<br>`'promo-banner-heading': //populate with promo banner heading`
+promo-banner-closeablePromo banner (closed) | `'event': 'nav-promo-banner-close'`<br><br>**reference additional variables above**
+Promo banner (becomes visible) | `'event': 'visibile-promo-banner'`<br><br>**reference additional variables above**
+Sidenav (parent) | `'event': 'nav-sidenav' //consistently populate for side navs`<br>`'sidenav-click-label': //populate according to sidenav clicked on `<br>`'sidenav-dropdown-header': //populate with header, undefined if parent`
+Sidenav (child) | `'event': 'nav-sidenav-child'`<br><br>**see additional variables above**
+
