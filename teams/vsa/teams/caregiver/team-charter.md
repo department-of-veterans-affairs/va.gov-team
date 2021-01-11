@@ -80,18 +80,35 @@ Create, review, estimate, and prioritize backlog items.
 #### Issue Etiquette
 Anyone on the team can create a user story. All are responsible for keeping them up to date.
 
-- For an issue to go into the **"Ready"** column, it must have the following:
-   - Estimate
-   - Title that explains task
-   - Description or user story with background, goal and acceptance criteria
+- We use epics to represent user stories. For an epic to go into the **"Epic"** column, it should have:
+    - Clear acceptance criteria
+    - Definition of done   
+    - Been broken up into discreet tasks/Github tickets that are attatched to the epic
+    - All components/steps have been accounted for in the epic
+
+- For a task to go into the **"Icebox"** column, it must have the following:
+   - Title that explains the goal
    - Labels: _vsa-caregivers_ and what category it falls into (backend, front-end, research, design, product)
-   - Nested in an Epic
 
-- For an issue to be in **"Validate,"** all work related to the ticket is implemented, and it is accessible in staging and ready to ship to production, as defined by the acceptance criteria.
+- For a task to go into the **"Backlog"** column, it must have the following:
+   - Title that explains the goal in plain language
+   - Linked to a user story/epic
+   - Includes (as needed) background, goal and acceptance criteria   
 
-- For an issue to be **"Done,"** Validation has occured, and each ticket's last comment before closing should reflect whether validation has occurred, and by whom. 
+- For a task to go into the **"Ready"** column, it must have the following:
+   - Estimate
+   - Sense of priority
+  
+- For a task to be in **"Validate,"** 
+   - All work related to the ticket is implemented
+   - Acceptance criteria have been met
+   - Work is accessible in staging and ready to ship to production 
 
-- If there is are new work requests or sudden changes, contact the Product Manager and ask for help to work it into the sprint
+- For a task to be **"Done,"** 
+   - Validation has occured
+   - Each ticket's last comment before closing should reflect when validation has occurred and by whom. 
+
+- If there are new work requests or sudden changes, contact the Product Manager and ask for help to work it into the sprint
 
 #### Estimation
 We use fibonacci numbers (0, 1, 2, 3, 5, 8, 13) to account for the level of effort, complexity, and amount of unknowns in our work. Here is our guide:
