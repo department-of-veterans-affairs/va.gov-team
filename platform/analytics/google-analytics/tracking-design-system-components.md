@@ -2,16 +2,16 @@
 
 
 ### Context
-- The design system is the central UX component repository for the VA. It can be found at https://design.va.gov/components/
+- The design system is the central UX component repository for the VA. It can be found at https://design.va.gov/components/.
 - In an effort to standardize our GTM tagging according to the design system, the Analytics and Insights team is specifying a data layer
 to track the common user interaction associated with each component. 
-- This data layer spec should be used unless an otherwise provided spec is given from the Analytics and Insights team
-- Not every design system component will have tracking, as some are dedicated to styling rather than user interaction with no tracking pieces
+- This data layer spec should be used unless an otherwise provided spec is given from the Analytics and Insights team.
+- Not every design system component will have tracking, as some are dedicated to styling rather than user interaction with no tracking pieces.
 
 ### Goal
-- Our bet is by standardizing the data layer tracking code according to the design system components, this will help cut-down
-on the amount of time VFS and VSP teams spend in implementing the data layer and fast-track the time to begin collecting data
-- In addition, allow our team to spend more time on dashboarding and insights time, as opposed to tracking
+- Our bet is that by standardizing the data layer tracking code according to the design system components, this will help cut down
+on the amount of time VFS and VSP teams spend in implementing the data layer and fast-track the time to begin collecting data.
+- In addition, it will allow our team to spend more time on dashboarding and insights, as opposed to the implementation of tracking.
 
 ### Specification
 
