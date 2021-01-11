@@ -2,10 +2,7 @@
 
 
 ## IMPORTANT TO NOTE
-Please note this document will be updated; the form and the project repository are more up-to- date than this document.
-
-
-[Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS-product-brief.md)
+Please note this document will be updated.
 
 ## High Level Flow Diagram
  
@@ -28,15 +25,13 @@ Documentation containing descriptions, interaction notes, and content for each c
 - **Introduction Screen**
    - Page 1: [Introduction section] - may be deleting
    
-   
-   
+  
 - **Chapter 1: [Main Page, Inquiry Details]**
    - Page 1: [Inquiry info].  
    
   * Category
   * Enter message
   * My message is about  <--- still should explore having this on the Veteran page
-   
    
    
 - **Chapter 2: [Main Page, Veteran Info]**
@@ -52,11 +47,8 @@ Documentation containing descriptions, interaction notes, and content for each c
   *  Your name, email etc.
    
 - **Chapter 4: [Review Page]**
-  
  
-   
-- **Confirmation screen** 
-   - [Confirmation screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS%20Form%20-%20Confirmation%20Page.md)
+ - [Confirmation screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/IRIS%20Form%20-%20Confirmation%20Page.md)
 
 ## Design ## 
 
