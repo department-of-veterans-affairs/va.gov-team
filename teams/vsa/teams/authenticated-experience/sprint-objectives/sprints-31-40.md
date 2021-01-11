@@ -470,9 +470,11 @@ BE READY FOR QA NEXT SPRINT
   - Talking with Erik and Lihan to make sure we are 100% going to be ready for QA
   
 **Design**
-
 - Review Erik's initial build
 - Error to show when we cannot connect to a Direct Deposit endpoint #18338 (note: this should not hold up QA)
+
+**FE**
+- [FE] Make updates to DD for Edu as needed prior to going into QA #18051
 
 **BE**
 
