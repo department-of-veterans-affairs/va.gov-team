@@ -57,13 +57,13 @@ Slack - #va-notify
 
 * The **Office of the VA Chief Technology Officer (OCTO)** will pay for the development and maintenance of VA Digital Notifications Ecosystem products (VANotify + VEText).  Also, **OCTO** will pay for AWS infrastructure and operational costs.
 * **VA business lines** will be responsible for funding of digital notifications (email, SMS, or mobile push notifications).  Currently, **VA business lines** can procure AWS credits to fund their digital notifications.  The current cost is $0.97 per AWS credit.  To assign credits to VANotify, please follow these steps
- - Follow this link -  https://wfm.vaec.va.gov/servicedesk/customer/portal/5
- - Select - Sustainment/Operation Credit link
- - Choose VANotify under System/Application Name
- - Enter XXXXX as the Cloudkey ID
- - Enter AWS as the Cloud Provider
- - Enter the dollar amount
- - Enter your Project Manager and Business Owner
+  - Follow this link -  https://wfm.vaec.va.gov/servicedesk/customer/portal/5
+  - Select - Sustainment/Operation Credit link
+  - Choose VANotify under System/Application Name
+  - Enter XXXXX as the Cloudkey ID
+  - Enter AWS as the Cloud Provider
+  - Enter the dollar amount
+  - Enter your Project Manager and Business Owner
 
 ## FAQs
 * Does VANotify support variables in emails?  Yes - There is an an example [below](#successes)
