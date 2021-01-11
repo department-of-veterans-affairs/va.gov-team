@@ -1,16 +1,4 @@
-#Purpose
-This document details possible research areas for usability testing of the IRIS product. 
-This will be migrated to conversation guides (example for Fall 2020).
-
-Note thread on recruiting the same users: typically we are not allowed to go to the same veteran more than 2x in a year, 
-so if we expected that we are going to talk to them more than once i'd want to make sure to tap folks we have not talked to.
-
-## Conditional views by VA lines of business
-
-- Vet providing more details upfront to ensure a higher chance of relevant response vs VA having to go back to the vet for more details leading to longer cycle time for the ticket overall
-- Are we looking to validate if people are willing to provide more details in these conditional pathways - how to make that usable?
-- Add questions around H3/three levels of drop downs (topics and states) - how they expect to interact with the state?
-
+  
 ## IRIS and integration with Get Help 
 
 - There are a number of ways the VA is working to help people when they get help, including chatbots, FAQs, IRIS, search and others. What is your preferred order of how you use them?
