@@ -2,7 +2,7 @@
 ---
 
 ## Overview
-A data platform that is a source of VA.gov and DEPO product platform
+A data platform that is a source of truth for VA.gov and DEPO product platform performance and outcome data.
 
 ## Problem Statement
 VA.gov website performance and usage data is scattered and silod across different data platforms. VSP needs a cohesive source of truth for its platform so that we can understand usage and success across our products. VFS teams need a source of truth for the VA.gov website performance and usage data so that they can easily and securely access analytics around their product's success.
