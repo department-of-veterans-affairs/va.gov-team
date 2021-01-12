@@ -318,6 +318,10 @@ PTO Calendar: after approval from your PM and lead, put your days off (approved 
 - **GitHub: VA<span/>.gov | Private | Team Sensitive | VA Systems** \
   https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems \
   Backend developer integration to VA services.
+  
+## Confluence Links
+The platform team (VSP) is in the process of migrating their documentation away from GitHub over to Atlassian Confluence.
+https://vfs.atlassian.net/wiki/spaces/VP/overview
 
 ## Development System
 
