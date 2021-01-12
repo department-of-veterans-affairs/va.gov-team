@@ -76,6 +76,12 @@ This does not include research for Appeals projects, which is stored in differen
 
 - [Research folder](https://docs.google.com/document/d/1Ubm4_fD6y0S-CJ1UgQXuhiZ8-g2KupO7k9gtzRTYIV8/edit?usp=sharing)
 
+#### November 18 - November 24: Medallia Usability Testing
+*VSP Contact Center Team. Lead researcher: Ian McCullough*
+
+- 9 participants (all veterans)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/medallia/research)
+
 #### November 13 - December 7: Community Care Provider Selection Research** 
 *VAOS, Peter Russo*
 
