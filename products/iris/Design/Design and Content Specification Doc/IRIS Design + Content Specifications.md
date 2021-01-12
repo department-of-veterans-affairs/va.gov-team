@@ -1,8 +1,6 @@
 # IRIS Design + Content Specifications 
 
-
-## IMPORTANT TO NOTE
-Please note this document will be updated.
+Please note this was an early draft created with Peggy the VA SME for content.  Please see the project repository for the up to date version.
 
 ## High Level Flow Diagram
  
