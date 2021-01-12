@@ -25,5 +25,6 @@
 - GraphQL query limit monitoring
 - Action items from time zone retro
 - Facility status live training (to include Dave, Stan, Lisa, Michelle, CMS to reach out to PW to see if others need to join)
+  -Verify the list of attendees 
 
 ### TBD
