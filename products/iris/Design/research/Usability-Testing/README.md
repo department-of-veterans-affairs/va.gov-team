@@ -1,4 +1,4 @@
-# IRIS Redesign Usability Testing Dec. 2020
+# IRIS Usability Testing Dec. 2020
 
 ## Quick links
 
