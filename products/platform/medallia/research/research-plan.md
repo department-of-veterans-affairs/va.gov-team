@@ -106,6 +106,4 @@ Testing assets are currently available on the staging environment of VA.gov.
 
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/medallia/medallia-product-outline.md)
 - [Convo Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/medallia/research/conversation-guide.md)
-- Synthesis 
-- Lessons Learned 
-- Read-Out/Results  
+- [Read-Out/Results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/medallia/research/Medallia%20User%20Research%20Readout.pdf)
