@@ -113,7 +113,7 @@ Cypress 6 supports retries of tests. The number of retries is passed in as an en
 CYPRESS_RETRIES=2 cypress run --spec "path/to/test.cypress.spec.js"
 ```
 
-The number of retries can also be also be added to `vets-website/config.cypress.json`:
+The number of retries can also be added to `vets-website/config.cypress.json`:
 
 ```javascript
 {
