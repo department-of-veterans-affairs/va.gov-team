@@ -1,6 +1,6 @@
 # IRIS Form - Contact Info
 
-This is being updated...
+Please note this was an early draft created with Peggy the VA SME for content.  Please see the project repository for the up to date version.
 
 ### Description
 This page will be the main Contact Us form that will allow users to include their contact information, and will allow the VA to understand who is contacting them and why.
