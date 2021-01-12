@@ -53,12 +53,13 @@ TestRail Project and Suite IDs are two of the values you'd need to support TestR
 | Benefits & Memorials 1 | VSA-BaM1  | 5  | 6 |
 | Benefits & Memorials 2 | VSA-BaM2  | 7  | 8 |
 | Caregiver | VSA-Caregiver | 10  | 11 |
+| Content & Localization | VSA-Content-Localization | 34  | 183 |
 | Decision Tools  | VSA-Decision-Tools | 30 | 136 |
 | eBenefits | VSA-eBenefits | 3 | 3 |
 | Facilities | VSA-Facilities | 6 | 7 |
 | Healthcare Experience | VSA-Healthcare | 24 | 35 |
 | Public Websites | VSA-Public-Websites | 8 | 9 |
-| Search & Discovery | VSA-S&D | 31 | 150 |
+| Search & Discovery | VSA-Search-Discovery | 31 | 150 |
 | VAMC | VSA-VAMC | 9 | 10 |
 
 </details>
