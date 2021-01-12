@@ -173,29 +173,40 @@ _Action:_
 
 - Add a sentence introducing what information is captured (‘we’ll asking you about your question, then capture your information - this should take about 10 minutes’) at the very top of the form to explain what respondent burden is to help users feel aware of the process and understand the terminology
 
-7. The number of options in some of the drop down menus are extensive which makes the list hard to navigate
-When a user selects ‘Health and Medical Issues and Services’ then Medical Issues at a Facility from the drop down menus, they’ll get a list of Medical Centers. The existing IRIS has approximately 230 entries and the redesigned IRIS is using the medical facilities list on VA.gov (ref: Form 10-10EZ) with approximately 1040 entries
-The list of locations (cities, towns) is currently almost alphabetical by default - if you’re in the drop down and type the first letter of your location (‘W’) it will go down to the ‘W’s but it’s still a little cumbersome if users are unaware of if that functionality works.
-Participant #1: “This dropdown of the medical facilities is a lot to go over, not my favorite way of looking at it. f you have a weird VA in the chunky middle (of the list of locations) it might be harder to find”
-Participant #8: “Can’t I just type? It would make it easier if while I was in that box, I could type a few letters to start the search”
-Participant #11: “Start with state so [I] don’t have to find [my] way through Ohio and PA to find his clinic in VA”
+**7. The number of options in some of the drop down menus are extensive which makes the list hard to navigate.
 
-Implication: users will become frustrated by the experience of having to navigate through this many options. Not having modern search functionality may affect user’s perception of the VA brand.
-Action:
-Add copy that says ‘type first letter of your location to go to that selection’ above the drop down menu as help text
-Explore alternative design options - a dropdown menu with states that has some type ahead functionality of a search box at the top of the menu
-Alphabeticalize the Medical Center list to help with readability
-Many of the Medical Centers are all caps - make them Sentence Case instead to help with readability. Do we need to sort by type of center as well?
-8. Some felt the number of fields was excessive
+When a user selects ‘Health and Medical Issues and Services’ then Medical Issues at a Facility from the drop down menus, they’ll get a list of Medical Centers. The existing IRIS has approximately 230 entries and the redesigned IRIS is using the medical facilities list on VA.gov (ref: Form 10-10EZ) with approximately 1040 entries. The list of locations (cities, towns) is currently almost alphabetical by default - if you’re in the drop down and type the first letter of your location (‘W’) it will go down to the ‘W’s but it’s still a little cumbersome if users are unaware of if that functionality works.
+
+- Participant #1: “This dropdown of the medical facilities is a lot to go over, not my favorite way of looking at it. f you have a weird VA in the chunky middle (of the list of locations) it might be harder to find”
+- Participant #8: “Can’t I just type? It would make it easier if while I was in that box, I could type a few letters to start the search”
+- Participant #11: “Start with state so [I] don’t have to find [my] way through Ohio and PA to find his clinic in VA”
+
+_Implication:_
+Users will become frustrated by the experience of having to navigate through this many options. Not having modern search functionality may affect user’s perception of the VA brand.
+
+_Action:_
+
+- Add copy that says ‘type first letter of your location to go to that selection’ above the drop down menu as help text
+- Explore alternative design options - a dropdown menu with states that has some type ahead functionality of a search box at the top of the menu
+- Alphabeticalize the Medical Center list to help with readability
+- Many of the Medical Centers are all caps - make them Sentence Case instead to help with readability. Do we need to sort by type of center as well?
+
+**8. Some felt the number of fields was excessive
+
 The IRIS form captures the inquiry, Veteran info and contact information about the person submitting. We started with the existing set of fields, simplified it and asked participants if any fields seemed irrelevant or if any fields were missing that they expected to see. Many fields affirmed that fields felt ‘extra’ and quickly started to look for required fields in order to do the bare minimum to submit the form.
-Participant #1: “I think they need to let go of all this asking for your SSN, the DoD has stopped asking for it, I’m over it, stop asking for my full social”
-Participant #4: “Why do I have to add my service start date for [submitting a question about] my glasses?”
-Participant #11: “The page with all the non-mandatory fields feels like superfluous information. Do you need it to narrow down who this person is? Last 4 of social also works. [On Branch of Service being a required field]: “Why is that significant in this setting? Is there a Marine desk that will work with me?”
 
-Implication: As time required to fill out the form increases, so does frustration by users who can feel this experience stands in the way of them receiving help. This will be a key area to watch as additional content will be added from Lines of Business (the ‘conditional logic’ work ahead).
-Action:
-Reevaluate which fields are absolutely necessary by a) looking at what lines of business actually require to take action on and b) what data we have in Oracle to understand which fields are actively being filled out. 
-Reconsider how much is made required especially as Lines of Business are requesting to make more conditional logic and required fields a new standard for the form. As these more conditional logic decisions shape the UI, more usability testing before launch should be mandatory to ensure user frustration doesn’t translate into people not filling out the form and calling instead.
+- Participant #1: “I think they need to let go of all this asking for your SSN, the DoD has stopped asking for it, I’m over it, stop asking for my full social”
+- Participant #4: “Why do I have to add my service start date for [submitting a question about] my glasses?”
+- Participant #11: “The page with all the non-mandatory fields feels like superfluous information. Do you need it to narrow down who this person is? Last 4 of social also works. [On Branch of Service being a required field]: “Why is that significant in this setting? Is there a Marine desk that will work with me?”
+
+_Implication:_
+As time required to fill out the form increases, so does frustration by users who can feel this experience stands in the way of them receiving help. This will be a key area to watch as additional content will be added from Lines of Business (the ‘conditional logic’ work ahead).
+
+_Action:_
+
+- Reevaluate which fields are absolutely necessary by a) looking at what lines of business actually require to take action on and b) what data we have in Oracle to understand which fields are actively being filled out. 
+
+- Reconsider how much is made required especially as Lines of Business are requesting to make more conditional logic and required fields a new standard for the form. As these more conditional logic decisions shape the UI, more usability testing before launch should be mandatory to ensure user frustration doesn’t translate into people not filling out the form and calling instead.
 
 
 ## Additional Insights
@@ -221,4 +232,3 @@ We validated that some users were frustrated with the length of the form, i.e. t
 - [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/iris/Design/research/Usability-Testing/Transcripts)
 
 - [Pages tested](https://staging.va.gov/ask-a-question )
-
