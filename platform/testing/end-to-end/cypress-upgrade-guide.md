@@ -23,7 +23,7 @@ The upgrade from Cypress 4.8 to Cypress 6.2.1 introduces several changes to test
 
 ## Migration changes <a name="migration-changes"></a>
 
-### `cy.intercept` vs. `cy.route` <a name="intercept"></a>
+### `cy.intercept()` vs. `cy.route()` <a name="intercept"></a>
 
 [`cy.server()`](https://docs.cypress.io/api/commands/server.html) and [`cy.route()`](https://docs.cypress.io/api/commands/route.html) are being deprecated in favor of [`cy.intercept()`](https://docs.cypress.io/api/commands/intercept.html). `cy.server()` is not needed when using `cy.intercept()`. Syntax for `cy.intercept()` is the same as it is for `cy.route()`.
 
@@ -113,7 +113,7 @@ Cypress 6 supports retries of tests. The number of retries is passed in as an en
 CYPRESS_RETRIES=2 cypress run --spec "path/to/test.cypress.spec.js"
 ```
 
-The number of retries can also be added to `vets-website/config.cypress.json`:
+The number of retries can also be added to `vets-website/config/cypress.json`:
 
 ```javascript
 {
@@ -158,7 +158,7 @@ Cypress.Cookies.defaults({
 
 ### Blocking hosts <a name="blocking-hosts"></a>
 
-For blocking hosts in `vets-website/config.cypress.json`, the configuration variable `blacklistHosts` has been renamed to `blockHosts`.
+For blocking hosts in `vets-website/config/cypress.json`, the configuration variable `blacklistHosts` has been renamed to `blockHosts`.
 
 ### `dirname` and `filename` <a name="dirname-filename"></a>
 
@@ -176,7 +176,6 @@ expect(__dirname).to.equal('cypress/integration');
 expect(__filename).to.equal('cypress/integration/app_spec.js');
 ```
 
-
-### Additional resources <a name="additional-resources"></a>
+## Additional resources <a name="additional-resources"></a>
 
 A full migration guide can be found on [docs.cypress.io](https://docs.cypress.io/guides/references/migration-guide.html).
