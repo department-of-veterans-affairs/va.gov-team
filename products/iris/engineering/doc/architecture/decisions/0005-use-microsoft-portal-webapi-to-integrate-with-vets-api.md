@@ -4,12 +4,14 @@ Date: 2021-01-08
 
 ## Status
 
-Pending
+This decision is out of ThoughtWorks team's scope, but capturing here for awareness  
 
 ## Context
 
-- It has been decided to move forward with using the Microsoft PowerApps Portal to build the form, secure messaging, as of Jan 7, 2021.
-- Previous assumption was that it was necessary to build all the custom APIs through a middleware layer called VEIS (Veteran’s Experience Integration Solution) to integrate the vets-api with PATS-R. It appeared to be discouraging due to the high maintenance cost of additional customization requirements.  
+- It has been decided to move forward with using the Microsoft PowerApps Portal to build the form, and secure messaging, as of Jan 7, 2021.
+- On Jan 8, 2021, Microsoft Cloud solution architect Aaron Barth, had shared a sample application exploring a new Portal capability to build custom APIs by configurations, to be integrated from any front-end.   
+- If the perceived effort to rebuild the Ask Question form on the Portal is greater than identifying a way to salvage/reuse the codebase, it maybe worthwhile to explore.       
+- The previous assumption was that it was necessary to build all the custom APIs through a middleware layer called VEIS (Veteran’s Experience Integration Solution) to integrate the vets-api with PATS-R. It appeared to be discouraging due to the high maintenance cost of additional customization requirements.  
 - This WebAPI feature seems to be new, and the documentation (as of July 2020) says it’s in “preview” phase before finally rolled out. 
 
 Assumption: 
@@ -35,19 +37,5 @@ Body
   {"firstname":"Team","lastname":"Orchid","emailaddress1":"team.Orchid@contoso.com","telephone1":"555-123-4567"}  
 Then browse the [site](https://woodstockanalytic.powerappsportals.com/webapi/)
 
-
-Questions
-- API versioning
-- healthcheck endpoint
-- automated Contract testing
-- Swagger docs
-- Security
- 
 ## Decision
-
-The change that we're proposing or have agreed to implement.
-
-
-## Consequences
-
-What becomes easier or more difficult to do and any risks introduced by the change that will need to be mitigated.
+SRA team has been informed on Jan 11, 2021 of the opportunity to learn more from Aaron Barth.
