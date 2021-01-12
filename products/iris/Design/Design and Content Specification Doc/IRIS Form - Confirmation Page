@@ -1,11 +1,6 @@
 # IRIS Form - Confirmation Page
 
-### IMPORTANT TO NOTE
-Please note this document will be updated; the form and the project repository are more up-to- date than this document.
-
-
-Relevant links: 
-- [Github issue](https://github.com/department-of-veterans-affairs/orchid/issues/76) - note this is a different story that builds on the original story in 86.
+Please note this was an early draft created with Peggy the VA SME for content.  Please see the project repository for the up to date version.
 
 ### Description
 This page serves to let the user know that their message has been successfully received by the VA, and for them to be able to track the message in the future.
@@ -18,7 +13,7 @@ This page serves to let the user know that their message has been successfully r
 ### Questions
 What tone for this page ? (Story #76 - has existing language) Going forward, use this page: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-confirmation-page.md
 
-### Content  - TO DO
+### Content
 
 Please note Peggy has sent over a Word doc with content so this page will be updated
 
