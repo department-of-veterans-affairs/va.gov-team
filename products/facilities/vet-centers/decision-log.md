@@ -19,7 +19,6 @@ The following were considered but rejected for MVP
 
 | Date | Decision |
 | ---- | ---- |
-
 | 1/6/2021 | We do not want to restrict list of services (ie: Psychology) available for use by Vet Centers but will want to encourage use of default list (TBD) |
 | 1/6/2021 | Group counseling will be handled as a modality rather than a service taxon of its own |
 | 1/6/2021 | De-emphasize "transitioning" as this alientates Veterans who aren't recently separated yet still access services |
