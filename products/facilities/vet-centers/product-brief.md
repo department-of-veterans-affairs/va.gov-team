@@ -123,26 +123,7 @@ A separate, but adjacent, effort will be needed to replace vetcenters.va.gov.
 
 ### Decisions 
 
-The following were considered but rejected for MVP
-
-| Content area | Rationale |
-| ------- | -------- |
-| Staff Profiles | Level of effort to maintain locally, challenge presented by inaccurate profiles |
-| Events | Not all events are open to all clients or to new/potential clients |
-| Social Media | Historically has not been allowed |
-| Stories | Level of effort to maintain locally |
-| Spanish translation | Will need to consider for full roll-out |
-| Tagline | Potential for abuse with "branding", has been removed across VA.gov, needs input from Design Council | 
-| Facility operating status for CAP | not in VAST, challenges with maintaining, need to determine how to display and communicate to Veterans |
-
----
-
-| Date | Decision |
-| ---- | ---- |
-| 1/6/2021 | After hours call center informs Vet Center (within 24 hours) of a Veteran's call and provides the Vet Center with the Veteran's contact info and supplies the Vet Center info to the Veteran. However, if the Veteran reaches the Call center during business hours, there is no warm handoff to the Vet Center. This understanding will influence our placement of Call Center phone numbers/CTA. |
-| 1/6/2021 | We will seek ways to connect to Vet Center services within the accordions of VAMC health services but not to the VAMC from Vet Center page. This is to avoid additional confusion about the differences between a Vet Cente and a VAMC. |
-| 1/6/2021 | Vet Center pages will use same alert style as VAMC but can be dismissable. No need to include in future prototypes for research |
-| 1/6/2021 | We do not want to restrict list of services (ie: Psychology) available for use by Vet Centers but will want to encourage use of default list (TBD) |
+[Link to decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/decision-log.md)
 
 
 ## Measuring success
