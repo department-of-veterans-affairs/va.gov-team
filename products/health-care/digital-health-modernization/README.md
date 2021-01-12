@@ -5,10 +5,10 @@
 
 ## What We're Doing
 - ~~Interview 23 veterans to understand digital health experiences~~
-- Now: [Research synthesis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1607438166231/034610fe4b845af0212aedcd5868db72e8ee48c8)
-- Now: Build out this team charter
-- Now: [Rough draft of product strategies for feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/README.md)
-- Jan 11 2021: Share research findings
+- ~~Now: [Research synthesis]~~(https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1607438166231/034610fe4b845af0212aedcd5868db72e8ee48c8)
+- Now: Build out a team charter
+- ~~Now: [Rough draft of product strategies for feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/README.md)~~
+- ~~Jan 11 2021: Share research findings~~
 - Jan 22 2021: Formalize draft strategy and performance metrics
 - Q1-2 2021: Ship [earliest testable product](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
 
