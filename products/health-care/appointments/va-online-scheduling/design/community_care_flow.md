@@ -34,6 +34,19 @@ Calendar page, no time selected
 
 ![calendar_required](community-care-flow/calendar_required.png)
 
+## Preferences page
+
+User can select closest city and state, language preference, and optionally enter in provider info
+
+![preferences](community-care-flow/preferences.png)
+
+If user chooses "Yes" for provider question, fields appear where they can enter info
+
+![preferences_expanded](community-care-flow/preferences_expanded.png)
+
+
+
+
 ## Provider Selection Page (unreleased)
 
 Once released, users will be able to search for a provider based on their residential address or current location
