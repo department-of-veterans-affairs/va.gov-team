@@ -1,21 +1,23 @@
-# Cypress 6.2.1 Migration Guide
+# Cypress 6.2.1 Upgrade Guide
 
-The purpose of this guide is to help with migrating existing Cypress tests to apply changes introduced by upgrading from Cypress 4.8 to Cypress 6.2.1.
+The upgrade from Cypress 4.8 to Cypress 6.2.1 introduces several changes to test structure, syntax, and other aspects of Cypress tests. This guide covers key changes that are most likely to affect existing tests. There are a handful of deprecated methods that should be updated before the core Cypress library no longer supports them, which is expected to happen in the next major release (7.x), we recommend making these changes by the end of March 2021, to safely avoid any issues resulting from the next update. Please carefully read the guidance below. If you have any questions please drop by #vsp-testing-tools-team to get support.
 
 # Table of Contents
 
-1. [Overview](#overview)
-2. [Migration changes](#migration-changes)
-   1. [`cy.intercept()` vs. `cy.route()`](#intercept)
-   2. [Fixtures](#fixtures)
-   3. [Non-existent elements](#non-existent-elements)
-   4. [Opacity of elements](#opacity)
-   5. [Retrying tests](#retries)
-   6. [Retrying individual tests](#individual-retries)
-   7. [Cookies](#cookies)
-   8. [Blocking hosts](#blocking-hosts)
-   9. [`dirname` and `filename`](#dirname-filename)
-3. [Additional resources](#additional-resources)
+- [Cypress 6.2.1 Upgrade Guide](#cypress-621-upgrade-guide)
+- [Table of Contents](#table-of-contents)
+  - [Overview <a name="overview"></a>](#overview-)
+  - [Migration changes <a name="migration-changes"></a>](#migration-changes-)
+    - [`cy.intercept()` vs. `cy.route()` <a name="intercept"></a>](#cyintercept-vs-cyroute-)
+    - [Fixtures <a name="fixtures"></a>](#fixtures-)
+    - [Non-existent elements <a name="non-existent-elements"></a>](#non-existent-elements-)
+    - [Opacity of elements <a name="opacity"></a>](#opacity-of-elements-)
+    - [Retrying tests <a name="retries"></a>](#retrying-tests-)
+    - [Retrying individual tests <a name="individual-retries"></a>](#retrying-individual-tests-)
+    - [Cookies <a name="cookies"></a>](#cookies-)
+    - [Blocking hosts <a name="blocking-hosts"></a>](#blocking-hosts-)
+    - [`dirname` and `filename` <a name="dirname-filename"></a>](#dirname-and-filename-)
+  - [Additional resources <a name="additional-resources"></a>](#additional-resources-)
 
 ## Overview <a name="overview"></a>
 
