@@ -2,7 +2,7 @@
 
 IRIS (Inquiry Routing & Information System) Redesign project
 
-Rachel M. Murray, January 12, 2020
+Rachel M. Murray, January 12, 2021
 
 View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/Design/research/Usability-Testing/IRIS%20Usability%20Testing%20Research%20Plan%20Fall%202020.md)
 
