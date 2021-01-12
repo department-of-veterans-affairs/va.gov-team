@@ -6,7 +6,7 @@
 
 |Project|Status|
 |----|----|
-|[My VA 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | Design|
+|[My VA redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | Design|
 |[Direct deposit for edu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/README.md) | Finalizing design; Frontend build |
 |[Preferred facility for VA.gov profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/README.md) | Backend implementation (Design and Frontend to follow) |
 | VA Profile: Notification preferences | Preliminary conversations with VA Profile |
@@ -36,10 +36,11 @@ It is because of this that we are going to dedicate all of 2020, and as much of 
 
 |Project|Q3 2020|Q4 2020|Q1 2021|Q2 2021|Q3 2021|Q4 2021|
 |----|----|----|----|----|----|----|
-|**My VA 2.0**| Start technical discovery; start design | Design | Finish design; user testing; FE build | QA; pre-launch; launch | — | — |
+|**My VA redesign**| Start technical discovery; start design | Design | Finish design; user testing; FE build | QA; pre-launch; launch | — | — |
 |**Direct deposit for edu**| Begin discovery | Continue discovery; design; build | QA; pre-launch; launch| — | — | — |
 |**Preferred facility for VA.gov profile**| — | Discovery; BE implementation | Design; User testing; FE build| QA; launch | — | — |
 |**VA Profile: Notification preferences**| — | Preliminary discussions | Initial BE integration; begin design discussions | ? | ? | ? |
+|**My VA redesign enhancements**| — | — | — | — | Start discovery on enhancements (View Payment History; Debt Letters) | — |
 
 ### Potential future projects & feature requests from other teams
 
