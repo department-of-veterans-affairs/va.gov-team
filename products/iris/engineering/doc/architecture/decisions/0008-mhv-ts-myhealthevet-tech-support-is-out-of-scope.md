@@ -4,10 +4,10 @@ Date: 2020-11-19
 
 ## Status
 
-Accepted - decision was made out of scope of TW
+Accepted - decision was made out of scope for the ThoughtWorks team (Team Orchid)
 
 ## Context
-Initially, the scope of the work included TW to own the Veteran facing form for IRIS, GI Bill, and the MHV-TS to be integrated with one or more CRMs.    
+Initially, the scope of the work has this team own the Veteran facing form for IRIS, GI Bill, and the MHV-TS to be integrated with one or more CRMs.    
 
 
 ## Decision
