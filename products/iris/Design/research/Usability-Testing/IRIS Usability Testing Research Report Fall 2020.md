@@ -106,7 +106,7 @@ Information chunking allows people to feel like they are interacting with certai
 none required - the chapter page is built into the redesigned IRIS experience.
 
 
-**3. The review page is useful to keep so people are able to review their entries before submitting
+**3. The review page is useful to keep so people are able to review their entries before submitting** 
 
 The review page has accordions the user can expand to view and edit the data they have entered on the previous chapters. Upon clicking on the 'edit' button, the user can add edit or delete content, save and eventually submit the form. Some of the team had hypothesized that this was adding an unnecessary step in the flow and that the form was already too lengthy compared to a traditional Contact Us Form, and queried if we should remove the page.
 
@@ -121,7 +121,7 @@ Wherever possible, users want to be able to review what they’ve entered on a f
 _Action:_
 none required - the review page is built into the redesigned IRIS experience.
 
-**4. The confirmation message helps people know the system received their message*
+**4. The confirmation message helps people know the system received their message** 
 
 In the current IRIS product, users get a confirmation message when their message has been successfully submitted. While this is part of the current IRIS experience, some team members hypothesized that the extra step with this confirmation message many not be necessary, so we wanted to validate that the confirmation message functionality was valuable, and if there was particular content to add - for example, a copy of their message as well as a confirmation number.
 Participants validated that the confirmation message was useful, and the content could be minimal - confirmation that the message was successfully sent, that it was emailed to the participant and that they have a confirmation number.
@@ -136,7 +136,7 @@ Users benefit from having confirmation that the system has performed properly an
 _Action:_
 none required - the confirmation page is built into the redesigned IRIS experience.
  
-** 5. Combining GI Bill and IRIS into one form will simplify life for Veterans
+**5. Combining GI Bill and IRIS into one form will simplify life for Veterans**
 
 The project initially started with a hypothesis that we would combine IRIS, MyHealtheVet’s (MHV) contact us form and the GI Bill Contact form all in one. After analysis it was found that MHV was running its own system and separating the form from their secure messaging would be difficult. We also determined that combining IRIS and GI Bill’s contact pages had no such obstacles. 
 
@@ -153,7 +153,7 @@ Centralizing the ways users can contact the VA means saving time having to look 
 _Action:_
 none required (the forms have been combined in the version on Staging)
  
-**6. The content was confusing for some participants
+**6. The content was confusing for some participants** 
 
 We can think of content in the form in two broad buckets - the supporting text content of the form itself, and the content in the drop down menus tied to the various Lines of Business within the VA. The options in the drop down menu were being finalized at the time of testing but we hypothesized that we could validate the work to date and the design pattern use of multiple drop down menus. We observed how participants interact with the separate drop down menus to validate their use and to validate the content so far. As the full list of options is finalized, usability testing before launch to validate that the content is sufficiently streamlined but also to validate that people aren’t looking for options that have been deleted should occur. There is also a ‘help’ supporting text story in the current IRIS backlog (https://github.com/department-of-veterans-affairs/orchid/issues/97) that will also need to be addressed.
 Participants questioned some of the supporting text (‘‘respondent burden’’) and some participants struggled with the copy in the drop down menus. Additionally, because of the structure of drop downs, it’s not intuitive necessarily where things ‘live’ naturally (information hierarchy) without a user having to interact with the menus and ‘learn’ the hierarchy
@@ -173,7 +173,7 @@ _Action:_
 
 - Add a sentence introducing what information is captured (‘we’ll asking you about your question, then capture your information - this should take about 10 minutes’) at the very top of the form to explain what respondent burden is to help users feel aware of the process and understand the terminology
 
-**7. The number of options in some of the drop down menus are extensive which makes the list hard to navigate.
+**7. The number of options in some of the drop down menus are extensive which makes the list hard to navigate.** 
 
 When a user selects ‘Health and Medical Issues and Services’ then Medical Issues at a Facility from the drop down menus, they’ll get a list of Medical Centers. The existing IRIS has approximately 230 entries and the redesigned IRIS is using the medical facilities list on VA.gov (ref: Form 10-10EZ) with approximately 1040 entries. The list of locations (cities, towns) is currently almost alphabetical by default - if you’re in the drop down and type the first letter of your location (‘W’) it will go down to the ‘W’s but it’s still a little cumbersome if users are unaware of if that functionality works.
 
@@ -191,7 +191,7 @@ _Action:_
 - Alphabeticalize the Medical Center list to help with readability
 - Many of the Medical Centers are all caps - make them Sentence Case instead to help with readability. Do we need to sort by type of center as well?
 
-**8. Some felt the number of fields was excessive
+**8. Some felt the number of fields was excessivev 
 
 The IRIS form captures the inquiry, Veteran info and contact information about the person submitting. We started with the existing set of fields, simplified it and asked participants if any fields seemed irrelevant or if any fields were missing that they expected to see. Many fields affirmed that fields felt ‘extra’ and quickly started to look for required fields in order to do the bare minimum to submit the form.
 
