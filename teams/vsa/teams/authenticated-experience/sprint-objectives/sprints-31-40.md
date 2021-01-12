@@ -444,6 +444,10 @@ BE
 
 - Look into analytics error discrepancies #18270
 
+**BE**
+
+- Log when users have a mvi_response.status of OK then return a va profile MVI201 error #18349
+
 ### My VA redesign
 
 **PM**
@@ -455,6 +459,7 @@ BE
 - Visual design
 - Gather feedback from design team
 - How do we guide people to the new My VA dashboard? #14581
+- Cerner/MHV split use case for My VA dashboard #14025
 - [Design] Submit MyVA wireframes for copy review #17530 
 
 ### Direct deposit for edu
