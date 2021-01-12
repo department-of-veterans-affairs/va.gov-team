@@ -38,6 +38,21 @@ TL; DR add very good notifications to va.gov global header. Integrate with vet-t
 ### Strategy C: Provide for Providers
 TL; DR assumes we can do the most good for the most vets by addressing performance bottlenecks, UX issues and discoverabilty (ex., of messages and PGD) for providers, freeing up more time for them to focus on patients, which is of greater benefit than in changes to veteran-facing tools per se.
 
+## Major Risks
+Using Marty Cagan's framework for risk in absence of a compelling reason not to. Only surfacae big, honking problems here. This doc needs to be big picture. Risks in order of @aryeh-usds's judgement of severity at time of writing. 
+
+### Viability
+- Is OCTO set up logistically and financially to onboard and pay the staff and / or contractors we'll need to do this work? Smart play here may be to address feasibility risk first, which will surface staffing needs, which we can evaluate here. 
+
+### Value
+- Currently our approach is more about preserving (one good place on web to do health transactions) than adding value. The biggest risk here is that's very abstract to users, who may need a carrot to deal with us moving their cheese. Aryeh needs to solve this. 
+
+### Feasibility
+- Engineering is a blind spot. There are many ways to handle making MHV and VA.gov feel, or actually be, more cohesive, that could eventually look the same to end users. However they could differ by many person-years of effort, and by specific technical risks. This is probably the first risk to tackle because it will inform both the value risk (by telling us which parts of the system are least problematic to change) and viability risk (by telling us something about how many people / how much time is the floor for making progress). 
+
+### Usability
+- Not yet a concern. This comes after the other risks, and is the easiest to address algorithmically. Team needs designer when "later" arrives. 
+
 ## Proposed Performance Metrics
 TBD
 
