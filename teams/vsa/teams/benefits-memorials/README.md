@@ -32,37 +32,21 @@
 - [Keywords](#Keywords)
 - [Team](#team)
 
-# Priorities (Updated 10/23/2020)
-- Launch BDD
-  - Remaining UAT
-  - Remaining rollout at % points
-  - Keep track of metrics
-- Higher Level Review
-  - Has been bouncing around for months due to COVID and then due to BDD and Original Claims
-  - Will likely be a higher priority shortly but waiting to see what AMO says
-  - BGS technical discovery
-- Letters Issues
-- 526/BDD Usability (Design focused)
-  - We have identified many potential issues we would like to look at related to BDD
-  - 526 Usability research plan in work.
-- Veteran Support
+# Priorities (Updated 1/12/2021)
+- Launch Higher Level Review
+  - Final accessibility audit changes have been completed
+  - Focus on UAT, currently not finding candidates
+  - No updated launch data at this time
+- Bug fixes and technical debt
   - This will never be zero and we need to find time for at least two engagements a week
-  - Should be factored into our planning - it was not for sprint 27
+  - Continued major issue with 526 being fixed
+- Veteran (Call Center) Support
+  - Has not been prioritized for a while, likely time to have another look at customer support calls
+- Prepare for Notice of Disagreement
 - Claims and Appeals Status
-  - This has high visibility and therefore some work on this has to keep moving forward
-  - Expected to focus one group of engineers HLR and one group in CST as we continue to move forward over the next few weeks
-  - Fix bugs and existing "issues"
-  - Work on decision information showing in tool
-- Notice of Disagreement
+  - Fell down the priority list, however we have been making file upload fixes
 - Supplemental Claims
-  
-# Products (this section in work)
-- BDD
-- HLR
-- NOD
-- 4192
-- IDES
-- HLR Auto Establishment
+
 
 # Team Info
 
@@ -71,8 +55,8 @@ First line is always Matt and Luke. However, our channel #vsa-benefits-memorial 
 
 |**Roles**              |**Assigned**                        |**Contact Information**         |
 |-----------------------|------------------------------------|--------------------------------|
-|DSVA Product Manager   |Matt Self (transitional)            |matt.self@va.gov                |
-|Team Product Manager   |Luke Majewski                       |lmajewski@governmentcio.com     |
+|DSVA Product Manager   |Matt Self                           |matt.self@va.gov                |
+|Team Product Manager   |Veronica Henry                      |vhenry@governmentcio.com        |
 |Back-End Engineer      |Anna Carey                          |anna@adhocteam.us               |
 |Back-End Engineer      |Ed Mangimelli                       |ed.mangimelli@adhocteam.us      |
 |Front-End Engineer     |Nicholas Sprinkle                   |nick.sprinkle@oddball.io        |
@@ -126,9 +110,8 @@ Money spent on programs at the VA will be better utilized.  Increased usage of d
 - **December 2019**: Identifying how to handle Legacy Issues in HLR; Blocked by MVI to complete environment testing due to server error issues. Began business and technical research on Benefits Delivery at Discharge, Claim Status API and Notice of Disagreement.
 - **January 2020**: MVI integration for Original Claims (still being worked in February), finalize HLR design and work with AMO for approval, kick off Notice of Disagreement (delayed), begin working Benefits Delivery at Discharge plan (slightly delayed but plan completed by 2/7), lots of HLR bug fixes and updates based on accessibility reviews, prepare forms 8940 and 4192 for launch.
 - **February 2020**: Complete MVI integration and complete Original Claims.  Possibly launch at the end of the month but given the MVI integration schedule it is not likely.  Complete HLR design and implementation, also shoot for March launch.  Get through initial usability testing with BDD.  Begin initial analysis of NOD, not expected to be prioritized over Original Claims, BDD, and HLR.
-
-- [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials/Benefits%20and%20Memorials%20Roadmap.png)
-- ATO documentation: Part of general VSA ATO - Luke will update with a link when he finds one.
+- **Decemeber 2020**: Roll out Benefits Delivery at Discharge.  At 100% by end of December. BDD will turn off on eBenefits by January 31st.
+- **January 2021**: Expected launch of HLR.
 
 ## Keywords
-vsa-benefits, HLR, 526, vsa-decision-review, NOD, Supplemental Claim, BDD, Original Claim
+vsa-benefits, HLR, 526, vsa-decision-review, NOD, Supplemental Claim, BDD, Original Claim, PTSD
