@@ -1,9 +1,6 @@
 # IRIS Form - Review Page
 
-
-## IMPORTANT TO NOTE
-Please note this document will be updated; the form and the project repository are more up-to- date than this document.
-
+Please note this was an early draft created with Peggy the VA SME for content.  Please see the project repository for the up to date version.
 
 ### Description
 
