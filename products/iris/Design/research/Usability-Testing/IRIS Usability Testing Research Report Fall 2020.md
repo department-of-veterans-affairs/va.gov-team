@@ -100,9 +100,11 @@ Participants validated that the number of chapters wasn’t excessive, and that 
 Additionally participants validated that the fields on each chapter were intuitively laid out in the right order within each chapter.
 
 *Implication:*
+
 Information chunking allows people to feel like they are interacting with certain types of content and when they move onto the next chapter they’re one step closer to completing their task. This will also be key as more conditional based logic for UIs per lines of business will play a role in the future.
 
 *Action:*
+
 none required - the chapter page is built into the redesigned IRIS experience.
 
 
@@ -116,10 +118,12 @@ Participants validated that the review page was worth keeping especially since i
 - Participant #7: “Useful to review your information, because I tend to mistype when I’m in a hurry”
 
 _Implication:_
+
 Wherever possible, users want to be able to review what they’ve entered on a form if it is lengthy and especially if broken up across multiple screens, and the Review page is one way of empowering users to ensure the data they’re entering is accurate and that they can change content as necessary.
 
 _Action:_
-none required - the review page is built into the redesigned IRIS experience.
+
+None required - the review page is built into the redesigned IRIS experience.
 
 **4. The confirmation message helps people know the system received their message** 
 
@@ -131,10 +135,12 @@ Some participants noted they liked having the number to follow up with and would
 - Participant #8: “That content is perfect, if I needed to reach somebody about that message. If I don’t hear back I can say hey I sent this on Dec. 17th and nobody got back to me and here’s the number”
 
 _Implication:_
+
 Users benefit from having confirmation that the system has performed properly and the form was submitted, and getting the confirmation number to help with follow up as needed
 
 _Action:_
-none required - the confirmation page is built into the redesigned IRIS experience.
+
+None required - the confirmation page is built into the redesigned IRIS experience.
  
 **5. Combining GI Bill and IRIS into one form will simplify life for Veterans**
 
@@ -148,25 +154,29 @@ Participants supported the idea of combining the two forms.
 - Participant #10: “Yes, that is SO necessary, since there are so many competing fiefdoms. If you go on VA.gov, they have 57 different sub-degradations. What in the world was anybody thinking! It's all 1974 internet yak! It's embarrassing!”
 
 _Implication:_
+
 Centralizing the ways users can contact the VA means saving time having to look for Contact Us forms, and allowing users to have a seamless experience.
 
 _Action:_
-none required (the forms have been combined in the version on Staging)
+
+None required (the forms have been combined in the version on Staging)
  
 **6. The content was confusing for some participants** 
 
-We can think of content in the form in two broad buckets - the supporting text content of the form itself, and the content in the drop down menus tied to the various Lines of Business within the VA. The options in the drop down menu were being finalized at the time of testing but we hypothesized that we could validate the work to date and the design pattern use of multiple drop down menus. We observed how participants interact with the separate drop down menus to validate their use and to validate the content so far. As the full list of options is finalized, usability testing before launch to validate that the content is sufficiently streamlined but also to validate that people aren’t looking for options that have been deleted should occur. There is also a ‘help’ supporting text story in the current IRIS backlog (https://github.com/department-of-veterans-affairs/orchid/issues/97) that will also need to be addressed.
+We can think of content in the form in two broad buckets - the supporting text content of the form itself, and the content in the drop down menus tied to the various Lines of Business within the VA. The options in the drop down menu were being finalized at the time of testing but we hypothesized that we could validate the work to date and the design pattern use of multiple drop down menus. We observed how participants interact with the separate drop down menus to validate their use and to validate the content so far. As the full list of options is finalized, usability testing before launch to validate that the content is sufficiently streamlined but also to validate that people aren’t looking for options that have been deleted should occur. 
 Participants questioned some of the supporting text (‘‘respondent burden’’) and some participants struggled with the copy in the drop down menus. Additionally, because of the structure of drop downs, it’s not intuitive necessarily where things ‘live’ naturally (information hierarchy) without a user having to interact with the menus and ‘learn’ the hierarchy
 
 - Participant #4: “Closest would be medical devices but the I don’t feel accurately describe my glasses, if I had to pick one, I’ll use “Prosthetics” - it’s not correct, but I will choose that”
 - Participant #11: “Would glasses be considered Medical Devices? I’ll try that since it doesn’t really fit in anything else”
 
 _Implication:_
+
 If people select the ‘wrong’ option the inquiry may need to be rerouted manually by a contact center agent, thus adding extra time for an inquiry to be resolved. Users may default to picking up the phone or alternative methods of contact rather than using IRIS, or become frustrated, thus lowering the perception of the VA in the mind of users.
 
 _Action:_
+
 - Standardize the content to fit VA content strategy 
-- Removing acronyms and ampersands from the drop down menus can help, etc. as these can prevent the ability to clearly understand something. This card (#141) captures some of the content strategy to explore
+- Removing acronyms and ampersands from the drop down menus can help, etc. as these can prevent the ability to clearly understand something. Card (#141) captures some of the content strategy to explore and there are other stories later in this report that details more concrete actions to take.
 - Revise the drop down language to eliminate duplication - for example revise ‘Home Loan Guaranty/All VA Mortgage Issues’ to ‘Home Loan Guaranty/Mortgage’ - we don’t need ‘issues’ or ‘VA’ in the option. Another example is the use of ‘Home Loan Mortgage’ as a Level 2 drop down option.
 
 - Explore having a glossary - perhaps utilizing the ‘additional info’ component (https://design.va.gov/components/additional-info) as a way to provide a reference people have handy to learn what the options in the menus are
@@ -182,6 +192,7 @@ When a user selects ‘Health and Medical Issues and Services’ then Medical Is
 - Participant #11: “Start with state so [I] don’t have to find [my] way through Ohio and PA to find his clinic in VA”
 
 _Implication:_
+
 Users will become frustrated by the experience of having to navigate through this many options. Not having modern search functionality may affect user’s perception of the VA brand.
 
 _Action:_
@@ -191,7 +202,7 @@ _Action:_
 - Alphabeticalize the Medical Center list to help with readability
 - Many of the Medical Centers are all caps - make them Sentence Case instead to help with readability. Do we need to sort by type of center as well?
 
-**8. Some felt the number of fields was excessivev 
+**8. Some felt the number of fields was excessive**
 
 The IRIS form captures the inquiry, Veteran info and contact information about the person submitting. We started with the existing set of fields, simplified it and asked participants if any fields seemed irrelevant or if any fields were missing that they expected to see. Many fields affirmed that fields felt ‘extra’ and quickly started to look for required fields in order to do the bare minimum to submit the form.
 
@@ -200,6 +211,7 @@ The IRIS form captures the inquiry, Veteran info and contact information about t
 - Participant #11: “The page with all the non-mandatory fields feels like superfluous information. Do you need it to narrow down who this person is? Last 4 of social also works. [On Branch of Service being a required field]: “Why is that significant in this setting? Is there a Marine desk that will work with me?”
 
 _Implication:_
+
 As time required to fill out the form increases, so does frustration by users who can feel this experience stands in the way of them receiving help. This will be a key area to watch as additional content will be added from Lines of Business (the ‘conditional logic’ work ahead).
 
 _Action:_
