@@ -42,6 +42,8 @@ Unauthenticated Experience for VA.gov
 
 [Learning Center Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Learning%20Center%20OKR%20Road%20Map.pdf)
 
+[Campaing Landing Page (CLP) Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/state-of-product.md)
+
 ---
 
 ## Who we are
