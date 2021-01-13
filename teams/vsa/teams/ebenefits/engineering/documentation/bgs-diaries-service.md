@@ -19,7 +19,7 @@ It will require approximately 10 PRs to implement the read and update diaries fu
    5. updateDiaries - lib code
    6. updateDiaries - service code
    7. updateDiaries - endpoint/controller (this adds the route used by the front end and also includes swagger docs)
-   8. PDF generation for VA Form 21-0538 (Status of Dependents Questionnaire)
+   8. PDF generation for [VA Form 21-0538](https://www.va.gov/find-forms/about-form-21-0538/) (Status of Dependents Questionnaire)
    9. PDF upload to VBMS or Central Mail
   10. Possible job (if required?)
   11. Additional endpoint/controller for readDiaries (if required?)
@@ -32,11 +32,11 @@ It will require approximately 10 PRs to implement the read and update diaries fu
 
 The following information is required in order to read and update the diary entries:
 
- | AwardKeyInput | Description            |
- | :------------ | :--------------------- |
- | awardType     | Type of award          |
- | beneficiaryID | Beneficiary Identifier |
- | veteranID     | Veteran Identifier     |
+ | AwardKeyInput   | Description            |
+ | :-------------- | :--------------------- |
+ | `awardType`     | Type of award          |
+ | `beneficiaryID` | Beneficiary Identifier |
+ | `veteranID`     | Veteran Identifier     |
 
 <details>
 <summary>Award Types</summary>
@@ -44,65 +44,64 @@ The following information is required in order to read and update the diary entr
  
  | Award Type | Description                                |
  | :--------- | :----------------------------------------- |
- | CPL        | Compensation/Pension Live                  |
- | BUR        | Burial                                     |
- | MOH        | Medal of Honor                             |
- | CA         | Clothing Allowance                         |
- | CPDC       | CPD Child                                  |
- | CPDS       | CPD Spouse                                 |
- | CPDP       | CPD Parent                                 |
- | 306V       | 306 Veteran                                |
- | 306S       | 306 Spouse                                 |
- | 306C       | 306 Child                                  |
- | OLV        | Old Law Veteran                            |
- | OLS        | Old Law Spouse                             |
- | OLC        | Old Law Child                              |
- | ACC        | Accrued                                    |
- | DCS        | Death Comp Spouse                          |
- | DCC        | Death Comp Child                           |
- | DCP        | Death Comp Parent                          |
- | 1312S      | 1312A Spouse                               |
- | 1312C      | 1312A Child                                |
- | 1312P      | 1312A Parent                               |
- | !EORP      | Emergency Officer's Retired Pay            |
- | SB         | CH 18 Spina Bifida                         |
- | BD         | CH 18 Child Birth Defects                  |
- | REPS       | Restored Entitlement Program for Survivors |
+ | `CPL`        | Compensation/Pension Live                  |
+ | `BUR`        | Burial                                     |
+ | `MOH`        | Medal of Honor                             |
+ | `CA`         | Clothing Allowance                         |
+ | `CPDC`       | CPD Child                                  |
+ | `CPDS`       | CPD Spouse                                 |
+ | `CPDP`       | CPD Parent                                 |
+ | `306V`       | 306 Veteran                                |
+ | `306S`       | 306 Spouse                                 |
+ | `306C`       | 306 Child                                  |
+ | `OLV`        | Old Law Veteran                            |
+ | `OLS`        | Old Law Spouse                             |
+ | `OLC`        | Old Law Child                              |
+ | `ACC`        | Accrued                                    |
+ | `DCS`        | Death Comp Spouse                          |
+ | `DCC`        | Death Comp Child                           |
+ | `DCP`        | Death Comp Parent                          |
+ | `1312S`      | 1312A Spouse                               |
+ | `1312C`      | 1312A Child                                |
+ | `1312P`      | 1312A Parent                               |
+ | `!EORP`      | Emergency Officer's Retired Pay            |
+ | `SB`         | CH 18 Spina Bifida                         |
+ | `BD`         | CH 18 Child Birth Defects                  |
+ | `REPS`       | Restored Entitlement Program for Survivors |
  
 </details>
 
 ### Considerations
 - Need to determine which Award Types need to be verified
-  - CPDC, CDPS, CPDP(?), CPL(?)
+  - `CPDC`, `CPDS`, `CPDP`, `CPL`(?)
   - How is this determined?  Who can provide a definitive answer?
 - The beneficiary IDs can be obtained from the View Dependents service currently being used by VA.gov
 - How to obtain the `awardType` is currently not known
 - Is there a service that returns both Award Type and Beneficiary ID?  
 
-\* ***Update:*** the current assumption is that we are only concerned with `CPL` award types and in that case, the beneficiaryID and veteranID will be the same
+\* ***Update:*** the current assumption is that we are only concerned with `CPL` award types and in that case, the `beneficiaryID` and `veteranID` will be the same.  `CPL` is compensation for a Veteran who is still alive, whereas `CPDC`, `CPDS`, and `CPDP` are for cases where the Veteran is no longer living.  Not to be confused with the `Death Comp` award types, which are compensation in the event that a spouse or child or parent passes away.
 
 <br>
 
 ## readDiaries
 Assuming the user is logged in, obtain the Veteran's participant ID and then:
-1. Send a request to `readDiaries` with required fields `awardType`, `beneficiaryID`, `veteranID`.
-2. Filter list of diary entries on records where diaryReasonType = `24` and diaryLcStatusType = `PEND`
-3. For each of those records, check `diaryDueDate`
-   - What happens if more than one record with `diaryReasonType` 24?
+1. Send a request to `readDiaries` with required fields `awardType`, `beneficiaryID`, `veteranID`
+2. Filter list of diary entries on records where `diaryReasonType = 24` and `diaryLcStatusType = PEND`
+   - What happens if more than one record with `diaryReasonType = 24`?
    - Is this possible?  
    \* ***Update:*** According to BGS, there should only be one record but in test data we have seen duplicates, so this still needs to be confirmed
    - Would the record with the latest date be used/unconcerned about records with earlier dates?  
-4. Use some business logic to determine if dependency verification/update is required based on the `diaryDueDate` and the current date
+3. Check `diaryDueDate`. Use some business logic to determine if dependency verification/update is required based on the `diaryDueDate` and the current date
 5. If update/verification is required, create a diary object with the response info
 
 <details>
-<summary>readDiariesResponse</summary>
+<summary>Expand for example <b>readDiariesResponse</b></summary>
 <br>
 
-The DiaryResponse includes information about error level, dependency decisions, and diaries.  The diaries object contains a list of diary entries.  
+The `DiaryResponse` includes information about error level, dependency decisions, and diaries.  The diaries object contains a list of diary entries.  
 
 ex. Diary:
-```
+``` diff XML
     <Diary>
         <awardDiaryID>60147</awardDiaryID>
         <awardEventID>523390</awardEventID>
@@ -134,7 +133,7 @@ ex. Diary:
 
 The following is the list of fields that need to be sent as the `DiaryInput` when updating a diary entry:
 <details>
-<summary>updateDiaries</summary>
+   <summary>Expand for example <b>DiaryInput</b> for <b>updateDiaries</b></summary>
 <br>
 
     AwardKeyInput
@@ -173,8 +172,8 @@ The following is the list of fields that need to be sent as the `DiaryInput` whe
 
 </details>
 
-1. For the record that contains diaryReasonType = `24` and diaryLcStatusType = `PEND`, get the diary object that was created from the `readDiaries` response
-2. Update diaryDueDate to the appropriate next date (1 year interval?)
+1. For the record that contains `diaryReasonType = 24` and `diaryLcStatusType = PEND`, get the diary object that was created from the `readDiaries` response
+2. Update `diaryDueDate` to the appropriate next date (1 year interval?)
    - Are there any other fields that need to be updated?
    - What about fields not in the diary response that are part of the update diary input (marked with an asterisk in the list above)?
 3. Send ALL records back with the updated diary record
