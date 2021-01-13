@@ -108,7 +108,7 @@ Assess and update workload for remainder of sprint
 * 2nd Wednesday of every sprint, 1-hour
 * On a [zoom meeting](https://us02web.zoom.us/j/93282204164)
 
-#### Zenhub Team Board
+#### ZenHub Team Board
 
 * Icebox: These are items that are eithier blocked indefinately or awaiting added functionality that is dependent on another team or section of VSP/VSF.  No need to touch these items until that are moved to Backlog or Ready Status.   
 * Backlog: These are items that are eithier waiting for other dependencies or team just don't have bandwidth to action these items due to current velocity and burndown requirements.  Items in backlog can be picked up if there's nothing in ready, current sprint, or in-progress respectively. 
