@@ -30,10 +30,13 @@ Agenda
     - VAMC, CMS, Facilities teams to confirm time to set up Dual-State GO-Live teleconference meeting to launch site
     - Needed for first dual-state, assure no critical issues, and to resolve any obsticles.  
     - When is best time to Publish to Dual-state?
-  - Transition from DevShop to Tugboat updates 
-  - CMS orientation session 5 self-service library update
-  - CMS orientation feedback from Ryan
-  - Decision from Dave Conlon to wait until transformers/tome sync is live in production and couple communication with him around cut over for content model hardening with facility service model
+- Prepare Lebanon-health-care and Wilkes-barre-health-care for Dual-state in next week
+  - Stan to submit request of Facilities to update robots.txt for both
+  - Can all of VISN-4 be added in advance?
+- Transition from DevShop to Tugboat updates 
+- CMS orientation session 5 self-service library update
+- CMS orientation feedback from Ryan
+- Decision from Dave Conlon to wait until transformers/tome sync is live in production and couple communication with him around cut over for content model hardening with facility service model
 
 
 
