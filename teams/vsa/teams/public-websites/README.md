@@ -49,17 +49,12 @@ Unauthenticated Experience for VA.gov
 
 |**Roles**              |**Assigned**                        |
 |-----------------------|------------------------------------|
-|DSVA Product Owner     |Jen Lee                             |
 |DSVA Product Owner     |John Hashimoto                      |
-|DVSA Content Lead      |Danielle Thierry                    |
-|DVSA Content Lead      |Beth Potts                          |
-|Product Manager        |Brian Lloyd                         |
+|Sr Product Manager     |Brian Lloyd                         |
 |Front End Engineer     |Nick Sullivan                       |
 |Front End Engineer     |Kelson Adams                        |
 |Design/Research        |Liz Lantz / Luarel Lawrence         |
-|Content Writer         |Selina Cooper                       |
-|Content Writer         |Laura Walsh                         |
-|Copy Editor            |Randi Hecht                         |
+
 
 ### Popular Labels in ZenHub
 
@@ -112,6 +107,15 @@ Questions to Go Over: What went well? Areas for improvement? What to start doing
 Assess and update workload for remainder of sprint
 * 2nd Wednesday of every sprint, 1-hour
 * On a [zoom meeting](https://us02web.zoom.us/j/93282204164)
+
+#### Zenhub Team Board
+
+* Icebox: These are items that are eithier blocked indefinately or awaiting added functionality that is dependent on another team or section of VSP/VSF.  No need to touch these items until that are moved to Backlog or Ready Status.   
+* Backlog: These are items that are eithier waiting for other dependencies or team just don't have bandwidth to action these items due to current velocity and burndown requirements.  Items in backlog can be picked up if there's nothing in ready, current sprint, or in-progress respectively. 
+* Ready: These are items that ideally have been groomed and are ready on-deck tickets for team to work as directed.  These are things that are not in current sprint, but if bandwidth is available and all items in current sprint or in-progress are compelted then these can be pick items up for work.  
+* Current Sprint: These are tasks that have been groomed and planned and programmed for completion as priority during sprint. These items can be moved to in-progress when initiated to indicate they are "Inprogress". Having tasks in current sprint indicates to team members that these items would idealy be completed before end of sprint. If there is nothing in-progress, this is the first column to look at when picking up new items.
+* In Progress: These are tasks that are currently "Inprogress" or have PRs open. Some tickets merit more than 1 PR (e.g. maybe there's a backend PR and a frontend PR for the same ticket). When all related PRs are closed for the ticket, the ticket should be moved to the validate column for review and validation by PO/PM. 
+* Validate: All assigned tasks are completed and Acceptable Criteria (AC) has been achieved along with related PRs being merged (not necessarily deployed). These tickets are ready for validation and (following the next deploy cycle) should be able to see the relevant changes on production/staging. **Team Members please don't move tickets from Validate to Closed, this will be done by eithier the PO or PM whom ever validates the ticket.**
 
 #### Issue Etiquette
 **For Requests originating outside the Public Websites team** - please use our [Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=lunascoop&labels=vsa-public-websites%2C+vsa%2C+vsa-public-websites-intake%2C+needs-grooming%2C+Epic&template=public-websites-intake.md&title=%3CType+of+Request%3E+from+%3CTeam%3E)
