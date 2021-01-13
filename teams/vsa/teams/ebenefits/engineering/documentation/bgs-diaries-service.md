@@ -79,7 +79,7 @@ The following information is required in order to read and update the diary entr
 - How to obtain the `awardType` is currently not known
 - Is there a service that returns both Award Type and Beneficiary ID?  
 
-\* ***Update:*** the current assumption is that we are only concerned with `CPL` award types and in that case, the beneficiaryID and VeteranID will be the same
+\* ***Update:*** the current assumption is that we are only concerned with `CPL` award types and in that case, the beneficiaryID and veteranID will be the same
 
 <br>
 
