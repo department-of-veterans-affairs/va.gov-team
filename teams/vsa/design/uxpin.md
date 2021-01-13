@@ -14,7 +14,7 @@ There are currently 9 paid UXPin licenses, for a maximum of 10 UXPin accounts un
 | 6       | **Jim**, Leyda          |
 | 7       | **Martha**, DEPO        |
 | 8       | **Christopher**, Megan  |
-| 9       | **Jennifer**, Josh, Tze |
+| 9       | **Josh**, Tze |
 
 ## Why we're using UXPin
 - UXPin allows us to share detailed specs with our engineers and collaborators more easily, without extra licenses
