@@ -35,7 +35,7 @@
 ### Mockups Changelog
 
 **November 25, 2020**
-- Initial View Rep mockup
+- Initial (new) View Rep mockup
 - Aligns with new "tool page" layout
 - Supercedes previous design direction
 
