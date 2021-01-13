@@ -5,7 +5,10 @@ January 6, 2021
 ## What product & team?
 VA Mobile App
 
-## Background
+## Goals
+The VA Mobile App team is conducting usability testing to understand obstacles, ask questions, and get feedback from Veterans on an MVP mobile app we are developing. The outcome of this testing will inform any necessary immediate adjustments and also potential future improvements. 
+
+### Background
 The VA Mobile App team has designed and built a MVP mobile app that can be used on iOS and Android devices. We would like to test this app with users to answer the following questions:
 
 **Sign In**
@@ -58,12 +61,15 @@ Participant criteria:
 - All participants must have signed into VA.gov within the last 9 months 
 - All participants must have VA healthcare appointments
 - All participants must have an active claim or appeal
-- Assistive device users welcome, prototype app works with assistive technology
+- At least one person who lives in a rural or remote area
+- At least one person who lives in a major metropolitan area
+- At least 1 participant who uses assistive technology
+- At least one person with a disability rating of 70% or greater
 - Participant pool should be diverse in:
   - Branch of service
   - Gender (30% or more women)
   - Race
-  - Age
+  - Age (At least 1 participant 35 or under and 1 participant over 55)
 
 ## What is your recruitment strategy?
 - Perigean will recruit
