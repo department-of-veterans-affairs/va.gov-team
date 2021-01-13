@@ -27,8 +27,8 @@ I propose referring back to the USDS values (unless OCTO has already forked them
 # Roles
 ## Steering Committee
 - Lauren - Prioritize staffing and resolve conflicts / collaboration between Digital Health Modernization and other health crews
-- Charles? - Advise on fit / lack thereof with OCTO's mission, vision and goals. Prioritize staffing and resolve conflicts between Health and non-health crews
-- Chris? - ?
+- Charles? - Advise on fit / lack thereof with OCTO's mission, vision and goals. 
+- Chris? - Prioritize staffing and resolve conflicts between Health and non-health crews.
 
 ## Core Team
 - Aryeh - Owns product strategy for how we will end up with a single, high-quality web version of appointments, prescriptions, messages and health data.
@@ -37,3 +37,6 @@ I propose referring back to the USDS values (unless OCTO has already forked them
 - Meg - TBD by Meg! Of all of us, you have the most Job and are the only one who can see all the pieces of your job. 
 - Engineer TBD - Owns architecture recommendations and agile estimation and planning for software changes. Expected to influence product strategy because if the strategy doesn't work for engineering, it's worth the pixels it's printed on. 
 - Designer TBD (Meg? Bueller?) - Owns UX recommendations and evaluative research. Consults on generative research. Expected to influence product strategy because having a high-quality UX is a major reason we are doing this, and the designer gets to define high-quality. 
+
+## Customer Advisory Board
+Proposes adding a small group of Veterans and perhaps Caregivers to attend demos and give feedback on the regular. Needs fleshed out.
