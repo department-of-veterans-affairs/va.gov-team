@@ -1,4 +1,4 @@
-# Lighthouse Notes on OGC Data
+# Lighthouse:eBenefits Notes on OGC Data
 `Monday January 11, 2021 | eBenefits Team`
 
 ## Feature Background
