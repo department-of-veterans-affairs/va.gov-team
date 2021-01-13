@@ -10,6 +10,7 @@ Slack - #va-notify
  
 - [How VANotify Works](#how-vanotify-works)
 - [Tech Stack](#tech-stack)
+- [What We Currently Offer](#what-we-currently-offer)
 - [Business Onboarding Guide](#business-onboarding-guide)
 - [Technical Onboarding Guide](#technical-onboarding-guide)
 - [Pricing](#pricing)
@@ -33,6 +34,9 @@ Slack - #va-notify
 | Granicus GovDelivery |                 | Twistlock             |
 |                      |                 | Bandit                |
 
+
+## What We Currently Offer
+[!](images/current_offer.png)
 
 ## Business Onboarding Guide
 ![](images/business.png)
