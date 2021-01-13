@@ -105,3 +105,6 @@ It will get published with the next content deployment.
 
 ## Deleting Form Detail pages ##
 - Include info on how to delete a form detail page here
+
+## Top Forms with Detail Pages 
+- All queried top forms with detail pages are [tracked here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/decision-tools/find-a-form/top-forms.md)
