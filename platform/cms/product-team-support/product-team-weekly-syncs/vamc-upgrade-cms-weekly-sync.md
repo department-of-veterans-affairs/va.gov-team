@@ -30,17 +30,31 @@ Agenda
     - VAMC, CMS, Facilities teams to confirm time to set up Dual-State GO-Live teleconference meeting to launch site
     - Needed for first dual-state, assure no critical issues, and to resolve any obsticles.  
     - When is best time to Publish to Dual-state?
+    - Stan to schedule a go-live meeting on Tuesday morning, 1/19/21. Will include Michelle Middaugh just in case any FE code changes are needed that day.
 - Other dual-state launches in light of "Transformer" effort
+  - Will revisit week to week. The CMS team will have some further testing of node limitations by next Wednesday.
 - Prepare Lebanon-health-care and Wilkes-barre-health-care for Dual-state in next week
   - Stan to submit request of Facilities to update robots.txt for both
-  - Can all of VISN-4 be added in advance?
+  - Can all of VISN-4 be added in advance? CMS: yes
+  - Will need to make sure that the banner is set before dual-state launch
+  - Will need to make sure that there is no email blast to Gov-Delivery
+  - Lebanon and Wilkes-Bare dual-state launch timeline will be revisited after lessons learned from Erie have been documented and reviewed  
 - Transition from DevShop to Tugboat updates (announcement here: https://dsva.slack.com/archives/CDHBKAL9W/p1609957217325700)
   - The CMS team will schedule and give training for relevant stakeholders from the VAMC Upgrade, Facilities, and Public Websites teams
   - Projecting early February (2/5/21)
+  - VAMC-Upgrade team's preference is to consolidate facilitieis into single systems, possibly VISN-wide to make it easier to manage
 - CMS orientation session 5 self-service library update
+  - Self-service resources will be available by end of this week, 1/15
+  - Recorded session will be available by Tuesday, 1/19
 
-Action item:
-
+Action items:
+- VAMC Upgrade:
+  - Schedule Erie go-live meeting
+  - Submit request to Facilities team to update robots.txt
+  - Ensure banner is set before dual-state launch
+  - Ensure no email blast goes out
+- CMS:
+  - Finalize session 5 resources
 
 
 ## Wednesday Jan 6 2:30pm ET
