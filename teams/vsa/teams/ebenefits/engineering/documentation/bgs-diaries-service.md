@@ -12,17 +12,17 @@ Methods
 
 ## Estimation for Level of Effort
 It will require approximately 10 PRs to implement the read and update diaries functionality in `vets-api`:
-   1. readDiaries - BGS gem (this is the external gem used as a library that needs to be updated for each BGS service we want to call)
-   2. readDiaries - lib code
-   3. readDiaries - service code
-   4. updateDiaries - BGS gem (this is the external gem used as a library that needs to be updated for each BGS service we want to call)
-   5. updateDiaries - lib code
-   6. updateDiaries - service code
-   7. updateDiaries - endpoint/controller (this adds the route used by the front end and also includes swagger docs)
+   1. `readDiaries` - BGS gem (this is the external gem used as a library that needs to be updated for each BGS service we want to call)
+   2. `readDiaries` - lib code
+   3. `readDiaries` - service code
+   4. `updateDiaries` - BGS gem (this is the external gem used as a library that needs to be updated for each BGS service we want to call)
+   5. `updateDiaries` - lib code
+   6. `updateDiaries` - service code
+   7. `updateDiaries` - endpoint/controller (this adds the route used by the front end and also includes swagger docs)
    8. PDF generation for [VA Form 21-0538](https://www.va.gov/find-forms/about-form-21-0538/) (Status of Dependents Questionnaire)
    9. PDF upload to VBMS or Central Mail
   10. Possible job (if required?)
-  11. Additional endpoint/controller for readDiaries (if required?)
+  11. Additional endpoint/controller for `readDiaries` (if required?)
   
 **Allowing approximately 3 business days for each PR, the estimated level of effort to develop this feature will take approximately 6-8 sprints.**  
 
@@ -79,7 +79,7 @@ The following information is required in order to read and update the diary entr
 - How to obtain the `awardType` is currently not known
 - Is there a service that returns both Award Type and Beneficiary ID?  
 
-\* ***Update:*** the current assumption is that we are only concerned with `CPL` award types and in that case, the `beneficiaryID` and `veteranID` will be the same.  `CPL` is compensation for a Veteran who is still alive, whereas `CPDC`, `CPDS`, and `CPDP` are for cases where the Veteran is no longer living.  Not to be confused with the `Death Comp` award types, which is assumed to be compensation in the event that a spouse or child or parent passes away.
+\* ***Update:*** the current assumption is that we are only concerned with `CPL` award types and in that case, the `beneficiaryID` and `veteranID` will be the same.  `CPL` is compensation for a Veteran who is still alive, whereas `CPDC`, `CPDS`, and `CPDP` are for cases where the Veteran is no longer living.  Not to be confused with the `Death Comp` award types, which is assumed to be compensation in the event that a dependent passes away.
 
 <br>
 
@@ -91,7 +91,7 @@ Assuming the user is logged in, obtain the Veteran's participant ID and then:
    - Is this possible?  
    \* ***Update:*** According to BGS, there should only be one record but in test data we have seen duplicates, so this still needs to be confirmed
    - Would the record with the latest date be used/unconcerned about records with earlier dates?  
-3. Check `diaryDueDate`. Use some business logic to determine if dependency verification/update is required based on the `diaryDueDate` and the current date
+3. Use some business logic to determine if dependency verification/update is required based on the `diaryDueDate` and the current date
 5. If update/verification is required, create a diary object with the response info
 
 <details>
@@ -133,7 +133,7 @@ ex. Diary:
 
 The following is the list of fields that need to be sent as the `DiaryInput` when updating a diary entry:
 <details>
-   <summary>Expand for example <b>DiaryInput</b> for <b>updateDiaries</b></summary>
+   <summary>Expand for example <b>DiaryInput</b> in <b>updateDiaries</b></summary>
 <br>
 
     AwardKeyInput
@@ -177,4 +177,4 @@ The following is the list of fields that need to be sent as the `DiaryInput` whe
    - Are there any other fields that need to be updated?
    - What about fields not in the diary response that are part of the update diary input (marked with an asterisk in the list above)?
    - The time period/one year interval could be set as a variable rather than hard-coded in the event that the interval changes
-3. Send ALL records back with the updated diary record
+3. Send ALL records back with the updated diary record (including records that were not modified, along with the newly updated diary record)
