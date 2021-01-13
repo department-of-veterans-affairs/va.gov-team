@@ -13,6 +13,18 @@ to track the common user interaction associated with each component.
 on the amount of time VFS and VSP teams spend in implementing the data layer and fast-track the time to begin collecting data.
 - In addition, it will allow our team to spend more time on dashboarding and insights, as opposed to the implementation of tracking.
 
+### Component Embed Schedule
+| Component Name | Tentative Sprint | Tentative Dates
+| ------------- | ------------------- | -----------
+_Buttons_ | 44 | 1/20/2021-2/3/2021
+_[Modals](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/modal/)_ | 45 |	2/3/2021-2/17/2021
+_[Additional Info](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/additionalinfo/)_ | 46 | 2/17/2021-3/3/2021
+_[Alert Boxes](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/alertbox/)_ | 47	| 3/3/2021-3/17/2021
+_Featured Content, [Breadcrumbs](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/breadcrumbs/)_ | 48	| 3/17/2021-3/31/2021
+_[Promo Banner](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/promobanner/), [Progress Bar](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/progressbar/), [Loading Indicator](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/loadingindicator/)_ | 49	| 3/31/2021-4/14/2021
+_Form Controls ([text box](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/textarea/), [select box](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/select/), [check box](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/checkbox/), [radio buttons)](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/radiobuttons/)_ | 50	| 4/14/2021-4/28/2021
+_[Accordions](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/collapsiblepanel/), [Pagination](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/pagination/), Sidenav _ | 51	| 4/28/2021-5/12/2021
+
 ### Specification
 
 | Component Name | Data Layer Specification 
