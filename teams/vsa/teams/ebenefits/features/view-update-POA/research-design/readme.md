@@ -1,4 +1,4 @@
-# View Representative research & design
+# View/Appoint Representative research & design
 **VSA eBenefits Team | January 2021**
 
 `James Adams, designer`
@@ -9,19 +9,19 @@
 
 | Screens | Links | Text Sources | Last Rev | |
 | :--- | :--- | :--- | :--- | :--- |
-| Mockups | [Adobe XD](https://xd.adobe.com/view/e27b7e71-d920-4bcd-9e81-dc62a9665d5e-b728/) | Get text from mock | November 25, 2020 | [Changelog](#mockups-changelog) |
-| Prototype | No prototype available |  |  |  |
+| View Rep mockups | [Adobe XD](https://xd.adobe.com/view/e27b7e71-d920-4bcd-9e81-dc62a9665d5e-b728/) | Get text from mock | November 25, 2020 | [Changelog](#mockups-changelog) |
+| View Rep prototype | No prototype available |  |  |  |
 
 #### Information architecture & naming
 
-[View Representative user flows](https://xd.adobe.com/view/612eab1b-3f29-4fa4-43c5-2f21deb912e3-171f/)
+[View/Appoint Representative (POA) user flows](https://xd.adobe.com/view/612eab1b-3f29-4fa4-43c5-2f21deb912e3-171f/)
 
 ---
 
 ### Discovery
-[View Representative discovery synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/Research-finding-power-of-attorney-and-payment-history.md)
+[View/Appoint Representative (POA) discovery synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/Research-finding-power-of-attorney-and-payment-history.md)
 
-[View Representative comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/POA-competitive-analysis.md)
+[View/Appoint Representative (POA) comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/POA-competitive-analysis.md)
 
 ---
 
@@ -35,14 +35,16 @@
 ### Mockups Changelog
 
 **November 25, 2020**
-- Initial mockup
+- Initial View Rep mockup
 - Aligns with new "tool page" layout
+- Supercedes previous design direction
 
 ### Prototype Changelog
 
 **No prototype available**
 
 ---
+
 <!--
 - View Rep post Design intent review (Dec 2020): https://xd.adobe.com/view/e27b7e71-d920-4bcd-9e81-dc62a9665d5e-b728/
   - (Old View rep?) https://preview.uxpin.com/00985ac7bf2e8454786086efbf1c89de82d5cb3c#/pages/127904094  
