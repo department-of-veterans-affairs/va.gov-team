@@ -40,6 +40,8 @@
 ### Campaign landing page MVP
 
 - Question for Ryan T: Should an image be required for the Hero panel? If not, what color/gradient choice should be implemented?
+- Defects identified will be resolved in prod by today
+- Next steps
 
 ### Resources & support
 
