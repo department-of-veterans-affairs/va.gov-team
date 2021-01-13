@@ -1,4 +1,4 @@
-# Research Plan for Mobile App Usability Testing
+# Research Plan for Mobile App User Testing
 
 January 6, 2021
 
@@ -6,7 +6,7 @@ January 6, 2021
 VA Mobile App
 
 ## Goals
-The VA Mobile App team is conducting usability testing to understand obstacles, ask questions, and get feedback from Veterans on an MVP mobile app we are developing. The outcome of this testing will inform any necessary immediate adjustments and also potential future improvements. 
+The VA Mobile App team is conducting testing to understand usability obstacles, ask questions, and get feedback from Veterans on an MVP mobile app we are developing. The outcome of this testing will inform any necessary immediate adjustments and also potential future improvements. 
 
 ### Background
 The VA Mobile App team has designed and built a MVP mobile app that can be used on iOS and Android devices. We would like to test this app with users to answer the following questions:
