@@ -9,8 +9,8 @@ If no representative is present, the Veteran is also invited to utilize the sear
 Within the search tool, once the Veteran finds the potential representative, they can select them and that rep's info is picked up and joined with the Veteran's info (if logged in) and the request is sent to the representative using the form 21-22a, hopefully with only minimal requirements for submission.
 
 In the event that the Veteran is not logged in, they will need to enter more information in a form schema to capture the required fields in order to send a request to the representative with two potential outcomes:
-- Sending a 21-22 to a potential rep who can accept electronic requests
-- Sending a 21-22 to a potential rep who can not accept electronic requests, they get a PDF in the mail by the Veteran
+- Sending a 21-22a to a potential rep who can accept electronic requests
+- Sending a 21-22a to a potential rep who can not accept electronic requests, they get a PDF in the mail by the Veteran
 
 The over all process does not complete with the request submission but with the representative accepting the request and responding.
 
