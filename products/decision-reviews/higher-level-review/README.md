@@ -131,10 +131,11 @@ Details Here: https://github.com/department-of-veterans-affairs/va.gov-team/blob
 - *Target Launch Date*
   - November for UAT
   - Early December for Launch
+  - Updated to late January due to accessibilty and UAT testing
 - *Actual Launch Date*
-  - Early December
+  - xxxx
 - *What date will you evaluate impact after launch?*
-  - End of January
+  - One month after launch (although we will be looking at data during)
 
 ---
 ## Results and Recommendations
@@ -176,6 +177,7 @@ During UAT testing, we ran into a major issue where the contestable issues list 
 ## Incident Response
 - Primary POCs (Luke Majewski, Matt Self, John Hashimoto)
 - Engineering POCs (Ed Mangimelli, Robin Garrison)
+- Lighthouse for Downstream API POCs (Kelly Lein, Pramal Shah)
 - Dashboards:
   - Production: http://grafana.vfs.va.gov/d/qCRjZjDMk/hlr-higher-level-review?orgId=1&var-data_source=Prometheus%20(Production)
   - Staging: http://grafana.vfs.va.gov/d/qCRjZjDMk/hlr-higher-level-review?orgId=1&var-data_source=Prometheus%20(Staging)
