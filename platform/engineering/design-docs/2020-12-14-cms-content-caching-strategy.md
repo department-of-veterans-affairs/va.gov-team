@@ -63,26 +63,16 @@ Local development environments, review instances, the CircleCI build, and any ot
 ## Specifics
 
 ### Detailed Design
-_Designs that are too detailed for the above High Level Design section belong here. Anything that will require a day or more of work to implement should be described here._
-
-_This is a great place to put APIs, communication protocols, file formats, and the like._
-
-_It is important to include assumptions about what external systems will provide. For example if this system has a method that takes a user id as input, will your implementation assume that the user id is valid? Or if a method has a string parameter, does it assume that the parameter has been sanitized against injection attacks? Having such assumptions explicitly spelled out here before you start implementing increases the chances that misunderstandings will be caught by a reviewer before they lead to bugs or vulnerabilities. Please reference the external system's documentation to justify your assumption whenever possible (and if such documentation doesn't exist, ask the external system's author to document the behavior or at least confirm it in an email)._
-
-_Here's an easy rule of thumb for deciding what to write here: Think of anything that would be a pain to change if you were requested to do so in a code review. If you put that implementation detail in here, you'll be less likely to be asked to change it once you've written all the code._
 
 The Lambda function will have dependencies on the current Drupal client code in the vets-website repo.
 The handler will be packaged and uploaded to AWS in S3 (or ECR) for the function source.
 - Bundle the code with webpack.
 - Create a zip or container.
-- Terraform configuration for the Lambda function in devops repo.
-
-Use Serverless Framework to publish the function in a container to the utility VPC?
 
 Handler needs to be updated when the GraphQL query changes.
 Lambda should use the uploaded zip in S3 as a source.
 
-Build the script in CI and zip it.
+Build the function in CI and zip it.
 Get the checksum or hash of the zipped file.
 Store the zipped file in an S3 bucket at a key corresponding to the checksum if it doesn't already exist.
 
@@ -108,27 +98,40 @@ _The path of the source code in the repository._
 Handler source code, bundling, and upload
 Terraform configuration for Lambda function
 
+Initially, the Lambda function code will live in the vets-website repo at `src/platform/lambdas/content-cache.js`.
+
+When the content build separation is complete, the function along with the Circle job that builds and updates the AWS resources, will move over to the content-build repo.
+
 ### Testing Plan
-_How you will verify the behavior of your system. Once the system is written, this section should be updated to reflect the current state of testing and future aspirations._
+
+The CircleCI pipeline will include a job for building and updating the function. This will alert us to any issues with building the function and provisioning it in AWS.
+
+The prototype for the function will simply download the data from the Drupal server. This is to verify that it can connect to the CMS at all.
+Once that is confirmed, the function will be further developed to cache the downloaded data to S3.
+
+When the function is fully written, we will monitor the log output in AWS CloudWatch to observe whether it works correctly.
 
 ### Logging
-_What your system will record and how._
+
+CircleCI will output logs for the build and versioning of the function.
+Log output from the function (from calling `console` methods) will be stored in CloudWatch.
 
 ### Debugging
 _How users can debug interactions with your system. When designing a system it's important to think about what tools you can provide to make debugging problems easier. Sometimes it's unclear whether the problem is in your system at all, so a mechanism for isolating a particular interaction and examining it to see if your system behaved as expected is very valuable. Once a system is in use, this is a great place to put tips and recipes for debugging. If this section grows too large, the mechanisms can be summarized here and individual tips can be moved to another document._
 
 ### Caveats
-_Gotchas, differences between the design and implementation, other potential stumbling blocks for users or maintainers, and their implications and workarounds. Unless something is known to be tricky ahead of time, this section will probably start out empty._
 
-_Rather than deleting it, it's recommended that you keep this section with a simple place holder, since caveats will almost certainly appear down the road._
-
-_To be determined._
+To be determined.
 
 ### Security Concerns
-_This section should describe possible threats (denial of service, malicious requests, etc) and what, if anything, is being done to protect against them. Be sure to list concerns for which you don't have a solution or you believe don't need a solution. Security concerns that we don't need to worry about also belong here (e.g. we don't need to worry about denial of service attacks for this system because it only receives requests from the api server which already has DOS attack protections)._
+
+The function is not expected to take much bandwidth on the Drupal server, so there should be no concern about denial of service. It will be scheduled to make a request only every 5 or 10 minutes.
+
+Without any user input, it should not be susceptible to malicious requests either.
 
 ### Privacy Concerns
-_This section should describe any risks related to user data, PII that are added by this new application. Think about flows of user data through systems, places data is stored and logged, places data is displayed to users. Where is user data stored or logged? How long is it stored?_
+
+There are no privacy concerns as no user data is involved.
 
 ### Open Questions and Risks
 _This section should describe design questions that have not been decided yet, research that needs to be done and potential risks that could make make this system less effective or more difficult to implement._
@@ -137,19 +140,43 @@ _Some examples are: Should we communicate using TCP or UDP? How often do we expe
 
 _For each question you should include any relevant information you know. For risks you should include estimates of likelihood, cost if they occur and ideas for possible workarounds._
 
+Will the function need to be provisioned in a VPC that can communicate with the Drupal server? If so, which one?
+- Without specifying a VPC, a Lambda function is created in the default Amazon VPC, which is not private.
+- It will likely need to live in a private VPC that can connect to the Drupal server. The utility VPC might be the appropriate one.
+
+What's the appropriate frequency to update the content cache?
+- Currently considering 10 minutes, because the local download of the data with SOCKS proxy seemed to take roughly 11 minutes.
+- Since the function should be able to directly connect to the Drupal server, it should take less time than local development.
+- If it turns out to take much less time, we can dial up the frequency to 5 minutes or under.
+
+Will the runtime for the Lambda incur a large cost?
+- Downloading the content can take over 10 minutes in local development, but that's through the SOCKS proxy.
+- If the function runs on the magnitude of 5 minutes, is that short enough?
+
 ### Work Estimates
 _Split the work into milestones that can be delivered, put them in the order that you think they should be done, and estimate roughly how much time you expect it each milestone to take. Ideally each milestone will take one week or less._
 
 ### Alternatives
 _This section contains alternative solutions to the stated objective, as well as explanations for why they weren't used. In the planning stage, this section is useful for understanding the value added by the proposed solution and why particular solutions were discarded. Once the system has been implemented, this section will inform readers of alternative solutions so they can find the best system to address their needs._
 
+#### Setting up a Terraform configuration for the Lambda function in the `devops` repo.
+
+The function has dependencies on parts of the content build, so it would be cumbersome to integrate into the `devops` repo.
+
+#### Using Serverless Framework or Terraform to publish the Lambda function in the `vets-website` repo.
+
+Since we're provisioning a single function under the ownership of the FE Tools team for now, it seems unnecessary to leverage frameworks like Serverless or Terraform. 
+
+There are some very specific versioning rules in the design that may not be straightforward to implement within these frameworks.
+
 ### Future Work
 _Features you'd like to (or will need to) add but aren't required for the current release. This is a great place to speculate on potential features and performance improvements._
+
+Replicate a similar caching approach with the CMS export data.
 
 ### Revision History
 _The table below should record the major changes to this document. You don't need to add an entry for typo fixes, other small changes or changes before finishing the initial draft._
 
 Date | Revisions Made | Author
 -----|----------------|--------
-Jan 24, 2020 | Added approvers, status, and privacy concerns. | Andrew Gunsch
-Jan 19, 2016 | Initial Draft based off [Arvados's template](https://dev.arvados.org/projects/arvados/wiki/Design_Doc_Template) which is reminiscent of Google's | Albert J. Wong
+Jan 5, 2020 | Initial draft | Eugene Doan
