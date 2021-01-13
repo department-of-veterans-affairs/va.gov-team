@@ -36,7 +36,7 @@ Slack - #va-notify
 
 
 ## What We Currently Offer
-[!](images/current_offer.png)
+![](images/current_offer.png)
 
 ## Business Onboarding Guide
 ![](images/business.png)
