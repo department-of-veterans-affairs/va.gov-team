@@ -21,6 +21,22 @@
 
 </details>
 
+## Wednesday Jan 13 2:30pm ET
+
+Agenda
+
+- Erie dual state launch:
+  - Facilities team will push PR to add /erie-health-care/ to robots.txt file: [issue: 18498](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18498)
+    - VAMC, CMS, Facilities teams to confirm time to set up Dual-State GO-Live teleconference meeting to launch site
+    - Needed for first dual-state, assure no critical issues, and to resolve any obsticles.  
+    - When is best time to Publish to Dual-state?
+  - Transition from DevShop to Tugboat updates 
+  - CMS orientation session 5 self-service library update
+  - CMS orientation feedback from Ryan
+  - Decision from Dave Conlon to wait until transformers/tome sync is live in production and couple communication with him around cut over for content model hardening with facility service model
+
+
+
 ## Wednesday Jan 6 2:30pm ET
 
 Agenda 
