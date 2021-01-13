@@ -63,10 +63,12 @@ Zoom
     - Targeting 8-10 veterans.  
          
     - Strong preference for anyone who has looked for the following topics:
-      - 1/4 veterans who have recently looked for VA education information
-      - 1/4 veterans who have recently looked for VA health benefit information
-      - 1/4 veterans who have recently looked for VA disability information
-      - 1/4 veterans who have recently looked for VA family benefit information
+      - 1/5 veterans who have recently looked for VA education information
+      - 1/5 veterans who have recently looked for VA health benefit information
+      - 1/5 veterans who have recently looked for VA disability information
+      - 1/5 veterans who have recently looked for VA family benefit information
+      - 1/5 veterans who have recently looked for VA burial benefit information
+
 
     - Must be a veteran
     - 50% desktop, 50% mobile users
