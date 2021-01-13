@@ -12,6 +12,7 @@ BAM 1 | Benefits Delivery at Discharge |  Staging  |  https://app.zenhub.com/wor
 BAM 1 | Higher-Level Review|  Staging  |  https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/15096
 BAM 2 | FSR form | Prototype review | https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/17118
 BAM 2 | Debt Letter iterations | Staging |  https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/16659
+Caregivers | Sign as representative| NOT STARTED |  Kickoff held 1/6/2021
 Caregivers | Health care application iterations | NOT STARTED |  Kickoff held 10/20
 Clipboard | Health questionnaire | Usability prep | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/14552 <br> Clipboard | Health questionnaire | Usability prep |https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/16940
 eBenefits | View Dependents form | Staging |  https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12956 
@@ -25,6 +26,7 @@ Wizards | EDU | Staging | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335d
 Wizards | VRE | Usability prep | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12642 
 Wizards | Disability | Usability prep | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/12248 
 Wizards | HLR | Usability prep | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/13398
+VAOS | Homepage refresh | Usability prep | https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/18411
 VAOS | CC request flow | Kickoff held 11/5 | https://app.zenhub.com/workspaces/vsp---product-support-5f85b91c14d8df0018fac414/issues/department-of-veterans-affairs/va.gov-team/15711
 
 
