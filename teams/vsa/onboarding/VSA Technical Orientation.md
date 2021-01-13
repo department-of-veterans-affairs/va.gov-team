@@ -120,6 +120,7 @@ Slack is preferred over emails; however, you will get meeting requests via email
 | Channel                    | Description                                 |
 | :------------------------- | :------------------------------------------ |
 | #general                   |
+| [#va-onboarding-help](https://dsva.slack.com/channels/va-onboarding-help)   | VA-specific onboarding help for CAG, GFE, ePAS, and VA email |
 | [#forms-library](https://dsva.slack.com/channels/forms-library)             | A channel to chat about the VA Form library |
 | #random                    |
 | [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams)             | Weekly Team of Teams slides are here |
@@ -366,7 +367,7 @@ Every developer likes to have their environment set up a certain way, but these 
 
 _NOTE: These are only front-end focused extensions, need to add backend focused extensions._
 
-| Name                                          | what is does                                             | package id                            |
+| Name                                          | what it does                                             | package id                            |
 | :-------------------------------------------- | :------------------------------------------------------- | :------------------------------------ |
 | Rainbow brackets                              | Highlights nested brackets with meaningful colors        | 2gua.rainbow-brackets                 |
 | ESLint                                        | Integrates eslint with VS Code. Handy for auto linting   | dbaeumer.vscode-eslint                |
@@ -426,8 +427,8 @@ Once you have received your VA login credentials, it is imperative that you log 
 - Bookmark the VA Citrix Remote Access login site: https://citrixaccess.va.gov/
 - VA Remote Access Help: https://www.oit.va.gov/resources/remote-access/
 - VA CAG Remote Access Connectivity Video Walkthrough: https://www.youtube.com/watch?v=073hayTIiwA
-- Initial setup instructions for VA email and CAG access should come to you via email. If you haven’t gotten yours, check with our onboarding coordinator, Victoria Akitobi ([vakitobi@governmentcio.com](mailto:vakitobi@governmentcio.com))
-- Victoria will also issue you a PIV card reader if you ask.
+- Initial setup instructions for VA email and CAG access should come to you via email. If you haven’t gotten yours, check with our onboarding coordinators, Victoria Akitobi ([vakitobi@governmentcio.com](mailto:vakitobi@governmentcio.com)) and Kimberly West ([Kimberly.West2@va.gov>](mailto:Kimberly.West2@va.gov>))
+- Victoria or Kim may issue you a PIV card reader if you ask.
   - That’s the best route if you don’t have one already.
   - If you want to use your own, it needs to be TAA-compliant (https://www.amtgov.com/what-is-taa-compliance.html). The list changes, but countries that are currently NOT TAA-compliant include China, India, Indonesia, Iran, Malaysia, Pakistan, Russia, and Sri Lanka.
 - On Mac, only Safari is supported for CAG (DO NOT use Chrome).
