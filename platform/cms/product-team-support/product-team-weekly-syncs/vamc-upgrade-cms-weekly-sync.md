@@ -25,12 +25,19 @@
 
 Agenda 
 
-- Erie dual-state launch
+- Erie dual state launch:
+  - Facilities team will push PR to add /erie-health-care/ to robots.txt file: [issue: 18498](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18498)
+    - VAMC, CMS, Facilities teams to confirm time to set up Dual-State GO-Live teleconference meeting to launch site
+    - Needed for first dual-state, assure no critical issues, and to resolve any obsticles.  
+    - When is best time to Publish to Dual-state?
 - Other dual-state launches in light of "Transformer" effort
+- Prepare Lebanon-health-care and Wilkes-barre-health-care for Dual-state in next week
+  - Stan to submit request of Facilities to update robots.txt for both
+  - Can all of VISN-4 be added in advance?
 - Transition from DevShop to Tugboat updates (announcement here: https://dsva.slack.com/archives/CDHBKAL9W/p1609957217325700)
   - The CMS team will schedule and give training for relevant stakeholders from the VAMC Upgrade, Facilities, and Public Websites teams
   - Projecting early February (2/5/21)
-- COVID vaccine status updates
+- CMS orientation session 5 self-service library update
 
 Action item:
 - 
