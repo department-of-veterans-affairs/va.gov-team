@@ -9,7 +9,9 @@ Do you have any questions so far?
 Before we start, there are a few things I want to mention:
 - Our conversation should take a little under an hour.
 - I will not be offended by any opinions you express - please be as honest as you feel comfortable being. My goal is to help VA build the most useful, usable mobile app we can, I want to hear any feedback you have.
-- Lastly, I would like to record our conversation. Since you will be signing into your own VA account and some of your VA appointment, claims and appeal, and profile information will be shared via screen share, I want to make sure you are comfortable with both the screen and audio being recorded. We use the recordings to confirm that we have captured your opinions accurately & we delete them after we complete analysis. Is it ok with you if I record our session today?
+- Since you will be signing into your own VA account some of your VA appointment, claims and appeal, and profile information will be shared. I understand that there may be certain things that you do not want to share with us. If there is something you would rather not share let me know and we can skip it.
+- If for any reason and at any time you want to stop the session, please let me know. This is a voluntary session, and you will not be penalized in any way if we need to stop.
+- Lastly, I would like to record our conversation. Again, since you will be signing into your own VA account and some information will be shared via screen share, I want to make sure you are comfortable with both the screen and audio being recorded. We use the recordings to confirm that we have captured your opinions accurately & we delete them after we complete the analysis. Is it ok with you if I record our session today?
   - If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 Those are all the logistics. Do you have any questions for me before we get started?
 
@@ -53,6 +55,7 @@ Alright, at this time, I am going to ask you to process with signing into the VA
 - Does the participant express confusion or frustration at anything specific (ex: a line of text, a button, the modal)? What?
 - If the participant is served up the biometric opt in screen, do they understand it? Do they opt in? Is anything confusing/unclear about it?
 - Does the participant say anything positive or negative about the biometric opt in?
+- Is particpant using WiFi or cellular data.
 
 #### Prompts
 - [If the participant runs into a problem] What do you do when you run into a sign in issue like this?  
@@ -126,9 +129,11 @@ Let’s go back to the home screen.
 
 ## Wrap Up (5 minutes)
 - Would you describe this app as being useful to you?
-  - Please describe how the app useful to you. What’s useful about it?
-- Would you recommend this app to your friends? 
-  - Can you pretend I’m a friend and you’re recommend the app to me? Why are you recommending it? What would you say? 
+  - Please describe how the app useful to you. What’s useful about it? 
+- In what circumstances would you find this app useful?
+  - Can you give me a scenerio in which this app would be useful? (For example at work, in the car, on the couch, etc.)
+- Would you recommend this app to your friends (or fellow Veterans)? 
+  - Can you pretend I’m a friend (or fellow Veteran) and you’re recommend the app to me? Why are you recommending it? What would you say? 
 - Let's say the app I’ve shown you today hits the app stores tomorrow, with exactly what you see here, but you could add 1 more thing - what would you add?
   - Why?
 
