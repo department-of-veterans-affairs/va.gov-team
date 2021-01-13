@@ -14,8 +14,8 @@ To be approved for the Rogers STEM Scholarship, applicants must meet all of the 
 
 | Criterion | Justification |
 | --- | --- |
-| Met |We reviewed the data in our claims processing system and as of [MM/DD/YYYY], you have less than 6 months of Post 9/11 GI Bill (Chapter 33) benefits remaining. |
-| Not Met | We reviewed the data in our claims processing system and as of [MM/DD/YYYY], you have more than 6 months of Post 9/11 GI Bill (Chapter 33) benefits remaining. If you enroll in a later term and have less than 6 months of benefits left, you can re-apply for this scholarship at that time. |
+| Met |We reviewed the data in our claims processing system. As of [MM/DD/YYYY], you have less than 6 months of Post 9/11 GI Bill (Chapter 33) benefits remaining. |
+| Not Met | We reviewed the data in our claims processing system.  As of [MM/DD/YYYY], you have more than 6 months of Post 9/11 GI Bill (Chapter 33) benefits remaining. If you enroll in a later term and have less than 6 months of benefits left, you can re-apply for this scholarship at that time. |
 
 
 
@@ -26,11 +26,11 @@ To be approved for the Rogers STEM Scholarship, applicants must meet all of the 
  
 | Criterion | Justification |
 | --- | --- |
-| Met |  You meet the degree requirements for the Rogers STEM Scholarship since you answered "Yes" to one of the following questions on the application. |
+| Met |  You meet the degree requirements for the Rogers STEM Scholarship because you answered "Yes" to one of the these questions on the application. |
 | --- |  - "Are you enrolled in a science, technology, engineering, or math (STEM) degree program?" **or**|                 
 | --- |  - "Do you have a STEM undergraduate degree and are now pursuing a teaching certification?" |
-| Not Met | You don’t meet the degree requirements for the Rogers STEM Scholarship since you answered "No" to the following questions on the application. Applicants must answer "Yes" to one of these questions to be eligible. |
-| --- |  - "Are you enrolled in a science, technology, engineering, or math (STEM) degree program?" **or**|                  
+| Not Met | You don’t meet the degree requirements for the Rogers STEM Scholarship because you answered "No" to both of these questions on the application. Applicants must answer "Yes" to one of these questions to be eligible. |
+| --- |  - "Are you enrolled in a science, technology, engineering, or math (STEM) degree program?" |                  
 | --- |  - "Do you have a STEM undergraduate degree and are now pursuing a teaching certification?" |
                    
        
