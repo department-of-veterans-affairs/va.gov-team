@@ -70,6 +70,7 @@ Participant criteria:
   - Gender (30% or more women)
   - Race
   - Age (At least 1 participant 35 or under and 1 participant over 55)
+- Both iPhone and Android users should be represented   
 
 ## What is your recruitment strategy?
 - Perigean will recruit
