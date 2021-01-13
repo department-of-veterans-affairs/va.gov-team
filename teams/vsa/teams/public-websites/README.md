@@ -112,7 +112,7 @@ Assess and update workload for remainder of sprint
 
 #### ZenHub Team Board
 
-* Icebox: These are items that are eithier blocked indefinately or awaiting added functionality that is dependent on another team or section of VSP/VSF.  No need to touch these items until that are moved to Backlog or Ready Status.   
+* Icebox: These are items that are eithier blocked indefinately or awaiting added functionality that is dependent on another team or section of VSP/VSF.  No need to touch these items until they are moved to Backlog or Ready Status.   
 * Backlog: These are items that are eithier waiting for other dependencies or team just don't have bandwidth to action these items due to current velocity and burndown requirements.  Items in backlog can be picked up if there's nothing in ready, current sprint, or in-progress respectively. 
 * Ready: These are items that ideally have been groomed and are ready on-deck tickets for team to work as directed.  These are things that are not in current sprint, but if bandwidth is available and all items in current sprint or in-progress are compelted then these can be pick items up for work.  
 * Current Sprint: These are tasks that have been groomed and planned and programmed for completion as priority during sprint. These items can be moved to in-progress when initiated to indicate they are "Inprogress". Having tasks in current sprint indicates to team members that these items would idealy be completed before end of sprint. If there is nothing in-progress, this is the first column to look at when picking up new items.
