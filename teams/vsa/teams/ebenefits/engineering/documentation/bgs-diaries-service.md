@@ -8,7 +8,23 @@ Methods
 - readDiaries: read diaries information
 - updateDiaries: update diaries information
 
-*\* **Note**: The DiariesWebService is currently not exposed as an external service. This needs to be exposed in order to be utilized by VA.gov/vets-api.*
+<br>
+
+## Estimation/Level of Effort
+It will require approximately 10 PRs to implement the read and update diaries functionality in `vets-api`:
+   1. readDiaries - BGS gem (this is the external gem used as a library that needs to be updated for each BGS service we want to call)
+   2. readDiaries - lib code
+   3. readDiaries - service code
+   4. updateDiaries - BGS gem (this is the external gem used as a library that needs to be updated for each BGS service we want to call)
+   5. updateDiaries - lib code
+   6. updateDiaries - service code
+   7. updateDiaries - endpoint/controller (this adds the route used by the front end and also includes swagger docs)
+   8. PDF generation
+   9. PDF upload to VBMS or Central Mail
+  10. Possible job (if required?)
+  11. Additional endpoint/controller for readDiaries (if required?)
+  
+Allowing approximately 3 business days for each PR, the estimated level of effort to develop this feature will take approximately 6-8 sprints.  
 
 <br>
 
@@ -63,17 +79,20 @@ The following information is required in order to read and update the diary entr
 - **How to obtain the `awardType` is currently not known**
   - There is a "relationship" that is returned in View Dependents
   - Ex. Would "Spouse" relationship be award type "CPDS"?
-- Is there a service that returns both Award Type and Beneficiary ID?
+- Is there a service that returns both Award Type and Beneficiary ID?  
+
+\* ***Update:*** the current assumption is that we are only concerned with `CPL` award types and in that case, the beneficiaryID and VeteranID will be the same
 
 <br>
 
 ## readDiaries
-For each dependent returned in the list of View Dependents:
+Assuming the user is logged in, obtain the Veteran's participant ID and then:
 1. Send a request to `readDiaries` with required fields `awardType`, `beneficiaryID`, `veteranID`.
-2. Filter list of diary entries on records where diaryReasonType = '24'
+2. Filter list of diary entries on records where diaryReasonType = `24` and diaryLcStatusType = `PEND`
 3. For each of those records, check `diaryDueDate`
    - What happens if more than one record with `diaryReasonType` 24?
-   - Is this possible?
+   - Is this possible?  
+   \* ***Update:*** According to BGS, there should only be one record but in test data we have seen duplicates, so this still needs to be confirmed
    - Would the record with the latest date be used/unconcerned about records with earlier dates?  
 4. Use some business logic to determine if dependency verification/update is required based on the `diaryDueDate` and the current date
 5. If update/verification is required, create a diary object with the response info
@@ -156,8 +175,8 @@ The following is the list of fields that need to be sent as the `DiaryInput` whe
 
 </details>
 
-1. For each dependent, get the diary object that was created from the `readDiaries` response
-2. Update modifiedAction, modifiedBy, modifiedDate, modifiedLocation, modifiedProcess, diaryDueDate?, any other fields
-   - How to determine which fields should be updated?  Who can provide a definitive answer?
-3. Send entire diary record that was created
-   - What about fields not in the diary response that are part of the update diary input (marked with an asterisk in the list above)?  
+1. For the record that contains diaryReasonType = `24` and diaryLcStatusType = `PEND`, get the diary object that was created from the `readDiaries` response
+2. Update diaryDueDate to the appropriate next date (1 year interval?)
+   - Are there any other fields that need to be updated?
+   - What about fields not in the diary response that are part of the update diary input (marked with an asterisk in the list above)?
+3. Send ALL records back with the updated diary record
