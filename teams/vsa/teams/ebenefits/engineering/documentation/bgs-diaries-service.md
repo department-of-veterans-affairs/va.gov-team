@@ -39,7 +39,7 @@ The following information is required in order to read and update the diary entr
  | `veteranID`     | Veteran Identifier     |
 
 <details>
-<summary>Award Types</summary>
+   <summary>Expand for the list of <b>Award Types</b></summary>
 <br>
  
  | Award Type | Description                                |
