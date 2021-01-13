@@ -76,7 +76,7 @@ The following information is required in order to read and update the diary entr
   - CPDC, CDPS, CPDP(?), CPL(?)
   - How is this determined?  Who can provide a definitive answer?
 - The beneficiary IDs can be obtained from the View Dependents service currently being used by VA.gov
-- **How to obtain the `awardType` is currently not known**
+- How to obtain the `awardType` is currently not known
   - There is a "relationship" that is returned in View Dependents
   - Ex. Would "Spouse" relationship be award type "CPDS"?
 - Is there a service that returns both Award Type and Beneficiary ID?  
