@@ -63,5 +63,5 @@ Michael Tillman(?) might be a good person to check with.
 Consider that there might eventually be two search pages at the end of this.
 
 ## Next Steps
-1. Request access to the 0.0.1 version of the LH API
+1. Request access to the 0.0.1 version of the LH API: meet async in Slack and get into the sandbox
 
