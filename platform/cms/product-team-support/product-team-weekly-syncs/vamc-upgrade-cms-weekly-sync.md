@@ -40,7 +40,8 @@ Agenda
 - CMS orientation session 5 self-service library update
 
 Action item:
-- 
+
+
 
 ## Wednesday Jan 6 2:30pm ET
 
