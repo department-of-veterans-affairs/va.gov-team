@@ -47,3 +47,5 @@ TBD: Refer back to specific content pages which reference the big four affordanc
 - Number of Vererans used Health Care, last 12 months
 - Number of Veterans with a disability rating
 - Number of Veterans receiving disability
+- Number of Veterans with a disability rating by health care status (unknown, eligible, used last 12 months)
+- Number of Veterans receiving disability by health care status (unknown, eligible, used last 12 months)
