@@ -26,11 +26,10 @@
 
 </details>
 
-## Friday, January, 8, 2021
+## Friday, January, 14, 2021
  
 ### Campaign landing page MVP 1.0
-
-- Finalize OKR/KPIs - Submit a KPI Tracking Ticket
+- Build has started...Exciting!
 - Feedback and Updates based on content add (John/Randi)
 - CMS Blockers / Impediments (None Known at this time) 
 - Collaboration Cycle Review - Next Steps _Looks like "Staging Review" may be the next big CC checkpoint_ 
