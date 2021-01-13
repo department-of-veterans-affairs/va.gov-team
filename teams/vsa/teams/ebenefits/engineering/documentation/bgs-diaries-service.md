@@ -4,9 +4,9 @@
 The Diaries Web Service is one of the BGS Awards Web Services.  This service is used to find the Diaries information. 
 
 Methods
-- readHistoricalAndPendingDiaries: read historical and pending diaries information
-- readDiaries: read diaries information
-- updateDiaries: update diaries information
+- `readHistoricalAndPendingDiaries`: read historical and pending diaries information
+- `readDiaries`: read diaries information
+- `updateDiaries`: update diaries information
 
 <br>
 
@@ -79,7 +79,7 @@ The following information is required in order to read and update the diary entr
 - How to obtain the `awardType` is currently not known
 - Is there a service that returns both Award Type and Beneficiary ID?  
 
-\* ***Update:*** the current assumption is that we are only concerned with `CPL` award types and in that case, the `beneficiaryID` and `veteranID` will be the same.  `CPL` is compensation for a Veteran who is still alive, whereas `CPDC`, `CPDS`, and `CPDP` are for cases where the Veteran is no longer living.  Not to be confused with the `Death Comp` award types, which are compensation in the event that a spouse or child or parent passes away.
+\* ***Update:*** the current assumption is that we are only concerned with `CPL` award types and in that case, the `beneficiaryID` and `veteranID` will be the same.  `CPL` is compensation for a Veteran who is still alive, whereas `CPDC`, `CPDS`, and `CPDP` are for cases where the Veteran is no longer living.  Not to be confused with the `Death Comp` award types, which is assumed to be compensation in the event that a spouse or child or parent passes away.
 
 <br>
 
@@ -176,4 +176,5 @@ The following is the list of fields that need to be sent as the `DiaryInput` whe
 2. Update `diaryDueDate` to the appropriate next date (1 year interval?)
    - Are there any other fields that need to be updated?
    - What about fields not in the diary response that are part of the update diary input (marked with an asterisk in the list above)?
+   - The time period/one year interval could be set as a variable rather than hard-coded in the event that the interval changes
 3. Send ALL records back with the updated diary record
