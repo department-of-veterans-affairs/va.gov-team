@@ -1,11 +1,9 @@
-# Design Doc Template
+# Web Component library
 
-_Replace the previous line with the the title of your project or component and replace the following lines with your name(s), email and the date._  
-**Author(s):** Albert J. Wong  
-**Last Updated:** January 24, 2020  
-**Status:** **Draft** | In Review | Approved  
-**Approvers:** _Person A_ \[ \], _Person B_ \[ \], ...  
-_Replace the previous line with 2-4 people, all of whom must explicitly approve your design proposal. An important part of the design doc is building consensus with key stakeholders, technical implementers who you'll work with, and technical contacts for other systems that this proposal affects or is affected by._
+**Author(s):** Brooks Johnson
+**Last Updated:** January 13, 2021
+**Status:** **Draft** | In Review | Approved
+**Approvers:** _Chris Valarida_ \[ \], _Michael Fleet_ \[ \]
 
 _For the rest of the document, replace all the italicized text. The document is designed to guide your thinking through a general design process. Not all sections are always applicable. If a section is not applicable, just say so._
 
@@ -19,17 +17,25 @@ _The intended audience for this document is software engineers, but it should ma
 
 
 ## Overview
-_Nothing goes here; all the content belongs in the subsections._
 
 ### Objective
-_In the objective section you should include a succinct 1-3 sentence statement of the objective of your project. It is also useful to state non-goals. Bulleted lists are great. Finally, state who the intended audience for the document is._
+
+The goal is to establish a component library based on Web Components, which are a browser standard. This will supercede the current `formation-react` library and some of the liquid HTML template currently in `vets-website`. A non-goal is creating an entirely new visual experience as part of the component library.
+
+The intended audience for this document is frontend engineers.
 
 ### Background
+
+We currently have some "components" implemented in HTML/CSS (and sometimes JS) in the `formation` npm package. These can be used anywhere where `formation` is loaded. We also have `formation-react`, which is a package with some of those patterns implemented as React components. These canonly be used in React apps. Lastly, in `vets-website` we have some Liquid templates which implement some of the components/patterns of the design system, and these are only used for content builds.
+
 _The background section should contain information the reader needs to know to understand the problem being solved. This can be a combination of text and links to other documents._
 
 _Do **NOT** describe the solution here. That goes in High Level Design._
 
 ### High Level Design
+
+The goal is to establish a single codebase and documentation for the implementation of design system components. This will allow the components to be used in React apps, static HTML, or any other web framework.
+
 _A high-level description of the system. This is the most valuable section of the document and will probably receive the most attention. You should explain, at a high level, how your system will work. Don't get bogged down with details; those belong later in the document._
 
 _A diagram showing how the major components communicate is very useful and a great way to start this section. If this system is intended to be a component in a larger system, a diagram showing how it fits in to the larger system will also be appreciated by your readers._
