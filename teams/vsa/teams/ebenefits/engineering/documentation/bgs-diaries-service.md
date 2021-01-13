@@ -10,7 +10,7 @@ Methods
 
 <br>
 
-## Estimation/Level of Effort
+## Estimation for Level of Effort
 It will require approximately 10 PRs to implement the read and update diaries functionality in `vets-api`:
    1. readDiaries - BGS gem (this is the external gem used as a library that needs to be updated for each BGS service we want to call)
    2. readDiaries - lib code
@@ -19,12 +19,12 @@ It will require approximately 10 PRs to implement the read and update diaries fu
    5. updateDiaries - lib code
    6. updateDiaries - service code
    7. updateDiaries - endpoint/controller (this adds the route used by the front end and also includes swagger docs)
-   8. PDF generation
+   8. PDF generation for VA Form 21-0538
    9. PDF upload to VBMS or Central Mail
   10. Possible job (if required?)
   11. Additional endpoint/controller for readDiaries (if required?)
   
-Allowing approximately 3 business days for each PR, the estimated level of effort to develop this feature will take approximately 6-8 sprints.  
+**Allowing approximately 3 business days for each PR, the estimated level of effort to develop this feature will take approximately 6-8 sprints.**  
 
 <br>
 
