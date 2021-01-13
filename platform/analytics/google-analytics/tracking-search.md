@@ -5,6 +5,7 @@
    - Type ahead search
    - Resources and support search
    - Find Forms
+   - Yellow Ribbon Search
  - This spec captures both the search and search result click tracking
  - The `'view_search_results'` event is designed to align with future initiatives which include the introduction of GA4 -- as `'view_search_results'` serves as an [automatically collected events](https://support.google.com/analytics/answer/9234069?hl=en). 
  
