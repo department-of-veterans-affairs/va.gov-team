@@ -61,10 +61,10 @@ Participant criteria:
 - All participants must have signed into VA.gov within the last 9 months 
 - All participants must have VA healthcare appointments
 - All participants must have an active claim or appeal
-- At least one person who lives in a rural or remote area
-- At least one person who lives in a major metropolitan area
+- At least 1 person who lives in a rural or remote area
+- At least 1 person who lives in a major metropolitan area
 - At least 1 participant who uses assistive technology
-- At least one person with a disability rating of 70% or greater
+- At least 1 person with a disability rating of 70% or greater
 - Participant pool should be diverse in:
   - Branch of service
   - Gender (30% or more women)
