@@ -30,6 +30,7 @@ Technical orientation from the VSA Technical Lead ([pshort@governmentcio.com](ma
   - [Citrix Access Gateway (CAG)](#citrix-access-gateway-cag)
     - [Tips:](#tips-1)
   - [VA Service Desk](#va-service-desk)
+  - [Platform Newsletter](#platform-newsletter)
   - [Onboarding FAQs](#onboarding-faqs)
 
 ## What We Do
@@ -92,8 +93,10 @@ We have a React/Redux/Node front end with a Ruby-on-Rails back end, plus static 
 
 (Build to extract Drupal and Markdown into static HTML):
 
-- GraphQL: queries to extract data from Drupal
-- Liquid: templates to expand data to HTML
+- GraphQL: queries to extract data from Drupal. This is legacy and is in the process of being replaced by a Tome Sync + CMS Transformer solution.
+- Tome Sync: Drupal Static Site Generator. Data from Drupal models are dumped server-side to a json.tar file continously after content in drupal is edited/saved.
+- CMS Transformer: an in-house Node.js solution to map and extract data models from Tome Sync json.tar files to HTML through Liquid templates.
+- Liquid: templates to expand data to HTML. Liquid is an open-source template language created by Shopify and written in Ruby. 
 - Metalsmith Static Site Generator: the content integration build; runs on Node.js
 - TeamSite Integration (legacy): NGIX Web Server, AWS S3 (shared content), PERL
 
@@ -326,12 +329,11 @@ https://vfs.atlassian.net/wiki/spaces/VP/overview
 
 ## Development System
 
-Although we do not dictate whether developers should use Windows vs Linux vs Mac, almost everyone uses a Macbook Pro, so that’s the path of least resistance. If you choose to use Windows or Linux instead, you should be ok, but there may be some configuration details you’ll have to take up on your own (not as much support if you run into issues).
+Although we do not dictate whether developers should use Windows vs Linux vs Mac, almost everyone on VSA uses a Macbook Pro, so that’s the path of least resistance. If you choose to use Windows or Linux instead, you might be ok with additional setup, but you won't get any support if you run into issues. Developers have noticed issues particularly with the Rails setup on non-mac systems, and there is a chance some scripts may not work outside of macOS and zshell, so you'd be responsible for additional configuration details or modifications to these if you run into these issues.
 
 - Macbook Pro issued by US Resources to GovernmentCIO employees:
   - You’ll have to call US Resources to get the password (account is not integrated into Active Directory)
   - If you are not admin, let US Resources know immediately, because you need to be.
-  - If you upgrade to Catalina (recommended) you may need to acknowledge a few additional security prompts.
 - Most tools are open source.
 - You can only get so far with words, so we encourage developers to use diagrams to communicate architecture, design, and business/data flow. We recommend [diagrams.net](https://app.diagrams.net/) (previously known as Draw.io) because it's free and open source. It's a well-known Progressive Web App (PWA) based on MxGraph that comes in both online or offline versions. Alternatives include Lucidchart and Visio; however, neither of those are free. 
 
