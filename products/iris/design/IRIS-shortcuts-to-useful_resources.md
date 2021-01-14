@@ -3,7 +3,7 @@
 
 **Invision prototype**
 
-- [Invision prototype](https://thoughtworks.invisionapp.com/share/C8YJHBHNZQF#/screens?browse) - please see the backlog and speak to the team to understand the priority of stories
+- [Invision prototype](https://thoughtworks.invisionapp.com/share/C8YJHBHNZQF#/screens?browse) - see PDF in this folder as well.
 
 **Sites potentially in scope**
 
