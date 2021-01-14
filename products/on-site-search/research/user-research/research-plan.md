@@ -92,6 +92,7 @@ Zoom
     
 ## Timeline 	
 #### Desired Timeline: Either the week of Jan 25, 2021 or the week of Feb 1, 2021
+Matching the criteria above is more important than timing.
 50 minute sessions<br/>
 
 Team Availability | Time (EST)
