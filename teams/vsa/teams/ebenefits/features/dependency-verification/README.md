@@ -5,7 +5,7 @@ This is to help guide and memorialize decisions made about different functionali
 
 -------------
 
-## Discussion of Unknowns  
+## Thoughts on the Feature  
 `January 2021`  
 These are some consideration around expected behaviors for this feature and possibly a list of recommendations
   
