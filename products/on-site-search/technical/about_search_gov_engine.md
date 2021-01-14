@@ -1,6 +1,6 @@
 ### Background
 
-VA.gov search is powered by Search.gov, a service of the General Services Administration, supporting the search boxes on over 2,000 websites, across 30% of federal domains.  The technology core of Search.gov's engine is [Elasticsearch](https://www.elastic.co/elasticsearch/).   VA.gov is utilizing Search.gov's API in order to more fully customize the look and feel of the search results pages in harmony with the site's unique design pattern.
+VA.gov search is powered by Search.gov, a service of the General Services Administration, supporting the search boxes on over 2,000 websites, across 30% of federal domains.  The technology core of Search.gov's engine is [Elasticsearch](https://www.elastic.co/elasticsearch/).   VA.gov is utilizing Search.gov's API in order to more fully customize the look and feel of the search results pages in harmony with the site's brand design pattern.
 
 
 ## Ranking Factors
