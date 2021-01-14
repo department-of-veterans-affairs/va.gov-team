@@ -18,7 +18,7 @@ __1. Emergency banner__
   - Typically Josh Tushcher  or Gary Hicks, via YAML/GitHub
   - Requires PR review by FE engineer -- must be approved within 15m
   - Use Cases: Natural Disasters, Operational emergencies, Fed Gov shutdown
-  - OPIA has templated content, but don't use
+  - OPIA has templated content, but do not typically use
   - Public Websites must ask permission to fix mistakes (typos, broken links)
   - Can include dismissable function (this is an option in the template) -- up to OPIA
 - DEPO needs ability to publish sitewide or on specific nodes, including VAMC products and/or homepage. (The homepage is not a node.)
