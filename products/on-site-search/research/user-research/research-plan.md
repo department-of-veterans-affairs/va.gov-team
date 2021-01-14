@@ -59,7 +59,10 @@ Schedule for 50 minutes with 10 minute buffer time to allow for participants who
 If remote: What tool do you plan to use: Zoom
 
 4. Participants and Recruiting
-    - Targeting 8-10 veterans.  
+  - We would like 10 fufilled sessions. In order to get 10 participants, we'd like Perigean to recruit 15-18. Remaining interviews will be canceled once we reach 10.
+    - Must be a veteran
+    - 50% desktop, 50% mobile users 
+    - Be able to screenshare via Zoom either via mobile or desktop. Please confirm with them that they have Zoom downloaded prior to the session and they know how to screenshare. If they can not get Zoom working, there is no interview portion of this research and they will not be able to participate.
          
     - Strong preference for anyone who has looked for the following topics:
       - 1/5 veterans who have recently looked for VA education information
@@ -67,10 +70,6 @@ If remote: What tool do you plan to use: Zoom
       - 1/5 veterans who have recently looked for VA disability information
       - 1/5 veterans who have recently looked for VA family benefit information
       - 1/5 veterans who have recently looked for VA burial benefit information
-
-
-    - Must be a veteran
-    - 50% desktop, 50% mobile users
 
     - We request the participant pool be diverse in:
        - Gender (at least 3 women)
@@ -86,8 +85,8 @@ If remote: What tool do you plan to use: Zoom
          - At least 1 person who utilizes a screen reader
        - To ensure inclusivity, we request at least 50% of participants that have identified cognitive impairments and/or functional disabilities. Diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), Autism, and Vertigo. Other conditions may be autism, aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, non-native English speakers, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
 
-    - Be able to screenshare via Zoom either via mobile or desktop. Please confirm with them that they have Zoom downloaded prior to the session and they know how to screenshare. If they can not get Zoom working, there is no interview portion of this research and they will not be able to participate.
-    - We would like 10 fufilled sessions. In order to get 10 participants, we'd like Perigean to recruit 15-18. Remaining interviews will be canceled once we reach 10. 
+
+  
     
 ## Timeline 	
 #### Desired Timeline: Either the week of Jan 25, 2021 or the week of Feb 1, 2021
