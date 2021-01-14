@@ -11,7 +11,7 @@ Direct access to analytics tools is strongly preferred to reports.
 ## My HealtheVet
 ### Login
 - Number of user accounts by type (ex., basic)
-- Number of user accounts by role (ex., caregiver)
+- Number of user accounts by role (ex., caregiver) >> Do we have this data?
 - Number of user accounts active by role, last 90 days
 - Number of user accounts active by type, last 90 days
 - Number of auth attempts by method (ex., MHV, ID.me), last 90 days
@@ -21,20 +21,49 @@ Direct access to analytics tools is strongly preferred to reports.
 - Number of active user accounts last 90 days, by type and available auth methods
 - Number of auth attempts per user, for all users active in last 90 days (anonymized)
 - Number of failed auth attempts per user, for all users active in last 90 days (anonymized)
+- Number of authenticated users coming from VA.gov
+- Number of authenticated users comng from eBenefits
 
 ### Messages
+Let's share info with the Secure Messaging Team. Hopefully they have some good numbers, too. 
+- Number of secure messages from MHV users per month (Or use last 90 days for all of these?)
+- Number of secure messages from desktop per month
+- Number of secure messages from mobile per month
 
 ### Health Records
+- Number of users who self report data, past 90 days (maybe longer time range)
+- Top pages where they self report data, past 90 days 
 
 ### Prescriptions
+- Number of requests for refill per month
+- Number of prescriptions that could be tracked per month
 
 ### Appointments
+- Number of page views for "View My VA Appointments" page per month
+- Number of page views for "Schedule or Cancel a VA Appointment Online" page per month
+- Number of users who "jump" to VA.gov from MHV to schedule an appointment per month
+
+### Search
+- Top search terms, past year (or 6 months)
+
+### Page Views and Sessions
+- Unique page views per month
+- Repeat page views per month
+- Sessions per month
 
 ### Traffic Sources
 - Entry pages ranked by num sessions, last 90 days
 - Exit pages ranked by num sessions, last 90 days
 - Referral sources ranked by num sessions, last 90 days
 - Referral destinations ranked by num sessions, last 90 days
+
+### Device Usage
+- Desktop, tablet, and mobile usage, past year (or 6 months)
+
+### Demographics
+- Gender breakdown, past year (or 6 months)
+- Age breakdown, past year (or 6 months)
+- Age breakdown correlated to pages with top views per month, past year (or 6 months)
 
 ## VA.gov
 - Number of user accounts by login method (ex., ID.me, login.gov, both, none)
