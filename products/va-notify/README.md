@@ -44,6 +44,7 @@ Slack - #va-notify
 ## Technical Onboarding Guide
 * [VANotify API Documentation](https://github.com/department-of-veterans-affairs/notification-api#api-documentation)
 * Staging URL: https://staging.api.notifications.va.gov
+* Postman Collection: https://github.com/department-of-veterans-affairs/notification-api/tree/master/scripts/postman
 * Templating guides: 
   * https://github.com/department-of-veterans-affairs/notification-utils/tree/master/docs
   * https://notification.canada.ca/templates
