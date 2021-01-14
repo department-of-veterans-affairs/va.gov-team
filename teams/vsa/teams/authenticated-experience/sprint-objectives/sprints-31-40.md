@@ -543,4 +543,4 @@ BE READY FOR QA NEXT SPRINT
 
 **BE**
 
-- Continue implementation
+- Continue/finish implementation
