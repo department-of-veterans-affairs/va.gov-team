@@ -86,6 +86,7 @@ Anyone on the team can create a user story. All are responsible for keeping them
     - A user story that reflects the benefit to a Veteran, Caregiver, or other user
     - Been broken up into discreet tasks/Github tickets that are attatched to the epic
     - All components/steps have been accounted for in the epic
+    - Documented risks: Risks: Value Risk, Feasibility Risk, Business Viability Risk, Usability Risk
 
 - For a task to go into the **"Icebox"** column, it must have the following:
    - Title that explains the goal
