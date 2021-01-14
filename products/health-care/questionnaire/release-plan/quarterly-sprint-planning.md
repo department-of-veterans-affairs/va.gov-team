@@ -86,21 +86,9 @@
 | [Product] | -- | # |
 
 
-## Sprint 39 - Sprint Theme
+## Sprint 39 - MAP and Lighthouse API Success
 1/13/20201 - 1/26/2021
 - [Milestone 459](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/459)
-
-| Goal/Objective | Status Notes | Epic/Issue#	|
-|-|:-:|:-:|
-| [UI]  | -- | # |
-| [FE]  | -- | # |
-| [BE]  | -- | # |
-| [Product] | -- | # |
-
-
-## Sprint 38 - Sprint Theme
-12/30/2020 - 1/12/2021
-- [Milestone 458](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/458)
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
@@ -110,6 +98,17 @@
 | [FE] SPIKE for SIP system ( | -- | # |
 | [BE]  Return Quest. Responses and Querry Questions by response ID - lighthouse| -- | # |
 | [Product] Priority Planning for next features | -- | # |
+
+## Sprint 38 - Dynamic Form Elements/Backend Access 
+12/30/2020 - 1/12/2021
+- [Milestone 458](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/458)
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| [UI]  | -- | # |
+| [FE]  | -- | # |
+| [BE]  | -- | # |
+| [Product] | -- | # |
 
 
 
