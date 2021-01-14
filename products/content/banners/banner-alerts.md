@@ -43,6 +43,9 @@ Design files: https://github.com/department-of-veterans-affairs/va.gov-team/tree
 
 __3. Veteran action needed banner__ 
 
+- Use Cases: 
+  - Learn about vaccinations, sign up for notifications
+  - IRS deadline for benefits declarations
 - Ability to publish: DEPO.
 - Ability to configure for sitewide or specific nodes, including VAMC products and/or homepage. 
 - Yellow [@RYAN - do you recommend this one always be yellow or always blue (per original recommendation below)? ] 
