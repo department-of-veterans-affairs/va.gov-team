@@ -55,7 +55,7 @@ User interviews will be remote moderated sessions via Zoom
 
 3. What will you be testing?
 staging.VA.gov on-site search<br>
-Schedule for 50 minutes with 10 minute buffer time to allow for participants who can't make it on time, or if you might go over time. Allow at least 30 minutes between sessions. <br>
+Schedule for 40 minutes with 10 minute buffer time to allow for participants who can't make it on time, or if you might go over time. Allow at least 30 minutes between sessions. <br>
 If remote: What tool do you plan to use: Zoom
 
 4. Participants and Recruiting
@@ -91,7 +91,7 @@ If remote: What tool do you plan to use: Zoom
 ## Timeline 	
 #### Desired Timeline: Either the week of Jan 25, 2021 or the week of Feb 1, 2021
 Matching the criteria above is more important than timing.
-50 minute sessions<br/>
+40 minute sessions<br/>
 
 Team Availability | Time (EST)
 ------------------|--------------
