@@ -1,7 +1,8 @@
 # High Level Product Decisions: Dependency Verification
-**VSA eBenefits Team | January 2021 - Present**  
+`VSA eBenefits Team | January 2021 - Present`  
 
 This is to help guide and memorialize decisions made about different functionalities and behaviors for the feature we are working with.  
+
 -------------
 
 ## Discussion of Unknowns  
