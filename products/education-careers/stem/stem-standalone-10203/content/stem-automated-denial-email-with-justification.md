@@ -10,9 +10,16 @@ To be approved for the Rogers STEM Scholarship, applicants must meet all of the 
 
 { The applicable Met or Not Met determination with reasoning will be displayed }
 
+
+- By law, all Rogers STEM scholarship recipients must be eligible for Post 9/11 GI Bill (Chapter 33) benefits. (Public Law 115-48, Section 111 (b)).
+
+|  |  |
+| --- | --- |
+| Met |We reviewed the data in our claims processing system. As of [MM/DD/YYYY], you are eligible for Post 9/11 GI Bill (Chapter 33) benefits. |
+
 - By law, all Rogers STEM Scholarship recipients must have 6 months or less of Post 9/11 GI Bill (Chapter 33) benefits left (Public Law 115-48, Section 111 (b)).
 
-| Criterion | Justification |
+|  |  |
 | --- | --- |
 | Met |We reviewed the data in our claims processing system. As of [MM/DD/YYYY], you have less than 6 months of Post 9/11 GI Bill (Chapter 33) benefits remaining. |
 | Not Met | We reviewed the data in our claims processing system.  As of [MM/DD/YYYY], you have more than 6 months of Post 9/11 GI Bill (Chapter 33) benefits remaining. If you enroll in a later term and have less than 6 months of benefits left, you can re-apply for this scholarship at that time. |
@@ -24,7 +31,7 @@ To be approved for the Rogers STEM Scholarship, applicants must meet all of the 
    - Enrolled in an eligible STEM undergraduate degree **or**
    - Have an eligible STEM undergraduate degree and be pursuing a teaching degree
  
-| Criterion | Justification |
+|  |  |
 | --- | --- |
 | Met |  You meet the degree requirements for the Rogers STEM Scholarship because you answered "Yes" to one of the these questions on the application. |
 | --- |  - "Are you enrolled in a science, technology, engineering, or math (STEM) degree program?" **or**|                 
