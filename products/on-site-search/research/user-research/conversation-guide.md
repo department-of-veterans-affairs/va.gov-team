@@ -2,7 +2,7 @@
 ## Intro
 Thanks for joining us today! My name is Megan. I also have some colleagues on the line listening and taking notes. Today we'll be talking about VA.gov’s search feature. We're trying to learn about Veteran’s experiences finding VA-related information.
 Before we get started, I want to give you an idea of what this call will be like:
-- This entire session should take about 50 minutes.
+- This entire session should take about 40 minutes.
 - This session is going to resemble an interview where I will ask you many questions about your experience with finding VA-related information. There are no right or wrong answers, this is purely to understand actual client experiences. If at any time you don't feel comfortable answering a question, we can move on to the next question.
 - Later, I'll ask that you share your screen while you find certain items on VA.gov.
 - In this session, we want to hear your honest opinions. We are not testing you, instead we are testing our products and services to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
@@ -51,6 +51,10 @@ Start recording to the Cloud
 - What was your overall experience with VA search like?
 - What worked well? 
 - Would you change anything?
+
+- [If there is time] Is there another site that you've used to search for something that you think worked well? Can you go to that site?
+        - What worked well? 
+        - What didn't work well?
 
 Those are all the questions that I had for you today.
 - Do you have any questions for me or is there anything else that you think that I should know?
