@@ -38,11 +38,11 @@ To be approved for the Rogers STEM Scholarship, applicants must meet all of the 
 
 If you disagree with our decision, you have 1 year from the date of this letter to request a decision review or appeal.  You have 3 options to do this:
 
-- If you have new or previously unprovided evidence to prove your eligibility for this scholarship, you can file a Supplemental Claim by completing [VA Form 20-0995](https://www.va.gov/find-forms/about-form-20-0995/).
-- If you don't have new evidence but would like a more senior reviewer to look at your case, you can request a Higher-Level Review by completing [VA Form 20-0996](https://www.va.gov/find-forms/about-form-20-0996/).
-- If you don't agree with the decision on your Supplemental Claim or Higher-Level Review, you can appeal to a Veterans Law Judge by completing [VA Form 10182](https://www.va.gov/find-forms/about-form-10182/).
+- If you have new or previously unprovided evidence to prove your eligibility for this scholarship, you can file a Supplemental Claim by completing VA Form 20-0995. Go to https://www.va.gov/find-forms/about-form-20-0995/ to download the form.
+- If you don't have new evidence but would like a more senior reviewer to look at your case, you can request a Higher-Level Review by completing VA Form 20-0996. Go to https://www.va.gov/find-forms/about-form-20-0996/ to download the form.
+- If you don't agree with the decision on your Supplemental Claim or Higher-Level Review, you can appeal to a Veterans Law Judge by completing VA Form 10182. Go to https://www.va.gov/find-forms/about-form-10182/ to download the form.
 
-You can read more about these options on [VA Form 20-0998, "Your Rights to Seek Further Review of Our Decisions"](https://www.va.gov/find-forms/about-form-20-0998/).  You can also contact us at (888) GI BILL 1 (888-442-4551) to request any of these forms.
+You can read more about these options on VA Form 20-0998, "Your Rights to Seek Further Review of Our Decisions". Go to https://www.va.gov/find-forms/about-form-20-0998/ to download this form.  You can also contact us at (888) GI BILL 1 (888-442-4551) to request any of these forms.
 
 You can learn more about the decision review process at www.va.gov/decision-reviews.  If you would like to review the evidence we used in our decision, please contact us.  You may be able to review some evidence by signing in to your account on www.va.gov.
 
