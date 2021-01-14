@@ -15,11 +15,18 @@ __1. Emergency banner__
 
 - Ability to publish: OPIA, DEPO, VISNs, and VAMCs.
 - OPIA can publish on VA.gov homepage.
+  - Typically Josh Tushcher  or Gary Hicks, via YAML/GitHub
+  - Requires PR review by FE engineer -- must be approved within 15m
+  - Use Cases: Natural Disasters, Operational emergencies, Fed Gov shutdown
+  - OPIA has templated content, but don't use
+  - Public Websites must ask permission to fix mistakes (typos, broken links)
+  - Can include dismissable function (this is an option in the template) -- up to OPIA
 - DEPO needs ability to publish sitewide or on specific nodes, including VAMC products and/or homepage. (The homepage is not a node.)
 - VISNs can publish across all VAMC pages.
 - VAMCs can publish on their VAMC pages only. 
 - Yellow.
 - 300 character count limit including spaces; allow links; needs to be configurable as dismissable per cookie or per session. 
+
 
 __2. Sitewide system maintenance downtime banner__ 
 
@@ -32,6 +39,7 @@ Design files: https://github.com/department-of-veterans-affairs/va.gov-team/tree
 - 300 character count limit including spaces; allow links; needs to be configurable as dismissable per cookie or per session.
 - Must configure schedule and expiration: for in-advance messaging start and end; during message start and end -- dates and times.
 - Standardized text with customizable dates and times. 
+- When to use: If 90% of VA.gov services will be "down" -- **however, this is not well-defined, operationalized.**
 
 __3. Veteran action needed banner__ 
 
