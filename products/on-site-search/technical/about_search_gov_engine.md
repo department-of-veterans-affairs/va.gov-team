@@ -9,12 +9,12 @@ Per the [Search.gov help manual](https://search.gov/manual/ranking-factors.html)
 
 - **File Type**
 
-We prefer HTML documents over other file types. Non-HTML results are demoted significantly, to prevent, for instance, PDF files from crowding out their respective
+Prefernce is given to HTML documents over other file types. Non-HTML results are demoted significantly, to prevent, for instance, PDF files from crowding out their respective
 landing pages.
 
 - **Freshness**
 
-We prefer documents that are fresh. Anything published or updated in the past 30 days is considered fresh. After that, we use a Gaussian decay function to demote documents, so that the older a document is, the more it is demoted. When documents are 5 years old or older, we consider them to be equally old and do not demote further. We use either the article:modified_time on an individual page, or that page’s <lastmod> date from the sitemap, whichever is more recent. If there is only an article:published_time for a given page, we use that date.
+Preference is given to documents that are fresh. Anything published or updated in the past 30 days is considered fresh. After that, we use a Gaussian decay function to demote documents, so that the older a document is, the more it is demoted. When documents are 5 years old or older, we consider them to be equally old and do not demote further. We use either the article:modified_time on an individual page, or that page’s <lastmod> date from the sitemap, whichever is more recent. If there is only an article:published_time for a given page, we use that date.
 
 
 
