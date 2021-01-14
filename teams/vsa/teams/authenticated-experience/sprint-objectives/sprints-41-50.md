@@ -70,6 +70,7 @@
 
 **PM**
 
+- Meet with comms to discuss if/what marketing needs to happen
 - [Privacy and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review)
 - Hold go/no-go for UAT
 
@@ -194,6 +195,7 @@ QA!!
 - [Staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
   - Prep
   - Hold meeting
+- Meet with comms to discuss if/what marketing needs to happen
 
 **Design**
 
