@@ -55,7 +55,7 @@ Start recording to the Cloud
 Those are all the questions that I had for you today.
 - Do you have any questions for me or is there anything else that you think that I should know?
 
-We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it works well for veterans.
+We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it works well for Veterans.
 
 
 
