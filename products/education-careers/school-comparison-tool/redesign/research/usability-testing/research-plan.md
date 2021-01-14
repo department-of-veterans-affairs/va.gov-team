@@ -11,7 +11,8 @@ As a designer I need to create a research plan to share with my team.
 1.	What method of research are you planning? 	
   - Remote moderated usability testing with high-fidelity prototypes 	
   	
-2.	Why this method? How does this methodology help you answer your research questions? 	
+2.	Why this method? How does this methodology help you answer your research questions? 
+  - Remote moderated usability testing will allow us to assess a user's ability to complete basic, but critical functionality on the tool that has been redesigned.  We will be able to see what the user looks at, clicks on and how they expect the functionality to work.  It also allows researchers to ask questions about what the user is thinking as they are completing the tasks to gain better insight into their thoughts, actions and expectations.
 3.	Where are you planning to do your research?
       - Online using Zoom 	
 4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 
@@ -20,10 +21,16 @@ As a designer I need to create a research plan to share with my team.
  - Zoom
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	  
-(Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
+ - 10-12 participants	
 
 Please list your participant criteria in two categories-
-1. **Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.) 
+1. **Primary criteria / Must have** 
+- 4 participants will be tested on mobile phone devices
+- The remaining 6-8 participants will be tested on desktop
+
+- Participants should either:
+     - Have started attending school in Fall 2020 or Spring 2021
+     - Be looking to start school in 2021
 
 2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
 
