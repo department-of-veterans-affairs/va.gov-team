@@ -101,7 +101,7 @@ Feb 1, 2021 - Feb 5, 2021 | 11am-4pm EST
     
 ## Team Roles
 - Moderator: Megan Gayle (mgayle@governmentcio.com)
-- Notetaker: Perigean
+- Notetaker: **We request that Perigean take notes**
 - Observers: Denise Coveyduc (dcoveyduc@governmentcio.com), John Hashimoto (John.Hashimoto@va.gov), Sam Suddath(ssuddath@governmentcio.com)
 
 
