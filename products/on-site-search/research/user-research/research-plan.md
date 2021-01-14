@@ -54,9 +54,9 @@ Search enhancements for VA.gov, Public Websites
 User interviews will be remote moderated sessions via Zoom
 
 3. What will you be testing?
-staging.VA.gov on-site search
-Schedule for 50 minutes with 10 minute buffer time to allow for participants who can't make it on time, or if you might go over time. Allow at least 30 minutes between sessions. 
-If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)
+staging.VA.gov on-site search<br>
+Schedule for 50 minutes with 10 minute buffer time to allow for participants who can't make it on time, or if you might go over time. Allow at least 30 minutes between sessions. <br>
+If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)<br>
 Zoom
 
 4. Participants and Recruiting
