@@ -32,6 +32,7 @@ __2. Sitewide system maintenance downtime banner__
 
 Design files: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/banners/sitewide-system-downtime-design-files
 
+- Not in CMS; Public Website (Nick & Kelson) trigger
 - Ability to publish: DEPO.
 - Sitewide, including VAMC products. 
 - 2 states: In advance of downtime; and during downtime. 
