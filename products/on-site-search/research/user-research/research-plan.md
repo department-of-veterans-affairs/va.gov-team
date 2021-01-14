@@ -55,7 +55,7 @@ User interviews will be remote moderated sessions via Zoom
 
 3. What will you be testing?
 staging.VA.gov on-site search
-Schedule for 50 minutes with 10 minute buffer time to allow for participants who can't make it on time, or if you might go over time
+Schedule for 50 minutes with 10 minute buffer time to allow for participants who can't make it on time, or if you might go over time. Allow at least 30 minutes between sessions. 
 If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)
 Zoom
 
@@ -89,3 +89,22 @@ Zoom
 
     - Be able to screenshare via Zoom either via mobile or desktop. Please confirm with them that they have Zoom downloaded prior to the session and they know how to screenshare. If they can not get Zoom working, there is no interview portion of this research and they will not be able to participate.
     - We would like 10 fufilled sessions. In order to get 10 participants, we'd like Perigean to recruit 15-18. Remaining interviews will be canceled once we reach 10. 
+    
+## Timeline 	
+#### Desired Timeline: Either the week of Jan 25, 2021 or the week of Feb 1, 2021
+50 minute sessions<br/>
+
+Team Availability | Time (EST)
+------------------|--------------
+Jan 25, 2021 - Jan 29, 2021 | 11am-4pm EST
+Feb 1, 2021 - Feb 5, 2021 | 11am-4pm EST
+
+    
+## Team Roles
+- Moderator: Megan Gayle (mgayle@governmentcio.com)
+- Notetaker: Perigean
+- Observers: Denise Coveyduc (dcoveyduc@governmentcio.com), John Hashimoto (John.Hashimoto@va.gov), Sam Suddath(ssuddath@governmentcio.com)
+
+
+## Resources
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/conversation-guide.md">Conversation Guide</a>
