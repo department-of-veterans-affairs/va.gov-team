@@ -32,8 +32,12 @@
 - Build has started...Exciting!
 - Feedback and Updates based on content add (John/Randi)
 - CMS Blockers / Impediments (None Known at this time) 
-- Collaboration Cycle Review - Next Steps _Looks like "Staging Review" may be the next big CC checkpoint_ 
+- Collaboration Cycle Review - Next Steps _Looks like "Staging Review" may be the next big CC checkpoint_
+- Need to 
 
+Notes: 
+@John URL - Discussion with Miki (Where does this sit on the site/URL?) Working with VA-SH Sandy to build a potential landing page. These sites stick around and potentially stay under "More Resources" elements.  Still determining the direction forward.  SEO friendly and optimized (generally create a vanity URL).  
+@Brian - Lets schedule a meeting with Analytics to review needs for CLP tracking elements. (Almost like an in-take request). 
 
 ## Friday, December, 18, 2020
  
