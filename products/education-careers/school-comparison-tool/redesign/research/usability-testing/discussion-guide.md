@@ -51,23 +51,29 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Have you ever used the GI Bill Comparison Tool before?
      - If yes, what did you use it for?
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
 
-## First Task: [TASK NAME] - X minutes
+## First Task: Degree / Program Search - 10 minutes
 
-- Step 1
-- Step 2
+- Let's say you've recently heard of someone who received an education in **Ethical Hacking** (other options:  Bakery Science, Puppet Art). You don't know of any schools that offer this program, but it's something that sounds interesting.  How would you use the Comparison Tool to see if any schools covered by the GI Bill offer this as a program of study?
+
+_ You see that **Insert school with Ethical Hacking program** is highly rated by Veterans. If you wanted to ask the School Certifying Official a few questions abou the school, how would you go about finding their contact information?
+
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+Part 1
+- Where does the user look to enter the field of study?
+- Do they click the search fields?
+- What dropdowns (if any) do they open?
+- Do they open the "Level of degree" dropdown?
 
-## Second Task: [TASK NAME] - X minutes
+Part 2
+- Does the user click any of the jumplinks or just scroll?
 
-- Step 1
-- Step 2
+
+## Second Task: Radius from Location - 15 minutes
+
+- While you're waiting to hear back from the SCO, you decide to look for schools in your area.  Let's say you live in **Daytona, Florida**.  Traffic is okay, but you don't really want a long commute every day, so you would like to find a school within 30 miles of your location.  How would you use the Comparison Tool to find schools that are within that driving distance?
 
 ### Things to watch for:
 
