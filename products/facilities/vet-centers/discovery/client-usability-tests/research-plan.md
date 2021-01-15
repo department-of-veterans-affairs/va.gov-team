@@ -1,6 +1,6 @@
 # Research Plan: Vet Center Client - Usability Test - V2 
 
-**January 2020 Discovery**<br>
+**January 2021 Discovery**<br>
 
 ## Goal
 
