@@ -42,3 +42,8 @@ As a CMS Product Manager,
 
 As a VSP Product Owner / VSP Product Designer,
 * I have access to in-depth documentation of the existing CMS content model patterns, so that I can build better products faster.
+
+## Related Backlog 
+
+[The CMS Design System](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4000)
+
