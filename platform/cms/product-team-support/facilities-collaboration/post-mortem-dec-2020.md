@@ -15,9 +15,9 @@ December 11, 2020
 ## What happened? 
 
 ### Rushing to meet VEO request -> Did this impact QA testing?
-**Problem** There is not a defined method for testing or responsible team
+**Problem** There is not a defined method for testing or determining the responsible team
   - **Action item** Define method(s)testing/responsible team
-      - CMS team can access review instances to look at pages before mergin
+      - CMS team can access review instances to look at pages before merging
       - Look at screens together to develop QA steps/cases/AC when beginning an epic, involve other teams (PW) with vested interest
       - Owner: Shared (Facilities/CMS)
 
@@ -47,15 +47,15 @@ December 11, 2020
 **Problem** Feature flag wasn’t used (need to know where field is used)
 
 ### Product familiarity
-**Problem** Facilities team doesn’t have full grasp on the code. Even shared templates have different content types and used differently. These differences impact development and testing efforts.  
+**Problem** Facilities team doesn’t have full grasp on the code. Even shared templates have different content types and can be used differently. These differences impact development and testing efforts.  
   - Examples
     - Registration links only exist in Outreach Hub 
     - Toggle for viewing past events-> VAMC has past events view; Outreach Hub doesn't
  - **Action item** Facilities team needs code ownership so we can audit and clean it up - complicated by “shared” templates
       - Owner: Facilities
       
-**Problem** No one from PW was involved although it wasa shared template
-- **Action item** The plan to review ipacted pages at the beginning of the epic should close this loop. 
+**Problem** No one from PW was involved although it was a shared template
+- **Action item** The plan to review impacted pages at the beginning of the epic should close this loop. 
     - Owner: Shared (Facilities/CMS)
 
 **Problem** No easy way to identify all the places a field is used (and what might be impacted) across shared templates
@@ -67,7 +67,7 @@ December 11, 2020
        - Owner: CMS
 
 ### Off-cycle deployment right before Thanksgiving
-**Problem** Most of the Tools team was on PTO. Michelle was out -> Dave was involved in other things -> Michael was flying solo. Debug code was left in during that scramble which intruduced a defect. 
+**Problem** Most of the Tools team was on PTO. Michelle was out -> Dave was involved in other things -> Michael was flying solo. Debug code was left in during that scramble which introduced a defect. 
   - **Action item** Determination of urgency - “dual missile keys” How do we loop Jeff Barnes in (for Core Application team)?
       - Owner: DEPO
 
