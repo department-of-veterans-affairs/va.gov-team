@@ -35,6 +35,20 @@
 
 </details>
 
+## Wednesday January 20 10:30am ET
+
+### Campaign landing page MVP
+
+- Help text for "Add a link to an external blog or other list of stories" field clarification
+
+### Resources & support
+
+- 
+
+### Benefits detail pages
+
+- 
+
 ## Wednesday January 13 10am ET
 
 ### Campaign landing page MVP
