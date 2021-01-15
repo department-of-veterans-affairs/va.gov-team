@@ -58,7 +58,7 @@ Content model changes
   - CMS Core team issue for test: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3961
   
 Content model
-- Action items from time zone retro
+- Action items from [time zone retro](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-team-support/facilities-collaboration/post-mortem-dec-2020.md)
 - Health service taxonomy "Type of Care" refactoring - create shared runbook
   - Health services page FE work to use new "type of care" attribute as a grouping mechanism, including Transformer work. 
   - Final step: CMS team deletes deprecated parent taxonomy terms. 
