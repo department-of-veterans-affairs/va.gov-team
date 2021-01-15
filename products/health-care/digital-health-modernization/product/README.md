@@ -51,7 +51,8 @@ Using Marty Cagan's framework for risk in absence of a compelling reason not to.
 - Engineering is a blind spot. There are many ways to handle making MHV and VA.gov feel, or actually be, more cohesive, that could eventually look the same to end users. However they could differ by many person-years of effort, and by specific technical risks. This is probably the first risk to tackle because it will inform both the value risk (by telling us which parts of the system are least problematic to change) and viability risk (by telling us something about how many people / how much time is the floor for making progress). 
 
 ### Usability
-- Not yet a concern. This comes after the other risks, and is the easiest to address algorithmically. Team needs designer when "later" arrives. 
+- Major concern on the Clinician side. We know little of their world or how changes might affect them. Ultimately Veterans get value from this tech stack because it connects them with Clinicians. This is a big piece of the puzzle we should explore.
+- Not yet a concern on the Veteran side. This comes after the other risks, and is the easiest to address algorithmically. Team needs designer when "later" arrives. 
 
 ## Proposed Performance Metrics
 TBD
