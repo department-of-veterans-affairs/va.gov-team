@@ -1,3 +1,5 @@
+# The CMS Notification Framework
+
 ## Problem statement
 
 The demand for messaging about various events within the Drupal CMS is increasing as the CMS team enhances existing and adds new functionality.
