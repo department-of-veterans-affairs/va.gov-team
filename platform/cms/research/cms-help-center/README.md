@@ -33,8 +33,8 @@ Online, via Zoom. Remote observers and note takers will be in attendance.
 [Demo environment with new CMS Help Center](https://pr3850-geb9i1vxs7ugc9kzpbajhiyfirxs1npl.ci.cms.va.gov/help).
 
 ## Participants and Recruitment	
-* [TBD] CMS frequent CMS users: 3 participants.
-* [TBD] CMS new users: 3 participants.
+* CMS frequent CMS users: 3 participants.
+* CMS non-frequent users: 1 participants.
 
 Interview invitations to be done directly via email and/or Slack.
 
@@ -54,5 +54,5 @@ Interview invitations to be done directly via email and/or Slack.
 ## Resources	
 * [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms)
 * [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research/cms-help-center/conversation-guide)
-* [Readout/Results]()
+* [Mural/Results](https://app.mural.co/t/vagov6717/m/vagov6717/1609273937806/3d49f7ea2ac608614ee38e8052acb4676bcbc18e)
 
