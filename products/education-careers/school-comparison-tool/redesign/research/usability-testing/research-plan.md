@@ -9,6 +9,29 @@ As a designer I need to create a research plan to share with my team.
  - The Booz Allen team conducted extensive research with Comparison Tool users and stakeholders to identify their needs and challenges when researching schools to attend. This research resulted in recommendations that focused on optimizing search functionality, incorporating information and functionality that facilitate school selection, and encouraging prospective students to take the next step in their education journey.  From these recommendations, initial designs for the search, comparison and school profile pages were created and now need to be tested to validate their effectiveness.
   
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
+ 
+ Search
+ - How do users expect the different searches to work / be executed?
+    - Location search
+    - Degree / program search
+ - Do users find it intuitive or difficult to conduct searches?
+ - What is the users' reaction to their search results?
+ - How do users expect search results to be organized/sorted?
+ - What do users think of the filters?
+ - Do users notice and interact with Military Details?
+ 
+ Compare
+ - How do users expect to select schools for comparison?
+ - How do users expect to navigate to and from the Compare page?
+ - How many schools would users want to compare at one time?
+ - What do users think of the layout of the Compare page?
+ - What information do users want to compare between schools?
+ 
+ Profile Page:
+ - Do users recognize the jumplinks as navigation tools?
+ - Do users interact with the jumplinks?
+ 
+ 
 4. Hypothesis: What is your hypothesis for this research? 
 
 - Researchers believe that users will be able to effectively search for schools using the new design.  Additionally, we believe that users will be able to easily find and utilize the comparison functionality and be successful at using the new navigation options on the school profile pages.
@@ -59,7 +82,13 @@ Note:  We cannot support the usage of screen readers for this testing effort.
  - Feb 4, 2021
 3. Length of Sessions: How long do you estimate each session will be? 
  - 45 minute sessions
-4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
+4.	Availability: If applicable, when would you like sessions scheduled? 
+
+Tues, Feb 9:  9-9:45 AM; 10:15-11 AM; 12:15 - 1 PM
+Wed, Feb 10: 9-9:45 AM; 10:15-11 AM; 12:45 - 1:30 PM; 2 - 2:45 PM
+Thurs, Feb 11: 9-9:45 AM; 12:45 - 1:30 PM
+Fri, Feb 12: 9-9:45 AM; 12-12:45 PM; 1:30 - 2:15 PM
+
 
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
  - Feb 5, 2021
