@@ -78,7 +78,7 @@ Part 2
  - How do you think the school search results were sorted? (Why were some schools higher or lower on the list?)
  - Was there any other information you were expecting to see?
  
-## Second Task: Radius from Location - 15 minutes
+## Second Task: Radius from Location - 10 minutes
 
 - While you're waiting to hear back from the SCO, you decide to look for schools in your area.  Let's say you live in **Daytona, Florida**.  You don't want a long commute, so you would like to find a school within 30 miles of your location.  How would you use the Comparison Tool to find schools that are within that driving distance?
 
@@ -98,7 +98,7 @@ _Prompt_ What would you enter into the search field?
  - How do you think the school search results were sorted?
  - Was there any other information you were expecting to see?
 
-## Third Task: Compare Schools - X minutes
+## Third Task: Compare Schools - 15 minutes
 
 Looking at these search results, you know that **School 1** and **School 2** would have a reasonable commute and both have the major you're interested in.  How would you go about comparing these two schools to see which school would be a better fit for you?
 
