@@ -1,8 +1,8 @@
 # Web Component library
 
-**Author(s):** Brooks Johnson
-**Last Updated:** January 13, 2021
-**Status:** **Draft** | In Review | Approved
+**Author(s):** Brooks Johnson  
+**Last Updated:** January 13, 2021  
+**Status:** **Draft** | In Review | Approved  
 **Approvers:** _Chris Valarida_ \[ \], _Michael Fleet_ \[ \]
 
 
