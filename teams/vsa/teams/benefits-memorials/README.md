@@ -1,4 +1,4 @@
-# Team Outline: Benefits and Memorials
+# Team Outline: Claims and Appeals
 - GitHub Label: vsa-benefits
 - Slack channel: [#vsa-benefits-memorial](https://dsva.slack.com/channels/vsa-benefits-memorial), vsa-benefits-nod (dedicated channel for LightHouse and BAM for Notice of Disagreement discussions)
 - VA.gov link: n/a
@@ -33,19 +33,33 @@
 - [Team](#team)
 
 # Priorities (Updated 1/12/2021)
+
+## Higher Level Review
+We are within days/weeks of launching.  This product has been in work for almost a year and delayed significantly due to 526 errors that are consistently impacting existing users. Also, BDD has recently launched and has been at 100%.  We are managing the errors/flow through BDD and have not seen any major issues.  Finally, NOD is on the horizon. 
 - Launch Higher Level Review
-  - Final accessibility audit changes have been completed
-  - Focus on UAT, currently not finding candidates
-  - No updated launch data at this time
-- Bug fixes and technical debt
+  - Focus on UAT, currently not finding candidates (banner has been put up on eBenefits)
+  - No updated launch date at this time
+  
+## 526 Health and Technical Debt
+This is our flagship product.  We have seen that our error rate drop from 20% to 8% but we still have some critical fixes to get us to 100%. The team agrees that focusing on 526 before new work is brought on is the ideal scenario.  However, we have Notice of Disagreement.
   - This will never be zero and we need to find time for at least two engagements a week
   - Continued major issue with 526 being fixed
-- Veteran (Call Center) Support
+  
+## Veteran (Call Center) Support
+Related to 526 health (and in some ways Claims Status Tool) the traffic from Call Center has died down.  This is likely not due to less calls from veterans (although we do hope there has been a reduction) and most likely due no longer receiving them from call center.
   - Has not been prioritized for a while, likely time to have another look at customer support calls
-- Prepare for Notice of Disagreement
-- Claims and Appeals Status
+  - Suggest getting a weekly meeting set up (action for Luke and Ronnie)
+  - We need this data in order to bring prioritization recommendations to our customer
+  
+## Notice of Disagreement
+This is a customer that has a direct line to the secretary's office and we have been delaying them for months.  Matt and Lighthouse worked on a delivery plan which has our team starting in January.
+  - Prepare for Notice of Disagreement design and implementation
+  - Work to get plan updated
+  
+## Claims and Appeals Status
   - Fell down the priority list, however we have been making file upload fixes
-- Supplemental Claims
+  
+## Supplemental Claims
 
 
 # Team Info
