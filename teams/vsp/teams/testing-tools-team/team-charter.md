@@ -1,4 +1,4 @@
-# Testing Team Charter
+# Testing Tools Team Charter
 
 ---
 
