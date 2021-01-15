@@ -41,6 +41,7 @@ Design files: https://github.com/department-of-veterans-affairs/va.gov-team/tree
 - Must configure schedule and expiration: for in-advance messaging start and end; during message start and end -- dates and times.
 - Standardized text with customizable dates and times. 
 - When to use: If 90% of VA.gov services will be "down" -- **however, this is not well-defined, operationalized.**
+  - For DS Logon (which is frequently down or in maintenance), only use the sitewide banner if the maintenance window is 24 hours or longer. The reason: a banner will automatically render above the buttons in the VA.gov sign-in modal to tell the user DS Logon is unavailable)
 
 __3. Veteran action needed banner__ 
 
