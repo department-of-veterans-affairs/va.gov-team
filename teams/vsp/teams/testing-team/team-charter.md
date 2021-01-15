@@ -42,6 +42,7 @@ Establish and champion rich testing approaches and partner with VFS teams to ens
 -  Front-end engineer:		@Bill Fienberg		*Central Time Zone*
 -  Back-end engineer:		@Holden Hinkle	*Eastern Time Zone*
 -  Accessibility Engineer:	@Noah Gelman	*Pacific Time Zone*
+-  QA Engineer:		@Darius Dzien *Central Time Zone*
 
 ---
 
