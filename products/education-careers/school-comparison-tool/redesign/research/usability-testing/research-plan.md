@@ -51,10 +51,11 @@ As a designer I need to create a research plan to share with my team.
 ## Participants and Recruitment	
 1.	Participant criteria:	  
 	
-1. **Primary criteria / Must have** 
+**Primary criteria / Must have** 
  - Recruit 10-12 participants
-       - 4 participants will be tested on mobile phone devices (iPhone only)
-       - The remaining 6-8 participants will be tested on desktop
+ 
+     - 4 participants will be tested on mobile phone devices (iPhone only)
+     - The remaining 6-8 participants will be tested on desktop
 
 - Participants should either:
      - Have started attending school in Fall 2020 or Spring 2021
@@ -64,7 +65,7 @@ As a designer I need to create a research plan to share with my team.
      - 75% of participants personally using or planning to use Chapter 33 Post-9/11 benefits 
      - 25% of participants personally using or planning to use education benefits other than Chapter 33 Post-9/11 benefits
 
-2. **Secondary criteria / Would like to have** 
+**Secondary criteria / Would like to have** 
 - Age range: 18-55
 - Gender: Mix
 - Geography: Geographically dispersed across US
@@ -111,7 +112,7 @@ Please list the people who will be serving in each role.
 	
 ## Resources	
 - Project Brief: 	
-*Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/redesign/ct-redesign-discovery_product-outline.md	
 - Convo Guide	
 *Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
 - Synthesis	
