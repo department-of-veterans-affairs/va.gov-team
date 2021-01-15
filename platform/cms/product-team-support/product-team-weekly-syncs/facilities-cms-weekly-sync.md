@@ -29,6 +29,9 @@
 
 Content model changes
 - Review shared documentation for content model changes 
+- VAMC health service appointments intro text
+  - 100% additive 
+  - will get slightly refactored at some point once we make the default text editable by a CMS editor 
 - Health service taxonomy "Type of Care" refactoring - create shared runbook
   - Health services page FE work to use new "type of care" attribute as a grouping mechanism, including Transformer work.
   - [more steps TBD]
