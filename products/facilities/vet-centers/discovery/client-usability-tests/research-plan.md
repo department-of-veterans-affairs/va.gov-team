@@ -52,7 +52,7 @@ This study:
 - Be a Veteran, active duty service member, reservist, or national guard member.
 - Is currently or has participated in individual or group mental health counseling with the VA.
 
-**AND**
+**AND/OR**
 
 - **(A minumum of 3)** Is or was a client of a Vet Center (see definition of a Vet Center) 
 
