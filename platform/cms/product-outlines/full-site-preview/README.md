@@ -36,3 +36,7 @@ How might we offer a better editorial experience to the CMS users and teams buil
 * The Front-end and content build process is not fast enough as-is to build a full site preview with up-to-date data every time the preview is requested by the Content Editor on production or other technical environments.
 * Front end build will need to allow for incremental builds.
 * Front-end templates and transformers will need to be refactored to allow unpublished content rendering in preview under certain conditions.
+
+## Related Backlog
+
+[Full Site Preview](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3947)
