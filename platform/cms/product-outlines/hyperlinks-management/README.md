@@ -34,3 +34,7 @@ More information can be found in [this design document](https://github.com/depar
 * Design iteration on the [proposed design document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/7785e85e3c68452857ec510ed5d2cb22bbd5f6cc/platform/engineering/design-docs/2020-09-27-broken-links.md)
 * Stakeholder review, buy in and approval of [proposed design document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/7785e85e3c68452857ec510ed5d2cb22bbd5f6cc/platform/engineering/design-docs/2020-09-27-broken-links.md)
 * Realtime notification system within the CMS.
+
+## Related Backlog
+
+[Hyperlinks Management](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4018)
