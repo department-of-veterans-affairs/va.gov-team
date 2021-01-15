@@ -5,7 +5,7 @@
 | Products             | Product Outline | OKRs | Dashboard | 
 |:--:|:--:|:--:|:--:|
 |Resources & Support   |  X   |   X  |   X  |              
-|Campaign Landing Page |  X  |      |      |              
+|Campaign Landing Page |  X  |   X   |    WIP  |              
 |Benefits Hub          | |   |      |      |              
 |Home Page             |     |      |      | 
 |Sitewide Alerts       |     |      |      |
