@@ -43,6 +43,10 @@ As a CMS Product Manager,
 As a VFS Product Owner / VFS Product Designer,
 * I have access to in-depth documentation of the existing CMS content model patterns, so that I can build better products faster.
 
+## FAQ
+
+[The CMS Design System FAQ](./FAQ.md)
+
 ## Related Backlog 
 
 [The CMS Design System](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4000)
