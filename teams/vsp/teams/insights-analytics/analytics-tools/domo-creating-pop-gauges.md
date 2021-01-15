@@ -24,6 +24,11 @@ END
 
 To use this in a gauge chart, create a 'Multi-value Gauge' chart and use your grouping date column as the "Optional Group By" field.
 
+![](domo-screenshot-gauge-1.png)
+
+
+You will also need to sort by your primary date column and make sure your selected date range includes all the dates you want to compare.
+
 ### Beast Mode calculation in a card
 
 It's a little unwieldy (especially for periods of 30 days), but adding together and dividing values in a Beast Mode does give you an accurate rolling value.
@@ -47,4 +52,8 @@ LAG(`event_rate`, 13) OVER (ORDER BY `date`)) / 7
 
 You can then use a "Comparative Gauge" chart to compare the two values.
 
+![](domo-screenshot-gauge-2.png)
+
 You will probably want to set *General > Value Displayed*  to "Percentage Change" and "General > Value Format" to "Percentage".
+
+You will also need to sort by your primary date column and make sure your selected date range includes all the dates you want to compare.
