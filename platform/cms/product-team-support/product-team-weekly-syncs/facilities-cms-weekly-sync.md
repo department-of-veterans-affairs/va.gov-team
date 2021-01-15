@@ -30,15 +30,15 @@
 Content model changes
 - Review shared documentation for content model changes 
 - Health service taxonomy "Type of Care" refactoring - create shared runbook
-  - Health services page FE work to use new "type of care" attribute as a grouping mechanism, including Transformer work. 
+  - Health services page FE work to use new "type of care" attribute as a grouping mechanism, including Transformer work.
+  - [more steps TBD]
   - Final step: CMS team deletes deprecated parent taxonomy terms. 
-- VAMC Policies Page refactor - create shared runbook
+- VAMC Policies Page refactor - create shared runbook. This is the first of many top task pages.
   - New content types (VAMC Policies Page + Centralized content), which in tandem will replace all /[health-care-system]/policies
   - Content migation analysis for all existing VAMC policies page to see how much diversity there is, which would suggest the appropriate approach (automated migration?)
   - New FE templates for VAMC Polices Page content type, graphql, transformers
-  - [more steps]
-  - Swapping of old nodes with new nodes. 
-
+  - [more steps TBD]
+  - Final step: CMS team swaps old Policies nodes with new Policies nodes. 
 
 ## Week of Jan 11
 
