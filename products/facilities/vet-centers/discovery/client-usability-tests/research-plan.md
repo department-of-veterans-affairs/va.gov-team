@@ -96,7 +96,7 @@ This study:
     [ ] Job, career, vocational counseling
       
       
-**2. What is the name and address of the Vet Center that you visited/frequented?**
+**3. If yes, what is the name and address of the Vet Center that you visited/frequented?**
 
 Perigean please validate against Vet Centers listed on [Facility Locator](https://www.va.gov/find-locations/?facilityType=vet_center).
 
