@@ -48,7 +48,7 @@ Interview invitations to be done directly via email and/or Slack.
 * Research guide writing: Jordana Mello
 * Participant recruiting:	Jordana Mello
 * Project point of contact:	Oksana Cyrwus (oksana.cyrwus@agile6.com)
-* Note-takers: Rachel Kauff
+* Note-takers: Ero Gray, Rachel Kauff, Vanessa Luxen.
 * Observers: CMS team members
 
 ## Resources	
