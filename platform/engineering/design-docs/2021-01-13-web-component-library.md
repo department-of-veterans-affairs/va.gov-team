@@ -5,16 +5,6 @@
 **Status:** **Draft** | In Review | Approved
 **Approvers:** _Chris Valarida_ \[ \], _Michael Fleet_ \[ \]
 
-_For the rest of the document, replace all the italicized text. The document is designed to guide your thinking through a general design process. Not all sections are always applicable. If a section is not applicable, just say so._
-
-_You should complete the Overview section first. If your design is elaborate, you may want to pause after this section to wait for review comments before investing time into planning details that may get changed in the review._
-
-_Remember, a design document introduces a system or component to a fellow engineer. It should be written before implementing the system to aid in planning and to facilitate discussions about design decisions. After implementation, the design doc will serve as a reference for users, maintainers, and anyone else interested in the system (and for that reason it is still useful to write design docs for systems that have already been written)._
-
-_A design document is not a press release, a vision statement, a research report, or a business plan._
-
-_The intended audience for this document is software engineers, but it should make sense to anyone familiar with software development._
-
 
 ## Overview
 
@@ -30,19 +20,12 @@ We currently have some "components" implemented in HTML/CSS (and sometimes JS) i
 
 _The background section should contain information the reader needs to know to understand the problem being solved. This can be a combination of text and links to other documents._
 
-_Do **NOT** describe the solution here. That goes in High Level Design._
-
 ### High Level Design
 
 The goal is to establish a single codebase and documentation for the implementation of design system components. This will allow the components to be used in React apps, static HTML, or any other web framework.
 
 The Web Component library will live in its own repo and will be added to `vets-website` as a dependency, where the components will be loaded and defined for the browser to use. As more components are added to the Web Component version of the library, the older React-specific components will be phased out.
 
-_A high-level description of the system. This is the most valuable section of the document and will probably receive the most attention. You should explain, at a high level, how your system will work. Don't get bogged down with details; those belong later in the document._
-
-_A diagram showing how the major components communicate is very useful and a great way to start this section. If this system is intended to be a component in a larger system, a diagram showing how it fits in to the larger system will also be appreciated by your readers._
-
-_Most diagrams will need to be updated over time as the design evolves, so please create your diagrams with a program that is easily (and freely) available and attach the diagram source to the document to make it easy for a future maintainer (who could be you) to update the diagrams along with the document._
 
 ## Specifics
 
