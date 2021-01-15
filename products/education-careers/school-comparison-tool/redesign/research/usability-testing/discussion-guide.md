@@ -70,32 +70,56 @@ Part 1
 Part 2
 - Does the user click any of the jumplinks or just scroll?
 
-
+### Upon task completion:
+ - How did you think that went?
+ - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of finding schools by program of study?
+ 
+ - For the schools that appeared in the search results, do you think that **Ethical Hacking** was a graduate or undergraduate degree (or potentially both)?
+ - How do you think the school search results were sorted? (Why were some schools higher or lower on the list?)
+ - Was there any other information you were expecting to see?
+ 
 ## Second Task: Radius from Location - 15 minutes
 
-- While you're waiting to hear back from the SCO, you decide to look for schools in your area.  Let's say you live in **Daytona, Florida**.  Traffic is okay, but you don't really want a long commute every day, so you would like to find a school within 30 miles of your location.  How would you use the Comparison Tool to find schools that are within that driving distance?
+- While you're waiting to hear back from the SCO, you decide to look for schools in your area.  Let's say you live in **Daytona, Florida**.  You don't want a long commute, so you would like to find a school within 30 miles of your location.  How would you use the Comparison Tool to find schools that are within that driving distance?
+
+_Prompt_ What would you enter into the search field?
+
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Where does the user look to enter the search criteria?
+- Do they click the search fields?
+- What dropdowns (if any) do they open?
+- What location format do users say they would input?
 
-## Third Task: [TASK NAME] - X minutes
+### Upon task completion:
+ - How did you think that went?
+ - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of finding schools by distance from location?
+ - How do you think the school search results were sorted?
+ - Was there any other information you were expecting to see?
 
-- Step 1
-- Step 2
+## Third Task: Compare Schools - X minutes
+
+Looking at these search results, you know that **School 1** and **School 2** would have a reasonable commute and both have the major you're interested in.  How would you go about comparing these two schools to see which school would be a better fit for you?
+
+_Prompt_ What information would be important for you to see on this page?
+
+_Prompt_ How would you return to your search results?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Is the user able to successfully add schools to the gutter to compare?
+- Is the user able to navigate successfully to the Compare page?
+
+### Upon task completion:
+ - How did you think that went?
+ - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of comparing schools?
+ - How many schools would you want to be able to compare at one time?
+ - Was there any other information you were expecting to see on the Compare page?
+ - Was there any information you didn't think was necessary?
+ - What did you think of the general layout of the page?
 
 ## Post-Task Interview - X minutes
-
-- Question 1
-- Question 2
 - Any questions for me? 
 
 ## Thank-You and Closing - X minutes
