@@ -4,9 +4,15 @@ As a designer I need to create a research plan to share with my team.
 1. What product & team are you doing this research for?	
   - Booz Allen research for Education Service / OIT
   
-2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
+2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?
+
+ - The Booz Allen team conducted extensive research with Comparison Tool users and stakeholders to identify their needs and challenges when researching schools to attend. This research resulted in recommendations that focused on optimizing search functionality, incorporating information and functionality that facilitate school selection, and encouraging prospective students to take the next step in their education journey.  From these recommendations, initial designs for the search, comparison and school profile pages were created and now need to be tested to validate their effectiveness.
+  
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
-4. Hypothesis: What is your hypothesis for this research? 	
+4. Hypothesis: What is your hypothesis for this research? 
+
+- Researchers believe that users will be able to effectively search for schools using the new design.  Additionally, we believe that users will be able to easily find and utilize the comparison functionality and be successful at using the new navigation options on the school profile pages.
+
 ## Method	
 1.	What method of research are you planning? 	
   - Remote moderated usability testing with high-fidelity prototypes 	
@@ -20,36 +26,46 @@ As a designer I need to create a research plan to share with my team.
 5.  If remote: What tool do you plan to use	
  - Zoom
 ## Participants and Recruitment	
-1.	Participant criteria: What are you looking for in a participant?	  
- - 10-12 participants	
-
-Please list your participant criteria in two categories-
+1.	Participant criteria:	  
+	
 1. **Primary criteria / Must have** 
-- 4 participants will be tested on mobile phone devices
-- The remaining 6-8 participants will be tested on desktop
+ - Recruit 10-12 participants
+       - 4 participants will be tested on mobile phone devices (iPhone only)
+       - The remaining 6-8 participants will be tested on desktop
 
 - Participants should either:
      - Have started attending school in Fall 2020 or Spring 2021
      - Be looking to start school in 2021
+     
+ - VA Benefit requirement:
+     - 75% of participants personally using or planning to use Chapter 33 Post-9/11 benefits 
+     - 25% of participants personally using or planning to use education benefits other than Chapter 33 Post-9/11 benefits
 
-2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
+2. **Secondary criteria / Would like to have** 
+- Age range: 18-55
+- Gender: Mix
+- Geography: Geographically dispersed across US
 
-*Pro tips for writing recruiting critera:* 
-- If you have specific screener questions that YOU would ask a potential participant to determine eligibility for your study, list them here. For example, instead of saying "We want someone who has been to an urgent care facility recently", say "Have you been to an urgent care facility in the last 6 months? (Answer should be yes)"
-- Do not assume that your recruiters or the participants know your products or requirements as well as you do. Provide links to products, clear descriptions, specifics, etc. 
+    
+Note:  We cannot support the usage of screen readers for this testing effort.
 
 2.	What is your recruitment strategy? 	
  - Recruitment will be performed by Perigean Technologies
 
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
-(IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 	
-2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
-3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
+ - Feb 9-12, 2021	
+2.	Prepare: When will the thing you are testing be ready?  
+ - Feb 4, 2021
+3. Length of Sessions: How long do you estimate each session will be? 
+ - 45 minute sessions
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
-5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
+
+5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
+ - Feb 5, 2021
+ 
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
+Please list the people who will be serving in each role.  	
 - Moderator: Amy Knox; 301.254.0907; knox_amy@bah.com
 
 - Research guide writing and task development (usually but not always same as moderator): Booz Allen UX team
