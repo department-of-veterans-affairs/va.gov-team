@@ -125,9 +125,9 @@ Update 8/24: We are still considering some marketting options, etc, but this wil
   - Missed initial date of 24th
   - August 30th for UAT
 - *Actual Launch Date*
-  - tbd
+  - December 22nd we went to 100%
 - *What date will you evaluate impact after launch?*
-  - tbd
+  - One month after January 20th redirect from eBenefits
 
 ---
 ## Results and Recommendations
