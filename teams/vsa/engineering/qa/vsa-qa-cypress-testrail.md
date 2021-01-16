@@ -72,9 +72,11 @@ Other values you'd need are your TestRail test cases' Section or Group IDs, whic
 
 1. Go to your Team's TestRail Project [get project-name or direct project link from your PM].
 1. In the **Sections** panel:
-    a.  Click the **View Mode** dropdown-menu and choose **Selected group only**.
-        ![TestRail Test Cases View Mode dropdown menu screenshot][testrail-test-cases-view-mode]
-    b.  Click to select the desired **Group/Section**.  On the **Test Cases** panel, you'll see only this selected Group/Section's Test Cases.
+    - Click the **View Mode** dropdown-menu and choose **Selected group only**.
+    
+    ![testrail-test-cases-view-mode][testrail-test-cases-view-mode]
+    
+    - Click to select the desired **Group/Section**.  On the **Test Cases** panel, you'll see only this selected Group/Section's Test Cases.
 1. Click **TEST CASES** tab to go to your Project's test-cases screen.
 1. Within **Automated** Sub-section, create Test Cases corresponding to your product's E2E tests, one Case for each test (`it('...', () => {...})`) within each .cypress.spec.js file, setting it's Type to **Automated**. No need to create any Steps inside the Case -- these Cases are merely TestRail "stubs" for associating your E2E test results.
 </details>
@@ -115,6 +117,6 @@ The end result is a new TestRail Test Run in your Team's TestRail project, with 
 [pubweb-tr-proj]: https://dsvavsp.testrail.io/index.php?/projects/overview/8
 [search-tr-proj]: https://dsvavsp.testrail.io/index.php?/projects/overview/31
 [vamc-tr-proj]: https://dsvavsp.testrail.io/index.php?/projects/overview/9
-[testrail-test-cases-view-mode]: ../images/tr-test-cases-view-mode.png
+[testrail-test-cases-view-mode]: images/tr-test-cases-view-mode.png
 [vsp-cy-tr-env-vars]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/e2e-testing/cypress-testrail-reporter-config.md#environment-variables-set
 [vsp-cy-tr-optns]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/e2e-testing/cypress-testrail-reporter-config.md#invoke-cypress-with-custom-reporter-options
