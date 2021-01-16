@@ -27,14 +27,14 @@ Tentative Quarterly goals, still
     *   Defects
         *   Form validation error
 *   VAMC
-    *   Centralized content
+    *   Centralized content [#3046](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3046)
         *   VAMC Policies implementation with centralized content
         *   Centralized content editorial experience
     *   Collaborate with Facilities team on 3 content model changes
-        *   Appointments intro
-        *   
+        *   Appointments intro 
+        *   Policies page
         *   “Type of care” health service taxonomy
-        *   Document content model changes
+    *   Document content model changes ([#4027](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4027))
 
 
 ### Sprint 23 (January 4 - 15 2021)
