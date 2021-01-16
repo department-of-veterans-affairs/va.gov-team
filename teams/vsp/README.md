@@ -15,7 +15,6 @@ Provide teams across VA with the support, documentation, tools, and automation t
 - [#vsp-backend](https://dsva.slack.com/channels/vsp-backend)
 - [#vsp-content-ia](https://dsva.slack.com/channels/vsp-content-ia) 
 - [#vsp-operations](https://dsva.slack.com/channels/vsp-operations)
-- [#vsp-product-support](https://dsva.slack.com/channels/vsp-product-support)
 - [#vsp-tools-fe](https://dsva.slack.com/channels/vsp-tools-fe)
 - [#vsp-tools-be](https://dsva.slack.com/channels/vsp-tools-be)
 
