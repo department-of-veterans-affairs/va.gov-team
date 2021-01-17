@@ -1,23 +1,36 @@
-## Q1!
+## Q1 Tentative Quarterly goals TBD
 
-Tentative Quarterly goals TBD
+### Campaign Landing Page
 
-*   VAMC system
-*   Launch X VAMCs to dual state (and full?)
-*   VAMC top task pages: 
-        *   Policies 
-        *   Editorial experience
-*   Vaccine health services
-*   IA governance 
-*   Vet Centers
-    *   Iterate on VHA health service taxonomy, prepare it for Vet Centers
-    *   Build Vet Center MVP
-*   Campaign Landing Page
-    *   Editorial experience
-    *   Train
-    *   Launch!
-*   Resources and support
-    *   TBD based on roadmap
+ *  Editorial experience
+ *  Governance post-MVP?
+ *  Train
+ *  Launch!
+
+### VAMC system
+
+ * Launch X VAMCs to dual state (and full?)
+ *  VAMC top task pages: 
+    * Policies, other?
+    * Editorial experience
+ * Vaccine health services
+ * IA governance 
+ * Iterate on training?
+ 
+### Vet Centers
+ 
+ * Iterate on VHA health service taxonomy
+ * Build Vet Center MVP
+
+### Resources and support
+
+* TBD based on roadmap
+
+### How we work
+
+* Improve collaboration with various product teams?
+* Contribute to VA design system?
+* Define services?
 
 ## Sprint 24
 
@@ -52,9 +65,7 @@ FE support?
 
 ### Benefits hubs
 
-* Intro text migration
-
-
+ * Intro text migration
 
 ## Sprint 23 (January 4 - 15 2021)
 
