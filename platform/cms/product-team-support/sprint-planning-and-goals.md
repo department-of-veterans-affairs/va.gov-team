@@ -1,6 +1,7 @@
 ## Q1!
 
-Tentative Quarterly goals, still 
+Tentative Quarterly goals TBD
+
 *   VAMC system
 *   Launch X VAMCs to dual state (and full?)
 *   VAMC top task pages: 
@@ -18,26 +19,44 @@ Tentative Quarterly goals, still
 *   Resources and support
     *   TBD based on roadmap
 
-**Sprint 24**
+## Sprint 24
 
-*   CLP editorial experience 
-    *   Proofing MVP #2265
-    *   Form design implementation
-        *   **Implement Visual guides #3910**
-    *   Defects
-        *   Form validation error
-*   VAMC
-    *   Centralized content [#3046](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3046)
-        *   VAMC Policies implementation with centralized content
-        *   Centralized content editorial experience
-    *   Collaborate with Facilities team on 3 content model changes
-        *   Appointments intro 
-        *   Policies page
-        *   “Type of care” health service taxonomy
-    *   Document content model changes ([#4027](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4027))
+### How we work
+ * Document content model changes ([#4027](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4027))
+ * Q1 planning?
+
+### Campaign Landing Page 
+
+Editorial experience 
+
+ * Content proofing MVP #2265
+ * Form design implementation
+   *  **Implement Visual guides #3910**
+   * Cropping UX spike
+
+Defects / content model rigidity
+
+  * Form validation error
+  
+FE support?
+        
+### VAMC system
+
+ * Centralized content [#3046](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3046)
+   *  VAMC Policies implementation with centralized content
+   *  Centralized content editorial experience
+ * Collaborate with Facilities team on planning 3 content model changes
+   * Appointments intro field on facility health services
+   * Policies page
+   * “Type of care” health service taxonomy
+
+### Benefits hubs
+
+* Intro text migration
 
 
-### Sprint 23 (January 4 - 15 2021)
+
+## Sprint 23 (January 4 - 15 2021)
 
 *   **Team**
     *   Ethan out week one
