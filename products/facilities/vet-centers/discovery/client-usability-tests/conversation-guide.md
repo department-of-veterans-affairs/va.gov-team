@@ -19,7 +19,7 @@ Before we get started, I want to give you an idea of what this call will be like
 - We'll start the session with a couple warm up questions.
 - Then, we'll be reviewing a prototype of a website together. Since this is just a prototype, not everything will be clickable or fully functioning.
 - Throughout the session, I'll be asking you about your thoughts and opinions about the information and content on the pages but there are no right or wrong answers. We're not testing you. We're actually testing the designs and the information contained on the pages to see how we can make them better for Veterans. So, I welcome your honest and candid feedback but if at any time you don't feel comfortable answering a question, we can simply move on to the next question. 
-- I'll be having you share your Zoom screen so that I can follow along and I'll help you through that.
+- I'll be having you share your Zoom screen so that I can follow along and I'll help you through that. 
 - First, I want to make sure your technology is ready to go for this session. Can you confirm for me what type of device you'll be using today?
     - Great, that helps me troubleshoot with you if we run into any problems.
 
@@ -52,15 +52,17 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 
 **Recording Instructions**
 
+[USER IS SHARING]
+
 Great! Thanks for working through that with me. 
 
-Finally this session will be recorded to ensure that I capture your opinions accurately. The recordings are destroyed after the call is analyzed, and none of your comments will be attributed to you directly. 
+Finally, this session will be recorded to ensure that I capture your opinions accurately. The recordings are destroyed after the call is analyzed, and none of your comments will be attributed to you directly. 
 
 **Are you comfortable if I record my screen and audio as we talk today?** 
 
  - If yes: 
  
-**Once I start recording, I will ask again to confirm that you're ok with me recording this session so that it's captured in the recording.** 
+**Once I start recording, I will ask you once again so that the confirmation is captured in the recording.** 
 
 ###### Start recording to the Cloud
 
@@ -79,7 +81,7 @@ Thanks for sharing that.
 
 ## Counseling services 
 
-For the purpose of this session, we'll be mostly focused on different types of counseling services offered at the VA, like one-on-one counseling or in a group setting.
+For the purpose of this session, we'll be mostly focused on different types of counseling and mental health services offered at the VA, like one-on-one counseling or in a group setting.
   
   - Are you familiar with mental health or counseling services that the VA provides?
 
@@ -88,11 +90,13 @@ If yes:
   - have you participated in any of these services?
   - how was that experience?
   
-Thank you for sharing that.
+Thank you for sharing that. 
   
-## Page sharing warm-up with internet search 
+## Internet search scenario
  
-I'm going to give you a scenario to consider. I'd like you to imagine that you've been going through a rough time. You'd like to talk to a professional so you're considering looking into counseling options but you're not really sure what's available.
+I'm going to give you a scenario to consider. 
+
+I'd like you to imagine that you've been going through a rough time. You're considering talking to a professional. In this scenario, imagine that this is something that you haven't done before so you're not really sure what type of resources are available to you. You decide to start your search on the internet.
 
 Imagining this situation,
 
@@ -100,11 +104,11 @@ Imagining this situation,
  - Where would you search?
  - What words would you use to get you this type of information?
  
- Ok, thank you for considering that for me.
+ Ok, thank you for considering that. I'd like you to keep this scenario in mind for the next part.
  
  ## Task #1 - Find Individual counseling services
 
-Next, I'm going to send you a link to that website to click on in the chat window inside Zoom. You may have to find that same row of buttons and find the one that says "chat" or it may be within a "more" button. As I mentioned before, it's going to look like a real web page but its actually just a prototype of a website. Because it is a prototype, it may not function quite as a normal website would. 
+I'm going to send you a link to a website to click on in the chat window inside Zoom. You may have to find that same row of buttons and find the one that says "chat" or it may be within a "more" button. As I mentioned before, it's going to look like a real web page but its actually just a prototype of a website. And because it is just a prototype, it may not function quite as a normal website would. 
 
 Building on the scenario that I just gave you. Let's imagine that as you're searching, you land on a website [this prototype] that looks promising and you want to dig a little deeper to see if this website has what you're need. Also, for purposes of this session, I'd like for you to imagine that you live in Orlando, Florida.
 
@@ -112,9 +116,10 @@ Building on the scenario that I just gave you. Let's imagine that as you're sear
 [Mobile prototype to be tested](https://preview.uxpin.com/cdd25414c3c03534b7a8ee83b89f964219565580#/pages/135469174?mode=cvhidm)
 
 _[Backup - Desktop prototype to be tested](https://preview.uxpin.com/cdd25414c3c03534b7a8ee83b89f964219565580#/pages/135469170?mode=cvhidm)_
+
 I'll give you a second to take the page in. [limit to a quick scan]
 
-Continuing with our scenario and imagining that you're looking to talk to a professional one-on-one. 
+Continuing with our scenario, imagine that you're looking to talk to a professional one-on-one. 
 
 - Can you tell me if that type of care or service is available here?
 
@@ -153,21 +158,21 @@ I'm going to change the scenario just slightly. Now imagine that you've heard go
 
 ## Understanding alternative locations
 
-- From the information available on this website, what can you tell me about the Atlanta Vet Center location?
+- From the information available on this website, what can you tell me about the Orlando Vet Center location?
 
 Let's say you're curious if this place has other locations.
 
 - What would your guess be based on the information provided?
 
-[Navigate to the locations - has not navigated on their own]
+[Navigate to the locations page if user has not navigated on their own]
 
-- In your own words how would you describe the relationship between the Atlanta location and the other locations?
+- In your own words, how would you describe the relationship between the Orlando location and the other locations?
 
 - What type of services would be available at other locations?
 
 ## Ready to visit
 
-Let's imagine that you've had a chance to learn about the Atlanta Vet Center and you're interested in one of their services
+Let's imagine that you've had a chance to learn about the Orlando Vet Center and you're interested in one of the services at the main location. Feel free to go back to the main page.
  
  - What would your next step be?
  - What else would you need to know before contacting this Vet Center?
@@ -178,7 +183,7 @@ Let's imagine that you've had a chance to learn about the Atlanta Vet Center and
 
 We're almost done. I just have a few more questions left.
 
- - In your own words, how would you describe the Atlanta Vet Center
+ - In your own words, how would you describe the Orlando Vet Center
  - How would you describe the kind of care that can you get here?
  - Are there any types of services or care that you don't think you can get here?
  - What recommendations do you have for improving this website?
