@@ -20,7 +20,8 @@ Before we get started, I want to give you an idea of what this call will be like
 - Then, we'll be reviewing a prototype of a website together. Since this is just a prototype, not everything will be clickable or fully functioning.
 - Throughout the session, I'll be asking you about your thoughts and opinions about the information and content on the pages but there are no right or wrong answers. We're not testing you. We're actually testing the designs and the information contained on the pages to see how we can make them better for Veterans. So, I welcome your honest and candid feedback but if at any time you don't feel comfortable answering a question, we can simply move on to the next question. 
 – I'll be having you share your Zoom screen so that I can follow along and I'll help you through that.
-- First, I want to make sure your technology is ready to go for this session. Can you confirm for me what type of device you'll be using today? 
+- First, I want to make sure your technology is ready to go for this session. Can you confirm for me what type of device you'll be using today?
+
     -Great, that helps me troubleshoot with you if we run into any problems.
 
 _For iPhone:_
