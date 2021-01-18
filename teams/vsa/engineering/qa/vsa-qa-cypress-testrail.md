@@ -1,5 +1,4 @@
 # VSA-QA Cypress-TestRail integration
-**[Work In Progress]**
 
 ## Who should read this?
 
@@ -71,7 +70,7 @@ Instead of checking TestRail URLs to obtain your team's Project & Suite IDs (2 k
 
 Another environment variable you'd need to set is your TestRail test cases' Group IDs (which enables filtering of your test cases).  Because of how our TestRail test cases are organized/displayed, there's a "trick" to finding the relevant ID(s) for your planned Cypress test runs.
 
-1. Go to your Team's TestRail Project. [Click a project-link in **[Project & Suite IDs](#project-&-suite-ids)** section's table above].
+1. Go to your Team's TestRail Project. [Click a project-link in **[Project & Suite IDs](#project--suite-ids)** section's table above].
 1. In the **Sections** panel:
     - Click the **View Mode** dropdown-menu and choose **Selected group only**.
     
