@@ -52,7 +52,9 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 
 **Recording Instructions**
 
-Ok, great. Now finally this session will be recorded to ensure that I capture your opinions accurately. The recordings are destroyed after the call is analyzed, and none of your comments will be attributed to you directly. 
+Great! Thanks for working through that with me. 
+
+Finally this session will be recorded to ensure that I capture your opinions accurately. The recordings are destroyed after the call is analyzed, and none of your comments will be attributed to you directly. 
 
 **Are you comfortable if I record my screen and audio as we talk today?** 
 
@@ -66,7 +68,6 @@ Ok, great. Now finally this session will be recorded to ensure that I capture yo
 
 Are you comfortable if I record my screen the audio as we talk today?" 
 
-Great! Thanks for working through that with me. 
 
 ## Warm-up Questions 
 
@@ -87,54 +88,107 @@ If yes:
   - have you participated in any of these services?
   - how was that experience?
   
-## Searching for counseling online
-
-We're going to switch gears and look at a few websites. So that I can follow along with you, would it be OK if you shared your screen with me? 
-
-We're going to start with a blank page in your web browser.
+Thank you for sharing that.
+  
+## Page sharing warm-up with internet search 
  
-I'm going to give you a scenario to consider. Imagine you have a Veteran friend who's been going through a rough time. You think this person could benefit from some mental health care or counseling. You're not exactly sure what's available but you wanted to help out by doing a little digging for them on the internet. 
+I'm going to give you a scenario to consider. I'd like you to imagine that you've been going through a rough time. You'd like to talk to a professional so you're considering looking into counseling options but you're not really sure what's available.
+
+Imagining this situation,
 
  - Can you talk me through how you might go about finding information like this on the internet?
+ - Where would you search?
+ - What words would you use to get you this type of information?
  
- (If they need more direction: What might be some common issues that you think might benefit from counseling?)
+ Ok, thank you for considering that for me.
  
- - Can you try that search for me?
- - What words or phrases would you search for to get you to some answers?
+ ## Task #1 - Find Individual counseling services
 
-## Searching for counseling on VA.gov
+Next, I'm going to send you a link to that website to click on in the chat window inside Zoom. You may have to find that same row of buttons and find the one that says "chat" or it may be within a "more" button. As I mentioned before, it's going to look like a real web page but its actually just a prototype of a website. Because it is a prototype, it may not function quite as a normal website would. 
 
-Now let's imagine that you want to see what you can find on VA.gov. You'd like to know where your friend can go to get mental health care or counseling.
+Building on the scenario that I just gave you. Let's imagine that as you're searching, you land on a website [this prototype] that looks promising and you want to dig a little deeper to see if this website has what you're need. Also, for purposes of this session, I'd like for you to imagine that you live in Orlando, Florida.
 
- - Can you talk me through how you might go about finding information like this on VA.gov?
- - Can you try that search for me?
- - What words or phrases would you search for to get you to some answers?
+
+[Mobile prototype to be tested](https://preview.uxpin.com/cdd25414c3c03534b7a8ee83b89f964219565580#/pages/135469174?mode=cvhidm)
+
+_[Backup - Desktop prototype to be tested](https://preview.uxpin.com/cdd25414c3c03534b7a8ee83b89f964219565580#/pages/135469170?mode=cvhidm)_
+I'll give you a second to take the page in. [limit to a quick scan]
+
+Continuing with our scenario and imagining that you're looking to talk to a professional one-on-one. 
+
+- Can you tell me if that type of care or service is available here?
+
+[narrate what the user did]
+
+- Tell me what's going through your mind
+- If yes, 
+   - How did this line up with your expectations 
+- If no, 
+   - Where you would expect to see that type of care?
+   - Would it go by any other name?
+- What could be improved about the way this information is presented?
+
+#### Things to watch for:
+• Where does the participant first click?
+• Does the participant know they can expand the accordions?
+ 
+## Task #2 - Find Group counseling services
+ 
+I'm going to change the scenario just slightly. Now imagine that you've heard good things about group therapy.
+
+- Can you tell me if that type of care or service is available here?
+ 
+[narrate what the user did]
+
+- Tell me what's going through your mind
+- If yes, 
+   - How did this line up with your expectations 
+- If no, 
+   - Where you would expect to see that type of care?
+   - Would it go by any other name?
+- What could be improved about the way this information is presented?
+
+#### Things to watch for:
+• Where does the participant first click?
+
+## Understanding alternative locations
+
+- From the information available on this website, what can you tell me about the Atlanta Vet Center location?
+
+Let's say you're curious if this place has other locations.
+
+- What would your guess be based on the information provided?
+
+[Navigate to the locations - has not navigated on their own]
+
+- In your own words how would you describe the relationship between the Atlanta location and the other locations?
+
+- What type of services would be available at other locations?
+
+## Ready to visit
+
+Let's imagine that you've had a chance to learn about the Atlanta Vet Center and you're interested in one of their services
+ 
+ - What would your next step be?
+ - What else would you need to know before contacting this Vet Center?
+ - Given what you know now, what might prevent you from contacting a Vet Center?
  
 
-## Prototype
+## General website questions
 
-For the last part of this session, we're going to switch gears again and look at a different webpage together. I'm going to share a link with you to click on. It's going to look like a real web page but its actually just a fake prototype of a website. 
+We're almost done. I just have a few more questions left.
 
-[Share link to prototype](http://)
+ - In your own words, how would you describe the Atlanta Vet Center
+ - How would you describe the kind of care that can you get here?
+ - Are there any types of services or care that you don't think you can get here?
+ - What recommendations do you have for improving this website?
 
-With the same scenario in mind, helping a friend, except this time I'd like for you to imagine that you did a search and you landed on this page. I'm going to give you a minute to look it over and feel free to think out loud any thoughts that come to mind.
-
- - What can you tell me about this place?
- - What kind of care or services do you think you get here?
- - What are the most important services offered here?
- - Is there any additional information that you think should be added about each service?
- - What would you be able to tell your friend about individual counseling?
- - What would you be able to tell your friend about group counseling services offered here?
- - What do you think is the relationship between the different locations listed on this page?
- - Is there any other information that you don't see that you think would be helpful or necessary before visiting?
- - What would make this website better?
-
-
+ 
 ## Post-Task Interview
 
 Those are all the questions that I had for you today. 
 
-- Do you have any questions for me?
+- Do you have any questions for me or is there anything else that you think that I should know?
 
 
 ## Thank-You and Closing 
