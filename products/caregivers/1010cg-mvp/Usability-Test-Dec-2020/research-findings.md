@@ -18,12 +18,15 @@ A task-based remote, moderated usability study was conducted via GoToMeeting bet
 ### Who we talked to
 
 - 3 Veterans
-- 1 Veteran/Caregiver
+  - 1 Veteran with PTSD 
+  - 1 Veteran with TBI 
+
+- 1 Veteran who is also a caregiver
 - 9 Caregivers
 
 - Geographically diverse (DE, VA, IN, TX, NM, IA, NY, FL, SC)
 
-- Ages of our participants ranged from 25 to 64
+- Ages of our participants ranged from 25 to 65+
 
   - 1 participants under 35
   - 6 participants 35 - 44
