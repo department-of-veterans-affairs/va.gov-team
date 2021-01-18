@@ -139,7 +139,7 @@ At least:
    - This study requires participants to screenshare, in order to click through a prototype. It will not be able to accommodate non-sighted users due to the prototype technology.
 
 
-## Timeline
+## Desired Timeline
 
 - Study dates: January 26 - 29, 2021  
 - Pilot session: will be held on Jan 25, 2021 
