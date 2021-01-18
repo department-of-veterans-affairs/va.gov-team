@@ -29,7 +29,7 @@ Will Veterans:
 
 ## Method
 
-- Sessions will combine directed interviewing (to understand participant's context and experience with VA counseling services) and usability testing, with task analysis, of a high-fidelity, mobile prototype created in UXPin. 
+- Sessions will combine directed interviewing (to understand participant's context and experience with VA counseling services) and usability testing, with task analysis, of a high-fidelity, **mobile prototype** created in UXPin. 
 - Sessions will be remotely moderated via Zoom.
  
 ## Risks and assumptions
@@ -125,6 +125,16 @@ At least:
 - 1 participant without a college degree (to include officer Vets) 
 - 1 participant living in a major metropolitan area 
 - 1 participant with a disability rating of 70% or greater 
+
+### Technical requirements
+
+- Six (6) must have a mobile device and be willing to be complete the test on said device
+   - Half of the mobile test participants (3) taking the test on an iOS mobile device
+   - Half of the mobile test participants (3) taking the test on an Android mobile device
+- Remaining participants must have a laptop/desktop and be willing to complete the test on said laptop/desktop
+- The participants have Zoom downloaded prior to the session
+- The participants are prepared to screenshare
+   - This study requires participants to screenshare, in order to click through a prototype. It will not be able to accommodate non-sighted users due to the prototype technology.
 
 
 ## Timeline
