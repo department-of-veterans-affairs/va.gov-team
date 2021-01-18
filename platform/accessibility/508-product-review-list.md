@@ -513,8 +513,6 @@ Back to [Table of Contents](#table-of-contents)
 **Open issues**
 
 - [508-defect-2 [FOCUS MANAGEMENT, SCREENREADER]: Focus on page load SHOULD be consistent - #17004](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17004)<br/>**Staging** | **Opened:** December 7, 2020 | **Severity:** 508-defect-2 — **_Serious_**
-- [508-defect-2 [COGNITION]: Heading levels SHOULD increase by one in a logical order - #16735](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16735)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** 508-defect-2 — **_Serious_**
-- [508-defect-2 [COGNITION]: Heading levels SHOULD increase by one - #16692](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16692)<br/>**Staging** | **Opened:** November 30, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [508-defect-2 [COGNITION]: Checkbox selections MUST be clear to the user on the review information page - #16997](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16997)<br/>**Staging** | **Opened:** December 7, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [508-defect-2 [COGNITION]: Error message MUST be specific to the field - #16784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16784)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [508-defect-2 [COGNITION, SCREEN READER]: Screen reader users SHOULD know there is relevant info after making a selection in the wizard - #16745](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16745)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** 508-defect-2 — **_Serious_**
@@ -677,7 +675,6 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open issues**<br/>
 
-- [[AXE-CORE]: Zoom In / Zoom Out controls MUST have their visible text as part of their accessible name](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6104)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-1 :exclamation: Launchblocker - **_Critical_**
 - [[AXE-CORE]: The Leaflet container needs a role appropriate for interactive content](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6103)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
 
 **Audit status:** _Issues logged by auditor in July 2019._<br/>
@@ -695,9 +692,7 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open issues**
 
-- [[SCREENREADER, KEYBOARD]: All elements that can be operated by a mouse MUST able to be operable by keyboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6911)<br/>**Production** | **Opened:** March 16, 2020 | **Severity:** 508-defect-1 ❗️ — **_Launchblocker_**
-- [[KEYBOARD, SCREENREADER]: Navigating by keyboard between the map and the search results MUST be intuitive with changes communicated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6897)<br/>**Production** | **Opened:** March 16, 2020 | **Severity:** 508-defect-3 — **_Minor_**
-- [[COLOR, COGNITION]: CONSIDER changing background of map attribution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6892)<br/>**Production** | **Opened:** March 16, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
+- [[KEYBOARD, SCREENREADER]: Navigating by keyboard between the map and the search results MUST be intuitive with changes communicated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6897)<br/>**Production** | **Opened:** March 16, 2020 | **Severity:** 508-defect-3 — **_Moderate_**
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -709,9 +704,7 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open issues**
 
-- [508-defect-1 ❗ Launchblocker [SCREENREADER, KEYBOARD]: Map: All elements that can be operated by a mouse MUST be operable by keyboard - #6911](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6911)<br/>**Opened:** March 16, 2020 | **Severity:** 508-defect-1 - **_Critical_**
 - [508-defect-2 [COGNITION, FOCUS MANAGEMENT]: Focus order should preserve meaning - #17448](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17448)<br/>**Opened:** December 14, 2020 | **Severity:** 508-defect-2 - **_Serious_**
-- [508-defect-2 [AXE-CORE]: Zoom In / Zoom Out controls MUST have their visible text as part of their accessible name - #6104](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6104)<br/>**Opened:** February 21, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -763,7 +756,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### New Contact Us Page
 
-**Audit status:** _[First staging review done December 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17542). Will finish the review in production in January 2021. _
+**Audit status:** _[First staging review done December 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17542). Will finish the review in production in January 2021._
 
 **Open issues**
 
