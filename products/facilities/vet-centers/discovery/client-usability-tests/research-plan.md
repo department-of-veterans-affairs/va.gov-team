@@ -1,4 +1,4 @@
-# Research Plan: Vet Center Client - Usability Test - V2 
+# Research Plan: Vet Center Detail Page - Usability Test - V2 
 
 **January 2021 Discovery**<br>
 
