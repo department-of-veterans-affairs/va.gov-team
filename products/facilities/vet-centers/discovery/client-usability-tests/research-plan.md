@@ -134,7 +134,7 @@ At least:
    - Half of the mobile test participants (3) taking the test on an iOS mobile device
    - Half of the mobile test participants (3) taking the test on an Android mobile device
 - Remaining participants must have a laptop/desktop and be willing to complete the test on said laptop/desktop
-- Participants have Zoom downloaded prior to the session
+- **Perigean:** please ensure participants have Zoom downloaded prior to the session.
 - Participants are prepared to screenshare
    - This study requires participants to screenshare, in order to click through a prototype. It will not be able to accommodate non-sighted users due to the prototype technology.
 
