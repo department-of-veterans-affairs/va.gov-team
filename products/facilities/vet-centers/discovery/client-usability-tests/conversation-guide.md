@@ -1,10 +1,11 @@
-# Conversation Guide: Vet Centers Detail Page - Usability Test
+# Conversation Guide: Vet Centers Detail Page - Usability Test - V2
 
-**ON HOLD**<br>
+**January 2021**<br>
 
 ### Setup
 
 - [ ] Notifications off
+- [ ] Enable screen sharing in Zoom
 - [ ] Manage waiting room feature in Zoom
 
 ## Intro - 3 minutes
