@@ -101,7 +101,11 @@ Test Run name is another environment variable you'd need to set, in order to dis
 - No quotes - do not use quotes to enclose the string
 - No spaces - use hyphens or underscores instead to separate words.
 
-#### Follow VSP's prodecure to complete test-run calls
+##### Filter cases
+
+Be sure to filter your test-cases (set TR_INCLUDE_ALL to false).  Your TestRail project/suite also includes manual test-cases that need to be excluded from your test-runs.
+
+##### Follow VSP's prodecure to complete test-run calls
 
 Now, just follow VSP's instructions to [set environment variables][vsp-cy-tr-env-vars] & [invoke Cypress with custom reporter options][vsp-cy-tr-optns].
 
