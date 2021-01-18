@@ -9,6 +9,12 @@
 |LOA1 user has not verfed their identity and does not have anything in-progress|User is shown a prompt to verfy their identity [[Screenshot]](https://camo.githubusercontent.com/beea6e9caf042e9355845344ee77ff41d9f74e9eccafd90cd7841431dafba9e5/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f39326332356131622d353836342d346566382d393466342d393164346265323436303439)|TBD|
 
 
+### Test cases for "First-time user experience"
+|Test case|Intended outcome|Staging User|
+|----|----|----|
+|LOA1 user has logged-in for the first time after verifying their identity |User is shown CTA's to "File a claim" or "Apply for benefits" [[Screenshot - desktop]](https://camo.githubusercontent.com/41fe574a88719a4246e8cfad0d0fc285553bea1db5ce7016b44b176e8c9576ee/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f62333263616566322d393132622d343162382d393034312d383932393861303734633632)[[Screenshot - mobile]](https://camo.githubusercontent.com/353eb938c0c8ce0932c54436ba31040022972a81cbf6d2ff355bb80cde3fad13/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f61663036396137632d616633372d343335372d383330622d653031666637666363633333)|TBD|
+
+
 ### Test cases for "LOA3"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
