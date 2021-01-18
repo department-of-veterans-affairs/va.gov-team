@@ -89,7 +89,26 @@ Do we want to remove the explicit dependency on [USWDS](https://designsystem.dig
 Despite polyfills, there is some risk of certain Web Component features not working properly in all browsers (IE 11, older versions of Edge). Due to existing polyfill support combined with the trend of users switching to more modern browsers over time, this is a low risk. If we encounter this problem, the workaround will be to avoid using whatever feature is under consideration and instead implement a solution that will yield the same results.
 
 ### Work Estimates
-_Split the work into milestones that can be delivered, put them in the order that you think they should be done, and estimate roughly how much time you expect it each milestone to take. Ideally each milestone will take one week or less._
+
+Note: These estimates do not account for time spent on other team duties such as support requests.
+
+#### Stencil Project setup with Storybook integration
+
+**Estimate:** ~3 days
+
+This has already been done as a PoC - some additional work should be done to make sure that the built version of storybook can use the Web Components
+
+#### Create new Webpack entry for Web Component loader
+
+**Estimate:** ~2 days
+
+`vets-website` should create a `wc-loader.entry.js` file that will get loaded in the `<head>` of each page.
+
+#### Develop an Accordion Web Component
+
+**Estimate**: ~4 days
+
+This will be the first WC to go live on va.gov.
 
 ### Alternatives
 
