@@ -82,3 +82,12 @@ Review page with server error after submit
 Confirmation page with show more expanded
 
 ![submit_success_expanded](community-care-flow/submit_success_expanded.png)
+
+## Email notifications
+### If scheduled on requested date:
+* Subject: Response to your VHA appointment Request.
+* Body: Your Community appointment was scheduled based upon your request.
+
+### If scheduled on different date:
+* Subject: Response to your VHA appointment Request.
+* Body: Your Community appointment has been scheduled at a time that differs from what you originally requested.
