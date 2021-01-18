@@ -28,7 +28,7 @@
 ## Sequence diagrams 
 These diagrams show the ordered flow of data and operations between systems
 
-### PPMS Provider Locator Sequence, with round trip for Provider details 
+### PPMS Provider Locator Sequence, with round trip for Provider details (Deprecated 12/2020)
 ![PPMS Provider Locator Sequence, with round trip for Provider details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/PPMS%20Provider%20Locator%20Sequence.png)
 
 ### PPMS Provider Locator Sequence, optimized v1 query
