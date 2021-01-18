@@ -65,7 +65,7 @@ Review page with server error after submit
 ![review_server_error](request-flow/review_server_error.png)
 
 Review page with VistA configuration issue after submit
-![review_config_error](request-flow/review_config_error.png
+![review_config_error](request-flow/review_config_error.png)
 
 Confirmation page
 ![confirmation](request-flow/confirmation.png)
