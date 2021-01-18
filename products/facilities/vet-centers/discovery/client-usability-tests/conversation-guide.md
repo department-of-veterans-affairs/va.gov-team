@@ -10,17 +10,49 @@
 
 ## Intro - 3 minutes
 
-Thanks for joining us today! My name is Leyda. I also have some colleagues on the line listening and taking notes.
+Thanks for joining us today! My name is Leyda. I also have some colleagues on the line observing and taking notes.
 Today we'll be discussing ideas for a new webpage that will live on the VA's website.
 
 Before we get started, I want to give you an idea of what this call will be like:
 
 - This entire session should take about 45 minutes.
 - We'll start the session with a couple warm up questions.
-- Then, I'll ask you to share your screen so that we can look at and discuss a website together and I'll help you through that.
-- Lastly, I'll share a link for you to click on. It will open a separate website that we'll also look at and discuss together. 
+- Then, we'll be reviewing a prototype of a website together. Since this is just a prototype, not everything will be clickable or fully functioning.
 - Throughout the session, I'll be asking you about your thoughts and opinions about the information and content on the pages but there are no right or wrong answers. We're not testing you. We're actually testing the designs and the information contained on the pages to see how we can make them better for Veterans. So, I welcome your honest and candid feedback but if at any time you don't feel comfortable answering a question, we can simply move on to the next question. 
-- This session will be recorded to ensure that I capture your opinions accurately. The recordings are destroyed after the call is analyzed, and none of your comments will be attributed to you directly. 
+– I'll be having you share your Zoom screen so that I can follow along and I'll help you through that.
+- First, I want to make sure your technology is ready to go for this session. Can you confirm for me what type of device you'll be using today? 
+    -Great, that helps me troubleshoot with you if we run into any problems.
+
+_For iPhone:_
+
+- OK great. When you are inside the Zoom application on your phone, you'll see a few buttons at the bottom. Audio, Video, Share content, Participants, and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "chat" and "share content." Any questions?
+- Tap ‘Share content’ (Green button at bottom middle of the screen)
+- Tap on Screen
+- Tap Zoom
+- Tap start broadcast. After a count of 3, the entire device screen will be shared into the meeting
+- Tap the red bar at the top of your screen when you are ready to end the share
+- Great, now I can see your phone screen! I'm going to begin now if that's ok with you. We will return to this in a few moments.
+_For troubleshooting screen sharing in iOS, reference the Zoom documentation here https://support.zoom.us/hc/en-us/articles/115005890803-iOS-Screen-Sharing_
+
+_For Android:_
+- OK great. When you are inside the Zoom application on your phone, you'll see a few buttons at the bottom. For instance, Share and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "chat" and "share." Any questions?
+- Tap "Share"
+- Tap "Screen"
+- May give a "sensitive info" alert
+- May ask you to give Zoom permission to display over other apps, toggle yes. The hit the back arrow . Then it might just share your screen.
+- Tap "Start now" (maybe)
+_For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen_
+
+**Backup plan if they cannot figure out how to share screen:**
+
+- Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "Drive". You will tell me what to do, what to tap, on, etc. Does that sound ok?
+- [Share your screen]. Can you confirm if you can see my screen?
+
+
+
+**Recording Instructions**
+
+Ok, great. Now finally this session will be recorded to ensure that I capture your opinions accurately. The recordings are destroyed after the call is analyzed, and none of your comments will be attributed to you directly. 
 
 **Are you comfortable if I record my screen and audio as we talk today?** 
 
@@ -34,8 +66,11 @@ Before we get started, I want to give you an idea of what this call will be like
 
 Are you comfortable if I record my screen the audio as we talk today?" 
 
+Great! Thanks for working through that with me. 
 
 ## Warm-up Questions 
+
+So, to get us started 
 
 - Can you tell me briefly about your service history?
 
@@ -43,7 +78,7 @@ Thanks for sharing that.
 
 ## Counseling services 
 
-For the purpose of this session, we'll be mostly focused on mental health care services offered at the VA. 
+For the purpose of this session, we'll be mostly focused on different types of counseling services offered at the VA, like one-on-one counseling or in a group setting.
   
   - Are you familiar with mental health or counseling services that the VA provides?
 
