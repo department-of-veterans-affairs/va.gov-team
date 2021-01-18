@@ -4,7 +4,7 @@
 
 ## Goal
 
-The goal of this study is to validate whether or not the design changes made to this prototype version improve the usability and understandability of the content for Veterans to be able to choose care at a Vet Center.
+The goal of this study is to validate whether or not the design changes made to this prototype version improve the usability and understandability of the facility detail page content to determine if Veterans have enough information to choose care at a Vet Center.
 
 [Prototype to be tested](https://preview.uxpin.com/cdd25414c3c03534b7a8ee83b89f964219565580#/pages/135469170?mode=cvhidm)
 
