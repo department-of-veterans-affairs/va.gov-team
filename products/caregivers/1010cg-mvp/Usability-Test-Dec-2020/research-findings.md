@@ -51,16 +51,17 @@ A task-based remote, moderated usability study was conducted via GoToMeeting bet
 
 ## Key Findings
 
-1. Participants encountered pain points in the form but were able to achieve the goal of applying with a selected Caregiver 
-2. A few participants were confused by the wording of the Primary Family Caregiver question (Would you like to add a Primary Family Caregiver?) 
-3. The placement and content of the additional info component confused some participants (e.g. What’s a Primary Family Caregiver?/What’s a Secondary Family Caregiver?) 
+1. Though there was some confusion, most participants were able to get through the caregiver flows with the correct information filled in 
+2. A few participants were confused by the wording of the Primary Family Caregiver question (i.e. Would you like to add a Primary Family Caregiver?) 
+3. The placement and content of the additional info component confused some participants (i.e. What’s a Primary Family Caregiver?/What’s a Secondary Family Caregiver?)
 4. Those that wanted to apply with only a secondary caregiver struggled somewhat
 4. Some participants found who can become a Secondary Family Caregiver and their role unclear 
 
 
 ## Details of Findings
 
-**1. Participants encountered pain points in the form but were able to achieve the goal of applying with a selected Caregiver**
+**1.Though there was some confusion, most participants were able to get through the caregiver flows with the correct information filled in** Overall, participants were able to navigate and complete the form correctly - filling the appropriate sections. One participant stated, “I cannot believe this is this easy, it just seems like I'm missing something. This was so easy to do. Why did I wait a year to do this?” However, there was some uncertainty over the addition of the Primary Family Caregiver question, knowing if a Veteran or caregiver should add a Primary Family Caregiver/Secondary Family Caregiver, and eligibility requirements (discussed in the following). Two participants completed the form focused on Secondary Family Caregiver only. 
+
 
 **2. Some participants were confused by the wording of the Primary Family Caregiver question (Would you like to add a Primary Family Caregiver?)** A few participants tried to enter their health care provider information in the Primary Family Caregiver fields. Relating the word “Primary” and “Caregiver” to medical professionals. One participant stated, “I misread it. I thought it said primary care doctor or physician. But I just blew through it.” Another participant added, "My primary caregiver is, that would be my doctor, right?"
 
