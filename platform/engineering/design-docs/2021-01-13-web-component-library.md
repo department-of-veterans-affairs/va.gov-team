@@ -82,11 +82,11 @@ N/A
 
 Accessibility and performance are two things that should receive lots of attention.
 
-_This section should describe design questions that have not been decided yet, research that needs to be done and potential risks that could make make this system less effective or more difficult to implement._
+Do we want to remove the explicit dependency on [USWDS](https://designsystem.digital.gov/)? Rather than explicitly relying on `uswds`, the Component library could be an abstraction for `vets-website` that implements the appropriate styles from `uswds`. A Component library complete with global styling defaults might be able to accomplish everything that `uswds` is providing.
 
-_Some examples are: Should we communicate using TCP or UDP? How often do we expect our users to interrupt running jobs? This relies on an undocumented third-party API which may be turned off at any point._
+#### Risks
 
-_For each question you should include any relevant information you know. For risks you should include estimates of likelihood, cost if they occur and ideas for possible workarounds._
+Despite polyfills, there is some risk of certain Web Component features not working properly in all browsers (IE 11, older versions of Edge). Due to existing polyfill support combined with the trend of users switching to more modern browsers over time, this is a low risk. If we encounter this problem, the workaround will be to avoid using whatever feature is under consideration and instead implement a solution that will yield the same results.
 
 ### Work Estimates
 _Split the work into milestones that can be delivered, put them in the order that you think they should be done, and estimate roughly how much time you expect it each milestone to take. Ideally each milestone will take one week or less._
