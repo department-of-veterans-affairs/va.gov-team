@@ -63,16 +63,18 @@ A task-based remote, moderated usability study was conducted via GoToMeeting bet
 **1.Though there was some confusion, most participants were able to get through the caregiver flows with the correct information filled in** Overall, participants were able to navigate and complete the form correctly - filling the appropriate sections. One participant stated, “I cannot believe this is this easy, it just seems like I'm missing something. This was so easy to do. Why did I wait a year to do this?” However, there was some uncertainty over the addition of the Primary Family Caregiver question, knowing if a Veteran or caregiver should add a Primary Family Caregiver/Secondary Family Caregiver, and eligibility requirements (discussed in the following). Two participants completed the form focused on Secondary Family Caregiver only. 
 
 
-**2. Some participants were confused by the wording of the Primary Family Caregiver question (Would you like to add a Primary Family Caregiver?)** A few participants tried to enter their health care provider information in the Primary Family Caregiver fields. Relating the word “Primary” and “Caregiver” to medical professionals. One participant stated, “I misread it. I thought it said primary care doctor or physician. But I just blew through it.” Another participant added, "My primary caregiver is, that would be my doctor, right?"
+**2. A few participants were confused by the wording of the Primary Family Caregiver question** A few participants tried to enter their health care provider information in the Primary Family Caregiver fields. Relating the word “Primary” and “Caregiver” to medical professionals. One participant stated, “I misread it. I thought it said primary care doctor or physician. But I just blew through it.” Another participant added, "My primary caregiver is, that would be my doctor, right?"
 
-Some Participants found the word “family” troubling for the Primary Family Caregiver and Secondary Family Caregiver questions, Ultimately, leading to questions around eligibility. Questions like, “Can it be a buddy?” surfaced. One Caregiver stated, “There's a lot of homeless Veterans who don't have anyone, and a lot of people who don't have family... so friends would have to help them.” 
+Some Participants found the word “family” unclear for the Primary Family Caregiver and Secondary Family Caregiver questions, Ultimately, leading to questions around eligibility. Questions like, “Can it be a buddy?” surfaced. One Caregiver stated, “There's a lot of homeless Veterans who don't have anyone, and a lot of people who don't have family... so friends would have to help them.” 
 
-**3. The placement and content of the additional info component confused some participants (e.g. What’s a Primary Family Caregiver?/What’s a Secondary Family Caregiver?)**  A few participants seemed to “skip over” the question, Would you like to add a Primary Family Caregiver? Focusing instead on the “additional information” component, What’s a Primary Family Caregiver? 
+**3. The placement and content of the additional info component confused some participants (e.g. What’s a Primary Family Caregiver?/What’s a Secondary Family Caregiver?)**  A few participants seemed to “skip over” the question, Would you like to add a Primary Family Caregiver? Focusing instead on the “additional information” component, What’s a Primary Family Caregiver?  This acted as a pain point for some participants who could not answer the question easily and accurately. 
 
 
-**4. Those that wanted to apply with only a secondary caregiver struggled somewhat** One participant hesitated on the Primary Family Caregiver page before finding the needed information within the “Additional info” component. The second participant filled out the Primary Family Caregiver information before proceeding to the Secondary Family Caregiver fields. 
+**4. Those that wanted to apply with only a secondary caregiver struggled somewhat** One participant hesitated on the Primary Family Caregiver page before finding the needed information within the “Additional info” component and proceeding with the form. They said, “Well at first it confused me, I wasn’t sure if it was asking for a secondary caregiver...I was confused by the question, but then once I went on it was very clear and once I said No it was very clear.” Another participant, found it unclear if they needed to re-enter their information in the Primary Family Caregiver sections before proceeding to the Secondary Family Caregiver fields.
 
-**5. Some participants found who can become a Secondary Family Caregiver and their role unclear** Participants had questions around the requirements for Secondary Family Caregivers. One participant stated, “Can my mother-in-law be a Secondary Family Caregiver? She lives out of state?” Another participant added, “I guess I don’t understand this designation. I know for a backup but don’t know if for example… does a secondary act as a backup are they already cleared and ready to go and they just fill in immediately?”
+
+**5. Some participants found who can become a Secondary Family Caregiver and their role unclear** Participants had questions around the requirements for a Secondary Family Caregiver. Some participants found the eligibility and required relationship between Secondary Family Caregiver and Veteran vague. “Can my mother-in-law be a Secondary Family Caregiver? She lives out of state.” Other participants were unsure of the Secondary Family Caregiver’s role. 
+“I guess I don’t understand this designation. I know for a backup but don’t know if for example… does a secondary act as a backup are they already cleared and ready to go and they just fill in immediately?”
 
 
 
@@ -105,12 +107,12 @@ Some participants found the two questions to be unnecessary. “Because it's a m
 
 ## Recommendations
 
-- Iterate on designs of Would you like to add a Primary Family Caregiver 
-- Add helpful content around the Would you like to add a Primary Family Caregiver/Secondary Family Caregiver questions (why we are asking that question) 
-- Update content in “Additional info” component 
-- Display clearly and in plain language  who can act as a Primary Family Caregiver and Secondary Family Caregiver 
-- Enable the user to enter the medical facility information confidently and correctly by redesigning page 
+- Consider changes to the placement and design of “Would you like to add a Primary Family Caregiver?” page 
+  - Add clear, plain language content explaining who can act as a Primary Family Caregiver and Secondary Family Caregiver 
+- Update content in “Additional info” components to “Learn more about Primary Family Caregiver” and “Learn more about Secondary Family Caregiver”
+- Iterate on medical facility page - Enable the user to enter the medical facility information confidently and correctly 
 - (Re)explore allowing resubmission when error is triggered 
+
 
 ## Next Steps
 
