@@ -26,6 +26,7 @@ First, read **[VSP-QA's basic process][vsp-cy-tr-reporter]** to get a general id
 ### Continue with VSA-QA help/tips
 
 Additional help info is provided below, to flesh-out the basic process.
+
 #### TestRail API Key
 
 - To log in to our [TestRail](https://dsvavsp.testrail.io/) TCMS, first obtain your Team's credentials from your Product Manager.
@@ -34,9 +35,9 @@ Additional help info is provided below, to flesh-out the basic process.
 
 #### Corresponding TestRail Objects
 
-##### projectID & suiteID
+##### Project & Suite IDs
 
-Instead of checking TestRail URLs to obtain your team's Project & Suite IDs, just refer to the table below:
+Instead of checking TestRail URLs to obtain your team's Project & Suite IDs (2 key environment variables you'd need to set), just refer to the table below:
   
 | VSA Product Team  | TestRail Project Name/Link | TestRail Project ID | TestRail Suite ID |
 | ------------- | ------------- | ------------- | ------------- |
@@ -68,9 +69,9 @@ Instead of checking TestRail URLs to obtain your team's Project & Suite IDs, jus
 
 #### TestRail Group IDs
 
-Other values you'd need are your TestRail test cases' Section or Group IDs, which will be explained below in the procedure.  Because of how our TestRail test cases are organized, there's a "trick" to finding the relevant ID(s) for your planned Cypress test runs.
+Another environment variable you'd need to set is your TestRail test cases' Group IDs (which enables filtering of your test cases).  Because of how our TestRail test cases are organized/displayed, there's a "trick" to finding the relevant ID(s) for your planned Cypress test runs.
 
-1. Go to your Team's TestRail Project [get project-name or direct project link from your PM].
+1. Go to your Team's TestRail Project. [Click a project-link in **[Project & Suite IDs](#project-&-suite-ids)** section's table above].
 1. In the **Sections** panel:
     - Click the **View Mode** dropdown-menu and choose **Selected group only**.
     
@@ -83,7 +84,7 @@ Other values you'd need are your TestRail test cases' Section or Group IDs, whic
 
 #### 4. Prepend Case IDs to E2E test titles
 
-For each .cypress.spec.js file, add the TestRail Test Case's IDs to the start of your E2E test titles.
+For each .cypress.spec.js file, prepend the TestRail Test Case's IDs to the start of your E2E test titles.
 
 <details><summary>[click to expand/collapse]</summary>
 
@@ -93,6 +94,15 @@ For each .cypress.spec.js file, add the TestRail Test Case's IDs to the start of
 </details>
 
 #### 5. Set Environment Variables & invoke Cypress
+
+##### Test Run names
+
+Test Run name is another environment variable you'd need to set, in order to distinguish different spec-files' test-runs.  Be sure to set your name-string as follows:
+
+- No quotes - do not use quotes to enclose the string
+- No spaces - use hyphens or underscores instead to separate words.
+
+#### Follow VSP's prodecure to complete test-run calls
 
 Now, just follow VSP's instructions to [set environment variables][vsp-cy-tr-env-vars] & [invoke Cypress with custom reporter options][vsp-cy-tr-optns].
 
