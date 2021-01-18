@@ -1,4 +1,4 @@
-# MyVA/Test Cases 
+# MyVA Test Cases 
 [reference doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/readme.md)
 
 ### Test cases for "LOA1"
