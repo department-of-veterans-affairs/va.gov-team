@@ -8,41 +8,42 @@ Link to product outline: [HCA Address Project](https://github.com/department-of-
 
 # Team Review Instance Testing
 
-## Feature toggle set to: On (both address questions available)
-1) Unauthenticated
-2) Authenticated with Mailing & Home in Profile
-    - Expected: Will populate both addresses in EZ
-    - Actual: 
-3) Authenticated with Mailing and Home (same as mailing) in Profile
-    - Expected: Will populate both addresses in EZ
-    - Actual: 
-4) Autheticated with Mailing Only in Profile
-    - Expected: Will populate Mailing
-    - Actual: 
-5) Authenticated with No addresses in Profile
-    - Expected: Will not populate an address
-    - Actual: 
-6) Authenticated with a Saved-in-Progress form (Address had been filled in)
-7) Authenticated with a Saved-in-Progress form (Address had not been filled in)
-8) Authenticated with a Saved-in-Progress form; user chooses to start over again
+## 01-19-2020
+- Feature toggle Off (only one address question available)
+  - Unauthenticated
+    - **Expected**: One address as with label “Mailing” sent as `veteranAddress`.
+    - **Actual**: :white_check_mark: 
+  - Authenticated
+    - With profile: containing Mailing & Home
+      - **Expected**: 
+      - **Actual**: 
+    - With profile: containing Mailing and Home (home "same as mailing")
+      - **Expected**: 
+      - **Actual**: 
+    - With profile: containing Mailing Only
+      - **Expected**: 
+      - **Actual**: 
+    - With profile: containing no addresses in Profile
+      - **Expected**: 
+      - **Actual**: 
 
-
-  
-## Feature toggle set to: Off (only one address question available)
-1) Unauthenticated
-2) Authenticated with Mailing & Home in Profile
-    - Expected: Will populate both addresses in EZ
-    - Actual: 
-3) Authenticated with Mailing and Home (same as mailing) in Profile
-    - Expected: Will populate both addresses in EZ
-    - Actual: 
-4) Autheticated with Mailing Only in Profile
-    - Expected: Will populate Mailing
-    - Actual: 
-5) Authenticated with No addresses in Profile
-    - Expected: Will not populate an address
-    - Actual: 
-
+- Feature toggle On (only one address question available)
+  - :white_check_mark: Unauthenticated
+    - **Expected**: Two address as with label “Mailing” then with “Home” sent as `veteranAddress` (mailing) and `veteranHomeAddress` (home).
+    - **Actual**: :white_check_mark:
+  - Authenticated
+    - With profile: containing Mailing & Home
+      - **Expected**: 
+      - **Actual**: 
+    - With profile: containing Mailing and Home (home "same as mailing")
+      - **Expected**: 
+      - **Actual**: 
+    - With profile: containing Mailing Only
+      - **Expected**: 
+      - **Actual**: 
+    - With profile: containing no addresses in Profile
+      - **Expected**: 
+      - **Actual**: 
 
 # QA Staging Testing
 ## Feature toggle set to: On (both address questions available)
