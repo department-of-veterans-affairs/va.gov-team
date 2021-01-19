@@ -20,6 +20,6 @@
 
 ## Long term (unprioritized) 
 - Notify Veterans/caregivers via email or text when their application status changes
-- Allow Caregivers to check their application status online
+- Allow Caregivers to check their application status online (
 - Portal to allow Veterans/caregiver to track and manage benefits
-- Allow Veterans to submit the 10-10CG from their logged-in account
+- Allow Veterans to submit the 10-10CG from a logged-in account (https://github.com/department-of-veterans-affairs/va.gov-team/issues/12111)
