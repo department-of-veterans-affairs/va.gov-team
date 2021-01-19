@@ -35,7 +35,7 @@
 ## Sprint 24
 
 ### How we work
- * Document content model changes ([#4027](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4027))
+ * **Document content model changes ([#4027](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4027))**
  * Q1 planning?
 
 ### Campaign Landing Page 
@@ -49,23 +49,25 @@ Editorial experience
 
 Defects / content model rigidity
 
-  * Form validation error
+  * Form validation error 
   
 FE support?
         
 ### VAMC system
 
- * Centralized content [#3046](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3046)
-   *  VAMC Policies implementation with centralized content
-   *  Centralized content editorial experience
+ * Launch Erie  [#3330](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3330)
+ * policies page  [#3046](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3046)
+   *  VAMC Policies implementation with centralized content  [#3275](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3275)
+   *  Centralized content editorial experience #4028 
  * Collaborate with Facilities team on planning 3 content model changes
-   * Appointments intro field on facility health services
-   * Policies page
-   * “Type of care” health service taxonomy
+   * Appointments intro field on facility health services #3840 / #17518 / #17787
+   * Policies page 
+   * “Type of care” health service taxonomy #3915 / #3275 / 
+  
 
 ### Benefits hubs
 
- * Intro text migration
+ * Intro text migration for benefits hubs (epic #1421)
 
 ## Sprint 23 (January 4 - 15 2021)
 
