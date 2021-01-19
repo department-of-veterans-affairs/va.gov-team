@@ -121,16 +121,16 @@ Anyone on the team can create a user story. All are responsible for keeping them
 - If there are new work requests or sudden changes, contact the Product Manager and ask for help to work it into the sprint
 
 #### Estimation
-We use fibonacci numbers (0, 1, 2, 3, 5, 8, 13) to account for the level of effort, complexity, and amount of unknowns in our work. Here is our guide:
+We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort, complexity, and amount of unknowns in our work. Here is our guide:
 | Number | Meaning |
 | -------| --------|
-| 0  | I know exactly what needs to be done, and I don't need to change any code.
-| 1  | I know exactly what needs to be done, and it involves changing a tiny bit of code.
-| 2  | I'm pretty sure I know what needs to be done, it's a bit complex, and it will involve creating/updating tests.
-| 3  | I have a good idea what needs to be done, but it's fairly complex, and there could be some unknowns.
-| 5  | I know what needs to be done at a high level, but is significant complexity, and there are some large unknowns.
-| 8  | I understand the concept and the goals, but there is high complexity and critical unknowns.
-| 13 | There are too many unknowns, and we'll need to break this down into smaller chunks.
+| 1  | Involves a small change
+| 2  | Non-trivial, but requires some care
+| 3  | (Baseline) Some complexity or uncertainty
+| 5  | Significant complexity or uncertainty
+| 8  | High complexity or substantial uncertainty.
+| 13 | Needs to be broken down; too large for one sprint; critical unknowns. 
+
 
 #### User story validation
 - All team members are responsible for validation, but different team members will specialize in different areas.
