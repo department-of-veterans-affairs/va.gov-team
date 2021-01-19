@@ -7,6 +7,8 @@ _The purpose of this document is for designers, PMs, and engineers to align earl
 Link to product outline: [HCA Address Project](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/10-10ez-address-project/project-outline.md)
 
 # Team Review Instance Testing (1-19-21)
+see: https://dsva.slack.com/archives/CMJ2V70UV/p1610657723008300
+
 
 ## Feature toggle set to: Off (only one address question available)
 1) Unauthenticated
@@ -32,7 +34,7 @@ Link to product outline: [HCA Address Project](https://github.com/department-of-
 2) Authenticated with Mailing & Home in Profile (user 112) 
       - **Expected**: Address labled "Mailing" populated by mailing address in profile "same as mailing" question defaulted to "no" - Address labled as "Home" populated by home address in profile.
       - **Actual**: :warning: Functions as expected with bugs in below scenarios.
-      - :beetle: When an application is saved in progress, and you "starting a new application", the EZ only asks for one address ("Mailing") (when you refresh the page, the EZ asks for two addresses, but they are not populated by profile). Tested with user 108 and 109. Was able to consistantly reproduce. The feature toggle was on through all of these testing scenarios. This save-in-progress form was created with the latest version of code and with feature toggle on.
+      - :beetle: When an application is saved in progress, and you "starting a new application", the EZ only asks for one address ("Mailing") (when you refresh the page, the EZ asks for two addresses, but they are not populated by profile). Tested with user 108 and 109. Was able to consistantly reproduce. The feature toggle was on throughout these tests. This save-in-progress form was created with the latest version of code and with feature toggle on.
 3) Authenticated with Mailing and Home (same as mailing) in Profile
       - **Expected**: 
       - **Actual**: 
