@@ -47,6 +47,13 @@ New content type is added, replacing functionality currently fulfilled by a diff
 * Top task page (Q1 2021)
 * Content listing pages (Q1 2020)
 
-## When to use feature flags, "if prod", etc
+## Feature flags
 
-_Needs more discussion_
+[needs clarification / more writing]
+
+Feature flags are prefereable over `if prod` statements in vets-website templates, because they allow CMS (eg in Tugboat demo environments) to specify what flag to use. 
+
+That way, when new products being tested in demo environments, they can show content the way it will be shown when released on prod, rather than what may appear in future when the `if prod` gets removed. 
+
+
+
