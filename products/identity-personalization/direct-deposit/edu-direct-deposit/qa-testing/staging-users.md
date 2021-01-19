@@ -4,8 +4,6 @@ Please refer to the [staging user information in the sensitive repo](https://git
 
 ### Historical notes -- please do not delete
 
-#### Latest update
-
 - The only staging user we have for direct deposit for edu is vets.gov.user+378@gmail.com. 
   - This actually started out as user vets.gov.user+3@gmail.com, but this user has a different SSN in eBenefits and VA.gov, which meant the identities weren't synced on the backend and we couldn't view dd for edu info for this user in VA.gov even though we could on eBenefits. So, we set up a new user – vets.gov.user+378@gmail.com — that has almost all the same info as vets.gov.user+3@gmail.com (first/middle/last name; gender; DOB), but the SSN matches eBenefits, so we can view DD for edu info on VA.gov.
 
