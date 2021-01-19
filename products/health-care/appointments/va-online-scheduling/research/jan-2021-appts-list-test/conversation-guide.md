@@ -92,6 +92,9 @@ As I mentioned earlier, this is a demo tool that may not function exactly the wa
         * Video appointment
         * Express care / phone
         * Canceled
+        
+* If they haven't noticed the back to top button:
+    * Tell me about the rectangle on the side of the screen. What is that for, if anything?
       
 ### Task 2 - Find appointment details
 
