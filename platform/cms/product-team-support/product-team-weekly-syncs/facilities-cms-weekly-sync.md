@@ -28,7 +28,7 @@
 - update on GraphQL limit testing
 
 Content model changes
-- Review shared documentation for content model changes 
+- [Review shared documentation for content model changes](https://dsva.slack.com/archives/CDHBKAL9W/p1610492404381400)
 - VAMC health service appointments intro text
   - 100% additive 
   - will get slightly refactored at some point once we make the default text editable by a CMS editor 
