@@ -14,9 +14,8 @@
  *  VAMC top task pages: 
     * Policies, other?
     * Editorial experience
- * Vaccine health services
+ * Vaccine health services - Service location data (phone numbers, etc)
  * IA governance 
- * Iterate on training?
 </details>
 
 <details><summary>Vet Centers</summary>
