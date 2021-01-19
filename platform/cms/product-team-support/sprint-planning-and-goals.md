@@ -26,7 +26,17 @@
 
 <details><summary>Resources and support</summary>
 
+* Video editorial experience (blocked by D9)
+* Search based on tag
 * TBD based on roadmap
+
+</details>
+
+<details><summary>Localization</summary>
+
+* TBD
+* There will be CMS Core / Product team collaboration on this initiative
+
 </details>
 
 <details><summary>How we work</summary>
