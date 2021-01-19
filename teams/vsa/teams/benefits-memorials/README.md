@@ -44,7 +44,11 @@ We are within days/weeks of launching.  This product has been in work for almost
 This is our flagship product.  We have seen that our error rate drop from 20% to 8% but we still have some critical fixes to get us to 100%. The team agrees that focusing on 526 before new work is brought on is the ideal scenario.  However, we have Notice of Disagreement.
   - This will never be zero and we need to find time for at least two engagements a week
   - Continued major issue with 526 being fixed
+  - Two types of errors - submission and presubmission and 
   
+## Letters
+We are still potentially having some issues there.  We need to revisit letters health soon.
+
 ## Veteran (Call Center) Support
 Related to 526 health (and in some ways Claims Status Tool) the traffic from Call Center has died down.  This is likely not due to less calls from veterans (although we do hope there has been a reduction) and most likely due no longer receiving them from call center.
   - Has not been prioritized for a while, likely time to have another look at customer support calls
@@ -60,6 +64,11 @@ This is a customer that has a direct line to the secretary's office and we have 
   - Fell down the priority list, however we have been making file upload fixes
   
 ## Supplemental Claims
+Not even on our radar at the moment.  NOD 100% if we are doing new work.
+  
+## IDES
+Like BDD (somewhat).  Not on the radar for 2021
+
 
 
 # Team Info
