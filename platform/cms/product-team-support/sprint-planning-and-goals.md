@@ -79,8 +79,9 @@ FE support #3785
    *  Centralized content editorial experience #4028 
       * 
  * Collaborate with Facilities team on planning 3 content model changes
-   * Appointments intro field on facility health services #3840 / #17518 / #17787
-   * Policies page 
+   * Centralized content
+     * VAMC Policies page 
+     * Appointments intro field on facility health services 
    * “Type of care” health service taxonomy #3915 / #3275 / 
   
 
