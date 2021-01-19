@@ -10,15 +10,15 @@
 
 ### Objective
 
-The goal is to establish a component library based on Web Components, which are a browser standard. This will supercede the current `formation-react` library and some of the liquid HTML template currently in `vets-website`. A non-goal is creating an entirely new visual experience as part of the component library.
+The goal is to establish a component library based on Web Components, which are a browser standard. This will supercede the current `formation-react` library and some of the liquid HTML templates currently in `vets-website`. A non-goal is creating an entirely new visual experience as part of the component library.
 
 The intended audience for this document is frontend engineers.
 
 ### Background
 
-We currently have some "components" implemented in HTML/CSS (and sometimes JS) in the `formation` npm package. These can be used anywhere where `formation` is loaded. We also have `formation-react`, which is a package with some of those patterns implemented as React components. These canonly be used in React apps. Lastly, in `vets-website` we have some Liquid templates which implement some of the components/patterns of the design system, and these are only used for content builds.
+We currently have some "components" implemented in HTML/CSS (and sometimes JS) in the `formation` npm package. These can be used anywhere where `formation` is loaded. We also have `formation-react`, which is a package with some of those patterns implemented as React components. These can only be used in React apps. Lastly, in `vets-website` we have some Liquid templates which implement some of the components/patterns of the design system, and these are only used for content builds.
 
-_The background section should contain information the reader needs to know to understand the problem being solved. This can be a combination of text and links to other documents._
+Maintaining multiple sources of truth is a burden for all teams involved and leads to wasted time.
 
 ### High Level Design
 
@@ -40,8 +40,6 @@ This WC-specific branch will use [Stencil](https://stenciljs.com/) as a tool to 
 One of the additional benefits of Web Components is how they can be styled. Each Component can have its own styles scoped to its [shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM) (this means that if a Component renders a `<div>`, the CSS can broadly style the `div` node without worrying about it affecting all the other `<div>`s on the page). As a result, each component will have it's own CSS file which also makes use of global [CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties).
 
 Once in `vets-website`, the setup code for the WC library will be in its own entry file that is loaded on each page. In addition, this script will be one of the first loaded in order to ensure that the Components will be defined in the browser before they are rendered on the page.
-
-_Here's an easy rule of thumb for deciding what to write here: Think of anything that would be a pain to change if you were requested to do so in a code review. If you put that implementation detail in here, you'll be less likely to be asked to change it once you've written all the code._
 
 ### Code Location
 
