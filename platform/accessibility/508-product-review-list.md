@@ -95,6 +95,8 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     - [VSA Search and Discovery](#vsa-search-and-discovery)
       - [Search Typeahead](#search-typeahead)
     - [COVID-19 Vaccine Trial Registry](#covid-19-vaccine-trial-registry)
+    - [VSA Content Localization](#vsa-content-localization)
+      - [VSA Translations Spanish Corona](#vsa-translations-spanish-corona)
     - [New Project Name](#new-project-name)
 
 ## Helpful links
@@ -997,7 +999,7 @@ Back to [Table of Contents](#table-of-contents)
 - [508-defect-2 [COGNITION]: Links MUST NOT rely on color - #18442](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18442)<br/>**Production** | **Opened:** January 13, 2021 | **Severity:** _508-defect-2 - **Serious**_
 - [508-defect-2 [COGNITION]: Find Form Results - Spanish content must include a lang="ES" attribute for proper pronunciation with assistive technology - #18434](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14432)<br/>**Production** | **Opened:** January 13, 2021 | **Severity:** _508-defect-2 - **Serious**_
 - [508-defect-2 [SCREENREADER]: Headings should be used semantically - 18429](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18429)<br/>**Production** | **Opened:** January 13, 2021 | **Severity:** _508-defect-2 - **Serious**_
-- [508-defect-2 [COGNITION, SCREENREADER]: Lists SHOULD be announced as lists - 18415](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18415)<br/>**Production** | **Opened:** January 13, 2021 | **Severity:** _508-defect-2 - **Serious**_
+- [508-defect-3 [COGNITION, SCREENREADER]: Lists SHOULD be announced as lists - 18415](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18415)<br/>**Production** | **Opened:** January 13, 2021 | **Severity:** _508-defect-2 - **Serious**_
 - [sitewide 508-defect-2 [COGNITION, SCREENREADER]: Pagination SHOULD use meaningful landmarks and aria techniques - 18398](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18398)<br/>**Production** | **Opened:** January 13, 2021 | **Severity:** _508-defect-2 - **Serious**_
 - [sitewide 508-defect-2 [COGNITION, SCREENREADER]: Heading should read as a single item - 18389](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18389)<br/>**Production** | **Opened:** January 13, 2021 | **Severity:** _508-defect-2 - **Serious**_
 - [508-defect-3 [COGNITION]: Links SHOULD be styled as links - 18395](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18395)<br/>**Production** | **Opened:** January 13, 2021 | **Severity:** _508-defect-3 - **Minor**_ 
@@ -1148,6 +1150,26 @@ Back to [Table of Contents](#table-of-contents)
 - [508-defect-4 [COGNITION]: COVID Vaccine Trials - Consider making the confirmation page's first H2 the H1 for user clarity - #18273](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18273)<br/>**Opened:** January 7, 2021 | **Severity:** 508-defect-4 - **_Trivial_**
 - [508-defect-4 [COGNITION]: COVID Vaccine Trials - 711 link aria-label repeats "TTY" for screen readers - #18274](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18274)<br/>**Opened:** January 7, 2021 | **Severity:** 508-defect-4 - **_Trivial_**
 - [[DESIGN] COVID Vaccine Trials - MacOS Safari cuts off the focus halo when accordions are opened - #18275](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18275)<br/>**Opened:** January 7, 2021
+
+Back to [Table of Contents](#table-of-contents)
+
+---
+### VSA Content Localization
+
+#### VSA Translations Spanish Corona
+
+**Audit Status:** _Staging review by VSA on January 18, 2021_<br/>
+**Open issues**
+
+- [508-defect-1 ❗ Launchblocker [SCREENREADER, COGNITION]: Language of page MUST be set to ES - 18626](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18626)<br/>**Opened:** January 18, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+- [508-defect-1 ❗ Launchblocker [SCREENREADER, COGNITION]: Language of parts in English MUST be set to EN - 18698](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18698)<br/>**Opened:** January 18, 2021 | **Severity:** 508-defect-1 - **_Critical_**
+- [508-defect-2 [COGNITION]: Heading level should only increase by one - 18627](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18627)<br/>**Opened:** January 18, 2021 | **Severity:** 508-defect-2 - **_Serious_**
+- [508-defect-2 [SCREENREADER]: On this page navigation should use <nav> instead of <section> - 18628](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18628)<br/>**Opened:** January 18, 2021 | **Severity:** 508-defect-2 - **_Serious_**
+- [508-defect-2 [SCREENREADER, KEYBOARD]: Complementary information should be contained in an aside - 18694](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18694)<br/>**Opened:** January 18, 2021 | **Severity:** 508-defect-2 - **_Serious_**
+- [508-defect-2 [COGNITION, SEMANTIC MARKUP] The link text MUST make sense in context, and should make sense when taken out of context - 18696](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18696)<br/>**Opened:** January 18, 2021 | **Severity:** 508-defect-2 - **_Serious_**
+- [508-defect-2 [COGNITION]: Links MUST NOT rely on color - 18705](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18705)<br/>**Opened:** January 18, 2021 | **Severity:** 508-defect-2 - **_Serious_**
+- [508-defect-4 [SCREENREADER]: Purely presentational down arrow icons SHOULD be hidden to screen reader users - 18704](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18704)<br/>**Opened:** January 18, 2021 | **Severity:** 508-defect-4 - **_Minor_**
+  
 
 Back to [Table of Contents](#table-of-contents)
 
