@@ -25,7 +25,11 @@ The goal is to help understand how much rigidity and alternatively flexibility i
 
 | Tier 1-2-3 Content | Resources & Support | Campaign Landing Page |
 |--|--|--|
-|- **Tier 1 Content** - Benefit content and tools (applying for benefits, accessing benefit tools to manage your existing benefits) for beneficiaries, including Veterans, family members, service members <br> - **Tier 2 Content** - Benefit-adjacent content (for beneficiaries, and people who work with beneficiaries) <br> - **Tier 3 Content** - Organizational/administrative/office content | Resources & Support is reserved for "how-to" and learning content | A Campaign Landing page is reserved for |
+|- **Tier 1 Content** - Benefit content and tools (applying for benefits, accessing benefit tools to manage your existing benefits) for beneficiaries, including Veterans, family members, service members <br> - **Tier 2 Content** - Benefit-adjacent content (for beneficiaries, and people who work with beneficiaries) <br> - **Tier 3 Content** - Organizational/administrative/office content | Resources & Support is reserved Tier 2 Content that includes benefit learning, knowledge, help, and support content categories.| A Campaign Landing page is reserved for Tier 2 content that is more similar to marketing or engagement content.  Use cases for a campaign landing page include:
+<br> - Veteran "awareness" public information campaigns - e.g.,Veterans wear your mask campaign, Veterans get your flu shot campaign, VHA covid 19 research recruitment campaign
+<br> - It may also have audiences other than Veterans (for example: local governments, Congress, VSOs, medical researchers).
+<br> - It may also be time based in nature, like a particular campaign (#BeThere) or a new legislation change (MISSION Act).
+
 
 
 
