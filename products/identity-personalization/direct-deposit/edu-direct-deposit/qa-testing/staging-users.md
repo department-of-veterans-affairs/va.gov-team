@@ -1,10 +1,8 @@
-# Staging users
+Please refer to the [staging user information in the sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-direct-deposit.md).
 
-### Test cases
+-----
 
-- For test cases, we can probably use most of the same test cases we used for direct deposit for comp & pen testing. We'll need to review
-
-### Users
+### Historical notes -- please do not delete
 
 #### Latest update
 
