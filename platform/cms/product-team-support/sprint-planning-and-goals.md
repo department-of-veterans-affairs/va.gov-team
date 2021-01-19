@@ -1,4 +1,4 @@
-## Q1 Tentative Quarterly goals TBD
+## Q1 Tentative Quarterly goals 
 
 <details><summary>Campaign Landing Page</summary>
 
