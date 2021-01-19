@@ -37,6 +37,7 @@ You should have received some instructions about installing the VA mobile app. W
 
 - If yes: [Go to Warm Up](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/round-2/discussion-guide.md#warm-up-5-minutes)
 - If no: No problem. Would it be ok for me to help you get that set up?
+  - If no: No problem. What I can do is show you the app on my screen and get your feedback that way. Why don't you stop sharing and I will do the sharing. (Share demo and [go to Warm Up](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/round-2/discussion-guide.md#warm-up-5-minutes)).
 
 #### [Optional] - Help set up prototype app
 
