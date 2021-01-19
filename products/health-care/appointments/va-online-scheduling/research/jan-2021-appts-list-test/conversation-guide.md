@@ -71,7 +71,7 @@ As I mentioned earlier, this is a demo tool that may not function exactly the wa
 
 `Start Task 1 when screen is shared`
 
-### Task 1 - SL Page - Usefulness of information
+### Task 1 - SL Page - Scannability
 
 * First, take a look at this page, scroll around. Tell me what this page is for and what you think you can do here. Share any thoughts, questions, or things that you find confusing or helpful.  
 
