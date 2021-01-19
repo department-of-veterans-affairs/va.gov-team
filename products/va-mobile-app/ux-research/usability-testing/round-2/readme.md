@@ -9,8 +9,8 @@ We’ll do two types of testing after our internal release around January 2021:
 
 Some key details:
 - We will test directly on mobile devices
-- We will test with both Apple & Android users
-- We will provide participants with set up instructions & ask Perigean to help facilite setup of app prototypes prior to sessions
+- We will test with **Android** users
+- We will facilite setup of app prototype via an APK file **during** research sessions.
 
 
 ### Method 2: Unmoderated, passive request for feedback from a TBD number of VA employees
