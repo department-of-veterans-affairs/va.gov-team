@@ -16,7 +16,7 @@ Link to product outline: [HCA Address Project](https://github.com/department-of-
   - Authenticated
     - With profile: containing Mailing & Home (user vets.gov.user+110@gmail.com)
       - **Expected**: One address labled "Mailing" populated by mailing address in profile
-      - **Actual**: :white_check_mark: As expected. "same as mailing" default to "no" 
+      - **Actual**: :white_check_mark: As expected. "same as mailing" question defaults to "no" 
     - With profile: containing Mailing and Home (home "same as mailing")
       - **Expected**: 
       - **Actual**: 
