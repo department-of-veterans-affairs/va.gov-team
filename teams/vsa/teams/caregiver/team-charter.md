@@ -110,11 +110,13 @@ Anyone on the team can create a user story. All are responsible for keeping them
 - For a task to be in **"Validate"** 
    - All work related to the ticket is implemented
    - Acceptance criteria have been met
-   - Work is accessible in staging and ready to ship to production 
+   - Work is accessible in a review instance and ready for internal team members to review
 
 - For a task to be **"Done"** 
-   - Validation has occured
-   - Each ticket's last comment before closing should reflect when validation has occurred and by whom. 
+   - Internal validation has occured
+   - Merged to master
+   - Each ticket's last comment before closing should reflect when validation has occurred and by whom
+   - Any next steps (turning on in Production, stakeholder review, follow up tickets) have been documented
 
 - If there are new work requests or sudden changes, contact the Product Manager and ask for help to work it into the sprint
 
