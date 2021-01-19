@@ -58,7 +58,7 @@ Slack - #va-notify
 
 | Communication Channel      | Unit Price    | Messages per AWS credit |
 |:---------------------------|:--------------|:------------------------|
-| Email                      | $0.0001/email |9700 emails per credit   |
+| Email [AWS]                | $0.0001/email |9700 emails per credit   |
 | SMS [inbound and outbound] | $0.0075/SMS   |129.33 SMSs per credit   |
 
 <br>
