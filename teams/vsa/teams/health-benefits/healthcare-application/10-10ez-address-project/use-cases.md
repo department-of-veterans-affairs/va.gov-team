@@ -22,7 +22,11 @@ Link to product outline: [HCA Address Project](https://github.com/department-of-
 5) Authenticated with No addresses in Profile
     - Expected: Will not populate an address
     - Actual: 
-    
+6) Authenticated with a Saved-in-Progress form (Address had been filled in)
+7) Authenticated with a Saved-in-Progress form (Address had not been filled in)
+8) Authenticated with a Saved-in-Progress form; user chooses to start over again
+
+
   
 ## Feature toggle set to: Off (only one address question available)
 1) Unauthenticated
