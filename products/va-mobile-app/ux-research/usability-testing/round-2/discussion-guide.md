@@ -3,8 +3,7 @@
 January 2021
 
 ## Introduction & Logistics (5 minutes)
-Thank you for joining us today. My name is Bridget and I also have some colleagues on the line observing and taking notes. The VA has built a mobile app. I am working with the VA to make the app easy to use so it will best meet the needs of Veterans like you. Today, I’d like to share the app with you and see what you think about it. To do that, I will ask you to sign into the app using your own DS Logon, My HealtheVet, or ID.me username and password. You will also need access to your email on your phone.
-Do you have any questions so far?
+Thank you for joining us today. My name is Bridget and I also have some colleagues on the line observing and taking notes. The VA has built a mobile app. I am working with the VA to make the app easy to use so it will best meet the needs of Veterans like you. Today, I’d like to share the app with you and see what you think about it. To do that, I will ask you to sign into the app using your own DS Logon, My HealtheVet, or ID.me username and password. Do you have any questions so far?
 
 Before we start, there are a few things I want to mention:
 - Our conversation should take a little under an hour.
@@ -31,21 +30,13 @@ Tap on the arrow that says "Share content".
 
 Great, now I can see your phone screen! Thank you for your patience in figuring this out with me so we can look at the VA app together today. 
 
-#### Step 3 - Set up prototype app 
-Ok, do you have access to your email on your phone? 
+#### Step 3 - Set up prototype app on Android
+Now we're going to install the VA mobile app on your phone. It takes a few steps. I'm going to send you a link to a file in the Zoom chat will install the app. Does that sound ok to you? 
 
-- If no: No problem. So I think what will be the easiest is for me to show you the app on my screen and get your feedback that way. Why don't you stop sharing and I will do the sharing. (Share demo and [go to Warm Up](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/round-2/discussion-guide.md#warm-up-5-minutes)).
-
-- If yes: Follow instructions below. If participant gets stuck or frustrated offer to show them demo and discontinue set up.
-
-##### Android App Setup:
-Great. It takes a few steps. What we're going to do is check your email for an invite, download a file, and then install the VA Mobile app. Does that sound ok to you? 
-
-- Let's check your email. You should have an email from [placeholder]. There will be a link to a Google Drive folder. In that folder will be an .APK file. That file is the VA mobile app that can be downloaded locally onto your phone. 
-- Go ahead and open the APK app file in Google Drive and tap Download. 
-- Good. The file will be too big for virus scanning, but tap Download anyway.
+- Good. Down at the bottom of Zoom you should see a speech bubble with the word Participants and a red number 1. Tap on that to open the chat.
+- Great. Tap on the "Download" button to download the file.
 - Once the file has downloaded to your phone (this might take a few minutes), open it and select Install. 
-- You may need to change your phone’s security settings to allow the app to successfully install. Turn on Allow from this source to allow installation. If that's not something you are comfortable with I understand.
+- You may need to change your phone’s security settings to allow the app to successfully install. Turn on Allow from this source to allow installation. 
 - Now it's installed. You should see it on your phone's home screen labeled VA Mobile with an Android icon.
 
 Great. Thank you for bearing with me on getting everything up and running. Now we're really ready to begin!
