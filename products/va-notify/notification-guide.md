@@ -18,7 +18,7 @@ The best way to determine if a notification is appropriate for a scenario is to 
 ## How do I choose the best communication channel?
 Once it is confirmed that a notification is an appropriate interaction for Veterans and the business objective, the next step is to choose whether an email, text message, or other notification type is best for the scenario.
 
-**TODO: insert decision graphic**
+![](images/notification-channel-guide.jpg)
 
 **What type of communication type are you considering?**
 * Confirmation
