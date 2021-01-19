@@ -129,13 +129,13 @@ As I mentioned earlier, this is a demo tool that may not function exactly the wa
 
 * Move your upcoming appointment to Friday afternoon.
 
+## Thank-You and Closing
+
 Thank you for working through that with me. I just have a few more questions before we break.
 
 * Is there any other feedback you would like to share?
 
 * Do you have any other questions for me?
-
-## Thank-You and Closing
 
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
