@@ -2,8 +2,8 @@
 name: Analytics User Survey - Request Template
 about: To request the adding the Medallia Survey to your product
 title: User Survey Request for [Team]
-labels: analytics-insights, analytics-request, medallia
-assignees: joanneesteban
+labels: VSP-contact-center, medallia
+assignees: jwoodman5
 
 ---
 
