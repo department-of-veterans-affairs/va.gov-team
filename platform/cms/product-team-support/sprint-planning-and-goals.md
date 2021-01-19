@@ -50,21 +50,25 @@ Editorial experience
 
  * Content proofing MVP #2265
  * Form design implementation
+   * Field labels and field descriptions for text fields #3916
    *  **Implement Visual guides #3910**
-   * Cropping UX spike
-
+   * Cropping UX spike #3969
+   * Improve VA Benefits selector #3925
+   * Placeholder for additional editorial experience improvements 
+   
 Defects / content model rigidity
 
-  * Form validation error 
+ * Form validation error #4024
   
-FE support?
+FE support #3785
         
 ### VAMC system
 
  * Launch Erie  [#3330](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3330)
- * policies page  [#3046](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3046)
+ * Policies page  [#3046](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3046)
    *  VAMC Policies implementation with centralized content  [#3275](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3275)
    *  Centralized content editorial experience #4028 
+      * 
  * Collaborate with Facilities team on planning 3 content model changes
    * Appointments intro field on facility health services #3840 / #17518 / #17787
    * Policies page 
