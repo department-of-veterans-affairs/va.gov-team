@@ -12,7 +12,7 @@ Link to product outline: [HCA Address Project](https://github.com/department-of-
 - Feature toggle Off (only one address question available)
   - Unauthenticated
     - **Expected**: One address as with label “Mailing” sent as `veteranAddress`.
-    - **Actual**: :white_check_mark: 
+    - **Actual**: :white_check_mark: As expected.
   - Authenticated
     - With profile: containing Mailing & Home (user vets.gov.user+110@gmail.com)
       - **Expected**: One address labled "Mailing" populated by mailing address in profile
