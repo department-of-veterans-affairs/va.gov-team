@@ -2,7 +2,7 @@
 name: Environment Access Request
 about: To request access to dev tools
 title: Access for [individual]
-labels: external-request, operations
+labels: external-request, operations, access-request
 assignees: ''
 
 ---
