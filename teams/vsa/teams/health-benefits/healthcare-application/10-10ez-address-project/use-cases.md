@@ -8,7 +8,10 @@ Link to product outline: [HCA Address Project](https://github.com/department-of-
 
 # Team Review Instance Testing
 
-## 01-19-2020
+## 01-19-2020 (RI)
+see: https://dsva.slack.com/archives/CMJ2V70UV/p1610657723008300
+
+## 01-19-2020 (RI:d33cfa4f37149dfcdc9d710a11eb2770)
 - Feature toggle Off (only one address question available)
   - Unauthenticated
     - **Expected**: One address as with label “Mailing” sent as `veteranAddress`.
