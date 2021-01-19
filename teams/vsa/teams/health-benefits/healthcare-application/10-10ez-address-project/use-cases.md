@@ -28,7 +28,7 @@ Link to product outline: [HCA Address Project](https://github.com/department-of-
       - **Actual**: 
 
 - Feature toggle On (only one address question available)
-  - :white_check_mark: Unauthenticated
+  - Unauthenticated
     - **Expected**: Two address as with label “Mailing” then with “Home” sent as `veteranAddress` (mailing) and `veteranHomeAddress` (home).
     - **Actual**: :white_check_mark:
   - Authenticated
