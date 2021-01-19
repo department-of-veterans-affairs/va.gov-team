@@ -48,7 +48,7 @@ Great. It takes a few steps. What we're going to do is check your email for an i
 - You may need to change your phone’s security settings to allow the app to successfully install. Turn on Allow from this source to allow installation. If that's not something you are comfortable with I understand.
 - Now it's installed. You should see it on your phone's home screen labeled VA Mobile with an Android icon.
 
-Great. Thank you for bearing with me on getting everything up and running. It's a lot more steps to install a demo app, and so I am glad you stuck with me on all of them. Now we're really ready to begin!
+Great. Thank you for bearing with me on getting everything up and running. Now we're really ready to begin!
 
 ## Warm Up (5 minutes)
 Before we dive into the app, I’d love to want to learn more about you.
