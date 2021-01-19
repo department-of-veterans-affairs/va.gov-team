@@ -34,7 +34,8 @@ Link to product outline: [HCA Address Project](https://github.com/department-of-
   - Authenticated
     - With profile: containing Mailing & Home (user 112) 
       - **Expected**: Address labled "Mailing" populated by mailing address in profile "same as mailing" question defaulted to "no" - Address labled as "Home" populated by home address in profile.
-      - **Actual**: :white_check_mark: As expected. 
+      - **Actual**: :warning: Functions as expected with bugs in below scenarios.
+        - :beetle: When an application is saved in progress, and you "starting a new application", the EZ only asks for one address ("Mailing") (when you refresh the page, the EZ asks for two addresses, but they are not populated by profile). Tested with user 108 and 109. Was able to consistantly reproduce. The feature toggle was on through all of these testing scenarios. This save-in-progress form was created with the latest version of code and with feature toggle on.
     - With profile: containing Mailing and Home (home "same as mailing")
       - **Expected**: 
       - **Actual**: 
