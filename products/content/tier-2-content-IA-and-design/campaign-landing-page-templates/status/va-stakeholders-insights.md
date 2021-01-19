@@ -25,14 +25,7 @@ The goal is to help understand how much rigidity and alternatively flexibility i
 
 | Tier 1-2-3 Content | Resources & Support | Campaign Landing Page |
 |--|--|--|
-|- **Tier 1 Content** - Benefit content and tools (applying for benefits, accessing benefit tools to manage your existing benefits) for beneficiaries, including Veterans, family members, service members <br> - **Tier 2 Content** - Benefit-adjacent content (for beneficiaries, and people who work with beneficiaries) <br> - **Tier 3 Content** - Organizational/administrative/office content
-
-| Resources & Support is reserved for "how-to" and learning content   
-
-
-
-
-| A Campaign Landing page is reserved for |
+|- **Tier 1 Content** - Benefit content and tools (applying for benefits, accessing benefit tools to manage your existing benefits) for beneficiaries, including Veterans, family members, service members <br> - **Tier 2 Content** - Benefit-adjacent content (for beneficiaries, and people who work with beneficiaries) <br> - **Tier 3 Content** - Organizational/administrative/office content | Resources & Support is reserved for "how-to" and learning content | A Campaign Landing page is reserved for |
 
 
 
