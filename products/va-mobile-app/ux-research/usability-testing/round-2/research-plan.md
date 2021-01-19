@@ -1,6 +1,6 @@
 # Research Plan for Mobile App User Testing
 
-January 6, 2021
+January 19, 2021
 
 ## What product & team?
 VA Mobile App
@@ -9,7 +9,7 @@ VA Mobile App
 The VA Mobile App team is conducting testing to understand usability obstacles, ask questions, and get feedback from Veterans on an MVP mobile app we are developing. The outcome of this testing will inform any necessary immediate adjustments and also potential future improvements. 
 
 ### Background
-The VA Mobile App team has designed and built a MVP mobile app that can be used on iOS and Android devices. We would like to test this app with users to answer the following questions:
+The VA Mobile App team has designed and built a MVP mobile app. We would like to test this app with users to answer the following questions:
 
 **Sign In**
 - What usability obstacles exist with the sign in flow?
@@ -48,13 +48,15 @@ We will use the Perigean zoom account.
 - We will be testing a live code prototype of a mobile app.
 - We will be asking Veterans to sign into the app using their own MHV, DS Logon, or ID.me credentials. Participants must be LOA3.
 - We would like Perigean's help testing that participants can sign in successfully to VA.gov prior to sessions.
-- The mobile app will be unpublished at the time we test it, so participants will need to go through some set up to be able to access the prototype. We would like Perigean's help getting participants set up with our prototype app (App Center) prior to sessions. _[Instructions Coming Soon]_.
+- The mobile app will be unpublished at the time we test it, so participants will need to download an APK file onto their Android mobile device to access the application. We will walk participants through this process at the beginning of the session. 
 
 
 
 ## Participants and Recruitment
 
 Participant criteria: 
+
+- Important: All participants should have an **Android** mobile device be able to join the session on this device.
 - All participants must be Veterans
 - All participants must have an active DS Logon, My HealtheVet, or ID.me account
 - All participants must be Level of Assurance (LOA) 3
@@ -70,28 +72,44 @@ Participant criteria:
   - Gender (30% or more women)
   - Race
   - Age (At least 1 participant 35 or under and 1 participant over 55)
-- Both iPhone and Android users should be represented   
 
 ## What is your recruitment strategy?
 - Perigean will recruit
-- Perigean will help with pre-session testing that participants have LOA3 credentials
-- Perigean will help with pre-session set up of prototype app
+- Perigean will confirm participants have LOA3 credentials prior to sessions
 - In order to get at least 6 successful sessions (participants show up and are able to successfully sign in and participate), we would like Perigean to schedule 12 participants total, with the expectation we will have at least a 50% success rate overall. 
 
 ## When?
-1. Timeline for this study: Aiming for February 1-5, 2021.
+1. Timeline for this study: February 1-5, 2021.
 2. Length of Sessions: 1 hour
-3. Pre-session setup is needed, instructions are _[coming soon]_.
-3. Availability: Monday-Friday (11 AM EST – 5 PM EST). Please don’t schedule back to back sessions. 
-4. Prepare: We will conduct a pilot interview the week of January 25th. 
+3. Availability: 
+  - Monday, 2/1: 9 AM CT – 6 PM CT 
+  - Tuesday, 2/2 10 AM EST - 1 PM CT; 4 PM CT - 6 PM CT 
+  - Wednesday, 2/3: 9 AM CT – 6 PM CT
+  - Thursday, 2/4: 9 AM CT – 6 PM CT
+  - Friday, 2/5: 9 AM CT – 2 PM CT
+
+Please don’t schedule back to back sessions. We will conduct a pilot interview the week of January 25th. 
 
 ## Team Roles
 Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, and observers.
 
 - Moderators: Bridget Hapner, bridget@adhocteam.us, (773-875-9019)
-- Conversation guide writing and task development: Bridget
+- Conversation guide writing and task development: Bridget Hapner and Jen Ecker
 - Participant recruiting & screening: Perigean
-- Project point of contact: Bridget
+- Project point of contact: Bridget Hapner
 - Participant(s) for pilot test: TBD
-- Note-takers (1 per session): TBD
-- Observers: TBD
+- Note-takers (1 per session): Jen Ecker, Ayush Chakravarty
+- Observers:
+  - Jen Ecker: jen.ecker@adhocteam.us
+  - Ayush Chakravarty: ayush@adhocteam.us 
+  - Martha Wilkes: martha.wilkes@va.gov
+  - Steve Kovacs: steven.kovacs@va.gov
+  - Patrick Saxton: patrick.saxton@adhocteam.us
+  - Jonathan Julian: 	jonathan@adhocteam.us
+  - Jayson Perkins: jayson.perkins@adhocteam.us
+  - Alastair Dawson: alastair@adhocteam.us
+  - Bess Green: bess@digitalfoundry.com
+  - John Marchi: j_marchi@digitalfoundry.com
+  - Ken Harrison: ken@digitalfoundry.com
+  - Ken Li: k_li@digitalfoundry.com
+  - Komal Yaseen: komal@digitalfoundry.com 
