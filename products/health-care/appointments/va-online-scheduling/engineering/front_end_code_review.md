@@ -12,7 +12,7 @@ These are the most important things to check for a PR review, for easy reference
 - [ ] Are any changes to current tests clearly explained by the functional changes being made in the PR?
 - [ ] Do the changes account for the different types of data we can receive from the backend?
 
-If you as a reviewer can verify these things, then we as a team should be comfortable with the code being committed. Code quality or organization issues can always be fixed after the fact, and obscure edge cases missed by unit tests are inevitable and shouldn't hold up improving how VAOS serves Veterans.
+If you as a reviewer can verify these things, then we as a team should be comfortable with the code being committed. Code quality or organization issues can always be fixed after the fact, and obscure edge cases missed by unit tests are unlikely to be caught in code reviews generally.
 
 ### Explanation
 
