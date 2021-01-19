@@ -48,6 +48,8 @@ Until we reach that point, the WC branch will be developed in the `component-lib
 
 We will use a [Github Release](https://github.com/department-of-veterans-affairs/component-library/releases/new) to create a new tag for the branch we want. The tags will follow [semantic versioning](https://semver.org/), and will be created after enough new development has landed in the branch (i.e. a new component, bugfix, etc. Documentation typo fixes won't get a release). A tag will have the pattern `wc-vX.Y.Z`, where `X`, `Y`, and `Z` represent major, minor, and patch versions respectively.
 
+If a new Web Component is created that replaces an existing React component, the Web Component dependency in `vets-website` will be updated to the new tag and VFS teams will be able to use this component in their code according the the associated documentation for how to use the component. After a sprint, the React component will be removed from `component-library` and a new npm version will be published. This means that any teams that haven't updated their code will cause the build to break on the newest `component-library` version. **It will be the VFS teams' responsibility to update their app code to use the appropriate components**. It will be the job of the Design System engineers to provide Web Components which achieve parity with their React counterparts.
+
 #### Tooling
 
 This WC-specific branch will use [Stencil](https://stenciljs.com/) as a tool to help build the Components, and it will also have [Storybook](https://storybook.js.org/) integration. Updates to this branch will follow the typical development flow using PRs. Anytime a new WC is developed or a significant change is made, a new release will be tagged.
