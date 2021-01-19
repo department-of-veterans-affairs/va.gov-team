@@ -1,13 +1,14 @@
 ## Q1 Tentative Quarterly goals TBD
 
-### Campaign Landing Page
+<details><summary>Campaign Landing Page</summary>
 
  *  Editorial experience
  *  Governance post-MVP?
  *  Train
  *  Launch!
+</details>
 
-### VAMC system
+<details><summary>VAMC system</summary>
 
  * Launch X VAMCs to dual state (and full?)
  *  VAMC top task pages: 
@@ -17,20 +18,22 @@
  * IA governance 
  * Iterate on training?
  
-### Vet Centers
+<details><summary>Vet Centers</summary>
  
  * Iterate on VHA health service taxonomy
  * Build Vet Center MVP
 
-### Resources and support
+<details><summary>Resources and support</summary>
 
 * TBD based on roadmap
 
-### How we work
+<details><summary>How we work</summary>
 
 * Improve collaboration with various product teams?
 * Contribute to VA design system?
 * Define services?
+
+</details>
 
 ## Sprint 24
 
