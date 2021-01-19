@@ -31,6 +31,8 @@ __1. Emergency banner__
 __2. Sitewide system maintenance downtime banner__ 
 
 Design files: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/banners/sitewide-system-downtime-design-files
+Client Application Documentation: https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/maintenancebanner/
+Code: https://github.com/department-of-veterans-affairs/vets-website/blob/a8d3585472654ede09ba52213946e45ccb8fb35a/src/platform/site-wide/banners/config/maintenanceBanner.js#L6
 
 - Not in CMS; Public Website (Nick & Kelson) trigger
 - Ability to publish: DEPO.
