@@ -33,9 +33,43 @@ Tap on the arrow that says "Share content".
 Great, now I can see your phone screen! Thank you for your patience in figuring this out with me so we can look at the VA app together today. 
 
 #### Step 3 - Get into prototype app 
-[Coming soon when distribution method is set up & documented].
+You should have received some instructions about installing the VA mobile app. Were you able to get it set up?
 
-Great. Thank you for bearing with me on getting everything up and running. Now we're really ready to begin!
+- If yes: [Go to Warm Up](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/round-2/discussion-guide.md#warm-up-5-minutes)
+- If no: No problem. Would it be ok for me to help you get that set up?
+
+#### [Optional] - Help set up prototype app
+
+Ok, do you have access to your email on your phone? 
+
+- If no: No problem. So I think what will be the easiest is for me to show you the app on my screen and get your feedback that way. Why don't you stop sharing and I will do the sharing. (Share demo and [go to Warm Up](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/round-2/discussion-guide.md#warm-up-5-minutes)).
+
+- If yes: Great. Looks like you are using an [Android](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/round-2/discussion-guide.md#android-app-setup) / [iPhone](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/round-2/discussion-guide.md#ios-app-setup). Is that correct? 
+
+Follow appropriate instructions below. If participant gets stuck or frustrated offer to show them demo and discontinue set up.
+
+##### iOS App Setup: 
+Ok, it takes a few steps. What we're going to do is check your email for an invite, install a testing app, and then install the VA Mobile app. Does that sound ok to you?
+
+- Great, let's check your email. You should have an email invite from TestFlight to test the VA app. The subject line will say something like “Ad Hoc LLC has invited you to test VA Mobile”. Ad Hoc is one of the teams developing this app with the VA.
+- Now we're going to install TestFlight. It's an app that Apple uses for testing new apps, like the VA mobile one we're looking at today. Tap on the “View in TestFlight” button.
+- A new screen will open up. Tap on the “Get TestFlight from the App Store” link.
+- The App Store will open up. Tap on “Get” to download the TestFlight app.
+- Good. One more step and we'll be up and running. Go back to your email and tap the “View in TestFlight” button again.
+- You should see VA Mobile listed. Tap on the “Install” button.
+- Great, we're done. The VA Mobile app is installed. It will show up as a separate icon labeled as VA Mobile on your iPhones’ home screen.
+
+##### Android App Setup:
+Ok, it takes a few steps. What we're going to do is check your email for an invite, download a file, and then install the VA Mobile app. Does that sound ok to you? 
+
+- Let's check your email. You should have an email from [placeholder]. There will be a link to a Google Drive folder. In that folder will be an .APK file. That file is the VA mobile app that can be downloaded locally onto your phone. 
+- Go ahead and open the APK app file in Google Drive and tap Download. 
+- Good. The file will be too big for virus scanning, but tap Download anyway.
+- Once the file has downloaded to your phone (this might take a few minutes), open it and select Install. 
+- You may need to change your phone’s security settings to allow the app to successfully install. Turn on Allow from this source to allow installation. If that's not something you are comfortable with I understand.
+- Now it's installed. You should see it on your phone's home screen labeled VA Mobile with an Android icon.
+
+Great. Thank you for bearing with me on getting everything up and running. It's a lot more steps to install a demo app, and so I am glad you stuck with me on all of them. Now we're really ready to begin!
 
 ## Warm Up (5 minutes)
 Before we dive into the app, I’d love to want to learn more about you.
@@ -55,7 +89,7 @@ Alright, at this time, I am going to ask you to process with signing into the VA
 - Does the participant express confusion or frustration at anything specific (ex: a line of text, a button, the modal)? What?
 - If the participant is served up the biometric opt in screen, do they understand it? Do they opt in? Is anything confusing/unclear about it?
 - Does the participant say anything positive or negative about the biometric opt in?
-- Is particpant using WiFi or cellular data.
+- Is participant using WiFi or cellular data.
 
 #### Prompts
 - [If the participant runs into a problem] What do you do when you run into a sign in issue like this?  
@@ -131,7 +165,7 @@ Let’s go back to the home screen.
 - Would you describe this app as being useful to you?
   - Please describe how the app useful to you. What’s useful about it? 
 - In what circumstances would you find this app useful?
-  - Can you give me a scenerio in which this app would be useful? (For example at work, in the car, on the couch, etc.)
+  - Can you give me a scenario in which this app would be useful? (For example at work, in the car, on the couch, etc.)
 - Would you recommend this app to your friends (or fellow Veterans)? 
   - Can you pretend I’m a friend (or fellow Veteran) and you’re recommend the app to me? Why are you recommending it? What would you say? 
 - Let's say the app I’ve shown you today hits the app stores tomorrow, with exactly what you see here, but you could add 1 more thing - what would you add?
