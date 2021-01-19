@@ -1,51 +1,73 @@
 # 10-10EZ Address - Use Cases
-**[DRAFT]**
 
 _Track and maintain the various use cases that exist for a given product and is best maintained alongside the product outline._
 
 _The purpose of this document is for designers, PMs, and engineers to align early on on potential use cases and edge cases so these things aren't coming up randomly and late in the process. We recommend the team schedule a 30 minute meeting to brainstorm all use cases/edge cases early on.  Examples of cases that could be captured here include: "Veteran logs in but is not LOA3ed.", "Veteran searches and gets no results." etc etc_
 
-Link to product outline: [Product Name](#)
+Link to product outline: [HCA Address Project](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/10-10ez-address-project/project-outline.md)
 
-## Contents
-<details>
-<summary></summary>
+# Team Review Instance Testing
+
+## Feature toggle set to: On (both address questions available)
+1) Unauthenticated
+2) Authenticated with Mailing & Home in Profile
+    - Expected: Will populate both addresses in EZ
+    - Actual: 
+3) Authenticated with Mailing and Home (same as mailing) in Profile
+    - Expected: Will populate both addresses in EZ
+    - Actual: 
+4) Autheticated with Mailing Only in Profile
+    - Expected: Will populate Mailing
+    - Actual: 
+5) Authenticated with No addresses in Profile
+    - Expected: Will not populate an address
+    - Actual: 
+    
   
-- [Use Case A](#use-case-a) 
-- [Use Case B](#use-case-b)
-- [Use Case C](#use-case-c) 
+## Feature toggle set to: Off (only one address question available)
+1) Unauthenticated
+2) Authenticated with Mailing & Home in Profile
+    - Expected: Will populate both addresses in EZ
+    - Actual: 
+3) Authenticated with Mailing and Home (same as mailing) in Profile
+    - Expected: Will populate both addresses in EZ
+    - Actual: 
+4) Autheticated with Mailing Only in Profile
+    - Expected: Will populate Mailing
+    - Actual: 
+5) Authenticated with No addresses in Profile
+    - Expected: Will not populate an address
+    - Actual: 
 
-</details>
 
-## Use Case A
-
-* **Description**
-  - lorem ipsum
-
-* **Link to designs**
-  - lorem ipsum
-
-* **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - lorem ipsum
-
-## Use Case B
-
-* **Description**
-  - lorem ipsum
-
-* **Link to designs**
-  - lorem ipsum
-
-* **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - lorem ipsum
-
-## Use Case C
-
-* **Description**
-  - lorem ipsum
-
-* **Link to designs**
-  - lorem ipsum
-
-* **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - lorem ipsum
+# QA Staging Testing
+## Feature toggle set to: On (both address questions available)
+1) Unauthenticated
+2) Authenticated with Mailing & Home in Profile
+    - Expected: Will populate both addresses in EZ
+    - Actual: 
+3) Authenticated with Mailing and Home (same as mailing) in Profile
+    - Expected: Will populate both addresses in EZ
+    - Actual: 
+4) Autheticated with Mailing Only in Profile
+    - Expected: Will populate Mailing
+    - Actual: 
+5) Authenticated with No addresses in Profile
+    - Expected: Will not populate an address
+    - Actual: 
+    
+  
+## Feature toggle set to: Off (only one address question available)
+1) Unauthenticated
+2) Authenticated with Mailing & Home in Profile
+    - Expected: Will populate both addresses in EZ
+    - Actual: 
+3) Authenticated with Mailing and Home (same as mailing) in Profile
+    - Expected: Will populate both addresses in EZ
+    - Actual: 
+4) Autheticated with Mailing Only in Profile
+    - Expected: Will populate Mailing
+    - Actual: 
+5) Authenticated with No addresses in Profile
+    - Expected: Will not populate an address
+    - Actual: 
