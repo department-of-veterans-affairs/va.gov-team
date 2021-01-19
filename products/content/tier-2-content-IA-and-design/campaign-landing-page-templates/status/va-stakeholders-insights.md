@@ -15,7 +15,7 @@ The goal is to help understand how much rigidity and alternatively flexibility i
 |Does a campaign page stay live or expire? |Almost all of them remain active. I don’t remember taking anything down (so far). One was “archived”, benefits.va.gov/gibill75 – it’s  still active but we’ve already celebrated the GI Bill 75th anniversary 2 years ago, it’s still there for reference.  | TBD |
 |Should some campaign pages become permanent fixtures of the benefits Hubs – e.g. Blue Water Navy| Currently, most of them are permanent pages on benefits.va.gov, because they are benefits initiatives (and some were passed by Congress as law, like BWN). I guess I’m not sure when we’ll need to transition an initiative from being a campaign to just a regular page, if necessary. This may be something that you can answer for us, if possible. In addition, I guess we would also need to determine which topics would necessitate having campaign pages (or just a plain ol’ Drupal page). I think it would be beneficial to have some guidelines and best practices when building these campaign pages.| TBD |
 |When do we utilize CLP versus learning center versus tier 1 content?| The distinction between a CLP and Resource & Support content is outlined below. | TBD |
-|Question TBD| TBD | TBD |
+|How are URLs determined?| TBD | TBD |
 |Question TBD| TBD | TBD |
 |Question TBD| TBD | TBD |
 |Question TBD| TBD | TBD |
@@ -28,14 +28,36 @@ The goal is to help understand how much rigidity and alternatively flexibility i
 |- **Tier 1 Content** - Benefit content and tools (applying for benefits, accessing benefit tools to manage your existing benefits) for beneficiaries, including Veterans, family members, service members <br> - **Tier 2 Content** - Benefit-adjacent content (for beneficiaries, and people who work with beneficiaries) <br> - **Tier 3 Content** - Organizational/administrative/office content | Resources & Support is reserved for Tier 2 Content that includes benefit learning, knowledge, help, and support content categories.| A Campaign Landing page is reserved for Tier 2 content that is more similar to marketing or engagement content.  Use cases for a campaign landing page include <br> - Veteran "awareness" public information campaigns - e.g.,Veterans wear your mask campaign, Veterans get your flu shot campaign, VHA covid 19 research recruitment campaign <br> - It may also have audiences other than Veterans (for example: local governments, Congress, VSOs, medical researchers). <br> - It may also be time based in nature, like a particular campaign (#BeThere) or a new legislation change (MISSION Act).
 
 
+## IA / URL Structure
+
+- Campaign Landing Pages would fall under the More Resources section of each Benefit hub, including:
+
+  - Health care - https://www.va.gov/health-care/
+    - https://www.va.gov/health-care/covid-19-vaccine/stay-informed
+  - Community care - https://www.va.gov/communitycare/
+    - https://www.va.gov/communitycare/flu-shot
+  - Disability - https://www.va.gov/disability/
+  - Education - https://www.va.gov/education/
+    - https://www.va.gov/education/solid-start
+  - Careers and Employment - https://www.va.gov/careers-employment/
+  - Pension - https://www.va.gov/pension/
+  - Housing Assistance - https://www.va.gov/housing-assistance/
+  - Life Insurance - https://www.va.gov/life-insurance/
+  - Burials & Memorials - https://www.va.gov/burials-memorials/
+  - 
 
 
-## VA Stakeholders
+## VA CLP Stakeholders
 
-- VBA: Michelle Ralston, Paul Shute, Sandy Tadeo
-- VHA: Jenny Heiland-Luedtke, Jeffrey Grandon, Steve Tokar
-- VEO: Tim Hudak, Melissa Rebstock, Laura Petrola
-- VACO: Josh Tuscher, Gary Hicks
+- Primary 
+  - VBA: Michelle Ralston, Paul Shute, Sandy Tadeo
+  - VHA: Jenny Heiland-Luedtke, Jeffrey Grandon, Steve Tokar
+  - VEO: Tim Hudak, Melissa Rebstock, Laura Petrola
+  - VACO: Josh Tuscher, Gary Hicks
+  
+- Secondary
+
+
 
 
 
