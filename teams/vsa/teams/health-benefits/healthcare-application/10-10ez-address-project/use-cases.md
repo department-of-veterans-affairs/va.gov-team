@@ -16,7 +16,7 @@ Link to product outline: [HCA Address Project](https://github.com/department-of-
   - Authenticated
     - With profile: containing Mailing & Home (user vets.gov.user+110@gmail.com)
       - **Expected**: One address labled "Mailing" populated by mailing address in profile
-      - **Actual**: :warning: Multiple addresses shown in EZ. The EZ's mailing is populated with profile's home. The EZ'z Home field is populated by profile's mailing.
+      - **Actual**: ~:warning: Multiple addresses shown in EZ. The EZ's mailing is populated with profile's home. The EZ'z Home field is populated by profile's mailing.~
     - With profile: containing Mailing and Home (home "same as mailing")
       - **Expected**: 
       - **Actual**: 
