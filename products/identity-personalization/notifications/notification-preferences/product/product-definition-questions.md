@@ -1,5 +1,7 @@
 # Product definition questions
 
+## Answers to these questions are [documented here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/meeting-notes/1.19.21_Chat%20with%20Terry%20and%20team.md).
+
 These are for our initial feature definition meeting with Terry on 1.19.21.
 
 - What data fields should we account for?
