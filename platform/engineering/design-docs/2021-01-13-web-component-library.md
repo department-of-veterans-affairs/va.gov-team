@@ -84,7 +84,7 @@ Do we want to remove the explicit dependency on [USWDS](https://designsystem.dig
 
 #### Risks
 
-Despite polyfills, there is some risk of certain Web Component features not working properly in all browsers (IE 11, older versions of Edge). Due to existing polyfill support combined with the trend of users switching to more modern browsers over time, this is a low risk. If we encounter this problem, the workaround will be to avoid using whatever feature is under consideration and instead implement a solution that will yield the same results.
+Despite polyfills, there is some risk of certain Web Component features not working properly in all browsers (IE 11, older versions of Edge). Due to existing polyfill support combined with the trend of users switching to more modern browsers over time, this is a low risk. To mitigate this risk, we will only use Web Component features which are supported with or without pollyfills on all [supported browsers](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/front-end-standards/documented-decisions/browser-support/).
 
 ### Work Estimates
 
@@ -110,7 +110,7 @@ This will be the first WC to go live on va.gov.
 
 ### Alternatives
 
-There isn't another way of achieving a proper (i.e., not copy-pasted HTML) component library that isn't specific to a single framework like React. However, there are other tools/frameworks besudes Stencil that we could use to build Web Components.
+There isn't another way of achieving a proper (i.e., not copy-pasted HTML) component library that isn't specific to a single framework like React. However, there are other tools/frameworks besides Stencil that we could use to build Web Components.
 
 There are [dozens of tools/frameworks](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component/) that can be used to build Web Components, with [LitElement](https://lit-element.polymer-project.org/) being one of the bigger ones. Here are some reasons that Stencil was chosen over all of these alternatives:
 
@@ -123,17 +123,15 @@ There are [dozens of tools/frameworks](https://webcomponents.dev/blog/all-the-wa
 
 ### Future Work
 
-Continue adding Components until the React version of `component-library` ic completely replaced. Web Components can co-exist fine with React components, but it will be easier if we only have to maintain a single library.
+Continue adding Components until the React version of `component-library` is completely replaced. Web Components can co-exist fine with React components, but it will be easier if we only have to maintain a single library.
 
 #### Templating
 
 The library could be extended to include Components focused on overall site layout in addition to the more granular Components. This could allow us to use Web Components as a replacement for the Liquid templates in `vets-website`.
 
 ### Revision History
-_The table below should record the major changes to this document. You don't need to add an entry for typo fixes, other small changes or changes before finishing the initial draft._
 
 Date | Revisions Made | Author
 -----|----------------|--------
 Jan 24, 2020 | Added approvers, status, and privacy concerns. | Andrew Gunsch
 Jan 19, 2016 | Initial Draft based off [Arvados's template](https://dev.arvados.org/projects/arvados/wiki/Design_Doc_Template) which is reminiscent of Google's | Albert J. Wong
-
