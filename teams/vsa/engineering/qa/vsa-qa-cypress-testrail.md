@@ -85,12 +85,8 @@ Another environment variable you'd need to set is your TestRail test cases' Grou
 
 For each .cypress.spec.js file, prepend the TestRail Test Case's IDs to the start of your E2E test titles.
 
-<details><summary>[click to expand/collapse]</summary>
-
 1. In your code-editor, open your .cypress.spec.js file.
 2. At the beginning of each test-title (`it('my-test-title', () => {})`), type **C**, and then the **ID** of the corresponding TestRail Test Case you scaffolded.  E.g., your Cypress test title `it('renders Learn More link', () => {...})` has a corresponding TestRail test case with ID 1059, so prepend "C1059 " to your Cypress test title -- `it('C0159 renders Learn More link'), () => {...})` 
-
-</details>
 
 #### 5. Set Environment Variables & invoke Cypress
 
