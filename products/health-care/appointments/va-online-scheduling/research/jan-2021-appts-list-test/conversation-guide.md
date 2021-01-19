@@ -105,16 +105,16 @@ As I mentioned earlier, this is a demo tool that may not function exactly the wa
     * Reschedule
     * Cancel
 
-* Who canceled the canceled appointment in the list?
+* In your list of appointments, can you tell me who canceled the canceled appointment in the list?
 
 ### Task 3 - Find appointment requests
 
-* Are there any other types of appointments that you would expect to see here?
+* Are there any other types of appointments that you would expect to see in your appointments list?
 
 * How would you expect to find appointments that occurred in the past?
 
 * Sometimes when you're scheduling appointments, we need to call you to confirm the appointment before it's finalized. 
-    * How would you expect to find appointments like that?
+    * How would you expect to find appointments that haven't been confirmed by a scheduler yet?
 
 ## Section 3: Reschedule
 
