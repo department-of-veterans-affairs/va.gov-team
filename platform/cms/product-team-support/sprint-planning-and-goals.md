@@ -17,15 +17,18 @@
  * Vaccine health services
  * IA governance 
  * Iterate on training?
- 
+</details>
+
 <details><summary>Vet Centers</summary>
  
  * Iterate on VHA health service taxonomy
  * Build Vet Center MVP
+</details>
 
 <details><summary>Resources and support</summary>
 
 * TBD based on roadmap
+</details>
 
 <details><summary>How we work</summary>
 
