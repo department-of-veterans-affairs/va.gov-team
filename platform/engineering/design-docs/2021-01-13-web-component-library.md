@@ -31,6 +31,8 @@ The Web Component library will live in its own repo and will be added to `vets-w
 
 ### Detailed Design
 
+#### Migration to Web Components
+
 In the `component-library` repo, we will start a fresh orphan branch for the Web Component version of the library to live. If we reach a point where the React version of the library is no longer in use, we will rebase the orphan Web Component branch off of master (in order to cleanly preserve the history) and that will become the new default branch going forward.
 
 Until we reach that point, the WC branch will be developed in the `component-library` repo alongside the main branch containing the React components. The WC branch will not be published to npm, and the `vets-website` dependency will instead [use a Git url with a tag](https://classic.yarnpkg.com/en/docs/cli/add/).
@@ -39,9 +41,15 @@ Until we reach that point, the WC branch will be developed in the `component-lib
 
 We will use a [Github Release](https://github.com/department-of-veterans-affairs/component-library/releases/new) to create a new tag for the branch we want. The tags will follow [semantic versioning](https://semver.org/), and will be created after enough new development has landed in the branch (i.e. a new component, bugfix, etc. Documentation typo fixes won't get a release). A tag will have the pattern `wc-vX.Y.Z`, where `X`, `Y`, and `Z` represent major, minor, and patch versions respectively.
 
+#### Tooling
+
 This WC-specific branch will use [Stencil](https://stenciljs.com/) as a tool to help build the Components, and it will also have [Storybook](https://storybook.js.org/) integration. Updates to this branch will follow the typical development flow using PRs. Anytime a new WC is developed or a significant change is made, a new release will be tagged.
 
+#### Styling
+
 One of the additional benefits of Web Components is how they can be styled. Each Component can have its own styles scoped to its [shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM) (this means that if a Component renders a `<div>`, the CSS can broadly style the `div` node without worrying about it affecting all the other `<div>`s on the page). As a result, each component will have it's own CSS file which also makes use of global [CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties).
+
+#### Loading Web Components on va.gov
 
 Once in `vets-website`, the setup code for the WC library will be in its own entry file that is loaded on each page. In addition, this script will be one of the first loaded in order to ensure that the Components will be defined in the browser before they are rendered on the page.
 
