@@ -21,7 +21,7 @@ The goal is to help understand how much rigidity and alternatively flexibility i
 |Question TBD| TBD | TBD |
 
 
-## How To Differentiate Content Tiers and Publishing Modes
+## How To Differentiate Content Tiers
 
 | Tier 1-2-3 Content | Resources & Support | Campaign Landing Page |
 |--|--|--|
