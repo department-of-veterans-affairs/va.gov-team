@@ -77,8 +77,58 @@ Facility/location types (these should all be pulled in dynamically from the VAOS
 
 ![One upcoming appointment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_one%20upcoming%20appointment.jpg)
 
+Specs
+
+Everything is the same as the state with multiple upcoming appointments, with the exception of the # of appointments (ie. “You have 1 upcoming appointment.”)
+
 **State 3: No upcoming appointments**  
 
 ![No upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_no%20upcoming%20appointment.jpg)
 
 ## Prescriptions update
+
+### When to show the prescriptions section
+
+**Show**
+
+Someone is enrolled in VA health care AND:
+
+- They either have prescriptions in the process of being refilled, OR...
+- They have prescriptions managed by the VA, but none are in the process of being refilled.
+
+**Don't show**
+
+Someone IS enrolled in VA health care, BUT: 
+
+- They have never had any prescriptions managed by the VA.
+
+### States
+  
+**State 1: Multiple prescription refills**  
+
+![Multiple prescription refills](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_multiple%20prescription%20refills.jpg)
+
+Specs
+
+- As of now, this section should only show prescriptions in the process of being refilled. This means that those prescriptions have one of these status: Submitted or Filled.
+- **Prescription update** should show the most recent prescription that has a status of Submitted OR Filled within the last 30 days.
+- “You can **[X] prescription updates**.” should reflect the total number of prescriptions with a status of submitted or filled.
+- **View all prescriptions** links into [the prescription tool in MyHealtheVet](https://sqa.eauth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions).
+  - **Note**: This is the staging link. We need to confirm the link for production.
+- Statuses (can be detected dynamically via our current integration): Submitted or Filled
+  
+**State 2: One prescription refill**  
+
+![One prescription refill](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_one%20prescription%20refill.jpg)
+
+Specs
+
+Everything is the same as the state with multiple prescriptions in the refill process with the exception of the # of prescriptions (ie. “You have 1 prescription update.”)
+  
+**State 3: No prescription refills, but HAS prescriptions managed by the VA**  
+
+![No prescription refills](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_no%20prescription%20refill.jpg)
+  
+**State 4: No prescription refills, and DOES NOT HAVE prescriptions managed by the VA**  
+
+We do not show the prescriptions section in this case.
