@@ -1,8 +1,8 @@
-## Claims and appeals specs 
+# Claims and appeals specs 
 
 ![Claims and appeals examples](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Claim%20%26%20appeals%20status%20example.jpg)
 
-### When to show the claims and appeals section
+## When to show the claims and appeals section
 
 **Show**
 
@@ -13,7 +13,7 @@
 - Someone has NEVER filed a claim or appeal.
 - Someone has filed at least one  claim or appeal, but all claims and appeals have been closed for MORE than 30 days.
 
-### States
+## States
   
 **State 1: Multiple claims in progress**  
 
