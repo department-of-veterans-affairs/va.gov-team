@@ -84,9 +84,9 @@ Participant criteria:
 3. Availability: 
   - Monday, 2/1: 9 AM CT – 6 PM CT 
   - Tuesday, 2/2 9 AM CT - 1 PM CT; 4 PM CT - 6 PM CT 
-  - Wednesday, 2/3: 9 AM CT – 6 PM CT
+  - Wednesday, 2/3: 9 AM CT – 3 PM CT
   - Thursday, 2/4: 9 AM CT – 6 PM CT
-  - Friday, 2/5: 9 AM CT – 2 PM CT
+  - Friday, 2/5: 9 AM CT – 6 PM CT
 
 Please don’t schedule back to back sessions. We will conduct a pilot interview the week of January 25th. 
 
