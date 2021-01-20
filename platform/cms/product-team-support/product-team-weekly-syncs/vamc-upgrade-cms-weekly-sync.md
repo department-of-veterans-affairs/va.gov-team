@@ -25,6 +25,7 @@
 
 - Erie follow ups, if any?
 - Upcoming dual state launches
+- Limit testing 
 - Training
   - CMS orientation session 5 video will be available by end of day Jan. 22
   - Self-service invitation for VISN 6 emailed today, clarified that training activities require login to training environment, not production
