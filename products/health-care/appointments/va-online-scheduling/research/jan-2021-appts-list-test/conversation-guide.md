@@ -57,7 +57,8 @@ Before we look at the website, let’s start with a couple of warm-up questions.
 * How do you currently schedule and manage your VA appointments?
 
 If needed: 
-    * What tools/apps/sites do you use?
+
+* What tools/apps/sites do you use?
 
 ## Section 1: Static landing page
 
