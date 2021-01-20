@@ -6,10 +6,16 @@ _The purpose of this document is for designers, PMs, and engineers to align earl
 
 Link to product outline: [HCA Address Project](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/10-10ez-address-project/project-outline.md)
 
-# Team Review Instance Testing (1-19-21)
-see: https://dsva.slack.com/archives/CMJ2V70UV/p1610657723008300
+# Team Testing
 
+<details>
+<summary>01-15-2020 (RI)</summary>
+    see: https://dsva.slack.com/archives/CMJ2V70UV/p1610657723008300
+</details>
 
+<details>
+<summary>01-19-2020 (RI:d33cfa4f37149dfcdc9d710a11eb2770)</summary>
+    
 ## Feature toggle set to: Off (only one address question available)
 1) Unauthenticated
     - **Expected**: One address as with label “Mailing” sent as `veteranAddress`.
@@ -44,7 +50,47 @@ see: https://dsva.slack.com/archives/CMJ2V70UV/p1610657723008300
 5) Authenticated with No addresses in Profile
       - **Expected**: 
       - **Actual**: 
+</details>
 
+<details>
+<summary>01-20-2020 (Staging:dc5018065eccf073d172097a19922755126c98a3)</summary>
+    
+## Feature toggle set to: Off (only one address question available)
+1) Unauthenticated
+    - **Expected**: One address as with label “Mailing” sent as `veteranAddress`.
+    - **Actual**: 
+2) Authenticated with Mailing & Home in Profile
+      - **Expected**: One address labled "Mailing" populated by mailing address in profile
+      - **Actual**:  
+3) Authenticated with Mailing and Home (same as mailing) in Profile
+      - **Expected**: 
+      - **Actual**: 
+4) Autheticated with Mailing Only in Profile
+      - **Expected**: 
+      - **Actual**: 
+5) Authenticated with No addresses in Profile
+      - **Expected**: 
+      - **Actual**: 
+
+## Feature toggle set to: On (both address questions available)
+1) Unauthenticated
+    - **Expected**: Two address as with label “Mailing” then with “Home” sent as `veteranAddress` (mailing) and `veteranHomeAddress` (home).
+    - **Actual**: 
+2) Authenticated with Mailing & Home in Profile (user 112) 
+      - **Expected**: Address labled "Mailing" populated by mailing address in profile "same as mailing" question defaulted to "no" - Address labled as "Home" populated by home address in profile.
+      - **Actual**: 
+3) Authenticated with Mailing and Home (same as mailing) in Profile
+      - **Expected**: 
+      - **Actual**: 
+4) Autheticated with Mailing Only in Profile
+      - **Expected**: 
+      - **Actual**: 
+5) Authenticated with No addresses in Profile
+      - **Expected**: 
+      - **Actual**: 
+</details>
+    
+    
 # QA Staging Testing
 ## Feature toggle set to: On (both address questions available)
 1) Unauthenticated
