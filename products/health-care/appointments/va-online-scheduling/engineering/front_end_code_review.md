@@ -45,6 +45,14 @@ If you as a reviewer can verify these things, then we as a team should be comfor
 
 ## Other
 
+### Quality of user experience
+
+- Are the appropriate html tags being used, rather than lots of generic divs and spans?
+- If the PR involves making a backend api call, does the PR account for that call being slow or failing?
+- If the PR is creating new UI elements and new state (Redux or component), is focus appropriately set after UI changes?
+- Do links have appropriate and unique text for screen reader users?
+
+### Code maintainability
 - Look for confusing lines/groups of lines. Confusing bits of code need to be addressed in one of three ways:
    - Simplified by looking for ways to remove extraneous pieces or complicated constructs
    - Comments added to call out why something is happening
@@ -56,16 +64,10 @@ If you as a reviewer can verify these things, then we as a team should be comfor
    - The author didn't communicate the changes well enough in the PR description or inline comments and should help the reviewer better understand the code
    - The code is in an unfamiliar part of the codebase or takes advatanges of unfamiliar shared code, in which case the auther should help the reviewer understand that part of the code better
 - Do the names of functions/components/variables make sense? This is one of the biggest pieces of making code understandable, making sure constructs are named clearly and accurately
-- Are the appropriate html tags being used, rather than lots of generic divs and spans?
 - For any custom css, are there design system utilities that could be used instead?
 
-## Application/functionality concerns
 
-- If the PR involves making a backend api call, does the PR account for that call being slow or failing?
-- If the PR is creating new UI elements and new state (Redux or component), is focus appropriately set after UI changes?
-- Do links have appropriate and unique text for screen reader users?
-
-## Redux concerns
+## Redux and statement management concerns
 
 - If new Redux state/actions are added:
    - Is the state used across multiple pages? If not, component state might be better
@@ -73,20 +75,6 @@ If you as a reviewer can verify these things, then we as a team should be comfor
    - Does the reducer avoid mutating any data passed in from the action?
    - Are the action names past tense and reflect what action a user took, rather than what data is being changed in the state?
    - Can any logic in the action creator function be shifted to the reducer?
-
-## VAOS specific concerns
-
-- Do the changes properly account for the different types of appointments?
-   - Regular VA appointments, in person or phone only
-   - Video appointments (which have their own variations)
-   - Community care appointments
-   - Community care appointments from VistA (no provider info)
-   - Requests (VA or CC)
-   - Express care requests (no preferred times)
-- Do the changes properly account for the different new appointment flows?
-   - Community care requests
-   - VA requests
-   - Direct scheduled VA appointments
 - Were the changes made in the right place for our architecture?
    - Services
       - These contain functionality related to fetching data from the backend, transforming it to FHIR, and pulling different types of information from FHIR formatted data
