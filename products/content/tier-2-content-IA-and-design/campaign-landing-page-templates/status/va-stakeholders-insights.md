@@ -36,8 +36,6 @@ The goal is to help understand how much rigidity and alternatively flexibility i
     - Example: https://www.va.gov/health-care/covid-19-vaccine/stay-informed
     - Example: https://missionact.va.gov/  (For VA.gov version CLP: https://www.va.gov/health-care/mission-act)
     - Example: https://www.veteranscrisisline.net/support/be-there (For VA.gov version CLP: https://www.va.gov/health-care/be-there)
-  - Community care - https://www.va.gov/communitycare/
-    - Example: https://www.va.gov/communitycare/flu-shot
   - Disability - https://www.va.gov/disability/
   - Education - https://www.va.gov/education/
   - Careers and Employment - https://www.va.gov/careers-employment/
