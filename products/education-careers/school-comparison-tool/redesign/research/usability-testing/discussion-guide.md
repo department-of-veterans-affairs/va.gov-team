@@ -35,7 +35,7 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions  - 5 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
@@ -52,11 +52,16 @@ Before we look at the website, let’s start with a few warm-up questions.
      - If yes, what did you use it for?
 
 
-## First Task: Degree / Program Search - 10 minutes
+## Initial Take - 5 minutes ##
+This is the home page of the GI Bill Comparison Tool.  Can you tell me what your initial thoughts are when you see this page?  What do you think you can do here?
 
-- Let's say you've recently heard of someone who received an education in **Ethical Hacking** (other options:  Bakery Science, Puppet Art). You don't know of any schools that offer this program, but it's something that sounds interesting.  How would you use the Comparison Tool to see if any schools covered by the GI Bill offer this as a program of study?
+## First Task: Degree / Program Search - 15 minutes
 
-_Prompt_ You see that **Insert school with Ethical Hacking program** is highly rated by Veterans. If you wanted to ask the School Certifying Official a few questions abou the school, how would you go about finding their contact information?
+- Let's say you've recently heard of someone who received a Bachelor's in **Ethical Hacking** (other options:  Bakery Science, Puppet Art). You don't know of any schools that offer this program, but it's something that sounds interesting.  How would you use the Comparison Tool to see if any schools covered by the GI Bill offer this as a program of study?
+
+_Prompt_ You see that **Insert school with Ethical Hacking program** is highly rated by Veterans. If you wanted to ask a few questions about the school, how would you use the Comparison Tool to find out who to talk to?
+
+_Prompt_ Where would you go to see how much tuition would be covered at **Insert school name**? (Jen's note:  In case they miss the navigation the first time, this is a second chance to see if they noticed it or not)
 
 
 ### Things to watch for:
@@ -74,15 +79,16 @@ Part 2
  - How did you think that went?
  - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of finding schools by program of study?
  
- - For the schools that appeared in the search results, do you think that **Ethical Hacking** was a graduate or undergraduate degree (or potentially both)?
+ - What do you think of the school cards?
  - How do you think the school search results were sorted? (Why were some schools higher or lower on the list?)
  - Was there any other information you were expecting to see?
  
 ## Second Task: Radius from Location - 10 minutes
 
-- While you're waiting to hear back from the SCO, you decide to look for schools in your area.  Let's say you live in **Daytona, Florida**.  You don't want a long commute, so you would like to find a school within 30 miles of your location.  How would you use the Comparison Tool to find schools that are within that driving distance?
+- Let's say you aren't sure what you want to major in, but you live in **Daytona, Florida** and want to find a school within 30 miles of your location because you don't want a long commute.  How would you use the Comparison Tool to find schools that are within that driving distance?
 
-_Prompt_ What would you enter into the search field?
+_Prompt_ One of your family members is also in the military. They want to transfer some of their education benefits to you.  If you were using their benefits, do you think these numbers would change?  
+  - If yes, how would you find out what your benefits would be?
 
 
 ### Things to watch for:
@@ -100,21 +106,21 @@ _Prompt_ What would you enter into the search field?
 
 ## Third Task: Compare Schools - 15 minutes
 
-Looking at these search results, you know that **School 1** and **School 2** would have a reasonable commute and both have the major you're interested in.  How would you go about comparing these two schools to see which school would be a better fit for you?
+Looking at these search results, let's say you're interested in **School 1** and **School 2** and both schools have the major you're interested in.  How would you go about comparing these two schools to see which school would be a better fit for you?
 
-_Prompt_ What information would be important for you to see on this page?
-
-_Prompt_ How would you return to your search results?
+_Prompt_ After looking at these two schools, **School 2** doesn't look like a good option for you.  How would you remove that school from your comparison and add another in its place?
 
 ### Things to watch for:
 
 - Is the user able to successfully add schools to the gutter to compare?
 - Is the user able to navigate successfully to the Compare page?
+- How does the user try and navigate back to the search results?
 
 ### Upon task completion:
  - How did you think that went?
  - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of comparing schools?
  - How many schools would you want to be able to compare at one time?
+ - What information is important for you to see when comparing schools?
  - Was there any other information you were expecting to see on the Compare page?
  - Was there any information you didn't think was necessary?
  - What did you think of the general layout of the page?
