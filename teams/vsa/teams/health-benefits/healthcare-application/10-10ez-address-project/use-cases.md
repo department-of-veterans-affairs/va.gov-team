@@ -76,7 +76,7 @@ Link to product outline: [HCA Address Project](https://github.com/department-of-
 1) Unauthenticated
     - **Expected**: Two address as with label “Mailing” then with “Home” sent as `veteranAddress` (mailing) and `veteranHomeAddress` (home).
     - **Actual**: 
-2) Authenticated with Mailing & Home in Profile (user 112) 
+2) Authenticated with Mailing & Home in Profile 
       - **Expected**: Address labled "Mailing" populated by mailing address in profile "same as mailing" question defaulted to "no" - Address labled as "Home" populated by home address in profile.
       - **Actual**: 
 3) Authenticated with Mailing and Home (same as mailing) in Profile
