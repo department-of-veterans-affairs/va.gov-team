@@ -12,7 +12,8 @@
 
 - Someone is NOT enrolled in VA health care.
 
-## Latest Message
+<details>
+  <summary><h2>Latest message specs</h2></summary>
 
 ### When to show the messages section
 
@@ -45,6 +46,8 @@ Everything is the same as the state with multiple messages, with the exception o
 **State 3: No new message**  
 
 ![No new messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_no%20new%20messages.jpg)
+
+</details>
 
 ## Next Appointment
 
