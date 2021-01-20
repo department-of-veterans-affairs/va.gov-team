@@ -6,7 +6,7 @@ This is a guide for people reviewing front end code for VAOS.
 
 These are the most important things to check for a PR review, for easy reference. More detailed explanations are below.
 
-- [ ] Are the changes full explained in PR description?
+- [ ] Are the changes fully explained in PR description?
 - [ ] Are there screenshots showing the effects of style/cosmetic tweaks?
 - [ ] Does the PR have tests that cover any functional changes that will be live in production?
 - [ ] Are any changes to current tests clearly explained by the functional changes being made in the PR?
@@ -16,12 +16,13 @@ If you as a reviewer can verify these things, then we as a team should be comfor
 
 ### Explanation
 
-- Are the changes full explained in PR description?
+- Are the changes fully explained in PR description?
    - This one is probably self-explanatory, but as a reviewer, you should be able to understand why the changes are being made by reading the PR and issue descriptions
 - Are there screenshots showing the effects of style/cosmetic tweaks?
    - Also self-explanatory, but screenshots are the equivalent of tests for cosmetic changes: proof that the author's change did what they said
-- Does the PR have tests that cover the functional changes being made?
+- Does the PR have tests that cover any functional changes that will be live in production?
    - The most important way we avoid breaking things in production is by having good tests that cover the functionality being added
+   - If the changes are behind a feature that isn't live yet, it may make sense to defer unit tests, though this shouldn't be a common occurence.
    - As a reviewer, you should verify that the the mock data in the test is a realistic reflection of the data we will get from the backend. You should be able to verify this with information in the PR description, issue description, or elsewhere in the codebase. If not, then the author needs to document why they are doing what they are doing.
    - Only style changes with complicated JS logic need unit tests
    - Having the Code Climate extension installed will show you uncovered code
