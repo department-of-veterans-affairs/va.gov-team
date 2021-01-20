@@ -28,11 +28,9 @@
 
 **State 2: One claim in progress**
 
-![One claim in progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Claim%20%26%20appeals%20status_one%20claims.jpg)
-
-Specs
-
 Everything is the same as the state with multiple claims in progress, with the exception of the # of claims (ie. “1 total claim or appeal in progress”).
+
+![One claim in progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Claim%20%26%20appeals%20status_one%20claims.jpg)
 
 **State 3: A user who has open claims or appeal in progress, but there have been no updates in more than 30 days**
 
