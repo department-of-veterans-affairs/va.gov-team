@@ -50,6 +50,11 @@
 
 - CMS technical debt: Intro text refactor #939
 
+### How we work
+
+- content model refactoring documentation
+- `if prod` vs feature flags
+
 ## Wednesday January 13 10am ET
 
 ### Campaign landing page MVP
