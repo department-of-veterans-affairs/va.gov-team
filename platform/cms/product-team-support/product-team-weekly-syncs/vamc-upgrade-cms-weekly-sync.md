@@ -24,6 +24,7 @@
 ## Wednesday Jan 20 2:30pm ET
 
 - Erie follow ups, if any?
+- Tugboat and devshop demo environments
 - Upcoming dual state launches
 - Limit testing 
 - Training
