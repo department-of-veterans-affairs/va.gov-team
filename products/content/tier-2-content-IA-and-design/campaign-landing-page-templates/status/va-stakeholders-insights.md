@@ -30,6 +30,11 @@ The goal is to help understand how much rigidity and alternatively flexibility i
 
 ## IA / URL Structure (Proposed Approach)
 
+- Each CLP must have a unique URL for tracking/analytics purposes
+- Some CLPs will a subdomain -- e.g.
+  - https://missionact.va.gov/ 
+- Some CLPs will have "vanity" redirects -- e.g.
+  - 
 - Campaign Landing Pages would fall under the More Resources section of each Benefit hub, including:
 
   - Health care - https://www.va.gov/health-care/
