@@ -87,8 +87,9 @@ Link to product outline: [HCA Address Project](https://github.com/department-of-
       - **Actual**: 
 5) Authenticated with No addresses in Profile (user: 113)
       - **Expected**: No prefill would happen, both addresses are collected in the EZ.
-      - **Actual**: As expected with SiP bug - needed to refresh.
-        - :warning: After starting the application, but before filling in any information, I went to profile to see my attributes, then went back to the form. The EZ only asked for one address (as it did in the previous day's test).
+      - **Actual**: As expected with SiP bug (needed to refresh for second address) and SSN validation error.
+        - :beetle: After starting the application, but before filling in any information, I went to profile to see my attributes, then went back to the form. The EZ only asked for one address (as it did in the previous day's test).
+        - :grey_question: When entering SSN for user 113, an input error ("Please enter a valid 9 digit SSN (dashes allowed)") prevented me from continuing through the form.
 </details>
     
     
