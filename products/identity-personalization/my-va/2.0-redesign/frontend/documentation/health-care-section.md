@@ -12,7 +12,7 @@
 
 - Someone is NOT enrolled in VA health care.
 
-## Messages
+## Latest Message
 
 ### When to show the messages section
 
@@ -46,6 +46,26 @@ Everything is the same as the state with multiple messages, with the exception o
 
 ![No new messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_no%20new%20messages.jpg)
 
-## Appointments
+## Next Appointment
 
-## Prescriptions
+### When to show the appointments section
+
+**Show**
+
+- Someone is enrolled in VA health care, even if they have no upcoming appointments. We will never **not** show appointments within the health care section.
+
+### States
+  
+**State 1: Multiple upcoming appointments**  
+
+![Multiple upcoming appointments]()
+
+**State 2: One upcoming appointment**  
+
+![One upcoming appointment]()
+
+**State 3: No upcoming appointments**  
+
+![No upcoming appointments]()
+
+## Prescriptions update
