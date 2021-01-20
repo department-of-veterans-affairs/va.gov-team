@@ -69,9 +69,10 @@ Link to product outline: [HCA Address Project](https://github.com/department-of-
       - **Expected**: Would collect and populate Mailing address only. Would sends only the `veteranAddress` property.
       - **Actual**: :white_check_mark: As expected.
   - with Mailing Only in Profile
-      - **User**: 
-      - **Expected**: 
-      - **Actual**: 
+      - **User**: 272, 273
+      - **Expected**: EZ would only ask for "Mailing" which would be pre-populated with the address in profile.
+      - **Actual**: (untested because of below issue)
+        - :warning: Both users 272 and 273 had only a mailing address in profile. No EZ was SiP or previously submitted. When I started the form, no information was pre-filled from profile (name, ssn, dob, etc.).
   - with No addresses in Profile
       - **User**: 
       - **Expected**: 
