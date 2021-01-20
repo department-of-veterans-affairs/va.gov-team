@@ -30,7 +30,7 @@ Specs
 
 - This section only shows NEW/unread messages.
 - **Latest message** shows the most recent unread messages someone has.
-- “You have **2 new messages**.” shows the total number of new/unread messages.
+- “You have **[X] new messages**.” shows the total number of new/unread messages.
 - **View all messages** links into the [messaging tool in MyHealtheVet](https://sqa.eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging).
   - **Note**: This is the staging link. We need to confirm the link for production.
 
@@ -58,14 +58,27 @@ Everything is the same as the state with multiple messages, with the exception o
   
 **State 1: Multiple upcoming appointments**  
 
-![Multiple upcoming appointments]()
+![Multiple upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_multiple%20upcoming%20appointments.jpg)
+
+Specs
+
+- **Next appointment** should show the next upcoming appointment based on chronological date and time.
+- “You have **[X] upcoming appointments.” should show the total number of upcoming appointments that are scheduled in the VAOS tool.
+- **View all appointments** links into [the VAOS tool](https://www.va.gov/health-care/schedule-view-va-appointments/appointments/).
+
+Facility/location types (these should all be pulled in dynamically from the VAOS tool):
+
+- VA (includes facility name)
+- VA Video connect
+- Phone
+- Express care request
 
 **State 2: One upcoming appointment**  
 
-![One upcoming appointment]()
+![One upcoming appointment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_one%20upcoming%20appointment.jpg)
 
 **State 3: No upcoming appointments**  
 
-![No upcoming appointments]()
+![No upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_no%20upcoming%20appointment.jpg)
 
 ## Prescriptions update
