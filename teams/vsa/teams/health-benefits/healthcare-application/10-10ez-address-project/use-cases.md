@@ -100,7 +100,7 @@ Link to product outline: [HCA Address Project](https://github.com/department-of-
   - with Mailing Only in Profile
       - **User**: 99
       - **Expected**: Will populate mailing address in EZ. Will not pre-select "yes/no address is the same".
-      - **Actual**: 
+      - **Actual**: (untested because of below issue)
         - :warning: For user 99, I set the mailing address in profile. When I started the EZ, the mailing address was not pre-populated, *but* none of this user's data was pre-populated when I started the form (name, dob, ssn, etc.).
   - with No addresses in Profile
       - **User**: 113
