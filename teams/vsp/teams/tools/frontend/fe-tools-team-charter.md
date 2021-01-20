@@ -13,6 +13,7 @@
 - Frontend engineer: @Bill Fienberg
 - Frontend engineer: @Chris Alexander
 - Frontend engineer: @Theo Bentum
+- Frontend engineer: @Katy Bowman
 
 ---
 
@@ -41,6 +42,20 @@ Create and maintain solutions for VFS teams to deliver high-quality and cohesive
 ## How we work
 
 ### Workflow + Cadence
+
+#### Story Points
+
+* 1 = Extra small = Bee
+   * One liner, easy to do the thing, change a color, very little or no dependencies on other teams
+* 2 = Small = Baby chicken
+* 3 = Medium = Rabbit
+* 5 = Large = Dog
+   * This is all you're going to work on for many days, more than a week, maybe the full sprint
+* 8 = Extra large = Lion 
+   * Consider breaking this into smaller tickets if possible
+* 13 = Too large = Hippo
+   * Too big for one ticket, must be broken up
+
 
 #### Stand-up
 Check in on people and product progress
