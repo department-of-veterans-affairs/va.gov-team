@@ -502,7 +502,7 @@ BE READY FOR QA NEXT SPRINT
 
 **Design**
 
-- Finalize visual design
+- Document visual design
 - Finalize copy
 - Research plan for usability testing of finalized designs
 - Convo guide for usability testing of finalized designs
