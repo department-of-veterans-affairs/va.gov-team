@@ -154,5 +154,5 @@ The library could be extended to include Components focused on overall site layo
 
 Date | Revisions Made | Author
 -----|----------------|--------
-Jan 24, 2020 | Added approvers, status, and privacy concerns. | Andrew Gunsch
-Jan 19, 2016 | Initial Draft based off [Arvados's template](https://dev.arvados.org/projects/arvados/wiki/Design_Doc_Template) which is reminiscent of Google's | Albert J. Wong
+Jan XX, 2021 | Design doc approved. | Brooks Johnson
+Jan 13, 2021 | Initial draft begins. | Brooks Johnson
