@@ -108,7 +108,7 @@ _Prompt_ One of your family members is also in the military. They want to transf
 
 Looking at these search results, let's say you're interested in **School 1** and **School 2**.  How would you go about comparing these two schools to see which school would be a better fit for you?
 
-_Prompt_ After looking at these two schools, **School 2** doesn't look like a good option for you.  How would you remove that school from your comparison and add another in its place?
+_Prompt_ After looking at these two schools, **School 2** doesn't look like a good option for you.  How would you remove that school from the comparison and add another in its place?
 
 ### Things to watch for:
 
