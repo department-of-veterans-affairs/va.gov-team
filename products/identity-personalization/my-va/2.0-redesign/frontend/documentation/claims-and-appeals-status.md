@@ -17,16 +17,14 @@
   
 **State 1: Multiple claims in progress**  
 
-![Multiple claims in progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Claim%20%26%20appeals%20status_multiple%20claims.jpg)
-
-Specs
-
 - The claim block should show the most recently updated claim or appeal, within the last 30 days.
 - Even if multiple claims have been updated in the last 30 days, we will only highlight the most recent one.
 - **View details** button links directly into the claim or appeal.
 - “You have **[X] claims or appeals in progress**.” should show the total number of open claims and appeals in the claim status tool.
 - **View to all claims and appeals** goes to the [claims and appeals tool](https://www.va.gov/track-claims/your-claims).
 - Claim Statuses — These are all pulled dynamically from existing claims/appeals statuses.
+
+![Multiple claims in progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Claim%20%26%20appeals%20status_multiple%20claims.jpg)
 
 **State 2: One claim in progress**
 
