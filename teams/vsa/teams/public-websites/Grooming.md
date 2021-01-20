@@ -31,7 +31,8 @@
  
 ### Campaign landing page MVP 1.0
 - Planning/Grooming Doc
-- CLP Build, launch and learn SUPER EPIC: #4621
+- CLP Build, launch and learn 
+- SUPER EPIC: #4621
 - CLP x Collab EPIC #11004 
 
 Notes/Next Steps:
