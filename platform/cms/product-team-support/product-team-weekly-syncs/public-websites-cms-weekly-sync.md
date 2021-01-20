@@ -39,7 +39,7 @@
 
 ### Campaign landing page MVP
 
-- Review CMS backlog for current sprint
+- Review CMS backlog for current sprint #1475
 - Help text for "Add a link to an external blog or other list of stories" field clarification
 - FE support. 
 
@@ -48,7 +48,7 @@
 
 ### Benefits detail pages
 
-- CMS technical debt: Intro text refactor
+- CMS technical debt: Intro text refactor #939
 
 ## Wednesday January 13 10am ET
 
