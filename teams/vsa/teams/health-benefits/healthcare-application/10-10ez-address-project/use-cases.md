@@ -93,7 +93,7 @@ Link to product outline: [HCA Address Project](https://github.com/department-of-
       - **Expected**: Address labled "Mailing" populated by mailing address in profile "same as mailing" question defaulted to "no" - Address labled as "Home" populated by home address in profile.
       - **Actual**: :white_check_mark: As expected.
   - with Mailing and Home (same as mailing) in Profile
-      - **User**: 
+      - **User**: (unknown - Jonathan may have in notes)
       - **Expected**: EZ askes for 2 addresses. Mailing is populated, "Yes, home is same as mailing" is pre-selected. `veteranAddress` and `veteranMailingAddress` is sent to the api, and they both have the same value (same address).
       - **Actual**: :white_check_mark: As expected.
   - with Mailing Only in Profile
