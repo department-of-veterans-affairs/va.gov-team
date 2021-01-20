@@ -12,8 +12,10 @@
 
 - Someone is NOT enrolled in VA health care.
 
+## Latest message 
+
 <details>
-  <summary><h2>Latest message specs</h2></summary>
+  <summary>Specs</summary>
 
 ### When to show the messages section
 
@@ -50,6 +52,9 @@ Everything is the same as the state with multiple messages, with the exception o
 </details>
 
 ## Next Appointment
+
+<details>
+  <summary>Specs</summary>
 
 ### When to show the appointments section
 
@@ -88,7 +93,12 @@ Everything is the same as the state with multiple upcoming appointments, with th
 
 ![No upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_no%20upcoming%20appointment.jpg)
 
+</details>
+
 ## Prescriptions update
+
+<details>
+  <summary>Specs</summary>
 
 ### When to show the prescriptions section
 
@@ -136,9 +146,16 @@ Everything is the same as the state with multiple prescriptions in the refill pr
 
 We do not show the prescriptions section in this case.
 
+</details>
+
 ## Related links
+
+<details>
+  <summary>Specs</summary>
 
 ![Related links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_related%20links.jpg)
 
 - [View lab and test results](https://sqa.eauth.va.gov/mhv-portal-web/eauth?deeplinking=download_my_data)
 - [Get your VA medical records](https://sqa.eauth.va.gov/mhv-portal-web/eauth?deeplinking=download_my_data)
+
+</details>
