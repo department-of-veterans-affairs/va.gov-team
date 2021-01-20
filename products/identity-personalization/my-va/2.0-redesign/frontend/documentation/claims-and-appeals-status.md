@@ -23,13 +23,9 @@ Specs
 
 - The claim block should show the most recently updated claim or appeal, within the last 30 days.
 - Even if multiple claims have been updated in the last 30 days, we will only highlight the most recent one.
-
-- “View details” button directly into the claim or appeal.
-
-- “You have [X] claims or appeals in progress” should show the total number of open claims and appeals in the claim status tool.
-
-- “View to all claims and appeals” goes to the claims and appeals tool.
-
+- **View details** button links directly into the claim or appeal.
+- “You have **[X] claims or appeals in progress**.” should show the total number of open claims and appeals in the claim status tool.
+- **View to all claims and appeals** goes to the [claims and appeals tool](https://www.va.gov/track-claims/your-claims).
 - Claim Statuses — These are all pulled dynamically from existing claims/appeals statuses.
 
 **State 2: One claim in progress**
@@ -38,7 +34,7 @@ Specs
 
 Specs
 
-Everything is the same as the state with multiple claims in progress, with the exception of the # of claims (ie. “1 total claim or appeal in progress”)
+Everything is the same as the state with multiple claims in progress, with the exception of the # of claims (ie. “1 total claim or appeal in progress”).
 
 **State 3: A user who has open claims or appeal in progress, but there have been no updates in more than 30 days**
 
