@@ -1,4 +1,4 @@
-## Nametag 
+## Nametag specs
 
 ### When to show the nametag
 
