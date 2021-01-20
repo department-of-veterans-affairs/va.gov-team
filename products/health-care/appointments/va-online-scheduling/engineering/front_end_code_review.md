@@ -8,7 +8,7 @@ These are the most important things to check for a PR review, for easy reference
 
 - [ ] Are the changes full explained in PR description?
 - [ ] Are there screenshots showing the effects of style/cosmetic tweaks?
-- [ ] Does the PR have tests that cover the functional changes being made?
+- [ ] Does the PR have tests that cover any functional changes that will be live in production?
 - [ ] Are any changes to current tests clearly explained by the functional changes being made in the PR?
 - [ ] Do the changes account for the different types of data we can receive from the backend?
 
