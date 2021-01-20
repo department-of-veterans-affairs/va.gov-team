@@ -6,7 +6,12 @@
 
 **Show**
 
+- Someone has at least one claim or appeal in progress, in the claim status tool even if that claim or appeal has not been updated in more than 30 days.
+
 **Do not show**
+
+- Someone has NEVER filed a claim or appeal.
+- Someone has filed at least one  claim or appeal, but all claims and appeals have been closed for MORE than 30 days.
 
 ### States
   
