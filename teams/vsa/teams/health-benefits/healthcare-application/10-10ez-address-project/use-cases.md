@@ -61,15 +61,19 @@ Link to product outline: [HCA Address Project](https://github.com/department-of-
     - **Actual**: :white_check_mark: As expected.
 - Authenticated 
   - with Mailing & Home in Profile
+      - **User**: 102
       - **Expected**: One address labled "Mailing" populated by mailing address in profile
       - **Actual**:  :white_check_mark: As expected.
   - with Mailing and Home (same as mailing) in Profile
+      - **User**: (?)
       - **Expected**: Would collect and populate Mailing address only. Would sends only the `veteranAddress` property.
       - **Actual**: :white_check_mark: As expected.
   - with Mailing Only in Profile
+      - **User**: 
       - **Expected**: 
       - **Actual**: 
   - with No addresses in Profile
+      - **User**: 
       - **Expected**: 
       - **Actual**: 
 
@@ -83,16 +87,20 @@ Link to product outline: [HCA Address Project](https://github.com/department-of-
     - **Actual**: 
 
 - Authenticated
-  - with Mailing & Home in Profile (user 100)
+  - with Mailing & Home in Profile
+      - **User**: 100
       - **Expected**: Address labled "Mailing" populated by mailing address in profile "same as mailing" question defaulted to "no" - Address labled as "Home" populated by home address in profile.
       - **Actual**: :white_check_mark: As expected.
   - with Mailing and Home (same as mailing) in Profile
+      - **User**: 
       - **Expected**: 
       - **Actual**: 
   - with Mailing Only in Profile
+      - **User**: 
       - **Expected**: 
       - **Actual**: 
-  - with No addresses in Profile (user: 113)
+  - with No addresses in Profile
+      - **User**: 113
       - **Expected**: No prefill would happen, both addresses are collected in the EZ.
       - **Actual**: :warning: As expected but contains SiP bug (needed to refresh for second address).
         - :beetle: After starting the application, but before filling in any information, I went to profile to see my attributes, then went back to the form. The EZ only asked for one address (as it did in the previous day's test).
