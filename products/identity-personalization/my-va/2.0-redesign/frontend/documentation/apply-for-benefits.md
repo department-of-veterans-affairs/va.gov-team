@@ -10,20 +10,20 @@
   
 **State 1: A user who has never applied for and doesn’t have health care/disability/edu benefits; Also has no apps in flight**  
 
-![]()
+![Apply for benefits_Getting started](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Apply%20for%20benefits_Getting%20started.jpg)
 
 **State 1B: A user who has an in-progress health care, disability, OR education application**  
 
-![]()
+![Apply for benefits_Getting started_Apps in progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Apply%20for%20benefits_Getting%20started_Apps%20in%20progress.jpg)
 
 **State 2: A user has some applications in progress**  
 
-![]()
+![Apply for benefits_Apps in progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Apply%20for%20benefits_Apps%20in%20progress.jpg)
 
 **State 2B: A user has some applications in progress, and either already has health/disability/edu or has applied for them**  
 
-![]()
+![Apply for benefits_No getting started](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Apply%20for%20benefits_No%20getting%20started.jpg)
 
 **State 3: A user has no applications in progress and no benefits in the “benefits you might be interested in” section**  
 
-![]()
+![Apply for benefits_No apps in progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Apply%20for%20benefits_No%20apps%20in%20progress.jpg)
