@@ -74,9 +74,10 @@ Link to product outline: [HCA Address Project](https://github.com/department-of-
       - **Actual**: (untested because of below issue)
         - :warning: Both users 272 and 273 had only a mailing address in profile. No EZ was SiP or previously submitted. When I started the form, no information was pre-filled from profile (name, ssn, dob, etc.).
   - with No addresses in Profile
-      - **User**: 
-      - **Expected**: 
-      - **Actual**: 
+      - **User**: 280
+      - **Expected**: EZ only asks for one address. No address prefil happens.
+      - **Actual**: :warning: As expected, *but* other profile data was not filled (name, ssn, dob, etc.).
+        - :beetle: Profile was empty (not mailing or home address popultes). I had no previous EZ application and I had no SiP. When I started the EZ, no profile information was populates (name, ssn, dob, etc.).
 
 ## Feature toggle set to: On (both address questions available)
 - Unauthenticated
