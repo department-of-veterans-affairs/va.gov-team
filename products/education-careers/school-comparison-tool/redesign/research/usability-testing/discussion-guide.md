@@ -106,7 +106,7 @@ _Prompt_ One of your family members is also in the military. They want to transf
 
 ## Third Task: Compare Schools - 15 minutes
 
-Looking at these search results, let's say you're interested in **School 1** and **School 2** and both schools have the major you're interested in.  How would you go about comparing these two schools to see which school would be a better fit for you?
+Looking at these search results, let's say you're interested in **School 1** and **School 2**.  How would you go about comparing these two schools to see which school would be a better fit for you?
 
 _Prompt_ After looking at these two schools, **School 2** doesn't look like a good option for you.  How would you remove that school from your comparison and add another in its place?
 
