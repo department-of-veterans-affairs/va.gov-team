@@ -79,7 +79,6 @@ As I mentioned earlier, this is a demo tool that may not function exactly the wa
 
 * If you had health care appointments scheduled, how would you find them from here?
 
-
 ## Section 2: Home page/Appointments list
 
 ### Task 1 - Comprehension
@@ -92,15 +91,14 @@ As I mentioned earlier, this is a demo tool that may not function exactly the wa
         * Video appointment
         * Express care / phone
         * Canceled
-        
-* If they haven't noticed the back to top button:
-    * Tell me about the rectangle on the side of the screen. What is that for, if anything?
       
 ### Task 2 - Find appointment details
 
-* What clinic will you go to during your upcoming appointment at Cheyenne VA Medical center?
+* What clinic will you go to during your upcoming appointment at Cheyenne VA Medical Center?
 
-* (Once in the appointment) When is this appointment?
+* (Once in the appointment detail) what is this page telling you?
+
+* When is this appointment?
 
 * What do you expect those links to do:
     * Add to calendar
@@ -108,16 +106,29 @@ As I mentioned earlier, this is a demo tool that may not function exactly the wa
     * Reschedule
     * Cancel
 
-* In your list of appointments, can you tell me who canceled the canceled appointment in the list?
+* Going back to your list of appointments, can you tell me who canceled the canceled appointment in the list?
 
-### Task 3 - Find appointment requests
+* (Once in the canceled appointment detail) what else is this page telling you?
+
+### Task 3 - Find other types of appointments
 
 * Are there any other types of appointments that you would expect to see in your appointments list?
 
-* How would you expect to find appointments that occurred in the past?
-
 * Sometimes when you're scheduling appointments, we need to call you to confirm the appointment before it's finalized. 
     * How would you expect to find appointments that haven't been confirmed by a scheduler yet?
+    
+* (Once on the appointments request page) what else is this page telling you?
+     * (If needed) Is there anything else you'd expect to see here?
+     
+* How would you expect to find appointments that occurred in the past?
+
+* (Once on the past appointments page) what else is this page telling you?
+     * (If needed) Is there anything else you'd expect to see here?
+     
+* Finally, where would you find appointments that have been canceled?
+
+* (Once on the appointments request page) what else is this page telling you?
+     * (If needed) Is there anything else you'd expect to see here?
 
 ## Section 3: Reschedule
 
