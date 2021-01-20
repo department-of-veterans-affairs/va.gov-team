@@ -56,19 +56,20 @@ Link to product outline: [HCA Address Project](https://github.com/department-of-
 <summary>01-20-2020 (Staging:dc5018065eccf073d172097a19922755126c98a3)</summary>
     
 ## Feature toggle set to: Off (only one address question available)
-1) Unauthenticated
+- Unauthenticated
     - **Expected**: One address as with label “Mailing” sent as `veteranAddress`.
-    - **Actual**: 
-2) Authenticated with Mailing & Home in Profile
+    - **Actual**: :white_check_mark: As expected.
+- Authenticated 
+  - with Mailing & Home in Profile
       - **Expected**: One address labled "Mailing" populated by mailing address in profile
       - **Actual**:  
-3) Authenticated with Mailing and Home (same as mailing) in Profile
+  - with Mailing and Home (same as mailing) in Profile
       - **Expected**: 
       - **Actual**: 
-4) Autheticated with Mailing Only in Profile
+  - with Mailing Only in Profile
       - **Expected**: 
       - **Actual**: 
-5) Authenticated with No addresses in Profile
+  - with No addresses in Profile
       - **Expected**: 
       - **Actual**: 
 
@@ -81,16 +82,17 @@ Link to product outline: [HCA Address Project](https://github.com/department-of-
     - **Expected**: Two address as with label “Mailing” then with “Home” sent as `veteranAddress` (mailing) and `veteranHomeAddress` (home).
     - **Actual**: 
 
-2) Authenticated with Mailing & Home in Profile 
+- Authenticated
+  - with Mailing & Home in Profile 
       - **Expected**: Address labled "Mailing" populated by mailing address in profile "same as mailing" question defaulted to "no" - Address labled as "Home" populated by home address in profile.
       - **Actual**: 
-3) Authenticated with Mailing and Home (same as mailing) in Profile
+  - with Mailing and Home (same as mailing) in Profile
       - **Expected**: 
       - **Actual**: 
-4) Autheticated with Mailing Only in Profile
+  - with Mailing Only in Profile
       - **Expected**: 
       - **Actual**: 
-5) Authenticated with No addresses in Profile (user: 113)
+  - with No addresses in Profile (user: 113)
       - **Expected**: No prefill would happen, both addresses are collected in the EZ.
       - **Actual**: As expected with SiP bug (needed to refresh for second address) and SSN validation error.
         - :beetle: After starting the application, but before filling in any information, I went to profile to see my attributes, then went back to the form. The EZ only asked for one address (as it did in the previous day's test).
