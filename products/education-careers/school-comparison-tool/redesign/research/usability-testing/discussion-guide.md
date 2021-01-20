@@ -55,7 +55,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## Initial Take - 5 minutes ##
 This is the home page of the GI Bill Comparison Tool.  Can you tell me what your initial thoughts are when you see this page?  What do you think you can do here?
 
-## First Task: Degree / Program Search - 15 minutes
+## First Task: Degree / Program Search - 10 minutes
 
 - Let's say you've recently heard of someone who received a Bachelor's in **Ethical Hacking** (other options:  Bakery Science, Puppet Art). You don't know of any schools that offer this program, but it's something that sounds interesting.  How would you use the Comparison Tool to see if any schools covered by the GI Bill offer this as a program of study?
 
