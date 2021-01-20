@@ -31,11 +31,11 @@ The goal is to help understand how much rigidity and alternatively flexibility i
 ## IA / URL Structure (Proposed Approach)
 
 - Each CLP must have a unique URL for tracking/analytics purposes
-- Some CLPs will a subdomain -- e.g.
+- Some CLP-like pages have been set up as subdomains -- e.g.
   - https://missionact.va.gov/ 
-- Some CLPs will have "vanity" redirects -- e.g.
-  - 
-- Campaign Landing Pages would fall under the More Resources section of each Benefit hub, including:
+- Some CLPs have "vanity" redirects -- e.g. bethere.gov
+
+- Proposed: All Campaign Landing Pages would fall under the More Resources section of each Benefit hub.  Rationale: Only CLPs that 
 
   - Health care - https://www.va.gov/health-care/
     - Example: https://www.va.gov/health-care/covid-19-vaccine/stay-informed
@@ -48,6 +48,8 @@ The goal is to help understand how much rigidity and alternatively flexibility i
   - Housing Assistance - https://www.va.gov/housing-assistance/
   - Life Insurance - https://www.va.gov/life-insurance/
   - Burials & Memorials - https://www.va.gov/burials-memorials/
+  
+  
  
 - We need to determine what to do about CLPs that originate from VA business lines that are not currently part of the VA.gov site structure.  Examples:
 
