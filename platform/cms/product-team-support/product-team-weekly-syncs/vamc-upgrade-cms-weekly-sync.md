@@ -21,6 +21,12 @@
 
 </details>
 
+## Wednesday Jan 20 2:30pm ET
+
+- Erie follow ups, if any?
+- Upcoming dual state launches
+- Training
+
 ## Wednesday Jan 13 2:30pm ET
 
 Agenda 
