@@ -35,13 +35,39 @@
 
 </details>
 
+## Wednesday January 27
+
+### CLP
+
+- IA URL
+- "Managed experience" for users
+
+### Content model refactoring 
+
+
+
+### Resources & support
+- Any updates?
+
+### Benefits detail pages
+
+- CMS technical debt: Intro text refactor #939
+
 ## Wednesday January 20 10:30am ET
 
 ### Campaign landing page MVP
 
 - Review CMS backlog for current sprint #1475
 - Help text for "Add a link to an external blog or other list of stories" field clarification
-- FE support. 
+- FE support
+  - ongoing asynchronous is working
+  - two main concerns: 1) designs are very custom, not much design system, lots of custom CSS. 2) Accessibility audit ongoing. 
+- Test users update from John
+  - VBA and VHA, meetings ongoing with Randi and John
+  - nothing ready in Feburary (use Teamsite for now)
+  - After Kelson finishes FE and CMS team finishes with backend, Randi and John will rebuild test. 
+  - Test users will prototype alphas in second half of February, hopefully. 
+  - We'll figure out how the keys are given, and the "managed experience".
 
 ### Resources & support
 - Any updates?
@@ -54,6 +80,7 @@
 
 - content model refactoring documentation
 - `if prod` vs feature flags
+  - next steps: Swirt will connect with Ethan about past use and bring to another meeting or the above documentation. 
 
 ## Wednesday January 13 10am ET
 
