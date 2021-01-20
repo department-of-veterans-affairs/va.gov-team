@@ -96,8 +96,8 @@ Link to product outline: [HCA Address Project](https://github.com/department-of-
       - **Expected**: 
       - **Actual**: 
   - with Mailing Only in Profile
-      - **User**: 
-      - **Expected**: 
+      - **User**: 99
+      - **Expected**: Will populate mailing address in EZ. Will not pre-select "yes/no address is the same".
       - **Actual**: 
   - with No addresses in Profile
       - **User**: 113
