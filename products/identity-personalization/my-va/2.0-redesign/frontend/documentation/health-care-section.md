@@ -27,23 +27,19 @@
   
 **State 1: Multiple new messages**  
 
-![Multiple new messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_multiple%20new%20messages.jpg)
-
-Specs
-
 - This section only shows NEW/unread messages.
 - **Latest message** shows the most recent unread messages someone has.
 - “You have **[X] new messages**.” shows the total number of new/unread messages.
 - **View all messages** links into the [messaging tool in MyHealtheVet](https://sqa.eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging).
   - **Note**: This is the staging link. We need to confirm the link for production.
 
+![Multiple new messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_multiple%20new%20messages.jpg)
+
 **State 2: One new message**  
 
-![One new messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_one%20new%20messages.jpg)
-
-Specs
-
 Everything is the same as the state with multiple messages, with the exception of the # of messages (ie. “You have 1 new message.”)
+
+![One new messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_one%20new%20messages.jpg)
 
 **State 3: No new message**  
 
@@ -66,10 +62,6 @@ Everything is the same as the state with multiple messages, with the exception o
   
 **State 1: Multiple upcoming appointments**  
 
-![Multiple upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_multiple%20upcoming%20appointments.jpg)
-
-Specs
-
 - **Next appointment** should show the next upcoming appointment based on chronological date and time.
 - “You have **[X] upcoming appointments.” should show the total number of upcoming appointments that are scheduled in the VAOS tool.
 - **View all appointments** links into [the VAOS tool](https://www.va.gov/health-care/schedule-view-va-appointments/appointments/).
@@ -81,13 +73,13 @@ Facility/location types (these should all be pulled in dynamically from the VAOS
 - Phone
 - Express care request
 
+![Multiple upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_multiple%20upcoming%20appointments.jpg)
+
 **State 2: One upcoming appointment**  
 
-![One upcoming appointment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_one%20upcoming%20appointment.jpg)
-
-Specs
-
 Everything is the same as the state with multiple upcoming appointments, with the exception of the # of appointments (ie. “You have 1 upcoming appointment.”)
+
+![One upcoming appointment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_one%20upcoming%20appointment.jpg)
 
 **State 3: No upcoming appointments**  
 
@@ -119,24 +111,20 @@ Someone IS enrolled in VA health care, BUT:
   
 **State 1: Multiple prescription refills**  
 
-![Multiple prescription refills](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_multiple%20prescription%20refills.jpg)
-
-Specs
-
 - As of now, this section should only show prescriptions in the process of being refilled. This means that those prescriptions have one of these status: Submitted or Filled.
 - **Prescription update** should show the most recent prescription that has a status of Submitted OR Filled within the last 30 days.
 - “You can **[X] prescription updates**.” should reflect the total number of prescriptions with a status of submitted or filled.
 - **View all prescriptions** links into [the prescription tool in MyHealtheVet](https://sqa.eauth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions).
   - **Note**: This is the staging link. We need to confirm the link for production.
 - Statuses (can be detected dynamically via our current integration): Submitted or Filled
+
+![Multiple prescription refills](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_multiple%20prescription%20refills.jpg)
   
 **State 2: One prescription refill**  
 
-![One prescription refill](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_one%20prescription%20refill.jpg)
-
-Specs
-
 Everything is the same as the state with multiple prescriptions in the refill process with the exception of the # of prescriptions (ie. “You have 1 prescription update.”)
+
+![One prescription refill](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_one%20prescription%20refill.jpg)
   
 **State 3: No prescription refills, but HAS prescriptions managed by the VA**  
 
@@ -153,9 +141,9 @@ We do not show the prescriptions section in this case.
 <details>
   <summary>Specs</summary>
 
-![Related links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_related%20links.jpg)
-
 - [View lab and test results](https://sqa.eauth.va.gov/mhv-portal-web/eauth?deeplinking=download_my_data)
 - [Get your VA medical records](https://sqa.eauth.va.gov/mhv-portal-web/eauth?deeplinking=download_my_data)
+
+![Related links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_related%20links.jpg)
 
 </details>
