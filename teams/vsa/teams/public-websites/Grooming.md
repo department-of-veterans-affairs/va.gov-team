@@ -32,8 +32,8 @@
 ### Campaign landing page MVP 1.0
 - Planning/Grooming Doc
 - CLP Build, launch and learn 
-- SUPER EPIC: #4621
-- CLP x Collab EPIC #11004 
+- SUPER EPIC: [#4621](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4621)
+- CLP x Collab EPIC [#11004](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11004) 
 
 Notes/Next Steps:
 @FE team working full complexity of tickets based on layers of workflow, will work HTML/CSS Async along with Transformers/graphQL componentes.  
