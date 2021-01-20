@@ -5,7 +5,7 @@ This is a rough draft of a Digital Health Modernization roadmap. It has no buy-i
 ## Now
 Items in Now are not strongly order-dependent. 
 
-### Optimize a single health page (ex., prescriptions) for call to action over content.
+### Optimize a single VA.gov health page (ex., prescriptions) for call to action over content.
 
 - A/B test against current state. 
 - Measure conversion funnel to good actions, and bounce rate between A and B. 
@@ -19,14 +19,14 @@ Items in Now are not strongly order-dependent.
 - Tests hypothesis that login is a barrier. 
 - Impacts identity crew and MHV team.
 
-### Optimize a single health page for action over content (ex., secure message). 
+### Optimize a VA.gov health page for action over content (ex., secure message). 
 
 - Measure conversion funnel to good actions, and bounce rate between va.gov and My HealtheVet equivalent. 
 - Tests hypothesis that people will be willing to use tools directly on va.gov.
 - Surfaces potential usability risk of increasing fragmentation before we reduce it. 
 - Affects Secure Message and potentially MHV teams. 
 
-### Integrate a single health page with Cerner (ex., secure message).
+### Integrate a VA.gov health page with Cerner (ex., secure message).
 
 - Addresses feasibilty risk of one patient UX, two infrastructures.
 - Affects Cerner team, potentially Flagship Mobile App team, Secure Message team, potentially MHV team (if we use their APIs). 
