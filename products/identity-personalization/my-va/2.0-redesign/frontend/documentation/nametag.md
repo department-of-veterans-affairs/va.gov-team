@@ -1,6 +1,6 @@
-## Nametag specs
+# Nametag specs
 
-### When to show the nametag
+## When to show the nametag
 
 **Show**
 
@@ -10,7 +10,7 @@
 
 - If someone is LOA1.
 
-### States
+## States
   
 **State 1**  
 
