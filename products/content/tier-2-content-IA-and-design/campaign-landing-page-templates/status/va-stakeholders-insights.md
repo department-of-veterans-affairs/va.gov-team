@@ -15,8 +15,7 @@ The goal is to help understand how much rigidity and alternatively flexibility i
 |Does a campaign page stay live or expire? |Almost all of them remain active. I don’t remember taking anything down (so far). One was “archived”, benefits.va.gov/gibill75 – it’s  still active but we’ve already celebrated the GI Bill 75th anniversary 2 years ago, it’s still there for reference.  | TBD |
 |Should some campaign pages become permanent fixtures of the benefits Hubs – e.g. Blue Water Navy| Currently, most of them are permanent pages on benefits.va.gov, because they are benefits initiatives (and some were passed by Congress as law, like BWN). I guess I’m not sure when we’ll need to transition an initiative from being a campaign to just a regular page, if necessary. This may be something that you can answer for us, if possible. In addition, I guess we would also need to determine which topics would necessitate having campaign pages (or just a plain ol’ Drupal page). I think it would be beneficial to have some guidelines and best practices when building these campaign pages.| TBD |
 |When do we utilize CLP versus learning center versus tier 1 content?| The distinction between a CLP and Resource & Support content is outlined below. | TBD |
-|How are URLs determined?| Some CLP-like pages have been set up as subdomains -- e.g.
-  - https://missionact.va.gov/ | TBD |
+|How are URLs determined?| Some CLP-like pages have been set up as subdomains -- e.g. https://missionact.va.gov/ | TBD |
 |Question TBD| TBD | TBD |
 |Question TBD| TBD | TBD |
 |Question TBD| TBD | TBD |
