@@ -94,8 +94,8 @@ Link to product outline: [HCA Address Project](https://github.com/department-of-
       - **Actual**: :white_check_mark: As expected.
   - with Mailing and Home (same as mailing) in Profile
       - **User**: 
-      - **Expected**: 
-      - **Actual**: 
+      - **Expected**: EZ askes for 2 addresses. Mailing is populated, "Yes, home is same as mailing" is pre-selected.
+      - **Actual**: :white_check_mark: As expected.
   - with Mailing Only in Profile
       - **User**: 99
       - **Expected**: Will populate mailing address in EZ. Will not pre-select "yes/no address is the same".
