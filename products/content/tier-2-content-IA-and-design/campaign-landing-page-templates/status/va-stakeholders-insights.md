@@ -34,11 +34,12 @@ The goal is to help understand how much rigidity and alternatively flexibility i
 
   - Health care - https://www.va.gov/health-care/
     - Example: https://www.va.gov/health-care/covid-19-vaccine/stay-informed
+    - Example: https://missionact.va.gov/  (For VA.gov version CLP: https://www.va.gov/health-care/mission-act)
+    - Example: https://www.veteranscrisisline.net/support/be-there (For VA.gov version CLP: https://www.va.gov/health-care/be-there)
   - Community care - https://www.va.gov/communitycare/
     - Example: https://www.va.gov/communitycare/flu-shot
   - Disability - https://www.va.gov/disability/
   - Education - https://www.va.gov/education/
-    - https://www.va.gov/education/solid-start
   - Careers and Employment - https://www.va.gov/careers-employment/
   - Pension - https://www.va.gov/pension/
   - Housing Assistance - https://www.va.gov/housing-assistance/
@@ -62,8 +63,7 @@ The goal is to help understand how much rigidity and alternatively flexibility i
   - VACO: Josh Tuscher, Gary Hicks
   
 - Secondary
-
-
+  - TBD
 
 
 
