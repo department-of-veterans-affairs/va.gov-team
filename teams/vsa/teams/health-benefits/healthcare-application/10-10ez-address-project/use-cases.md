@@ -64,8 +64,8 @@ Link to product outline: [HCA Address Project](https://github.com/department-of-
       - **Expected**: One address labled "Mailing" populated by mailing address in profile
       - **Actual**:  
   - with Mailing and Home (same as mailing) in Profile
-      - **Expected**: 
-      - **Actual**: 
+      - **Expected**: Would collect and populate Mailing address only. Would sends only the `veteranAddress` property.
+      - **Actual**: :white_check_mark: As expected.
   - with Mailing Only in Profile
       - **Expected**: 
       - **Actual**: 
