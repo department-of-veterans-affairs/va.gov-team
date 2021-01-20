@@ -56,7 +56,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - Let's say you've recently heard of someone who received an education in **Ethical Hacking** (other options:  Bakery Science, Puppet Art). You don't know of any schools that offer this program, but it's something that sounds interesting.  How would you use the Comparison Tool to see if any schools covered by the GI Bill offer this as a program of study?
 
-_ You see that **Insert school with Ethical Hacking program** is highly rated by Veterans. If you wanted to ask the School Certifying Official a few questions abou the school, how would you go about finding their contact information?
+_Prompt_ You see that **Insert school with Ethical Hacking program** is highly rated by Veterans. If you wanted to ask the School Certifying Official a few questions abou the school, how would you go about finding their contact information?
 
 
 ### Things to watch for:
