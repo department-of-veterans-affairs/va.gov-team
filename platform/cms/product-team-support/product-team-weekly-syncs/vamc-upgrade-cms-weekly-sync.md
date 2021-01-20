@@ -21,15 +21,31 @@
 
 </details>
 
+## Wednesday Jan 27 2:30pm 
+
+- Sunsetting content / archiving strategy
+
+
 ## Wednesday Jan 20 2:30pm ET
 
-- Erie follow ups, if any?
-- Tugboat and devshop demo environments
-- Upcoming dual state launches
-- Limit testing 
 - Training
   - CMS orientation session 5 video will be available by end of day Jan. 22
   - Self-service invitation for VISN 6 re-emailed today, clarified that training activities require login to training environment, not production
+    - Stan is letting folks know that invites are coming in, and to look in Junk/Spam box. 
+    - Emails are coming from Jira helpdesk email
+    - VISN 16 lists are coming today (January 20). 
+  - Accounts for Brenda and Ron created on prod, sidetraining by VAMC upgrade team. They will also go through the standard training. 
+- Recreating devshop environments in tugboat
+  - No need to recreate Erie. All other ones with `healthcare` in them, plus `fayettevillearkansas`. 
+- Erie follow ups, if any?
+- Upcoming dual state launches
+  - Lebanon, Wilkes-Barre week of Jan 25
+  - Butler, Coatesville, Wilmington week following (1st week of feb)
+  - 4 the week after that.
+  - 1 per day after that. 
+- Limit testing 
+  - No updates yet, but in current CMS sprint. 
+  - Stan Average of 4-500 nodes per VAMC. No content is currently archived. 
 
 ## Wednesday Jan 13 2:30pm ET
 
