@@ -124,11 +124,11 @@ Anyone on the team can create a user story. All are responsible for keeping them
 We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort, complexity, and amount of unknowns in our work. Here is our guide:
 | Number | Meaning |
 | -------| --------|
-| 1  | Involves a small change
-| 2  | Non-trivial, but requires some care
-| 3  | (Baseline) Some complexity or uncertainty
-| 5  | Significant complexity or uncertainty
-| 8  | High complexity or substantial uncertainty.
+| 1  | Involves a single small trivial change.
+| 2  | Small but non-trivial change, requires some care.
+| 3  | (Baseline) Contains some complexity or uncertainty.
+| 5  | Significant complexity and/or uncertainty.
+| 8  | High level of complexity and/or uncertainty.
 | 13 | Needs to be broken down; too large for one sprint; critical unknowns. 
 
 
