@@ -10,7 +10,7 @@ These are the most important things to check for a PR review, for easy reference
 - [ ] Are there screenshots showing the effects of style/cosmetic tweaks?
 - [ ] Does the PR have tests that cover any functional changes that will be live in production?
 - [ ] Are any changes to current tests clearly explained by the functional changes being made in the PR?
-- [ ] Do the changes account for the different types of data we can receive from the backend?
+- [ ] As best you can tell, do the changes account for the different types of data we can receive from the backend?
 
 If you as a reviewer can verify these things, then we as a team should be comfortable with the code being committed. Code quality or organization issues can always be fixed after the fact, and obscure edge cases missed by unit tests are unlikely to be caught in code reviews generally.
 
