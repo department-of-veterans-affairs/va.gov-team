@@ -36,7 +36,7 @@ In the same manner as the GraphQL data, the transformed CMS export data would th
 
 #### Deployment
 
-Once it is built, the VA.gov website can be deployed through the partial (or content-only) deploy or the full deploy.
+The VA.gov website can be deployed through the partial (or content-only) deploy or the full deploy.
 
 The full deploy is a daily job that deploys `vets-website` to the production environmentt of VA.gov. It uses latest commit of `vets-website` as of 2:00pm ET on that day and the latest content downloaded from the Drupal server. It can be manually invoked as necessary, independently of the daily schedule.
 
@@ -136,7 +136,7 @@ There may be auxiliary configurations required in the `devops` [repo](https://gi
 
 ### Testing Plan
 
-The following behaviors should be observed cumulatively when testing each phase of implementation.
+The following behaviors should be observed cumulatively as they are implemented.
 1. Build is stored at the proper location in S3 when the pipeline is invoked.
 2. Pipeline runs on the defined schedule.
 3. Deploy doesn't proceed when no new content has been published.
@@ -183,9 +183,6 @@ There are no new privacy concerns with the auto-deploy as user data is not invol
 - Is there a way to get the time of the last updated published content in Drupal and use that to determine if we should build or not?
   - If we have access to that information, we may not need to compare the CMS export tarballs.
 
-- How might we support incremental deploys?
-  - To improve the runtime, we could potentially do incremental deploys.
-
 #### Risks
 
 - Newly added content from CMS without associated transformer schemas could fail the build.
@@ -205,7 +202,8 @@ Ideally, content would get deployed immediately as content writers make changes.
 
 ### Future Work
 
-There are plans to transition from Jenkins to CircleCI for our build pipeline. The auto-deploy job will have to be brought over to CircleCI at that time.
+- There are plans to transition from Jenkins to CircleCI for our build pipeline. The auto-deploy job will have to be brought over to CircleCI at that time.
+- To improve the runtime, we might want to explore incremental deploys.
 
 ### Revision History
 
