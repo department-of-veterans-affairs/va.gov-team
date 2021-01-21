@@ -181,9 +181,9 @@ What is the ideal schedule for the auto-deploy?
 - We want the highest rate of deploy that the system can sustain.
 
 How should we coordinate the schedule of the auto-deploy with the daily production deploy?
-- There's a possibility that the deploys from both pipelines will collide.
+- The deploys from both pipelines will likely overlap.
 - The daily production deploy is still necessary for tagging the release.
-- The queue of content-only deploys may naturally resolve conflicts without any special handling.
+- [The queue of content-only deploys should naturally resolve conflicts without any special handling.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18393)
 
 Is there a way to get the time of the last updated published content in Drupal and use that to determine if we should build or not?
 - If we have access to that information, we may not need to compare the CMS export tarballs.
