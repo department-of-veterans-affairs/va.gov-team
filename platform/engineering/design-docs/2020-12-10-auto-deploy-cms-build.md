@@ -1,7 +1,7 @@
 # Automatic Deploy of Content Built from CMS Export
 
 **Author(s):** Jhonny Gonzalez, Eugene Doan  
-**Last Updated:** january 20, 2021  
+**Last Updated:** January 20, 2021  
 **Status:** Draft | **In Review** | Approved  
 **Approvers:**
 
