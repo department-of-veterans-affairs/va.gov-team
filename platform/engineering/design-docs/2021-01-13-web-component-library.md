@@ -160,6 +160,17 @@ There are [dozens of tools/frameworks](https://webcomponents.dev/blog/all-the-wa
 
 Continue adding Components until the React version of `component-library` is completely replaced. Web Components can co-exist fine with React components, but it will be easier if we only have to maintain a single library.
 
+We could also significantly improve performance by using Web Components to replace React on pages that aren't React apps. Right now in `vets-website`, the "MegaMenu" is a React component and it is loaded in the header on each page. Having all of the React code necessary for that in the `static-pages` bundle bloats the bundle size and reduces performance. If this were a Web Component instead, less JS would have to be shipped in the bundle since the browser already knows what to do with Web Components and it doesn't need to load additional framework code.
+
+In a direct comparison, the bundle size of React is [significantly bigger](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component/#bundle-size-1) than it is for Stencil.
+
+**Bundle size comparisons for a single component**
+
+|         | Component | Library  | Total    |
+|---------|-----------|----------|----------|
+| React   | 788B      | 131,948B | 129.63kB |
+| Stencil | 878B      | 12,011B  | 12.59kB  |
+
 #### Templating
 
 The library could be extended to include Components focused on overall site layout in addition to the more granular Components. This could allow us to use Web Components as a replacement for the Liquid templates in `vets-website`. The content build could then be modified to include these templates. Stencil provides [additional tooling for static site generation](https://stenciljs.com/docs/static-site-generation) which may be helpful with this as well.
