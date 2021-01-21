@@ -535,6 +535,10 @@ Original goal:
   - Oversee implementation
 - Start contact center guide
 
+**Design**
+
+- Start contact center guide
+
 **QA**
 
 - Complete QA
@@ -549,10 +553,6 @@ Original goal:
 **PM**
 
 - Kickoff?
-
-**Design**
-
-- If time, have an initial call with design <> VA Profile.
 
 **BE**
 
