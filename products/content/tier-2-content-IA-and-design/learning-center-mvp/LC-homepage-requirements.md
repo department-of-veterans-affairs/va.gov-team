@@ -30,9 +30,9 @@ This is WIP and may evolve based on user research and technical findings.
 ### For Content Editor/Publisher: CMS process + FE logic on the `Browse by audience` section
 
 When the content team is ready to publish browse-by-audience links on the RS homepage, the content editor/publisher will need to:
-1/ "Promote" the audience tag to the RS homepage from the CMS > Taxonomy > Audience section. 
-2/ Then, go into the RS homepage edit view, and manually add a section header called __Browse by audience__. There is no need to manually enter audience links themselves. 
-3/ The FE template will recognize the CMS __Browse by audience__ header text as an ID and dynamically display the audiences that have been `promoted` in the CMS. 
+- 1/ "Promote" the audience tag to the RS homepage from the CMS > Taxonomy > Audience section. 
+- 2/ Then, go into the RS homepage edit view, and manually add a section header called __Browse by audience__. There is no need to manually enter audience links themselves. 
+- 3/ The FE template will recognize the CMS __Browse by audience__ header text as an ID and dynamically display the audiences that have been `promoted` in the CMS. 
 
 
 ## Browse by topics section
