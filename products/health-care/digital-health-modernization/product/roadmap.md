@@ -48,6 +48,7 @@ Items in Now are not strongly order-dependent. This describes how we might agile
 ## Next
 Items in next **are** order-dependent. This describes how we might transition users from My HealtheVet to VA.gov. 
 
+- Create a health "home" on VA.gov so the tools we've created function cohesively
 - Market an opt-in alpha of health.VA.gov, (perhaps banner) on MHV. Show to small number of people. Get feedback. 
 - Do another vertical slice (ex., appointments) that adds net new value to va.gov. Addresses feasibility risk of using APIs that were developed a couple years ago for vets.gov.
 - Do another vertical slice until the big four (appointments, meds, records, messages) are done. 
