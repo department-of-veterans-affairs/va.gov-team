@@ -53,9 +53,37 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 ## Initial Take - 5 minutes ##
-This is the home page of the GI Bill Comparison Tool.  Can you tell me what your initial thoughts are when you see this page?  What do you think you can do here?
+This is the GI Bill Comparison Tool, which allows you to see the benefits you can receive at various schools.  Can you tell me what your initial thoughts are when you see this page?  What do you think you can do here?
 
-## First Task: Degree / Program Search - 10 minutes
+
+## First Task: Radius from Location - 10 minutes
+
+- Let's say you aren't sure what you want to major in, but you live in **Daytona, Florida** and want to find a school within 30 miles of your location because you don't want a long commute.  How would you use the Comparison Tool to find schools that are within that driving distance?
+
+
+### Things to watch for:
+
+- Where does the user look to enter the search criteria?
+- Do they click the search fields?
+- What dropdowns (if any) do they open?
+- What location format do users say they would input?
+
+### Upon task completion:
+ - How did you think that went?
+ - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of finding schools by distance from location?
+ - Looking at the benefits for these schools, let's say someone had only served in the military for 2 years.  Do you think these numbers accurately represent the benefits they would receive?  
+       - If not, how would they go about determining what benefits they would receive?
+ - How do you think the school search results were sorted?
+ - Was there any other information you were expecting to see?
+ 
+ **Can you please return to the GI Bill Comparison Tool Home Page?**
+ 
+ ### Things to watch for:
+
+- How does the user try to get back to the home page?
+ 
+ 
+## Second Task: Degree / Program Search - 10 minutes
 
 - Let's say you've recently heard of someone who received a Bachelor's in **Ethical Hacking** (other options:  Bakery Science, Puppet Art). You don't know of any schools that offer this program, but it's something that sounds interesting.  How would you use the Comparison Tool to see if any schools covered by the GI Bill offer this as a program of study?
 
@@ -82,27 +110,7 @@ Part 2
  - What do you think of the school cards?
  - How do you think the school search results were sorted? (Why were some schools higher or lower on the list?)
  - Was there any other information you were expecting to see?
- 
-## Second Task: Radius from Location - 10 minutes
 
-- Let's say you aren't sure what you want to major in, but you live in **Daytona, Florida** and want to find a school within 30 miles of your location because you don't want a long commute.  How would you use the Comparison Tool to find schools that are within that driving distance?
-
-_Prompt_ One of your family members is also in the military. They want to transfer some of their education benefits to you.  If you were using their benefits, do you think these numbers would change?  
-  - If yes, how would you find out what your benefits would be?
-
-
-### Things to watch for:
-
-- Where does the user look to enter the search criteria?
-- Do they click the search fields?
-- What dropdowns (if any) do they open?
-- What location format do users say they would input?
-
-### Upon task completion:
- - How did you think that went?
- - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, what did you think of finding schools by distance from location?
- - How do you think the school search results were sorted?
- - Was there any other information you were expecting to see?
 
 ## Third Task: Compare Schools - 15 minutes
 
