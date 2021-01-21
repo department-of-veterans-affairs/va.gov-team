@@ -53,11 +53,9 @@ The content-only deploy builds `vets-website` with the latest content downloaded
 
 #### Pain points
 
-Content writers want to quickly draft, publish, and deploy content. However, `vets-website` is only deployed to production once per day.
-
-The content-only deploy does allow the CMS team to deploy content independently of the daily production deploy, but that is a manual trigger. Furthermore, it does not include automated accessibility checks.
-
-In local development, engineers can encounter confusing build errors that are due to the mismatch in outdated locally cached content and updated Liquid templates.
+- Content writers want to quickly draft, publish, and deploy content. However, `vets-website` is only deployed to production once per day.
+- The content-only deploy does allow the CMS team to deploy content independently of the daily production deploy, but that is a manual trigger. Furthermore, it does not include automated accessibility checks.
+- In local development, engineers can encounter confusing build errors that are due to the mismatch in outdated locally cached content and updated Liquid templates.
 
 ### High Level Design
 
@@ -68,7 +66,7 @@ This new auto-deploy has a few main differences with the existing content-only d
 
 The schedule will run between 8am and 8pm ET. It will initially be set to run hourly as a conservative cadence. It will then be incrementally adjusted to a higher frequency as the build system allows.
 
-Without knowing whether the content being built has new changes, the auto-deploy will sometimes redeploy existing content. To reduce the number of redundant deploys, the job will compare the export data (e.g., using and archiving the checksums of the previously downloaded tarballs) to determine whether a deploy is necessary.
+To avoid deploying when content hasn't changed since the previous deploy, the job will compare the export data (e.g., using and archiving the checksums of the tarballs).
 
 ## Specifics
 
@@ -173,27 +171,27 @@ There are no new privacy concerns with the auto-deploy as user data is not invol
 
 #### Questions
 
-What is the ideal schedule for the auto-deploy?
-- The pipeline will initially run hourly 8am-8pm ET on weekdays.
-- We want the highest rate of deploy that the system can sustain.
+- What is the ideal schedule for the auto-deploy?
+  - The pipeline will initially run hourly 8am-8pm ET on weekdays.
+  - We want the highest rate of deploy that the system can sustain.
 
-How should we coordinate the schedule of the auto-deploy with the daily production deploy?
-- The deploys from both pipelines will likely overlap.
-- The daily production deploy is still necessary for tagging the release.
-- [The queue of content-only deploys should naturally resolve conflicts without any special handling.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18393)
+- How should we coordinate the schedule of the auto-deploy with the daily production deploy?
+  - The deploys from both pipelines will likely overlap.
+  - The daily production deploy is still necessary for tagging the release.
+  - [The queue of content-only deploys should naturally resolve conflicts without any special handling.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18393)
 
-Is there a way to get the time of the last updated published content in Drupal and use that to determine if we should build or not?
-- If we have access to that information, we may not need to compare the CMS export tarballs.
+- Is there a way to get the time of the last updated published content in Drupal and use that to determine if we should build or not?
+  - If we have access to that information, we may not need to compare the CMS export tarballs.
 
-How might we support incremental deploys?
-- To improve the runtime, we could potentially do incremental deploys.
+- How might we support incremental deploys?
+  - To improve the runtime, we could potentially do incremental deploys.
 
 #### Risks
 
-Newly added content from CMS without associated transformer schemas could fail the build.
-- New content introduces the possibility of new discrepancies, which would fail any validations that depend on diffs between the GraphQL and CMS export builds.
-- Having more content will inflate the runtime of the content-only deploy and could potentially exceed the scheduled interval.
-- The best defense against this is accounting for null and empty fields in transformers.
+- Newly added content from CMS without associated transformer schemas could fail the build.
+  - New content introduces the possibility of new discrepancies, which would fail any validations that depend on diffs between the GraphQL and CMS export builds.
+  - Having more content will inflate the runtime of the content-only deploy and could potentially exceed the scheduled interval.
+  - The best defense against this is accounting for null and empty fields in transformers.
 
 ### Work Estimates
 
