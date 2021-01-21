@@ -105,7 +105,9 @@ N/A
 
 ### Open Questions and Risks
 
-Accessibility and performance are two things that should receive lots of attention.
+How will we ensure that each Component meets accessibility standards?
+
+How will we measure performance of Web Components, lazy-loading, etc?
 
 Do we want to remove the explicit dependency on [USWDS](https://designsystem.digital.gov/)? Rather than explicitly relying on `uswds`, the Component library could be an abstraction for `vets-website` that implements the appropriate styles from `uswds`. A Component library complete with global styling defaults might be able to accomplish everything that `uswds` is providing.
 
