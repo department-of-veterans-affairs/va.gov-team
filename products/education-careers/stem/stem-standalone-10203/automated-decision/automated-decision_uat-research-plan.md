@@ -1,11 +1,16 @@
-# Research Plan for STEM Scholarship (22-10203) Automated Decision
+# UAT Research Plan for STEM Scholarship (22-10203) Automated Decision
 
 As a designer I need to create a research plan to share with my team.	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
 
 ## Goals	
-1. What product & team are you doing this research for?	VA.gov Education (#vsa-education) team is preparing to release new functionality to be incorporated to the STEM Scholarship application on VA.gov that would provide "automated denial" decisions upon submission of the application.
+1. What product & team are you doing this research for?
+   VA.gov Education (#vsa-education) team is preparing to release new functionality to be incorporated to the STEM Scholarship application on VA.gov that would provide "automated denial" decisions upon submission of the application.
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?	
-3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
+   This enhancement to the STEM Scholarship form is being made in an effort to reduce the number of applications that require processing by the Buffalo RPO. Historically, there have been a high percentage of ineligible applications that require processing because the application itself is relatively simple to complete and the potential payoff is high (up to $30,000). There are a few required fields within the application that on their own indicate an individual's eligibility and these are the fields we are utilizing to trigger an automated denial. In addition, we are also planning to the addition of a POA indicator to the spool file reports to be processed by the Buffalo RPO
+3. Research questions:
+   1. Are applicants being automatically denied as expected? Are they receiving appropriate communication upon automatic denial?
+   2. Are any applicants being automatically denied who should not be?
+   3. Is the spool file being updated for applicants based on whether or not they have POA associated with their EVSS profile?
 4. Hypothesis: What is your hypothesis for this research? 	
 
 ## Method	
