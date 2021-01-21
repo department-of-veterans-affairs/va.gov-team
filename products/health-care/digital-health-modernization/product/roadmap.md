@@ -13,12 +13,12 @@ This is a rough draft of a Digital Health Modernization roadmap. It has no buy-i
 ### Now
 Items in Now are not strongly order-dependent. This describes how we might agile-ly add core clinical affordances to VA.gov. 
 
-#### Optimize a single VA.gov health page (ex., prescriptions) for call to action over content.
+#### Optimize a single VA.gov health page (ex., secure message) for call to action over content.
 
 - A/B test against current state. 
 - Measure conversion funnel to good actions, and bounce rate between A and B. 
 - Tests hypothesis that modernization = action over understanding. 
-- Impacts public website and authenticated experience crews. 
+- Impacts public website, authenticated experience crews and secure message crews. 
 
 #### Migrate MHV accounts into an appropriate single sign-on solution. 
 
