@@ -150,7 +150,9 @@ Continue adding Components until the React version of `component-library` is com
 
 #### Templating
 
-The library could be extended to include Components focused on overall site layout in addition to the more granular Components. This could allow us to use Web Components as a replacement for the Liquid templates in `vets-website`.
+The library could be extended to include Components focused on overall site layout in addition to the more granular Components. This could allow us to use Web Components as a replacement for the Liquid templates in `vets-website`. The content build could then be modified to include these templates. Stencil provides [additional tooling for static site generation](https://stenciljs.com/docs/static-site-generation) which may be helpful with this as well.
+
+This is only an _option_, not something that is definitely planned.
 
 ### Revision History
 
