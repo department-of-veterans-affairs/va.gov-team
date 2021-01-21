@@ -113,12 +113,17 @@ What vaccines we need for the region being traveled to and when.
 Normal visit would make more sense to me.
 
 **Post-Task Questions - 5 minutes**
-In these tasks, you saw or heard words such as vaccines, vaccination, immunization, shot. What words connect with you? Did we miss any? No.
+
+- In these tasks, you saw or heard words such as vaccines, vaccination, immunization, shot. What words connect with you? Did we miss any? 
+
+No.
+
 •	Any questions for me? 
 
 No but I am glad to help improve this for everyone in the va. 
 
 **Thank-You and Closing**
+
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we work to make vaccine information easy to find for Veterans.
 
 Great, well thank you so much again, and enjoy the rest of your day!
