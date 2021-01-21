@@ -48,17 +48,17 @@ Until we reach that point, the WC branch will be developed in the `component-lib
 
 We will use a [Github Release](https://github.com/department-of-veterans-affairs/component-library/releases/new) to create a new tag for the branch we want. The tags will follow [semantic versioning](https://semver.org/), and will be created after enough new development has landed in the branch (i.e. a new component, bugfix, etc. Documentation typo fixes won't get a release). A tag will have the pattern `wc-vX.Y.Z`, where `X`, `Y`, and `Z` represent major, minor, and patch versions respectively.
 
-If a new Web Component is created that replaces an existing React component, the Web Component dependency in `vets-website` will be updated to the new tag and VFS teams will be able to use this component in their code according the the associated documentation for how to use the component. After a sprint, the React component will be removed from `component-library` and a new npm version will be published. This means that any teams that haven't updated their code will cause the build to break on the newest `component-library` version. **It will be the VFS teams' responsibility to update their app code to use the appropriate components**. It will be the job of the Design System engineers to provide Web Components which achieve parity with their React counterparts.
+If a new Web Component is created that replaces an existing React component, the Web Component dependency in `vets-website` will be updated to the new tag and VFS teams will be able to use this component in their code according the the associated documentation for how to use the component. After a sprint, the React component will be removed from `component-library` and a new npm version will be published with a major version increment. This means that any teams that haven't updated their code will cause the build to break on the newest `component-library` version. **It will be the VFS teams' responsibility to update their app code to use the appropriate components**. It will be the job of the Design System engineers to provide Web Components which achieve parity with their React counterparts.
 
 #### Tooling
 
 This WC-specific branch will use [Stencil](https://stenciljs.com/) as a tool to help build the Components, and it will also have [Storybook](https://storybook.js.org/) integration. Updates to this branch will follow the typical development flow using PRs. Anytime a new WC is developed or a significant change is made, a new release will be tagged.
 
-With Stencil, the source for each Component and any helper functions will be written in [TypeSCript](https://www.typescriptlang.org/). This will bring all of the benefits of static typing to our component library, and the output bundle will be transipled to JS.
+With Stencil, the source for each Component and any helper functions will be written in [TypeScript](https://www.typescriptlang.org/). This will bring all of the benefits of static typing to our component library, and the output bundle will be transipled to JS.
 
 #### Styling
 
-One of the additional benefits of Web Components is how they can be styled. Each Component can have its own styles scoped to its [shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM) (this means that if a Component renders a `<div>`, the CSS can broadly style the `div` node without worrying about it affecting all the other `<div>`s on the page). As a result, each component will have it's own CSS file which also makes use of global [CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties).
+One of the additional benefits of Web Components is how they can be styled. Each Component can have its own styles scoped to its [shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM) (this means that if a Component renders a `<div>`, the Component's CSS can broadly style the `div` node without worrying about it affecting all the other `<div>`s on the page). As a result, each component will have it's own CSS file which also makes use of global [CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties).
 
 #### Loading Web Components on va.gov
 
@@ -66,7 +66,7 @@ Once in `vets-website`, the setup code for the WC library will be in its own ent
 
 In addition, this script will be one of the first loaded in order to ensure that the Components will be defined in the browser before they are rendered on the page. This will be done by adding a `<script>` entry towards the top of [the `<head>` tag that gets loaded on every page](https://github.com/department-of-veterans-affairs/vets-website/blob/dc5018065eccf073d172097a19922755126c98a3/src/site/includes/header.html#L16)
 
-For further optimization, the Components will be lazy-loaded. If our Web Component library ends up having hundreds of Components, this could cause quite the burden if we defined these every time a new user landed on a va.gov page. Instead, the Components will only _actually_ be defined if they appear on the page. [Stencil has a useful article that talks about their lazy loading approach](https://stenciljs.com/blog/how-lazy-loading-web-components-work).
+For further optimization, the Components will be lazy-loaded. If our Web Component library ends up having hundreds of Components, this could cause a significant performance impact if we defined these every time a new user landed on a va.gov page. Instead, the Components will only _actually_ be defined if they appear on the page. [Stencil has a useful article that talks about their lazy loading approach](https://stenciljs.com/blog/how-lazy-loading-web-components-work).
 
 ### Code Location
 
