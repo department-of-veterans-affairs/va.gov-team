@@ -45,6 +45,10 @@
 - The blue hairline **is** an existing element, but I think it may also only exist on the [Pittsburgh VA medical center site](https://www.va.gov/pittsburgh-health-care/).
 - As mentioned on the claim status specs, "You have **[X] new messages.**" is a new element. Please work with **Tressa and Cassanda** for specs.
 
+*Copy specs*
+
+- **All final copy is TBD**
+
 ![Multiple new messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_multiple%20new%20messages.jpg)
 
 **State 2: One new message**  
@@ -98,6 +102,10 @@ Facility/location types (these should all be pulled in dynamically from the VAOS
 - As mentioned on the claim status specs, "You have **[X] upcoming appointments.**" is a new element. Please work with **Tressa and Cassanda** for specs.
 
 ![Multiple upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_multiple%20upcoming%20appointments.jpg)
+
+*Copy specs*
+
+- **All final copy is TBD**
 
 **State 2: One upcoming appointment**  
 
@@ -153,6 +161,10 @@ Someone IS enrolled in VA health care, BUT:
 - The biggest challenge here may be the columns. We don't have many examples of handling information in columns like this on VA.gov, but we've reviewed this with some of the design leads and they agree that this treatment makes sense given that it improves scannability ove the existing single-column treatment. For an example of how we handle information in columns, please refer to the [Pittsburgh VA medical center site](https://www.va.gov/pittsburgh-health-care/).
 - The blue hairline **is** an existing element, but I think it may also only exist on the [Pittsburgh VA medical center site](https://www.va.gov/pittsburgh-health-care/).
 - As mentioned on the claim status specs, "You have **[X] prescription refills.**" is a new element. Please work with **Tressa and Cassanda** for specs.
+
+*Copy specs*
+
+- **All final copy is TBD**
 
 ![Multiple prescription refills](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Health%20care%20section_multiple%20prescription%20refills.jpg)
   
