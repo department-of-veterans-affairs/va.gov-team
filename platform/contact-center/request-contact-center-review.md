@@ -63,6 +63,7 @@ All applications on the Veteran-facing Services Platform include a phone number 
       * **Context**: Provide a high-level description of the functionality for which you're requesting this review, for example:
         * ```Functionality adds a new dataset to the Facility Locator so users can search for and view non-VA health providers on the map, as well as in list and detail views.```
       * **Launch Date and Details**: ```summary or link to launch plans, including any communication happening prior to launch``` 
+      * **Version Number**: ```Please provide version number of guide and/or video.  Please be certain to update version numbers as modifications are made and provide us with the most up to date version.```
       * **URL**: ```link to your project on staging```
       * **Product Guide**: ```attached to the issue.```
       * **Product Video**: ```link to the demo video on Github```
