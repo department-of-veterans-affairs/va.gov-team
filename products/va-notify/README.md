@@ -32,7 +32,7 @@ Slack - #va-notify
 | Flask                | GitHub Actions  | Grafana               |
 | Celery               | AWS Fargate     | PagerDuty             |
 | Granicus GovDelivery |                 | Twistlock             |
-|                      |                 | Bandit                |
+| AWS (SES/Pinpoint)   |                 | Bandit                |
 
 
 ## Current Offering
