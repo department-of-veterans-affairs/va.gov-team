@@ -103,15 +103,16 @@ Plan to draw from the existing recruiting contract - Perigean
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator: Desiree Turner
-- Research guide writing and task development (usually but not always same as moderator):	Desiree Turner
+- Moderator: Desiree Turner (turner_desiree@bah.com)
+- Research guide writing and task development (usually but not always same as moderator):	Desiree Turner (turner_desiree@bah.com)
 - Participant recruiting & screening: Perigean
-- Project point of contact: Desiree Turner
+- Project point of contact: Desiree Turner (turner_desiree@bah.com)
 - Participant(s) for pilot test:	TBD
-- Note-takers:	Dan Shawkey, Darrell Neel, Amy Knox, Jen Jones, Emma Waters, Will McCormack
-- Observers: Dan Shawkey, Darrell Neel, Amy Knox, Jen Jones, Emma Waters, Will McCormack
+- Note-takers:	Dan Shawkey (shawkey_daniel@bah.com), Darrell Neel (shawkey_daniel@bah.com), Amy Knox (knox_amy@bah.com), Jen Jones (jones_jennifer2@bah.com), Emma Waters (waters_emma@bah.com), Will McCormack (mccormack_will@bah.com)
+- Observers: Dan Shawkey (shawkey_daniel@bah.com), Darrell Neel (shawkey_daniel@bah.com), Amy Knox (knox_amy@bah.com), Jen Jones (jones_jennifer2@bah.com), Emma Waters (waters_emma@bah.com), Will McCormack (mccormack_will@bah.com)
 
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
+**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
+
 ## Resources	
 - Project Brief: 	
 *Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
