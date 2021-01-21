@@ -11,23 +11,71 @@ As a designer I need to create a research plan to share with my team.	(This shou
    1. Are applicants being automatically denied as expected? Are they receiving appropriate communication upon automatic denial?
    2. Are any applicants being automatically denied who should not be?
    3. Is the spool file being updated for applicants based on whether or not they have POA associated with their EVSS profile?
-4. Hypothesis: What is your hypothesis for this research? 	
+4. Hypothesis: What is your hypothesis for this research? Applicants are being denied as expected and are receiving appropriate email communication upon automatic denial. 
 
 ## Method	
 1.	What method of research are you planning? 	
-  - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 	
-  - **Also mention:** in-person moderated, remote moderated, remote unmoderated	
-  	
-2.	Why this method? How does this methodology help you answer your research questions? 	
-3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*	
-4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
-5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
+  - **Sample Methodologies**: Remote moderated user acceptance testing with Veterans on Production 	
+2.	Why this method? How does this methodology help you answer your research questions? We are unable to complete testing on staging due to lack of EVSS test data located there. With this, the best way to test that the functionality is worked as expected is with Veterans on Production through submissions of actual applications. 
+3.	Where are you planning to do your research? Via webconference and screenshare
+4.	What will you be testing? The live 22-10203 application  	
+5.  If remote: What tool do you plan to use? Zoom via Perigean
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	  
 (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
 
+3 Ineligible due to program type
+- Currently enrolled in a higher education program that is NOT in the field of Science, Technology, Engineering, or Math.
+- Less than 6 months of benefit entitlement remaining. To check this:
+   - Navigate to https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
+   - Sign into your account
+   - Review your remaining entitlement (in months and days) for your post-9/11 (chapter 33) GI Bill benefit
+
+3 Ineligible due to remaining entitlement
+- Currently enrolled in a higher education program that IS in the field of Science, Technology, Engineering, or Math.
+- More than 6 months of benefit entitlement remaining. To check this:
+   - Navigate to https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
+   - Sign into your account
+   - Review your remaining entitlement (in months and days) for your post-9/11 (chapter 33) GI Bill benefit
+
+2 Eligible 
+- Currently enrolled in a STEM program
+- using their post-9/11 GI Bill Benefits to pay for their program of study
+- Less than 6 months of benefit entitlement remaining. To check this:
+   - Navigate to https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
+   - Sign into your account
+   - Review your remaining entitlement (in months and days) for your post-9/11 (chapter 33) GI Bill benefit
+
+
 Please list your participant criteria in two categories-
 1. **Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.) 
+
+All participants must: 
+- Be veterans
+- Be able to sign in to VA.gov and view their remaining entitlement (instructions below)
+- Currently using post-9/11 (Chapter 33) GI Bill benefits
+
+3 Ineligible participants due to program type
+- Currently enrolled in a higher education program that is NOT in the field of Science, Technology, Engineering, or Math.
+- Less than 6 months of benefit entitlement remaining. To check this:
+   - Navigate to https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
+   - Sign into your account
+   - Review your remaining entitlement (in months and days) for your post-9/11 (chapter 33) GI Bill benefit. Note that in some cases this information is unavailable. If this is so, the participant would not be eligible to participate. 
+
+3 Ineligible participants due to remaining entitlement
+- Currently enrolled in a higher education program that IS in the field of Science, Technology, Engineering, or Math.
+- More than 6 months of benefit entitlement remaining. To check this:
+   - Navigate to https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
+   - Sign into your account
+   - Review your remaining entitlement (in months and days) for your post-9/11 (chapter 33) GI Bill benefit. Note that in some cases this information is unavailable. If this is so, the participant would not be eligible to participate. 
+
+2 Eligible participants
+- Currently enrolled in a STEM program
+- using their post-9/11 GI Bill Benefits to pay for their program of study
+- Less than 6 months of benefit entitlement remaining. To check this:
+   - Navigate to https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
+   - Sign into your account
+   - Review your remaining entitlement (in months and days) for your post-9/11 (chapter 33) GI Bill benefit. Note that in some cases this information is unavailable. If this is so, the participant would not be eligible to participate. 
 
 2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
 
@@ -36,24 +84,33 @@ Please list your participant criteria in two categories-
 - Do not assume that your recruiters or the participants know your products or requirements as well as you do. Provide links to products, clear descriptions, specifics, etc. 
 
 2.	What is your recruitment strategy? 	
-(If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract - Perigean - or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact Research Contract Lead.)	
+Plan to draw from the existing recruiting contract - Perigean
 
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
-(IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 	
-2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
-3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
+   2/9/2021 - 2/18/2021
+
+2.	Prepare: When will the thing you are testing be ready? 
+2/04/2021
+
+3. Length of Sessions: How long do you estimate each session will be? 
+30 minutes with a 15 minute buffer time between sessions. 
+
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
+
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
+02/08/2021
+
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:	
-- Note-takers:	
-- Observers:	
+- Moderator: Desiree Turner
+- Research guide writing and task development (usually but not always same as moderator):	Desiree Turner
+- Participant recruiting & screening: Perigean
+- Project point of contact: Desiree Turner
+- Participant(s) for pilot test:	TBD
+- Note-takers:	Dan Shawkey, Darrell Neel, Amy Knox, Jen Jones, Emma Waters, Will McCormack
+- Observers: Dan Shawkey, Darrell Neel, Amy Knox, Jen Jones, Emma Waters, Will McCormack
+
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
 ## Resources	
 - Project Brief: 	
