@@ -140,6 +140,13 @@ Let’s go back to the home screen.
   - Can you pretend I’m a friend (or fellow Veteran) and you’re recommend the app to me? Why are you recommending it? What would you say? 
 - Let's say the app I’ve shown you today hits the app stores tomorrow, with exactly what you see here, but you could add 1 more thing - what would you add?
   - Why?
+  
+### Remove prototype app
+Now I’m going to walk you through how to uninstall the app. Since this is a prototype it's only meant for testing and won't be updated. I would hate for you to try to use it in the future and have it not work correctly. So let's remove it and you can decide to install the finished app when we launch it in the Google Play store.
+
+- Go to home screen and find VA Mobile icon.
+- Long press on icon and there will be the option to uninstall.
+- Tap on install.
 
 ## Close (2 minutes)
 That’s all the questions I have for you today. Do you have any last questions for me?
