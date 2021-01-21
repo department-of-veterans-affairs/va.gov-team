@@ -4,7 +4,11 @@
 
 ## Research Goals 
 
-- .
+- Learn the Veteran mental models for vaccination within the health service taxonomy, primarily for VAMCs.
+  - Where in the VHA taxonomy do Veterans expect vaccination services to be found?
+  - What words do Veterans use when searching for vaccination-related services?
+  - Is the mental model different change based on the type of vaccination?
+
 
 ## Research Methodology 
 
@@ -12,6 +16,7 @@ Remote, moderated card sorting sessions were conducted via Zoom.
 
 ### Who we talked to
 9 Participants:
+
 * 
 
 ### Research Questions
