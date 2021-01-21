@@ -121,19 +121,19 @@ Note: These estimates do not account for time spent on other team duties such as
 
 #### Stencil Project setup with Storybook integration
 
-**Estimate:** ~3 days
+**Estimate:** ~4 days
 
 This has already been done as a PoC - some additional work should be done to make sure that the built version of storybook can use the Web Components
 
 #### Create new Webpack entry for Web Component loader
 
-**Estimate:** ~2 days
+**Estimate:** ~3 days
 
 `vets-website` should create a `wc-loader.entry.js` file that will get loaded in the `<head>` of each page.
 
 #### Develop an Accordion Web Component
 
-**Estimate**: ~4 days
+**Estimate**: ~5 days
 
 This will be the first WC to go live on va.gov.
 
