@@ -4,4 +4,5 @@
 
 ### Topics to Discuss
 * Change management messaging with content editors
-* Timing for hourly auto-deploy 
+* Timing for hourly auto-deplo
+* Circular reference errors in cms-export build 
