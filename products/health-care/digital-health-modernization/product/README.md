@@ -90,6 +90,7 @@ Using Marty Cagan's framework for risk in absence of a compelling reason not to.
 ### Viability
 - Is OCTO set up logistically and financially to onboard and pay the staff and / or contractors we'll need to do this work? Smart play here may be to address feasibility risk first, which will surface staffing needs, which we can evaluate here.
 - Can we identify a long-term owner of this initiative, which will last longer than the term of any USDS employee?
+- Do we have evidence, or a way to get evidence, that doing this will dissuade anyone of letting Cerner take over the VA's patient portal? 
 
 ### Value
 - Currently our approach is more about preserving (one good place on web to do health transactions) than adding value. The biggest risk here is that's very abstract to users, who may need a carrot to deal with us moving their cheese. Aryeh needs to solve this.
