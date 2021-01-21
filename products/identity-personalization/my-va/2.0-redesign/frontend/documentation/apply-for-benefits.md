@@ -37,6 +37,10 @@ Much of this is the same as the specs in the health care section:
 
 ![Apply for benefits_Getting started](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Apply%20for%20benefits_Getting%20started.jpg)
 
+*Copy specs*
+
+- **All final copy is TBD**
+
 **State 1B: A user who has an in-progress health care, disability, OR education application**  
 
 *UX specs*
@@ -47,6 +51,10 @@ Much of this is the same as the specs in the health care section:
 *Visual specs*
 
 - For applications in progress, we can use the existing applications block/styling, but it's max width will be capped now to allow for the three-column structure suggested.
+
+*Copy specs*
+
+- **All final copy is TBD**
 
 ![Apply for benefits_Getting started_Apps in progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Apply%20for%20benefits_Getting%20started_Apps%20in%20progress.jpg)
 
@@ -62,6 +70,10 @@ Much of this is the same as the specs in the health care section:
 - For applications in progress, we can use the existing applications block/styling, but it's max width will be capped now to allow for the three-column structure suggested.
 
 ![Apply for benefits_Apps in progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Apply%20for%20benefits_Apps%20in%20progress.jpg)
+
+*Copy specs*
+
+- **All final copy is TBD**
 
 **State 2B: A user has some applications in progress, and either already has health/disability/edu or has applied for them**  
 
