@@ -10,7 +10,7 @@
 
 ### Objective
 
-The goal is to establish a component library based on Web Components, which are a browser standard. This will supercede the current `component-library` code and some of the liquid HTML templates currently in `vets-website`. A non-goal is creating an entirely new visual experience as part of the component library.
+The goal is to establish a component library based on [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components), which are a browser standard. This will eventually supercede the current `component-library` code and some of the liquid HTML templates currently in `vets-website`. A non-goal is creating an entirely new visual experience as part of the component library.
 
 The intended audience for this document is frontend engineers.
 
@@ -22,8 +22,8 @@ Currently, the design system has various implementations of "components" scatter
   - This contains static HTML/CSS (and sometimes JS), and is used by copy-pasting markup onto static pages
 -  The `component-library` package
   - This is the rebranded `formation-react`, containing React implementations of some patterns defined in `formation`. Can only be used inside React apps
-- Liquid templates in `vets-website`
-  - This is similar to the static found in `formation`. These templates of components are only used in the content build for va.gov
+- [Liquid templates in `vets-website`](https://github.com/department-of-veterans-affairs/vets-website/tree/958d89f18db29a1f3e1f1cbe4e304299eb387de7/src/site)
+  - This is similar to the static markup found in `formation`. These templates of components are only used in the content build for va.gov
 
 Maintaining multiple sources of truth is a burden for all teams involved and leads to wasted time.
 
@@ -40,7 +40,7 @@ The Web Component library will live in its own repo and will be added to `vets-w
 
 #### Migration to Web Components
 
-In the `component-library` repo, we will start a fresh orphan branch for the Web Component version of the library to live. If we reach a point where the React version of the library is no longer in use, we will rebase the orphan Web Component branch off of master (in order to cleanly preserve the history) and that will become the new default branch going forward.
+In the `component-library` repo, we will start a fresh orphan branch in a clean directory for the Web Component version of the library to live. When we reach a point where the React version of the library is no longer in use (since it has been replaced with Web Components), we will rebase the orphan Web Component branch off of `master` (in order to cleanly preserve the history) and that will become the new default branch going forward.
 
 Until we reach that point, the WC branch will be developed in the `component-library` repo alongside the main branch containing the React components. The WC branch will not be published to npm, and the `vets-website` dependency will instead [use a Git url with a tag](https://classic.yarnpkg.com/en/docs/cli/add/).
 
@@ -48,17 +48,17 @@ Until we reach that point, the WC branch will be developed in the `component-lib
 
 We will use a [Github Release](https://github.com/department-of-veterans-affairs/component-library/releases/new) to create a new tag for the branch we want. The tags will follow [semantic versioning](https://semver.org/), and will be created after enough new development has landed in the branch (i.e. a new component, bugfix, etc. Documentation typo fixes won't get a release). A tag will have the pattern `wc-vX.Y.Z`, where `X`, `Y`, and `Z` represent major, minor, and patch versions respectively.
 
-If a new Web Component is created that replaces an existing React component, the Web Component dependency in `vets-website` will be updated to the new tag and VFS teams will be able to use this component in their code according the the associated documentation for how to use the component. After a sprint, the React component will be removed from `component-library` and a new npm version will be published with a major version increment. This means that any teams that haven't updated their code will cause the build to break on the newest `component-library` version. **It will be the VFS teams' responsibility to update their app code to use the appropriate components**. It will be the job of the Design System engineers to provide Web Components which achieve parity with their React counterparts.
+If a new Web Component is created that replaces an existing React component, the Web Component dependency in `vets-website` will be updated to the new tag and VFS teams will be able to use this component in their code according the the associated documentation for how to use the component. After a sprint, the React component will be removed from `component-library` and a new npm version will be published _with a major version increment_. This means that any teams that haven't updated their code will cause the build to break on the newest `component-library` version. **It will be the VFS teams' responsibility to update their app code to use the appropriate components**. It will be the job of the Design System engineers to provide Web Components which achieve parity with their React counterparts.
 
 #### Tooling
 
-This WC-specific branch will use [Stencil](https://stenciljs.com/) as a tool to help build the Components, and it will also have [Storybook](https://storybook.js.org/) integration. Updates to this branch will follow the typical development flow using PRs. Anytime a new WC is developed or a significant change is made, a new release will be tagged.
+This WC-specific branch will use [Stencil](https://stenciljs.com/) as a tool to help build the Components, and it will also have [Storybook](https://storybook.js.org/) integration. Updates to this branch will follow the typical development flow using PRs.
 
 With Stencil, the source for each Component and any helper functions will be written in [TypeScript](https://www.typescriptlang.org/). This will bring all of the benefits of static typing to our component library, and the output bundle will be transipled to JS.
 
 #### Styling
 
-One of the additional benefits of Web Components is how they can be styled. Each Component can have its own styles scoped to its [shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM) (this means that if a Component renders a `<div>`, the Component's CSS can broadly style the `div` node without worrying about it affecting all the other `<div>`s on the page). As a result, each component will have it's own CSS file which also makes use of global [CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties).
+One of the additional benefits of Web Components is how they can be styled. Each Component can have its own styles scoped to its [shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM) (this means that if a Component renders a `<div>`, the Component's CSS can broadly style the `div` node without worrying about it affecting all the other `<div>`s on the page). As a result, each component will have it's own CSS file which also makes use of global [CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties). These variables will be modeled after `formation`/`uswds`.
 
 #### Loading Web Components on va.gov
 
