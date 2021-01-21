@@ -1,9 +1,15 @@
-Warm-up Questions - 10 minutes
+**Warm-up Questions - 10 minutes
+
 •	Can you tell me a little about your service history? I was in the navy and went to Afghanistan. Despite the negatives in the combat zone that was my best experience. You learn to look at things differently and appreciate more. I am out the navy but I was sad but looking at it I am glad because I don’t like the next uniforms. They took the female uniforms away and now they wear the male uniforms. 
+
 •	Have you visited a VA Facility for healthcare in the past year? Yes. 
+
 •	Have you had any vaccines in the last 10 years? Can you share any reasons behind your decision? During the pandemic or in general. My most recent one was 3 weeks ago, there are negatives and positives. I am happy with them, proactive and response quickly. There are some departments that you call and leave a message and no one responses. Sometimes I had to go to patient advocate to get them to call back. Sometimes they don’t check voicemails or answer the phones. I don’t know how busy they can be to have that as an excuse after calling multiple times and no response. 
+
 •	Good and bad: yes. 
+
 •	Vaccines: Yes, my most recent was the flu this season.
+
 •	Reasons: To protect myself. 
 
 Health Services Page - 5 minutes
