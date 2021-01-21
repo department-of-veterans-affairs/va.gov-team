@@ -56,6 +56,10 @@ This WC-specific branch will use [Stencil](https://stenciljs.com/) as a tool to 
 
 With Stencil, the source for each Component and any helper functions will be written in [TypeScript](https://www.typescriptlang.org/). This will bring all of the benefits of static typing to our component library, and the output bundle will be transipled to JS.
 
+React has some problems with Web Components [in certain situations](https://custom-elements-everywhere.com/#react) which are avoidable. However, Stencil makes it _even easier_ to avoid these problems. From Stencil's [FAQ](https://stenciljs.com/docs/faq):
+
+> One misconception that falsely claims only strings can be passed to custom elements comes from React’s version of VDom. Out of the box, React can only pass strings and numbers to components and it cannot listen to custom events. With Stencil, the components appear as though they are React components and all properties get passed correctly including functions, objects, and arrays. The bindings also account for custom events by creating a prop called “on”. These allow React developers to interact with the Web Components as though they are React components.
+
 #### Styling
 
 One of the additional benefits of Web Components is how they can be styled. Each Component can have its own styles scoped to its [shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM) (this means that if a Component renders a `<div>`, the Component's CSS can broadly style the `div` node without worrying about it affecting all the other `<div>`s on the page). As a result, each component will have it's own CSS file which also makes use of global [CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties). These variables will be modeled after `formation`/`uswds`.
@@ -93,7 +97,9 @@ There will be no special provisions for debugging provided for consumers of the 
 
 ### Caveats
 
-To be determined.
+Even though Web Components are already a feature provided by the browser, this is a feature that the VA Design System hasn't yet taken advantage of. By introducing this "new" technology, there is a possibility of this just turning into technical debt if it exists alongside the current `component-library`, `formation` component styles, and Liquid templates for components. In order to avoid this, we want to be agressive about this migration and get out of the transitionary period as quickly and feasibly as we can.
+
+A Web Component library will be most effective and easiest to maintain if it is the _only_ component library.
 
 ### Security Concerns
 
