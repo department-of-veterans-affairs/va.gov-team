@@ -68,8 +68,8 @@ All applications on the Veteran-facing Services Platform include a phone number 
       * **Product Guide**: ```attached to the issue.```
       * **Product Video**: ```link to the demo video on Github```
 
-1. **Within 3 business days**, the contact center POCs will review your Product Guide, Product Video, and Product Video Transcript. They will follow up with any questions or edits. After the materials have been finalized, the contact center team will send the content to the Contact Center.
-    * If you don't hear anything after 3 business days, reach out to your contact center POC.
-1. After sending your team's materials to the Contact Center, the contact center team will close the Github issue.
+1. **Within 3 business days**, the contact center POCs will review your Product Guide, Product Video, and Product Video Transcript. They will follow up with any questions or edits. After the materials have been finalized, the contact center team will send the content to the Contact Center for their review.
+    * If you don't hear anything after 5 business days, reach out to your contact center POC.
+1. After sending your team's materials to the Contact Center, they have 5 full business days to review the Product Guide and Product Video and send back any questions and/or feedback.  Once that has occured, the contact center team will follow up accordingly or close the Github issue.
     * Github will send the person who created the Github issue a notification. This is your team's signal that this pre-launch activity is complete.
 1. Requesting team members who participated in this collaboration, please complete brief [VSP Collaboration Cycle Feedback](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) survey
