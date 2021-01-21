@@ -50,6 +50,7 @@ Primary care, It is more convenient because I see them twice a year and during m
 Yes. 	
 
 **Task 2 Scenario**
+
 For this second task, imagine that it has been many years since you last had a Tetanus shot, also known as a Tdap shot (tetanus, diphtheria, and pertussis), and would like to know more about how to receive this shot: 
 
 - Can talk me through why you chose this particular group (or create a new group)? 
@@ -98,6 +99,7 @@ I had my shingles shot last year and when I came in they gave me all of my vacci
 Regular visit
 
 **Task 6 Scenario**
+
 For the last task, imagine you are considering a visit to Central America, and aren't sure if there are any vaccines or immunizations you need before going: 
 
 - Can talk me through why you chose this particular group (or create a new group)? 
