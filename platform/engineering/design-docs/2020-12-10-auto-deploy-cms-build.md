@@ -36,20 +36,20 @@ In the same manner as the GraphQL data, the transformed CMS export data would th
 
 #### Deployment
 
-The VA.gov website can be deployed through the partial (or content-only) deploy or the full deploy.
-
-The full deploy is a daily job that deploys `vets-website` to the production environmentt of VA.gov. It uses latest commit of `vets-website` as of 2:00pm ET on that day and the latest content downloaded from the Drupal server. It can be manually invoked as necessary, independently of the daily schedule.
-
-The content-only deploy builds `vets-website` with the latest content downloaded from the Drupal server and deploys to the dev and staging environments of VA.gov. This job can be triggered in one of two ways:
-- The daily production deploy of `vets-website`, which will build with latest release of `vets-website`
-- The `va-cms-bot`, which will build with the latest commit on `vets-website` in response to a manual trigger on the part of the CMS team
-
 |                     | [Partial Deploy](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/deploy/#partial-deploy--static-page-changes-only)                                                                                                                                                                                                 | [Full Deploy](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/deploy/#full-deploy-of-vagov-client-app) |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Output              | Static pages (.html) only                                                                                                                                                                                                                                                                                                                                                  | Frontend applications (.js, .css) and static pages (.html)                                                                                                     |
 | Assets              | Uses the latest `vets-website` release and static asset                                                                                                                                                                                                                                                                                                                    | Creates a new release and deploys it                                                                                                                           |
 | Accessibility tests | N/A                                                                                                                                                                                                                                                                                                                                                                        | Runs tests                                                                                                                                                     |
 | Links checker       | Runs checks                                                                                                                                                                                                                                                                                                                                                                                                                                          | Runs checks                                                                                                                                                    |
+
+The VA.gov website can be deployed through the partial (or content-only) deploy or the full deploy.
+
+The full deploy is a daily job that deploys `vets-website` to the production environment of VA.gov. It uses the latest commit of `vets-website` as of 2:00pm ET on that day and the latest content downloaded from the Drupal server. It can be manually invoked as necessary, independently of the daily schedule.
+
+The content-only deploy builds `vets-website` with the latest content downloaded from the Drupal server and deploys to the dev and staging environments of VA.gov. This job can be triggered in one of two ways:
+- The daily production deploy of `vets-website`, which will build with latest release of `vets-website`
+- The `va-cms-bot`, which will build with the latest commit on `vets-website` in response to a manual trigger on the part of the CMS team
 
 #### Pain points
 
