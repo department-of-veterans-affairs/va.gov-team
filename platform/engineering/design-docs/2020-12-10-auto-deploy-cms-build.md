@@ -53,8 +53,10 @@ The content-only deploy builds `vets-website` with the latest content downloaded
 
 #### Pain points
 
-- Content writers want to quickly draft, publish, and deploy content. However, `vets-website` is only deployed to production once per day.
-- The content-only deploy does allow the CMS team to deploy content independently of the daily production deploy, but that is a manual trigger. Furthermore, it does not include automated accessibility checks.
+- Content writers want to quickly draft, publish, and deploy content.
+  - However, `vets-website` is only deployed to production once per day.
+  - Content-only deploys allow the CMS team to deploy content independently of the daily production deploy, but that is a manual trigger.
+- The content-only deploy does not include automated accessibility checks.
 - In local development, engineers can encounter confusing build errors that are due to the mismatch in outdated locally cached content and updated Liquid templates.
 
 ### High Level Design
