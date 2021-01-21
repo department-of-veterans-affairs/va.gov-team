@@ -3,7 +3,11 @@
 **Author(s):** Jhonny Gonzalez, Eugene Doan  
 **Last Updated:** January 21, 2021  
 **Status:** Draft | **In Review** | Approved  
-**Approvers:** Dan Shank \[ \], Neil Hastings \[ \], Dror Matalon \[ \], Michael Fleet \[ \]
+**Approvers:**
+- [ ] Dan Shank
+- [ ] Neil Hastings
+- [ ] Dror Matalon
+- [ ] Michael Fleet
 
 ## Overview
 
