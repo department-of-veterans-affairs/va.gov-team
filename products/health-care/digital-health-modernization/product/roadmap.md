@@ -1,5 +1,5 @@
 # DRAFT Digital Health Modernization Product Roadmap
-This is a rough draft of a Digital Health Modernization roadmap. It has no buy-in from teams who would be affected. It exists as a conversation-starter. Assumes [Product Strategy A](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/README.md). It assumes My HealtheVet will continue to operate in parallel during the bulk of this work.
+This is a rough draft of a Digital Health Modernization roadmap. It has no buy-in from teams who would be affected. It exists as a conversation-starter. Assumes [Product Strategy A](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/README.md). It assumes My HealtheVet will continue to operate in parallel during the bulk of this work. Each roadmap item is expected to be huge — perhaps multiple epics.
 
 # Context
 
