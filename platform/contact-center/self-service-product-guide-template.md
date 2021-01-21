@@ -19,7 +19,7 @@ All product guides should be created and saved as a word document. You will need
 - User access refers to what types of users can use your product. Please indicate whether the user has to have a certain type of VA.gov account (i.e. LOA1 vs. LOA3 vs. no account needed) to use the product. You can also describe any additional requirements or criteria a user must meet in order to use your product successfully.  
 
 ## **Navigation:**
-- This section should describe how the user finds the product on VA.gov. Please provide the actual URL for your product as well as other locations that link to your product. Below are a few examples of what you might show in this section:
+- This section should describe how the user finds the product on VA.gov.  If you incorporate screenshots, please ensure that they are large enough to see the words on the screen. Please provide the actual URL for your product as well as other locations that link to your product. Below are a few examples of what you might show in this section:
   - URL and screenshot if a link to your product is shown on the VA.gov homepage
   - URL and screenshot if a link to your product is shown in a benefits hub
   - URL and screenshot if your product can be accessed by a another feature like the VA profile. 
