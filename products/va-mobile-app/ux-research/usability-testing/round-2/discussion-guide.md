@@ -146,7 +146,7 @@ Now I’m going to walk you through how to uninstall the app. Since this is a pr
 
 - Go to home screen and find VA Mobile icon.
 - Long press on icon and there will be the option to uninstall.
-- Tap on install.
+- Tap on uninstall.
 
 ## Close (2 minutes)
 That’s all the questions I have for you today. Do you have any last questions for me?
