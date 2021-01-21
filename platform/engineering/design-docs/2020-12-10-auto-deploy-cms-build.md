@@ -1,12 +1,13 @@
 # Automatic Deploy of Content Built from CMS Export
 
 **Author(s):** Jhonny Gonzalez, Eugene Doan  
-**Last Updated:** December 10, 2020  
-**Status:** **Draft** | In Review | Approved  
+**Last Updated:** january 20, 2021  
+**Status:** Draft | **In Review** | Approved  
 **Approvers:**
 
 - [ ] Theo Bentum
 - [ ] Dan Shank
+- [ ] Demian Ginther
 - [ ] Neil Hastings
 - [ ] Dror Matalon
 - [ ] Michael Fleet
@@ -112,17 +113,33 @@ Without knowing whether the content being built has new changes, the auto-deploy
 
 ### Detailed Design
 
+#### Creating a new pipeline
+
+A new pipeline (e.g., `Jenkinsfile.autodeploy`) will be created for the auto-deploy. It will be modeled after the current `Jenkinsfile.content` configuration.
+
 #### Using the CMS export to build content
 
-In order for the partial deploy to use the CMS export data, the build command in the `build` function in `jenkins/common.groovy` will have to include the `--use-cms-export` flag.
+In order for the partial deploy to use the CMS export data, the [build command](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/common.groovy#L189) in the `build` function in `jenkins/common.groovy` will have to include the `--use-cms-export` flag.
 
 Keep in mind that this content-only deploy will build using the latest release instead of the latest commit of of `vets-website`. This matches the behavior of the current content-only deploy. The daily production deploy will continue deploying from the latest commit and retain the responsibility of tagging releases.
 
 If this work is done before the full build has transitioned to using the CMS export, the inclusion of the flag will be contingent on the `contentOnly` parameter to the function.
 
-#### Scheduling the auto-deploy
+#### Validating the build
 
-Create a new pipeline (e.g., `Jenkinsfile.autodeploy`) that [uses a cron trigger](https://www.jenkins.io/doc/book/pipeline/syntax/#triggers).
+The implementation of the full build pipeline may introduce new stages or common helper functions that the auto-deploy pipeline can incorporate. Specifically, the full build pipeline will compare the diffs between GraphQL and CMS export builds. That validation should be done in this pipeline as well while this process is being rolled out.
+
+#### Deploying the build
+
+The pipeline will archive the CMS export build in S3 at a different key than the current GraphQL builds. It should match the location where the full build archives the CMS export builds.
+
+For example, it might be `s3://vetsgov-website-builds-s3-upload/cms-export/${ref}/${envName}.tar.bz2`, where `ref` is the commit hash and `envName` is the environment (one of `vagovdev`, `vagovstaging`, or `vagovprod`).
+
+The subpath `cms-export` in the key will namespace the archived CMS export build separately from the current GraphQL build. This will enable testing and debugging of the new pipeline without intefering with the current deploy process.
+
+#### Scheduling the deploy
+
+The pipeline will [use a cron trigger](https://www.jenkins.io/doc/book/pipeline/syntax/#triggers) to run on the desired schedule.
 
 The schedule to start with will be hourly between 8am and 8pm on weekdays.
 
@@ -142,40 +159,40 @@ node('vagov-autodeploy') {
 }
 ```
 
-#### Deploying the build
-
-Upload to S3 at `s3://vetsgov-website-builds-s3-upload/${ref}/${envName}.tar.bz2`, where `ref` is the commit hash and `envName` is the environment (one of `vagovdev`, `vagovstaging`, or `vagovprod`).
-
 #### Preventing deploys of existing content
 
-We compare the tar file to the previous tar file and only run the build when there are differences between the tar files. This ensures that we only run the build when there's been a change to the content.
-- Download the CMS content (`.tar`) file
-- Compare the downloaded tarball with the previous one (in S3) using MD5 checksums
-- Deploy only if the contents are different
-- Upload the new tarball to S3
+On successful deploys, the tarball containing the CMS export data used in the build should be archived in S3. A possible key might be `s3://vetsgov-website-builds-s3-upload/cms-export/data/latest.tar.bz2`.
+
+The CMS export build [currently reads the tarball directly from the response body](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/drupal/api.js#L147) and should be modified to save it to a file.
+
+Then on subsequent deploys, the tarball downloaded from Drupal will be compared with the tarball of the previous successful deploy. The build will run only if the MD5 checksums of the two tarballs differ. This ensures that we only run the build when content has changed.
+
+For convenience, we could also upload the checksum to `s3://vetsgov-website-builds-s3-upload/cms-export/data/checksum.txt`. With that, the pipeline would not have to download the full tarball for the comparison.
 
 ### Code Location
 
-The content-only build will be defined in `Jenkinsfile.autodeploy`. The helper functions that it uses are in `jenkins/common.groovy`.
+The pipeline will be defined in `Jenkinsfile.autodeploy`. The [helper functions](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/common.groovy) that it uses are in `jenkins/common.groovy`.
 
 There may be auxiliary configurations required in the `devops` [repo](https://github.com/department-of-veterans-affairs/devops), likely in the `ansible` directory.
 
 ### Testing Plan
 
-- There will be an automatic test for comparing build outputs in Jenkins
-- There might be a secondary or follow-up test if the automated test is inadequate for catching regressions
+The following behaviors should be observed cumulatively when testing each phase of implementation.
+1. Build is stored at the proper location in S3 when the pipeline is invoked.
+2. Pipeline runs on the defined schedule.
+3. Deploy doesn't proceed when no new content has been published.
 
 ### Logging
 
-Currently, invalid content is logged in the build log during staging deploys. And failed builds trigger generic Slack notifications.
+On top of the existing build logs, the new content-only deploy will output logs for the new transformation processes in the CMS export build.
 
 ### Debugging
 
-#### Build
+The auto-deploy pipeline can be debugged by reading its console output. The S3 bucket can be checked to confirm whether the build has been deployed.
 
-When the `process-cms-exports` system is live, there will be automated tests to validate input from the CMS and output from the content transformers.
+The CMS export build will validate the input and output schemas of the transformers, so errors related to the build itself can be debugged using that output.
 
-#### Deploy
+As with the full build, during the rollout, there will be a comparison of GraphQL and CMS export builds to report errors when discrepancies between the two are found. The script used for this comparison will have some console output as well as an output JSON file describing the discrepancies.
 
 To determine whether a page exists in the Drupal content, we can go to [`staging.va.gov/drupal/debug/`](staging.va.gov/drupal/debug/). This page is not available in production, however.
 
@@ -185,26 +202,37 @@ To be determined.
 
 ### Security Concerns
 
-There are no new security concerns with a full nor partial build.
+There are no new security concerns with the auto-deploy. There is no user interaction involved unless we include a manual trigger for use by internal VSP engineers, which still should not present any threat of malicious requests. Denial of service is also not a concern as builds are queued.
 
 ### Privacy Concerns
 
-There are no new privacy concerns with a full nor partial build.
+There are no new privacy concerns with the auto-deploy as user data is not involved.
 
 ### Open Questions and Risks
 
 #### Questions
 
-- CMS separation and the apps needs to happen first?
-- What is the period to run the partial build intervals, from 8am-8pm EST?
-- Should we consider incremental deploys instead?
+What is the ideal schedule for the auto-deploy?
+- The pipeline will initially run hourly 8am-8pm ET on weekdays.
+- We want the highest rate of deploy that the system can sustain.
+
+How should we coordinate the schedule of the auto-deploy with the daily production deploy?
+- There's a possibility that the deploys from both pipelines will collide.
+- The daily production deploy is still necessary for tagging the release.
+- The queue of content-only deploys may naturally resolve conflicts without any special handling.
+
+Is there a way to get the time of the last updated published content in Drupal and use that to determine if we should build or not?
+- If we have access to that information, we may not need to compare the CMS export tarballs.
+
+How might we support incremental deploys?
+- To improve the runtime, we could potentially do incremental deploys.
 
 #### Risks
 
-- Introduction to new CMS content and no transformer schema is available can:
-  - Break the build
-  - Create new discrepancies, making the script that verifies the `diff` fail
-  - the interval of running a partial build is smaller than the time the partial build takes
+Newly added content from CMS without associated transformer schemas could fail the build.
+- New content introduces the possibility of new discrepancies, which would fail any validations that depend on diffs between the GraphQL and CMS export builds.
+- Having more content will inflate the runtime of the content-only deploy and could potentially exceed the scheduled interval.
+- The best defense against this is accounting for null and empty fields in transformers.
 
 ### Work Estimates
 
@@ -214,13 +242,11 @@ There are no new privacy concerns with a full nor partial build.
 
 ### Future Work
 
-#### Moving the auto-deploy pipeline to CircleCI
-
 There are plans to transition from Jenkins to CircleCI for our build pipeline. The auto-deploy job will have to be brought over to CircleCI at that time.
 
 ### Revision History
 
 | Date         | Revisions Made | Author          |
 | ------------ | -------------- | --------------- |
-| Jan 19, 2021 | Completed first draft | Eugene Doan |
+| Jan 20, 2021 | Completed first draft | Eugene Doan |
 | Dec 10, 2020 | Initial draft  | Jhonny Gonzalez |
