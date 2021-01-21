@@ -15,9 +15,13 @@
 Remote, moderated card sorting sessions were conducted via Zoom.
 
 ### Who we talked to
-9 Participants:
+We spoke with 9 Veterans:
 
-* 
+* All had visited a VA facility for health care over the last one to two years.
+* Ages 35 to 74
+* 5 in major metropolitan areas, 4 in rural areas
+* 5 female, 4 male
+*
 
 ### Research Questions
 
