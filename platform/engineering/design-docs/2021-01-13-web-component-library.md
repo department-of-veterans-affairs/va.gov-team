@@ -62,7 +62,11 @@ One of the additional benefits of Web Components is how they can be styled. Each
 
 #### Loading Web Components on va.gov
 
-Once in `vets-website`, the setup code for the WC library will be in its own entry file that is loaded on each page. In addition, this script will be one of the first loaded in order to ensure that the Components will be defined in the browser before they are rendered on the page.
+Once in `vets-website`, the setup code for the WC library will be in its own entry file that is loaded on each page. This code will be responsible for applying polyfills for older browsers as well as defining the Web Components.
+
+In addition, this script will be one of the first loaded in order to ensure that the Components will be defined in the browser before they are rendered on the page. This will be done by adding a `<script>` entry towards the top of [the `<head>` tag that gets loaded on every page](https://github.com/department-of-veterans-affairs/vets-website/blob/dc5018065eccf073d172097a19922755126c98a3/src/site/includes/header.html#L16)
+
+For further optimization, the Components will be lazy-loaded. If our Web Component library ends up having hundreds of Components, this could cause quite the burden if we defined these every time a new user landed on a va.gov page. Instead, the Components will only _actually_ be defined if they appear on the page. [Stencil has a useful article that talks about their lazy loading approach](https://stenciljs.com/blog/how-lazy-loading-web-components-work).
 
 ### Code Location
 
