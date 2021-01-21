@@ -1,4 +1,4 @@
-**Warm-up Questions - 10 minutes
+**Warm-up Questions - 10 minutes**
 
 •	Can you tell me a little about your service history? I was in the navy and went to Afghanistan. Despite the negatives in the combat zone that was my best experience. You learn to look at things differently and appreciate more. I am out the navy but I was sad but looking at it I am glad because I don’t like the next uniforms. They took the female uniforms away and now they wear the male uniforms. 
 
