@@ -498,18 +498,31 @@ BE READY FOR QA NEXT SPRINT
 
 **PM**
 
+Might be carried over from last sprint:
+
+- Make a list of staging test cases based on wireframes (MyVA) #18042
+
+Original goal:
+
 - Prep for [usability test prep review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#collaboration-format-30-minute-meeting-2)
 
 **Design**
 
-- Document visual design
-- Finalize copy
+Might be carried over from last sprint:
+
+- How do we guide people to the new My VA dashboard? #14581
+- Cerner/MHV split use case for My VA dashboard #14025
+- [Design] Submit MyVA wireframes for copy review #17530 
+
+Original goal:
+
+- Evaluate new My VA title #13738
 - Research plan for usability testing of finalized designs
 - Convo guide for usability testing of finalized designs
 
 **FE**
 
-- Start FE build
+- Start FE build (tickets pending, but epic is #18819)
 
 ### Direct deposit for edu
 
