@@ -14,22 +14,29 @@ As a designer I need to create a research plan to share with my team.
  - How do users expect the different searches to work / be executed?
     - Location search
     - Degree / program search
- - Do users find it intuitive or difficult to conduct searches?
- - What is the users' reaction to their search results?
+ - What challenges do users have (if any) with the new search interface?
+ - Do users believe their search results were relevant based on their inquiries?
  - How do users expect search results to be organized/sorted?
- - What do users think of the filters?
- - Do users notice and interact with Military Details?
+ - From the user's perspective, which filters are valuable?
+ - From the user's perspective, which filters are not valuable?
+ - Do users understand how benefits numbers are calculated?
+     - Do users notice Military Details?
+     - Do users think this dropdown is important to the calcuation of benefits?
  
  Compare
- - How do users expect to select schools for comparison?
+ - How does the proposed select-to-compare functionality work for users?
  - How do users expect to navigate to and from the Compare page?
- - How many schools would users want to compare at one time?
+ - Are users satisified with comparing 3 schools on desktop?  Only comparing two schools on mobile?
  - What do users think of the layout of the Compare page?
+    - Can users easily find the information they want to see?
+    - How easy is it for users to compare/contrast information?
  - What information do users want to compare between schools?
+    - What information is critical, nice-to-have or not important?
  
  Profile Page:
  - Do users recognize the jumplinks as navigation tools?
  - Do users interact with the jumplinks?
+ - What sections of the profile page appear to be most important to users?
  
  
 4. Hypothesis: What is your hypothesis for this research? 
