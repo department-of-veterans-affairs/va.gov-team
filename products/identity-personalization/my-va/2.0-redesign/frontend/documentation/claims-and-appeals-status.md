@@ -35,6 +35,10 @@
 - The claim block shown here is an existing element, so it should pull in data accordingly. If you have specific questions, please work with **Tressa and Cassandra** to get answers.
 - The "You have **[X] claims and appeals in progress**" callout is a new element. Please work with **Tressa and Cassandra** for specifics.
 
+*Copy specs*
+
+- **All final copy is TBD**
+
 ![Multiple claims in progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Claim%20%26%20appeals%20status_multiple%20claims.jpg)
 
 **State 2: One claim in progress**
