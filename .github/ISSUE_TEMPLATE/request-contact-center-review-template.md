@@ -21,6 +21,9 @@ Please review the Self service Product Guide Template [link](https://github.com/
 ### Launch Date
 *Please provide the launch or rollout date and details.*
 
+### Version Number
+*Please provide the version number of the guide and/or video.
+
 ### Product Guide
 *Please provide product guide link*
 
