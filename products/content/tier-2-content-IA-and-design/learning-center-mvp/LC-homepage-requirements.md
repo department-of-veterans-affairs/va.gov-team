@@ -26,7 +26,14 @@ This is WIP and may evolve based on user research and technical findings.
 - FE: On default show up to 5 audience lables. 
 - FE: When there are more than 5, display the "Show more" expander link. On clicking "Show more," display all of the remaining audiences that articles have enabled in the CMS. 
 - FE: When a user clicks on an audience lable in this section, they should go to the "All articles tagged: {tag lable}" page. 
-  
+
+### For Content Editor/Publisher: CMS process + FE logic on the `Browse by audience` section
+
+When the content team is ready to publish browse-by-audience links on the RS homepage, the content editor/publisher will need to:
+1/ "Promote" the audience tag to the RS homepage from the CMS > Taxonomy > Audience section. 
+2/ Then, go into the RS homepage edit view, and manually add a section header called __Browse by audience__. There is no need to manually enter audience links themselves. 
+3/ The FE template will recognize the CMS __Browse by audience__ header text as an ID and dynamically display the audiences that have been `promoted` in the CMS. 
+
 
 ## Browse by topics section
 - Always display "VA account and profile" as the first category in the section. 
