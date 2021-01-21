@@ -535,7 +535,7 @@ Original goal:
   - Oversee implementation
 - Start contact center guide
 
-**Design**
+**Design (Jim Adams)**
 
 - Start contact center guide
 
