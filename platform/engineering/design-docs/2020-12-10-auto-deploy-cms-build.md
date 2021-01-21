@@ -1,4 +1,4 @@
-# Automatic Deploy of Content Built from CMS Export
+# Automatic Deploy of Content Built from CMS Export Data
 
 **Author(s):** Jhonny Gonzalez, Eugene Doan  
 **Last Updated:** January 21, 2021  
