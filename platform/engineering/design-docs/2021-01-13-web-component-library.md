@@ -19,11 +19,11 @@ The intended audience for this document is frontend engineers.
 Currently, the design system has various implementations of "components" scattered in various places to serve various tools/libraries:
 
 - The `formation` npm package
-  - This contains static HTML/CSS (and sometimes JS), and is used by copy-pasting markup onto static pages
+    - This contains static HTML/CSS (and sometimes JS), and is used by copy-pasting markup onto static pages
 -  The `component-library` package
-  - This is the rebranded `formation-react`, containing React implementations of some patterns defined in `formation`. Can only be used inside React apps
+    - This is the rebranded `formation-react`, containing React implementations of some patterns defined in `formation`. Can only be used inside React apps
 - [Liquid templates in `vets-website`](https://github.com/department-of-veterans-affairs/vets-website/tree/958d89f18db29a1f3e1f1cbe4e304299eb387de7/src/site)
-  - This is similar to the static markup found in `formation`. These templates of components are only used in the content build for va.gov
+    - This is similar to the static markup found in `formation`. These templates of components are only used in the content build for va.gov
 
 Maintaining multiple sources of truth is a burden for all teams involved and leads to wasted time.
 
