@@ -27,6 +27,13 @@ We spoke with 9 Veterans:
 - What words do Veterans use when searching for vaccination-related services?
 - Is the mental model different change based on the type of vaccination?
 
+### Interview Sessions
+
+- Health Services page for context
+- Card sort set up
+- Vaccine scenarios and tasks, with follow-up questions
+- Follow up question on what words resonate when looking for vaccine-related services
+
 
 ## Findings
 
