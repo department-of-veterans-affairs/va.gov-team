@@ -2,8 +2,6 @@
 
 ## First Edition - COVID-19 Vaccine-Related Information 
 
-01/20/2021
-
 ## Research Goals 
 
 - Learn the Veteran mental models for vaccination within the health service taxonomy, primarily for VAMCs.
