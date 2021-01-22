@@ -85,11 +85,11 @@ This is the GI Bill Comparison Tool, which allows you to see the benefits you ca
  
 ## Second Task: Degree / Program Search - 10 minutes
 
-- Let's say you've recently heard of someone who received a Bachelor's in **Ethical Hacking** (other options:  Bakery Science, Puppet Art). You don't know of any schools that offer this program, but it's something that sounds interesting.  How would you use the Comparison Tool to see if any schools covered by the GI Bill offer this as a program of study?
+- Let's say you've recently heard of someone who received a certificate in **Citizenship Activities**. You don't know of any schools that offer this program, but  are curious about what the program would be about.  How would you use the Comparison Tool to see if any schools covered by the GI Bill offer this as a program of study?
 
-_Prompt_ You see that **Insert school with Ethical Hacking program** is highly rated by Veterans. If you wanted to ask a few questions about the school, how would you use the Comparison Tool to find out who to talk to?
+_Prompt_ You see that **Indiana University-Bloomington** is highly rated by Veterans. If you wanted to ask a few questions about the school, how would you use the Comparison Tool to find out who to talk to?
 
-_Prompt_ Where would you go to see how much tuition would be covered at **Insert school name**? (Jen's note:  In case they miss the navigation the first time, this is a second chance to see if they noticed it or not)
+_Prompt_ Where would you go to see how much tuition would be covered at **Indiana University-Bloomington**? 
 
 
 ### Things to watch for:
@@ -114,9 +114,9 @@ Part 2
 
 ## Third Task: Compare Schools - 15 minutes
 
-Looking at these search results, let's say you're interested in **School 1** and **School 2**.  How would you go about comparing these two schools to see which school would be a better fit for you?
+Looking at these search results, let's say you're interested in **University of Massachusetts-Amherst** and **Indiana University-Bloomington**.  How would you go about comparing these two schools to see which school would be a better fit for you?
 
-_Prompt_ After looking at these two schools, **School 2** doesn't look like a good option for you.  How would you remove that school from the comparison and add another in its place?
+_Prompt_ After looking at these two schools, **University of Massachusetts-Amherst** doesn't look like a good option for you.  How would you remove that school from the comparison and add another in its place?
 
 ### Things to watch for:
 
