@@ -79,6 +79,10 @@ Participants associated COVID-19 as a unique event, and perceived Other Services
 
 
 #### 2. A few participants expected to find COVID-19 vaccine information under Primary Care.
+Although COVID-19 might be an unusual event, some participants felt that their PCP should be part of the conversation when it comes to the vaccine. 
+> I guess mainly what my doctors thoughts are on the vaccine, with it being so new, and there are many diseases we can't find a vaccine for, but then we have one for COVID. I would want my doctors thoughts to wait or go with the initial one.
+
+> I feel like primary care is linked with all of your health and with the unknowns about COVID 19 I think that is something I want my doctor to know about.
 
 #### 3. One participant added COVID-19 vaccine information under both the Primary Care and Urgent Care categories.
 
