@@ -26,7 +26,7 @@ Link to Health Services page --> Podiatry This page covers the types of health s
 
 BEGIN CARD SORT TASKS
 
-**Task 1 Scenario
+**Task 1 Scenario**
 
 For the first task, I’d like you to imagine that you are planning to get your annual Flu vaccine or shot, and would like to read information on the Flu vaccine provided by VA.gov:
 
