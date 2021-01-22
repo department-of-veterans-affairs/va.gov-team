@@ -21,7 +21,6 @@ eBenefits | Representatives/POA | IN PROGRESS | Design intent 12/23/2020 <br> ht
 Team | Project | Review Status | IA Documentation 
 --- | --- | --- | --- 
 BAM2 | FSR & Debt management | COMPLETE 01/07/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-debt-fsr.md
-Public Websites | Contact us page | NOT STARTED | No collab cycle requests submitted 
 CTO | COVID Vaccine | COMPLETE 12/11/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/cto-covid-vaccine.md
 Health care Exp | Questionnaires | COMPLETE 11/20/2020 |https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/health-questionaires.md
 Public Websites | Apply Wizards | COMPLETE 11/20/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-apply-wizard.md
@@ -30,8 +29,6 @@ CTO | COVID-19 Research/Trials | COMPLETE 09/28/2020 | https://github.com/depart
 eBenefits | VRE/Chapt 31 | COMPLETE 09/15/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-chapt31.md
 eBenefits | PCPG/Chapt 36 Career Counseling | COMPLETE 09/15/2020 |https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-chapt36.md
 BAM 2 | Debt Letters | COMPLETE | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-debt-letters.md
-BAH | GIBCT Search & Filters | COMPLETE | No core IA work needed <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-gibct-search-filter.md
-BAH | School ratings | COMPLETE | No core IA work needed <br>https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-school-ratings.md
 BAH | STEM Scholarship App | COMPLETE 08/06/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-stem-app.md
 BAM 1 | Benefits Delivery at Discharge |  COMPLETE 07/14/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam-benefits-at-discharge.md
 Authenticated Experience | Profile 2.0 | COMPLETE 06/25/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/auth-exp-profile-v2.md
