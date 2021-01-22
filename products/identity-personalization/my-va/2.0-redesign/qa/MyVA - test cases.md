@@ -66,7 +66,7 @@
 ### Test cases for ["Apply for Benefits"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/apply-for-benefits.md)
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User DOES have an application in progress|User will see application information, status, last saved date, application expiration date, form number, and applicatoin title|TBD|
+|User DOES have an application in progress|User will see application information, status, last saved date, application expiration date, form number, and application title|TBD|
 |User DOES NOT have an application in progress|User sees error messaging saying "You have no benefit applications in progress"|TBD|
 User already has health care, disability, OR education|The block for the benefit they have is no longer shown in in the “Benefits you might be interested in" section|TBD
 
