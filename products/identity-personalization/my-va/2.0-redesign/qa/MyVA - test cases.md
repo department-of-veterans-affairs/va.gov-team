@@ -24,12 +24,15 @@
 ### Test cases for "Disability Rating"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User DOES have a disability rating|User will see their disability rating next to their name [[Screenshot - desktop]](https://camo.githubusercontent.com/fd7a32179fd84f94441a86e6e6bccb909f481c1b5696710238797f81687893c7/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f61393836356333342d393031642d346234662d626362652d633833663931633463326162) |38,228|
-|User DOES not have a disability rating|User will not see their disability rating next to their name *****|10,17|
+|User DOES have a disability rating|User will see their disability rating next to their name|38,228|
+|User DOES not have a disability rating|User will not see their disability rating next to their name|10,17|
 
 
-### Test cases for "Education Benefits"
-This is not dynamic, the card and CTA remain the same regardless [[Screenshot - desktop]](https://camo.githubusercontent.com/fd7a32179fd84f94441a86e6e6bccb909f481c1b5696710238797f81687893c7/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f61393836356333342d393031642d346234662d626362652d633833663931633463326162) ***
+### Test cases for "Education Benefits" (Verify with Tressa)
+|Test case|Intended outcome|Staging User|
+|----|----|----|
+|User DOES have education benefits|User will NOT see the "Apply for Education Benefits" CTA|38,228|
+|User DOES NOT not have education benefits|User will see the "Apply for Education Benefits" CTA|10,17|
 
 ### Test cases for "Claims and Appeals"
 |Test case|Intended outcome|Staging User|
