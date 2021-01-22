@@ -41,9 +41,8 @@ We spoke with 9 Veterans:
 
 The sessions were structured as follows: 
 - To provide context to the participants in preparation for the card sort, the moderator shared an example of a Health Services page. Participants gained an understanding of how health services are structured into categories, as well as the type of information contained in each.
-- Participants were then asked to share their screen and open the web page containing the card sorting exercise. They were then provided six scenarios, each with a card sorting task. 
-  - Vaccination types used for the scenarios were: Influenza, Tetanus (used in two separate scenarios), COVID-19, Shingles, and travel-related vaccinations.
-  - On the left hand side were cards with the names of vaccine types displayed. 
+- Participants were then asked to share their screen and open the web page containing the card sorting exercise.  
+  - On the left side were cards with the names of vaccine types displayed: Influenza, Tetanus (used in two separate scenarios), COVID-19, Shingles, and travel-related vaccinations.
   - On the righ side of the page, the following categories were displayed: Primary Care, Urgent Care, Emergency Care, Specialty Care, and Other Services.
   - Participants were given a scenario for each vaccine type, and then asked to move the appropriate card(s) into one or more health service categories on the right where they expected to find information about the vaccine. 
   - If none of the categories on the right seemed appropriate, participants had the option to create their own category and assign a a name that made sense to them.
