@@ -31,7 +31,7 @@ We identified and reverted the PR, then executed a deployment in the morning.
 
 #### Action items
 - [ ] Brainstorm tooling and strategies for evaluating visual regressions - https://github.com/department-of-veterans-affairs/va.gov-team/issues/18869
-- Potentially (but not as an official assigned task) consider revisiting and rewriting the [style for the "link teasers"](https://github.com/department-of-veterans-affairs/veteran-facing-services-tools/blob/8d39616e957cb44b6664a658b2c51dca8076fe7e/packages/formation/sass/modules/_m-hub-page-link-list.scss) to use that [standard code conventions](https://design.va.gov/components/#adding-variants) defined by our design system.
+- [ ] Potentially (but not as an official assigned task) consider revisiting and rewriting the [style for the "link teasers"](https://github.com/department-of-veterans-affairs/veteran-facing-services-tools/blob/8d39616e957cb44b6664a658b2c51dca8076fe7e/packages/formation/sass/modules/_m-hub-page-link-list.scss) to use that [standard code conventions](https://design.va.gov/components/#adding-variants) defined by our design system.
 
 
 ### Timeline (EST)
