@@ -29,13 +29,13 @@
 |User DOES NOT have a disability rating|User will not see their disability rating next to their name|10,17|
 
 
-### Test cases for "Education Benefits" (Verify with Design)
+### Test cases for "Education Benefits"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User DOES have education benefits|User will NOT see the "Apply for Education Benefits" CTA|38,228|
 |User DOES NOT not have education benefits|User will see the "Apply for Education Benefits" CTA|10,17|
 
-### Test cases for "Claims and Appeals" (Verify with Design)
+### Test cases for "Claims and Appeals"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User DOES have a pension/disability claim|User will see claim information|TBD|
@@ -65,7 +65,7 @@
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User DOES have an application in progress|User will see application information, status, last saved date, application expiration date, form number, and applicatoin title|TBD|
-|User DOES NOT have an application in progress|TBD User will see "File a Claim" CTA|TBD|
+|User DOES NOT have an application in progress|********* |TBD|
 
 
 
