@@ -43,9 +43,9 @@ This is not dynamic, the card and CTA remain the same regardless ***
 |User DOES have appointments|User is shown next appointment ("Date" "Time" "Location/VA Video Connect")|judy.morrison@id.me|
 |User DOES NOT have appointments|TBD ************* |judy.morrison@id.me|
 
-**Lab results: Any user with healthcare will show static "View your lab and test results" link**
+**Lab results:** Any user with healthcare will show static "View your lab and test results" link**
 
-**Get your VA medical records: Any user with healthcare will show static "Get your VA medical records" link**
+**Get your VA medical records:** Any user with healthcare will show static "Get your VA medical records" link**
 
 ### Test cases for "Claims"
 |Test case|Intended outcome|Staging User|
