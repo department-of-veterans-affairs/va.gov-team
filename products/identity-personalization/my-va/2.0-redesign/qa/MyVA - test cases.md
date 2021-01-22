@@ -19,7 +19,7 @@
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User has signed up for something|User sees relevant information/statuses for the section(s) that apply to them [[Screenshot - desktop]](https://camo.githubusercontent.com/fd7a32179fd84f94441a86e6e6bccb909f481c1b5696710238797f81687893c7/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f61393836356333342d393031642d346234662d626362652d633833663931633463326162)|TBD|
-|User has signed up for nothing|User is shown CTA's related to filing a claim, applying for healthcare, and applying for education benefits " [[Screenshot - desktop]](https://camo.githubusercontent.com/41fe574a88719a4246e8cfad0d0fc285553bea1db5ce7016b44b176e8c9576ee/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f62333263616566322d393132622d343162382d393034312d383932393861303734633632)|TBD|
+|User has signed up for nothing (first time user experience)|User is shown CTA's related to filing a claim, applying for healthcare, and applying for education benefits " [[Screenshot - desktop]](https://camo.githubusercontent.com/41fe574a88719a4246e8cfad0d0fc285553bea1db5ce7016b44b176e8c9576ee/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f62333263616566322d393132622d343162382d393034312d383932393861303734633632)|TBD|
 
 ### Test cases for "Education"
 This is not dynamic and links remain the same regardless
