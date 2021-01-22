@@ -57,14 +57,17 @@ The sessions were structured as follows:
 
 1. Almost half of participants added COVID-19 vaccine information under Other Services.
 2. A few participants expected to find COVID-19 vaccine information under Primary Care.
-3. One participant added COVID-19 vaccine information under both the Primary Care and Urgent Care categories
-4. One participant added COVID-19 vaccine information under both the Other Services and Specialty Care categories
+3. One participant added COVID-19 vaccine information under both the Primary Care and Urgent Care categories.
+4. One participant added COVID-19 vaccine information under both the Other Services and Specialty Care categories.
 5. One participant expected to find information about the COVID-19 vaccine under Urgent Care.
 6. One participant expected to find information about the COVID-19 vaccine under Specialty Care.
 7. A couple of participants created their own categories: "Vaccines" and "COVID-19"
-8. All participants would use the term COVID in a search, while one would also search using the term Coronavirus.
-9. When searching for vaccine information, all participants would look for terms such as vaccine, vaccination, immunization, and shot.
-10. A couple of participants added "incocculation" to the list of vaccine search terms.
+8. When asked what information they would expect to find about the COVID-19 vaccine, participants generally fell into one of two groups:
+  - Information about how to sign up for the vaccine, where they would receive it, and what priority group they would be a part of.
+  - Information about the vaccine itself, its effectiveness, side-effects or cautionary statements, and when to get a second shot.
+9. All participants would use the term COVID in a search, while one would also search using the term Coronavirus.
+10. When searching for vaccine information, all participants would look for terms such as vaccine, vaccination, immunization, and shot.
+11. A couple of participants added "incocculation" to the list of vaccine search terms.
 
 ### Details of Findings
 
@@ -75,27 +78,33 @@ Several...:
 
 #### 2. A few participants expected to find COVID-19 vaccine information under Primary Care.
 
-#### 3. One participant expected to find information about the COVID-19 vaccine under Urgent Care.
+#### 3. One participant added COVID-19 vaccine information under both the Primary Care and Urgent Care categories.
 
-#### 4. One participant expected to find information about the COVID-19 vaccine under Specialty Care.
+#### 4. One participant added COVID-19 vaccine information under both the Other Services and Specialty Care categories.
 
-#### 5. A couple of participants created their own categories: "Vaccines" and "COVID-19".
+#### 5. One participant expected to find information about the COVID-19 vaccine under Urgent Care.
 
-#### 6. All participants would use the term COVID in a search, while one would also search using the term Coronavirus.
+#### 6. One participant expected to find information about the COVID-19 vaccine under Specialty Care.
 
-#### 7. All participants would use the term COVID in a search, while one would also search using the term Coronavirus.
+#### 7. A couple of participants created their own categories: "Vaccines" and "COVID-19".
 
-#### 8. A couple of participants added "incocculation" to the list of vaccine search terms..
+#### 8. All participants would use the term COVID in a search, while one would also search using the term Coronavirus.
 
-## Additional Insights
+#### 9. When searching for vaccine information, all participants would look for terms such as vaccine, vaccination, immunization, and shot.
+
+#### 10. A couple of participants added "incocculation" to the list of vaccine search terms.
+
+
+## Additional Insights 
 
 1. The majority of participants receive vaccines at least periodically. The Flu and Tetanus shots are the most commonly received.
-2. Many participants receive vaccines regularly.
+2. Many participants receive vaccines regularly. 
 3. A couple of participants are vaccine-hesitant.
 
 
 ## Recommendations
-__ __ __
+
+__COVID-19 Vaccine Information__
 * .
 
 
