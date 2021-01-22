@@ -1,14 +1,8 @@
 # IA Review and Recommendations
 **STATUS: IN PROGRESS** 
 
-**Team:**  eBenefits/VSA dBenefits migration
-
-**Product/Featue:** View/select representative/POA
-
-**Background/Context:**  Migrating capability to view your selected POA, or search and select a POA from eBenefits to va.gov
-
-**IA Completed Date:** 
-
+**Team:**  eBenefits/VSA dBenefits migration <br>
+**Product/Featue:** View/select representative/POA <br>
 **IA Review Issue:** 
 
 <hr>
@@ -16,24 +10,32 @@
 ### IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements. *
 
-**Approach:**
+- Experience will require an unauthenticated landing page for users that will then provide access to 3 functions: 
+  - Find a representative - a search tool that allows users to find a representative
+  - Appoint a representative - an online form to submit a request for a specific representative
+  - View current representative - an tool that requires authentication and displays the user's currently appointed representative if they have one
 
-- 
 
+Page | URL | Breadcrumb | Notes
+--- | --- | --- | ---
+Static landing page | www.va.gov/[static-page-name] |  Home > [Static page name] |
+Rep search tool | www.va.gov/[static-page-name]/[tool-name]/ | Home > [Static page name] > [Tool name] |
+Appoint a rep form | www.va.gov/[static-page-name]/[tool-name]/ | Home > [Static page name] > [Tool name]  |
+View current rep tool | www.va.gov/[static-page-name]/[tool-name]/ | Home > [Static page name] > [Tool name]  |
 
-Page | URL | Breadcrumb
---- | --- | ---
-
-**General Details**
-- Please connect with your writer/editor on the proper verbiage and capitalization of the last element of the breadcrumb
 
 <hr>
 
-### Navigation Changes and Entry and Exit Points <br>
+### Navigation and Entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
-Priority | Placement | Description
---- | --- | ---
+Priority | Placement | Link Destination | Description
+--- | --- | --- | ---
+ | Disability hub | | 
+ | Decision reviews hub | |
+ | | |
+ 
+
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
@@ -42,7 +44,8 @@ Priority | Placement | Description
 ### Redirects <br>
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
-- 
+- the eBenefits team will be responsible for retiring and redirecting the legacy tool(s) at ebenefits.va.gov
+- The existing "Get help filing a claim" content page in Disability?
 
 Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
 *For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
