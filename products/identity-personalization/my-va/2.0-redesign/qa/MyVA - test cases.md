@@ -28,7 +28,7 @@
 |User DOES NOT have a disability rating|User will not see their disability rating next to their name|10,17|
 
 
-### Test cases for "Education Benefits" (Verify with Tressa)
+### Test cases for "Education Benefits" (Verify with Design)
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User DOES have education benefits|User will NOT see the "Apply for Education Benefits" CTA|38,228|
