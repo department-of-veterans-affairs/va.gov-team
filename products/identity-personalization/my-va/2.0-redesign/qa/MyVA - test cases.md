@@ -39,7 +39,7 @@
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User DOES have a pension/disability claim|User will see claim information|TBD|
-|User has open claims or appeal in progress, but there have been no updates in more than 30 days |User sees messaging "You've had no updates or appeals to your claims in the past 30 days|TBD 
+|User has open claims or appeal in progress, but there have been no updates in more than 30 days |User sees messaging "You've had no updates to your claims in progress the past 30 days|TBD 
 |User DOES NOT have a pension/disability claim|User will see a CTA to "File a Claim" |TBD|
 |User's application status is "In Progress"|User sees an application status of "In-Progress"|TBD|
 |User's application status is "Deceased"|User sees an application status of "Deceased"|374:Deceased|
@@ -48,13 +48,14 @@
 |User's application status is "Update"|User sees an application status of "Update"|365:Update: We need more information, 367:Update: We're reviewing your application|
 
 
-### Test cases for "Healthcare"
+### Test cases for ["Healthcare"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/health-care-section.md)
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User DOES have secure messages|User sees latest message info ("From" "Date" "Subject")|TBD|
 |User DOES NOT have secure messages|User sees messaging stating that they do not have any messages|TBD|
-|User DOES have prescriptions|User sees most recent prescription update ("Medication" "Status")|TBD|
+|User DOES have prescriptions managed by the VA|User sees most recent prescription update ("Medication" "Status")|TBD|
 |User DOES NOT have prescriptions|User does not see the prescription section |TBD|
+|User DOES NOT have prescription refills but has prescriptions managed by the VA|User sees messaging "You have no prescription refills in progress"|TBD|
 |User DOES have appointments|User is shown next appointment ("Date" "Time" "Location/VA Video Connect")|judy.morrison@id.me|
 |User DOES NOT have appointments|User sees messaging stating that they do not have any appointments |judy.morrison@id.me|
 
