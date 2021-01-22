@@ -60,6 +60,9 @@ The sessions were structured as follows:
 3. One participant expected to find information about the COVID-19 vaccine under Urgent Care.
 4. One participant expected to find information about the COVID-19 vaccine under Specialty Care.
 5. A couple of participants created their own categories: "Vaccines" and "COVID-19"
+6. All participants would use the term COVID in a search, while one would also search using the term Coronavirus.
+7. When searching for vaccine information, all participants would look for terms such as vaccine, vaccination, immunization, and shot.
+8  A couple of participants added "incocculation" to the list of vaccine search terms.
 
 ### Details of Findings
 
@@ -68,22 +71,25 @@ The sessions were structured as follows:
 Several...:
 > Quote block from participant.
 
-#### 2. .
+#### 2. A few participants expected to find COVID-19 vaccine information under Primary Care.
 
-#### 3. .
+#### 3. One participant expected to find information about the COVID-19 vaccine under Urgent Care.
 
-#### 4. .
+#### 4. One participant expected to find information about the COVID-19 vaccine under Specialty Care.
 
-#### 5. .
+#### 5. A couple of participants created their own categories: "Vaccines" and "COVID-19".
 
-#### 6. .
+#### 6. All participants would use the term COVID in a search, while one would also search using the term Coronavirus.
 
-#### 7. .
+#### 7. All participants would use the term COVID in a search, while one would also search using the term Coronavirus.
 
+#### 8. A couple of participants added "incocculation" to the list of vaccine search terms..
 
 ## Additional Insights
 
-1. Participants...
+1. The majority of participants receive vaccines at least periodically. The Flu and Tetanus shots are the most commonly received.
+2. Many participants receive vaccines regularly.
+3. A couple of participants are vaccine-hesitant.
 
 
 ## Recommendations
