@@ -8,7 +8,7 @@
 <hr>
 
 ### IA Structure, URLs and Breadcrumbs <br>
-*Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements. *
+*Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements.*
 
 - Experience will require an unauthenticated landing page for users that will then provide access to 3 functions: 
   - Find a representative - a search tool that allows users to find a representative
