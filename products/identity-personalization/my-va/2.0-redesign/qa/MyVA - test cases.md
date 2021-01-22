@@ -24,22 +24,27 @@
 ### Test cases for "Education"
 This is not dynamic, the card and CTA remain the same regardless ***
 
+### Test cases for "Claims and Appeals"
+|Test case|Intended outcome|Staging User|
+|----|----|----|
+|User's application status is "In Progress"|User sees an application status of "In-Progress"|TBD|
+|User's application status is "Deceased"|User sees an application status of "Deceased"|374:Deceased|
+|User's application status is "Enrolled"|User sees an application status of "Enrolled"|363:Enrolled|
+|User's application status is "Decision"|User sees an application status of "Decision"|369:We determined that you don’t qualify for VA health care, 366:Canceled or declined health care|
+|User's application status is "Update"|User sees an application status of "Update"|365:Update: We need more information, 367:Update: We're reviewing your application|
+
 ### Test cases for "Healthcare"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User's healthcare application status is "In Progress"|User sees an application status of "In-Progress"|TBD|
-|User's healthcare application status is "Deceased"|User sees an application status of "Deceased"|374:Deceased|
-|User's healthcare application status is "Enrolled"|User sees an application status of "Enrolled"|363:Enrolled|
-|User's healthcare application status is "Decision"|User sees an application status of "Decision"|369:We determined that you don’t qualify for VA health care, 366:Canceled or declined health care|
-|User's healthcare application status is "Update"|User sees an application status of "Update"|365:Update: We need more information, 367:Update: We're reviewing your application|
-|User DOES have secure messages|User sees current messages ("From" "Subject" "Date")|TBD|
-|User DOES NOT have secure messages|Messaging is as follows: "You don’t have any unread messages from your health care team"|TBD|
-|User DOES have prescriptions|User sees prescriptions in-progress|TBD|
-|User DOES NOT have prescriptions|User sees no prescriptions in progress. Messaging is as follows: You don’t have any prescriptions being refilled. If you’ve refilled a prescription within the last 30 days, it may be out for delivery and not showing up here.  To view and track all of your prescriptions, please go to MyHealtheVet.|TBD|
-|User DOES have appointments|User is shown scheduled and accepted appointments|judy.morrison@id.me|
-|User DOES NOT have appointments|User is shown the following Messaging: Find out how to make a doctor’s appointment with a member of your VA health care team online or by phone.|judy.morrison@id.me|
+|User DOES have messages|User sees latest message info ("From" "Date" "Subject")[[Screenshot - desktop]](https://camo.githubusercontent.com/fd7a32179fd84f94441a86e6e6bccb909f481c1b5696710238797f81687893c7/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f61393836356333342d393031642d346234662d626362652d633833663931633463326162)|TBD|
+|User DOES NOT have secure messages|TBD *************** |TBD|
+|User DOES have prescriptions|User sees most recent prescription update ("Medication" "Status")[[Screenshot - desktop]](https://camo.githubusercontent.com/fd7a32179fd84f94441a86e6e6bccb909f481c1b5696710238797f81687893c7/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f61393836356333342d393031642d346234662d626362652d633833663931633463326162)|TBD|
+|User DOES NOT have prescriptions|TBD ************* |TBD|
+|User DOES have appointments|User is shown next appointment ("Date" "Time" "Location/VA Video Connect")|judy.morrison@id.me|
+|User DOES NOT have appointments|TBD ************* |judy.morrison@id.me|
 
-**Lab Results: Any user with healthcare will show static lab results link**
+**Lab results: Any user with healthcare will show static "View your lab and test results" link**
+**Get your VA medical records: Any user with healthcare will show static "Get your VA medical records" link**
 
 ### Test cases for "Claims"
 |Test case|Intended outcome|Staging User|
