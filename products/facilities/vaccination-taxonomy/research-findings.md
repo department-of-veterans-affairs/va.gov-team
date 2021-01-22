@@ -85,8 +85,10 @@ Although COVID-19 might be an unusual event, some participants felt that their P
 > I feel like primary care is linked with all of your health and with the unknowns about COVID 19 I think that is something I want my doctor to know about.
 
 #### 3. One participant added COVID-19 vaccine information under both the Primary Care and Urgent Care categories.
+> I would also put it in urgent care since I have been getting my COVID 19 tests there. I could look at the vaccine information there.
 
 #### 4. One participant added COVID-19 vaccine information under both the Other Services and Specialty Care categories.
+> Specialty care because it is new and just came out, [and] they might have something there to let you know how to get it, and maybe under other services.
 
 #### 5. One participant expected to find information about the COVID-19 vaccine under Urgent Care.
 
