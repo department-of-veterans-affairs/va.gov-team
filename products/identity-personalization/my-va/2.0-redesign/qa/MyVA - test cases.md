@@ -63,7 +63,7 @@
 
 **Get your VA medical records:** Any user with healthcare will show the static "Get your VA medical records" link
 
-### Test cases for "Apply for Benefits"
+### Test cases for ["Apply for Benefits"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/apply-for-benefits.md)
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User DOES have an application in progress|User will see application information, status, last saved date, application expiration date, form number, and applicatoin title|TBD|
