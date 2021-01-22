@@ -78,7 +78,7 @@ We are seeking to perform this test with 15 participants
 
 **Pilot Attendess:**
 
-- Jason Woodman, TBD UX Designer
+- Jason Woodman, Naomi Marcussen
 
 ## Team Roles
 
