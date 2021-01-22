@@ -122,7 +122,7 @@ Although COVID-19 might be an unusual event, some participants felt that their P
 ## Recommendations
 
 __COVID-19 Vaccine Information__
-* Add a dedicated, easy-to-spot content section for COVID-19 vaccine information on Health Services pages. This will help Veterans locate the information, regardless of which category they might explore. 
+* Add a dedicated, easy-to-spot content section for COVID-19 vaccine information on Health Services pages. This will help Veterans locate the information, regardless of which category they anticipate would contain COVID-19 vaccine information. 
 * Cross-link to the content from other categories within the page to help direct Veterans to the information.
 * In the COVID-19 section, provide two types of information:
   - The latest updates on how and Veterans can sign up, and contact information for additional questions not covered. 
