@@ -2,10 +2,10 @@
 [Staging user reference doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/readme.md)
 
 
-### Test cases for "LOA1 user"
+### Test cases for "LOA1 user" [(name tag does not appear for LOA1 users)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/nametag.md)
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|LOA1 user has not verified their identity|User is shown a prompt to verify their identity [[Screenshot]](https://camo.githubusercontent.com/beea6e9caf042e9355845344ee77ff41d9f74e9eccafd90cd7841431dafba9e5/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f39326332356131622d353836342d346566382d393466342d393164346265323436303439)|TBD|
+|LOA1 user has not verified their identity|User is shown a prompt to verify their identity, [[Screenshot]](https://camo.githubusercontent.com/beea6e9caf042e9355845344ee77ff41d9f74e9eccafd90cd7841431dafba9e5/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f39326332356131622d353836342d346566382d393466342d393164346265323436303439)|TBD|
 |LOA1 user has not verified their identity but has an application in progress on VA.gov|User is shown a prompt to verify their identity but also shown "Application in progress" [[Screenshot]](https://camo.githubusercontent.com/0d1b609baefca1b787879baae53e63442a12fe14ae44800a1f51fd1dc95c971d/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f32653462346332612d666535332d343466662d613232362d626530623037306464343638)|TBD|
 |LOA1 user has not verified their identity and does not have anything in-progress|User is shown a prompt to verfy their identity and CTAs related to filing a claim, applying for healthcare, and applying for education benefits [[Screenshot]](https://camo.githubusercontent.com/beea6e9caf042e9355845344ee77ff41d9f74e9eccafd90cd7841431dafba9e5/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f39326332356131622d353836342d346566382d393466342d393164346265323436303439)|TBD|
 
@@ -35,10 +35,11 @@
 |User DOES have education benefits|User will NOT see the "Apply for Education Benefits" CTA|38,228|
 |User DOES NOT not have education benefits|User will see the "Apply for Education Benefits" CTA|10,17|
 
-### Test cases for "Claims and Appeals"
+### Test cases for ["Claims and Appeals"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/claims-and-appeals-status.md)
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User DOES have a pension/disability claim|User will see claim information|TBD|
+|User has open claims or appeal in progress, but there have been no updates in more than 30 days |User sees messaging "You've had no updates or appeals to your claims in the past 30 days|TBD 
 |User DOES NOT have a pension/disability claim|User will see a CTA to "File a Claim" |TBD|
 |User's application status is "In Progress"|User sees an application status of "In-Progress"|TBD|
 |User's application status is "Deceased"|User sees an application status of "Deceased"|374:Deceased|
