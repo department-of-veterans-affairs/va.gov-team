@@ -51,20 +51,20 @@ The sessions were structured as follows:
   - Scenarios were followed up with questions to better understand participants' thought process behind selections, the information they expected to see, and their own real-world experience with the vaccine (if applicable), either with the VA or with an external provider, and what terms they would use to search for that particular vaccine.
 - Following the card sort, participants were asked what terms for vaccines they would use (vaccine, vaccination, immunization, shot, or other terms that weren't used in the card sort).   
 
-## Findings
-
-We can understand
+## Findings - COVID-19 Vaccine-Related Information
 
 ### Key Findings
 
-1. For most participants...
-2. One participant...
-3. A few participants..
-4. All participants... 
+1. Almost half of participants categorized COVID-19 vaccine information under Other Services.
+2. A few participants expected to find COVID-19 vaccine information under Primary Care.
+3. One participant expected to find information about the COVID-19 vaccine under Urgent Care.
+4. One participant expected to find information about the COVID-19 vaccine under Specialty Care.
+5. A couple of participants created their own categories: "Vaccines" and "COVID-19"
 
 ### Details of Findings
 
-#### 1. Most participants...
+#### 1. Almost half of participants categorized COVID-19 vaccine information under Other Services.
+
 Several...:
 > Quote block from participant.
 
