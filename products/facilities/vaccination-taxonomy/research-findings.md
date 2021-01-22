@@ -43,7 +43,9 @@ The sessions were structured as follows:
 - To provide context to the participants in preparation for the card sort, the moderator shared an example of a Health Services page. Participants gained an understanding of how health services are structured into categories, as well as the type of information contained in each.
 - Participants were then asked to share their screen and open the web page containing the card sorting exercise. They were then provided six scenarios, each with a card sorting task. 
   - Vaccination types used for the scenarios were: Influenza, Tetanus (used in two separate scenarios), COVID-19, Shingles, and travel-related vaccinations.
-  - On the left hand side were cards with the names of vaccine types displayed. Participants were given a scenario for each vaccine type, and then asked to move the appropriate card(s) into one or more health service categories on the right where they expected to find information about the vaccine. 
+  - On the left hand side were cards with the names of vaccine types displayed. 
+  - On the righ side of the page, the following categories were displayed: Primary Care, Urgent Care, Emergency Care, Specialty Care, and Other Services.
+  - Participants were given a scenario for each vaccine type, and then asked to move the appropriate card(s) into one or more health service categories on the right where they expected to find information about the vaccine. 
   - If none of the categories on the right seemed appropriate, participants had the option to create their own category and assign a a name that made sense to them.
   - Each scenario included an extra card to use if participants expected to find vaccine information in more than one category.
   - Scenarios were followed up with questions to better understand participants' thought process behind selections, the information they expected to see, and their own real-world experience with the vaccine (if applicable), either with the VA or with an external provider, and what terms they would use to search for that particular vaccine.
