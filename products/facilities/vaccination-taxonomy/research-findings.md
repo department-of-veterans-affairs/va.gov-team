@@ -24,7 +24,6 @@ We spoke with 9 Veterans:
 ### Research Questions
 
 - Where in the VHA taxonomy do Veterans expect vaccination services to be found?
-- Where in the VHA taxonomy do Veterans expect vaccination services to be found?
   - For example, do they expect to find it under primary care, with pharmacy (related to "medication"), under a particular specialty; or within a taxon named "Vaccination" (or similar)?
 - What words do Veterans use when searching for vaccination-related services?
 - What words do Veterans use when searching - such as
