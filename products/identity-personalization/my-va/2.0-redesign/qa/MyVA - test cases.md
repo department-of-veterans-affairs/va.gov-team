@@ -33,7 +33,7 @@
 ### Test cases for "Education Benefits"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User DOES have education benefits|User will NOT see the "Apply for Education Benefits" CTA, and will see "Latest message", "next appointment", and "prescription update" |38,228|
+|User DOES have education benefits|User will NOT see the "Apply for Education Benefits" CTA |38,228|
 |User DOES NOT not have education benefits|User will see the "Apply for Education Benefits" CTA|10,17|
 
 ### Test cases for ["Claims and Appeals"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/claims-and-appeals-status.md)
