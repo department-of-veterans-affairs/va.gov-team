@@ -4,13 +4,13 @@
 
 ### Topics to Discuss
 * Status update from VSP FE Tools
-   * Build failures caused by Erie release
-   * Comparison tool will be sent out today or Monday
+   * Build failures caused by Erie release (circular reference)
+   * Comparison tool will be sent out today or Monday [issue](https://app.zenhub.com/workspaces/vsp---frontend-tools-5fc9325744944e0015ed1861/issues/department-of-veterans-affairs/va.gov-team/13762)
 * Change management messaging with content editors
    * CMS team will take point — what do they need from other teams?
 * Timing for hourly auto-deploy
    * Hourly 24/7, or within "business hours"?
-* Circular reference errors in cms-export build 
+* Circular reference errors in cms-export build [issue](https://app.zenhub.com/workspaces/vsp---frontend-tools-5fc9325744944e0015ed1861/issues/department-of-veterans-affairs/va.gov-team/13762)
 
 ### Notes
 
