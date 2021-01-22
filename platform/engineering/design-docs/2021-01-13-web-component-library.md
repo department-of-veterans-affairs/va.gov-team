@@ -19,13 +19,16 @@ The intended audience for this document is frontend engineers.
 Currently, the design system has various implementations of "components" scattered in various places to serve various tools/libraries:
 
 - The `formation` npm package
-    - This contains static HTML/CSS (and sometimes JS), and is used by copy-pasting markup onto static pages
+    - This contains static HTML, CSS, and vanilla JavaScript
+    - Used by copy-pasting markup onto static pages
 -  The `component-library` package
-    - This is the rebranded `formation-react`, containing React implementations of some patterns defined in `formation`. Can only be used inside React apps
+    - This is the rebranded `formation-react`, containing React implementations of some patterns defined in `formation`
+    - Can only be used inside React apps
 - [Liquid templates in `vets-website`](https://github.com/department-of-veterans-affairs/vets-website/tree/958d89f18db29a1f3e1f1cbe4e304299eb387de7/src/site)
-    - This is similar to the static markup found in `formation`. These templates of components are only used in the content build for va.gov
+    - This is similar to the static markup found in `formation`
+    - These templates of components are only used in the content build for va.gov
 
-Maintaining multiple sources of truth is a burden for all teams involved and leads to wasted time.
+Maintaining multiple sources of truth is a burden for all teams involved and leads to an inconsistent user experience and wasted engineering time.
 
 ### High Level Design
 
@@ -58,11 +61,11 @@ With Stencil, the source for each Component and any helper functions will be wri
 
 React has some problems with Web Components [in certain situations](https://custom-elements-everywhere.com/#react) which are avoidable. However, Stencil makes it _even easier_ to avoid these problems. From Stencil's [FAQ](https://stenciljs.com/docs/faq):
 
-> One misconception that falsely claims only strings can be passed to custom elements comes from React’s version of VDom. Out of the box, React can only pass strings and numbers to components and it cannot listen to custom events. With Stencil, the components appear as though they are React components and all properties get passed correctly including functions, objects, and arrays. The bindings also account for custom events by creating a prop called “on”. These allow React developers to interact with the Web Components as though they are React components.
+    > One misconception that falsely claims only strings can be passed to custom elements comes from React’s version of VDom. Out of the box, React can only pass strings and numbers to components and it cannot listen to custom events. With Stencil, the components appear as though they are React components and all properties get passed correctly including functions, objects, and arrays. The bindings also account for custom events by creating a prop called “on”. These allow React developers to interact with the Web Components as though they are React components.
 
 #### Styling
 
-One of the additional benefits of Web Components is how they can be styled. Each Component can have its own styles scoped to its [shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM) (this means that if a Component renders a `<div>`, the Component's CSS can broadly style the `div` node without worrying about it affecting all the other `<div>`s on the page). As a result, each component will have it's own CSS file which also makes use of global [CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties). These variables will be modeled after `formation`/`uswds`.
+One of the additional benefits of Web Components is how they can be styled. Each Component can have its own styles scoped to its [shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM) (this means that if a Component renders a `<div>`, the Component's CSS can broadly style the `div` node without worrying about it affecting all the other `<div>`s on the page). As a result, each component will have its own CSS file which also makes use of global [CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties). These variables will be modeled after `formation`/`uswds`.
 
 #### Loading Web Components on va.gov
 
