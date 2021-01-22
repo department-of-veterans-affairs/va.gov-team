@@ -133,7 +133,8 @@ Let’s go back to the home screen.
 
 ## Wrap Up (5 minutes)
 - Would you describe this app as being useful to you?
-  - Please describe how the app useful to you. What’s useful about it? 
+  - Please describe how the app useful to you. What’s useful about it?
+  - On a scale of 1 to 5, 1 being not useful at all, 5 being most useful, what would you rate this app?
 - In what circumstances would you find this app useful?
   - Can you give me a scenario in which this app would be useful? (For example at work, in the car, on the couch, etc.)
 - Would you recommend this app to your friends (or fellow Veterans)? 
