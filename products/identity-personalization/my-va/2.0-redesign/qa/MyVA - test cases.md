@@ -25,7 +25,7 @@
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User DOES have a disability rating|User will see their disability rating next to their name|38,228|
-|User DOES not have a disability rating|User will not see their disability rating next to their name|10,17|
+|User DOES NOT have a disability rating|User will not see their disability rating next to their name|10,17|
 
 
 ### Test cases for "Education Benefits" (Verify with Tressa)
