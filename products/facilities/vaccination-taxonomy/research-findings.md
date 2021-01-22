@@ -130,7 +130,8 @@ __COVID-19 Vaccine Information__
 
 ## Next Steps
 
-* .
+* Implement design decisions
+* Share findings with other teams and stakeholders
 
 ## Future Research
 * .
