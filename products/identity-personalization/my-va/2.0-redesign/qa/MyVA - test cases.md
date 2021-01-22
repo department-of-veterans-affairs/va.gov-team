@@ -23,16 +23,19 @@
 
 ### Test cases for "Disability Rating"
 |Test case|Intended outcome|Staging User|
+|----|----|----|
 |User DOES have a disability rating|User will see their disability rating next to their name [[Screenshot - desktop]](https://camo.githubusercontent.com/fd7a32179fd84f94441a86e6e6bccb909f481c1b5696710238797f81687893c7/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f61393836356333342d393031642d346234662d626362652d633833663931633463326162) |38,228|
 |User DOES not have a disability rating|User will not see their disability rating next to their name *****|10,17|
-|User DOES have a pension/disability claim|User will see claim information|**LUKE M to provide**|
-|User DOES NOT have a pension/disability claim|User will see a link how to file a claim|**LUKE M to provide**|
-### Test cases for "Education"
-This is not dynamic, the card and CTA remain the same regardless ***
+
+
+### Test cases for "Education Benefits"
+This is not dynamic, the card and CTA remain the same regardless [[Screenshot - desktop]](https://camo.githubusercontent.com/fd7a32179fd84f94441a86e6e6bccb909f481c1b5696710238797f81687893c7/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f61393836356333342d393031642d346234662d626362652d633833663931633463326162) ***
 
 ### Test cases for "Claims and Appeals"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
+|User DOES have a pension/disability claim|User will see claim information [[Screenshot - desktop]](https://camo.githubusercontent.com/fd7a32179fd84f94441a86e6e6bccb909f481c1b5696710238797f81687893c7/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f61393836356333342d393031642d346234662d626362652d633833663931633463326162)|**LUKE M to provide**|
+|User DOES NOT have a pension/disability claim|User will see ********** |**LUKE M to provide**|
 |User's application status is "In Progress"|User sees an application status of "In-Progress"|TBD|
 |User's application status is "Deceased"|User sees an application status of "Deceased"|374:Deceased|
 |User's application status is "Enrolled"|User sees an application status of "Enrolled"|363:Enrolled|
