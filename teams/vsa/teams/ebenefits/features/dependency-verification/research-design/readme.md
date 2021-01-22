@@ -29,6 +29,9 @@
 
 ### Mockups Changelog
 
+**January 22, 2021**
+- New View Dependents layout showing "grey card" variation of "remove" formlet 
+
 **January 19, 2021**
 - Initial (new) Dependents Verification mockup
 - Includes old **and** new versions of View Dependents (aligns with new "tool page" layout)
