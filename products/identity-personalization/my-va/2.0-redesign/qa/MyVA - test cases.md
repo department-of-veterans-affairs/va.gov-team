@@ -65,7 +65,7 @@
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User DOES have an application in progress|User will see application information, status, last saved date, application expiration date, form number, and applicatoin title|TBD|
-|User DOES NOT have an application in progress|********* |TBD|
+|User DOES NOT have an application in progress|User sees error messaging saying "You have no benefit applications in progress"|TBD|
 
 
 
