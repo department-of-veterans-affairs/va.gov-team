@@ -29,11 +29,12 @@ View current rep tool | www.va.gov/[static-page-name]/[tool-name]/ | Home > [Sta
 ### Navigation and Entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
+- Potential placement for entry points/links:
+  - Disability (hub, existing content page?), Decision Reviews, Claim and Appeal status tool, Records, Profile, My VA
+
 Priority | Placement | Link Destination | Description
 --- | --- | --- | ---
- | Disability hub | | 
- | Decision reviews hub | |
- | | |
+
  
 
 
