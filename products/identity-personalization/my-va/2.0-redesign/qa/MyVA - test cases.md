@@ -22,7 +22,7 @@
 |User has signed up for nothing (first time user experience)|User is shown CTA's related to filing a claim, applying for healthcare, and applying for education benefits " [[Screenshot - desktop]](https://camo.githubusercontent.com/41fe574a88719a4246e8cfad0d0fc285553bea1db5ce7016b44b176e8c9576ee/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f62333263616566322d393132622d343162382d393034312d383932393861303734633632)|TBD|
 
 ### Test cases for "Education"
-This is not dynamic and links remain the same regardless
+This is not dynamic, the card and CTA remain the same regardless ***
 
 ### Test cases for "Healthcare"
 |Test case|Intended outcome|Staging User|
