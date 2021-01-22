@@ -1,8 +1,9 @@
 # MyVA Test Cases 
 [Staging user reference doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/readme.md)
 
+ [Name Tag)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/nametag.md)
 
-### Test cases for "LOA1 user" [(name tag does not appear for LOA1 users)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/nametag.md)
+### Test cases for "LOA1 user"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |LOA1 user has not verified their identity|User is shown a prompt to verify their identity|TBD|
