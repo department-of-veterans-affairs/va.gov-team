@@ -34,11 +34,11 @@
 |User DOES have education benefits|User will NOT see the "Apply for Education Benefits" CTA|38,228|
 |User DOES NOT not have education benefits|User will see the "Apply for Education Benefits" CTA|10,17|
 
-### Test cases for "Claims and Appeals"
+### Test cases for "Claims and Appeals" (Verify with Design)
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User DOES have a pension/disability claim|User will see claim information [[Screenshot - desktop]](https://camo.githubusercontent.com/fd7a32179fd84f94441a86e6e6bccb909f481c1b5696710238797f81687893c7/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f61393836356333342d393031642d346234662d626362652d633833663931633463326162)|**LUKE M to provide**|
-|User DOES NOT have a pension/disability claim|User will see ********** |**LUKE M to provide**|
+|User DOES have a pension/disability claim|User will see claim information|**LUKE M to provide**|
+|User DOES NOT have a pension/disability claim|User will see a CTA to "File a Claim" |**LUKE M to provide**|
 |User's application status is "In Progress"|User sees an application status of "In-Progress"|TBD|
 |User's application status is "Deceased"|User sees an application status of "Deceased"|374:Deceased|
 |User's application status is "Enrolled"|User sees an application status of "Enrolled"|363:Enrolled|
@@ -49,11 +49,11 @@
 ### Test cases for "Healthcare"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User DOES have secure messages|User sees latest message info ("From" "Date" "Subject")[[Screenshot - desktop]](https://camo.githubusercontent.com/fd7a32179fd84f94441a86e6e6bccb909f481c1b5696710238797f81687893c7/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f61393836356333342d393031642d346234662d626362652d633833663931633463326162)|TBD|
+|User DOES have secure messages|User sees latest message info ("From" "Date" "Subject")|TBD|
 |User DOES NOT have secure messages|TBD *************** |TBD|
-|User DOES have prescriptions|User sees most recent prescription update ("Medication" "Status")[[Screenshot - desktop]](https://camo.githubusercontent.com/fd7a32179fd84f94441a86e6e6bccb909f481c1b5696710238797f81687893c7/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f61393836356333342d393031642d346234662d626362652d633833663931633463326162)|TBD|
+|User DOES have prescriptions|User sees most recent prescription update ("Medication" "Status")|TBD|
 |User DOES NOT have prescriptions|TBD ************* |TBD|
-|User DOES have appointments|User is shown next appointment ("Date" "Time" "Location/VA Video Connect") [[Screenshot - desktop]](https://camo.githubusercontent.com/fd7a32179fd84f94441a86e6e6bccb909f481c1b5696710238797f81687893c7/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f61393836356333342d393031642d346234662d626362652d633833663931633463326162) |judy.morrison@id.me|
+|User DOES have appointments|User is shown next appointment ("Date" "Time" "Location/VA Video Connect")|judy.morrison@id.me|
 |User DOES NOT have appointments|TBD ************* |judy.morrison@id.me|
 
 **Lab results:** Any user with healthcare will show static "View your lab and test results" link
