@@ -74,6 +74,7 @@ The sessions were structured as follows:
 #### 1. Almost half of participants categorized COVID-19 vaccine information under Other Services.
 Participants associated COVID-19 as a unique event, and perceived Other Services as a catch-all for such an event. 
 > I would go to other services, they probably have so much going on with it, it is probably under a different category when you pull up the main va.gov page.
+
 > In my mind COVID-19 to the extent of our experience, this is a one time event. Now I don’t know if we are on a curve or will be annual, it is an extraordinary thing. COVID may become routine as well but for me the COVID-19 is extraordinary for a lot of reasons and its infancy. In the list of things to go to the doctor for, this is a unique event in my mind.
 
 
