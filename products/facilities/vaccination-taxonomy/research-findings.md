@@ -55,14 +55,16 @@ The sessions were structured as follows:
 
 ### Key Findings
 
-1. Almost half of participants categorized COVID-19 vaccine information under Other Services.
+1. Almost half of participants added COVID-19 vaccine information under Other Services.
 2. A few participants expected to find COVID-19 vaccine information under Primary Care.
-3. One participant expected to find information about the COVID-19 vaccine under Urgent Care.
-4. One participant expected to find information about the COVID-19 vaccine under Specialty Care.
-5. A couple of participants created their own categories: "Vaccines" and "COVID-19"
-6. All participants would use the term COVID in a search, while one would also search using the term Coronavirus.
-7. When searching for vaccine information, all participants would look for terms such as vaccine, vaccination, immunization, and shot.
-8  A couple of participants added "incocculation" to the list of vaccine search terms.
+3. One participant added COVID-19 vaccine information under both the Primary Care and Urgent Care categories
+4. One participant added COVID-19 vaccine information under both the Other Services and Specialty Care categories
+5. One participant expected to find information about the COVID-19 vaccine under Urgent Care.
+6. One participant expected to find information about the COVID-19 vaccine under Specialty Care.
+7. A couple of participants created their own categories: "Vaccines" and "COVID-19"
+8. All participants would use the term COVID in a search, while one would also search using the term Coronavirus.
+9. When searching for vaccine information, all participants would look for terms such as vaccine, vaccination, immunization, and shot.
+10. A couple of participants added "incocculation" to the list of vaccine search terms.
 
 ### Details of Findings
 
