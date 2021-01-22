@@ -9,6 +9,7 @@
 - [Things to Note](#things-to-note)
   - [Automatic Waiting](#automatic-waiting)
   - [Third-Party Plugings](#third-party-plugins)
+  - [Test Retries](#test-retries)
 - [Cypress Form Tester](#cypress-form-tester)
 - [Cypress Custom Commands](#cypress-custom-commands)
   - [Mock User: `cy.login(userData)`](#mock-user-cyloginuserdata)
@@ -70,6 +71,14 @@ Cypress queues its commands instead of running them synchronously, so doing some
 ### Third-party plugins
 
 Cypress has many third party [plugins](https://docs.cypress.io/plugins/) available. If you find yourself needing to do something that isn't natively supported, there may be a plugin for it.
+
+### Test retries
+
+When running tests on Jenkins, CircleCI, or locally in headless mode, Cypress will retry failing tests up to two times before marking the test as failed. This is meant to reduce the number of build failures from tests that fail occasionally.
+
+Tests should be written to be retry-able in order to use this Cypress feature effectively. Without proper test structure and implementation (set up, execution, teardown, etc.), tests can fail consistently upon retry.
+
+- A simple way to check for retry-ability is to force a failure during test execution and then verify that retries for the test still execute correctly up to the point of failure.
 
 ## Cypress Form Tester
 
