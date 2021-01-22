@@ -137,3 +137,5 @@ __COVID-19 Vaccine Information__
 #### [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vaccination-taxonomy/conversation-guide.md)
 
 #### [Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vaccination-taxonomy/interviews)
+
+#### [Card Sort Results](https://app.optimalworkshop.com/optimalsort/adhoc/b4vhg8q4-0/shared-results/p25s13d0486348ieyil4y88474c618e6)
