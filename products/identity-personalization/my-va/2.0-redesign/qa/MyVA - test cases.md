@@ -50,15 +50,12 @@ This is not dynamic, the card and CTA remain the same regardless [[Screenshot - 
 |User DOES NOT have secure messages|TBD *************** |TBD|
 |User DOES have prescriptions|User sees most recent prescription update ("Medication" "Status")[[Screenshot - desktop]](https://camo.githubusercontent.com/fd7a32179fd84f94441a86e6e6bccb909f481c1b5696710238797f81687893c7/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f61393836356333342d393031642d346234662d626362652d633833663931633463326162)|TBD|
 |User DOES NOT have prescriptions|TBD ************* |TBD|
-|User DOES have appointments|User is shown next appointment ("Date" "Time" "Location/VA Video Connect")|judy.morrison@id.me|
+|User DOES have appointments|User is shown next appointment ("Date" "Time" "Location/VA Video Connect") [[Screenshot - desktop]](https://camo.githubusercontent.com/fd7a32179fd84f94441a86e6e6bccb909f481c1b5696710238797f81687893c7/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f61393836356333342d393031642d346234662d626362652d633833663931633463326162) |judy.morrison@id.me|
 |User DOES NOT have appointments|TBD ************* |judy.morrison@id.me|
 
 **Lab results:** Any user with healthcare will show static "View your lab and test results" link
 
 **Get your VA medical records:** Any user with healthcare will show static "Get your VA medical records" link
-
-### Test cases for "Records"
-**This will be a list of static links**
 
 ### Test cases for "Applications in Progress"
 |Test case|Intended outcome|Staging User|
