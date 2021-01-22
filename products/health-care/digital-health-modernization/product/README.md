@@ -17,11 +17,6 @@ Many common veteran needs / journeys (ex., find a doctor -> get the appointment 
 5. VA.gov needs a sticky "home" with consolidated notifications and easy access to high-frequency needs. This may make it difficult to provide a cohesive experience relative to analogous products, like MyChart, in which billing and payments (at a minimum) are colocated with clinical functions.  
 6. Key health-related tools have authentication challenges that make it difficult for Veterans to get access, and / or to navigate digital health while not everything lives on VA.gov (which will span years).
 
-### Assumptions
-- OCTO teams will work to improve single-sign on, eventually migrating MHV accounts into ID.ME and / or Login.gov
-- The MyVA team will continue building a functional, sticky "home" for authenticated users on VA.gov
-- The Secure Messaging team will continue building and / or adapting APIs so that the VA Flagship Mobile App and My HealtheVet can both be used to send / receive messages that appear in both places
-
 ##  Product
 Subject to iteration based on learning. Each step assumes the previous step went well. Strategies are in no particular order and may or may not be mutually-exclusive due to resource constraints. 
 
@@ -76,19 +71,8 @@ This would be a good strategy if we believe the biggest cost to this work will b
 2. Give vendor very clear priorities and resource constraints
 3. Demo every week
 
-## Go to Market
-Written assuming product strategy A and team strategy A. 
-
-1. Establish a Customer Advisory Board of 20(?) Veterans who use VA health care. 
-2. Pursue Product Strategy A. 
-3. Conduct regular (week? month?) demo with board. 
-4. When 5/20 on board would rather use VA.gov than My HealtheVet, introduce an opt-in beta to a small number of MHV users to make the new site discoverable
-5. When 10/20 on board prefer VA.gov, introduce universal opt-in beta with gradual rollout
-6. When 15/20 on board prefer VA.gov, introduce opt-out beta with gradual rollout
-7. Establish KPI-based decision criterion for when to sunset the opt-out
-
 ## Major Risks
-Using Marty Cagan's framework for risk in absence of a compelling reason not to. Only surfacae big, honking problems here. This doc needs to be big picture. Risks in order of @aryeh-usds's judgement of severity at time of writing.
+Using Marty Cagan's framework for risk in absence of a compelling reason not to. Only surfacae big problems here. Risks in order of @aryeh-usds's judgement of severity at time of writing.
 
 ### Viability
 - Is OCTO set up logistically and financially to onboard and pay the staff and / or contractors we'll need to do this work? Smart play here may be to address feasibility risk first, which will surface staffing needs, which we can evaluate here.
@@ -96,14 +80,13 @@ Using Marty Cagan's framework for risk in absence of a compelling reason not to.
 - Do we have evidence, or a way to get evidence, that doing this will dissuade anyone of letting Cerner take over the VA's patient portal? 
 
 ### Value
-- Currently our approach is more about preserving (one good place on web to do health transactions) than adding value. The biggest risk here is that's very abstract to users, who may need a carrot to deal with us moving their cheese. Aryeh needs to solve this.
+- Currently our approach is more about preserving (one good place on web to do health transactions) than adding value. The biggest risk here is that's very abstract to users, who may need a carrot to deal with the stick of us moving their cheese.
 
 ### Feasibility
 - Engineering is a blind spot. There are many ways to handle making MHV and VA.gov feel, or actually be, more cohesive, that could eventually look the same to end users. However they could differ by many person-years of effort, and by specific technical risks. This is probably the first risk to tackle because it will inform both the value risk (by telling us which parts of the system are least problematic to change) and viability risk (by telling us something about how many people / how much time is the floor for making progress).
 
 ### Usability
 - Major concern on the Clinician side. We know little of their world or how changes might affect them. Ultimately Veterans get value from this tech stack because it connects them with Clinicians. This is a big piece of the puzzle we should explore.
-- Not yet a concern on the Veteran side. This comes after the other risks, and is the easiest to address algorithmically. Team needs designer when "later" arrives.
 
 ## Proposed Performance Metrics
 TBD
