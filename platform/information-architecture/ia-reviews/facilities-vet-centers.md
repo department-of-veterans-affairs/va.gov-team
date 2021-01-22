@@ -11,6 +11,11 @@
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements. *
 
 - Each Vet Center will have its own page, along with a child "Locations" page that will list related locations.   The "Locations" page will link to another Vet Center page if there is a page for it.  There will be no child locations in the intitial launch. 
+- The Vet Center name will be pulled from VAST for the URL and breadcrumb
+  - The breadcrumb will display the name as is
+  - The URL will replace spaces with dashes and lower case all words; all special characters will be stripped except dashes
+  - Drupal rules will manage when/if the URL should change if the data changes in source (VAST)
+
 
 ![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/64e34b9e-ec87-4d3b-aca5-3ac5787e7f8c)
 
@@ -46,8 +51,10 @@ Vet Center locations page |www.va.gov/[vet-center-name]/locations/ | Home > [Vet
 ### Additional Details/Recommendations
 
 <hr>
-
-- N/A
+**Closure or changes to locations**
+- Community Access Points (CAPs) and mobile locations are not permanent vet centers and can move between primary locations or be closed temporarily or permanently. 
+- A process will need to be determined on how to handle locations that are closed/changed to ensure that pages/links are properly taken down and/or traffic is redirected as needed.
+- CAPs and mobile locations will not have individual pages in the intitial launch.
 
 <hr>
 
