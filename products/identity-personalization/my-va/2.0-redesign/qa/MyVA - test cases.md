@@ -37,8 +37,8 @@
 ### Test cases for "Claims and Appeals" (Verify with Design)
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User DOES have a pension/disability claim|User will see claim information|**LUKE M to provide**|
-|User DOES NOT have a pension/disability claim|User will see a CTA to "File a Claim" |**LUKE M to provide**|
+|User DOES have a pension/disability claim|User will see claim information|TBD|
+|User DOES NOT have a pension/disability claim|User will see a CTA to "File a Claim" |TBD|
 |User's application status is "In Progress"|User sees an application status of "In-Progress"|TBD|
 |User's application status is "Deceased"|User sees an application status of "Deceased"|374:Deceased|
 |User's application status is "Enrolled"|User sees an application status of "Enrolled"|363:Enrolled|
@@ -63,8 +63,8 @@
 ### Test cases for "Applications in Progress"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User DOES have an application in progress|User will see application information, status, last saved date, application expiration date, form number, and applicatoin title|**LUKE M to provide**|
-|User DOES NOT have an application in progress|This section will not appear|**LUKE M to provide**|
+|User DOES have an application in progress|User will see application information, status, last saved date, application expiration date, form number, and applicatoin title|TBD|
+|User DOES NOT have an application in progress|This section will not appear|TBD|
 
 
 
