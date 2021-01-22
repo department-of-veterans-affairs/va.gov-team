@@ -61,7 +61,7 @@ The sessions were structured as follows:
 4. One participant added COVID-19 vaccine information under both the Other Services and Specialty Care categories.
 5. One participant expected to find information about the COVID-19 vaccine under Urgent Care.
 6. One participant expected to find information about the COVID-19 vaccine under Specialty Care.
-7. A couple of participants created their own categories: "Vaccines" and "COVID-19"
+7. A couple of participants created their own categories: "Vaccine Information" and "COVID-19."
 8. When asked what information they would expect to find about the COVID-19 vaccine, participants generally fell into one of two groups:
     - Information about how to sign up for the vaccine, where they would receive it, and what priority group they would be a part of.
     - Information about the vaccine itself, its effectiveness, side-effects or cautionary statements, and when to receive a second shot.
@@ -94,11 +94,17 @@ Although COVID-19 might be an unusual event, some participants felt that their P
 
 #### 6. One participant expected to find information about the COVID-19 vaccine under Specialty Care.
 
-#### 7. A couple of participants created their own categories: "Vaccines" and "COVID-19".
+#### 7. A couple of participants created their own categories: "Vaccine Information" and "COVID-19".
 
 #### 8. When asked what information they would expect to find about the COVID-19 vaccine, participants generally fell into one of two groups:
    - Information about how to sign up for the vaccine, where they would receive it, and what priority group they would be a part of.
+> [To] know which one is being given, how to sign up for the vaccine, how many people have been vaccinated already, the priority, who is prioritized. I would like to be able to sign up for it as well to be able to do it.
+
    - Information about the vaccine itself, its effectiveness, side-effects or cautionary statements, and when to receive a second shot.
+> I think reasons to get the vaccine, general thoughts of its effectiveness, any cautions that they see the vaccine coming out so early.
+
+> Explaining about the vaccine, we know what it is for now. What the effects are, the two shots and the purpose. When you need the second one after the first.
+
 #### 9. All participants would use the term COVID in a search, while one would also search using the term Coronavirus.
 
 #### 10. When searching for vaccine information, all participants would look for terms such as vaccine, vaccination, immunization, and shot.
