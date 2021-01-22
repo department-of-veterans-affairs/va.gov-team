@@ -58,7 +58,7 @@ This is the GI Bill Comparison Tool, which allows you to see the benefits you ca
 
 ## First Task: Radius from Location - 10 minutes
 
-- Let's say you aren't sure what you want to major in, but you live in **Daytona, Florida** and want to find a school within 30 miles of your location because you don't want a long commute.  How would you use the Comparison Tool to find schools that are within that driving distance?
+- Let's say you aren't sure what you want to major in, but you live in **Daytona, Florida** and want to find a school within 10 miles of your location because you don't want a long commute.  How would you use the Comparison Tool to find schools that are within that driving distance?
 
 
 ### Things to watch for:
