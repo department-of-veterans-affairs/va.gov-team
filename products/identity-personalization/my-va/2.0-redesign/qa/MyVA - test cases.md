@@ -14,7 +14,7 @@ NOTE: Screenshots are not final versions
 ### Test cases for "First-time user experience"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|LOA1 user has logged-in for the first time after verifying their identity |User is shown CTA's related to filing a claim, applying for healthcare, and applying for education benefits " [[Screenshot]](https://camo.githubusercontent.com/41fe574a88719a4246e8cfad0d0fc285553bea1db5ce7016b44b176e8c9576ee/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f62333263616566322d393132622d343162382d393034312d383932393861303734633632)[[Screenshot]](https://camo.githubusercontent.com/353eb938c0c8ce0932c54436ba31040022972a81cbf6d2ff355bb80cde3fad13/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f61663036396137632d616633372d343335372d383330622d653031666637666363633333)|TBD|
+|LOA1 user has logged-in for the first time after verifying their identity |User is shown CTA's related to filing a claim, applying for healthcare, and applying for education benefits " [[Screenshot]](https://camo.githubusercontent.com/41fe574a88719a4246e8cfad0d0fc285553bea1db5ce7016b44b176e8c9576ee/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3564666136356262626430373864313639396535323239342f62333263616566322d393132622d343162382d393034312d383932393861303734633632)|TBD|
 
 
 ### Test cases for "LOA3 users"
