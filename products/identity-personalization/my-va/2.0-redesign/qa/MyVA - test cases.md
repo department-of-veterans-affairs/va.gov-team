@@ -7,7 +7,7 @@
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |LOA1 user has not verified their identity|User is shown a prompt to verify their identity|TBD|
-|LOA1 user has not verified their identity but has an application in progress on VA.gov|User is shown a prompt to verify their identity but also shown "Application in progress"|TBD|
+|LOA1 user has not verified their identity but has an application in progress on VA.gov|User is shown a prompt to verify their identity but also shown an Application in progress|TBD|
 |LOA1 user has not verified their identity and does not have anything in-progress|User is shown a prompt to verfy their identity and CTAs related to filing a claim, applying for healthcare, and applying for education benefits|TBD|
 
 
