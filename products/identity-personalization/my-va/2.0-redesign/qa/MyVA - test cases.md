@@ -40,7 +40,7 @@
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User DOES have a pension/disability claim|User will see claim information|TBD|
-|User has open claims or appeal in progress, but there have been no updates in more than 30 days |User sees messaging "You've had no updates to your claims in progress the past 30 days|TBD 
+|User has open claims or appeal in progress, but there have been no updates in more than 30 days |User sees messaging "You've had no updates to your claims in progress the past 30 days"|TBD 
 |User DOES NOT have a pension/disability claim|User will see a CTA to "File a Claim" |TBD|
 |User's application status is "In Progress"|User sees an application status of "In-Progress"|TBD|
 |User's application status is "Deceased"|User sees an application status of "Deceased"|374:Deceased|
