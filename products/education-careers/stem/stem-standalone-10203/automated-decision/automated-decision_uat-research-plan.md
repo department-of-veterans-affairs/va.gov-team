@@ -25,13 +25,25 @@ As a designer I need to create a research plan to share with my team.	(This shou
 (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
 
 3 Ineligible due to program type
-- Currently enrolled in a higher education program that is NOT in the field of Science, Technology, Engineering, or Math.
+- You must have one of these free accounts:
+   - A premium My HealtheVet account, or
+   - A DS Logon account (used for eBenefits and milConnect), or
+   - A verified ID.me account that you can create here on VA.gov
+- Have applied for Post-9/11 GI Bill Benefits
+- Received a decision from the VA on your application
+- Currently enrolled in a higher education program that is **NOT** in the field of Science, Technology, Engineering, or Math.
 - Less than 6 months of benefit entitlement remaining. To check this:
    - Navigate to https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
    - Sign into your account
    - Review your remaining entitlement (in months and days) for your post-9/11 (chapter 33) GI Bill benefit
 
 3 Ineligible due to remaining entitlement
+- You must have one of these free accounts:
+   - A premium My HealtheVet account, or
+   - A DS Logon account (used for eBenefits and milConnect), or
+   - A verified ID.me account that you can create here on VA.gov
+- Have applied for Post-9/11 GI Bill Benefits
+- Received a decision from the VA on your application
 - Currently enrolled in a higher education program that IS in the field of Science, Technology, Engineering, or Math.
 - More than 6 months of benefit entitlement remaining. To check this:
    - Navigate to https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
@@ -39,6 +51,12 @@ As a designer I need to create a research plan to share with my team.	(This shou
    - Review your remaining entitlement (in months and days) for your post-9/11 (chapter 33) GI Bill benefit
 
 2 Eligible 
+- You must have one of these free accounts:
+   - A premium My HealtheVet account, or
+   - A DS Logon account (used for eBenefits and milConnect), or
+   - A verified ID.me account that you can create here on VA.gov
+- Have applied for Post-9/11 GI Bill Benefits
+- Received a decision from the VA on your application
 - Currently enrolled in a STEM program
 - using their post-9/11 GI Bill Benefits to pay for their program of study
 - Less than 6 months of benefit entitlement remaining. To check this:
@@ -78,10 +96,11 @@ All participants must:
    - Review your remaining entitlement (in months and days) for your post-9/11 (chapter 33) GI Bill benefit. Note that in some cases this information is unavailable. If this is so, the participant would not be eligible to participate. 
 
 2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
-
-*Pro tips for writing recruiting critera:* 
-- If you have specific screener questions that YOU would ask a potential participant to determine eligibility for your study, list them here. For example, instead of saying "We want someone who has been to an urgent care facility recently", say "Have you been to an urgent care facility in the last 6 months? (Answer should be yes)"
-- Do not assume that your recruiters or the participants know your products or requirements as well as you do. Provide links to products, clear descriptions, specifics, etc. 
+- Are you a Veteran who recently started using your Chapter 33 Post-9/11 education benefits? 
+- Please respond to this email with your remaining entitlement and program of study. You can check your remaining entitlement by following the steps listed below: 
+   - Navigate to https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
+   - Sign into your account
+   - Review your remaining entitlement (in months and days) for your post-9/11 (chapter 33) GI Bill benefit. Note that in some cases this information is unavailable. If this is so, the participant would not be eligible to participate. 
 
 2.	What is your recruitment strategy? 	
 Plan to draw from the existing recruiting contract - Perigean
@@ -96,10 +115,16 @@ Plan to draw from the existing recruiting contract - Perigean
 3. Length of Sessions: How long do you estimate each session will be? 
 30 minutes with a 15 minute buffer time between sessions. 
 
-4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
+4.	Availability: If applicable, when would you like sessions scheduled? 
+15 minute buffer between sessions
+All times below in EST: 
+- Tuesday 02/09: 8:00AM-1:30; 3:00PM-5:00PM
+- Tuesday 02/16: 8:00AM - 1:30PM; 2:30PM-5:00PM
+- Wednesday 02/17: 8:00AM - 5:00PM
+- Thursday 02/18: 8:00 - 9:30AM; 10:00AM - 11:00AM; 12:00-2:00PM, 3:00PM - 5:00PM
 
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
-02/08/2021
+02/05/2021
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
