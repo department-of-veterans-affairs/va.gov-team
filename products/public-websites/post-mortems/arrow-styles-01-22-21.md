@@ -26,11 +26,13 @@ We identified and reverted the PR, then executed a deployment in the morning.
 - No functionality was broken due to this PR, it was a styling problem.
 
 ### Lessons
-1. Some elements of static pages rely on fragile css selectors. These specific css selectors might be easily overlooked by developers who are not familiar with this part of the codebase. Styles can break after changing the DOM hierarchy.
-1. Developers who don't usually work on the public website's pages might not know how to find all the pages affected by a change to a template.
+1. Some style rules are very tightly coupled to a certain HTML structure and used in several places on the site. This can easily lead to unseen side effects when changes (that otherwise appear to be simple) are made. 
+1. Developers who don't usually work on the Public Website's area of the website might not know how to find all the pages affected by a change to a template.
 
 #### Action items
-- [ ] Tooling for visual regression should be revisited to help build confidence in changes to code that is high risk and otherwise unable to be tested through regular front-end testing methods. https://github.com/department-of-veterans-affairs/va.gov-team/issues/18869
+- [ ] Brainstorm tooling and strategies for evaluating visual regressions - https://github.com/department-of-veterans-affairs/va.gov-team/issues/18869
+- Potentially (but not as an official assigned task) consider revisiting and rewriting the [style for the "link teasers"](https://github.com/department-of-veterans-affairs/veteran-facing-services-tools/blob/8d39616e957cb44b6664a658b2c51dca8076fe7e/packages/formation/sass/modules/_m-hub-page-link-list.scss) to use that [standard code conventions](https://design.va.gov/components/#adding-variants) defined by our design system.
+
 
 ### Timeline (EST)
 - ~5:30pm Production deploy went live, arrows lost their set `height` and `width`
