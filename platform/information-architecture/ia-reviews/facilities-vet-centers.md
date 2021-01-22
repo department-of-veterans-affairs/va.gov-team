@@ -18,7 +18,7 @@
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
 Vet Center page | www.va.gov/[vet-center-name]/ | Home > [Vet center name] | - The vet center name will be pulled from VAST, rules in managing the name and corresponding H1 and URL are yet TBD <br> - The team is testing a variation of the label for "Home" in the breadcrumb. Recommendations will be based on those findings. 
-Vet Center locations page |www.va.gov/[vet-center-name]/locations/ Home > [Vet center name] > Locations |
+Vet Center locations page |www.va.gov/[vet-center-name]/locations/ | Home > [Vet center name] > Locations |
 
 
 <hr>
