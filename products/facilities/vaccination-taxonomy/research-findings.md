@@ -133,7 +133,10 @@ __COVID-19 Vaccine Information__
 * Implement design decisions
 * Share findings with other teams and stakeholders
 
-## Future Research
-* .
-
 ## Appendix
+
+#### [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vaccination-taxonomy/research-plan.md)
+
+#### [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vaccination-taxonomy/conversation-guide.md)
+
+#### [Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vaccination-taxonomy/interviews)
