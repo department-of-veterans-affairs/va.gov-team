@@ -57,12 +57,15 @@ As a designer I need to create a research plan to share with my team.
  - Zoom
 ## Participants and Recruitment	
 1.	Participant criteria:	  
-	
-**Primary criteria / Must have** 
  - Recruit 10-12 participants
  
      - 4 participants will be tested on mobile phone devices (iPhone only)
      - The remaining 6-8 participants will be tested on desktop
+     
+ _Note to Perigean:  We would like to schedule mobile users in the final two days of testing_
+
+
+**Primary criteria / Must have** 
 
 - Participants should either:
      - Have started attending school in Fall 2020 or Spring 2021
@@ -92,10 +95,15 @@ Note:  We cannot support the usage of screen readers for this testing effort.
  - 45 minute sessions
 4.	Availability: If applicable, when would you like sessions scheduled? 
 
-Tues, Feb 9:  9-9:45 AM; 10:15-11 AM; 12:15 - 1 PM
-Wed, Feb 10: 9-9:45 AM; 10:15-11 AM; 12:45 - 1:30 PM; 2 - 2:45 PM
-Thurs, Feb 11: 9-9:45 AM; 12:45 - 1:30 PM
-Fri, Feb 12: 9-9:45 AM; 12-12:45 PM; 1:30 - 2:15 PM
+***Desktop Sessions:***
+
+- Tues, Feb 9:  9-9:45 AM; 10:15-11 AM; 12:15 - 1 PM
+- Wed, Feb 10: 9-9:45 AM; 10:15-11 AM; 12:45 - 1:30 PM; 2 - 2:45 PM
+
+***Desktop/Mobile Sessions:***
+
+- Thurs, Feb 11: 9-9:45 AM; 12:45 - 1:30 PM
+- Fri, Feb 12: 9-9:45 AM; 12-12:45 PM; 1:30 - 2:15 PM
 
 
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
@@ -121,7 +129,7 @@ Please list the people who will be serving in each role.
 - Project Brief: 	
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/redesign/ct-redesign-discovery_product-outline.md	
 - Convo Guide	
-*Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/redesign/research/usability-testing/discussion-guide.md	
 - Synthesis	
 *Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
 - Lessons Learned	
