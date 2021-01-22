@@ -1,5 +1,7 @@
 # Research Findings: Health Services - Vaccination Services Taxonomy
 
+## First Edition - COVID-19 Vaccine-Related Information 
+
 01/20/2021
 
 ## Research Goals 
@@ -51,12 +53,7 @@ The sessions were structured as follows:
 
 ## Findings
 
-### Findings by Hypothesis
-
-__We can understand...__
-
-Finding: __Partially True__
-* . 
+We can understand
 
 ### Key Findings
 
