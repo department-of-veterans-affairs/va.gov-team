@@ -15,7 +15,7 @@ assignees: mnorthuis
 ### Description
 *This is a detailed description of the request. It should include background information and reason for the request.*
 
-### Requestor team info
+### Requesting team info
 *Indicate what team and who the primary contact on that team is*
 
 ### Implementation date
