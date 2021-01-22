@@ -58,6 +58,9 @@ This would be a good strategy if we believe that My HealtheVet's tech stack woul
 3. Lift and shift MHV into health.va.gov
 4. Iterate in place
 
+### Strategy E: Ignore VA.gov to Focus on Mobile
+This would be a good strategy if we believe we need to focus our resources in order to demonstrate ANY viable portal, rather than trying to make two. Or if we think mobile is simply more useful to more Veterans. 
+
 ## Team
 ### Strategy A: Government Ownership
 This would be a good strategy if we can find a long-term government employee passionate about this domain and not too anchored on how things work now. 
