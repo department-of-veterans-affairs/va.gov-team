@@ -50,9 +50,9 @@ As a designer I need to create a research plan to share with my team.
 2.	Why this method? How does this methodology help you answer your research questions? 
   - Remote moderated usability testing will allow us to assess a user's ability to complete basic, but critical functionality on the tool that has been redesigned.  We will be able to see what the user looks at, clicks on and how they expect the functionality to work.  It also allows researchers to ask questions about what the user is thinking as they are completing the tasks to gain better insight into their thoughts, actions and expectations.
 3.	Where are you planning to do your research?
-      - Online using Zoom 	
+ - Online using Zoom 	
 4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 
-    - We will be testing the design, content and flow of the prototype
+ - We will be testing the design, content and flow of the prototype
 5.  If remote: What tool do you plan to use	
  - Zoom
 ## Participants and Recruitment	
