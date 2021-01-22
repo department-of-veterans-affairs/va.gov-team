@@ -5,7 +5,7 @@
 - Slack channel: n/a ([#vsa-benefits-memorials](https://dsva.slack.com/channels/vsa-benefits-memorials))
 - Product POCs: Matt Self and Luke Majewski
 - va.gov link: https://www.va.gov/decision-reviews/higher-level-review/
-- Phyical form: https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf
+- Physical form: https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf
 - Stakeholders: AMO (Jane Chi jane.chi1@va.gov, Lauren Sylvia Lauren.Sylvia@va.gov), Lighthouse (Kelly Lein Kelly.Lein@va.gov, Premal Shaw Premal.Shah@va.gov) and VBA (Paul Shute Paul.Shute@va.gov)
 
 ## The Problem
