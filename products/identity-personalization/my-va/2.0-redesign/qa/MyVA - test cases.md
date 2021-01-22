@@ -52,11 +52,11 @@ NOTE: Screenshots are not final versions
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User DOES have secure messages|User sees latest message info ("From" "Date" "Subject")|TBD|
-|User DOES NOT have secure messages|TBD *************** |TBD|
+|User DOES NOT have secure messages|User sees messaging stating that they do not have any messages|TBD|
 |User DOES have prescriptions|User sees most recent prescription update ("Medication" "Status")|TBD|
-|User DOES NOT have prescriptions|TBD ************* |TBD|
+|User DOES NOT have prescriptions|User does not see the prescription section |TBD|
 |User DOES have appointments|User is shown next appointment ("Date" "Time" "Location/VA Video Connect")|judy.morrison@id.me|
-|User DOES NOT have appointments|TBD ************* |judy.morrison@id.me|
+|User DOES NOT have appointments|User sees messaging stating that they do not have any appointments |judy.morrison@id.me|
 
 **Lab results:** Any user with healthcare will show static "View your lab and test results" link
 
