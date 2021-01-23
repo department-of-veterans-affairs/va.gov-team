@@ -136,7 +136,7 @@ Engagement
 - *What is your target launch date of your MVP/iteration?*
   - Jan 12, 2021
 - *What is your actual launch date of your MVP/iteration?*
-  - TBD
+  - Jan 21, 2021
 - *What is your date for when you'll evaluate impact after launch?*
   - Feb, 2021 (initial evaluation)
 
@@ -154,12 +154,23 @@ Engagement
 
 ### Drupal CMS Forms Migration Documentation
 [Migrations: Forms](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/migrations-forms.md)
+[Relationship Between VA Forms DB/Lighthouse API/Drupal](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/5702)
 
 ### Content Flow Diagram
 [Whimiscal VA Forms - content flow](https://whimsical.com/va-forms-content-flow-UpSBvigLWBK72p8ajG8v3a)
 
+
+ 
+
 ------
 ## Status and decisions:
+
+### 1/23/2021 Marci McGuire
+The post-MVP enhancements to link the Find a VA Form search page to form details pages and online tools was launched on 1/21/2021
+
+### 1/05/2021 Marci McGuire
+The decision was made to exclude the ability to sort forms by date in the post-MVP launch.  That will come in late Jan/early Feb.
+
 ### 12/31/2020 Marci McGuire
 We tentatively plan to launch Post-MVP enhancements on Jan 12, 2021, which will provide direct links from search results to form details page (where they exist) and the ability to sort results by **Form last updated** date.
 
