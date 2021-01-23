@@ -146,10 +146,10 @@ Engagement
 - *What is your target launch date of your MVP/iteration?*
   - April 2020
 - *What is your actual launch date of your MVP/iteration?*
-  - June 8, 2020 (Find VA Forms Search)
-  - September 9, 2020 (Detail pages for "top" MVP forms) [list of forms](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13285#issuecomment-694987577) [content details](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-va-forms-redesign/form-detail-landing-pages/final-docs#content-for-top-mvp-forms)
-  - September 22, 2020 (Batch 2 of form detail pages) [content details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/form-detail-landing-pages/WIP-content-docs/v4-VA-forms-DB-export-April-2020-new-fields-minus-top-forms.xlsx)
-  - October 15, 202 (Bulk redirect to form detai pages)
+  - June 8, 2020 (Find VA Forms Search landing page)
+  - September 9, 2020 (Batch 1 detail pages for "top" MVP forms) [list of forms](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13285#issuecomment-694987577) | [content details](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-va-forms-redesign/form-detail-landing-pages/final-docs#content-for-top-mvp-forms)
+  - September 22, 2020 (Batch 2 form detail pages) [list of forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/form-detail-landing-pages/WIP-content-docs/v4-VA-forms-DB-export-April-2020-new-fields-minus-top-forms.xlsx) | [content details](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-va-forms-redesign/form-detail-landing-pages/final-docs#content-for-the-other-400-forms)
+  - October 15, 202 (Bulk redirect to form detail pages)
 - *What is your date for when you'll evaluate impact after launch?*
 
 ------
@@ -292,9 +292,6 @@ Per DEPO discussion 1/29 with Dave Conlon, Jeff Barnes, Kevin Hoffman, and Chris
 
 4/
 3 typical search flows documented by @mnorthuis here: https://whimsical.com/Bn5zRk2PDzuSjpu1d5q4Pu
-
-
-
 
 
 ### __01/22/2020__
