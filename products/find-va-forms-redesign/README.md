@@ -136,7 +136,7 @@ Engagement
 ## Launch Dates
 ### Post-MVP
 - *What is your target launch date of your MVP/iteration?*
-  - Jan 12, 2021
+  - Jan 12, 2021 (Add CTA links from Find a VA Form landing page to form detail pages and online tools)
 - *What is your actual launch date of your MVP/iteration?*
   - Jan 21, 2021
 - *What is your date for when you'll evaluate impact after launch?*
