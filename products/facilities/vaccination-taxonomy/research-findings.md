@@ -1,6 +1,6 @@
 # Research Findings: Health Services - Vaccination Services Taxonomy
 
-## First Edition - COVID-19 Vaccine-Related Information 
+## Early Edition - COVID-19 Vaccine-Related Information 
 
 ## Research Goals 
 
