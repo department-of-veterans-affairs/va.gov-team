@@ -55,17 +55,15 @@ The sessions were structured as follows:
 
 1. Almost half of participants added COVID-19 vaccine information under Other Services.
 2. A few participants expected to find COVID-19 vaccine information under Primary Care.
-3. One participant added COVID-19 vaccine information under both the Primary Care and Urgent Care categories.
-4. One participant added COVID-19 vaccine information under both the Other Services and Specialty Care categories.
-5. One participant expected to find information about the COVID-19 vaccine under Urgent Care.
-6. One participant expected to find information about the COVID-19 vaccine under Specialty Care.
-7. A couple of participants created their own categories: "Vaccine Information" and "COVID-19."
-8. When asked what information they would expect to find about the COVID-19 vaccine, participants generally fell into one of two groups:
+3. One of the participants who added COVID-19 vaccine information to Primary Care also added it to Urgent Care categories.
+4. One of the participants who added COVID-19 vaccine information to Other Services also added it to Specialty Care categories.
+5. A couple of participants created their own categories: "Vaccine Information" and "COVID-19."
+6. When asked what information they would expect to find about the COVID-19 vaccine, participants generally fell into one of two groups:
     - Information about how to sign up for the vaccine, where they would receive it, and what priority group they would be a part of.
     - Information about the vaccine itself, its effectiveness, side-effects or cautionary statements, and when to receive a second shot.
-9. All participants would use the term COVID in a search, while one would also search using the term Coronavirus.
-10. When searching for vaccine information, all participants would look for terms such as vaccine, vaccination, immunization, and shot.
-11. A couple of participants added "incocculation" to the list of vaccine search terms.
+7. All participants would use the term COVID in a search, while one would also search using the term Coronavirus.
+8. When searching for vaccine information, all participants would look for terms such as vaccine, vaccination, immunization, and shot.
+9. A couple of participants added "incocculation" to the list of vaccine search terms.
 
 ### Details of Findings
 
@@ -82,19 +80,15 @@ Although COVID-19 might be an unusual event, some participants felt that their P
 
 > I feel like primary care is linked with all of your health and with the unknowns about COVID 19 I think that is something I want my doctor to know about.
 
-#### 3. One participant added COVID-19 vaccine information under both the Primary Care and Urgent Care categories.
+#### 3. One of the participants who added COVID-19 vaccine information to Primary Care also added it to Urgent Care categories.
 > I would also put it in urgent care since I have been getting my COVID 19 tests there. I could look at the vaccine information there.
 
-#### 4. One participant added COVID-19 vaccine information under both the Other Services and Specialty Care categories.
+#### 4. One of the participants who added COVID-19 vaccine information to Other Services also added it to Specialty Care categories.
 > Specialty care because it is new and just came out, [and] they might have something there to let you know how to get it, and maybe under other services.
 
-#### 5. One participant expected to find information about the COVID-19 vaccine under Urgent Care.
+#### 5. A couple of participants created their own categories: "Vaccine Information" and "COVID-19".
 
-#### 6. One participant expected to find information about the COVID-19 vaccine under Specialty Care.
-
-#### 7. A couple of participants created their own categories: "Vaccine Information" and "COVID-19".
-
-#### 8. When asked what information they would expect to find about the COVID-19 vaccine, participants generally fell into one of two groups:
+#### 6. When asked what information they would expect to find about the COVID-19 vaccine, participants generally fell into one of two groups:
    - Information about how to sign up for the vaccine, where they would receive it, and what priority group they would be a part of.
 > [To] know which one is being given, how to sign up for the vaccine, how many people have been vaccinated already, the priority, who is prioritized. I would like to be able to sign up for it as well to be able to do it.
 
@@ -103,11 +97,11 @@ Although COVID-19 might be an unusual event, some participants felt that their P
 
 > Explaining about the vaccine, we know what it is for now. What the effects are, the two shots and the purpose. When you need the second one after the first.
 
-#### 9. All participants would use the term COVID in a search, while one would also search using the term Coronavirus.
+#### 7. All participants would use the term COVID in a search, while one would also search using the term Coronavirus.
 
-#### 10. When searching for vaccine information, all participants would look for terms such as vaccine, vaccination, immunization, and shot.
+#### 8. When searching for vaccine information, all participants would look for terms such as vaccine, vaccination, immunization, and shot.
 
-#### 11. A couple of participants added "incocculation" to the list of vaccine search terms.
+#### 9. A couple of participants added "incocculation" to the list of vaccine search terms.
 
 
 ## Additional Insights 
