@@ -1,4 +1,4 @@
-# Product outline: Find VA Forms - Search & Detail Landing Pages
+# Product outline: Find VA Forms - Search Landing & Form Detail Pages
 
 This is the folder for all background, historical, discovery, and status documentation for the Find a VA Form 2020 product redesign MVP. Refer to [State of the Product](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/State-of-the-Product.md) for the most up-to-date information about this product.
 
@@ -21,6 +21,7 @@ This is the folder for all background, historical, discovery, and status documen
    - [Data Flow Diagram](#data-flow-diagram)
    - [Drupal CMS Migration Documentation](#Drupal-CMS-Forms-Migration-Documentation)
    - [Content Flow Diagram](#Content-Flow-Diagram)
+   - [Detail Page Content Architecture Diagram](#Detail-Page-Content-Architecture-Diagram)
 - [Status and decisions](#status-and-decisions)
 
 ## Incident Response
@@ -164,6 +165,9 @@ Engagement
 
 ### Content Flow Diagram
 [Whimiscal VA Forms - content flow](https://whimsical.com/va-forms-content-flow-UpSBvigLWBK72p8ajG8v3a)
+
+### Detail Page Content Architecture Diagram
+[Whimsical diagram - form detail page content flow](https://whimsical.com/forms-detail-page-content-architecture-Bn5zRk2PDzuSjpu1d5q4Pu)
 
 ------
 ## Status and decisions:
