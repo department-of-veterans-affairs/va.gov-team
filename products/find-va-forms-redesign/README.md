@@ -167,7 +167,7 @@ Engagement
 [Whimiscal VA Forms - content flow](https://whimsical.com/va-forms-content-flow-UpSBvigLWBK72p8ajG8v3a)
 
 ### Detail Page Content Architecture Diagram
-[Whimsical diagram - form detail page content flow](https://whimsical.com/forms-detail-page-content-architecture-Bn5zRk2PDzuSjpu1d5q4Pu)
+[Whimsical diagram - form detail page content architecture](https://whimsical.com/forms-detail-page-content-architecture-Bn5zRk2PDzuSjpu1d5q4Pu)
 
 ------
 ## Status and decisions:
