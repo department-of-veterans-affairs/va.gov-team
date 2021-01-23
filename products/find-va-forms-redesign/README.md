@@ -6,7 +6,7 @@ This is the folder for all background, historical, discovery, and status documen
 
 [VA.gov Product Directory-Shared Library-SharePoint](https://dvagov.sharepoint.com/:x:/r/sites/VAgovProductDirectory-SharedLibrary/_layouts/15/doc2.aspx?sourcedoc=%7BA7445DE2-B970-474A-A5E8-6676ABD1D87D%7D&file=VA.gov-Product-Directory-11-13-20.xlsx&action=default&mobileredirect=true)
 
-(Prior iterations of above info should be considered deprecated. )
+(Prior iterations of above info should be considered deprecated.)
 
 ## Table of Contents
 - [Incident Response](#incident-response)
@@ -45,7 +45,8 @@ As of 12/31/2020:
 |----|----|
 |Lee DeBoom	|Vets API|
 |Dan Hinze | Software Engineer|
-|Mark Greenburg	|VA APIs|
+|Lydia Vian	|VA APIs|
+|Jerod Bieringer	|VA APIs|
 |Michael Bastos	|VA APIs|
 
 ### Other Subject Matter Experts
@@ -54,6 +55,7 @@ As of 12/31/2020:
 |Jen Lee	| Former Product Owner|
 |Brian Lloyd	| Former Product Manager|
 |Mickin Sahni	| Former Product Manager|
+|Mark Greenburg	|VA APIs|
 |Nick Sullivan	|FE Engineer|
 |Kelson Adams	| FE Engineer|
 |Steve Wirt	| CMS: Drupal|
@@ -145,6 +147,9 @@ Engagement
   - April 2020
 - *What is your actual launch date of your MVP/iteration?*
   - June 8, 2020 (Find VA Forms Search)
+  - September 9, 2020 (Detail pages for "top" MVP forms) [list of forms](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13285#issuecomment-694987577) [content details](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-va-forms-redesign/form-detail-landing-pages/final-docs#content-for-top-mvp-forms)
+  - September 22, 2020 (Batch 2 of form detail pages) [content details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/form-detail-landing-pages/WIP-content-docs/v4-VA-forms-DB-export-April-2020-new-fields-minus-top-forms.xlsx)
+  - October 15, 202 (Bulk redirect to form detai pages)
 - *What is your date for when you'll evaluate impact after launch?*
 
 ------
@@ -158,9 +163,6 @@ Engagement
 
 ### Content Flow Diagram
 [Whimiscal VA Forms - content flow](https://whimsical.com/va-forms-content-flow-UpSBvigLWBK72p8ajG8v3a)
-
-
- 
 
 ------
 ## Status and decisions:
