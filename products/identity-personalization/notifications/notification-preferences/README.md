@@ -37,6 +37,7 @@ The VA is ramping up their digital communications efforts, specifically through 
 ### Business Goals
 
 - Allow veterans to set and manage communication preferences from their VA.gov profile.
+- Allow any updates veterans make to their permissions to be saved/accessed across the VA (through VA Profile backend).
 - Set up an infrastructure for this functionality that is sustainable and allows us to scale easily over time.
 
 ## Assumptions
@@ -55,9 +56,7 @@ The VA is ramping up their digital communications efforts, specifically through 
 
 **Phase 1: Infrastructure set-up**
 
-- Establish infrastructure for notification preferences by setting up integration with VA Profile backend.
-- Figure out how frontend architecture should be set up in order to best integrate with VA Profile backend.
-- Accomodate grouping of notification preferences.
+Please see [communications preferences MVP documentation]()
 
 ### Out of Scope
 
