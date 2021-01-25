@@ -236,18 +236,18 @@ BE Subtotal (79-84)
 
 
 ### Front End
-- []() Add collapsing "card" that opens with "Remove This Dependent" button (3)
-- []() Add Form components inside collapsing "card" based on dependent type (5)
-- []() Add Logic to pick up data in form components for `spouse` and pass to back end (5)
-- []() Add logic to pick up date in form components for `child` and pass to back end (5)
-- []() Add validation logic for form components (5)
-- []() Add unit tests for "card" component that opens (3)
-- []() Add unit tests for form components (3)
-- []() Create e2e tests for `spouse` workflow (3)
-- []() Create e2e tests for `child` workflow (3)
-- Meet with GA team (1)
-- Implement event names from GA team (2)
-- Internal a11y audit (2) 
+- [18958](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18958) Add collapsing "card" that opens with "Remove This Dependent" button
+- [18959](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18959) Add Form components inside collapsing "card" based on dependent type
+- [18981](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18981) Add Logic to pick up data in form components for `spouse` and pass to back end
+- [18983](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18983) Add logic to pick up date in form components for `child` and pass to back end
+- []() Add validation logic for form components
+- []() Add unit tests for "card" component that opens
+- []() Add unit tests for form components
+- []() Create e2e tests for `spouse` workflow
+- []() Create e2e tests for `child` workflow
+- Meet with GA team
+- Implement event names from GA team
+- Internal a11y audit 
 
   
   
