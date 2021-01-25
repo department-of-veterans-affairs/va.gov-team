@@ -140,7 +140,7 @@ This has already been done as a PoC - some additional work should be done to mak
 
 **Estimate:** ~3 days
 
-`vets-website` should create a `wc-loader.entry.js` file that will get loaded in the `<head>` of each page.
+`vets-website` should create a `wc-loader.entry.js` file that will get loaded in the `<head>` of each page. Webpack builds in `vets-website` [append a hash and timestamp to the entry files](https://github.com/department-of-veterans-affairs/vets-website/blob/d110ea9f899b1c2711b970e0df7010a82a8b90d4/config/webpack.config.js#L133-L138), so this will enable cache busting.
 
 #### Develop an Accordion Web Component
 
