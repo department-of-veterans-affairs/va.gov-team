@@ -19,7 +19,7 @@ Before we get started, I want to give you an idea of what this call will be like
 - We'll start the session with a couple warm up questions.
 - Then, we'll be reviewing a prototype of a website together. Since this is just a prototype, not everything will be clickable or fully functioning.
 - Throughout the session, I'll be asking you about your thoughts and opinions about the information and content on the pages but there are no right or wrong answers. We're not testing you. We're actually testing the designs and the information contained on the pages to see how we can make them better for Veterans. So, I welcome your honest and candid feedback but if at any time you don't feel comfortable answering a question, we can simply move on to the next question. 
-- I'll be having you share your Zoom screen so that I can follow along and I'll help you through that. 
+- In this session, I'll be having you share your Zoom screen so that I can follow along and I'll help you through that. 
 - First, I want to make sure your technology is ready to go for this session. Can you confirm for me what type of device you'll be using today?
     - Great, that helps me troubleshoot with you if we run into any problems.
 
@@ -45,7 +45,7 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 
 **Backup plan if they cannot figure out how to share screen:**
 
-- Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "Drive". You will tell me what to do, what to tap, on, etc. Does that sound ok?
+- Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "navigate" as I "drive". You will tell me what to do, what to tap, on, etc. Does that sound ok?
 - [Share your screen]. Can you confirm if you can see my screen?
 
 
@@ -88,7 +88,6 @@ For the purpose of this session, we'll be mostly focused on different types of c
 If yes:
   - can you tell me, briefly, about the services that you are familiar with?
   - have you participated in any of these services?
-  - how was that experience?
   
 Thank you for sharing that. 
   
