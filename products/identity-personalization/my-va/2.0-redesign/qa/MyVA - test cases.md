@@ -42,11 +42,6 @@
 |User DOES have a pension/disability claim|User will see claim information|TBD|
 |User has open claims or appeal in progress, but there have been no updates in more than 30 days |User sees messaging "You've had no updates to your claims in progress the past 30 days"|TBD 
 |User DOES NOT have a pension/disability claim|User will see a CTA to "File a Claim" |TBD|
-|User's application status is "In Progress"|User sees an application status of "In-Progress"|TBD|
-|User's application status is "Deceased"|User sees an application status of "Deceased"|374:Deceased|
-|User's application status is "Enrolled"|User sees an application status of "Enrolled"|363:Enrolled|
-|User's application status is "Decision"|User sees an application status of "Decision"|369:We determined that you don’t qualify for VA health care, 366:Canceled or declined health care|
-|User's application status is "Update"|User sees an application status of "Update"|365:Update: We need more information, 367:Update: We're reviewing your application|
 
 
 ### Test cases for ["Healthcare"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/health-care-section.md)
