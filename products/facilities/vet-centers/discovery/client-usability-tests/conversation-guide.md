@@ -125,7 +125,7 @@ I'll give you a second to take the page in. [limit to a quick scan]
 Continuing with our same scenario, imagine that you're looking to talk to a professional one-on-one. 
 
 - Can you tell me if that type of care or service is available here?
-- Where you would expect to see that type of care?
+- Talk me through where you would expect to see that type of care?
 
 [narrate what the user did]
 
@@ -135,6 +135,7 @@ Continuing with our same scenario, imagine that you're looking to talk to a prof
 - If no,    
    - Would it go by any other name?
 - What could be improved about the way this information is presented?
+[have user expand an accordion if they haven't done so]
 
 #### Things to watch for:
 • Where does the participant first click?
@@ -146,6 +147,7 @@ Continuing with our same scenario, imagine that you're looking to talk to a prof
 For the next task I'd like for you to imagine that you say you're curious to know if the Orlando Vet Center has other locations.
 
 - What would your guess be based on the information provided?
+- Talk me through where you would expect to see that type of information?
 
 [Navigate to the locations page if user has not navigated on their own]
 
@@ -153,7 +155,7 @@ For the next task I'd like for you to imagine that you say you're curious to kno
 
 - What type of services would be available at other locations?
 
- ## Task #3 - Ready to visit
+ ## Task #3 - Navigating back to main
 
 Let's imagine that you're interested in one of the services at the main location. 
 
@@ -161,9 +163,10 @@ Let's imagine that you're interested in one of the services at the main location
 
 #### Things to watch for:
 • How does the participant navigate? Back button, breadcrumb, Linked location name?
- 
- Imagining hat you're interested in one of the services at the main location
- - What would your next step be?
+
+**Ready to visit?**
+ Imagining that you're interested in one of the services at the main location:
+ - What would be your next step?
  - What else would you need to know before contacting this Vet Center?
  - Given what you know now, what might prevent you from contacting a Vet Center?
  
