@@ -149,9 +149,9 @@ Date | Time in Eastern | Slots
 -----|-----------------------|-------
 Wed, Jan 27 [PILOT] | 10:00-11:00a 
 Thu, Jan 28  | 8-11a| 3
-Fri, Jan 29 | 8-11a| 1-2p | 4
+Fri, Jan 29 | 8-11a, 1-2p | 4
 Mon, Feb 1 | 8-11a | 3
-Tue, Feb 2 | 8-11a| 1-2p | 4
+Tue, Feb 2 | 8-11a, 1-2p | 4
 Wed, Feb 3 | 8-11a | 3
 
 ## Team Roles	
