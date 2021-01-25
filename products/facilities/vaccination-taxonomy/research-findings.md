@@ -82,7 +82,11 @@ Other participants who associated COVID-19 as a unique event created an entirely
 For an injury-related need for a Tetanus shot, most Veterans would look under Urgent Care, and if the injury were more serious, Emergency Care.
 
 #### 3. Veterans often use the most common layman's terms when searching for vaccine-related information.
-> ...
+Veterans all connected and expected to use terms such as vaccine, vaccination and shot, and expected those terms to be seen on VA.gov.
+
+Most Veterans found terms such as Flu and Influenza to be interchangeable.
+
+Most Veterans expected to use and find COVID, or COVID-19 as search terms, but not Coronavirus.
 
 #### 4. The types of vaccinations (age-based, risk based, seasonal, and COVID-19) impacts Veterans' expectations as to where to find vaccine-related information.
 > ...
