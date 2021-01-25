@@ -131,8 +131,8 @@ At least:
 ### Technical requirements
 
 - Six (6) must have a mobile phone device and be willing to be complete the test on said device
-   - Half of the mobile test participants (3) taking the test on an iOS mobile device
-   - Half of the mobile test participants (3) taking the test on an Android mobile device
+   - Half of the mobile phone test participants (3) taking the test on an iOS mobile device
+   - Half of the mobile phone test participants (3) taking the test on an Android mobile device
 - Remaining participants must have a laptop/desktop and be willing to complete the test on said laptop/desktop
 - **Perigean:** please ensure participants have **Zoom downloaded prior to the session**
 - Participants are prepared to screenshare
