@@ -71,7 +71,7 @@ For now each Component will have its own styles _implicitly_ based off of USWDS,
 
 #### Loading Web Components on va.gov
 
-Once in `vets-website`, the setup code for the WC library will be in its own entry file that is loaded on each page. This code will be responsible for applying polyfills for older browsers as well as defining the Web Components.
+The setup code for the WC library will be in its own `vets-website` entry file that is loaded on each page. This code will be responsible for [applying polyfills](https://stenciljs.com/docs/faq#what-polyfills-does-stencil-provide) for older browsers as well as [defining the Web Components](https://developer.mozilla.org/en-US/docs/Web/API/CustomElementRegistry/define).
 
 In addition, this script will be one of the first loaded in order to ensure that the Components will be defined in the browser before they are rendered on the page. This will be done by adding a `<script>` entry towards the top of [the `<head>` tag that gets loaded on every page](https://github.com/department-of-veterans-affairs/vets-website/blob/dc5018065eccf073d172097a19922755126c98a3/src/site/includes/header.html#L16)
 
