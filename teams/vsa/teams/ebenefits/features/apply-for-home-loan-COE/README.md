@@ -11,6 +11,7 @@
 - Stakeholders: `TODO` 
 
 #### Team Members  
+**Jason Wolf** - jwolf@governmentcio.com
 **James Adams** - jadams@governmentcio.com  
 **Jesse Cohn** - jesse.cohn@adhocteam.us  
 **Micah Chiang** - micah@adhocteam.us  
@@ -21,6 +22,18 @@
 
 ## Overview
 *After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+
+### Initial Meeting Notes from LoB
+- Kelli Deinarowic will be handling the move for eligibility transformation from LoB side
+- Eligibility product is intended to allow Veteran to login and determine their eligibility OR request eligibilty
+  - Specially Adapted Housing (SAH) piece: technology side, and a business/policy side
+- Loan Guaranty is being parked more or less at the moment, due to grants program coordination
+
+- Questions for LoB
+  - Is there a form adjecent to this work?
+  - Is there a timeline?
+  - How are applications processed?  What does that workflow look like?
+  - Stats?
 
 ## Problem Statement
 *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
