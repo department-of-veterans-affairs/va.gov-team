@@ -67,6 +67,8 @@ React has some problems with Web Components [in certain situations](https://cust
 
 One of the additional benefits of Web Components is how they can be styled. Each Component can have its own styles scoped to its [shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM) (this means that if a Component renders a `<div>`, the Component's CSS can broadly style the `div` node without worrying about it affecting all the other `<div>`s on the page). As a result, each component will have its own CSS file which also makes use of global [CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties). These variables will be modeled after `formation`/`uswds`.
 
+For now each Component will have its own styles _implicitly_ based off of USWDS, which resemble what is currently available in the Design System. Potential future work would involve explicitly importing USWDS component stylesheets into each Component's CSS file.
+
 #### Loading Web Components on va.gov
 
 Once in `vets-website`, the setup code for the WC library will be in its own entry file that is loaded on each page. This code will be responsible for applying polyfills for older browsers as well as defining the Web Components.
@@ -115,8 +117,6 @@ N/A
 How will we ensure that each Component meets accessibility standards?
 
 How will we measure performance of Web Components, lazy-loading, etc?
-
-Do we want to remove the explicit dependency on [USWDS](https://designsystem.digital.gov/)? Rather than explicitly relying on `uswds`, the Component library could be an abstraction for `vets-website` that implements the appropriate styles from `uswds`. A Component library complete with global styling defaults might be able to accomplish everything that `uswds` is providing.
 
 #### Risks
 
@@ -175,6 +175,14 @@ In a direct comparison, the bundle size of React is [significantly bigger](https
 |---------|-----------|----------|----------|
 | React   | 788B      | 131,948B | 129.63kB |
 | Stencil | 878B      | 12,011B  | 12.59kB  |
+
+#### USWDS styles
+
+We could further investigate the possibility of importing component stylesheets from USWDS into  the stylesheets for the equivalent Web Components. Some potential obstacles that would have to be considered are:
+
+- dealing with composable Components
+- excessive CSS in each Component's stylesheet
+- greater build complexity
 
 #### Templating
 
