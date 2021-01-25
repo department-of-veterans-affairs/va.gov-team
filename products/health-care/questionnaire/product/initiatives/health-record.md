@@ -22,9 +22,9 @@ You are a primary care clinician seeing patients in your office. You ...
 
 
 ## Solution Approach
-- Medications List (BPMH - Best Possible Medication History)
-- Allergies
-- Immunizations
+- [Medications List Feature Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/health-record/medications.md) -BPMH - Best Possible Medication History
+- [Allergies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/health-record/allergies.md)
+- [Immunizations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/health-record/immunizations.md)
 
 ## Features
 
