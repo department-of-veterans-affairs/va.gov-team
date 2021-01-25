@@ -184,6 +184,9 @@ We're almost done. I just have a few more questions left.
  - How would you describe the kind of care that can you get here?
  - Are there any types of services or care that you don't think you can get here?
  - What recommendations do you have for improving this website?
+ 
+## Task #4 - Navigating to VA.gov
+
  - Lastly, let's imagine that you wanted to look up some other information on VA.gov's homepage.
 How would you do that?
 
