@@ -7,7 +7,7 @@ assignees: jwoodman5, Kimberley2019
 
 ---
 
-# Request the Medallia Survey
+# Request the Feedback Survey
 
 ## What this form is for
 Use this template to request adding the Medallia Survey to your product.
