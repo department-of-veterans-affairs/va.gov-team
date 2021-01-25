@@ -25,12 +25,13 @@
 
 ### Initial Meeting Notes from LoB
 - Kelli Deinarowic will be handling the move for eligibility transformation from LoB side
-- Eligibility product is intended to allow Veteran to login and determine their eligibility OR request eligibilty
+- Eligibility (Certificate of Eligibility) product is intended to allow Veteran to login and determine their eligibility OR request eligibilty
   - Specially Adapted Housing (SAH) piece: technology side, and a business/policy side
 - Loan Guaranty is being parked more or less at the moment, due to grants program coordination
 
-- Questions for LoB
+- **Questions for LoB**
   - Is there a form adjecent to this work?
+    - (SAH) Address + military history are submitted
   - Is there a timeline?
   - How are applications processed?  What does that workflow look like?
   - Stats?
