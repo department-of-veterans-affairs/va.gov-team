@@ -27,9 +27,11 @@ Selection options define and categorize permissions options. There are three typ
   - These are the actual notification types for a which a veteran can set permissions, eg. VETExt health appointment reminders or VANotify 526 claim update notifications.
   - These are **pulled in dynamically** from VA Profile. The VA.gov team does not need to define communication items.
   - Communication items can vary (eg. a user who has health care may see a setting to update health care appointment reminders, while a user who does not have health care will not see this setting). We will be able to retrieve that information accordingly from VA Profile.
+
 -	Groupings (eg. notification categories)
   - Groupings allow business line stakeholders to categorize communication items (eg. individual notifications) into meaningful categories, like “Health” or “Disability benefits”. 
   - These are **pulled in dynamically** from VA Profile. The VA.gov team does not need to define groupings. However, VA.gov will be able to in the future, store an index relating VAProfile Groupings to specific VA.gov areas allowing VA.gov to dynamically tailor the display of permission selection options.
+
 -	Communication channels (eg. email, text)
   - Communication channels are the means by which a veteran might receive a given notification, eg. email or text.
   - **For the MVP, we will expect to show options for email and text**.
