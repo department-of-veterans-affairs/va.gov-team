@@ -494,21 +494,20 @@ BE READY FOR QA NEXT SPRINT
 
 ## Sprint 40 (1/27 – 2/9)
 
+Any tickets open from last sprint, plus:
+
 ### My VA redesign
 
 **PM**
 
-Might be carried over from last sprint:
+Goal: Get ready for usability testing review.
 
-- Make a list of staging test cases based on wireframes (MyVA) #18042
-
-Original goal:
-
+- Any open tickets from last sprint
 - Prep for [usability test prep review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#collaboration-format-30-minute-meeting-2)
 
 **Design**
 
-Goal: All design needs to be done, work needs to be submitted for copy review, and move onto research docs.
+Goal: All design needs to be done, work needs to be submitted for copy review, and get ready for usability testing review.
 
 - Any open tickets from last sprint
 - Evaluate new My VA title #13738 (This should be part of the copy review)
@@ -537,7 +536,7 @@ Goal: All design needs to be done, work needs to be submitted for copy review, a
 **QA**
 
 - Complete QA
-- Create tickets if there are issues
+  - Create tickets if there are issues
 
 **FE**
 
@@ -547,7 +546,7 @@ Goal: All design needs to be done, work needs to be submitted for copy review, a
 
 **PM**
 
-- Kickoff?
+- Kickoff with VSP
 
 **BE**
 
