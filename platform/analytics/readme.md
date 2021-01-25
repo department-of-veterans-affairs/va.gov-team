@@ -11,7 +11,7 @@ Please use this guide for more information.
 
 3. [**Request ForeSee implementation**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/foresee-request-survey.md) (Discover phase of the Collab Cycle)
 
-4. [**Request the Product Success Tool**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/product-success-tool-request.md) (KPI Dashboard on Domo)
+4. [**Request the Product Success Tool**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+kpi-dashboard&template=analytics-request-kpi-dashboard.md&title=Analytics+KPI+dashboard+request+for+%5BTeam%5D) (KPI Dashboard on Domo)
 
 5. [**Request Contact Center review**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md)
 
