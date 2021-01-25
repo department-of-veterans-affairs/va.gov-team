@@ -50,10 +50,6 @@ The VA is ramping up their digital communications efforts, specifically through 
 - Where do veterans expect to set and manage notification preferences?
 - Given that all data will be pulled in dynamically from VA Profile (notification types, groupings, and "channels", ie email or text), how do we maintain content and usability integrity?
 
-## Solution approach
-
-Please see the [communications preferences MVP doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-definition.md) for detailed documentation on the MVP requirements.
-
 ## Value Propositions
 
 - Veterans will be able to update how they want to receive different types of communications from the VA.
@@ -71,6 +67,10 @@ We'll need to set up baseline metrics on:
 It would be nice to have metrics on how this affects paper correspondence, but it has historically been extraordinarily difficult to get this kind of data at the VA.
 
 # Implementation Info
+
+## MVP approach
+
+Please see the [communications preferences MVP doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-definition.md) for detailed documentation on the MVP requirements.
 
 ## Status
 
