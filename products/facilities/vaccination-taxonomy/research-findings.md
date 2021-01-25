@@ -53,23 +53,23 @@ The sessions were structured as follows:
 
 ### Key Findings
 
-1. Participants associated COVID-19 as a unique event, and perceived Other Services, or a new COVID-19 category as a catch-all for such an event.
-2. Other participants who associated COVID-19 as a unique event created an entirely new category for COVID-19 information.
-3. One of the participants who added COVID-19 vaccine information to Primary Care also added it to Urgent Care categories.
-4. One of the participants who added COVID-19 vaccine information to Other Services also added it to Specialty Care categories.
-5. A couple of participants created their own categories: "Vaccine Information" and "COVID-19."
-6. When asked what information they would expect to find about the COVID-19 vaccine, participants generally fell into one of two groups:
-    - Information about how to sign up for the vaccine, where they would receive it, and what priority group they would be a part of.
-    - Information about the vaccine itself, its effectiveness, side-effects or cautionary statements, and when to receive a second shot.
-7. All participants would use the term COVID in a search, while one would also search using the term Coronavirus.
-8. When searching for vaccine information, all participants would look for terms such as vaccine, vaccination, immunization, and shot.
-9. A couple of participants added "incocculation" to the list of vaccine search terms.
+1. The majority of Veterans associated COVID-19 as a unique event, and most expect to see COVID-19 information in Other Services, or in its own category.
+2. Most Veterans expect other vaccinations to be part of an existing care visit (Primary Care). 
 
 ### Details of Findings
 
-#### 1. Participants associated COVID-19 as a unique event, and perceived Other Services as a catch-all for such an event.
+#### 1. The majority of Veterans associated COVID-19 as a unique event, and most expect to see COVID-19 information in Other Services, or in its own category.
 Almost half of participants categorized COVID-19 vaccine information under Other Services. 
 > In my mind COVID-19 to the extent of our experience, this is a one time event. Now I don’t know if we are on a curve or will be annual, it is an extraordinary thing. COVID may become routine as well but for me the COVID-19 is extraordinary for a lot of reasons and its infancy. In the list of things to go to the doctor for, this is a unique event in my mind.
+
+> I would go to other services, they probably have so much going on with it, it is probably under a different category when you pull up the main va.gov page.
+
+> I would start looking in other services. Well the way I saw people getting the vaccine today. They run a little clinic, it’s not primary care, it is a nurse. You go and sign in and get your shot but you get information about the second shot and the adverse reactions that could be experienced. It is another service, from what I saw in the Baltimore va today.
+
+Other participants who associated COVID-19 as a unique event created an entirely new category for COVID-19 information.
+> "Vaccine information," [and] it could be under other services so they could be mirrored, because vaccines can be an entire separate entity.
+
+> "COVID-19," [and] I could could mention emergency care with a link from one to another.
 
 #### 2. Other participants who associated COVID-19 as a unique event created an entirely new category for COVID-19 information.
 Although COVID-19 might be an unusual event, some participants felt that their PCP should be part of the conversation when it comes to the vaccine. 
