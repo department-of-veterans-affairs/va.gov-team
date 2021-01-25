@@ -75,7 +75,16 @@ The setup code for the WC library will be in its own `vets-website` entry file t
 
 In addition, this script will be one of the first loaded in order to ensure that the Components will be defined in the browser before they are rendered on the page. This will be done by adding a `<script>` entry towards the top of [the `<head>` tag that gets loaded on every page](https://github.com/department-of-veterans-affairs/vets-website/blob/dc5018065eccf073d172097a19922755126c98a3/src/site/includes/header.html#L16)
 
-For further optimization, the Components will be lazy-loaded. If our Web Component library ends up having hundreds of Components, this could cause a significant performance impact if we defined these every time a new user landed on a va.gov page. Instead, the Components will only _actually_ be defined if they appear on the page. [Stencil has a useful article that talks about their lazy loading approach](https://stenciljs.com/blog/how-lazy-loading-web-components-work).
+For further optimization, the Components will be lazy-loaded. Even if our Web Component library ends up having hundreds of Components, lazy-loading will will reduce the risk of a significant negative performance impact. Here is a summary of the process:
+
+1. each Component is initially defined as a wrapper
+1. one of many Components appears in the DOM
+1. wrapper Component lazy-loads the _actual_ definition
+1. properly defined Component is rendered in the browser
+
+[Stencil has a useful article that talks about their lazy loading approach](https://stenciljs.com/blog/how-lazy-loading-web-components-work).
+
+> It doesn’t matter how the element came to be rendered in the DOM, either way, Stencil knows how to lazy-load itself using web-standards and native browser APIs. And by deferring most of the logic to the browser, rather than generating more JavaScript runtime, the components themselves have an optimal file size.
 
 ### Code Location
 
