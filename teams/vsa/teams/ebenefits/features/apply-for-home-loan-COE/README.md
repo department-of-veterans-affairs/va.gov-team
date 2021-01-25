@@ -28,9 +28,10 @@
 - Eligibility (Certificate of Eligibility) product is intended to allow Veteran to login and determine their eligibility OR request eligibilty
   - Specially Adapted Housing (SAH) piece: technology side, and a business/policy side
 - Loan Guaranty is being parked more or less at the moment, due to grants program coordination
+- COE uses [VA Form 26-1880](https://www.vba.va.gov/pubs/forms/VBA-26-1880-ARE.pdf)
 
 - **Questions for LoB**
-  - Is there a form adjecent to this work?
+  - What is required in the submission?
     - (SAH) Address + military history are submitted
   - Is there a timeline?
   - How are applications processed?  What does that workflow look like?
