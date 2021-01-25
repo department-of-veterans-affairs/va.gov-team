@@ -147,7 +147,7 @@ At least:
 
 Date | Time in Eastern | Slots
 -----|-----------------------|-------
-Mon, Jan 25 [PILOT] | 2-2:30a 
+Mon, Jan 25 [PILOT] | 2-2:30p 
 Tue, Jan 26 | 7-11a | 4 
 Wed, Jan 27 | 10-11a, 1-3p | 3 
 Thu, Jan 28 | 7-11a, 7-8p | 5
