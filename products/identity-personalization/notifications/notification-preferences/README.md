@@ -1,4 +1,4 @@
-# Communications permissions (notification preferences): Product Outline
+# Communications permissions (notification preferences): Product outline
 
 Last Updated January 25, 2021
 
@@ -30,7 +30,9 @@ The VA is ramping up their digital communications efforts, specifically through 
 
 ### User Goals
 
-- As a veteran, I want to be able to select where and how I receive communication from the VA for different scenarios and circumstances (eg. receive emails for claim updates; receive texts for appointment reminders).
+- As a veteran, I want to be able to see what types of communications I am eligible to receive.
+- As a veteran, I want to be able to select where and how I receive those communication (eg. receive emails for claim updates; receive texts for appointment reminders).
+- As a veteran, I only want to have to keep this information updated in one place.
 
 ### Business Goals
 
