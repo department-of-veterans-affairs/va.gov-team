@@ -48,27 +48,11 @@ The VA is ramping up their digital communications efforts, specifically through 
 ## Questions
 
 - Where do veterans expect to set and manage notification preferences?
-- After the initial infrastructure set up, what notification preferences will we need to accomodate?
+- Given that all data will be pulled in dynamically from VA Profile (notification types, groupings, and "channels", ie email or text), how do we maintain content and usability integrity?
 
-## Requirements
+## Solution approach
 
-### In Scope
-
-**Phase 1: Infrastructure set-up**
-
-Please see [communications preferences MVP documentation]()
-
-### Out of Scope
-
-**Phase 1: Infrastructure set-up**
-
-- For the initial set up, I don't *think* we are setting up any actual preferences, but I'm not 100% sure on this. This may evolve over time.
-
-## Solution Approach
-
-- VA Profile's 12/14/20 launch: They are establishing infrastructure for communication partners.
-- VA Profile's January 2021 release: They are still establishing infrastructure for grouping.
-- In January 2021, the VA.gov authenticated experience team will start working with VA Profile on the backend integration. Design/FE will also meet with them to discuss frontend architecture. While there aren't any preferences for us to set up initially, having this established will allow us to easily scale and support the design/fronted as we start to support actual prefrences.
+Please see the [communications preferences MVP doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-definition.md) for detailed documentation on the MVP requirements.
 
 ## Value Propositions
 
@@ -77,10 +61,12 @@ Please see [communications preferences MVP documentation]()
 
 ## KPIs
 
-We'll need to set up baseline metrics on
+We'll need to set up baseline metrics on:
 
 - How many preferences are updated
-- How many people opt-out of any digital communication
+- Successful loading of people's preferences in the profile
+- Successful saves
+- Errors
 
 It would be nice to have metrics on how this affects paper correspondence, but it has historically been extraordinarily difficult to get this kind of data at the VA.
 
@@ -90,6 +76,7 @@ It would be nice to have metrics on how this affects paper correspondence, but i
 
 - **November 2020**: Initial meeting with VA Profile.
 - **December 2020**: Clarifying technical details and timelines with VA Profile.
+- **January 2021**: Backend integration begins; full definition of MVP outlined.
 
 ## Product Decisions
 
