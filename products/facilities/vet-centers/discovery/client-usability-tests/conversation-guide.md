@@ -122,17 +122,17 @@ OR type: rb.gy/k8slyu
 
 I'll give you a second to take the page in. [limit to a quick scan]
 
-Continuing with our scenario, imagine that you're looking to talk to a professional one-on-one. 
+Continuing with our same scenario, imagine that you're looking to talk to a professional one-on-one. 
 
 - Can you tell me if that type of care or service is available here?
+- Where you would expect to see that type of care?
 
 [narrate what the user did]
 
 - Tell me what's going through your mind
 - If yes, 
    - How did this line up with your expectations 
-- If no, 
-   - Where you would expect to see that type of care?
+- If no,    
    - Would it go by any other name?
 - What could be improved about the way this information is presented?
 
@@ -140,30 +140,10 @@ Continuing with our scenario, imagine that you're looking to talk to a professio
 • Where does the participant first click?
 • Does the participant know they can expand the accordions?
  
-## Task #2 - Find Group counseling services
- 
-I'm going to change the scenario just slightly. Now imagine that you've heard good things about group therapy.
 
-- Can you tell me if that type of care or service is available here?
- 
-[narrate what the user did]
+ ## Task #2 - Understanding alternative locations
 
-- Tell me what's going through your mind
-- If yes, 
-   - How did this line up with your expectations 
-- If no, 
-   - Where you would expect to see that type of care?
-   - Would it go by any other name?
-- What could be improved about the way this information is presented?
-
-#### Things to watch for:
-• Where does the participant first click?
-
-## Understanding alternative locations
-
-- From the information available on this website, what can you tell me about the Orlando Vet Center location?
-
-Let's say you're curious if this place has other locations.
+For the next task I'd like for you to imagine that you say you're curious to know if the Orlando Vet Center has other locations.
 
 - What would your guess be based on the information provided?
 
@@ -173,10 +153,16 @@ Let's say you're curious if this place has other locations.
 
 - What type of services would be available at other locations?
 
-## Ready to visit
+ ## Task #3 - Ready to visit
 
-Let's imagine that you've had a chance to learn about the Orlando Vet Center and you're interested in one of the services at the main location. Feel free to go back to the main page.
+Let's imagine that you're interested in one of the services at the main location. 
+
+**Prompt:**  Go ahead and navigate to the main page for me.
+
+#### Things to watch for:
+• How does the participant navigate? Back button, breadcrumb, Linked location name?
  
+ Imagining hat you're interested in one of the services at the main location
  - What would your next step be?
  - What else would you need to know before contacting this Vet Center?
  - Given what you know now, what might prevent you from contacting a Vet Center?
@@ -190,7 +176,11 @@ We're almost done. I just have a few more questions left.
  - How would you describe the kind of care that can you get here?
  - Are there any types of services or care that you don't think you can get here?
  - What recommendations do you have for improving this website?
+- Lastly, let's imagine that you wanted to look up some other information on VA.gov's homepage.
+How would you do that?
 
+#### Things to watch for:
+• How does the participant navigate? Breadcrumb? VA.gov logo?
  
 ## Post-Task Interview
 
