@@ -508,15 +508,10 @@ Original goal:
 
 **Design**
 
-Might be carried over from last sprint:
+Goal: All design needs to be done, work needs to be submitted for copy review, and move onto research docs.
 
-- How do we guide people to the new My VA dashboard? #14581
-- Cerner/MHV split use case for My VA dashboard #14025
-- [Design] Submit MyVA wireframes for copy review #17530 
-
-Original goal:
-
-- Evaluate new My VA title #13738
+- Any open tickets from last sprint
+- Evaluate new My VA title #13738 (This should be part of the copy review)
 - Research plan for usability testing of finalized designs
 - Convo guide for usability testing of finalized designs
 
