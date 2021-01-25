@@ -27,7 +27,6 @@ Communications items (eg. notification types)
 
 - These are the actual notification types for a which a veteran can set permissions, eg. VETExt health appointment reminders or VANotify 526 claim update notifications.
 - These are **pulled in dynamically** from VA Profile. The VA.gov team does not need to define communication items.
-- Communication items can vary (eg. a user who has health care may see a setting to update health care appointment reminders, while a user who does not have health care will not see this setting). We will be able to retrieve that information accordingly from VA Profile.
 
 Groupings (eg. notification categories)
 
