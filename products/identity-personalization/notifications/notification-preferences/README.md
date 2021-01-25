@@ -1,15 +1,16 @@
-# Notification Preferences: Product Outline
+# Communications permissions (notification preferences): Product Outline
 
-Last Updated December 29, 2020
+Last Updated January 25, 2021
 
 ## POCs
 
 - GitHub Label: va-profile; profile
 - Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp)
 - Keywords
-     - Notification preferences
-     - Communication preferences
      - Communication permissions
+     - Communication preferences
+     - Notification preferences
+   
 
 |Name|Role|Email|
 |----|----|-----|
@@ -23,11 +24,9 @@ Last Updated December 29, 2020
 |Mike Richard | VA Profile PM | Michael.Richard2@va.gov |
 |Terry Bazemore | VA Profile Engineer |Terry.Bazemore@va.gov |
 
-## The Problem
+## Overview
 
-The VA/VA.gov is starting to accomodate digital communications (text, email), but we have no place for veterans to manage communication preferences. As the types of digital communications veterans receive grows, veterans need a place to set and manage communication preferences for different scenarios.
-
-Additionally, VA.gov is not the only group within the VA that needs access to a veteran's preferences. These preferences need to be available across the VA, and veterans should be able to set preferences in one place and have those preferences update anywhere.
+The VA is ramping up their digital communications efforts, specifically through email and text. As a result, veterans need to be able to opt in or out of communications and customize through which channels they prefer to be contacted. To meet these organizational and user needs, the VA Profile team is building a communications permissions engine that will integrate with the VA.gov profile frontend and allow veteran-managed settings to be saved and shared across systems at the VA.  
 
 ### User Goals
 
