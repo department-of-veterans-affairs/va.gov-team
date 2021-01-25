@@ -1,10 +1,10 @@
-# Research Plan: Vet Center Detail Page - Usability Test - V2 
+# Research Plan: Vet Center Product Prototype - Usability Test - V2 
 
 **January 2021 Discovery**<br>
 
 ## Goal
 
-The goal of this study is to validate whether or not the design changes made to this prototype version improve the usability and understandability of the facility detail page content to determine if Veterans have enough information to choose care at a Vet Center.
+The goal of this study is to validate whether or not the design changes made to this prototype version improve the usability and understandability of the facility product page content to determine if Veterans have enough information to choose care at a Vet Center.
 
 [Mobile prototype to be tested](https://preview.uxpin.com/cdd25414c3c03534b7a8ee83b89f964219565580#/pages/135469174?mode=cvhidm)
 
@@ -130,7 +130,7 @@ At least:
 
 ### Technical requirements
 
-- Six (6) must have a mobile device and be willing to be complete the test on said device
+- Six (6) must have a mobile phone device and be willing to be complete the test on said device
    - Half of the mobile test participants (3) taking the test on an iOS mobile device
    - Half of the mobile test participants (3) taking the test on an Android mobile device
 - Remaining participants must have a laptop/desktop and be willing to complete the test on said laptop/desktop
@@ -141,18 +141,18 @@ At least:
 
 ## Desired Timeline
 
-- Study dates: January 26 - 29, 2021  
+- Study dates: January 28 - February 3, 2021  
 - Pilot session: will be held on Jan 25, 2021 
 - Session length: 1 hour
 
 Date | Time in Eastern | Slots
 -----|-----------------------|-------
-Mon, Jan 25 [PILOT] | 2-2:30p 
-Tue, Jan 26 | 7-11a | 4 
-Wed, Jan 27 | 10-11a, 1-3p | 3 
-Thu, Jan 28 | 7-11a, 7-8p | 5
-Fri, Jan 29 | 7-11a | 4
-
+Wed, Jan 27 [PILOT] | 10:00-11:00a 
+Thu, Jan 28  | 8-11a| 3
+Fri, Jan 29 | 8-11a| 1-2p | 4
+Mon, Feb 1 | 8-11a | 3
+Tue, Feb 2 | 8-11a| 1-2p | 4
+Wed, Feb 3 | 8-11a | 3
 
 ## Team Roles	
 
