@@ -149,7 +149,7 @@ For the next task I'd like for you to imagine that you say you're curious to kno
 - What would your guess be based on the information provided?
 - Talk me through where you would expect to see that type of information?
 
-[Navigate to the locations page if user has not navigated on their own]
+[Prompt user to navigate to the locations page if user has not navigated on their own]
 
 - In your own words, how would you describe the relationship between the Orlando location and the other locations?
 
@@ -162,13 +162,18 @@ Let's imagine that you're interested in one of the services at the main location
 **Prompt:**  Go ahead and navigate to the main page for me.
 
 #### Things to watch for:
+
 • How does the participant navigate? Back button, breadcrumb, Linked location name?
 
 **Ready to visit?**
- Imagining that you're interested in one of the services at the main location:
- - What would be your next step?
- - What else would you need to know before contacting this Vet Center?
- - Given what you know now, what might prevent you from contacting a Vet Center?
+
+Imagining that you're interested in one of the services at the main location:
+
+- What would be your next step?
+
+- What else would you need to know before contacting this Vet Center?
+
+- Given what you know now, what might prevent you from contacting a Vet Center?
  
 
 ## General website questions
@@ -179,7 +184,7 @@ We're almost done. I just have a few more questions left.
  - How would you describe the kind of care that can you get here?
  - Are there any types of services or care that you don't think you can get here?
  - What recommendations do you have for improving this website?
-- Lastly, let's imagine that you wanted to look up some other information on VA.gov's homepage.
+ - Lastly, let's imagine that you wanted to look up some other information on VA.gov's homepage.
 How would you do that?
 
 #### Things to watch for:
