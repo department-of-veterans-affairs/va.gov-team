@@ -6,21 +6,21 @@
 ### Test cases for "LOA1 user"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|LOA1 user has not verified their identity|User is shown a prompt to verify their identity|350(Doesnt work)|
+|LOA1 user has not verified their identity|User is shown a prompt to verify their identity|**350**|
 |LOA1 user has not verified their identity but has an application in progress on VA.gov|User is shown a prompt to verify their identity but also shown an Application in progress|TBD|
-|LOA1 user has not verified their identity and does not have anything in-progress|User is shown a prompt to verfy their identity and CTAs related to filing a claim, applying for healthcare, and applying for education benefits|TBD|
+|LOA1 user has not verified their identity and does not have anything in-progress|User is shown a prompt to verfy their identity and CTAs related to filing a claim, applying for healthcare, and applying for education benefits|**350**|
 
 
 ### Test cases for "First-time user experience"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|LOA1 user has logged-in for the first time after verifying their identity |User is shown CTA's related to filing a claim, applying for healthcare, and applying for education benefits "|TBD|
+|LOA3 user has logged-in for the first time after verifying their identity |User is shown CTA's related to filing a claim, applying for healthcare, and applying for education benefits "|TBD|
 
 
-### Test cases for "LOA3 users"
+### Test cases for "LOA3 users" 
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User has signed up for something|User sees relevant information/statuses for the section(s) that apply to them|TBD|
+|User has signed up for something|User sees relevant information/statuses for the section(s) that apply to them|**36** (enrolled in healthcare, has disablity claims)|
 |User has signed up for nothing (first time user experience)|User is shown CTA's related to filing a claim, applying for healthcare, and applying for education benefits"|TBD|
 
 ### Test cases for "Disability Rating"
