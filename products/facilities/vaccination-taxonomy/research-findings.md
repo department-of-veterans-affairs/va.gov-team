@@ -53,7 +53,7 @@ The sessions were structured as follows:
 
 ### Key Findings
 
-1. Participants associated COVID-19 as a unique event, and perceived Other Services as a catch-all for such an event.
+1. Participants associated COVID-19 as a unique event, and perceived Other Services, or a new COVID-19 category as a catch-all for such an event.
 2. Other participants who associated COVID-19 as a unique event created an entirely new category for COVID-19 information.
 3. One of the participants who added COVID-19 vaccine information to Primary Care also added it to Urgent Care categories.
 4. One of the participants who added COVID-19 vaccine information to Other Services also added it to Specialty Care categories.
@@ -76,8 +76,6 @@ Although COVID-19 might be an unusual event, some participants felt that their P
 > "Vaccine information," [and] it could be under other services so they could be mirrored, because vaccines can be an entire separate entity.
 
 > "COVID-19," [and] I could could mention emergency care with a link from one to another.
-
-> I feel like primary care is linked with all of your health and with the unknowns about COVID 19 I think that is something I want my doctor to know about.
 
 #### 3. One of the participants who added COVID-19 vaccine information to Primary Care also added it to Urgent Care categories.
 > I would also put it in urgent care since I have been getting my COVID 19 tests there. I could look at the vaccine information there.
