@@ -11,8 +11,4 @@
 
 **To Do**
 
-- cards
-- error messaging
-- confirmation pages
 - demographics
-- dynamic forms (tool builder for question answer to not be hard coded)
