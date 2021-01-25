@@ -40,6 +40,7 @@ Search enhancements for VA.gov, Public Websites
     - Users use Google and online groups (such as Facebook or Reddit) for broader queries, and they come to VA.gov with more specific information in mind found through those other avenues.
     - Users likely won't pay attention to the label Top Recommendations; if they do, they won't understand it means.
     - Benefits that have a clear associated task, such as disability (filing a claim) are easier to navigate via search than education or another benefit that has multiple, or less clear, outcomes.
+    - Users will have difficulty locating information on other search features (ex: Find a Facility).
     - The way our search engine works is not up to people's expectations.
 
 ## Method
