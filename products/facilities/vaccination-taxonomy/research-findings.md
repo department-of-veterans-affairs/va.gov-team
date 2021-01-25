@@ -53,8 +53,8 @@ The sessions were structured as follows:
 
 ### Key Findings
 
-1. Participants associated COVID-19 as a unique event, and expected to see special category for such an event.
-2. A few participants expected to find COVID-19 vaccine information under Primary Care.
+1. Participants associated COVID-19 as a unique event, and perceived Other Services as a catch-all for such an event.
+2. Other participants who associated COVID-19 as a unique event created an entirely new category for COVID-19 information.
 3. One of the participants who added COVID-19 vaccine information to Primary Care also added it to Urgent Care categories.
 4. One of the participants who added COVID-19 vaccine information to Other Services also added it to Specialty Care categories.
 5. A couple of participants created their own categories: "Vaccine Information" and "COVID-19."
@@ -71,14 +71,11 @@ The sessions were structured as follows:
 Almost half of participants categorized COVID-19 vaccine information under Other Services. 
 > In my mind COVID-19 to the extent of our experience, this is a one time event. Now I don’t know if we are on a curve or will be annual, it is an extraordinary thing. COVID may become routine as well but for me the COVID-19 is extraordinary for a lot of reasons and its infancy. In the list of things to go to the doctor for, this is a unique event in my mind.
 
-Other participants created a new category for COVID-19 information. 
+#### 2. Other participants who associated COVID-19 as a unique event created an entirely new category for COVID-19 information.
+Although COVID-19 might be an unusual event, some participants felt that their PCP should be part of the conversation when it comes to the vaccine. 
 > "Vaccine information," [and] it could be under other services so they could be mirrored, because vaccines can be an entire separate entity.
 
 > "COVID-19," [and] I could could mention emergency care with a link from one to another.
-
-#### 2. A few participants expected to find COVID-19 vaccine information under Primary Care.
-Although COVID-19 might be an unusual event, some participants felt that their PCP should be part of the conversation when it comes to the vaccine. 
-> I guess mainly what my doctors thoughts are on the vaccine, with it being so new, and there are many diseases we can't find a vaccine for, but then we have one for COVID. I would want my doctors thoughts to wait or go with the initial one.
 
 > I feel like primary care is linked with all of your health and with the unknowns about COVID 19 I think that is something I want my doctor to know about.
 
