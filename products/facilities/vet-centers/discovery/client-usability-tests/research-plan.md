@@ -1,4 +1,4 @@
-# Research Plan: Vet Center Product Prototype - Usability Test - V2 
+# Research Plan: Vet Center Product - Usability Test - V2 
 
 **January 2021 Discovery**<br>
 
