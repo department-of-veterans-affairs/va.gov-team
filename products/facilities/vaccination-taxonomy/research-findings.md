@@ -55,7 +55,7 @@ The sessions were structured as follows:
 1. The majority of Veterans associated COVID-19 as a unique event, and most expect to see COVID-19 information in Other Services, or in its own category.
 2. Most Veterans expect routine vaccinations, such as Influenza, Tetanus (Tdap), and Shingles to be part of an existing care visit (Primary Care). 
 3. Veterans often use the most common layman's terms when searching for vaccine-related information.
-4. The types of vaccinations (age-based, risk based, seasonal and COVID-19) does influence Veterans expectations as to where information would be found.
+4. The types of vaccinations (age-based, risk based, seasonal, and COVID-19) impacts Veterans' expectations as to where to find vaccine-related information.
 
 ### Details of Findings
 
@@ -81,28 +81,11 @@ Other participants who associated COVID-19 as a unique event created an entirely
 
 For an injury-related need for a Tetanus shot, most Veterans would look under Urgent Care, and if the injury were more serious, Emergency Care.
 
-#### 3. One of the participants who added COVID-19 vaccine information to Primary Care also added it to Urgent Care categories.
-> I would also put it in urgent care since I have been getting my COVID 19 tests there. I could look at the vaccine information there.
+#### 3. Veterans often use the most common layman's terms when searching for vaccine-related information.
+> ...
 
-#### 4. One of the participants who added COVID-19 vaccine information to Other Services also added it to Specialty Care categories.
-> Specialty care because it is new and just came out, [and] they might have something there to let you know how to get it, and maybe under other services.
-
-#### 5. A couple of participants created their own categories: "Vaccine Information" and "COVID-19".
-
-#### 6. When asked what information they would expect to find about the COVID-19 vaccine, participants generally fell into one of two groups:
-   - Information about how to sign up for the vaccine, where they would receive it, and what priority group they would be a part of.
-> [To] know which one is being given, how to sign up for the vaccine, how many people have been vaccinated already, the priority, who is prioritized. I would like to be able to sign up for it as well to be able to do it.
-
-   - Information about the vaccine itself, its effectiveness, side-effects or cautionary statements, and when to receive a second shot.
-> I think reasons to get the vaccine, general thoughts of its effectiveness, any cautions that they see the vaccine coming out so early.
-
-> Explaining about the vaccine, we know what it is for now. What the effects are, the two shots and the purpose. When you need the second one after the first.
-
-#### 7. All participants would use the term COVID in a search, while one would also search using the term Coronavirus.
-
-#### 8. When searching for vaccine information, all participants would look for terms such as vaccine, vaccination, immunization, and shot.
-
-#### 9. A couple of participants added "incocculation" to the list of vaccine search terms.
+#### 4. The types of vaccinations (age-based, risk based, seasonal, and COVID-19) impacts Veterans' expectations as to where to find vaccine-related information.
+> ...
 
 
 ## Additional Insights 
