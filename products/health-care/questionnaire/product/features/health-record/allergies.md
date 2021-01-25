@@ -4,6 +4,7 @@
 
 ## Product Outline and Reference Links
 * [Questionnaires Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/product-outline.md#healthcare-experience---questionnaires-product-outline)
+* [Health Record Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/questionnaire/product/initiatives/health_record.md)
 
 ## Epic User Story 
 User Story 
