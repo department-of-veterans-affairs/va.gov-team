@@ -25,7 +25,6 @@ We spoke with 9 Veterans:
 
 - Where in the VHA taxonomy do Veterans expect vaccination services to be found?
   - For example, do they expect to find it under primary care, with pharmacy (related to "medication"), under a particular specialty; or within a taxon named "Vaccination" (or similar)?
-- What words do Veterans use when searching for vaccination-related services?
 - What words do Veterans use when searching - such as
   - Vaccine/vaccination vs immunization vs shot
   - Flu or influenza
@@ -54,7 +53,9 @@ The sessions were structured as follows:
 ### Key Findings
 
 1. The majority of Veterans associated COVID-19 as a unique event, and most expect to see COVID-19 information in Other Services, or in its own category.
-2. Most Veterans expect other vaccinations to be part of an existing care visit (Primary Care). 
+2. Most Veterans expect routine vaccinations, such as Influenza, Tetanus (Tdap), and Shingles to be part of an existing care visit (Primary Care). 
+3. Veterans often use the most common layman's terms when searching for vaccine-related information.
+4. The types of vaccinations (age-based, risk based, seasonal and COVID-19) does influence Veterans expectations as to where information would be found.
 
 ### Details of Findings
 
@@ -71,11 +72,14 @@ Other participants who associated COVID-19 as a unique event created an entirely
 
 > "COVID-19," [and] I could could mention emergency care with a link from one to another.
 
-#### 2. Other participants who associated COVID-19 as a unique event created an entirely new category for COVID-19 information.
-Although COVID-19 might be an unusual event, some participants felt that their PCP should be part of the conversation when it comes to the vaccine. 
-> "Vaccine information," [and] it could be under other services so they could be mirrored, because vaccines can be an entire separate entity.
+#### 2. Most Veterans expect vaccinations such as Influenza, Tetanus (Tdap), and Shingles to be part of an existing care visit (Primary Care).
+> Primary care, It is more convenient because I see them twice a year and during my visit it is the flu season.
 
-> "COVID-19," [and] I could could mention emergency care with a link from one to another.
+> Primary Care, to me it makes sense because you go to them prior to specialty clinics. If I am up for shots I call them and then I go in to get it done. 
+
+> Normally because I use primary care they keep up on the vaccines you need on your chart and know if you are due for one.
+
+For an injury-related need for a Tetanus shot, most Veterans would look under Urgent Care, and if the injury were more serious, Emergency Care.
 
 #### 3. One of the participants who added COVID-19 vaccine information to Primary Care also added it to Urgent Care categories.
 > I would also put it in urgent care since I have been getting my COVID 19 tests there. I could look at the vaccine information there.
