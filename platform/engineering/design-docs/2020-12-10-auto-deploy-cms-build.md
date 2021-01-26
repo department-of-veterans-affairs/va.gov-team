@@ -94,10 +94,23 @@ To differentiate between the auto-deploys, we will refer to the new one as the *
 
 The content-only auto-deploy will be configured as a [seed job](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/jenkins-vetsgov/seed_job.groovy) (e.g., `deploys/vets-gov-autodeploy-content`) in the `devops` repo. It should also be possible to manually trigger it.
 
-We will leverage the existing full auto-deploy job (`deploys/vets-gov-autodeploy-vets-website`) by having the content-only auto-deploy invoke it with the `use_latest_release` flag set to `true`.
+We will leverage the existing full auto-deploy job (`deploys/vets-gov-autodeploy-vets-website`) by having the content-only auto-deploy invoke it.
+- The `use_latest_release` flag will be set to `true` and the `release_wait` will be set to 0.
 - Since the content-only auto-deploy will be a recurring job, there are some concerns around potential conflicts with daily deploys.
 - Having the new job invoke `deploys/vetsgov-autodeploy-vets-website` will allow both auto-deploys to share a queue in Jenkins and avoid conflicts.
 - CMS stakeholders can still manually trigger the existing job for content-only deploys as before.
+
+The Jenkinsfile for the content-only deploy (e.g., `ansible/Jenkinsfiles/deploys/content-only-autodeploy`) would contain this fundamental step:
+```
+stage('Autodeploy content') {
+  steps {
+    build job: 'deploys/vets-gov-autodeploy-vets-website', parameters: [
+      stringParam(name: 'release_wait', value: '0'),
+      booleanParam(name: 'use_latest_release', value: true),
+    ], wait: true
+  }
+}
+```
 
 #### Using the CMS export to build content
 
@@ -259,7 +272,7 @@ Ideally, content would get deployed immediately as content writers make changes.
 
 | Date         | Revisions Made | Author          |
 | ------------ | -------------- | --------------- |
-| Jan 26, 2021 | <ul><li>Made nuanced corrections about the implementation. Clarified related sections and terminology.</li><li>Elaborated on validation error handling, including a new question about broken links.</li><li>Added details abouut future plans to move to CircleCI.</li></ul> | Eugene Doan |
+| Jan 26, 2021 | <ul><li>Made nuanced corrections about the implementation. Clarified related sections and terminology.</li><li>Elaborated on validation error handling, including a new question about broken links.</li><li>Included proposal for timestamping updated content.</li><li>Added details about future plans to move to CircleCI.</li></ul> | Eugene Doan |
 | Jan 21, 2021 | Cleaned up Background. Added info to Alternatives. | Eugene Doan |
 | Jan 20, 2021 | Completed first draft | Eugene Doan |
 | Dec 10, 2020 | Initial draft  | Jhonny Gonzalez |
