@@ -1,7 +1,7 @@
 # Questions we have
 # Knowns
 - Location of past [Rx Refill research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills/vets-prescriptions)
-- The following information validated through previously [user research as medication information of interest](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/mhv-api/2016-06-03-technical-validation.md):
+- The following was validated through previous [user research as medication information of interest](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/mhv-api/2016-06-03-technical-validation.md):
   - medication instructions
   - side effects
   - warnings
