@@ -50,16 +50,16 @@ The sessions were structured as follows:
 
 ### Key Findings
 
-1. The majority of Veterans associated COVID-19 as a unique event, and most expect to see COVID-19 information in Other Services, or in its own category.
-2. Most Veterans expect routine vaccinations, such as Influenza, Tetanus (Tdap), and Shingles to be part of an existing care visit (Primary Care). 
+1. The majority of Veterans associated COVID-19 as a unique event, and most expected to see COVID-19 information in Other Services, or in its own category.
+2. Most Veterans expected routine vaccinations, such as Influenza, Tetanus (Tdap), and Shingles to be part of an existing care visit (Primary Care). 
 3. Veterans all connected and expected to use terms such as vaccine, vaccination and shot, and expected those terms to be seen on VA.gov.
-4. Most Veterans found terms such as Flu and Influenza to be interchangeable, but expect to use Flu.
+4. Most Veterans found terms such as Flu and Influenza to be interchangeable, but expected to use Flu.
 5. Most Veterans expected to use search terms COVID or COVID-19, but not Coronavirus when searching COVID-19 vaccine-related information.
 6. Veterans' expectations on where to find information depend on the type of vaccine.
 
 ### Details of Findings
 
-#### 1. The majority of Veterans associated COVID-19 as a unique event, and most expect to see COVID-19 information in Other Services, or in its own category.
+#### 1. The majority of Veterans associated COVID-19 as a unique event, and most expected to see COVID-19 information in Other Services, or in its own category.
 Almost half of participants categorized COVID-19 vaccine information under Other Services. 
 > In my mind COVID-19 to the extent of our experience, this is a one time event. Now I don’t know if we are on a curve or will be annual, it is an extraordinary thing. COVID may become routine as well but for me the COVID-19 is extraordinary for a lot of reasons and its infancy. In the list of things to go to the doctor for, this is a unique event in my mind.
 
@@ -72,7 +72,7 @@ Other participants who associated COVID-19 as a unique event created an entirely
 
 > "COVID-19," [and] I could could mention emergency care with a link from one to another.
 
-#### 2. Most Veterans expect vaccinations such as Influenza, Tetanus (Tdap), and Shingles to be part of an existing care visit (Primary Care).
+#### 2. Most Veterans expected vaccinations such as Influenza, Tetanus (Tdap), and Shingles to be part of an existing care visit (Primary Care).
 > Primary care, It is more convenient because I see them twice a year and during my visit it is the flu season.
 
 > Primary Care, to me it makes sense because you go to them prior to specialty clinics. If I am up for shots I call them and then I go in to get it done. 
@@ -98,9 +98,9 @@ Veterans expect to find COVID-19 vaccine-related information outside of primary 
   - Information on how to sign up for the vaccine, where they would receive it, and what priority groups they would be a part of.
   - Information about the vaccine itself, its effectiveness, possible side effects and whether and when a second shot should be received.
 2. A couple of Veterans expect to find COVID-19 vaccine-related information under more than one category.
-3. The majority of participants receive vaccines at least periodically. The Flu and Tetanus shots are the most commonly received.
-4. Many participants receive vaccines regularly. 
-5. A couple of participants are vaccine-hesitant.
+3. The majority of Veterans receive vaccines at least periodically. The Flu and Tetanus shots are the most commonly received.
+4. Many Veterans receive vaccines regularly. 
+5. A couple of Veterans are vaccine-hesitant.
 
 ## Recommendations
 
