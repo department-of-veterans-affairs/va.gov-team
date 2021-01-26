@@ -11,17 +11,17 @@
 |LOA1 user has not verified their identity and does not have anything in-progress|User is shown a prompt to verfy their identity and CTAs related to filing a claim, applying for healthcare, and applying for education benefits|**350**|
 
 
+### Test cases for "LOA3 users" 
+|Test case|Intended outcome|Staging User|
+|----|----|----|
+|User has signed up for something|User sees relevant information/statuses for the section(s) that apply to them|**36** (enrolled in healthcare, has disablity claims)|
+
+
 ### Test cases for "First-time user experience"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |LOA3 user has logged-in for the first time after verifying their identity |User is shown CTA's related to filing a claim, applying for healthcare, and applying for education benefits "|TBD|
 
-
-### Test cases for "LOA3 users" 
-|Test case|Intended outcome|Staging User|
-|----|----|----|
-|User has signed up for something|User sees relevant information/statuses for the section(s) that apply to them|**36** (enrolled in healthcare, has disablity claims)|
-|User has signed up for nothing (first time user experience)|User is shown CTA's related to filing a claim, applying for healthcare, and applying for education benefits"|TBD|
 
 ### Test cases for "Disability Rating"
 |Test case|Intended outcome|Staging User|
