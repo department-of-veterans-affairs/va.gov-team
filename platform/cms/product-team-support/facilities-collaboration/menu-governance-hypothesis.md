@@ -11,13 +11,11 @@ See https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2427 for
 The following artifacts were considered.
 
 *   the [Moqup](https://app.moqups.com/Rnc4BDEKrA/view/page/a9e1a59e9) containing the original IA design done for Pittsburgh 
-*   existing menu structure from [VA Pittsburgh](http://va-gov-cms.lndo.site/admin/structure/menu/manage/pittsburgh-health-care?destination=/admin/structure/menu), [Erie](http://va-gov-cms.lndo.site/admin/structure/menu/manage/va-erie-health-care), [Coatesville](http://va-gov-cms.lndo.site/admin/structure/menu/manage/va-coatesville-health-care?), Eastern Colorado, Eastern Oklahoma
-*   [An analysis of IA design combined with CMS configuration](https://docs.google.com/spreadsheets/d/14Mp6KpBB2wLM-xU4ypf9ZRJlYTjdufFI1drP4ygo_xo/edit#gid=839797890) (google docs)
+*   existing menu structure from [VA Pittsburgh](http://prod.cms.va.gov/admin/structure/menu/manage/pittsburgh-health-care?destination=/admin/structure/menu), [Erie](http://prod.cms.va.gov/admin/structure/menu/manage/va-erie-health-care), [Coatesville](http://prod.cms.va.gov/admin/structure/menu/manage/va-coatesville-health-care?), Eastern Colorado, Eastern Oklahoma.
+*   [An analysis of IA design combined with CMS configuration](https://github.com/department-of-veterans-affairs/va.gov-cms/files/5871323/VAMC.IA.governance.analysis.xlsx) (XLSX, but the source of truth for this is a [google doc](https://github.com/department-of-veterans-affairs/va.gov-cms/files/5871323/VAMC.IA.governance.analysis.xlsx))
 *   [Issues in va.gov-team tagged with “ia” and “vsa-facilities”](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=ia,vsa-facilities&repos=133843125) (link to Zenhub)
 
 What was not considered
-
-
 
 *   Any input from VAMC upgrade team about patterns or intentional IA drift that has arisen, such as where to put DAV vans
 
