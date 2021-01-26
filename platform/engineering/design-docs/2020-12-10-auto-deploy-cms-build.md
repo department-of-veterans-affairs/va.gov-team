@@ -115,6 +115,10 @@ The implementation of the full CMS export build pipeline is expected to introduc
 - That validation should be included in this pipeline as well while it's being rolled out.
 - The comparison step will be removed once the CMS export build is fully released.
 
+For now, the job will not retry or re-queue upon failure.
+- Such failures might be related to build diffs, broken links, or other validations.
+- The goal is for the job to recur at more frequent intervals, so we can look for a successful run in the next scheduled deploy.
+
 #### Deploying the build
 
 The pipeline will archive the CMS export build in S3 at a different key than the current GraphQL builds.
