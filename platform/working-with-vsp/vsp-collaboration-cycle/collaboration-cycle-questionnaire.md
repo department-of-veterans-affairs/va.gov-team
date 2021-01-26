@@ -18,7 +18,14 @@ These questions are designed to give VSP basic, high level information about you
 These questions are more granular and are intended to inform VSP what practice areas are part of your initiative.
 
 ### Are you making changes to the visual design?
+We ask this question to determine if the practice area of design will need to be involved in your Collaboration Cycle reviews.
+
+**Example:** Adding a new page, modifying the layout of an existing page, 
+
+
 ### Are you making changes to copy/content?
+**Example:** 
+
 ### Are there any changes to the user flow?
 ### Are there any changes to urls, navigation or entry points?
 ### Are you doing research with VA.gov users?
