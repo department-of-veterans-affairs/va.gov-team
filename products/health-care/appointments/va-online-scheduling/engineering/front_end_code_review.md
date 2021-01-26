@@ -6,7 +6,7 @@ This is a guide for people reviewing front end code for VAOS.
 
 These are the most important things to check for a PR review, for easy reference. More detailed explanations are below.
 
-- [ ] Are the changes fully explained in PR description?
+- [ ] Are the changes fully explained in PR description and cover what is described in the linked issue?
 - [ ] Are there screenshots showing the effects of style/cosmetic tweaks?
 - [ ] Does the PR have tests that cover any functional changes that will be live in production?
 - [ ] Are any changes to current tests clearly explained by the functional changes being made in the PR?
@@ -16,7 +16,7 @@ If you as a reviewer can verify these things, then we as a team should be comfor
 
 ### Explanation
 
-- Are the changes fully explained in PR description?
+- Are the changes fully explained in PR description and cover what is described in the linked issue?
    - This one is probably self-explanatory, but as a reviewer, you should be able to understand why the changes are being made by reading the PR and issue descriptions
 - Are there screenshots showing the effects of style/cosmetic tweaks?
    - Also self-explanatory, but screenshots are the equivalent of tests for cosmetic changes: proof that the author's change did what they said
@@ -43,7 +43,7 @@ If you as a reviewer can verify these things, then we as a team should be comfor
       - Direct schedule flow
       - Cerner sites flow
 
-## Other
+## Other things to consider
 
 ### Quality of user experience
 
@@ -51,6 +51,29 @@ If you as a reviewer can verify these things, then we as a team should be comfor
 - If the PR involves making a backend api call, does the PR account for that call being slow or failing?
 - If the PR is creating new UI elements and new state (Redux or component), is focus appropriately set after UI changes?
 - Do links have appropriate and unique text for screen reader users?
+- Can all functionality be accessed just by using the keyboard?
+
+## Application structure
+
+- If new Redux state/actions are added:
+   - Is the state used across multiple pages? If not, component state might be better
+   - Are the new state values defaulted in the `intitialState` object in the reducer file?
+   - Does the reducer avoid mutating any data passed in from the action?
+   - Are the action names past tense and reflect what action a user took, rather than what data is being changed in the state?
+   - Can any logic in the action creator function be shifted to the reducer?
+- Were the changes made in the right place for our architecture?
+   - Services/transformers
+      - These contain functionality related to fetching data from the backend, transforming it to FHIR, and pulling different types of information from FHIR formatted data
+      - Generally, we want to use services to get VAOS data and to tell us information we need about that data
+   - Redux action creator functions
+      - These take user events from components, make the appropriate service calls, and dispatch Redux actions containing the resulting data
+      - They're generally arranging functions
+   - Redux reducers
+      - Take action data and update the Redux state appropriately
+   - Selectors
+      - These are used to pull data out of the Redux store and transform it into a useful format for components
+   - Components
+      - These take data from the Redux or local component state and render the appropriate UI for users
 
 ### Code maintainability
 - Look for confusing lines/groups of lines. Confusing bits of code need to be addressed in one of three ways:
@@ -67,22 +90,4 @@ If you as a reviewer can verify these things, then we as a team should be comfor
 - For any custom css, are there design system utilities that could be used instead?
 
 
-## Redux and statement management concerns
 
-- If new Redux state/actions are added:
-   - Is the state used across multiple pages? If not, component state might be better
-   - Are the new state values defaulted in the intitial state object in the reducer file?
-   - Does the reducer avoid mutating any data passed in from the action?
-   - Are the action names past tense and reflect what action a user took, rather than what data is being changed in the state?
-   - Can any logic in the action creator function be shifted to the reducer?
-- Were the changes made in the right place for our architecture?
-   - Services
-      - These contain functionality related to fetching data from the backend, transforming it to FHIR, and pulling different types of information from FHIR formatted data
-   - Redux action creator functions
-      - These take user events from components, make the appropriate service calls, and dispatch Redux actions containing the resulting data
-   - Redux reducers
-      - Take action data and update the Redux state appropriately
-   - Selectors
-      - These are used to pull data out of the Redux store and transform it into a useful format for components
-   - Components
-      - These take data from the Redux or local component state and render the appropriate UI for users
