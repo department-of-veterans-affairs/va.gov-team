@@ -1,7 +1,5 @@
 # Research Findings: Health Services - Vaccination Services Taxonomy
 
-## Early Edition - COVID-19 Vaccine-Related Information 
-
 ## Research Goals 
 
 - Learn the Veteran mental models for vaccination within the health service taxonomy, primarily for VAMCs.
@@ -48,7 +46,7 @@ The sessions were structured as follows:
   - Scenarios were followed up with questions to better understand participants' thought process behind selections, the information they expected to see, and their own real-world experience with the vaccine (if applicable), either with the VA or with an external provider, and what terms they would use to search for that particular vaccine.
 - Following the card sort, participants were asked what terms for vaccines they would use (vaccine, vaccination, immunization, shot, or other terms that weren't used in the card sort).   
 
-## Findings - COVID-19 Vaccine-Related Information
+## Findings
 
 ### Key Findings
 
