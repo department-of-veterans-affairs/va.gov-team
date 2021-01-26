@@ -67,7 +67,7 @@ Link to product outline: [Direct Deposit - Edu](https://github.com/department-of
   - A logged-in LOA3 veteran (identify-verified and 2FA) that is ineligble for direct deposit for disability compensation & pension benefits should see content indicating ineligibility along with links to eligibility information.
   - TestRail Test Case: [C4150](https://dsvavsp.testrail.io/index.php?/cases/view/4150)
 * **Link to designs**
-  - [n/a - Left-nav simply hides Direct Desposit link]
+  - https://xd.adobe.com/view/532272b2-b423-4e1b-a8c6-d1a583da3d37-0671/screen/b24aaba3-b810-4472-87e4-ade9db63467d
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - **NOTE**: No Staging test-acct exists to support this Case.  Instead, API-response will be locally overridden [in Safari browser only] to validate this case.
   - Staging test-account: **`vets.gov.user+378@gmail.com` (Kenneth)** [same as for Test Case C -- see Note above]
