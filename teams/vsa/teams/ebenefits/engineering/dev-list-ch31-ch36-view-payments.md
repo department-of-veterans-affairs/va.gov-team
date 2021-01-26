@@ -240,7 +240,7 @@ BE Subtotal (79-84)
 - [18959](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18959) Add Form components inside collapsing "card" based on dependent type
 - [18981](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18981) Add Logic to pick up data in form components for `spouse` and pass to back end
 - [18983](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18983) Add logic to pick up date in form components for `child` and pass to back end
-- []() Add validation logic for form components
+- [19085](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19085) Add validation logic for form components
 - []() Add unit tests for "card" component that opens
 - []() Add unit tests for form components
 - []() Create e2e tests for `spouse` workflow
