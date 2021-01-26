@@ -106,7 +106,7 @@ Veterans expect to find COVID-19 vaccine-related information outside of primary 
 
 * Add a dedicated, easy-to-spot content section for COVID-19 vaccine information on Health Services pages. This will help Veterans locate the information, regardless of which category they anticipate would contain COVID-19 vaccine information. Cross-link to this content from other content
 * In the COVID-19 section, provide two types of information:
-    - Information and latest updates for Veterans about how and when to sign up for a vaccine (or sign up to be notified when that information is available),   what to expect, and contact information for further information. 
+    - Information about how and when to sign up for a vaccine (or sign up to be notified when that information is available), what to expect, and contacts for further information. 
     - Information on the vaccines themselves, including facts about COVID-19, vaccine benefits, effectiveness and possible side effects.
 * Include vaccine-related information in the Primary Care category, but include Tetanus shot information in Urgent Care and Emergency Care for Veterans who have an injury.
 * There is the possibility that events certain vaccines, such as Influenza or Shingles, will be held outside of a primary care visit. Display information at a top level on the facility page about the event, and cross-link to the information from other categories such as Primary Care.
