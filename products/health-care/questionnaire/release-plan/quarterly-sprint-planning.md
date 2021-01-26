@@ -74,16 +74,16 @@
 | [Product] | -- | # |
 
 
-## Sprint 40 - Sprint Theme
+## Sprint 40 - Discovery Phase 2 and Questionnaire Manager Aggergation
 1/27/2021 - 2/9/2021
 - [Milestone 460](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/460)
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
-| [UI]  | -- | # |
-| [FE]  | -- | # |
-| [BE]  | -- | # |
-| [Product] | -- | # |
+| [UI/Product] Discovery Health Record | -- | # |
+| [FE] UI updates from Platform/testing | -- | # |
+| [BE] Get Questionnaires Aggergation for List and validate data submission | -- | # |
+
 
 
 ## Sprint 39 - MAP and Lighthouse API Success
