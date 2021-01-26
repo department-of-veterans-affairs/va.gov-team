@@ -140,18 +140,19 @@ At least:
 
 ## Desired Timeline
 
-- Study dates: January 28 - February 3, 2021  
-- Pilot session: will be held on Jan 25, 2021 
+- Study dates: January 29 - February 4, 2021  
+- Pilot session: will be held on Jan 28, 2021 
 - Session length: 1 hour
 
 Date | Time in Eastern | Slots
 -----|-----------------------|-------
-Wed, Jan 27 [PILOT] | 10:00-11:00a 
-Thu, Jan 28  | 8-11a| 3
-Fri, Jan 29 | 8-11a, 1-2p | 4
+
+Thu, Jan 28  [PILOT] | 11-11:45a | -
+Fri, Jan 29 | 8-11a | 3
 Mon, Feb 1 | 8-11a | 3
 Tue, Feb 2 | 8-11a, 1-2p | 4
 Wed, Feb 3 | 8-11a | 3
+Thu, Feb 4 | 8-11a | 3
 
 ## Team Roles	
 
