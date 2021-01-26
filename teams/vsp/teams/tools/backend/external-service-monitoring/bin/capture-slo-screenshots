@@ -2,6 +2,8 @@
 
 # frozen_string_literal: true
 
+$threads = []
+
 SCRIPT_VERSION     = '0.0.3'
 PROFILE_NAME       = ENV['PROFILE_NAME'] || 'dev-edition-default'
 GRAFANA_BASE_URL   = 'http://grafana.vfs.va.gov/d/pEgVdRlZk/external-service-performance-indicators'
@@ -25,16 +27,31 @@ end
 
 # SLOReporter
 class SLOReporter
-  attr_accessor :browser, :backend, :board_url, :tmpfile
+  attr_accessor :browser, :backend, :board_url, :tmpfile, :shot_filename
 
   def initialize(browser, backend)
     @browser, @backend = browser, backend
     @board_url = GRAFANA_BASE_URL + query_params
     @tmpfile   = 'tmp/screenshots/' + backend + 'tmp.png'
+    @shot_filename = 'tmp/screenshots/' + backend + '_slo_screenshot.png'
   end
 
   def query_params
     "?orgId=1&var-backend=#{backend}"
+  end
+
+  def capture_and_compress_screenshot
+    return if File.exists? shot_filename
+
+    capture_screenshot unless File.exists? tmpfile
+    compress_screenshot
+  end
+
+  def remove_elements_from_page
+    css_selector = '.sidemenu, .navbar, .submenu-controls'
+    browser.execute_script(
+      "[...document.querySelectorAll('#{css_selector}')].map(e => {e.parentNode.removeChild(e)})"
+    )
   end
 
   def capture_screenshot
@@ -44,15 +61,16 @@ class SLOReporter
     browser.div(aria_label: /50th Percentile Latency over Time/).wait_until(&:present?)
     sleep 5
 
+    remove_elements_from_page
+
     browser.screenshot.save tmpfile
   end
 
   def compress_screenshot
-    shot_filename = 'tmp/screenshots/' + backend + '_slo_screenshot.png'
-
-    system "convert #{tmpfile} -chop 5%x8% -gravity south -chop 0x23.5% #{tmpfile} && \
-            pngcrush -reduce -brute #{tmpfile} #{shot_filename} && \
-            rm #{tmpfile}"
+    $threads << Thread.new do
+      system "pngcrush -reduce -brute #{tmpfile} #{shot_filename} && \
+              rm #{tmpfile}"
+    end
     shot_filename
   end
 end
@@ -107,22 +125,40 @@ rescue Selenium::WebDriver::Error::UnknownError => e
   exit 1
 end
 
+system "mkdir -p tmp/screenshots"
+
 spinner.success('Ready for capture!')
 
 begin
   browser.goto GRAFANA_BASE_URL
+  browser.window.resize_to(1440, 1440)
 
   # Quick copy/paste job from above SLOReporter class to capture the overview boards
   browser.div(aria_label: /50th Percentile Latency over Time/).wait_until(&:present?)
-  sleep 5
+  sleep 15
 
-  overview = 'tmp/screenshots/overview.png'
+  css_selector = '.sidemenu, .navbar, .submenu-controls'
+  browser.execute_script(
+    "[...document.querySelectorAll('#{css_selector}')].map(e => {e.parentNode.removeChild(e)})"
+  )
+
+  overview = 'tmp/screenshots/tmp-all-overview.png'
   browser.screenshot.save overview
+  $threads << Thread.new do
+    system "pngcrush -reduce -brute #{overview} 'tmp/screenshots/all-overview.png'"
+    system "rm #{overview}"
+  end
 
-  shot_filename = 'tmp/screenshots/all-overview.png'
+  browser.link(visible_text: /All - Details/).click
+  browser.link(visible_text: /Availability Grid/).click
+  sleep 10
 
-  system "convert #{overview} -chop 5%x8% -gravity south -chop 0x23.5% #{overview} && \
-          pngcrush -reduce -brute #{overview} #{shot_filename}"
+  availability = 'tmp/screenshots/tmp-availability-overview.png'
+  browser.screenshot.save availability
+  $threads << Thread.new do
+    system "pngcrush -reduce -brute #{availability} 'tmp/screenshots/availability-overview.png'"
+    system "rm #{availability}"
+  end
 end
 
 # TODO: This should use a service catalog or something not hard-coded.
@@ -157,13 +193,9 @@ backends = %w[api_vet360_back
 backends.each do |backend|
   spinner = TTY::Spinner.new("[:spinner] Capturing dashboard screenshot for #{backend}...", format: :pulse_3)
   reporter = SLOReporter.new(browser, backend)
-  reporter.capture_screenshot
+  reporter.capture_and_compress_screenshot
   spinner.success('success')
 end
 
-backends.each do |backend|
-  spinner = TTY::Spinner.new("[:spinner] Compressing screenshot file for #{backend}...", format: :pulse_3)
-  reporter = SLOReporter.new(browser, backend)
-  reporter.compress_screenshot
-  spinner.success('success')
-end
+puts 'Waiting for pngcrush threads to finish'
+$threads.each(&:join)
