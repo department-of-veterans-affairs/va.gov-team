@@ -47,6 +47,40 @@
 
 </details>
 
+## Sprint 25
+
+[very much WIP]
+
+### How we work
+
+* finalize content model documentaiton
+
+### Campaign Landing Page 
+
+* TBD editorial experience
+* TBD training 
+* TBD governance
+
+### Benefits hubs
+
+* 
+
+
+### VAMC system
+
+* Menu governance #2427 
+  * IA collaboration with Mikki and Dave
+  * Technical spike into 
+* Policies page
+  * 
+  * 
+* 
+
+### Vet Centers
+
+
+
+
 ## Sprint 24
 
 ### How we work
