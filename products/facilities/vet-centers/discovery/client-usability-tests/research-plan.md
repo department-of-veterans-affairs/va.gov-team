@@ -8,7 +8,6 @@ The goal of this study is to validate whether or not the design changes made to 
 
 [Mobile prototype to be tested](https://preview.uxpin.com/cdd25414c3c03534b7a8ee83b89f964219565580#/pages/135469174?mode=cvhidm)
 
-_[Backup - Desktop prototype to be tested](https://preview.uxpin.com/cdd25414c3c03534b7a8ee83b89f964219565580#/pages/135469170?mode=cvhidm)_
 
 ### Research questions
 
@@ -31,7 +30,7 @@ Will Veterans:
 
 ## Method
 
-- Sessions will combine directed interviewing (to understand participant's context and experience with VA counseling services) and usability testing, with task analysis, of a high-fidelity, **mobile prototype** created in UXPin. 
+- Sessions will combine directed interviewing (to understand participant's context and experience with VA counseling services) and usability testing, with task analysis, of a high-fidelity, **mobile phone prototype** created in UXPin. 
 - Sessions will be remotely moderated via Zoom.
  
 ## Risks and assumptions
@@ -115,7 +114,8 @@ Perigean please validate against Vet Centers listed on [Facility Locator](https:
 ### Secondary criteria / Would like to have - 
 
 At least: 
-- 4 participants living in a rural or remote area 
+- 3 participants living in a rural or remote area 
+- 2 participants are active duty service members
 - 2 females
 - 1 participant of color 
 - 1 participant 35 or under 
@@ -130,10 +130,9 @@ At least:
 
 ### Technical requirements
 
-- Six (6) must have a mobile phone device and be willing to be complete the test on said device
-   - Half of the mobile phone test participants (3) taking the test on an iOS mobile device
-   - Half of the mobile phone test participants (3) taking the test on an Android mobile device
-- Remaining participants must have a laptop/desktop and be willing to complete the test on said laptop/desktop
+- Participants must have a mobile phone device and be willing to be complete the test on said device
+   - At least (3) mobile phone test participants taking the test on an iOS mobile device
+   - At least (3) mobile phone test participants taking  the test on an Android mobile device
 - **Perigean:** please ensure participants have **Zoom downloaded prior to the session**
 - Participants are prepared to screenshare
    - This study requires participants to screenshare, in order to click through a prototype. It will not be able to accommodate non-sighted users due to the prototype technology.
