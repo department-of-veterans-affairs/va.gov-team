@@ -16,19 +16,25 @@
 
 </details>
 
-## January 29 2021 
+## January 27 2021 
 
-### Vet Centers
+### Vet Centers [#4080](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4080)
 
-* ?
+* Review rough CMS sprint cadence (forthcoming, from Kevin)
 
-### Content model refactoring documentation
+### VAMC System
 
-* Review documentation
+#### Content model refactoring 
 
-### Menu governance 
+* Policies page (https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3684](#3684)
+* VHA health service type of care (https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1981](#1981)
+* Review [documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-team-support/content-model-changes.md) (probably won't be ready for review January 27, may need to bump this to first week of February)
 
-* Review opportunities for hardening. 
+#### Content governance in CMS
+
+* Review [epic for hardening menu governance](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2427), and [hypotheses](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-team-support/facilities-collaboration/menu-governance-hypothesis.md) (Kevin) 
+* Review 
+
 
 
 ## January 22 2021
