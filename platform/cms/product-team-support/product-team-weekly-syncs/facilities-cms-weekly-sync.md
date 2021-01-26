@@ -26,8 +26,8 @@
 
 #### Content model refactoring 
 
-* Policies page (https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3684](#3684)
-* VHA health service type of care (https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1981](#1981)
+* Policies page [#3684](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3684)
+* VHA health service type of care [#1981](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1981)
 * Review [documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-team-support/content-model-changes.md) (probably won't be ready for review January 27, may need to bump this to first week of February)
 
 #### Content governance in CMS
