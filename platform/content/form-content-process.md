@@ -46,7 +46,7 @@ Content editor begins to create an outline for the form and a list of copy needs
 - What instructions need to appear on the online form? 
 - What form question/labels need a plain language edit?  
 - Refer to the VA.gov form label masterlist to see if a label or question has already been standardized or gone through plain language edit. <br>
-[See VA.gov form label masterlist of plain language form fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/VA.gov-form-labels.md) 
+[See VA.gov form label masterlist of plain language form fields](https://design.va.gov/patterns/form-labels) 
 - Discuss content that will go on the form Introduction (subway map) page
 - Discuss content that will go on the form Confirmation page
 
