@@ -109,7 +109,7 @@ Veterans expect to find COVID-19 vaccine-related information outside of primary 
     - Information about how and when to sign up for a vaccine (or sign up to be notified when that information is available), what to expect, and contacts for further information. 
     - Information on the vaccines themselves, including facts about COVID-19, vaccine benefits, effectiveness and possible side effects.
 * Include vaccine-related information in the Primary Care category, but include Tetanus shot information in Urgent Care and Emergency Care for Veterans who have an injury.
-* There is the possibility that events certain vaccines, such as Influenza or Shingles, will be held outside of a primary care visit. Display information at a top level on the facility page about the event, and cross-link to the information from other categories such as Primary Care.
+* There is the possibility that events for certain vaccines, such as Influenza or Shingles, will be held outside of a primary care visit. Display information at a top level on the facility page about the event, and cross-link to the information from other categories such as Primary Care.
 
 ## Next Steps
 
