@@ -104,7 +104,6 @@ Veterans expect to find COVID-19 vaccine-related information outside of primary 
 
 ## Recommendations
 
-__COVID-19 Vaccine Information__
 * Add a dedicated, easy-to-spot content section for COVID-19 vaccine information on Health Services pages. This will help Veterans locate the information, regardless of which category they anticipate would contain COVID-19 vaccine information. 
 * In the COVID-19 section, provide two types of information:
     - Information and latest updates for Veterans about how and when to sign up for a vaccine (or sign up to be notified when that information is available),   what to expect, and contact information for further information. 
