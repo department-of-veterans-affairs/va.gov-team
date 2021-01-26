@@ -54,8 +54,10 @@ The sessions were structured as follows:
 
 1. The majority of Veterans associated COVID-19 as a unique event, and most expect to see COVID-19 information in Other Services, or in its own category.
 2. Most Veterans expect routine vaccinations, such as Influenza, Tetanus (Tdap), and Shingles to be part of an existing care visit (Primary Care). 
-3. Veterans often use the most common layman's terms when searching for vaccine-related information.
-4. The types of vaccinations (age-based, risk based, seasonal, and COVID-19) impacts Veterans' expectations as to where to find vaccine-related information.
+3. Veterans all connected and expected to use terms such as vaccine, vaccination and shot, and expected those terms to be seen on VA.gov.
+4. Most Veterans found terms such as Flu and Influenza to be interchangeable, but expect to use Flu.
+5. Most Veterans expected to use search terms COVID or COVID-19, but not Coronavirus when searching COVID-19 vaccine-related information.
+6. Veterans' expectations on where to find information depend on the type of vaccine.
 
 ### Details of Findings
 
@@ -81,15 +83,14 @@ Other participants who associated COVID-19 as a unique event created an entirely
 
 For an injury-related need that might require a Tetanus shot, most Veterans would look under Urgent Care. If the injury were more serious, they expect to see information under Emergency Care.
 
-#### 3. Veterans often use the most common layman's terms when searching for vaccine-related information.
-Veterans all connected and expected to use terms such as vaccine, vaccination and shot, and expected those terms to be seen on VA.gov.
+#### 3. Veterans all connected and expected to use terms such as vaccine, vaccination and shot, and expected those terms to be seen on VA.gov.
 
-Most Veterans found terms such as Flu and Influenza to be interchangeable.
+#### 4. Most Veterans found terms such as Flu and Influenza to be interchangeable, but expect to use Flu.
 
-Most Veterans expected to use and find COVID, or COVID-19 as search terms, but not Coronavirus.
+#### 5. Most Veterans expected to use search terms COVID or COVID-19, but not Coronavirus when searching COVID-19 vaccine-related information.
 
-#### 4. The types of vaccinations impact Veterans' expectations as to where to find vaccine-related information.
-Many Veterans associate certain age-based vaccines, such as Shingles, risk-based vaccines, such as Pneumococcal, and seasonal vaccines, such as Influenza to be part of their primary care. 
+#### 6. Veterans' expectations on where to find information depend on the type of vaccine.
+Many Veterans associate certain age-based vaccines, risk-based vaccines, and seasonal vaccines, to be part of their primary care. 
 
 Veterans expect to find COVID-19 vaccine-related information outside of primary care information.
 
