@@ -63,27 +63,41 @@ VA digital health decision makers can use and trust the dashboard to make decisi
 1. Build a quick domo prototype dashboard that can incorporate CSV updates weekly while we wait for BigQuery acquisition.
 2. Incorporate all Covid related data to build a database of Covid data for decision-making
 3. Clean up the dashboard to point to more relevant information as we learn more
-4. Iterate when new pandemic information & events change
+4. Iterate when new pandemic information & events change, such as the release of a Vaccine
 
 --- 
 
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](#go-to-market-strategy)
+- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17384)
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
+  - April 2020
 - *Actual Launch Date* 
-  - tbd
+  - April 2020
 - *What date will you evaluate impact after launch?*
-  - 
+  - When the builds for the pandemic have "slowed down"
+  
+- Redesign Launch: 
+  - September 2020
+- Vaccine Dashboard Launch:
+  - January 2021
+
 ---
 
 ### Current Status
+"Maintenance Mode" - periodic (bi-monthly) checks for data updates. No active iterations
 
 ### Key Decisions
+- Once the dashboard was in "maintenance mode" at the end of the summer of 2020, the Analytics team performed a design sprint to redesign the dashboard. This dashboard would target specific Covid Task Force stakeholder questions instead of pulling together all Covid-related digital datta. This includes, but is not limited to:
+  - General digital response to Covid 
+  - Covid topic trends
+  - Covid-related tool usage
+  
+
+- The team had anticipated adding a Vaccine specific "sub-dashboard" once the vaccine was released in the U.S. In December 2020, the team started tracking Vaccine topics and digital services on VA.gov, and built the first iteration of the Vaccine Sub-dashboard.
 
 ---
    
@@ -92,9 +106,34 @@ VA digital health decision makers can use and trust the dashboard to make decisi
 [Redesign Demo Readout](https://docs.google.com/presentation/d/1RWuYKmFmydkBhgfn8jfkRDalRauX_CDrXAfvUYbUY-M/edit#slide=id.g995be3e0ce_0_6)
 
 
-### Before
+### Original Dashboard
+![Alt text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/covid-dashboard/Covid%20Original%20Dashboard%20Screenshot.png "Original Dashboard")
 
-### After
+---
+
+### Redesigned Dashboard
+![Alt text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/covid-dashboard/Covid%20Digital%20Response%20Screenshot.png)
+
+---
+
+![Alt text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/covid-dashboard/Covid%20Content%20Screenshot.png)
+
+---
+
+![Alt text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/covid-dashboard/Covid%20Topic%20Trends%20Screenshot.png)
+
+---
+
+![Alt text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/covid-dashboard/Tool%20Usage%20Screenshot.png)
+
+---
+
+![Alt text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/covid-dashboard/Exploratory%20Analytics%20Screenshot.png)
+
+---
+
+### Vaccine Response Dashboard
+![Alt text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/covid-dashboard/Vaccine%20Response%20Screenshot.png)
 
 ---
 
@@ -102,11 +141,11 @@ VA digital health decision makers can use and trust the dashboard to make decisi
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Team Name: VSP Analytics & Insights
+- GitHub Label: analytics-insights, kpi-dashboard
+- Slack channel: vsp-covid-dashboard-temp
+- Product POCs: Rachael Roueche, Chante Lantos-Swett, Joanne Esteban
+- Stakeholders: Lauren Alexanderson, Danielle Thierry, Chante Lantos-Swett, Patrick Bateman
 
 </details>
 
@@ -114,10 +153,10 @@ VA digital health decision makers can use and trust the dashboard to make decisi
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - DEPO Lead: Rachael Roueche
+ - PM: Joanne Esteban
+ - Engineering: Jason Cavnar, Jon Wehausen, Brian Martin
+ - Research/Design: Mandy Massengill
  
 </details>
 
@@ -125,8 +164,8 @@ VA digital health decision makers can use and trust the dashboard to make decisi
 #### Stakeholders
 
 <details>
- 
-_What offices/departments are critical to make this initiative successful?_
+
+VA Digital Services Covid Task Force
  
 </details>
 
