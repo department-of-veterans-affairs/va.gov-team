@@ -26,8 +26,8 @@
 ### Test cases for "Disability Rating" (Done)
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User DOES have a disability rating|User will see their disability rating next to their name|90|
-|User DOES NOT have a disability rating|User will not see their disability rating next to their name|10|
+|User DOES have a disability rating|User will see their disability rating next to their name|**90**|
+|User DOES NOT have a disability rating|User will not see their disability rating next to their name|**10**|
 
 
 ### Test cases for "Education Benefits"  
