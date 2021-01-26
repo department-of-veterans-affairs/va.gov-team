@@ -36,7 +36,7 @@ Now we're going to install the VA mobile app on your phone. It takes a few steps
 - Good. Down at the bottom of Zoom you should see a speech bubble with the word Participants and a red number 1. Tap on that to open the chat.
 - Great. Tap on the "Download" button to download the file.
 - Once the file has downloaded to your phone (this might take a few minutes), open it and select Install. 
-- You may need to change your phone’s security settings to allow the app to successfully install. Turn on Allow from this source to allow installation. 
+- You may need to change your phone’s security settings to allow the app to successfully install. Turn on Allow from this source to allow installation. I also want to note that this is not something we would normally recommend you do. But because we're doing a guided walkthrough with you and will uninstall the app at the end you can trust this process and that it is necessary. If you don't want to change your settings for this app I understand and that is ok. 
 - Now it's installed. You should see it on your phone's home screen labeled VA Mobile with an Android icon.
 
 Great. Thank you for bearing with me on getting everything up and running. Now we're really ready to begin!
