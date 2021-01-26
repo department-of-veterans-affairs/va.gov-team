@@ -81,32 +81,35 @@ Link to product outline: [HCA Address Project](https://github.com/department-of-
 
 ## Feature toggle set to: On (both address questions available)
 ### Unauthenticated
-  #### "Yes" mailing is the same
-    - **Expected**: Two address as with label “Mailing” then with “Home” sent as `veteranAddress` (mailing) and `veteranHomeAddress` (home). `veteranHomeAddress` in the data is same as mailing.
-    - **Actual**: :white_check_mark: As expected. Filled in both "mailing" and "home" (with different addresses) and went back to click, "yes, home is same as mailing" and it sent data as expected.
-  #### "No" mailing is not the same
-    - **Expected**: Two address as with label “Mailing” then with “Home” sent as `veteranAddress` (mailing) and `veteranHomeAddress` (home).
-    - **Actual**: 
+#### "Yes" mailing is the same
+- **Expected**: Two address as with label “Mailing” then with “Home” sent as `veteranAddress` (mailing) and `veteranHomeAddress` (home). `veteranHomeAddress` in the data is same as mailing.
+- **Actual**: :white_check_mark: As expected. Filled in both "mailing" and "home" (with different addresses) and went back to click, "yes, home is same as mailing" and it sent data as expected.
+#### "No" mailing is not the same
+- **Expected**: Two address as with label “Mailing” then with “Home” sent as `veteranAddress` (mailing) and `veteranHomeAddress` (home).
+- **Actual**: 
 
 ### Authenticated
-  #### with Mailing & Home in Profile
-      - **User**: 100
-      - **Expected**: Address labled "Mailing" populated by mailing address in profile "same as mailing" question defaulted to "no" - Address labled as "Home" populated by home address in profile.
-      - **Actual**: :white_check_mark: As expected.
-  #### with Mailing and Home (same as mailing) in Profile
-      - **User**: (unknown - Jonathan may have in notes)
-      - **Expected**: EZ askes for 2 addresses. Mailing is populated, "Yes, home is same as mailing" is pre-selected. `veteranAddress` and `veteranMailingAddress` is sent to the api, and they both have the same value (same address).
-      - **Actual**: :white_check_mark: As expected.
-  #### with Mailing Only in Profile
-      - **User**: 99
-      - **Expected**: Will populate mailing address in EZ. Will not pre-select "yes/no address is the same".
-      - **Actual**: (untested because of below issue)
-        - :warning: For user 99, I set the mailing address in profile. When I started the EZ, the mailing address was not pre-populated, *but* none of this user's data was pre-populated when I started the form (name, dob, ssn, etc.).
-  #### with No addresses in Profile
-      - **User**: 113
-      - **Expected**: No prefill would happen, both addresses are collected in the EZ.
-      - **Actual**: :warning: As expected but contains SiP bug (needed to refresh for second address).
-        - :beetle: After starting the application, but before filling in any information, I went to profile to see my attributes, then went back to the form. The EZ only asked for one address (as it did in the previous day's test).
-        - :question: When entering SSN for user 113, an input error ("Please enter a valid 9 digit SSN (dashes allowed)") prevented me from continuing through the form.
+#### with Mailing & Home in Profile
+- **User**: 100
+- **Expected**: Address labled "Mailing" populated by mailing address in profile "same as mailing" question defaulted to "no" - Address labled as "Home" populated by home address in profile.
+- **Actual**: :white_check_mark: As expected.
+#### with Mailing and Home (same as mailing) in Profile
+- **User**: (unknown - Jonathan may have in notes)
+- **Expected**: EZ askes for 2 addresses. Mailing is populated, "Yes, home is same as mailing" is pre-selected. `veteranAddress` and `veteranMailingAddress` is sent to the api, and they both have the same value (same address).
+- **Actual**: :white_check_mark: As expected.
+#### with Mailing Only in Profile
+- **User**: 99
+- **Expected**: Will populate mailing address in EZ. Will not pre-select "yes/no address is the same".
+- **Actual**: (untested because of below issue)
+- :warning: For user 99, I set the mailing address in profile. When I started the EZ, the mailing address was not pre-populated, *but* none of this user's data was pre-populated when I started the form (name, dob, ssn, etc.).
+        
+#### with No addresses in Profile
+
+- **User**: 113
+- **Expected**: No prefill would happen, both addresses are collected in the EZ.
+- **Actual**: :warning: As expected but contains SiP bug (needed to refresh for second address).
+  - :beetle: After starting the application, but before filling in any information, I went to profile to see my attributes, then went back to the form. The EZ only asked for one address (as it did in the previous day's test).
+  - :question: When entering SSN for user 113, an input error ("Please enter a valid 9 digit SSN (dashes allowed)") prevented me from continuing through the form.
+  
 </details>
 
