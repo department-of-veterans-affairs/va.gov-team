@@ -97,7 +97,9 @@ Veterans expect to find COVID-19 vaccine-related information outside of primary 
 1. Veterans generally expected one of two types of information about the COVID-19 vaccine:
   - Information on how to sign up for the vaccine, where they would receive it, and what priority groups they would be a part of.
   - Information about the vaccine itself, its effectiveness, possible side effects and whether and when a second shot should be received.
-2. A couple of Veterans expect to find COVID-19 vaccine-related information under more than one category.
+2. A couple of Veterans expect to find COVID-19 vaccine-related information under more than one category
+  - One expected to find information under Primary Care and Urget Care.
+  - One expected to find information under Other Services and Specialty Care.
 3. The majority of Veterans receive vaccines at least periodically. The Flu and Tetanus shots are the most commonly received.
 4. Many Veterans receive vaccines regularly. 
 5. A couple of Veterans are vaccine-hesitant.
