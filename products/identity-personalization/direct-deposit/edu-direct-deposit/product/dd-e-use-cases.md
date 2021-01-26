@@ -19,7 +19,7 @@ Link to product outline: [Direct Deposit - Edu](https://github.com/department-of
 - [Use Case C](#use-case-c---loa3---direct-deposit-for-edu-set-up) 
 - [Use Case D](#use-case-d---loa3---ineligible-for-edu---eligible-for-comp--pen) 
 - [Use Case E](#use-case-e---loa3---ineligible-for-any-direct-deposit) 
-
+- [Use Case F](#use-case-f---loa3---ineligible-for-comp--pen)
 </details>
 
 ## Use Case A - LOA2 - 2FA Alert
