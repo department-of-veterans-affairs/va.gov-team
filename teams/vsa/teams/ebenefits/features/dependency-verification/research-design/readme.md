@@ -1,4 +1,4 @@
-# Dependents Verification esearch & design
+# Dependents Verification Research & Design
 **VSA eBenefits Team | January 2021**
 
 `James Adams, designer`
