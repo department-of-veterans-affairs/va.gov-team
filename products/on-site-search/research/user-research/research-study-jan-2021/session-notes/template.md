@@ -1,4 +1,4 @@
-# Conversation Guide for Search & Discovery
+Date | Time 
 ## Intro
 Thanks for joining us today! My name is Megan. I also have some colleagues on the line listening and taking notes. Today we'll be talking about VA.gov’s search feature. We're trying to learn about Veteran’s experiences finding VA-related information.
 Before we get started, I want to give you an idea of what this call will be like:
