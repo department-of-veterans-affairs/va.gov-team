@@ -1,7 +1,7 @@
 # Automatic Deploy of Content Built from CMS Export Data
 
 **Author(s):** Jhonny Gonzalez, Eugene Doan  
-**Last Updated:** January 21, 2021  
+**Last Updated:** January 26, 2021  
 **Status:** Draft | **In Review** | Approved  
 **Approvers:**
 - [ ] Dan Shank
@@ -47,13 +47,22 @@ In the same manner as the GraphQL data, the transformed CMS export data would th
 | Accessibility tests | N/A                                                                                                                                                                                                                                                                                                                                                                        | Runs tests                                                                                                                                                     |
 | Links checker       | Runs checks                                                                                                                                                                                                                                                                                                                                                                                                                                          | Runs checks                                                                                                                                                    |
 
-The VA.gov website can be deployed through the partial (or content-only) deploy or the full deploy.
+The VA.gov website can be deployed to production through the partial (or content-only) deploy or the full deploy.
 
-The full deploy is a daily job that deploys `vets-website` to the production environment of VA.gov. It uses the latest commit of `vets-website` as of 2:00pm ET on that day and the latest content downloaded from the Drupal server. It can be manually invoked as necessary, independently of the daily schedule.
+The **full deploy** builds from _the latest commit of `vets-website`_ and the latest content downloaded from the Drupal server.
 
-The content-only deploy builds `vets-website` with the latest content downloaded from the Drupal server and deploys to the dev and staging environments of VA.gov. This job can be triggered in one of two ways:
-- The daily production deploy of `vets-website`, which will build with latest release of `vets-website`
-- The `va-cms-bot`, which will build with the latest commit on `vets-website` in response to a manual trigger by the CMS team or CMS users with the `Content Admin` or `Content Publisher` roles 
+The **partial, content-only deploy** builds from the _latest release-tagged commit of `vets-website`_ and the latest content downloaded from the Drupal server.
+
+Both deploys share the same Jenkins pipeline, described by the `deploys/warn-release-deploy` [Jenkinsfile](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/Jenkinsfiles/deploys/warn-release-deploy) in the `devops` repo.
+- There is a `use_latest_release` flag passed as a parameter to the pipeline that determines which deploy is run.
+  - This value is true for partial deploys in order to build from the latest release.
+  - This value is false for full deploys in order to build from the latest commit.
+- If the commit used in either deploy failed its build, the deploy will also fail.
+- Either deploy can be manually invoked, independently of the daily schedule.
+
+There is an existing [automatic full deploy job scheduled to run at 2:00pm ET daily](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/jenkins-vetsgov/seed_job.groovy#L255-L294). It runs an additional [pre-release job](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/jenkins-vetsgov/seed_job.groovy#L250) ([`builds/vets-website-content-vagovprod`](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/jenkins-vetsgov/seed_job.groovy)) defined in [`Jenkinsfile.content`](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile.content) in the `vets-website` repo.
+
+To deploy content changes at will, that "auto-deploy" job is manually triggered with the `use_latest_release` flag by the CMS team or CMS users with the `Content Admin` or `Content Publisher` roles.
 
 #### Pain points
 
@@ -65,38 +74,49 @@ The content-only deploy builds `vets-website` with the latest content downloaded
 
 ### High Level Design
 
-This new auto-deploy has a few main differences with the existing content-only deploy.
-- Uses the CMS export to build content
-- Runs on a schedule instead of being triggered by other jobs (such as the daily prod deploy)
-- Deploys to production instead of only dev and staging
+There will be a new content-only auto-deploy job in addition to the existing full auto-deploy.
+- It will build content with CMS export data.
+- It will be a recurring job that executes on a more frequent schedule than the daily prod deploy.
 
-The schedule will run between 8am and 8pm ET. It will initially be set to run hourly as a conservative cadence. It will then be incrementally adjusted to a higher frequency as the build system allows.
+The schedule will run between 8am and 8pm ET to align with CMS support hours.
+- It will initially be set to run hourly as a conservative cadence.
+- It will then be incrementally adjusted to a higher frequency as the build system allows.
 
 To avoid deploying when content hasn't changed since the previous deploy, the job will compare the export data (e.g., using and archiving the checksums of the tarballs).
+
+To differentiate between the auto-deploys, we will refer to the new one as the **content-only auto-deploy** and the existing one as the **daily or full auto-deploy**.
 
 ## Specifics
 
 ### Detailed Design
 
-#### Creating a new pipeline
+#### Creating a new job
 
-A new pipeline (e.g., `Jenkinsfile.autodeploy`) will be created for the auto-deploy. It will be modeled after the current `Jenkinsfile.content` configuration.
+The content-only auto-deploy will be configured as a [seed job](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/jenkins-vetsgov/seed_job.groovy) (e.g., `deploys/vets-gov-autodeploy-content`) in the `devops` repo. It should also be possible to manually trigger it.
+
+We will leverage the existing full auto-deploy job (`deploys/vets-gov-autodeploy-vets-website`) by having the content-only auto-deploy invoke it with the `use_latest_release` flag set to `true`.
+- Since the content-only auto-deploy will be a recurring job, there are some concerns around potential conflicts with daily deploys.
+- Having the new job invoke `deploys/vetsgov-autodeploy-vets-website` will allow both auto-deploys to share a queue in Jenkins and avoid conflicts.
 
 #### Using the CMS export to build content
 
-In order for the partial deploy to use the CMS export data, the [build command](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/common.groovy#L189) in the `build` function in `jenkins/common.groovy` will have to include the `--use-cms-export` flag.
+In order for the content-only auto-deploy to use the CMS export data, the [build command](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/common.groovy#L189) in the `build` function in `jenkins/common.groovy` will have to include the `--use-cms-export` flag.
 
-Keep in mind that this content-only deploy will build using the latest release instead of the latest commit of of `vets-website`. This matches the behavior of the current content-only deploy. The daily production deploy will continue deploying from the latest commit and retain the responsibility of tagging releases.
+As it's a content-only deploy, it will build using the latest release instead of the latest commit of of `vets-website`.
+- This matches the behavior of the current content-only deploy.
+- The daily production deploy will continue deploying from the latest commit and retain the responsibility of tagging releases.
 
 If this work is done before the full build has transitioned to using the CMS export, the inclusion of the flag will be contingent on the `contentOnly` parameter to the function.
 
 #### Validating the build
 
-The implementation of the full build pipeline may introduce new stages or common helper functions that the auto-deploy pipeline can incorporate. Specifically, the full build pipeline will compare the diffs between GraphQL and CMS export builds. That validation should be done in this pipeline as well while this process is being rolled out.
+The implementation of the full CMS export build pipeline is expected to introduce a step that compares the diffs between GraphQL and CMS export builds.
+- That validation should be included in this pipeline as well while it's being rolled out.
+- The comparison step will be removed once the CMS export build is fully released.
 
 #### Deploying the build
 
-The pipeline will archive the CMS export build in S3 at a different key than the current GraphQL builds. It should match the location where the full build archives the CMS export builds.
+The pipeline will archive the CMS export build in S3 at a different key than the current GraphQL builds.
 
 For example, it might be `s3://vetsgov-website-builds-s3-upload/cms-export/${ref}/${envName}.tar.bz2`, where `ref` is the commit hash and `envName` is the environment (one of `vagovdev`, `vagovstaging`, or `vagovprod`).
 
@@ -134,17 +154,23 @@ Then on subsequent deploys, the tarball downloaded from Drupal will be compared 
 
 For convenience, we could also upload the checksum to `s3://vetsgov-website-builds-s3-upload/cms-export/data/checksum.txt`. With that, the pipeline would not have to download the full tarball for the comparison.
 
+To help content editors know when the content has been last updated, we might want to timestamp when a new tarball is used and include that info in the generated `BUILD.txt`.
+
 ### Code Location
 
-The pipeline will be defined in `Jenkinsfile.autodeploy`. The [helper functions](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/common.groovy) that it uses are in `jenkins/common.groovy`.
+The configuration for the content-only autodeploy will be in the `devops` repo.
+- The job and its cron trigger will be configured as a [seed job](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/jenkins-vetsgov/seed_job.groovy).
+- The Jenkinsfile for the job will be in `ansible/Jenkinsfiles/deploys/content-only-autodeploy`.
 
-There may be auxiliary configurations required in the `devops` [repo](https://github.com/department-of-veterans-affairs/devops), likely in the `ansible` directory.
+Modifications to the build and deploy process itself will be made in the `vets-website` repo.
+- The [helper functions](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/common.groovy) used in the build are in `jenkins/common.groovy`.
+- Anything specific to the [content-only build pipeline](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile.content) will be in `Jenkinsfile.content`.
 
 ### Testing Plan
 
 The following behaviors should be observed cumulatively as they are implemented.
-1. Build is stored at the proper location in S3 when the pipeline is invoked.
-2. Pipeline runs on the defined schedule.
+1. Build is stored at the proper location in S3 when the job runs.
+2. Job runs on the defined schedule.
 3. Deploy doesn't proceed when no new content has been published.
 
 ### Logging
@@ -177,17 +203,26 @@ There are no new privacy concerns with the auto-deploy as user data is not invol
 
 #### Questions
 
-- What is the ideal schedule for the auto-deploy?
+- What is the ideal schedule for the content-only auto-deploy?
   - The pipeline will initially run hourly 8am-8pm ET on weekdays.
+  - The timeframe aligns with CMS support hours.
   - We want the highest rate of deploy that the system can sustain.
 
-- How should we coordinate the schedule of the auto-deploy with the daily production deploy?
+- How should we coordinate the schedule of the content-only auto-deploy with the daily production deploy?
   - The deploys from both pipelines will likely overlap.
   - The daily production deploy is still necessary for tagging the release.
   - [The queue of content-only deploys should naturally resolve conflicts without any special handling.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18393)
 
 - Is there a way to get the time of the last updated published content in Drupal and use that to determine if we should build or not?
   - If we have access to that information, we may not need to compare the CMS export tarballs.
+
+- Will this new auto-deploy continue fail on broken links?
+  - With a high enough rate of deploy, failing on broken links would not be ideal.
+  - If we maintain the same error alerting, broken links could spam notifications while being investigated.
+  - There has been a [proposed plan](https://github.com/department-of-veterans-affairs/va.gov-team/pull/14092) to ignore these errors and upload the CSV of broken links on deploys.
+  - For the initial hourly schedule, it may not be necessary to implement the changes for the proposed broken link improvements.
+    - An hourly deploy should not generate too many notifications from failures.
+    - As we increase the frequency of deploys, we might then want to dedicate some time to modifying the broken link behavior in a parallel effort.
 
 #### Risks
 
@@ -209,12 +244,17 @@ Ideally, content would get deployed immediately as content writers make changes.
 ### Future Work
 
 - There are plans to transition from Jenkins to CircleCI for our build pipeline. The auto-deploy job will have to be brought over to CircleCI at that time.
+  - The `vets-website` CircleCI infrastructure is hosted on a public domain.
+  - CircleCI does not have access to the CMS Drupal server, which is hosted within the internal VA network.
+  - To circumvent the need for access to the VA network, we could run a job that keeps an up-to-date cache of the CMS export data.
+  - We might consider running that job as a Lambda function or a CodeBuild pipeline.
 - To improve the runtime, we might want to explore incremental deploys.
 
 ### Revision History
 
 | Date         | Revisions Made | Author          |
 | ------------ | -------------- | --------------- |
+| Jan 26, 2021 | <ul><li>Made nuanced corrections about the implementation and clarified related sections and terminology.</li><li>Elaborated on validation error handling, including a new question about broken links.</li><li>Added details abouut future plans to move to CircleCI.</li></ul> | Eugene Doan |
 | Jan 21, 2021 | Cleaned up Background. Added info to Alternatives. | Eugene Doan |
 | Jan 20, 2021 | Completed first draft | Eugene Doan |
 | Dec 10, 2020 | Initial draft  | Jhonny Gonzalez |
