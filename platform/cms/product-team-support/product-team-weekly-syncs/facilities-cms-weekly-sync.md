@@ -15,7 +15,22 @@
 <details><summary>Parking lot</summary>
 
 </details>
-  
+
+## January 29 2021 
+
+### Vet Centers
+
+* ?
+
+### Content model refactoring documentation
+
+* Review documentation
+
+### Menu governance 
+
+* Review opportunities for hardening. 
+
+
 ## January 22 2021
 
 ### Vet Centers
