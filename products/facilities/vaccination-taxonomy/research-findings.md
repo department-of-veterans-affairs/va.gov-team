@@ -77,9 +77,9 @@ Other participants who associated COVID-19 as a unique event created an entirely
 
 > Primary Care, to me it makes sense because you go to them prior to specialty clinics. If I am up for shots I call them and then I go in to get it done. 
 
-> Normally because I use primary care they keep up on the vaccines you need on your chart and know if you are due for one.
+> Normally I use primary care they keep up on the vaccines you need on your chart and know if you are due for one.
 
-For an injury-related need for a Tetanus shot, most Veterans would look under Urgent Care, and if the injury were more serious, Emergency Care.
+For an injury-related need that might require a Tetanus shot, most Veterans would look under Urgent Care. If the injury were more serious, they expect to see information under Emergency Care.
 
 #### 3. Veterans often use the most common layman's terms when searching for vaccine-related information.
 Veterans all connected and expected to use terms such as vaccine, vaccination and shot, and expected those terms to be seen on VA.gov.
@@ -88,9 +88,10 @@ Most Veterans found terms such as Flu and Influenza to be interchangeable.
 
 Most Veterans expected to use and find COVID, or COVID-19 as search terms, but not Coronavirus.
 
-#### 4. The types of vaccinations (age-based, risk based, seasonal, and COVID-19) impacts Veterans' expectations as to where to find vaccine-related information.
-> ...
+#### 4. The types of vaccinations impact Veterans' expectations as to where to find vaccine-related information.
+Many Veterans associate certain age-based vaccines, such as Shingles, risk-based vaccines, such as Pneumococcal, and seasonal vaccines, such as Influenza to be part of their primary care. 
 
+Veterans expect to find COVID-19 vaccine-related information outside of primary care information.
 
 ## Additional Insights 
 
@@ -104,8 +105,10 @@ Most Veterans expected to use and find COVID, or COVID-19 as search terms, but n
 __COVID-19 Vaccine Information__
 * Add a dedicated, easy-to-spot content section for COVID-19 vaccine information on Health Services pages. This will help Veterans locate the information, regardless of which category they anticipate would contain COVID-19 vaccine information. 
 * In the COVID-19 section, provide two types of information:
-  - Information and latest updates for Veterans about how and when to sign up for a vaccine (or sign up to be notified when that information is available), what to expect, and contact information for further information. 
+  - Information and latest updates for Veterans about how and when to sign up for a vaccine (or sign up to be notified when that information is available),   what to expect, and contact information for further information. 
   - Information on the vaccines themselves, including facts about COVID-19, vaccine benefits, effectiveness and possible side effects.
+* Include vaccine-related information in the Primary Care category, but include Tetanus shot information in Urgent Care and Emergency Care for Veterans who have an injury.
+* There is the possibility that events certain vaccines, such as Influenza or Shingles, will be held outside of a primary care visit. Display information at a top level on the facility page about the event, and cross-link to the information from other categories such as Primary Care.
 
 ## Next Steps
 
