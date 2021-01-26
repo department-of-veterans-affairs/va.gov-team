@@ -147,12 +147,12 @@ At least:
 Date | Time in Eastern | Slots
 -----|-----------------------|-------
 
-Thu, Jan 28 | [PILOT] | 11-11:45a 
-Fri, Jan 29 | 8-11a | 3
-Mon, Feb 1 | 8-11a | 3
-Tue, Feb 2 | 8-11a, 1-2p | 4
-Wed, Feb 3 | 8-11a | 3
-Thu, Feb 4 | 8-11a | 3
+Thu, Jan 28 | [PILOT] | 11-11:45a |
+Fri, Jan 29 | 8-11a | 3 |
+Mon, Feb 1 | 8-11a | 3 |
+Tue, Feb 2 | 8-11a, 1-2p | 4 |
+Wed, Feb 3 | 8-11a | 3 |
+Thu, Feb 4 | 8-11a | 3 |
 
 ## Team Roles	
 
