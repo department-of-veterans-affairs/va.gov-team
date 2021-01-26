@@ -11,7 +11,7 @@
 |LOA1 user has not verified their identity and does not have anything in-progress|User is shown a prompt to verfy their identity and CTAs related to filing a claim, applying for healthcare, and applying for education benefits|**350**|
 
 
-### Test cases for "LOA3 users" 
+### Test cases for "LOA3 users" (break out by section)
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User has signed up for something|User sees relevant information/statuses for the section(s) that apply to them|**36** (enrolled in healthcare, has disablity claims)|
@@ -23,25 +23,25 @@
 |LOA3 user has logged-in for the first time after verifying their identity |User is shown CTA's related to filing a claim, applying for healthcare, and applying for education benefits "|TBD|
 
 
-### Test cases for "Disability Rating"
+### Test cases for "Disability Rating" (Done)
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User DOES have a disability rating|User will see their disability rating next to their name|38,228|
-|User DOES NOT have a disability rating|User will not see their disability rating next to their name|10,17|
+|User DOES have a disability rating|User will see their disability rating next to their name|90|
+|User DOES NOT have a disability rating|User will not see their disability rating next to their name|10|
 
 
-### Test cases for "Education Benefits"
+### Test cases for "Education Benefits"  
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User DOES have education benefits|User will NOT see the "Apply for Education Benefits" CTA |38,228|
-|User DOES NOT not have education benefits|User will see the "Apply for Education Benefits" CTA|10,17|
+|User DOES have education benefits|User will NOT see the "Apply for Education Benefits" CTA |38,228| TBD
+|User DOES NOT not have education benefits|User will see the "Apply for Education Benefits" CTA|10|
 
 ### Test cases for ["Claims and Appeals"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/claims-and-appeals-status.md)
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User DOES have a pension/disability claim|User will see claim information|TBD|
-|User has open claims or appeal in progress, but there have been no updates in more than 30 days |User sees messaging "You've had no updates to your claims in progress the past 30 days"|TBD 
-|User DOES NOT have a pension/disability claim|User will see a CTA to "File a Claim" |TBD|
+|User has open claims or appeal in progress, but there have been no updates in more than 30 days |User sees messaging "You've had no updates to your claims in progress the past 30 days"|TBD| 
+|User DOES NOT have a pension/disability claim|User will see a CTA to "File a Claim" |10|
 
 
 ### Test cases for ["Healthcare"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/health-care-section.md)
@@ -50,14 +50,14 @@
 |User DOES have secure messages|User sees latest message info ("From" "Date" "Subject")|TBD|
 |User DOES NOT have secure messages|User sees messaging stating that they do not have any messages|TBD|
 |User DOES have prescriptions managed by the VA|User sees most recent prescription update ("Medication" "Status")|TBD|
-|User DOES NOT have prescriptions|User does not see the prescription section |TBD|
+|User DOES NOT have prescriptions|User does not see the prescription section |10|
 |User DOES NOT have prescription refills but has prescriptions managed by the VA|User sees messaging "You have no prescription refills in progress"|TBD|
 |User DOES have appointments|User is shown next appointment ("Date" "Time" "Location/VA Video Connect")|judy.morrison@id.me|
 |User DOES NOT have appointments|User sees messaging stating that they do not have any appointments |judy.morrison@id.me|
 
-**Lab results:** Any user with healthcare will show the static "View your lab and test results" link
+**Lab results:** Any user with healthcare will show the static "View your lab and test results" link (**36**)
 
-**Get your VA medical records:** Any user with healthcare will show the static "Get your VA medical records" link
+**Get your VA medical records:** Any user with healthcare will show the static "Get your VA medical records" link (**36**)
 
 ### Test cases for ["Apply for Benefits"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/apply-for-benefits.md)
 |Test case|Intended outcome|Staging User|
