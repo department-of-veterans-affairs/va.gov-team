@@ -35,7 +35,7 @@
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User DOES have an **open** pension/disability claim|User will see claim information|**226**|
-|User has open claims or appeal in progress and there hase been an update in the past 30 days |User sees the claim update"|TBD| ** 
+|User has open claims or appeal in progress and there hase been an update in the past 30 days |User sees the claim update|TBD| ** 
 |User has open claims or appeal in progress, but there have been no updates in more than 30 days |User sees messaging "You've had no updates to your claims in progress the past 30 days"|TBD| 
 |User has never filed a claim and all claims are closed|User will not see the claim section at all|**10**|
 
