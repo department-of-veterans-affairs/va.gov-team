@@ -29,7 +29,7 @@
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User has started or submited an application for education benefits|User will NOT see the "Apply for Education Benefits" CTA |TBD|
-|User DOES NOT have an application for education benefits in-progress|User will see the "Apply for Education Benefits" CTA|**10**|
+|User DOES NOT have an application for education benefits in-progress|User will see the "Apply for Education Benefits" CTA|TBD|
 
 ### Test cases for ["Claims and Appeals"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/claims-and-appeals-status.md)
 |Test case|Intended outcome|Staging User|
@@ -44,7 +44,7 @@
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User IS enrolled in healthcare|User sees healthcare section, User sees "Get your VA medical records/Get your lab result" links. |**377**|
-|User IS NOT enrolled in healthcare|User does not see healthcare section. User sees a CTA to "Apply for health care"|----|
+|User IS NOT enrolled in healthcare|User does not see healthcare section. User sees a CTA to "Apply for health care"|TBD|
 |User DOES have secure messages|User sees latest message info ("From" "Date" "Subject")|**[377](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva.md)**|
 |User DOES NOT have secure messages|User sees messaging stating that they do not have any messages|**226**|
 |User DOES have prescriptions managed by the VA|User sees most recent prescription update ("Medication" "Status")|**[377](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva.md)**|
@@ -67,7 +67,7 @@
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 User already is enrolled in health care|User does NOT see "Apply for healthcare" CTA|**38**|
-User already is NOT enrolled in health care|User sees "Apply for healthcare" CTA|----|
+User already is NOT enrolled in health care|User sees "Apply for healthcare" CTA|TBD|
 User HAS filed a claim|User does NOT see "File a claim" CTA|**226**|
 User HAS NOT filed a claim|User sees "File a claim" CTA|**10**|
 
