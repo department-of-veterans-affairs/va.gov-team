@@ -42,7 +42,7 @@
 ### Test cases for ["Claims and Appeals"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/claims-and-appeals-status.md)
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User DOES have a pension/disability claim|User will see claim information|**226** (double check)|
+|User DOES have a pension/disability claim|User will see claim information|**226**|
 |User has open claims or appeal in progress, but there have been no updates in more than 30 days |User sees messaging "You've had no updates to your claims in progress the past 30 days"|TBD| 
 |User DOES NOT have a pension/disability claim|User will see a CTA to "File a Claim" |**10**|
 
