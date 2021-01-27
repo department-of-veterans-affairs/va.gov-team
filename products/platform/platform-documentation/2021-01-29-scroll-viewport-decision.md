@@ -1,4 +1,4 @@
-# SHould we use Scroll Viewport for Platform Documentation?
+# Should we use Scroll Viewport for Platform Documentation?
 
 This doc provides context to make a decision around 
 
