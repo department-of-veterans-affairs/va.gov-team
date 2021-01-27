@@ -36,15 +36,34 @@ Results of Pittsburgh spelunking.
 #### Content model refactoring 
 
 * [Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-team-support/content-model-changes.md) not ready yet, but CMS team will demo something on Friday and share it out, and will ask for feedback in your next sprint. 
+
 * Facility health service cutover
+  * What's remaining? When? What support is needed from CMS? 
+  * For appointments intro text, Erie and Pittsburgh are being done by Dave/VAMC, and VAMC will clean up others as part of launch. 
+  * Dave will remove second service locations from University Drive health services 
+  * Move some blobby content from Pittsburgh (Dave)
+  * Phone number issue in flight (Gibran), no questions
+  * Once that is done, we can turn off blobby content in editing page, and remove staging only link, and make sure that blobby content can still be read somewhere--Tugboat environment, proofing page, disabled on editing page. **Kev will write issue**. 
+  * Pittsburgh editors (Ryan and Shelley) will review training for health services. They may have help desk questions. 
+  * **Kev and Michelle to review for anything missing** 
+  * FE issues to remove blobby GraphQL/Transformer / liquid template code
+  * CMS to remove blobby field and data altogether. 
+
 * Policies page [#3684](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3684)
-  * Basically ready for FE development, but we should arrange a spike for how FE might think about "Centralized content" more broadly. 
+  * Basically "ready" for FE development, but we should arrange a spike for how FE might think about "Centralized content" more broadly. 
+  * Policies currently uses Detail page. New content type "VAMC Policies" with new fields. 
+    * "Entity field fetch" is new for transformers and graphql. 
+    * **Kev to write an issue for Steve to document content model for FE devs**
+  * Policies pages will be swapped out (old to new) on a VAMC system by system basis ("manually").  
+
 * VHA health service type of care [#1981](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1981)
   * VHA health service “type of care"
+  * **Kev will create an issue to change label to "Type of care (VAMC)" and add a new field "Type of care (Vet Center)" 
   * Type of care is currently both a parent and an attribute, the FE uses the parent
   * System health services could be refactored now to group by attribute not parent.
   * FE could just ignore the 5 terms that don’t have Type of care values (which are the parents)
-  * Then CMS can safely delete Parent terms. https://prod.cms.va.gov/vha-health-services 
+  * Then CMS can safely delete Parent terms. https://prod.cms.va.gov/vha-health-services
+  * This FE work can wait until Vet Centers get built, CMS team will continue to support both structures
 
 #### IA governance
 
