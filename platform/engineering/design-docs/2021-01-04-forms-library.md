@@ -151,6 +151,12 @@ This will be up to the implementation of each form input field to manage.
 can't think of anything that isn't unnecessarily heavy.
 
 #### Sub-module: Save-in-progress
+Things to mention:
+- How it'll jack into the state manager's state
+  - Loading a form—how?
+- How it'll handle data migrations
+  - Because the fundamental problem of changing a form after the data has been
+    saved is still there
 
 #### Helper: Review page
 This will be an optional page included in the `Router`'s `pageList` if desired.
