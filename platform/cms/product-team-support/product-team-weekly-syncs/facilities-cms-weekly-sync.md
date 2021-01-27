@@ -23,15 +23,13 @@
 - CMS team will be scheduling a demo environment training the second week of February.
 - Who's interested in attending? We can't guarantee a time that will fit for everyone, but we'll do our best, and a recording will be made available. 
 
-
-
 ### VAMC System
 
 * Pittsburgh spelunking
 
 #### Content model refactoring 
 
-* [Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-team-support/content-model-changes.md) not ready yet, but we'll demo something on Friday and share it out. 
+* [Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-team-support/content-model-changes.md) not ready yet, but CMS team will demo something on Friday and share it out, and will ask for feedback in your next sprint. 
 * Facility health service cutover
 * Policies page [#3684](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3684)
   * Basically ready for FE development, but we should arrange a spike for how FE might think about "Centralized content" more broadly. 
