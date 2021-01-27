@@ -92,7 +92,7 @@ Next, the Design System team will reach out to a VFS team that we believe will g
 
 When we have finished helping the team transition all of their code to use the new Component, we will announce this publicly in Slack, and move on to help a new team with the migration, repeating the steps. After the new Web Component has replaced all instances of its React/`formation`/liquid conterparts, the React component will be removed from `component-library` and a new version will be published. The associated styles will also be removed from `formation` if we are certain that this will not affect other styles on va.gov.
 
-Additionally, the Storybook stories for the React component will be replaced by a simple document that points the user to a different Storybook host that is exclusively for Web Components.
+Additionally, the Storybook stories for the React component will be replaced by a simple document that points the user to a different Storybook host that is exclusively for Web Components. See [Chromatic hosting](#chromatic-hosting) for possible future work to improve on this.
 
 This process will repeat for each Component that has React/`formation`/liquid counterparts to replace.
 
@@ -208,6 +208,10 @@ We could further investigate the possibility of importing component stylesheets 
 The library could be extended to include Components focused on overall site layout in addition to the more granular Components. This could allow us to use Web Components as a replacement for the Liquid templates in `vets-website`. The content build could then be modified to include these templates. Stencil provides [additional tooling for static site generation](https://stenciljs.com/docs/static-site-generation) which may be helpful with this as well.
 
 This is only an _option_, not something that is definitely planned.
+
+#### Chromatic hosting
+
+Storybook [allows for composition](https://storybook.js.org/docs/react/workflows/storybook-composition), meaning that a single Storybook instance can host stories from other Storybook instances. This currently faces some limitations regarding add-on functionality, so it isn't clear if it would be a good fit for us. There are [additional technical requirements](https://storybook.js.org/docs/react/workflows/package-composition#chp-level-1) that must be met in order to enable this kind of composition, and this would require VA approval in order to even begin experimenting. However, there would be additional benefits from using a service like [Chromatic](https://www.chromatic.com/), such as hosted Storybook instances as part of the PR review process.
 
 ### Revision History
 
