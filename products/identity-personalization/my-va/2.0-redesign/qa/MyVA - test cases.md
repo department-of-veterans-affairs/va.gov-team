@@ -12,7 +12,7 @@
 |LOA1 user has not verified their identity and does not have anything in-progress|User is shown a prompt to verfy their identity and CTAs related to filing a claim, applying for healthcare, and applying for education benefits|**350**|
 
 
-### Test cases for "LOA3 users" (break out by section)
+### Test cases for "LOA3 users"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User has signed up for something|User sees relevant information/statuses for the section(s) that apply to them|**36** (enrolled in healthcare, has disablity claims)|
