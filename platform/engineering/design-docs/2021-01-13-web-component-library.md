@@ -41,7 +41,7 @@ The Web Component library will live in its own repo and will be added to `vets-w
 
 ### Detailed Design
 
-#### Migration to Web Components
+#### Web Component development
 
 In the `component-library` repo, we will start a fresh orphan branch in a clean directory for the Web Component version of the library to live. When we reach a point where the React version of the library is no longer in use (since it has been replaced with Web Components), we will rebase the orphan Web Component branch off of `master` (in order to cleanly preserve the history) and that will become the new default branch going forward.
 
@@ -50,16 +50,6 @@ Until we reach that point, the WC branch will be developed in the `component-lib
 > `yarn add <git remote url>#<branch/commit/tag>` installs a package from a remote git repository at specific git branch, git commit or git tag.
 
 We will use a [Github Release](https://github.com/department-of-veterans-affairs/component-library/releases/new) to create a new tag for the branch we want. The tags will follow [semantic versioning](https://semver.org/), and will be created after enough new development has landed in the branch (i.e. A new component, bugfix, etc. Documentation typo fixes won't get a release). A tag will have the pattern `wc-vX.Y.Z`, where `X`, `Y`, and `Z` represent major, minor, and patch versions respectively.
-
-Once a new release is made for the Web Component library, we will [configure a linting rule](https://github.com/AlexMost/eslint-plugin-deprecate/blob/master/docs/rules/import.md) as part of the `lint:js:changed` script in `vets-website` to throw an error if a React component is imported that has a released Web Component replacement. This will prevent the older React component from appearing in more places as we are actively making efforts to remove it.
-
-Next, the Design System team will reach out to a VFS team that we believe will get the gratest value by adopting the Component. We will briefly describe the new Component and how it can be used in place of the older components currently used in their codebase, and we will offer to set up a meeting to synchronously go over the Component and begin the migration. The focus will be on making the migration as smooth as possible for the team as well as bringing awareness to the new Component.
-
-When we have finished helping the team transition all of their code to use the new Component, we will announce this publicly in Slack, and move on to help a new team with the migration, repeating the steps. After the new Web Component has replaced all instances of its React/`formation`/liquid conterparts, the React component will be removed from `component-library` and a new version will be published. The associated styles will also be removed from `formation` if we are certain that this will not affect other styles on va.gov.
-
-Additionally, the Storybook stories for the React component will be replaced by a simple document that points the user to a different Storybook host that is exclusively for Web Components.
-
-This process will repeat for each Component that has React/`formation`/liquid counterparts to replace.
 
 #### Tooling
 
@@ -93,6 +83,18 @@ For further optimization, the Components will be lazy-loaded. Even if our Web Co
 [Stencil has a useful article that talks about their lazy loading approach](https://stenciljs.com/blog/how-lazy-loading-web-components-work).
 
 > It doesn’t matter how the element came to be rendered in the DOM, either way, Stencil knows how to lazy-load itself using web-standards and native browser APIs. And by deferring most of the logic to the browser, rather than generating more JavaScript runtime, the components themselves have an optimal file size.
+
+#### Migration to Web Components
+
+Once a new release is made for the Web Component library, we will [configure a linting rule](https://github.com/AlexMost/eslint-plugin-deprecate/blob/master/docs/rules/import.md) as part of the `lint:js:changed` script in `vets-website` to throw an error if a React component is imported that has a released Web Component replacement. This will prevent the older React component from appearing in more places as we are actively making efforts to remove it.
+
+Next, the Design System team will reach out to a VFS team that we believe will get the gratest value by adopting the Component. We will briefly describe the new Component and how it can be used in place of the older components currently used in their codebase, and we will offer to set up a meeting to synchronously go over the Component and begin the migration. The focus will be on making the migration as smooth as possible for the team as well as bringing awareness to the new Component.
+
+When we have finished helping the team transition all of their code to use the new Component, we will announce this publicly in Slack, and move on to help a new team with the migration, repeating the steps. After the new Web Component has replaced all instances of its React/`formation`/liquid conterparts, the React component will be removed from `component-library` and a new version will be published. The associated styles will also be removed from `formation` if we are certain that this will not affect other styles on va.gov.
+
+Additionally, the Storybook stories for the React component will be replaced by a simple document that points the user to a different Storybook host that is exclusively for Web Components.
+
+This process will repeat for each Component that has React/`formation`/liquid counterparts to replace.
 
 ### Code Location
 
