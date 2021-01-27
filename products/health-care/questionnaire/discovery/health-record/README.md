@@ -14,7 +14,7 @@
   - self-entered data
   - medication instructions
   - facility details (locations and phone number)
-  - start/stop dates (Amanda brought up the idea of a timeline)
+  - start/stop dates (could it be shown as a timeline)
   - side effects
   - warnings
   - drug interactions
@@ -26,7 +26,7 @@
   - doctor/ specialist who prescribed each medication
   - refill information (status, number remaining and refillable date)
   - medication type (such as VA prescription)
-  - What diagnosis is this addressing or helping with? Why am I taking this? Review by condition? (Idea from Amanda)
+  - What diagnosis is this addressing or helping with? Why am I taking this? Review by condition?
 - All the ways that a Veteran can [refill their prescription as of 8/9/2017](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/vets-prescriptions/research/ways-to-refill-rx-at-va.md). 
    - This might help us think through all the medication touchpoints that currently exist and see if there is any impact on our feature. Will need updated.
   - They were envisioning pictures of medications.
