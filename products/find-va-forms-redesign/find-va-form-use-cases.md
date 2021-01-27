@@ -10,7 +10,7 @@
 * **Link to designs:** 
   - PDF prototype: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/design/VA-Form-search-landing-results.pdf 
 
-* **Instructions to access in Staging
+* **Instructions to access in Staging**
   - https://staging.va.gov/find-forms/
   - Unauth; no login credentials needed.
 
