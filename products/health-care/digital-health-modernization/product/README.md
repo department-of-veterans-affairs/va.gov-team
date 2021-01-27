@@ -26,8 +26,8 @@ Subject to iteration based on learning. Each step assumes the previous step went
 ### Comparison Placeholder
 This section needs a matrix comparing strategies and seeing where they do or not not intersect with constraints. Prototype below. 
 
-| - | - | - | - | - | - | - |
 | Strategy | Constraint 1 | C2 | C3 | C4 | C5 | C6 | 
+| -- | -- | -- | -- | -- | -- | -- |
 | A | + | + | - | - | + | + |
 | B | - | + | - | + | + | - |
 
