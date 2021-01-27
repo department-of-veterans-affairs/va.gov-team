@@ -2,7 +2,8 @@
 
 ## Applies to Medications, Allergies, and Immunizations
 - What currently is available in Lighthouse?
-- Are we missing any past user research?
+- Are we missing any past user research that we should review?
+  - I found research on Medications.
 - Can we get any updates on the analytics on these current features from MyHealtheVet?
 
 ## Medications
