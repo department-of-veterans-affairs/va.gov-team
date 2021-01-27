@@ -53,9 +53,7 @@
 |User DOES have appointments|User is shown next appointment ("Date" "Time" "Location/VA Video Connect")|judy.morrison@id.me|
 |User DOES NOT have appointments|User sees messaging stating that they do not have any appointments |**226**|
 
-**Lab results:** Any user with healthcare will show the static "View your lab and test results" link (**36**)
-
-**Get your VA medical records:** Any user with healthcare will show the static "Get your VA medical records" link (**36**)
+**View your VA medical records and lab test results":** Any user with healthcare will show the static "View your VA medical records and lab test results" link (**36**)
 
 ### Test cases for ["Apply for Benefits"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/apply-for-benefits.md)
 #### "Applications in progress"
