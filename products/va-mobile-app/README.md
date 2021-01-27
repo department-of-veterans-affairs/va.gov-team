@@ -7,7 +7,7 @@ On VA.gov today, nearly 40% of all traffic comes from users on their mobile devi
 - Martha Wilkes - Designer
 - Ryan Thurlwell - Creative Director
 - Steve Kovacs - Product Owner
-- Sophie Myers - Product Lead
+- Ayush Chakravarty - Product Lead
 - Bridget Hapner - UX Lead
 - Jonathan Julian - Engineering Lead
 - Alastair Dawson - API Lead
