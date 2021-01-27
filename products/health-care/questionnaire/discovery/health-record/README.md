@@ -1,12 +1,23 @@
 # Questions we have
+
+## Applies to Medications, Allergies, and Immunizations
+- What currently is available in Lighthouse?
+- Are we missing any past user research?
+- Can we get any updates on the analytics on these current features from MyHealtheVet?
+
+## Medications
 - Are we connecting to sure scripts list (BPMH) or just VA med list?
   - In EHR, name, dose and timing are separate items, in sure scripts it is one piece of data
 - If we don’t have renewing medications in a questionnaire, how do we stop Veterans from asking about that?
-- What currently is available in Lighthouse?
-- Are we missing any past user research?
 - What if we think of this as something has changed and not just a meds list?
 - What special can we do, since this is a payer/provider system?
-- Can we get any updates on the analytics on these current features from MyHealtheVet?
+
+## Allergies
+- What does the VA want to do about educational information? still link to Medline Plus? Do they have APIs, so we could link each allergy directly to the Medline Plus page on that particular allergy?
+
+## Immunizations
+- Does the VA want to do anything special for COVID? If people are entering COVID information, do they want anything special?
+
 # Knowns
 ## Medications
 - [Past Rx Refill research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills/vets-prescriptions)
