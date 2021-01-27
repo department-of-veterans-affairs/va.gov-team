@@ -5,7 +5,7 @@
 
 ---
 
-Screens proofed in staging.VA.gov the week of July 6, 2020. Reference mockups are available [here.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design)
+Screens proofed in staging.VA.gov the week of January 25, 2021. Reference mockups are available [here.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design)
 
 ### Pre-launch mandatory content revisions
 - [x] Change header (H1) across all screens to be: "Add or remove a dependent on your VA disability benefits" 
