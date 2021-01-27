@@ -6,7 +6,7 @@
 * [The CMS Notifications Center](./cms-notifications-center)
 * [The CMS Orientation for VFS Teams](./cms-orientation-for-vfs-teams)
 * [Editorial Workflow Assignments and Notifications](./editorial-workflow-assignments-and-notifications)
-* [Enterprise Asset Management System](./enterprise-asses-management-system)
+* [Enterprise Asset Management System](./enterprise-asset-management-system)
 * [Full Site Preview](./full-site-preview)
 * [Hyperlinks Management](./hyperlinks-management)
 * [Libraries of Reusable Content](./libraries-of-reusable-content)
