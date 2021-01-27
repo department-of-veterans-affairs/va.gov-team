@@ -35,7 +35,7 @@
   - [What is a "custom report" in Google Analytics?](#what-is-a-custom-report-in-google-analytics)
   - [Why aren't my user totals adding up?](#why-arent-my-user-totals-adding-up)
   - [When should I use pageviews vs sessions vs users?](#when-should-i-use-pageviews-vs-sessions-vs-users)
-  - [How can I have more than zero total events, but zero unique events?](#how-can-have-more-than-zero-total-events-but-zero-unique-events)
+  - [How can I have more than zero total events, but zero unique events?](#how-can-i-have-more-than-zero-total-events-but-zero-unique-events)
 
 ## VA.gov-Specific Questions
   - [When should I use pageviews vs sessions vs users?](#when-should-i-use-pageviews-vs-sessions-vs-users)
