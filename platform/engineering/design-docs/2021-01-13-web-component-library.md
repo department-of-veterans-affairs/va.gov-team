@@ -69,7 +69,7 @@ With Stencil, the source for each Component and any helper functions will be wri
 
 React has some problems with Web Components [in certain situations](https://custom-elements-everywhere.com/#react) which are avoidable. However, Stencil makes it _even easier_ to avoid these problems. From Stencil's [FAQ](https://stenciljs.com/docs/faq):
 
-    > One misconception that falsely claims only strings can be passed to custom elements comes from React’s version of VDom. Out of the box, React can only pass strings and numbers to components and it cannot listen to custom events. With Stencil, the components appear as though they are React components and all properties get passed correctly including functions, objects, and arrays. The bindings also account for custom events by creating a prop called “on”. These allow React developers to interact with the Web Components as though they are React components.
+  > One misconception that falsely claims only strings can be passed to custom elements comes from React’s version of VDom. Out of the box, React can only pass strings and numbers to components and it cannot listen to custom events. With Stencil, the components appear as though they are React components and all properties get passed correctly including functions, objects, and arrays. The bindings also account for custom events by creating a prop called “on”. These allow React developers to interact with the Web Components as though they are React components.
 
 #### Styling
 
