@@ -16,6 +16,10 @@
 
 </details>
 
+## February 12 
+
+Results of Pittsburgh spelunking.
+
 ## January 27 2021 
 
 ### Upcoming demo environment traings (moving from Devshop to Tugboat)
@@ -26,6 +30,8 @@
 ### VAMC System
 
 * Pittsburgh spelunking
+  * VAMC upgrade team is reviewing Pittsburgh for content changes (IA and otherwise) and will report back after this sprint. 
+  * Eg Surgery health service, which got added, explaining the elective surgery process, so that Veterans can understand what they are getting to.
 
 #### Content model refactoring 
 
