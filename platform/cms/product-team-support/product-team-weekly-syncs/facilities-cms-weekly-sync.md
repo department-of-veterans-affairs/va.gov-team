@@ -31,11 +31,11 @@
 * Policies page [#3684](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3684)
   * Ready for FE development
 * VHA health service type of care [#1981](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1981)
- * VHA health service “type of care"
- * Type of care is currently both a parent and an attribute, the FE uses the parent
- * System health services could be refactored now to group by attribute not parent.
- * FE could just ignore the 5 terms that don’t have Type of care values (which are the parents)
- * Then CMS can safely delete Parent terms. https://prod.cms.va.gov/vha-health-services 
+  * VHA health service “type of care"
+  * Type of care is currently both a parent and an attribute, the FE uses the parent
+  * System health services could be refactored now to group by attribute not parent.
+  * FE could just ignore the 5 terms that don’t have Type of care values (which are the parents)
+  * Then CMS can safely delete Parent terms. https://prod.cms.va.gov/vha-health-services 
 * Review [documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-team-support/content-model-changes.md) (probably won't be ready for review January 27, may need to bump this to first week of February)
 
 #### Content governance in CMS
