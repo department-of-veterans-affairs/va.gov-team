@@ -12,6 +12,7 @@
 
 * **Instructions to access in Staging
   - https://staging.va.gov/find-forms/
+  - Unauth; no login credentials needed.
 
 * **Link to TestRail Test Case**
   - https://dsvavsp.testrail.io/index.php?/cases/view/3953
