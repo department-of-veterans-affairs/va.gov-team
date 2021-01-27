@@ -124,6 +124,7 @@ This is the same page as before, but with an alternate feedback button design.
 - Would you describe this button as better or worse than the previous buttons?
 
 **Comparitive Ranking**
+
 *If Desktop (Rotate between versions, note taker log version tested with):*
 - Send the link to the [Button Design Comparison V1](https://www.figma.com/proto/VbrVZD0iBwXNhJCUhf7d4n/Button-Comparison?node-id=1%3A2&viewport=517%2C430%2C1&scaling=min-zoom&hotspot-hints=0&hide-ui=1)
 - Send the link to the [Button Design Comparison V2](https://www.figma.com/proto/6zdWWznaPq6NcU6miKHU3g/Button-Comparison-Desktop-V2?node-id=1%3A2&viewport=705%2C502%2C1&scaling=scale-down-width&hotspot-hints=0&hide-ui=1)
