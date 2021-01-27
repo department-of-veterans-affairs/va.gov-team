@@ -152,10 +152,10 @@ Please submit a request for the Product Success tool [here](https://github.com/d
 ### What time frame is data from the Benefit Hubs and Products content groupings available? 
 Content groupings can only be used once they are created. They cannot be retroactively applied to look at historical data. The conent groupings are only available in Google Analytics from July 20th (Benefit Hubs content grouping) and July 30th (Products content grouping).
 
-## Why is the data for the Benefit Hubs content grouping different than the data in the Products content grouping?
+### Why is the data for the Benefit Hubs content grouping different than the data in the Products content grouping?
 The two content groupings were built using different rules for grouping the content. The Benefit Hubs content grouping groups data into buckets based on the domain of each Benefit Hub and the Products content grouping groups data into buckets based on the products in the Benefit Hubs. 
 
-## How can I have more than zero total events, but zero unique events? 
+### How can I have more than zero total events, but zero unique events? 
 To understand this in detail - we must first understand unique events are counted only in seperate sessions (site visits), while total events are counted each time the event occurs. More specifically, Unique Events counts the number of events with _distinct event attributes (event category, action, label)_ that occur within a single user session. 
 This means GA will increment the count of Unique Events by 1 for each unique combination of event category/action/label collected _the very first time we see them within a session_, and ignore future events with the same category/action/label when computing unique event counts. Total Events will count each event regardless of the uniqueness of the category/action/labels therein. In google's terms, this is designed to make the analysis of specific unique events to be straight forward. 
 
