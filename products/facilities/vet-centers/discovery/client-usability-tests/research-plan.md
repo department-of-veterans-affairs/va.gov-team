@@ -147,8 +147,8 @@ At least:
 Date | Time in Eastern | Slots
 -----|-----------------------|-------
 Fri, Jan 29 | [PILOT] | 2-3p 
-Mon, Feb 1 | 9-11a | 2 
-Tue, Feb 2 | 8-11a, 1-2p | 4 
+Mon, Feb 1 | 8-10a | 2 
+Tue, Feb 2 | 8-11a | 3 
 Wed, Feb 3 | 8-11a, 12-2p | 5 
 Thu, Feb 4 | 8-11a | 3 
 Fri, Feb 5 | 8-11a | 3 
