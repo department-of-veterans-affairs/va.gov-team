@@ -25,7 +25,7 @@ Before we start, a few things I want to mention:
 
 ## Set Up - 5 minutes
 
-In order to get the most out of this session, I would like to be able to see your screen. What device do you feel best using today; laptop/desktop, tablet, mobile device?
+In order to get the most out of this session, I would like to be able to see your screen. What device would like to use today; laptop/desktop, tablet, mobile device?
 
 **If desktop participant**
 
@@ -93,7 +93,7 @@ I’m going to send a link to a specific page in the chat.
 
 *If mobile:*
 
-- Send the link to the [Find VA Locations Figma Mobile Prototype](https://www.figma.com/proto/lsPZXCv84TS5EwTjXobeHS/Medallia-Desktop?node-id=1%3A3&viewport=204%2C772%2C0.25&scaling=min-zoom&hotspot-hints=0&hide-ui=1) in the chat.
+- Send the link to the [Find VA Locations Figma Mobile Prototype](https://www.figma.com/proto/KufrI4EbR1Y0it1xTgJaXj/Medallia-Mobile?node-id=1%3A2&viewport=1039%2C676%2C1&scaling=scale-down-width&hotspot-hints=0&hide-ui=1) in the chat.
 
 **Task: You would like to submit feedback on this Find VA Locations page on the VA.gov website. What would be your process for submitting that feedback?**
 
@@ -122,7 +122,6 @@ As you’re performing this task, please talk us through your thoughts as you in
 This is the same page as before, but with an alternate feedback button design.
 - Can you describe for me the differences between this button and the previous button?
 - Would you describe this button as better or worse than the previous button?
-- On a scale of 1-5 where 1 is worst and 5 is best, please rate this button design.
 
 **Medallia "Vanilla" Button**
 *Send the link to the [Find VA Locations (Staging)](https://staging.va.gov/find-locations/) page*
@@ -130,12 +129,18 @@ This is the same page as before, but with an alternate feedback button design.
 This is the same page as before, but with an alternate feedback button design.
 - Can you describe for me the differences between this button and the previous buttons?
 - Would you describe this button as better or worse than the previous buttons?
-- On a scale of 1-5 where 1 is worst and 5 is best, please rate this button design.
 
 **Comparitive Ranking**
-*Send the link to the [Button Design Comparison](https://www.figma.com/proto/VbrVZD0iBwXNhJCUhf7d4n/Button-Comparison?node-id=1%3A2&viewport=517%2C430%2C1&scaling=min-zoom&hotspot-hints=0&hide-ui=1)*
+*If Desktop (Rotate between versions, note taker log version tested with):*
+- Send the link to the [Button Design Comparison V1](https://www.figma.com/proto/VbrVZD0iBwXNhJCUhf7d4n/Button-Comparison?node-id=1%3A2&viewport=517%2C430%2C1&scaling=min-zoom&hotspot-hints=0&hide-ui=1)
+- Send the link to the [Button Design Comparison V2](https://www.figma.com/proto/6zdWWznaPq6NcU6miKHU3g/Button-Comparison-Desktop-V2?node-id=1%3A2&viewport=705%2C502%2C1&scaling=scale-down-width&hotspot-hints=0&hide-ui=1)
 
-- Can you rank these buttons in order from best design to worst design, with 1 being the best and 3 being the worst?
+- Can you rank these buttons in order from best design to worst design?
+
+*If Mobile:*
+- Send the link to the [Button Design Comparison - Mobile](https://www.figma.com/proto/pXaGgODyNknsvWGZz3gVVv/Untitled?node-id=2%3A4&viewport=1006%2C389%2C1&scaling=scale-down-width&hotspot-hints=0&hide-ui=1)
+
+- Can you rank these buttons in order from best design to worst design?
 
 ## Post-Task Interview - 5 minutes
 
