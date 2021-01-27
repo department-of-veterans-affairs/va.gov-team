@@ -28,7 +28,7 @@
 ### Test cases for "Education Benefits"  
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User has started or submited an application for education benefits|User will NOT see the "Apply for Education Benefits" CTA |TBD|
+|User has started or submited an application for education benefits|User will NOT see the "Apply for Education Benefits" CTA |Tze to add education benefit application to an existing user|
 |User DOES NOT have an application for education benefits in-progress|User will see the "Apply for Education Benefits" CTA|TBD|
 
 ### Test cases for ["Claims and Appeals"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/claims-and-appeals-status.md)
