@@ -24,7 +24,7 @@
 |LOA3 user has logged-in for the first time after verifying their identity |User is shown CTA's related to filing a claim, applying for healthcare, and applying for education benefits "|TBD|
 
 
-### Test cases for "Disability Rating" (Done)
+### Test cases for "Disability Rating"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User DOES have a disability rating|User will see their disability rating next to their name|**90**|
