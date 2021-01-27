@@ -63,7 +63,7 @@
 ## Immunizations
 - Current features/data displayed in MyHealtheVet (as noted by navigating across the site)
   - Immunization name
-  - date received
+  - date received (think about how to show immunizations that Veterans receive multiple times like Influenza)
   - reaction (currently checkboxes with options
   - method (injection, inhalant, by mouth)
   - other sign/symptom (currently dropdown list)
