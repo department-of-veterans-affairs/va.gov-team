@@ -24,7 +24,7 @@
   - provider
   - contact my pharmacy/provider (they planned a connect to secure messaging here)
   - doctor/ specialist who prescribed each medication
-  - refill information (status, number remaining and refillable date)
+  - refill information (status - active, expired, discontinued, number remaining and refillable date)
   - medication type (such as VA prescription)
   - What diagnosis is this addressing or helping with? Why am I taking this? Review by condition?
 - All the ways that a Veteran can [refill their prescription as of 8/9/2017](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/vets-prescriptions/research/ways-to-refill-rx-at-va.md). 
