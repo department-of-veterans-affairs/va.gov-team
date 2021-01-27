@@ -212,20 +212,38 @@ Total = 41
 - EVSS usage discovery (SPIKE)  
 
 **Using EVSS**
-- Endpoint testing, see what format data needs to be in (3)  
+- Endpoint testing, see what format data needs to be in  
 
 **Using VRE API**
-- Endpoint testing, see what format data needs to be in (3)  
-- Create a service to integrate (5)  
+- Endpoint testing, see what format data needs to be in  
+- Create a service to integrate   
 
 **Regardless of lower environment**
-- Build a serializer (5)  
-- Set up the controller (3)  
-- Set up the model (5)
-- Set up a sidekiq job  (3)
-- Set up sentry events  (5)
-- Test submission against environment (5)  
-Total = 29 - 34
+- ✔ Build a serializer 
+- ✔ Set up the controller 
+- ✔ Set up the model
+- ✔ Set up a sidekiq job 
+- Set up sentry events 
+- Test submission against environment
+
+## Sprint 40
+- Confirm 28-1900 is saving in VBMS
+- Add feature toggle to `/intro` page
+
+## Feb 8, 2021
+Request 508 Audit
+Request QA Audit
+
+## Feb 15, 2021
+- Staging and Privacy/Security
+- Contact Center Documentation
+## Feb 22, 2021 
+- UAT
+
+## March 1, 2021 
+- 100% Launch
+  
+  
   
 Product Subtotal (21)  
 FE Subtotal (128)  
