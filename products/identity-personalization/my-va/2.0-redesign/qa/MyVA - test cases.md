@@ -35,9 +35,10 @@
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User DOES have an **open** pension/disability claim|User will see claim information|**226**|
-|User has open claims or appeal in progress and there has been an update in the past 30 days |User sees the claim update|Will work with the Claims and Appeals team to get this| 
-|User has open claims or appeal in progress, but there have been no updates in more than 30 days |User sees messaging "You've had no updates to your claims in progress the past 30 days"|Will work with the Claims and Appeals team to get this|  
+|User has open claims or appeal in progress and there has been an update in the past 30 days |User sees the claim update|**Will work with the Claims and Appeals team to get this**| 
+|User has open claims or appeal in progress, but there have been no updates in more than 30 days |User sees messaging "You've had no updates to your claims in progress the past 30 days"|**Will work with the Claims and Appeals team to get this**|  
 |User has never filed a claim and all claims are closed|User will not see the claim section at all|**10**|
+|Ensure # of claims is accurate|Number of claims is correctly reflected|**226**|
 
 
 ### Test cases for ["Healthcare"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/health-care-section.md)
@@ -50,8 +51,11 @@
 |User DOES have prescriptions managed by the VA|User sees most recent prescription update ("Medication" "Status")|**[377](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva.md)**|
 |User DOES NOT have prescriptions managed by the VA|User does not see the prescription section |Need to determine if this applies to any of the healthcare users, will check MHV|
 |User DOES NOT have prescription refills but has prescriptions managed by the VA|User sees messaging "You have no prescription refills in progress"|**226**|
-|User DOES have appointments|User is shown next appointment ("Date" "Time" "Location/VA Video Connect")|judy.morrison@id.me|
+|User DOES have appointments|User is shown next appointment ("Date" "Time" "Location/VA Video Connect")|**judy.morrison@id.me**|
 |User DOES NOT have appointments|User sees messaging stating that they do not have any appointments |**226**|
+|Ensure # of new messages is accurate|Number of new messages is correctly reflected|**377**|
+|Ensure # of upcoming appointments is accurate|Number of upcoming appointments is correctly reflected|**judy.morrison@id.me**|
+|Ensure # of prescription updates is accurate|Number of prescription updates is correctly reflected|**377**|
 
 **View your VA medical records and lab test results":** Any user with healthcare will show the static "View your VA medical records and lab test results" link (**36**)
 
