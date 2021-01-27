@@ -28,28 +28,30 @@
 ### Test cases for "Education Benefits"  
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User has application for education benefits in-progress|User will NOT see the "Apply for Education Benefits" CTA |TBD|
+|User has started or submited an application for education benefits|User will NOT see the "Apply for Education Benefits" CTA |TBD|
 |User DOES NOT have an application for education benefits in-progress|User will see the "Apply for Education Benefits" CTA|**10**|
 
 ### Test cases for ["Claims and Appeals"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/claims-and-appeals-status.md)
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User DOES have an **open** pension/disability claim|User will see claim information|**226**|
+|User has open claims or appeal in progress and there hase been an update in the past 30 days |User sees the claim update"|TBD| ** 
 |User has open claims or appeal in progress, but there have been no updates in more than 30 days |User sees messaging "You've had no updates to your claims in progress the past 30 days"|TBD| 
-|User has open claims or appeal in progress and there HAS been updates in the past 30 days |User sees the claim update"|TBD| ** 
-|User has never filed a claim and all claims are closed|User will not see this section, User will see a CTA to "File a Claim" |**10**|
+|User has never filed a claim and all claims are closed|User will not see the claim section at all|**10**|
 
 
 ### Test cases for ["Healthcare"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/health-care-section.md)
 |Test case|Intended outcome|Staging User|
 |----|----|----|
+|User IS enrolled in healthcare|User sees healthcare section, User sees "Get your VA medical records/Get your lab result" links. |----| *******
+|User IS NOT enrolled in healthcare|User does not see healthcare section. User sees a CTA to "Apply for health care"|----|******
 |User DOES have secure messages|User sees latest message info ("From" "Date" "Subject")|**[377](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva.md)**|
-|User DOES NOT have secure messages|User sees messaging stating that they do not have any messages|TBD|
+|User DOES NOT have secure messages|User sees messaging stating that they do not have any messages|**226**|
 |User DOES have prescriptions managed by the VA|User sees most recent prescription update ("Medication" "Status")|**[377](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva.md)**|
-|User DOES NOT have prescriptions|User does not see the prescription section |**10**|
-|User DOES NOT have prescription refills but has prescriptions managed by the VA|User sees messaging "You have no prescription refills in progress"|TBD|
+|User DOES NOT have prescriptions managed by the VA|User does not see the prescription section |Need to determine if this applies to any of the healthcare users, will check MHV|
+|User DOES NOT have prescription refills but has prescriptions managed by the VA|User sees messaging "You have no prescription refills in progress"|**226**|
 |User DOES have appointments|User is shown next appointment ("Date" "Time" "Location/VA Video Connect")|judy.morrison@id.me|
-|User DOES NOT have appointments|User sees messaging stating that they do not have any appointments |**36**|
+|User DOES NOT have appointments|User sees messaging stating that they do not have any appointments |**226**|
 
 **Lab results:** Any user with healthcare will show the static "View your lab and test results" link (**36**)
 
