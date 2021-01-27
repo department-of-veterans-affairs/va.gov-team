@@ -36,7 +36,7 @@
 ### Test cases for "Education Benefits"  
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User DOES have education benefits|User will NOT see the "Apply for Education Benefits" CTA |38,228(TBD)|
+|User DOES have education benefits|User will NOT see the "Apply for Education Benefits" CTA |(TBD)|
 |User DOES NOT not have education benefits|User will see the "Apply for Education Benefits" CTA|**10**|
 
 ### Test cases for ["Claims and Appeals"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/claims-and-appeals-status.md)
@@ -67,7 +67,7 @@
 |----|----|----|
 |User DOES have an application in progress|User will see application information, status, last saved date, application expiration date, form number, and application title|**100**|
 |User DOES NOT have an application in progress|User sees messaging saying "You have no benefit applications in progress"|TBD|
-User already has health care, disability, OR education|The block for the benefit they have is no longer shown in in the “Benefits you might be interested in" section|TBD
+User already has health care, disability, OR education|The block for the benefit they have is no longer shown in in the “Benefits you might be interested in" section|**38**(has healthcare)|
 
 
 
