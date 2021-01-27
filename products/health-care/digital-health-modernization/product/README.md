@@ -1,23 +1,24 @@
-# DRAFT Product TL; DR
-- This document reflects the evolving understanding of the product strategy lead (@aryeh-usds).
+# Product TL; DR
+- This document reflects the evolving understanding of the product strategy lead (@aryeh-usds currently).
 - It will be updated weekly or more through the course of discovery.
+- It values readability over comprehensive explanations (ex., we start with priorities without explaining why comprehensively). 
 - If you see something, say something! It's meant to be a conversation-starter.
 
-## Core Problems / Opportunities
-### Premise
-Many common veteran needs / journeys (ex., find a doctor -> get the appointment -> go there -> pay for it -> get the meds -> exchange follow-up comms with the care team) require transacting with several systems that Veterans need to know are there; and how to find them; and how to log into them — in order to use them successfully.
+## Priorities
+### From OCTO
+- **Beat Cerner to Market:** Over the next ten years, VA facilities will transition from VA's in-house EHR (VistA) to a commercial solution from Cerner. We aim to minimize the impact of this transition by providing Veteran-facing interfaces that are EHR-agnostic, so that Veterans do not need to keep track of which facilities use which EHR.
+- **Replatform My HealtheVet onto VA.gov:** The VA's core veteran-facing health product (My HealtheVet) is visually and functionally distinct from components being developed in (1) and the Cerner systems mentioned in (2), raising the risk of additional fragmentation.
+- **Reduce Veteran-facing tool fragmentation:** Key components of a patient portal on VA.gov (ex., messaging, appointments, prescriptions, notifications) are being developed without a unifying vision, which may lead to [fragmentation](https://xkcd.com/927/) rather than the single, high quality UX that is our [North Star](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/digitalmodernizationstrategy.pdf).
 
-### Opportunities for [Digital Health Modernization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/README.md)
-1. Key components of a patient portal on VA.gov (ex., messaging, appointments, prescriptions, notifications) are being developed without a unifying vision, which may lead to [fragmentation](https://xkcd.com/927/) rather than the single, high quality UX that is our [North Star](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/digitalmodernizationstrategy.pdf).
-2. Over the next ten years, VA facilities will transition from VA's in-house EHR (VistA) to a commercial solution from Cerner. We aim to minimize the impact of this transition by providing Veteran-facing interfaces that are EHR-agnostic, so that Veterans do not need to keep track of which facilities use which EHR.
-3. The VA's core veteran-facing health product (My HealtheVet) is visually and functionally distinct from components being developed in (1) and the Cerner systems mentioned in (2), raising the risk of additional fragmentation.
-4. Health content on VA.gov is designed as a how-to manual with the expectation the Veteran will read, rather than an action-oriented product with the expectation the Veteran will skim for the right call to action.
+### From User Research 
+- **Most Veterans don't think of VA.gov as a health tool:** Health content on VA.gov is designed as a how-to manual with the expectation the Veteran will read, rather than an action-oriented product with the expectation the Veteran will skim for the right call to action.
+- **Veterans who do think of VA.gov as a health tool can't find things on it:** IA on VA.gov makes it difficult to discover the relevant health content, call to action or function. 
+- **Veterans who think of VA.gov as a health tool and can find things on it probably can't log in:** Several key user journeys (ex., an entire doctor visit, which may include scheduling an appointmnet, checking in, answering questions, getting reimbursed for travel — then later exchanging messages, renewing a prescription, reviewing a claim and paying a bill) are distributed across several VA systems that don't point to each other, can't be accessed from one another and weren't designed together. 
 
-#### Opportunities Already Being Worked on by OCTO Teams
-5. VA.gov needs a sticky "home" with consolidated notifications and easy access to high-frequency needs. This may make it difficult to provide a cohesive experience relative to analogous products, like MyChart, in which billing and payments (at a minimum) are colocated with clinical functions.  
-6. Key health-related tools have authentication challenges that make it difficult for Veterans to get access, and / or to navigate digital health while not everything lives on VA.gov (which will span years).
+### From Analysis
+- **VA.gov probably needs sitewide notifications (at a minimum) or we run the risk of tool fragmentation on our own platform:** Some limitations from VA.gov's beginnings as a content site (ex., no sitewide notifications) may make it difficult to capitalize on the benefit of colocating Veteran-facing tools on VA.gov
 
-##  Product
+##  Product Strategies
 Subject to iteration based on learning. Each step assumes the previous step went well. Strategies are in no particular order and may or may not be mutually-exclusive due to resource constraints. 
 
 ### Strategy A: Retrofit Content Pages into Action Pages
