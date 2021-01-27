@@ -50,9 +50,9 @@
 ### Test cases for ["Healthcare"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/health-care-section.md)
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User DOES have secure messages|User sees latest message info ("From" "Date" "Subject")|**377** (double check)|
+|User DOES have secure messages|User sees latest message info ("From" "Date" "Subject")|**[377](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva.md)**|
 |User DOES NOT have secure messages|User sees messaging stating that they do not have any messages|TBD|
-|User DOES have prescriptions managed by the VA|User sees most recent prescription update ("Medication" "Status")|**377** (double check)|
+|User DOES have prescriptions managed by the VA|User sees most recent prescription update ("Medication" "Status")|**[377](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva.md)**|
 |User DOES NOT have prescriptions|User does not see the prescription section |**10**|
 |User DOES NOT have prescription refills but has prescriptions managed by the VA|User sees messaging "You have no prescription refills in progress"|TBD|
 |User DOES have appointments|User is shown next appointment ("Date" "Time" "Location/VA Video Connect")|judy.morrison@id.me|
