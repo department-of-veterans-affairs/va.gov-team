@@ -63,17 +63,15 @@ We are seeking to perform this test with 15 participants
 
 | Date                   | Time (EST)                       |
 | ---------------------- | -------------------------------- |
-| Monday, February 1     | 9:00am-11:00pm<br />3:00pm - 6pm |
-| Tuesday, February 2    | 9:00am-11:00pm<br />2:00pm - 6pm |
 | Wednesday, February 3  | 9am - 2pm                        |
 | Thursday, February 4   | 9am - 8pm                        |
 | Friday, February 5     | 9am - 8pm                        |
 | Monday, February 8     | 9:00am-11:00pm<br />3:00pm - 6pm |
 | Wednesday, February 10 | 9am - 8pm                        |
 | Thursday, February 11  | 9am - 8pm                        |
-| Friday, February 12     | 9am - 8pm                        |
+| Friday, February 12    | 9am - 8pm                        |
 
-**Pilot Date(s):** January 25-29, 2021.
+**Pilot Date(s):** Feb 1-2, 2021.
 *Note: The Contact Center team will schedule their own pilot, Perigean is not needed to schedule the pilot test.*
 
 **Pilot Attendess:**
