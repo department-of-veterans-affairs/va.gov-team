@@ -72,7 +72,6 @@ User HAS filed a claim|User does NOT see "File a claim" CTA|**226**|
 User HAS NOT filed a claim|User sees "File a claim" CTA|**10**|
 
 
-### Test cases for accuracy 
 
 
 
