@@ -80,3 +80,4 @@
 
 # Questions for Veterans
 - Understand current pain points.
+- Importance ranking on possible data displayed for each topic.
