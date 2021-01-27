@@ -38,8 +38,27 @@
 - [Old design inspirations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/vets-prescriptions/research/inspiration.md) (from around 2016)
 
 ## Allergies
+- Current features/data displayed in MyHealtheVet (as noted by navigating across the site)
+  - Allergy Name (required)
+  - Date (required. is the date the onset of the allergy? label isn't super descriptive)
+  - severity
+  - diagnosed (there is a dropdown with option)
+  - reaction
+  - comments
+  - ability to add a new allergy
+  - links to educational material on the allergies (currently links to Medline Plus)
 
 ## Immunizations
+- Current features/data displayed in MyHealtheVet (as noted by navigating across the site)
+  - Immunization name
+  - date received
+  - reaction (currently checkboxes with options
+  - method (injection, inhalant, by mouth)
+  - other sign/symptom (currently dropdown list)
+  - comments
+  - ability to add a new immunization
+  - link to VA page on recommended screenings and immunizations for an adult
+  - link to CDC traveler's health page
 
 # VA groups we would like to talk to
 - Lighthouse
