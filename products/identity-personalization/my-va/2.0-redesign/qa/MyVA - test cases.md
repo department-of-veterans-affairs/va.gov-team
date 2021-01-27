@@ -66,8 +66,8 @@
 #### "Benefits you may be interested in"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-User already is enrolled in health care|User does NOT see "Apply for healthcare" CTA|**38**|
-User already is NOT enrolled in health care|User sees "Apply for healthcare" CTA|TBD|
+User is already enrolled in health care|User does NOT see "Apply for healthcare" CTA|**38**|
+User is NOT enrolled in health care|User sees "Apply for healthcare" CTA|**369**|
 User HAS filed a claim|User does NOT see "File a claim" CTA|**226**|
 User HAS NOT filed a claim|User sees "File a claim" CTA|**10**|
 
