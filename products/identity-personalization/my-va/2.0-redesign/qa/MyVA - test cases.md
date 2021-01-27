@@ -8,7 +8,7 @@
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |LOA1 user has not verified their identity|User is shown a prompt to verify their identity|**350**|
-|LOA1 user has not verified their identity but has an application in progress on VA.gov|User is shown a prompt to verify their identity but also shown an Application in progress|TBD|
+|LOA1 user has not verified their identity but has an application in progress on VA.gov|User is shown a prompt to verify their identity but also shown an Application in progress|**Tze can add application to user 350**|
 |LOA1 user has not verified their identity and does not have anything in-progress|User is shown a prompt to verfy their identity and CTAs related to filing a claim, applying for healthcare, and applying for education benefits|**350**|
 
 
@@ -27,7 +27,7 @@
 ### Test cases for "Disability Rating"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User DOES have a disability rating|User will see their disability rating next to their name|**90**|
+|User DOES have a disability rating|User will see their disability rating next to their name|**226**|
 |User DOES NOT have a disability rating|User will not see their disability rating next to their name|**10**|
 
 
@@ -35,7 +35,7 @@
 |Test case|Intended outcome|Staging User|
 |----|----|----|
 |User has application for education benefits|User will NOT see the "Apply for Education Benefits" CTA |TBD|
-|User DOES NOT not have education benefits|User will see the "Apply for Education Benefits" CTA|**10**|
+|User DOES NOT have an application for education benefits|User will see the "Apply for Education Benefits" CTA|**10**|
 
 ### Test cases for ["Claims and Appeals"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/claims-and-appeals-status.md)
 |Test case|Intended outcome|Staging User|
