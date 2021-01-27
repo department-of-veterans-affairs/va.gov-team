@@ -84,6 +84,7 @@ Screens proofed in staging.VA.gov the week of January 25, 2021. Reference mockup
 - [ ] Move Required label to the end of: "Did student attend school last term? Note: This includes any kind of school or training, including high school."
 - [ ] Change label for "Course of study or educational program" to: "Subject or educational/training program"
 - [ ] Change label for "Number of classes a week" to: "Number of session a week"
+- [ ] Change text field to dropdown for shool type
 
 ### Remove stepchild section
 
