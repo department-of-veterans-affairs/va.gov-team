@@ -56,7 +56,7 @@
 |User DOES NOT have prescriptions|User does not see the prescription section |**10**|
 |User DOES NOT have prescription refills but has prescriptions managed by the VA|User sees messaging "You have no prescription refills in progress"|TBD|
 |User DOES have appointments|User is shown next appointment ("Date" "Time" "Location/VA Video Connect")|judy.morrison@id.me|
-|User DOES NOT have appointments|User sees messaging stating that they do not have any appointments |TBD|
+|User DOES NOT have appointments|User sees messaging stating that they do not have any appointments |**36**|
 
 **Lab results:** Any user with healthcare will show the static "View your lab and test results" link (**36**)
 
