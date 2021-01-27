@@ -97,6 +97,8 @@ The default manager will be `ReduxManager` which will store state in Redux.
 - Setting and retrieving
   - User input
   - Validation errors
+- Storing the form schema as JSON schema
+  - This will be optional
 
 #### Sub-module: Routing
 This submodule will be responsible for the user navigating through the form. In
@@ -110,13 +112,29 @@ particular, it will:
 
 #### Sub-module: Form page builder
 The form page builder sub-module will be composed of components and functions
-which engineers can use to rapidly build forms. These components will be
-responsible for:
+which engineers can use to rapidly build forms. Example form builder components
+may include:
+- `<TextInput/>`
+- `<NumberInput/>`
+- `<ArrayOf/>`
+
+These components will be responsible for:
 - Interfacing with the state manager for setting and retrieving form state
   - User data
   - Validation errors errors
 - Calling validation functions
 - Displaying validation errors
+- When a schema is present in the state manager, checking it to ensure
+  that the data for the field in the schema is appropriate for the form builder
+  component
+  - For example, a `<NumberInput data="age" />` would check the schema to make
+    sure that the `schema.age.type` is `number` or `integer`
+  - If the type is wrong, it will throw an error
+    - **Discussion:** Ideally, this would be a compile-time check that we can
+      then shake out of the production build, but I don't know how we can make
+      this check happen at compile time, and I don't know how to not ship the
+      type checking code to client browsers and still ensure the checking
+      happens in CI.
 
 Arguably, this sub-module could be considered a helper, but that's semantics, I
 suppose.
@@ -127,8 +145,10 @@ Validation will be run on the `onBlur` event for clean inputs and on the
 will be run on all dirty inputs to ensure a later field doesn't invalidate an
 earlier one.
 
-**Discussion:** Alternatively, validation may be run on all dirty inputs only
-during the `onBlur` event.
+This will be up to the implementation of each form input field to manage.
+
+**Discussion:** Ideally, this is centralized, but what might that look like? I
+can't think of anything that isn't unnecessarily heavy.
 
 #### Sub-module: Save-in-progress
 
@@ -192,6 +212,13 @@ N/A
     of 25. A user can enter a name that's 27 characters long and not trigger any
     validation errors until the submission step.
   - This is a potential regression in UX
+- Not using any kind of schema to create fields may lead to a field overwriting
+  bug
+  - If I give on input field the data path of `password` and another of
+    `password.confirm`, for example
+  - **Possible solution:** The answer here may be to pass the form schema to the
+    `StateManager` and have each input field check to make sure that the data
+    path passed to it matches an appropriate data type for the field
 
 ### Work Estimates
 _Split the work into milestones that can be delivered, put them in the order
