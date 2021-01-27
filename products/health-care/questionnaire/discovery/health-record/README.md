@@ -4,7 +4,8 @@
 - If we don’t have renewing medications in a questionnaire, how do we stop Veterans from asking about that?
 - What currently is available in Lighthouse?
 - Are we missing any past user research?
-- 
+- What if we think of this as something has changed and not just a meds list?
+- What special can we do, since this is a payer/provider system?
 # Knowns
 ## Medications
 - Location of past [Rx Refill research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills/vets-prescriptions)
