@@ -22,13 +22,12 @@
   - dose/frequency
   - pharmacy phone
   - provider
-  - contact my pharmacy/provider (they planned a connect to secure messaging here)
+  - contact my pharmacy/provider (they planned a connect to secure messaging here. There is also a VA app "Ask a Pharmacist")
   - doctor/ specialist who prescribed each medication
   - refill information (status - active, expired, discontinued, number remaining and refillable date)
   - medication type (such as VA prescription)
   - What diagnosis is this addressing or helping with? Why am I taking this? Review by condition?
   - Connection to formulary
-  - Connection to secure messaging to ask questions (there is also a VA app "Ask a Pharmacist")
 - All the ways that a Veteran can [refill their prescription as of 8/9/2017](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/vets-prescriptions/research/ways-to-refill-rx-at-va.md). 
    - This might help us think through all the medication touchpoints that currently exist and see if there is any impact on our feature. Will need updated.
   - They were envisioning pictures of medications.
