@@ -53,8 +53,10 @@
 
 ### Vet Centers [#4080](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4080)
 
+Schedule another meeting to discuss: 
+
 * Review rough CMS sprint cadence (forthcoming, from Kevin)
-* Vet Cetner services design
+ * Vet Center services design
 
 ## January 22 2021
 
