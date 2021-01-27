@@ -7,3 +7,10 @@
 
 </details>
 
+<details>
+<summary> Sprint 39, ending January 26, 2021 </summary>
+
+![Sprint 39 Retro board](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/images/sprint%2039%20retro.png)
+
+</details>
+
