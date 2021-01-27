@@ -44,11 +44,16 @@
 ### CLP
 
 - IA URL
-- "Managed experience" for users
+  - meeting later today, but:
+  - will be part of "Managed experience" for users
+  - form to request a CLP? will flow through Public Websites
 
-### Resources & support
-- Any updates?
+### Video for R&S and CLP
 
+- Inline video adding is delayed until Drupal 9, unless we build it custom for Drupal 8. expected in April 2020
+- Editors for CLP and R&S will need to add media to media library, first, then link it to Media list and CLP content types via those forms
+- Not required for CLP MVP
+ 
 ### Benefits detail pages
 
 - CMS technical debt: Intro text refactor #939
