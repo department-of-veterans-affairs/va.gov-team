@@ -1,5 +1,5 @@
-# 21-686c pre-launch text/content punch list
-**VSA eBenefits Team | July 2020**
+# 21-686c text/content punch list
+**VSA eBenefits Team | January 2021**
 
 `James Adams, designer`
 
@@ -27,7 +27,20 @@ Screens proofed in staging.VA.gov the week of July 6, 2020. Reference mockups ar
 
 - [ ] **HP!** Revised chapter titles
 - [ ] Default selection in country dropdown to 'United States'
+- [ ] Replace all address blocks with new design [Example](https://preview.uxpin.com/2dbde8d15bf667f5c584fe4a8a6d011cf9f0a14d#/pages/132088572)
 - [ ] **HP!** Resolve city/state/country location errors to say: "Please enter a valid location" rather than pattern parameters
+- [ ] Confirm double arrows on back/continue buttons
+- [ ] Line-break after services number in "Need help?" section rather than paragraph space
+- [ ] Determine how to communicate 21P-527EZ form number
+- [ ] **HP!** Add explanatory copy to net worth question in add spouse and add child workflows
+
+### Intro screen
+
+- [ ] Form number subhead needs line break after “and/or” on 674 line
+- [ ] Confirm use of double arrows in green button
+- [ ] Remove period in H3 “Follow the steps below to apply to add or remove a dependent."
+- [ ] Add colon to "for example: their major"
+- [ ] Line break for "Get help filing your claim" Link; remove period
 
 ### Checkboxes
 
@@ -37,10 +50,15 @@ Screens proofed in staging.VA.gov the week of July 6, 2020. Reference mockups ar
 - [ ] Revise instructional text per mockups
 - [ ] Address inconsistent spacing between checkboxes
 
+### Veteran's info
+
+- [ ] Make I in "Veteran's Information" (chapter header) lower-case
+
 ### Add spouse section
 
 - [ ] Change subhead above "examples of additional evidence" accordion to: "Additional evidence needed to add spouse"
 - [ ] Add comma after "Ceremonial" in paragraph above "examples of additional evidence" accordion
+- [ ] **HP!** Add explanatory text to "Did your spouse have income in the last 365 days?" question (copy pending)
 
 ### Spouse upload section
 
@@ -53,6 +71,7 @@ Screens proofed in staging.VA.gov the week of July 6, 2020. Reference mockups ar
 - [ ] **HP!** Revise text under "examples of additional evidence" accordion to match [mockups](https://xd.adobe.com/view/0430be78-21b6-46e2-68b0-586c650d77c8-7201/)
 - [ ] Change "Does your child live with you?" to: "Does this child live with you?"
 - [ ] Change "Person your child lives with" to: "Person child lives with"
+- [ ] **HP!** Add explanatory text to "Did your child have income in the last 365 days?" question (copy pending)
 
 ### Child upload section
 
