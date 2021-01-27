@@ -60,6 +60,8 @@ It is because of this that we are going to dedicate all of 2020, and as much of 
 
 ### My VA, benefit updates, & benefit experience
 
+|Project|Initiating team|Date of request| Status/Notes|
+|----|----|----|----|
 |[Logged-in navigation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/navigation-ia)| Auth. exp. | N/A| Revisit after logged-in homepage redesign|
 |Notification center| Auth. exp. | N/A| Revisit after logged-in homepage redesign|
 |My VA: Post-launch V1 updates and enhancements | Auth exp. | N/A | [List of potential updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/v1-post-launch-improvements.md)|
