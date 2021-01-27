@@ -42,7 +42,9 @@ It is because of this that we are going to dedicate all of 2020, and as much of 
 |**VA Profile: Notification preferences**| — | Preliminary discussions | Initial BE integration; begin design discussions | ? | ? | ? |
 |**My VA redesign enhancements**| — | — | — | — | Start discovery on enhancements (View Payment History; Debt Letters) | — |
 
-### Profile & identity: Potential future projects & feature requests from other teams
+## Potential future projects & feature requests from other teams
+
+### Profile & identity 
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
@@ -56,7 +58,7 @@ It is because of this that we are going to dedicate all of 2020, and as much of 
 |Add dependent info to the profile | Auth exp/eBenefits migration team | January 2021 | [Slack convo](https://dsva.slack.com/archives/CLY6Q69RV/p1611687078020800)|
 
 
-### My VA, benefit updates, & benefit experience: Potential future projects & feature requests from other teams
+### My VA, benefit updates, & benefit experience
 
 |[Logged-in navigation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/navigation-ia)| Auth. exp. | N/A| Revisit after logged-in homepage redesign|
 |Notification center| Auth. exp. | N/A| Revisit after logged-in homepage redesign|
