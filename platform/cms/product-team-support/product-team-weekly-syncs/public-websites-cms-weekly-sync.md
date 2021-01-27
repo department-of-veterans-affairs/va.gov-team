@@ -37,14 +37,14 @@
 
 ## Wednesday January 27
 
+### Upcoming demo environment trainings
+
+- who's in? 
+
 ### CLP
 
 - IA URL
 - "Managed experience" for users
-
-### Content model refactoring 
-
-
 
 ### Resources & support
 - Any updates?
