@@ -71,7 +71,7 @@ We are seeking to perform this test with 15 participants
 | Monday, February 8     | 9:00am-11:00pm<br />3:00pm - 6pm |
 | Wednesday, February 10 | 9am - 8pm                        |
 | Thursday, February 11  | 9am - 8pm                        |
-| Friday, February 5     | 9am - 8pm                        |
+| Friday, February 12     | 9am - 8pm                        |
 
 **Pilot Date(s):** January 25-29, 2021.
 *Note: The Contact Center team will schedule their own pilot, Perigean is not needed to schedule the pilot test.*
@@ -101,5 +101,5 @@ We are seeking to perform this test with 15 participants
 ## Resources
 
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/medallia/medallia-product-outline.md)
-- Convo Guide
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/medallia/research/CY21-Q1/conversation-guide.md)
 - Read-Out/Results
