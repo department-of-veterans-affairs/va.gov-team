@@ -66,7 +66,11 @@
 #### "Benefits you may be interested in"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-User already has health care, disability, OR education|The block for the benefit they have is no longer shown in in the “Benefits you might be interested in" section|**38**(has healthcare)|
+User already is enrolled in health care|User does NOT see "Apply for healthcare" CTA|**38**|
+User already is NOT enrolled in health care|User sees "Apply for healthcare" CTA|TBD|
+
+
+
 
 
 
