@@ -10,7 +10,7 @@
 
 ### Objective
 
-The goal is to establish a component library based on [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components), which are a browser standard. This will eventually supercede the current `component-library` code and some of the liquid HTML templates currently in `vets-website`. A non-goal is creating an entirely new visual experience as part of the component library.
+The goal is to establish a component library using the [Web Components standard](https://developer.mozilla.org/en-US/docs/Web/Web_Components). This will eventually supercede the current `component-library` code and some of the liquid HTML templates currently in `vets-website`. A non-goal is creating an entirely new visual experience as part of the component library.
 
 The intended audience for this document is frontend engineers.
 
@@ -28,7 +28,7 @@ Currently, the design system has various implementations of "components" scatter
     - This is similar to the static markup found in `formation`
     - These templates of components are only used in the content build for va.gov
 
-Maintaining multiple sources of truth is a burden for all teams involved and leads to an inconsistent user experience and wasted engineering time.
+Maintaining multiple codebases and sources of documentation for design system components is a burden for all teams involved and leads to an inconsistent user experience and wasted engineering time.
 
 ### High Level Design
 
@@ -88,7 +88,7 @@ For further optimization, the Components will be lazy-loaded. Even if our Web Co
 
 Once a new release is made for the Web Component library, we will [configure a linting rule](https://github.com/AlexMost/eslint-plugin-deprecate/blob/master/docs/rules/import.md) as part of the `lint:js:changed` script in `vets-website` to throw an error if a React component is imported that has a released Web Component replacement. This will prevent the older React component from appearing in more places as we are actively making efforts to remove it.
 
-Next, the Design System team will reach out to a VFS team that we believe will get the gratest value by adopting the Component. We will briefly describe the new Component and how it can be used in place of the older components currently used in their codebase, and we will offer to set up a meeting to synchronously go over the Component and begin the migration. The focus will be on making the migration as smooth as possible for the team as well as bringing awareness to the new Component.
+Next, the Design System team will reach out to a VFS team that we believe will get the greatest value by adopting the Component. We will briefly describe the new Component and how it can be used in place of the older components currently used in their codebase, and we will offer to set up a meeting to synchronously go over the Component and begin the migration. The focus will be on making the migration as smooth as possible for the team as well as bringing awareness to the new Component.
 
 When we have finished helping the team transition all of their code to use the new Component, we will announce this publicly in Slack, and move on to help a new team with the migration, repeating the steps. After the new Web Component has replaced all instances of its React/`formation`/liquid conterparts, the React component will be removed from `component-library` and a new version will be published. The associated styles will also be removed from `formation` if we are certain that this will not affect other styles on va.gov.
 
