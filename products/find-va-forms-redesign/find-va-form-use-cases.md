@@ -18,6 +18,7 @@
 ----
 
 ### Use Case B
+
 #### Search for VA Form with Online Tool link
 
 * **Description:** 
@@ -33,7 +34,8 @@
   - https://dsvavsp.testrail.io/index.php?/cases/view/3977
   
     
-  ### Use Case C
+### Use Case C
+
 #### Search for Deleted VA Form
 
 * **Description:** 
@@ -49,7 +51,8 @@
   - https://dsvavsp.testrail.io/index.php?/cases/view/3951
   
     
-  ### Use Case D
+### Use Case D
+
 #### Search for Invalid VA Form
 
 * **Description:** 
@@ -65,6 +68,7 @@
   - https://dsvavsp.testrail.io/index.php?/cases/view/3978
   
 ### Use Case E
+
 #### Sorting List of Search Results
 
 * **Description:** 
