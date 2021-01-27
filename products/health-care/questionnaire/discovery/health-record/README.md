@@ -21,7 +21,7 @@
 
 # Knowns
 ## Medications
-- [Past Rx Refill research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills/vets-prescriptions)
+- [Past Rx Refill research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills)
 - Feature ideas from [past user research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/mhv-api/2016-06-03-technical-validation.md)/ [previous data asks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/mhv-api/missing-data-that-we-need.md)/ shown in old wireframes [set 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/mhv-api/doc-images/detail.png) and [set 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/vets-prescriptions/research/mhv-prototype/redesign-prototype-pharmacy-1.pdf)/ our team's ideas:
   - photos of the pills
   - self-entered data
