@@ -6,6 +6,7 @@
 - Are we missing any past user research?
 - What if we think of this as something has changed and not just a meds list?
 - What special can we do, since this is a payer/provider system?
+- Can we get any updates on the analytics on these current features from MyHealtheVet?
 # Knowns
 ## Medications
 - [Past Rx Refill research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills/vets-prescriptions)
