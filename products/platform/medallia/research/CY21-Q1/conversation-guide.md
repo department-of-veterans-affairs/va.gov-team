@@ -116,13 +116,6 @@ As you’re performing this task, please talk us through your thoughts as you in
 
 ## Comparitive Analysis - 5 Minutes
 
-**Current ForSee Button**
-*Send a link to the [Find VA Locations](https://www.va.gov/find-locations) page*
-
-This is the same page as before, but with an alternate feedback button design.
-- Can you describe for me the differences between this button and the previous button?
-- Would you describe this button as better or worse than the previous button?
-
 **Medallia "Vanilla" Button**
 *Send the link to the [Find VA Locations (Staging)](https://staging.va.gov/find-locations/) page*
 
