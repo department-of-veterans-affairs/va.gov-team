@@ -42,12 +42,10 @@ It is because of this that we are going to dedicate all of 2020, and as much of 
 |**VA Profile: Notification preferences**| — | Preliminary discussions | Initial BE integration; begin design discussions | ? | ? | ? |
 |**My VA redesign enhancements**| — | — | — | — | Start discovery on enhancements (View Payment History; Debt Letters) | — |
 
-### Potential future projects & feature requests from other teams
+### Profile & identity: Potential future projects & feature requests from other teams
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
-|[Logged-in navigation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/navigation-ia)| Auth. exp. | N/A| Revisit after logged-in homepage redesign|
-|Notification center| Auth. exp. | N/A| Revisit after logged-in homepage redesign|
 |Bad address functionality| Auth. exp. | N/A| This feature is available to us via VA Profile, but we haven't had a chance to integrate it yet. Will be easier to implement either after logged-in homepage redesign or as part of a notification center MVP |
 |Integrate "Military information" section of the profile through VA Profile backend| VA Profile | September 2020 | VA Profile is still working on their MVP, so this is not yet ready for us to integrate with|
 |Virtual hearing opt-in| Caseflow/Lighthouse | September 2020 | Caseflow/Lighthouse needs to do some research to determine who virtual hearing opt-in might work before coming back to VA.gov|
@@ -55,3 +53,11 @@ It is because of this that we are going to dedicate all of 2020, and as much of 
 |Fiduciary indicator | VA Profile | N/A | VA Profile has mentioned they are in discovery with adding a fiduciary indicator that we could consume, but they do not have any dates yet as to when they plan to implement this |
 |Prescription notifications | VA Profile/VETText | November 2020 | In our biweekly VA Profile meeting, Paras Shah mentioned that the notifications team is going to be working to implement prescription notifications. The MVP will be out in January, which will not need anything from the VA.gov profile. However, the next version after that will likely need some sort of notification settings that could be managed from the profile|
 |Notification preferences | VA Profile | November 2020 | These are indicators for VETText/VANotify/other services so people can opt-in/out of texts or email messages from these services. This is actively in the works with VA Profile, with initial releases 12/14/20 (no grouping), 1/11/21, and 2/8/21 (with grouping). |
+|Add dependent info to the profile | Auth exp/eBenefits migration team | January 2021 | [Slack convo](https://dsva.slack.com/archives/CLY6Q69RV/p1611687078020800)|
+
+
+### My VA, benefit updates, & benefit experience: Potential future projects & feature requests from other teams
+
+|[Logged-in navigation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/navigation-ia)| Auth. exp. | N/A| Revisit after logged-in homepage redesign|
+|Notification center| Auth. exp. | N/A| Revisit after logged-in homepage redesign|
+|My VA: Post-launch V1 updates and enhancements | Auth exp. | N/A | [List of potential updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/v1-post-launch-improvements.md)|
