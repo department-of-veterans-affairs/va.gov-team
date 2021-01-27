@@ -12,16 +12,10 @@
 |LOA1 user has not verified their identity and does not have anything in-progress|User is shown a prompt to verfy their identity and CTAs related to filing a claim, applying for healthcare, and applying for education benefits|**350**|
 
 
-### Test cases for "LOA3 users"
-|Test case|Intended outcome|Staging User|
-|----|----|----|
-|User has signed up for something|User sees relevant information/statuses for the section(s) that apply to them|**36** (enrolled in healthcare, has disablity claims)|
-
-
 ### Test cases for "First-time user experience"
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|LOA3 user has logged-in for the first time after verifying their identity |User is shown CTA's related to filing a claim, applying for healthcare, and applying for education benefits "|TBD|
+|LOA3 user has logged-in for the first time after verifying their identity |User is shown CTA's related to filing a claim, applying for healthcare, and applying for education benefits "|**Tze can create a new user and verify their identity**|
 
 
 ### Test cases for "Disability Rating"
@@ -34,15 +28,16 @@
 ### Test cases for "Education Benefits"  
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User has application for education benefits|User will NOT see the "Apply for Education Benefits" CTA |TBD|
-|User DOES NOT have an application for education benefits|User will see the "Apply for Education Benefits" CTA|**10**|
+|User has application for education benefits in-progress|User will NOT see the "Apply for Education Benefits" CTA |TBD|
+|User DOES NOT have an application for education benefits in-progress|User will see the "Apply for Education Benefits" CTA|**10**|
 
 ### Test cases for ["Claims and Appeals"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/claims-and-appeals-status.md)
 |Test case|Intended outcome|Staging User|
 |----|----|----|
-|User DOES have a pension/disability claim|User will see claim information|**226**|
+|User DOES have an **open** pension/disability claim|User will see claim information|**226**|
 |User has open claims or appeal in progress, but there have been no updates in more than 30 days |User sees messaging "You've had no updates to your claims in progress the past 30 days"|TBD| 
-|User DOES NOT have a pension/disability claim|User will see a CTA to "File a Claim" |**10**|
+|User has open claims or appeal in progress and there HAS been updates in the past 30 days |User sees the claim update"|TBD| ** 
+|User has never filed a claim and all claims are closed|User will not see this section, User will see a CTA to "File a Claim" |**10**|
 
 
 ### Test cases for ["Healthcare"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/health-care-section.md)
