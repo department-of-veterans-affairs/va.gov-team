@@ -23,9 +23,10 @@
 
 ## Wednesday Jan 27 2:30pm 
 
+- Training
+- Dual state launches week of Feb 8
 - Sunsetting content / archiving strategy
 - Prod user account management
-
 
 ## Wednesday Jan 20 2:30pm ET
 
