@@ -85,7 +85,7 @@ This is the GI Bill Comparison Tool, which allows you to see the benefits you ca
  
 ## Second Task: Degree / Program Search - 10 minutes
 
-- Let's say you've recently heard of someone who received a Bachelor's in **Ethical Hacking**. You don't know of any schools that offer this program, but  are curious about what the program would be about.  How would you use the Comparison Tool to see if any schools covered by the GI Bill offer this as a program of study?
+- Let's say you've recently heard of someone who received a Bachelor's in **Citizenship Activities**. You don't know of any schools that offer this program, but  are curious about what the program would be about.  How would you use the Comparison Tool to see if any schools covered by the GI Bill offer this as a program of study?
 
 _Prompt_ You see that **Indiana University-Bloomington** is highly rated by Veterans. If you wanted to ask a few questions about the school, how would you use the Comparison Tool to find out who to talk to?
 
