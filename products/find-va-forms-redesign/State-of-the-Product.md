@@ -102,9 +102,11 @@ Provide a bulleted outline describing the required features of the product
    #### Custom Reports
  
    *Pro-tip* - You can save a specific parameters (tab, dates, filters) of a Custom Report as a **Saved Report** within your own Google Analytics account by clicking the Save button in the top-right corner of any Custom Report.
-   |Metric | Report Name | Tab Name | GitHub Issue | GitHub Directory|
-   |Search Landing unique views|--|--|--|--|
-   |Search Landing unique views|--|--|--|--|
+   |Metric | Report Name | Tab Name | Description |
+   |--|--|--|--|
+   |Search Landing unique views|Report Name|Tab Name|Description|
+   |Search Landing unique views|Report Name|Tab Name|Description|
+   
 
 ### Product Enhancements ###
 
