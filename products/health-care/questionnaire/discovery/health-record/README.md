@@ -49,7 +49,6 @@
   - Within Prescriptions, the Refill Prescription page accounts for nearly 80% of traffic. The remaining traffic goes to prescription tracking (2.1%), prescription history (11%) and Meds, OTCs, Herbs & Supplements (0.3%)
 - Other Medication UI Examples
   - [MyHealtheVet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/health-record/myhealthevet/Medications.png)
-  - [Apple Health](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/health-record/references/Apple-Health/Medications.png)
   - [Medisafe](https://www.medisafeapp.com/)
   - [From 2016 explorations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/vets-prescriptions/research/inspiration.md)
 - [Society for Hospital Medicine's Best Possible Medication History (BPMH) Quick Tips](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/health-record/references/MARQUIS%20BPMH%20Tri%20Fold%20Pocket%20Guide_0_0.pdf)
@@ -64,8 +63,6 @@
   - comments
   - ability to add a new allergy
   - links to educational material on the allergies (currently links to Medline Plus)
-- Other Allergies UI Examples
-  - [Apple Health](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/health-record/references/Apple-Health/Allergies.png)
 
 ## Immunizations
 - Current features/data displayed in MyHealtheVet (as noted by navigating across the site)
@@ -78,8 +75,6 @@
   - ability to add a new immunization
   - link to VA page on recommended screenings and immunizations for an adult
   - link to CDC traveler's health page
-- Other Immunizations UI Examples
-  - [Apple Health](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/health-record/references/Apple-Health/Immunizations.png)
 
 # VA groups we would like to talk to
 - Lighthouse
