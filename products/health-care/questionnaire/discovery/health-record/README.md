@@ -47,9 +47,10 @@
 - [Personas identified for Rx refills](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/vets-prescriptions/research/high-level-userflow.md) (could these be applied to updating med list in questionnaire)
 - Some MHV analytics ([from 2016 report though](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/vets-prescriptions/research/rx-refills-discovery-final-deck.pptx))
   - Within Prescriptions, the Refill Prescription page accounts for nearly 80% of traffic. The remaining traffic goes to prescription tracking (2.1%), prescription history (11%) and Meds, OTCs, Herbs & Supplements (0.3%)
-- Inspirations/Competitors
+- Other Medication UI Examples
+  - MyHealtheVet
   - [Medisafe](https://www.medisafeapp.com/)
-  - [from 2016 explorations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/vets-prescriptions/research/inspiration.md)
+  - [From 2016 explorations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/vets-prescriptions/research/inspiration.md)
 - [Society for Hospital Medicine's Best Possible Medication History (BPMH) Quick Tips](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/health-record/references/MARQUIS%20BPMH%20Tri%20Fold%20Pocket%20Guide_0_0.pdf)
 
 ## Allergies
