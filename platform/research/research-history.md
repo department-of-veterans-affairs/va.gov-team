@@ -47,7 +47,7 @@ This does not include research for Appeals projects, which is stored in differen
 - Keywords: IRIS, contact us form, inquiry
 
 #### December 9-16 : Vet Center Product - Usability V1
-*Ad Hoc: VSA Facilities, Leyda Hughes*
+*VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
 - 9 Veteran participants (2 Vet Center clients)
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/veteran-usability-tests)
 - List of keywords: Vet Centers, mental health care, facility detail page, locations
@@ -132,7 +132,7 @@ This does not include research for Appeals projects, which is stored in differen
 - **Keywords:** Veterans, Questionnaires, Upcoming appointment, Primary care, Health care, Usability testing 
 
 #### September 30 - October 16 : Vet Center - Veteran Client - Discovery Interviews
-*Ad Hoc: VSA Facilities, Leyda Hughes*
+*VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
 - 15 participants (8 clients)
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/veteran-interviews)
 
@@ -153,7 +153,7 @@ This does not include research for Appeals projects, which is stored in differen
 **Keywords:** categorization, nomenclature, tags, categories, audience, topics, labels, content authoring, tier 2, benefit-adjacent, VA account and profile, Records
 
 #### August 20-28 : Vet Center - Outreach Specialist - Discovery Interviews
-*Ad Hoc: VSA Facilities, Leyda Hughes*
+*VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
 - 5 participants
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/outreach-specialist-interviews)
 
