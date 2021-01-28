@@ -36,7 +36,7 @@ file.puts label
 file.puts "<table>"
 
 gh_json.each do |issue|
-	zh_api_key="API Key"
+	zh_api_key="Paste your Zenhub API key"
 	zh_uri = URI.parse("https://api.zenhub.com/p1/repositories/133843125/issues/#{issue["number"]}")
 
 	zh_request = Net::HTTP::Get.new(zh_uri)
