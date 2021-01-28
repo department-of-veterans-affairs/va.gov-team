@@ -159,8 +159,8 @@ Let’s go back to the home screen.
 ### Remove prototype app (2 minutes)
 Now I’m going to walk you through how to uninstall the app. Since this is a prototype it's only meant for testing and won't be updated. I would hate for you to try to use it in the future and have it not work correctly. So let's remove it and you can decide to install the finished app when we launch it in the Google Play store.
 
-- Go to home screen and find VA Mobile icon.
-- Long press on icon and there will be the option to uninstall.
+- Go to where your apps are and find VA Mobile icon.
+- Hard press on icon and there will be the option to uninstall.
 - Tap on uninstall.
 
 ## Close (2 minutes)
