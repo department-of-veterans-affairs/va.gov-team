@@ -2,7 +2,7 @@
 
 <details><summary>About this meeting</summary>
 
-- Wednesdays 2:30pm ET 
+- Wednesdays 10am ET 
 - Meeting owner: Clarence Maeng
 - Facilitator: Kevin Walsh
 - Standing agenda: 
@@ -21,10 +21,11 @@
 
 </details>
 
-## Wednesday Jan 27 2:30pm 
+## Wednesday Jan 29 10am ET 
 
 - Training
 - Dual state launches week of Feb 8
+- Facility health services cutover
 - Sunsetting content / archiving strategy
 - Prod user account management
 
