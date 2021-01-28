@@ -2,8 +2,19 @@
 
 January 2021
 
-## Introduction & Logistics (5 minutes)
-Thank you for joining us today. My name is Bridget and I also have some colleagues on the line observing and taking notes. The VA has built a mobile app. I am working with the VA to make the app easy to use so it will best meet the needs of Veterans like you. Today, I’d like to share the app with you and see what you think about it. To do that, I will ask you to sign into the app using your own DS Logon, My HealtheVet, or ID.me username and password. Do you have any questions so far?
+## Introduction & Logistics (10 minutes)
+Thank you for joining us today. My name is Bridget and I also have some colleagues on the line observing and taking notes. The VA has built a mobile app. I am working with the VA to make the app easy to use so it will best meet the needs of Veterans like you. 
+
+- Right now, we are working on building the app. We're still in the midst of working on the project, so what you'll see today is a prototype. There will be things that might not look right, are broken, or are not working yet, and one of our goals in speaking with you today is to understand what isn't working and what we need to improve.  
+- Since our app is still in progress, it's not yet in the app store where you might typically download a mobile app. So to share the app with you today, I will send you a file here on Zoom, and ask you to manually install the app directly onto your phone. I don't expect that you have done this before, and I can walk you through each step together via screen share to get the app up and running.  
+
+Do you have any questions so far?
+
+- Once the app is up and running on your phone, I will ask you to sign in using your own DS Logon, My HealtheVet, or ID.me username and password. Set up of the app and sign will probaby take awhile, and I expect set up and sign in to take most of our time, and I appreciate your patience working through these things with me in advance. 
+- If at any point we are hitting road blocks during the set up and sign in process, I have the app on my phone, and we can look at it from my phone together.
+
+Does this all sound ok so far?
+
 
 Before we start, there are a few things I want to mention:
 - Our conversation should take a little under an hour.
@@ -22,9 +33,12 @@ First, I’d like to know how you joined the meeting today. What device are you 
 
 #### Step 2 - Start screen share
 Now I’m going to ask you to start sharing your screen with me via Zoom. When you are inside the Zoom app on your phone, you'll see a few buttons at the bottom of the screen. In the middle, there should be a big green button labeled Share Content. Do you see it? I'd like you to share your screen with me! I can walk you through what to do:
-Tap on the arrow that says "Share content". 
+Tap on the arrow that says "Share".
 - A menu should come up with options of what to share - please hit "Screen".
-- You should be prompted with an option to select what you'd like to share - please select "Zoom" and then "Screen". Then select "Start Broadcast".
+- You should be prompted with an option to select what you'd like to share - please select "Zoom". You may see a message asking if you'd like to start recording or casting with Zoom. You are seeing this because I am recording the meeting. If you are comfortable with your screen being recorded, please hit "Start now". 
+- Do you see a message asking if you would like to allow Zoom to display over other apps?
+  - If yes, please select "Allow Zoom to display over other apps"
+- The next thing you should see is a button for "Start Broadcast".
 - If you see any additional prompts please read them aloud and I will help.
 - Ok, tap anywhere on the screen to go back to the Zoom application.
 
