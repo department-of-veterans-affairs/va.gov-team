@@ -64,7 +64,7 @@
   - ability to add a new allergy
   - links to educational material on the allergies (currently links to Medline Plus)
 - Other Allergies UI Examples
-  - [Apple Health]()
+  - [Apple Health](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/health-record/references/Apple-Health/Allergies.png)
 
 ## Immunizations
 - Current features/data displayed in MyHealtheVet (as noted by navigating across the site)
