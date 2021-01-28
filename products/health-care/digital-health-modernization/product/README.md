@@ -88,6 +88,7 @@ Only surface big problems here. Risks in order of @aryeh-usds's judgement of sev
 
 ### Usability
 - Major concern on the Clinician side. We know little of their world or how changes might affect them. Ultimately Veterans get value from this tech stack because it connects them with Clinicians. This is a big piece of the puzzle we should explore.
+- Are there known statutory, regulatory, policy and / or guidance-based reasons transactional notifications (ex., you have a new secure emssage) must be opt-in instead of opt-out? (They are currently opt-in)
 
 ## Proposed Metrics
 Quarter-baked. 
