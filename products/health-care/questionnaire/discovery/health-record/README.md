@@ -48,6 +48,7 @@
 - Some MHV analytics ([from 2016 report though](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/vets-prescriptions/research/rx-refills-discovery-final-deck.pptx))
   - Within Prescriptions, the Refill Prescription page accounts for nearly 80% of traffic. The remaining traffic goes to prescription tracking (2.1%), prescription history (11%) and Meds, OTCs, Herbs & Supplements (0.3%)
 - [Old design inspirations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/vets-prescriptions/research/inspiration.md) (from around 2016)
+- Society for Hospital Medicine's Guidelines for getting the Best Possible Medication History (BPMH)
 
 ## Allergies
 - Current features/data displayed in MyHealtheVet (as noted by navigating across the site)
