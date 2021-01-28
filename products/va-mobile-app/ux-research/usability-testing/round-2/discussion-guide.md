@@ -44,12 +44,16 @@ Tap on the arrow that says "Share".
 Great, now I can see your phone screen! Thank you for your patience in figuring this out with me so we can look at the VA app together today. 
 
 #### Step 3 - Set up prototype app on Android
-Now we're going to install the VA mobile app on your phone. It takes a few steps. I'm going to send you a link to a file in the Zoom chat will install the app. Does that sound ok to you? 
+Now we're going to install the VA mobile app on your phone. Does that sound ok to you? 
 
-- Good. Down at the bottom of Zoom you should see a speech bubble with the word Participants and a red number 1. Tap on that to open the chat.
+As I mentioned, this is an unofficial way to test a prototype of an app, so thank you in advance for your patience getting set up -- it takes a few steps. 
+
+Alright, I just send you a link in the Zoom chat.
+- To get to chat, please return to the Zoom app. In the lower right you should see a speech bubble with the word Participants and a red number 1. Tap on that to open the chat.
 - Great. Tap on the "Download" button to download the file.
+  - The file cannot be scanned for viruses, because it is too large. I can assure you it is safe to select "Download anyway" and proceed with downloading the file. Are you comfortable doing so?
 - Once the file has downloaded to your phone (this might take a few minutes), open it and select Install. 
-- You may need to change your phone’s security settings to allow the app to successfully install. Turn on Allow from this source to allow installation. I also want to note that this is not something we would normally recommend you do. But because we're doing a guided walkthrough with you and will uninstall the app at the end you can trust this process and that it is necessary. If you don't want to change your settings for this app I understand and that is ok. 
+  - You may need to change your phone’s security settings to allow the app to successfully install. Turn on "Allow from this source" to allow installation. I would like to note that this is not something we would normally recommend you do. But because we're doing a guided walkthrough with you and will uninstall the app at the end you can trust this process and that it is necessary. If you don't want to change your settings for this app I understand and that is ok. Are you comfortable allowing this file to download?
 - Now it's installed. You should see it where you access your phone's apps. It will be labeled VA Mobile with an Android icon.
 
 Great. Thank you for bearing with me on getting everything up and running. Now we're really ready to begin!
@@ -62,20 +66,20 @@ Before we dive into the app, I’d love to want to learn more about you.
 Thank you for sharing that, I think we’re ready to get started. Can you navigate to the VA app?
 
 ## Sign in (15 minutes)
-Next, I am going to ask you to process with signing into the VA mobile app using your own username and password. When we get to the point where you need to enter your password, I will ask you to stop the screen share to protect your privacy. Are you comfortable sharing your screen until we get to that point? 
-
-Thank you. 
-
-As we click through together, I will ask you to stop and share your feedback about what you see. 
+Next, I will ask you to process with signing into the VA mobile app using your own username and password. 
+- When we get to the point where you need to enter your password, I will ask you to stop the screen share to protect your privacy. Are you comfortable sharing your screen until we get to that point? 
+- Signing in will take a couple steps, and I'd like to go through them slowly together -- I will ask you to stop and share your feedback at a couple points while you are signing in. Does that sound ok?
 
 ### 1. App home screen
+- Great - to begin signing in, where would you click?
 
 **Things to watch for and follow up on**
 - Does the participant stumble navigating to the Access VA page from the app home screen?
+- Does the participant react to the other featuers accessible from the home screen (Facility Locator, Veterans Crisis Line)? 
 - Is participant using WiFi or cellular data?
 
 ### 2. LOA Gating Screen
-- Can you take a minute to read what you see here? Please take as much time as you need.
+Please take a minute to read what you see here -- as much time as you need.
 - What do you think about the message you see here?
 - Do you have any questions about what you see here?
 
@@ -86,13 +90,15 @@ As we click through together, I will ask you to stop and share your feedback abo
 
 ### 3. Sign In Page
 - Of the three options listed here, what do you use to sign into VA websites?
+- To continue signing in, where would you click?
 
 **Things to watch for and follow up on**
 - Does the participant stumble navigating around the Access VA page to get to their credential provider?
-- Does the participant express confusion or frustration at anything specific on this page (ex: a line of text, a button, the modal)? What?
+- Does the participant express confusion or frustration at anything specific on this page (ex: a line of text, a button)? What?
+- Does the participant stumble at the security redirect modal?
 
 ### 4. Sign In 
-Now that you are at the point to enter your password, please stop sharing your screen momentarily to protect your privacy - tapping the arrow button in the bottom left of your screen should bring up an option to stop sharing your screen. Please let me know when you have finished entering your password, and I can walk you through resharing your screen. 
+Now that you are at the point to enter your password, please stop sharing your screen momentarily to protect your privacy - tapping the arrow button in the bottom left of your screen should bring up an option to stop sharing your screen. Please let me know when you have finished entering your password, and I can walk you through resharing your screen once again.  
 
 **Sign In: Things to watch for and follow up on**
 - Does the participant stumble with their credential provider’s sign in flow?
@@ -105,22 +111,69 @@ Now that you are at the point to enter your password, please stop sharing your s
 - Do you have any questions about what you see here?
 
 **Biometric opt in: Things to watch for and follow up on**
-- If the participant is served up the biometric opt in screen, do they understand it? Do they opt in? Is anything confusing/unclear about it?
+- If the participant is served up the biometric opt in screen, do they understand it? Is anything confusing/unclear about it?
+  - Do they opt in? 
 - Does the participant say anything positive or negative about the biometric opt in?
 
 ### Prompts
 - [If the participant runs into a problem] What do you do when you run into a sign in issue like this?  
 
+Thank you for your patience in navigating through sign in with me. Your feedback and input is so valuable to us as continue building the VA mobile app. 
+
+I'd like to take a pause here -- before we go further into talking about what is in the app, do you have any further thoughts about signing in?
+
 
 ## Feature exploration (8-10 minutes)
-Alright, now that we are in the app, I’d like to ask you to visit some sections of the app to see what you think about them. 
 
-#### Home
+Alright, now that we are in the app, the first thing I'd like to ask you to do is take a minute to look at the home screen, but don't click on anything yet. 
+
+### Home
 Please take a minute to look at the home screen, but don’t click on anything yet. 
 - What is your first impression about what you see here?
 - What questions do you have about what you see here?
 
-Next, I'd like you to imagine you navigate to your Profile. 
+Now, you are in control -- I'm going to step back a bit and let you drive. Please take a couple of minutes to explore the app, going anywhere you'd like to go. As you do so, please talk out loud - I would love to hear your thoughts and questions as you explore the app. 
+
+### General prompts
+- What do you think about what you see?
+- What questions do you have about what you see?
+- Is anything confusing or unclear?
+- Does it feel like anything is missing to you?
+
+### Things to watch for & follow up on
+- Where does the participant go? Are they looking for anything specific?
+- Does the participant stumble while navigating the app? Where?
+
+
+## Wrap Up (5 minutes)
+- Would you describe this app as being useful to you?
+  - Please describe how the app useful to you. What’s useful about it?
+  - On a scale of 1 to 5, 1 being not useful at all, 5 being most useful, what would you rate this app?
+- In what circumstances would you find this app useful?
+  - Can you give me a scenario in which this app would be useful? (For example at work, in the car, on the couch, etc.)
+- Would you recommend this app to your friends (or fellow Veterans)? 
+  - Can you pretend I’m a friend (or fellow Veteran) and you’re recommend the app to me? Why are you recommending it? What would you say? 
+- Let's say the app I’ve shown you today hits the app stores tomorrow, with exactly what you see here, but you could add 1 more thing - what would you add?
+  - Why?
+
+## Remove prototype app (2 minutes)
+Now I’m going to walk you through how to uninstall the app. Since this is a prototype it's only meant for testing and won't be updated. I would hate for you to try to use it in the future and have it not work correctly. So let's remove it and you can decide to install the finished app when we launch it in the Google Play store.
+
+- Go to where your apps are and find VA Mobile icon.
+- Hard press on icon and there will be the option to uninstall.
+- Tap on uninstall.
+
+## Close (2 minutes)
+That’s all the questions I have for you today. Do you have any last questions for me?
+
+We really appreciate you taking the time to share your thoughts with us. Your feedback is so helpful to us as we continue to work on VA’s mobile app and make sure it really works for Veterans like you. Enjoy the rest of your day!
+
+
+
+---
+
+
+## Back up questions about specific features (if there is time)
 
 ### Profile
 - When was the last time you visited your profile on VA.gov? What did you do there?
@@ -135,7 +188,6 @@ Please take a couple of minutes to scroll around and click around -- feel free t
 #### Things to watch for & follow up on
 - Where does the participant go? Are they looking for anything specific?
 - Does the participant stumble while navigating the Profile section? Where?
-
 
 ### Claims [if participant has data]
 - Can you navigate to where you would expect to see your claims or appeals? 
@@ -178,26 +230,3 @@ Let’s go back to the home screen.
 - What do you think about the COVID-19 resources you see here?
 - What questions do you have about what you see?
 - What else would you like to see?
-
-## Wrap Up (5 minutes)
-- Would you describe this app as being useful to you?
-  - Please describe how the app useful to you. What’s useful about it?
-  - On a scale of 1 to 5, 1 being not useful at all, 5 being most useful, what would you rate this app?
-- In what circumstances would you find this app useful?
-  - Can you give me a scenario in which this app would be useful? (For example at work, in the car, on the couch, etc.)
-- Would you recommend this app to your friends (or fellow Veterans)? 
-  - Can you pretend I’m a friend (or fellow Veteran) and you’re recommend the app to me? Why are you recommending it? What would you say? 
-- Let's say the app I’ve shown you today hits the app stores tomorrow, with exactly what you see here, but you could add 1 more thing - what would you add?
-  - Why?
-  
-### Remove prototype app (2 minutes)
-Now I’m going to walk you through how to uninstall the app. Since this is a prototype it's only meant for testing and won't be updated. I would hate for you to try to use it in the future and have it not work correctly. So let's remove it and you can decide to install the finished app when we launch it in the Google Play store.
-
-- Go to where your apps are and find VA Mobile icon.
-- Hard press on icon and there will be the option to uninstall.
-- Tap on uninstall.
-
-## Close (2 minutes)
-That’s all the questions I have for you today. Do you have any last questions for me?
-
-We really appreciate you taking the time to share your thoughts with us. Your feedback is so helpful to us as we continue to work on VA’s mobile app and make sure it really works for Veterans like you. Enjoy the rest of your day!
