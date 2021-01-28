@@ -63,7 +63,7 @@ Empower Veteran Facing Services teams to make holistic data-informed decisions f
     - Document where success metrics live and how to obtain them
     - Discover which success metrics are uncaptured
         - Determine a process for how to wrangle uncaptured metrics (or document any blockers)
-- Deploy and maintain the Product Success Tool
+- Deploy and maintain the dashboards
     - Aggregate relevent data from across different channels
     - Visualize product problems
     - Analyze data where appropriate
@@ -73,7 +73,6 @@ Empower Veteran Facing Services teams to make holistic data-informed decisions f
         - Work with other VSP teams to uphold data integrity
         - Decrease costs through efficient processes
     - Connect all relevant and available data to Domo
-- Determine appropriate ForeSee tracking questions and strategy
 - Respond to and publish one-off and recurring data reporting requests
 - Understand available VA.gov related data and answer questions or triage where appropriate
 
@@ -91,7 +90,7 @@ Empower Veteran Facing Services teams to make holistic data-informed decisions f
 - Implementation Specialist: _Jon Wehausen_
 - Implementation Specialist: _Brian Martin_
 - Reporting Specialist: _Ben McGrady_
-- Designer/UX Researcher: _Amy Cesal_
+- Designer/UX Researcher: _Mandy Massengill_
 ---
 
 ## How we work
