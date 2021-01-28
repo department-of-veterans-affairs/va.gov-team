@@ -24,12 +24,7 @@ This does not include research for Appeals projects, which is stored in differen
 - [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/research/all-mvp-workflows)
 - List of keywords: Veterans, Questionnaires, Upcoming appointment, Primary care, Health care, Usability testing, Text Messages, Email, Notifications 
 
-#### Nov 30- Dec 7th: Direct Deposit for Edu
-*Authenticated Experience, Lead Researcher: Jim Adams*
 
-- Number of participants: 5
-- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/usability-testing)
-- List of keywords: Direct Deposit, compensation, pension, benefits, education, change, update
 
 
 #### December 14-17: Keep Me Informed Usability Testing
@@ -59,6 +54,22 @@ This does not include research for Appeals projects, which is stored in differen
 -16 participants (4-8 therapists / social workers. 8-12 veterans) 
 
 - [Research folder](https://docs.google.com/document/d/1Ubm4_fD6y0S-CJ1UgQXuhiZ8-g2KupO7k9gtzRTYIV8/edit?usp=sharing)
+
+
+#### December 9-16 : Vet Center Product - Usability V1
+*Ad Hoc: VSA Facilities, Leyda Hughes*
+- 9 Veteran participants (2 Vet Center clients)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/veteran-usability-tests)
+- List of keywords: Vet Centers, mental health care, facility detail page, locations
+
+
+#### Nov 30- Dec 7th: Direct Deposit for Edu
+*Authenticated Experience, Lead Researcher: Jim Adams*
+
+- Number of participants: 5
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/edu-direct-deposit/design/usability-testing)
+- List of keywords: Direct Deposit, compensation, pension, benefits, education, change, update
+
 
 ### November 2020
 
