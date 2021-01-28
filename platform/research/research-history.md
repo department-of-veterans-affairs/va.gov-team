@@ -26,7 +26,6 @@ This does not include research for Appeals projects, which is stored in differen
 
 
 
-
 #### December 14-17: Keep Me Informed Usability Testing
 *Office of the CTO. Lead researcher: Lauryl Zenobi*
 
@@ -47,6 +46,12 @@ This does not include research for Appeals projects, which is stored in differen
 
 - Keywords: IRIS, contact us form, inquiry
 
+#### December 9-16 : Vet Center Product - Usability V1
+*Ad Hoc: VSA Facilities, Leyda Hughes*
+- 9 Veteran participants (2 Vet Center clients)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/veteran-usability-tests)
+- List of keywords: Vet Centers, mental health care, facility detail page, locations
+
 
 #### November 19 - December 15: 526 Usability test (PTSD flow)
 *GovernmentCIO, BAM 1. Lead researcher: Christian Valla
@@ -54,13 +59,6 @@ This does not include research for Appeals projects, which is stored in differen
 -16 participants (4-8 therapists / social workers. 8-12 veterans) 
 
 - [Research folder](https://docs.google.com/document/d/1Ubm4_fD6y0S-CJ1UgQXuhiZ8-g2KupO7k9gtzRTYIV8/edit?usp=sharing)
-
-
-#### December 9-16 : Vet Center Product - Usability V1
-*Ad Hoc: VSA Facilities, Leyda Hughes*
-- 9 Veteran participants (2 Vet Center clients)
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/veteran-usability-tests)
-- List of keywords: Vet Centers, mental health care, facility detail page, locations
 
 
 #### Nov 30- Dec 7th: Direct Deposit for Edu
