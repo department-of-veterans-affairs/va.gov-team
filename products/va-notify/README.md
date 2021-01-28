@@ -86,8 +86,8 @@ This is how we will track the business lines that are reaching out to us, their 
 ![](images/vaccine_info.png)
 ![](images/vaccine_confirmation.png)
 
-## Upcoming Features - *Coming Soon*
-
+## Upcoming Features
+Self Service Portal
 
 ## Find Out More
 Fill out this form [here](https://app.smartsheet.com/b/form/2fe7e01103d44ae58706e72e12647c08)
