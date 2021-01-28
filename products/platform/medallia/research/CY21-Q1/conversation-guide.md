@@ -120,21 +120,23 @@ As you’re performing this task, please talk us through your thoughts as you in
 *Send the link to the [Find VA Locations (Staging)](https://staging.va.gov/find-locations/) page*
 
 This is the same page as before, but with an alternate feedback button design.
-- Can you describe for me the differences between this button and the previous buttons?
-- Would you describe this button as better or worse than the previous buttons?
+- Can you describe for me the differences between this button and the previous button?
+- Would you describe this button as better or worse than the previous button?
 
 **Comparitive Ranking**
 
 *If Desktop (Rotate between versions, note taker log version tested with):*
+
 - Send the link to the [Button Design Comparison V1](https://www.figma.com/proto/VbrVZD0iBwXNhJCUhf7d4n/Button-Comparison?node-id=1%3A2&viewport=517%2C430%2C1&scaling=min-zoom&hotspot-hints=0&hide-ui=1)
 - Send the link to the [Button Design Comparison V2](https://www.figma.com/proto/6zdWWznaPq6NcU6miKHU3g/Button-Comparison-Desktop-V2?node-id=1%3A2&viewport=705%2C502%2C1&scaling=scale-down-width&hotspot-hints=0&hide-ui=1)
 
-- Can you rank these buttons in order from best design to worst design?
+- Which of these two buttons are you most likely to click on?
 
 *If Mobile:*
+
 - Send the link to the [Button Design Comparison - Mobile](https://www.figma.com/proto/pXaGgODyNknsvWGZz3gVVv/Untitled?node-id=2%3A4&viewport=1006%2C389%2C1&scaling=scale-down-width&hotspot-hints=0&hide-ui=1)
 
-- Can you rank these buttons in order from best design to worst design?
+- You can swipe left & right to compare the two different button options. Which of these two buttons are you most likely to click on?
 
 ## Post-Task Interview - 5 minutes
 
