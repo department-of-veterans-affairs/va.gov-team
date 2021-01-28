@@ -51,7 +51,7 @@ Now we're going to install the VA mobile app on your phone. It takes a few steps
 - Great. Tap on the "Download" button to download the file.
 - Once the file has downloaded to your phone (this might take a few minutes), open it and select Install. 
 - You may need to change your phone’s security settings to allow the app to successfully install. Turn on Allow from this source to allow installation. I also want to note that this is not something we would normally recommend you do. But because we're doing a guided walkthrough with you and will uninstall the app at the end you can trust this process and that it is necessary. If you don't want to change your settings for this app I understand and that is ok. 
-- Now it's installed. You should see it on your phone's home screen labeled VA Mobile with an Android icon.
+- Now it's installed. You should see it where you access your phone's apps. It will be labeled VA Mobile with an Android icon.
 
 Great. Thank you for bearing with me on getting everything up and running. Now we're really ready to begin!
 
@@ -73,7 +73,7 @@ Alright, at this time, I am going to ask you to process with signing into the VA
 - Does the participant express confusion or frustration at anything specific (ex: a line of text, a button, the modal)? What?
 - If the participant is served up the biometric opt in screen, do they understand it? Do they opt in? Is anything confusing/unclear about it?
 - Does the participant say anything positive or negative about the biometric opt in?
-- Is participant using WiFi or cellular data.
+- Is participant using WiFi or cellular data and what type of device they are on.
 
 #### Prompts
 - [If the participant runs into a problem] What do you do when you run into a sign in issue like this?  
