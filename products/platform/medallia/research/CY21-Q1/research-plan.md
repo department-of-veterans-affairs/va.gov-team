@@ -22,7 +22,7 @@ Veterans and their families need a trustworthy way to provide feedback for the d
 ### Hypothesis
 
 - Veterans will be able to find the proposed button design quicker and easier than the standard Medallia button design.
-- Veterans will be able to successfully find the feedback buttons on mobile, but will be less likely to complete the A11 survey on mobile.
+- The mobile feedback button will perform more successfully than the desktop, due to its proximity to the page's main content.
 
 
 ## Method
@@ -30,23 +30,23 @@ Veterans and their families need a trustworthy way to provide feedback for the d
 We will conduct remote moderated usability testing and directed interviews via Zoom using the Perigean contract. These methods will help us:
 
 - Gather quantitative data on usability of the survey through the usability testing and some of the directed interview questions
-  - Discern whether or not the form is easy to locate. This will be measured through calculating button findability, success rate and time to find.
-  - Discern whether or not the form is sufficient regarding the feedback users aim to submit
-  - Discern expectations on how the forms are processed and handled
+  - Discern whether or not the form is easy to locate. This will be measured through calculating button findability success rate and time to find.
 - Gather qualitative data on thoughts and impressions via the directed interviews
+  - Discern whether or not the form is sufficient regarding the feedback users aim to submit
   - Understand veteran priorities & motivations for submitting feedback
 
-We will be utilizing a digitial prototyping program (either InVision or Figma) to perform the usaibility tests over Zoom.
+We will be utilizing the digitial prototyping program Figma to perform the usaibility tests over Zoom.
 
 ## Participants and Recruitment
 
-We are seeking to perform this test with 15 participants
+We are seeking to perform this test with 12 participants
 
 **Must have for participants**
 
 - Users who have visited VA.gov previously
-- Roughly half the participants will be tested using a mobile prototype. Therefore, seven participants who answer *yes* to:
+- We are seeking to peform this usability test with 5 mobile participants. Therefore, five participants who answer *yes* to:
   - Do you prefer to use your mobile device when visiting VA.gov?
+  - *Note: if this is too strict of a qualifier, we can ask "Have you visited VA.gov on your mobile device previously?"*
 
 **Good to have for participants**
 
