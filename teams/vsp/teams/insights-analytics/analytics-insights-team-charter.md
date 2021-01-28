@@ -51,6 +51,10 @@ Empower Veteran Facing Services teams to make holistic data-informed decisions f
     - Work with teams' product managers and front end developers to implement Google Tag Manager before launches
     - QA Google Tag Manager for quality analytics before launches
     - Work with teams' product managers and front end developers to implement ForeSee surveys before launches
+- Maintain analytics
+    - Develop, scale, and influence analytics tracking quality
+    - Keep analytics and data clean
+- Ensure our analytics tracking is secure
 - Support KPI Setting and Tracking across VFS and VSP teams
     - Host KPI setting workshops with teams
     - Check in quarterly with teams to support KPI tracking
@@ -58,7 +62,7 @@ Empower Veteran Facing Services teams to make holistic data-informed decisions f
     - Provide deep dive sessions with Product Managers
     - Provide KPI and OKR resource decks
     - Determine additional KPI or metrics coaching or workshop opportunities
-- Maintain repository of relevant VFS data
+- Maintain repository of relevant VFS & Platform data
     - Determine success metrics for VFS products
     - Document where success metrics live and how to obtain them
     - Discover which success metrics are uncaptured
