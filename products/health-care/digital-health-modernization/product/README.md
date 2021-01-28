@@ -1,10 +1,11 @@
 # Product TL; DR
 - This document reflects the evolving understanding of the product strategy lead (@aryeh-usds currently).
-- It will be updated weekly or more through the course of discovery.
 - It values readability over comprehensive explanations (ex., we start with constraints without explaining why comprehensively).
-- It assumes we begin now and "end" when secure messaging, prescription refill, records download and appointments are all discoverable, accessible and usable on a modern VA-owned platform. 
 - It is intended as the first "phase" of creating a new health product which is expected to exist indefinitely and will continue to iterate. 
 - If you see something, say something! It's meant to be a conversation-starter.
+
+## Team Mission
+- Define, and manage / execute, first steps to replatform My HealtheVet onto VA.gov and / or VA's flagship mobile app
 
 ## Constraints
 ### OCTO Priorities
