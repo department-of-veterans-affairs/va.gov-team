@@ -48,7 +48,7 @@ This does not include research for Appeals projects, which is stored in differen
 
 #### December 9-16 : Vet Center Product - Usability V1
 *VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
-- 9 Veteran participants (2 Vet Center clients)
+- Number of participants: 9 (All Veterans, 2 Vet Center clients)
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/veteran-usability-tests)
 - List of keywords: Vet Centers, mental health care, facility detail page, locations
 
