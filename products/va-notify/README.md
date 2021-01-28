@@ -73,7 +73,7 @@ Slack - #va-notify
   - Enter your Project Manager and Business Owner
 
 ## FAQs
-* Do you have any guidelines on sending emails vs text messages? We do!  Look [here](#notification-guide.md#is-a-notification-needed)
+* Do you have any guidelines on sending emails vs text messages? We do!  Look [here](../notification-guide.md#is-a-notification-needed)
 * Does VANotify support variables in emails?  Yes - There is an an example [below](#successes)
 * What about hyperlinks? Yes, VANotify supports hyperlinks.  See an example [below](#successes)
 * What's not supported? Currently VANotify does not support: cc, bcc, images or attachments for email
