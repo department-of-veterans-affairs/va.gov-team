@@ -29,7 +29,7 @@
 ## Thursday, January, 28, 2021
  
 ### Campaign landing page MVP 1.0
-- FE Team focused on FE Styling this Sprint.  Anticipate be complete this sprint (pending Transformer impact).
+- FE Team focused on FE Styling this Sprint.  Anticipate completion between this sprint and next (pending Transformer impact).
 - Feedback and Updates from Stakeholder meeting (John/Randi)
 - Analytics Team roundtable review - Scheduled for Tuesday 3PM EST next week.  
 - In-Take Request (prehaps use John's CLP Guide as a baseline). 
