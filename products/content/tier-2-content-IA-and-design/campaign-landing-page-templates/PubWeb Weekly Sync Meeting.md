@@ -31,7 +31,7 @@
 ### Campaign landing page MVP 1.0
 - FE Team focused on FE Styling this Sprint.  Anticipate be complete this sprint (pending Transformer impact).
 - Feedback and Updates from Stakeholder meeting (John/Randi)
-- Analytics Team roundtable review - Scheduled for Tuesday next week.  
+- Analytics Team roundtable review - Scheduled for Tuesday 3PM EST next week.  
 - In-Take Request (prehaps use John's CLP Guide as a baseline). 
 - Discussion/Questions? 
 
