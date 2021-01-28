@@ -326,9 +326,7 @@ Back to [Table of Contents](#table-of-contents)
 ---
 #### 996
 
-**Open issues**
-
-- [[CI/CD]: Review coverage of accessibility checks in 996 end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7316)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+**No open issues**
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -439,7 +437,6 @@ Back to [Table of Contents](#table-of-contents)
 **Open issues**
 
 - [508-defect-2 Fast Follow! [COGNITION]: Downloaded files SHOULD be consistent with what the user clicked to download - #12184](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12184)<br/>**Staging** | **Opened:** August 6, 2020 | **Severity:** _508-defect-2 Fast Follow - **Serious**_
-- [508-defect-2 [HEADING, COGNITION]: Heading levels SHOULD only increase by one - #12430](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12430)<br/>**Staging** | **Opened:** August 12, 2020 | **Severity:** _508-defect-2 - **Serious**_
   
 Back to [Table of Contents](#table-of-contents)
 
@@ -470,9 +467,7 @@ Back to [Table of Contents](#table-of-contents)
 ---
 ### VSA Caregivers
 
-**Open issues**
-
-- [508-defect-2 Fast Follow! [DOCUMENTS]: PDFs MUST be accessibility compliant - #12918](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12918)<br/>**Production** | **Opened:** August 26, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+**No open issues**
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -503,7 +498,6 @@ Back to [Table of Contents](#table-of-contents)
 - [[COGNITION]: Non-selected or opted-into situations SHOULD include confirmation or not appear on review pages - #12996](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12996)<br/>**Staging** | **Opened:** August 28, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [[COGNITION]: Remove buttons SHOULD have accessible labels when editing inline data on Review screen - #12999](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12999)<br/>**Staging** | **Opened:** August 28, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [[KEYBOARAD]: Focus SHOULD be restored to the Add Another button when users press Remove when editing in place - #13007](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13007)<br/>**Staging** | **Opened:** August 28, 2020 | **Severity:** 508-defect-2 — **_Serious_**
-- [[COGNITION]: Labels SHOULD be explicit and clear for children who have left the household in the Review page - #13016](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13016)<br/>**Staging** | **Opened:** August 28, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 - [[DESIGN]: CONSIDER re-ordering the confirmation page to support assistive tech better - #13019](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13019)<br/>**Staging** | **Opened:** August 28, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
 
 Back to [Table of Contents](#table-of-contents)
@@ -527,10 +521,7 @@ Back to [Table of Contents](#table-of-contents)
 #### View Payments
 
 **Audit status:** _[Staging review started December 7, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17007)_<br/>
-**Open issues**
-
-- [508-defect-2 [COGNITION, SEMANTIC MARKUP] The link text MUST make sense in context, and should make sense when taken out of context - #17070](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17070)<br/>**Staging** | **Opened:** December 8, 2020 | **Severity:** 508-defect-2 — **_Serious_**
-- [508-defect-2 [SCREENREADER, COGNITION]: Table labels SHOULD be concise and descriptions SHOULD use aria-describedby - #17149](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17149)<br/>**Staging** | **Opened:** December 9, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+**No open issues**
 
 Back to [Table of Contents](#table-of-contents)
 
