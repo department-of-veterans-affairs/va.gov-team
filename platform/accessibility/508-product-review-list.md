@@ -1031,7 +1031,6 @@ Back to [Table of Contents](#table-of-contents)
 * [508-defect-2 [SCREENREADER]: Screenreader SHOULD announce the accurate number of items - #12060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12060)<br/>**Staging** | **Opened:** August 4, 2020 | **Severity:** _508-defect-2 - **Serious**_
 * [508-defect-2 [SEMANTIC MARKUP, SCREENREADER]: Search form SHOULD use semantic markup - #12108](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12108)<br/>**Staging** | **Opened:** August 5, 2020 | **Severity:** _508-defect-2 - **Serious**_
 * [#9374 508-defect-3 [FOCUS MANAGEMENT]: Focus order SHOULD flow in the logical reading order](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9374)<br/>**Staging** | **Opened:** May 20, 2020 | **Severity:** _508-defect-3 - **Minor**_
-* [#8791 [COGNITION, SEMANTIC MARKUP]: individual search items SHOULD read semantically](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8791)<br/>**Staging** | **Opened:** May 5, 2020 | **Severity:** _508-defect-3 - **Minor**_
 * [508-defect-3 [SCREENREADER]: The same terms SHOULD be used for non-sighted and sighted users - #12547](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12547)<br/>**Staging** | **Opened:** August 17, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
 
 Back to [Table of Contents](#table-of-contents)
@@ -1152,8 +1151,6 @@ Back to [Table of Contents](#table-of-contents)
 **Audit Status:** _Staging review by VSA on January 18, 2021_<br/>
 **Open issues**
 
-- [508-defect-1 ❗ Launchblocker [SCREENREADER, COGNITION]: Language of page MUST be set to ES - 18626](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18626)<br/>**Opened:** January 18, 2021 | **Severity:** 508-defect-1 - **_Critical_**
-- [508-defect-1 ❗ Launchblocker [SCREENREADER, COGNITION]: Language of parts in English MUST be set to EN - 18698](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18698)<br/>**Opened:** January 18, 2021 | **Severity:** 508-defect-1 - **_Critical_**
 - [508-defect-2 [COGNITION]: Heading level should only increase by one - 18627](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18627)<br/>**Opened:** January 18, 2021 | **Severity:** 508-defect-2 - **_Serious_**
 - [508-defect-2 [SCREENREADER]: On this page navigation should use <nav> instead of <section> - 18628](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18628)<br/>**Opened:** January 18, 2021 | **Severity:** 508-defect-2 - **_Serious_**
 - [508-defect-2 [SCREENREADER, KEYBOARD]: Complementary information should be contained in an aside - 18694](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18694)<br/>**Opened:** January 18, 2021 | **Severity:** 508-defect-2 - **_Serious_**
