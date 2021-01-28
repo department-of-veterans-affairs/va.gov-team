@@ -20,6 +20,8 @@
    
 <details><summary>Relevant CLP product backlogs and docs</summary>
   https://docs.google.com/document/d/1euEecCA615iI2vexnMnQB4l_aLk1irxOOV7_tpPY6gk/edit#
+  
+  https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/status/va-stakeholders-insights.md
 
 
 </summary>
@@ -36,6 +38,10 @@
 - Discussion/Questions? 
 
 Notes: 
+Analytics: PDF Automated report from GA.  Walk through how each request might need to be set.  @john to bring this up with stakeholders and how they would like to see this moving forward. 
+Stakeholder meetings: [Feedback Doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/status/va-stakeholders-insights.md)
+CLP Guide - Few weeks to build (Draft) for build.  Build out a Type form for submission [explore tool - Google form] to kick start the on-boarding process and kickoff for a campaign page request.
+CMS - Working video publish date (Working this into workflow - will also be used for R&S). Decision Point - publish date will be "When this video was uploaded to YouTube".  Should match the same data that is showing on YouTube.  (Send to Kevin Walsh)
 
 
 ## Friday, January, 14, 2021
