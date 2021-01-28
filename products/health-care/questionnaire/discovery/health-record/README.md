@@ -23,14 +23,14 @@
 ## Medications
 - [Past Rx Refill research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills)
 - Feature ideas from [past user research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/mhv-api/2016-06-03-technical-validation.md)/ [previous data asks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/mhv-api/missing-data-that-we-need.md)/ shown in old wireframes [set 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/mhv-api/doc-images/detail.png) and [set 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/vets-prescriptions/research/mhv-prototype/redesign-prototype-pharmacy-1.pdf)/ our team's ideas:
-  - photos of the pills
+  - photos/other illustration of the medication (inhaler versus pill, what color and shape)
   - self-entered data
   - medication instructions
   - facility details (locations and phone number)
   - start/stop dates (could it be shown as a timeline)
   - side effects
   - warnings
-  - drug interactions
+  - drug interactions (additional interactions, such as alcohol or grapefruit juice)
   - trade name (there was a note that they were looking into if they really needed this)
   - dose/frequency
   - pharmacy phone
@@ -41,6 +41,7 @@
   - medication type (such as VA prescription)
   - What diagnosis is this addressing or helping with? Why am I taking this? Review by condition?
   - Connection to formulary
+  - Idea for mobile: notification reminder on when next pill is due to be taken, tracking medication adherence
 - All the ways that a Veteran can [refill their prescription as of 8/9/2017](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/vets-prescriptions/research/ways-to-refill-rx-at-va.md). 
    - This might help us think through all the medication touchpoints that currently exist and see if there is any impact on our feature. Will need updated.
   - They were envisioning pictures of medications.
@@ -58,21 +59,24 @@
   - Allergy Name (required)
   - Date (required. is the date the onset of the allergy? label isn't super descriptive)
   - severity
-  - diagnosed (there is a dropdown with option)
-  - reaction
+  - diagnosed (there is a dropdown with options)
+  - reaction (could note when it was clinically observed - if it was clinically observed)
   - comments
-  - ability to add a new allergy
+  - clinical risk (low risk, etc)
+  - reported by (doctor's name or patient)
+  - ability to add a new allergy (patient reported data)
   - links to educational material on the allergies (currently links to Medline Plus)
 
 ## Immunizations
 - Current features/data displayed in MyHealtheVet (as noted by navigating across the site)
   - Immunization name
   - date received (think about how to show immunizations that Veterans receive multiple times like Influenza)
-  - reaction (currently checkboxes with options
-  - method (injection, inhalant, by mouth)
+  - reaction (currently MyHealtheVet has checkboxes with options)
+  - method (injection, inhalant, by mouth) - Apple Health calls this the route
+  - where on the body the injection was received (left deltoid)
   - other sign/symptom (currently dropdown list)
   - comments
-  - ability to add a new immunization
+  - ability to add a new immunization (patient reported data)
   - link to VA page on recommended screenings and immunizations for an adult
   - link to CDC traveler's health page
 
