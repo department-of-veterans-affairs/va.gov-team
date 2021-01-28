@@ -88,6 +88,7 @@ Empower Veteran Facing Services teams to make holistic data-informed decisions f
 ### Team Members:
 - DEPO Platform Product Leads: _Rachael Roueche_
 - Product Manager: _Joanne Esteban_
+- Engineering Lead - Data Warehouse Engineer: _Jason Cavnar_
 - Implementation Specialist: _Jon Wehausen_
 - Implementation Specialist: _Brian Martin_
 - Reporting Specialist: _Ben McGrady_
@@ -101,29 +102,31 @@ Empower Veteran Facing Services teams to make holistic data-informed decisions f
 #### Stand-up
 Check in on people and product progress
 
-- Zoom M, T, F @ 11:30am ET
+- Zoom M, F @ 1pm ET
     - 15-30 min
-- Slack Up Th @ 10:00am ET
-- 3 Question Format (based on team objectives): What did I accomplish yesterday? What will I do today? Any impediments?
+- Slack Up T, Th @ 1pm ET
+- 3 Question Format (based on team objectives): What did I accomplish yesterday? What will I do today? Any impediments, dependencies, blockers?
 
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
 
-- 1st Wednesday of every sprint @ 10:30am ET
-- 1 hour
+- 1st Wednesday of every sprint @ 1:45pm ET
+- 45 minutes
 
 #### Retro
 Review accomplishments from prior sprint, what went well, what can be improvemed, what questions people have, and any action items
 
-- 1st Wednesday of every sprint @ 10:00am ET
-- 30 min
+- 1st Wednesday of every sprint @ 1pm ET
+- 45 minutes
 
 #### Grooming
 Assess and update workload for remainder of sprint
 
-- 2nd Wednesday of every sprint @ 10:00am ET
-- 1 hour
-- assess ideas for upcoming sprint
+- 2nd Wednesday of every sprint @ 1:15pm ET
+- 45 minutes
+- review customer support tickets
+- review current sprint objectives
+- stretch: assess ideas for upcoming sprint
 
 #### Issue Etiquette
 For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
@@ -133,7 +136,7 @@ For an issue to go into the Current Sprint column, it must have the following (c
 - Description with Background and Acceptance Criteria
 - Labels: `Analytics-Insights`
 - User Story (if applicable), Goal, and Acceptance Criteria
-- Nested in an Epic/Super Epic
+- Nested in an Epic/Initiative Epic
 
 All work should be validated as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
 
@@ -229,7 +232,7 @@ GitHub is the single source of truth. Every body of work should be documented fo
     - [Overview recording](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/resources-google-analytics-walkthrough.md)
     - Access - ping us on Slack, [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)
 - [Zenhub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_onboarding.pdf)
-- Product Success Tool
+- [Analytics Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/AnalyticsPlaybook.md)
 
 ---
 #### Grey Areas & Questions
