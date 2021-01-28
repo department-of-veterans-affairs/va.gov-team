@@ -32,14 +32,13 @@ First, I’d like to know how you joined the meeting today. What device are you 
 - If desktop or tablet: Do you have access to your mobile device, and can you join the Zoom meeting from there instead? 
 
 #### Step 2 - Start screen share
-Now I’m going to ask you to start sharing your screen with me via Zoom. When you are inside the Zoom app on your phone, you'll see a few buttons at the bottom of the screen. In the middle, there should be a big green button labeled Share Content. Do you see it? I'd like you to share your screen with me! I can walk you through what to do:
+Now I’m going to ask you to start sharing your screen with me via Zoom. When you are inside the Zoom app on your phone, you'll see a few buttons at the bottom of the screen. In the middle, there should be a big green button labeled Share Content. Do you see it? I'd like you to share your screen with me! I can walk you through what to do. If you see any additional prompts different than what I am describing, please read them aloud and I will help: 
 Tap on the arrow that says "Share".
 - A menu should come up with options of what to share - please hit "Screen".
-- You should be prompted with an option to select what you'd like to share - please select "Zoom". You may see a message asking if you'd like to start recording or casting with Zoom. You are seeing this because I am recording the meeting. If you are comfortable with your screen being recorded, please hit "Start now". 
+- You should be prompted with an option to select what you'd like to share - please select "Zoom". You may see a message asking if you'd like to start recording or casting with Zoom. If you are comfortable with your screen being recorded, please hit "Start now". 
 - Do you see a message asking if you would like to allow Zoom to display over other apps?
   - If yes, please select "Allow Zoom to display over other apps"
 - The next thing you should see is a button for "Start Broadcast".
-- If you see any additional prompts please read them aloud and I will help.
 - Ok, tap anywhere on the screen to go back to the Zoom application.
 
 Great, now I can see your phone screen! Thank you for your patience in figuring this out with me so we can look at the VA app together today. 
@@ -63,20 +62,55 @@ Before we dive into the app, I’d love to want to learn more about you.
 Thank you for sharing that, I think we’re ready to get started. Can you navigate to the VA app?
 
 ## Sign in (10 minutes)
-Alright, at this time, I am going to ask you to process with signing into the VA mobile app using your own username and password. Please take as much time as you need to sign in.
+Next, I am going to ask you to process with signing into the VA mobile app using your own username and password. When we get to the point where you need to enter your password, I will ask you to stop the screen share to protect your privacy. Are you comfortable sharing your screen until we get to that point? 
 
-#### Things to watch for & follow up on
+Thank you. 
+
+As we click through together, I will ask you to stop and share your feedback about what you see. 
+
+#### 1. App home screen
+
+**Things to watch for and follow up on**
 - Does the participant stumble navigating to the Access VA page from the app home screen?
+- Is participant using WiFi or cellular data?
+
+#### 2. LOA Gating Screen
+- Can you take a minute to read what you see here? Please take as much time as you need.
+- What do you think about the message you see here?
+- Do you have any questions about what you see here?
+
+**Things to watch for and follow up on**
+- Is the participant confused by this screen?
+- Do they interact with the accordion?
+- Are they able to find and use the button to move on to the next step?
+
+#### 3. Sign In Page
+- Of the three options listed here, what do you use to sign into VA websites?
+
+**Things to watch for and follow up on**
 - Does the participant stumble navigating around the Access VA page to get to their credential provider?
+- Does the participant express confusion or frustration at anything specific on this page (ex: a line of text, a button, the modal)? What?
+
+#### 4. Sign In 
+Now that you are at the point to enter your password, please stop sharing your screen momentarily to protect your privacy - tapping the arrow button in the bottom left of your screen should bring up an option to stop sharing your screen. Please let me know when you have finished entering your password, and I can walk you through resharing your screen. 
+
+**Sign In: Things to watch for and follow up on**
 - Does the participant stumble with their credential provider’s sign in flow?
+- Does the participant have 2FA? Are they able to successfully complete it?
 - Does the participant stumble getting back to the app once they’ve completed sign in?
-- Does the participant express confusion or frustration at anything specific (ex: a line of text, a button, the modal)? What?
+
+### 5. Biometric opt in 
+- Can you take a minute to read what you see here? Please take as much time as you need.
+- What do you think about the message you see here?
+- Do you have any questions about what you see here?
+
+**Biometric opt in: Things to watch for and follow up on**
 - If the participant is served up the biometric opt in screen, do they understand it? Do they opt in? Is anything confusing/unclear about it?
 - Does the participant say anything positive or negative about the biometric opt in?
-- Is participant using WiFi or cellular data and what type of device they are on.
 
 #### Prompts
 - [If the participant runs into a problem] What do you do when you run into a sign in issue like this?  
+
 
 ## Feature exploration (10 minutes)
 Alright, now that we are in the app, I’d like to ask you to visit some sections of the app to see what you think about them. 
@@ -86,7 +120,7 @@ Please take a minute to look at the home screen, but don’t click on anything y
 - What is your first impression about what you see here?
 - What questions do you have about what you see here?
 
-Where would you like to go next?
+Next, I'd like you to imagine you navigate to your Profile. 
 
 ### Profile
 - When was the last time you visited your profile on VA.gov? What did you do there?
