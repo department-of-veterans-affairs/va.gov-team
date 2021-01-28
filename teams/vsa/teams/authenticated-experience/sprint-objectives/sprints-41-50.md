@@ -48,6 +48,10 @@
 
 - Accessibility tests for staging review
 
+**BE**
+
+- Move direct deposit emails from GovDelivery > VANotify #19233
+
 ## Sprint 42 (2/24 - 3/9)
 
 ### My VA redesign
