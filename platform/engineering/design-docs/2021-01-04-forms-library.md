@@ -77,6 +77,7 @@ Sub-Modules](https://git-scm.com/book/en/v2/Git-Tools-Sub-Modules)._
 - React
 - TypeScript
 - [`api-extractor`](https://api-extractor.com/pages/overview/intro/)
+- React router
 
 The following sections outline the various parts of the systems. Heading
 descriptors include:
@@ -98,18 +99,85 @@ The default manager will be `ReduxManager` which will store state in Redux.
 - Setting and retrieving
   - User input
   - Validation errors
+    - This is important to prevent routing and submission if there are
+      validation errors
 - Storing the form schema as JSON schema
   - This will be optional
 
 #### Sub-module: Routing
-This submodule will be responsible for the user navigating through the form. In
-particular, it will:
+This sub-module will be responsible for the user navigating through a multi-page
+form. In particular, it will:
 - Create routes for each page
 - Render each page wrapped in the chrome appropriate for navigation
   - Form title, page title, progress bar, back / continue buttons, etc.
 - Prevent progress through the form if there are validation errors on the
   current page
   - As with all form state, the error state is retrieved from the state manager
+
+To accomplish this, there will be three primary components in the routing
+sub-module:
+- `Router`
+- `Chapter`
+- `Page`
+
+##### Component: `Router`
+**Purpose:**
+The `Router` is at the heart of the routing sub-module. It will hold the routes
+and components to render at each route.
+
+**Usage requirements:**
+_None_
+
+**Responsibilities:**
+1. Provide the `RouterContext` to its children
+    - `Page` and `Chapter` may use this context to get access to the routes
+      available, as may any custom components
+    - This may be used for directly modifying the routes at runtime by custom
+      components if needed
+      - Directly modifying the routes should be seen as an escape hatch for
+      engineers to use at their own risk
+1. [Pass an additional prop to its
+children](https://stackoverflow.com/questions/32370994/how-to-pass-props-to-this-props-children),
+`registerRoute`
+    - This will be a function which registers a component to render at a URL
+
+##### Component: `Chapter`
+**Purpose:**
+The **optional** `Chapter` component will be used to render the VA.gov "chrome"
+for multi-page forms which have multiple chapters. This "chrome" includes
+rendering the form title, current chapter name, and progress bar.
+
+**Usage requirements:**
+- `Chapter` may only be a child of `Router`
+- Its only children may be `Page`s
+- A `Chapter` must have children
+
+**Responsibilities:**
+- Passing an additional `registerRoute` prop to its children
+  - This will function as the `registerRoute` passed to `Chapter`, but the
+    component that will actually be registered will be wrapped in the `Chapter`
+    chrome as described in **Purpose**
+
+##### Component: `Page`
+**Purpose:**
+A `Page` is the required wrapper around form page contents.
+
+**Usage requirements:**
+A `Page` may be the child of either `Router` directly or `Chapter`.
+
+**Responsibilities:**
+- Register the page contents at a specified URL by calling the `registerRoute`
+  function passed to it from either `Chapter` or `Router`
+- Render the form navigation buttons "Back" and "Continue"
+- Prevent navigation if there are validation errors
+
+##### Functionality: Navigating
+The "Back" and "Continue" buttons will use the `RouterContext` described in
+[Component: `Router`](#component-router) to tell the `Router` to render the next
+or previous page.
+
+##### Functionality: Array pages
+**TODO:** Fill this in...
 
 #### Sub-module: Form page builder
 The form page builder sub-module will be composed of components and functions
