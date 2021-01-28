@@ -98,11 +98,13 @@ Provide a bulleted outline describing the required features of the product
 * [Linking to new online tool form equivalent](URL TBD)
 
 ### Product Analytics
-
-- [Google Analytics Dashboard - Post-2020 Redsign](https://analytics.google.com/analytics/web/#/dashboard/MHSfv0WxQySyKRB5IYyw1Q/a50123418w177519031p176188361/)
-- Google Analytics - Pre-2020 Redesign Historic Data
-- Google Analytics - Top Events for Find A VA Form
-- Domo Dashboard (TBD)
+   #### Dashboard
+   #### Custom Reports
+ 
+   *Pro-tip* - You can save a specific parameters (tab, dates, filters) of a Custom Report as a **Saved Report** within your own Google Analytics account by clicking the Save button in the top-right corner of any Custom Report.
+   |Metric | Report Name | Tab Name | GitHub Issue | GitHub Directory|
+   |Search Landing unique views|--|--|--|--|
+   |Search Landing unique views|--|--|--|--|
 
 ### Product Enhancements ###
 
