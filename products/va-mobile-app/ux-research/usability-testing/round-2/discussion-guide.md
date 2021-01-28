@@ -61,20 +61,20 @@ Before we dive into the app, I’d love to want to learn more about you.
 
 Thank you for sharing that, I think we’re ready to get started. Can you navigate to the VA app?
 
-## Sign in (10 minutes)
+## Sign in (15 minutes)
 Next, I am going to ask you to process with signing into the VA mobile app using your own username and password. When we get to the point where you need to enter your password, I will ask you to stop the screen share to protect your privacy. Are you comfortable sharing your screen until we get to that point? 
 
 Thank you. 
 
 As we click through together, I will ask you to stop and share your feedback about what you see. 
 
-#### 1. App home screen
+### 1. App home screen
 
 **Things to watch for and follow up on**
 - Does the participant stumble navigating to the Access VA page from the app home screen?
 - Is participant using WiFi or cellular data?
 
-#### 2. LOA Gating Screen
+### 2. LOA Gating Screen
 - Can you take a minute to read what you see here? Please take as much time as you need.
 - What do you think about the message you see here?
 - Do you have any questions about what you see here?
@@ -84,14 +84,14 @@ As we click through together, I will ask you to stop and share your feedback abo
 - Do they interact with the accordion?
 - Are they able to find and use the button to move on to the next step?
 
-#### 3. Sign In Page
+### 3. Sign In Page
 - Of the three options listed here, what do you use to sign into VA websites?
 
 **Things to watch for and follow up on**
 - Does the participant stumble navigating around the Access VA page to get to their credential provider?
 - Does the participant express confusion or frustration at anything specific on this page (ex: a line of text, a button, the modal)? What?
 
-#### 4. Sign In 
+### 4. Sign In 
 Now that you are at the point to enter your password, please stop sharing your screen momentarily to protect your privacy - tapping the arrow button in the bottom left of your screen should bring up an option to stop sharing your screen. Please let me know when you have finished entering your password, and I can walk you through resharing your screen. 
 
 **Sign In: Things to watch for and follow up on**
@@ -108,11 +108,11 @@ Now that you are at the point to enter your password, please stop sharing your s
 - If the participant is served up the biometric opt in screen, do they understand it? Do they opt in? Is anything confusing/unclear about it?
 - Does the participant say anything positive or negative about the biometric opt in?
 
-#### Prompts
+### Prompts
 - [If the participant runs into a problem] What do you do when you run into a sign in issue like this?  
 
 
-## Feature exploration (10 minutes)
+## Feature exploration (8-10 minutes)
 Alright, now that we are in the app, I’d like to ask you to visit some sections of the app to see what you think about them. 
 
 #### Home
