@@ -78,7 +78,7 @@ Alright, at this time, I am going to ask you to process with signing into the VA
 #### Prompts
 - [If the participant runs into a problem] What do you do when you run into a sign in issue like this?  
 
-## Feature exploration (15 minutes)
+## Feature exploration (10 minutes)
 Alright, now that we are in the app, I’d like to ask you to visit some sections of the app to see what you think about them. 
 
 #### Home
@@ -156,7 +156,7 @@ Let’s go back to the home screen.
 - Let's say the app I’ve shown you today hits the app stores tomorrow, with exactly what you see here, but you could add 1 more thing - what would you add?
   - Why?
   
-### Remove prototype app
+### Remove prototype app (2 minutes)
 Now I’m going to walk you through how to uninstall the app. Since this is a prototype it's only meant for testing and won't be updated. I would hate for you to try to use it in the future and have it not work correctly. So let's remove it and you can decide to install the finished app when we launch it in the Google Play store.
 
 - Go to home screen and find VA Mobile icon.
