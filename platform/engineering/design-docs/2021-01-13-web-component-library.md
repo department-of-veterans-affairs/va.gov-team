@@ -65,7 +65,7 @@ React has some problems with Web Components [in certain situations](https://cust
 
 One of the additional benefits of Web Components is how they can be styled. Each Component can have its own styles scoped to its [shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM) (this means that if a Component renders a `<div>`, the Component's CSS can broadly style the `div` node without worrying about it affecting all the other `<div>`s on the page). As a result, each component will have its own CSS file which also makes use of global [CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties). These variables will be modeled after `formation`/`uswds`.
 
-For now each Component will have its own styles _implicitly_ based off of USWDS, which resemble what is currently available in the Design System. Potential future work would involve explicitly importing USWDS component stylesheets into each Component's CSS file.
+For now each Component will have its own styles _implicitly_ based off of USWDS, which resemble what is currently available in the Design System. Potential future work would involve explicitly importing USWDS component stylesheets into each Component's CSS file. See [USWDS styles](#uswds-styles) for ideas on explicitly using USWDS 2.0 styles, and some obstacles that were discovered during an experiment.
 
 #### Loading Web Components on va.gov
 
