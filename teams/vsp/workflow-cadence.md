@@ -121,7 +121,7 @@ Read on to learn about the different types of documentation and meetings we use 
 - Description: ?
 - Label: Epic, _team_
 - Pipeline: Now, Next, or Future
-- Epic: whichever Super Epic(s) it’s a part of
+- Epic: whichever initiative it’s a part of
 - Release: n/a do not assign!
 
 ### Issue
@@ -154,7 +154,7 @@ More info to come here
 - Closed: Issues, epics, and initiatives that have been reviewed/QA’d and have been deemed complete (and are thus closed). This will also include issues, epics, and initiatives from the backlog that have been closed with the “icebox” label to be revisited by teams in the future.
 
 ### Icebox
-We close those issues/epics/super epics w/an “icebox” label and a “[team]” label so teams can come back and review these items in their future strategy and planning, without having them clog up the active work views.
+We close those issues/epics/initatives w/an “icebox” label and a “[team]” label so teams can come back and review these items in their future strategy and planning, without having them clog up the active work views.
 
 ### Issue estimation
 
@@ -184,7 +184,7 @@ For deeper reading: [OKR - The Ultimate Guide to Objectives and Key Results](htt
 
 **Initiative**: Vision for an initiative your team can take on that you hypothesize will drive forward the VSP OKRs. All actionable items for team members (Epics, user storiees, tasks, issues) should roll up to an Initiative. Initiatives are prioritized into the Now Initatives, Next Initatives, and Future Initatives pipelines on the ZenHub board, and together comprise your team's agile roadmap. Store initiatives in ZenHub using the VSP Initiative template, the VSP-Initiative label and the release for the VSP Objective it is furthering. 
 
-**Epic**: Large chunk of work, that together in a group of Epics, helps team members understand how to execute on a Super Epic. Store Epics in ZenHub using the Epic functionality and the `epic` label, and nest each Epic within its respective Super Epic.
+**Epic**: Large chunk of work, that together in a group of Epics, helps team members understand how to execute on an initiative. Store Epics in ZenHub using the Epic functionality and the `epic` label, and nest each Epic within its respective initative.
 
 **User story**: "the smallest unit of work in an agile framework. It’s an end goal, not a feature, expressed from the software user’s perspective." (from Atlassion). A group of user stories together should fully describe the feature or service your target user group needs. We store user stories in their respective product folder here in GitHub, and we include user stories in the epics and issues in ZenHub depending upon whether a user story is appropriate to guide the task.
 
@@ -200,7 +200,7 @@ For deeper reading: [Atlassion: User Stories](https://www.atlassian.com/agile/pr
 
 **Roadmap:** plans that represent the initiatives each team will focus on in the near, medium, and long term based on their consideration of forward-looking strategy, customer pain points, and VSP pain points.
 - You must have initiatives in place for NOW, NEXT, and FUTURE 
-- Every NOW, NEXT, and FUTURE super epic must include in the description which Objective it is connected to
+- Every NOW, NEXT, and FUTURE initiative must include in the description which Objective it is connected to
 - Every NOW initiative must include what KPIs you believe this work will impact
 - Every initiative title format must be aligned w/our standards: (Product/Service) - (phrase starting w/a verb NOT ending in 'ing' about what you're changing/creating.)
 
