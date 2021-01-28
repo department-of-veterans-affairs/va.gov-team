@@ -85,6 +85,7 @@
 - Emily Mann (to understand what she found in her overall health care research)
 - MyHealtheVet?
 - Clinicians - what pain points are they experiencing with these topics? if a Vet gets a COVID vaccine at CVS, what do they want entered into the VA system?
+- Would the customer experience team at the VA have any past research in this area that we could/should look into?
 
 # Questions for Veterans
 - Understand current pain points.
