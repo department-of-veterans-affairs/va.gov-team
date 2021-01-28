@@ -86,3 +86,9 @@ In Chrome the page title will say: "This site can't provide a secure connection"
 ### Unable to reconnect after virtual session times out
 
 **Solution:** Try removing the PIV card and quitting the browser before re-trying the sequence above. This worked in Chrome.
+
+### SEC_ERROR_PKCS11_GENERAL_ERROR (Secure Connection Failed)
+Happens to me every time after my session times out.
+
+** Solution **
+Remove the cookie(s) for the site and reload the page.
