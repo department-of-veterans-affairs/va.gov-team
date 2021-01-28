@@ -77,6 +77,8 @@
   - ability to add a new immunization
   - link to VA page on recommended screenings and immunizations for an adult
   - link to CDC traveler's health page
+- Other Immunizations UI Examples
+  - [Apple Health](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/health-record/references/Apple-Health/Immunizations.png)
 
 # VA groups we would like to talk to
 - Lighthouse
