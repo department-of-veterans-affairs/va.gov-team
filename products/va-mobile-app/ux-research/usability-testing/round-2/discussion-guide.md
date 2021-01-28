@@ -125,40 +125,39 @@ I'd like to take a pause here -- before we go further into talking about what is
 
 ## Feature exploration (8-10 minutes)
 
-Alright, now that we are in the app, the first thing I'd like to ask you to do is take a minute to look at the home screen, but don't click on anything yet. 
+Alright, now that we are in the app, the first thing I'd like to ask you to do is take a minute to share your first impression.  
 
 ### Home
 Please take a minute to look at the home screen, but don’t click on anything yet. 
 - What is your first impression about what you see here?
 - What questions do you have about what you see here?
 
+### Free exploration
 Now, you are in control -- I'm going to step back a bit and let you drive. Please take a couple of minutes to explore the app, going anywhere you'd like to go. As you do so, please talk out loud - I would love to hear your thoughts and questions as you explore the app. 
 
-### General prompts
+**General prompts**
 - What do you think about what you see?
 - What questions do you have about what you see?
 - Is anything confusing or unclear?
 - Does it feel like anything is missing to you?
 
-### Things to watch for & follow up on
+**Things to watch for & follow up on**
 - Where does the participant go? Are they looking for anything specific?
 - Does the participant stumble while navigating the app? Where?
 
 
 ## Wrap Up (5 minutes)
-- Would you describe this app as being useful to you?
-  - Please describe how the app useful to you. What’s useful about it?
-  - On a scale of 1 to 5, 1 being not useful at all, 5 being most useful, what would you rate this app?
-- In what circumstances would you find this app useful?
-  - Can you give me a scenario in which this app would be useful? (For example at work, in the car, on the couch, etc.)
-- Would you recommend this app to your friends (or fellow Veterans)? 
+- Based on what you saw in our conversation today, would you describe this app as being useful to you?
+  - If yes: what’s useful about it?
+  - On a scale of 1 to 5, 1 being not useful to you at all, 5 being most useful to you, what would you rate this app?
+- Can you give me a time in which this app would be useful -- where are you? What are you trying to do?
+- Would you recommend this app to your fellow Veterans? 
   - Can you pretend I’m a friend (or fellow Veteran) and you’re recommend the app to me? Why are you recommending it? What would you say? 
 - Let's say the app I’ve shown you today hits the app stores tomorrow, with exactly what you see here, but you could add 1 more thing - what would you add?
   - Why?
 
 ## Remove prototype app (2 minutes)
 Now I’m going to walk you through how to uninstall the app. Since this is a prototype it's only meant for testing and won't be updated. I would hate for you to try to use it in the future and have it not work correctly. So let's remove it and you can decide to install the finished app when we launch it in the Google Play store.
-
 - Go to where your apps are and find VA Mobile icon.
 - Hard press on icon and there will be the option to uninstall.
 - Tap on uninstall.
@@ -166,7 +165,7 @@ Now I’m going to walk you through how to uninstall the app. Since this is a pr
 ## Close (2 minutes)
 That’s all the questions I have for you today. Do you have any last questions for me?
 
-We really appreciate you taking the time to share your thoughts with us. Your feedback is so helpful to us as we continue to work on VA’s mobile app and make sure it really works for Veterans like you. Enjoy the rest of your day!
+We really appreciate you taking the time to share your thoughts with us. Your feedback is so helpful to us as we continue to work on VA’s mobile app and make sure it really works. Enjoy the rest of your day!
 
 
 
