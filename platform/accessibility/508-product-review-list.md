@@ -445,7 +445,6 @@ Back to [Table of Contents](#table-of-contents)
 **Open issues**
 
 - [508-defect-2 [KEYBOARD]: BAM2 Debt Letters - The debt download table sorting function must be keyboard accessible - #17894](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17894)<br/>**Staging** | **Opened:** December 28, 2020 | **Severity:** _508-defect-2 - **Moderate**_
-- [508-defect-4 [COGNITION]: BAM2 Debt Letters - Consider defining "TOP" in debt cards - #16787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16787)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** _508-defect-4 - **Trivial**_
 - [508-defect-4 [COGNITION]: BAM2 Debt Letters - Consider renaming "Details" breadcrumb on debt detail view - #16788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16788)<br/>**Staging** | **Opened:** December 1, 2020 | **Severity:** _508-defect-4 - **Trivial**_
   
 Back to [Table of Contents](#table-of-contents)
@@ -922,6 +921,7 @@ Back to [Table of Contents](#table-of-contents)
 
 
 **Open issues**
+- [508-defect-2 [COGNITION]: VAOS Express Care - Bold text on headings must be consistently marked up as headings - #19301](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19301)<br/>**Limited production** | **Opened:** January 29, 2021 | **Severity:** _508-defect-2 - **Serious**_
 - [[MOBILE]: Should buttons be full-width at mobile size for creating an Express Care appointment? - #15086](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15086)<br/>**Limited production** | **Opened:** October 20, 2020
 - [[DESIGN]: Mobile breadcrumb looks indented a bit too much on the form views - #15083](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15083)<br/>**Limited production** | **Opened:** October 20, 2020
 - [[DESIGN]: Should the Express Care radio button labels be bold, or regular weight like requesting an in-person appointment? - #15084](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15084)<br/>**Limited production** | **Opened:** October 20, 2020
