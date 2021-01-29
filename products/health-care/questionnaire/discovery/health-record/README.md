@@ -23,6 +23,10 @@
 # Knowns
 ## Medications
 - [Past Rx Refill research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills)
+  - Applicable findings from past research:
+    - [Look](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/vets-prescriptions/research/vets.gov-prototype/rx-7.8.16-findingssummary.md) into including additional data: specific medication use & storage instructions, medicine brand names in addition to chemical names, and how much supply is included in refills.
+    - Work on the order of information on the medicine detail page; Rx # is less important than instructions, and warnings could look more like warnings.
+    - Investigate ways to select which portions of prescription history can be printed, such as currently active medicines or those from the past year.
 - Feature ideas from [past user research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/mhv-api/2016-06-03-technical-validation.md)/ [previous data asks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/mhv-api/missing-data-that-we-need.md)/ shown in old wireframes [set 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/mhv-api/doc-images/detail.png) and [set 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/vets-prescriptions/research/mhv-prototype/redesign-prototype-pharmacy-1.pdf)/ our team's ideas:
   - photos/other illustration of the medication (inhaler versus pill, what color and shape)
   - self-entered data
