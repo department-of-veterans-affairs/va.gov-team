@@ -39,7 +39,7 @@ As a new VA.gov team member, I need to complete onboarding activities so I can s
   - [ ] [Set up internal tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md)
 - [ ] Designers: Request design orientation with @ Allison Christman in Slack
 - [ ] Front-end Engineers: Request Front-end orientation with @ Dan Shank in Slack
-- [ ] Back-end Engineers: Request Back-end orientation with @ Travis Hilton in Slack
+- [ ] Back-end Engineers: Request Back-end orientation with @ Alex Pappas in Slack
 - [ ] PM, Designers and Content Writer(s): Request content and IA intro with @ Liani Lye in Slack
 - [ ] PM and Front-End Engineers: Request analytics intro with @ Joanne Esteban in Slack
 - [ ] PM, Designers, FE devs: Request 508 intro with @ Trevor Pierce in Slack
