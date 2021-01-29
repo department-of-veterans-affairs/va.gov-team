@@ -4,7 +4,9 @@
 
 ### Topics to Discuss
 * Status update from all teams
-* Continued build errors caused by continued changes to content model — how can we better manage this moving forward?
+* Continued build errors
+   * What caused this week's issue? 
+   * How can we better manage this moving forward?
 * Change management messaging with content editors
 
 ## 1-22-21
