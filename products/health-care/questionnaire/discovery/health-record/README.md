@@ -23,6 +23,7 @@
 # Knowns
 ## Medications
 - [Past Rx Refill research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills)
+  - It seems like three studies were run. Two at two different VAMC and one remote study. They mostly tested in the context of Rx Refills, but they did test a [medication details page as well as the Medication History](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/vets-prescriptions/research/vets.gov-prototype/v2/script.md).
   - Applicable findings from past research:
     - [Look](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/vets-prescriptions/research/vets.gov-prototype/rx-7.8.16-findingssummary.md) into including additional data: specific medication use & storage instructions, medicine brand names in addition to chemical names, and how much supply is included in refills.
     - Work on the order of information on the medicine detail page; Rx # is less important than instructions, and warnings could look more like warnings.
