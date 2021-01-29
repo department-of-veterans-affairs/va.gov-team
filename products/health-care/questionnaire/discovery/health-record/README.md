@@ -4,7 +4,7 @@
 - What currently is available in Lighthouse?
 - Are we missing any past user research that we should review?
   - I found research on Medications.
-  - Here it says that there were [other studies completed by the VA Human Factors Engineering Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/vets-prescriptions/research/design-and-research-approach.md). Can we dig up those reports?
+  - Here it says that there were [other studies completed by the VA Human Factors Engineering Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/vets-prescriptions/research/design-and-research-approach.md). Can we dig up those reports? Does the customer experience team have any research?
 - Can we get any updates on the analytics on these current features from MyHealtheVet?
 
 ## Medications
@@ -92,9 +92,8 @@
 - Lighthouse
 - Emily Mann (to understand what she found in her overall health care research)
 - MyHealtheVet?
-- Should we sit down with Lauren (or just Ming)
+- Should we sit down with Lauren?
 - Clinicians - what pain points are they experiencing with these topics? if a Vet gets a COVID vaccine at CVS, what do they want entered into the VA system?
-- Would the customer experience team at the VA have any past research in this area that we could/should look into?
 
 # Questions for Veterans
 - Understand current pain points.
