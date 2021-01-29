@@ -4,6 +4,7 @@
 - What currently is available in Lighthouse?
 - Are we missing any past user research that we should review?
   - I found research on Medications.
+  - Here it says that there were [other studies completed by the VA Human Factors Engineering Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/vets-prescriptions/research/design-and-research-approach.md). Can we dig up those reports?
 - Can we get any updates on the analytics on these current features from MyHealtheVet?
 
 ## Medications
