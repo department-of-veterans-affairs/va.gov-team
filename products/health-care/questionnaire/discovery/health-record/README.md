@@ -13,6 +13,7 @@
 - If we don’t have renewing medications in a questionnaire, how do we stop Veterans from asking about that?
 - What if we think of this as something has changed and not just a meds list?
 - What special can we do, since this is a payer/provider system?
+- Do any notifications currently exist? I think there are refill reminders.
 
 ## Allergies
 - What does the VA want to do about educational information? still link to Medline Plus? Do they have APIs, so we could link each allergy directly to the Medline Plus page on that particular allergy?
