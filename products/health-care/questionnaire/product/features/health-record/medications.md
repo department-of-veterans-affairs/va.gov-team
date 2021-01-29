@@ -26,23 +26,39 @@ User Story
 - Date
 - Instructions/Directions (this is typically from EHR for the Pharmacist) we need the patient dose instructions if we are showing from retail pharmacy. 
  - 2 spray(s). nostril(s) qD, 16g, O Refills
-- Status:
-- Actions for the Veteran - Taking as prescribed - Yes- As directed, No - Not taking as directed, No- stopped or didn't take (need ability to describe why not taking)
+- Status
+ - Active, expired, discontinued - 
+   - Amanda were you thinking of something else for status, this is what I had listed? - Kristen
+- Tracking medication adherence - actions the Veterans can take
+  - Currently statuses/solution for this shown in the above image - Taking as prescribed - Yes- As directed, No - Not taking as directed, No- stopped or didn't take (need ability to describe why not taking)
 - Patient education - Medline Plus
-- Warnings/Side effects
-- If no write back for Meds how are we posting to Lighhouse in PGD
+- Warnings/Side effects/Interactions
+- If no write back for Meds how are we posting to Lighhouse in PGD 
+ - Do we deal with self-entered data?
+- Medication type
+  - As seen in current MyHealtheVet, an example of data in this field was "VA prescription")
 - Are we integrating with Surescripts or only Vista
 
 Not typical features we should consider/challenges today
 - Condition/Diagnosis prescribed for
 - renew /request workflows
 - Costs based on insurance - ie. know what locations have good pricing
-- can we push/highlight meds that we think have changed or would have stopped or new condidtion to ask if any meds are being taken for it.  
-- List of Vitamens and Suppliments -as these may not be documented in EHR
-- Pictures of the Medication
-- timeline for how long been on the med
+- Formulary information - tiers of medications at the VA - related to cost
+- Can we push/highlight meds that we think have changed or would have stopped or if there new condition to ask if any meds are being taken for it?  
+- List of Vitamins and Suppliments -as these may not be documented in EHR
+- Photos or illustrations of the medication (show inhaler versus a pill, what color and shape)
+- timeline for how long been on the med 
+  - another variation of this is display of start/stop dates
 - patient side effects (patient generated)
-
+- VA pharmacy or other pharmacy info (name, location, phone number, contact with questions
+  - This gets into preferred pharmacy information.
+  - Contacting for more information could connect to the VA's app, secure messaging, both?
+- Notification reminders
+  - Do refill reminders exist today?
+  - When next pill is supposed to be taken reminders
+  - Other notifications
+- Cost summary - how much have I spent on medications
+- Identify pills - I don't know what this pill is. Identify by markings, colors, or shapes
 
 
 * Instructions to access in Staging
