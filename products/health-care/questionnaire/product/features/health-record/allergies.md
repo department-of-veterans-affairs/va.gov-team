@@ -34,6 +34,17 @@ Divalproex (Liver Enzymes Abnormal)
 Verified: Jun 26, 2018
 Documenting Facility: LOMA LINDA HCS
 
+- Allergy Name
+- Onset date
+- severity
+- diagnosed (there is a dropdown with options in MyHealtheVet right now)
+- reaction (could note when it was clinically observed - if it was clinically observed)
+- comments
+- clinical risk (low risk, etc)
+- reported by (doctor's name or patient)
+- ability to add a new allergy (patient reported data)
+- links to educational material on the allergies (currently links to Medline Plus)
+
 
 * Instructions to access in Staging
 _Note: credentials should be stored in sensitive repos only_
