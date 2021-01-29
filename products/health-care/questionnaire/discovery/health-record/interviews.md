@@ -9,7 +9,7 @@
 - **VA Product Owner for Medline Plus Vendor** - Patient Education so we can understand what API's are available for a medlist education and reactions
 - **Blue Button** - product team to give our team a demo and to understand the features their product has and limitations.  
 - **Annie- product team** as their app might have features for med compliance and nudges with test message. 
-- - **MyHealthe Vet -** would be great to talk with the owner of the med list to undertand any data or experience challenges  or roadmap items they have.
+- **MyHealthe Vet -** would be great to talk with the owner of the med list to undertand any data or experience challenges  or roadmap items they have.
 - **Primary Care Stakeholders** at Loma Linda/Hawaii and others to meet with to ensure we know the main areas of improvement we can make with a veteran updated bpmh. ie lots of workflow time could be saved if done in advance. ie. 80% time savings 
-
+- **VA Pharmacy** - anyone in operations for the pharmacy who can talk about pain points and technological set up. Maybe they would know about the Walgreens collaboration too?
 
