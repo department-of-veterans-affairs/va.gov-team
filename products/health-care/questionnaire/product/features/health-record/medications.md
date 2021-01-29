@@ -60,6 +60,7 @@ Not typical features we should consider/challenges today
   - Other notifications
 - Cost summary - how much have I spent on medications
 - Identify pills - I don't know what this pill is. Identify by markings, colors, or shapes
+- timeline of when patient is supposed to take medication (morning versus evening, every other week, once a month)
 
 
 
