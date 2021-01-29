@@ -116,9 +116,19 @@ Building on the scenario that I just gave you. Let's imagine that as you're sear
 
 OR type: **rb.gy/y3jt7f**
 
-_[Backup - Desktop prototype to be tested](https://preview.uxpin.com/cdd25414c3c03534b7a8ee83b89f964219565580#/pages/135469170?mode=cvhidm)_
+Romeo
+Bravo
+[period]
+Golf
+Yankee
+[/]
+Yankee
+3
+Juliet
+Tango
+7
+Foxtrot
 
-OR type: rb.gy/k8slyu
 
 I'll give you a second to take the page in. [limit to a quick scan]
 
