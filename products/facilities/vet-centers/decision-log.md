@@ -26,6 +26,8 @@ The following were considered but rejected for MVP
 | 1/6/2021 | Mobile Vet Center as "other location" rather than service (was misunderstood in testing) |
 | 1/6/2021 | No email will be featured as there is no centralized email |
 | 1/6/2021 | "Satellite" tested well as label rather than CAP |
+| 1/26/2021 | Grief counseling and bereavement counseling will be two separate categories. Bereavement counseling is offered to family members who experience an active duty death only. Grief counseling is offered to any eligible client who is experiencing grief (of any type : death of a loved one, natural disaster, etc) |
+| 1/26/2021 | Vet Center services will include services provided by community partners, if they are offered within the physical location | 
 
 
 ### Other Vet Center product decisions
