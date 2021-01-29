@@ -22,6 +22,7 @@
 
 # Knowns
 ## Medications
+- VA has there own pharmacies to refill prescriptions. They also have a special collaboration with [Walgreens](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=5095).
 - [Past Rx Refill research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills)
   - Applicable findings from past research:
     - [Look](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/vets-prescriptions/research/vets.gov-prototype/rx-7.8.16-findingssummary.md) into including additional data: specific medication use & storage instructions, medicine brand names in addition to chemical names, and how much supply is included in refills.
