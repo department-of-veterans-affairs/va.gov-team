@@ -26,7 +26,7 @@ Before we get started, I want to give you an idea of what this call will be like
 _For iPhone:_
 
 - OK great. When you are inside the Zoom application on your phone, you'll see a few buttons at the bottom. Audio, Video, Share content, Participants, and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "chat" and "share content." Any questions?
-- Tap ‘Share content’ (Green button at bottom middle of the screen)
+- Tap ‘Share screen or content’ (Green button at bottom middle of the screen)
 - Tap on Screen
 - Tap Zoom
 - Tap start broadcast. After a count of 3, the entire device screen will be shared into the meeting
