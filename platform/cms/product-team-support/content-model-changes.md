@@ -1,27 +1,3 @@
-<!-- Copy and paste the converted output. -->
-
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 1.097 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Fri Jan 29 2021 05:28:29 GMT-0800 (PST)
-* Source doc: Content model changes
-* Tables are currently converted to HTML tables.
------>
-
-
 
 # Content model changes in VA.gov CMS
 
@@ -39,26 +15,26 @@ Initial meetings between VFS Product team and CMS team will discover the answers
 
 
 1. Content model 
-    1. Provide sample content/data for analysis.
-    2. Does the proposal include a change to a field or bundle used by multiple products? If yes, we need a design-systemesque approach to deciding if this will be a new variant or refactoring an existing pattern. 
+    * Provide sample content/data for analysis.
+    * Does the proposal include a change to a field or bundle used by multiple products? If yes, we need a design-systemesque approach to deciding if this will be a new variant or refactoring an existing pattern. 
 2. Content entry / migration
-    3. Will content entry be manual? If so, who will manually migrate content, and when. 
-    4. Automated? What is the source content? 
+    * Will content entry be manual? If so, who will manually migrate content, and when. 
+    * Automated? What is the source content? 
 3. Who is the PM and FE engineering team responsible for implementing this? What experience do they have with these kinds of changes? 
 4. Which services consume this content by push or pull?  (ie: vets-website, Lighthouse, others?). 
 5. What type of change is this? 
-    5. Additive: New fields and/or bundles being added that didn’t exist before.
-    6. Subtractive: Field(s) being removed.
-    7. Refactoring: (replacing parts of the content model with new parts)
-    8. Combination of a,b,c.
+    * Additive: New fields and/or bundles being added that didn’t exist before.
+    * Subtractive: Field(s) being removed.
+    * Refactoring: (replacing parts of the content model with new parts)
+    * Combination of a,b,c.
 6. Editorial experience and changement
-    9. Which CMS editors will be affected by this change?
-    10. Will CMS users notice this change? If yes: 
-        1. CMS team will prepare a CMS announcement about it. 
-        2. CMS design team will evaluate editorial experience design needs.
-    11. If this is a refactoring change, can the editorial experience support ‘parallel’ content models simultaneously (old and new) without being confusing or adding too much cognitive load to users? CMS design team may be involved in this decision.
-    12. If this is an additive change, can/should the editorial experience support fields in the CMS UX that don’t yet “do” anything? 
-    13. Will any training be required? If yes, a training issue will be created.
+    * Which CMS editors will be affected by this change?
+    * Will CMS users notice this change? If yes: 
+        * CMS team will prepare a CMS announcement about it. 
+        * CMS design team will evaluate editorial experience design needs.
+    * If this is a refactoring change, can the editorial experience support ‘parallel’ content models simultaneously (old and new) without being confusing or adding too much cognitive load to users? CMS design team may be involved in this decision.
+    * If this is an additive change, can/should the editorial experience support fields in the CMS UX that don’t yet “do” anything? 
+    * Will any training be required? If yes, a training issue will be created.
 
 
 ## Non-breaking changes
