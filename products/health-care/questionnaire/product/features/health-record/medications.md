@@ -28,7 +28,7 @@ User Story
  - 2 spray(s). nostril(s) qD, 16g, O Refills
 - Status:
 - Actions for the Veteran - Taking as prescribed - Yes- As directed, No - Not taking as directed, No- stopped or didn't take (need ability to describe why not taking)
-- patient education
+- Patient education - Medline Plus
 - If no write back for Meds how are we posting to Lighhouse in PGD
 - Are we integrating with Surescripts or only Vista
 
@@ -41,7 +41,6 @@ Not typical features we should consider/challenges today
 - Pictures of the Medication
 - timeline for how long been on the med
 - patient side effects (patient generated)
-- Patient education - Medline Plus
 
 
 
