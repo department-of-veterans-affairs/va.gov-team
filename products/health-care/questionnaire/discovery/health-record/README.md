@@ -22,8 +22,6 @@
 
 # Knowns
 ## Medications
-- VA has there own pharmacies to refill prescriptions. They also have a special collaboration with [Walgreens](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=5095).
-  -  "VA providers will be able to see the entire medication and immunization history of VA-enrolled patients who receive their prescription and immunization needs at Walgreens."
 - [Past Rx Refill research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills)
   - Applicable findings from past research:
     - [Look](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/vets-prescriptions/research/vets.gov-prototype/rx-7.8.16-findingssummary.md) into including additional data: specific medication use & storage instructions, medicine brand names in addition to chemical names, and how much supply is included in refills.
@@ -49,7 +47,9 @@
   - What diagnosis is this addressing or helping with? Why am I taking this? Review by condition?
   - Connection to formulary
   - Idea for mobile: notification reminder on when next pill is due to be taken, tracking medication adherence
-- All the ways that a Veteran can [refill their prescription as of 8/9/2017](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/vets-prescriptions/research/ways-to-refill-rx-at-va.md). 
+- VA has there own pharmacies to refill prescriptions. They also have a special collaboration with [Walgreens](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=5095).
+  -  "VA providers will be able to see the entire medication and immunization history of VA-enrolled patients who receive their prescription and immunization needs at Walgreens."
+  - All the ways that a Veteran can [refill their prescription as of 8/9/2017](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/vets-prescriptions/research/ways-to-refill-rx-at-va.md). 
    - This might help us think through all the medication touchpoints that currently exist and see if there is any impact on our feature. Will need updated.
   - They were envisioning pictures of medications.
 - [Personas identified for Rx refills](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/vets-prescriptions/research/high-level-userflow.md) (could these be applied to updating med list in questionnaire)
