@@ -28,7 +28,7 @@ User Story
  - 2 spray(s). nostril(s) qD, 16g, O Refills
 - Status
  - Active, expired, discontinued - 
-   - @abuckley, were you thinking of something else for status, this is what I had listed? - Kristen
+   - Amanda - were you thinking of something else for status, this is what I had listed? - Kristen
 - Tracking medication adherence - actions the Veterans can take
   - Currently statuses/solution for this shown in the above image - Taking as prescribed - Yes- As directed, No - Not taking as directed, No- stopped or didn't take (need ability to describe why not taking)
 - Patient education - Medline Plus
