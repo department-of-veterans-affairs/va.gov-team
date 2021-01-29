@@ -6,11 +6,10 @@ Note: Originally considered for a global revision, DEPO has decided to implement
 
 ## Table of Contents
 
-[User Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-left-nav-enhancement-feature-brief.md#user-journey)
 
-[User Stories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-left-nav-enhancement-feature-brief.md#user-stories--use-cases)
+[User Stories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/fe-templates/left-nav/vamc-left-nav-enhancement-feature-brief.md#user-stories--use-cases)
 
-[Project Rationale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-left-nav-enhancement-feature-brief.md#project-rationale)
+[Project Rationale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/fe-templates/left-nav/vamc-left-nav-enhancement-feature-brief.md#project-rationale)
 
 [Project Scope and Scale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-left-nav-enhancement-feature-brief.md#project-scope-and-scale)
 
@@ -25,8 +24,6 @@ Note: Originally considered for a global revision, DEPO has decided to implement
 [Definition of Done](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-left-nav-enhancement-feature-brief.md#definition-of-done)
 
 [Key Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-left-nav-enhancement-feature-brief.md#key-links)
-
-### User Journey
 
 
 ### User Stories / Use Cases
