@@ -24,15 +24,16 @@ User Story
 - Prescribing Physician
 - Prescribing Physician location/source system
 - Date
-- Refills
 - Instructions/Directions (this is typically from EHR for the Pharmacist) we need the patient dose instructions if we are showing from retail pharmacy. 
  - 2 spray(s). nostril(s) qD, 16g, O Refills
 - Status:
 - Actions for the Veteran - Taking as prescribed - Yes- As directed, No - Not taking as directed, No- stopped or didn't take (need ability to describe why not taking)
 - patient education
-- Condition/Diagnosis prescribed for
+- If no write back for Meds how are we posting to Lighhouse in PGD
+- Are we integrating with Surescripts or only Vista
 
-Not typical features we can consider
+Not typical features we should consider/challenges today
+- Condition/Diagnosis prescribed for
 - renew /request workflows
 - Costs based on insurance - ie. know what locations have good pricing
 - can we push/highlight meds that we think have changed or would have stopped or new condidtion to ask if any meds are being taken for it.  
@@ -40,38 +41,13 @@ Not typical features we can consider
 - Pictures of the Medication
 - timeline for how long been on the med
 - patient side effects (patient generated)
-- Are we integrating with Surescripts or only Vista
-- If no write back for Meds how are we posting to Lighhouse in PGD
+- Patient education - Medline Plus
+
+
 
 * Instructions to access in Staging
 _Note: credentials should be stored in sensitive repos only_
 
-
-## User Story A 
-
-* Use Case 
-
-* Description
-
-* Feature Capabilities
-
-
-## User Story B
-
-* Use Case 
-
-* Description
-
-* Feature Capabilities
-
-
-## User Story C
-
-* Use Case 
-
-* Description
-
-* Feature Capabilities
 
 
 ---
