@@ -55,5 +55,4 @@ Every initiative—a new feature, a product launch, technical improvements—wra
        - "...would be beneficial to add questions that are asked/commentary to the questions slide..."
        - "...felt some relief at finally seeing initiatives highlighted and talked about in a way that was more about the "overall veteran experience" and not discrete "features""
 
-### June Impact Review
-  * tbupdated
+
