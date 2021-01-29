@@ -34,6 +34,21 @@
 </summary>
 
 </details>
+## Wednesday February 3
+
+### Upcoming demo environment trainings
+
+### CLP
+
+- #3762 Link summary 
+
+### Video for R&S and CLP
+
+- #3950 Address block styling 
+ 
+### Benefits detail pages
+
+
 
 ## Wednesday January 27
 
