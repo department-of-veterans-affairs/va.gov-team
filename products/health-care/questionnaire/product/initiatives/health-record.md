@@ -27,7 +27,7 @@ Gathering medication history for reconciliation is a cornerstone of excellent pa
 
 Creating patient home medication lists by relying on traditional HIS system data feeds, interviewing patients and calling local pharmacies and primary care providers is highly time consuming and often delivers incomplete medication history results.
 
-MedHxSM closes the gaps in gathering medication history for reconciliation and reduces treatment errors by delivering more accurate, more comprehensive medication history data in just seconds. With an easy-to-use workflow, your staff can save as much as 80% of the time they currently spend researching a patient’s medication history, interviewing patients, and calling local pharmacies and primary care providers–time that can be re-invested in diagnosis and care delivery.
+A consolidated MedHx closes the gaps in gathering medication history for reconciliation and reduces treatment errors by delivering more accurate, more comprehensive medication history data. With an easy-to-use workflow, your staff can save as much as ~80% of the time they currently spend researching a patient’s medication history, interviewing patients, and calling local pharmacies and primary care providers–time that can be re-invested in diagnosis and care delivery.
 
 
 ## Features
