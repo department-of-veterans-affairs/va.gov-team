@@ -16,7 +16,7 @@
 
 </details>
 
-## February 12 
+## February 10 2021
 
 Results of Pittsburgh spelunking.
 
