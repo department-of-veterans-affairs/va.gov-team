@@ -100,7 +100,11 @@ Provide a bulleted outline describing the required features of the product
 ### Product Analytics
 
    #### Dashboard
-   
+   ```diff
+
+@@ To Be Requested @@
+
+```
    #### Custom Reports
    
    _Tip_ Custom Reports can be shared via email on an ad-hoc or scheduled basis.  The report will only include the active tab shown when the report is scheduled.  Saved reports can also be shared via email
@@ -111,12 +115,12 @@ Provide a bulleted outline describing the required features of the product
    
    |Metric | Report Name | Tab Name | Description | What It Indicates | 
    |--|--|--|--|--|
-   |Search Landing Unique page views|Find a VA Form Search Landing Page Metrics|Unique Views/Mo|Description| Longer sessions indicate more time required to locate desired form
+   |Search Landing Unique page views|Find a VA Form Search Landing Page Metrics|Unique Views/Mo|Description| Longer sessions indicate more time required to locate desired form|
    |Search Landing unique searches|Find a VA Form Search Landing Page Metrics|Unique Searches/Mo|Description|What it indicates|
-   |Average Session Duration|Find a VA Form Search Landing Page Metrics|Tab Name|Description|What it indicates|
-   |Average Session Duration|Find a VA Form Search Landing Page Metrics|Tab Name|Description|What it indicates|
-   |Average Session Duration|Find a VA Form Search Landing Page Metrics|Tab Name|Description|What it indicates|
-   |Average Session Duration|Find a VA Form Search Landing Page Metrics|Tab Name|Description|What it indicates|
+   |Average Session Duration|Find a VA Form Search Landing Page Metrics|Tab Name|Description|Longer sessions indicate more time required to locate desired form|
+  |Metric |Find a VA Form Search Landing Page Metrics | Search Refinements | Description | What It Indicates | 
+  |Metric | Find a VA Form Search Landing Page Metrics | Tab Name | Description | What It Indicates | 
+  |Metric | Find a VA Form Search Landing Page Metrics | Tab Name | Description | What It Indicates | 
  
    ##### Detail Page Metrics
    
