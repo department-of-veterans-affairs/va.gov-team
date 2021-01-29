@@ -98,14 +98,34 @@ Provide a bulleted outline describing the required features of the product
 * [Linking to new online tool form equivalent](URL TBD)
 
 ### Product Analytics
+
    #### Dashboard
+   
    #### Custom Reports
+   
+   _Tip_ Custom Reports can be shared via email on an ad-hoc or scheduled basis.  The report will only include the active tab shown when the report is scheduled.  Saved reports can also be shared via email
  
-   *Pro-tip* - You can save a specific parameters (tab, dates, filters) of a Custom Report as a **Saved Report** within your own Google Analytics account by clicking the Save button in the top-right corner of any Custom Report.
+   _Tip_ - You can save a custom report's parameters (tab active, date range, filters) as a **Saved Report** within _your own_ Google Analytics account by clicking the Save button in the top-right corner of any Custom Report.
+   
+   ##### Search Landing Page Metrics
+   
+   |Metric | Report Name | Tab Name | Description | What It Indicates | 
+   |--|--|--|--|--|
+   |Search Landing Unique page views|Find a VA Form Search Landing Page Metrics|Unique Views/Mo|Description| Longer sessions indicate more time required to locate desired form
+   |Search Landing unique searches|Find a VA Form Search Landing Page Metrics|Unique Searches/Mo|Description|What it indicates|
+   |Average Session Duration|Find a VA Form Search Landing Page Metrics|Tab Name|Description|What it indicates|
+   |Average Session Duration|Find a VA Form Search Landing Page Metrics|Tab Name|Description|What it indicates|
+   |Average Session Duration|Find a VA Form Search Landing Page Metrics|Tab Name|Description|What it indicates|
+   |Average Session Duration|Find a VA Form Search Landing Page Metrics|Tab Name|Description|What it indicates|
+ 
+   ##### Detail Page Metrics
+   
    |Metric | Report Name | Tab Name | Description |
    |--|--|--|--|
-   |Search Landing unique views|Report Name|Tab Name|Description|
-   |Search Landing unique views|Report Name|Tab Name|Description|
+   |Search Landing Unique page views|Report Name|Tab Name|Description|
+   |Search Landing unique searches|Report Name|Tab Name|Description|
+   |Average Session Duration|Report Name|Tab Name|Description|
+   
    
 
 ### Product Enhancements ###
@@ -117,12 +137,14 @@ Provide a bulleted outline describing the required features of the product
 |--|--|--|--|
 
 ### Product Team ###
+
 |Team|Name|Role|Organization|
 |--|--|--|--|
 |Decision Tools|[John Hashimoto](https://github.com/johnhashva)|Product Owner|USDS/DSVA|
 |Decision Tools|[Marci McGuire](https://github.com/MarciMcGuireGCIO)|Product Manager|GCIO|
 |Decision Tools|[Zachary Morel](https://github.com/zacharymorel)|Front-End Engineer|GCIO|
 |Decision Tools|[Laurel Lawrence](https://github.com/laurellawrence)|Research/Design-Front-End|Ad Hoc|
+
 ### Key Artifacts
 
 |Artifacts  | Description |
