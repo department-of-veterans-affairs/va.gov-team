@@ -47,11 +47,11 @@ Are there any short-term needs
 
 ### CLP
 
-- #3762 Link summary 
+- #3762 Link summary required fields
 
 ### Video for R&S and CLP
 
-- #3950 Address block styling 
+- #3950 Address block styling in Limited rich text editor
  
 ### Benefits detail pages
 
