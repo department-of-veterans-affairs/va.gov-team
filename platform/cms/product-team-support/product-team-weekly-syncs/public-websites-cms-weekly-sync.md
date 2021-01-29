@@ -34,9 +34,16 @@
 </summary>
 
 </details>
+
 ## Wednesday February 3
 
+### How we work
+
+Per slack, review on [content model changes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-team-support/content-model-changes.md)
+
 ### Upcoming demo environment trainings
+
+Are there any short-term needs
 
 ### CLP
 
