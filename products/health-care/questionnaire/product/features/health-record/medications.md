@@ -29,6 +29,7 @@ User Story
 - Status:
 - Actions for the Veteran - Taking as prescribed - Yes- As directed, No - Not taking as directed, No- stopped or didn't take (need ability to describe why not taking)
 - Patient education - Medline Plus
+- Warnings/Side effects
 - If no write back for Meds how are we posting to Lighhouse in PGD
 - Are we integrating with Surescripts or only Vista
 
