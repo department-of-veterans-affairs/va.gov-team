@@ -58,16 +58,11 @@ Initial meetings between VFS Product team and CMS team will discover the answers
 10. ⚙ Permission updates to reveal new feature and release.
 11. ⚙ Issue CMS announcement. (if needed)
 
-## 
-Breaking change (potentially)
-
+##  Breaking change (potentially)
 
 Breaking changes occur when it’s more than one step from each team. For example: CMS team change, then FE change, then CMS change. 
 
-
 ### CMS / Product team steps
-
-
 
 1. All questions are answered and design models from above are completed.
 2. ⚙ Add new content model field and **release**.
