@@ -10,8 +10,18 @@
 User Story 
 
 * Use Case 
-
-* Description
+- Immunization name
+- date received (think about how to show immunizations that Veterans receive multiple times like Influenza)
+- reaction (currently MyHealtheVet has checkboxes with options)
+- method (injection, inhalant, by mouth) - Apple Health calls this the route
+- where on the body the injection was received (left deltoid)
+- other sign/symptom (currently dropdown list)
+- comments
+- ability to add a new immunization (patient reported data)
+- Company name who made COVID vaccine?
+- link to VA page on recommended screenings and immunizations for an adult
+- link to CDC traveler's health page
+- link to VAOS to schedule immunization appointment
 
 
 * Instructions to access in Staging
