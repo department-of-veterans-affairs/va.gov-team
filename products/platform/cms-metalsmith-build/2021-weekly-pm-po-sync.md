@@ -10,6 +10,42 @@
 * Handling of broken links in VA.gov build
 * Change management messaging with content editors
 
+#### Notes
+
+Handling of broken links
+* Proposal: don't block builds due to broken links in content layer, with threshold 
+   * Generate public CSV about broken links - must contain paths that generated broken links
+   * CMS team will be notified in Slack and begin help desk triage based on CSV triage
+   * V1 is hourly autodeploy during business hours - 8-8 M-F hourly
+   * Consider: If the threshold is reached and the build breaks, can there be a manual override?
+      * Ex. when something is being shared with content editors (dual state) and there's no impact to Veterans
+   * Need to consider long term vs short term solution
+      * Warning content editors when they have a broken link 
+      * Long term solution is that CMS help desk doesn't triage this, notifications are sent to content editors 
+   * Next steps: 
+      * Identify threshold for broken links to break build — does there need to be any threshold? 
+         * Less important is the number of broken links, more important is the location of broken links
+      * Identify SLA for CMS team fixing broken links
+      * **Continue conversation including all people needed**
+      * VSP discuss level of effort for implementing this potential solution
+   * Questions: 
+      * How often is the broken link CSV sent? Hourly? Or daily? Answer: CSV should be published every hour, and Slack alerts will be managed by CMS team 
+      
+Status updates
+* VSP
+   * Discrepancies are in good shape
+   * Continued concerns about build errors and scalability, working hard to resolve these uncertainties
+* Facilities
+   * 11 discrepancies identified with the JSON comparison tool, have been blocked by the broken build
+* Public Websites
+   * Working towards reaching parity — hoping by next week we've reached parity
+   * 5 days was initial estimate 
+* CMS
+   * Broken build issue should be fixed!
+   * Broken link updates above
+   * Scalability research is ongoing - should have some info by next week
+      
+
 ## 1-22-21
 
 ### Topics to Discuss
