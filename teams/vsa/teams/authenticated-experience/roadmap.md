@@ -56,7 +56,7 @@ It is because of this that we are going to dedicate all of 2020, and as much of 
 |Prescription notifications | VA Profile/VETText | November 2020 | In our biweekly VA Profile meeting, Paras Shah mentioned that the notifications team is going to be working to implement prescription notifications. The MVP will be out in January, which will not need anything from the VA.gov profile. However, the next version after that will likely need some sort of notification settings that could be managed from the profile|
 |Notification preferences | VA Profile | November 2020 | These are indicators for VETText/VANotify/other services so people can opt-in/out of texts or email messages from these services. This is actively in the works with VA Profile, with initial releases 12/14/20 (no grouping), 1/11/21, and 2/8/21 (with grouping). |
 |Add dependent info to the profile | Auth exp/eBenefits migration team | January 2021 | [Slack convo](https://dsva.slack.com/archives/CLY6Q69RV/p1611687078020800)|
-
+|Updates re: user roles/permissions/delegation| Identity team | N/A - no formal request yet | There may be necessary profile updates as a result of adding user roles/permissions/delegation, but nothing concrete has been defined yet |
 
 ### My VA, benefit updates, & benefit experience
 
@@ -66,3 +66,4 @@ It is because of this that we are going to dedicate all of 2020, and as much of 
 |Notification center| Auth. exp. | N/A| Revisit after logged-in homepage redesign|
 |My VA: Post-launch V1 updates and enhancements | Auth exp. | N/A | [List of potential updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/v1-post-launch-improvements.md)|
 |How do we communicate health care application updates?| Auth exp | N/A | This would be an extension of the [duplicate health care application status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/181023hcachanges.md) work. On the old My VA, we showed people's health care application status. For reasons, we removed this from My VA 2.0, though the most important part of the project/info still lives in the health care application itself. However, this would be GREAT information to email to people and might be something the HCA team could work on with VANotify. Idk that auth experience would do this work, but tracking it here so I don't forget.|
+|Updates re: user roles/permissions/delegation| Identity team | N/A - no formal request yet | There may be necessary My VA updates as a result of adding user roles/permissions/delegation, but nothing concrete has been defined yet |
