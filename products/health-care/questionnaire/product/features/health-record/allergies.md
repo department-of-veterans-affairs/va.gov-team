@@ -12,6 +12,27 @@ User Story
 * Use Case 
 
 * Description
+<img src="https://lh3.googleusercontent.com/qYDGoW-AzEe2L2OL_Itkgx6qdQS08bipMLGqfw9lQghH1bJWiGUI1BsCw5J-f2XtGZaJDISK4DVTXjAblbEbyFehh6y1lt4twF9EmhTq2DynJjtdDt_RsL-LLly56WAufp5lKqI6" width="700">
+
+
+Acetaminophen / Hydrocodone [vicodin] (Nausea And Vomiting)
+Documenting Facility: LOMA LINDA HCS
+
+Ampicillin (Rash, Diarrhea)
+Verified: Apr 23, 2015
+Documenting Facility: LOMA LINDA HCS
+
+Beans (Gas)
+Verified: Jun 06, 2014
+Documenting Facility: LOMA LINDA HCS
+
+Codeine (Rash, Nausea And Vomiting)
+Verified: Feb 28, 2018
+Documenting Facility: LOMA LINDA HCS
+
+Divalproex (Liver Enzymes Abnormal)
+Verified: Jun 26, 2018
+Documenting Facility: LOMA LINDA HCS
 
 
 * Instructions to access in Staging
