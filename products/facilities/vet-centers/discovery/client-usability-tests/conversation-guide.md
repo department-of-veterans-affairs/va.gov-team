@@ -135,7 +135,10 @@ Continuing with our same scenario, imagine that you're looking to talk to a prof
 - If no,    
    - Would it go by any other name?
 - What could be improved about the way this information is presented?
-- Looking at the other services offered here, I wanted to direct your eye the "VA connections" box. Before clicking on it, if you had to guess, what is this service?
+
+Looking at the other services offered here, I wanted to direct your eye to the box labeled "VA connections". 
+
+- Before clicking on it, if you had to guess, what is this service?
 
 
 [have user expand an accordion if they haven't done so]
