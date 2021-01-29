@@ -19,7 +19,7 @@ In 2020 Q4, the Content/IA team piloted the documentation tool Confluence for ba
 
 Continue to use Scroll Viewport as a paid customer.  This allows us to:
 
-- **Customize the look and feel of our Platform Documentation:** We are able to customize the site's theme, header and footer, and navigation elements -- all elements not available in "vanilla Confluence."  We are currently unable to customize the site's font, but we understand that the Scroll Viewport team will start adding that functionality in 2021 Q1.  (Kevin Hoffman, Rachael Roueche, and Liani Lye spoke to the Scroll Viewport team in Dec 2020.
+- **Customize the look and feel of our Platform Documentation:** We are able to customize the site's theme, header and footer, and navigation elements -- all elements not available in "vanilla Confluence."  We are currently unable to customize the site's font, but we understand that the Scroll Viewport team will start adding that functionality in 2021 Q1.  (Kevin Hoffman, Rachael Roueche, and Liani Lye spoke to the Scroll Viewport team in Dec 2020.)
 - **Have greater control over the publishing workflow:** With Scroll Viewport, there is an additional manual step between modifying Confluence pages and "publishing" them, ie making them publicly viewable.  Given the distributed nature of writing content for Platform Documentation -- multiple Platform Teams will be involved -- having the Content/IA team be in control of that manual publishing step adds a layer of quality control.
 
 ### Option 2: Cease using Scroll Viewport
