@@ -18,7 +18,7 @@
 - What does the VA want to do about educational information? still link to Medline Plus? Do they have APIs, so we could link each allergy directly to the Medline Plus page on that particular allergy?
 
 ## Immunizations
-- Does the VA want to do anything special for COVID? If people are entering COVID information, do they want anything special? Is listing the company who made the vaccine important?
+- Does the VA want to do anything special for COVID? If people are entering COVID information, do they want anything special compared to other immunizations? For example, name of the company who made the vaccine.
 
 # Knowns
 ## Medications
