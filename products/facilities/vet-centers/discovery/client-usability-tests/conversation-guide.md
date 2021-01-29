@@ -112,9 +112,9 @@ I'm going to send you a link to a website to click on in the chat window inside 
 Building on the scenario that I just gave you. Let's imagine that as you're searching, you land on a website [this prototype] that looks promising and you want to dig a little deeper to see if this website has what you're need. Also, for purposes of this session, I'd like for you to imagine that you live in Orlando, Florida.
 
 
-[Mobile prototype to be tested](https://preview.uxpin.com/cdd25414c3c03534b7a8ee83b89f964219565580#/pages/135469174?mode=cvhidm)
+[Mobile prototype to be tested](https://preview.uxpin.com/0a5eaacdf411fde0cb3abf4932010c29fbccb7de#/pages/136042529?mode=cvhidm)
 
-OR type: rb.gy/tvmrpd 
+OR type: 
 
 _[Backup - Desktop prototype to be tested](https://preview.uxpin.com/cdd25414c3c03534b7a8ee83b89f964219565580#/pages/135469170?mode=cvhidm)_
 
