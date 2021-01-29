@@ -7,6 +7,7 @@
 * Continued build errors
    * What caused this week's issue? 
    * How can we better manage this moving forward?
+* Handling of broken links in VA.gov build
 * Change management messaging with content editors
 
 ## 1-22-21
