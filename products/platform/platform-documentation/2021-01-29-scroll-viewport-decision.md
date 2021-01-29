@@ -7,7 +7,7 @@ Authors: Liani Lye, Product Manager, VSP Content/IA
 ## Platform Documentation artifacts
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/platform-documentation/product-outline.md)
 - [Backend development documentaton (Platform Documentation in Confluence)](https://depo-platform-documentation.scrollhelp.site/developer-docs/)
-- 2020 Q1 Scroll Viewport research <- needs link
+- [May 2020 VSP Documentation Tool Solution Recommendation](https://docs.google.com/document/d/1dFsMtRUJ2nINSXWN6TOISHi79DfVRVOIaqm9ULG_5Eo/edit#heading=h.qizq3wqyrva4)
 
 ## Context
 
