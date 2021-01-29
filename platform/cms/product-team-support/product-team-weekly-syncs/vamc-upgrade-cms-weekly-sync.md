@@ -21,8 +21,9 @@
 
 </details>
 
-## Wednesday Jan 29 10am ET 
+## Friday Jan 29 10am ET 
 
+- Demo environments Beta testing (Oksana)
 - Training
 - Dual state launches week of Feb 8
 - Facility health services cutover
