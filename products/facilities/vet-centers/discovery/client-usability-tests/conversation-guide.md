@@ -114,7 +114,7 @@ Building on the scenario that I just gave you. Let's imagine that as you're sear
 
 [Mobile prototype to be tested](https://preview.uxpin.com/0a5eaacdf411fde0cb3abf4932010c29fbccb7de#/pages/136042529?mode=cvhidm)
 
-OR type: rb.gy/y3jt7f
+OR type: **rb.gy/y3jt7f**
 
 _[Backup - Desktop prototype to be tested](https://preview.uxpin.com/cdd25414c3c03534b7a8ee83b89f964219565580#/pages/135469170?mode=cvhidm)_
 
@@ -135,11 +135,16 @@ Continuing with our same scenario, imagine that you're looking to talk to a prof
 - If no,    
    - Would it go by any other name?
 - What could be improved about the way this information is presented?
+- Looking at the other services offered here, I wanted to direct your eye the "VA connections" box. Before clicking on it, if you had to guess, what is this service?
+
+
 [have user expand an accordion if they haven't done so]
 
 #### Things to watch for:
-• Where does the participant first click?
-• Does the participant know they can expand the accordions?
+
+- Where does the participant first click?
+
+- Does the participant know they can expand the accordions?
  
 
  ## Task #2 - Understanding alternative locations
