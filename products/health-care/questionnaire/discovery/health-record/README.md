@@ -95,6 +95,7 @@
 - Should we sit down with Lauren?
 - Clinicians - what pain points are they experiencing with these topics? if a Vet gets a COVID vaccine at CVS, what do they want entered into the VA system?
 - Authenticated experience team, because they are planning to show medications on MyVA.
+- Rx Refill and Ask a Pharmacist app groups
 
 # Questions for Veterans
 - Understand current pain points.
