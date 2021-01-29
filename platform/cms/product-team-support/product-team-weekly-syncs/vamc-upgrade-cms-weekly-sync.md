@@ -21,14 +21,27 @@
 
 </details>
 
+## Friday Feb 5 10am ET
+
+- user administration
+- 
+
 ## Friday Jan 29 10am ET 
 
 - Demo environments Beta testing (Oksana)
-- Training
+  - 1 hour with Lisa, Stan Oksana to identify any gaps in interface. Tuesday 3pm ET. Oksana will send invite. 
 - Dual state launches week of Feb 8
-- Facility health services cutover
-- Sunsetting content / archiving strategy
+- Training
+  - Stan will send Jane VISN 21 and 23 user list today.
 - Prod user account management
+  - VISN 4 users are all on prod. 
+  - Jane is verifying with Stan is when it's appropriate to enable accounts
+  - We'll look at ways of tightening the loop and empowering VAMC upgrade team to do this work directly in upcoming sprint(s). 
+- Facility health services cutover 
+  - See notes from [CMS/Facilities call on Wednesday](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-team-support/product-team-weekly-syncs/facilities-cms-weekly-sync.md#content-model-refactoring)
+- Sunsetting content / archiving strategy
+  - Dave set the limit of news stories / news releases to 3 months, for migration 
+  - CMS team will add this to a "later in Q1" timeline. 
 
 ## Wednesday Jan 20 2:30pm ET
 
