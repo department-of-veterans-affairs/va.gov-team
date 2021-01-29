@@ -112,8 +112,8 @@ Provide a bulleted outline describing the required features of the product
 
 |Name | Description | Launch Date | GitHub Issue | GitHub Directory|
 |--|--|--|--|--|
-|Post-MVP Enhancements| Adds link from search results to details pages, adds button to online tool where one exists | Jan 2021|[Epic 10758](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10758)|[post-mvp-launch-enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-va-forms-redesign/post-launch-mvp-enhancements)|
-
+|Sort by Last Updated Date|Gives users the ability to sort search results by Last Updated date|2021-02-09|#17732|https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-va-forms-redesign/sort-by-last-updated|
+|Post-MVP Enhancements| Adds link from search results to details pages, adds button to online tool where one exists | Jan 2021|#10758)|[post-mvp-launch-enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-va-forms-redesign/post-launch-mvp-enhancements)|
 |--|--|--|--|
 
 ### Product Team ###
