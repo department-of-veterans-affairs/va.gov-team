@@ -1,5 +1,12 @@
 # 2021 Weekly PM/PO Sync for CMS Export Build
 
+## 1-29-21
+
+### Topics to Discuss
+* Status update from all teams
+* Continued build errors caused by continued changes to content model — how can we better manage this moving forward?
+* Change management messaging with content editors
+
 ## 1-22-21
 
 ### Topics to Discuss
