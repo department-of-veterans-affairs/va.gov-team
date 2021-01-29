@@ -67,7 +67,7 @@ Thank you for sharing that, I think we’re ready to get started. Can you naviga
 
 ## Sign in (15 minutes)
 Next, I will ask you to process with signing into the VA mobile app using your own username and password. 
-- When we get to the point where you need to enter your password, I will ask you to stop the screen share to protect your privacy. Are you comfortable sharing your screen until we get to that point? 
+- When we get to the point where you need to enter your password, you can stop the screen share to protect your privacy if you'd like. Are you comfortable sharing your screen until we get to that point? 
 - Signing in will take a couple steps, and I'd like to go through them slowly together -- I will ask you to stop and share your feedback at a couple points while you are signing in. Does that sound ok?
 
 ### 1. App home screen
