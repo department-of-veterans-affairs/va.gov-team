@@ -36,7 +36,7 @@
   - side effects
   - warnings
   - drug interactions (additional interactions, such as alcohol or grapefruit juice)
-  - trade name (there was a note that they were looking into if they really needed this)
+  - trade name (there was a note in previous research that they were looking into if they really needed this)
   - dose/frequency
   - pharmacy phone
   - provider
