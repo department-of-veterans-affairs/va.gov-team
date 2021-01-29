@@ -17,7 +17,7 @@
 - What does the VA want to do about educational information? still link to Medline Plus? Do they have APIs, so we could link each allergy directly to the Medline Plus page on that particular allergy?
 
 ## Immunizations
-- Does the VA want to do anything special for COVID? If people are entering COVID information, do they want anything special?
+- Does the VA want to do anything special for COVID? If people are entering COVID information, do they want anything special? Is listing the company who made the vaccine important?
 
 # Knowns
 ## Medications
@@ -55,7 +55,7 @@
 - [Society for Hospital Medicine's Best Possible Medication History (BPMH) Quick Tips](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/health-record/references/MARQUIS%20BPMH%20Tri%20Fold%20Pocket%20Guide_0_0.pdf)
 
 ## Allergies
-- Current features/data displayed in MyHealtheVet (as noted by navigating across the site)
+- Current features/data displayed in MyHealtheVet (as noted by navigating across the site) and some other inspiration sites
   - Allergy Name (required)
   - Date (required. is the date the onset of the allergy? label isn't super descriptive)
   - severity
@@ -68,7 +68,7 @@
   - links to educational material on the allergies (currently links to Medline Plus)
 
 ## Immunizations
-- Current features/data displayed in MyHealtheVet (as noted by navigating across the site)
+- Current features/data displayed in MyHealtheVet (as noted by navigating across the site) and some other inspiration sites
   - Immunization name
   - date received (think about how to show immunizations that Veterans receive multiple times like Influenza)
   - reaction (currently MyHealtheVet has checkboxes with options)
@@ -77,6 +77,7 @@
   - other sign/symptom (currently dropdown list)
   - comments
   - ability to add a new immunization (patient reported data)
+  - Company who made COVID vaccine?
   - link to VA page on recommended screenings and immunizations for an adult
   - link to CDC traveler's health page
 
@@ -84,6 +85,7 @@
 - Lighthouse
 - Emily Mann (to understand what she found in her overall health care research)
 - MyHealtheVet?
+- Should we sit down with Lauren (or just Ming)
 - Clinicians - what pain points are they experiencing with these topics? if a Vet gets a COVID vaccine at CVS, what do they want entered into the VA system?
 - Would the customer experience team at the VA have any past research in this area that we could/should look into?
 
