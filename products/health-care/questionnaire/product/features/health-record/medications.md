@@ -34,7 +34,8 @@ User Story
 - Patient education - Medline Plus
 - Warnings/Side effects/Interactions
 - If no write back for Meds how are we posting to Lighhouse in PGD 
- - Do we deal with self-entered data?
+  - Are we allowing self-entered data?
+  - Without this, how can we capture non-prescription medications (herbals, OTCs, vitamins) that aren't in the system?
 - Medication type
   - As seen in current MyHealtheVet, an example of data in this field was "VA prescription")
 - Are we integrating with Surescripts or only Vista
