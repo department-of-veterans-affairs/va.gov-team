@@ -2,8 +2,9 @@
 
 This doc provides context to make a decision around using Scroll Viewport to augment our Confluence-based Platform Documentation.
 
-Authors: Liani Lye, Product Manager, VSP Content/IA
-Decision makers: Rachael Roueche, Dror Matalon, both OCTODE VSP leads
+_Author:_ Liani Lye, Product Manager, VSP Content/IA
+
+_Decision makers:_ Rachael Roueche, Dror Matalon, both OCTODE VSP leads
 
 ## Platform Documentation artifacts
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/platform-documentation/product-outline.md)
