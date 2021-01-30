@@ -15,6 +15,22 @@ These are the building blocks which we are putting in place to foster consistenc
    - Analytics
    - Post MVP Releases (with more sub-folders)
 
+## Doing the Work
+
+- [X] **Sprint Ceremonies** 
+- [X] **Sprint Planning/Grooming Approach** For unauth, we will adopt [this approach](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18941) to ensure meeting efficiency and reduce coginitive demand as the PO transitions from one team ceremony to the next.
+- [ ] **Quarterly Planning Approach** TBD -- how do we want to articulate our three-month plan?
+- [ ] **Annual Roadmapping Planning Approach** 
+
+
+## Measuring the Impact
+
+- [X] **Sprint Ceremonies** 
+- [X] **Sprint Planning/Grooming Approach** For unauth, we will adopt [this approach](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18941) to ensure meeting efficiency and reduce coginitive demand as the PO transitions from one team ceremony to the next.
+- [ ] **Quarterly Planning Approach** TBD -- how do we want to articulate our three-month plan?
+- [ ] **Annual Roadmapping Planning Approach** 
+
+
 
 ### Public Websites
 
