@@ -105,6 +105,8 @@ Provide a bulleted outline describing the required features of the product
 @@ To Be Requested @@
 
 ```
+_Tip_ Dashboards can be emailed on an ad hoc or scheduled basis
+
    #### Custom Reports
    
    _Tip_ Custom Reports can be shared via email on an ad-hoc or scheduled basis.  The report will only include the active tab shown when the report is scheduled.  Saved reports can also be shared via email
