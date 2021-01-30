@@ -17,7 +17,7 @@ In 2020 Q4, the Content/IA team piloted the documentation tool Confluence for ba
 
 ## Paths forward
 
-### Option 1 (recommended by the Content/IA team): Continue using Scroll Viewport
+### Option 1 (recommended by the Content/IA team): Continue using Scroll Viewport with Confluence Cloud
 
 Continue to use Scroll Viewport as a paid customer.  This allows us to:
 
@@ -30,18 +30,26 @@ Continue to use Scroll Viewport as a paid customer.  This allows us to:
  _Cost considerations:_ Due to Scroll Viewport's pricing structure, increased cost may have implications on the number of editors.
 
 
-### Option 2: Cease using Scroll Viewport
+### Option 2: Cease using Scroll Viewport, reverting to "vanilla Confluence Cloud"
 
-Cease to use Scroll Viewport, instead using "vanilla Confluence" with no other look/feel customization plugin.
+Cease to use Scroll Viewport, instead using "vanilla Confluence Cloud" with no other look/feel customization plugin.
 
 - **We will not be able to customize the look and feel of our Platform Documentation:** We will be bound to Confluence's default color scheme and navigation layout.
-- **Consideration: We will have to come up with an alternative process to maintain control over the publishing workflow:** Unless a page is restricted to specific viewers, published pages are viewable by the public, by default.  Doing this work is not a large decision factor in our (Content/IA's) recommendation.
+- **We will have to come up with an alternative process to maintain control over the publishing workflow:** Unless a page is restricted to specific viewers, published pages are viewable by the public, by default.  Doing this work is not a large decision factor in our (Content/IA's) recommendation.
 
 
 ### Option 3: Switch from Confluence Cloud to Data Center
 
+_Options 3a and 3b were added during our 2021-01-29 OCTODE <> Content/IA sync._
 
-### Option 4: Switch from Confluence Cloud to Data Center, augmented by Scroll Viewport
+#### Option 3a: Use vanilla Confluence Data Center
+
+asdf
+
+
+### Option 3b: Use Confluence Data Center, augmented by Scroll Viewport
+
+asdf
 
 
 ## Decision
