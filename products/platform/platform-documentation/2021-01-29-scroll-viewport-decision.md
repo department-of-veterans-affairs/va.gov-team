@@ -4,7 +4,7 @@ This doc provides context to make a decision around using Scroll Viewport to aug
 
 _Author:_ Liani Lye, Product Manager, VSP Content/IA
 
-_Decision makers:_ Rachael Roueche, Dror Matalon, both OCTODE VSP leads
+_Decision makers:_ Rachael Roueche, Dror Matalon, both VSP OCTODE leads
 
 ## Platform Documentation artifacts
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/platform-documentation/product-outline.md)
@@ -13,7 +13,7 @@ _Decision makers:_ Rachael Roueche, Dror Matalon, both OCTODE VSP leads
 
 ## Context
 
-In 2020 Q4, the Content/IA team piloted the documentation tool Confluence for backend developer documentation.  We tested a plugin called Scroll Viewport to customize the look and feel of the site.  Now that Scroll Viewport's free trial period is over, we have to evaluate if we want to continue as a paid customer.
+In 2020 Q4, the Content/IA team piloted the documentation tool Confluence for backend developer documentation.  We tested a plugin called Scroll Viewport to customize the look and feel of the site.  Now that Scroll Viewport's free trial period is over, we have to evaluate if we want to continue using Scroll Viewport as a paid customer.
 
 ## Paths forward
 
@@ -35,7 +35,7 @@ Continue to use Scroll Viewport as a paid customer.  This allows us to:
 Cease to use Scroll Viewport, instead using "vanilla Confluence" with no other look/feel customization plugin.
 
 - **We will not be able to customize the look and feel of our Platform Documentation:** We will be bound to Confluence's default color scheme and navigation layout.
-- **We will not be able to have greater control over the publishing workflow:** Unless a page is restricted to specific viewers, published pages are viewable by the public, by default.  
+- **Consideration: We will have to come up with an alternative process to maintain control over the publishing workflow:** Unless a page is restricted to specific viewers, published pages are viewable by the public, by default.  Doing this work is not a large decision factor in our (Content/IA's) recommendation.
 
 ## Decision
 
