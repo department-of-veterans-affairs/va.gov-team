@@ -1,6 +1,6 @@
 # Unauth Portfolio Checklist
 
-These are the building blocks we are putting in place to foster helpful consistency across the Public Website, Search and Tools teams.
+These are the building blocks which we are putting in place to foster consistency and collaboration across the unauth teams -- Public Website, Search and Decision Tools.
 
 ## Foundational
 
