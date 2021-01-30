@@ -37,6 +37,13 @@ Cease to use Scroll Viewport, instead using "vanilla Confluence" with no other l
 - **We will not be able to customize the look and feel of our Platform Documentation:** We will be bound to Confluence's default color scheme and navigation layout.
 - **Consideration: We will have to come up with an alternative process to maintain control over the publishing workflow:** Unless a page is restricted to specific viewers, published pages are viewable by the public, by default.  Doing this work is not a large decision factor in our (Content/IA's) recommendation.
 
+
+### Option 3: Switch from Confluence Cloud to Data Center
+
+
+### Option 4: Switch from Confluence Cloud to Data Center augmented by Scroll Viewport
+
+
 ## Decision
 
 To come.
