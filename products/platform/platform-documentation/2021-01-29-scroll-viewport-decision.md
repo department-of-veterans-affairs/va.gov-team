@@ -41,9 +41,11 @@ Cease to use Scroll Viewport, instead using "vanilla Confluence" with no other l
 ### Option 3: Switch from Confluence Cloud to Data Center
 
 
-### Option 4: Switch from Confluence Cloud to Data Center augmented by Scroll Viewport
+### Option 4: Switch from Confluence Cloud to Data Center, augmented by Scroll Viewport
 
 
 ## Decision
 
-To come.
+Decision made on 2021-01-29:
+- We will continue to us Confluence Cloud with Scroll Viewport for our Platform Documentation.
+- Confluence Data Center is an investigation that will be conducted in the future (no firm timeline), because the Content/IA team should focus on migrating The Home Page MVP per this initiative, [Migrate Homepage MVP documentation to Confluence #17060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17060).
