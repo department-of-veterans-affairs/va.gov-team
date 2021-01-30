@@ -1,4 +1,4 @@
-# December 17 Interview with Whole Health provider (a second Whole Health provider joined 3/4 of the way through)
+# December 17, 2020 Interview with Whole Health provider (a second Whole Health provider joined 3/4 of the way through)
 
 ## Key takeaways:
 - Would prefer for the PHI to be available on a Veteran-facing site, so any Veteran could stumble upon it and maybe fill it out. Sees this as another avenue into Whole Health. Also, Veterans tend to refer other Vets to Whole Health, so a public link could be utilized to start that referral process.
