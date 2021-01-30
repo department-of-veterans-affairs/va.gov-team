@@ -13,6 +13,7 @@
     - Getting into the  “How do I take charge of my life” course where they fill out the PHI during class via their phone
     - The PHI gets sent automatically to CPRS as they fill it out
     - then they might get into the clinical care side of Whole Health. 
+- Other questionnaires utilized are a little more nuanced and would require more exploration.
 
 ## Transcript of Interview
 Interviewer 2: Amanda recommended that we talk to you about the PHI or any other forms that you are sending out to Veterans prior to meeting with a coach. We wanted to understand that process a little bit as well as how COVID has impacted these processes. We are asking these questions, because we are part of a team that is looking at given that we are in this pandemic era how do we digitalize some of the processes for forms, because you don’t have in face interaction anymore, so we want to better understand some opportunity areas as VA kinds of increased the number of virtual visits they had is there anything that we can incorporate into that to make it more streamlined…
