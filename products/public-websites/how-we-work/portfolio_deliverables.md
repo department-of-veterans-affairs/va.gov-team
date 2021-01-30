@@ -5,7 +5,7 @@ These are the building blocks we are putting in place to foster helpful consiste
 ## Foundational
 
 - [X] **[How We Work Principles](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-we-work)**-- outlining roles, expectations, standards, biweekly meetings for steady cadence, etc.  Our home page.
-- [X] **Team Charter & GH Document Repository** (e.g. [Search team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/search-discovery) - Along with the team charter, this is where you will find the team's roster, ceremonies schedule, key artifacts including details about product line scope and annual roadmap documents.
+- [X] **Team Charter & GH Document Repository** (e.g. [Search team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/search-discovery)) - Along with the team charter, this is where you will find the team's roster, ceremonies schedule, key artifacts including details about product line scope and annual roadmap documents.
 - [X] **Product Folders** (e.g. [Search team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/search-discovery) - For each team, there should be separate GH folders in the [Product directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products).  And within each Product folder, 
 
 
