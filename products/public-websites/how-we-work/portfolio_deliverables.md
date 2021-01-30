@@ -1,4 +1,12 @@
-## Unauth Portfolio Deliverables
+# Unauth Portfolio Deliverables
+
+
+
+## Foundational
+
+ - [X] How We Work -- outlining roles, expectations, standards, biweekly meetings for steady cadence, etc.
+
+
 
 ### Public Websites
 
