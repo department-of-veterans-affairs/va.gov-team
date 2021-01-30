@@ -47,7 +47,7 @@ _Options 3a and 3b were added during our 2021-01-29 OCTODE <> Content/IA sync._
 asdf
 
 
-### Option 3b: Use Confluence Data Center, augmented by Scroll Viewport
+#### Option 3b: Use Confluence Data Center, augmented by Scroll Viewport
 
 asdf
 
