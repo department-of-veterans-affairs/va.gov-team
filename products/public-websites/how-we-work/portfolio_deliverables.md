@@ -28,12 +28,12 @@ These are the building blocks which we are putting in place to foster consistenc
 
 ## Measuring the Impact
 
-- [X] **Product Analytics** For each product, set up the following:
+- [X] **Product Analytics** - For each product, set up the following:
      - Google Analytics Dashboard
      - DOMO Dashboard 
 - [X] **OKR/KPI Roadmap* For unauth, we will adopt [this approach](https://docs.google.com/document/d/1zL6tkV54BDAP4GSu9ceMPccowdqQor1ldaHHGPtoyt8/edit).
 - [ ] **Impact Reviews & Team of Teams Read-outs** 
-- [ ] **Monthly Product Performance Sessions**
+- [ ] **Monthly Product Performance Sessions** - Reports should be auto-emailed to product team-members and key stakeholders.
 
 
 
