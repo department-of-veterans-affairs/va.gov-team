@@ -18,9 +18,9 @@ These are the building blocks which we are putting in place to foster consistenc
 ## Planning & Executing the Work
 
 - [X] **Sprint Ceremonies** 
-- [X] **Sprint Planning/Grooming Approach** For unauth, we will adopt [this approach](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18941) to ensure meeting efficiency and reduce coginitive demand as the PO transitions from one team ceremony to the next.
-- [ ] **Quarterly Planning Approach** TBD -- how do we want to document/articulate our three-month plan?  Proposed: Create a six sprint plan in the same format as a [single sprint plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18941).
-- [ ] **Annual Roadmapping Planning Approach** Leverage Mural for ideation/OKR sessions with team and, if possible, stakeholders.  
+- [X] **Sprint Planning/Grooming Approach** For unauth, we will adopt [this sprint plan approach](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18941) to ensure meeting efficiency and reduce coginitive demand as the PO transitions from one team ceremony to the next.
+- [ ] **Quarterly Planning Approach** TBD -- how do we want to document/articulate our three-month plan?  Proposed: Create a six sprint plan in the same format as a [single sprint plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18941) -- the mid-range planning version.
+- [ ] **Annual Roadmapping Planning Approach** Leverage Mural for ideation/OKR sessions with each team, OCTO-DE and -- as much as possible -- VA stakeholders. An up-to-date version of the team's roadmap should be posted on the Team Charter page.
 
 
 ## Measuring the Impact
