@@ -21,7 +21,9 @@ These are the building blocks which we are putting in place to foster consistenc
 - [X] **Sprint Planning/Grooming Approach** For unauth, we will adopt [this sprint plan approach](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18941) to ensure meeting efficiency and reduce coginitive demand as the PO transitions from one team ceremony to the next.
 - [ ] **Quarterly Planning Approach** TBD -- how do we want to document/articulate our three-month plan?  Proposed: Create a six sprint plan in the same format as a [single sprint plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18941).
 - [ ] **Annual Roadmapping Planning Approach** 
-   - Leverage Mural for ideation/OKR sessions with each team, OCTO-DE and -- as much as possible -- VA stakeholders. 
+   - The PO will leverage Mural for:
+      - [Roadmap workshop sessions with each team](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1611084100918/11d270b2efd9c9685720ccfe4ae96ea84f63ed4f)
+      - [Communicating the roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1606233302345/7ce4ecc84a8d04a12dd3de0ef33600ea86611aad)with the teams, OCTO-DE product crews and leadership and key VA stakeholders
    - Translate this into various formats for sharing -- PPT Slide, GH table, etc.
 
 
