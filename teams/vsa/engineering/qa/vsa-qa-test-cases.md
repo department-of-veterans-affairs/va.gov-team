@@ -2,9 +2,9 @@
 
 **[WORK IN PROGRESS]**
 
-Read about Test Cases, and follow the relevant best practices.
+Read about Test Cases in general, and follow the relevant best practices.
 
-[See also [TestRail help](testrail/README.md) for VSA-specific help on DSVA's TestRail test case management system.]
+[See also [TestRail help](testrail/README.md) for TestRail-specific test-case topics.].
 
 ## Test Cases are not Use Cases
 

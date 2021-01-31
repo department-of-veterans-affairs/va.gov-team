@@ -12,7 +12,7 @@ Content here will grow over time.  Below are links to our currently-available do
 
 [Tasks & Capacity](vsa-qa-tasks-capacity.md)
 
-[Test Cases](testrail/vsa-qa-test-cases.md) [WIP]
+[Test Cases](vsa-qa-test-cases.md) [WIP]
 
 [TestRail help](testrail/README.md) [WIP]
 
