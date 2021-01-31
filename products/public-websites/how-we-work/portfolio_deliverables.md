@@ -15,20 +15,24 @@ These are the building blocks which we are putting in place to foster consistenc
    - Analytics
    - Post MVP Releases (with more sub-folders)
 
-## Doing the Work
+## Planning & Executing the Work
 
 - [X] **Sprint Ceremonies** 
 - [X] **Sprint Planning/Grooming Approach** For unauth, we will adopt [this approach](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18941) to ensure meeting efficiency and reduce coginitive demand as the PO transitions from one team ceremony to the next.
-- [ ] **Quarterly Planning Approach** TBD -- how do we want to articulate our three-month plan?
-- [ ] **Annual Roadmapping Planning Approach** 
+- [ ] **Quarterly Planning Approach** TBD -- how do we want to document/articulate our three-month plan?  Proposed: Create a six sprint plan in the same format as a [single sprint plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18941).
+- [ ] **Annual Roadmapping Planning Approach** Leverage Mural for ideation/OKR sessions with team and, if possible, stakeholders.  
 
 
 ## Measuring the Impact
 
-- [X] **Sprint Ceremonies** 
-- [X] **Sprint Planning/Grooming Approach** For unauth, we will adopt [this approach](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18941) to ensure meeting efficiency and reduce coginitive demand as the PO transitions from one team ceremony to the next.
-- [ ] **Quarterly Planning Approach** TBD -- how do we want to articulate our three-month plan?
-- [ ] **Annual Roadmapping Planning Approach** 
+- [X] **Product Analytics** 
+      - Google Analytics Dashboard
+      - DOMO Dashboard 
+- [X] **OKR/KPI Roadmap* For unauth, we will adopt [this approach](https://docs.google.com/document/d/1zL6tkV54BDAP4GSu9ceMPccowdqQor1ldaHHGPtoyt8/edit).
+- [ ] **Impact Reviews & Team of Teams Read-outs** 
+- [ ] **Monthly Product Performance Sessions**
+
+
 
 
 
