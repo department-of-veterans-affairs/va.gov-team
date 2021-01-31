@@ -23,9 +23,8 @@ These are the building blocks which we are putting in place to foster consistenc
 - [ ] **Annual Roadmapping Planning Approach** 
    - The PO will leverage Mural for:
       - [Roadmap workshop sessions with each team](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1611084100918/11d270b2efd9c9685720ccfe4ae96ea84f63ed4f)
-      - [Communicating the roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1606233302345/7ce4ecc84a8d04a12dd3de0ef33600ea86611aad)with the teams, OCTO-DE product crews and leadership and key VA stakeholders
-   - Translate this into various formats for sharing -- PPT Slide, GH table, etc.
-
+      - [Communicating the roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1606233302345/7ce4ecc84a8d04a12dd3de0ef33600ea86611aad) with the teams, OCTO-DE product crews and leadership and key VA stakeholders
+   - The roadmap will be translated this into various formats for broader sharing -- PPT Slide, GH table, etc.
 
 ## Measuring the Impact
 
@@ -35,8 +34,6 @@ These are the building blocks which we are putting in place to foster consistenc
 - [X] **OKR/KPI Roadmap* For unauth, we will adopt [this approach](https://docs.google.com/document/d/1zL6tkV54BDAP4GSu9ceMPccowdqQor1ldaHHGPtoyt8/edit).
 - [ ] **Impact Reviews & Team of Teams Read-outs** 
 - [ ] **Monthly Product Performance Sessions**
-
-
 
 
 
