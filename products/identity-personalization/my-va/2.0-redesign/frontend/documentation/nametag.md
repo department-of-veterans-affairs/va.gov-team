@@ -8,7 +8,7 @@
 
 **Do not show**
 
-- If someone is LOA1.
+- If we can not detect someone's name.
 
 ## States
   
