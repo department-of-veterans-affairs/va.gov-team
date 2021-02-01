@@ -35,6 +35,12 @@
 
 </details>
 
+## Wednesday February 10
+
+### CLP
+
+- Training / guides. 
+
 ## Wednesday February 3
 
 ### How we work
