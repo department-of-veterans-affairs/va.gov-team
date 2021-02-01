@@ -10,8 +10,7 @@
 
 ## Intro - 3 minutes
 
-Thanks for joining us today! My name is Leyda. I also have some colleagues on the line observing and taking notes.
-Today we'll be discussing ideas for a new webpage that will live on the VA's website.
+Thanks for joining us today! My name is Leyda. I work as part of a team that makes improvements to VA's websites. We reach out to Veterans from time to time to get their input to make sure we're on the right track. I also have some colleagues on the line observing and taking notes. Today we'll be discussing ideas for a new webpage that will live on the VA's website. 
 
 Before we get started, I want to give you an idea of what this call will be like:
 
@@ -106,10 +105,10 @@ Imagining this situation,
  Ok, thank you for considering that. I'd like you to keep this scenario in mind for the next part.
  
  ## Task #1 - Find Individual counseling services
+ 
+[Share link] 
 
 I'm going to send you a link to a website to click on in the chat window inside Zoom. You may have to find that same row of buttons and find the one that says "chat" or it may be within a "more" button. As I mentioned before, it's going to look like a real web page but its actually just a prototype of a website. And because it is just a prototype, it may not function quite as a normal website would. 
-
-Building on the scenario that I just gave you. Let's imagine that as you're searching, you land on a website [this prototype] that looks promising and you want to dig a little deeper to see if this website has what you're need. Also, for purposes of this session, I'd like for you to imagine that you live in Orlando, Florida.
 
 
 [Mobile prototype to be tested](https://preview.uxpin.com/0a5eaacdf411fde0cb3abf4932010c29fbccb7de#/pages/136042529?mode=cvhidm)
@@ -130,11 +129,18 @@ Tango
 Foxtrot
 
 
+[Set up]
+
+Building on the scenario that I just gave you. Let's imagine that as you're searching, you land on a website [this prototype] that looks promising and you want to dig a little deeper to see if this website has what you're need. Also, for purposes of this session, I'd like for you to imagine that you live in Orlando, Florida.
+
 I'll give you a second to take the page in. [limit to a quick scan]
 
-Continuing with our same scenario, imagine that you're looking to talk to a professional one-on-one. 
+[TASK]
 
-- Can you tell me if that type of care or service is available here?
+
+Given this scenario, imagine that you're looking to talk to a professional one-on-one. 
+
+- Can you tell me if that type of care or service is available here at the Orlando Vet Center?
 - Talk me through where you would expect to see that type of care?
 
 [narrate what the user did]
