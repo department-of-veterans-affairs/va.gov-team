@@ -18,7 +18,12 @@ User Story
 - other sign/symptom (currently dropdown list)
 - comments
 - ability to add a new immunization (patient reported data)
-- Company name who made COVID vaccine?
+- What is currently listed on the COVID-19 Vaccination Record Card
+  - Product Name/Manufacturer (such as Moderna)
+  - Lot number
+  - Date
+  - Healthcare professional or Clinic site
+  - 1st Dose and 2nd Dose
 - link to VA page on recommended screenings and immunizations for an adult
 - link to CDC traveler's health page
 - link to VAOS to schedule immunization appointment
