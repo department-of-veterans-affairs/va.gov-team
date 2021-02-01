@@ -39,11 +39,11 @@
 
 ### How we work
 
-Per slack, review on [content model changes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-team-support/content-model-changes.md)
+Per slack, review of [content model changes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-team-support/content-model-changes.md)
 
 ### Upcoming demo environment trainings
 
-Are there any short-term needs
+Are there any short-term needs?
 
 ### CLP
 
@@ -54,7 +54,6 @@ Are there any short-term needs
 - #3950 Address block styling in Limited rich text editor
  
 ### Benefits detail pages
-
 
 
 ## Wednesday January 27
