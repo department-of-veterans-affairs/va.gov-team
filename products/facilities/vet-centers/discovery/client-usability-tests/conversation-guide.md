@@ -96,7 +96,7 @@ Thank you for sharing that.
  
 I'm going to give you a scenario to consider. 
 
-I'd like you to imagine that you've been going through a rough time. You're considering talking to a professional. In this scenario, imagine that this is something that you haven't done before so you're not really sure what type of resources are available to you. You decide to start your search on the internet.
+I'd like you to imagine that you've been going through a rough time. You're considering talking to a professional, maybe for some one on one counseling or maybe group counseling. In this scenario, imagine that this is something that you haven't done before so you're not really sure what type of resources are available to you. You decide to start your search on the internet.
 
 Imagining this situation,
 
