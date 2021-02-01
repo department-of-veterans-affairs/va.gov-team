@@ -72,12 +72,12 @@ Seeking input on [Content model changes documentation](https://github.com/depart
   * Basically "ready" for FE development, but we should arrange a spike for how FE might think about "Centralized content" more broadly. 
   * Policies currently uses Detail page. New content type "VAMC Policies" with new fields. 
     * "Entity field fetch" is new for transformers and graphql. 
-    * **Kev to write an issue for Steve to document content model for FE devs**
+    * **Kev to write an issue for Steve to document content model for FE devs** (CMS #4145)
   * Policies pages will be swapped out (old to new) on a VAMC system by system basis ("manually").  
 
 * VHA health service type of care [#1981](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1981)
   * VHA health service “type of care"
-  * **Kev will create an issue to change label to "Type of care (VAMC)" and add a new field "Type of care (Vet Center)" 
+  * **Kev will create an issue to change label to "Type of care (VAMC)" and add a new field "Type of care (Vet Center)"  
   * Type of care is currently both a parent and an attribute, the FE uses the parent
   * System health services could be refactored now to group by attribute not parent.
   * FE could just ignore the 5 terms that don’t have Type of care values (which are the parents)
