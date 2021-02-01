@@ -27,12 +27,19 @@ Results of Pittsburgh spelunking.
 
 Seeking input on [Content model changes documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-team-support/content-model-changes.md)
 
+We can use this framework to discuss content model refactoring epics below.
 
 ### Upcoming demo environment traings 
 
 
 ### Content model refactoring 
 
+
+
+### Vet Centers
+
+* #4147 Type of care (Vet Center) field.
+* Roadmap
 
 
 ### Other
@@ -62,7 +69,7 @@ Seeking input on [Content model changes documentation](https://github.com/depart
   * Dave will remove second service locations from University Drive health services 
   * Move some blobby content from Pittsburgh (Dave)
   * Phone number issue in flight (Gibran), no questions
-  * Once that is done, we can turn off blobby content in editing page, and remove staging only link, and make sure that blobby content can still be read somewhere--Tugboat environment, proofing page, disabled on editing page. **Kev will write issue**. 
+  * Once that is done, we can turn off blobby content in editing page, and remove staging only link, and make sure that blobby content can still be read somewhere--Tugboat environment, proofing page, disabled on editing page. **Kev will write issue (CMS #4146) **. 
   * Pittsburgh editors (Ryan and Shelley) will review training for health services. They may have help desk questions. 
   * **Kev and Michelle to review for anything missing** 
   * FE issues to remove blobby GraphQL/Transformer / liquid template code
@@ -77,7 +84,7 @@ Seeking input on [Content model changes documentation](https://github.com/depart
 
 * VHA health service type of care [#1981](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1981)
   * VHA health service “type of care"
-  * **Kev will create an issue to change label to "Type of care (VAMC)" and add a new field "Type of care (Vet Center)"  
+  * **Kev will create an issue to change label to "Type of care (VAMC)" and add a new field "Type of care (Vet Center)" #4147**
   * Type of care is currently both a parent and an attribute, the FE uses the parent
   * System health services could be refactored now to group by attribute not parent.
   * FE could just ignore the 5 terms that don’t have Type of care values (which are the parents)
