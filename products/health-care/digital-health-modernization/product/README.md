@@ -1,11 +1,17 @@
 # Product Strategy TL; DR
-- This document reflects the evolving understanding of the product strategy lead (@aryeh-usds currently).
+- This document reflects the evolving understanding of the product strategy lead (@aryeh-usds).
 - It values readability over comprehensive explanations (ex., we start with constraints without explaining why).
-- It is intended as the first "phase" of creating a new health product which is expected to exist indefinitely and will continue to iterate. 
-- If you see something, say something! It's meant to be a conversation-starter.
+- It is intended as the first "phase" of creating a new health product which is expected to exist indefinitely and change continuously. 
+- If you see something, say something! It's a conversation-starter.
 
-## Team Mission
-- Define, and manage / execute, first steps to replatform My HealtheVet onto VA.gov and / or VA's flagship mobile app.
+## Mission
+### Premise
+Define, and execute, first steps to replatform My HealtheVet onto VA.gov and / or VA's flagship mobile app
+
+### Goals
+1. Demonstrate incremental progress quickly (OCTO priority 1)
+2. First steps benefit Veterans in future whether or not Cerner owns the VA patient portal (viability risk 3)
+3. Minimize number of teams involved at any one time (logistical constraint 7)
 
 ## Constraints
 ### OCTO Priorities
@@ -22,24 +28,9 @@
 7. **VA.gov is getting big, fast:** Some limitations from VA.gov's beginnings as a content site (ex., no sitewide notifications) may make it difficult to capitalize on the benefit of colocating Veteran-facing tools on VA.gov. Change control on such a big site will be a challenge. Teams own functional areas rather than designing arond user journeys per se, which presents a variety of challenges but notably runs the risk of tool duplication on our own product. These things will all change very slowly; we need to work around them, assuming they will remain true. 
 
 ## Strategy 
-
-### Goals
-1. Demonstrate incremental progress quickly (OCTO priority 1)
-2. Initial moves benefit Veterans in future whether or not Cerner owns the VA patient portal (viability risk 3)
-3. Minimize number of teams involved at any one time (logistical constraint 7)
-
-### Strategies
 Subject to iteration based on learning. Each step assumes the previous step went well. Strategies are in no particular order and may or may not be mutually-exclusive due to resource constraints. All strategies assume we will work with the Identity team to transition Veterans with My HealtheVet credentials onto something that works with VA single sign-on. 
 
-#### Comparison Placeholder
-This section needs a matrix comparing strategies and seeing where they do or not not intersect with constraints. Prototype below. 
-
-| Strategy | Constraint 1 | C2 | C3 | C4 | C5 | C6 | 
-| -- | -- | -- | -- | -- | -- | -- |
-| A | + | + | - | - | + | + |
-| B | - | + | - | + | + | - |
-
-#### Strategy A: Retrofit Content Pages into Action Pages 
+### Strategy A: Retrofit Content Pages into Action Pages 
 Assumes rebuilding on VA.gov is cheaper and wiser than replatforming My HealtheVet's stack. largely analogous to eBenefits' migration strategy to VA.gov. 
 
 1. Optimize a single health page (ex., prescriptions) for call to action over content. A/B test against current state. Measure conversion funnel to good actions, and bounce rate between A and B. Tests hypothesis that modernization = action over understanding.
@@ -49,7 +40,7 @@ Assumes rebuilding on VA.gov is cheaper and wiser than replatforming My HealtheV
 5. When the big four (appointments, meds, records, messages) all exist on VA.gov, begin to move the bulk of Veterans over (see Go to Market for details)
 6. MHV remains the long tail site for things that are not migrated over, until they are migrated or sunset
 
-#### Strategy B: Build off MyVA
+### Strategy B: Build off MyVA
 This would be a good strategy if we feel we can do the most good for the most Veterans by getting the ~3MM Veterans who use VA.gov but not MHV, access to online health tools and care. Assumes the barrier is awareness, not interest
 
 1. Add a global notifications affordance for authenticated users on VA.gov
@@ -59,12 +50,12 @@ This would be a good strategy if we feel we can do the most good for the most Ve
 5. If we hear the above, build out a health home on VA.gov 
 
 
-#### Strategy C: Focus on Providers
+### Strategy C: Focus on Providers
 This would be a good strategy if we care most about Veteran health outcomes, and the best way to ensure that is increasing the availability and quality of direct contact between Veterans and Providers. 
 
 Quarter-baked. This assumes we can do the most good for Veterans by increasing engagement with Providers by encouraging non-appointment interactions (ex., chat) and / or increasing Provider appointment throughput by removing technological barriers to doing Caregiver things instead of computer thing. Almost certainly mutually-exclusive expenditure of effort and focus to the directly Veteran-facing strategies, if we dig in here. Aryeh is doing some back-channel research into this. 
 
-#### Strategy D: Improve My HealtheVet in Place
+### Strategy D: Improve My HealtheVet in Place
 This would be a good strategy if we believe that My HealtheVet's tech stack would allow it to happen (and could be the least disruptive option for Veterans and for the MHV team). 
 
 1. Migrate MHV accounts into something that works with single sign-on on VA.gov
@@ -72,7 +63,7 @@ This would be a good strategy if we believe that My HealtheVet's tech stack woul
 3. Lift and shift MHV into health.va.gov
 4. Iterate in place
 
-#### Strategy E: Ignore VA.gov to Focus on Mobile
+### Strategy E: Ignore VA.gov to Focus on Mobile
 This would be a good strategy if we believe we need to focus our resources in order to demonstrate ANY viable portal, rather than trying to make two. Or if we think mobile is simply more useful to more Veterans. 
 
 1. Build messages, appointments, presecriptions and health records into the Flagship Mobile App, iteratively, after the app goes live
@@ -106,6 +97,7 @@ Quarter-baked.
 - Satisfaction with a specific tool compared to MHV and / or Cerner
 - Proportion of MHV users who could follow a link into VA.gov (or the flagship app) without needing to login again
 
+# Appendix
 ## Problems with this Approach / Document / Strategy
 - Goals are fuzzy per strategy. What are we really trying to do, here, for Veterans? 
 - Does not lay out link between insight -> constraint -> approach in a way a business analyst might (product strategy lead believes that would be jousting at windmills to try given the complexity of the domain, though there has been demand for this)
@@ -116,3 +108,12 @@ Quarter-baked.
 - "Awareness" (ex., places where vets learn, or re-learn, where to look for health resources in the first place)
 - The long tail of 30+ apps and other forms of patient-generated data
 - Permissions for caregivers (people share accounts for now, acceptable workaround, solve later)
+
+## WIP
+### Comparison Placeholder
+This section needs a matrix comparing strategies and seeing where they do or not not intersect with constraints. Prototype below. 
+
+| Strategy | Constraint 1 | C2 | C3 | C4 | C5 | C6 | 
+| -- | -- | -- | -- | -- | -- | -- |
+| A | + | + | - | - | + | + |
+| B | - | + | - | + | + | - |
