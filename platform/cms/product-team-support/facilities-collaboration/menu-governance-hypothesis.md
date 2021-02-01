@@ -27,10 +27,10 @@ Design goals
 * Agile: VAMC system product managers can iterate on IA, without egregious technical debt to deal with
 
 
-## Opportunity set A
+## Opportunity set 1: CMS governance for menu items
 
 
-### Opportunity 1: Lock down menu editing for all VAMC content types other than Detail pages
+### Opportunity 1a: Lock down menu editing for all VAMC content types other than Detail pages
 
 **Short term**
 
@@ -40,7 +40,7 @@ Editors in the field _do not need to edit menu items for any other content types
 
 The CMS could lock down editing permissions and IA for all VAMC-enabled content types other than Detail page. Only users with the Content Admin role would be able to manipulate menu items (and perform “scaffolding” tasks, like setting up a new VAMC). 
 
-### Opportunity 2: Consider building in tools to locking down _certain_ Detail Page node menu items
+### Opportunity 1b: Consider building in tools to locking down _certain_ Detail Page node menu items
 
 **Short-to-medium term**
 
@@ -50,7 +50,7 @@ A large portion of detail pages could have menu items locked down.
 
 Currently, we have no way of identifying these using anything in the content model. CMS team could devise a means to lock down menu items on a node-by-node or other (path-based?) basis.
 
-### Opportunity 3: Convert as many detail pages to content types, and lock their position
+### Opportunity 1c: Convert as many detail pages to content types, and lock their position
 
 **Medium-to-long term**
 
@@ -60,6 +60,26 @@ This depends on the strategy of Opportunity 1
 *   Care coordinator pages 
 *   Standard "About" section pages (About us, Mission and vision, history, Work with us, Jobs and careers, Internships and fellowhsips, Volunteer or donate, etc)
 
+
+## Opportunity set 2: Build CMS editorial experience to work within constraints of IA 
+
+### Opportunity 2a: Provide an editorial experience for adding and editing menu items on discretionary detail pages "on the fly"
+
+Currently in the CMS UI, editors can add _any parent_ as a menu item to _any page_, as long as they have access to edit that menu. (Each VAMC editor has access to their own VAMC menu, but not others). 
+
+Assuming opportunity 1a is solved, editors would only be able to create and edit menu items for Detail pages (and possibly only _certain_ detail pages, given 1b).
+
+How might we provide these constraints within the content adding/editing experience? 
+
+### Opportunity 2b: Provide an editorial experience for managing each VAMC menu system 
+
+Occasionally, an editor may want to move a few menu items around at once, using the drag and drop tools found on a menu editing page like [the one for VA Erie health care](https://prod.cms.va.gov/admin/structure/menu/manage/va-erie-health-care) 
+
+How might we provide an editorial experience on the menu editing page that both builds in those constraints, but also explains it?  
+
+### Opportunity 2c: Change management and training
+
+For 2a and 2b, we'll want to update existing training materials as well as manage these changes for the existing editor based. 
 
 ## Opportunities that would involve FE refactoring
 
@@ -94,8 +114,3 @@ Occasionally, children are incorrectly/accidently added to the parent "VA Pittsb
 
 If we switch to path-based breadcrumbs, the homepage menu items in Drupal become even more redundant, and it provides additional incentive to remove this item, because the risk of editor-introduced bugs goes down.
 
-## CMS UI Design challenges
-
-
-1. How might PAOs be able to understand the IA of their product enough to know how and where to put their discretionary detail pages? 
-2. What does the menu editing interface look like for PAOs? Should they still be able to access the menu page? If they create a new detail page, how do we represent the eligible parents menu items?
