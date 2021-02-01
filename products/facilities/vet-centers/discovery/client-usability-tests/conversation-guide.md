@@ -193,7 +193,7 @@ Let's imagine that you're interested in one of the services at the main location
 
 **Ready to visit?**
 
-Imagining that you're interested in one of the services at the main location:
+Imagining that you're interested in one of the services at this location:
 
 - What would be your next step?
 
@@ -207,14 +207,24 @@ Imagining that you're interested in one of the services at the main location:
 We're almost done. I just have a few more questions left.
 
  - In your own words, how would you describe the Orlando Vet Center
+ 
+ If Vet Center client:
+ - How would you describe the kind of care that can you get here?
+ - Are there any types of services or care that you don't think you can get here?
+ - How does this website compare or constrast with your own image or idea of a Vet Center?
+ - What recommendations do you have for improving this website?
+  
+ 
+ If **NOT** a Vet Center client:
  - How would you describe the kind of care that can you get here?
  - Are there any types of services or care that you don't think you can get here?
  - What recommendations do you have for improving this website?
  
 ## Task #4 - Navigating to VA.gov
 
- - Lastly, let's imagine that you wanted to look up some other information on VA.gov's homepage.
-How would you do that?
+Lastly, let's imagine that you wanted to look up some other information on VA.gov's homepage.
+
+- How would you do that?
 
 #### Things to watch for:
 • How does the participant navigate? Breadcrumb? VA.gov logo?
