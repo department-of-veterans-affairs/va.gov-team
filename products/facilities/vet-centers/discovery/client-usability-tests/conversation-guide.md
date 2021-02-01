@@ -133,13 +133,13 @@ Tango
 Foxtrot
 
 
-[Set up]
+####[Set up]
 
 Building on the scenario that I just gave you. Let's imagine that as you're searching, you land on a website [this prototype] that looks promising and you want to dig a little deeper to see if this website has what you're need. Also, for purposes of this session, I'd like for you to imagine that you live in Orlando, Florida.
 
 I'll give you a second to take the page in. [limit to a quick scan]
 
-[TASK]
+####[TASK - one-on-one]
 
 
 Given this scenario, imagine that you're looking to talk to a professional one-on-one. 
@@ -155,6 +155,8 @@ Given this scenario, imagine that you're looking to talk to a professional one-o
 - If no,    
    - Would it go by any other name?
 - What could be improved about the way this information is presented?
+
+####[TASK - VA connections]
 
 Looking at the other services offered here, I wanted to direct your eye to the box labeled "VA connections". 
 
