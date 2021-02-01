@@ -1,4 +1,4 @@
-# Conversation Guide: Vet Centers Product - Usability Test - V2
+# Note taking template: Vet Centers Product - Usability Test - V2
 
 **January 2021**<br>
 **Time:**<br>
