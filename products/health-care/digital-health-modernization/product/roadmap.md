@@ -7,10 +7,10 @@ This is a rough draft of a Digital Health Modernization roadmap. It has no buy-i
 - Paraphrase: A single, high-quality UX for each Veteran-facing tool. 
 
 ## Mission
-- Create a viable, comprehensive patient portal on VA.gov before Cerner de facto usurps running VA's patient portal. 
+- Create a viable patient portal on VA.gov and / or the VA Flagship Mobile App before Cerner de facto usurps running VA's patient portal. 
 
 ## Roadmap
-### Now
+### Now (high confidence)
 Items in Now are not strongly order-dependent. This describes how we might agile-ly add core clinical affordances to VA.gov. 
 
 #### Optimize a single VA.gov health page (ex., secure message) for call to action over content.
@@ -27,6 +27,8 @@ Items in Now are not strongly order-dependent. This describes how we might agile
 - Measure conversion funnel to good actions and compare to baseline. 
 - Tests hypothesis that login is a barrier. 
 - Impacts identity crew and MHV team.
+
+### Next (medium confidence)
 
 #### Optimize a VA.gov health page for action over content (ex., secure message). 
 
@@ -46,8 +48,7 @@ Items in Now are not strongly order-dependent. This describes how we might agile
 - Tests hypothesis that some VA.gov users may not know or feel eligible for care (there are more VA.gov than MHV users). 
 - Affects public website crew. 
 
-
-### Next
+### Later (low confidence)
 Items in next **are** order-dependent. This describes how we might transition users from My HealtheVet to VA.gov. 
 
 - Create a health "home" on VA.gov so the tools we've created function cohesively
@@ -57,9 +58,6 @@ Items in next **are** order-dependent. This describes how we might transition us
 - Market an opt-in beta of health.va.gov, on MHV. Show to lots of people, maybe everyone. Get feedback. 
 - Potentially begin to add net new value here by designing around user journeys, modes or jobs to be done for common needs (ex., an entire primary care visit) — 
 including incorporating claims, billing, reimbursements as necessary. 
-
-### Later
-
 - Create an opt-out beta of VA.gov. Slowlly transition users into this.
 - Begin to migrate or deprecate long tail of functionality from MHV. 
 - Sunset MHV. 
