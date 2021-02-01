@@ -122,6 +122,7 @@ As you’re performing this task, please talk us through your thoughts as you in
 This is the same page as before, but with an alternate feedback button design.
 - Can you describe for me the differences between this button and the previous button?
 - Would you describe this button as better or worse than the previous button?
+  - *Follow up:* Can you explain your answer?
 
 **Comparative Ranking**
 
