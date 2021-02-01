@@ -148,6 +148,7 @@ Given this scenario, imagine that you're looking for someone to talk to a profes
 
 - Can you tell me if that type of care or service is available here at the Orlando Vet Center?
 - Talk me through where you would expect to see that type of care?
+- If you wanted more information what would be your next step?
 
 [narrate what the user did]
 
