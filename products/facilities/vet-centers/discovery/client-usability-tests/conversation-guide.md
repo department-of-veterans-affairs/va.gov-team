@@ -10,7 +10,7 @@
 
 ## Intro - 3 minutes
 
-Thanks for joining us today! My name is Leyda. I work as part of a team that makes improvements to VA's websites. We reach out to Veterans from time to time to get their input to make sure we're on the right track. I also have some colleagues on the line observing and taking notes. Today we'll be discussing ideas for a new webpage that will live on the VA's website. 
+Thanks for joining us today! My name is Leyda. I also have some colleagues on the line observing and taking notes. I work as part of a team that makes improvements to VA's websites. We reach out to Veterans from time to time to get their input to make sure we're on the right track with the pages we're building. Today we'll be discussing ideas for a new webpage that will live on the VA's website. 
 
 Before we get started, I want to give you an idea of what this call will be like:
 
