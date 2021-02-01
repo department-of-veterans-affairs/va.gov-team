@@ -5,10 +5,9 @@
 
 ---
 
-<!--
 ### Background
-The Chapter 36 (CH36) program, Personalized Career Planning and Guidance (PCPG), provides career, educational and adjustment counseling to Veterans, service members or their qualifying dependents. To receive these benefits, users must complete and submit VA Form 28-8832.
-
+The Chapter 31 (CH31) program, Veteran Readiness and Employment (VR&E), helps veterans with service-connected disabilities with employment and training needs. In some cases, dependents may also qualify for VR&E benefits. To receive these benefits, users must complete and submit VA Form 28-1900.
+<!--
 #### Note regarding UAT
 We're requesting that Perigean recruit Veterans who need to apply for Chapter 36 (CH36) benefits. This usually involves submitting a paper 28-8832 or going to eBenefits. We realize that it may be difficult to find Veterans with such specific needs, particularly given the impending holiday season.
 
