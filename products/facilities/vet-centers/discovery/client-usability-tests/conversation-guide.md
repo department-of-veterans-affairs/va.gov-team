@@ -29,19 +29,20 @@ _For iPhone:_
 - It will give you some options, choose "Screen"
 - You should get a page that says "screen broadcast"
 - Zoom should be checked, if not, please select it and tap "Start broadcast"
-- Zoom uses the phone's recording software to share, so it should start counting down as it starts to share
+- It should start counting down as it starts to share (Zoom uses the phone's recording software to share)
 - If you need to stop sharing during this session you can click 'Stop Broadcast'
-- Great, now I can see your phone screen! I'm going to begin now if that's ok with you. We will return to this in a few moments.
+- Great, now I can see your phone screen! 
 _For troubleshooting screen sharing in iOS, reference the Zoom documentation here https://support.zoom.us/hc/en-us/articles/115005890803-iOS-Screen-Sharing_
 
 _For Android:_
-- OK great. When you are inside the Zoom application on your phone, you'll see a few buttons at the bottom. For instance, Share and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "chat" and "share." Any questions?
+- OK great. When you are inside the Zoom application on your phone, you'll want to tap on the phone screen, you'll see a few buttons at the bottom. For instance, Share and three dots over to the right. If you tap on those dots, you'll also see a function called "Chat". If you don't tap the screen for a while, the icons at the bottom will hide. You can tap anywhere on the screen to get them to show. The ones that will be important for us today are "chat" and "share." Any questions?
 - Tap "Share"
 - Tap "Screen"
 - May give a "sensitive info" alert
 - May ask you to give Zoom permission to display over other apps, toggle yes. The hit the back arrow . Then it might just share your screen.
 - Tap "Start now" (maybe)
 _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen_
+
 
 **Backup plan if they cannot figure out how to share screen:**
 
