@@ -6,6 +6,8 @@ _The purpose of this document is for designers, PMs, and engineers to align earl
 
 Link to product outline: [HCA Address Project](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/10-10ez-address-project/project-outline.md)
 
+Staging URL: https://staging.va.gov/health-care/apply/application/introduction
+
 ## Unauthenticated
 
 ### Use Case A - "Yes" - Home address same as Mailing
