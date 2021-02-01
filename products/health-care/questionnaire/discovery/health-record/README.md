@@ -89,15 +89,6 @@
   - link to VA page on recommended screenings and immunizations for an adult
   - link to CDC traveler's health page
 
-# VA groups we would like to talk to
-- Lighthouse
-- Emily Mann (to understand what she found in her overall health care research)
-- MyHealtheVet?
-- Should we sit down with Lauren?
-- Clinicians - what pain points are they experiencing with these topics? if a Vet gets a COVID vaccine at CVS, what do they want entered into the VA system?
-- Authenticated experience team, because they are planning to show medications on MyVA.
-- Rx Refill and Ask a Pharmacist app groups
-- Blue button group
 
 # Questions for Veterans
 - Understand current pain points.
