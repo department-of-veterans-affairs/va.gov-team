@@ -10,9 +10,7 @@
 - Try to focus on a fewer number of features at a time
 ----
 ## Sprint 40 (1/27 - 2/9)
-```diff
-- X points over Y issues
-```
+
 ## 1. Prepare Dependency Claims for e2e and UAT
 - BE continue to iterate on last-mile problems
 - Daily meetings for live testing as needed
