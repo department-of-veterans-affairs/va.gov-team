@@ -114,7 +114,7 @@ As you’re performing this task, please talk us through your thoughts as you in
 - Would you, personally, fill out this form?
   - *If yes:* Would you fill it out on your desktop or phone?
 
-## Comparitive Analysis - 5 Minutes
+## Comparative Analysis - 5 Minutes
 
 **Medallia "Vanilla" Button**
 *Send the link to the [Find VA Locations (Staging)](https://staging.va.gov/find-locations/) page*
