@@ -28,7 +28,7 @@ Staging URL: https://staging.va.gov/health-care/apply/application/introduction
 ### Use Case D - Mailing & Home exist & same in Profile
 - **Description**: User has same Mailing & Home addresses saved in Profile.  Mailing address is pre-filled and Is-Home-address-same question has "Yes" answer pre-selected.  As User continues, form skips Home-address form-page.
 - **User**: (unknown - Jonathan may have in notes)
-- **TestRail Test Case**: [C3927](https://dsvavsp.testrail.io/index.php?/cases/view/3927)
+- **TestRail Test Case**: [C3927](https://dsvavsp.testrail.io/index.php?/cases/view/3927)  **NOTE**: Without an available Staging test-account, this Case will be run in **Safari** only, via [local-override](https://webkit.org/web-inspector/local-overrides/).
 
 ### Use Case E - Only Mailing in Profile
 - **Description**: User has only Mailing address saved in Profile. Mailing address is pre-filled but Is-Home-address-same question has no pre-selected answer.  IF User selects "Yes" (Home same as Mailing), form skips Home-address page; otherwise, form advance to Home-address page with blank inputs.
