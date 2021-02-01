@@ -19,7 +19,6 @@ What was not considered so far
 
 *   Insight from VAMC upgrade team about patterns or intentional IA drift that has arisen, such as where to put DAV vans (that may come in first or second week of February)
 
-
 Design goals
 * IA is Consistent across VAMCs, both for Veterans but also for VA and managers of the product. 
 * Users of the VAMC system product (CMS editors) understand what parts of the menu structure they can manipulate, and what parts are locked down
@@ -81,17 +80,19 @@ How might we provide an editorial experience on the menu editing page that both 
 
 For 2a and 2b, we'll want to update existing training materials as well as manage these changes for the existing editor based. 
 
-## Opportunities that would involve FE refactoring
+## Opportunity set 3: Would involve some FE refactoring
 
 These two items are related and probably best accomplished together, but could also happen independently. 
 
-### 1. Switch to path-based breadcrumbs, instead of one based on CMS menu item hierarchy. 
+Unclear if this would require any Transformer work, given that menus and breadcrumbs are graphql-only. 
+
+### 3a. Switch to path-based breadcrumbs, instead of one based on CMS menu item hierarchy. 
 
 The VAMC system MVP was built with menu-based breadcrumbs, to allow for some flexibility of creating breadcrumbs that do not match the path structure--flexibility which has never been needed. 
 
 This would be a good time to switch to path-based breadcrumbs, because we could simplify the menu and reduce the risk of build-breaking errors in the Front end, like "ineligible breadcrumbs", which has shown up a few times when bulk publishing VISN 4 content containing menu bugs.
 
-### 2. Remove the health care system from the menu in Drupal, and remove the dependency on it within the FE build
+### 3b. Remove the health care system from the menu in Drupal, and remove the dependency on it within the FE build
 
 Each VA health care system has a single parent menu item, with three children (Locations and services, News and Events, and About), plus a number of "root" pages like the top task pages
 
