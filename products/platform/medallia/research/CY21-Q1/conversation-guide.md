@@ -123,7 +123,7 @@ This is the same page as before, but with an alternate feedback button design.
 - Can you describe for me the differences between this button and the previous button?
 - Would you describe this button as better or worse than the previous button?
 
-**Comparitive Ranking**
+**Comparative Ranking**
 
 *If Desktop (Rotate between versions, note taker log version tested with):*
 
