@@ -2,6 +2,22 @@
 
 The VSP Collaboration Cycle is a process for all VFS teams building on VA.gov. VSP's mission is to provide support across various practice areas to ensure that VFS teams are creating successful products for VA.gov that are meeting the platform standards.
 
+## Documentation
+[How do I use the VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md) — Instructions on how to navigate trhough the Collaboration Cycle touchpoints.
+
+[VSP Collaboration Cycle Questionnaire](https://github.com/link_tbd) — Curious to know which Collaboration Cycle touchpoints are applicable to your initiative? This questionnaire will help determine which custom track your team will need through the Collaboration Cycle.
+
+[Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1d219oL1zCvCvnv1Bx-dI-GMzwgbarLv9_bzMSa3ULjA/edit#gid=1710283887) — This is VSP's source of truth for which Collaboration Cycle meetings are recommended for each initiative. This spreadsheet includes links to Github tickets as well as Zoom recordings. This spreadsheet is not editable by VFS teams, so if you notice anything is missing, please let us know!
+
+[VSP Collaboration Meeting Calendar](https://calendar.google.com/calendar/u/0/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0@group.calendar.google.com&ctz=America/New_York) — This is VSP's Collaboration Cycle meeting calendar. Here you can see:
+* Availability for scheduling a touchpoint with VSP (indicated by "CALENDAR BLOCK")
+* Scheduled Collaboration Cycle touchpoints
+* Design Office Hours
+* Content Office Hours
+* Collaboration Cycle Office Hours
+
+[VSP Collaboration Cycle visual](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle-visual.pdf) — This is a quick glance visual representation of the Collaboration Cycle.
+
 ## Practice Areas supported by the Collaboration Cycle
 ### Design
 * Design Support: Allison Christman
@@ -42,23 +58,6 @@ The VSP Collaboration Cycle is a process for all VFS teams building on VA.gov. V
 ### Contact Center
 * Contact Center Support: Jason Woodman & Kimberley Monroe-Daniels
 * [Platform Contact Center Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/contact-center)
-
-## Documentation
-
-[VSP Collaboration Cycle Questionnaire](https://github.com/link_tbd) — Curious to know which Collaboration Cycle touchpoints are applicable to your initiative? This questionnaire will help determine which custom track your team will need through the Collaboration Cycle.
-
-[VSP Collaboration Cycle Touchpoints](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md) — This is an overview of all of the touchpoints that can occur between the VFS and VSP throughout the build.
-
-[Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1d219oL1zCvCvnv1Bx-dI-GMzwgbarLv9_bzMSa3ULjA/edit#gid=1710283887) — This is VSP's source of truth for which Collaboration Cycle meetings are recommended for each initiative. This spreadsheet includes links to Github tickets as well as Zoom recordings. This spreadsheet is not editable by VFS teams, so if you notice anything is missing, please let us know!
-
-[VSP Collaboration Meeting Calendar](https://calendar.google.com/calendar/u/0/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0@group.calendar.google.com&ctz=America/New_York) — This is VSP's Collaboration Cycle meeting calendar. Here you can see:
-* Availability for scheduling a touchpoint with VSP (indicated by "CALENDAR BLOCK")
-* Scheduled Collaboration Cycle touchpoints
-* Design Office Hours
-* Content Office Hours
-* Collaboration Cycle Office Hours
-
-[VSP Collaboration Cycle visual](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle-visual.pdf) — This is a quick glance visual representation of the Collaboration Cycle.
 
 ## Contact Us
 
