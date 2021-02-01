@@ -9,28 +9,94 @@
 - Remember the Contact Center (Alamo!) and the issues they deal with
 - Try to focus on a fewer number of features at a time
 ----
+## Sprint 40 (1/27 - 2/9)
+```diff
+- X points over Y issues
+```
+## 1. Prepare Dependency Claims for e2e and UAT
+- BE continue to iterate on last-mile problems
+- Daily meetings for live testing as needed
+- Target early Feb PREPROD testing
+- Target mid Feb launch
+## 2. Support for VRE CMS (CH31) integration and application testing as needed
+- Likely 10-15 FE + BE + Design points for ongoing dev
+- Content updates as needed
+## 3. Support for Dependency Verification as needed (reserve 10-15 points BE/ FE)
+- FE iteration on proof-of-concept as per discovery team designs
+## 4. POA Ongoing Work
+- FE/ BE activities as captured, iterations on Search and Submit features
+- LoE to launch View Representative?
+## 5. Dependency Claims feature enhancement: select dependents to remove
+- FE/ BE activities as captured
+## 6. Design support for LGY design spike activities as needed
+
+## Sprint 39 (1/13 - 1/26)
+```diff
+- 62 points over 27 issues
+```
+
+## 1. Prepare Dependency Claims for e2e and UAT
+- BE continue to iterate on last-mile problems
+- Daily meetings for live testing as needed
+- Target early Feb PREPROD testing
+- Target mid Feb launch
+## 2. Support for VRE CMS (CH31) integration and application testing as needed
+- Likely 10-15 FE + BE + Design points for ongoing dev
+- Content updates as needed
+## 3. Support for Dependency Verification as needed (reserve 10-15 points BE/ FE)
+- FE iteration on proof-of-concept as per discovery team designs
+## 4. POA Ongoing Work
+- FE/ BE activities as captured, iterations on Search and Submit features
+- LoE to launch View Representative?
+## 5. Dependency Claims feature enhancement: select dependents to remove
+- FE/ BE activities as captured
+## 6. Design support for LGY design spike activities as needed
+
+## Sprint 38 (12/30 - 1/12)
+```diff
+- 50 points over 22 issues
+```
+## 1. Launch PCPG (CH36) 
+- Benefits Application Jan 4
+## 2. Launch View My Payments
+- UAT first week of Jan
+## 3. Prepare Dependency Claims for e2e and UAT
+- BE continue to iterate on last-mile problems
+- PRODUCT Prepare for e2e testing with BGS/ RBPS in Jan 11
+## 4. VRE CMS (CH31): integration support and application testing as needed, update orientation module
+- Likely 10-15 FE + BE points for ongoing dev
+- DESIGN and FE add "overview" and "checklist" screens to orientation module
+## 5. Dependency Verification: Stand up project
+- BE review BGS diary service document and recommend approach/ LoE
+- PRODUCT write user stories, epics
+- Determine whether "View Dependents" landing page is sufficient for this task
+- Devise technical plan for reading and consuming "diary reason code 24" date
+## 6. POA
+- FE, BE, Design activities on VIEW
+- Design, FE activities on SEARCH
+
 ## Sprint 37 (12/16 - 12/29)🎅
 ```diff
 - 44 points over 16 issues
 ```
-### 1/ Confirm PCPG (CH36) CM Portal submission in staging, and prep for launch
+### 1. Confirm PCPG (CH36) CM Portal submission in staging, and prep for launch
 - CH36 launch Jan 4
-### 2/ Prepare Dependency Claims for e2e and UAT
+### 2. Prepare Dependency Claims for e2e and UAT
 - BE continue to iterate on last-mile problems
 - PRODUCT Propose schedule for e2e testing with BGS/ RBPS in Jan
 - Target early Feb launch
-### 3/ Support for VRE CMS (CH31) integration and application testing as needed
+### 3. Support for VRE CMS (CH31) integration and application testing as needed
 - Likely 10-15 FE + BE points for ongoing dev
 - Content updates as needed
-### 4/ Support for Dependency Verification as needed (reserve 10-15 points BE/ FE)
+### 4. Support for Dependency Verification as needed (reserve 10-15 points BE/ FE)
 - BE review BGS diary service document and recommend approach/ LoE
 - FE iteration on proof-of-concept as per discovery team designs
-### 5/ Launch View My Payments
+### 5. Launch View My Payments
 - PRODUCT Define tasks remaining to launch
 - TEAM Launch as possible
-### 6/ Dependency Claims feature enhancement: select dependents to remove (stretch)
+### 6. Dependency Claims feature enhancement: select dependents to remove (stretch)
 - FE/ BE activities as captured
-### 7/ POA
+### 7. POA
 - FE, BE, Design activities on VIEW
 - Design, FE activities on SEARCH
 
