@@ -8,7 +8,7 @@
 - Can we get any updates on the analytics on these current features from MyHealtheVet?
 
 ## Medications
-- Are we connecting to sure scripts list (BPMH) or just VA med list?
+- Are we connecting to surescripts list (BPMH) or just VA med list?
   - In EHR, name, dose and timing are separate items, in sure scripts it is one piece of data
 - If we don’t have renewing medications in a questionnaire, how do we stop Veterans from asking about that?
 - What if we think of this as something has changed and not just a meds list?
@@ -20,6 +20,7 @@
 
 ## Immunizations
 - Does the VA want to do anything special for COVID? If people are entering COVID information, do they want anything special compared to other immunizations? For example, name of the company who made the vaccine.
+- Surescript has immunization registry information as well. What does its COVID registry look like? 
 
 # Knowns
 ## Medications
