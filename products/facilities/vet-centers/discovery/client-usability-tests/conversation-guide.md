@@ -2,7 +2,7 @@
 
 **January 2021**<br>
 
-### Setup
+### Session Prep
 
 - [ ] Notifications off
 - [ ] Enable screen sharing in Zoom
@@ -53,7 +53,7 @@ _For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/article
 
 
 
-**Recording Instructions**
+## Recording permission
 
 [USER IS SHARING]
 
@@ -82,7 +82,7 @@ So, to get us started
 
 Thanks for sharing that. 
 
-## Counseling services 
+### Counseling service familiarity
 
 For the purpose of this session, we'll be mostly focused on different types of counseling and mental health services offered at the VA, like one-on-one counseling or in a group setting.
   
@@ -94,7 +94,7 @@ If yes:
   
 Thank you for sharing that. 
   
-## Internet search scenario
+### Internet search scenario questions
  
 I'm going to give you a scenario to consider. 
 
@@ -133,9 +133,9 @@ Tango
 Foxtrot
 
 
-#### Scenario - set up
+#### Scenario Set up
 
-Building on the scenario that I just gave you. Let's imagine that as you're searching, you land on a website [this prototype] that looks promising and you want to dig a little deeper to see if this website has what you're need. Also, for purposes of this session, I'd like for you to imagine that you live in Orlando, Florida.
+Building on the scenario that I just gave you. Let's imagine that as you're searching, you land on a website [this prototype] that looks promising and you want to dig a little deeper to see if this website has what you need. Also, for purposes of this session, I'd like for you to imagine that you live in Orlando, Florida.
 
 I'll give you a second to take the page in. [limit to a quick scan]
 
