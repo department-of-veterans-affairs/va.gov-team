@@ -1130,12 +1130,7 @@ Back to [Table of Contents](#table-of-contents)
 **Audit status:** _VSP [Full accessibility and 508 audit completed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14103) week of January 4, 2021_<br/>
 **Open issues**
 
-- [508-defect-1 ❗ Launchblocker [AXE-CORE]: COVID Vaccine Trials - DD and DT elements must be contained by a DL - #18223](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18223)<br/>**Opened:** January 6, 2021 | **Severity:** 508-defect-1 - **_Critical_**
-- [508-defect-1 ❗ Launchblocker [TESTING]: COVID Vaccine Trials - Form must have e2e tests for all views - #18225](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18225)<br/>**Opened:** January 6, 2021 | **Severity:** 508-defect-1 - **_Critical_**
-- [508-defect-2 [COGNITION]: COVID Vaccine Trials - Text styled like headings must be marked up as headings - #18246](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18246)<br/>**Opened:** January 6, 2021 | **Severity:** 508-defect-2 - **_Serious_**
 - [508-defect-3 [COGNITION]: COVID Vaccine Trials - None of the above and Prefer not to answer checkbox "uncheck all" behavior should be clear to users - #18271](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18271)<br/>**Opened:** January 7, 2021 | **Severity:** 508-defect-3 - **_Moderate_**
-- [508-defect-3 [COGNITION]: COVID Vaccine Trials - Checkboxes should not be separated from additional information inputs - #18272](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18272)<br/>**Opened:** January 7, 2021 | **Severity:** 508-defect-3 - **_Moderate_**
-- [508-defect-4 [COGNITION]: COVID Vaccine Trials - Consider making the confirmation page's first H2 the H1 for user clarity - #18273](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18273)<br/>**Opened:** January 7, 2021 | **Severity:** 508-defect-4 - **_Trivial_**
 - [508-defect-4 [COGNITION]: COVID Vaccine Trials - 711 link aria-label repeats "TTY" for screen readers - #18274](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18274)<br/>**Opened:** January 7, 2021 | **Severity:** 508-defect-4 - **_Trivial_**
 - [[DESIGN] COVID Vaccine Trials - MacOS Safari cuts off the focus halo when accordions are opened - #18275](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18275)<br/>**Opened:** January 7, 2021
 
