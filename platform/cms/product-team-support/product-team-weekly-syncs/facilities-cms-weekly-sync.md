@@ -13,12 +13,31 @@
 </details>
 
 <details><summary>Parking lot</summary>
+* [#4084 Prevent h2/h3s in Facility "prepare for your visit" accordions](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4084) (and associated FE ticket [#18986](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18986))
 
 </details>
 
 ## February 10 2021
 
 Results of Pittsburgh spelunking.
+
+## February 3 
+
+### General
+
+Seeking input on [Content model changes documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-team-support/content-model-changes.md)
+
+
+### Upcoming demo environment traings 
+
+
+### Content model refactoring 
+
+
+
+### Other
+
+- [#4084 Prevent h2/h3s in Facility "prepare for your visit" accordions](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4084) moved to icebox of CMS team, and this agenda. 
 
 ## January 27 2021 
 
