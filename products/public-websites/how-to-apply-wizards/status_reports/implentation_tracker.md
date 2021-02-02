@@ -28,19 +28,17 @@
 - [Usability Study Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/files/5548107/Wizard.Migration.Usability.Study.Synthesis.pdf)
 - [Updated Analytics Data Layer Implementation spec](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/tracking-how-to-wizards.md)
   
-- Disability ([on Staging](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction))
+- **Disability**([on Staging](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction))
   - [Wizard prototype](https://preview.uxpin.com/e8c5c39f8978d9c1a3f9bd200db25376170a6860#/pages/133183067/simulate/sitemap?mode=i)
-- HLR (application almost ready, but Wizard dev has not yet started.)
-  - Staging URL is https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction
+- **HLR**([on Staging](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction))
   - [Wizard prototype (Invision)](https://vsateams.invisionapp.com/share/W5U21BDFTQK#/screens/430329538)
   - Wizard dev ticket is https://github.com/department-of-veterans-affairs/va.gov-team/issues/12925
-- Education ([on Staging](https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction))
+- **Education**([on Staging](https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction))
   - [Wizard prototype](https://preview.uxpin.com/ca08f3dbf63475b2b62f3e8c00050ad1b19c4cb5#/pages/133085100/simulate/sitemap?mode=i)
   - Rogers STEM ([is live on VA.gov](https://www.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction))
-- Personalized Care & Planning Guidance (Chapter 36) 
-  - ([new Wizard prototype](https://preview.uxpin.com/2dbde8d15bf667f5c584fe4a8a6d011cf9f0a14d#/pages/132088565/simulate/sitemap))
-  - https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/introduction
-veterans / am3rica
+- **Personalized Career & Planning Guidance (Chapter 36)** ([Live on VA.gov](https://www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/introduction)) 
+
+- **Personalized Career Planning and Guidance**
 
 - Platform Review/Feedback
   - [IA Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12244)
