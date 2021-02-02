@@ -30,13 +30,12 @@
 ## Wednesday, February, 3, 2021
 
 ### Discussion Topics/Grooming 
-- [ ] Explore and revisit Visual Regression Testing to aid in modifications to CMS templates and style #18869
-- [ ] Table Caption Update/Fix #16562 (R&S)
-- [ ] Design effort for R&S "Share to Mobile" and "Share article" feature adds? 
-- [ ] Enhancement: RS mobile views, left margin is too smooshed to the edge and cutting off text #17470
-- [ ] Pager Component for Outreach Event Page #19292
-- [ ] CMS, design system, components [SCREENREADER, KEYBOARD]: Aside SHOULD not be contained in another landmark #6379
-- [ ] CMS [COGNITION]: Multiple ambiguities with linked text in content block #3556
+- [ ] Explore and revisit Visual Regression Testing to aid in modifications to CMS templates and style [#18869](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18869)
+- [ ] Table Caption Update/Fix [#16562](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16562)
+- [ ] Enhancement: RS mobile views, left margin is too smooshed to the edge and cutting off text [#17470](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17470)
+- [ ] Pager Component for Outreach Event Page [#19292](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19292)
+- [ ] CMS, design system, components [SCREENREADER, KEYBOARD]: Aside SHOULD not be contained in another landmark [#6379](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6379)
+- [ ] CMS [COGNITION]: Multiple ambiguities with linked text in content block [#3556](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3556)
 
 ### Resources and Support MVP 1.1
 [MVP 1.1 EPIC #15588](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15588) [Iterate EPIC #15584](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15584)
