@@ -31,15 +31,21 @@ We can use this framework to discuss content model refactoring epics below.
 
 ### Upcoming demo environment traings 
 
+* Tentatively next week, more info by Friday. 
 
 ### Content model refactoring 
 
+Policies
 
 
 ### Vet Centers
 
-* #4147 Type of care (Vet Center) field.
-* Roadmap
+* #Type of care (Vet Center) field. [#19284](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19284) and [#4147](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4147)
+
+### Other
+
+[#16020 breadcrumb](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16020)
+
 
 
 ### Other
