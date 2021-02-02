@@ -7,7 +7,7 @@
 | <b>Product Leads<b>       | Hashimoto/Self/Majewski           | Hashimoto/Self/Majewski   | Self/Keeler             | Jason Wolf           
 | <b>UX Spec (via Prototype)<b> | Done                   | Done                      | Done                    | Done
 | <b>User Test (via Prototype)<b>| Done                  | Done                      | Done                    | Done
-| <b>Development<b>  |100% Complete(2/2)                 | 100% Complete (2/2)       | 50% Complete/Hold       | 90% Complete
+| <b>Development<b>  |Done (2/2)                 | Done (2/2)       | 50% Complete/Hold       | 90% Complete
 | <b>Staging Review/Q-A<b> | In Review                  | In Review                       | TBD                     | TBD
 | <b>Site Links(PW)<b>   | In progress                       | In progress               | In progress             | In progress
 | <b>Target Launch Date<b>        | February (BDD)                          | February (HLR)                 | Q1 2021            |Ch 31 (February) <br> Ch 36 (Launched 1/4)
