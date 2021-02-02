@@ -5,11 +5,18 @@
 ### Planning
 
 - Desired date range: _\[mm/dd/yy - mm/dd/yy\]_
-- How will you make the product available in production while limiting the number of users who can find/access it: \[_lorem ipsum_\]
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
-- Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
+- How will you make the product available in production while limiting the number of users who can find/access it:
+  - va_online_scheduling_provider_selection feature toggle
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
+  - Preference step completion diff >0%
+- Links to dashboard(s) showing "success criteria" metrics: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/18828]
 
-_The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
+**User Impact**
+Month | Auth Users | CC Path Starts | % path start |
+----- | ---------- | -------------- | ------------ |
+Nov 2020 | 902,403 | 2,288 | 0.2% |
+Dec 2020 | 1,103,090 | 1,883 | 0.1% |
+Jan 2021 | 1,242,306 | 2,541 | 0.2% |
 
 ### Stage A: Canary
 
@@ -27,23 +34,6 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 - Types of errors logged: lorem ipsum
 - What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
 
-### Stage B: moderate
-
-_Test a larger population of users to make sure there are no issues exposed by larger usage patterns._
-
-#### Planning
-
-- Length of time: x (_minimum 1 day_)
-- Percentage of Users (and roughly how many users do you expect this to be): 25% (x users)
-
-#### Results:
-- Number of unique users: x
-- Metrics at this stage (per your "success criteria"): x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
-
-_More stages? Sure! If it makes sense for your product! Plan them out with the same structure as above._
 
 ## Go Live!
 
