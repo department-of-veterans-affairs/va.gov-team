@@ -41,12 +41,12 @@
 
 **Design**
 
-- Accessibility tests for staging review
+- DD4edu - 508 checks required pre-staging review #19409
 - UAT planning
 
 **FE**
 
-- Accessibility tests for staging review
+- DD4edu accessibilty scans required pre-staging review #19410
 
 **BE**
 
