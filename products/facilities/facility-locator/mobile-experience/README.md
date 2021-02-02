@@ -44,5 +44,5 @@ A separate mobile research session will be conducted with a specific assistive t
 - [ ] Create conversation guide
 
 ## Acceptance Criteria
-[ ] Approved research plan 
-[ ] Approved conversation guide
+- [ ] Approved research plan
+- [ ] Approved conversation guide
