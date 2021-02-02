@@ -34,6 +34,8 @@ Currently, the data from the Drupal server is fetched with a GraphQL query. Howe
 This implementation, the CMS export build, involves the [use of transformers](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/cms-integration) to transform CMS export data into a content model that matches that of the GraphQL data.
 
 The CMS export data is a JSON static file representation of the content in the Drupal database.
+- It's fetched as a tar file that contains a collection of JSON files.
+- The files represent both Drupal node and non-node content (which includes, but is not limited to, paragraphs, taxonomy, and menu items).
 
 Transformers act as a [data transformation layer](https://en.wikipedia.org/wiki/Data_transformation) to change the CMS Export data into a format the templates can digest.
 
@@ -273,7 +275,7 @@ Ideally, content would get deployed immediately as content writers make changes.
 
 | Date         | Revisions Made | Author          |
 | ------------ | -------------- | --------------- |
-| Feb 2, 2021 | Updated approvals | Eugene Doan |
+| Feb 2, 2021 | Updated approvals. Clarified background about CMS export data. | Eugene Doan |
 | Jan 26, 2021 | <ul><li>Made nuanced corrections about the implementation. Clarified related sections and terminology.</li><li>Elaborated on validation error handling, including a new question about broken links.</li><li>Included proposal for timestamping updated content.</li><li>Added details about future plans to move to CircleCI.</li></ul> | Eugene Doan |
 | Jan 21, 2021 | Cleaned up Background. Added info to Alternatives. | Eugene Doan |
 | Jan 20, 2021 | Completed first draft | Eugene Doan |
