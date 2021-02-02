@@ -39,7 +39,7 @@
 
 ### Resources and Support MVP 1.1
 [MVP 1.1 EPIC #15588](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15588) [Iterate EPIC #15584](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15584)
-- Review backlog items / estimate
+- Video Implimentation ticket [15605](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15605)
 - Determine Next steps post CLP build 
 - Bugs and 508 issue considerations
 
