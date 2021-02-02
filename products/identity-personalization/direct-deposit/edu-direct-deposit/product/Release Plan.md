@@ -1,4 +1,4 @@
-# Release Plan
+# Direct Deposit for EDU Release Plan
 
 ## Phase I: UAT
 
