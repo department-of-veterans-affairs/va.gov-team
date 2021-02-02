@@ -28,10 +28,10 @@
 - [Usability Study Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/files/5548107/Wizard.Migration.Usability.Study.Synthesis.pdf)
 - [Updated Analytics Data Layer Implementation spec](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/tracking-how-to-wizards.md)
   
-- Disability ([on Staging](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction))
+- Disability ([on Staging](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction)
   - [Wizard prototype](https://preview.uxpin.com/e8c5c39f8978d9c1a3f9bd200db25376170a6860#/pages/133183067/simulate/sitemap?mode=i)
 - HLR (application almost ready, but Wizard dev has not yet started.)
-  - Staging URL will be https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction
+  - Staging URL is https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction
   - [Wizard prototype (Invision)](https://vsateams.invisionapp.com/share/W5U21BDFTQK#/screens/430329538)
   - Wizard dev ticket is https://github.com/department-of-veterans-affairs/va.gov-team/issues/12925
 - Education ([on Staging](https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction))
