@@ -1,70 +1,80 @@
-# Sketch Product Outline - DRAFT
+# Sketch for Teams Product Outline - DRAFT
 
 ## Overview
 
-The Sketch Library is a part of the VA Design System that is a tool used by designers. The Sketch Library contains reusable components that are part of the design system to design and build applications. 
+The Sketch for teams will be a tool used by designers to collaborate, stay in sync with the Sketch Library and provide awareness of other teams projects on va.gov. The Sketch Library will be part of the cloud workspace so designers can access existing design system components, patterns and templates. 
 
+Sketch for Teams can also be used by stakeholders, product managers and developers. 
 
 ## Problem Statement
 
-The Design System Team believes VFS Designers are confused by inconsistencies across design system documentation, tools, and production applications.  We believe that improving consistency by identifying and communicating a “source of truth” version for components and patterns will increase the number of new or variant components launched and help us track the actual usage of components and patterns across our production applications.
+Designers have to manually update their Sketch Libraries which can result in inconsistencies across designs. The existing manual process is tedious as it requires the DST designer to update a Github link every 2 weeks and rely on designers to delete their current Sketch Library and replace it with the updated one. 
 
+Designers do not know when another designer is working on the same design pattern since everyone is working in their own silo, with some designers using different tools. 
 
+Designers have different tools to share their mockups so there is no consistent way of sharing design mockups and getting feedback. 
+
+We believe that using Sketch for Teams will improve consistency across designs and promote collaboration between teams. 
 
 ## Personas
 
-Designers
+Designers 
 
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
 
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Grafana or other dashboards/reports where possible_
+- Adoption of Sketch for Team by designers  
+
+- Increased consistency of how designers share mockups 
+
+  
 
 #### Baseline KPI Values
 
-* _Baseline values for those most critical metrics, if possible._
+- Number of different design tools currently used 
+- Number of ways designers share mockups
 
----
+------
 
 ## Assumptions
 
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- Sketch for Teams will increase consistency across designs of applications 
+- Sketch for Teams will improve cross team collaboration (especially when working on the same pattern)
 
 ## Solution Approach
 
-_Describe, in a few sentences and/or bullet points, what you plan to build, and how it will solve the problem. Some questions to think about:_
+*Describe, in a few sentences and/or bullet points, what you plan to build, and how it will solve the problem. Some questions to think about:*
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+- We will migrate designers from the current process and tools to Sketch for Teams
 
-_For non-trivial technical solutions, an [engineering design doc](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/design-docs) should be written to deeply explain **How** this product will be built._
+- Sketch for Teams is a cloud-based application and most of our designers use Sketch. 
 
----
+  
+
+
+
+------
 
 ## Launch Dates
 
 - *Launch Date*: TBD
 
----
+------
 
 ## Screenshots
 
-_Include before/after screenshots, if applicable. Delete this section otherwise._
+*Include before/after screenshots, if applicable. Delete this section otherwise.*
 
 ### Before
 
 ### After
 
----
+------
 
 ## Reference Material
 
-_Link to the following materials as relevant._
+*Link to the following materials as relevant.*
 
 - VFS-facing Product README (in `/platform`)
 - Release Plan
@@ -72,21 +82,26 @@ _Link to the following materials as relevant._
 
 ### Communications
 
-<details>
-
-
-- Team Name: Design System Team
-- GitHub Label: design-system-team
-- Slack channel: vsp-design-system (for general communications) and vfs-platform-support (for support)
-- Product POCs: Carol Wong
-
-</details>
+<details style="box-sizing: border-box; display: block; margin-top: 0px; margin-bottom: 16px;"></details>
 
 ### Stakeholders
 
-<details>
+<details style="box-sizing: border-box; display: block; margin-top: 0px; margin-bottom: 0px !important;"></details>
 
-- OCTODE
-- VFS teams using the platform to build on VA.gov
+<details class="details-reset details-overlay details-overlay-dark" id="jumpto-line-details-dialog" style="box-sizing: border-box; display: block;"><summary data-hotkey="l" aria-label="Jump to line" role="button" style="box-sizing: border-box; display: list-item; cursor: pointer; list-style: none;"></summary></details>
 
-</details>
+- © 2021 GitHub, Inc.
+- [Terms](https://github.com/site/terms)
+- [Privacy](https://github.com/site/privacy)
+- [Security](https://github.com/security)
+- [Status](https://www.githubstatus.com/)
+- [Docs](https://docs.github.com/)
+
+
+
+- [Contact GitHub](https://github.com/contact)
+- [Pricing](https://github.com/pricing)
+- [API](https://docs.github.com/)
+- [Training](https://services.github.com/)
+- [Blog](https://github.blog/)
+- [About](
