@@ -55,13 +55,13 @@ Notes/Next Steps:
 Notes/Next Steps:
 
 ### Technical Debt Oppurtunities 
-[Tech Debt EPIC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7790)
+- [Tech Debt EPIC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7790)
 
 Notes/Next Steps: 
 
 ### In-Take and Redirect request: 
-[#12320](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12320) Discovery
-[#10928](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10928) Cerner Health Pages 
+- [#19292](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19292) CMS Team Request
+- [#10928](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10928) Cerner Health Pages 
 
 Notes/Next Steps:  
 
