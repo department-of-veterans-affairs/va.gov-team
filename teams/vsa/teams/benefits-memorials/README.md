@@ -136,13 +136,44 @@ Money spent on programs at the VA will be better utilized.  Increased usage of d
 ## [KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials/VA%20KPI%20Setting%20-%20VSA%20Benefits%20and%20Appeals.xlsx)
 
 ## Sprint Ceremony Schedule
-- Monday and Wednesday - Daily standup
 
-- Tuesday and Thursday - SlackUp
+- *Stand-up: people & product check-ins*
+Monday and Wednesday - 11:00am ET 15 min
 
-- Sprint Planning - bi-weekly on Wednesdays
+Format:
 
-- Sprint Review & Retro - bi-weekly on Mondays
+- General Discussion
+
+- What I did yesterday?
+
+- What will I do today?
+
+- Any impediments?
+
+
+*Sprint Planning*
+
+Outline team and member focus, goals for sprint:
+
+- 1st Wednesday of every sprint
+
+- 1-2 hour(s)
+
+*Retro*
+
+Review accomplishments from prior sprint, what went well, areas for improvement, what to start doing:
+
+- 2nd Tuesday of every sprint
+
+- 30 min
+
+*Grooming*
+
+Assess and update workload for remainder of sprint:
+
+- 2nd Thursday of every sprint
+
+- 1-hour
 
 
 ---
