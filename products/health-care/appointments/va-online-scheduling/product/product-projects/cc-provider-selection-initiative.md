@@ -53,10 +53,12 @@ Improve the provider selection experience while also improving the quality of da
 - Decrease dropoff of Community Care requests in VAOS due to confusing and complicated provider information gathering
 
 ### Key Performance Indicators (KPIs)
-- adding in some potential baseline kpis soon
+- Completion of provider preferences step(s)
+- Community Care request submissions
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+- Current funnel https://va-gov.domo.com/page/443732151
+- Initiative dashboard (request https://github.com/department-of-veterans-affairs/va.gov-team/issues/18828)
 
 
 ---
@@ -74,9 +76,7 @@ Improve the provider selection experience while also improving the quality of da
 --- 
 
 ## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](#go-to-market-strategy)
+[Release Plan](cc-provider-selection-release-plan.md)
 
 ## Launch Dates
 - *Target Launch Date*
