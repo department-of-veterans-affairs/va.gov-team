@@ -1,11 +1,12 @@
 # Automatic Deploy of Content Built from CMS Export Data
 
 **Author(s):** Jhonny Gonzalez, Eugene Doan  
-**Last Updated:** January 26, 2021  
+**Last Updated:** February 2, 2021  
 **Status:** Draft | **In Review** | Approved  
 **Approvers:**
 - [ ] Dan Shank
-- [ ] Neil Hastings
+- [x] Neil Hastings
+- [x] Steve Wirt
 - [ ] Dror Matalon
 - [ ] Michael Fleet
 
@@ -272,6 +273,7 @@ Ideally, content would get deployed immediately as content writers make changes.
 
 | Date         | Revisions Made | Author          |
 | ------------ | -------------- | --------------- |
+| Feb 2, 2021 | Updated approvals | Eugene Doan |
 | Jan 26, 2021 | <ul><li>Made nuanced corrections about the implementation. Clarified related sections and terminology.</li><li>Elaborated on validation error handling, including a new question about broken links.</li><li>Included proposal for timestamping updated content.</li><li>Added details about future plans to move to CircleCI.</li></ul> | Eugene Doan |
 | Jan 21, 2021 | Cleaned up Background. Added info to Alternatives. | Eugene Doan |
 | Jan 20, 2021 | Completed first draft | Eugene Doan |
