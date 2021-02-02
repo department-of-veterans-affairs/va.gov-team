@@ -3,7 +3,7 @@
 - Slack channel: [#vsa-benefits-memorial](https://dsva.slack.com/channels/vsa-benefits-memorial), vsa-benefits-nod (dedicated channel for LightHouse and BAM for Notice of Disagreement discussions)
 - VA.gov link: n/a
 - Demo video link: n/a
-- Product POCs: Andrea Schneider (andrea.schneider@va.gov) and Luke Majewski (lmajewski@governmentcio.com)
+- Product POCs: Matt Self (matthewself.dvsa@gmail.com and Veronica Henry (vhenry@governmentcio.com)
 - [Team Charter and Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials/charter.md)
 ---
 
@@ -134,6 +134,16 @@ Having the same type of experience on a government website as they would on a pr
 Money spent on programs at the VA will be better utilized.  Increased usage of digital forms and auto establishment will further reduce costs.  Digital flows will also have additional validation and eliminate back-and-forth with claims personnel.  Each product will have a business value proposition that has more details.
 
 ## [KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials/VA%20KPI%20Setting%20-%20VSA%20Benefits%20and%20Appeals.xlsx)
+
+## Sprint Ceremony Schedule
+- Monday and Wednesday - Daily standup
+
+- Tuesday and Thursday - SlackUp
+
+- Sprint Planning - bi-weekly on Wednesdays
+
+- Sprint Review & Retro - bi-weekly on Mondays
+
 
 ---
 
