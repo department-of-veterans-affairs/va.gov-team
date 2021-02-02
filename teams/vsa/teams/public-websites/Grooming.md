@@ -27,6 +27,38 @@
 
 </details>
 
+## Wednesday, February, 3, 2021
+
+### Discussion Topics/Grooming 
+- [ ] Explore and revisit Visual Regression Testing to aid in modifications to CMS templates and style #18869
+- [ ] Table Caption Update/Fix #16562 (R&S)
+- [ ] Design effort for R&S "Share to Mobile" and "Share article" feature adds? 
+- [ ] Enhancement: RS mobile views, left margin is too smooshed to the edge and cutting off text #17470
+- [ ] Pager Component for Outreach Event Page #19292
+- [ ] CMS, design system, components [SCREENREADER, KEYBOARD]: Aside SHOULD not be contained in another landmark #6379
+- [ ] CMS [COGNITION]: Multiple ambiguities with linked text in content block #3556
+
+### Resources and Support MVP 1.1
+[MVP 1.1 EPIC #15588] [Iterate EPIC #15584]
+- Review backlog items / estimate
+- Determine Next steps post CLP build 
+- Bugs and 508 issue considerations
+
+Notes/Next Steps: 
+
+### Campaign landing page MVP 1.0
+- Planning/Grooming Doc
+- CLP Build, launch and learn 
+- SUPER EPIC: [#4621](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4621)
+- CLP x Collab EPIC [#11004](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11004) 
+
+Notes/Next Steps:
+
+### Technical Debt Oppurtunities 
+[Tech Debt EPIC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7790)
+
+Notes/Next Steps:  
+
 ## Wednesday, January, 20, 2021
  
 ### Campaign landing page MVP 1.0
