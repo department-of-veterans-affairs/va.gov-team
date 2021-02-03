@@ -82,6 +82,11 @@ _Note: credentials should be stored in sensitive repos only_
 
 * Feature Capabilities
 
+---
+Other use cases that lend themself more to a Health Record section and not Questionnaire:
+1. [Viewing educational material about an allergy](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/4aaMjA3)
+3. Viewing, adding, and editing allergies also apply to a general Health Record section
+
 
 ---
 | Issue #                                             | Design     | User Testing | Accessability  | QA - Test Case  | Launch    | Notes 
