@@ -22,6 +22,7 @@ be behind a feature flag.
 - 25% of users (1 week), Dates:3/24-3/31 (S44)
 - 50% of users (1 week), Dates:4/1-4/6 (S44)
 - If all goes well, then go to 100% of users: Estimated date 4/7 (S45)
+
 **Link to GA Dashboard:** TBD
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
