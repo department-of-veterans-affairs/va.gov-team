@@ -39,6 +39,8 @@ _What are the most important metrics that track with this product/initiative's s
 
 #### Baseline KPI Values
 _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+1. Veteran satisfaction scores
+2. Number of legacy high severity accessibility defects
 
 <details>
  <summary> User satisfaction baseline </summary>
@@ -49,11 +51,6 @@ _Baseline values for those most critical metrics. These may come from other syst
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
-
-- Objective:Veterans can find a Community care provider beyond the limit of the original search parameters
-  - Key result: Improved veteran user satisfaction scores
- 
- 
 
 ## Assumptions
 _Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality_
@@ -71,11 +68,14 @@ _Why this solution / approach over other solutions / approaches?_
 _What have you explicitly decided to not include in this initial set of functionality, and why?_
 _How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?-
 
-1. Implement clear this field feature
-2. Implement search-level "use my location" feature
-3. Resolve known legacy high-severity accessibility issues
-4. Design and test mobile-first search experience
-
+1. Resolve known legacy high severity accessibility issues
+   - [SCREENREADER] Announce zoom in/out context change (FL) #17963
+   - 508-defect-2 Mapbox in keyboard user flow #16971
+   - Inconsistent/buggy focus for "Search this area" button #17665
+2. Implement clear this field feature
+3. Implement search-level "use my location" feature
+4. Adopt the form system for Facility Locator to address error message accessibility and become consistent with design system format 
+5. Design and test mobile-first search experience
 
 --- 
 
