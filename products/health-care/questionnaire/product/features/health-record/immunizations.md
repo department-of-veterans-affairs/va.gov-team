@@ -35,7 +35,7 @@ _Note: credentials should be stored in sensitive repos only_
 
 ## User Story A 
 
-### Adding an Immunization
+### Reviewing an Immunization
 
 [Storyboard](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/v/4VDAqo/a/yggvK2K/r/wAbW3j)
 
@@ -46,7 +46,9 @@ _Note: credentials should be stored in sensitive repos only_
 
 ## User Story B
 
-### Viewing an Immunization 
+### Adding an Immunization 
+
+[Storyboard](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/v/4VDAqo/a/yggvK2K/r/wAbW3j)
 
 * Description
 
@@ -55,7 +57,9 @@ _Note: credentials should be stored in sensitive repos only_
 
 ## User Story C
 
-* Use Case 
+### Editing an Immunization
+
+[Storyboard](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/ELLD3Rv)
 
 * Description
 
