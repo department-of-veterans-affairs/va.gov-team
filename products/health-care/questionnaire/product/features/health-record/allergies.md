@@ -52,7 +52,9 @@ _Note: credentials should be stored in sensitive repos only_
 
 ## User Story A 
 
-* Use Case 
+### Viewing allergy information
+
+[Storyboard](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/v/MkqkEQ/a/JnnkYoG)
 
 * Description
 
@@ -61,7 +63,9 @@ _Note: credentials should be stored in sensitive repos only_
 
 ## User Story B
 
-* Use Case 
+### Adding an allergy
+
+[Storyboard](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/v/MkqkEQ/a/JnnkYoG)
 
 * Description
 
@@ -70,7 +74,9 @@ _Note: credentials should be stored in sensitive repos only_
 
 ## User Story C
 
-* Use Case 
+### Editing an allergy
+
+[Storyboard](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/v/MkqkEQ/a/v88p7Wd)
 
 * Description
 
