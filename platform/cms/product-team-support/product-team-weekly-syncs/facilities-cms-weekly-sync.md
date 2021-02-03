@@ -13,13 +13,19 @@
 </details>
 
 <details><summary>Parking lot</summary>
-* [#4084 Prevent h2/h3s in Facility "prepare for your visit" accordions](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4084) (and associated FE ticket [#18986](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18986))
+* [#4084 Prevent h2/h3s in Facility "prepare for your visit" accordions](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4084) (and associated FE ticket [#18986](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18986)) (moved here January 27)
+* #Type of care (Vet Center) field. [#19284](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19284) and [#4147](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4147) (moved here February 3)
+* Breadcrumb cross-team spike 
+ * [#16020 breadcrumb](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16020) (moved to parking lot Feb 3)
 
 </details>
 
 ## February 10 2021
 
-Results of Pittsburgh spelunking.
+* Results of Pittsburgh spelunking. (separate meeting, Stan to schedule)
+
+* fieldDate removed? If so, CMS will merge our PR. 
+
 
 ## February 3 
 
@@ -42,18 +48,16 @@ We can use this framework to discuss content model refactoring epics below.
 ### Vet Centers
 
 * #Type of care (Vet Center) field. [#19284](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19284) and [#4147](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4147)
+  * Decision: Facilities team will delay the FE work until transformers are out. CMS team will put the depracation of the parent terms in the icebox. 
 * CMS roadmap work in progress. 
 
 
 ### Other
 
-[#16020 breadcrumb](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16020)
+* [#16020 breadcrumb](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16020) (moved to parking lot)
+* `fieldDate` on Event listing
+  * CMS still has field_date on Event content type, but will remove it once Facilities strips it out of FE
 
-
-
-### Other, if there's time.
-
-- [#4084 Prevent h2/h3s in Facility "prepare for your visit" accordions](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4084) moved to icebox of CMS team, and this agenda. 
 
 ## January 27 2021 
 
