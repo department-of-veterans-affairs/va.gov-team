@@ -2,7 +2,7 @@
 
 ## Phase I: UAT
 ### Planning:
-- **Desired date range or test duration:** 2/25-3/5
+- **Desired date range or test duration:** 2/25-3/9
 - **UAT Go/No go:** 2/25 (estimate)
 - **Desired number of users:** 10
 - **How you'll recruit the right production test users:** We will recruit users via Perigean.
