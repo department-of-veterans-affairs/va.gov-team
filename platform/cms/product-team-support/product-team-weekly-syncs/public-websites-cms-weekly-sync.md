@@ -45,7 +45,7 @@
 
 ### How we work
 
-New docuementation: [Content model changes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-team-support/content-model-changes.md)
+New documentation: [Content model changes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/product-team-support/content-model-changes.md)
 
 ### Upcoming demo environment trainings
 
