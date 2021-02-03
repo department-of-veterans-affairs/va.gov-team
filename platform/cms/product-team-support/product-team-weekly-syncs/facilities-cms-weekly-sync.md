@@ -36,11 +36,13 @@ We can use this framework to discuss content model refactoring epics below.
 ### Content model refactoring 
 
 * VAMC System Policies 
-
+  * CMS team will be documenting content model in our Sprint 26, so FE can start in March. 
 
 ### Vet Centers
 
 * #Type of care (Vet Center) field. [#19284](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19284) and [#4147](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4147)
+* CMS roadmap work in progress. 
+
 
 ### Other
 
