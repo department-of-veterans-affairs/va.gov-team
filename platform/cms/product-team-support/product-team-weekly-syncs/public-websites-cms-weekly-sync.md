@@ -53,13 +53,27 @@ Are there any short-term needs?
 
 ### CLP
 
-- #3762 Link summary required fields
+Requirements 
+- [x] Form validation errors with closed fieldsets #4137 @kaise-lafrai  **DONE**
+- [ ] Support "Publication date" for videos. **Next up**
+
+Enhancements
+- [ ] Evaluate possibility of improving hero image cropping help text, as an alternative to #3969 **needs issue**
+- [ ] #3762 Link summary required fields
+
+## Resources and support
+
+- [x] Defect: Related information field should be required on Q&A nodes #4090  
 
 ### Video for R&S and CLP
 
 - #3950 Address block styling in Limited rich text editor
  
 ### Benefits detail pages
+
+### Forms
+
+- [x] Migration defect: Forms flagged as deleted not being archived by nightly forms migration #4083  @swirtSJW 
 
 
 ## Wednesday January 27
