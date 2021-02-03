@@ -1,6 +1,8 @@
-# README - Mobile Experience for Map 
+# README - Research: Facility Locator Mobile Experience 
 
-## User Story 
-As a Veteran using a mobile device to search on Facility Locator, I want the experience to be consistent with industry standards. 
-A separate mobile research session will be conducted with a specific assistive tech focus #18685
+## Background 
+
+- In a mobile month study, veterans were not interested in using the map view of facility locator #14484
+- The Facility Locator search experience has not been approached from a mobile-first perspective
+- Planned changes include the implementation of two new usability features ("use my location" and "clear field") and the resolution of accessibility defects
 
