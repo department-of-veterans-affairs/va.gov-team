@@ -37,7 +37,7 @@ _Note: credentials should be stored in sensitive repos only_
 
 ### Reviewing an Immunization
 
-[Storyboard](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/v/4VDAqo/a/yggvK2K/r/8wllEw)
+[Storyboard](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/yggvK2K)
 
 * Description
 
@@ -48,7 +48,7 @@ _Note: credentials should be stored in sensitive repos only_
 
 ### Adding an Immunization 
 
-[Storyboard](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/v/4VDAqo/a/yggvK2K/r/8wllEw)
+[Storyboard](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/yggvK2K)
 
 * Description
 
