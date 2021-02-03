@@ -1,4 +1,4 @@
-# README - Research: Facility Locator Mobile Experience 
+# README - Research: Facility Locator - Mobile Experience 
 
 ## Background 
 
