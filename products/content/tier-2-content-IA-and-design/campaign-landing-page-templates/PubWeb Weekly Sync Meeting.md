@@ -28,6 +28,16 @@
 
 </details>
 
+## Thursday, February 4, 2021
+ 
+### Campaign landing page MVP 1.0
+- FE walk through --> coming up.  
+- Analyticsroundtable review --> Deliverables/followups
+- Collab Cycle --> Staging review scheduling (Post UAT, Post Stakeholder UAT?)
+- Discussion/Questions? 
+
+Notes: 
+
 ## Thursday, January, 28, 2021
  
 ### Campaign landing page MVP 1.0
