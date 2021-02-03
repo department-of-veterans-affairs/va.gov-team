@@ -16,15 +16,15 @@
 
 ## Phase II: Staged Rollout 
 ### Planning
-- Desired date range: _\[mm/dd/yy - mm/dd/yy\]_
-- How will you make the product available in production while limiting the number of users who can find/access it: \[_lorem ipsum_\]
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
-- Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
+We will launch the new profile behind a feature flag and and control what % of users see it using Flipper.
+Phase 1: Test with team (1 day)
+Phase 2: 25% of users (1 week)
+Phas
+**Desired date range:** 3/24-4/6
+**Link to GA Dashboard:** TBD
 
-_The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
 
-### Stage A: Canary
-_Test a small population of users to make sure any obvious bugs / edge cases are caught._
+### Stage 1: 25% of users
 #### Planning
 - Length of time: x (_minimum 2 hours_)
 - Percentage of Users (and roughly how many users do you expect this to be): x% (500 users) (_Recommendation: select a percentage that targets ~500 users, or at most 10%_)
