@@ -81,8 +81,8 @@ There will be a new content-only auto-deploy job in addition to the existing ful
 - It will build content with CMS export data.
 - It will be a recurring job that executes on a more frequent schedule than the daily prod deploy.
 
-The schedule will run between 8am and 8pm ET to align with CMS support hours.
-- It will initially be set to run hourly as a conservative cadence.
+The initial schedule will run between 8am and 8pm ET to align with CMS support hours.
+- At first, it will be set to run hourly as a conservative cadence.
 - It will then be incrementally adjusted to a higher frequency as the build system allows.
 
 To avoid deploying when content hasn't changed since the previous deploy, the job will compare the export data (e.g., using and archiving the checksums of the tarballs).
