@@ -21,10 +21,21 @@
 
 </details>
 
-## Friday Feb 5 10am ET
+## Friday Feb 12 10:30am ET
 
-- user administration
-- 
+- Tugboat
+- User administration
+- Put Facility health service editorial experience 
+  - required fields (phone number labels)
+  - Table caption 
+
+## Friday Feb 5 10:30am ET
+
+- Tugboat
+- User administration
+- Put Facility health service editorial experience 
+  - Required fields (phone number labels)
+  - Table caption 
 
 ## Friday Jan 29 10am ET 
 
