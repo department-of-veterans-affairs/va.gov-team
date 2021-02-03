@@ -1,57 +1,19 @@
 # Direct Deposit for EDU Release Plan
 
 ## Phase I: UAT
-
 ### Planning:
-- Desired date range or test duration: [date - date] or [duration]
-- Desired number of users: x
-- How you'll recruit the right production test users: lorem ipsum
-- How you'll conduct the testing: lorem ipsum
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: lorem ipsum
+- **Desired date range or test duration:** 2/25 - 3/1 (5days)
+- **Desired number of users:** 10
+- **How you'll recruit the right production test users:** We will recruit users via Perigean.
+- **How you'll conduct the testing:** We will conduct UAT over Zoom to ensure the different features work correctly.
+- **How you'll give the test users access to the product in production w/o making it live on VA.gov:** The feature will be behind a feature flag. 
+- We need to make sure to include users who have education benefits.
 
-### Results:
-- Number of users: x
-- Number of bugs identified / fixed: x/x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+### Results/Issues:
+- **Number of users:** TBD
+- **List of bugs/issues found:** TBD
 
 ## Phase II: Staged Rollout 
-
-### Do I need a staged rollout?
-
-**Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
-
-* This change does not add substantial new functionality to VA.gov
-* This change does not impact user flows through tasks
-* This change does not affect traffic to backend services
-
-*Example*: a change to a page's text content **could skip** staged rollout
-
-*Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout
-
-*Example*: adding a new field to an existing form **could skip** staged rollout
-
-*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**
-
-*Example*: a significant change to how users navigate an existing form **needs staged rollout**
-
-*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **needs staged rollout**
-
-#### Exceptions
-
-Right now, [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) are the primary tool VSP provides for facilitating staged rollout. If feature toggles don't work for your use case, you can request an exception from staged rollout in Staging Review.
-
-| Feature type | Possible with feature toggles? |
-| --- | --- |
-| New feature in existing application | Yes |
-| New application | Yes |
-| Static content changes | Doable but tricky |
-| URL redirects | No |
-
-Other exceptions to this requirement can be approved by DEPO VSP leads.
-
 ### Planning
 
 - Desired date range: _\[mm/dd/yy - mm/dd/yy\]_
