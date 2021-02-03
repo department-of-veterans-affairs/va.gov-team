@@ -12,16 +12,16 @@ be behind a feature flag.
 - **Research plan for UAT**: To be added 
 
 ### Results/Issues:
-- **Number of users:** TBD
+- **Number of users:** 10
 - **List of bugs/issues found:** TBD
 
 ## Phase II: Staged Rollout 
 ### Planning
 We will launch the new profile behind a feature flag and and control what % of users see it using Flipper.
-Test with team (1 day), Dates:
+Test internally behind a feature flag with the team (1 day), Dates:
 25% of users (1 week), Dates:
 50% of users (1 week), Dates:
-If all looks well, then go to 100% of users
+If all goes well, then go to 100% of users
 **Desired date range:** 3/24-4/6
 **Link to GA Dashboard:** TBD
 
@@ -36,7 +36,7 @@ Metric
 ### Planning:
 **Desired date:** Desired:mm/dd/yy,  Actual: mm/dd/yy
 
-- [Go / No Go Results][https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
+- [Go /No Go Results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md)
 
 ### 1-week results:
 Dashboard results for week 1:
