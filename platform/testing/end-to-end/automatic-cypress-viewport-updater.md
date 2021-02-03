@@ -1,4 +1,4 @@
-# Automatic Cypress Viewport Updater
+# Cypress Viewport Updater Bot
 
 The Automatic Cypress Viewport Updater updates the following files in `vets-website` each month with recent data from Google Analytics:
 
