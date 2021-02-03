@@ -43,5 +43,104 @@ This study:
 - will not test screen reader, keyboard or other Assistive Technology use; findings may not reveal problems that users with these technological constraints may encounter.
 - will use a prototype with a map that will differ in how a fully programmed website will behave when a user uses certain gestures to adjust the map. 
 
+## Participants and Recruitment
+
+- We will utilize the Perigean contract for **recruiting and notetaking**.
+- We'd like to schedule 15 participants to reach our goal of observing **10 participants**. 
+
+## Participants:
+
+A total of 15 participants will be interviewed:
+
+1. Name <email@email.com>
+
+2. Name <email@email.com>
+
+3. Name <email@email.com>
+
+4. Name <email@email.com>
+
+5. Name <email@email.com>
+
+6. Name <email@email.com>
+
+7. Name <email@email.com>
+
+8. Name <email@email.com>
+
+9. Name <email@email.com>
+
+10. Name <email@email.com>
+
+11. Name <email@email.com>
+
+12. Name <email@email.com>
+
+13. Name <email@email.com>
+
+14. Name <email@email.com>
+
+15. Name <email@email.com>
 
 
+### Participant Criteria:
+
+**Primary Criteria**
+
+- Be a Veteran, active duty service member, reservist, or national guard member.
+
+**Secondary Criteria**
+
+At least:
+- 3 participants living in a rural or remote area
+- 3 participants living in a major metropolitan area
+- 2 participants that do not have a college degree
+- 4 females
+- 2 participants of color
+- 2 participants 35 or under
+- 2 participants 36 - 50
+- 2 participants 51 - 65
+- 2 participants 66 - over
+- 2 participants with cognitive disabilities
+- 2 participants with a disability rating of 70% or greater
+
+## Recruitment Process
+- We'd like to schedule 15 participants to reach our goal of 10 fulfilled sessions.
+- Researcher will work with Perigean to draft recruitment email and send out an interest email to Veterans
+- Perigean sends another recruitment email (if needed)
+
+
+## Timeline
+
+Study dates: MM/DD - MM/DD, 2021
+Session length: 60 minutes
+
+Date | Time in Eastern | Slots
+-----|-----------------------|-------
+Tuesday, Jan 5 [PILOT] | 12 pm | 1
+Wednesday, Jan 6 | 2 pm, 5 pm, 7 pm | 3
+Thursday, Jan 7 | 3 pm, 5 pm, 7 pm | 3
+Friday, Jan 8 | 1 pm, 3 pm, 5 pm, 7 pm | 4
+Monday, Jan 11 | 2 pm, 5 pm, 7 pm | 3
+Tuesday, Jan 12 | 3 pm, 5 pm | 2
+
+
+## Team Roles	
+Please list the people who will be serving in each role. 
+- Moderator: 
+- Research guide writing and task development: 
+- Participant recruiting & screening: Perigean
+- Project point of contact: 
+- Participant(s) for pilot test: 
+  -  
+  - 
+- Observers: 
+  - Dave Conlon <david.conlon@va.gov> 
+  - Michelle Middaugh <michelle.middaugh@adhocteam.us>
+  - Shawna Hein <shawna@adhocteam.us>
+  - Leyda Hughes <leyda.hughes@adhocteam.us>
+- Optional/Guest Observers:
+  - 
+  - 
+  - 
+- Note-takers: Perigean 
