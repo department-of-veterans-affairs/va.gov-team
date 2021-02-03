@@ -1,5 +1,5 @@
 # Product Brief
-Facility Locator Map Enhancements: Mobile Experience
+FL Search experience, Phase 2: Usability and Accessibility
 ---
 
 ## Overview
