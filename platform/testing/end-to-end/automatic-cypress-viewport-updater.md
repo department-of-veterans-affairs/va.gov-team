@@ -42,7 +42,7 @@ The updater is a Sidekiq job on `vets-api` that runs at 12pm EST on the 3rd of e
 - Job VCR cassettes: `spec/support/vcr_cassettes/cypress_viewport_updater`
 - Scheduled job: `config/sidekiq_scheduler.yml`
 
-The job is scheduled to run on the 3rd day of each month at noon because it apparently takes Google 24-48 to fully update Google Analytics data. Official documentation about how often Google updates Google Analytics data could not be found but [this article](#https://www.ecommercetribune.com/marketing/analytics-data/how-often-does-google-analytics-update/) recommends 24-48 hours, which is a common recomendation found on many websites:
+The job is scheduled to run on the 3rd day of each month at noon because it apparently takes Google 24-48 hours to fully update Google Analytics data. Official documentation about how often Google updates Google Analytics data could not be found but [this article](#https://www.ecommercetribune.com/marketing/analytics-data/how-often-does-google-analytics-update/) recommends 24-48 hours, which is a common recomendation found on many websites:
 
 > …according to Google, the statistics update every 24 hours for standard accounts. Google also states that it might have a processing latency of 24-48 hours for the accounts which send more than 200.000 sessions per day. This can delay the updates for up to 2 days.
 >
