@@ -19,12 +19,12 @@ That said, there were some problem areas that we’ll focus on later in this rep
 
 **Quotes**
 >  I like the way the appointments are broken into a bubble. Before it use to be a table and it was written out.  I like that the appointments are in order and I can just click on it to see what it is. And then see it is a phone appointment instead of searching through 3 pages to see I have appointments. -P3
+
 >  I like that Express Care here has a phone and that tells me it is a phone appointment and this other one tells me it is a video appointment so I don’t need to drive for it -P3
+
 > Cancelled appointment should tell you who cancelled it and when you click on it, it tells you. There are times that appointments are cancelled and I don’t know who did. It is nice that they have you cancelled it so I can think back to see why I cancelled it. Or if I click it and it says the va cancelled and gives a date and number. -P3
 
 ## Results
-
-
 
 Note that while a small study like this works well for validating usability, the opportunities below should be further researched and validated before action is taken.
 
@@ -46,8 +46,14 @@ While participants were able to navigate through the three requests displayed, i
 
 **Quotes**
 > It would be nice to see if someone on the other side said they saw \[the appointment request\]. If I requested and they haven’t responded just show me that. - P2
-> \[Looking at the list of appointment requests\] Primary care is at the top because everything goes through primary care and specialty would be in ABC order or when the appointments are. This is February. It must be in ABC order; they must be in alphabetical order. - Pe
-**
+
+> \[Looking at the list of appointment requests\] Primary care is at the top because everything goes through primary care and specialty would be in ABC order or when the appointments are. This is February. It must be in ABC order; they must be in alphabetical order. - P3
+
+> This \[request detail\] page doesn’t tell me anything because it has only been submitted. How do you know they even looked at it, there is no indication. I would have to call the clinic to see if they have my request and if I would have an appointment. - P3
+
+> After I request the appointments I would go check on them to see if the requested appointments were approved. If they weren't I would call or email telling them I scheduled via the software and haven’t heard anything so please give me a call. That happened today, I am going back today to pick up a handicap plaque. I messaged them and asked if it is ready. No one called to tell me it was ready. 
+ -P5
+
 
 ### The need to see the Type of Care associated with an appointment only came up indirectly
 
@@ -72,28 +78,40 @@ Some participants also refer to their records of past appointments to find facil
 **Quotes**
 > If I need to schedule my yearly physical or get blood work I would look at my personal calendar. I know it's been longer than 3 months. - P2
 
+> A lot of times they ask when they saw me last and I can pull \[this past appointments list\] up and tell them I saw them December 31 and this started two weeks after I saw you. -P3
+
 ### A record of canceled appointments would help Veterans feel in control
 
 Participants reported that seeing who canceled an appointment, and when, would help them make better choices around providers. For example, if one facility keeps canceling an appt, the Veteran may decide to go elsewhere. 
 
 In addition, participants wanted some direction as to the next steps after an appointment is canceled. Will the doctor follow up? Should they?
 
+**Opportunities**
+* Consider adding a reschedule option to canceled appointments, to make this process easier when a scheduler cancels a Veteran's appointment.
+
 **Quotes**
 > It's happened where all my appointments were cancelled for a month and a half. If it's cancelled by me that’s one thing but if it was cancelled by them I would expect a physical call and reschedule on their part. - P2
+
 >I schedule around work - like going in late or leaving early. If I take a day off and they cancel it I am SOL. Trying to reschedule it is a bit of a pickle. - P2
 
+> I had a provider that constantly cancelled appointments. I had no way to track how many times he cancelled it and it allowed me to go to community care for the specialties because he kept cancelling. If you can track who cancelled them that gives the Vets more power in case they have an issue with a provider cancelling the appointments. - P3
+
+>  if I cancelled it I would want to reschedule it. It provides the number, doesn’t give you the option to reschedule. -P5
+
+> So it says it has been rescheduled. The one thing that normally misses is the screen asking if you are sure you want to change the appointment. This was so easy to hit it didn’t give me an option to confirm. - P5
 
 ### Self-rescheduling is empowering
 Participants were excited about the ability to easily reschedule.
 
-
 **Recommendations**
-* Add a confirmation screen before the reschedule is complete
-* Add a temporary indicator to the appointment thumbnail that the appt has been rescheduled
+* Add a confirmation screen before the reschedule is complete.
+* Add a temporary indicator to the appointment thumbnail that the appt has been rescheduled.
 * One participant wanted to reschedule canceled appts. This could be an option on the detail page.
 
 **Quotes**
 > I hope to reschedule it doesn’t take you to a year out but to the next available appointment. - P3
+
+> \[Rescheduling like that\] was wicked easy. What I have been doing is 10 times harder than that. You either need to call or text them of canceling then go through the process of scheduling.
     
 ### Static landing page
 * All users quickly found the main CTA
@@ -102,8 +120,39 @@ Participants were excited about the ability to easily reschedule.
 
 **Quotes**
 > Let me reread it. I am guessing I can make an appointment or request one here. I am not sure. - P2
+
 > The first time I read this but now I just click on the blue button. Most of the time on the VA if it is in blue you can click it and get somewhere else. - P3
+
 > Every page starts with COVID stuff but no one reads that anymore. -P3
+
+> I was confused when it say it may be faster to schedule over the phone. If it displays here why should I then go to the phone. -P8
+
+> There is a lot of FAQ’s but they never seem to be my questions. -P8
+
+### Appointment reminders are inconsistent
+Most users reported some issue around the volume of notifications (including text, email, phone, and paper) they receive from the VA. Sometimes there are too many, sometimes none, and often it varies based on the provider.
+
+The content of the notifications they receive is generally helpful, though one user reported that sometimes the phone numbers are incorrect.
+
+Most users track their appointments across multiple systems: desk calendar, email, digital calendar, etc. Some create additional reminders for their appointments. Others rely on a calendar they review daily.
+
+**Quotes**
+> I have Outlook on my phone and I track it there. I have reminders two weeks out and the day of. It tells me what time I need to leave. And I have it written on the desk calendar. - P3
+
+>Last month I had an appointment and I got \[no notification\]. I almost forgot but my phone reminded me. The clinic is three hours away. 
+The Veterans I help \[with transport\] are in their 80’s. It's a two-day trip; we take them there for their appointments and drive back the next day. - P3
+
+> Before COVID you would get the post card a month prior, or a call or text/email. You would have one of these ways. Now due to COVID you get nothing, too much or just one email. - P3
+
+> Text message reminders are fine if it's maybe one the week of, and one the day before. But sometimes I end up getting 15 texts that are all the same message and makes me confirm or cancel it.  It just gets very annoying after awhile. - P3
+
+> I had an exam and I logged in and saw it was cancelled but never got notification. I only saw it was cancelled because of the website. I could have went. It has happened before and I have driven to the appointment and they had cancelled it on a Monday morning and did it on the website. -P5
+
+> I get anxiety that I will be late but they are always late anyways so its when you get there you get there. I try to leave early to get there early. Then they take my blood pressure twice because it is high when I get there. Every time. -P5
+
+> I am old school and I call \[to schedule my appointment\]. I usually leave a message and call back but normally they wont call back so I have to call again so I need to learn to do this. - P8
+
+>  I write my appointments on a desk calendar and usually they send me an email confirmation so I keep the email so I can access the appointment details.  I am very non-technical. I used to fly airplanes but when it comes to this I am old school. - P8 
 
 
 ### General scheduling feedback
@@ -123,27 +172,28 @@ About half of the participants were aware of VAOS, but don’t use it because of
 
 **Quotes**
 > It's 'hurry up and wait' in the military from bootcamp to waiting for appointments. - P2
+
 > I would hope \[to get a call back from a request\] within a day but the earliest I've gotten a call back was maybe 2 days. - P2
+
 > Some appointments I can schedule using myhealthevet.gov. Others I have to call like ten thousand times to make an appointment. Others they just make for me and send me a card and tell me I am there. - P3
+
 > The biggest problem is you call and it keeps ringing especially for the specialty clinics - you can spend 3 days on the phone trying to get an appointment. It's not their fault they are understaffed and overworked. I understand that because I work Veterans. - P3
+
 > I used to take my appointment summary to the VA and they would \[put in the travel pay reimbursement\]. But now I have to scan it and redo it and wait for it to be rejected and appeal it and it takes almost a year to get paid. They reject it regularly. - P3
+
 > I have been waiting a month for a rotator cuff tear. You have to wait for the community care permission which takes a month then wait for the space. It needs to be streamlined, there are too many ways to fail. - P3
+
 > I have used this page before. It is how I have scheduled appointments but the place I go doesn’t have many appointment available. And since COVID you can't make an appointment. When you try to schedule online they make you call to schedule. - P3
+
 > I needed an appointment within 6 months and that was last February and I was just seen last week. By the time that they see the request and get it in the computer it is already 6 months out. - P3
+
 > Say I had an appointment Monday but I have class. I would say I need to reschedule but they tell me there’s no time within the next 3 months. I would not have a choice to take it because I was supposed to be seen. You would have to call every day to see if there are openings for the next day. It would be nice if you put something on here to be put on a waitlist and out your dates. If your name is at the top they could slide you in and be seen.
 
+> Every department has 5 different numbers and most just ring. I don’t have an issue with the VA just the administration. There are too many numbers and connects that go nowhere. -P5
 
-### Appointment reminders are inconsistent
-Most users reported some issue around the volume of notifications (including text, email, phone, and paper) they receive from the VA. Sometimes there are too many, sometimes none, and often it varies based on the provider.
+> When I tried to \[schedule with VAOS\] in the past it didn’t work for me. I wasn’t allowed to do it, maybe its where we are  and they weren’t ready for the software. I just email the department instead and tell them I need to follow up and they either call or email me back. - P5
 
-The content of the notifications they receive is generally helpful, though one user reported that sometimes the phone numbers are incorrect.
+> The VA does block scheduling, it doesn’t matter when your appointment is. If you get there at 8 you get seen first. It's when you get there is when your appointment is . all that does is make veterans angry because they have an appointment at 1-0 but don’t get seen until 11:30am. - P5
 
-Most users track their appointments across multiple systems: desk calendar, email, digital calendar, etc. Some create additional reminders for their appointments. Others rely on a calendar they review daily.
+> Travel pay should be automatic, they know where veterans are coming form they have our address. I mean how else are we supposed to get there, transport? I want a one stop shop instead of logging into multiple government websites. - P5
 
-**Quotes**
-> I have Outlook on my phone and I track it there. I have reminders two weeks out and the day of. It tells me what time I need to leave. And I have it written on the desk calendar. - P3
->Last month I had an appointment and I got \[no notification\]. I almost forgot but my phone reminded me. The clinic is three hours away. 
-The Veterans I help \[with transport\] are in their 80’s. It's a two-day trip; we take them there for their appointments and drive back the next day. - P3
-
-
-> Text message reminders are fine if it's maybe one the week of, and one the day before. But sometimes I end up getting 15 texts that are all the same message and makes me confirm or cancel it.  It just gets very annoying after awhile. - P3
