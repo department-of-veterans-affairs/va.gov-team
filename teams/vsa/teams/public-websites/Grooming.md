@@ -37,6 +37,9 @@
 - [ ] CMS, design system, components [SCREENREADER, KEYBOARD]: Aside SHOULD not be contained in another landmark [#6379](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6379)
 - [ ] CMS [COGNITION]: Multiple ambiguities with linked text in content block [#3556](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3556)
 
+Notes/Next Steps: 
+Adding a Discovery Ticket to validate Transformer work need to reach 1:1 parity for PubWeb team:  Discovery: JSON comparison tool 'Diffs' and assessment on reaching 1:1 Parity for Public Website #19469
+
 ### Campaign landing page MVP 1.0
 - Planning/Grooming Doc
 - CLP Build, launch and learn 
@@ -44,6 +47,8 @@
 - CLP x Collab EPIC [#11004](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11004) 
 
 Notes/Next Steps:
+@Team - conduct a walk through tomorrow in order to assess FE layout and validate any bugs/styling tickets that need to be created in support of UAT testing to follow.  
+Next Step --> Internal UAT Testing/Validation 
 
 ### Resources and Support MVP 1.1
 [MVP 1.1 EPIC #15588](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15588) [Iterate EPIC #15584](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15584)
@@ -52,6 +57,8 @@ Notes/Next Steps:
 - Bugs and 508 issue considerations
 
 Notes/Next Steps: 
+Decision - Validating Video component build by CMS team, will wait to action video ticket until next sprint when we obtain confirmation from CMS team that ticket is ready for action.
+Next Step --> Build out Video element during next sprint workflow.  Assess during planning session. 
 
 ### Technical Debt Oppurtunities 
 - [Tech Debt EPIC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7790)
@@ -61,12 +68,11 @@ Notes/Next Steps:
 ### In-Take and Redirect request: 
 - [#19292](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19292) CMS Team Request
 
-
 Notes/Next Steps:  
-
+Next Step --> Validated during grooming, plan to action next spring per discussion. 
 
 ### Team Clarity Requests: 
- 
+None - During team session. 
 
 ## Wednesday, January, 20, 2021
  
