@@ -53,18 +53,15 @@ Jan 2021 | 1,242,306 | 2,541 | 0.2% |
 ## Go Live!
 
 ### Planning:
-- Desired date: mm/dd/yy
+- Desired date: Monday, March 1, 2021 (tentative)
 - Post-launch KPI 1: xx lorem ipsum
 - Post-launch KPI 2: xx lorem ipsum
-- Post-launch KPI 3: xx lorem ipsum
-- etc
 - Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
 
 ### 1-week results:
 - Number of unique users: x
 - Post-launch KPI 1 actual: xx lorem ipsum
 - Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
 - Any issues with VA handling/processing?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
@@ -74,7 +71,6 @@ Jan 2021 | 1,242,306 | 2,541 | 0.2% |
 - Number of unique users: x
 - Post-launch KPI 1 actual: xx lorem ipsum
 - Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
 - Any issues with VA handling/processing?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
