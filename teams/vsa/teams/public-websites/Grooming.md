@@ -60,7 +60,7 @@ Notes/Next Steps:
 
 ### In-Take and Redirect request: 
 - [#19292](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19292) CMS Team Request
-- [#10928](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10928) Cerner Health Pages 
+
 
 Notes/Next Steps:  
 
