@@ -1,6 +1,6 @@
 # Authenticated experience roadmap
 
-**Updated December 2020**
+**Updated February 2021**
 
 ## Current projects
 
