@@ -18,7 +18,7 @@ These are the building blocks which we are putting in place to foster consistenc
 ## Planning & Executing the Work
 
 - [X] **Sprint Ceremonies** 
-- [X] **Sprint Planning/Grooming Approach** - For unauth, we will adopt [this sprint plan approach](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18941) to ensure meeting efficiency and reduce coginitive demand as the PO transitions from one team ceremony to the next.
+- [X] **Sprint Planning/Grooming Approach** - For unauth, we will adopt [this sprint plan approach](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18941) to ensure meeting efficiency and reduce coginitive demand as the PO transitions from one team ceremony to the next.  For Grooming, we will use [this template.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Grooming.md)
 - [ ] **Quarterly Planning Approach** - A "working" six sprint planning sheet in the same format as a [single sprint plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18941).
 - Mural version - https://app.mural.co/t/vsa8243/m/pubweb1445/1608311310028/52bac376793a7c66326264d954f27d50ac023ae8
 
