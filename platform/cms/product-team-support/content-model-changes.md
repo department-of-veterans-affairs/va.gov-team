@@ -1,4 +1,4 @@
-[seeking input Week of February 1, 2021. Deadline: Friday February 5, EOD]
+[seeking input Week of February 1, 2021. Deadline: Wednesday February 10, EOD]
 
 # Content model changes in VA.gov CMS
 
