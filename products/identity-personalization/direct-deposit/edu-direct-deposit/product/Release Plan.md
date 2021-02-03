@@ -18,10 +18,10 @@ be behind a feature flag.
 ## Phase II: Staged Rollout 
 ### Planning
 We will launch the new profile behind a feature flag and and control what % of users see it using Flipper.
-Test internally behind a feature flag with the team (1 day), Dates:
-25% of users (1 week), Dates:
-50% of users (1 week), Dates:
-If all goes well, then go to 100% of users
+- Test internally behind a feature flag with the team (1 day), Dates:
+- 25% of users (1 week), Dates:
+- 50% of users (1 week), Dates:
+- If all goes well, then go to 100% of users
 **Desired date range:** 3/24-4/6
 **Link to GA Dashboard:** TBD
 
