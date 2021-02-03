@@ -8,7 +8,8 @@
 - How will you make the product available in production while limiting the number of users who can find/access it:
   - va_online_scheduling_provider_selection feature toggle
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
-  - Preference step completion diff >0%
+  - Preference step completion &#916; >0%
+  - Request submissions &#916; >0%
 - Links to dashboard(s) showing "success criteria" metrics: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/18828]
 
 **User Impact**
@@ -20,12 +21,26 @@ Jan 2021 | 1,242,306 | 2,541 | 0.2% |
 
 ### Stage A: Canary
 
-_Test a small population of users to make sure any obvious bugs / edge cases are caught._
+#### Planning
+
+- Length of time: 1-2 days
+- Percentage of Users: 10%
+  - Will increase if there aren't enough appointments coming through as a sample size
+
+#### Results:
+- Number of unique users: x
+- Metrics at this stage (per your "success criteria"): x
+- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
+- Types of errors logged: lorem ipsum
+- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
+
+### Stage B: moderate
 
 #### Planning
 
-- Length of time: x (_minimum 2 hours_)
-- Percentage of Users (and roughly how many users do you expect this to be): x% (500 users) (_Recommendation: select a percentage that targets ~500 users, or at most 10%_)
+- Length of time: 1 week
+- Percentage of Users: 30-60% (dependent on canary results)
+  - Possible gradual increase throughout this stage
 
 #### Results:
 - Number of unique users: x
