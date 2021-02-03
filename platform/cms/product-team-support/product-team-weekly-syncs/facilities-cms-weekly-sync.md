@@ -35,7 +35,7 @@ We can use this framework to discuss content model refactoring epics below.
 
 ### Content model refactoring 
 
-Policies
+* VAMC System Policies
 
 
 ### Vet Centers
@@ -48,7 +48,7 @@ Policies
 
 
 
-### Other
+### Other, if there's time.
 
 - [#4084 Prevent h2/h3s in Facility "prepare for your visit" accordions](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4084) moved to icebox of CMS team, and this agenda. 
 
