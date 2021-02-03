@@ -65,6 +65,7 @@ _Note: credentials should be stored in sensitive repos only_
 
 * Feature Capabilities
 
+| --------------------------------------------------------------------------------------------------------- | 
 
 Other use cases that lend themself more to a Health Record section and not Questionnaire:
 1. [Viewing and scheduling an immunization](https://www.sketch.com/s/f84952b4-9e8b-457d-b25e-5015c92e3913/a/xrr8Km5)
