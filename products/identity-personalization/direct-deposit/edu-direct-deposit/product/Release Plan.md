@@ -35,7 +35,8 @@ Metric
 ## Go Live!
 ### Planning:
 **Desired date:** Desired:mm/dd/yy,  Actual: mm/dd/yy
-[Go / No Go Results][https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
+
+- [Go / No Go Results][https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
 
 ### 1-week results:
 Dashboard results for week 1:
