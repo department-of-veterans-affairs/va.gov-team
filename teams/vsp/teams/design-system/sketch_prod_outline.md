@@ -1,4 +1,4 @@
-# Sketch Libary Product Outline - DRAFT
+# Sketch Libary Product Outline
 
 ## Overview
 
