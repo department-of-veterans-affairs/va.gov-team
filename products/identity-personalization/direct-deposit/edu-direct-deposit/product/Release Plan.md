@@ -2,7 +2,7 @@
 
 ## Phase I: UAT
 ### Planning:
-- **Desired date range or test duration:** 2/25 - 3/1 (5 days)
+- **Desired date range or test duration:** 2/25-3/5
 - **Desired number of users:** 10
 - **How you'll recruit the right production test users:** We will recruit users via Perigean.
 - **How you'll conduct the testing:** We will conduct UAT over Zoom to ensure the different features work correctly.
