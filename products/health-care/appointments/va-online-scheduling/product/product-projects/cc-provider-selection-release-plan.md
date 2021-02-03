@@ -4,7 +4,7 @@
 
 ### Planning
 
-- Desired date range: _\[mm/dd/yy - mm/dd/yy\]_
+- Desired date range: Wednesday, February 17, 2021 - Sunday, February 28, 2021 (tentative)
 - How will you make the product available in production while limiting the number of users who can find/access it:
   - va_online_scheduling_provider_selection feature toggle
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
