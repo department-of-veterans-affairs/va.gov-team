@@ -117,7 +117,7 @@ At least:
 Study dates: MM/DD - MM/DD, 2021
 Session length: 60 minutes
 
-**Dates below are placeholder until participants are recruited and scheduled**
+**Dates below are placeholders until participants are recruited and scheduled**
 
 Date | Time in Eastern | Slots
 -----|-----------------------|-------
