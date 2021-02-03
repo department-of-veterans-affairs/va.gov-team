@@ -6,4 +6,6 @@
 - The Facility Locator search experience has not been approached from a mobile-first perspective
 - Planned changes include the implementation of two new usability features ("use my location" and "clear field") and the resolution of accessibility defects
 
-Link to Issue #19076<https://github.com/department-of-veterans-affairs/va.gov-team/issues/19076>
+[Github Issue #19076](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19076)
+
+[Prototype to be tested](https://preview.uxpin.com/c60117d778b6116d11f6fc707a5ac6d953d91aa0#/pages/136040014?mode=chidfm)
