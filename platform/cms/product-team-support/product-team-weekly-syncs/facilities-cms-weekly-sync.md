@@ -29,9 +29,10 @@ Seeking input on [Content model changes documentation](https://github.com/depart
 
 We can use this framework to discuss content model refactoring epics below.
 
-### Upcoming demo environment traings 
+### Upcoming demo environment training 
 
 * Tentatively 12pm ET Thursday February 11th. 
+  
 
 ### Content model refactoring 
 
