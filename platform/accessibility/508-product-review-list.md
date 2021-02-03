@@ -748,9 +748,7 @@ Back to [Table of Contents](#table-of-contents)
 
 **Audit status:** _[First staging review done December 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17542). Will finish the review in production in January 2021._
 
-**Open issues**
-
-- [508-defect-2 [COGNITION]: Contact Us - Table of contact links and information must have well-formed HTML - #17984](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17984)<br/>**Opened:** December 31, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+**No open issues**
 
 Back to [Table of Contents](#table-of-contents)
 
