@@ -31,11 +31,11 @@ We can use this framework to discuss content model refactoring epics below.
 
 ### Upcoming demo environment traings 
 
-* Tentatively next week, more info by Friday. 
+* Tentatively 12pm ET Thursday February 11th. 
 
 ### Content model refactoring 
 
-* VAMC System Policies
+* VAMC System Policies 
 
 
 ### Vet Centers
