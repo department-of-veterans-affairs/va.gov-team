@@ -8,6 +8,7 @@
 - **How you'll conduct the testing:** We will conduct UAT over Zoom to ensure the different features work correctly.
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** The feature will be behind a feature flag. 
 - We need to make sure to include users who have education benefits.
+- **Research plan for UAT**: To be added 
 
 ### Results/Issues:
 - **Number of users:** TBD
@@ -15,7 +16,6 @@
 
 ## Phase II: Staged Rollout 
 ### Planning
-
 - Desired date range: _\[mm/dd/yy - mm/dd/yy\]_
 - How will you make the product available in production while limiting the number of users who can find/access it: \[_lorem ipsum_\]
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
@@ -24,14 +24,10 @@
 _The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
 
 ### Stage A: Canary
-
 _Test a small population of users to make sure any obvious bugs / edge cases are caught._
-
 #### Planning
-
 - Length of time: x (_minimum 2 hours_)
 - Percentage of Users (and roughly how many users do you expect this to be): x% (500 users) (_Recommendation: select a percentage that targets ~500 users, or at most 10%_)
-
 #### Results:
 - Number of unique users: x
 - Metrics at this stage (per your "success criteria"): x
@@ -40,21 +36,16 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 - What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
 
 ### Stage B: moderate
-
 _Test a larger population of users to make sure there are no issues exposed by larger usage patterns._
-
 #### Planning
-
 - Length of time: x (_minimum 1 day_)
 - Percentage of Users (and roughly how many users do you expect this to be): 25% (x users)
-
 #### Results:
 - Number of unique users: x
 - Metrics at this stage (per your "success criteria"): x
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
 - What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
-
 _More stages? Sure! If it makes sense for your product! Plan them out with the same structure as above._
 
 ## Go Live!
