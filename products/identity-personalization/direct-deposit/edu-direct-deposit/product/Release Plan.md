@@ -9,8 +9,7 @@
 - **How you'll conduct the testing:** We will conduct UAT over Zoom to ensure the different features work correctly.
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** The feature will
 be behind a feature flag. 
-- We need to make sure to include users who have education benefits.
-- **Research plan for UAT**: To be added 
+- **Link to Research plan for UAT**:To be added 
 
 ### Results/Issues:
 - **Number of users:** 10
@@ -19,8 +18,6 @@ be behind a feature flag.
 ## Phase II: Staged Rollout 
 ### Planning
 **Desired date range:**
-We will launch the new profile behind a feature flag and and control what % of users see it using Flipper.
-- Test internally behind a feature flag with the team (1 day), Dates:
 - 10% of users (1 week), Dates:3/15-3/19 (S43)
 - 25% of users (1 week), Dates:3/24-3/31 (S44)
 - 50% of users (1 week), Dates:4/1-4/6 (S44)
