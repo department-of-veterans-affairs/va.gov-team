@@ -73,7 +73,7 @@ Enhancements
 
 ### Forms
 
-- [x] Migration defect: Forms flagged as deleted not being archived by nightly forms migration #4083  @swirtSJW 
+- [ ] Migration defect: Forms flagged as deleted not being archived by nightly forms migration #4083  @swirtSJW 
 
 
 ## Wednesday January 27
