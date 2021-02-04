@@ -137,11 +137,12 @@ and components to render at each route.
 _None_
 
 **Responsibilities:**
-1. Provide the `RouterContext` to its children which may be used to:
+1. Provide the route manager as a React context to its children which may be
+   used to:
     - Directly modify the routes at runtime by custom components if needed
     - Compute the data path for form builder components with route path data
       substitution
-      - See [form builder](#sub-module-form-page-builder) for more information
+      - See [data paths](#data-paths) for more information
 1. Build a list of the route definitions from its children's `path` props
     - `Page`s nested in `Chapter`s will have their paths prefixed with the
       `Chapter` path
@@ -201,11 +202,6 @@ A `Page` may be the child of either `Router` directly or `Chapter`.
 **Responsibilities:**
 - Render the form navigation buttons "Back" and "Continue"
 - Prevent navigation if there are validation errors
-
-##### Functionality: Navigating
-The "Back" and "Continue" buttons will use the `RouterContext` described in
-[Component: `Router`](#component-router) to tell the `Router` to render the next
-or previous page.
 
 ##### Functionality: Array pages
 **TODO:** Fill this in...
