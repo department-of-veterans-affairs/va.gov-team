@@ -95,4 +95,4 @@
 Three separate tests (one each for Medications, Allergies, and Immunizations)
 - Importance ranking on possible data we can display via Optional Workshop.
 - Participatory design activity in Mural, where the Veteran builds an interface for a home page and a details page
-- Follow-up questions about if these ideas help solve any pain points that experience when communicating with their VA providers. Ask if there is anything they have experienced that wasn't covered by what they saw?
+- Follow-up questions about if these ideas help solve any pain points that they experience when communicating with their VA providers. Ask if there is anything they have experienced that wasn't covered by what they saw?
