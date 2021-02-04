@@ -17,6 +17,8 @@ That said, there were some problem areas that we’ll focus on later in this rep
 
 *Fig.1 - Usability results*
 
+
+
 **Quotes**
 >  I like the way the appointments are broken into a bubble. Before it use to be a table and it was written out.  I like that the appointments are in order and I can just click on it to see what it is. And then see it is a phone appointment instead of searching through 3 pages to see I have appointments. -P3
 
